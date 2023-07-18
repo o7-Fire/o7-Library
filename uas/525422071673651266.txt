@@ -1,0 +1,4 @@
+.alfa_kill
+plane-crazy 2019-06-27 09:13:13 ;verify
+plane-crazy 2019-06-27 09:12:47 !verify
+plane-crazy 2019-06-27 09:12:35 !verfy

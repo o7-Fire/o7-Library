@@ -1,0 +1,4 @@
+Green Persons
+plane-crazy 2020-07-24 05:35:21 If I have infinite fuel on true, it won't lift off, if I have it at false, it lift off
+plane-crazy 2020-07-24 05:34:41 Like, I have a rocket
+plane-crazy 2020-07-24 05:34:17 The rocket engines are stronger with infinite fuel disabled for some reason

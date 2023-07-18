@@ -1,0 +1,5 @@
+destructivelogic
+plane-crazy 2020-06-12 03:19:31 needs specific degrees to turn different blocks so it fits perfectly in two different forms, but motor2 freaks out and has a seizure when ever it wants
+plane-crazy 2020-06-12 03:18:02 reason why is because im building a complex transformer
+plane-crazy 2020-06-12 03:16:47 do any of you wish motor2 could be configured to lock?
+plane-crazy 2020-06-12 03:16:27 one question for anyone to answer:

@@ -1,0 +1,24 @@
+aux_fox
+plane-crazy 2020-03-27 00:25:04 there I made it an .mp4
+plane-crazy 2020-03-27 00:18:44 they should have been .mp4
+plane-crazy 2020-03-27 00:18:30 idk why it downloaded as .wmv and not .mp4
+plane-crazy 2020-03-27 00:17:49 lol ok
+plane-crazy 2020-03-27 00:17:18 its deploying flares
+plane-crazy 2020-03-27 00:17:12 plus (and idk why) the missile gets shaky when frames get low
+plane-crazy 2020-03-27 00:16:43 My game drops frames while recording
+plane-crazy 2020-03-27 00:16:40 
+plane-crazy 2020-03-27 00:16:39 
+plane-crazy 2020-03-27 00:16:29 Some footage of the missile
+plane-crazy 2020-03-27 00:08:57 ?whois @[person's username]
+plane-crazy 2020-03-27 00:07:15 The missile is big yes but its good quality, and you cant really size it down without making a crappier one
+plane-crazy 2020-03-27 00:06:36 especially if you want a better performing missile
+plane-crazy 2020-03-27 00:06:21 well its hard to get smaller
+plane-crazy 2020-03-27 00:04:38 heres an example for a good missile
+plane-crazy 2020-03-26 23:32:03 ill find/make an example to post here
+plane-crazy 2020-03-26 23:30:43 the CL should behind the CG a bit (increases stability so it flies straight with no inputs) and obviously the control surfaces are there to steer. Those they are more effective the farther from the CG
+plane-crazy 2020-03-26 23:28:56 Once you make the main part with the payload and engine you add control surfaces and flight blocks
+plane-crazy 2020-03-26 23:27:37 Position of the CG is important in relation to your CL
+plane-crazy 2020-03-26 23:26:59 What engine to use varies as each type has different weight that would effect the position of the CG
+plane-crazy 2020-03-26 23:25:12 payload at the front and set to impact (obviously)
+plane-crazy 2020-03-26 23:24:55 you need the thrust lift ( Center of Lift; CL), control, Center of Gravity (CG) and payload
+plane-crazy 2020-03-26 23:24:28 <@!479273717609005059> Ive made a couple guided missiles

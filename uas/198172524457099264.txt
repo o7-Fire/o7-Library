@@ -1,0 +1,49 @@
+drkevin
+plane-crazy 2020-06-24 21:54:53 Concorde Tail
+plane-crazy 2020-06-24 08:14:51 This is going to be hell
+plane-crazy 2020-06-24 08:14:43 
+plane-crazy 2020-06-23 09:03:02 I should build stuff larger scale
+plane-crazy 2020-06-23 09:00:24 I can can improve both of those now since I figured out about that trick of the Control Surfaces that are facing inwards
+plane-crazy 2020-06-23 08:59:29 Actually
+plane-crazy 2020-06-23 08:58:55 The spitfire wing tilt gives it a bit of charm though.
+plane-crazy 2020-06-23 08:58:36 
+plane-crazy 2020-06-23 08:58:23 Yeah...
+plane-crazy 2020-06-23 08:58:10 Yeah, it's not that much, but I try to keep the wings true as much as possible
+plane-crazy 2020-06-23 08:57:47 Ah
+plane-crazy 2020-06-23 08:57:32 But it doesn't look like the wings are actually tilted up
+plane-crazy 2020-06-23 08:57:02 That BF109 actually looks a lot better than my front of the plane
+plane-crazy 2020-06-23 08:55:51 Ah
+plane-crazy 2020-06-23 08:54:37 Days of outlines
+plane-crazy 2020-06-23 08:54:30 This was my BF-109 from ages ago
+plane-crazy 2020-06-23 08:54:22 
+plane-crazy 2020-06-23 08:49:10 But it's like 5 degrees down and 5 up
+plane-crazy 2020-06-23 08:49:01 It's a bit hard to see the wing
+plane-crazy 2020-06-23 08:48:46 It is 2 step wing
+plane-crazy 2020-06-23 08:46:33 Yeah, mine are all very thin builds
+plane-crazy 2020-06-23 08:46:15 Large scale
+plane-crazy 2020-06-23 08:46:13 Oooo
+plane-crazy 2020-06-23 08:44:15 What kinda builds are you into
+plane-crazy 2020-06-23 08:44:09 It does make Stuka Siren Noises
+plane-crazy 2020-06-23 08:38:01 Historical?
+plane-crazy 2020-06-23 08:37:50 <@!406887792015048715> What kinda stuff are you into making
+plane-crazy 2020-06-23 08:37:33 Also, I have this JU-87, which I think needs some improvements, but I can't tell where.
+plane-crazy 2020-06-23 06:41:01 That's what I ment
+plane-crazy 2020-06-23 06:40:55 I mean, custom props would make the propellers look too large for the scale of the plane
+plane-crazy 2020-06-23 06:38:50 I was debating on the propeller, since it's small scale
+plane-crazy 2020-06-23 06:36:43 Does anyone have any suggestions to improve this Lancaster?
+plane-crazy 2020-06-01 17:47:56 😎
+plane-crazy 2020-06-01 17:47:17 Well, first nontank model
+plane-crazy 2020-06-01 17:47:06 It's my first vehicle model
+plane-crazy 2020-06-01 17:46:49 Been working on this
+plane-crazy 2020-06-01 17:46:34 That's a nice Challenger 2
+plane-crazy 2020-06-01 17:46:19 I think that all we need to do is have a visual aspect and just the very end counts for it
+plane-crazy 2020-06-01 17:44:48 Such
+plane-crazy 2020-06-01 17:44:46 Bore evacuators
+plane-crazy 2020-06-01 17:43:45 I think that what we could do, is create modular cannon barrels with different barrel finishes
+plane-crazy 2020-06-01 17:43:12 AcivityE knows what I'm talking about for the Vertex Paint
+plane-crazy 2020-06-01 17:42:27 But blender is powerful for game modeling, texturing, and is very inclusive on features.
+plane-crazy 2020-06-01 17:41:31 Orthographic and Perspective I think are the 2 modes you can view it from
+plane-crazy 2020-06-01 17:40:50 You can change it
+plane-crazy 2020-06-01 17:40:40 If you need to move it across an axis, use X,Y, and Z
+plane-crazy 2020-06-01 17:40:21 You select the model, hit G, and you can move a model around on your screen.
+plane-crazy 2020-06-01 17:39:57 G

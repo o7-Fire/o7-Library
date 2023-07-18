@@ -1,0 +1,4 @@
+sp_rk
+plane-crazy 2020-06-28 02:59:17 If you want to fly with wasd edit the control surfaces to use wasd
+plane-crazy 2020-06-28 02:57:41 So it still flys, somehow
+plane-crazy 2020-06-21 20:50:23 What does the water jet do?

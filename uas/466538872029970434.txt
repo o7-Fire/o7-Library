@@ -1,0 +1,99 @@
+darwinis
+plane-crazy 2020-06-11 10:36:11 oh that's why  it make me confused
+plane-crazy 2020-06-11 10:35:56 are those the back of the car?
+plane-crazy 2020-06-11 10:35:50 wait
+plane-crazy 2020-06-11 10:34:45 so what does those things do?
+plane-crazy 2020-06-11 10:31:23 i'll try making that for now let me learn it.
+plane-crazy 2020-06-11 10:28:37 <@!287233830576848906>  explain.
+plane-crazy 2020-06-11 10:28:18 i can't even understand the mechanic of THAT THING
+plane-crazy 2020-06-11 10:25:20 pushrod what?
+plane-crazy 2020-06-11 10:20:49 Pardon?
+plane-crazy 2020-06-11 10:20:46 Yosh?
+plane-crazy 2020-06-11 10:19:48 <@!331508893224009728>  Plane?
+plane-crazy 2020-05-25 13:08:56 i challenge <@!403158774732292097>  to make a wingless plane
+plane-crazy 2020-05-25 09:50:36 <:YouTried:559530066258821131>
+plane-crazy 2020-05-25 09:48:56 wut?
+plane-crazy 2020-05-25 09:45:08 <@!647051418556956672>  Make afterburner effect it will make you love the particle
+plane-crazy 2020-05-25 09:40:55 what?
+plane-crazy 2020-05-25 09:40:40 inside
+plane-crazy 2020-05-25 09:40:38 so better put it
+plane-crazy 2020-05-25 09:40:33 > filled the whole thing with thrusters
+<@!548958475389108227> sure but it's going to destroy the aesthethics of your plane
+plane-crazy 2020-05-25 09:40:14 there we go
+plane-crazy 2020-05-25 09:39:16 just wasting time
+plane-crazy 2020-05-25 09:39:10 of course if you want to add thrust many times until it works
+plane-crazy 2020-05-25 09:38:15 that's the purpose of physics
+plane-crazy 2020-05-25 09:38:10 and destroy the stability
+plane-crazy 2020-05-25 09:38:06 it will won't work
+plane-crazy 2020-05-25 09:38:03 but if it is overloaded with much thrust
+plane-crazy 2020-05-25 09:36:50 i can't measure its weight because it's always flies
+plane-crazy 2020-05-25 09:36:41 i don't know exactly
+plane-crazy 2020-05-25 09:36:37 helium block?
+plane-crazy 2020-05-25 09:36:32 weight = mass * acceleration
+w = 235.55 * 180
+w = 42399 Newton
+plane-crazy 2020-05-25 09:35:54 it must be below 235.55kg
+plane-crazy 2020-05-25 09:35:42 it can't be higher
+plane-crazy 2020-05-25 09:35:36 the maximum mass of your plane are 235.55kg
+plane-crazy 2020-05-25 09:35:15 oh
+plane-crazy 2020-05-25 09:35:11 673?
+plane-crazy 2020-05-25 09:35:04 8 meter is probably okay for a standard
+plane-crazy 2020-05-25 09:34:44 160stud/s?
+plane-crazy 2020-05-25 09:33:30 wdym?
+plane-crazy 2020-05-25 09:33:29 160?
+plane-crazy 2020-05-25 09:31:42 idk neither
+plane-crazy 2020-05-25 09:30:46 thought it's not really accurate that 1 block = 0.35kg it's just approximation
+plane-crazy 2020-05-25 09:30:11 below 140kg.
+plane-crazy 2020-05-25 09:30:05 that's why it's the maximum mass
+plane-crazy 2020-05-25 09:29:59 wedge has different mass
+plane-crazy 2020-05-25 09:29:53 you have wedge and other stuff
+plane-crazy 2020-05-25 09:29:47 but beware
+plane-crazy 2020-05-25 09:29:46 400 x 0.35 = 140
+plane-crazy 2020-05-25 09:29:37 1 block = 0.35 kg
+plane-crazy 2020-05-25 09:29:30 ?
+plane-crazy 2020-05-25 09:29:24 i don't know the real mass are.
+plane-crazy 2020-05-25 09:29:14 maximum mass of your plane is 140kg
+plane-crazy 2020-05-25 09:28:35 hmm
+plane-crazy 2020-05-25 09:28:21 the more weight it has
+plane-crazy 2020-05-25 09:28:16 the more block you put.
+plane-crazy 2020-05-25 09:28:08 the mass
+plane-crazy 2020-05-25 09:28:06 the factor that make it slow are
+plane-crazy 2020-05-25 09:27:56 if people did notice your plane fly slowly.
+plane-crazy 2020-05-25 09:27:34 > will going to a private server fix it?
+<@!548958475389108227> still not
+plane-crazy 2020-05-25 09:27:27 because it won't lag the main server
+plane-crazy 2020-05-25 09:27:22 that method is actually a good way
+plane-crazy 2020-05-25 09:27:07 the other player won't feel it
+plane-crazy 2020-05-25 09:26:59 so even you are lagging
+plane-crazy 2020-05-25 09:26:49 > i've been wondering for a while, why do large planes always fly slowly for me but other people can make them fly incredibly fast
+<@!548958475389108227> 
+Every Player joining in. there's a client that correspond to their own physics and ping.
+plane-crazy 2020-05-25 09:18:47 > range and time
+<@!403158774732292097> ???
+plane-crazy 2020-05-25 09:08:31 in plane crazy...
+plane-crazy 2020-05-25 08:57:16 
+plane-crazy 2020-05-25 08:57:04 > <@!466538872029970434> make a chronograph
+<@!331490905846448129> what do you mean mako?
+plane-crazy 2020-05-24 18:54:43 Or it's accelerating?
+plane-crazy 2020-05-24 18:54:16 Is there a way?
+plane-crazy 2020-05-24 18:54:00 > My friend made a car with length of 15 stud . And calculate the final speed with time in displacement of 640stud (625) and he did it. And the final speed are 475stud/s with time approximately 5.75s
+ 
+
+But got final speed of ~ 109stud/s
+plane-crazy 2020-05-24 18:53:12 Then just don't read
+plane-crazy 2020-05-24 18:53:07 If you don't want
+plane-crazy 2020-05-24 18:52:53 I'm serious
+plane-crazy 2020-05-24 18:52:21 Boris
+plane-crazy 2020-05-24 18:51:19 My friend made a car with length of 15 stud . And calculate the final speed with time in displacement of 640stud (625) and he did it. And the final speed are 475stud/s with time approximately 5.75s
+plane-crazy 2020-05-24 18:47:41 I've been tried to calculate it. But what happened is that it's always false
+plane-crazy 2020-05-24 18:46:46 I'm sorry. Just don't read it
+plane-crazy 2020-05-24 18:46:25 What?
+plane-crazy 2020-05-24 18:46:05 Is there a way to know a velocity with only math (not observation)?
+plane-crazy 2020-05-16 14:26:52 > a nuclear engine would be 1 block
+<@!467765396108476426> 
+even you have a reason. mostly people use conveyor engine or magnet for more velocity.
+plane-crazy 2020-05-16 13:14:47 > btw rickje should add nuclear engine
+<@!467765396108476426> 
+No need. if we can make our own engine itself. a guy named prototorde make an engine that reach Velocity of 40,000+  stud/second
+plane-crazy 2020-05-14 09:48:29 Speed: 1.1005698506752e+14 blocks/second
+plane-crazy 2020-05-14 09:47:41 uhh everyone knows bout this?

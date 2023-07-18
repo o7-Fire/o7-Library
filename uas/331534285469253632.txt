@@ -1,0 +1,2 @@
+helpnick
+plane-crazy 2020-03-02 17:46:52 New update gives more lags for motors (my heli with height control now no work frowning2 ).

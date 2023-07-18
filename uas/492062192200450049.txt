@@ -1,0 +1,41 @@
+sharkneir
+plane-crazy 2020-07-11 01:14:50 *based off this tbh*
+plane-crazy 2020-07-11 01:14:32 and give it a proper way to make it move foward
+plane-crazy 2020-07-11 01:14:25 gonna need a way to stabilize this thing in the air so i can meet the requirements of
+(Be able to hover in place without the usage of engines or anchor blocks.
+plane-crazy 2020-07-11 01:14:10 https://gyazo.com/43ed096e7c6fb2491fd6755b973f4b01
+plane-crazy 2020-07-11 01:07:33 oh.
+plane-crazy 2020-07-11 01:07:21 are those cutters for the wings
+plane-crazy 2020-07-10 21:06:59 that would be neat
+plane-crazy 2020-07-10 21:06:58 if i could get something for the rear
+plane-crazy 2020-07-10 21:06:35 https://gyazo.com/e3be1ffb6cb01b2d6efebf6f170f7050
+plane-crazy 2020-07-10 21:06:04 i just can't get a way to make it turn
+plane-crazy 2020-07-10 21:05:52 able to take off vertically
+plane-crazy 2020-07-10 21:05:42 it hovers without anchors
+plane-crazy 2020-07-10 21:05:24 still trying to figure out what to do for this
+plane-crazy 2020-07-10 21:05:06 hmm
+plane-crazy 2020-07-10 09:13:46 time to continue referencing the heli
+https://gyazo.com/7f932b050f89e1fb13ec41cbbcacf9d3
+plane-crazy 2020-07-10 09:12:45 now thats done
+plane-crazy 2020-07-10 09:10:08 i got the hover part done
+plane-crazy 2020-07-10 09:10:04 nice
+plane-crazy 2020-07-10 09:08:15 oh.
+plane-crazy 2020-07-10 09:07:44 <@!447221768520859659>
+plane-crazy 2020-07-10 09:06:08 confused on that part
+plane-crazy 2020-07-10 09:06:06 now the 2nd blade isn't working after i add 1 more blade
+plane-crazy 2020-07-10 09:04:28 just the 2nd blade that is 1 blade shorter
+plane-crazy 2020-07-10 09:04:11 yes.
+plane-crazy 2020-07-10 09:03:48 got it to hover
+plane-crazy 2020-07-10 09:03:43 nice.
+https://gyazo.com/15cf4e694d322f1037ae5a70931c67a8
+plane-crazy 2020-07-10 09:00:01 well i kinda want to do 4 blades to reference the heli im making above
+plane-crazy 2020-07-10 08:57:40 alright
+plane-crazy 2020-07-10 08:57:05 get a secondary blade spin on it?
+plane-crazy 2020-07-10 08:56:55 so what should i do make it lift up?
+plane-crazy 2020-07-10 08:55:31 first attempt at making helis, how do i get this thing to hover
+plane-crazy 2020-07-10 08:55:05 SpIn
+https://gyazo.com/4337ce6edefdfe271903d81eee91c49e
+plane-crazy 2020-07-10 08:25:31 Razor Rotors from BTD6
+plane-crazy 2020-07-10 08:24:14 however its probably gonna be hell to reference the size of it
+plane-crazy 2020-07-10 08:24:06 maybe the image above if you're bored
+plane-crazy 2020-07-10 08:21:44 it would be nice if i could see more BTD6 references here.

@@ -1,0 +1,10 @@
+syncinus
+plane-crazy 2020-07-22 02:02:48 Okay so turns out Motor2 is actually stupid because if you put it on toggle mode and then you put it onto servo mode it fails to register input half the time smh
+plane-crazy 2020-07-22 02:01:34 It has a filter
+plane-crazy 2020-07-22 02:01:31 Oh okay
+plane-crazy 2020-07-22 01:50:09 I don't want more blocks I want Motor 2 to work smh
+plane-crazy 2020-07-22 01:49:55 Someone should tell the developer he should fix the stupid Motor 2
+plane-crazy 2020-07-22 01:49:35 I was thinking to use Motor 2 for a battering ram to replace my Motor 1's because it has controllable radius but the input literally only works half of te time
+plane-crazy 2020-07-22 01:48:28 And then with no settings it's actual mouse control
+plane-crazy 2020-07-22 01:48:12 Like half of the time it's working and half of the time it is not
+plane-crazy 2020-07-22 01:47:57 Motor 2 is totally broken

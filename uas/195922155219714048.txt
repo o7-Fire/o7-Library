@@ -1,0 +1,7 @@
+origamibot
+plane-crazy 2020-06-23 12:10:04 ok then, so not a problem
+plane-crazy 2020-06-23 12:08:59 so that period isn't marking a decimal value, it's meant to be a comma?
+plane-crazy 2020-06-23 12:07:09 I mean, am I supposed to delete them all and start from scratch or is this not a problem?
+plane-crazy 2020-06-23 12:06:16 do note that I have been absent for a while, so these are quite old saves
+plane-crazy 2020-06-23 12:05:42 so... what's going on?
+plane-crazy 2020-06-23 12:05:34 I have a question; the max limit for save data is 260, but according to the game my save data (even after resaving all of my creations) is 8743

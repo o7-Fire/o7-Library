@@ -1,0 +1,32 @@
+TwinIndifferent
+plane-crazy 2020-07-28 03:04:07 When this happens, game just doesen't know what to do and leaves flying parts wich you can "shoot" without any effectiveness.
+plane-crazy 2020-07-28 03:03:12 It is desync problem - you shoot his wing, but on his client you missed because of ping delay.
+plane-crazy 2020-07-25 11:43:52 Do they talk on the language of gods?
+plane-crazy 2020-07-25 09:56:44 <:WeirdChamp:670867805176070145>
+plane-crazy 2020-07-25 09:56:29 If I not decline them in game and leave them, after 3-5 rejoins I have like 20 friend requests from bacons.
+plane-crazy 2020-07-25 09:55:38 Each time I join a game and load my build, some random bacon/neon roblox head/roblox girl runs to my plot, tries to jump on them and then spam friend request.
+plane-crazy 2020-07-25 09:49:59 Yes you can. Checked it when someone shoot a rocket on me and it lags with speed slower than snail. It still will explode on contact if parts were destroyed.
+plane-crazy 2020-07-25 09:48:19 I'm not about rocket damage, I'm about hitscan system, desync and FPS slow-downs.
+plane-crazy 2020-07-25 09:47:09 The whole meta is just using small planes wich don't have penalties from FPS loss.
+plane-crazy 2020-07-25 09:46:31 And also rockets are trash in their current state.
+plane-crazy 2020-07-25 09:45:27 If you use only suiciding for explosives, then you have problems.
+plane-crazy 2020-07-25 09:44:50 Explosives can get them with range.
+plane-crazy 2020-07-25 09:43:51 Yes, you can fire trough hills, trough anything.
+plane-crazy 2020-07-25 09:42:32 Guns do not collide at all with their projectiles - you can fire at them and they can do the same from underwater.
+plane-crazy 2020-07-25 09:36:12 This is capability of F3X - pretty much modeling but in roblox.
+plane-crazy 2020-07-25 09:35:39 
+plane-crazy 2020-07-25 09:35:28 Yet it is in size of like 4-5 PC building plots.
+plane-crazy 2020-07-25 09:34:36 Yes you can. This Orbis station wich I built in AC has only 1120 blocks.
+plane-crazy 2020-07-25 09:32:40 Will transfer my builds from Astrocraft and BYSS here and flex with artificial gravity.
+plane-crazy 2020-07-25 09:32:09 Pretty much my dream is Plane Crazy with F3X. It will remove problem with high amount of blocks per builds because of ability to shape them.
+plane-crazy 2020-07-25 09:31:00 Idk. Hardcoded also makes build mode and fly mode as fully separate calculations. In fly mode your build is physics enabled and all blocks start to load your CPU while they in it.
+In softcoded, I can use F3X as alternative, you can built right in a flight mode and shape anything because it uses fully different from roblox vanilla build mode.
+plane-crazy 2020-07-25 09:28:25 Pretty much hardcoded version uses default or slightly upgraded roblox build mode.
+plane-crazy 2020-07-25 09:27:16 But use it's own code.
+plane-crazy 2020-07-25 09:27:09 Soft-coded - do not rely on vanilla game physic engine.
+plane-crazy 2020-07-25 09:24:10 Mostly normal player won't have even 1/2 of slots filled - they already get 250-260 memory limit.
+plane-crazy 2020-07-25 09:23:27 When gamepass wich will expand memory limit so I can finally play the game again?
+plane-crazy 2020-07-25 09:21:38 Imagine someone upvoting save slots meanwhile they don't even use all of the old one and already get memory limit. <:KEKW:670310537300672528>
+plane-crazy 2020-06-11 16:42:58 Didn't seen creations channel.
+plane-crazy 2020-06-11 16:42:47 A h.
+plane-crazy 2020-06-11 16:42:24 
