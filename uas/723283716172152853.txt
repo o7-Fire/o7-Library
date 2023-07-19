@@ -1,0 +1,13 @@
+The Tale of yellow2846 (723283716172152853)
+bug-reports 2021-01-11 21:12:08 If you have complete symmetrical surface , and launch it with rocket thrusters , (jet too) but place one side with 1x7 and 1x4s , it will register as one being heavier than the other , but is completely symmetrical with no difference , this can be a problem with rocket ships because you need to be balanced to work .
+bug-reports 2021-01-11 21:14:21 darn so i have to replace them with blocks?
+bug-reports 2021-01-11 21:22:58 alright
+help 2021-01-11 21:25:17 what is the hight limit for blocks in build mode?
+the-dump 2021-01-14 15:45:28 just like real life
+the-dump 2021-01-14 15:56:15 GUAYANDO😎
+the-dump 2021-01-14 15:57:05 gayando
+bot-central 2021-11-06 16:15:16 !shelp
+bot-central 2021-11-06 16:15:21 ?sh elp
+bot-central 2021-11-06 16:15:23 ?Shelp
+help 2021-11-06 16:19:34 im building a conveyor belt that drags people around any ideas on a way to raise someone thats on the ground
+help 2021-11-06 16:47:27 yea ive seen pistons and motors have a really hard time trying to carry players lol

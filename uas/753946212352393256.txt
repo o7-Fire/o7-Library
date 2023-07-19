@@ -1,0 +1,17 @@
+The Tale of stelleris (753946212352393256)
+bot-central 2021-10-15 09:27:50 !ranks
+bot-central 2021-10-15 09:28:36 !rank
+bot-central 2021-10-15 09:28:57 got it
+bot-central 2021-10-16 03:30:04 ?rank
+bot-central 2021-10-16 03:30:07 !rank
+bot-central 2021-11-09 17:45:36 !rank
+the-dump 2022-05-07 13:33:44 nothing
+help 2023-02-25 10:33:06 Does anyone know how to make the heli rotors tune able mid flight motor 2 works but I want to change it precisely and motor 1 glitches
+help 2023-02-25 10:55:30 Angle
+help 2023-02-25 10:55:36 Motor 2 has a set angle
+help 2023-02-25 10:55:57 I want it to be free like motor 1
+help 2023-02-25 10:56:07 But motor 1 glitches
+help 2023-02-25 10:56:17 Locking it makes it more worse
+help 2023-02-25 14:50:22 My heli keeps rolling to the right I know this happens but its happening alot like I cant control it my btw my heli is also a pretty big one
+help 2023-02-25 14:50:41 I add many thrusters on that side but nothing works
+help 2023-02-25 14:50:46 How can I lower it

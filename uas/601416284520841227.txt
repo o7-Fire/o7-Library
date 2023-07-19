@@ -1,0 +1,139 @@
+The Tale of noob_17593649 (601416284520841227)
+bug-reports 2021-04-03 12:09:55 i would like to report a wrong translation
+bug-reports 2021-04-03 12:10:06 in the loading screen of plane crazy
+bug-reports 2021-04-03 12:10:13 a green message appears
+bug-reports 2021-04-03 12:10:52 "Like the game for more updates"
+bug-reports 2021-04-03 12:11:05 but in the portuguese translated version it is:
+bug-reports 2021-04-03 12:11:21 "Como o jogo para mais atualizações"
+bug-reports 2021-04-03 12:11:32 the thing is
+bug-reports 2021-04-03 12:11:58 like translated to portguese can have 2 meanings
+bug-reports 2021-04-03 12:12:03 one is the
+bug-reports 2021-04-03 12:12:30 Like (as in comparison)  translated it would be "como"
+bug-reports 2021-04-03 12:12:33 and
+bug-reports 2021-04-03 12:12:58 Like (as in liking, enjoying)  translated it would be "gostar"
+bug-reports 2021-04-03 12:13:14 so the green text should say
+bug-reports 2021-04-03 12:13:27 "Goste do jogo para mais atualizações"
+bug-reports 2021-04-03 12:46:43 So..
+bug-reports 2021-04-03 12:46:50 i found more wrong translation
+bug-reports 2021-04-03 12:46:55 way more wrong translation
+bug-reports 2021-04-03 12:47:05 they are everywhere
+bug-reports 2021-04-03 12:48:53 i can't put them all here
+bug-reports 2021-04-03 12:48:56 they are so many
+bug-reports 2021-04-03 12:49:01 but from what i found
+bug-reports 2021-04-03 12:49:09 "Beam" translation is wrong
+bug-reports 2021-04-03 12:49:20 "Block" translation is wrong in some cases
+bug-reports 2021-04-03 12:51:33 "Magnet" translation only supports 1 portuguese type (yes there are many portuguese languages, you have portuguese from Portugal, you have PALOP portuguese, you have portuguese from Brazil, you have portuguese from Asia, and portuguese from Timor)
+bug-reports 2021-04-03 12:52:13 "Conveyor" translation is also wrong but you can sort of understand what it means
+bug-reports 2021-04-03 12:52:46 "landing gear" translation is also wrong
+bug-reports 2021-04-03 12:53:11 "Spring" translation is super wrong
+bug-reports 2021-04-03 12:53:37 "Horn" translation is also wrong
+bug-reports 2021-04-03 12:53:58 "Trap door" translation is wrong
+bug-reports 2021-04-03 12:56:11 "Half Block" translation is wrong but only on the gender of the words (yes in portuguese you have feminine words and male words ex: o Bloco - male word (the Block)  / a Mola - feminine word (the Spring)
+bug-reports 2021-04-03 12:56:46 "Half wedge" Translations are wrong in some cases
+bug-reports 2021-04-03 12:58:13 some translations of the Light blocks have also the wrong gender and Spotlight isn't translated  (Spotlight = Holofote )
+bug-reports 2021-04-03 12:59:22 Some translations of the stairs block are wrong (it sounds like a GPS  Vire à esquerda = turn left , what you want is more like "Viragem à esquerda" or "Curvo para a esquerda")
+bug-reports 2021-04-03 13:02:32 then we have the translations in the settings of a functional part
+bug-reports 2021-04-03 13:03:11 and from what i saw they don't look that good
+bug-reports 2021-04-03 13:03:37 just found another
+bug-reports 2021-04-03 13:04:32 "Sign" translation is wrong  (it is translated to "assinar" as in signing papers where it should be "sinal")
+bug-reports 2021-04-03 13:23:00 so are you saying that roblox is the one that converts the text to the translations in all GUIs of the game?
+bug-reports 2021-04-03 13:23:11 man
+bug-reports 2021-04-03 13:23:15 they suck at it
+bug-reports 2021-04-03 13:23:28 it's literally the worst translation ever
+bug-reports 2021-04-03 13:24:41 can't plane crazy remove the roblox translation or make a custom that is correct?
+bug-reports 2021-04-03 13:25:23 because with that type of translation
+bug-reports 2021-04-03 13:25:29 it's best to not have translation at all
+bug-reports 2021-04-03 13:36:30 well
+bug-reports 2021-04-03 13:36:35 as you can see above
+bug-reports 2021-04-03 13:36:44 if he needs help with the portuguese translation
+bug-reports 2021-04-03 13:36:52 i would happily provide it
+bug-reports 2021-04-03 13:56:39 i don't know if anybody else has posted this bug but
+bug-reports 2021-04-03 13:56:47 sometimes when i open my parachute
+bug-reports 2021-04-03 14:00:41 My parachute starts moving from side to side and projects me with 140000000+ Speed so i watch my avatar slowly become more pixalized until ultimatly it is reduced to nothing or i somehow hit the barrier of the environment space and die
+bug-reports 2021-04-03 14:01:43 but i don't know if there are different types
+bug-reports 2021-04-03 14:02:03 i don't know if everyone's avatar gets reduced to pixels
+bug-reports 2021-04-03 14:03:33 but didn't you saw my question?
+bug-reports 2021-04-03 14:03:49 i don't know if everyone's avatar get's reduced to pixels
+bug-reports 2021-04-03 14:03:59 the pinned only says flinged
+bug-reports 2021-04-03 14:04:31 and everyone reaches 14000000+ speeds?
+bug-reports 2021-04-03 14:05:07 never happend to me in other games
+bug-reports 2021-04-03 14:05:12 i'll look for it
+bug-reports 2021-04-03 14:07:35 oh
+bug-reports 2021-04-03 14:07:39 that explains alot
+bug-reports 2021-04-03 14:11:31 yes
+bug-reports 2021-04-03 14:12:24 however if one happens without the other it would imply that there are in fact multiple type of the bug, but since this is not the case, no need to worry
+bot-central 2021-04-03 20:36:56 !rank
+bot-central 2021-04-03 20:37:04 Yes
+bot-central 2021-04-03 20:37:09 Am noob rank
+bot-central 2021-04-03 20:37:32 U is very much noob
+bot-central 2021-04-03 20:39:56 ?shelp
+bot-central 2021-04-03 20:40:34 ?rhelp
+bot-central 2021-04-04 02:44:51 !rank <@!816501339345518622>
+bot-central 2021-04-04 02:46:48 yesh
+creations-chat 2021-04-12 19:43:28 nobody here can confirm it since we weren't there
+creations-chat 2021-04-12 19:45:33 so with more than a century since the accident and if you claim to be on  a sub you needed to me in your early adult age to be able to crew it so you are saying you are 120+ years old?
+creations-chat 2021-04-12 19:47:35 why this chonnel haeb cooldown
+it no pro
+
+
+
+congratulations kokamzy you are one of the oldest if not the oldest person in the world, one question, why do you spend your final days in a discord server of a game in a platform intended for children?
+creations-chat 2021-04-12 19:50:03 this 2 mins are hard to establish a proper conversationen
+
+More harder to maek noob talk since it taek funny away 😦
+creations-chat 2021-04-12 19:52:20 no 4 mins ago
+||i dislike tha cooldown||
+the-dump 2021-04-13 22:46:52 : O
+the-dump 2021-04-13 22:48:10 : O
+the-dump 2021-04-13 22:48:16 :0
+the-dump 2021-04-13 22:48:27 : o
+the-dump 2021-04-13 22:48:33 :  .
+the-dump 2021-04-13 22:48:45 **: O**
+the-dump 2021-04-13 22:50:17 
+the-dump 2021-04-14 15:29:41 <:what:644996672048463942>
+the-dump 2021-04-14 15:30:25 https://tenor.com/view/sussy-sussy_red-sus-amongus-gif-20918910
+the-dump 2021-04-14 15:30:50 https://tenor.com/view/letter-e-gif-9063749
+the-dump 2021-04-14 15:31:20 indeed
+the-dump 2021-04-14 15:32:10 https://cdn.discordapp.com/attachments/680928395399266314/827599478093119598/video0.mp4
+the-dump 2021-04-14 15:33:50 https://cdn.discordapp.com/attachments/415546586735575051/830018112995983371/video0-15.mp4
+the-dump 2021-04-14 15:35:54 you don't know what a deck is?
+the-dump 2021-04-14 15:36:32 wait
+the-dump 2021-04-14 15:36:39 but if you are braindead
+the-dump 2021-04-14 15:36:45 it means you have a brain
+the-dump 2021-04-14 15:36:50 for it to be dead
+the-dump 2021-04-14 15:36:55 it must be alive first
+the-dump 2021-04-14 15:37:12 that was confusion
+the-dump 2021-04-14 15:37:25 indeed
+the-dump 2021-04-14 15:38:25 ?
+the-dump 2021-04-14 15:38:29 what word?
+the-dump 2021-04-14 15:39:11 it's just an australian talking about his deck
+the-dump 2021-04-14 15:39:21 and promoting a deck paint
+the-dump 2021-04-14 15:39:44 that's the promotion caulk
+the-dump 2021-04-14 15:42:12 is that loopland?
+the-dump 2021-04-14 15:43:53 yes
+the-dump 2021-04-14 15:43:57 more storage space
+the-dump 2021-04-14 15:45:41 https://tenor.com/view/linus-among-us-impostor-sus-tech-tip-gif-20214374
+the-dump 2021-04-14 15:47:02 hey
+the-dump 2021-04-14 15:47:10 who want to lose ear function?
+the-dump 2021-04-14 15:47:26 https://cdn.discordapp.com/attachments/820666301667868682/820734265083691049/beep_SD70ACE.mov
+the-dump 2021-04-14 15:47:53 pro train
+the-dump 2021-04-14 15:48:03 yas
+the-dump 2021-04-14 15:48:14 farewell sponge one
+the-dump 2021-04-14 15:48:33 <:nooo:787097964946259978>
+the-dump 2021-04-14 15:49:15 <:PewPew:532303441293344778> heilo
+the-dump 2021-04-14 15:50:17 why is light coming from screen?
+the-dump 2021-04-14 15:50:42 yes
+the-dump 2021-04-14 15:51:01 i agree
+the-dump 2021-04-14 15:52:53 burger
+the-dump 2021-04-14 15:53:32 it's ketchup
+the-dump 2021-04-14 15:53:55 you know the thing u put in burger
+the-dump 2021-04-14 15:54:29 u don't like ketchup?
+the-dump 2021-04-14 15:54:54 why is it because it haeb too much sugar?
+the-dump 2021-04-14 15:55:26 manys of ketchup maek you grow strong
+the-dump 2021-04-14 15:55:34 yes
+the-dump 2021-04-14 15:55:41 ***yes***
+the-dump 2021-04-14 15:56:12 am bored
+the-dump 2021-04-14 15:56:16 time for gone
+the-dump 2021-04-14 16:02:06 
+bot-central 2021-04-14 16:03:49 !help
+bot-central 2021-04-14 16:04:45 !servers

@@ -1,2 +1,6 @@
-uchu_no_sonzai_kan
-plane-crazy 2019-09-28 20:47:27 a
+The Tale of uchu_no_sonzai_kan (418943249588420618)
+bug-reports 2020-09-04 02:19:08 i'd count this as a bug 
+half wedge down connects with a half wedge up 1x2
+even tho both arent directly attached
+bug-reports 2020-09-04 02:19:28 
+bug-reports 2020-09-04 02:24:11 works fine without the other 2 half wedges

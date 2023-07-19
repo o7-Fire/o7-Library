@@ -1,0 +1,53 @@
+The Tale of twicedaice (345034747329642496)
+help 2021-04-14 00:07:49 i created a thing
+help 2021-04-14 00:07:53 it uses a motor2
+help 2021-04-14 00:08:02 i set it to rotate 180 degrees
+help 2021-04-14 00:08:04 but no matter what i do
+help 2021-04-14 00:08:09 it rotate the wrong direction
+help 2021-04-14 00:08:23 pressing forwards and backwards doesnt change its direction
+help 2021-04-14 00:08:33 rotating the motor doesnt either
+help 2021-04-14 00:08:37 how do i fix this
+help 2021-04-14 00:09:09 fold
+help 2021-04-14 00:09:12 yes
+help 2021-04-14 00:09:14 its in servo mode
+help 2021-04-14 00:09:36 backward f forward r
+help 2021-04-14 00:09:37 speed 1
+help 2021-04-14 00:09:41 maxtourque 1000
+help 2021-04-14 00:09:44 maxangle 180
+help 2021-04-14 00:09:48 servo and toggle are both on
+help 2021-04-14 00:09:54 inverted is off
+help 2021-04-14 00:09:59 ive already tried it
+help 2021-04-14 00:10:22 i was thinking about that
+help 2021-04-14 00:10:50 sure enough
+help 2021-04-14 00:10:52 it works just fine
+help 2021-04-14 00:11:00 even if its still not 180
+help 2021-04-14 00:11:31 maybe
+help 2021-04-14 00:11:45 there should def be an option to change the direction it tries to move in though
+help 2021-04-14 00:12:08 still gonna be quite annoying
+help 2021-04-14 00:12:14 its my first rocket and im making it a multi staging one
+bug-reports 2021-04-14 01:35:54 1x7 blocks have a weird hitbox
+bug-reports 2021-04-14 01:36:00 you cant place them upside down
+bug-reports 2021-04-14 01:36:11 part of them will clip into the block above
+help 2021-04-15 04:25:38 how do i make a suggestion
+help 2021-04-15 04:25:44 or not
+help 2021-04-15 04:25:46 lmfao
+bot-central 2021-04-15 04:25:49 ?shelp
+bot-central 2021-04-15 04:36:44 hmm ok
+bot-central 2021-04-15 04:37:24 $suggest
+[Slippery Block]
+[BUILDING]
+
+The slippery block acts like a paint in a way that allows touching blocks to be seperated from eachother. As of right now, if you attach a block to a motor, and connect the blocks on both sides of the motor, the motor will get stuck and nothing will rotate. However, with the new slippery block, blocks on both sides of the motor will become no longer attached and can move freely, while being right next to it. (this is a surface type thing, with no actual size, other than maybe a slightly transparent yellow film over the side its put on)
+this way you can make significantly more complex moving structures, without having to make things larger or smaller to accomodate for the active welding setup. (perhaps the slippery block can break the weld between one block and another block to function)
+bot-central 2021-04-15 04:37:30 still not working
+bot-central 2021-04-15 04:37:44 oh
+bot-central 2021-04-15 04:37:45 just realized
+bot-central 2021-04-15 04:37:51 the 1x0.9 block does exist but
+bot-central 2021-04-15 04:37:54 its not surface
+bot-central 2021-04-15 04:38:00 and still cant be applied in as many ways
+bot-central 2021-04-15 04:38:26 this completely seperates two blocks invisbly with nothing inbetween
+bot-central 2021-04-15 04:40:55 !rank
+bot-central 2021-04-15 04:40:59 so close
+bot-central 2021-04-15 04:41:10 once i get level 2 i can use the suggesstion thing right
+bug-reports 2021-05-10 19:22:11 Did not see that coming
+creations-chat 2021-05-10 19:27:29 girls dont exist also opinion on what ah yes the cannon had a supressor

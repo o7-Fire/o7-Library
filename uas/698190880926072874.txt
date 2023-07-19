@@ -1,0 +1,16 @@
+The Tale of Turtle (698190880926072874)
+bot-central 2021-11-18 12:35:50 !suggestion
+bot-central 2021-11-18 12:35:59 -suggestion
+bot-central 2021-11-18 12:36:41 &suggest Half Cylinder 3
+It must be 0.5 cylinder. Idea from sparkler model. It would be very useful. Just
+○ = 1×1 cylinder.
+◎ = 0.5 cylinder (half cylinder 3) is in 1×1 cylinder, just showing the size of half cylinder 3.
+bot-central 2021-11-18 12:37:41 ?rhelp
+bot-central 2021-11-18 13:51:41 -ms
+bot-central 2021-11-18 13:52:29 -help
+bot-central 2021-11-21 21:46:06 -servers
+bot-central 2021-11-21 21:46:23 -help
+bot-central 2022-03-28 19:15:56 -suggestpion
+bot-central 2022-03-28 19:16:36 ?shelp
+bot-central 2022-03-28 19:17:59 &suggest I think you should add a feature where you can whitelist people and if they are in the driver seat they can drive your plane
+bot-central 2022-03-28 19:18:21 &suggest <I think you should add a feature where you can whitelist people and if they are in the driver seat they can drive your plane>

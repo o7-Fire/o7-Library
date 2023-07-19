@@ -1,0 +1,3 @@
+The Tale of plu_my (916534952558989313)
+bug-reports 2022-06-26 01:47:33 My friend's rockets don't work whenever he is moving. Anyone know how to fix it?
+bug-reports 2022-06-26 22:16:17 yes, whenever he shoots while he is stationary the rockets work but whenever he is moving they just disappear

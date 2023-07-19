@@ -1,0 +1,49 @@
+The Tale of mr_d4c (759452936722972702)
+help 2021-03-13 23:20:07 I have a question how do I make a suggestion
+bot-central 2021-03-13 23:20:19 ?shelp
+bot-central 2021-03-13 23:32:26 &suggest ball summoner
+[gameplay] [configurable]
+a block that summons balls infront of it and u can choose how many it summons and how fast and what button to trigger it for example place 100 balls summon 1 ball every 0.5 second or 10 balls every 5 seconds Q to trigger it I have suggested this cause I like to make stuff that shoots balls like a gun rapidly into grass not to annoy people and not for lag just for fun and it takes forever to place them all down and build a wall around them so they don’t fall out
+bot-central 2021-03-13 23:34:48 ?rhelp
+help 2021-03-13 23:39:43 So I trained to suggest something and it said I need the “ranked role” and how do u even get that role to make a suggestion
+help 2021-03-13 23:42:33 How do I get the ranked role to make a suggestion
+help 2021-03-13 23:46:27 I have done that but now what
+help 2021-03-13 23:46:57 Lemme try again
+bot-central 2021-03-13 23:47:06 &suggest ball summoner
+[gameplay] [configurable]
+a block that summons balls infront of it and u can choose how many it summons and how fast and what button to trigger it for example place 100 balls summon 1 ball every 0.5 second or 10 balls every 5 seconds Q to trigger it I have suggested this cause I like to make stuff that shoots balls like a gun rapidly into grass not to annoy people and not for lag just for fun and it takes forever to place them all down and build a wall around them so they don’t fall out
+help 2021-03-13 23:47:19 It’s still not working
+help 2021-03-13 23:48:03 How do u get the ranked role to make a suggestion
+help 2021-03-13 23:49:14 I’m still confused
+help 2021-03-13 23:49:39 Cause when I did shelp it said I needed “ranked role” to make a suggestion
+help 2021-03-13 23:50:34 Ok
+help 2021-03-13 23:50:53 What’s the easiest role to get so I can make a suggestion
+help 2021-03-13 23:51:36 Ok
+help 2022-07-13 03:37:36 How do u make a suggestion
+bot-central 2022-07-13 03:39:47 ?shelp
+bot-central 2022-07-13 03:40:03 ?rhelp
+help 2022-07-13 03:40:08 Nvm
+bot-central 2022-07-14 16:10:06 !rank
+bot-central 2022-07-14 16:12:11 ?shelp
+bot-central 2022-07-14 18:10:07 ?shelp
+the-dump 2022-07-16 07:45:09 skill issue
+https://streamable.com/6g5ldn
+the-dump 2022-07-19 03:39:06 Rickje considered my suggestion is this a flex?
+the-dump 2022-07-19 03:42:52 
+creations-chat 2022-08-16 09:42:09 https://discord.com/channels/384021699466756103/384025409945337856/1009029431869845575
+If somebody dislikes my creation can you please tell me why so I can try to fix it and make it better I would like some comments to help
+help 2022-09-24 07:26:05 how do  i stop the piston and suspention from wobbling
+help 2022-09-24 07:30:13 
+help 2022-09-24 07:30:25 this happens how do i fix it????
+help 2022-09-24 07:31:53 nvm
+help 2022-09-24 07:32:09 how do i fix these 2 issues?
+help 2022-09-24 07:33:45 fixed the wheel turning
+help 2022-09-24 07:33:57 but how do i fix it bobing up and down
+help 2022-09-24 08:01:22 i dont need anymore help i found the issue
+the-dump 2022-10-10 00:02:03 Skill issue.
+the-dump 2022-10-10 00:06:59 ?
+the-dump 2022-10-10 00:19:24 
+help 2022-10-24 03:07:10 So I have a really  giant and heavy truck and it has a really hard turning I have about near 20 super rockets for turning on front and around 40 on back for turning and it still has a hard time doing sharp turns is there anyway to make my turning better or a better turning method
+help 2022-11-08 14:01:20 There is a way to fix it all you need to do is put the motors in the center  of mass of the trail of horses if u dont wanna make it look ugly use camera
+bot-central 2023-06-22 21:01:00 !ranks
+bot-central 2023-06-22 21:01:04 !rank

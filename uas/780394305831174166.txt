@@ -1,0 +1,136 @@
+The Tale of brickmaster9629 (780394305831174166)
+creations-chat 2022-02-04 17:06:02 less longer more fatter tanks
+creations-chat 2022-02-04 18:38:43 almost got me until i checked the link
+bug-reports 2022-04-02 14:40:00 Three Kind of bugs i found
+bug-reports 2022-04-02 14:41:49 The overlapping (massless: [Fast]) gui is something ive never seen before
+bug-reports 2022-04-02 15:29:48 is this a sercret?
+bug-reports 2022-04-02 15:30:28 Plane crazy for me has been popping up random guis that i think have not been used
+bug-reports 2022-04-02 15:31:12 these were the first one i found
+bug-reports 2022-04-02 15:31:22 yh
+bug-reports 2022-04-02 15:33:13 i onced got spawned as a noob avatar too
+bug-reports 2022-04-02 15:33:51 sometimes, when i spawn on the water then quickly despawn, my avatr starts to swim mid-air
+bug-reports 2022-04-02 15:34:20 is it common
+creations-chat 2022-04-02 15:46:57 i dont think its for design, its more for explosion and dying
+bug-reports 2022-04-02 15:53:26 when its roblox you know its going to take a while 😉
+bug-reports 2022-04-02 15:53:43 what do you think of this tho?
+bug-reports 2022-04-02 15:53:53 or this
+bug-reports 2022-04-02 15:54:37 im guessing parts of the game getting leaked (in plane crazy 1) is not a big deal right?
+bug-reports 2022-04-02 15:54:56 becausepc2 will explode and no one will pay attention to pc1 too much anymore
+bug-reports 2022-04-02 15:56:52 your pfp..
+bug-reports 2022-04-03 04:12:37 not anymore
+bug-reports 2022-04-03 04:19:05 but i think the problem is that theres guis that arent used yet in the starter gui that have visibility turned off but somehow when i played/entered plane crazy they were visible (some of them) and i think this is a important thing to fix and can be used in the next plane crazy, i think moving the unused guis to lighting or replicated storage at their own folder is a good idea
+bug-reports 2022-04-03 04:19:52 so they are more secure
+bug-reports 2022-04-03 11:13:01 Roblox servers caused it, but moving the unused gui will stop it
+bug-reports 2022-04-03 11:13:34 Guis wint apear if you put them in pughting
+bug-reports 2022-04-03 11:13:36 Lighting
+bug-reports 2022-04-03 11:13:58 Its literally just moving from starter gui to lighting
+bug-reports 2022-04-03 11:14:24 Yes it does
+bug-reports 2022-04-03 11:15:07 It might leak more important "in development" guis that are not supposed to be shown in their future games
+bug-reports 2022-04-03 11:15:17 Im just suggesting
+bug-reports 2022-04-03 11:15:49 Yes im aware
+bug-reports 2022-04-03 11:16:06 ...
+bug-reports 2022-04-03 11:16:17 How can you be so sure it will be fix?
+bug-reports 2022-04-03 11:16:22 Not*
+bug-reports 2022-04-03 11:16:42 Its not scripting
+bug-reports 2022-04-03 11:16:54 Its on properties of the gui
+bug-reports 2022-04-03 11:17:04 If turningg off visiblity of the gui is not secure
+bug-reports 2022-04-03 11:17:15 And can be turned on somehow by roblox problens
+bug-reports 2022-04-03 11:17:25 Moving that unused gui to lighting
+bug-reports 2022-04-03 11:17:30 Can make it more secure
+bug-reports 2022-04-03 11:17:47 Its not fixxed
+bug-reports 2022-04-03 11:17:54 Only me got this problen
+bug-reports 2022-04-03 11:18:13 Not this problem
+bug-reports 2022-04-03 11:18:29 This,
+bug-reports 2022-04-03 11:19:05 Yes
+bug-reports 2022-04-03 11:19:23 Because that gui that apeared
+bug-reports 2022-04-03 11:19:27 Is still in starter gui
+bug-reports 2022-04-03 11:19:34 And just had visibbilty truned off
+bug-reports 2022-04-03 11:19:40 Yess
+bug-reports 2022-04-03 11:19:43 Roblox caused it
+bug-reports 2022-04-03 11:19:51 But it can be fixed in studio
+bug-reports 2022-04-03 11:20:12 I will give you roblox dev forums link
+bug-reports 2022-04-03 11:20:21 Its confirmed duhh
+bug-reports 2022-04-03 11:20:25 Why?
+bug-reports 2022-04-03 11:21:16 When will you learn that the problem does not require your scripting knowledge to fix
+bug-reports 2022-04-03 11:21:25 Its literally just the properties
+bug-reports 2022-04-03 11:21:37 (Drag the exposed gui to another tab)
+bug-reports 2022-04-03 11:21:40 Its that simple
+bug-reports 2022-04-03 11:21:55 Thats not the problem
+bug-reports 2022-04-03 11:22:00 Its gui
+bug-reports 2022-04-03 11:22:13 So you are sayying
+bug-reports 2022-04-03 11:22:17 That the buttons
+bug-reports 2022-04-03 11:22:20 On your screen
+bug-reports 2022-04-03 11:22:23 Are not gui?
+bug-reports 2022-04-03 11:22:47 And instead called (disapearing rockets or invisible builds)
+bug-reports 2022-04-03 11:23:25 Is this not a gui?
+bug-reports 2022-04-03 11:23:46 If you dont understand, thats not my problem
+bug-reports 2022-04-03 11:23:53 But what im sayying is
+bug-reports 2022-04-03 11:24:30 Roblox servers caused the problem (you just said it, and you are right)
+bug-reports 2022-04-03 11:24:54 But within roblox studio plane crazy place, it can be fixed
+bug-reports 2022-04-03 11:24:58 Finding that gui
+bug-reports 2022-04-03 11:25:04 That was leaked in my screen
+bug-reports 2022-04-03 11:25:11 In the roblox studio plane crazy placr
+bug-reports 2022-04-03 11:25:21 And then moving it to lighting
+bug-reports 2022-04-03 11:25:38 Instead of leaving it in startergui when its not even used
+bug-reports 2022-04-03 11:25:47 Im not sayying this is required to do
+bug-reports 2022-04-03 11:25:59 Im just sayying that it could be done in future projects
+bug-reports 2022-04-03 11:26:22 To avoid the gui leak again
+bug-reports 2022-04-03 11:27:14 And if i still face this problem again (even tho the servers are fixed)
+bug-reports 2022-04-03 11:27:26 That means roblox itself wasnt involved
+bug-reports 2022-04-03 11:27:32 But something triggering it
+bug-reports 2022-04-03 11:33:31 Try to get someone else to do it
+bug-reports 2022-04-03 11:39:42 Lets have a normal conversation in <#497142796961054721>
+creations-chat 2022-04-03 11:46:22 Bot went to buy milk
+creations-chat 2022-04-03 11:48:42 Ping rickje five times to fix the problem and get 99999999 robux (yes real) (and 99999999 free facial credits)
+creations-chat 2022-04-03 11:56:54 YES RISE MY CHILD! YOU HAVE CREATED A CHAIN
+creations-chat 2022-04-03 11:59:09 <:KEKW:670310537300672528> <:hahaa:773727260539617280>
+creations-chat 2022-04-03 12:01:10 chicken
+creations-chat 2022-04-03 12:03:35 wait, is the build tool fixed?
+creations-chat 2022-04-03 12:06:06 Is the build tool fixed?
+creations-chat 2022-04-03 12:08:07 Dont delete it, it shall be kept in the museum
+creations-chat 2022-04-03 12:12:09 
+creations-chat 2022-04-03 12:14:38 <@809781295500099584>  yes some guy 👀  started a chain
+bug-reports 2022-04-03 12:21:36 Yes, he does little attention to people
+bug-reports 2022-04-03 12:21:49 But i hope he still notices it
+creations-chat 2022-04-03 12:22:22 <@441939688018935818>
+creations-chat 2022-04-03 12:24:24 Yes exept hars🇾 🇪 🇸
+creations-chat 2022-04-03 12:26:49 Yes<:Mhm:551152556324159488>
+creations-chat 2022-04-03 12:31:01 You win
+creations-chat 2022-04-03 12:33:04 Imposible to make for him, because it has colors, the squares are only black and white,it would be good if there was more palletes
+creations-chat 2022-04-03 12:36:38 <@853923968041353236>  make bigger canvas
+creations-chat 2022-04-03 12:38:43 <@809781295500099584>  motorlock
+creations-chat 2022-04-03 12:56:46 Yes | <@456226577798135808>  1+
+creations-chat 2022-04-03 12:58:48 solee still making no fucking sense part 3152729867568146335243936
+creations-chat 2022-04-03 13:02:39 Oh this server
+creations-chat 2022-04-03 13:06:21 yes
+creations-chat 2022-04-03 13:14:21 🕋  minecraft
+help 2022-04-03 13:59:13 Idk, what i know is people like saying
+help 2022-04-03 13:59:16 It
+creations-chat 2022-04-03 14:35:19 <:CertifiedMoment:570774089099116548>
+bot-central 2022-04-03 14:39:02 !rank
+bot-central 2022-04-03 15:34:49 !help
+bot-central 2022-04-03 15:35:54 !help
+bot-central 2022-04-03 15:38:59 ?rhelp
+creations-chat 2022-04-03 15:40:55 Whats the esiest expert?
+creations-chat 2022-04-03 15:47:12 What do you think would fit for a tripod build?
+help 2022-04-03 16:07:14 If you add a resistance at the back of e plane and its face facing 45 dg it will make the back go down and the front go up, resulting to a yaw
+help 2022-04-03 16:07:33 Watch how planes move in youtube first, before you play the game
+help 2022-04-03 17:01:50 When you are in a car, open up a window, make your hand flat and facing where the car is facing, if you feel like something is pushig your hand  thats called wind/air resistance, now try making your hand face down or up, you will feel less resistance
+help 2022-04-03 17:06:13 It is the reason for movement of a plane, you can see the aelrons moving when the plane wants to move, that moving flap is creating resistance, but since a plane is on the air not on the ground, it can freely move instead of the plane resisting the wind instead
+creations-chat 2022-04-03 17:06:53 Okay thank you
+bug-reports 2022-04-03 18:10:42 wow
+bug-reports 2022-04-03 18:10:51 thats how bad my laptopt is
+creations-chat 2022-06-23 15:18:55 1 why is there big slowmode?
+creations-chat 2022-06-23 15:26:14 i use a laptop too
+creations-chat 2022-06-23 15:29:27 i have a mouse anda  keyboard for my laptop
+creations-chat 2022-06-23 16:00:01 i ment the roblox studio recreation i dint just copy the outer layer but i had to make the parts from plane crazy and make them as accurate as possible
+<@685909594932773033>  thank you for your honest opinion, i will learn from it 👍 this stupid slow mode is annoying
+creations-chat 2022-06-23 16:02:05 idk i just felt like it, im a 3d artist i like recreating stuff and make them as accurate as possible i was a 5 year old ok? i dont think its neccecary to talk about my username
+creations-chat 2022-06-23 16:04:15 i could probably export the helicopter from roblox studio to blender and make a gfx from it! but since roblox exports textures to blender really bad i haev to remake the textures aswell
+creations-chat 2022-06-23 16:06:37 textures looks bad so far, but it will be finished soon.. like soon, hold on slow mode is still counting
+creations-chat 2022-06-23 16:08:39 not.. in blender, in studio then i just imported it to blender wh- WHY SO MUCH QUESTIONS WHITH WTHIS STUPID SLOW MODE (this quewstion on top of me, yes i might make one)
+creations-chat 2022-06-23 16:10:58 question me in <#497142796961054721>  i dont like slowmode
+creations-chat 2022-06-23 16:15:22 >:((((
+creations-chat 2022-06-23 16:23:36 yes
+creations-chat 2022-06-23 18:09:31 i am sorry for being bad, but ill try to make something better to recreate next time 👍
+creations-chat 2022-06-23 18:11:36 shall i ask why the upvotes were reseted?

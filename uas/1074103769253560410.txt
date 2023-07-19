@@ -1,0 +1,383 @@
+The Tale of ogyungchrist (1074103769253560410)
+help 2023-04-04 17:12:28 is there any particular reason why trails and smoke has never worked for me
+help 2023-04-04 17:12:57 like when i set trails up on my planes they dont show when i fly
+help 2023-04-04 20:58:00 already did that, particles are on too, for some reason they just dont work for me
+help 2023-04-05 00:10:20 are u just using the flamethrower for the lulz because no way thats a viable pvp weapon
+help 2023-04-05 00:43:30 fair enough, ive never actually used one besides testing how good it was
+help 2023-04-05 01:08:35 is there any way to make this more compact?
+help 2023-04-05 01:25:19 there are tutorials its not that hard
+help 2023-04-05 01:28:38 something like this but a motor instead of a motor2
+help 2023-04-05 01:29:24 idk how to make it a circle and motor lock it but angle locking isnt that hard
+help 2023-04-05 01:34:57 how is it flipping out
+help 2023-04-05 01:46:05 im assuming youre not controlling it
+help 2023-04-05 01:46:14 is the weight distributed  equally
+help 2023-04-05 01:48:44 is it backheavy
+help 2023-04-05 01:49:04 looks like its swinging because the back is too heavy
+help 2023-04-05 01:49:55 yeah try adding wing panels
+help 2023-04-05 01:50:08 i know trapdoors are lighter so  that might be why
+bot-central 2023-04-05 04:40:25 !rank
+bot-central 2023-04-05 07:33:34 -servers
+help 2023-04-05 07:55:50 its been fixed
+bug-reports 2023-04-05 18:16:22 its beautiful
+creations-chat 2023-04-05 18:37:15 my dad owns minecraft
+the-dump 2023-04-05 18:37:27 speeading the gospel
+creations-chat 2023-04-05 19:57:27 expose motorlock is for the win
+creations-chat 2023-04-05 20:03:27 i tried to camera lock it but i suppose that is way more complicated
+help 2023-04-05 21:28:47 angle lock <:clueless:942802644043464734>
+creations-chat 2023-04-05 23:24:38 black dorito and more triangular black dorito is about the only resemblance i see
+help 2023-04-05 23:25:15 too fast or ur control surfaces are bad or weight distribution
+creations-chat 2023-04-06 02:32:42 looks too wide and the front is too long
+creations-chat 2023-04-06 02:50:28 ems services to my knowledge arent companies originating from the government, so they have ambulances with fire brigades to make profit (or so im told)
+help 2023-04-06 02:51:07 how arent they working
+help 2023-04-06 02:51:50 why is it teleporting
+help 2023-04-06 02:51:56 are u trying to camera lock or something
+help 2023-04-06 03:43:11 use motor 2 instead of motor 1 for elevators
+help 2023-04-06 03:43:18 also it is set to lock i think
+help 2023-04-06 03:43:34 which it shouldnt be if its a control surface
+creations-chat 2023-04-06 04:05:25 hey man thats not nice
+creations-chat 2023-04-06 05:10:08 a car <:noway:1021283202561744977>
+creations-chat 2023-04-06 05:12:37 yes there are
+help 2023-04-06 05:59:20 this is news to me what
+help 2023-04-06 06:02:26 i suppose, i never thought of it like that i just always put lock on my angle locks because i was told to
+the-dump 2023-04-06 06:13:06 based on what <:clueless:942802644043464734>
+bot-central 2023-04-06 06:27:20 !rank
+creations-chat 2023-04-06 07:15:38 otf type of switchblade
+the-dump 2023-04-06 07:20:56 made in china
+the-dump 2023-04-06 07:39:48 uusr not like the gays <:nooo:787097964946259978>
+help 2023-04-06 16:31:38 is the torque high or low
+creations-chat 2023-04-06 16:32:37 u had a good idea it just was executed not very well
+help 2023-04-06 16:32:51 try changing the torque
+help 2023-04-06 16:33:46 motor lock <:trollface:775024642104229898>
+creations-chat 2023-04-06 17:05:31 the Ronald McCopter
+the-dump 2023-04-06 17:05:51 this looks majestic
+the-dump 2023-04-06 17:07:16 patrolling Lithuania almost makes you wish for a nuclear winter <:trollface:775024642104229898>
+creations-chat 2023-04-06 18:16:55 you guys suck at grammar and are arguing over the dumbest thing
+creations-chat 2023-04-06 18:19:32 i lol’ed
+creations-chat 2023-04-06 20:16:03 for a good reason is pretty flipping garvage but here https://youtu.be/rLmHns90XMA
+creations-chat 2023-04-06 22:42:05 fix gaps in nose but nice
+help 2023-04-06 22:43:11 the tees is the leaf
+help 2023-04-06 22:59:31 tomcat <:trollface:775024642104229898>
+help 2023-04-06 23:09:14 jerrymouse
+help 2023-04-06 23:09:24 would be the biblically accurate version
+creations-chat 2023-04-07 00:52:02 i just got a free aircraft wing lesson
+creations-chat 2023-04-07 01:49:28 <@946190864030498846> sick plane how do you get the custom afterburners like that?
+creations-chat 2023-04-07 01:52:47 fair enough
+creations-chat 2023-04-07 05:14:05 hover engine <:clueless:942802644043464734> <:clueless:942802644043464734>
+creations-chat 2023-04-07 05:16:22 900 sps is plenty fast
+creations-chat 2023-04-07 05:19:56 you have rockets so im assuming is a pvp jet, why would you need 4k sps when the standard is almost always under 1k + wtf are ur using that goes 4k
+creations-chat 2023-04-07 05:23:18 yeah i know rocket speed is relative but how is that practical also im surprised you manage to get any stability past 2k
+creations-chat 2023-04-07 05:25:34 m2m with a conveyor engine??? u gotta teach me this power bro
+creations-chat 2023-04-07 05:32:13 real af
+creations-chat 2023-04-07 06:03:30 wings are too chonky
+creations-chat 2023-04-07 17:47:21 animals (like humans) have a lot moving parts, its kind of hard to make an animal that is true to how it moves without not having segments to allow it to move
+the-dump 2023-04-07 20:19:38 <:clueless:942802644043464734>
+the-dump 2023-04-07 20:21:03 
+help 2023-04-07 20:29:13 real engines where cylinder goes is essentially a tube (partly to guide it partly to have compression)
+help 2023-04-07 20:29:25 just build something to guide it better
+help 2023-04-07 20:29:59 also try to not have the pistons come out of the bottom thats why theyre going undone
+help 2023-04-07 20:30:16 or logically
+help 2023-04-07 20:30:56 motor lock <:trollface:775024642104229898>
+help 2023-04-07 20:37:36 motorlock is so easy i have nightmares about it
+the-dump 2023-04-07 20:42:38 definitely not
+creations-chat 2023-04-07 20:55:17 stiff and looks over complicated also wtf is that music
+the-dump 2023-04-07 21:05:01 give me a moment
+the-dump 2023-04-07 21:05:47 <@722156712714305967> https://discord.com/channels/384021699466756103/497142796961054721/1093992326860378173
+the-dump 2023-04-07 21:05:52 read up and down
+the-dump 2023-04-07 21:06:06 kid got mad cus his build was shit and everyone was criticizing him
+creations-chat 2023-04-07 21:29:21 motorlock (motorlock it until the game runs at 5fps)
+creations-chat 2023-04-07 21:31:24 it can always have more motorlock
+the-dump 2023-04-07 21:32:18 is pop bob actually trans
+help 2023-04-08 00:00:53 stop using tut
+the-dump 2023-04-08 00:03:48 colouror
+help 2023-04-08 00:14:00 motorlocking not hard
+help 2023-04-08 00:15:22 i dont see how it being on a heli makes it a problem
+help 2023-04-08 00:15:34 just motorlock it like any other vehicle
+bot-central 2023-04-08 02:02:31 !help
+creations-chat 2023-04-08 02:12:30 skill issue
+bot-central 2023-04-08 02:45:59 !rank
+help 2023-04-08 02:56:59 not connected?
+creations-chat 2023-04-08 03:08:20 i retract my statement
+creations-chat 2023-04-08 03:56:34 discord light youser
+help 2023-04-08 03:57:00 what cabins do you already have
+help 2023-04-08 03:58:09 add like a sauna or something
+help 2023-04-08 03:58:13 or a workshop
+creations-chat 2023-04-08 04:13:34 built ford tough
+the-dump 2023-04-08 04:31:33 <@690931622345834527> kid spamming my dms because his plane got criticized
+the-dump 2023-04-08 04:32:46 nah he got banned for spamming the r word
+the-dump 2023-04-08 05:44:29 is cat
+the-dump 2023-04-08 05:44:50 i forgot the name of her breed
+the-dump 2023-04-08 05:44:57 its like nebe something
+the-dump 2023-04-08 05:45:07 no is not Britishlonghair
+the-dump 2023-04-08 05:45:19 is nebelung cat
+help 2023-04-08 07:05:58 to add more weight dug
+help 2023-04-08 07:05:59 duh
+help 2023-04-08 07:06:03 ballast blocks or sum shit
+help 2023-04-08 07:06:10 if not use helium
+creations-chat 2023-04-08 07:55:39 <@771221715479953419> add vertical stabilizer, also wtf is up with the pokey things at the end of ur wings
+bug-reports 2023-04-08 08:00:48 honestly just skill issue
+creations-chat 2023-04-08 16:33:51 wing too big
+the-dump 2023-04-08 16:36:27 https://tenor.com/view/epic-embed-fail-ryan-gosling-cereal-embed-failure-laugh-at-this-user-gif-20627924
+the-dump 2023-04-08 16:43:24 unde
+creations-chat 2023-04-08 16:48:13 whitename activity
+creations-chat 2023-04-08 17:11:28 fin??
+creations-chat 2023-04-08 17:28:33 its a solid build, but is clearly unfinished
+creations-chat 2023-04-08 17:38:02 thats roscale dumbass
+creations-chat 2023-04-08 17:42:43 who bit into bros wing
+creations-chat 2023-04-08 18:06:18 unfortunately there are limits
+creations-chat 2023-04-08 18:35:57 DONT watch this tutorial its fucking shit nam planes are terrible and the only good part was like 5 mins in part 1 where he talks about material science
+creations-chat 2023-04-08 18:45:51 is not that bad
+help 2023-04-09 00:08:24 the same color as the skeleton theyre connected to
+help 2023-04-09 00:08:28 or the grey part
+bug-reports 2023-04-09 00:25:12 local58?
+creations-chat 2023-04-09 00:58:16 i dont think so
+creations-chat 2023-04-09 01:07:26 hof is not a very big flex
+creations-chat 2023-04-09 01:43:52 whos we <:clueless:942802644043464734>
+creations-chat 2023-04-09 01:53:11 how do i become this we
+creations-chat 2023-04-09 02:49:11 <@740033004604227614> has potential is any of it motorlocked? angles dont seem smooth
+creations-chat 2023-04-09 02:52:42 fix the cheese grater wings add custom control sufaces instead or sum
+creations-chat 2023-04-09 02:57:31 <@743927557262671912> more details, the idea is there but its lacking
+creations-chat 2023-04-09 03:01:34 finished product is gonna crash the game or sum if its only that far and its getting to 25k
+creations-chat 2023-04-09 03:15:09 its beautiful swept wings carry
+creations-chat 2023-04-09 03:24:50 that is really nice
+creations-chat 2023-04-09 03:27:50 variable swept wings is absolutely the play
+creations-chat 2023-04-09 03:30:49 lets not get ambitious here, the tomcat is clearly superior and did variable swept wings better
+creations-chat 2023-04-09 03:35:00 the blueprint is a good addition, it shows that the wings are literally perfect
+help 2023-04-09 03:59:33 i dont see the problem
+help 2023-04-09 03:59:40 iexplain
+help 2023-04-09 04:05:53 bro has never played hl2
+help 2023-04-09 04:10:41 also teach urself  all this shit
+help 2023-04-09 04:10:49 trust me not knowing will just stunt ur growth
+help 2023-04-09 04:12:33 thats why i said to teach urself
+help 2023-04-09 04:12:46 i found out about motorlocking on accident best mistake i ever made
+help 2023-04-09 04:13:25 use motorlock towers
+help 2023-04-09 04:13:39 a lot of people use them for a good reason
+help 2023-04-09 04:13:41 detail
+help 2023-04-09 04:23:30 so use it
+help 2023-04-09 04:34:52 just camera lock
+help 2023-04-09 04:36:45 and get second monitor <:trollface:775024642104229898>
+help 2023-04-09 04:38:33 they have been giving u tips the entire time
+help 2023-04-09 04:39:18 sketchup or something like that has models i thimk
+creations-chat 2023-04-09 04:47:13 preach
+help 2023-04-09 05:02:11 this is the correct way to landing gear
+help 2023-04-09 05:11:42 i just watch youtube on my phone
+help 2023-04-09 05:11:47 idk how to set up a hulu overlay
+help 2023-04-09 05:12:26 ill see
+help 2023-04-09 05:12:30 if theres a way
+help 2023-04-09 05:13:28 for chrome and shit yeah but i dony see for like any streaming
+the-dump 2023-04-09 05:57:45 real
+the-dump 2023-04-09 06:03:02 they follow something that they move with the other hand
+the-dump 2023-04-09 06:03:11 is like if you look straight and move your phone while focusing on it
+the-dump 2023-04-09 06:03:25 yeah
+the-dump 2023-04-09 08:03:19 pilot tube on “su35” <:lmfao:527971550360633393>
+creations-chat 2023-04-09 08:04:21 make the wings thicket
+help 2023-04-09 08:10:35 lol
+bug-reports 2023-04-09 08:11:19 its definitely a design flaw on your end
+bug-reports 2023-04-09 08:11:34 because i havent seen anyone else actually have that problem
+bug-reports 2023-04-09 08:15:06 try deleting the rooms
+bug-reports 2023-04-09 08:15:14 if you got it after its definitely something to do with the rooms
+bug-reports 2023-04-09 08:15:45 if not its just time to cut ur losses
+creations-chat 2023-04-09 09:06:01 a for effort
+creations-chat 2023-04-09 09:11:31 <@482073440959070218> i know im stating the obvious but your proportions are way off aswell as the shape
+help 2023-04-09 09:25:44 i like but where is the pilot tube
+help 2023-04-09 09:26:08 to my knowledge the mig25 has one at the tip of it nose
+help 2023-04-09 09:29:10 yes
+help 2023-04-09 09:29:16 is to measure air or something like that
+help 2023-04-09 09:29:29 fair enough
+help 2023-04-09 09:29:32 looks good though
+help 2023-04-09 09:30:34 level 3 but you cant send images in <#497142796961054721> without expert role
+help 2023-04-09 10:11:05 stop using shitty madvulpen tutorial
+help 2023-04-09 10:11:09 build your own plane
+the-dump 2023-04-09 16:23:03 https://tenor.com/view/american-psycho-impressive-very-nice-coping-patrick-bateman-gif-26518058
+creations-chat 2023-04-09 17:00:58 trapdoor wings aren’t practical because of its size but very nice
+the-dump 2023-04-09 17:05:34 whyd you steal my toast
+creations-chat 2023-04-09 18:01:34 the proportions are so fucked bro
+creations-chat 2023-04-09 18:07:35 definitely
+help 2023-04-09 19:02:26 show
+help 2023-04-09 19:07:08 are you sure the center of weight is actually centered
+help 2023-04-09 19:07:36 no
+help 2023-04-09 19:07:53 the center of gravity?
+help 2023-04-09 19:08:35 oh what the shit
+help 2023-04-09 19:08:50 probably
+creations-chat 2023-04-09 20:33:57 the pilot tube too long
+
+i take that back
+creations-chat 2023-04-09 20:39:02 its the thin rod at the end of the nose, is used to determine airspeed
+
+yeah i spelt it wrong concept still applies
+help 2023-04-09 20:41:08 are the control surfaces auto control
+help 2023-04-09 20:41:11 or not enabled
+creations-chat 2023-04-09 21:06:05 yeah thats why i backpedalled, the angles were strange which is why i said
+creations-chat 2023-04-09 22:01:44 tell her its her fault lol
+creations-chat 2023-04-09 22:03:46 mission failed, well get ‘em next time boys <:nooo:787097964946259978>
+the-dump 2023-04-09 22:32:31 vertical mouse
+creations-chat 2023-04-09 22:37:04 namling try not to make an unoriginal jet challenge (mathematically impossible!!!!)
+creations-chat 2023-04-09 22:52:46 nam has got some very occasional extremely rare good ideas
+creations-chat 2023-04-09 23:25:25 whitename exposed
+help 2023-04-09 23:34:07 camera bud
+help 2023-04-09 23:34:17 use a camera instead
+help 2023-04-09 23:34:40 i replied to the wrong thing
+help 2023-04-09 23:34:49 for this
+help 2023-04-10 00:32:47 hover engines dawg
+help 2023-04-10 00:32:53 rockets have drag
+help 2023-04-10 00:33:05 ur plane will actually fly like a plane w hover engines
+help 2023-04-10 00:41:49 is weight reduction time if its too slow
+creations-chat 2023-04-10 01:23:33 wtf is this
+the-dump 2023-04-10 01:43:44 nightmare fuel
+creations-chat 2023-04-10 02:31:54 you are doing my baby an injustice
+creations-chat 2023-04-10 03:24:10 delete it
+the-dump 2023-04-10 05:07:14 <:noway:1021283202561744977>
+creations-chat 2023-04-10 05:29:59 bros using chess terminology
+the-dump 2023-04-10 05:31:21 bypass these nuts
+the-dump 2023-04-10 05:37:05 what
+the-dump 2023-04-10 05:37:11 r63
+the-dump 2023-04-10 05:37:14 wtf is that
+creations-chat 2023-04-10 05:41:32 best album too
+creations-chat 2023-04-10 05:44:36 <:thoink:657279634563399720>
+the-dump 2023-04-10 05:52:34 i saw this video toi lmfao
+help 2023-04-10 06:31:47 lol the tank has a pp
+help 2023-04-10 06:33:49 Watch your language, <@956447807156412467> !
+help 2023-04-10 06:34:05 just make tank with the hull being tank pp
+help 2023-04-10 06:34:15 i presume it doesnt rotate up
+help 2023-04-10 06:34:25 seems simple enough
+help 2023-04-10 06:34:39 naughty words
+help 2023-04-10 06:34:42 you need a time out
+help 2023-04-10 06:37:49 are you planning to make roscale or proportionally bigger
+help 2023-04-10 06:37:52 cus if roscale it wont work
+help 2023-04-10 06:38:51 no way you just said that
+the-dump 2023-04-10 06:39:01 LMFAO
+the-dump 2023-04-10 06:46:14 he wants many things inside him
+creations-chat 2023-04-10 08:48:10 there cant be propeller engines, has to be powered by motors
+help 2023-04-10 08:48:39 what typa fuckin mig??
+help 2023-04-10 22:07:19 skille issue
+help 2023-04-10 22:07:38 just be a better pilot bro
+help 2023-04-10 22:12:11 delete badkuos easy
+help 2023-04-10 22:12:54 bro got the automated shortcuts
+help 2023-04-10 22:13:44 are you mentally handicap <@952762481380556800>
+help 2023-04-10 22:14:00 rip
+help 2023-04-10 22:14:03 <:nooo:787097964946259978>
+the-dump 2023-04-10 22:15:08 do the thug shake
+creations-chat 2023-04-11 00:47:45 thats pretty sick, its aa crane?
+creations-chat 2023-04-11 01:18:22 whta the fuck type of turret
+help 2023-04-11 03:02:10 this game is dying more and more every day.
+help 2023-04-11 03:02:38 rickje not making pc2 is just driving it further into the ground
+help 2023-04-11 03:05:33 youll get banned lol
+help 2023-04-11 03:06:11 its a roblox game i wouldnt expect any more
+help 2023-04-11 03:06:31 just don’t press inverted?
+help 2023-04-11 03:09:00 a lot of mechs can absolutely fuck planes
+help 2023-04-11 03:10:24 is understandable but pc2 has been in the works so long its actually fucking stupid and when mods are active here they are actively not doing their job
+help 2023-04-11 03:11:24 pc1 is already a great game, edging an entire community about a reworked game is way more work than just updating the game
+creations-chat 2023-04-11 03:51:12 i dont see anything
+help 2023-04-11 07:15:44 disconnector
+the-dump 2023-04-12 00:50:06 <@1057375865530503238> <:nooo:787097964946259978> <:nooo:787097964946259978>
+the-dump 2023-04-12 00:54:45 bro is heated
+the-dump 2023-04-12 00:55:04 i got booboo bear <@1057375865530503238> all hot and wild
+the-dump 2023-04-12 00:55:39 thi s fucking kid LMFAO
+the-dump 2023-04-12 00:59:54 https://tenor.com/view/stare-christian-bale-handsome-gif-13379950
+the-dump 2023-04-12 01:18:38 do y’all sleep in pajama pants
+help 2023-04-12 01:20:32 yes
+help 2023-04-12 01:20:34 just talk
+help 2023-04-12 01:38:48 if youre active enough yeah
+help 2023-04-12 01:38:57 i got to rank like 11 and ive only been here a few dats
+help 2023-04-12 01:39:03 march 26
+help 2023-04-12 01:39:05 so like a week
+help 2023-04-12 01:39:08 it doesnt take ling
+bug-reports 2023-04-12 02:36:07 who
+help 2023-04-12 02:44:31 real
+help 2023-04-12 02:45:36 tou need expert
+help 2023-04-12 02:45:48 now yoybdo
+creations-chat 2023-04-12 03:03:46 this is beautiful, howd you get the motor flush with the wing
+the-dump 2023-04-12 03:28:49 leave my bubbywubby boywife femboy alone
+help 2023-04-12 03:30:49 very nice
+creations-chat 2023-04-12 07:23:36 just buy a pc stop being broke
+creations-chat 2023-04-12 07:27:36 iphone retails like 1000 a 750 (probably ipad) device is not a flex dawg, just get a pc and youll have actual features
+creations-chat 2023-04-12 07:36:09 i know <:trollface:775024642104229898>
+help 2023-04-13 00:49:27 liquid cooled f22 no way!!!!
+help 2023-04-13 00:49:34 ultimate gaming machine
+creations-chat 2023-04-13 00:54:36 <@937406148670267453> delete it
+creations-chat 2023-04-13 01:01:04 whata wrong with turret
+creations-chat 2023-04-13 01:06:53 the one sent yes but turrets don’t constitute low effort or shitty
+the-dump 2023-04-13 03:10:34 https://tenor.com/view/christian-bale-american-psycho-walk-jam-gif-16732505
+the-dump 2023-04-13 03:18:46 stop copyibh me
+bot-central 2023-04-13 05:00:55 -servers
+the-dump 2023-04-13 05:28:54 <@835005635359801406> braindead
+the-dump 2023-04-13 05:29:18 just stop being broke
+the-dump 2023-04-13 05:29:42 the base free game is fine
+the-dump 2023-04-13 05:29:54 bad attention span
+the-dump 2023-04-13 05:29:56 get better
+the-dump 2023-04-13 05:30:34 no other way to describe how bad u suck if u think base sfs is lacking
+the-dump 2023-04-13 05:31:13 poor sfs skills
+the-dump 2023-04-13 05:31:18 paid for a free game
+the-dump 2023-04-13 05:31:29 that you cant even bring with you
+the-dump 2023-04-13 05:31:36 the dlcs aren’t expensive
+the-dump 2023-04-13 05:32:21 yes infinitely better
+the-dump 2023-04-13 05:32:45 no just dumbasses who think a free game is lacking because its free
+the-dump 2023-04-13 05:32:56 this is what im saying
+the-dump 2023-04-13 05:33:02 theyre sufficient enough togsther
+the-dump 2023-04-13 05:35:26 this kid
+the-dump 2023-04-13 05:35:31 <:nooo:787097964946259978>
+the-dump 2023-04-13 05:35:47 yes
+the-dump 2023-04-13 05:35:53 because ur fucking slow
+creations-chat 2023-04-13 06:22:24 what the fuck are them after burners
+creations-chat 2023-04-13 06:31:48 very cool, not sure it actually works by moving your rudder and elevators but is nice
+creations-chat 2023-04-13 06:53:53 air resistance doesnt exist in plane crazy, only drag (they work differently for some reason (or so ive veen told))
+help 2023-04-13 07:31:59 yes
+creations-chat 2023-04-13 23:23:34 its one of the better creations in a long fucking time
+creations-chat 2023-04-13 23:27:01 the f22 being overrated has nothing to do with its build quality
+creations-chat 2023-04-13 23:30:48 it’s literally custom you mentally incapacitated monkey
+creations-chat 2023-04-13 23:42:16 i love krokodil!
+creations-chat 2023-04-13 23:54:28 yes
+creations-chat 2023-04-14 00:28:27 real whitenames shit on whitenames
+help 2023-04-14 00:29:10 puss no boots
+bot-central 2023-04-14 00:40:03 -servers
+creations-chat 2023-04-14 02:08:36 kids on discord think rank means clout (its a fucking discord server)
+creations-chat 2023-04-14 02:26:24 the tuktuk is cool
+creations-chat 2023-04-14 03:27:53 cool no good, i never seen anyone make tuktuk (very cool automobile)
+creations-chat 2023-04-14 04:50:38 just get good
+creations-chat 2023-04-14 04:53:53 your mom (she takes up 2 plots btw)
+creations-chat 2023-04-14 19:00:59 <@877106868491792424> mashallah brother
+help 2023-04-14 19:01:53 motorlocktower
+help 2023-04-14 19:02:08 magnet
+help 2023-04-14 19:04:06 replace the did connectors at the top with a motor-lock yower
+help 2023-04-14 19:04:08 easy
+help 2023-04-14 19:06:31 half blocks on top of the tower
+creations-chat 2023-04-14 19:07:40 motorlock
+bug-reports 2023-04-30 03:54:28 lag
+creations-chat 2023-04-30 04:16:37 beautiful representation for the f14
+help 2023-05-01 00:34:09 naval concept f22
+bot-central 2023-05-02 09:05:16 -servers
+help 2023-05-03 09:21:42 pro tip make a better plane (like the f14 (the greatest plane of all time))
+help 2023-05-03 10:13:32 good plane dont hate
+creations-chat 2023-05-03 10:14:15 because most of these builds should never be posted
+bug-reports 2023-05-03 17:02:25 add more wing panels or just get better devicd
+help 2023-05-03 17:06:33 it could still probably hold up against modern jets
+help 2023-05-03 17:06:48 soviet jets are practically stuck in the ice age f14 could dominate them any day
+help 2023-05-04 07:25:29 why the fuck are your jets at a 90 degree angle facing up
+help 2023-05-04 07:25:45 that is some weird thrust vectoring beo
+creations-chat 2023-05-04 09:37:17 what the fuck
+creations-chat 2023-05-04 09:59:53 delete it
+creations-chat 2023-05-04 14:10:03 go to server settings i believe
+creations-chat 2023-05-05 07:46:43 wall-e changes his treads during the movie so i believe new and clean
+help 2023-05-08 06:40:57 legacy are better for ground targets and have worse tracking
+help 2023-05-08 06:41:09 non legacy is better for air to air
+help 2023-05-08 07:34:18 i believe yes
+creations-chat 2023-05-08 22:52:49 <@1092515116349657129> please consider chemical castration so that nobody ever has to live with the burden of your offspring
+help 2023-05-11 04:46:38 easy
+help 2023-05-11 04:46:38 motor2
+help 2023-05-11 04:48:59 stop using control surfaces use motor2  for control surfaces instead
+help 2023-05-11 04:49:07 better maneuverability
+help 2023-05-11 04:49:35 look at any good plane in <#384025409945337856> they have motor2 instead of control surfaces
+help 2023-05-11 04:53:31 youre clueless bro
+help 2023-05-11 04:54:16 also just more reliable
+help 2023-05-11 04:54:55 yes
+help 2023-05-11 04:55:05 you can change the angle at which the control surfaces actually move
+help 2023-05-11 04:58:17 make the rotor tilt <:trollface:775024642104229898>
+help 2023-05-11 04:59:26 yes
+help 2023-05-11 04:59:28 make rotor tilt
+help 2023-05-11 04:59:31 not the blades
+help 2023-05-11 05:00:01 idk how to explain i have a vauge understanding of helicopters but the rotor tilts to move forward and backwards
+help 2023-05-11 05:01:47 it’s because ur center of gravity is to the side
+help 2023-05-11 05:01:54 or whatever the terminology is
+help 2023-05-11 05:02:06 if it tilts to one side yes it is
+help 2023-05-11 05:06:57 weigut balance
+help 2023-05-11 05:09:36 https://tenor.com/view/ip-grabber-ip-grabber-thanos-gif-21846609
+creations-chat 2023-06-06 12:45:56 <@839338445704658946> delete roblox

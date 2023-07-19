@@ -1,0 +1,3 @@
+The Tale of hs_uk (732221468896657458)
+bug-reports 2021-04-15 10:19:01 On mobile the flaps are being weird with the thumbstick
+bug-reports 2021-04-15 10:19:23 Up goes down down goes up and left goes right and right goes left

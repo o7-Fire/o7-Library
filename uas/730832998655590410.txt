@@ -1,0 +1,120 @@
+The Tale of sleetler (730832998655590410)
+the-dump 2020-11-14 02:43:19 Beam 1x4, Beam 1x7, Block, Block 1x0.9, Paint Block, Corner Wedge, Half Wedge, Inner Wedge; Pyramid Wedge, Triangle Wedge, Wedge 1x2, Wedge 1x3, Wedge 1x4, Wedge Beam, LCorner Wedge, LCorner Wedge 1x3, RCorner Wedge, RCorner Wedge 1x3, Round Wedge In, Round Wedge Out, Triangle Wedge 1x2, Triangle Wedge 1x3, Triangle Wedge 1x4, Triangle WedgeBlock, Triangle WedgeBlock, Triangle WedgeBlock 1x2, Triangle WedgeBlock 1x3, Triangle WedgeBlock 1x4, Half Beam, Half Block, Half Block Wedge, Half CornerWedge Down, Half CornerWedge Up, Half Triangle Wedge, Half Wedge, Half Wedge 2, Half Wedge Down, Half Wedge Down 1x2, Half Wedge Up, Half Wedge Up 1x2, Helium Beam 1x4, Helium Block, Half Light Block, Light, SpotLight, Wing Light, Ball, Ball 2x2, Ball 3x3, Half Ball, Half Ball 2x2, Half Ball 3x3, Cylinder, Cylinder 2 2x2, Cylinder 2x2, Cylinder 3x3, Cylinder 5x5, Half Cylinder, Half Cylinder 2, Half Cylinder 2 2x2, Half Cylinder 2 3x3, Half Cylinder 2 5x5, Half Cylinder 2x2, Half Cylinder 3 2x2, Half Cylinder 3x3, Half Cylinder 5x5, Pontoon Middle, Pontoon Middle 2, Pontoon Middle 2 C, Pontoon Middle 3, Stair, Stair 1x2, Turn Left, Turn Right, Friction Block, Ladder, Wing Panel 1x1, Wing Panel 1x2, Wing Panel 1x3, Wing Panel 1x4, Delta Wing 1x1, Delta Wing 1x2, Delta Wing 1x3, Delta Wing 1x4, Control Surface 1x1, Control Surface 1x2, Delta Control Surface 1x2, Propellor Blade, Trail, Huge Jet Engine, Jet Engine, Large Jet Engine, Huge Rocket Engine, Large Rocket Engine, Rocket Engine, Super Rocket Engine, Fuel Tank, Fuel Tank Beam, Water Propellor, Water Propellor 1x2, Water Propellor 2, Water Propellor 2x2, Water Propellor 2x3, Water Propellor 2x5, Water Propellor 3x3, Water Propellor 5x5, Giant Propellor Engine, Propellor Engine, Small Propellor Engine, Wheel, Hover Thruster, TrainWheel, Ballast Beam, Ballast block, Ballast tank, Cutter, Explosive Ball, Explosive Block, Gun, Rocket, Motor, Motor 2, Half Piston, Piston, Conveyor, Conveyor 1x2, Conveyor Wedge,
+
+Ran out of space
+the-dump 2020-11-14 02:46:07 Suspension, Small Landing Gear, Disconnector, Magnet, Rope, Anchored Block, Ball Wheel, Spring, Tiny Landing Hear, Parachute, Smoke Pipe, Speaker, Tips Jar, Sign 1x1, Sign 1x2, Sign 1x3, Text 1x1, Text 1x2, Text 1x3, Text 2x2, Text 3x3, Seat, Main Pilot Seat, Pilot Seat, Camera, Trap Door, Horn
+the-dump 2020-11-14 02:46:23 That's every plane crazy block, hope you enjoyed my video
+the-dump 2020-11-14 02:48:20 if you don't mind me, I'm going to question why I did it for a hour
+the-dump 2020-11-14 02:48:26 > imagine doing it from memory tho
+<@!484529511468236802> ***B e t***
+the-dump 2020-11-14 02:48:40 I'm going to start memorizing the blocks now
+the-dump 2020-11-14 02:49:08 Done
+the-dump 2020-11-14 02:49:18 Time to name all the music
+the-dump 2020-11-14 02:49:29 just kidding
+the-dump 2020-11-14 02:49:35 unless
+the-dump 2020-11-14 02:50:06 Damn
+the-dump 2020-11-14 02:50:07 That's nice.
+the-dump 2020-11-14 02:50:31 Nah
+the-dump 2020-11-14 02:51:20 ***How do you manage to fill up pins***
+the-dump 2020-11-14 02:51:30 I didn't even know such thing existed
+the-dump 2020-11-14 02:52:22 damn
+the-dump 2020-11-14 02:52:54 What if I wrote down every plane crazy block in plane crazy but...
+the-dump 2020-11-14 02:53:03 ***Every word is its own sign***
+the-dump 2020-11-14 02:53:32 Now that's what I call a pro gamer move
+the-dump 2020-11-14 02:53:41 oh yeah
+the-dump 2020-11-14 02:53:43 forgot about that
+the-dump 2020-11-14 02:53:56 but I don't have safe chat sooooooooo
+the-dump 2020-11-14 02:53:58 pog
+help 2021-10-17 11:24:44 I'm trying to put 3 blades on the propellor of my bf-109 but I have absolutely no clue how to angle them without like making it break
+help 2021-10-17 11:24:46 
+help 2021-10-17 11:26:30 wait does that actually work
+help 2021-10-17 12:03:53 in the front
+help 2021-10-17 12:04:30 the blue ball in build mode should be by the yellow one
+help 2021-10-17 12:43:04 click on it with the edit tool
+help 2021-10-17 12:43:10 and select a block
+help 2021-10-17 12:43:41 the camera will be like magically welded to the main pilot seat so you can do some funky shit
+help 2021-10-17 12:46:04 also make sure the thing you wanna rotate is connected to the camera
+help 2021-10-23 12:58:29 what does impact speed on the explosives do
+help 2021-10-23 13:00:54 oh
+help 2021-10-23 13:01:01 so I can make an irish car bomb
+help 2021-10-23 13:01:13 perfect
+help 2021-11-13 17:23:00 how do you paint the background of signs
+help 2021-11-13 17:23:15 
+help 2021-11-13 17:23:49 oh you gotta be kidding me
+help 2021-11-13 17:24:52 I'm fucking lazy
+help 2021-11-13 17:25:42 why does the paint hitbox for the text cover the entire front
+help 2021-11-13 18:23:24 holy fuck
+help 2021-11-13 18:23:32 I found the 1 pixel line
+help 2021-11-13 18:23:34 sheeesh
+help 2021-11-13 18:23:41 this makes it a lot easier
+help 2021-11-13 19:10:37 does anyone know the best damping setting for tank tread suspension
+help 2022-02-04 12:31:49 Do i use signs for for like optics on tanks
+help 2022-02-04 12:32:52 the periscope
+help 2022-03-22 16:10:15 how
+help 2022-03-22 16:10:17 the fuck
+help 2022-03-22 16:10:24 do I make tank periscopes
+help 2022-04-01 16:22:05 
+help 2022-04-01 16:22:08 can safely say
+help 2022-04-01 16:22:09 yes
+creations-chat 2022-04-01 16:25:16 roscale is impressive as hell when you're making tanks honestly
+help 2022-04-01 16:35:00 the f-222 frigate
+help 2022-04-01 16:44:34 damn
+help 2022-04-01 16:47:54 I am trying to make a knockoff leopard, but I am stuck on this part how do
+help 2022-04-01 16:53:25 thanks
+help 2022-04-01 16:54:01 but half triangle wedge too smol
+help 2022-04-01 16:55:28 
+help 2022-04-01 16:55:30 it kinda workey
+help 2022-04-01 16:56:23 idk
+help 2022-04-01 16:56:33 2a6 I guess
+help 2022-04-01 17:00:01 I mean I could
+help 2022-04-01 17:00:12 I'm gonna try it
+help 2022-04-01 17:01:07 screw it
+help 2022-04-01 17:01:13 I'm gonna make a leopard 2a4
+help 2022-04-01 17:01:23 roscale this time
+help 2022-05-22 13:37:09 ok so
+help 2022-05-22 13:37:15 I have an issue
+help 2022-05-22 13:37:29 where as soon as I use motor 2 to control my turret
+help 2022-05-22 13:37:37 where I have like working tank tracks
+help 2022-05-22 13:37:43 the tank tracks spaz out
+help 2022-05-22 13:37:54 but if I remove the motor 2 and replace it with a normal motor
+help 2022-05-22 13:37:57 it's completely fine
+help 2022-05-22 13:38:15 how fix
+help 2022-05-22 13:44:36 ok
+help 2022-05-22 13:46:32 with motor 2
+help 2022-05-22 13:47:08 
+help 2022-05-22 13:47:12 yes under turret
+help 2022-05-22 13:47:20 this is with normal motor
+help 2022-05-22 13:47:39 it's not finished
+help 2022-05-22 13:47:42 but yes
+help 2022-05-22 13:48:12 
+help 2022-05-22 13:48:20 very simple
+help 2022-05-22 13:48:35 nope
+help 2022-05-22 13:48:39 mouse controlled
+help 2022-05-22 13:49:40 might be
+help 2022-05-22 13:49:57 I did
+help 2022-05-22 13:50:03 but that worsened it
+help 2022-05-22 13:50:05 so I stopped
+help 2022-05-22 13:50:11 both settings yes
+help 2022-05-22 13:50:15 with and without
+help 2022-05-22 13:50:58 well I'll just use a normal motor until I can figure it out I guess
+help 2022-05-22 13:51:08 thank's for the help btw
+help 2022-05-22 13:55:08 oh yeah I did notice that
+help 2022-05-22 13:55:26 instead of the top part going down, the bottom part get's dragged up
+help 2022-05-22 13:56:27 probably
+help 2022-05-22 13:57:49 man I love motors
+help 2022-05-22 13:57:55 (sarcasm)
+help 2022-05-22 13:58:05 oh god
+help 2022-05-22 13:58:31 tried it
+help 2022-05-22 13:58:44 and everytime it like get's sent into space
+help 2022-05-22 13:59:29 good point actually
+help 2022-05-22 14:00:20 plane crazy moment
+help 2022-05-22 14:01:01 yup I get that feeling
+help 2022-05-22 14:01:38 I hate that sometimes if you lag while spawning in your creation the motors locks just like
+help 2022-05-22 14:01:40 don't
+help 2022-05-22 14:01:52 aight
+help 2022-05-22 14:01:59 I'll do that later
+help 2022-05-22 14:02:02 I'ma work on my puma
+help 2022-05-22 14:02:38 in summer?
+help 2022-05-22 14:02:40 fuuuuuuu
+help 2022-05-22 14:03:37 Yeah I'm gonna do something else
+help 2022-05-22 14:03:42 until PC2

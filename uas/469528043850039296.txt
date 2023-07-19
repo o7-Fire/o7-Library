@@ -1,0 +1,699 @@
+The Tale of thundorlord (469528043850039296)
+help 2020-10-01 19:55:58 How do u shoot the weapon guns?
+help 2020-10-11 11:04:44 Its completely symmetrical, yet it still says the weight is off centre, is this a bug? Any help?
+bot-central 2020-10-11 11:18:08 ?rhelp
+help 2020-10-11 11:24:02 its a rocket
+help 2020-10-11 11:24:17 everything is symetrical, 2 ways
+help 2020-10-11 11:24:57 no, it circles/leans, lift is below the weight
+help 2020-10-11 11:25:13 but they are still very close
+help 2020-10-11 11:26:35 its still 2 way symetrical tho
+help 2020-10-11 11:26:45 and the weight is off on the axis that is symmetrical
+help 2020-10-11 11:26:55 so it makes no sense
+help 2020-10-11 11:27:21 wdym
+help 2020-10-11 11:27:35 like a counter weight?
+help 2020-10-11 11:28:16 i dont know what happened, it worked fine yesterday
+help 2020-10-11 11:28:21 now it doesnt
+help 2020-10-11 11:31:35 <@!387897231161688064> bruh what
+bug-reports 2020-10-23 16:33:11 Ye, my centre of mass indicator decided to descend into the depths of hell
+creations-chat 2020-10-23 18:35:05 <@!578322125023346697> yo how did u make that so long
+creations-chat 2020-10-23 18:40:31 lol, did u use motor locks and as much space as u could grab? XD
+creations-chat 2020-10-23 18:41:46 just tons of space im guessing
+creations-chat 2020-10-23 18:42:47 holy shit, imagine if u layered that upwards
+bot-central 2020-10-25 11:39:47 !servers
+bot-central 2020-10-25 12:22:18 !help
+bot-central 2020-10-25 12:22:38 !help
+bot-central 2020-10-25 12:22:52 pain
+bot-central 2020-10-25 12:24:07 !help
+bot-central 2020-10-25 12:24:19 this is why i blocked you MEE6
+bot-central 2020-10-25 12:24:29 !help
+bot-central 2020-10-25 12:25:21 !servers
+help 2020-10-25 13:27:03 Is a VTOL just a heli or drone?
+help 2020-10-25 13:52:09 yo, were u the dude showing me ur purple among us character ig?
+help 2020-10-25 13:52:14 <@!699600376583684176>
+help 2020-12-17 21:16:13 How can you stabilise a rocket non-aerodynamically?
+help 2020-12-17 21:17:01 like as it would with wings
+help 2020-12-17 21:17:04 but without wings
+help 2020-12-17 21:17:13 fly straight up
+help 2020-12-17 21:17:41 ye
+help 2020-12-17 21:18:13 ive seen tutorials on yt, but i want to understand what im building
+help 2020-12-17 21:18:32 what does it do
+help 2020-12-17 21:19:30 ye but then its just a helium balloon disguised as a rocket
+help 2020-12-17 21:19:50 lol i dont have one im working on rn
+help 2020-12-17 21:20:09 wdym
+help 2020-12-17 21:20:17 i got one rocket with wings if thats what u want
+help 2020-12-17 21:20:30 im not trying to implement stabiliser into it tho
+help 2020-12-17 21:20:52 coz i wanna make one from real life, and they dont have wings lol
+help 2020-12-17 21:21:41 wdym
+help 2020-12-17 21:22:16 ik, but there are ways around that
+help 2020-12-17 21:22:43 well i guess im looking for the complicated way then
+help 2020-12-17 21:23:06 that imperfection is what enables rocket stabilisers to exist
+help 2020-12-17 21:23:33 im not going with real life physics lol
+help 2020-12-17 21:23:51 but how stabilisers
+help 2020-12-17 21:24:28 thats just driving it, and not stable
+help 2020-12-17 21:24:37 i mean u press W and u dont need to worry
+help 2020-12-17 21:24:57 ye but u need constant attention to keep it stable
+help 2020-12-17 21:25:05 u can do that
+help 2020-12-17 21:25:06 yes
+help 2020-12-17 21:25:24 yes
+help 2020-12-17 21:25:28 not irl
+help 2020-12-17 21:25:31 but here yes
+help 2020-12-17 21:25:59 im not trying to make a irl perfect replica omg
+help 2020-12-17 21:26:07 il go experiment with suspension or something
+help 2020-12-17 21:26:23 omfg
+help 2020-12-17 21:26:25 calm down
+help 2020-12-17 21:26:41 ye that dont work
+help 2020-12-17 21:26:43 ive tried it
+help 2020-12-17 21:27:13 it dont
+help 2020-12-17 21:27:34 why would i make the rocket then make the stabilisation
+help 2020-12-17 21:27:56 thanks for the help
+help 2020-12-20 17:20:01 does a ballast block value of 2 correspond to the weight of 2 ordinary blocks?
+help 2020-12-20 17:37:34 is the official number written by a dev anywhere, everyone says its something different?
+help 2020-12-20 17:38:28 aight, i shall experiment
+help 2020-12-20 17:38:32 thanks for ur help
+bot-central 2020-12-22 20:48:29 !servers
+bot-central 2020-12-23 14:34:49 !servers
+bot-central 2020-12-23 18:39:05 !servers
+bot-central 2020-12-26 15:14:42 !servers
+creations-chat 2020-12-28 22:43:45 niiice
+help 2020-12-29 14:59:39 https://streamable.com/xwmqu5
+
+Sorry, I'm new to making planes, why does it wobble?
+help 2020-12-29 15:00:45 ok
+help 2020-12-29 15:00:58 how can i accomodate for the speed?
+help 2020-12-29 15:01:08 there must be something else it lacks for it to wobble
+help 2020-12-29 15:02:36 so speed + lag = wobbling a lot
+help 2020-12-29 15:04:04 nice thx for the help
+creations-chat 2020-12-29 15:35:26 <@!419809339000356874> black or really dark blue would look good i think
+creations-chat 2020-12-29 15:54:57 ye but they dont need no code to do it
+creations-chat 2020-12-29 15:58:31 i say work on it, beat brick lol
+creations-chat 2020-12-29 16:00:32 nice, might look better if u painted the back aswell tho
+creations-chat 2020-12-29 16:03:01 
+creations-chat 2020-12-29 16:05:16 just have the logo fold with the doors? its paint lol
+creations-chat 2020-12-29 16:08:04 just paint it lol, just do the word if u cant do the logo. Bepis is as simplistic as it is. U wont find something less complex.
+creations-chat 2020-12-30 18:04:17 <@!633408435601276945> didnt u post that before, im sure u posted that crashed plane before
+creations-chat 2020-12-30 18:08:22 no, i seen that crashed plane in <#384025409945337856> before
+creations-chat 2020-12-30 21:19:45 wow thats incredible
+help 2020-12-31 13:36:27 why does my plane do continuous uncontrolled loop-de-loops
+help 2020-12-31 13:42:01 https://streamable.com/gl8508
+Why this
+help 2020-12-31 13:44:34 I dont see how an elevator can aid in my plane design
+help 2020-12-31 13:45:01 whats an elevator?
+help 2020-12-31 13:45:33 so u mean flaps/control panels
+help 2020-12-31 13:45:37 coz i have those
+help 2020-12-31 13:45:41 and they arent helping
+help 2020-12-31 13:46:02 i disabled them to try fix the problem
+help 2020-12-31 13:46:10 then im gonna reenable them
+help 2020-12-31 13:46:55 wdym not alligned
+help 2020-12-31 13:47:02 its like perfectly symetrical, almost
+help 2020-12-31 13:47:51 so basically its coz the rockets are below the centre of lift
+help 2020-12-31 13:48:15 so il just put my rockets higher then problem solved
+creations-chat 2020-12-31 14:52:50 ok
+creations-chat 2020-12-31 19:18:58 electric fire tanker
+creations-chat 2020-12-31 19:50:45 try make custom control panels with motor 2
+creations-chat 2020-12-31 19:54:47 dude motor 2 litteraly uses moouse 💀
+help 2021-01-01 09:16:38 Whats the point in "servo" for motor 2?
+help 2021-01-01 09:43:32 is their anyway to make it so u can use mouse and keybinds?
+creations-chat 2021-01-01 12:52:47 looks good lol
+creations-chat 2021-01-01 14:33:06 damn thats good
+creations-chat 2021-01-01 14:35:06 <@!712273624865701921> thats impressive
+help 2021-01-01 15:37:23 ye lol
+bot-central 2021-01-01 18:37:04 !servers
+creations-chat 2021-01-02 11:17:27 Opinions on my Salmson 2?
+creations-chat 2021-01-02 11:32:20 well thats encouraging
+help 2021-01-02 12:22:10 lol i just do a screen, i get no complaints
+creations-chat 2021-01-02 12:25:38 <@456226577798135808> nothing wrong it honestly looks great
+creations-chat 2021-01-03 15:03:12 arent they motor 2s?
+creations-chat 2021-01-03 23:02:39 looks good, maybe find a way to hide the guns tho idk
+creations-chat 2021-01-05 15:32:49 the cylinder is too chunky compared to the original
+creations-chat 2021-01-05 15:59:12 u chonk, og not chonk
+help 2021-01-05 18:31:17 purple screwdriver
+help 2021-01-05 18:32:09 the yellow thing is just a pointer
+help 2021-01-05 18:32:17 its non-collide
+help 2021-01-05 18:33:58 motor 2 is just a motor controlled with a mouse
+help 2021-01-05 18:34:03 <@!726600777174483085>
+help 2021-01-05 18:34:10 like a control panel
+help 2021-01-05 18:35:07 thats for u to decide <:Shrugje139:652564379577090074>
+help 2021-01-05 18:35:29 Are there any 3D no-collide objects?
+creations-chat 2021-01-05 19:44:42 <@!393679134779375616> how did u do this
+creations-chat 2021-01-05 20:42:14 bro some hothead acting salty 😳
+creations-chat 2021-01-06 14:20:10 <@456226577798135808> veri swaag 😎
+creations-chat 2021-01-06 14:23:56 they dont appreaciate your talent 😭
+creations-chat 2021-01-06 14:41:13 > people take this game very seriously
+says the one with a literal live blacklist
+creations-chat 2021-01-06 14:43:14 he didnt take suggestions seriously 😳
+help 2021-01-06 14:49:27 custom control panels, and add some point to that nose, also round the end of ur wings more they too jagged
+creations-chat 2021-01-06 14:53:55 yoshi deserves death
+creations-chat 2021-01-06 14:56:00 <@!711717986943238175> thats badass
+help 2021-01-06 14:56:56 <@456226577798135808> shut
+bot-central 2021-01-06 15:14:44 !servers
+creations-chat 2021-01-06 15:35:42 ye, maybe a camo and some ladders
+help 2021-01-06 16:45:41 defo lookin better already
+creations-chat 2021-01-07 14:39:20 I still can't believe I submitted something like that a few months ago lol, like just why
+creations-chat 2021-01-07 14:41:20 Very true indeed
+creations-chat 2021-01-07 14:43:37 <@!765272382906040350> add a custom propellor and some less neon colours and u got urself something, rest of its mostly good tho
+creations-chat 2021-01-07 14:45:38 stick some super rocket engines in the back, sorted
+help 2021-01-07 15:27:24 *``, ,  虹彩,  ,  ''*
+the-dump 2021-01-07 17:51:13 the police said they found a bunch of bombs, so even if it were true (which it ain't) they would have found it
+the-dump 2021-01-07 18:29:00 send pictures of shotgun plushies, the sworn enemy of duck plushies, to assert dominance
+the-dump 2021-01-07 18:31:55 bruh its the dump come on
+the-dump 2021-01-07 18:31:58 dump*
+the-dump 2021-01-07 18:32:52 it was like 11 emojis for funny purposes how is that worthy of a warn
+the-dump 2021-01-07 18:33:07 ik
+the-dump 2021-01-07 18:33:14 which is why it should be allowed
+the-dump 2021-01-07 18:34:49 wait ur not being sarcastic for funny?
+the-dump 2021-01-07 18:35:25 wait can i ping support to get unwarned considering that this is litteraly the dump
+the-dump 2021-01-07 18:35:59 i got warned for sending a message with 11 emojis in the dump
+the-dump 2021-01-07 18:36:01 like what
+the-dump 2021-01-07 18:36:17 so why it say i got warned then
+the-dump 2021-01-07 18:36:54 it said "Hey too many emojis" then "Fuck you u get warned for emojis in meme channel"
+the-dump 2021-01-07 18:40:43 wdym
+the-dump 2021-01-07 18:40:45 in what way
+the-dump 2021-01-07 18:41:03 .
+the-dump 2021-01-07 18:41:40 damn
+help 2021-01-08 20:58:00 Is there anyway to delay a camera lock?
+bot-central 2021-01-08 21:32:45 ?shelp
+bot-central 2021-01-08 21:39:07 &suggest
+help 2021-01-09 16:40:36 Can anyone think of anyway i could motorlock the wheels individually by half a block upwards?
+help 2021-01-09 16:53:58 nvm i sorted it
+creations-chat 2021-01-09 21:41:31 Improvements?
+creations-chat 2021-01-10 11:18:11 Improvements?
+creations-chat 2021-01-10 15:17:06 Can someone please fucking tell me why this is bad
+creations-chat 2021-01-10 15:19:46 It got -10 upvotes and this is the third time I've tried to ask for improvements lmao
+creations-chat 2021-01-10 15:22:18 
+creations-chat 2021-01-10 15:24:56 to avoid the cam lock
+creations-chat 2021-01-10 15:28:20 <@!453015366281723905> It is "delayed" yes
+<@!555965248184778753> Where would the motors even go? Its a tail on a small plane.
+creations-chat 2021-01-10 15:31:25 But ***where*** would the motors go, i get u think i should attach them to the motorlock tower but thats not helpful, where could i hide them **and** still be functional at the same time?
+creations-chat 2021-01-10 15:35:40 Ok, I'm just going to presume that you think I should motorlock them to the side of the plane, if I were to do that, it would mean having to cut away 2 blocks of the wing in order for that motor to function, and that looks arguably worse than having the motor out in plain sight
+creations-chat 2021-01-10 15:40:40 The fuselage is like 1 block wide that far back tho
+creations-chat 2021-01-10 15:43:40 I see ur point
+creations-chat 2021-01-10 15:56:17 Oh i had already done that after i posted that image
+creations-chat 2021-01-10 16:00:06 Hows this
+creations-chat 2021-01-10 20:57:08 If you just want to get ranked I'd suggest going for something like aeronautical engineer I or something that doesn't require score
+creations-chat 2021-01-10 21:00:38 <#384025409945337856> in a nutshell lmao
+creations-chat 2021-01-10 22:04:42 u could just try moving it one block forward
+creations-chat 2021-01-11 07:04:43 that looks straight da vinci style
+creations-chat 2021-01-11 11:26:07 i used to think hover engines are affected by players
+creations-chat 2021-01-11 15:57:50 bruh thats cheating
+creations-chat 2021-01-11 16:00:05 <@!693508083145769101> nice spitfire
+creations-chat 2021-01-11 16:50:57 yup
+creations-chat 2021-01-11 16:55:43 the green shooter and the plainness of it did it for me
+creations-chat 2021-01-11 16:58:14 <@456226577798135808> isnt that just a repost
+help 2021-01-11 17:52:18 you could just remove the bad bits and turn it into a zep
+creations-chat 2021-01-11 19:55:08 I don't know can we
+help 2021-01-11 21:07:24 ur wings arent big enough for the speed, if you want to go faster increase wing size, or just slow down
+creations-chat 2021-01-12 09:19:36 Yes
+creations-chat 2021-01-13 09:26:46 <@!690917831268630599> thats good idk why all the downvotes
+creations-chat 2021-01-13 09:50:57 its a nice chair, but people around here will swarm you and youl get a creations blacklist :/
+creations-chat 2021-01-13 09:52:59 It's a rule that has a dumb zero-tolerance policy, so I'd suggest deleting the post, just tryna help dude
+creations-chat 2021-01-13 10:03:46 disrespectful
+creations-chat 2021-01-13 12:04:06 my highest upvoted thing has -1 upvotes <:KEKW:670310537300672528>
+creations-chat 2021-01-13 18:22:42 <@!349574733945241602> wow u need more upvotes
+creations-chat 2021-01-13 22:07:19 The ways people vote in <#384025409945337856> continues to amaze me
+creations-chat 2021-01-13 22:10:02 and this is fine lmao
+creations-chat 2021-01-13 22:12:32 "tons" it consists of 4 parts motorlocked together <@!447221768520859659>
+creations-chat 2021-01-13 22:15:21 It doesn't require effort tho
+creations-chat 2021-01-13 22:18:08 they're both barely above the low effort mark
+creations-chat 2021-01-13 22:20:31 There is a difference but they still both low effort, it took him a few seconds, how is that not low effort
+creations-chat 2021-01-13 22:25:17 It just annoys me to see builds like that get tons of upvotes, yet when lesser-skilled players post something that isn't as complex as the poster before them they get downvoted to oblivion
+creations-chat 2021-01-13 22:27:18 Grow up
+creations-chat 2021-01-13 22:30:29 I made a simple complaint, and now your shouting at your computer screen, please act your age
+creations-chat 2021-01-13 22:33:48 I'll respond when you've finished your temper tantrum
+help 2021-01-13 22:34:17 i think u good
+creations-chat 2021-01-13 22:41:22 Dude it looked simpler than it was, I'm sorry for calling ur creation low effort. For the record, i couldn't give two clicks about my "reputation"
+creations-chat 2021-01-13 23:12:22 what on earth just happened i have 6 pings
+creations-chat 2021-01-14 00:22:20 <@748355005874044938> Yo that looks so much better with the compressed suspension
+creations-chat 2021-01-14 00:34:03 Idk, I definitely thought that the suspension was too high up on ur first post tho
+creations-chat 2021-01-14 08:53:07 Lol
+creations-chat 2021-01-14 09:04:12 Lmao
+creations-chat 2021-01-14 10:01:27 That is one spicy plane
+creations-chat 2021-01-14 13:07:09 Actually they both look equally as good, I think it just boils down to preference of colour
+creations-chat 2021-01-14 14:42:24 Well it'll always be hit and miss
+creations-chat 2021-01-14 15:29:19 <@!369465157006393346> Yo that looks great apart from the cheese-grater section of the wings
+creations-chat 2021-01-14 15:31:21 use motor 2s and wing panels to make custom ailerons
+creations-chat 2021-01-14 15:33:26 looks amazing so far tho
+creations-chat 2021-01-14 17:18:40 https://discord.com/channels/384021699466756103/384025409945337856/799318800112812032 Bruh this is so good <@!456219506486804480>
+creations-chat 2021-01-14 17:20:41 Welcome to <#384025409945337856>
+creations-chat 2021-01-14 20:41:08 could u show it in light?
+help 2021-01-14 21:05:54 How move block by 0.25
+help 2021-01-14 22:13:15 use <#384021699466756107> instead, you'll get a faster response normally
+creations-chat 2021-01-14 22:42:57 Heinkel He 178
+creations-chat 2021-01-15 09:58:11 nice
+creations-chat 2021-01-15 13:58:21 Thats got great potential, not so amazing execution
+bot-central 2021-01-15 17:10:04 !servers
+creations-chat 2021-01-15 17:57:20 https://discord.com/channels/384021699466756103/384025409945337856/799691708673556540 <@!534422793497083925> You could work on making it a tad rounder?
+creations-chat 2021-01-15 21:55:11 I think it's because of the tall blade rig
+creations-chat 2021-01-15 21:58:03 motorlock go ***squish***
+creations-chat 2021-01-15 22:01:05 -Nobody ever
+creations-chat 2021-01-15 22:07:41 Also motors
+creations-chat 2021-01-16 00:31:15 Looks good
+help 2021-01-16 10:46:47 do !servers in <#384027830192832513>
+the-dump 2021-01-16 13:29:16 crigne
+creations-chat 2021-01-16 20:02:53 lel
+creations-chat 2021-01-16 20:28:53 I like it
+creations-chat 2021-01-16 20:31:05 https://discord.com/channels/384021699466756103/384025409945337856/800099337316728852 <@!414359638302130176> That archery emoji is so smart
+creations-chat 2021-01-16 21:49:31 looks good
+creations-chat 2021-01-16 22:37:52 ***emotion is no excuse***
+creations-chat 2021-01-16 22:44:43 Heinkel He 177
+help 2021-01-17 12:03:57 Remove the anchor block
+help 2021-01-17 12:04:34 Also keep powered and lock
+creations-chat 2021-01-17 12:11:42 I mean, paint would be good
+bot-central 2021-01-17 16:44:12 !servers
+help 2021-01-18 01:13:17 Is Mad Scientist the  "superior" of Crazy Scientist or are they independent ranks?
+creations-chat 2021-01-18 10:43:10 Congrats on the expert dude
+help 2021-01-18 18:38:01 Its min 100R$ tho
+creations-chat 2021-01-19 01:40:35 But wot is
+creations-chat 2021-01-20 14:29:54 I think the wings are the right thickness on their own but u need to work on their style
+creations-chat 2021-01-21 09:22:30 U need it to be a higher angle
+bot-central 2021-01-21 09:23:27 Wtf
+bot-central 2021-01-21 09:26:08 U need an expert rank
+bot-central 2021-01-21 09:26:36 Wouldn't it be aeronautical
+bot-central 2021-01-21 09:27:19 Ye but u just need to make a decent sized plane that looks alright
+bot-central 2021-01-21 09:27:58 Ye u can just make some kind of medium bomber, ez 2000 blocks
+bot-central 2021-01-21 09:28:35 Contest is mostly participated by super skilled players tho
+bot-central 2021-01-21 09:28:53 Like u need to be really good in a really short space of time
+bot-central 2021-01-21 09:29:23 Same lmao
+bot-central 2021-01-21 09:30:08 Ye, well that's <#384025409945337856> for ya
+bot-central 2021-01-21 09:30:33 I'm pretty sure my highest upvoted is -2
+bot-central 2021-01-21 09:31:16 Lol
+bot-central 2021-01-21 09:34:39 *shock*
+bot-central 2021-01-23 20:49:02 !servers
+creations-chat 2021-01-24 16:18:40 good
+creations-chat 2021-01-24 20:18:40 https://discord.com/channels/384021699466756103/384025409945337856/802995259151351828 <@!430739561690431489> Wow, very nice
+bot-central 2021-01-24 20:19:13 !rank
+bot-central 2021-01-24 20:19:27 veri nice
+bot-central 2021-01-24 20:19:43 was checkin i got image
+bot-central 2021-01-24 20:20:00 is the rank out of the whole server
+bot-central 2021-01-24 20:20:05 this server
+bot-central 2021-01-24 20:20:13 like few weeks
+bot-central 2021-01-24 20:20:17 couple months
+bot-central 2021-01-24 20:20:20 maybe
+creations-chat 2021-01-24 21:04:04 mods broke image role
+creations-chat 2021-01-25 13:21:36 Lmao aircraft carrier land edition
+creations-chat 2021-01-25 20:15:39 <@!265819387498332160> turn powered off on ur motorlock
+creations-chat 2021-01-25 20:17:42 Your motors in ur motorlock were powered on which is why they did that
+help 2021-01-26 11:57:37 How pistonlock
+help 2021-01-26 12:02:33 damn
+help 2021-01-26 12:02:38 do be like that
+help 2021-01-26 12:44:27 flip it around so the motor is on the other side of the fold
+help 2021-01-26 18:32:54 berg
+creations-chat 2021-01-26 18:48:24 very nice
+creations-chat 2021-01-27 10:10:50 looks good
+creations-chat 2021-01-27 11:38:12 The cabin is very blocky and box-like
+creations-chat 2021-01-27 12:03:46 <@711864928574898196> cheesegrater wings bad
+creations-chat 2021-01-27 12:13:20 It's still good tho
+creations-chat 2021-01-27 13:15:04 Why is vote backwards lmao
+creations-chat 2021-01-27 19:05:24 he can only submit for hof if it surpasses 75 total score, ok lmao
+creations-chat 2021-01-27 19:08:07 nah u gotta request it directly to the mods i think, then the staff team vote on whether they think its hof worthy or not. Might be wrong tho.
+help 2021-01-28 16:27:03 Yo it look good
+creations-chat 2021-01-28 16:42:36 Yes
+creations-chat 2021-01-28 16:50:08 U might need to get ranked I think, check <#609442446249820211> and <#705941616199991307>
+creations-chat 2021-01-28 16:54:11 He got himself banned
+creations-chat 2021-01-28 16:56:29 Ik wut happened, obc had sense
+creations-chat 2021-01-28 17:04:35 He was the one in the wrong, he got himself banned not u
+creations-chat 2021-01-28 17:08:27 U doin exactly what he was doing, escalating a situation from nothing,stop complaining about pings and you'll stop getting pinged
+creations-chat 2021-01-28 17:10:28 U r totally escalating it, listen to obc, move on
+creations-chat 2021-01-28 17:17:42 ✨ ***calm down*** ✨
+creations-chat 2021-01-28 17:20:10 Yeeees
+help 2021-01-29 13:33:39 git rank nub
+help 2021-01-29 13:33:56 also <#609442446249820211> and <#705941616199991307> if u need them
+creations-chat 2021-01-29 13:36:14 yes
+creations-chat 2021-01-29 13:40:03 <@!547059243631640580> https://www.youtube.com/watch?v=zyiPBQZOZF8
+https://www.youtube.com/watch?v=nESCtKwrWqs
+useful vids
+help 2021-01-29 13:44:04 wut
+help 2021-01-29 13:45:13 theres a vip server anyone in this disc can join if u can get a rank
+creations-chat 2021-01-29 13:46:57 they litteraly the only 2 decent vids on it lol
+help 2021-01-29 13:47:59 dude theres links to all the requirements for each rank in <#609442446249820211>
+bot-central 2021-01-29 17:39:50 !servers
+creations-chat 2021-01-29 21:59:56 <@456226577798135808> lol come up with your own riddles
+creations-chat 2021-01-29 22:01:59 dude its stolen from an internet hunt thing. 
+
+<@456226577798135808> if thats not the point then it litteraly has no point, like u just copied text with "no intent to deceive"
+creations-chat 2021-01-29 22:04:37 Basing creations off of real planes is very different to copy and pasting text
+creations-chat 2021-01-29 22:06:43 I'm honestly not even going to bother
+creations-chat 2021-01-29 22:08:44 yo that looks amazing
+creations-chat 2021-01-29 22:10:47 wdym
+creations-chat 2021-01-29 22:13:35 I think really good people just happen to choose to do british planes i guess, I don't think it's the nationality of the plane that makes them look good
+creations-chat 2021-01-29 22:15:36 What the actual fuck do you want beef bro
+creations-chat 2021-01-29 22:18:00 you could at least tell him how to improve
+creations-chat 2021-01-29 22:21:25 defo
+creations-chat 2021-01-29 23:28:09 Wut <@621817208313479248>
+creations-chat 2021-01-29 23:37:47 Is that just a statement or
+creations-chat 2021-01-30 02:33:07 Wow
+creations-chat 2021-01-30 10:33:11 Unde alert
+help 2021-01-30 18:25:15 powerpoint, overlay the images and change the transparency of one
+help 2021-01-30 18:25:31 <:trollface:775024642104229898>
+bot-central 2021-01-30 21:35:22 ?shelp
+creations-chat 2021-01-31 01:47:48 Go for more bland tones, they look better
+the-dump 2021-02-01 00:41:55 <:wot:695654208837255219>
+creations-chat 2021-02-01 08:54:27 Looks good
+creations-chat 2021-02-01 09:33:51 Dude he asked for feedback you can at least try to be nice
+the-dump 2021-02-01 10:46:38 summer fan bad winter enjoyer very nice
+the-dump 2021-02-01 13:20:50 
+help 2021-02-01 20:15:57 Wings too thin
+help 2021-02-02 10:25:32 make wings thicker
+creations-chat 2021-02-02 12:56:54 very nice
+creations-chat 2021-02-02 13:25:53 very simplistic but yes, very good
+creations-chat 2021-02-02 13:28:42 tutorial?
+creations-chat 2021-02-02 13:30:55 even if it is a tutorial, its the same image! that is defo not ur creation, and u defo deserve blacklist
+creations-chat 2021-02-02 13:32:57 He hasn't even built the ship, its literally just a copy and pasted image
+creations-chat 2021-02-02 13:35:37 Its a copy and pasted image i already said~
+ <@!273536574770380800> this man be posting creations that are not his
+creations-chat 2021-02-02 13:37:40 right here officer
+creations-chat 2021-02-02 14:14:21 there needs to be a max image rule for each creation, like its really great but that many images is unnecessary
+creations-chat 2021-02-02 17:39:04 lel
+help 2021-02-02 22:40:59 Do submarines fall under shipwright rank?
+help 2021-02-03 00:06:35 That a really good sub
+help 2021-02-03 00:07:27 Ye lol
+help 2021-02-03 00:08:42 Lel
+help 2021-02-03 00:13:41 Ok, one more question I'd like to throw into the void. Why do so many people mount their guns externally? It just looks horrible.
+help 2021-02-03 00:19:08 But u can just put em in the fuselage, it's not that hard
+help 2021-02-03 00:19:29 U dont even need motorlock to do that
+help 2021-02-03 08:39:18 congrats lol
+creations-chat 2021-02-03 09:47:44 very nice
+creations-chat 2021-02-03 17:44:34 <@!250275097431113728> wow
+bot-central 2021-02-03 17:45:10 !servers
+bot-central 2021-02-03 18:23:22 !servers
+creations-chat 2021-02-03 23:43:49 Post the collage, looks good together <@731711152068886568>
+creations-chat 2021-02-03 23:45:52 Yes both
+help 2021-02-03 23:54:52 For a simple car, suspension is ew so just cut that out
+help 2021-02-03 23:55:07 Then just use a motor and an axle for the turning
+creations-chat 2021-02-04 11:37:35 calm down its just an APC
+bot-central 2021-02-04 19:03:11 !servers why change so soon
+creations-chat 2021-02-05 01:01:07 Bruh he downvotes coz he can not coz he thinks it's bad. He is litteraly doing it for the reaction.
+creations-chat 2021-02-05 01:04:44 He is litteraly just a troll lmao
+creations-chat 2021-02-05 01:08:38 It good
+help 2021-02-05 02:43:01 Go to <#384027830192832513> and do "$new" make sure you have your evidence prepared
+help 2021-02-05 02:45:16 If you get a rank you can use the free gravity slider in the pcc VIP server
+help 2021-02-05 02:51:04 Talk more then u need mee6 level 3
+creations-chat 2021-02-05 02:57:06 Dont forget to set to toggle
+creations-chat 2021-02-05 02:59:07 Whatever you want to use
+help 2021-02-05 10:51:21 Can you use engines to control the roll of the plane for aeronautical engineer?
+help 2021-02-05 14:18:03 ok that helps thx
+creations-chat 2021-02-05 14:22:01 lol im pretty sure the light itself is grey today
+bot-central 2021-02-05 14:23:24 !servers
+creations-chat 2021-02-05 16:30:34 looks good
+help 2021-02-05 17:22:10 nah im pretty sure it was raised to 200, in <#507673335816126509> someone was requesting for it to be "lowered" to 125
+creations-chat 2021-02-05 17:23:04 😮
+help 2021-02-05 17:23:41 hof score is getting higher as builds more frequently pass higher scores
+help 2021-02-05 17:23:59 so they gotta raise it to ultra high levels i think
+help 2021-02-05 17:24:07 idk for certain but i think 200
+help 2021-02-05 17:24:17 can i ping obc or is that illegal
+help 2021-02-05 17:24:49 ye
+help 2021-02-05 17:24:54 but can i ping obc
+help 2021-02-05 17:24:57 or is illegal
+help 2021-02-05 17:25:03 i wanna confirm the score
+help 2021-02-05 17:25:52 ok lemme know if i was wrong
+creations-chat 2021-02-05 17:26:11 it was ages ago lol
+help 2021-02-05 17:28:45 looks like a good start to a shuttle
+help 2021-02-05 17:28:56 bit overly flat at the nose tho
+help 2021-02-05 17:32:22 make a crab with it
+help 2021-02-05 17:32:29 they have horizontal jaws kinda
+help 2021-02-05 17:45:54 turn into crab
+creations-chat 2021-02-05 21:14:34 u could motorlock some kinda block or motor under them so they at least look conencted
+creations-chat 2021-02-05 21:58:08 kinda looked better floating tbh
+creations-chat 2021-02-05 22:26:34 calm down its a boat ffs
+bot-central 2021-02-06 15:36:17 !servers bruh why it changed daily now
+creations-chat 2021-02-06 17:52:35 you can get expert designer for ur build lol
+creations-chat 2021-02-06 18:47:46 <@!746383586755870821> yo u could use piston lock to move the seat up by roughly 0.25 solving ur player clipping issues
+creations-chat 2021-02-06 18:49:49 <@!475737938643386370> that car is genuinely really good
+creations-chat 2021-02-06 18:57:24 like u shove a thing onto a piston which itself is on motorlock tower, u up the piston by however high u want it then u lock everything, its like motorlock but using pistons for precision
+creations-chat 2021-02-06 20:47:19 Well they must have crashed into something, perhaps a camera?
+creations-chat 2021-02-06 20:49:24 Only delete it if its the worst build in ur saves, all ur saves are full and your not willing to use an alt. 
+
+Imo it looks quite good.
+creations-chat 2021-02-06 20:51:27 Well are there any invisible parts to the missile itself?
+
+<@438396513757036544> your call
+creations-chat 2021-02-06 23:09:39 <@!552184095812091918> damn that good
+creations-chat 2021-02-06 23:11:41 might wanna spice up the paint a tad tho
+help 2021-02-06 23:32:44 heinkel he 178
+creations-chat 2021-02-07 01:56:09 Looks good
+creations-chat 2021-02-07 02:02:02 <@746429701614075977> bad symbol 😳
+creations-chat 2021-02-07 02:05:47 Wings too thin, also remove the nose landing gear and replace it with shorter landing gear at the tail
+creations-chat 2021-02-07 02:07:49 We all do
+help 2021-02-07 02:09:44 Wedge, and tactically <:thoink:657279634563399720>
+help 2021-02-07 02:11:01 If u intend for it to be round tho u got the wrong format for the blocks
+creations-chat 2021-02-07 02:12:25 That honestly looks amazing, but a bit bland on the painting side tho
+help 2021-02-07 02:13:44 If just smooth use an easy combination of **triangle wedge 1x2** and **triangle wedgeblock 1x2**
+creations-chat 2021-02-07 02:14:32 I meant paint not inside
+creations-chat 2021-02-07 12:04:11 <@492887853702053898> I seen people get warned for shaders in <#384025409945337856>
+creations-chat 2021-02-07 13:07:55 <@!759031612662480907> ur colours are far too vibrant, also paint ur motors
+help 2021-02-07 13:31:08 locate rudder
+help 2021-02-07 13:31:13 plese
+creations-chat 2021-02-07 13:33:13 😳
+help 2021-02-07 13:34:41 thx but do u know what the smaller rectangle at the bottom is in that case?
+help 2021-02-07 13:36:00 ok thx, rudder time
+creations-chat 2021-02-07 13:37:30 i swear hars has memorised every tutorial thumbnail that there is
+creations-chat 2021-02-07 13:39:31 ikr, maybe they could just remove it? or nah ofc
+creations-chat 2021-02-07 14:04:08 <@!689684353583939694> yo take ur post down in <#384025409945337856> before u get blacklist, quick
+help 2021-02-07 14:55:15 wdym
+creations-chat 2021-02-07 15:30:34 looks great
+help 2021-02-07 20:53:11 are ur flaps clipping thru any other block?
+help 2021-02-07 20:53:39 coz flaps tend to do that if theres clipping going on
+creations-chat 2021-02-07 21:06:44 <@!746429701614075977> bro low effort
+creations-chat 2021-02-07 21:10:11 ye joke low effort still gets blacklisted tho, unless ur hars
+creations-chat 2021-02-07 21:12:14 ik <:what:644996672048463942>
+creations-chat 2021-02-07 21:14:16 still a wip tho
+help 2021-02-07 21:14:58 1 did and no wokr?.,,
+help 2021-02-07 21:16:32 4 😳
+creations-chat 2021-02-07 21:25:53 they are
+creations-chat 2021-02-07 22:17:44 <@!431283338716905472>  bruh if that doesnt get at least 50 score
+creations-chat 2021-02-07 22:19:46 https://discord.com/channels/384021699466756103/384025409945337856/808098940909649920 
+very epic
+creations-chat 2021-02-07 22:21:49 oh am stupe
+bot-central 2021-02-07 22:22:26 !servers
+bot-central 2021-02-07 22:22:53 gay
+creations-chat 2021-02-07 22:25:24 <@!621817208313479248> i thought u were better than that 😠
+creations-chat 2021-02-07 22:45:51 very nice
+creations-chat 2021-02-07 22:59:00 spicy
+creations-chat 2021-02-08 01:10:06 Exquisite <:PewPew:532303441293344778>
+creations-chat 2021-02-08 01:13:01 Ye looks good
+creations-chat 2021-02-08 01:42:41 Nah old ones more realistic size
+creations-chat 2021-02-08 02:33:26 Nigel smells
+creations-chat 2021-02-08 13:12:22 Add a bigger nose cone and remove that block in front of the cockpit
+creations-chat 2021-02-08 15:10:47 <@410992368494575626> holy guaca mcfucking moly. That's the best damn paint job and plane design I've ever seen, bravo
+help 2021-02-08 15:11:56 Only if u donate, then u get a donater title beside ur name
+help 2021-02-08 15:12:06 No proper ranks are ig
+creations-chat 2021-02-08 15:16:32 Wait that is defo not pre ww1 tho, they'd barely figured out how to make a metal aircraft in 1915
+creations-chat 2021-02-08 15:21:25 https://cdn.discordapp.com/attachments/384025409945337856/808356333698154526/image0.png
+
+Explain <@324815581368811520>
+creations-chat 2021-02-08 15:23:29 How car on sky island
+
+How
+creations-chat 2021-02-08 15:25:32 How car on sky island
+creations-chat 2021-02-08 15:27:36 Bruh but there's no negative gravity option.
+creations-chat 2021-02-08 15:29:52 Nice
+creations-chat 2021-02-08 15:32:03 *ahem* t0 PReV3nt arguments!11!
+bot-central 2021-02-08 18:58:42 !servers
+creations-chat 2021-02-08 19:48:52 kinda looks like it would be the kinda heli to be mono-axial  with a tail rotor
+creations-chat 2021-02-08 19:53:02 just remove one of the main rotors, then counteract the torque with a tail rotor in the right direction
+creations-chat 2021-02-08 20:00:35 its good
+creations-chat 2021-02-08 20:03:01 <@!598425900274417677>
+creations-chat 2021-02-08 20:06:34 <@!664126627382558720> bruh u should delete that before the mods find out
+creations-chat 2021-02-09 01:15:03 Bit flat
+creations-chat 2021-02-09 01:31:44 Shouldn't <@456226577798135808> also be warned for inappropriate username?
+help 2021-02-09 01:34:41 Unless u building big enough
+creations-chat 2021-02-09 01:39:32 <@195253906333368320> pedsond litteraly got a bad Germany symbol in their username aswell
+creations-chat 2021-02-09 10:18:28 spice up the paint
+help 2021-02-09 10:25:23 fps moment
+help 2021-02-09 10:33:53 the lag is probably the biggest problem
+help 2021-02-09 10:34:11 Youd need higher graphics to actually be able to see on ur way down
+help 2021-02-09 11:30:34 land on the base
+creations-chat 2021-02-09 12:07:49 blue is a bit too vibrant, but honestly its amazing anyway
+help 2021-02-09 12:08:47 why would anyone care if it has copyright music in it <:empty:794431705070174238>
+creations-chat 2021-02-09 12:09:50 yes add rigging
+creations-chat 2021-02-09 13:09:52 not tone, its too vibrant like its too bold of a colour, i mean choose a more dull shade of blue
+creations-chat 2021-02-09 13:53:10 lel
+creations-chat 2021-02-09 15:14:13 israel moment
+creations-chat 2021-02-09 15:35:47 <@!277090223358214144> wow thats good
+creations-chat 2021-02-09 15:38:20 <@!719168864705052802> very nice
+creations-chat 2021-02-09 15:52:05 right imo, what is below me rn, <:Motorje139:670373899661344768>
+creations-chat 2021-02-09 20:13:38 bruh u should take that down before blacklist probs
+creations-chat 2021-02-10 10:46:36 will <#384025409945337856> stop saying theres unread posts when theres clearly not
+creations-chat 2021-02-10 10:48:39 ur right, i get hyped when i see that, but the same no new hof in months
+help 2021-02-10 10:53:23 just make a plane without helium bruh, its not that hard for aero 1
+help 2021-02-10 10:53:52 make another one
+help 2021-02-10 10:54:00 also it doesnt have to look good
+help 2021-02-10 10:54:09 it only has to function as the requirements say
+help 2021-02-10 10:55:03 if u can make that u can easily make a plane to the standards of aero 1
+help 2021-02-10 10:55:41 aeronautical is planes, VTOL is helis
+help 2021-02-10 10:56:15 its honestly so much easier to make a simple functional plane tho
+help 2021-02-10 10:57:16 dude, it doesnt matter what it looks like or even if it looks like a plane, only if it fills requirements listed in <#609442446249820211>
+help 2021-02-10 10:57:45 yes
+help 2021-02-10 10:58:06 make sure it fills all the requirements tho
+help 2021-02-10 10:58:35 😎
+help 2021-02-10 11:00:05 when u need to submit it read <#705941616199991307>
+help 2021-02-10 11:43:21 harrier can be in both categories i think
+creations-chat 2021-02-11 09:40:51 not really, he made an interesting visual effect
+help 2021-02-11 12:26:34 make it not
+help 2021-02-11 20:55:34 bigger vertical stabiliser or slower
+creations-chat 2021-02-11 22:44:36 i got 5 lel
+creations-chat 2021-02-11 23:19:28 i thought roundels were the circle ones
+creations-chat 2021-02-12 17:46:33 Show it loaded, idk what it looks like
+creations-chat 2021-02-12 17:49:10 Can u give an angle where we can actually see the plane properly 
+ <@710516379689943071> nose too flat
+creations-chat 2021-02-12 19:55:01 <@!774819108784832512> that would be so much better with custom propellors
+creations-chat 2021-02-12 20:50:56 <@!740641695783321670> wow thats good
+creations-chat 2021-02-12 21:39:14 what is
+creations-chat 2021-02-12 22:46:31 yo is metal material normally a good paint choice for ww2 planes?
+creations-chat 2021-02-12 22:49:15 ok, flying isnt exactly one of my priorities with this one lol
+creations-chat 2021-02-12 22:51:16 <@!317833859603496971> why his truck bad
+creations-chat 2021-02-12 22:55:43 if something is ultimately horrible or brilliantly excellent, people who would normally scroll past, instead contribute because they feel its more important
+creations-chat 2021-02-12 22:58:19 add tail rotor
+creations-chat 2021-02-13 15:55:40 <@!333570869114830859> bravo
+creations-chat 2021-02-13 17:54:21 ye but colours kinda bad
+creations-chat 2021-02-13 22:41:01 well maybe you just need to be nicer <:FineTroll:626841259746656289>
+creations-chat 2021-02-13 22:57:18 just line the lock up with the fuselage and attach a ton of cams
+creations-chat 2021-02-13 23:00:24 motorlock
+help 2021-02-13 23:01:02 will keep that in mind
+creations-chat 2021-02-13 23:03:10 compound as i call it, like a tower of motorlocks in the classic 3-step configuration
+creations-chat 2021-02-13 23:30:47 idk people weird
+creations-chat 2021-02-14 11:37:06 <@!710516379689943071> u gotta take that down asap, or u gettin blacklisted
+creations-chat 2021-02-14 13:12:49 <@!621612942076542998> yo that looks so good, but concealed lock would make it 10x better
+creations-chat 2021-02-14 14:15:44 <@!738702049113538600> which one is yours
+creations-chat 2021-02-14 14:17:49 On the left? Cant lie, I smell score harvesting. <:FineTroll:626841259746656289>
+help 2021-02-14 14:23:24 talk more to level 3
+creations-chat 2021-02-14 14:37:46 try darker
+creations-chat 2021-02-14 15:05:12 no one starts off the best, just keep at it
+creations-chat 2021-02-14 15:08:35 blueprints are very helpfull for proportions and shape
+creations-chat 2021-02-14 16:40:25 very nice
+creations-chat 2021-02-14 17:46:18 yes
+creations-chat 2021-02-14 17:49:40 <@!595372385121730586> thats amazing, but u forgot to hide the signs
+creations-chat 2021-02-14 18:15:38 ty, which part do u mean?
+creations-chat 2021-02-14 18:21:51 well i used 2 parts for the front of the engines, one at 0 and one at 45 degrees. Same for the back segments. And then I did the same as the front parts but slightly higher for the more oblate shape so it protruded through the wing.
+creations-chat 2021-02-14 18:24:01 just put two of what u want on a motorlock tower and turn one of them by 45 degrees
+creations-chat 2021-02-14 18:28:41 use motor
+help 2021-02-14 18:29:35 soyuz moment
+help 2021-02-14 18:30:24 ye lol thats me
+help 2021-02-14 18:30:45 https://discord.com/channels/384021699466756103/384025409945337856/810566736280551425
+
+heres what that turned into if u wanna see
+help 2021-02-14 18:31:40 ik i was only testing stuff when he walked by
+help 2021-02-14 18:32:25 lol what
+help 2021-02-14 20:22:27 talk until u hit MEE6 level 3
+bot-central 2021-02-14 20:23:31 !servers
+creations-chat 2021-02-14 20:36:46 its very white
+help 2021-02-14 20:58:06 make sure ur in build mode tho
+help 2021-02-14 21:08:32 in test mode the change gamemode button isn't available, its only available in build mode
+bot-central 2021-02-14 21:12:12 <:Pinged:508027985190715457>
+bot-central 2021-02-14 21:15:19 lol its fine
+creations-chat 2021-02-14 21:28:35 <@456226577798135808> get rid of cheesegrater wings, they bad
+creations-chat 2021-02-14 21:32:25 u dont need them the elevators do fine
+creations-chat 2021-02-14 22:39:57 Ok
+creations-chat 2021-02-14 22:47:00 Ik, will be doing
+creations-chat 2021-02-15 01:50:35 Giantt big germaniy Tank moment 😳
+creations-chat 2021-02-15 02:08:20 Cool
+creations-chat 2021-02-15 12:06:43 Yo that looks so good already
+creations-chat 2021-02-15 12:17:13 Good
+help 2021-02-15 12:22:55 Yes
+creations-chat 2021-02-15 15:56:17 yes
+bot-central 2021-02-15 16:28:03 !expertservers
+help 2021-02-15 16:45:55 i swear ur like the memory bank of pc bruh
+help 2021-02-15 16:46:42 in a good way
+help 2021-02-15 17:09:07 theres someone called hijtl_r making nono symbols in vip 1 but reports are down
+help 2021-02-15 17:09:15 <:FineTroll:626841259746656289>
+creations-chat 2021-02-15 17:10:16 honestly looks good, idk what to criticise
+bot-central 2021-02-15 17:32:55 !servers
+creations-chat 2021-02-15 23:00:15 spicy
+creations-chat 2021-02-16 00:59:27 El whatthefuckerino
+creations-chat 2021-02-16 01:01:29 It's a clever idea, but PYRO upvoted it, the same guy who simultaneously downvotes every hof build to ever exist
+help 2021-02-16 14:50:17 if u got the rank just close the ticket with the lock emoji at the start
+help 2021-02-16 14:50:34 use wings
+help 2021-02-16 14:55:45 did u get the rank u want
+help 2021-02-16 14:56:20 then scroll all the way to the top and react to the lock emoji on the introduction message
+help 2021-02-16 14:56:56 did it not work
+help 2021-02-16 14:57:34 idk then just ping mods i guess
+creations-chat 2021-02-16 15:00:56 <:FineTroll:626841259746656289>
+help 2021-02-16 15:12:54 epic
+help 2021-02-16 15:15:38 ye u can put them inside
+creations-chat 2021-02-16 17:23:02 good
+creations-chat 2021-02-16 20:03:17 wb this
+creations-chat 2021-02-16 20:17:07 How does this look for the nose of an Avro Anson
+creations-chat 2021-02-16 20:25:56 <@!490223169949532175> bruh u need to take down that wip or obc gonna blacklist u
+creations-chat 2021-02-17 11:11:34 Bruh there hasn't been a new hof build in so long
+creations-chat 2021-02-17 11:13:35 Definitely, and that really good fire engine was way underrated
+creations-chat 2021-02-17 11:16:47 This could of been hof worthy aswell
+creations-chat 2021-02-17 11:30:36 How do u see thru the nose by layering   glass bruh
+creations-chat 2021-02-17 11:36:41 Idk I thought it looked pretty good, but I'm no expert on jets, just think it looks nice
+bot-central 2021-02-17 15:15:39 !expertservers
+creations-chat 2021-02-17 17:14:13 h ttps://media.tenor.co/videos/b2c61ded46257c2580f87e22b51fe69f/mp4
+creations-chat 2021-02-17 22:22:54 that is remarkable
+creations-chat 2021-02-18 02:48:51 <@695739297294188624> how does that prop start with so much ***jazz***
+creations-chat 2021-02-18 18:39:21 how did <@!720758414816575549> get blacklist
+creations-chat 2021-02-18 18:45:19 it still looks good tho, they dont ruin it
+bot-central 2021-02-19 21:38:43 !servers !expertservers
+bot-central 2021-02-19 21:38:55 !expertservers
+creations-chat 2021-02-20 16:46:18 literally no one thought it was moved by pistons, also he's clearly decent at building
+creations-chat 2021-02-20 16:56:25 No u don't, considering that the  majority of plane crazy builds look like this. I would actually consider his builds "decent". You are literally just attacking his build (which far exceeds his others) for the sake of attacking it.
+creations-chat 2021-02-20 16:58:26 Yes, that is decent, if you were to compare to your average pc build
+creations-chat 2021-02-20 17:00:31 yes
+creations-chat 2021-02-21 01:42:09 That is beautiful
+creations-chat 2021-02-21 15:30:23 good
+creations-chat 2021-02-22 21:07:08 <@!597188078670577668> we still waiting on those higher quality photos
+creations-chat 2021-02-26 18:22:04 https://discord.com/channels/384021699466756103/384025409945337856/814715498591420428
+<@!492887853702053898> 
+Rope but epic <:Yikes:704804144657203220>
+bot-central 2021-05-02 10:19:33 !servers
+creations-chat 2021-05-02 10:26:08 pog
+creations-chat 2021-07-23 22:10:12 That boat is actually so good
+bot-central 2021-07-23 22:16:05 !servers
+creations-chat 2021-09-25 21:30:28 bost them gosts
+creations-chat 2021-09-25 21:33:09 be nice bruh
+creations-chat 2021-09-25 21:41:04 looks nice <@!735898083170451498> 👍
+bot-central 2021-10-26 11:06:39 !servers
+bot-central 2021-10-26 11:06:45 -servers
+bot-central 2022-01-11 17:06:54 !servers
+bot-central 2022-01-11 17:07:03 -servers
+creations-chat 2022-01-11 19:04:08 <@!605122774155002103> holy shit thats awesome
+creations-chat 2022-01-11 19:06:42 https://tenor.com/view/roblox-trampolining-roblox-r-troll-trampoline-gif-23640340
+creations-chat 2022-01-12 12:23:03 m
+creations-chat 2022-01-12 16:29:02 <@!334473424355196938> lookin pretty dope for a first motor lock
+creations-chat 2022-01-12 16:46:12 https://discord.com/channels/384021699466756103/384025409945337856/930865082483765248
+I stan
+creations-chat 2022-01-12 20:50:50 yes it is
+creations-chat 2022-01-12 21:37:22 awesome
+creations-chat 2022-01-12 22:55:06 wheels
+help 2022-01-12 22:59:15 thats badass
+creations-chat 2022-01-13 01:52:49 <@806785640015855637> proper good plane right there
+creations-chat 2022-01-13 02:01:03 I think it looks alright
+creations-chat 2022-01-13 16:20:53 lol i made a plane using that method before, i wouldnt reccomend it lol
+creations-chat 2022-01-13 16:23:42 try make it less even, so that the top half is concave, then put the windscreen there
+creations-chat 2022-01-13 16:26:08 toxic much
+creations-chat 2022-01-13 16:30:44 no one asked
+creations-chat 2022-01-13 16:32:56 why dont u actually try to be nice in ur critiscisms of the plane, not that hard
+creations-chat 2022-01-13 16:35:02 nope
+creations-chat 2022-01-13 16:42:24 apolgy for bad drawing
+creations-chat 2022-01-13 16:44:32 ye it just adds a bit of depth
+creations-chat 2022-01-13 16:47:03 i think ur best bet is to glass the roof bit and add in the crossbar thingies
+creations-chat 2022-01-13 16:54:13 well its up to u then
+creations-chat 2022-01-13 17:02:28 me
+creations-chat 2022-01-13 17:05:29 because it was toxic
+creations-chat 2022-01-13 17:26:23 looks good idk what its meant to be tho lol
+creations-chat 2022-01-13 17:29:09 ye looks good
+creations-chat 2022-01-13 19:29:38 <@!702822563201417216> that space station is insane
+creations-chat 2022-01-14 13:31:25 no
+creations-chat 2022-01-14 16:42:06 they look like railings
+creations-chat 2022-01-14 17:27:15 Hars cries over a badly painted ship
+-2022
+creations-chat 2022-01-14 17:29:58 You might be overreacting a tad mate
+creations-chat 2022-01-14 17:34:19 I don't care
+creations-chat 2022-01-14 17:37:39 Well deserved
+creations-chat 2022-01-14 18:00:09 lookin good
+creations-chat 2022-01-14 18:03:12 ^^^
+creations-chat 2022-01-14 18:09:26 my certified overlocking moment
+creations-chat 2022-01-14 18:11:31 i did say it was overlocking
+creations-chat 2022-01-14 18:13:47 ye, its a reasonable amount of lock for its size
+creations-chat 2022-01-14 18:20:14 👍 ]
+creations-chat 2022-01-14 18:33:52 ye, I made it nearly a year ago now lol
+creations-chat 2022-01-14 18:38:42 ngl its probably that lol, i havnt played in ages
+creations-chat 2022-01-14 20:30:00 practice makes perfect lol
+creations-chat 2022-01-14 20:34:12 yt tutorials explain it pretty clearly
+creations-chat 2022-01-14 21:03:11 keep at the grind my friend
+creations-chat 2022-01-15 14:37:19 Pog
+creations-chat 2022-01-17 21:31:55 slightly off diagonal Denmark
+creations-chat 2022-01-17 21:34:04 <@!359613171495075842> that some hof level shit
+creations-chat 2022-02-08 16:10:45 spin
+bot-central 2022-06-11 20:17:14 -servers

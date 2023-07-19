@@ -1,0 +1,15 @@
+The Tale of tank_tung (971638902769197057)
+bug-reports 2022-06-02 13:11:59 Umm
+bug-reports 2022-06-02 13:12:09 I found a bug
+bug-reports 2022-06-02 13:13:14 For some reason my just fly though the death barrier
+bug-reports 2022-06-02 13:13:34 I think it bc the spring
+bug-reports 2022-06-02 13:14:11 oh
+bug-reports 2022-06-02 13:14:41 It happen the frist time for me
+bug-reports 2022-06-02 13:15:27 ok
+bug-reports 2022-06-09 10:25:46 I found a bug
+bug-reports 2022-06-09 10:34:45 I press to disconnect my build the same time I click filp
+bug-reports 2022-06-09 10:34:55 I use the disconnector to disconnect a build which have  spring and motor 2 connect to each other
+and the build just freeze
+the speed also freeze
+bug-reports 2022-06-09 11:47:25 IDK
+bug-reports 2022-06-09 13:03:01 ok

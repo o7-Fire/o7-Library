@@ -1,0 +1,11 @@
+The Tale of Jamet (842296016149282817)
+bot-central 2022-02-03 03:35:58 $new
+bot-central 2022-02-03 03:37:25 !server
+bot-central 2022-02-03 03:37:38 !servers
+bot-central 2022-02-03 03:37:45 -servers
+bot-central 2022-02-03 03:38:28 -servers
+bot-central 2022-02-03 03:43:32 $ranked
+bot-central 2022-02-03 03:43:38 $new
+bot-central 2022-03-29 06:01:40 !server
+bot-central 2022-03-29 06:01:54 !servers
+bot-central 2022-03-29 06:02:03 -servers

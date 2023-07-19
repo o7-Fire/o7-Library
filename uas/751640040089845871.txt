@@ -1,0 +1,5 @@
+The Tale of darkvoyager5768 (751640040089845871)
+bug-reports 2021-09-04 22:15:50 Guns seems to be doing less damage then they should be doing
+bot-central 2021-11-13 17:43:57 !rank
+bug-reports 2022-03-07 18:38:29 After a couple of seconds my private server tells me about the update then puts me on a waiting place, this happens every single time I try to join my private server
+bug-reports 2022-04-02 15:47:47 I can’t access to trail blocks

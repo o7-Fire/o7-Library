@@ -1,0 +1,1637 @@
+The Tale of somewhat_sleepy (514333972189151233)
+help 2020-09-14 16:56:05 Does anyone got an idea of how to make an eccentric/cam?
+help 2020-09-14 16:58:43 Also you can just use an anchored block to keep the pad on the ground.
+help 2020-09-14 16:58:56 Or ballast.
+help 2020-09-15 00:56:48 Why can't I make a working v engine block?
+creations-chat 2020-09-15 01:06:06 Now paint the motors
+creations-chat 2020-09-15 14:36:57 
+help 2020-09-15 18:15:48 Look up motor lock gun
+creations-chat 2020-09-16 04:24:36 i think i might use that torpedo design but convert it to a drop bomb
+creations-chat 2020-09-16 04:24:46 anyone got a good bomb tail design?
+creations-chat 2020-09-16 04:25:18 pistons
+creations-chat 2020-09-16 04:25:23 steam pistons
+creations-chat 2020-09-16 04:25:41 make an exposed steam engine
+creations-chat 2020-09-16 04:27:16 you could incorporate the steam locomotive piston design and make a vertical version for the steampunk machine
+creations-chat 2020-09-16 04:28:03 and then hide the suspension block
+creations-chat 2020-09-16 04:49:49 <@!319998854982270977> Here are 2 steam engine designs, one vertical and one horizontal. Red = Anchored Block. Dark Gray = Fixed Component. Light Gray = Moving Component.
+creations-chat 2020-09-16 04:50:46 https://gyazo.com/49fb2dba87d4056714e8c42853ffd9b7
+Here's a gif of the engines functioning.
+creations-chat 2020-09-16 04:52:21 You can remove one of the pistons and the flywheel and just have a single cylinder engine.
+creations-chat 2020-09-16 04:53:30 The engines I designed are meant so that the suspension blocks are able to be concealed so you don't see the blue springs.
+creations-chat 2020-09-16 04:53:53 You could probably use motor lock if you know how to do it right.
+creations-chat 2020-09-16 04:54:51 Also I just noticed that I forgot to complete the counterweights on the horizontal engine.
+creations-chat 2020-09-16 04:55:32 The engines I designed are meant more to be for show, as you can see by the flywheels.
+creations-chat 2020-09-16 04:56:13 You mean 0.2RPM
+creations-chat 2020-09-16 04:56:26 Wait oh
+creations-chat 2020-09-16 04:56:29 I'm dumber
+creations-chat 2020-09-16 04:56:40 I meant 0.2RPS
+creations-chat 2020-09-16 04:57:55 My steam engines run at about 96 RPM
+creations-chat 2020-09-16 04:58:48 Has anyone figured out how fast 1 speed is?
+creations-chat 2020-09-16 04:59:07 No velocity of 1
+creations-chat 2020-09-16 05:02:00 Apparently a stud is 5cm.
+creations-chat 2020-09-16 05:02:37 So the player travels at 4mph while running.
+creations-chat 2020-09-16 05:03:07 And the default plane flies at something like 20mph
+creations-chat 2020-09-16 05:04:44 Well at that speed my Gotha Bomber travels at about 80mph.
+creations-chat 2020-09-16 05:06:15 So basically one stud per second is equivalent to about 1 kilometer per hour.
+creations-chat 2020-09-16 05:07:40 Subsonic planes.
+creations-chat 2020-09-16 05:08:59 Damn the irl kamikaze plane is twice as fast as the ingame planes people make tutorials of.
+creations-chat 2020-09-16 05:09:36 And wow my triplane is slow as hell.
+creations-chat 2020-09-16 05:10:47 The triplane I made to scale travels at like half the speed of the actual Fokker Triplane.
+creations-chat 2020-09-16 05:14:59 bruh all planes in the game made to scale travel half as fast as the real ones
+creations-chat 2020-09-16 05:16:30 The tutorial b-17 travels at like 120 mph while the real thing travels at nearly 300 mph.
+creations-chat 2020-09-16 05:17:12 But studs are like feet
+creations-chat 2020-09-16 05:17:21 1 sps is like 1 kph
+creations-chat 2020-09-16 05:18:13 if a stud was a 20th of a meter then everything travels super slow
+creations-chat 2020-09-16 05:19:08 wait
+creations-chat 2020-09-16 05:19:18 little people
+creations-chat 2020-09-16 05:19:33 ah a model plane would be slow
+creations-chat 2020-09-16 05:20:08 20 mph for a plane the size of a model plane probably makes sense
+creations-chat 2020-09-16 05:20:19 for like some of the faster planes
+creations-chat 2020-09-16 05:20:47 Roblox is slow and small.
+creations-chat 2020-09-16 05:21:29 Just average stud to average human height of 5 ft
+creations-chat 2020-09-16 05:21:37 then everything makes sense
+creations-chat 2020-09-16 05:22:14 lets not measure in beeg legos
+creations-chat 2020-09-16 05:23:06 i don't like using 5cm legos to base my speeds and sizes it just confuses me
+creations-chat 2020-09-16 05:24:07 Isn't a conveyer belt just a long wheel?
+creations-chat 2020-09-16 05:25:08 A tired wheel is a wheel or wheels covered by a tire.
+creations-chat 2020-09-16 05:25:30 You could have a car wheel where the metal wheel was actually smaller wheels.
+creations-chat 2020-09-16 05:26:58 Modern fighter planes can't fly without their computers.
+creations-chat 2020-09-16 14:02:42 By the way what do flaps do again?
+creations-chat 2020-09-16 14:08:05 wait are we allowed to post gyazo links in <#384025409945337856>
+creations-chat 2020-09-16 14:10:33 it auto delets it
+creations-chat 2020-09-16 14:10:50 But here is the link
+https://gyazo.com/79c0a752f8d4ca79a8afa6032ad9fb32
+creations-chat 2020-09-16 14:12:48 Its cool when you turn of automatic controls because then you can do flips and rolls without the need of a propeller or thruster to do so.
+creations-chat 2020-09-16 14:24:49 <@!516385356006817792> I took your torpedo design and converted it into a simple drop bomb.
+creations-chat 2020-09-16 14:49:07 Anyone invent eccentrics yet?
+creations-chat 2020-09-16 14:50:21 bruh inventor lel
+creations-chat 2020-09-16 15:10:44 https://discordapp.com/channels/384021699466756103/504436696021204992/750437062993379401
+This is useful
+creations-chat 2020-09-16 15:13:52 Now how do I make the linkage
+creations-chat 2020-09-16 15:18:12 Steam train linkage
+creations-chat 2020-09-16 15:18:18 This
+creations-chat 2020-09-16 15:18:58 Its what Antelope made a while ago
+creations-chat 2020-09-16 15:19:06 the channel link
+creations-chat 2020-09-16 15:20:06 I think the screenshot I took is how the thing was assembled.
+creations-chat 2020-09-16 18:23:11 need to make the wings thicker
+creations-chat 2020-09-16 18:28:20 I am using half blocks and motor lock
+creations-chat 2020-09-16 18:36:00 Powah
+help 2020-09-16 20:08:31 how do i connect the motor to the wheel here?
+creations-chat 2020-09-16 20:49:08 https://gyazo.com/a31925ab0115ef8ed9c68949838577e4
+I did it
+creations-chat 2020-09-16 20:50:02 So ladders act as connectors that phase through blocks.
+creations-chat 2020-09-17 05:22:02 https://gyazo.com/f15cb684b58c5e39bbda2050c207cbd1
+I'm working on something.
+creations-chat 2020-09-17 05:29:41 Mmm yes...collision.
+creations-chat 2020-09-17 14:22:23 https://gyazo.com/6c39346d62ecba1f6cda8ab688ef5aaf
+I added the cylinder.
+creations-chat 2020-09-17 14:23:13 If you can figure out how to recreate the eccentric rods, sure.
+creations-chat 2020-09-17 14:26:23 Now I need to make more cylinders and valve rods yay.
+creations-chat 2020-09-17 14:26:40 Valve rods are complicated
+creations-chat 2020-09-17 14:26:47 They need eccentric rods
+creations-chat 2020-09-17 14:26:54 But we don't have eccentrics
+creations-chat 2020-09-17 14:27:19 So you need to do some weird physics breaking phasing through blocks stuff to create eccentric rods in the game.
+creations-chat 2020-09-17 16:28:55 https://gyazo.com/23d1eb2ef1a475290ee1afc1a1352a89
+creations-chat 2020-09-17 20:29:22 https://gyazo.com/900b649d269322e41c4edcb8f3a49cdb
+creations-chat 2020-09-18 04:33:41 The test that most trains fail in this game is the incline test.
+creations-chat 2020-09-18 04:35:32 going up the hill track
+creations-chat 2020-09-18 04:35:51 you know that track leading up to the bridge
+creations-chat 2020-09-18 04:38:53 this seems to be difficult for trains to do
+creations-chat 2020-09-18 04:40:56 My 2-8-2 Mikado chassis can travel all segments of the rail.
+creations-chat 2020-09-18 04:41:20 Even the sharp turns and high grade segments.
+creations-chat 2020-09-18 17:22:59 It's not easy to fly a twin mustang when you only have one pilot.
+creations-chat 2020-09-18 17:23:28 Its not easy to fly a twin plane in general when there's only one pilot.
+creations-chat 2020-09-18 17:25:58 According to Wikipedia, the free online encyclopedia, my F-82 Twin Mustang needs 21 more rockets than I have armed on it right now.
+creations-chat 2020-09-18 17:26:34 25 missiles on a single small plane.
+creations-chat 2020-09-18 17:27:08 Sometimes the engines sound like dogs.
+creations-chat 2020-09-18 17:28:38 Freezing and noclipping while parachuting as only a head and torso is a totally intended feature.
+creations-chat 2020-09-18 17:29:14 And ladders phasing through blocks is also a totally intended feature.
+creations-chat 2020-09-18 17:29:35 No like on your own build.
+creations-chat 2020-09-18 17:30:10 That phasing thing is actually useful for certain things like realistic train wheels and engines.
+creations-chat 2020-09-18 17:30:55 You can attach a ladder to a motor and while the motor spins the ladder can go through blocks.
+creations-chat 2020-09-18 17:31:26 Ladders can go through ladders as well.
+creations-chat 2020-09-18 17:32:09 no like you see here?
+creations-chat 2020-09-18 17:32:34 where the cranks attach to the wheel
+creations-chat 2020-09-18 17:33:22 The ladders don't have collision like motor bases.
+creations-chat 2020-09-18 17:33:51 Ladders don't have block collision*
+creations-chat 2020-09-18 17:35:38 https://gyazo.com/3d41dca6e8335d9ee34e652206799849
+creations-chat 2020-09-18 17:35:48 See?
+creations-chat 2020-09-18 17:36:01 The ladders don't collide with each other all the time.
+creations-chat 2020-09-18 17:36:24 I use that to make steam engines lol.
+creations-chat 2020-09-18 17:36:37 I've rejoined and it still doesn't collide.
+creations-chat 2020-09-18 17:36:44 I made that engine a few days ago.
+creations-chat 2020-09-18 17:37:03 Yes
+creations-chat 2020-09-18 17:38:50 
+creations-chat 2020-09-18 17:39:06 The only error message I see
+creations-chat 2020-09-18 17:39:47 
+creations-chat 2020-09-18 17:40:37 It doesn't experience any errors so it's probably something else that has to do with how ladders work in the game.
+creations-chat 2020-09-19 04:52:46 I think you do it on phone.
+creations-chat 2020-09-20 03:15:42 Is that a rotary or radial engine?
+creations-chat 2020-09-20 03:16:41 Both look very similar, but the difference is that one spins and the other does not.
+creations-chat 2020-09-20 03:16:53 Rotary engines spin, radial engines don't spin.
+creations-chat 2020-09-20 03:18:22 Wait what the hell is that engine it doesn't have propellers.
+creations-chat 2020-09-20 03:18:36 Is it a jet engine on the front of a plane?
+creations-chat 2020-09-20 19:01:24 Because the plane is too big
+creations-chat 2020-09-20 19:01:55 Because I don't have space
+creations-chat 2020-09-20 19:02:11 I don't have space
+creations-chat 2020-09-20 19:03:31 Ok I'll make the wings shorter
+creations-chat 2020-09-20 19:03:36 How much shorter though?
+creations-chat 2020-09-20 19:04:05 k I'll make them 75% the size
+creations-chat 2020-09-20 19:07:03 If 50% wing size too small?
+creations-chat 2020-09-20 19:13:00 you happy now?
+creations-chat 2020-09-20 19:16:46 
+creations-chat 2020-09-20 19:17:24 ok now i paint it and finish the interior
+creations-chat 2020-09-20 19:17:43 Rn the paint is 100,100,100
+creations-chat 2020-09-20 19:18:01 should i make the paint 150 or 125?
+creations-chat 2020-09-20 19:18:33 ight shiny b-17 time
+creations-chat 2020-09-20 19:20:10 ima also tweak the interior
+creations-chat 2020-09-20 19:49:15 okay is it good now?
+creations-chat 2020-09-20 19:50:38 I can't make the fuselage any longer without doing complicated stuff
+creations-chat 2020-09-20 19:52:47 Bruh my vertical controls on my b-17 are reversed, so I gotta move my mouse down to pitch up.
+creations-chat 2020-09-20 19:54:06 I use both manual and automatic controls.
+creations-chat 2020-09-20 19:54:17 I have motor flaps and control surfaces.
+creations-chat 2020-09-20 19:54:52 But because of where the control surfaces are, my mouse acts more like a yoke than the plane following where the mouse is.
+creations-chat 2020-09-20 19:55:34 If I move the mouse down, the plane goes up, and if I move the mouse up, the plane goes down.
+creations-chat 2020-09-20 19:56:22 No for like the control surfaces, not the motor flaps.
+creations-chat 2020-09-20 19:56:31 The motor flaps are keyboard controlled.
+creations-chat 2020-09-20 19:59:37 Well I mean it doesn't really bother me much, it just means my mouse cursor behave more like a mouse yoke than as the mouse as a target.
+creations-chat 2020-09-20 20:09:25 How do I name the controls?
+creations-chat 2020-09-20 20:09:42 Ah
+creations-chat 2020-09-20 20:23:25 
+creations-chat 2020-09-20 20:27:14 Engine 1 stall
+Engine 2 Stall
+Engine 4 Stall
+creations-chat 2020-09-20 20:28:15 Make the bullet a magnet drive.
+creations-chat 2020-09-20 20:29:24 No like use 2 magnets pulling each other.
+creations-chat 2020-09-20 20:29:57 A magnet drive is 3 blocks long.
+creations-chat 2020-09-20 20:30:04 How long is the bullet.
+creations-chat 2020-09-20 20:30:31 Wait the bullet is 2 blocks long.
+creations-chat 2020-09-20 20:30:46 Nevermind just use a single bullet.
+creations-chat 2020-09-20 20:31:51 Ah yes, cramped spaces.
+creations-chat 2020-09-21 00:37:24 If that's an AK, that magazine is way too fucked up.
+creations-chat 2020-09-21 00:37:54 Unless it's supposed to be a 2-dimensional drum.
+creations-chat 2020-09-21 00:38:44 AK-47 but it's very pro-government.
+creations-chat 2020-09-21 00:39:44 At lest have a curved magazine.
+creations-chat 2020-09-21 00:40:40 Even 16*16 pixel art of an AK has a curved magazine.
+creations-chat 2020-09-21 00:41:27 See even this has a curved mag.
+creations-chat 2020-09-21 00:41:50 Yes that's a minecraft texture of an ak
+creations-chat 2020-09-21 00:41:57 and even it has the curved mag
+creations-chat 2020-09-21 00:42:18 Oh god it's even worse.
+creations-chat 2020-09-21 00:43:20 <@!710208141144489995> Please at least fix the mag first it hurts to see a straight mag on an AK
+creations-chat 2020-09-21 03:27:50 you use a computer to control planes like those
+creations-chat 2020-09-21 03:27:59 not manual controls
+creations-chat 2020-09-21 03:28:26 no not manual nor cursor control
+creations-chat 2020-09-21 03:28:36 onboard computer controls
+creations-chat 2020-09-21 03:29:13 has someone made an automated plane in this game?
+creations-chat 2020-09-21 05:24:50 Yo how do I make a pumpjack?
+creations-chat 2020-09-21 05:26:05 Those things they use to get oil.
+creations-chat 2020-09-21 05:26:41 Kind of like an oil rig but on land.
+creations-chat 2020-09-21 05:27:11 
+creations-chat 2020-09-21 05:27:16 This thing
+creations-chat 2020-09-21 05:27:47 Those things you find all over Arabia
+creations-chat 2020-09-21 15:42:30 hmm i think ill make a paddle boat
+creations-chat 2020-09-21 15:56:52 how's this for a paddle wheel?
+creations-chat 2020-09-21 15:57:15 Because it's a paddleboat
+creations-chat 2020-09-21 15:57:45 It's like asking why the bottoms of ships were red
+creations-chat 2020-09-21 15:58:30 
+creations-chat 2020-09-21 15:58:44 That paddlewheel looks pretty red to me.
+creations-chat 2020-09-21 15:59:14 Paddleboat typically refers to riverboats.
+creations-chat 2020-09-21 15:59:36 Paddle steamer typically refers to marine ships with paddlewheels.
+creations-chat 2020-09-21 16:06:49 I'm making a stern-mounted paddle boat.
+creations-chat 2020-09-21 16:06:56 Not a side wheel one
+creations-chat 2020-09-21 16:11:57 
+creations-chat 2020-09-21 16:12:54 what im using as primary inspiration for the design
+creations-chat 2020-09-21 16:13:14 my steamboat
+creations-chat 2020-09-21 16:13:19 and yes it is that game
+creations-chat 2020-09-21 16:48:08 
+creations-chat 2020-09-21 16:51:36 *Hissing noises.*
+creations-chat 2020-09-21 16:53:57 Now to make the boilers
+creations-chat 2020-09-21 16:54:14 Top speed of 20
+creations-chat 2020-09-21 16:54:26 I bet it's gonna get slower
+creations-chat 2020-09-21 17:15:05 I added boilers and now it moves fast forward but slow backwards
+creations-chat 2020-09-21 17:15:21 Which in a way is kinda realistic
+creations-chat 2020-09-21 17:15:41 Steam vehicles typically had a higher top speed moving forwards than they did moving backwards.
+creations-chat 2020-09-21 17:15:49 Both trains and ships.
+creations-chat 2020-09-21 17:17:36 The advantage of steam over sail is that they don't have to make a full 180 degree turn to go the other direction.
+creations-chat 2020-09-21 17:17:45 Also that they don't rely on wind.
+creations-chat 2020-09-21 17:18:01 ikr
+creations-chat 2020-09-21 17:18:43 As long as you have fuel and water you can basically travel whever you wnat.
+creations-chat 2020-09-21 17:19:13 Meanwhile Normans waiting for 6 months for the wind to change direction to invade England.
+creations-chat 2020-09-21 17:19:47 The most dangerous things about steam are heat and pressure.
+creations-chat 2020-09-21 17:20:11 Too much heat will lead to too much PSI and an explosion.
+creations-chat 2020-09-21 17:20:40 <#384027830192832513>
+creations-chat 2020-09-21 17:21:15 Boiler explosions are typically the most risky things about steam engines.
+creations-chat 2020-09-21 17:21:47 
+creations-chat 2020-09-21 17:22:42 That picture is why there are pressure gauges.
+creations-chat 2020-09-21 17:24:00 According to Wikipedia, the free online encyclopedia, the boiler of a train exploded, causing it to be thrown into the air and the train landed on top of another train.
+creations-chat 2020-09-21 17:26:40 uto
+creations-chat 2020-09-21 17:26:53 unidentified tractor object
+creations-chat 2020-09-21 17:27:14 a ufo on treads
+creations-chat 2020-09-21 17:56:57 
+creations-chat 2020-09-22 14:02:25 What's the best material for a paddlewheel?
+creations-chat 2020-09-22 14:05:11 What's the best material for a water propeller?
+creations-chat 2020-09-22 14:16:30 
+creations-chat 2020-09-22 14:37:43 Damn my steamboat takes forever to turn
+creations-chat 2020-09-22 15:35:00 ok it back to actually moving
+creations-chat 2020-09-22 15:50:34 So apparently paddlewheels are made of steel.
+creations-chat 2020-09-22 15:50:41 So that's why they're painted red.
+creations-chat 2020-09-22 15:51:18 No like the paddlewheels of steamboats.
+creations-chat 2020-09-22 15:51:39 Like the riverboats and marine ships before the screw propeller.
+creations-chat 2020-09-22 15:51:59 The same reason why the bottom of a ship's hull is red.
+creations-chat 2020-09-22 15:52:21 Because water likely.
+creations-chat 2020-09-22 15:52:30 You paint metal so it doesn't rust.
+creations-chat 2020-09-22 15:56:52 The red paint they use on ships is designed to slow the speed the steel rusts because the water speeds up the rusting process.
+creations-chat 2020-09-22 15:57:49 When ships used to have copper hulls instead of steel.
+creations-chat 2020-09-22 15:58:24 So they just painted the steel red because they were familiar with the red bottoms of copper ships.
+creations-chat 2020-09-22 15:58:34 Before they used steel hulls though.
+creations-chat 2020-09-22 15:58:38 It was copper.
+creations-chat 2020-09-22 15:58:58 Wait no they painted the copper red.
+creations-chat 2020-09-22 15:59:34 Before they made the hulls of ships of steel they were made of copper and they painted the copper red.
+creations-chat 2020-09-22 16:00:15 To prevent a patina forming and barnacles they used the red paint.
+creations-chat 2020-09-22 16:00:37 And when they transitioned to steel they continued to use the red paint to prevent rust and barnacles.
+creations-chat 2020-09-22 16:01:34 But either way the reason a ship's hull is red and paddle wheels are red is because they are made of metal.
+creations-chat 2020-09-22 18:48:35 You need more of it.
+creations-chat 2020-09-23 05:13:55 https://gyazo.com/875641701d958fece35fa69c0b0a8263
+creations-chat 2020-09-23 05:14:36 Now I just need 3 more of these, a distillation tower, and then I can make a engine.
+creations-chat 2020-09-23 05:15:19 Should I make a diesel piston engine or a gas turbine engine?
+creations-chat 2020-09-23 05:19:06 But for that I need the power to make silicon wafers
+creations-chat 2020-09-23 05:19:17 So where am I gonna get all that power from?
+creations-chat 2020-09-23 05:20:31 But to make solar panels I need to make silicon wafers, and to make those I need a lot of electric power.
+creations-chat 2020-09-23 05:21:03 Also I just realized that my pumpjack is slowing moving across the ground.
+creations-chat 2020-09-23 05:21:11 T O R Q U E
+creations-chat 2020-09-23 05:23:16 https://gyazo.com/f66225cdd0f469f03fb1e6625c9f15bf?token=726c0cbf07b3e399b52365d162feeba1
+creations-chat 2020-09-23 05:24:21 Oil Extraction 100
+Energy Consumption 100
+Decay 100
+Danger 100
+creations-chat 2020-09-23 14:38:51 https://gyazo.com/3ee31ccbbd1a9dfc127801f7b68b298a
+creations-chat 2020-09-23 14:39:44 Should I have them all powered independently or with one motor?
+creations-chat 2020-09-23 14:40:54 eh unpowering the other motors doesnt really change how it operates
+creations-chat 2020-09-23 14:42:38 https://gyazo.com/6bd3674b5c53c1c0c72bd1a85b1bddc3
+Capitalists when they hear that a country has oil:
+creations-chat 2020-09-23 14:43:59 https://gyazo.com/c0e5c1379a53abdef6875cbbbc2256c6
+creations-chat 2020-09-23 14:45:43 Flying oil.
+creations-chat 2020-09-23 14:58:35 i wonder what this is
+creations-chat 2020-09-23 15:03:57 can you name the red and white tower?
+creations-chat 2020-09-23 15:04:29 It's definitely not cold
+creations-chat 2020-09-23 15:04:37 It's very much not related to cold
+creations-chat 2020-09-23 15:04:46 In fact the inside is very much hot
+creations-chat 2020-09-23 15:04:53 Hot and firey
+creations-chat 2020-09-23 15:05:02 Hotter than Africa
+creations-chat 2020-09-23 15:05:17 Too hot
+creations-chat 2020-09-23 15:05:23 It's related to oil
+creations-chat 2020-09-23 15:05:31 Or rather cooking it.
+creations-chat 2020-09-23 15:05:48 Yes
+creations-chat 2020-09-23 15:06:01 It's an oil furnace
+creations-chat 2020-09-23 15:06:20 
+creations-chat 2020-09-23 15:06:45 Fuck watermarks
+creations-chat 2020-09-23 15:10:27 Should I make a coal mine as well?
+creations-chat 2020-09-23 15:52:01 Should I attach treads to my oil refinery?
+creations-chat 2020-09-23 15:52:56 Oh I got an idea.
+creations-chat 2020-09-23 15:53:16 Maybe I should make one of the massive excavators that they use in strip mines.
+creations-chat 2020-09-23 15:54:20 Should I make one of these?
+creations-chat 2020-09-23 15:55:05 So much motor.
+creations-chat 2020-09-23 16:11:03 
+creations-chat 2020-09-23 16:12:41 Watch your step, can't help you if you fall down.
+help 2020-09-23 18:11:30 <@!432344306427101184> Try messing around with the torque and speed.
+creations-chat 2020-09-23 19:22:56 Is that supposed to be the engine?
+creations-chat 2020-09-23 19:43:30 Anyone got a good car engine design?
+creations-chat 2020-09-23 19:45:07 A v engine
+creations-chat 2020-09-23 21:57:45 
+creations-chat 2020-09-23 22:10:06 Oh god each pipe goes to a different tank.
+creations-chat 2020-09-23 22:10:34 Shi I need 7 tanks to store all the stuff my refinery makes
+creations-chat 2020-09-23 22:10:59 
+creations-chat 2020-09-24 03:58:59 It's a sprinkler
+creations-chat 2020-09-24 03:59:06 Sparkler
+creations-chat 2020-09-24 03:59:12 Firework fountain
+creations-chat 2020-09-24 03:59:19 Whatever the fuck it is
+creations-chat 2020-09-24 04:00:29 When ladder ramp.
+creations-chat 2020-09-24 04:01:15 When 3 motors speed 50 on top of each other.
+creations-chat 2020-09-24 04:01:51 That's how you make a flying tonk.
+creations-chat 2020-09-24 14:48:01 How the hell do I make a turbine generator?
+creations-chat 2020-09-24 14:59:40 I can finally store oil.
+help 2020-09-24 15:07:14 How do I make this?
+help 2020-09-24 15:08:33 As in make it and it works.
+creations-chat 2020-09-24 15:11:38 The inside of the oil separate tower
+creations-chat 2020-09-24 15:16:29 ~~Pee~~ Diesel Gauges.
+help 2020-09-24 15:16:47 A steam turbine.
+creations-chat 2020-09-24 15:19:53 More like yellowish brown
+help 2020-09-24 15:36:05 Okay but how the hell do I make that?
+help 2020-09-24 15:36:26 What the hell does the turbine blade look like in build mode?
+help 2020-09-24 16:13:09 No I wanna see what the turbine blade looks like in build mode so I can figure out how to make it.
+creations-chat 2020-09-25 04:52:58 Anyone got a wheel design that uses wedges instead of cylinders?
+creations-chat 2020-09-25 05:06:32 
+creations-chat 2020-09-25 05:11:04 https://gyazo.com/792d4e39fa3de483a019f58e53235bb5
+creations-chat 2020-09-25 05:13:16 https://gyazo.com/d767fee209e8b0d9c80eb0f1be280dc4
+creations-chat 2020-09-25 14:43:26 
+creations-chat 2020-09-25 14:47:00 should i use cylinders or half cylinders for the guiding wheels inside the tracks?
+creations-chat 2020-09-25 14:47:26 these ones
+creations-chat 2020-09-25 14:47:47 Aight
+creations-chat 2020-09-25 14:48:01 Also anyone got an idea of how to make good leading wheels?
+creations-chat 2020-09-25 14:48:45 No the wheels in front of the train
+creations-chat 2020-09-25 14:48:57 The small wheels in front of the big wheels
+creations-chat 2020-09-25 14:49:25 Like so my train can actually turn well
+creations-chat 2020-09-25 14:49:36 Without getting stuck
+creations-chat 2020-09-25 14:55:40 Now I need to figure out which type of valve gear to use
+help 2020-09-25 15:48:21 What does this look like in build mode?
+creations-chat 2020-09-26 04:13:58 Should I make a CCGT plant?
+creations-chat 2020-09-26 04:15:22 Something like this but ingame?
+creations-chat 2020-09-26 04:16:34 This is a modded Minecraft version of that but basically a gas turbine powers a steam turbine.
+creations-chat 2020-09-26 06:00:01 2 and a half batteries
+creations-chat 2020-09-26 06:14:03 What the **H E L L** is Motor2 suspension?
+creations-chat 2020-09-26 21:45:20 
+help 2020-09-27 02:55:27 How do I make leading wheels for a train and have it actually turn.
+creations-chat 2020-09-27 02:55:35 https://gyazo.com/ec9995a45a8bbb368e48d833297c8ec0
+creations-chat 2020-09-27 02:58:06 I designed the valve gear based on the design of North American locomotives from the mid to late 1800s.
+help 2020-09-27 03:57:49 No what I mean is a chassis for a train where the train doesn't get stuck on turns or inclines.
+creations-chat 2020-09-27 05:26:50 https://gyazo.com/3d688eb6f145a8dcb3be3b695288b73d?token=485bc621f2b25bd18067dc93b144e9c3
+Simple oscillating cylinder steam engine.
+creations-chat 2020-09-27 05:31:14 Actually it's like the smoothest steam engine I've ever made.
+creations-chat 2020-09-27 05:31:52 Probably because it doesn't have valve gear.
+creations-chat 2020-09-27 05:33:14 Making valve gear for steam engines overcomplicates them and and make them finicky, like the Mikado chassis I made or the marine steam engine I made.
+creations-chat 2020-09-27 05:33:42 Those complicated eccentric recreation mechanics into the game makes them prone to jamming.
+creations-chat 2020-09-27 05:34:12 Because they require blocks to literally phase through each other.
+creations-chat 2020-09-27 16:03:26 https://gyazo.com/09c3e69ec33cfb17dc422e500720f696
+Improved the design.
+creations-chat 2020-09-27 16:20:59 https://gyazo.com/ca1edd67325fbd440862dd992794bb7f
+creations-chat 2020-09-27 16:27:26 https://gyazo.com/d23c490e408696ec3c0a2886a36e6706
+I made it more realistic.
+creations-chat 2020-09-27 16:29:32 
+creations-chat 2020-09-27 16:44:19 https://gyazo.com/a98616ff193a26b24f6c84bb8431e71e
+help 2020-09-27 17:14:43 If you want something like a wind-up mechanism then use motor and suspension.
+help 2020-09-27 17:25:19 https://discordapp.com/channels/384021699466756103/384025409945337856/755517202571985020
+<@!495822777224396811> Do you have a picture of what this looks like in build mode?
+help 2020-09-27 17:34:03 https://gyazo.com/0797b40a601c6ef53a82ba393838b3fc
+Help
+help 2020-09-27 17:36:22 ye
+help 2020-09-27 17:36:36 ?
+help 2020-09-27 17:37:46 Explain
+help 2020-09-27 17:41:14 Ok I got it
+help 2020-09-27 17:41:38 Like this right?
+help 2020-09-27 17:45:03 There we go
+help 2020-09-27 17:47:37 Here it is color coded
+help 2020-09-27 17:48:11 Red = TNT
+Green = Unpowered Locked
+Blue = Powered Locked
+Yellow = Unpowered Disconnector
+help 2020-09-27 17:52:47 This is only half of the turbofan though
+creations-chat 2020-09-27 18:02:29 Tim to incorporate this into my oil powerplant.
+help 2020-09-27 18:10:37 Do the rank request command and then ask for your rank in the ticket chat.
+creations-chat 2020-09-27 18:24:48 Maybe could be used on making boats.
+creations-chat 2020-09-27 18:25:17 It's a telegraph.
+creations-chat 2020-09-27 19:18:34 How smooth is it?
+creations-chat 2020-09-28 05:04:58 
+help 2020-09-28 05:06:34 W   A   T
+creations-chat 2020-09-28 15:01:58 
+creations-chat 2020-09-28 15:13:15 Moar blades
+bug-reports 2020-09-28 15:20:22 https://gyazo.com/7c89da25a65ceea484ee870a9417db17
+Sometimes ladders lack self-block-collision.
+creations-chat 2020-09-28 16:36:33 It's complete!
+creations-chat 2020-09-28 16:37:17 
+creations-chat 2020-09-29 15:00:12 https://gyazo.com/e4a399fff6d9a8067c191a27a96e0b72
+https://gyazo.com/1d6959bf44fba285dc40525aea234ec1
+creations-chat 2020-09-29 15:01:09 Ah yes an afterburner
+creations-chat 2020-09-29 15:01:26 Wait no a smoking engine
+creations-chat 2020-09-29 15:06:54 https://gyazo.com/f552443020961e551eb2ed48e3ac835c
+Help.
+creations-chat 2020-09-29 15:38:39 https://gyazo.com/31319e784fca027189f2c67ae06dc35c
+https://gyazo.com/7e81360823e31240f20b8431d4737e2c
+https://gyazo.com/094e719e0c51acc80ffd088321d1ebf2
+Me when:
+help 2020-09-29 15:40:44 https://gyazo.com/094e719e0c51acc80ffd088321d1ebf2
+Me lose wing. Why I still fly?
+help 2020-09-29 15:47:21 And why does that bs also work in War Thunder and Rise of Flight?
+help 2020-09-29 15:55:32 Aerodynamics is strange.
+help 2020-09-29 15:56:06 A plane with only a stub for a main wing can continue to fly and land.
+creations-chat 2020-09-29 19:38:48 https://gyazo.com/cd4df8ce7bb18a6ac00e1fa522fd2db8
+creations-chat 2020-09-30 15:02:40 should i link the planes together with cameras or should each of them be separate?
+creations-chat 2020-09-30 15:04:46 well i could be on the ground and use a camera on one of the planes to pilot it from the ground
+creations-chat 2020-09-30 15:05:15 though that may be difficult, and if i were to fly in one of them without a formation then it would slow down the plane im in.
+creations-chat 2020-09-30 15:05:55 how can i slow down the other planes to keep up with them?
+creations-chat 2020-09-30 15:30:51 
+creations-chat 2020-09-30 15:40:56 should i add the red baron's plane as well?
+creations-chat 2020-09-30 15:43:45 Or should I change the middle triplane to the Red Baron's plane?
+creations-chat 2020-09-30 15:48:50 any recommendations before i post this?
+creations-chat 2020-09-30 15:52:13 
+creations-chat 2020-09-30 15:52:28 does anyone have any suggestion for this?
+creations-chat 2020-09-30 15:53:14 Hello? Is there anything I should add to the flying circus before I post it?
+creations-chat 2020-09-30 15:55:46 they look like birds
+creations-chat 2020-09-30 17:14:24 what color glass is invisible
+creations-chat 2020-10-02 18:04:47 
+creations-chat 2020-10-02 18:23:27 Cogs?
+creations-chat 2020-10-02 18:51:33 
+creations-chat 2020-10-02 20:05:02 Would a flying boat count as a boat?
+creations-chat 2020-10-02 20:06:58 Because well, the body is designed as a boat, but it has wings that let it fly.
+help 2020-10-02 22:18:09 How do I make working cogs?
+the-dump 2020-10-05 03:41:00 
+creations-chat 2020-10-05 14:52:05 https://gyazo.com/fe2a81d401d8c03ea2f6d28936847779
+Steam engine that accelerates and decelerates.
+creations-chat 2020-10-05 14:52:48 Gyazo isn't compatible with <#384025409945337856>
+creations-chat 2020-10-05 15:05:10 The connection of the 2 piston rods really helps at synchronizing the driving wheel pairs.
+creations-chat 2020-10-05 15:06:12 And leading and trailing wheels instead of powering the driving wheels helps for more realistic acceleration and deceleration.
+creations-chat 2020-10-05 15:07:27 The driving wheels are the big wheels on a steam locomotive, the leading and trailing wheels are the normal-sized wheels that help the locomotive turn.
+creations-chat 2020-10-05 15:19:32 > 2 Wings? Who needs that?
+<@!309347794588794880> get on my level
+https://gyazo.com/31319e784fca027189f2c67ae06dc35c
+https://gyazo.com/094e719e0c51acc80ffd088321d1ebf2
+creations-chat 2020-10-05 15:25:36 I remember doing this to the tutorial B-17.
+creations-chat 2020-10-05 15:26:13 I know
+creations-chat 2020-10-05 15:26:29 It doesn't even have a ball turret.
+creations-chat 2020-10-05 15:27:17 I don't have that plane anymore I replaced it with a better B-17.
+creations-chat 2020-10-05 15:27:46 That actually does have an underside ball turret like a B-17 should.
+creations-chat 2020-10-05 15:31:46 I've created to scale WWI aircraft like my Camel, Dr. Trio, and Handley Page as well as recently a seaplane from WWI.
+bug-reports 2020-10-05 15:50:38 x10e+b, xe+b, x10^b are all the same expression.
+bug-reports 2020-10-05 15:51:17 They all mean something multiplied by 1 followed by x zeros.
+creations-chat 2020-10-05 18:01:44 Has this been made yet?
+creations-chat 2020-10-05 20:26:07 
+creations-chat 2020-10-05 20:28:14 https://gyazo.com/e6e250c47b3a7778cd70b39989791fef
+creations-chat 2020-10-05 21:07:03 Motor lock insanity is what you need.
+the-dump 2020-10-05 22:51:18 https://media.discordapp.net/attachments/719672251951218720/762797351836319744/image0.gif
+creations-chat 2020-10-06 04:28:38 Anyone got a small engine order telegraph design?
+creations-chat 2020-10-06 14:57:56 Werk
+creations-chat 2020-10-06 15:18:01 
+creations-chat 2020-10-06 15:18:34 How does the color scheme of my train look so far?
+creations-chat 2020-10-06 15:19:21 This is what the actual train looks like.
+creations-chat 2020-10-06 15:19:38 Green tren
+creations-chat 2020-10-06 15:43:20 
+creations-chat 2020-10-06 16:17:22 
+creations-chat 2020-10-06 16:17:38 So I finished the locomotive itself.
+creations-chat 2020-10-06 17:28:32 
+creations-chat 2020-10-07 13:54:05 Is there such thing as a 4-bladed screw propeller in this game, or has someone made something like that?
+creations-chat 2020-10-07 13:55:47 A screw propeller is a propeller that pushes or pulls liquid (basically the water version of a plane propeller).
+creations-chat 2020-10-07 13:57:10 A 4-bladed water propeller.
+creations-chat 2020-10-07 14:39:48 Added the tender
+creations-chat 2020-10-07 14:40:06 For some fucking dumb reason the R is censored
+creations-chat 2020-10-07 14:40:35 I still need to finish the tender and actually make the controls.
+creations-chat 2020-10-07 15:31:37 Interestingly enough, my steam train is exactly 1000 blocks in size.
+creations-chat 2020-10-07 15:43:41 https://gyazo.com/75637d393924134b2328d7693268a292
+Now the engine actually powers something.
+creations-chat 2020-10-07 16:02:46 no
+creations-chat 2020-10-07 16:03:10 that isnt even 6 blocks in size
+creations-chat 2020-10-07 16:03:32 First make a six block plane, then try to make a smaller one.
+creations-chat 2020-10-07 16:04:35 By small plane it means it's made up of 6 blocks or less.
+creations-chat 2020-10-07 16:05:06 Replace the camera with a main pilot stea
+creations-chat 2020-10-07 16:44:38 Help this plane actually doesn't suck at flying.
+creations-chat 2020-10-07 16:46:21 It's literally the simplest plane I've made.
+creations-chat 2020-10-07 19:07:34 Make the
+creations-chat 2020-10-07 19:08:06 https://tenor.com/view/flying-tank-gif-13395956
+the-dump 2020-10-07 19:28:19 
+creations-chat 2020-10-07 21:24:11 https://gyazo.com/b458157a0d05342b9db30dd960f07bb3
+creations-chat 2020-10-07 22:29:43 I made it small
+creations-chat 2020-10-07 22:30:40 https://gyazo.com/6a39610e043f6e8716a72e2849d20dcc
+creations-chat 2020-10-07 22:30:57 Smol steam engine
+creations-chat 2020-10-07 23:02:38 https://gyazo.com/056ba67ef2132a2d2c4ad2b4cca69721
+creations-chat 2020-10-08 01:34:02 https://gyazo.com/1c8078915e480e236ec76987f2867ab9
+creations-chat 2020-10-08 01:34:46 Now the pistons rods have guides.
+creations-chat 2020-10-08 01:35:05 Should I add guides to the valve rods?
+creations-chat 2020-10-08 13:39:25 An dynamo to generate electricity from the steam engine.
+creations-chat 2020-10-08 14:24:23 https://gyazo.com/b9f69af196257665b78fd884f207f2fe
+creations-chat 2020-10-08 14:30:44 I actually plan on putting it in a ship.
+creations-chat 2020-10-08 14:31:07 That will probably be the majority of the moving parts of the ship.
+creations-chat 2020-10-08 14:33:05 https://gyazo.com/00e8ba60746d9137f123e17c37a92cb2
+The bigger engine I made is able to actually work.
+creations-chat 2020-10-08 14:37:40 I know.
+creations-chat 2020-10-08 14:38:18 Spinning an engine is purely decorational.
+creations-chat 2020-10-08 14:38:57 The things that go up and down less than the pistons?
+creations-chat 2020-10-08 14:39:18 Those are the valves.
+creations-chat 2020-10-08 14:39:50 They are what allow the steam to drive the pistons.
+creations-chat 2020-10-08 14:41:28 Well the valves allow the pistons to continuously turn.
+creations-chat 2020-10-08 14:42:06 The first steam engine was an atmospheric engine, which was really slow and inefficient because it relied on the air to push the piston back down.
+creations-chat 2020-10-08 14:42:23 It was also very heavy, which made it basically impossible to use on ships.
+creations-chat 2020-10-08 14:43:55 The valve gear allows the valve to automatically reset the piston.
+creations-chat 2020-10-08 14:48:05 One of the main problems I have is finding a ship to incorporate the engine into, as practically all marine vessels from 1914 and on used steam turbines instead of reciprocating steam engines.
+creations-chat 2020-10-08 14:48:38 And around some time after that those were mostly replaced by diesel engines.
+creations-chat 2020-10-08 14:50:38 The most notable ships I am aware of that used reciprocating engines still in the 1910s and on were the Olympic Class Ocean Liners, but they had 2 sets of 4 cylinder engines for the side propellers and used a steam turbine to drive the main propeller.
+creations-chat 2020-10-08 14:51:33 Parsons turbine literally replacing everything steamship.
+creations-chat 2020-10-08 15:38:00 I now made it a "triple expansion" engine.
+creations-chat 2020-10-08 15:40:50 What I mean by "triple expansion" is that it isn't actually a triple expansion engine, because all the pistons move at the same time.
+creations-chat 2020-10-08 15:52:54 https://gyazo.com/46b59e08cb82641956551659af25a237
+I added this thing on the side.
+creations-chat 2020-10-08 16:29:49 https://gyazo.com/23202fb673d1f0e6c3a9919769b47b41
+creations-chat 2020-10-08 16:57:31 
+creations-chat 2020-10-08 17:08:09 https://gyazo.com/6f163ef170252e5714a69e8d23081c42
+the-dump 2020-10-08 19:21:47 
+creations-chat 2020-10-09 15:49:32 So I've decided to put this on the RMS Oceanic.
+creations-chat 2020-10-09 16:38:07 
+help 2020-10-09 17:13:15 How do I fold this?
+help 2020-10-09 17:17:21 How do I use the magnets with folding?
+help 2020-10-10 01:34:42 How do I make a trim tab?
+the-dump 2020-10-10 14:04:50 Me when
+the-dump 2020-10-10 20:53:12 
+creations-chat 2020-10-11 03:03:40 Should I make this?
+creations-chat 2020-10-11 03:06:49 This thing.
+creations-chat 2020-10-11 03:07:21 And this other thing.
+creations-chat 2020-10-11 03:08:43 2 quadruple expansion steam engines that feed exhaust steam into a steam turbine.
+creations-chat 2020-10-11 03:11:18 I've already made something like this sorta, except for the whole pistons don't move at the same time part.
+the-dump 2020-10-11 03:29:30 
+help 2020-10-11 03:34:47 How do I make an eccentric like this where it actually works?
+help 2020-10-11 03:39:14 Nevermind I figured it out
+creations-chat 2020-10-11 03:40:25 https://gyazo.com/ec9c5d7325bf377d30f611f37cabfb93
+I've come to make an announcement. I no longer need ladder voodoo magic.
+creations-chat 2020-10-11 04:05:22 https://gyazo.com/123d6f1c2579f363eea3b15ecf3fd151
+creations-chat 2020-10-11 04:05:55 The rear 2 cylinders of one of the engines is now functional.
+creations-chat 2020-10-11 04:11:01 Finer detail on the eccentrics and piston rods.
+creations-chat 2020-10-11 04:11:55 Should I replace the binding part of the eccentrics with pontoons to look less blocky?
+creations-chat 2020-10-11 04:12:40 Like this?
+creations-chat 2020-10-11 04:13:25 It's this thing.
+creations-chat 2020-10-11 04:13:57 The shaft is the part that all the machinery spins on.
+creations-chat 2020-10-11 04:14:30 The eccentrics turn rotational motion into linear motion.
+creations-chat 2020-10-11 04:14:47 Sort of like pistons but in a slightly different manner.\
+creations-chat 2020-10-11 04:16:05 Both of these do relatively the same thing, but are for different purposes.
+creations-chat 2020-10-11 04:17:38 Also I designed the pistons without motors because that allows them to act as a single continuous unit when previous versions would run into parts not turning at all or just undulating in place.
+creations-chat 2020-10-11 04:18:20 Not using unpowered motors at the part where the piston rod connects to the shaft.*
+creations-chat 2020-10-11 04:20:56 This is where I'm leaving my progress for the day.
+creations-chat 2020-10-11 04:24:10 https://gyazo.com/58aa31cc34ef6cd817e5a70883138f7e
+Hmm...
+bug-reports 2020-10-11 04:33:22 https://gyazo.com/58aa31cc34ef6cd817e5a70883138f7e
+It's not just locked motors in general, it's just plain motors in general.
+help 2020-10-11 04:39:12 https://gyazo.com/58aa31cc34ef6cd817e5a70883138f7e
+Any ideas how do make the motor move without separating it in two?
+bug-reports 2020-10-11 04:40:56 Also don't stack motors that are spinning really quick together with high torque that doesn't typically end well.
+help 2020-10-11 04:42:17 But do you have any idea how how to do this without ropes?
+help 2020-10-11 04:44:05 Piston suspension?
+help 2020-10-11 04:44:36 Would using a piston potentially work as a way to move the motor?
+help 2020-10-11 04:45:48 Also what the hell is restitution?
+help 2020-10-11 04:46:48 Restitution on ropes
+help 2020-10-11 04:47:49 Ah so kinda like suspension sometimes
+help 2020-10-11 05:18:33 No idea, but there is a maximum number of trails, and I wouldn't recommend using too many trails at that can probably cause lag.
+creations-chat 2020-10-11 05:22:01 You don't have space.
+help 2020-10-11 05:27:52 Stiffness/Damping Tampering.
+creations-chat 2020-10-11 05:41:42 This design could probably be modified to make for realistic steam train linkage.
+creations-chat 2020-10-11 05:50:01 Should I make this as well?
+creations-chat 2020-10-11 07:25:13 Here are all the flight control surfaces I can name:
+Aileron, elevator, rudder, and trim tab.
+creations-chat 2020-10-11 07:25:39 Oh and I forgot flaps.
+creations-chat 2020-10-11 07:26:32 Trim tabs are the tiny control surfaces that that are part of the larger control surfaces.
+help 2020-10-11 15:47:35 What does motor reset do?
+creations-chat 2020-10-11 15:57:26 https://gyazo.com/5008649ce18e88e674fac5f1f808b01e
+It's now a triple expansion engine.
+creations-chat 2020-10-11 16:01:55 This is a closeup of one of the connecting rods for a piston.
+creations-chat 2020-10-11 16:03:56 https://gyazo.com/d94a0c5fb15f972fcbd4e4ccb3838cd7
+creations-chat 2020-10-11 16:22:42 https://gyazo.com/c390141abd1ffcc7234a42caecdce5f7
+creations-chat 2020-10-11 16:25:14 https://gyazo.com/76949065f06bb14403416180ba5f2874
+help 2020-10-11 16:30:58 What's a good seven block wheel design?
+creations-chat 2020-10-11 16:48:58 How's this for a large gear?
+creations-chat 2020-10-11 16:50:55 But the problem is it uses half blocks, which won't work.
+creations-chat 2020-10-11 16:53:57 https://gyazo.com/2965ad523fb5fe57fbfde1d82273c1e4
+But this works
+creations-chat 2020-10-11 17:04:12 I added a dynamo and Parsons Turbine.
+creations-chat 2020-10-11 17:06:34 A dynamo generates electricity from motion, and a Parsons Turbine is one of the earliest forms of a modern steam turbine engine.
+creations-chat 2020-10-11 17:07:22 The Parsons Turbine is literally just a bunch of turbine blades attached to a shaft.
+creations-chat 2020-10-11 17:08:00 Ah yes when you hit a propeller blade in and the camera goes flying.
+creations-chat 2020-10-11 19:30:21 Blame fucking Adopt Me.
+creations-chat 2020-10-11 19:30:49 It's Adopt Me the servers won't show up.
+creations-chat 2020-10-11 21:57:12 Working on the second engine.
+creations-chat 2020-10-11 22:11:47 I completed all the functionality.
+creations-chat 2020-10-11 22:12:46 Yes
+creations-chat 2020-10-11 22:13:46 https://gyazo.com/803eba277b8ce9ba17863b96ce9de653
+creations-chat 2020-10-11 22:14:25 The lag makes it spin slower.
+creations-chat 2020-10-11 22:15:10 But the speed fluctuates depending on the lag.
+creations-chat 2020-10-11 22:15:26 So sometimes it spins fast, and other times slow.
+creations-chat 2020-10-12 04:03:20 
+creations-chat 2020-10-12 14:15:24 This thing...
+creations-chat 2020-10-12 14:28:54 How do I make a pressure plate?
+creations-chat 2020-10-12 14:51:29 Rotary engine
+creations-chat 2020-10-12 15:01:26 
+creations-chat 2020-10-12 15:23:23 How's this so far?
+creations-chat 2020-10-12 15:47:07 Early flight test.
+creations-chat 2020-10-12 16:37:41 All I gotta do now is the struts and guns.
+creations-chat 2020-10-12 16:38:07 And then I can decorate it.
+creations-chat 2020-10-12 17:02:52 
+creations-chat 2020-10-12 17:03:37 How's my progress?
+creations-chat 2020-10-12 17:50:40 Look I made the plane in an hour and a half.
+the-dump 2020-10-12 20:27:44 Is this an early warning sign for today?
+the-dump 2020-10-12 20:28:43 If that happens one more time Roblox will literally have to do something about it.
+creations-chat 2020-10-13 03:43:42 https://gyazo.com/566fb4240a19cbbce4b97da3039ad7ba
+Now with pistons and valves!
+creations-chat 2020-10-13 03:48:18 Should I make this?
+creations-chat 2020-10-13 03:49:03 Lewis firing mechanism
+creations-chat 2020-10-13 03:55:49 Should I make a flathead engine?
+creations-chat 2020-10-13 04:17:13 https://gyazo.com/d230237e02109c4920220fcb1e409260
+What the hell did I make?
+creations-chat 2020-10-13 04:21:21 https://gyazo.com/8d1f98a353f4d6f744767e49ff040bfd
+Ok the valves are less jittery.
+creations-chat 2020-10-13 04:58:18 This was a Kamikaze plane.
+creations-chat 2020-10-13 05:02:52 And this is what is left of a Messerschmitt.
+creations-chat 2020-10-13 15:33:05 https://gyazo.com/619621501e7215b00940acb92eefb492
+Work on something
+creations-chat 2020-10-13 15:48:26 https://gyazo.com/182811e52ec6df78fd859d4297ef2021
+I'm getting somewhere
+creations-chat 2020-10-13 15:59:03 https://gyazo.com/a3c719c6988acdbbf6cf39923885703b
+How does this look so far?
+creations-chat 2020-10-13 16:01:38 https://gyazo.com/10e09d2d1aaea4add89378e8aceb8064
+It doesn't use motors for power though.
+creations-chat 2020-10-13 16:02:35 If I used motors to drive it then it wouldn't have as realistic throttling as it does right now.
+creations-chat 2020-10-13 16:24:11 https://gyazo.com/2464ae12d64cd50de4f249d7e9f2d692
+How does this look so far?
+creations-chat 2020-10-13 16:43:24 https://gyazo.com/8c0769ac66074ba0723b64d38f19848c
+creations-chat 2020-10-13 17:06:11 https://gyazo.com/87b24772253788aa275a6e966385279d
+How does this look so far?
+creations-chat 2020-10-13 18:03:08 This is a colored version of the valve gear.
+creations-chat 2020-10-13 18:21:33 Boilers go kaboom.
+creations-chat 2020-10-13 23:44:10 This is the type of valve gear that your typical marine steam engine used.
+creations-chat 2020-10-13 23:50:59 I made that kind of valve gear in the game.
+creations-chat 2020-10-13 23:53:08 Should I make a steam train with Baker valve gear or Stephenson valve gear?
+creations-chat 2020-10-14 01:10:17 What type of valve gear should I make? Stephenson valve gear, Baker valve gear, or Gresley conjugated valve gear?
+help 2020-10-14 01:24:43 <@629764415020990484> mess around with the speed and torque.
+creations-chat 2020-10-14 03:58:09 https://gyazo.com/61a6c3a6b8102738a046c5c1fb80fcdd
+Uh huh.
+creations-chat 2020-10-14 04:31:33 
+creations-chat 2020-10-14 14:38:57 
+creations-chat 2020-10-14 14:57:18 https://gyazo.com/4482eedb23ec44d9c8861ee040052150
+creations-chat 2020-10-14 15:24:09 There is no way that more than 4% of all Roblox players play Adopt Me.
+creations-chat 2020-10-14 15:43:05 
+the-dump 2020-10-15 01:12:11 
+creations-chat 2020-10-15 02:16:15 My post with the most upvotes is also the one with the most downvotes.
+creations-chat 2020-10-15 16:05:16 I'm making an improved steamboat.
+creations-chat 2020-10-15 16:28:24 https://gyazo.com/35d6d01300d19d77f71fe4fa8e743b8f
+creations-chat 2020-10-15 16:39:00 
+creations-chat 2020-10-16 16:05:55 Should I make this train?
+help 2020-10-17 14:16:48 How do I make flanged wheels without the train wheel part?
+creations-chat 2020-10-17 14:48:47 I made the piston part compact
+creations-chat 2020-10-17 15:09:33 https://gyazo.com/046c8c1b01ac456a1457d07abe98d300
+How does this look so far?
+creations-chat 2020-10-17 15:45:11 
+creations-chat 2020-10-17 15:59:08 https://gyazo.com/99d001b041577c4bff15d3ebf0cd519c
+What do you think about this so far?
+creations-chat 2020-10-17 16:17:41 
+creations-chat 2020-10-17 23:03:58 https://gyazo.com/2aaf59f985f6c2b4fc1d24ba8b092742
+German Engineering
+the-dump 2020-10-18 03:26:22 The backpack holds their hands when they aren't being used.
+creations-chat 2020-10-18 04:21:57 https://gyazo.com/72206cc1d9a28df019fbed2374b6922c
+creations-chat 2020-10-18 04:29:18 https://gyazo.com/671610a248b3602d6d8e9d24cc9d6376
+creations-chat 2020-10-18 04:35:26 https://gyazo.com/8ae61919025caa7a2eda7137c8891fce
+creations-chat 2020-10-18 04:36:43 https://gyazo.com/48b80c79a0d81b79a1e77177656308a2
+Hmm...
+creations-chat 2020-10-18 05:19:43 They should implement whitelist NGL for people who want massive projects to be done quicker.
+It would also solve the whole teambuilding weirdness going on in <#504718138399522832> & <#609381270237216768>.
+creations-chat 2020-10-18 05:21:46 Literally people have just been like "How do I teambuild" the whole day in <#609381270237216768>.
+help 2020-10-18 05:32:16 Make the body wider or use motorlock witchcraft.
+creations-chat 2020-10-18 14:51:09 How does this look?
+creations-chat 2020-10-18 15:00:54 How's my progress?
+creations-chat 2020-10-18 21:20:47 https://gyazo.com/7749ff2e18bbaa1b2ba1343ebc69678e
+How does this look?
+creations-chat 2020-10-18 21:45:00 An unfinished boiler.
+creations-chat 2020-10-18 21:55:07 How does this look so far?
+help 2020-10-18 22:34:32 You could just make a non-rotating chin turret.
+creations-chat 2020-10-18 22:48:21 I don't understand camera welding and the motor 2 landing gear people make.
+creations-chat 2020-10-19 01:39:00 This is the reference to this creation.
+https://discord.com/channels/384021699466756103/384025409945337856/767514733703462932
+creations-chat 2020-10-19 02:01:36 https://m.youtube.com/watch?feature=youtu.be&t=16&v=JxNMh0PFwfo
+Steam engines are very reliable and safe.
+creations-chat 2020-10-19 14:35:25 How does this engine look so far?
+creations-chat 2020-10-19 15:39:59 Oof
+creations-chat 2020-10-19 15:41:39 One of the tie rods wasn't on tight enough.
+creations-chat 2020-10-19 20:05:03 Delailment
+creations-chat 2020-10-19 20:06:04 Both tie rods snapped.
+creations-chat 2020-10-19 20:41:38 How does this look so far?
+help 2020-10-19 21:11:31 How to magnet weld here?
+help 2020-10-19 21:18:38 How do I make it not laggy?
+help 2020-10-19 21:19:53 But then it will fall apart after disconneting.
+help 2020-10-19 21:22:08 I don't have space because the coach is going to be too tall
+help 2020-10-19 21:29:10 So I tried some uhh, camera weld and uhh...
+help 2020-10-19 21:30:21 It welded it
+help 2020-10-19 21:30:31 Nevermind...
+help 2020-10-19 21:33:00 Only works when anchored
+help 2020-10-19 21:36:36 How do I fold it with the motor on the inside?
+help 2020-10-19 21:51:58 Help me fold this coach.
+help 2020-10-19 21:55:33 Torque
+creations-chat 2020-10-19 21:55:52 How to fold coach
+creations-chat 2020-10-20 03:13:02 Should I make a trumpet?
+creations-chat 2020-10-20 03:14:19 Or should I make a piano? Both would have functioning keys/valves.
+creations-chat 2020-10-20 04:42:07 https://gyazo.com/c73af37ad0255f7dcc7345fbf77f5e08
+I'm working on an LNER A3.
+creations-chat 2020-10-20 04:52:16 https://gyazo.com/da22fd38a42dd2819058683331896bf0
+How's this so far?
+creations-chat 2020-10-20 04:58:22 Yes I am adding the third cylinder
+creations-chat 2020-10-20 04:59:49 The LNER A3s (Flying Scotsman) and A1s (Tornado) were 3-cylinder locomotives which used Gresley conjugated valve gear to control all three pistons.
+creations-chat 2020-10-20 05:08:55 https://gyazo.com/640736653fbac9b48dc460647e5803a4
+creations-chat 2020-10-20 05:10:22 How it's actually going to be narrower than the rails.
+creations-chat 2020-10-20 13:35:15 Should I make this?
+creations-chat 2020-10-20 18:03:23 https://gyazo.com/3046aa6a2325e9cf96b4ddd453b3c7cf
+How does this look so far?
+creations-chat 2020-10-20 18:24:55 The game got shut down
+creations-chat 2020-10-20 18:26:05 I know I was in a game mad shut it down.
+creations-chat 2020-10-20 18:28:49 Apparently Adopt Me broke because of the datastore issue~~, which may or may not have been initially caused by Adopt Me in the first place~~.
+creations-chat 2020-10-20 19:38:01 Balon
+creations-chat 2020-10-20 19:39:02 https://gyazo.com/e38b2132129c1c707231930956d9b573
+creations-chat 2020-10-20 19:40:26 https://gyazo.com/4d5489bdf76a14c37f18491ab9fa6a5d
+creations-chat 2020-10-20 19:43:02 The trip to Brazil starts out not seeming that bad, but then rapidly degrades into insanity.
+creations-chat 2020-10-20 19:44:04 It's inside the balloon.
+creations-chat 2020-10-20 19:45:48 It can no longer be seen on a 3-dimensional plane.
+creations-chat 2020-10-20 19:53:09 https://gyazo.com/8da0efab0dc51e444337995bf58c652a
+Fuck it, speed.
+creations-chat 2020-10-20 20:01:25 https://gyazo.com/fd28486a558fe553cf8fa735bb4ebf71
+creations-chat 2020-10-20 21:50:08 How's my progress looking?
+creations-chat 2020-10-20 21:51:09 It's going to be the LNER A3 *Flying Scotsman*
+creations-chat 2020-10-20 22:08:30 The overcomplicated shit is done.
+creations-chat 2020-10-20 22:12:33 https://gyazo.com/dff32cee48004f5733a85910994500c0
+And it works.
+creations-chat 2020-10-20 22:17:25 https://gyazo.com/39583d120a75a74e201e70ab9e6cdc7f
+Improve this.
+creations-chat 2020-10-20 22:22:32 https://gyazo.com/9ec772f09bd92da9fd9523974799a621
+Boing boing
+creations-chat 2020-10-21 00:57:50 What the hell does physics mode on do on anchors?
+creations-chat 2020-10-21 02:24:50 https://gyazo.com/de088a3f0a3bdb3becc16be1a1bca6fd
+creations-chat 2020-10-21 04:44:13 Should I make this?
+creations-chat 2020-10-21 16:49:37 Any thoughts on this link for a new and improved valve gear?
+creations-chat 2020-10-22 03:26:14 https://gyazo.com/f9e4073d7a3f8bf76095a1d21ed3582d
+Nice, it automatically slides the sliding block for me.
+creations-chat 2020-10-22 03:34:38 My guess is that the inertia from the direction causes the slide to move in the direction of rotation.
+creations-chat 2020-10-22 03:43:56 How's this?
+creations-chat 2020-10-22 04:08:54 https://gyazo.com/d52633b728cf58717060ea5e37c5cdbb
+creations-chat 2020-10-22 04:23:01 Build mode. I want.
+creations-chat 2020-10-22 04:24:12 So instead of expanding, it compresses.
+creations-chat 2020-10-22 05:37:41 Any ideas how to make this?
+creations-chat 2020-10-22 05:39:25 Yes
+creations-chat 2020-10-22 14:09:43 https://gyazo.com/926ead2b18d33c172e659e6537ba1605
+How's this for train wheels?
+creations-chat 2020-10-22 14:12:05 
+creations-chat 2020-10-22 15:07:46 I added the landing gear flap things to the P-51.
+creations-chat 2020-10-22 15:08:50 And this is what it looks like when the landing gears are folded in.
+creations-chat 2020-10-22 15:16:01 
+creations-chat 2020-10-22 15:32:51 Better
+creations-chat 2020-10-22 15:34:07 <:BIG1:588443768806703124><:BIG2:588443778554134540>
+<:BIG3:588443788721258534><:BIG4:588443798842114088>
+Smooth big boi.
+creations-chat 2020-10-23 13:40:57 How do I make a magnet powered steam engine?
+help 2020-10-23 15:31:04 What's a good block type and material for a water rudder or paddlewheel?
+creations-chat 2020-10-23 15:33:52 A large scale tutorial plane but each part is made of the respective block, the large blocks are made of smaller blocks, large tanks are made of smaller tanks, large propeller is made of smaller propellers, etc.
+help 2020-10-23 15:35:00 What's a good material for that?
+creations-chat 2020-10-23 15:44:43 
+creations-chat 2020-10-23 15:49:19 Landing gear made out of landing gear oh my god what am i doing anymore?
+creations-chat 2020-10-23 15:57:23 
+creations-chat 2020-10-23 16:06:23 
+creations-chat 2020-10-23 16:12:21 And this is what happens when it hits one of the turbines.
+creations-chat 2020-10-23 17:29:17 
+creations-chat 2020-10-23 17:31:15 Yeah I made it in like 5 minutes.
+It does have armor though so it's not absolute shit.
+creations-chat 2020-10-23 17:33:05 It actually does do well at climbing hills and stuff and does seems like it would be great for trench warfare so, not too bad.
+creations-chat 2020-10-23 17:35:47 
+creations-chat 2020-10-23 17:37:12 It corrects itself, also the two things that can get through TNT armor are lava and blacklisted cutters.
+creations-chat 2020-10-24 19:24:59 https://gyazo.com/e14120f5881686173a77ae5cf00f3950
+Opinions?
+creations-chat 2020-10-24 19:35:28 https://gyazo.com/65395923282ff7a43f0f5889d5f7a9b4
+Any improvements on this I should do?
+creations-chat 2020-10-24 19:53:20 https://gyazo.com/0e1e0ed6022d6d2ea085ba68c0a6abbf
+So I started adding platforms.
+creations-chat 2020-10-25 02:28:19 <@!368581738496131072> Is that a turbine?
+creations-chat 2020-10-25 03:42:49 
+creations-chat 2020-10-25 03:53:18 https://gyazo.com/abed002ad2d14ee7a09c2f991135f945
+creations-chat 2020-10-25 03:54:34 https://gyazo.com/f5a078fa04657f882f4102cff72ce7db
+creations-chat 2020-10-25 03:55:36 Bruh this breakdown at this slow speed lol.
+creations-chat 2020-10-25 03:57:13 https://gyazo.com/e3ad1a6811ef9281458b559cb34d9c73
+Naw it's because I'm beyond the death box.
+creations-chat 2020-10-25 04:06:26 IKR they got like 80 upvotes in 10 minutes.
+creations-chat 2020-10-25 04:08:14 I feel like I'm never going to get expert designer.
+creations-chat 2020-10-25 04:09:15 No like I'm always going to be stuck at Designer IV.
+creations-chat 2020-10-25 05:54:49 Someone make this.
+help 2020-10-25 06:02:22 If you use motorlock to stack wings into a compact space does the lift stack for that space like how motorlock stacking engines stacks the trust?
+creations-chat 2020-10-25 06:21:41 Should I make this?
+creations-chat 2020-10-25 06:27:08 The jet spike shouldn't be as big as the jet engine itself, it should be a bit smaller.
+creations-chat 2020-10-25 06:28:09 <@720751430595772418> CSS Virginia maybe?
+creations-chat 2020-10-25 06:29:45 By the shape and flags, seems like the CSS Virginia.
+creations-chat 2020-10-25 06:31:41 Gun Spam.
+creations-chat 2020-10-26 04:22:59 Anyone got a design for a toothed gear that doesn't use fabric cylinders or paddlewheels?
+creations-chat 2020-10-26 13:36:03 Probably with some unseen motors and cameras.
+creations-chat 2020-10-26 14:23:18 https://gyazo.com/20712a7244b3bda71a63b3da222deaf2
+Hello
+creations-chat 2020-10-26 14:27:01 Only takes a tiny bit of motor lock.
+creations-chat 2020-10-27 03:56:24 
+creations-chat 2020-10-27 04:48:22 https://gyazo.com/d4c98ec0325b6484bd05f14180bf3b7b
+creations-chat 2020-10-27 05:08:34 https://gyazo.com/3a67757fd8794fff7f8310c810305ef1
+Added the steam pump.
+creations-chat 2020-10-28 02:21:32 This won't change, or if it does, it will go down.
+creations-chat 2020-10-28 04:50:42 More small, but going to be more complex.
+creations-chat 2020-10-28 04:54:00 https://gyazo.com/147a962da7abded275470b07306f14cb
+Motors...
+creations-chat 2020-10-28 04:57:18 https://gyazo.com/4b221f8b0ce0306547571928ddf2d119
+Gearbox
+creations-chat 2020-10-28 04:59:33 https://gyazo.com/484a418043a8a79ebe5a9224acacb589
+Governor/spinning controller measure thingy.
+creations-chat 2020-10-28 13:34:40 Hi
+creations-chat 2020-10-28 13:49:19 How's the boiler?
+creations-chat 2020-10-28 14:03:05 Fuel tanks.
+creations-chat 2020-10-28 14:05:21 2 of them, one under each wing.
+creations-chat 2020-10-28 14:06:30 Dropping empty metal tanks that have traces of gasoline on children.
+creations-chat 2020-10-28 14:07:58 No the tanks have fuel, but once they run out, I drop them.
+creations-chat 2020-10-28 16:39:43 If you want the Bell X-1 to look better, make it yourself, because I'm too busy in school to bother fixing it.
+creations-chat 2020-10-28 22:01:12 I thought they're supposed to be stationary.
+creations-chat 2020-10-29 04:55:13 https://gyazo.com/037bffd12ba7c8d9a73b75238a321bd3
+One of two engines to be used on a ship.
+creations-chat 2020-10-29 04:56:15 Half cylinders and motor lock would work.
+creations-chat 2020-10-29 05:17:57 
+creations-chat 2020-10-29 05:22:44 The engine room, probably the most complex part of the ship, is more or less complete.
+creations-chat 2020-10-29 05:23:45 Yes the engine room is literally just a 2 cylinder steam engine, not that complex.
+creations-chat 2020-10-29 05:28:30 Also should my engine have this?
+bug-reports 2020-10-29 05:39:45 <@456226577798135808> maybe delete the textures and have it be plastic textures?
+creations-chat 2020-10-29 13:58:54 https://gyazo.com/dc4e5f4558542c11b2065632229bb4f9?token=622f9785ddc5dce518ed8a71cc10462d
+Steam engines of the SS Atlantic.
+creations-chat 2020-10-30 03:33:05 https://gyazo.com/644039b342097179dd9da77f7adf932f
+Very crude design of the River Don engine (ignore the spazzing on the right).
+creations-chat 2020-10-30 03:35:19 > <@!514333972189151233> Have you ever built a plane or a car or something thats not an engine? Just wondering. (No offense)
+<@456226577798135808> Yes I have
+creations-chat 2020-10-30 03:37:14 
+creations-chat 2020-10-30 15:45:06 https://gyazo.com/aff70da147ab29ae63a14787ee5e78a0
+Mmm, coffee.
+creations-chat 2020-10-30 15:47:13 Motorlocking hair.
+creations-chat 2020-10-30 15:57:18 Where are le pistons?
+creations-chat 2020-10-30 16:18:21 Expert designer needs 60+ upvotes.
+creations-chat 2020-10-30 16:19:30 There is no master designer, the 60+ upvotes applies to all other master ranks, but expert designer needs 60+ upvotes.
+creations-chat 2020-10-30 16:26:15 Safety first.
+creations-chat 2020-10-31 14:41:04 https://discord.com/channels/384021699466756103/384025409945337856/771835077885820979
+I'ma make this but v engine
+creations-chat 2020-10-31 15:39:50 https://gyazo.com/a953294ed2027b1c3dde53ec2b456421
+Here we go.
+creations-chat 2020-10-31 15:44:16 > does anyone have a functional piston engine that dosnt require powered motors? if you dont want to wait for the chat cooldown, just edit texts
+<@!701392731754201158> You can use engines like propeller or rocket engines with an unpowered motor like this.
+creations-chat 2020-10-31 15:47:25 
+creations-chat 2020-10-31 15:49:36 Use ice because no friction.
+creations-chat 2020-10-31 15:51:18 But using ice is more realistic.
+creations-chat 2020-10-31 16:11:34 Making a few modifications.
+creations-chat 2020-10-31 16:17:35 Okay, so how do I make those borders for the glass?
+creations-chat 2020-10-31 16:18:46 But how to fold the trails without making the motors visible?
+creations-chat 2020-10-31 16:31:54 Added flaps.
+creations-chat 2020-10-31 17:29:49 Fuck me
+creations-chat 2020-10-31 17:39:51 Fuck it, legacy glass.
+creations-chat 2020-10-31 17:42:20 No fucking way am I making that trail framed window shit because it won't fucking work for me.
+creations-chat 2020-10-31 17:48:23 How do I make those motor lock wheel things that have like a cylinder inside of a bigger cylinder?
+creations-chat 2020-10-31 17:58:50 Okay so now how do I add a blue circle around this?
+creations-chat 2020-10-31 18:07:17 My copy and paste stopped working.
+creations-chat 2020-10-31 18:08:28 No like my computer wont do copy and paste anymore
+creations-chat 2020-10-31 18:09:54 Ack roblox broke my copy and paste
+creations-chat 2020-10-31 18:12:48 
+creations-chat 2020-10-31 18:15:40 It works
+creations-chat 2020-10-31 18:20:53 
+creations-chat 2020-10-31 18:31:16 https://gyazo.com/f607322eac54bea23f33228a5899f14c?token=2c2487f2d2c08318e06927a4f09ab038
+The star is the maximum size I can make the text, but now it doesn't artifact.
+creations-chat 2020-10-31 18:32:24 There's no white star emoji as far as I know, so I used a unicode black star.
+creations-chat 2020-10-31 18:43:36 
+creations-chat 2020-10-31 18:47:42 Progressss
+creations-chat 2020-10-31 18:56:27 
+creations-chat 2020-10-31 19:01:32 Just a teensy bit of motor lock.
+creations-chat 2020-10-31 19:04:06 Opinions?
+creations-chat 2020-10-31 19:05:12 Now I need to figure out what the tops of the wings are supposed to look like, as well as add eyes.
+creations-chat 2020-10-31 21:29:21 https://gyazo.com/819a6d8327d508e7640835383f7d17ff
+Small steam engine
+creations-chat 2020-10-31 21:44:55 https://gyazo.com/cf790f106f10afb48f7fa43bbfdc88d5?token=4367421e4d89d5c6e950c35f377c6f5a
+Smallest 4-cylinder compound steam engine I've made.
+help 2020-10-31 22:17:52 Help
+creations-chat 2020-10-31 22:21:36 https://gyazo.com/51899240cf3074086c4aab52eac6447f
+creations-chat 2020-10-31 22:35:13 I need to use powered motors unfortunately.
+creations-chat 2020-11-01 04:43:31 Very comfy seating yes...
+creations-chat 2020-11-01 04:47:21 At least I'm not sitting inside of a solid block now...
+creations-chat 2020-11-01 04:48:41 A balloon.
+creations-chat 2020-11-01 05:02:58 
+creations-chat 2020-11-01 05:29:07 Why does everyone make ship exhaust pitch black?
+creations-chat 2020-11-01 05:34:43 My wings completely detached from my Sopwith Camel, now it's a monoplane with overhead wings like a Cesna.
+creations-chat 2020-11-01 16:06:25 https://gyazo.com/37a339aa03196848603a8d8dbacde64f
+creations-chat 2020-11-01 16:14:24 https://gyazo.com/94e21fb568655cc613acf08e42cec7c3
+How to turn to the left.
+creations-chat 2020-11-01 16:16:57 https://streamable.com/m9sa1t
+Landing.
+creations-chat 2020-11-01 19:28:03 Let's see the battle between the monitor and virginia
+creations-chat 2020-11-01 22:16:26 Britannic or something
+creations-chat 2020-11-01 22:25:26 Funnel collapse
+creations-chat 2020-11-02 14:41:27 How's this for the beginning of the *SS Atlantic*?
+creations-chat 2020-11-02 14:42:31 This ship, **NOT** the *Titanic*.
+creations-chat 2020-11-02 14:56:50 Do you think the aspect ratio of the *Atlantic* is off from the 1:10 aspect ratio of the actual ship?
+creations-chat 2020-11-02 14:58:11 It's supposed to be 12.5m wide and 128.5m long.
+creations-chat 2020-11-02 15:15:18 Should I ditch the two blade propeller or nah?
+creations-chat 2020-11-02 15:24:44 
+creations-chat 2020-11-02 15:52:52 https://gyazo.com/5049047c78e03f0b216aeb04d4d38740
+An engine that actually fits inside a ship.
+creations-chat 2020-11-02 16:06:26 Boilers...
+creations-chat 2020-11-02 16:15:34 Spinning
+creations-chat 2020-11-02 16:32:26 The one and only boiler room on the ship.
+creations-chat 2020-11-02 16:56:11 https://gyazo.com/3e7adc1bbdca5496f3aa332481ed60d2
+creations-chat 2020-11-02 17:01:25 https://gyazo.com/e4aabdde67071d124b36dacf502b0233
+*Chugging noises*
+creations-chat 2020-11-02 17:02:30 It's 52 by 52 by something right?
+creations-chat 2020-11-02 17:11:17 
+creations-chat 2020-11-02 17:21:02 How's the bow and forecastle looking so far?
+creations-chat 2020-11-02 17:26:24 Added the gold band.
+creations-chat 2020-11-02 17:31:31 
+creations-chat 2020-11-02 17:53:18 
+creations-chat 2020-11-02 17:56:00 Whoah a cattle farm.
+creations-chat 2020-11-02 17:57:02 A cattle truck for steak and burgers that looks good and is a cube.
+creations-chat 2020-11-02 18:52:12 Bridge of the *Atlantic*.
+creations-chat 2020-11-02 19:37:31 Raised the forecastle from promenade deck to the boat deck.
+creations-chat 2020-11-03 02:46:10 https://gyazo.com/cdff405b9339daf654e0be1efb2d4946
+Moar roll
+creations-chat 2020-11-03 02:47:44 Very lag roll.
+creations-chat 2020-11-03 02:49:18 https://gyazo.com/f62a1a81070532ed50bb9c3d4cf76a6b
+2 Rolls
+creations-chat 2020-11-03 03:24:51 You can barely see the name in the water.
+creations-chat 2020-11-03 03:43:57 My progress on the *Atlantic* so far. Just need to finish the bow, stern, boat deck, masts, and decorations.
+creations-chat 2020-11-03 03:49:36 > it shouldn't be flying lmao
+<@!707286099030048809> Neither should this.
+creations-chat 2020-11-03 03:53:38 What do you even call this?
+creations-chat 2020-11-03 04:02:40 You got to squint really hard to call this an aircraft.
+creations-chat 2020-11-03 04:08:01 What the fuck did I even fucking...how?!
+creations-chat 2020-11-03 04:44:45 
+creations-chat 2020-11-03 05:39:50 https://gyazo.com/76daecd6f894d7ac8f41f20aa0f1ac3d
+creations-chat 2020-11-03 14:54:43 https://gyazo.com/2658b577e97be07c27dfd5d9eeefab66
+the-dump 2020-11-03 17:07:40 
+creations-chat 2020-11-03 22:43:42 https://gyazo.com/3aaf00a040bad496340cdbcda40df017
+creations-chat 2020-11-03 22:45:14 Powered Locked Motor.
+Does the buggy locking thing, and spins while in the locked state.
+creations-chat 2020-11-03 22:51:13 Camera Weld
+creations-chat 2020-11-04 03:13:46 https://gyazo.com/313a1e16c8a26500430600bedd701c09
+creations-chat 2020-11-04 03:16:29 https://gyazo.com/7319ad01fcc1d3e0a04210292944a1ee
+creations-chat 2020-11-04 03:36:29 
+creations-chat 2020-11-04 15:00:27 Improved the design of the propeller so the motor lock is hidden on the interior portion of the shaft.
+creations-chat 2020-11-04 15:24:45 More masts.
+creations-chat 2020-11-04 15:37:37 > <@!514333972189151233> what ship?
+<@!705533053740777584> *SS Atlantic*
+creations-chat 2020-11-04 15:41:13 Moved the nameplate.
+creations-chat 2020-11-04 15:56:21 
+creations-chat 2020-11-04 16:07:29 https://gyazo.com/7e7b29d7ddd66e841e5e9e264101feb6
+What do you think about the propeller?
+creations-chat 2020-11-04 16:12:01 Well I need the blades to fit.
+creations-chat 2020-11-04 16:18:43 Because it would take up too much space
+creations-chat 2020-11-04 23:57:42 https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Stirling_Animation.gif/128px-Stirling_Animation.gif
+creations-chat 2020-11-05 00:30:33 https://gyazo.com/57f57dcfb6d3b1105ae8066e6e958b5b?token=825eab55d5485c00fdc8b9b914d798e5
+creations-chat 2020-11-05 03:37:08 Wow that a whole ton of upvotes in a short time for something relatively simple.
+creations-chat 2020-11-05 04:50:08 https://gyazo.com/326d4e9a7d340a6f1701d66c3a26daab
+creations-chat 2020-11-05 06:21:14 https://gyazo.com/7530d2f033fa5741a1bf0ebec7e928e0
+creations-chat 2020-11-05 06:29:40 Make
+creations-chat 2020-11-05 17:06:27 Bruh.
+creations-chat 2020-11-06 03:55:00 God the detail I need.
+creations-chat 2020-11-06 04:57:09 https://gyazo.com/602f9de81a1b33f32cabd2bb28689633
+creations-chat 2020-11-06 04:59:17 Duh, you slow down. If the train travels under 80 studs per second, it won't derail.
+creations-chat 2020-11-06 05:06:23 https://gyazo.com/03d53cd5f1834bf57001455217b345c4?token=655b43d103645c252f250a92964c05b5
+Or you don't slow down and the train just doesn't derail.
+creations-chat 2020-11-06 14:29:00 How's the face?
+creations-chat 2020-11-06 14:31:53 Should I make the eyes bigger or smaller?
+creations-chat 2020-11-06 14:38:29 Put them closer to the body of the plane.
+creations-chat 2020-11-06 14:42:52 > idk why peps say motorlock is confusing its pretty easy once you get used to it
+<@!659514717496147969> I know right?
+creations-chat 2020-11-06 14:44:46 If you're confused as to why the motor lock isn't working then you should take a look at how blocks attach to each other.
+creations-chat 2020-11-06 14:58:02 Damnit, I can't put numbers.
+creations-chat 2020-11-06 15:40:53 At finally fucking last!
+creations-chat 2020-11-06 15:46:38 Frame
+creations-chat 2020-11-06 16:13:54 
+creations-chat 2020-11-06 16:29:20 How close does my plane look to the real one I based mine off?
+creations-chat 2020-11-07 15:10:50 https://gyazo.com/509d11923babc23da3fe90dfa28de945
+creations-chat 2020-11-07 15:14:59 https://streamable.com/s1sa2w
+creations-chat 2020-11-07 19:29:16 https://gyazo.com/5cf2d04518d3ce8d593d844058f553a4
+creations-chat 2020-11-07 20:35:19 https://streamable.com/1uohyz
+Wheelslip Demonstration.
+creations-chat 2020-11-07 23:06:24 https://gyazo.com/b59b60d25eeb8a688d830520a3a4520a
+creations-chat 2020-11-07 23:27:40 https://gyazo.com/8f45179af2d2044acba953ea0cb15133
+Thoughts so far?
+creations-chat 2020-11-07 23:36:09 > oil
+<@!484529511468236802> https://gyazo.com/56e8b9287016992f4fe0eba98015c702
+creations-chat 2020-11-08 02:40:49 https://gyazo.com/bfd28ad11167472b236be4aae06f7f93
+Now it's a triple.
+creations-chat 2020-11-08 02:44:50 https://gyazo.com/9e7d36f672b49ccf87d22c81a7cbdd6d
+creations-chat 2020-11-08 05:48:27 
+creations-chat 2020-11-08 05:50:00 https://gyazo.com/06b9178d5f52a3dfcf3dec020e26a892
+creations-chat 2020-11-08 06:26:54 -1/2 Reciprocation Engines Complete
+-0/1 Turbine Engines Complete
+help 2020-11-09 16:09:35 How do I make something like a rope spool?
+creations-chat 2020-11-09 16:28:03 https://gyazo.com/9ab994e0f5b1b94f270fdc64687871e2
+help 2020-11-09 16:51:46 Like for something like this.
+help 2020-11-10 21:06:20 Is there something like a .25 motor lock method instead of .5?
+help 2020-11-10 21:27:31 How do I make something like a corkscrew?
+creations-chat 2020-11-10 23:01:04 Should I make a magnet driven piston?
+the-dump 2020-11-11 04:02:13 
+help 2020-11-11 06:45:18 Just search the emoji
+the-dump 2020-11-11 06:59:49 
+creations-chat 2020-11-11 18:38:01 https://discord.com/channels/384021699466756103/504436696021204992/774611823424700416
+> any feedback for my steam engine
+<@!626449107577471012> Olympic class triple expansion engines, I assume?
+creations-chat 2020-11-11 19:04:59 Is this HOF worthy?
+creations-chat 2020-11-11 21:08:31 https://gyazo.com/d29af534e8d6528ea96e022b524c1617
+Added a 3-bladed screw.
+creations-chat 2020-11-12 01:13:38 https://gyazo.com/d4f6cbef1390e37c58086504d07aa01d
+creations-chat 2020-11-12 01:24:01 https://gyazo.com/5799235f6fff620aefddf81fdcdf15ef
+Paddlewheel
+creations-chat 2020-11-12 16:08:51 Should I make circle pool?
+creations-chat 2020-11-12 16:47:36 https://gyazo.com/e0d1143b01ea9117face2a62f5032619
+creations-chat 2020-11-12 17:02:01 https://gyazo.com/f648e74f6a65a6640cc5e38ee3eea092
+Gears...
+help 2020-11-12 17:03:36 How make rope coil here
+creations-chat 2020-11-12 19:53:10 Progress
+creations-chat 2020-11-12 19:55:49 This thing here is a locking mechanism that stops the motion of the winch when the engine stops running so it doesn't just go on a runaway slide and drop the log on anyone underneath.
+creations-chat 2020-11-12 23:27:09 https://streamable.com/bwzujw
+Simple thing.
+creations-chat 2020-11-12 23:32:47 Whatever it very basic just spam engines
+creations-chat 2020-11-13 00:04:42 Ro-Scale P-51.
+creations-chat 2020-11-13 05:34:20 https://gyazo.com/ab1d8504ec2ade4555db834a1b3a36b9
+Small valve gear
+creations-chat 2020-11-13 05:58:31 https://gyazo.com/b71dae02bab25edede1fc9fdf3179a0a
+Modified displacer piston design to be more realistic (it moves freely and is not as tightly gripped onto the cylinder wall.
+creations-chat 2020-11-13 06:22:33 https://gyazo.com/a939c7d707b0e4ce38ccf392ff62733a
+Engine
+creations-chat 2020-11-13 15:29:11 https://gyazo.com/19c1c6c27a029b300fab8fda0f68b5aa
+creations-chat 2020-11-13 15:51:45 Work on the pump lever.
+creations-chat 2020-11-13 15:58:10 You making a V-Engine? Oh yeah that shit sucks to make. The best I can say is to just experiment a bunch until it works.
+creations-chat 2020-11-13 15:59:43 https://gyazo.com/40ff1383a63751330f1f671b3039d20c
+creations-chat 2020-11-13 16:03:16 https://gyazo.com/aaa596eb226be318fd42536cb2a2ef88
+creations-chat 2020-11-15 06:10:19 https://gyazo.com/efcbdf029a5923ea62bc115552e695a6
+creations-chat 2020-11-15 06:12:05 Whichever you chose is the one you count for scoring, usually and preferably the one with the most votes is the one you should go with.
+creations-chat 2020-11-16 18:34:23 https://gyazo.com/c1bcc59eefdb39c24b1bf68aeee8f4a5
+How's this trunk steam engine?
+creations-chat 2020-11-16 21:46:38 https://gyazo.com/97b9b6947f97300339daaf240bfc35b2
+creations-chat 2020-11-17 05:33:53 https://gyazo.com/ebdba0d56b26f29003dd6bb5255c7435
+Triple
+creations-chat 2020-11-17 06:01:03 Reference images for the engines
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Engines_of_RMS_Arabia_and_RMS_Persia.jpg/1024px-Engines_of_RMS_Arabia_and_RMS_Persia.jpg
+https://upload.wikimedia.org/wikipedia/commons/6/69/Walking_beam_engine.jpg
+https://upload.wikimedia.org/wikipedia/commons/a/ab/Steeple_engine.jpg
+https://upload.wikimedia.org/wikipedia/en/b/be/Siamese_engine.jpg
+creations-chat 2020-11-17 06:03:09 https://upload.wikimedia.org/wikipedia/commons/1/15/Oscillating_paddlewheel_engines_of_HMS_Black_Eagle.jpg
+https://upload.wikimedia.org/wikipedia/commons/f/fb/HMS_Bellerophon_engine.jpg
+https://upload.wikimedia.org/wikipedia/commons/7/75/Hammer_engine.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/TMW_677_-_Triple_expansion_compound_steam_engine.jpg/800px-TMW_677_-_Triple_expansion_compound_steam_engine.jpg
+More reference images.
+creations-chat 2020-11-17 14:08:16 I posted this last night, so I see what it has by tonight
+creations-chat 2020-11-17 14:09:46 Imagine using unpainted glass on a build that isn't a tutorial or demonstration build.
+bug-reports 2020-11-17 14:14:26 So it turns out with a high enough torque and speed in general you can use motors to force blocks to clip through other blocks in strange ways, be it partially or fully clipping through the block. Depending on factors, the clipping may result in the thing just passing through but slowing down, or the thing may do what I like to call a snap clipping where the thing just instantaneously clips through a wall of blocks usually due to jamming on something.
+creations-chat 2020-11-17 14:16:52 Imagine building.
+creations-chat 2020-11-17 14:19:11 For what? Saying the word "No" or "Yes" or "Hi?"
+creations-chat 2020-11-18 03:05:29 Uh huh.
+creations-chat 2020-11-18 03:08:05 The most difficult thing would probably be sequencing the valves correctly.
+creations-chat 2020-11-18 03:17:58 Damping is how much the suspension wants to revert back to its free length.
+creations-chat 2020-11-18 03:20:48 4.5 is 2 blocks, and I believe 9 might be 4 or so blocks, but am not sure.
+help 2020-11-18 13:51:28 How tall is a plot
+creations-chat 2020-11-18 20:23:07 Thoughts on how it looks so far?
+creations-chat 2020-11-18 20:27:20 The propellers come off
+creations-chat 2020-11-20 20:21:37 ^
+creations-chat 2020-11-21 16:04:21 Nobody cares
+creations-chat 2020-11-21 16:48:19 I'm on phone right now so I can't, but you can just search marine steam engine in creations and you should find it.
+creations-chat 2020-11-22 23:31:10 https://gyazo.com/5f4f49f041585e43ee15aad821c71f08
+creations-chat 2020-11-23 17:09:18 https://gyazo.com/e1ef86674990f69257b4654fd4cb955d
+creations-chat 2020-11-23 17:21:28 Like this?
+creations-chat 2020-11-23 17:23:00 
+creations-chat 2020-11-23 17:26:42 Somehow I've managed the compact the whole piston and valve gear components into a 5 block wide area without it looking too bulky.
+creations-chat 2020-11-23 17:28:13 Most of the valve gear fits within the 3 block wide area of the cylinder.
+creations-chat 2020-11-25 15:42:57 Make it sink.
+creations-chat 2020-11-25 18:04:03 engine
+creations-chat 2020-11-28 05:38:13 Put this in a liberty ship
+creations-chat 2020-11-28 06:13:37 Just a tad bit of motorlock is needed.
+creations-chat 2020-11-28 08:07:31 I wanna actually see someone put a steam engine inside of a steamship.
+help 2020-11-28 08:09:46 <:trollface:775024642104229898>
+the-dump 2020-11-29 02:00:44 Wait how he swear word at you
+creations-chat 2020-11-30 16:56:07 Should I make this?
+creations-chat 2020-11-30 17:10:35 You can still qualify for designer.
+creations-chat 2020-11-30 17:13:03 There should be a half corner wedge, and maybe a quarter block and corner block.
+creations-chat 2020-11-30 17:14:37 Motorlock + cameras/text blocks + explosive/spring blocks works for practically everything but it can get a *teensy* bit bulky and repetitive *eventually*.
+creations-chat 2020-11-30 17:19:25 Plane crazy is build a boat but motorlock exists instead of stitching.
+creations-chat 2020-11-30 17:21:24 Watch build a boat add pvp mode
+creations-chat 2020-12-01 03:50:50 A ring of magnets suspending a single block is impressive to many here, it seems.
+creations-chat 2020-12-02 03:18:37 How does this look so far?
+creations-chat 2020-12-02 03:26:53 https://www.encyclopedia-titanica.org/community/threads/360-views-of-the-olympic-class-reciprocating-room.38115/
+This is one of the things  I'm using as reference for what I'm making.
+creations-chat 2020-12-02 04:18:40 Remember this plane?
+creations-chat 2020-12-02 04:20:12 This is what it looks like now.
+creations-chat 2020-12-02 04:23:10 If you want to know why the plane has eyes, look up P-51 37058.
+creations-chat 2020-12-02 04:25:27 This image was useful when converting the P-51.
+help 2020-12-02 05:12:39 You will need motorlock. Same with 3, 6, 7, & 8+ bladed rotors.
+creations-chat 2020-12-04 02:22:30 https://streamable.com/g5ng3s
+Engine
+creations-chat 2020-12-04 02:24:32 I would just need to put it on a platform with wheels and let the torque move it.
+creations-chat 2020-12-04 02:28:03 hyperbot downvotes everything
+creations-chat 2020-12-05 05:19:02 https://discord.com/channels/384021699466756103/384025409945337856/784636069223858177
+How complex do you think this is?
+creations-chat 2020-12-05 05:22:25 It's not really that complex, and this will probably make it more understandable.
+creations-chat 2020-12-05 06:09:42 It uses a single eccentric held in place usually by a single bearing around the crankshaft. Each bucket is attached to the crankshaft by pivots, rather than being held rigidly in place like with a standard paddlewheel. Attached to each bucket is a rotating arm connected to the eccentric. The motion of the crankshaft causes the eccentric to move and hold the buckets in the position they are currently in, which is vertical, so they remain vertical while in motion.
+creations-chat 2020-12-05 19:04:21 Get big chungus to hof
+creations-chat 2020-12-05 23:40:46 The medium pressure cylinder is added, how does it look now?
+creations-chat 2020-12-06 05:11:32 https://streamable.com/1qlt54
+Thoughts?
+creations-chat 2020-12-07 02:00:58 https://streamable.com/jmjuz6
+creations-chat 2020-12-07 16:00:58 Mega engine.
+creations-chat 2020-12-07 16:24:01 I added steam pipes.
+help 2020-12-09 06:23:23 I don't think a helicopter is considered an a e r o p l a n e.
+creations-chat 2020-12-12 10:34:52 So I decided for some reason to start making a model of the dry fire water make power machine covered in oil in Paint3D, because why not?
+creations-chat 2020-12-14 01:49:07 How does this look?
+creations-chat 2020-12-15 05:06:49 
+help 2020-12-16 03:15:03 Add window frames.
+help 2020-12-16 03:15:22 And suffer the motor lock angling.
+bug-reports 2020-12-16 03:18:59 So, I don't think it's really a bug, but powered motors gyrate slightly. The oscillation isn't really noticable with short distances, and seems to go away when using another unpowered or reversed motor as a stabilizer, but it becomes quite noticeable with long distances of a spinning rotor with no support bearings.
+creations-chat 2020-12-16 03:21:20 Also make the flag look more like a flag.
+creations-chat 2020-12-16 20:40:35 How does the reversing engine look?
+creations-chat 2020-12-17 00:29:12 Thoughts?
+creations-chat 2020-12-17 00:32:06 That's the wheelset of a 4-4-0 with inside Stephenson valve gear.
+creations-chat 2020-12-17 00:36:09 The eccentrics are actually supposed to be in the center of the axle but that would complicate the build.
+creations-chat 2020-12-17 00:38:23 The 4-4-0 is basically a 4-2-0 but with an extra pair of driving wheels.
+creations-chat 2020-12-17 00:42:19 
+bug-reports 2020-12-17 00:46:33 That's because you have poor memory and the amount of entity tags overflows your memory, causing a soft lock. The only solutions are to get better memory, use smaller builds, or get a computer with better memory.
+bug-reports 2020-12-17 00:47:34 For example, for me, I have usually had this soft lock happen when I use my B-17 in pvp and someone machineguns me.
+bug-reports 2020-12-17 00:50:32 TD:LR, it's not the game, it's your computer.
+bug-reports 2020-12-17 02:12:11 Maybe you should check on what's causing your GPU to be overused.
+help 2020-12-17 04:16:05 Text blocks have no collision, which is good.
+help 2020-12-17 04:20:38 Connect things without something getting in the way.
+creations-chat 2020-12-18 05:32:55 
+creations-chat 2020-12-18 17:54:35 Revamped the base plate to be more realistic. How does it look?
+creations-chat 2020-12-18 17:56:36 I also changed the valve caps on the HP and IP cylinders to be correct.
+creations-chat 2020-12-19 01:05:00 Added the stokehold plates and the large bearing.
+creations-chat 2020-12-19 07:28:31 They use motor lock for more detail and stuff.
+creations-chat 2020-12-20 03:55:14 The base of the port engine is done.
+help 2020-12-20 04:51:51 The HP cylinder moving parts on the port engine don't move at all and instead cause LP cylinder parts that aren't supposed to move to end up moving and when trying to run the port engine it doesn't work.
+help 2020-12-20 04:53:54 It's based on the exact same design, but just does not work at all.
+help 2020-12-20 04:56:36 The port engine doesn't even work at all.
+help 2020-12-20 05:02:37 Oh I found out why the port engine broke
+creations-chat 2020-12-20 05:04:52 https://streamable.com/edr3cr
+help 2020-12-20 07:00:33 What type of material has a gingerbread texture?
+help 2020-12-20 07:03:52 And what's a good color?
+creations-chat 2020-12-20 08:25:08 How's this for a gingerbread train so far?
+creations-chat 2020-12-20 08:27:11 Well, the best material for gingerbread would be concrete, but I don't think there is really concrete ingame, and slate is the second best thing to concrete material. Also, I just started making the damn thing so...
+help 2020-12-20 18:25:50 Deactivated control panel.
+bug-reports 2020-12-20 21:42:04 The power of the jetpack is directly proportional to your framerate. Higher frames = more propulsion upward. Lower frames = less propulsion upward. If you have very low frames the jetpack may not even be able to propel you upwards at all no matter what.
+bug-reports 2020-12-20 21:45:53 I'm also experiencing the issue that the jetpack naturally wants to go up when active as well with normal framerate.
+bug-reports 2020-12-21 03:44:56 But lag causes it to not provide enough or too much force than needed to keep you levitating.
+help 2020-12-22 07:22:16 There's too many wheels for that train to turn. It should have like 4-8 train wheels, or if it's a long train car, 2 trucks with 4-6 train wheels each.
+the-dump 2020-12-23 11:17:37 
+creations-chat 2020-12-23 22:37:56 
+creations-chat 2020-12-24 22:02:44 
+creations-chat 2020-12-25 05:25:44 https://streamable.com/bshbpu
+creations-chat 2020-12-25 05:53:56 https://streamable.com/xywnjw
+More progress
+creations-chat 2020-12-27 04:48:32 Block count of the engines for those who are wondering how big they are, they are built at roughly 1.5:1 scale.
+creations-chat 2020-12-27 08:17:23 Let's see, uh, over a course of 2 weeks, I spent 8 hours looking at photographs and figuring out proportions, and 12 hours actually building the engine and troubleshooting ingame.
+creations-chat 2020-12-27 08:22:10 Ah yes, obscurity, my friend.
+creations-chat 2020-12-27 21:02:23 https://discord.com/channels/384021699466756103/384025409945337856/792613671363805195
+Because it's obscure and there's at least half of a person who wants to see what the completed thing looks like.
+creations-chat 2020-12-27 21:21:49 I also made some improvements to the Corliss engine, adding a counterweight and making the cutaway of the piston look like the inside of a steam piston.
+creations-chat 2020-12-27 21:25:24 Also if you didn't know the link I posted goes to my post in <#384025409945337856> of the completed Titanic engines.
+creations-chat 2020-12-28 05:56:24 Modified the changeover valves. How do they look?
+creations-chat 2020-12-28 19:49:16 Added steam separators, to separate wet steam from dry steam.
+creations-chat 2020-12-28 20:15:26 Hmm I wonder what this is...
+creations-chat 2020-12-28 20:52:55 
+creations-chat 2020-12-28 21:56:10 Heavy
+help 2020-12-29 04:48:03 My hover piston doesn't work, it gets stuck
+help 2020-12-29 04:49:48 ?
+help 2020-12-29 04:53:41 No like literally nothing moves it not even rocket engines
+help 2020-12-29 04:55:40 Not even super rocket engines
+help 2020-12-29 07:37:52 and things like smoke generators, blah blah blach
+creations-chat 2020-12-29 23:09:33 Size comparison of the functional high speed steam engine and the to-scale high speed steam engine.
+creations-chat 2020-12-30 02:30:51 
+creations-chat 2020-12-30 06:23:18 
+creations-chat 2020-12-30 08:13:16 ?
+No.
+creations-chat 2020-12-30 17:42:36 Any thoughts on this 1:2 scale version of one of Titanic's reciprocating engines?
+creations-chat 2020-12-30 19:13:53 Yeah, I'm going to work on both engines.
+creations-chat 2020-12-30 20:07:00 
+creations-chat 2020-12-30 20:12:30 It
+creations-chat 2020-12-30 20:15:57 Compared to the actual height 1:1 is on the left
+creations-chat 2020-12-30 20:17:57 Or in other words, the real engine is 30 feet (5 or 6 people tall).
+creations-chat 2020-12-31 00:01:00 I mean wouldn't the elevators control pitch?
+creations-chat 2021-01-02 03:48:01 yo
+creations-chat 2021-01-02 06:04:22 When I say the TBF is simple I literally started making it today and it's done.
+creations-chat 2021-01-06 16:51:34 But the A-36 is green.
+the-dump 2021-01-06 18:04:53 ?
+
+How do you know I'm not a girl?
+the-dump 2021-01-06 18:05:12 What if I dont even exist?
+the-dump 2021-01-06 18:05:29 ​
+the-dump 2021-01-06 18:06:07 Because my gender is nil
+the-dump 2021-01-06 18:07:15 ​
+help 2021-01-08 23:44:09 Blue but decals are different basically
+the-dump 2021-01-09 21:12:46 die
+creations-chat 2021-01-14 04:53:43 How's this for the base of a Stuka?
+creations-chat 2021-01-14 19:31:51 Should I add flaps to my B-17?
+creations-chat 2021-01-15 03:12:09 thoughts so far?
+creations-chat 2021-01-15 22:44:39 Thoughts?
+the-dump 2021-01-16 06:55:10 
+creations-chat 2021-01-16 07:01:22 https://streamable.com/zap6ec
+Any improvements I should work on?
+creations-chat 2021-01-16 07:07:11 I'll consider darkening the yellow
+creations-chat 2021-01-16 09:02:15 That looks somewhat similar to P-51 landing gear.
+the-dump 2021-01-17 00:52:32 https://tenor.com/view/lukas-taryl-war-thunder-tank-war-gif-18709516
+creations-chat 2021-01-18 05:03:47 How are the improvements to the Stuka, and anything else I should do?
+the-dump 2021-01-19 05:14:47 https://cdn.discordapp.com/attachments/740226369597866054/777248549074108446/Forklift_Training_-_Basic_Operations.mp4
+bug-reports 2021-01-20 00:17:52 https://streamable.com/ae9u3u
+bug-reports 2021-01-20 02:15:42 I know
+the-dump 2021-01-20 22:41:42 
+creations-chat 2021-01-25 01:13:46 Thoughts so far on this?
+creations-chat 2021-01-25 01:16:09 Currently the parts that are missing are the ailerons, rudders, tailwheel, dorsal gun, ventral gun, and detail.
+creations-chat 2021-01-25 06:19:47 It looks like a car
+creations-chat 2021-01-25 20:11:39 <#384025409945337856> what are some improvements I can make to my Flying Pencil? Currently it's armament is 5 machine guns (3 in the nose, 1 dorsal & 1 ventral) and that's it.
+creations-chat 2021-01-25 20:44:40 Trollage
+creations-chat 2021-01-27 23:46:04 
+creations-chat 2021-01-31 04:12:31 I think the wings are tilted slightly downwards.
+help 2021-01-31 04:15:14 uhh, disconnectors, trails, and a whole bunch of motorlock?
+creations-chat 2021-01-31 04:16:12 Well also the wings are on the top of the fuselage instead of on the bottom.
+creations-chat 2021-01-31 04:23:29 Well, the downward angle probably follows the principle of gull wings, minus the hard bend gull part of course. If you look at say, a WW2 monoplane fighter with the wings attached toward the bottom of the fuselage, you'll notice that the wings are angled slightly upwards, so the location of the wing relative to the fuselage probably affects it's angle.
+creations-chat 2021-02-02 03:27:04 Well, it's not a WW1 aircraft. The F3F was made in the 1930s. It's a naval carrier fighter.
+the-dump 2021-02-03 05:36:38 https://tenor.com/view/repost-if-you-hetalia-repost-if-you-h-fortnite-mando-gif-20078978
+creations-chat 2021-02-04 05:49:53 How does this look so far for the base of an He-111?
+creations-chat 2021-02-04 05:58:33 Well, I just started making it. Of course I'm gonna add more detail like windshield frames, and also plan to add the cockpit doors and such and such.
+creations-chat 2021-02-04 06:00:48 Well, that's what I'm doing. I'm using motorlock to make it detailed. But until it's complete, I'm just going to use a simplistic paint scheme until the detail is added.
+creations-chat 2021-02-04 17:13:20 How does the cockpit look so far?
+creations-chat 2021-02-04 17:15:28 I need to add the pilot's door and then the cockpit is more or less complete. Well, also need to add frames but that can happen later.
+creations-chat 2021-02-04 18:07:35 https://streamable.com/cobtjy
+steer
+creations-chat 2021-02-04 22:04:15 Thoughts so far?
+creations-chat 2021-02-05 01:50:25 how do the engines look?
+creations-chat 2021-02-05 02:52:45 how are the wings?
+creations-chat 2021-02-05 02:59:59 Mmm should I make of variation of the He-111 with the Fritz X on it?
+creations-chat 2021-02-05 03:02:20 It's kind of difficult to hide the motorlock on the wings, because otherwise they wouldn't be bent upwards.
+creations-chat 2021-02-05 03:04:55 It's going to very quickly overcomplicate my build if I try and hide the lock in the middle, because of position of stuff blah blah blah, and the hole in the roof near the tail is where the bulk of the motorlock is concealed.
+creations-chat 2021-02-05 03:21:21 so i started uhhh...
+the-dump 2021-02-09 13:39:43 let's visit
+help 2021-02-09 17:04:08 How do I make a sliding canopy for like WW2 aircraft?
+help 2021-02-09 18:06:41 Does the thrust source of an aircraft *have* to be either propeller engines/jet engines/motor propellers or can rocket engines/super rocket engines be used?
+help 2021-02-09 18:14:51 Talk more to level up
+help 2021-02-09 18:16:29 5
+creations-chat 2021-02-09 21:53:53 how does this look for the base of an sbd?
+the-dump 2021-02-09 22:44:11 https://streamable.com/4isq2x
+creations-chat 2021-02-10 04:08:24 make the wings shorter?
+the-dump 2021-02-11 00:47:39 What conflict was this?
+creations-chat 2021-02-11 19:43:49 is this good enough for an sbd tail gunner?
+the-dump 2021-02-12 05:05:46 guys i think im in trouble
+creations-chat 2021-02-12 18:03:08 the
+creations-chat 2021-02-13 04:49:20 What do you hate about my SBD, the exposed motorlock?
+creations-chat 2021-02-13 04:52:31 Oh wait fuck I forgot to add the rudder rod.
+creations-chat 2021-02-16 22:29:15 Imagine being jealous.
+bug-reports 2021-02-17 05:56:17 https://streamable.com/llw93i
+Lag AKA skill issue.
+bug-reports 2021-02-17 06:00:55 The game is unnaturally laggy.
+bug-reports 2021-02-17 06:04:38 I'm not blaming rickje bc the game wasn't laggy until the middle of last month.
+bug-reports 2021-02-17 06:04:57 Maybe some change in Roblox means I need more memory.
+bug-reports 2021-02-17 06:05:24 So I'll double my memory probably sometime this month.
+the-dump 2021-02-17 06:12:17 https://media.discordapp.net/attachments/758737758352834592/809763348613955654/image0.gif
+creations-chat 2021-02-17 14:12:45 https://discord.com/channels/384021699466756103/384025409945337856/811362218678419496
+I love how varied the upvote/downvote ratio is.
+creations-chat 2021-02-17 14:17:40 Why is the cockpit view the most upvoted lol? That's like the least P-51 looking part.
+creations-chat 2021-02-19 17:18:07 
+bot-central 2021-02-19 17:21:34 ?shelp
+creations-chat 2021-02-21 22:14:36 like it now?
+creations-chat 2021-02-21 22:17:08 
+the-dump 2021-02-22 06:07:58 dont clic if deaf
+creations-chat 2021-02-23 18:16:50 redoing the p-51d, how does it look so far?
+the-dump 2021-02-25 15:01:30 
+the-dump 2021-02-27 04:55:48 https://media.discordapp.net/attachments/758737758352834592/809763348613955654/image0.gif
+creations-chat 2021-02-27 08:04:02 it kinda looks like 1950 usaf logo but red and yellow, nice
+bug-reports 2021-03-01 15:30:13 so did my keybinds
+creations-chat 2021-03-02 08:04:44 it looks like a good looking gun
+creations-chat 2021-03-02 16:04:33 thoughts so far?
+creations-chat 2021-03-02 16:09:52 BF-110
+creations-chat 2021-03-02 17:29:55 how it look so far now?
+creations-chat 2021-03-02 17:32:29 not yet
+creations-chat 2021-03-02 17:42:43 
+creations-chat 2021-03-02 17:44:49 motorlock
+creations-chat 2021-03-02 17:56:34 it has the
+creations-chat 2021-03-02 18:19:23 I made a Do 17Z instead.
+creations-chat 2021-03-02 18:21:25 How does the Bf-110 look now?
+creations-chat 2021-03-02 18:24:32 I'm tired with working with angled motorlock because of stupid spawn campers.
+creations-chat 2021-03-02 18:28:09 because tnt blocks
+bug-reports 2021-03-02 18:29:07 invisible block moment
+creations-chat 2021-03-02 18:30:19 Turn a vtol into a plane, then the plane into a rocket, then the rocket into a tank, then the tank into a ship. Makes sense.
+creations-chat 2021-03-02 18:32:21 And then add wheels/tracks and call it a tank/rover.
+creations-chat 2021-03-02 18:37:15 Just make a multipurpose vehicle and remove certain modifications so it fits a specific agenda of class (ie remove rockets and jets and wings and water props and only leave components necessary for ground vehicles and submit it as a ground vehicle, then do the same for all other classes).
+bug-reports 2021-03-02 18:38:23 i've had it happen before
+bug-reports 2021-03-02 18:38:33 similar thing with magnets
+bug-reports 2021-03-02 18:38:37 weird hitboxes
+bug-reports 2021-03-02 20:29:20 hitboxes are dumb in general
+the-dump 2021-03-03 07:00:10 https://streamable.com/1eslpw
+the-dump 2021-03-03 17:51:06 the
+bug-reports 2021-03-03 18:06:54 heli
+bug-reports 2021-03-03 18:07:28 how to make throttleable custom propeller
+bug-reports 2021-03-03 18:07:47 just connect blades to a preexisting prop
+bug-reports 2021-03-03 18:08:51 torque of 1
+bug-reports 2021-03-03 18:09:00 no, torque of .1
+creations-chat 2021-03-04 00:23:32 <@653059099533115423> I would suggest Mabry changing the block material of the dive flaps or maybe even making them slotted.
+creations-chat 2021-03-04 00:27:15 I would also suggest framing the canopy.
+creations-chat 2021-03-05 05:31:51 German Air Force in 1945.
+creations-chat 2021-03-05 15:13:09 bruh
+creations-chat 2021-03-05 15:15:35 https://discord.com/channels/384021699466756103/504436696021204992/817367883134795777
+Summarization of why people like flying toilet.
+creations-chat 2021-03-05 15:18:00 Okay here's an idea now that I made a simple flying toilet someone has to recreate the flying toilet as best as possible.
+creations-chat 2021-03-05 15:20:28 TKOR made the toilet. Flitetest flew it. And then someone made a Luftwaffe meme about it.
+creations-chat 2021-03-05 15:24:10 Funnily enough, the toilet can actually fly pretty stable and handles really well. Though, I would suggest not staying inverted for too long.
+creations-chat 2021-03-07 09:24:11 https://discord.com/channels/384021699466756103/384025409945337856/818039632612425758
+Where the fuck is the other rotor? It isn't a helicopter if it doesn't have paired rotors
+the-dump 2021-03-08 05:46:41 https://tenor.com/view/pennywise-cartoon-beatbox-battles-groot-verbalase-gif-18751032
+the-dump 2021-03-08 15:37:02 he has dementia
+the-dump 2021-03-08 15:45:35 I don't get it.
+the-dump 2021-03-08 15:48:57 Nope still don't get it.
+the-dump 2021-03-08 21:41:59 ok deleted
+creations-chat 2021-03-09 15:54:13 Check your keybinds and settings.
+creations-chat 2021-03-09 15:56:30 so you don't self destruct 4000m above your target
+the-dump 2021-03-09 16:55:17 fucl
+the-dump 2021-03-13 01:57:13 Ask the tycoon creators, because every single one of them knows while nobody else does.
+the-dump 2021-03-14 08:54:23 https://cdn.discordapp.com/attachments/608836393245868052/820553031648280596/video0.mp4
+creations-chat 2021-03-18 14:30:31 https://discord.com/channels/384021699466756103/384025409945337856/822097636437262386
+The thing that can't land even with a nose wheel.
+creations-chat 2021-03-18 16:34:20 custom jet engine bent tail
+creations-chat 2021-03-18 16:41:09 The tutorial B-17 doesn't even have an underside turret. Sure early B-17Es didn't have a ball turret but they did have a remote controlled underbelly turret which after a few hundred B-17Es were produced was replaced by a ball turret.
+creations-chat 2021-03-18 16:44:10 I think even the prototype of the B-17 had some kind of underside gunner position, and it wasn't until the B-17E that the tail gunner position existed.
+the-dump 2021-03-19 00:36:51 
+the-dump 2021-03-19 00:37:36 And that kids, is why you wear a helmet.
+the-dump 2021-03-21 03:41:08 Empty trash can
+the-dump 2021-03-21 03:45:15 If Canadians run out of space in their pocket for trash they personally put it in the garbage truck
+creations-chat 2021-03-26 20:59:18 https://discord.com/channels/384021699466756103/384025409945337856/825093952079134800
+dababy racing
+the-dump 2021-03-30 07:34:25 Jets when a shredder appears
+creations-chat 2021-03-31 19:01:21 Ok make a B-17F with a better one.
+creations-chat 2021-04-05 05:53:10 When making large motorlocked planes I usually put most of the motorlock in an empty space in the tail, which also means in pvp the tail cutting loose really destroys the plane outright.
+help 2021-04-08 14:30:28 rope
+help 2021-04-08 14:30:42 rope to limit the length of the suspension
+creations-chat 2021-04-12 01:46:26 decided to resume work on the p-51d, thoughts so far?
+the-dump 2021-04-24 14:09:21 But it is canadian
+the-dump 2021-04-24 14:09:31 That's how Canada do be do tho
+the-dump 2021-04-27 14:19:01 Ok will delete
+the-dump 2021-04-27 14:19:08 Wait
+creations-chat 2021-04-28 14:08:57 Well it is a box
+creations-chat 2021-04-28 19:35:05 using motorlock to create an inline engine
+help 2021-04-28 19:47:49 PBJ
+help 2021-04-28 19:48:04 With a 75mm T13E1
+help 2021-04-29 03:33:37 Okay so for aircraft if you make something like a multiple engine bomber that has separate engine control would it be disqualified for a rank?
+help 2021-04-29 03:33:56 Like if you can individually power each propeller engine.
+help 2021-04-29 03:34:28 I mean would it be disqualified.
+help 2021-04-29 03:35:24 Separate engine control changes the yaw effect of the plane.
+help 2021-04-29 03:35:29 That's the concern.
+help 2021-04-29 03:35:50 Because if you unpowered the left engine the plane will yaw left.
+help 2021-04-29 03:36:03 And vise versa
+help 2021-04-29 03:36:22 But the plane isn't supposed to use thrust to create yaw.
+help 2021-04-29 03:38:08 I mean the only real uses of separate engine control is taxing on the ground when making a tight turn on the runway or in a combat scenario where you need to shut down an engine to stop adverse yaw.
+help 2021-04-30 14:21:34 If I made a vehicle that used wheels/sprockets to drive actual caterpillar track would it be disqualified from land vehicle rank?
+help 2021-04-30 14:22:15 The wheels dont actually come in contact with th aground but they drive a track that does.
+creations-chat 2021-05-02 02:42:23 thoughts so far?
+creations-chat 2021-05-02 16:08:24 Working on an Easy Eight.
+help 2021-05-02 16:37:27 why isnt my piston lock working?
+creations-chat 2021-05-02 17:37:07 Added the inch thick armor plate, thoughts?
+creations-chat 2021-05-02 19:08:27 There is an "interior" to my Easy Eight Sherman but it's not worth showing at all.
+
+By "interior" I mean there is barely enough space to get to all the crew positions.
+creations-chat 2021-05-02 23:03:13 aren't you supposed to give the bomb backspin?
+the-dump 2021-05-04 17:32:10 
+creations-chat 2021-05-04 20:55:50 A bouncing bomb is supposed to have backspin. Any tests on trying that?
+creations-chat 2021-05-07 21:32:15 Now with **widetrack** horizontal volute spring suspension.
+the-dump 2021-05-08 05:21:19 https://m.youtube.com/watch?v=DWYqu1Il9Ps&feature=share
+creations-chat 2021-05-08 15:02:49 Hermann Goering's glorious luftwaffe.
+the-dump 2021-05-10 00:52:08 Oh shit
+the-dump 2021-05-10 02:16:08 But then other times they have like 0 hp
+the-dump 2021-05-10 02:17:32 A lvl 0 crew can be killed by a 30 cal from 2km.
+the-dump 2021-05-10 02:17:53 An ace crew can survive 2 50 cals to the head.
+the-dump 2021-05-10 02:18:17 Yes
+the-dump 2021-05-10 02:18:59 And I've shot down a plane using a T55E1 from well over 2.5km
+the-dump 2021-05-10 02:19:53 An expert crew can take a 50 cal and then some
+the-dump 2021-05-10 02:20:06 An aced crew can survive a 20mm
+the-dump 2021-05-10 02:20:26 You can own a grenade launcher.
+the-dump 2021-05-10 02:22:40 You know you can throw things right?
+the-dump 2021-05-10 02:23:26 I swear Britain is gonna ban fucking sticks and there will be people stabbing each other to death with tree branches.
+help 2021-05-15 08:09:45 combining the two would be the best idea but that would require more work
+creations-chat 2021-05-16 05:59:07 You should try making the engine housings more rounded and coloring the propeller shafts a more grayscaled tone
+Also a good idea would be to add cylinders for the radial engines.
+creations-chat 2021-05-17 03:56:59 why does the deck have a raised bow?
+the-dump 2021-05-18 12:52:30 Okay.
+help 2021-05-18 13:07:30 How
+help 2021-05-18 13:07:36 Fake
+the-dump 2021-05-19 05:00:07 
+help 2021-05-20 13:07:43 Use text blocks
+help 2021-05-20 18:27:51 put it in sideways
+help 2021-05-20 20:29:29 
+creations-chat 2021-05-22 01:09:33 What is it
+the-dump 2021-05-26 05:01:42 https://images-ext-2.discordapp.net/external/XdQqcrx3ikQ4d-LED8KoA_MP8TH58D7SOt3XBomoGu0/https/media.discordapp.net/attachments/495286269459300364/846961109771878410/image0.gif
+help 2021-05-31 01:32:38 You can use motorlock tower to push the tail motors into a single block space
+bug-reports 2021-06-02 23:46:18 https://streamable.com/2ywwhy
+Sometimes when the player model goes through the turbine they get separated and you can still control vehicles in this weird state
+bug-reports 2021-06-02 23:47:19 if you reset your camera moves back to wherever the hell your player model actually is
+bug-reports 2021-06-03 01:40:41 i didnt realize the controlability part though
+the-dump 2021-06-06 08:15:29 Buffalo buffalo Buffalo buffalo buffalo buffalo Buffalo buffalo.
+the-dump 2021-06-06 08:16:01 The sentence above is a grammatically correct sentence.
+creations-chat 2021-06-11 05:20:59 If you need a caterpillar track with good speed, torque, and traction, it's probably best to use a motorlocked design with a toothed drive sprocket and fabric for increased grip.
+creations-chat 2021-06-13 06:47:38 m18 wip
+the-dump 2021-06-18 14:17:41 2 sides of a coin.
+creations-chat 2021-06-25 04:57:53 
+creations-chat 2021-06-25 05:05:50 ill need to slightly modify the muzzle brake
+creations-chat 2021-06-28 16:11:57 Tank!
+the-dump 2021-06-28 16:19:38 
+the-dump 2021-06-28 16:20:59 Bomber when changing heading by 5 degrees
+the-dump 2021-07-02 23:59:43 
+creations-chat 2021-07-14 16:31:32 how this
+creations-chat 2021-07-14 16:41:23 for which part?
+creations-chat 2021-07-17 17:59:36 thoughts?
+the-dump 2021-08-11 14:57:53 That looks like something out of minecraft build battle or some shit
+creations-chat 2021-09-04 19:20:13 thoughts?
+creations-chat 2021-09-04 19:38:38 simplicity, i might cover them later, and if i want to i can add tracks but those significantly slow down the tank
+creations-chat 2021-09-05 21:20:59 ok, <@!458012038594166795> tracks = 0 fps slideshow also i cant really think of a decent track design that wont be too thick
+creations-chat 2021-09-05 21:24:19 at least my tonk works
+creations-chat 2021-09-05 21:34:16 lol vomit jet thing
+creations-chat 2021-09-06 03:52:45 Destruction
+creations-chat 2021-09-08 04:50:05 c r a n e
+creations-chat 2021-09-08 04:55:25 majoras mask
+creations-chat 2021-09-08 17:41:45 I like how more people like the build mode Toyota Corolla than the locked version.
+creations-chat 2021-09-09 05:41:15 I think those are supposed to be the jerricho trumpets but they're so large and weirdly shaped and mounted
+the-dump 2021-09-11 02:48:01 Reddit moment
+creations-chat 2021-09-12 04:14:28 dont use 10 graphics use 9
+creations-chat 2021-09-12 04:16:34 lol but still 10 graphics just look bad because the shadow properties are ass 9 graphics actually look more realistic and better
+creations-chat 2021-09-18 05:40:30 
+creations-chat 2021-09-26 22:25:02 How's this for my M4A3E8 redesign so far?
+help 2021-10-07 20:14:21 I forgot
+help 2021-10-07 20:14:53 Do tracked vehicles qualify for terrain specialist if the tracks are powered by wheels?
+help 2021-10-07 20:19:22 And is tnt lock allowed?
+creations-chat 2021-10-09 01:03:22 https://discord.com/channels/384021699466756103/384025409945337856/896196004708249600
+<@!545785816127897611> P-51C with invasion stripes?
+the-dump 2021-10-24 02:17:50 Insects be like
+the-dump 2021-10-31 05:30:26 jagdmaus
+the-dump 2021-11-01 19:15:32 Bru
+the-dump 2021-11-12 15:28:28 Cancer or furry
+the-dump 2021-11-12 15:28:35 Both are bad
+creations-chat 2021-11-27 05:55:28 came up with something to make
+creations-chat 2021-11-27 05:58:56 basically
+creations-chat 2021-11-28 00:19:13 more work
+creations-chat 2021-11-28 08:08:30 
+creations-chat 2021-11-28 23:18:10 um a um periscope
+help 2021-11-30 14:52:48 if you want realistic steering with a rudder and steerable water props
+help 2021-11-30 14:53:43 And I believe anything can be used as a rudder for water
+help 2021-11-30 14:54:00 As long as it's a block that will interact with the water
+help 2021-11-30 14:54:11 Yes
+help 2021-11-30 14:54:27 Because they have the added effect of air
+help 2021-11-30 14:55:02 But your ship will be very slow if a good amount of it is below the waterline
+help 2021-11-30 14:55:37 It should naturally do that?
+help 2021-11-30 14:55:43 Well
+help 2021-11-30 14:55:52 Roblox Physics engines
+help 2021-11-30 14:56:22 You could try using propellers designed in a way to tilt the ship they way you want it to
+creations-chat 2021-11-30 14:57:48 Hmm would a half cylinder work for a 5 inch gun mantlet?
+creations-chat 2021-12-22 18:13:30 i began making hull
+creations-chat 2021-12-22 18:22:06 it is nowhere near complete, and i have yet to add decorations to the hull so
+creations-chat 2021-12-22 19:25:26 better? i will add the rear segment of the hull and tracks later
+creations-chat 2021-12-22 19:29:49 for what? its just a wip, is it too wide?
+creations-chat 2021-12-22 20:39:15 more power
+creations-chat 2021-12-22 23:25:10 So I got bored and decided to make a tank gun.
+creations-chat 2021-12-22 23:28:29 First I got to think of a turret. Kind of thinking Pershing turret.
+creations-chat 2021-12-22 23:32:32 The only notable thing about the tank gun I made is that it can recoil.
+creations-chat 2021-12-22 23:45:16 Not yet
+help 2021-12-23 23:40:15 you can fins
+creations-chat 2021-12-25 02:39:33 Is this good for a player-sized medium tank turret?
+creations-chat 2021-12-25 02:43:39 The turret is lopsided to accommodate the 3 crew members.
+creations-chat 2021-12-25 02:45:42 alternative lopsided turret design
+creations-chat 2021-12-25 02:57:44 I made it not lopsided and added hatches and radio antennae. Better?
+creations-chat 2021-12-25 03:01:02 no more like late interwar/early ww2
+creations-chat 2021-12-25 03:03:22 And that's what the extension thing is supposed to cover, because I cannot push the gun back half a block without removing the commander and completely redesigning the positions of the gunner and loader
+creations-chat 2021-12-25 03:12:54 okay, this better? the weird protrusion in front of the gunner hatch is required for the redesign to work, you can take with that what you want
+creations-chat 2021-12-25 03:25:11 periscopes too? now does it look like a proper tank turret?
+creations-chat 2021-12-25 03:29:04 which hole
+creations-chat 2021-12-25 03:39:10 well this is the best i can do without having a elevation of 0 degrees and i also added a crude turret basket
+creations-chat 2021-12-25 03:42:45 none of the crew actually sit in the basket
+creations-chat 2021-12-25 03:46:37 in fact because of that fact that all the crew fit outside the basket i have made the turret basket the ammo rack
+creations-chat 2021-12-25 03:51:17 carousel ammo rack like the valentine tank except it's an even smaller rack because the turret is large enough to house the entire crew, therefor there is no need for a wide basket and i can fit the turret on a narrower tank
+creations-chat 2021-12-25 03:56:36 does the gun elevate though?
+creations-chat 2021-12-25 04:01:07 Guys I built an F-15
+creations-chat 2021-12-25 22:10:32 progress
+creations-chat 2021-12-26 22:56:32 hull and turret complete, time to add tracks or something
+creations-chat 2021-12-27 02:23:57 hull without the tracks, the tracks will be wide and the hull will extend over tracks once they are built
+creations-chat 2021-12-28 06:44:19 I finally made a recoiling tank cannon with a coaxial machine gun and gunsight that can be mounted in a medium tank, I believe.
+creations-chat 2021-12-28 07:16:02 and this time the crew will be partially inside the turret basket instead of on top of it
+creations-chat 2021-12-28 07:20:16 my behemoth tog3-like tank had 3 of the 4 turret crew sitting inside the turret above the basket because the tank is very large, the medium/heavy tank i was previously making had all 3 crew sitting above the basket which was instead used as an ammo rack, so in a way yes this is the first time i made a tank turret with all the crew sitting inside the actual turret basket
+help 2021-12-28 07:26:21 figure out how to make a gyroscopic and/or mechanical stabilizer
+help 2021-12-28 07:32:49 vertical gun stabilization
+help 2021-12-28 07:33:35 well
+help 2021-12-28 07:33:41 in a way it would serve as both
+help 2021-12-28 07:34:55 see, what if you want the gun to not be driven by a speed 50 motor 2
+help 2021-12-28 07:35:34 nah
+help 2021-12-28 07:36:05 elevation speed of a speed 1 motor but it has perfect stabilization
+help 2021-12-28 07:36:34 even speed 50 motor is not stabilized
+help 2021-12-28 07:37:35 there is definitely a way to make a reaction based stabilizer
+help 2021-12-28 07:38:33 i made my anti tank gun self propelled
+help 2021-12-28 07:39:18 originally meant to be a tank gun but way too large, so just put the whole mounting with sight and coax gun on 2 wheel gun chassis
+help 2021-12-28 07:40:04 see, by putting a machine gun on the anti tank gun you can both take out tanks and infantry at the same time
+help 2021-12-28 07:40:59 
+creations-chat 2021-12-28 08:29:20 i just did
+the-dump 2021-12-28 09:00:44 
+creations-chat 2021-12-28 19:44:34 progress with probably one of the more weird designs for a mantlet
+creations-chat 2021-12-28 19:47:24 alternative mantlet, is this one better?
+creations-chat 2021-12-28 19:50:04 or how about this mantlet? all three allow for +/- 22.5 degrees of elevation
+creations-chat 2021-12-28 20:14:45 turret is now complete using the 3rd mantlet design
+creations-chat 2021-12-28 20:33:45 not really a pershing turret, it's a custom tank turret
+creations-chat 2021-12-28 20:55:45 now with 20 shells in the basket, <@!527092191189925918>  no it is not a kv 1 it is just a random custom tank i made
+creations-chat 2021-12-29 05:15:52 work on hull
+creations-chat 2021-12-29 05:18:59 the forward sponsons will carry ammo, the rear sponsons will have fuel tanks
+creations-chat 2021-12-29 05:22:24 a sponson is a protrusion from the hull, for example the part of a hull overextending the tracks, or an extension to mount a gun such as on the mark1-5 series and m3 lee, it can also apply to ships such as a torpedo bulge or side gun, on planes it's an additional short wing
+creations-chat 2021-12-29 06:32:21 added fuel tanks and more interior paint, oh and when i finish the hull i'm going to make a crane to put the turret onto the hull like i did with my tog3 thing
+creations-chat 2021-12-29 06:56:16 like this
+creations-chat 2021-12-29 07:08:36 which is yes the tank i made with that can do this
+creations-chat 2021-12-29 07:38:52 narrow tracks that are extremely long allow it to cross narrow flat bridges without the over 100 tons of steel causing the bridge to collapse (for reference my pt boat at the same scale is smaller and shorter)
+creations-chat 2021-12-29 07:40:55 even better i can actually modify the hull to have an aircraft carrier deck <:trollface:775024642104229898>
+creations-chat 2021-12-29 07:44:54 if you want to use it as a super heavy infantry support tank you can, if you want to use it as an aircraft carrier or bridge you can, if you want to put an fv4005 turret on it you can (fun fact the fv4005 turret doesn't have a turret basket because of the height)
+creations-chat 2021-12-29 07:47:59 people crying when they see exposed motors on the wings and tail to allow for functional controls surfaces well my tfb avenger does have working ailerons and flaps and i managed to hide the motors responsible for those in the fuselage but as you can see in order to do that you need control cables
+creations-chat 2021-12-29 07:52:55 marked the control cable and aileron said conrol cable, this is why people just use an exposed motor
+creations-chat 2021-12-29 07:56:38 oh yeah, and btw 9 graphics may look visually better than 10 graphics
+creations-chat 2021-12-29 07:59:42 nope, radar is more round and usually mounted in a more exposed area like on top of the vehicle or in the direction of attention like the nose of a plane
+creations-chat 2021-12-29 08:04:18 mustang with airbrakes (btw does anyone actually put airbrakes on aircraft that would use them) 
+
+<@!718409831639154718> not sure anymore
+creations-chat 2021-12-29 08:08:32 the screenshot was taken literally a year ago
+help 2021-12-29 08:23:58 heavy ballast along the keel of the ship (bottom centerline), use helium on the sides of the hull above the waterline
+creations-chat 2021-12-29 11:29:38 i made it so it is possible for the turret crew to move from one seat to another without opening the hatches (though the commander has a little trouble trying to get down into either the loader's or gunner's seat), as well as possible to move inside and outside the turret through the turret basket
+creations-chat 2021-12-29 19:38:58 should the tracks be 1, 1.5, or 2 blocks wide?
+creations-chat 2021-12-29 19:44:31 I am not going to do any piston locking
+the-dump 2022-01-02 04:53:40 oh no
+creations-chat 2022-01-14 03:42:34 another tank gun but this time i added a breech guard
+the-dump 2022-01-16 01:39:02 1:12 💀
+creations-chat 2022-01-20 16:06:02 added stuff to the turret ring
+creations-chat 2022-01-20 16:17:09 https://streamable.com/5dahkv
+it still uses an elliptical gear to traverse but i didn't bother making a realistic elevation mechanism because no space
+creations-chat 2022-01-20 16:23:51 custom
+creations-chat 2022-01-21 13:55:54 gun breech complete
+creations-chat 2022-02-02 14:20:19 Glass cannon
+creations-chat 2022-02-03 02:46:18 does this look decent for a tank gun mantlet? like does it look like it does the job of concealing the interior of the turret as best as possible?
+creations-chat 2022-03-05 16:39:11 https://discord.com/channels/384021699466756103/384025409945337856/949264548110696458
+ah neat a scorpion
+bot-central 2022-03-06 16:03:51 -servers
+creations-chat 2022-03-13 03:48:14 https://discord.com/channels/384021699466756103/384025409945337856/952286672022798432
+<@!694804483427008592> does it have interior?
+bot-central 2022-03-18 03:24:43 -servers
+creations-chat 2022-03-19 16:37:52 how's this for a start to making a submarine?
+creations-chat 2022-03-19 21:48:30 does this look alright for ballast tanks?
+creations-chat 2022-03-29 23:12:08 thoughts?
+contest-chat 2022-03-30 23:47:52 Just a thought, does making a naval dual-purpose turret and mounting it on a tank count?
+contest-chat 2022-03-31 00:21:08 put a 5 inch 38 on a tank
+contest-chat 2022-03-31 00:21:16 or better
+contest-chat 2022-03-31 00:21:32 iowa 16 inch guns on high angle mount?
+contest-chat 2022-03-31 00:21:46 but on a small ww2 tank
+contest-chat 2022-03-31 01:59:45 But a dual-purpose gun would work?
+contest-chat 2022-03-31 01:59:56 It is designed for both anti ship and aa.
+contest-chat 2022-03-31 02:00:18 Take, a 5"/25, 5"/38, etc.
+contest-chat 2022-03-31 02:01:05 lol
+contest-chat 2022-03-31 02:01:11 what if it's a joke
+bot-central 2022-03-31 14:48:08 -servers
+events-chat 2022-03-31 14:49:38 guns fire underwater
+events-chat 2022-04-01 03:00:39 figuring out how to make sonar
+creations-chat 2022-04-10 15:24:16 how's this for exterior
+creations-chat 2022-04-11 06:57:38 <@539537860215439360> a neat idea would be modifying the clamshell bomb bay doors into a rotating door as per the American variant of the Canberra.
+events-chat 2022-04-15 05:32:11 So is there a length limit on submarines?
+events-chat 2022-04-15 13:25:58 Which is?
+events-chat 2022-04-15 13:26:53 So no box folding?
+events-chat 2022-04-17 05:40:15 Wait
+events-chat 2022-04-17 05:40:32 Are motor2s banned?
+events-chat 2022-04-17 06:39:34 So motor 2 hull based torpedo tubes are also banned?
+events-chat 2022-04-17 06:41:56 But I could say make a deck gun with manual aiming or manually pivoting torpedo tubes?
+bot-central 2022-04-17 15:14:42 -servers
+bot-central 2022-05-01 18:03:50 -servers
+creations-chat 2022-05-13 04:35:07 Just turn it into an inland fort emplacement <:trollface:775024642104229898>
+creations-chat 2022-05-17 13:40:53 Wait doesn't measure 21 camo cover the entire ship, including the superstructure?
+the-dump 2022-06-21 03:48:21 https://cdn.discordapp.com/attachments/439519668819066880/987492388517871626/IMG_8364.mp4
+the-dump 2022-06-23 23:30:41 Is NASA going?
+the-dump 2022-06-26 06:41:34 
+the-dump 2022-07-07 05:15:23 I can't even begin
+the-dump 2022-07-07 23:55:10 https://cdn.discordapp.com/attachments/934062419733536768/993894520167084124/trim.3227FE1D-ECD0-4904-952B-425EDA56912C-1.mov
+the-dump 2022-07-18 02:20:05 
+creations-chat 2022-09-24 02:22:33 Use black or a dark color for the muzzles, and maybe doors on the back of/behind the sponsons?
+creations-chat 2022-09-25 01:24:40 Thoughts so far? Just need to add a few more details
+creations-chat 2022-09-25 15:04:06 https://discord.com/channels/384021699466756103/384025409945337856/1023476009267380234
+Suggestions for improvement?
+creations-chat 2022-09-25 15:17:08 *Like?*
+creations-chat 2022-09-25 15:22:15 I didn't use angle lock on the armor plate and there will be incorrect proportions due to the nature of it trying to cram enough space to fit 4 people inside while the commander can just poke his head out the top, but I can consider other detailing
+
+<@884290997129998408> It does have exhaust (split into 2 trails on either side right adjacent to the tracks) but I'll consider adding those other things to it
+creations-chat 2022-09-25 15:30:02 Should I use sparklers for headlights?
+creations-chat 2022-09-25 15:40:11 Do these work for headlights?
+creations-chat 2022-09-25 15:43:03 There really isn't any room to move the turret forward unfortunately without basically scrapping the entire design and rebuilding from scratch
+creations-chat 2022-09-25 15:49:39 Sherman doesn't have a shell ejector but it does have a pistol port which I did add but need to change rotation
+creations-chat 2022-09-25 16:07:39 Suggested colors for livery for my Sherman it's already green but apparently that's not enough
+creations-chat 2022-09-25 16:46:52 Okay I've added headlights and some more detailing but I don't now how to make this traveling lock and still don't know a good paint scheme to use
+the-dump 2022-09-25 17:27:27 wait wrong channel
+bot-central 2022-09-25 17:27:35 -servers
+the-dump 2022-09-25 17:29:11 https://tenor.com/view/old-bomb-bonk-head-on-collision-missile-gif-17494665
+creations-chat 2022-09-26 05:02:41 How's this?
+bot-central 2022-10-06 13:47:40 -servers
+creations-chat 2022-10-09 15:55:15 Apparently people like it with less detail and this cursed as fuck deck?
+creations-chat 2022-10-09 16:05:49 Cupola is wide enough to fit player and machine gun is big so it's functional
+creations-chat 2022-10-09 16:10:28 Ok so do you want me to revert my sherman back to cursed deck?
+creations-chat 2022-10-09 16:25:41 How do I improve my Sherman or have I attempted to make a half-decent one too many times now?
+creations-chat 2022-10-11 06:04:06 How's this now?
+creations-chat 2022-10-11 06:08:05 Now what if I convert it to this?
+creations-chat 2022-10-11 06:12:21 Also is it just me or is the Pershing turret noticeably taller than the Sherman turret?
+creations-chat 2022-10-11 06:32:05 Is this an appropriate scale for the Pershing turret or should I lower the height of it by half a block?
+creations-chat 2022-10-12 08:08:21 Suggestions on how to improve the mantlet?
+creations-chat 2022-10-13 07:21:44 Thoughts?
+creations-chat 2022-10-13 15:15:39 Should I add a large spotlight on this like I did my sherman or should I just leave it at a 50 cal, periscopes, and the radio antennae on the roof?
+creations-chat 2022-10-13 15:20:24 The canopy
+creations-chat 2022-10-13 19:44:53 What do you mean too big it's an M4A3 (90) Sherman
+creations-chat 2022-10-13 19:51:40 Tnt doesn't work anymore for some reason
+creations-chat 2022-10-13 19:58:51 At least for me
+creations-chat 2022-10-14 05:48:21 I should also probably note that this is what the interior of the turret looks like, the interior of the hull is no different but the turret is slightly less cramped than the Sherman turret
+creations-chat 2022-10-14 06:12:44 https://gyazo.com/3aaf00a040bad496340cdbcda40df017
+If only
+creations-chat 2022-10-14 06:19:09 ★
+bot-central 2022-10-15 23:03:38 -servers
+bot-central 2022-10-16 00:24:31 !rank
+bot-central 2022-10-22 04:56:09 -servers
+creations-chat 2022-11-22 14:18:29 quick turret i made wondering if i should develop into a tank
+creations-chat 2022-12-03 20:18:57 https://discord.com/channels/384021699466756103/384025409945337856/1048623019590946846
+I recommend using a smoke/snow pipe for the sponsons and then modifying the hull very slightly so the pipe only welds to the motor and gun
+<@684812219040792628>
+contest-chat 2022-12-03 23:14:07 What's the next contest theme
+contest-chat 2022-12-03 23:14:21 Christmas theme?
+contest-chat 2022-12-03 23:14:30 Or is there gonna be another before?
+creations-chat 2022-12-03 23:24:00 If the scale is 1 block = 1 meter, the scale is roughly 1:1.4 because 1 block in the game is roughly equal to 0.7~.77 meters
+creations-chat 2022-12-04 20:50:38 <@693481603120365659> 
+https://discord.com/channels/384021699466756103/384025409945337856/1048768314219962469
+I recommend using springs that have weld break disabled and autoretract enabled for simple small scale recoiling guns. You can conceal the spring through a variety of ways and use text blocks to connect the free end of the spring to the barrel, and even armor the rocket/firework. There just needs to be internal space for the mechanism
+creations-chat 2022-12-04 20:54:33 Well you see, put a big cannon on it
+bot-central 2022-12-22 02:13:53 -servers
+the-dump 2022-12-28 19:29:16 -servers
+the-dump 2022-12-28 19:29:22 wait fuck me again
+bot-central 2022-12-28 19:29:32 -servers
+bot-central 2023-01-09 07:52:02 -servers
+the-dump 2023-03-19 09:40:37 
+the-dump 2023-03-31 13:58:40 
+bot-central 2023-05-15 06:11:56 -servers

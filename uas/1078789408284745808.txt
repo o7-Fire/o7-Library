@@ -1,0 +1,40 @@
+The Tale of crvddy (1078789408284745808)
+help 2023-06-26 20:59:40 how do you get a rocket to yaw and pitch? i've tried it with mine using propellers  (im not experienced with rockets) and when i tried to pitch it more of an angle on its x axis, it just reverted back to its original position and swayed slightly
+creations-chat 2023-06-26 21:26:47 tan
+help 2023-06-26 21:36:37 no, rocket as in rocket ship
+creations-chat 2023-06-26 22:10:33 i made a propulsive landing system (first time, yay)
+bot-central 2023-06-26 22:14:33 !rank
+help 2023-06-27 14:29:33 its a d note, in bass clef (i absolutely hate smart asses)
+help 2023-06-28 12:22:31 how do i get rid of this flat surface and make it pointy? (im at build height)
+help 2023-06-28 12:24:29 add more rocket engines
+creations-chat 2023-06-28 13:19:55 bomb
+creations-chat 2023-06-28 13:23:00 first rocket ship
+yaya
+(Artemis I, yes i know the hover thrusters look stupid but its the only way i could get it to actually perform a propulsive landing without parachutes or anchors)
+(also i'd like a some feedback, thanks)
+creations-chat 2023-06-28 13:25:05 too large for that tip there (it hits build limit, and idk how to fold), but i can try and fix that
+(and make it align)
+creations-chat 2023-06-28 13:27:15 connector? whats that
+(idk how to build things to look good, sorry, any way i could improve?)
+help 2023-06-28 13:34:18 add helium blocks
+creations-chat 2023-06-28 13:50:18 any better? (best i could do at my skill level)
+creations-chat 2023-06-28 14:04:24 fixed the colour pallete and made the top white
+bot-central 2023-06-28 14:06:37 /rank
+bot-central 2023-06-28 14:06:40 !rank
+creations-chat 2023-06-28 14:54:39 w.i.p delta II, anything i could improve?
+(haven't added the interstages yet)
+creations-chat 2023-06-28 14:56:56 build height, and idk how to fold and its very confusing (even if i tried to learn, in which i did try)
+creations-chat 2023-06-28 15:22:33 why does this happen?
+when i disconnect at the interstage and the 1st stage just rams through and into the 2nd stage
+creations-chat 2023-06-28 15:34:14 fixed it, made the reverse thruster to originally help with this on/off mode only, which allowed it to immediately disconnect
+creations-chat 2023-06-28 16:18:27 yeah, just figured that out
+(i made all the thrusters decrease button the button for 2nd stage deploy, so that the stage 1 thrusters atleast slow down so it doesnt ram into it)
+creations-chat 2023-06-28 17:26:59 just make a mouse tracking rotation system with motor 2s
+boom, done
+creations-chat 2023-06-28 17:29:24 motor lock it all into one block
+the-dump 2023-07-02 10:38:16 😭
+the-dump 2023-07-02 10:48:11 😳
+the-dump 2023-07-02 10:48:16 you dont wanna know man
+the-dump 2023-07-02 10:48:27 NO
+the-dump 2023-07-02 10:48:29 YOU DONT
+the-dump 2023-07-02 11:10:51 

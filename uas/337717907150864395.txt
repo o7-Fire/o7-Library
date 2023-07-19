@@ -1,0 +1,3001 @@
+The Tale of ussbuckdd420 (337717907150864395)
+bug-reports 2020-11-26 18:46:17 Motors sometimes fling off my build and slowly come back to it. This includes whatever was attached to the motor. It's not an often issue but it is an issue none the less.
+bug-reports 2020-11-26 19:25:17 Nah it's not motorlocked. Just servo toggle type 2 motors folding things.
+bug-reports 2020-11-29 02:16:19 Ok so
+bug-reports 2020-11-29 02:16:53 I was using mobile to try and get some good screenies of my spitfire and I noticed not all the control buttons showed up on screen
+bug-reports 2020-11-29 02:17:14 The only buttons that showed up were the ones for the trap doors and the landing gears, nothing else
+bug-reports 2020-11-29 02:18:00 
+bug-reports 2020-11-29 02:18:15 Nothing except those 3. Edit : pinned messages say I need to include device type. Samsung J2 phone.
+bot-central 2020-11-29 02:48:22 /shelp
+bot-central 2020-11-29 02:48:33 /?shelp
+bot-central 2020-11-29 02:49:10 ?shelp
+bot-central 2020-11-29 02:49:29 ?rhelp
+bot-central 2020-11-29 02:50:02 Bruh
+bot-central 2020-11-29 02:50:27 We have to show a build to make a suggestion? Bruh
+creations-chat 2020-11-29 02:52:27 K
+creations-chat 2020-11-29 02:54:55 ... its literally flat how can it be smoother
+creations-chat 2020-11-29 02:58:04 Nice hull
+bot-central 2020-11-29 03:01:03 So. Am I in rank limbo now?
+the-dump 2020-11-29 03:17:47 Guys
+the-dump 2020-11-29 03:18:04 What command do I use to request a rank in a rank ticket chat?
+the-dump 2020-11-29 03:18:20 I did that already
+the-dump 2020-11-29 03:19:00 Ok is there a certain way I have to ask for the rank is what I'm asking
+the-dump 2020-11-29 03:19:07 I've already submitted the proof
+the-dump 2020-11-29 03:21:17 Now I wait
+the-dump 2020-11-29 03:21:46 Lol
+the-dump 2020-11-29 03:22:08 #saveticketlives
+the-dump 2020-11-29 03:23:12 So the bot just filters the ticket to an actual person is my guess
+the-dump 2020-11-29 03:23:16 Am I correct?
+the-dump 2020-11-29 03:23:48 America
+the-dump 2020-11-29 03:23:53 Born and raised
+the-dump 2020-11-29 03:24:05 Lol
+the-dump 2020-11-29 03:27:07 173 and 096 is already an X-k class end of the world event. 049 and 106 added is certain death
+the-dump 2020-11-29 03:27:22 *WHEEZE*
+the-dump 2020-11-29 03:27:26 That face xD
+bot-central 2020-11-29 04:13:03 ?whois
+bot-central 2020-11-29 04:13:47 ?rank
+bot-central 2020-11-29 04:13:51 Damn it
+bot-central 2020-11-29 04:14:39 =p Sink the Bismarck
+bot-central 2020-11-29 04:15:35 =play
+bot-central 2020-11-29 04:16:05 =p Sink the Bismarck
+bot-central 2020-11-29 04:16:17 .
+bot-central 2020-11-29 04:16:23 Not what I wanted but ok
+bot-central 2020-11-29 04:16:34 I wanted the song sink the Bismarck by johnny horton
+bot-central 2020-11-29 04:16:45 No
+bot-central 2020-11-29 04:16:49 Johnny horton
+bot-central 2020-11-29 04:17:01 The dog history musician
+bot-central 2020-11-29 04:17:04 .
+bot-central 2020-11-29 04:17:09 Damn you auto correct
+bot-central 2020-11-29 04:17:12 Og
+bot-central 2020-11-29 04:18:43 Can we cancel a play request?
+bot-central 2020-11-29 04:18:55 I didnt want what the bot found
+bot-central 2020-11-29 04:19:23 =remove 1
+bot-central 2020-11-29 04:19:27 K
+bot-central 2020-11-29 04:19:39 =search
+bot-central 2020-11-29 04:19:58 =search John Paul Jones by Johnny Horton
+bot-central 2020-11-29 04:20:11 1
+bot-central 2020-11-29 04:20:20 Yes here we go
+bot-central 2020-11-29 04:20:42 John Paul Jones, the ultimate Chad
+bot-central 2020-11-29 04:21:04 How long does this damn lullaby last
+bot-central 2020-11-29 04:21:34 Ah
+bot-central 2020-11-29 04:22:18 =search Sink the Bismarck by Johnny Horton
+bot-central 2020-11-29 04:22:25 1
+bot-central 2020-11-29 04:22:43 Damn you
+bot-central 2020-11-29 04:22:56 Back in my day we didnt have pink rock history songs
+bot-central 2020-11-29 04:23:00 .
+bot-central 2020-11-29 04:23:03 Punk
+bot-central 2020-11-29 04:23:39 Cant hear it
+bot-central 2020-11-29 04:23:55 =skip
+bot-central 2020-11-29 04:24:01 Ok I hear it now
+bot-central 2020-11-29 04:24:41 Heil Bismarck. The fastest battleship to ever sail the seas. With guns as big as steers and shells as big as trees.
+bot-central 2020-11-29 04:25:44 *WHEEZE*
+bot-central 2020-11-29 04:26:13 Not if I flood it with johnny horton first
+bot-central 2020-11-29 04:26:35 =search Battle of New Orleans by Johnny Horton
+bot-central 2020-11-29 04:26:42 1
+bot-central 2020-11-29 04:26:53 Johnny Horton time
+bot-central 2020-11-29 04:27:11 =search abe Lincoln was a tall tall man by johnny horton
+bot-central 2020-11-29 04:27:16 1
+bot-central 2020-11-29 04:27:22 ight
+bot-central 2020-11-29 04:28:27 We gotta find that german battleship that's making such a fuss. We gotta sink the bismarck cause the world depends on us!
+bot-central 2020-11-29 04:29:22 This ain't bad ngl
+bot-central 2020-11-29 04:29:26 Nice beat already
+bot-central 2020-11-29 04:29:56 *vibing*
+bot-central 2020-11-29 04:30:21 Better than sabaton bismarck that's for sure
+bot-central 2020-11-29 04:31:13 Lol
+bot-central 2020-11-29 04:31:49 =q
+bot-central 2020-11-29 04:32:05 ?av
+bot-central 2020-11-29 04:32:31 HERE WE GOED
+bot-central 2020-11-29 04:33:31 *vibing in johnny horton* eat your heart out sabaton
+bot-central 2020-11-29 04:33:40 This is the real historical musician
+bot-central 2020-11-29 04:34:16 The mic makes the quality of the song sound lesser than it actually is
+bot-central 2020-11-29 04:35:55 *vibing intensifies*
+bot-central 2020-11-29 04:37:49 *Dancing in Johnny Horton*
+bot-central 2020-11-29 04:39:31 =search abe lincoln is a tall tall man
+bot-central 2020-11-29 04:39:40 1
+bot-central 2020-11-29 04:40:52 8 bit?-
+bot-central 2020-11-29 04:40:57 Nope something else
+bot-central 2020-11-29 04:42:41 Its heart warming and sad to see so many country balls here in this disc
+bot-central 2020-11-29 04:42:48 RIP brain4breakfast
+bot-central 2020-11-29 04:44:08 Oof
+bot-central 2020-11-29 04:44:54 Here we go
+bot-central 2020-11-29 04:45:01 Abe lincoln is a tall tall man
+bot-central 2020-11-29 04:45:35 Oof that's unfortunate
+bot-central 2020-11-29 04:46:57 Big sad
+bot-central 2020-11-29 04:47:29 Ight any other suggestions?
+bot-central 2020-11-29 04:47:37 I'm all outa johnny horton
+bot-central 2020-11-29 04:48:14 =search mandalorian full intro
+bot-central 2020-11-29 04:48:20 1
+bot-central 2020-11-29 04:48:35 Star wars chill vibes
+bot-central 2020-11-29 04:49:05 =search duel of the fates
+bot-central 2020-11-29 04:49:15 1
+bot-central 2020-11-29 04:49:54 *let the vibe flow through you*
+bot-central 2020-11-29 04:50:39 <:Upvote:490311647492309004>
+bot-central 2020-11-29 04:51:17 Prepare for the CHORUS in the next song
+bot-central 2020-11-29 04:51:26 Prepare you headphone users
+bot-central 2020-11-29 04:51:47 .
+bot-central 2020-11-29 04:51:57 Wth is this
+bot-central 2020-11-29 04:52:09 =q
+bot-central 2020-11-29 04:52:20 Here we go
+bot-central 2020-11-29 04:52:57 =search mr blue sky
+bot-central 2020-11-29 04:53:14 1
+bot-central 2020-11-29 04:54:30 =q
+bot-central 2020-11-29 04:55:48 After this last song I have in the queue I'll take my leave
+bot-central 2020-11-29 04:57:08 *70s vibes*
+bot-central 2020-11-29 05:01:24 Farewell, my music days are done.
+bot-central 2020-11-29 05:29:16 ?whois
+bot-central 2020-11-29 05:38:39 ?whois
+bot-central 2020-11-29 05:38:45 Ayo!
+bot-central 2020-11-29 05:39:00 Ah another bites the dust
+bot-central 2020-11-29 05:39:13 Very nice choice
+bot-central 2020-11-29 05:40:25 =search dont stop me now
+bot-central 2020-11-29 05:40:33 Frack
+bug-reports 2020-11-29 13:19:28 <@611251614178869269> No did you not read my entire bug report? (Not tryna sound rude sorry if I did) normally the wasd, and the f button for my missile should be there too. But they aren't. Only those 3 buttons showed up and none of the others
+bug-reports 2020-11-29 13:40:13 No not yet. Mobile really isnt my primary device, pc is anyways but I dont got access to my pc atm.
+bot-central 2020-11-29 13:48:52 ?whois
+bot-central 2020-11-29 13:49:25 =shelp
+bot-central 2020-11-29 13:49:31 ?shelp
+bot-central 2020-11-29 13:49:44 $shelp
+bot-central 2020-11-29 14:19:50 Nice
+bot-central 2020-11-29 14:22:05 Epic
+bot-central 2020-11-29 14:22:18 <@652857275769421825> Shipwright 5?
+bot-central 2020-11-29 14:22:30 Damn may I see the ship that granted you that title?
+bot-central 2020-11-29 14:25:10 Epic
+bot-central 2020-11-29 15:04:12 =search imperial Starfleet deployed
+bot-central 2020-11-29 15:04:36 =p
+bot-central 2020-11-29 15:05:01 =search john paul Jones by johnny horton
+bot-central 2020-11-29 15:05:32 =search john paul jones by johnny horton
+bot-central 2020-11-29 15:05:41 1
+bot-central 2020-11-29 15:05:59 Here we go!
+bot-central 2020-11-29 15:06:23 *Vibing in Johnny Horton*
+bot-central 2020-11-29 15:08:07 =search able lincoln was a tall tall man
+bot-central 2020-11-29 15:08:10 1
+bot-central 2020-11-29 15:08:35 <:trollface:775024642104229898>
+bot-central 2020-11-29 15:08:49 .
+bot-central 2020-11-29 15:08:56 =s
+bot-central 2020-11-29 15:09:00 Got em
+bot-central 2020-11-29 15:09:18 =search able Lincoln was a tall tall man
+bot-central 2020-11-29 15:09:19 1
+bot-central 2020-11-29 15:09:36 <:PewPew:532303441293344778>
+the-dump 2020-11-29 15:10:04 Reverse just tried to Rick roll me in tunes and failed
+the-dump 2020-11-29 15:10:27 <:PewPew:532303441293344778>
+the-dump 2020-11-29 15:10:48 None shall stop the vibing of Johnny Horton
+bot-central 2020-11-29 15:10:58 =s
+bot-central 2020-11-29 15:11:02 Got em
+bot-central 2020-11-29 15:11:19 Good
+bot-central 2020-11-29 15:11:46 =search Sink the Bismarck by Johnmy Horton
+bot-central 2020-11-29 15:11:53 1
+the-dump 2020-11-29 15:12:05 Failed again
+the-dump 2020-11-29 15:12:12 <@652857275769421825>
+bot-central 2020-11-29 15:13:14 Thow shant stop me now
+bot-central 2020-11-29 15:13:28 =search john paul jones by johnny horton
+bot-central 2020-11-29 15:13:31 1
+bug-reports 2020-11-29 15:14:40 Nah cause I joined off and got back on and the buttons werent there
+bot-central 2020-11-29 15:15:20 =search john paul jones
+bot-central 2020-11-29 15:15:28 1
+bot-central 2020-11-29 15:15:34 Damn it
+bot-central 2020-11-29 15:15:45 =search battle of new orleans
+bot-central 2020-11-29 15:15:52 1
+bot-central 2020-11-29 15:16:24 <:ElonCelebrate:589671476337311755>
+bot-central 2020-11-29 15:17:57 =search dont stop me now
+bot-central 2020-11-29 15:18:21 =search dont stop me now
+bot-central 2020-11-29 15:18:30 1
+bot-central 2020-11-29 17:27:05 =s
+bot-central 2020-11-29 17:27:33 =search John paul jones
+bot-central 2020-11-29 17:27:37 1
+bot-central 2020-11-29 17:27:57 =search Sink the Bismarck by Johnny Horton
+bot-central 2020-11-29 17:28:02 1
+bot-central 2020-11-29 17:28:09 It's over, enforcer
+bot-central 2020-11-29 17:28:13 I have the highground
+bot-central 2020-11-29 17:28:40 =s
+bot-central 2020-11-29 17:29:05 Yes
+bot-central 2020-11-29 17:29:29 You under estimate my power
+bot-central 2020-11-29 17:31:38 *John Paul Jones vibes*
+bot-central 2020-11-29 17:31:55 <:ElonCelebrate:589671476337311755>
+bot-central 2020-11-29 17:32:18 .
+bot-central 2020-11-29 17:32:30 I didnt ask for a loop!
+bot-central 2020-11-29 17:32:37 =s
+bot-central 2020-11-29 17:32:44 There we go
+bot-central 2020-11-29 17:38:49 =s
+the-dump 2020-11-29 18:13:24 M O O N C H E E S E
+the-dump 2020-11-29 18:13:55 https://tenor.com/view/cheese-wallace-and-gromit-gif-11822925
+the-dump 2020-11-29 18:14:27 https://tenor.com/view/cheese-wallace-and-gromit-claymation-stop-motion-gif-4496173
+the-dump 2020-11-29 18:14:47 It's a dump for a reason
+the-dump 2020-11-29 18:15:04 Ches
+the-dump 2020-11-29 18:15:06 .
+the-dump 2020-11-29 18:15:11 AH A ROUND MOTOR
+the-dump 2020-11-29 18:15:16 AHHHHH
+the-dump 2020-11-29 18:15:30 Hey where'd the music bot go
+the-dump 2020-11-29 18:15:40 Lol
+bot-central 2020-11-29 18:16:21 =search john paul jones
+bot-central 2020-11-29 18:16:31 1
+bot-central 2020-11-29 18:17:02 Get john Pauled on
+bot-central 2020-11-29 18:17:11 <:ElonCelebrate:589671476337311755>
+bot-central 2020-11-29 18:18:04 =loop
+bot-central 2020-11-29 18:18:20 =search never gonna give you up
+bot-central 2020-11-29 18:18:26 1
+bot-central 2020-11-29 18:19:40 =search never gonna give you up
+bot-central 2020-11-29 18:19:50 Damn yalk
+bot-central 2020-11-29 18:19:54 *yall
+bot-central 2020-11-29 18:20:06 ?bot
+bot-central 2020-11-29 18:21:05 =ge90 turbofan jet stream
+bot-central 2020-11-29 18:21:09 Frick
+bot-central 2020-11-29 18:21:58 ?whois
+the-dump 2020-11-29 18:23:21 Guys
+the-dump 2020-11-29 18:23:34 How do I send the music bot to a certain channel?
+the-dump 2020-11-29 18:24:23 Hello
+the-dump 2020-11-29 18:24:35 How do I send the music bot to a channel?
+the-dump 2020-11-29 18:25:46 Only way?
+the-dump 2020-11-29 18:25:52 The bot just wanders?
+bot-central 2020-11-29 19:51:59 =search never gonna give you up
+bot-central 2020-11-29 19:52:06 1
+bot-central 2020-11-29 19:52:39 =search never gonna give you up
+bot-central 2020-11-29 19:52:41 1
+bot-central 2020-11-29 19:52:46 =skip
+bot-central 2020-11-29 19:52:59 =clear
+bot-central 2020-11-29 19:53:43 ?whoispurifiedwater14
+bot-central 2020-11-29 19:54:13 =p never gonna give you up
+bot-central 2020-11-29 19:54:47 Not a bad beat ngl
+bot-central 2020-11-29 19:55:03 <:ElonCelebrate:589671476337311755>
+bot-central 2020-11-29 19:55:10 *Vibing*
+bot-central 2020-11-29 20:55:44 =search john paul jones by Johnny Horton
+bot-central 2020-11-29 20:55:47 1
+bot-central 2020-11-29 20:56:34 =p never gonna give you up
+bot-central 2020-11-29 20:57:31 =search sink the bismarck by Johnny Horton
+bot-central 2020-11-29 20:57:33 1
+bot-central 2020-11-29 20:59:01 GOT EM
+bot-central 2020-11-29 20:59:07 Get rick rolled
+bot-central 2020-11-29 21:00:44 =p dont stop me now
+bot-central 2020-11-29 21:05:51 =p never gonna give you up
+bot-central 2020-11-30 03:37:55 =p never gonna give you up
+bot-central 2020-11-30 03:38:16 Get rick rolled <@479298992874979328>
+bot-central 2020-11-30 03:38:41 Lol
+bot-central 2020-11-30 03:38:48 Well played
+bot-central 2020-12-01 04:17:29 =s
+bot-central 2020-12-01 04:17:49 This monkey ain't Bob ross
+bot-central 2020-12-01 04:18:17 Skip the damn monkey or god so help me
+bot-central 2020-12-01 04:18:51 Who wants to hear this damned monkey anywho?!
+bot-central 2020-12-01 04:19:43 God damn it
+bot-central 2020-12-01 04:19:48 Everyone skip
+bot-central 2020-12-01 04:19:57 Lol
+bot-central 2020-12-01 04:20:04 Everyone skip the damned monkey
+bot-central 2020-12-01 04:20:06 =q
+bot-central 2020-12-01 04:20:35 =search john paul jones by Johnny Horton
+bot-central 2020-12-01 04:20:37 1
+the-dump 2020-12-01 04:22:15 Port
+the-dump 2020-12-01 04:22:45 Then skip, Gorse if yah havent already
+bot-central 2020-12-01 04:23:14 Its =s
+bot-central 2020-12-01 04:23:33 =s
+bot-central 2020-12-01 04:24:11 <@456226577798135808>  SKIP
+bot-central 2020-12-01 04:24:23 Doge
+bot-central 2020-12-01 04:24:25 Skip
+bot-central 2020-12-01 04:24:32 Skip it and end this madness
+bot-central 2020-12-01 04:24:37 Join it then
+bot-central 2020-12-01 04:24:40 AND END IT
+bot-central 2020-12-01 04:24:55 Thank
+bot-central 2020-12-01 04:24:57 God
+bot-central 2020-12-01 04:25:01 Now we vibe, bois
+bot-central 2020-12-01 04:25:07 <:ElonCelebrate:589671476337311755>
+bot-central 2020-12-01 04:25:22 *Vibing*
+bot-central 2020-12-01 04:25:51 https://tenor.com/view/we-vibing-big-time-fitz-misfits-feeling-good-listening-to-music-gif-17552124
+bot-central 2020-12-01 04:26:20 <:ElonCelebrate:589671476337311755>
+the-dump 2020-12-02 03:44:06 NOO
+the-dump 2020-12-02 03:44:09 Actually
+the-dump 2020-12-02 03:44:21 SOMEONE MAKE THAT
+the-dump 2020-12-02 03:44:26 In game
+the-dump 2020-12-02 03:44:50 Oh no
+the-dump 2020-12-02 03:44:54 Not armada
+the-dump 2020-12-02 03:45:00 ANYTHING BUT ARMADA
+the-dump 2020-12-02 03:45:50 Armada is worst tf show along with 2015 rid reboot
+the-dump 2020-12-02 03:46:15 Oh yeah energon too
+the-dump 2020-12-02 03:46:17 .
+the-dump 2020-12-02 03:46:27 What in gods name-
+the-dump 2020-12-02 03:46:33 .
+the-dump 2020-12-02 03:46:39 Why did you bring up gen 2
+the-dump 2020-12-02 03:46:46 I FORGOT GEN 2 FOR A REASON
+the-dump 2020-12-02 03:47:23 Tf prime is the best show alongside beast wars
+the-dump 2020-12-02 03:47:26 Change my mind
+the-dump 2020-12-02 03:47:56 Tf animated too
+the-dump 2020-12-02 03:48:18 Also someone figured out how to bypass the censor and could say stalin as 1 word
+the-dump 2020-12-02 03:48:38 .
+the-dump 2020-12-02 03:48:39 XD
+the-dump 2020-12-02 03:49:12 Roger roger
+the-dump 2020-12-02 03:49:17 .
+the-dump 2020-12-02 03:49:24 For a what-
+the-dump 2020-12-02 03:50:04 https://tenor.com/view/%D9%81%D8%A7%D8%B4%DB%8C%D8%B3%D9%85%D8%B3%D8%B1%D8%AE-soviet-union-flag-gif-13978948
+the-dump 2020-12-02 03:50:09 Our land
+the-dump 2020-12-02 03:50:11 Our guns
+the-dump 2020-12-02 03:50:13 Our nukes
+the-dump 2020-12-02 03:50:28 This comrades, is the power, of soviet union
+the-dump 2020-12-02 03:50:50 ALL HEIL SOVIET PREMIERE JOSEPH STALIN
+the-dump 2020-12-02 03:51:03 Ik
+the-dump 2020-12-02 03:52:09 .
+the-dump 2020-12-02 03:52:10 Bruh
+the-dump 2020-12-02 03:52:28 Fracking censor
+the-dump 2020-12-02 03:53:07 In soviet union, everyone is pro
+the-dump 2020-12-02 03:55:51 Ok. That dank Express video
+the-dump 2020-12-02 03:55:58 Was fracking good
+bot-central 2020-12-02 04:03:59 Hallo
+bot-central 2020-12-02 04:04:09 =p deja vu
+bot-central 2020-12-02 04:04:19 Everyone in
+bot-central 2020-12-02 04:04:22 NOW
+bot-central 2020-12-02 04:04:52 Worth it
+bot-central 2020-12-02 04:05:04 Deja vu!
+bot-central 2020-12-02 04:05:14 R/nwooooom
+the-dump 2020-12-02 04:05:39 Deja vu is playing in the hangar
+the-dump 2020-12-02 04:05:41 Join now
+bot-central 2020-12-02 04:06:38 .
+bot-central 2020-12-02 04:06:40 Damn it
+bot-central 2020-12-02 04:06:49 Frick
+bot-central 2020-12-02 04:06:52 Gg
+bot-central 2020-12-04 00:19:14 Guys
+bot-central 2020-12-04 00:19:27 Something is wrong mg
+bot-central 2020-12-04 00:19:35 I cant place blocks rn
+bot-central 2020-12-04 00:19:49 And the server chat is lagging
+bot-central 2020-12-04 00:20:06 !servers
+bot-central 2020-12-04 01:40:31 =search star blazers original intro
+bot-central 2020-12-04 01:40:37 2
+bot-central 2020-12-04 01:40:50 Poggers
+creations-chat 2020-12-06 16:16:53 Thoughts on my yamato so far
+creations-chat 2020-12-06 16:19:07 Back ain't done
+creations-chat 2020-12-06 19:07:32 Ok so for the most part the deck of yamato is done. I have a problem with the back fold where it keeps half unfolding. This is an issue with motor type 1 and motor type 2. So I need help fixing it
+creations-chat 2020-12-06 19:10:07 If anyone can join me and try and help me with the motor issue I'd appreciate it.
+creations-chat 2020-12-06 19:12:14 Wow man real smooth. (Its call sarcasm, man)
+bot-central 2020-12-07 13:25:21 =p never gonna give you up
+bot-central 2020-12-07 13:25:44 Get rick rolled
+bot-central 2020-12-07 13:25:46 XD
+bot-central 2020-12-08 01:19:02 =q
+bot-central 2020-12-08 01:19:23 =p never gonna give you up
+bot-central 2020-12-08 01:19:31 GOT EM AGAIN
+the-dump 2020-12-08 01:20:49 True tho
+bot-central 2020-12-08 13:18:16 =skip
+bot-central 2020-12-08 13:18:29 =p never gonna give you up
+bot-central 2020-12-08 13:18:37 Got em
+bot-central 2020-12-08 22:32:08 =skip
+bot-central 2020-12-08 22:32:17 =p never gonna give you up
+bot-central 2020-12-09 02:57:05 =skip
+bot-central 2020-12-09 02:57:15 =p never gonna give you up
+bot-central 2020-12-12 01:15:31 =p never gonna give you up
+bot-central 2020-12-12 01:15:41 Lol
+bot-central 2020-12-12 01:15:56 HA
+bot-central 2020-12-15 03:14:03 =skip
+bot-central 2020-12-15 03:14:27 =p never gonna give you up
+bot-central 2020-12-17 03:26:57 =p never gonna give you up
+bot-central 2020-12-17 13:15:46 =skip
+bot-central 2020-12-17 13:15:53 =s ghost division
+bot-central 2020-12-17 13:16:12 =search ghost division
+bot-central 2020-12-17 13:16:18 1
+bot-central 2020-12-17 22:28:51 =search ghost division
+bot-central 2020-12-17 22:29:01 2
+bot-central 2020-12-17 22:29:16 Get sabatonned
+bot-central 2020-12-17 22:36:40 =search ghost division
+bot-central 2020-12-17 22:36:45 4
+bot-central 2020-12-17 22:45:33 =skip
+bot-central 2020-12-18 03:20:48 =p ghost division
+bug-reports 2020-12-19 20:52:30 Sparklers facing right of the plot's arrow. face left of the plots arrow when reloaded in. I have to manually replace them everytime.
+creations-chat 2020-12-20 16:44:48 R/Woosh
+creations-chat 2020-12-20 18:48:47 Ah yes. Empty
+creations-chat 2020-12-20 19:10:43 R/Thetruth
+creations-chat 2020-12-20 19:12:45 Indeed.
+creations-chat 2020-12-20 19:15:00 It matters because they arent learning how to play the game, they're just copying what someone else does and not making their own stuff. If all you do is copy you dont actually understand how it works. Like if your friend copied your math homework they dont understand it, but you do. Thus why they copied you.
+creations-chat 2020-12-20 22:52:00 <@726597413032165437> build your own crap next time
+bot-central 2020-12-21 13:56:58 =q
+bot-central 2020-12-21 13:57:20 =search john paul jones by johnny horton
+bot-central 2020-12-21 13:57:32 2
+bot-central 2020-12-21 13:57:51 =skip
+bot-central 2020-12-21 13:58:04 Damn it
+bot-central 2020-12-21 13:58:41 =search sink the Bismarck by Johnny Horton
+bot-central 2020-12-21 13:58:48 1
+bot-central 2020-12-21 13:59:37 History nerd vibes
+bot-central 2020-12-21 13:59:46 <:ElonCelebrate:589671476337311755>
+bot-central 2020-12-23 14:52:55 =skip
+bot-central 2020-12-23 14:53:04 =p never gonna give you up
+bot-central 2020-12-23 14:53:12 Got em
+the-dump 2020-12-23 15:17:47 Behold. THE RATH OF... my cute animals.
+the-dump 2020-12-23 15:17:52 
+the-dump 2020-12-23 15:17:57 
+the-dump 2020-12-23 15:18:12 
+the-dump 2020-12-23 15:18:28 
+creations-chat 2020-12-24 14:13:17 What's wrong with america?
+creations-chat 2020-12-24 14:15:26 Says who, the european? Asian? Let's take this to general
+bot-central 2020-12-24 14:32:39 =p never gonna give you up
+bot-central 2020-12-24 14:32:50 Damn it
+bot-central 2020-12-24 14:34:20 =disconnect
+bot-central 2020-12-24 14:34:38 =p never gonna give you up
+bot-central 2020-12-24 14:34:45 =p never gonna give you up
+bot-central 2020-12-24 14:34:59 =p never gonna give you up
+bot-central 2020-12-24 14:35:13 Ok
+bot-central 2020-12-24 14:35:33 =disconnect
+bot-central 2020-12-24 14:38:08 =p the devil went down to georgia
+bot-central 2020-12-24 14:38:31 Wth whys it so quiet
+bot-central 2020-12-24 14:38:36 Damn you music bot
+bot-central 2020-12-24 14:42:31 =p johnny horton sink the Bismarck
+bot-central 2020-12-24 14:46:09 =p Johnny horton john paul jones
+bot-central 2020-12-24 14:46:20 Get muricaed
+bot-central 2020-12-24 18:56:57 =p Never gonna give you up
+bot-central 2020-12-24 18:58:50 =skip
+bot-central 2020-12-24 18:59:09 =p Sabaton ghost division
+bot-central 2020-12-24 18:59:12 =skip
+bot-central 2020-12-24 18:59:27 Sabaton is supreme
+bot-central 2020-12-24 19:01:50 =skip
+the-dump 2020-12-24 19:14:39 Prepare. To see something very. Very gross
+the-dump 2020-12-24 19:15:29 
+the-dump 2020-12-24 19:16:15 Lol that was in october
+the-dump 2020-12-24 19:16:23 I just felt like posting em here
+the-dump 2020-12-24 19:16:32 No
+the-dump 2020-12-24 19:16:34 Perm
+the-dump 2020-12-24 19:17:01 Imagine what
+bot-central 2020-12-24 19:19:50 =warns
+bot-central 2020-12-24 19:19:53 Damn
+bot-central 2020-12-24 19:20:14 ?warns
+bot-central 2020-12-24 19:20:32 =warn
+bot-central 2020-12-24 19:20:39 !warning
+bot-central 2020-12-24 19:20:45 =warnings
+bot-central 2020-12-24 19:20:52 ?warnings
+bot-central 2020-12-27 06:01:18 !help
+bot-central 2020-12-28 15:28:37 =p never gonna give you up
+creations-chat 2020-12-28 15:45:35 <@353636708786634752> very nice work, couldn't have done it better myself
+bot-central 2020-12-31 18:48:21 =p sink the bismarck by Johnny Horton
+bot-central 2020-12-31 18:48:50 Ah yes
+bot-central 2020-12-31 18:48:53 Bimak
+bot-central 2020-12-31 18:49:14 =p john paul jones by Johnny Horton
+bot-central 2020-12-31 18:49:36 =s
+creations-chat 2021-01-03 07:13:39 They can't handle the neutron style
+creations-chat 2021-01-03 18:41:34 Is the fighter the tutorial? Lol
+bug-reports 2021-01-03 18:43:57 Hello my friend
+bug-reports 2021-01-03 18:44:42 Epic
+bot-central 2021-01-03 18:46:52 =s kickstart my heart
+bot-central 2021-01-03 18:47:01 Wrong command
+bot-central 2021-01-03 18:47:11 =search kickstart my heart
+bot-central 2021-01-03 18:47:17 4
+bot-central 2021-01-03 18:47:25 ..
+bot-central 2021-01-03 18:47:34 Why do I have to wait 40 minutes?
+bot-central 2021-01-03 18:47:39 .-.
+bot-central 2021-01-03 18:49:10 Skip it, jedi
+bot-central 2021-01-03 18:49:17 We can end this madness
+bot-central 2021-01-03 18:49:24 Oh
+bot-central 2021-01-03 18:51:10 ..
+bot-central 2021-01-03 18:51:22 An eleven minute song, jedi?
+bot-central 2021-01-03 18:52:02 Because. Cmon man
+bot-central 2021-01-03 18:52:51 Nah
+bot-central 2021-01-03 18:53:02 Biden's is better
+bot-central 2021-01-03 18:53:13 Which is something I'd never thought I'd say
+creations-chat 2021-01-03 18:53:39 <:pyramid:694767080578482206>
+bot-central 2021-01-03 18:54:52 Lol. That's not saying much
+bot-central 2021-01-03 18:56:30 =q
+bot-central 2021-01-03 18:57:05 I dont like songs longer than 5 minutes
+creations-chat 2021-01-03 18:57:20 <:Huskattak:624726402209415218>
+bot-central 2021-01-03 18:58:28 Can we all agree to skip a song longer than 5 minutes?
+bot-central 2021-01-03 18:59:38 =s
+bot-central 2021-01-03 18:59:57 <:WeirdChamp:670867805176070145>
+bot-central 2021-01-03 19:00:11 Wait tf is that from a rom com?
+bot-central 2021-01-03 19:00:27 Look at that thumbnail, looks like it's from a rom com
+bot-central 2021-01-03 19:00:45 This is a song I can get behind
+creations-chat 2021-01-03 19:01:17 That's an epic heli my dude. Doesnt deserve downvotes
+creations-chat 2021-01-03 19:03:31 Oh he's probably one of those people who downvotes based whether it has custom surfaces or not. Got a pic of said jet?
+creations-chat 2021-01-03 19:05:32 Better than most of mine. It's above average, which is good in my book.
+bot-central 2021-01-03 19:07:09 =search back in black
+bot-central 2021-01-03 19:07:13 1
+help 2021-01-03 19:07:57 F22
+creations-chat 2021-01-03 19:08:09 . That's what the videos channel is for. Are they dumb?
+bot-central 2021-01-03 19:09:48 <@659472689903173672>
+the-dump 2021-01-03 19:12:44 Theres a problem when minecraft stairs look better than plane crazy stairs
+bot-central 2021-01-03 19:13:25 =p thunderstruck
+the-dump 2021-01-03 19:13:43 I've used stairs like once
+the-dump 2021-01-03 19:15:01 Lol
+creations-chat 2021-01-03 19:16:31 Its fine
+the-dump 2021-01-03 19:17:33 The Caterpillar transitioned into a butterfly
+the-dump 2021-01-03 19:17:43 
+the-dump 2021-01-03 19:17:54 Oml
+the-dump 2021-01-03 19:18:51 Big brain
+the-dump 2021-01-03 19:19:17 I'm pretty sure they cant.
+the-dump 2021-01-03 19:20:01 Because they need hormone tablets which are a liability in the battlefield
+the-dump 2021-01-03 19:20:08 Is what I've heard
+the-dump 2021-01-03 19:21:04 Fuck it.
+bot-central 2021-01-04 06:23:43 =play
+bot-central 2021-01-04 06:23:48 =p
+bot-central 2021-01-04 06:23:55 =unpause
+bot-central 2021-01-04 06:23:59 Fuck
+bot-central 2021-01-04 06:24:08 =resume
+bot-central 2021-01-04 06:24:16 Ok so that's the command
+bot-central 2021-01-04 06:24:33 =resume
+bot-central 2021-01-04 06:24:59 I left
+bot-central 2021-01-04 06:25:01 Thata why
+bot-central 2021-01-04 06:25:04 *thats
+bot-central 2021-01-04 06:25:27 =s
+bot-central 2021-01-04 06:25:38 Oh thank you moonshine
+bot-central 2021-01-04 06:26:41 =p back in black
+bot-central 2021-01-04 06:26:45 Shit
+bot-central 2021-01-04 06:26:52 =search back in black
+bot-central 2021-01-04 06:26:59 ...
+bot-central 2021-01-04 06:27:02 Why
+bot-central 2021-01-04 06:27:14 Why don't it work
+bot-central 2021-01-04 06:27:29 Woah
+bot-central 2021-01-04 06:27:32 That was delay
+bot-central 2021-01-04 06:27:51 =p kickstart my heart
+bot-central 2021-01-04 06:27:58 Give it a few seconds
+bot-central 2021-01-04 06:28:13 1
+bot-central 2021-01-04 06:28:47 Jesus why is it having such bad delay
+bot-central 2021-01-04 06:30:07 <:ElonCelebrate:589671476337311755>
+creations-chat 2021-01-04 06:35:07 👍
+bot-central 2021-01-04 06:38:42 =p hell's bells
+bot-central 2021-01-04 06:42:07 =p ac dc
+bot-central 2021-01-04 06:42:18 =p thunderstruck
+bot-central 2021-01-04 06:42:30 =q
+creations-chat 2021-01-04 14:50:28 Mad sus
+the-dump 2021-01-04 15:46:55 
+the-dump 2021-01-04 15:47:02 Crawly tick boi
+the-dump 2021-01-04 15:47:46 I did
+the-dump 2021-01-04 15:47:58 I did
+the-dump 2021-01-04 15:48:01 A day ago
+the-dump 2021-01-04 15:48:15 Nah
+the-dump 2021-01-04 15:48:33 That's for when all my animals get fleas. Then we burn the house down
+the-dump 2021-01-04 15:49:04 No shit
+the-dump 2021-01-04 15:49:13 Its just a hard slippery shell
+the-dump 2021-01-04 15:49:43 Understandable, have a nice day
+the-dump 2021-01-04 15:50:20 Bug
+the-dump 2021-01-04 15:50:27 Heil the bug
+the-dump 2021-01-04 15:51:32 
+the-dump 2021-01-04 15:51:52 <:OmegaTroll:626841385118597152> 🖕
+the-dump 2021-01-04 15:52:31 Monki eat hex bug
+the-dump 2021-01-04 15:52:49 Perro 👍
+the-dump 2021-01-04 15:53:06 <:RoundMotor:706287054023294997>
+the-dump 2021-01-04 15:53:12 Cursed images
+the-dump 2021-01-04 15:54:24 <:kek:652566605028524033>
+the-dump 2021-01-04 15:55:40 Ngl. That's funny
+the-dump 2021-01-04 15:57:12 Frick
+the-dump 2021-01-04 16:25:17 The news : Violent protests. Everyone : if its not peaceful protest its a riot
+the-dump 2021-01-04 16:27:03 Hm yes punching a cop thats just standing there is totally justified, totally.
+the-dump 2021-01-04 16:27:20 . Its sarcasm
+the-dump 2021-01-04 19:08:17 Chile ripped off our flag
+the-dump 2021-01-04 19:08:38 Why
+the-dump 2021-01-04 19:08:41 WHYYYYY
+the-dump 2021-01-04 19:09:26 I dont understand that sentence
+the-dump 2021-01-04 19:12:18 EW
+the-dump 2021-01-04 19:12:51 welp. Time to teach liberia a lesson-
+the-dump 2021-01-04 19:13:00 Get that furry shit off my screen
+the-dump 2021-01-04 19:13:52 Now it looks like the russian flag with a star
+the-dump 2021-01-04 19:14:46 Why do people rip off the american flag? Cmon man
+the-dump 2021-01-04 19:16:32 When did chile gain independence?
+the-dump 2021-01-04 19:17:12 Mate we had that flag since we gained independence
+the-dump 2021-01-04 19:18:17 I live in texas
+the-dump 2021-01-04 19:18:31 Oh isnt that the flag of ohio?
+the-dump 2021-01-04 19:18:52 .
+the-dump 2021-01-04 19:18:57 The hell is that flag
+the-dump 2021-01-04 19:19:13 Except when it does
+the-dump 2021-01-04 19:20:29 Wow, what a dumb question
+the-dump 2021-01-04 19:21:06 Because
+the-dump 2021-01-04 19:21:08 America
+the-dump 2021-01-04 19:22:14 Wait a minute georgia's flag is just the csa flag with different stars
+the-dump 2021-01-04 19:23:14 Eh
+the-dump 2021-01-04 19:24:16 Please. Stop.
+the-dump 2021-01-04 19:24:25 Thats disgusting
+the-dump 2021-01-04 19:25:02 EEEEEEEE
+the-dump 2021-01-04 19:25:07 <:Wokeje139:604492580369203210>
+bot-central 2021-01-04 19:25:41 =p never gonna give you up
+bot-central 2021-01-04 19:26:05 Get rick rolled
+the-dump 2021-01-04 19:27:16 Southern pride. I respect them for it
+the-dump 2021-01-04 19:27:42 Oml
+the-dump 2021-01-04 19:27:57 <:StopThat:559520667909881867>
+the-dump 2021-01-04 19:29:44 Yes
+the-dump 2021-01-04 19:29:48 Basically
+the-dump 2021-01-04 19:30:58 Preach
+the-dump 2021-01-04 19:31:11 HE IS THE MESSIAH
+bot-central 2021-01-04 19:31:47 =p kickstart my heart
+the-dump 2021-01-04 19:32:03 .
+bot-central 2021-01-04 19:32:47 <:ElonDisapprove:589136548356685837> <:ElonCelebrate:589671476337311755> <:ElonApprove:589130525315301380>
+the-dump 2021-01-04 19:33:42 Simple, send in brrt
+the-dump 2021-01-04 19:34:12 We have nukes too
+the-dump 2021-01-04 19:34:44 Load up the b52s, the b2s, and the b1s. We'll nuke em to hell
+the-dump 2021-01-04 19:35:34 F-35 go zoom in overrated-ness
+bot-central 2021-01-04 19:36:54 =p America fuck yeah
+creations-chat 2021-01-05 15:44:49 Dew it
+creations-chat 2021-01-06 02:48:53 Anything with John Paul Jones in it is an immediate upvote. <:Upvote:490311647492309004>
+creations-chat 2021-01-06 16:22:01 Ew imagine thinking having a shredder bug is good
+creations-chat 2021-01-06 16:24:03 Thats a death wish of downvotes my dude
+creations-chat 2021-01-06 16:26:31 I focus on practicality first detail second. Especially on my war ships. I always make the guns functional to the best degree
+creations-chat 2021-01-06 16:31:06 We need less cooldown for slow-mo here. I feel 2 minutes of cooldown isnt enough time to have actual conversations and not just weird pause in between texts
+creations-chat 2021-01-06 16:33:11 But why should it? Hof should be only determined by quality of the build. Not by something as minuscule as camera angle.
+creations-chat 2021-01-06 16:35:13 Fair enough.
+bot-central 2021-01-06 18:45:59 =help
+bot-central 2021-01-06 18:46:35 =?
+help 2021-01-06 18:53:21 EW. REBELS AT AT
+help 2021-01-06 18:54:11 . Better?
+help 2021-01-06 18:54:29 The rebels at at is better than the og at at?
+help 2021-01-06 18:54:45 Thats debatable
+creations-chat 2021-01-08 03:44:16 <@557933990447677441> mad respect for you buildin this, my dude.
+creations-chat 2021-01-08 21:52:37 <@716084553713844275> mate you coulda used the iron cross instead
+creations-chat 2021-01-09 16:43:05 I see no swases, only iron crosses. Wait nvm i see one
+creations-chat 2021-01-10 17:07:09 Ah, hallo jedi. Also hotd
+creations-chat 2021-01-10 17:09:10 No. That is the definition of being an og prequel fan.
+help 2021-01-11 00:59:47 Angled upwards about 5 degrees or higher is good lift
+help 2021-01-11 01:00:02 Anything above 45 is overkill imo
+creations-chat 2021-01-11 07:08:48 Thanks
+bot-central 2021-01-11 07:14:27 =p the yellow rose of texas
+bot-central 2021-01-11 07:18:11 =repeat
+bot-central 2021-01-11 07:18:28 =p come a little bit closer
+creations-chat 2021-01-11 07:21:06 . Right as im listening to the song that played while he uses it
+creations-chat 2021-01-11 07:23:15 Yes
+creations-chat 2021-01-11 07:30:04 Also if you actually listen to the lyrics its about a woman intentionally making her boyfriend mad after she tells another man to dance with her
+creations-chat 2021-01-11 15:52:39 Great. No exposed rockets or propellers. I assume its purely motor powered. I'd assume it works based off the fact its still standing straight with one leg outward
+bot-central 2021-01-11 19:00:26 =p the yellow rose of texas
+bot-central 2021-01-11 19:01:27 <:ElonCelebrate:589671476337311755>
+bot-central 2021-01-11 19:03:32 =p never gonna give you up
+bot-central 2021-01-11 19:07:07 =p back in black
+the-dump 2021-01-11 19:14:01 #weeb-removed
+the-dump 2021-01-11 19:14:08 #weeb-removed
+the-dump 2021-01-11 19:14:13 #weeb-removed
+the-dump 2021-01-11 19:14:16 #weeb-removed
+bot-central 2021-01-11 19:16:09 =p never gonna give you
+bot-central 2021-01-11 19:26:01 -underrandom
+bot-central 2021-01-11 19:26:11 -underandom
+the-dump 2021-01-11 19:29:19 Waht-
+the-dump 2021-01-11 19:29:24 Ew, stop it
+the-dump 2021-01-11 19:29:29 *please*
+the-dump 2021-01-11 19:30:01 Tactical sosig
+the-dump 2021-01-11 19:30:39 Is that musalini?
+the-dump 2021-01-11 19:31:11 Helldolf
+the-dump 2021-01-11 19:45:27 XD
+bot-central 2021-01-12 03:11:33 =help
+bot-central 2021-01-12 03:11:47 =commands
+bot-central 2021-01-12 03:11:52 Bruh
+bot-central 2021-01-12 03:15:43 &suggest
+[Pvp] [Naval] 
+So, once again im suggesting naval guns. 2 types of calibers, long range and short range. Calibers 2 to 8 inches are short range, and have a faster reload time. Calibers 9 to 18 are long range and have a slow reload time. As the caliber goes up, the reload time gets slower. Calibers 15 to 18 inch will have a reload time of 37.5 seconds are to prevent spam. The block design for these weapons will be a cylinder. 18inch guns are the exact size of a cylinder, and it gets progressively smaller from there.
+the-dump 2021-01-12 03:35:06 <:empty:794431705070174238>
+bot-central 2021-01-13 03:04:04 =p never gonna give you up
+the-dump 2021-01-13 03:06:38 Very nice rick
+the-dump 2021-01-13 03:06:45 Also new map when- i mean. Whens the second part of the winter update coming
+the-dump 2021-01-13 03:10:27 People
+the-dump 2021-01-13 03:10:30 Prepare yourselves
+the-dump 2021-01-13 03:11:17 Nsfw?
+the-dump 2021-01-13 03:11:33 Ok down the pipe it goes
+the-dump 2021-01-13 03:12:38 Enderman Allah
+the-dump 2021-01-13 03:12:42 He is the messiah
+the-dump 2021-01-13 03:13:02 Idfc
+the-dump 2021-01-13 03:13:07 Who
+the-dump 2021-01-13 03:13:44 GUAYANDO😎 👊
+the-dump 2021-01-13 03:14:35 Burn tongdee
+the-dump 2021-01-13 03:14:45 With GUAYANDO 😎 👊
+the-dump 2021-01-13 03:15:07 GUAYANDO😎 👊
+the-dump 2021-01-13 03:15:17 Nein
+the-dump 2021-01-13 03:15:25 HEIL GUAYANDO😎 👊
+the-dump 2021-01-13 03:16:07 Stupid Tongdee. HEIL GUAYANDO😎 👊
+the-dump 2021-01-13 03:16:34 GUAYANDO😎 👊
+the-dump 2021-01-13 03:17:42 GUAYANDO. GUAYANDO. GUAYANDO. GUAYANDO😎 👊 🖕
+the-dump 2021-01-13 03:18:41 Poll for tongdee to not discriminate against GUAYANDO.
+creations-chat 2021-01-13 03:20:02 Wood Plank trails <@683847069890510887>
+creations-chat 2021-01-13 03:22:03 You can change the material of most things (MOST, not all)
+creations-chat 2021-01-13 03:24:04 I said most didnt I?
+creations-chat 2021-01-13 03:26:25 Excellent question. Why cant we change the matieral of everything, eh rick? (Except glass wings, too good for invis planes)
+bot-central 2021-01-13 03:28:24 =p fortunate son
+bot-central 2021-01-13 03:28:53 <:ElonCelebrate:589671476337311755>
+creations-chat 2021-01-14 03:31:10 Very nice- idea. Great fucking idea i just got
+bot-central 2021-01-14 13:20:06 =p never gonna give you up
+bot-central 2021-01-14 13:20:43 Aw the baby is mad
+bot-central 2021-01-14 13:21:21 =s
+creations-chat 2021-01-15 03:07:14 Dude this is good shit, its above average, idk why hes complaining over paint
+creations-chat 2021-01-15 03:09:29 Like i said, an above average build for my standards. Its good. Also, <@456226577798135808>, there are intakes, you just arent seeing them you blind fuck.
+creations-chat 2021-01-15 03:11:31 Clown bread is pog, and yes i just wasted my 2 minutes cooldown for that.
+creations-chat 2021-01-15 03:13:36 Good
+the-dump 2021-01-15 03:48:07 *The cat is on crack again-*
+the-dump 2021-01-15 03:50:31 So you always have the high ground, even when taking a crap
+bot-central 2021-01-16 20:09:43 ?covid stats texas
+creations-chat 2021-01-20 00:43:04 Motor 2 has been broke for months
+bug-reports 2021-01-20 00:51:49 So
+bug-reports 2021-01-20 00:52:08 How long has motor 2 been a flinging mess that it is?
+creations-chat 2021-01-20 01:39:35 I love how no one has noticed that eh attempt at an ironclad has a csa flag
+creations-chat 2021-01-20 01:42:14 Also, if thats the css virginia he tried to make. Well. Lets just say. Theyve got the shapes right. The detail? <:LULW:719972409947717727> like seriously there was no front door on the virginia, only topside hatches
+creations-chat 2021-01-20 01:49:27 If your brain can easily see the seperation line, and we can, we ALL can, then its a fail
+creations-chat 2021-01-20 01:51:30 Its a pic, i cant exactly tell from a still image. Maybe use a vid?
+the-dump 2021-01-20 01:54:55 So
+the-dump 2021-01-20 01:54:58 The dump
+the-dump 2021-01-20 01:55:00 Hm
+bot-central 2021-01-20 01:55:46 =p never gonna give you up
+bot-central 2021-01-20 01:55:49 =skip
+bot-central 2021-01-20 01:56:48 =skip
+creations-chat 2021-01-20 01:57:56 Nah. Too good to be a tut. Tuts never use good gun stacks.
+bug-reports 2021-01-20 03:01:06 Oh god motor 2 on servo is broken now? Fuck
+creations-chat 2021-01-20 03:01:23 Gut
+creations-chat 2021-01-21 00:53:48 <@456226577798135808> how did you get the squares on the end of sparklers to disappear? Or am i blind. Wait those arent sparklers- 😩
+creations-chat 2021-01-22 03:04:41 Heil gary. Long live gary
+bot-central 2021-01-22 03:05:13 =p never gonna give you up
+the-dump 2021-01-22 03:05:52 EEE
+the-dump 2021-01-22 03:05:54 Why
+bot-central 2021-01-22 03:06:13 =skip
+help 2021-01-22 03:11:41 Ok guys
+help 2021-01-22 03:11:54 So ive done some testing with various methods and aircraft
+help 2021-01-22 03:12:15 And it appears the servo glitch is less dependent on speed and torque, and more dependent on the aircraft
+help 2021-01-22 03:12:22 My yf-23s servos can only function properly on speed 1, torque 30. But my corsair's servos can function at up to speed 5 without breaking
+help 2021-01-22 03:12:40 Eh
+help 2021-01-22 03:13:06 I mean my aircraft still function right. Im not affected by this bug
+creations-chat 2021-01-22 03:50:11 Dew it
+creations-chat 2021-01-22 13:16:36 I cant stop reading your messages in a stewy voice now, Longtime
+bot-central 2021-01-22 13:17:23 =p never gonna give you up
+bot-central 2021-01-22 13:17:26 =skip
+bot-central 2021-01-22 13:17:38 Damn it
+bot-central 2021-01-22 13:17:48 Indeed i did
+creations-chat 2021-01-22 21:49:55 Bruh
+creations-chat 2021-01-22 21:52:00 Can i have the lowest ranking staff role so i can skip slow mode?
+creations-chat 2021-01-22 21:54:02 Its my first amendment right. I can say what i wish
+bot-central 2021-01-23 15:24:52 !shelp
+bot-central 2021-01-23 15:25:01 !help
+the-dump 2021-01-23 15:29:33 No. Let me geese. <:trollface:775024642104229898>
+bot-central 2021-01-23 15:30:37 =p the yellow rose of texas
+bot-central 2021-01-23 15:30:51 <:ElonCelebrate:589671476337311755>
+the-dump 2021-01-23 15:36:14 <:squam:801278498156183562>
+the-dump 2021-01-23 15:36:27 Long live squam
+the-dump 2021-01-23 22:37:03 GUAYANDO😎 👊
+the-dump 2021-01-23 22:37:09 GUAYANDO😎 👊
+the-dump 2021-01-23 22:38:28 GUAYANDO😎 👊
+help 2021-01-23 22:56:46 Guys i need help
+help 2021-01-23 22:56:56 My parents are getting a divorce
+help 2021-01-23 22:59:31 <:trollface:775024642104229898>
+help 2021-01-23 22:59:39 Was a joke
+help 2021-01-23 22:59:55 *my parents divorced 8 years ago*
+bot-central 2021-01-23 23:06:25 =p shook me all night long
+the-dump 2021-01-23 23:09:03 Im gonna say something controversial
+the-dump 2021-01-23 23:09:12 Dont believe all women.
+bot-central 2021-01-23 23:10:12 =p ghost division
+bot-central 2021-01-24 14:50:24 =p spinning seal
+bot-central 2021-01-24 14:50:30 Bruh
+creations-chat 2021-01-24 15:00:51 ok
+the-dump 2021-01-24 15:01:12 GUAYANDO 😎 👊
+the-dump 2021-01-24 15:01:36 GUAYANDO😎 👊
+the-dump 2021-01-25 03:11:34 Bois
+the-dump 2021-01-25 03:11:43 Its time to *UNIONIZE*
+the-dump 2021-01-25 03:11:56 And petition an actual ingame mod team
+the-dump 2021-01-25 03:12:09 Which will be a *UNION* of mods
+the-dump 2021-01-25 03:12:38 Rick has to know SOME PEOPLE he can trust to mod it
+the-dump 2021-01-25 03:13:16 It seems near improbable to know  NO ONE you can trust for modding
+the-dump 2021-01-25 03:13:27 I mean i think obc would be a good ingame mod
+the-dump 2021-01-25 03:14:16 Change that pfp
+the-dump 2021-01-25 03:14:22 Please for all our sakes
+the-dump 2021-01-25 03:14:36 It looks like an early 2000s cg kids show
+the-dump 2021-01-25 03:17:04 A shot gun cant take all of those out
+the-dump 2021-01-25 03:17:10 They're too far spread
+the-dump 2021-01-25 03:17:52 Yes
+the-dump 2021-01-25 03:18:07 We shall call the chicken fish Dave
+the-dump 2021-01-25 03:18:26 And he will rival GUAYANDO
+the-dump 2021-01-25 03:18:49 Damn it
+the-dump 2021-01-25 03:19:08 DAVE🖕
+the-dump 2021-01-25 03:19:13 DAVE🖕
+the-dump 2021-01-25 03:21:12 That doge is fine
+the-dump 2021-01-25 03:21:37 Bug eyes. On the other hand....
+the-dump 2021-01-25 03:22:44 
+the-dump 2021-01-25 03:22:46 Aw
+the-dump 2021-01-25 03:22:57 Idk why my cats sprawl like this
+the-dump 2021-01-25 03:23:13 Good
+the-dump 2021-01-25 03:23:21 Bring back the 2010 internet
+the-dump 2021-01-25 03:23:29 When it was cute and funny cats
+the-dump 2021-01-25 03:23:59 Aw
+the-dump 2021-01-25 03:24:59 This cat, in particular, has a very odd tendency to go from sweet and nice. To swatty and high
+the-dump 2021-01-25 03:25:31 Yes
+the-dump 2021-01-25 03:25:32 Pog
+the-dump 2021-01-25 03:26:36 
+the-dump 2021-01-25 03:26:43 You cant not say aw to that
+the-dump 2021-01-25 03:27:05 Ight ima go to sleep
+the-dump 2021-01-26 03:28:14 
+the-dump 2021-01-26 03:28:19 Enimul
+the-dump 2021-01-26 03:29:12 Not pupper
+the-dump 2021-01-26 03:29:20 Middle age dog
+the-dump 2021-01-26 03:29:44 . Why must you do that to him. Hes got a sad face now look at him<:nooo:787097964946259978>
+the-dump 2021-01-26 03:30:13 Never take away a dog's bagel bites
+the-dump 2021-01-26 03:30:28 Hes disappointed in you, tong
+the-dump 2021-01-26 03:30:58 Also, i think my cat is a [Redacted]
+the-dump 2021-01-26 03:31:34 There
+the-dump 2021-01-26 03:32:18 Yes
+the-dump 2021-01-26 03:32:32 Now 25% off, with todays sponsor
+the-dump 2021-01-26 03:32:45 RAID SHADOW LEGENDS
+the-dump 2021-01-26 03:34:14 Big chungus unboxing
+the-dump 2021-01-26 03:34:35 Get it 10% off with my amazon affiliate link
+creations-chat 2021-01-28 04:21:33 Why hasnt <@434710676154613770> gotten hof yet. WHY <:nooo:787097964946259978>
+bot-central 2021-01-29 00:29:39 !rank
+bot-central 2021-01-29 00:30:08 =p thunderstruck
+bot-central 2021-01-29 00:32:15 =skip
+bot-central 2021-01-29 00:32:31 Ight, someone else skip
+bot-central 2021-01-29 00:33:30 =skip
+bot-central 2021-01-30 21:26:29 =p back in black
+creations-chat 2021-01-30 23:26:25 8/10, not enough torpedo tubes
+creations-chat 2021-01-30 23:28:27 <@721908663694131281> how did you get the water material for the pond? Just curious.
+creations-chat 2021-01-30 23:30:28 Looks like intensive lock now that i look at it good. Theres rocks under the water, so good on seedy.
+creations-chat 2021-01-31 00:09:19 That a10 is good, but it doesnt look entirely accurate.
+creations-chat 2021-01-31 00:13:53 The nose looks too sharp. A-10s nose is flat on the sides, round on the top
+creations-chat 2021-01-31 00:22:31 Never thought id say this, but. Too much motorlock
+creations-chat 2021-01-31 00:28:14 Ive seen it done beautifully
+the-dump 2021-01-31 00:30:23 Cats
+the-dump 2021-01-31 00:30:26 Damn it
+the-dump 2021-01-31 00:34:14 *cats*
+the-dump 2021-01-31 00:34:14 
+the-dump 2021-01-31 00:34:35 Idfk
+the-dump 2021-01-31 00:34:57 No thats not cats on a 1 dollar budget
+the-dump 2021-01-31 00:35:06 Lemmie get the 1 dollar budget
+the-dump 2021-01-31 00:35:18 
+the-dump 2021-01-31 00:35:29 And yes. My cat sleeps like this
+the-dump 2021-01-31 00:35:44 All of my cats are weird
+the-dump 2021-01-31 00:36:14 2 have thumbs, one is bi polar, another barely has a voice. And my oldest cat has eaten a mole
+creations-chat 2021-01-31 01:35:02 Thats not a valid criticism, have you seen irl pictures of ww2 cruiser guns? The barrels are tiny shit.
+creations-chat 2021-01-31 01:38:06 Very nice my dude.
+creations-chat 2021-01-31 01:40:08 My thoughts exactly
+creations-chat 2021-01-31 01:43:03 Whyd you show a pic of your tank with feedback for a plane????????
+creations-chat 2021-01-31 01:51:32 Faded, darker colors. Dont know why he worded it as bland
+creations-chat 2021-01-31 01:53:40 Even then you made it too bright. Maybe notch the yellow down to 200 or 190.
+creations-chat 2021-01-31 01:57:20 Sure, why not
+help 2021-01-31 01:59:43 Have you tried using 1 by .9s?
+the-dump 2021-01-31 20:49:25 
+the-dump 2021-01-31 20:49:28 Lizard
+the-dump 2021-01-31 20:49:48 How
+the-dump 2021-01-31 20:49:56 How is precious lizard cringe
+the-dump 2021-01-31 20:49:58 No
+the-dump 2021-01-31 20:50:09 Lizard wont be the sandwich
+the-dump 2021-01-31 20:50:21 Lizard will eat sandwich
+the-dump 2021-01-31 20:50:47 <:nooo:787097964946259978>
+creations-chat 2021-01-31 20:57:29 Its a beautiful a10 <@414359638302130176>
+creations-chat 2021-01-31 20:59:41 Honestly not much to improve, its smooth, well designed, and has a gun. I see nothing wrong besides some exposed lock on the nose, even then its negligible.
+the-dump 2021-01-31 21:02:45 Chain broken for a good cause.
+the-dump 2021-01-31 21:02:48 <:trollface:775024642104229898>
+the-dump 2021-01-31 21:03:09 Yay
+the-dump 2021-01-31 21:03:12 For ze cat
+the-dump 2021-01-31 21:03:26 
+the-dump 2021-01-31 21:03:28 Nein
+the-dump 2021-01-31 21:04:00 >:) that cat mocks you
+the-dump 2021-01-31 21:04:09 It sticks it tongue at you
+the-dump 2021-01-31 21:04:45 
+the-dump 2021-01-31 21:04:46 Long live cat spam
+the-dump 2021-01-31 21:04:57 The cat days of the internet have returned
+the-dump 2021-01-31 21:05:32 No.
+the-dump 2021-01-31 21:05:32 
+the-dump 2021-01-31 21:05:50 Exactly
+the-dump 2021-01-31 21:05:54 Thats the point
+the-dump 2021-01-31 21:06:01 Im bringing 2011 back
+the-dump 2021-01-31 21:06:06 Yes
+the-dump 2021-01-31 21:06:18 Electric boogaloo
+creations-chat 2021-01-31 21:06:32 Very cool.
+the-dump 2021-01-31 21:08:53 GUAYANDO😎 👊
+creations-chat 2021-01-31 21:09:00 It looks nothing like any of the tuts. For one its twice as large. Second, it is far better than any tutorial ive ever seen.
+creations-chat 2021-01-31 21:24:45 It. Looks. Great. Post it dude its a good statue
+the-dump 2021-01-31 21:31:11 
+the-dump 2021-01-31 21:31:21 14+ year old cat
+creations-chat 2021-01-31 21:32:00 Whats that supposed to mean
+the-dump 2021-01-31 21:32:31 Jokes on you, that doesnt break my brain.
+the-dump 2021-01-31 21:33:22 Not a teachers pet
+the-dump 2021-01-31 21:33:32 He just needs a better optical illusion
+creations-chat 2021-01-31 21:36:24 Its not lackluster dark, its above average. Idk if youve ever been on a public server before. It isnt exactly the brightest spot in the game. Hes an above average builder, who has competence. Just because he doesnt reach your god standard doesn't mean it isnt good.
+the-dump 2021-01-31 21:37:16 I wont
+the-dump 2021-01-31 21:37:17 Yet
+the-dump 2021-01-31 21:37:19 <:trollface:775024642104229898>
+creations-chat 2021-01-31 21:38:24 Whats wrong with the tail being thin? Ive seen pics of the a10, its tail is thin. It gets thinner the farther back it goes
+creations-chat 2021-01-31 21:42:07 <@462891443673890827> can we get more pics of that colorado my dude? It looks very epic, only downside is im just looking at the obstructed bow so far.
+creations-chat 2021-01-31 21:45:16 
+the-dump 2021-01-31 21:49:10 I dont get it
+creations-chat 2021-01-31 21:50:21 Physically impossible obc. This is discord, the universe shall not allow it. Also Tong has become the new bunny lord, thumper is a false god now.
+creations-chat 2021-01-31 21:52:37 Once again obc. Physically impossible. This is discord, and god will not allow peace here.
+the-dump 2021-01-31 21:53:56 No
+the-dump 2021-01-31 21:54:05 Murica
+the-dump 2021-01-31 21:54:19 Nope
+the-dump 2021-01-31 21:54:41 Oh
+the-dump 2021-01-31 21:54:58 Well there was no context for the joke. I dont think anyone else wouldve gotten it
+the-dump 2021-01-31 21:55:48 Wanna know why theres a fence around cemeteries?
+the-dump 2021-01-31 21:56:06 Because people are dieing to get in. <:trollface:775024642104229898>
+creations-chat 2021-01-31 21:56:31 What if you dont and just let discord take its natural cycle?
+the-dump 2021-01-31 21:56:55 Its a joke my step dad has used dozens of times
+creations-chat 2021-01-31 21:58:33 Fair enough. 🤷
+bug-reports 2021-02-01 03:04:18 That first one is the ghosting glitch bud. Hes still immobile but you cant see where his turret moved to. All you have to do to unghost someone is to hit them, and theyll re appear.
+bot-central 2021-02-01 03:10:56 =p sabaton midway
+the-dump 2021-02-01 03:38:51 I made a bomb threat in 2nd grade
+bug-reports 2021-02-01 03:56:07 I told you how in that message can you read?
+bug-reports 2021-02-01 03:56:11 You shoot them
+bug-reports 2021-02-01 03:56:14 And they unghost
+bug-reports 2021-02-01 03:56:20 Sometimes takes 2 or 3 shots
+the-dump 2021-02-01 03:56:55 There is better
+the-dump 2021-02-01 03:57:03 Its called Samurai Jack and primal
+bug-reports 2021-02-01 03:57:28 Oh well, dont know what to tell you
+the-dump 2021-02-01 03:58:10 This is disgusting. Samurai Jack and Primal are better.
+the-dump 2021-02-01 03:58:25 XD
+the-dump 2021-02-01 04:07:37 
+the-dump 2021-02-01 04:08:43 
+the-dump 2021-02-01 04:12:10 My cat will help
+the-dump 2021-02-01 04:16:31 <:OmegaTroll:626841385118597152>
+creations-chat 2021-02-01 22:34:09 So you aint building the actual texas just using it as a starting point? If you are making the texas, add all the guns first, then the superstructure
+creations-chat 2021-02-02 03:19:37 Dude. Thats a pvp box. Its a shredder pvp box, seen dozens of em. That aint worth shit. Get it out of our sights.
+creations-chat 2021-02-02 03:26:36 <@514333972189151233> i would say add an emoji of a bunch of knobs for detail, but its a ww1 plane. Not much detail to them.
+bug-reports 2021-02-04 03:08:52 Mouse control is being worse than usual
+bug-reports 2021-02-04 03:09:13 Its only on my 2 fold battleship for some reason, possibly to due with turret size.
+bot-central 2021-02-04 22:43:34 .
+bot-central 2021-02-04 22:43:39 Of course
+bot-central 2021-02-04 22:43:41 Tf2
+bot-central 2021-02-04 22:44:08 =p the red baron
+bot-central 2021-02-04 22:44:55 =skip
+bot-central 2021-02-04 22:44:59 Thf
+bot-central 2021-02-04 22:45:03 W TF
+bot-central 2021-02-04 22:45:08 WhAT IS THIS PLAYING
+bot-central 2021-02-04 22:45:21 I wished to listen to sabaton
+bot-central 2021-02-04 22:45:40 Also how the hell was i supposed to know this was in queue
+bot-central 2021-02-04 22:45:46 =skip
+bot-central 2021-02-04 22:46:23 =skip
+bot-central 2021-02-04 22:46:29 <@389756407483990028>
+bot-central 2021-02-04 22:46:32 There you go
+bug-reports 2021-02-04 22:49:08 And you see kids, this is why we need ingame mods
+creations-chat 2021-02-05 01:50:52 Nice. Dont see any need for improvement on that.
+the-dump 2021-02-05 02:45:49 Hey guys
+the-dump 2021-02-05 02:45:57 Wanna see something gross?
+the-dump 2021-02-05 02:46:43 My cat's claw has evidently grown into a loop, and has now gone into her paw pad. Atm she is fine but here is scab that came out of the middle of the loop
+the-dump 2021-02-05 02:47:42 I would give yall a grosser picture of the actual claw, but naturally the cat wont stay fucking still
+the-dump 2021-02-05 02:48:29 Oh please it doesnt have puss and shit in it (yet)
+the-dump 2021-02-05 02:48:42 Yeah she doesnt act like its there at all.
+the-dump 2021-02-05 02:49:19 But once it gets through the claw pad and into her skin, guaranteed she'll feel it.
+the-dump 2021-02-05 02:51:46 Finally, she gave in. Heres a shot of the claw (still not getting the full scale of it but better than a scab)
+the-dump 2021-02-05 02:52:16 Yes
+the-dump 2021-02-05 02:52:19 She acts like a dog
+the-dump 2021-02-05 02:52:25 She sleeps and licks people
+the-dump 2021-02-05 02:52:31 But she does go outside
+the-dump 2021-02-05 02:53:22 Whats odd is the other toe on her other paw isnt big. Not even average sized. Its a midgit claw
+the-dump 2021-02-05 02:55:32 Ok thats fucking good!
+the-dump 2021-02-05 02:56:53 What?
+the-dump 2021-02-05 02:57:13 My cat didnt get the memo
+the-dump 2021-02-05 02:57:19 I doubt it
+the-dump 2021-02-05 02:57:49 Seriously though my cat didnt get the memo and now she has a looped claw digging into her
+the-dump 2021-02-05 02:58:05 Wanna see it?
+the-dump 2021-02-05 02:58:11 NOOOOO
+the-dump 2021-02-05 02:58:28 She doesnt feel it atm. Its only in her claw pad so far.
+the-dump 2021-02-05 02:58:37 Thats one hell of a trooper
+the-dump 2021-02-05 02:58:51 True
+the-dump 2021-02-05 02:59:15 The question is how to cut the claw off without this cat going berserk
+the-dump 2021-02-05 03:00:21 All my cats scratch shit. I will always see them scratching stuff once a day. I think its because of her polydactly (having an extra claw/thumb) and thus this claw didnt get scratched
+the-dump 2021-02-05 03:00:52 Eh
+the-dump 2021-02-05 03:01:28 Thats Japan
+the-dump 2021-02-05 03:03:15 Thats a fox thingy
+the-dump 2021-02-05 03:03:39 Foxes are the best of both worlds (cats and dogs)
+the-dump 2021-02-05 03:04:04 Average American cat
+the-dump 2021-02-05 03:04:14 Criminal cats
+the-dump 2021-02-05 03:04:45 HOLY SHIT
+the-dump 2021-02-05 03:04:49 WEATHER UPDATE
+the-dump 2021-02-05 03:04:58 THE CLAW WAS JUST THE SHED SHELL
+the-dump 2021-02-05 03:05:12 
+the-dump 2021-02-05 03:05:16 Big mo fo
+the-dump 2021-02-05 03:07:37 Protect that child AT ALL COSTS
+the-dump 2021-02-05 03:07:51 No
+the-dump 2021-02-05 03:07:54 No morshu
+the-dump 2021-02-05 03:08:08 Derp
+the-dump 2021-02-05 03:11:26 No no
+the-dump 2021-02-05 03:11:28 This is fine
+the-dump 2021-02-05 03:11:30 Keep going
+the-dump 2021-02-05 03:12:06 More fox, plz
+help 2021-02-05 03:14:03 Yes. We need an actual ocean so ships cant be spawnkilled
+help 2021-02-05 03:14:33 That as well, deeper oceans
+help 2021-02-05 03:14:52 But seriously though the fact the ocean is right by spawn doesnt help ships
+help 2021-02-05 03:15:27 Oof
+help 2021-02-05 03:15:55 Also we need sonar, radar, something. So we can look underwater
+help 2021-02-05 03:16:12 Not just looking everywhere with 15 blocks of visibility underwater
+the-dump 2021-02-05 03:28:12 Tong. Where did you find this. TELL ME
+the-dump 2021-02-05 03:28:19 ITS TOO PRECIOUS
+the-dump 2021-02-05 03:28:48 I need the full video of bunny office
+the-dump 2021-02-05 03:28:53 *N O W*
+help 2021-02-05 12:36:40 I was told that glitch was fixed a few months back
+creations-chat 2021-02-05 21:57:48 <@711284968617410660> that. "Battleship". Is trash. I swear my poorly made uss Texas looks better than that, at least mine has the accurate amount of turrets.
+creations-chat 2021-02-05 22:00:11 The hull technice is nice. But thats it. Thats the only good thing about it.
+creations-chat 2021-02-05 22:03:42 No. That thing hardly looks like a ww2 New York class, i mean how do you misscount turrets?! The aa guns are painted bright neon green, the tripod mast top is square instead of pentagon shaped, the colors are too bright. I could go on. Are the guns even functional?
+creations-chat 2021-02-05 22:06:04 No, your tank is fine. Its a beautiful ground vehicle.
+creations-chat 2021-02-05 23:02:33 Life boat cranes have aa guns on top of em
+creations-chat 2021-02-06 22:39:39 +1 vote
+the-dump 2021-02-06 23:14:18 Cat will now do the no no salute
+the-dump 2021-02-06 23:14:26 
+the-dump 2021-02-06 23:15:30 <:empty:794431705070174238>
+creations-chat 2021-02-06 23:18:30 . G1. Soundwave. Generation. One. They are boxy for the most part
+the-dump 2021-02-06 23:29:23 Adorable warning
+the-dump 2021-02-06 23:29:28 Cute cats incoming
+the-dump 2021-02-06 23:30:16 
+the-dump 2021-02-06 23:30:26 Expected
+the-dump 2021-02-06 23:30:36 Destroyer
+the-dump 2021-02-06 23:30:37 This
+the-dump 2021-02-06 23:30:38 Is
+the-dump 2021-02-06 23:30:40 The spam
+the-dump 2021-02-06 23:30:42 Channel
+the-dump 2021-02-06 23:30:44 Where else
+the-dump 2021-02-06 23:30:46 Am i
+the-dump 2021-02-06 23:30:48 Supposed
+the-dump 2021-02-06 23:30:49 To
+the-dump 2021-02-06 23:30:51 Put
+the-dump 2021-02-06 23:30:52 This
+the-dump 2021-02-06 23:31:04 No
+the-dump 2021-02-06 23:31:23 Its the closest thing to a span channel
+the-dump 2021-02-06 23:31:31 <:empty:794431705070174238>
+the-dump 2021-02-06 23:32:00 Oh yeah
+the-dump 2021-02-06 23:32:51 Xd
+the-dump 2021-02-06 23:33:27 No
+creations-chat 2021-02-06 23:43:01 Because he didnt use hover thrusters which are much less distracting
+the-dump 2021-02-06 23:48:51 Its an image
+the-dump 2021-02-06 23:48:53 <:trollface:775024642104229898>
+the-dump 2021-02-06 23:49:06 Ja
+the-dump 2021-02-06 23:49:42 Actual vid this time
+the-dump 2021-02-06 23:49:57 .
+the-dump 2021-02-06 23:50:12 Idk how you'll manage that
+the-dump 2021-02-06 23:50:13 But gl
+the-dump 2021-02-06 23:51:25 Accurate
+the-dump 2021-02-06 23:51:54 Yes
+the-dump 2021-02-06 23:52:04 Let a grub hub character die
+creations-chat 2021-02-06 23:53:13 Friendship windmill of peace
+creations-chat 2021-02-06 23:55:39 Ok. You want me to say something? Alright. 1st off, the paint. Tf, is the paint. Most of those were painted with brown and green camo, which is easy as hell to make. Second off, its got very little detail. Third, its short. Your wish has been granted, now improve the build
+creations-chat 2021-02-07 21:07:18 Legit asked for upvote
+the-dump 2021-02-09 12:57:35 Hey guys
+the-dump 2021-02-09 12:57:48 Wanna know hp lovecraft's cat's name?
+the-dump 2021-02-09 12:57:53 <:trollface:775024642104229898>
+the-dump 2021-02-09 12:58:17 Bruh
+the-dump 2021-02-09 12:58:21 Damned chat filter
+the-dump 2021-02-09 12:58:49 I tried to
+the-dump 2021-02-09 12:58:53 Chat wont let me
+the-dump 2021-02-09 12:59:03 Because fuckin snowflake filter
+creations-chat 2021-02-09 13:00:59 Gut
+the-dump 2021-02-09 13:02:59 ?
+the-dump 2021-02-09 13:03:12 ?
+the-dump 2021-02-09 13:03:21 NUUUU
+the-dump 2021-02-09 13:04:20 Except when obc is online
+the-dump 2021-02-09 13:04:36 Obc is the only mod that does *something*
+the-dump 2021-02-09 13:05:03 Same difference
+the-dump 2021-02-09 13:05:09 <:trollface:775024642104229898>
+the-dump 2021-02-09 13:05:35 Everyone
+the-dump 2021-02-09 13:05:38 To jet stream
+the-dump 2021-02-09 13:05:44 I must tell you something
+bot-central 2021-02-09 13:06:14 =p Star Spangled Banner Instrumental
+creations-chat 2021-02-15 13:46:29 *Intensifies more*
+creations-chat 2021-02-15 18:50:11 *Y E S*
+the-dump 2021-02-15 19:31:16 
+the-dump 2021-02-16 02:20:28 Ben shapiro?
+the-dump 2021-02-16 02:24:53 I require more shitpost videos
+the-dump 2021-02-16 02:25:47 Ja
+the-dump 2021-02-16 02:25:49 More
+the-dump 2021-02-16 02:25:53 More Hanz
+the-dump 2021-02-16 02:28:20 Did you say new tracks?No, a better transmission Hanz! A naval gun on a tank? NO HANZ- yes hanz. *good*
+the-dump 2021-02-16 02:31:05 Yay, new map!
+the-dump 2021-02-16 02:31:16 No
+the-dump 2021-02-16 02:31:55 Add materials for motors and shit. Im tired of finding similar colors for those block types
+the-dump 2021-02-16 02:33:49 Hey obc
+the-dump 2021-02-16 02:33:56 
+the-dump 2021-02-16 02:35:31 HA
+the-dump 2021-02-16 02:35:36 Yay!
+the-dump 2021-02-16 02:35:40 Heil the bunny lord
+the-dump 2021-02-16 02:36:00 DONT OBC
+the-dump 2021-02-16 02:36:18 DONT PRESS ZAT VIDEO
+the-dump 2021-02-16 02:36:27 N e i n
+the-dump 2021-02-16 02:36:53 I spelled it correctly.
+the-dump 2021-02-16 02:37:11 The hell is a 'chicken thing'
+the-dump 2021-02-16 02:37:43 Hey obc watch this
+the-dump 2021-02-16 02:38:23 *WITH A GREAT LOW RATE YOU CAN GET ONLINE, GO TO THE GENERAL AND SAVE SOME TIME*
+the-dump 2021-02-16 02:39:01 Ja
+creations-chat 2021-02-16 02:43:19 <@808837541812764682> no criticism to give but i must know. What type of plane is that beautiful vehicle supposed to be?
+the-dump 2021-02-16 14:24:46 I require more shitpost videos.
+the-dump 2021-02-16 14:25:52 Say it
+the-dump 2021-02-16 14:26:12 Damn it i shoulda seen that coming.
+the-dump 2021-02-16 14:26:30 
+the-dump 2021-02-16 14:37:22 Starting chain. GUAYANDO 😎 👊
+the-dump 2021-02-16 14:37:40 GUAYANDO 😎 👊
+the-dump 2021-02-16 14:38:11 NEW CHAIN. GUAYANDO 😎 👊
+the-dump 2021-02-16 14:38:18 NOOOO
+the-dump 2021-02-16 14:38:29 GUAYANDO 😎 👊
+the-dump 2021-02-16 14:38:37 GUAYANDO 😎 👊
+the-dump 2021-02-16 14:38:42 GUAYANDO 😎 👊
+the-dump 2021-02-16 14:38:49 GUAYANDO 😎 👊
+the-dump 2021-02-16 14:38:55 GUAYANDO 😎 👊
+the-dump 2021-02-16 14:39:05 GUAYANDO 😎 👊
+the-dump 2021-02-16 14:39:10 GUAYANDO 😎 👊
+the-dump 2021-02-16 14:39:14 GUAYANDO 😎 👊
+the-dump 2021-02-16 14:39:18 GUAYANDO 😎 👊
+the-dump 2021-02-16 14:39:23 GUAYANDO 😎 👊
+the-dump 2021-02-16 14:39:27 GUAYANDO 😎 👊
+the-dump 2021-02-16 14:39:33 GUAYANDO 😎 👊
+the-dump 2021-02-16 14:39:38 GUAYANDO 😎 👊
+the-dump 2021-02-16 14:39:43 GUAYANDO 😎 👊
+the-dump 2021-02-16 14:39:58 GUAYANDO 😎 👊
+the-dump 2021-02-16 14:40:03 GUAYANDO 😎 👊
+the-dump 2021-02-16 14:40:11 GUAYANDO 😎 👊
+the-dump 2021-02-16 14:40:17 GUAYANDO 😎 👊
+the-dump 2021-02-16 14:40:21 GUAYANDO 😎 👊
+the-dump 2021-02-16 14:40:30 GUAYANDO 😎 👊
+the-dump 2021-02-16 14:40:40 GUAYANDO 😎 👊
+the-dump 2021-02-16 14:40:45 GUAYANDO 😎 👊
+the-dump 2021-02-16 14:40:49 GUAYANDO 😎 👊
+the-dump 2021-02-16 14:40:54 GUAYANDO 😎 👊
+the-dump 2021-02-16 14:40:57 GUAYANDO 😎 👊
+the-dump 2021-02-16 14:41:02 GUAYANDO 😎 👊
+the-dump 2021-02-16 14:41:06 GUAYANDO 😎 👊
+the-dump 2021-02-16 14:41:11 GUAYANDO 😎 👊
+the-dump 2021-02-16 14:41:14 GUAYANDO 😎 👊
+the-dump 2021-02-16 14:41:18 GUAYANDO 😎 👊
+the-dump 2021-02-16 14:41:21 GUAYANDO 😎 👊
+the-dump 2021-02-16 17:54:24 
+the-dump 2021-02-16 17:56:44 I love how no one cares about the video i posted up there
+the-dump 2021-02-16 17:56:59 Gut
+the-dump 2021-02-16 18:05:49 
+the-dump 2021-02-16 18:06:42 Ah. Hello fellow blacklisted
+the-dump 2021-02-16 18:07:13 How so?
+the-dump 2021-02-16 18:07:36 I see what you did there
+the-dump 2021-02-16 18:07:40 Aunt jemima
+the-dump 2021-02-16 18:08:44 3
+the-dump 2021-02-16 18:09:10 6
+the-dump 2021-02-16 18:09:41 6
+the-dump 2021-02-16 18:10:09 Damn it dard, stop throwing us off course
+the-dump 2021-02-16 18:10:40 -118
+the-dump 2021-02-16 18:10:54 -114
+the-dump 2021-02-16 18:10:59 -113
+the-dump 2021-02-16 18:11:12 -111
+the-dump 2021-02-16 18:11:22 -109
+the-dump 2021-02-16 18:11:27 -107
+the-dump 2021-02-16 18:11:34 -105
+the-dump 2021-02-16 18:11:41 -103
+the-dump 2021-02-16 18:11:49 -101
+the-dump 2021-02-16 18:12:09 -7
+the-dump 2021-02-16 18:12:16 -5
+the-dump 2021-02-16 18:12:20 -3
+the-dump 2021-02-16 18:12:23 -1
+the-dump 2021-02-16 18:12:26 0
+the-dump 2021-02-16 18:12:34 3
+the-dump 2021-02-16 18:12:37 5
+the-dump 2021-02-16 18:12:40 7
+the-dump 2021-02-16 18:12:42 8
+the-dump 2021-02-16 18:12:45 11
+the-dump 2021-02-16 18:12:48 13
+the-dump 2021-02-16 18:13:00 Never <:trollface:775024642104229898>
+the-dump 2021-02-16 18:13:05 17
+the-dump 2021-02-16 18:13:15 19
+the-dump 2021-02-16 18:13:20 21
+the-dump 2021-02-16 18:13:33 23
+the-dump 2021-02-16 18:13:42 25
+the-dump 2021-02-16 18:13:45 27
+the-dump 2021-02-16 18:13:48 29
+the-dump 2021-02-16 18:13:52 30
+the-dump 2021-02-16 18:13:55 32
+the-dump 2021-02-16 18:13:57 35
+the-dump 2021-02-16 18:13:59 Wait-
+the-dump 2021-02-16 18:14:11 38
+the-dump 2021-02-16 18:14:26 40
+the-dump 2021-02-16 18:14:32 41
+the-dump 2021-02-16 18:14:37 43
+the-dump 2021-02-16 18:14:40 45
+the-dump 2021-02-16 18:14:43 47
+the-dump 2021-02-16 18:14:47 49
+the-dump 2021-02-16 18:14:50 51
+the-dump 2021-02-16 18:14:53 53
+the-dump 2021-02-16 18:14:55 55
+the-dump 2021-02-16 18:15:00 57
+the-dump 2021-02-16 18:15:04 59
+the-dump 2021-02-16 18:15:09 61
+the-dump 2021-02-16 18:15:13 63
+the-dump 2021-02-16 18:15:16 65
+the-dump 2021-02-16 18:15:19 67
+the-dump 2021-02-16 18:15:23 69
+the-dump 2021-02-16 18:15:26 69
+the-dump 2021-02-16 18:15:29 69
+the-dump 2021-02-16 18:15:30 69
+the-dump 2021-02-16 18:15:31 69
+the-dump 2021-02-16 18:15:33 69
+the-dump 2021-02-16 18:15:38 69
+the-dump 2021-02-16 18:15:42 69
+the-dump 2021-02-16 18:15:44 69
+the-dump 2021-02-16 18:15:48 69
+the-dump 2021-02-16 18:15:51 96
+the-dump 2021-02-16 18:15:53 69
+the-dump 2021-02-16 18:15:54 96
+the-dump 2021-02-16 18:15:56 69
+the-dump 2021-02-16 18:15:58 96
+the-dump 2021-02-16 18:15:59 69
+the-dump 2021-02-16 18:16:00 96
+the-dump 2021-02-16 18:16:02 96
+the-dump 2021-02-16 18:16:02 69
+the-dump 2021-02-16 18:16:07 69
+the-dump 2021-02-16 18:16:08 96
+the-dump 2021-02-16 18:16:09 96
+the-dump 2021-02-16 18:16:10 69
+the-dump 2021-02-16 18:16:12 696
+the-dump 2021-02-16 18:16:14 I699gyu
+the-dump 2021-02-16 18:16:34 69668
+the-dump 2021-02-16 18:16:35 96
+the-dump 2021-02-16 18:16:35 696
+the-dump 2021-02-16 18:16:41 69
+the-dump 2021-02-16 18:16:42 696
+the-dump 2021-02-16 18:16:54 
+the-dump 2021-02-16 18:17:04 79
+the-dump 2021-02-16 18:17:06 79
+the-dump 2021-02-16 18:17:07 79697
+the-dump 2021-02-16 18:17:07 797
+the-dump 2021-02-17 15:21:24 
+the-dump 2021-02-17 15:24:15 Oh please i dont have tik tok, it was just in those new youtube stories thing (tik tok but on yt)
+the-dump 2021-02-18 01:32:49 Dave the icicle
+the-dump 2021-02-18 01:33:00 Why
+the-dump 2021-02-18 01:33:06 Dave did nothing wrong
+the-dump 2021-02-18 01:33:16 No. Dave has a family
+the-dump 2021-02-18 01:33:50 Nike needs to do this, itd sell like hot cakes.
+the-dump 2021-02-18 14:19:50 
+the-dump 2021-02-18 14:20:41 
+the-dump 2021-02-18 14:20:47 What
+the-dump 2021-02-18 14:27:55 Fine, christ.
+the-dump 2021-02-19 00:56:49 
+the-dump 2021-02-19 01:00:53 
+the-dump 2021-02-19 01:03:51 Okie dokie
+the-dump 2021-02-19 01:04:27 Done <@691985036261457982>
+the-dump 2021-02-19 01:11:42 Come get my gay ass, confederates
+the-dump 2021-02-19 01:11:54 <:trollface:775024642104229898>
+the-dump 2021-02-19 01:13:09 Coward
+the-dump 2021-02-19 01:14:29 Do it again <@499705220637392897>
+the-dump 2021-02-19 01:16:42 Im a coward
+the-dump 2021-02-19 01:16:51 Im a coward
+the-dump 2021-02-19 01:16:56 Im a coward
+the-dump 2021-02-19 01:17:02 Im a coward
+the-dump 2021-02-19 01:17:08 Im a coward
+the-dump 2021-02-19 01:18:44 <@499705220637392897>
+the-dump 2021-02-19 01:18:46 Guess what
+the-dump 2021-02-19 01:19:03 You're a coward
+the-dump 2021-02-19 01:19:21 Im a coward
+the-dump 2021-02-19 01:19:33 You keep deleting them
+the-dump 2021-02-19 01:19:43 Thus proving my point
+the-dump 2021-02-19 01:19:48 That you're a coward
+creations-chat 2021-02-19 01:59:17 <:sus:805543105428193301>
+the-dump 2021-02-19 02:05:52 
+the-dump 2021-02-19 02:06:24 Okie dokie 👍
+the-dump 2021-02-19 02:06:48 Done
+the-dump 2021-02-19 23:19:21 Raid Shadow Legends, one of the biggest mobile role-playing games of 2019 and it's totally free! Currently almost 10 million users have joined Raid over the last six months, and it's one of the most impressive games in its class with detailed models, environments and smooth 60 frames per second animations! All the champions in the game can be customized with unique gear that changes your strategic buffs and abilities! The dungeon bosses have some ridiculous skills of their own and figuring out the perfect party and strategy to overtake them's a lot of fun! Currently with over 300,000 reviews, Raid has almost a perfect score on the Play Store! The community is growing fast and the highly anticipated new faction wars feature is now live, you might even find my squad out there in the arena! It's easier to start now than ever with rates program for new players you get a new daily login reward for the first 90 days that you play in the game! So what are you waiting for? Go to the video description, click on the special links and you'll get 50,000 silver and a free epic champion as part of the new player program to start your journey! Good luck and I'll see you there!
+the-dump 2021-02-19 23:21:57 
+the-dump 2021-02-19 23:22:21 Okie dokie
+the-dump 2021-02-19 23:30:08 Damn it
+the-dump 2021-02-19 23:31:03 Hm yes
+the-dump 2021-02-19 23:31:10 *s p e e n*
+the-dump 2021-02-19 23:31:38 
+the-dump 2021-02-19 23:32:05 Well played, apex. Well played.👍
+the-dump 2021-02-19 23:32:22 Oh cmon
+the-dump 2021-02-19 23:33:27 
+the-dump 2021-02-19 23:33:47 .
+the-dump 2021-02-19 23:33:55 Well when you put it that way
+the-dump 2021-02-19 23:34:24 Hey guys
+the-dump 2021-02-19 23:34:33 Want to hear wanda-vision spoilers?
+the-dump 2021-02-19 23:34:55 Mein. Kampf
+the-dump 2021-02-19 23:36:24 And now, a stupid goat, doing stupid goat things
+the-dump 2021-02-19 23:36:57 *good soldiers follow orders*
+the-dump 2021-02-20 06:38:13 
+the-dump 2021-02-20 06:46:21 Pyromaster is now husbands with mlgmoose1
+the-dump 2021-02-20 06:46:34 Shit
+the-dump 2021-02-20 06:46:49 Ill give you this one pyro
+the-dump 2021-02-20 06:46:57 Well played.👍
+the-dump 2021-02-20 06:47:11 .
+the-dump 2021-02-20 06:47:15 Shciesse
+the-dump 2021-02-20 06:47:47 He already knows
+the-dump 2021-02-20 06:48:06 
+the-dump 2021-02-20 06:49:47 Good one
+the-dump 2021-02-20 06:50:35 👍
+creations-chat 2021-02-20 06:50:54 pcc<:sus:805543105428193301>
+help 2021-02-20 14:06:08 Add more weight. You can do this via ballast blocks or hull layers
+creations-chat 2021-02-23 03:06:26 <@719112686612512819> Good sir. I love your ship. No complaints. I only ask, for more pictures. I require many more.
+the-dump 2021-02-23 03:15:14 Hello there <:trollface:775024642104229898>
+the-dump 2021-02-23 03:15:36 Gut
+the-dump 2021-02-23 03:15:42 Im making a scharnhorst
+the-dump 2021-02-23 03:15:52 Also i got rid of the somalia
+the-dump 2021-02-23 03:15:54 :)
+the-dump 2021-02-23 03:16:28 
+the-dump 2021-02-23 03:16:29 Anywho
+the-dump 2021-02-23 03:17:22 To be fair i didnt give it the portside turret, i centered that bitch.
+the-dump 2021-02-23 03:18:18 You do realize having a portside turret would list it to hell, right?
+the-dump 2021-02-23 03:18:48 But itd be so impractical
+bot-central 2021-02-23 03:20:40 =play british national anthem
+the-dump 2021-02-23 03:20:52 Nein-
+the-dump 2021-02-23 03:21:40 Shall we go to our own server ash?
+the-dump 2021-02-23 03:22:05 To britian!
+bot-central 2021-02-23 03:33:25 =p union dixie
+bot-central 2021-02-23 03:33:28 =skip
+bot-central 2021-02-23 03:34:12 Hahq
+bot-central 2021-02-23 03:34:17 Im going to slep
+the-dump 2021-02-23 03:35:06 
+the-dump 2021-02-23 03:35:10 Huh
+bot-central 2021-02-23 03:35:59 <:ElonCelebrate:589671476337311755> <:ElonCelebrate:589671476337311755>
+bot-central 2021-02-23 03:36:12 =p union dixie
+bot-central 2021-02-23 03:37:19 =skip
+bot-central 2021-02-23 03:37:31 History
+bot-central 2021-02-23 03:37:35 Marching songs
+bot-central 2021-02-23 03:37:50 Understandable
+bot-central 2021-02-23 03:38:25 =skip
+bot-central 2021-02-23 03:38:43 This is a legitimately good jam ngl
+bot-central 2021-02-23 03:39:06 <:ElonCelebrate:589671476337311755> <:ElonCelebrate:589671476337311755>
+the-dump 2021-02-23 03:40:28 
+the-dump 2021-02-23 03:40:31 Funni goat
+creations-chat 2021-02-23 03:41:05 d
+the-dump 2021-02-23 03:41:50 .. no i got suggestions blacklist
+the-dump 2021-02-23 03:42:31 Lol
+the-dump 2021-02-23 03:43:14 Did it work?
+the-dump 2021-02-23 03:43:27 Sad
+the-dump 2021-02-23 03:43:51 I got blacklisted for putting up a petition for that one guy's ghidorah to get hof
+the-dump 2021-02-23 03:44:07 .
+the-dump 2021-02-23 03:44:13 You dont know what hof is?
+the-dump 2021-02-23 03:45:11 Good question, dont got a damn clue
+the-dump 2021-02-23 03:45:39 But hey, mine was for a good cause
+creations-chat 2021-02-24 03:23:12 Hm yes. *battleship* <:empty:794431705070174238> smh. He's using the 1890s definition when having 4 12 inch guns in 2 turrets counted as a battleship.
+creations-chat 2021-02-24 03:25:12 Fold the bridge
+creations-chat 2021-02-24 03:27:23 Ah. Well you still coulda thought it through more. (Also damn this 2 minutes slow down, makes having any conversation near impossible.)
+the-dump 2021-02-25 03:55:14 Finally, sanity
+the-dump 2021-02-25 03:55:58 No
+the-dump 2021-02-25 03:56:00 NOOO
+the-dump 2021-02-25 03:56:05 *W H Y*
+the-dump 2021-02-25 03:56:12 <:nooo:787097964946259978> <:nooo:787097964946259978> <:nooo:787097964946259978> <:nooo:787097964946259978>
+the-dump 2021-02-25 03:56:32 Whats the point of canards again
+the-dump 2021-02-25 03:57:20 .
+the-dump 2021-02-25 03:57:35 
+the-dump 2021-02-25 03:58:34 Cool
+bug-reports 2021-02-25 03:59:44 52 days
+the-dump 2021-02-25 04:00:20 That actually looks cool
+the-dump 2021-02-25 04:00:48 Also -10 radar detection
+the-dump 2021-02-25 04:01:00 .
+the-dump 2021-02-25 04:01:27 Idk man, that mix up there looks good to me
+the-dump 2021-02-25 04:01:35 Please no
+the-dump 2021-02-25 04:01:52 HISS
+the-dump 2021-02-25 04:01:56 WHY
+the-dump 2021-02-25 04:02:02 My eyes!
+the-dump 2021-02-25 04:02:53 Of course its the richest
+the-dump 2021-02-25 04:03:03 God damn those top 10 channels are shit
+creations-chat 2021-02-26 03:26:45 I like this one. Also syrus, your status is quite agreeable
+creations-chat 2021-02-26 03:32:08 This man is big brain right here
+the-dump 2021-02-26 03:45:01 
+the-dump 2021-02-26 03:45:28 the
+bug-reports 2021-02-26 03:51:20 Thats been like that for years.
+creations-chat 2021-02-26 03:53:17 Even then the shock wave cut off all the planes engines, and they landed with only 3 of the 4 working
+bug-reports 2021-02-26 03:54:49 How does one achieve 60 fps. On fucking *M o b i l e*
+bug-reports 2021-02-26 03:55:17 Level 3 graphics?
+creations-chat 2021-02-26 03:55:22 Since 30 minutes ago.
+bug-reports 2021-02-26 03:56:27 Nani-
+the-dump 2021-02-27 05:54:53 Ah, hello my dude
+the-dump 2021-02-27 05:55:32 I bullied this poor helicopter in pvp in my polikarpov po-2
+the-dump 2021-02-27 05:56:06 <:empty:794431705070174238>
+the-dump 2021-02-27 05:56:46 Yes
+the-dump 2021-02-27 05:57:10 Real
+bug-reports 2021-02-27 05:58:52 The god emperor!
+bug-reports 2021-02-27 05:59:00 HE HAS SPOKEN HOLY WORDS
+bug-reports 2021-02-27 05:59:08 Heil rick and his holy bunny obc
+bug-reports 2021-02-27 17:17:17 Wait *WHAT*
+bug-reports 2021-02-27 17:17:28 My 52 days. Gone
+bug-reports 2021-02-27 20:19:17 How
+creations-chat 2021-02-27 21:37:03 Because it doesnt look like an f4u
+creations-chat 2021-02-27 21:39:37 Firstly the wings arent bent upward like they should be, secondly the back gear is way too far up the tail, it should be under the vertical stabilizers, thirdly the cockpit is almost non existant.
+creations-chat 2021-02-27 21:41:42 Eh my corsair is 2 propped as well, im too lazy to motorlock a 3rd
+creations-chat 2021-02-27 21:43:50 We arent blind, we know, we can see that
+creations-chat 2021-02-27 21:45:52 Cool (and yes i just wasted my 2 minutes for this)
+the-dump 2021-02-27 23:38:13 
+the-dump 2021-02-28 00:32:40 *C A T*
+creations-chat 2021-02-28 02:08:41 At least simple history gets *most* of its facts right. Infographics show is just shit. A prime example is their video about the bismarck, full of blatant mistakes. I think that video was ai made imo because no human could so badly fuck up the hunt for the bismarck. They call the super marine spitfire 'submarine spitfire'
+creations-chat 2021-02-28 02:12:26 Dont forget the polish destroyer that harrassed the bismarck whilst flashing "i am a pole"
+creations-chat 2021-02-28 02:15:08 Disgusting. If you want near 100% accurate history, I'd recommend the great Mark Felton, and for naval history, Drachinifel.
+creations-chat 2021-02-28 02:17:09 Never heard of him. Whats his yt name. Also shall we take this to general?
+the-dump 2021-02-28 02:53:17 Whatd he take
+the-dump 2021-02-28 02:53:29 Your man eating ice meme?
+creations-chat 2021-02-28 02:54:16 Keep upvoting people, KEEP UPVOTING
+the-dump 2021-02-28 02:54:52 
+creations-chat 2021-02-28 02:56:58 Get it to 40 people, 40!
+creations-chat 2021-02-28 02:59:19 NOOO ITS GONE
+creations-chat 2021-02-28 03:01:31 Everyone downvote the bot message of the image deletion.
+bug-reports 2021-02-28 03:02:58 Indeed
+bug-reports 2021-02-28 03:09:37 A little over a year of play time on my main was 52 days
+bug-reports 2021-02-28 03:15:56 I got 52 days of playtime and I dont use custom angles
+the-dump 2021-02-28 03:16:49 Oh no
+the-dump 2021-02-28 03:16:58 Morshu in minecraft
+the-dump 2021-02-28 03:18:54 Lol
+the-dump 2021-02-28 03:23:08 He had to resort to emoticons. Here we go
+the-dump 2021-02-28 03:23:20 Im grabbing the popcorn, someone get the butter
+the-dump 2021-02-28 20:33:26 
+the-dump 2021-02-28 20:33:31 Science
+creations-chat 2021-02-28 20:34:15 I agree
+the-dump 2021-02-28 20:35:31 .
+the-dump 2021-02-28 20:35:33 Damn it
+the-dump 2021-02-28 20:35:44 1 word and it wasnt even bad
+the-dump 2021-02-28 20:40:12 
+the-dump 2021-03-01 13:20:48 https://youtu.be/2g2VPYzKHY0 the Graf Zepplin as a battlecarrier with 2 smoke destroyers. This video is enjoyable chaos.
+help 2021-03-04 02:51:36 Thats just the roblox audio purge at work.
+help 2021-03-04 02:52:33 It dont mean itll play in game
+the-dump 2021-03-05 03:44:03 Access denied
+creations-chat 2021-03-05 12:44:23 Bitch the wings are giant tie interceptor wings. Its. *simple*
+creations-chat 2021-03-05 12:49:23 I should send you to the salt mines. You'd be a rich source of salt lasting a few days
+bug-reports 2021-03-05 12:50:47 Not broken, audio purge.
+creations-chat 2021-03-05 12:51:50 Good, you've been put to use then.
+creations-chat 2021-03-09 15:25:10 <:PewPew:532303441293344778> 🍿
+help 2021-03-11 01:21:16 Can you speak english please?
+bug-reports 2021-03-11 01:22:05 <:nooo:787097964946259978>
+the-dump 2021-03-11 03:57:50 
+the-dump 2021-03-11 03:58:51 God damn it
+the-dump 2021-03-13 18:11:54 
+the-dump 2021-03-13 18:13:47 Wth is that cursed image
+the-dump 2021-03-13 18:14:02 My eyes, why
+the-dump 2021-03-13 18:15:44 
+the-dump 2021-03-13 18:16:29 .-.
+the-dump 2021-03-13 18:17:13 
+the-dump 2021-03-13 18:18:15 Ew, animated will smith
+the-dump 2021-03-13 18:18:17 Kill me
+bot-central 2021-03-13 18:19:49 =play The final solution Sabaton
+bot-central 2021-03-13 18:20:01 Damn commands
+bot-central 2021-03-13 18:20:04 !help
+bot-central 2021-03-13 18:20:37 =p The Final Solution Sabaton
+bug-reports 2021-03-14 16:01:41 Agreed. Make cutters double sided wedges and the world would be a better place.
+bot-central 2021-03-14 16:44:48 What the hell am i listening to
+bot-central 2021-03-14 16:45:25 ;;q
+bot-central 2021-03-14 16:45:34 Are you shitting me
+bot-central 2021-03-14 16:46:07 =p The final solution Sabaton
+bot-central 2021-03-14 16:50:35 =skip
+the-dump 2021-03-15 02:17:00 Abortion is just spawn killing children
+the-dump 2021-03-15 02:17:07 <:m_:778994206948589638>
+the-dump 2021-03-15 02:17:28 Yesn't
+the-dump 2021-03-15 02:18:19 Non't
+the-dump 2021-03-15 02:18:36 HISSSS, HISSSSSSS
+the-dump 2021-03-15 02:19:19 *in a raspy voice* DISGUSTING
+the-dump 2021-03-15 02:22:43 They hold power
+the-dump 2021-03-15 02:22:48 Just look at aoc
+the-dump 2021-03-15 02:22:51 And blm
+the-dump 2021-03-15 02:23:32 Nein. First amendment bitch
+the-dump 2021-03-15 02:24:18 No, this is Patrick
+the-dump 2021-03-15 02:25:23 The congress woman alexandria acosio cortez. We call her aoc because we dont want to type that long name every damn time.
+the-dump 2021-03-15 02:26:18 I approve this message
+the-dump 2021-03-15 02:26:44 The tanks are running away, XD
+the-dump 2021-03-15 02:27:23 
+the-dump 2021-03-15 02:27:34 <:trollface:775024642104229898>
+the-dump 2021-03-15 02:29:24 Why does the corner of his mouth move slightly in the gif
+the-dump 2021-03-15 02:30:11 *Y E S* <:trollface:775024642104229898>
+the-dump 2021-03-15 02:30:25 YES ANAKIN
+the-dump 2021-03-15 02:30:38 LET THE HATE FLOW THROUGH YOU!
+the-dump 2021-03-15 02:31:17 I KILLED NOT JUST THE MEN, BUT THE WOMEN AND THE CHILDREN TOO! THEY WERE LIKE ANIMALS. SO I SLAUGHTERED THEM LIKE ANIMALS!
+the-dump 2021-03-15 02:31:40 I- yes
+the-dump 2021-03-15 02:32:11 Finish the line
+the-dump 2021-03-15 02:32:21 Yes
+the-dump 2021-03-15 02:32:36 Our only hope is the proles
+the-dump 2021-03-15 02:33:22 Bring balance to the force, not leave it in darkness!
+the-dump 2021-03-15 02:33:39 You were my brother, anakin! I loved you
+the-dump 2021-03-15 02:34:08 
+the-dump 2021-03-15 02:34:14 <:trollface:775024642104229898>
+the-dump 2021-03-15 02:35:19 
+the-dump 2021-03-15 02:39:03 
+creations-chat 2021-03-16 01:15:11 <@703429396475805756>  love how you put the divided states of America. Very accurate.
+the-dump 2021-03-16 01:39:49 
+the-dump 2021-03-16 01:40:14 What bypass
+the-dump 2021-03-16 01:41:07 
+creations-chat 2021-03-16 01:48:08 Yes, what is his wisdom
+help 2021-03-16 23:39:05 I- HOW
+creations-chat 2021-03-17 01:51:31 My-262
+the-dump 2021-03-18 02:30:23 Tick
+creations-chat 2021-03-18 21:30:06 "Battleship" XD <@456226577798135808>
+creations-chat 2021-03-18 21:36:46 <@456226577798135808> Ive seen better "battleships" than this. REALLY doesn't take that much time to have an actual turret or 2.
+help 2021-03-19 12:01:56 If its mouse control and the torque is above 30 it won't work
+help 2021-03-19 12:02:40 The mouse isnt the issue
+help 2021-03-19 12:02:47 The wings wont move will they <@707476805937922118>
+help 2021-03-19 12:03:16 Oh
+help 2021-03-19 12:03:21 Idk then
+creations-chat 2021-03-20 20:21:12 Where is the nose cone. Like cmon all you need to do is put a pyramid wedge on the nose.
+creations-chat 2021-03-21 13:58:40 Agreed
+creations-chat 2021-03-21 14:01:01 Fantastic, maybe add the iron cross with a red band on the bow.
+creations-chat 2021-03-21 14:47:10 Voting against joe? Good. Voting for joe? <:LULW:719972409947717727>
+help 2021-03-21 14:49:25 Motor 2
+help 2021-03-21 14:49:30 Angle 45 degrees
+help 2021-03-21 15:00:15 Motor 2s dont lag my plane, they just shake for 20 minutes then decide they want to be a rocket ship and fling off into the atmosphere. Except when they don't.
+help 2021-03-21 15:03:13 Not really my planes just decide whether or not they want to be autistic
+help 2021-03-21 15:03:32 Ik that
+help 2021-03-21 15:03:59 Most of the time i use motor 2 to give my wings a slight angle upwards
+help 2021-03-21 15:04:03 Nothing real special
+help 2021-03-21 15:04:31 But for some reasons when i want to have my vertical stabilizers on my f18 angled slightly, then they become autistic.
+creations-chat 2021-03-21 15:05:35 <@784805177517539349> tmi
+creations-chat 2021-03-21 15:15:08 Too Much Information. The build itself is nice but i feel like the ship's entire mission profile is a bit. Much.
+creations-chat 2021-03-21 15:18:18 Never downvoted it
+creations-chat 2021-03-21 15:34:25 Not even redstone, thats just dead on automation.
+help 2021-03-21 15:34:56 Use the standard jet nose
+help 2021-03-21 15:35:08 Ie a pyramid wedge with half wedge downs around it
+creations-chat 2021-03-21 15:36:41 Because no one cares. We come to creations to see creations, not lgbtq representation. If we wanted to see representation we'd go to the hell hole that is tumblr
+creations-chat 2021-03-21 15:44:16 But its not really funny.
+help 2021-03-21 16:58:20 Yatzi friendship windmill?
+creations-chat 2021-03-21 17:43:35 <@605952678459342858> nice gotha, maybe add a bomb inside the fuselage. Looked at a schematic and there appears to be a small bomb bay.
+help 2021-03-21 17:43:55 Im just asking what the symbol was
+creations-chat 2021-03-21 17:45:57 XD "absurd amount of motorlock" they have clearly never met my friend CT-714
+creations-chat 2021-03-21 17:47:58 Pog
+help 2021-03-21 17:54:53 On a boat or a cube
+help 2021-03-21 17:55:33 The windmill was the vehicle?
+help 2021-03-21 17:55:37 Ew
+creations-chat 2021-03-21 17:56:09 I-
+creations-chat 2021-03-21 17:59:04 Pog yamato
+creations-chat 2021-03-21 18:02:11 That explains why there isnt a forest of aa guns.
+creations-chat 2021-03-21 20:21:04 Did that kid just get salty over a tutorial. That he didnt even design. And took the credit for? Oh god whatve i done.
+creations-chat 2021-03-21 20:25:15 Cool
+creations-chat 2021-03-21 20:32:40 Agreed. Join the navy
+creations-chat 2021-03-21 20:34:46 Space battleship yamato disagrees. It can fly, drive, and be a submarine. All the while blasting away gamalons.
+creations-chat 2021-03-22 00:32:21 <@754238494083252224> maybe add some curves in the fuselage with wedges and make it not a block? Also add some bombs and shrink the tail fins, besides that you're good.
+creations-chat 2021-03-22 00:37:31 Debatable, im looking at a schematic and the tail fins on yours are pretty big
+creations-chat 2021-03-22 00:40:11 Make them shorter by 2 blocks and then itll be scale ,because it appears on the schematic the tail fins end at the prop's center, hope that schematic helps.
+bug-reports 2021-03-22 00:59:08 Shared plots bug, me and this other player named Wyat110308. On an additional note I'd like him banned for making a male no no part.
+creations-chat 2021-03-22 17:13:13 How hard is it for people to motorlock some wing panels to hide the cheese graters?
+creations-chat 2021-03-23 02:13:25 🔫
+creations-chat 2021-03-24 03:10:48 Man. Its almost as if you aren't supposed to put wips in creations. Oh wait.
+creations-chat 2021-03-25 11:37:19 <@517340132320215040> maybe post it during day time? It looks fine from what im able to see, but i want to see all of it not just the deck.
+the-dump 2021-03-26 02:32:19 Japanese pogda masts in a nutshell
+creations-chat 2021-03-27 14:05:18 <@346438146549874688> *Clears throat* Hes a semi aquatic, egg laying mammal of action!
+the-dump 2021-03-27 14:14:52 
+bug-reports 2021-03-28 01:16:59 Thats motors in a nutshell. They do what you tell them to one second, and the next they decide they want to be a hyperdrive and fling you into the kyper belt.
+creations-chat 2021-03-28 01:28:04 <@466793357318815744> nothing bad about the build in my opinion, im just astounded at the rc 109. I genuinely couldn't tell it was attached to the b17 till you zoomed on the suspension.
+creations-chat 2021-03-30 11:43:02 <:Yikes:704804144657203220>
+creations-chat 2021-03-30 11:45:04 <@757887014388367401> I love the ship. But why are the turret tops bright blue?
+creations-chat 2021-03-30 11:50:59 Ok. But still he could make it less bright. Id say 25 25 200 would be good
+creations-chat 2021-03-31 02:38:09 Jesus christ thats impressive. Scarily impressive.
+the-dump 2021-04-01 03:11:56 And now we wait
+the-dump 2021-04-01 03:13:00 Im fine with *most* lgtbq people.
+the-dump 2021-04-01 03:13:19 Shrug
+the-dump 2021-04-01 03:13:28 The other 26 genders that dont exist
+the-dump 2021-04-01 03:13:55 Rap
+the-dump 2021-04-01 03:14:15 Because superstraights
+the-dump 2021-04-01 03:14:46 
+the-dump 2021-04-01 03:14:50 The go fund me you mentioned is in this vid
+the-dump 2021-04-01 03:15:21 Lol
+the-dump 2021-04-01 03:16:04 Thats their mentality. You're completely with them or completely against them, and every ist and phobe in the book.
+the-dump 2021-04-01 03:16:33 This is why we need a political channel
+the-dump 2021-04-01 03:16:36 Things like this.
+the-dump 2021-04-01 03:17:07 
+the-dump 2021-04-01 03:17:14 <:trollface:775024642104229898>
+the-dump 2021-04-01 03:17:47 I have no clue my dude
+the-dump 2021-04-01 03:18:12 Lol
+the-dump 2021-04-01 03:19:01 Roofies is appropriate considering joe's son was dishonorably discharged from the military for being a marijuana addict
+the-dump 2021-04-01 03:19:45 Actually maybe it was coke
+the-dump 2021-04-01 03:19:52 I cant remember
+the-dump 2021-04-01 03:20:08 The powder coke
+the-dump 2021-04-01 03:20:31 <:OmegaTroll:626841385118597152>
+the-dump 2021-04-01 03:20:52 <:empty:794431705070174238>
+the-dump 2021-04-01 03:21:26 
+the-dump 2021-04-01 03:23:36 I- how- Ant Eater fish.
+help 2021-04-03 04:20:45 USS Johnston, the fletcher class destroyer that ran head first into a japanese battle line
+help 2021-04-03 04:20:51 That included yamato
+help 2021-04-03 04:21:27 Long enough to get a good torp off onto a heavy cruiser
+help 2021-04-03 04:22:02 And when her guns got out of range, her captain turned her back into gun range
+help 2021-04-03 04:22:08 The fucking chad
+the-dump 2021-04-03 13:14:25 Another cat
+bot-central 2021-04-03 13:26:56 !skip
+bot-central 2021-04-03 13:27:00 =skip
+bot-central 2021-04-03 13:27:03 Yay
+bot-central 2021-04-03 13:27:45 =play dixie Tennessee Ernie Ford
+bot-central 2021-04-03 13:28:02 <:ElonCelebrate:589671476337311755>
+bot-central 2021-04-03 13:28:19 Roger
+the-dump 2021-04-03 13:28:43 
+the-dump 2021-04-03 13:28:54 Japanese masts = jenga
+the-dump 2021-04-03 13:53:37 
+the-dump 2021-04-03 13:53:57 Just your daily reminder that that video contains about a third of what twitter acts like
+the-dump 2021-04-03 14:07:36 Np
+the-dump 2021-04-03 16:25:33 Yes.
+the-dump 2021-04-04 14:54:42 
+the-dump 2021-04-04 14:55:27 3rd ending :no one gives a shit.
+the-dump 2021-04-04 14:56:04 Touché
+bot-central 2021-04-04 14:57:52 :play yamato
+bot-central 2021-04-04 14:58:10 !play star blazers intro music
+bot-central 2021-04-04 14:58:14 Damn bot
+bot-central 2021-04-04 14:58:49 ;;p star blazer intro
+bot-central 2021-04-04 14:59:06 2
+the-dump 2021-04-04 15:08:32 
+the-dump 2021-04-04 15:08:47 Just your daily reminder that lgbtq people on twitter are horrible
+the-dump 2021-04-04 16:57:56 
+creations-chat 2021-04-04 16:59:28 <@625321669539397662> show us different angles, that one is not a good angle. Also what the hell is that thicc neck
+the-dump 2021-04-05 00:59:49 God
+the-dump 2021-04-05 00:59:50 Damn
+the-dump 2021-04-05 00:59:51 It
+the-dump 2021-04-05 01:01:10 Im not surprised at this point. A british doctor lost her job over stating on twitter that trans people arent the assigned biological "gender" they claim to be
+the-dump 2021-04-05 01:01:27 I used gender in place of the s e word
+the-dump 2021-04-05 01:01:43 Indeed
+the-dump 2021-04-05 01:02:01 
+the-dump 2021-04-05 01:02:05 Bruh
+the-dump 2021-04-05 01:02:36 Im not gonna deny it because you're right
+the-dump 2021-04-05 01:03:13 Boom
+the-dump 2021-04-05 01:03:13 Cool, heres mine.
+the-dump 2021-04-05 01:03:22 Yes
+the-dump 2021-04-05 01:03:41 *sad sherman noises*
+the-dump 2021-04-05 01:04:19 
+the-dump 2021-04-05 01:04:22 Jenga mast
+creations-chat 2021-04-05 01:10:13 <@466793357318815744> have you been just letting that sit for awhile or did you build it today.
+the-dump 2021-04-05 01:12:43 
+creations-chat 2021-04-05 01:17:14 Raf spots are different and the cockpit frame isn't as well made as dryreborn's
+help 2021-04-05 21:04:23 .. you are gonna have a superstructure on the back? And not the side?
+help 2021-04-05 21:06:17 *w h y*
+help 2021-04-05 21:07:17 Depends on how you use it
+help 2021-04-05 21:08:01 Fine with me
+help 2021-04-05 21:08:40 🤷
+the-dump 2021-04-06 02:49:09 Name said event, and tell us about it
+the-dump 2021-04-06 02:49:33 Good, mostly partisan bullshit whenever theres a shooting
+the-dump 2021-04-06 02:49:55 Oh yeah
+the-dump 2021-04-06 02:50:03 Thought you meant something new
+the-dump 2021-04-06 02:50:23 Its a preference
+the-dump 2021-04-06 02:50:35 And preferences are part of the community
+the-dump 2021-04-06 02:50:43 So true though
+the-dump 2021-04-06 02:51:30 This is news to you?
+the-dump 2021-04-06 02:51:48 Send screenshots here
+the-dump 2021-04-06 02:51:55 I want to see them squeal
+the-dump 2021-04-06 02:52:26 Oh shit my neighbors are having an argument, im gonna get down behind my bed just to be safe.
+the-dump 2021-04-06 02:53:14 Since we have to be equal, so is being lesbian
+the-dump 2021-04-06 02:54:03 I'd also like to remind yall that twitter harrassed gina carano about not putting pronouns in her twitter bio, and claimed she was transphobic for it.
+the-dump 2021-04-06 02:54:13 When she did put pro nouns, know what she put?
+the-dump 2021-04-06 02:54:19 Beep bop boop.
+the-dump 2021-04-06 02:54:23 XD
+the-dump 2021-04-06 02:54:40 Indeed.
+the-dump 2021-04-06 02:54:53 And corporations take twitter seriously. <:KEKW:670310537300672528>
+the-dump 2021-04-06 02:55:30 Media is dying without orange man
+the-dump 2021-04-06 02:56:38 Im not gonna disagree, or agree (mainly to not show most of my political views), but with that being said
+the-dump 2021-04-06 02:56:46 Grab the popcorn, and let the show begin
+the-dump 2021-04-06 02:57:31 At least JFK hated commies-
+the-dump 2021-04-06 02:57:38 🤣 🤣
+the-dump 2021-04-06 02:58:21 No, lgbtq is .9% of society
+the-dump 2021-04-06 02:58:39 True
+the-dump 2021-04-06 02:58:47 Oh you forget to make it 3rds
+the-dump 2021-04-06 02:59:01 1 third is the race war the media wants.
+the-dump 2021-04-06 02:59:40 "Nerds to cover"
+the-dump 2021-04-06 02:59:51 Also yes
+the-dump 2021-04-06 03:00:55 I hate you
+the-dump 2021-04-06 03:00:58 Why
+the-dump 2021-04-06 03:01:03 Why would you ruin gvk
+the-dump 2021-04-06 03:01:16 One of the greatest rivalries of cinema
+the-dump 2021-04-06 03:01:25 
+the-dump 2021-04-06 03:02:47 
+the-dump 2021-04-06 03:02:49 Gun
+the-dump 2021-04-06 03:03:20 Pew pew
+the-dump 2021-04-06 03:04:02 Ew, atf
+the-dump 2021-04-06 03:04:21 Woah, did you know people kill people?
+the-dump 2021-04-06 03:04:55 <:KEKW:670310537300672528>
+the-dump 2021-04-06 03:05:57 Did you know, taking away guns won't solve gun violence?
+the-dump 2021-04-06 03:06:11 Wait shit-
+the-dump 2021-04-06 03:06:56 WOW MCMICONNEL, THATS SO GOOD TO KNOW
+the-dump 2021-04-06 03:07:20 WHY DIDNT WE THINK ABOUT THIS BEFORE, OH RIGHT, *we suck the establishment's ass*
+the-dump 2021-04-06 03:08:10 Can the dump become the politics channel now?
+the-dump 2021-04-06 03:08:37 I saw what it said
+the-dump 2021-04-06 03:08:39 :)
+the-dump 2021-04-06 03:09:06 Idiots : GHosT GuN
+the-dump 2021-04-06 03:09:48 HUH
+the-dump 2021-04-06 03:10:30 Can we go back to owning private warships like in the 1800s?
+the-dump 2021-04-06 03:10:40 I want my own missile destroyer
+the-dump 2021-04-06 03:11:05 I want to commit toaster in water.
+the-dump 2021-04-06 03:11:55 Wait no aim it at the dems-
+the-dump 2021-04-06 03:13:16 Dronebomba is at it again
+the-dump 2021-04-06 03:14:07 Biden during the campaign: "I will end the wars in the middle east!" Biden, not 2 months later : I'm gonna take this here drone for a little spin in syria.
+the-dump 2021-04-06 03:14:51 No
+the-dump 2021-04-06 03:15:22 Not chinese rule. *yet*
+the-dump 2021-04-06 03:15:35 Rn we're basically ran by the establishment dems
+the-dump 2021-04-06 03:16:02 Gee if only we didnt take all our fucking jobs to china-
+the-dump 2021-04-06 03:16:06 .
+the-dump 2021-04-06 03:16:39 He'll kick the bucket before he leaves office
+the-dump 2021-04-06 03:17:06 Remember when he fell *up* stairs?
+the-dump 2021-04-06 03:17:57 No hes an old man with dementia who doesnt know what the hell he's doing.
+the-dump 2021-04-06 03:18:09 Its Kamala doing the rule shit
+the-dump 2021-04-06 03:18:17 Nein
+the-dump 2021-04-06 03:18:39 Hm yes, i assaulted a man with a book, therefore an assault weapon.
+the-dump 2021-04-06 03:19:07 If i get smacked so does <@611251614178869269>
+the-dump 2021-04-06 03:19:34 
+the-dump 2021-04-06 03:20:49 Answer to all of those : Joseph R. Biden
+the-dump 2021-04-06 03:21:09 Yo what are those beaver teeth on joe
+the-dump 2021-04-06 03:21:15 Look at em, good lord
+the-dump 2021-04-06 03:22:29 *clears throat*
+the-dump 2021-04-06 03:22:41 Theres a yelliw rose in Texas, im going there to see
+the-dump 2021-04-06 03:22:55 No other feller knows her, no feller known to me
+the-dump 2021-04-06 03:24:17 Guten tag, i must sleep
+the-dump 2021-04-07 02:33:14 
+the-dump 2021-04-07 02:33:16 He was bored
+help 2021-04-07 11:49:58 Make a stack on the other side
+help 2021-04-07 11:50:10 Just do
+help 2021-04-07 11:51:04 I think so
+the-dump 2021-04-07 11:54:10 Oh no
+help 2021-04-07 11:55:40 They won't stop the bug per-say. More like, smoothen the bug. That thing can still happen with motor 1 but its far less likely.
+the-dump 2021-04-07 12:00:17 Whomst is yousuf
+the-dump 2021-04-07 12:01:16 Oh
+the-dump 2021-04-07 12:01:22 Well shi-
+the-dump 2021-04-07 12:01:37 Why
+the-dump 2021-04-07 12:01:51 Its just an example of why lgbtq twitter is bad
+the-dump 2021-04-07 12:02:16 Uh huh. It proves the video's point further
+the-dump 2021-04-07 12:02:52 Man ive posted that video before, and before me another dude had it posted
+the-dump 2021-04-07 12:03:37 Oh so you admit you're a snitch
+the-dump 2021-04-07 12:04:04 Well guess what, i have no clue who you were and i have never snitched on you
+the-dump 2021-04-07 12:04:10 So that doesnt seem like a fair deal
+the-dump 2021-04-07 12:04:29 True
+the-dump 2021-04-07 12:04:50 No
+the-dump 2021-04-07 12:04:55 No amogus
+the-dump 2021-04-07 12:05:50 Made a poll in suggestions for a guy who rightfully deserved hof
+the-dump 2021-04-07 12:06:06 He made a working king ghidorah that could fly and move and shit like that.
+the-dump 2021-04-07 12:07:32 Exactly
+the-dump 2021-04-07 12:07:37 Thats why i made the poll
+creations-chat 2021-04-07 21:33:38 What is bp rt. 
+
+Ight thanks.
+bug-reports 2021-04-10 12:59:37 I live in the fps range of 23 to 15
+the-dump 2021-04-10 13:50:07 
+the-dump 2021-04-10 13:50:12 *h e l l o*
+the-dump 2021-04-10 13:51:33 The joke is theres a face. But ok
+bug-reports 2021-04-10 15:30:08 Not oof
+the-dump 2021-04-11 00:09:27 No no. I like this one.
+creations-chat 2021-04-11 01:38:33 <@578603895736238100> i like the concept, but can you paint it another color so we can get a better view of the angles?
+the-dump 2021-04-11 15:00:23 No
+the-dump 2021-04-11 15:00:52 Big sad
+the-dump 2021-04-11 15:21:57 *j e n g a*
+creations-chat 2021-04-11 17:47:40 Luftwaffle is luftwaffle
+bug-reports 2021-04-11 20:57:26 You figured that out just now?
+the-dump 2021-04-12 02:40:44 Its nerf or nothing, so.
+the-dump 2021-04-12 02:44:21 
+the-dump 2021-04-12 02:47:35 Just your evening reminder that this is how a good portion of the LGBT community acts on twitter
+the-dump 2021-04-12 02:51:53 How is this a hard decision, its nerf or nothing man
+help 2021-04-12 02:54:09 F-90 black dagger? 🤷
+the-dump 2021-04-12 02:58:51 *h e w o*
+the-dump 2021-04-12 03:01:47 
+the-dump 2021-04-12 03:03:25 Liberals
+the-dump 2021-04-12 03:04:07 They see anything with a big mag and a black stock and go : REEEEE, ITS AN ASSAULT WEAPON. A WEAPON OF WAR, ITS A MACHINE GUN
+the-dump 2021-04-12 03:04:55 Woah-
+the-dump 2021-04-12 03:05:22 Ok...
+the-dump 2021-04-12 03:06:44 . Where???
+the-dump 2021-04-12 03:06:47 ??????
+the-dump 2021-04-12 03:07:01 <:KEKW:670310537300672528>
+the-dump 2021-04-12 03:07:21 Dude. Its part of the video
+the-dump 2021-04-12 03:07:34 Alright, alright, karens
+the-dump 2021-04-12 03:07:50 There, happy?
+the-dump 2021-04-12 03:08:24 🙃 🔫
+the-dump 2021-04-12 03:12:56 
+the-dump 2021-04-12 03:13:39 
+the-dump 2021-04-12 03:14:35 
+the-dump 2021-04-12 03:15:45 
+the-dump 2021-04-13 02:47:28 
+the-dump 2021-04-13 02:52:47 
+the-dump 2021-04-13 03:05:50 GUAYANDO 😎 👊
+the-dump 2021-04-14 01:35:58 Just your daily reminder of how a good portion of LGBTQ twitter acts on the daily.
+creations-chat 2021-04-14 01:37:02 He isn't asking you to build it in 5 seconds. Just that you built that and only that until completion. Or get shot.<:trollface:775024642104229898>
+the-dump 2021-04-14 01:38:06 Oh <@712273624865701921> how did posting why straight people need to exist on twitter go?
+the-dump 2021-04-14 01:38:52 *oof*
+the-dump 2021-04-14 01:39:08 Post it in a LGBTQ thread
+the-dump 2021-04-14 01:39:14 Then itll get traction
+creations-chat 2021-04-14 01:39:21 Kill me
+the-dump 2021-04-14 01:40:11 Good anakin, *goooooood*
+the-dump 2021-04-14 01:40:37 Hacker 4chan is better than the fbi
+the-dump 2021-04-14 01:41:01 Like calling a dog a cat?
+the-dump 2021-04-14 01:41:23 Or smacking a flight deck on a battleship and calling it a carrier. *COUGH* IJN ISE *COUGH*
+the-dump 2021-04-14 01:42:19 Femboys dont claim to be women, they are just very feminine
+the-dump 2021-04-14 01:42:36 Also
+the-dump 2021-04-14 01:42:38 Did you know
+the-dump 2021-04-14 01:42:59 The burger king impossible Whopper has 18 million times more estrogen than a normal Whopper.
+the-dump 2021-04-14 01:43:18 If you ate 4 impossible whoppers a day. For like 6 months. You would grow fucking breasts
+the-dump 2021-04-14 01:44:04 A doctor did a study, along with some maths
+the-dump 2021-04-14 01:44:15 Bruh
+the-dump 2021-04-14 01:44:24 Idk the doc was bored i guess
+the-dump 2021-04-14 01:45:30 America, fuck yeah! Freedom is the only way, yeah. America! Fuck yeah, whatcha gonna do when we come for you now!
+the-dump 2021-04-14 01:45:55 True
+the-dump 2021-04-14 01:46:10 Yes
+the-dump 2021-04-14 01:46:16 *please*
+the-dump 2021-04-14 01:47:20 The Tiananmen Square insurrection was a violent uprising against the all mighty communist party, all who believe otherwise are traitors to the party.
+the-dump 2021-04-14 01:48:08 Grocery guy!
+the-dump 2021-04-14 01:48:32 *punches chest, salute* you will be remembered, grocery guy.
+the-dump 2021-04-14 01:49:37 Ok, can we move onto *actual politics*?
+the-dump 2021-04-14 01:49:45 :(
+the-dump 2021-04-14 01:49:59 <:nooo:787097964946259978>
+the-dump 2021-04-14 01:50:19 Ok then, I'll jump start the politics myself
+the-dump 2021-04-14 01:50:33 Now what controversial topic to choose
+the-dump 2021-04-14 01:50:54 Floyd, January 6th, Russia Gate
+the-dump 2021-04-14 01:50:58 This is hard
+the-dump 2021-04-14 01:51:13 Eh fuck it, Russia Gate
+the-dump 2021-04-14 01:51:54 If you believe Donald Trump had help from the russians in the 2016 election, downvote this text. If you think he didnt,  upvote
+the-dump 2021-04-14 01:52:24 I like these results
+the-dump 2021-04-14 01:53:08 Now, would those who upvoted like to explain why you believe trump won without interference?
+the-dump 2021-04-14 01:53:48 You didnt upvote or downvote, shut
+the-dump 2021-04-14 01:54:33 Ok im getting nowhere with this
+the-dump 2021-04-14 01:54:45 Next topic, gun control
+the-dump 2021-04-14 01:55:19 Under what circumstances?
+the-dump 2021-04-14 01:56:14 Yeah
+the-dump 2021-04-14 01:56:47 Gun control
+the-dump 2021-04-14 01:57:04 Why should we allow our guns to be taken away, when criminals can still get them illegally
+the-dump 2021-04-14 01:57:29 Then the law abiding citizens will be disarmed, while the criminals run rampant
+the-dump 2021-04-14 01:58:04 And dont give me that "oh the cops will save you you don't need guns." Cops can be minutes away when seconds matter.
+the-dump 2021-04-14 01:59:00 .
+the-dump 2021-04-14 01:59:06 Yes
+help 2021-04-14 01:59:37 Hold on the ground
+the-dump 2021-04-14 02:00:12 I dont get it.
+the-dump 2021-04-15 02:14:53 🤮 🔫
+the-dump 2021-04-15 02:19:06 
+the-dump 2021-04-15 02:22:02 
+the-dump 2021-04-15 02:23:53 
+the-dump 2021-04-16 12:10:52 Wait fuck is that a godzilla vs kong clip
+creations-chat 2021-04-17 12:09:04 <@653059099533115423> dude, that monster house is sick, can it transform?
+creations-chat 2021-04-17 16:08:49 Damn it. Still looks good.
+the-dump 2021-04-17 20:40:09 
+the-dump 2021-04-17 20:40:50 <:nooo:787097964946259978> 🔫
+the-dump 2021-04-17 20:41:45 *S T O P*
+the-dump 2021-04-17 20:41:50 AAAAAAA
+the-dump 2021-04-17 20:42:11 Racism 😎 💪
+the-dump 2021-04-17 20:43:05 I-
+the-dump 2021-04-17 20:43:09 🤮 🔫
+the-dump 2021-04-17 20:43:12 🤮 🔫
+the-dump 2021-04-17 20:43:13 🤮 🔫
+the-dump 2021-04-17 20:43:15 🤮 🔫
+the-dump 2021-04-17 20:43:50 By furry logic, if they identify as a dog or deer, we can legally shoot them.
+the-dump 2021-04-17 20:43:56 Manslaughter!-
+the-dump 2021-04-17 20:44:25 I am THIS CLOSE 🤏 to blocking you
+the-dump 2021-04-17 20:45:14 What if they identify as a wild dog
+the-dump 2021-04-17 20:45:26 Ight thats it
+the-dump 2021-04-17 20:45:41 ?block Da_Dawgdee
+the-dump 2021-04-17 20:45:56 Shit how i block someone
+bot-central 2021-04-17 20:46:36 !block <@521426560323026949>
+bot-central 2021-04-17 20:46:40 Damn it
+creations-chat 2021-04-17 20:47:18 .
+the-dump 2021-04-17 20:49:36 
+the-dump 2021-04-17 20:50:08 Oh yes
+the-dump 2021-04-17 20:50:28 We do a little trolling
+the-dump 2021-04-17 21:16:48 https://youtu.be/LG1FWWX7ZPk
+help 2021-04-18 00:21:31 Yall how can i made a 3 bladed prop like <@328892438544646144>
+help 2021-04-18 00:21:47 Dumb question ik
+the-dump 2021-04-29 03:03:26 <:nooo:787097964946259978> 🔫 😫
+the-dump 2021-04-29 11:51:29 Top tier content, 10/10
+the-dump 2021-04-29 11:51:43 Boo
+the-dump 2021-04-29 11:55:21 No
+the-dump 2021-04-29 11:55:30 No friday night funking
+the-dump 2021-04-29 11:56:04 <:m_:778994206948589638>
+the-dump 2021-04-29 11:57:23 Tom Hanks is a time traveler confirmed
+the-dump 2021-04-29 20:51:47 
+creations-chat 2021-04-30 21:07:06 Man really just wasted his 2 minutes by saying guys.
+creations-chat 2021-05-01 19:55:29 Tell that to the *kamikaze with guns.* <:KEKW:670310537300672528>
+the-dump 2021-05-01 19:58:29 <:Upvote:490311647492309004> <:KEKW:670310537300672528>
+the-dump 2021-05-01 20:06:55 
+the-dump 2021-05-01 20:10:10 What in the hell
+the-dump 2021-05-01 20:10:15 Burn it
+the-dump 2021-05-01 20:10:24 Burn the whole damn forest if you have to
+the-dump 2021-05-01 21:08:57 Ew, a commie
+creations-chat 2021-05-02 15:15:07 <@694235233368801400>  no wips in creations, post them here or in plane crazy
+the-dump 2021-05-02 15:57:42 Hail Lobster 🦞
+the-dump 2021-05-02 15:58:31 <:nooo:787097964946259978>
+the-dump 2021-05-02 18:27:34 
+creations-chat 2021-05-02 19:23:41 <@456226577798135808> next ship is the penny aint it.
+creations-chat 2021-05-02 19:26:10 Oh im dumb then
+creations-chat 2021-05-02 19:38:31 God. Damn. It. You ruined a dreadnought battleship with that 1 analogy.
+creations-chat 2021-05-02 21:24:53 Sitting in a drone shed wanting to bomb syria again.
+help 2021-05-02 21:26:18 250 on all color codes
+help 2021-05-02 21:27:40 "Has perms" grammar 100
+help 2021-05-02 21:28:04 Shrug
+the-dump 2021-05-02 21:32:22 Kill me
+the-dump 2021-05-02 21:41:20 Just a reminder this is how a good portion of LGBTQ twitter acts and thinks.
+the-dump 2021-05-02 21:41:25 Damn video
+the-dump 2021-05-02 21:42:56 Bruh, before i could upload the its ok to be superstraight vid
+the-dump 2021-05-02 21:43:12 Now i cant because discord is greedy and wants me to pay nitro for a larger than 8mb video
+the-dump 2021-05-02 21:44:33 Nope
+the-dump 2021-05-02 21:44:44 Give me screenies of these events
+the-dump 2021-05-02 21:45:22 Oh
+the-dump 2021-05-02 21:45:24 .-.
+the-dump 2021-05-02 21:45:40 Shit now im disappointed in myself
+the-dump 2021-05-02 21:45:54 What were they
+the-dump 2021-05-02 21:46:13 <:nooo:787097964946259978>
+the-dump 2021-05-02 21:46:24 Yo im watching breaking bad
+the-dump 2021-05-02 21:46:51 Damn it
+the-dump 2021-05-02 21:47:13 Making mad
+the-dump 2021-05-02 21:47:45 I saw that <@611251614178869269>
+the-dump 2021-05-02 21:48:12 Makingmeth
+the-dump 2021-05-02 21:48:18 <:trollface:775024642104229898>
+the-dump 2021-05-02 21:48:46 Breaking bad, more like makingmeth
+the-dump 2021-05-02 21:49:33 Walt do making the pure stuff though.
+the-dump 2021-05-02 21:50:34 No, the american sniper has been taken out by... japanese sniper.
+the-dump 2021-05-02 21:50:55 Chads
+the-dump 2021-05-02 21:52:15 
+the-dump 2021-05-02 21:53:07 Idk man, got the job done though.
+the-dump 2021-05-02 21:54:24 
+the-dump 2021-05-02 21:55:01 Only 4?
+the-dump 2021-05-02 21:55:08 I find that hard to believe
+the-dump 2021-05-02 21:55:51 BLM : Looting on the graves of innocents and criminals since april 2020
+the-dump 2021-05-02 21:56:39 Theres the numbers i expected
+the-dump 2021-05-02 21:57:27 Big big, big chungus, big chungus!
+the-dump 2021-05-02 21:58:22 Hail Lobster 🦞
+the-dump 2021-05-02 21:58:33 Hail Lobster 🦞
+the-dump 2021-05-02 21:58:45 Hail Lobster 🦞
+the-dump 2021-05-02 21:59:01 Fuck your toyota, HEIL. LOBSTER. 🦞
+the-dump 2021-05-02 21:59:34 HEIL LOBSTER. FOR ZE RED WEHRMACHT 🦞
+the-dump 2021-05-02 21:59:55 Finally, another lobster allie
+the-dump 2021-05-02 22:00:43 None
+the-dump 2021-05-02 22:00:54 A lobster can fit 5 smaller lobsters though
+the-dump 2021-05-02 22:00:58 Troop transport
+the-dump 2021-05-02 22:01:08 🦞
+the-dump 2021-05-02 22:01:19 Thousands
+the-dump 2021-05-02 22:01:45 Oof
+the-dump 2021-05-02 22:02:03 Yes
+the-dump 2021-05-02 22:02:59 Fuck your uncertainty, do something in life, like joining in the cult of lobster. Heil lobster. 🦞
+the-dump 2021-05-02 22:03:50 Everything is edible if you try hard enough.
+the-dump 2021-05-02 22:04:25 Including Toyota Corollas.
+the-dump 2021-05-02 22:04:33 *shoves metal onto fork*
+the-dump 2021-05-02 22:05:11 My name is Walter White.
+the-dump 2021-05-02 22:05:16 And I am the cook
+help 2021-05-04 22:04:05 Why the hell does my proppellors keep flinging off.
+help 2021-05-04 22:20:41 I fixed the problem, forget what i said.
+the-dump 2021-05-05 02:51:13 
+the-dump 2021-05-05 02:58:31 
+help 2021-05-05 02:59:40 Motors being motors
+help 2021-05-05 02:59:46 Thats normal
+help 2021-05-05 03:00:24 ^
+the-dump 2021-05-05 03:09:30 This man dont understand the racist joke<:KEKW:670310537300672528>
+the-dump 2021-05-05 11:50:33 Hail Lobster 🦞
+the-dump 2021-05-07 03:17:22 And his father was quite a Fat Man.
+the-dump 2021-05-07 03:17:36 <:trollface:775024642104229898>
+the-dump 2021-05-07 03:18:12 
+the-dump 2021-05-07 03:18:16 Im a racist
+the-dump 2021-05-07 03:18:31 Vroom vroom 🏎️
+the-dump 2021-05-07 03:21:59 
+the-dump 2021-05-07 03:25:46 .-.
+the-dump 2021-05-07 03:26:32 Yes
+the-dump 2021-05-07 03:27:02 Soundwaves superior, wehraboos... *inferior*
+the-dump 2021-05-07 03:27:32 Wehrmacht weeb
+the-dump 2021-05-07 03:27:42 Aka 3rd reich weeb
+the-dump 2021-05-08 13:28:41 Venezuelan money in a nutshell
+the-dump 2021-05-08 13:29:53 Hm yes, saying. Noob makes me noob
+the-dump 2021-05-08 13:30:47 ok noob
+bot-central 2021-05-08 14:26:01 !play John Paul jones is a pirate
+bot-central 2021-05-08 14:27:28 =p John Paul Jones is a Pirate
+the-dump 2021-05-08 15:33:21 Every 60 seconds in Africa, 100 more babies die due to *starvation* on some of the *most fertile land in the world*.
+the-dump 2021-05-08 16:50:07 At least in 1800s america when we had more children it meant more hands for the farms.
+the-dump 2021-05-08 16:51:10 Now remember kids, *the Antonov A-40 existed*
+the-dump 2021-05-08 22:39:41 
+creations-chat 2021-05-08 22:44:14 <@672564630027108355>  looks great, but try and make the difference between the engine and fuselage more noticeable.
+the-dump 2021-05-09 13:19:16 
+the-dump 2021-05-09 13:27:44 And I got a warn for pointing out the idiots in blm. Roblox must bow to the woke mob.
+creations-chat 2021-05-09 18:51:11 Argument in feedback?
+bug-reports 2021-05-09 19:29:46 Because why would you need to open it in build mode.
+bug-reports 2021-05-09 19:30:17 No shit
+the-dump 2021-05-10 02:20:09 Ladies and gentlemen. I am about to say something that gun control people will never understand.
+the-dump 2021-05-10 02:20:23 *taking away guns doesnt mean people will stop hurting people*
+the-dump 2021-05-10 02:21:30 If they know that why do they act like britian is so much better with some of the highest stabbing rates in the world.
+the-dump 2021-05-10 02:22:20 Pst. Hey. Dumbass. Criminals dont follow the law. They'll get a gun illegally.
+the-dump 2021-05-10 02:22:28 This
+the-dump 2021-05-10 02:23:15 I really have sparked quite the conversation
+the-dump 2021-05-10 02:24:14 There are people. Who want to ban all semi auto weapons.
+the-dump 2021-05-10 02:25:06 Thought flamethrowers were warcrime weapons.
+the-dump 2021-05-10 02:25:30 True
+the-dump 2021-05-10 02:25:38 N o
+the-dump 2021-05-10 02:26:02 19.9 feet
+the-dump 2021-05-10 02:26:07 :)
+the-dump 2021-05-10 02:26:48 What-
+the-dump 2021-05-10 02:27:55 Ladies and gentlemen. I am about to state facts. There are people. Actual, living people. With jobs and children. Who *reproduced*. Who believe the second amendment applies only to muskets.
+the-dump 2021-05-10 02:29:04 Rocks can kill people, lets ban rocks
+the-dump 2021-05-10 02:29:39 On a serious note gun control shouldn't be an issue over guns it should be about mental health.
+the-dump 2021-05-10 02:29:51 Because most of the shooters had something going on in the head.
+the-dump 2021-05-10 02:30:13 *D O N T*
+the-dump 2021-05-10 02:31:04 This is the only completed x15 posted on here.
+the-dump 2021-05-10 02:31:08 Ik pcc can do better
+the-dump 2021-05-10 02:31:34 The bunny emperor has arrived!
+the-dump 2021-05-10 02:31:38 HEIL BUNNY
+the-dump 2021-05-10 02:32:07 Coaches. <:trollface:775024642104229898>
+the-dump 2021-05-10 02:33:27 Oh mighty Bunny god, what is thow's weekly wisdom?
+the-dump 2021-05-10 02:34:09 Dat's some good wisdom
+the-dump 2021-05-10 02:34:42 *m a n y*
+the-dump 2021-05-10 02:35:06 Tom Hanks is a time traveler confirmed?????
+the-dump 2021-05-10 02:36:49 
+the-dump 2021-05-10 02:37:41 Funny goat
+the-dump 2021-05-10 02:38:29 
+the-dump 2021-05-10 02:38:35 <:trollface:775024642104229898>
+the-dump 2021-05-10 02:39:23 I *am* American
+creations-chat 2021-05-12 00:50:50 <@454817001701900310> you say downvote so i upvote. <:trollface:775024642104229898>
+the-dump 2021-05-14 12:14:24 
+the-dump 2021-05-14 12:14:31 
+the-dump 2021-05-15 01:46:41 
+the-dump 2021-05-15 03:06:46 Robot chicken made a short out of this.
+the-dump 2021-05-15 12:57:24 Yo i challenge someone to make the jet from the movie "Stealth"
+the-dump 2021-05-15 12:58:21 Genuis idea Holmes
+the-dump 2021-05-15 12:58:40 
+the-dump 2021-05-15 13:00:25 
+the-dump 2021-05-15 13:05:10 Remember that one peluchin kid who on youtube who wouldnt get removed?
+the-dump 2021-05-15 13:05:48 You know, the peluchin kid who *made videos of himself torturing and killing  K I T T E N S*
+bug-reports 2021-05-15 14:30:36 This is normal.
+the-dump 2021-05-15 14:32:50 
+the-dump 2021-05-15 14:32:53 Jenga
+the-dump 2021-05-16 13:07:18 Fucking. Kill me. Shoot me, drive on me, do *SOMETHING*
+the-dump 2021-05-16 13:09:35 Hey, <@456226577798135808> , remember this?
+creations-chat 2021-05-16 17:35:14 <@402617794606399488> Luftwaffle vs French Toast?
+creations-chat 2021-05-16 17:37:33 <@456226577798135808> it is time. For the ultimate test of food fliers. Who will win. The luftwaffle. Or French  toast.
+creations-chat 2021-05-16 17:39:57 Pog
+creations-chat 2021-05-16 19:54:17 <@299698224980164608> Whats the color code for the yellow?
+creations-chat 2021-05-16 19:57:00 Cool, I'd suggest lowering the yellow/orange a bit. Sticks out alot atm .Maybe 230,50,0 or 220,40,0.
+the-dump 2021-05-16 19:58:58 Agree trash
+creations-chat 2021-05-16 20:10:38 Thats the thing. It aint a real jet so you can't say its inaccurate. Color scheme is simple yet appealing, and the motorlock is subtle but excellent.
+the-dump 2021-05-17 11:58:35 
+the-dump 2021-05-17 12:01:21 
+creations-chat 2021-05-17 20:52:09 Day 5374 of feedback having an arguement going on.
+creations-chat 2021-05-17 20:56:11 <:Upvote:490311647492309004>
+creations-chat 2021-05-17 20:58:15 Oi mate, im standing right here you know.
+creations-chat 2021-05-17 21:02:45 I think even the discord server itself wants this arguement to end, <@719168864705052802> 's message took 10 seconds to load. Just end this
+creations-chat 2021-05-17 21:05:05 Reverse Doolittle Raid.
+the-dump 2021-05-17 21:05:21 
+help 2021-05-17 22:13:59 Whats a good color code for ww2 us army green. (Ie b17 green)
+the-dump 2021-05-19 03:08:27 Youtube is up for me.  But i think recommended is broken. What in the hell are the #trending videos doing in my recommended.
+the-dump 2021-05-19 03:09:39 I really hope the hideous things in my recommended are just glitches.
+the-dump 2021-05-19 03:10:50 Oh thank you god
+the-dump 2021-05-19 03:11:13 I closed and reopened yt and my recommended is no longer full of trash
+the-dump 2021-05-19 03:12:33 
+the-dump 2021-05-19 03:19:40 
+the-dump 2021-05-19 03:20:20 
+the-dump 2021-05-19 03:24:57 
+the-dump 2021-05-19 20:57:09 
+the-dump 2021-05-19 21:00:57 
+the-dump 2021-05-19 21:01:39 
+the-dump 2021-05-19 21:02:51 
+the-dump 2021-05-20 02:54:27 
+the-dump 2021-05-21 11:45:25 
+help 2021-05-21 19:25:19 My delta winged plane will start violenty shaking when i go above 420sps, and yes i am using hover engines.
+the-dump 2021-05-23 14:58:17 https://youtu.be/XeRXre_FG1w
+creations-chat 2021-05-23 15:03:09 <@606059482837024789> my man made a fucking mental facility. Love it.
+creations-chat 2021-05-23 15:53:01 Ladies and gentlemen, today's feedback argument has begun.
+creations-chat 2021-05-23 15:57:17 I can't unsee the damn rectangle fuselage now.
+creations-chat 2021-05-23 15:59:55 When i look at the phantom from a top down view point (the view point the pic is taken from) i see a rectangular fuselage starting at the intakes and ending at the engines.
+the-dump 2021-05-23 16:13:56 
+creations-chat 2021-05-23 16:14:32 Better than dababy I'll say that.
+creations-chat 2021-05-23 16:29:24 LkaiBX2 is typing...
+creations-chat 2021-05-23 16:38:07 Make it happen
+the-dump 2021-05-24 04:44:45 You wish for mustache man image with rubber bismarck, eh?
+the-dump 2021-05-24 04:45:00 Okie dokie here you go
+the-dump 2021-05-24 04:46:14 Knock knock
+the-dump 2021-05-24 04:46:37 Damn it
+the-dump 2021-05-24 04:46:44 *knock knock*
+the-dump 2021-05-24 04:47:12 Candice
+creations-chat 2021-05-25 12:00:26 A-10 is very over used just like the f-35. I see a bad f35 posted here once a week, sometimes twice a week.
+the-dump 2021-05-25 12:01:22 Someone is bouta die to my patriotism.
+the-dump 2021-05-25 12:02:59 Americaaa
+the-dump 2021-05-25 12:03:02 Americaa
+the-dump 2021-05-25 12:03:05 Americaaaaaa
+the-dump 2021-05-25 12:03:23 America, fuck yeah. Comin in to save the mother fuckin day yeah
+the-dump 2021-05-25 12:04:07 Hanz, get ze flamenwurfer!
+the-dump 2021-05-25 12:04:49 
+the-dump 2021-05-25 12:05:15 Maybe
+the-dump 2021-05-25 12:05:30 Also this meme doesnt apply to democract-ran cities
+the-dump 2021-05-25 17:09:00 
+creations-chat 2021-05-26 17:12:53 Yo wheres the stylus.
+creations-chat 2021-05-27 02:20:58 NOOOOO <:nooo:787097964946259978>
+creations-chat 2021-05-27 02:23:02 <:Upvote:490311647492309004>
+creations-chat 2021-05-27 02:25:34 Which mod took him down. *who*
+creations-chat 2021-05-27 02:27:58 Damn you puri. We cant just enjoy a shitpost *once*✊ ✊
+the-dump 2021-05-27 02:29:56 Ni-
+the-dump 2021-05-27 02:29:57 Ni-
+the-dump 2021-05-27 02:30:11 Nigeria.
+creations-chat 2021-05-27 02:30:28 We downvoted the modlog
+the-dump 2021-05-27 02:30:55 Unde
+the-dump 2021-05-27 02:31:41 
+the-dump 2021-05-27 02:33:09 rofl
+the-dump 2021-05-27 02:33:24 
+the-dump 2021-05-27 02:34:43 
+the-dump 2021-05-27 02:34:56 Fuck your nut
+the-dump 2021-05-27 02:35:01 WAIT
+the-dump 2021-05-27 02:36:09 rofl
+the-dump 2021-05-27 02:37:02 
+the-dump 2021-05-27 02:37:27 
+the-dump 2021-05-27 02:37:45 
+the-dump 2021-05-27 02:38:17 
+the-dump 2021-05-27 02:38:35 He started it
+creations-chat 2021-05-27 02:38:49 
+the-dump 2021-05-27 02:39:22 
+the-dump 2021-05-27 02:40:12 
+the-dump 2021-05-27 02:41:06 Damn it
+the-dump 2021-05-27 02:41:24 
+the-dump 2021-05-27 02:41:57 
+the-dump 2021-05-27 02:42:37 
+the-dump 2021-05-27 02:43:54 We must protect glubby
+the-dump 2021-05-27 02:44:17 Fuck gondal
+the-dump 2021-05-27 02:45:52 Found glubby's cousin, wubby
+the-dump 2021-05-27 02:46:36 Hey
+the-dump 2021-05-27 02:46:42 Wanna see something funny
+the-dump 2021-05-27 02:46:51 
+the-dump 2021-05-27 13:48:37 
+the-dump 2021-05-27 13:50:57 LGBTQ Community :super straight isnt an identity its a sexual preference therefore you cant be part of the community. Gays and Lesbians :
+the-dump 2021-05-27 13:51:37 Y
+the-dump 2021-05-27 13:51:54 Am i not allowed to offend people?
+the-dump 2021-05-27 13:52:10 Fine
+the-dump 2021-05-27 13:52:58 
+the-dump 2021-05-27 13:53:39 Real
+the-dump 2021-05-27 13:54:01 Fuck your fish cube
+the-dump 2021-05-27 13:54:06 
+the-dump 2021-05-27 13:56:24 
+the-dump 2021-05-27 13:59:27 Animation is not for kids, it can be enjoyed by all age groups (in most part thanks to Japan's massive variety of animes). Look at full metal alchemist or death note. Those shows are *not* for kids
+the-dump 2021-05-27 14:00:39 
+the-dump 2021-05-27 14:01:04 Wth is so interesting about fnf to you people
+the-dump 2021-05-27 14:01:46 
+the-dump 2021-05-27 14:05:41 
+the-dump 2021-05-27 14:06:07 NOOOO
+the-dump 2021-05-27 14:06:43 We lost a legend
+the-dump 2021-05-27 14:07:09 Yes
+the-dump 2021-05-27 14:07:18 Then we can bring back stan lee
+the-dump 2021-05-27 14:08:01 Man really gonna do me like that, eh?
+the-dump 2021-05-27 14:08:23 Dont know who that is but ok.
+the-dump 2021-05-27 14:08:39 O
+the-dump 2021-05-27 14:08:41 Shit
+the-dump 2021-05-27 14:09:00 Yk i dont like people who cant take a joke, right?
+the-dump 2021-05-27 14:09:46 Oh wow you really think im racist?
+the-dump 2021-05-27 14:09:48 Is that it?
+the-dump 2021-05-27 14:10:56 Lol
+the-dump 2021-05-27 14:11:38 fake
+the-dump 2021-05-27 14:11:46 <:trollface:775024642104229898>
+the-dump 2021-05-27 14:12:15 Its called twitter
+the-dump 2021-05-27 14:14:00 
+the-dump 2021-05-27 14:14:46 
+the-dump 2021-05-27 14:16:03 
+the-dump 2021-05-27 14:17:33 
+the-dump 2021-05-27 14:17:58 ok
+the-dump 2021-05-27 14:18:20 
+the-dump 2021-05-27 14:18:47 ok
+the-dump 2021-05-27 14:19:01 ok
+the-dump 2021-05-27 14:19:38 *COUGH* me 163 *COUGH*
+the-dump 2021-05-27 14:20:17 
+the-dump 2021-05-27 14:21:25 
+the-dump 2021-05-27 14:22:52 
+the-dump 2021-05-27 14:22:57 Lets see whos brave enough to click
+the-dump 2021-05-27 14:23:14 Got one
+the-dump 2021-05-27 14:23:46 
+the-dump 2021-05-27 14:24:03 No
+the-dump 2021-05-27 14:24:28 
+the-dump 2021-05-27 14:25:05 Skill issue
+the-dump 2021-05-27 14:26:42 
+the-dump 2021-05-27 14:27:50 
+the-dump 2021-05-27 14:29:15 
+the-dump 2021-05-27 14:29:40 Its a donkey but ok.
+the-dump 2021-05-27 14:30:25 
+the-dump 2021-05-27 14:30:54 
+the-dump 2021-05-27 14:31:38 No
+the-dump 2021-05-27 14:31:40 Kill me
+the-dump 2021-05-27 14:33:43 
+the-dump 2021-05-27 14:34:43 
+the-dump 2021-05-27 14:35:42 
+the-dump 2021-05-27 14:37:59 Bruh
+the-dump 2021-05-27 14:38:24 The friendship windmill wasnt even in view from that angle
+the-dump 2021-05-27 14:38:32 Damn it
+the-dump 2021-05-27 14:39:04 Hey, mod pet. Shut up
+the-dump 2021-05-27 14:39:48 
+the-dump 2021-05-27 14:41:06 
+the-dump 2021-05-27 14:43:10 
+the-dump 2021-05-27 14:43:27 Superior tank design
+the-dump 2021-05-27 14:43:40 Yes
+the-dump 2021-05-27 17:26:06 
+the-dump 2021-05-27 17:27:59 
+the-dump 2021-05-27 17:29:17 
+the-dump 2021-05-27 17:29:28 Just a little
+the-dump 2021-05-27 17:30:53 Its been broken dozens of times before with no repercussion, why stop
+the-dump 2021-05-27 17:31:33 
+the-dump 2021-05-27 17:32:38 Vroom vroom, im a racist 🏎️
+the-dump 2021-05-27 17:33:24 Twitter in a nutshell
+the-dump 2021-05-27 17:33:41 🏎️
+the-dump 2021-05-27 17:34:23 
+the-dump 2021-05-27 17:34:50 Vroom vroom 🏎️
+the-dump 2021-05-27 17:35:10 🏎️
+the-dump 2021-05-27 17:35:23 👌
+the-dump 2021-05-27 17:35:48 Twitter classifies this as a symbol of white supremacy.👌 👌
+the-dump 2021-05-27 17:35:59 👌
+the-dump 2021-05-27 17:36:27 Comedy does not care about who you are or what you identify as. Everyone is fair game.
+the-dump 2021-05-27 17:37:05 Here, idk. But on twitter...
+the-dump 2021-05-27 17:37:36 
+the-dump 2021-05-27 17:39:26 
+the-dump 2021-05-27 17:40:59 Darmagon3 is typing...
+the-dump 2021-05-27 17:42:29 
+the-dump 2021-05-27 17:43:44 No
+the-dump 2021-05-27 17:43:52 I just hate what youve done
+creations-chat 2021-05-28 01:26:19 <@603352202982981652> is this possible? A good ratte, the worst concept of the wunderwaffe?
+creations-chat 2021-05-28 01:35:09 Wait he used props to turn? <:KEKW:670310537300672528>
+the-dump 2021-05-28 13:41:11 
+the-dump 2021-05-28 13:42:28 .-.
+the-dump 2021-05-28 13:43:20 Lets see whos brave enough to play this video.
+the-dump 2021-05-28 13:43:48 <:KEKW:670310537300672528>
+the-dump 2021-05-28 13:44:20 Bruh
+the-dump 2021-05-28 13:46:15 Skill issue
+the-dump 2021-05-28 13:48:12 You dare compare our bunny god emperor to an anime character?!
+the-dump 2021-05-28 13:48:29 Im not a weeb
+the-dump 2021-05-28 13:49:26 Wehraboos 🤮
+the-dump 2021-05-28 13:50:46 
+the-dump 2021-05-28 13:51:06 Shit
+the-dump 2021-05-28 13:53:56 
+the-dump 2021-05-28 13:54:43 
+the-dump 2021-05-28 13:55:30 Hey
+the-dump 2021-05-28 14:20:43 
+creations-chat 2021-05-28 14:22:26 One of the best boots ive seen.
+creations-chat 2021-05-28 14:25:03 👍
+creations-chat 2021-05-28 14:32:46 In that case angle lock the bow upward slightly
+creations-chat 2021-05-28 15:35:49 <:Upvote:490311647492309004>
+the-dump 2021-05-29 04:27:26 
+the-dump 2021-05-29 04:27:52 Bruh when did slowmode come to dump
+the-dump 2021-05-29 04:28:04 🦞
+the-dump 2021-05-29 04:28:06 🦞
+the-dump 2021-05-29 04:28:08 🦞
+the-dump 2021-05-29 04:28:10 🦞
+the-dump 2021-05-29 04:28:24 Who was the genuis who thought of that
+the-dump 2021-05-29 14:54:25 
+the-dump 2021-05-29 19:30:23 Whomst has downvoted Dr. Doofensmirtz's suggestioninator
+the-dump 2021-05-29 19:30:32 
+creations-chat 2021-05-29 21:05:59 <@456226577798135808> hof worthy, beautiful. <:trollface:775024642104229898>
+bug-reports 2021-05-29 21:08:46 Last night roblox censored the word light for me because me and a friend were discussing light speed
+bug-reports 2021-05-29 21:08:53 So yes, it sucks ass
+creations-chat 2021-05-29 21:11:08 <@727237025165475890> the wings are way too damn small compared to the fuselage
+
+Yes
+the-dump 2021-05-29 21:11:40 
+creations-chat 2021-05-29 21:13:42 Why'd you take down the photos?
+the-dump 2021-05-29 21:14:38 ok👌
+the-dump 2021-05-29 21:15:19 ok🦞
+the-dump 2021-05-29 21:28:18 Heil lobster🦞
+the-dump 2021-05-29 21:28:25 Heil lobster🦞
+the-dump 2021-05-29 21:28:35 Heil lobster🦞
+the-dump 2021-05-29 21:28:48 Heil lobster 🦞
+the-dump 2021-05-29 21:29:34 Hampter
+the-dump 2021-05-29 21:30:39 Why yall hate america
+the-dump 2021-05-29 21:31:40 .-.
+the-dump 2021-05-29 21:31:58 British people arent a race but ok
+the-dump 2021-05-29 21:32:23 British isnt a race-
+the-dump 2021-05-29 21:33:06 
+the-dump 2021-05-29 21:33:49 Someone say no more rhino shit
+the-dump 2021-05-29 21:35:10 
+the-dump 2021-05-29 22:16:37 
+creations-chat 2021-05-30 05:24:03 <@538048145112694784> transformer, from v22 to weird flying box
+the-dump 2021-05-30 15:03:57 
+the-dump 2021-05-30 15:04:39 
+the-dump 2021-05-30 15:05:25 Im pretty sure males grow up when they get married to a woman and realize how much deep shit they're in.
+the-dump 2021-05-30 15:06:07 Then why do 44% of couples in the us divorce
+the-dump 2021-05-30 15:06:40 Wow
+the-dump 2021-05-30 15:06:43 Sexist
+the-dump 2021-05-30 15:07:03 
+the-dump 2021-05-30 15:07:56 
+the-dump 2021-05-30 15:08:33 You want funny mustache man?
+the-dump 2021-05-30 15:08:53 
+the-dump 2021-05-30 15:09:17 Get you banned thats what
+the-dump 2021-05-30 15:10:20 Lets see whose dumb enough to click
+the-dump 2021-05-30 15:10:47 
+the-dump 2021-05-30 15:11:11 
+the-dump 2021-05-30 15:11:25 Based pumpkin
+the-dump 2021-05-30 15:12:06 <:trollface:775024642104229898>
+the-dump 2021-05-30 15:12:12 Ja hanz
+the-dump 2021-05-30 15:12:19 *J a*
+the-dump 2021-05-30 15:12:45 
+the-dump 2021-05-30 15:13:31 Racism, vroom vroom 🏎️
+the-dump 2021-05-30 15:13:49 
+the-dump 2021-05-30 15:14:00 Ja
+the-dump 2021-05-30 15:14:30 Old plane no shit its from the 40s
+the-dump 2021-05-30 15:14:45 *COUGH* F35 *COUGH*
+the-dump 2021-05-30 15:15:08 Quit wasting our money on barely any better vtol
+the-dump 2021-05-30 15:15:39 Unde then
+the-dump 2021-05-30 15:16:20 
+the-dump 2021-05-30 15:16:46 
+the-dump 2021-05-30 15:17:26 Or creations feedback <:trollface:775024642104229898>
+the-dump 2021-05-30 15:18:04 
+the-dump 2021-05-30 15:18:37 
+the-dump 2021-05-30 15:19:11 
+the-dump 2021-05-30 15:19:57 They are the panzer elite! Born to compete! Never retreat!
+the-dump 2021-05-30 15:20:04 *GHOST DIVISION*
+the-dump 2021-05-30 15:20:25 Living or dead! always ahead! Fed by your dread!
+the-dump 2021-05-30 15:21:03 
+the-dump 2021-05-30 15:21:24 
+the-dump 2021-05-30 15:22:05 Meet gustavo, gustavo wants you to have a good time.
+the-dump 2021-05-30 15:25:19 
+the-dump 2021-05-30 15:26:10 No
+the-dump 2021-05-30 15:26:29 Its a semi auto rifle
+the-dump 2021-05-30 15:26:46 Not to menion one of the most popular hunting rifles
+the-dump 2021-05-30 15:27:08 
+the-dump 2021-05-30 15:28:11 <:trollface:775024642104229898>
+the-dump 2021-05-30 15:29:24 Everyone the minions helped lost
+the-dump 2021-05-30 15:30:19 
+the-dump 2021-05-30 15:30:44 Someone say no shitting rhinos
+the-dump 2021-05-30 15:32:54 
+the-dump 2021-05-30 15:33:08 T34 suspension is le bomb
+the-dump 2021-05-30 15:33:39 War channel when
+the-dump 2021-05-30 15:33:45 
+the-dump 2021-05-30 15:34:15 Cant take a good meme over 1 symbol
+the-dump 2021-05-30 15:34:20 Just cant let it slide
+the-dump 2021-05-30 15:35:03 
+the-dump 2021-05-30 15:39:24 
+creations-chat 2021-05-31 00:00:09 Motorje
+the-dump 2021-05-31 05:32:21 ACAB
+All Cops Are Bros
+the-dump 2021-05-31 05:33:17 Fulcing sabaton against furries
+the-dump 2021-05-31 05:33:19 Hell yeah
+the-dump 2021-05-31 15:22:30 
+the-dump 2021-05-31 17:50:03 
+the-dump 2021-05-31 18:45:08 Reddit can be racist too
+the-dump 2021-05-31 18:46:16 Also 4chan found the coordinates of that one isis base and told the russians to airstrike it (they did) sooo.
+the-dump 2021-05-31 18:47:11 Why
+the-dump 2021-05-31 18:47:24 Because we're based and redpilled?
+the-dump 2021-05-31 18:47:33 
+the-dump 2021-05-31 18:48:02 Im racist. Vroom vroom 🏎️
+the-dump 2021-05-31 18:48:10 🏎️
+the-dump 2021-05-31 18:48:45 
+the-dump 2021-05-31 18:49:03 <@529111635844136971>
+the-dump 2021-05-31 18:50:19 
+the-dump 2021-05-31 18:50:44 Based pumpkin
+the-dump 2021-05-31 18:51:03 Imagine gun control
+the-dump 2021-05-31 18:51:38 
+the-dump 2021-05-31 18:52:46 Yes
+the-dump 2021-05-31 18:53:20 Gun grabber logic :
+the-dump 2021-05-31 18:55:06 
+the-dump 2021-05-31 18:56:06 Did that motherfucker edit over the sneezing panda video.
+bot-central 2021-05-31 19:04:21 ;;p stars and stripes forever
+bot-central 2021-05-31 19:04:36 1
+bot-central 2021-05-31 19:06:20 ;;p star spangled banner instrumental
+bot-central 2021-05-31 19:07:39 ;;q
+the-dump 2021-05-31 19:13:40 
+the-dump 2021-05-31 19:20:56 Define terrible moderation
+the-dump 2021-05-31 19:21:47 Ive said gay in a derogatory way multiple times and i aint been banned
+the-dump 2021-05-31 19:22:17 <:KEKW:670310537300672528>
+the-dump 2021-05-31 19:24:16 
+the-dump 2021-05-31 19:24:44 
+creations-chat 2021-06-01 02:24:22 <@456226577798135808> did you take those pictures while you were in pvp or nah?
+the-dump 2021-06-01 14:48:17 Think mark, think!
+the-dump 2021-06-01 14:50:31 I love how whenever J.K. Simmons voice's a character they make the character look like him. He's just too iconic.
+the-dump 2021-06-01 14:52:21 Hyperbot is drunk again.
+the-dump 2021-06-01 14:54:30 🦞
+the-dump 2021-06-01 14:54:31 🦞
+the-dump 2021-06-01 14:54:32 🦞
+the-dump 2021-06-01 14:54:33 🦞
+the-dump 2021-06-01 14:54:39 🦞
+the-dump 2021-06-01 14:54:41 🦞
+the-dump 2021-06-01 14:54:42 🦞
+the-dump 2021-06-01 14:54:46 🦞
+the-dump 2021-06-01 14:54:46 🦞
+the-dump 2021-06-01 14:54:47 🦞
+the-dump 2021-06-01 14:54:52 🦞
+the-dump 2021-06-01 14:54:52 🦞
+the-dump 2021-06-01 14:54:52 🦞
+the-dump 2021-06-01 14:54:52 🦞
+the-dump 2021-06-01 14:54:58 🦞
+the-dump 2021-06-01 14:55:13 Heil Lobster, the supreme lifeform
+the-dump 2021-06-01 14:55:42 Yes
+the-dump 2021-06-01 14:58:29 
+creations-chat 2021-06-01 15:18:11 Lol
+creations-chat 2021-06-01 15:26:01 <:KEKW:670310537300672528>
+creations-chat 2021-06-01 15:30:00 <:KEKW:670310537300672528>
+the-dump 2021-06-01 15:39:32 
+the-dump 2021-06-01 15:39:54 
+creations-chat 2021-06-01 16:25:49 Rebarded
+creations-chat 2021-06-01 17:56:20 "Hello, i said hello"
+creations-chat 2021-06-01 17:59:02 Does it?
+creations-chat 2021-06-01 18:01:03 Just for today
+creations-chat 2021-06-01 18:04:12 All we need to see is the grade that math is taught in. If its algebra 1 hes in 8th or 9th grade, if its pre algebra or pythagorean theorem its 8th grade, etc.
+creations-chat 2021-06-01 18:06:56 <@333570869114830859> hey walt, you got the pure stuff?
+creations-chat 2021-06-01 18:09:11 Saw the word that cipher said. Its the uncle bad touch were.
+creations-chat 2021-06-01 18:11:16 The exact user name was already taken. Sure.
+creations-chat 2021-06-01 18:13:43 Ladies and gentlemen, today's episode of bullying undes on PCC.
+creations-chat 2021-06-01 18:17:59 13 or 14
+the-dump 2021-06-02 12:13:15 
+the-dump 2021-06-02 12:14:34 Ok
+the-dump 2021-06-02 12:16:06 
+the-dump 2021-06-02 12:18:49 
+the-dump 2021-06-02 16:54:44 
+the-dump 2021-06-02 16:54:53 <:nooo:787097964946259978> 🔫
+the-dump 2021-06-02 16:59:21 
+the-dump 2021-06-02 17:46:25 Hey guys
+the-dump 2021-06-02 17:46:39 What do you call a Black Archeologist?
+the-dump 2021-06-02 17:47:03 A digger
+the-dump 2021-06-02 17:47:08 <:trollface:775024642104229898>
+the-dump 2021-06-02 17:48:05 
+the-dump 2021-06-02 17:48:38 Imagine fixed landing gear dive bombers
+the-dump 2021-06-02 17:49:25 Ni-
+the-dump 2021-06-02 17:49:27 Ni-
+the-dump 2021-06-02 17:49:29 Nig-
+the-dump 2021-06-02 17:49:41 Nicaragua
+the-dump 2021-06-02 17:49:58 gore
+the-dump 2021-06-02 17:50:05 gg
+the-dump 2021-06-02 17:50:15 esz
+the-dump 2021-06-02 17:50:24 banned
+the-dump 2021-06-02 17:51:08 
+the-dump 2021-06-02 17:51:26 Nig
+the-dump 2021-06-02 17:51:29 Nig-
+the-dump 2021-06-02 17:51:35 Niger
+the-dump 2021-06-02 17:51:38 The country
+the-dump 2021-06-02 17:52:21 Niger is a country
+the-dump 2021-06-02 17:52:44 <:trollface:775024642104229898>
+the-dump 2021-06-02 17:53:00 
+the-dump 2021-06-02 17:53:22 Beat you to it <@422347528688762880>
+the-dump 2021-06-02 17:53:43 
+the-dump 2021-06-02 17:53:46 Kill me
+the-dump 2021-06-02 17:54:14 Who added the upvote
+the-dump 2021-06-02 17:54:44 <@492887853702053898>
+the-dump 2021-06-02 17:55:26 Not the highest anymore
+creations-chat 2021-06-02 17:56:07 <@727028164223696966>  Arab car, more like...
+the-dump 2021-06-03 02:42:00 
+the-dump 2021-06-03 02:42:03 <:trollface:775024642104229898>
+creations-chat 2021-06-03 02:44:02 <:KEKW:670310537300672528>
+the-dump 2021-06-03 05:46:59 
+the-dump 2021-06-03 05:47:49 Reytube
+the-dump 2021-06-03 05:50:11 
+the-dump 2021-06-03 05:52:41 What does ww2 mustache man say when he sneezes?
+the-dump 2021-06-03 05:52:52 Ja
+the-dump 2021-06-03 05:53:05 Now what does silly mustache man ride to work everyday
+the-dump 2021-06-03 05:53:32 A Reichcylce
+the-dump 2021-06-03 05:54:23 A bookworm
+the-dump 2021-06-03 06:01:55 Fucking chad
+the-dump 2021-06-03 06:02:05 I must meet this man
+creations-chat 2021-06-03 06:04:04 <@840050791380942861> <:Upvote:490311647492309004>
+the-dump 2021-06-03 12:27:47 
+creations-chat 2021-06-03 12:30:41 Triple barreled turret.
+bot-central 2021-06-03 17:29:35 =s
+bot-central 2021-06-03 17:29:44 =play stars and stripes forever
+bot-central 2021-06-03 17:30:00 =play stars and stripes forever
+bot-central 2021-06-03 17:30:29 Begun, the jam wars have.
+bot-central 2021-06-03 17:30:51 =s
+bot-central 2021-06-03 17:31:02 Wtf
+bot-central 2021-06-03 17:31:05 What is this audio
+bot-central 2021-06-03 17:31:08 =skip
+bot-central 2021-06-03 17:31:21 <:Upvote:490311647492309004>
+the-dump 2021-06-03 17:39:32 mans
+the-dump 2021-06-03 17:39:46 🦞
+the-dump 2021-06-03 17:40:12 🦞
+the-dump 2021-06-03 17:40:13 My lobsters
+the-dump 2021-06-03 17:40:13 🦞
+the-dump 2021-06-03 17:40:15 Sad
+the-dump 2021-06-03 17:41:11 
+the-dump 2021-06-03 17:44:17 
+the-dump 2021-06-03 18:20:14 
+the-dump 2021-06-03 18:22:23 https://cdn.discordapp.com/attachments/495286269459300364/847481229582270514/fight_me.mp4
+creations-chat 2021-06-03 18:25:34 You must be new here. Trying isnt enough
+the-dump 2021-06-03 20:46:27 Luigi, don't be a dinophobe. It takes all colors to make a rainbow. *except black. Theres no black in rainbows*
+the-dump 2021-06-03 20:52:11 
+the-dump 2021-06-03 20:52:54 
+the-dump 2021-06-03 20:53:17 
+the-dump 2021-06-03 20:53:37 .-.
+the-dump 2021-06-03 20:53:40 I saw that
+the-dump 2021-06-03 20:53:55 3r5x4, what the hell did i look at.
+the-dump 2021-06-03 20:54:02 WHAT DID I LOOK AT
+the-dump 2021-06-03 20:54:42 
+the-dump 2021-06-03 20:55:35 
+the-dump 2021-06-03 20:56:16 
+the-dump 2021-06-03 20:57:09 
+the-dump 2021-06-03 20:58:17 
+the-dump 2021-06-03 20:58:43 
+bug-reports 2021-06-03 23:26:29 
+the-dump 2021-06-04 17:17:01 :ThanosDance:
+creations-chat 2021-06-04 17:33:23 New
+the-dump 2021-06-04 17:37:07 
+creations-chat 2021-06-05 14:28:55 <@280020722431295488> Das boot!<:Upvote:490311647492309004>
+creations-chat 2021-06-05 14:35:44 Tell that to the japanese, they made an i-400
+the-dump 2021-06-05 16:36:05 Damn it
+the-dump 2021-06-05 16:36:31 Das boot?
+the-dump 2021-06-05 16:40:46 <:trollface:775024642104229898>
+the-dump 2021-06-05 16:41:03 Yatzee friendship windmill
+the-dump 2021-06-06 01:54:12 
+the-dump 2021-06-06 01:54:24 <:trollface:775024642104229898>
+the-dump 2021-06-06 14:46:41 
+bug-reports 2021-06-06 17:29:47 <@535580493442187274> bug reports, sherlocke, not suggestions.
+the-dump 2021-06-06 17:32:17 
+the-dump 2021-06-07 00:52:09 Dark humor is like a child cancer patient. They never get old.
+the-dump 2021-06-07 00:52:13 <:trollface:775024642104229898>
+creations-chat 2021-06-07 12:45:22 <:OkBuddy:652567204453154816>
+creations-chat 2021-06-07 12:47:23 <:Mhm:551152556324159488>
+the-dump 2021-06-07 12:54:58 
+the-dump 2021-06-07 12:55:06 Can dis
+the-dump 2021-06-07 12:55:15 Fit in you mama-
+the-dump 2021-06-07 12:55:54 
+the-dump 2021-06-07 12:56:02 <:trollface:775024642104229898>
+bug-reports 2021-06-07 12:56:47 Set torque to 30
+bug-reports 2021-06-07 12:56:56 Anything above has a chance of jamming
+bug-reports 2021-06-07 12:58:02 Oof
+creations-chat 2021-06-08 01:44:44 <@410992368494575626> my man at this rate you'll have 5 builds in hof, keep up the good work! 👍
+bug-reports 2021-06-08 01:47:14 Wait
+bug-reports 2021-06-08 01:47:21 Is motor 2 flinging fixed
+bug-reports 2021-06-08 01:47:26 Is this what im hearing?
+bug-reports 2021-06-08 01:48:40 YOOOOO
+bug-reports 2021-06-08 01:48:43 LETS
+bug-reports 2021-06-08 01:48:45 GO
+bug-reports 2021-06-08 01:48:50 PRAISE THE ALMIGHTY
+bug-reports 2021-06-08 01:49:04 What about motor2 folding though.
+bug-reports 2021-06-08 01:49:30 Is motor 2 still buggy if used for folds?
+bug-reports 2021-06-08 01:49:56 Lol
+bug-reports 2021-06-08 01:50:11 We must hire this mad lad engineer
+the-dump 2021-06-08 01:51:33 BUGGY MOTOR 2 IS NO MORE!
+the-dump 2021-06-08 01:51:52 Look in bug reports
+the-dump 2021-06-08 01:52:01 Some mad lad at roblox accidentally fixed it
+bug-reports 2021-06-08 01:53:45 So
+bug-reports 2021-06-08 01:53:53 Is all motor 2 fixed?
+bug-reports 2021-06-08 01:53:58 Or just mouse control
+bug-reports 2021-06-08 01:54:32 Ok then
+bug-reports 2021-06-08 01:54:42 Any improvement is improvement
+the-dump 2021-06-08 01:54:56 Lol
+the-dump 2021-06-08 01:55:08 Man didnt know a 40 year old character was an f15
+the-dump 2021-06-08 01:58:08 Because travis knight could actually design live action g1 esc designs. Unlike.... *COUGH* Micheal Bay *COUGH*
+the-dump 2021-06-08 01:59:07 Wait where did he get the external fuel tanks from. And why does he have them?
+the-dump 2021-06-08 01:59:39 He runs on fucking energon, does he have like *potent* energon or something in the tanks?
+the-dump 2021-06-08 02:00:10 External fuel tanks arent a permanent feature of f4s, so *shrug*
+the-dump 2021-06-08 02:00:57 Lol
+the-dump 2021-06-08 02:01:03 Another thing
+the-dump 2021-06-08 02:01:35 Do transformers regenerate their missiles like we do toe and finger nails? Or do they restock them externally?
+the-dump 2021-06-08 02:01:39 What
+the-dump 2021-06-08 02:01:47 That movie has been out for 3 years dude
+the-dump 2021-06-08 02:02:11 .-.
+the-dump 2021-06-08 02:02:25 No
+the-dump 2021-06-08 02:02:34 Cause its a movie thats been out for 3 years
+the-dump 2021-06-08 02:02:57 Fuck your jojo reference, that meme is dead
+the-dump 2021-06-08 02:03:26 Blm riot?
+the-dump 2021-06-08 02:04:11 
+the-dump 2021-06-08 02:04:46 Dark humor is like children with cancer. They never get old.<:trollface:775024642104229898>
+bug-reports 2021-06-08 02:05:48 Those are the issues that havent been solved?
+bug-reports 2021-06-08 02:05:56 Wait
+bug-reports 2021-06-08 02:06:02 We can fold with motor2 again
+bug-reports 2021-06-08 02:06:10 WE CAN FOLD WITH MOTOR 2 AGAIN!
+bug-reports 2021-06-08 02:06:21 Man really gotta shoot me down
+the-dump 2021-06-08 02:06:50 Gut
+the-dump 2021-06-08 02:06:56 Now where is the voice lines
+the-dump 2021-06-08 02:07:01 <:trollface:775024642104229898>
+the-dump 2021-06-08 02:07:18 Round 1
+the-dump 2021-06-08 02:07:55 What ive never gotten is why transformers keep the seats in their vehicle modes
+the-dump 2021-06-08 02:08:10 No one is gonna fucking drive you if you're a decepticon
+the-dump 2021-06-08 02:08:34 Or use holograms
+the-dump 2021-06-08 02:08:39 Ah
+the-dump 2021-06-08 02:09:03 They still have seats
+the-dump 2021-06-08 02:09:05 Why
+the-dump 2021-06-08 02:09:41 Just darken your glass man
+the-dump 2021-06-08 02:09:50 Or make a hologram of the damn chair
+the-dump 2021-06-08 02:10:01 Something, but dont actually waste the space.
+the-dump 2021-06-08 02:10:27 Idk
+the-dump 2021-06-08 02:10:52 I guess not having the chair means theres room for something else in the robot mode.
+the-dump 2021-06-08 02:11:02 🤷
+the-dump 2021-06-08 02:11:24 It all goes back to minicons
+the-dump 2021-06-08 02:11:32 Fucking minicons
+the-dump 2021-06-08 05:13:30 
+bug-reports 2021-06-08 14:32:11 So uh
+bug-reports 2021-06-08 14:32:18 Theres a fly hacker
+bug-reports 2021-06-08 14:33:06 Name is adamnxzs
+bug-reports 2021-06-08 14:33:29 He's in a public server with me, you can join to see for yourself
+bug-reports 2021-06-08 14:34:06 Man if only rick trusted people
+bug-reports 2021-06-08 14:36:27 Whos the 3rd person with admin?  Pepsi? Purified? Obc?
+bug-reports 2021-06-08 14:36:53 Who the hell is rolijock
+bug-reports 2021-06-08 14:37:29 Then you're of no help tooti
+bug-reports 2021-06-08 14:38:34 Who?
+bug-reports 2021-06-08 14:39:14 Well he's not in this disc
+bug-reports 2021-06-08 14:39:22 So no one is available. Smh
+bug-reports 2021-06-08 14:41:19 And i just want some more in game admins, tooti
+bug-reports 2021-06-08 14:41:51 Personally i feel obc should get ingame admin
+bug-reports 2021-06-08 14:42:12 Ik
+bug-reports 2021-06-08 14:42:20 But he has to eventually
+bug-reports 2021-06-08 14:42:26 Idk man
+bug-reports 2021-06-08 14:42:37 Suggestions
+bug-reports 2021-06-08 14:42:45 And shipwright 4
+bug-reports 2021-06-08 14:43:08 Yeah
+bug-reports 2021-06-08 14:43:10 Thats true
+bug-reports 2021-06-08 14:43:27 Damn this hispanic kid is going nuts in chat
+the-dump 2021-06-08 18:29:14 
+the-dump 2021-06-08 18:30:59 Pedos?
+the-dump 2021-06-08 18:31:54 Wth is with 69
+the-dump 2021-06-08 18:32:02 Whats so important about that number
+the-dump 2021-06-08 18:32:33 There are 2 scenarios, one MUCH darker than the other
+the-dump 2021-06-08 18:32:38 Either they're both children
+the-dump 2021-06-08 18:32:40 Or
+the-dump 2021-06-08 18:32:44 Only 1 is a child.
+the-dump 2021-06-08 18:32:47 And the other one...
+creations-chat 2021-07-02 14:42:51 🍿
+creations-chat 2021-07-02 14:46:03 #arguements channel 🍿
+creations-chat 2021-07-02 14:48:05 Can we make this a rule of <#384025409945337856> ? Please and thank you.
+creations-chat 2021-07-02 15:12:29 High standards, deal with it.
+creations-chat 2021-07-02 15:15:24 <:KEKW:670310537300672528>
+the-dump 2021-07-02 15:16:17 Gotta love naval 1945 low tier madness
+creations-chat 2021-07-02 15:32:14 <@489371955158450176> not gonna upvote or downvote cause its an average build. My only suggestion is to use fake proppellors instead of premade ones. 👍
+creations-chat 2021-07-02 15:48:27 Hey man i aint saying nothing, just enjoying the shit show.🍿
+creations-chat 2021-07-02 15:58:14 
+creations-chat 2021-07-02 16:42:08 I am part of the big brain gang like you.
+creations-chat 2021-07-02 18:15:34 <:KEKW:670310537300672528>
+the-dump 2021-07-02 18:18:55 
+creations-chat 2021-07-02 18:19:46 Helimopter
+creations-chat 2021-07-04 14:33:11 Nice middle finger. Here's mine.🖕
+creations-chat 2021-07-04 15:17:17 <:trollface:775024642104229898>
+the-dump 2021-07-04 15:52:02 I- what.
+the-dump 2021-07-04 15:52:59 No we already have an opium crisis in the us we dont need to start an external opium crisis
+the-dump 2021-07-04 15:53:28 
+the-dump 2021-07-04 15:54:20 
+creations-chat 2021-07-04 15:54:47 the e
+the-dump 2021-07-04 15:55:05 
+creations-chat 2021-07-04 15:56:49 <:Upvote:490311647492309004>
+the-dump 2021-07-04 15:57:18 
+the-dump 2021-07-04 15:57:44 
+the-dump 2021-07-04 15:57:51 Repost or furry
+the-dump 2021-07-04 15:58:53 
+the-dump 2021-07-04 15:59:26 Socialism and communism are the same thing.
+the-dump 2021-07-04 16:00:14 <:empty:794431705070174238>
+the-dump 2021-07-04 16:00:38 🇹🇼
+the-dump 2021-07-04 16:00:40 🇹🇼
+the-dump 2021-07-04 16:01:00 China? More like west Taiwan
+the-dump 2021-07-04 16:01:05 West Taiwan
+the-dump 2021-07-04 16:01:10 🇹🇼
+the-dump 2021-07-04 16:01:13 🇹🇼
+the-dump 2021-07-04 16:01:18 West Taiwan
+the-dump 2021-07-04 16:01:25 Taiwan is real china here and forever
+the-dump 2021-07-04 16:02:12 
+the-dump 2021-07-04 16:03:08 
+the-dump 2021-07-04 16:03:37 Boris Johnson, thats what
+the-dump 2021-07-04 16:04:20 
+the-dump 2021-07-04 16:05:01 Ik
+the-dump 2021-07-04 16:05:04 Still a good meme
+the-dump 2021-07-04 16:05:23 
+bug-reports 2021-07-04 16:06:04 Happens all the time mate
+the-dump 2021-07-04 16:06:56 
+the-dump 2021-07-04 16:07:01 God bless roger roach
+the-dump 2021-07-04 16:09:30 <:KEKW:670310537300672528>
+the-dump 2021-07-04 16:09:54 Hey guys look.
+the-dump 2021-07-04 16:10:58 <:nooo:787097964946259978>
+the-dump 2021-07-04 16:11:19 
+bot-central 2021-07-04 16:12:23 !s
+bot-central 2021-07-04 16:12:28 =s
+bot-central 2021-07-04 16:12:39 =play stars and stripes forever
+creations-chat 2021-07-04 19:45:38 <@622320884987854858> Maga tank, i love it.🇺🇸
+creations-chat 2021-07-04 22:54:44 Plen
+the-dump 2021-07-04 22:55:48 Yo
+creations-chat 2021-07-05 01:42:37 😑 
+
+Lets take this to the dumb, gentlemen. Besides nothing productive can be done here will slow mode.
+creations-chat 2021-07-05 01:44:46 Its historical. Lets just all take this to the dump, where any meaningful discussion goes.
+bot-central 2021-07-05 01:51:28 <@439169225735798784> <@456226577798135808> american tunes time boys.
+bot-central 2021-07-05 01:51:36 =p proud to be an american
+bot-central 2021-07-05 01:54:32 A meme but ok
+bot-central 2021-07-05 01:54:52 =p stars and stripes forever
+bot-central 2021-07-05 01:55:12 Tf am i hearing
+bot-central 2021-07-05 01:55:39 I requested stars and stripes forever, not a solider's combat career
+bot-central 2021-07-05 01:56:07 There we go
+creations-chat 2021-07-05 01:58:09 
+bug-reports 2021-07-05 14:49:19 Lol
+the-dump 2021-07-05 14:53:44 Ew
+the-dump 2021-07-05 14:54:40 <:trollface:775024642104229898>
+the-dump 2021-07-05 14:55:31 ~~Pablo escabar~~
+the-dump 2021-07-05 14:56:20 Carlos
+the-dump 2021-07-05 14:58:28 
+the-dump 2021-07-05 14:59:38 Heil lobster🦞
+the-dump 2021-07-05 14:59:44 Heil lobster🦞
+the-dump 2021-07-05 17:47:01 
+creations-chat 2021-07-05 20:45:45 Fuck shit ass
+help 2021-07-05 21:01:51 Coolio
+the-dump 2021-07-05 23:27:36 <:stank:657279416946393099>
+creations-chat 2021-07-05 23:29:38 Not funni
+the-dump 2021-07-05 23:37:29 <:stank:657279416946393099>
+creations-chat 2021-07-06 17:14:04 Yo im going to get the popcorn butter, anyone want me to grab sonething for em? 
+
+On it
+creations-chat 2021-07-06 17:16:08 Back with the popcorn butter and all your drinks. 🧈 🍿 🍾 🍾 🍾
+
+ Let that shit show begin.
+creations-chat 2021-07-06 17:18:12 Already 1 step ahead, <@524910047080480769>  🍿
+creations-chat 2021-07-06 17:20:41 High standards, this server has. Accept that, you must. Also accept the toxicity of high standards, *you must*.
+
+Yo puri is online, lets see how long it takes him to get here.
+creations-chat 2021-07-06 17:23:53 
+creations-chat 2021-07-06 17:25:54 <:hahaa:773727260539617280>
+creations-chat 2021-07-06 17:29:39 <:wot:695654208837255219>
+creations-chat 2021-07-06 17:31:40 🤮 <:Downvote:490311668556103700> 👎
+creations-chat 2021-07-06 17:33:46 End this cringy dialouge by shooting yourself.
+the-dump 2021-07-06 17:35:52 
+help 2021-07-06 17:36:46 Hopefully it stays that way.
+help 2021-07-06 17:37:34 Whats the bruh for
+help 2021-07-06 17:38:11 for the j
+the-dump 2021-07-06 17:38:47 Thats what we commonly refer to as *shit*
+bot-central 2021-07-06 17:39:12 -underandom
+the-dump 2021-07-06 17:39:39 As i said. Shit
+the-dump 2021-07-06 17:39:46 Which one.
+the-dump 2021-07-06 17:45:21 Fuck
+the-dump 2021-07-06 17:47:45 Let it eat the bird
+the-dump 2021-07-06 17:47:48 So simple
+help 2021-07-06 17:48:10 <:Upvote:490311647492309004>
+the-dump 2021-07-06 17:48:31 
+the-dump 2021-07-06 17:50:43 Let the cat. Eat the bird
+the-dump 2021-07-06 17:51:10 Then stomp on its head
+the-dump 2021-07-06 17:51:14 Quick and painless
+the-dump 2021-07-06 17:51:42 Tough shit
+the-dump 2021-07-06 17:52:13 Tweet tweet mother fuckers
+the-dump 2021-07-06 17:53:17 Feed das birdi then
+the-dump 2021-07-06 17:56:30 I dont get it??
+the-dump 2021-07-06 17:57:13 
+the-dump 2021-07-06 17:57:28 <:trollface:775024642104229898>
+the-dump 2021-07-06 17:57:50 
+the-dump 2021-07-06 17:58:48 
+the-dump 2021-07-06 17:58:56 Repost or gacha kid
+help 2021-07-06 17:59:33 <:PewPew:532303441293344778>
+the-dump 2021-07-06 17:59:56 
+the-dump 2021-07-06 18:00:53 
+the-dump 2021-07-06 18:01:42 
+the-dump 2021-07-06 18:08:08 
+the-dump 2021-07-06 18:35:53 Ffs-
+the-dump 2021-07-06 21:19:25 Little gigga bitch tic
+bot-central 2021-07-06 21:20:22 -underandom
+bot-central 2021-07-06 21:20:30 -underandom
+the-dump 2021-07-06 21:46:36 
+help 2021-07-06 21:47:20 The fuck
+creations-chat 2021-07-07 15:38:34 If it looks like an aircraft carrier, functions like an aicraft carrier, and smells like an aircraft carrier, its *a bloody aircraft carrier*
+the-dump 2021-07-07 15:39:24 "More realistic" <:KEKW:670310537300672528>
+creations-chat 2021-07-08 02:36:07 A vampire if made by an absolute vegetable.
+creations-chat 2021-07-08 13:53:02 <@820419013011177492> *clears throat* ahem. Flint stones, its the flint stones, its a yabadabadoo story-
+the-dump 2021-07-08 14:26:29 Watch your language
+the-dump 2021-07-08 14:26:40 Watch your language
+creations-chat 2021-07-08 14:27:08 
+creations-chat 2021-07-08 14:36:01 One of the few good a-10s ive seen
+creations-chat 2021-07-09 00:18:59 can i see an image of this exploited build?
+the-dump 2021-07-09 01:43:51 Hail samuel
+the-dump 2021-07-09 01:45:55 Imagine having to be so desperate for vaccinating people you have to put up Youtube ads. <:KEKW:670310537300672528>
+the-dump 2021-07-09 01:46:31 Nah
+the-dump 2021-07-09 05:18:48 
+creations-chat 2021-07-09 14:20:04 Ah, a fellow jobby viewer
+creations-chat 2021-07-10 01:55:40 <:KEKW:670310537300672528>
+the-dump 2021-07-10 01:57:21 
+creations-chat 2021-07-10 02:41:36 <@521458738981502987> *clears throat* mhm. *East bound and down, load it up and truck it, we're gonna do what they said can't be done-*
+creations-chat 2021-07-10 02:45:46 In all honesty that movie was good, and with a fine theme song to boot.
+
+Have you been able to find the theme song and put it in the truck?
+creations-chat 2021-07-10 02:54:23 👍
+creations-chat 2021-07-10 05:17:56 <@457827362520694790> custom gun? More like 5 inch 38 turret *am i right-*. Overall, very nice. 👍
+creations-chat 2021-07-10 05:20:14 <:pogey:651848693842182144>
+creations-chat 2021-07-10 14:49:57 Not to mention hulk shoved the cockpit into the middle of the plane, i mean cmon man!
+the-dump 2021-07-10 14:58:51 
+the-dump 2021-07-10 14:59:16 
+the-dump 2021-07-10 14:59:39 
+creations-chat 2021-07-10 15:00:12 Frog feedback
+the-dump 2021-07-10 15:00:21 Everyone
+the-dump 2021-07-10 15:00:22 It is time
+the-dump 2021-07-10 15:00:29 For frog feedback
+the-dump 2021-07-10 15:00:48 Floppa gay
+the-dump 2021-07-10 15:00:54 Frog feedback eternal
+the-dump 2021-07-10 15:03:13 Those damn rice farmers wont let us get their migs
+the-dump 2021-07-10 15:05:01 The dump is the dump no more. It is now. Frog feedback
+the-dump 2021-07-10 15:05:31 
+the-dump 2021-07-10 15:06:04 Man really just pinged a mod for that
+creations-chat 2021-07-10 15:06:45 It has to be real
+the-dump 2021-07-10 15:08:02 
+the-dump 2021-07-10 15:08:31 Joe piden
+the-dump 2021-07-10 15:09:11 yousus
+the-dump 2021-07-10 15:10:18 
+the-dump 2021-07-10 15:11:11 <:trollface:775024642104229898>
+the-dump 2021-07-10 15:11:54 
+the-dump 2021-07-10 15:12:26 Founmd
+the-dump 2021-07-10 15:19:53 Dm me them, now.
+creations-chat 2021-07-10 15:30:12 
+the-dump 2021-07-10 15:30:33 
+the-dump 2021-07-10 15:30:41 Pablo
+the-dump 2021-07-10 15:31:15 Fernando
+the-dump 2021-07-10 15:32:03 Escabar
+the-dump 2021-07-10 15:32:56 Kill me
+the-dump 2021-07-10 15:34:12 Hey guys
+the-dump 2021-07-10 15:34:25 Want to hear a dark joke? <:trollface:775024642104229898>
+the-dump 2021-07-10 15:34:47 George floyd has his 1 year-drug-free token
+the-dump 2021-07-10 15:35:22 When you upvote your own message <:empty:794431705070174238>
+creations-chat 2021-07-10 15:36:24 What tie is that
+the-dump 2021-07-10 15:37:10 
+the-dump 2021-07-10 15:37:52 
+the-dump 2021-07-10 15:38:25 Damn right
+the-dump 2021-07-10 15:38:36 <:empty:794431705070174238>
+the-dump 2021-07-10 15:39:33 <@327701319265550336>
+the-dump 2021-07-10 15:40:32 
+the-dump 2021-07-10 15:40:37 <:trollface:775024642104229898>
+the-dump 2021-07-10 15:41:46 <:trollface:775024642104229898>
+the-dump 2021-07-10 15:44:03 
+the-dump 2021-07-10 15:44:13 Thats real btw
+the-dump 2021-07-10 15:44:30 Its in a museum
+the-dump 2021-07-10 15:47:14 
+the-dump 2021-07-10 15:48:09 <:trollface:775024642104229898>
+the-dump 2021-07-10 15:49:01 Dur dur dur
+the-dump 2021-07-10 15:49:42 
+the-dump 2021-07-10 15:51:06 Good
+the-dump 2021-07-10 15:51:16 the k
+the-dump 2021-07-10 15:51:18 k
+the-dump 2021-07-10 15:51:20 <:trollface:775024642104229898>
+the-dump 2021-07-10 15:51:50 Observe.
+the-dump 2021-07-10 15:53:04 🇸 🇭 🇮 🇹
+the-dump 2021-07-10 15:53:40 
+the-dump 2021-07-10 15:54:24 
+the-dump 2021-07-10 15:54:57 Man c'mon
+the-dump 2021-07-10 15:55:03 Gotta ruin the fun
+the-dump 2021-07-10 15:56:29 The fun police have arrived, no thanks to <@820381314342977566>
+creations-chat 2021-07-10 15:57:12 
+the-dump 2021-07-10 15:58:40 Das bunny furhur has hopped online.
+the-dump 2021-07-10 16:00:17 
+creations-chat 2021-07-10 16:43:03 Tucker!
+creations-chat 2021-07-10 18:12:31 <@456226577798135808> that channel is trash and doesnt do their research very well. The narrator is most likely a bot because i remember in great detail  him calling a supermarine spitfire a 'submarine spitfire'. Also wtf is that build meant to be.
+the-dump 2021-07-10 18:13:16 GENTLEMEN
+the-dump 2021-07-10 18:13:22 IT IS HAPPENING
+the-dump 2021-07-10 18:13:37 China is banning LGBTQ Groups on the chinese interwebs!
+creations-chat 2021-07-10 18:14:44 Wait the narrator isnt a bot? What kind of dumb fuck do you have to be to call a supermarine spitfire a 'submarine spitfire'.
+creations-chat 2021-07-10 18:18:13 If he's gonna watch scp content watch the good content like vulgun or the exploring series, not... *infographics show* 🤮
+
+When unde bullying :
+creations-chat 2021-07-10 18:20:44 Nah. Scp illustrated. They're actually good.
+creations-chat 2021-07-11 00:00:19 "What stupidity has ruined the community" so shredder users, people who made the shredder tut videos, and tutorial users. Got it.
+creations-chat 2021-07-11 00:02:20 <:Upvote:490311647492309004> this, also any ground vehicles but *especially* ship battles.
+the-dump 2021-07-11 00:03:52 ~~Thats a goose~~
+creations-chat 2021-07-11 00:04:26 
+the-dump 2021-07-11 00:05:13 
+the-dump 2021-07-11 00:09:32 
+creations-chat 2021-07-11 00:11:46 He reposted what he posted a few hours earlier.
+creations-chat 2021-07-11 00:15:17 Ah yes, the racist card. Call us transphobic and homophobic while you're at it, you little whiny shit.
+
+I think we got a troll here.
+creations-chat 2021-07-11 00:19:07 Um. <@195253906333368320> death threat.
+creations-chat 2021-07-11 00:21:10 I got the image of the death threat.
+creations-chat 2021-07-11 00:23:13 This all started over a bug, btw. That he posted, then reposted, then deleted the repost.
+
+ <:KEKW:670310537300672528> Wuss!
+creations-chat 2021-07-11 14:42:26 
+creations-chat 2021-07-11 14:45:03 It actually looks good, thats the difference.
+help 2021-07-11 14:47:06 Nah minecraft looks better
+help 2021-07-11 14:48:11 
+creations-chat 2021-07-11 14:49:47 Hey man nothing wrong with Cs.
+creations-chat 2021-07-11 14:52:01 I make my planes look decent and pvp effective.
+
+Zach that has way too much lock man.
+creations-chat 2021-07-11 14:54:12 Minecraft builds should be a 3 day creations blacklist.
+creations-chat 2021-07-11 14:56:13 Hof is rigged anyway.
+creations-chat 2021-07-11 14:58:33 Yeah and dont any of you tell me it isnt. When this masterpiece of engineering didn't get hof.
+creations-chat 2021-07-11 15:24:12 <:Upvote:490311647492309004>
+
+Every one of my planes have some pvp capabilities and look decent. Not *great*, decent.
+
+Thats a nice mirage my dude.
+creations-chat 2021-07-11 15:27:37 I'll never understand how you people spend so much time motorlocking panels in such a way to have clean camo. I dont got that patience.
+creations-chat 2021-07-11 15:29:38 <:WhatChamp:775044367022555166> my camo-less hellcat took 1 hour.
+creations-chat 2021-07-11 15:31:46 Looks fine as is dude. 👍
+creations-chat 2021-07-11 15:33:50 👍
+creations-chat 2021-07-11 15:35:56 This may be my personal preference but i try to do horizontal wedges above the water line, and vertical wedges below the water line of my ships. Sometimes the result is rather nice.
+creations-chat 2021-07-11 15:38:07 Mhm.
+the-dump 2021-07-11 15:40:35 Twin boom is pog.
+creations-chat 2021-07-11 17:22:17 Gut. Very gut 262 hanz
+creations-chat 2021-07-11 17:26:23 Ah, i see you gave the noobs the clearly inferior edtition as the tutorial. Wise choice.
+creations-chat 2021-07-11 17:28:48 Also christ where are you hiding all the motors. I can see the custom angled nose and cockpit frames, but no motors.
+creations-chat 2021-07-11 17:34:50 <:Yikes:704804144657203220>
+creations-chat 2021-07-11 18:31:12 <@456226577798135808> may i ask why you have rockets on the wing tips.
+
+Do you mean it cant roll??
+the-dump 2021-07-11 19:45:00 Guys
+the-dump 2021-07-11 19:45:09 Look up the boomerang nebula <:trollface:775024642104229898>
+the-dump 2021-07-11 19:48:01 <:what:644996672048463942>
+creations-chat 2021-07-11 22:23:27 👍
+creations-chat 2021-07-11 22:26:45 AH YES. Boat is *aero*dynamic.
+the-dump 2021-07-11 22:27:41 
+creations-chat 2021-07-11 22:32:13 🤮 <:Downvote:490311668556103700>
+the-dump 2021-07-11 22:34:56 Bet its a rickroll
+creations-chat 2021-07-11 22:35:38 Still very nice.
+the-dump 2021-07-11 22:35:55 Sigh
+creations-chat 2021-07-11 22:39:27 <:Upvote:490311647492309004>
+creations-chat 2021-07-12 21:43:25 Time to @ obc?
+
+Its the same but he fucked up the colors, somehow. <@697786877444358186>  <:KEKW:670310537300672528>
+creations-chat 2021-07-12 21:45:54 Yo, bunny overlord. We got a tutorial in creations. <@195253906333368320>
+
+Yes dave, you do. He is our all mighty god afterall.
+creations-chat 2021-07-12 21:49:47 No no. It must be a female sacrifice you see.
+<:trollface:775024642104229898>
+creations-chat 2021-07-12 21:51:51 I mean. Rick has better things to do than browse the discord. *like working on soft coding the entire damn game*
+
+The bunny lord has answered our prayers in #creations
+creations-chat 2021-07-12 21:54:43 Because it doesnt need to be fixed?? I mean its a bit of a small team. But its enough.
+creations-chat 2021-07-12 22:00:41 Ping fail <:KEKW:670310537300672528>
+creations-chat 2021-07-12 22:03:38 You uninformed dumbass. Did you not listen to what i said. Rick is soft coding the entire game so he CAN fix everything!
+
+<@707133341454958604> but we know what he's doing.
+creations-chat 2021-07-12 22:06:50 *Me, who doesnt know the 1st thing about java script let alone roblox code.*
+
+Exactly
+creations-chat 2021-07-12 22:09:10 Dead chat?
+creations-chat 2021-07-12 22:27:40 Now make that system work on a frenchie battleship turret (4 barrels)
+creations-chat 2021-07-13 00:28:06 Yo <@456226577798135808> . He says it wasnt a tutorial <:KEKW:670310537300672528>
+creations-chat 2021-07-13 00:37:16 
+help 2021-07-13 00:37:40 Gl
+creations-chat 2021-07-13 00:39:17 <:thoink:657279634563399720>
+creations-chat 2021-07-13 00:41:18 I love tearing apart tutorial users that claim it aint a tutorial. Its so fun.
+help 2021-07-13 00:42:13 ^
+help 2021-07-13 01:11:44 Bruh
+creations-chat 2021-07-13 01:12:45 Idk what you're talking about man, its so fun watching a tutorial shit show unfold.
+creations-chat 2021-07-13 06:03:16 <@293962820054286338> make the camper damn it. Make the lab
+I need the stuff mr. White, cmon. Gimmie the camper, the good stuff.
+creations-chat 2021-07-13 06:05:19 
+creations-chat 2021-07-13 13:02:54 May i see a picture of the millions of people who have done the camper.
+bug-reports 2021-07-14 01:17:47 Ive done it myself before. Just never bothered using it seriously
+creations-chat 2021-07-14 06:13:32 Vertical stabilizers look too tall, front wings look way too short.
+the-dump 2021-07-14 13:45:18 <:empty:794431705070174238>
+the-dump 2021-07-14 13:45:22 It was a question
+the-dump 2021-07-14 13:45:25 Damn you dyno
+the-dump 2021-07-14 14:09:27 Gentlemen
+the-dump 2021-07-14 14:09:56 A George Floyd Memorial has been destroyed by lightning in broad daylight
+the-dump 2021-07-14 14:10:05 God hates blm confirmed
+the-dump 2021-07-14 14:10:32 Not
+the-dump 2021-07-14 14:10:51 I dont speak whatever the fuck that is
+the-dump 2021-07-14 14:11:30 I aint a furry
+the-dump 2021-07-14 14:11:55 Not used to be
+the-dump 2021-07-14 14:11:59 Never was
+the-dump 2021-07-14 14:12:17 .-.
+help 2021-07-14 17:49:03 <:Upvote:490311647492309004>
+creations-chat 2021-07-14 18:41:15 Ah
+Damn pepsi is dropping the hard facts. Keep going my dude lets see the shit show that follows.
+🍿
+creations-chat 2021-07-14 18:43:18 
+creations-chat 2021-07-14 18:46:56 Ah, Darth Hars, dark lord of the downvote has arrived.
+
+Oh yes <@404632014189494293>
+creations-chat 2021-07-14 18:49:53 Time doesnt equate to quality. <:FineTroll:626841259746656289>
+
+<@456226577798135808> dming wasnt needed to say such a simple statement.
+the-dump 2021-07-14 18:53:26 This is witch craft. Its impossible. *it cant be so!*
+the-dump 2021-07-14 18:54:08 Not me
+the-dump 2021-07-14 18:54:18 Some other guy's build
+the-dump 2021-07-14 21:52:18 You gonna take it to your school?
+the-dump 2021-07-14 21:52:43 You in atheletics?
+the-dump 2021-07-14 21:53:00 Nvm, i was going to suggest a duffle bag
+the-dump 2021-07-14 21:53:36 <:PogU:670373666164572172>
+the-dump 2021-07-14 21:54:09 Once you finish it, make a sawed off version
+the-dump 2021-07-14 21:54:22 Because yes
+the-dump 2021-07-14 21:55:06 We're having an intellectual talk of what apex should do with his paper mache shotgun
+the-dump 2021-07-14 21:55:50 Wait you brought a real p90 or a paper one?
+the-dump 2021-07-14 21:56:12 Can the paper p90 fire?
+the-dump 2021-07-14 21:58:39 <:trollface:775024642104229898>
+the-dump 2021-07-14 21:59:36 Your heart wishes to educate beto o'rourke of the ways of gun owner ship.
+the-dump 2021-07-14 22:00:17 .-.
+the-dump 2021-07-14 22:00:31 I forgot what red phosphorus does
+the-dump 2021-07-14 22:00:38 Cant it explode
+the-dump 2021-07-14 22:00:53 Oh yeah
+the-dump 2021-07-14 22:01:00 I remember now
+the-dump 2021-07-14 22:01:08 From that 1 breaking bad episode
+the-dump 2021-07-14 22:01:26 Seriosuly though walt fucked up that dealer
+the-dump 2021-07-14 22:04:34 Hmmm
+the-dump 2021-07-14 22:04:52 Make a different, automatic shotgun
+the-dump 2021-07-14 22:04:59 That can fire live ammo <:trollface:775024642104229898>
+the-dump 2021-07-14 22:05:37 Solution : many duck tape layers.
+the-dump 2021-07-14 22:06:44 Home made ammo?
+the-dump 2021-07-14 22:06:52 OHHHHHHHH
+the-dump 2021-07-14 22:06:54 WAIT
+the-dump 2021-07-14 22:07:06 You said you can make a phosphorus grenade right?
+the-dump 2021-07-14 22:07:15 Grenade launcher
+the-dump 2021-07-14 22:07:40 Ja hanz
+the-dump 2021-07-14 22:08:34 No
+the-dump 2021-07-14 22:09:30 On how a big brained patriot can stop californians from entering texas.
+the-dump 2021-07-14 22:11:02 Can we see a picture of your phosphorus grenades?
+the-dump 2021-07-14 22:11:25 Booo
+the-dump 2021-07-14 22:11:41 You wouldnt be showing us how to make it
+the-dump 2021-07-14 22:11:47 Just dm me it
+the-dump 2021-07-14 22:11:53 Im a curious lad
+the-dump 2021-07-14 22:12:25 Only if you get caught
+the-dump 2021-07-14 22:12:49 Besides he lives in europe, they prefer explosives
+the-dump 2021-07-14 22:13:16 Did i say europe, i meant the middle eastern hen house.
+the-dump 2021-07-14 22:17:31 To the dms!
+the-dump 2021-07-14 22:22:19 How big is that map
+the-dump 2021-07-14 22:22:49 You
+the-dump 2021-07-14 22:22:55 How big is the map
+the-dump 2021-07-14 22:23:07 Wdym you dont know
+the-dump 2021-07-14 22:23:39 Bigger than current map?
+the-dump 2021-07-14 22:23:58 
+the-dump 2021-07-14 22:25:24 Yay
+the-dump 2021-07-14 22:30:18 Apex
+the-dump 2021-07-14 22:30:23 The real question is
+the-dump 2021-07-14 22:30:27 The prototype tests
+the-dump 2021-07-14 22:30:44 Because big boom boom does big dmg to our meat bags
+the-dump 2021-07-14 22:30:56 Also known as bodies
+the-dump 2021-07-14 22:31:17 How will you test it safely
+the-dump 2021-07-14 22:31:34 Raw chicken?
+the-dump 2021-07-14 22:31:46 You're going to test the grenade on raw chicken?
+the-dump 2021-07-14 22:32:07 <:trollface:775024642104229898>
+the-dump 2021-07-14 22:32:35 Gl with that
+the-dump 2021-07-14 22:33:01 Find the pidgeons that the old ladies feed at the park
+the-dump 2021-07-14 22:33:24 <:KEKW:670310537300672528>
+the-dump 2021-07-14 22:33:34 The fuck
+the-dump 2021-07-14 22:34:06 You live in the us, yes?
+the-dump 2021-07-14 22:51:43 Your friend is stupid and cant appreciate weapons.
+the-dump 2021-07-14 22:52:17 Ngl if i made home made grenades ik my friends would say the same thing.
+the-dump 2021-07-14 22:52:26 Im older than you?!
+the-dump 2021-07-14 22:53:07 Idk
+the-dump 2021-07-14 22:53:20 I always thought you were like 15 or 17
+the-dump 2021-07-15 02:34:32 Taxing the rich doesnt work.
+
+~~let the shit show begin.~~<:trollface:775024642104229898>
+the-dump 2021-07-15 02:40:41 Is that the Gumball house? Yooo!
+creations-chat 2021-07-15 13:23:08 Shrug, do a 262 or something. Not too fast nor too slow.
+bug-reports 2021-07-15 13:25:07 Hello yes I'd like to report a wasp in my kitchen. This is my bug report
+creations-chat 2021-07-15 13:31:43 Cause it isnt an f15, he just threw together a half assed jet and decided "uk what, fuck it. This is an f15 now"
+creations-chat 2021-07-15 13:36:21 <:empty:794431705070174238>
+the-dump 2021-07-15 13:41:44 ok
+the-dump 2021-07-15 13:42:26 
+the-dump 2021-07-15 15:04:08 For the shotgun?
+the-dump 2021-07-15 15:04:53 Hm
+the-dump 2021-07-15 15:05:21 The liberator
+the-dump 2021-07-15 15:05:33 🤷
+the-dump 2021-07-15 15:07:29 D8
+the-dump 2021-07-15 15:09:05 Y
+help 2021-07-15 16:43:41 You cant turn your plane??<:what:644996672048463942>
+help 2021-07-15 16:44:02 Thats just
+help 2021-07-15 16:44:05 Dumb
+creations-chat 2021-07-15 16:53:21 Frog feedback
+the-dump 2021-07-15 16:59:50 
+the-dump 2021-07-15 17:05:00 <:empty:794431705070174238>
+the-dump 2021-07-15 17:05:27 Ive posted that many a time on here
+help 2021-07-15 17:43:16 <:FineTroll:626841259746656289>
+the-dump 2021-07-15 19:35:58 
+the-dump 2021-07-15 19:42:45 Yo meg
+the-dump 2021-07-15 19:43:04 Got any idea when <#623337136267067393>  will open back up?
+the-dump 2021-07-15 20:06:34 
+bug-reports 2021-07-15 21:17:27 termites <:trollface:775024642104229898>
+the-dump 2021-07-15 23:34:28 
+help 2021-07-15 23:36:19 How many folds it that, mate.
+the-dump 2021-07-15 23:39:02 
+the-dump 2021-07-15 23:39:14 Just doing my part
+bot-central 2021-07-15 23:42:55 =p Biden's Paradise
+bot-central 2021-07-15 23:43:13 =loop
+the-dump 2021-07-15 23:50:59 
+creations-chat 2021-07-16 14:43:45 Definitely
+creations-chat 2021-07-16 14:45:51 "Blocky = best" 
+<:what:644996672048463942> <:empty:794431705070174238>
+help 2021-07-16 14:52:37 Its not
+creations-chat 2021-07-16 15:00:21 Tell us the story of Darth Flonko the Toxic.
+help 2021-07-16 15:51:47 Y E S 🤦‍♂️
+creations-chat 2021-07-16 15:55:39 "To smoother"
+the-dump 2021-07-17 03:10:39 I fucking hate that add
+the-dump 2021-07-17 03:11:39 How to convert youtube videos into mp4s
+the-dump 2021-07-17 03:11:58 <:empty:794431705070174238>
+the-dump 2021-07-17 03:19:16 Gentlemen i made one of the more derpy Luft '46 aircraft in plane crazy. The Focke Wulf Ta 283
+the-dump 2021-07-17 03:19:33 The one with the stupidly big jet engines on the elevators
+help 2021-07-17 03:20:06 Yo thats one happy boy.
+the-dump 2021-07-17 13:07:13 
+the-dump 2021-07-17 13:07:28 <:trollface:775024642104229898>
+creations-chat 2021-07-17 16:25:30 I glitched something

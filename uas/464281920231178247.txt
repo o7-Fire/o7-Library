@@ -1,0 +1,10 @@
+The Tale of renzer (464281920231178247)
+bug-reports 2021-10-13 21:37:52 File “corrupts” and becomes unusable along with the build. Save and Undo stops working, along with build physics when in test mode. Thankfully this only happens to builds with 2k+ blocks. https://streamable.com/ce7ori
+creations-chat 2021-10-13 22:42:58 Tower is supposed to be on the right side, not left
+creations-chat 2021-10-13 22:45:01 ^
+bug-reports 2021-10-13 23:22:18 Bruh there is, the tiny red button to the top right of ur save file
+help 2021-11-03 17:59:18 Only happens with high block count builds from my experience
+help 2021-11-03 17:59:33 Like 3-4k
+help 2021-11-03 17:59:37 Ah
+help 2021-11-03 18:00:03 What works for me is that i save in autosave, and then the save file
+help 2021-11-03 18:00:25 And just keep doing it until the build is done

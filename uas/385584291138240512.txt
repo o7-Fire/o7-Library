@@ -1,0 +1,20 @@
+The Tale of Stampy (385584291138240512)
+help 2021-12-05 03:57:21 does anyone know how to make an aircraft statically pitch stable
+help 2021-12-05 03:58:28 damn
+help 2021-12-05 03:59:23 i managed to get a very small amount of stability with the CoM waaaaaay out in front of the wings but it barely did anything
+help 2021-12-05 05:06:38 could you elaborate
+help 2021-12-05 05:28:08 yea but *how*
+help 2021-12-05 05:28:48 *key control since thats to only one that works*
+help 2021-12-05 05:29:31 for pitch, so elevator
+help 2021-12-05 05:30:35 id probably use motor2 for the rudder since that convenient but i dont think that would effect pitch
+help 2021-12-05 05:31:40 key for roll as well
+help 2021-12-05 05:33:29 i want to put this on a bomber so i dont need to worry about maintaining alt while on a bombing run
+help 2021-12-05 05:37:43 im trying to make something that levels out on its own, without my input
+help 2021-12-05 05:39:03 after i sent the fist message i did manage to make one with an unpowered motor + helium, but that very ugly and hard to work with so if theres another way
+help 2021-12-05 05:40:14 damn
+help 2021-12-05 05:44:33 im not trying to dive bruh
+help 2021-12-05 05:45:20 i want automatic pitch correction, but it seems like thats not possible
+help 2021-12-05 05:45:30 yea that
+help 2021-12-05 05:46:24 they have different textures
+help 2021-12-05 06:04:22 actually this works pretty well
+help 2021-12-05 06:05:45 ugly testbed but it works

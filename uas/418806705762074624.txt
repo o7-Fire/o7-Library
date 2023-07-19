@@ -1,0 +1,42 @@
+The Tale of jackmanrooney (418806705762074624)
+help 2020-10-26 16:56:13 Is anyone able to help me with one of my builds?
+help 2020-10-26 16:56:40 I made a helicopter but whenever I try and get it to lift up,  it tilts really far backwards
+help 2020-10-26 16:56:49 I was told to add some helium to the back, which I did
+help 2020-10-26 16:57:08 
+help 2020-10-26 16:57:39 
+help 2020-10-26 16:57:52 
+help 2020-10-26 16:58:38 wdym
+help 2020-10-26 16:58:52 I'm posting my issue and giving evidence so people can help me
+help 2020-10-26 17:25:07 That's the only thing keeping it up
+help 2020-10-26 17:25:20 If I don't move the wing panels in the forward position it starts to flip
+help 2020-10-26 17:29:17 I was moving the panels forward in order to try and tilt it forward,  because they are meant to do that
+help 2020-10-26 17:29:35 the issue is that the lift overpowers everything, so not even the wing panels can move the heli forward
+help 2020-10-26 17:56:36 Does it matter where the lift is?
+help 2020-10-26 19:48:59 
+help 2020-10-26 19:49:08 How can I move the centre of Lift forward
+help 2020-10-26 19:49:37 I tried moving the rotor blades forward, but the issue is that the back rotor will always move it further back than the main rotor blades
+help 2020-10-26 19:49:58 But I need the back motor for stability
+help 2020-10-26 20:14:38 No I mean centre of Lift
+help 2020-10-26 20:14:52 I know I need the centre of mass where the rotor blades are
+help 2020-10-26 20:15:11 But Ideally I should try and get the centre of lift there aswell
+help 2020-10-27 17:23:39 Is there a way to rotate an entire build?
+bot-central 2020-10-27 21:44:54 ?rhelp
+creations-chat 2020-10-29 20:32:38 The camera behind glass can see through water,  idk whether it can see vehicles though.
+creations-chat 2020-10-29 20:33:43 Tbh these people with 2010 and 2013 etc in their names should probably be banned because the likelihood of them being underage is like 99.999%
+creations-chat 2020-10-29 20:34:43 Hey Shitass wanna see me do a speedrun of the saturn v tower elevator
+creations-chat 2020-10-29 20:36:03 Yoooo you gotta be 13 or over to use Discord.    Someone ping a mod here
+creations-chat 2020-10-29 20:37:04 Who even needs discord at age 10???    Like who are you even talking to?
+creations-chat 2020-10-29 20:38:19 WHO SAYS THEIR FULL ASS AGE ON A PUBLIC STATUS
+creations-chat 2020-10-29 20:39:57 Imagine having parents who don't teach even the most basic internet safety before letting their small child access public sites that they shouldn't even be on.
+creations-chat 2020-10-29 20:41:18 > Your parents teach internet safety?
+<@!725583147928125461> If you are stupid enough to put your DOB in ur status then they should.  A lot of us already have common sense and don't need to be taught that you don't do that sort of crap
+creations-chat 2020-10-29 20:43:55 > Kinda felt like a insult chief <@!418806705762074624>
+<@!725583147928125461> It isn't meant to be an insult.  But Surely it's common sense that you don't give away private info online.  I understand not every kid gets that. But if your child isn't very bright, then it's highly recommended you teach them internet safety.
+creations-chat 2020-10-29 20:45:19 I'm kinda to the point.   I don't push things around
+creations-chat 2020-10-29 20:48:04 https://discordapp.com/channels/384021699466756103/384025409945337856/770766506609999913
+creations-chat 2020-10-30 18:25:48 https://discordapp.com/channels/384021699466756103/384025409945337856/770766506609999913  Does anyone recognise what this flat ride is based off of?
+help 2022-09-21 20:10:54 My helicopter pitches too far forward and also too far backwards.  Is there a method to fix it?
+help 2022-09-21 20:11:21 Because usually if it pitches one way, it's a centre of mass/lift issue
+help 2022-09-21 20:11:28 But it goes both ways
+help 2022-09-22 04:04:55 Ngl it can barely lift up as is
+help 2022-09-22 04:05:21 Tried doing a single rotor to have a more accurate design

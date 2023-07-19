@@ -1,0 +1,40 @@
+The Tale of callsignzik (319756064562216960)
+the-dump 2020-04-07 16:12:17 That B-2 Spirit on picture (at right from moon's middle)
+the-dump 2020-04-07 16:12:44 Or something that looks like B-2
+the-dump 2020-04-07 16:12:53 Can't be F-117 because of it's shape
+the-dump 2020-04-07 16:13:30 I'm kinda new in tihs server
+the-dump 2020-04-07 16:13:32 This*
+the-dump 2020-04-07 16:13:43 Primarily there for update notifications
+help 2020-05-28 09:52:56 Can someone try to explain me why elevators of my Fenrir (Both, front and rear) keep jamming like this?
+help 2020-05-28 09:55:09 Also only right side elevators can unjam, I didn't manage to unjam left side. But after respawn both side elevators jam in this position again
+help 2020-05-28 10:15:19 Ok, give me a while
+help 2020-05-28 10:16:02 
+help 2020-05-28 10:18:02 What about front delta that used to keep rear elevator 'assembled'?
+help 2020-05-28 10:18:43 I tried to remove some deltas and it jammed again
+help 2020-05-28 10:19:10 That's okay
+help 2020-05-28 10:19:20 I scrapped one plane because of this already
+help 2020-05-28 10:19:38 Weirdly, during testing while building this didn't happen
+help 2020-05-28 10:21:13 Where exactly?
+help 2020-05-28 10:21:30 I also probably managed to fix rear elevators
+help 2020-05-28 10:22:07 Front elevators
+help 2020-05-28 10:22:40 5 deg. max angle, 3 speed, 100 torq.
+help 2020-05-28 10:23:04 Yup
+help 2020-05-28 10:24:44 Normal motor can't follow mouse unnlike Motor 2 :/
+help 2020-05-28 10:25:04 That's the front elevators by the way
+help 2020-05-28 10:27:34 Right after loading
+help 2020-05-28 10:28:10 Setting torq of front elevators on 10 seem to help a bit, going to try respawning on order to check if it one-time fix or permanent
+help 2020-05-28 10:30:03 Main wings connected to entire hull, if I want to disconnect them then I have to rebuild sides of hull
+help 2020-05-28 10:30:36 Also I set torq of rear elevators on 10 and it seem to help as well
+help 2020-05-28 10:32:38 No no, I think I solved problem already, I had to set torq on 10 for both elevators
+reports 2020-05-28 11:04:13 User: STAS2281_BRO
+Reason: NSFW Build
+Profile: Tried to retrieve profile. Roblox tagged his name when tried to search.
+Evidence: || <https://cdn.discordapp.com/attachments/650000298986831886/715519621930942584/SPOILER_1111.png> ||
+help 2020-05-28 13:41:04 My bad
+help 2020-05-28 13:41:11 Don't rage on me ;-;
+the-dump 2020-07-21 11:09:37 *Yes*
+the-dump 2020-07-21 11:10:36 Still way more better than me
+the-dump 2020-07-21 16:13:29 About AK guide. As a Russian, I FULLY agree with that
+the-dump 2020-07-21 16:13:56 AK is stronk, bullying AKs will be punishable with being put in ~~solitary~~ golag
+the-dump 2020-07-21 16:16:16 AK-47 that jams is called AR-15
+creations-chat 2020-08-02 00:25:51 Ery is ~~a madlad~~ Ery

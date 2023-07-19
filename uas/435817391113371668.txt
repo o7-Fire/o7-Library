@@ -1,858 +1,209 @@
-Xoule
-plane-crazy 2020-07-30 18:05:56 k
-plane-crazy 2020-07-30 18:05:55 c
-plane-crazy 2020-07-30 18:05:16 Probably never
-plane-crazy 2020-07-30 18:03:29 <:KEKW:670310537300672528>
-plane-crazy 2020-07-30 18:02:41 <:pogey:651848693842182144>
-plane-crazy 2020-07-30 18:01:06 Its not a easy task, two developers working on the same code without having same language skill is very time taking
-plane-crazy 2020-07-30 17:56:21 But this time it might be worth it
-plane-crazy 2020-07-30 17:55:58 At least give them their moment
-plane-crazy 2020-07-30 17:54:47 Trust me you will like it
-plane-crazy 2020-07-30 17:53:54 Rickje is quite busy with more important stuff for now
-plane-crazy 2020-07-30 17:52:23 Yeah cannons are kind of dead
-plane-crazy 2020-07-30 17:50:35 Event pings is something you have requested yourself
-plane-crazy 2020-07-30 17:49:29 You might get it, you might not
-plane-crazy 2020-07-30 17:49:18 I don't know to be honest
-plane-crazy 2020-07-30 17:48:31 Plane-Crazy is a game that will never finish
-plane-crazy 2020-07-30 17:47:37 We have to work out from the community
-plane-crazy 2020-07-30 17:47:19 Like always peoples opinions are useless
-plane-crazy 2020-07-30 17:47:00 I did a long time ago
-plane-crazy 2020-07-30 17:45:43 They might answer
-plane-crazy 2020-07-30 17:45:14 Ask Roblox
-plane-crazy 2020-07-30 17:44:42 No
-plane-crazy 2020-07-30 17:43:03 barrel<:Thinkje139:590548255927173201>
-plane-crazy 2020-07-30 17:42:34 No
-plane-crazy 2020-07-30 17:42:18 <:MyDolphinIsntWorking:552912733008429081>
-plane-crazy 2020-07-30 17:41:50 Outlines is never gonna be a thing<:pogey:651848693842182144>
-plane-crazy 2020-07-30 17:37:46 Still has to be a material for less data use
-plane-crazy 2020-07-30 17:37:13 Yes
-plane-crazy 2020-07-30 17:36:57 Yes
-plane-crazy 2020-07-30 17:36:50 Outlines could just be material in general
-plane-crazy 2020-07-30 17:36:11 Probably
-plane-crazy 2020-07-30 17:35:57 Never
-plane-crazy 2020-07-30 17:35:32 But maybe
-plane-crazy 2020-07-30 17:35:18 No
-plane-crazy 2020-07-30 17:35:00 No
-plane-crazy 2020-07-30 17:34:53 Never
-plane-crazy 2020-07-30 17:34:52 No outlines
-plane-crazy 2020-07-30 17:33:28 😎
-plane-crazy 2020-07-30 17:33:16 Gamepass refunds doesn't exist
-plane-crazy 2020-07-30 17:32:41 <:pogey:651848693842182144>
-plane-crazy 2020-07-30 17:30:10 Mad has left the lobby
-plane-crazy 2020-07-30 17:29:49 <:ElonSad:573361014112780303>
-plane-crazy 2020-07-28 00:30:45 moto moto
-plane-crazy 2020-07-16 01:40:22 I'm just gonna take some time explaining some stuff.
-
-It is possible to add outlines, the reason for not doing so is due to the difference between the file sizes, because now we use OBJ format a file format that does not remember anything other than model shape, it also means that the file is not as heavy as older blocks .
-
-When Roblox decided to scrap outlines, we also decided to replace the old unoptimized blocks with solid models from a 3D software instead of Roblox Studio standard mesh which was incredibly unoptimized, now the block files take up less than half of what they were then. If we implemented outlines we would have to use a file format called FBX a file format that remembers all history as a done in through the 3D program the reason we chose not to spend time on it was that the files would fill 10% more in data than they older models and plane-crazy did lag enough in advance.
-
-Regarding new blocks for the game, it already took rick 3 hours to import them due to the game's hardcode, also he has a bit of a hard time trusting people since the first time the game got leaked information about updates he was so happy to have to surprise you with, it is reasonably understandable that he has not been so happy to import new blocks as he has been alone about it and like all of you others he also has everyday deeds to take care of, he could also have just left the game dead instead of keep it running as best he can...
-plane-crazy 2020-07-15 19:13:38 Uh
-plane-crazy 2020-07-15 19:10:23 I would rather care about owning that ability than actually winning a contest Guggi, obviously people are just jealous<:PogStare:699130318510227537>
-plane-crazy 2020-07-15 19:00:50 Lol
-plane-crazy 2020-07-15 18:58:55 <#497142796961054721>
-plane-crazy 2020-07-15 18:54:24 Probably just a waste of time
-plane-crazy 2020-07-15 18:53:49 10k members jeez
-plane-crazy 2020-07-15 18:51:24 Let's just chill
-plane-crazy 2020-07-10 15:18:17 https://gyazo.com/59043a8a521320c83ad03c7ee72af7d2
-plane-crazy 2020-07-05 18:07:43 Micro triangle wedge
-plane-crazy 2020-07-04 22:27:13 I bet there is
-plane-crazy 2020-07-04 22:26:36 You have whole YouTube
-plane-crazy 2020-07-04 16:58:01 <:KEKW:670310537300672528>
-plane-crazy 2020-07-04 16:57:57 Map bad geomatry
-plane-crazy 2020-07-04 16:55:33 No
-plane-crazy 2020-07-04 16:51:59 Lol
-plane-crazy 2020-07-04 00:09:51 Oh yes these FSX vibes coming back
-plane-crazy 2020-07-04 00:08:52 
-plane-crazy 2020-07-04 00:08:36 The runway for me collision and look is above ground wth
-plane-crazy 2020-07-04 00:07:53 Ok
-plane-crazy 2020-07-01 14:05:53 Yeah lets continue in <#497142796961054721> if
-plane-crazy 2020-07-01 14:05:21 k
-plane-crazy 2020-07-01 14:04:50 Username?
-plane-crazy 2020-07-01 14:04:46 Public?
-plane-crazy 2020-07-01 14:04:04 Nah i was just curious
-plane-crazy 2020-07-01 14:01:46 You in a server?
-plane-crazy 2020-07-01 14:00:58 I'm a noob at small builds
-plane-crazy 2020-07-01 14:00:09 <:PogStare:699130318510227537>
-plane-crazy 2020-07-01 13:59:29 Airport stair car
-plane-crazy 2020-07-01 13:59:15 <:what:644996672048463942>
-plane-crazy 2020-07-01 13:59:00 No that is the ladder
-plane-crazy 2020-07-01 13:58:29 Stairs good for interior yes😎
-plane-crazy 2020-07-01 13:43:03 
-plane-crazy 2020-07-01 13:31:40 Nice
-plane-crazy 2020-06-30 23:10:13 Join vip2 problem solved
-plane-crazy 2020-06-30 23:09:17 Why do we all have to listen to this
-plane-crazy 2020-06-30 23:03:10 i
-plane-crazy 2020-06-30 20:18:30 Is very nice Concorde
-plane-crazy 2020-06-30 20:15:46 <@!389378589914562565>
-plane-crazy 2020-06-30 20:12:53 Possibly
-plane-crazy 2020-06-30 20:12:39 Ok
-plane-crazy 2020-06-30 20:11:54 https://gyazo.com/6229d2cb25b3121ae5bf394b032e3eb5
-plane-crazy 2020-06-30 20:09:05 Seems like its fixed idk
-plane-crazy 2020-06-30 20:09:02 Ok
-plane-crazy 2020-06-30 20:08:41 I have not heard anything about a fix
-plane-crazy 2020-06-30 20:08:29 Well i have not tried it myself but seems like
-plane-crazy 2020-06-30 20:07:48 When you blacklist for now on people can still enter your plot
-plane-crazy 2020-06-30 20:07:01 Well people seemed to be trapped inside the plot box when spawning
-plane-crazy 2020-06-30 20:06:09 Well probably not at the moment right now there has appeared some annoying collision issues Rick will look into first, aka might be Roblox that has broken something we don't know
-plane-crazy 2020-06-30 20:04:26 But people just keept disagreeing whether it was too detailed or not
-plane-crazy 2020-06-30 20:03:52 We wanted it to relate kinda to Plane-Crazy build style
-plane-crazy 2020-06-30 20:03:25 Well people were disliking everything i came up with
-plane-crazy 2020-06-30 20:02:01 Peoples answers was useless and not to deal with
-plane-crazy 2020-06-30 20:01:50 I cancelled it
-plane-crazy 2020-06-30 20:01:21 <:pogey:651848693842182144>
-plane-crazy 2020-06-30 20:00:31 Imagine
-plane-crazy 2020-06-30 19:59:50 Curvy moment
-plane-crazy 2020-06-30 17:56:22 Big opsie
-plane-crazy 2020-06-30 17:55:49 Only mad would know
-plane-crazy 2020-06-30 12:47:08 Game facing some major issues at the moment please be patient
-plane-crazy 2020-06-28 14:31:41 Another warn great
-plane-crazy 2020-06-28 14:30:02 Its easy to sue him
-plane-crazy 2020-06-28 14:29:25 Big money
-plane-crazy 2020-06-28 14:29:07 I do
-plane-crazy 2020-06-28 14:28:48 But sketchfab is full with copyrighting
-plane-crazy 2020-06-28 14:28:22 You can't fly around perspective like on sketchfab though
-plane-crazy 2020-06-28 14:27:53 Mostly must have 360 turntables
-plane-crazy 2020-06-28 13:48:00 > Y’all calling your gay ass ships big and shit
-<@!403590573799505922> How big is this gonna be?
-plane-crazy 2020-06-28 13:46:48 Well that including work days
-plane-crazy 2020-06-28 13:46:22 1 month for the body
-plane-crazy 2020-06-28 13:44:37 Finally this is gonna look like normal decent size
-plane-crazy 2020-06-26 18:21:27 Midget SubGang
-plane-crazy 2020-06-24 14:26:46 Hmm
-plane-crazy 2020-06-24 14:25:21 > its stuck floating
-<@456226577798135808> Does this happen no matter you joining another server?
-plane-crazy 2020-06-24 01:13:54 Time to explore ship wracks
-plane-crazy 2020-06-23 23:44:09 You need it to be spawned in case to do that
-plane-crazy 2020-06-23 03:00:45 Ok
-plane-crazy 2020-06-22 01:46:39 But they butter
-plane-crazy 2020-06-22 01:07:00 Chewwy is coming up next
-plane-crazy 2020-06-22 00:49:38 I said tell me when to launch xd
-plane-crazy 2020-06-22 00:49:14 Im waiting for everyone to anchor
-plane-crazy 2020-06-22 00:48:28 👏
-plane-crazy 2020-06-22 00:48:00 Ok
-plane-crazy 2020-06-22 00:47:30 Yes
-plane-crazy 2020-06-21 22:14:30 Not really
-plane-crazy 2020-06-21 22:14:06 You might require a build with more weight for it not to make that odd flip
-plane-crazy 2020-06-21 22:13:34 Seems like the pontoons are very sensitive
-plane-crazy 2020-06-21 22:07:55 Right
-plane-crazy 2020-06-21 22:07:42 So it is the pontoons
-plane-crazy 2020-06-21 22:07:30 Yes but does it glitch again even though you got rid of the pontoons?
-plane-crazy 2020-06-21 22:06:38 If it doesn't flip again its collision problems with the pontoon block
-plane-crazy 2020-06-21 22:06:22 Can you please just try spawn it without em
-plane-crazy 2020-06-21 22:06:03 My bad i meant pontoon
-plane-crazy 2020-06-21 22:05:34 Just a question
-plane-crazy 2020-06-21 22:05:27 What happens if you get rid of the patoons?
-plane-crazy 2020-06-21 22:04:46 You don't have anything powered on the boat?
-plane-crazy 2020-06-21 22:03:54 Right, try remove some of em and see the result
-plane-crazy 2020-06-21 22:03:41 Below the boat
-plane-crazy 2020-06-21 22:03:14 What are all these center blocks in the buttom?
-plane-crazy 2020-06-21 22:02:29 <@456226577798135808> What is the ballast on that?
-plane-crazy 2020-06-21 20:50:30 Yeet
-plane-crazy 2020-06-19 16:27:33 Fabric cylinders has better grip
-plane-crazy 2020-06-19 16:26:57 Yes
-plane-crazy 2020-06-19 16:19:56 If your answers are wisely it might as well have a chance
-plane-crazy 2020-06-19 16:17:34 What kind of wedges frustrating you the most are not currently in game at the moment?
-plane-crazy 2020-06-19 03:23:14 You will probably notice it without any announcement
-plane-crazy 2020-06-19 03:22:47 That is basically what is gonna get fixed possibly
-plane-crazy 2020-06-19 03:22:07 Yes
-plane-crazy 2020-06-19 03:21:46 Right not Roblox developers are actually working on fixing it
-plane-crazy 2020-06-19 03:20:53 Its basically not possible
-plane-crazy 2020-06-19 03:19:56 And its brilliant
-plane-crazy 2020-06-19 03:19:38 Antonov
-plane-crazy 2020-06-19 03:07:33 Big planes
-plane-crazy 2020-06-19 01:50:44 Make it happen
-plane-crazy 2020-06-19 01:50:14 Now make it into HoF
-plane-crazy 2020-06-19 01:17:07 <:KEKW:670310537300672528>
-plane-crazy 2020-06-19 01:16:51 You got a ladder instead
-plane-crazy 2020-06-19 01:16:10 It got cancelled your reply to it was just useless
-plane-crazy 2020-06-19 01:15:18 I mean you only need about 4k upvotes to get into HoF.
-plane-crazy 2020-06-19 00:07:56 Very bright
-plane-crazy 2020-06-17 03:59:48 <:WeirdChamp:670867805176070145>
-plane-crazy 2020-06-17 03:59:11 <:YouTried:559530066258821131>
-plane-crazy 2020-06-17 03:58:21 roblok
-plane-crazy 2020-06-17 03:57:41 <:pogey:651848693842182144>
-plane-crazy 2020-06-17 03:54:50 Roblox is kill
-plane-crazy 2020-06-16 12:44:19 Mysterium
-plane-crazy 2020-06-15 15:04:04 Looks noice
-plane-crazy 2020-06-15 15:03:47 Good luck with it Guggi
-plane-crazy 2020-06-14 14:16:18 Nu
-plane-crazy 2020-06-12 10:15:04 Nah the one building it was so clever to leak footage to others
-plane-crazy 2020-06-12 10:14:06 Airport too smul
-plane-crazy 2020-06-11 18:28:01 <:pogey:651848693842182144>
-plane-crazy 2020-06-11 18:27:49 <:gnomed:698768352876822628>
-plane-crazy 2020-06-11 18:25:17 Oh
-plane-crazy 2020-06-11 18:24:38 Fly mode?
-plane-crazy 2020-06-11 13:12:49 In that case if you uploaded it into the Toolbox its a free model to use for everyone by Roblox terms
-plane-crazy 2020-06-11 13:11:36 If you have any we can talk about it
-plane-crazy 2020-06-11 13:11:21 Where is your signatur on that specific block?
-plane-crazy 2020-06-11 13:10:32 Huh
-plane-crazy 2020-06-11 13:08:09 > Fuckers took my block
-> 
-> 
-> Can't have shit in detroit
-<@456226577798135808>  what do you mean?
-plane-crazy 2020-06-10 23:40:08 Might not be any plans for that yet or in general map stuff, but i can see what rickje says about that
-plane-crazy 2020-06-10 23:39:13 Oh
-plane-crazy 2020-06-10 23:39:05 In general the map?
-plane-crazy 2020-06-10 23:37:08 <@!318892614378061824> what do you mean with train curves?
-plane-crazy 2020-06-10 23:11:34 Because i can
-plane-crazy 2020-06-10 22:49:52 <@!429826358827417601> currently on vacation
-plane-crazy 2020-06-09 23:43:21 Its how you use it
-plane-crazy 2020-06-09 23:42:01 See size does not matter😎
-plane-crazy 2020-06-09 13:30:14 <#623337136267067393> Then follow the form by pins.
-plane-crazy 2020-06-09 03:21:06 YouTube is more help then you might ever get on here
-plane-crazy 2020-06-09 03:19:58 Again it depends on how much work Rick will actually use on this, each part need to be imported separately
-plane-crazy 2020-06-09 03:17:57 Probably related to a half block and up
-plane-crazy 2020-06-09 03:17:35 Just a example of how a cannon could work in the game, if people agree with it i will ask Rickje about the limitations.
-plane-crazy 2020-06-09 03:15:50 Exactly
-plane-crazy 2020-06-09 03:14:59 
-plane-crazy 2020-06-09 03:12:40 They're only props
-plane-crazy 2020-06-09 03:12:33 The breech block you see in the end, will have the fire mechanism. Then you can craft the cannon with cylinder shapes
-plane-crazy 2020-06-09 03:11:34 That was in case the way i was thinking
-plane-crazy 2020-06-09 03:11:21 Depends on how many Rick allowing me to make
-plane-crazy 2020-06-09 03:09:11 e
-plane-crazy 2020-06-09 03:09:00 With a fire mechanism
-plane-crazy 2020-06-09 03:08:55 A prop
-plane-crazy 2020-06-09 03:08:42 Ok
-plane-crazy 2020-06-09 03:08:07 This is not related to a original cannon, its a cannon asset you can place on your tank
-plane-crazy 2020-06-09 03:07:15 Yes probably with sound
-plane-crazy 2020-06-09 03:06:24 Same function different effects
-plane-crazy 2020-06-09 03:06:02 Yes
-plane-crazy 2020-06-09 03:05:52 Unlimited
-plane-crazy 2020-06-09 03:05:34 Just as a cannon you could put on tanks or ships etc
-plane-crazy 2020-06-09 03:05:18 Works like fireworks
-plane-crazy 2020-06-09 03:05:02 e
-plane-crazy 2020-06-09 03:04:05 Yes
-plane-crazy 2020-06-09 03:03:25 <#529858892075761694>
-plane-crazy 2020-06-09 03:03:12 Cannon, plane crazy yes or no?
-plane-crazy 2020-06-09 03:02:43 Well the shell would have the same collision as the missiles, won't collision with owner
-plane-crazy 2020-06-09 03:02:04 No
-plane-crazy 2020-06-09 02:55:08 Just cannon example? with Breech block/Fire block then cannon shape assets you can craft and extent it with?
-plane-crazy 2020-06-09 00:41:08 Potato Rickje
-plane-crazy 2020-06-08 23:16:06 I need a way to hide under the runway next time lol
-plane-crazy 2020-06-08 23:15:28 
-plane-crazy 2020-06-08 23:15:27 
-plane-crazy 2020-06-08 23:15:27 <@!325638040670437376>
-plane-crazy 2020-06-04 15:28:49 Well you were
-plane-crazy 2020-06-04 01:09:11 bad
-plane-crazy 2020-06-04 01:09:09 Not motor 2
-plane-crazy 2020-06-04 01:02:30 Lets build one together
-plane-crazy 2020-06-04 00:48:50 
-plane-crazy 2020-06-03 19:05:06 <:pogey:651848693842182144>
-plane-crazy 2020-06-03 18:11:56 Its a dump image / meme not a in game related image
-plane-crazy 2020-06-03 18:10:32 Well so how is this <#384021699466756107> related?
-plane-crazy 2020-06-02 21:54:24 rip
-plane-crazy 2020-06-02 12:40:40 So i can see the issue for myself
-plane-crazy 2020-06-02 12:40:15 <@!270291665116200962> Can you please let me join your game within the chassi issue you got with the improved update?
-plane-crazy 2020-06-01 19:28:44 Ok
-plane-crazy 2020-06-01 19:28:18 If motors does not work right for you, you doing something wrong.
-plane-crazy 2020-06-01 18:50:03 Right
-plane-crazy 2020-06-01 18:47:23 It won't have damage different effects
-plane-crazy 2020-06-01 18:47:14 No
-plane-crazy 2020-06-01 18:46:53 Won't be this detailed
-plane-crazy 2020-06-01 18:46:31 But if its working like the missiles it would be fine
-plane-crazy 2020-06-01 18:46:18 Depends i don't know how the shell will react to blocks in front of it
-plane-crazy 2020-06-01 18:45:52 Maybe
-plane-crazy 2020-06-01 18:45:27 Then none collision cannon shape blocks?
-plane-crazy 2020-06-01 18:45:12 Hmm
-plane-crazy 2020-06-01 18:42:34 I might have got rickje to accept more then one model so i was thinking a simple Cannon with modifications that can be added to any vehicle
-plane-crazy 2020-06-01 18:25:23 Probably need to be less highpoly than that
-plane-crazy 2020-06-01 17:58:04 Sounds like it
-plane-crazy 2020-06-01 17:58:00 Let’s see
-plane-crazy 2020-06-01 17:48:51 Godlike son
-plane-crazy 2020-06-01 17:48:27 well I’m trying to warn you but if you wanna get warned go ahead
-plane-crazy 2020-06-01 17:47:50 <#497142796961054721>
-plane-crazy 2020-06-01 17:47:44 <@!262743221686370326>
-plane-crazy 2020-06-01 17:47:18 Summer car vibe😎
-plane-crazy 2020-06-01 17:46:54 Very nice though
-plane-crazy 2020-06-01 17:46:14 Student version
-plane-crazy 2020-06-01 17:45:11 Plane-crazy is already hard scripted in wrong order by start so idk how much rickje wants more than one module
-plane-crazy 2020-06-01 17:43:19 Yeah still I rather like a video I can go back and forward to
-plane-crazy 2020-06-01 17:42:32 Yes YouTube, but blender has details on their site for free use
-plane-crazy 2020-06-01 17:41:28 Free tutorials too..
-plane-crazy 2020-06-01 17:40:57 True
-plane-crazy 2020-06-01 17:40:42 Blenders perspective is so bad
-plane-crazy 2020-06-01 17:39:36 Select the model, hold right mouse key I think, I’m maya person not blender yet
-plane-crazy 2020-06-01 17:38:53 Blender?
-plane-crazy 2020-06-01 17:37:52 I’ll give it to him
-plane-crazy 2020-06-01 17:37:21 Try ask rickje
-plane-crazy 2020-06-01 17:37:01 Good
-plane-crazy 2020-06-01 17:36:41 Yes but is that commercial license?
-plane-crazy 2020-06-01 17:35:49 <@!448505589983739914> I will try aim for your concept see what people think
-plane-crazy 2020-06-01 17:34:43 Shift middle wheel
-plane-crazy 2020-06-01 17:34:02 Yes roblox mesh is messy can’t use it
-plane-crazy 2020-06-01 17:33:27 What is it modeled in Marple?
-plane-crazy 2020-06-01 17:32:23 Yes but he asking more what you guys want its gonna be concept no matter what probably as people will use it on any kind of creation
-plane-crazy 2020-06-01 17:29:55 This will only feature one model for now and it’s a cannon that shoots and reloads nothing with highly modified animations
-plane-crazy 2020-06-01 17:22:59 <@!489910972946055172> do you have any concept art or anything defining your opinion better?
-plane-crazy 2020-06-01 16:39:57 Its not easy to figure out how its gonna match with the mechanics 3D models is quite a new thing in the game
-plane-crazy 2020-06-01 16:39:33 Ok
-plane-crazy 2020-06-01 16:39:00 Ok then don't question it
-plane-crazy 2020-06-01 16:38:50 You talked with him about it?
-plane-crazy 2020-06-01 16:38:09 This has nothing to do with the cannon Rickje wants
-plane-crazy 2020-06-01 16:37:39 For cannon related stuff
-plane-crazy 2020-06-01 16:37:23 Can you please not ping me for useless reasons
-plane-crazy 2020-06-01 13:42:37 Realistic opinions only otherwise you won’t get it
-plane-crazy 2020-06-01 13:41:43 I need opinions in <#529858892075761694>, what do you want in a cannon?
-plane-crazy 2020-06-01 01:16:37 Different or more simple?
-plane-crazy 2020-06-01 00:53:16 How is it poopoo then?
-plane-crazy 2020-06-01 00:52:39 Do a better one then😎
-plane-crazy 2020-05-31 01:35:41 They will have to be ranked in order to join them with that command
-plane-crazy 2020-05-31 01:35:28 Do not share these links with anybody else though
-plane-crazy 2020-05-31 01:35:12 Go in <#384027830192832513> type !servers
-plane-crazy 2020-05-31 01:34:59 Jack
-plane-crazy 2020-05-30 18:02:54 2400 horse powers not bad
-plane-crazy 2020-05-30 01:53:42 When you can walk inside a plane without collision or yeet issues
-plane-crazy 2020-05-30 01:42:05 
-plane-crazy 2020-05-30 00:28:17 That is what i preferring
-plane-crazy 2020-05-30 00:27:25 Either you put a good amount of super rockets in it or attaching a conveyor engine
-plane-crazy 2020-05-30 00:26:39 Helium slows it down tho
-plane-crazy 2020-05-30 00:25:38 The more speed the more lift
-plane-crazy 2020-05-30 00:25:22 The questioning is amount of control panels, but mostly important speed
-plane-crazy 2020-05-30 00:25:02 No
-plane-crazy 2020-05-30 00:24:48 You can easily do it without helium
-plane-crazy 2020-05-28 04:24:52 <:pogey:651848693842182144>
-plane-crazy 2020-05-28 04:24:36 Plane-crazy graphic update?
-plane-crazy 2020-05-28 02:33:03 its a trap
-plane-crazy 2020-05-27 21:21:29 Yacht gang
-plane-crazy 2020-05-27 18:40:57 Ok
-plane-crazy 2020-05-27 18:39:27 Is it a big creation?
-plane-crazy 2020-05-27 18:38:35 Trap doors do not work with physics off
-plane-crazy 2020-05-24 23:48:47 No fold just alts
-plane-crazy 2020-05-24 23:05:26 Future does it
-plane-crazy 2020-05-24 23:02:25 Battleship mast for sure
-plane-crazy 2020-05-24 22:51:23 
-plane-crazy 2020-05-24 22:44:23 Make it disappear
-plane-crazy 2020-05-24 22:42:04 Ok
-plane-crazy 2020-05-24 22:41:04 You wanna bomb this yacht
-plane-crazy 2020-05-24 22:40:53 <@!708064765770989568> ?
-plane-crazy 2020-05-24 21:46:39 Yes
-plane-crazy 2020-05-24 18:52:16 <@!325638040670437376>
-plane-crazy 2020-05-20 18:19:54 PhoeniPXG is a god
-plane-crazy 2020-05-20 18:04:27 Tons of tutorials on youtube i bet
-plane-crazy 2020-05-20 15:39:48 Plane-crazy possibly
-plane-crazy 2020-05-20 15:38:51 And it doesn’t reflect to other in game models
-plane-crazy 2020-05-20 15:36:26 Mostly important is that you can play the game
-plane-crazy 2020-05-20 15:08:43 <:wuck:706942054286098503>
-plane-crazy 2020-05-20 15:07:39 Transfer Pc to Unreal<:pogey:651848693842182144>
-plane-crazy 2020-05-20 15:05:31 Example they’re gonna be visible in glass
-plane-crazy 2020-05-20 15:05:00 Custom outlines is gonna effect the game a little different than the ones we had
-plane-crazy 2020-05-20 15:01:42 You do realize it’s Roblox right
-plane-crazy 2020-05-20 03:58:51 <:what:644996672048463942>
-plane-crazy 2020-05-18 22:07:04 <:ElonApprove:589130525315301380>
-plane-crazy 2020-05-18 22:05:39 Ok
-plane-crazy 2020-05-18 21:15:04 But its sad as a community only special people are allowed in there
-plane-crazy 2020-05-18 21:14:27 Don't know how that system works
-plane-crazy 2020-05-18 21:12:50 <#627195143040139264> moment
-plane-crazy 2020-05-18 21:11:04 <:pogey:691528683428511785>
-plane-crazy 2020-05-18 21:10:52 how
-plane-crazy 2020-05-18 21:10:47 o
-plane-crazy 2020-05-18 21:10:25 No?
-plane-crazy 2020-05-18 21:09:56 Piston
-plane-crazy 2020-05-18 21:08:22 It is probably Roblox..
-plane-crazy 2020-05-18 21:07:34 I'm fine in general servers
-plane-crazy 2020-05-18 21:06:18 It might also just be Roblox acting up it has done a lot lately
-plane-crazy 2020-05-18 21:06:07 Just put it it in <#498473314445033472>
-plane-crazy 2020-05-18 21:01:37 And <@!429826358827417601> is a master mind
-plane-crazy 2020-05-18 21:01:16 ⭐
-plane-crazy 2020-05-18 20:59:55 <@!386974424538152960> is a master photographer<:Upvote:490311647492309004>
-plane-crazy 2020-05-18 20:59:18 Thanks for the likes man👏
-plane-crazy 2020-05-18 20:57:16 Ok
-plane-crazy 2020-05-18 20:57:12 But you're able to enter in a general server?
-plane-crazy 2020-05-18 20:56:52 Skip the tutorial and join in a the vip again
-plane-crazy 2020-05-18 20:56:42 Join a general game
-plane-crazy 2020-05-18 20:56:29 Are you trying to join a vip?
-plane-crazy 2020-05-18 20:53:49 Join now
-plane-crazy 2020-05-18 20:53:41 Ok
-plane-crazy 2020-05-18 20:52:52 Anyway i think 95% of the people do the same thing
-plane-crazy 2020-05-18 20:52:14 Why ain't that a emoji
-plane-crazy 2020-05-18 20:50:56 Never used it
-plane-crazy 2020-05-18 20:50:21 Joining a general server then skipping the tutorial
-plane-crazy 2020-05-18 20:49:55 Yeah that fixed it
-plane-crazy 2020-05-18 20:49:40 Well seems like you should not join a Vip on first try
-plane-crazy 2020-05-18 20:48:53 I should had credited you lol
-plane-crazy 2020-05-18 20:48:41 It was your idea
-plane-crazy 2020-05-18 20:47:42 Or i can get kicked out again<:pogey:651848693842182144>
-plane-crazy 2020-05-18 20:42:53 <:ElonSad:573361014112780303>
-plane-crazy 2020-05-18 20:42:01 e
-plane-crazy 2020-05-18 20:39:55 Lets see your cockpit GiGlE
-plane-crazy 2020-05-18 20:30:44 Yes
-plane-crazy 2020-05-18 20:30:34 Just created it
-plane-crazy 2020-05-18 20:30:15 Nah new alt
-plane-crazy 2020-05-18 20:30:03 Same
-plane-crazy 2020-05-18 20:29:38 rip
-plane-crazy 2020-05-18 20:24:23 Yes very nice
-plane-crazy 2020-05-18 12:27:52 dot
-plane-crazy 2020-05-18 12:27:35 e
-plane-crazy 2020-05-18 12:27:16 13 thousand blocks
-plane-crazy 2020-05-18 12:26:54 Runway
-plane-crazy 2020-05-18 12:26:34 <@!615876745710534676>
-plane-crazy 2020-05-18 12:05:32 Imagine being kicked out again
-plane-crazy 2020-05-18 11:25:19 C u r v y b o i yes
-plane-crazy 2020-05-18 03:37:50 VIP 1 Runway moment
-plane-crazy 2020-05-13 20:18:51 Why
-plane-crazy 2020-05-13 20:17:36 Just press c till it become normal perspective
-plane-crazy 2020-05-13 15:13:50 Its Roblox's fault
-plane-crazy 2020-05-13 15:13:23 https://devforum.roblox.com/t/roblox-having-major-physics-issues/549524/60
-plane-crazy 2020-05-12 23:37:03 About a month or something if you mean the outlines.
-plane-crazy 2020-05-12 23:19:15 Running again
-plane-crazy 2020-05-12 23:18:05 Lol
-plane-crazy 2020-05-12 04:02:40 <:what:644996672048463942>
-plane-crazy 2020-05-12 04:00:43 e
-plane-crazy 2020-05-12 04:00:36 Jur did
-plane-crazy 2020-05-12 04:00:33 No
-plane-crazy 2020-05-12 03:59:31 But we cracked it
-plane-crazy 2020-05-12 03:59:27 Yes
-plane-crazy 2020-05-12 00:01:09 <:PauseChamp:670868208588423168>
-plane-crazy 2020-05-11 22:25:23 <:PauseChamp:670868208588423168>
-plane-crazy 2020-05-10 23:35:24 <:kekw:691529318341541888>
-plane-crazy 2020-05-10 01:51:17 Complane
-plane-crazy 2020-05-08 13:00:39 Lol did i get deleted off HoF.
-plane-crazy 2020-05-08 03:04:41 Thanks for the upvotes guys appreciate it<:ElonApprove:589130525315301380>
-plane-crazy 2020-05-07 23:48:24 👍
-plane-crazy 2020-05-07 16:31:59 Just report the following names in <#623337136267067393>  but make sure you following the instructions by pinned📍 messages get a clear screenshot of their plot/name and the lag machine in action and chat proof is just a plus against their defence
-plane-crazy 2020-05-06 22:37:27 Very nice
-plane-crazy 2020-05-06 22:36:56 And the front doesn't match
-plane-crazy 2020-05-06 22:36:00 Reminding me of a Kv-13.
-plane-crazy 2020-05-06 18:20:34 Flying hamster ball
-plane-crazy 2020-05-04 18:15:39 cul
-plane-crazy 2020-05-02 22:57:29 I'm good
-plane-crazy 2020-05-02 22:57:21 e
-plane-crazy 2020-05-02 22:57:11 To actually see the topics
-plane-crazy 2020-05-02 22:56:46 So a vote role or do you have to qualify as a team and force on doing it?
-plane-crazy 2020-05-02 22:55:40 Whats that gonna be
-plane-crazy 2020-05-02 22:55:26 Thought it was ended
-plane-crazy 2020-05-02 22:54:44 Where
-plane-crazy 2020-05-02 22:54:27 No
-plane-crazy 2020-05-02 17:36:07 æ
-plane-crazy 2020-05-02 17:26:07 æ
-plane-crazy 2020-05-02 13:47:42 But it doesn't support the control mechanism
-plane-crazy 2020-05-02 13:46:56 You just zoom all in.
-plane-crazy 2020-05-02 13:46:40 Plane-Crazy VR with joysticks imagine
-plane-crazy 2020-05-02 13:44:32 Don't use motor2 to fold.
-plane-crazy 2020-05-01 05:57:15 a
-plane-crazy 2020-05-01 01:24:17 <:Wack:559530123284578326>
-plane-crazy 2020-04-30 19:26:33 As said last time the game is too messy scripted
-plane-crazy 2020-04-30 19:18:47 Bote satellite
-plane-crazy 2020-04-30 19:02:49 If so you can gain access to the vip servers where people usually are quite helpful
-plane-crazy 2020-04-30 19:02:32 <@!416215683089563649> Do you have anything functional that can give you a rank in <#609442446249820211> ?
-plane-crazy 2020-04-30 19:00:57 Yeah but in general jets with many details
-plane-crazy 2020-04-30 19:00:25 Usually making fighter jets in 1:1 scale is bad too, you can't fit quite as many details
-plane-crazy 2020-04-30 18:59:29 What scale are you gonna make this 1:1?
-plane-crazy 2020-04-30 18:58:17 Rickje don't like wedges
-plane-crazy 2020-04-30 18:57:51 Look on the blueprint
-plane-crazy 2020-04-30 18:55:17 Pinterest is good too
-plane-crazy 2020-04-30 18:53:58 
-plane-crazy 2020-04-30 18:53:44 Gmod veteran though
-plane-crazy 2020-04-30 18:53:08 But i'm not
-plane-crazy 2020-04-30 18:51:00 Blueprint for hull and shape
-plane-crazy 2020-04-30 18:50:48 Use 3d models for details
-plane-crazy 2020-04-30 18:50:38 Its wrong
-plane-crazy 2020-04-30 18:50:34 No 3d model
-plane-crazy 2020-04-30 18:50:23 You using blueprint for that right
-plane-crazy 2020-04-30 18:49:13 <@!416215683089563649> What you making?
-plane-crazy 2020-04-30 18:48:41 What is that
-plane-crazy 2020-04-30 18:24:09 Try with other forms.
-plane-crazy 2020-04-30 18:22:47 In general it should not censor anything the chat doesn't.
-plane-crazy 2020-04-29 22:43:34 Chat died
-plane-crazy 2020-04-29 22:32:55 No more speed more lifting capacity
-plane-crazy 2020-04-29 22:31:52 Imagine not being a veteran in this game😎
-plane-crazy 2020-04-29 22:30:19 Blocky
-plane-crazy 2020-04-29 22:29:21 SHo
-plane-crazy 2020-04-29 22:24:16 Wut
-plane-crazy 2020-04-29 22:22:57 How heavy is that thing again
-plane-crazy 2020-04-29 22:20:03 You hide them
-plane-crazy 2020-04-29 19:10:57 Little more shiny
-plane-crazy 2020-04-29 19:10:05 
-plane-crazy 2020-04-28 08:08:28 Nothing negative with the word art
-plane-crazy 2020-04-28 08:07:31 In what way <@!163143541160148992>
-plane-crazy 2020-04-28 08:06:07 Its plane crazy, everything is possible even art <@!163143541160148992>
-plane-crazy 2020-04-28 08:04:14 <:pogey:651848693842182144>
-plane-crazy 2020-04-28 08:03:26 At least its not silly small
-plane-crazy 2020-04-28 08:03:08 Because i can
-plane-crazy 2020-04-28 08:01:57 lmao
-plane-crazy 2020-04-28 07:58:13 
-plane-crazy 2020-04-28 03:08:37 Also everything was concept so not based on anything real<:hehok:658486853959155723>
-plane-crazy 2020-04-28 03:06:11 Yeah it was like in December started playing in November aa
-plane-crazy 2020-04-28 02:58:44 
-plane-crazy 2020-04-28 02:58:43 Dived deep
-plane-crazy 2020-04-28 02:54:24 Used to have a shuttle on my A340 back in the day and did not work and launch probably with conveyor, had to fill it with super rockets.
-plane-crazy 2020-04-28 02:50:05 Conveyor drive as launch plane might be a little glichy because of the physics i think.
-plane-crazy 2020-04-28 02:40:35 Nice
-plane-crazy 2020-04-28 02:31:23 Probably the one releasing the leaking pictures
-plane-crazy 2020-04-28 01:52:41 The hell is this escape menu too
-plane-crazy 2020-04-28 01:51:48 I'm sure your pc has nothing to do with plane crazy.
-plane-crazy 2020-04-28 01:51:23 <:what:644996672048463942>
-plane-crazy 2020-04-28 01:51:04 Why is this not in <#497142796961054721> lol
-plane-crazy 2020-04-27 23:43:44 Very nice
-plane-crazy 2020-04-27 04:57:13 Just a bug
-plane-crazy 2020-04-26 23:25:01 Server 1 is really dead today, like really
-plane-crazy 2020-04-26 23:24:44 He left
-plane-crazy 2020-04-26 21:56:16 Chonk mast.
-plane-crazy 2020-04-26 00:47:50 I was more thinking rip Sherman
-plane-crazy 2020-04-26 00:39:47 sik
-plane-crazy 2020-04-26 00:36:12 https://tenor.com/view/tank-fast-tank-soviet-tank-tank-jump-gif-13660304
-plane-crazy 2020-04-25 23:27:59 Claw mechanism
-plane-crazy 2020-04-25 23:26:52 
-plane-crazy 2020-04-25 23:26:17 Yess
-plane-crazy 2020-04-25 23:25:22 For this
-plane-crazy 2020-04-24 01:25:37 I smell magical stuff
-plane-crazy 2020-04-23 01:56:04 I guess Wikipedia has the answer
-plane-crazy 2020-04-22 19:21:11 Never done a swashplate though..
-plane-crazy 2020-04-22 19:20:48 Hehe
-plane-crazy 2020-04-22 19:14:22 😄
-plane-crazy 2020-04-22 19:13:47 Thanks was hell
-plane-crazy 2020-04-22 19:13:02 Only the actual trail color part
-plane-crazy 2020-04-22 19:03:15 Some kingsmen stuff
-plane-crazy 2020-04-21 06:10:45 sub
-plane-crazy 2020-04-21 06:06:07 Is there not existing a tutorial already somewhere though
-plane-crazy 2020-04-21 06:05:18 Imagine if he actually manages it
-plane-crazy 2020-04-21 06:02:52 Well thats easy
-plane-crazy 2020-04-21 06:00:57 Don't know why you even would consider copying this
-plane-crazy 2020-04-21 05:36:03 Well i started 2019 early november so.
-plane-crazy 2020-04-21 05:35:24 Blocky bow
-plane-crazy 2020-04-21 05:34:41 Still need mast.
-plane-crazy 2020-04-21 05:34:38 Not finished yet
-plane-crazy 2020-04-21 05:34:15 Chonky
-plane-crazy 2020-04-20 22:51:03 
-plane-crazy 2020-04-20 21:41:41 https://tenor.com/view/absolutely-fucking-not-no-leonardo-dicaprio-gif-4982390
-plane-crazy 2020-04-19 21:50:22 Sorry was afk.
-plane-crazy 2020-04-17 19:17:54 Just a piston
-plane-crazy 2020-04-16 14:58:05 Lol
-plane-crazy 2020-04-16 14:52:42 This chunk
-plane-crazy 2020-04-16 14:52:02 What is little?
-plane-crazy 2020-04-16 07:19:12 Are you making ships for an existing battle in history or just random ships.
-plane-crazy 2020-04-16 07:14:58 Ah
-plane-crazy 2020-04-16 07:14:24 In battle
-plane-crazy 2020-04-16 07:14:06 Where is the sail
-plane-crazy 2020-04-16 05:06:21 No they're all mine
-plane-crazy 2020-04-16 05:05:56 Alts
-plane-crazy 2020-04-16 05:00:57 Bote
-plane-crazy 2020-04-13 21:46:23 You can search conveyor drive on Youtube, there is a couple.
-plane-crazy 2020-04-13 21:45:52 Oh i meant Platinumwolf
-plane-crazy 2020-04-13 21:44:59 cdens you can buy the winter package by gamepass.
-plane-crazy 2020-04-12 04:59:59 Not right now, its quite late here but soon.
-plane-crazy 2020-04-12 04:59:14 Visionkingsmenco_v2
-plane-crazy 2020-04-12 04:57:29 <@!391691962807484464> This is my little fella, probably not as big as yours.
-plane-crazy 2020-04-12 04:55:26 Alright
-plane-crazy 2020-04-12 04:54:45 <@!391691962807484464> Lets do yacht formation soon yes? 😄
-plane-crazy 2020-04-12 04:52:58 Make the picture look busy yes
-plane-crazy 2020-04-11 22:31:17 If i told you it would not be hidden anymore
-plane-crazy 2020-04-10 00:21:44 
-plane-crazy 2020-04-09 22:31:35 <@!460486763408785408> We should be doing some Yacht formation sometime.
-plane-crazy 2020-04-09 19:36:25 Second
-plane-crazy 2020-04-09 19:33:52 second
-plane-crazy 2020-04-09 19:32:45 second
-plane-crazy 2020-04-09 18:56:34 Its 40+ And a hall of fame
-plane-crazy 2020-04-09 18:53:40 <:pogey:651848693842182144>
-plane-crazy 2020-04-09 18:52:32 You can't search texts through the search bar
-plane-crazy 2020-04-09 18:48:39 M e m o r i e s
-plane-crazy 2020-04-09 18:48:25 
-plane-crazy 2020-04-09 18:47:56 Ok
-plane-crazy 2020-04-09 18:46:58 Help
-plane-crazy 2020-04-09 18:45:26 Gud B2
-plane-crazy 2020-04-09 18:38:41 People usually missing that the turbines actually are close to each in the middle
-plane-crazy 2020-04-09 18:37:26 gud job on the 707 wings<:a_Happy747v3:658486853959155723>
-plane-crazy 2020-04-09 18:33:42 I m p o s i a b l e
-plane-crazy 2020-04-09 18:29:06 nerd
-plane-crazy 2020-04-09 18:26:49 Wut
-plane-crazy 2020-04-09 16:42:57 Gamemode you see in the bottom right corner
-plane-crazy 2020-04-08 02:49:04 Conveyor drive will basically glitch the hovering part
-plane-crazy 2020-04-08 02:46:59 Super rockets
-plane-crazy 2020-04-08 00:47:17 Ok good luck
-plane-crazy 2020-04-08 00:46:45 You gonna do this in a quite large scale if you want to put any detail on that
-plane-crazy 2020-04-07 22:03:55 Fast as fuc boi
-plane-crazy 2020-04-07 21:59:21 https://tenor.com/view/tank-fast-tank-soviet-tank-tank-jump-gif-13660304
-plane-crazy 2020-04-07 18:52:13 Good Wooden RGB?
-plane-crazy 2020-04-06 23:01:30 Commit no wings
-plane-crazy 2020-04-05 03:18:04 Is there gonna be a full skeleton for the drumsticks?
-plane-crazy 2020-04-05 03:16:44 He is proud
-plane-crazy 2020-04-05 03:15:13 <:ElonApprove:589130525315301380>
-plane-crazy 2020-04-05 03:14:32 Good luck
-plane-crazy 2020-04-05 03:13:24 Probably why
-plane-crazy 2020-04-05 03:13:15 How many wingpanels do you have inside that?
-plane-crazy 2020-04-05 03:08:13 e
-plane-crazy 2020-04-04 23:20:39 <:StopThat:559520667909881867>
-plane-crazy 2020-04-03 23:56:12 ok
-plane-crazy 2020-04-03 23:17:58 ok
-plane-crazy 2020-04-03 22:43:36 sik
-plane-crazy 2020-04-03 16:12:27 My god mak tutorual plis
-plane-crazy 2020-04-01 19:29:56 Imagine Server moderator is higher then Server Admin
-plane-crazy 2020-03-31 01:15:36 They look pretty tall
-plane-crazy 2020-03-29 23:07:56 The white dot is a human
-plane-crazy 2020-03-29 23:07:47 
-plane-crazy 2020-03-28 16:34:25 Go and read about it in <#609442446249820211>
-plane-crazy 2020-03-28 16:33:25 I think so
-plane-crazy 2020-03-28 16:32:48 You need to have a role achieved here to gain access to the bot command !servers in <#384027830192832513>
-plane-crazy 2020-03-28 01:36:10 
-plane-crazy 2020-03-27 13:51:48 the rear motor is pretty much useless
-plane-crazy 2020-03-27 01:08:02 gud landing yes
-plane-crazy 2020-03-26 18:35:22 Let me land on that with my A340 Puri.
-plane-crazy 2020-03-25 19:54:22 In a sec
-plane-crazy 2020-03-25 11:07:54 Yes
-plane-crazy 2020-03-25 05:34:35 Yes works
-plane-crazy 2020-03-25 05:32:23 Well these are all just naked profiles
-plane-crazy 2020-03-25 05:32:03 True
-plane-crazy 2020-03-25 05:31:21 Anyway possibly alts
-plane-crazy 2020-03-25 05:26:21 Censored stupidness
-plane-crazy 2020-03-25 05:25:45 He can be running a troll Alt though :l
-plane-crazy 2020-03-25 05:24:44 A outsider probably got hand of the link
-plane-crazy 2020-03-25 05:23:44 LagCreator guy?
-plane-crazy 2020-03-25 05:21:57 Idk
-plane-crazy 2020-03-25 02:02:46 o
-plane-crazy 2020-03-25 00:39:23 Orangeskii
-plane-crazy 2020-03-24 08:25:53 Yacht Formation gang
-plane-crazy 2020-03-24 08:25:27 Conveyor what?
-plane-crazy 2020-03-24 05:48:57 Dock it
-plane-crazy 2020-03-24 05:43:40 Its a Yacht Castle
-plane-crazy 2020-03-24 05:41:55 <:pogey:651848693842182144>
-plane-crazy 2020-03-24 05:41:36 
-plane-crazy 2020-03-24 05:41:36 
-plane-crazy 2020-03-24 05:26:21 <:Upvote:490311647492309004>
-plane-crazy 2020-03-23 22:21:21 Imagine if rockets made fire spread to each block from the impact
-plane-crazy 2020-03-23 22:18:25 Jeez the chat frame right now
-plane-crazy 2020-03-23 22:16:23 Rip
-plane-crazy 2020-03-22 23:54:15 <:pogey:651848693842182144>
-plane-crazy 2020-03-22 22:26:50 
-plane-crazy 2020-03-22 06:00:32 u
-plane-crazy 2020-03-22 01:13:30 When render corrupts
-plane-crazy 2020-03-21 00:50:43 No
-plane-crazy 2020-03-20 04:42:22 
-plane-crazy 2020-03-20 04:03:08 Vip 1?
-plane-crazy 2020-03-20 04:02:29 Ok
-plane-crazy 2020-03-20 04:02:17 Yes
-plane-crazy 2020-03-20 04:02:04 You should try make a bigger scale and add some more details, looking good though
-plane-crazy 2020-03-20 04:00:19 We allowed to run more then one alt on the Vips?
-plane-crazy 2020-03-20 03:56:21 Oh
-plane-crazy 2020-03-20 03:55:37 What channel again?
-plane-crazy 2020-03-20 03:54:45 e
-plane-crazy 2020-03-20 03:53:56 Is it challenges you need to complete to get access to those VIPs or is it unofficial servers
-plane-crazy 2020-03-20 03:49:05 Well still boxy but it looks better
-plane-crazy 2020-03-20 03:48:52 Just place half blocks in between
-plane-crazy 2020-03-20 03:48:09 boxy
-plane-crazy 2020-03-20 02:14:37 ok
-plane-crazy 2020-03-20 02:13:34 Its French
-plane-crazy 2020-03-20 02:12:19 Hot butt commit
-plane-crazy 2020-03-20 02:11:09 a
-plane-crazy 2020-03-20 00:59:19 Its a v0xelbox
-plane-crazy 2020-03-20 00:53:40 ok
-plane-crazy 2020-03-20 00:49:13 Uh
-plane-crazy 2020-03-20 00:46:57 Play solo button anyone
-plane-crazy 2020-03-19 23:02:16 Whuy
-plane-crazy 2020-03-19 23:01:46 Why
-plane-crazy 2020-03-19 23:01:03 Running fine on a laptop with 5 thousand blocks
-plane-crazy 2020-03-19 22:58:05 hurB
-plane-crazy 2020-03-19 22:56:45 wikipeuia
-plane-crazy 2020-03-19 22:54:54 S o - d e t a i l e d
-plane-crazy 2020-03-19 21:38:57 https://tenor.com/view/doit-gif-5247874
-plane-crazy 2020-03-18 18:28:26 Yes you place the missile on the launcher then the launcher on the piston, then launch it
-plane-crazy 2020-03-18 18:22:32 Motor is not broken
-plane-crazy 2020-03-18 18:19:27 5 conveyors
-plane-crazy 2020-03-18 18:18:49 Tutorial is newbie
-plane-crazy 2020-03-18 18:18:05 Boomer crap
-plane-crazy 2020-03-18 18:17:47 Nice crap
-plane-crazy 2020-03-18 18:15:13 died
-plane-crazy 2020-03-18 18:13:34 https://tenor.com/view/noice-nice-click-gif-8843762
-plane-crazy 2020-03-18 18:12:01 How cruise ships have involved over the years just incredible
-plane-crazy 2020-03-18 17:05:30 Rip
-plane-crazy 2020-03-18 16:42:16 Make a 1/5 scale bomb put it into photoshop and attach it to your plane to make people confused
-plane-crazy 2020-03-18 16:38:05 When you post your plane in a Naval group
-plane-crazy 2020-03-18 16:36:58 Maybe but not in this server
-plane-crazy 2020-03-18 16:35:58 Very nice
-plane-crazy 2020-03-18 15:50:39 e
-plane-crazy 2020-03-18 15:49:59 Imagine actually having slow FPS in real life in plane crashes
-plane-crazy 2020-03-18 15:49:08 If you want to
-plane-crazy 2020-03-18 15:49:02 You can
-plane-crazy 2020-03-18 15:48:46 Cool
-plane-crazy 2020-03-18 15:48:23 Is it a boeing?
-plane-crazy 2020-03-18 15:47:49 Rickje rickje rickje rickje
-plane-crazy 2020-03-18 15:46:52 You would get a lot more by a motor driven control surface
-plane-crazy 2020-03-18 15:46:14 Control panels
-plane-crazy 2020-03-18 15:44:56 Huh where?
-plane-crazy 2020-03-18 15:42:37 It doesn't butter
-plane-crazy 2020-03-18 15:42:08 👏
-plane-crazy 2020-03-18 15:41:20 This is lowest speed
-plane-crazy 2020-03-18 15:41:03 Uh oh
-plane-crazy 2020-03-18 15:38:37 e
-plane-crazy 2020-03-18 15:37:55 I bet my blackbird is bigger then that jet lol
-plane-crazy 2020-03-18 15:36:57 I'm noob
-plane-crazy 2020-03-18 15:36:49 a
-plane-crazy 2020-03-18 15:36:29 Where you find these
-plane-crazy 2020-03-18 15:36:23 This servur gud
-plane-crazy 2020-03-18 15:35:17 It goes 10 times faster then real life
-plane-crazy 2020-03-18 15:33:39 Default snapping tool i guess
-plane-crazy 2020-03-18 15:32:05 Yes
-plane-crazy 2020-03-18 15:31:48 Its ya brother
-plane-crazy 2020-03-18 15:30:39 Oh thats a B2 spirit
-plane-crazy 2020-03-18 15:30:26 k
-plane-crazy 2020-03-18 15:30:19 sic
-plane-crazy 2020-03-18 15:29:58 Its a triangle spirit
-plane-crazy 2020-03-18 15:29:03 We don't need shipping drones in life but flying shopping carts
-plane-crazy 2020-03-18 15:26:16 sic
-plane-crazy 2020-03-18 15:14:39 Pimp my shopping cart
-plane-crazy 2020-03-18 15:09:41 It's plane crazy nothing is impossible
-plane-crazy 2020-03-18 15:08:34 a
-plane-crazy 2020-03-18 15:08:17 Please tell me it flies too
-plane-crazy 2020-03-18 15:07:43 A magic key
-plane-crazy 2020-03-18 15:07:31 Magic keys
-plane-crazy 2020-03-18 15:07:21 Keys
-plane-crazy 2020-03-18 15:06:37 conavirus
-plane-crazy 2020-03-18 15:05:50 Imagine corona closing Youtube
-plane-crazy 2020-03-18 15:04:51 Yes motors
-plane-crazy 2020-03-18 15:03:37 Better chonk then chink
-plane-crazy 2020-03-18 15:01:21 You gonna do interior in your yacht or is it downscaled?
-plane-crazy 2020-03-18 15:00:59 dead chat
-plane-crazy 2020-03-18 15:00:20 Yas
-plane-crazy 2020-03-18 14:59:47 A340 even better
-plane-crazy 2020-03-18 14:59:17 Yes the queen
-plane-crazy 2020-03-18 14:59:05 thonk nose
-plane-crazy 2020-03-18 14:58:21 Ok
-plane-crazy 2020-03-18 14:56:26 I need a MD-80 or 90 in this game
-plane-crazy 2020-03-18 14:55:00 scale tool please
-plane-crazy 2020-03-18 14:53:40 Try scale it up a little Jacksoon?
-plane-crazy 2020-03-18 14:52:41 a
-plane-crazy 2020-03-18 14:52:27 I see bluescreen
-plane-crazy 2020-03-18 14:50:07 Rip CPU
-plane-crazy 2020-03-18 14:47:45 This has interior
-plane-crazy 2020-03-18 14:47:00 4
-plane-crazy 2020-03-18 14:46:35 Latest project
-plane-crazy 2020-03-18 14:45:26 Ok
-plane-crazy 2020-03-18 14:43:48 Yacht gang
-plane-crazy 2020-03-18 04:01:03 WIP
-plane-crazy 2019-09-25 12:40:51 Bye
-plane-crazy 2019-09-25 12:25:31 And the challenge is on.
-plane-crazy 2019-09-24 23:48:17 Oof
-plane-crazy 2019-09-24 19:04:26 Launching people in to space
-plane-crazy 2019-09-24 18:36:04 I lied
-plane-crazy 2019-09-24 18:34:53 Presenting, a invisible plane 😄
-plane-crazy 2019-09-23 17:29:11 You can't really copyright claim them, well you can but nothing will be done about it.
-plane-crazy 2019-09-23 17:28:23 Lol
-plane-crazy 2019-09-21 20:56:19 Wait so Roblox has a intern test controlling their servers for a week, seriously!
-plane-crazy 2019-09-21 20:51:46 So you should not leave the game you already are in
-plane-crazy 2019-09-21 20:51:16 Umm for now on?
-plane-crazy 2019-09-21 19:11:54 When are we gonner make a comparison vip?
-plane-crazy 2019-09-21 19:11:38 I just found a hater lmao
-plane-crazy 2019-09-21 19:10:36 Back in flight simulator multiplayer
-plane-crazy 2019-09-21 03:26:54 Now your work is invisible to him intill you're spawning it.
-plane-crazy 2019-09-21 03:25:28 Settings blacklist playername and enable Anti copypasting.
-plane-crazy 2019-09-20 22:34:55 
-plane-crazy 2019-09-16 12:40:59 Thanks
-plane-crazy 2019-09-16 12:40:26 No, but this is seriously killing me
-plane-crazy 2019-09-16 12:34:38 Motor torque to reach 5000, anyone?
-plane-crazy 2019-08-29 22:28:33 Well the crocodile survived.
-plane-crazy 2019-08-26 23:28:56 New trend<:ElonSad:573361014112780303>
-plane-crazy 2019-08-26 02:42:00 Lol
-plane-crazy 2019-08-26 02:35:42 The new propellers are too small. :l
-plane-crazy 2019-08-26 02:34:20 Uh
-plane-crazy 2019-08-26 02:31:32 Whats funny?
-plane-crazy 2019-08-26 02:31:13 Anchored due to work in progress ofc.
-plane-crazy 2019-08-26 02:30:20 What is the final build going to be lilundr?
-plane-crazy 2019-08-26 02:28:14 Don't you model yourself?
-plane-crazy 2019-08-26 02:27:41 The time plane crazy gets gears
-plane-crazy 2019-08-26 02:24:17 Do you unwrap?
-plane-crazy 2019-08-26 02:23:46 What program for the materializing=
-plane-crazy 2019-08-26 02:23:27 Blender supporting materials?
-plane-crazy 2019-08-26 02:21:48 You just sounded pretty professional on that speech though.
-plane-crazy 2019-08-26 02:21:15 ..
-plane-crazy 2019-08-26 02:21:01 Show us some Danny 🙂
-plane-crazy 2019-08-26 02:20:23 You mean due to the shader colour=
-plane-crazy 2019-08-26 02:19:43 Well one side and mirror helps a lot on airplanes and cars.
-plane-crazy 2019-08-26 02:19:20 True
-plane-crazy 2019-08-26 02:18:32 Still a work in progress.
-plane-crazy 2019-08-26 02:18:16 
-plane-crazy 2019-08-26 02:18:15 
-plane-crazy 2019-08-26 02:18:15 
-plane-crazy 2019-08-26 02:17:21 Ah
-plane-crazy 2019-08-26 02:17:17 Why?
-plane-crazy 2019-08-26 02:17:06 Portfolio?
-plane-crazy 2019-08-26 02:16:52 where*
-plane-crazy 2019-08-26 02:16:47 Why do you display your models?
-plane-crazy 2019-08-26 02:16:04 Well its a good price for a Blender experienced user
-plane-crazy 2019-08-26 02:15:14 Ok
-plane-crazy 2019-08-26 02:14:59 I mean its a decent price for a 3D asset, what was the asset btw?
-plane-crazy 2019-08-26 02:14:21 Why not?
-plane-crazy 2019-08-26 02:14:03 Why you care?
-plane-crazy 2019-08-26 02:13:48 Always funny to sculpt a world and import it.
-plane-crazy 2019-08-26 02:13:30 Learn 3D
-plane-crazy 2019-08-26 02:12:49 600 is nothing.
-plane-crazy 2019-08-26 02:10:11 What was the asset?
-plane-crazy 2019-08-26 02:09:53 Lol
-plane-crazy 2019-08-26 02:09:38 Price?
-plane-crazy 2019-08-26 02:09:29 What did you take of a asset?
-plane-crazy 2019-08-26 02:09:01 Who have you developed for Linh?
-plane-crazy 2019-08-26 02:08:08 He needs at least 100k for exchanging them to real money.
-plane-crazy 2019-08-26 02:05:30 Open a group, and transfer them.
-plane-crazy 2019-08-24 17:01:28 
-plane-crazy 2019-08-24 17:00:40 You welcome.
-plane-crazy 2019-08-24 17:00:01 How might that have become a reality??
-plane-crazy 2019-08-24 14:42:01 Age?
-plane-crazy 2019-08-24 14:41:33 Bamboo bony.
-plane-crazy 2019-08-24 14:40:34 Indeed on that
-plane-crazy 2019-08-24 14:39:20 Why do i think it like you using your phone on Discord because "Her" the PC is locket in the cabin due to your parents are mad.
-plane-crazy 2019-08-24 14:34:22 Lol
-plane-crazy 2019-08-24 08:37:46 Bigger of everything based on the vehicle topic.
-plane-crazy 2019-08-24 08:36:36 Why not just a number of maps when joining the game.
-plane-crazy 2019-08-24 08:32:11 Balast block in the front?
-plane-crazy 2019-08-24 01:29:27 Depending on how you script it
-plane-crazy 2019-08-24 01:29:16 The motors size in the center has nothing to do with the dynamics of it.
-plane-crazy 2019-08-24 01:20:48 What did i do wrong lol
-plane-crazy 2019-08-24 01:19:36 Body fat, i see skeletons only
-plane-crazy 2019-08-24 01:18:33 tanks
-plane-crazy 2019-08-24 01:17:44 How did you even manage that
-plane-crazy 2019-08-24 01:16:50 He told me he went to bed 55.
-plane-crazy 2019-08-24 01:15:38 Don't use that word lmao.
-plane-crazy 2019-08-24 01:04:14 Actually might stand in internship with Wargaming :p
-plane-crazy 2019-08-24 01:01:40 Hold on xD
-plane-crazy 2019-08-24 01:01:26 Lol blitz?
-plane-crazy 2019-08-24 00:59:44 thoughts
-plane-crazy 2019-08-24 00:41:29 Creative
-plane-crazy 2019-08-23 23:25:19 How many you want?
-plane-crazy 2019-08-23 23:24:44 👌
-plane-crazy 2019-08-23 23:24:22 Rickje, i love your game if you want me to finish the models its on me, depenting on what people think.
-plane-crazy 2019-08-23 23:23:28 Even get it on Steam
-plane-crazy 2019-08-23 23:23:12 Blender is free.
-plane-crazy 2019-08-23 23:22:52 Its awesome
-plane-crazy 2019-08-23 23:22:46 Learn 3D man.
-plane-crazy 2019-08-23 23:22:16 Easy peacy :p
-plane-crazy 2019-08-23 23:22:00 
-plane-crazy 2019-08-23 23:20:20 Thats myself only though.
-plane-crazy 2019-08-23 23:20:08 I could make a movie using realistic quality if i wanted to spent 5 years on it.
-plane-crazy 2019-08-23 23:19:12 Can pretty much do anything.
-plane-crazy 2019-08-23 23:19:01 But as said, its good.
-plane-crazy 2019-08-23 23:18:34 Yes
-plane-crazy 2019-08-23 23:18:09 The program it self is 5700 a year so not cheap.
-plane-crazy 2019-08-23 23:16:53 Took me like 10 minuttes.
-plane-crazy 2019-08-23 23:14:52 This is 2k tris, nothing.
-plane-crazy 2019-08-23 23:14:24 
-plane-crazy 2019-08-23 23:11:40 Pricey as hell, but good at speed modelling stuff.
-plane-crazy 2019-08-23 23:11:11 Yeah using Maya.
-plane-crazy 2019-08-23 23:10:55 Ah.
-plane-crazy 2019-08-23 23:10:07 Rickje, what are you using for modelling?
-plane-crazy 2019-08-23 23:04:26 <:Motor:559531201237352451>
-plane-crazy 2019-08-23 23:04:10 Motor?
-plane-crazy 2019-08-23 22:41:28 At least not here 😛
-plane-crazy 2019-08-23 22:39:18 This is something you don't see everyday lmao
-plane-crazy 2019-08-22 02:41:20 What game?
-plane-crazy 2019-08-22 02:36:31 Lmao
-plane-crazy 2019-08-22 02:35:59 How do you apply for these ranks anyway through the creation session?
-plane-crazy 2019-08-22 02:33:39 Nice.
-plane-crazy 2019-08-22 02:33:04 Like first in own design?
-plane-crazy 2019-08-22 02:30:13 Looking good.
-plane-crazy 2019-08-22 02:29:05 There is plenty at the moment so.
-plane-crazy 2019-08-22 02:27:47 I think the mostly genius people would start with tutorials so. :p
-plane-crazy 2019-08-22 02:26:32 It was.
-plane-crazy 2019-08-22 02:25:34 Than i found plane crazy and was happy ever after.
-plane-crazy 2019-08-22 02:25:03 sadly i canceled the development after my two coders got into a major argument or something similar, unable to really find anyone who was known to help me with a release version so yeah.
-plane-crazy 2019-08-22 02:20:18 still have it
-plane-crazy 2019-08-22 02:18:25 Yep craft with a big amount of blocks
-plane-crazy 2019-08-22 02:17:11 It's funny i was working on a game just like Plane Crazy before i first found it the catagory was just ships but in miniture.
-plane-crazy 2019-08-22 02:14:57 The whole package is called a 3D generalist basically.
-plane-crazy 2019-08-22 02:14:31 I'm a 3D Artist.
-plane-crazy 2019-08-22 02:13:44 I will make 1 building in Maya for that prize.
-plane-crazy 2019-08-22 02:13:15 Lol
-plane-crazy 2019-08-22 02:13:05 Oh
-plane-crazy 2019-08-22 02:11:57 Good luck finding that.
-plane-crazy 2019-08-22 01:56:10 That is basically a advanced 3D model from Turbo squid. xD
-plane-crazy 2019-08-22 01:55:47 Little expensive for building.
+The Tale of Xoule (435817391113371668)
+creations-chat 2019-08-21 20:09:47 McDonnell Douglas MD-80
+creations-chat 2019-08-21 22:01:15 Huh?
+creations-chat 2019-08-21 22:01:36 Oh
+creations-chat 2019-08-21 23:16:22 De Havilland Canada Dash 8
+creations-chat 2019-08-21 23:19:38 De Havilland Canada Dash 8
+creations-chat 2019-08-22 01:45:21 Hmmm track materialized circle with movement-location and size options.
+creations-chat 2019-08-22 01:47:01 Could be cool.
+creations-chat 2019-08-22 02:45:01 https://tenor.com/view/shia-la-beouf-shia-la-beouf-justdoit-gif-4502584
+creations-chat 2019-08-22 02:45:38 This brings back memories.
+help 2019-08-22 02:47:32 Folding step by step or? <@!338393512389378059>
+creations-chat 2019-08-23 22:26:04 McDonnell Douglas MD-80
+creations-chat 2019-08-23 22:26:06 
+creations-chat 2019-08-23 22:26:07 
+creations-chat 2019-08-23 22:26:09 
+help 2019-08-24 00:27:39 I would say more blocks.
+creations-chat 2019-08-24 01:41:45 What about U and I?
+help 2019-08-24 01:46:25 Mirror what you did to the buttom part by stacking it up to same high.
+creations-chat 2019-09-18 11:08:39 Proberly some kind of spam blocker.
+creations-chat 2019-09-18 11:10:04 
+creations-chat 2019-09-18 11:10:08 
+help 2019-09-20 04:12:58 Anybody tried and solved a motor that is resetting back to its old position when used, have joined multiplying servers and it just keeps happening?..
+creations-chat 2019-09-23 18:45:59 
+creations-chat 2019-09-23 18:45:59 Airbus A340-X Spaceshuttle launcher concept.
+creations-chat 2019-09-23 18:46:01 
+creations-chat 2019-09-23 18:46:03 
+creations-chat 2019-09-23 18:46:04 
+creations-chat 2019-09-23 20:34:13 <@!459723047377698826> Just think its standard when you launch your vehicle.
+creations-chat 2020-03-18 02:40:22 
+creations-chat 2020-03-18 02:40:23 
+creations-chat 2020-03-18 03:34:31 
+creations-chat 2020-03-18 03:34:32 
+creations-chat 2020-03-18 03:34:32 
+creations-chat 2020-03-18 03:35:28 a
+creations-chat 2020-03-18 03:36:03 This bike is nice Chewwy
+creations-chat 2020-03-18 03:44:37 
+creations-chat 2020-03-18 03:44:43 
+creations-chat 2020-03-18 03:53:30 
+creations-chat 2020-03-18 03:53:30 
+creations-chat 2020-03-18 03:54:16 Its united emirates dumdum
+creations-chat 2020-03-18 03:54:38 Yes
+creations-chat 2020-03-18 03:55:21 boomer
+creations-chat 2020-03-18 04:21:10 
+creations-chat 2020-03-18 04:21:11 
+creations-chat 2020-03-18 15:44:00 How to shader
+bot-central 2020-03-18 15:55:02 ?rhelp
+help 2020-03-18 16:12:07 <@!314383347214319616> suggesting
+help 2020-03-18 16:12:16 
+help 2020-03-18 16:12:18 
+help 2020-03-18 16:13:37 
+help 2020-03-18 16:28:20 <@!314383347214319616> suggesting **Shipwright [V]**
+help 2020-03-18 16:29:08 2se
+help 2020-03-18 16:29:09 c
+help 2020-03-18 16:29:27 No video needed?
+help 2020-03-18 16:30:07 
+help 2020-03-18 16:31:36 
+help 2020-03-18 16:32:42 Yeah 2 sec
+help 2020-03-18 16:33:20 Sorry for miss info
+creations-chat 2020-03-18 18:35:13 Does it not have launchable planes in the back or something?
+creations-chat 2020-03-18 18:35:47 Yes belly it does very much
+creations-chat 2020-03-18 18:38:13 You don't think i'm joking?
+creations-chat 2020-03-20 02:18:03 birdy
+bot-central 2020-03-20 03:56:48 !servers
+bot-central 2020-03-25 05:27:18 !servers
+bot-central 2020-03-25 05:34:06 !servers
+creations-chat 2020-03-30 23:56:16 <#384021699466756107> <@!588055079899103299>
+bot-central 2020-04-13 19:48:11 !servers
+the-dump 2020-04-16 14:50:46 He actually just past away due to Corona.
+bot-central 2020-04-20 06:45:18 !servers
+creations-chat 2020-04-22 11:48:25 Lit
+creations-chat 2020-04-24 14:51:43 
+creations-chat 2020-04-24 14:51:44 
+creations-chat 2020-04-24 15:23:37 Thanks
+creations-chat 2020-04-24 15:25:18 Well a couple of days
+creations-chat 2020-04-26 22:11:46 
+creations-chat 2020-04-26 22:11:46 Yacht-Mast drone
+creations-chat 2020-04-26 22:12:24 
+help 2020-04-26 23:53:30 <@!218240161719386112> Requesting **Expert VTOL V**
+help 2020-04-26 23:53:32 
+help 2020-04-26 23:54:39 
+help 2020-04-27 00:01:47 Yes it does not have helium and have the requirements as described above.
+help 2020-04-27 00:36:30 <@!308156968550268928> Can you look through my request?<:Upvote:490311647492309004>
+help 2020-04-27 00:38:39 Thanks
+creations-chat 2020-04-28 03:52:59 Lag machine.
+help 2020-04-28 04:15:05 <@!470651684683513857> Do you mean emotes and stuff?
+help 2020-04-28 16:24:38 > <@!435817391113371668> I mean I've seen someone with what appeared to be a wingding in a sign on their creation.  I assume you can add some kind of code to change the font.
+@iStwisted#2453  I know it supports Google translate, try open Word online write a form and copy paste?
+bot-central 2020-05-04 14:56:28 !servers
+creations-chat 2020-05-05 15:34:30 Aviation-crazy. A340-500 Emirates and Boeing 777-200 by  <@!588764924394864651>
+creations-chat 2020-05-06 15:38:40 <:upvote:656797831478116362>
+creations-chat 2020-05-06 18:15:10 sick
+creations-chat 2020-05-07 20:11:08 
+creations-chat 2020-05-07 20:12:24 
+creations-chat 2020-05-07 20:12:30 
+creations-chat 2020-05-07 20:19:11 I'm solo
+creations-chat 2020-05-07 20:19:24 Thanks
+creations-chat 2020-05-07 21:05:56 Next project is how to get it in the water
+bot-central 2020-05-08 02:22:22 <:pogey:691528683428511785>
+help 2020-05-08 15:27:27 What is the requirement to stay in HoF, an title?
+help 2020-05-08 15:27:50 <:KEKW:670310537300672528>
+help 2020-05-08 15:29:31 The thing is i was in there last night
+help 2020-05-08 15:30:25 Just curious to what have happened
+help 2020-05-08 15:30:44 <@!308156968550268928>
+help 2020-05-08 15:31:14 <:Upvote:490311647492309004>
+help 2020-05-08 15:31:38 Uh
+help 2020-05-08 15:31:47 Do you need to request it
+help 2020-05-08 15:32:18 Alright
+help 2020-05-08 15:35:13 Still have the Expert designer, i'm probably not supposed to have that then?
+help 2020-05-08 15:35:54 Nah i'm good👍
+creations-chat 2020-05-18 12:23:04 Just posted it
+creations-chat 2020-05-18 12:24:08 He took the screenshots
+creations-chat 2020-05-18 12:31:02 I think you pinged enough
+creations-chat 2020-05-18 13:35:39 Its colors
+help 2020-05-18 22:21:14 <@!195253906333368320> I can chat in creations.
+help 2020-05-18 22:21:43 Ok
+creations-chat 2020-05-29 16:18:12 Nice
+creations-chat 2020-05-30 17:56:17 I would guess this is not a 747?
+creations-chat 2020-05-30 17:56:24 DC-10?
+creations-chat 2020-05-30 17:56:33 Ah
+creations-chat 2020-05-30 17:56:35 Very nice
+creations-chat 2020-05-30 17:57:13 But yeah if its concept look up some plane blueprints for the wings
+creations-chat 2020-05-30 17:57:43 Very nice result so fare
+creations-chat 2020-05-30 17:58:40 Kind of reminds me of my A340 with the buttom
+creations-chat 2020-05-30 17:59:42 Try work on getting the wings a little thicker
+creations-chat 2020-05-30 17:59:56 Noice
+creations-chat 2020-05-30 18:01:01 Yeah i work the same way
+creations-chat 2020-05-30 18:01:18 Further talk lets take it in <#384021699466756107>
+creations-chat 2020-05-30 20:57:12 New blocks live😎
+bot-central 2020-06-01 20:24:26 !servers
+the-dump 2020-06-17 04:02:34 Why you bully
+creations-chat 2020-06-22 00:43:05 Haters gonna hate😎
+bug-reports 2020-06-24 14:28:08 Uhh
+bot-central 2020-06-25 21:33:06 ?servers
+bot-central 2020-06-25 21:35:37 !servers
+bot-central 2020-07-11 02:42:01 !servers
+bot-central 2020-09-04 23:36:16 !servers
+creations-chat 2020-09-04 23:50:46 <@!393858481268064266> <#705941616199991307> read the steps.
+bot-central 2020-09-06 17:10:31 expertservers
+bot-central 2020-09-06 17:10:38 !expertservers
+creations-chat 2020-09-30 16:51:38 Love the details on that
+creations-chat 2020-10-07 02:48:02 Right, my apologize
+creations-chat 2020-10-07 02:49:25 It was captured.
+creations-chat 2020-10-07 02:52:03 
+creations-chat 2020-10-07 02:52:36 Stormworks no.
+creations-chat 2020-10-07 02:52:56 100% concept, 5 alts.
+creations-chat 2020-10-07 02:53:36 Thanks
+creations-chat 2020-10-07 02:53:54 
+creations-chat 2020-10-07 02:54:18 And a submarine both able to be stored inside
+creations-chat 2020-10-07 02:55:42 unfortunately i have not saved pics of interior
+creations-chat 2020-10-07 02:55:59 I might ask Perezenator to film it
+creations-chat 2020-10-07 02:56:31 Im not in game and it takes like 30 minutes+ to assemble
+creations-chat 2020-10-07 02:56:48 Plus i need to start 3 more pcs up
+creations-chat 2020-10-07 02:57:37 Sure, you can do it.
+bot-central 2020-10-07 16:26:18 !servers
+bot-central 2020-10-10 17:30:40 !servers
+bot-central 2020-10-11 15:01:43 !servers
+bot-central 2020-10-11 15:02:19 !expertservers
+creations-chat 2020-10-13 16:11:21 
+creations-chat 2020-10-13 16:13:40 
+creations-chat 2020-10-13 21:08:03 
+creations-chat 2020-10-13 21:08:26 Quality
+creations-chat 2020-10-13 21:08:44 
+creations-chat 2020-10-14 02:53:47 Yes?
+creations-chat 2020-10-14 02:54:04 Yeah
+creations-chat 2020-10-14 02:54:33 Bunnypoodi
+creations-chat 2020-10-14 02:55:13 The glitch?
+creations-chat 2020-10-14 02:55:45 Nah i went to bed<:PogStare:699130318510227537>
+creations-chat 2020-10-14 02:56:06 I’ll make it later
+creations-chat 2020-10-16 15:01:47 
+creations-chat 2020-10-16 15:04:11 
+creations-chat 2020-10-16 15:07:15 Lol
+creations-chat 2020-10-16 15:08:34 Mission impossible, possible
+creations-chat 2020-10-16 15:12:59 This
+creations-chat 2020-10-16 15:14:02 Yeah
+creations-chat 2020-10-16 15:15:05 I'll suggest Perezenator to film it in the future when its done
+creations-chat 2020-10-16 15:16:06 Not really as long you anchoring it without physics enabled
+creations-chat 2020-10-16 15:23:01 
+creations-chat 2020-10-16 15:24:21 They're very outdated though
+creations-chat 2020-10-16 15:28:18 5
+creations-chat 2020-10-16 15:31:12 Its not that bad
+creations-chat 2020-10-16 18:50:13 It is not really something i can teach you, its just about starting small and experimenting
+creations-chat 2020-10-16 18:52:02 If you want something unique and new you will risk your time on it, basically that is the fun part about Plane-Crazy, do something that might not be possible
+creations-chat 2020-10-16 18:53:06 But again it is Plane-Crazy, everything is possible most likely
+creations-chat 2020-10-16 18:54:15 > i have a question. can i helicopters tail be folded? im trying to make a mil m16 but its gonna be too big
+<@!658829907110920192> <#384021699466756107> i think HerrGuggi have made one not sure
+creations-chat 2020-10-28 02:04:38 <#497142796961054721> moment
+creations-chat 2020-10-28 02:06:40 👍
+bot-central 2020-11-01 16:48:23 ?rhelp
+bot-central 2020-11-01 16:50:15 ?verify
+bot-central 2020-11-01 16:50:20 ?reverify
+bot-central 2020-11-01 16:50:22 e
+bot-central 2020-11-07 02:38:51 !servers
+bot-central 2020-11-25 23:08:51 !servers
+bot-central 2020-11-30 00:29:27 !servers
+bot-central 2020-11-30 00:30:34 !servers
+bot-central 2020-12-03 01:01:35 !servers
+bot-central 2020-12-03 01:02:13 !servers
+bot-central 2020-12-03 01:02:29 !servers
+bot-central 2020-12-05 03:45:42 !servers
+bot-central 2020-12-16 20:38:48 !servers
+bot-central 2020-12-17 19:55:30 !servers
+bot-central 2021-06-03 21:40:29 !servers
+bot-central 2021-08-23 20:42:55 !servers
+bot-central 2021-08-24 10:51:52 !servers
+bot-central 2021-08-24 10:52:03 -servers
+bot-central 2021-08-24 17:33:03 -servers
+bot-central 2021-11-01 19:24:07 -servers
+bot-central 2022-01-28 20:20:09 -servers
+bot-central 2022-07-17 23:22:08 -servers

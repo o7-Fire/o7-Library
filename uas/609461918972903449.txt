@@ -1,0 +1,80 @@
+The Tale of vhsneniter (609461918972903449)
+help 2020-05-03 03:13:40 how make suggestions
+help 2020-05-03 03:13:42 !help
+help 2020-05-03 03:14:47 idk
+help 2020-05-03 03:15:26 they do
+help 2020-05-03 03:15:38 they just have to impact another persons blocks
+bot-central 2020-05-03 03:15:58 ?shelp
+bot-central 2020-05-03 03:17:15 &suggest id like it that when jumping instead of just putting your speed at 52 make it so it adds to the current speed like if your going 80 and jump instead of just going to 52 you go to 132
+bot-central 2020-05-03 03:17:18 EEE
+bot-central 2020-05-03 03:17:20 WHY
+bot-central 2020-05-03 03:18:17 WHYYYYYYYY
+bot-central 2020-05-03 03:18:34 ?rhelp
+bot-central 2020-05-03 03:19:04 AHHHHHHHHHHHHH
+bot-central 2020-05-03 03:19:06 WHY
+help 2020-05-09 01:12:24 why does using a engine to go in the 2d directions make it go up aswell
+help 2020-05-09 01:13:02 i cant counter it because theirs no engine weak enough and i cant fine tune balast tanks so they are either to light or to heavy
+help 2020-05-09 01:15:46 wait nevermind wings fix that
+bot-central 2020-05-09 03:32:33 $rank
+bot-central 2020-05-09 03:38:12 ?shelp
+creations-chat 2020-05-09 06:43:53 and i wonder how to submit creations
+help 2020-05-09 06:45:05 how do you submit creations because im stuped
+help 2020-05-09 06:45:48 oh!
+creations-chat 2020-05-09 06:48:52 i made a floating island with many things
+help 2020-05-09 06:49:21 i wonder what happens if you down vote your self
+help 2020-05-09 06:49:29 do you get punished?
+creations-chat 2020-05-09 06:50:06 how?
+creations-chat 2020-05-09 06:50:26 i aint waiting 10 mins for something to not work like what you gave me allready
+creations-chat 2020-05-09 06:50:38 oh!
+creations-chat 2020-05-09 06:51:00 well you suggested i use another thing affter you told me about that
+creations-chat 2020-05-09 06:51:06 so i thought it didint work
+creations-chat 2020-05-09 06:54:02 https://streamable.com/rh4rzp
+help 2020-05-09 06:55:59 ok
+creations-chat 2020-05-09 06:56:16 ????
+help 2020-05-09 21:11:11 i wonder how to make the "moter_2" not follow your mouse
+help 2020-05-09 21:11:39 yea i used servo and it still is following
+help 2020-05-09 21:12:43 yea i did
+help 2020-05-09 21:13:13 wait it works now
+help 2020-05-09 21:13:33 its uncontrollably going back and forth
+help 2020-05-09 21:13:51 this is why i hate the dam moters they are just so broken!
+help 2020-05-09 21:14:12 they dont work and you cant even use them yet they are the only things that can be used as servos
+help 2020-05-09 21:14:31 nope
+help 2020-05-09 21:14:37 doesent work
+help 2020-05-09 21:15:07 i have torque on 250 now and it still doesent work
+bot-central 2020-05-09 21:24:41 $suggestion i suggest you make the follow mouse mechanic a toggleable thing for the moter_2
+bot-central 2020-05-09 21:24:51 $suggest i suggest you make the follow mouse mechanic a toggleable thing for the moter_2
+bot-central 2020-05-09 21:25:05 im stuped
+bug-reports 2020-05-10 06:35:43 https://streamable.com/9aecxu BAD BUG!!! heres the possible cause: light blocks
+help 2020-05-11 04:54:43 why is it that my build tips on a corner but when i do it again no changes it tips on another corner
+help 2020-05-11 04:57:38 i have a video processing
+help 2020-05-11 05:00:03 https://streamable.com/3r7h8y
+help 2020-05-11 05:00:17 the first time it tips on one corner
+help 2020-05-11 05:00:31 but the second time it tips on the litteral oposite corner
+help 2020-05-11 05:00:52 can somebody explain that? XD
+help 2020-05-11 05:02:22 ill try n add a crap load of wings
+help 2020-05-11 05:02:30 maybe thatle fix it
+help 2020-05-11 05:02:36 thatll
+help 2020-05-11 05:04:34 i have a manual system of controll thrusters
+help 2020-05-11 05:04:54 but its not automated due to logic
+bot-central 2020-05-17 20:27:12 !p https://www.youtube.com/watch?v=WKdWLha4QOI
+bot-central 2020-05-17 20:27:25 um
+bot-central 2020-05-17 20:27:33 =p https://www.youtube.com/watch?v=WKdWLha4QOI
+bot-central 2020-05-17 20:27:40 =loop
+bot-central 2020-05-17 20:27:50 broken
+bot-central 2020-05-17 20:27:58 not broken
+bot-central 2020-05-17 21:55:04 !p https://www.youtube.com/watch?v=WKdWLha4QOI
+bot-central 2020-05-17 21:55:08 !skip
+bot-central 2020-05-17 21:55:10 !skip
+bot-central 2020-05-17 21:55:12 !skip
+bot-central 2020-05-17 21:55:14 !skip
+bot-central 2020-05-17 21:55:18 !skip
+bot-central 2020-05-17 21:55:25 =skip
+bot-central 2020-05-17 21:55:29 =skip
+bot-central 2020-05-17 21:55:32 !p https://www.youtube.com/watch?v=WKdWLha4QOI
+bot-central 2020-05-17 21:55:35 !loop
+bot-central 2020-05-17 21:55:40 =loop
+bot-central 2020-05-17 21:55:44 =loop
+bot-central 2020-05-17 21:55:58 broken
+bot-central 2020-06-24 21:30:45 &suggestion add gears so we can make unique builds
+bug-reports 2020-06-29 02:56:51 E
+bug-reports 2020-06-29 02:57:21 the moter 2 is broken due to it not being able to handle any weight with out bugging out and wobbling horribly

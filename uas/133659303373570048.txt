@@ -1,0 +1,9 @@
+The Tale of microk (133659303373570048)
+bug-reports 2019-01-09 20:59:26 I'm not sure if this is a bug with the game or not, but any rope-based creation does not interact at all similarly to how they do in studio.
+bug-reports 2019-01-09 20:59:33 They seem to have infinite energy.
+bug-reports 2019-01-09 20:59:44 If you make a mechanism and it starts swinging, it literally will never stop swinging.
+bug-reports 2019-01-09 20:59:56 No matter how much weight is at the bottom of the pendulum.
+bug-reports 2019-01-09 21:02:09 I tested ropes with a low Restitution value in a live server in studio and they slowly swung to a stop.
+bug-reports 2019-01-09 21:07:25 To clarify on why this is in bug-reports, it makes nearly any rope-based mechanism entirely impossible.  Hot air balloons, cranes, lifting helicopters, etc.
+bug-reports 2019-01-09 21:07:32 They all will swing out of control eventually.
+bug-reports 2019-01-09 21:15:02 BodyPosition the rope's length straight down would counteract it and open up more rope-based things you could make

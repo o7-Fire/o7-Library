@@ -1,0 +1,6 @@
+The Tale of nighthawkgaming (669730534682918932)
+bug-reports 2023-06-10 19:04:04 Guns dont work in PVP servers. I am not lagging or anything at all, and they shoot, but when they break a part of someone elses build it doesn't show on their screen at all. On my screen the parts that I broke off freeze where they were, and what is left of their build will move as if all the parts were still connected. If I stand on one of the frozen blocks, it appears on their screen as if I am standing on their build. I found this out yesterday, and I hadn't played in a while.
+
+It also doesn't show the damage on other peoples screen, but if someone damages their build with rockets or something that isn't guns, it shows on the frozen body too.
+bug-reports 2023-06-10 19:24:58 which pin kind person
+bug-reports 2023-06-10 19:25:29 i am illiterate and require help

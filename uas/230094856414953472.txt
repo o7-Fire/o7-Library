@@ -1,0 +1,12 @@
+The Tale of dovefairfeather (230094856414953472)
+bug-reports 2021-08-29 16:53:57 My saved data got corrupted while I was in flight mode, the server crashed and then the current build I was working on disappeared
+bug-reports 2021-08-29 23:05:51 While I was in test mode, the server crashed. After I got back in another server, my saved data on the current build got corrupted. Most of my progress was gone.
+
+My username is dove123123123 and the slot that got corrupted is Slot 15
+
+Debug menu: https://prnt.sc/1qrmwv1
+help 2021-09-01 13:50:25 i cant upload a image in <#384025409945337856>
+bot-central 2021-09-03 13:16:39 -servers
+bot-central 2021-09-03 13:17:04 bruh moment
+bot-central 2021-09-10 05:52:34 -servers
+creations-chat 2021-09-19 19:54:55 2

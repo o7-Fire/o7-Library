@@ -1,0 +1,20 @@
+The Tale of RandomizedPalette (921131209575239750)
+creations-chat 2022-01-21 12:39:09 👍
+creations-chat 2022-01-26 16:46:56 What is this?
+the-dump 2022-01-31 12:50:53 🔫
+the-dump 2022-02-08 19:29:47 https://tenor.com/view/russia-soviet-missile-missile-truck-rocket-truck-gif-18785324
+bot-central 2022-02-14 12:39:54 !rank
+creations-chat 2022-12-29 18:31:31 Nope
+creations-chat 2022-12-29 18:38:58 I had posted a question about an SUV I made, but 0.13 seconds after I posted it I noticed the <#478584971670454284> channel and realized I goofed up
+help 2022-12-29 18:39:51 I'm assuming this is the channel for help with user creations? Seems like it.
+
+I made an SUV, and while I believe I have almost everything down, I was looking to make all doors openable, and I started on the back
+
+The problem is, the openable door system couldn't work unless I removed all wedges from the very back portion of the roof, and the back door wouldn't close fully unless I turned a part of the floor of the trunk section into a row of wedges and while the door can now close, when open, the trunk floor looks ugly
+
+I was wondering if it was possible to somehow bring back the wedges at the back of the roof and turn the wedges on the trunk floor back into blocks and still have the door be able to close, or if it is impossible to make the doors openable in this design
+help 2022-12-30 17:40:35 I'm still stuck on the SUV thing I was talking about yesterday: https://discord.com/channels/384021699466756103/478584971670454284/1058092001763008563
+help 2022-12-30 17:52:40 Wait what should I motorlock: The back of the roof, the bottom of the trunk floor or both of those
+help 2022-12-30 19:07:45 I only figured out how to do it to the back of the roof, but the motor lock making that possible isn't concealed and I don't know if I can conceal it
+help 2022-12-30 19:08:48 Good news is, I realized I think I can restore the trunk floor by making the very bottom of the door a round wedge
+help 2022-12-30 19:39:50 Update: The round wedge idea worked, but now I wanted to see if I could somehow hide the motor lock to make the whole thing a bit neater-looking

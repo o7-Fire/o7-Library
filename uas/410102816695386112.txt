@@ -1,0 +1,26 @@
+The Tale of verydeeppockets (410102816695386112)
+bot-central 2021-09-26 00:04:04 ?shelp
+bot-central 2021-09-26 00:04:19 ?rhelp
+help 2021-09-30 13:48:20 Do the different materials affect block strength in PvP?
+help 2021-09-30 13:48:49 For example, can metal endure more damage than normal one?
+help 2021-10-03 17:10:33 Is there any way to evade Roblox chat filter in signs?
+help 2021-10-03 17:15:22 Well, it doesn’t want to work like that and it seems that…7 symbols words be die
+bot-central 2021-10-08 15:07:36 !shelp
+bot-central 2021-10-08 15:07:51 !shelp
+bot-central 2021-10-08 15:08:22 ?shelp
+bot-central 2021-10-08 15:14:30 &suggest
+[Building]
+Add a function that allows to “open” the building on your plot for your friends. So people could cooperate when they build something very big. Maybe there could be like special list, where the chosen players get permission to cooperate with you.
+Also a function allowing to “Download” a certain build, basically copying it, but the person whose build is being downloaded must allow that in settings.
+bot-central 2021-10-08 15:14:55 !help
+bot-central 2021-10-08 15:15:44 & &suggest
+[[Building]
+Add a function that allows to “open” the building on your plot for your friends. So people could cooperate when they build something very big. Maybe there could be like special list, where the chosen players get permission to cooperate with you.
+Also a function allowing to “Download” a certain build, basically copying it, but the person whose build is being downloaded must allow that in settings.]
+bot-central 2021-10-08 15:16:36 Alright, not today.
+bot-central 2021-10-08 15:45:31 Definitely.
+bot-central 2021-10-08 15:45:37 Or maybe I’m not ranked.
+bug-reports 2022-03-09 08:20:27 There is a bug regarding cutters and pistons. If a cutter block is attached to piston, it just stops working.
+bot-central 2022-03-09 08:34:14 &suggest
+[OTHER]
+Make it possible to make certain creations possible to copy for other players so people could kind of share their builds. The sharing function could also make it possible/impossible to add more blocks, set mechanisms up differently or recolor. This would give us the possibility to give others our builds without needing to tell them how it works and what must be done to build such things.

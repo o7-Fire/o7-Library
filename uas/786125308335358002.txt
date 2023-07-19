@@ -1,0 +1,11 @@
+The Tale of doggocheems (786125308335358002)
+help 2022-09-30 02:02:26 I made a biplane bomber from a tutorial but it doesn't seem to lift up because of the weight. People suggested that I should add put in a custom control panel or change the wing and block's material to decrease the density neither kinda work. Any idea how to make my plane abit lighter so it could atleast fly?
+
+https://streamable.com/reyvtm
+help 2022-09-30 02:03:54 well the tutorial did put 2 ballast blocks underneath the plane nose
+help 2022-09-30 02:04:14 oh
+help 2022-09-30 02:04:16 alright
+help 2022-09-30 02:04:24 thanks
+help 2022-09-30 02:05:50 <:nooo:787097964946259978>
+creations-chat 2023-05-22 05:16:25 I'm trying to build an oil rig, does anyone know how to make it afloat ?
+creations-chat 2023-05-22 05:42:02 I mean, the one I built had its pillars sinking in the water, I want to solve that issue

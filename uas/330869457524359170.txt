@@ -1,0 +1,37 @@
+The Tale of Nightkill (330869457524359170)
+creations-chat 2020-08-30 20:05:41 Depends what defies as winning
+creations-chat 2020-08-30 20:06:18 Hmm
+creations-chat 2020-08-30 20:06:23 Neither
+help 2021-06-19 17:30:41 is there any track design that doesnt slip?
+help 2021-06-19 19:36:37 can anyone show me a working engine? and please dont answer like a typical 10yr old
+help 2021-06-19 19:43:53 im talking about piston engines
+help 2021-06-19 19:45:18 better than what i could make
+help 2021-06-19 20:53:26 <@!660725956935286789> thanks. true but it works
+help 2021-06-19 20:54:34 im trying to make a engine with a working timing system
+help 2021-06-19 20:55:55 so far i have made a balanced piston system with a single motor power source
+help 2021-06-19 20:57:05 just trying to figure out how i can make a reliable power transfer system
+help 2021-06-19 20:59:47 i tried a belt but it slips
+help 2021-06-20 01:26:20 whats a "expert" supposed to be?
+help 2021-06-20 01:34:27 seems pointless
+creations-chat 2021-06-21 00:51:06 thats a bike?
+help 2021-06-21 07:13:15 is there any way to lock motor2 in its angle after activating it and so that it doesnt slip under high torque?
+help 2021-06-21 07:14:09 id really need that knowledge right now
+help 2021-06-21 07:19:02 totally not because im building a engine or anything
+help 2021-06-21 07:24:22 <@!707953054489509978>but i cant set it so a specific angle
+help 2021-06-21 07:26:23 how
+help 2021-06-21 07:28:20 then it wont spin
+help 2021-06-21 07:32:13 how am i supposed to make a stopper so that the crank is precisely at 60 degrees when it hits it?
+help 2021-06-21 07:34:57 <@!707953054489509978>my brains cant process so much math and physics
+creations-chat 2021-06-21 08:48:06 give it cat ears
+help 2021-06-21 11:08:04 geez
+help 2021-07-10 12:37:42 Any ideas how to make a custom gear piece that isn't a water wheel
+help 2021-08-22 17:53:43 Uhh weird question but do you guys have any good ideas how to make a reuleaux triangle?
+help 2021-08-22 17:55:05 Making a symmetrical triangle shape out of cubes seems like a pain
+help 2022-01-03 09:27:37 Been a while since I last asked so has anyone figured out a way to build tracks that don't slip?
+help 2022-01-03 09:30:56 I'm asking because I would love to build a working timing chain/belt for my engine model so I don't have to use a second motor to keep the valve timing correct
+creations-chat 2022-02-20 17:16:40 
+creations-chat 2022-02-20 17:18:48 oh no a furry plane how terrifying
+creations-chat 2022-02-20 17:21:06 can i have that in english?
+creations-chat 2022-02-20 17:23:41 just a prototype and it has long rods because of the way the game handles collisions
+creations-chat 2022-02-20 17:25:48 i identify as a potato
+the-dump 2022-02-23 05:47:22 

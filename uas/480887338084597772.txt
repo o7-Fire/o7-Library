@@ -1,0 +1,8 @@
+The Tale of motafy (480887338084597772)
+bot-central 2020-10-09 01:28:47 ?whois
+bot-central 2020-10-09 02:34:22 E
+bot-central 2020-10-09 02:34:59 ?whois <@!480887338084597772>
+bot-central 2020-10-13 01:07:18 !rank
+bot-central 2020-10-13 01:07:52 !members
+bot-central 2020-10-21 16:16:12 !ban <@!480887338084597772>
+bot-central 2020-10-21 16:16:14 E

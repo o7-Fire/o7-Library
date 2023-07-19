@@ -1,2 +1,3 @@
-ohhh_ok
-plane-crazy 2019-05-12 04:17:25 casually builds a 2000+ block ship
+The Tale of ohhh_ok (234780489259548672)
+the-dump 2020-03-23 16:50:41 i would like to learn lua too, it seems like it would help in the future
+the-dump 2020-03-23 16:51:16 but learning C is probably best or some other languages that are used more

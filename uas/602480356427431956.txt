@@ -1,0 +1,31 @@
+The Tale of mikix_724 (602480356427431956)
+help 2022-01-04 13:36:34 i need help with reducing the weight on my x bow, the motors cant function properly. i have been trying to solve this problem for atleast 1 or 2 hours
+help 2022-01-04 13:43:42 they just start spinning uncontrollably
+help 2022-01-04 13:47:59 forgot to mention im using motor 2s
+help 2022-01-04 13:49:13 but i want to be able to aim with my mouse on my turret
+help 2022-01-04 13:50:10 an x bow
+help 2022-01-04 13:50:20 that one building from clash of clans
+help 2022-01-04 13:51:23 on the motors?
+help 2022-01-04 13:52:25 Backward: F Forward: R
+
+Speed: 50
+
+MasTorque: 1000
+
+.MaxAngle:180
+help 2022-01-04 13:54:16 still the same, when im not moving my mouse it just twitches a whole lot
+help 2022-01-04 13:54:30 and when i do move my mouseit sometmes breacks apart
+help 2022-01-04 13:56:10 should i screenshot (takes a lot of time to open up discord on my laptop) or send a picture of it from my tablet
+help 2022-01-04 13:57:40 
+help 2022-01-04 13:58:41 nope
+help 2022-01-04 13:59:10 its the same
+help 2022-01-04 13:59:18 it juet takes more time to turn
+help 2022-01-04 14:03:35 ok i found out something, its the motor 2s that make the turret aim up and down which are glitching out
+help 2022-01-04 14:04:39 so should i use helium blocks?
+help 2022-01-04 14:07:28 yeah i need helium blocks
+help 2022-01-04 14:07:34 its wobbly now
+help 2022-01-04 14:07:41 but still better than before
+help 2022-01-04 14:08:28 it keeps spinning for some reason
+help 2022-01-04 14:08:39 like 90 degrees forth and back
+help 2022-01-04 14:15:36 ok i replaced every single motor 2 with a normal motor. it works perfectly now
+bot-central 2023-02-11 17:16:47 !help

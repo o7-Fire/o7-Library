@@ -1,0 +1,14 @@
+The Tale of polydank_ (792395035504672778)
+help 2021-05-02 15:29:52 Hey i just wanted to know how to make a ship sink? im not the best at this game lol. thanks.
+help 2021-05-02 15:30:41 oh ok
+help 2021-05-02 15:30:46 yeah i get it
+help 2021-05-02 15:30:48 thanks
+help 2021-05-05 15:20:08 hey ive been having this issue where the lights on my build turn off after a period of time, thanks.
+help 2021-05-05 15:21:29 ok thank you
+help 2021-05-09 12:52:06 I made a sea creature that can pop in and out of the water but its been flipping over, like the center of mass is in the middle but it still flips, any help?
+help 2021-05-09 12:55:53 ok
+help 2021-05-09 12:56:03 ballast block at bottom?
+help 2021-05-09 12:56:08 blocks*
+help 2021-10-06 17:58:27 i made a train but it starts sliding to the side of the tracks whenever i start going forward and when i make turns (cameras work well but get stuck when i make turns)
+any help?
+bug-reports 2022-01-26 11:38:47 lights turn off after some time for no reason

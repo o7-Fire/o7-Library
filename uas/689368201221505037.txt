@@ -1,0 +1,18 @@
+The Tale of rayson366458 (689368201221505037)
+creations-chat 2020-06-24 13:50:12 a magazine which lag a lot
+creations-chat 2020-06-24 13:50:18 how can i improve that?
+creations-chat 2020-06-24 13:51:28 barrel？
+creations-chat 2020-06-24 13:51:54 hmmmm
+creations-chat 2020-06-24 13:52:02 meaning upside down?
+creations-chat 2020-06-24 13:52:24 this design have a barrel already
+creations-chat 2020-06-24 13:52:47 in the space between the conveyor and bullet
+creations-chat 2020-06-24 13:52:58 oh
+creations-chat 2020-06-24 13:53:00 ok
+creations-chat 2020-06-24 13:53:31 then how to prevent bullet get into the susprntion
+creations-chat 2020-06-24 13:54:06 like stuck inside
+creations-chat 2020-06-24 13:55:20 and how can the bullet go perpendicular to the ground
+creations-chat 2020-06-29 06:56:36 any idea of smoothing this magazine?
+creations-chat 2020-06-29 06:57:02 also is all suspension better?
+creations-chat 2020-06-29 07:08:44 and how to avoid it gone crazy
+help 2020-06-29 07:42:44 the suspension drop out...
+help 2020-06-29 07:52:26 why?

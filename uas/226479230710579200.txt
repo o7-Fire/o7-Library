@@ -1,10 +1,169 @@
-arkthefennecfox
-plane-crazy 2019-10-25 22:15:35 we got new discord status things now >:D
-plane-crazy 2019-08-08 17:34:53 WHO PINGED ME?
-plane-crazy 2019-08-05 16:54:25 hey anyone been able to build a functional magnet drive?
-plane-crazy 2019-08-03 01:27:21 it would be nice to use mouse aiming instead of keyboard aiming
-plane-crazy 2019-08-03 01:27:08 i was talking like ground based turrets
-plane-crazy 2019-08-03 01:26:59 wait no
-plane-crazy 2019-08-03 01:26:33 yes
-plane-crazy 2019-08-03 01:25:57 man that needs to be a thing
-plane-crazy 2019-08-03 01:25:23 hey, is there a way to get motors to face the cursor?
+The Tale of arkthefennecfox (226479230710579200)
+bug-reports 2018-11-04 04:04:39 i have an issue where after laoding my car it falls apart while everything is connected right
+bug-reports 2018-11-04 04:04:55 
+bug-reports 2018-11-04 04:04:56 from this
+bug-reports 2018-11-04 04:05:15 to this
+bug-reports 2018-11-04 04:05:25 anyone able to help me out here?
+bug-reports 2018-11-04 04:07:33 yes it can crab walk
+bug-reports 2018-11-04 04:07:37 aka side to side
+bug-reports 2018-11-04 04:22:16 how do i fix it?
+help 2018-11-04 04:29:10 so uh, this car i saved while it was working perfectly
+help 2018-11-04 04:29:12 https://cdn.discordapp.com/attachments/498473314445033472/508491807395414017/unknown.png
+help 2018-11-04 04:29:29 https://cdn.discordapp.com/attachments/498473314445033472/508491892661420061/unknown.png
+help 2018-11-04 04:29:29 and now when i load it it falls apart into this mess
+help 2018-11-04 04:29:37 can someone help me fix this?
+help 2018-11-04 05:14:59 can confirm, i had to rebuild the whole thing
+creations-chat 2018-11-04 05:47:47 tiny aa
+creations-chat 2018-11-04 18:32:16 small vtol roughly based off a yt video
+creations-chat 2018-11-04 18:33:42 currently 60
+creations-chat 2018-11-04 18:33:53 will probably upgrade it as time goes on
+creations-chat 2018-11-04 18:39:28 extension to my vtol post, a small video to prove VTOL capabilities
+creations-chat 2018-11-04 18:40:25 or yt
+creations-chat 2018-11-04 18:41:15 https://youtu.be/hvZIJ2wx1wg
+creations-chat 2018-11-04 18:42:10 havent gotten vtol landing down to a science yet
+creations-chat 2018-11-04 18:57:42 
+creations-chat 2018-11-04 18:57:47 theres your screen shot
+creations-chat 2018-11-04 18:57:56 oh alright
+creations-chat 2018-11-04 18:58:20 
+creations-chat 2018-11-04 18:58:33 yes its on slot seven
+creations-chat 2018-11-04 18:58:48 also sorry for botching your posting
+creations-chat 2018-11-04 18:59:09 oh sweet deception
+creations-chat 2018-11-04 19:45:21 made my ftol into a S&R variant, lots of seats and ballast blocks for water landing
+creations-chat 2018-11-04 19:45:26 *Vtol
+creations-chat 2018-11-04 19:45:56 yes
+creations-chat 2018-11-04 19:46:05 if you set the density really low they let me float
+creations-chat 2018-11-04 19:46:18 not sure but im not gonna question it
+creations-chat 2018-11-04 19:46:26 kind of, not enough to help people
+creations-chat 2018-11-04 20:07:30 its kinda trahs i've seen it :P
+creations-chat 2018-11-04 20:07:57 really? i made a VTOL
+creations-chat 2018-11-04 20:08:10 everyone here has seen it already, i think
+creations-chat 2018-11-04 20:12:07 no
+creations-chat 2018-11-04 20:12:11 :P
+bug-reports 2018-11-04 22:40:15 but its welded before saving
+bug-reports 2018-11-04 22:40:31 anyways i fixed it by connecting the backs
+creations-chat 2018-11-06 01:38:18 i'd say its unlocked form would be close enough but im not a mod
+creations-chat 2018-11-06 03:45:33 Ay i see i've been thanked
+creations-chat 2018-11-06 03:45:53 Your welcome dude
+creations-chat 2018-11-06 22:40:46 made an aircraft arresting wire, capable of stopping more aircraft on landing, or preventing them from taking of(Uses many delta wings as spikes)
+creations-chat 2018-11-07 12:08:21 Near finished vtol, equiped with makeshift afterburners and break physics
+creations-chat 2018-11-07 12:08:41 novice rank
+bug-reports 2018-11-08 20:54:12 {Possible check on the bug} I do not believe it is assigning joining players to a spawn pad, i would like you too look into this madattak, it might be the solution, but i am not sure
+bug-reports 2018-11-08 21:21:19 hey rick was what i thought, the issue?
+bug-reports 2018-11-08 21:41:49 ah alrighty
+help 2018-11-08 21:42:08 need some help on making a railgun/player launcher
+help 2018-11-08 22:24:36 i was using magnets
+help 2018-11-08 22:24:44 but i have moved to a rocket launcher
+help 2018-11-08 22:24:51 or makeshift railgun
+creations-chat 2018-11-09 02:26:02 meet the finisher artillery railgun
+creations-chat 2018-11-09 02:26:42 308 blocks in total -Orangeepicwaffles47
+creations-chat 2018-11-09 02:32:01 oh no
+creations-chat 2018-11-09 02:32:20 DEAR GOD
+creations-chat 2018-11-09 02:32:37 *but wait theres more*
+creations-chat 2018-11-09 02:32:45 *no*
+creations-chat 2018-11-09 02:32:56 (tf2 animation refrence right there)
+creations-chat 2018-11-09 02:33:10 this is a bucket
+creations-chat 2018-11-09 02:33:13 *no*
+creations-chat 2018-11-09 02:33:18 but wait, theres more
+creations-chat 2018-11-09 02:33:22 *Dear god*
+creations-chat 2018-11-09 02:33:52 right i gotta go to bed got school tomorrow, but soon as i get hom im finna be on here
+bug-reports 2018-11-11 17:58:42 so the rocket reload jams motor, and now i cant turn my cannon
+creations-chat 2018-11-14 22:25:38 might kill my ultra level toaster
+creations-chat 2018-11-14 22:26:12 poor thing only has a 710 in it
+creations-chat 2018-11-14 22:26:36 nah the nvidia 710
+creations-chat 2018-11-14 22:26:45 (idk im not much of a computer nerd)
+creations-chat 2018-11-14 22:27:53 yea, i used a magnet based railgun
+creations-chat 2018-11-14 22:28:12 or the roblox?
+creations-chat 2018-11-14 22:28:12 almost killed my pc
+creations-chat 2018-11-14 22:28:47 i have been trying to make one of those for so long
+creations-chat 2018-11-14 22:29:05 woah
+creations-chat 2018-11-14 22:30:47 half blocks make up the walls, and then wedges to force the bullets into a single block space
+creations-chat 2018-11-14 22:31:27 oh woah
+creations-chat 2018-11-17 01:20:00 god i wanna make an a10 but i cant even grasp where to begin, that and i cant copy designs from images, i need blueprints or something of the likes
+creations-chat 2018-11-17 01:22:23 right ill start there then
+creations-chat 2018-11-17 01:25:47 question, did roblox do an oof, i cant load into the game all i get is "Waiting for an available server."
+creations-chat 2018-11-17 01:26:14 my guess then is roblox did an oof of their servers or something
+creations-chat 2018-11-17 01:26:25 bad update friday, ima start calling it that
+creations-chat 2018-11-17 01:27:13 trying to join direct
+creations-chat 2018-11-17 01:27:42 got into one by joining direct, try that
+creations-chat 2018-11-17 01:36:44 right heres what i got of the "A-10" so far, really not much to be proud of but it looks somewhat close
+creations-chat 2018-11-17 01:37:17 MEGA OOF
+creations-chat 2018-11-17 01:37:44 i would use the 1x1 delta wings but they are bugged rn
+creations-chat 2018-11-17 01:38:07 but theres only one chute
+creations-chat 2018-11-17 01:42:32 right i just had to blacklist a bunch of people, for driving right into me whilst i was building they "Apologized" but im sure it was sarcasm, they arent laughing now, they got sent back to their build zones and kicked from flight mode
+creations-chat 2018-11-17 01:48:56 i had to remove my a-10 they were getting on my nerves, build aborted
+creations-chat 2018-11-17 01:56:07 they ended up calling me a 10 year old became really toxic, the reason why is they were both blacklisted users, for the reason above, so they were most likely 10
+creations-chat 2018-11-17 01:57:31 oh i didnt make it, i aborted due to toxic players
+creations-chat 2018-11-17 01:57:48 then i shoved em off the map, funny reactions, then more salt, so i left
+creations-chat 2018-11-17 01:58:32 they were like, oh wow hes def 10 years old, but i can get a legit paying job and i have a bank card,
+creations-chat 2018-11-17 01:58:43 they were confused at how i pushed em off the map tho
+creations-chat 2018-11-17 01:59:26 (this is why you dont play on public servers children)
+creations-chat 2018-11-17 02:00:51 sometimes you get the best reactions to edge pushes when they are acting toxic
+creations-chat 2018-11-17 02:01:02 or blacklist flight mode resets
+creations-chat 2018-11-17 02:01:26 [Noob] WOAH HOW DID YOU MAKE THAT?!
+creations-chat 2018-11-17 02:02:06 i told them to find me on the discord, they were like what is discord, so they were below the +13 age restrictions
+creations-chat 2018-11-17 02:02:32 and they were calling a 17 year old 10 XD
+creations-chat 2018-11-17 02:03:00 (Yes i am 17 if you are going to get salty about it leave now)
+creations-chat 2018-11-17 02:03:15 (or face the wrath of being blocked
+creations-chat 2018-11-17 02:03:42 i tend not to deal with extreme salt or toxcisity, not since rocket league (Shudders)
+creations-chat 2018-11-17 02:03:58 but god rocket league is a salty mess
+creations-chat 2018-11-17 02:04:14 (I dont expect people to know what that is)
+creations-chat 2018-11-17 02:05:00 tbh they would
+creations-chat 2018-11-17 02:06:14 i can actually partly do a kermit impression
+creations-chat 2018-11-17 02:06:35 oh we do have VC rooms :D
+creations-chat 2018-11-17 02:06:43 :O
+creations-chat 2018-11-17 02:06:46 no way
+creations-chat 2018-11-17 02:07:04 100% true
+creations-chat 2018-11-17 02:07:48 /wait no, nobody say oil anymore! *united states bursts into the room " DID SOMEBODY SAY OIL!"*
+creations-chat 2018-11-17 02:09:55 i would crine if that actually kicked someone
+creations-chat 2018-11-17 02:10:58 ;-;
+creations-chat 2018-11-17 02:11:25 searching my pc for my crine emoji
+creations-chat 2018-11-17 02:11:48 (Britian) dont you do it!
+creations-chat 2018-11-17 02:12:13 (Britian) D:<
+creations-chat 2018-11-17 02:55:06 its nice, and i found my crine emoji
+creations-chat 2018-11-17 02:56:24 i would post it here but then it would go to creations, i dont wanna be beaned over it
+creations-chat 2018-11-17 03:04:05 forgot people could make buildings in this game
+the-dump 2018-11-17 03:05:36 here have my crine emoji
+the-dump 2018-11-17 03:05:45 
+creations-chat 2018-11-17 03:11:05 a tank you say, what kind of tank (Russian bias intensifies)
+creations-chat 2018-11-17 03:13:36 sir you use two of these ~~ for strikethrough if you were trying that
+creations-chat 2018-11-17 03:13:52 two on each side, it ends up like ~~this~~
+creations-chat 2018-11-17 03:14:21 awwww, get that car out of here, give me a ***T-34***
+creations-chat 2018-11-17 03:14:35 boooo
+creations-chat 2018-11-17 03:14:46 *im still waiting on my T-34*
+creations-chat 2018-11-17 03:14:51 <>_<>
+bug-reports 2018-11-17 22:04:53 so this happened
+bug-reports 2018-11-17 22:05:11 i cannot place 1x7s directly on other 1x7 no matter the rotation
+bug-reports 2018-11-17 22:05:24 i tried turing it 180 got the same thing
+the-dump 2018-11-18 01:11:55 me witnessing the events in the official vip server
+help 2018-11-18 13:38:16 what is the rope "Restitution" setting
+help 2018-11-18 13:50:29 also what happened to no thruster spam?
+creations-chat 2018-11-18 18:00:48 this thing, its an amalgamation between and a-10 and imagination, it does fly, and has the front gun, along with some missles
+creations-chat 2018-11-18 18:01:05 its save file
+bug-reports 2018-11-20 22:56:20 theres a rotation which makes it fit just keep trying
+bug-reports 2018-11-20 22:56:28 you gotta use tilt to do it
+bug-reports 2018-11-20 22:56:56 doubt i bet i could get in rn and make it work
+bug-reports 2018-11-20 22:57:07 im not going to because im in combat in a diff game
+creations-chat 2018-11-25 06:46:48 been making some "Upgrades" to my artillery, making is seem more sci-fi
+help 2018-11-30 23:30:22 click the green arrow in the bottom left
+bug-reports 2018-12-05 21:15:26 pvp confirmed broken in vip servers
+creations-chat 2018-12-26 03:46:30 made this prototype monster, dont get in its way
+creations-chat 2018-12-26 03:53:56 prototypes got a new paint job, the hazard zone is clearly marked, to help people avoid it
+help 2018-12-26 07:13:33 whats the difference between the winter wheel and normal wheel?
+creations-chat 2018-12-26 08:46:08 first screenshot of my cargo tram i made a few minutes ago
+creations-chat 2018-12-26 08:46:37 gotta make sure things get delivered
+creations-chat 2018-12-27 06:59:56 sl0w
+creations-chat 2018-12-27 19:31:09 indeed, but it is not mine
+help 2019-08-03 02:48:19 This user made a parachute lag machine, are they able to get banned, (Nearly crashed me and my friend, im guessing it was built for that reason)
+help 2019-08-03 02:48:35 (the username is longingtornado13908 )
+creations-chat 2019-08-03 03:52:52 Minimal block space fighter, obtains speeds of over 700 studs a second
+creations-chat 2019-08-03 03:53:06 
+creations-chat 2019-08-03 03:54:02 28 blocks, and they handle quite well
+bug-reports 2019-12-30 18:20:23 game broke, no buttons load, and you spawn in the middle of the map
+creations-chat 2020-01-11 02:14:25 a modified a-10 and a poorly constructed hanger, totals 1824 blocks
+creations-chat 2020-01-11 02:14:41 
+creations-chat 2020-01-11 02:15:19 i should note the hanger has a functional door and really bright amber lighting to alert people the door is in motion
+creations-chat 2020-01-11 03:26:59 ey, i have the entire body of the A-10 full of jets, it was still too unstable
+bug-reports 2020-01-11 20:44:22 Lights seem to toggle off on their own after a few seconds, causing them to work inverted to the buttons normal function, this impeeds the standard functionality of my hanger
+creations-chat 2020-12-16 06:02:58 (reason i put two is for balance, the rear only has a single landing gear
+creations-chat 2020-12-16 06:12:56 (Thank you :D)
+help 2020-12-19 07:00:04 wheels keep wobbling uncontrollably when using motor2's as a servo for steering

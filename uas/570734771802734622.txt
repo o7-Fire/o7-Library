@@ -1,0 +1,497 @@
+The Tale of levseven (570734771802734622)
+bot-central 2021-05-01 19:27:27 !rank
+bot-central 2021-05-01 19:27:43 !rank
+bot-central 2021-05-01 19:27:54 oh there we go
+bug-reports 2021-08-20 19:35:23 When you set a motor 2 to servo+toggle, then max angle to 180°, despite what the controls are in the config, *sometimes it goes counter clockwise, and sometimes clockwise.* pls fix
+bug-reports 2021-08-20 20:21:28 Can't copy/paste anything while playing plane crazy
+bug-reports 2021-08-20 20:23:19 browser
+bug-reports 2021-08-20 20:23:20 ah i see
+bug-reports 2021-08-20 20:23:21 rip
+creations-chat 2021-08-25 19:01:27 Sukhoi Su-35 (very pvp capable)
+creations-chat 2021-08-25 19:05:23 Addressing multiple cuz slow mode:
+<@!720751430595772418> I like how it looks, but i might change it if that'll make it more accurate
+<@!707953054489509978> lol i went for looks first but incorporated the guns into the body, and added missiles later so it worked out haha
+creations-chat 2021-08-27 23:48:31 anti-air russian katyusha. thoughts?
+https://cdn.discordapp.com/attachments/833861220279779349/880961346366238750/RobloxScreenShot20210827_164447105.png
+https://cdn.discordapp.com/attachments/833861220279779349/880961402351800410/RobloxScreenShot20210827_164500319.png
+creations-chat 2021-08-28 06:18:02 welcome to my life
+creations-chat 2021-08-28 07:01:33 https://tenor.com/view/breaking-bad-bryan-cranston-walter-white-youre-god-damn-right-right-gif-4996800
+bug-reports 2021-08-29 03:52:33 OH MY GOD THERE'S A BLOCK ON MY PLOT FROM THE LAST GUY WHO WAS ON IT AND ITS SO GODDAMN ANNOYING FIX IT PLEASE
+bug-reports 2021-08-29 03:53:38 >:(
+bug-reports 2021-08-29 03:53:44 no
+bug-reports 2021-08-29 03:54:24 https://tenor.com/view/rohan-jjba-daga-kotowaru-i-refuse-refuse-gif-7385649
+bug-reports 2021-08-29 04:23:33 well the problem is that this shouldn't happen. when a person leaves the game, their build should despawn. the bug is that it doesnt
+creations-chat 2021-08-30 04:18:19 how'd you do that like center cylindrical slope? how tf u angle a motor lock am noob
+creations-chat 2021-08-30 04:24:03 okay so if u set the tnt blast pressure to 0, can you angle motor lock? (srry, just final like confirming question) thx <@!447221768520859659>
+creations-chat 2021-09-27 00:00:16 how does my wip cockpit look? i attached my reference as well (btw lemme know if i cant post wip stuff here) https://cdn.discordapp.com/attachments/384021699466756107/891817403397337118/unknown.png
+https://cdn.discordapp.com/attachments/384021699466756107/891818986797424700/unknown.png
+https://media.discordapp.net/attachments/384021699466756107/891819441220890684/unknown.png
+creations-chat 2021-09-27 00:03:48 kk thats what i thought
+creations-chat 2021-09-27 00:10:23 what about it?
+creations-chat 2021-09-27 00:12:27 ah, now i see it lmfao
+creations-chat 2021-09-27 00:37:27 set all the tnt settings to 0/minimum, so it doesnt destroy the build when u lock. also be speedy boi
+creations-chat 2021-09-27 00:44:07 how does my wip cockpit look? i attached my reference as well (repost cuz nobody commented) https://cdn.discordapp.com/attachments/384021699466756107/891817403397337118/unknown.png
+https://cdn.discordapp.com/attachments/384021699466756107/891818986797424700/unknown.png
+https://media.discordapp.net/attachments/384021699466756107/891819441220890684/unknown.png
+creations-chat 2021-09-27 00:47:14 didnt realize what was wrong, thats all
+bug-reports 2021-09-27 03:04:17 OKAY CAN WE FIX THE GODDAMN BUG WITH MOTOR 2 SERVO SET TO 180° MAX ANGLE NOT ROTATING THE RIGHT WAY? IT WILL WORK HALF THE TIME AND THEN DECIDES TO ROTATE THE OPPOSITE WAY DESPITE NOT HAVING CHANGED THE SETTINGS
+bug-reports 2021-09-27 03:05:17 this has been reported multiple times in the past and nothing has been done about it
+bug-reports 2021-09-27 03:19:52 if this isnt fixed in like a week
+bug-reports 2021-09-27 03:19:55 imma ping someone
+bug-reports 2021-09-27 03:19:56 idk who
+bug-reports 2021-09-27 03:20:00 but someone
+bug-reports 2021-09-27 03:39:31 what do you want me to read?
+bug-reports 2021-09-27 03:39:37 that they're developing pc2?
+bug-reports 2021-09-27 03:39:38 ik that
+bug-reports 2021-09-27 03:39:45 but this is such a minor yet annoying glitch
+bug-reports 2021-09-27 03:39:51 i feel like it should have been fixed by now
+bug-reports 2021-09-27 03:41:21 obviously i cant
+bug-reports 2021-09-27 03:41:26 im not on the dev team
+bug-reports 2021-09-27 03:41:34 btw just link me the post you want me to see ffs
+bug-reports 2021-09-27 03:41:55 im not gonna scroll through half of all the messages to see one post
+bug-reports 2021-09-27 03:43:11 ah
+bug-reports 2021-09-27 03:43:12 i see
+bug-reports 2021-09-27 03:43:22 but i mean
+bug-reports 2021-09-27 03:43:34 the reason i feel like this is a super simple bug
+bug-reports 2021-09-27 03:43:44 is cuz it just doesn't follow the rules given by the config
+bug-reports 2021-09-27 03:43:50 which is the direction of rotation
+bug-reports 2021-09-27 03:44:11 basically, just go in, check where the loophole is with 180°, and badabing badaboom
+bug-reports 2021-09-27 03:44:25 :/
+bug-reports 2021-09-27 03:44:36 oh it has nothing to do with collision
+bug-reports 2021-09-27 03:44:40 its direction of rotation
+bug-reports 2021-09-27 03:44:55 at 180°, it for some reason gets confused
+bug-reports 2021-09-27 03:44:58 thats all
+bug-reports 2021-09-27 03:55:27 servo
+bug-reports 2021-09-27 03:56:02 make a motor 2 servo
+bug-reports 2021-09-27 03:56:04 set to toggle
+bug-reports 2021-09-27 03:56:10 make 180°
+bug-reports 2021-09-27 03:56:35 at the very least
+bug-reports 2021-09-27 03:56:41 it flips the forward/backward
+bug-reports 2021-09-27 04:52:13 True
+bug-reports 2021-09-27 04:56:52 This prob isn’t how they have it coded but
+bug-reports 2021-09-27 04:58:16 if (direction) = {forward}
+  then rotate{clockwise}
+if (maxvalue) = 180
+ then rotate{180}
+end
+bug-reports 2021-09-27 04:58:39 I’m not an expert in lua or anything, but I imagine a fix would be as simple as that
+bug-reports 2021-09-27 04:58:43 Or something similar idk
+bug-reports 2021-09-27 05:16:34 anyway, moral of the story, if you've been dealing with things not working in plane crazy for an entire day, dont post anything
+bug-reports 2021-09-27 05:16:42 or else you end up ranting and making a fool of yourself
+bug-reports 2021-09-27 15:10:34 It’s for things that open, like a bomb hatch or whatever
+bug-reports 2021-09-27 23:52:01 Mate chill
+bug-reports 2021-09-27 23:52:11 Discussion’s over
+bug-reports 2021-09-27 23:52:25 It’s simply a fact that the bug happens sometimes
+bug-reports 2021-09-27 23:52:46 I prob shouldn’t have ranted like I did
+creations-chat 2021-09-28 00:27:25 how can i hide these motors? they open the doors for my landing gear which goes backwards https://cdn.discordapp.com/attachments/833861220279779349/892205031938486282/unknown.png
+https://cdn.discordapp.com/attachments/833861220279779349/892205065576796160/unknown.png
+creations-chat 2021-09-28 00:29:55 h o w
+bug-reports 2021-09-28 04:34:34 yes
+bug-reports 2021-09-28 04:36:12 okay so i doubt the bug will be fixed but you cant see trails/stuff through glass, only legacy glass
+bug-reports 2021-09-28 04:36:14 is annoying
+bug-reports 2021-09-28 04:36:28 also u need mee6 level 3 for image perms :p
+creations-chat 2021-10-04 02:27:34 if you're downvoting, pls let me know why like bruh
+https://discord.com/channels/384021699466756103/384025409945337856/894409410296832070
+creations-chat 2021-10-04 02:31:03 i've debated it, do i make it smooth or have the lines on the cockpit <:pain:644301805534183464>
+creations-chat 2021-10-04 02:35:46 ye imma do that
+creations-chat 2021-10-04 02:41:18 motor 2 s for the landing gear door, i haven't found a better way, so if you know, please tell me
+creations-chat 2021-10-05 02:01:29 holy shit you were right it looks way better
+creations-chat 2021-10-08 00:37:09 hope ya lads like the tu-160, i finished and cleaned it up!
+creations-chat 2021-10-08 00:41:42 thanks! i used to have more of a "messy" camo, but some guy told me to like follow a pattern so eh
+creations-chat 2021-10-08 00:53:53 Ah okay, thanks!
+creations-chat 2021-10-08 01:10:49 <@!398300194258550784> ping them mate oh oof nvm
+creations-chat 2021-10-08 01:12:52 Hol up isn’t your pfp a dude lmfao
+creations-chat 2021-10-08 02:03:32 it really doesn't need to be custom angles to have a good cockpit :/
+creations-chat 2021-10-08 02:06:05 right, but it's a custom, so he doesn't have to be *exactly* accurate. I mean, like, if you want to, go ahead, but its just a bit unnecessary.
+creations-chat 2021-10-08 02:08:07 i'm not saying he can't, just that if it's way too difficult he doesn't *have* to, ya know?
+creations-chat 2021-10-08 02:10:09 i wish we could get regular motors with max angles, would make angle locking so much easier <:ElonSad:573361014112780303>
+creations-chat 2021-10-08 02:12:19 ah i see lol (this is why we need max angle regular motors <:pain:644301805534183464>) i know your pain, i have bad pc :((
+creations-chat 2021-10-08 02:16:02 the pain of garbeg pc :cri:
+creations-chat 2021-10-08 02:19:23 oof same i got intel integrated <:nooo:787097964946259978>
+creations-chat 2021-10-08 15:57:01 oh shit thats a fat L, i've been looking at a blueprint and it has some curve to it, goddamit
+creations-chat 2021-10-08 18:14:58 mate its ugly af, just accept it
+creations-chat 2021-10-08 18:17:14 https://tenor.com/view/wheeze-laugh-gif-14359545 somebody archive this lmfao
+creations-chat 2021-10-08 18:20:52 how high are you
+creations-chat 2021-10-08 18:34:53 nice collection
+creations-chat 2021-10-10 04:55:39 any build ideas
+creations-chat 2021-11-02 00:11:06 <@!747811503591129170> does your f35 not have tilted stabilizers?
+creations-chat 2021-11-02 06:35:09 ah ok mb, looked straight in the pic
+creations-chat 2021-11-04 07:43:59 <@!812407395614457887> lmfao tutorial opressor
+creations-chat 2021-11-04 07:46:02 https://discord.com/channels/384021699466756103/384025409945337856/905702723314405427
+^ message link for the future
+
+tutorial link for proof of cringe lmao
+https://www.youtube.com/watch?v=-QROMDZ3OdM&ab_channel=JASEMAirservices
+creations-chat 2021-11-04 07:48:16 like the propellors a ton tho, they super nice
+the-dump 2021-11-08 05:27:25 
+the-dump 2021-11-08 05:40:45 ?modslog
+the-dump 2021-11-08 05:40:50 oh rip nvm
+the-dump 2021-11-11 06:43:41 
+the-dump 2021-11-11 06:44:05 ok
+the-dump 2021-11-13 05:27:03 
+the-dump 2021-11-13 05:27:25 non
+the-dump 2021-11-13 05:35:25 lemme see if i have some better memes
+the-dump 2021-11-13 05:35:53 
+the-dump 2021-11-15 03:26:33 
+creations-chat 2021-11-23 18:55:02 kyle is the 17 year old who shot 2 blm protesters with a rifle, which he claims was self defense. one was unarmed (i believe), and the other started to draw a pistol after he saw the other get shot. it's a whole political thing so imma just let you do your research
+creations-chat 2021-11-23 19:15:25 dm me link
+creations-chat 2021-11-23 19:18:33 <@!401530469952389130> dm me the link for the video
+creations-chat 2021-11-26 08:21:59 <@456226577798135808> what's the joke about ukraini? ah ok lol
+bot-central 2021-11-27 06:02:45 -servers
+creations-chat 2021-12-05 02:40:38 ╻◯ emojis for radar at this post: https://discord.com/channels/384021699466756103/384025409945337856/916880754208804934
+creations-chat 2021-12-05 02:43:16 aight, added. just saying, i came up with this design at like 2 in the morning last night, which is why it's so braindead and simple lmfao
+creations-chat 2021-12-05 02:45:27 added some more stuff for accuracy tho, gonna repost in creations
+creations-chat 2021-12-05 02:47:54 <@!761313821235085324> check creations again, btw sizes for circle are 100, 66.66, 33.33, and the line is 70
+creations-chat 2021-12-05 02:58:11 context?
+bot-central 2021-12-05 20:01:44 !rank
+bot-central 2021-12-05 20:01:59 i thought i'd be below 10
+bot-central 2021-12-05 20:02:00 lol
+bot-central 2021-12-05 20:03:37 christ alive
+bot-central 2021-12-08 02:05:26 -av <@!703747125359411230>
+bot-central 2021-12-08 02:05:31 lmao
+bot-central 2021-12-08 02:06:03 -av <@!720891502108344360>
+bot-central 2021-12-19 18:02:51 -minecraft
+bot-central 2021-12-20 07:48:50 ;;play mr blue sky
+bot-central 2021-12-20 07:50:05 ;;queue
+bot-central 2021-12-20 07:50:38 no worries, i was enjoying it lol
+bot-central 2021-12-20 07:51:25 god i can vibe for so long to this song
+bot-central 2021-12-20 07:52:20 ;;play offender shuffle
+bot-central 2021-12-20 07:52:27 <:KEKW:670310537300672528>
+bot-central 2021-12-20 07:54:00 ;;play wide putin walking but he's always in frame
+bot-central 2021-12-20 07:55:39 ;;s
+bot-central 2021-12-20 07:55:49 ;;loop
+bot-central 2021-12-20 07:55:55 ;;loop off
+bot-central 2021-12-20 17:32:02 ?av <@!624096627614810112>
+bot-central 2021-12-20 17:32:06 i love this
+bot-central 2021-12-20 17:32:55 da
+bot-central 2021-12-20 17:33:34 pov: i can't draw hands
+bot-central 2021-12-20 17:33:36 ?av
+bot-central 2021-12-20 17:33:39 oh wait nvm
+bot-central 2021-12-20 17:33:45 i cut the pic lol
+bot-central 2021-12-20 17:34:24 ?av <@!734923195810971718>
+bot-central 2021-12-20 17:34:43 ...
+bot-central 2021-12-21 03:32:44 !rank
+bot-central 2021-12-21 03:32:57 JESUS CHRIST
+bot-central 2021-12-21 03:32:58 MY GOD
+bot-central 2021-12-23 09:09:58 ?av <@!705939175052017734>
+bot-central 2021-12-23 09:10:04 interesting
+bot-central 2021-12-23 09:10:16 so u cropped a photo
+bot-central 2021-12-23 09:10:26 time to reverse image search
+bot-central 2021-12-23 22:20:55 ;;HELP
+bot-central 2021-12-23 22:21:05 aight lemme try and get u in me server
+bot-central 2021-12-24 23:49:57 -ms
+the-dump 2021-12-30 01:55:47 
+the-dump 2021-12-30 01:56:00 
+the-dump 2021-12-30 01:56:04 get vaccinated mate
+the-dump 2021-12-30 01:57:08 it just protects you from a virus, its not a cure lmao
+the-dump 2021-12-30 01:57:38 a vaccine is like contraception: it stops the problem before it happens
+the-dump 2021-12-30 22:34:15 HMMM
+the-dump 2021-12-30 22:34:19 Lmao
+the-dump 2021-12-30 22:34:47 <@!822235161424166935>, You cannot post .mov files! Try uploading to https://www.streamable.com and share the link instead.
+the-dump 2021-12-30 22:36:01 https://media.tenor.co/videos/4110f6ed3477f0cf1f9dc666c3cc1392/mp4
+the-dump 2021-12-30 22:36:18 https://tenor.com/view/noooo-gif-23973681
+the-dump 2022-01-04 06:40:26 ngl
+the-dump 2022-01-04 06:40:30 https://cdn.discordapp.com/attachments/874447411144171610/927813181370433596/die_child.mp4
+the-dump 2022-01-04 06:40:30 kinda deserved it
+the-dump 2022-01-04 06:40:31 lmao
+the-dump 2022-01-04 06:41:28 hmmm you're gonna get sniped by them lmao
+the-dump 2022-01-04 06:41:36 **they hide in invisible**
+the-dump 2022-01-06 23:45:10 https://cdn.discordapp.com/attachments/874447411144171610/928795162640003082/a-1-1.mp4
+the-dump 2022-01-09 01:51:37 https://tenor.com/view/123-gif-22409778
+the-dump 2022-01-09 02:44:52 
+bot-central 2022-01-09 02:46:41 -ms
+bot-central 2022-01-09 02:47:50 lmao dumbass
+bot-central 2022-01-09 02:48:41 **risk**
+bot-central 2022-01-09 02:49:22 pog
+bot-central 2022-01-09 02:49:35 -ms hard
+bot-central 2022-01-09 02:49:38 bruh
+bot-central 2022-01-09 02:49:41 -ms 10
+bot-central 2022-01-09 02:49:44 b r u h
+bot-central 2022-01-09 02:49:52 i dont want a long one
+bot-central 2022-01-09 02:49:54 just a hard one
+bot-central 2022-01-09 02:50:09 lmao
+bot-central 2022-01-09 02:50:19 -ms difficulty: hard
+bot-central 2022-01-09 02:50:24 -ms difficult
+bot-central 2022-01-09 02:50:28 FAAA
+bot-central 2022-01-09 02:50:40 🗿
+bot-central 2022-01-09 02:50:57 -ms 3
+bot-central 2022-01-09 02:51:03 nah that wont change diff
+bot-central 2022-01-09 02:51:10 -help
+bot-central 2022-01-09 02:51:21 -help ms
+bot-central 2022-01-09 02:51:31 bruh
+bot-central 2022-01-09 02:52:06 -ms 10 10 10
+bot-central 2022-01-09 02:52:10 okay then
+bot-central 2022-01-09 02:53:14 <:Bruh:589676002221883403>
+bot-central 2022-01-09 02:53:18 
+the-dump 2022-01-09 23:07:18 
+the-dump 2022-01-11 01:45:47 
+the-dump 2022-01-11 01:49:34 yeah!
+the-dump 2022-01-11 01:49:38 :D
+the-dump 2022-01-11 01:50:45 
+the-dump 2022-01-11 01:53:02 https://cdn.discordapp.com/attachments/874447411144171610/930275783245692979/Coconut_Mall_but_it_slaps.mp4
+the-dump 2022-01-11 01:53:07 <:LETSFUUUUUGOOOO:803243654701252618>
+the-dump 2022-01-11 01:56:35 https://media.discordapp.net/attachments/874447411144171610/930278751294586920/344E8A83-8F51-4303-BE16-689CD6D58DFC.gif
+the-dump 2022-01-11 01:56:37 
+the-dump 2022-01-11 01:56:39 <:Troll:888818793239945216>
+the-dump 2022-01-11 01:59:02 https://cdn.discordapp.com/attachments/874447411144171610/930278313774166056/whoscandice42069_2.0_20220107_1.mp4
+the-dump 2022-01-11 02:00:57 da
+the-dump 2022-01-11 02:01:32 https://media.discordapp.net/attachments/874447411144171610/926655399871004683/CD31B856-E5E1-413D-A9E9-86DA90747F18.gif
+the-dump 2022-01-11 02:01:35 there's this one lmao
+the-dump 2022-01-11 02:02:47 lol
+the-dump 2022-01-11 02:03:17 https://media.discordapp.net/attachments/874447411144171610/930280594523455488/RDT_20211228_2031363121705826810288686.gif
+the-dump 2022-01-11 02:04:27 
+the-dump 2022-01-11 02:04:31 pog
+the-dump 2022-01-11 02:05:18 https://cdn.discordapp.com/attachments/874447411144171610/930281094102794270/0iOOWhGZrUtF4Vd0.mp4
+the-dump 2022-01-11 02:05:30 https://tenor.com/view/troll-pilled-gif-19289988
+the-dump 2022-01-11 02:14:35 
+the-dump 2022-01-11 02:15:19 
+the-dump 2022-01-19 01:21:44 refer to what i just wrote
+the-dump 2022-01-19 02:10:55 hmm idk if i can post this
+the-dump 2022-01-19 02:10:57 welp let's see
+the-dump 2022-01-19 02:10:58 
+the-dump 2022-01-19 02:11:01 frick wrong thing
+the-dump 2022-01-19 02:11:07 
+the-dump 2022-01-19 02:11:22 it's a funny joke, but idk if mods will like <:SadChamp:828697715213860864>
+the-dump 2022-01-19 02:11:43 yeah, rip
+the-dump 2022-01-19 02:11:48 ah well
+the-dump 2022-01-19 02:11:53 even if i delete they can still see
+the-dump 2022-01-19 02:12:00 so i'll stand by it on the basis of innocent comedy
+the-dump 2022-01-23 06:20:56 roblox moment
+the-dump 2022-01-23 06:20:57 
+the-dump 2022-01-23 06:20:57 🗿
+the-dump 2022-01-23 06:21:22 @RealRobloxium, You cannot post .mov files! Try uploading to https://www.streamable.com/ and share the link instead.
+the-dump 2022-01-23 06:22:03 
+the-dump 2022-01-23 06:22:24 
+the-dump 2022-01-23 06:22:53 <@456226577798135808>  i'm not going to imagine playing that on the bus
+the-dump 2022-01-23 06:23:02 <:cringe:559495868554674199>
+the-dump 2022-01-23 06:23:15 
+the-dump 2022-01-23 06:23:28 im dumping my dumbest videos here
+the-dump 2022-01-23 06:24:37 
+the-dump 2022-01-23 06:24:52 
+the-dump 2022-01-23 06:25:03 <:nooo:787097964946259978>
+the-dump 2022-01-23 06:25:17 he will drag you down to his level and beat you with experience
+the-dump 2022-01-23 06:25:20 the phantom forces quote
+the-dump 2022-01-23 06:26:40 
+the-dump 2022-01-23 06:27:01 depends who you ask
+the-dump 2022-01-23 06:27:38 
+the-dump 2022-01-23 06:27:38 fitting to put in a plane server
+the-dump 2022-01-23 06:27:42 mama mia
+the-dump 2022-01-23 06:27:54 
+the-dump 2022-01-23 06:28:28 
+the-dump 2022-01-23 06:28:43 **E c h o**
+the-dump 2022-01-23 06:28:59 
+the-dump 2022-01-23 06:29:05 speaking of cursed things on the internet
+the-dump 2022-01-23 06:29:46 
+the-dump 2022-01-23 06:29:49 if u post that pic again ur gae
+the-dump 2022-01-23 06:30:17 
+the-dump 2022-01-23 06:30:27 ur confirmed gae
+the-dump 2022-01-23 06:30:37 wait a second
+the-dump 2022-01-23 06:30:41 i can call mods for spam <:Troll:888818793239945216>
+the-dump 2022-01-23 06:30:53 <:nooo:787097964946259978>
+the-dump 2022-01-23 06:31:05 
+the-dump 2022-01-23 06:31:09 no lmao
+the-dump 2022-01-23 06:31:15 i'm not tekashi69
+the-dump 2022-01-23 06:31:29 aaAAAA
+the-dump 2022-01-23 06:31:36 no
+the-dump 2022-01-23 06:31:43 lmao
+the-dump 2022-01-23 06:31:55 go fuck yourself dyno
+the-dump 2022-01-23 06:32:07 i was committing comedy
+the-dump 2022-01-23 06:32:30 there is no meme
+the-dump 2022-01-23 06:32:32 just music
+the-dump 2022-01-23 06:32:36 scheisse
+the-dump 2022-01-23 06:32:48 
+the-dump 2022-01-23 06:34:01 
+the-dump 2022-01-23 06:35:03 https://media.discordapp.net/attachments/932736790413049916/932868755103580200/C6A94204-D1BD-465A-9C06-3C133502EBD7.gif
+the-dump 2022-01-23 06:35:12 https://tenor.com/view/funny-epic-penguin-explosion-kaboom-gif-16130410
+the-dump 2022-01-23 06:35:26 https://tenor.com/view/imma-see-you-tomorrow-bye-slip-gif-15146678
+the-dump 2022-01-23 06:35:39 
+the-dump 2022-01-23 06:35:46 i'm joining the bandwagon
+the-dump 2022-01-23 06:35:55 https://tenor.com/view/4k-caught-caught-in4k-caught-in8k-8k-gif-20014426
+the-dump 2022-01-23 06:36:56 https://cdn.discordapp.com/attachments/849750633967910942/934696888098234368/ee0888c7d39ff6340d85403bccafe7ea5c5a60a70e2d5402f37b9cb7d2ed1517_1.mp4
+the-dump 2022-01-23 06:39:26 https://cdn.discordapp.com/attachments/849750633967910942/934652265820725259/soup.mp4
+the-dump 2022-01-23 06:41:01 https://youtube.com/shorts/KOKmEpIPKfY?feature=share
+the-dump 2022-01-23 06:41:27 https://tenor.com/view/normie-not-funny-find-locate-gif-18894863
+the-dump 2022-01-23 06:44:03 https://tenor.com/view/jarvis-gif-18966381
+the-dump 2022-01-23 06:44:36 https://tenor.com/view/power-legendary-reverse-card-econowise-reverse-card-legendary-uno-reverse-card-uno-legendary-reverse-card-gif-23531292
+the-dump 2022-01-23 06:44:46 shut the fuck up furry
+the-dump 2022-01-23 06:45:00 https://tenor.com/view/i-asked-goku-mui-goku-mui-meme-gif-22463661
+the-dump 2022-01-23 07:15:41 <@!593888896719519744> ghost ping very nice
+the-dump 2022-01-23 07:16:10 Lmao
+the-dump 2022-01-23 07:16:13 I just did
+the-dump 2022-01-23 07:16:18 I literally just did LOL
+the-dump 2022-01-23 07:16:45 No I legit just got out of my h2o based shower
+the-dump 2022-01-23 07:17:02 <:KEKW:670310537300672528>
+the-dump 2022-01-23 07:17:36 Clem Clem
+the-dump 2022-01-23 07:18:18 
+the-dump 2022-01-23 07:18:47 No idea what song that is but it’s a vibe
+the-dump 2022-01-23 07:19:20 Oh pog
+the-dump 2022-01-23 07:19:31 Oh nvm
+the-dump 2022-01-23 07:19:35 <:cringe:559495868554674199>
+the-dump 2022-01-23 07:19:44 Music is a bop tho
+the-dump 2022-01-23 07:19:50 And u cannot change that
+creations-chat 2022-02-06 03:13:54 https://discord.com/channels/384021699466756103/384025409945337856/939660833435316234
+<@!750957053203185684> corsair makes pc parts..?
+creations-chat 2022-02-06 03:17:20 o wait nvm lol i'm stupid
+creations-chat 2022-03-17 08:32:28 any way i can make this better? (more compact, etc) the extra motor lock tower bits will be used for stuff in the build
+bot-central 2022-03-17 20:40:56 -servers
+bot-central 2022-03-17 20:52:42 ;;p hk ost
+bot-central 2022-03-18 01:20:48 ;;p hk ost
+bot-central 2022-03-18 01:39:00 ;;resume
+bot-central 2022-03-18 03:10:34 -servers
+bot-central 2022-03-18 03:14:53 ;;p hk ost
+bot-central 2022-03-18 03:15:06 this ost is the only thing keeping me sane in plane crazy
+bot-central 2022-03-18 03:25:42 bitch
+bot-central 2022-03-18 03:25:43 how dare ye
+bot-central 2022-03-18 03:58:22 ;;p oh the misery
+bot-central 2022-03-18 03:58:31 ;;s
+bot-central 2022-03-18 03:58:34 ;;p oh the misery
+bot-central 2022-03-18 03:59:00 ;;s
+bot-central 2022-03-18 03:59:35 ;;p enemy
+bot-central 2022-03-18 03:59:53 ;;seek 0:30
+bot-central 2022-03-18 04:00:13 ;;s
+bot-central 2022-03-18 04:00:17 ;;p enemy imagine dragons
+bot-central 2022-03-18 04:00:34 ;;seek 0:30
+bot-central 2022-03-18 04:00:40 breh
+bot-central 2022-03-18 04:00:47 ;;p enemy imagine dragons jid
+bot-central 2022-03-18 04:00:53 finally
+bot-central 2022-03-18 04:01:03 ;;seek 0:30
+bot-central 2022-03-18 04:02:02 ;;resume
+bot-central 2022-03-18 04:02:23 eyyyy finally
+bot-central 2022-03-18 04:14:19 ;;p hk ost
+the-dump 2022-03-18 08:14:49 https://cdn.discordapp.com/attachments/935989994735169546/953337920184524810/lu_fishe_au_chocola.mp4
+creations-chat 2022-03-18 08:17:47 bro why his hood so damn long 💀
+creations-chat 2022-03-18 17:37:48 significantly better
+creations-chat 2022-03-18 19:57:24 good wings for mig 29?
+creations-chat 2022-03-18 22:18:03 ngl ben shapiro is the kind of guy to say winter is proof global warming doesn't exist 💀
+
+bruh did i just get ghost pinged
+creations-chat 2022-03-18 22:20:06 <@!645396100265541664> i saw that you ghost pinging ass bitch
+contest-chat 2022-03-19 00:33:18 lmao that's something i did when i first started playing plane crazy
+contest-chat 2022-03-19 00:33:32 :feelsbadman
+creations-chat 2022-03-19 22:20:46 <@!498937968015441941> how did you make that booster? it'd make a perfect afterburner like goddayum
+creations-chat 2022-03-19 22:29:41 https://tenor.com/view/daeth-funi-periflight-dies-from-gif-22212023
+the-dump 2022-03-23 01:24:38 https://cdn.discordapp.com/attachments/954948442545856535/955830724206932098/THE_WARRIOR.mp4
+creations-chat 2022-03-24 01:48:35 <@!705242476184862781> LMAO WTF IS THAT IT'S SO DAMN UGLY LMAOOOO
+
+yeah ikr that's how bad it is lmfao
+creations-chat 2022-03-24 01:50:50 <:FineTroll:626841259746656289>
+creations-chat 2022-03-24 01:53:46 wait did unde get banned?
+bot-central 2022-03-24 01:54:08 -servers
+bot-central 2022-03-24 01:55:15 -serveers
+bot-central 2022-03-24 01:55:17 -servers
+bot-central 2022-03-24 01:57:37 -servers
+bot-central 2022-04-22 06:30:17 ;;p mgr ost
+bot-central 2022-04-22 06:30:21 ;;loop all
+the-dump 2022-04-22 06:40:44 
+the-dump 2022-04-22 06:40:55 need to paste screenie to drag and drop it
+the-dump 2022-04-22 06:40:58 ignore me
+the-dump 2022-04-22 06:45:55 
+the-dump 2022-04-22 06:46:04 hm i should probably put these somewhere more uh
+the-dump 2022-04-22 06:46:05 stable
+bot-central 2022-04-27 00:52:53 -server
+bot-central 2022-04-27 00:52:59 -servers
+creations-chat 2022-04-27 03:51:25 please help me how do i stop my chair from sticking out it's slightly wider than one block i want to die AAAAA
+creations-chat 2022-04-27 04:04:30 it goes into the window white name moment 💀
+creations-chat 2022-04-27 04:07:24 ??? again, white name moment. Not only would that give the interior no reason to exist, it would still stick out
+creations-chat 2022-04-27 04:09:26 i literally have a radar and stick inside of it 💀 you're obviously new to this, you very much can have an interior in a 1-block wide build
+creations-chat 2022-04-27 04:11:47 bro that landing gear <:KEKW:670310537300672528> also no angled intakes, the landing gear on the sides wouldn't go in anywhere, it would simply rest under the wings. your vertical stabilizers have a noticeable gap between them and the fuselage, and that's not a 1-block wide build if you were tryna say that, it's a 2-block wide build (for the cockpit i mean) OH also no canopy details
+creations-chat 2022-04-27 04:14:06 eh, i'm prob just gonna hide it in the camo and with decals lmao
+bot-central 2022-05-01 17:47:07 -servers
+bot-central 2022-05-01 18:57:16 ;;p taking a shit trap remix
+the-dump 2022-05-07 07:50:55 https://cdn.discordapp.com/attachments/964746060478181396/972341934641266748/hostage.mp4
+bot-central 2022-05-08 19:23:43 -servers
+the-dump 2022-05-14 22:18:57 
+the-dump 2022-05-14 22:19:08 
+the-dump 2022-05-14 22:19:12 
+the-dump 2022-05-14 22:19:15 
+creations-chat 2022-05-15 00:07:53 thoughts? i'm debating submitting it or if i should keep working on it
+creations-chat 2022-05-15 00:09:48 completely flush landing gear too
+creations-chat 2022-05-15 00:11:40 why is that?
+creations-chat 2022-05-15 00:13:27 i mean, what's wrong? camo? proportions? it has a radar, flush ailerons, custom gear, interior
+creations-chat 2022-05-15 00:18:02 lmfao what
+creations-chat 2022-05-15 00:27:50 cheese grater? gear is custom and completely flush, intakes are angled, engines okay, and colors are an actual livery but i def might change that
+creations-chat 2022-05-15 00:30:10 oh bruh lmao, it actually has flush ailerons (they turned here, you can see in other photos that there's no gap)
+creations-chat 2022-05-15 00:32:50 alr, what's wrong with gear, intakes, and engines bruh <@793132196810588200> plane crazy literally doesn't have a 1x2 half triangle wedge, if it did, i would use it
+creations-chat 2022-05-15 00:36:55 it's meant to represent a black hole if it's throwing off hawking radiation
+the-dump 2022-05-17 18:49:43 
+bot-central 2022-05-19 06:38:03 -servers
+the-dump 2022-05-20 04:47:13 emperador
+the-dump 2022-05-20 04:47:22 
+the-dump 2022-05-20 05:04:19 lmao true
+creations-chat 2022-05-20 05:11:49 oooh this sounds very nice
+creations-chat 2022-05-20 05:37:14 <@730806152878751794> ever try turning down your gfx? that wasn't minimum graphics you could still see another build in the back
+the-dump 2022-06-02 06:27:28 https://www.youtube.com/watch?v=7S0W1r9ll1w
+the-dump 2022-06-02 06:27:30 noot noot
+the-dump 2022-06-06 18:19:18 game?
+the-dump 2022-06-14 01:11:57 Lmao you about to get banned dumbass
+the-dump 2022-06-14 01:12:05 Or at least warned
+the-dump 2022-06-14 01:12:15 For this lol
+the-dump 2022-06-14 01:13:31 And they don’t stop coming
+the-dump 2022-06-14 01:14:22 Fed to the rules and I hit the ground running
+the-dump 2022-06-14 01:14:34 Sure why not
+the-dump 2022-06-14 01:14:51 Here in this server?
+the-dump 2022-06-14 01:15:01 💀
+events-chat 2022-06-14 20:22:05 fard
+events-chat 2022-06-14 20:22:23 https://tenor.com/view/rap-battle-farted-fart-farded-ab-honor-roll-gif-21968721
+the-dump 2022-06-22 19:58:52 https://tenor.com/view/discord-discord-drama-drama-argument-political-gif-24419538
+bot-central 2022-06-24 21:03:43 -servers
+the-dump 2022-06-26 08:24:18 https://cdn.discordapp.com/attachments/982498431530577971/990532879081668618/shoot_out.mov
+the-dump 2022-06-26 10:38:43 https://cdn.discordapp.com/attachments/495286269459300364/989792873123840031/jesuschrist.mp4
+https://cdn.discordapp.com/attachments/495286269459300364/989792301603749908/the_best_kind_of_price_is_surprises.mp4
+https://media.discordapp.net/attachments/888945058869551104/989532013490999346/video0-293.mov
+https://cdn.discordapp.com/attachments/495286269459300364/989746234786975784/bonk.mp4
+https://cdn.discordapp.com/attachments/495286269459300364/989723409841811456/Le_Fish_au_Chocolat_FULL_VERSION.mp4
+https://cdn.discordapp.com/attachments/811610976088227840/985132022802579476/society.mov
+https://cdn.discordapp.com/attachments/982146786921701419/989428676900823060/when_the_wind_is_slow....mov
+https://media.discordapp.net/attachments/982637748143939665/988352202429046784/trim.503C1ED9-620B-4D1F-9E46-B7C44E576EAD.mov
+saving my favorites without download cuz lazy
+the-dump 2022-06-27 07:15:14 https://tenor.com/view/abell46s-reface-huevos-egg-abell46sss-gif-19071426
+the-dump 2022-06-28 07:24:21 <@693249246157340713> <@696017408963510322>
+the-dump 2022-06-28 07:24:36 https://tenor.com/view/lightning-gif-22358202
+the-dump 2022-06-28 07:25:31 https://tenor.com/view/ltg-low-tier-god-meme-gif-23851809
+bot-central 2022-07-08 21:11:20 -servers
+bot-central 2022-07-08 21:11:41 -servers
+the-dump 2022-07-11 07:46:38 this mf bot
+bot-central 2022-07-12 07:25:38 -servers
+creations-chat 2022-07-12 23:47:47 okay yeah that lmao, it was unfortunately the only way i could possibly make it work. i hoped it didnt come through in the photos but i guess it did <:empty:794431705070174238>
+the-dump 2022-07-13 03:50:47 jesus fucking christ what is this
+creations-chat 2022-07-20 06:43:11 
+creations-chat 2022-07-26 05:33:04 <@334903399709671445> have you considered using cameras or a combo of text and cameras for this part instead of trails? def not worth a downvote, but just curious
+creations-chat 2022-07-26 05:35:49 oh you did? i'm talking about this part
+creations-chat 2022-07-26 05:37:52 (also that plane is shit <@652626249272918026> lmfaooooo no wonder u only got designer 2)
+creations-chat 2022-07-26 05:42:41 what plane should i build? (4-4.5 gen)
+
+<@887490533990223902> actually hell yeah i'll do that, never made a heli before lmao
+creations-chat 2022-07-26 05:46:14 i'll watch a few vids then make a tutorial, give myself a good feel for helis, then make my own. i'll ping u if i need help tho 👍
+creations-chat 2022-07-26 05:52:24 Very cool
+creations-chat 2022-07-30 01:13:05 holy shit shitpost purge
+creations-chat 2022-08-03 16:55:48 lgbt+shredder
+
+you built pride flag 🤢
+yes but you support the 3% of the population who makes up half of all pedophiles
+creations-chat 2022-08-03 16:58:27 i can dm u good meme server invite if that's the only reason lmao
+creations-chat 2022-08-03 17:03:06 mf couldn't even get the lines straight 💀
+creations-chat 2022-08-03 17:06:11 https://cdn.discordapp.com/attachments/919680757813882910/1004432560220278784/equality.mov
+creations-chat 2022-08-03 17:10:09 lmao what
+creations-chat 2022-08-03 17:13:06 I’d treat them like normal people if they acted like normal people and not like this
+creations-chat 2022-08-03 17:15:12 exactly
+creations-chat 2022-08-03 17:17:52 <@722317663044501544>, You cannot post .mov files! Try uploading to https://www.streamable.com/ and share the link instead.
+creations-chat 2022-08-04 06:52:10 Because we don’t support a community of pedophiles
+creations-chat 2022-10-19 18:24:45 I made an open source design in a previous post in <#384025409945337856> ,lemme get a link for u
+creations-chat 2022-10-19 18:28:03 https://discord.com/channels/384021699466756103/504436696021204992/916881725089546281
+
+https://discord.com/channels/384021699466756103/384025409945337856/916883367667052594
+creations-chat 2022-10-19 18:51:59 <@839185219252781116> you have a Z and a russian flag on your tank, then you also have no war written on the barrel 💀
+creations-chat 2022-10-20 05:37:19 holy shit inventor role now
+bot-central 2022-11-07 23:24:09 -servers
+bot-central 2022-11-24 20:17:59 -server
+bot-central 2022-11-24 20:18:02 -servers
+creations-chat 2022-12-04 09:59:14 <@706117664191414385> either you make proper cockpit or do two, this is goofy
+creations-chat 2022-12-04 21:27:30 i am aware, yet your cockpit looks single seat of double seat version, it looks absolutely rarted
+creations-chat 2022-12-04 22:02:01 🇨🇳
+creations-chat 2023-03-29 03:31:39 can't open because engine is the same as the porsche tiger <:OmegaTroll:626841385118597152>
+creations-chat 2023-03-29 04:03:56 damn i didn't even think of that one sec
+creations-chat 2023-03-29 04:12:25 <@682147422218223616> lmao
+creations-chat 2023-03-29 04:15:33 ?
+creations-chat 2023-03-29 04:20:33 oh i see lol
+creations-chat 2023-03-29 15:18:24 yoo bro made a su-57 <:OmegaTroll:626841385118597152>

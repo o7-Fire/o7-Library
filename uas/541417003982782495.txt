@@ -1,0 +1,10 @@
+The Tale of oliver_squared (541417003982782495)
+help 2020-08-12 21:13:13 Does anyone know how you enable locked motors?
+help 2020-08-12 21:13:35 No both on
+help 2020-08-12 21:13:47 It was in Voxel Box's video, How To Make a Rocket That Lands Itself
+help 2020-08-12 21:14:13 They had all motors set to powered and locked, and did something while testing that made them able to move
+help 2020-08-12 21:14:28 I'm wondering what they did to make them able to move
+help 2020-08-12 21:14:43 Yeah
+help 2020-08-12 21:15:04 Oh
+help 2020-08-12 21:15:10 Thanks!
+help 2020-08-12 21:15:30 Okay

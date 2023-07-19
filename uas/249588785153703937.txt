@@ -1,11 +1,33 @@
-ozmitoskol
-plane-crazy 2020-07-10 11:21:00 A big boat
-plane-crazy 2020-06-26 19:56:54 Lol
-plane-crazy 2020-06-26 19:56:32 Jk, all build are good
-plane-crazy 2020-06-26 19:56:16 Like trash builds on a server
-plane-crazy 2020-06-26 19:55:54 Let’s put a tank in a sub
-plane-crazy 2020-06-26 19:55:43 Ok
-plane-crazy 2020-06-26 19:55:20 What should I put in my submarine? (turrets, bombs, roombas, mines and missiles already done)
-plane-crazy 2020-06-26 19:54:34 Already done
-plane-crazy 2020-06-26 19:54:14 What should I put in my submarine (turrets, bombs, roombas and mines already done)
-plane-crazy 2020-05-13 18:28:34 Is anyone on a naval server right now?
+The Tale of ozmitoskol (249588785153703937)
+bug-reports 2020-05-11 22:30:34 I made a submarine the length of the build zone and armed it with 8 guided missiles. For some reason, when I launched missiles out of the submarine (fully submerged or partially submerged), they moved slower and turned slower. If I spawned the submarine out of water like at the airport or base and fired the missiles, they worked close to normally (almost as fast, maneuverable and controllable as the guided missiles’ are supposed to be). I think this is either something to do with the weight of the submarine affecting the missiles’ speed and maneuverability (less likely) or the air/water resistance affecting the submarine is transferring over to the missiles’ (more likely).
+
+I think this would be classed as a bug but I’m really not sure...
+
+(This may help: I tried doubling the amount of thrusters and swapping out the thrusters for more powerful ones on my missile and launched them from the water with my submarine but there was barely a noticeable difference in speed or maneuverability.)
+bug-reports 2020-05-11 22:36:45 <@456226577798135808>  Is that an insult or congrats? If it’s like an American term or something then I don’t get it...
+bug-reports 2020-05-11 22:36:56 Ye
+bug-reports 2020-05-11 22:37:21 The missile in out of the water but the sub is in the water
+bug-reports 2020-05-11 22:37:41 And I’m piloting the missile
+bug-reports 2020-05-11 22:38:46 Water physics should just be affecting the sub and not the missile when is is in the air out of the water.
+bug-reports 2020-05-11 22:42:05 > fly a plane into the water
+<@!609198621526589450>  When the plane come out of the water it should fly without water physics affecting it. But when my missile comes out of the water, the water physics seem to still affect the missile because my submarine is still underwater. It seems like the water physics affecting the sub is affecting my missile even when the missile is out of the water
+bug-reports 2020-05-11 22:43:17 Ok
+bug-reports 2020-05-11 22:43:58 <@!609198621526589450> I tried with the seat underwater and out of the water, same results
+bug-reports 2020-05-11 22:44:41 As long as the sub is affected by water, the missile is also affected even if not in the water
+bug-reports 2020-05-11 22:45:05 The missile does detach from the sub if that’s important
+bug-reports 2020-05-11 22:49:27 Should I send a vid? (Using my original design)
+bug-reports 2020-05-11 22:50:37 Can’t do it now tho, almost midnight and currently no access to the computer, I’ll have to send it in around 7-8 hours time, soz
+bug-reports 2020-05-11 22:51:27 Ok
+bug-reports 2020-05-11 22:52:33 Ok
+bot-central 2020-07-10 17:12:32 &suggest
+bot-central 2020-07-10 17:12:53 !verify
+bot-central 2020-07-10 17:13:05 !getrole
+bot-central 2020-07-10 17:18:53 ?shelp
+bot-central 2020-07-10 17:24:42 ?rhelp
+bot-central 2020-07-12 09:55:43 ?rhel
+bot-central 2020-07-12 09:55:49 ?rhelp
+bot-central 2020-07-12 13:49:25 ?shelp
+bot-central 2020-07-15 14:42:18 ?shelp
+bot-central 2021-01-04 18:42:17 !servers
+help 2021-04-10 15:59:08 We got annoying lag machine pls halp
+bot-central 2021-04-10 16:01:45 !servers

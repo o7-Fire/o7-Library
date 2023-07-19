@@ -1,0 +1,6 @@
+The Tale of amitobi. (518161128229175317)
+creations-chat 2022-12-04 18:52:53 Anyone got any tips on to how to make a good vtol build? I'm trying to figure out why my rotors aren't functioning properly. For example, the test build I had which used 2 rotors at first was kinda stable but the motors that spin the rotors in a circle weren't working and actually tipped most of the time. I thought changing the torque would fix it but it didn't. Also when I used 4 rotors instead it didn't do the same, but was much more unstable.
+creations-chat 2022-12-09 02:00:18 Anyone have any tips as to how I can make my little aircraft hover? I just need it to be able to hover, and to be able to move when the propellers are faced forward and stuff. But I'm struggling on how to make it evenly weighted so it doesn't tip back and fourth. It's still incomplete so I tried using ballast and helium blocks but it's not quite there.
+bot-central 2022-12-09 02:00:43 -verify
+bot-central 2022-12-09 02:00:51 -verify Xzirye
+bot-central 2022-12-09 02:03:41 -verify Xzirye

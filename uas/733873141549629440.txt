@@ -1,0 +1,50 @@
+The Tale of weeblet69 (733873141549629440)
+the-dump 2021-11-09 18:56:17 f e e s h
+bot-central 2022-06-24 07:36:23 ?shelp
+creations-chat 2022-07-13 22:08:58 Hey guys, I have a question. I’m making a battleship and wondering what year I should make it look like it’s from.
+
+It’s a WW1 era hull but I’m wondering if I should make it in a WW2 refit thing (look up USS Pennsylvania 1944 for ref) or as built sometime around 1918.
+creations-chat 2022-07-13 22:12:29 Superstructure smol imo
+creations-chat 2022-07-13 22:14:35 Yes, but that’s a sussy flag which is risky. It’s better he doesn’t unless he wants to risk it all.
+creations-chat 2022-07-13 22:17:32 Lmao
+creations-chat 2022-07-13 22:40:22 Nobody wants to give an opinion?
+creations-chat 2022-07-13 22:43:59 That doesn’t answer the question lol
+creations-chat 2022-07-13 22:48:44 Just mention a year bruh (that I listed)
+creations-chat 2022-07-13 22:50:46 Ok I ask for a proper response and all I get is absolute trash, seems nice.
+creations-chat 2022-07-13 22:53:16 1918: 1
+1944: 0
+creations-chat 2022-11-20 19:38:53 should i make a Yamato class next?
+creations-chat 2022-11-20 19:41:47 alright! any sort of config you have in mind? (ie stuff like with wing turrets, the AA forest, maybe the theoretical replacing the 5" with 100mm)
+creations-chat 2022-11-20 19:43:54 oki doki
+creations-chat 2022-11-20 19:45:58 much bote 👍
+creations-chat 2022-11-20 19:49:32 may i give a suggestion?
+
+google Akitsu Maru, she is kinda like that mixed with a CVE
+creations-chat 2022-11-20 19:52:14 do you like my idea :3
+creations-chat 2022-11-20 19:57:15 perhaps something like her? she has a well deck and what not but also a deck for spotter planes and/or helos
+creations-chat 2022-11-20 20:00:24 so a CVE?
+creations-chat 2022-11-20 20:03:40 but does the missile know where it is?
+creations-chat 2023-01-07 00:38:38 any opinions of the Andromeda class I'm making so far???? (massive WIP)
+help 2023-04-07 16:07:18 so uh... i tried to use the camera to lock and it did this
+help 2023-04-07 16:07:51 would you be so kind as to explain how then?
+help 2023-04-07 16:08:10 thank you :3
+help 2023-04-07 16:09:02 here is a close shot of the camera, do note that the one pointing right is there due to the config point thing.
+help 2023-04-07 16:09:09 and is currently pointing
+help 2023-04-07 16:09:25 for whatever reason it only moves the top chunk thats on a motor lock though
+help 2023-04-07 16:11:02 oh there has to be an elevation change?????????
+help 2023-04-07 16:11:36 oh no wait
+help 2023-04-07 16:11:38 i see...
+help 2023-04-07 16:11:51 but it still onyl drags the top chunk despite not being properly connected to it
+help 2023-04-07 16:12:04 and doesnt move the chunk the cams are actually linked to.
+help 2023-04-07 16:14:43 just nvm ill try something else
+help 2023-04-07 18:13:57 What-
+help 2023-04-07 18:14:02 I don’t quite understand
+help 2023-04-07 18:14:08 It’s only connected to the bottom half
+help 2023-04-07 18:14:12 Yet it only moves the top
+help 2023-04-07 18:24:29 Ye
+help 2023-04-07 18:24:42 That’s basically what I have
+help 2023-04-07 18:25:19 But how do you stick the two hull parts together?
+help 2023-04-07 18:25:46 And still, only half of the chunk I’m trying to move moves
+help 2023-04-07 18:31:27 Ok yes but still there is half a segment not being moved
+help 2023-04-07 18:31:36 As Seen here
+help 2023-04-07 18:36:05 And that’ll fix half of the ship chunk just not rotating?

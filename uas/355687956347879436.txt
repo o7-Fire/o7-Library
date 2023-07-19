@@ -1,0 +1,16 @@
+The Tale of unmotivated.ivan (355687956347879436)
+help 2020-05-28 03:10:11 It ignores other tnt block
+help 2020-05-28 03:10:26 for example if you had explode on impact on,
+help 2020-05-28 03:10:43 it would explode the moment it was fired, for example from a tnt cannon
+help 2020-05-28 03:11:01 so turning ignore self on would make it so that it doesn't explode when it comes into contact with another tnt block
+help 2020-05-28 03:12:08 ty ig
+bot-central 2021-06-08 12:00:46 !update
+bot-central 2021-06-08 12:00:51 !rank
+bot-central 2021-06-08 12:03:09 !rank
+bot-central 2021-06-08 12:06:48 !rank
+bot-central 2021-06-08 12:09:00 !rank
+bot-central 2021-06-08 12:10:22 !rank
+bot-central 2021-06-08 12:12:02 !rank
+bot-central 2021-06-08 12:13:08 !rank
+bot-central 2021-06-08 12:23:23 !rank
+bug-reports 2022-03-08 16:15:59 Camera settings on all my vehicles are gone.

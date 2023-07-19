@@ -1,0 +1,156 @@
+The Tale of snowpix7911 (386687516989980672)
+bot-central 2021-04-03 23:42:33 !rank
+creations-chat 2021-10-04 02:16:25 Its sound is unique to that model of siren, 7/10 port
+creations-chat 2021-10-05 22:07:47 Wow lol
+creations-chat 2021-10-24 23:27:48 Well, this siren isn't rusty and can't walk, so I think you'll be fine.
+creations-chat 2021-10-24 23:41:40 It has 8 horns inside a shroud that attach to the chopper and stator that make the sound
+creations-chat 2021-10-24 23:52:58 This is the siren without the shroud, so you can see all 8 horns. The horns were repainted to a much darker gray after this was taken
+creations-chat 2021-10-24 23:55:28 I made that, and I made it because I'm a siren enthusiast and the game gives me all the tools I need to build one. I get enjoyment from making these huge builds function and take shape. I was one of the first to build giant sirens and a lot of people are doing the same now
+creations-chat 2022-01-15 02:42:17 And?
+bug-reports 2022-01-17 22:42:53 Is anyone else's builds saying that they're saved, and then reverting again when you join another game? I've rebuilt something like 3 times now, and every time I join a new game after saving it reverts to before I saved it every time
+bug-reports 2022-01-17 22:43:22 Can't make any more progress on my build since it just reverts every time
+bug-reports 2022-01-18 22:48:30 So, I can't save anything on my main on Plane Crazy anymore. Any time I try to save any of my builds to another save slot, it says "saved successfully!" but when I leave the game and rejoin, that save will disappear. If I edit a build and save it, it will revert when I rejoin as if I never saved in the first place. However, deleting builds works just fine and it will save if I delete a build. I've only used half of the save data available. So I'm basically unable to play the game anymore since I can't save my builds. When I try saving builds on my alt, it works normally. It's only my main that's having this problem
+bug-reports 2022-01-18 22:49:19 I've tried saving with different save slots, and with different builds, all the same result. It'll just revert when I join another lobby.
+bug-reports 2022-01-18 22:50:32 This was when I saved after finally finishing my build
+bug-reports 2022-01-18 22:50:53 
+bug-reports 2022-01-18 22:50:54 And now.
+bug-reports 2022-01-18 22:51:46 
+bug-reports 2022-01-19 06:19:58 It still doesn't save in private servers, I haven't checked if PVP will fix it
+bug-reports 2022-01-19 06:23:20 And just checked, it doesn't save in PVP servers either
+bug-reports 2022-01-19 06:23:34 The entire save function is broken for me
+bug-reports 2022-01-19 22:36:09 Thing is, I deleted one of my old builds to test this, and the bug still persists even though I have more save data now
+bug-reports 2022-01-19 22:36:30 It saves when I delete a build, but won't save new ones
+bug-reports 2022-01-20 01:53:31 So does anyone know why the saving is completely broken? I can't play the game until I can find a fix. and I'm all out of ideas.
+bug-reports 2022-01-20 02:09:54 Thanks, very helpful statement.
+bug-reports 2022-01-20 03:09:53 xD
+bug-reports 2022-01-20 03:10:22 Really though, being a furry is completely irrelevant to the fact that my game is completely broken and nobody seems to know what's wrong with it
+bug-reports 2022-01-20 03:10:42 And until it's fixed, I can't play the game
+bug-reports 2022-01-20 03:32:21 Well, that sounds like it's gonna be a while lol
+bug-reports 2022-01-21 00:04:17 Update on my save problem, it's definitely an issue with max save data. I was able to save a 1.7k block build just fine, but the 4k block build I want to save won't.
+bug-reports 2022-01-21 00:08:37 I'm testing with a few builds, the max I've been able to save is a 2.3k block build. 2.5k reverted just like everything else.
+bug-reports 2022-01-21 00:15:10 This seems to be the save data limit for me, nothing will save above this limit.
+bug-reports 2022-01-24 01:30:19 New bug, when I unanchor my builds, it has a complete seizure and breaks every fold instantly, and now my build is half stuck in the ground.
+bug-reports 2022-01-24 01:30:30 
+bug-reports 2022-01-29 23:06:20 Still can't play Plane Crazy at all on my main, since saving is still broken...
+bug-reports 2022-01-29 23:08:09 Irrelevant to the problem at hand.
+bug-reports 2022-02-01 00:42:19 I find pistons also have a seizure and break if they move too fast lol
+bug-reports 2022-02-01 00:42:57 The piston part comes detached, and if it goes TOO fast anything it's attached to will go flying at the speed of light into the sky
+creations-chat 2022-02-01 23:21:22 Meanwhile I post sirens just to shake things up a bit lol
+bug-reports 2022-02-12 01:26:42 Still can't save at all on my main, my builds just revert every time I leave the game and join a different server
+bug-reports 2022-02-12 01:27:30 Spam-saving, deleting builds to make more save room, going to different gamemodes, nothing works. The only time I've been able to save ANYTHING on my main was when I switched a speaker ID to a different one.
+bug-reports 2022-02-12 01:27:55 It's like the game just straight up isn't carrying my data from server to server
+bug-reports 2022-02-12 01:28:18 I'm at a loss here, I've tried everything.
+bug-reports 2022-02-12 01:36:31 I don't think speakers are what's causing it, the speakers are just the only thing that will save, likely because it doesn't change the sava data much
+bug-reports 2022-02-12 01:36:47 I think it's some sort of data issue with carrying data from server to server
+bug-reports 2022-02-12 01:37:00 Because I can save and load builds even after changing them if they're on a single server
+bug-reports 2022-02-12 01:37:12 But if I go to another, it reverts as if I never saved at all
+bug-reports 2022-02-12 01:37:25 And this applies to autosave too, which doesn't function
+bug-reports 2022-02-12 01:37:47 I can spend hours on a build, autosave won't do anything, and the save itself will just revert
+bug-reports 2022-02-12 01:38:31 
+bug-reports 2022-02-12 01:39:01 All of my builds are huge
+bug-reports 2022-02-12 01:39:46 My builds are around 5k blocks on average
+bug-reports 2022-02-12 01:39:57 Ok, I'll try that
+bug-reports 2022-02-12 01:41:41 Ok, I've got it saved
+bug-reports 2022-02-12 01:41:44 Now I'll rejoin
+bug-reports 2022-02-12 01:42:24 Okay, that did save? Wtf
+bug-reports 2022-02-12 01:43:26 Ok, let's see
+bug-reports 2022-02-12 01:44:03 This is the save data after saving this build as a test
+bug-reports 2022-02-12 01:44:17 It's my smallest build, copied over
+bug-reports 2022-02-12 01:45:10 
+bug-reports 2022-02-12 01:45:14 And poof, reverted
+bug-reports 2022-02-12 01:46:36 This has been the case for a while now, it's made me completely unable to play this game
+bug-reports 2022-02-12 01:46:49 Nope
+bug-reports 2022-02-12 01:46:49 
+bug-reports 2022-02-12 01:47:01 It's been stuck on this autosave for a while now
+bug-reports 2022-02-12 01:47:17 Which is a slightly older version of a build I was working on
+bug-reports 2022-02-12 01:47:24 Yeah, I've tried before, no dice
+bug-reports 2022-02-12 01:47:29 I'll give it another try, just in case
+bug-reports 2022-02-12 01:48:14 Ok, let's see
+bug-reports 2022-02-12 01:48:54 Well, the save stayed this time
+bug-reports 2022-02-12 01:49:22 Now I'll try one of the bigger builds, and see if it sticks too
+bug-reports 2022-02-12 01:50:41 Nope!
+bug-reports 2022-02-12 01:50:55 Just reverted back to the 1680 autosave
+bug-reports 2022-02-12 01:51:25 4644
+bug-reports 2022-02-12 01:51:37 It's a build I've tried working on 4 times
+bug-reports 2022-02-12 01:51:42 and reverted every time
+bug-reports 2022-02-12 01:51:59 I've even tried saving tiny bits at a time (less than 200 at a time usually) and didn't work
+bug-reports 2022-02-12 01:54:37 I've posted about this before in the chat with some other experiments I've tried with saving
+bug-reports 2022-02-12 01:54:59 .
+bug-reports 2022-02-12 01:55:59 And saving works fine on my alt with equally big builds, this issue's only affecting my main.
+bug-reports 2022-02-12 01:56:47 That's what I was thinking
+bug-reports 2022-02-12 01:56:56 Idk if anyone else has used as much as I do
+bug-reports 2022-02-12 01:57:04 I'm sure there are but idk
+bug-reports 2022-02-12 01:58:15 I have a friend who has also used around 2 mil save data with no problems, I'm asking him if he can get his save data up to my data
+bug-reports 2022-02-12 01:58:45 Let me see
+bug-reports 2022-02-12 01:59:21 This is pre-saving
+bug-reports 2022-02-12 02:00:11 
+bug-reports 2022-02-12 02:00:12 And post saving
+bug-reports 2022-02-12 02:00:23 No errors other than those sound errors that always happen
+bug-reports 2022-02-12 02:01:08 It's just my main
+bug-reports 2022-02-12 02:01:31 My friend is getting his save data to the same as mine, to see if he can replicate it
+bug-reports 2022-02-12 02:02:41 This is my save data when I save the build I want to autosave
+bug-reports 2022-02-12 02:03:54 And I saved a much larger build to autosave to see what it said on the dev console, still no errors. And it of course reverted when I rejoined
+bug-reports 2022-02-12 02:04:47 I completely recoloured a build earlier, with no visible change to the save data, and that reverted too, if that helps
+bug-reports 2022-02-12 02:05:02 Though it was like a 7k block build that I recoloured
+bug-reports 2022-02-12 02:07:02 And moving to other gamemodes like PVP didn't help either, tried that
+bug-reports 2022-02-12 02:08:17 I also did an experiment here a while ago
+bug-reports 2022-02-12 02:10:26 And I notice by searching the word "revert" in the server that I'm not the only one who's been affected by this, a few other people have complained about the exact same issue
+bug-reports 2022-02-12 02:14:31 CT, try saving once your data is close to this
+bug-reports 2022-02-12 02:22:04 Yup
+bug-reports 2022-02-12 02:22:11 Ok
+bug-reports 2022-02-12 02:25:04 
+bug-reports 2022-02-12 02:25:24 And that's pre-revert
+bug-reports 2022-02-12 02:25:48 My friend ctdcgameing is very close, he's at 2 mil
+bug-reports 2022-02-12 02:26:11 I'm having him get his save data to as high as mine, to see if he'll have the same problem
+bug-reports 2022-02-12 02:26:28 Yes?
+bug-reports 2022-02-12 02:26:53 Just messaged him
+bug-reports 2022-02-12 02:31:21 Block, I know your saves are working properly
+bug-reports 2022-02-12 02:31:25 You just want the badge
+bug-reports 2022-02-12 02:57:05 
+bug-reports 2022-02-12 02:57:11 I've managed to save up to here without reverting
+bug-reports 2022-02-12 02:59:11 And I've saved as high as this without reverting
+bug-reports 2022-02-12 03:01:23 He's working his way up there again since he reverted too, going above that
+bug-reports 2022-02-12 03:53:53 This is the highest I can get before reverting
+bug-reports 2022-02-12 04:00:40 Good
+bug-reports 2022-02-12 04:40:52 I'm sacrificing some old unused builds to get some save space
+bug-reports 2022-02-12 23:19:24 This is what usually works for me when that happens
+bug-reports 2022-02-14 00:31:56 4 gigs of DDR3 is woefully inadequate nowadays, but it's Roblox so it should be fine
+bug-reports 2022-02-14 00:38:01 Oh
+bug-reports 2022-02-14 00:38:42 Pretty sure that the laptop still uses DDR3, since that's what 4th gen Intels use
+bug-reports 2022-02-14 00:38:46 It's just a laptop DIMM
+creations-chat 2022-03-03 00:10:02 Why does it bother you so much?
+creations-chat 2022-03-03 00:14:42 It's called having hobbies that you're passionate about, and the large scale allows for more detail. But I understand your confusion.
+creations-chat 2022-03-03 00:21:33 It's the pride of making a gigantic build that works, and is very accurate to the real thing. So what if people don't like it, or understand it, doesn't matter to me. I still enjoy making these functional scale models.
+creations-chat 2022-03-03 00:25:21 You'd be surprised, the siren enthusiast community's actually quite large. So is the railfanning community. Hell, there are ceiling fan enthusiasts. If there's something that exists, there's likely an enthusiast community behind it. It's no different than being an aviation enthusiast, or a military enthusiast.
+creations-chat 2022-03-03 00:28:08 Doesn't make the hobby any more or less valid. People will enjoy what they enjoy, even if it's something as simple as loud machines that spin. And yes, ceiling fan enthusiasts do in fact exist. There's also elevator enthusiasts, car wash enthusiasts, HVAC enthusiasts, traffic light enthusiasts, railroad crossing signal enthusiasts, etc, etc etc
+creations-chat 2022-03-03 00:33:14 Closest thing I've done to that is a couple of trains, which are pretty good in their own right considering I managed to squeeze about 5-6 railcars per train at the scale they're at
+creations-chat 2022-03-03 00:37:30 That's one of them, not finished yet
+creations-chat 2022-03-03 00:44:12 The siren's sound, reliability, rarity, and historical value are what people in the community usually find interesting about sirens.
+creations-chat 2022-03-03 00:57:57 I already have, argument invalid <:pain:644301805534183464>
+creations-chat 2022-03-03 02:04:23 This is what my old builds looked like before I improved at the game, everybody starts somewhere.
+creations-chat 2022-03-03 02:06:55 You're entitled to your opinion, doesn't matter to me.
+creations-chat 2022-03-03 16:18:02 Just because you're an asshole doesn't make your opinion any more valid :P
+creations-chat 2022-03-03 16:53:41 Wow, what a comeback!
+creations-chat 2022-03-03 16:57:26 Don't care in the slightest :)
+creations-chat 2022-03-03 17:00:48 Haters gonna hate!
+creations-chat 2022-03-04 00:17:58 Helpful tips instead of insults? In <#504436696021204992>? Impossible.
+creations-chat 2022-03-04 00:20:25 You have a point, can't argue with people who never had anything of substance to say in the first place
+creations-chat 2022-03-04 00:49:01 What's so bad about siren enthusiasts vs enthusiasts of anything else? It's a hobby.
+creations-chat 2022-03-04 00:52:48 Perhaps it isn't interesting to you, but everybody's got their own interests. You don't have to understand it at all, it's just a thing. Hell, I don't know why I like sirens myself, I just do. There's entire communities I'm a part of because of it.
+creations-chat 2022-03-04 01:14:35 You act like we've personally hurt you with the siren builds, it's actually funny how upset it makes you guys lol
+creations-chat 2022-03-04 01:17:25 Pfff, no. Siren Head's not an actual siren, just a poorly made fictional character lol
+creations-chat 2022-03-04 01:19:31 Lol, not really!
+creations-chat 2022-03-04 01:25:25 Never!
+creations-chat 2022-03-04 01:27:59 There's siren head
+creations-chat 2022-03-04 01:31:15 :O I built something that isn't a siren!
+bug-reports 2022-03-07 19:26:49 My VIP didn't have snow, and it does the update thing
+bug-reports 2022-03-07 19:27:10 After roughly a minute it sends me to the update place
+bug-reports 2022-03-07 19:27:24 And yes, it's still happening
+creations-chat 2022-06-29 02:13:30 How predictable
+creations-chat 2022-06-29 02:16:20 Hate and downvote all you like, doesn't matter to me lol
+bug-reports 2022-09-10 00:50:38 Anyone know why shooting people with guns or rockets causes parts of their build to suspend in the air like it's anchored, while they can still fly the rest of their plane as if it's undamaged even when it looks like the wings and stuff are gone?
+bug-reports 2022-09-10 00:50:58 Makes PVP a real pain when you have to chase invisible planes
+bug-reports 2022-09-10 00:51:34 How much save data have you used?
+bug-reports 2022-09-10 00:52:00 It's known that saving stops working above roughly 2.1 million
+bug-reports 2022-09-10 19:37:49 Yes, as long as your save doesn't go above 2.1 mil it will save
+bug-reports 2022-09-10 19:38:27 It's because Plane Crazy has a 4MB limit for player saves, which 2.1 mil is about the same as

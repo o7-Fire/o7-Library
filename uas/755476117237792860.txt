@@ -1,0 +1,692 @@
+The Tale of ApexShader (755476117237792860)
+bug-reports 2021-11-12 02:47:29 when will u guys fix the motor lock shake thing
+bug-reports 2021-11-12 02:47:43 it makes my f16 wobble
+bug-reports 2021-11-12 03:14:30 L
+bug-reports 2021-11-12 03:14:44 ill go screw myself then
+bug-reports 2021-11-12 03:15:19 oh wait u can swear
+bug-reports 2021-11-12 03:15:50 when i launch my build and fly it sometimes does that bs
+bug-reports 2021-11-12 03:16:45 alr
+bug-reports 2021-11-12 03:16:55 nvm thwn
+bug-reports 2021-11-12 03:16:57 then
+bot-central 2021-11-12 03:21:08 !rank
+bug-reports 2021-11-12 03:28:44 bruh
+bug-reports 2021-11-12 03:34:30 ok
+the-dump 2021-11-12 03:43:57 
+the-dump 2021-11-12 09:26:47 
+the-dump 2021-11-12 14:43:23 <:BIG1:588443768806703124><:BIG2:588443778554134540>
+<:BIG3:588443788721258534><:BIG4:588443798842114088>
+bot-central 2021-11-12 14:45:22 ?shelp
+bot-central 2021-11-12 14:52:47 bruh
+bot-central 2021-11-12 14:55:16 https://tenor.com/view/cry-about-it-cries-about-it-gif-21783279
+bot-central 2021-11-12 14:57:48 ?rhelp
+bot-central 2021-11-12 14:58:00 fuck off
+bug-reports 2021-11-12 21:16:17 <@!714878625484243101> im building the harrier jump jet but if i make the Anhedral wings it just wobbles, have any idea to fix that?
+bug-reports 2021-11-12 21:17:20 THIS
+bug-reports 2021-11-12 21:17:45 <:BIG1:588443768806703124><:BIG2:588443778554134540>
+<:BIG3:588443788721258534><:BIG4:588443798842114088>
+bug-reports 2021-11-12 21:18:12 i didnt
+bug-reports 2021-11-12 21:18:20 i fixed him with flex tape
+bug-reports 2021-11-12 21:18:59 Harrier Jump Jet
+bug-reports 2021-11-12 21:19:08 British VTOL thing
+bug-reports 2021-11-12 21:19:43 good
+bug-reports 2021-11-12 21:22:54 do i just do what u said and do a few things so it dont shake
+the-dump 2021-11-12 21:27:04 hahahhahaha
+the-dump 2021-11-12 21:27:07 tiddies
+the-dump 2021-11-12 21:27:20 ok so tiddies isnt censored
+the-dump 2021-11-12 21:27:22 thats good
+the-dump 2021-11-12 21:27:40 i will go
+bug-reports 2021-11-12 23:48:47 HELP https://streamable.com/ih4htn
+bug-reports 2021-11-12 23:50:32 i checked and yes
+bug-reports 2021-11-12 23:50:51 on its own
+bug-reports 2021-11-12 23:50:55 no
+bug-reports 2021-11-12 23:51:05 i removed their key binds
+bug-reports 2021-11-12 23:51:36 wdym
+bug-reports 2021-11-12 23:52:06 yes
+bug-reports 2021-11-12 23:52:13 alr
+bug-reports 2021-11-12 23:53:51 
+bug-reports 2021-11-12 23:54:33 i think the problem is that the top layer of the motorlock stack, clips through the wing
+bug-reports 2021-11-12 23:55:13 i just need help with that motorlock
+bug-reports 2021-11-12 23:55:21 the rest of the motor lock is fine
+bug-reports 2021-11-12 23:56:12 ill copy it to the other?
+bug-reports 2021-11-12 23:58:19 yes
+bug-reports 2021-11-13 00:11:06 yes
+bug-reports 2021-11-13 00:12:28 <@!719697031345733684> i made a new motor layer, the new top layer did the same as the last one, the second top layer (that was previously top) is working fine
+bug-reports 2021-11-13 00:12:32 idk how this works
+bug-reports 2021-11-13 03:10:14 ive overcome the glitch
+bug-reports 2021-11-13 03:10:24 i just made a new stack thats it
+bug-reports 2021-11-13 03:13:13 it fell
+bug-reports 2021-11-13 03:14:18 https://streamable.com/og0swe
+bug-reports 2021-11-13 03:14:29 4k
+bug-reports 2021-11-13 16:15:07 its itasha
+bug-reports 2021-11-13 16:15:14 nothing wrong with that
+the-dump 2021-11-13 21:03:39 fuck u
+the-dump 2021-11-13 21:03:47 
+the-dump 2021-11-14 02:10:10 skips 10 seconds
+the-dump 2021-11-14 02:12:47 star platinum: the world requiem act 5 OVA heaven
+the-dump 2021-11-14 02:14:00 
+the-dump 2021-11-14 02:14:01 no
+the-dump 2021-11-14 02:14:38 <:EYES:525319504721608705>
+the-dump 2021-11-14 02:14:45 sticky fingers
+the-dump 2021-11-14 02:14:59 n
+the-dump 2021-11-14 02:18:27 <:pain:644301805534183464>
+bug-reports 2021-11-16 04:59:36 <:wait:652565313337950230>
+bug-reports 2021-11-16 04:59:59 *flexes builds*
+creations-chat 2021-11-16 05:09:18 i like
+creations-chat 2021-11-16 05:30:50 ye
+bug-reports 2021-11-17 03:29:57 speaking of physics, is it true that physics work slightly differently in both gamemodes
+creations-chat 2021-11-19 04:42:15 <@!679889051825733683> holy shit we were just in the same server
+creations-chat 2021-11-19 04:47:37 the vtol part is whats complicated
+creations-chat 2021-11-19 04:53:03 balancing
+the-dump 2021-11-20 02:25:50 
+the-dump 2021-11-20 16:44:01 no
+the-dump 2021-11-20 16:46:12 
+the-dump 2021-11-21 18:57:54 
+the-dump 2021-11-22 02:03:43 ur mum
+the-dump 2021-11-22 02:04:12 no
+creations-chat 2021-11-26 02:50:37 what can i improve on this P 61
+creations-chat 2021-11-26 02:53:14 stfu
+creations-chat 2021-11-26 02:55:17 i noticed the tail bits, just forgot,
+creations-chat 2021-11-26 02:59:07 ill try fixing the nose a bit and ill change paint parts to this
+creations-chat 2021-11-26 03:01:55 the gun part might be difficult so i might use motor locking on it
+the-dump 2021-11-26 03:40:33 
+the-dump 2021-11-26 03:44:38 despicable fart gun
+the-dump 2021-11-26 03:44:43 haha very funy
+the-dump 2021-11-26 03:46:59 https://tenor.com/view/me-when-the-when-the-beamng-gif-22226593
+the-dump 2021-11-26 04:03:26 🗿
+the-dump 2021-11-26 04:04:17 https://tenor.com/view/rule1no-genshin-impact-no-genshin-impact-genshin-impact-goku-doku-ssj-gif-22463785
+the-dump 2021-11-26 04:04:22 https://tenor.com/view/rule2no-friday-night-funkin-fnf-friday-night-funkin-goku-dbs-gif-22463804
+the-dump 2021-11-26 04:04:28 https://tenor.com/view/rule3-rule3no-vtubers-goku-goku-ssjb-super-saiyan-blue-gif-22463839
+the-dump 2021-11-26 04:04:34 https://tenor.com/view/rule4-no-madness-combat-rule4madness-combat-goku-ssj3-gif-22463732
+the-dump 2021-11-26 04:04:42 https://tenor.com/view/rule5no-dream-smp-rule5no-dream-rule5-dream-broly-gif-22650972
+the-dump 2021-11-26 04:04:49 https://tenor.com/view/goku-rule6-discord-dbz-gif-22504372
+the-dump 2021-11-26 04:04:56 https://tenor.com/view/rule7-rule-rules-dragon-ball-z-power-up-gif-23048698
+the-dump 2021-11-26 04:05:02 https://tenor.com/view/scp-rules-rule8-rule-secure-contain-protect-gif-23048553
+the-dump 2021-11-26 04:05:09 https://tenor.com/view/rule9-neco-arc-melty-blood-vegeta-dragon-ball-super-gif-23048730
+the-dump 2021-11-26 04:05:23 https://tenor.com/view/rule10-jiren-dragon-ball-super-binding-of-isaac-the-binding-of-isaac-gif-23048755
+the-dump 2021-11-26 04:07:04 <:squam:801278498156183562>
+the-dump 2021-11-26 04:09:49 https://youtu.be/k7YVxLLIuGM
+bug-reports 2021-11-26 18:47:20 https://streamable.com/s9acgp the bombs teleport or spawn outside the plane for some reason. it wasnt doing this before
+bug-reports 2021-11-26 18:48:26 alr
+bug-reports 2021-11-26 18:49:13 no
+bug-reports 2021-11-26 18:49:17 they were closed
+bug-reports 2021-11-26 18:53:11 this is like my first time using the 1x0.9 blocks
+creations-chat 2021-11-26 19:25:51 i was thinking abt doing earlier but then forgot
+help 2021-11-26 19:38:26 what the servo option on motor2 do
+help 2021-11-26 19:39:52 alr
+help 2021-11-26 19:40:12 use metal material and add color it brown
+help 2021-11-26 19:40:57 the material can change how bright or not the object it
+help 2021-11-26 19:41:37 for fucks sake
+help 2021-11-26 19:42:29 then try a different material
+help 2021-11-26 19:55:15 forgot wood material existed
+creations-chat 2021-11-26 19:55:46 i fixed it and now it can
+the-dump 2021-11-27 02:01:36 what the fuck is this ad
+help 2021-11-27 03:04:55 how do u make ur game  render the map more
+help 2021-11-27 03:05:28 everytime i go up to 400 alti, it wont load
+help 2021-11-27 03:05:55 now to be fair
+help 2021-11-27 03:06:05 i am playing on a mac mini
+bug-reports 2021-11-27 04:46:39 lmao
+creations-chat 2021-11-27 04:52:56 <@!652190076222046249> jojo reference
+the-dump 2021-11-27 17:48:33 https://tenor.com/view/rule-36-no-jojo-references-gif-23317345
+the-dump 2021-11-27 18:14:46 <:trollface:775024642104229898>
+the-dump 2021-11-28 20:36:13 https://tenor.com/view/death-threats-gif-23794660
+the-dump 2021-11-30 04:34:05 died from propeller
+the-dump 2021-11-30 04:37:29 lmao
+the-dump 2021-11-30 04:38:06 <:trollface:775024642104229898>
+the-dump 2021-11-30 04:40:56 fuck u and ur mum <@!660341617537843210>
+the-dump 2021-11-30 04:41:02 idk
+the-dump 2021-11-30 04:41:07 what wrong withtvit
+the-dump 2021-11-30 04:41:29 i played realistic before i got back to playing my xbox
+the-dump 2021-11-30 04:41:54 ik
+the-dump 2021-11-30 04:42:05 ik
+the-dump 2021-11-30 04:42:10 marder
+the-dump 2021-11-30 04:42:24 marder
+the-dump 2021-11-30 04:43:03 downforce
+the-dump 2021-11-30 04:43:52 i did forget how to play realistic when i just got back so i might play realistic this week
+the-dump 2021-11-30 04:44:22 alr
+the-dump 2021-11-30 04:44:52 simulator battle is with ppl who have sticks and peddles
+the-dump 2021-11-30 04:44:57 what ever the fuck
+the-dump 2021-11-30 04:46:22 https://tenor.com/view/jesus-ballin-mars-bars-gif-19910027
+the-dump 2021-11-30 04:46:57 https://tenor.com/view/epic-embed-embed-embed-war-epic-embed-war-war-gif-21676148
+the-dump 2021-11-30 04:47:24 https://tenor.com/view/epic-epic-embed-embed-embed-fail-embed-perms-gif-21665260
+creations-chat 2021-12-03 23:08:13 <:empty:794431705070174238>
+the-dump 2021-12-06 01:53:00 https://tenor.com/view/rule1no-genshin-impact-no-genshin-impact-genshin-impact-goku-doku-ssj-gif-22463785
+the-dump 2021-12-06 01:53:58 https://media.discordapp.net/attachments/495286269459300364/917231951155453992/trollface_ethnostate.mp4
+the-dump 2021-12-06 01:54:16 https://tenor.com/view/epic-embed-propaganda-epic-embed-epic-embed-propaganda-gif-21517756
+the-dump 2021-12-06 02:49:20 
+the-dump 2021-12-07 03:11:57 https://tenor.com/view/edited-discord-discord-edited-stare-scared-gif-21441967
+the-dump 2021-12-07 04:55:37 
+creations-chat 2021-12-11 16:13:17 bruh blame araki for that
+the-dump 2021-12-13 05:28:31 fuck u and suck u mum <@!660341617537843210>
+the-dump 2021-12-18 06:27:23 become pedophil
+the-dump 2021-12-19 21:31:12 samr
+the-dump 2021-12-19 21:31:15 
+the-dump 2021-12-20 02:19:44 
+the-dump 2021-12-20 02:42:14 anushit
+the-dump 2021-12-20 02:42:18 get pluck
+the-dump 2021-12-20 02:42:21 and scr
+the-dump 2021-12-20 02:42:33 ye
+the-dump 2021-12-20 02:59:56 war thunder lore
+the-dump 2021-12-20 16:35:17 <:trollface:775024642104229898>
+the-dump 2021-12-20 16:35:34 fuck u
+the-dump 2021-12-20 16:35:39 no one asked
+the-dump 2021-12-20 16:35:44 stupid bot
+the-dump 2021-12-20 16:35:48 <:empty:794431705070174238>
+the-dump 2021-12-21 17:36:20 https://youtu.be/Wo3aa1XuLo4
+the-dump 2021-12-23 04:28:34 
+creations-chat 2021-12-23 04:31:43 <@456226577798135808> looks like a different game, the amount of angle locking u put into this is insane
+creations-chat 2021-12-23 04:34:07 np, the floor literally has no flittering, it just goes on so well
+the-dump 2021-12-24 00:57:14 fuck u
+the-dump 2021-12-24 00:57:26 
+the-dump 2021-12-24 01:32:26 rock lore
+the-dump 2021-12-24 01:46:10 <:trollface:775024642104229898>
+the-dump 2021-12-24 05:37:28 no
+the-dump 2021-12-24 05:37:30 fuck u
+the-dump 2021-12-25 22:28:33 top 10 dogfights
+the-dump 2021-12-25 22:28:45 
+the-dump 2021-12-25 22:29:06 
+the-dump 2021-12-25 22:29:33 <:trollface:775024642104229898>
+the-dump 2021-12-25 22:56:05 he got piss in his mouth
+the-dump 2021-12-25 22:56:07 🗿
+the-dump 2021-12-25 22:56:43 
+the-dump 2021-12-26 21:11:36 https://tenor.com/view/anime-pfp-gif-24100488
+the-dump 2021-12-26 21:18:13 f
+the-dump 2021-12-27 00:05:34 fuck u
+the-dump 2021-12-27 00:05:35 dumbass
+the-dump 2021-12-27 00:05:38 shithead
+the-dump 2021-12-27 00:05:40 bot
+the-dump 2021-12-27 00:05:46 fucking annoying
+the-dump 2021-12-27 00:06:15 stfu
+the-dump 2021-12-27 00:06:20 its an organ
+the-dump 2021-12-27 00:06:40 theres a jojo reference on it
+the-dump 2021-12-27 00:07:05 https://tenor.com/view/jojo-stone-ocean-weather-report-weather-forecast-jjba-gif-24009894
+the-dump 2021-12-27 00:07:42 ew half naked females
+the-dump 2021-12-27 00:07:46 <:Downvote:490311668556103700>
+the-dump 2021-12-27 00:07:47 🗿
+the-dump 2021-12-27 00:39:08 <:empty:794431705070174238>
+the-dump 2021-12-27 00:39:09 😳
+the-dump 2021-12-27 00:39:47 everyone does
+the-dump 2021-12-27 00:39:57 i said everyone
+the-dump 2021-12-27 00:40:18 ok
+the-dump 2021-12-27 06:12:06 what
+the-dump 2021-12-27 06:12:12 ok
+the-dump 2021-12-27 12:44:25 jojo reference
+the-dump 2021-12-28 00:35:57 t
+the-dump 2021-12-28 00:36:56 
+the-dump 2021-12-28 00:37:29 drake moment
+the-dump 2021-12-28 01:02:20 fuck u
+the-dump 2021-12-28 01:02:38 its like the short school buses
+the-dump 2021-12-28 01:20:11 turtle
+the-dump 2021-12-28 01:20:25 YES
+the-dump 2021-12-28 01:36:57 hes not
+the-dump 2021-12-28 01:37:18 hes 5’7
+the-dump 2021-12-28 01:46:39 10
+the-dump 2021-12-29 04:17:39 
+creations-chat 2022-01-09 19:30:23 oren boy
+creations-chat 2022-01-09 19:33:09 corzair1!1!111111!1!!!!!11!
+the-dump 2022-01-09 19:34:09 stfu
+the-dump 2022-01-09 19:34:13 dumbass bot
+the-dump 2022-01-09 21:48:29 trolls
+the-dump 2022-01-10 01:28:47 <@!660341617537843210> how abt u upload sum bitches <:trollface:775024642104229898>
+the-dump 2022-01-10 01:49:41 https://tenor.com/view/farded-gif-21322040
+the-dump 2022-01-10 02:39:20 https://tenor.com/view/sweet-dreams-sweetdreams-gif-20145877
+the-dump 2022-01-10 02:39:30 https://tenor.com/view/jesus-ballin-mars-bars-gif-19910027
+the-dump 2022-01-10 02:52:57 search up toy chica on gifs
+the-dump 2022-01-10 02:54:09 theres non
+the-dump 2022-01-10 03:14:08 toy chica is the hottest animatronic
+the-dump 2022-01-10 03:14:31 what
+the-dump 2022-01-10 03:14:34 stfu
+the-dump 2022-01-10 03:14:52 ur dad <:trollface:775024642104229898>
+the-dump 2022-01-10 03:15:16 https://tenor.com/view/fart-farted-you-smell-like-you-farted-explosion-gif-21013946
+the-dump 2022-01-10 03:15:50 https://tenor.com/view/amongus-amogus-happy-meal-gif-20597952
+the-dump 2022-01-10 04:13:36 https://tenor.com/view/edited-tf2-meet-the-medic-gif-22002258
+the-dump 2022-01-10 05:00:28 british
+the-dump 2022-01-10 05:02:07 lol
+the-dump 2022-01-10 05:02:43 how abt try uploading sum bitches <@!660341617537843210>
+the-dump 2022-01-10 05:02:48 <:trollface:775024642104229898>
+the-dump 2022-01-10 05:05:17 british ppl tryna pronounce Ps is funny
+the-dump 2022-01-12 04:28:31 rate the playlist
+the-dump 2022-01-12 04:28:33 https://open.spotify.com/playlist/1qqTenF3P0aepkJ68c9Urg?si=c6CWlTWsQd2E-M_1uha1WA
+the-dump 2022-01-12 04:42:17 spam!1!1!11!1
+the-dump 2022-01-12 04:42:58 freezing temperature male human
+the-dump 2022-01-12 04:43:34 ice wizard
+the-dump 2022-01-12 04:43:44 https://tenor.com/view/clash-royale-gif-5535732
+the-dump 2022-01-12 04:44:06 what
+the-dump 2022-01-12 04:45:17 https://tenor.com/view/sus-suspicious-gif-23068645
+the-dump 2022-01-12 04:46:21 https://tenor.com/view/fnaf-security-breach-glamrock-security-breach-roxy-roxanne-gif-23652125
+the-dump 2022-01-12 04:46:32 tf is this
+the-dump 2022-01-12 04:51:12 mid looking game tbh
+the-dump 2022-01-12 04:51:19 battlefield?
+the-dump 2022-01-12 04:51:25 idgaf
+the-dump 2022-01-12 04:51:30 play war thunder
+the-dump 2022-01-12 04:52:32 
+the-dump 2022-01-12 04:55:20 
+the-dump 2022-01-19 02:31:37 lmao
+the-dump 2022-01-19 02:31:42 
+the-dump 2022-01-19 02:33:49 i stole the meme
+the-dump 2022-01-19 23:09:46 furry hater
+the-dump 2022-01-19 23:10:05 reasons why u should let ppl finish their sentences
+the-dump 2022-01-20 00:27:13 what
+the-dump 2022-01-25 03:44:43 🗿
+the-dump 2022-01-25 03:44:58 https://tenor.com/view/bruh-moai-moyai-zemby7-big_funky-gif-23796913
+the-dump 2022-01-25 03:56:22 
+the-dump 2022-01-26 23:14:10 
+the-dump 2022-01-26 23:14:21 <:trollface:775024642104229898>
+the-dump 2022-01-26 23:17:30 
+the-dump 2022-01-26 23:48:42 
+the-dump 2022-01-26 23:49:04 ikr
+the-dump 2022-01-26 23:49:09 they complain so much
+the-dump 2022-01-26 23:49:17 not that big of a deal
+the-dump 2022-01-26 23:53:18 roket
+the-dump 2022-01-26 23:54:49 pilatus
+the-dump 2022-01-28 00:44:22 https://tenor.com/view/cat-cute-adorable-punch-gif-17822730
+the-dump 2022-01-28 00:46:18 lmao
+the-dump 2022-01-28 01:04:03 
+the-dump 2022-01-28 01:08:05 hey
+the-dump 2022-01-28 01:08:18 dont use the name of god like that
+the-dump 2022-01-28 01:08:20 thats a sin
+the-dump 2022-01-28 01:08:56 jojo time stop
+the-dump 2022-01-28 01:09:04 mad
+the-dump 2022-01-28 01:09:30 cope
+the-dump 2022-01-28 01:10:13 tokiyo tamare <:trollface:775024642104229898>
+the-dump 2022-01-28 01:22:57 ik that
+the-dump 2022-01-28 03:56:53 https://tenor.com/view/john-cena-gif-22279051
+the-dump 2022-01-28 04:06:19 ohw
+the-dump 2022-01-28 11:30:04 soup
+the-dump 2022-01-29 21:57:41 
+the-dump 2022-01-29 21:58:40 tadano is legless
+the-dump 2022-01-29 21:58:53 toes?
+the-dump 2022-01-29 21:58:57 the guy
+the-dump 2022-01-29 21:59:19 ok
+the-dump 2022-01-29 21:59:24 https://tenor.com/view/scout-tf2-tf2scout-next-time-eat-a-salad-next-time-eat-a-salad-scout-gif-21621989
+the-dump 2022-01-30 18:08:39 
+the-dump 2022-01-31 02:23:52 fredber
+the-dump 2022-01-31 02:24:12 
+the-dump 2022-01-31 02:24:17 fuck
+creations-chat 2022-01-31 02:24:41 nothing
+creations-chat 2022-01-31 02:28:36 plane <:RoundMotor:706287054023294997>
+the-dump 2022-01-31 02:33:46 mb
+the-dump 2022-01-31 02:37:41 https://tenor.com/view/giga-chad-gif-23044971
+the-dump 2022-01-31 02:38:11 <:empty:794431705070174238>
+the-dump 2022-01-31 02:38:23 https://tenor.com/view/rule-36-no-jojo-references-gif-23317345
+the-dump 2022-01-31 02:38:27 i hate this rule
+the-dump 2022-01-31 02:38:36 lmao
+the-dump 2022-01-31 02:38:57 everything
+the-dump 2022-01-31 02:38:58 jk
+the-dump 2022-01-31 02:39:23 but by ignoring that tile ur ignoring everything
+creations-chat 2022-01-31 03:08:00 stop pretending u dont like it
+creations-chat 2022-01-31 03:19:02 i agree
+the-dump 2022-01-31 04:07:32 mad
+the-dump 2022-02-01 23:55:44 🗿
+the-dump 2022-02-02 00:31:17 five nights at freddys custom night
+the-dump 2022-02-02 02:10:42 i like b 29
+the-dump 2022-02-02 02:10:48 or b 25
+the-dump 2022-02-05 02:41:59 blue
+the-dump 2022-02-06 04:24:02 holy shit
+the-dump 2022-02-08 05:03:26 
+the-dump 2022-02-08 05:03:50 
+the-dump 2022-02-08 05:07:29 stfu
+the-dump 2022-02-08 05:07:42 <@!660341617537843210>
+the-dump 2022-02-08 05:11:28 https://tenor.com/view/dream-smp-dream-fathers-day-dad-dream-stans-gif-23207631
+the-dump 2022-02-09 23:50:19 
+the-dump 2022-02-09 23:50:35 🗿
+creations-chat 2022-02-12 01:40:45 lmfao
+creations-chat 2022-02-12 01:42:51 vtol function https://streamable.com/6y9bfx
+the-dump 2022-02-15 03:13:32 
+the-dump 2022-02-15 03:14:59 
+the-dump 2022-02-15 03:15:50 stfu
+the-dump 2022-02-15 03:16:23 holy shit
+the-dump 2022-02-15 03:16:30 why the fuck
+the-dump 2022-02-15 03:17:09 https://tenor.com/view/fnaf-five-nights-at-freddys-5naf-fredbear-foxy-gif-16621026
+the-dump 2022-02-15 03:17:19 lol
+the-dump 2022-02-15 03:17:57 https://tenor.com/view/rule-36-no-jojo-references-gif-23317345
+the-dump 2022-02-15 03:18:18 https://tenor.com/view/jojo-gif-18211662
+the-dump 2022-02-15 03:18:42 because
+the-dump 2022-02-15 03:18:45 yes
+the-dump 2022-02-15 03:19:00 <@683847069890510887> Watch your language.
+the-dump 2022-02-15 03:20:03 
+the-dump 2022-02-15 03:20:31 bruh i cancelled the video loadjng
+the-dump 2022-02-15 03:20:43 
+the-dump 2022-02-15 03:23:35 
+the-dump 2022-02-15 03:23:45 <@853042393309904897> Watch your language.
+the-dump 2022-02-15 03:24:04 <@!624986130411945994>, You cannot post .mov files! Try uploading to https://www.streamable.com and share the link instead.
+the-dump 2022-02-15 03:25:00 fuck
+the-dump 2022-02-15 03:25:09 i sawm mov
+the-dump 2022-02-15 03:25:27 https://tenor.com/view/clash-royale-emotes-laugh-smile-king-gif-14309345
+the-dump 2022-02-15 04:04:45 
+the-dump 2022-02-15 23:46:57 🗿
+the-dump 2022-02-19 18:20:03 what
+the-dump 2022-02-19 18:20:14 https://tenor.com/view/king-crimson-gif-22172546
+the-dump 2022-02-19 18:20:27 do u wanna get banned
+the-dump 2022-02-19 18:20:44 <@!335599526414909451> spam!!!
+the-dump 2022-02-19 18:20:55 stfu
+the-dump 2022-02-19 18:21:08 v
+the-dump 2022-02-19 18:21:39 hes going to spam sum weird stuff next
+the-dump 2022-02-19 18:21:56 ^
+the-dump 2022-02-19 18:22:13 https://tenor.com/view/blocked-blocked-message-4blocked-messages-smurf-the-smurfs-dance-party-gif-22237768
+the-dump 2022-02-19 18:22:35 cringe
+the-dump 2022-02-19 18:22:40 use the app
+the-dump 2022-02-19 18:23:42 stfu
+the-dump 2022-02-19 18:24:15 https://tenor.com/view/mods-mod-miguel-gato-cat-gif-22365379
+the-dump 2022-02-19 18:24:29 https://tenor.com/view/mods-discord-mod-moderator-moderation-clash-of-clans-gif-24080525
+the-dump 2022-02-19 18:25:24 yay
+the-dump 2022-02-19 18:25:38 wtf is that emoji
+the-dump 2022-02-19 18:26:14 no
+the-dump 2022-02-19 18:26:16 fuck off
+the-dump 2022-02-19 18:26:26 
+the-dump 2022-02-19 18:26:50 
+the-dump 2022-02-19 18:27:29 <@!808454689473167451> shut the fuck up
+the-dump 2022-02-19 18:27:34 no one asked
+the-dump 2022-02-19 18:29:22 nah bruh hes a fuckin loser
+the-dump 2022-02-19 18:29:48 iamm?
+the-dump 2022-02-19 18:30:41 yooo
+the-dump 2022-02-19 18:30:47 stoap
+the-dump 2022-02-19 18:30:51 ?
+the-dump 2022-02-19 18:30:55 stoap
+the-dump 2022-02-19 18:31:26 staples
+the-dump 2022-02-19 18:31:43 omd
+the-dump 2022-02-19 18:31:53 staple
+the-dump 2022-02-19 18:32:33 <@!808454689473167451> leave server!!
+the-dump 2022-02-19 18:32:37 jk
+the-dump 2022-02-19 18:32:44 stay so we can bully u
+the-dump 2022-02-19 18:33:04 what he said
+the-dump 2022-02-19 18:33:12 b
+the-dump 2022-02-19 18:33:15 bec
+the-dump 2022-02-19 18:33:28 becodmmi
+the-dump 2022-02-19 18:36:51 
+the-dump 2022-02-24 05:20:08 https://tenor.com/view/lean-burntrap-fnaf-william-afton-security-breach-gif-24749655
+the-dump 2022-02-26 02:17:19 https://tenor.com/view/lean-burntrap-fnaf-william-afton-security-breach-gif-24749655
+the-dump 2022-02-26 02:22:02 
+the-dump 2022-02-26 02:22:10 aha
+the-dump 2022-02-26 02:22:19 A
+the-dump 2022-02-26 02:22:27 
+the-dump 2022-02-26 02:23:04 use this instead
+the-dump 2022-02-26 02:25:42 chadness
+the-dump 2022-03-02 03:24:43 
+the-dump 2022-03-05 03:07:39 
+the-dump 2022-03-05 03:07:42 
+the-dump 2022-03-05 15:11:50 https://tenor.com/view/goofy-gif-23542865
+the-dump 2022-03-05 15:31:08 it says goofy
+the-dump 2022-03-05 15:31:13 /tf u on about
+the-dump 2022-03-05 15:31:46 how am i suppose to know
+the-dump 2022-03-05 15:32:02 no dumbass
+the-dump 2022-03-05 15:33:10 just because its a clip from a explicit video and that clip shows nothing explicit on it, doesnt mean its nsfw
+the-dump 2022-03-05 15:33:13 smh
+the-dump 2022-03-05 15:33:58 idfk
+the-dump 2022-03-05 15:34:34 i dont even know where the gif orginally came from
+the-dump 2022-03-05 15:34:44 u acting like everyone does somehow
+the-dump 2022-03-05 18:29:04 
+the-dump 2022-03-05 18:29:18 geometry dash
+the-dump 2022-03-06 21:27:16 
+the-dump 2022-03-06 21:57:48 fuck off
+the-dump 2022-03-07 02:11:23 i got both of these in the same week 🗿
+the-dump 2022-03-07 23:18:55 https://tenor.com/view/cat-dancing-meme-dancing-cat-white-cat-meme-gif-24092585
+the-dump 2022-03-08 23:13:15 https://tenor.com/view/quandale-dingle-ronaldo-dingle-swaglandia-ronaldo-quandale-gif-24526500
+the-dump 2022-03-09 03:22:09 <:trollface:775024642104229898>
+the-dump 2022-03-09 04:38:43 https://tenor.com/view/mug-venomlettherebecarnage-carnage-ilovemug-mugmoment-gif-24967817
+the-dump 2022-03-26 03:17:36 whats this thing that carries the bomb called
+the-dump 2022-03-26 03:18:30 this mf
+the-dump 2022-03-26 03:18:39 the thing carrying the bomb
+the-dump 2022-03-26 07:32:35 https://tenor.com/view/raggedy-gif-20207356
+the-dump 2022-03-28 17:22:27 suck ur mum
+the-dump 2022-03-28 17:22:32 <@!660341617537843210>
+the-dump 2022-03-28 17:39:45 p61 is cracked
+the-dump 2022-03-28 17:43:52 
+the-dump 2022-03-28 17:45:17 lmao
+the-dump 2022-03-28 20:07:02 
+the-dump 2022-03-30 16:17:38 https://tenor.com/view/halo-political-gif-21438301
+the-dump 2022-03-30 16:19:04 https://tenor.com/view/cry-about-it-cries-about-it-gif-21783279
+the-dump 2022-03-31 06:12:04 
+the-dump 2022-04-10 15:16:07 tis but a scratch*
+the-dump 2022-04-10 15:16:46 
+the-dump 2022-04-10 15:16:55 wtf
+the-dump 2022-04-16 02:48:31 
+the-dump 2022-04-23 00:49:38 
+the-dump 2022-06-08 23:01:49 <@660341617537843210>
+the-dump 2022-06-11 18:40:57 
+the-dump 2022-06-11 20:58:54 mp5k
+the-dump 2022-06-11 20:58:57 mp5 sd
+the-dump 2022-06-11 20:59:35 mp7
+the-dump 2022-06-11 21:00:12 yes
+the-dump 2022-06-11 21:00:22 mp9
+the-dump 2022-06-12 13:41:03 hee hee hee haw
+the-dump 2022-06-12 13:41:07 hee hee hee haw
+the-dump 2022-06-12 13:41:12 https://tenor.com/view/clash-royale-gif-5535732
+the-dump 2022-06-12 13:47:33 
+the-dump 2022-06-12 13:47:42 sounds familiar
+the-dump 2022-06-12 19:04:22 https://tenor.com/view/wet-cat-moist-gif-19212269
+the-dump 2022-06-12 22:04:07 https://open.spotify.com/episode/2cdshskGyUwabCPuPOp4Iv?si=jDYsdAh6SySdTdWSVhbJLg
+the-dump 2022-06-12 22:17:53 fr repost
+the-dump 2022-06-12 22:18:20 .
+the-dump 2022-06-14 19:11:50 https://tenor.com/view/cuh-old-man-gif-22853886
+the-dump 2022-06-15 00:20:26 
+the-dump 2022-06-16 02:09:43 
+the-dump 2022-06-21 23:06:09 fuck u man
+the-dump 2022-06-21 23:06:35 its the bot
+the-dump 2022-06-21 23:06:50 didnt give me time to cancle
+the-dump 2022-06-21 23:07:16 im not reposting it
+the-dump 2022-06-21 23:07:28 
+the-dump 2022-06-21 23:08:04 
+the-dump 2022-06-21 23:11:37 
+the-dump 2022-06-29 03:20:51 
+the-dump 2022-07-15 20:22:52 fuck u
+the-dump 2022-07-15 20:22:54 bot
+the-dump 2022-07-15 20:46:57 noo!!!!1!1!
+the-dump 2022-07-15 20:47:06 i meant frick!1!!
+the-dump 2022-07-15 20:47:09 im soriyy
+bot-central 2022-07-15 20:52:43 !rank
+creations-chat 2022-07-15 21:00:52 <@728020153920520213> simple build but very cool
+the-dump 2022-07-15 21:13:57 
+the-dump 2022-07-15 21:14:08 
+creations-chat 2022-07-15 22:07:32 water = verb
+creations-chat 2022-07-15 22:10:01 well u sometimes drink water so water is sometimes a verb
+creations-chat 2022-07-15 22:32:25 i have one that i made in like 6 minutes
+the-dump 2022-07-15 22:34:16 https://tenor.com/view/kumalala-kumalala-kumala-savesta-kumalala-kumala-savesta-thoms-gif-25640161
+the-dump 2022-07-16 01:58:06 thx
+the-dump 2022-07-16 06:20:23 
+the-dump 2022-07-17 20:39:30 https://tenor.com/view/whitename-monkey-discord-gif-22734116
+bot-central 2022-07-17 20:44:53 ?shelp
+bot-central 2022-07-17 20:45:51 ?rhelp
+creations-chat 2022-07-17 20:47:09 is that under aged kid actually 12 rn
+bug-reports 2022-07-17 21:54:05 almost blinded me
+the-dump 2022-07-18 06:03:51 
+the-dump 2022-07-25 16:40:42 
+the-dump 2022-07-28 01:25:12 
+the-dump 2022-07-28 01:25:24 <@789619740871622677>
+the-dump 2022-07-28 01:29:28 https://tenor.com/view/walter-white-falling-fast-gif-18043850
+the-dump 2022-07-28 02:15:47 https://tenor.com/view/pacman-nerd-multiversus-garnet-gif-26263770
+the-dump 2022-07-28 02:17:00 bruh!!!!
+the-dump 2022-07-28 02:17:06 https://tenor.com/view/multiversus-hop-on-hop-on-multiversus-bugs-bunny-gif-25001527
+the-dump 2022-07-28 02:17:21 new warner brothers game
+the-dump 2022-07-28 02:17:36 its like smash but with wb characters
+the-dump 2022-07-28 02:56:24 https://tenor.com/view/ratio-gif-21373349
+the-dump 2022-07-28 02:57:08 by drowning them
+the-dump 2022-07-28 02:58:41 https://tenor.com/view/jetstream-sam-gif-25433869
+creations-chat 2022-07-28 17:57:03 is this good progress on the ah 64 build so far?
+creations-chat 2022-07-28 19:49:47 worth
+creations-chat 2022-07-29 04:27:57 i was in the massacre
+the-dump 2022-07-29 05:00:58 no
+the-dump 2022-07-29 05:02:11 https://tenor.com/view/discord-roblox-roblox-r-spongebob-gif-20898282
+creations-chat 2022-07-29 16:13:52 
+creations-chat 2022-07-29 20:29:01 should i just have rocket salvos and a gun on my ah 64
+creations-chat 2022-07-29 20:41:43 heres what it looks like rn
+the-dump 2022-07-29 22:08:17 basic white name behavior
+the-dump 2022-07-29 22:09:38 im not basic
+the-dump 2022-07-29 22:09:57 im just too lazy to get a role
+the-dump 2022-07-29 22:11:13 
+creations-chat 2022-07-29 22:25:06 a man is protesting in china
+creations-chat 2022-07-31 00:22:42 should i use fake rotors on my helicopter or use 2 rotors
+creations-chat 2022-07-31 00:46:50 
+creations-chat 2022-07-31 00:49:32 f 22 fans when they get cobrad
+creations-chat 2022-07-31 00:54:03 im dead
+creations-chat 2022-07-31 00:56:01 fax
+creations-chat 2022-07-31 00:58:45 i deleted my infamous 5th gen fighter jet due to being nt real
+creations-chat 2022-07-31 01:01:34 everyone dislike the latest f 22 post in <#384025409945337856> https://discord.com/channels/384021699466756103/384025409945337856/1003079642497949698
+creations-chat 2022-07-31 01:06:26 oh no
+creations-chat 2022-07-31 01:12:34 
+the-dump 2022-07-31 20:12:16 L
+creations-chat 2022-08-01 21:05:00 w
+creations-chat 2022-08-02 15:30:46 W
+the-dump 2022-08-03 00:52:28 nooo
+the-dump 2022-08-03 00:58:08 fax
+the-dump 2022-08-03 05:44:44 huh
+the-dump 2022-08-04 17:01:18 https://tenor.com/view/los-pollos-hermanos-breaking-bad-the-los-pollos-hermanos-family-welcomes-you-gustavo-fring-family-gif-21941081
+creations-chat 2022-08-04 23:55:30 rate
+creations-chat 2022-08-05 00:10:03 
+creations-chat 2022-08-05 00:12:08 fax
+creations-chat 2022-08-05 00:17:13 10
+the-dump 2022-08-05 00:18:41 bruh
+the-dump 2022-08-05 21:23:46 https://tenor.com/view/jetstream-sam-gif-25433869
+the-dump 2022-08-05 21:23:56 furries
+creations-chat 2022-08-05 21:25:04 my creation
+creations-chat 2022-08-05 21:27:18 no recoil
+creations-chat 2022-08-05 21:39:40 so no one build a unsc scorpion yet?
+the-dump 2022-08-05 22:21:57 fuck off
+creations-chat 2022-08-05 22:34:26 fine ill replace it with stubby grip
+
+vvv no its not<:trollface:775024642104229898>
+creations-chat 2022-08-05 23:44:46 howd u get hbar aug
+
+aug a3 with attachments?
+creations-chat 2022-08-05 23:49:56 oh
+events-chat 2022-08-06 00:40:22 now its?
+events-chat 2022-08-06 01:21:12 the summer of 2090 <:trollface:775024642104229898>
+creations-chat 2022-08-06 08:46:34 <:clueless:942802644043464734>
+creations-chat 2022-08-06 08:49:15 plane crazy pros when u dont listen to them and not fix ur plane the way they want it to be
+creations-chat 2022-08-06 08:51:21 oh its doublewide, hes always right so go fix it <@839451762205392897>
+creations-chat 2022-08-06 08:53:50 fax
+creations-chat 2022-08-06 09:12:28 https://tenor.com/view/monkey-wtf-monkey-gasp-monkey-gif-22578374
+the-dump 2022-08-06 13:33:22 
+the-dump 2022-08-06 13:37:10 shut up whitename
+the-dump 2022-08-06 13:37:21 https://tenor.com/view/whitename-monkey-discord-gif-22734116
+the-dump 2022-08-06 13:38:21 <:clueless:942802644043464734>
+creations-chat 2022-08-06 18:32:33 <@650323703057481732> <:clueless:942802644043464734>
+creations-chat 2022-08-06 18:34:43 https://tenor.com/view/plane-crazy-gif-25805187
+creations-chat 2022-08-06 18:36:54 if we ignore the whitename enough then it will go away
+creations-chat 2022-08-06 18:38:57 i cant downvote the shit he posted
+
+<@685909594932773033> lmao
+
+Designer ||| <@658318819248570381>
+creations-chat 2022-08-06 18:58:10 my creation but better
+creations-chat 2022-08-06 22:10:57 ban joey
+creations-chat 2022-08-07 01:35:38 im bombing berlin
+creations-chat 2022-08-07 22:11:45 roscale <:clueless:942802644043464734>
+creations-chat 2022-08-08 00:20:55 the bot broke?
+creations-chat 2022-08-08 00:23:04 i wanna do pushups
+creations-chat 2022-08-08 02:28:30 ok
+creations-chat 2022-08-08 02:30:33 stappp!!!!!11
+creations-chat 2022-08-08 02:33:19 i already did, im only gonna do the ones in the next 40 minutes because im gonna play with my homies
+creations-chat 2022-08-08 02:35:20 then dislike it 128 more times
+events-chat 2022-08-08 02:51:16 dislike now!!!
+creations-chat 2022-08-08 02:53:00 19* already did
+
+bot doesnt count
+events-chat 2022-08-08 03:09:56 its done
+the-dump 2022-08-12 01:36:16 bro tryna be carti
+the-dump 2022-08-12 01:47:01 
+the-dump 2022-08-12 21:37:35 L game
+the-dump 2022-08-12 21:38:26 rat
+the-dump 2022-08-12 22:03:23 https://tenor.com/view/cant-have-shit-in-detroit-gif-20111077
+the-dump 2022-08-14 02:38:46 fuck the tuna
+the-dump 2022-08-14 03:09:35 yummy
+creations-chat 2022-08-14 21:45:15 white name activity
+creations-chat 2022-08-14 21:54:37 attachment <:clueless:942802644043464734>
+the-dump 2022-08-25 00:43:15 oh no bros
+the-dump 2022-08-27 01:55:31 
+the-dump 2022-08-27 03:11:23 https://tenor.com/view/breaking-bad-walter-white-jesse-pinkmen-sleepover-josharo-gif-22448107
+the-dump 2022-08-30 03:37:09 
+the-dump 2022-08-30 03:38:12 can we get much higher
+the-dump 2022-08-30 03:38:14 so high
+the-dump 2022-09-01 01:27:33 rhagcdb
+the-dump 2022-09-02 00:17:24 whitename behavior
+the-dump 2022-09-02 00:17:42 on obama
+the-dump 2022-09-02 00:36:48 
+the-dump 2022-09-02 00:38:24 https://tenor.com/view/nerd-gif-24439345
+the-dump 2022-09-02 00:51:55 <@946859812434632756> the whitenames are trying to be better
+the-dump 2022-09-02 23:37:56 battle lightning
+the-dump 2022-09-02 23:59:18 psst
+the-dump 2022-09-03 00:36:38 imagine the recoil
+the-dump 2022-09-03 00:37:00 actually its 9x19 mm
+the-dump 2022-09-03 00:37:05 he will be fine
+the-dump 2022-09-03 01:30:06 https://tenor.com/view/nerd-emoji-nerd-emoji-avalon-play-avalon-gif-24241051
+the-dump 2022-09-03 02:19:08 
+the-dump 2022-09-03 18:18:53 
+the-dump 2022-09-07 23:58:21 https://tenor.com/view/andrew-tate-bugatti-what-color-smoking-top-g-gif-26393811
+the-dump 2022-09-09 00:08:49 
+the-dump 2022-09-09 00:08:53 wrong meme
+the-dump 2022-09-10 01:19:35 
+the-dump 2022-09-10 01:19:40 goofy
+events-chat 2022-09-14 03:54:01 monkeyass
+the-dump 2022-09-15 21:59:37 
+the-dump 2022-09-15 22:02:55 https://tenor.com/view/could-you-repeat-that-could-you-repeat-that-gif-25652578
+the-dump 2022-09-15 23:26:36 https://tenor.com/view/nerd-nerd-emoji-meme-speech-bubble-bubble-gif-25115885
+events-chat 2022-09-15 23:34:37 i like all planes (the su 57 isnt a plane)
+the-dump 2022-09-16 22:20:49 
+the-dump 2022-09-16 22:21:53 i searched toy chica in gifs
+the-dump 2022-10-04 04:40:05 
+the-dump 2022-10-04 04:40:35 L
+the-dump 2022-10-06 01:24:32 fuck u bot
+the-dump 2022-10-06 02:21:31 
+the-dump 2022-10-09 19:28:18 smash
+the-dump 2022-10-11 01:32:36 
+the-dump 2022-10-13 01:30:09 stewie
+the-dump 2022-10-14 02:38:32 https://tenor.com/view/ralsei-clear-gif-26477239
+the-dump 2022-10-14 02:38:52 who actually does 💀
+the-dump 2022-10-14 02:39:10 unless ur into boats
+creations-chat 2022-11-04 03:17:46 building a t90, this good so far?
+creations-chat 2022-11-06 04:47:04 hey i wanted to be his kitten
+creations-chat 2022-11-06 14:58:01 very
+creations-chat 2022-11-06 15:00:13 how long did that take for u to figure out? im pretty sure were all nerds here
+creations-chat 2022-11-06 15:03:45 now make a t90 tank
+the-dump 2022-11-06 18:47:47 rhhf#
+the-dump 2022-11-06 18:48:44 i dont have 12 hours on plane crazy, thats just the amount of time that ropro recorded since i got it
+the-dump 2022-11-06 18:50:18 its just a visual bug where it doesnt show u how many players are in a game
+the-dump 2022-11-06 22:31:52 who are u
+creations-chat 2022-11-11 01:32:07 its not that bad, its as good as my small car
+creations-chat 2022-11-11 02:27:42 getting gooder. but actually though, just watch a motorlocking guide
+bot-central 2022-11-11 18:34:59 !rank
+creations-chat 2022-11-12 19:26:15 apparently mods wont do anything about the mirage build even though its low effort af
+creations-chat 2022-11-12 19:28:36 im not reading all that1!!!
+creations-chat 2022-11-12 19:31:32 ive been dissapointed, this server is filled with nerds that will send u death threats because ur build doesnt fit its blueprint like we play plane crazy our whole life.
+creations-chat 2022-11-12 19:35:17 because theyre jefferys with nothing to do in their life probably
+creations-chat 2022-11-12 19:37:55 plane crazy has always been my choice of a building game
+creations-chat 2022-11-12 19:46:15 u probably should just so no one makes fun of u for being a white name
+creations-chat 2022-11-12 19:50:14 delete it
+help 2022-11-12 19:51:10 get better
+creations-chat 2022-11-12 19:52:19 and
+creations-chat 2022-11-12 19:54:53 and delete the one from reddit too, i saw that
+creations-chat 2022-11-12 19:58:19 if i spam block and the mods warn it for low effort then this server is a communist
+creations-chat 2022-11-12 20:12:53 its a democracy, whoever upvotes/downvotes, people follow (not really a democracy, more of a jojo reference if u ask me)
+creations-chat 2022-11-18 01:31:12 whitenames, dont post shit ur saying looks ass, weve seen a lot of that already we dont need ur shitass builds
+creations-chat 2022-11-19 19:47:02 <@678279674782285824> omg fart phunder!!!!!!!11
+the-dump 2022-12-02 01:53:31 joe biden will die on march 2nd, 2023
+the-dump 2022-12-02 01:54:03 this isnt a prediction, it is a promise
+the-dump 2022-12-02 01:54:17 i will have nothing to do with his death
+events-chat 2022-12-04 23:00:52 .
+events-chat 2022-12-04 23:01:07 also nice grammar
+creations-chat 2022-12-15 03:08:12 i posted but didnt see the bot was broken 
+
+also 10/10 grammar
+creations-chat 2022-12-16 23:44:50 do i need more angles or is that enough?
+creations-chat 2022-12-17 00:40:04 yes.
+creations-chat 2022-12-17 01:27:34 holy shit i wasnt expecting to have that ratio of my mx5 build
+creations-chat 2022-12-17 02:09:45 i dont procastinate that much
+creations-chat 2022-12-17 02:32:18 poo whie
+creations-chat 2022-12-17 05:24:11 <@652925710976942100> nice build, very creative
+creations-chat 2022-12-19 03:58:39 can i use the same creation i used to get a role, on getting another role on the same category
+creations-chat 2022-12-21 00:32:53 that looks shit
+creations-chat 2022-12-21 00:35:04 just make a tower, no other exceptions
+creations-chat 2022-12-21 01:04:12 <@813781936983113798> what did i just say 
+"stop posting builds, it hurts my eyes"
+the-dump 2022-12-22 00:45:54 
+the-dump 2022-12-22 00:46:19 ur mom
+the-dump 2022-12-22 00:46:38 https://tenor.com/view/demoman-heavy-scout-medic-tf2-gif-19939221
+the-dump 2022-12-22 00:46:50 i think it was the bot
+the-dump 2022-12-22 00:46:55 hyperbot
+the-dump 2022-12-22 00:47:22 then idfk
+the-dump 2022-12-22 00:47:29 i just assumed
+the-dump 2022-12-22 00:47:33 i just got here
+the-dump 2023-06-17 02:44:59 
+the-dump 2023-06-17 02:45:51 where should he start
+the-dump 2023-06-17 02:46:19 i would do it for free
+the-dump 2023-06-17 02:58:27 donut

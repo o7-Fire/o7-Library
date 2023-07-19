@@ -1,0 +1,35 @@
+The Tale of blockymaster (485864349529931776)
+bot-central 2021-12-24 18:22:49 !rank
+bot-central 2021-12-24 21:12:42 ! tank
+bot-central 2021-12-24 21:12:46 !rank
+the-dump 2021-12-24 21:18:33 pov
+help 2021-12-24 21:21:43 Oh btw how you do that
+help 2021-12-24 21:22:10 I tried on my tank but they keep falling
+help 2021-12-24 21:22:22 I Also tried signs and cameras
+help 2021-12-24 21:24:17 kk
+bot-central 2021-12-24 21:25:16 !rank
+help 2021-12-24 21:53:15 Yes
+help 2021-12-24 21:53:21 Use motor 2s
+help 2021-12-24 21:54:10 cool
+help 2021-12-24 22:06:40 What configurstions do you have?
+help 2021-12-24 22:12:19 Yeah disable that
+help 2021-12-24 22:12:28 And try
+help 2021-12-24 22:12:38 Thats the thing
+help 2021-12-24 22:14:09 Does It work
+help 2021-12-24 22:17:33 Yeah arm on key is like to confirm
+help 2021-12-24 22:17:44 You really want It to explode
+help 2021-12-24 22:18:01 Atleast i use It that way
+help 2021-12-24 22:18:05 lol
+help 2021-12-25 11:17:48 what to imrpove?, also, i have a problem, how do i make this thing move, i cant use the wheels since they are motorlocked to be together
+help 2021-12-25 11:18:21 well uh how do i start
+help 2021-12-26 16:10:43 how to make those
+help 2021-12-26 16:10:49 like the camouflage
+help 2021-12-26 22:00:31 Yep just restart sorry to be rude but thats not good
+help 2021-12-26 22:01:54 Lmao
+help 2021-12-27 12:36:18 theres any way to fix turret jamming? (With motor 2s)
+help 2021-12-27 12:36:34 My turret works uh kind of weird
+help 2021-12-27 12:42:41 well how :/
+help 2021-12-27 14:36:00 why pistons? Where should they go
+help 2021-12-27 14:39:12 kk
+creations-chat 2021-12-30 20:43:48 Su 27, I tried.
+bot-central 2022-01-05 11:49:16 cockpit

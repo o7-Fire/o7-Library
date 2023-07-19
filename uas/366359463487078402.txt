@@ -1,16 +1,225 @@
-~`.Lιყα.`~
-plane-crazy 2020-06-01 20:20:52 It's weird.
-plane-crazy 2020-06-01 20:20:48 But the game was still running.
-plane-crazy 2020-06-01 20:20:40 For me everybody's builds just vanished, chat got disabled and I couldn't jump or anything.
-plane-crazy 2020-06-01 20:19:40 kick you out instantly or
-plane-crazy 2020-06-01 20:19:33 did it like
-plane-crazy 2020-06-01 20:19:28 what happened exactly?
-plane-crazy 2020-06-01 20:09:55 hasnt happened in flight mode
-plane-crazy 2020-06-01 20:09:45 i didnt lose anything it just keeps happening when im in build mode
-plane-crazy 2020-06-01 20:09:32 not bad
-plane-crazy 2020-06-01 20:09:07 then crashes
-plane-crazy 2020-06-01 20:09:04 then stays for a sec
-plane-crazy 2020-06-01 20:08:56 just removes my vehicle
-plane-crazy 2020-06-01 20:08:51 no its happened to me 3 times
-plane-crazy 2020-06-01 20:07:47 it happened to me aswell
-plane-crazy 2020-06-01 20:03:10 can nails be biodegradable?
+The Tale of ~`.Lιყα.`~ (366359463487078402)
+bug-reports 2020-06-01 19:44:21 For some reason all the games I go in despawn everyone in the server's vehicles, disable chat and movement until we join a new game. Is this happening to anyone else at the moment? It started happening about 20-30 minutes ago :/
+bug-reports 2020-06-01 20:06:07 just happened again
+bug-reports 2020-06-01 20:06:23 im going to record my game session and post it here when it happens
+creations-chat 2020-06-01 20:08:40 it's happened to me 3 times in the past 40 minutes, I don't know what's happening.
+creations-chat 2020-06-01 20:22:03 why is everyone downvoting all the builds in <#384025409945337856> lol
+creations-chat 2020-06-01 23:03:39 <@!393679134779375616> nice SU-27
+creations-chat 2020-06-01 23:04:13 fast aswell lol
+creations-chat 2020-06-01 23:04:43 dinnerbone
+creations-chat 2020-06-01 23:04:46 ?
+bot-central 2020-06-03 15:02:38 ?shelp
+creations-chat 2020-06-03 20:39:05 What would be a good thing to use for rails (like fences) for a ship?
+creations-chat 2020-06-03 20:39:44 Thanks!
+creations-chat 2020-06-03 21:43:28 honestly sounds tempting
+help 2020-06-03 21:50:04 Is it better to make an elevator using friction blocks (idk how they work) or just use 1x0.9 blocks?
+creations-chat 2020-06-03 22:11:39 Does the panoramic view room look ok? Or do you think it should be a seating area that has bars etc so it looks like a normal one?
+creations-chat 2020-06-04 16:46:37 the shape looks good but the camo could be better 👍
+creations-chat 2020-06-04 20:54:28 I need some ideas of what to build in my entertainment area on my cruise. Anyone got any?
+creations-chat 2020-06-04 21:01:48 ?
+creations-chat 2020-06-04 21:02:33 i prefer the other way round
+creations-chat 2020-06-04 21:07:12 This is it so far, there will be another deck with the bridge on it, a full sinking mechanism, full ship lighting, working elevators and lifeboats. Also that big glass room on B Deck is a Panoramic Viewing Room, should I keep it or change it to a normal seating area?
+bug-reports 2020-06-04 21:26:02 When I change my time from night to day, the lighting kinda screws up and makes the game look quite dim even though it is meant to be day. It can fix when you quickly change your time from day-night again but it is very annoying when I'm doing something with lighting then start building and the game is really dim.
+creations-chat 2020-06-04 22:01:03 Awesome man!
+creations-chat 2020-06-04 22:01:31 I never plan anything in advance, I just start building and kinda... go with it.
+creations-chat 2020-06-06 23:17:49 Has anyone got a modern lifeboat they don't mind sharing for me to use on my cruise? I'm struggling to build a good one lol
+creations-chat 2020-06-06 23:37:19 <@!480746414293647360> thanks will try now 👍
+creations-chat 2020-06-07 20:52:41 was it just ladders and train wheels added today?
+bug-reports 2020-06-07 21:05:52 So I just replaced my wedge ladder for the normal ladders added, and only half of them seem to want to work.
+bug-reports 2020-06-07 21:07:00 > After despawning my creation my gui freezes for around 30 seconds
+<@!551806781609869313> happens to me aswell
+creations-chat 2020-06-08 20:53:21 is it just me or has the motor 2 just broke recently
+creations-chat 2020-06-08 20:54:05 like im trying to build a folding door for my plane and when i use it sometimes it goes 1 way sometimes it goes the other (pressing the same key and no configurements)
+help 2020-06-12 16:30:16 Ok so for some reason whenever my friend spawns his plane a block appears under his front landing gear out of nowhere and we can’t find where it’s coming from. Is this just a glitch that spawns a block because it seems to go through the landing gear aswell?
+help 2020-06-12 16:32:35 Ok update it only does it at normal base, it doesn’t spawn when he is at the airport
+help 2020-06-12 16:39:40 Hi thanks for the suggestion, it’s too high to raise but for some reason he can’t lower it even through there is 4-5 blocks under it
+help 2020-06-12 16:41:23 
+help 2020-06-12 16:42:38 Wait
+help 2020-06-12 16:42:42 We think we have found it
+help 2020-06-12 16:42:52 He did manage to raise it and yeah there was a block under
+help 2020-06-12 16:42:57 Thanks for the help!
+creations-chat 2020-06-16 23:29:21 why ; - ;
+creations-chat 2020-06-16 23:29:39 it gets stuck :/
+creations-chat 2020-06-16 23:29:59 i mean i know how to fix it
+creations-chat 2020-06-16 23:30:05 but i cant be bothered lol
+creations-chat 2020-06-16 23:31:17 nvm
+creations-chat 2020-06-16 23:31:22 fixed but now its wobbly
+creations-chat 2020-06-16 23:31:49 nvm again it was on toggle thats why
+creations-chat 2020-06-16 23:51:31 is there a wedge that can fit in that?
+creations-chat 2020-06-16 23:52:19 <@!615876745710534676> thats an svj
+creations-chat 2020-06-16 23:52:29 kk thanks
+creations-chat 2020-06-16 23:53:12 it cant because its a half wedge
+creations-chat 2020-06-16 23:53:44 just does that :/
+bug-reports 2020-06-17 14:46:41 need i say more
+bug-reports 2020-06-17 14:47:51 it does it all the time
+bug-reports 2020-06-17 14:47:54 on every block
+creations-chat 2020-06-17 16:57:56 what looks better? 3 long or 4? (engine thing idk what they are called)
+creations-chat 2020-06-17 16:58:41 k thanks
+creations-chat 2020-06-17 16:58:54 i didnt add the thing though is it still 4?
+creations-chat 2020-06-17 16:59:04 oh shoot forgot again
+creations-chat 2020-06-17 16:59:05 wait a sec
+creations-chat 2020-06-17 16:59:56 k final sorry about that, 3 long or 4?
+creations-chat 2020-06-17 17:01:25 yeah it was just where i didnt have the triangle wedges i think
+creations-chat 2020-06-17 17:42:01 oh ok
+creations-chat 2020-06-17 17:42:39 wait u sure?
+creations-chat 2020-06-17 17:42:51 5 degrees barely looks different to staright
+creations-chat 2020-06-17 17:43:10 
+creations-chat 2020-06-17 17:52:25 so its 15 degrees?
+creations-chat 2020-06-17 17:52:31 ok thanks
+creations-chat 2020-06-17 17:53:30 yeah it looks a lot better now
+creations-chat 2020-06-17 17:53:41 
+creations-chat 2020-06-21 20:18:58 2 high or 3?
+creations-chat 2020-06-21 20:19:28 im thinking 2 but idk if it will look better as 3 when i build it up
+creations-chat 2020-06-21 20:20:01 k nvm got my anwser
+creations-chat 2020-06-21 20:32:51 ayy
+creations-chat 2020-06-21 20:32:53 finally
+creations-chat 2020-06-21 20:32:54 update
+creations-chat 2020-07-06 00:52:22 i dont see whats wrong here
+creations-chat 2020-07-06 18:50:01 anyone know what fold i would use to fold this / what position to put it
+creations-chat 2020-07-08 22:49:53 Is there anyone I can report a user to?
+creations-chat 2020-07-08 22:50:27 ahh damn
+creations-chat 2020-07-08 22:50:47 There's this dude in my game right now who wrote the F word on his plane and doesnt care
+creations-chat 2020-07-10 19:14:00 Guess the YouTuber
+creations-chat 2020-07-10 19:14:30 fast
+creations-chat 2020-07-10 19:14:32 and correct
+creations-chat 2020-07-10 19:14:40 now i gotta do the background ; - ;
+creations-chat 2020-07-10 19:26:15 that is too realistic im scared
+creations-chat 2020-07-10 20:13:37 1:1 scale Titanic. The bow draft. (for anyone asking, of course this is a multi-person project, over 6 plots)
+creations-chat 2020-07-10 20:14:33 ?
+creations-chat 2020-07-10 20:14:38 me?
+creations-chat 2020-07-10 20:14:49 why exactly lol?
+creations-chat 2020-07-10 20:14:56 oh it isnt
+creations-chat 2020-07-10 20:15:29 I only find huge builds fun :/
+creations-chat 2020-07-10 21:39:10 big enough?
+creations-chat 2020-07-10 21:40:36 yeah right
+creations-chat 2020-07-10 21:41:02 5 folds, each part 27 wide
+creations-chat 2020-07-10 21:41:16 unless huge plots are incoming it wont happen
+creations-chat 2020-07-10 21:41:55 Oh I thought they were rewriting the game so it could happen
+creations-chat 2020-07-10 21:42:09 yeah exactly
+creations-chat 2020-07-10 21:42:17 they are rewriting it as softcode
+creations-chat 2020-07-10 21:42:22 oh
+creations-chat 2020-07-10 21:42:31 umm
+creations-chat 2020-07-10 21:42:33 ages ago
+creations-chat 2020-07-10 21:42:40 someone posted it
+creations-chat 2020-07-10 21:42:55 in <#529858892075761694> i think
+creations-chat 2020-07-10 21:43:21 look
+creations-chat 2020-07-10 21:46:19 omg i totally need 1x100 wedges
+creations-chat 2020-08-06 23:52:19 boi u ever seen a nicer funnel
+creations-chat 2020-08-06 23:52:30 p e r f e c t i o n
+creations-chat 2020-09-10 19:22:11 anyone got any good anchor designs for on deck?
+help 2020-09-10 19:23:20 Anyone got any good anchor designs for a yacht? (on deck)
+help 2020-09-10 19:26:17 Preferably to fit in a 4x3 space
+creations-chat 2020-09-10 19:31:18 sm o l
+help 2020-09-10 19:50:53 no i mean static, not actually working
+help 2020-09-10 19:51:01 so it looks like an anchor
+help 2020-09-10 19:51:10 sorry i didnt say that
+creations-chat 2020-09-29 18:35:37 ok so im makjng a landing gear bay door for a 737, and i using locked motors for something, but fsr the top motor wont lock despite being unpowered and on lock. any advice?
+help 2020-09-29 18:39:57 so im making landing gear, currently doing the hatch, and anyone know why the top motor wont lock? its unpowered and locked, and so is the bottom one
+creations-chat 2020-09-29 18:44:09 anyone have any idea as to why the top motor refuses to lock??
+creations-chat 2020-09-29 18:45:47 i made it 1x0.9 and it still won't do it... :/
+creations-chat 2020-09-29 18:47:37 > i made it 1x0.9 and it still won't do it... :/
+<@!688199362207416485> sorry for ping but it didn't work, any other ideas?
+creations-chat 2020-09-29 19:12:48 Does this 737 wing look ok??
+creations-chat 2020-09-29 19:17:29 ok i need wing 2... how do i do a 90 degree fold :p
+creations-chat 2020-09-29 19:41:26 Anyone know how to make a 90 degree wing fold?
+creations-chat 2020-09-29 19:45:47 https://tenor.com/view/among-us-among-us-kill-gif-18546011
+creations-chat 2020-09-29 19:46:42 https://tenor.com/view/amongus-gif-18398267
+creations-chat 2020-09-29 20:23:57 how does it look so far??
+creations-chat 2020-09-29 22:51:06 ok im stuck here- im trying to make a 90 degree fold for my plane and nothing i have tried works- anyone have any pictures of theirs they could share? thanks in advance
+creations-chat 2020-09-29 22:58:08 anyone know how to make a 90 degree fold- ik it sounds dumb but i cant figure it out rn
+creations-chat 2020-09-29 22:58:34 ok thanks
+help 2020-09-29 22:58:44 ok so u here?
+help 2020-09-29 22:58:57 <@!484529511468236802>
+help 2020-09-29 22:59:14 ok so
+help 2020-09-29 22:59:28 a plane tail to connect to my main fuselage
+help 2020-09-29 22:59:33 so let me send a pic
+help 2020-09-29 23:00:14 it is currently  complete mess but i cant get it to fold whatsoever
+help 2020-09-29 23:00:43 oops wait
+help 2020-09-29 23:01:02 yeah
+help 2020-09-29 23:01:08 wait nvm
+help 2020-09-29 23:01:17 and yes let me get that
+help 2020-09-29 23:01:48 
+help 2020-09-29 23:02:00 
+help 2020-09-29 23:02:56 
+help 2020-09-29 23:03:28 and before you say - i did it back one so it wasn't touching beforehand, that didn't work either.
+help 2020-09-29 23:04:04 https://cdn.discordapp.com/attachments/746524144018915411/760626442198712350/unknown.png
+help 2020-09-29 23:04:12 that is the one i was copying off my friend
+help 2020-09-29 23:04:38 what do you mean by "tippy top"?
+help 2020-09-29 23:04:58 ah
+help 2020-09-29 23:05:51 about that or one higher?
+help 2020-09-29 23:06:03 I have my own VIP server, yes
+help 2020-09-29 23:07:10 kk
+help 2020-09-29 23:08:09 Ok then how do I attach it to the actual fuselage, with a block, wedge, half block etc?
+help 2020-09-29 23:09:52 it still doesnt work... it just spins freely
+help 2020-09-29 23:10:10 no, its powered
+help 2020-09-29 23:10:51 
+help 2020-09-29 23:11:18 
+help 2020-09-29 23:12:57 yes
+help 2020-09-29 23:13:38 both i think
+help 2020-09-29 23:13:48 wait no
+help 2020-09-29 23:13:51 plane crazy
+help 2020-09-29 23:14:03 there are tutorials for that on yt
+help 2020-09-29 23:15:14 this chat just got popular-
+creations-chat 2020-09-29 23:15:30 wtf-
+help 2020-09-29 23:16:19 oh god ok-
+help 2020-09-29 23:16:29 reminds me of the early days of my ships
+help 2020-09-29 23:18:43 ok so ive done it
+help 2020-09-29 23:18:45 
+help 2020-09-29 23:19:17 oh wait
+help 2020-09-29 23:19:18 and it just detatches-
+help 2020-09-29 23:19:40 yep i see now
+help 2020-09-29 23:19:42 my fualt
+help 2020-09-29 23:19:45 fault*
+help 2020-09-29 23:22:10 right- i see it now
+help 2020-09-29 23:22:14 there was some uh
+help 2020-09-29 23:22:19 "miscommunication"
+help 2020-09-29 23:22:37 turns out our shapes aren't the same
+help 2020-09-29 23:22:49 and thats my fault because i changed it
+help 2020-09-29 23:22:55 dont worry its not that
+help 2020-09-29 23:23:29 ok nvm
+help 2020-09-29 23:23:30 wait
+help 2020-09-29 23:24:10 ok so you have no gap but i do
+help 2020-09-29 23:24:34 no no i mean
+help 2020-09-29 23:24:53 so how your shapes cross over?
+help 2020-09-29 23:26:20 ok ok im confused- can we start again? not with the build, i mean the instructions how to do it
+help 2020-09-29 23:26:45 i am so sorry about this i dont understand stuff very easily
+help 2020-09-29 23:27:25 ok yep got that
+help 2020-09-29 23:27:47 yep
+help 2020-09-29 23:29:02 hold on hold on
+help 2020-09-29 23:29:09 let me just finish that bit
+help 2020-09-29 23:30:01 done
+help 2020-09-29 23:30:12 ok done the wedge
+help 2020-09-29 23:30:44 what next?
+help 2020-09-29 23:30:49 ive got this:
+help 2020-09-29 23:31:13 little hard to see
+help 2020-09-29 23:31:55 well- not mine but my friends
+help 2020-09-29 23:32:01 i do have my own though
+help 2020-09-29 23:32:49 yep
+help 2020-09-29 23:32:52 now the cameras?
+help 2020-09-29 23:34:03 yep but where do i put the cams again?
+help 2020-09-29 23:34:09 kk thanks
+help 2020-09-29 23:36:06 oh yes it works finally!
+help 2020-09-29 23:36:08 tysm
+help 2020-09-29 23:38:27 ah ok
+help 2020-09-29 23:38:29 tysm!!
+bot-central 2020-10-01 20:54:02 ?whois
+creations-chat 2020-10-03 15:24:54 ok so im currently building a plane, it has two fuselage folds and fsr it shakes like CRAZY whenever I unfold it and i cant get it to stay normal. anybody have the same problem or is it just me?
+creations-chat 2020-10-03 15:25:31 ^ it just does that idk how to fix it
+creations-chat 2020-10-03 15:27:04 i used the normal motor that didnt work, i just set both motor 2s to 89.99 and it still does the same thing
+creations-chat 2020-10-03 15:29:58 yeah cause they need to unfold
+creations-chat 2020-10-03 15:32:41 <@!387195148741771275> you can't lock motor 2-
+creations-chat 2020-10-03 15:33:12 no bcos its angled at 85 degrees to look more realistic
+creations-chat 2020-10-03 15:34:19 see the ends look  lot more realistic with the slight bend
+creations-chat 2020-10-03 15:34:43 this is my first plane ive built lol dont judge
+creations-chat 2020-10-03 15:35:27 no second i built my sr-71 a while ago but meh
+creations-chat 2020-10-03 15:36:02 my sr-71 is terrible
+creations-chat 2020-10-03 15:41:20 upvoting your own build is like buying laced shoes but not knowing how to tie them.
+there's no point.
+creations-chat 2020-10-03 15:42:27 *gets ready to ping some admins*
+creations-chat 2020-10-03 15:42:46 ok but its nsfw
+creations-chat 2020-10-03 15:43:19 good boi
+creations-chat 2020-10-22 20:42:14 is it normal that me and my friend no clip through each others' builds??
+creations-chat 2020-10-22 20:44:18 we haven't blacklisted
+help 2020-12-10 17:40:13 Hi I'm not exactly new to the game but I've never used magnets before... is there any way we can connect builds using them? Thanks
+bot-central 2020-12-23 10:12:25 ?wi
+bot-central 2020-12-23 10:12:28 ?whois

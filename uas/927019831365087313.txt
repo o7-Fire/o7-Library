@@ -1,0 +1,70 @@
+The Tale of Tabie (927019831365087313)
+bot-central 2022-03-21 10:49:37 -verify IceR1ce
+help 2022-04-12 16:29:41 making a pvp plane but decided to make a weapons bay, should i keep it?
+bot-central 2022-04-12 16:31:30 !rank
+help 2022-04-12 16:32:54 i agree, but i have 2 rockets in each weapons bay, one tracking and one untracking, not planning to use bombs since id have to respawn to reload the bombs
+help 2022-04-12 16:33:23 may i ask why?
+help 2022-04-12 16:33:32 i use them as normal missiles
+help 2022-04-12 16:34:13 i dont recall my own rockets hitting my own blocks and exploding, im pretty sure it goes through my blocks
+help 2022-04-12 16:34:25 unless i shoot it with my own gun, then it'd be game over
+help 2022-04-12 16:35:06 i started playing plane crazy like a month ago
+help 2022-04-12 16:35:10 i dont have it yet
+help 2022-04-12 16:35:28 ill make sure of that
+help 2022-04-12 16:35:38 it looks pretty but it costs me extra weight
+help 2022-04-12 16:36:49 in my rather unreliable experience of pvp games, i never had my rockets explode on me
+help 2022-04-12 16:37:31 ill take your word for it and place it under
+help 2022-04-12 16:37:38 its lethal if it explodes there anyway
+help 2022-04-13 09:30:47 ive basically made a eurofighter on steorids, should i remove the rods on the tip of the wings and nose?
+help 2022-04-13 10:39:00 i motorlocked wing panels into the control panels
+help 2022-04-13 10:39:20 its mouse-controlled, its pretty stable at 1300~ sps
+help 2022-04-13 16:16:18 sorry for late reply. you mean the rudders?
+help 2022-04-13 16:16:27 i used f-22-style rudders for the plane
+help 2022-04-13 16:37:13 dont think i can fix that without any complications, its the best one i can come up without having to make another motorlock tower
+help 2022-04-13 16:37:18 its for pvp, afterall
+help 2022-04-13 16:38:11 it has a conveyor drive in it that i use to make the plane unstable with the click of a button, enhancing its turning for a second
+help 2022-04-13 16:38:33 i will for the one that ill post in <#384025409945337856>
+help 2022-04-13 16:39:11 i thank you a lot for the help
+bot-central 2022-04-13 18:41:08 !rank
+bot-central 2022-04-18 10:12:44 !rank
+bot-central 2022-04-18 10:12:51 -ms
+help 2022-04-18 17:35:24 yaw makes the plane point downwards, ive tried installing propellers to counter the spin or propellers to lift the plane's nose upwards, but none of it seems to work, let alone efficiently
+help 2022-04-18 17:36:47 very helpful
+help 2022-04-18 17:37:49 seriously though, i need some help
+help 2022-04-18 17:38:04 first time putting drift in my plane
+help 2022-04-18 17:54:50 right below the rudders
+help 2022-04-18 17:55:22 i wanted as much yaw as possible at low speeds so i put lots of propellers for the yaw
+help 2022-04-18 17:56:53 i found out that putting the rudders below the plane reduces the twist that points my plane downwards, but it looks strange when i put the rudder below the plane
+help 2022-04-18 18:05:46 doesnt change things too much
+help 2022-04-18 18:06:37 then itll spin because of the wing panels i have in front of the planes
+help 2022-04-18 18:06:41 but ill try it anyway
+help 2022-04-18 18:07:46 <@698587744842022983> very helpful, but now i cant drift the plane
+help 2022-04-18 18:08:10 but i think putting some wing panels below the plane will fix the spin without having to get rid of my rudder
+help 2022-04-18 18:08:21 im in my priv since public servers are noisy
+creations-chat 2022-04-19 16:13:40 yea i pretty much based the plane off of this but i couldnt figure out how to make the 2d exhaust so i used jet engines instead, didnt really know that the j-20 existed until now
+
+is there anything i should fix on the plane?
+creations-chat 2022-04-19 16:16:34 i wasnt aiming towards a pvp plane, but since it was more maneuverable than i expected, i decided to strap on some rockets under the wings
+help 2022-04-24 19:10:33 is it supposed to take this long? i calculated that i have at least 50 upvotes twice with a calculator
+help 2022-04-24 19:10:57 do i have to ping a mod for it?
+help 2022-04-24 19:25:29 you are as serious as a grape
+help 2022-04-24 19:26:42 its not like the mods are working on the game
+help 2022-04-24 19:27:04 yes
+help 2022-04-24 19:27:06 exactly
+bot-central 2022-04-25 18:10:31 !rank
+bot-central 2022-04-25 19:48:18 -servers
+bot-central 2022-04-30 18:04:48 !servers
+bot-central 2022-04-30 18:04:53 -servers
+the-dump 2022-05-01 10:36:48 yousuf is just gonna check who is reacting to the stars and warn the usernames 💀
+creations-chat 2022-05-14 19:22:12 feedback on crystal thing
+bot-central 2022-06-03 08:08:51 -servers
+the-dump 2022-06-06 17:54:57 design
+the-dump 2022-06-20 20:24:35 an ai generated this image
+the-dump 2022-06-20 20:24:55 you put some words into the textbar thingy and out comes an image
+the-dump 2022-06-20 20:47:02 the website?
+the-dump 2022-06-20 20:47:08 https://hypnogram.xyz/
+the-dump 2022-06-20 20:49:36 what did you put in?
+the-dump 2022-06-20 20:49:49 im gonna try rickje
+bot-central 2022-06-30 20:08:36 -servers
+bot-central 2022-07-01 19:47:31 -servers
+bot-central 2022-08-12 19:29:36 -servers
+bot-central 2022-09-23 17:12:48 -servers

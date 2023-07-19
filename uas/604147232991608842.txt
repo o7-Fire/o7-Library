@@ -1,0 +1,297 @@
+The Tale of theswirlyswoosh (604147232991608842)
+creations-chat 2021-06-20 22:01:39 is there a way to put wings on halfblocks vertically?
+creations-chat 2021-06-20 23:10:51 put half blocks below the wing and the motor, right?
+creations-chat 2021-06-21 00:28:07 when placing control surfaces in the nose im assuming u place it vertically right?
+creations-chat 2021-06-21 00:36:19 when putting control surfaces in the nose u do it vertically right
+also in hover engines u should put drag to 0 right
+what settings should u use for hover engines in general tbh
+help 2021-06-21 14:28:40 are there any ways to stop speed wobbles?
+help 2021-06-21 14:28:50 i have control surfaces in the nose already
+creations-chat 2021-06-21 14:29:20 are there any ways to stop speed wobbles?
+i have control surfaces in the nose already
+creations-chat 2021-06-21 14:31:21 i already did that too
+help 2021-06-21 15:06:54 whenever i point my mouse up and down (to control the control surface direction) like 4 of them point the other way, is there a way to fix this?
+help 2021-06-21 15:07:03 all of them are on the default settings
+help 2021-06-21 15:09:55 ..thats literally it?
+help 2021-06-21 15:11:08 ok ig
+help 2021-06-21 15:55:16 im trying to get the summer items and its not working
+help 2021-06-21 15:55:24 im standing directly on them and it just wont work
+bug-reports 2021-06-21 15:57:49 cant get summer items
+bug-reports 2021-06-21 15:58:46 maybe if they put out an announcement people would know that they are fixing it bruv
+help 2021-06-24 01:12:18 so my plane is having trouble going up and down fast enough, rn its pretty slow. i have control surfaces in the nose but their w cuz someone told me to put them that way
+help 2021-06-24 01:12:59 also my thrusters are w and s but i do barrel roles with a and d, so i control the turning most of the time with my mouse
+help 2021-06-24 01:13:03 anyone got tips
+help 2021-06-24 04:06:57 nice man
+help 2021-06-24 04:08:42 sorry i thought the mechanics were good
+help 2021-06-24 17:07:55 so i see people with all these planes that can go up and down and do barrel roles really fast, how do i do that lol
+help 2021-06-24 17:08:15 i can do barrel roles with my plane and stuff but idk if i have the right controls
+help 2021-06-24 17:08:55 w and s is my rocket thrust, a and d makes me do barrel roles and i have glitch mouse so i control it most of the time with my mouse
+help 2021-06-24 17:09:27 however i feel like it would be easier to control without the mouse, but that also means i cant look around me so is there a fix to that
+help 2021-06-24 17:13:32 ok
+creations-chat 2021-06-24 17:16:56 how do people figure out the scale, like is 1 meter 1 block or something
+help 2021-06-24 18:48:32 ok so i did the custom flaps with the motor and everything but whenever i use glitched mouse they dont go up or down with the motor, is there a way to fix this
+help 2021-06-24 23:43:36 so i see people tilt their planes to turn but whenever i do it it always goes up or down at the same time and im wondering how people do that lol
+help 2021-06-24 23:44:21 ~~also yes this is supposed to be jsolos dragon fighter im a beginner and i wanted to make it so i could study how people use certain blocks, im planning to make a ww2 plane soon~~
+help 2021-06-24 23:44:35 ..
+help 2021-06-24 23:44:58 tbh i have no idea what any of them are called but i just want an old one lol
+help 2021-06-24 23:45:29 something like dis maybe
+help 2021-06-24 23:45:47 yeah i use a and d to tilt
+help 2021-06-24 23:45:54 thats how ur supposed to do it right
+help 2021-06-24 23:45:57 i use glitched mouse
+help 2021-06-24 23:47:27 just tell me what keybinds i should use man
+help 2021-06-24 23:47:53 literally no one has helped me with any of my problems here lol
+help 2021-06-24 23:47:56 well now ig 1 has
+help 2021-06-24 23:48:06 ok ig
+help 2021-06-28 02:43:22 where yall get ur plane blue prints?
+help 2021-06-28 02:43:32 do u just grab it off the first page of google or
+help 2021-06-28 02:56:26 ty
+help 2021-06-28 02:59:39 found one seems decent
+help 2021-06-28 02:59:45 northrop F-5 freedom fighter tiger 2 btw
+help 2021-07-01 19:38:54 is there a way to get custom half blocks with motor locking?
+help 2021-07-01 19:39:14 like i want a half wedge 1x4, but its not an option so can i use motor locking to do so
+creations-chat 2021-07-06 12:27:16 https://streamable.com/yg40bz first proper build that isnt a tutorial no i dont have suspension im working on it - gta 5 chernobog
+creations-chat 2021-07-06 12:30:22 just now realizing how fortnite da baby amon gus balls sussy infected this server is
+creations-chat 2021-07-06 12:59:00 im the only one who did lol
+creations-chat 2021-07-06 13:04:03 well how do i improve it then
+creations-chat 2021-07-06 13:06:44 it is aiming from the back tho? whenever i launch it it just rotates the other way idk how to describe it but it is rotating around the back end of the truck
+creations-chat 2021-07-06 13:10:00 it isnt backwards but i mean if it is it isnt really a problem https://streamable.com/8cwhrb i get why u would think its backwards which i guess it is but if i pointed it fowards it would just blow me up and also its kinda harder to aim through an entire truck lmao
+creations-chat 2021-07-06 13:43:01 listen man idk why it doesnt pop up when shooting
+help 2021-07-22 13:48:07 so im messing with double wish bone suspension, this is the turning mechanism for it, but it keeps on shaking when i try to turn. can anyone help me with this?
+
+https://streamable.com/2gst4k
+help 2021-07-22 13:49:36 https://streamable.com/orkhbc
+help 2021-07-22 13:54:53 can u specify pls
+help 2021-07-22 13:58:49 ..how am i supposed to fix that tho
+help 2021-07-22 13:59:18 if i use motor one to steer it oversteers, and u cant set the angle too it either so it just steers into itself
+help 2021-07-22 13:59:53 you have a furry as yours we are equal
+help 2021-07-23 19:08:53 does anyone know how to fix motor 2 steering? whenever i use motor 2s to steer they just bounce tf out and its really annoying
+help 2021-07-23 19:13:30 also can someone fill me in on the decal block
+creations-chat 2021-07-25 03:42:45 might be confusing you with another dude but are u the guy who made the eva - 01 mech head
+creations-chat 2021-07-25 03:45:05 oh nvm ur not sorry my b
+help 2021-07-25 17:59:54 does anyone have a good link to a conveyor engine vid cuz i wanna make sure the one i use is able to slow down too
+help 2021-07-25 18:00:26 pog
+help 2021-07-25 18:02:20 piston on the top right
+help 2021-07-26 21:47:14 what angle do yall use for ur motor 2's when u use them to rotate wings
+help 2021-07-26 22:01:48 anyone have tips on stabilizing planes
+help 2021-07-26 22:09:56 god this community thrives but its also so fucking toxic
+help 2021-07-26 22:10:39 ig i can try
+help 2021-07-26 22:10:41 what ya need
+help 2021-07-26 22:11:57 prob a ballast tank can work
+help 2021-07-26 22:12:05 not sure tho, i dont make boats
+help 2021-07-26 22:12:30 also im kinda busy rn so thats all i can help u with
+creations-chat 2021-07-26 22:22:34 yeah thats what i said, do u want something
+creations-chat 2021-07-26 22:25:05 suspension powered tnt cannon, i think u can make it in low block count if u use ropes to hold the suspension back but idk the game mechanics that great
+creations-chat 2021-07-26 22:27:09 this is similar to the tnt idea but how bout a knife where if u press a button it just launches itself in (but still stays attached to the robot lol) ; or maybe a drill that saws from the inside? (i;e spinning cutter)
+creations-chat 2021-07-26 22:29:11 yeah that might work for both of them ngl
+creations-chat 2021-07-26 22:45:32 crying
+creations-chat 2021-07-26 23:11:55 idk ask nannoc22
+creations-chat 2021-07-26 23:43:46 doesnt say that in the channel description, didnt know
+creations-chat 2021-07-26 23:46:12 someone called someone else shit cuz they were a whitename so i kinda just assumed it was a memey thing, also gonna answer <@456226577798135808> cuz of slowmode, i thought u meant in this channel but i still didnt know lol
+help 2021-07-26 23:57:30 ayo so rn im using a conveyor engine as my thrust or whatever and its making steering and going up / down (basically any and all maneuverability) so im wondering how people stabilize conveyor engines
+help 2021-07-26 23:57:44 it just over-does turning and all that
+help 2021-07-27 00:09:25 should i just use a hover drive then or
+help 2021-07-27 00:12:07 ok
+help 2021-07-27 00:18:58 oh my fucking god its so much more stable what is this black magic
+help 2021-07-27 00:35:41 when putting control surfaces in the nose of the plane should i put it vertically or horizontally
+help 2021-07-27 00:36:48 ty
+help 2021-07-27 00:37:08 should i put them on mouse control or to a keybind i dont use
+help 2021-07-27 00:37:39 i use wasd control rn
+help 2021-07-27 00:39:30 kk
+help 2021-07-27 01:42:18 anyone know what day the winter event starts? i wanna get fireworks and im debating buying the gamepass or just waiting
+help 2021-07-27 01:42:56 aw man
+help 2021-07-27 01:43:31 are there yt tuts on that or can u explain
+help 2021-07-28 00:29:05 alright so can someone help me with barrel rolling
+help 2021-07-28 00:29:21 when i press a or d to roll it doesnt just roll it *keeps on rolling*
+help 2021-07-28 00:29:26 all i did was make the wings look better
+help 2021-07-28 00:29:29 its wasd controlled
+help 2021-07-28 00:29:48 the motors are the exact same, literally everything is the same the wing shape is just different
+help 2021-07-28 00:30:00 the weight is even on both sides too
+help 2021-07-28 00:32:50 hold on imma get a vid of it
+help 2021-07-28 00:36:18 https://streamable.com/dg2hx1
+help 2021-07-28 00:47:48 nvm i figured it out, the wings are getting stuck cuz of the way i motorlocked it. only 1 wing will get stuck, so the other wing is the only one rotating, and i cant un stuck the other wing so
+help 2021-07-28 00:47:53 ill try finding a solution
+help 2021-07-28 15:27:07 anyone know what these planes are called? i know they're seaplanes but i want the actual model name yk
+help 2021-07-28 15:27:16 
+help 2021-07-28 15:27:38 doesnt need to be those specific planes just similar to them
+help 2021-07-28 15:36:01 ty
+help 2021-07-28 16:59:53 ty again
+help 2021-07-29 22:11:59 when camera locking is there a way to stop the pilot seat from moving or is that just a con
+help 2021-07-29 23:17:19 is there a way to save camera locks? whenever i load my build again the angle is reset
+help 2021-07-29 23:35:05 wdym lock on command? is that a camera setting or something?
+help 2021-07-30 08:56:58 alright so if i motor lock a hover drive into another hover drive will it glitch or will it be stable i dont wanna waste my time doin it lol
+help 2021-07-30 23:10:10 no but now i want to, see you in 3 days
+help 2021-07-31 00:34:14 ty
+help 2021-07-31 04:54:32 alright so my plane shakes a bit when entering the 900+ zone, and rn i have cylinders in my motorlock, but would adding wing panels instead make it shake less?
+help 2021-07-31 05:59:11 ok would using 4 1x1 wing panels give me more stability then 1 4x1 wing panel or am i dumb
+help 2021-07-31 11:54:13 does 4 1x1 wing panels generate more stability then 1 1x4 wing panel or am i dumb
+help 2021-07-31 11:55:40 bet
+help 2021-08-02 19:53:04 what are some good sites for 3d models of planes
+help 2021-08-07 12:43:37 is there a way to tighten tank treads or is it just stuck a tiny bit big forever
+help 2021-08-07 12:44:01 put the wings inside it or sum idk
+help 2021-08-19 02:01:14 text signs dont have collision right? im planning a motorlock for tomorrow (dont have time rn, its 3 am just picturing it in my head) and it would help alot
+help 2021-08-19 03:05:09 cool cool
+help 2021-08-23 23:44:08 dont need help just need yall to decide
+help 2021-08-23 23:44:15 which wedge we usin
+help 2021-08-23 23:44:18 
+help 2021-08-24 00:05:29 like what bro
+help 2021-08-24 00:06:08 ohhh
+help 2021-08-24 00:06:30 yeah its a honda kei and the proper proportions would be a 1x1.5 wedge for the windshield but
+help 2021-08-24 00:06:33 thats simply not in the game
+help 2021-08-24 00:06:39 so i just made it a halfblock taller
+help 2021-08-24 00:09:11 heres a better pic
+help 2021-08-24 00:09:16 
+help 2021-08-24 00:09:43 
+help 2021-08-24 01:58:28 yes sir
+help 2021-08-24 01:58:35 orange circle was blocked for whatever reason
+help 2021-08-24 01:59:22 i did get this good pic tho, i worked on it more
+help 2021-08-24 02:16:48 cool
+help 2021-08-24 02:20:59 man i think its cool shush its my creation anyways
+help 2021-08-24 02:21:06 gonna post what i want bro
+help 2021-08-24 02:51:32 bro i said i didnt wanna motorlock the message below that
+help 2021-08-24 02:51:38 nvm
+help 2021-08-24 02:51:38 oh that was in another channel
+help 2021-08-24 02:51:45 but yeah i aint motorlockin fo today lol
+help 2021-08-24 02:51:59 well i did a bit for the back but i aint doin all that just for a halfblock of detail
+help 2021-08-24 02:52:16 he forgor to say forgor 💀  instead of forgot
+creations-chat 2021-08-24 03:07:08 maybe give it a bit more paint if u dont wanna be bombarded but other than that ye probably
+creations-chat 2021-08-24 03:50:00 should i build this 💀
+creations-chat 2021-08-24 03:54:02 some flying boat or sum?? idk tbh
+help 2021-08-24 21:49:07 idk what plane to make ngl
+help 2021-08-24 21:49:11 :/
+help 2021-08-24 21:49:31 duck plane
+help 2021-08-24 21:49:32 noted
+help 2021-08-25 23:40:15 are slabs a good block for thick wings on normal sized planes (preferably older ones) ?
+help 2021-08-25 23:40:24 like does it affect flight that much
+help 2021-08-25 23:40:41 because if i do use slabs ill motorlock wings in them
+help 2021-08-25 23:40:48 halfblock**
+help 2021-08-25 23:40:52 sorry my minecraft came out
+help 2021-08-25 23:43:01 maybe put a normal square and paint it black if its one of those kind of emojis but idk
+help 2021-08-25 23:43:40 alright
+help 2021-08-25 23:44:32 thanks btw
+help 2021-08-26 00:43:23 yeah i dont get why u wouldnt be able to paint a normal square black
+help 2021-08-26 00:43:28 some emojis u can paint the color of
+help 2021-08-26 00:43:40 like one of the star emojis i used on a chernobog i painted red
+help 2021-08-26 00:48:22 wdym u cant paint it any other color??
+help 2021-08-26 00:48:34 do u mean u can only paint emojis black or are u referring to ur windows
+help 2021-08-26 00:51:40 oh ok
+help 2021-08-26 00:51:51 also i thought u said u were using squares?
+help 2021-08-26 00:51:54 not circles
+help 2021-08-26 00:51:58 oh ok ig
+help 2021-08-26 00:52:20 but yeah idk how to help u with this any further
+help 2021-08-26 00:52:44 maybe disconnecters but judging on how small u need those emojis it prob not helpful
+help 2021-08-26 01:30:30 ive been noticing that alot of youtubers who have REALLY stable planes (like u can fly upside down without tilting down) use only rockets alot of the time, should i start using those instead of hover drives?
+help 2021-08-26 01:30:47 i painted a triangle red in one of my builds fuck u mean
+help 2021-08-26 01:30:52 a star too
+help 2021-08-26 01:31:05 ik u cant paint every emoji but u can def paint atleast some of them
+help 2021-08-26 01:31:21 mainly ones that are sort of outlines instead of whole emojis
+help 2021-08-26 01:40:12 can i atleast have tips for stability then
+help 2021-08-26 01:40:23 but i still want a reason as to why they use rockets instead of hover drives
+help 2021-08-26 01:41:26 ohh
+help 2021-08-26 01:41:46 do u mean cover more area with wings or motorlock wings into the same place?
+help 2021-08-26 01:41:51 dont wanna confuse them
+help 2021-08-26 01:42:40 yep but then when i speed up to max speed (1200 or somethin like that, shakes at 1050) it goes upwards
+help 2021-08-26 01:42:52 :/
+help 2021-08-26 01:43:08 well it does shake and i do think it lags a bit
+help 2021-08-26 01:44:10 ty
+help 2021-08-26 01:44:22 yeah usually i sit at 800-900 lol
+help 2021-08-26 01:45:08 also dont wanna be more of a problem but can u answer this please
+help 2021-08-26 01:45:21 because i dont just wanna add more wingpsan that would be unrealistic
+help 2021-08-26 01:45:27 yeah i think its those
+help 2021-08-26 01:45:35 same
+help 2021-08-26 01:46:31 ty again
+help 2021-08-26 02:35:05 supposed to be a railgun right?
+help 2021-08-26 02:35:20 i like it but the gun on top might wanna be a different texture
+help 2021-08-26 02:38:18 tbh probably
+help 2021-08-26 02:38:51 off topic rn but is there a good way to base a block off of when looking at plane blueprints
+help 2021-08-26 02:39:03 like the landing gear should be a 1x1
+help 2021-08-26 02:39:12 or a the wings should be a certain length
+help 2021-08-26 02:39:20 yeah thats also true
+help 2021-08-26 02:50:39 yall think 30 blocks is good for a fw 109? i divided the blueprints into 15 parts (the landing gear width as one part, landing gear wheel = 1 block) but it looked too small so i doubled it to 30 (now landing gear wheel is 2x2 cylinder)
+help 2021-08-26 02:51:01 representation
+help 2021-08-26 02:52:52 didnt notice that in the background 💀
+help 2021-08-26 02:52:55 gonna go check it out brb (not mine ⚠️)
+help 2021-08-26 02:54:09 
+help 2021-08-26 02:54:13 
+help 2021-08-26 02:55:10 ik but its just neat to see cool landing gears
+help 2021-08-26 02:55:23 just a matter of details
+help 2021-08-26 02:56:02 also can u answer the question about plane scale its ok if u dont lol
+help 2021-08-26 02:56:50 wym it wont shoot?
+help 2021-08-26 02:56:57 do u mean cuz theres no hole in the middle or
+help 2021-08-26 02:57:01 u can just make a custom cylinder
+help 2021-08-26 02:57:13 just so u know its not mine
+help 2021-08-26 02:58:05 doesnt take that long man
+help 2021-08-26 02:58:21 eh ok
+help 2021-08-26 02:58:35 wym??
+help 2021-08-26 02:58:41 doesnt have to be a big cylinder
+help 2021-08-26 02:58:49 can be a 3x3 if u wanted
+help 2021-08-26 02:59:23 and they dont attach to the sides so no need to worry about welding
+help 2021-08-26 02:59:28 ok
+help 2021-08-26 03:00:47 k but how tf u hide that shi so well
+help 2021-08-26 03:00:54 like what are yalls secrets
+help 2021-08-26 03:03:58 i too noticed that
+help 2021-08-26 03:13:49 yeah but isnt that where the exposed motors come from???
+help 2021-08-26 03:14:02 so if u motorlock those motors to hide them dont you just have more exposed motors
+help 2021-08-26 03:14:12 nvm imma go take a shower
+help 2021-08-26 03:42:53 i just thought the landing gears were neat?
+help 2021-08-26 03:42:59 i didnt say the tut was nice
+help 2021-08-26 03:43:09 didnt even know it was a tut i thought they were just bad at building lol
+help 2021-08-26 03:43:40 and i will confirm i deleted the message saying it was neat but thats cuz people like you get mad for the slightest of reasons
+help 2021-08-26 03:43:54 this servers community toxic af i swear
+help 2021-08-26 03:51:21 ok that gif funny tho
+help 2021-08-28 21:20:51 i need a half block 1x7 wedge and im trying to use angle motorlocks rn but its just not workin out
+help 2021-08-28 21:21:03 its slightly above a halfblock and idk what to do lol
+help 2021-08-28 21:21:06 hold on imma take a pic
+help 2021-08-28 21:22:35 wait nvm
+help 2021-08-28 21:22:38 think i just figured it out
+help 2021-08-28 21:23:13 ye i did it nvm
+help 2021-08-28 21:23:30 i was using a motor to lower it a half block but the motor well
+help 2021-08-28 21:23:40 just wasnt going down a halfblock cuz of somethin else so
+help 2021-08-28 21:23:43 easy fix
+help 2021-08-28 22:07:01 ok so are u supposed to motorlock the sides of ur jet in or something cuz when ever i put wedges on the side to finish the fuselage it messes up the ml
+help 2021-08-28 22:07:08 without wedge
+help 2021-08-28 22:07:11 with wedge
+help 2021-08-28 22:07:27 also ignore paint this is my first time doing angled motorlocking so idc about cosmetics rn
+help 2021-08-28 22:09:36 nvm
+help 2021-08-28 22:09:36 wait
+help 2021-08-28 22:09:38 im a dumbass
+help 2021-08-28 22:09:57 i didnt put the wedge on the angled motorlock so even if the wedge didnt mess it up it wouldnt look right anyways
+help 2021-08-30 22:03:30 maybe half blocks if u wanna do some motorlocking but thats kinda over kill for a tiny detail
+help 2021-08-30 22:06:47 assuming its based off a real car
+help 2021-08-30 22:06:47 anyone know what the bottom car is based on
+help 2021-08-30 22:06:53 and ye i know its not actually that long
+help 2021-09-01 14:58:25 what jet should i make
+help 2021-09-01 14:58:29 that isnt an f16
+help 2021-09-01 15:01:37 noted
+help 2021-09-01 20:29:33 alright bois do i build an su 34 or an su 27
+help 2021-09-01 20:29:50 i think they look pretty much the same but yall can decide so
+help 2022-10-17 02:46:15 Anyone know why my plane goes to the right all the time???
+help 2022-10-17 02:46:27 The dots line up and I checked if both sides have everything
+help 2022-10-17 02:46:28 And they do
+help 2022-10-17 02:46:32 So idk what’s happenin
+help 2022-10-17 03:26:26 nvm it fixed itself when i added rudders - still curious on why that happened tho
+creations-chat 2022-10-17 18:57:29 
+help 2022-10-17 20:58:25 anyone know alternatives to jet engines when making these bits of a plane (im using hoverdrive)
+help 2022-10-17 20:58:43 i wanted to use just jet engines but it was wayyyyyyy to heavy and i dont feel like tuning all of that
+help 2022-10-17 20:59:07 and then i did smokepipes but its only 1x1 and they way the connections work i cant just do 2 in a line
+creations-chat 2022-10-17 23:24:21 my WIP su 27, pretty happy with it bc its my 3rd jet (give suggestions pls)
+creations-chat 2022-10-17 23:26:25 forgive me but what’s wrong with namnam (tnt block is a self destruct thing but imma redo it later)
+creations-chat 2022-10-17 23:29:51 wip
+
+work
+in
+progress
+creations-chat 2022-10-17 23:45:54 i used one of his guides, yea
+creations-chat 2022-10-17 23:49:05 how is a guide a tutorial
+creations-chat 2022-10-17 23:51:16 i did copy part of the cockpit and the front wings ngl
+creations-chat 2022-10-17 23:54:08 war trains are pretty cool, so yea
+creations-chat 2022-10-18 02:21:29 coming soon to a plane crazy lobby near you (ignore short handle, will fix later)
+
+goes 1 billion parsecs per hour
+creations-chat 2022-10-19 04:06:01 if u wanna run from subs cant you.. fly away
+creations-chat 2022-10-20 00:49:00 shots fired
+creations-chat 2022-10-20 00:57:15 someone need to make a debate channel just for this argument
+creations-chat 2023-06-18 23:54:58 anyone have ideas for a hover bike ? (i already have the basic frame down, turning, hovering, going forward, ect)
+creations-chat 2023-06-19 00:34:25 someone give me a build idea
+help 2023-06-20 07:29:24 anyone know good fighter jet guides (also also some tips for single block wide aircraft?)
+help 2023-06-20 23:21:59 is there a specific scale to use when making 2 wide jets? (1 block with a halfblock on both sides)
+help 2023-06-20 23:22:23 i know for ro scale its 1 block every 2.5~ ish feet, but i havent seen anything for 2 wide

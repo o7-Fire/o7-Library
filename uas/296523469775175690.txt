@@ -1,0 +1,9 @@
+The Tale of mrgloopy (296523469775175690)
+help 2020-01-02 09:22:18 Every time I join a server now, I spawn in the middle of the map and I do ***not*** possess a building area. I think my data may be corrupt or something. The GUI is unresponsive apart from building related buttons. Settings, Ragdoll, Parachute, Jetpack (which I don't own but I assume it would work) ***do*** function.
+help 2020-01-02 09:22:29 I am incapable of opening the saves menu or any of the other build tools onscreen
+help 2020-01-02 09:23:01 I really only play this game to mess around with my friend, I hardly do any building myself, but its still annoying
+help 2020-01-02 09:24:39 It stayed like that for the entire time I had loaded into a server
+help 2020-01-02 09:24:47 it never fixed itself
+help 2020-01-02 09:26:08 I've been in this server for about 10 minutes now
+help 2020-01-02 09:26:17 still hasn't fixed itself
+help 2020-01-02 09:26:49 my ping isn't extremely high either, its hovering around 160-200

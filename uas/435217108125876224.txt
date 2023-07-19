@@ -1,19 +1,78 @@
-fighter_builder
-plane-crazy 2019-08-09 16:08:10 made some alternate textures for the lab computer i made the other night
-plane-crazy 2019-07-27 18:48:23 speedy boi
-plane-crazy 2019-07-27 18:44:01 Thanks 👍
-plane-crazy 2019-07-27 18:43:46 <:thonkeyes:492474861906690078>
-plane-crazy 2019-07-27 18:43:37 
-plane-crazy 2019-07-27 18:43:00 yeah
-plane-crazy 2019-07-27 18:42:52 i tried telling him but couldnt
-plane-crazy 2019-07-27 18:42:41 his dms are disabled
-plane-crazy 2019-07-27 18:42:01 ...So is anyone going to actually tell rick that I'm willing to help out, or should I just stop wasting my time?
-plane-crazy 2019-07-27 18:39:58 :/
-plane-crazy 2019-07-27 18:38:04 Hey <@!327499289595084800> before you go, can you tell rickje139 that im willing to help with graphic design if that opportunity is still open?
-plane-crazy 2019-07-08 22:02:25 r/soisoisoisoisoi
-plane-crazy 2019-07-08 21:54:08 it's obviously r/wosh
-plane-crazy 2019-07-08 21:42:31 thx
-plane-crazy 2019-07-08 21:41:50 started making a rube goldberg machine because why not
-plane-crazy 2019-07-08 19:19:36 epic
-plane-crazy 2019-07-08 19:18:20 nice
-plane-crazy 2019-07-08 19:17:58 made a simple boat
+The Tale of fighter_builder (435217108125876224)
+creations-chat 2019-07-08 19:27:09 Here's the first thing I made in Plane Crazy... It's a KSP-inspired rocket. Nothing too special about it other than the fact that it took a very long time to get the balancing right without over relying on helium blocks. It also has a detachable cockpit and four parachutes for a (hopefully) safe landing.
+creations-chat 2019-07-08 19:51:08 Here's a video of it in action. Sorry about the stuttering.
+creations-chat 2019-07-08 19:55:25 google it, there are online converters
+creations-chat 2019-07-08 19:55:55 fair enough
+creations-chat 2019-07-08 19:56:41 Anyway, I use ShareX to record, it takes some dialing in to get it looking decent, but it's a pretty nice MP4 recorder once you get it configured for it.
+creations-chat 2019-07-08 19:57:13 No watermark
+creations-chat 2019-07-08 19:57:44 it's basically a better, open-source version of Snipping Tool
+creations-chat 2019-07-08 19:59:59 there's a screenshot program in Windows called Snipping Tool. ShareX is a far better alternative to that.
+creations-chat 2019-07-08 20:28:49 it was my first creation alright
+creations-chat 2019-07-08 20:29:00 ive made better things since but i still figured it was worth sharing
+creations-chat 2019-07-08 20:57:22 Gimbal
+creations-chat 2019-07-08 22:46:18 With some editing, I could probably fix it but ehh
+creations-chat 2019-07-09 02:11:05 Marble Run
+creations-chat 2019-07-09 02:11:14 
+creations-chat 2019-07-09 02:12:01 Birds-Eye View of Marble Run Course
+creations-chat 2019-07-09 02:25:35 hmm
+creations-chat 2019-07-09 02:26:05 i just realized I formatted my submissions wrong for ranks, would it be possible for me to resubmit them or no?
+creations-chat 2019-07-09 02:39:08 Thanks!
+bug-reports 2019-07-09 02:40:35 By the way, while I was working on my marble run, I eventually switched to a VIP server, and the camera direction wasn't saved properly, so I had to go back and set them all again.
+creations-chat 2019-07-09 02:58:12 I can probably add more to it, but I started running out of creative steam so I decided to wrap it up there. Maybe tomorrow if I have time.
+creations-chat 2019-07-09 02:58:57 Thanks!
+creations-chat 2019-07-09 05:10:14 Also, I edited the gimbal gif I posted earlier so that it's now a perfect, stutter-free loop.
+bug-reports 2019-07-17 21:43:31 This isn't really a bug so much as it is an annoying consequence of how stuff is loaded when clicking the start button. Anyway, on large, physics-based structures (like my Marble Run course), sometimes physics objects will load and fall before its anchored platform does, causing it to fall out of place entirely and/or clip and spaz out completely
+bug-reports 2019-07-17 21:44:31 A potential solution would be to anchor all blocks until loading is complete, then unanchor all but the anchor blocks
+bug-reports 2019-07-17 21:45:16 Frick
+bug-reports 2019-07-17 21:45:35 Guess I won't be able to add more to my marble run then...
+bug-reports 2019-07-17 21:47:32 Because I'm trying to add a domino section, and the dominos keep spazzing out and knocking the others around early
+bug-reports 2019-07-17 21:50:04 this is how i have it set up... The problem is that the dominoes load before the ground/platforms and fall.
+bug-reports 2019-07-17 21:54:17 I'll try rebuilding the platforms
+bug-reports 2019-07-17 21:56:15 Nope, didn't work
+bug-reports 2019-07-17 21:57:24 Also, putting the dominos higher won't work either (I've tried) because it still takes too long to load, and even if it were to load properly, the height would give it enough kinetic energy that it bounces, which is something I definitely don't want.
+bug-reports 2019-07-17 22:00:27 I'd also try using Disconnectors, but I'd either have to stick to standard, 90 degree dominos, or sacrifice the aesthetics of the platform.
+bug-reports 2019-07-17 22:04:12 yeah I think I might just rework this section using Disconnectors instead... I'm not gonna give up cause I really want that Modeler role
+bug-reports 2019-07-17 22:19:08 Okay, that approach seems to work
+bug-reports 2019-07-18 15:24:54 Ohhh, good idea!
+bug-reports 2019-07-18 15:26:05 I already went with the Disconnector method though, and it works well enough, but I'll definitely keep that in mind if things start breaking again
+creations-chat 2019-07-19 00:53:50 Beck (Mighty Gunvolt Burst)
+creations-chat 2019-07-19 01:12:49 <@!295568493166985218> yeah dude I already know what Mighty No. 9 is. I said Mighty Gunvolt Burst because that's the game that particular sprite is from. Also, I know this is an extremely unpopular opinion, but I'm one of the three people that actually enjoyed MN9.
+creations-chat 2019-07-19 01:14:36 Alright... I figured the name of the character and the specific game it was from was enough.
+creations-chat 2019-07-19 01:17:28 Anyway, I'm gonna go get some dinner now and finish my newly-extended rube goldberg machine (previously just a marble course)
+creations-chat 2019-07-19 01:32:04 Sure, but I want to share mine first
+creations-chat 2019-07-19 01:32:22 Ahh, nice
+creations-chat 2019-07-19 01:32:53 Yeah, my current one is like 90% marble physics and 10% glitchy dominoes lol
+creations-chat 2019-07-19 01:33:17 yeah, good luck with that
+creations-chat 2019-07-19 01:34:04 right now i just gotta redo the camera targets for the fifteenth time and add some new ones for the domino section I taped onto the end
+bug-reports 2019-07-19 01:42:59 welp, now my marble run is taking so long to load that I'm starting to lose my marbles, both literally and figuratively
+bug-reports 2019-07-19 01:50:49 Also, the cameras could use some fixing; the camera targets don't save and must be manually reset upon each load. Also, it tends to select whatever block is behind the Config button whenever I just try to open its config menu.
+creations-chat 2019-07-19 02:42:40 I just checked, and I reached 10 <:Upvote:490311647492309004>s on my Beck pixel art. Can I get the Pixel Artist rank?
+creations-chat 2019-07-19 03:34:12 12 upvotes now
+creations-chat 2019-07-19 16:34:46 tfw I started working on another pixel art and didn't realize just how massive it was until I actually started building <:xdd:408457517832732675>
+creations-chat 2019-07-19 16:36:16 This is the pixel art I was attempting to recreate... For a sense of scale, one foot is the width of the entire build area
+creations-chat 2019-07-19 16:36:33 wait no i wasnt submitting this heck
+creations-chat 2019-07-19 16:36:53 yeah
+creations-chat 2019-07-19 16:37:01 ^
+creations-chat 2019-07-19 16:37:48 Anyway, I can try doing folds, but given the size of this ***absolute unit*** I might have some trouble with that
+creations-chat 2019-07-19 16:38:31 lmao
+creations-chat 2019-07-19 19:40:28 Wii
+creations-chat 2019-07-19 19:42:10 ^
+creations-chat 2019-07-19 20:23:46 PS4
+bug-reports 2019-07-21 16:18:27 Explosive Balls cannot be detonated with a button press... I was trying to make a catapult after noticing that explosive balls and blocks can be detonated with a keypress, only to find that no matter what I do, this does not apply to explosive balls.
+bug-reports 2019-07-21 16:20:21 It's not a huge issue, since I can just set it to detonate on impact ~~and ramp up the impact speed so it doesn't backfire. Probably won't be sensitive enough, though.~~ Never mind, I got it to work just fine. Still no remote detonation though, which is a bit of a bummer.
+bug-reports 2019-07-21 16:46:51 wait nvm, turns out it only works in the PVP gamemode... Now I feel dumb.
+bug-reports 2019-07-21 18:26:01 Yeah, I eventually figured out that that was what it was
+creations-chat 2019-07-21 19:02:19 Refillable, Drivable Catapult
+creations-chat 2019-07-21 19:02:52 hmm
+creations-chat 2019-07-21 19:03:07 might have to shrink the video a little bit; I think it's too thicc for the bot to process
+creations-chat 2019-07-21 19:03:10 brb
+creations-chat 2019-07-21 19:03:55 Thanks!
+creations-chat 2019-07-21 19:07:13 Refillable, Drivable Catapult
+creations-chat 2019-07-21 19:08:12 This was actually my first PVP creation
+creations-chat 2019-07-21 19:22:27 Thanks! I'm really proud of how it turned out.
+creations-chat 2019-07-21 19:24:03 Although I'm still improving some aspects of it, such as making it easier to dock to the reloader
+creations-chat 2019-07-21 19:31:44 I actually managed to make docking easier by tapering the corners using half wedges and changing the "rails" on the catapult itself to 0.9 width blocks instead of 1
+creations-chat 2019-11-24 03:33:33 I made a working gumball machine in Plane Crazy...
+
+Also, sorry about the weird editing; I really didn't feel like firing up After Effects just to add text and music so I figured I'd give Windows 10's video editor a try.
+creations-chat 2019-11-24 03:34:07 Gumball Machine Part Count

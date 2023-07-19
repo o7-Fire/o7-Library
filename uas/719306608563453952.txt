@@ -1,0 +1,20 @@
+The Tale of moratorybasil (719306608563453952)
+bot-central 2021-12-14 04:59:44 !rank
+help 2021-12-24 01:06:55 Im trying to make a drivetrain and  cant get the middle rod to spin the back. Even though both cylinders arent anchored and are touching.
+help 2021-12-24 05:32:58 I cant get the cylinder on the right to spin even tho the one on the left is spinning, are there any other ways to transfer power?
+help 2021-12-24 05:33:15 You need image perms
+help 2021-12-24 05:33:31 I think
+help 2021-12-24 05:34:37 Anyone?
+bot-central 2021-12-24 05:37:39 !rank
+bot-central 2021-12-24 05:38:52 ?av
+help 2021-12-24 05:49:20 I really need help on this
+help 2021-12-24 05:56:07 Fabric?
+help 2021-12-24 05:59:54 Thx bro, its running pretty good now
+help 2021-12-24 06:01:00 dammit
+help 2021-12-24 06:01:13 Now it runs good like 5 secs then stops
+help 2021-12-24 06:04:27 How would you even do gear teeth
+help 2021-12-24 06:07:21 Any other methods?
+help 2021-12-24 06:11:29 darn
+help 2021-12-24 06:17:16 wait
+help 2021-12-24 06:17:34 Ok I found a very scuffed solution
+help 2021-12-24 06:18:47 Its a little inconsistent but it shouldnt be noticeable because of the reason I need it

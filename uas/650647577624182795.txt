@@ -1,0 +1,19 @@
+The Tale of ilovenitr0gen (650647577624182795)
+help 2023-07-08 09:32:14 how do i make planes with hover drives shake less at  high speeds?
+help 2023-07-08 09:32:26 or is it not possible? im talking about around 1100 speed
+help 2023-07-08 09:51:08 mostly side to side
+help 2023-07-08 09:51:13 ill try that thanks
+help 2023-07-08 10:37:50 thank you
+bot-central 2023-07-08 14:54:31 !rank
+help 2023-07-08 14:55:43 is this too many hover engines to make work? the top 3 are disabled
+help 2023-07-08 15:13:09 really?
+help 2023-07-08 15:13:11 thanks
+help 2023-07-08 15:13:16 what settings on the motor
+help 2023-07-08 15:13:30 alr thanks
+help 2023-07-08 15:13:45 my plane just seems to lose control when it gets past 1000 speed
+help 2023-07-08 15:15:45 alright
+help 2023-07-08 15:15:58 it shakes horizontally
+help 2023-07-08 15:16:15 this orientation right?
+help 2023-07-08 15:16:30 k thanks
+help 2023-07-08 15:18:15 alr
+help 2023-07-08 15:26:45 adding more wing panels just slows the plane down and doesnt stop the shaking

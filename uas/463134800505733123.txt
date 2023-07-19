@@ -1,0 +1,4 @@
+The Tale of cjiscool (463134800505733123)
+help 2021-03-31 04:28:20 how to get rid of torque steer on single rotor (Helicopter)?
+bug-reports 2021-04-26 04:39:58 Does anyone have problems with really low fps once up TK around speed 350 if you have a lot of motor lock? After an update last week all the lag went away but now it seems like it is back.
+bug-reports 2021-04-26 04:45:18 Thx

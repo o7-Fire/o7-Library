@@ -1,16 +1,4 @@
-sesamzaad
-plane-crazy 2019-05-18 09:40:35 So i need to build mid air
-plane-crazy 2019-05-18 09:40:19 I also have that it won´t go down anymore but there´s no blocks doing so
-plane-crazy 2019-05-18 09:39:28 In dms
-plane-crazy 2019-05-18 09:39:20 I
-plane-crazy 2019-05-18 09:39:16 can send my vip link
-plane-crazy 2019-05-18 09:38:26 Middle
-plane-crazy 2019-05-18 09:38:07 It´s infront
-plane-crazy 2019-05-18 09:38:02 No
-plane-crazy 2019-05-18 09:37:57 send*
-plane-crazy 2019-05-18 09:37:46 I´ll sen link
-plane-crazy 2019-05-18 09:37:38 I´m in private server
-plane-crazy 2019-05-18 09:37:22 Caps
-plane-crazy 2019-05-18 09:37:20 mY PROTOTYPE WORKS TE SAME BUT TILTS LESS
-plane-crazy 2019-05-18 09:36:37 But it only goes right not left
-plane-crazy 2019-05-18 09:34:40 Does anyone know why this starts go go slowly to the right? center of mass and lift are at good locations and setting are too
+The Tale of sesamzaad (306113016716460037)
+bot-central 2021-08-08 13:51:23 &suggesy Moter angle lock
+[BUILDING]
+Make it so the motors can be set to stop at a certain degree (when it reaches the set rotation limit it stop or locks and doesn't go futher usefull for mech's custom doors loading doors  etc) you can see the angle by simple math (Orientation of the rotating part - the orientation of the non rotating part)

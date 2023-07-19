@@ -1,0 +1,6 @@
+The Tale of turkishdelight01 (757620861728456745)
+bug-reports 2021-01-26 17:29:26 When another motor is attached to another the motor glitches out causing the entire creation to shake and fly away
+help 2021-01-27 09:30:09 anyone know why a VTOL goes foward then does a backflip?
+help 2021-01-27 09:34:40 i can add more weight to the fron to balance out the CG but it actually does nothing
+help 2021-01-27 09:35:26 the only thrusters are only in one one so they are not all over the place
+help 2021-01-27 09:35:41 so there is the same balance of thrust

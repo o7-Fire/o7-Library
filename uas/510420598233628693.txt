@@ -1,0 +1,11 @@
+The Tale of DoWis (510420598233628693)
+the-dump 2022-03-29 09:56:38 
+bug-reports 2022-04-15 14:10:40 There is a bug with the jetpack. I haven't really figured out why it happens but it sometimes starts to go up even tho I don't want it. All tho there is a way how to fix it - just equip the jetpack and close the builder menu (Hammer button) And unequip and then equip again and it should work. But I think this should get fixed if it's possible, have a good day and easter 🙂
+bug-reports 2022-04-15 14:12:11 Could I ask what is it or what causes it?
+bug-reports 2022-04-15 14:20:34 :/
+bug-reports 2022-04-15 14:34:34 I agree.
+help 2022-07-12 17:28:52 So I have a build megalodon and it works everywhere fun but not in water. It works everywhere and moves fast and stuff but when it goes in water all motors start to turn very very slow and I also move very slow it's almost like it's lagging but it's not-
+help 2022-07-12 17:35:46 Bro..
+help 2022-07-12 17:35:54 I'm just asking for help
+creations-chat 2022-07-12 17:45:41 Does anyone know why a big build for example: Shark or Ship in water are very slow and the motors are also turning very slow it's almost like it's lagging but on ground it's working perfectly.
+creations-chat 2022-07-12 17:47:43 Oh, thank you for the answer, cause I was very confused why my build was so slow in water haha, I hope they fix it cause I spent a lot of time on it.

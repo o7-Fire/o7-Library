@@ -1,40 +1,1871 @@
-nonnavandoren
-plane-crazy 2020-07-31 14:01:09 ._.
-plane-crazy 2020-07-31 14:00:34 my inglish just died today
-plane-crazy 2020-07-31 14:00:25 HOLLY SHIT
-plane-crazy 2020-07-31 14:00:23 BID BAD BOY
-plane-crazy 2020-07-31 14:00:14 very bid bad boy incoming...
-plane-crazy 2020-07-27 19:18:36 nice
-plane-crazy 2020-07-27 19:18:16 > "MAKED"
-<@!683847069890510887> ._.
-plane-crazy 2020-07-27 19:17:52 OH SHIT I MAKED A FUCKING ALIEN HEAD
-plane-crazy 2020-07-27 18:53:58 i'll really make it ._.
-plane-crazy 2020-07-27 18:53:55 ok, just kidding
-plane-crazy 2020-07-27 18:53:45 ITS DONE
-plane-crazy 2020-07-27 18:51:26 ok, i will did it
-plane-crazy 2020-07-27 18:51:20 FUCK
-plane-crazy 2020-07-27 18:51:10 should i build a AT-AT?
-plane-crazy 2020-07-27 18:51:02 hey guys
-plane-crazy 2020-07-24 20:08:51 sad
-plane-crazy 2020-07-24 20:07:22 them will move
-plane-crazy 2020-07-24 20:07:18 just kick the motor or add a propellor engine
-plane-crazy 2020-07-24 20:05:42 like explode and go to the shrek universe
-plane-crazy 2020-07-24 20:05:31 yes
-plane-crazy 2020-07-24 20:05:18 it explode every single time
-plane-crazy 2020-07-24 20:05:08 dude, anchored block isn't hard to glitch
-plane-crazy 2020-07-24 20:04:54 and?
-plane-crazy 2020-07-24 20:04:48 yeeeeh
-plane-crazy 2020-07-24 20:04:38 > I made an Anchored Block move
-<@!667756016116695040> i made a 50k speed tank :/
-plane-crazy 2020-07-24 20:04:17 Bruh momment
-plane-crazy 2020-07-24 20:03:22 more script
-plane-crazy 2020-07-24 20:03:17 lol
-plane-crazy 2020-07-24 20:02:41 > ***HOSTILES IN THE AREA, DEPLOYING HUNTER KILLER DRONES!***
-<@!667756016116695040> wtf am seeing
-plane-crazy 2020-07-24 19:58:09 BIG BAD BOY
-plane-crazy 2020-07-24 19:57:29 make a BIG BAD BOY blimp
-plane-crazy 2020-07-24 19:57:18 isn't hard
-plane-crazy 2020-07-24 19:57:16 dude, just make a blimp
-plane-crazy 2020-07-24 19:57:01 make a blimp :/
-plane-crazy 2020-07-24 19:56:52 hmh
-plane-crazy 2020-07-24 19:56:32 dude, make a supersonic fighter ._.
+The Tale of nonnavandoren (565165316116578324)
+bug-reports 2020-04-09 17:47:19 tanks speed bug
+bug-reports 2020-04-09 17:47:31 srry but u will need to download it ;-;
+bug-reports 2020-04-09 17:48:36 it is happening with me for one week
+help 2020-04-09 17:50:53 u have sure you config the rotor?
+help 2020-04-09 17:51:44 have any anchor block in the cration?
+help 2020-04-09 17:51:52 hm..
+help 2020-04-09 17:51:58 DM a dev
+help 2020-04-09 17:52:13 it happend with me few days
+help 2020-04-09 17:52:26 i just reset and everthing back to normal again
+help 2020-04-09 17:53:03 hm
+help 2020-04-09 17:53:09 you tried rejoin?
+help 2020-04-09 17:55:30 can u take a print of the rotor config?
+help 2020-04-09 17:56:20 wait what is the problem? .-.
+help 2020-04-09 17:56:32 they are working perfectly
+help 2020-04-09 17:56:48 the problem is the heli is spinning in the same speed of the rotor
+help 2020-04-09 17:56:56 and it make you think its unpowered
+help 2020-04-09 17:57:46 they are moving but in the exactly same speed of the heli
+help 2020-04-09 17:57:54 its because it everthing spin
+help 2020-04-09 17:59:44 wait a sec
+help 2020-04-09 17:59:52 nvm
+help 2020-04-09 18:00:11 '-'
+help 2020-04-09 18:00:16 no its jesus
+help 2020-04-09 18:00:29 magic
+help 2020-04-09 18:01:00 '-'
+help 2020-04-09 18:01:10 https://tenor.com/view/toma-ya-gif-5223800
+help 2020-04-09 18:01:47 nice
+help 2020-04-09 18:02:01 so i think its time to stop talking in help chat
+help 2020-04-09 18:02:03 see ya
+help 2020-05-22 14:27:26 mine control surfaces are glitched, they dind't work. am tryng for days
+bug-reports 2020-05-22 20:51:26 when i add control surfaces they dont move, am trying for DAYS AND NOTHING HAPPENS. but mine planes before this just start happening have functional control surfaces.
+bug-reports 2020-05-22 21:02:21 but i dont used in large creations
+bug-reports 2020-05-22 21:02:36 the control surfaces dont work with NOTHING
+bug-reports 2020-05-22 21:03:16 > can you screenshot the configs and show me
+<@!430394898726780940> oh srry am not playng plane crazy right now
+bug-reports 2020-05-22 21:03:34 yeh ._.
+bug-reports 2020-06-06 20:42:41 when it start moving the smoke glitch
+bug-reports 2020-06-06 20:42:54 i tested ant it happend WITH EVERY BUILD with smoke pipes and snow pipes
+bug-reports 2020-06-06 20:52:23 i tried and nothing happend
+bug-reports 2020-06-06 20:52:29 :/
+bug-reports 2020-06-06 21:03:50 i just want it stop happening
+bug-reports 2020-06-06 21:05:30 i wanna make the smoke go to the opposite side
+bug-reports 2020-06-06 21:05:41 cause the boat is going to a diferent direction
+bug-reports 2020-06-07 19:37:09 wate propellor is making this part spin like a motor
+bug-reports 2020-06-07 19:42:51 
+bug-reports 2020-06-07 19:53:47 srry ._.
+bug-reports 2020-06-10 16:44:19 i dont need to explain..
+bug-reports 2020-06-10 16:44:47 
+bug-reports 2020-06-10 16:47:10 these two parts are EXPLODING
+bug-reports 2020-06-10 16:48:27 yeh
+bug-reports 2020-06-10 16:48:31 :/
+bug-reports 2020-06-10 16:48:37 i cant
+bug-reports 2020-06-10 16:48:49 if i make it the chopperd dont have lift ._.
+bug-reports 2020-06-10 16:48:59 nvm
+bug-reports 2020-06-10 16:49:11 ok
+bug-reports 2020-06-10 16:49:15 i'll try make it
+bug-reports 2020-06-10 16:49:17 ty
+help 2020-06-11 20:31:05 > how do you make a plane “roll”
+<@!456975716878254080> i think you are trying to say "flip" so.. if you wanna flip a plane just click in the green flip button ._.
+help 2020-06-11 20:31:22 on dat bar
+help 2020-06-11 21:02:24 > why cant i shoot my rockets while im moving??
+<@!545453670775652352> report this bug ._.
+creations-chat 2020-06-20 13:57:31 remake jet engines back part
+creations-chat 2020-06-20 13:59:50 > im gonna try to remake the wings and the back
+<@!378527696407494656> good luck
+creations-chat 2020-06-20 14:02:04 np
+creations-chat 2020-06-20 14:02:14 have a nice day
+creations-chat 2020-06-20 14:03:43 > guys, i have never made a working rocket, and im starting off huge, any tips?
+<@!550694959011987457> conveyor motors
+creations-chat 2020-06-20 14:04:03 lock motors
+creations-chat 2020-06-20 14:04:14 yes
+creations-chat 2020-06-20 14:04:19 for huge speed
+creations-chat 2020-06-20 14:04:35 wanna a print?
+creations-chat 2020-06-20 14:04:43 ok
+creations-chat 2020-06-20 14:04:49 lemme take a print of it ._.
+creations-chat 2020-06-20 14:04:58 is this wo make thins go SUPERSONIC
+creations-chat 2020-06-20 14:05:27 
+creations-chat 2020-06-20 14:05:30 is just this LOL
+creations-chat 2020-06-20 14:05:50 conveyor block move the entire build
+creations-chat 2020-06-20 14:05:59 and piston help to make it go better
+creations-chat 2020-06-20 14:06:20 it gives you 50k speed as i remember
+creations-chat 2020-06-20 14:06:28 BUT
+creations-chat 2020-06-20 14:06:35 more speed=more bugs
+creations-chat 2020-06-20 14:06:48 =MAP EXPLODING ARROUND YOU
+creations-chat 2020-06-20 14:06:56 and it is very laggy too
+creations-chat 2020-06-20 14:07:08 > wow i never thought i would get help from 2 anime girls ;o;
+<@!550694959011987457> meh
+creations-chat 2020-06-20 14:07:19 > Im guessing around 5k speed for a medium size plane
+<@!447221768520859659> have tons of models of these
+creations-chat 2020-06-20 14:07:27 if you add 1x2 conveyor it go faster
+creations-chat 2020-06-20 14:07:43 more conveyors working=more speed
+creations-chat 2020-06-20 14:07:57 sometimes it lag
+creations-chat 2020-06-20 14:08:02 but just with huge builds
+creations-chat 2020-06-20 14:08:09 > Its too hard to control for me
+<@!447221768520859659> more wings
+creations-chat 2020-06-20 14:08:26 conveyor engine make life better
+creations-chat 2020-06-20 14:08:55 and remember kids DONT FUCK WITH YOUR BUILDS ADDING CONVEYOR MOTORS
+creations-chat 2020-06-20 14:09:18 > For aircraft of the medium size i reccomend super rockets
+<@!447221768520859659> it helps a lot with cargo planes too
+creations-chat 2020-06-20 14:09:29 oh shoot
+creations-chat 2020-06-20 14:09:32 big ._.
+creations-chat 2020-06-20 14:09:44 ooh yeeeeeeh :>
+creations-chat 2020-06-20 14:09:56 dude
+creations-chat 2020-06-20 14:10:08 i'll give you the most important tip for conveyor motors
+creations-chat 2020-06-20 14:10:22 TONS of wing panels
+creations-chat 2020-06-20 14:10:50 75% interior of mine fighter is filled with wing panel
+creations-chat 2020-06-20 14:10:52 ._.
+creations-chat 2020-06-20 14:12:00 oh another thing i forgot to say
+creations-chat 2020-06-20 14:12:10 bigger conveyor speed in config dont make it faster
+creations-chat 2020-06-20 14:12:17 it increase acelleration
+creations-chat 2020-06-20 14:12:28 yeh ._.
+creations-chat 2020-06-20 14:15:03 oh man..
+creations-chat 2020-06-20 14:16:33 my god i need make a better bomber ._.
+creations-chat 2020-06-20 14:16:40 it is SOOO UGLY
+creations-chat 2020-06-20 14:30:56 OOH
+creations-chat 2020-06-20 14:30:58 i remember it
+creations-chat 2020-06-20 14:31:09 i see it a loot of time ago
+creations-chat 2020-06-20 14:31:34 noice
+creations-chat 2020-06-20 14:34:53 hey guys what you think about a new bomber? ._.
+creations-chat 2020-06-20 14:35:19 am going to buld a new bomber but idk if its a god idea
+creations-chat 2020-06-20 14:35:41 hmm
+creations-chat 2020-06-20 14:36:27 ok but it will be custom or a "true" plane?
+creations-chat 2020-06-20 14:37:22 hmm
+creations-chat 2020-06-20 14:52:55 not me
+creations-chat 2020-06-21 16:14:42 how i can make it better?
+creations-chat 2020-06-21 16:38:10 > what r the disconnectors on the top for
+<@!400465835845615616> stetic
+creations-chat 2020-06-21 17:49:20 noice
+creations-chat 2020-06-21 17:49:35 but it is a little bit fat
+creations-chat 2020-06-21 17:50:34 engine is beautiful
+creations-chat 2020-06-21 17:50:40 but a little bit bigger than needed
+creations-chat 2020-06-21 17:52:26 no problem
+creations-chat 2020-06-21 17:52:30 good luck and have a nice day
+creations-chat 2020-06-21 17:52:50 ty
+creations-chat 2020-06-21 17:53:05 hmm
+creations-chat 2020-06-21 17:53:20 first person view is pretty good but can be better with more details
+creations-chat 2020-06-21 17:54:01 shit i cant show you how to make it better than already ._.
+creations-chat 2020-06-21 17:54:05 am not logged
+creations-chat 2020-06-21 17:55:47 hmm
+creations-chat 2020-06-21 17:56:06 ok so..
+creations-chat 2020-06-21 17:56:09 it is a good idea
+creations-chat 2020-06-21 17:56:16 but
+creations-chat 2020-06-21 17:56:32 it will be better if you add a text aim in your front
+creations-chat 2020-06-21 17:56:48 you can paint it with red or green
+creations-chat 2020-06-21 17:56:54 these are the best collors for this
+creations-chat 2020-06-21 17:57:02 (battlefield momment)
+creations-chat 2020-06-21 17:57:14 cia
+creations-chat 2020-06-21 17:57:19 have a nice day sir
+creations-chat 2020-06-21 18:01:27 > where do u post ur rank req?
+<@!701392731754201158> ask it in <#478584971670454284>
+creations-chat 2020-06-21 18:02:39 ok
+creations-chat 2020-06-21 18:43:39 cry :/
+creations-chat 2020-06-21 18:44:28 K
+creations-chat 2020-06-21 18:45:04 time to be killed by mommy's slipper
+creations-chat 2020-06-22 21:57:29 use paint blocks ._.
+creations-chat 2020-06-22 21:57:40 its a little bit harder but work
+bug-reports 2020-06-22 22:31:49 can you show motors config? ._.
+bug-reports 2020-06-22 22:32:34 ooh..
+bug-reports 2020-06-22 22:33:01 i have a heli too and it glitch some times but nothing close of these
+bug-reports 2020-06-22 22:33:45 :/
+bug-reports 2020-06-22 22:34:01 hmm
+bug-reports 2020-06-22 22:34:05 change the torque to 15
+bug-reports 2020-06-22 22:34:13 hm
+bug-reports 2020-06-22 22:34:27 houston we have a problem...
+bug-reports 2020-06-22 22:34:39 a normal chopper K
+bug-reports 2020-06-22 22:34:47 
+bug-reports 2020-06-22 22:35:13 VERY normal
+bug-reports 2020-06-22 22:35:53 with tons more normal lave spliter's
+bug-reports 2020-06-22 22:36:08 a normal day in a normal game
+bug-reports 2020-06-22 22:37:15 a little bit wrong
+bug-reports 2020-06-22 22:37:19 > How do you enable PVP
+<@!555574321565794304> it happend in vip servers
+bug-reports 2020-06-22 22:37:35 because is one single server the game let you able and unable damage taken
+bug-reports 2020-06-22 22:38:23 nah
+bug-reports 2020-06-22 22:38:25 dont is this
+bug-reports 2020-06-22 22:38:32 the tnt blocks just explode
+bug-reports 2020-06-22 22:38:37 but the blocks dont be damaged
+bug-reports 2020-06-22 22:38:52 if it just happend is because your tnt blocks are glitched
+bug-reports 2020-06-22 22:39:22 VERY NORMAL
+bug-reports 2020-06-22 22:39:46 wait
+bug-reports 2020-06-22 22:39:57 you have sure you isn't in not pvp rigth?
+bug-reports 2020-06-22 22:40:29 MY GOD
+bug-reports 2020-06-22 22:40:53 click here
+bug-reports 2020-06-22 22:41:07 
+bug-reports 2020-06-22 22:41:21 
+bug-reports 2020-06-22 22:41:32 it is OLD
+bug-reports 2020-06-22 22:42:30 yeh
+bug-reports 2020-06-22 22:42:39 pvp mode is a little bit suck
+bug-reports 2020-06-22 22:42:53 because nub bacons and spawn campers who cant kill another people
+bug-reports 2020-06-22 22:45:20 oh shit
+bug-reports 2020-06-22 22:45:27 another bug i think
+bug-reports 2020-06-22 22:45:42 lava spliters make my builds enter in slow mode
+help 2020-06-22 22:55:57 <@!545453670775652352> 578468221 its a little bit bad but i tried
+help 2020-06-22 22:56:03 i'll research for more sounds
+help 2020-06-22 22:56:32 no problem ._.
+help 2020-06-22 22:57:53 4571641141
+help 2020-06-22 22:57:58 heres another sound
+help 2020-06-22 22:58:01 idk if it's better
+help 2020-06-22 22:58:57 3017800517
+help 2020-06-22 22:59:04 here's another sound for inside
+help 2020-06-22 22:59:08 (if it have interior)
+help 2020-06-22 23:01:02 2322899325
+help 2020-06-22 23:01:05 a sound for landing gears
+help 2020-06-22 23:01:13 (if it have landing gears)
+help 2020-06-22 23:05:24 ooh sh
+help 2020-06-22 23:05:28 lemme research it for you
+help 2020-06-22 23:06:17 fast or slow?
+help 2020-06-22 23:07:24 ok ok
+help 2020-06-22 23:07:49 i know a fast minigun sound but it's from half life
+help 2020-06-22 23:07:51 it's okay?
+help 2020-06-22 23:08:03 ok
+help 2020-06-22 23:08:27 gimme a sec to find it
+help 2020-06-22 23:09:42 <@!545453670775652352> 2322899325
+help 2020-06-22 23:10:27 its a little bit bad but it works
+bot-central 2020-06-23 13:26:45 ?rhelp
+creations-chat 2020-06-23 14:20:18 https://cdn.discordapp.com/attachments/384025409945337856/724991802200948806/unknown.png
+creations-chat 2020-06-23 14:20:21 how to make it better?
+creations-chat 2020-06-23 14:53:23 ok
+creations-chat 2020-06-23 14:53:48 and "tank" you
+creations-chat 2020-06-23 15:15:06 <@!614759148952879114> is this better now?
+creations-chat 2020-06-23 15:15:18 
+creations-chat 2020-06-23 15:15:43 its hard to make it because this tonk is tiny ._.
+creations-chat 2020-06-23 15:16:30 nham
+creations-chat 2020-06-23 15:17:03 > The front defo looks better more curved but the LMG on top should be made different it kinda just looks like a flat slab
+<@!614759148952879114> more tiny? ._.
+creations-chat 2020-06-23 15:17:32 ok ok
+creations-chat 2020-06-23 15:17:36 i'll try make it
+creations-chat 2020-06-23 15:18:13 > But the front does look more curved now which is nice <@!565165316116578324>
+<@!614759148952879114> yeh the front is
+creations-chat 2020-06-23 15:18:21 i added some half blokcs in this shit
+creations-chat 2020-06-23 15:18:34 *blocks
+creations-chat 2020-06-23 15:18:53 oh shit
+creations-chat 2020-06-23 15:20:01 
+creations-chat 2020-06-23 15:20:04 a normal day
+creations-chat 2020-06-23 15:55:50 i cant make something better than this shit BECAUSE IM STUPID
+creations-chat 2020-06-23 15:59:13 use piston to make it easier
+creations-chat 2020-06-23 15:59:51 yeh
+creations-chat 2020-06-24 21:39:57 ty :>
+creations-chat 2020-06-25 19:31:42 oh shit  ._.
+creations-chat 2020-06-25 19:31:48 am so bad building cargo things?
+creations-chat 2020-06-25 19:32:02 ._.
+creations-chat 2020-06-25 19:32:12 am trying
+creations-chat 2020-06-25 19:32:19 i finished landing gear ._.
+creations-chat 2020-06-25 19:32:27 the first is done
+creations-chat 2020-06-25 21:28:24 oh man
+creations-chat 2020-06-25 21:28:28 ._.
+creations-chat 2020-06-25 21:28:50 i just builded it to test some landing gears but i think i'll finish it
+creations-chat 2020-06-25 21:43:00 
+creations-chat 2020-06-25 21:43:02 noice
+creations-chat 2020-06-26 16:55:19 > Is this really ugly ?
+<@!345942008801525764> i think because is my first big plane ._.
+creations-chat 2020-06-26 16:56:12 <@!345942008801525764> and thank, am close to finish this THING
+creations-chat 2020-06-26 17:49:54 any idea of how to make it better?
+creations-chat 2020-06-26 17:51:50 any problem?
+creations-chat 2020-06-26 18:01:27 i expected to make it better but i failed
+creations-chat 2020-06-26 18:01:47 i will try to make it fold
+creations-chat 2020-06-26 18:02:01 it is just a test for the wings am developing
+creations-chat 2020-06-26 18:02:52 
+creations-chat 2020-06-26 18:03:08 
+creations-chat 2020-06-26 18:05:55 yes i know
+creations-chat 2020-06-26 18:06:05 when i finish the wings i will make the body bigger
+creations-chat 2020-06-26 18:37:15 the fold is done :)
+creations-chat 2020-06-26 19:38:06 > i want something like a floating island or a blimp
+<@!544683852384174093> make a steampunk blimp
+creations-chat 2020-06-26 19:39:05 like this
+creations-chat 2020-06-26 19:39:52 hmmm
+creations-chat 2020-06-26 19:39:54 sad
+creations-chat 2020-06-26 19:39:56 very sad
+creations-chat 2020-06-26 19:40:13 ooh i got a better idea
+creations-chat 2020-06-26 19:40:19 make a flying pirate ship
+creations-chat 2020-06-26 19:40:33 hmm
+creations-chat 2020-06-26 19:40:34 sure
+creations-chat 2020-06-26 19:40:37 YEEEEEH
+creations-chat 2020-06-26 19:40:40 I REMEMBER HIM
+creations-chat 2020-06-26 19:40:47 make it
+creations-chat 2020-06-26 19:40:51 it's a good idea
+creations-chat 2020-06-26 19:41:09 when i finish my fat plane i will try make something like it
+creations-chat 2020-06-26 19:41:20 oh shit brb
+creations-chat 2020-06-26 19:41:28 i need make some important things
+creations-chat 2020-06-26 20:09:27 yeh
+creations-chat 2020-06-26 20:17:03 its a good idea add a decorative car inside it?
+creations-chat 2020-06-26 20:17:27 it is pretty big
+creations-chat 2020-06-26 20:17:45 i just want make it look better in
+creations-chat 2020-06-26 20:20:32 <@!492760737438105610> try make a bigger version of F9F, it will look better
+help 2020-06-26 20:49:07 why it just happend with lock motors?
+help 2020-06-26 20:53:18 dude i just want make it stop happening ._.
+help 2020-06-26 20:53:28 it is just fucking with mine folding
+help 2020-06-26 20:53:47 yeh
+help 2020-06-26 20:59:57 another problem ._.
+help 2020-06-26 21:02:06 really
+help 2020-06-26 21:05:49 am trying to aling it with lock motors but lock motors hate me
+help 2020-06-26 21:17:08 OH MY GOD I GOT IT
+help 2020-06-26 21:17:09 YEY
+help 2020-06-26 21:17:23 JESUS IS WITH ME
+help 2020-06-26 21:18:03 AFTER 3 HOURS TRYING TO MAKE THIS FOLD WORK I FINALLY GOD MAKE IT :D
+creations-chat 2020-06-27 19:30:29 https://cdn.discordapp.com/attachments/713803149382516847/726519742315364372/RobloxScreenShot20200627_162908864.png
+creations-chat 2020-06-27 19:30:36 my friend view of my tank
+creations-chat 2020-06-27 22:44:15 > <@!565165316116578324> its cool just dont spam the same build
+<@!724461096349728824> oh srry ._.
+creations-chat 2020-06-27 22:44:24 i was trying to get the max angles as possible
+the-dump 2020-06-28 00:56:09 WAIT THATS ILLEGAL
+the-dump 2020-06-28 01:15:05 > <@!565165316116578324> that would look a lot better if u motorlocked wing panels onto the sides
+<@!400465835845615616> i done it
+the-dump 2020-06-28 01:15:16 but the copycat is spammimg disconnectors
+the-dump 2020-06-28 01:23:13 > ah lol idiot copycat
+<@!400465835845615616>
+the-dump 2020-06-28 01:23:15 k
+creations-chat 2020-06-28 14:45:55 <@!632108708469407745> your sub's fat make it more bigger and it will look better
+bug-reports 2020-06-28 15:39:19 err
+bug-reports 2020-06-28 15:39:20 nothing to say.
+bug-reports 2020-06-28 15:40:13 <@!400465835845615616> you tried change motor 2 torque?
+bug-reports 2020-06-28 15:40:32 sometimes it just stuck and you need lower the torque to it work
+bug-reports 2020-06-28 15:44:15 dude
+bug-reports 2020-06-28 15:44:20 just try make it
+bug-reports 2020-06-28 15:44:30 sometimes it happend with me
+bug-reports 2020-06-28 15:44:37 try lower the torque to 30
+bug-reports 2020-06-28 15:44:38 or 15
+creations-chat 2020-06-28 20:43:27 oh thanks ._.
+creations-chat 2020-06-28 20:43:48 i have some ideas to make a better version later
+creations-chat 2020-06-28 20:43:50 and even bigger
+creations-chat 2020-06-28 20:44:04 K
+creations-chat 2020-06-28 20:44:46 wait
+creations-chat 2020-06-28 20:44:50 guys i have a question
+creations-chat 2020-06-28 20:45:10 exist bigger versions of this ingame?
+creations-chat 2020-06-28 20:45:22 i need it to make the tonk cannon work better but i cant find it
+creations-chat 2020-06-28 20:45:42 and am not ranked so i cant use it as a suggestion
+creations-chat 2020-06-28 20:46:53 (OBS:am not ranked because im too lazy to request rank)
+creations-chat 2020-06-28 20:47:15 ._.
+creations-chat 2020-06-28 20:47:17 lol
+creations-chat 2020-06-28 20:48:07 ooh man
+creations-chat 2020-06-28 20:48:30 if there's it will help me tons more with buildings
+creations-chat 2020-06-28 20:48:35 yeh
+creations-chat 2020-06-28 20:48:44 we need more half block type wedges
+creations-chat 2020-06-28 20:48:52 lite bigger triangle wedges from half block
+creations-chat 2020-06-28 20:48:55 *like
+creations-chat 2020-06-28 20:49:26 lol
+creations-chat 2020-06-28 20:49:44 BI :>
+creations-chat 2020-06-28 20:49:47 ._.
+creations-chat 2020-06-28 20:50:00 bots hate me
+creations-chat 2020-06-28 20:50:20 it is the second time it just happend today
+creations-chat 2020-06-28 23:01:27 any tip for this WIP ferdnand? (i will make a better paintjob when i finish it)
+creations-chat 2020-06-28 23:01:41 hmm
+creations-chat 2020-06-28 23:01:42 ok
+creations-chat 2020-06-28 23:02:41 ok i will make it
+creations-chat 2020-06-28 23:03:19 another pic of it ._.
+creations-chat 2020-06-28 23:06:56 yeh ._.
+creations-chat 2020-06-28 23:07:29 i think when i finish the another side of the ferdnand it will look wider
+creations-chat 2020-06-29 12:38:32 <@!684367046703972373> dont use .wmv
+creations-chat 2020-06-29 13:07:12 ._.
+creations-chat 2020-06-29 13:07:19 nose's too big
+creations-chat 2020-06-29 13:07:51 look
+creations-chat 2020-06-29 13:07:54 it dont is soo big
+creations-chat 2020-06-29 13:08:14 and
+creations-chat 2020-06-29 13:08:22 use more triangle wedge blocks from wedges 2
+creations-chat 2020-06-29 13:08:32 it will help alot
+creations-chat 2020-07-12 19:37:36 any tip for this WIP custom carrier?
+creations-chat 2020-07-12 19:40:32 here's another pic
+creations-chat 2020-07-12 19:40:48 and a front view
+creations-chat 2020-07-12 20:03:41 use more triangle wedge blocks
+creations-chat 2020-07-12 20:04:26 so... use lock motors
+creations-chat 2020-07-12 20:05:51 hmm
+creations-chat 2020-07-12 20:05:59 yeeeh
+creations-chat 2020-07-12 20:06:13 make the higger part more open
+creations-chat 2020-07-12 20:06:39 no
+creations-chat 2020-07-12 20:06:41 not so much
+creations-chat 2020-07-12 20:06:56 make this part default
+creations-chat 2020-07-12 20:07:07 
+creations-chat 2020-07-12 20:07:10 and this glass
+creations-chat 2020-07-12 20:07:43 meeeh
+creations-chat 2020-07-12 20:07:56 i thinked it has custom ._.
+creations-chat 2020-07-12 20:08:33 how it is looking?
+creations-chat 2020-07-12 20:08:49 i wanna make it have 6 folds
+creations-chat 2020-07-12 20:09:07 it is custom
+creations-chat 2020-07-12 20:09:23 k
+creations-chat 2020-07-12 20:09:23 
+creations-chat 2020-07-12 20:09:46 6 folds is too much?
+creations-chat 2020-07-12 20:10:01 it is a little bit fat
+creations-chat 2020-07-12 20:10:10 
+creations-chat 2020-07-12 20:10:18 it is my first K
+creations-chat 2020-07-12 20:10:50 ._.
+creations-chat 2020-07-12 20:11:31 this part?
+creations-chat 2020-07-12 20:11:55 hmmm
+creations-chat 2020-07-12 20:12:45 > Bro actually make the entire thing more pointy
+<@456226577798135808> but it dint made to be pointy
+creations-chat 2020-07-12 20:13:09 and most part of hull never will be looked because it will be underwater
+creations-chat 2020-07-12 20:14:09 look
+creations-chat 2020-07-12 20:14:15 most part of hull dont will be showed
+creations-chat 2020-07-12 20:15:07 k
+creations-chat 2020-07-12 20:15:32 ok so... i think 6 folds is too much for it
+creations-chat 2020-07-12 20:16:06 i think 3,5 folds is ok...?
+creations-chat 2020-07-12 20:16:43 k
+creations-chat 2020-07-12 20:17:54 ok but 3,5 folds are fine or i lower it?
+creations-chat 2020-07-12 20:18:21 i just want to make it bigger than my friend nimitz
+creations-chat 2020-07-12 20:18:39 ok
+creations-chat 2020-07-12 20:18:59 OK I WILL MAKE IT
+creations-chat 2020-07-12 20:19:27 2k years to fix this shit
+creations-chat 2020-07-12 20:21:33 > (-O-)
+<@!248889043977371648> dude, it locks like a emoticon ._.
+creations-chat 2020-07-12 20:22:34 K
+creations-chat 2020-07-12 20:28:16 naaah
+creations-chat 2020-07-12 20:28:40 make it more tiny
+creations-chat 2020-07-12 20:36:44 how is it looking now?
+creations-chat 2020-07-12 20:36:52 
+creations-chat 2020-07-12 20:37:38 OOOOOOH
+creations-chat 2020-07-12 20:38:01 > how to:
+> 
+> carrier bow
+<@456226577798135808> dude...
+creations-chat 2020-07-12 20:38:29 bruh moment
+creations-chat 2020-07-12 20:39:04 ok but, it is better now?
+creations-chat 2020-07-12 20:40:28 K
+creations-chat 2020-07-12 20:54:37 it is enougth wider?
+creations-chat 2020-07-12 20:54:54 .-.
+creations-chat 2020-07-12 20:55:15 top does't need point
+creations-chat 2020-07-12 20:55:36 HOLLY SHIT OK
+creations-chat 2020-07-12 20:55:41 I WILL POINT THIS THING
+creations-chat 2020-07-12 21:00:48 ok it is more pointy now
+creations-chat 2020-07-12 21:02:58 > PAnque the top is fine but the bottom is what needs slim the part in the water
+<@!248889043977371648> sorry but im stupid and cant done it
+creations-chat 2020-07-12 21:06:40 <@!248889043977371648> your heli rotors too high
+creations-chat 2020-07-12 21:07:00 use lock motors to make it a little bit more tiny
+bug-reports 2020-07-13 16:58:13 k
+bug-reports 2020-07-13 16:59:49 
+bug-reports 2020-07-13 17:00:03 
+creations-chat 2020-07-17 23:37:30 > What you guys think of my old nagato?
+<@!444287287820419102> fat and tall :/
+creations-chat 2020-07-17 23:37:53 turret's fat too
+creations-chat 2020-07-17 23:38:04 first space station, lol
+creations-chat 2020-07-17 23:38:17 it is my Mark IV
+creations-chat 2020-07-17 23:38:35 hehe boy
+creations-chat 2020-07-17 23:39:19 fat
+creations-chat 2020-07-17 23:39:31 and the top part's ugly
+creations-chat 2020-07-17 23:39:39 
+creations-chat 2020-07-17 23:39:48 this half blocks are ugly
+creations-chat 2020-07-17 23:39:54 :/
+creations-chat 2020-07-17 23:40:13 dude, i want the ranked role but im too lazzy to got it
+creations-chat 2020-07-17 23:40:20 bc i can get it
+creations-chat 2020-07-17 23:40:35 but im to lazzy to rec a build to send it
+creations-chat 2020-07-17 23:41:37 > aeronautics role?
+<@!393679134779375616> Shipwrigth, VTOL and the terrain thing i just forgot
+creations-chat 2020-07-17 23:41:48 i have tanks i have heli's and ships :/
+creations-chat 2020-07-17 23:41:54 i have a sub too
+creations-chat 2020-07-17 23:42:06 arround 1.800 blocks i think
+creations-chat 2020-07-17 23:42:09 > i tried to do this part
+<@!444287287820419102> dude
+creations-chat 2020-07-17 23:42:13 ..
+creations-chat 2020-07-17 23:42:18 <:YouTried:559530066258821131>
+creations-chat 2020-07-17 23:42:40 try better next time
+creations-chat 2020-07-17 23:43:28 dude, should i rec and print one of my builds to get a rank?
+creations-chat 2020-07-17 23:43:31 i just wanna send ideas
+creations-chat 2020-07-17 23:43:40 like bigger half wedges
+creations-chat 2020-07-17 23:43:43 and no one think about it
+creations-chat 2020-07-17 23:43:46 but is needed
+creations-chat 2020-07-17 23:44:13 thinks like 1x2 half wedge (from normal half wedges)
+creations-chat 2020-07-17 23:44:25 or 1x2/1x4 half wedge blocks
+creations-chat 2020-07-17 23:44:49 or up version of tiny wedge from half blocks :/
+creations-chat 2020-07-17 23:45:03 > *wortor jet intensifies*
+<@!393679134779375616> *sad song intensifies*
+creations-chat 2020-07-17 23:45:29 most incridible is see people with useless ideas trying to get upvotes
+creations-chat 2020-07-17 23:45:45 or stupid things who dont is needed now
+creations-chat 2020-07-17 23:45:54 and have a lot more needed things and no one talk about it
+creations-chat 2020-07-17 23:46:08 like bigger propellor's
+creations-chat 2020-07-17 23:46:18 or bigger jet engines
+creations-chat 2020-07-17 23:46:22 and no one talk about it
+creations-chat 2020-07-17 23:46:40 :/
+creations-chat 2020-07-17 23:47:59 dude
+creations-chat 2020-07-17 23:48:06 water jet is like winter whell
+creations-chat 2020-07-17 23:48:12 no one really need it
+creations-chat 2020-07-17 23:48:40 dude
+creations-chat 2020-07-17 23:48:52 just let add materials to the fucking whell
+creations-chat 2020-07-17 23:48:59 and it never will needed to exist
+creations-chat 2020-07-17 23:55:04 yes
+creations-chat 2020-07-17 23:55:12 or a docking block
+creations-chat 2020-07-17 23:55:35 because is suck when you wanna you have a FUCKING GIGA CARGO PLANE and cannot use it for nothing
+creations-chat 2020-07-17 23:55:49 > wats that
+<@!393679134779375616> a block if another player have it can lock a build in your
+creations-chat 2020-07-17 23:56:13 yes
+creations-chat 2020-07-17 23:56:22 but surelly rickje never will add it
+creations-chat 2020-07-17 23:56:27 or just in the next year
+creations-chat 2020-07-17 23:56:43 orr add FUCKING LASERS
+creations-chat 2020-07-17 23:56:56 or remake the gun skin because it is suck
+creations-chat 2020-07-17 23:57:29 i love plane crazy but it makes the game meh
+creations-chat 2020-07-17 23:57:47 we need more blocks and not useless things who donot care about it
+creations-chat 2020-07-17 23:58:11 we need things like a new map
+creations-chat 2020-07-17 23:58:14 with a bigger ocean
+creations-chat 2020-07-17 23:58:18 dude, really
+creations-chat 2020-07-17 23:58:30 i cannot move 2 meters with my sub without fall to the void
+creations-chat 2020-07-18 00:14:53 k
+creations-chat 2020-07-19 13:49:23 <@456226577798135808> tracks need to be more higger
+creations-chat 2020-07-19 13:49:56 ok
+creations-chat 2020-07-19 13:50:12 ._.
+creations-chat 2020-07-19 13:50:17 it need to be a little bit higger in some parts
+creations-chat 2020-07-19 13:50:30 like the front and front middle
+creations-chat 2020-07-19 13:50:35 ok!
+creations-chat 2020-07-19 13:50:38 good luck sir
+creations-chat 2020-07-19 13:50:54 k
+creations-chat 2020-07-19 13:51:18 im building a fat bomber ._.
+creations-chat 2020-07-19 13:52:07 
+creations-chat 2020-07-19 13:56:19 hmm
+creations-chat 2020-07-19 13:56:22 pretty better
+creations-chat 2020-07-19 14:05:01 k
+creations-chat 2020-07-19 14:05:10 it works good, as i can see
+creations-chat 2020-07-19 14:05:53 WIP so far churchill MK VII
+creations-chat 2020-07-19 14:12:56 another pic :/
+creations-chat 2020-07-19 14:14:32 yee
+creations-chat 2020-07-19 14:14:37 i already need alot things
+creations-chat 2020-07-19 14:14:58 but i think hull is close to be finally done
+creations-chat 2020-07-19 14:48:48 K
+creations-chat 2020-07-19 14:48:51 PERFECT
+creations-chat 2020-07-19 14:48:54 A SOAP BAR
+creations-chat 2020-07-19 14:49:14 
+creations-chat 2020-07-19 14:49:44 K
+creations-chat 2020-07-19 14:49:58 OH SHIT
+creations-chat 2020-07-19 14:50:05 I HAVE ONE
+creations-chat 2020-07-19 14:50:06 LOL
+creations-chat 2020-07-19 14:50:55 
+creations-chat 2020-07-20 13:31:13 if it just exist shield's will be more OP than cutter blocks
+creations-chat 2020-07-20 13:31:45 imagine noob bacons: HAHA I WILL BUILD A CUTTER/SHIELD TONK
+creations-chat 2020-07-20 13:32:57 hmmm
+creations-chat 2020-07-20 13:32:59 dude
+creations-chat 2020-07-20 13:33:06 2 blocks for 1 thing work
+creations-chat 2020-07-20 13:33:13 it is a little bit suck
+creations-chat 2020-07-20 13:33:36 i think it can be better if the shield have a GIANT LIFE but if you attack it for some time it just disapear
+creations-chat 2020-07-20 13:34:19 or the 2 things
+creations-chat 2020-07-20 13:34:33 yes,yes you're rigth
+creations-chat 2020-07-20 13:34:50 but we have bigger problems to solve
+creations-chat 2020-07-20 13:34:58 like FUCKING BIGGER HALF BLOCKS
+creations-chat 2020-07-20 13:35:16 i cannot make my tank cannon work because i dont have bigger half blocks
+creations-chat 2020-07-20 13:35:28 we need bigger half blocks
+creations-chat 2020-07-20 13:35:30 YES
+creations-chat 2020-07-20 13:35:40 like bigger half block wedges
+creations-chat 2020-07-20 13:35:43 or bigger triangle wedges
+creations-chat 2020-07-20 13:36:32 dude, today y tried to make a fighter with half wing blocks and i dint got make it
+creations-chat 2020-07-20 13:36:44 because we need bigger half wedges
+creations-chat 2020-07-20 13:36:55 > try glitching blocks
+<@!588020216743591976> glitching is suck
+creations-chat 2020-07-20 13:37:17 it is
+creations-chat 2020-07-20 13:37:35 because is just make a half block bigger with strecth from studio
+creations-chat 2020-07-20 13:37:36 and save it
+creations-chat 2020-07-20 13:38:21 another thing we need's up version of tiny half wedge
+creations-chat 2020-07-20 13:38:40 and use lock motors to fix it sucks
+creations-chat 2020-07-20 13:38:54 because lock motors sometimes is too big for a creation
+creations-chat 2020-07-20 13:39:12 > no what we need are half wedge down and half wedge up 1x2
+<@456226577798135808>
+creations-chat 2020-07-20 13:41:35 yes, yes
+creations-chat 2020-07-20 13:42:00 most sad is, as i can see rickje dont care about wedges
+creations-chat 2020-07-20 13:43:41 or make a version of this block who can connect itself
+creations-chat 2020-07-20 13:44:41 but a version as you dont need use half wedges
+creations-chat 2020-07-20 13:47:29 or just decrease the slowmode with motors
+creations-chat 2020-07-20 13:48:10 > eletricity to use the motors
+<@!419477639229865984> it will be useless, like the fuel
+creations-chat 2020-07-20 13:48:17 no one remember fuel anymore
+creations-chat 2020-07-20 13:48:55 dude
+creations-chat 2020-07-20 13:49:15 it is like make a carrier for planes and no one have want to land it
+creations-chat 2020-07-20 13:49:41 :/
+creations-chat 2020-07-20 14:15:26 area 51 invasion
+creations-chat 2020-07-20 14:19:17 > As requested yesterday, the Reliant Robin has been repainted a sickly light blue.
+<@!324815581368811520> it is looking nice
+creations-chat 2020-07-20 14:19:42 genius builder
+creations-chat 2020-07-20 14:19:59 this game isn't plane crazy, now is crazy bugs
+creations-chat 2020-07-20 14:20:24 > And thank you
+<@!324815581368811520> no problem, sir
+creations-chat 2020-07-20 14:20:40 dude, i have more buggy things ._.
+creations-chat 2020-07-20 14:20:53 like mine "aquatic" tank
+creations-chat 2020-07-20 14:21:03 if it touch the water explode to  other universe
+creations-chat 2020-07-20 14:21:34 my tank loves water, like my cat...
+creations-chat 2020-07-20 14:24:19 <@!387195148741771275> it looks like optmus prime
+creations-chat 2020-07-20 14:25:56 lol
+help 2020-07-20 14:28:53 > how do i get better at car detailing and mechanics stuff im only good with planes
+<@!491254168808456192> use more triangle wedge blocks,laders, trap doors and trail blocks
+help 2020-07-20 14:29:01 and some wings
+creations-chat 2020-07-20 14:29:45 > WhY mUst RoPEs Be So GliTcHY
+<@!305721738015014913> because god hate's you
+creations-chat 2020-07-20 14:30:34 GENIUS
+creations-chat 2020-07-20 14:31:35 > ever built a fishin rod?
+<@!305721738015014913> i never did it ._.
+creations-chat 2020-07-20 14:31:43 <@!444287287820419102> big bad boy
+creations-chat 2020-07-20 14:31:54 no
+creations-chat 2020-07-20 14:32:03 the cat is thinking in a plan to dominate the world
+creations-chat 2020-07-20 14:32:22 k
+creations-chat 2020-07-20 14:34:42 <@!581846949901369365> this part's too big
+creations-chat 2020-07-20 14:34:54 
+creations-chat 2020-07-20 14:34:55 look
+creations-chat 2020-07-20 14:35:05 wait, im going to take a photo
+creations-chat 2020-07-20 14:35:34 dude, you did it curved and fat
+creations-chat 2020-07-20 14:35:44 it need be like a paper piece
+creations-chat 2020-07-20 14:35:57 fat chonk
+creations-chat 2020-07-20 14:36:51 k
+help 2020-07-20 14:39:24 hmm
+help 2020-07-20 14:39:41 make the engine 5x8
+help 2020-07-20 14:39:49 and i think it will work perfectly
+help 2020-07-20 14:40:17 but i dont thing 4 folds will work good with this plane
+help 2020-07-20 14:40:25 its too long for it
+help 2020-07-20 14:40:32 2,5 fold is more than needed
+creations-chat 2020-07-20 14:40:49 yes, it is with too much effects
+creations-chat 2020-07-20 14:40:54 but it looks very nice
+creations-chat 2020-07-20 14:40:58 i love TU-144
+creations-chat 2020-07-20 14:41:11 yes but, old movie's dont is dark
+creations-chat 2020-07-20 14:41:18 > <@!565165316116578324> now?
+<@!581846949901369365> very better
+creations-chat 2020-07-20 14:41:23 dude
+creations-chat 2020-07-20 14:41:29 old movies are black and white
+creations-chat 2020-07-20 14:41:34 and not just black
+creations-chat 2020-07-20 14:41:46 AND
+creations-chat 2020-07-20 14:41:54 IDC
+creations-chat 2020-07-20 14:41:58 DO IT NOW
+creations-chat 2020-07-20 14:42:00 k
+creations-chat 2020-07-20 14:42:11 > WHAT NOW?
+<@456226577798135808> POTATOES
+creations-chat 2020-07-20 14:42:38 <@!581846949901369365> looks nice
+creations-chat 2020-07-20 14:42:49 > <:NotFunny:602000308154925057>
+<@456226577798135808> it is funny ._.
+creations-chat 2020-07-20 14:47:46 <@!324815581368811520> the bus have suspension?
+creations-chat 2020-07-20 14:48:03 lol
+creations-chat 2020-07-20 14:48:41 hmmm
+creations-chat 2020-07-20 14:50:26 lol
+creations-chat 2020-07-20 14:50:29 it looks very nice
+creations-chat 2020-07-20 14:50:36 what is the missile truck name?
+creations-chat 2020-07-20 14:50:38 i just forgot
+creations-chat 2020-07-20 14:50:44 hmmmm
+creations-chat 2020-07-20 14:50:53 i have a friend who wants build it
+creations-chat 2020-07-20 14:51:16 ICBM RS-28 rigth?
+creations-chat 2020-07-20 14:51:29 ooooh
+creations-chat 2020-07-20 14:51:43 very nice
+creations-chat 2020-07-20 14:52:30 yeeeh
+creations-chat 2020-07-20 14:52:45 i just dont build big things because them slowmode very hard
+creations-chat 2020-07-20 14:52:57 300 speed=5
+creations-chat 2020-07-20 14:53:25 lol
+creations-chat 2020-07-20 14:54:14 lol
+creations-chat 2020-07-20 14:54:28 my 560 blocks BM-13N get 21 upvotes
+creations-chat 2020-07-20 14:54:31 lol
+creations-chat 2020-07-20 14:54:56 k
+creations-chat 2020-07-20 16:07:45 <@!508065143905845248> very nice
+creations-chat 2020-07-20 16:07:48 sorry for ping ._.
+creations-chat 2020-07-20 16:08:02 it looks fantastic
+help 2020-07-20 16:08:56 good luck
+help 2020-07-20 16:09:20 if the fold bee too big big lower it to 1.5 or 1.9
+bot-central 2020-07-20 19:31:57 ?rhelp
+creations-chat 2020-07-20 20:23:38 Everthing normal here.
+help 2020-07-20 20:25:03 any way to make this stop happening without propellors or something else?
+creations-chat 2020-07-21 01:26:21 how it looks?
+creations-chat 2020-07-21 01:26:35 is the speed mode for my ground attack aircraft
+creations-chat 2020-07-21 01:26:46 it is capable to support 5k speed or higger
+creations-chat 2020-07-21 01:27:23 i'll gtg
+creations-chat 2020-07-21 01:27:26 bye bye boys
+creations-chat 2020-07-21 01:28:48 OOOOOOOOOH BOOOOOOOOOY
+creations-chat 2020-07-21 01:29:04 a little bit slow diving, lol
+creations-chat 2020-07-21 01:29:18 > hypersonic or something
+<@!628393318874873886> no, just supersonic
+creations-chat 2020-07-21 01:29:59 but as i remember this is the most fast bomber plane in the earth ._.
+creations-chat 2020-07-21 01:30:05 if you compare it with the real life
+creations-chat 2020-07-21 01:30:14 so... i gtg
+creations-chat 2020-07-21 01:30:20 > hypersonic is classified as 3836.35 mph
+<@!628393318874873886> ._.
+creations-chat 2020-07-21 01:30:23 holly sh
+creations-chat 2020-07-21 01:30:34 I AM BIG BRAIN
+creations-chat 2020-07-21 01:30:44 > realistically at high speeds those forward swept wings will be torn off
+<@!447221768520859659> yes
+creations-chat 2020-07-21 01:30:52 realism does't exist in plane crazy
+creations-chat 2020-07-21 01:31:17 most incridible is the "speed mode" just work with the conveyor engine onn, lol
+creations-chat 2020-07-21 01:31:34 withouth it is impossible to control and it just pitch up
+creations-chat 2020-07-21 01:31:55 i think it happend because conveyor engine just increase alot manuevering in planes..
+creations-chat 2020-07-21 01:32:09 > i try to make my planes as realistic as possible in physics
+<@!447221768520859659> idc about physics
+creations-chat 2020-07-21 01:32:14 i live in 2077
+creations-chat 2020-07-21 01:32:17 EVERTHING IS POSSIBLE
+creations-chat 2020-07-21 01:32:54 rockets in dog figths=shoot shit in your enemies
+creations-chat 2020-07-21 01:33:10 ok ok i'll leave now and shut up
+creations-chat 2020-07-21 01:33:12 bye guys
+creations-chat 2020-07-21 19:18:00 <@!639390338133524481> you are a fucking genius
+creations-chat 2020-07-21 19:18:05 best build's i ever seen
+creations-chat 2020-07-21 19:19:24 i have some BEAUTIFUL BUILDS too but im too lazzy to enter in plane crazy to print it ._.
+creations-chat 2020-07-22 18:57:43 <@!457390993025662987> wait, you builded this seryously or you're just kidding?(sorry for ping)
+creations-chat 2020-07-22 18:59:20 
+creations-chat 2020-07-22 18:59:23 talking about this...
+creations-chat 2020-07-22 19:03:15 
+creations-chat 2020-07-22 19:03:19 just look the wings position...
+creations-chat 2020-07-22 19:03:59 you maked a fighter version of SR-71 Blackbird
+creations-chat 2020-07-22 19:04:20 
+creations-chat 2020-07-22 19:06:06 soo... it means: MAKE AGAIN, MAKE BETTER
+creations-chat 2020-07-22 19:06:58 yeeeeeeeeeeeh
+creations-chat 2020-07-22 19:07:08 i cant did something better...
+creations-chat 2020-07-22 19:07:12 im horrible with planes
+creations-chat 2020-07-22 19:07:51 same
+creations-chat 2020-07-22 19:08:01 that's why i build tanks and trucks :/
+creations-chat 2020-07-22 19:08:16 but just WWII tanks
+creations-chat 2020-07-22 19:08:33 yes, i have a WWI tank but is a bit ugly ._.
+creations-chat 2020-07-22 19:09:49 idk why but when i try make a bomber i make a flying trash can and when i try make a fighter or something else i just make  the perfect diving bomber
+creations-chat 2020-07-22 19:10:07 like the flying shit my friends call "mig-28"
+creations-chat 2020-07-22 19:10:19 it is just my more faster and destructive carpet bomber i ever made
+creations-chat 2020-07-22 19:10:25 and the idea was build a fighter...
+creations-chat 2020-07-22 19:10:59 i just builded a diving bomber more OP than a tunned noob plane..
+creations-chat 2020-07-22 19:11:12 the thing who had to be Mig-28 just have 5k topspeed...
+creations-chat 2020-07-22 19:11:45 hmh
+creations-chat 2020-07-22 19:12:18 hmmm
+creations-chat 2020-07-22 19:12:32 it just remembered a guy who builded a ultra-ligth
+creations-chat 2020-07-22 19:12:36 with trail blocks
+creations-chat 2020-07-22 19:13:08 it just looked pretty nice but when i was going to ask how them just did it the guy leaved discord :/
+creations-chat 2020-07-22 19:17:32 https://cdn.discordapp.com/attachments/384025409945337856/734890095475425290/flylight.PNG
+creations-chat 2020-07-22 19:17:33 here is
+creations-chat 2020-07-22 20:04:27 > tutorial
+<@!508065143905845248> can show me the tutorial pls?
+creations-chat 2020-07-22 20:06:11 dude.... why people downvoted this?
+creations-chat 2020-07-22 20:12:07 plane crazy people are strange...
+creations-chat 2020-07-22 20:12:19 like the downvote people
+creations-chat 2020-07-22 20:12:36 is super strange...
+creations-chat 2020-07-22 20:12:47 like the ship downvoting
+creations-chat 2020-07-22 20:17:29 > <@!565165316116578324> the ship is just all dark grey
+<@!527653676022628353> and?
+creations-chat 2020-07-22 20:17:37 dude, is just a fucking color
+creations-chat 2020-07-22 20:17:53 is like you hate your favorite food type because you dont like the collor anymore
+creations-chat 2020-07-22 20:18:23 lol
+creations-chat 2020-07-22 20:18:46 brooo im not in rage ._.
+creations-chat 2020-07-22 20:18:55 and i dont builded
+creations-chat 2020-07-22 20:19:04 lol
+creations-chat 2020-07-22 20:19:35 > english please
+<@!527653676022628353> sorry im not good with english...
+creations-chat 2020-07-22 20:20:01 ...
+creations-chat 2020-07-22 20:20:10 dude
+creations-chat 2020-07-22 20:20:13 isn't a rage
+creations-chat 2020-07-22 20:20:21 im not angry or something else
+creations-chat 2020-07-22 20:22:00 lol, idc
+creations-chat 2020-07-22 20:22:26 everthing is weird
+creations-chat 2020-07-22 20:22:32 and im not new ._.
+creations-chat 2020-07-22 20:23:01 k
+creations-chat 2020-07-22 20:24:45 hmmm
+creations-chat 2020-07-22 20:24:50 it's good
+creations-chat 2020-07-22 20:25:04 noice
+creations-chat 2020-07-22 20:27:22 hmmm
+creations-chat 2020-07-22 20:27:36 this part looks a bit weird
+creations-chat 2020-07-22 20:27:53 > canards
+<@!705533053740777584> yes i know
+creations-chat 2020-07-22 20:28:05 > why
+<@!707457381508055090> err.. idk
+creations-chat 2020-07-22 20:28:11 size/design i think
+creations-chat 2020-07-22 20:28:32 > oh boy time to get 10k dislikes
+<@!639537878216736781> show it..
+creations-chat 2020-07-22 20:28:47 lol
+creations-chat 2020-07-22 20:29:39 k
+creations-chat 2020-07-22 20:30:03 LOL
+creations-chat 2020-07-22 20:30:22 > Mig-19
+<@!639537878216736781> it looks like my face
+creations-chat 2020-07-22 20:30:24 UGLY
+creations-chat 2020-07-22 20:30:33 everyone agree
+creations-chat 2020-07-22 20:30:54 <@!248889043977371648> good job with missiles it looks good
+creations-chat 2020-07-22 20:31:18 hmm
+creations-chat 2020-07-22 20:31:23 am thinking about life..
+creations-chat 2020-07-22 20:31:31 if everthing can be deleted with a click
+creations-chat 2020-07-22 20:31:47 yes, delete
+creations-chat 2020-07-22 20:32:31 dude
+creations-chat 2020-07-22 20:32:36 make a Mig-19
+creations-chat 2020-07-22 20:32:44 just did it...
+creations-chat 2020-07-22 20:33:27 I KNOW A GOOD ONE
+creations-chat 2020-07-22 20:33:34 make a f-104 star fighter
+creations-chat 2020-07-22 20:34:55 did it NOW
+creations-chat 2020-07-22 20:35:04 or i will it your strawnberry cake
+creations-chat 2020-07-22 20:35:59 yeeeeh
+creations-chat 2020-07-22 20:36:01 life's sad
+creations-chat 2020-07-22 20:36:13 idk what im talking
+creations-chat 2020-07-22 20:38:53 hmmmm
+creations-chat 2020-07-22 20:39:01 i think.. metal or ice
+creations-chat 2020-07-22 21:00:55 <@!705533053740777584> you sended it in bug reports?
+creations-chat 2020-07-22 21:01:07 hmm
+creations-chat 2020-07-22 21:01:09 just wait
+creations-chat 2020-07-22 21:01:21 try change server or something else
+creations-chat 2020-07-22 21:12:19 looks nice
+creations-chat 2020-07-22 21:45:16 <@!587393222855229457> your Kamov K-50 rotors are a big and high.... try make it smaller
+creations-chat 2020-07-22 21:48:58 > bruh look how tall it is on the real one
+<@!587393222855229457> not tall... just big
+creations-chat 2020-07-22 21:49:39 > <@!565165316116578324> h i g h
+<@!587393222855229457> oh ._.
+creations-chat 2020-07-22 21:49:52 > length, height, width?
+<@!396830889755017218> dude, in general
+creations-chat 2020-07-22 21:50:01 > are you talking about the swashplate?
+<@!587393222855229457> yes, i think is this
+creations-chat 2020-07-22 21:50:04 idk
+creations-chat 2020-07-22 21:50:10 it just looks bigger than the original
+creations-chat 2020-07-22 21:50:12 idk why
+creations-chat 2020-07-22 21:50:16 and prob im wrong
+creations-chat 2020-07-22 21:50:28 yes, yes
+creations-chat 2020-07-22 21:51:05 > and second of all, you should use proper words for parts
+<@!587393222855229457> sorry but, im stupid and dont know how to talk with another people
+creations-chat 2020-07-22 21:53:14 k
+creations-chat 2020-07-22 21:53:34 dude, it is just big
+creations-chat 2020-07-22 21:54:23 k
+creations-chat 2020-07-22 21:54:44 im super chill
+creations-chat 2020-07-22 21:55:55 k
+creations-chat 2020-07-22 21:56:10 k
+creations-chat 2020-07-22 21:56:19 ok lets stop this shit
+creations-chat 2020-07-22 21:56:27 k
+creations-chat 2020-07-22 21:56:37 k
+creations-chat 2020-07-22 21:56:41 k
+creations-chat 2020-07-22 21:56:47 k
+creations-chat 2020-07-22 21:57:03 ks
+creations-chat 2020-07-22 21:57:07 WAIT
+creations-chat 2020-07-22 21:57:07 aks
+creations-chat 2020-07-22 21:57:21 AKS
+creations-chat 2020-07-22 21:57:26 k
+creations-chat 2020-07-22 21:58:15 Mayconkusterkkk
+creations-chat 2020-07-24 00:40:31 god people is looking t-28 reference photo and dont see the T-28 i made...
+creations-chat 2020-07-24 00:40:32 lol
+creations-chat 2020-07-24 00:44:13 dude.. it is a reference photo..
+creations-chat 2020-07-24 00:44:33 people think it is a tortoise tank..
+creations-chat 2020-07-24 00:46:17 yeeeh...
+creations-chat 2020-07-24 00:46:30 oh sh...
+creations-chat 2020-07-24 00:53:13 > <@!565165316116578324> You making the Artilary train from WW2? Cant recall what its named, gustov i think.
+<@!257624380291547146> it is the Karl Gerat and isn't mine, is from my friend
+creations-chat 2020-07-24 00:53:20 im the tank on the side
+creations-chat 2020-07-24 00:53:27 and is a tank
+creations-chat 2020-07-24 00:53:33 a artilary tank
+creations-chat 2020-07-24 00:53:46 no problem, sir
+creations-chat 2020-07-24 01:12:19 boat looks good
+creations-chat 2020-07-24 01:12:22 bid bad boy
+bug-reports 2020-07-25 23:03:02 
+bug-reports 2020-07-25 23:03:07 a normal day, a normal game
+bug-reports 2020-07-25 23:05:32 https://cdn.discordapp.com/attachments/713803149382516847/736720002069299220/unknown.png
+bug-reports 2020-07-25 23:05:48 i dindt know 360° motors exist in plane crazy... lol
+creations-chat 2020-07-26 23:45:51 i like potatoes :v
+creations-chat 2020-07-26 23:46:16 LGBT flag
+creations-chat 2020-07-26 23:48:16 im too lazy :/
+creations-chat 2020-07-27 18:43:55 ._.
+creations-chat 2020-07-27 18:43:56 nice
+creations-chat 2020-07-27 18:44:07 i think i just did the most weird wing in all my life
+creations-chat 2020-07-27 18:44:20 
+creations-chat 2020-07-27 18:44:27 
+help 2020-07-27 18:46:33 > After I drop bombs, the CoM gets thrown far forward, is there a way I can counterbalance this? I was thinking ballast tanks in the back but idk if that works in the air
+<@!280162718961631234> balast tanks just work when in water
+help 2020-07-27 18:47:06 no problem, sir
+creations-chat 2020-07-28 01:44:59 the most ugly tank i ever seen...
+creations-chat 2020-07-28 01:50:31 > <@!565165316116578324> wow what a great way to encourage people. atleast they tried
+<@!720024036863901717> yes
+creations-chat 2020-07-28 01:50:39 i know, im very good with this
+creations-chat 2020-07-28 01:51:50 dude, chill
+creations-chat 2020-07-28 01:52:06 me and me friend will teach him how to build something good
+creations-chat 2020-07-28 01:52:28 > YOU chill. making fun of someone's build is not okay.
+<@!720024036863901717> dude
+creations-chat 2020-07-28 01:52:32 im just kidding
+creations-chat 2020-07-28 01:52:47 YOU THINK IT IS FUN?
+creations-chat 2020-07-28 01:53:01 HE CALL IT "TIGER 5"
+creations-chat 2020-07-28 01:53:10 yeh
+creations-chat 2020-07-28 01:53:12 just kidding
+creations-chat 2020-07-28 01:53:23 dude
+creations-chat 2020-07-28 01:53:28 no
+creations-chat 2020-07-28 01:53:30 its a trash can
+creations-chat 2020-07-28 01:53:54 > Guys listen water bottle
+<@456226577798135808> BF109 is the best plane he every does
+creations-chat 2020-07-28 01:54:08 warm incoming...
+creations-chat 2020-07-28 01:54:21 dude
+creations-chat 2020-07-28 01:54:25 im in call with him
+creations-chat 2020-07-28 01:54:38 hes saying "let's see how much dislikes it will get"
+creations-chat 2020-07-28 01:54:56 dude, it isnt wrong
+creations-chat 2020-07-28 01:55:02 hes not sad with this
+creations-chat 2020-07-28 01:55:14 dude
+creations-chat 2020-07-28 01:55:32 he literally say "post the tiger 5 prints to see how much people will hate it, lol"
+creations-chat 2020-07-28 01:56:13 people is fighting me, but im not wrong and not the bad dude
+creations-chat 2020-07-28 01:56:16 dude
+creations-chat 2020-07-28 01:56:17 really
+creations-chat 2020-07-28 01:57:17 bruh, why people dont care when im talking something and just ignore it
+creations-chat 2020-07-28 01:57:24 he isnt sad with this
+creations-chat 2020-07-28 01:57:28 he aproved this
+creations-chat 2020-07-28 02:00:41 <@!622262673543004185> sup bruuuuuh
+creations-chat 2020-07-31 19:36:13 how it's looking?
+creations-chat 2020-07-31 19:38:57 ok
+creations-chat 2020-07-31 19:39:04 lemme did it
+creations-chat 2020-07-31 19:40:31 
+creations-chat 2020-07-31 19:41:32 here is a better view, i think
+creations-chat 2020-07-31 19:45:54 sure
+creations-chat 2020-07-31 19:45:57 let me take a pic
+creations-chat 2020-07-31 19:46:16 it's a little bit fat
+creations-chat 2020-07-31 19:49:08 > wot is it?
+<@!393679134779375616> T-54/55
+creations-chat 2020-07-31 19:50:17 > oh i know that i was replying to the dude who supposedly made a new engine lol <@!565165316116578324>
+<@!393679134779375616> oooh, lol
+creations-chat 2020-07-31 19:50:21 srry
+creations-chat 2020-07-31 19:50:48 hmm
+creations-chat 2020-07-31 19:50:49 nice
+creations-chat 2020-07-31 19:51:03 but i think isn't better thank conveyor engine
+creations-chat 2020-07-31 19:51:19 i knew a dude who did a 63k speed plane :/
+creations-chat 2020-07-31 19:57:37 of fuck, i think he will delete it
+creations-chat 2020-07-31 19:58:32 idk
+creations-chat 2020-07-31 19:58:35 god hate's him
+creations-chat 2020-07-31 20:03:29 eeeeeeeeh
+creations-chat 2020-07-31 20:04:13 same, of pandanator
+creations-chat 2020-07-31 20:06:00 dude
+creations-chat 2020-07-31 20:06:11 my friend is saying "if i dont reach 10 upvotes i will be sad"
+creations-chat 2020-07-31 20:06:52 is the hetzer
+creations-chat 2020-07-31 20:07:02 i posted it for him
+creations-chat 2020-07-31 20:07:12 https://cdn.discordapp.com/attachments/384025409945337856/738844495210217553/unknown.png
+creations-chat 2020-07-31 20:07:51 he's saying he will be sad because we have a low quality builder named pedson, and he reached 10 upvotes in a build
+creations-chat 2020-07-31 20:08:03 > who likes my hover craft?
+<@!719553910423027713> it looks good, but can be better
+creations-chat 2020-07-31 20:08:59 > ok u go build one
+<@!719553910423027713> i dont want
+creations-chat 2020-07-31 20:09:07 i have better things to build now
+creations-chat 2020-07-31 20:09:41 ooh
+creations-chat 2020-07-31 20:12:49 YES
+creations-chat 2020-07-31 20:12:50 WE GOT IT
+creations-chat 2020-07-31 20:12:55 HE DONT WILL DELETE THE HETZER
+creations-chat 2020-07-31 20:12:58 FLOOD DOWNVOTES NOW
+creations-chat 2020-07-31 20:13:41 just kidding
+creations-chat 2020-07-31 20:18:10 thefuck
+creations-chat 2020-07-31 20:20:35 body builder mech
+creations-chat 2020-08-02 14:27:30 idk ._.
+creations-chat 2020-08-02 14:27:45 dude, im just building this for fun
+creations-chat 2020-08-02 14:27:49 idk what im doing
+creations-chat 2020-08-02 14:28:04 my friend say to i build it
+creations-chat 2020-08-02 14:28:12 and i say "fuck off, now i will build it"
+creations-chat 2020-08-02 14:28:39 i will suffer to finish this...
+creations-chat 2020-08-02 14:30:19 dude, im too lazzy but i will did it
+creations-chat 2020-08-02 14:30:27 i promisse to my friend i would finish
+creations-chat 2020-08-02 14:31:01 oooooh..
+creations-chat 2020-08-02 14:31:17 yes, me too
+creations-chat 2020-08-02 14:31:23 but i will did this thing
+creations-chat 2020-08-02 14:31:26 THING
+creations-chat 2020-08-02 14:31:31 it is a thing
+creations-chat 2020-08-02 14:31:36 not a ekranoplan
+creations-chat 2020-08-02 14:38:09 well, Lun died
+bug-reports 2020-08-08 23:20:47 err.... nothing to say, just look
+creations-chat 2020-08-09 18:51:16 k :v
+creations-chat 2020-08-09 18:51:20 wich creation?
+creations-chat 2020-08-09 18:52:39 wait...
+creations-chat 2020-08-09 18:52:45 i dont remember use the Stuka in pvp
+creations-chat 2020-08-09 18:52:52 AAAAAAAAAAH
+creations-chat 2020-08-09 18:52:54 I REMEMBER
+creations-chat 2020-08-09 18:59:08 lol, he loved the stuka
+creations-chat 2020-08-09 19:02:10 l
+creations-chat 2020-08-09 19:02:14 lol
+creations-chat 2020-08-09 19:02:27 BIG BAD BOYS DIVING
+creations-chat 2020-08-09 19:05:23 LOL
+creations-chat 2020-08-09 19:11:31 nice k
+creations-chat 2020-08-09 19:13:58 lol
+creations-chat 2020-08-09 19:16:24 ooooh, hello <@!693476997007147068>
+creations-chat 2020-08-09 19:16:27 i remember you
+creations-chat 2020-08-09 19:17:15 srry ._.
+creations-chat 2020-08-09 19:37:59 Guys, what do you think about my new Stuka camo?
+creations-chat 2020-08-09 19:38:09 
+creations-chat 2020-08-09 19:40:02 i did a afrika korps camo too...
+creations-chat 2020-08-09 19:48:35 it is a P6M Seamaster
+creations-chat 2020-08-09 19:49:31 i think the windows are too big for the plane
+creations-chat 2020-08-09 19:50:00 but nvm, prob im wrong
+help 2020-08-09 22:01:50 oh...
+help 2020-08-09 22:01:53 i know this problem
+help 2020-08-09 22:01:57 it happend to my old chinook
+help 2020-08-09 22:02:05 i deleted they because this
+help 2020-08-09 22:02:31 oooh, i have a tip
+help 2020-08-09 22:02:36 balast blocks and helium
+help 2020-08-09 22:02:51 you need balast too
+help 2020-08-09 22:03:08 hm
+help 2020-08-09 22:04:17 oh...
+help 2020-08-09 22:04:43 i know a friend who make a sea knigth, it works pretty well and i think he can help you
+help 2020-08-09 22:04:46 but he's afk
+help 2020-08-09 22:08:08 lol
+help 2020-08-09 22:08:11 very nice
+help 2020-08-09 22:09:05 can i got a rank with this Stuka?
+help 2020-08-09 22:09:25 it works pretty well, and can fly at 16k speed :v
+help 2020-08-09 22:19:20 lemme see
+help 2020-08-09 22:19:28 467 blocks... ._.
+help 2020-08-09 22:19:51 yes, it can doo everthing
+help 2020-08-09 22:19:54 yes
+help 2020-08-09 22:20:03 to help manuvering :v
+help 2020-08-09 22:20:15 ._.
+help 2020-08-09 22:20:22 lol
+help 2020-08-09 22:20:46 but it dind't need it, i just use to help in higger speeds
+help 2020-08-09 22:20:55 like 10k speed
+help 2020-08-09 22:21:15 ._.
+help 2020-08-09 22:21:25 ooh...
+help 2020-08-09 22:21:33 i have a custom aleron to help to roll
+help 2020-08-09 22:21:37 *aeleron
+help 2020-08-09 22:21:51 nopa
+help 2020-08-09 22:21:51 
+help 2020-08-09 22:21:54 just motors
+help 2020-08-09 22:22:31 oky
+help 2020-08-09 22:22:48 wait, just a question
+help 2020-08-09 22:22:59 conveyor engines are okay?
+help 2020-08-09 22:23:15 OOOOOOOH YEEEEEEEH
+help 2020-08-09 22:23:26 lets go fast :v
+help 2020-08-09 22:23:42 i just a rank for suggestions
+help 2020-08-09 22:24:04 helium blocks are agains't the rules?
+help 2020-08-09 22:24:35 shoot...
+help 2020-08-09 22:24:42 it is filled up with helium
+help 2020-08-09 22:24:53 ._.
+help 2020-08-09 22:24:57 i will need to fix it...
+help 2020-08-09 22:30:05 lol, conveyor engine save lifes
+help 2020-08-09 22:30:15 more helium, and more balast
+help 2020-08-09 22:30:40 wait, i have another question
+help 2020-08-09 22:30:50 i use some propellors for taxi, it is agains't the rules?
+creations-chat 2020-08-11 21:19:01 k
+creations-chat 2020-08-11 21:19:13 dude
+creations-chat 2020-08-11 21:19:16 i just did it for fun
+creations-chat 2020-08-11 21:19:37 yes, i will remake soon
+creations-chat 2020-08-11 21:20:22 it is one of my first planes my friend dind't hate
+creations-chat 2020-08-11 21:20:32 im newbie with planes :/
+creations-chat 2020-08-11 21:30:30 dude, you can
+creations-chat 2020-08-11 21:30:32 i believe
+creations-chat 2020-08-11 21:30:44 wait...
+creations-chat 2020-08-11 21:30:53 
+creations-chat 2020-08-11 21:30:59 i dind't remember have this
+creations-chat 2020-08-11 21:31:00 lol
+creations-chat 2020-08-11 21:31:12 OOOOOOOH
+creations-chat 2020-08-11 21:31:14 i remember now
+creations-chat 2020-08-11 21:31:16 :v
+creations-chat 2020-08-11 21:31:26 i thinked i dind't got the rank
+creations-chat 2020-08-11 21:32:39 srry
+creations-chat 2020-08-11 21:38:01 hmmmm
+creations-chat 2020-08-11 21:38:18 make a pool (idk how to type it, srry)
+creations-chat 2020-08-11 21:39:03 
+creations-chat 2020-08-11 21:39:19 dont need to be large
+creations-chat 2020-08-11 21:41:11 make a restaurant
+creations-chat 2020-08-11 21:43:54 hey guys
+creations-chat 2020-08-11 21:44:05 what about add this torpedo to my "float stuka"?
+creations-chat 2020-08-11 21:49:07 hm...
+creations-chat 2020-08-11 21:49:13 i think i dind't will add it
+creations-chat 2020-08-11 21:49:15 is too big
+creations-chat 2020-08-11 21:54:32 nice
+creations-chat 2020-08-11 21:55:42 oooh, lol
+creations-chat 2020-08-11 21:55:48 i have a BM-13N Missile truck
+creations-chat 2020-08-11 21:56:03 like the BM-13N from your profile, lol
+creations-chat 2020-08-11 21:56:27 i think just alot of screen shots
+creations-chat 2020-08-11 21:56:59 ...
+creations-chat 2020-08-11 21:57:00 dude
+creations-chat 2020-08-11 21:57:14 a video is ALOT of screenshots
+creations-chat 2020-08-11 21:57:28 ._
+creations-chat 2020-08-11 21:57:39 yes, it can bee stop motion too
+creations-chat 2020-08-11 21:58:00 (sorry for bad "inglish")
+creations-chat 2020-08-11 21:58:47 > video is has frames not screenshots
+a frame is the same thing of a screenshot just a different name
+creations-chat 2020-08-11 21:58:52 its a more simple say to explain
+creations-chat 2020-08-11 21:59:34 my god
+creations-chat 2020-08-11 21:59:42 my "inglish" is soo bad..
+creations-chat 2020-08-11 22:00:57 k
+creations-chat 2020-08-11 22:01:28 the best sub you ever seen
+bot-central 2020-08-11 23:30:08 k
+bot-central 2020-08-11 23:33:21 <@!622262673543004185>  $new
+bot-central 2020-08-11 23:33:40 k
+creations-chat 2020-08-12 00:38:42 yes
+creations-chat 2020-08-12 00:38:43 ik
+creations-chat 2020-08-12 00:38:48 :v
+creations-chat 2020-08-12 00:39:02 "perfect" grammar
+creations-chat 2020-08-12 00:39:22 k
+creations-chat 2020-08-12 00:40:09 and another thing, this time it was proposital
+creations-chat 2020-08-12 00:40:41 OOOOOOH SH
+creations-chat 2020-08-12 00:40:44 AND THE GRAMMAR ATTACK AGAIN
+creations-chat 2020-08-12 00:42:37 sorry, my "inglish" is very bad
+creations-chat 2020-08-12 00:42:54 yes, that's the point
+creations-chat 2020-08-12 00:43:26 like mine ThInG my friends call Ju-87 Stuka
+creations-chat 2020-08-12 00:43:31 i just build it for fun
+creations-chat 2020-08-12 00:46:23 oooooh... i remember it from WT
+creations-chat 2020-08-12 00:46:30 "a nice example of the russian engeniering"
+creations-chat 2020-08-12 00:47:10 k
+creations-chat 2020-08-12 00:47:14 i have a friend who did it
+creations-chat 2020-08-12 00:47:26 but him deleted the KV-2-2-2-2-2-2-2-2-2--2-2-2-2-2-2...
+creations-chat 2020-08-12 01:26:53 k
+creations-chat 2020-08-12 01:26:57 the gang of the gangs
+creations-chat 2020-08-12 01:27:24 <:Pinged:508027985190715457>
+creations-chat 2020-08-12 01:27:48 
+creations-chat 2020-08-12 01:28:00 i see it
+creations-chat 2020-08-12 01:28:05 looks nice
+creations-chat 2020-08-20 01:36:56 https://streamable.com/20zhi0
+creations-chat 2020-08-20 01:37:04 what about?
+creations-chat 2020-08-20 01:37:40 yes, its a tail test
+creations-chat 2020-08-20 01:37:54 ooh, i gtg
+creations-chat 2020-08-20 01:37:58 bye bye guys
+creations-chat 2020-08-20 14:56:27 hey guys, what do you thing about my soo far WIP scorpion?
+creations-chat 2020-08-20 14:57:00 
+creations-chat 2020-08-20 14:57:20 the tail can attack too
+creations-chat 2020-08-20 14:58:41 dude, it is WIP
+creations-chat 2020-08-20 14:58:50 i am making the legs
+creations-chat 2020-08-20 15:04:30 its rage time
+creations-chat 2020-08-22 00:52:35 > <@!565165316116578324> you mean pincers?
+ <:Pinged:508027985190715457>
+creations-chat 2020-08-22 00:52:57 prob yes
+creations-chat 2020-08-22 00:53:00 i just forgot the name
+bot-central 2020-08-22 15:24:30 ?shelp
+creations-chat 2020-08-22 23:17:52 https://streamable.com/vpuzx5 i maked the hatch work.. BUT NOW I NEED DELETE IT :D
+creations-chat 2020-08-22 23:26:39 ik
+creations-chat 2020-08-22 23:26:47 > that is a very slow opening hatch
+ik
+creations-chat 2020-08-22 23:26:50 is for cinematic
+bot-central 2020-08-24 01:19:16 &suggets piston materials
+[building]
+it's just this, piston materials
+bot-central 2020-08-24 01:19:22 rlly
+bot-central 2020-08-24 01:19:37 ..
+bot-central 2020-08-24 01:19:41 i surrender
+bot-central 2020-08-24 01:21:14 meh, i don't will try anymore
+bot-central 2020-08-24 01:21:26 i'm to lazzy to did it again
+bug-reports 2020-08-25 16:45:51 https://cdn.discordapp.com/attachments/729012094502043648/747858902019997790/Captura_de_Tela_505.png
+bug-reports 2020-08-25 16:45:54 ok so...
+bug-reports 2020-08-25 16:46:35 if you shoot for a long time at the button with fireworks it just disappear
+bug-reports 2020-08-25 16:47:00 obs:my friend took the pic
+bug-reports 2020-08-25 17:07:31 idk
+bug-reports 2020-08-25 19:56:14 don't use .wmv
+bug-reports 2020-08-25 19:56:32 use streamable.com
+bug-reports 2020-08-25 19:59:02 hmm..
+creations-chat 2020-08-26 01:47:19 > <@!565165316116578324> what is that rocket on the water ?
+it's custom, but im trying to make something like the sea dragon
+creations-chat 2020-08-26 01:47:33 <@!437152336176087052>
+creations-chat 2020-08-26 01:48:03 ps: isn't a rocket, i will make a missile
+creations-chat 2020-08-26 01:48:25 BIG BOY
+creations-chat 2020-08-26 01:48:44 when i finish i will rec'em
+creations-chat 2020-08-26 22:33:16 > <@!565165316116578324>  dont psot other ppl creations
+<@!451853936815636511> k
+bug-reports 2020-08-27 20:55:29 https://streamable.com/fr9727
+bug-reports 2020-08-27 20:55:43 the missile just move when a player get closer them
+bug-reports 2020-08-28 21:15:11 https://streamable.com/ln2ghs
+bug-reports 2020-08-28 21:15:28 tnt blocks dind't exploding when i touch'em
+bug-reports 2020-08-28 21:15:56 but explode when i use the reloading magnet from the cannon
+bug-reports 2020-08-28 21:16:33 pls help, it just make this cannon useless
+bug-reports 2020-08-28 21:21:01 k
+bug-reports 2020-08-28 21:21:04 it dind't work
+bug-reports 2020-08-28 21:23:26 pvp onn does't affect onn impact
+bug-reports 2020-08-29 14:03:44 > <@!565165316116578324> set the impact speed to 1
+max impact speed is 5
+bug-reports 2020-08-29 14:04:22 > <@!565165316116578324> thats because tnt doesnt explode when you're out of your seat
+nope, tnt dind't care about if i am in the sit or not
+bug-reports 2020-08-29 14:05:10 > <@!565165316116578324> Inpact speed means that the TNT has to hit something for it to explode, not the other way around
+ok, but the TNT is hitting the ground, so it should work, and, impact speed works with this
+bug-reports 2020-08-29 14:06:03 sorry for too late answears
+bug-reports 2020-08-29 14:13:19 i tried all you guys tell me, any of em worked
+bug-reports 2020-08-29 14:13:47 something like this happened with my friend, pedsond
+bug-reports 2020-08-29 14:15:27 i really dont know how to fix it...
+bug-reports 2020-08-29 14:15:39 dude, it just destroy the cannon
+bug-reports 2020-08-29 14:15:47 bc it's a high speed tnt cannon
+bug-reports 2020-08-29 14:16:35 no, it dind't work
+bug-reports 2020-08-29 14:16:38 ANY TIME
+bug-reports 2020-08-29 14:17:22 if i set to arm on key with  on impact and with impact speed below 75, the tnt just explode without any reason before enter in the cannon
+bug-reports 2020-08-29 14:17:47 oh wait...
+bug-reports 2020-08-29 14:17:56 impact sapeed below 150, srry
+bug-reports 2020-08-29 14:18:03 *speed
+bug-reports 2020-08-29 14:18:51 k
+bug-reports 2020-08-29 14:19:19 but, im really very sad with this
+bug-reports 2020-08-29 14:19:33 bc i have plans to change the canon to a flak
+bug-reports 2020-08-29 14:19:40 but now i cannot
+bug-reports 2020-08-29 14:21:37 and, another one
+bug-reports 2020-08-29 14:21:59 i cannot make too heavy tanks towers, bc if i just try the slowmode SUCKS and i cannot use the tank
+bug-reports 2020-08-29 14:22:09 but my friends tanks works perfectly
+bug-reports 2020-08-29 15:17:16 yes, it happened to me, with my Stuka
+bug-reports 2020-08-29 15:25:47 nope
+bug-reports 2020-08-29 15:26:04 trapdoors open for you, but don't open for another players
+bug-reports 2020-09-03 20:15:37 ok, soo, my friend's speaker blocks is muted for him but not for another people, can someone please help?
+bug-reports 2020-09-03 20:17:22 he tried alot things to solve it, and nothing worked (like:rejoin, change server, restart the pc... yes he tried restart the pc)
+bug-reports 2020-09-03 20:22:23 everthing works
+bug-reports 2020-09-03 20:22:26 but not the speaker
+bug-reports 2020-09-03 20:23:05 we tested changing the speaker config, and nothing happened
+bug-reports 2020-09-03 21:08:18 > did u go into the settings icon
+sound is enabled
+bug-reports 2020-09-03 21:08:24 yes, he tried
+bug-reports 2020-09-03 21:08:52 ik
+bug-reports 2020-09-03 21:09:06 gimme a sec, he will try again
+bug-reports 2020-09-03 21:09:23 sure, i will try
+bug-reports 2020-09-03 21:18:30 ok, first try dind't worked
+bug-reports 2020-09-03 21:18:38 he's rejoining to see if it will work
+bug-reports 2020-09-03 21:19:29 ok.. he rejoined and dind't worked again
+bug-reports 2020-09-03 21:23:48 https://cdn.discordapp.com/attachments/711637592332042321/751190709805252608/unknown.png
+bug-reports 2020-09-03 21:23:50 here's it
+bug-reports 2020-09-03 21:24:01 lol
+bug-reports 2020-09-03 21:24:18 <:FixPls:548709302282747914>
+bug-reports 2020-09-04 00:02:51 > It’s been like that for me for months
+<@!665725154978168864> me too
+bug-reports 2020-09-04 00:03:17 it's sucks and idk how to fix it
+creations-chat 2020-09-05 19:37:13 ...
+creations-chat 2020-09-06 00:08:01 lol, people dont like conveyor motors
+creations-chat 2020-09-06 00:08:37 it's just the strongest conveyor motor i ever seen
+creations-chat 2020-09-06 00:09:06 strongest than my friend hypersonic privat jet...
+creations-chat 2020-09-06 00:09:19 RIP FPS
+creations-chat 2020-09-06 00:09:32 > **pravda**
+***cheeki breeki***
+creations-chat 2020-09-06 00:10:25 press F to pay respect for FPS
+creations-chat 2020-09-06 00:10:38 LOL
+creations-chat 2020-09-06 00:11:15 ***sad music start***
+creations-chat 2020-09-07 23:18:15 <:Pinged:508027985190715457>
+creations-chat 2020-09-07 23:18:35 it's for more guns in the same space
+creations-chat 2020-09-07 23:18:47 make's the AA more powerfull
+creations-chat 2020-09-07 23:19:15 k
+creations-chat 2020-09-07 23:19:47 dude, that guy have 1.000 QI
+creations-chat 2020-09-07 23:20:07 > Which guy..?
+someone,
+creations-chat 2020-09-07 23:20:29 <:wot:695654208837255219>
+creations-chat 2020-09-07 23:20:50 <:StopThat:559520667909881867>
+creations-chat 2020-09-07 23:20:58 <:OkBuddy:652567204453154816>
+creations-chat 2020-09-07 23:21:44 <:BIG1:588443768806703124> <:BIG2:588443778554134540> 
+<:BIG3:588443788721258534> <:BIG4:588443798842114088>
+creations-chat 2020-09-07 23:21:59 the big one
+creations-chat 2020-09-07 23:22:25 LOL
+creations-chat 2020-09-07 23:22:27 MY GOD
+creations-chat 2020-09-07 23:22:51 like shredder bugs creators saying they build'em himself
+creations-chat 2020-09-07 23:23:17 shredder bugs need die
+creations-chat 2020-09-07 23:24:04 **H I G H Q U A L I T Y S U S P E N S I O N**
+creations-chat 2020-09-07 23:24:08 
+creations-chat 2020-09-07 23:27:10 1.000 QI
+creations-chat 2020-09-07 23:27:46 LOL
+creations-chat 2020-09-07 23:27:57 get noobed
+creations-chat 2020-09-07 23:28:23 bye bye
+creations-chat 2020-09-07 23:29:47 should i delete him?
+creations-chat 2020-09-07 23:29:53 it's a very old sub
+creations-chat 2020-09-07 23:30:07 i dont use for nothing...
+creations-chat 2020-09-07 23:30:42 i don't need
+creations-chat 2020-09-07 23:31:06 it's a ***O L D*** sub, and i dont use anymore
+creations-chat 2020-09-07 23:31:25 i hate nostalgia...
+creations-chat 2020-09-07 23:31:33 it remembers me from when i was trash building..
+creations-chat 2020-09-07 23:31:39 o wait, i'm already trash building
+creations-chat 2020-09-07 23:33:25 RIP A-10 prototype i made some months ago..
+creations-chat 2020-09-07 23:35:56 <@456226577798135808> sup
+creations-chat 2020-09-07 23:38:01 chassi looks more bad than my face
+creations-chat 2020-09-07 23:45:01 lol
+creations-chat 2020-09-07 23:45:14 back part looks a bit good
+creations-chat 2020-09-07 23:45:18 lmao
+the-dump 2020-09-08 16:44:30 big boy missile got him
+creations-chat 2020-09-08 18:00:39 i'm so bad building..?
+creations-chat 2020-09-08 18:01:44 a homerun missile
+creations-chat 2020-09-08 18:01:54 it's my first one
+creations-chat 2020-09-08 18:02:11 https://cdn.discordapp.com/attachments/702926176137641995/752948020185923594/Screenshot_1.png
+creations-chat 2020-09-08 18:02:20 it's based in shredder bugs, and a friend missile
+creations-chat 2020-09-08 18:02:35 https://cdn.discordapp.com/attachments/702926176137641995/752947992000200764/Screenshot_5.png
+creations-chat 2020-09-08 18:02:45 im sorry..
+creations-chat 2020-09-08 18:02:57 homerun missile
+creations-chat 2020-09-08 18:03:05 i have plans to add it to a bomber
+creations-chat 2020-09-08 18:03:37 ... i will delete'em
+creations-chat 2020-09-08 18:08:09 > what is it ?
+<@!393858481268064266>
+creations-chat 2020-09-08 18:08:38 i have a BM-13N Katyusha, but it's old
+creations-chat 2020-09-08 18:09:47 nice
+bot-central 2020-09-10 00:02:40 ?s
+bot-central 2020-09-10 00:02:47 i just forgot the command..
+bot-central 2020-09-10 00:02:49 !s
+bot-central 2020-09-10 00:02:51 !shelp
+bot-central 2020-09-10 00:02:54 ah sh
+bot-central 2020-09-10 00:02:59 ?shelp
+bot-central 2020-09-10 00:03:04 oh, this one
+creations-chat 2020-09-11 13:52:07 ...
+creations-chat 2020-09-11 13:52:28 looks like my first ship
+creations-chat 2020-09-11 13:52:48 ik...
+creations-chat 2020-09-11 13:53:51 dude, this titanic remember me when i tried to make a Yamato without seeing any photo
+creations-chat 2020-09-11 13:55:37 > why would you even do that
+bc im stupid
+creations-chat 2020-09-11 13:57:00 > what do i make
+ik what
+creations-chat 2020-09-11 13:57:04 MAKE A DRAGON
+creations-chat 2020-09-11 14:06:48 ultra giga boy ship is dead
+creations-chat 2020-09-14 00:50:30 > <@!565165316116578324> i know you can use half cylinders right? for the wheels
+<@!720891502108344360> ik, but i use that bc i can taxi better
+creations-chat 2020-09-14 00:50:36 srry for too late answer
+creations-chat 2020-09-14 15:51:19 ik
+creations-chat 2020-09-14 15:51:29 but im trying to make something like..
+creations-chat 2020-09-14 15:51:30 https://cdn.discordapp.com/attachments/708830648881905746/755088939160961084/pby-5afab10.png
+creations-chat 2020-09-14 15:51:31 this
+creations-chat 2020-09-14 15:51:52 im too lazy for that
+creations-chat 2020-09-14 15:52:05 im lazy...
+creations-chat 2020-09-14 15:53:07 ik
+creations-chat 2020-09-14 15:54:51 nice
+help 2020-09-14 19:05:51 > how do i get that wing angle
+<@!484529511468236802> motor 2 and control surfaces
+help 2020-09-14 19:06:33 me?
+help 2020-09-14 19:07:01 oh
+help 2020-09-14 19:07:08 AAAAAAAAH
+help 2020-09-14 19:07:39 i think i know how to make something like that
+help 2020-09-14 19:09:12 hmm
+help 2020-09-14 19:09:21 lemme see if i can help you
+help 2020-09-14 19:11:35 hm... i think it's impossible, or i am to dumb to help you, sorry, lol
+help 2020-09-14 19:11:57 hmm
+help 2020-09-14 19:12:18 yes.. we need more blocks
+help 2020-09-14 19:12:24 or a way to change the blocks size
+help 2020-09-14 19:31:05 > how do i make my helicopter stay up in the air
+<@456226577798135808> configure the motors...
+help 2020-09-14 19:31:15 just change the speed
+help 2020-09-14 19:32:11 k
+help 2020-09-14 19:32:32 don't looks so bad.. but already looks bad
+creations-chat 2020-09-14 19:52:36 should i make a Z version of mine PBY catalina?
+creations-chat 2020-09-14 19:52:55 (this is Z version)
+help 2020-09-14 19:54:16 configure more
+help 2020-09-14 19:54:43 ...
+help 2020-09-14 19:54:47 change the fucking speed
+help 2020-09-14 19:56:37 DID MORE
+creations-chat 2020-09-15 00:49:06 waw, now i know how the planes are born
+creations-chat 2020-09-15 00:50:27 OH SH
+creations-chat 2020-09-15 00:50:42 <@!660019099430289418> are you jesus christ?
+creations-chat 2020-09-15 00:51:34 oh no... it just remembered a meme from a youtuber
+creations-chat 2020-09-15 00:52:10 he says.. "*** P R O F E S S I O N A L M I N E C R A F T E R*** "
+creations-chat 2020-09-15 14:06:40 How she's looking?
+creations-chat 2020-09-15 14:38:58 > <@!565165316116578324> Bye bye U-boats too
+<@!508065143905845248> <:Pinged:508027985190715457>
+creations-chat 2020-09-15 14:39:49 hey, let's sink the bismarck
+creations-chat 2020-09-15 14:40:45 > <@!565165316116578324> add me in roblox
+<@!508065143905845248> sure, i will add later
+creations-chat 2020-09-15 14:40:50 > <@!508065143905845248>  No pls
+<@!578006731326619678> YES
+creations-chat 2020-09-15 14:41:29 ***W E A R E C O M I N G F O R Y O U***
+creations-chat 2020-09-15 14:42:08 k
+creations-chat 2020-09-15 14:42:18 hey guys, a question
+creations-chat 2020-09-15 14:42:25 should i save the "Zwilling" catalina?
+creations-chat 2020-09-15 14:42:36 ok
+creations-chat 2020-09-15 14:43:01 a bit more blocks
+creations-chat 2020-09-15 14:43:40 my catalina is fully made with beams, so whatever
+creations-chat 2020-09-15 14:44:05 > how does that work when they're locked
+it's simples, jesus dont like you
+creations-chat 2020-09-15 14:45:36 damn.. so close
+creations-chat 2020-09-15 14:46:06 HA
+creations-chat 2020-09-15 14:46:24 in my catalina?
+creations-chat 2020-09-15 14:46:41 oh...
+creations-chat 2020-09-15 14:46:45 my catalina already have a bomb bay
+creations-chat 2020-09-15 14:46:50 and bombs in wings will be too big
+creations-chat 2020-09-15 17:04:55 SUPERSONIC CATALINA
+creations-chat 2020-09-15 17:10:53 f
+bug-reports 2020-09-15 18:45:26 my friends propellors aren't working for me and vice-versa
+bug-reports 2020-09-15 19:14:16 oh..
+bug-reports 2020-09-15 19:14:20 i will see it later
+bug-reports 2020-09-15 19:14:28 ty
+creations-chat 2020-09-17 00:39:14 > <@!565165316116578324> are you tryng to copy my boat?
+<@!628523381209169930> nope, it's original
+bug-reports 2020-09-19 19:23:32 https://streamable.com/n5fgpu i was tring to make a big functional sail for my ship, but... that happened
+bug-reports 2020-09-19 19:24:08 the wing panels just explode without any reason
+bug-reports 2020-09-19 19:25:18 
+bug-reports 2020-09-19 19:26:03 the idea is to they stay like that, but just dont work, an how much ropes i add dont change NOTHING
+bug-reports 2020-09-19 19:26:59 i tried EVERTHING, like change ropes restitution or change magnets force but nothing worked
+bug-reports 2020-09-19 23:23:04 > also when standing on anothers build you get moved along like its a conveyor
+<@!431487311025274921> it's from roblox...
+bug-reports 2020-09-19 23:23:09 it's a old bug
+help 2020-09-29 23:14:06 can someone pls say me what i need to put on that part to connect the motors from my track without it break the motors?
+help 2020-09-29 23:14:58 ik
+help 2020-09-29 23:15:04 but it's not the idea here
+creations-chat 2020-09-30 18:24:36 > <@!565165316116578324> What in names sake am I looking at?
+<@!688199362207416485> idk, i just made a black pipe spins with another one inside but made with wing pannels
+creations-chat 2020-09-30 18:25:03 using a motor in the camera part that dont let it spins, so is this that make the illusion
+creations-chat 2020-09-30 18:25:41 and here there's a piston, that make the camera makes the illusion a bit more cunfuse
+creations-chat 2020-09-30 18:26:27 ik
+creations-chat 2020-09-30 18:26:44 but this time it worked and dont exploded nothing
+creations-chat 2020-09-30 18:27:58 err... EXCUSE ME MOTOR I DIND'T EXPECTED THAT
+creations-chat 2020-09-30 18:29:07 > So anyone got a suggestion?
+nope
+creations-chat 2020-09-30 18:29:28 yeh
+creations-chat 2020-09-30 18:30:21 i'm with a idea but idk if it's good... basically i want to make a big version of that "pipe" and put a spaceship inside it
+creations-chat 2020-09-30 18:32:18 > Anyone have tips on how to make the E-100's frontal plate?
+it's close to impossible make it in real size
+creations-chat 2020-09-30 18:32:35 idk, try use corner wedges
+creations-chat 2020-09-30 18:33:25 hm... i will make the big boy version of the opticall ilusion
+creations-chat 2020-09-30 18:33:52 but just a last question
+creations-chat 2020-09-30 18:34:18 should i put a custom spaceship or one that "existed" (like millenium falcon or a tie)
+creations-chat 2020-09-30 18:34:41 OH YEH
+creations-chat 2020-09-30 18:34:58 YOU ARE A GENIUS
+creations-chat 2020-09-30 18:38:07 what about this size?
+creations-chat 2020-09-30 18:40:14 try use more wedges...
+creations-chat 2020-10-02 23:05:02 Things are gettin a bit strange
+creations-chat 2020-10-16 17:57:18 > https://discordapp.com/channels/384021699466756103/384025409945337856/766666984149876796 <@!565165316116578324> dont ask for downvotes
+<@!308156968550268928> don't is ask for downvotes if people floods it
+creations-chat 2020-10-16 17:58:48 people was flooding downvotes before this
+creations-chat 2020-10-16 17:59:49 <:BIG1:588443768806703124> <:BIG2:588443778554134540> 
+<:BIG3:588443788721258534> <:BIG4:588443798842114088>
+creations-chat 2020-10-16 18:01:35 <:bruhaps:646045387911725106>
+creations-chat 2020-10-18 17:52:49 ty
+creations-chat 2020-10-18 17:53:51 i'm not a expert with guns so sorry :/
+creations-chat 2020-10-18 18:04:29 looks good but paint job is a bit weird
+creations-chat 2020-10-18 18:23:46 as i said before, im not a weapons expert :/
+creations-chat 2020-10-18 18:25:50 i'm too lazzy to fix it
+creations-chat 2020-10-21 16:11:08 > <@!565165316116578324> Maybe you can add machinegun on the roof and put a muzzle break on the barrel cus 2 cannon is more heavty recoil so muzzle break is kinda needed
+<@!525244805756878889> already have 2 machineguns but they are just for "RP" and i will make the muzzle brake! thank you for the feedback.
+creations-chat 2020-10-21 16:20:01 <@!525244805756878889> oh sorry for ping but here's the machineguns
+creations-chat 2020-10-21 16:21:42 > <@!565165316116578324> its small i mean maybe made it diffrent colour so ppl can see it?
+<@!525244805756878889> yes, i will add a new collor but it's impossible make bigger like the realistic ones that i build
+creations-chat 2020-10-21 16:22:46 bc it's literally INSIDE the turret so i cant do nothing
+creations-chat 2020-10-21 16:23:58 > <@!565165316116578324> i feel like you could hide the locked motors on the barrel better
+<@!317833859603496971> we'll i can't, the locked motors are the rockets that i use for the cannon work, it's the best i can do if you have a tip or a trick i will be glad
+creations-chat 2020-10-21 16:25:09 here's it when unlocked
+creations-chat 2020-10-21 16:27:12 wait, can i got a nice rank if i just transform that turret in a full tank with body?
+creations-chat 2020-10-21 16:28:16 > <@!565165316116578324> most mg is on the outside fixed or on some like mbts have seperate turrets that the commander controls from the control panel cus the cramped inside of tanks so u cant get big weapon likd lmg mmg or hmg in
+<@!525244805756878889> yes, but that one is ***DIFFERENT*** i projected all the turret for be the most futuristic and "strange" as possible and that's one of the most important things of the entire turret
+creations-chat 2020-10-21 16:29:22 lol, chill bro i'm not mad, i like you suggestions and prob i will use'em for make the turret better than now, so ty lol.
+creations-chat 2020-10-21 16:31:39 > what is pato and why do i keep seeing it in peoples names
+<@!595372385121730586> pato=duck in portuguese
+creations-chat 2020-10-21 16:32:51 as i know about it is a meme created by a youtuber :/
+creations-chat 2020-10-21 16:34:24 Hey guys, what do you think about the new *BACK THING THAT I JUST FORGOT THE NAME*?
+creations-chat 2020-10-21 16:38:20 > The control surfaces dont work
+<@!577455944087240704> normal
+creations-chat 2020-10-21 16:39:53 idk, sometimes it happen bc of the side the control surfaces are pointing, like if it's pointing up they don't work
+help 2020-10-21 20:03:55 > is the yellow ball aligned enough?
+<@!483261675106074634> nope
+help 2020-10-21 20:04:07 but you can fix it with balast or hellium blocks
+help 2020-10-21 20:04:42 > does anyone have an idea how i can make a sonic boom i have the sound but i need the white air thingy
+<@!527911551164743680> trail blocks with cameras
+help 2020-10-21 20:09:51 ***BALAST AND HELLIUM***
+help 2020-10-21 20:10:17 whatever
+help 2020-10-22 12:38:47 bruh
+help 2020-10-22 12:39:05 just put a high damping in the suspension
+help 2020-10-22 12:39:18 if you don't put it will f*** with the build
+creations-chat 2020-10-25 13:05:14 Hey Guys, should i make a TD version of that girl?
+creations-chat 2020-10-25 13:06:17 i think it can be a nice if i just change the tracks size for a better cannon
+creations-chat 2020-10-25 13:08:03 hmm, i think no bc it will take too much space of the body
+
+but im really not sure so let's see what will happen
+creations-chat 2020-10-25 13:10:34 we'll, i don't think the design will look good
+creations-chat 2020-10-26 19:15:28 <@!746383586755870821> a very ugly suspension? like mines suspensions
+creations-chat 2020-10-26 19:16:30 yes i'm just kidding, look nice bro, and now rlly very srslly i think it is a type of "leg" but with suspension blocks
+creations-chat 2020-10-26 19:17:49 wait, that thing can walk?
+creations-chat 2020-10-26 19:19:03 if can, ***THAT'S A TRANSFORMER AND IT'S A FACT***
+creations-chat 2020-10-26 19:20:57 i s... i don't see it
+creations-chat 2020-10-26 19:22:23 Make it go Hypersonic and it's even more ***black bird***
+creations-chat 2020-10-26 19:23:25 > the blackbird can't go hypersonic , only suspersonic
+<@!723419054114865202> but that boy will can
+creations-chat 2020-10-26 19:25:11 waw and my ugly bomber plane go more than mac 3,5.
+creations-chat 2020-10-26 19:27:16 time to get noobed by shredder AA boy
+creations-chat 2020-10-26 19:28:17 waw nice dragon chest and wings
+creations-chat 2020-10-26 19:40:31 foda-se
+creations-chat 2020-10-29 13:47:49 > <@!565165316116578324> cool
+<@!628523381209169930> ty
+creations-chat 2020-10-29 14:42:15 just black is gay
+creations-chat 2020-10-29 14:43:45 aah i have a idea of painting on a Stuka for you that i just painted but i'm not onnline :/
+creations-chat 2020-10-29 14:44:56 yes, i think it would look great
+creations-chat 2020-10-29 14:45:58 now i gtg for play ***minecraft*** bye bye
+creations-chat 2020-10-29 16:07:34 what do you guys think? https://streamable.com/s7ilps
+creations-chat 2020-10-29 16:08:56 any tip?
+creations-chat 2020-10-29 16:10:01 broken nose
+creations-chat 2020-10-29 16:14:30 yes
+creations-chat 2020-10-29 16:15:31 > this design good for jetplane?
+looks nice but make nose less short
+creations-chat 2020-10-30 21:51:29 the Hueys are looking bad?
+creations-chat 2020-10-30 21:53:59 lol a normal day
+creations-chat 2020-10-30 21:55:00 > what is happening in creations
+a dead brain is flooding commands :/
+help 2020-11-01 15:43:14 > im at base but it seems like they're just randomly inverting
+<@!261525077277933568> respawn ***alot*** times
+help 2020-11-01 15:43:18 try reset too
+creations-chat 2020-11-02 00:04:37 > <:what:644996672048463942>
+<:WeirdChamp:670867805176070145>
+creations-chat 2020-11-02 00:05:51 yes ik lol
+help 2020-11-02 12:33:57 someone have a better nose design? i tried like 5 times make it better but i can't bc of the cockpit
+help 2020-11-02 13:15:27 > <@!565165316116578324> is it supposed to be a helicopter or a plane?
+<@!719168864705052802> a nose for a MINI Huey
+help 2020-11-02 13:16:30 idk how
+help 2020-11-02 13:16:38 i don't have the blocks for that size
+help 2020-11-02 13:28:17 > 3half wedges on the front?
+we'll don't looks good lol
+help 2020-11-02 13:53:03 hmm
+help 2020-11-02 13:53:09 nah
+help 2020-11-02 13:53:18 the block of the cockpit mess up everthing
+help 2020-11-02 13:53:40 as i said, i tried every block combination of the game with that
+help 2020-11-02 13:54:07 yes
+help 2020-11-02 13:55:06 a nice suggestion for a new block it's one that literally came from robo craft
+help 2020-11-02 13:55:16 a corner wedge that can connect in round wedges out
+bug-reports 2020-11-03 21:11:32 motor lock stoped working
+bug-reports 2020-11-03 21:12:19 but why?
+bug-reports 2020-11-03 21:12:41 bruh
+bug-reports 2020-11-03 21:12:47 roblox just mess up with everthing
+creations-chat 2020-11-04 13:44:09 > <@!565165316116578324> you can do like this too
+<@!619985524995784729> hmm idk, but i'll think about. ty for the feedback!
+creations-chat 2020-11-04 14:05:02 <@!446205377604878336> the back part thing that i just forgot the name bc im stupid?
+creations-chat 2020-11-04 14:06:55 oh srry, yes
+creations-chat 2020-11-04 14:49:17 the first prototype flies, with help, but fly
+creations-chat 2020-11-04 14:50:50 > nice, is it the space motor you sended earlier?
+yep, i'm going to transform it into a heavy fighter/bomber
+creations-chat 2020-11-04 14:57:21 > dude i didnt steal its not guenffer's its mine ok?
+ <:kek:652566605028524033>
+creations-chat 2020-11-04 15:28:19 beware with the duck
+creations-chat 2020-11-05 00:23:20 > <@!565165316116578324>  u should take a better pic
+> the b52 is epic
+<@!655236433501618180> lol, you don't understanded
+the shell just bugged and got stuck
+creations-chat 2020-11-05 00:25:03 and btw here's a shoot of the big boy gun
+creations-chat 2020-11-05 01:15:31 lol i literally posted 4 pics and it's spam
+
+
+> Hes not spamming <:WeirdChamp:670867805176070145> 
+> unranked moment
+<@!720751430595772418> i'm a girl... <:Bruhje139:602943011634020379>
+creations-chat 2020-11-05 01:17:19 > yes, 4 pics, 3 in a row, of the same thing. that is the very DEFINITION of spam.
+> "sending the same message indiscriminately to a large numbers of recipients on the Internet."
+different angles bro
+creations-chat 2020-11-05 01:19:32 > https://discord.com/channels/384021699466756103/384025409945337856/773717847528570920
+> <:WeirdChamp:670867805176070145>
+that guy's going to reach 60 downvotes in 5 minutes
+creations-chat 2020-11-05 12:59:43 > <@!565165316116578324> can you send a video of the loading process? I am absolutely obsessed with how it works
+<@!178681093036179456> oh sure, and srry for too late answear lol
+help 2020-11-05 14:04:53 can someone help me making that shit automatic without needing to change the ammo box position?
+creations-chat 2020-11-05 14:09:15 downvoters will downvote
+help 2020-11-05 14:09:37 waw
+help 2020-11-05 14:09:40 u are a fucking genius
+help 2020-11-05 14:09:54 no, i can't use motor lock
+help 2020-11-05 14:10:38 i just want to make the gun automatic without needing to change that thing position
+help 2020-11-05 14:11:35 ...
+help 2020-11-05 14:11:36 waw
+help 2020-11-05 14:11:42 IT'S LITERALLY THAT THE GUN MAKES
+help 2020-11-05 14:11:56 i'm going to kill miself
+help 2020-11-05 14:12:58 AAAAAAAAAAAH
+creations-chat 2020-11-05 14:16:49 > https://streamable.com/cwrdt8 can anyone tell me why is it spinning in circles? i tried to lower speed but still same thing happends
+<@!542429796962140207> the down motor need to have half speed of the upper motor
+help 2020-11-05 15:44:45 > maybe some gear system that brings the bullet into the chamber?
+it will decrease the number of bullets that the box have
+creations-chat 2020-11-05 22:41:22 <@!714733688084234250> just people that flood downvotes with no reason, it happend multiple times with literally everyone.
+creations-chat 2020-11-06 01:11:31 > <@!565165316116578324> i recommend you try using motor treads
+ropes are more easy to my dead brain understand
+bug-reports 2020-11-09 01:47:52 suspensions have broke
+bug-reports 2020-11-09 01:48:37 damping and stifness doesn't does nothing
+bug-reports 2020-11-09 01:48:52 literally no reason to it happen
+bug-reports 2020-11-09 01:52:13 we'll just for you
+bug-reports 2020-11-09 01:52:17 it literally died
+bug-reports 2020-11-09 01:53:20 i'm going to quit and see that in the next day
+the-dump 2020-11-10 01:21:08 
+creations-chat 2020-11-10 15:08:22 it's bc people can't understand motor lock lol
+creations-chat 2020-11-10 15:10:59 should i make another huge bomber formation?
+
+the first one that i posted just got hugelly OP and got alot upvotes with people asking me for copy some planes...
+creations-chat 2020-11-10 15:12:34 bc the formation that i have built have different plane types and shapes with massive and ligth bombers
+creations-chat 2020-11-10 15:14:05 > bruh i play all time in vip1 but i was wondered what happend and was a big mistake, just shitty builds and tutorial creations........
+it's bc that i just play in my own vip server
+creations-chat 2020-11-10 15:15:52 i still remember when shredder bugs doesn't exist
+creations-chat 2020-11-10 15:17:48 a good thing that the shredder bugs don't have it's a high QI, so they can't make motor locked builds
+creations-chat 2020-11-10 15:24:22 > More people need to build boats to fight. ^yeah outlines were really nice. Now I can barely see my blocks
+the sad isn't impossible make a really good battle ship bc you have limited guns and rockets
+creations-chat 2020-11-10 15:26:15 > why does hyper bot keep down voting my creations : (
+<:wot:695654208837255219>
+creations-chat 2020-11-10 15:28:13 pvp are broken and makes the stupid bacon hair spamming rockets in a car the most overpowered builds
+creations-chat 2020-11-10 15:30:17 hey <@456226577798135808>  i remember you from the call
+creations-chat 2020-11-12 22:57:03 why the kids are so angry?
+
+
+> <@!565165316116578324> please use the term "kids" correctly...
+<@456226577798135808> my dead brain doesn't wants
+creations-chat 2020-11-12 22:59:30 bruh just ping a mod
+creations-chat 2020-11-12 23:01:33 just ping a mod
+bug-reports 2020-11-13 19:06:10 nah
+bug-reports 2020-11-13 19:06:16 it happen with motor 1 too
+help 2020-11-13 19:09:09 <@!628240580517953538> a deep blue or one that looks more normal?
+help 2020-11-13 19:09:39 i have 3 blue collors
+help 2020-11-13 19:10:07 or tone whatever
+help 2020-11-13 19:42:27 bruh
+help 2020-11-13 19:42:31 War Thunder isn't a tank game
+help 2020-11-13 19:42:45 ...
+help 2020-11-13 19:42:53 yes
+help 2020-11-13 19:43:09 but WoWs have better ships
+help 2020-11-13 19:45:18 my god
+help 2020-11-13 19:45:24 just search for the trailer
+help 2020-11-13 19:46:26 lemme search for the link
+help 2020-11-13 19:46:55 https://warthunder.com/en/play4free/?r=sem_170685264_12697485864_139643370607_kwd-52242039075&placement=&gclid=Cj0KCQiA-rj9BRCAARIsANB_4AB8AjxvJI3RSsbndVdGiY9l5vxla6BLQ5PDDeTHjf_KucI51Mt9hqkaAgddEALw_wcB#/
+help 2020-11-13 19:46:58 here's it
+help 2020-11-13 19:47:22 np
+help 2020-11-13 19:49:09 idc
+help 2020-11-14 00:23:39 can you show a print of the pistons config?
+help 2020-11-14 00:31:03 hm
+help 2020-11-14 00:31:08 it's with lock?
+help 2020-11-14 00:32:08 hm
+help 2020-11-14 00:32:10 idk
+help 2020-11-14 00:32:12 just try
+help 2020-11-14 00:32:21 if it won't work it's a big boy bug
+help 2020-11-14 00:32:23 so report it
+help 2020-11-14 00:37:26 <@!567504618356211712> watch more
+help 2020-11-14 00:45:33 .wmv eww
+creations-chat 2020-11-14 19:15:36 <@!523394406867533827>
+bug-reports 2020-11-14 19:48:50 excuse me
+bug-reports 2020-11-14 19:49:15 can someone explain it?
+bug-reports 2020-11-14 19:49:41 yes, it is
+bug-reports 2020-11-14 19:49:51 and it messed up my plans
+bug-reports 2020-11-14 19:50:34 > usually they only touch with the back of the trap door aka the part that doesnt have the dot
+desconnectors?
+bug-reports 2020-11-14 19:50:51 if is it, i can't use bc of THAT
+creations-chat 2020-11-15 17:35:27 > <@!565165316116578324> <:WeirdChamp:670867805176070145>
+<:Pinged:508027985190715457>
+creations-chat 2020-11-15 17:37:02 > You asked for feedback <:WeirdChamp:670867805176070145>
+i was drinking some vodka and it fell on me bc of the ping
+creations-chat 2020-11-17 00:16:02 now my catalina is a VTOL...
+creations-chat 2020-11-17 01:47:50 > <@!565165316116578324> Did you post nsfw in <#384025409945337856>  <:KEKW:670310537300672528>
+????
+creations-chat 2020-11-17 01:52:22 oh no... now i understand, people think was a suicide joke lol, is that what i was tring to say bro
+creations-chat 2020-11-21 00:43:56 Here's a previw of what im building for the contest
+creations-chat 2020-11-21 00:45:36 i just got the ideia to make it have threads but im too lazy... (srry i have the worst english ever)
+creations-chat 2020-11-21 00:47:22 i will... i don't will ruin it (i think not)
+
+idk :/
+creations-chat 2020-11-21 00:49:15 just a question, can i send a video of it working when done for the contest?
+creations-chat 2020-11-21 02:17:11 close to finish
+creations-chat 2020-11-21 14:28:18 making a TKS for the contest (ignore the ugly cannon it's just for a test)
+
+btw it have a working periscope:https://youtu.be/riQrRZ09t7k
+creations-chat 2020-11-21 16:04:28 TKS close to finish and with full interior
+creations-chat 2020-11-22 13:12:52 <:Mhm:551152556324159488>
+creations-chat 2020-11-27 19:14:16 https://cdn.discordapp.com/attachments/384025409945337856/781960794597490758/Screenshot_15.png paper wings <:Mhm:551152556324159488>
+
+
+you can make it better lmao
+help 2020-11-27 19:15:48 k
+help 2020-11-27 19:15:59 https://cdn.discordapp.com/attachments/384025409945337856/781960843850940456/Screenshot_16.png
+help 2020-11-27 19:16:00 look
+help 2020-11-27 19:16:07 change that wings for half wedges
+help 2020-11-27 19:16:19 and give it a decent angle with a motor 2
+help 2020-11-27 19:16:35 use motor lock to hide the control surfaces inside the wing
+help 2020-11-27 19:17:05 yes, but that angle not
+help 2020-11-27 19:17:45 and please improve that tail
+creations-chat 2020-11-27 19:18:43 i think if you move the wings to a half block back or a block back it will look better
+help 2020-11-27 19:25:03 yes, better
+help 2020-11-27 19:25:39 but i think if you move the wings to a half block back or a block back it will look better
+help 2020-11-27 19:25:54 idk
+help 2020-11-27 19:49:13 yes
+the-dump 2020-11-27 23:41:16 sir, are you ok?
+the-dump 2020-11-27 23:53:49 nah, it's just for hovering
+the-dump 2020-11-27 23:54:14 for control when hovering...???
+the-dump 2020-11-27 23:56:34 yes, but it helps when hovering at low speed to a spot or just making some taxi
+the-dump 2020-11-27 23:56:46 btw it give some nice extra control when at high speed
+the-dump 2020-11-27 23:57:42 it is hard lol
+the-dump 2020-11-27 23:57:50 not 100%
+the-dump 2020-11-27 23:59:53 nah
+the-dump 2020-11-28 00:00:01 isn't very effective
+help 2020-11-30 15:35:09 should put some more details
+help 2020-11-30 15:35:32 you mean canopy?
+help 2020-11-30 15:38:13 i can help you
+help 2020-11-30 15:43:06 i can't wait bro
+help 2020-11-30 15:43:11 i need to do some important things
+creations-chat 2020-12-04 00:23:09 cuz of that i said "i think" and not just "i built"
+creations-chat 2020-12-04 00:25:37 ok, whatever
+help 2020-12-04 16:57:50 prob not
+help 2020-12-04 16:57:52 it will spin
+help 2020-12-04 16:57:57 spin and bug alot
+help 2020-12-04 16:58:29 most of times, yes
+help 2020-12-04 16:58:42 use motors to give a nice angle to the wings
+help 2020-12-04 16:58:51 so you can configure the pitch and blah blah blah
+help 2020-12-04 16:59:21 but if the blades are spinning to fast i consider to add the lock option for the motors on the blades
+help 2020-12-04 17:00:28 can someone help me with that?
+help 2020-12-04 17:00:35 i need to make 3-4 blocks threads but i don't know how
+help 2020-12-04 17:00:51 i'm making that for my KV-2 suspension
+help 2020-12-04 17:01:13 it's basically done, i just need to make the threads but idk how
+help 2020-12-04 17:01:56 and normal 2 blocks threads are too little for that
+help 2020-12-04 17:02:23 i searched for tutorials and things like that but i dind't found nothing
+help 2020-12-11 17:53:19 decrease the graphics
+help 2020-12-11 17:53:42 got a better idea
+help 2020-12-11 17:53:47 buy another pc
+help 2020-12-11 17:54:03 there's nothing to do
+help 2020-12-11 17:54:08 bruh
+help 2020-12-11 17:54:16 how many blocks?
+help 2020-12-11 17:54:34 bro
+help 2020-12-11 17:54:38 that's not to much
+help 2020-12-11 17:54:52 how many fps?
+help 2020-12-11 17:55:50 when you launch it or when in build mode?
+help 2020-12-11 17:56:05 bruh
+help 2020-12-11 17:56:09 that's not a bad fps
+help 2020-12-11 17:56:21 most of times my builds decreases my fps to 2
+help 2020-12-11 19:29:49 custom suspensions are more smooth thank suspension blocks but harder to make
+help 2020-12-11 19:30:05 BRUUUH
+help 2020-12-11 19:30:11 i hate my english
+help 2020-12-11 19:31:01 i mean custom suspensions work better than the suspension blocks, them work more smoothly and obviously worck much better than a suspension block in a huge build
+help 2020-12-11 19:32:41 btw there's 2 ways to make it
+help 2020-12-11 19:33:07 but i think the one that uses motor are better
+help 2020-12-11 19:33:42 you can make the motor working suspension with motor 2 or just normal motors, you just have to change the torque and don't have  dead brain like me
+help 2020-12-11 19:51:16 uhh...
+help 2020-12-11 19:51:22 just don't make it more compact?
+help 2020-12-11 19:52:42 so... make it more compact...?
+help 2020-12-11 19:53:20 remake till it get perfect
+help 2020-12-11 19:55:09 so don't work in one part
+help 2020-12-11 20:06:07 bro
+help 2020-12-11 20:06:12 just don't build a computer
+help 2020-12-11 20:06:50 you never will finish if you never stop making it compact
+help 2020-12-11 20:07:07 test it with some beams and whatever
+help 2020-12-11 23:51:13 bruh, just don't be stupid
+help 2020-12-11 23:51:33 if you don't want make a triangle nose, don't make a triangle sub
+help 2020-12-11 23:51:46 use more than just one triangle wedge block
+bot-central 2020-12-11 23:57:30 ?shelp
+help 2020-12-12 00:33:24 bro
+help 2020-12-12 00:33:28 it's not so easy
+help 2020-12-12 00:33:42 it's not
+help 2020-12-12 00:33:50 bruh
+help 2020-12-12 00:34:13 look a little too much for me
+help 2020-12-12 00:34:34 try make the angles more smooth
+help 2020-12-12 00:36:15 try make that parts more smooth
+help 2020-12-12 00:37:16 i think that size for a thread it's a little big
+help 2020-12-12 00:37:29 you can make better with something a little more tiny
+help 2020-12-12 00:39:14 wait
+help 2020-12-12 00:39:17 what the hell?
+creations-chat 2020-12-12 23:30:03 uhh.. cause i think it looks bad?
+creations-chat 2020-12-13 12:09:37 it just looks bad bro
+creations-chat 2020-12-13 13:43:34 i don't have to explain, i just think it looks bad
+creations-chat 2020-12-13 14:24:31 delete it and remake
+creations-chat 2020-12-13 14:26:32 i have time to explain, i just don't want cuz i have better things to do
+
+
+
+<@!700037826229698612> it's huge, the turret looks bad, the crane looks bad, it's not hard to make a decent thread for that tank, the painting looks horrible, the entire tank is bad
+creations-chat 2020-12-13 14:29:54 you can make a better tank with something more little
+creations-chat 2020-12-13 14:32:30 bro, it's not detailed, and that's just my opnion
+creations-chat 2020-12-13 14:34:31 i'm talking about the print, not the final result
+creations-chat 2020-12-20 17:31:26 yeah, look nice
+creations-chat 2020-12-20 22:13:42 it's not snow, it's potatoes
+creations-chat 2020-12-20 22:19:38 it's a face
+creations-chat 2020-12-20 22:28:12 what you guys think would make my tank look better? https://cdn.discordapp.com/attachments/384025409945337856/790248484136812594/unknown.png
+creations-chat 2020-12-20 22:39:39 i cant add another sparkler to the barrel
+help 2020-12-22 19:59:19 can someone help me?
+help 2020-12-22 19:59:26 i'm trying to make a working scope but idk how
+help 2020-12-22 19:59:44 i searched for a tutorial or something else but they don't work
+help 2020-12-22 20:02:09 i need more
+creations-chat 2020-12-22 20:12:02 a little shoot before getting done, it's a custom shotgun, with folding grip, canted scope, flash hider and a flash ligth cuz why not, btw it can shoot and blah blah blah
+creations-chat 2020-12-23 23:49:44 maybe
+creations-chat 2020-12-23 23:51:48 <:what:644996672048463942>
+creations-chat 2020-12-23 23:55:20 btw the cannon is not that long
+creations-chat 2020-12-24 00:45:20 but i'm not making it to look realistic.. it's a custom tank
+creations-chat 2020-12-25 18:21:18 what do you guys think could improve the tank i'm making?
+creations-chat 2020-12-25 18:35:42 hm, ty
+creations-chat 2020-12-25 22:12:14 <:Mhm:551152556324159488>
+help 2020-12-25 22:15:02 try using camera lock
+creations-chat 2020-12-25 22:34:52 <@!541269303761174548> stop flooding low effort builds bro
+creations-chat 2020-12-25 22:50:55 <@!663033851941093400> cuz it looks bad
+creations-chat 2020-12-29 16:21:25 <@456226577798135808> talking about the custom tank turret i have made?
+creations-chat 2020-12-29 16:23:29 i'm a girl and yes, i built it:https://cdn.discordapp.com/attachments/384025409945337856/792148333078642718/unknown.png
+creations-chat 2020-12-29 16:27:13 ty, it's an honor
+creations-chat 2020-12-29 16:36:15 wtf bro
+creations-chat 2020-12-29 16:45:10 that one
+creations-chat 2021-01-05 21:27:26 kinda
+creations-chat 2021-01-16 12:44:13 i said *maybe*
+
+and, i've made that sail some months ago...
+creations-chat 2021-01-16 14:05:45 this is where little kids with shredder bugs go
+creations-chat 2021-01-16 15:27:43 i will, isn't done yet
+
+AND i have a project for making a bigger galleon that that one, with more sails and blah blah blah
+creations-chat 2021-01-22 13:13:24 it makes possible to it fly bro
+creations-chat 2021-01-22 13:15:49 i'm searching people feedback so i can improve it
+creations-chat 2021-01-22 13:47:36 meh, it looks bad for me
+creations-chat 2021-01-22 14:04:10 <:Pinged:508027985190715457>
+creations-chat 2021-02-03 18:54:28 prototype of a compact crest or whatever it is
+creations-chat 2021-02-03 18:56:51 
+creations-chat 2021-02-11 16:54:10 WIP of a random WWII bunker
+creations-chat 2021-02-12 22:29:26 tiny plane
+creations-chat 2021-02-28 23:25:34 maybe later
+creations-chat 2021-02-28 23:32:40 ik, i'm a genius
+creations-chat 2021-02-28 23:38:31 <@!527653676022628353> https://streamable.com/5rywjt
+creations-chat 2021-02-28 23:53:48 uhh, ok
+creations-chat 2021-03-01 03:37:22 hellium
+creations-chat 2021-03-02 01:51:29 how is it looking so far? btw it's custom
+creations-chat 2021-03-02 01:53:38 some mech based on cossack
+help 2021-05-31 16:38:45 what's actually the problem?
+creations-chat 2021-05-31 19:50:31 feedback?
+creations-chat 2021-05-31 19:52:41 any tip to improve it?
+creations-chat 2021-05-31 19:54:49 i will try, ty
+creations-chat 2021-05-31 19:58:44 thank you alot
+creations-chat 2021-05-31 20:01:45 something like that?
+creations-chat 2021-05-31 20:17:49 i'm trying to use cameralock
+creations-chat 2021-05-31 20:24:44 we'll, it looks horrible
+creations-chat 2021-05-31 20:48:32 second try, is it looking better?
+creations-chat 2021-05-31 21:00:21 that's the idea, like mi24 nose
+creations-chat 2021-05-31 21:28:54 USS fat shark upgrade/update, new nose and more details
+creations-chat 2021-05-31 23:11:07 should i try to make more things like that? https://cdn.discordapp.com/attachments/384025409945337856/849061546440392774/unknown.png
+creations-chat 2021-05-31 23:35:04 <:YouTried:559530066258821131>
+creations-chat 2021-06-01 19:08:05 <:WeirdChamp:670867805176070145>
+creations-chat 2021-06-01 19:12:33 <:wait:652565313337950230>
+creations-chat 2021-06-01 19:14:39 no, prob a angler fish from chernobyl
+creations-chat 2021-06-01 21:35:23 <@!394475863800020993> damn you're a genius
+the best build i saw in my whole life
+creations-chat 2021-06-01 21:41:41 don't be grateful, you deserve that, the best player in the whole game
+creations-chat 2021-06-01 21:48:47 it's good but not better than <@!394475863800020993>
+creations-chat 2021-06-01 21:51:09 better than any sub just a flying sausage
+creations-chat 2021-06-01 21:53:10 not "a blimp" it's THE blimp
+
+who cares about submarine, IT'S A DAMN FLYING SAUSAGE SANDWICH
+creations-chat 2021-06-01 21:57:55 it's not even a blimp, it's a f22 raptor using a costume of a sandwich of sausage
+creations-chat 2021-06-01 22:01:17 isn't just a picture, it's a painting made by the gods
+creations-chat 2021-06-01 22:31:04 <@456226577798135808> your build is soo good that makes me want to cry
+help 2021-06-02 13:59:48 remake the entire thing
+help 2021-06-02 14:00:20 the hull shape is weird
+help 2021-06-02 14:00:48 turrets are even more weird
+help 2021-06-02 14:01:24 the antena is oversized
+help 2021-06-02 14:01:35 and alot more
+creations-chat 2021-06-02 14:02:27 https://youtu.be/milhBhz92AQ
+creations-chat 2021-06-02 14:05:59 good luck
+help 2021-06-02 14:51:35 my god
+help 2021-06-02 14:52:00 my brain is melting
+help 2021-06-02 15:07:26 you can use snowblaster
+help 2021-06-02 15:07:28 but it sucks
+help 2021-06-02 15:08:16 cursed
+help 2021-06-02 15:08:34 you could just put cameras at the sides
+help 2021-06-02 15:09:28 if it don't work put camera at the sides too
+creations-chat 2021-06-21 17:48:34 some pods and thing for my spaceships, need feedback
+creations-chat 2021-06-21 17:57:44 looking good, keep the hard work
+creations-chat 2021-06-21 18:02:28 try adding some texture to it (ex:ladders and disconnectors in wings)
+creations-chat 2021-06-21 18:07:08 
+creations-chat 2021-06-21 18:09:41 some more pods and thing
+creations-chat 2021-07-03 22:58:10 making a sniper rifle based on at boys and bren,  how is it looking so far? the idea is to make it very long
+creations-chat 2021-07-03 23:00:25 eeeh... could be longer
+creations-chat 2021-07-03 23:02:30 so... any tip to make it don't look like a stick?
+creations-chat 2021-07-03 23:05:43 sure, how i could forgot of the box
+creations-chat 2021-07-03 23:09:16 obviously i will, and inside the box will have a burrito
+creations-chat 2021-07-03 23:21:32 update on barrel tip, how is it looking now? added a bayonet inspired by type 99 but i can remove it
+creations-chat 2021-07-03 23:23:48 better now? it is in build mode
+creations-chat 2021-07-03 23:26:31 better?
+creations-chat 2021-07-03 23:28:48 and now?
+creations-chat 2021-07-03 23:31:05 DONE if it go closer will be the same as before
+creations-chat 2021-07-03 23:37:39 i will make it soon
+creations-chat 2021-07-04 00:15:52 more updates, how is it looking so far?
+creations-chat 2021-07-04 00:19:55 ok, should i change it by 1 or 2 blocks?
+creations-chat 2021-07-04 00:23:19 it's based on type 99 bayonet so it's 1 or 2
+creations-chat 2021-07-04 00:33:01 <@!668273304645271553> best art i saw in my life
+creations-chat 2021-07-04 00:50:28 already made it and is better now
+creations-chat 2021-07-04 00:53:54 how is it looking so far
+creations-chat 2021-07-04 00:57:55 the mouth
+creations-chat 2021-07-04 01:33:44 shooting with da gun:https://streamable.com/mcmcry
+creations-chat 2021-08-05 23:38:51 my brain is melting and this turret isn't even 70% done
+creations-chat 2021-08-05 23:41:08 nope
+creations-chat 2021-08-05 23:45:18 1-the idea isn't to make angled lock or this kind of thing, but try to make a nice looking turret that uses just wedges and thing
+
+2-dude it has like 3x the amount of motors you're talking
+
+3-the concept of the turret is to make something SIMPLE and not a turret with so many details that lookslike it come from cyberpunk 2077
+creations-chat 2021-08-05 23:48:06 uhh... atleast for me is, it's my first time making a turret using this amount of motorlock in a few months
+creations-chat 2021-08-05 23:50:54 whatever, ill stop arguing OK YOU WIN I AM A STUPID IDIOT
+creations-chat 2021-08-05 23:53:24 nice to meet you, what if we drink a beer later?
+creations-chat 2021-08-05 23:55:27 sssh, no one have to know it
+creations-chat 2021-08-06 00:02:02 now seriously, how is it looking?
+creations-chat 2021-08-06 00:04:16 why?
+creations-chat 2021-08-06 00:06:44 my god... BUT WHY IT LOOKS UGLY
+creations-chat 2021-08-06 00:09:09 ok that's very salty, i will just ignore you whatever
+creations-chat 2021-08-06 00:13:37 but WHY, im not asking anymore if it looks ugly but what makes it ugly, and if you say exposed motorlock imma smash your head with a crowbar
+creations-chat 2021-08-06 00:16:41 dude wtf, the cannon is working perfectly and the design is supposed to look like a "half eaten potato"
+creations-chat 2021-08-06 00:21:37 dude... that's a custom tank
+creations-chat 2021-08-06 00:23:56 my mom is dead your stupid
+creations-chat 2021-09-23 12:55:24 dude, how did i get this amount upvotes???https://discord.com/channels/384021699466756103/384025409945337856/890362713857994762
+creations-chat 2021-09-23 12:58:02 dude, i just spammed trapdoors and motorlock, idk how people think it is good but ok, imma add some more things into it
+creations-chat 2021-09-23 13:16:08 hey, im making the update on the previously build i posted, what about it? i added a new painting, made the sides more bumpy, some place holder landing gears (feedback of the spot that they are), and a new cargo/engine room that you can acess by opening the trapdoors (yeh baby, cargo ship)
+creations-chat 2021-09-23 13:18:55 btw, should i repost it, cuz of the update or not?
+
+ok so what can i add? how i can inprove the paint?
+creations-chat 2021-09-23 13:23:01 delete it, sorry
+creations-chat 2021-09-23 13:27:38 best cockpit i have ever seen
+creations-chat 2021-09-23 13:41:17 tiny updates and a little paint scheming
+
+need suggestions
+creations-chat 2021-09-23 13:43:37 engine go brrrt
+creations-chat 2021-09-23 13:47:02 sure! if you need i can even send you a short video of a 360 of it in your dm
+
+okay, just use it and good luck
+creations-chat 2021-09-23 13:54:26 here is the engine exhaust, really not that big but i think it still looks cool
+creations-chat 2021-09-23 14:00:38 is this update good enought for a repost?
+creations-chat 2021-09-23 14:38:28 .
+creations-chat 2021-09-24 14:39:49 perfect replica of a BMW R75
+creations-chat 2021-09-24 14:43:10 yes ik, it is the best creation in the whole  server
+help 2021-09-24 15:33:29 hey, do someone know how to add these little things at the cockpit?
+help 2021-09-24 15:33:34 the white ones
+help 2021-09-24 15:48:30 yes but how
+help 2021-09-24 15:49:00 wait
+help 2021-09-24 15:49:04 is that wing panels?
+help 2021-09-24 15:49:28 oooh now i understand
+help 2021-09-24 15:49:29 thanks dude
+help 2021-09-24 15:49:36 imma try it later
+creations-chat 2021-09-24 15:51:42 ik that's a hack but... DAMN THAT LOOKS NICE DUDE
+help 2021-09-24 16:14:02 guys, i'm doing a repaint of this spaceship here for hall of fame, should i paint it white or still with black?
+help 2021-09-24 16:22:16 
+help 2021-09-24 16:22:39 i just need a new paint scheme and it might work
+help 2021-09-24 16:24:34 you're not a mod, that's the point
+help 2021-09-24 16:26:12 btw thanks for the suggestion
+help 2021-09-24 16:26:14 imma try add this
+help 2021-09-24 16:31:13 btw
+help 2021-09-24 16:31:22 not just ladders bud, trapdoors to
+help 2021-09-24 22:57:40 is that decent or should i add more?
+help 2021-09-24 22:58:04 idk how to make another color scheme for this
+help 2021-09-24 22:59:34 sorry but quality of the text looks bad from a little far away
+help 2021-09-24 23:01:05 decent quality now
+help 2021-09-24 23:05:05 idk i can't add color variation
+help 2021-09-24 23:05:11 it just looks worst by doing it
+help 2021-09-24 23:08:02 hm
+help 2021-09-24 23:08:03 ok
+help 2021-09-24 23:08:06 imma try it again
+help 2021-09-24 23:16:42 dude really
+help 2021-09-24 23:17:11 how do i change some materials with not making it look weird
+help 2021-09-24 23:19:44 ok but there are alot blocks that do not change texture
+help 2021-09-24 23:19:57 like disconnectors (that i have alot across it)
+help 2021-09-24 23:21:32 yeah but if i just add in some spots it might look a little weird
+help 2021-09-24 23:23:17 added some more tones to it's belly, really not alot but i think it looks better
+help 2021-09-24 23:23:35 it's more like a shadow than a paint by itself
+help 2021-09-24 23:23:53 btw imma try fix the gaps now
+help 2021-09-24 23:29:41 done, no gaps anymore
+help 2021-09-24 23:29:45 what else can i add
+help 2021-09-25 01:13:26 uuuhm
+help 2021-09-25 01:13:33 did you know how?
+help 2021-09-25 02:06:32 just move the build up
+help 2021-09-25 02:06:35 or to the sides
+help 2021-09-25 02:06:39 and it will disappear
+help 2021-09-25 02:06:48 np
+help 2021-09-25 02:06:58 i don't know
+help 2021-09-25 02:07:00 just happen
+creations-chat 2021-10-03 15:53:52 drone helicopter booom

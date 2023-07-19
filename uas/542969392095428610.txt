@@ -1,2 +1,15 @@
-kermit is hot
-plane-crazy 2020-01-13 23:44:59 I am thirsty for a B-17 tutorial.
+The Tale of kermit is hot (542969392095428610)
+help 2019-06-02 06:01:24 <@456226577798135808> Higher Speed = Less stability when turning
+help 2019-06-02 06:01:39 More control panels.
+help 2019-06-02 06:01:55 They are used to control lift, wings are used for stability.
+bot-central 2019-06-04 09:18:01 ?Suggestion
+bot-central 2019-06-15 07:11:26 &suggest A weight that can be toggled. You set the weight and the key to toggle the block. It will allow subs to submerge and much more.
+bot-central 2020-06-06 05:59:18 &suggest
+bot-central 2020-06-06 06:06:02 &suggest 
+Different sized plots
+[BUILDING]
+Add a new setting to select differently sized plots. Normal, wide and tall allowing for the building of different vehicles. This will also, (thank god) get rid of folding boats, allowing for the creation of **normal** vehicles.
+bot-central 2020-06-06 06:10:39 &suggest Different sized plots
+[BUILDING]
+Add a new setting to select differently sized plots. Normal, wide and tall allowing for the building of different vehicles. This will also, (thank god) get rid of folding boats, allowing for the creation of normal vehicles.
+bot-central 2020-06-06 06:10:41 idk

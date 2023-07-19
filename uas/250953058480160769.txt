@@ -1,0 +1,22 @@
+The Tale of i_ranaway225 (250953058480160769)
+creations-chat 2019-05-23 10:10:22 TU-160 with working variable sweep wing, gear tilt, retractable gear and 1060 blocks
+creations-chat 2019-05-23 10:11:08 
+creations-chat 2019-05-23 10:13:49 and oh yeah, a bomb bay
+creations-chat 2019-10-18 10:17:55 Mil V-12
+creations-chat 2019-10-18 10:18:10 
+creations-chat 2019-10-18 10:18:12 
+creations-chat 2019-10-18 10:21:17 
+creations-chat 2019-10-18 21:51:48 They're just there so that the blades can extend into position and not become one giant blade
+creations-chat 2020-05-16 09:02:55 
+creations-chat 2020-05-16 09:02:55 MiG 31 Attempt
+creations-chat 2020-05-16 09:02:56 
+help 2021-01-11 01:05:28 I used the wrong channel earlier oof- 
+
+Time to repost here: So I made my gyrocopter with 4 blades per rotor to stop this shaking, any way to fix this while still using unpowered motors and not using wing panels?
+help 2021-01-11 01:05:30 https://gyazo.com/384a8bf4aa82678c5f065e9000e3b234
+help 2021-01-11 01:07:46 2 blades makes it unstable by generating unequal lift or something?
+help 2021-01-11 01:09:53 So I'll be forced to keep the 4 blade arrangement?
+help 2021-01-11 01:10:35 https://gyazo.com/2abebd43d8461b0a985d317900f109e1
+help 2021-01-11 01:12:31 slightly angled wing panels don't work either
+help 2021-01-11 01:14:09 Slightly angled wing panels as rotors still produces the shake
+help 2021-01-11 01:14:47 Hold on imma change my settings so you can join

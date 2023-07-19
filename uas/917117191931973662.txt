@@ -1,0 +1,53 @@
+The Tale of patlou_8370 (917117191931973662)
+help 2022-01-04 14:23:02 Yeah. I removed cameras except to hold stuff up when I realized that. I really only use them to hold stuff up now, usually when folding something.
+creations-chat 2022-01-04 18:10:03 theres a patrick in the sky
+help 2022-01-04 18:11:49 yeah you have to be VERY lucky to snipe sombody with anything
+help 2022-01-04 18:11:54 guided rockets could work though
+help 2022-01-04 18:12:05 like, ones you fully control
+help 2022-01-04 18:12:59 its better than any helicopter i've made, so i cant really help here
+help 2022-01-04 18:37:03 For sniping, you want custom ones, specifically ones you can guide
+help 2022-01-04 18:37:25 only way you can guarantee you will hit your target (depending on how good the missile is)
+help 2022-01-04 18:37:33 since you are controling it
+help 2022-01-04 18:38:39 _most_
+help 2022-01-04 18:38:47 if you design it right, you can get some good speed
+help 2022-01-04 18:39:14 i don't know the speed on mine, since a seat would destroy the balance, but they can catch up with most ground and sea creations
+help 2022-01-04 18:39:21 and can turn reasonably well
+help 2022-01-04 18:39:44 if you're sniping they work fine, i wouldnt put them on a jet or anything though
+help 2022-01-04 18:40:16 put it on a plane and you can attack water stuff
+help 2022-01-04 18:40:30 or put it on a boat and attack water stuff
+bot-central 2022-01-04 20:15:19 !rank
+help 2022-01-04 20:16:03 I may have your fix
+help 2022-01-04 20:16:16 I cant be 100% sure, but if the torpedo is getting stuck exiting
+help 2022-01-04 20:16:32 you may want to make the hole slightly bigger with 1x.9 blocks
+help 2022-01-04 20:16:57 keep them i nthe same place
+help 2022-01-04 20:17:08 you just need ot have the hole be slightly bigger than the tropedo
+help 2022-01-04 20:17:10 torpedo*
+help 2022-01-05 00:59:02 no, maybe for up and down, but not roll or yaw.
+help 2022-01-05 02:11:51 I have zero idea how to make walking legs.
+help 2022-01-05 02:12:00 Making a mech is on an entire different level
+help 2022-01-08 19:40:48 The first one looks better
+bot-central 2022-01-10 05:08:59 !rank
+bot-central 2022-01-12 01:56:44 /rank
+bot-central 2022-01-12 01:56:56 !help
+bot-central 2022-01-12 01:57:16 ?ranks
+bot-central 2022-01-12 01:57:49 !rank
+help 2022-04-18 22:34:32 If you're having issues with the ailerons slowing it down, I'd recommend turning down the angle (if you're using motor2's). It may lose some turning capability, but it will keep it from slowing.
+bot-central 2022-04-18 22:35:09 !rank
+help 2022-04-24 14:27:57 Yes, that's why a lot of large ships will split in half or thirds when they're attacked. The weapon would fall apart off the robot if it were destroyed. I can't really tell you *how* to fold it since every creation is different, But a way I've used in the past uses cameras (or text blocks, but i find them hard to use in some situations) to connect the motor to the folding objects.
+help 2022-04-24 16:01:10 This is another way to fold, motor2 set to 90
+help 2022-04-24 16:03:00 I don't know what vip1 is
+bot-central 2022-04-24 16:04:03 !servers
+bot-central 2022-04-24 16:04:07 -servers
+help 2022-04-24 16:04:21 It says i have to be ranked to use it
+help 2022-04-24 16:06:00 You need level 3 in mee6 right
+help 2022-04-24 16:06:06 or has it changed
+bot-central 2022-04-24 16:11:06 !rank
+help 2022-04-24 16:14:44 Some pictures that come up when I search it up on google have numbers bellow the rotors, like this one
+help 2022-04-24 16:15:05 Others have it on the tail
+help 2022-04-24 16:15:14 Other than that I can't really think of anything
+help 2022-04-24 16:16:47 Actually let me change what i said before, a lot of images have the numbers/letters
+help 2022-04-24 16:51:36 I can't replicate the problem, are you sure it's not attached to another piece of the creation?
+bot-central 2022-04-24 17:53:17 !rank
+creations-chat 2022-04-24 21:22:30 Its a fighter jet for space. That is the best definition I can give
+creations-chat 2022-04-24 21:24:55 kinetics can work in space, probably better than on earth because you don't have to worry about drop or drag. and i think i got my numbers mixed up with the 40mm
+creations-chat 2022-04-24 21:28:25 by kinetics i meant kinetic weapons

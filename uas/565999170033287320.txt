@@ -1,74 +1,2364 @@
-e_soup
-plane-crazy 2020-07-05 16:20:40 that i put actually a lot of effort into
-plane-crazy 2020-07-05 16:20:31 what do you think of my comprehensive guide
-plane-crazy 2020-07-05 16:18:04 yes
-plane-crazy 2020-07-05 16:18:03 hmm
-plane-crazy 2020-07-05 16:17:43 I made a comprehensive worksheet of every problem a plane's flight could have and how to fix them https://1drv.ms/x/s!AvDaSMhcpZVI4zPQEoYxkaeMK12O
-plane-crazy 2020-07-05 16:17:39 i
-plane-crazy 2020-07-05 16:17:16 that I'll never get back
-plane-crazy 2020-07-05 16:17:06 with an hour of my time
-plane-crazy 2020-07-05 16:17:00 guess what i did
-plane-crazy 2020-07-05 16:15:50 People have been running into problems with flight of their plane
-plane-crazy 2020-06-30 20:01:18 Oh yeah. It's all coming together now.
-plane-crazy 2020-06-30 16:29:11 what do yall think of my hydraulic poc
-plane-crazy 2020-06-30 00:32:01 what yall think
-plane-crazy 2020-06-30 00:31:54 proper format
-plane-crazy 2020-06-30 00:31:50 made a suggestion
-plane-crazy 2020-06-29 23:31:04 does that go in <#507673335816126509> or
-plane-crazy 2020-06-29 23:30:49 does anyone know how one person could submit ideas for a contest?
-plane-crazy 2020-06-29 23:30:29 hey
-plane-crazy 2020-06-29 23:00:11 is there anyone who could tell me how a contest idea is passed through
-plane-crazy 2020-06-29 22:59:58 but
-plane-crazy 2020-06-29 22:59:54 k
-plane-crazy 2020-06-29 22:59:21 because the STOL idea is pretty lit
-plane-crazy 2020-06-29 22:59:13 how could one go about making a contest
-plane-crazy 2020-06-29 22:55:32 lol
-plane-crazy 2020-06-29 22:55:15 People Who Talk Like This In Roblox Piss Me Off Beyond Belief
-plane-crazy 2020-06-29 22:54:30 <@!670589325226016780> 10/10 landing yes AFP95 approved and totally not ryanair
-plane-crazy 2020-06-29 22:49:24 is it a plane or a "plane"
-plane-crazy 2020-06-29 22:46:09 https://streamable.com/wb591s <@!670589325226016780>
-plane-crazy 2020-06-29 22:45:27 ah
-plane-crazy 2020-06-29 22:44:39 STOL
-plane-crazy 2020-06-29 22:42:26 k
-plane-crazy 2020-06-29 22:42:14 no
-plane-crazy 2020-06-29 22:42:04 wanna see video of mine taking off and landin?
-plane-crazy 2020-06-29 22:41:36 and come to a complete stop
-plane-crazy 2020-06-29 22:41:29 and how fast can it land
-plane-crazy 2020-06-29 22:41:24 perfect
-plane-crazy 2020-06-29 22:40:44 do you have any STOL planes
-plane-crazy 2020-06-29 22:40:34 i kinda wanna do a STOL competition
-plane-crazy 2020-06-29 22:40:12 phat
-plane-crazy 2020-06-29 22:31:09 another angle
-plane-crazy 2020-06-29 22:29:50 p(p)
-plane-crazy 2020-06-29 22:28:43 by STOL i kinda meant something like this
-plane-crazy 2020-06-29 22:27:59 huh
-plane-crazy 2020-06-29 22:25:14 competition
-plane-crazy 2020-06-29 22:25:10 so y/n on STOL not VTOL
-plane-crazy 2020-06-29 22:22:42 where you cannot use upwards facing thrust
-plane-crazy 2020-06-29 22:22:32 i do a STOL competition
-plane-crazy 2020-06-29 22:22:23 thats why
-plane-crazy 2020-06-29 22:22:20 yea
-plane-crazy 2020-06-29 22:20:28 do you think i should try and host an STOL competition
-plane-crazy 2020-06-29 22:20:12 ive been doing some thinking
-plane-crazy 2020-06-25 21:02:41 nice
-plane-crazy 2020-06-21 00:39:19 dont tell the cops
-plane-crazy 2020-06-21 00:38:56 dont <:FixPls:548709302282747914>
-plane-crazy 2020-06-21 00:38:44 locked half motor + anchored blocks
-plane-crazy 2020-06-21 00:37:52 umop ap!sdn
-plane-crazy 2020-06-21 00:37:39 
-plane-crazy 2020-06-05 01:42:29 it would be really nice for landing
-plane-crazy 2020-06-05 01:42:14 buttering the bread
-plane-crazy 2020-06-05 01:41:58 and boom
-plane-crazy 2020-06-05 01:41:56 and then subtract the ground height
-plane-crazy 2020-06-05 01:41:45 it would just need to use your altitude
-plane-crazy 2020-06-05 01:41:27 tells you how high off the gground you are
-plane-crazy 2020-06-05 01:41:17 ground proximity warning system
-plane-crazy 2020-06-05 01:40:52 who here thinks plane crazy needs gpws
-plane-crazy 2020-05-28 02:00:43 da ba dee da ba die
-plane-crazy 2020-05-27 20:42:39 and there's be map lists
-plane-crazy 2020-05-27 20:42:30 where on vip server you could maybe load custom maps
-plane-crazy 2020-05-27 20:42:14 what if a bigger map was another server type/vip server thing
-plane-crazy 2020-05-27 20:41:46 hm
-plane-crazy 2020-05-27 20:37:39 we got speakers
-plane-crazy 2020-05-27 20:37:34 we asked for bigger map
-plane-crazy 2020-05-27 20:37:28 we asked for a cave update, and we got bees
+The Tale of e_soup (565999170033287320)
+the-dump 2020-05-11 03:59:09 tf2 > overwatch
+bug-reports 2020-05-27 20:40:50 oh hi bacon, I'm ssenmodelux
+bug-reports 2020-05-29 16:49:59 did you get banned for some reason?
+bug-reports 2020-05-29 16:50:06 maybe that's it, idk
+bug-reports 2020-05-29 16:50:44 Did you do anything i l l e g a l
+bug-reports 2020-05-29 16:51:05 hmmmms't
+bug-reports 2020-05-29 16:51:17 I dunno
+creations-chat 2020-05-29 22:04:15 You're only supposed to put creations
+creations-chat 2020-05-29 22:04:38 F
+creations-chat 2020-05-29 22:06:01 should I create a mech of the spy from TF2
+creations-chat 2020-05-29 22:06:28 Ok
+creations-chat 2020-05-29 22:06:33 Before you do
+creations-chat 2020-05-29 22:06:44 Paint it like a Minecraft pisto
+creations-chat 2020-05-29 22:06:48 Piston
+help 2020-05-29 22:10:05 Ok
+help 2020-05-29 22:10:22 what you do
+help 2020-05-29 22:10:35 is m a g n e t
+help 2020-05-29 22:11:46 Usually with stock wheels you can press a and d
+creations-chat 2020-05-29 22:24:56 You should have made the title limooooousine
+creations-chat 2020-06-04 19:34:57 f/18 "hornet"
+creations-chat 2020-06-04 19:35:32 more of a joke than anything, really
+creations-chat 2020-06-04 20:10:56 i made a fleet if tiny boats
+creations-chat 2020-06-04 20:10:59 of*
+bot-central 2020-06-05 01:39:53 ?shelp
+bot-central 2020-06-05 01:40:02 ?rhelp
+creations-chat 2020-06-20 01:11:58 i made a plane in the oldest version of Plane CRazy, will be re-doing in the newest to see how much easier it is
+creations-chat 2020-06-20 01:12:02 
+creations-chat 2020-06-20 01:18:57 it has stood the test of time!
+bug-reports 2020-06-21 00:35:18 Locked half pistons.
+bug-reports 2020-06-21 01:50:06 motor
+bug-reports 2020-06-21 01:50:10 motor
+creations-chat 2020-06-25 17:38:02 is making a 2 block wide plane a sin
+creations-chat 2020-06-25 17:38:39 1 block is okay i guess
+creations-chat 2020-06-25 17:43:32 what about my sin plane
+creations-chat 2020-06-25 17:43:37 i already posted
+creations-chat 2020-06-25 17:43:40 but uh
+creations-chat 2020-06-25 17:44:07 i dont feel so good
+creations-chat 2020-06-28 20:58:29 i committed a fsx steam edition
+creations-chat 2020-06-28 21:04:54 i have an idea
+creations-chat 2020-06-28 21:05:02 we should make a fleet of hot air baloons
+bot-central 2020-06-29 23:01:52 ?shelp
+bot-central 2020-06-29 23:01:58 ?rhelp
+creations-chat 2020-06-29 23:23:56 it is really bright and hard to see
+creations-chat 2020-06-29 23:24:09 if you took a better picture at day maybe it would change
+help 2020-06-29 23:47:51 I have a contest idea, what do I do with it?
+help 2020-06-29 23:48:53 yea thats a really bad idea
+help 2020-06-29 23:49:03 hm
+help 2020-06-29 23:49:19 he has open dms?
+help 2020-06-29 23:49:34 yes he does
+help 2020-06-29 23:50:11 k
+help 2020-06-29 23:50:17 I sent him a DM
+help 2020-06-29 23:50:56 I asked him if he's the right person I should be talking to if I had a contest idea
+help 2020-06-29 23:51:43 >submits rank request, evidence and all
+help 2020-06-29 23:51:50 >cool and good.jpeg
+help 2020-06-29 23:52:00 >moderator asks what rank  i want
+help 2020-06-29 23:52:20 >responds Aeronautical Engineer 4
+help 2020-06-29 23:52:33 >mod asks to see helium block count
+help 2020-06-29 23:52:41 >sends viable proof
+help 2020-06-29 23:52:54 >moderator doesnt respond for an hour
+help 2020-06-29 23:52:59 *what do i do*
+help 2020-06-29 23:53:21 :bruh:
+help 2020-06-29 23:53:28 <:Bruh:589676002221883403>
+help 2020-06-29 23:54:18 send help
+help 2020-06-29 23:55:37 5 year old room temperature Sprite
+creations-chat 2020-06-29 23:56:16 <@456226577798135808>  pretty please take your screenshots at day i cant see anything
+creations-chat 2020-06-29 23:57:06 also dont self ubruv bruh
+help 2020-06-30 00:04:22 the player isnt balanced with the pilot seat
+help 2020-06-30 00:06:05 so
+help 2020-06-30 00:06:10 2 things
+help 2020-06-30 00:06:20 still dont have a rank, submitted 2 hours ago
+help 2020-06-30 00:06:30 cant submit actual contest idea
+help 2020-06-30 00:07:12 send help anyone
+help 2020-06-30 00:10:41 >pinged moderator
+help 2020-06-30 00:10:44 >got rank
+help 2020-06-30 00:10:47 >happy
+bot-central 2020-06-30 00:10:57 ?shelp
+help 2020-06-30 00:37:22 i mean
+help 2020-06-30 00:37:27 technically
+help 2020-06-30 00:37:35 if you put anything in water it's a boat
+help 2020-06-30 00:38:07 it just boils down to *was it worth put millions of dollars of machinery in a lake just to be a boat*
+help 2020-06-30 00:38:56 Metal and 230, 230, 230 gradient
+help 2020-06-30 00:55:03 uh
+help 2020-06-30 00:55:17 alt f4
+creations-chat 2020-06-30 02:49:55 does my post in creations count as picel art
+creations-chat 2020-06-30 02:50:24 its not nsfw
+creations-chat 2020-06-30 02:50:31 and it's not a rick roll
+creations-chat 2020-06-30 02:52:36 did
+creations-chat 2020-06-30 02:52:40 did you scan it
+creations-chat 2020-06-30 02:53:01 thank you
+creations-chat 2020-06-30 02:53:20 <:thoink:657279634563399720>
+creations-chat 2020-06-30 03:20:14 i made another
+creations-chat 2020-06-30 03:20:20 and this one is actually good
+creations-chat 2020-06-30 03:21:04 uh
+creations-chat 2020-06-30 03:21:29 uh
+creations-chat 2020-06-30 03:21:32 i dont know
+creations-chat 2020-06-30 03:21:38 if saying it is a bad word
+creations-chat 2020-06-30 03:23:30 k
+creations-chat 2020-06-30 03:24:04 what do you think
+creations-chat 2020-06-30 03:30:48 its not
+creations-chat 2020-06-30 03:30:56 ill dm you the link
+help 2020-06-30 04:39:48 hmmmmm
+help 2020-06-30 04:39:55 i mean
+help 2020-06-30 04:40:02 techincally?
+help 2020-06-30 04:40:14 its not practical, but its a boat and it float
+help 2020-06-30 04:40:32 the titanic was a big big boat
+help 2020-06-30 04:40:40 the boat would float
+help 2020-06-30 04:40:43 until it dont
+help 2020-06-30 04:40:57 does it stay in the air?
+help 2020-06-30 04:41:25 if it generates more lift than gravity pulls it down
+help 2020-06-30 04:41:27 its a plan
+help 2020-06-30 04:41:31 yall
+help 2020-06-30 04:41:35 EXAMPLE
+help 2020-06-30 04:41:55 a typical sedan has a top speed of 120 mph
+help 2020-06-30 04:42:04 and there's a good reason
+help 2020-06-30 04:42:16 at about 220 mph, it start generationg lift
+help 2020-06-30 04:42:21 thats right
+help 2020-06-30 04:42:26 sedans generate lift
+help 2020-06-30 04:42:38 so if you drove a sedan at 300 MPH
+help 2020-06-30 04:42:42 its a plane
+help 2020-06-30 04:43:20 ok
+help 2020-06-30 04:43:31 but if you use an aircraft carrier catapult
+help 2020-06-30 04:43:36 a sedan can fly for miles
+help 2020-06-30 04:44:45 let me see the 737
+help 2020-06-30 04:45:26 wait
+help 2020-06-30 04:45:32 this is help
+help 2020-06-30 04:45:42 we need to have conversations in general
+creations-chat 2020-06-30 16:27:33 hydraulics be like
+creations-chat 2020-06-30 16:27:37 retract hmm yes
+bug-reports 2020-06-30 18:04:01 same here
+creations-chat 2020-06-30 19:55:36 it's all coming together now
+creations-chat 2020-06-30 19:57:22 it's coming together
+creations-chat 2020-07-01 00:39:02 <@456226577798135808>  too wholesome
+creations-chat 2020-07-01 00:58:09 what do yall think of my minigun
+creations-chat 2020-07-01 00:58:19 in <#384025409945337856>
+creations-chat 2020-07-01 00:59:42 8 chaimbers
+creations-chat 2020-07-01 01:00:01 recoil?
+creations-chat 2020-07-01 01:00:04 in the muzzle or
+creations-chat 2020-07-01 01:00:18 hm
+creations-chat 2020-07-01 01:00:27 or
+creations-chat 2020-07-01 01:00:31 even better
+creations-chat 2020-07-01 01:00:39 put it on another system
+creations-chat 2020-07-01 01:08:44 thats not chill
+creations-chat 2020-07-01 01:08:47 thats hot
+bot-central 2020-07-04 04:45:18 !play kazotskyrobics kickconga
+bot-central 2020-07-04 05:14:09 =p kazotskyrobics kickconga dance
+bot-central 2020-07-04 05:15:19 !queue
+bot-central 2020-07-04 05:15:24 =p queue
+creations-chat 2020-07-04 19:00:23 posted my p51
+creations-chat 2020-07-04 19:00:26 what yall thincc
+bot-central 2020-07-04 21:24:23 !servers
+bot-central 2020-07-05 04:28:36 =p play Rice cakes but it crashes your wii
+bot-central 2020-07-05 04:28:59 =p leave
+bot-central 2020-07-05 04:29:05 =phelp
+bot-central 2020-07-05 04:29:20 =leave
+help 2020-07-05 16:19:15 Is your plane not flying correctly? I made a comprehensive worksheet of every problem a plane's flight could have and how to fix them https://1drv.ms/x/s!AvDaSMhcpZVI4zPQEoYxkaeMK12O
+creations-chat 2020-07-09 05:11:35 the actual scale (canonically) of ROBLOX is 1 stud: 1 block
+creations-chat 2020-07-09 05:11:55 implying the ROBLOX char. is the height of a child; 5'0"
+creations-chat 2020-07-09 05:12:07 and that means every block is 2.5 feet
+creations-chat 2020-07-12 19:15:57 nope
+the-dump 2020-07-20 05:06:20 dont fuck with us
+bot-central 2020-07-23 18:28:55 ?servers
+bot-central 2020-07-23 18:28:58 !servers
+bot-central 2020-07-23 18:29:20 !servers
+bot-central 2020-07-23 18:29:39 ????/
+bot-central 2020-07-23 18:31:53 !help
+bot-central 2020-07-23 18:32:08 !servers
+bot-central 2020-07-23 18:32:13 im ranked what
+help 2020-07-24 03:04:25 magnet rope lol
+help 2020-07-27 13:59:07 <:Thonk:509498568982134816>
+creations-chat 2020-07-31 22:38:51 scooter
+creations-chat 2020-07-31 22:51:11 scoot
+creations-chat 2020-07-31 22:51:14 lol thx
+creations-chat 2020-07-31 22:51:22 wanna see a skateboard
+creations-chat 2020-07-31 22:51:48 
+creations-chat 2020-07-31 22:51:51 sk8r
+creations-chat 2020-07-31 22:54:24 y e s
+creations-chat 2020-07-31 22:54:30 i remember u
+creations-chat 2020-07-31 22:54:38 scooter
+creations-chat 2020-07-31 22:55:19 req me again
+creations-chat 2020-07-31 22:55:42 <@!636996526878490624> <:Pinged:508027985190715457>
+creations-chat 2020-07-31 22:58:31 oh no this is turning into roblox chat
+creations-chat 2020-07-31 22:59:17 my scooter is actually doing well how its low effort
+creations-chat 2020-07-31 22:59:29 my low effort creation
+creations-chat 2020-07-31 23:02:08 can we not argue about things that arent creations
+creations-chat 2020-07-31 23:02:18 in the only chat specifically made for creations
+creations-chat 2020-07-31 23:05:50 can a mod add a low effort reaction to my scooter or
+creations-chat 2020-07-31 23:13:57 dude why does my low effort scooter have 10 upvotes its just a scooter
+creations-chat 2020-07-31 23:34:58 scooter gang
+creations-chat 2020-08-01 14:50:08 got 40 upvotes on a scooter and a mod called it low effort smh
+creations-chat 2020-08-01 14:50:35 mods gay
+creations-chat 2020-08-01 14:59:41 ty
+creations-chat 2020-08-01 14:59:50 the thing is this has so much potential
+creations-chat 2020-08-01 15:00:05 i could turn it into any vehicle like this on scales before impossible
+creations-chat 2020-08-01 15:01:29 ebic sk8r
+creations-chat 2020-08-01 15:02:17 friends hover(b)oard
+creations-chat 2020-08-01 15:02:50 <@!423276894000250882> ^
+creations-chat 2020-08-01 15:03:50 skateboard fun
+creations-chat 2020-08-01 15:04:03 it travels at normal walking speed but looks 2000% cooler
+creations-chat 2020-08-01 15:05:33 ebic
+creations-chat 2020-08-01 15:05:37 https://cdn.discordapp.com/attachments/384025409945337856/738902485032501288/unknown.png
+creations-chat 2020-08-01 15:05:42 gang
+help 2020-08-01 15:07:19 it only appears in VIP servers <@!312754480200286209>
+help 2020-08-01 15:11:23 np
+help 2020-08-01 15:17:56 hmm
+help 2020-08-01 15:18:22 heres some ideas
+help 2020-08-01 15:18:32 living quarters
+help 2020-08-01 15:18:36 cargo
+help 2020-08-01 15:18:46 mast
+help 2020-08-01 15:18:50 smoke funnel
+creations-chat 2020-08-01 15:32:32 doug dimmadome
+creations-chat 2020-08-01 15:33:44 owner of the dougsdale dimmadome
+creations-chat 2020-08-01 22:28:39 <@!257194741815312384> can we see your boat unfolded
+creations-chat 2020-08-01 22:28:48 ty
+creations-chat 2020-08-01 22:29:02 aw
+creations-chat 2020-08-01 22:29:50 ty
+creations-chat 2020-08-01 22:30:03 it looks so hawt
+bot-central 2020-08-01 22:30:16 ?help
+bot-central 2020-08-01 22:30:34 !help
+bot-central 2020-08-01 22:30:49 !serverlist
+bot-central 2020-08-01 22:30:52 !Servers
+creations-chat 2020-08-02 01:03:35 my pc says i cant download krita
+creations-chat 2020-08-02 01:03:37 
+creations-chat 2020-08-02 01:04:04 Not right
+creations-chat 2020-08-02 01:04:08 Not right?
+creations-chat 2020-08-02 01:04:11 Not right!
+creations-chat 2020-08-02 01:04:22 Timmy turner, my name is doug dimmadome
+creations-chat 2020-08-02 01:04:29 owner of the dougsdale dimmadome
+creations-chat 2020-08-02 01:10:45 question
+creations-chat 2020-08-02 01:10:56 how do i overlay images onto my screen with Krita
+creations-chat 2020-08-03 05:19:24 okay
+creations-chat 2020-08-03 05:19:29 i dont know why or howe
+creations-chat 2020-08-03 05:19:30 how
+creations-chat 2020-08-03 05:19:45 but i desperately want to make a kazotsky kicking engineer
+creations-chat 2020-08-03 05:20:04 https://www.youtube.com/watch?v=3LrKYy6h9uY
+creations-chat 2020-08-03 05:20:10 like from this ^
+creations-chat 2020-08-03 05:20:18 3:30
+creations-chat 2020-08-03 05:21:08 ima do it
+creations-chat 2020-08-03 05:21:14 i think i have a problem
+creations-chat 2020-08-03 05:27:45 kinky
+bug-reports 2020-08-03 18:01:15 im spawned in
+creations-chat 2020-08-03 22:03:24 it bad
+creations-chat 2020-08-03 22:03:33 make dorito go bye bye
+creations-chat 2020-08-03 22:03:53 <:KEKW:670310537300672528>
+bot-central 2020-08-04 15:40:24 $help
+bot-central 2020-08-04 15:40:31 $help commands
+bot-central 2020-08-04 15:41:26 ?shelp
+creations-chat 2020-08-04 20:04:10 Does anyone have a F-14?
+creations-chat 2020-08-04 20:04:30 I made a MiG-28 and want to "exchange foreign relations"
+creations-chat 2020-08-04 20:06:08 please
+creations-chat 2020-08-04 20:06:18 i want to recreate the inverted scene from Topgun
+creations-chat 2020-08-04 20:07:11 My F-5 "MiG 28"
+creations-chat 2020-08-04 20:08:47 thank you motor lock
+creations-chat 2020-08-04 20:09:02 
+creations-chat 2020-08-04 20:19:31 dang
+creations-chat 2020-08-04 20:19:39 lookin fine
+creations-chat 2020-08-04 20:31:57 does anyone have an F-14 tomcat
+creations-chat 2020-08-04 20:32:24 i have the MiG from Topgun and I want to recreate the topgun scene
+creations-chat 2020-08-04 20:46:50 i did the thing
+creations-chat 2020-08-04 20:46:55 my friend was inverted
+creations-chat 2020-08-04 20:52:09 is this one better
+creations-chat 2020-08-04 20:54:24 mhm
+creations-chat 2020-08-04 20:54:32 rip
+creations-chat 2020-08-04 20:54:36 my friends plane
+bot-central 2020-08-05 14:33:02 !servers
+creations-chat 2020-08-06 21:53:01 you can only paint cutters from the bottom flat square side
+bot-central 2020-08-07 16:10:22 $help
+bot-central 2020-08-07 16:10:29 $help commands
+bot-central 2020-08-07 16:13:00 &suggest Blinking wing lights
+[Building]
+It's impossible to fly a plane that already has 12 keybinds and just press one of them over and over to make a light blink. Add a light that looks the same as the Winglight, but can blink and the time period between blinks and how long it is lit up for can be variables, like sliders.
+bot-central 2020-08-07 16:13:22 how suggest
+bot-central 2020-08-07 16:13:28 ?shelp
+bot-central 2020-08-07 16:13:47 thanks im an idiot
+creations-chat 2020-08-07 16:14:50 <@!245970126065762304>  may I see your cargo boat you posted in <#384025409945337856> on your plot, like unfolded
+creations-chat 2020-08-07 16:15:01 sorry for the ping
+bot-central 2020-08-07 16:15:11 also
+bot-central 2020-08-07 16:15:27 how many different levels of servers are there
+creations-chat 2020-08-07 16:16:16 uh
+creations-chat 2020-08-07 16:16:28 i know there's the regular servers command what others are there
+bot-central 2020-08-07 16:17:00 !help
+bot-central 2020-08-07 16:17:18 !serverlist
+bot-central 2020-08-07 16:17:22 !servers
+bot-central 2020-08-07 16:17:42 okay
+bot-central 2020-08-07 16:17:52 im guesssing expert is for tier 5
+bot-central 2020-08-07 16:18:14 im at 4
+bot-central 2020-08-07 16:18:16 ;-;
+bot-central 2020-08-07 16:18:48 okay are ur DMs open
+bot-central 2020-08-07 16:19:11 ive been working on a 737 for a long time and I don't know if I should post it yet when there's more to be added
+bot-central 2020-08-07 16:19:42 lets move to dms
+bot-central 2020-08-07 16:20:36 should I send screenshots/videos of the functioning parts
+creations-chat 2020-08-07 16:30:08 yeah
+creations-chat 2020-08-07 16:30:09 ty
+creations-chat 2020-08-07 16:30:38 hmm
+creations-chat 2020-08-07 16:30:43 well may I still se it
+creations-chat 2020-08-07 16:31:01 we're all noobs at something
+creations-chat 2020-08-07 16:31:23 good looking boat ngl
+creations-chat 2020-08-07 16:31:31 <:Upvote:490311647492309004>
+creations-chat 2020-08-07 16:56:14 wait <@!489910972946055172> did he actually not make that carrier
+bug-reports 2020-08-08 16:33:51 shouldnt blacklist also disable aircraft-aircraft collision
+bug-reports 2020-08-08 16:36:30 BRUH
+bug-reports 2020-08-08 16:36:39 did you just
+bug-reports 2020-08-08 16:36:42 7/11
+bug-reports 2020-08-08 16:37:14 how
+bug-reports 2020-08-08 16:37:32 how would a 7/11 recreation not happen because of blacklist
+bug-reports 2020-08-08 16:37:35 theres
+bug-reports 2020-08-08 16:37:39 a
+bug-reports 2020-08-08 16:37:41 uhm
+bug-reports 2020-08-08 16:37:45 im confused
+help 2020-08-08 16:40:54 anti bot captcha be like
+creations-chat 2020-08-08 17:55:10 shredder bugs are gay and anyone who uses them unironically shouldnt play plane crazy
+help 2020-08-08 17:55:24 y
+help 2020-08-08 17:55:26 es
+creations-chat 2020-08-08 17:57:24 if you make a shredder bug i will strangle you
+bug-reports 2020-08-08 17:57:57 thats because control surfaces are designed to face forward like on a plane'
+creations-chat 2020-08-08 17:58:16 **l e a v e**
+creations-chat 2020-08-08 17:58:31 <:Downvote:490311668556103700>
+creations-chat 2020-08-08 17:58:51 lol
+creations-chat 2020-08-08 17:58:55 gottem
+creations-chat 2020-08-08 17:59:38 i hope ur save slots corrupt and you get IP banned from roblox <@!491570111787040778>
+creations-chat 2020-08-08 18:00:11 <:KEKW:670310537300672528>
+creations-chat 2020-08-08 18:00:20 shredder bugs arent jokes
+creations-chat 2020-08-08 18:00:44 dont joke about shredder bugs
+creations-chat 2020-08-08 18:00:50 <:NotFunny:602000308154925057>
+creations-chat 2020-08-08 18:02:10 shredder bugs arent joke material
+creations-chat 2020-08-08 18:02:17 dont joke about them
+creations-chat 2020-08-08 18:02:28 they're a serious problem
+bot-central 2020-08-08 19:08:53 !servers
+the-dump 2020-08-11 15:41:40 
+the-dump 2020-08-11 15:42:06 watch this if you hate yourself ^
+the-dump 2020-08-11 15:42:52 lööp
+the-dump 2020-08-11 15:43:29 yesn'tn't
+the-dump 2020-08-11 15:43:57 hm
+the-dump 2020-08-11 15:44:00 okay
+the-dump 2020-08-11 15:44:23 the cat gif is perfectly in sync with the song
+the-dump 2020-08-11 15:46:43 https://www.youtube.com/watch?v=FgKeACr-Afs
+the-dump 2020-08-11 15:49:17 https://www.youtube.com/watch?v=HngocP61lE8 more pain
+the-dump 2020-08-11 15:53:02 okay if you say otherwise ur wrong, but this song is a slap https://www.youtube.com/watch?v=CtXPHAAwdgQ
+the-dump 2020-08-11 15:56:29 wait
+the-dump 2020-08-11 15:56:34 megagamer
+the-dump 2020-08-11 15:56:40 you got into his account
+the-dump 2020-08-11 15:56:51 just change one thing
+the-dump 2020-08-11 15:56:56 just change his status to
+the-dump 2020-08-11 15:57:08 idiot who used his username as his password
+the-dump 2020-08-11 15:57:14 and just leave
+the-dump 2020-08-11 15:57:37 change his avatar to this
+the-dump 2020-08-11 15:57:40 
+the-dump 2020-08-11 15:58:37 well
+the-dump 2020-08-11 15:58:42 at least leave something
+the-dump 2020-08-11 15:59:09 to teach him that using ur username as ur password isnt okay
+the-dump 2020-08-11 15:59:55 nice
+the-dump 2020-08-11 16:00:42 noice
+creations-chat 2020-08-14 18:12:33 the boat is very blocky
+creations-chat 2020-08-14 18:12:38 it has almost no shape
+creations-chat 2020-08-14 18:13:21 bruh
+creations-chat 2020-08-14 18:13:34 danny ur boat desnt even have any shapr
+creations-chat 2020-08-14 22:03:48 CREATIONS BLACKLIST
+creations-chat 2020-08-14 22:03:55 pogchamps
+creations-chat 2020-08-14 22:04:29 u bad
+creations-chat 2020-08-15 21:54:40 <@!359613171495075842> 24
+creations-chat 2020-08-15 21:54:44 color code
+bot-central 2020-09-02 15:59:26 $help
+bot-central 2020-09-02 15:59:31 $help commands
+bot-central 2020-09-02 15:59:37 how suggest
+bot-central 2020-09-02 15:59:40 ?shelp
+bot-central 2020-09-02 16:02:17 !servers
+bot-central 2020-09-04 15:07:06 !servers
+bug-reports 2020-09-04 16:36:15 trapdoors
+bug-reports 2020-09-04 16:38:38 trapdoors are so broken
+bug-reports 2020-09-04 16:38:40 like
+help 2020-09-04 16:39:49 > how do i make shredder bugs
+FOR THE LOVE OF GOD, YOU INNOCENT CHILD, DONT DO IT
+bug-reports 2020-09-04 19:43:50 why me
+bug-reports 2020-09-04 19:43:52 oh
+bug-reports 2020-09-04 19:43:57 hmmmmm
+bug-reports 2020-09-04 19:45:40 cool
+bot-central 2020-09-07 01:01:16 !servers
+creations-chat 2020-09-08 15:06:59 I succ at toncc
+creations-chat 2020-09-08 15:07:58 question
+creations-chat 2020-09-08 15:08:30 Does putting weapons on an civilian aircraft make it an air Force plane
+creations-chat 2020-09-08 15:08:49 kamikaze piper cub
+creations-chat 2020-09-08 15:09:01 Okay
+creations-chat 2020-09-08 15:09:04 I will
+creations-chat 2020-09-08 15:09:20 can I use a piper cub
+creations-chat 2020-09-08 15:09:33 Bet
+creations-chat 2020-09-08 15:09:49 oh no
+creations-chat 2020-09-08 15:09:58 I don't like the implications of that
+creations-chat 2020-09-08 15:10:11 Shredder bug but it's a 737
+creations-chat 2020-09-08 15:10:35 alright
+creations-chat 2020-09-08 15:10:44 Bet
+creations-chat 2020-09-08 15:34:02 Bit too dark tbh
+help 2020-09-11 17:40:06 good job remembering
+bot-central 2020-09-11 18:28:35 
+bot-central 2020-09-11 18:28:45 https://cdn.discordapp.com/attachments/384027830192832513/754045744708583494/Screenshot_20200911-132548.png
+creations-chat 2020-09-13 03:05:45 turn self protection on
+bug-reports 2020-09-13 03:06:44 I have a flyswatter
+bug-reports 2020-09-13 03:06:58 
+bot-central 2020-09-24 15:17:37 
+bot-central 2020-09-25 17:37:27 -mapsuggest 3 things:
+1. A downtown metropolitan area, complete with skyscrapers, roads, and a nearby airport
+2. Small houses scattered around, with some trees
+3. Trees, in general. Maybe a forest?
+bot-central 2020-09-25 17:38:07 lag
+bot-central 2020-09-25 17:38:09 yeh
+bot-central 2020-09-25 17:38:18 maybe
+bot-central 2020-09-25 17:38:36 The trees turn off on lower graphics
+bot-central 2020-09-25 17:39:04 2d texture trees lmao
+bot-central 2020-09-25 17:39:22 What
+bot-central 2020-09-25 17:39:40 .
+bot-central 2020-09-25 17:39:49 I see your point
+bot-central 2020-09-25 17:40:25 But that's kinda like saying "we're banning planes because they can kill people"
+bot-central 2020-09-25 17:40:34 I know it's a serious tragedy
+bot-central 2020-09-25 17:41:00 But because of a couple of people it feels wrong that nobody can access them
+bot-central 2020-09-25 17:41:44 :o
+bot-central 2020-09-25 17:41:46 idea
+bot-central 2020-09-25 17:42:13 have a certain amount of time required to access the map
+bot-central 2020-09-25 17:43:09 and add votekicking
+bot-central 2020-09-25 17:43:17 ^^^^^^
+bot-central 2020-09-25 17:43:34 WAIT
+bot-central 2020-09-25 17:43:40 better idea
+bot-central 2020-09-25 17:43:50 everyone can access the map
+bot-central 2020-09-25 17:45:14 but maybe the buildings are intangible
+bot-central 2020-09-25 17:45:56 hmmm
+bot-central 2020-09-25 17:46:09 but you can still land on the roof
+bot-central 2020-09-25 17:46:38 hmmm
+bot-central 2020-09-25 17:46:41 better idea
+bot-central 2020-09-25 17:46:50 add a resizeable propeller
+bot-central 2020-09-25 17:47:00 customize blade count and size
+bot-central 2020-09-25 17:51:02 -mapsuggest Papi lights on the airport
+bot-central 2020-09-25 17:51:17 Wait
+bot-central 2020-09-25 17:51:20 One more thing
+bot-central 2020-09-25 17:51:44 People with only 5+ days can call or participate in a votekick
+bot-central 2020-09-25 17:52:28 And requires more than 2 people to say yes and more than 50% of all votes to be yes
+bot-central 2020-09-25 17:54:40 9/11 recreaters if they add a city
+bot-central 2020-09-25 17:54:47 That's worthy of a votekick
+bot-central 2020-09-25 17:56:05 Another suggestion
+bot-central 2020-09-25 17:56:09 Airliner seats
+bot-central 2020-09-25 17:56:20 3 seats that take up 2 blocks wide
+bot-central 2020-09-25 17:57:10 hmmmmmm
+bot-central 2020-09-25 17:57:11 nah
+bot-central 2020-09-25 17:57:30 rickje and madattak statues
+bot-central 2020-09-25 17:59:01 -mapsuggest Developer statues
+For their incredible contributions to probably the best sandbox game on Roblox
+bot-central 2020-09-25 18:01:11 first person to ping me gets nothing at all
+creations-chat 2020-09-25 20:46:18 Wedge
+bot-central 2020-09-26 19:55:49 !servers
+bug-reports 2020-09-28 19:51:17 make engines catch fire and explode when damaged in pvp
+bug-reports 2020-09-28 19:51:40 they don't and that's a bug
+bug-reports 2020-09-28 19:51:46 it's bugging me
+bug-reports 2020-09-28 22:15:22 can I report shredder bugs here
+creations-chat 2020-09-29 20:43:20 who here has a good 172
+creations-chat 2020-10-27 00:42:03 begone thoughtgun <@658153536047022090>
+creations-chat 2020-10-28 22:59:49 to be a good builder do I need A Brain™
+the-dump 2020-10-31 03:30:08 
+the-dump 2020-11-04 20:55:52 
+the-dump 2020-11-04 20:56:14 https://cdn.discordapp.com/attachments/495286269459300364/773651756571557898/mp4
+the-dump 2020-11-04 20:57:12 https://tenor.com/view/bobux-no-bobux-gif-18426861
+the-dump 2020-11-04 20:57:30 no bobux
+the-dump 2020-11-22 01:40:08 5 minute crafts
+creations-chat 2020-11-22 17:02:42 do you really hate yourself that much
+creations-chat 2020-11-23 17:54:33 juan
+creations-chat 2020-11-23 18:06:22 1) Solar panels
+2) Interior?
+help 2020-11-23 18:07:15 I'm stuck in the end where you just have no motivation to build anything, what am I supposed to do
+help 2020-11-23 18:11:45 I've been playing Tf2 for about five months
+help 2020-11-23 18:12:03 I don't think I will return, honestly there's no fun anymore
+help 2020-11-23 18:12:07 There's nothing to do
+help 2020-11-23 18:12:11 Yes
+help 2020-11-23 18:12:17 Team Fortress 2
+help 2020-11-23 18:23:03 I did the math
+help 2020-11-23 18:23:13 Playing tf2 with random drops
+help 2020-11-23 18:23:31 Earns you about 0.00833333 dollars per hour
+the-dump 2020-12-27 02:16:24 
+the-dump 2020-12-27 02:18:45 https://www.youtube.com/watch?v=wb-LPbUeiWA
+the-dump 2020-12-27 02:18:57 as a texan can confirm
+the-dump 2020-12-27 02:19:24 if you litter you're getting blown up
+the-dump 2020-12-27 02:19:40 No, it can not.
+the-dump 2020-12-27 04:13:15 
+the-dump 2020-12-27 04:13:49 https://twitter.com/ItsAkiio/status/1342560779116175363?s=20
+the-dump 2020-12-27 04:14:02 roblox guess the character games
+the-dump 2020-12-27 04:15:23 https://twitter.com/i/status/1342567386470260737
+the-dump 2020-12-27 04:16:05 i hate this
+the-dump 2021-01-05 15:53:31 That's great and all, but there's another settlement that needs our help. Here, I'll mark it on your map.
+the-dump 2021-01-05 15:53:56 Fallout 4 (Preston Garvey)
+the-dump 2021-01-05 15:54:56 YOU ARE OUT OF UNIFORM SOLDIER! WHERE IS YOUR POWER ARMOR!?
+the-dump 2021-01-05 15:55:09 Don't have any?
+the-dump 2021-01-05 15:55:31 YOU EXPECT ME TO BELIEVE THAT, MAGGOT!?
+the-dump 2021-01-05 15:55:56 THE TRUTH IS YOU LOST AN EXPENSIVE PIECE OF ARMY-ISSUE EQUIPMENT.
+
+THAT SUIT IS GOING TO COME OUT OF YOUR PAY
+
+AND YOU WILL REMAIN IN THIS MANS ARMY UNTIL YOU ARE FIVE HUNDRED AND TEN YEARS OLD
+
+WHICH IS THE NUMBER OF YEARS IT WILL TAKE FOR YOU TO PAY FOR A
+
+MARK II POWERED COMBAT ARMOR YOU HAVE LOST!
+
+REPORT TO THE ARMORY AND HAVE A NEW SUIT ISSUED TO YOU, THEN REPORT BACK TO ME, PRIVATE!
+
+DISMISSED!
+the-dump 2021-01-05 15:56:28 Fallout 2
+the-dump 2021-01-05 15:56:36 Sgt. Dornan
+the-dump 2021-01-05 15:58:52 r/ihadastroke
+the-dump 2021-01-05 16:08:02 me n my friend asking my mom if we can have a sleepover
+the-dump 2021-01-10 15:39:19 i made the stinkiest meme ever
+the-dump 2021-01-10 15:39:24 
+events-chat 2021-01-15 18:56:57 general 2: electric boogaloo
+the-dump 2021-01-20 01:59:01 
+the-dump 2021-01-20 01:59:40 i almost popped a vein the first time i saw this video
+the-dump 2021-01-20 02:00:00 gay
+the-dump 2021-01-20 02:00:02 balls
+the-dump 2021-01-20 02:00:58 https://media.discordapp.net/attachments/798297105687904256/798819377667244032/savetweetvid_Ep0pLpGXIAEX848.gif\
+the-dump 2021-01-20 02:01:05 shit
+the-dump 2021-01-20 02:01:51 pog
+creations-chat 2021-01-30 21:32:47 <@!431283338716905472> the yacht with MILO on it is wholesome 10/10
+the-dump 2021-02-07 06:13:41 
+the-dump 2021-02-07 06:13:44 It's nerf or nothing
+the-dump 2021-02-07 06:30:44 Yum
+the-dump 2021-02-07 14:43:28 Fun facts!
+the-dump 2021-02-07 14:43:47 .22 LR chambers into a 6 mm Airsoft gun
+the-dump 2021-02-09 23:38:47 https://media.discordapp.net/attachments/787148524201443359/792795745950367764/image0-4-3.gif
+the-dump 2021-02-10 00:11:47 thats a compliment
+the-dump 2021-02-11 22:26:59 Meanwhile in Texas
+the-dump 2021-02-11 22:28:06 Yeah
+the-dump 2021-02-11 22:28:21 Search up "Fort Worth Pileup"
+the-dump 2021-02-12 21:52:25 I got warned for NSFL
+the-dump 2021-02-12 21:52:39 no more car crunchies then
+the-dump 2021-02-12 21:58:09 I've been warned
+the-dump 2021-02-12 21:58:13 My life is over
+the-dump 2021-02-12 21:58:19 My career has been ruined
+the-dump 2021-02-13 03:40:37 
+bot-central 2021-02-15 21:14:12 !servers
+bot-central 2021-02-22 17:07:47 the command for suggestions is (?)suggest right
+bot-central 2021-02-22 17:08:41 ?suggest Non-toggle/Press Smoke Pipes
+[Gameplay]
+A feature for the Smoke Pipe block, just like the Trail block, where it is activated only when the key is pressed down. This would be useful for where the Smoke pipe is only used for it's shape, or the player wants it off when they spawn in.
+bot-central 2021-02-22 17:08:50 i guess not
+bot-central 2021-02-22 17:08:55 !help
+bot-central 2021-02-22 17:09:10 ?shelp
+bot-central 2021-02-22 17:09:28 ?suggestionhelp
+bot-central 2021-02-22 17:09:32 is bot broke
+the-dump 2021-02-22 23:29:15 
+the-dump 2021-02-22 23:31:27 
+creations-chat 2021-02-22 23:34:56 Thoughts on my Cessna 172?
+creations-chat 2021-02-22 23:37:55 everyone expects planes to have thick wings and be a plot big and I dont agree with that
+bot-central 2021-02-23 02:55:19 !servers
+the-dump 2021-02-23 18:30:22 
+the-dump 2021-02-25 00:29:14 
+the-dump 2021-02-25 00:29:43 the real questions to be asked here
+the-dump 2021-02-25 04:17:22 
+the-dump 2021-02-25 04:18:10 welcome to fortnite
+the-dump 2021-02-26 01:35:51 
+bot-central 2021-02-26 23:06:10 !servers
+the-dump 2021-02-28 22:34:58 
+the-dump 2021-02-28 22:59:06 theres a suspension glitch
+the-dump 2021-02-28 22:59:12 that deletes things it touches
+the-dump 2021-02-28 22:59:15 i saw a car
+the-dump 2021-02-28 22:59:28 that when it drove into somebody they instantly die
+the-dump 2021-02-28 23:39:00 
+the-dump 2021-02-28 23:39:01 well
+the-dump 2021-03-02 03:38:33 shhh
+the-dump 2021-03-02 03:38:37 shhh itll be funny
+the-dump 2021-03-02 03:38:44 epic troll!!!1!!!!one!
+the-dump 2021-03-02 03:38:54 problem?
+the-dump 2021-03-02 03:38:59 <:trollface:775024642104229898>
+the-dump 2021-03-02 03:39:06 trolled
+the-dump 2021-03-02 03:39:27 <@!391021266351554561> please tell me you didnt look it up
+the-dump 2021-03-02 03:40:45 it funny
+the-dump 2021-03-02 03:40:51 its the funny
+the-dump 2021-03-02 03:41:01 mad cuz got trolled
+the-dump 2021-03-02 03:41:08 <:trollface:775024642104229898>
+the-dump 2021-03-02 03:41:31 f
+the-dump 2021-03-02 03:41:41 mad cuz he got trolled
+the-dump 2021-03-02 03:42:05 <@!466793357318815744> ur just salty because u got trolled
+the-dump 2021-03-02 03:42:29 mad cuz got trolled
+the-dump 2021-03-02 03:42:32 u mad bro
+the-dump 2021-03-02 03:43:45 funny
+the-dump 2021-03-02 03:44:00 hes mad because he got trolled so hard
+the-dump 2021-03-02 03:46:50 can we have a single channel
+the-dump 2021-03-02 03:46:54 called the wasteland
+the-dump 2021-03-02 03:46:59 no rules on what to post
+the-dump 2021-03-02 03:47:02 marked nsfw
+the-dump 2021-03-02 03:47:14 just
+the-dump 2021-03-02 03:47:25 lets see what the community is really thinking
+the-dump 2021-03-02 03:47:59 nsfw channel in pcc
+the-dump 2021-03-02 03:48:02 thats a great idea
+the-dump 2021-03-02 03:48:04 im so smart
+the-dump 2021-03-02 03:48:28 ok but
+the-dump 2021-03-02 03:48:31 itd be funny
+the-dump 2021-03-02 03:48:51 nineteen dolla fortnite gift card
+the-dump 2021-03-02 03:48:55 im not giving it away
+the-dump 2021-03-02 03:49:02 im just flexin on yall bc u poor
+the-dump 2021-03-02 03:49:18 :O
+the-dump 2021-03-02 03:49:40 imagine being an expert but having creations blacklist
+the-dump 2021-03-02 03:50:47 uh
+the-dump 2021-03-02 03:51:17 sorry wrong y'oh'ure'r
+the-dump 2021-03-02 03:51:49 ninteen dolla roblox card
+the-dump 2021-03-02 03:51:53 u want it
+the-dump 2021-03-02 03:51:58 too bad poor
+the-dump 2021-03-02 03:52:04 its mine
+the-dump 2021-03-02 03:52:14 im not givin it away >:(
+the-dump 2021-03-02 03:52:34 how dare u
+the-dump 2021-03-02 03:53:20 she got into a car wreck when she was in college. her spine collapsed on her nerves and couldnt live a normal life for 20 years, and did put on weight as a result
+the-dump 2021-03-02 03:54:00 wait
+the-dump 2021-03-02 03:54:03 i have an idea
+the-dump 2021-03-02 03:54:13 cursed planes as a contest
+the-dump 2021-03-02 03:54:34 ^
+the-dump 2021-03-02 03:55:28 you:
+the-dump 2021-03-02 03:57:00 vs the guy she told you not to worry about
+the-dump 2021-03-02 03:57:15 its the A350-4000
+the-dump 2021-03-02 03:58:00 giraffe
+the-dump 2021-03-02 03:58:14 he doesnt get the joke
+the-dump 2021-03-02 04:01:36 you know what
+the-dump 2021-03-02 04:01:41 screw all of you
+the-dump 2021-03-02 04:01:50 *bullpups your plane*
+the-dump 2021-03-02 04:02:00 
+the-dump 2021-03-02 04:04:35 cring
+the-dump 2021-03-02 04:04:49 guys you know what tf2 is right
+the-dump 2021-03-02 04:05:09 saxton hale is one of my favorite characters
+the-dump 2021-03-02 04:05:23 you should look him up he's pretty cool
+the-dump 2021-03-02 04:05:55 look up saxton hale on google
+the-dump 2021-03-02 04:06:20 did you do it
+the-dump 2021-03-02 04:07:07 oh no you did
+the-dump 2021-03-02 04:07:57 soos
+the-dump 2021-03-02 04:08:40 Can someone photoshop a bullpup person
+the-dump 2021-03-02 04:09:00 Legs and arms are switched where they attach
+the-dump 2021-03-02 04:11:06 the 5th image is well
+the-dump 2021-03-02 04:11:12 all I'm saying is
+the-dump 2021-03-02 04:11:18 he's packin
+the-dump 2021-03-07 17:02:14 my therapist: cute plane isnt real, he cant hurt you
+the-dump 2021-03-07 17:02:18 cute plane:
+the-dump 2021-03-07 17:02:20 
+the-dump 2021-03-07 17:33:05 looks like something out of BaBFT
+the-dump 2021-03-07 17:33:55 yes it is
+the-dump 2021-03-07 17:33:59 fat 737 is cute
+the-dump 2021-03-07 17:35:55 he is small and cute
+the-dump 2021-03-07 17:35:58 :>
+the-dump 2021-03-07 17:36:15 eggplane
+the-dump 2021-03-07 17:38:07 yeah
+the-dump 2021-03-07 17:38:17 wings dont actually care what direction ur facing
+the-dump 2021-03-07 17:38:33 lift is lift
+the-dump 2021-03-07 17:39:13 plushie 737 is cute tho
+the-dump 2021-03-07 17:42:58 small planes > big planes
+the-dump 2021-03-07 17:43:22 e
+the-dump 2021-03-07 17:43:44 what small plane do i build
+bot-central 2021-03-07 22:29:30 !servers
+bot-central 2021-03-09 03:53:59 !servers
+bot-central 2021-03-09 03:54:06 s
+bot-central 2021-03-09 03:54:09 plural
+bot-central 2021-03-09 20:43:15 !servers
+creations-chat 2021-03-10 20:26:32 panzer of the lake
+creations-chat 2021-03-10 21:42:26 <@456226577798135808> stop hoping and asking for a major update its not happening
+creations-chat 2021-03-10 21:44:47 <:trollface:775024642104229898>
+creations-chat 2021-03-11 00:58:55 is my panzer of the lake funny https://discord.com/channels/384021699466756103/384025409945337856/819304217499140117
+the-dump 2021-03-11 17:05:07 !servers
+bot-central 2021-03-11 17:05:36 !servers
+events-chat 2021-03-11 21:31:45 tf2
+events-chat 2021-03-11 21:40:47 tf2 event when
+events-chat 2021-03-11 21:46:38 ???????????
+events-chat 2021-03-11 22:37:56 hmmst'd've
+events-chat 2021-03-11 23:41:18 aeiou
+help 2021-03-12 02:13:55 Is there any way I can make an autogyro
+bot-central 2021-03-12 17:27:36 !servers
+the-dump 2021-03-16 16:33:12 Test 914-0389
+Name: Dr. Hadian
+Date: 04/02/2019
+Total Items: One standard-issue military entrenching tool, one block of steel approximately one kilogram in weight.
+
+Input: The aforementioned items.
+Setting: 1:1
+Output: Two standard-issue military entrenching tools.
+
+…I suppose that's about what I expected. Since I've got the two of them here, though…
+
+Input: One standard-issue military entrenching tool, as produced by SCP-914.
+Setting: Fine
+Output: An anomalous military entrenching tool that, when held, prompts the subject to attempt to exchange it for cheap goods and services, regardless of whether the recipient is willing to accept it.
+
+Note: The remainder of the test postponed while I go see if anyone wants a duplicated shovel. - Dr. Hadian
+
+Note: Dr. Hadian has been sent to the antimemetics department for treatment by Dr. Veritas, or to use his words: ''No, I don't want a [REDACTED] spade.'' - Security Officer Schwartz
+the-dump 2021-03-16 16:33:20 *duped shovel*
+bot-central 2021-03-16 16:39:41 !help
+bot-central 2021-03-16 16:40:37 !expertservers
+bot-central 2021-03-16 16:40:57 !expertservers
+bot-central 2021-03-16 22:29:31 !servers
+the-dump 2021-03-17 15:41:57 ⛓️
+the-dump 2021-03-17 15:42:08 chain
+the-dump 2021-03-17 15:42:13 ⛓️
+the-dump 2021-03-17 15:42:51 obese
+the-dump 2021-03-17 15:43:14 we should make a literal chain
+the-dump 2021-03-17 15:43:21 ⛓️
+the-dump 2021-03-17 15:43:26 ⛓️
+the-dump 2021-03-17 15:43:33 ⛓️
+the-dump 2021-03-17 15:43:51 ⛓️
+the-dump 2021-03-17 15:44:14 sus
+the-dump 2021-03-17 15:44:18 sus
+help 2021-03-17 16:08:37 <:empty:794431705070174238>
+the-dump 2021-03-18 17:32:43 engineer gaming
+the-dump 2021-03-18 17:32:51 engineer gaming
+the-dump 2021-03-18 17:32:55 engineer gaming
+the-dump 2021-03-18 17:33:23 trolldier gaming
+the-dump 2021-03-18 17:34:11 15.ai
+the-dump 2021-03-18 17:34:17 also exists
+the-dump 2021-03-18 17:34:31 u know what it is
+the-dump 2021-03-18 17:35:20 æu gh
+the-dump 2021-03-18 17:37:00 scout gaming
+the-dump 2021-03-18 17:37:23 next time eat a salad
+the-dump 2021-03-18 17:38:22 you fat bald b
+the-dump 2021-03-18 17:39:25 okay it's been 8 months please stop milking his grave for free karma r/tf2 just let him rest in peace
+the-dump 2021-03-18 17:41:38 monke
+the-dump 2021-03-18 17:41:54 how fricken dare u
+the-dump 2021-03-18 17:42:38 overwatch and tf2 appeal to different audiences
+the-dump 2021-03-18 17:42:49 it's like more competitive
+the-dump 2021-03-18 17:43:13 tf2 comp is filled with bots
+the-dump 2021-03-18 17:43:48 use FACEIT.com
+the-dump 2021-03-18 17:44:20 No
+the-dump 2021-03-18 17:44:45 You gotta spend 5$ minimum on the Steam market to be able to play Comp or use chat
+the-dump 2021-03-18 17:45:35 yeh
+the-dump 2021-03-18 17:47:24 okay
+the-dump 2021-03-18 17:47:27 I'ma say it
+the-dump 2021-03-18 17:47:51 Tf2 perfected the cartoony video game art style and every game since has been trying to recreate it
+the-dump 2021-03-18 17:49:26 fortnite tried to recreate the same artstyle as tf2 and failed
+the-dump 2021-03-18 17:50:53 FACEIT
+the-dump 2021-03-18 17:51:14 csgo matchmaking company, sponsored by Valve at one point, great anticheat
+the-dump 2021-03-18 17:51:19 came to tf2
+the-dump 2021-03-18 18:45:06 cyberpunk 2077
+the-dump 2021-03-18 18:46:17 To do anything that isn't updating their most played games
+the-dump 2021-03-18 18:47:11 why update something when I can just make a new one
+the-dump 2021-03-18 18:47:23 major update to tf2
+the-dump 2021-03-18 18:47:31 no questions asked
+the-dump 2021-03-18 18:47:41 I would happily take an update
+the-dump 2021-03-18 18:49:04 also you remember how they tried to make neural implants to play music in our brain
+the-dump 2021-03-18 18:49:08 and that failed
+the-dump 2021-03-18 18:49:41 we get new stuff every single month
+the-dump 2021-03-18 18:49:52 please just update what you know we already like
+the-dump 2021-03-18 18:50:51 quality of life
+the-dump 2021-03-18 18:50:56 vac improvements
+the-dump 2021-03-18 18:51:14 Fix the damn bots
+the-dump 2021-03-18 18:54:55 tf2 makes money
+the-dump 2021-03-18 18:55:03 we used to get yearly updates
+the-dump 2021-03-18 19:48:48 engineer gmajkg
+the-dump 2021-03-18 19:48:53 engineer gameei f
+the-dump 2021-03-18 19:49:00 engksneenef gaming
+bot-central 2021-03-31 23:17:05 !servers
+the-dump 2021-03-31 23:38:45 
+the-dump 2021-03-31 23:38:48 nice thumbnail flamingo
+the-dump 2021-03-31 23:55:35 crunchy dog
+bot-central 2021-04-01 15:34:12 -pccmc
+bot-central 2021-04-01 15:40:14 .
+bot-central 2021-04-01 15:41:58 - .-. --- .-.. .-..
+bot-central 2021-04-01 15:44:34 -.-. .... . -.-. -.- / - .... . / -.. .- - .
+bot-central 2021-04-01 15:45:53 -.-. .... . -.-. -.- / - .... . / -.. .- - . / -... . ..-. --- .-. . / .-. ..- -. -. .. -. --. / - .... . / -- .. -. . -.-. .-. .- ..-. - / -.-. --- -- -- .- -. -.. / -.-- --- ..- / ..-. --- --- .-.. ...
+bot-central 2021-04-01 15:48:04 please check my previous message
+bot-central 2021-04-01 16:04:18 -.-. .... . -.-. -.- / - .... . / -.. .- - . / -... . ..-. --- .-. . / .-. ..- -. -. .. -. --. / - .... . / -- .. -. . -.-. .-. .- ..-. - / -.-. --- -- -- .- -. -.. / -.-- --- ..- / ..-. --- --- .-.. ... please
+bot-central 2021-04-01 16:18:45 is the command rng
+bot-central 2021-04-01 16:18:51 is it random
+bot-central 2021-04-01 22:29:22 -pccmc
+the-dump 2021-04-02 14:26:13 https://cdn.discordapp.com/attachments/763256768275939358/826247423315542067/image0.png
+bot-central 2021-04-03 02:26:11 https://youtu.be/_X2WpcNia2E
+the-dump 2021-04-03 02:26:34 https://youtu.be/_X2WpcNia2E
+the-dump 2021-04-03 02:29:48 you can no longer play as Mario.
+the-dump 2021-04-03 15:17:02 peepee poopoo
+the-dump 2021-04-03 15:18:31 hevy
+the-dump 2021-04-03 15:21:42 sussus amogus
+the-dump 2021-04-03 15:26:27 planes trains and automobiles
+the-dump 2021-04-05 16:17:10 
+bot-central 2021-04-08 17:50:24 !servers
+the-dump 2021-04-12 02:52:50 
+the-dump 2021-04-12 02:53:00 right?
+the-dump 2021-04-12 02:53:04 
+the-dump 2021-04-12 03:11:35 
+the-dump 2021-04-12 03:12:34 yeah
+the-dump 2021-04-12 03:12:53 well they looked like women so were fine
+creations-chat 2021-04-12 16:56:40 <@259727805640736779> the lighting in the image leads me to believe that the photo wasn't taken that recently, can you post another pic please?
+I might be wrong but it's worth a shot to confirm it's yours
+The lighting looks older
+creations-chat 2021-04-12 17:00:23 The engines could use some work, and the rest of the plane feels too blocky, like the pylons connecting the tail and the cockpit look off
+Honestly, try to find a better reference (3D model and vector drawings work best for me) and you gotta do some major reworks
+the-dump 2021-04-15 15:48:19 lgbtq? I asked for ur gender not the among us code
+the-dump 2021-04-15 21:45:05 
+the-dump 2021-04-15 21:45:46 bus spaghetti
+the-dump 2021-04-16 05:12:44 
+the-dump 2021-04-16 05:13:09 monkey
+the-dump 2021-04-16 14:38:16 
+the-dump 2021-04-16 14:38:54 it's beautiful
+the-dump 2021-04-16 14:39:04 I've looked at this for three hours now
+the-dump 2021-04-16 14:40:18 monke
+the-dump 2021-04-16 14:40:38 monkey
+the-dump 2021-04-16 14:40:53 monke
+the-dump 2021-04-16 14:41:12 monke rotate
+the-dump 2021-04-16 14:41:15 rotation
+the-dump 2021-04-16 14:41:18 spin
+the-dump 2021-04-16 14:41:50 
+the-dump 2021-04-16 14:42:48 
+the-dump 2021-04-16 14:44:01 
+the-dump 2021-04-16 14:44:33 
+the-dump 2021-04-16 14:47:09 
+the-dump 2021-04-16 14:47:41 yeah
+the-dump 2021-04-16 14:48:09 I removed my prostate from my body so that I could study it closer
+bot-central 2021-04-17 03:41:41 !servers
+the-dump 2021-04-18 03:57:54 
+the-dump 2021-04-21 15:50:57 
+the-dump 2021-04-21 16:07:52 https://tenor.com/view/shaolin-soccer-goal-futebol-footy-football-gif-11214400
+the-dump 2021-04-22 01:52:28 
+the-dump 2021-04-22 14:32:37 
+the-dump 2021-04-22 23:19:43 
+the-dump 2021-04-23 01:22:33 
+the-dump 2021-04-23 01:22:47 I'm done messing around
+the-dump 2021-04-23 01:22:59 These 9 year olds are gonna get fucking owned
+the-dump 2021-04-23 01:30:01 
+the-dump 2021-04-23 01:30:19 froot gushor
+the-dump 2021-04-23 01:30:52 
+the-dump 2021-04-23 01:31:15 oh hey babe
+the-dump 2021-04-23 01:31:25 *shits aggressively*
+help 2021-04-23 19:38:28 how does camera lock work
+help 2021-04-23 20:07:02 k
+the-dump 2021-04-24 18:34:31 https://cdn.discordapp.com/attachments/818678449275011072/835395305381691442/scout_tf2.mp4
+the-dump 2021-04-25 01:54:48 https://youtu.be/iSXtfhtaoVQ
+the-dump 2021-04-25 01:59:58 $20 for a MIDI of the BTD4 theme
+the-dump 2021-04-25 23:49:45 
+the-dump 2021-04-25 23:52:04 you do it
+the-dump 2021-04-26 00:48:12 
+the-dump 2021-04-26 14:07:51 
+the-dump 2021-04-26 21:49:53 
+the-dump 2021-04-26 21:51:52 **Rickje139** is typing...
+the-dump 2021-04-26 21:52:34 "wedges"
+the-dump 2021-04-26 21:52:43 pspspspsps
+the-dump 2021-04-26 21:52:57 "motor lock"
+the-dump 2021-04-26 21:54:07 *I think we scared him away*
+the-dump 2021-04-26 21:54:26 we must use bait next time
+the-dump 2021-04-26 21:54:46 <:IntendedFeature:706289545548660746>
+the-dump 2021-04-26 21:56:03 hmmmm
+the-dump 2021-04-26 21:56:55 <:duck1:652569234593021952><:duck2:652569235469369375> 
+<:duck3:652569235587072020><:duck4:652569237143158794>
+the-dump 2021-04-26 21:57:01 we must hunt him
+the-dump 2021-04-26 21:57:32 <:what:644996672048463942>
+the-dump 2021-04-26 22:13:27 yes
+the-dump 2021-04-26 22:21:16 
+the-dump 2021-04-26 22:21:28 Il
+the-dump 2021-04-26 22:29:00 Alright motherflippers so a couple weeks ago I shot the flipping dog that lives across the way, little barking ass motherflipper was on top of the god damn balcony, he wouldn't shut the frick up, you feel me, and I had to drop my nibble, I had to put him the frank down, you feel me? Ah little annoying ass frickin bitch, like you know what man? Like, dog owners, if you guys are watching this motherflippin video, control your motherflipping ugly ass barking piece of schnitzel frankincense dogs. You know what I mean? Like, motherfranklins are tryina sleep, nibbles got work in the morning, motherfrickers got plans later that day, or maybe you just tryina come home and freaking relax. Not listen, to a barking ass motherf'er, WOOF WOOF WOOF WOOF WOOF WOOF WOOF, and I mean all motherf'ing day, all motherf'ing night, you feel me, so what the F I did, I got dressed in all flippin black, made sure it was 9:30 - 10:00, made sure it was completely freaking dark, you know what I mean, and this is a god damn BB gun shotgun, you feel me, and I'm sitting back right, I crack the f'ing screen, I got this muthaf\*\*\*\*\* lined up in my sights right, I'm pleading with myself, I'm pleading with the freaking owner, please go outside, and get that muthaflippin dog, please, and I'm like, don't do it, don't you f'ing do it, my nibble you feel me, and A, I gave him and extra five flipping minutes. I gave him 20 minutes to shut the frankincense up, you know what I mean, I gave him an extra five my nibble, little f'ing grace period, he wouldn't shut the FRICK up, POW! POW! POW! Right there in the muthaFLIIPERS face. Maybe next time, you'll shut that m\*\*\*\*\*F\*\*\*\*\*\* dog up. Maybe next time, instead of leaving him outside, you'll bring that little barking ass piece of freakin shivers inside the god damn house, and maybe, just maybe, he wouldn't have gotten his punk furry ass f’d.
+the-dump 2021-04-26 22:29:46 Clean version
+the-dump 2021-04-26 22:29:57 yep
+the-dump 2021-04-26 22:30:19 the very bad slur is banned
+the-dump 2021-04-26 22:30:35 
+the-dump 2021-04-26 22:32:53 get noob
+the-dump 2021-04-26 22:33:05 
+the-dump 2021-04-26 22:34:37 
+the-dump 2021-04-26 22:34:51 it's okay the baby was black
+the-dump 2021-04-26 22:35:04 smh
+the-dump 2021-04-26 22:35:29 
+the-dump 2021-04-26 22:36:13 I,m a homoracist''',,,..,
+the-dump 2021-04-26 22:37:08 about to put the forgotten in forgotten weapons
+the-dump 2021-04-26 22:37:29 <:trollface:775024642104229898>
+the-dump 2021-04-26 22:37:59 paper
+the-dump 2021-04-28 21:58:38 https://cdn.discordapp.com/attachments/576837688431345707/836389504956629062/db7282722ca825b3038f4d5e24f2599e7787b5579a378cd0f0da0d50fc5aa46b_1.mp4
+the-dump 2021-04-28 21:59:30 shovl
+the-dump 2021-04-30 14:50:28 
+the-dump 2021-04-30 14:51:43 ez
+the-dump 2021-04-30 14:56:11 
+the-dump 2021-04-30 16:34:34 
+the-dump 2021-04-30 16:34:50 I hate it
+the-dump 2021-05-01 16:24:17 https://youtu.be/6UxzHlZdJhQ
+the-dump 2021-05-01 16:50:49 gangstas paradise but choir
+the-dump 2021-05-02 01:39:35 
+bot-central 2021-05-02 02:40:28 =p
+bot-central 2021-05-02 02:41:29 =p https://youtu.be/iSXtfhtaoVQ
+bot-central 2021-05-02 02:41:48 =p https://youtu.be/iSXtfhtaoVQ
+bot-central 2021-05-02 02:42:33 bloons tower defense theme is a banger
+bot-central 2021-05-02 02:42:50 rbk did you ever play bloons td
+bot-central 2021-05-02 02:42:56 =skip
+bot-central 2021-05-02 02:43:06 which ones
+bot-central 2021-05-02 02:43:19 5,4 maybe
+bot-central 2021-05-02 02:43:22 ?
+bot-central 2021-05-02 02:43:31 6
+bot-central 2021-05-02 02:43:39 6 was okay
+bot-central 2021-05-02 02:43:41 3
+bot-central 2021-05-02 02:43:46 3 is good
+bot-central 2021-05-02 02:44:18 rbk was it 3
+bot-central 2021-05-02 02:44:24 that you played
+bot-central 2021-05-02 02:44:35 =s
+bot-central 2021-05-02 02:44:55 rickje did you play bloons td
+bot-central 2021-05-02 02:45:33 monkey
+bot-central 2021-05-02 02:46:00 fellas
+bot-central 2021-05-02 02:46:04 best btd game
+bot-central 2021-05-02 02:46:47 =p https://youtu.be/PRVzHdgpLsA
+bot-central 2021-05-02 02:47:12 classical guitar>electric guitar
+bot-central 2021-05-02 02:48:06 best bloons td game
+bot-central 2021-05-02 02:48:19 3, 4, or 5
+bot-central 2021-05-02 02:48:36 rick can you get warned for pinging yourself
+bot-central 2021-05-02 02:49:03 =skip
+bot-central 2021-05-02 02:49:23 dammit
+bot-central 2021-05-02 02:49:43 aw
+bot-central 2021-05-02 02:49:50 no more monkey song
+bot-central 2021-05-02 02:50:21 =p https://youtu.be/6NTfCbfvwM8
+bot-central 2021-05-02 02:50:36 look buddy
+bot-central 2021-05-02 02:50:40 I'm an engineer
+bot-central 2021-05-02 02:50:47 and that means I solve problems
+bot-central 2021-05-02 02:50:56 =s
+bot-central 2021-05-02 02:51:57 what if I queued a song before I knew it had to be guitar
+bot-central 2021-05-02 02:52:53 I can't hear anything
+bot-central 2021-05-02 02:53:44 had to rejoin
+bot-central 2021-05-02 02:53:48 audio broke
+bot-central 2021-05-02 02:54:00 there is
+bot-central 2021-05-02 02:54:07 we just trolled too hard
+bot-central 2021-05-02 02:54:30 skip if u want
+bot-central 2021-05-02 02:54:38 didn't get the guitar memo
+bot-central 2021-05-02 02:55:20 didn't get the guitar memo
+bot-central 2021-05-02 02:55:54 acoustic > electric
+bot-central 2021-05-02 02:56:37 well now
+bot-central 2021-05-02 02:57:04 doom music is ok ig
+bot-central 2021-05-02 02:57:17 I mean when playing doom the music is excellent
+bot-central 2021-05-02 02:57:29 but on its own doom music really isn't that much
+bot-central 2021-05-02 02:57:35 it needs the game
+bot-central 2021-05-02 02:57:50 dont
+bot-central 2021-05-02 02:58:32 does "more gun" count as guitar
+bot-central 2021-05-02 02:58:43 the only instrument is a guitar
+bot-central 2021-05-02 02:59:32 rickje I wil donate 100 robux if you say "engineer gaming"
+bot-central 2021-05-02 02:59:50 =skip
+bot-central 2021-05-02 03:00:06 thanks
+bot-central 2021-05-02 03:00:17 alr tomorrow I'll donate it
+bot-central 2021-05-02 03:01:09 
+bot-central 2021-05-02 03:03:31 engineer gaming
+bot-central 2021-05-02 03:03:51 SKIP FOR ENGINEER GAMING
+bot-central 2021-05-02 03:07:17 engineer gaming
+bot-central 2021-05-02 13:32:18 !servers
+bot-central 2021-05-02 13:33:30 no, no I don't think I will
+the-dump 2021-05-03 15:48:49 
+the-dump 2021-05-03 17:35:09 
+the-dump 2021-05-03 17:41:06 it's not a bypass
+the-dump 2021-05-03 17:41:18 n-word
+the-dump 2021-05-03 17:41:23 asshole
+the-dump 2021-05-03 17:41:42 ok so the hyphen makes it acceptable
+the-dump 2021-05-03 17:42:09 why is the filter so dumb
+the-dump 2021-05-03 17:42:39 
+the-dump 2021-05-03 17:43:12 I'm glad Dwayne "The Rock" Johnson respects my opinion
+the-dump 2021-05-03 17:43:24 
+the-dump 2021-05-03 17:43:28 
+the-dump 2021-05-03 18:24:15 ok and?
+the-dump 2021-05-05 22:05:44 https://tenor.com/view/loop-cant-believe-what-he-found-looping-troll-gif-4762056
+the-dump 2021-05-05 22:07:10 i hate it
+the-dump 2021-05-05 22:08:21 im confused
+the-dump 2021-05-07 21:47:14 
+the-dump 2021-05-08 01:55:52 
+the-dump 2021-05-08 19:22:24 
+the-dump 2021-05-08 19:24:28 
+the-dump 2021-05-08 19:24:42 the blue is too blue, it needs some purple
+the-dump 2021-05-08 19:24:57 and a bit more dull
+the-dump 2021-05-08 19:38:05 
+the-dump 2021-05-08 23:47:52 cringe
+the-dump 2021-05-09 00:23:17 when the
+the-dump 2021-05-09 00:24:04 
+the-dump 2021-05-11 18:12:05 
+the-dump 2021-05-11 18:12:22 
+the-dump 2021-05-13 05:00:02 
+the-dump 2021-05-14 16:30:57 
+the-dump 2021-06-06 20:10:30 
+the-dump 2021-06-07 17:33:28 
+the-dump 2021-06-07 17:33:52 
+the-dump 2021-06-07 17:35:03 
+the-dump 2021-06-07 17:35:49 cry about it
+the-dump 2021-06-07 17:36:40 the j
+the-dump 2021-06-07 17:37:31 
+the-dump 2021-06-07 17:37:45 if you get it, you get it
+the-dump 2021-06-07 17:39:52 
+the-dump 2021-06-07 17:40:14 I love car races
+the-dump 2021-06-07 17:40:24 Upvote if you too are a racist
+the-dump 2021-06-07 17:41:01 
+the-dump 2021-06-07 17:41:27 This is the fucking most cursed thing ever
+the-dump 2021-06-07 17:44:06 The Nerf Recon CS-6 Dart Blaster
+the-dump 2021-06-07 17:44:38 stfu <@573197570566782977>
+the-dump 2021-06-07 17:44:54 the recon is the best nerf blaster ever stfu
+the-dump 2021-06-07 17:47:04 THE nerf recon cs-6 tactical dart blaster
+the-dump 2021-06-07 17:47:48 that makes it harder to prime
+the-dump 2021-06-07 17:47:56 it slides off on the return
+the-dump 2021-06-07 17:48:24 on the recon
+the-dump 2021-06-07 17:49:44 fine yea whatever
+the-dump 2021-06-07 17:50:36 the nerf stryfe
+the-dump 2021-06-07 17:50:51 orang
+the-dump 2021-06-07 17:52:58 kids gonna die tonight
+the-dump 2021-06-07 17:53:24 8 mag slots
+the-dump 2021-06-07 17:53:54 I'm sorry but is your dominator flywheel and has room for 8 magazines
+the-dump 2021-06-07 17:54:25 the titan sucks ass ngl
+the-dump 2021-06-07 17:54:41 4tnight
+the-dump 2021-06-07 17:58:02 foot
+the-dump 2021-06-07 17:58:39 <:Yikes:704804144657203220>
+the-dump 2021-06-07 18:01:23 Not to get political
+the-dump 2021-06-07 18:01:36 but ***what the fuck is oatmeal***
+the-dump 2021-06-07 18:02:02 
+the-dump 2021-06-07 18:02:39 wrong your
+the-dump 2021-06-07 18:02:50 
+the-dump 2021-06-07 18:03:37 
+the-dump 2021-06-07 18:03:54 engineer gaming
+the-dump 2021-06-07 18:04:05 
+the-dump 2021-06-07 18:04:59 
+the-dump 2021-06-07 19:12:02 
+the-dump 2021-06-07 21:11:31 https://youtu.be/U5zF_V5PVi4
+the-dump 2021-06-07 21:11:39 Why is this so unsettling
+the-dump 2021-06-07 23:54:46 
+the-dump 2021-06-08 00:11:52 please be funny
+the-dump 2021-06-08 01:46:58 
+the-dump 2021-06-08 03:45:52 HOW
+the-dump 2021-06-08 22:55:42 
+the-dump 2021-06-09 01:23:46 dammit
+the-dump 2021-06-09 06:05:34 F
+the-dump 2021-06-09 16:00:07 !
+the-dump 2021-06-09 16:00:27 
+the-dump 2021-06-09 16:01:38 
+the-dump 2021-06-09 16:03:04 is "bitch" filtered
+the-dump 2021-06-09 16:03:06 nope
+the-dump 2021-06-09 16:03:13 
+the-dump 2021-06-09 16:03:57 the only productive thing trump did in office
+the-dump 2021-06-09 16:05:38 
+the-dump 2021-06-09 16:06:05 you know what fuck politics
+the-dump 2021-06-09 16:06:09 just in general
+the-dump 2021-06-09 16:06:14 overthrow the government
+the-dump 2021-06-09 16:07:11 if we're overthrowing the government i say yes man shall take over
+the-dump 2021-06-09 16:09:07 overthrow the government
+the-dump 2021-06-09 16:09:18 countries are but a concept
+the-dump 2021-06-09 16:09:39 nuclear warfare
+the-dump 2021-06-09 16:09:41 when
+the-dump 2021-06-09 16:09:52 is absolutely correct
+the-dump 2021-06-09 16:10:20 There is a pipe bomb in you're mailbox
+the-dump 2021-06-09 16:10:58 overthrow the governemnt
+the-dump 2021-06-09 16:11:57 
+the-dump 2021-06-09 16:12:04 GUYS BEING GAY IS NOT A SIN
+the-dump 2021-06-09 16:12:07 PRIDE IS
+the-dump 2021-06-09 16:13:14 
+the-dump 2021-06-09 16:16:35 
+the-dump 2021-06-09 16:16:54 
+the-dump 2021-06-09 16:18:03 
+the-dump 2021-06-09 16:20:43 
+the-dump 2021-06-09 16:25:08 
+the-dump 2021-06-09 16:29:57 a-14 warcat
+the-dump 2021-06-09 16:35:42 
+the-dump 2021-06-13 06:37:30 <:trollface:775024642104229898>
+the-dump 2021-06-14 04:01:57 !servers
+bot-central 2021-06-14 04:02:06 !servers
+the-dump 2021-06-14 04:02:11 wrong channel
+bot-central 2021-06-14 17:14:25 !expertservers
+help 2021-06-14 19:02:42 what pvp weapons can target specific limbs
+help 2021-06-14 19:02:47 i know the lava spitter can
+bot-central 2021-06-14 20:58:14 !servers
+the-dump 2021-06-18 04:53:13 
+the-dump 2021-06-18 04:54:28 197,367 people: ***interesting***
+the-dump 2021-06-18 04:54:59 21 would be the ranger with a big iron on his hip
+the-dump 2021-06-18 04:55:12 
+the-dump 2021-06-18 04:58:06 75k more
+the-dump 2021-06-18 04:58:53 harvey
+the-dump 2021-06-18 05:00:35 rockje139
+the-dump 2021-06-18 05:00:57 
+the-dump 2021-06-18 05:03:52 his face
+the-dump 2021-06-18 21:44:45 
+the-dump 2021-06-18 21:45:41 
+the-dump 2021-06-18 21:45:49 91%
+the-dump 2021-06-18 21:46:15 https://www.roblox.com/games/4847416885/Obama-soccer-sword-fight-anime-parkour-plane
+the-dump 2021-06-18 21:46:18 come play
+the-dump 2021-06-19 16:13:14 funny 420 number
+the-dump 2021-06-20 01:02:29 wgeb
+the-dump 2021-06-21 16:14:57 the-dump
+bot-central 2021-06-22 14:14:02 906
+bot-central 2021-06-22 14:14:04 !rank
+bot-central 2021-06-22 14:14:21 !servers
+the-dump 2021-06-25 03:59:02 IM dEAefd uyfgeihak QE
+the-dump 2021-06-25 04:01:45 what
+the-dump 2021-06-25 04:01:49 i dont understand
+the-dump 2021-06-25 04:03:23 looks like a triangle but its not
+the-dump 2021-06-26 04:55:30 
+the-dump 2021-06-26 04:55:47 
+the-dump 2021-06-26 04:55:54 checkmate
+the-dump 2021-06-26 04:57:12 i won the video game
+the-dump 2021-06-26 04:57:31 poor
+the-dump 2021-06-26 15:59:56 radio new vegas
+the-dump 2021-06-26 16:00:19 fallout new vegas is a masterpiece
+the-dump 2021-06-26 16:00:26 the radio is no exception
+the-dump 2021-06-26 16:01:39 https://www.youtube.com/watch?v=DyY9Wpfajqo
+the-dump 2021-06-26 16:01:43 ^^^^^^
+the-dump 2021-06-26 16:01:46 battle music 100%
+the-dump 2021-06-26 16:03:48 a true war hero
+the-dump 2021-06-26 16:09:38 repost if you are an alpha tester
+the-dump 2021-06-26 16:19:00 https://cdn.discordapp.com/attachments/573199831393370152/858371982445903872/video0_74.mp4
+the-dump 2021-06-29 04:37:05 
+the-dump 2021-06-30 04:01:04 meh
+bug-reports 2021-06-30 17:42:56 motor 2 + anchored block
+creations-chat 2021-06-30 20:37:16 b-29
+https://discord.com/channels/384021699466756103/384025409945337856/859894725154832384
+thoughts
+creations-chat 2021-06-30 20:39:39 i dont usually use motor lock. is this how it's supposed to look
+creations-chat 2021-06-30 20:42:45 anything i could improve
+creations-chat 2021-06-30 20:53:19 can you give me some feedback for my b-29
+
+its my first actual big motorlocked build
+creations-chat 2021-07-01 17:28:51 <@!745689751805231160> if you didnt talk shit about the community maybe people wouldnt downvote
+
+i mean they would downvote anyways but you're not making it any better for yourself
+creations-chat 2021-07-01 17:32:01 one, but it's the little boy because the b-29 is the enola gay
+creations-chat 2021-07-01 17:34:47 holy shit how did i get 9 upvotes in 20 seconds
+creations-chat 2021-07-01 17:37:18 is my b-29 actually good
+did i build something good for once and people upvote because its a good build
+creations-chat 2021-07-01 17:40:53 
+creations-chat 2021-07-01 17:55:58 GRU PLANE
+creations-chat 2021-07-01 17:58:01 <@!345527706340818944> h
+creations-chat 2021-07-01 18:09:42 mobile user
+creations-chat 2021-07-01 18:15:21 please stop upvoting gru plane
+
+its a low quality shitpost
+creations-chat 2021-07-01 18:48:19 someone photoshop gru plane dropping bomb on dog water carrier
+creations-chat 2021-07-01 18:51:33 repost for gru plane, ignore for dog water carrier
+creations-chat 2021-07-01 18:53:50 there are 2 dumb people
+creations-chat 2021-07-01 18:56:05 wrong your
+creations-chat 2021-07-01 18:58:32 at least my post was funny and required effort
+heres the actual post
+creations-chat 2021-07-01 19:08:01 looks really good
+
+like hot damn that is really good
+
+are you sure that's yours
+creations-chat 2021-07-01 19:10:42 ah thanks
+
+does it fly yet
+creations-chat 2021-07-01 19:18:34 change creations feedback cooldown to 30s but more strictly enforce the channels purpose
+the-dump 2021-07-02 18:31:52 https://tenor.com/view/die-death-chase-gif-17108230
+the-dump 2021-07-02 20:04:55 
+the-dump 2021-07-02 20:15:36 
+the-dump 2021-07-02 20:15:41 https://tenor.com/view/die-death-chase-gif-17108230
+creations-chat 2021-07-02 23:08:01 I think it can store some pretty heavy nuts, including peanuts, walnuts, and other nuts
+the-dump 2021-07-06 13:32:17 
+the-dump 2021-07-06 13:36:00 ah yes. another man of refined, high class meme culture
+the-dump 2021-07-06 15:02:25 the dump
+help 2021-07-15 17:30:00 how does motor 2 suspension work
+help 2021-07-15 17:30:09 and what are the optimal settings for it
+the-dump 2021-07-17 03:42:48 
+the-dump 2021-07-17 03:48:21 
+the-dump 2021-07-17 03:50:35 <:trollface:775024642104229898>
+the-dump 2021-07-17 03:53:20 If you drink water when it is not on the cusp of turning into ice don't speak to me
+the-dump 2021-07-17 03:55:28 when the scout is sus
+the-dump 2021-07-17 03:57:35 demoknight team fortress 2
+the-dump 2021-07-17 03:58:28 nobody loves you <@159985870458322944> remember that
+the-dump 2021-07-17 03:59:44 stfu
+the-dump 2021-07-17 03:59:49 
+the-dump 2021-07-17 04:00:28 
+the-dump 2021-07-17 04:00:54 
+the-dump 2021-07-17 04:02:38 Look at how the geniuses at Little Caesars cut a pizza
+the-dump 2021-07-17 04:02:45 
+the-dump 2021-07-17 04:04:11 
+the-dump 2021-07-17 04:04:29 Four
+the-dump 2021-07-17 04:04:47 
+the-dump 2021-07-17 04:05:56 
+the-dump 2021-07-17 04:07:09 
+the-dump 2021-07-17 04:07:12 Him
+the-dump 2021-07-17 04:08:45 
+the-dump 2021-07-17 04:09:58 Elaborate
+the-dump 2021-07-17 04:10:01 I am intrigued
+the-dump 2021-07-17 04:10:32 The year before Super Mario Brothers released on the Nintendo Entertainment System
+the-dump 2021-07-17 04:11:34 
+the-dump 2021-07-17 04:12:51 
+the-dump 2021-07-17 04:12:58 This fucking image
+the-dump 2021-07-17 04:16:54 
+the-dump 2021-07-17 04:17:21 **b  o  t  e**
+the-dump 2021-07-17 04:17:59 what
+the-dump 2021-07-17 04:18:38 
+the-dump 2021-07-17 04:21:57 You're welcome
+the-dump 2021-07-17 04:23:14 if you are trying to tell me you are Ohio I am going to rip your kidneys out
+the-dump 2021-07-17 04:25:38 Can I get banned for posting
+the-dump 2021-07-17 04:25:58 denu
+the-dump 2021-07-17 04:26:59 someone else post ezts
+the-dump 2021-07-17 04:40:51 
+bot-central 2021-07-19 19:55:24 !servers
+the-dump 2021-07-21 13:55:48 
+the-dump 2021-07-21 13:56:50 
+the-dump 2021-07-21 13:59:04 
+the-dump 2021-07-21 14:01:16 
+the-dump 2021-07-21 14:02:07 get on the cap dumbass
+the-dump 2021-07-21 14:02:16 help defend the freaking point
+the-dump 2021-07-21 15:17:34 beretta 92 mag
+the-dump 2021-07-21 15:17:43 glock
+the-dump 2021-07-21 15:17:53 confirmed there are 2 guns
+the-dump 2021-07-23 03:58:53 https://tenor.com/view/super-mario-win-mario-nintendo-gif-5470696
+the-dump 2021-07-23 03:59:48 https://tenor.com/view/stfu-eat-hand-shut-the-gif-19737482
+the-dump 2021-07-23 04:04:47 what the fuck does that even say
+the-dump 2021-07-23 04:14:31 https://tenor.com/view/raid-shadow-legends-raid-gif-20940490
+the-dump 2021-07-23 04:21:43 https://tenor.com/view/smg4-mario-calculating-thinking-think-gif-22267652
+the-dump 2021-07-23 12:52:04 https://tenor.com/view/grinds-my-gears-peter-griffin-seth-mc-farlane-family-guy-gif-5207367
+bot-central 2021-07-23 14:33:34 wait wut
+bot-central 2021-07-23 14:33:54 !help
+bot-central 2021-07-23 14:34:11 ?shelp
+bot-central 2021-07-23 14:34:38 &suggest VIP server ping
+[Server]
+Reaction role for a ping when the current VIP server expires
+bot-central 2021-07-23 14:34:45 is the bot broken?
+the-dump 2021-07-24 02:54:17 https://giant.gfycat.com/IndolentUnfitAmazondolphin.mp4
+the-dump 2021-07-24 17:33:02 !servers
+bot-central 2021-07-24 17:33:09 !servers
+the-dump 2021-07-24 17:33:29 yo mee6 nobody loves you
+the-dump 2021-07-24 17:33:57 https://giant.gfycat.com/IndolentUnfitAmazondolphin.mp4
+the-dump 2021-07-24 17:34:29 i made one (1) shitpost in <#507673335816126509>
+the-dump 2021-07-24 17:34:31 B)
+the-dump 2021-07-24 17:36:06 https://tenor.com/view/bread-ugh-ohmygod-fall-gif-12565963
+bug-reports 2021-07-24 21:13:08 i nonchallantly got below the death floor
+bug-reports 2021-07-24 21:39:42 
+bug-reports 2021-07-24 23:14:33 <@456226577798135808> i still was the first down there
+the-dump 2021-07-25 00:23:18 I am troll
+bug-reports 2021-07-27 17:35:11 i found a way to survive the void
+bot-central 2021-08-03 16:24:25 !servers
+bot-central 2021-08-05 02:44:20 !servers
+the-dump 2021-08-05 03:42:39 
+the-dump 2021-08-05 03:43:16 thats right we're gonna cheat
+bot-central 2021-08-05 17:20:47 !expertservers
+bot-central 2021-08-13 00:41:16 !servers
+bot-central 2021-08-13 01:22:01 !rank
+the-dump 2021-08-18 18:14:47 down vote because self promotion and for self upvote
+the-dump 2021-08-18 18:15:01 you posted it
+the-dump 2021-08-18 18:15:23 self upvote
+bot-central 2021-08-18 22:25:30 !servers
+the-dump 2021-08-19 23:23:29 https://tenor.com/view/your-mom-spy-tf2-team-fortress2-sheesh-gif-21838783
+bot-central 2021-08-20 01:40:02 whos the music bot
+bot-central 2021-08-20 01:40:49 =p
+bot-central 2021-08-20 01:40:55 =p BTD4 theme
+bot-central 2021-08-20 01:42:41 =p BTD5 main theme
+bot-central 2021-08-20 01:42:52 nostalgia
+bot-central 2021-08-20 01:44:43 =p btd4 theme
+the-dump 2021-08-20 01:47:45 !servers
+the-dump 2021-08-20 01:47:54 misclick
+bot-central 2021-08-20 01:47:58 !servers
+bot-central 2021-08-20 01:52:36 =p btd4 theme
+the-dump 2021-08-20 02:04:51 
+the-dump 2021-08-20 02:07:55 
+the-dump 2021-08-20 02:09:37 
+the-dump 2021-08-20 02:11:08 
+the-dump 2021-08-20 02:11:44 
+the-dump 2021-08-20 02:12:13 
+the-dump 2021-08-21 20:56:40 
+the-dump 2021-08-21 20:58:37 https://tenor.com/view/your-mom-spy-tf2-team-fortress2-sheesh-gif-21838783
+the-dump 2021-08-21 20:59:43 https://cdn.discordapp.com/attachments/589292970541318185/870409115560722522/image0-1-1.gif
+the-dump 2021-08-21 20:59:55 fuck you buddy
+the-dump 2021-08-21 21:09:29 https://media.discordapp.net/attachments/859059610349600820/873318850974871623/image0-12.gif
+the-dump 2021-08-22 20:54:57 
+the-dump 2021-08-22 20:56:03 https://tenor.com/view/put-it-on-discord-gif-20506007
+the-dump 2021-08-22 20:56:57 not even correct capitalization
+the-dump 2021-08-22 20:57:08 if you're gonna fake a news headline at least make it believeable
+the-dump 2021-08-22 20:57:21 embed success! https://cdn.discordapp.com/attachments/877491913387835442/879106290117394483/81d3ecf256e2ca2eff695b2652fa5149.mp4
+the-dump 2021-08-22 20:57:51 https://tenor.com/view/jarvis-gif-18966381
+the-dump 2021-08-22 20:58:02 https://media.discordapp.net/attachments/123936675209412608/874461236090257519/image0.gif
+the-dump 2021-08-22 21:01:22 https://media.discordapp.net/attachments/680928395399266314/848029016975474718/image0.gif
+the-dump 2021-08-22 21:03:14 CBGEES
+the-dump 2021-08-22 21:03:20 CHEZETR
+the-dump 2021-08-22 21:03:25 CHEERAXZE
+the-dump 2021-08-22 21:03:29 CHEEZRE
+the-dump 2021-08-22 21:03:47 https://media.discordapp.net/attachments/772981758609588225/861994581414510632/image0.gif
+bot-central 2021-08-25 00:57:02 =p BTD4 theme
+bot-central 2021-08-25 00:57:07 =p BTD5 main theme
+bot-central 2021-08-25 00:57:33 =p BTD6 party time
+bot-central 2021-08-25 01:00:55 !play BMC Street Party
+bot-central 2021-08-25 01:01:02 =p BMC street party
+bot-central 2021-08-25 01:01:09 =p BTD4 theme
+bot-central 2021-08-25 01:09:24 =p country roads fallout 76
+bot-central 2021-08-25 01:09:45 =p https://www.youtube.com/watch?v=N77O8zSJf94
+the-dump 2021-08-25 01:11:44 https://tenor.com/view/put-it-on-discord-gif-20506007
+bot-central 2021-08-25 01:12:11 =p rocket jump waltz
+the-dump 2021-08-25 01:12:25 https://tenor.com/view/chain-break-gif-14027437
+the-dump 2021-08-25 01:13:26 https://media.discordapp.net/attachments/495286269459300364/874496827850899487/image0-11.gif
+the-dump 2021-08-25 01:14:41 send originial gif
+the-dump 2021-08-25 01:15:24 luck 10
+the-dump 2021-08-25 01:15:37 i fucking hate furries
+the-dump 2021-08-25 01:15:57 W
+the-dump 2021-08-25 01:16:05 iphone furry
+the-dump 2021-08-25 01:16:16 what the fuck is a
+the-dump 2021-08-25 01:16:19 Protégées
+the-dump 2021-08-25 01:16:29 ?????
+bot-central 2021-08-25 01:19:48 =p https://www.youtube.com/watch?v=5IU32ZguQXw
+bot-central 2021-08-25 01:21:43 toodi do you like the song
+bot-central 2021-08-25 01:22:15 ok skip this one den
+bot-central 2021-08-25 01:22:16 =s
+bot-central 2021-08-25 01:22:54 hell naw
+bot-central 2021-08-25 01:23:31 i dunno
+bot-central 2021-08-25 01:23:37 but lets skip it when it comes round
+bot-central 2021-08-25 01:23:51 =p btd4 theme
+bot-central 2021-08-25 01:23:56 =p btd5 main theme
+bot-central 2021-08-25 01:24:02 =p btd6 party time
+bot-central 2021-08-25 01:24:16 skip the album when it comes up
+bot-central 2021-08-25 01:24:20 =s
+bot-central 2021-08-25 01:26:49 hour long
+bot-central 2021-08-25 01:27:09 im not listening to an hour of your favorite band
+bot-central 2021-08-25 01:27:24 pick like 2-3 songs at max then let other people queue theirs
+bot-central 2021-08-25 01:27:38 if you skip the full album
+bot-central 2021-08-25 01:27:51 cool thamnk
+bot-central 2021-08-25 01:44:52 =s
+the-dump 2021-08-28 05:10:20 
+the-dump 2021-08-28 05:11:07 
+the-dump 2021-08-28 05:12:51 
+bot-central 2021-08-28 15:49:27 -servers
+bot-central 2021-08-30 01:59:49 =p BTD4 theme
+bot-central 2021-08-30 01:59:53 =p BTD5 main theme
+bot-central 2021-08-30 01:59:58 =p BTD6 party time
+the-dump 2021-08-31 01:01:05 
+bot-central 2021-09-02 01:11:37 =p BTD4 theme
+bot-central 2021-09-02 01:11:42 =p BTD5 main theme
+bot-central 2021-09-02 01:11:53 =p BTD6 party time
+the-dump 2021-09-02 01:33:17 =p btd4 theme
+the-dump 2021-09-02 01:33:22 shit
+bot-central 2021-09-02 01:33:30 =p btd4 theme
+bot-central 2021-09-03 00:27:44 !servers
+bot-central 2021-09-03 00:27:48 ?servers
+bot-central 2021-09-03 00:27:52 !servers
+bot-central 2021-09-03 00:27:55 -servers
+the-dump 2021-09-07 03:14:41 https://youtu.be/pyq8EZ79ORY
+the-dump 2021-09-07 03:14:45 You're welcome
+bot-central 2021-09-09 18:29:41 -servers
+bot-central 2021-09-12 19:16:49 -servers
+the-dump 2021-09-13 22:03:43 
+the-dump 2021-09-13 22:18:27 hey can i test something about roblox moderation
+the-dump 2021-09-13 22:18:49 im gonna say "free ruben sim" in roblox chat and i want someone to report it and see if i get banned
+bot-central 2021-09-13 22:19:49 -servers
+bot-central 2021-09-14 18:28:48 ?whoos
+bot-central 2021-09-14 18:28:51 ?whois
+bot-central 2021-09-14 23:58:42 -server
+bot-central 2021-09-14 23:58:46 -servers
+bot-central 2021-09-19 15:27:46 !servers
+bot-central 2021-09-19 15:27:51 -servers
+the-dump 2021-09-20 23:03:48 
+bot-central 2021-09-22 19:27:31 we can only use bot commands here
+bot-central 2021-09-22 19:27:38 not in <#497142796961054721>
+the-dump 2021-09-22 19:28:59 
+the-dump 2021-09-22 19:31:38 
+help 2021-09-23 15:23:15 Hey how does MacPherson suspension steer correctly, and would that system translate over to plane crazy?
+help 2021-09-23 15:25:28 would it require control rods or just a motor 2
+help 2021-09-23 15:26:36 Because the wheel tilts to the side as it moves up does the steering just not compensate for that
+help 2021-09-23 15:29:16 So for instance if I built the suspension and then just added a stock wheel would that work
+help 2021-09-23 15:29:32 ah that was my concern
+help 2021-09-23 15:29:50 thanks
+the-dump 2021-09-23 15:31:16 <@546223347025969164> <@294980570885390346>
+the-dump 2021-09-23 15:31:22 here
+the-dump 2021-09-24 22:59:03 
+the-dump 2021-09-25 21:57:21 
+creations-chat 2021-09-27 14:24:54 I would use motor lock to put the delta wings in the right spot so the end is also angled
+bot-central 2021-10-02 15:36:20 -servers
+the-dump 2021-10-02 23:29:43 
+bot-central 2021-11-12 01:20:47 -servers
+bot-central 2021-11-28 15:50:56 -servers
+the-dump 2021-12-17 14:16:29 
+the-dump 2021-12-22 04:24:32 https://media.discordapp.net/attachments/805284321191395368/885576649326858270/Tumblr_l_893887823744475.gif
+the-dump 2021-12-22 04:24:44 https://media.discordapp.net/attachments/805284321191395368/885576704985268335/Tumblr_l_893896478582858.gif
+the-dump 2021-12-22 04:25:05 https://tenor.com/view/gun-db-shotgun-gif-21597283
+the-dump 2021-12-22 04:26:05 you
+the-dump 2021-12-22 04:26:25 NO
+the-dump 2021-12-22 04:26:27 NO NO NO
+the-dump 2021-12-22 04:26:29 NONONONONONYON
+the-dump 2021-12-22 04:26:30 NOO
+the-dump 2021-12-22 04:27:24 https://tenor.com/view/epico-cat-epico-cat-epic-cat-meme-epic-cat-epico-meme-gif-20299736
+the-dump 2021-12-22 04:28:59 how do you know its related to nsfw content
+the-dump 2021-12-22 04:29:00 huh
+the-dump 2021-12-22 04:29:19 wanna tell us what you've been doing on incognito bud
+the-dump 2021-12-22 04:32:29 he's "heard from people"
+the-dump 2021-12-22 04:32:32 "about it"
+the-dump 2021-12-22 04:32:35 yeah ok
+the-dump 2021-12-22 04:32:41 real believable
+the-dump 2021-12-22 04:33:17 
+the-dump 2021-12-22 04:33:42 mald
+the-dump 2021-12-22 04:34:11 ok i have a serious question though
+the-dump 2021-12-22 04:34:19 fr where did "yousuf" come from
+the-dump 2021-12-22 04:34:39 great! mine is a keyboard smash
+the-dump 2021-12-22 04:35:33 
+the-dump 2021-12-22 04:36:39 anyways i ran over 15 kids with my four wheeler today
+the-dump 2021-12-22 04:36:48 they were doing fortnite dance(s)
+the-dump 2021-12-22 04:37:05 
+the-dump 2021-12-22 04:37:05 WRONG YOUR
+the-dump 2021-12-22 04:37:10 WRONG YOUR
+the-dump 2021-12-22 04:37:26 bl*ck "people"
+the-dump 2021-12-22 04:38:05 https://media.discordapp.net/attachments/741197579336941599/878162652671639632/caption.gif
+the-dump 2021-12-22 04:38:22 
+the-dump 2021-12-22 04:38:36 is this true
+the-dump 2021-12-22 04:39:28 excuse me!
+the-dump 2021-12-22 04:39:38 i'll have you know I'm actually 15.
+the-dump 2021-12-22 04:39:44 do better next time
+the-dump 2021-12-22 04:40:07 
+the-dump 2021-12-22 04:40:10 i am at least 13
+the-dump 2021-12-22 04:40:29 
+the-dump 2021-12-22 04:41:13 baseless accusations from a broken man
+the-dump 2021-12-22 04:41:58 ok boomer
+the-dump 2021-12-22 04:42:04 get real
+the-dump 2021-12-22 04:42:31 i will join a roblox game with you right now and vc
+the-dump 2021-12-22 04:42:38 give me a private server right now
+the-dump 2021-12-22 04:42:40 you wont
+the-dump 2021-12-22 04:42:53 no
+the-dump 2021-12-22 04:42:58 cring
+the-dump 2021-12-22 04:43:20 
+the-dump 2021-12-22 04:43:39 https://tenor.com/view/british-hell-british-people-meme-british-people-going-to-hell-for-being-british-gif-17344529
+the-dump 2021-12-22 04:48:46 god i fucking hate women
+bot-central 2022-01-08 00:05:17 -servers
+bot-central 2022-01-09 23:14:00 -servers
+the-dump 2022-01-10 01:33:26 
+the-dump 2022-01-10 14:43:22 discord
+creations-chat 2022-01-11 00:00:27 suggestive
+creations-chat 2022-01-11 00:08:17 boxne furry
+creations-chat 2022-01-11 03:01:56 exposed motorlock
+creations-chat 2022-01-11 18:13:43 can we please actually use this for creation feedback. not the be that guy but people need serious feedback
+the-dump 2022-01-12 18:41:16 
+the-dump 2022-01-12 18:44:20 
+the-dump 2022-01-13 17:58:29 
+bot-central 2022-01-14 05:10:27 -rickjefacereveal
+bot-central 2022-01-14 05:11:02 -ms
+bot-central 2022-01-14 05:11:13 -ms 1 1
+bot-central 2022-01-15 02:34:01 -commands
+bot-central 2022-01-15 02:36:46 -beep
+bot-central 2022-01-15 02:36:50 -ping
+bot-central 2022-01-15 02:36:55 -minecraft
+the-dump 2022-01-20 16:29:38 
+the-dump 2022-01-20 17:18:46 I have your ip address
+the-dump 2022-01-20 17:20:08 
+the-dump 2022-01-20 17:20:11 best mech
+the-dump 2022-01-21 15:37:47 
+the-dump 2022-01-21 15:38:31 piss
+the-dump 2022-01-21 18:53:37 we do a lotta trolling
+the-dump 2022-01-21 18:53:43 roblox is down????
+the-dump 2022-01-24 01:38:59 what song is this
+the-dump 2022-01-24 01:39:11 it activated a part of my brain thats been dormant for years
+the-dump 2022-01-24 01:42:09 this goes hard
+bot-central 2022-01-30 21:57:23 !help
+bot-central 2022-01-30 21:57:46 ;;help
+bot-central 2022-01-30 21:58:04 ;;commands
+bot-central 2022-01-30 21:58:10 ;;music
+bot-central 2022-01-30 21:58:41 -servers
+bot-central 2022-01-30 21:58:46 <:trollface:775024642104229898>
+bot-central 2022-01-30 21:59:51 this song is a bop
+bot-central 2022-01-30 22:01:18 ;;skip
+bot-central 2022-01-30 22:03:52 ;;play BTD4 theme good quality
+bot-central 2022-01-30 22:12:18 ;;play radio new vegas with mr. new vegas
+bot-central 2022-01-30 22:27:19 ;;skip
+bot-central 2022-01-30 22:27:32 ;;play btd4 theme good quality
+bot-central 2022-01-30 22:30:13 ;;play btd5 theme
+bot-central 2022-01-30 22:32:31 ;;play btd6 party time
+bot-central 2022-01-30 22:32:39 ;;play bmc party time
+bot-central 2022-01-30 22:33:45 ;;skip
+bot-central 2022-01-30 22:43:03 ;;play btd4 theme
+the-dump 2022-01-30 22:48:04 
+the-dump 2022-01-30 22:49:01 im laughing so hard
+bot-central 2022-01-31 00:57:51 ;;play bloons td 5 theme
+bot-central 2022-01-31 00:57:59 ;;play bloons td 4 theme
+bot-central 2022-01-31 00:58:09 ;;play bloons td 6 party time
+bot-central 2022-01-31 01:05:30 ;;loop
+bot-central 2022-01-31 01:05:37 ;;loop single
+bot-central 2022-01-31 01:06:57 ;;play btd4 theme
+bot-central 2022-01-31 01:07:06 ;;play btd5 main the,me
+bot-central 2022-01-31 01:07:14 ;;loop all
+bot-central 2022-01-31 01:11:02 ;;play btd6 party time
+bot-central 2022-01-31 01:11:12 ;;play bmc street party
+bot-central 2022-01-31 01:16:01 why
+bot-central 2022-01-31 01:16:05 i was vibing
+bot-central 2022-01-31 01:16:12 ;;play btd4 theme
+bot-central 2022-01-31 01:18:18 ;;queue
+bot-central 2022-01-31 01:18:43 ;;skip 6
+bot-central 2022-01-31 01:18:46 ;;queue
+bot-central 2022-01-31 01:18:51 ;;skip 6
+bot-central 2022-01-31 01:22:50 ;;skip
+bot-central 2022-02-06 03:12:21 ;;play bloons td 4 theme
+bot-central 2022-02-06 03:12:52 no
+bot-central 2022-02-06 03:12:57 ;;play bloons td 5 theme
+bot-central 2022-02-06 03:13:09 bop
+bot-central 2022-02-06 03:13:26 ???
+bot-central 2022-02-06 03:13:32 how dare you
+bot-central 2022-02-06 03:13:35 this is monke music
+bot-central 2022-02-06 03:13:42 ;;skip
+bot-central 2022-02-06 03:13:46 you skipped me 5 times
+bot-central 2022-02-06 03:13:49 shame on you
+bot-central 2022-02-06 03:13:53 ;;play bloons td 5 theme
+bot-central 2022-02-06 03:14:01 no skip and i wont skip you
+bot-central 2022-02-06 03:14:32 ;;play bloons td 6 theme
+bot-central 2022-02-06 03:14:45 ;;play bloons td 4 theme good quality
+bot-central 2022-02-06 03:14:56 monke music momen
+bot-central 2022-02-06 03:15:03 YOU
+bot-central 2022-02-06 03:15:14 ;;skip whokilledxix
+bot-central 2022-02-06 03:15:20 ;;queue
+bot-central 2022-02-06 03:15:23 ;;skip 4
+bot-central 2022-02-06 03:15:28 ok cool
+bot-central 2022-02-06 03:15:38 you
+bot-central 2022-02-06 03:16:17 ;;play bloons td 4 theme good quality
+bot-central 2022-02-06 03:16:24 bop,
+bot-central 2022-02-06 03:16:58 https://media.discordapp.net/attachments/495286269459300364/874492659635458098/image0-2.gif
+bot-central 2022-02-06 03:17:07 why 2 times
+bot-central 2022-02-06 03:17:09 ;;queue
+bot-central 2022-02-06 03:17:14 ;;skip 4
+bot-central 2022-02-06 03:17:17 ;;skip 4
+bot-central 2022-02-06 03:17:19 ;;skip 4
+bot-central 2022-02-06 03:17:22 only once
+bot-central 2022-02-06 03:17:52 this was my childhood
+bot-central 2022-02-06 03:17:57 ;;queue
+bot-central 2022-02-06 03:18:35 <@!399470016807960586> is this cringe
+bot-central 2022-02-06 03:18:43 should we listen to monke music instead
+bot-central 2022-02-06 03:19:00 this song
+bot-central 2022-02-06 03:19:17 is monke music better
+bot-central 2022-02-06 03:19:57 bloons tower defense
+bot-central 2022-02-06 03:20:23 have you ever play bloons tower defence
+bot-central 2022-02-06 03:20:40 wowowo
+bot-central 2022-02-06 20:08:06 -servers
+creations-chat 2022-02-07 15:01:08 based
+the-dump 2022-02-07 16:02:59 I'm in <#495286269459300364> where's the shit posting
+the-dump 2022-02-07 16:04:37 one of my brothers friends made enough money to pay for college off of nfts
+the-dump 2022-02-07 16:05:49 yall remember shellshock
+the-dump 2022-02-07 16:06:02 the fps game on roblox
+the-dump 2022-02-07 16:06:04 it's dead
+the-dump 2022-02-07 16:06:09 nobody plays it anymore
+the-dump 2022-02-07 16:06:17 which is a shame I loved that game
+bot-central 2022-02-14 18:51:47 poop
+bot-central 2022-02-14 18:51:54 !rank
+bot-central 2022-02-14 18:52:03 <:trollface:775024642104229898>
+bot-central 2022-02-14 18:52:07 242
+bot-central 2022-02-14 19:56:04 -rank
+bot-central 2022-02-14 19:56:11 !rank
+bot-central 2022-02-14 19:56:16 pooba
+the-dump 2022-02-17 15:02:05 nooo
+the-dump 2022-02-17 15:02:10 noo
+the-dump 2022-02-17 15:02:13 stop
+the-dump 2022-02-17 15:02:18 stop
+the-dump 2022-02-17 15:02:27 stop
+the-dump 2022-02-17 15:02:37 stop
+the-dump 2022-02-17 15:02:58 nooo
+the-dump 2022-02-17 15:03:14 nooo
+the-dump 2022-02-17 15:07:32 stoop
+the-dump 2022-02-17 15:07:33 please
+the-dump 2022-02-17 15:11:10 yeah, I do
+the-dump 2022-02-17 15:11:13 cope
+the-dump 2022-02-17 15:14:07 <@565999170033287320> No spamming.
+the-dump 2022-02-17 15:14:14 no u!,
+the-dump 2022-02-17 15:15:17 stop
+the-dump 2022-02-17 15:15:19 please
+the-dump 2022-02-17 15:15:26 they did nothing wrong
+the-dump 2022-02-17 17:40:14 noo
+the-dump 2022-02-17 17:42:50 STOP PLEASE
+bot-central 2022-02-17 18:41:12 -unde rbk321
+bot-central 2022-02-17 18:42:35 -ping
+bot-central 2022-02-17 18:42:43 -help
+bot-central 2022-02-17 18:42:56 -beep
+bot-central 2022-02-17 18:43:50 -ping
+the-dump 2022-02-17 18:48:23 you can't post that
+the-dump 2022-02-17 18:48:40 "anything can be posted here as long as it contains comedy"
+bot-central 2022-02-21 18:26:28 -servers
+bot-central 2022-02-22 14:49:09 -servers
+the-dump 2022-02-22 19:00:59 uh
+the-dump 2022-02-22 19:02:01 disregard that
+the-dump 2022-02-22 19:02:26 is this C
+the-dump 2022-02-22 19:02:45 <@645396100265541664> is this C
+the-dump 2022-02-22 19:02:51 what language
+the-dump 2022-02-22 19:03:18 uh
+the-dump 2022-02-22 19:03:30 no semicolon after the if statement params
+the-dump 2022-02-22 19:05:29 if (condition) {
+code goes here; 
+}
+else {
+code;
+}
+the-dump 2022-02-22 19:05:59 yes
+the-dump 2022-02-22 19:06:41 or
+the-dump 2022-02-22 19:06:45 if (condition) {
+code goes here; 
+} else {
+code;
+}
+bot-central 2022-02-28 15:05:10 -ms
+bot-central 2022-02-28 15:05:52 -rank
+bot-central 2022-02-28 15:05:57 wh
+bot-central 2022-02-28 15:06:04 !rank
+bot-central 2022-02-28 15:08:54 !rank sorry
+bot-central 2022-02-28 15:09:02 !rank
+bot-central 2022-02-28 15:09:03 what
+the-dump 2022-02-28 15:38:55 <:suburban:947879069364662362>
+the-dump 2022-02-28 18:43:21 delete this
+the-dump 2022-03-01 17:38:14 ok I can't post 80% of the shit I want to
+the-dump 2022-03-01 17:38:18 because it's nsfw
+the-dump 2022-03-01 17:38:40 
+the-dump 2022-03-01 17:38:45 
+the-dump 2022-03-01 17:38:47 
+the-dump 2022-03-01 17:38:49 
+the-dump 2022-03-01 17:38:51 
+the-dump 2022-03-01 17:40:13 
+the-dump 2022-03-01 17:44:46 
+the-dump 2022-03-01 17:45:04 
+the-dump 2022-03-02 03:25:03 rip bozo
+the-dump 2022-03-02 03:28:52 
+the-dump 2022-03-02 03:37:01 <@!399470016807960586> wanna play russian roulette
+bot-central 2022-03-06 23:28:57 -servers
+bot-central 2022-03-06 23:34:18 ;;play Big Iron
+bot-central 2022-03-06 23:34:34 ;;play In The Shadow of the Valley
+bot-central 2022-03-06 23:34:46 ;;play Roundhouse rock
+bot-central 2022-03-08 03:36:53 ;;loop
+bot-central 2022-03-08 03:36:57 ;;loop all
+bot-central 2022-03-08 03:40:08 ;;skip
+bot-central 2022-03-08 03:40:15 fuck yoyu
+bot-central 2022-03-08 03:40:39 ;;play bloons td 6 part time
+bot-central 2022-03-08 03:41:01 ;;p
+bot-central 2022-03-08 03:41:10 ;;play bloons td 6 party time
+bot-central 2022-03-08 03:41:16 ;;skip
+bot-central 2022-03-08 03:41:31 ;;play bloons td 6 party time
+bot-central 2022-03-08 03:43:13 ;;loop single
+bot-central 2022-03-08 03:52:42 ;;skip all
+bot-central 2022-03-08 03:52:47 ;;skip 12
+bot-central 2022-03-08 03:52:52 ;;skip 1-12
+bot-central 2022-03-08 03:52:59 ;;skip 1-11
+bot-central 2022-03-08 03:53:05 ;;play bloons td 4 theme
+bot-central 2022-03-08 03:53:15 ;;play bloons td 5 main theme
+bot-central 2022-03-08 03:53:30 ;;play btd6 title music
+bot-central 2022-03-08 03:53:38 ;;p
+bot-central 2022-03-08 03:55:30 ;;loop off
+bot-central 2022-03-08 03:55:34 ;;next
+bot-central 2022-03-08 03:55:37 ;;skip
+bot-central 2022-03-08 03:55:40 ;;queue
+bot-central 2022-03-08 04:19:56 ;;play trololo original upload
+bot-central 2022-03-08 04:22:21 ;;loop single
+bot-central 2022-04-03 22:12:55 ?av <@565999170033287320>
+bot-central 2022-04-03 22:13:00 there
+the-dump 2022-04-03 22:20:39 I do believe standing on top of an office chair would be quite dangerous in a professional environment 
+
+in other words, not safe for work
+bot-central 2022-04-08 05:46:00 -av 565999170033287320
+bot-central 2022-04-08 05:46:38 -av
+bot-central 2022-04-08 05:46:42 !av
+bot-central 2022-04-08 05:47:01 -av <@565999170033287320>
+bot-central 2022-04-08 05:49:00 ?av
+bot-central 2022-04-10 19:05:26 !rank
+bot-central 2022-04-10 19:06:16 noob
+bot-central 2022-04-10 19:06:41 ok but I'm also anorexic
+bot-central 2022-04-10 19:06:45 -underandom
+bot-central 2022-04-10 19:07:30 NOOB
+bot-central 2022-04-10 19:07:41 yousuf
+the-dump 2022-04-10 19:09:47 HELL YEAHHHH
+the-dump 2022-04-10 19:09:49 WOOOOOO
+bot-central 2022-05-22 23:22:49 -servers
+bot-central 2022-05-23 03:34:24 ::p
+bot-central 2022-05-23 03:34:26 ;p
+bot-central 2022-05-23 03:34:29 whats the bot command
+bot-central 2022-05-23 03:34:32 for fuckin
+bot-central 2022-05-23 03:34:33 music
+bot-central 2022-05-23 03:34:36 =play
+bot-central 2022-05-23 03:34:46 ;play
+bot-central 2022-05-23 03:34:50 -play
+bot-central 2022-05-23 03:34:52 ;;play
+bot-central 2022-05-23 03:35:00 ;;plau Bloons TD 6 party time
+bot-central 2022-05-23 03:35:07 ;;play Bloons TD 6 party time
+bot-central 2022-05-23 03:35:14 ;;loop
+bot-central 2022-05-23 03:35:26 ;;loop all
+bot-central 2022-05-23 03:41:49 ;;skip
+bot-central 2022-05-23 03:41:55 ;;play btd5 volcano theme
+bot-central 2022-05-23 03:42:03 ;;loop all
+bot-central 2022-05-23 03:49:25 ;;play btd5 main theme
+bot-central 2022-05-23 03:49:30 ;;skip
+bot-central 2022-05-23 03:49:51 ;;leave
+bot-central 2022-05-26 01:10:28 -servers
+bot-central 2022-05-27 04:59:39 -servers
+bot-central 2022-05-27 19:56:41 -servers
+bot-central 2022-05-29 05:10:00 ?rank
+bot-central 2022-05-29 05:10:05 !rank
+bot-central 2022-05-29 15:04:47 -servers
+creations-chat 2022-05-30 03:09:40 both of them are downvote
+creations-chat 2022-05-30 03:23:33 shit
+creations-chat 2022-05-30 03:35:19 welcome to The Joke
+bot-central 2022-05-30 04:10:34 -av
+the-dump 2022-05-30 18:25:10 IVE BEEN SEEING SHIT LIKE THAT
+the-dump 2022-05-30 18:25:20 WHAT DOES IT MEAN
+the-dump 2022-05-30 18:27:09 I figured
+the-dump 2022-05-30 18:27:23 I looked at it and realized hmm do the slashes replace letters???
+the-dump 2022-05-30 18:27:47 there's one for the funny racial slur
+the-dump 2022-05-30 18:27:48 ik
+the-dump 2022-05-30 18:28:40 LMFAOOOO
+the-dump 2022-05-30 18:28:47 L BOZO
+the-dump 2022-05-30 18:29:36 OH
+the-dump 2022-05-30 18:29:49 doing s/(text here)/(more text here)
+the-dump 2022-05-30 18:30:00 replaces (text here) with (more text here)
+the-dump 2022-05-30 18:30:14 who is joe
+the-dump 2022-05-30 18:30:22 s/joe/Joe mama
+the-dump 2022-05-30 18:30:57 joe
+the-dump 2022-05-30 18:31:34 https://tenor.com/view/the-letter-h-spinning-man-letter-gif-24584770
+the-dump 2022-05-30 18:31:54 https://tenor.com/view/pcc-oh-yousuf283-yousuf283-gif-24916147
+the-dump 2022-05-30 18:32:58 <@879297230685732925>, You cannot post .mov files! Try uploading to https://www.streamable.com and share the link instead.
+the-dump 2022-05-30 18:34:43 I have the entire morbius movie as an mp4
+the-dump 2022-05-30 18:34:46 honestly
+the-dump 2022-05-30 18:34:47 it sucks
+bot-central 2022-05-30 21:57:34 !rank
+bot-central 2022-05-31 16:12:56 !rank
+bot-central 2022-05-31 16:14:58 gg
+help 2022-06-08 16:03:51 
+help 2022-06-08 16:03:59 get real
+help 2022-06-08 16:06:48 
+help 2022-06-08 16:06:51 get real
+help 2022-06-08 16:10:51 marvelous
+help 2022-06-08 16:11:13 
+bot-central 2022-06-08 18:08:55 -servers
+contest-chat 2022-06-08 22:01:27 rbk if i built just a single jet engine would i die
+contest-chat 2022-06-08 22:02:35 JOHN WILKES BOOTH
+contest-chat 2022-06-08 22:03:02 wait
+contest-chat 2022-06-08 22:03:05 i have an idea
+contest-chat 2022-06-08 22:03:17 Jefferson Memorial
+contest-chat 2022-06-08 22:03:40 is the jefferson memorial allowed
+contest-chat 2022-06-08 22:04:29 ok im building jefferson memorial
+contest-chat 2022-06-08 22:05:02 ok so
+contest-chat 2022-06-08 22:05:07 jump jet??
+contest-chat 2022-06-08 22:05:32 jail
+contest-chat 2022-06-08 22:06:23 ok rbk
+contest-chat 2022-06-08 22:06:25 question
+contest-chat 2022-06-08 22:06:42 "jump jet" is the nickname of the actual plane harrier
+contest-chat 2022-06-08 22:37:20 Julius Caesar
+contest-chat 2022-06-08 22:52:56 j
+contest-chat 2022-06-08 22:53:11 is this a valid build
+contest-chat 2022-06-08 22:53:50 get real...
+contest-chat 2022-06-08 22:54:39 oh
+contest-chat 2022-06-08 22:54:51 your mother!!!!!!!
+contest-chat 2022-06-08 22:55:09 
+contest-chat 2022-06-08 22:55:13 not gonna submit but
+contest-chat 2022-06-08 22:55:14 j
+contest-chat 2022-06-08 22:55:45 double negative
+contest-chat 2022-06-08 22:55:46 it counts
+contest-chat 2022-06-08 22:55:54 yES
+contest-chat 2022-06-08 22:56:03 not + not = yes
+contest-chat 2022-06-08 22:56:59 hey
+contest-chat 2022-06-08 22:57:02 its not pixel art
+contest-chat 2022-06-08 22:57:38 rbk what do you think of my build
+contest-chat 2022-06-08 22:58:11 my build doesnt violate any rules
+contest-chat 2022-06-08 22:58:13 its not pixel art
+contest-chat 2022-06-08 22:59:07 ok so
+contest-chat 2022-06-08 22:59:13 can i submit this as my build
+contest-chat 2022-06-08 22:59:25 (i wont)
+contest-chat 2022-06-08 22:59:33 jefferson memorial
+contest-chat 2022-06-08 22:59:52 rbk whats the million dollar idea
+contest-chat 2022-06-08 23:01:00 done
+contest-chat 2022-06-08 23:01:17 javelin
+contest-chat 2022-06-08 23:01:23 joe mama
+contest-chat 2022-06-08 23:01:36 tell me
+contest-chat 2022-06-08 23:01:38 in dms
+contest-chat 2022-06-08 23:01:45 i dont even do contests
+bot-central 2022-06-10 03:42:00 -servers
+bot-central 2022-06-10 03:42:15 -ms
+bot-central 2022-06-10 03:42:49 ez
+bot-central 2022-06-10 03:43:18 -ms help
+bot-central 2022-06-10 03:43:22 -ms 20
+bot-central 2022-06-10 03:43:28 -ms 50 50
+creations-chat 2022-06-10 14:32:25 whitenames posting "please give feedback" on the shittiest build you've ever seen
+creations-chat 2022-06-10 14:34:29 racism
+creations-chat 2022-06-10 14:37:23 https://tenor.com/view/guh-cat-gif-22906544
+bot-central 2022-06-11 20:36:09 ;;play jingle jangle jingle
+bot-central 2022-06-11 20:36:14 LOL
+bot-central 2022-06-11 20:36:32 ;;play jingle jangle jingle
+bot-central 2022-06-11 20:38:06 ;;skip
+bot-central 2022-06-11 20:38:49 ;;play heartaches by the number
+bot-central 2022-06-11 20:39:09 ;;play fallout new vegas lone star
+bot-central 2022-06-11 20:41:38 ;;skip
+bot-central 2022-06-11 20:41:43 ;;loop off
+bot-central 2022-06-11 20:41:47 ;;skip
+bot-central 2022-06-11 20:43:08 ;;play roundhouse rock
+bot-central 2022-06-11 20:44:53 ;;play fallout new vegas radio
+bot-central 2022-06-11 20:45:08 ;;skip
+bot-central 2022-06-11 20:45:11 ;;skip
+bot-central 2022-06-11 20:49:39 ;;p Mr. blue sky
+bot-central 2022-06-11 20:49:52 STOP SKIPPING
+bot-central 2022-06-11 20:49:56 OKAY???
+bot-central 2022-06-11 20:49:59 JUST BE PATIENT
+bot-central 2022-06-11 20:50:40 ;;play star spangled banner instrumentsl
+bot-central 2022-06-11 20:50:48 trol
+bot-central 2022-06-11 20:51:45 o7
+bot-central 2022-06-11 20:52:00 -ms
+bot-central 2022-06-11 20:52:18 
+bot-central 2022-06-11 20:53:30 this song unironically goes hard
+bot-central 2022-06-11 20:53:44 ;;play big iron
+bot-central 2022-06-11 20:53:56 big iron
+bot-central 2022-06-11 20:54:15 big iron 🤝 big iron
+bot-central 2022-06-11 20:54:19 (big iron)
+bot-central 2022-06-11 20:54:26 ;;play El paso
+bot-central 2022-06-11 20:54:40 ;;queue
+bot-central 2022-06-11 20:55:05 ;;play better call saul theme
+bot-central 2022-06-11 20:55:27 how long does the queue get
+bot-central 2022-06-11 20:55:40 ;;play roundhouse rock
+bot-central 2022-06-11 20:56:28 ;queue
+bot-central 2022-06-11 20:56:32 ;;queue
+bot-central 2022-06-11 20:56:52 ;;queue 2
+bot-central 2022-06-11 20:57:01 2 PAGES OF QUEUE
+bot-central 2022-06-11 20:58:21 big iron
+bot-central 2022-06-11 20:58:27 who here is big iron gang
+bot-central 2022-06-11 20:58:58 https://tenor.com/view/walter-white-falling-fast-gif-18043850
+bot-central 2022-06-11 21:00:00 WATCH THIS
+bot-central 2022-06-11 21:00:10 ;;play jingle jangle jingle
+bot-central 2022-06-11 21:00:22 <3
+bot-central 2022-06-11 21:00:46 o7
+bot-central 2022-06-11 21:01:04 ;;queue
+bot-central 2022-06-11 21:01:15 4
+bot-central 2022-06-11 21:01:19 3 more songs
+bot-central 2022-06-11 21:01:23 then big iron
+bot-central 2022-06-11 21:01:33 big iron 😎
+bot-central 2022-06-11 21:02:29 marry me
+bot-central 2022-06-11 21:02:36 NOW
+bot-central 2022-06-11 21:02:38 HERE
+bot-central 2022-06-11 21:03:10 ok I want a divorce
+bot-central 2022-06-11 21:03:53 YEAHHH
+bot-central 2022-06-11 21:03:56 WOOOOOO
+bot-central 2022-06-11 21:04:02 SKIP AND DIE
+bot-central 2022-06-11 21:04:17 BIG IRON ON HIS HIIIIIP
+bot-central 2022-06-11 21:04:37 do not skip big iron
+bot-central 2022-06-11 21:04:53 ok bog
+bot-central 2022-06-11 21:04:57 do not skip big iron
+bot-central 2022-06-11 21:05:11 you sexy
+bot-central 2022-06-11 21:05:36 ;;play lone star
+bot-central 2022-06-11 21:05:46 ;;queue
+bot-central 2022-06-11 21:05:53 17 tracks
+bot-central 2022-06-11 21:06:16 one hour of shitty memes and country
+bot-central 2022-06-11 21:06:18 DO NOT SKIP
+bot-central 2022-06-11 21:06:29 IF YOU SKIP IM GONNA SKIP THE WHOLE FUCKING QUEUE
+bot-central 2022-06-11 21:06:38 ILL FUCKING DO IT
+bot-central 2022-06-11 21:06:55 WITH A BIG IRON ON HIS HIP
+bot-central 2022-06-11 21:07:10 medium steel
+bot-central 2022-06-11 21:07:19 ;;unpause
+bot-central 2022-06-11 21:07:30 danger zone?!?!?!
+bot-central 2022-06-11 21:07:32 based
+bot-central 2022-06-11 21:08:00 ;;queue 2
+bot-central 2022-06-11 21:08:05 2 danger zones
+bot-central 2022-06-11 21:08:25 over an hour
+bot-central 2022-06-11 21:09:01 ;;play ultimate showdown
+bot-central 2022-06-11 21:10:12 ;;play I got spurs that
+bot-central 2022-06-11 21:10:33 24
+bot-central 2022-06-11 21:10:35 tracks
+bot-central 2022-06-11 21:10:49 Ok you
+bot-central 2022-06-11 21:11:02 <@793132196810588200> skip so much as one more song and I'm deleting the queue
+bot-central 2022-06-11 21:11:11 ;;skip all
+bot-central 2022-06-11 21:11:20 ;;skip 1-24
+bot-central 2022-06-11 21:11:35 ;;skip 1-15
+bot-central 2022-06-11 21:11:48 <@793132196810588200> die
+bot-central 2022-06-11 21:11:50 ;;skip
+bot-central 2022-06-11 21:12:06 YOU SKIPPED THE WHOLE QUEUE
+bot-central 2022-06-11 21:12:10 ASSHOLE
+bot-central 2022-06-11 21:12:15 FUCK YOU RITUAL
+bot-central 2022-06-11 21:12:37 ;;play I got spurs that
+bot-central 2022-06-11 21:12:46 ;;skip
+bot-central 2022-06-11 21:12:59 STOP FUCKING SKIPPING
+bot-central 2022-06-11 21:13:06 <@793132196810588200> STOP
+bot-central 2022-06-11 21:13:11 BITCH ASS MOTHERFUCKER
+bot-central 2022-06-11 21:13:15 NOBODY LOVES YOU
+bot-central 2022-06-11 21:13:22 ;;play El paso
+bot-central 2022-06-11 21:14:08 <@793132196810588200> nobody fucking loves yoy
+bot-central 2022-06-11 21:14:13 nobody gets music now
+bot-central 2022-06-11 21:14:16 ;;skip
+bot-central 2022-06-11 21:14:23 ;;skip 1-3
+bot-central 2022-06-11 21:14:27 ;;skip
+bot-central 2022-06-11 21:14:29 ;;skip
+bot-central 2022-06-11 21:14:34 NOBODY GETS MUSIC
+bot-central 2022-06-11 21:14:36 NO MORE
+bot-central 2022-06-11 21:14:38 HE RU8NED IT
+bot-central 2022-06-11 21:14:40 NO MORE
+bot-central 2022-06-11 21:14:43 NO MORE MUSIC
+bot-central 2022-06-11 21:15:14 ;;skip
+bot-central 2022-06-11 21:15:17 NO MISIC
+bot-central 2022-06-11 21:15:19 MUSIC
+bot-central 2022-06-11 21:15:28 YOU LOST MUSIC PRIVILEGES
+bot-central 2022-06-11 21:15:30 ;;skip
+bot-central 2022-06-11 21:15:34 NO MORE
+bot-central 2022-06-11 21:15:56 NO MORE MUSIC
+bot-central 2022-06-11 21:16:09 ;;skip
+bot-central 2022-06-11 21:16:14 NO MUSIC
+bot-central 2022-06-11 21:16:21 ONE PERSON RUINED IT
+bot-central 2022-06-11 21:16:23 SO NO MORE
+bot-central 2022-06-11 21:16:34 LEAVE
+bot-central 2022-06-11 21:16:55 ;;play big iron
+bot-central 2022-06-11 21:17:02 ;;play big iro
+bot-central 2022-06-11 21:17:42 JINGLE
+bot-central 2022-06-11 21:17:44 JANGLE
+bot-central 2022-06-11 21:17:45 JINGLE
+bot-central 2022-06-11 21:18:23 ;;queue
+bot-central 2022-06-11 21:18:28 ;;skip 2-5
+bot-central 2022-06-11 21:18:31 ;;queue
+bot-central 2022-06-11 21:18:37 there
+bot-central 2022-06-11 21:18:41 ;;play big iron
+bot-central 2022-06-11 21:18:48 ;;play El paso
+bot-central 2022-06-11 21:19:15 ass
+bot-central 2022-06-11 21:19:37 ;;play bloons td 5 main theme
+bot-central 2022-06-11 21:20:50 big
+bot-central 2022-06-11 21:20:51 iron
+bot-central 2022-06-11 21:21:26 big
+bot-central 2022-06-11 21:21:50 lo
+bot-central 2022-06-11 21:22:14 ;;play John Denver country roads
+bot-central 2022-06-11 21:23:24 too bad
+bot-central 2022-06-11 21:23:29 I don't wanna listen to your shit
+bot-central 2022-06-11 21:23:40 your fucking Siberia bullshit
+bot-central 2022-06-11 21:23:45 nobody cares
+bot-central 2022-06-11 21:23:52 get rea
+bot-central 2022-06-11 21:23:58 no
+bot-central 2022-06-11 21:23:59 !!!
+bot-central 2022-06-11 21:24:15 get trolled,,,
+bot-central 2022-06-11 21:24:22 goodtl
+bot-central 2022-06-11 21:24:30 then we don't need to listen to your shit
+bot-central 2022-06-11 21:25:33 what
+bot-central 2022-06-11 21:25:55 ;;play Billy the kid
+bot-central 2022-06-11 21:26:10 ;;play Marty robbins Billy the kid
+bot-central 2022-06-11 21:26:57 Marty Robbins is a treasure
+bot-central 2022-06-11 21:27:51 ok fr this song isn't bad
+bot-central 2022-06-11 21:28:30 wait
+bot-central 2022-06-11 21:28:43 <@769636174259814440> can I skip your songs since you aren't in vc
+bot-central 2022-06-11 21:29:14 ;;skip <@769636174259814440>
+bot-central 2022-06-11 21:29:19 ;;queue
+bot-central 2022-06-11 21:29:36 <@456226577798135808> can I skip your songs
+bot-central 2022-06-11 21:29:47 ;;skip <@456226577798135808>
+bot-central 2022-06-11 21:30:03 this song goes hard
+bot-central 2022-06-11 21:30:18 ;;queue
+bot-central 2022-06-11 21:30:26 ;;skip 3
+bot-central 2022-06-11 21:31:44 wait
+bot-central 2022-06-11 21:31:49 can the bot play mp4s
+bot-central 2022-06-11 21:32:47 
+bot-central 2022-06-11 21:33:10 <@399470016807960586> what's the command to get info on someone
+bot-central 2022-06-11 21:33:17 in this server
+bot-central 2022-06-11 21:33:28 wait
+bot-central 2022-06-11 21:33:30 HANG ON
+bot-central 2022-06-11 21:33:35 YOU SAID YOU WERE 14
+bot-central 2022-06-11 21:33:42 YOU JOINED IN 2018
+bot-central 2022-06-11 21:33:50 REAL
+bot-central 2022-06-11 21:34:08 YOU WERE 10
+bot-central 2022-06-11 21:34:12 11??
+bot-central 2022-06-11 21:34:16 WH
+bot-central 2022-06-11 21:34:51 I should search your old messages
+bot-central 2022-06-11 21:35:03 OH I LOVE THIS SONG
+bot-central 2022-06-11 21:35:18 ;;np
+bot-central 2022-06-11 21:36:09 honestly
+bot-central 2022-06-11 21:36:11 jamming
+bot-central 2022-06-11 21:38:23 ;;np
+bot-central 2022-06-11 21:38:34 ah almost over
+bot-central 2022-06-11 21:40:12 this isn't Marty Robbins
+bot-central 2022-06-11 21:40:15 oh there we are
+bot-central 2022-06-11 21:43:23 ;;play country roads fallout 76
+bot-central 2022-06-11 21:44:51 ;;np
+bot-central 2022-06-11 21:46:25 ;;play clocks karaoke
+bot-central 2022-06-11 21:49:15 country roadsss
+bot-central 2022-06-11 21:49:27 ;;queue
+bot-central 2022-06-11 21:49:31 ;;skip 3
+bot-central 2022-06-11 21:49:47 ;;play Mr. blue sky
+bot-central 2022-06-11 21:50:10 ;;p big iron
+bot-central 2022-06-11 21:50:19 ;;play I got spurs that
+bot-central 2022-06-11 21:51:29 lofi sucks lowkey
+bot-central 2022-06-11 21:59:39 ;;skip
+bot-central 2022-06-11 22:06:00 ;;play underbase fallen down
+bot-central 2022-06-11 22:07:15 nah
+bot-central 2022-06-11 22:07:30 I won't skip tho
+bot-central 2022-06-11 22:11:28 ;;voteskip
+bot-central 2022-06-11 22:13:52 ;;voteskip
+bot-central 2022-06-11 22:13:59 ;;queue
+bot-central 2022-06-11 22:22:15 my reaction to that information
+bot-central 2022-06-11 22:23:56 !rank
+bot-central 2022-06-11 22:24:10 ;;play Sargeant Dornan
+bot-central 2022-06-12 01:19:49 !rank
+bot-central 2022-06-12 14:50:16 ;;p radio new vegas
+bot-central 2022-06-12 14:50:31 ;;play fallout new vegas radio
+bot-central 2022-06-12 14:55:31 ;;play jingle jangle jingle
+bot-central 2022-06-12 15:11:36 ;;loop
+bot-central 2022-06-12 15:11:40 ;;loop single
+bot-central 2022-06-12 15:15:55 ;;play Gunfighter Ballads and Trail Songs
+bot-central 2022-06-12 15:16:20 ;;skip 2
+bot-central 2022-06-12 15:17:11 yoo
+bot-central 2022-06-12 15:22:28 uh
+bot-central 2022-06-12 15:22:35 this song is "roundhouse rock"
+bot-central 2022-06-12 15:22:45 ;;queue
+bot-central 2022-06-12 15:22:55 uhh this is just one video
+bot-central 2022-06-12 15:23:01 it's just all of the songs
+bot-central 2022-06-12 15:23:10 yours is soon
+bot-central 2022-06-12 15:25:18 ;;play surfing bird
+bot-central 2022-06-12 15:25:36 it's almost done
+bot-central 2022-06-12 15:25:38 ;;np
+bot-central 2022-06-12 15:25:45 7 minutes
+bot-central 2022-06-12 15:33:42 ;;loop off
+bot-central 2022-06-12 15:33:46 ;;skip
+bot-central 2022-06-12 15:35:49 ;;np
+bot-central 2022-06-12 15:38:04 no
+bot-central 2022-06-12 15:38:13 I have the whole fucking playkist
+bot-central 2022-06-12 15:38:16 Playlist
+bot-central 2022-06-12 15:43:28 ;;queue
+bot-central 2022-06-12 15:43:34 ;;queue 2
+bot-central 2022-06-12 15:55:28 ;;queue
+bot-central 2022-06-12 15:55:34 ;;queue 2
+bot-central 2022-06-12 16:10:53 FUCK YOU
+bot-central 2022-06-12 16:11:59 <@389756407483990028> voteskip next time.
+bot-central 2022-06-12 16:12:59 ;;play surfing bird
+bot-central 2022-06-12 16:13:13 ;;q
+bot-central 2022-06-12 16:13:35 it's hyphen
+bot-central 2022-06-12 16:18:06 ;;skip
+bot-central 2022-06-12 16:18:09 it's only fair
+bot-central 2022-06-12 16:18:48 ;;play Mr blue sky
+bot-central 2022-06-12 16:19:15 ok but azzy skipped one
+bot-central 2022-06-12 16:19:19 I skip one of azzy
+bot-central 2022-06-12 16:19:36 then VOTEKSIP
+bot-central 2022-06-12 16:19:58 voteskip
+bot-central 2022-06-12 16:21:40 everybody's heard
+bot-central 2022-06-12 16:21:42 about the bird
+bot-central 2022-06-12 16:22:35 I'm about to change time zone
+bot-central 2022-06-12 16:22:39 25 SONGS
+bot-central 2022-06-12 16:22:43 ;;queue
+bot-central 2022-06-12 16:23:12 ;;skip 7-31
+bot-central 2022-06-12 16:23:16 ;;queue
+bot-central 2022-06-12 16:23:30 I removed em
+bot-central 2022-06-12 16:24:45 ;;np
+bot-central 2022-06-12 16:25:02 why is this song so long
+bot-central 2022-06-12 16:25:19 it's one word
+bot-central 2022-06-12 16:26:14 yall like jazz
+bot-central 2022-06-12 16:26:29 ;;play jetpack joyride theme
+bot-central 2022-06-12 16:26:44 jetpack joyride
+bot-central 2022-06-12 16:27:28 ;;play bloons td 5 theme
+bot-central 2022-06-12 16:27:36 bloon
+bot-central 2022-06-12 16:27:57 ;;np
+bot-central 2022-06-12 16:28:41 your mothe
+bot-central 2022-06-12 16:28:58 this was originally just radio new vegas top tune
+bot-central 2022-06-12 16:29:01 and yall just
+bot-central 2022-06-12 16:29:28 radier newer veger
+bot-central 2022-06-12 16:29:48 oh
+bot-central 2022-06-12 16:29:58 HAVE YOU HEARD
+bot-central 2022-06-12 16:30:10 voteskip.
+bot-central 2022-06-12 16:30:28 family guy,,,,
+bot-central 2022-06-12 16:30:47 ok
+bot-central 2022-06-12 16:30:56 but,,
+bot-central 2022-06-12 16:30:58 family guy
+bot-central 2022-06-12 16:30:59 !!
+bot-central 2022-06-12 16:31:16 jetpack joyride
+bot-central 2022-06-12 16:31:26 ;;queue 2
+bot-central 2022-06-12 16:31:34 the full fucking album
+bot-central 2022-06-12 16:31:38 ;;skip 13
+bot-central 2022-06-12 16:31:45 yw
+bot-central 2022-06-12 16:32:05 ok no matter what we agree not to skip jetpack joyride
+bot-central 2022-06-12 16:32:07 correct
+bot-central 2022-06-12 16:32:58 I misread fanboy
+bot-central 2022-06-12 16:33:09 ;;np
+bot-central 2022-06-12 16:33:16 yes
+bot-central 2022-06-12 16:33:17 yes
+bot-central 2022-06-12 16:33:27 I'm about to lose reception
+bot-central 2022-06-12 16:34:02 Mr blue sky,,,,
+bot-central 2022-06-12 16:35:02 so much rock music
+bot-central 2022-06-12 16:35:05 no variety
+bot-central 2022-06-12 16:35:45 ok you know what
+bot-central 2022-06-12 16:35:53 after the queue gets through these
+bot-central 2022-06-12 16:36:02 can we agree 1 song per person in the queue at a time
+bot-central 2022-06-12 16:36:20 we just got 12 songs from one person
+bot-central 2022-06-12 16:36:26 yes
+bot-central 2022-06-12 16:36:29 ;;queue
+bot-central 2022-06-12 16:36:50 you know what
+bot-central 2022-06-12 16:36:51 can we just
+bot-central 2022-06-12 16:36:58 clear the queue?
+bot-central 2022-06-12 16:37:02 I won't put anything in
+bot-central 2022-06-12 16:37:15 ok how about
+bot-central 2022-06-12 16:37:20 pick one song to stay in the queue
+bot-central 2022-06-12 16:37:37 ok after this is done I'll clear mine
+bot-central 2022-06-12 16:39:08 ;;skip <@565999170033287320>
+bot-central 2022-06-12 16:39:12 there
+bot-central 2022-06-12 16:39:15 I skipped all of mine
+bot-central 2022-06-12 16:39:24 can yall go ahead and remove all but 1 song of yalls
+bot-central 2022-06-12 16:39:42 ;;queue
+bot-central 2022-06-12 16:39:46 ;;skip 1-2
+bot-central 2022-06-12 16:39:56 add it back
+bot-central 2022-06-12 16:40:00 one song per person
+bot-central 2022-06-12 16:40:04 ;;q
+bot-central 2022-06-12 16:40:31 ;;play jetpack joyride theme
+bot-central 2022-06-12 16:40:36 ;;queue
+bot-central 2022-06-12 16:40:45 azzy you can still add
+bot-central 2022-06-12 16:41:02 we agreed
+bot-central 2022-06-12 16:41:04 one per person
+bot-central 2022-06-12 16:41:11 add it back
+bot-central 2022-06-12 16:41:15 one song per person
+bot-central 2022-06-12 16:41:19 ;;queue
+bot-central 2022-06-12 16:41:43 <@883063424614006878> go fuck yourself asshoel
+bot-central 2022-06-12 16:41:56 play your one shitty ass song then keave
+bot-central 2022-06-12 16:41:58 ;;skip
+bot-central 2022-06-12 16:42:24 ;;play jetpack joyride theme
+bot-central 2022-06-12 16:42:51 NO
+bot-central 2022-06-12 16:42:53 NOPE
+bot-central 2022-06-12 16:42:58 Not two trucks
+bot-central 2022-06-12 16:43:22 ;:ski
+bot-central 2022-06-12 16:44:14 ;;queue
+bot-central 2022-06-12 16:44:27 ;;queue
+bot-central 2022-06-12 16:44:51 NEW AGREEMENT
+bot-central 2022-06-12 16:45:09 if you have more than 1 (One) song in the queue we can voteskip
+bot-central 2022-06-12 16:45:20 otherwise if you only have one, no skipping
+bot-central 2022-06-12 16:45:37 if it's under 10 minutes and it's the only one you have no skip
+bot-central 2022-06-12 16:45:41 ;;q
+bot-central 2022-06-12 16:45:55 do not regular skip
+bot-central 2022-06-12 16:45:57 only vote
+bot-central 2022-06-12 16:46:05 uhh
+bot-central 2022-06-12 16:46:16 HELL YEAH
+bot-central 2022-06-12 16:46:45 ;;play bad piggies theme
+bot-central 2022-06-12 16:46:55 <:trollface:775024642104229898>
+bot-central 2022-06-12 16:47:05 you can skip your own songs tho
+bot-central 2022-06-12 16:47:18 ;;queue
+bot-central 2022-06-12 16:47:31 <@329248891155251201> too many songs in queue
+bot-central 2022-06-12 16:47:44 we had an agreement
+bot-central 2022-06-12 16:47:49 one playing, one in queue
+bot-central 2022-06-12 16:48:12 do ;:skip then number
+bot-central 2022-06-12 16:48:15 ;;queue
+bot-central 2022-06-12 16:54:34 ;;q
+bot-central 2022-06-12 16:54:44 azzy and asshat both have 2
+bot-central 2022-06-12 16:55:01 ok new rule
+bot-central 2022-06-12 16:55:08 no more than 10 minutes in queue
+bot-central 2022-06-12 16:55:10 ok?
+bot-central 2022-06-12 16:55:17 is that fair
+bot-central 2022-06-12 16:55:23 10 minutes per person
+bot-central 2022-06-12 16:55:47 ok no songs over 10 minutes
+bot-central 2022-06-12 16:56:07 I'm trying to make it fair
+bot-central 2022-06-12 16:56:12 I have one song, ok
+bot-central 2022-06-12 16:56:58 ;;q
+bot-central 2022-06-12 16:57:14 ;;vs
+bot-central 2022-06-12 16:57:31 :;voteskip
+bot-central 2022-06-12 16:57:47 ;;q
+bot-central 2022-06-12 16:58:02 ;;np
+bot-central 2022-06-12 16:58:17 sounds like a good song title
+bot-central 2022-06-12 16:58:37 yea
+bot-central 2022-06-12 16:59:04 jetpack joyride
+bot-central 2022-06-12 16:59:50 ;;q
+bot-central 2022-06-12 17:00:00 you can skip
+bot-central 2022-06-12 17:00:05 own song
+bot-central 2022-06-12 17:00:46 tik tok
+bot-central 2022-06-12 17:01:00 ;;voteskip
+bot-central 2022-06-12 17:01:24 YOOOOO
+bot-central 2022-06-12 17:02:46 ;;play bloons td 5 theme
+bot-central 2022-06-12 17:03:11 ;;queue
+bot-central 2022-06-12 17:03:30 3 songs from asshat
+bot-central 2022-06-12 17:03:35 yes
+bot-central 2022-06-12 17:03:42 bloons td 5
+bot-central 2022-06-12 17:05:57 this song is mid
+bot-central 2022-06-12 17:06:07 sabaton sucks ass
+bot-central 2022-06-12 17:06:13 music is mid
+bot-central 2022-06-12 17:06:23 being alive is mid
+bot-central 2022-06-12 17:06:27 ;;q
+bot-central 2022-06-12 17:06:36 2 song in a row!!!
+bot-central 2022-06-12 17:06:47 sto
+bot-central 2022-06-12 17:06:50 NO
+bot-central 2022-06-12 17:06:56 it's too big
+bot-central 2022-06-12 17:07:01 of a playlist
+bot-central 2022-06-12 17:07:10 wow he
+bot-central 2022-06-12 17:07:19 why don't we just
+bot-central 2022-06-12 17:07:21 return to form
+bot-central 2022-06-12 17:07:25 fallout new vegas radio
+bot-central 2022-06-12 17:07:38 I was here first
+bot-central 2022-06-12 17:07:49 no
+bot-central 2022-06-12 17:07:51 ;;q
+bot-central 2022-06-12 17:08:06 moving bot doesn't clear queue
+bot-central 2022-06-12 17:08:14 this sucks
+bot-central 2022-06-12 17:10:51 ;;np
+bot-central 2022-06-12 17:11:14 to queue?
+bot-central 2022-06-12 17:11:16 ;;play
+bot-central 2022-06-12 17:11:23 then song title
+bot-central 2022-06-12 17:11:29 oh
+bot-central 2022-06-12 17:11:31 okay
+bot-central 2022-06-12 17:11:38 honestly fallout 4 radio is mid
+bot-central 2022-06-12 17:11:51 it's got some bangers
+bot-central 2022-06-12 17:11:53 some not good
+bot-central 2022-06-12 17:12:16 TRUTH
+bot-central 2022-06-12 17:12:24 real facts
+bot-central 2022-06-12 17:12:53 fallout new vegas is wild
+bot-central 2022-06-12 17:13:11 big iron
+bot-central 2022-06-12 17:13:17 we can all agree big iron
+bot-central 2022-06-12 17:13:33 big iron goes hard
+bot-central 2022-06-12 17:13:41 heartaches by the number
+bot-central 2022-06-12 17:13:50 ok but
+bot-central 2022-06-12 17:13:52 roundhouse rock
+bot-central 2022-06-12 17:13:56 jamming
+bot-central 2022-06-12 17:13:58 and then
+bot-central 2022-06-12 17:14:00 uhh
+bot-central 2022-06-12 17:14:04 let's ride into the sunset
+bot-central 2022-06-12 17:14:06 is good
+bot-central 2022-06-12 17:14:14 besides the yodeling
+bot-central 2022-06-12 17:14:26 trap music sucks ass
+bot-central 2022-06-12 17:14:43 MONKEY MUSIC NEXT
+bot-central 2022-06-12 17:14:50 Monke,
+bot-central 2022-06-12 17:15:02 d
+bot-central 2022-06-12 17:15:18 wow he
+bot-central 2022-06-12 17:15:24 monke
+bot-central 2022-06-12 17:15:34 you two should kiss
+bot-central 2022-06-12 17:16:04 https://tenor.com/view/bloons-when-they-see-path-gif-21628175
+bot-central 2022-06-12 17:16:25 I will skip all of your songs if you do
+bot-central 2022-06-12 17:16:56 ;;play bloons td 6 party time
+bot-central 2022-06-12 17:17:09 monkey music (2)
+bot-central 2022-06-12 17:17:13 ;;skip
+bot-central 2022-06-12 17:17:36 sata
+bot-central 2022-06-12 17:17:38 ;;np
+bot-central 2022-06-12 17:17:45 ok 4 minut
+bot-central 2022-06-12 17:17:47 ;;q
+bot-central 2022-06-12 17:18:16 my phone is about to change time zone
+bot-central 2022-06-12 17:18:33 
+bot-central 2022-06-12 17:18:46 
+bot-central 2022-06-12 17:19:20 
+bot-central 2022-06-12 17:19:56 gr
+bot-central 2022-06-12 17:21:24 ?av
+bot-central 2022-06-12 17:21:38 ?av rickje139
+bot-central 2022-06-12 17:22:00 pizza
+bot-central 2022-06-12 17:22:41 interstate 40, mile 345
+bot-central 2022-06-12 17:23:03 NO WAY
+bot-central 2022-06-12 17:23:06 NO FUCKING WAY
+bot-central 2022-06-12 17:24:13 me!!!
+bot-central 2022-06-12 17:24:40 ;;np
+bot-central 2022-06-12 17:25:41 cool
+bot-central 2022-06-12 17:26:31 ;;q
+bot-central 2022-06-12 17:28:10 this is ass
+bot-central 2022-06-12 17:28:20 ;;voteskip
+bot-central 2022-06-12 17:28:40 ok it got worse
+bot-central 2022-06-12 17:29:24 when's the good part
+bot-central 2022-06-12 17:30:02 this ain't actually bad
+bot-central 2022-06-12 17:30:36 the music without lyrics better
+bot-central 2022-06-12 17:30:55 it's just
+bot-central 2022-06-12 17:30:57 grumbling
+bot-central 2022-06-12 17:31:04 MONKEY MUSIC NEXT
+bot-central 2022-06-12 17:31:08 MONKEY
+bot-central 2022-06-12 17:31:17 wow rbk really just $new
+bot-central 2022-06-12 17:32:40 ;;q
+bot-central 2022-06-12 17:32:53 metal in general I'm not a fan of
+bot-central 2022-06-12 17:33:05 meh
+bot-central 2022-06-12 17:33:18 I mean the music I am okay with
+bot-central 2022-06-12 17:33:25 I can't fucking understand the lyrics
+bot-central 2022-06-12 17:33:38 monkey music
+bot-central 2022-06-12 17:33:50 It skipped mine,,,,,
+bot-central 2022-06-12 17:33:58 something went wrong,,,,,
+bot-central 2022-06-12 17:34:13 ;;play country roads fallout 76
+bot-central 2022-06-12 17:34:22 the only good thing to come out of this game
+bot-central 2022-06-12 17:34:59 wait
+bot-central 2022-06-12 17:35:01 obcnoob
+bot-central 2022-06-12 17:35:13 obcnoob,,,,,
+bot-central 2022-06-12 17:35:21 rabbit,,,,
+bot-central 2022-06-12 17:35:31 <:largerabbit:772883550349426719>
+bot-central 2022-06-12 17:35:35 large rabbit
+bot-central 2022-06-12 17:37:23 ;;q
+bot-central 2022-06-12 17:37:29 ;;skip 6
+bot-central 2022-06-12 17:37:39 ;;play in the shadow of the valley
+bot-central 2022-06-12 17:39:37 ;;voteskip
+bot-central 2022-06-12 17:40:18 neither
+bot-central 2022-06-12 17:40:22 France isn't real
+bot-central 2022-06-12 17:41:18 ;;voteskip
+bot-central 2022-06-12 17:41:46 oh
+bot-central 2022-06-12 17:41:51 I have bad reception
+bot-central 2022-06-12 17:41:53 it sent too late
+bot-central 2022-06-12 17:42:07 oh
+bot-central 2022-06-12 17:43:25 ;;q
+bot-central 2022-06-12 17:43:31 ;;skip 4
+bot-central 2022-06-12 17:44:10 there's this bug right next to me
+bot-central 2022-06-12 17:44:13 he doesn't suspect a think
+bot-central 2022-06-12 17:44:15 thing
+bot-central 2022-06-12 17:44:17 should I kill
+bot-central 2022-06-12 17:44:31 he's a mosquito
+bot-central 2022-06-12 17:44:51 I ripped his wings off
+bot-central 2022-06-12 17:45:04 exposed nerve prank
+bot-central 2022-06-12 18:36:06 ;;p better call saul theme
+bot-central 2022-06-12 18:36:23 !rank
+bot-central 2022-06-12 18:36:31 ;;queue
+bot-central 2022-06-12 18:37:30 ;;queue
+bot-central 2022-06-12 18:37:37 BETTER CALL SAUL
+bot-central 2022-06-13 22:00:47 ?ranks
+bot-central 2022-06-13 22:00:55 !rank
+bot-central 2022-06-13 22:05:59 ;;play radio new vegas
+bot-central 2022-06-13 22:15:28 ;;loop single
+bot-central 2022-06-13 22:15:35 <@921250489281159231> stfu
+bot-central 2022-06-13 22:15:42 fallout new vegas goes hard
+bot-central 2022-06-13 22:21:09 ;;skip
+bot-central 2022-06-14 14:53:52 ?shelp
+creations-chat 2022-06-15 19:29:13 oh
+creations-chat 2022-06-15 19:35:02 my question is why you have thus saved
+the-dump 2022-06-16 21:14:38 
+the-dump 2022-06-16 21:15:23 🥖
+the-dump 2022-06-16 21:15:40 fr*nch
+the-dump 2022-06-16 21:15:52 <:trollface:775024642104229898>
+the-dump 2022-06-16 21:16:27 react to this message with 🥖 if you like men
+the-dump 2022-06-16 21:16:46 <@693249246157340713> <:trollface:775024642104229898>
+the-dump 2022-06-16 21:18:30 <:trollface:775024642104229898>
+creations-chat 2022-06-16 21:51:56 
+the-dump 2022-06-17 02:27:34 🗿
+the-dump 2022-06-17 02:27:52 🗿
+the-dump 2022-06-17 02:28:01 🗿
+the-dump 2022-06-17 02:28:04 🗿
+the-dump 2022-06-17 02:28:26 🗿
+the-dump 2022-06-17 02:28:31 🗿
+the-dump 2022-06-17 02:28:34 🗿
+the-dump 2022-06-17 02:28:35 🗿
+the-dump 2022-06-17 02:28:37 🗿
+the-dump 2022-06-17 02:28:38 🗿
+the-dump 2022-06-17 02:28:39 🗿
+the-dump 2022-06-17 02:28:40 🗿
+the-dump 2022-06-17 02:28:41 🗿
+the-dump 2022-06-17 02:28:43 🗿
+the-dump 2022-06-17 02:28:58 🗿
+bot-central 2022-06-18 00:53:20 -help ms
+bot-central 2022-06-18 01:03:44 ?ban
+bot-central 2022-06-18 01:03:46 -ban
+bot-central 2022-06-18 15:36:04 <@797775659006165032> do the command here
+bot-central 2022-06-18 15:36:09 to get early access to pc2
+bot-central 2022-06-18 15:36:26 I lied
+bot-central 2022-06-18 15:36:32 
+bot-central 2022-06-18 15:36:35 <:trollface:775024642104229898>
+bot-central 2022-06-18 15:59:36 ;;skip
+bot-central 2022-06-18 15:59:40 ;;play big iron
+bot-central 2022-06-18 16:00:45 ;;play radio newvegas
+bot-central 2022-06-18 16:02:54 ;;join
+bot-central 2022-06-18 16:02:59 ;;resume
+bot-central 2022-06-18 21:00:07 -planecrazy2alpha
+bot-central 2022-06-18 21:00:28 -pccmc
+bot-central 2022-06-19 14:31:04 ;;play radio new vegas
+bot-central 2022-06-19 14:33:37 you've tried to play that count to three song like 5 times
+bot-central 2022-06-19 14:33:43 I've already heard it
+bot-central 2022-06-19 14:33:48 dead meme
+bot-central 2022-06-19 14:34:00 ;;skip
+bot-central 2022-06-19 14:34:03 due
+bot-central 2022-06-19 14:34:11 ;;play jetpack joyride
+bot-central 2022-06-19 14:34:21 ;;play jetpack joyride theme
+bot-central 2022-06-19 14:34:47 <a:catvibe:740859894781050890>
+bot-central 2022-06-19 14:35:02 ;;loop single
+bot-central 2022-06-19 14:37:09 ;;skip
+bot-central 2022-06-19 14:37:15 ;;play radio new vegas
+bot-central 2022-06-19 15:24:14 ;;loop off
+bot-central 2022-06-19 15:26:29 ;;np
+bot-central 2022-06-19 15:26:34 ;;skip
+bot-central 2022-06-19 15:28:13 ;;q
+bot-central 2022-06-19 15:32:58 ;;q 2
+bot-central 2022-06-19 15:34:11 ;;skip 12
+bot-central 2022-06-19 15:34:16 ;;skip 11
+bot-central 2022-06-19 15:46:22 ;;commands
+bot-central 2022-06-19 15:46:27 ;;music
+bot-central 2022-06-19 15:48:51 ;;play more gun
+bot-central 2022-06-19 15:51:02 no
+bot-central 2022-06-19 15:51:05 ;;loop all
+bot-central 2022-06-19 16:08:34 ;;shuffle
+bot-central 2022-06-19 16:08:39 ;;queue
+bot-central 2022-06-19 16:08:43 ;;skip 5
+bot-central 2022-06-19 16:09:37 ;;pause
+bot-central 2022-06-19 16:09:45 I gotta go to the restroom
+bot-central 2022-06-19 16:09:46 brb
+bot-central 2022-06-19 16:12:34 thanks
+bot-central 2022-06-19 16:12:38 ;;resume
+bot-central 2022-06-19 16:22:54 what is this cringe
+bot-central 2022-06-19 16:35:51 ;;skip <@565999170033287320>
+bot-central 2022-06-19 18:22:50 ?av
+bot-central 2022-06-19 18:22:57 ?av GammaRad
+bot-central 2022-06-19 18:25:00 https://images-ext-2.discordapp.net/external/tnb1aDHkqsWSzLCJlJnUrZax9Fa8Dva72i-Rz41-dlw/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/877391100137070625/2a44128ef2e54f6ae0d2bef10d285b28.png
+bot-central 2022-06-19 18:36:25 ?av ritualtwilight
+bot-central 2022-06-19 18:36:35 https://images-ext-1.discordapp.net/external/Y50XJJq1eIitG6uSi6bEJsOI2gjfpn6mA2LQ2tRPDh0/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/883063424614006878/a_4460745c5d4630eb5aca2017d6e92c9e.gif
+bot-central 2022-06-19 18:42:57 -reverify ssenmodelux
+the-dump 2022-06-19 20:28:49 morbius
+bot-central 2022-06-19 23:04:17 ;;play lacrimosa
+bot-central 2022-06-19 23:04:25 ;;pause
+bot-central 2022-06-19 23:04:33 ;;resume
+bot-central 2022-06-19 23:05:03 ;;restart
+bot-central 2022-06-19 23:07:40 ;;loop single
+bot-central 2022-06-19 23:08:14 ;;skip
+bot-central 2022-06-19 23:08:32 ;;play more gun
+bot-central 2022-06-19 23:09:38 ;;volume 150
+bot-central 2022-06-19 23:13:30 ;;play tf2 the calm
+bot-central 2022-06-19 23:13:47 ;;skip
+bot-central 2022-06-19 23:13:56 ;;loop off
+bot-central 2022-06-19 23:14:00 ;;play tf2 robots
+the-dump 2022-06-19 23:16:22 <@619312093962829849> this is just too perfect of music
+creations-chat 2022-06-20 01:54:20 im gonna paint this with jet wars colors can someone get me some screenshots
+creations-chat 2022-06-20 02:24:15 new map reveal
+creations-chat 2022-06-20 02:28:30 STOP UPVOTING IT
+
+ITS DOGWATER
+creations-chat 2022-06-20 03:10:03 <@921250489281159231> join jet stream
+bot-central 2022-06-20 03:12:54 ;;leave
+bot-central 2022-06-20 03:14:22 ;;leave
+the-dump 2022-06-20 16:54:49 https://cdn.discordapp.com/attachments/940115076977930300/946490422174294176/oh.gif
+creations-chat 2022-06-20 21:14:38 ok so what do I do with my shit f-15
+creations-chat 2022-06-22 22:05:18 the stupid fucking bot
+creations-chat 2022-06-23 14:50:58 lmfao
+bot-central 2022-06-23 16:27:34 ;;skip
+bot-central 2022-06-23 16:27:37 ;;play big iron
+bot-central 2022-06-23 16:28:04 ;;join
+bot-central 2022-06-23 16:28:43 ;;queue
+bot-central 2022-06-23 16:28:51 why cant i hear anything
+bot-central 2022-06-23 16:28:54 ;;resume
+bot-central 2022-06-23 16:28:58 ;;skip
+bot-central 2022-06-23 16:29:11 ;;shuffle
+bot-central 2022-06-23 16:29:16 ;;loop all
+bot-central 2022-06-23 16:29:21 ;;queue
+bot-central 2022-06-23 18:13:44 ;;play bloons td 6 party time
+bot-central 2022-06-23 18:20:06 ;;play
+bot-central 2022-06-28 01:57:35 -servers

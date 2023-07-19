@@ -1,0 +1,25 @@
+The Tale of shadowseekers (251282379770036225)
+help 2023-03-21 13:38:34 Yo
+help 2023-03-21 13:39:07 why does this build jiggle and doesnt hold in place
+help 2023-03-21 14:48:21 what does this mean
+help 2023-03-21 14:48:26 btw i fixed it by putting delta wings over the tnt
+help 2023-03-21 14:49:53 thanks
+help 2023-03-21 14:52:17 oh yeah
+help 2023-03-21 14:52:22 also how do i make my plane turn faster
+help 2023-03-21 14:53:19 both
+help 2023-03-21 14:54:44 alr
+help 2023-03-21 15:32:54 <@812412391794016349> sorry to bother you but why doesnt my heli take off
+help 2023-03-21 15:37:04 it just spins around
+help 2023-03-21 15:37:09 damn
+help 2023-03-21 17:59:27 i have fixed it. it no longer spins but it doesnt have enough power to take off
+help 2023-03-21 17:59:29 any help?
+help 2023-03-21 17:59:45 ii fixed the spinning by decreasing motor speed
+help 2023-03-21 18:00:36 unwanted
+help 2023-03-21 23:36:32 how do i make a motorlock
+help 2023-05-01 13:25:16 Why does my plane turn so slow?
+help 2023-05-05 18:30:10 how fix slow turning
+help 2023-05-05 18:45:47 kill
+help 2023-05-05 18:45:48 you
+bug-reports 2023-07-16 15:20:59 rockets aint showing upwhen you fire them
+bug-reports 2023-07-17 15:14:00 yes
+bug-reports 2023-07-17 15:14:12 the rocket models werent visible when you shot them

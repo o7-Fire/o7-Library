@@ -1,0 +1,112 @@
+The Tale of wiss_s. (500326657928855552)
+help 2021-09-10 13:21:55 So I used conveyor engine for this and if I turn right the speed go to 0 and If turn left speed just go up and up.
+help 2021-09-10 13:22:02 anyone got any idea?
+help 2021-09-10 13:23:33 bcuz the other engine just kill the fps
+help 2021-09-10 13:24:58 when I set it to low speed after I turn left the speed just increase but when I turn right the speed decrease
+help 2021-09-10 13:26:07 in the middle
+help 2021-09-10 14:07:31 um
+help 2021-09-17 14:40:59 Is there anyway to put the 6 engine in?
+help 2021-09-17 14:41:15 
+help 2021-09-18 10:44:20 D:
+help 2021-09-26 14:25:41 Happened quite often. Any way to fix it permanently?
+help 2021-09-26 14:27:24 I used lock motor
+help 2021-09-26 14:27:45 yes
+help 2021-09-26 14:28:08 wait
+help 2021-09-26 14:28:16 what do you mean?
+help 2021-09-26 14:28:20 thx
+help 2021-09-26 14:28:38 yes
+help 2021-09-26 14:28:51 oh no
+help 2021-09-26 14:28:57 I did not
+help 2021-09-26 14:30:15 oh you mean the front wing?
+help 2021-09-26 14:31:19 the front use 2 motor two at the start of the wing.
+but the back I used lock motor
+help 2021-09-26 14:31:38 idk
+help 2021-09-26 14:31:50 it's locked
+help 2021-09-26 14:32:46 every motor 1 that used in the folding process are locked
+help 2021-09-26 14:33:07 locked
+help 2021-09-26 14:33:24 dude it's locked
+help 2021-09-26 14:33:38 no
+help 2021-09-26 14:34:38 at  the start of the vid I activated it but after that it just being weird
+help 2021-09-26 14:35:39 .
+bot-central 2021-09-26 21:55:34 !rank
+help 2021-10-02 10:07:00 So I work on a new An-225 and the suspension keep fling the plane any good way to fix it?
+help 2021-10-02 10:07:34 
+help 2021-10-02 10:07:36 it look like this
+help 2021-10-02 10:08:06 
+help 2021-10-02 10:08:11 when it lock
+help 2021-10-02 21:10:25 How to make suspension less shaky?
+help 2021-10-02 21:33:44 yes
+help 2021-10-02 22:32:26 yes
+help 2021-10-02 22:33:05 you mean this?
+help 2021-10-02 22:33:12 still working on it
+help 2021-10-02 22:33:16 mustard
+help 2021-10-02 22:33:30 I need to finished the whole thing before do the vtol
+help 2021-10-02 22:35:01 no I and I don't think it would work. I used piston because the suspension can't handle the weight.
+help 2021-10-03 07:41:14 use the rotor to go up not the propeller
+help 2021-10-16 05:39:11 anyone know about this
+help 2021-10-16 05:39:21 the legacy box
+help 2021-10-16 05:40:40 idk
+help 2021-10-16 05:44:28 It behave like normal missile
+help 2021-10-16 05:44:34 when i tested it
+help 2021-10-16 05:45:41 my friend said it aim better
+help 2021-10-16 05:45:51 like it goes where you aim
+help 2021-10-16 05:46:00 but still track
+help 2021-10-16 06:31:43 my friend said
+help 2021-10-16 06:31:55 pick closest block or center of mass
+and adjust to that angle from a distance
+this allows the missile to actually lock instead of panic spiral
+help 2021-10-16 06:31:59 It does this
+creations-chat 2021-10-16 20:08:35 so I'm making a SU-75 I don't know if the nose or the plane itself look weird 
+so I thought you guys might know 
+https://cdn.discordapp.com/attachments/758356110964424714/899023813344378940/unknown.png
+https://cdn.discordapp.com/attachments/758356110964424714/899023867429933086/unknown.png
+https://cdn.discordapp.com/attachments/758356110964424714/899023977794646046/unknown.png
+https://cdn.discordapp.com/attachments/758356110964424714/899024182665412648/unknown.png
+pls give me some feedback 😄
+creations-chat 2021-10-16 20:17:05 thx for the tip 😄
+help 2021-10-22 06:11:21 anyone had problem with folding build today?
+help 2021-10-22 06:25:28 oh thx
+help 2021-10-27 06:38:58 This is my Leopard 2a7 turret (front) and I need help doing this part.
+help 2021-10-27 06:38:59 
+help 2021-10-27 06:51:44 
+help 2021-10-27 06:51:53 it had a hole
+help 2021-10-27 06:53:57 yes
+help 2021-10-27 06:54:28 ?
+help 2021-10-27 06:55:25 I'll try that
+help 2021-10-27 06:56:07 oh and this is the unlock version
+help 2021-10-27 06:56:46 lmao
+help 2021-10-27 06:57:49 uhm idk I like to make the lock very close together to save space
+help 2021-10-27 06:59:28 I had a leopard 3d model soo I don't need that :>
+help 2021-11-03 01:30:33 anyone know how to fix this (I had a 3060)
+help 2021-11-03 01:34:01 you mean the graphic card?
+help 2021-11-03 01:51:09 
+help 2021-11-03 01:51:28 
+help 2021-11-03 01:51:45 lol
+help 2021-11-03 01:51:47 :>
+help 2021-11-03 01:53:21 lmao
+help 2021-11-03 01:56:11 you mean motor 2?
+help 2021-11-03 01:56:49 1 never happened to me but 2 always happened
+help 2021-11-03 01:57:24 try balance left and right might help
+help 2021-11-03 01:58:01 yes
+help 2021-11-03 01:59:08 lock the motor 1 it fix the floppy motor
+help 2021-11-07 15:15:35 so this is my A-10 head and it's quite big 
+so I need you guys opinion on should I remake it and make it smaller or continue doing this
+help 2021-11-07 15:17:09 well I think about it and I can't decided :/
+help 2021-11-07 15:21:03 well I think about this for over a week
+help 2021-11-07 15:21:49 well yes I can
+help 2021-11-10 11:09:39 can anyone overlay this with the F-35B blueprint?
+help 2021-11-10 11:45:54 thx
+help 2021-11-23 02:32:22 so I'm making a ac-130j-30 stinger
+and there is something off about it and I don't know what is it.
+anyone got any idea?
+help 2021-11-23 02:37:57 ?
+help 2021-11-23 02:38:02 like it should be smaller?
+help 2021-11-23 02:53:14 you mean make it sharper?
+help 2021-11-23 02:54:27 oh ok
+help 2021-11-28 09:25:17 anyone?
+help 2021-11-28 09:26:10 don't work
+help 2021-11-28 09:27:56 I rejoined this happened
+help 2021-11-28 09:27:58 everytime
+help 2021-11-28 09:30:41 :/
+help 2021-11-29 06:03:19 is the engine to big?
+help 2021-11-29 06:31:53 ok

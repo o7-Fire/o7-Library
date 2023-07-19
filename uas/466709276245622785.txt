@@ -1,0 +1,165 @@
+The Tale of alfies_funtime (466709276245622785)
+bot-central 2021-04-11 03:37:32 !rank
+bot-central 2021-04-11 03:54:23 !rank
+bot-central 2021-04-11 04:02:46 !rank
+bot-central 2021-04-11 04:08:49 !rank
+bot-central 2021-04-11 04:14:35 !rank
+bot-central 2021-04-11 04:18:18 !rank
+bot-central 2021-04-11 04:19:48 Yep
+bot-central 2021-04-11 04:22:21 !rank
+bot-central 2021-04-11 04:24:32 !rank
+bot-central 2021-04-11 04:28:55 !rank
+bot-central 2021-04-11 04:29:11 Ik
+creations-chat 2021-04-11 04:35:57 <@!655087990418309140> I like the wheels design on your M5 Sherbert
+creations-chat 2021-04-11 04:37:59 When i was very bad at the game, my friend let me copy his car, which has similar wheels, but instead of those wedges, they were half blocks, but they glitched out sometimes when it went downhill, and got flung up into the air, i think it could've been the suspention config, i'm not sure though
+creations-chat 2021-04-11 04:40:49 Why does everyone think my zeppelin is a blimp...?
+creations-chat 2021-04-11 04:43:12 Actually a zeppelin works by multiple cells of helium/hydrogen, so its not even a balloon, its actually a frame allowing it to be streamline but my one doesnt really copy the inner workings
+creations-chat 2021-04-11 04:52:11 Actually i was just correcting someones statement
+bot-central 2021-04-11 05:37:32 !rank
+the-dump 2021-04-11 05:44:24 I think my computer hates me at this point
+the-dump 2021-04-11 05:46:27 ..What?
+the-dump 2021-04-11 05:46:43 Nope
+the-dump 2021-04-11 05:46:46 Actually coded it
+the-dump 2021-04-11 05:47:12 I used the snipping tool though
+the-dump 2021-04-11 05:47:43 I used a vbs file
+the-dump 2021-04-11 05:47:47 With msgbox
+the-dump 2021-04-11 05:48:06 `x=msgbox("Could not copy files because NO!!" ,0+48, "HA HA!")` is the source code, only one line
+the-dump 2021-04-11 05:48:55 It turned into that quality because thats the quality of the icon in windows
+the-dump 2021-04-11 05:49:27 I used vbscript
+the-dump 2021-04-11 05:49:32 So i did make the error myself
+the-dump 2021-04-11 05:50:06 Ok, but i can't be bothered to learn a whole knew language
+the-dump 2021-04-11 05:50:56 What i could just type "Make an error message that says Ha Ha! Cannot copy files because NO!!"
+the-dump 2021-04-11 05:51:03 I don't think macros work like that
+the-dump 2021-04-11 05:53:42 Excel is your way of doing it, writing code is my way of doing it...
+the-dump 2021-04-11 05:54:06 It will come up with a similar result in the end so it doesnt matter
+creations-chat 2021-04-11 06:32:05 Thanks
+bot-central 2021-04-11 13:22:13 !rank
+help 2021-04-11 13:43:55 Probably make the tail go a bit upwards before making it close in
+help 2021-04-11 13:44:29 And dont forget to add turning propellers on the tail
+help 2021-04-11 13:44:44 Also add some delta wings
+creations-chat 2021-04-11 13:50:24 <@456226577798135808> Nice that your getting started on Plane Crazy
+creations-chat 2021-04-11 13:52:39 You made me think you were just starting Plane Crazy after you joined the server lol
+bot-central 2021-04-11 13:54:50 !rank
+bot-central 2021-04-11 14:06:56 !rank
+creations-chat 2021-04-11 14:11:22 <@!548288101961826319> Nice
+I like the motor locking
+creations-chat 2021-04-11 14:13:24 Maybe compare its size with your character, or something else
+For proof
+help 2021-04-11 14:18:21 Yeah, it looks decent
+creations-chat 2021-04-11 14:18:58 Hes probably building a bigger version lol
+
+The image is pixelated so it might be a normal sized tutorial plane
+bug-reports 2021-04-11 14:24:12 Well something that fixed that when i had that problem is getting a faster computer
+bug-reports 2021-04-11 14:24:16 But that is costly
+bug-reports 2021-04-11 14:24:39 Its mainly from the CPU being too slow
+bug-reports 2021-04-11 14:24:54 Maybe upgrade your CPU and it will be faster
+bug-reports 2021-04-11 14:25:20 Just check task manager
+bug-reports 2021-04-11 14:26:23 Roblox likes to limit its CPU utilisation at 50%
+bug-reports 2021-04-11 14:26:40 And if its going to like 56% thats a clue you might need a new CPU
+bug-reports 2021-04-11 14:26:56 If your GPU is going like 95% then you'll need a new GPU
+creations-chat 2021-04-11 14:27:41 <@456226577798135808> Lol look at all those propellers
+I'm gonna join you and see if for myself lol
+creations-chat 2021-04-11 14:31:22 I think its because expectations are quite high on this server
+Don't be sad about it, you will get better
+creations-chat 2021-04-11 14:37:22 Well its actually a tutorial plane but bigger lol
+creations-chat 2021-04-11 14:39:29 Ik
+creations-chat 2021-04-11 14:41:47 In my opinion, yes
+creations-chat 2021-04-11 15:00:18 Make it heavier on the back
+creations-chat 2021-04-11 15:06:42 Move the wings forward
+creations-chat 2021-04-11 15:09:05 Yeah, its decent
+help 2021-04-11 15:15:05 Have you checked that music is on?
+(It has to at least be on client)
+bot-central 2021-04-11 20:00:00 !rank
+creations-chat 2021-04-12 07:38:29 Neon hyperdrive
+help 2021-04-12 07:40:21 Motor locking and pistons
+help 2021-04-12 07:40:42 Wedges motorlocked together
+help 2021-04-12 07:40:45 No wait
+help 2021-04-12 07:40:47 Wedge
+help 2021-04-12 07:40:57 Wait i forgot the name of it
+help 2021-04-12 07:41:15 I think its called wedge out
+help 2021-04-12 07:41:23 Not sure, i havent used it much
+help 2021-04-12 07:41:41 Or you can use normal wedges
+help 2021-04-12 07:41:50 Depends on what kind of detail you want
+help 2021-04-12 07:41:53 Smoother or sharper
+help 2021-04-12 07:42:11 Your welcome
+bot-central 2021-04-12 07:42:28 !rank
+the-dump 2021-04-12 07:44:10 When want to play roblox, but you see this
+the-dump 2021-04-12 07:44:49 (Ik it is, i cant be bothered to actually crash roblox)
+the-dump 2021-04-12 07:45:31 (Also this was real, my CPU kept overheating on my old PC causing this exact error)
+help 2021-04-12 07:46:26 Idk, but i think it will look cool!
+creations-chat 2021-04-12 07:49:34 Not sure, not really experienced in motor locking, would you like me to test?
+creations-chat 2021-04-12 07:51:39 Ok, takes me a while to load on roblox with my internet, i'll come back soon with results. I will also provide a picture if it was successful.
+creations-chat 2021-04-12 07:53:42 Finally my internet will let me load, let me think of a design of a tower
+creations-chat 2021-04-12 07:57:32 Sorry, i can't come up with a 1x2 design without all the motors breaking apart, the 3rd and the 1st part of the tower links them together, 1x3 is the most compact design
+creations-chat 2021-04-12 07:59:40 But i think a 2x2 design is possible, i'll go and try and make that
+creations-chat 2021-04-12 08:02:17 Nope, not possible, again, i am not really experienced in motor locking, so i will struggle making up my own design
+bot-central 2021-04-12 08:30:19 !rank
+help 2021-04-13 01:25:08 Well swearing is ok in this server
+bug-reports 2021-04-13 01:26:33 Well i have that problem when my ping goes high, so its mostly an internet problem i think
+bot-central 2021-04-13 01:30:50 !rank
+bug-reports 2021-04-13 01:35:03 I think you just need lower ping/higher internet speed and that will fix the problem, since thats what happens to me when my internet slows down
+bot-central 2021-04-13 03:04:15 !rank
+bot-central 2021-04-13 03:04:25 Wow
+help 2021-04-13 03:11:33 I've seen a glitch that does that but i'm not sure how to
+help 2021-04-13 03:12:02 What i do is i use paint.net (not a website)
+bot-central 2021-04-13 04:00:11 !rank
+the-dump 2021-04-13 18:59:26 Autoclicker, i think you need to learn how to spell
+bot-central 2021-04-13 19:01:21 !rank
+bot-central 2021-04-13 19:02:05 !help
+the-dump 2021-04-13 19:06:40 No, its not a virus, i coded it myself just for that purpose
+the-dump 2021-04-13 19:11:42 The autoclicker that spells things wrong has updated, it still doesnt know how to spell
+the-dump 2021-04-13 19:14:49 You'll be violating this rule if you do
+You can see it in <#533294912586645521>
+the-dump 2021-04-13 19:15:10 So probably a good idea not to
+the-dump 2021-04-13 19:15:39 You can't rn
+the-dump 2021-04-13 19:16:07 Plane Crazy doesnt have enough moderators
+the-dump 2021-04-13 19:16:22 It says in <#623337136267067393>
+bot-central 2021-04-13 20:04:48 !rank
+bug-reports 2021-04-13 20:06:20 I'm pretty sure <-- scammer is roblox anti scam
+Because i think i seen it in other games
+creations-chat 2021-04-14 02:05:16 It clearly looks fake
+creations-chat 2021-04-14 02:07:19 Ok, i'll say some reasons why it is fake
+1. The gui is not fitted to the screen properly
+2. The gui is pixelated
+3. The lighting is wrong
+4. Some of the GUI is missing
+5. Some of the GUI is stretched out
+6. Where is the roblox and chat and ... icon?
+7. It shows him in build mode when the build is outside the plot
+creations-chat 2021-04-14 02:09:21 Lights are available the blocks catagory
+creations-chat 2021-04-14 02:11:45 I said that in 7.
+creations-chat 2021-04-14 02:13:57 HA! Jetpack was available on the other one but its not available here!!!
+creations-chat 2021-04-14 02:16:09 Also, his jetpack gamepass can't randomly disappear!
+And the gui is a bit pixelated but upscaled
+creations-chat 2021-04-14 02:21:08 Ok, because everyone doesn't believe your build is real, make your friend take a video of it WITHOUT SHADERS
+creations-chat 2021-04-14 02:23:12 The friend was on build mode, thats what he said
+creations-chat 2021-04-14 02:25:18 Wait, on that picture, Parachute is in English
+creations-chat 2021-04-14 02:27:20 But, that picture is in spanish! on this message: https://discord.com/channels/384021699466756103/504436696021204992/831714828438601749
+Also the slowmode is sooo long!!!!
+creations-chat 2021-04-14 02:31:19 Maybe everyone should carry on the converation in <#384021699466756107>
+creations-chat 2021-04-14 02:34:14 Hes on a full server, i tried using rosearcher to join him
+creations-chat 2021-04-14 02:40:32 Ok i'm in the server with him to prove if the build is real
+I can't see his build anywhere but i am as laggy as ever
+creations-chat 2021-04-14 02:44:58 Yep, hes right, it is real
+creations-chat 2021-04-14 03:18:49 Same
+bot-central 2021-04-14 03:39:16 !rank
+creations-chat 2021-04-14 08:27:35 Lol
+bot-central 2022-02-18 16:59:41 ?shelp
+bot-central 2022-02-18 16:59:47 ?rhelp
+bot-central 2022-02-18 17:07:10 ?
+bot-central 2022-02-18 17:07:13 ?shelp
+bug-reports 2022-03-24 19:59:19 Buttons don't scale to screen resolution
+[Mobile]
+The touch buttons on mobile don't scale to screen resolution.
+This breaks some builds on some devices
+
+Device with higher resolution: https://cdn.discordapp.com/attachments/895408359312875521/956642202870759424/unknown.png
+Device with lower resolution: https://cdn.discordapp.com/attachments/895408359312875521/956642778299920504/Screenshot_20220324-195628_Roblox.jpg
+bug-reports 2022-03-24 20:15:29 What servers?
+bug-reports 2022-03-24 20:16:15 I taken those screenshots a VIP server and it worked fine
+bug-reports 2022-03-24 20:27:27 A private server
+bug-reports 2022-03-24 20:29:08 Oh
+bug-reports 2022-03-24 20:35:40 Ok
+bug-reports 2022-03-24 21:51:05 Phone screen resolutions have actually gone down on flagship models
+bug-reports 2022-03-24 21:51:32 Mainly play on PC actually
+bug-reports 2022-03-24 21:53:20 Because a PC isn't portable and I was reporting a bug

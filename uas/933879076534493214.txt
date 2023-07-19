@@ -1,0 +1,22 @@
+The Tale of codingfire (933879076534493214)
+the-dump 2023-03-09 23:23:52 hb
+help 2023-06-15 13:09:19 my blocks are completely still and dont move
+help 2023-06-15 13:09:58 no idea when i launch my cannon
+help 2023-06-15 13:10:02 the bomb doesnt move at all
+help 2023-06-15 13:11:18 that doesnt change anything
+help 2023-06-15 13:11:24 nor does setting it to physics change anything
+help 2023-06-15 13:11:59 here's the cannon in its current state
+help 2023-06-15 13:17:56 i think its a roblox issue
+help 2023-06-15 13:20:16 actually i fixed it by replacing one of the cylinders with wing panel
+help 2023-06-15 13:20:17 O_O
+help 2023-06-15 13:20:23 idk why that worked
+help 2023-06-15 13:20:37 but yeah its def a roblox issue
+help 2023-06-15 23:29:55 wdym
+help 2023-06-15 23:33:00 it was a roblox issue, the block thought it was still anchored even though it wasnt connected
+help 2023-06-15 23:33:05 unanchoring it fixed the issue
+help 2023-06-15 23:35:57 why
+help 2023-06-15 23:36:04 why would that help
+help 2023-06-15 23:36:44 okay
+help 2023-06-15 23:37:59 quite werid that somehow works
+help 2023-06-15 23:38:34 but i literally will not be able to turn the cannon effectively
+edit: i just attached motor 2's to motor 1's 🧌

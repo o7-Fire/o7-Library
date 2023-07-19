@@ -1,0 +1,12 @@
+The Tale of skrumshish (653439380144259094)
+help 2021-04-14 06:13:22 how do u make something hover when its uneven
+help 2021-08-19 03:05:50 How do I make a tentacle curve
+help 2021-08-19 03:06:05 No like
+help 2021-08-19 03:06:07 How do I set the motor
+help 2021-08-19 03:06:15 So it can curve without it messing up
+help 2021-08-19 03:06:22 The degrees of the motor
+help 2021-08-19 03:06:28 The power of what it does
+help 2021-08-19 03:20:09 
+help 2021-08-19 03:20:13 I’m trying to make this do a backward c
+help 2021-08-19 03:20:25 But it’s not doing that
+help 2021-08-19 03:20:27 How can I fix it

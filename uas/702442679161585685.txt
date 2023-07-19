@@ -1,0 +1,16 @@
+The Tale of gonzopl (702442679161585685)
+bug-reports 2020-06-19 06:30:50 I spawned with a guy on same plot
+bot-central 2020-06-22 08:26:19 -p https://www.youtube.com/watch?v=cPCLFtxpadE
+bot-central 2020-06-22 08:27:06 =play https://www.youtube.com/watch?v=cPCLFtxpadE
+bot-central 2020-06-22 08:28:05 =loop
+bot-central 2020-06-22 17:12:31 =p https://www.youtube.com/watch?v=cPCLFtxpadE
+bot-central 2020-06-22 17:14:10 =loop
+bot-central 2020-06-22 17:16:58 =p thomas theme
+bot-central 2020-06-22 17:18:42 =skip
+bot-central 2020-06-22 17:19:35 =disconnect
+bot-central 2020-06-22 17:24:20 =p thomas theme
+bot-central 2020-06-22 17:24:40 =loop
+bot-central 2020-06-22 17:28:57 =p https://www.youtube.com/watch?v=UtagUSECwOw
+bot-central 2020-06-24 14:23:32 =p Roundabout (2008 Remastered Version)
+bot-central 2021-01-23 03:27:29 =p im still standing
+bot-central 2021-01-23 03:30:11 =p Panama

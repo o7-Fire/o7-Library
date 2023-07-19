@@ -1,0 +1,5 @@
+The Tale of tylerrr. (428971870398971925)
+bot-central 2020-08-22 16:43:57 !rank red
+bot-central 2020-08-22 16:44:04 !getroles red
+bot-central 2020-08-22 16:44:10 !role read
+bot-central 2020-08-22 16:44:13 !roleme red

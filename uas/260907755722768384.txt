@@ -1,16 +1,57 @@
-conflated.
-plane-crazy 2020-05-13 17:57:19 what's the config for the speaker blocks? I want to know the functionality before buying
-plane-crazy 2020-03-01 22:11:41 reset again?
-plane-crazy 2020-03-01 21:18:49 "no"
-plane-crazy 2020-03-01 21:18:47 "server is kil"
-plane-crazy 2020-03-01 21:18:20 yep
-plane-crazy 2020-03-01 20:46:36 what does the "drag" option do in the hoverpads?
-plane-crazy 2020-01-18 23:41:34 <@!340543153922768906> congrats you can use cameras
-plane-crazy 2020-01-18 22:09:19 damn, might need to retune some of my cars when it goes away
-plane-crazy 2020-01-18 22:05:06 quick q, does the snow on the map have less grip than the usual grass?
-plane-crazy 2020-01-10 03:30:04 Yo could someone list out all the winter items? Not sure if I have them all yet.
-plane-crazy 2019-09-10 03:23:42 thatnks
-plane-crazy 2019-09-10 03:23:41 for some reason it wasnt working before
-plane-crazy 2019-09-10 03:23:35 ok
-plane-crazy 2019-09-10 03:23:34 wait
-plane-crazy 2019-09-10 03:22:51 hey is there a way to make servos go the other way
+The Tale of conflated. (260907755722768384)
+bug-reports 2018-11-25 22:43:12 The new triangle wedge 1x2 does not save colors
+bug-reports 2018-11-25 22:43:28 same problem that the pyramid wedge and half corner wedge used to have
+bug-reports 2018-11-25 22:43:57 it can be colored though.
+bug-reports 2018-11-25 22:44:07 the color just doesn't save
+creations-chat 2018-11-25 23:01:33 thanos f16 thanos f16 (not sorry)
+creations-chat 2018-11-26 16:30:42 [Nonspecific Tiltrotor VTOL] | [LoopholeHacker] | [507 blocks] | Expert Technician]
+help 2019-03-27 17:07:37 OK so I took a break from this game for a couple weeks and when I came back most of my stuff doesn't fly anymore. Is this a bug in the process of being fixed or is this just how the game is now?
+help 2019-03-27 17:07:48 If the latter I have the scrap a bunch of good designs
+help 2019-03-27 17:07:53 have to*
+help 2019-03-27 17:25:22 For some reason they don't get sufficient lift of something, it might have to do with control surfaces
+help 2019-03-27 17:25:27 was mass adjusted recently
+help 2019-03-27 17:32:50 i guess they all seem frontheavy
+help 2019-03-27 20:07:53 messed up*
+creations-chat 2019-05-24 22:23:25 mini jet
+creations-chat 2019-05-24 22:26:31 F16 (245 blocks)
+bug-reports 2019-08-17 06:13:45 when motors have a lot of mass attached to them, if you let go of the forward/backward button it stops rotating abruptly and then the motor starts freaking out. i recommend making a checkbox that allows them to speed up or slow down gradually
+bug-reports 2019-08-17 06:14:25 when it freaks out the motor rotates and jitters randomly and makes the whole creative have a seizure.
+bug-reports 2019-08-17 06:14:35 creation*
+bug-reports 2020-01-06 21:10:53 I think the rockets don't reload if you don't hit anything. It will reload if you hit something. Still needs to be fixed afaik
+bug-reports 2020-01-11 18:52:18 Motor 2s sometimes won't work after you exit the vehicle and get back in
+creations-chat 2020-01-12 23:53:54 Trophy Truck (w/ accurate suspension)
+creations-chat 2020-01-12 23:53:55 
+creations-chat 2020-01-12 23:55:13 danke
+creations-chat 2020-01-12 23:58:51 cheese?
+creations-chat 2020-01-19 21:21:29 looks like a beast build to me
+creations-chat 2020-01-19 22:02:57 bihg sosig
+creations-chat 2020-01-19 22:51:14 It's one tread, I see no other feasible way he could make it turn.
+creations-chat 2020-01-19 23:02:07 reactions wheels are just as cheesy as thrusters. thrusters don't make a build "bad".
+creations-chat 2020-01-20 01:24:54 The guys on here can be toxic
+creations-chat 2020-01-20 01:28:32 🅱️ olonel 🅱️ ogan
+creations-chat 2020-01-20 01:48:23 noobs these days don't even know how to accurately recreate a 16 bit computer inside plane crazy smh my head
+help 2020-01-20 05:16:13 this is the place where you request ranks, right?
+help 2020-01-20 06:23:48 VTOL (inspired by V22 Osprey) requesting VTOL Engineer II
+help 2020-01-20 06:23:50 
+help 2020-01-20 06:23:58 
+bug-reports 2020-01-20 06:59:48 servos sometimes stop working after getting out of the pilot seat
+help 2020-02-13 02:27:10 Low profile treaded rover (requestin Terrain I)
+help 2020-02-13 02:27:11 
+help 2020-02-13 02:27:12 
+help 2020-02-13 03:22:58 damn then im 1 upvote short of designer IV
+help 2020-02-13 03:24:04 oh well Designer III it is (requesting)
+help 2020-04-06 23:47:58 did the latest update change mass values? some of my planes dont work anymore
+help 2020-04-06 23:52:21 something changed, and none of my planes work like they used to. thanks a bunch,
+help 2020-04-07 00:03:41 what possible reason would you have to change a vital setting
+help 2020-04-14 15:58:03 why was the default camera changed to the weird follow camera
+help 2020-05-13 18:09:11 hey could someone show me the speaker config? i need to know the functionality before i decide to buy it
+bug-reports 2020-05-29 14:35:23 Huge jet engine isn't nearly powerful enough for its weight, can't even lift itself off the ground. Been like that as long as I can remember. Will anything be done about that?
+bug-reports 2021-01-07 05:21:17 Heavy creations will sometimes bounce around when there are only a few points of contact with the ground (i.e. a large plane with 3 landing gear)
+bug-reports 2021-01-07 05:24:09 Especially if they have moving parts (folds in my case)
+bug-reports 2021-01-07 05:30:15 Upon further testing I think the wheels of the landing gear were causing it, but it's still a bug
+help 2021-01-08 03:15:11 When I make my rank request, will my evidence video be limited by Discord filesize limits or can I provide a link to a YouTube video?
+creations-chat 2021-01-08 21:34:40 no...?
+bug-reports 2021-01-20 04:20:46 what kind of update would change something as simple as a motor 2 so radically?
+bug-reports 2021-01-20 04:27:39 was it a roblox update?
+bug-reports 2021-01-23 06:43:15 mOtOr 2 BROekE
+bug-reports 2022-02-26 02:22:42 Chat lag makes plane crazy nearly unplayable. A big spike every time someone sends a message in chat.

@@ -1,0 +1,104 @@
+The Tale of monsterpossome (682276986453884949)
+help 2021-04-17 12:11:07 Hello, I have been building a very large aircraft carrier for 2 weeks now, it is now 12K blocks while it is half-built and I have a big performance problem, if there are more than 2,500 blocks around in the server where I am (+ my aircraft carrier), when I want to test it in the water, the boat loads, this tp, but the game does not teleport me on it, and if I try to go to the aircraft carrier walking and swimming, when I go to the main pilot seat nothing works, while everything is fine when I spawn on the base, I have hundreds of errors in the dev terminal I can send you screens if needed, but HELP ME!
+bug-reports 2021-04-17 12:11:15 Hello, I have been building a very large aircraft carrier for 2 weeks now, it is now 12K blocks while it is half-built and I have a big performance problem, if there are more than 2,500 blocks around in the server where I am (+ my aircraft carrier), when I want to test it in the water, the boat loads, this tp, but the game does not teleport me on it, and if I try to go to the aircraft carrier walking and swimming, when I go to the main pilot seat nothing works, while everything is fine when I spawn on the base, I have hundreds of errors in the dev terminal I can send you screens if needed, but HELP ME!
+bug-reports 2021-04-29 22:37:54 Hi everyone I need your help I'm making a huge boat which is currently 12k blocks and when I launch this one the boat teleport into the water but not me and if I try to go in on foot, no button works do you have a solution?
+bug-reports 2021-04-29 23:00:48 Why ?
+bug-reports 2021-04-29 23:09:30 For now I have very good perf the error come of the server not of me When I tested it on private serv, it work with 11K blocks
+bug-reports 2021-04-29 23:29:10 I have 3 ancored blocks, and when I come check in my task manager I'm ok in RAM
+creations-chat 2021-09-12 17:01:40 I like it
+bot-central 2021-09-12 17:02:03 !rank
+bot-central 2021-12-29 02:20:06 !rank
+the-dump 2021-12-29 02:28:22 How repair your PC
+the-dump 2021-12-29 03:12:04 wtf
+the-dump 2021-12-29 03:12:26 <:fakesmile:867383465040019466> ah...
+bot-central 2021-12-29 03:13:13 !rank
+the-dump 2021-12-29 03:13:29 ?
+the-dump 2021-12-29 03:13:32 I'm french
+the-dump 2021-12-29 03:13:51 <:sadcat:864191426878504990>
+the-dump 2021-12-29 03:14:25 ?
+the-dump 2021-12-29 03:15:26 I see people are funny here
+help 2021-12-29 07:42:09 use ancored blocks when you deploy it
+help 2021-12-29 07:42:42 And if he continu to fall, put some cams on the sides
+creations-chat 2021-12-29 07:46:21 What do you think about my little carrier, for know If I finish it
+help 2021-12-29 07:49:13 put some cams on the sides
+help 2021-12-29 08:08:43 Hello I would like able to have shipwright role, but I can't move my ship can some one help me (he does 14.6K blocks and he is not totaly finished)
+help 2021-12-29 08:14:45 wdym ?
+help 2021-12-29 08:15:01 Idk what means wdym
+the-dump 2021-12-30 23:19:54 This not my build I want report him
+the-dump 2021-12-30 23:19:59 but reports are closed
+the-dump 2021-12-30 23:20:06 k
+the-dump 2021-12-30 23:20:27 And rickje said don't send him reports
+the-dump 2021-12-30 23:21:22 k but how can I report him ?
+the-dump 2021-12-30 23:22:04 his pseudo: RobinPopetje4729
+the-dump 2021-12-30 23:22:48 I keep this screen and when reports reopen I will report this guy
+bot-central 2022-04-19 16:57:29 !rank
+creations-chat 2022-04-30 02:17:40 I'm trying to make the French Charles de Gaulle, can you rate my actual build ?
+creations-chat 2022-04-30 02:19:22 I took a 3D model and I made what I can
+creations-chat 2022-04-30 02:31:45 ???
+help 2022-05-18 13:21:29 Hey am trying to make The Charles de Gaulle, but I got some problem, can someone help me ?
+help 2022-05-18 13:23:23 Can I stream you ?
+help 2022-05-18 13:23:58 angles locks, motor lock and some details
+help 2022-05-18 13:24:17 wait I screen
+help 2022-05-18 13:26:06 Do you see the red part, I need 3 more blocks on the right but I miss place cuz there is an other motor lock just 1 block on right of this part
+help 2022-05-18 13:26:37 ?
+help 2022-05-18 13:27:12 That for this reason I need stream you
+help 2022-05-18 13:27:34 a
+help 2022-05-18 13:27:35 hm
+help 2022-05-18 13:28:07 The red part go's here
+help 2022-05-18 13:28:08 on the left
+help 2022-05-18 13:28:29 she make 5 block
+help 2022-05-18 13:28:35 but this wall make 7
+help 2022-05-18 13:28:55 and I can't place 2 blocks for a wall or this block an other angle lock
+help 2022-05-18 13:29:07 I want build the full interior of my build
+help 2022-05-18 13:29:38 ok wait
+help 2022-05-18 13:30:19 
+help 2022-05-18 13:30:29 That what we see when that lock
+help 2022-05-18 13:30:33 locked*
+help 2022-05-18 13:31:39 If I make that
+help 2022-05-18 13:31:47 That block the wall on the right
+help 2022-05-18 13:32:03 ?
+help 2022-05-18 13:33:41 this part turn for make an angle lock
+help 2022-05-18 13:34:08 and if I place somethings where you tell me, that block the rotation
+help 2022-05-18 13:34:34 tryed but we see that not complete blocks on the exterior
+help 2022-05-18 13:34:37 and I don't like that
+help 2022-05-18 13:35:52 and we see that not complete block on the orange part
+help 2022-05-18 13:36:49 and I forget but there are cams who block the rotation if I place something
+help 2022-05-18 13:36:53 even disconnectors
+help 2022-05-18 17:32:33 The Charles de Gaulles With half dimension, with full motor locks and customs angles
+help 2022-05-18 17:32:42 with 2 accounts*
+help 2022-05-18 17:33:54 Why ?
+help 2022-05-18 17:34:19 ok and ?
+help 2022-05-18 17:34:27 I'm 16
+help 2022-05-18 17:34:41 But why do you think I'm under 13 ?
+help 2022-05-18 17:34:56 and If you don't trust me
+help 2022-05-18 17:35:04 I can send my identity card
+help 2022-05-18 17:35:54 Come voc we will verify
+help 2022-05-18 17:36:05 ?
+help 2022-05-18 17:37:12 <@683847069890510887> ?
+help 2022-05-18 17:37:18 And you how old are you ?
+help 2022-05-18 17:37:51 <@603974932585644043> unde check this guy
+help 2022-05-18 17:37:56 I can do same as you
+help 2022-05-18 17:38:39 ?
+help 2022-05-18 17:38:56 ?
+help 2022-05-18 17:39:25 No
+help 2022-05-18 17:39:29 cuz I'm 6
+help 2022-05-18 17:39:31 16*
+help 2022-05-18 17:39:52 and why do you think I'm 7
+help 2022-05-18 17:39:54 just tell me
+help 2022-05-18 17:39:58 cuz for now idk
+help 2022-05-18 17:40:43 And you said verify this guy+ under 7 you even don't wanna verify by your self
+help 2022-05-18 17:40:58 just stop that and lemme find help for my build
+help 2022-05-18 17:42:20 Where do you live ?
+help 2022-05-18 17:42:39 cuz where I leave we are eating
+help 2022-05-18 17:43:01 I just look that XD
+help 2022-05-18 17:43:27 oh and I finaly found a solution for my build
+help 2022-05-18 17:44:05 But for now I just think I'm dumb
+help 2022-05-18 17:45:03 I just loose 1 hours for make this custom angle and I just discovered my motor was not on the center of my carrier
+help 2022-05-18 17:46:41 ?
+help 2022-05-18 17:47:03 I just blocked you, toxic+dumb+loose my time
+creations-chat 2022-05-18 22:17:06 I agree
+bug-reports 2022-09-09 23:44:44 Hello I can't save, when I save the save work, but If leave the server, this will put my old save,
+bug-reports 2022-09-09 23:45:07 Else I'm stuck I can't save my new builds
+bug-reports 2022-09-10 13:05:12 2.100/4000
+bug-reports 2022-09-10 13:05:37 Only my autosave worked on time
+bug-reports 2022-09-10 13:06:08 aaaah if I delete some saves this will patch the bug ?

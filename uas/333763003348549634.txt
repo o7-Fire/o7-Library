@@ -1,0 +1,4 @@
+The Tale of bleucorp (333763003348549634)
+bug-reports 2020-11-20 18:41:36 
+bug-reports 2020-11-20 18:41:38 Sometimes when you use the Day/Night button and go from Night to Day, the brightness starts out normal then gets gradually darker. I've noticed that the Day/Night cycle has to be at night. Not day.  (Shown in the video above)
+bug-reports 2020-11-20 18:43:08 Apologies for the choppy video. My computer was not made to record videos apparently.

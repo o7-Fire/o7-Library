@@ -1,0 +1,23 @@
+The Tale of kerbal_8216 (778662803874512897)
+creations-chat 2022-09-24 18:55:08 anyone built a dalek? just out of curiosity
+bug-reports 2022-10-08 09:02:44 Plane crazy this morning has been unplayable here are the issues:
+
+-Huge lag for unknown reasons in all servers
+-Painting has a 5-10 second delay
+-Buttons/Keybinds have a delay
+-Players and player creations freeze for 10 seconds at a time
+-Delete block button not working
+-When respawning you respawn in the grass field and not the plots
+**all other games i have played seem to be fine**
+bot-central 2022-10-08 09:05:30 !rank
+bot-central 2022-10-08 09:05:35 nice
+bug-reports 2022-10-08 15:12:13 nice
+bot-central 2022-10-09 08:26:49 !rank
+the-dump 2022-10-09 08:27:56 https://tenor.com/view/keemxdaxtruth-lmao-dead-nope-gif-14774804
+the-dump 2022-10-09 08:28:00 oh
+the-dump 2022-10-09 08:28:02 right
+the-dump 2022-10-09 08:28:28 💀
+help 2023-06-03 17:10:50 I use a magnet to connect to parts of a rocket together when it spawns in
+help 2023-06-03 17:10:51 But
+help 2023-06-03 17:10:58 The magnet doesn’t connect to the block
+help 2023-06-03 17:11:06 Any help?

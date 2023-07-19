@@ -1,100 +1,840 @@
-crazed_pilot
-plane-crazy 2020-07-26 18:40:31 lol
-plane-crazy 2020-07-26 18:38:16 why did you try a ping lol
-plane-crazy 2020-07-23 22:35:42 but higher than urs in the category
-plane-crazy 2020-07-23 22:35:30 one role
-plane-crazy 2020-07-23 22:34:46 use disconnectors to make space
-plane-crazy 2020-07-23 22:34:29 then make room
-plane-crazy 2020-07-23 22:34:00 and the design is a bit klunky
-plane-crazy 2020-07-23 22:33:50 it has kind of bad landing gear
-plane-crazy 2020-07-23 22:33:10 <@!523278765825196062>
-plane-crazy 2020-07-23 22:33:02 because its not that good
-plane-crazy 2020-07-16 15:47:49 so?
-plane-crazy 2020-07-16 15:43:15 happy bday plane crazy 🥳
-plane-crazy 2020-07-14 15:43:56 this is like the understatement of the century
-plane-crazy 2020-07-14 15:43:42 
-plane-crazy 2020-06-26 21:41:44 i literally fell down a stair block...
-plane-crazy 2020-06-24 02:22:22 in plane crazy we have something to fight, even in non PVP:
+The Tale of crazed_pilot (628393318874873886)
+creations-chat 2020-03-22 21:04:24 My Fokker F-28, 1014 parts, and can reach a cruising speed of up to 640
+bug-reports 2020-03-23 01:53:45 welp, thanks to the save delete glitch, this is my 4th time trying to rebuild the fuselage of my f-100... rick, this bug is getting out of control now
+help 2020-03-23 02:08:12 does this make me eligible for an aeronautical engineer rank? or do i need to pass some sort of test?
+help 2020-03-23 02:08:37 here the block count btw
+creations-chat 2020-03-23 13:12:49 just finished a 737-600, cruising at 540, and around 1300 parts
+help 2020-03-23 21:29:24 on the rank description, does a total score of 10 mean if you subtract the number of downvotes from the upvotes, you will be left with at least 10 upvotes?
+help 2020-03-24 22:03:04 does this make me eligible for expert aeronautical engineer? also, i added an interior, bringing the block count to 2079
+help 2020-03-24 22:03:15 
+help 2020-03-27 02:07:11 could i get the expert aeronautical engineer rank?
+help 2020-03-27 02:07:23 
+the-dump 2020-03-27 16:11:44 USAF emergency fleet be like:
+bot-central 2020-04-01 02:08:45 ?covid india
+the-dump 2020-04-01 15:29:53 guys... the concorde will be coming back into service! almost every major airline will be flying it, despite the virus! book those tickets!
+bug-reports 2020-04-03 21:50:19 i built a heli, and this happened to the motors. at first, i spawned it, it worked fine, i despawned, didn't touch anything, and then it happened. im not to sure what is causing it, but it happens on all of my builds using this format
+creations-chat 2020-04-08 01:04:05 My modified F-20 Tigershark as it performs at an airshow. It is capable of "hovering" and supersonic flight, and has great agility.
+bug-reports 2020-04-10 13:08:56 trails take up the same space as their hitbox, not their physical objects
+the-dump 2020-04-10 15:30:49 ?
+the-dump 2020-04-10 15:31:34 12:14?
+the-dump 2020-04-10 15:32:08 lol
+creations-chat 2020-04-10 23:36:15 my WIP airport at night
+bug-reports 2020-04-11 01:11:23 lighting is broken. i didnt touch ANYTHING and half the lights turned off. sometimes, all of them turn off. it is very annoying, as this happens to any of my builds using lights, and lights play a big role in realism on those.
+bot-central 2020-04-11 01:13:15 ?shelp
+bot-central 2020-04-11 01:13:29 ?rhelp
+help 2020-04-11 13:09:26 could i have the rank Designer 4?
+help 2020-04-11 13:10:11 
+help 2020-04-11 16:27:10 when asking for a rank, do i need to include the 13+ part
+creations-chat 2020-04-11 18:30:57 Gate A-1 is complete along with the tower
+bug-reports 2020-04-14 13:19:12 erm, whenever my plane makes a sudden jerk, the door just goes right through the the thing that blocks it from going further. i did not touch any of the controls for the trapdoor behind it.
+bug-reports 2020-04-14 15:40:35 lock mode isn't helping because it will still become misaligned with the opening and then it gets jammed again
+creations-chat 2020-04-15 22:13:42 its a gun on rails, so... RAILGUN? lol
+bug-reports 2020-04-16 02:10:49 some error about data, error code 260
+bug-reports 2020-04-16 02:11:40 even though it says reconnect, that doesnt work
+bug-reports 2020-04-16 02:15:11 dont judge me ok
+creations-chat 2020-04-16 02:38:07 person with "F-16 Hornet", that does not exist.
+creations-chat 2020-04-16 02:38:29 ye lol
+creations-chat 2020-04-16 02:38:54 maybe spam pvp rockets to give it extra dominance in the game
+creations-chat 2020-04-16 02:40:03 oh, and dont forget the STYLISH bright-burn-your-eyes-off-neon-color
+creations-chat 2020-04-16 02:42:08 actually, the bright color is pointless... the name and look of the plane already burns my eyes
+bug-reports 2020-04-16 21:38:04 is that a water propellor?
+bug-reports 2020-04-16 21:38:27 its only supposed to work in water
+bug-reports 2020-04-16 21:38:35 it acts up on land
+bug-reports 2020-04-16 21:38:39 hmmm
+bug-reports 2020-04-16 21:39:26 weird
+creations-chat 2020-04-16 21:48:59 if you want me to delete this peice of 💩 , <:Downvote:490311668556103700>
+creations-chat 2020-04-16 21:53:51 top shows just how horridly designed this is... disproportional, bad angles, overall its just a piece of trash
+help 2020-04-17 02:52:33 are we allowed to submit edited images of our builds
+help 2020-04-17 02:52:56 <#504436696021204992>
+creations-chat 2020-04-17 02:54:57 just a touch of editing...
+creations-chat 2020-04-17 13:05:16 what is the current record for most downvotes?
+creations-chat 2020-04-17 13:05:23 22?
+creations-chat 2020-04-17 13:05:28 or has it changed
+creations-chat 2020-04-17 13:06:26 .
+creations-chat 2020-04-17 13:06:57 lol
+creations-chat 2020-04-17 13:07:09 that must have been pretty trash
+bug-reports 2020-04-19 15:49:18 idk what is going on, but some signs dont save some text, even though its not filtered.
+the-dump 2020-04-20 12:47:02 the result of some random person saying "im gonna make a fighter plane!":
+bot-central 2020-04-20 19:28:30 ?shelp
+creations-chat 2020-04-21 01:38:58 i wonder why small, but nice builds get downvoted so much, while large ones get a decent mix of both, no matter how they look
+creations-chat 2020-04-21 15:53:36 F-15E Strike Eagle
+creations-chat 2020-04-21 15:56:56 dominating the skies!
+creations-chat 2020-04-21 15:59:22 f-15 irl can carry maybe, 20 missiles?
+creations-chat 2020-04-21 16:00:04 124?? lol something is wrong with that game
+creations-chat 2020-04-21 16:00:29 xd
+creations-chat 2020-04-21 22:07:37 upgraded it to carry 4 all purpose missiles... by all purpose, i mean ALL PURPOSE. air to air, air to ground, plain old bombs, torpedoes, and they can even act like a kamikaze ship...
+reports 2020-04-21 22:19:23 User: jerothegamer1122. Reason: inappropriate build. Proof: ||https://imgur.com/ZYjc4v8 https://imgur.com/PiBZOb7|| Profile: https://www.roblox.com/users/660126712/profile
+creations-chat 2020-04-21 22:36:17 the go pretty smooth on just about every function. 1st: high speed missile 2nd: air to ground missile 3rd: bomb 4th: long range slow speed missile
+bug-reports 2020-04-22 00:45:27 small landing gear extends the wrong way, through the closed part, not the open part
+creations-chat 2020-04-22 00:55:00 L O L  T H I S  I S  T R U E
+creations-chat 2020-04-22 00:55:41 even got landing gear for proof lol
+creations-chat 2020-04-22 00:57:08 xd
+the-dump 2020-04-22 01:41:54 ah yes... apparently the soviets souped up a tank...
+help 2020-04-23 12:22:08 aren't locked motors supposed to be unmovable unless a key is pushed?
+help 2020-04-23 12:23:05 bc my 737 uses locked motors for the wings and tail fold, yet they pop open mid flight, without me hitting anything
+help 2020-04-23 12:23:18 randomly too
+help 2020-04-23 12:23:28 and the wings start flapping
+help 2020-04-23 12:24:19 
+help 2020-04-23 12:24:39 
+help 2020-04-23 12:25:54 /ok
+help 2020-04-23 12:26:04 100?
+help 2020-04-23 12:27:53 works, but there is a huge gap between the 2 parts
+help 2020-04-23 12:28:37 the 2 parts of the body
+help 2020-04-23 12:29:01 ill show you a screenshot
+help 2020-04-23 12:30:46 
+help 2020-04-23 12:31:08 yup
+help 2020-04-23 12:32:05 even then, they still leave a gap
+help 2020-04-23 12:32:57 anything above 500 torque doesnt leave much of a gap, but then that bounces open
+help 2020-04-23 12:35:57 oh wait, i got it to work with a motor on lock at 500 torque
+help 2020-04-23 12:36:09 but the wings are still a different story ;-;
+help 2020-04-23 12:37:49 they just did this mid flight ;-;
+help 2020-04-23 12:44:19 i used a combo
+help 2020-04-23 12:44:36 motor 2 for the angle, locked motor for the lock
+help 2020-04-23 12:44:53 should i decrease the torque on both of them?
+help 2020-04-23 12:45:30 it doesnt really lock too good
+help 2020-04-23 12:45:35 i used around 500
+help 2020-04-23 12:45:42 on each wing motor
+help 2020-04-23 12:45:53 should i lower it to the default?
+help 2020-04-23 12:46:23 that worked, thanks
+help 2020-04-23 12:49:14 actually, it just flung my into the abyss ;-;
+help 2020-04-23 12:51:58 wont work, i was doing that earlier, and every time i lowered the wings, one of them would go right through the support blocks
+help 2020-04-23 12:52:15 should i make the torque 50 for the wing motors?
+help 2020-04-23 12:52:30 ok
+help 2020-04-23 12:52:58 this works, thanks
+creations-chat 2020-04-23 13:20:05 My renovated 737-700
+the-dump 2020-04-23 19:26:51 R.I.P.je139
+creations-chat 2020-04-23 19:29:11 My revamped and modernized 2,034 block 737-700 as it performs its first landing since its death by motors in january.
+help 2020-04-23 21:47:46 <@!308156968550268928>  can i get designer IV?
+creations-chat 2020-04-24 12:03:49 my piano
+creations-chat 2020-04-24 12:04:28 along with a small tune i composed
+creations-chat 2020-04-24 13:22:04 another piece of music, this one inspired by Despacito
+help 2020-04-25 16:03:17 <@!340543153922768906>, can i get the expert aeronautical engineer rank?
+help 2020-04-25 16:03:38 
+the-dump 2020-04-26 01:23:52 now this is truly big brain
+the-dump 2020-04-26 01:25:31 why waste money on aircraft for the aircraft carrier when the aircraft carrier is an aircraft itself!  <:thchoink:527880803456122891>
+help 2020-04-26 21:17:14 any ideas on how to fold a 27 block wide carrier?
+help 2020-04-26 21:19:48 do i need a 1 block gap, or try and use 0.9s with a 0 block gap to fit the second fold
+help 2020-04-26 21:24:16 or would a 27 block wide one just not fit
+help 2020-04-27 00:53:02 can someone tell me what the games scale is? experience tells me that 1 block is not exactly 1 meter, and i want to make my builds 1:1 with a roblox avatar, but using 1 block per meter makes weird proportions on larger builds.
+help 2020-04-27 01:02:44 i highly doubt that a 747-8i, which is 76m irl, would be 76 blocks in-game
+creations-chat 2020-04-27 12:05:00 just a crappy f-100 that i "dug out of storage" from around 5-7 accounts back
+creations-chat 2020-04-28 12:46:03 a simple yoke. (the one on planes)
+creations-chat 2020-04-28 13:01:41 that lag xd
+creations-chat 2020-04-28 13:08:18 and here is a flight simulator
+the-dump 2020-04-30 01:43:04 ***BRUH***
+the-dump 2020-04-30 01:47:32 biggest collection of ***BRUH*** on google maps
+bug-reports 2020-04-30 12:22:35 all the glass i had on one of my builds randomly turned into legacy glass. idk how it happened, but i just saved, left, joined back a few hours later, and all my normal glass had turned legacy.
+bug-reports 2020-04-30 12:28:00 nope
+bug-reports 2020-04-30 12:28:13 and forget what i said about legacy glass
+bug-reports 2020-04-30 12:28:19 its normal glass
+bug-reports 2020-04-30 12:28:28 just completely broken
+help 2020-04-30 16:05:05 what was the problem with your build?
+help 2020-04-30 16:06:10 use max torque, and lock might work
+help 2020-04-30 16:22:34 anyone have ideas on how to flatten out the jagged edges while still keeping a very roomy cockpit?
+bot-central 2020-04-30 18:48:33 ?shelp
+the-dump 2020-05-01 01:27:47 this dude lol https://www.youtube.com/watch?v=sPWJHj13U9w
+the-dump 2020-05-01 01:28:17 starts at 1:00
+the-dump 2020-05-01 01:28:30 ends 3:35
+help 2020-05-01 11:47:00 my friend found this inside the vault, but you will have to enter somehow to find out for yourself.
+creations-chat 2020-05-03 11:57:31 VTOL i guess? lol
+creations-chat 2020-05-05 02:18:23 just a random cockpit i made for an airliner
+creations-chat 2020-05-05 02:29:52 sure
+the-dump 2020-05-05 02:32:50 just some random meme i created in 1 minute
+creations-chat 2020-05-05 02:40:21 nice
+creations-chat 2020-05-05 02:43:43 though you should add some screens for the navigation system and artificial horizon
+help 2020-05-05 16:04:03 does anyone have an idea of how yo make a flush cargo door in the black highlighted areas? ive tried many times, but the only ways that it has worked was where the motor stuck out, and the door covered part of the gap even when opened
+help 2020-05-05 16:08:33 
+help 2020-05-05 16:08:46 
+help 2020-05-05 16:25:27 ok, ive tried a few more times, i got it concealed, but it wont work
+help 2020-05-05 16:27:08 can someone help me out with the cargo door?
+help 2020-05-05 16:28:46 im trying to get it to fit flush
+help 2020-05-05 16:29:02 but the only way it works is if the motor is sticking out
+help 2020-05-05 16:29:04 and
+help 2020-05-05 16:29:12 the door still covers aprt of the gap
+help 2020-05-05 16:29:56 kind of
+help 2020-05-05 16:30:09 and also the door not fully clearing the gap
+help 2020-05-05 16:30:27 ok
+help 2020-05-05 16:30:58 yea
+help 2020-05-05 16:31:05 the way the motor opens the door
+help 2020-05-05 16:31:44 hmmm
+help 2020-05-05 16:31:48 how would i use pistons
+help 2020-05-05 16:32:25 eh
+help 2020-05-05 16:32:33 ill try to use pistons first
+help 2020-05-05 16:32:38 see if that works
+help 2020-05-05 16:33:07 ok
+help 2020-05-05 16:33:15 thanks for your help
+help 2020-05-05 19:05:37 how?? what?? why?? there is no anchor on the white peice yet it just hovers there when i spawn. its not connected to anything. or is it connected to a stupid hitbox?
+creations-chat 2020-05-07 01:23:09 ever heard of win+PrtScrn or shift+command+3?
+help 2020-05-07 12:58:44 can anyone help me out with reducing the shaking on my jet? (adding wing panels wont work as i have no more space)
+help 2020-05-07 15:21:19 well, maybe, but im trying to keep its max speed above 500, but the shake speed is at 330.
+help 2020-05-07 15:35:09 i lowered it, but it doesnt do much help
+help 2020-05-07 15:37:53 yea, i lose about 50-100 speed when i start shaking
+help 2020-05-07 21:27:32 ok
+help 2020-05-07 21:28:33 <@456226577798135808>, friend me on Daring_Dash8
+help 2020-05-07 21:28:45 and i can sho you
+help 2020-05-07 21:28:48 ok
+help 2020-05-07 21:28:58 dm me the server then
+help 2020-05-07 21:29:14 actually
+help 2020-05-07 21:29:26 i can dm ou the link to my server
+bug-reports 2020-05-08 19:17:49 why does every single light on a build turn off when somebody joins/leaves the game?
+creations-chat 2020-05-09 12:05:12 where did you get that logo?
+bug-reports 2020-05-13 01:06:41 yea...
+bug-reports 2020-05-13 01:06:47 im having that problem too
+bug-reports 2020-05-13 01:08:17 but this is all i have in the way of errors
+bug-reports 2020-05-13 01:12:44 same thing in new server ;-;
+bug-reports 2020-05-13 01:13:06 
+bug-reports 2020-05-13 01:13:15 
+bug-reports 2020-05-13 01:13:26 
+bug-reports 2020-05-13 01:13:36 
+bug-reports 2020-05-13 01:13:46 the entire logs from this time
+bug-reports 2020-05-13 01:23:56 the test server is broken
+bug-reports 2020-05-13 01:24:05 you cant load ANY builds
+creations-chat 2020-05-13 02:10:04 the "Line Dance" emote fits almost PERFECTLY with astronomia
+creations-chat 2020-05-13 02:10:39 lol
+bug-reports 2020-05-13 02:16:13 what causes annoying thing when lights turn off whenever someone joins and leaves the game :<
+bug-reports 2020-05-13 02:16:52 also, its NOT in the dev console
+bug-reports 2020-05-13 02:17:13 someone joined at 10:15.
+bug-reports 2020-05-13 02:17:26 the last error is at early 10:14
+bug-reports 2020-05-13 02:17:47 specifically, 10:14:24
+bug-reports 2020-05-13 02:18:16 yet the lights turn off
+bug-reports 2020-05-13 02:18:21 for some strange reason
+bug-reports 2020-05-13 11:39:15 its fixed!
+creations-chat 2020-05-14 01:24:17 what device are you using?
+creations-chat 2020-05-14 01:24:33 or you can just upload to streamable or YT
+bot-central 2020-05-15 11:59:01 ?shelp
+creations-chat 2020-05-15 11:59:35 ok
+bug-reports 2020-05-15 12:39:58 i think its on the client side. also, if you are joining a friend, they might be in a private server, and something similar happens in that case too
+bug-reports 2020-05-19 15:59:42 are you sure you haven't run out of blocks?
+bug-reports 2020-05-19 16:00:11 yea
+bug-reports 2020-05-19 16:02:52 rip
+bug-reports 2020-05-19 16:03:39 ?
+bug-reports 2020-05-19 16:03:53 ??
+bug-reports 2020-05-19 16:04:14 can you show me?
+bug-reports 2020-05-19 16:05:31 ima DM you something rq
+help 2020-05-20 16:03:58 can someone help me make landing gear that doesnt flop around?
+help 2020-05-20 16:04:09 i need to use motor 2 to make it tho
+help 2020-05-20 16:04:41 too little torque makes it not able to retract, but a little to much and the gear has a siezure
+help 2020-05-20 16:04:54 and even still, the gear flops around
+help 2020-05-20 16:11:47 ill show you the motions it needs to do
+help 2020-05-20 16:16:17 here, also, notice the shaking in the end. this is barely enough power to retract the gear, and it STILL gets a small siezure
+help 2020-05-20 16:19:41 even at 1000 torque it doesnt have enough power to function properly
+help 2020-05-20 16:19:46 when in the air
+help 2020-05-20 16:24:26 can someone explain to me why the motors do whatever they want, and how to fix it?
+help 2020-05-20 16:25:20 because now, one side retracts normally, but the left side retracts BACKWARDS, even when its on the ground, it goes normally
+creations-chat 2020-05-22 12:54:48 tf?
+bug-reports 2020-05-23 00:57:53 um...
+bug-reports 2020-05-23 00:58:10 wow ok
+bug-reports 2020-05-23 00:58:36 o yea
+bug-reports 2020-05-23 00:58:39 that
+bug-reports 2020-05-23 01:07:43 <:PogU:670373666164572172>
+bug-reports 2020-05-23 01:08:16 cameras are seriously bugged, in a useful way
+bug-reports 2020-05-23 01:08:28 i dont think so
+bug-reports 2020-05-23 01:08:55 yea...
+bug-reports 2020-05-23 01:09:09 just, more
+bug-reports 2020-05-23 01:09:27 might be useful for putting interiors into planes <:Thonk:509498568982134816>
+bug-reports 2020-05-23 01:10:14 <:Thonk:509498568982134816>
+bug-reports 2020-05-23 01:10:34 im going to see for myself
+bug-reports 2020-05-23 01:12:44 its also an insta teleport
+bug-reports 2020-05-23 01:13:51 if used correctly, this can be a powerful tool...
+bug-reports 2020-05-23 01:14:26 but it can also mean a new era of lag machines...
+bug-reports 2020-05-23 01:15:34 hmmm.... it causes the main seat to connect with the rest of the build...
+bug-reports 2020-05-23 01:17:15 it seems the cameras direct effect might be on the main pilot seat
+bug-reports 2020-05-23 01:26:26 IKR!
+bug-reports 2020-05-23 01:26:57 time to get to work on some heavy research onto how this thing could work
+bug-reports 2020-05-23 01:31:52 weird, the cameras can make blocks easy to fling
+bug-reports 2020-05-23 01:32:04 this is a very interesting thing
+bot-central 2020-05-23 16:40:21 !servers
+bug-reports 2020-05-25 00:59:35 um... ok.... that prop looks cursed ;-;
+the-dump 2020-05-26 12:08:02 
+bot-central 2020-06-01 15:39:55 ?shelp
+bot-central 2020-06-06 12:42:02 !shelp
+bot-central 2020-06-06 12:42:36 ?shelp
+bug-reports 2020-06-07 01:46:18 everything but the material in signs was reverted to default. this is happening with all my builds.
+bug-reports 2020-06-07 01:46:35 this is just after the update
+bug-reports 2020-06-07 01:49:35 on all of my accounts as well
+bug-reports 2020-06-07 02:01:17 also, signs dont save anything
+bug-reports 2020-06-07 02:02:53 ok
+bug-reports 2020-06-07 11:33:46 rick already knows
+help 2020-06-09 12:54:00 is this a good super connie nose outline?
+help 2020-06-09 12:57:14 or is something like this better?
+bot-central 2020-06-14 21:56:01 !servers
+bot-central 2020-06-18 01:03:13 ?shelp
+help 2020-06-18 12:25:46 how should i cram more rcokets into my f-15?
+the-dump 2020-06-19 11:46:52 
+the-dump 2020-06-19 15:40:20 😤
+creations-chat 2020-06-20 11:40:26 self downvoter lol
+bug-reports 2020-06-20 18:31:57 yea i got that too
+bug-reports 2020-06-20 18:32:21 kind of annoyin as your trying to get your jetpack steady but it constantly goes up
+creations-chat 2020-06-20 21:25:36 can people actually stop posting images of blocks ingame
+creations-chat 2020-06-20 21:25:49 its getting kind of annoying
+creations-chat 2020-06-20 21:25:56 flooding creations
+creations-chat 2020-06-20 21:25:58 and
+creations-chat 2020-06-20 21:26:10 it was funny in the start
+creations-chat 2020-06-20 21:26:16 but now its just annoying
+the-dump 2020-06-20 22:06:23 buying a font for windows can cost more than FSX
+the-dump 2020-06-20 22:06:54 
+bug-reports 2020-06-21 02:15:36 oh no the motors are attacking!
+the-dump 2020-06-21 15:28:18 (insert initial d music)
+the-dump 2020-06-21 15:29:37 a very drifty fokker
+the-dump 2020-06-21 15:31:32 XP11
+the-dump 2020-06-21 15:49:16 taxiways are for chumps
+the-dump 2020-06-21 15:52:44 wind <:pain:644301805534183464>
+the-dump 2020-06-21 16:03:33 lol just did it with an antonov AN225
+the-dump 2020-06-21 16:06:35 lol the file is 300+ mb and is taking forever to compress even to 100 mb
+the-dump 2020-06-21 16:06:59 honestly, the file that the AN225 came in was smaller than this vid lol
+the-dump 2020-06-21 16:11:47 the AN225 was actually surprisingly agile lol
+creations-chat 2020-06-22 01:53:26 rip
+creations-chat 2020-06-22 01:53:50 just post again but dont add any pings
+help 2020-06-23 02:55:37 motor or motor 2?
+help 2020-06-23 02:56:17 so they dont go the 5 degrees you set it to, but htye just go around and around?
+help 2020-06-23 02:58:45 wait, that means they are turning in opposite directions
+help 2020-06-23 02:58:49 is that what you want?
+bug-reports 2020-06-24 01:05:18 yeah lol
+creations-chat 2020-06-24 21:18:29 the pattern on the wheels of that car look kind of similar to the WW2 thing...
+help 2020-06-25 21:27:39 i need some help with motor lock
+help 2020-06-25 21:29:13 i need to make the top row of rockets compress into the bottom row, but the carpet bombing method wont work, as the motors will glitch into the cockpit and tail. how should i make a motor lock system that brings the top layer down by 2 blocks
+help 2020-06-25 21:44:27 oh wait nvm
+creations-chat 2020-06-26 00:58:41 could people just stop posting single blocks?? it was kind of funny at first but now its just annoying
+creations-chat 2020-06-26 01:08:47 whatever, its still annoying
+creations-chat 2020-06-26 01:36:05 lol
+the-dump 2020-06-26 02:43:51 
+bot-central 2020-06-26 12:06:31 !servers
+help 2020-06-26 21:33:50 is the conveyor centered perfectly in the center from top-bottom?
+bug-reports 2020-06-28 00:57:17 autosave is corrupted
+bug-reports 2020-06-28 00:57:50 like, it reduced the block count of my 4K build down to 140
+bug-reports 2020-06-28 00:58:01 and just chunks of blocks are left floating
+bug-reports 2020-06-28 00:58:18 thankfully i had it saved
+bug-reports 2020-06-28 00:58:19 but
+bug-reports 2020-06-28 00:58:42 it would be horrible if someone relies on autosave a lot of the time
+bug-reports 2020-06-28 01:02:35 it doesnt show up in the logs
+help 2020-06-28 15:15:47 half wedge, the tiny one
+help 2020-06-28 15:16:04 that takes up around a quarter of a block
+help 2020-06-28 15:40:32 could someone help me with an opening cockpit for my L-39?
+help 2020-06-28 16:04:11 nvm
+creations-chat 2020-06-28 21:04:47 ngl that wellington bomber is kind of low quality
+creations-chat 2020-06-28 21:08:03 the wellington definitely needs to be reshaped
+creations-chat 2020-06-28 21:08:23 like, the wings and stuff
+creations-chat 2020-06-28 21:08:46 also, you should use custom props using motors and prop blades/wing apnels
+creations-chat 2020-06-28 21:09:36 not really talking to you
+bug-reports 2020-06-30 12:18:09 uh, rick, when your broke the blacklist by having an invisible one, you also broke the actual blacklist, by making it useless
+bug-reports 2020-06-30 12:18:37 dont mind the bars around the vid btw, thats just my crappy graphics driver
+bug-reports 2020-06-30 12:21:52 also, make PVP serversided, cuz when you hit someone, 90% of the time it doesnt actually register as a hit to them
+bug-reports 2020-06-30 12:22:09 sometimes the build just freezes
+bug-reports 2020-06-30 12:22:54 and they become just a tiny part flying around, and the rest is invisible, which ruins PVP experience
+bot-central 2020-06-30 12:45:25 ?shelp
+creations-chat 2020-06-30 15:57:08 rip my IL-62 just crossed over 4k blocks
+creations-chat 2020-06-30 18:37:42 that horrible yacht actually has a lot of upvotes... plus self upvote
+creations-chat 2020-06-30 18:37:49 
+creations-chat 2020-07-01 01:14:32 what should i paint my IL-62 as? i have room for 2 of them:
+cubana
+aeroflot
+interflug
+rossiya special flight squadron (basically russias air force 1)
+creations-chat 2020-07-01 01:43:15 ye lol
+creations-chat 2020-07-01 01:43:40 yea lol
+bug-reports 2020-07-01 21:24:01 you mean <#507673335816126509> ? you need to run a bot command to type there. look at FAQ in <#533294912586645521> to learn more. also, rick responds to people of all skill levels in bug reports, he just needs to see it.
+creations-chat 2020-07-02 11:51:40 post mp4
+creations-chat 2020-07-02 11:51:47 no wvm
+creations-chat 2020-07-02 11:52:56 looks ok, just a bit tlong for its short wings
+creations-chat 2020-07-02 11:53:33 oh, you should motorlock the tailwings into the body
+creations-chat 2020-07-02 11:54:55 as in, itl get stuck buecause of friction?
+creations-chat 2020-07-02 11:55:03 or by weld
+creations-chat 2020-07-02 11:55:40 you can motor lock in the tail wings, and it wont weld
+creations-chat 2020-07-02 11:56:04 increase the torque slightly to ocunter the friction
+creations-chat 2020-07-02 12:00:35 that could work
+creations-chat 2020-07-02 12:02:51 you could do something like this tho, and haev a smooth connection
+creations-chat 2020-07-02 12:02:54 ye
+creations-chat 2020-07-02 12:03:27 k
+creations-chat 2020-07-02 12:03:28 https://www.roblox.com/games/166986752/Plane-Crazy?privateServerLinkCode=eRyS3XHLvnoe1Xfkd4kOzbdrtsvgZS_6
+creations-chat 2020-07-02 12:04:42 are you joining the private server?
+creations-chat 2020-07-02 12:04:51 used the link?
+creations-chat 2020-07-02 12:54:49 ikr
+bug-reports 2020-07-02 12:55:18 i think he means, pvp itself
+bug-reports 2020-07-02 12:55:40 like, the general pvp (shooting, damage, etc)
+bug-reports 2020-07-02 12:55:59 yeaaaa
+bug-reports 2020-07-02 12:56:02 but its broken
+bug-reports 2020-07-02 12:56:05 pvp is broken
+bug-reports 2020-07-02 12:57:03 like, sometimes rockets dont fire, they glitch, or sometimes damage occurs on only 1 screen, etc.
+bug-reports 2020-07-02 12:57:14 most of the causes are because it is client sided
+creations-chat 2020-07-02 12:58:00 he literally just upvoted every one of his pics and just sent 2 WMVs
+bug-reports 2020-07-04 11:43:17 1. see if its anchored. sometimes that stops a motor from turning.
+2. there might be a part welding somewhere
+3. sometimes hitboxes weld, so check your wedges/half blocks too
+bug-reports 2020-07-06 11:41:04 do you have cameras on your build?
+bug-reports 2020-07-06 11:41:19 or pistons or suspensions?
+bug-reports 2020-07-07 18:37:09 is it pvp?
+bug-reports 2020-07-07 18:37:20 if so, thats just because its clientsided
+creations-chat 2020-07-08 15:54:43 lol that looks so laggy for its size, so what is in there? or is it just your pc https://discordapp.com/channels/384021699466756103/384025409945337856/730449193436708944
+creations-chat 2020-07-08 15:56:21 but its too painful to watch lol
+help 2020-07-09 01:18:44 how should i fold a 2347 x 1760 block pixel art?
+help 2020-07-09 01:19:24 im trying to make this image:
+help 2020-07-09 01:22:56 oh wait the total block count would be 4130720
+help 2020-07-09 01:23:00 ;-;
+help 2020-07-09 01:23:33 ill just use other 1x1 blocks
+help 2020-07-09 01:33:51 i can use other blocks, that have at least one face thats 1x1
+creations-chat 2020-07-09 16:19:50 well, it looks kind of meh because it looks rough, and the shape itself is not very accurate
+creations-chat 2020-07-09 21:40:17 https://discordapp.com/channels/384021699466756103/384025409945337856/730863800856608808
+wtf is this?
+creations-chat 2020-07-09 21:41:18 it looks like someone who has limited amounts of lego tried to build a random airliner without even knowing what it was supposed to be
+the-dump 2020-07-10 12:05:31 
+the-dump 2020-07-10 12:06:20 its an easter egg on google maps XD
+the-dump 2020-07-10 12:06:31 take it anywhere and its a normal person
+the-dump 2020-07-10 12:06:50 do it in area 51 tho, and that person is in a UFO
+bug-reports 2020-07-10 14:09:06 thats pretty common
+bug-reports 2020-07-10 14:09:21 respawn and it should be fixed
+creations-chat 2020-07-11 21:30:07 self upvote alert
+bug-reports 2020-07-12 15:19:51 ?
+bug-reports 2020-07-12 15:20:26 i literally have no clue what you are saying
+bug-reports 2020-07-13 14:40:47 they might be upside down
+bug-reports 2020-07-13 14:40:51 just replace them
+bug-reports 2020-07-13 15:45:47 legacy lets you see the water
+bot-central 2020-07-13 18:43:19 !servers
+bug-reports 2020-07-13 21:35:33 whats wrong with them?
+bug-reports 2020-07-13 21:35:41 did you put in the sound id?
+bug-reports 2020-07-13 21:35:58 did you check that your music was set to client or higher?
+creations-chat 2020-07-14 18:52:30 ok so for some reason its not letting me vote on your b-1
+creations-chat 2020-07-14 18:52:34 the screen just shakes
+bug-reports 2020-07-15 01:26:18 they are probably just upside down
+bug-reports 2020-07-15 01:33:04 yeah something weird happens when spawning at the airport
+bug-reports 2020-07-18 23:04:43 uhhh
+bug-reports 2020-07-18 23:04:50 no shaders
+bug-reports 2020-07-18 23:04:55 this is what it looks like
+bug-reports 2020-07-18 23:05:15 did some of my roblox files get corrupted
+bug-reports 2020-07-18 23:05:21 or is ti the game itself
+bug-reports 2020-07-18 23:05:43 
+bug-reports 2020-07-19 01:31:05 press "/"
+bug-reports 2020-07-19 01:31:08 see if that works
+bug-reports 2020-07-19 01:31:16 or it may not have loaded yet
+bug-reports 2020-07-19 01:31:37 ;-;
+creations-chat 2020-07-19 02:12:29 that 737 makes me wanna puke
+creations-chat 2020-07-19 12:28:17 lol thats gonna be hof
+creations-chat 2020-07-19 12:29:22 when its done
+bot-central 2020-07-19 12:30:03 !servers
+creations-chat 2020-07-19 12:31:43 lol im in your server
+creations-chat 2020-07-19 12:45:42 <:pogey:651848693842182144>
+creations-chat 2020-07-19 12:46:07 how many alts do you use at once lol
+help 2020-07-20 02:30:44 please elaborate
+help 2020-07-20 02:30:58 "Can someone help me" and that picture isnt gonna automatically make someone know what your problem is
+creations-chat 2020-07-20 11:58:33 you should put a jet airways livery on that a330
+creations-chat 2020-07-20 22:59:17 it needs better wedge work, and also the shapes are way off
+creations-chat 2020-07-21 01:08:19 wtf even is that ups thing
+creations-chat 2020-07-21 01:08:24 and it has self upvote
+creations-chat 2020-07-21 01:09:25 looks like a 2 year old tried to write using blocks, and put it on a square with a wedge in front, then gave it wheels
+creations-chat 2020-07-21 01:10:02 no
+creations-chat 2020-07-21 01:10:05 it sucks
+creations-chat 2020-07-21 01:10:12 ikr
+creations-chat 2020-07-21 01:10:20 ye
+creations-chat 2020-07-21 01:10:45 that ups is the worst thing i have seen in a long time
+creations-chat 2020-07-21 01:12:24 are you below 13 rn??
+creations-chat 2020-07-21 01:12:35 ok lol
+creations-chat 2020-07-21 01:19:23 how tf does that crap look like a "b-12"
+creations-chat 2020-07-21 01:19:41 ew
+creations-chat 2020-07-21 01:19:50 try improving your builds
+creations-chat 2020-07-21 01:19:56 before posting your next one
+creations-chat 2020-07-21 01:20:08 ye
+creations-chat 2020-07-21 01:20:15 like,
+creations-chat 2020-07-21 01:20:22 learn the game
+creations-chat 2020-07-21 01:20:30 wtf
+creations-chat 2020-07-21 01:20:43 .-.
+creations-chat 2020-07-21 01:21:31 what is that even supposed to be
+creations-chat 2020-07-21 01:21:57 that
+creations-chat 2020-07-21 01:22:01 is the worst idea ever
+creations-chat 2020-07-21 01:22:27 does your crappy b-12 even hold bombs
+creations-chat 2020-07-21 01:22:48 ye
+creations-chat 2020-07-21 01:22:52 luke
+creations-chat 2020-07-21 01:22:57 you really need to improve
+creations-chat 2020-07-21 01:23:02 before you post anything else
+creations-chat 2020-07-21 01:23:39 yes
+creations-chat 2020-07-21 01:24:07 srsly
+creations-chat 2020-07-21 01:24:14 thats the worst joke ever
+creations-chat 2020-07-21 01:24:29 its obvious that its not yours
+creations-chat 2020-07-21 01:24:42 just
+creations-chat 2020-07-21 01:24:48 do a tutorial or somehting
+creations-chat 2020-07-21 01:24:50 here
+creations-chat 2020-07-21 01:24:56 ima find a good one 4 u
+creations-chat 2020-07-21 01:25:41 https://www.youtube.com/watch?v=vu1dBQcnXRQ try this luke
+creations-chat 2020-07-21 01:26:44 and this https://www.youtube.com/watch?v=gR6-41Zjh6c
+creations-chat 2020-07-21 01:27:07 oh, and luke
+creations-chat 2020-07-21 01:27:16 if you want your b-2 actually looking nice
+creations-chat 2020-07-21 01:27:17 https://www.youtube.com/watch?v=PUkdQI74eVM
+creations-chat 2020-07-21 01:27:49 not really
+creations-chat 2020-07-21 01:27:53 no where close
+creations-chat 2020-07-21 01:28:55 ;-;
+creations-chat 2020-07-21 01:29:10 hypersonic or something
+creations-chat 2020-07-21 01:30:15 hypersonic is classified as 3836.35 mph
+creations-chat 2020-07-21 01:30:19 lol
+creations-chat 2020-07-21 01:30:29 so
+creations-chat 2020-07-21 01:30:34 your going hypersonic lol
+creations-chat 2020-07-21 01:30:42 ye
+creations-chat 2020-07-21 01:30:58 ^
+creations-chat 2020-07-21 01:32:01 thats not a pride flag
+creations-chat 2020-07-21 01:32:23 
+creations-chat 2020-07-21 01:32:30 this is pride flag
+creations-chat 2020-07-21 01:32:57 can you stop self upvoting
+creations-chat 2020-07-21 01:34:08 why are people flooding <#384025409945337856> with crappy low effort builds
+creations-chat 2020-07-21 01:34:14 like that ebay truck
+creations-chat 2020-07-21 01:34:19 and the "pride flag"
+creations-chat 2020-07-21 01:36:11 🤮
+creations-chat 2020-07-21 01:37:20 what tf did i do
+creations-chat 2020-07-21 01:37:31 bruh
+creations-chat 2020-07-21 01:37:37 its not my fault
+creations-chat 2020-07-21 01:41:23 plane crazy also requires a lot of patience, and practice
+creations-chat 2020-07-21 01:43:12 bruh
+creations-chat 2020-07-21 01:43:39 and yet another eye-burner in creations
+creations-chat 2020-07-21 01:44:05 yes
+creations-chat 2020-07-21 01:44:08 cutters
+creations-chat 2020-07-21 01:46:18 rip
+creations-chat 2020-07-21 01:47:43 rip
+creations-chat 2020-07-21 01:47:47 wait
+creations-chat 2020-07-21 01:47:50 how old are u
+creations-chat 2020-07-21 01:48:56 use grey
+creations-chat 2020-07-21 01:49:09 like, 80, 80, 80
+creations-chat 2020-07-21 01:50:16 first imo
+creations-chat 2020-07-21 02:19:08 .-.
+creations-chat 2020-07-21 18:51:47 <@!624948362906697740>  why did you post that in creations?
+bug-reports 2020-07-21 21:24:25 are your explosives keybinded with left click?
+bug-reports 2020-07-22 01:55:26 servo mode is on?
+bug-reports 2020-07-22 01:55:50 and you wonder why its not responding to your mouse movement?
+bug-reports 2020-07-22 01:56:26 hmm
+bug-reports 2020-07-22 01:56:34 try turning off toggle
+creations-chat 2020-07-22 12:37:31 that mig-29 looks very short and fat
+creations-chat 2020-07-22 12:38:04 https://discordapp.com/channels/384021699466756103/384025409945337856/735474613005451356
+creations-chat 2020-07-22 16:27:15 that 737 looks like a deformed 707
+bug-reports 2020-07-24 21:31:22 erm
+bug-reports 2020-07-24 21:31:33 i found something that crashes the game entirely
+bug-reports 2020-07-24 21:31:40 
+bug-reports 2020-07-24 21:31:46 this
+bug-reports 2020-07-24 21:31:53 elevator made with conveyors
+bug-reports 2020-07-24 21:32:25 whenever the platform gets near the top, roblox freezes, then shuts down
+bug-reports 2020-07-24 21:33:26 RTX2060, I5 9th generation, 16GB ram
+bug-reports 2020-07-24 21:33:27 but
+bug-reports 2020-07-24 21:33:35 it seems to be more on roblox's end
+bug-reports 2020-07-24 21:34:04 some physics error or something
+bug-reports 2020-07-24 21:37:08 im just trying to get some footage
+bug-reports 2020-07-24 21:37:35 just need to be able to find a way to do entire screen capture
+bug-reports 2020-07-24 21:42:54 here
+bug-reports 2020-07-24 21:43:30 from something as simple as this
+bug-reports 2020-07-24 21:44:43 and the only way i can exit is by hitting CTRL+ALT+DEL
+bug-reports 2020-07-24 21:45:46 so uh
+bug-reports 2020-07-24 21:45:58 it would be nice if you could find a patch for this rick
+bug-reports 2020-07-24 21:46:16 it seems to happen even when doing other things that involve lifting with conveyors
+bug-reports 2020-07-24 22:03:57 it seems like its straining the roblox engine, which ends in a crash
+bug-reports 2020-07-24 22:04:06 i just tried it on weaker devices
+bug-reports 2020-07-24 22:04:12 and they crashed even quicker
+the-dump 2020-07-24 22:55:16 what is more likely to crash my game:
 
-W E D G E S + M O T O R S
-plane-crazy 2020-06-22 12:26:28 yes, this is a trap door
-plane-crazy 2020-06-11 18:32:05 seems like rick removed the "!fps" command ;-;
-plane-crazy 2020-05-26 02:51:51 purifiedwater14: "Voting will end at 9:00 PM (EST)" 
- *people still voting a little under an hour later*
-plane-crazy 2020-05-22 02:21:57 <:PogU:670373666164572172>
-plane-crazy 2020-05-22 01:20:31 the irony of the paint tool's color being white/gray lol
-plane-crazy 2020-05-13 18:43:15 what should i make out of this nose? a 777, an a330, a 767, or should i make multiple planes using this design
-plane-crazy 2020-05-12 02:12:11 party in the test server with rick a few hours ago
-plane-crazy 2020-05-11 18:44:59 it wouldnt be half as bad if roblox had a way to transfer robux freely
-plane-crazy 2020-05-11 18:42:35 people have alts
-plane-crazy 2020-05-11 18:37:23 almost ***300*** robux for some sounds
-plane-crazy 2020-05-11 18:36:03 <:Thonk:509498568982134816>
-plane-crazy 2020-05-11 18:34:32 jetpack, speaker blocks, gravity... tbh, those things kind of DO help you succeed at this game... <:Thonk:509498568982134816>
-plane-crazy 2020-05-11 18:31:10 plane crazy is not supposed to be pay to win right?
-plane-crazy 2020-05-10 11:44:43 build a plane sounds like some clickbait cringe
-plane-crazy 2020-05-10 01:05:43 w h y  t h e  r e  n a m e
-plane-crazy 2020-05-08 02:25:46 just rolling through...
-plane-crazy 2020-05-06 22:10:00 i have a feeling that this will end in some real bad pain for my avatars area...
-plane-crazy 2020-05-06 01:56:45 "You spin me right round, baby" lol
-plane-crazy 2020-04-24 13:03:31 maybe take a piston that slides a block into a hole to lock it, or maybe use motors to make some sort of claw/hook to keep them together
-plane-crazy 2020-04-24 02:36:04 make that 435 errors now lol
-plane-crazy 2020-04-24 02:32:03 433 errors lol... feel free to try and understand them XD
-plane-crazy 2020-04-21 16:25:11 lol, my missiles can be used for the following: torpedoes, air to air, ar to ground, kamikaze ships, yeeting people.
-plane-crazy 2020-04-21 16:15:38 lol, one of my missiles misfired, and then smacked my wing and yeeted me into infinity
-plane-crazy 2020-04-21 16:09:42 interesting... 1 type of missile can be used as air to air, AND air to ground...
-plane-crazy 2020-04-21 12:50:31 speed? or block count?
-plane-crazy 2020-04-14 12:23:38 .
-plane-crazy 2020-04-11 18:36:07 they say the game is not pay to win. the jetpack contradicts that.
-plane-crazy 2020-04-10 02:41:05 rip
-plane-crazy 2020-04-10 02:23:03 most likely one of those
-plane-crazy 2020-04-10 02:22:45 or hit the fans
-plane-crazy 2020-04-10 02:22:40 you got shot down if you were in pvp
-plane-crazy 2020-04-10 02:17:09 once again
-plane-crazy 2020-04-10 02:15:33 despite the countless bugs and glitches, the lighting has proved its worth to me. it really added some more realism to this.
-plane-crazy 2020-04-09 18:53:36 lol
-plane-crazy 2020-04-09 18:32:30 ive spent literally 5 hours trying to get it to work on my current plane
-plane-crazy 2020-04-09 18:32:01 its made a huge difference to everything i make with an ejector seat
-plane-crazy 2020-04-09 18:30:49 see, they dont weld, but they have ridiculously high amounts of friction
-plane-crazy 2020-04-09 18:28:19 yup
-plane-crazy 2020-04-09 18:28:02 there is no weld on the sides of the chairs
-plane-crazy 2020-04-09 18:27:43 the chair moves
-plane-crazy 2020-04-09 18:27:38 /nope
-plane-crazy 2020-04-09 18:21:07 see. the chairs are at unnecessarily high levels of friction
-plane-crazy 2020-04-09 18:16:46 they can barely move when i try and move them
-plane-crazy 2020-04-09 18:16:12 apparently, chairs have a super high amount of friction
-plane-crazy 2020-04-09 18:15:44 but
-plane-crazy 2020-04-09 18:15:41 idk what happened
-plane-crazy 2020-04-08 02:01:06 here it is. the hovering jet. it does it twice, once at the beginning, once at the end
-plane-crazy 2020-04-08 01:55:35 aaannd i got it!
-plane-crazy 2020-04-08 01:53:38 a few more slight upgrades and i might  be able to get it to stay still, instead of moving around a few blocks
-plane-crazy 2020-04-08 01:52:20 one simple upgrade to my F-20, and its hovering just doubled in quality
-plane-crazy 2020-04-08 01:49:42 lol
-plane-crazy 2020-04-08 01:49:05 wait wut? how did people get these awards yesterday
-plane-crazy 2020-04-08 01:48:01 its the invisible glitch
-plane-crazy 2020-04-08 01:34:43 probably the newest record
-plane-crazy 2020-04-08 01:34:20 we got 6.3k!!
-plane-crazy 2020-04-06 23:49:53 we got front page once again
-plane-crazy 2020-04-06 21:21:26 it is in beta <:Thinkje139:590548255927173201>
-plane-crazy 2020-04-03 01:59:41 well, its like a conveyor drive on steroids, so i guess
-plane-crazy 2020-04-03 01:46:01 has this drive already been invented? it can go aprox 10k speed if it is going straight
-plane-crazy 2020-04-02 13:19:01 besides the tail rotor
-plane-crazy 2020-04-02 13:18:44 ive seen many helis made using single rotors, and most of them actually work. is there some sort of counter torque that stops the spinning?
-plane-crazy 2020-04-02 13:16:43 im new to single rotor helis, and i am aware that the heli spins with single rotors sometimes, but how would i make this setup work for my hind without it spinning like crazy
-plane-crazy 2020-03-29 13:19:21 that worked, thanks
-plane-crazy 2020-03-29 13:18:47 k
-plane-crazy 2020-03-29 13:18:00 the one to retract the gear works, but the suspension system doesnt work
-plane-crazy 2020-03-29 13:17:02 nope, wasn't the anchor
-plane-crazy 2020-03-29 13:16:39 they should be working correctly
-plane-crazy 2020-03-29 13:16:29 yup
-plane-crazy 2020-03-29 13:16:23 k
-plane-crazy 2020-03-29 13:15:33 i have the anchor off and it wont move either
-plane-crazy 2020-03-29 13:15:12 ye
-plane-crazy 2020-03-29 13:14:29 i made a landing gear strut for my upcoming a330, but none of the motors will move, even though nothing is touching them in the wrong place. they are also at 100 torque and 1 speed. anyone know a fix for this?
-plane-crazy 2020-03-27 01:46:13 a stick of butter buttering on a slice of bread
-plane-crazy 2020-03-27 01:45:57 buttering the bread just got real:
-plane-crazy 2020-03-26 16:11:19 and then butters lol
-plane-crazy 2020-03-26 16:11:05 you know the world is broken when you see a heli do this:
-plane-crazy 2020-03-24 21:43:45 reeeee this acc will prob get banned
-plane-crazy 2020-03-24 21:43:29 my 13th acc for this game is Cursed_Concorde... unlucky 13... name has cursed in it... <:Thinkje139:590548255927173201>
-plane-crazy 2020-03-24 13:02:34 idk if this has already been made yet, but i found a hover drive that goes from 300-1000 when used with less than 100 blocks
-plane-crazy 2020-03-23 13:15:39 i noticed you can upvote your own creation on the other creations channel
+this 4.5k block flying machine
+the-dump 2020-07-24 22:55:24 or this lifty boi
+bug-reports 2020-07-25 01:22:16 roblox physics make glass able to see through water
+bug-reports 2020-07-25 01:22:25 just use legacy glass if you dont like it
+bot-central 2020-07-25 21:37:09 !servers
+the-dump 2020-07-26 02:46:27 a perfect recipe
+the-dump 2020-07-26 02:46:35 and remember, dont forget the olive
+the-dump 2020-07-26 18:34:35 wtf?
+bot-central 2020-07-26 21:26:18 !servers
+bot-central 2020-07-26 21:26:21 ?servers
+bot-central 2020-07-26 21:26:28 !servers
+bot-central 2020-07-26 21:26:36 🤬
+the-dump 2020-07-27 15:44:09 
+help 2020-07-29 19:39:20 im not that good with helis, so i dont know why its doing this shaking thing (im not asking about its slow turn)
+help 2020-07-29 19:39:21 does anybody know a way to fix it?
+help 2020-07-29 19:41:16 ?
+help 2020-07-29 19:41:19 wdym
+help 2020-07-29 19:41:37 where
+help 2020-07-29 19:42:00 do they need to be vertical or horizontal?
+help 2020-07-29 19:42:38 ok
+help 2020-07-29 19:42:42 thanks
+bug-reports 2020-07-29 22:40:03 how do you save it wrong
+bug-reports 2020-07-31 01:12:49 <:KEKW:670310537300672528>
+the-dump 2020-07-31 16:29:04 
+the-dump 2020-07-31 16:29:39 brick rolled*
+the-dump 2020-07-31 16:29:46 lol
+help 2020-08-01 16:27:49 is there a way to prevent physics throttling?
+help 2020-08-01 16:27:59 like, when your creation goes super slow
+help 2020-08-01 16:31:28 oof
+help 2020-08-01 16:32:35 is it the CPU that matters, or is it the server?
+bot-central 2020-08-02 12:10:57 !servers
+bug-reports 2020-08-03 19:27:15 do the rockets themselves not go full power or is it just the creation not moving
+bug-reports 2020-08-05 15:32:49 just move your creation
+bug-reports 2020-08-06 01:23:02 ye, probably that sound caused it to crash
+bug-reports 2020-08-06 01:23:12 mobile devices are not that strong
+help 2020-08-06 22:06:36 nope.
+bug-reports 2020-08-09 22:16:33 also, the moment someone leaves/joins the server, EVERY light turns off
+bug-reports 2020-08-10 19:22:26 ***OOF***
+bug-reports 2020-08-10 19:23:59 probably just a one time glitch
+creations-chat 2020-08-12 20:27:06 the bot broke again?
+bug-reports 2020-08-13 00:01:02 ye
+bug-reports 2020-08-13 00:01:20 for some reason when a person leaves/joins the server they switch off
+creations-chat 2020-08-14 21:55:29 wtf is that shredder bug in <#384025409945337856>
+creations-chat 2020-08-14 21:56:02 i bet thats its one cutter probably cant even reach the target due to those wings
+creations-chat 2020-08-14 21:56:09 and really
+creations-chat 2020-08-14 21:56:22 who need 3 huge rockets on a shredder
+creations-chat 2020-08-14 21:56:29 ikr
+creations-chat 2020-08-14 21:57:17 that is an "i am trying to look cool by showing crappy builds but attempting to provide realistic info to cover it up"
+creations-chat 2020-08-14 21:57:54 oh, and self upvote
+creations-chat 2020-08-14 21:58:29 low effort tho
+creations-chat 2020-08-14 21:58:38 should be deleted from creations
+creations-chat 2020-08-14 21:58:47 for negative effort
+creations-chat 2020-08-14 21:58:57 prob just used 0g
+creations-chat 2020-08-14 21:59:01 wtf
+creations-chat 2020-08-14 21:59:03 WTF
+creations-chat 2020-08-14 21:59:08 thats not a mig
+creations-chat 2020-08-14 21:59:14 thats a stick on steroids
+creations-chat 2020-08-14 21:59:25 migs dont have engines on the tail
+creations-chat 2020-08-14 21:59:33 migs are not sticks
+creations-chat 2020-08-14 21:59:43 migs are not flying shit
+creations-chat 2020-08-14 22:00:11 bruh
+creations-chat 2020-08-14 22:00:19 look
+creations-chat 2020-08-14 22:00:24 your creations are bad
+creations-chat 2020-08-14 22:00:32 stop trying to convince us that they are not
+creations-chat 2020-08-14 22:00:43 true
+creations-chat 2020-08-14 22:00:52 nah
+creations-chat 2020-08-14 22:01:00 looks like a stick taped to a kite
+creations-chat 2020-08-14 22:01:18 bruh
+creations-chat 2020-08-14 22:01:23 thats your "mig"
+creations-chat 2020-08-14 22:01:33 "mig" is not seaplane
+creations-chat 2020-08-14 22:01:48 just stop already
+creations-chat 2020-08-14 22:02:27 just stop <@!523989089045839882>
+creations-chat 2020-08-14 22:03:27 my god
+creations-chat 2020-08-14 22:03:42 japanese dont have "mig bomber seaplanes"
+creations-chat 2020-08-14 22:03:54 haha
+creations-chat 2020-08-14 22:04:13 finally were free of these eyeball torture devices
+bug-reports 2020-08-16 21:13:14 jetpacks are completely broken
+bug-reports 2020-08-16 21:13:42 when activating them with a tool selected, they keep going up until you make it go down
+bug-reports 2020-08-16 21:13:45 and
+bug-reports 2020-08-16 21:13:48 sometimes
+bug-reports 2020-08-16 21:14:07 it just works like a double jump for around 5 minutes before activating
+bug-reports 2020-08-16 21:14:12 even rarer
+bug-reports 2020-08-16 21:14:32 it sometimes just makes you fall slower with a normal jump height for like 10 min
+bug-reports 2020-08-19 02:03:55 yeah hitboxes are a real pain
+the-dump 2020-08-23 01:29:17 did i just spend 120 bucks for this...
+the-dump 2020-08-23 01:29:23 
+the-dump 2020-08-23 01:29:31 
+the-dump 2020-08-23 01:29:38 
+the-dump 2020-08-23 01:30:44 
+the-dump 2020-08-23 01:31:41 nah thats the sim itself
+the-dump 2020-08-23 01:32:36 oh, and this is an AI landing
+the-dump 2020-08-23 01:32:59 takeoff*
+the-dump 2020-08-23 01:33:36 and this is landing
+bot-central 2020-08-24 00:57:23 ?shelp
+the-dump 2020-08-25 02:07:58 when you:
+bug-reports 2020-08-25 21:44:36 im pretty sure thats already been noted
+creations-chat 2020-08-26 20:41:57 bot broken
+creations-chat 2020-08-26 20:41:58 e
+bot-central 2020-08-29 12:45:08 $new
+the-dump 2020-08-29 20:30:51 when an ape with a fever designs a jetway:
+the-dump 2020-08-29 20:37:02 A-10 tomcat
+bot-central 2020-09-03 20:41:17 !servers
+bug-reports 2020-09-04 02:28:07 its actually because they are connected
+bug-reports 2020-09-04 02:28:21 by like 0.001 of a block
+bug-reports 2020-09-04 02:28:43 just motorlock it to that spot
+creations-chat 2020-09-04 20:36:52 ngl its too basic
+creations-chat 2020-09-04 20:37:16 <@!690967945165275216>
+bug-reports 2020-09-07 12:23:33 yeah you just ran over the sign and the pontoon
+the-dump 2020-09-07 15:44:17 https://giphy.com/gifs/UVqsB9LrXfdSO4SE4K
+the-dump 2020-09-07 15:44:26 ***Z O O M***
+the-dump 2020-09-10 02:31:35 me when rick releases an update but it doesnt include new wedges
+bug-reports 2020-09-11 13:09:46 motors be like: express service to brazil!
+bug-reports 2020-09-15 22:10:50 er, i placed around 40 trapdoors, deleted them, got 2036, then i placed one, and the count lowered to 1963. it wont go any higher than that, even though i have none placed
+bug-reports 2020-09-15 22:10:56 
+bot-central 2020-09-24 21:33:22 -mapsuggest if rick has the time, he should incorporate ALL map suggestions, but near the game mode button, there should be a map button to select which map you want to play in, so everyone can enjoy their preferences
+bot-central 2020-09-27 13:24:12 ?shelp
+bot-central 2020-09-27 16:20:40 !servers
+bot-central 2020-09-27 16:20:47 !expert servers
+bot-central 2020-09-27 16:21:02 !expertservers
+bot-central 2020-09-28 15:10:33 !sexpertservers
+bot-central 2020-09-28 15:10:39 😳
+bot-central 2020-09-28 15:10:45 !expertservers
+bug-reports 2020-09-28 19:35:55 your specs actually make a difference to the physics
+bug-reports 2020-09-28 19:36:13 so herrison probably has a lower end pc/wifi
+bug-reports 2020-09-28 19:36:30 which is causing the physics to mess up
+bug-reports 2020-09-28 19:36:56 wifi maybe
+bug-reports 2020-09-28 19:37:12 yeah its not only pvp thats clientsided
+bug-reports 2020-09-28 19:37:25 physics seem to be clientsided tooo
+bot-central 2020-09-29 01:52:06 !servers
+bug-reports 2020-09-29 01:56:34 sorry for the terrible footage, but there is a non deletable block that has collisions in my plot
+bug-reports 2020-09-29 01:57:01 
+the-dump 2020-09-29 02:26:23 
+bug-reports 2020-09-29 19:03:21 just play around with different torque levels, and other settings
+bot-central 2020-10-01 20:43:17 !servers
+bot-central 2020-10-01 20:43:29 !expertservers
+bug-reports 2020-10-01 20:47:10 ~~half pistons~~ disconnectors in disguise
+creations-chat 2020-10-06 01:56:20 the allah joke is just old now
+bug-reports 2020-10-07 00:24:15 they could have just made it so it only tags for unde
+bug-reports 2020-10-07 00:24:51 but they decide to give people who are like 24 irl the same filter as a 3 y/o
+bug-reports 2020-10-07 01:49:38 also, jetpack sounds are not affected by the sound setting
+bug-reports 2020-10-07 01:50:19 and there is no error message
+bug-reports 2020-10-07 01:50:31 is it intentional?
+bot-central 2020-10-12 15:39:30 !servers
+bot-central 2020-10-12 15:39:33 !expertservers
+creations-chat 2020-10-13 15:40:28 i just want to ask, what aircraft is that <@456226577798135808>
+bug-reports 2020-10-15 02:35:55 for some reason the jetpack is not effected by the sounds and particles settings
+bug-reports 2020-10-15 19:18:17 its the clientside glitch
+creations-chat 2020-10-16 19:43:31 that tutorial F-4... its missing something... i know! full green paint job and a waste management logo!
+the-dump 2020-10-16 20:46:15 https://onemileatatime.com/pilots-report-jetpack-lax/
+the-dump 2020-10-16 20:46:19 yes
+the-dump 2020-10-16 20:46:24 it happened again
+bug-reports 2020-10-20 13:34:23 same
+bug-reports 2020-10-20 13:34:32 but building slower doesnt really help much
+bug-reports 2020-10-20 13:36:52 ive noticed it happens if a certain type of wedge is rotated by a certain amount, and placed in a repeating pattern ex. place 1x2 wedge, hit t twice, place underneath, hit t twice again, place in front of upside dwon wedge, repeat, should cause it. the wedge, rotation, and pattern could vary by servers
+bug-reports 2020-10-20 18:23:08 bruh
+bug-reports 2020-10-20 18:23:14 roblox trying to cover it up
+bug-reports 2020-10-20 18:30:40 roblox datastores be like:
+bug-reports 2020-10-20 18:57:20 maybe
+bug-reports 2020-10-20 18:57:29 roblox being shady as usual
+bot-central 2020-10-21 23:17:31 !servers
+bot-central 2020-10-21 23:17:43 !expertservers
+bug-reports 2020-10-22 12:58:25 ?
+bug-reports 2020-10-25 01:25:02 what, the tutorial popping up?
+the-dump 2020-11-03 20:34:51 
+the-dump 2020-11-03 21:26:13 i have a feeling that we have a bingo
+bug-reports 2020-11-04 18:39:45 dont have footage yet, but the motorlock fixes seem to reduce hover drive speed, cause huge lag when spawning in, and when other people go fast, they seem to be going at 10FPS, while they are not lagging at all
+bug-reports 2020-11-04 21:43:21 oh, and sometimes motorlock also has a habit of not locking for other players, or sometimes just stays floating at spawn while the part with the pilot seat moves on
+bug-reports 2020-11-04 23:27:07 this is from the other players POV
+bug-reports 2020-11-04 23:27:16 clientside kind of thing
+bot-central 2020-11-05 22:40:57 !servers
+bot-central 2020-11-05 22:41:02 !expertservers
+bug-reports 2020-11-09 22:09:39 either that or you just accidentally activated anchor
+creations-chat 2020-11-15 03:14:05 bruh what
+bug-reports 2020-11-17 17:29:49 clientside
+bug-reports 2020-11-17 17:29:52 its a known bug
+bug-reports 2020-11-19 21:41:21 <@!707711115282350162> happens to me too. if someone leaves or join the server all lights automatically turn off
+bug-reports 2020-11-19 21:41:56 i have no clue how that even happens or why its been happening ever since lights were added
+bug-reports 2020-11-20 15:01:53 lmao
+bug-reports 2020-11-20 15:01:58 disconnector 2.0
+bug-reports 2020-11-20 15:02:09 now with delay
+bug-reports 2020-11-20 15:03:29 bc roblox is being roblox
+bug-reports 2020-11-20 22:26:34 understatement
+the-dump 2020-11-24 02:54:45 https://tenor.com/view/bad-landing-landing-airplane-tway-korea-gif-16360387
+the-dump 2020-11-24 02:54:49 this is fine.
+bug-reports 2020-11-29 13:14:35 what kind of rocket, pvp or engine
+bug-reports 2020-11-29 13:15:03 lmao your out of fuel
+bug-reports 2020-11-29 13:15:11 turn on infinite fuel or add fuel tanks
+bug-reports 2020-11-29 13:15:18 it says it in the bottom of the screen lol
+bug-reports 2020-11-30 23:34:07 thats the inspiration for it?
+bug-reports 2020-11-30 23:34:10 lmao
+the-dump 2020-12-01 22:00:27 https://media.discordapp.net/attachments/753458527330369627/773321899995562014/image0.gif
+bug-reports 2020-12-02 13:15:47 its a known bug
+creations-chat 2020-12-08 20:00:27 ^^
+bug-reports 2020-12-17 17:34:40 thats just roblox's server caps doing a funny
+bug-reports 2020-12-17 17:52:28 bruh
+bug-reports 2020-12-17 17:52:46 how tf does that get over there
+bug-reports 2020-12-17 17:53:28 unless rick made it so that its always in the same place relative to your view
+bug-reports 2020-12-17 17:53:47 yeah that thing is seriously bugged
+the-dump 2020-12-20 17:19:38 
+bot-central 2020-12-31 17:44:37 !servers
+bug-reports 2020-12-31 18:07:03 That happens to me too. Whenever a person leaves/joins the server, all lights switch off, for everyone
+bug-reports 2021-01-02 21:25:04 usually happens with lag
+bug-reports 2021-01-02 21:25:44 if you drop below around 25 fps physics start to dissolve
+bot-central 2021-01-03 18:21:05 !serevers
+bot-central 2021-01-03 18:21:18 !servers
+the-dump 2021-01-07 02:36:50 
+bug-reports 2021-01-11 20:28:58 they arent supposed to
+bug-reports 2021-01-11 21:03:36 yeah just like in real life if you were to put glue on a flat surface, and try to attach it to the tip of the wedge, it wouldn't stick
+bug-reports 2021-01-11 21:05:09 because there is no face parallel to the flat surface
+bot-central 2021-01-18 20:51:13 !servers
+creations-chat 2021-01-23 22:16:39 yeah destroyer just announced it
+creations-chat 2021-01-23 22:19:46 chances are the battle wont be recorded
+bot-central 2021-01-28 03:12:09 !servers
+bot-central 2021-01-28 03:30:11 !servers
+bot-central 2021-01-28 22:22:20 !servers
+bug-reports 2021-01-29 03:38:17 exactly, motor 3 works just fine
+bug-reports 2021-02-04 02:21:15 motor 2 fixed
+bug-reports 2021-02-04 02:21:45 !LAER
+bug-reports 2021-02-18 14:27:02 make torpedoes or depth charges
+bug-reports 2021-02-18 14:27:06 its not that hard
+bug-reports 2021-02-18 15:10:02 you literally just need to make a stick of explosives
+bug-reports 2021-02-18 16:19:08 ok then stick an engine on the back and some in front to steer
+the-dump 2021-02-23 00:00:51 
+bug-reports 2021-02-27 15:02:42 winter update part 2 when
+bug-reports 2021-02-27 15:03:16 susje139
+bug-reports 2021-02-27 15:03:39 yeah
+bug-reports 2021-02-27 15:03:55 i dont think any of my audios got removed
+bug-reports 2021-02-27 15:04:45 gtg
+bug-reports 2021-02-27 15:04:45 anyways
+bot-central 2021-04-01 15:06:43 -pccmc
+bug-reports 2021-05-14 02:11:37 not that ik of
+bug-reports 2021-05-14 02:12:45 i use hover thrusters as the main source of thrust on a lot of my jets, and Ive never had that problem with it
+bug-reports 2021-06-30 13:44:38 I mostly get it when anyone joins/leaves the server
+creations-chat 2022-02-21 15:12:22 so far, does this resemble a forrestal class carrier?
+creations-chat 2022-02-21 18:27:19 better?
+creations-chat 2022-02-21 18:44:35 better now? also ik the landing zone is misaligned
+bug-reports 2022-03-07 23:25:33 vip servers will keep teleporting you to the waiting place after a few minutes
+bug-reports 2022-03-07 23:25:50 doesnt matter that they are already updated
+bug-reports 2022-03-07 23:25:57 they will always kick you out
+bug-reports 2022-03-07 23:29:57 also sometimes you get teleported to an un-updated server
+bug-reports 2022-03-07 23:44:35 waited in one public server for 10 min after being teleported there and it has not updated yet
+bug-reports 2022-03-07 23:45:23 in the meantime my alt has been teleported after just a few minutes on an already updated private server
+bot-central 2022-03-11 22:31:35 -servers
+creations-chat 2022-05-23 03:22:35 which of these wing vapors looks better?
+creations-chat 2022-05-23 03:42:40 how does this one look as well
+creations-chat 2022-05-23 03:51:40 its sad that wing panels have too much drag to let you pull a lot of alpha
+creations-chat 2022-05-23 04:07:18 custom flaps, too lazy to fill in the edges just yet
+creations-chat 2022-05-23 04:09:33 tried them when I first built it but they just didn't give it the same agility as custom
+creations-chat 2022-05-23 04:12:19 I could just fill it in with trails
+bot-central 2022-05-23 21:45:52 !servers
+bot-central 2022-05-23 21:45:56 -servers
+bot-central 2022-05-23 21:46:06 -servers
+bot-central 2022-05-23 21:46:12 bruh bot broke
+bot-central 2022-05-23 21:47:48 ?servers
+bot-central 2022-05-23 21:47:52 !servers
+bot-central 2022-05-23 21:47:55 -servers
+bot-central 2022-05-23 21:48:06 /servers
+bot-central 2022-05-23 21:48:12 yeah rip
+bot-central 2022-05-23 22:56:55 -servers
+bug-reports 2022-06-24 18:24:22 people are starting to take advantage of the sit and spawn glitch again
+bug-reports 2022-06-24 18:24:33 someone sat in my plane
+bug-reports 2022-06-24 18:24:40 spawned her plane
+bug-reports 2022-06-24 18:25:01 which flung mine to brazil
+bug-reports 2022-06-24 18:25:08 and killed the entire server
+bug-reports 2022-06-24 18:25:31 some gui functions still arent working for some people who rejoined
+bug-reports 2022-06-24 18:27:22 and someone got 2 plots from it
+bug-reports 2022-06-24 18:28:09 and blacklist died
+bug-reports 2022-06-25 03:40:05 the toggle function on the water wheel doesnt actually toggle it on/off
+bug-reports 2022-06-25 03:40:13 works the same as if its turned off
+bot-central 2022-07-15 17:32:41 -servers
+help 2022-07-16 03:40:27 Im motorlocking a 50x10 glass block platform and 2 50x10 platforms of wedges inside of another 50x10 platform of 1x0.9 blocks
+help 2022-07-16 03:40:36 but I shed like 30fps and start stuttering
+help 2022-07-16 03:41:14 is there a way to lessen the performance hit?
+creations-chat 2022-07-28 03:49:01 bot probably broke for the 103899th time
+creations-chat 2022-07-28 18:22:35 what the fuck is going in <#384025409945337856>
+rbk is gonna have a very pleasant afternoon today
+creations-chat 2022-07-28 18:53:57 mods probably dont even care at this point
+bug-reports 2022-08-01 16:26:50 if you save a sign with "Status: Boarding" on it and then load it again it deletes ": Boarding"
+bug-reports 2022-08-01 16:27:38 doesnt just happen with that phrase
+bug-reports 2022-08-01 16:28:06 lots of sign things have started vanishing when saving
+bug-reports 2022-08-01 16:30:12 it looks like the sign is unable to save the : and anything after it
+bug-reports 2022-08-01 16:30:52 using a ; just makes the sign revert to default text
+bug-reports 2022-08-01 16:33:22 using : or ; could also make the text size tiny when loading again
+bug-reports 2022-08-01 16:34:13 nothing in logs
+bot-central 2022-08-03 23:21:58 -servers
+bot-central 2022-08-07 14:05:22 -servers
+creations-chat 2022-08-21 02:16:38 comically large airport <:empty:794431705070174238>
+creations-chat 2022-08-21 02:18:59 should I make it 2 plots longer?
+help 2022-08-27 21:43:10 is there an easy way to make this outer grey square able to slide up and down the inner white square
+help 2022-08-27 21:43:43 when its locked in like this the outer square clips the inner one for some reason and that pretty much renders it useless
+help 2022-08-27 21:49:38 this is what the inner one is (1 square=1 block)
+help 2022-08-28 14:07:08 is there a way to have a disconnector touching the top of a half block without it clipping into the half block?
+help 2022-08-28 14:07:58 it always does this when locked which is what im trying to avoid
+help 2022-08-28 14:15:43 the clipping
+help 2022-08-28 14:16:02 you can see on both parts the disconnector is inside of the half block
+bot-central 2022-08-28 14:39:34 -servers
+bot-central 2022-08-28 14:40:02 tf happened to the vips
+bot-central 2022-08-28 14:40:14 -servers
+bot-central 2022-08-28 17:17:39 -servers
+bot-central 2022-09-02 22:51:02 -servers
+bot-central 2022-09-02 22:51:22 hyper died
+bot-central 2022-09-02 22:51:26 again
+bot-central 2022-09-02 22:51:35 <@660341617537843210>
+bot-central 2022-09-02 22:51:38 <@660341617537843210>
+bot-central 2022-09-02 22:51:40 -servers
+bot-central 2022-09-02 22:52:09 -servers
+bot-central 2022-09-03 14:10:32 -servers
+bot-central 2022-09-25 15:10:15 -servers
+bot-central 2022-11-19 18:37:13 -servers
+bot-central 2023-01-03 15:13:49 -servers
+creations-chat 2023-01-03 16:08:23 made the terminal 2 plots longer, should I do more or stop before I lose my sanity?
+bot-central 2023-03-25 15:07:43 -servers
+bot-central 2023-04-06 14:23:28 !server
+bot-central 2023-04-06 14:23:33 !servers
+bot-central 2023-04-06 14:23:37 -servers

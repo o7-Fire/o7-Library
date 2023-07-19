@@ -1,0 +1,6 @@
+The Tale of stefthedev (1002143750581129287)
+bot-central 2022-12-27 09:46:08 -servers
+bot-central 2022-12-27 09:46:17 e
+bot-central 2022-12-27 09:46:21 bro frick you
+bot-central 2022-12-27 09:46:24 smh
+bug-reports 2023-05-19 17:09:41 fix the blacklist glitch (you blacklist someone, that guy rejoins, and you unblacklist, and its impossible to unblacklist the other guy without rejoining)

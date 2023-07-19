@@ -1,0 +1,5 @@
+The Tale of deilek (611261110175137813)
+creations-chat 2020-08-20 00:52:47 casualy trying to build a flying battleship yamato, like 40% done
+creations-chat 2020-08-20 00:54:08 nice
+bug-reports 2020-08-21 17:08:54 Fix the 7x1 block and the 4x1 wedge
+bug-reports 2020-08-21 17:10:16 If you place them in a certain direction it acts like your placing it into another block

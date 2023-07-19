@@ -1,4 +1,2 @@
-soaps_backup
-plane-crazy 2020-04-14 09:48:38 Bigger wings
-plane-crazy 2020-04-14 09:48:10 If ur new start with something small
-plane-crazy 2020-04-13 07:09:53 That's why I keep 2 saves of my builds
+The Tale of soaps_backup (329204193128742915)
+bug-reports 2020-04-14 09:47:27 i used a build with only about 800 blocks, whenever it gets blown up to a certain degree my game just freezes, not my specs as i have a 1060 and a i7 7th gen

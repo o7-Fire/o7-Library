@@ -1,0 +1,94 @@
+The Tale of lucatelfer (802372313563004959)
+help 2021-01-23 04:08:27 Guys how do i fix the issue with impact tnt? when it contacts a creation, it lags backwards and doesnt detonate on the creation. It makes my explosive cannons completely useless.
+help 2021-01-23 04:09:18 yes
+help 2021-01-23 04:09:41 I believe it is because of roblox latency no any sort of configuration
+help 2021-01-23 04:10:36 yes
+help 2021-01-23 04:11:21 yes
+help 2021-01-23 04:11:41 i believe this issue could be solved by adding an explosion delay
+help 2021-01-23 04:11:50 but that would require adding that to the game
+bug-reports 2021-01-23 04:12:51 I found a bug
+bug-reports 2021-01-23 04:13:39 Impact tnt doesnt explode in the right place
+bug-reports 2021-01-23 04:19:46 Impact tnt will contact a creation and then detonate futher back in its trajectory
+bug-reports 2021-01-23 04:23:38 Tnt exploding in the wrong spot.
+bug-reports 2021-01-23 04:24:29 sorry that video is terrible
+bug-reports 2021-01-23 10:59:08 <@!680035569023451146> no i wasnt aiming for the creation. I can show a clearer video of the explosives lagging and exploding in the wrong area. The tnt hits the ground then explodes futher back mid air
+bug-reports 2021-01-23 11:00:48 <@!403843930543882241> its because of latency. The speed the tnt is travelling affects the amount it lags backwards.
+bug-reports 2021-01-23 21:17:14 <@!680035569023451146> gladly
+bug-reports 2021-01-23 22:35:04 <@!680035569023451146> im converting the video now. Here is undeniable proof of the bug
+bug-reports 2021-01-23 22:35:55 
+bug-reports 2021-01-23 23:20:29 yes obviously
+bug-reports 2021-01-23 23:20:40 or it would explode inside the cannon
+bug-reports 2021-01-23 23:20:56 <@!680035569023451146>
+bug-reports 2021-01-23 23:21:27 its because of latency
+bug-reports 2021-01-23 23:21:32 i believe
+bug-reports 2021-01-23 23:22:20 but a simple fix i believe would work is to add a short time delay between contact and the explosion
+bug-reports 2021-01-23 23:22:56 it could
+bug-reports 2021-01-23 23:23:06 i made a suggestion for it
+bug-reports 2021-01-23 23:23:13 hopefully its implemented
+bug-reports 2021-01-24 00:00:22 ?
+bug-reports 2021-01-24 00:01:02 <@!318892614378061824>
+bug-reports 2021-01-24 00:01:21 wdym?
+bug-reports 2021-01-24 00:01:39 the video?
+bug-reports 2021-01-24 00:02:48 sorry i dont know how to fix
+bug-reports 2021-01-24 00:03:07 but fixing the video wont fix the problem
+help 2021-01-24 04:00:40 how is motor 2 servo mode broken?
+bug-reports 2021-01-24 04:48:58 unconditionally?
+creations-chat 2021-01-24 09:29:28 he downvotes literally everything
+help 2021-01-24 10:01:28 weight, thrust and aerodynamic tweaking
+creations-chat 2021-01-25 00:02:51 Chunky
+creations-chat 2021-01-25 00:05:51 Add depth. Maybe add a radio off to the side and maybe rails
+creations-chat 2021-01-25 00:18:10 no
+bug-reports 2021-01-25 00:23:12 lol
+bug-reports 2021-01-25 03:19:51 lol
+bug-reports 2021-01-25 03:20:05 very broken game
+bug-reports 2021-01-25 03:20:42 i wish they would just remove motor locking and camera locking personally. The mechanics changes so often
+bug-reports 2021-01-25 03:21:04 ha ha unpopular opinion
+bug-reports 2021-01-25 03:21:35 its just a really boring way of making builds tbh. Only fun for adding details to things or memes
+bug-reports 2021-01-25 03:22:36 i do know how to
+bug-reports 2021-01-25 03:22:46 i was testing out camera locking on a build
+bug-reports 2021-01-25 03:22:57 i do use
+bug-reports 2021-01-25 03:23:26 nothing its just boring
+bug-reports 2021-01-25 03:23:35 i have a bigger problem with camera locking tho
+bug-reports 2021-01-25 03:23:43 wdym?
+bug-reports 2021-01-25 03:24:05 its super simple but camera locking is proven to be very unpredicatable
+bug-reports 2021-01-25 03:24:20 ik
+bug-reports 2021-01-25 03:24:27 motor locking is easy
+bug-reports 2021-01-25 03:24:42 but camera locking is so weird
+bug-reports 2021-01-25 03:24:55 no
+bug-reports 2021-01-25 03:25:02 i do
+bug-reports 2021-01-25 03:25:08 it was kinda better
+bug-reports 2021-01-25 03:25:17 except for tnt blocks
+bug-reports 2021-01-25 03:25:21 and magnets
+bug-reports 2021-01-25 03:25:23 and hovers
+bug-reports 2021-01-25 03:25:25 and motor2
+bug-reports 2021-01-25 03:25:31 and eveything
+bug-reports 2021-01-25 03:25:58 ok i change my mind
+bug-reports 2021-01-25 03:26:07 motor lock, fine. camera lock, no.
+bug-reports 2021-01-25 03:26:38 camera lock is stupid unpredictable
+bug-reports 2021-01-25 03:27:02 it is unpredictable
+bug-reports 2021-01-25 03:27:06 trust me
+bug-reports 2021-01-25 03:27:29 voyager
+bug-reports 2021-01-25 03:27:37 you sound like a guy who understands it
+bug-reports 2021-01-25 03:27:55 but even you didnt predict what would happen with that test thing
+bug-reports 2021-01-25 03:28:17 camera locking is so conditional
+bug-reports 2021-01-25 03:31:48 its consistent
+bug-reports 2021-01-25 03:31:55 but so is the pi constant
+bug-reports 2021-01-25 03:32:21 but the pi constant is also completely infinite and never repeats
+bug-reports 2021-01-25 03:32:35 yeah
+bug-reports 2021-01-25 03:32:47 ik i wanted to use anchor blocks with camera welds
+bug-reports 2021-01-25 03:32:54 but they were doing funny stuff
+creations-chat 2021-01-25 03:34:27 motor 2 is a joke
+bug-reports 2021-01-25 03:35:40 so its not random just conditional
+bug-reports 2021-01-26 09:34:17 can devs literally just add a timer option to tnt? It would solve most client side latency problems
+help 2021-01-27 03:49:51 what is the point of suggestions if no one checks them?
+help 2021-01-27 03:50:19 ik
+help 2021-01-27 03:50:33 its just theres a simple game changing bug
+help 2021-01-27 03:50:37 with a simple ix
+help 2021-01-27 03:50:38 fix*
+help 2021-01-27 03:50:55 yeah it just sucks kinda
+bug-reports 2021-01-27 22:34:34 just dont use motor 2
+creations-chat 2021-01-28 07:03:49 what is a four dimensional shape?
+creations-chat 2021-01-28 07:10:45 isnt depth is the same as width?
+creations-chat 2021-01-28 07:12:57 but i dont undestand, A tesseract can be a 3d shape cant it?
+creations-chat 2021-01-28 07:15:42 neither
+help 2021-01-30 06:53:24 wrong

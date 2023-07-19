@@ -1,0 +1,20 @@
+The Tale of Crow (560185893051301890)
+bot-central 2020-03-31 19:10:08 !server
+the-dump 2020-04-01 11:13:57 hhahh
+the-dump 2020-04-01 11:17:21 nobody:
+
+dinosim:
+bot-central 2020-05-26 12:57:26 ;;p the trooper
+bot-central 2020-05-26 12:59:46 ::skip
+bot-central 2020-05-26 12:59:49 ;;skip
+bot-central 2020-05-26 13:00:05 i wanna listen to mine
+bot-central 2020-05-26 13:00:27 which one?
+bot-central 2020-05-26 13:00:29 how
+bot-central 2020-05-26 13:00:42 what command idot
+bot-central 2020-05-26 13:00:47 ;;
+bot-central 2020-05-26 13:01:00 koool
+bot-central 2020-05-26 13:01:12 =play iron maiden the trooper
+bot-central 2020-05-26 13:06:22 =play symphony of destruction
+bot-central 2020-05-26 17:37:28 ;;play run to the hills
+bot-central 2020-05-26 17:38:42 ''q
+bot-central 2020-05-26 17:38:44 ;;q

@@ -1,0 +1,22 @@
+The Tale of conkordat (732390305973928058)
+help 2022-08-08 02:29:47 
+help 2022-08-08 02:29:55 My scuffed "plane" doesn't go up
+help 2022-08-08 02:30:39 It goes at a straight line and falls in the void
+help 2022-08-08 02:30:42 Fuel tanks are inside
+help 2022-08-08 02:30:48 Landing gear below
+help 2022-08-08 02:35:49 Which wing and what type of engine
+help 2022-08-08 02:36:11 I tried placing a super rocket engine at the rear but it didn't do anything
+help 2022-08-08 02:37:56 Widening the main wings throw off the blue center of mass
+help 2022-08-08 02:38:12 
+help 2022-08-08 02:38:18 okay then
+help 2022-08-08 02:38:40 done
+help 2022-08-08 02:40:48 I placed two and it didn't work
+help 2022-08-08 02:41:30 
+help 2022-08-08 02:44:06 the plane now spins uncontrollably
+help 2022-08-08 02:44:14 I'll try to find the right amount
+help 2022-08-08 02:44:21 and see if it works
+help 2022-08-08 02:45:18 2 doesn't make a difference, three makes it spin uncontrollably
+help 2022-08-08 02:45:36 four is the maximum amount that fits inside the plane and it spins even more
+help 2022-08-08 02:50:45 
+help 2022-08-08 02:50:50 The rocket engines are inside here
+help 2022-08-08 02:50:57 Six is the absolute maximum

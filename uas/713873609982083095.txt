@@ -1,0 +1,5 @@
+The Tale of popa15_cz (713873609982083095)
+help 2023-01-31 18:21:59 why does my vertical stabilizator keep distabilizing?
+help 2023-01-31 19:27:27 i use motor to pitch trim the aircraft, the speed is like 0,15, max torque 1000 and the motor keeps moving sometimes a bit without my interaction, wich deffects the aircraft a lot.
+help 2023-01-31 19:47:58 1
+help 2023-02-03 20:40:59 how can i prevent lights from randomly turning off?

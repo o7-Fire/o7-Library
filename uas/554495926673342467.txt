@@ -1,0 +1,80 @@
+The Tale of skycrafter1234 (554495926673342467)
+creations-chat 2020-08-22 01:50:22 Im making a flying robot. may i have assistance?
+creations-chat 2020-08-22 02:27:11 can anyone help me make a flying robot?
+creations-chat 2020-08-22 02:28:30 oof
+creations-chat 2020-08-22 02:52:08 tonk
+creations-chat 2020-08-22 03:16:59 can someone help me make a flying robot? i have the shape down but its hard to control
+help 2020-08-22 03:32:44 having trouble making a car; wheels dont make the car move, cant find the part to make the car turn
+help 2020-08-22 03:34:26 current state. propeller was used to make the car go forward
+help 2020-08-22 03:36:14 ok
+help 2020-08-22 03:37:13 thanks
+creations-chat 2020-08-23 01:17:07 I cant see the Center of flight or whatever its called.
+creations-chat 2020-08-23 01:23:24 The center of weight and center of flight are pretty close together but its still unstable
+creations-chat 2020-08-23 01:24:23 > Make it stable
+<@!608204785384030208> thats what im asking help for
+help 2020-08-23 01:27:14 the center of weight and center of flight are pretty close but when i fly its still unstable
+help 2020-08-23 01:30:10 > Is this in a plane or a heli?
+its planned to be an all terrain vehicle (land water and air) but the flight portion is intended to be plane-like
+help 2020-08-23 01:41:08 the centers' relation are about the same as one of my other vehicles that are stable,
+help 2020-08-23 01:50:55 the centers are really close but the plane is very unstable
+help 2020-08-23 01:51:09 bruh
+help 2020-08-23 01:52:41 > the centers are really close but the plane is very unstable
+https://streamable.com/xunwkq
+help 2020-08-23 01:53:27 oh ok
+help 2020-08-23 02:06:51 now the vehicle doesnt fly
+help 2020-08-23 02:10:12 hmm. did some adjustments and it can fly but its unstable still when i do fly
+help 2020-08-23 02:10:48 and its difficult to start flying
+help 2020-08-23 02:12:49 https://streamable.com/owdg49
+help 2020-08-23 03:14:59 no
+help 2020-08-23 03:15:04 im not
+help 2020-08-23 03:15:19 i assume by you saying that that im being a complete idiot
+help 2020-08-23 03:16:23 > Omg that has to be a joke
+<@!299289130964090881> what is the obvious error?\
+help 2020-08-23 03:16:47 it isnt
+help 2020-08-23 03:17:08 what is the error. it must be just flying over me cus i have no idea if its that obvious
+help 2020-08-23 03:17:32 or im just doing a terrible mistake or some stuff
+help 2020-08-23 03:19:13 I dont understand how the center of mass and lift is bad, i didnt know there is a center of thrust, how many wings do i need, i had been trying to put the mass and lift as close as possible but i was having difficulties
+help 2020-08-23 03:20:06 i get it, im being a moron
+help 2020-08-23 03:20:54 well someone said it should have two pairs instead of one so i added a second pair
+help 2020-08-23 03:21:48 three wings or thrusters?
+help 2020-08-23 03:22:20 ok
+help 2020-08-23 03:22:54 should i make the car longer to add more or fit as many on the current side as possible
+help 2020-08-23 03:23:30 but i want to make an all terrain vehicle
+help 2020-08-23 03:23:39 air land and water
+help 2020-08-23 03:23:57 i have the land down and im trying to do air next
+help 2020-08-23 03:24:21 but apparently the tutorial wasnt enough to get through my thick skull
+help 2020-08-23 03:25:08 i know they can be made longer
+help 2020-08-23 03:25:18 but you didnt say longer, you said more
+help 2020-08-23 03:25:57 im sorry i make you guys feel that way
+help 2020-08-23 03:31:08 but in order for me to not be a moron i must be taught the things to not be a moron
+help 2020-08-23 03:32:34 are 9 wing pannels per wing good?
+help 2020-08-23 03:34:29 no not nine
+help 2020-08-23 03:34:47 5
+help 2020-08-23 03:38:15 ?
+help 2020-08-23 03:38:22 I have
+help 2020-08-23 03:38:55 i actually have made a flying car before, but i want to change the design, also i have made a plane
+help 2020-08-23 03:40:38 yeah
+help 2020-08-23 03:40:42 well
+help 2020-08-23 03:40:54 technically i havent actually made a plane
+help 2020-08-23 03:41:50 it was the tutorial plane
+help 2020-08-23 03:42:03 which i edited into a flying car
+help 2020-08-23 03:43:35 i am
+help 2020-08-23 03:44:26 would you like me to stream it in a voice channel so you can help on the fly?
+help 2020-08-23 03:45:15 i do
+help 2020-08-23 03:45:50 just incase i make some terrible errors i dont know im making
+help 2020-08-23 03:46:06 you can tell me to fix it before i ask what the problem is
+help 2020-08-23 03:47:53 current progress
+help 2020-08-23 03:59:09 this a good wing?
+help 2020-08-23 03:59:35 probably need more control surfaces
+help 2020-08-23 04:00:17 ?
+creations-chat 2020-08-23 20:25:59 yay i made my first self made plane
+creations-chat 2020-08-23 20:26:13 anyways i could improve?
+creations-chat 2020-08-23 20:26:18 ill take a video
+creations-chat 2020-08-23 20:31:47 the paintjob will be fixed later
+creations-chat 2020-08-23 20:31:48 https://streamable.com/n7i80q
+creations-chat 2020-08-23 20:33:26 i know one thing is that i need to fix the turning
+creations-chat 2020-08-23 20:36:55 ?
+creations-chat 2020-08-23 20:40:53 nah
+creations-chat 2020-08-23 20:40:59 i like those
+creations-chat 2020-08-23 20:41:07 i dont see the problem
+creations-chat 2020-08-23 20:41:35 heh

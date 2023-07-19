@@ -1,0 +1,6 @@
+The Tale of emily herd bf (272469041275207680)
+bug-reports 2019-05-17 08:12:51 when you leave and rejoin a game any build from the first sessions Huge rocket engines wont work
+bug-reports 2019-05-17 09:19:18 oh ok
+bug-reports 2019-05-17 09:19:24 so how to fix it?
+bot-central 2019-05-21 03:22:45 !roverhelp
+bot-central 2019-05-28 04:09:44 !roverhelp

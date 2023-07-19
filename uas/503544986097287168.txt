@@ -1,0 +1,105 @@
+The Tale of toftbread (503544986097287168)
+bot-central 2021-11-17 16:04:28 ?shelp
+bot-central 2021-11-17 16:06:08 &suggest logic blocks
+bot-central 2021-11-17 16:06:13 damn it didnt work
+bot-central 2021-11-17 16:06:15 oh well
+bot-central 2021-12-01 13:21:30 -servers
+bot-central 2021-12-01 13:21:34 oh.
+help 2022-01-21 06:09:02 this thing needs wheels help
+help 2022-01-21 06:10:07 what
+help 2022-01-21 06:10:11 i meant like actual wheels
+help 2022-01-21 06:10:13 its a land vehicle
+help 2022-01-21 06:10:49 ?
+help 2022-01-21 06:11:17 ??
+help 2022-01-21 06:11:33 i
+help 2022-01-21 06:12:03 sorry if im being a bit of a nuisance
+help 2022-01-21 06:12:10 its going to go offroad
+help 2022-01-21 06:13:11 oh yeah ok
+help 2022-01-21 06:13:28 here ish
+help 2022-01-21 06:13:36 and then another set at the back
+help 2022-01-21 06:14:46 yeah
+help 2022-01-21 06:16:21 thats the problem
+help 2022-01-21 06:16:27 im confused on how to do suspension
+help 2022-01-21 06:17:36 i know
+help 2022-01-21 06:18:00 i meant like
+help 2022-01-21 06:18:12 yeah
+help 2022-01-21 06:18:35 idk how to fit it there
+help 2022-01-21 06:18:41 along with the steering
+help 2022-01-21 06:18:47 and still make it look good
+help 2022-01-21 06:19:25 tank steering has a tendency to glitch out if applied with too much weight
+help 2022-01-21 06:19:30 or something like that
+help 2022-01-21 06:20:33 its like
+help 2022-01-21 06:20:37 doubling up the motors right
+help 2022-01-21 06:20:46 what?
+help 2022-01-21 06:20:58 theres a different way of doing tank steering?
+help 2022-01-21 06:21:03 well then ive been doing it wrong
+help 2022-01-21 06:21:05 goddamn
+help 2022-01-21 06:25:26 oh cool
+help 2022-01-21 06:25:34 how i did it
+help 2022-01-21 06:25:36 was i like
+help 2022-01-21 06:25:39 doubled up the motors
+help 2022-01-21 06:25:43 and set them to different controls
+help 2022-01-21 06:25:46 so 1 set for ws
+help 2022-01-21 06:25:51 and the 2nd set for ad
+help 2022-01-21 06:26:01 i realize now that that was probably a mistake
+help 2022-01-21 06:26:27 yeah.
+help 2022-01-21 06:26:30 alright
+help 2022-01-21 06:26:33 ill try my best
+help 2022-01-21 06:26:36 and ill let you know
+the-dump 2022-02-22 12:42:27 anyone know how to fix this
+the-dump 2022-02-22 12:44:49 bet
+creations-chat 2022-03-30 03:26:59 
+the-dump 2022-03-30 12:12:04 i drew kirby car
+bot-central 2022-04-06 13:23:33 !rank
+bot-central 2022-04-06 13:23:38 oh nice level 8
+the-dump 2022-04-07 03:15:03 bro looks like a cyberpunk npc
+the-dump 2022-04-07 03:15:06 AI generated lookin ass
+creations-chat 2022-04-17 12:44:47 i need something on the tail of this boi, its meant to be some kind of vtol, help?
+creations-chat 2022-04-18 03:20:41 ???
+creations-chat 2022-04-18 03:22:23 use a ladder block for the handle bit
+creations-chat 2022-04-18 03:49:17 (your mom)
+creations-chat 2022-04-18 03:53:26 try making the motor behind it instead of beside, use text blocks to connect them
+bot-central 2022-05-24 14:45:40 !help
+bot-central 2022-05-24 14:46:01 ?shelp
+bot-central 2022-05-24 14:46:11 ah.
+bot-central 2022-05-24 14:46:19 awesome.
+bot-central 2022-05-24 14:46:26 just have to get a rank i guess
+bot-central 2022-05-24 14:46:40 then again im quite lazy
+bot-central 2022-05-24 14:47:01 was gonna suggest those bracing blocks from besiege that dont have collision for easier technical builds
+help 2023-07-08 17:48:18 how can i make this look a little better
+help 2023-07-08 18:23:00 what
+help 2023-07-08 18:23:12 is it really that bad
+help 2023-07-08 18:23:22 cmon bruh
+help 2023-07-08 18:24:26 ohhy
+help 2023-07-08 18:24:28 mb
+help 2023-07-08 18:24:30 uh
+help 2023-07-08 18:24:31 idk
+help 2023-07-08 18:24:42 ye
+help 2023-07-08 18:25:06 just say it's custom and people won't care about the intricate details lmaooo
+help 2023-07-08 18:25:26 it's very loosely based on a cargo plane i saw on google tho
+help 2023-07-08 18:25:51 yeah the propellers are ass
+help 2023-07-08 18:26:01 how do i make them look better
+help 2023-07-08 18:26:08 that is literally the max length the blades can go btw
+help 2023-07-08 18:26:14 or they knock into the wings
+help 2023-07-08 18:26:39 emoji time
+help 2023-07-08 18:26:58 imma put a skull emoji on there somewhere lol
+help 2023-07-08 18:27:12 go ahead
+help 2023-07-08 18:27:31 cool
+help 2023-07-08 18:27:35 very l o n g
+help 2023-07-08 18:28:04 cool
+help 2023-07-08 18:28:13 is that regular angle locking or camera locking
+help 2023-07-08 18:28:22 dang
+help 2023-07-08 18:28:30 i switched to camera locking
+help 2023-07-08 18:28:49 it's fairly simple to pick up tbh
+help 2023-07-08 18:29:00 i understood it after like an hour of messing around
+help 2023-07-08 18:29:07 gl
+help 2023-07-08 18:29:47 is it custom?
+help 2023-07-08 18:29:57 make it a fun shape
+help 2023-07-08 18:30:07 like a trapezoid
+help 2023-07-08 18:30:28 I don't know what that is I don't do too much researching into planes n stuff
+help 2023-07-08 18:30:52 uh
+help 2023-07-08 18:34:31 people hate exposed motorlock for some reason
+help 2023-07-08 18:35:07 you can post smth on <#384025409945337856> with the slightest bit of exposed motorlock and get doxxed by someone
+help 2023-07-08 18:35:52 i kinda want to build a plane completely out of locked motors just to piss people off
+help 2023-07-08 18:36:30 leaking yo personal information
+help 2023-07-08 18:36:47 🙏

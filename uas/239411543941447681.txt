@@ -1,0 +1,36 @@
+The Tale of deadvoxels (239411543941447681)
+bot-central 2021-11-21 13:51:18 !rank
+creations-chat 2022-12-14 10:13:21 Testing with a scale made using a free-floating motor and a long symmetrical beam, the block with the disconnector plates seems to be heavier than the plateless block. I believe this may have something to do with how magnets themselves affect different blocks instead, since it's not always entirely consistent.
+creations-chat 2022-12-14 10:38:21 Magnets do be funky
+Among other things, they can be used for ECMs that can deflect tracking rockets fairly reliably, at least when moving at decent speed
+help 2022-12-14 10:43:00 Yeah, in the tab with the gears, you'll find it by scrolling down a little
+help 2022-12-14 10:45:19 Here.
+creations-chat 2022-12-14 10:47:18 Well there's a certain type of magnet drive that will amplify magnet range and I believe strength too(unsure about that one), and for some reason once that has been activated once it can affect rockets even when the magnet isn't enabled in any direction
+
+Hard to explain exactly, and on top of that I don't really want to end up leaking tech that could maybe cause chaos in the wrong hands
+
+And no, it doesn't involve disconnectors
+help 2022-12-14 10:48:52 No problem man, happy building 👋
+creations-chat 2022-12-14 10:54:38 Oh yikes, the physics lag lol
+Uhh dunno what part of that involves said tech? What am I looking for in here-
+Also I would post footage of the ECM tech in action, however I, a pesky whitename, do not have embed access outside of just a few channels. I can post the media link here in a bit maybe, but it won't be embedded
+O wait what must've missed it since it looked uneventful so I was skipping through it. Where exactly in the video is that?
+creations-chat 2022-12-14 10:58:49 Woah that's interesting
+Oh yeah, here, if you want to see the ecm thing in action https://streamable.com/yl2kdi
+Ofc it only works against tracking rockets, but it's pretty neat and useful nonetheless
+creations-chat 2022-12-14 11:01:53 Nice nice
+Well, good luck lol
+help 2022-12-14 12:40:10 Try increasing the dampening slider
+if that doesn't work, you can try to put hover thrusters with drag in the thing. If you do that just make sure to lower their throttle to zero during setup
+bot-central 2022-12-14 13:11:16 !rank
+creations-chat 2022-12-14 13:23:23 The duck cutter did it
+creations-chat 2022-12-14 13:25:51 Huh lol
+creations-chat 2022-12-14 13:28:05 Duck mech with a sword <:trol:903469871042531398>
+creations-chat 2022-12-21 14:07:08 Very precise angle locking, is my guess
+creations-chat 2023-03-28 06:31:12 Hull looks fairly pro imo, turret feels a bit bulky but that might just be me
+creations-chat 2023-03-28 06:37:33 Eh understandable. Maybe later ig
+creations-chat 2023-03-28 06:46:27 Yeah that too, detailing is lacking for sure.
+help 2023-03-29 06:33:27 Just chat enough to get to level 3
+help 2023-03-29 06:34:54 Like a week at most if you're active, if you're decently active it won't take long at all really.
+creations-chat 2023-03-29 13:18:10 https://media.discordapp.net/attachments/636620098878177286/988571057508192306/vtol_mirage.gif
+creations-chat 2023-03-29 13:20:37 Idunno uhh, Belkan witchcraft or something <:Cocky:1011499531650748487>

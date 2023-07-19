@@ -1,0 +1,34 @@
+The Tale of galaxylechat (512601909278932992)
+creations-chat 2021-09-10 08:24:04 do anyone know how get the role for send picture in creation please?
+creations-chat 2021-09-10 15:21:05 thx, i will try
+help 2022-05-26 11:24:24 Why is my battleship spawning half in water...
+help 2022-05-26 11:26:24 I mean
+help 2022-05-26 11:26:40 It was spawning above  water before
+help 2022-05-26 11:26:58 Now (it's a folded ship) half the parts of the ship in water
+help 2022-05-26 11:27:17 Let me take screenshot
+help 2022-05-26 11:29:05 
+help 2022-05-26 11:29:27 well
+help 2022-05-26 11:29:34 since motor go BRRRR in water
+help 2022-05-26 11:29:36 i can't fold it
+help 2022-05-26 11:30:02 motor doesn't work in water
+help 2022-05-26 11:30:42 so i can't use my ship at all
+help 2022-05-26 11:31:18 ye?
+motor 2 too
+help 2022-05-26 11:31:24 they go brrrrr in void
+help 2022-05-26 11:31:42 so when i try fold my ship and see the entire part uner water go brrrrr
+help 2022-05-26 11:32:01 ok
+help 2022-05-26 11:32:14 but that still doesn't tell me why i spawn Half under water
+help 2022-05-26 11:32:35 it wasn't doing that like
+help 2022-05-26 11:32:39 2 months ago
+help 2022-05-26 11:32:58 lol
+help 2022-05-26 11:33:03 gonna wait pc2 i guess
+help 2022-05-26 12:33:51 So if i move anchor, it will spawn differently ?
+help 2022-05-26 12:34:22 Ok
+help 2022-05-26 12:34:29 Thx for help lol
+help 2022-05-26 12:34:34 Imma gonna try move anchor
+help 2022-05-26 12:53:42 Ye.. It doesn't work.
+bug-reports 2022-11-11 20:19:45 Do anyone know why i can't save my build?
+
+I can save it while i'm still in the server, but if i leave and rejoin, i lost the save i made earlier
+bug-reports 2022-11-11 20:34:57 Nvm, the problem come from the max data i can save, it didn't allowed me to go further than 2.1Millions on the 4 Millions said
+bug-reports 2022-11-12 21:48:53 Creating big build ?

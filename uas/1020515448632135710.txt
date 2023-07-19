@@ -1,0 +1,14 @@
+The Tale of swift1942 (1020515448632135710)
+help 2022-12-28 09:08:14 help!
+help 2022-12-29 23:07:26 client lag, guide the missile a little bit further of where the plane is currently at and that should hit (you have to do this every time
+help 2022-12-29 23:23:46 like
+help 2022-12-29 23:23:56 say you launched your missile,
+help 2022-12-29 23:24:03 the plane is going one direction west
+help 2022-12-29 23:24:13 you guide your missile just in front of the plane as its traveling west
+help 2022-12-29 23:24:34 and then explode as its in front, line up just right on the nose or in that area
+help 2022-12-29 23:24:49 its literally just client lag so just account for how laggy that player or you are and how fast the plane is going before you detonate
+events-chat 2023-03-17 05:21:22 you saying dog fighting don't make my heart beat?
+events-chat 2023-03-17 05:21:37 you saying extra details on plane don't add armor?
+events-chat 2023-03-17 05:21:40 hmmmmmm
+events-chat 2023-03-17 05:21:42 ok
+events-chat 2023-03-18 02:14:44 <:pogey:651848693842182144>

@@ -1,0 +1,6 @@
+The Tale of beefybuffoon (256288867076800522)
+bug-reports 2021-02-15 18:37:25 save slots break if you try to save with high ping
+bug-reports 2021-02-15 18:40:35 mobile building sometimes doesnt allow you to place blocks in certain areas
+bot-central 2021-02-15 18:41:39 ?shelp
+bot-central 2021-02-15 18:41:58 ?rhelp
+bug-reports 2021-02-15 18:50:18 game has massive lag spike even with lowest graphics and al particles off

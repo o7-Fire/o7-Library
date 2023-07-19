@@ -1,0 +1,62 @@
+The Tale of yorkshiretea_ (481105243925381120)
+help 2022-04-17 15:29:31 Aye, my mech is pretty big. And it's causing the feet motors to lag and spaz out of place. Any way to fix this?
+help 2022-04-17 15:29:48 
+help 2022-04-17 15:30:31 Tourqe is at max
+help 2022-04-17 15:30:34 Is that a problem?
+help 2022-04-17 15:30:48 Ill tweak that
+help 2022-05-06 16:42:27 How do you fix the motors breaking appart and re attaching? Im having this problem when building mechs. Do I need to disable locking?
+help 2022-05-06 16:50:57 Is there any fix?
+help 2022-05-06 22:17:12 Anyone got a fix for this?
+help 2022-05-06 22:17:31 Heres it unlocked
+help 2022-05-06 22:21:14 The right side is identical to the left, but the left seems to be just dying
+help 2022-05-06 22:22:38 I have motors 1's as the joints
+help 2022-05-06 22:22:39 
+help 2022-05-06 22:23:03 No
+help 2022-05-06 22:24:28 The joint at the hip is un powered
+help 2022-05-06 22:24:36 But the feet seem to be stable now
+help 2022-05-06 22:25:41 Are the motors that messed up 💀
+help 2022-05-06 22:26:26 Well, there was the first problem of the entire leg mangling
+help 2022-05-06 22:26:29 Now its just the hip
+help 2022-05-06 22:26:51 Hip problem fixed, now the joint at the knee is messed
+help 2022-05-06 22:27:03 
+help 2022-05-06 22:27:17 Is there another way to make knee joints?
+help 2022-05-06 22:27:34 Ill have to experiment with them then
+help 2022-05-06 22:27:51 Any tips? Right now I have 2 motors on each side, connected to a pole with more motors on the end
+help 2022-05-06 22:28:01 This, pretty much
+creations-chat 2022-05-06 22:34:15 Anyone got a good way to make mech knee joints?
+help 2022-05-06 22:36:36 Oh hey it works now
+help 2022-05-06 22:36:42 Imperial knight here I come
+help 2022-05-06 22:49:22 How do you make A and D movement in a mech legs so it turns left and right? I have propellers in the upper thigh but that doesnt seem to work
+creations-chat 2022-05-07 13:22:25 <@567763933952475157> Cool helicopter! How did you make the cockpit? I've been obsessed with trying to make those windows!
+creations-chat 2022-05-07 13:24:09 Im on about the window lines, they look like trails, but I have no idea how to motor lock it
+bot-central 2022-05-07 13:25:23 !rank
+help 2022-05-07 13:35:44 Any tips on how I can improve this?
+help 2022-05-07 13:40:41 Alright
+help 2022-05-07 13:40:50 Oh my god, it looks so good now
+bot-central 2022-05-12 19:50:05 !rank
+creations-chat 2022-05-12 19:56:26 Any tips on how to improve the pod racer?
+creations-chat 2022-05-12 19:58:54 Ill unify the colours and upscale the turbines
+creations-chat 2022-05-12 20:16:37 <@359613171495075842> I've added shading and tiny little detals to the engines, any feedback?
+creations-chat 2022-05-12 20:22:49 Hover engines that make it fly, I cant really work around that
+creations-chat 2022-05-12 20:28:03 Nevermind, all hover thrusters are inside. I also thickened out the engines a bit
+creations-chat 2022-05-12 20:31:37 Holy, that helps alot
+creations-chat 2022-05-12 21:06:43 <@359613171495075842> Spent time upgrading, I upscaled the engines in response to LkaiBX. Fixed the shapes and tried to upgrade the engines
+creations-chat 2022-05-13 12:39:20 Cool titanfall build. Now build it protecting the pilot
+creations-chat 2022-05-13 12:45:19 Any tips on the SU 57?
+creations-chat 2022-05-13 12:49:24 It's sort of custom, sort of SU 57, I used this as a reference
+creations-chat 2022-05-13 12:51:07 I was told to change the name
+creations-chat 2022-05-13 12:54:32 I've only been playing for a week now let's try to be nice 💀
+creations-chat 2022-05-13 12:56:17 😵 i just tried to make something that looked half decent
+creations-chat 2022-05-13 12:59:58 I have only been here for 7 days, im trying
+creations-chat 2022-05-13 13:02:18 Alright, what about this one then?
+creations-chat 2022-05-13 13:04:31 Alright then, why dont you give some advice on how it's done. (Also thanks Dontcallme)
+creations-chat 2022-05-13 13:07:40 Alright, i'll try and make another jet. Do you actually know where I can get blueprints?
+creations-chat 2022-05-13 13:37:22 How's this canopy then?
+creations-chat 2022-05-13 13:39:16 Alright, ill fix the nose
+creations-chat 2022-05-13 14:15:06 Didn't we already go over about how I know it's a bad build and im trying to make better?
+creations-chat 2022-05-13 14:22:27 What the hell is a whitename and how do I get a coloured name. What kind of racewar is this!?!?
+creations-chat 2022-05-13 14:25:10 Haven't we already been over this?
+creations-chat 2022-05-13 14:30:30 Ok im going to nandos please give tips when I get back
+creations-chat 2022-05-13 14:32:29 Holy crap my pod racer has 80 up votes
+creations-chat 2022-05-13 14:35:07 Ok so, what do you guys not like about my Knight in creations
+creations-chat 2022-05-13 14:38:45 As in more objects and stuff? Or more paint working

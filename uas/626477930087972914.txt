@@ -1,4 +1,14 @@
-1volvic
-plane-crazy 2020-05-25 04:22:46 Parachute and the hovercraft engine to push it
-plane-crazy 2020-05-25 04:22:10 Fount a new useless glitch
-plane-crazy 2020-05-25 04:21:51 
+The Tale of 1volvic (626477930087972914)
+bug-reports 2020-05-29 02:21:24 The parachute sometimes glitch out and flings my build
+help 2020-06-28 14:04:30 I can’t open doors on mobile by taping them
+help 2020-06-28 14:04:39 I tried unlocking
+bug-reports 2020-07-28 02:49:06 The gun wont stop shooting on mobile
+bug-reports 2020-07-28 02:50:24 I think adding a shoot button will help or something
+help 2020-08-13 03:20:18 Why won’t my control surface move it works on pc tho
+help 2020-08-13 03:21:14 Now I’ll have to live with custom control surfaces witch is hard to control on mobile
+help 2020-08-13 03:23:16 Idk why btw the control surfaces are getting worse and worse they use to work really well
+help 2020-08-13 12:29:31 <@!566176185940443156> the joystick pitch won’t work but he roll does work
+help 2020-08-13 12:34:42 Today I added. More control surfaces
+help 2020-08-13 12:35:18 It barely pitch’s up
+bug-reports 2021-03-04 15:03:38 Guys who other people has. This. Glitch when you open the material selector on your iPad the game crashes
+bug-reports 2021-03-04 15:04:36 ?

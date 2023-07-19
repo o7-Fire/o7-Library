@@ -1,0 +1,24 @@
+The Tale of Floppa (995320118110339132)
+the-dump 2022-07-16 10:26:42 Hello
+bot-central 2022-07-16 10:51:22 !rank
+bot-central 2022-07-16 14:40:50 !rank
+the-dump 2022-07-16 14:44:22 Oooof
+bot-central 2022-07-16 14:53:28 !rank
+bot-central 2022-07-16 18:56:23 !rank
+bot-central 2022-07-16 19:17:17 -rank
+bot-central 2022-07-16 19:17:24 !rank
+bot-central 2022-07-16 19:20:03 $nee
+bot-central 2022-07-17 03:48:42 !rank
+bot-central 2022-07-17 03:50:23 !rank
+creations-chat 2022-07-17 09:09:22 What do i make
+creations-chat 2022-07-17 11:10:07 Ok
+creations-chat 2022-07-22 11:04:53 Ok
+bot-central 2022-07-22 11:30:16 !rank
+bot-central 2022-08-02 20:20:02 -overrandom
+bot-central 2022-08-02 20:20:35 -underandom
+bot-central 2022-08-02 20:20:50 -overandom
+bot-central 2022-08-02 20:21:10 Why is there no over random
+bot-central 2022-08-02 20:21:49 !hrlp
+bot-central 2022-08-02 20:21:56 !helo
+bot-central 2022-08-02 20:22:06 ?rhelp
+bot-central 2022-08-02 20:22:26 !help

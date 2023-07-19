@@ -1,8 +1,0 @@
-Rood
-plane-crazy 2020-05-17 23:15:08 Oh I think I understand. I have them starting vertically and then folding horizontally and that negates the "automatic" handling.
-plane-crazy 2020-05-17 23:14:11 Wdym by that
-plane-crazy 2020-05-17 23:13:06 Ok wasn't sure if i was missing something. Didn't want to have to resort to binds but I guess.
-plane-crazy 2020-05-17 23:12:23 Flight control surfaces no longer function as normal when attached to a motor (for folding)?
-plane-crazy 2020-05-17 22:31:25 Ok I assumed it was some sort of attaching. It looks similar to a tool in RBX Studio.
-plane-crazy 2020-05-17 22:30:45 Oh so that's for the cursor following?
-plane-crazy 2020-05-17 22:30:14 I know this the millionth time its been asked but what is the yellow peg representative on Motor 2?

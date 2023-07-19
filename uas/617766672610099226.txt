@@ -1,14 +1,51 @@
-dr.pepper_king
-plane-crazy 2019-10-15 06:06:45 I will now cleanse my builds I no longer want!
-plane-crazy 2019-10-15 04:29:37 A working front axle differential is also possible
-plane-crazy 2019-10-15 04:29:30 https://gyazo.com/fdda05c3069b270a4335b03a9596c19c
-plane-crazy 2019-09-06 20:40:21 That would also work
-plane-crazy 2019-09-06 20:39:59 Some sort of obstacle course built in, lets say, as mountains would be really convenient for testing aircraft performance as well.
-plane-crazy 2019-09-06 20:34:56 I'm aware of the ranks page, I was curious about the actual ranking process. Do you just submit to creations-chat and wait? or is there further steps I need to take
-plane-crazy 2019-09-06 20:32:55 How are ranks actually rewarded?
-plane-crazy 2019-09-03 02:37:50 that's really odd. I'll look into it. I have no powerhouse by any means but its a really decent pc
-plane-crazy 2019-09-03 02:34:16 I know that. I was meaning its just the roblox launcher itself
-plane-crazy 2019-09-03 02:33:49 I can open up something else but roblox stops responding and it makes meh sad
-plane-crazy 2019-09-03 02:33:35 Its not my computer that's the issue its literally my client crashes
-plane-crazy 2019-09-03 02:33:05 That's already on. and oof.
-plane-crazy 2019-09-03 02:32:00 Can someone explain to me a method that makes magnets less laggy? it literally crashes my client trying out railgun designs
+The Tale of dr.pepper_king (617766672610099226)
+help 2019-09-06 20:25:06 if I submit a creation for assessment, which cahnnel do I use?
+creations-chat 2019-09-06 20:26:02 A VTOL I made.
+creations-chat 2019-09-06 20:26:09 
+creations-chat 2019-09-06 20:26:11 
+creations-chat 2019-09-06 20:26:11 
+creations-chat 2019-09-06 20:26:11 
+help 2019-09-06 20:27:24 Nvm found it
+creations-chat 2019-09-06 20:28:24 It's a larger version of one that I've previously made. its an L using 4 5x5 cube frames as the actual aircraft frame. I used 4 3x3's on the smaller one.
+creations-chat 2019-09-06 20:36:54 Id like to make a request for Modeler and VTOL engineer III.
+creations-chat 2019-09-06 20:36:58 If possible
+creations-chat 2019-09-06 20:38:01 Thank you!
+creations-chat 2019-09-06 20:43:41 Thats actually really unique.
+creations-chat 2019-09-06 20:51:05 
+creations-chat 2019-09-06 20:51:05 Magnetic Railgun design I made. Capable of turning both horizontally and vertically. Also loaded in decorative support struts and the tip of the barrel has a pair of extruding 'focusing arms' seen commonly in Sci-FI movies. I'm not sure what all this qualifies for, but I thought I'd share. Also, the 2nd picture shows what happens to your character and how fast you launch at. It breaks the rendering a bit. Lel
+creations-chat 2019-09-06 20:51:06 
+creations-chat 2019-09-06 21:16:18 I can understand that. I just got bored and started adding mass details.
+creations-chat 2019-09-06 22:05:13 I like that SR!
+creations-chat 2019-09-06 22:42:06 That's called folding. Theres some good tutorials on youtube.
+creations-chat 2019-09-07 03:51:52 A working gearbox to transfer rotational force perpendicularly. This combination of 3 motor trains creates an immensely powerful spinner of death 😄
+creations-chat 2019-09-07 03:51:56 
+creations-chat 2019-09-07 03:51:57 
+creations-chat 2019-09-07 03:54:58 <@456226577798135808> Has this been done before on Plane Crazy? (mentioning you since youre online and it also doesnt show that you're busy)
+creations-chat 2019-09-09 20:43:46 Working Hobson Joint. Current stable motor speed is 20 with 22.5 torque. This model does use four rods instead of a traditional three, but there's no way to use 3 with a cylinder unless you upscale it to a massive size. Green motor is the only powered motor. These are incredibly useful for transferring rotational movement at a 90 degree angle.
+creations-chat 2019-09-09 20:43:46 
+creations-chat 2019-09-09 20:46:27 https://gyazo.com/01feeda5f7744ae54d2fee115d5af758
+creations-chat 2019-09-10 01:49:23 Just use gyano
+creations-chat 2019-09-10 01:50:07 Gyazo****
+creations-chat 2019-09-10 01:50:13 Don't Google the other one
+creations-chat 2019-09-10 01:50:15 Oof.
+creations-chat 2019-09-10 01:54:39 Love the photo bomb plane guy
+creations-chat 2019-09-10 06:16:25 
+creations-chat 2019-09-10 06:16:26 
+creations-chat 2019-09-10 06:20:07 
+creations-chat 2019-09-10 06:20:52 I was unable to make the front the way that I wanted to due to space restriction, but i atleast got a slight bow so its not completely cubed.
+creations-chat 2019-09-10 06:25:26 Folding would work, yes, but it would be hard to implement on this design. I'll look into it.
+creations-chat 2019-09-10 06:35:56 Toxic community much?
+creations-chat 2019-10-15 04:19:56 https://gyazo.com/fdda05c3069b270a4335b03a9596c19c
+creations-chat 2019-10-15 04:20:11 Working differential axle.
+creations-chat 2019-10-15 04:20:33 First prototype i've made, I'm going to compact it down.
+creations-chat 2019-10-15 04:22:38 <@!381263178589536257> Has this been done before?
+creations-chat 2019-10-15 04:24:37 oof went offline. I'm attempting to adapt it to a suspension setup but U-joints are really wonky on P.C. and its proving difficult.
+creations-chat 2019-10-15 04:31:41 I completely understand how suspensions work on P.C., they're extremely simple. I'm referring to it being complicated to constrain a rotating shaft in such a way that it allows the movement freedom needed.
+creations-chat 2019-10-15 04:31:59 a bearing will just glitch out.
+creations-chat 2019-10-15 04:37:09 The issue I was dealing with like you said is block placement because of the awkward physics for rotating objects in P.C. For some reason, even when anchored, the top body of the suspension doesn't move and it simply just pushes down on the shaft instead of angling it down. I'll figure something out.
+creations-chat 2019-10-15 05:40:56 as in what?
+creations-chat 2019-10-24 13:12:57 Very bold to assume that you'd get 4 studs of leg room on a plane
+creations-chat 2019-10-31 00:15:20 An unloaded Mobile Weapons Platform. Comes with a cabin fit for two pilots and ten independently suspended wheels. On the roof of the vehicle is a motorized mount for attachments that can include anti-aircraft mechanisms, artillery, or perhaps cruise missiles.
+creations-chat 2019-10-31 00:15:24 
+creations-chat 2019-10-31 00:19:13 rip
+creations-chat 2019-10-31 00:19:13 The vote is broken again

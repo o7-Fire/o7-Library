@@ -1,4 +1,93 @@
-jaquline
-plane-crazy 2020-06-05 03:56:12 i'd say, make the leg height a *few blocks* smaller
-plane-crazy 2020-06-05 03:55:55 yeah but, the ratio to a gundam's legs and torso size are way different than this ones
-plane-crazy 2020-06-05 03:53:24 can someone help
+The Tale of jaquline (318554973757767682)
+help 2020-06-05 03:57:42 can someone help
+help 2020-06-05 03:58:08 after a few creations, i noticed motor 2s wiggle when you put alot of weight on the end of them
+help 2020-06-05 03:58:11 how do i fix this?
+help 2020-06-05 03:59:41 i'm trying to make a skeletal spine structure for a large build, and the spine looks fine. it's just that it can't stay straight when i press play (the spine uses multiple layers of motor 2s for both yaw and pitch, so i can make the skeleton turn both ways
+help 2020-06-05 04:09:43 > make sure they point to where u want to go
+<@456226577798135808> i also forgot to mention that all motors are servos so i can limit their angle while controlling them with my keyboard, so i think the yellow stud doesn't matter if the motor 2 is a servo, right?
+help 2020-06-05 17:49:24 can someone tell me how to fix when servo motors wiggle when you put too much weight on them
+help 2020-06-05 19:02:18 can someone tell me how to fix when servo motors wiggle when you put too much weight on them
+help 2020-06-05 19:03:40 
+help 2020-06-05 19:04:00 the thing between the head and the main body was supposed to be a long spine
+help 2020-06-05 19:04:18 with layers of yaw and pitch servo motors
+help 2020-06-05 19:04:50 but it just wiggled like crazy and i couldn't keep it straight so i downscaled it like in this video but it still just wiggles
+help 2020-06-05 19:09:23 ok i made the torque 5 on each motor but it still just sways and i can barely control it
+help 2020-06-05 19:09:28 
+help 2020-06-05 19:10:31 so, there's no way i can fix this?
+help 2020-06-05 19:10:46 bruh'
+help 2020-06-05 19:14:35 ok thansk
+help 2020-06-05 19:14:40 thanks*
+help 2020-06-08 18:07:23 can someone help?
+help 2020-06-08 18:10:13 i'm making a mech, and my upper half of the mech reaches build height, and i barely have any room for the legs
+help 2020-06-08 18:10:29 can i post a screenshot?
+help 2020-08-04 22:21:46 how do i suggest?
+bot-central 2020-08-04 22:22:03 ?shelp
+help 2020-08-05 16:37:46 can someone help?
+help 2020-08-05 16:42:51 does anyone know the Covenant vehicle from Halo called the Phantom?
+help 2020-08-05 16:54:38 lowest density
+help 2020-08-05 16:54:41 to make it more boyant.
+help 2020-08-05 16:57:41 probably yeah.
+help 2020-08-05 16:57:54 umm
+help 2020-08-05 16:58:11 multiple rows of it
+help 2020-08-05 16:58:27 but i suggest having two rows on each side
+help 2020-08-05 16:58:45 and not in the bottom middle
+help 2020-08-10 14:04:09 can someone help
+help 2020-08-10 14:04:59 https://tenor.com/view/crying-black-guy-meme-sad-gif-11746329
+help 2020-08-10 14:17:32 oh
+help 2020-08-10 14:17:35 <@!660019099430289418>
+help 2020-08-10 14:17:41 i didn't know anyone responded
+help 2020-08-10 14:17:43 sorry lol
+help 2020-08-10 14:17:52 hey hey hey hey hey hey hey
+help 2020-08-10 14:17:55 come back 😦
+help 2020-08-10 14:18:30 uh
+help 2020-08-10 14:18:30 yeah
+help 2020-08-10 14:18:38 so i need help with a creation
+help 2020-08-10 14:18:46 specifically getting it to fly the way i want it to
+help 2020-08-10 14:19:50 it doesn't do anything yet
+help 2020-08-10 14:19:55 are you familiar with the game Halo?
+help 2020-08-10 14:20:13 if you are then it will be easier for you to help
+help 2020-08-10 14:20:28 well are ya
+help 2020-08-10 14:20:46 okay, well there's a vehicle i'm trying to recreate
+help 2020-08-10 14:20:57 called the type-52 troop carrier "phantom"
+help 2020-08-10 14:21:13 basically it's behavior is
+help 2020-08-10 14:21:19 it sorta hovers
+help 2020-08-10 14:21:54 it can propel it self fowards and backwards easily and can pivot in any direction too
+help 2020-08-10 14:22:01 but i can't figure out how to do it
+help 2020-08-10 14:22:10 and when i say hover
+help 2020-08-10 14:22:20 i don't actually mean hover off the ground a few feet
+help 2020-08-10 14:22:38 like it can stop mid-air above the ground and drop people
+help 2020-08-10 14:22:39 yeah
+help 2020-08-10 14:22:42 like a vtol
+help 2020-08-10 14:22:51 i didn't think of that
+help 2020-08-10 14:23:14 here
+help 2020-08-10 14:23:31 here's the final version without any propulsion
+help 2020-08-10 14:23:55 here's the underside
+help 2020-08-10 14:24:48 the problem is that i need lots of super rocket engines, and it's so hard to keep it stable
+help 2020-08-10 14:28:03 this is how many helium blocks are needed to make it properly float
+help 2020-08-10 14:28:04 
+help 2020-08-10 14:29:11 oh
+help 2020-08-10 14:29:16 so how do i do that
+help 2020-08-10 14:29:25 i never learned motor lock
+help 2020-08-10 14:30:53 okay.
+help 2020-08-10 14:33:32 would a motor lock staircase work?
+help 2020-08-10 14:34:22 it looks difficult to make
+help 2020-08-10 14:39:22 what
+help 2020-08-10 14:39:31 so i have to do that design for every helium block
+help 2020-08-10 14:40:22 looped?
+help 2020-08-10 14:40:35 show a pic with 1x4 helium blocks in that
+help 2020-08-10 14:44:20 ohh
+help 2020-08-10 14:44:22 ok
+help 2020-08-10 14:52:01 
+help 2020-08-10 14:52:05 will this one work
+help 2020-08-10 15:07:43 oh
+help 2020-08-10 15:19:05 <@!660019099430289418> so i managed to make it a lot lighter
+help 2020-08-10 15:19:38 
+help 2021-07-18 18:45:29 yo how can i make something stand upright naturally like one of those balloon things
+help 2021-07-20 07:10:20 yo guys i need help
+im making a huge flexible mech that uses swords with cutters as the edges. when i swing at something, i do no damage. can anyone tell me why?
+help 2021-07-20 07:26:54 so would torque be the source of the problem
+help 2021-07-20 07:27:11 the sword swings very fast
+help 2021-07-20 07:27:32 not lagging and im in a pvp server
+help 2021-07-20 07:27:36 😔
+help 2021-07-20 07:27:40 i have 80 ms
+help 2021-07-20 07:27:41 ping

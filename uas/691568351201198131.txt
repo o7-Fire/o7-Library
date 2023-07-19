@@ -1,0 +1,3 @@
+The Tale of Lmao (691568351201198131)
+bug-reports 2021-01-21 01:30:11 When Motor 2 is on servo, it often times tweaks out and it's acting extremely strange. I think the Roblox update messed it up
+bot-central 2021-01-27 00:07:43 ?shelp

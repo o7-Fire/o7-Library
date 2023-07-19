@@ -1,3 +1,58 @@
-w3eb
-plane-crazy 2019-08-16 20:15:54 Why do the lava spitter not harm people
-plane-crazy 2019-08-16 20:13:48 Lava spitters don’t burn humans
+The Tale of w3eb (308269094908461067)
+bug-reports 2019-02-10 21:31:37 the only way motors are able to used repeatedly is if you have the reset option on, if not the motors break and cant be used again..
+bug-reports 2019-02-10 21:36:00 nothing helps the motors not even the solution that i thought i found....
+bug-reports 2019-05-27 19:40:08 Where is TriangleWedgeBlock 1x3
+bug-reports 2019-05-27 19:40:28 Also This
+bug-reports 2019-05-27 19:44:43 i launched the game again
+bug-reports 2019-05-27 19:44:46 its the same
+bug-reports 2019-05-27 19:50:05 pretty sure they didn't remove in intentionally
+bug-reports 2019-05-27 19:50:36 what............
+bug-reports 2019-05-27 19:51:24 same here
+bug-reports 2019-05-27 19:51:45 also a random 2x2 cylinder appeared inside my plane
+creations-chat 2019-09-09 01:28:52 Car moving off of 1 motor and some gears.
+creations-chat 2019-09-09 01:29:17 it moving on land
+creations-chat 2019-09-09 01:29:38 it in the water showing rear wheel drive
+creations-chat 2019-09-09 01:29:49 requesting inventor (if no one made this yet)
+creations-chat 2019-09-09 01:29:52 yes
+bug-reports 2019-10-18 16:28:31 Servo motor 2’s Seam to have a set torque of 30 no matter what I do, even though the slider says 1000
+bug-reports 2019-10-18 16:41:16 :I
+bug-reports 2019-10-18 16:41:20 oof sorry
+bug-reports 2019-10-18 16:41:32 i will just use a screen recorder
+bug-reports 2019-10-18 16:44:23 ok
+bug-reports 2019-10-18 16:49:48 https://www.youtube.com/watch?v=gcsIDf_Gzvg&feature=youtu.be if i copied the link correctly you can see the bug i mentioned in the past
+bug-reports 2019-10-18 16:50:01 ._. and i failed
+bug-reports 2019-10-18 16:56:18 https://m.youtube.com/watch?v=gcslDf_Gzvg second times the charm, tried to upload the link from my phone...
+bot-central 2019-11-05 20:40:27 &suggest some form of gear block, or the ability to make the water wheel be a part of an axle, so that way if it spins it could spin a wheel.
+creations-chat 2019-11-27 21:55:32 i made a conveyor scooter
+creations-chat 2019-11-27 22:32:42 More effort on conveyor powered vehicles, conveyors are amazing for trains.
+creations-chat 2019-11-27 22:38:59 lol
+creations-chat 2019-11-27 22:39:00 yes
+creations-chat 2019-11-27 22:39:10 conveyor vechicles will rise
+creations-chat 2019-11-30 15:19:50 I made the conveyor drive smaller, using motors instead of suspension. blue is upside down conveyor red is just blocks.
+creations-chat 2019-11-30 15:20:14 proof of movement
+creations-chat 2019-11-30 15:20:37 i did the same thing with magnet drives, but now we have compact versions of this.
+creations-chat 2019-11-30 15:30:51 By surrounding the middle conveyor with more conveyors you can have this not break on accident when building, i made a ball as a example.
+creations-chat 2019-11-30 15:31:02 Proof of movement
+creations-chat 2019-11-30 16:26:37 idk, i just know its smaller.
+creations-chat 2019-12-01 06:05:43 :0 noice
+creations-chat 2019-12-07 18:36:51 I made a Differential and Put it into a car  https://gyazo.com/56e0fe35e372b22c13096d0c2c1a0766
+creations-chat 2019-12-07 18:37:12 https://gyazo.com/759c6054cce87ba0b25e2c585985c814
+creations-chat 2019-12-07 18:37:24 https://gyazo.com/a8a13cbe9e8ff872908df68da8159b4b
+help 2020-06-05 02:09:15 is it possible to report someone for being able to go through the blacklist barrier, and colliding with your build after you blacklist them?
+help 2020-06-05 02:10:07 no, it was build mode
+help 2020-06-05 02:10:25 still very annoying tho
+help 2020-06-05 02:11:12 o well imma report the guy anyways, hes consistantly doing it.
+the-dump 2020-06-13 17:35:11 
+the-dump 2020-06-17 15:16:01 
+the-dump 2020-06-19 20:55:43 
+the-dump 2020-06-19 22:25:20 
+the-dump 2020-06-20 23:20:25 https://www.youtube.com/watch?v=HD-P-6PInVk
+the-dump 2020-06-20 23:21:05 its happened
+the-dump 2020-06-20 23:21:25 same
+the-dump 2020-06-22 01:48:13 
+the-dump 2020-06-22 17:31:46 
+the-dump 2020-06-22 17:35:44 indeed
+the-dump 2020-06-22 17:40:01 
+the-dump 2020-06-22 17:41:45 idk
+the-dump 2020-06-22 17:43:20 ye
+the-dump 2020-06-22 17:43:26 at like 2 minutes

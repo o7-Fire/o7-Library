@@ -1,0 +1,229 @@
+The Tale of jrblack1 (264873879640604673)
+bug-reports 2018-11-30 02:18:34 Hey, does anyone know if helicopters and motors are fixed/can be used to propel a helicopter?
+bug-reports 2018-11-30 02:19:58 Please ping me if you have any answers, thank you
+creations-chat 2018-12-02 22:15:57 https://gyazo.com/926aa8a5faa4dc2b944f5d565b8982b2 F-35 Lightning Conventional Take-Off, Spam my DMs if I should make a VTOL.
+creations-chat 2018-12-02 22:16:40 https://gyazo.com/74d6c7c41b3df339b8c0e16377fddc0b Bird's eye view
+creations-chat 2018-12-06 21:54:40 Looks much better
+help 2018-12-09 20:36:03 I really need some help making helicopters. What are some pointers?
+help 2018-12-09 20:36:21 Ping me if you have any ideas please
+help 2018-12-09 20:37:29 <@163143541160148992> Do the super rockets go against the propellers?
+help 2018-12-09 20:37:58 Wait really
+help 2018-12-09 20:39:05 And do the two propellers counteract eachother?
+help 2018-12-09 20:39:39 I see
+help 2018-12-09 20:39:45 also, how could I get a creation into <#384025409945337856>
+help 2018-12-09 20:40:11 I tried posting it once, I wasn't sure what happened
+help 2018-12-09 20:40:23 I'll try again
+help 2018-12-09 20:40:50 ah, thanks
+help 2018-12-09 20:47:23 <@!355123674954858496> elaborate on what a motor elevator is
+help 2018-12-09 20:48:22 very interesting
+help 2018-12-09 20:50:13 Would this be effecient on modern planes with wings that don't flat out on the far side, like the F-22 and F-35?
+help 2018-12-09 20:50:14 <@!355123674954858496>
+help 2018-12-09 20:52:17 another question
+help 2018-12-09 20:52:30 does using beams rather than blocks reduce lag due to less block count
+help 2018-12-09 20:55:13 <@163143541160148992> Do super rocket engines have the same mass as regular blocks? if not, more or less?
+help 2018-12-09 20:55:21 more or less mass*
+help 2018-12-09 20:56:28 I'm trying to balance out the centers of gravity and flight in a large jet
+help 2018-12-09 20:56:47 I had ice blocks in because I thought they were heavier but I'm going to replace them with rockets
+help 2018-12-09 20:58:29 I literally
+help 2018-12-09 20:58:38 never thought of weighing blocks that way
+help 2018-12-09 20:58:43 you have enlightened me
+help 2018-12-09 21:01:23 four super rockets weigh less than a block
+help 2018-12-09 21:01:25 feelsbadman
+help 2018-12-09 21:05:52 I reduced by block count from 600 to 550
+help 2018-12-09 21:06:46 oh my god i turn so fast
+help 2018-12-09 21:06:51 It's balanced perfectly
+help 2018-12-09 21:06:54 <@!355123674954858496> thank you so much
+help 2018-12-09 21:11:34 it's gonna be a monster in combat
+creations-chat 2018-12-09 21:18:16 F-35 Conventional Take-Off and Landing, Mannequin for scale.
+creations-chat 2018-12-09 23:29:37 <@!401780773058772992> How do you angle the rotors
+creations-chat 2018-12-11 01:42:39 F-35 CTOL, fellas, can you get me to Master Replicator?
+creations-chat 2018-12-11 01:43:41 Proof of blocks
+creations-chat 2018-12-11 01:50:43 <@!118113664636157953> Could you elaborate on where the fuselage is
+creations-chat 2018-12-11 01:51:29 Ah
+creations-chat 2018-12-11 01:51:42 The design is quite streamlined and thin
+creations-chat 2018-12-11 01:51:48 I tried following the model
+creations-chat 2018-12-12 23:25:27 y'all are some jerks
+creations-chat 2018-12-12 23:25:31 stop picking on this man's build
+creations-chat 2018-12-12 23:25:34 let him build his carrier
+creations-chat 2018-12-12 23:25:35 smh
+creations-chat 2018-12-12 23:25:55 I'm not the best builder
+creations-chat 2018-12-12 23:26:05 I still haven't gotten my RANKS for replicator @mods
+creations-chat 2018-12-12 23:26:13 but I don't pick on others builds
+creations-chat 2018-12-12 23:26:30 constructive criticism fellas
+creations-chat 2018-12-12 23:49:46 it.
+creations-chat 2018-12-12 23:49:46 <@!506566804508770315> Make.
+creations-chat 2018-12-12 23:49:47 spin.
+creations-chat 2018-12-12 23:49:52 Let me join your server
+creations-chat 2018-12-12 23:49:56 we're gonna do this
+help 2018-12-13 01:09:47 https://gyazo.com/8e5dc8be6bec2f78946b13c474807cd3 Always turns to the right and I can't get it to stop.
+help 2018-12-13 01:09:57 How do I stop it from diving to the right?
+help 2018-12-13 01:12:12 oh, note
+help 2018-12-13 01:12:19 it doesn't stop turning right even when the propeller isn't on
+help 2018-12-13 01:12:57 <@!355123674954858496> all evenly distributed
+help 2018-12-13 01:13:08 it's super
+help 2018-12-13 01:13:37 I'm using manual
+help 2018-12-13 01:13:48 as in WASD not mouse
+help 2018-12-13 01:13:52 it's a stunt plane
+help 2018-12-13 01:13:58 I could turn it back to mouse
+help 2018-12-13 01:14:06 but that ruins the whole plane
+help 2018-12-13 01:15:24 nope its all blue
+help 2018-12-13 01:16:37 im gonna try
+help 2018-12-13 01:16:43 reversing the propeller order
+help 2018-12-13 01:16:56 so that it spins counteracting the right
+help 2018-12-13 01:18:26 uhhh
+help 2018-12-13 01:18:27 update
+help 2018-12-13 01:18:30 its the propeller
+help 2018-12-13 01:20:10 update 2
+help 2018-12-13 01:20:19 the plane dives to the left
+help 2018-12-13 01:20:27 but when i turn propeller on it dives right
+help 2018-12-13 01:20:32 what
+help 2018-12-13 01:20:38 do i need a secondary propeller to counteract
+help 2018-12-13 01:22:14 20
+help 2018-12-13 01:22:16 UPDATE AGAIN
+help 2018-12-13 01:22:22 the center of mass and gravity
+help 2018-12-13 01:22:28 mass and air stuff**
+help 2018-12-13 01:22:38 are literally offset by like .001 of a stud
+help 2018-12-13 01:22:59 https://gyazo.com/ca100d67302a1dfa3a96304ea2812962
+help 2018-12-13 01:23:04 https://gyazo.com/eda2d21c63da038477e7b1931a669cee
+help 2018-12-13 01:23:30 it's not down the plane
+help 2018-12-13 01:23:39 it's that one side (right, left) is heavier than the other
+help 2018-12-13 01:23:46 but I can't find out what could possibly be heavier
+help 2018-12-13 01:26:10 update
+help 2018-12-13 01:26:14 it was the propeller at the front
+help 2018-12-13 01:26:19 propeller going bye bye
+help 2018-12-13 01:26:23 or maybe replaced w/ flat panels
+help 2018-12-13 01:27:20 it was
+help 2018-12-13 01:27:22 it flies straight now
+help 2018-12-14 00:12:53 I want to make a submarine. Anyone, got models I can work off of?
+help 2018-12-14 00:13:09 I'll work out how to make a boat, and how to submerge and come back up
+help 2018-12-14 01:09:32 Can anyone tell me how to snake a big build across a plot, and then connect it?
+help 2018-12-14 01:09:37 I can't tell how to use the motors.
+help 2018-12-14 01:09:41 to connect it*
+creations-chat 2018-12-15 20:22:18 https://gyazo.com/bf7b6996b95e912a7efc9beaf2a26e67 Presenting the fully combat capable model A-Wing. Can take off and land vertically, reaches speeds up to 480sps. Requesting advanced builder rank, and advanced technician please.
+creations-chat 2018-12-15 20:22:35 https://gyazo.com/c12a2c9ad17ec7ea2bf39ae1fd0cb2fc Proof of blocks
+creations-chat 2018-12-15 20:22:49 oh its a gyazo
+creations-chat 2018-12-15 20:22:51 one moment
+creations-chat 2018-12-15 20:24:38 Fully Combat Capable A Wing Replica. Since it is a starship, it can take off and land vertically (VTOL). Reaches speeds up to 480sps. Requesting Advanced Technician and Advanced Builder.
+creations-chat 2018-12-15 20:24:50 Proof Pt. 2
+creations-chat 2018-12-15 21:21:47 <@456226577798135808> can i get ranks bb
+creations-chat 2018-12-15 21:25:23 and then i still dont get ranks
+creations-chat 2018-12-15 21:25:28 frick
+creations-chat 2018-12-15 21:25:30 : (
+creations-chat 2018-12-16 04:35:39 Realistic MiG-19. You better give me them replicator roles boi
+creations-chat 2018-12-16 04:36:03 https://gyazo.com/1a3fc13c23fb009e7ae085763b3a24e5
+creations-chat 2018-12-16 04:36:28 <@!251995895405477888> I am aware I am asking the community to get me to the replicator role
+creations-chat 2018-12-16 04:36:48 
+creations-chat 2018-12-16 04:48:44 <@427466925275217931> mine has more attention to detail, and it's harder to maneuver due to it being a much higher block count
+creations-chat 2018-12-16 04:51:29 you can have a look yourself in <#384021699466756107>
+creations-chat 2018-12-17 01:48:34 My latest creation: a replica of the MiG-35. Can reach up to 500sps, 504 part count. Highly maneuverable for such a big replica plane. Armament: 4 missiles, 4 machine guns mounted under the wings. More could be added, however it would sacrifice aerodynamics or looks. Requesting expert builder. (P. S. if i get 10 upvotes i get master replicator rank please help me thanks)
+creations-chat 2018-12-17 01:48:43 Evidence of Parts:
+creations-chat 2018-12-17 03:05:00 i really hope the mods dont see this
+the-dump 2018-12-17 03:22:01 OJNEIWGNFIRUNGIRWHUN
+the-dump 2018-12-17 03:22:03 AAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+creations-chat 2018-12-17 03:24:25 
+creations-chat 2018-12-17 03:24:26 now this
+creations-chat 2018-12-17 03:24:28 is what i call art
+the-dump 2018-12-17 03:33:21 hi guys
+the-dump 2018-12-17 03:33:23 im autistic
+the-dump 2018-12-17 03:33:24 i have autism
+the-dump 2018-12-17 03:33:25 eoiufniun
+the-dump 2018-12-17 03:33:26 erfoiuqwunmfop
+the-dump 2018-12-17 03:33:27 folrnfmvol
+the-dump 2018-12-17 03:33:27 eewoirqounqw
+the-dump 2018-12-17 03:40:58 ouinhiunijnkbybbhuj
+creations-chat 2018-12-18 23:50:13 Panavia Tornado, in desert camouflage. Reaches over 300sps. Can cruise at 180sps. Armament of six missiles and two machine guns. Can be fitted to more if necessary. Block count 409
+creations-chat 2018-12-18 23:50:27 
+creations-chat 2018-12-18 23:51:20 Wings also retract when not in flight for storage space.
+creations-chat 2018-12-20 02:42:49 This is the F-111 Aardvark. It's armed with six machine guns and four missiles, but can hold much more. The Aardvark features swept wings and a unique 60s-70s jet design. Despite boasting 1003 parts, the jet can go over 300sps. The wings will only sweep when all four pylons are dropped.
+creations-chat 2018-12-20 02:43:10 Image of wings swept in when pylons are dropped.
+creations-chat 2018-12-20 02:43:22 Requesting Master Builder.
+creations-chat 2018-12-20 23:01:25 https://www.youtube.com/watch?v=2TYMI3UdgKg&feature=youtu.be Requesting Bombardier rank
+creations-chat 2021-07-11 14:32:19 <@!509810265915916318> Just a question, why did you build your plane all vertical with pistons and stuff like that? I'm an old player and I've never seen that before.
+creations-chat 2021-07-11 14:35:28 <@!611251614178869269> I played whenever the bomber role literally just came out, then proceeded to get banned from the discord from 2 years for being toxic. Can you elaborate on what a motorlock is?
+bot-central 2021-07-11 14:36:30 As I said in the <#504436696021204992> channel
+bot-central 2021-07-11 14:36:34 Got banned for two years 😐
+bot-central 2021-07-11 14:36:43 This server probably used ro-ver
+creations-chat 2021-07-11 14:40:53 No need to be toxic, I want to learn not argue
+creations-chat 2021-07-11 14:43:58 You don't think that's a little toxic?
+creations-chat 2021-07-11 14:47:38 <@!783822669182795806> Yeah really not a good first impression of the server, but I guess that's just the root of this game. Roblox was already bad as it is, being in a snobby plane-nerd community that rivals the nature of games like War thunder and HOI4 just makes it worse.
+creations-chat 2021-07-11 14:51:25 Anyway, ignoring the argument for now, can anyone help me troubleshoot a plane I built a few months ago? will fly but is constantly veering off to the opposite side any time it tries to turn.
+help 2021-07-11 14:54:16 Can I send videos into here?
+help 2021-07-11 14:54:35 Answered my own question
+help 2021-07-11 14:55:13 oh, I just used nvidia replay to record a segment of an error
+help 2021-07-11 14:55:57 oh, file too big. oops, can't send 1440p in here one sec
+help 2021-07-11 15:00:13 oh
+help 2021-07-11 15:00:51 https://streamable.com/qpvn7i
+help 2021-07-11 15:01:15 
+help 2021-07-11 15:01:30 This is my raptor I built a few months ago, I'm having trouble getting it to turn.
+help 2021-07-11 15:01:52 Already aware that the nose is way too heavy, hence it tipping down, but I don't know why it turns the inverse of the direction I point my mouse.
+help 2021-07-11 15:02:34 Can you elaborate?
+help 2021-07-11 15:02:42 oh nevermind
+help 2021-07-11 15:02:55 As in programmed control panels?
+help 2021-07-11 15:10:31 <@!343426781442736138> this works regardless of the centers of mass?
+creations-chat 2021-07-11 15:13:17 You guys are really stuck up, the only way that the supposed "white name" creators are going to learn is by positive and critical feedback, not snobby comments.
+creations-chat 2021-07-11 15:17:36 stuff like this? haven't seen him say anything, yet he's being dog-piled for posting probably his first build, rather than just giving him some upvotes and some criticism. You're not being insulted, you're just being overly snobby and rather toxic
+creations-chat 2021-07-11 15:19:57 <@!711009848438947850> this you?
+creations-chat 2021-07-11 15:22:28 actually, this is his most recent build on 6/26
+creations-chat 2021-07-11 15:25:56 I'm not trying to be a jerk, considering that's what I was just speaking on, but you can't go, I quote: 
+"Man there are some talented people here in creations
+
+Then there are the acceptable people who at least know their shit
+
+Then there's the white name noob posts that make you want to vomit"
+and then have stuff like that sitting up in creations.
+creations-chat 2021-07-11 15:29:52 Why are you critiquing other people's builds for being bad if your builds have haunting like:dislike ratios? All I'm saying is that you could stand to be a little bit more uplifting, rather than constantly downvoting builds that don't look like perfect, block by block to scale models of the jets that they resemble. It's really toxic, and hypocritical.
+creations-chat 2021-07-11 15:34:30 <@!711009848438947850> well to answer your question, here is a screenshot from a build 3 years ago I made to get the bombardier rank. Also to answer <@!588596347272167456>, this is a build from 3 years ago proving that I am an older player.
+creations-chat 2021-07-11 15:39:23 Glad that I got my point across 🙂
+help 2021-07-11 16:08:55 Does the torque of the aerilon make it pivot harder?
+help 2021-07-11 16:12:22 not talking about the setting torque lol
+help 2021-07-11 16:12:57 
+help 2021-07-11 16:13:31 If the motor is in the middle of the wing vs. the extreme of the wing, will it pivot harder due to increased torque?
+help 2021-07-11 16:16:36 Because of algebra based physics
+help 2021-07-11 16:17:32 If both motors are applying the same force, but the wing to the right has a bigger radius than the one to the left, then according to the formula for torque, the wing to the right should have 3 times the torque or the wing to the left
+help 2021-07-11 16:17:45 or 2x sorry
+help 2021-07-11 16:20:41 Which way are you folding them in? <@!711717986943238175>
+help 2021-07-11 16:20:44 I might be able to help
+help 2021-07-11 16:21:34 On my raptor model that I'm working out what I did was a piston attached to a car wheel attached to a motor
+help 2021-07-11 16:21:43 But it folds into the body of the plane
+help 2021-07-11 16:22:13 Oh, it's like mine!
+help 2021-07-11 16:23:12 I used a motor 2 servo with a 90* max angle on it being toggled
+help 2021-07-11 16:23:24 and just used G as the keybind
+help 2021-07-11 16:23:31 It may take some trial and error
+help 2021-07-11 16:23:35 is the light blue part the servo?
+help 2021-07-11 16:24:07 Just use one of the keys as G, because it's a toggle
+help 2021-07-11 16:24:16 the other can be un-binded to something you won't press
+help 2021-07-11 16:24:30 and set the torque to unlimited so that it works
+help 2021-07-11 16:24:39 or max
+help 2021-07-11 16:24:59 yw : )
+creations-chat 2021-07-11 16:33:10 That's very reasonable
+creations-chat 2021-07-11 16:37:58 With competition comes progress, but of that, while most people are proud of their builds here to say the least, the problem comes in when the pride of the critics blast their ego so high that they can't stand to give any feedback or criticism to low tier builders and just end up insulting them, and it's kinda gross to see.
+creations-chat 2021-07-11 16:47:11 people get warned for low effort? lmfaoooo
+creations-chat 2021-07-11 16:50:06 me omw to the creations channel to post my tutorial plane
+the-dump 2021-07-11 16:53:39 i mean you can probably deduce from my old messages that I went through puberty
+the-dump 2021-07-11 16:53:52 I got banned for toxicity last time I was on here
+the-dump 2021-07-11 16:59:01 I try to act objectively
+the-dump 2021-07-11 16:59:03 maybe it comes off like that
+the-dump 2021-07-11 16:59:56 I still don't get the whitename thing
+the-dump 2021-07-11 17:00:13 just because someone hasn't posted a successful creation doesn't mean they're a troll
+the-dump 2021-07-11 17:02:44 I mean I get that, like the dude that made an ice cream truck in creations lol
+help 2021-07-11 20:45:35 Does anyone have a demo of motorlocking engines onto eachother?
+help 2021-07-11 23:20:49 Should I build a base model then motorlock for detail or just start off motorlocking
+help 2021-07-12 13:15:04 How do you make outlines of cockpits using motorlocking?
+help 2021-07-12 13:16:46 Oh interesting, thanks
+the-dump 2021-07-13 20:27:41 
+the-dump 2021-07-13 20:35:19 Idk but find it and do what you need to do
+the-dump 2021-07-13 20:35:20 <@!506566804508770315>
+the-dump 2021-07-13 20:35:35 o7
+the-dump 2021-07-13 22:55:34 
+the-dump 2021-07-13 22:55:49 
+the-dump 2021-07-13 23:00:01 Edit: He bought speakers
+the-dump 2021-07-13 23:00:06 his car goes "les gooooo"
+the-dump 2021-07-14 04:01:39 
+the-dump 2021-07-14 04:01:40 Famous last words
+bot-central 2021-07-14 04:07:30 !servers
+the-dump 2021-07-14 04:12:43 For now
+creations-chat 2021-07-14 04:15:07 #arguments
+creations-chat 2021-07-14 04:45:29 jajaja funny balloon
+help 2021-07-15 21:48:51 How do you guys make turrets that follow your cursor?
+creations-chat 2021-12-20 00:48:42 that's why he posted it for him lol
+creations-chat 2021-12-20 01:05:11 ah yes, <#504436696021204992>; the single most toxic channel in all of discord

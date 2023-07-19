@@ -1,0 +1,4 @@
+The Tale of cuddlizz (337189457507647490)
+bug-reports 2021-10-02 18:33:45 Anyone ever encountered a bug where balls of tnt decided to stop working on impact after magnets were put on pull mode? I was making some primitive reloading turret, meanwhile I noticed that when firing without pulling, tnt explodes upon impact without any issues, although after pulling once, all of the tnts lose their ability to explode, upon impact of course.
+bug-reports 2021-10-02 18:33:55 quite annoying not gonna lie lol
+bug-reports 2021-10-02 19:35:24 alrighty

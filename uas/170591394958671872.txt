@@ -1,5 +1,28 @@
-tteddy
-plane-crazy 2020-01-18 15:25:51 oog
-plane-crazy 2020-01-18 15:25:42 large engine
-plane-crazy 2020-01-18 15:25:31 <a:oof1:452680355409952768><a:oof2:452680355548495882><a:oof3:452680357058314250><a:oof4:452680358660538369>
-plane-crazy 2020-01-18 15:24:20 guys, do you have any ideas to make a space rocket stay upright?
+The Tale of tteddy (170591394958671872)
+bug-reports 2019-12-25 10:51:37 Sometimes when i get in and out of my build, the motor2's stop working (wont turn as servos)
+help 2020-01-18 15:31:08 How do i make a large rocket stay upright when flying?
+help 2020-01-25 16:11:51 <:BottomText:602005011177668641>
+bot-central 2020-03-08 16:34:50 &help
+bot-central 2020-03-08 16:34:52 ?help
+help 2020-03-08 16:36:22 d
+bot-central 2020-03-08 16:38:12 &suggest A red dot on sides of blocks that can attatch to other ones, for example, on a 1x0.9 block it would show a red dot on all sides except for the 0.9 side, since it cant connect to anything on that side. Would be toggleable.
+creations-chat 2020-03-08 16:42:23 Hover engine drone, no decoration yet
+help 2021-01-05 17:46:58 im trying to make robot legs
+help 2021-01-05 17:47:03 or a big robot like pacific rim
+help 2021-01-06 16:48:53 how would i get for example, a pair of giant robot legs to not fall over when walking
+help 2022-12-18 11:43:38 helicopter blades get uneven after a while and the whole thing starts wobbling like crazy
+help 2022-12-18 11:43:41 how do i fix it?
+help 2022-12-18 11:44:29 oh boy
+help 2022-12-18 14:06:45 check the air folder things
+help 2022-12-18 14:07:00 if its on automatic it might change on its own
+help 2022-12-18 14:12:30 these
+help 2022-12-18 14:12:35 yeah control surfaces
+help 2022-12-18 14:12:41 make sure they arenton the automatic optioon
+help 2022-12-18 14:12:50 because then it will move on its own
+help 2022-12-18 14:13:33 you usually use control surfaces to make the plane turn and go up and down
+help 2022-12-18 14:14:08 
+help 2022-12-18 14:15:08 bro what
+help 2022-12-18 14:15:10 i never knew this
+help 2022-12-18 14:15:14 text ya mom this
+help 2022-12-18 14:15:30 mouse controlled is so much better than e and q
+help 2022-12-18 14:18:42 im uing them for a plane rn its so muc eaasier

@@ -1,11 +1,44 @@
-zapleek
-plane-crazy 2019-09-02 00:48:55 <@!437078588701933568> i made a tank thing in <#384025409945337856>
-plane-crazy 2019-09-02 00:33:12 thank you
-plane-crazy 2019-09-02 00:33:04 yes
-plane-crazy 2019-08-17 00:41:22 have missiles been removed
-plane-crazy 2019-08-16 22:36:28 work as a cashier at 7-11
-plane-crazy 2019-08-16 22:35:51 drop out
-plane-crazy 2019-08-16 21:08:58 spitters have less dps than normal guns
-plane-crazy 2019-08-16 19:16:03 60 speed motors are pretty cool
-plane-crazy 2019-08-16 16:32:39 😦
-plane-crazy 2019-08-16 16:30:16 is the update planned for today
+The Tale of zapleek (176455791992242176)
+bug-reports 2019-07-30 08:11:01 I dont think train track junctions are working properly
+bug-reports 2019-07-30 08:11:05 https://gyazo.com/62978ef084f5fa02c92eb21f679e4dfd
+bug-reports 2019-07-30 08:14:57 im dumb its not a rollercoaster the outside wheels arent supposed to be there
+help 2019-07-30 08:31:55 how do I make a train that doesnt fall off the rails
+bot-central 2019-08-03 06:07:09 !servers
+creations-chat 2019-08-03 09:55:03 request for micro engineer rank
+creations-chat 2019-08-03 10:28:06 why
+creations-chat 2019-08-03 10:51:01 requesting master train builder rank
+creations-chat 2019-08-03 10:52:20 what do you mean
+creations-chat 2019-08-03 10:52:22 does it need chairs
+creations-chat 2019-08-03 10:52:48 folded up
+creations-chat 2019-08-03 10:54:10 thanks i was trying to make it as few blocks as possible because it lags so bad
+help 2019-08-04 04:06:45 hello how do you make tank tracks
+help 2019-08-04 04:07:41 thank you
+creations-chat 2019-08-12 00:06:46 requesting submarine commander rank for my tiny sub
+creations-chat 2019-08-12 00:11:53 it can get into the underwater cave
+bot-central 2019-08-16 19:24:40 !servers
+bug-reports 2019-08-17 00:48:31 rockets just go away they dont actually fire any more
+creations-chat 2019-09-01 20:44:49 Crawler, 436 blocks, TERRAIN SPECIALIST [I] submission
+creations-chat 2019-09-01 20:45:00 Crawler, 436 blocks, TERRAIN SPECIALIST [I] submission
+creations-chat 2019-09-01 20:46:40 can I send gyazo links
+creations-chat 2019-09-01 20:49:10 https://gyazo.com/783c25c007e5cf967afb3b6a94d702fe
+bot-central 2019-09-02 00:34:28 !servers
+bot-central 2019-09-09 22:14:53 !servers
+bug-reports 2019-09-10 16:43:47 I dont think motor 2 is saving correctly, the torque becomes the max angle when u reload and the max angle resets to 30
+bot-central 2019-09-22 06:47:55 !servers
+creations-chat 2019-10-21 17:38:29 mouse following biker gang
+creations-chat 2019-10-21 17:39:14 secret cameras that stop tipping over
+creations-chat 2019-10-21 17:40:14 ty
+creations-chat 2019-10-21 21:29:28 proving the earth is flat with my boat
+bot-central 2019-11-11 16:11:22 !servers
+creations-chat 2020-01-27 13:10:22 smol heli. 33 blocks
+creations-chat 2020-01-27 13:10:37 inspiration
+creations-chat 2020-02-28 04:23:01 boat plane. 88 blocks
+creations-chat 2020-02-28 04:27:16 inspiration
+creations-chat 2020-03-04 21:32:56 Ghost hovercraft from Halo. 43 blocks
+creations-chat 2020-03-11 16:17:37 hover with suspension that moves using gimbled hover thrusters
+bug-reports 2020-12-20 12:09:03 bug: hover thrusters react to snow particles and try to hover over them, causing light hover craft to randomly flip out at high hover heights
+bot-central 2021-04-10 09:27:35 -verify steam_table
+bug-reports 2021-11-19 22:11:36 hey speakers are broken, zooming third person through your own craft is broken, and sprinting is broken
+bug-reports 2021-11-19 22:12:59 no the whole server cant sprint and cant zoom their cameras outside their craft
+bug-reports 2021-11-19 22:13:05 unless through glass
+bug-reports 2021-11-19 22:15:41 ok yeah it was just one normal and one pvp server that had the bug I joined another and its fine now

@@ -1,0 +1,811 @@
+The Tale of Cup (577930642520801301)
+bot-central 2022-06-22 20:25:04 !rank
+bot-central 2022-06-22 20:25:16 hmf
+help 2022-06-22 20:28:19 Anyone know how I could make a flush airlock door?
+help 2022-06-22 21:16:13 Does anyone know to make large text, 3x3 and/or rotated.
+help 2022-06-23 02:19:51 How can I make a circular sliding door? Like... on some space ships, theres a shuttle bay hatch on the bottom.
+help 2022-06-23 20:52:14 Is there any easier way to build upside down? Over half my build is upside down and in the shade.
+help 2022-06-23 20:58:49 3
+bot-central 2022-06-23 21:02:46 !rank
+help 2022-06-23 21:58:54 I made a fold for my ship but suddenly it no longer works, the motor refuses to turn, max torque is at 1000, speed is at 15, nothings blocking it, it worked yesterday, but yesterday I had less blockss on the fold.
+help 2022-06-24 02:29:55 I'm building the uss defiant, but it appears I don't have much space for it, I want to fit as much as I can in here, but today,  my rear fold decided not to work. The motor that connected the rear half of the ship with the rest suddenly refused to work, yesterday it worked just fine.
+help 2022-06-24 02:34:26 Apart from doing "undo" in saves, I don't think so.
+help 2022-06-24 02:39:00 I need help with my ship, I can't wait until pc2 comes out with bigger plots to build the ship, my ship basically broke.
+help 2022-06-24 20:27:08 Do motors have a max amount of blocks it can lift/move? My motor suddenly stopped working for some reason.
+help 2022-06-24 20:34:24 Sure, like what? I'm working on the uss defiant rn.
+help 2022-06-24 20:48:37 for some reason the middle motor doesn't work when I attach blocks to the gray part of it. Does anyone know what to do? I can't continue building if this keeps up.
+
+Edit: I even added rocket engines to the folded part, it didn't even budge, it's like theres a barrier, like I'm in build mode, but I'm not.
+bug-reports 2022-06-24 21:33:38 I'm trying to unfold my star ship, but for some reason the top fold refuses to unfold, I'm not sure if its the motor or the plot, but no matter what I did, the gray part of the motor didn't move s long as something was attached to it. I tried adding super engines to push it into place, but it didn't even budge,  I can't continue my build.
+bug-reports 2022-06-24 22:41:09 hm, ok, what might that do? You're just reversing the way it's facing.
+bug-reports 2022-06-24 23:01:10 Wow, that somehow worked... except my ship was flinged into the void.
+bug-reports 2022-06-24 23:02:44 But for some reason, it didn't work with anchor on, any how, when I did turn off anchor, it flew away.
+bug-reports 2022-06-24 23:13:43 1
+help 2022-06-24 23:15:04 I don't have the gravity slider,  someone helped me in <#498473314445033472> , I guess I should just add some helium so the ship doesn't fly into the void, then somehow fit a bunch more folds.
+help 2022-06-24 23:16:05 No, the thing is, it's far from any other blocks that aren't part. of the rear half, and the problem was that the motor wasn't moving a bit.
+help 2022-06-25 17:07:55 I'm making a star ship (from star trek),  and I accidentally didn't give the ship a middle block, but the bridge is obviously supposed to be positioned in the middle, my question is, how could I place the captain's chair in the middle of the bridge, if it doesn't have a middle block.
+help 2022-06-25 17:09:30 Yea sure, no problem. Folded or unfolded?
+help 2022-06-25 17:12:12 It's the USS Defiant, the sensor array (front head) is 10 blocks wide.
+help 2022-06-25 17:12:24 
+help 2022-06-25 17:13:08 the bridge is in half of the front part
+help 2022-06-25 17:13:17 its in deck 1.
+help 2022-06-25 17:13:38 the top
+help 2022-06-25 17:14:02 behind the light, on the gray top.
+help 2022-06-25 17:14:59 But it has to be half a block right of it's position.
+help 2022-06-25 17:15:24 I motor lock it in
+help 2022-06-25 17:16:05 I could try, but it wont be easy, I never motor locked anything, motor locking a detailed bridge inside deck 1 isnt easy
+help 2022-06-25 17:17:38 This is deck 1, I suppose I could motor lock it, and puut the motors down to in front of it.
+help 2022-06-25 17:18:23 keep in mind the ship doesn't have a middle part. Alr,  thanks fur ur halp.
+help 2022-06-25 17:21:45 Wait, how would I move the bridge half a block to the side?
+help 2022-06-25 17:24:16 I'm not sure I have enough space in the front part for it.
+help 2022-06-25 18:38:50 How might I be able to add rotated block + wedge text on my ship, like the defiant of course, on deck 1, it has the name.
+help 2022-06-25 23:34:42 I'm making the USS Defiant, but it's missing a few important parts, the sides and the cells, but I can't find a way to fold those into place, there isn't much space (I could've made it better, but theres no undoing) Any suggestions on how and where I should make a fold?
+help 2022-06-25 23:34:55 
+help 2022-06-25 23:40:07 It's a  folded train. I'm not sure what t he question is.
+help 2022-06-25 23:50:22 Oh, well then turn on anti copy blacklist
+help 2022-06-26 02:38:33 That’s a good idea, if I even knew how to do that, plus anyway, I don’t think theres space for that, that’s like putting a hull inside an identical hull, or a bigger into a smaller, the cells are bigger than the sides, the sides are the size of the hull. But thanks for the help.
+help 2022-06-26 02:39:15 Yes, tho, you really need to change up the proportions, or just make the ship longer, it isn’t looking too good, but hey, idk, I make ww2 carriers.
+bug-reports 2022-06-26 15:35:22 For some reason I can't move my ship downward, theres nothing blocking it, I checked, had this problem for a while.
+bug-reports 2022-06-26 15:48:28 I haven't used more than 1 text block in that build,  what do you mean by translate? Like can I see the text block?  No, I was never able to bring it downward after I removed a ladder.
+bug-reports 2022-06-26 15:49:52 I just tried running the delete tool over the floor, nothing there.
+bug-reports 2022-06-26 15:49:58 yea it does
+bug-reports 2022-06-26 21:30:30 How is that even possible..? And how do I get rid of it.
+bug-reports 2022-06-26 22:06:10 ight, tho I can't raise the build, unless I destroy the entire stern of the ship, not sure how a block could have even gotten there.
+bug-reports 2022-06-26 22:30:48 pc (mac)
+bug-reports 2022-06-26 22:32:56 As I said, That's impossible, unless I destroy my whole stern side.
+bug-reports 2022-06-26 23:03:58 How doo I reload?
+bug-reports 2022-06-26 23:04:22 Oh, and I fonud I have a random white block under my ship
+bug-reports 2022-06-26 23:04:37 oh... alrrighty, not sure if it'll work, but sure.
+bug-reports 2022-06-26 23:05:11 I reloaded it, Can't find any excess blocks
+bug-reports 2022-06-26 23:07:36 No invisible or excess blocks.
+bug-reports 2022-06-26 23:08:01 oof
+bug-reports 2022-06-27 00:50:00 But problem is I can't move it, I would have to destroy so much of it.
+help 2022-06-27 00:57:21 For some reason my carrier won't float normally, I've added a bunch of helium in places to make it stable, and the bottom is flat, but it keeps getting the same ressult, it wobbles and falls to the side, and capsizes.
+help 2022-06-27 00:57:32 
+help 2022-06-27 01:00:25 like ballast on the starboard? (btw, in the image the ship is falling to the starboard side)
+help 2022-06-27 01:01:03 alright, thanks
+help 2022-06-27 01:01:17 I'ma just work on adding a ton of guns and aa
+help 2022-06-27 01:01:22 ight
+bug-reports 2022-06-27 02:14:38 o, so ur saying the block is for sure somehow 1 block below the ground?, Ight, I suppose I could do that.
+bug-reports 2022-06-27 02:24:54 yea, it worked, thanks for the help.
+bug-reports 2022-06-27 02:25:07 I wonder how that block got underground.
+bug-reports 2022-06-27 20:10:30 No, why is that important?
+bug-reports 2022-06-28 15:30:28 Oh, well, thanks for the help, I finally got my ship a radar.
+help 2022-07-20 15:19:56 I motor locked wing panels into half blocks to make a roof on my steam-boat, but when I disconnected the motor lock thing, the rear wing panels jump up, and it sometimes falls off the ship.
+help 2022-07-21 00:29:51 I made a cruiser turret, but I can't figure out how to patch those holes while still having the cannons be able to move.
+help 2022-07-21 12:00:15 But then how would the barrel move, it’s really long and extends into the turret of course,, doesn’t the motor have to be attached to the turret body.
+help 2022-07-21 13:36:21 ooh, I motor locked it wrong, I did it like this
+help 2022-07-21 13:37:31 So I motor lock the outer barrel into the turret and the inner barrel (the part thats connected to the motor, and holds the rocket/ammo)
+help 2022-07-21 13:41:34 Nvm, still didn't work.
+help 2022-07-21 13:49:56 now this happened..
+help 2022-07-21 13:50:06 oof, well then idk.
+help 2022-07-21 13:51:38 Well of course there are blocks around it, the turret.
+help 2022-07-21 14:11:57 sad, well, not moving barrrel is fine too I suppose
+help 2022-07-21 14:15:14 whenerver I motor lock stuff it always flops onto something and never sticks on the object, I'm making a smoll turret rn.
+help 2022-07-21 14:24:30 I motor locked wood wing panels onto my ship to be like a roof, but whenever I disconnect the motor lock part, the back of the wing panels boops upward.
+help 2022-07-21 14:27:44 idk
+help 2022-07-21 14:28:13 anyone know how to make the turning speed of a ship with a wing panel rudder faster? My steam boat turns really slow.
+help 2022-07-21 14:33:53 Yea, but I don't have an inside hull for my bote.
+help 2022-07-21 14:34:33 You mean use magnets on the wood wing panels? Ight, tho magnets never work when I use them.
+help 2022-07-21 14:35:48 ight, I'll try, tho last time I used a magnet, it couldn't pick up a bit of metal at max strength and distance.
+help 2022-07-21 14:41:05 strangely, when I turned on the magent, the roof flew away.
+help 2022-07-21 14:42:40 I turned on toggle, range 40, strength 10
+help 2022-07-21 14:43:51 weld on
+help 2022-07-21 14:47:21 when I turned on  magnte, it jumped up before I disconnected.
+help 2022-07-21 18:42:53 I'm making the USS Cobia, but I feel like the bow should be a bit longer, it dooesn't look right, any one have ideas on how to make it longer, and still smooth and good-looking? The wedges are 1x4.
+help 2022-07-21 19:11:43 Well then I'll figure out angle locking, tho don't you need space inside the ship for that? Cuz I don't have alot.
+help 2022-07-21 19:40:25 well... sorta, There aren't any 1x5+ wedges, that the problem
+help 2022-07-21 19:40:49 And I understand why ur like.. "bro what"
+help 2022-07-21 19:41:27 Would be convenient for me if there were 1x5 or 1x6 wedges.
+help 2022-07-21 19:48:40 just wondering is its possible to anngle lock a hull with this shape
+help 2022-07-21 19:50:09 Should I change the bow anyway? or is it good?
+help 2022-07-21 20:30:48 Its already really thin, the deck is 5 blocks wide, beam of 8
+help 2022-07-21 20:31:48 I tried deploying it into water, for some reason the ship always capsized to the right, even tho no water entered the sship, and I filled the bottom with ballast beams.
+help 2022-07-22 14:33:33 Should I add anything? this is the best angle.
+help 2022-07-22 14:38:00 You can't, I think its a flying device, I seen a yt use it, its like a drone.
+help 2022-07-22 14:41:22 maybe they used photo mode
+help 2022-07-22 14:47:35 never heard of "k r n l"
+creations-chat 2022-07-22 15:06:08 sure
+creations-chat 2022-07-22 15:08:43 
+creations-chat 2022-07-22 15:10:47 The deck of the entire ship is black, so I used disconnectors to make it all black, personally, it looks better that way, even tho its wierd.
+creations-chat 2022-07-22 15:14:10 hm, no I haven't I should've thought of that.
+creations-chat 2022-07-22 15:17:09 Yea I do, I made a space shuttle using one. Tho I'm not too sure If I made it right.
+help 2022-07-22 16:32:35 Oh
+creations-chat 2022-07-23 01:02:01 Oh, well then I underestimated how good I am at plane crazy,
+creations-chat 2022-08-03 03:12:05 Anyone know why people hate tug boats, I never see people build any, and now I  built one, and its getting so many downvotes.. personally I don't understand, but thats what anyone would say. Not sure what I should make next, a tug boat?
+creations-chat 2022-08-03 03:16:35 I made another post without the barge. I didn't know if I should add it or not, I was bored so.I added it.
+Oh, btw, these are the reference images I used, mostly the first few. https://www.marinetraffic.com/en/ais/details/ships/shipid:400857/mmsi:338631000/imo:9219501/vessel:BRENDAN_J_BOUCHARD#Photos
+Edit: I got a random wierd idea, i'll add a conveyor engine to the barge to fling it away, probably a dumb idea.
+creations-chat 2022-08-03 03:18:45 Why thank you.
+creations-chat 2022-08-03 03:21:51 Alright then, I'll tone down the main colors by 15, add text 1x1s with some life circle things, and random circles, idk, I added ladders, windows, and railings already, maybe too many ladders.
+Edit: The red paint was "215, 30, 0" the white was mostly "200, 200, 200"
+creations-chat 2022-08-03 13:00:57 alright, tho I didn't use a lakeboat/laker to make the barge.
+creations-chat 2022-08-03 13:03:00 Well i'm not saying that, rn I just want to know whats wrong with it, and what to improve on.
+
+Edit: I'm really not sure what to add to it, it looks almost thee same as it does in real life (almost, because the tower is a bit too tall) The walls are obviously empty apart from windows, All I could probably do is remove saturation, fix some details, add 2 random life circle things.
+creations-chat 2022-08-03 13:11:50 Thanks for the advice.
+creations-chat 2022-08-03 13:14:55 Haha funni, thanks for your thoughts.
+creations-chat 2022-08-03 13:21:49 You're kinda right, but thats also how the tug looked, and its not half submerged, new york tugs don't have tall hulls.
+creations-chat 2022-08-03 13:25:55 Oh well, I'm exaggerating, I just can't figure out wha could be added rn.
+creations-chat 2022-08-03 13:28:01 Haven't seen any, but I just saw a harrier in my server.
+creations-chat 2022-08-03 13:34:21 I'm tryring to add windows to my ship.. but circles are censored now..
+creations-chat 2022-08-03 13:41:26 Yea that worked, thanks.
+creations-chat 2022-08-03 14:41:48 Beecause, it looks like theres hardly much effort, just a bunch of colors.
+creations-chat 2022-08-03 14:44:45 Your not getting bullied, its just really low standard compared to everything else, I'm sorry to say, but it looks low-effort
+creations-chat 2022-08-03 14:47:20 You should look at references for things you build, and see other's builds for ideas on how to make more detail, ...ok now I think you're getting bullied in some way.
+creations-chat 2022-08-03 14:49:29 That I agree with. I'm not being rude, and noone should, its a new player, but even if your new, you should have some sense of building and design in your brain.
+creations-chat 2022-08-03 14:51:38 Cuz, this is a building game and server, not a place to love gay and lesbian people. I personally am really not crazy about the pride thing at all.
+creations-chat 2022-08-03 14:53:42 That I agree with, but don't expect lots of upvotes for a white platform with a pride flag on it.
+creations-chat 2022-08-03 14:55:53 Sure, you can take a look at my builds for inspiration maybe, or ideas, just search up my name and <#384025409945337856> in the search bar.
+creations-chat 2022-08-03 15:00:07 Personally, I didn't know the plane crazy discord existed until last year (I played for a while, 2 years maybe)
+Try looking at other's builds for inspiration and details and stuff, what I do, is use several reference images
+creations-chat 2022-08-03 15:02:49 Don't be so rude, he's new,  I personally support him.
+creations-chat 2022-08-03 15:07:07 Good point, even though the build still sucked.
+creations-chat 2022-08-03 16:16:01 No way, now I disaagree with you, this is a good chill server.
+creations-chat 2022-08-03 16:18:32 Better than the last at least, you should make anything but a flag, flags are just a few colored blocks, maybe make a plane,  or a ww2 truck, that would get upvotes.
+creations-chat 2022-08-03 18:07:11 Is my tug any better? I added poles, ladder colors, I lowered the height of the flying bridge, I added the ability to tug ships from the side, and just added minor details. (I'm not trying to showcase, just asking if its any better)
+creations-chat 2022-08-03 18:09:20 Then what do I add? As far as I know, thats plenty of detail and all the real tug boat has on it.
+creations-chat 2022-08-03 18:12:50 Why thank you, at least someone likes it, I don't see what could be wrong with it, it's got plenty of details.
+creations-chat 2022-08-03 18:20:45 Well I'm sorry thats how tug boats look, I'll make the color darker, but Im not moving the flying bridge any lower, it's already 4 blocks above the rest.
+creations-chat 2022-08-03 18:25:55 Oh no.
+creations-chat 2022-08-03 18:29:25 Not sure why you say that,  but I wouldn't want to ever. Anyway I'm not a good plane builder.
+bot-central 2022-08-04 02:27:15 !rank
+bot-central 2022-08-06 03:01:56 oops...
+bot-central 2022-08-06 03:02:04 darn, I accidentally pressed return
+help 2022-08-07 23:30:15 Anyone know how I could make a 19th century naval cannon? I'm building a ny bulk cargo tall-ship
+help 2022-08-07 23:34:36 really good, what kind is it? looks like a TWA Airliner I've seen in jfk.
+help 2022-08-07 23:37:54 Yea I found it, I think it worked for TWA, idk. Pretty sure thats the livery. Very cool plane tho, its awesome.
+help 2022-08-07 23:41:00 It's nice, I remember its pretty luxurious inside, but i don't know,  I haven't been in one.
+help 2022-08-07 23:41:53 I see
+help 2022-08-07 23:44:05 nice
+help 2022-08-08 02:49:04 Anyone know how I could make a small 19th century naval cannon?
+help 2022-08-09 14:40:20 Opinions? Should I make the ship shorter, like I'm doing rn (then the ship would have 13 cannon holes rather than 15, as its supposed to) or should I keep it with its original length. The second image has more ugly masts.
+help 2022-08-09 14:53:01 That would be really hard, it's already nearly accurate real ship is 12 meters wide, this one is 11 meters wide,  cuz it has a middle point.
+help 2022-08-09 14:57:46 Yes, but realistically, a block is a meter wide, high, long.
+help 2022-08-09 15:05:01 probably, yea,  but not in <#504436696021204992>
+help 2022-08-09 16:51:26 I can't balance my tall-ship, it has a flat hull, and is well balanced, plus a ballast beam on the portside, yet it falls to the starboard side, but doesn't sink.
+help 2022-08-09 17:31:14 uh... sorta, yea, that is dumb, but by that I meant, In build mode.. its balanced.. no excess blocks on the side.
+creations-chat 2022-08-10 00:28:53 Anyone know why my ship is going 28 sps when I'm in pilot seat, but 7 or less sps when standing, pretty odd.
+creations-chat 2022-08-10 00:33:11 fard paint
+bug-reports 2022-08-10 00:36:45 my ship is going 28 sps when I'm in pilot seat, but 7 or less sps when standing, is it still same speed??
+creations-chat 2022-08-10 02:49:29 <@918581321004089364> Are those sails foldable?  it looks like they are because. they're made of motors and ropes. I need to improve my ship's sails, how'd you make it?
+creations-chat 2022-08-10 15:11:01 no,  never, I don't see whats wrong with it.
+creations-chat 2022-08-14 15:58:09 Should I remake the superstructure of my aircraft carrier? Also, to the people who downvoted my french ship, I just want to know what I should change. My guess is the superstructure, or just to add more detail.
+creations-chat 2022-08-14 16:02:21 Its made from ropes
+creations-chat 2022-08-14 16:20:31 So I just spread the bottom of the hull with ballast beams set to 0.28 density?
+creations-chat 2022-08-14 16:30:27 But design-wise, should I change the superstructure? I think I should.
+creations-chat 2022-08-15 00:40:22 Anyone know how to make good carrier planes? Ridiculously, I built a tinny starter plane, and it flew terribly on my carrier build, but flew fine without the carrier.
+creations-chat 2022-08-15 00:42:30 So much negative critics in creations chat 💀
+creations-chat 2022-08-15 00:55:03 It worked, but still sucked, I couldn't land the tiny plane anywhere, it couldn't fly straight.
+help 2022-08-15 17:17:36 I need to make a plane for my aircraft carrier, but for some reason, the planes I build on my carrier deck keep flying in circles, I could never land it, it just does barrel rolls. Anyone have a good design or something?
+help 2022-08-15 17:21:57 that didnt work
+help 2022-08-15 17:30:13 just fold it..
+help 2022-08-15 17:30:19 but prob upper
+help 2022-08-15 17:33:01 but what about the wings
+help 2022-08-15 17:51:01 what, why
+help 2022-08-15 18:23:58 Should I add anything to my carrier? apart from a plane which I'm alreday struggling to add.
+help 2022-08-15 18:56:24 Wow, thats cool, my ship isnt much as good as yours, I can't even put a working plane on it.
+help 2022-08-15 19:00:37 oh nice, mine has 2k... its an aircraft carrier
+help 2022-08-15 19:01:34 Not that big, half as big as it should be, elevator can only hold small starter planes
+help 2022-08-15 21:05:07 that looks really flat, just use a half wedge (from wedges) with half wedge (from half blocks) on top 4 times, to make circle, or use wedges..
+help 2022-08-15 21:05:20 I could demonstrate, but am eat rn.
+help 2022-08-15 21:35:09 Half wedge
+help 2022-08-15 21:35:22 Triangle wedge
+help 2022-08-15 21:35:40 Half Wedge
+help 2022-08-15 21:36:13 
+help 2022-08-15 21:38:04 I think its a meter, like in minecraft, roblox r6 models are 2 meters tall, and as far as I know, most human beings I seen are 5,2 - 5,8 , that can be rounded to 2 meters. So I'm saying, a r6 player is 2 meters tall, a block is a meter tall.
+help 2022-08-15 22:50:38 thats more complicated, but correct
+help 2022-08-15 22:51:26 hi
+help 2022-08-15 22:51:46 Gray and a bit of white
+help 2022-08-15 22:51:49 hi
+help 2022-08-15 22:54:03 Maybe scattered white stripes, but make sure it blends well.
+creations-chat 2022-08-16 15:38:42 What are you talking about? The 2 aircraft carriers, no, enough people like it,  and so do I, if you don't like it, or ships, thats not my problem.
+creations-chat 2022-08-16 20:52:34 I still don't know what your talking about.
+help 2022-08-19 02:09:21 Anyone know how to stabilize space craft, mine keep spinning and turning.
+help 2022-08-19 02:09:31 place a wheel on the motor2
+help 2022-08-19 02:34:26 Or trails
+creations-chat 2022-08-19 21:23:04 Oh, yes it is... but.. does it say lego on it?
+creations-chat 2022-08-20 03:17:16 ...does it have an interior and door?? 
+Edit: Can it take you to brazil?
+creations-chat 2022-08-20 03:24:38 Request a role, post good detailed pictures for "evidence"
+creations-chat 2022-08-20 03:42:33 wow, I muust see it.
+creations-chat 2022-09-03 23:11:21 I like it, its just really wide..
+creations-chat 2022-09-03 23:14:09 I fixed the wings a bit. With detail, idk what I'm supposed to do, it a plane it doesn't have random valves and stuff, I put plenty of detail imo, a cockpit, livery, side number, wing supports.
+creations-chat 2022-09-03 23:17:10 I mentioned I don't build planes and I know hardly anything about motorlocking wings and other wing and plane detail. I know how to motorlock, but no idea how to hide it, or keep it from flying off.
+creations-chat 2022-09-03 23:58:10 Whats wrong with it?
+creations-chat 2022-09-04 00:00:27 What
+help 2022-09-04 00:07:09 How could I motorlock a  hull design onto my ship, and should I make the funnel wider/longer? it seems short.
+help 2022-09-04 00:08:15 I'm not sure, try using trails or half wedges if you want it really thin.
+creations-chat 2022-09-04 00:10:57 I'm not that great at making guns, but I used no motorlock as I mentioned, as I suck at that and don't know where/how to hide it, I'm. trying to do camo rn, if you have suggestions tho, please say. the whole ship is folded 3 times, the bow isn't folded, it's normally made with wedges, I think its fine but I'm not a big fan.
+help 2022-09-04 01:19:47 Oh thanks, that would be great.
+help 2022-09-04 15:01:26 Anyone have designs for double barreled destroyer turrets? My turrets suck (except one)
+help 2022-09-04 15:10:17 how to fix..?
+help 2022-09-04 15:18:27 the wall is made of half block
+help 2022-09-04 20:02:59 because its cylindrical, treat it like its a submarine, you should add a few wings and ballast blocks somewhere
+creations-chat 2022-09-04 20:04:43 does anyone have a design for a double-barreled destroyer turret? I need better turrets for my ship.
+creations-chat 2022-09-05 01:58:25 Are submarines supposed to do that? It flew down to -5000 altitude.
+creations-chat 2022-09-05 02:04:47 Anyone know how I could fit torpedo tubes in the front of my sub, while still being able to turn quickly, cuz turning using a rudder sucks.
+help 2022-09-10 02:00:22 Thats cool.
+help 2022-09-10 02:00:59 How could I make my imperial shuttle craft stable? (apaart from helium, I alreaedy know that but thats tought o do when your ship isnt a square.
+help 2022-09-10 02:31:19 A video of my Shuttle Craft flipping over a lot
+help 2022-09-10 15:12:14 I'm building an imperial tiridium shuttle, where should I place the helium, its just rolling over alot rn, I put the helium in a square cieling in main thingy, and a small amount in the nose, its balanced I guess when landed, when taking off the nose dips down when moving forward, idk what to do.
+help 2022-09-10 15:38:34 https://streamable.com/njzn8a Anyone know how to fix this? I put helium as the cieling inside and helium in the nose, when landed its balanced well.
+help 2022-09-10 22:04:04 Thankss for the tip, also, do you the think the design of it is at least decent, I don't think it is, but I don't know what to add as theres no insignias on it, I'll add guns later, I just want to fix it rn, then I'll figure out the movement.
+help 2022-09-10 22:11:37 Hm, its still flipping over, I guess I just didnt put enough helium in the nose? Its falling forward,  and can't just float there.
+help 2022-09-10 22:15:53 Probably, The engine of course is in the back, its a conveyor engine at 5 speed. I tried putting more helium in the nose, somehow not enough
+help 2022-09-10 22:16:16 Oh wait, just realized the engine isnt even in the middle of the ship.
+help 2022-09-10 22:17:12 Anything I should do about the detailing?
+help 2022-09-10 22:18:51 Maybe I should put more helium on the main top wing, might lift it up a bit and stabilize it.
+help 2022-09-10 22:25:55 I added a bunch of helium to the nose, when its landed its floating the nose up, when its taking off, it still falls down.
+help 2022-09-10 22:30:11 Now it flies.. but. its super wobbly, I don't think landing is possible
+help 2022-09-10 22:31:20 iddk, I'm not much of a space ship maker.
+help 2022-09-10 22:32:09 I still need to make pitch, maybe that could fix it..?
+help 2022-09-11 14:31:35 Damn thats cool
+help 2022-09-11 14:33:20 Try curving it in the front of the cockpit and a wedge in the back of it, maybe 1x3, If thats not hat you mean by canopy, maybe the back,  you could try using a slightly longer wedge.
+help 2022-09-11 14:34:32 Add wings to the sides and top, you should watch a video about it, boat basics episode whatever.
+help 2022-09-11 14:36:48 There was a glitch last week that made everyone noobs, I guess you still have it?
+bot-central 2022-09-11 22:40:12 whyy, I tried every combination thing
+bot-central 2022-09-11 22:40:27 Is it wrong command?
+bot-central 2022-09-11 22:43:17 I found it
+bot-central 2022-09-11 22:43:37 It was "&"
+creations-chat 2022-09-12 02:22:59 I found this weird thing that someone made, It was hard taking the picture cuz it kept teleporting me away, Somehow this new mechanism is able to. teleport you creations under the baseplate, or flip it or something.
+creations-chat 2022-09-12 21:10:22 Anyone know why motors turn slower on half beams, I have car powered by motors, motors are set to 20 speed, on a road I made its going really slow.
+creations-chat 2022-09-14 22:07:48 Anyone got a super fast engine that turns on/off in an instant (like a warp drive)
+creations-chat 2022-09-14 22:11:16 I seen a video with one,  tried to recreate it, but I couldnt. Could I use one..? (I still have to somehow stabilize my runabout)
+creations-chat 2022-09-14 22:23:53 I suck at hover drives and stuff, the hover thrusteres just went flying...
+creations-chat 2022-09-15 00:27:44 Didn't really work that well. Not how its supposed to anyway.
+creations-chat 2022-09-15 00:29:52 I did, I guess, I flew the wrong way, plus, how do I turn it off? When I start the engines it just flies away backwarrds.
+creations-chat 2022-09-15 00:32:28 Cool helicopter
+creations-chat 2022-09-15 00:34:48 I'm building an MC80c Anyone have suggestions on how to make the shape? I'm unsure.
+help 2022-09-15 00:38:40 Anyone have suggestions on how to make the shape of this ship without it being ugly, but still looking good... and curved...  I'm not sure how to.
+help 2022-09-15 00:39:02 Yea I know
+help 2022-09-15 00:39:14 Blcok and wedge, but we only have wedge 1x4
+help 2022-09-15 00:39:30 I suck at that.
+help 2022-09-15 01:37:13 True-ish,  but its the only one I could find that had a hangar, hangars ar cool.
+help 2022-09-15 01:38:07 I guess I'll make a nebulon B instead..
+creations-chat 2022-09-15 01:55:32 Should I build a star wars NR Farstar or a CR90?  Farstar is just cr 90 but cooler, it has a hangar bay.
+help 2022-09-15 02:08:46 Honestly, I'm just make a cr90 now, mon calamari is huge anyway, someone said it looks like a bunch of turds... Not sure which cr90 I should make, I found an aircraft carrier version (NR Farstar)
+help 2022-09-15 02:36:20 what
+help 2022-09-15 02:36:43 I don't know.
+help 2022-09-15 02:37:54 You clearly aren't good at determining word meanings, like in ELA....
+help 2022-09-15 02:38:38 Its the word "Sure"
+help 2022-09-15 02:40:15 Yes you can, it looks like a star wars vessel.  put helium in it, try to balance it with the air, assuming thats a star ship.
+help 2022-09-15 03:00:37 meh, I alrready started the corvette, its not too hard to make. Heres some pictures of the bridge, theres a smol interior.
+help 2022-09-15 11:29:48 I’m not sure how, adding detail to a cylinder isn’t easy, there isn’t much detail but ur right the colors suck.
+help 2022-09-15 19:55:18 BUt how exactly could I make details if its cylinder shaped.
+help 2022-09-15 21:02:00 Hm, use a cutter since its less than 3x3
+help 2022-09-15 21:02:33 guh
+help 2022-09-15 21:02:42 or use a pyrarmind
+help 2022-09-15 21:04:19 Yea, you said 3x3
+help 2022-09-15 21:04:39 pyramids and cutters are 1x1 therefore they will fit in the nose of your plane
+help 2022-09-15 21:05:40 oh
+help 2022-09-15 21:05:47 then a half ball might do good
+help 2022-09-15 21:06:12 That will be an interesting bomber.
+help 2022-09-15 21:07:25 sure.
+help 2022-09-16 01:10:47 Use propellors, except that takes up space, also, you should motor lock blocks over the engine or make a custom one.
+creations-chat 2022-09-16 01:12:25 Anyone know how I could make a forcefield illusion, kinda, that you can still fly through, like for star wars ship hangars.
+help 2022-09-16 01:18:34 Well, you don't have to motorlock it, you can just make custom engines, would look better, and add conveyor engines in it, theres a tutorial on yt somewhere.
+help 2022-09-16 01:42:39 Anyone know how I could make a star wars hangar force field?
+creations-chat 2022-09-16 02:03:43 Does this hull thing look good? or does it look fat? Also, the turret is motorlocked, its not that tall.
+creations-chat 2022-09-16 02:06:45 Should I remove the 1x4 beam a block under the red line? I think it looks wierd, but replacing it with a wedge is kinda wierd too.
+creations-chat 2022-09-16 02:10:39 Really? Its supposed to be a circlular tube, its a modified cr90 corvette if you couldn't tell (NR Farstar specifically).
+creations-chat 2022-09-16 02:13:30 But should I replace the beams under the red line with wedges? Or maybe half blocks.
+help 2022-09-16 02:41:30 angle locked? What why, I'm making a forcefield, I just need a wall you can fly through basically.
+help 2022-09-16 02:43:19 That would be a super fast sliding door?
+help 2022-09-16 02:47:23 Tho idk how to make it open at all, its a very big force field, 2 in total really. (should I make the completed or incomplete version of my ship, its a conversion of the cr90?)
+help 2022-09-16 20:38:26 I'm tryign to make a keyboard for my ship's bridge.. but it keeps getting tagged (⌨️)
+help 2022-09-16 20:57:19 ok
+help 2022-09-16 21:33:18 Anyone know how I can make a forcefield you can fly through?
+creations-chat 2022-09-18 01:47:14 Anyone know how to bypass roblox filtering emojis? I'm trying to make a blue screen and a keyboard for my starship.
+creations-chat 2022-09-18 02:31:46 Blue one looks pretty good
+creations-chat 2022-09-18 02:40:29 Unfortunately didn't work.
+creations-chat 2022-09-18 02:42:32 rip ok, I'll use a piano keyboard instead of normal one, and purple square instead of blue, gon look kinda goofy cuz roblox thinks a blue square is inappropriate.
+creations-chat 2022-09-18 02:45:38 <:Upvote:490311647492309004> Edit: People above and under me are kinda right.
+help 2022-09-18 18:40:12 Why is my mini A-wing flipping over all the time? its just going down and back up, I put lots of wings and 5 helium blocks put on apply at center. (this is built inside another creation.)
+help 2022-09-18 19:36:01 It didn;t work without helium either... idk.
+creations-chat 2022-09-18 19:40:47 Progress on my NR Farstar, I tried adding a fighter to it but the A wing kinda sucks and the smaller version just kept flying in circles.
+creations-chat 2022-09-18 19:44:27 Oh, and this is the bridge. Any suggestions or something? or anyone have a small A wing design, I want to have a fighter in it.
+help 2022-09-18 20:11:09 I'm sure how tho cuz the front is made of wedges, and tbh, I deleted it now.
+help 2022-09-18 20:17:03 I'm rebuilding it, I think it may have been cuz of the metal material.
+help 2022-09-18 20:29:51 Yea it still sucks.
+help 2022-09-18 20:33:12 at least now its not flipping over
+help 2022-09-18 20:33:17 it just cant go up or down..
+help 2022-09-18 20:34:56 It is done, I put a bunch of control surfaces and wings under it. And two.. wel.. 4 tail wings, like an a wing.
+creations-chat 2022-09-19 12:27:58 What’s wrong with my jet?
+creations-chat 2022-09-19 19:01:18 That’s not really an answer, I don’t know what to change.
+help 2022-09-19 19:16:22 What’s wrong with my jet? It’s in <#384025409945337856>
+help 2022-09-19 19:31:02 Yea, first one I ever made, theres no motor lock cuz I’m not that good at that
+help 2022-09-19 19:33:22 Well, is it at least a decent plane, apart from the relevance to an f-16, cuz it wasn’t supposed to be an f-16
+help 2022-09-19 19:36:54 Darn, well, what could I do to fix it a bit?
+bug-reports 2022-09-19 20:57:59 I was in my plane and clicked the parachute key, and it sent me flying, came back 10 mins later, the game basically froze.
+bug-reports 2022-09-19 22:34:16 Yea, but I didn't go high, the parachute key sent me flying.
+help 2022-09-22 20:13:39 I made a cessna 172 type plane, but it keeps flying up, the blue circle is 1 block behind the yellow one, and 2 blocks higher than the center of gravity circle, how could I fix it's flight without destroying the look of the plane?
+help 2022-09-22 20:14:15 use one motor set to lock, and a half block on it attached to the wing.
+help 2022-09-22 20:16:28 hmm... maybe build a 5x5 circle, or a 3x3 cylinder, with a hole in the middle, put a motor there, and build the turret.
+help 2022-09-22 20:17:27 
+help 2022-09-22 20:21:08 That will be very hard to do, theres like no space there, and I still need landing gear and hover drive.
+help 2022-09-22 20:21:21 it would require alot of wings
+help 2022-09-22 20:21:29 more than I could fit.
+help 2022-09-22 20:22:34 no, they aren't able to retract, but I didn't know how to make cessna landing gear, so I made retractable ones cuz it looks good.
+help 2022-09-22 20:23:06 why? what do I change to the plen?
+help 2022-09-22 20:23:14 yea I know that.
+help 2022-09-22 20:23:29 meaning not retractable..? how?
+help 2022-09-22 20:23:46 can't fix if its not broken.
+help 2022-09-22 20:24:30 yea, but how, I obviously tried that, the gear are slanted.
+help 2022-09-22 20:25:00 well thank you.
+help 2022-09-22 20:25:04 I did dum
+help 2022-09-22 20:26:31 well, thats how it looks, its basically a half cylinder attached to trails.
+help 2022-09-22 20:26:37 ight.
+help 2022-09-22 20:57:06 I can't figure out how to fit wing panels into my plane.
+help 2022-09-22 21:26:23 Thats what I did for my cr90.
+help 2022-09-22 21:27:34 bruh
+help 2022-09-22 21:27:51 Cant rn, roblox is down, but I'll try.
+help 2022-09-22 21:30:07 Howw could I add wing panels to the bottom front of the plane? there's like no space, I need the engine, the propellor and gear in there too, the plane is sonly 2 blocks wide.
+help 2022-09-22 21:36:30 check general chat, everyone's talking about.
+help 2022-09-22 21:36:43 how, and why into the wing?
+help 2022-09-22 21:40:13 yea, but I'm not good at it, I mainly just know how they look ig.
+help 2022-09-22 23:41:30 What should I add/or change in the Cessna-172 I posted this in <#384025409945337856> (except that version had retractable gears, I loved those, they were good looking and fun to use) and got alot of down votes.
+help 2022-09-22 23:45:13 That honestly looks wierd, what is it based off?
+help 2022-09-22 23:47:37 That doesn't look very similair
+help 2022-09-22 23:47:57 Since tiles don't exist, you could try using cobblestone
+help 2022-09-22 23:50:53 yea thats better
+help 2022-09-22 23:51:29 the gray and yellow should be slate I think, and the design a little different.
+help 2022-09-22 23:51:59 Thats an excellent color.
+help 2022-09-22 23:53:13 Anyone know how to make a pushback tug, a small one for a cessna?
+help 2022-09-22 23:53:25 Or  how to improve this.
+help 2022-09-23 00:30:35 How?
+help 2022-09-23 00:31:06 Hm, I could do that, you mean horizontally, or vertically (toward the nose)?
+help 2022-09-23 00:32:01 So I guess longer horizontally.
+help 2022-09-23 00:32:23 So I motorlock more wings on there? Hmm, that might not be easy.
+help 2022-09-23 00:32:52 I'm not great at motorlocks, but I'm kinda worried about hiding it.
+help 2022-09-23 00:33:36 Therers just one 1x1 delta on each aileron, which is there for design purposes, like in my reference.
+help 2022-09-23 00:35:20 mostly this
+help 2022-09-23 00:36:48 this, there a delta wing there.
+creations-chat 2022-09-24 02:20:56 How big is a plane crazy block? 2 feet? a meter?
+creations-chat 2022-09-24 02:24:29 god damn, you sure? That means i have to make my ship 103 blocks wide (runway).
+creations-chat 2022-09-24 18:17:08 How big is a plane crazy block?
+creations-chat 2022-09-24 18:19:34 I did the maths, if thats how big a block is, I need. o make a 95 block wide aircraft carrier.
+creations-chat 2022-09-24 18:42:16 Amaze.
+help 2022-09-24 18:56:38 Is this a decent bow for the uss midway? I think the castle looks wierd.
+help 2022-09-24 18:59:49 I think ist decent
+help 2022-09-24 20:16:43 Polish Cross? wdym? Poland doesn't have a cross, I'm speaking as a Pole. Also, amazing plane. But you could make an air force pattern, use red and white square emojis.
+help 2022-09-24 20:18:51 Is this a nice bow?
+help 2022-09-25 22:50:05 put a british flag emoji in the corner.
+help 2022-09-26 16:29:28 How could I fix this blocky bow shape, if I even should.  Should I? It's the USS Midway.
+help 2022-09-26 16:31:57 From a bit farther away.
+help 2022-09-26 16:42:16 That doesn't really help.
+help 2022-09-26 19:07:30 how could I make this better? If I should.
+help 2022-09-26 19:22:57 Ssomeone already said that.
+help 2022-09-26 20:38:47 iddk, try emojis.
+help 2022-09-26 20:38:57 with camera under it.
+help 2022-09-26 20:43:02 How
+help 2022-09-26 20:43:19 The ship's bow is curved, You can't. curve an angle lock, idk how to anyway.
+help 2022-09-26 20:44:54 true, but also proof that motor/and whatever else lock is used in everything.
+help 2022-09-26 20:45:33 Noone said I'm an expert at angle locking (or motor locking).
+help 2022-09-26 21:09:56 Yea I tried angle locking it, not possible, someone showed me how to, didn't really work.
+help 2022-09-26 21:11:48 yep
+help 2022-09-26 21:12:01 I've no clue how to lock.
+help 2022-09-26 23:15:16 I do, couldn’t figure it out.
+help 2022-09-26 23:15:40 You see, the bow curves up to the top to the fore-castle and to the bow.
+help 2022-09-26 23:28:01 Thats how it's supposed the look (Second image is from WoWs Blitz.)
+help 2022-09-26 23:30:55 In plane crazy.
+bug-reports 2022-09-27 01:49:40 This isnt a bug report, just wanted to report what I think is a scam on discord, I just randomly got this dm, idk what it is.
+help 2022-09-27 13:57:32 Darn, then I'm probably not doing it.
+help 2022-09-27 13:57:48 Damn, thats a cool ship.
+creations-chat 2022-09-27 16:12:28 Dude first you call me out for not knowing how to angle lock, then you call me "dense" for sharing something.
+bug-reports 2022-09-27 16:43:49 Cuz its the only place to report things.
+bug-reports 2022-09-27 16:45:35 I didn't think its that serious.
+bug-reports 2022-09-27 16:46:42 I ever sseen that.
+help 2022-09-27 21:42:51 I mean I could definitely try, I'm trying to finis the hull rn, the whole shape i hard to make.
+help 2022-09-27 21:48:54 this is my reference
+help 2022-09-27 21:50:48 oh alright, thanks, I'll show you it when i finish the hull.
+help 2022-09-27 22:04:25 Thank you, I'm glad to hear someone appreciates my ship.
+help 2022-09-27 22:05:38 alright
+help 2022-09-27 22:53:18 Use trapdoors, I saaw someone do that.
+help 2022-09-27 22:59:52 
+help 2022-09-27 23:00:26 complicated, idk how to do it.
+help 2022-09-30 21:51:32 I made a ford suspension truck, it keeps spinning... why?
+help 2022-09-30 22:00:38 
+creations-chat 2022-10-01 00:07:22 probably because theres suspension, its heavy, and i suck at making cars.
+creations-chat 2022-10-01 20:31:46 I was expecting this kind of message. I prefer not to wait 2-4 weeks to post it honestly, I might just delete that once I finish the ship.
+contest-chat 2022-10-02 01:19:32 Where's contest ssubmissions channel?  I'm pretty sure that exists.
+contest-chat 2022-10-02 01:20:12 true
+contest-chat 2022-10-02 01:20:20 I just wanted to see some builds
+creations-chat 2022-10-02 01:47:16 Anyone know how to motor lock a prop plane nose? I saw someone do it, i cant figure out how to tho.
+creations-chat 2022-10-02 01:54:25 what
+bot-central 2022-10-03 00:02:56 ?whois
+creations-chat 2022-10-03 01:26:26 It's not my yamato, one carrier isnt mine, and it is bad, the other is mine, and its a work in progress which I lost the motivation to continue, and I don't see whats wrong with it.
+creations-chat 2022-10-03 01:31:24 Ok, I modified it, and to all the people shouting at me that its not the yamato, bruh, its not my ship, the bridge tower looks like the yamato, I didn't pay mind to the small flag.
+creations-chat 2022-10-03 01:34:27 What, "big big big" is bigger than small caarrier.
+help 2022-10-03 02:15:51 Anyone got suggestions on how to make a 1 block small ship helm, I need one for my carrier.
+bot-central 2022-10-04 22:30:17 darn, didnt work
+help 2022-10-10 00:23:15 I made a recoil anti-tank bofors, but why in the world is my barrel going up??? Its pointing to the sky, and its super wobbly.
+help 2022-10-10 01:11:31 I think I found the problem, the suspension was attached to the motor, not a normal block.
+help 2022-10-10 01:13:29 Nvm, its still not working right, it just gets stuck once the rocket iss shot.
+help 2022-10-23 15:07:41 How could I motorlock a ship’s draft out of the upside down folded hull, I don’t have space. I can’t put pictures rn
+help 2022-10-24 02:56:51 Is this a decent nose? It's supposed to be an Embraer 170.
+help 2022-10-25 01:12:53 How do I fix this?? The wings jut look weird and theres no chance this plane is going to fly and I can't really move the cockpit back cuz thats just really hard and will kinda ruin it, idk what to do with the text once I do move the nose.
+help 2022-10-25 01:30:10 Try just putting a trail between 1 or 2 blocks there, depending on the size. Unless you're good at motorlocking, then motor lock it.
+help 2022-10-25 01:44:39 How do you make airline logos on tail wings?
+help 2022-10-25 01:47:38 Idk
+help 2022-10-25 20:16:32 How do you make a plane fly stable even tho the yellow and blue circle thingies aren't close to each other at all, nor the center.
+help 2022-10-25 20:33:23 hm ok, I tried using helium for my cessna, it still went up and down occasionaly and couldn't really turn normally.
+help 2022-10-25 20:33:36 I still neeeed to figure out how to make better main gear.
+help 2022-10-25 20:33:48 I removed thee tail wwings and it helped a bit
+creations-chat 2022-10-26 12:19:26 What’s wrong with my plane apart from the fact that it flies bad?
+creations-chat 2022-10-26 19:03:38 Well, I know its short and the nose sucks, but what could I fix?
+creations-chat 2022-10-26 19:28:51 This is top view
+creations-chat 2022-10-26 19:32:57 My plane
+creations-chat 2022-10-26 19:47:16 I'd say addd something in the front, it's kinda plain and odd there.
+creations-chat 2022-10-26 19:51:06 I don't know...
+creations-chat 2022-10-26 19:55:41 what details?
+creations-chat 2022-10-26 21:51:31 What
+help 2022-10-28 02:45:06 How do I make a really small 90 degree fold?
+help 2022-10-28 02:59:03 Yea, I did that
+help 2022-10-28 02:59:07 Jst got. tofit it in now.
+help 2022-10-28 02:59:58 
+help 2022-11-01 23:31:28 <:Upvote:490311647492309004>
+help 2022-11-01 23:31:52 How do I make the wings not look weird...? And fly good, the nose keeps going up yet the blue and yellow circles are inside each other.
+help 2022-11-02 00:45:12 I kinda did  it, I just can't figure out how to do the elevators.
+help 2022-11-02 00:45:49 And I'm not sure how to hide the motor lok.
+help 2022-11-02 00:46:52 Yea. Idid, it couldn't go down.
+help 2022-11-02 00:47:13 Oh, the forwward lock for the ailerons I hid inside the jets on the side.
+help 2022-11-02 00:47:18 no
+help 2022-11-02 00:47:42 Idk if these wings look decent anyway. What could I do to it?
+help 2022-11-02 00:47:58 what.
+help 2022-11-02 00:48:27 There's like no space in the body, I tried that for the elevators.
+help 2022-11-02 00:49:15 o, it's supposed to be a small ww2 jet.
+help 2022-11-02 00:49:19 idk what kindd.
+help 2022-11-02 00:49:35 longer in the back?
+help 2022-11-02 00:50:33 oh...
+help 2022-11-02 00:50:56 I thougth the wings connecting to the nose was kinda cool.
+help 2022-11-05 19:18:49 How could I motorlock a ship's hull up out of the plot border box?
+help 2022-11-05 19:20:08 Well.. Why not? It happened to me once too.
+help 2022-11-05 19:21:03 Do you have anchors on each part?
+help 2022-11-05 19:21:22 yea it is, I can't load roblox studio or anything else.
+help 2022-11-05 19:30:30 I need to motorlock my carrier's stern cuz there's no space.
+help 2022-11-05 19:30:41 its really heavy, if only i had aa jetpack.
+help 2022-11-05 20:15:24 i meae do you have more than one anchor?
+help 2022-11-05 20:15:57 I need hlep with this.
+help 2022-11-05 20:21:58 what?
+help 2022-11-05 20:22:10 I do, but you can't fold if there's no space.
+help 2022-11-05 20:33:55 I could but I'm not on plane crazy rn.
+help 2022-11-05 20:34:15 I'm on roblox studio and having trouble with some glitch, my union is invisible.
+help 2022-11-05 20:36:06 uh oh, experiences can't load
+help 2022-11-05 20:39:06 I sho main hull and stern.
+help 2022-11-05 23:38:56 This isn't related to plane crazy, idk if I should put this in <#497142796961054721> instead but... what the heck is wrong with my SurfaceGui???
+help 2022-11-05 23:52:56 Whater you talking about.
+creations-chat 2022-11-08 14:31:05 <@456226577798135808>  just feedback on your bismarck, try motorlocking the camo instead, it looks blocky, happened with my ship, motorlock fix, tho it might be kinda hard since your hull is very curved.
+help 2022-11-08 15:09:44 How can I motorlock the stern of my ship? And is that even a good hull?
+help 2022-11-08 15:13:24 Yea I know...  I should probably widen it in the middle, I hate making hulls.
+help 2022-11-08 15:16:13 I've seen some, but idk if was on a carrier.
+help 2022-11-08 15:18:22 No I don't, just search up some kind of battleship, like the uss california, that one has a smooth hull. but thats partly cuz its angle locked and isn't supposed to be curveddd
+help 2022-11-08 15:18:53 This is basically the ship unfolded.
+help 2022-11-08 15:21:00 The front has tons of detail, idk what I could do for the runwaya.
+help 2022-11-08 15:22:20 I could of course somehow redo the whole ship to be the modern version
+help 2022-11-08 15:22:28 but I don't think I have space for that.
+help 2022-11-08 15:22:37 So I'm doing ww2 version
+help 2022-11-08 15:22:47 yep
+help 2022-11-08 15:23:05 But I'm not going to wait till next year until they release pc2
+help 2022-11-08 15:24:41 I've mde one 19th century ship, it's not that great
+help 2022-11-08 15:26:02 uss wasp is nice. I've seen someone make it.
+help 2022-11-08 15:26:08 I should apply for a shipwright rank
+help 2022-11-08 15:29:15 This is my 19th century cargo ship, any tips?
+help 2022-11-08 15:29:59 damn thats really cool
+help 2022-11-08 15:30:20 not bad, but it looks very incomplete in several sections, does it even have a hull?
+help 2022-11-08 15:32:02 overall really nice
+help 2022-11-08 15:36:21 well.. it didn't have 4 sets, it had 3. It's a new york ship, the wavertree.
+creations-chat 2022-11-08 16:02:54 The ww2 verson.
+creations-chat 2022-11-08 16:05:04 modern is too big. I can't fit the stern, so theres no way I could fit another runway.
+help 2022-11-08 16:07:37 it dependss
+help 2022-11-08 23:23:26 how could I motorlock my carrier? and how could I make a tug boat hull?
+help 2022-11-08 23:52:36 idk.. just use blocks and/or cylinderss
+help 2022-11-08 23:52:57 I just need to figure out how to motorlock my ship's hull.
+creations-chat 2022-11-08 23:54:06 Damn that looks good. I don't think you happen to know how to motorlock a ship's hull up out of it....?
+creations-chat 2022-11-08 23:56:12 Something motorlocked. Looks like an exhaust/intake port on modern jets.
+help 2022-11-09 00:01:50 But how...?
+help 2022-11-09 00:02:18 You asked before, I don't understand what you're asking, you don't "break up the side".
+help 2022-11-09 00:10:33 Seperate the windows a bit and add other markings like numbers and lines.
+help 2022-11-12 00:16:25 How do II motor lock the back of my carrier? theres no space
+help 2022-11-12 00:18:30 I have big hole in my ship helppp
+help 2022-11-12 00:21:03 Big hole in back, see? and other than that, what should i change?
+creations-chat 2022-11-13 15:30:14 basically, yea.
+creations-chat 2022-11-13 15:33:54 does anyone know how to motorlock a hull out of a ship? I don't hav space to build it
+creations-chat 2022-11-13 15:55:46 The top, also myy windows keep getting censored, how could I prevent that?
+creations-chat 2022-11-13 16:03:54 I know, I was going to do that anyway.
+creations-chat 2022-11-13 16:06:57 <@727433816217616509>
+creations-chat 2022-11-13 16:18:45 What about the motorlocked hull?
+help 2022-11-13 19:43:30 the trapdoors on my ship keep not working, and same with the elevator on my carrier, it always get's stuck (it's a rope and suspension elevator). Can anyone help? Does anyone know ho to motorlock a hull out of a hull I guess, I don't have any more space on my plot.
+help 2022-11-13 19:46:36 Well, when you click them nothing happens. Plus, they were opened when they weren't supposed to be opened.
+help 2022-11-13 20:00:53 Just interior decor, one is for a door, and another for a tool becnh work thing, basicaly a cabinet.
+help 2022-11-13 20:04:53 maake sure the cameras aren't pointing wherever and the motor settings are normal.
+help 2022-11-13 20:05:49 It's awesome, if anything try to hide the holes between the wings and stuff.
+help 2022-11-14 03:04:13 My CR 90  carrier refit, what/how should I fix it???? I feel like it sucks compared to other cr-90s.
+creations-chat 2022-11-14 03:07:00 What are you talking about?
+creations-chat 2022-11-14 03:09:10 ??????
+creations-chat 2022-11-14 03:16:43 No, it’s not, what’s your point??
+creations-chat 2022-11-14 04:14:47 Thanks, anything I should fix/change?
+help 2022-11-14 12:41:44 They go kinda far out on the ship itself
+help 2022-11-14 21:14:03 How do I reverse motorlock? (top)
+help 2022-11-14 21:16:15 Right, left is tiny.
+help 2022-11-14 21:24:34 Yea, but theres still a huge visible hole there, plus, it wont float.
+help 2022-11-14 21:27:14 
+help 2022-11-14 21:52:34 I guess I could, then I'd have to figure out how to float it correctly and if it'll even work.
+help 2022-11-14 21:53:53 Hull and waterline. It probably won't float to the waterline if I remove the main hull.
+help 2022-11-14 21:55:17 
+help 2022-11-14 21:56:34 I can't fold the hull on cuz I had to fold the superstructure on.
+help 2022-11-14 22:00:50 
+help 2022-11-15 22:44:03 Why is my tiny plane working fine in test but terrible on an aircraft carrier, the ailerons are hardly working, once I get it to turn after a while, it just spins in circles.
+help 2022-11-15 23:31:17 On landd
+help 2022-11-15 23:58:33 oh.. so my plane is fine?
+help 2022-11-15 23:59:16 Do you have any good designs for a us naval plane? My carrier is the USS Midway. (carried, corsairs, panthers and avengers)
+help 2022-11-16 00:03:49 I have no idea, could be your internet I guess... or the server. My carrier is 5800 blocks and doesn't lag much.
+help 2022-11-16 00:07:04 idk, leemme check rn ig. 110ms rn
+help 2022-11-16 00:20:45 no, I use motors, motors are enough, if not (as it is with my destroyer) I just ad another motor under the motor.
+help 2022-11-16 00:33:43 odd
+help 2022-11-16 00:33:49 max torque?
+help 2022-11-16 00:37:08 No, why should they be?
+help 2022-11-16 00:37:28 What issues.
+help 2022-11-16 00:37:39 <:clueless:942802644043464734>
+help 2022-11-16 00:38:04 that, that's regarding a tiny plane, it's just not able to turn
+help 2022-11-16 00:38:36 also, do you know how to reverse motorlock? theres no space on my plot to make the stern
+help 2022-11-16 00:38:37 ok
+help 2022-11-16 00:39:27 The top.
+help 2022-11-16 00:40:40 I've seen people rerverse motorlock a superstructure out of the hull.
+help 2022-11-16 00:40:52 what, the gun decks...?
+help 2022-11-16 00:41:30 The motor... or the cameras holding it up.?
+help 2022-11-16 00:42:24 I mean to motorlock a hull up out of the hull.
+help 2022-11-16 00:42:26 hold on
+help 2022-11-16 00:44:29 Green is the hull below waterline, I ned to get that on the stern, or on the top. Red is the plot border.
+help 2022-11-16 00:48:39 I don't think I can do that, I spent a while on it. (it's honeslty a very important part of the ship.) This is the top of the fold. And the ship unfolded.
+help 2022-11-16 00:50:31 Ight then, I'll try that. So on the bottom I remove the red part and 1 block of the waterline, bring the build 3 blocks down, motorlock the red part out on the bottom and motorlock the hull and waterline an everything at the top.
+help 2022-11-16 00:51:14 Ight...
+help 2022-11-16 00:51:19 but thats a good idea
+help 2022-11-16 00:51:27 might work
+help 2022-11-16 00:52:51 Alright, I'll just scour youtube for a guy reverses motorlocking an island out of the hull and copy them.
+help 2022-11-16 03:48:41 No, it can, I have a Mac book air and it handles 6300 blocks just fine.
+help 2022-11-16 03:49:45 It’s already huge, I made the ship plenty long. The superstructure is slightly shorter than the hull probably, or more, and is in the middle of the ship.
+creations-chat 2022-11-20 00:03:34 <@860154094072102923> You should fix the front landing gear on your plane, the wheels are huge and discolored, but I think the plane is nice.
+creations-chat 2022-11-20 00:06:02 And I just realized its very inaccurate.
+creations-chat 2022-11-20 14:53:32 <@773913961883369515> Nice ship, I just think the saucer is a little low, the interior shouldn't bleed into the hull and you should try maybe adding windows, a shuttle bay and/or an insignia, that would be nice. You should repost with more pictures very awesome build.
+creations-chat 2022-11-20 15:42:56 Maybe the bridge, it looks... plain, try adding range finders or towers or masts on it. Also, try adding rafts and/or windows and railings. Maybe the stern too, the superstructure looks too far back.
+creations-chat 2022-11-20 16:03:32 Wings are doo doo. nose has some holes.
+creations-chat 2022-11-20 18:40:43 Alright, I tried making the uss defiant, it didn't go well though.
+creations-chat 2022-11-20 18:42:51 Still looks kinda odd, too big.
+creations-chat 2022-11-20 18:44:53 agreed, wdym by new-ish tho...?
+creations-chat 2022-11-20 19:55:50 Not sure what I could say about it, but it looks really weird, looks more like a modern-ish destroyer.
+creations-chat 2022-11-20 19:58:50 Idk, but landing crafts are big rectangles, and amphibious assault ships (LHD thing) are basically aircraft carriers.
+creations-chat 2022-11-20 20:01:15 Yea, I know.
+creations-chat 2022-11-20 20:03:51 You mean escort/light aircraft carriers? that's what I found, ships like the casablanca or bogue have been made.
+creations-chat 2022-11-20 20:36:01 Why not
+creations-chat 2022-11-21 00:13:29 Why is the propellor like that??????? And why is it all purple.
+creations-chat 2022-11-21 00:15:48 Looks good, fix the nose tho, it looks pretty odd.
+creations-chat 2022-11-21 00:18:27 I think the area in front of the wings is a bit too long. What plane is that, it looks nice.
+creations-chat 2022-11-21 00:20:48 I like it, but I think the lower black engine part is too exposed, just try changing the color of the armor and propellors and make the armor thing a bit bigger I guess, if you know what I mean. Yea the water wheel doesn't really do the trick.
+creations-chat 2022-11-21 00:22:50 I never criticize (unless he build actually sucks like a shredder or a rainbow box.), happy to help, I look forward to seeing the rest, but I'm not much of a plane specialist.
+help 2022-11-21 00:24:50 Hey, I think I've seen that ship before, damn awesome one.
+creations-chat 2022-11-21 00:25:05 Yep.
+help 2022-11-21 00:25:30 Nose looks kind of long. 
+edit: hold on, are those minecraft clouds in the sky?
+help 2022-11-21 00:27:59 Does anyone know if that kind of ship is bigger than a CVE? I want to know if I could build an accurately scaled ship like that one.
+Edit: just realized, anyone know how to motor-lock something out of the hull of a ship? I'm out of space.
+creations-chat 2022-11-21 00:30:32 Wait, that's what it's supposed to be, well then it looks very inaccurate.
+help 2022-11-21 00:31:48 Btw, anyone know if your ship needs to float in order to get a shipwright rank? Cuz my ship has no space for a stern hull.
+help 2022-11-21 00:32:45 Well either way I have a disturbing big hole in my ship.
+help 2022-11-21 00:34:30 o. k.
+help 2022-11-21 00:35:47 So uh yeah, anyone know how  can patch a hole like that, the ship has 4 folds btw. (top folds are the stern where it has no more space to build.
+help 2022-11-21 20:28:18 Oh, I was trying to find it in <#384025409945337856> , do you know if its there?
+creations-chat 2022-11-21 20:29:53 <@413827183790915607> Awesome ship! Personally I just think you slightly over detailed in some places, by that I mean adding things without a purpose, also, how dd you make the torpedo launcher, I need a better design for my destroyer.
+help 2022-11-21 20:30:03 Oh damn
+help 2022-11-21 20:30:21 I don't think he has a discord acc, i really don't know tho.
+help 2022-11-25 14:53:30 motorlock a cylinder into the turret
+help 2022-11-25 14:53:53 How can I make these windows?
+help 2022-11-25 15:00:15 How?
+help 2022-11-25 15:04:24 Thats not very clear, but I can attempt it.
+help 2022-11-25 15:07:13 Is this decent? I'm not train person either.
+help 2022-11-25 16:12:38 That seems complicated, does what I already have look decent? Also, how do I make one block train wheels right under the car.
+help 2022-11-25 16:13:34 Yea, I triede that.
+help 2022-11-25 16:14:19 I did that..
+help 2022-11-25 19:04:16 Which is better, what should I add, and how could I make the wheels?
+help 2022-11-25 19:07:10 click the back
+help 2022-11-25 19:12:06 Do it again, then chanage the color of the back.
+help 2022-11-25 20:41:52 Whats betterr?
+creations-chat 2022-11-25 22:30:49 Hey... Is it bad that I'm making a train with square wheels...? <:FineTroll:626841259746656289>
+creations-chat 2022-11-25 23:28:31 I'm building an EN-57 train, which livery is better? (other liveries if you search up the train will appear). First Image is how the train lookss rn.
+help 2022-11-25 23:52:07 Is it possible to make 1.5 x 1.5 half cylinders or remove the base of a motor? my train needs one block cylinders.
+help 2022-11-26 03:49:18 ?
+help 2022-11-26 04:23:31 ?
+help 2022-11-26 22:09:54 https://streamable.com/k4k94d How do I fix this...?
+help 2022-11-26 22:23:42 Yea, I tried that: https://streamable.com/g183jt (for some reason streamable made the video much shorter)
+help 2022-11-26 22:24:11 But yeah, the end isn't fully folded and its twitching insanely.
+help 2022-12-04 15:27:05 I'm trying to make a L-1049 Super Constellation, but this just looks like a really thin white bomber, how do I fix the dimensions??
+creations-chat 2022-12-04 15:32:32 I'm trying to make a L-1049 Super Constellation, but this just looks like a really thin white bomber, anything I can improve on or fix? And how?
+creations-chat 2022-12-04 15:42:42 It's actually a calm day in <#504436696021204992> rn.
+creations-chat 2022-12-04 15:57:03 No, haven't heard of it
+creations-chat 2022-12-04 16:01:20 oh
+help 2022-12-04 16:50:31 Yea, I redid it, now its dis. But I think its still not the best.
+help 2022-12-04 16:50:59 Use wedges or angle lock it. Nice ship btw.
+help 2022-12-04 18:20:04 In some cases that could be correct, but either way would be really hard to make.
+help 2022-12-04 18:21:24 Yeah, you're right, based on this picture, it's entirely wrong. https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3qW2ZSnBDaySjGSbYIscXxa4jEFvtI7dIKvWx050PK3Tkq6w-JCB52Ec5jhRpBtpvfEk&usqp=CAU now I know why noone built this plane.
+help 2022-12-04 19:20:48 Plus in thee bottom right corner neext to the type bar.
+help 2022-12-04 19:33:22 Bruh
+help 2022-12-04 19:33:51 dumb dum, it's right there on the screen, no "Tuto"
+help 2022-12-04 19:34:00 The thing you write words in.
+help 2022-12-04 19:35:23 You need level 3
+help 2022-12-04 20:02:28 oh, how'd you make the nose?
+help 2022-12-04 20:03:04 that soundds complcated
+help 2022-12-04 20:03:49 I suck at motorlock
+help 2022-12-04 20:03:57 I always just use weedges, its easier
+help 2022-12-04 20:04:20 Did you post your plane? I can't find any L-1049s
+help 2022-12-04 20:05:43 Oh, do you still have it? Could I see how you did it?
+help 2022-12-04 20:05:48 oh alright
+help 2022-12-04 20:06:21 I kinda gave up onn mine rn tbh lol, I can't figure out the nose right, or the elevation of the paint and stuff.
+help 2022-12-04 20:07:07 I've made on before, any passenger craft I've made is alway too small.
+creations-chat 2022-12-04 20:13:57 Damn, that's really nice, should fix the landing gear tho. The nose has holes, but Its better than mine.
+creations-chat 2022-12-04 20:16:54 Just use trails, horns, signs and text to make it. The paint probably isn't too hard, depends on the livery, TWA is kind of funky but it's possible, Indi air is just a red line, KLM is just a blue line, they all have a gray unerside.
+creations-chat 2022-12-04 20:19:05 Ima redo mine, it's kinda odd.
+creations-chat 2022-12-04 20:38:25 Yeah then you should use red signs (1x3).
+help 2022-12-04 20:39:21 Too big, I've a better one.
+help 2022-12-04 20:40:02 Based off this :https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/lockheed-l-1049-super-constellation-blueprint-plans-a-stockphotosart-com.jpg
+help 2022-12-04 21:04:15 ing it, I think I just made the nose sharper. Different reference this time.
+help 2022-12-04 21:05:16 Doesnt the constellation have a shoter nose?
+help 2022-12-04 21:31:38 thats unclear
+help 2022-12-04 21:56:32 I deleted the tab... ikd
+help 2022-12-04 22:06:18 Yea
+help 2022-12-04 22:13:19 2 blocks.
+help 2022-12-04 22:13:43 looks awesome
+help 2022-12-11 16:32:05 How could I make these guns?
+help 2022-12-11 16:32:55 How could I make this bigger? I don't feel like rebuilding the whole thing lol.
+help 2022-12-18 14:57:05 What should I change? Btw one of the windows was censored.
+creations-chat 2022-12-23 03:46:58 <@797147377324130325> I like your plane, but the nose looks terrible honestly
+help 2023-01-12 00:00:11 How could I make a huge circle (the size of the plot) and place thingns on it?
+help 2023-01-12 00:03:25 A big circle
+help 2023-01-12 00:04:38 ik, duh, but.. idk, any tips? What pattern?
+help 2023-01-12 00:04:56 What i have rn
+help 2023-01-12 00:06:58 no
+help 2023-01-12 00:11:00 I got this, Im not sure its not too square.
+help 2023-01-12 00:16:13 yea
+help 2023-01-12 00:21:11 I completed it, kind of blocky tho, still good. Now I need to make it spin somehow.
+help 2023-01-12 00:21:22 what would. be a good paint color?
+help 2023-01-12 00:22:09 A space station based off the Voyager Hotel.
+help 2023-01-12 00:22:25 not too small, I tried making another one before, it was too huge and the folds too complicated just to make the circle.
+help 2023-01-12 00:24:17 K then, what about blue ish? I did that on my carrier.
+help 2023-01-12 00:24:28 rn the color is metal
+help 2023-01-12 00:24:36 whiich is probably too heavy
+help 2023-01-12 00:25:27 too pink
+help 2023-01-12 00:26:56 Blueish gray from my carrier. (RGB: 129, 130, 140)
+help 2023-01-12 00:27:11 t looks good
+help 2023-01-12 00:27:13 k
+help 2023-01-12 00:29:04 
+help 2023-01-12 00:29:16 II nee to figure out the interior and stuff too.
+help 2023-01-12 00:33:27 Yea, thats pretty good, cockpit is kiida high tho.
+help 2023-01-12 00:34:45 oh, then remove that lower half wedge
+help 2023-01-12 00:35:10 Should II curve the walls?
+help 2023-01-12 00:38:29 Thats just the frame.
+help 2023-01-12 00:38:46 Idk what to do anymore.
+help 2023-01-12 00:42:01 Some kind of space station, inspired by DS9 and the Voyager hotel. Idk what to do for the gravity ring, should I motorlock some big rooms in there or just leave it?
+help 2023-01-12 00:44:49 gravity rning is the main part
+help 2023-01-12 00:45:05 
+help 2023-01-12 00:47:28 Circle. Im not deleting this. Idk what to add to the walls (not added yet) and idk how I would add individual rooms sticking out like the voyager station.
+help 2023-01-12 00:57:23 Idk how to do this, how could I put round window on wedges or something? its sos complicated
+help 2023-01-12 01:33:06 What
+help 2023-01-12 01:33:21 A space station inspired by Voyager and ds9
+help 2023-01-12 01:36:20 Wat I have rn, I’m making ops… obviously in the middle, I’ll figure out float later
+help 2023-01-12 03:09:06 Nope
+help 2023-01-12 03:26:03 Huh
+creations-chat 2023-01-12 03:31:42 <@456226577798135808> reaction bot broke, you should repost I guess, nice plane, no paint or decals tho….
+help 2023-01-12 23:28:03 Torus shaped space station. Any tips on the details for the torus or how I could make ops? I wanted to put circular windows in a circle for ops (and a radar atop) or 1 or 4 huge windows angled up like a wedge but idk how.
+help 2023-01-12 23:30:12 That doesnt help.
+help 2023-01-12 23:40:58 I dont feel like it.
+help 2023-01-12 23:41:21 A reference to DS9, its the main command module or the bridge of a space station
+help 2023-01-12 23:42:25 How?? you have to angle lock.
+help 2023-01-12 23:43:57 That doesn't help..
+help 2023-01-12 23:47:05 k, thanks, it helped.
+help 2023-01-13 00:29:54 looks good, btw. I just finished making ops, on my station, any.. ideas? I  feel like the middle part is just a short wand.
+help 2023-01-13 00:30:55 the upper wings look like they aren't attached to the plane. I think thats all, just fix the wings.
+help 2023-01-13 00:32:59 yep
+help 2023-01-13 00:33:09 bro what
+help 2023-01-13 00:33:13 no
+help 2023-01-13 00:35:23 Theres also a bunch of expose motor lock, so maybe put half blocks on the wings. See how that looks.
+help 2023-01-13 00:36:30 k
+help 2023-01-13 00:37:18 any tips? The strange mid part is bothering me abit.
+help 2023-01-13 00:42:18 so a dome under the middle then drop down, and add some radars? I was thinking to add a circular thingy around it, to make it look kinda wider.
+help 2023-01-13 00:43:22 oof ok, Ill have to just about destroy the useless vent, but a greenhouse dome is better
+help 2023-01-13 01:01:30 no problem
+help 2023-01-13 01:51:05 Depends on what theme, I imedietely thought of a triangular pointed fighter.
+help 2023-01-13 01:53:27 I just finished my space station, but it doesn't really look finished or right on the outside, what can I improve?
+creations-chat 2023-01-13 01:54:50 <@842012556825985106> Because it's basically an oversized gun on a platform with a rectangle attached to it. It has no detail and its huge. I haven't actually seen the C-RAM.
+creations-chat 2023-01-13 01:58:01 onestly, I dont and yet... Im not a bad builder, you can make better without motorlock.
+help 2023-01-13 01:59:16 I mean how should I change the main cylinder thingy int eh middle cuz it looks goofy, and what *kind* of detail?
+creations-chat 2023-01-13 02:03:19 Damn, looks great.
+creations-chat 2023-01-13 02:05:58 Anyone have some feedback on this space station? What to add?
+creations-chat 2023-01-13 02:08:31 like? Anything I should change to the middle section?
+creations-chat 2023-01-13 02:11:03 Yea, I was thinking about the paint, but idk how or where to change it, except for the radars and stuff. Ima redo the middle prat, make it longer.
+creations-chat 2023-01-13 02:14:18 I was thinking to add another little circle between the torus and the middle. So I should make the torus slightly more round (with edge wedges), modify the paint, and make the middle part longer and wider.
+creations-chat 2023-01-13 02:17:17 I mean, Ive only tried making a space station once, barley anyone made a torus station anyway. I make more ships, you could check my builds.
+help 2023-01-13 03:47:13 So i just add a few vents circles and plates to the ring, I added radars to the middle and reworked the lower part.
+help 2023-01-13 04:04:49 K, I added ocking ports on each side.
+help 2023-01-13 22:09:07 Motor2.... ||duh||
+help 2023-01-13 22:09:34 How could I make a 1752 block build float? (with helium)
+help 2023-01-13 22:11:01 Click the build button annd place a motor.
+help 2023-01-13 22:11:45 no, those are wedges.
+help 2023-01-13 22:24:57 idk, try hover engines or wings.
+creations-chat 2023-01-13 22:31:25 Is there some kind of ratio of blocks to helium blocks you need to make something hover? Just wondering, cuz I dont want to spend an eternity on helium
+help 2023-01-13 22:33:33 <:FineTroll:626841259746656289>
+creations-chat 2023-01-13 23:02:07 looks the same
+creations-chat 2023-01-13 23:04:21 and looks like its from aeronautica
+creations-chat 2023-01-13 23:08:35 Provide other pictures and we'd believe you.
+creations-chat 2023-01-13 23:19:16 barely looks different
+creations-chat 2023-01-13 23:21:45 <:FineTroll:626841259746656289>
+help 2023-01-14 00:40:27 no, its in the midle
+help 2023-01-14 00:40:31 theres no uue for a motor there anyway
+creations-chat 2023-01-14 00:52:17 <:Upvote:490311647492309004> but true, the tail is weird
+creations-chat 2023-01-14 00:54:58 nnot sure, jsut make it a little shorter
+help 2023-01-14 23:56:56 How do I make a angled and motorlocked funnel?
+creations-chat 2023-01-15 01:42:14 What do you mean, it looks excellent.
+creations-chat 2023-01-15 01:44:39 True, might as well call it a custom, I looked over it for a second, it's not identical.
+creations-chat 2023-01-15 01:46:53 I don't know, maybe add some radar or scanner on the bottom of the nose.
+creations-chat 2023-01-15 02:00:47 Yer critisizing someone's build for minor inaccuracies while your builds are not as good. His plane looks awesome, might as well just call it a custom and you'd be happy.
+creations-chat 2023-01-15 02:05:06 Because the plane was detailed and looked good. I upvoted the build.
+help 2023-01-15 02:09:01 Is this ship short , and what should I add to the stern???
+help 2023-01-15 02:13:21 I feel like the bridge looks weird
+help 2023-01-15 02:41:40 You only have 2 wings, planes have 5 wings
+help 2023-01-15 02:42:08 As I had said, copy the top and maybe motor lock some radar or sensor
+help 2023-01-15 02:46:41 Odd, I guess the game just demands you have rear elevators.
+creations-chat 2023-01-15 03:16:31 Is that a cruiser? Cuz its around the size of my carrier.
+help 2023-01-15 03:50:04 How could I make a good crane in this space?
+creations-chat 2023-01-15 03:53:49 How could I make a better crane in this spce?
+creations-chat 2023-01-15 04:04:02 damn, looks cool.
+creations-chat 2023-01-15 04:18:21 Ive seen someone put friction blocks on the waterline of a ship which made it float really well, just want to confirm this works...    (Ima just put here that I put 337 friction blocks to exclude from block counts)
+creations-chat 2023-01-15 04:55:29 How could I improve this? (obviously the stern isn't finished, I pent way too long on this)
+creations-chat 2023-01-15 17:28:17 ***Long rudder*** Somehow my ship still has slow turning, how 2 fix?
+creations-chat 2023-01-15 17:33:11 Bot told me not to spam.....  Anyone know a good realistic smoke configuration?
+creations-chat 2023-01-15 17:37:16 Realistic smoke...
+creations-chat 2023-01-15 17:55:59 <:Upvote:490311647492309004>
+creations-chat 2023-01-15 18:22:33 the superstructure is really small
+creations-chat 2023-01-15 18:26:37 <:Upvote:490311647492309004>
+creations-chat 2023-01-16 04:58:17 <@1018940961310658600> Honestly the camp has colors too bright, you can motorlock the camp with just one motor and some delta wings, you don’t have to rebuild anything, and honestly, the bridge and superstructure is lacking detail, not even on close examination cuz I’m on phone rn, it doesn’t look that similar. I jus realized a bunch of imperfectancies
+creations-chat 2023-01-16 16:22:17 K, one moment, I recently woke up <:clueless:942802644043464734>
+creations-chat 2023-01-16 18:33:05 Annyone have tips/feedback? It doesnt look/feel done.
+creations-chat 2023-01-16 18:53:42 Anyone have a good tiny wooden life boat design?
+creations-chat 2023-01-16 19:09:48 My ship has pretty terrible turning.
+creations-chat 2023-01-16 23:37:43 Which deck is better?
+creations-chat 2023-01-16 23:43:10 k then, I tried adding a poop deck (I think thats It) iin the back of the schooner but it doesnt look the best
+creations-chat 2023-01-16 23:46:16 Any tips, the poop deck looks weird
+creations-chat 2023-01-16 23:49:24 Oh.. that looks a bit more dry tho.
+creations-chat 2023-01-17 00:18:24 What can I do to this to... make it more fancy? maybe smaller windows?
+creations-chat 2023-01-17 00:20:28 Pretty awesome, now just add deck details and make the torpedoes black.. preferably.
+creations-chat 2023-01-17 00:23:26 As in a black square emoji on the top block?
+creations-chat 2023-01-17 00:27:13 Motorlock for decks i really good, the deck def should be grayer
+creations-chat 2023-01-17 00:35:52 How could I make this window thing better? I suck at motorlock so...
+creations-chat 2023-01-17 00:41:44 
+creations-chat 2023-01-17 00:44:05 Thats it? thats just going to look iinto the room, which is empty, an will probably remain empty..
+creations-chat 2023-01-17 00:49:49 Is this good..?
+creations-chat 2023-01-17 00:56:17 Uh..
+creations-chat 2023-01-17 00:58:47 Yea Im doing that, hull is white. The ship is highly inspired by Zephxix's Merle.
+creations-chat 2023-01-17 01:01:31 Idk, intakes? I don't make jets.
+creations-chat 2023-01-18 00:41:52 clearly theres space for windows radars and a superstructure, superstructure isn't finished.
+creations-chat 2023-01-18 00:45:18 damn whaat the heck is the superstructure
+creations-chat 2023-01-18 00:47:37 what
+creations-chat 2023-01-18 02:26:13 Wdym, I 400 is cool, submarine carrier
+creations-chat 2023-01-18 03:26:54 Oh, I barely seen the I-400
+creations-chat 2023-01-19 02:53:12 <@272125457703501826> even tho the Lexington is supposed to have a superstructure like that, the bridge just looks too tiny, and the smoke from the funnel just looks odd
+creations-chat 2023-01-20 03:51:10 <@942893388091498546> what’s an HMS and USS Ford? Haven’t heard of it. How come your ship is flat..ish?
+creations-chat 2023-01-20 13:23:37 Yea but hms isn’t a real carrier, neither is uss ford and uss gerald r ford doesn’t look like that
+creations-chat 2023-05-12 21:42:18 <@1056144535023001650> awesome shuttle. This is mine… but its in astrocraft, also only one of its kind:
+creations-chat 2023-06-11 00:21:45 <@375281006091173890> Is just downvoting every build… i checked
+creations-chat 2023-06-11 00:31:49 Right… like that none of the recent creations are any good
+creations-chat 2023-06-11 00:35:48 I guess we have different taste idk
+creations-chat 2023-06-11 00:38:03 I wasnt specifying that, it looks fine, i mean the actual builds
+creations-chat 2023-06-11 01:29:58 Ive never even seen that
+creations-chat 2023-07-17 20:42:04 Wdym, it looks pretty good
+creations-chat 2023-07-17 20:44:13 *Black* ship
+help 2023-07-17 20:45:03 Color it from the back
+help 2023-07-17 20:45:17 Yes
+help 2023-07-17 20:45:49 No, happens on my carrier.
+creations-chat 2023-07-17 20:47:24 Yeah, the community kinda sucks, I heard someone say theres nothing good in <#384025409945337856> . Some people just downvote every build they see…
+creations-chat 2023-07-17 20:50:22 Really nice
+creations-chat 2023-07-17 20:52:24 Kinda why i moved to astrocraft, f3x just seems better and simple after I discovered it. ||Theres a lot of noobs tho, I mean, when I first joined I built a runabout that got commissioned to a faction whilst other players need to ask for help just to get out of or move a ship.||
+creations-chat 2023-07-17 20:54:27 Good job.. I guess
+creations-chat 2023-07-17 20:59:17 Why? Theres lots of effort in some of the recent builds, and many nice ships and planes if you search for them. ||(Some nice starships I saw got massively downvoted)|| you upvoted black pearl, nice <:clueless:942802644043464734>
+creations-chat 2023-07-17 22:08:11 Sheesh, nice ship

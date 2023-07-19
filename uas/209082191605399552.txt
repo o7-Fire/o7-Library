@@ -1,16 +1,27 @@
-deprimiert
-plane-crazy 2019-09-24 05:03:07 *Totally not, because it's only a bloody Chassis*
-plane-crazy 2019-09-24 05:01:53 I'm a history buff. Mkay?
-plane-crazy 2019-09-24 05:01:38 I'm making a tank because i'm into history...
-plane-crazy 2019-09-24 05:01:13 E2*
-plane-crazy 2019-09-24 05:00:04 Jumbo*
-plane-crazy 2019-09-24 05:00:00 M4A3E8 Jumo
-plane-crazy 2019-09-24 04:59:53 Mhm
-plane-crazy 2019-09-24 04:59:47 Oh hey, it's you.
-plane-crazy 2019-09-12 02:54:26 Not so sure.
-plane-crazy 2019-09-12 02:54:21 I think he's gone blind.
-plane-crazy 2019-05-03 03:56:22 I doubt anyone here knows who the band Styx, supertramp, and, REO speedwagon is.
-plane-crazy 2019-05-03 03:54:40 Bet
-plane-crazy 2019-05-03 03:54:03 AnImE bAd
-OmG
-plane-crazy 2019-05-03 03:52:46 You don't know what colour is and where it's used <@456226577798135808>
+The Tale of deprimiert (209082191605399552)
+the-dump 2019-05-03 02:05:40 So, I was messing around with the pistons on my train car (still WIP because of what you will see), and noticed how hard it was to line up a door and make it flush with the rest of the wall, I found out why, Lengths 1-2.5 have a extend factor of .25 (1 being .25, 1.5 being .5 etc,etc.), when it comes to 3+ they have a weird factor.
+
+3-1.2ish blocks
+3.5-1.33ish blocks
+4-1.6-7ish blocks.
+bot-central 2019-05-03 03:30:44 Colour is Great Britain/The United Kingdom/England, Color is American. <@456226577798135808>
+bot-central 2019-05-03 03:49:16 Colour is commonly used in the British isles, this is the original way colour was spelled, and is more commonly the more "proper" way to say colour. Meanwhile, when America said fuck you to the British Empire (Circa 1775, start of the civil war), America changed a lot of ways to spell a lot of words with "useless" u's, like colour to color, armour to armor. But the changes have only been in effect since the early 20th century (1901 A.D-> 2000 A.D) 
+<@456226577798135808> 
+Educated?
+bot-central 2019-05-03 03:56:45 Hm
+bot-central 2019-05-03 03:56:58 What
+bot-central 2019-05-03 03:57:01 About colour?
+bot-central 2019-05-03 03:57:07 colour is a fucking word.
+bot-central 2019-05-03 03:57:26 Hm
+bot-central 2019-05-03 03:57:49 Original insult. "Autism."
+bot-central 2019-05-03 03:58:38 You see, nerd isn't a insult. It means I have a higher knowledge level and you're calling me smarter than you.
+bot-central 2019-05-03 03:59:31 Probably because I suffered from depression for a third of my life and don't take shit as a joke.
+bot-central 2019-05-03 03:59:51 Also because I live in a Military family.
+creations-chat 2019-06-05 17:50:25 Idk if anyone has made something like this, but this took ~ 3-5 hours to find a design that works. (Custom piston steering).
+creations-chat 2019-06-05 17:50:43 It turning.
+creations-chat 2019-06-05 17:51:14 The actual model.
+creations-chat 2019-06-05 17:52:16 ^It works pretty well, just a bit spazzy, but it does work, and works well.
+creations-chat 2019-06-05 17:56:49 "Spazzy but works well"
+creations-chat 2019-07-13 19:53:47 .wmv is safe. It's what roblox records and saves it as.
+creations-chat 2019-08-14 03:16:29 Not nice
+creations-chat 2019-08-30 03:40:05 Why is everyone mad at just motors, both need to be fixed. I need to be able to have my track design to work because I don't use ropes for Tension but Pistons, and, I regret everything.

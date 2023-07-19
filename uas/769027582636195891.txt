@@ -1,0 +1,76 @@
+The Tale of iluvmyalice (769027582636195891)
+creations-chat 2022-06-22 16:37:31 Maybe add some signs with numbers, make it a little shorter, missiles cockpit frame
+bot-central 2022-06-22 16:47:09 !rank
+bot-central 2022-06-23 03:40:52 !rank
+bot-central 2022-07-14 00:57:29 !rank
+creations-chat 2022-07-17 20:12:33 What plane is it
+creations-chat 2022-07-17 20:16:49 Mid (jk)
+creations-chat 2022-07-20 18:09:22 he probably didn't even know about it
+bot-central 2022-07-23 03:10:12 !rank
+help 2022-08-16 23:21:01 Motor lock
+creations-chat 2022-08-21 21:26:29 Motor lock
+creations-chat 2022-08-21 21:29:15 Motor lock
+creations-chat 2022-08-21 21:33:25 <@456226577798135808> move the motor lock tower down one
+bot-central 2022-08-21 21:36:02 !rank
+creations-chat 2022-08-21 21:38:28 Ok
+bot-central 2022-09-24 04:08:31 !rank
+help 2022-09-30 03:01:51 angle lock it
+help 2022-11-07 03:35:47 Is it not locking down?
+help 2022-11-07 03:36:13 Look for something that’s touching the tower causing it not to lock
+help 2022-11-07 03:36:23 Connected to main body
+help 2022-11-07 03:36:32 Motor lock tower
+help 2022-11-07 03:40:30 Side picture?
+help 2022-11-07 03:59:21 Sry for late response but can I see from a little  farther away and more of a side view
+help 2022-11-07 04:00:32 Alr
+creations-chat 2022-11-07 05:16:36 Piston lock
+creations-chat 2022-11-07 05:20:21 Trails?
+creations-chat 2022-11-07 05:25:46 Nice
+help 2022-11-07 16:10:09 Lag or too much speed
+help 2022-11-07 16:45:21 Yeah
+help 2022-11-08 00:49:56 I think it’s cuz when 2 motors are together trying to do things at same times it glitches
+help 2022-11-08 00:50:07 Or it’s too heavy for the motors
+help 2022-11-10 02:27:23 Delta and wing panels
+help 2022-11-10 02:27:53 Use sand material for more texture
+help 2022-11-10 02:29:39 Use these emojis to make it ⬜️⬛️
+help 2022-11-11 19:01:37 I think it’s cuz of most audios got deleted
+help 2022-11-12 01:50:45 Tutorial
+help 2022-11-12 02:52:35 How I’m helping
+creations-chat 2022-11-12 06:22:14 Probs folding or motor lock fold
+help 2022-11-12 06:23:03 Folding
+help 2022-11-12 06:23:32 Or motor lock fold
+help 2022-11-12 21:15:11 I don’t think it would ever fit
+help 2022-11-12 21:15:42 Unless you make a way to compact the folding or just make the build smaller
+help 2022-11-12 21:16:52 Or maybe there’s some room on the side you can try and fold from the side
+help 2022-11-20 17:43:42 You have to reset it to it according angle
+help 2022-11-20 17:44:14 Just place blocks and color them diff colors to know what angle it is each time
+help 2022-11-24 07:49:11 I think it is because some servers have a bug to delete one kind of block
+help 2022-11-24 07:49:49 Or you saved it when it was loading in
+help 2022-11-24 19:27:49 Elevator is the back wings that pitch the nose up or down
+help 2022-11-24 19:28:21 Rudder is the yaw
+help 2022-11-24 23:11:01 Known bug
+help 2022-11-24 23:11:05 Gets annoying
+help 2022-11-24 23:11:11 Just use limiters
+help 2022-11-25 05:57:57 Like to limit the angle
+help 2022-11-25 05:58:12 And so you can hold it until it stops resetting
+help 2022-11-25 16:03:37 Try angle locking to add a curve to not make it so flat or do piston lock to add glass with a outline of trails or wing panels
+help 2022-12-03 23:51:28 No
+help 2022-12-03 23:52:03 Just find a way to balance it using wings or ballast and helium
+help 2022-12-03 23:53:05 Then put a ballast block on the end
+creations-chat 2022-12-05 01:25:35 That’s a wip build <@537000423656259614> you should delete before you get warned
+help 2022-12-16 06:25:59 Half blocks and try to fit it in or just move the locks down one block
+help 2022-12-27 04:30:15 If there’s 2 motor 2’s they will usually bug out
+help 2022-12-27 04:30:30 Just place 1 motor 2 on each side
+creations-chat 2023-03-13 01:42:03 yeah its steep
+help 2023-04-13 03:14:16 offset lock
+help 2023-05-06 20:51:07 angle lock
+help 2023-05-07 20:18:16 why do you need a motor on each side
+help 2023-05-29 05:55:47 like how much you can float in water
+help 2023-05-30 05:28:37 prolly another motor 2 problem
+bug-reports 2023-05-31 23:44:13 not a bug
+help 2023-06-02 03:37:49 use black delta wings or sum idk
+help 2023-06-02 03:38:12 if you really are don’t want to redo it
+help 2023-06-02 05:42:59 piston lock
+help 2023-06-18 09:34:26 try offset locking
+creations-chat 2023-06-20 01:26:41 damn
+help 2023-07-03 17:38:36 hover engine glitches
+help 2023-07-08 23:59:50 you are locking the seat down so when it goes down so does the cameras

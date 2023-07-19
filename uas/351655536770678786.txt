@@ -1,0 +1,5 @@
+The Tale of noam01 (351655536770678786)
+bot-central 2021-09-02 15:46:12 -cmds
+bot-central 2021-09-02 15:46:14 -help
+bot-central 2021-09-02 15:46:23 -say e
+bot-central 2021-09-02 15:47:30 ?rhelp

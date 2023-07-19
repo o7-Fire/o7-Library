@@ -1,0 +1,199 @@
+The Tale of rowansucks (454326458882588685)
+bot-central 2021-06-20 18:55:25 !rank
+help 2021-06-23 06:05:32 here
+help 2021-06-23 06:05:55 <@456226577798135808>
+help 2021-06-23 06:06:40 k
+help 2021-06-23 06:07:38 ight
+help 2021-06-23 06:07:47 just did it lemme test
+help 2021-06-23 06:07:54 idk how i can get the stern down tho
+help 2021-06-23 06:09:33 alright <@456226577798135808>  it worked
+help 2021-06-23 06:09:37 stern still is stuck tho
+help 2021-06-23 06:10:03 it capsizes because of the stern
+help 2021-06-23 06:10:05 i think
+help 2021-06-23 06:10:40 <@456226577798135808>  you there?
+help 2021-06-23 06:11:12 upside down
+help 2021-06-23 06:11:18 
+help 2021-06-23 06:11:19 see
+help 2021-06-23 06:11:34 not enough room in my plot for all 4 sections so i folded it upside down
+help 2021-06-23 06:12:48 k
+help 2021-06-23 06:13:06 
+help 2021-06-23 06:13:44 is torque an issue?
+help 2021-06-23 06:14:07 k
+help 2021-06-23 06:14:17 testing rn
+help 2021-06-23 06:14:52 uh
+help 2021-06-23 06:14:59 i had it at 393
+help 2021-06-23 06:15:03 and instead of the stern moving
+help 2021-06-23 06:15:08 the entire ship moved instead
+help 2021-06-23 06:15:50 i set it lower and its still taking the whole ship
+help 2021-06-23 06:16:21 k
+help 2021-06-23 06:18:29 ight
+help 2021-06-23 06:21:18 oh yea my boat is a accidental lag machine
+help 2021-06-23 06:27:01 alright i fixed the stern issue
+help 2021-06-23 06:27:05 now lets see how she floats
+help 2021-06-23 06:27:37 
+help 2021-06-23 06:27:47 <@456226577798135808>
+help 2021-06-23 06:27:50 it slowly capsized
+help 2021-06-23 06:28:01 
+help 2021-06-23 06:28:03 nvm it stopped itself here
+help 2021-06-23 06:28:49 i think the cameras i use for folding might make it heavy
+help 2021-06-23 06:29:54 i tried that before
+help 2021-06-23 06:29:58 didnt really work out
+help 2021-06-23 06:30:08 is there specific places i can put them?
+help 2021-06-23 06:30:20 wdym by top
+help 2021-06-23 06:30:32 oh ok
+help 2021-06-23 06:30:39 4 in each funnel should be fine right
+help 2021-06-23 06:31:22 the middle of each section or only the middle section?
+help 2021-06-23 06:35:58 bridge
+help 2021-06-23 06:40:38 still listing to port
+help 2021-06-23 06:40:47 its symetrical so idk its listing to port
+help 2021-06-23 06:41:36 its supposed to be 2-3 blocks
+help 2021-06-23 06:41:46 mk
+help 2021-06-23 06:41:57 so how many blocks should the deep part be
+help 2021-06-23 06:42:07 k
+help 2021-06-23 06:42:19 wait
+help 2021-06-23 06:42:20 i cant
+help 2021-06-23 06:42:24 im at height limit
+help 2021-06-23 06:42:30 because of the stern
+help 2021-06-23 06:42:34 alright but
+help 2021-06-23 06:42:40 can you help me with the layout
+help 2021-06-23 06:42:46 like ill screen share or something
+help 2021-06-23 06:43:00 k
+help 2021-06-23 06:43:06 ill screenshot the sections
+help 2021-06-23 06:44:01 
+help 2021-06-23 06:44:05 
+help 2021-06-23 06:44:11 
+help 2021-06-23 06:44:16 
+help 2021-06-23 06:44:57 theres 4 image
+help 2021-06-23 06:45:00 4 images**
+help 2021-06-23 06:45:14 which section..
+help 2021-06-23 06:45:16 there's 4.
+help 2021-06-23 06:45:26 1st one is the stern
+help 2021-06-23 06:45:30 last one is the bow
+help 2021-06-23 06:45:54 my issue rn is that its already underwater
+help 2021-06-23 06:46:22 
+help 2021-06-23 06:47:09 wdym
+help 2021-06-23 06:47:53 cant
+help 2021-06-23 06:47:53 height limit
+help 2021-06-23 06:48:02 no where to fit it either
+help 2021-06-23 06:48:45 on all sections?
+help 2021-06-23 06:48:53 ight
+help 2021-06-23 06:48:58 any specific type of pontoon?
+help 2021-06-23 06:49:06 k
+help 2021-06-23 06:49:21 uh they're huge
+help 2021-06-23 06:49:27 so just put them on the sides inside?
+help 2021-06-23 06:49:34 kk
+help 2021-06-23 06:49:55 like this?
+help 2021-06-23 06:50:18 1 sec
+help 2021-06-23 06:50:21 gotta do all sections
+help 2021-06-23 06:52:23 ight testing it rn
+help 2021-06-23 06:53:48 
+help 2021-06-23 06:53:50 i mean
+help 2021-06-23 06:53:54 we fixed the port list
+help 2021-06-23 06:53:59 and then made a starboard list
+help 2021-06-23 06:54:21 stern?
+help 2021-06-23 06:54:33 yes
+help 2021-06-23 06:54:35 both sides
+help 2021-06-23 06:54:37 every section
+help 2021-06-23 06:54:43 ill send pics
+help 2021-06-23 06:55:35 here
+help 2021-06-23 06:55:40 here
+help 2021-06-23 06:55:42 here
+help 2021-06-23 06:55:50 
+help 2021-06-23 06:56:19 pretty sure
+help 2021-06-23 06:56:35 even if it was off by a tiny bit it shouldnt cause a huge list like that
+help 2021-06-23 07:00:06 
+help 2021-06-23 07:00:09 went back and fixed them all
+help 2021-06-23 07:00:12 still capsized
+help 2021-06-23 07:00:46 <@!707953054489509978>
+help 2021-06-23 07:00:50 ight im going to bed
+help 2021-06-23 07:00:55 ill do more on it tmr
+help 2021-06-23 07:00:58 gn
+creations-chat 2021-06-23 19:52:59 it already doesnt float
+creations-chat 2021-06-23 19:55:14 ...
+creations-chat 2021-06-23 19:57:20 cant make the smokestacks taller
+creations-chat 2021-06-23 20:01:05 if the smokestacks are too bright what color should they be
+creations-chat 2021-06-23 20:10:51 how's this?
+creations-chat 2021-06-23 20:13:56 i wanna figure out how to make the back pole on the stern but it's so close to the other part
+creations-chat 2021-06-23 21:43:16 potato salad and nutella spread
+creations-chat 2021-06-23 21:45:39 i want to make a kidnap van
+creations-chat 2021-06-23 21:47:47 i dont like tutorials, they make me feel lazy. also can you guys stop arguing and appreciate that this picture exists?
+creations-chat 2021-06-23 21:50:02 if you guys stop fighting this duck will appear in your room and become your pet
+creations-chat 2021-06-23 21:52:41 statistically someone has made a duck with nutella in plane crazy, so im giving feedback even tho they didnt post it here
+creations-chat 2021-06-23 21:55:03 did he just say that-
+creations-chat 2021-06-23 21:57:25 thank you <@!791976765123592233> and <@!711009848438947850> for saving my pfp is nice. although this message no longer makes sense
+creations-chat 2021-06-23 22:01:00 technically you just continued it <@!750421815641505853>
+creations-chat 2021-06-23 22:03:29 do NOT google duke o death plane crazy roblox... i was looking for the armored car in gta and well uh, don't google it
+creations-chat 2021-06-23 22:13:54 hi
+help 2021-06-25 16:52:45 Can someone help me make my ship not capsize? I used ballast blocks and helium and stuff like that, and then did a test. I placed 2 ballast blocks on the opposite side of the capsize, and it capsized the other way. So I deleted one and it capsized the first way it did.
+help 2021-06-25 16:52:46 Please help
+help 2021-06-25 16:52:57 I've tried cameras, normal blocks, ballast blocks, etc
+creations-chat 2021-06-25 17:01:41 yo dont disrespect the kidnap van
+creations-chat 2021-06-25 17:04:24 it also has music and can drop actual ice cream. The popsicle and speaker on top spin and with disconnectors it drops icecream
+creations-chat 2021-06-25 17:06:28 it has more uses than just a kidnap van. if someone pisses me off they go off the edge
+creations-chat 2021-06-25 17:08:43 happy customer 👍
+creations-chat 2021-06-25 17:11:39 I only use it on people who deserve it. The dude who I kidnapped today was being homophobic and part blocking other people's builds so I grabbed him and yoinked him off the map
+creations-chat 2021-06-25 17:14:47 I'd understand for normal people, and if I did it to them I'd feel bad. But I have no sympathy for homophobes who use big creations to block off other's builds
+creations-chat 2021-06-25 17:19:09 whatever, but can someone help me make my big ship build not capsize? There's no in between for some reason. If I place 2 parts, it switches the way it capsizes, but if I break 1 of them, it goes the other way
+creations-chat 2021-06-25 17:22:03 Ik why it's capsizing, I just can't find a working solution
+creations-chat 2021-06-25 17:24:06 Fun fact, if you looked, you'd see I tried that half an hour ago.
+creations-chat 2021-06-25 17:26:55 if i can ever get my ship floating I promise you I'll make it
+creations-chat 2021-06-25 17:29:32 I know. I have used all of those it still doesnt stay centered
+creations-chat 2021-06-25 17:31:45 <a:no:808369109154267189> i am going to be sinking this model. the olympic never sank
+creations-chat 2021-06-25 17:35:44 just got the list switched from starboard to port, im close
+creations-chat 2021-06-25 17:39:08 scallywag
+creations-chat 2021-06-25 17:42:00 Did you know that a group of engineers opened up all the watertight doors and closed them behind them to bring hoses to flooded areas to try and pump water out? (also there's no way to verify that you know this since you can just say yes <a:no:808369109154267189> )
+creations-chat 2021-06-25 17:44:06 Sledgefire, there were somewhere around 12 dogs and only 3 lived... (you made it seem like there were ONLY 3 dogs onboard and they all lived)
+creations-chat 2021-06-25 17:46:41 my dog is a ford model t
+the-dump 2021-07-19 02:19:05 can you dont
+the-dump 2021-07-19 02:19:33 it was an emoji O_O
+the-dump 2021-07-19 02:19:39 <:ye:861800349324935188>
+the-dump 2021-07-19 02:19:47 <:islamborghini:861799943239761940>
+creations-chat 2021-07-24 19:27:04 anyone got an idea on what ship i should build
+creations-chat 2021-07-24 19:34:20 should I build the MTS Oceanos?
+creations-chat 2021-07-25 20:56:32 damn bro do all creations get like 80 ratings
+creations-chat 2021-07-26 02:33:03 yo guys im working on a new titanic
+creations-chat 2021-07-26 02:36:51 they're just jealous because they cant do better, and no i cant either 😉
+creations-chat 2021-07-26 02:39:44 ._.
+creations-chat 2021-07-26 02:44:22 man i was just tryna give some good energy because they were down about downvotes it isnt that deep
+creations-chat 2021-07-26 02:48:03 whatevs
+creations-chat 2021-07-26 03:31:58 maybe but im nearly done. i may remaster it in a few days
+creations-chat 2021-07-26 03:47:14 how do you upload multiple images into one message without editing
+creations-chat 2021-07-26 03:52:07 k
+creations-chat 2021-07-26 03:54:49 I just tried that and it said image only
+creations-chat 2021-07-26 03:58:23 done <@!587047177558163466>
+creations-chat 2021-07-26 04:04:24 First of all, it's anchored in the air so it doesnt move around or get hit by some 9 year old with a tutorial fighter yet. second of all, this took me one google search to find. The yellow line is also a distinct way to tell the olympic and titanic apart. Also, even James Cameron's model that was used in the movie had a yellow line.
+help 2021-07-26 17:31:06 can some help me float my titanic?
+help 2021-07-26 17:31:26 technically it floats but it capsizes
+help 2021-07-26 17:31:35 and id like help placing ballast blocks and helium
+creations-chat 2021-07-26 17:33:36 can someone help me make my ship not capsize?
+creations-chat 2021-07-26 17:35:42 where exactly? it's split into 3 parts
+help 2021-07-26 17:36:07 
+help 2021-07-26 17:36:15 <@!466673912760107009>
+help 2021-07-26 17:37:33 so a 1x1?
+help 2021-07-26 17:37:47 tank?
+help 2021-07-26 17:37:52 k
+help 2021-07-26 17:37:57 on all 3 parts?
+help 2021-07-26 17:38:04 k
+help 2021-07-26 17:38:46 testing rn
+help 2021-07-26 17:39:32 still tips over
+help 2021-07-26 17:41:33 1 sec
+help 2021-07-26 17:41:36 im trying pontoons
+help 2021-07-26 17:42:57 k recording rn
+help 2021-07-26 17:44:50 here
+help 2021-07-26 17:44:51 https://streamable.com/evlwyy
+help 2021-07-26 17:44:59 <@!466673912760107009>
+help 2021-07-26 17:46:05 no??
+help 2021-07-26 17:46:41 why would i sink the tank
+help 2021-07-26 17:48:42 nope still capsizes
+help 2021-07-26 17:48:46 even when filled with water
+help 2021-07-26 17:50:15 oh damn
+help 2021-07-26 17:50:18 it stabilized
+help 2021-07-26 19:01:02 balls
+help 2021-07-26 19:09:22 ty 😄
+help 2021-07-28 17:55:49 can someone vc with me and help me float my big ship
+creations-chat 2021-08-05 00:18:15 for my mini titanic build i just posted i used white star buff which was the actual color of the funnels, supposedly very hard to recreate in plane crazy
+creations-chat 2021-08-05 00:22:38 sorry for the bad build, just deleted it. i thought the sinking was cool but none the less still a bad build, ill refrain from posting. cya
+creations-chat 2021-09-22 00:51:48 The file is too big to post in the creations tab so I'll put it here. I made the spinning hallway from the movie Inception https://www.youtube.com/watch?v=7fiHqW_lUHY
+creations-chat 2021-09-22 01:01:21 i cant use the yt link in creations and the mp4 is too big so i linked the yt here
+creations-chat 2021-09-22 01:14:42 here is some footage of me walking in it
+creations-chat 2021-09-22 01:29:22 make it less chunky ig

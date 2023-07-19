@@ -1,0 +1,3 @@
+The Tale of knedrick.cpp (679099819469307905)
+help 2022-06-21 17:09:40 I'm trying to think of ideas to make this rotate left, right, forward, and backward but none of them are working so far because the motors are constantly obstructing each other, do any of you guys have an idea of what i could do?
+help 2022-06-21 17:23:10 alr thx i'll try it

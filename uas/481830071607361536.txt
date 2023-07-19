@@ -1,0 +1,935 @@
+The Tale of Paulie Pasta (481830071607361536)
+the-dump 2019-01-16 22:56:56 
+the-dump 2019-01-16 22:57:18 
+the-dump 2019-01-16 22:57:34 
+the-dump 2019-01-16 22:57:57 
+the-dump 2019-01-16 22:58:16 
+the-dump 2019-01-16 22:59:40 wanna sprite cranberry
+the-dump 2019-01-16 22:59:44 
+the-dump 2019-01-16 22:59:57 hmm
+the-dump 2019-01-16 23:00:18 
+the-dump 2019-01-16 23:00:45 
+the-dump 2019-01-16 23:00:59 
+the-dump 2019-01-16 23:01:20 wrong one
+the-dump 2019-01-16 23:01:22 
+the-dump 2019-01-18 00:50:17 
+help 2020-05-01 20:48:25 can I get terrain specialist 3? and who do I ping?
+creations-chat 2020-05-01 21:16:34 1351 block M3A3 Bradley Armored Personell Carrier, 3 seats in the turret, rear door access, and full wheel movement and suspension
+creations-chat 2020-05-01 21:16:40 
+creations-chat 2020-05-01 21:16:53 
+creations-chat 2020-05-01 21:17:01 
+creations-chat 2020-05-01 21:18:26 bruh its not a humvee
+creations-chat 2020-05-01 21:18:56 thanks
+creations-chat 2020-05-01 21:19:42 oh this thing is actually massive in game
+creations-chat 2020-05-01 21:19:50 its almost plot sized
+creations-chat 2020-05-01 21:20:14 well if your definition of smol is can not fold then it is smol
+creations-chat 2020-05-01 21:20:41 uuh ok
+creations-chat 2020-05-01 21:20:59 its 1351 blocks tho so it not snmol
+creations-chat 2020-05-01 21:21:23 ok ok it look smol
+creations-chat 2020-05-01 21:21:25 i know
+creations-chat 2020-05-01 21:21:36 im just saying even tho it look smol it aint smol
+creations-chat 2020-05-01 21:21:52 lol
+creations-chat 2020-05-01 21:36:19 ive seen faster
+creations-chat 2020-05-01 22:55:10 I used to have a huge one
+creations-chat 2020-05-01 22:55:15 but it was a lag bomb
+creations-chat 2020-05-01 22:55:21 basically
+help 2020-05-02 00:00:44 wait how many upvotes do you need for a rank?
+help 2020-05-02 00:01:05 also my general and the dump chats are not appearing
+creations-chat 2020-05-02 12:46:58 I have never seen a better choice of words from anyone in any server. "Drone - does drone things"
+creations-chat 2020-05-02 12:47:29 actually
+creations-chat 2020-05-02 12:47:31 maybe
+creations-chat 2020-05-02 12:49:48 eh that sounds too into it. "Does drone things" or "secretly watches your neighbors at all hours of the night reporting back to chicom spies things that should not be allowed to be seen" I think works better
+creations-chat 2020-05-02 12:53:51 I have a BAE systems amphibious combat vehicle if you want to get more people involved
+creations-chat 2020-05-02 12:54:16 nani???
+help 2020-05-24 23:39:11 anyone know how to build a working one bladed heli?
+help 2020-05-24 23:39:37 like it doesnt have two big ones
+help 2020-05-24 23:39:41 /just one
+help 2020-05-24 23:39:49 of course it has the one in the back
+help 2020-05-24 23:40:02 but it doesnt have the two in opposite directions
+help 2020-05-24 23:40:12 idk im not much of a heli expert
+help 2020-05-24 23:40:19 ill send a pic
+help 2020-05-24 23:40:42 im trying to make a huey
+help 2020-05-24 23:40:54 but the problem is that it always flips over
+help 2020-05-24 23:41:09 cause the torque from the big blade
+help 2020-05-24 23:41:22 wdym
+help 2020-05-24 23:42:03 no like the momentum or something of the blade spinning flips it over
+help 2020-05-24 23:42:30 pic is above
+help 2020-05-24 23:43:12 ok just a sec
+help 2020-05-24 23:43:22 
+help 2020-05-24 23:43:33 also i gtg afk for a sec
+help 2020-05-24 23:43:41 gotta ***eat dinner***
+help 2020-05-24 23:43:48 oh boy
+help 2020-05-25 00:16:48 <@!609198621526589450> k im back
+help 2020-05-25 00:17:46 i still am not sure wat to do with this huey
+help 2020-05-25 00:18:39 can anyone help
+help 2020-05-25 00:36:43 i have been doing that for the past 3 hours
+help 2020-05-25 00:36:52 and nothing seems to be working
+help 2020-05-25 00:37:28 no matter what direction the blades are going, the heli will always find a way to lean and flip sideways
+help 2020-05-25 00:37:43 how come
+help 2020-05-25 00:38:02 center of mass
+help 2020-05-25 00:38:05 ??
+help 2020-05-25 00:39:18 well its not like it leans in the same direction every time, if you change the blade rotation direction, it tips over the other way
+help 2020-05-25 00:39:43 so do i just reduce the torque or something?
+help 2020-05-25 00:41:16 shoot that might interfere with the authenticity of the look
+help 2020-05-25 00:41:35 ok
+help 2020-05-25 00:41:43 ill try
+help 2020-05-25 00:42:35 shoot they really need to make CoM correspond to ballast block values as well
+help 2020-05-25 00:43:35 k what do you suggest i do?
+help 2020-05-25 00:43:43 this is a problem
+help 2020-05-25 00:46:08 
+help 2020-05-25 00:46:20 see how it endlessly tips sideways?
+help 2020-05-25 00:49:21 <@!299289130964090881>
+help 2020-05-25 00:51:28 its almost like the counter rotor is causing it tho
+help 2020-05-25 00:51:34 its really weird
+help 2020-05-25 00:52:51 I know thats how it works but
+help 2020-05-25 00:53:01 The problem is if i use the back rotor to try and counter the rotation of the big blade
+help 2020-05-25 00:53:11 then it tips over
+help 2020-05-25 00:53:44 you are right, its not centered, but idk how to change that
+help 2020-05-25 00:54:01 
+help 2020-05-25 00:54:22 but the CoM unfortunately doenst match up to placed ballasts
+help 2020-05-25 00:55:14 wdym its too close to the main body
+help 2020-05-25 00:55:53 no, cause you got the rotor
+help 2020-05-25 00:56:16 bruh idk what to do
+help 2020-05-25 00:56:31 uhh wdym
+help 2020-05-25 00:56:45 nani
+help 2020-05-25 00:57:04 ok
+help 2020-05-25 00:58:31 how do i know if its enough, cause the CoM marker doesnt correspond to ballasts
+help 2020-05-25 01:01:32 yeah i tried putting ballasts in the front to see if it would stop tipping, it justs weighs down the front, and keeps tipping, just in a nose dive position
+help 2020-05-25 01:02:24 
+help 2020-05-25 01:03:37 and as always, switching blade direction just makes it tilt in the other direction
+help 2020-05-25 01:04:31 reeeeeeeeeeeeee
+help 2020-05-25 01:12:52 now i have my doubts that its a problem with my CoM, cause i did this to line it up with my rotor, and it still works just as horribly
+help 2020-05-25 01:13:19 also just so you know, thats how many blocks i would need in order to line up my CoM
+help 2020-05-25 01:13:28 and i dont have that kind of space
+help 2020-05-25 01:14:32 
+help 2020-05-25 01:16:22 <@!299289130964090881> im sorry but i think this might just be a lost cause
+help 2020-05-25 01:21:06 in the meantime, its alabama choo choo time
+help 2020-05-25 01:59:30 yeah ik
+help 2020-05-25 02:00:44 its green to give that hillbilly feel
+help 2020-05-25 02:01:10 ya know, random parts tacked onto things in lack of better materials and professionalism
+help 2020-05-25 13:44:46 i think i found my problem to my huey
+help 2020-05-25 13:47:49 but that is pretty hard to solve without a swash plate
+help 2020-05-25 13:47:57 so im gonna pull an amature move
+help 2020-05-25 13:48:21 and make the whole rotor assembly move in all directions
+help 2020-05-25 14:12:53 yep i really cant fix it
+help 2020-05-25 14:13:11 i need some serious help from the higher beings
+help 2020-05-25 14:14:12 is there a video for "sakura's swashplate"?
+help 2020-05-25 14:15:17 sure
+help 2020-05-25 14:15:45 off
+help 2020-05-25 14:15:48 oof*
+help 2020-05-25 14:16:45 im just gonna attempt to make my own, and see how it goes
+help 2020-05-25 14:16:49 likely horribly
+help 2020-05-25 14:16:53 but oh well
+help 2020-05-25 14:39:40 ok nevermind my heli is too compact for a swashplate
+help 2020-05-25 14:39:57 oh dear rickje please make a swashplate
+help 2020-05-25 15:55:03 im not much of a ship guy but id say make your own scale
+help 2020-05-25 16:01:46 idk thats what im trying to make
+help 2020-05-25 16:01:51 and figure out
+help 2020-05-25 17:21:40 yes but i deleted it
+help 2020-05-25 20:57:13 anyone know how to stabilize a coaxial helicopter?
+help 2020-05-25 20:57:24 cause mine uncontrollably wobbles
+help 2020-05-25 20:58:28 yes
+help 2020-05-25 20:59:12 nope
+help 2020-05-25 20:59:14 wings
+help 2020-05-25 20:59:58 as in the motors that control lift?
+help 2020-05-25 21:00:04 or the rotoation motors
+help 2020-05-25 21:00:37 which motors
+help 2020-05-25 21:00:46 the motors that tilt the blades?
+help 2020-05-25 21:01:49 in that case, doesnt that mean that one of theset of blades is producing lift, and the other is making drag?
+help 2020-05-25 21:02:09 prop blades are no different really
+help 2020-05-25 21:02:17 they are just tilted
+help 2020-05-25 21:03:03 i know cause the motors go in two different directions, you have to have the props turned opposite to both create lift
+help 2020-05-25 21:04:35 is this what you want me to do
+help 2020-05-25 21:06:50 for some reason though my helicopter uncontrollable creates a ton of roll and yaw back and forth
+help 2020-05-25 21:06:59 its like its swining
+help 2020-05-25 21:07:02 swinging*
+help 2020-05-25 21:07:09 and not flying straight
+help 2020-05-25 21:09:34 also is there a way to convert block weight to ballast weight?
+help 2020-05-25 21:10:08 is there a formula
+creations-chat 2020-05-25 21:10:53 is there a way to convert block weight to ballast weight?
+creations-chat 2020-05-25 21:16:47 oki doki
+creations-chat 2020-05-25 21:17:12 and a 7x1 beam is equal to the weight of 7 bloxks correct?
+creations-chat 2020-05-25 21:17:19 blocks*
+help 2020-05-25 21:51:23 ok
+help 2020-05-25 21:51:35 is the problem the spinning or the wings themselves?
+help 2020-05-25 21:52:54 side props as in rear rotors?
+help 2020-05-25 22:00:00 yeah i tried that and it still endlessly swings
+help 2020-05-25 22:00:41 oh no
+help 2020-05-25 22:00:55 i was working on one for hours this morning
+help 2020-05-25 22:01:00 and nothing ever worked
+help 2020-05-25 22:02:30 shoot now i got another problem
+help 2020-05-25 22:02:47 my heli keeps turning in one direction
+help 2020-05-25 22:02:58 and tilting in that way
+help 2020-05-25 22:03:05 my CoM isnt off
+help 2020-05-25 22:03:11 and my props are coaxial
+help 2020-05-25 22:03:16 so idk whats happening
+help 2020-05-25 22:03:45 bruh this always  what happens when i try to build a heli. no matter what people say, nothing ever works
+help 2020-05-25 22:05:22 this is what it does in free fall
+help 2020-05-25 22:05:29 endless sideways circles
+the-dump 2020-06-02 01:53:39 wrong copy and waste
+the-dump 2020-06-02 01:53:42 shoot
+the-dump 2020-06-02 01:53:53 there we go
+the-dump 2020-06-02 01:54:25 
+the-dump 2020-06-02 01:55:11 yep
+the-dump 2020-06-02 01:55:46 Bruh wait till these bois get lit up with pepper balls
+the-dump 2020-06-02 01:56:08 lol
+the-dump 2020-06-02 01:56:27 i hear that they are thinking of heading to the suburbs
+the-dump 2020-06-02 01:56:34 so i am now ready
+the-dump 2020-06-02 01:57:19 I have my full auto airsoft 340fps hk416 so if they come to my neighborhood, they arent leaving with their eyes intact
+the-dump 2020-06-02 01:58:55 or their kneecaps
+the-dump 2020-06-02 01:59:03 wheres that
+the-dump 2020-06-02 01:59:10 can you send an article?
+the-dump 2020-06-02 01:59:13 or something
+the-dump 2020-06-02 01:59:21 oof
+the-dump 2020-06-02 01:59:29 they are trying to cover it up
+the-dump 2020-06-02 02:00:07 yes
+the-dump 2020-06-02 02:00:15 good ol national guard
+the-dump 2020-06-02 02:00:54 we can count on them to serve justice to domestic terrorists and make the butthurt rioters cry
+the-dump 2020-06-02 02:01:18 They want free stuff
+the-dump 2020-06-02 02:01:44 they all need a snickers
+the-dump 2020-06-02 02:03:15 We definately need more rooftop koreans from the LA riots in the 90s
+the-dump 2020-06-02 02:03:24 
+the-dump 2020-06-02 02:03:49 yeah
+the-dump 2020-06-02 02:03:54 they are all hypocrites
+the-dump 2020-06-02 02:04:24 maybe all this is just for the last pack
+the-dump 2020-06-02 02:04:39 
+the-dump 2020-06-02 02:04:51 
+the-dump 2020-06-02 02:05:13 time to rick roll some domestic terrorists
+the-dump 2020-06-02 02:05:25 By the dawns early light
+the-dump 2020-06-02 02:05:33 Which so proudly we hail
+the-dump 2020-06-02 02:06:25 everybody gangsta till the roof start speakin korean
+the-dump 2020-06-02 02:07:33 
+the-dump 2020-06-02 02:08:28 
+the-dump 2020-06-02 02:11:50 when the NG pulls an omaha beach on the rioters but with rubber bullets
+the-dump 2020-06-02 02:24:50 that horse be doing green lines
+the-dump 2020-06-02 02:25:03 little bits of crushed turtle
+the-dump 2020-06-02 02:30:05 tortles
+the-dump 2020-06-02 02:39:38 ***s  n  i  f  f***
+the-dump 2020-06-02 02:40:31 those moments when you fight off the riots with some Sodium hypochlorite and a super soaker
+the-dump 2020-06-02 02:49:52 who tf uses bows and arrows other than weird cosplayers that dont know anything bout combat
+the-dump 2020-06-02 02:50:12 what
+the-dump 2020-06-02 02:50:19 a bot pung you
+the-dump 2020-06-02 02:50:22 nani
+the-dump 2020-06-02 02:51:30 thanks for the heads up
+the-dump 2020-06-02 14:08:37 a
+the-dump 2020-06-02 18:02:05 https://cdn.discordapp.com/attachments/476453616899719180/717435892876443754/video0_1.mp4
+the-dump 2020-06-02 18:07:15 siren head new battlepass
+the-dump 2020-06-02 20:20:13 
+the-dump 2020-06-02 23:42:55 https://cdn.discordapp.com/attachments/476453616899719180/717435892876443754/video0_1.mp4
+the-dump 2020-06-02 23:43:02 this video is very scary
+the-dump 2020-06-02 23:43:06 watch at your own risk
+the-dump 2020-06-08 15:58:16 ngl this sign is pretty racist
+the-dump 2020-06-08 16:10:46 tbh, saying all lives dont matter until black lives matter, is either saying that all lives dont include black lives, or that black lives are more special, so they come first, there fore you have the different treatment of blacks than everyone else, which by definition, is racist
+the-dump 2020-06-08 16:14:32 https://cdn.discordapp.com/attachments/554792761304285194/719582961422565476/video0.mp4
+the-dump 2020-06-08 16:16:51 https://cdn.discordapp.com/attachments/701934087023099924/702163799322394734/car_exploding.mp4
+the-dump 2020-06-08 16:18:00 indeed
+the-dump 2020-06-08 16:18:21 do you expect me to be the creator of the memes i post?
+the-dump 2020-06-08 16:18:33 do you expect me to be immortal?
+the-dump 2020-06-08 16:18:50 memes are a free for all
+the-dump 2020-06-08 16:19:14 what if it was reposted so many times, the creator is long gone?
+the-dump 2020-06-08 16:43:47 the coca cola seems to have been removed
+the-dump 2020-06-08 17:21:46 
+the-dump 2020-06-09 01:27:19 
+the-dump 2020-06-09 03:19:52 https://cdn.discordapp.com/attachments/572107768526274562/719735723871436892/image0.gif
+the-dump 2020-06-09 03:20:48 
+the-dump 2020-06-09 03:22:42 more like national ***gay*** day
+the-dump 2020-06-10 17:36:37 
+the-dump 2020-06-12 13:40:14 those moments when people occupy 6 city blocks in seattle and delcare themselves their own independent flippin nation
+the-dump 2020-06-12 13:40:22 
+the-dump 2020-06-12 13:42:58 its funny they set up armed guards yet I have a feeling all of the 20 year old white antifa members that lived in their parents basement have never touched a gun in their lives and are using it for more photo ops than actually being armed guards. they are probably too scared to even shoot the thing
+the-dump 2020-06-12 13:43:28 but they do know a good hell of a lot about throwing bricks
+the-dump 2020-06-12 13:44:56 
+the-dump 2020-06-12 14:04:05 I am going to poopoo on you
+the-dump 2020-06-12 14:04:32 there, thats better than me using the word murder
+the-dump 2020-06-12 14:04:44 duct tape
+the-dump 2020-06-12 14:04:55 hmmm
+the-dump 2020-06-12 14:04:58 interesting
+the-dump 2020-06-12 14:07:07 exactly
+the-dump 2020-06-12 14:07:19 still kinda funny tho
+the-dump 2020-06-12 14:07:25 just be driving by
+the-dump 2020-06-12 14:07:44 be like and theres a child taped to a yield sign
+the-dump 2020-06-12 14:07:47 and theres a-
+the-dump 2020-06-12 14:07:49 WAIT
+the-dump 2020-06-12 14:11:56 I just realized that antifa posting that pic is fake news
+the-dump 2020-06-12 14:11:58 https://www.youtube.com/watch?v=BLsA4ufh0FU
+the-dump 2020-06-12 14:12:01 he lost a bet
+the-dump 2020-06-12 14:12:16 and likely wasnt even an antifa member
+the-dump 2020-06-12 14:13:01 he even recorded a video of him getting taped
+the-dump 2020-06-12 14:24:00 yes
+the-dump 2020-06-12 14:29:24 george has 47 apples, he buys 20 gerbils, what color is x?
+the-dump 2020-06-12 14:40:14 
+the-dump 2020-06-12 17:34:17 
+the-dump 2020-06-12 18:41:54 
+the-dump 2020-06-12 18:53:51 
+the-dump 2020-06-18 02:41:01 https://cdn.discordapp.com/attachments/572107768526274562/722270728589672468/SRPSKA.mp4
+the-dump 2020-06-18 16:40:24 
+the-dump 2020-06-18 23:05:20 https://cdn.discordapp.com/attachments/495286269459300364/720298020041654343/gloriousjapan.mov
+the-dump 2020-06-18 23:05:32 Spongebob chooses to commit seppuku rather than surrender to the American soldiers (Iwo Jima, 1945, Colorized)
+the-dump 2020-06-19 15:22:35 
+the-dump 2020-07-12 16:56:00 HES BACK
+the-dump 2020-07-12 16:56:01 https://cdn.discordapp.com/attachments/572107768526274562/731915281923833916/video0_9-5.mp4
+the-dump 2020-07-12 16:56:19 EVERYONE THE ONE AND ONLY IS BACK
+the-dump 2020-07-12 16:56:38 WE MUST CELEBRATE
+the-dump 2020-07-12 17:19:46 why
+the-dump 2020-07-12 17:19:48 just why
+the-dump 2020-07-18 12:55:24 
+the-dump 2020-09-01 22:39:36 yes
+the-dump 2020-11-15 17:38:17 
+the-dump 2020-11-27 00:08:48 ngl I come to this chat to steal the freshest and the ripest of memes on the market
+the-dump 2020-11-27 04:41:46 
+the-dump 2020-11-27 04:43:58 aww I was in the middle of watching that soviet thing but I didnt get to finish cause somone took it down
+the-dump 2020-11-27 04:44:33 box go vroom
+the-dump 2020-11-27 04:44:56 
+the-dump 2020-11-27 04:46:55 yo who posted that soviet video with like techno music in the background I wanna keep watching
+the-dump 2020-11-27 04:50:41 yo I pee 556 rounds
+the-dump 2020-11-27 04:51:09 tho sometimes on a bad day I pee 7.62 nato rounds
+the-dump 2020-11-27 04:51:40 sometimes I shit 40 mike mikes
+the-dump 2020-11-27 04:52:47 sometimes I think about all the beautiful places id like to see someday and then I think about how fucking haunted they are and im like "nevermind"
+the-dump 2020-11-27 04:54:21 boys bad news for my friend, its been more than three seconds
+the-dump 2020-11-27 04:55:50 ***oh no***
+the-dump 2020-11-27 04:56:09 huh
+the-dump 2020-11-27 04:59:47 bruh
+the-dump 2020-11-27 05:00:27 
+the-dump 2020-11-27 05:01:03 fuck is there a rule against posting memes against mods?
+the-dump 2020-11-27 05:01:52 is there a rule against making fun of mods via memes?
+the-dump 2020-11-27 05:02:03 in that case
+the-dump 2020-11-27 05:02:28 
+the-dump 2020-11-27 05:03:32 uh
+the-dump 2020-11-27 05:03:51 lets say people who have done no no things will get it
+the-dump 2020-11-27 05:04:24 more discord mod memes
+the-dump 2020-11-27 05:04:26 
+the-dump 2020-11-27 05:05:15 
+the-dump 2020-11-27 05:05:50 licc
+the-dump 2020-11-27 05:06:17 
+the-dump 2020-11-27 05:06:49 oh no
+the-dump 2020-11-27 05:06:51 OH NO
+the-dump 2020-11-27 05:08:01 do you ever just shoot your 340lb atlas stone with 5 50 caliber SLAP rounds?
+the-dump 2020-11-27 05:08:37 
+the-dump 2020-11-27 05:08:44 I love youtube recommended
+the-dump 2020-11-30 16:30:32 FINALLY BIGGER WEDGES
+the-dump 2020-11-30 16:31:24 im running out of fresh memes, can someone go on a shitposting spree?
+the-dump 2020-11-30 16:32:21 I love it
+the-dump 2020-11-30 16:37:47 that video sent me on a hormonal emotional rollercoaster
+the-dump 2020-11-30 22:55:47 
+the-dump 2020-11-30 22:55:50 AMERICA
+the-dump 2020-12-01 15:51:18 can someone please post some more cursed memes so I can steal them and shitpost them in another server?
+the-dump 2020-12-01 15:51:51 more cursed than that
+the-dump 2020-12-01 15:51:57 preferably cursed videos
+the-dump 2020-12-01 15:52:06 ok thats kinda cursed
+the-dump 2020-12-19 19:18:55 I added a robotic arm on my kidnapper van that picks people up in a chair and pulls them in the van and then closes the door
+the-dump 2020-12-29 03:18:42 I made a beautiful template so that all may turn their standard 16 oz water bottles into obama water
+the-dump 2020-12-29 03:18:47 enjoy
+the-dump 2020-12-29 03:22:24 obamium when
+the-dump 2020-12-29 03:23:00 death when
+the-dump 2020-12-29 03:23:19 reuniting of the soviet union when
+the-dump 2020-12-29 03:23:29 heres why
+the-dump 2020-12-29 03:24:18 useful wedge lengths when
+the-dump 2020-12-29 03:24:35 thank you
+the-dump 2020-12-29 03:25:03 holy shit I need it
+the-dump 2020-12-29 03:25:41 but motor locks are for smart people who know what they are doing
+the-dump 2020-12-29 03:25:50 clearly something I am not
+the-dump 2020-12-29 03:26:01 yes
+the-dump 2020-12-29 03:27:09 uncustom big cylinders when
+the-dump 2020-12-29 03:27:24 working train tracks when
+the-dump 2020-12-29 03:27:37 better looking guns when
+the-dump 2020-12-29 03:28:31 ngl the guns would look like a thousand times better if they were a skinny cylinder that spanned the length of a block instead of a floating cube
+the-dump 2020-12-29 03:51:32 triangle wedge 2 or more x4 when
+the-dump 2020-12-29 03:51:59 fuck shit
+the-dump 2020-12-29 03:52:23 I mean
+the-dump 2020-12-29 03:52:27 big poopy
+the-dump 2020-12-29 03:53:08 where the fuck did she come from
+the-dump 2020-12-29 03:53:29 she literally appears out of thin air
+the-dump 2020-12-29 03:53:51 shes not there in one frame and there in the next
+the-dump 2021-01-14 14:17:42 I made a wonderful drawing in paint 3d
+the-dump 2021-01-14 14:17:56 wondering what yall thought of my beautiful drawing
+the-dump 2021-01-14 14:17:58 
+the-dump 2021-02-03 04:46:26 can someone send me memes of people getting seriously injured? asking for a friend
+the-dump 2021-02-03 04:56:33 fuck no
+the-dump 2021-03-07 22:58:25 sorry to interrupt but I just wanted to remind all of you that your chances of getting brutally murdered by Vsauce are low, but never zero
+the-dump 2021-03-07 22:58:45 NO
+the-dump 2021-03-08 04:28:41 https://cdn.discordapp.com/attachments/745509592313626676/818121747504693278/Superspotlessmongoose_2245ab_8298845.mp4
+the-dump 2021-04-15 22:07:12 welp boys I started elevating so fast with helium, my vehicle started breaking apart on its own
+the-dump 2021-04-15 22:07:28 its not
+the-dump 2021-04-15 22:07:31 try it yourself
+the-dump 2021-04-15 22:07:58 just get a chair and a platform with a ton of helium and eventually you will pick up enough speed and it does that shit
+the-dump 2021-04-15 22:08:50 and then when you jump off, your polygons go bonkers
+the-dump 2021-07-20 17:15:28 alright boys we are moving to the great state of Texas
+the-dump 2021-07-20 17:15:56 wait wtf
+the-dump 2021-07-20 17:16:07 how the fuck
+the-dump 2021-07-20 17:16:10 you were just
+the-dump 2021-07-20 17:16:12 what
+the-dump 2021-07-20 17:16:46 what the fuck
+the-dump 2021-07-20 17:16:58 how are you in all three
+the-dump 2021-07-20 17:17:03 how
+the-dump 2021-08-20 14:22:47 add whitelist
+the-dump 2021-09-06 02:46:05 its legit a banger tho
+the-dump 2021-09-06 02:46:30 fr fr
+creations-chat 2021-09-07 18:22:04 oh sorry didnt know
+creations-chat 2021-09-07 18:24:07 bruh im not gonna read legit every description of every channel I just wanted to show people something I was working on and put it in creations cause logically that sounds like where it should go, but now I know wips go in feedback instead
+creations-chat 2021-09-07 18:55:27 
+creations-chat 2021-09-07 18:58:29 man yall love to get toxic for the most stupid reasons. I know that wips dont go in creations now. yall need to learn to move on its not that big of a deal
+creations-chat 2021-09-07 19:00:36 bruh I joined like half a year ago
+creations-chat 2021-09-07 19:04:01 im rarely active here and the last time I read the rules was when I joined half a year ago. Yall take this shit too seriously and its like yall live and die by the plane crazy discord rules and all those who dont know are idiots and infedels. Yall need to learn to calm down and move on, its not that big of a deal
+creations-chat 2021-09-07 19:40:29 bruh I cant even see what it is its all white, dont tell me mine looks like shit and then send me an unrecognizeable picture
+creations-chat 2021-09-07 19:44:58 well you were telling me mine looks like shit compared to yours, and posted a picture that I cant even make out anything thats in it other than the basic shape so your argument is kinda stupid. also I originally had the pilot wheels proportioned correctly for the train I was going after, but I couldnt get it to function correctly (around turns because the wheels were too far apart and it would get stuck) thus why I moved the rear pilot wheel in front of hte pistons. so its not going to be completely accurate as im still trying to make it functional
+creations-chat 2021-09-07 19:47:59 
+creations-chat 2021-09-07 19:51:00 ok cool? im just saying im not mad cause I got downvotes or something, im saying yall are full of yourselves and need to learn to calm down.
+creations-chat 2021-09-07 19:53:04 because he thought i was mad that I got downvotes or something, im just displaying that I got plenty of upvotes imo and im happy in that regard
+creations-chat 2021-09-07 19:55:07 sure bud
+creations-chat 2021-09-07 19:58:17 LMAOOOOOO you are the one on here flexing your big trains you spent hours on your computer making to get upvotes on a discord server and calling others creations trash and inferior, flexing all your plane crazy skills. My man you need to go outside and i believe if this is what you do with your time you need a life. 
+Im more annoyed that yall are so full of yourselves and drag out the smallest of issues because you are bored and this is how you get your kicks is putting others down because you have nothing better to do with your time
+creations-chat 2021-09-07 20:00:55 yes I am. Good for you, you went to school. And?
+creations-chat 2021-09-07 20:04:00 I was never mad you called my train shitty. Im annoyed that yall love to be so abruptly toxic for no reason. It really seems yall need to go touch some grass. Thanks for reminding me why I'm not active in this server because half the people who are active are unbearable to people who just wanted some constructive criticism
+creations-chat 2021-09-07 20:06:15 ok and
+creations-chat 2021-09-07 20:08:59 bruh lmao you were the one just saying it and now you are posting a gif to mock me saying it yall are beyond sped
+creations-chat 2021-09-07 20:12:23 but can yours actually run on the rails tho
+creations-chat 2021-09-07 20:14:46 except I made my trains actually function on the rails without derailing so cope seethe mald. Your trains may look pretty but they are just weird car things now
+creations-chat 2021-09-07 20:16:58 what If I told you that you are the one coping and seething my coping brother
+creations-chat 2021-09-07 20:19:04 what if I asked you who is joe? <:OmegaTroll:626841385118597152>
+creations-chat 2021-09-07 20:21:27 
+the-dump 2021-09-07 20:23:04 
+the-dump 2021-09-14 19:38:04 E
+the-dump 2021-10-31 17:38:25 agreed
+the-dump 2021-10-31 17:39:07 
+creations-chat 2021-11-07 21:58:33 its on the oklahoma texas border
+creations-chat 2021-11-07 22:09:48 I mean I didnt make this competitively, I was just kinda bored, so go ahead
+the-dump 2021-11-07 22:43:27 four fucking pixels
+creations-chat 2021-11-08 02:08:26 <@!508428804885053440> Bad work citizen... it is forbidden to create, post, and share any content that can be seen to criticize the people's party. Remember, nothing ever happened on june 4th, 1989. Any post that contradicts this information is illegal and false disinformation. -100 social credit points. Your credit score has been lowered to 435 (D - not credit worthy). Glory to the Party!
+https://cdn.discordapp.com/attachments/766831166606147626/854546847376736296/Red_Sun_in_the_Sky.mp4
+creations-chat 2021-11-08 02:12:24 Good work citizen. +30 social credit points. Your credit score has been increased to 1350 (AAA - model of creditworthiness). Glory to the party! 🇨🇳🇨🇳🇨🇳
+creations-chat 2021-11-08 02:47:24 beautiful pixel art im working on. glory to the party! 🇨🇳🇨🇳
+creations-chat 2021-11-08 03:05:38 Bad work citizen! -9000 credit points
+creations-chat 2021-11-08 03:07:46 is my beautiful pro state artwork not approved by the ministry of social credit?
+creations-chat 2021-11-08 03:11:35 for the meme because haha funny idc if they conflict
+creations-chat 2021-11-08 22:24:48 alright boys the mao pixel art is now a tracked vehicle and a plane I hope this is approved by the ministry of state glory to our supreme chairman I love china!!!!🇨🇳🇨🇳🇨🇳
+creations-chat 2021-11-08 22:28:22 
+creations-chat 2021-11-08 22:32:01 : (
+creations-chat 2021-11-08 22:34:36 but I am only trying to promote and glorify our supreme chairman through the powers of chinese technological innovation 🇨🇳🇨🇳🇨🇳
+the-dump 2021-11-09 20:35:36 fuck
+the-dump 2021-11-25 17:15:25 rigby lookin fresh
+the-dump 2021-11-25 19:50:26 why wouldnt it be
+the-dump 2021-11-25 20:01:33 kyle with the drip 🥶🥶💯💯
+the-dump 2021-11-25 21:32:04 He's been taken
+the-dump 2021-11-25 21:32:14 Compromised if you will
+the-dump 2021-11-27 02:35:20 False incorrect heresy bullshit lies
+the-dump 2021-11-27 02:37:46 Wait but his name is Victor tsoi not victor coj I thought or is this some weird translation thing I don't understand
+the-dump 2021-11-27 18:39:41 I shall never yield to an urban dictionary user who tells me to be a furry
+the-dump 2021-11-27 18:41:17 I concur with the gentleman above me, if you shall become a furry because a random person on urban dictionary tells you to, you have forfeited any title of manliness, strength, or decency and in my opinion have warranted others to laugh at you
+the-dump 2021-11-27 18:41:34 good day gentlemen
+the-dump 2021-12-01 02:30:38 
+the-dump 2021-12-01 02:32:27 中华人民共和国寄语] Great work, Citizen! Your social credit score has increased by [5] Integers. Keep up the good work! [ 中华人民共和国寄语]
+
+[ 中华人民共和国寄语] Great work, Citizen! Your social credit score has increased by [100] Integers. You can now have priority transport and can now get into prestigious colleges! Keep up the good work! [ 中华人民共和国寄语]
+
+[ 中华人民共和国寄语] Great work, Citzen! Your social credit score has increased by [500] Integers. You can now take up official, government job, where we pay you high salary, unlike America. Keep up the good work! [ 中华人民共和国寄语]
+
+[ 中华人民共和国寄语] Great work, Citizen! Your social credit score has increased by [1000] Integers. We will ensure you get great salary, good benefits, and good social standing, no matter the means. Keep up the good work! [ 中华人民共和国寄语]Copied!
+
+[ 中华人民共和国寄语] Great work, Celebrity! Your social credit score has increased by [5000] Integers. You will be famous across mainland of China, for what you are currently doing. We will make you celebrity, and even better salary. Keep up the good work! [ 中华人民共和国寄语]
+
+[ 中华人民共和国寄语] Great work, Celebrity! Your social credit score has increased by [10000] Integers. Xi Jinping would like to meet you personally at Zhongnanhai to encourage your good work. I am sure you notice that you have gained lot of dislike recently. Do not worry. We will send re-education vans to make sure your figure is in good graces. Keep up the good work! [ 中华人民共和国寄语]
+the-dump 2021-12-01 02:34:16 🇨🇳🇨🇳🇨🇳
+the-dump 2021-12-01 02:47:34 VERY BAD! 20 social credits have been deducted 低等公民 and your internet access card 上网通行证 has been suspended for: [24 Hours]. Please refrain from mentioning events that never happened that could discredit the great 人民共产党 People’s Communist Party again or we will be forced to 饿了就睡觉 send party agents to escort you to a re-education van [人民行刑车].
+the-dump 2021-12-01 02:51:19 
+the-dump 2021-12-12 17:48:34 I rather have my toilet seats warm my seats cold toilet than
+the-dump 2021-12-12 17:48:49 <:stuff:908917207986208828>
+the-dump 2021-12-12 17:50:32 🗿
+the-dump 2021-12-12 18:14:23 kill me
+the-dump 2021-12-12 18:14:53 cant spell funeral without fun amirite
+the-dump 2021-12-12 18:15:48 cringe
+the-dump 2021-12-12 18:17:36 nice
+the-dump 2021-12-12 19:51:36 tasty and delicious
+the-dump 2021-12-13 01:46:52 it is actually very funny. laughed really hard mainly at the blatant fact that I hate furries and pedophiles with a burning passion and yes they are the same thing and yes I call them things because they are not human <:OmegaTroll:626841385118597152>
+the-dump 2021-12-13 01:47:10 <:OmegaTroll:626841385118597152> I hate the antichrist
+the-dump 2021-12-13 01:53:52 
+the-dump 2021-12-13 02:09:09 https://images-ext-1.discordapp.net/external/utV1BW21zP35n0ULz44v7Cur7Y3QnsYiJOQgh6V_7bk/https/media.discordapp.net/attachments/856175533930709002/903027500093952080/17917867-AC8C-4E2E-B84F-6233F76F7989.gif?width=357&height=473
+the-dump 2021-12-13 02:09:29 we need to purge the furries
+the-dump 2021-12-13 02:09:35 <:OmegaTroll:626841385118597152>
+the-dump 2021-12-13 02:09:53 true
+the-dump 2021-12-13 02:10:37 yeah but the server needs cleansing too
+the-dump 2021-12-13 02:11:55 how bout you just leave
+the-dump 2021-12-13 02:11:57 you can leave
+the-dump 2021-12-13 02:12:02 its just up to you to make that choice
+the-dump 2021-12-13 02:12:11 you gotta denounce that lifestyle
+the-dump 2021-12-13 02:12:18 and turn your life completely around
+the-dump 2021-12-13 02:12:24 but if you want to you can do it
+the-dump 2021-12-13 02:12:57 first step: change your pfp to something NOT furry related
+the-dump 2021-12-13 02:14:24 or become normal
+the-dump 2021-12-13 02:15:55 we dont care furry
+the-dump 2021-12-13 02:16:19 all your furry discord servers are a waste of server space
+the-dump 2021-12-13 02:16:54 go be an over sensitive animal toucher somewhere else
+the-dump 2021-12-13 02:17:12 then what is this furry community you speak of
+the-dump 2021-12-13 02:17:33 stereotypes are based in truth <:OmegaTroll:626841385118597152>
+the-dump 2021-12-13 02:18:28 well then theres no point in you being a furry
+the-dump 2021-12-13 02:18:49 stop lying to yourself about how you are expressing your true self and just be normal
+the-dump 2021-12-13 02:19:20 sincerely I hope that this is a phase and you grow out of it
+the-dump 2021-12-13 02:19:26 but too many people dont come out of it
+the-dump 2021-12-13 02:19:35 and they end up inhabiting ***twitter***
+the-dump 2021-12-13 02:20:05 https://media.tenor.co/videos/d6ed02aef7434fbf2c2a9b335b9b00b4/mp4
+the-dump 2021-12-13 02:20:13 fuck embeds
+the-dump 2021-12-13 02:20:26 https://tenor.com/view/no-furry-meme-man-pogmemelol-gif-23264768
+the-dump 2021-12-13 02:21:01 ahh fuck we're compromised boys
+the-dump 2021-12-13 02:22:00 I would rather die standing than live kneeling
+the-dump 2021-12-13 02:22:15 nothing happened june 5th 1989
+the-dump 2021-12-13 02:22:30 I love bejing tiananmen!
+the-dump 2021-12-14 02:39:18 are we talking about building 80%ers I want in on this convo
+the-dump 2021-12-14 02:39:30 that shits fun
+the-dump 2021-12-14 02:41:40 <@!479305807674998804> I will say be careful where you talk abou your 80% guns because despite not needing a federal background check I think they are "technically" illegal to build as a minor probably under the AWB
+the-dump 2021-12-14 02:42:11 but I cant tell you that I havent done it myself either <:FineTroll:626841259746656289>
+the-dump 2021-12-14 02:45:28 also btw I hope thats not your name in the middle
+the-dump 2021-12-14 02:49:22 got it
+the-dump 2021-12-14 02:54:18 quick tip: lift until it hurts, and I mean like you have trouble walking around and picking things up and walking up stairs hurts, and then load up on protein and carbs
+the-dump 2021-12-14 02:54:24 works for me
+the-dump 2021-12-14 02:56:52 my standard is that if you can walk up the stairs after leg day then you aint worked hard enough
+the-dump 2021-12-14 02:56:57 same with chest and arms
+the-dump 2021-12-14 02:57:11 if you can raise your arms without screaming pain in your arms and chest you aint worked hard enough
+the-dump 2021-12-14 02:57:45 it also helps if you work out with other people cause sometimes being around others helps to push you to do more than you are usually comfortable with
+the-dump 2021-12-14 02:58:04 its fun being in a weight room with your friends cause you compete to do better than them
+the-dump 2021-12-14 02:58:12 and if you cant do better than them you make it your goal to
+the-dump 2021-12-14 02:59:02 nice nice
+the-dump 2021-12-14 02:59:22 im not too much of a runner I just lift heavy objects and eat chicken to put it simple
+the-dump 2021-12-14 03:00:42 it really does
+the-dump 2021-12-14 03:01:45 yeah
+the-dump 2021-12-14 03:03:13 my school offers it as well
+the-dump 2021-12-14 03:03:21 but I used to work out in my basement
+the-dump 2021-12-14 03:03:36 it was a rusty ass chernobyl setup
+the-dump 2021-12-14 03:03:54 im glad I can use the school weights now they are so nice
+the-dump 2021-12-14 03:04:44 unfortunately yes
+the-dump 2021-12-14 03:05:10 very much so
+the-dump 2021-12-14 03:05:36 do you do super sets when you lift?
+the-dump 2021-12-14 03:06:23 aight cya man
+the-dump 2021-12-22 02:25:35 I bet you are one of those weird british people
+the-dump 2021-12-22 02:25:46 go stab yourselves or somethin idk what yall do in your free time
+the-dump 2021-12-22 02:26:22 then you are just an edgy american teen that thinks that overused joke is funny?
+the-dump 2021-12-22 02:27:16 nah its overused
+the-dump 2021-12-22 02:28:20 its the staple of edgy mostly european or american kids that dont like america to randomly post in a memes chat "guys lol america school shootings lmaooo guys schools are a shooting range am i right"
+the-dump 2021-12-22 02:29:00 yes<:OmegaTroll:626841385118597152>
+the-dump 2021-12-22 02:29:20 I am gonna go on a right wing extremist schizzo rant now and drop the hard R n bomb a bunch of times
+the-dump 2021-12-22 02:29:25 I HATE THE ANTICHRIST
+the-dump 2021-12-22 02:29:28 <:OmegaTroll:626841385118597152>
+the-dump 2021-12-22 02:30:03 https://tenor.com/view/gypsycrusader-paul-miller-gif-22856350
+the-dump 2021-12-22 02:30:16 https://cdn.discordapp.com/attachments/459845122067005440/700041573898911754/image0.gif
+the-dump 2021-12-22 02:30:26 https://media.discordapp.net/attachments/504436696021204992/920076349840973875/piss-cop.gif
+the-dump 2021-12-22 02:30:36 https://tenor.com/view/ben-shapiro-walking-gif-21499133
+the-dump 2021-12-22 02:30:41 https://media.discordapp.net/attachments/745765672918974568/806238178402107392/image0-1-1.gif
+the-dump 2021-12-22 02:30:47 <:OmegaTroll:626841385118597152><:OmegaTroll:626841385118597152>
+the-dump 2021-12-22 02:31:49 https://media.discordapp.net/attachments/905882777189236777/920413169879494696/caption-3-1-1.gif
+the-dump 2021-12-22 02:32:23 https://tenor.com/view/watch-yo-tone-tone-watch-your-tone-watch-your-gif-24091847
+the-dump 2021-12-22 02:32:40 https://media.discordapp.net/attachments/851128701751525426/922333536478953522/ezgif-2-6226ec5dbb4a.gif
+the-dump 2021-12-22 02:36:47 https://media.discordapp.net/attachments/333435333771395072/745293990131400804/waga_baga_bobo.gif
+the-dump 2021-12-22 22:18:03 https://media.discordapp.net/attachments/851128701751525426/922333536478953522/ezgif-2-6226ec5dbb4a.gif
+the-dump 2021-12-22 22:18:20 I wish I could post a gif with the n word without getting banned
+the-dump 2021-12-22 22:18:38 on it chief
+the-dump 2021-12-24 15:21:53 https://cdn.discordapp.com/attachments/459845122067005440/700041573898911754/image0.gif
+the-dump 2021-12-24 15:22:30 <:OmegaTroll:626841385118597152>
+the-dump 2021-12-24 15:37:08 
+the-dump 2021-12-24 15:37:49 reddit moment
+the-dump 2021-12-24 15:38:31 thats my favorite way to sleep
+the-dump 2021-12-24 15:38:49 damn it fucking mods prob took it down
+the-dump 2021-12-26 21:24:55 <:Yikes:704804144657203220>
+the-dump 2022-01-10 00:00:42 im back bitches
+the-dump 2022-01-10 00:03:29 man when did the dump get so boring
+the-dump 2022-01-10 00:03:47 I get banned for like a week and this is what I come back to, a fucking wasteland
+the-dump 2022-01-10 00:03:56 since they banned me
+the-dump 2022-01-10 00:04:03 <:OmegaTroll:626841385118597152>
+the-dump 2022-01-10 00:04:06 but im back
+the-dump 2022-01-10 00:04:27 the furry hating machine is back
+the-dump 2022-01-10 02:15:48 https://tenor.com/view/neckmeat-cat-leg-cat-climbing-leg-cat-running-kitten-gif-23740433
+the-dump 2022-01-10 02:16:04 https://tenor.com/view/detroit-gif-23500912
+the-dump 2022-01-10 02:16:14 fuck you
+the-dump 2022-01-10 02:16:28 come on
+the-dump 2022-01-10 02:16:36 I cant even say the fucking r word'
+the-dump 2022-01-10 02:16:54 https://tenor.com/view/me-when-the-milk-gif-23890780
+the-dump 2022-01-10 02:17:07 the one that means you are mentally slow
+the-dump 2022-01-10 02:17:21 https://tenor.com/view/kitty-review-cat-kitty-review-gif-20973774
+the-dump 2022-01-10 02:17:29 https://tenor.com/view/kitty-review-gif-21953250
+the-dump 2022-01-10 02:17:38 https://tenor.com/view/kitty-review-cat-kitten-kitty-feet-gif-23971767
+the-dump 2022-01-10 02:17:59 https://tenor.com/view/kitty-review-isnt-ballin-gif-22981407
+the-dump 2022-01-10 02:18:19 https://tenor.com/view/kitty-review-kittyreview-cat-squishy-gif-21044823
+the-dump 2022-01-10 02:18:32 https://tenor.com/view/kitty-review-cat-kitty-review-gif-20973783
+the-dump 2022-01-10 02:19:10 https://tenor.com/view/kitty-review-cat-kitty-review-gif-20973783
+the-dump 2022-01-10 02:19:33 https://tenor.com/view/kitty-review-cat-review-gif-21140352
+the-dump 2022-01-10 02:19:48 https://tenor.com/view/seals-emporium-kitty-review-gif-21748019
+the-dump 2022-01-10 02:20:01 https://tenor.com/view/kitty-review-kitty-cat-catto-cato-gif-22458047
+the-dump 2022-01-10 02:20:17 https://tenor.com/view/kitty-review-cat-insane-gif-21576551
+the-dump 2022-01-10 23:38:17 I already got warned last night for it
+the-dump 2022-01-10 23:38:26 First day back
+the-dump 2022-01-10 23:38:48 This place turned into a wasteland when I left
+the-dump 2022-01-10 23:40:25 Yep
+the-dump 2022-01-10 23:40:53 Nope people that say things mods don't like when they are online get banned
+the-dump 2022-01-10 23:42:56 I hope <@611251614178869269> did a sufficient job bullying people we don't like while I was absent
+the-dump 2022-01-10 23:43:31 Good job my guy
+the-dump 2022-01-10 23:44:01 I shall return to my rightful place now as supreme racist
+the-dump 2022-01-10 23:44:19 Already got that but go ahead
+the-dump 2022-01-10 23:44:39 FUCK YOU
+the-dump 2022-01-10 23:46:27 Swag
+the-dump 2022-01-10 23:47:39 Just move out here, you hear it all the time
+the-dump 2022-01-10 23:47:58 Yep lmao
+the-dump 2022-01-10 23:48:29 Anyways gtg chaps
+the-dump 2022-01-11 02:03:53 FREDDY FAZBEAR WHAT HAPPENED
+the-dump 2022-01-11 02:03:58 SQUID GAME
+the-dump 2022-01-11 02:09:11 https://tenor.com/view/the-voices-voices-in-my-head-voices-cat-gif-23453583
+the-dump 2022-01-11 02:34:38 oh no im so scared
+the-dump 2022-01-11 20:47:47 kill yourself dipshit
+the-dump 2022-01-11 20:47:56 you serve zero purpose
+the-dump 2022-01-12 01:29:22 hold up I just realized ill get warned for the funny word for this one wont I
+the-dump 2022-01-12 01:29:26 fuck time to delete
+the-dump 2022-01-12 01:29:50 too late
+the-dump 2022-01-13 00:28:47 I want the original clip
+the-dump 2022-01-13 00:28:50 it looks interesting
+the-dump 2022-01-13 00:28:54 not this jojo bullshit
+the-dump 2022-01-13 00:55:22 asian food
+the-dump 2022-01-13 01:02:06 LMAOOO
+the-dump 2022-01-13 01:02:10 IM SAVING THIS BEFORE IT GOES DOWN
+the-dump 2022-01-13 01:02:21 fucking legend
+the-dump 2022-01-13 01:02:42 everyone get ready to spam the 1984 gif when mods find out
+the-dump 2022-01-13 01:03:11 and?<:trollface:775024642104229898>
+the-dump 2022-01-13 01:03:52 one is bigger and stinkier and people dont form emotional connections to very much
+the-dump 2022-01-13 01:04:18 the other is literally used worldwide to be a companion
+the-dump 2022-01-13 01:04:27 depends what kind of farmer
+the-dump 2022-01-13 01:04:53 if you are a cattle raiser then idk if you are gonna connect to the cattle you are legit raising to get slaughtered
+the-dump 2022-01-13 01:05:46 you legit cant have a service cow
+the-dump 2022-01-13 01:05:49 not practical
+the-dump 2022-01-13 01:05:57 you can have service dogs
+the-dump 2022-01-13 01:06:12 and dogs can be trained to do various complex things
+the-dump 2022-01-13 01:06:29 dogs have more practical purpose than just chinese take out
+the-dump 2022-01-13 01:06:34 I wouldnt doubt it
+the-dump 2022-01-13 01:06:44 after all they arent 600 pound animals
+the-dump 2022-01-13 01:07:18 australians be off the goop again
+the-dump 2022-01-13 01:07:54 unless it isnt practical
+the-dump 2022-01-13 01:07:55 like a cow
+the-dump 2022-01-13 01:08:22 which only two real purposes it can serve is milk and meat
+the-dump 2022-01-13 01:08:49 try getting that through a fucking door
+the-dump 2022-01-13 01:09:55 but its not practical
+the-dump 2022-01-13 01:10:03 because most doors arent designed to fit cows
+the-dump 2022-01-13 01:10:16 hypothetically for this kind of scenario doesnt work in the real world
+the-dump 2022-01-13 01:10:40 now what would be pretty rad is a dripped out service monkey
+the-dump 2022-01-13 01:30:30 
+the-dump 2022-01-13 01:53:06 agreed
+the-dump 2022-01-13 03:40:57 dripped out  😱 😱 😱
+the-dump 2022-01-13 20:57:29 fucking legend
+the-dump 2022-01-14 01:18:06 not all of it
+the-dump 2022-01-14 01:18:19 if you are a redneck then you are <:trollface:775024642104229898>
+the-dump 2022-01-14 01:18:35 if you live in a city and watch the news then you are <:empty:794431705070174238>
+the-dump 2022-01-14 01:18:50 idk I dont live there
+the-dump 2022-01-14 01:19:03 nope
+the-dump 2022-01-14 01:19:32 I cant say the name tho because the chat bot censors it
+the-dump 2022-01-14 01:19:35 ive tried this before
+the-dump 2022-01-14 01:19:57 nope
+the-dump 2022-01-14 01:20:17 no too far west
+the-dump 2022-01-14 01:20:33 no too far west and south
+the-dump 2022-01-14 01:20:39 ill give you a really big hint
+the-dump 2022-01-14 01:20:46 it has west in the name
+the-dump 2022-01-14 01:21:01 <:trollface:775024642104229898>
+the-dump 2022-01-14 01:21:05 LMAO
+the-dump 2022-01-14 01:21:11 you got warned
+the-dump 2022-01-14 01:21:21 i told you the bot is stinky shit
+the-dump 2022-01-14 01:21:39 yep
+the-dump 2022-01-14 01:22:00 <:OmegaTroll:626841385118597152>
+the-dump 2022-01-14 01:22:08 this emoji basically sums up my existance
+the-dump 2022-01-15 01:29:44 Redneck garage report: I am making a monstrosity in my garage
+the-dump 2022-01-15 01:30:14 Yes that is a bmx peg strapped to a weed Wacker engine
+the-dump 2022-01-15 01:31:01 It's going to power a bike tomorrow once I swing by home Depot to get some bolts to finish the frame
+the-dump 2022-01-15 01:31:39 For all you who haven't touched grass or seen light before, consider this plane crazy irl
+the-dump 2022-01-15 01:32:17 I inhaled way too much gas fumes I feel funny
+the-dump 2022-01-15 01:35:48 Y'all better watch out
+the-dump 2022-01-15 01:36:00 Next I'll move onto lawn mowers
+the-dump 2022-01-15 01:37:32 Nah I've seen other people make em, they can get up to about 30 mph
+the-dump 2022-01-15 01:37:55 Yeah it is
+the-dump 2022-01-15 01:37:58 For a bike
+the-dump 2022-01-15 01:38:07 For a car that's slow asf
+the-dump 2022-01-15 01:38:45 I ain't takin it on the highway or anything
+the-dump 2022-01-15 01:39:00 Just back roads and pissing off neighbors
+the-dump 2022-01-15 01:40:11 It's friction drive
+the-dump 2022-01-15 01:40:28 So that bmx peg presses up against the rear wheel
+the-dump 2022-01-15 01:40:47 It's not powerful but once you get it going I think itl do alright
+the-dump 2022-01-15 01:41:49 Chains are actually a lot more annoying to deal with than you'd think
+the-dump 2022-01-15 01:43:02 First they are very greasy, very dirty, hard to link and unlink, and they have to be corresponding chain sizes to the correct size gear
+the-dump 2022-01-15 01:43:41 A chain drive would be more effective if done right, but that means I would actually have to put in work
+the-dump 2022-01-15 01:43:59 A fucking hate chains for that reason
+the-dump 2022-01-15 01:44:06 A real pain in the ass
+the-dump 2022-01-15 01:44:35 Well the type of work is tedious and frustrating
+the-dump 2022-01-15 01:46:34 Nothing happened June 5th 1989
+the-dump 2022-01-15 23:08:30 damn it
+the-dump 2022-01-15 23:09:27 COME ON
+the-dump 2022-01-15 23:09:37 I CANT FUCKING SAY THE NAME OF A MEDICAL CONDITION
+the-dump 2022-01-15 23:10:39 COME THE FUCK ON
+the-dump 2022-01-15 23:10:42 WHAT THE FUCK
+the-dump 2022-01-15 23:10:46 damn fucking bot
+the-dump 2022-01-15 23:10:55 hold on I gotta do a test
+the-dump 2022-01-15 23:11:12 alright boys I found the word thats not letting me say shit
+the-dump 2022-01-15 23:11:45 im trying to respond to your last post by insulting furries but the bot wont let me say the word father - less
+the-dump 2022-01-15 23:12:10 anyways if the bot will let me say it
+the-dump 2022-01-15 23:12:14 what I was trying to say was
+the-dump 2022-01-15 23:13:05 phobia means an intense fear of, but why would I be scared of a bunch of children without fathers, other than the ones that hold me up for money in baltimore city of course
+the-dump 2022-01-15 23:13:39 same bro
+the-dump 2022-01-15 23:13:42 I hate homes
+the-dump 2022-01-15 23:13:56 thats why I live under the public bench
+the-dump 2022-01-15 23:14:24 I love racing
+the-dump 2022-01-15 23:14:54 SAME
+the-dump 2022-01-15 23:15:14 I also hate members of the LGBT community
+the-dump 2022-01-15 23:15:16 <:OmegaTroll:626841385118597152>
+the-dump 2022-01-15 23:15:28 I HATE THE ANTICHRIST
+the-dump 2022-01-15 23:15:31 <:OmegaTroll:626841385118597152>
+the-dump 2022-01-16 00:04:13 as long as my gun shoots first it doesnt matter what your gun does
+the-dump 2022-01-16 00:05:30 furries trained in the operation of firearms? never heard of it
+the-dump 2022-01-17 00:46:10 terry davis?
+the-dump 2022-01-17 01:03:50 zamn
+the-dump 2022-01-17 01:04:15 are we seceding from the pc union?
+the-dump 2022-01-17 01:05:05 indeed
+the-dump 2022-01-17 01:05:27 damn it actually has real looking parts tho
+the-dump 2022-01-17 01:05:31 I kinda like that
+the-dump 2022-01-17 02:04:59 wtf I didnt know they made nft videos now
+the-dump 2022-01-17 02:50:21 can we take a moment to appreciate this beautiful argument
+the-dump 2022-01-17 02:52:42 fr fr
+the-dump 2022-01-17 02:53:49 not when I hit him with this one
+the-dump 2022-01-17 02:54:49 did a comeback tho
+the-dump 2022-01-17 02:55:06 I dont worry much about the when and the who moves
+the-dump 2022-01-17 02:55:23 because I can come up with an even more degenerate statement in response
+the-dump 2022-01-17 16:59:20 dont care + didnt ask + im gonna keep being racist
+the-dump 2022-01-17 16:59:38 infact im gonna be even more racist to compensate for the fact that it is anti racism day
+the-dump 2022-01-17 17:16:49 that dont look too good
+the-dump 2022-01-17 18:11:31 https://cdn.discordapp.com/emojis/920120709626351616.gif?size=56&quality=lossless
+the-dump 2022-01-17 18:11:56 https://tenor.com/view/kitty-review-cat-kitten-kitty-feet-gif-23971767
+the-dump 2022-01-17 18:12:39 https://media.discordapp.net/attachments/834494516962000976/930677196748640266/Fat_dart.gif
+the-dump 2022-01-17 18:13:45 https://media.discordapp.net/attachments/917618018568257607/926917716214972446/RDT_20211228_0003354621825693509516503.gif
+the-dump 2022-01-17 18:14:50 I cant tell you how many times ive visited this site
+the-dump 2022-01-17 18:16:12 https://tenor.com/view/shrimp-dancing-beer-shrimp-party-gif-15700991
+the-dump 2022-01-17 18:16:51 also building guns out of construction materials arent illegal, but theres more specifics involved that can make it illegal
+the-dump 2022-01-17 18:17:58 building homemade firearms arent illegal
+the-dump 2022-01-17 18:18:34 making a firearm thats fully automatic, open bolt, or being a minor tho while making it is technically illegal
+the-dump 2022-01-17 18:18:59 well yeah but who tf is gonna do that
+the-dump 2022-01-17 18:19:19 that requires a background check
+the-dump 2022-01-17 18:19:47 not illegal
+the-dump 2022-01-17 18:20:08 guns arent fucking illegal to build dumbass
+the-dump 2022-01-17 18:20:26 but building is more fun
+the-dump 2022-01-17 18:20:50 aluminum and iron oxide<:trollface:775024642104229898>
+the-dump 2022-01-17 18:22:26 if yall really want to build a gun without a background check in the most legal way possible, do an 80% lower build and then buy an upper parts kit and have it shipped to your house, put the two and two together and you have a gun. Only problem is they are very difficult if you have never done them before, and you have to have certain expensive tools to do it correctly. Mods this is 100% legal btw
+the-dump 2022-01-17 18:23:00 but considering that not many people have these tools unless you work a trade, its not likely that many people get their hands on guns this way
+the-dump 2022-01-17 18:24:00 not as good as a metal reciever but yes these can work
+the-dump 2022-01-17 18:25:17 this has been your daily dose of firearm shit with your friendly neighborhood redneck
+the-dump 2022-01-17 18:26:18 indeed
+the-dump 2022-01-17 23:46:32 mfw discord giving me this emoji
+the-dump 2022-01-18 02:04:18 a peterfile
+the-dump 2022-01-18 02:04:32 piss your pants
+the-dump 2022-01-18 02:04:38 shit and poop
+the-dump 2022-01-18 02:04:41 in your underwear
+the-dump 2022-01-18 02:06:10 alright, I will shit your pants
+the-dump 2022-01-18 02:10:25 https://tenor.com/view/monkey-monkey-keyboard-monkey-typing-ip-logger-gif-20982979
+the-dump 2022-01-18 02:39:00 I salute you my based fellow
+the-dump 2022-01-18 02:40:00 I have two sides, racist online and racist in real life <:trollface:775024642104229898>
+the-dump 2022-01-19 02:04:22 I salute you
+the-dump 2022-01-19 02:35:40 very much so
+the-dump 2022-01-19 02:37:57 https://cdn.discordapp.com/attachments/929796168018460712/933174042565967943/video0_7_2.mp4
+the-dump 2022-01-19 17:09:04 Or yk, people are actually getting hurt from an experimental vaccine that was made in record time and the companies that made it decided there was too much legal risk so they literally got immunity from legal liability, but yk those are just crazy conspiracies
+the-dump 2022-01-19 17:11:21 Well the CDC does a lot of things that make 0 sense
+the-dump 2022-01-19 17:13:18 Including but not limited to accidentally admitting masks do nothing, reducing quarantine time from 10 days to 5 days, or covering up and then admitting things we knew all along like most people dead from covid had 4 or more comorbitities
+the-dump 2022-01-19 17:14:04 Anyways I gotta go drive somewhere, I'll check the race war I just started when I get home
+the-dump 2022-01-19 18:18:49 well people get flu vaccines so they dont actually get the flu. If we are following the concept of a traditional vaccine then covid vaccines arent effective as many if not most people who get the vaccine still get covid, and many still get hospitalized from it
+the-dump 2022-01-19 18:23:38 actually this is exactly how it works. If someone has a condition that prevents them from naturally helping them survive, their death would be in part due to said condition. If that person with a broken leg had a normal functioning leg, chances are he would have been able to run form the car. Same with covid, people with immune system issues essentially have their natural way of fighting illnesses suppressed and although covid is the cause of death, their comorbidity plays a very hefty role in making their death easier as they cant fight it
+the-dump 2022-01-19 18:24:31 well i was gonna argue both, jsut I left for like an hour so I got to get to the basic points
+the-dump 2022-01-19 18:24:38 gotta catch up on the race war
+the-dump 2022-01-19 18:25:36 ***kill the cripples***
+the-dump 2022-01-19 18:25:48 alright tho in all honesty let me answer your question
+the-dump 2022-01-19 18:26:56 I personally do not believe that the vaccine is safe nor effective, in my opinion it would be hurting them and probably pushing them into the metaphorical car to be giving them the vaccine
+the-dump 2022-01-19 18:27:30 I have a lot of anacdotal shit to back my claims up but idk if you want to hear that, im tired tho and im too lazy to pull up random statistics out of my ass right now
+the-dump 2022-01-19 18:28:23 actually, if the vulnerable want to take the precaution of locking down I am fine with that. It is their risk to take
+the-dump 2022-01-19 18:28:48 kinda like how you stay home from school and eat chicken noodle soup when you get sick, physical isolation of unhealthy people can infact work
+the-dump 2022-01-19 18:29:44 you cant, and so thats why there are also other remedies to boost your health and immune system other than getting vaccinated
+the-dump 2022-01-19 18:30:24 first off, one of the comorbidities many people have is being morbidly obese. If you keep your body in relatively good shape you are already better off
+the-dump 2022-01-19 18:30:43 second is eating healthy and getting plenty of vitamins
+the-dump 2022-01-19 18:31:10 well im answering your question about letting the metaphorical amputee get hit by the metaphorical car
+the-dump 2022-01-19 18:31:36 essentially I believe there are other ways to help the metaphorical amputee out of the way
+the-dump 2022-01-19 18:31:48 thats already step one, live a healthier life style
+the-dump 2022-01-19 18:32:11 they dont, and they can make their own conscious decision to improve themselves
+the-dump 2022-01-19 18:34:17 also true, however even most older people that get plenty of vitamins and live healthier and non sedentary lives are at greater possibility of surviving covid. It might hit them like a really bad cold but its more likely they will make it if they live healthier
+the-dump 2022-01-19 18:34:39 a big portion of people dying from covid simply arent healthy, ***cough cough new york people***
+the-dump 2022-01-19 18:35:42 im willing to just keep it to a nice peaceful back and forth of whether or not the vaccines are safe and effective
+the-dump 2022-01-19 18:39:16 there might have been obnoxious mean tweets but at least the gas prices were below 2 fucking dollars
+the-dump 2022-01-19 18:39:31 here the prices are above 3.50
+the-dump 2022-01-19 18:39:43 under trump it was under 1.50
+the-dump 2022-01-19 18:41:41 theres a different group of people who control the world via media if you know what I mean <:trollface:775024642104229898> 👃
+the-dump 2022-01-19 18:42:09 bruh moment
+the-dump 2022-01-19 18:42:32 * hava nagila *
+the-dump 2022-01-19 18:43:14 I wish but my computer cant run it
+the-dump 2022-01-19 18:43:20 thats why I play boblos
+the-dump 2022-01-19 18:44:23 it also takes over two days on my computer to download
+the-dump 2022-01-19 18:45:04 uh oh
+the-dump 2022-01-19 18:45:37 alright ping me with something when you are all caught up and we shall continue our remarkable convo
+the-dump 2022-01-19 19:05:59 If people truly want to take the vaccine and full heartedly believe it is good and effective, it is up to them. That is a risk they are willing to take, along with the risk of simply being around other people. I still believe that it is also up to them to take natural precautions of strengthening their immune system (exercise, staying in a healthy weight range, getting vitamins and minerals daily, certain medicines which have been largely proven effective in mitigating the effects of covid such as HCQ or ivermectin). If they do not want to keep their bodies healthy, that is also their personal choice and eventually probably their problem. They can take the vaccine but if they suffer any effects due to it, they are not able to sue as the medical companies applied for liability protections against people suing due to adverse reactions. They are also essentially giving their bodies to be used in trial as we do not actually know all the long term effects of these more recent vaccines, and what they can do to your body 10, 20, 30, 40 years down the line. I am personally healthy, along with most of my family so we are able to treat it like the cold. However, there are many members of our family who are not vaccinated, and immune compromised or have weakened immune systems due to age, they have all had covid and either didn't feel the effects of it, or had minor cases of it. I also happen to know more people personally who have developed immune system conditions or other medical problems immediately after taking the vaccine than I know who have died of covid. Now the last two things I said were purely anecdotal so take them for what you will, however they are also largely the reason that I personally do not trust these vaccines. But at the end of the day, everyone has risks they must be willing to take, and it is your own medical decision as to if you think the vaccine is right for you.
+the-dump 2022-01-19 19:07:00 its up to people if they want to believe the vaccine is good or not, thats their risk. Also, live healthier and get some vitamins daily and you probably will have a better chance not dying
+the-dump 2022-01-19 19:07:24 lol I mentioned the forbidden horsepaste
+the-dump 2022-01-19 19:07:40 ikik im a crazed conspiracy theorist
+the-dump 2022-01-19 19:11:32 agreed
+the-dump 2022-01-19 19:18:11 I also dont think that people should get persuaded to get a vaccine they might regret later on down the line. But once again at the end of the day it is purely up to you which risk you want to run, and I think people should hear both sides because there is a mainstream narrative and then one that is largely shut down and passed off as misinformation. I will thank you immensely that this didn't end up as a giant shouting match where everything got out of hand, so we shall agree to disagree and I wish you good luck and good health my good chap, now lets get back to professional shitposting gents
+the-dump 2022-01-19 19:19:07 well im hoping my last post kinda ends it so we can get back to shitposting and eating cereal
+the-dump 2022-01-19 19:19:24 yeah this is one of the few arguments where both parties were civilized
+the-dump 2022-01-19 19:24:40 I aint gonna try to start another giant wall of text argument but essentially thats your choice to make. personally I havent caught covid nor had anything with severe symptoms at all despite being around lots of people everyday for the last 5-6 months and I havent gotten the vaccine, so for now I trust my immune system. But do what you think is best for you
+the-dump 2022-01-19 19:26:36 thats understandable. I hope you and your family stay healthy no matter what road you guys go down
+the-dump 2022-01-19 20:29:58 https://media.discordapp.net/attachments/643209178722074654/932492008424099840/61jldm.gif
+the-dump 2022-01-19 20:30:29 https://cdn.discordapp.com/attachments/533962510341111839/901612012264652880/IMG_2648.gif
+the-dump 2022-01-19 21:03:21 https://tenor.com/view/the-voices-meme-cat-gif-23917781
+the-dump 2022-01-20 02:27:49 W
+the-dump 2022-01-20 02:29:21 https://tenor.com/view/the-j-gif-21341579
+the-dump 2022-01-20 02:30:45 
+the-dump 2022-01-20 17:07:09 🤓
+the-dump 2022-01-20 19:20:21 yo boys idk why tf but I had like 60 bobux and now I have 224 what the hell is going on
+the-dump 2022-01-20 19:20:32 whats that
+the-dump 2022-01-20 19:20:49 ahh alright
+the-dump 2022-01-20 19:20:57 thats cool
+the-dump 2022-01-20 19:21:51 truuue
+the-dump 2022-01-20 19:22:22 I mean considering ive actually made some ok attempts at game creations recently I might have a better chance at getting premium payouts
+the-dump 2022-01-20 19:22:33 
+the-dump 2022-01-20 20:14:17 I guess a really rich kid played my game then
+the-dump 2022-01-20 20:14:28 cause I got 178 robux isntantly
+the-dump 2022-01-20 20:15:12 roblox has a premium membership thing, and if kids with premium play your game, that you made, you get paid for premium players playing your game
+the-dump 2022-01-21 02:52:09 tf I cant say a country name
+the-dump 2022-01-21 02:52:25 n iger is a country name dumbass
+the-dump 2022-01-21 02:52:40 
+the-dump 2022-01-21 02:52:48 if you want the funny word you got to add another g
+the-dump 2022-01-22 15:35:02 https://images-ext-2.discordapp.net/external/Co78Q-DAfEcrl3WlJ_V-rKbFoqwuCiv5W3gM9axlyww/https/media.discordapp.net/attachments/495286269459300364/934408022887907338/92EA29F0-FDA4-43E2-8013-FB453B63BDFA.png
+the-dump 2022-01-22 16:23:12 tranny rifle shoot it again
+the-dump 2022-01-22 16:23:33 why tf is there trans people playing roblox
+the-dump 2022-01-22 16:23:48 and I dont mean that they cant play it, I mean I doubt its a kid
+the-dump 2022-01-22 16:23:59 most trans people are 30 year old pe dos
+the-dump 2022-01-22 16:24:06 I do too
+the-dump 2022-01-22 16:24:16 beautiful
+the-dump 2022-01-22 16:24:27 anyways I gtg
+the-dump 2022-01-22 16:24:33 nice insulting trannys with you
+the-dump 2022-01-22 18:41:02 It's usually true
+the-dump 2022-01-22 18:41:32 Curries in general
+the-dump 2022-01-22 18:41:37 Curries*
+the-dump 2022-01-22 18:41:42 FUCK
+the-dump 2022-01-22 18:41:54 Fucking autocorrect
+the-dump 2022-01-22 18:42:03 I can't say the word
+the-dump 2022-01-22 18:42:10 Furries
+the-dump 2022-01-22 18:42:13 There
+the-dump 2022-01-22 18:42:23 I can say that tho
+the-dump 2022-01-22 18:44:32 I think I am the only whitename who occasionally posts funny things, but even then it's only occasionally and I'm usually cringe
+the-dump 2022-01-22 18:44:45 Agreed
+the-dump 2022-01-22 18:45:38 Whites are better
+the-dump 2022-01-22 18:46:03 Get the colored names out
+the-dump 2022-01-22 18:46:13 I stand by it
+the-dump 2022-01-22 18:46:36 Yes I am racist, and?
+the-dump 2022-01-22 19:07:17 If you know you know <:trollface:775024642104229898>
+the-dump 2022-01-24 18:48:57 LMAO WHAT A FUCKING IDIOT
+the-dump 2022-01-24 18:49:11 I bet they dont have a father
+the-dump 2022-01-24 18:49:29 https://tenor.com/view/father-figure-green-goblin-willem-dafoe-meme-gif-24362907
+the-dump 2022-01-24 18:49:34 what a loser
+the-dump 2022-01-24 18:50:15 yes I am going to call people a loser and make fun of them for lack of a father figure because I want to and I feel like it
+the-dump 2022-01-24 18:51:35 I do ocasionally
+the-dump 2022-01-24 18:52:01 tho I havent build in a while so i dont remember exactly when ive used them but I know I have
+the-dump 2022-01-24 18:55:02 bruh momento
+the-dump 2022-01-24 18:56:07 I will say when I first started playing pc I didnt know how the prop engines worked because it didnt look like a real prop, I thought i had to attach blades to it so for the longest time I was confused because I couldnt attach the prop blades to the prop engine
+the-dump 2022-01-24 19:05:20 my biological one left my mom when I was one but ever since i have had an amazing stepdad who has in my opinion taken the role of a real authentic father figure
+the-dump 2022-01-24 19:06:16 a lot of kids without father figures dont have anyone else to make up for it but im fortunate enough to have someone who does make up for it
+the-dump 2022-01-24 19:07:41 while I take tokes
+the-dump 2022-01-24 19:15:17 
+the-dump 2022-01-24 19:15:50 I HATE COMMUNISM!!!
+the-dump 2022-01-24 19:15:54 KILL KILL KILL
+the-dump 2022-01-24 19:16:41 yeee haww
+the-dump 2022-01-24 19:16:50 https://tenor.com/view/rambo-sylvester-stallone-suns-out-guns-out-ready-aim-fire-machine-gun-gif-5120447
+the-dump 2022-01-24 19:17:18 welp time to do redneck shit in my garage
+the-dump 2022-01-24 19:17:22 cya later boys
+the-dump 2022-01-24 20:04:03 Already gave explanation
+the-dump 2022-01-24 20:08:10 <@610459059660783616>
+the-dump 2022-01-24 20:57:12 it is a shame for sure, but im still raised as if I had a real father, at least more so than a furry
+the-dump 2022-01-24 21:22:47 https://cdn.discordapp.com/attachments/868192669166354513/935281161675083867/south_will_russia_again.mp4
+the-dump 2022-01-25 00:11:03 
+the-dump 2022-01-26 00:58:19 https://tenor.com/view/father-figure-green-goblin-willem-dafoe-meme-gif-24362907
+the-dump 2022-01-26 01:02:22 <:squam:801278498156183562>
+the-dump 2022-01-26 02:50:01 tf did I just watch
+creations-chat 2022-01-27 00:57:44 yo I just created an extremely stable missile, im not putting it in creations cause it aint done yet but I thought I might put it here to see what yall thought
+creations-chat 2022-01-27 01:00:36 I really dont know exactly how it works it was just a concept I was screwing around with, but its just a 1x7 covered in hover thrusters with a super rocket engine and some deltas at the back, and the thing stays comepletely straight in mid air indefinately until it hits something
+creations-chat 2022-01-27 01:06:53 why not
+creations-chat 2022-01-27 01:09:25 literally 1984
+the-dump 2022-01-27 23:42:56 we should all strive to be like this man
+the-dump 2022-01-29 01:03:48 disgusting furry pfp
+the-dump 2022-01-29 01:04:05 your father
+the-dump 2022-01-29 01:04:08 oh wait you dont have one
+the-dump 2022-01-29 01:04:11 <:trollface:775024642104229898>
+the-dump 2022-01-29 05:15:22 mfw people with anime pfps make bad jokes about school shootings
+the-dump 2022-01-29 05:15:45 because haha funny america
+the-dump 2022-01-29 05:24:47 mfw you think I care about being a white name
+the-dump 2022-01-29 05:24:51 stfu anime pfp
+the-dump 2022-01-29 05:26:11 I usually have some sort of propaganda pfp but this was a painting I made of cursed kirby because it disturbs my friends
+the-dump 2022-01-29 05:26:34 bruh since when did everyone in <#495286269459300364> turn into weebs and furries
+the-dump 2022-01-29 05:26:45 this place used to be clean
+the-dump 2022-01-29 05:27:15 like only a week ago
+the-dump 2022-01-29 05:49:24 I have been here for a long while
+the-dump 2022-01-29 05:49:33 I even got banned at one point for saying too many nono words
+the-dump 2022-01-29 05:53:25 people who actually frequent this channel and are part of the based <#495286269459300364> community will know that I am a frequent face around here, im just too lazy and not interested enough in this lego building game to earn any ranks
+the-dump 2022-01-29 05:57:30 the racist furry hater
+the-dump 2022-01-29 05:58:28 I usually have this pfp
+the-dump 2022-01-29 15:35:57 ask <@!611251614178869269> <@!608348414375362580>
+the-dump 2022-01-29 15:37:13 when what
+the-dump 2022-01-29 15:38:06 im the one who goes on schizzo rants on hating furries
+the-dump 2022-01-29 15:38:36 and then I had a giant argument with futurescience about weather or not vaccines are safe
+the-dump 2022-01-29 15:39:00 and then make a bunch of jokes about the ATF raiding my house
+the-dump 2022-01-29 15:41:27 no ive heard about this before
+the-dump 2022-01-29 15:41:28 its real
+the-dump 2022-01-29 15:42:06 bruh
+the-dump 2022-01-29 15:43:13 theres a furry in my school who dresses in clothes covered in"japanese lewd content"(I cant say the name without getting censored) every day
+the-dump 2022-01-29 15:43:19 the dress code is fucked
+the-dump 2022-01-29 15:43:41 but on the bright side i can dress offensively like a redneck
+the-dump 2022-01-29 15:59:48 howdy my favorite brit
+the-dump 2022-01-29 16:00:15 its a good day to be racist
+the-dump 2022-01-29 16:00:18 <:trollface:775024642104229898>
+the-dump 2022-01-29 16:05:14 sorry im a little busy doing some repair work on my banjo rn
+the-dump 2022-01-31 05:09:30 🇳🇮 🇬🇬 🇪🇷
+the-dump 2022-01-31 05:09:35 favoirte countries
+the-dump 2022-02-01 02:27:20 https://tenor.com/view/sue%C3%B1itosgifs-traumatized-mr-incredible-los-increibles-meme-gif-24305569
+the-dump 2022-02-01 02:29:06 dont worry I eat mentally incapacitated people too
+the-dump 2022-02-01 03:33:19 literally 1984
+the-dump 2022-02-01 04:38:28 yes please I hate certain minority groups
+the-dump 2022-02-01 04:38:32 I also like nascars
+the-dump 2022-02-01 04:38:53 you decide <:trollface:775024642104229898>
+the-dump 2022-02-01 15:55:37 ngl this hit me in the feels
+the-dump 2022-02-01 15:55:55 wdym kerbal race program took place last summer in every major city
+the-dump 2022-02-01 15:56:01 <:trollface:775024642104229898>
+the-dump 2022-02-01 18:17:01 why must everything good in this world be ruined with anime
+the-dump 2022-02-01 18:17:11 https://tenor.com/view/sadgecry-sadge-cry-gif-18423674
+the-dump 2022-02-01 19:21:29 im gonna screenshot all the NFTs I want
+the-dump 2022-02-02 00:39:35 my new favorite video based turkey
+the-dump 2022-02-02 00:41:46 k i t e
+the-dump 2022-02-05 02:39:45 I have seen a lot of gore in my days but never will I asked to be sent that shit
+the-dump 2022-02-05 02:39:46 thats too far
+the-dump 2022-02-05 02:40:01 I would rather watch people get blown up via 20mm AA gun
+the-dump 2022-02-05 02:40:09 or get their face chainsawed off
+the-dump 2022-02-05 02:40:16 but clipping teeth in half is too far
+the-dump 2022-02-05 02:40:53 https://tenor.com/view/cat-gif-21406215
+the-dump 2022-02-06 04:21:03 I'm gonna get a lot of hate for this but I think I kinda like it
+the-dump 2022-02-07 22:49:52 Bruh why TF weren't you grounded and how did it take you long enough to post on discord about it to find that out
+the-dump 2022-02-07 22:51:14 Grounding my shit is usually one of the first things I do before I move on
+the-dump 2022-02-07 22:52:00 Just to be clear we are talking about actual welding in our garage and not a video game?
+the-dump 2022-02-07 22:53:11 Whatcha welding if I can ask
+the-dump 2022-02-07 22:54:00 Bruh switch to flux welding so much better
+the-dump 2022-02-07 22:54:46 Oh damn it you are taking a welding class cringe
+the-dump 2022-02-07 22:54:56 Learn on your own, best way to go
+the-dump 2022-02-07 22:56:50 Last thing I welded was very nearly nearly something the ATF would shoot my dog for
+the-dump 2022-02-07 22:58:53 Oh I'm talking about almost welding together a firearm
+the-dump 2022-02-07 23:00:03 Hold on I need to settle this, as a redneck I will proudly say anyone even affiliated with furries are automatically zoos and all deserve to be put down
+the-dump 2022-02-07 23:00:45 No such thing, all furries touch kids and animals alike in my experience
+the-dump 2022-02-07 23:01:14 Doubt
+the-dump 2022-02-07 23:01:48 I love this pic
+the-dump 2022-02-07 23:03:14 Your bio says the word submissive, your pfp is a disgusting pic of an "operator" wearing furry ears, opinion invalid
+the-dump 2022-02-07 23:04:03 OH GOD ITS A REAL FULL ON FURRY IN THE CHAT
+the-dump 2022-02-07 23:04:12 HISE YOUR PETS EVERYONE
+the-dump 2022-02-07 23:04:16 HIDE
+the-dump 2022-02-07 23:04:55 Better fate than letting them get touched
+the-dump 2022-02-07 23:05:24 Yeah and it's kinda funny to shit on furries
+the-dump 2022-02-07 23:07:06 Tell the friend to get a better picture
+the-dump 2022-02-07 23:07:51 Also the one on the right of the picture I bet is a guy
+the-dump 2022-02-07 23:09:49 Tuburgakl
+the-dump 2022-02-07 23:10:08 Hydroplane
+the-dump 2022-02-07 23:18:57 gotta admit tho that doggos are pretty cool
+the-dump 2022-02-07 23:19:54 https://tenor.com/view/oh-hot-dog-moistcr1tikal-cr1tikal-penguinz0-charlie-gif-24618238
+the-dump 2022-02-07 23:20:06 https://tenor.com/view/pablo-escobar-gif-22308826
+the-dump 2022-02-07 23:20:22 dream SMP more like dream about getting some bitches
+the-dump 2022-02-07 23:21:11 I cant really talk about getting bitches tho cause I get none
+the-dump 2022-02-07 23:21:19 but thats cause im too racist and sexist
+the-dump 2022-02-07 23:21:59 I literally had a girl tell me "maybe girls would actually like you if you werent such an inconsiderate piece of shit"
+the-dump 2022-02-07 23:22:06 I have aquired victory
+the-dump 2022-02-07 23:22:30 I may be a loser but at least im a racist one <:trollface:775024642104229898>
+the-dump 2022-02-07 23:25:39 oh good heavens
+the-dump 2022-02-07 23:25:40 !

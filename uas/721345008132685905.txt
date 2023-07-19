@@ -1,0 +1,8 @@
+The Tale of superidoldexiaorong (721345008132685905)
+bug-reports 2023-07-10 12:16:18 When I turn off the Snow Pipe or Smoke Pipe in the game, I can't see the smoke, but other players still see it as if the pipe is on, even though it's off. It seems like a bug. This bug could be a bit inconvenient for a small number of users who are trying to implement DMR or nuclear reactors within the game. I've written this message using a translation tool, so I apologize if it's a bit unclear. 
+
+**Here's the link for reference:**
+ https://media.discordapp.net/attachments/1078879130768130100/1127932443597480027/image.png
+https://cdn.discordapp.com/attachments/1078879130768130100/1127932443878510712/image.png
+bug-reports 2023-07-10 12:22:06 just wanted to add that I'm not sure if this issue is specific to the Roblox game itself or if it's a problem within Plane Crazy, the game where the bug is occurring. I hope this bug gets resolved soon.
+bot-central 2023-07-14 05:38:45 e

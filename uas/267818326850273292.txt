@@ -1,0 +1,3 @@
+The Tale of comett_ (267818326850273292)
+help 2019-06-08 16:48:13 is there any way to make a block not weld to its surroundings so I can use a motor to move it?
+help 2019-06-08 16:51:47 ty ty

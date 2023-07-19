@@ -1,0 +1,6 @@
+The Tale of sonychka (484124962538389504)
+help 2020-07-03 00:29:21 the motor2 seems to be controlled by which way i look, how do i change it to only be controlled by keys?
+help 2020-07-03 00:36:15 thanks
+help 2020-07-03 06:53:06 <@!524955125635350538> saw your msg up above, you can build the wings straight then use a motor to turn them that way (maybe 25 degrees?)
+help 2020-07-03 06:57:59 <@!524955125635350538> dont listen to Wee, motor 2 would be better
+help 2020-07-03 06:59:36 try making a simpler version of it (maybe just the skeleton of it?) then adding on

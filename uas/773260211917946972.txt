@@ -1,0 +1,35 @@
+The Tale of ditomar (773260211917946972)
+creations-chat 2021-04-29 19:53:35 Bruh that's incredible
+bot-central 2021-08-07 22:40:19 !rank
+bot-central 2021-08-07 22:40:24 neat
+help 2021-08-08 14:32:41 anyone know how to stop the goddamn motor wobble?
+help 2021-08-08 14:54:53 Mechs. Legs, arms, etc.
+help 2021-08-08 14:57:12 I found that less torque seems to work better, however it can tend to wobble even more while moving, especially with motor2. The problem with more torque is that it always makes the wobbling more... aggressive. How do I fix *that*?
+help 2021-08-08 14:58:56 huh, so low torque for motor1 and high torque for motor2?
+help 2021-08-08 15:00:41 Alright so let's review:
+Motor 1: torque = good
+Motor 2: torque = maybe good
+help 2021-08-08 15:00:57 torque good or torque bad
+help 2021-08-08 15:01:16 so torque bad
+help 2021-08-08 15:01:21 torque bad on motor 2
+help 2021-08-08 15:01:37 So how do I stop motor1 from moving around n shit while I'm moving?
+help 2021-08-08 15:01:58 Aight so either torque 1 or torque 500
+help 2021-08-08 15:02:02 cool
+help 2021-08-08 15:02:27 But how do I stop motor 1 from moving around a bunch while I'm moving?
+help 2021-08-08 15:02:43 Mech
+help 2021-08-08 15:02:48 A flying one
+help 2021-08-08 15:03:01 The arms always move n stuff while it's flying and then I have to correct them
+help 2021-08-08 15:03:17 It's a controlled movement
+help 2021-08-08 15:03:27 Like up-n-down type stuff for posing
+help 2021-08-08 15:03:36 idk I think 150
+help 2021-08-08 15:03:57 So more torque?
+help 2021-08-08 15:04:09 oh cool
+help 2021-08-08 15:04:21 Yeah that's actually exactly what I was looking for, thanks for helping
+∆
+help 2021-08-10 02:27:31 alright so how do I make a compact bomb launcher
+creations-chat 2022-11-25 06:41:22 ight so how the heck have people managed to make *functioning dragon wings* in this game
+bot-central 2022-12-06 20:22:49 !rank
+bot-central 2022-12-06 20:22:53 epic
+bot-central 2022-12-06 21:12:07 -servers
+bot-central 2022-12-06 21:12:12 oh
+creations-chat 2023-01-11 18:21:37 ye

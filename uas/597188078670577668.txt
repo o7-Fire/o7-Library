@@ -1,0 +1,379 @@
+The Tale of modnar411 (597188078670577668)
+help 2020-07-04 23:46:30 I don’t necessarily have anything to post an image of but I have a question. I want to figure out how to make a solid bodied craft that follows my cursor. Not a shredder bug, not a turret. How can I make a plane that follows my mouse?
+help 2020-07-04 23:46:43 Any tutorials or simple tips y’all could lead me too?
+help 2020-07-04 23:48:41 Well could you be a bit more specific?
+help 2020-07-04 23:49:32 I don’t mean how to use them, I know how to make a shredder bug and stuff like that but how would I make like a plane or something that follows my mouse
+help 2020-07-04 23:49:36 Like a jet
+help 2020-07-04 23:49:44 Do you know any tutorials?
+help 2020-07-04 23:56:11 Control panel
+help 2020-07-04 23:56:19 Is that a part?
+help 2020-07-04 23:56:42 I’m sorry im not looking at my computer rn and don’t know exactly what u r talking about
+help 2020-07-04 23:57:27 And how do I get them to move with my cursor?
+help 2020-07-04 23:57:45 Oh
+help 2020-07-04 23:57:46 Ok
+help 2020-07-04 23:58:06 What setting do I put the control panels on
+help 2020-07-04 23:58:17 What key
+help 2020-07-04 23:58:28 Oh
+help 2020-07-04 23:58:49 I did not know that
+help 2020-07-04 23:59:00 No no
+help 2020-07-04 23:59:08 I know where to place control panels
+help 2020-07-04 23:59:20 I just didn’t know they follow my mouse
+help 2020-07-05 00:00:38 Did it explain that in the tutorial
+help 2020-07-05 00:00:44 How to make it follow ur mouse
+help 2020-07-05 00:02:25 Ok
+help 2020-07-05 00:02:29 Thanks a lot
+help 2020-07-05 00:02:31 🙂
+creations-chat 2021-02-16 21:23:59 If say looks better
+creations-chat 2021-02-16 21:26:00 Maybe a half block at the front tho? I wasn’t finished, like slant it maybe
+bug-reports 2021-02-16 21:34:52 So not too sure how this works but:
+Bug 1: When servers get laggy enough you respawn in either the central fields or the slate area.
+Bug 2: Sometimes if you choose your spawn as water or airport when you des pawn you won’t get teleported back.
+Bug 3: Sometimes when a block gets deleted in build mode you can’t place anything in its place, and you have to respawn once or twice to be able to place blocks in the hole again.
+Bug 4: If you don’t set a motor 2 to servo and it has an engine strapped to it (any propulsion) it will disappear or fly away as soon as you touch the water.
+An example of this is a super rocket engine on a rudder.
+That’s all for now
+bug-reports 2021-02-16 21:38:24 These were all found within reasonable wifi, and high graphics settings
+help 2021-02-18 19:54:53 Alright I’m here
+help 2021-02-18 19:55:52 Just saying that it’s only the body I have completed currently. The engines are the only other part attach. You will notice small wings on the ends of the boosters or whatever, they do not affect the rolling as it did so before I added them
+help 2021-02-18 19:58:37 Hold on
+help 2021-02-18 19:58:46 I might have resolved the issue
+help 2021-02-18 19:59:01 I was gonna ask for help because my vtol kept rolling to the left
+help 2021-02-18 19:59:07 Right*
+help 2021-02-18 20:00:41 I turned it to both for the time settings and tried to look at the shadows cast and see if there were any differences. It should be perfectly symmetrical
+help 2021-02-18 20:00:47 No one was in it beside me either
+help 2021-02-18 20:02:09 I was going to take a video but since it’s my phone it looked quite sloppy and I think I resolved the issue
+help 2021-02-18 20:02:13 If it happens again I will
+help 2021-02-18 20:02:29 This
+help 2021-02-18 20:03:00 Not even too sure, I added some control surfaces on the end
+help 2021-02-18 20:03:03 Maybe that
+help 2021-02-18 20:03:17 More or less
+help 2021-02-18 20:03:36 Before I do more tests I need to configure ballasts and my pitch and yaw
+help 2021-02-18 20:03:42 Because I can barely take off atm
+help 2021-02-18 20:04:47 Also this vtol might look sloppy, it’s supposed to be a test really
+help 2021-02-18 20:05:08 I’m even using control surfaces smh
+help 2021-02-18 20:05:59 It’s completely fictional, and I mean the block type
+help 2021-02-18 20:06:11 Instead of using servo motors to control the plane I’m using cursor
+help 2021-02-18 20:06:30 Lemme see some
+help 2021-02-18 20:06:43 Oh XD
+help 2021-02-18 20:07:00 That’s sick
+help 2021-02-18 20:07:03 Full interior?
+help 2021-02-18 20:08:07 That’s cool
+help 2021-02-18 20:08:21 Oh damn
+help 2021-02-18 20:08:24 That’s sleek
+bug-reports 2021-02-19 13:58:36 I prefer it. I make lots of submarines and will attach a little glass viewfinder with a camera and motor at the top. I forget what they are called,
+creations-chat 2021-02-22 22:13:21 It will come soon enough XD
+creations-chat 2021-02-22 22:15:24 I have to copy them into a slide, individually then open it on my phone and screenshot it in present mode because my computer says “no” to drive share
+creations-chat 2021-02-22 22:53:42 It’s up
+creations-chat 2021-02-22 22:56:10 What do you guys think?
+creations-chat 2021-02-22 22:58:12 XD
+creations-chat 2021-02-22 23:03:00 You are all very welcome lmao
+creations-chat 2021-02-22 23:07:25 Well you see, I kinda created the universe
+creations-chat 2021-02-22 23:12:34 Hundred
+creations-chat 2021-02-22 23:15:52 I will break the cycle, although I admit we could go on for uncountable hours
+creations-chat 2021-02-22 23:19:10 Ten Billion
+creations-chat 2021-02-22 23:55:54 So how does it everyone like my vtol?
+creations-chat 2021-02-23 00:10:07 So, how could I improve
+creations-chat 2021-02-23 00:13:56 And don’t just reply with an opposite message, be specific (planned to send before)
+creations-chat 2021-02-23 00:19:16 So 1: I like winter camo, it’s winter. I much like the colour scheme of highlighted seats and amber glass. Do you mean greens? Panzer style browns yellows and greens? Don’t just tell me my Colors are bad. Be more specific and give me an example.
+2: Understandable, my next design will probably have them hidden in the hull in between blocks, good point.
+3: The whole reason it’s shape is weird is because it’s mine, that’s not really a criticism and more of an unnecessary callout, have you seen some of the plane designs Germans came up with, hell even the b2 is “weird”. It’s a fictional aircraft, so sorry.
+4: Most vtols have wings, the osprey has forms of elevators, including literally every vtol jet. So do helicopters which have slight roll control with those side thingies. And it’s not supposed to be futuristic in that sense, and any futuristic aircraft would still need control surfaces to fly in the atmosphere.
+creations-chat 2021-02-23 00:21:26 Still there?
+creations-chat 2021-02-23 00:25:08 Cute
+creations-chat 2021-02-23 00:27:17 I apologize if that came on strong but I am looking for criticism so I can improve future builds, that is why I’m here. So anything else I could improve on (and how)
+creations-chat 2021-02-23 12:50:49 Sps is studs per second right?
+creations-chat 2021-02-23 18:52:26 I’m going to work on the Humingbird MK2. I will be hiding the props if need be and will be giving it much more detail on the interior, and some basic detail on the outside. Is there anything you would like to add? Scroll back to yesterday to find my vtol in the creations channel if you have no idea what I’m talking about XD
+creations-chat 2021-02-23 18:54:36 https://discord.com/channels/384021699466756103/384025409945337856/813544020512604222
+This is the message
+creations-chat 2021-02-23 19:01:08 Does anyone mind giving me some advice?
+creations-chat 2021-02-23 19:06:42 Will do, the next design will hide them in the hull
+creations-chat 2021-02-23 19:08:44 Also for camo, maybe some greens? Which camos do you guys like, and if you have photos please send!
+creations-chat 2021-02-23 22:44:25 Progress is going great. The Mk2 Hummingbird has 32 seats and a back that folds open almost seamlessly. 
+I’m very proud because I am adding as much detail as possible. It even has a little cargo bay n stuff
+Il send more photos soon
+creations-chat 2021-02-23 23:04:16 I’m going to try to use a different method, but the slides system is the best I have currently. For some reason I can’t import my photos to my iPhone so, eh
+creations-chat 2021-02-23 23:09:44 Do you guys think flektarn is a good pick? I have think I might use it
+creations-chat 2021-02-24 02:12:12 More news:
+The vtol is coming along good, engines and body all complete. 
+The only thing I don’t know how to work around is takeoff and landing; I still have to use props. But I will hide them in the hull.
+I can’t use motor two mouse controls because, they freak out and the elevators don’t do much at very low speeds. Rip.
+An I want it stable in both vtol and conventional flight so that’s why configuring the ballasts just makes it nose heavy
+creations-chat 2021-02-24 14:48:39 Vtol is done, I just need to conceal the props and paint
+creations-chat 2021-02-24 14:52:40 I spelt it vtol? gotcha
+creations-chat 2021-02-24 14:56:19 Well anyway. Flecktarn look good to you guys? I
+creations-chat 2021-02-24 14:59:24 You are correct, and to awnser Nephus, it’s the paint job I’m giving my aircraft
+creations-chat 2021-02-24 15:23:03 One sec let me check
+creations-chat 2021-02-24 15:25:21 Yes the rear elevator looks a bit long, length of the plane wise. There’s not much you can do since I only think it’s three or two blocks wide but, the elevator is thick in my opinion. And this is not a design flaw, but standard greys don’t do it for me with many aircraft.
+But it’s an all round original nice looking build
+creations-chat 2021-02-24 16:24:40 It’s done
+creations-chat 2021-02-24 16:26:54 Sneak peak, Colors aren’t even picking up because of how bad phone to screen quality is.
+creations-chat 2021-02-24 16:30:27 I’m taking the higher quality in a sec
+creations-chat 2021-02-24 16:37:48 Oops, and ^
+creations-chat 2021-02-25 19:25:54 For whatever the reason, can’t post the images. Il try again rn. Very frustrating because I’m proud of it, will be making more this time motorlocked vtols
+creations-chat 2021-02-26 01:51:00 Created a smaller vtol Il check
+creations-chat 2021-02-26 01:53:27 I actually like the camo, reminds me of fruitcake, supposed to be kinda like Belgian camo or Flecktarn,
+(I’m looking for parts)
+creations-chat 2021-02-26 01:55:34 906 Parts, also blobfish. Elaborate, I would like to improve.
+creations-chat 2021-02-26 01:58:06 Again, not trying to be critical here, but what do you mean by shape. I almost tried to go for a thicker helicopter body and then swept I guess b2 style wings. It’s the design the most stable IMO, so could you give me some examples? It’s ok if you can’t
+(Also I can fix the props by lowering them one block, that’s 100% me being lazy)
+creations-chat 2021-02-26 02:02:16 I tried to combat that by motor locking the wings into the actual craft, I’m not too sure how to improve that. I guess I could round the bottom out a bit too
+creations-chat 2021-02-26 02:05:20 So you guys think I should bring the vertical stabilizers center build on the edges of the elevators?
+If I hid some props too that would probably make turning while hovering way easier
+creations-chat 2021-02-26 02:08:46 ** E G G G **
+creations-chat 2021-02-26 02:10:48 So anything else you guys would like fixed with the Dragonfly RDEA?
+creations-chat 2021-02-26 02:16:52 Anything else?
+creations-chat 2021-02-26 02:22:36 If you haven’t already add slight rgb variation, keep it under a difference of 10. It adds a more detailed, depth look I think.
+(Makes sense)
+creations-chat 2021-02-26 02:28:25 any feedback for me?
+creations-chat 2021-02-26 02:30:32 Correct, I’m still looking for feedback. That’s why tomorrow im building a new one, I’m about to sleep rn lmao
+help 2021-02-26 02:34:05 I don’t have any images but was wondering how you go about getting trails and stuff to work as metal wire on cockpits, fine and angled motor lock detail n stuff, and I think it’s related to camera lock.
+Anyone mind if explaining the basics or handing me a tutorial please?
+help 2021-02-26 03:23:07 Anyone
+help 2021-02-26 03:24:59 Modular weapons should be added
+help 2021-02-26 03:25:21 So, you have like bomb front, bomb back. Add any size or length of payload in between
+help 2021-02-26 03:25:32 Adjust barrel caliber and size,
+help 2021-02-26 03:25:55 Fire rate and then maybe even muzzle velocity and stuff like that
+help 2021-02-26 03:26:30 And maybe something like: after sustained fire 20 seconds reload for 10, and you can fire for longer depending on how much ammo is in your plane
+bot-central 2021-02-26 03:36:48 !help
+bot-central 2021-02-26 03:38:40 !shelp
+bot-central 2021-02-26 03:38:48 !suggestionshelp
+bot-central 2021-02-26 03:39:32 ?suggesthelp
+bot-central 2021-02-26 03:40:25 ?rhelp
+creations-chat 2021-02-27 03:35:11 Contrary to popular opinion, spread out evenly across a build I think some exposed motor lock gives a mechanical look. I don’t hate it
+creations-chat 2021-02-27 03:38:18 When I say spread out I mean, usually in smaller builds if there’s lots it almost evens out, but if you make a big build with only one or two random or exposed spots it looks horrible,
+creations-chat 2021-02-27 03:44:50 😮
+I’m poor
+help 2021-02-27 03:46:51 If I were to make a motor locked creation and also attempt to camera lock, If I attempted to attach the turning camera parts to one of the motor Lock levels it would work, because it’s welded to the main seat correct?
+creations-chat 2021-02-27 03:48:52 Going to attempt to make a bell V280 “Valor”, any tutorials, tips to watch before hand. I will be watching one for sliding doors and I’m going to test more with cameras but think I’m ready
+creations-chat 2021-02-27 16:25:42 Because the v280 valor is in development I can make alterations to the design, woohoo
+(I’m talking armament, not the shape or anything)
+creations-chat 2021-02-27 17:04:42 And I give up
+the-dump 2021-03-17 20:45:17 Goat legs
+the-dump 2021-03-17 20:45:29 WHY WONT IT SEND
+the-dump 2021-03-17 20:57:17 But they don’t have nice thighs
+the-dump 2021-03-17 20:57:20 Smh
+the-dump 2021-06-11 00:41:09 Imma post some art here because why not
+the-dump 2021-06-11 00:42:31 Burning man and a Minotaur woman I guess,
+the-dump 2021-06-11 00:53:19 I can never win lol
+the-dump 2021-06-11 00:53:52 do robots and household appliances count too?
+the-dump 2021-06-11 00:53:53 Lol
+the-dump 2021-06-11 00:53:56 Hello
+the-dump 2021-06-11 00:55:37 NOOOOOOOOOOO
+the-dump 2021-06-11 01:37:58 Thank you!
+the-dump 2021-06-11 01:38:14 Furry the
+the-dump 2021-06-11 01:38:44 How did this fucking get me
+the-dump 2021-06-11 01:41:47 Cringe, not enough tsar bombas
+the-dump 2021-06-11 01:42:02 What is the best thing to do in that game, allow me to explain
+the-dump 2021-06-11 01:42:12 Create a massive world, let your civilizations thrive
+the-dump 2021-06-11 01:42:31 After a couple minutes take your civilization of 10,000 men and women and pick them up using the magnet
+the-dump 2021-06-11 01:42:56 Put them in the ocean, surrounded by mountains
+the-dump 2021-06-11 01:43:00 Become king crab
+the-dump 2021-06-11 01:43:08 Annihilate all human life.
+the-dump 2021-06-11 01:43:40 Lol
+the-dump 2021-06-14 00:57:05 NIOOOOOOO
+the-dump 2021-06-15 21:15:22 
+the-dump 2021-06-15 21:15:47 Vreiiga Dalakhallair: Baroness of the Brackish Swamp 
+*its not a furry if it’s a fantasy world**
+the-dump 2021-06-15 21:15:49 Yes that is a leech
+the-dump 2021-06-15 21:20:52 I mean, honestly I would take that monkey over her
+the-dump 2021-06-15 21:20:57 Lore time:
+the-dump 2021-06-15 21:21:10 She’s like a fallen angel who got eaten by leeches when she fell into a swamp
+the-dump 2021-06-15 21:21:17 So, she has a bunch attached to her
+the-dump 2021-06-15 21:21:21 Including her hair
+the-dump 2021-06-15 21:22:26 Well, they’ve attached themselves to her spine or scalp
+the-dump 2021-06-15 21:22:34 Her tongue is basically a leech
+the-dump 2021-06-15 21:22:36 Kinda
+the-dump 2021-06-15 21:22:48 Well, leeches have two mouths
+the-dump 2021-06-15 21:23:06 One of them has teeth (the one for feeding) the other end is a suction cup
+the-dump 2021-06-15 21:23:33 So in that way, her tail is like a thing she can hang off of stuff and then she sucks blood or whatever with her mouth
+the-dump 2021-06-15 21:23:51 It’s a symbiote, no pain, but yeah
+the-dump 2021-06-15 21:24:09 That’s why she eats real food and blood, feed herself and the leeches
+the-dump 2021-06-15 21:24:18 No, because there are no mouth parts
+the-dump 2021-06-15 21:24:29 Think of it like the leeches mouths are the parts attached to her
+the-dump 2021-06-15 21:24:36 Alright so
+the-dump 2021-06-15 21:24:39 Il explain again
+the-dump 2021-06-15 21:24:49 The standard leech has two mouth parts
+the-dump 2021-06-15 21:24:53 One on each end
+the-dump 2021-06-15 21:25:00 Only *one* of them has a mouth
+the-dump 2021-06-15 21:25:05 The other is a suction cup
+the-dump 2021-06-15 21:25:15 The part with the actual mouth is attached to her flesh
+the-dump 2021-06-15 21:25:28 Therefore all of the “leeches” on her body are just the end bits
+the-dump 2021-06-15 21:25:39 The blood coursing through her body is what feeds the leeches
+the-dump 2021-06-15 21:25:49 Which is why she needs to drink it,
+the-dump 2021-06-15 21:25:55 Make sense at all?
+the-dump 2021-06-15 21:26:28 Again, symbiote
+the-dump 2021-06-15 21:26:41 If they kill her and they are attached to her permenantly they just die with her
+the-dump 2021-06-15 21:27:13 Again, fantasy world. If an angel can fall from the heavens who says leeches are still dumb
+the-dump 2021-06-15 21:27:31 But 32 of em
+the-dump 2021-06-15 21:27:33 Lol
+the-dump 2021-06-15 21:28:02 Lol
+the-dump 2021-06-15 21:28:14 Any other questions? XD
+the-dump 2021-06-15 21:30:27 ?
+the-dump 2021-06-15 21:30:54 Well I’m adopted and your mom is my mom, so, brother?
+the-dump 2021-06-15 21:32:09 I concur
+the-dump 2021-06-15 21:32:11 I have lost
+the-dump 2021-06-15 21:32:22 *i will bow down now*
+the-dump 2021-06-15 21:34:47 
+the-dump 2021-06-15 21:34:51 DMAN YOU
+the-dump 2021-06-15 21:35:16 Damn what should I draw next
+the-dump 2021-06-15 21:35:41 I know where that leads
+the-dump 2021-06-15 21:35:47 And no, I will not be giving birth for you
+the-dump 2021-06-15 21:35:50 I’m so sorry
+the-dump 2021-06-30 22:33:28 I hate autocorrect
+the-dump 2021-06-30 22:33:31 
+the-dump 2021-07-14 06:09:23 Happy kitty
+the-dump 2021-07-14 06:09:23 Walter white kitty
+the-dump 2021-07-14 06:10:59 Awww
+the-dump 2021-07-14 06:11:07 Literal puppy dog eyes
+the-dump 2021-07-24 23:22:18 https://youtu.be/HO_3L8jfKJI
+the-dump 2021-07-24 23:22:23 Songge
+the-dump 2021-08-15 04:17:52 Now that’s plane crazy
+the-dump 2021-08-20 06:59:08 
+the-dump 2021-08-20 06:59:11 Damn.
+the-dump 2021-08-20 06:59:31 
+the-dump 2021-08-20 06:59:33 
+the-dump 2021-08-20 06:59:39 
+the-dump 2021-08-20 07:00:03 
+the-dump 2021-08-20 07:00:08 
+the-dump 2021-08-20 07:00:21 
+the-dump 2021-08-20 07:00:34 
+the-dump 2021-08-20 07:00:40 
+the-dump 2021-08-20 07:00:55 
+the-dump 2021-08-20 07:00:58 
+the-dump 2021-08-20 07:01:01 
+the-dump 2021-08-20 07:01:12 
+the-dump 2021-08-20 07:01:17 
+the-dump 2021-08-20 07:01:21 
+the-dump 2021-08-20 07:01:24 All done
+the-dump 2021-08-20 07:05:20 Oh my
+the-dump 2021-08-20 13:31:37 
+the-dump 2021-08-20 13:31:49 
+the-dump 2021-08-20 13:32:00 
+creations-chat 2021-09-02 16:22:33 Alxti, I know how. I CANT????????
+creations-chat 2021-09-02 16:24:36 Did you even read the paragraph? There is a reason it’s one of the first things I say. I cannot export photos, terrible res, and I have to go through a whole process to get it on my phone. It takes way longer and doesn’t even end up looking worth it. That’s why.
+My computer is on life support, constantly has 3 cords plugged into it and it struggles to open more than a couple chrome tabs, so stop bugging me about it. I can’t.
+Does that answer your question?
+creations-chat 2021-09-02 16:31:06 Get a hobby other than plane crazy. You saying people with bad pcs can’t post in creations? And get a better pc, I can’t. Don’t have the money yet. So unless you’re going to buy it. Shush
+creations-chat 2021-09-02 16:35:43 Il be applying fairly soon but for the time being I don’t have one. So that’s not a possibility.
+Also like, ew. Only people with good pcs can play? 
+Since you have such a good work ethic, buy me one then.
+creations-chat 2021-09-02 16:48:26 Man I hope by responding to this I haven’t just become that guy lol
+creations-chat 2021-09-02 16:52:28 Sorry if I got fired up lol, I just dont have respect for people who say stuff like that.
+Telling someone to get a better pc is the equivalent of telling a homeless person to just buy a house all be it less serious lol
+creations-chat 2021-09-02 16:54:34 Yeah, I think In general discord servers and public lobbies get pretty toxic. 
+It’s the small servers I like more, where people actually respect eachother
+<@456226577798135808> I’ve explained this before, I can export photos but it would take a long, long time. Like I’m assuming the process would take a hour or two.
+creations-chat 2021-09-02 16:56:45 I mean this in the kindest way please read what I said, with my current platform i cannot export a photo like that, and the alternatives are terrible resolution. It’s all around not worth it.
+<@!718224997570838641> <@!401530469952389130> no I play on a laptop, but it’s basically dead
+creations-chat 2021-09-02 16:59:33 There are countless ways to do it, and that’s smart. But it literally takes 15 minutes for discord to load in and like 10 for roblox
+Any way I do it it will take somewhere around an hour to 45 minutes, it’s not worth it
+creations-chat 2021-09-02 17:02:16 Has a spot that if I hit it hard enough it shuts off, has its power cord constantly connected, a direct internet plug, basically 0 space, a terrible antenna, the list goes on.
+I’ve had it for 3-4 years and it’s been used by my mom before that. I had a new pc a while ago, and it still works great. But due to some water damage it crackles, and even though I have the money my parents refuse to let me take it in for repairs for some reason. Ignoring the fact that it can 100% be recovered
+creations-chat 2021-09-02 17:04:26 It’s hilarious because the computer “they bought” and “they trusted me with” can totally be repaired and they are too lazy to listen to me and bring it in lmaoooo.
+<@456226577798135808> it’s a terrible feedback loop, I get frustrated at how slow it is, I damage it, it gets worse.
+creations-chat 2021-09-02 17:06:46 But damn is my pc a fighter
+creations-chat 2021-09-02 19:36:39 Maybe try angle locking the nose? Maybe people think it’s clunky? <@!394735782184878082>
+creations-chat 2021-09-04 03:27:24 Ok
+creations-chat 2021-09-04 03:38:11 Spiny rotor blade hehe haha
+creations-chat 2021-09-04 03:54:06 I think it’s too late now lmao, plus I sent the unedited version a while ago. Ct scan lines but eh, it’s barebones and you see what you need to see.
+
+Turns out making photos pretty insanely backfired
+creations-chat 2021-09-04 05:51:46 Here are the unedited ones, also I already posted this creation unedited lol
+creations-chat 2021-09-04 05:54:57 Yeah it was pretty tricky, used collective pitch and for some reason it would lose altitude when pitched up, not even 45•
+
+Tips for improvement?
+creations-chat 2021-09-04 05:57:23 Mind elaborating with long? It’s most likely the camera angle. I think it’s quite nicely proportioned, then again might look off with absolutely no armament
+creations-chat 2021-09-04 06:01:28 <@!705816374462906389> So cleaning the blades, using disconnectors, trails, cylinders etc for some details and better windows could improve the build?
+I’ve actually never heard of improving the windows lol, do you mean like smoothing out the cockpit?
+creations-chat 2021-09-04 06:08:39 Considering the size of the aircraft and how slim it’s supposed to be I find that might be a bit difficult in a small space.
+Using disconnectors and trapdoors to keep it slim, not sure about any other blocks that work
+creations-chat 2021-09-04 06:11:23 I guess I could motorlock a half ball over the trapdoor glass, would that look better?
+creations-chat 2021-09-04 06:15:35 Do tell how to improve them
+Understandable.
+I get it lmao
+The rotor blades not spinning always look a bit eerie to me tho, plus, if the rotors are bland and clean then what details are we missing out on if they are blurred
+creations-chat 2021-09-04 06:20:50 Ehhh, I mean yeah sure. So even alongside the normal photos people editing photos will get downvoted?
+creations-chat 2021-09-04 06:23:54 That screen tearing is only present in that photo, it’s a simple glitch effect
+creations-chat 2021-09-04 06:27:27 Yeah man. Just keep at it I guess. There’s actually a fair amount of people that give good criticism here too
+creations-chat 2021-09-04 06:30:39 I said some, if it’s toxic talk to mods. Most of the toxic people are doing it for shits and giggles. Get over it, it just happens lmao
+creations-chat 2021-09-04 06:33:41 There’s also a difference between crit and constructive crit lol. I would say that “toxic” counts as someone breaking *you* down, not the build. After all you shouldn’t get attached to a build persay.
+creations-chat 2021-09-04 16:49:42 Maybe better suited for <#384021699466756107> but could I get some rotor blade inspo? As in, which rotor blade styles do you think look the sleekest and most appealing?
+Admittedly my last one didn’t look very sleek at all
+creations-chat 2021-09-06 06:15:32 <@!720891502108344360> Gladly, tommorow that is lol. I have a friend who helps me take photos since I can’t on my pc. So sometime tommorow when we can call and take more photos absolutely. Sorry if that’s a bummer.
+creations-chat 2021-09-06 16:30:14 Would you say that this is an improvement to my my older helo?
+(Older towards the bottom)
+creations-chat 2021-09-06 16:39:34 Now that I look back the old rotors look disgusting, not that the new ones are perfect
+creations-chat 2021-09-06 16:47:46 Pardon?oh yeah lol very true
+creations-chat 2021-09-06 16:50:14 The old one doesn’t need motion blur since it already looks like it’s melting away <@!705816374462906389>
+creations-chat 2021-09-06 16:53:07 I don’t make nearly enough prop builds, maybe il see if I can who knows. After I’m done making Señor Rocc tho
+creations-chat 2021-10-09 16:22:49 Apologies for literal screenshot, thoughts on the mirage iii so far?
+creations-chat 2021-10-09 16:24:51 Any ideas? Il obviously paint it n stuff too lololol. Ideas for extra details I mean. (Il add the nose thingy)
+<@!714878625484243101> how so? You seem quite experienced give me some tips for improvement. Confused with your second point, it’s pretty vague
+creations-chat 2021-10-09 16:35:12 Not circular but best I can get with the conveyor part. Oh wait actually
+creations-chat 2021-10-09 16:39:06 How’s this
+creations-chat 2021-10-09 16:41:48 If you’re talking about the mirage that’s why I chose it. This is my first jet build so I’m trying something simple
+creations-chat 2021-10-09 16:44:12 Honestly the body doesn’t look too bad in my opinion. I suggest trying to motorlock some parts in to smooth out the edges and make custom control surfaces on the wings if you know how.
+creations-chat 2021-10-09 16:46:15 Just suggestions 😛 EW I HATE DISCORD EMOJIS
+creations-chat 2021-10-09 16:50:58 At the frontish where the wings and the intakes me the fuselage
+creations-chat 2021-10-09 16:53:39 Np
+creations-chat 2021-11-14 17:27:47 Looks sickk
+creations-chat 2022-01-01 00:05:14 Isn’t it tilted upwards? I mean the nose is large but the upwards pitch affects perspective so I don’t think it’s too bad at all
+creations-chat 2022-01-01 00:14:48 Yeah I agree
+creations-chat 2022-01-02 00:51:25 Mind if I give my BASED opinion on tutorials?
+Damn dude…
+creations-chat 2022-01-02 00:56:50 Tutorials aren’t a bad thing on their own. I mean think about it, lego set instructions are basically tutorials. You build, deconstruct and rebuild until you can basically do it from memory, or change it to something new that suits you. That’s the same principle. They are a good place to start, especially considering the other options new players choose could be shredders, spam vehicles etc. If you’re ACTUALLY TAKING THE TIME to analyze the systems of someone’s build, you can use that information to be if it your future builds. Like, the way I learned how to motorlock was my friend showed me, but a lot of people I’ve played with have learned form builds, and then taking that one system to build something completely new around it. All things said, tutorials are a starting point, but you aren’t learning if you stay inside your comfort zone or analyzing how things work. If someone has a couple tutorials and they give credit, who cares. It’s only when people discredit and continuously repeat tutorials without progressing building skill that it is a bad thing.
+
+(Good lord so sorry that’s long)
+
+(Oh and before you continue, whatever situation is going on I’m not aware of. This is an unbiased opinion on tutorials themselves, if someone is posting a tut in creations though, to hell with em’.)
+creations-chat 2022-01-02 00:59:09 S e r i o u s l y XD
+creations-chat 2022-01-02 01:01:32 And I 1000% agree with you on that point. I used a few tutorials when I started out building to learn how motor 2s work, how rotor blades work. But I’m using it to learn, not as a cheat sheet yknow? It’s kind of like, understand the formula until you know it by heart, but don’t sneak a cheat sheet into the test.
+(The test being the gamescape/the creations channel. Also, there’s a whole other debate about understanding and memorization but I hope you get what I mean)
+creations-chat 2022-01-02 01:05:49 *”Well in some sense I feel as though I took what is already there and made it better than the creator couldv'e done. I see it as maybe a team effort and after I changed it I decided to change it again and again so it was more and more of what I can consider my own creation.”*
+
+The problem is in your first couple phrases. Firstly, you can’t make someone ELSES build better, kinda. Because their final mental image of a build would be completely different from yours, regardless of the level of execution achieved. Not only that but the “team effort” stance is flawed. Unless you give credit to them it isn’t a team effort, and you can’t take full responsibility for a build that you claim isn’t completely yours. That logic doesn’t make too much sense.
+the-dump 2022-01-13 02:52:49 Okay then
+the-dump 2022-01-14 17:07:38 
+the-dump 2022-01-14 17:12:13 Convert to gif god damnit
+the-dump 2022-01-14 17:13:20 Please work discord
+the-dump 2022-01-14 17:13:27 Sigh
+the-dump 2022-01-14 17:14:19 https://streamable.com/evc9c1
+the-dump 2022-01-14 17:14:25 Finally
+creations-chat 2022-02-02 01:55:45 Oh my gosh it’s mike wazowski!
+the-dump 2022-02-11 00:27:52 
+the-dump 2022-02-11 00:27:56 NOOOO
+the-dump 2022-02-11 00:28:03 WHY DIDNT YOU SHOW ME THE VIDEO POPUP
+the-dump 2022-02-22 00:13:28 Thanks
+the-dump 2022-02-22 00:13:31 https://streamable.com/gw3fja
+the-dump 2022-02-22 00:13:53 <:BIG1:588443768806703124> <:BIG2:588443778554134540> <:BIG3:588443788721258534> <:BIG4:588443798842114088>
+the-dump 2022-02-22 00:13:57 Damnit
+the-dump 2022-02-22 00:14:07 💀
+the-dump 2022-03-01 12:28:57 Dw about it
+the-dump 2022-03-01 12:29:06 It’s not nearly as painful as you think it’s gonna be
+the-dump 2022-03-01 12:29:15 Go on
+the-dump 2022-03-01 12:29:25 Just go white
+the-dump 2022-03-01 12:29:33 Or like, blue idk
+the-dump 2022-03-01 12:29:45 Don’t do a color that looks yellowy or like stuff in your teeth
+the-dump 2022-03-01 12:29:55 Maybe pink since it goes with your gums too
+the-dump 2022-03-01 12:30:07 Np
+the-dump 2022-03-01 12:43:08 Fine
+the-dump 2022-03-15 22:30:23 Can we link YouTube videos?
+the-dump 2022-03-15 22:30:54 Wtf
+the-dump 2022-03-15 22:31:25 Okay anyways
+the-dump 2022-03-15 22:31:27 https://youtu.be/R-WB9x7L9u4
+the-dump 2022-03-15 22:31:37 I’m so mad one shot has scan lines but oh well
+the-dump 2022-03-17 03:44:52 Is sprocket worth it?
+creations-chat 2022-03-19 11:20:04 Brightness issue
+creations-chat 2022-03-19 14:33:57 Oh well lol
+bot-central 2022-05-03 23:00:12 -pc1access
+bot-central 2022-05-03 23:04:27 -pc2earlyaccess
+bot-central 2022-05-03 23:04:33 rip
+bot-central 2022-05-03 23:05:02 -pc2earlyaccess
+bot-central 2022-05-03 23:05:29 chill aerojet
+the-dump 2022-07-09 18:41:31 You gotta kill two and save one. Who you picking (important)
+the-dump 2022-07-09 18:53:43 Quit being a snowflake
+the-dump 2022-07-09 18:53:47 🤓💀👹🥰
+the-dump 2022-07-09 19:05:47 
+the-dump 2022-07-09 19:06:09 Guys pwease vote on my messawge 🥺🥺🥺
+the-dump 2022-10-13 01:07:18 DYNO WHY
+the-dump 2022-12-25 16:24:09 ❤️love my friends❤️

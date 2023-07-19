@@ -1,17 +1,87 @@
-iduschoi
-plane-crazy 2020-07-29 08:41:47 <:Thonk:509498568982134816>
-plane-crazy 2020-07-29 08:41:28 
-plane-crazy 2020-07-26 10:10:05 conveyor drive = warp drive
-plane-crazy 2020-07-12 10:44:22 light speed lol
-plane-crazy 2020-07-12 10:44:12 
-plane-crazy 2020-07-07 01:14:52 FIRE
-plane-crazy 2020-07-07 01:14:50 
-plane-crazy 2020-07-07 01:14:42 LOADING...
-plane-crazy 2020-07-07 01:14:37 
-plane-crazy 2020-07-07 01:14:20 BFG 10000 IN PLANE CRAZY
-plane-crazy 2020-07-07 01:14:10 
-plane-crazy 2020-06-02 17:13:34 
-plane-crazy 2020-06-02 17:13:21 
-plane-crazy 2020-06-02 17:13:11 
-plane-crazy 2020-06-02 17:13:03 
-plane-crazy 2020-06-02 17:12:57 
+The Tale of iduschoi (546212057490522153)
+bug-reports 2020-05-17 03:34:24 i Found problems with camera angle changes not properly stored since this update
+bug-reports 2020-05-17 03:35:19 I changed the camera angle and saved it, but there was a problem.
+bug-reports 2020-05-17 03:36:42 Changing the angle with the purple selection tool has not been saved.
+bug-reports 2020-05-17 03:37:12 vo
+bug-reports 2020-05-17 03:37:14 no
+bug-reports 2020-05-19 04:29:30 Has the camera angle setting change been corrected for the error of not being saved?
+creations-chat 2020-09-09 11:46:11 
+creations-chat 2020-09-09 11:46:21 
+creations-chat 2020-09-11 04:34:06 
+creations-chat 2020-09-11 04:34:16 
+creations-chat 2020-09-11 04:34:21 <:Thonk:509498568982134816>
+creations-chat 2020-09-11 04:34:56 
+creations-chat 2020-09-11 04:35:40 <:thchoink:527880803456122891>
+creations-chat 2020-09-13 03:24:16 
+creations-chat 2020-09-13 03:24:21 <:Thonk:509498568982134816>
+creations-chat 2020-09-13 03:24:39 <:thconking:535171057649188865>
+creations-chat 2020-09-13 13:46:17 
+creations-chat 2020-09-13 13:46:32 warp afterbuner
+creations-chat 2020-10-09 13:24:11 l e g
+creations-chat 2020-10-13 08:57:25 
+creations-chat 2020-10-13 08:57:41 R O C K E T
+creations-chat 2020-10-21 11:52:50 
+creations-chat 2020-10-21 11:55:31 https://youtu.be/MaP_qTppD_c
+creations-chat 2020-10-21 12:01:31 <:Thonk:509498568982134816>
+creations-chat 2020-10-21 14:34:49 missile launch
+creations-chat 2020-10-21 14:35:57 hcunal elissim
+creations-chat 2020-10-30 13:00:48 🤔
+creations-chat 2020-10-30 13:02:25 🤨
+creations-chat 2020-11-16 11:39:28 
+creations-chat 2020-11-16 11:41:08 
+help 2021-01-20 12:18:22 How should I control the shaking that occurs when I connect the motor-2?
+help 2021-01-20 12:24:59 So there's no way to stop instability?
+help 2021-01-20 12:27:02 Oh, it's settled, two motor-2s on each side, stabilized.
+help 2021-01-20 12:29:50 It's even more unstable now that we've reducing torque.
+help 2021-01-20 12:31:28 
+help 2021-01-20 12:33:15 
+help 2021-01-20 12:33:50 
+help 2021-01-20 12:34:12 It's stable like this is stable.
+creations-chat 2021-01-31 07:23:27 <:KEKW:670310537300672528>
+creations-chat 2021-08-14 09:38:22 Venture?
+creations-chat 2021-09-04 02:12:31 How should i engrave the grid?
+creations-chat 2021-09-04 02:14:48 
+creations-chat 2021-09-25 07:09:07 
+creations-chat 2021-10-03 04:01:42 
+creations-chat 2021-10-03 04:05:50 yes
+creations-chat 2021-10-16 08:50:26 ⚠️
+creations-chat 2021-10-26 04:48:38 Presenting a new paradigm for shredder bug:
+creations-chat 2021-10-28 04:28:29 https://cdn.discordapp.com/attachments/546212535108501535/903137896729546822/20211028_132621.png
+
+https://cdn.discordapp.com/attachments/546212535108501535/903137925510873108/20211028_132640.png
+
+https://cdn.discordapp.com/attachments/546212535108501535/903137948701171742/20211028_132658.png
+
+https://cdn.discordapp.com/attachments/546212535108501535/903137977616728084/20211028_132720.png
+
+
+595 block in 3x3x7
+creations-chat 2021-11-10 00:49:16 
+creations-chat 2021-11-10 00:52:16 wip Aurora MR (spaceship)
+creations-chat 2021-11-10 05:36:17 
+creations-chat 2021-11-10 05:39:25 Aurora MR (Star Citizen)
+creations-chat 2021-11-10 06:12:54 
+creations-chat 2021-11-10 06:21:46 
+creations-chat 2021-11-10 07:06:16 
+creations-chat 2021-11-11 03:05:18 https://cdn.discordapp.com/attachments/546212535108501535/908189963022114826/20211111_115624.png
+
+AURORA MR
+creations-chat 2021-11-11 03:12:59 https://cdn.discordapp.com/attachments/546212535108501535/908192467055161354/maxresdefault.png
+
+https://cdn.discordapp.com/attachments/546212535108501535/908190107847233536/20211111_115745.png
+creations-chat 2021-11-11 03:15:29 https://cdn.discordapp.com/attachments/546212535108501535/908192950285123614/RSI_Aurora_cropped-scaled.png
+
+https://cdn.discordapp.com/attachments/546212535108501535/908193024499122227/unknown.png
+creations-chat 2021-11-11 03:20:44 ye
+creations-chat 2021-11-11 03:30:23 https://cdn.discordapp.com/attachments/546212535108501535/908196695404335144/unknown.png
+creations-chat 2021-11-12 02:39:49 backroom?
+creations-chat 2021-11-12 02:54:03 <@740641695783321670> A brown bed with a red blanket on the left side of the room, a desk, a chair, and a bookshelf on the right, and a green carpet in the middle of the room.
+creations-chat 2021-11-12 02:56:04 Green carpet would go well with that room.
+creations-chat 2021-11-12 03:30:24 Niceeeeeee
+bot-central 2021-11-12 05:57:41 !rank
+bot-central 2021-11-13 03:50:19 $nes
+bot-central 2021-11-13 09:28:35 $nes
+bot-central 2021-11-13 09:28:40 $new
+creations-chat 2021-11-15 08:20:26 contemporary art
+creations-chat 2021-11-25 04:49:56 
+creations-chat 2021-11-26 03:48:57 <@456226577798135808>Where is this place?

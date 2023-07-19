@@ -1,7 +1,14 @@
-almostmaxq
-plane-crazy 2020-05-29 06:12:02 :C
-plane-crazy 2020-05-29 06:00:15 is there a corner wedge for a half wedge?
-plane-crazy 2020-05-28 23:41:46 :C
-plane-crazy 2020-05-28 23:41:19 can you attach things to the side of cylinders?
-plane-crazy 2020-04-20 10:11:10 :C
-plane-crazy 2020-04-20 10:10:49 is it possible to put two half blocks in a 1x1 space?
+The Tale of almostmaxq (298525010212159490)
+the-dump 2020-04-08 04:28:13 https://gyazo.com/4a725d5895d3e2e8e10632ed8322e90b
+Stuck in a landing loop... 👀
+the-dump 2020-04-15 17:19:02 https://cdn.discordapp.com/attachments/497142796961054721/700030772744290314/unknown.png
+bot-central 2020-05-28 23:43:12 ?shelp
+bot-central 2020-05-28 23:44:31 ?rhelp
+help 2020-05-29 10:41:17 Alright so I have a WIP Falcon 9 w/ Dragon but I have no idea how to stabilize it. I tried using propellers, but then the rocket flips over during ascent. Any ideas on what I could do?
+help 2020-05-29 10:44:26 Where should I put them?
+help 2020-05-29 10:44:57 
+help 2021-07-31 14:13:18 Is there any way to stop something with multiple motor joints from going haywire?
+help 2021-07-31 15:26:35 nvm I put hover thrusters with max drag on it to stop it from shaking
+the-dump 2021-09-22 08:04:51 I got trolled by the discord notif
+the-dump 2021-09-22 08:06:43 lmaoo
+the-dump 2021-12-18 21:12:31 not very jolly of you sir

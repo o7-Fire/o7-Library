@@ -1,0 +1,109 @@
+The Tale of lacabre (856204514000502825)
+creations-chat 2022-04-17 17:05:21 I wonder
+creations-chat 2022-04-17 17:07:05 Has anybody made a gun in this game?
+help 2022-09-30 09:52:59 soo, my angle locking tilted in a weird way and it made the cockpit unsymmetrical, I've checked that the motor for the angle lock is locked, can anybody explain why is it tilting and making my cockpit unsymmetrical? (ignore the shitty colours and random bits of spring, it's still a wip)
+help 2022-09-30 09:54:39 (another image incase the first one wasn't clear enough)
+help 2022-09-30 09:57:42 springs fucked it up the first time I decided to ss it.
+help 2022-09-30 10:24:46 I did not.
+help 2022-09-30 10:24:53 Though, I did use cam locking.
+help 2022-09-30 10:25:01 On the other parts of the cockpit.
+help 2022-09-30 10:25:15 They're literally 20 blocks away from eachother.
+help 2022-09-30 10:25:51 and this tilt happens even before the anglelock tower comes together.
+help 2022-09-30 13:58:07 I still want help for this and general tips for anglelocking.
+help 2022-10-02 07:01:23 Can somebody explain to me, why the fuck did my anglelock break the symmetry?
+help 2022-10-02 07:02:02 In what part?
+help 2022-10-02 07:02:20 The thing that is broken is that the anglelocked part kinda tilts to the side.
+help 2022-10-02 07:02:42 It’s not the tower that is broken, it is the motor. Can anybody tell me why?
+help 2022-10-02 07:03:09 (the other parts of the cockpit were made with cam locking, so they’re not broken)
+help 2022-10-02 08:10:54 for the tower they’re locked and unpowered, for the anglelocking one locked and powered.
+help 2022-10-02 08:11:06 With the default speed and torque
+help 2022-10-02 08:24:02 I am still working on it, though I still wonder.
+help 2022-10-02 08:24:07 Why the fuck is it tilting like that?
+help 2022-10-02 08:24:28 The front?
+help 2022-10-02 08:24:38 It’s not aligned with the cam locked portions of the cockpit.
+help 2022-10-02 08:27:36 Lemme explain it then.
+help 2022-10-02 08:27:46 So, there are 2 parts of the wip cockpit I am making
+help 2022-10-02 08:27:55 the first consists of 2 blocks, and is cam locked,
+help 2022-10-02 08:28:02 They are in the back
+help 2022-10-02 08:28:10 the anglelocked portion is in the front, and it’s tilted.
+help 2022-10-02 08:28:13 for no reason.
+help 2022-10-02 08:30:16 God damnit.
+help 2022-10-02 08:30:29 No wonder I observed the grey part of the motor that I used tilting to the right.
+help 2022-10-02 08:30:47 Fuck damnit, might as well do even more advanced camlocking.
+help 2022-10-02 11:15:02 Aside from bigger intakes and landing gears, any improvements that I could possibly make?
+help 2022-10-02 11:16:00 <@809781295500099584> It's weird how quickly I can go from being confused on how tf am I supposed to cam lock it, to literally doing it to everything.
+help 2022-10-02 11:43:57 They’re just exposed hover thrusters, it’s part of my design.
+the-dump 2022-10-02 12:10:27 Sorry, not sorry.
+help 2022-10-02 12:16:13 Motor 2s can follow your mouse and can have angle limits, and they can be made to respond to keybinds. And turning on the toggle function without the servo function can allow you to make the motor stop following your mouse when you press the key bind, the start following again after you press it.
+help 2022-10-02 12:17:00 Why, who says so?
+help 2022-10-02 12:17:13 It’s anybody’s choice to use whatever control scheme you want.
+help 2022-10-02 12:17:31 I don’t give a crap.
+help 2022-10-02 12:18:52 Disagreed.
+help 2022-10-02 12:19:10 You can toggle off m2m by enabling the toggle feature on motor 2s.
+help 2022-10-02 12:19:24 Which stops your wings from moving.
+help 2022-10-02 12:19:38 And, who says you can’t just turn your nose around?
+help 2022-10-02 12:19:41 It’s plane crazy.
+help 2022-10-02 12:19:46 Not fucking DCS
+help 2022-10-02 12:20:04 M2m does that for you…
+help 2022-10-02 12:20:13 +you can just point your nose at the enemy….
+help 2022-10-02 12:20:34 Your opinion, not mine,
+help 2022-10-02 12:20:48 Sorry pal, we’re going at more than 2k speeds.
+help 2022-10-02 12:21:04 +we would just use engines to help
+help 2022-10-02 12:21:11 and also keyboard controls would also suffer
+help 2022-10-02 12:21:19 unless they also use engines to help.
+help 2022-10-02 12:21:39 Turning?
+help 2022-10-02 12:21:42 Pitching?
+help 2022-10-02 12:21:44 Rolling?
+help 2022-10-02 12:22:03 That’s what I alr use….
+help 2022-10-02 12:22:10 Jesus christ, also
+help 2022-10-02 12:22:16 Nobody needs that quick of a roll.
+help 2022-10-02 12:22:28 If I wanted that, I would have made actual ailerons.
+help 2022-10-02 12:23:36 Also because of my angled rudders on my jet, it rolls regularly every second I do anything.
+help 2022-10-02 12:23:53 I think it’s just a side effect of them and my incomplete tuning.
+help 2022-10-02 12:24:09 I plan on retuning the jet when I am actually done with it.
+help 2022-10-02 12:24:18 Since that crap right there is a wip.
+help 2022-10-02 12:24:35 Great looks don’t do shit when it can’t do things like taxi.
+help 2022-10-02 12:25:15 ahahah, though if I am being fr with ya
+help 2022-10-02 12:25:34 It is quite stable at speeds of 1.2 sps.
+help 2022-10-02 12:25:41 It’s enough speed for me.
+help 2022-10-02 12:26:29 If I wanted speed, I’d use my horrible “sr-71” that looks worse than a roll of toilet paper.
+help 2022-10-02 12:27:12 That can go a little over 6k.
+help 2022-10-08 08:36:08 Are there any compact thrust vectoring designs that I could use that are capable of high vectoring angles?
+help 2022-10-09 04:25:47 What thrust vectoring designs that are reliable and that I could use? Preferably, they don’t use super rockets.
+help 2022-10-21 10:15:24 Any thrust vectoring designs that I could use? Preferably it’s 3d (ie. can do pitch roll and yawing motions.)
+help 2022-10-21 10:16:04 (also it’s for a double engined jet)
+help 2022-10-21 10:17:02 ahhh alr.
+help 2022-10-21 10:17:24 I alr have one of my own though it made the rear of my jet a little fucked up.
+help 2022-10-21 10:17:35 It’s currently only 2d rn, but I do have a working design for 3d.
+help 2022-10-21 10:18:05 It’s just that the jet’s body is in the way and I need space for the mechanism.
+help 2022-10-21 10:18:18 There are tutorials for 3d thrust vectoring mechanisms.
+help 2022-10-21 10:18:25 Though they are relatively bulky.
+help 2022-10-21 10:18:58 And it’s quite hard to make space for the mechanism to actually yaw.
+help 2022-10-21 10:19:10 The problem is with space, not really the engines.
+help 2022-10-21 10:19:17 As hover drives are really compact.
+help 2022-12-09 00:56:08 Messed around in mobile and I discovered that you can’t cam-lock there, if I am wrong please tell me how to cam-lock over there lmao.
+help 2022-12-09 01:58:04 I asked for cam-locking, not a stupid and overused joke. ❤️
+help 2022-12-09 02:01:04 I’ve seen ping rick at least 10 times before, coincidence? I think not.
+help 2022-12-09 02:02:46 Sorry, but it’s just me messing around in mobile.
+help 2022-12-09 02:03:00 Not that I need to trouble anybody to camlock on mobile lmao.
+help 2022-12-09 02:10:37 lock or block?
+help 2022-12-09 02:22:40 it’s cam-lock, not cam-Block
+help 2022-12-09 02:23:45 What section is it in?
+help 2022-12-09 02:24:40 If the name of the block is “camera” you should not be surprised that I do know what it is
+help 2022-12-09 02:28:08 Supermanueverability
+help 2022-12-09 02:29:32 Nah, it’s more
+help 2022-12-09 02:29:39 going at a low speed and
+help 2022-12-09 02:29:48 having good control surfaces or thrust vectoring.
+help 2022-12-09 02:29:58 Just look at how it’s done irl.
+help 2022-12-09 02:32:14 Disgusting post-stall engines.
+help 2022-12-09 02:38:08 One of my tailess jets based off the Saab J-35 could do a cobra, this time it actually fucking stalls as it should in one.
+help 2022-12-09 02:39:58 Drop???
+help 2022-12-09 02:40:04 It’s called a “super stall”
+help 2022-12-09 02:40:15 You stay basically still midair in one.
+help 2022-12-09 02:40:29 No drop in altitude, just you staying still midair.
+help 2022-12-09 02:40:46 There may be a little bit of forward motion, but it’s effectively still.
+help 2022-12-09 02:42:31 wdym by “doubling”?
+help 2022-12-09 02:43:14 reduce?
+help 2022-12-09 02:43:25 A cobra is literally you turning into one huge drag chute.
+help 2022-12-09 02:45:01 Tbh, just make your jet unstable.
+help 2022-12-09 02:45:29 Something like an F-16 can kinda do a cobra even when it does not have supermanueverability

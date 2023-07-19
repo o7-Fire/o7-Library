@@ -1,0 +1,15 @@
+The Tale of twinkmassacere (483042234216873994)
+bug-reports 2020-08-03 23:38:20 so the bug I'm reporting is the motors don't work on the vtol jet I'm making( i followed a you tube video), I've removed some of the blocks around it and removed the second motor but it still wont work
+help 2020-08-04 04:17:06 im going here beacuse bug report was no help, basicly im making a vtol jet from a tutorial and the motor wont turn at all, ive moved the blocks around it and it still wont work, any suggestions?
+help 2020-08-04 04:17:44 whats that
+help 2020-08-04 04:18:19 ill try
+help 2020-08-04 04:18:21 thanks
+help 2020-08-04 04:18:57 thanks
+help 2020-08-04 04:18:59 it worked
+creations-chat 2020-08-11 01:03:05 does anyone know a way to make wings on motors less responsive, control panels were too slow so i switched to motors and wings but its way to responsive?
+creations-chat 2020-08-11 01:03:48 both of them are at 1
+creations-chat 2020-08-11 01:03:52 1 speed
+creations-chat 2020-08-11 01:04:10 really?
+creations-chat 2020-08-11 01:04:16 danm
+creations-chat 2020-08-11 01:04:51 thank you
+creations-chat 2020-08-11 01:04:53 it works

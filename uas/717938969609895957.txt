@@ -1,0 +1,21 @@
+The Tale of gamechord (717938969609895957)
+bot-central 2022-01-09 00:44:04 ?shelp Add Locking function to Motor 2s
+bot-central 2022-01-09 00:44:11 .
+bug-reports 2022-05-17 04:36:01 In plane crazy, on "tracks" that require lots of folding with motor 2's they dont go in the right direction 90% of the time, and you have to keep clicking the assigned keybind until they finally work
+bug-reports 2022-05-17 04:37:48 Sometimes the Motor 2s dont fold in the right direction. Basically both keybinds move the motor in the same direction
+bug-reports 2022-05-17 04:39:03 Whenever I use a locked motor, I have to use anchor blocks with "Physics" and they get really glitchy.
+bug-reports 2022-05-17 04:50:05 no help? :/
+bug-reports 2022-05-18 23:01:25 Audio in Plane Crazy is really quiet, even at max volume. Only happens with certain audio
+bug-reports 2022-05-18 23:44:42 lol, okay
+bug-reports 2022-05-20 01:24:15 Audio issue. When playing some audio my friends couldn't hear it. I thought it may be just my their end but when they played audio I couldn't hear it. Please fix this
+bug-reports 2022-05-21 04:08:21 Unable to control pistons if I get out of the Main Pilot seat and get back in
+bug-reports 2022-05-22 00:06:06 Unable to control pistons if I get out of the Main Pilot seat and get back in
+bot-central 2022-05-23 00:25:16 !rank
+bug-reports 2022-06-08 02:07:45 Unable to select tools like the build tool, delete tool, etc right after I exit fly mode
+bug-reports 2022-06-08 03:14:14 I can't select the tools for like 45 seconds straight. I don't think its lag.
+bug-reports 2022-06-08 03:20:22 Okay, I'm here to report a possible bug that didn't really seem like lag. That's all
+bug-reports 2022-06-08 03:20:41 alr
+bug-reports 2022-06-08 05:13:45 The same exact thing just happened to me
+bug-reports 2022-07-15 03:44:24 Unable to control pistons when I switch from a Main Pilot Seat to a Pilot Seat.
+bug-reports 2022-10-04 03:55:40 Lights: The lights just turn off after a while. I don't hit any keybinds, and they just kinda fade off.
+bug-reports 2022-10-04 04:00:05 Alr, not the best bug for making a literal stage

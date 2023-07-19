@@ -1,0 +1,577 @@
+The Tale of xenocat (521855442608193537)
+bot-central 2021-04-08 02:45:35 !rank
+bot-central 2021-04-08 02:45:40 oh
+bot-central 2021-04-08 03:11:39 !rank
+bot-central 2021-04-08 13:23:23 !rank
+bot-central 2021-04-08 13:32:48 !rank
+help 2021-04-08 13:36:35 use 3d models
+help 2021-04-08 13:36:55 sketchfab is a great place to look
+the-dump 2021-04-08 13:38:56 yeah
+the-dump 2021-04-08 13:39:02 great shape tho
+help 2021-04-08 13:40:35 Hmm
+I guess you could search on google, but getting a lot of pictures with different angles should help you get an idea of the exact shape
+bot-central 2021-04-08 13:57:54 !rank
+help 2021-04-08 14:01:32 attach is right
+help 2021-04-08 14:02:52 I don;t think that's the issue here but reducing torque on motors does help with jitteriness sometimes
+creations-chat 2021-04-08 14:04:41 <@!761850987714445344> how many hours do you have in plane crazy?
+creations-chat 2021-04-08 14:09:23 Ah, not too much experience, but some. I would consider using wedges and more advanced design tricks
+creations-chat 2021-04-08 14:12:00 I should point out that all of you who are insulting it so bad should have some respect for the fact that an inexperienced player felt confident enough to post his build
+the-dump 2021-04-08 14:43:35 what
+the-dump 2021-04-08 14:46:06 Indeed
+the-dump 2021-04-08 14:46:10 What of it?
+the-dump 2021-04-08 14:46:25 a n d ?
+the-dump 2021-04-08 14:47:39 Hm yes doom guy pfp hates furries
+the-dump 2021-04-08 14:47:44 i am very shocked
+the-dump 2021-04-08 14:48:01 ah
+the-dump 2021-04-08 14:48:05 my mistake
+the-dump 2021-04-08 14:50:59 > Furries get blocked
+Better than having to listen to people berate me
+the-dump 2021-04-08 14:51:31 english?
+the-dump 2021-04-08 14:52:06 epic
+the-dump 2021-04-08 14:52:50 "No not the french!
+Anything but the french!"
+the-dump 2021-04-08 14:54:03 still don't get what this means
+the-dump 2021-04-08 14:54:25 ***n o***
+the-dump 2021-04-08 14:55:11 sp00ky
+the-dump 2021-04-08 14:57:06 Hm yes 
+***t o a s t e r***
+the-dump 2021-04-08 14:58:33 congrats on coming out
+the-dump 2021-04-08 14:59:15 Mood
+the-dump 2021-04-08 15:00:32 he speen
+the-dump 2021-04-08 15:04:23 8 year olds on csom be like
+the-dump 2021-04-08 15:11:43 It's anime style
+the-dump 2021-04-08 15:11:49 so it's anime
+the-dump 2021-04-08 15:13:05 no
+the-dump 2021-04-08 15:13:06 bad
+the-dump 2021-04-08 15:13:09 disgusting
+the-dump 2021-04-08 15:14:55 ^
+the-dump 2021-04-08 15:15:11 bet
+the-dump 2021-04-08 15:16:04 agreed on that
+the-dump 2021-04-08 15:16:26 not sure about 30% tho
+the-dump 2021-04-08 15:18:04 memetic kill agents be like
+the-dump 2021-04-08 15:19:27 so is all art
+the-dump 2021-04-08 15:19:33 all art is anime?
+the-dump 2021-04-08 15:21:58 r o t a t e
+the-dump 2021-04-08 15:44:48 jeSUS
+the-dump 2021-04-08 15:45:46 E
+creations-chat 2021-04-09 17:46:54 That heli looks quite good. I might make the colors more muted but that's just me
+creations-chat 2021-04-09 17:48:57 Oh i meant like make the red and green values higher or bring the blue value down a bit.
+creations-chat 2021-04-09 18:45:46 I swear nobody in this server has a sense of humor
+the-dump 2021-08-26 16:47:34 epic b-24
+the-dump 2021-08-26 16:50:34 angle lock
+the-dump 2021-08-26 16:51:15 angle lock is good for fuselage
+the-dump 2021-08-26 16:51:54 nice
+the-dump 2021-08-26 16:52:23 yes
+the-dump 2021-08-26 16:52:35 make it but extended
+the-dump 2021-08-26 17:04:57 show
+help 2021-08-26 17:20:06 cameras or text
+help 2021-08-26 17:20:32 might not work tho with text
+help 2021-08-26 17:25:27 actually that reminds me
+help 2021-08-26 17:25:44 there's a cool technique you can use to make removable motor lock
+help 2021-08-26 17:26:29 oop my bad
+help 2021-08-26 17:26:32 i meant folding lol
+help 2021-08-26 17:27:42 basically if you attach the  fold struts to the build with disconnectors, you can then use magnets to weld the pieces together and then remove the folding motor
+help 2021-08-26 17:28:07 it only works if you use a motor 2 tho
+help 2021-08-26 17:28:19 and the magnets gotta have a range under 15
+help 2021-08-26 17:28:46 A friend taught me it
+help 2021-08-26 17:28:58 it's not common knowledge as far as i know
+the-dump 2021-08-26 17:49:58 fimsh
+the-dump 2021-08-26 17:54:49 f
+bug-reports 2021-08-26 18:00:14 use delete tool to see if there's a text sign or something there
+bot-central 2021-08-27 12:22:30 !rank
+help 2021-08-27 12:28:43 I have a question about the general requirements for aeronautical engineer rank
+help 2021-08-27 12:30:27 For the requirements "plane cannot use helium" and "all block's must be attached to the plane", what are the exceptions to that?
+help 2021-08-27 12:31:34 Cuz I have a plane that uses some helium and disconnectors for its angle locked setup and I'm wondering if that makes it invalid?
+creations-chat 2021-08-27 15:29:04 Where?
+help 2021-08-28 15:20:39 Idk what to build but I really want to right now. Any ideas?
+bot-central 2021-09-03 16:12:23 -ms
+bot-central 2021-09-03 16:12:31 -ms hard
+bot-central 2021-09-03 16:36:03 -ms
+bot-central 2021-09-03 16:36:15 -help
+bot-central 2021-09-03 16:37:12 -ms 9 9 7
+bot-central 2021-09-03 16:38:25 -ms 9 9 50
+bot-central 2021-09-03 16:38:54 -ms 9 9 25
+help 2021-09-06 19:04:28 I just finished making a pby-5 catalina and don't know what to do now. Can i get suggestions for something to build?
+help 2021-09-07 20:11:03 can i get suggestion for a warplane to build please?
+bot-central 2021-09-16 17:30:44 !help
+bot-central 2021-09-16 17:37:40 ?rhelp
+the-dump 2021-09-16 18:15:23 motor 2 is epic
+the-dump 2021-09-16 18:15:33 aimable
+the-dump 2021-09-16 18:15:38 and angles
+the-dump 2021-09-16 18:17:10 oof
+the-dump 2021-09-16 18:19:31 up: custom elevators/ailerons/rudders
+the-dump 2021-09-16 18:19:36 whats the torque
+the-dump 2021-09-16 18:19:48 set to 1000
+the-dump 2021-09-16 18:20:08 all
+the-dump 2021-09-16 18:21:51 then turret is too heavy
+the-dump 2021-09-16 18:23:56 idk
+the-dump 2021-09-16 18:24:29 https://tenor.com/view/melon-cat-funny-watermelon-eating-gif-17218443
+the-dump 2021-09-16 18:24:51 ye
+the-dump 2021-09-16 18:25:51 <:nooo:787097964946259978>
+creations-chat 2021-09-16 18:47:08 depends on if irl or not
+creations-chat 2021-09-16 21:55:49 https://discord.com/channels/384021699466756103/384025409945337856/888180432556937276
+<@!840710355550076938>  nice try but this is literally a post from hall of fame:
+https://discord.com/channels/384021699466756103/627195143040139264/726596164606230561
+creations-chat 2021-09-16 21:58:01 lol
+help 2021-09-17 13:13:19 look at 3d model to help understand it?
+creations-chat 2021-09-17 15:18:56 Make front more pointy
+creations-chat 2021-09-17 15:31:04 Nice
+help 2021-09-20 16:28:52 Are the explosive blocks set to explode on impact?
+help 2021-09-20 16:29:12 It's probably lag then
+the-dump 2021-09-22 17:05:20 most of the sky is below your feet
+the-dump 2021-09-22 17:09:00 People say that life is short but it's the longest thing you will ever experience
+the-dump 2021-09-22 17:09:36 Brazil is sus
+help 2021-09-22 18:56:48 a bucket wheel excavator
+the-dump 2021-09-23 12:44:56 when that one kid reminds the teacher of the homework
+the-dump 2021-09-23 12:55:11 <:nooo:787097964946259978>💀
+creations-chat 2021-09-23 13:17:07 nice
+creations-chat 2021-09-23 13:19:47 i would say work on it more, and maybe add more paint, then repost. it looks a little too similar to what you posted before rn
+the-dump 2021-09-23 13:20:35 watch for red dots on the wall buddy
+the-dump 2021-09-23 13:22:05 yay fresh air
+the-dump 2021-09-23 13:22:30 im surprised there's nothing that spilled out
+the-dump 2021-09-23 13:24:00 ah interesting
+the-dump 2021-09-23 13:24:28 i don;t know crab biology very well
+the-dump 2021-09-23 13:25:08 class arthropoda, yeah
+the-dump 2021-09-23 13:25:26 there's like 3 insults total that they use
+the-dump 2021-09-23 13:25:44 i got called subhuman once
+while i was listening to an uncle kage story
+the-dump 2021-09-23 13:27:03 why would you desecrate the art of cooking like this
+the-dump 2021-09-23 13:27:32 ah yes the good ol' b-0.5
+the-dump 2021-09-23 13:28:14 gonna change soon. is outdated
+the-dump 2021-09-23 13:31:06 is that
+the-dump 2021-09-23 13:31:10 ungrilled cheese?
+the-dump 2021-09-23 13:31:31 i mean it's an improvement
+the-dump 2021-09-23 13:31:46 but also grilled is better
+
+because cronch
+bot-central 2021-09-28 17:09:27 -ms
+bot-central 2021-09-28 18:21:24 -ms
+the-dump 2021-09-28 18:22:31 i mean you not wrong about pacific rim there
+help 2021-09-29 16:28:44 Helium and ballast blocks
+help 2021-09-30 15:28:52 Are the control panels set to automatic controls?
+help 2021-09-30 15:29:11 Hmm
+help 2021-09-30 16:33:41 i would honestly try joining another server
+help 2021-09-30 16:33:53 if that doesn't work than use wasd for control panels
+help 2021-09-30 16:34:48 with what
+help 2021-09-30 16:35:02 help with what?
+bot-central 2021-09-30 17:09:44 -ms
+bot-central 2021-10-01 16:41:09 ?shelp
+help 2021-10-04 16:10:17 actually, the reason stated here is because plane crazy current hardcoded
+
+IIRC this will not be the case in PC2, so whitelist/teambuilding might not be off the table just yet
+help 2021-10-04 16:10:36 but I don't really know,  I'm not a dev
+help 2021-10-04 16:11:22 me too
+bug-reports 2021-10-04 18:30:31 if he did it'd probably make everyone stop playing pc
+help 2021-10-08 13:04:19 I'm thinking about making a realistic functional 1x1 bomb from ww2, kinda like this
+help 2021-10-08 13:04:29 any suggestions on how i should go about that?
+help 2021-10-08 13:07:06 obviously
+help 2021-10-08 13:07:24 it wouldn't be functional without tnt
+help 2021-10-08 15:22:31 Yeah
+help 2021-10-08 15:24:52 Are your wheel bogeys able to spin freely?
+help 2021-10-08 15:51:33 middle
+the-dump 2021-10-08 17:58:59 damn thats sus
+the-dump 2021-10-08 18:05:38 still need a stabbing license
+the-dump 2021-10-08 18:05:44 this is america
+the-dump 2021-10-08 18:06:20 in america we stab people with a gun
+the-dump 2021-10-08 18:07:41 thats basically 90% of this server's members
+the-dump 2021-10-08 18:08:05 f
+the-dump 2021-10-08 18:08:34 ok and?
+the-dump 2021-10-08 18:09:37 feel sunlight
+the-dump 2021-10-08 18:10:25 honestly mood
+the-dump 2021-10-08 18:10:42 w a i t
+the-dump 2021-10-08 18:10:55 god dammit
+the-dump 2021-10-08 18:14:33 *repost*
+the-dump 2021-10-08 18:18:10 no doubt
+the-dump 2021-10-08 18:25:13 bold of you to assume it's that cheap
+help 2021-10-08 18:42:14 triangle wedge block
+help 2021-10-08 18:42:17 in wedges2
+help 2021-10-08 18:42:48 np
+help 2021-10-08 18:45:44 You don't have to be rude about it though
+help 2021-10-18 18:20:22 disconnector rods
+help 2021-10-18 18:20:26 thats about it
+help 2021-10-18 18:21:58 oh wait i forgot ropes and suspension are no-collide except for the square parts
+help 2021-10-18 18:24:42 idk then
+help 2021-10-21 13:19:27 usually i start at the bow
+help 2021-10-21 13:19:44 but making a layout of the entire deck's shape probably works better
+bot-central 2021-10-21 13:21:52 !rank
+help 2021-10-21 15:44:16 you post an image of the build and maybe add a description
+bot-central 2021-10-21 16:02:53 ?shelp
+help 2021-10-21 16:33:42 looks pretty good so far
+help 2021-10-21 18:16:10 aa?
+help 2021-10-21 18:17:13 idk
+bot-central 2021-10-22 11:56:44 -ms
+creations-chat 2021-10-22 13:27:43 my only suggestions are change the rocket colors and maybe repaint the camo
+creations-chat 2021-10-22 13:31:48 yeah understandable
+if you want to spice up the color scheme a bit I would look through creations for planes with good camo and note the techniques they use
+
+your choice though, the green paint does look pretty good as is
+bot-central 2021-10-22 17:12:45 -ms
+bot-central 2021-10-22 17:39:13 -ms
+bot-central 2021-10-22 17:41:19 -help
+bot-central 2021-10-22 17:42:02 -ms 9 9 8
+bot-central 2021-10-22 17:46:54 -ms 1 1 100
+bot-central 2021-10-22 17:47:58 -ms 25 25 0
+bot-central 2021-10-22 17:50:27 -ms 10 10 1
+bot-central 2021-10-22 18:02:16 -ms 6 6 50
+bot-central 2021-10-22 18:44:23 -ms
+bot-central 2021-10-25 17:17:13 -ms
+help 2021-10-25 17:59:32 not easily
+help 2021-10-25 18:00:49 mobile land vehicle is probably your best bet
+help 2021-10-25 18:01:37 tbh you can't really pvp in graphics 1
+help 2021-10-25 18:01:53 you need at least 4 below max, but 2 below max is better
+help 2021-10-25 18:04:02 I'm not usually one to suggest this but if you can only manage graphics 1 on your device, I would recommend upgrading if possible
+bot-central 2021-10-25 18:38:59 -ms
+bot-central 2021-10-25 18:40:27 -ms 7 7 20
+bot-central 2021-10-25 18:43:47 !rank
+bot-central 2021-10-26 13:37:57 -ms
+bot-central 2021-10-26 13:39:16 -ms 7 7 16
+help 2021-10-26 13:41:23 wouldn't that defeat the point though?
+bot-central 2021-10-26 18:42:13 -ms 9 9 25
+bot-central 2021-10-26 18:46:32 -ms
+the-dump 2021-11-04 12:28:34 mann vs machine trailer
+tf2
+the-dump 2021-11-04 16:16:33 why
+the-dump 2021-11-04 16:17:13 that is an insult to the very idea of pizza
+bug-reports 2021-11-04 16:27:14 What happened
+bug-reports 2021-11-04 16:28:58 F
+help 2021-11-04 18:03:24 the ratte?
+creations-chat 2021-11-04 18:08:02 looks good
+bot-central 2021-11-04 18:15:01 -ms
+bot-central 2021-11-04 18:20:01 -ms
+bot-central 2021-11-04 18:21:44 -ms 6 6 25
+help 2021-11-04 18:35:11 <:BIG1:588443768806703124><:BIG2:588443778554134540>
+<:BIG3:588443788721258534><:BIG4:588443798842114088>
+help 2021-11-04 18:45:10 <:duck1:652569234593021952><:BIG2:588443778554134540> 
+<:BIG3:588443788721258534><:duck4:652569237143158794>
+help 2021-11-05 16:54:41 you know how to make a 3 bladed rotor right?
+help 2021-11-05 16:55:18 yeah thats one way
+help 2021-11-05 16:55:44 basically instead of the angle in between the props being 120 degrees, you make them 72 degrees
+help 2021-11-05 16:56:14 hmm
+the-dump 2021-11-05 16:56:33 ok and
+the-dump 2021-11-05 16:57:16 ok and
+the-dump 2021-11-05 16:57:36 i dont love a-10, it just works best for the rhythm of the sentence
+the-dump 2021-11-05 16:57:49 and for rhyming
+the-dump 2021-11-05 17:01:53 lol you just noticed
+the-dump 2021-11-05 17:02:11 ah fair enough
+the-dump 2021-11-05 17:03:49 i should probably use a new status anyway
+the-dump 2021-11-05 17:05:01 nah my friend made it for me
+the-dump 2021-11-05 17:05:56 ?
+bot-central 2021-11-05 17:09:55 -ms
+bot-central 2021-11-05 17:11:22 -ms 7 7 10
+the-dump 2021-11-08 03:43:28 nice
+the-dump 2021-11-08 03:43:47 get more of them
+help 2021-11-08 13:39:08 Pc2 in 2738446
+bot-central 2021-11-08 14:02:08 -ms
+help 2021-11-08 14:12:12 Yes
+help 2021-11-09 13:11:53 yo does anyone know a good program or website where I can put a grid over an image and then draw on that grid by clicking points to place lines?
+help 2021-11-09 13:14:53 thanks
+creations-chat 2021-11-09 14:26:53 a&w
+creations-chat 2021-11-09 14:29:20 root beer best soda type
+creations-chat 2021-11-09 14:36:11 heresy
+
+soda only in can or bottle
+creations-chat 2021-11-09 14:38:21 imagine drinking old wheat juice
+bot-central 2021-11-09 18:08:27 -ms
+bot-central 2021-11-09 18:15:00 -ms 7 7 50
+bot-central 2021-11-09 18:19:03 -ms 5 5 100
+bot-central 2021-11-10 17:58:51 -ms
+bot-central 2021-11-10 18:09:44 -ms 3 3 25
+help 2021-11-11 14:17:02 yes
+creations-chat 2021-11-11 14:32:17 ok high rank, how about some constructive criticism
+creations-chat 2021-11-11 14:34:27 I would recommend motorlocking the tail a bit so it isn't cheese grater but otherwise it looks great. 
+
+It's a He-111 right?
+help 2021-11-11 14:36:44 chat in server, you will get image perms after a while
+bot-central 2021-11-11 17:45:28 -ms
+creations-chat 2021-11-11 18:12:37 when you put it that way it just sounds really edgy
+bot-central 2021-11-11 18:18:09 -ms
+creations-chat 2021-11-12 04:57:21 like i said, old build
+creations-chat 2021-11-12 04:59:23 ok and?
+bot-central 2021-11-12 14:10:24 -ms
+help 2021-11-15 17:46:47 with what?
+help 2021-11-15 17:47:49 honestly make the fingers shorter and use motor 2s to open/close them
+bot-central 2021-11-15 17:49:57 -ms
+help 2021-11-15 17:57:38 yeah
+the-dump 2021-11-15 17:57:50 furry
+help 2021-11-15 17:58:08 yeah
+the-dump 2021-11-15 17:58:35 no anime
+the-dump 2021-11-15 17:59:47 lol they really calling anime cringe while wearing squid game stuff
+bot-central 2021-11-15 18:02:49 -ms
+the-dump 2021-11-15 18:09:19 no
+bot-central 2021-11-15 18:10:34 -ms
+bot-central 2021-11-15 18:11:58 -ms
+bot-central 2021-11-15 18:21:12 -ms 7 7 10
+the-dump 2021-11-15 22:59:13 <:Pinged:508027985190715457>
+the-dump 2021-11-16 13:53:18 drift
+bot-central 2021-11-16 14:19:07 -ms
+creations-chat 2021-11-16 14:31:38 egotistic high ranks are a bad thing tbh
+bot-central 2021-11-16 14:36:31 -ms
+creations-chat 2021-11-16 14:37:34 nice
+creations-chat 2021-11-16 18:45:20 use sparklers to make the barrel, cuz its too thick with regular cylinders
+creations-chat 2021-11-16 18:47:24 i would also add markings and little details using signs, as it looks a bit cartoony without them
+creations-chat 2021-11-16 18:49:49 np
+help 2021-11-16 19:39:41 make sure the motors are actually set to lock properly
+help 2021-11-16 19:41:19 all unpowered too?
+help 2021-11-16 19:41:41 hm
+help 2021-11-16 19:42:50 wait i might see the problem
+help 2021-11-16 19:44:49 the motor lock tower is connected at these two points right?
+help 2021-11-16 19:45:47 well, the motor lock tower will become a 1 block high thing
+help 2021-11-16 19:46:14 which means that the space between where you connect it at the top and where you connect it at the bottom will be 1 block
+help 2021-11-16 19:46:30 or the floor
+help 2021-11-16 19:46:39 you just need to add 1 more layer of lock
+help 2021-11-16 19:47:33 yeah
+help 2021-11-16 19:58:05 Np
+help 2021-11-16 19:58:56 Next time you have problems with motorlocking just run through those steps
+bot-central 2021-11-18 13:20:55 -ms
+bot-central 2021-11-18 13:50:51 -ms
+bot-central 2021-11-19 17:39:52 -ms
+help 2021-11-23 13:23:23 2x2 is probably the best size
+help 2021-11-23 13:24:08 yeah
+bot-central 2021-11-23 13:25:07 -ms
+creations-chat 2021-11-30 14:23:03 what is this even
+creations-chat 2021-11-30 14:25:38 ok fair enough
+creations-chat 2021-11-30 14:35:02 <@456226577798135808> v3.0 with conveyor drives when
+creations-chat 2021-11-30 14:37:04 sir are you aware of the comedy
+
+are all of you aware of the comedy?
+the-dump 2021-12-03 14:40:08 best music
+help 2021-12-03 16:31:27 I would suggest putting large splotches on a base color, not just random
+help 2021-12-03 17:47:12 green i think
+help 2021-12-03 17:50:26 i'm a bit more confident that it's green now
+creations-chat 2021-12-07 18:54:51 hars is one of those impossible-to-please types
+anything that isn't his is instantly garbage to him
+creations-chat 2021-12-07 19:01:15 sorry just trying to be helpful
+creations-chat 2021-12-07 19:03:18 idk you seemed annoyed that I responded
+
+im not good at reading emotions in text sometimes
+the-dump 2021-12-07 19:20:00 H3Y COOL K1D 1S TH1S YOU?
+the-dump 2021-12-07 19:20:04 there
+the-dump 2021-12-07 19:20:08 have fun :)
+creations-chat 2021-12-07 19:27:18 wait <@!401530469952389130> I think I saw you in a server last night
+
+Did you by chance see a kinda bad panzer 3?
+creations-chat 2021-12-07 19:29:20 Hi
+creations-chat 2021-12-07 19:33:31 You could consider fixing the cheese grater wings and adding a cage for the cockpit glass
+creations-chat 2021-12-07 19:41:50 worse builds exist
+
+look at his rank though
+we can't expect god-tier plane builds out of a shipwright 3
+the-dump 2021-12-13 14:14:05 bruh spending $1,000,000 on a shitty pfp isn't an identity
+creations-chat 2021-12-13 14:14:29 welcome to pcc
+we all kinda have to deal with it
+the-dump 2021-12-13 14:17:07 screenshot nfts
+deprive them of value
+the-dump 2021-12-13 14:18:00 fair point
+the-dump 2021-12-13 14:19:57 all those weapons
+the-dump 2021-12-13 14:21:31 if the A-10 was outdated they'd phase it out already
+the-dump 2021-12-13 14:22:26 It's projected to be in service until 2040
+the-dump 2021-12-13 14:22:35 and good looks are a matter of opinion
+the-dump 2021-12-13 14:23:01 what ratio tho
+the-dump 2021-12-13 14:23:23 also kinda sus that you know what a protogen is
+the-dump 2021-12-13 14:24:16 ok fair enough
+the-dump 2021-12-13 14:24:37 there ain't no likes or dislikes tho
+the-dump 2021-12-13 14:24:54 ok then I'll match
+the-dump 2021-12-13 14:25:10 yeah ik those exist
+the-dump 2021-12-13 14:25:45 wtf are those wings
+the-dump 2021-12-13 14:26:08 An-40 vs A-10
+the-dump 2021-12-13 14:34:59 UAV means Unmanned Aerial Vehicle
+
+Obviously it's a drone it can't be a manned aircraft
+the-dump 2021-12-13 14:37:50 fun fact: liberitarianism is basically diet anarchism
+the-dump 2021-12-13 14:38:34 hi welcome to pcc where if you are anything except straight male you are hated :/
+the-dump 2021-12-13 14:38:41 it kinda sucks sometimes
+the-dump 2021-12-13 14:38:53 case in point
+the-dump 2021-12-13 14:39:08 but especially this one
+the-dump 2021-12-13 14:39:33 nah I'll stay cuz my existence pisses people off lol
+the-dump 2021-12-13 14:40:15 doubt
+the-dump 2021-12-13 14:41:13 yep
+the-dump 2021-12-13 14:41:28 safe travels friend
+the-dump 2021-12-13 14:42:17 ok have fun with the FBI then
+the-dump 2021-12-13 14:43:04 not worth it they're on the mental level of toddlers
+the-dump 2021-12-13 14:43:58 no need
+help 2021-12-13 19:01:59 Can I get a little logistical help with planning a build?
+help 2021-12-13 19:04:33 so I'm trying to figure out how to make the Lockheed CL-1201 at player scale in the game and, with plots being 51 x 51 x 39
+The plane would be 341 blocks wide, 171 blocks long, and the wings are about 4 blocks thick on average
+help 2021-12-13 19:04:46 How can I fit this on to a single plot?
+help 2021-12-13 19:05:01 Literally any ideas that are helpful are welcome
+help 2021-12-13 19:06:00 (sidenote: Rickje please give us larger plots)
+help 2021-12-13 19:10:51 yeah I've used a diluted form of that before
+help 2021-12-13 19:11:24 ~~watch me~~
+help 2021-12-13 19:11:52 im thinking the wings could be on the top and bottom of the plot in order to maximize use of the 51x51 space
+help 2021-12-13 19:12:04 and I can kinda squeeze the fuselage in there between them
+help 2021-12-13 19:13:06 I might have to break out the dark arts to make this tbh
+help 2021-12-13 19:13:20 but by god I am going to try
+help 2021-12-13 19:13:30 and I am going to get a 7 plot wide plane
+help 2021-12-13 19:13:59 I might actually sacrifice some wing thickness in order to fit the rest
+help 2021-12-13 19:14:16 im sure people will understand
+help 2021-12-13 19:15:00 I have an angle of attack for this project now
+help 2021-12-13 19:15:08 Thanks kokamzy
+help 2021-12-13 19:27:22 yeah
+the-dump 2021-12-13 19:35:56 https://tenor.com/view/repost-repost-if-gen-genshin-impact-chad-gif-23596114
+creations-chat 2021-12-13 19:43:21 I think so yes
+
+more experienced players might disagree tho so be ready
+help 2021-12-13 22:31:35 oh my bad
+help 2021-12-13 22:31:46 still gonna build it tho
+help 2021-12-14 13:25:04 wait if it's about that big then I think it might be more possible than I originally thought
+help 2021-12-14 13:25:21 because people make carriers like that all the time
+help 2021-12-14 15:38:49 my thinking is that if someone can fit an entire aircraft carrier into a plot, then I can manage a plane
+help 2021-12-14 15:39:15 We have no recent updates because Rick is really busy making plane crazy 2
+creations-chat 2021-12-15 19:40:29 can it fly?
+
+good
+
+it's perfect then
+creations-chat 2021-12-15 19:53:53 Yes shredder bad
+
+But that ain’t no shredder
+
+Y’all just don’t have an appreciation for art
+creations-chat 2021-12-15 19:56:56 I doubt any of you have even played terraria
+
+Yep you haven’t
+
+Also minecraft and terraria are barely comparable games. One is adventure like dnd and the other is sandbox survival
+creations-chat 2021-12-18 19:44:24 Yeah it looks great
+bot-central 2021-12-20 14:09:58 ?shelp
+creations-chat 2021-12-20 14:30:39 The reason I detailed it extensively is so that it isn't forcing him to rush. 
+Essentially what I'm saying is to release what already exists, then continue to work on it afterwards, perhaps even at a less stressful rate
+
+I want to make it clear that I in no way want to rush Rick, and I understand he's a busy man. My suggestions is what I see as the best possible compromise, preserving rick's ability to work on the game at a less stressful speed while letting everyone get the one thing we all want so desperately
+creations-chat 2021-12-20 17:36:49 People are smooth brain here sometimes. You get used to it eventually
+bug-reports 2021-12-21 16:49:23 They only glitch like that in certain positions 
+If you rotate so the arrow points sideways it should save correctly
+creations-chat 2021-12-29 21:17:02 Ok so ik im a tad biased in this but what is wrong with my me-262 for it to get that many downvotes
+
+it really isn't blocky tho. I used more wedges than blocks
+creations-chat 2021-12-29 21:19:25 What's up with them
+help 2021-12-30 17:36:58 Does anyone know a good way to make a stable 5-bladed rotor?
+help 2021-12-30 17:46:10 I looked at those and they aren't really that good
+help 2021-12-30 17:49:33 I'm trying to make an accurate Mil MI-24D
+help 2021-12-30 17:50:01 Hang on i might actually have something
+help 2021-12-30 17:50:55 hmm
+help 2021-12-30 17:51:51 yeah it could work
+help 2021-12-30 17:51:52 thanks
+help 2021-12-30 17:52:15 ikr
+help 2021-12-30 17:58:05 I modified it a bit to make it more symmetrical
+help 2021-12-30 17:58:25 
+creations-chat 2021-12-30 18:18:06 Can i get a bit of feedback for my MI-24 blades so far?
+creations-chat 2021-12-30 18:20:34 Thanks, also MI-24 actually has exposed motors on its blades
+creations-chat 2021-12-30 18:25:00 yes
+help 2022-01-09 22:54:49 Yo does anyone by chance know how to get default wheels to steer and then not return to center?
+help 2022-01-09 23:01:45 It is possible
+help 2022-01-09 23:02:01 I saw it in a video and want to use it in my mi-24
+help 2022-01-09 23:17:35 ohhh
+help 2022-01-09 23:17:37 thank you
+the-dump 2022-01-25 17:03:23 Let The Man Get His Image Perms
+the-dump 2022-01-25 17:04:39 He Literally Said
+the-dump 2022-01-25 17:05:00 https://discordapp.com/channels/384021699466756103/497142796961054721/935579959525802065 Here
+the-dump 2022-01-25 17:05:05 Literally In General
+the-dump 2022-01-25 17:05:20 Cringe
+creations-chat 2022-01-25 17:06:46 That Would Render The Whole Build Unusable Though
+
+Except As A Display Piece
+creations-chat 2022-01-26 15:24:31 Ok But Saying Minibuild Just Sounds Better Than "Ro-scale"
+help 2022-03-23 01:33:06 How do i allow audio uploads to be used in plane crazy?
+help 2022-03-23 01:33:29 because putting the universe ID in doesn't work
+creations-chat 2022-04-05 16:19:19 I just want to say those chains look amazing
+creations-chat 2022-04-05 16:21:26 Can we see the full plane?
+creations-chat 2022-04-05 16:24:14 Imo Vykmir is wrong. It looks good
+
+<@!868410955653083137> people have stupidly high standards
+creations-chat 2022-04-05 16:26:39 Hars 
+Don’t be so critical until you actually make something that meets your own standards
+
+Cuz i know you just like hating on peoples builds for bs reasons
+
+<@!918581321004089364> ikr
+creations-chat 2022-04-05 16:31:51 To be completely honest, pcc needs to learn how to properly give constructive criticism and feedback instead of insults
+
+Myself included, though I do try my best
+
+
+<@!719168864705052802> I’ll do that after you meet your own standards for a build
+creations-chat 2022-04-05 16:35:59 I do read, and you just made my point
+
+Cuz your standards are quite literally unmeetable, even by you
+creations-chat 2022-04-05 16:48:14 Function: good
+Appearance: lacking
+
+If its only purpose is to be funky wheel mechanism, great job. Otherwise, perhaps adding some more detailing or paint, possibly even a cabin, would help it a lot
+creations-chat 2022-04-05 16:56:15 Epic
+help 2022-05-18 16:47:27 I have an a-10 that works great except, recently, it started randomly losing control and flipping through the air. Even when i come to a stop it just starts rolling really hard. it used to not do this so idk what happened. did roblox update something?
+help 2022-05-19 18:07:42 you could use text signs to make the extra stuff mostly invisible, but other than that you'd just have to redesign the fold so its smaller
+creations-chat 2022-07-05 17:23:23 Imo the nose is almost too sharp. 
+My recommendation is to make the nose a couple blocks longer and more rounded
+help 2022-08-03 16:08:52 ~~Can you send a screenshot of how you’re placing them?~~
+Nvm you don’t have image perms yet.
+
+If you’re placing the large side of the trapdoor against the block you’re trying to attach it to, it won’t work.
+Trapdoors only connect on the 3 small sides that ***don’t*** have the trapdoor’s handle
+help 2022-08-03 16:16:44 Ah
+help 2022-08-03 16:16:58 Again, that side wont connect,
+help 2022-08-03 16:17:53 I suppose the tutorial was made wrong then
+help 2022-08-03 16:19:07 For your build try rotating the trapdoor so that its pointing up/away from the block
+help 2022-08-03 16:19:13 It should connect then
+creations-chat 2022-08-03 16:29:02 Coffin looks good 
+Immediately recognizable 10/10
+help 2022-08-03 16:30:07 I don’t have access to a computer atm but i can help you in a few hours if you’re willing to wait
+creations-chat 2022-08-03 16:31:49 Yo nice
+bot-central 2022-08-04 13:55:57 !help
+bot-central 2022-08-04 13:56:32 ?shelp
+help 2022-08-14 04:43:21 I'm making an Arsenal Bird and I need an engine that will work for it.
+
+Hover drives are too weak unless I use a lot, then they become too laggy
+
+Conveyor drives make it flip out no matter what.
+
+What do I do?
+help 2022-08-14 05:07:48 i believe i had about 18-20 full hover drives in order to get 115 speed on the meter
+help 2022-08-14 05:09:11 thanks
+help 2022-08-14 05:20:55 so turns out i was stupid and forgot that the propellers cause a lot of drag unless angled
+bug-reports 2022-08-20 21:17:08 Is there an anchor block on your build
+help 2022-08-23 02:25:23 How do i fix the glitch where trapdoors won't move for other players
+help 2022-08-23 02:26:55 dont lock the trapdoor?
+help 2022-08-23 02:27:22 I tried that and it still wouldnt move
+help 2022-08-23 20:45:36 I'm trying to think of some sea creature to build but I can't decide
+Any suggestions?
+creations-chat 2022-08-23 23:12:10 There’s a video on YT that shows how to get that exact effect
+
+https://youtu.be/lLB9Fza-qd0
+creations-chat 2022-08-24 12:42:18 Yeah that’s fairly accurate
+bug-reports 2022-08-26 13:46:07 Im pretty sure this means your actual color is 4,4,153
+The color numbers loop back around after 255 iirc
+help 2022-10-07 13:41:57 Try adding helium to the weapon to cancel out its weight
+bug-reports 2022-12-05 16:25:54 That actually happens based on when a player joins the server for some reason
+bug-reports 2022-12-11 16:43:58 Thats an intentional feature ~~really annoying tho~~
+Just respawn and the sounds should be normal
+bug-reports 2022-12-11 16:45:08 Yeah, nobody really likes it but we just have to deal with it
+bug-reports 2022-12-11 16:45:15 Lucky
+bug-reports 2022-12-11 17:20:00 I know
+help 2023-01-11 17:33:49 There’s a guide on yt for it
+help 2023-01-13 17:34:02 A lot of rotation lock
+help 2023-01-19 16:22:39 There are steps that come after though 
+
+Nobody improves just by being insulted a lot
+help 2023-01-19 16:25:26 I was mostly talking to sci
+help 2023-01-19 16:26:11 Ok yeah i see that now
+help 2023-01-19 16:27:24 We plan our stuff from the beginning of the process
+help 2023-01-19 16:27:53 L
+help 2023-01-19 16:28:49 Thats how planning works
+creations-chat 2023-03-14 03:12:12 didnt ask for critique
+creations-chat 2023-03-14 03:20:06 not changing jack shit cope
+creations-chat 2023-03-29 03:35:34 engines are too big for the wings and gear, but nice contra-rotating props
+bug-reports 2023-07-07 03:56:35 anyone else getting kicked frequently since the update?
+bug-reports 2023-07-07 04:10:08 this is new bozo
+bug-reports 2023-07-07 04:23:45 just confirmed if you place a cylinder against another cylinder's rounded side you get kicked
+bug-reports 2023-07-07 04:24:37 i think if you place anything on the rounded edge of a cylinder it does it
+bug-reports 2023-07-07 04:29:03 HOW
+bug-reports 2023-07-07 04:32:18 dammit still
+bug-reports 2023-07-07 04:33:55 use opera dingus
+bug-reports 2023-07-07 04:36:11 it might be a custom kick message for people who use that copy hack to make them think its an error
+bug-reports 2023-07-07 04:36:31 oh
+bug-reports 2023-07-07 04:36:37 definitely the anti-copy then
+bug-reports 2023-07-07 04:37:55 hes showing the image as an example of what an error code looks like
+bug-reports 2023-07-07 04:38:03 yeah
+bug-reports 2023-07-07 04:38:25 if it isnt anti-copy then i'd guess the private server kick script got messed up
+bug-reports 2023-07-07 04:38:50 those are the only 2 reasons for a script to kick a player i think

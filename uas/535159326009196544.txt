@@ -1,0 +1,99 @@
+The Tale of bistups (535159326009196544)
+help 2022-02-23 14:13:47 Im trying to make a scotch yoke mechanism, it works but its unstable and keeps breaking at speeds higher than 15
+help 2022-02-23 14:13:48 
+help 2022-02-23 14:13:52 anyone know how to make it less glitchy?
+help 2022-02-23 14:19:23 its mostly  glitching where the blue part is, it just clips inside the blocks, stopping the mechanism
+help 2022-02-23 14:20:27 tried that
+help 2022-02-23 14:20:33 
+help 2022-02-23 14:20:38 ill do the middle part now
+help 2022-02-23 14:20:47 k
+help 2022-02-23 14:21:16 about the same performance
+help 2022-02-23 14:21:41 
+help 2022-02-23 14:21:42 its like
+help 2022-02-23 14:21:51 its clipping in the wall
+help 2022-02-23 14:21:56 creating tons of friction
+help 2022-02-23 14:21:58 stopping it from moving
+help 2022-02-23 14:22:36 i mean
+help 2022-02-23 14:22:37 
+help 2022-02-23 14:22:37 that
+help 2022-02-23 14:22:48 the cylinder clips into that part
+help 2022-02-23 14:22:51 o
+help 2022-02-23 14:23:05 where's ice?
+help 2022-02-23 14:23:29 aight
+help 2022-02-23 14:23:30 thanks
+help 2022-02-23 14:23:32 cant find ice tho
+help 2022-02-23 14:23:43 oh
+help 2022-02-23 14:23:44 thanks
+help 2022-02-23 14:23:44 right
+help 2022-02-23 14:24:05 ty
+help 2022-02-23 14:24:05 works perfectly
+help 2022-02-23 16:19:58 what cooldown do rockets have?
+help 2022-02-23 16:20:00 like how long
+help 2022-02-23 16:20:32 that'd be op
+help 2022-02-23 16:20:37 must have some sort of cooldown
+help 2022-02-23 16:20:54 oh
+help 2022-02-23 16:21:00 so that ruined my plans
+help 2022-02-23 16:22:02 its like
+help 2022-02-23 16:22:08 0.5 sec after collision
+help 2022-02-23 16:22:25 how long until they despawn?
+help 2022-02-23 16:22:38 nvm
+help 2022-02-23 16:22:38 10 secs
+help 2022-02-23 16:23:00 im trying to uh
+help 2022-02-23 16:23:02 make a macro
+help 2022-02-23 16:23:04 that shoots rockets
+help 2022-02-23 16:23:06 so its not like
+help 2022-02-23 16:23:08 10 at once
+help 2022-02-23 16:23:11 but theyre all seperated
+help 2022-02-23 16:26:06 uh
+help 2022-02-23 16:26:08 no clue
+help 2022-02-23 16:28:05 what cooldown do fireworks have?
+help 2022-02-23 16:29:57 i can fire them every like
+help 2022-02-23 16:30:00 less than a second
+help 2022-02-23 16:32:49 right
+help 2022-02-23 16:35:04 whats the cooldown between the shots tho?
+help 2022-02-23 16:37:02 nvm
+the-dump 2022-03-27 19:17:47 where do i show people my idea for a war crime weapon
+bot-central 2022-03-27 19:20:09 !rank
+bot-central 2022-03-27 19:20:14 close
+bot-central 2022-03-27 19:20:16 !rank
+bot-central 2022-03-27 19:20:23 a
+bot-central 2022-03-27 19:20:57 !rank
+bot-central 2022-03-27 19:20:59 !rank
+bot-central 2022-03-27 19:21:23 !rank
+the-dump 2022-03-27 19:22:46 i cant post images yet
+the-dump 2022-03-27 19:22:48 but basically
+the-dump 2022-03-27 19:22:53 your typical tnt cannon
+the-dump 2022-03-27 19:22:58 magnet powered
+the-dump 2022-03-27 19:23:06 but the ammo system is mostly what will make it op
+the-dump 2022-03-27 19:23:08 basically
+the-dump 2022-03-27 19:23:11 large rotating cylinder
+the-dump 2022-03-27 19:23:16 with a gear around it
+the-dump 2022-03-27 19:23:18 yeah
+the-dump 2022-03-27 19:23:22 but
+the-dump 2022-03-27 19:23:26 with like
+the-dump 2022-03-27 19:23:29 huge aggo
+the-dump 2022-03-27 19:23:30 ammo*
+the-dump 2022-03-27 19:23:33 so
+the-dump 2022-03-27 19:23:37 hold on
+the-dump 2022-03-27 19:23:42 ill get mee6 lvl 3 so i can most the image
+the-dump 2022-03-27 19:23:52 yeah...
+the-dump 2022-03-27 19:23:54 with a huge mag
+the-dump 2022-03-27 19:24:03 sure
+bot-central 2022-03-27 19:24:09 !rank
+the-dump 2022-03-27 19:24:17 5 more xp
+the-dump 2022-03-27 19:24:22 yeah it'll be big
+the-dump 2022-03-27 19:24:31 most of the space will be taken by the ammo system
+the-dump 2022-03-27 19:24:41 
+the-dump 2022-03-27 19:24:57 not a piston
+the-dump 2022-03-27 19:24:58 but suspension
+the-dump 2022-03-27 19:25:03 powered by a rotating thing
+the-dump 2022-03-27 19:25:07 pushes it back, and releases
+the-dump 2022-03-27 19:25:27 im gonna build it in a lego game, not selling it to militaries
+the-dump 2022-03-27 19:30:40 relatable
+the-dump 2022-03-27 19:33:02 relatable
+the-dump 2022-03-27 19:36:50 okay so
+the-dump 2022-03-27 19:36:56 small prototype works
+the-dump 2023-06-17 13:15:26 do i get banned if i ask when pc2 releases
+the-dump 2023-06-17 13:15:47 oh
+the-dump 2023-06-17 13:15:52 when doesent pc 2 release
+the-dump 2023-06-17 13:16:58 oh

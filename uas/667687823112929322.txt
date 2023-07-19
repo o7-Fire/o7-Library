@@ -1,0 +1,2 @@
+The Tale of policesergeant123 (667687823112929322)
+help 2023-05-01 08:13:22 I built a guided missile yesterday, i saved it, but when i loaded it today it doesn't work anymore. I am pretty sure i did no changes. (Btw it also happens to other builds when i use different spawns: when i spawn it base everything works, but if i spawn at airport it is broken).

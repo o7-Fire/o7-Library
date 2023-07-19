@@ -1,0 +1,58 @@
+The Tale of iksior (686314339359129708)
+bot-central 2020-09-20 18:13:01 !rank
+bot-central 2020-09-20 18:14:35 !rank
+bot-central 2020-09-27 14:55:38 !rank
+help 2020-12-05 11:54:54 
+help 2020-12-05 11:55:00 I made a vtol
+help 2020-12-05 11:55:24 But how can I make it fly straight? Its tail in flying mode keeps going upwards
+help 2020-12-05 11:55:47 keeping it stable in hover position
+help 2020-12-06 18:26:53 Im standing at center of mass. Why its nose keeps hitting ground?
+help 2020-12-07 20:32:32 How can I fix this plane so its front doesnt hit ground? And why its even happening? My character is at center of mass.
+help 2020-12-07 20:34:47 I made one alredy, but if I made it heavier, on hover its tail will go down...
+help 2020-12-07 20:35:00 ik but I didnt get enought help
+help 2020-12-07 20:36:40 It wont be same thing as making tail heavier?
+help 2020-12-07 20:38:40 ok Ill try
+help 2020-12-07 20:48:28 I added 2 helium blocks
+Now front goes a little down, then shoots up
+help 2020-12-07 20:54:49 Thats how it works with 3 helium blocks
+help 2020-12-07 20:56:00 I tested it under map because its not bouncing off terrain
+bot-central 2021-02-01 18:49:16 !rank
+bot-central 2021-02-10 10:07:01 !rank
+bot-central 2021-03-30 11:58:28 !help
+bot-central 2021-03-30 11:58:57 ?suggestionhelp
+bot-central 2021-03-30 11:59:19 ?rhelp
+creations-chat 2021-03-31 08:01:54 Hmm... Why I cant post image?
+bot-central 2021-03-31 08:02:31 ?rankhelp
+bot-central 2021-03-31 08:03:06 !rank
+creations-chat 2021-03-31 08:06:10 How to get it
+creations-chat 2021-03-31 08:17:53 ok, its not so far away
+bot-central 2021-04-08 10:41:04 !help
+bot-central 2021-04-08 10:41:49 !rank
+bot-central 2021-04-08 10:41:57 !rank
+creations-chat 2021-04-09 10:43:06 WIP search&rescue medical ship, what do you think?
+creations-chat 2021-04-09 10:50:22 I tried my best, and still no one likes it... 😦
+help 2021-04-12 06:30:06 why this is not working
+help 2021-04-12 06:30:33 a plane
+help 2021-04-12 06:31:02 he added stick when trying to ballance it
+help 2021-04-12 06:31:22 no stick
+help 2021-04-12 06:34:03 bruh
+help 2021-04-12 06:34:38 Its not my plane lol
+help 2021-04-12 06:45:32 Why is it tilting and how can I fix it?
+help 2021-04-12 06:46:00 yes
+help 2021-04-12 06:49:00 duh
+help 2021-04-12 06:49:41 stable position
+creations-chat 2021-04-21 13:48:45 Front of my new car, is it a poo?
+No motorlock now
+creations-chat 2021-04-21 13:51:50 Something that does not suck
+like all of my builds
+creations-chat 2021-04-21 14:16:22 I like it
+creations-chat 2021-04-22 11:32:19 poo?
+creations-chat 2021-08-20 12:08:52 WIP AT-99 Scorpion, how it looks so far?
+creations-chat 2021-10-24 18:52:17 Working on PZL-37, any comments?
+Im gonna change the guns on the front, dont mind them
+help 2023-01-17 16:40:26 Why are two motors 2 so wobbly when placed on top of each other?
+help 2023-01-17 16:44:19 Hm
+help 2023-01-17 20:23:34 How to make a double-engined rotorcraft more stable?
+help 2023-01-19 18:46:40 How to make a double engined helicopter more stable?
+help 2023-01-19 18:47:34 Its not about balancing, it just flips whenever it wants
+help 2023-01-19 19:06:07 

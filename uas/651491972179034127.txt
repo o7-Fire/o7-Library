@@ -1,0 +1,2 @@
+The Tale of zecomradegoose (651491972179034127)
+bug-reports 2021-09-16 01:03:07 Not sure if this is a bug, but for some reason, on new aircraft, trying to turn left in-flight turns you right.

@@ -1,0 +1,58 @@
+The Tale of bullettrain5 (266992252621029377)
+creations-chat 2022-12-07 18:11:20 i believe it's because your motors are at too high of a speed + it's so far back so it makes the angle more extreme, if you have 2 motor 2s then there max angles add up so it might be that as well
+bot-central 2022-12-07 18:18:08 !rank
+help 2022-12-07 18:25:25 you mean like keyboard vs mouse or something else?
+help 2022-12-07 18:25:52 yeah
+help 2022-12-07 18:26:00 motor2 for pitch and keyboard for roll and yaw
+help 2022-12-07 18:26:30 i wouldn't say keyboard is fine aim
+help 2022-12-07 18:26:57 feels more like it's the other way around
+help 2022-12-07 18:27:07 using keyboard lets you do sharper manuevers but less fine tuning
+help 2022-12-07 18:27:17 from what i've seen
+help 2022-12-07 18:27:24 not for me
+help 2022-12-07 18:27:29 idk what experience you've had
+help 2022-12-07 18:28:13 yeah fair
+help 2022-12-07 18:30:05 hm
+help 2022-12-07 18:30:08 let me try recreating that
+help 2022-12-07 18:31:07 works for me
+help 2022-12-07 18:31:11 try replacing the trail and the sign
+help 2022-12-07 18:31:32 make sure your sign is oriented like this
+help 2022-12-07 18:32:46 <@811335448059314216>
+help 2022-12-07 18:39:43 i'm really proud of this f-22 nose so far but i don't know how to fix this little overlap cause if i get rid of it the blocks causing the overlap it will have a hole just straight through it
+help 2022-12-07 18:40:18 what i mean by hole
+creations-chat 2022-12-07 18:42:56 i wasn't talking about the hover engines, i mean like the motors themselves
+help 2022-12-07 18:43:09 i did that
+help 2022-12-07 18:43:14 see how it doesn't go all the way through
+help 2022-12-07 18:43:20 but it still has that gap
+help 2022-12-07 18:43:24 piston lock?
+help 2022-12-07 18:43:34 haven't heard of that before
+help 2022-12-07 18:44:00 i think i understand what you mean by that though
+help 2022-12-07 18:44:08 i'll search it up
+help 2022-12-07 18:45:02 yep piston lock is exactly what i expected it to be lol
+help 2022-12-07 18:45:30 i'll try it rq
+help 2022-12-07 18:50:42 yep that worked
+help 2022-12-07 18:50:49 
+help 2022-12-07 18:50:51 thanks
+help 2022-12-07 18:57:19 uhh
+help 2022-12-07 18:57:48 no
+help 2022-12-07 18:57:57 i don't see it personally
+help 2022-12-07 18:58:26 an f-22
+help 2022-12-07 18:58:32 still need to
+help 2022-12-07 18:58:35 get this angle sharper
+help 2022-12-07 18:58:56 rn i'm pretty proud of it
+help 2022-12-07 18:59:03 it's my first custom
+help 2022-12-07 18:59:05 nose
+help 2022-12-07 18:59:37 this is what an f-22 nose looks like and i'm not quite there yet
+help 2022-12-07 19:00:01 idk how to help there
+help 2022-12-07 19:01:56 i'm planning to make a simpler plane before i actually go full in on the f-22 just because i want to get more experience with building and designing
+help 2022-12-07 19:01:58 any suggestions
+help 2022-12-08 22:13:08 i love when people are more talented than me
+bot-central 2022-12-09 02:56:23 -servers
+bot-central 2022-12-09 02:56:27 oh damn
+bot-central 2022-12-09 02:56:29 😔
+help 2023-01-16 07:02:47 sorry since this was like a month ago now but how did you get the angles so good? genuinely suprised by how amazing you did it and thinking about retrying making an f-22
+help 2023-01-16 07:09:19 fuck
+help 2023-01-16 07:09:21 i forgot to reply
+help 2023-01-16 07:09:22 💀
+help 2023-01-16 07:09:29 how did i even do that
+help 2023-01-16 07:09:36 this is what i meant to reply to
+help 2023-01-16 07:10:35 also activate windows 💀

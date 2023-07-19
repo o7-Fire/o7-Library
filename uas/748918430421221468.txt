@@ -1,0 +1,24 @@
+The Tale of british_pigeon (748918430421221468)
+bug-reports 2022-10-06 18:19:33 Uhh dunno if this is a bug but train spawns backwards on the spawn closest to the base
+bot-central 2022-10-07 19:20:46 ?shelp
+bot-central 2022-10-07 19:21:09 ?rhelp
+bug-reports 2022-11-03 20:16:02 uhh so basically
+bug-reports 2022-11-03 20:16:05 i have a turret
+bug-reports 2022-11-03 20:16:10 and
+bug-reports 2022-11-03 20:16:10 on a drone
+bug-reports 2022-11-03 20:16:12 it does this
+bug-reports 2022-11-03 20:16:19 https://gyazo.com/053f9f8d20a38883894c5341493bfe32
+bug-reports 2022-11-03 20:16:37 uhh
+bug-reports 2022-11-03 20:16:42 dont think its meant to do that
+bug-reports 2022-11-03 21:04:31 no
+bug-reports 2022-11-03 21:04:39 yellow facing forward
+the-dump 2022-12-03 19:46:16 why cant i send images here
+help 2022-12-20 13:48:16 
+help 2022-12-20 13:48:37 i need help making a conveyor engine for my a-10
+help 2022-12-20 13:48:57 i tried hover engine but its really slow and goes about 340 max and if any slower is back heavy
+help 2022-12-20 13:59:05 if the torque is too high or too low it is either too weak or too powerful and might make it not work
+help 2022-12-20 16:00:24 oh
+help 2022-12-20 16:00:32 oh thanks
+bot-central 2022-12-24 14:17:45 !rank
+bot-central 2022-12-24 14:17:50 ok
+bot-central 2022-12-24 14:17:54 !rank

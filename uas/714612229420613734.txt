@@ -1,0 +1,5 @@
+The Tale of shatteredvessel (714612229420613734)
+bot-central 2021-03-05 21:38:12 /rhelp
+bot-central 2021-03-05 21:38:32 ?rhelp
+help 2023-06-24 15:29:49 I attached a motor to make a gatling gun spin on a side arm of a mech, but whenever I add the motor the entire arm freaks out. I tried using helium and ballasts to try and balance its weight, but weight doesnt seem to be the problem. help?
+help 2023-06-24 16:25:25 in the video its at the lowest speed, with the current joints i have set up i dont know if i can change the torque or not

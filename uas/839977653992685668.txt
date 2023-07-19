@@ -1,0 +1,11 @@
+The Tale of nougify (839977653992685668)
+help 2021-09-12 17:02:20 is it possible to control motor 2 controls using the mouse?
+help 2021-09-12 18:45:11 what i meant was if i could use the motor 2 wing panel controlling thing
+help 2021-09-12 18:45:19 and map the controls to mouse instead of keyboard
+help 2021-09-12 18:45:32 i've tried but all it does is makes the wing panel flip backwards
+help 2021-09-12 18:45:39 sorry, i don't speak english well
+help 2021-09-12 18:45:51 oh i see
+help 2021-09-12 18:45:52 how come?
+help 2021-09-17 21:55:11 what's the best way to control a plane?
+help 2021-09-17 21:55:25 control surfaces are too slow and using motor 2s is rly glitchy and shakes the plane a lot
+help 2021-09-17 21:58:50 it is for me

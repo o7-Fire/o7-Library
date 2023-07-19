@@ -1,0 +1,509 @@
+The Tale of i3it (687268103046037544)
+bot-central 2021-03-09 02:36:09 ?help
+bot-central 2021-03-09 02:36:13 !help
+bot-central 2021-03-09 02:36:46 ?rankhelp
+the-dump 2021-03-10 00:51:46 https://cdn.discordapp.com/attachments/638501862416580618/819004604301180958/we_do_a_little_trolling.mp4
+bot-central 2021-03-10 14:28:59 !servers
+bot-central 2021-03-10 14:29:06 wait what
+bot-central 2021-03-10 14:39:49 ?whois
+bot-central 2021-03-10 14:39:59 tmr
+help 2021-03-11 01:22:12 no worries if you dont know how to speak english properly, you can always use google translate
+help 2021-03-11 01:23:29 i guess they are like something you would like to put infront of your vehicle
+help 2021-03-11 01:23:38 to cut others
+help 2021-03-11 01:23:44 or damage them kind of
+help 2021-03-11 02:00:53 i know its shit, but please help me
+help 2021-03-11 02:02:02 try fixing some tourqe
+help 2021-03-11 02:02:07 english 100
+help 2021-03-11 02:02:23 hmm
+help 2021-03-11 02:02:36 try moving the steering motor above the suspension
+help 2021-03-11 02:02:49 hmmmm
+help 2021-03-11 02:03:09 try extending the treads one block
+help 2021-03-11 02:03:21 further than the steering
+help 2021-03-11 02:04:19 one sec.
+help 2021-03-11 02:05:47 Sorry for caps, it was just to make the font noticeable
+help 2021-03-11 02:06:11 the I is "in"
+help 2021-03-11 02:07:44 well
+help 2021-03-11 02:07:51 contact an expert
+help 2021-03-11 02:08:05 i only have 30 god damn hours in the game
+help 2021-03-11 02:08:07 lmfao
+help 2021-03-11 02:10:04 mhm
+help 2021-03-11 02:18:19 Help,
+help 2021-03-11 02:20:35 yeah
+help 2021-03-11 02:28:32 search in yt
+help 2021-03-11 02:29:36 https://www.youtube.com/results?search_query=plane+crazy+tank+treads
+help 2021-03-11 03:39:23 that didnt quite work.
+help 2021-03-11 03:54:40 i already did
+help 2021-03-11 03:59:55 well, that silence means that i gotta figure it out my self
+help 2021-03-11 04:03:02 i added density and it didnt work either
+help 2021-03-11 04:03:28 add satbilizers too
+help 2021-03-11 04:03:39 all the 10 desity, and tested them all
+help 2021-03-11 04:03:52 its flipping around
+help 2021-03-11 04:03:59 Same as the video shown above...
+help 2021-03-11 04:06:09 one block at 10 is chaos, one block at 8 is rear chaos, block at 9 is rear chaos too.
+help 2021-03-11 04:06:33 video uploading
+help 2021-03-11 04:08:08 
+help 2021-03-11 04:08:15 its flipping around when flying, the ballast didnt do anything, stabilizers didnt work either and everything else is going all flippy
+help 2021-03-11 04:09:16 all
+help 2021-03-11 04:09:26 motors to move wing panels
+help 2021-03-11 04:10:00 lemme try.
+help 2021-03-11 04:12:21 didnt work.
+help 2021-03-11 04:13:22 what..
+help 2021-03-11 04:14:15 wait
+help 2021-03-11 04:15:23 i think in the contest rules, they said : "-You cannot use external programs for your build." but not to help you in a specific thing you want to do, so search for it in yt
+help 2021-03-11 04:15:47 but search for ONLY the motor locking system
+help 2021-03-11 04:15:53 well
+help 2021-03-11 04:16:08 one sec.
+help 2021-03-11 04:16:24 https://www.youtube.com/results?search_query=plane+crazy+motorlocking
+help 2021-03-11 04:16:29 this
+help 2021-03-11 04:17:14 one sec lemme get ya a vid i saw last week
+help 2021-03-11 04:18:42 very pixlated
+help 2021-03-11 04:19:06 *i know because if it was you wont be here asking how to do it*
+help 2021-03-11 04:22:40 bro
+help 2021-03-11 04:22:57 do you have the design of the window you want?
+help 2021-03-11 04:23:49 what exactly you want to motorlock
+help 2021-03-11 04:24:20 hmm
+help 2021-03-11 04:24:49 can you please get me a front and side pictue of the nose you built for now
+help 2021-03-11 04:25:49 thanks one sec.
+help 2021-03-11 04:28:40 Caps is for the font to appear properly
+help 2021-03-11 04:28:42 
+help 2021-03-11 04:31:26 oh wait
+help 2021-03-11 04:33:18 dont motorlock a sign here, motor lock a half block wedge in here
+help 2021-03-11 04:36:16 what
+help 2021-03-11 04:36:27 you didnt get the idea...
+help 2021-03-11 04:36:37 i meant when i fly, it goes backwards
+help 2021-03-11 17:47:50 help, i tried fixing this the whole day and nothing worked at all
+help 2021-03-11 17:52:02 well
+help 2021-03-11 17:52:10 that doesnt matter cause i tried that too
+help 2021-03-11 17:53:48 i added a ballast block at ten and it flipped forward
+help 2021-03-11 17:54:35 eh, i kinda want the rank, but nothing to do
+help 2021-03-11 17:55:02 on 9 it flipped backward on 10 it flipped forward, on 9.5 it flipped backward
+help 2021-03-11 17:55:16 tried
+help 2021-03-11 17:55:22 tried all
+help 2021-03-11 17:55:36 tried.
+help 2021-03-11 17:55:46 i said i tried everything this whole day
+help 2021-03-11 17:56:12 wait what
+help 2021-03-11 18:09:41 nvm i fixed it somehow thanks anyways
+help 2021-03-11 23:19:57 help its still happening...
+help 2021-03-11 23:20:10 i've done EVERY thing
+help 2021-03-11 23:20:51 35
+help 2021-03-11 23:20:53 hours
+help 2021-03-11 23:21:01 ...
+help 2021-03-11 23:21:11 aight
+help 2021-03-11 23:21:40 k
+help 2021-03-11 23:22:54 wait, so the contest is focusing on helicopter engineer...
+help 2021-03-11 23:23:05 well, fuck
+help 2021-03-11 23:23:44 i thought it was going for Aeronautical Engineer
+help 2021-03-11 23:24:08 i am dumb af then
+help 2021-03-11 23:25:47 i waited 14 hours and no one gave a shit about me, anyways lets go to <#497142796961054721>
+help 2021-03-12 00:15:25 no, thats total time spent on the whole game, that heli took 1 hour or 2 for it to make.
+the-dump 2021-03-12 07:42:53 trollus
+bot-central 2021-03-16 07:31:41 ?av Srx
+bot-central 2021-03-16 07:31:54 !servers
+bot-central 2021-03-16 07:32:03 yay
+bot-central 2021-03-16 07:32:06 i can use that
+bot-central 2021-03-16 07:35:26 wait waht
+bot-central 2021-03-16 07:35:31 !rank
+bot-central 2021-03-16 07:36:03 i am noob
+bot-central 2021-03-16 07:37:10 ***him***
+bot-central 2021-03-16 07:37:18 wtf
+bot-central 2021-03-16 07:37:21 i am stupid today
+bot-central 2021-03-16 10:00:44 !rank
+the-dump 2021-03-16 10:36:19 
+help 2021-03-23 07:00:55 i got a problem
+help 2021-03-23 07:02:27 i got distracted by the side
+help 2021-03-23 07:02:39 but forgot the fuselage
+help 2021-03-23 07:03:36 you mean very weird
+help 2021-03-23 07:03:48 it was a bad idea to start the plane from its nose...
+help 2021-03-23 07:04:13 so
+help 2021-03-23 07:04:28 got any idea how to fix it?
+help 2021-03-23 07:06:20 ..
+help 2021-03-23 07:07:14 alright?
+help 2021-03-23 08:27:26 can someone atleast help me?
+help 2021-03-23 08:27:56 airliner
+help 2021-03-23 08:28:06 but front is blocky
+help 2021-03-23 08:33:42 it, isnt...
+help 2021-03-23 09:00:33 k one sec
+help 2021-03-23 09:01:48 
+help 2021-03-23 09:01:48 
+help 2021-03-23 09:01:54 wth
+help 2021-03-23 09:02:05 that isnt..
+help 2021-03-23 09:02:08 wtf
+help 2021-03-23 09:02:24 
+help 2021-03-23 09:02:34 yeah
+help 2021-03-23 09:02:56 but when i complete the fuselage it would be like that
+help 2021-03-23 09:03:09 eh
+help 2021-03-23 09:03:12 lemme just try
+help 2021-03-23 09:04:52 the fuselage will be like this
+help 2021-03-23 09:05:53 windows+g
+help 2021-03-23 09:06:08 or
+help 2021-03-23 09:06:17 windows+alt+R
+bot-central 2021-03-23 14:05:44 ?help
+bot-central 2021-03-23 14:05:49 !help
+the-dump 2021-03-23 14:15:47 oh, i just knew that from you
+the-dump 2021-03-23 14:15:59 i didnt understand what was going on there
+the-dump 2021-03-23 14:16:30 sus
+the-dump 2021-03-23 14:24:15 https://media.discordapp.net/attachments/769731732151861249/821282098304385044/speed.gif
+the-dump 2021-03-23 14:24:40 https://media.discordapp.net/attachments/715815120130801674/814989586556125231/image0.gif
+the-dump 2021-03-23 14:26:13 гей паук
+the-dump 2021-03-23 14:32:31 yes
+the-dump 2021-03-23 14:32:45 LMFAO
+the-dump 2021-03-23 14:33:19 idk
+the-dump 2021-03-23 14:39:01 wtf
+the-dump 2021-03-23 14:54:43 epik transition
+the-dump 2021-03-23 14:55:33 same
+the-dump 2021-03-23 14:56:05 thats i think 90% of the furry community
+the-dump 2021-03-23 14:56:12 ***i think***
+the-dump 2021-03-23 14:56:56 some are good and some are annoying
+the-dump 2021-03-23 14:58:35 mario be doctoring doe
+the-dump 2021-03-23 15:00:48 https://cdn.discordapp.com/attachments/770824877148995615/823620018302091364/i.mp4
+the-dump 2021-03-25 12:02:12 https://cdn.discordapp.com/attachments/770824877148995615/824333521048830022/lowest_quality_mario_dancing-12.mp4
+the-dump 2021-03-25 12:27:15 i hate wasting time on something i think is going to be good but appears to be bad af
+the-dump 2021-03-25 12:27:58 ***cringe***
+the-dump 2021-03-25 12:28:50 moving on
+the-dump 2021-03-25 12:31:58 <:BIG1:588443768806703124><:BIG2:588443778554134540> 
+<:BIG3:588443788721258534><:BIG4:588443798842114088>
+the-dump 2021-03-25 12:32:17 nice songs till memers ruined it
+the-dump 2021-03-25 14:39:34 thats an OUCH  right there
+the-dump 2021-03-25 14:39:38 i felt that man
+the-dump 2021-03-25 14:39:47 i felt that deeply
+creations-chat 2021-03-26 17:48:14 <@!705507573662482513> if a fighter jet got any heli controls or blades, doesnt that mean its V-tol?
+the-dump 2021-03-29 13:21:53 
+the-dump 2021-03-29 13:22:36 ok
+the-dump 2021-03-29 13:37:44 oh no they got the 747 too
+the-dump 2021-03-29 13:38:01 shes DEAD
+the-dump 2021-03-29 13:38:33 what
+the-dump 2021-03-29 13:38:56 no
+the-dump 2021-03-29 13:38:56 uh
+the-dump 2021-03-29 20:07:28 https://cdn.discordapp.com/attachments/731577199244738620/826176065579253841/chocolate_fishe.mp4
+the-dump 2021-03-31 16:12:06 
+the-dump 2021-03-31 16:12:50 flight.to are officially posting dumb things
+the-dump 2021-04-03 02:28:30 https://cdn.discordapp.com/attachments/661328864709967894/827317227396136998/image0.jpg
+the-dump 2021-04-03 02:29:28 wait this legit happened?
+the-dump 2021-04-03 02:29:40 and juan got ran over by services?
+the-dump 2021-04-03 02:30:06 oh nvm
+the-dump 2021-04-03 02:30:22 LMFAO
+the-dump 2021-04-03 02:30:44 he got scared
+the-dump 2021-04-03 02:31:00 and pooped as fast as possible
+the-dump 2021-04-03 02:31:15 so he went stone mode to continue pooping
+the-dump 2021-04-03 02:31:46 LMFAO
+the-dump 2021-04-03 02:33:32 https://tenor.com/view/cringe-im-out-im-out-too-much-cringe-too-much-cringe-gif-20160804
+the-dump 2021-04-03 02:35:05 https://tenor.com/view/chocolatemilkfan100-gif-18525493
+bot-central 2021-04-03 03:23:19 ?rhelp
+the-dump 2021-04-03 03:28:41 https://media.discordapp.net/attachments/553322925395017732/806773268870594570/image0-5.gif
+the-dump 2021-04-03 03:29:31 https://tenor.com/view/bitch-you-a-joke-bitch-joke-clown-fool-gif-15610071
+the-dump 2021-04-03 03:29:55 wait
+the-dump 2021-04-03 03:30:08 how in fuck's name did you react with two S's..
+the-dump 2021-04-03 03:30:32 https://tenor.com/view/juan-flip-gif-18577803
+the-dump 2021-04-03 03:30:42 do the J
+the-dump 2021-04-03 03:31:01 yep
+the-dump 2021-04-03 03:33:57 
+the-dump 2021-04-03 07:40:58 reminds me of something...
+the-dump 2021-04-03 08:46:01 https://tenor.com/view/cartoon-ghost-haunted-gif-5446914
+the-dump 2021-04-03 08:46:24 epic 2015 gif usage
+the-dump 2021-04-03 22:43:58 😄
+the-dump 2021-04-06 00:40:56 
+bot-central 2021-04-06 00:46:42 funny moment
+bot-central 2021-04-06 00:47:02 =skip
+the-dump 2021-04-06 13:37:54 https://cdn.discordapp.com/attachments/723929963811831860/828711095455055913/redditsave.com_society-ybv2ew9lybr61.mp4
+the-dump 2021-04-06 13:39:59 i dont know
+the-dump 2021-04-06 13:40:05 reposted
+the-dump 2021-04-07 05:42:22 kot
+the-dump 2021-04-07 05:45:11 yep
+the-dump 2021-04-07 05:45:46 https://cdn.discordapp.com/attachments/822169367097507932/829103252883898418/yh2q8y9r4gn61.png
+the-dump 2021-04-07 05:47:28 https://cdn.discordapp.com/attachments/723929963811831860/828711369950887976/video0.mp4
+the-dump 2021-04-07 05:54:59 why tho
+the-dump 2021-04-07 05:55:04 thats a picture..
+bot-central 2021-04-07 09:54:50 !servers
+the-dump 2021-04-08 04:32:34 what he say?
+the-dump 2021-04-08 04:35:33 oh
+the-dump 2021-04-08 04:42:35 https://cdn.discordapp.com/attachments/544582921726591016/829574335575490610/image0-7-1.png
+the-dump 2021-04-08 06:00:22 
+the-dump 2021-04-08 06:17:15 https://cdn.discordapp.com/attachments/544582921726591016/829593245716709387/40e196d2.png
+the-dump 2021-04-08 06:37:16 that is more than the members count 2 times
+the-dump 2021-04-16 11:09:38 .
+the-dump 2021-04-16 11:14:24 https://cdn.discordapp.com/attachments/635637979158806565/832314530007875634/image0.png
+the-dump 2021-04-16 11:15:38 https://cdn.discordapp.com/attachments/544582921726591016/832482914691973150/image0.jpg
+the-dump 2021-04-16 11:47:11 i agree
+the-dump 2021-04-18 14:53:44 who real
+bot-central 2021-04-20 23:12:46 !servers
+bot-central 2021-04-20 23:30:23 !expert servers
+bot-central 2021-04-20 23:30:26 nice
+bot-central 2021-04-20 23:30:48 do $new then send it in the ticket
+bot-central 2021-04-20 23:30:55 just say $new
+bot-central 2021-04-20 23:31:08 and you will get the rest
+bot-central 2021-04-20 23:31:14 wait what
+bot-central 2021-04-20 23:31:26 say $help
+bot-central 2021-04-20 23:31:37 wait
+bot-central 2021-04-20 23:31:39 uh
+bot-central 2021-04-20 23:31:41 bot bad
+bot-central 2021-04-20 23:31:50 you dumbass
+the-dump 2021-04-23 01:48:47 https://tenor.com/view/ritz-car-ritz-car-gif-18299980
+the-dump 2021-04-23 01:51:57 what kind of sandwich
+the-dump 2021-04-23 01:52:10 no
+the-dump 2021-04-23 01:52:11 i mean
+the-dump 2021-04-23 01:52:15 cheese?
+the-dump 2021-04-23 01:52:22 or PB and jam
+the-dump 2021-04-23 01:52:36 i have all recipies
+the-dump 2021-04-23 01:52:40 cheese
+the-dump 2021-04-23 01:52:54 what kind of ||cheese|| you have
+the-dump 2021-04-23 01:55:24 
+bot-central 2021-04-23 01:56:21 !rank
+the-dump 2021-04-23 01:56:36 cos yes
+the-dump 2021-04-23 01:56:58 https://media.discordapp.net/attachments/329154768733995009/833948939631067166/image0-3.gif
+the-dump 2021-04-23 01:58:01 can we respect the fact that fart channel existed
+the-dump 2021-04-23 02:02:09 reey
+the-dump 2021-04-23 02:02:25 nokia gang
+the-dump 2021-04-23 02:02:51 HOW DID YOU KNOW I WAS USING THAT
+the-dump 2021-04-23 02:03:37 then dont scroll up bloody hell
+the-dump 2021-04-23 02:03:57 want more virus?
+help 2021-04-23 02:41:04 how do i do a toggle'able motorlock ?
+help 2021-04-23 03:47:09 why
+help 2021-04-23 03:47:10 i can
+help 2021-04-23 03:47:49 .
+help 2021-04-23 04:41:45 explain now
+help 2021-04-23 04:41:54 ples
+help 2021-04-23 04:41:57 pretty ples
+help 2021-04-23 14:00:11 motorlocking is ok, even tho i did the same exact way of how everbody does a custom angle with motorlocks but it didnt merge with the block underneath
+help 2021-04-23 14:14:16 help, this looks ugly af
+help 2021-04-23 14:14:26 wanted to make this curved
+help 2021-04-23 14:14:35 the roof
+help 2021-04-23 14:15:06 tried that but didnt work sadly
+help 2021-04-23 14:15:48 let me try it once more
+help 2021-04-23 14:18:45 shoved it up where
+help 2021-04-23 14:20:50 made not maked <:empty:794431705070174238>
+help 2021-04-23 14:21:02 i mean the roof curve
+help 2021-04-23 14:37:48 custom angle didnt work, help
+help 2021-04-23 14:40:15 i dont want to give up even tho i am such a noob
+help 2021-04-23 14:41:50 what do you mean by "up with the front"?
+help 2021-04-23 14:42:26 or maybe too much weight in the back
+help 2021-04-23 14:42:57 hmm
+help 2021-04-23 14:42:59 video?
+help 2021-04-23 14:43:30 mhm
+help 2021-04-23 14:44:35 
+help 2021-04-23 14:44:49 thats a bit too back but you got the idea
+help 2021-04-23 14:45:04 yes
+help 2021-04-23 14:45:25 look at other commercial planes pictures and watch where the wing is
+help 2021-04-23 14:45:50 in the middle
+help 2021-04-23 14:46:47 weird
+help 2021-04-23 14:47:13 this might need joining for full 360 view
+help 2021-04-23 14:47:33 i can join anybody
+help 2021-04-23 14:47:41 the gamemodes tab bottom right
+help 2021-04-23 14:48:09 server full anyways
+help 2021-04-23 14:48:19 anyways, gl with your plane!
+help 2021-04-23 14:49:10 one sec
+help 2021-04-23 14:49:19 https://www.youtube.com/watch?v=K7GskmdXE48
+help 2021-04-23 14:49:38 full?
+help 2021-04-23 14:49:52 then thats very weird
+help 2021-04-23 14:52:52 https://www.youtube.com/watch?v=d5owbY4ONB0
+help 2021-04-23 14:55:24 no no google is acting weird for me too today
+bot-central 2021-04-23 16:20:55 !servers
+bot-central 2021-04-23 17:50:43 ?ping
+the-dump 2021-04-23 17:51:54 https://tenor.com/view/cereal-hacks-useless-spoon-spoon-hammer-spoon-gif-15435632
+the-dump 2021-04-23 17:54:43 shes living under the sea <:trollface:775024642104229898>
+creations-chat 2021-04-24 01:00:29 mator leck
+creations-chat 2021-04-24 01:02:55 ***white name***
+creations-chat 2021-04-24 01:04:58 pls gib me B2 FFS
+the-dump 2021-04-24 03:06:25 https://tenor.com/view/bad-day-sad-bad-scared-puppy-gif-13223684
+the-dump 2021-04-24 03:10:03 https://tenor.com/view/despite-all-my-rage-gif-21176295
+the-dump 2021-04-24 03:14:00 skip
+the-dump 2021-04-24 03:17:13 
+the-dump 2021-04-24 03:18:34 yes
+the-dump 2021-04-24 03:18:50 babft bad, might make the evergreen in PC
+the-dump 2021-04-24 03:38:16 whats that game btw
+the-dump 2021-04-25 05:05:03 rate my new babe
+the-dump 2021-04-25 05:31:18 cry about it
+help 2021-04-25 23:00:33 i need help
+the-dump 2021-04-25 23:02:12 
+help 2021-04-25 23:04:55 angle ideas for the roof?
+help 2021-04-26 02:59:13 please help, the contest is done tmr and i got no time
+help 2021-04-26 23:46:35 or, just motorlock two half wedge up's
+creations-chat 2021-04-28 01:41:24 <@!683847069890510887> please tell me what you didnt like so i can improve
+creations-chat 2021-04-28 01:44:13 ?
+creations-chat 2021-04-28 01:49:49 yes very small
+creations-chat 2021-04-28 01:51:49 .
+creations-chat 2021-04-28 01:53:59 uh, the black windows are for a reason, the glass material looks very cursed with the block marks appearing inside each other
+creations-chat 2021-04-28 01:57:52 it happens with normal glass dude, i never use legacy
+creations-chat 2021-04-28 02:00:35 yes, also can work as a steering fin
+creations-chat 2021-04-28 02:36:56 
+creations-chat 2021-04-28 02:40:21 it worked, wow
+bug-reports 2021-04-28 21:20:27 uh
+the-dump 2021-04-29 07:08:54 https://cdn.discordapp.com/attachments/495286269459300364/836842699675795496/OOOHHAAEEUUHHPHHHH.mp4
+the-dump 2021-04-29 07:23:33 https://cdn.discordapp.com/attachments/723929963811831860/837222249714548736/video0-96.mp4
+the-dump 2021-04-29 08:52:00 https://media.discordapp.net/attachments/685268129630126085/827847122200035369/image0.gif
+the-dump 2021-04-30 02:16:56 he has a mag in his ass?
+the-dump 2021-04-30 02:18:29 LMFAO
+the-dump 2021-04-30 02:18:51 ender pearl ender pearl
+the-dump 2021-04-30 02:20:33 manhkpaot be like
+bot-central 2021-04-30 02:21:34 ?av <@!687268103046037544>
+the-dump 2021-04-30 02:21:43 wait what are those
+the-dump 2021-04-30 02:21:44 sure
+the-dump 2021-04-30 02:21:46 but wait
+the-dump 2021-04-30 02:21:49 lemme look them up
+the-dump 2021-04-30 02:22:07 oh
+the-dump 2021-04-30 02:22:17 <#384021699466756107>
+the-dump 2021-04-30 11:17:29 true'est comment i saw on a video today
+the-dump 2021-04-30 11:25:09 say lovely lovely three times a-day to wing the frog
+bot-central 2021-04-30 11:26:02 ?covid united kingdom
+bot-central 2021-04-30 11:26:20 ?covid middle east
+bot-central 2021-04-30 11:26:28 ?covid europe
+bot-central 2021-04-30 11:26:31 FUCK
+bot-central 2021-04-30 11:26:47 maybe
+bot-central 2021-04-30 11:27:05 ?covid riyadh
+bot-central 2021-04-30 11:27:09 FUCK THIS
+the-dump 2021-04-30 12:03:29 
+the-dump 2021-04-30 12:10:51 no life
+the-dump 2021-05-01 01:34:39 best 4 minutes an a half in my day
+the-dump 2021-05-01 02:45:02 when arab
+the-dump 2021-05-01 02:45:15 wait
+the-dump 2021-05-01 02:45:24 sus emoji gone <:nooo:787097964946259978>
+the-dump 2021-05-01 02:45:49 oh wait your back?
+the-dump 2021-05-01 02:46:03 <:nooo:787097964946259978>
+creations-chat 2021-05-01 10:32:20 thats beautiful man
+bot-central 2021-05-01 12:36:32 ?shelp
+bot-central 2021-05-02 03:22:44 =skip
+bot-central 2021-05-02 03:23:30 waking up early af gang
+bot-central 2021-05-02 03:24:31 ricke be like
+bot-central 2021-05-02 03:24:53 no
+bot-central 2021-05-02 03:24:55 no
+bot-central 2021-05-02 03:25:04 the road music is good
+bot-central 2021-05-02 03:27:44 feman
+bot-central 2021-05-02 03:27:49 😒
+bot-central 2021-05-02 03:27:53 what
+bot-central 2021-05-02 03:27:55 what
+bot-central 2021-05-02 03:27:56 😒
+bot-central 2021-05-02 03:27:59 WHAT THE
+bot-central 2021-05-02 03:28:04 = s
+bot-central 2021-05-02 03:28:25 😒
+bot-central 2021-05-02 03:28:50 BIG SHUNGUZ
+bot-central 2021-05-02 03:29:00 BIG BIG BIG CHUNUSZ
+bot-central 2021-05-02 03:29:09 <:largerabbit:772883550349426719>
+bot-central 2021-05-02 03:29:17 small chunguz
+bot-central 2021-05-02 03:29:25 huge chungus
+bot-central 2021-05-02 03:29:58 <:largerabbit:772883550349426719>
+bot-central 2021-05-02 03:30:06 =no dont
+bot-central 2021-05-02 03:30:16 no
+bot-central 2021-05-02 03:30:23 admin fail
+bot-central 2021-05-02 03:31:10 really?
+bot-central 2021-05-02 03:32:18 good day/night
+bot-central 2021-05-02 03:33:52 junk meet she's let-us beens
+bot-central 2021-05-02 03:35:01 😒
+bot-central 2021-05-02 03:35:21 w      h       a       t
+bot-central 2021-05-02 03:54:06 !servers
+bot-central 2021-05-04 13:09:09 %shelp
+bot-central 2021-05-04 13:09:21 $shelp
+bot-central 2021-05-04 13:09:24 !shelp
+bot-central 2021-05-04 13:09:26 fuck
+bot-central 2021-05-04 13:09:29 %help
+bot-central 2021-05-04 13:09:33 !help
+bot-central 2021-05-04 13:09:52 ?shelp
+creations-chat 2021-05-05 07:54:07 how should i hide the motorlocking?
+creations-chat 2021-05-05 07:56:07 smooth af
+creations-chat 2021-05-05 08:31:46 the wing will go fatter
+bot-central 2021-05-05 14:06:07 !rank
+creations-chat 2021-05-05 14:09:40 LMFAO
+creations-chat 2021-05-05 14:11:41 camoflage or dark grey aka eurofighter color, she sick thats why bandages
+bot-central 2021-05-06 15:08:17 !Servers
+the-dump 2021-05-06 18:56:01 am
+bot-central 2021-05-06 18:56:24 s?help
+bot-central 2021-05-06 18:57:16 thats =play
+bot-central 2021-05-06 18:57:24 second of all
+bot-central 2021-05-06 18:57:42 i think it works only in top tunes
+bot-central 2021-05-06 19:00:47 just go to top tunes
+bot-central 2021-05-06 19:00:48 rq
+bot-central 2021-05-06 19:00:54 and use =play
+bot-central 2021-05-06 19:01:03 do it
+bot-central 2021-05-06 19:01:07 you wont loose anything
+bot-central 2021-05-06 19:01:35 =play white stripes
+bot-central 2021-05-06 19:01:38 see?
+bot-central 2021-05-06 19:01:44 now go lestin
+bot-central 2021-05-06 19:01:50 i leave
+bot-central 2021-05-06 19:02:13 <#478584971670454284> exists
+bot-central 2021-05-06 19:02:49 =leave
+help 2021-05-06 19:03:43 just post the picture and the problem, then people will come to help
+bot-central 2021-05-09 19:39:11 !servers
+the-dump 2021-05-09 19:39:51 roblos ad roblos ad
+the-dump 2021-05-09 19:47:31 she hot
+the-dump 2021-05-09 20:58:34 SHITPOST
+the-dump 2021-05-09 20:58:36 WARORNRINGING
+the-dump 2021-05-09 21:02:22 https://media.discordapp.net/attachments/630204782497366056/754238964298416138/692421680982655126-1.gif
+the-dump 2021-05-09 21:03:19 https://media.discordapp.net/attachments/583686129178378259/839942917317591040/image0.gif
+the-dump 2021-05-10 02:27:23 **s     e     a**
+the-dump 2021-05-10 02:29:25 a pin can kill while going slow
+creations-chat 2021-05-10 14:22:02 is the gear too big, and how should i fix it
+creations-chat 2021-05-10 14:27:12 nah fuck you i wont delete it
+creations-chat 2021-05-10 14:32:54 <:trollface:775024642104229898>
+creations-chat 2021-05-10 20:21:34 
+creations-chat 2021-05-10 20:27:51 notice something?, that i used motors, and asked for help from alot of people but motors doesnt like the way it folds so shush
+creations-chat 2021-05-10 21:33:38 i fucking made that in two hours what the fuck do you expect
+help 2021-05-11 01:50:30 What should i make?
+bot-central 2021-05-11 15:23:02 =skip
+bot-central 2021-05-11 16:03:15 !servers
+bot-central 2021-05-12 01:06:13 !rank
+bot-central 2021-05-12 01:06:26 !server
+bot-central 2021-05-12 01:06:35 !servers
+help 2021-05-12 03:30:42 for a car suspension what should i set damping at?
+help 2021-05-12 03:43:02 ?
+help 2021-05-12 03:43:07 .
+help 2021-05-12 03:44:00 alright
+bot-central 2021-05-12 04:05:50 !rank
+bot-central 2021-05-12 04:05:54 noob
+bot-central 2021-05-12 04:05:55 noob
+bot-central 2021-05-12 04:05:59 !rank
+bot-central 2021-05-12 04:08:06 !rank
+bot-central 2021-05-12 04:21:03 ranj
+help 2021-05-12 04:37:44 
+help 2021-05-12 04:37:44 i need help this looks ugly
+help 2021-05-12 04:37:55 also need help with the bumper
+help 2021-05-12 04:43:28 bumper
+help 2021-05-12 04:43:41 and the front overall it looks ugly
+bot-central 2021-05-12 06:09:56 !rank Deutschland_BaII
+bot-central 2021-05-12 06:10:15 !rank 499705220637392897
+bot-central 2021-05-12 07:20:07 !server
+bot-central 2021-05-12 07:20:12 !servers
+bot-central 2021-05-12 16:35:10 !servers
+the-dump 2021-05-12 23:00:03 OMG OMG PHREE PHE EY PEE
+the-dump 2021-05-12 23:00:29 
+the-dump 2021-05-12 23:06:58 thats why it stopped after 2 turns
+the-dump 2021-05-12 23:07:00 720
+the-dump 2021-05-13 15:40:57 https://cdn.discordapp.com/attachments/634755929320980499/842425242072121374/artworks-000322457628-8hfigb-t500x500.png
+the-dump 2021-05-13 15:45:44 2 Seconds version
+the-dump 2021-05-13 16:30:05 https://media.discordapp.net/attachments/728069091570483273/801526583961583706/freeze.gif
+the-dump 2021-05-14 06:31:42 https://cdn.discordapp.com/attachments/831182140535865406/839668386651963392/image0.png
+https://cdn.discordapp.com/attachments/831182140535865406/840091579993817108/Screenshot_2021-05-07-02-02-352.png
+https://cdn.discordapp.com/attachments/831182140535865406/842198610237587506/colombus.mp4
+the-dump 2021-05-14 06:31:51 dumping some shit in here dont mind me
+the-dump 2021-05-14 06:33:17 colombus
+the-dump 2021-05-15 06:03:59 https://media.discordapp.net/attachments/634755929320980499/843005376545816576/gifgif.gif
+the-dump 2021-05-15 06:04:04 aw
+the-dump 2021-05-15 06:04:07 YES
+the-dump 2021-05-15 21:33:26 duk
+the-dump 2021-05-20 06:55:22 https://cdn.discordapp.com/attachments/731876270073446420/844830391285448734/e407456064901eb3c1d9d039d7651ff22420929234dddfa23d25c5a77317b127_1.mp4
+the-dump 2021-05-20 11:40:42 HE FOUND HIM!!!1111!
+the-dump 2021-05-20 11:40:51 legend
+the-dump 2021-05-20 11:40:53 how
+bot-central 2021-05-20 16:03:01 !rank
+bot-central 2021-05-21 11:23:52 !servers
+the-dump 2021-05-28 11:33:44 real
+bot-central 2021-06-23 05:30:52 !profile
+bot-central 2021-06-23 05:30:57 1
+bot-central 2021-06-23 05:31:02 !account
+bot-central 2021-06-23 05:31:04 ..
+bot-central 2021-06-23 05:31:12 !help
+bot-central 2021-06-23 05:31:16 no.
+bot-central 2021-06-23 05:31:21 ?help
+bot-central 2021-06-23 05:32:16 !verify
+bot-central 2021-06-23 05:32:24 why
+bot-central 2021-12-03 00:16:20 !servers
+bot-central 2021-12-03 00:16:27 -servers
+the-dump 2022-04-22 01:48:55 who the fuck names their movie spaceballs
+the-dump 2022-04-22 01:49:17 who gave a fuck about you
+the-dump 2022-04-22 01:49:29 https://tenor.com/view/shitpost-status-gif-20883697
+the-dump 2022-04-22 01:50:11 logs
+the-dump 2022-04-22 01:50:30 but no fr
+the-dump 2022-04-22 01:50:36 a channel named logs
+the-dump 2022-04-22 01:50:54 faweihjo
+creations-chat 2022-10-02 11:52:39 <@441125486312030221>
+help 2022-10-03 03:45:36 anyone got flaps designs/tips?
+help 2022-10-03 04:26:48 thank you
+creations-chat 2023-04-10 22:27:18 bro mad
+"uhm, is that even plane crazy resulotion...?????" ☝️🤓

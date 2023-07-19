@@ -1,0 +1,13 @@
+The Tale of alancatboy (764244218499563520)
+help 2023-06-04 23:58:16 How do i fix this?
+help 2023-06-05 00:20:01 Tried that already
+help 2023-06-05 00:20:17 0.1 torque and 1 speed it still goes flying for some reason
+help 2023-06-05 00:25:30 Aw hell nah
+help 2023-06-05 00:25:57 It works fine when its anchored by hull
+help 2023-06-05 00:26:04 But obviously it will move
+help 2023-06-05 06:03:28 it wasnt inverted, it had no direction
+help 2023-06-05 06:03:46 That makes it worse
+help 2023-06-05 16:29:01 ill see if that works
+help 2023-06-05 16:29:04 thank you
+help 2023-06-06 13:16:31 BTW why does the motor 2 spin alot sometimes when turret too heavy?
+goes to right target but wobbles left to right alot

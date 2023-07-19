@@ -1,0 +1,2 @@
+The Tale of shaguzzy (366787085379698689)
+bot-central 2021-03-28 01:38:13 &suggest add a coordinate thing to tell you where on the map you are with xyz coordinates. If youre really far up, you can check if youre still above the map and not above the void

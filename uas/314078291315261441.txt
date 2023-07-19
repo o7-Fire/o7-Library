@@ -1,0 +1,21 @@
+The Tale of .pulsefire (314078291315261441)
+creations-chat 2021-11-07 19:49:43 <@!740641695783321670> 
+特别好！你的家人和好朋友都安全！
+creations-chat 2021-11-07 19:56:49 https://discord.com/channels/384021699466756103/384025409945337856/906992425250193450
+help 2021-11-07 21:12:08 how does one build a basic conveyor drive
+help 2021-11-07 22:08:15 I have grappled with this thing for 3 days now
+Okay, so - there's like an underslung tail-like structure on this thing, like a keel, except putting control surfaces on it really seemed to do jack shit for keeping this thing stable
+Replace with a motor-driven control surface?
+help 2021-11-07 22:08:46 (Also, the source design is supposed to be launched on a giant rocket booster, but fuck that I'm not making that thing)
+help 2021-11-07 22:10:47 dammit
+so the design wasn't possible after all
+help 2021-11-07 22:14:13 hmmmmmmm
+actually, I don't know if the rudder is the problem anymore
+I had to use a really dense ballast block to get the thing to fly because it's so front-loaded and I couldn't fit enough helium
+does distribution of mass affect turnrate?
+help 2021-11-07 22:14:45 and apparently - testing it now - it *does* fly, just sluggishly
+help 2021-11-07 22:15:07 tends to get stuck in turns
+help 2021-11-07 22:18:40 lemme see
+okay, so it *is* the rudder - getting rid of the ultradense ballast block at the back didn't make it turn any faster
+guess I'll dismantle that and work on it
+thanks

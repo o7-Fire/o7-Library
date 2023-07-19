@@ -1,0 +1,21 @@
+The Tale of CAUE4000 (540094689424965633)
+help 2022-02-06 11:06:18 how do i make a car lift and float in a controlable way
+help 2022-02-06 11:07:09 ok but how i use hover truster
+help 2022-02-06 11:07:25 i always try and it is horrible to control
+help 2022-02-06 11:07:34 ok
+help 2022-02-06 11:07:40 ok
+help 2022-02-06 11:07:53 i will try to do this and will come back with the results
+help 2022-02-06 11:07:55 thanks dudes
+help 2022-02-06 11:17:54 ok i am back it kinda of worked but it is impossible to control useing the propellers
+help 2022-02-06 11:19:14 no
+help 2022-02-06 11:19:32 sorry i forgot to remove the reply
+help 2022-02-06 11:19:46 ok
+help 2022-02-06 11:21:20 IT WORKED
+help 2022-02-06 11:21:25 THANKS GUYS
+help 2022-02-06 11:33:57 ok i have a problem
+help 2022-02-06 11:34:09 the hover trust sometimes glitches and jumps
+help 2022-02-06 11:34:21 and the drone is rotating slowly
+help 2022-02-06 11:34:27 i tested and it is not my fps
+help 2022-02-06 11:35:32 hmmm
+help 2022-02-06 11:35:40 i will try to place more trusts
+help 2022-02-06 11:38:01 ok i fixed it

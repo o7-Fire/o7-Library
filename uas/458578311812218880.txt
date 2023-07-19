@@ -1,0 +1,15 @@
+The Tale of chupachups (458578311812218880)
+bot-central 2020-11-23 01:03:20 -help
+bot-central 2020-11-23 01:03:55 -help suggest
+bot-central 2020-11-23 01:04:00 -help -suggest
+bot-central 2020-11-23 01:04:04 -suggest
+bot-central 2020-11-23 01:04:11 -mapsuggest
+bot-central 2020-11-23 01:04:16 -h
+help 2020-11-23 01:04:30 How do I suggest
+bot-central 2020-11-23 01:04:39 ?shelp
+bot-central 2020-11-23 01:05:07 ?rhelp
+help 2020-11-23 03:12:41 How do I get inside a pilot seat?
+help 2020-11-23 03:29:36 whats the controls for flying?
+help 2020-11-23 03:29:42 i cant turn
+help 2020-11-23 03:30:26 yes
+help 2020-11-23 03:30:55 ok

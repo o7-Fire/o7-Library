@@ -1,0 +1,122 @@
+The Tale of peepeepoopoomen (794217814260711444)
+bot-central 2022-07-01 06:41:55 !verify
+bot-central 2022-07-01 06:41:59 !reverify
+bot-central 2022-07-01 06:42:03 !cmds
+bot-central 2022-07-01 06:42:06 !help
+help 2022-07-01 21:32:56 ok so im making a mechagodzilla 2021 right now and i was kinda curious if anyone has tips for making it walk
+help 2022-07-01 21:33:03 i know its lik
+help 2022-07-01 21:33:05 not that much
+help 2022-07-01 21:33:10 so i dont expect any exact answer
+help 2022-07-01 21:33:11 s
+help 2022-07-01 21:33:14 but maybe some ideas
+help 2022-07-01 21:33:21 i have a motor in it that allows the knee to uh
+help 2022-07-01 21:33:25 let me get a pic
+help 2022-07-01 21:33:43 this is it loaded
+help 2022-07-01 21:33:44 and
+help 2022-07-01 21:33:58 this is the knee moving
+help 2022-07-01 21:34:19 also for some reason when i move the knee joint it starts to spazzz out and i think i know why, i jsut dont know how to fix it
+help 2022-07-01 21:35:12 this is what im building btw
+help 2022-07-01 21:35:22 
+bot-central 2022-07-02 00:25:10 ?shelp
+bot-central 2022-07-02 00:27:01 &suggest Add a feature in the smoke/snow pipes that allows them to either start instantly when a building is launched or requires a key to start after you launch a building 
+(basically so you dont have to turn off smoke pipes as soon as you launch a building )
+help 2022-07-02 04:02:45 what does the torque do on motors?
+help 2022-07-02 04:19:15 alr thanks my dad told me what it was awhile ago but I didnt understand it at the time
+help 2022-07-02 04:19:24 i mean i probably couldve just googled it
+help 2022-07-02 08:55:23 anyone have any ideas on how to make this walk?
+help 2022-07-02 08:55:30 like where would i put the motors and such
+help 2022-07-02 08:55:45 i already have motors installed in the legs
+help 2022-07-02 08:55:48 i just like
+help 2022-07-02 08:55:53 i nee dit in the ankles and top legs
+help 2022-07-02 08:57:15 i might need to remove the fake hydraulics because they block movement
+help 2022-07-02 09:31:41 yeah
+help 2022-07-02 09:31:45 but
+help 2022-07-02 09:31:48 any tips for now?
+help 2022-07-02 09:31:50 im too far in
+help 2022-07-02 09:42:43 its too stable to where i cant make it move
+help 2022-07-02 09:47:04 or maybe he doesnt have a tailblade?
+help 2022-07-02 09:47:13 i mean it sounds like common knowledge but who knows
+help 2022-07-02 09:47:19 maybe he doesnt know
+help 2022-07-02 09:51:32 you havnet?
+help 2022-07-02 09:53:29 havent
+help 2022-07-02 09:53:31 typo
+help 2023-05-19 21:31:51 does anyone know how fast pistons move
+help 2023-05-20 03:22:14 which mechagodzilla is that
+help 2023-05-20 03:22:28 i know its been like over a year but i was just browsing through old builds
+creations-chat 2023-05-20 03:34:29 my mechagodzilla project
+creations-chat 2023-05-20 05:53:44 cant wait to finish it
+creations-chat 2023-05-20 15:47:22 mechagodzilla project
+creations-chat 2023-05-27 04:00:34 progress on my mechagodzilla project
+
+yall think this will make HOF when finished?
+creations-chat 2023-05-27 04:51:41 i feel like when i finish i should just wait for pc2 to drop or wait for the server to become active again because i dont want this to become lost like a lot of other amazing creations
+creations-chat 2023-05-27 05:15:40 real
+creations-chat 2023-05-28 01:31:19 more progress on the mechagodzilla project
+creations-chat 2023-05-28 02:06:48 1 player compared to the size of the build so far
+creations-chat 2023-05-28 02:19:55 the only issue is that i made the current torso (its aobut 2/3 built) too tall so i dont know if its going to make it look too akward.
+i cant go back though so ill have to work with what i have
+creations-chat 2023-05-28 02:24:26 the back now has covers, the reason i take long is because i have to go through many different designs and adjust 1 pixel issues because theres so many motors
+
+most of the time im really just experimenting and tuning the motors to make sure it fits right
+
+after im done with the bottom area of the torso you will start to see changes to the build
+creations-chat 2023-05-28 08:16:20 is this better?
+
+i think its too chunky though, i tried to slim it down and it seems to be an accurate scale compared to the legs but it still seems too big
+creations-chat 2023-05-28 08:28:46 i love that, is that the 2021 version or a different one? it kinda lookslike the ready plyer one version to me
+creations-chat 2023-05-28 08:31:11 i think the top of the head is too round, it sohuld be more sharper like this
+other than that it looks amazing
+
+also if you want i can show you how to make a laser beam that i learned from one of the HOF builders
+creations-chat 2023-05-28 23:23:52 does anyone know how to fix this? 
+im trying to fold to the top of my mechagodzilla but no matter what settings i put on the motor it keeps going downwards, bcakwards or foward, max torque or not, it wont move upwards
+
+nvm i partially have it figured out, when i fold i normally use motor 2s on servo and toggle, but i guess for this case i have to use standard motors for it to fold
+
+if anyone does know why this phenomenon happens i would like to know
+help 2023-05-29 05:34:31 what do ballast tanks do?
+creations-chat 2023-05-30 13:27:38 the arms are taking place now
+theres going to be so many controls so i will probably have a friend also hook up a keyboard to the pc so we can both control it like some pacific rim type thing
+a majority of the keys on my full sized keyboard are already taken and i havent made a lot of other features
+creations-chat 2023-05-30 13:35:17 the only blocky part is the back i think
+
+i plan on redesigning the back parts once im done with everything else
+creations-chat 2023-06-01 07:05:40 first part of the right arm complete
+hopefully i can finish the whole arm tomorrow
+https://cdn.discordapp.com/attachments/1079655733362171966/1113725323780034621/image.png
+creations-chat 2023-06-02 03:29:03 this random was trying to tell me how to build my mechagodzilla 💀💀
+creations-chat 2023-06-02 03:35:09 first arm of the mecha g complete
+creations-chat 2023-06-02 03:41:35 Real
+creations-chat 2023-06-02 03:44:19 I think just the lower needs to be wider
+creations-chat 2023-06-02 03:47:44 Originally it was WAY too wide anyways
+creations-chat 2023-06-03 06:42:40 second arm is done
+creations-chat 2023-06-03 07:20:38 game crashed after it fell into the void
+
+i literally have to use task manager to fix it
+creations-chat 2023-06-04 22:32:43 do you guys think this upper chest area is good enough or should i change it
+
+something seems off about it but i cant really tell what
+creations-chat 2023-06-04 22:49:47 besides the gap in the middle
+creations-chat 2023-06-04 22:51:49 you said that last time
+creations-chat 2023-06-04 22:54:54 is it that far off?
+
+i could make the lower waist wider ig
+creations-chat 2023-06-04 23:02:37 yeah i think that did the trick
+creations-chat 2023-06-05 01:31:51 which side looks better? left or right
+
+better view
+https://cdn.discordapp.com/attachments/1079656059809046578/1115090906329120788/image.png
+https://cdn.discordapp.com/attachments/1079656059809046578/1115090913140686889/image.png
+creations-chat 2023-06-05 01:34:13 what about thew new images?
+creations-chat 2023-06-05 01:47:30 how else would i do it
+creations-chat 2023-06-05 02:43:02 i need help i cant really tell whats wrong with it but it seems off (the neck)
+
+https://cdn.discordapp.com/attachments/1079656059809046578/1115108948597559306/image.png
+creations-chat 2023-06-05 03:15:39 how much would decent amount of pistons be
+creations-chat 2023-06-05 03:21:52 my mecha g is 5k blocks and has like 6 or 8 pistons
+creations-chat 2023-06-05 03:26:07 it perfectly works but it starts to slide backwards after i completely launch it
+
+which is 80% probably from all the motorlocking and motors overall
+help 2023-06-05 04:52:12 https://medal.tv/games/roblox/clips/1cFwHdDyumT9QM/d1337U3Z65V2?invite=cr-MSxPWjYsNjAzNjYwNDks anyone know how to fix my mg21 from sliding backwards/
+help 2023-06-05 05:14:58 it wont stop sliding backwards but i dont know why
+help 2023-06-05 06:35:07 fixed it turns out there were some max torque motors that shoouldnt have been ther

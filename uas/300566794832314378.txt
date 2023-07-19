@@ -1,0 +1,5 @@
+The Tale of darkeer. (300566794832314378)
+bug-reports 2020-09-18 17:04:39 /console
+bug-reports 2020-09-18 17:07:08 oops
+bug-reports 2020-09-18 17:07:11 sorry
+bug-reports 2020-09-18 17:59:49 I don't know if this bug was already reported but sometimes when I try spawning a large creation somewhere that is not base it spawn the vehicle without me, leaving my roblox character at base, and doesn't enable physics, with the thing floating just like it would while in building process.

@@ -1,22 +1,136 @@
-archiekk
-plane-crazy 2020-06-30 16:59:57 <:GWomoGay:405784195533635585>
-plane-crazy 2020-06-30 16:59:26 i am on the grind
-plane-crazy 2020-06-30 16:59:18 ive gotten like 3 roles today omegalul
-plane-crazy 2020-06-30 16:59:02 next on my list is a boat be ready lodon
-plane-crazy 2020-06-30 16:58:14 yeah the mods have that role right?
-plane-crazy 2020-06-30 16:57:37 it pings the support role
-plane-crazy 2020-06-30 16:57:32 
-plane-crazy 2020-06-30 16:56:28 the support role
-plane-crazy 2020-06-30 16:56:24 it auto pings i thought
-plane-crazy 2020-06-30 16:53:16 been waiting on a rank request for about 20 mins now B)
-plane-crazy 2020-06-30 11:27:12 omega lol
-plane-crazy 2020-06-30 11:27:04 bruh D:
-plane-crazy 2020-06-30 11:26:51 are we still stuck in the box of shame
-plane-crazy 2020-06-30 11:26:44 you didn’t answer my question
-plane-crazy 2020-06-30 11:26:22 but okay
-plane-crazy 2020-06-30 11:26:21 what its by an artist not from an anime
-plane-crazy 2020-06-30 11:26:07 damn
-plane-crazy 2020-06-30 11:25:02 are we still stuck in the box of shame
-plane-crazy 2020-06-30 07:55:43 ?
-plane-crazy 2020-06-30 07:55:41 so the games gonna be down all night>
-plane-crazy 2020-05-15 08:51:40 did they nerf conveyor belt power
+The Tale of archiekk (290002582276014082)
+help 2020-04-08 23:30:06 is it possible to have my piston start out extended?
+help 2020-04-08 23:31:07 ty
+help 2020-04-08 23:31:32 im trying to have the bottom of a plane open and drop circle bombs
+creations-chat 2020-04-09 13:15:22 are magnet drives still a thing
+creations-chat 2020-04-09 13:44:48 <@!221496030355521536> does it work in planes or no
+creations-chat 2020-04-09 13:45:35 ty
+creations-chat 2020-04-09 13:48:32 this is incredible
+creations-chat 2020-04-09 13:48:48 gonna update my magnet drives to conveyor ones
+creations-chat 2020-04-09 13:51:44 way easier to build then the magnet drives
+bug-reports 2020-04-09 14:59:50 uh i tried turning my wings and they just started flying behind me
+bug-reports 2020-04-09 15:00:25 
+bug-reports 2020-04-09 15:00:35 ty
+bug-reports 2020-04-09 15:04:15 yeah
+bug-reports 2020-04-09 15:04:18 i have motor lock on
+bug-reports 2020-04-09 15:04:22 should i turn it off
+bug-reports 2020-04-09 15:04:28 im doing conveyor
+bug-reports 2020-04-09 15:04:55 ah
+bug-reports 2020-04-09 15:05:00 what does it do
+bug-reports 2020-04-09 15:05:49 its fine haha
+bug-reports 2020-04-09 15:18:44 thank you
+help 2020-04-09 17:09:30 whats a good way to make crosshairs for planes
+help 2020-04-09 17:13:09 too bad i cant use text, it goes invisible when i enter a camera
+help 2020-04-09 17:49:13 its unpowered
+help 2020-04-09 17:49:41 make the motor spin
+help 2020-04-09 17:49:53 with the key
+help 2020-04-09 23:41:04 Can i use both a magnet drive and conveyer
+help 2020-04-09 23:41:24 is it effective tho
+help 2020-04-09 23:41:37 got it
+help 2020-04-12 13:31:55 https://cdn.discordapp.com/attachments/384025409945337856/698749218025635912/Roblox_2020-04-11_23-18-04.mp4 ok so im new to this and im not sure how he managed to get the blade on the bottom to follow the mouse
+help 2020-04-12 13:33:00 ty
+help 2020-04-12 13:34:53 do i toggle the "servo" thing
+help 2020-04-12 13:34:55 or anything
+help 2020-04-12 13:35:19 <@!573051379472531467>
+help 2020-04-12 13:45:41 ok tu
+help 2020-04-12 13:45:42 ty
+help 2020-04-12 19:14:40 ok so the motor i have is marked to reset but sometimes when it resets it resets in a full 180 facing the opposite way
+help 2020-04-12 19:15:08 is there a way to stop it
+help 2020-04-12 19:15:15 its really annoying :(
+help 2020-04-12 19:15:25 what does servo do
+help 2020-04-12 19:15:45 wait i dont want it to follow my mouse tho
+help 2020-04-12 19:16:01 ok
+help 2020-04-12 19:16:12 got it
+help 2020-05-13 22:55:44 new to making helicopter things, would they be opposite like / then \ (vertically) or \ \
+help 2020-05-13 22:58:29 what
+help 2020-05-13 22:58:36 i just have a motor on the bottom
+help 2020-05-13 22:58:37 yknow
+help 2020-05-15 08:02:02 how do i make my plane easy to control (smooth turning)
+help 2020-05-15 08:41:51 ok another question : easy way to get stuff to hover (for drones/flying bases)
+help 2020-05-15 08:50:15 also is it possible to use like flare decoys to distract missles
+help 2020-05-15 09:23:45 how do i get stuff to hover without the hover thrusters?
+help 2020-05-15 09:23:55 i wanna go higher than the 200~ altitude
+help 2020-06-12 09:10:32 my control surfaces dont work after i fold my plane together, is this normal or
+help 2020-06-12 09:11:26 would i have to use a regular motor
+help 2020-06-12 09:11:34 im using motor 2 as a servo
+help 2020-06-12 09:12:30 or would i have to manually control the control surfaces
+help 2020-06-12 09:21:17 howd i do that
+help 2020-06-12 09:21:35 im thinking of having like Q lower surface and E raise surface
+help 2020-06-12 09:21:42 but id have to have different ones of each side right
+help 2020-06-12 09:24:52 elevators?
+help 2020-06-12 09:25:23 ah
+help 2020-06-12 09:25:34 then the ones on the large wings
+help 2020-06-12 09:26:30 then the elevators would be q and e right
+help 2020-06-12 09:26:33 for up and down
+help 2020-06-12 09:26:54 thanks alot man
+help 2020-06-12 09:27:00 will let u know how it goes
+help 2020-06-13 00:34:44 help
+help 2020-06-13 00:34:49 trying to make a ship
+help 2020-06-13 00:34:57 spaceship*
+help 2020-06-13 00:35:13 motors wont let me fold up
+help 2020-06-13 00:48:55 yes
+help 2020-06-13 00:49:02 and they arent stuck to anything
+help 2020-06-13 00:49:07 the motors move
+help 2020-06-13 00:49:10 but they wont go up
+help 2020-06-13 00:49:17 correct
+help 2020-06-13 00:49:39 
+help 2020-06-13 00:51:02 sure
+help 2020-06-13 00:51:12 i think it might be because im at build limit
+help 2020-06-13 00:51:15 i can record it
+help 2020-06-13 00:51:43 itll start to go up then it goes down
+help 2020-06-13 00:52:48 
+help 2020-06-13 00:53:43 AAAAAA
+help 2020-06-13 00:53:45 ive done it
+help 2020-06-13 00:53:50 i raised the torque
+creations-chat 2020-06-28 12:19:17 where would a train go in <#609442446249820211> ?
+creations-chat 2020-06-28 12:20:08 <@!419477639229865984> ty
+the-dump 2020-06-29 03:34:20 
+help 2020-06-30 09:09:36 does it ever go night in a regular server?
+help 2020-06-30 09:09:42 i feel like its always day
+help 2020-06-30 09:10:30 oops forgot theres an option
+help 2020-06-30 09:10:31 haha
+bot-central 2020-06-30 09:46:10 ?shelp
+bot-central 2020-06-30 09:48:16 ss
+bot-central 2020-06-30 09:48:40 ?shelp
+bot-central 2020-06-30 09:48:47 how do i delete a suggestion lmao
+bot-central 2020-06-30 09:49:18 fff
+bot-central 2020-06-30 09:51:04 &suggestion
+Mini-Camera Change.
+[building]
+A zoom in function on camera that could be configurable would help with like submarines and small space stations so they could see stuff on land
+bot-central 2020-06-30 09:51:34 never doing this again
+bot-central 2020-06-30 09:53:51 had a stroak
+bot-central 2020-06-30 10:00:24 !servers
+bot-central 2020-06-30 10:00:31 no >:(
+help 2020-07-01 00:47:40 any ideas on how to make my train go around corners high speed? (140-210)
+creations-chat 2020-07-19 04:07:10 so more blocks = more armor right?
+creations-chat 2020-07-19 04:07:14 or am i missing something
+help 2020-07-20 00:06:14 easy way to make my car not do drifts everywhere?
+help 2020-07-20 00:06:21 im using motor wheels
+help 2020-08-18 22:26:01 whats the command to get the vip servers?
+bot-central 2020-08-18 22:26:27 !servers
+help 2020-08-18 22:34:15 yeah i got it
+help 2020-08-18 22:34:28 ye
+help 2020-08-18 22:34:39 huh?
+help 2020-08-18 22:34:42 yeah
+help 2020-08-18 22:34:53 i build rockets mostly
+help 2020-08-18 22:34:57 i use nasa's website
+help 2020-08-18 22:35:12 otherwise i just do _____ 3d model
+help 2020-08-18 22:35:33 (name) 3d model
+help 2020-08-18 22:35:42 like ship 444 3d model
+help 2020-08-18 22:36:24 np
+help 2020-08-18 23:31:04 <@!425706378338762763> he means put a block here so it moves the nose forward
+help 2020-08-18 23:31:36 
+help 2020-08-19 02:56:39 do you guys got any videos on small furniture designs?
+help 2020-08-19 03:37:44 what does lock do on pistons?
+help 2020-08-20 06:54:02 small propellers generate the least amount of power yes?
+help 2020-08-20 18:23:37 bruh is there any tutorials on docking rockets with space stations?
+help 2020-08-20 18:23:45 hella hard
+bot-central 2020-09-12 16:22:28 !expertservers
+bot-central 2020-09-12 16:22:35 got it
+help 2020-10-10 22:10:45 is diamond plate the heaviest material?
+help 2020-10-10 22:10:50 trying to balance a plane
+help 2020-10-11 05:10:50 is there a limit to how many trails i can have active?
+help 2020-10-15 10:14:45 tutorial for one of these quad legged things , im not having the best of luck free styling it
+help 2020-10-15 10:14:49 
+help 2020-10-16 03:59:37 society

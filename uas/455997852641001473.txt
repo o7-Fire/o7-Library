@@ -1,0 +1,63 @@
+The Tale of ell13 (455997852641001473)
+help 2018-11-24 12:42:01 Hmm, for that I don't think that could be possible right now. Maybe in future, you would use motors and 'TRED' blocks to make tank treds.
+creations-chat 2018-11-24 12:49:00 Space Station 😄
+creations-chat 2018-11-24 13:06:33 Fast and Furious ramp car V2
+creations-chat 2018-11-24 13:29:52 Cube Of Death - In Progress
+creations-chat 2018-11-24 13:30:07 Death in the sense of R.I.P the server
+creations-chat 2018-11-24 13:35:05 Boi thats a rectangle
+creations-chat 2018-11-24 13:35:13 Im making a BORG CUBE
+creations-chat 2018-11-24 13:35:17 lol
+creations-chat 2018-11-24 13:35:20 hollow?
+creations-chat 2018-11-24 13:36:00 Mine, is currently made entirely out of single 1x1 blocks
+creations-chat 2018-11-24 13:36:07 I have no blocks left
+creations-chat 2018-11-24 13:36:20 Imma probably get the Server Exterminator lol
+creations-chat 2018-11-24 13:37:00 Mine is 29x29 but is going to be that high aswell so...
+creations-chat 2018-11-24 13:38:02 LOL
+creations-chat 2018-11-24 13:43:28 My FPS are starting to drop
+creations-chat 2018-11-24 13:43:37 every block is now -0.01 FPS
+creations-chat 2018-11-24 13:43:54 Im at 2,000+ blocks
+creations-chat 2018-11-24 13:46:08 No I mean like +1 block = 60fps > 59.99fps
+creations-chat 2018-11-24 13:46:41 I have like a really decent PC and Internet Connection
+creations-chat 2018-11-24 13:47:28 I feel really sorry for the kid who has the 100$ Laptop that he was given as a hand-me-down from his dad
+creations-chat 2018-11-24 13:47:58 He/she probably has like 1fps rn
+creations-chat 2018-11-24 13:51:00 NOICE
+creations-chat 2018-11-24 14:25:49 Server Exterminator: "Good Day, I am here to destroy ur PCs."
+creations-chat 2018-11-24 14:26:12 Oh yea, and it does move... just very... very slowly
+creations-chat 2018-11-24 14:26:46 .-.
+creations-chat 2018-11-24 14:28:08 So? What's the process on the rank then?
+creations-chat 2018-11-24 14:28:21 I made something with 4,000 blocks...
+creations-chat 2018-11-24 14:38:07 Yep.
+creations-chat 2018-11-24 14:38:29 Just......... really......... really........ slowly.........
+creations-chat 2018-11-24 14:39:15 We'll say it isn't going to break any reccords, but It was made partialy with flex tape soo.
+creations-chat 2018-11-24 14:39:59 Oh... Thanks m8
+the-dump 2018-11-24 14:47:53 !rank
+creations-chat 2018-11-25 02:53:45 Now that parachutes have been added, I made a sky-diving plane!
+creations-chat 2018-11-25 03:07:40 High Altitude Skydive Testing. Basically a stress test and performance test for future sky-dive builds!
+creations-chat 2018-11-25 03:08:50 noice
+creations-chat 2018-11-25 03:12:07 Lol I nearly reached the speed of sound by falling off the side of the capsule!
+creations-chat 2018-11-25 03:16:12 Oof
+help 2018-11-26 12:27:00 Im going to start building a catamaran, any ideas on how to do the standing pilons?
+help 2018-11-26 13:24:21 Can I ask for some advice on building the sail?
+creations-chat 2018-11-26 13:57:11 A catamaran
+creations-chat 2018-11-26 13:57:48 No specific model, name or whatever... just a catamaran
+creations-chat 2018-11-26 13:58:30 Probably going to call it the HMS. Liverpool... or something like that
+creations-chat 2018-11-27 11:57:37 Going to start building a massive, 2 story, catamaran 'yacht' thing
+creations-chat 2018-11-27 11:58:02 Here is the front end of pontoon (R)
+creations-chat 2018-11-27 12:03:15 Ill make a water villa, I guess?
+creations-chat 2018-11-27 12:19:39 Some pontoon bois
+creations-chat 2018-11-27 12:27:14 One sketchy boi
+creations-chat 2018-11-27 12:28:05 What do you mean?
+creations-chat 2018-11-27 12:28:15 My game is public
+creations-chat 2018-11-27 12:30:34 oh sorry
+creations-chat 2018-11-27 12:30:37 hold on
+creations-chat 2018-11-27 12:31:57 okay just follow meh, and you should be able to join
+help 2018-11-29 12:20:15 <@!383826315339628544>  The ship's angle of tilt is based on the centre of mass. If it is centred, it should not face any issues regarding angle of tilt
+help 2018-11-29 12:23:21 Also, if the centre of mass were to be located over a thinner base, any adjustment that would lead to the centre of mass leaning over that base, would cause the object to fall over, or in this case, capsize.
+help 2018-11-29 12:25:04 Here is a representation of this basic concept:
+help 2018-11-29 12:26:24 The smart car has leant over its base, thus meaning it topples over on to its side. However, the supercar has not leant over its base, and will, in fact, fall back onto its wheels, as it too is over the base
+help 2018-11-29 12:27:58 if the supercar were to have its COM over the point at which the wheel makes contact with the floor, it should not topple over unless acted upon by an opposing force, greater than the force keeping the object stable.
+help 2018-11-29 12:28:11 i.e 0
+help 2018-11-29 13:12:07 My first thought was that you could make the base wider by adding extendable floats underwater... oof nvm then
+help 2018-11-29 13:12:26 my catamaran is a bit heavy... I NEED HELIUM!
+creations-chat 2018-12-01 12:29:46 What do we all think?
+creations-chat 2018-12-03 11:14:16 An X-15... and thats it...

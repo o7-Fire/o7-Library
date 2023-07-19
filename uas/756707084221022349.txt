@@ -1,0 +1,19 @@
+The Tale of beembogi (756707084221022349)
+creations-chat 2021-08-28 12:14:29 Looking at it side by side it kinda does
+help 2021-08-28 12:22:27 Bug
+help 2021-08-28 12:23:15 They especially bug if your motorlocking
+help 2021-08-28 12:23:53 But you could fix it by checking if theres anything on the motor 2s way
+help 2021-08-28 12:24:13 Say theres a block inside it or sometimes it bugs when near springs and stuff
+help 2021-08-28 12:30:10 Odd
+help 2021-08-28 12:30:31 Since i never had any of those problems with my own motorlocked planes
+creations-chat 2021-08-29 10:00:04 while i said it flies in well in a formation, it struggles trying to make actual good looking ones
+creations-chat 2021-09-02 01:59:04 Is the engine things with the cylinder better than without the cylinder?
+creations-chat 2021-09-02 02:01:14 The sides of the fuselage the engine thingys (this is without cylinders btw) idk if its too thin or too thick
+creations-chat 2021-09-17 05:31:16 Can someone please help me make my shells move instead of glitching in place
+creations-chat 2021-09-17 05:33:38 o kk
+creations-chat 2021-09-17 05:40:41 its still happening D:
+creations-chat 2021-09-17 05:43:09 is there like anyother way to fix the bug?
+creations-chat 2021-09-17 05:45:26 Is it because of how i motorlocked it?
+creations-chat 2021-09-17 05:52:27 welp ima just make a diffrent TNT launcher system
+creations-chat 2021-09-17 05:58:57 aye just found out the solution to my gun launcher thing, just needed to change the motor 2 for normal motor
+help 2021-09-18 09:47:16 btw what does damping do again?

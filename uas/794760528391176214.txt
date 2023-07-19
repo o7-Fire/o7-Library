@@ -1,0 +1,80 @@
+The Tale of 737Max5 (794760528391176214)
+help 2022-06-30 08:06:35 any one know how to stop my tomcat from exploding ish, it also spins if I lock the wings so they cant swing, it uses motor 2s so I think that might be the problem
+help 2022-06-30 08:52:41 what do you mean by that? ive been playing for like 1.5 years now and I only know how to make stuff look cool, i have no idea how to make stuff fly
+help 2022-06-30 08:58:16 now that I look at it more, i can kinda see how the wings and tail are too small and the stabilizers are too big and how the nose is too long but I dont think that would have an effect on the way it flys or having the wings glitch
+help 2022-07-01 10:15:16 so I aksed help on this before and i got nowhere with it so ima ask again, my plane keeps glitching as seen in the vid, and i think thats becuase of the motor 2s for the swing wing, If i put a block next to teh motor and stop it or delete it , the plane with just start spinning and wont stop, even after pressing the flip button
+help 2022-07-01 10:29:13 it was someone else
+help 2022-07-01 10:29:29 ohhh my bad
+help 2022-07-01 10:29:38 i read it wrong
+help 2022-07-01 10:29:42 where?
+help 2022-07-01 10:32:12 i will lock it to the motor lock so it doesnt move and that helps but then the plane just spins
+help 2022-07-01 10:32:21 and it doesnt stop spinning
+help 2022-07-01 10:34:28 it may be nose heavy
+help 2022-07-01 10:34:43 ima go add a helium block real quick
+help 2022-07-01 10:36:55 it works
+help 2022-07-01 10:37:01 i dont know why
+help 2022-07-01 10:37:18 i added one heilum block in  the front
+help 2022-07-01 10:37:21 and boom
+help 2022-07-01 10:37:25 its fine
+help 2022-07-01 10:37:37 somethings prob gonna go wrong soon
+help 2022-07-01 10:37:44 lemme see
+help 2022-07-01 10:39:07 from what ive seen so far
+help 2022-07-01 10:39:20 it works completely fine
+help 2022-07-01 10:39:43 i did remove the gltch engine earlier so that prob helped as well
+help 2022-07-01 10:40:35 thx for ur help
+help 2022-07-03 06:35:09 so ive asked for help on this topic before and one response wasnt helpful and the other was very helpful, this is sort of related to my other questions but my plane sometimes starts spinning for no reason and doesnt stop, ive tried adding helium blocks to the front stop it from being nose heavy but adding more didnt do anything
+help 2022-07-03 07:42:31 thx ill try change the second one since the motor lock is all centered and it spins left and right
+help 2022-07-03 07:53:32 i found that the stabilizer/elavator was clipped by a half wedge from wedges, so far it works fine, thx for ur help
+bug-reports 2022-07-03 08:43:47 for some reason when I stop flying my build, it doesnt teleport me back to my plot like it used too, my build goes back and I have to manually reset and its kinda annoying
+help 2022-07-03 10:58:10 any one have a black star emoji that doesnt get censored in the text block
+help 2022-07-03 19:00:47 anyone know how to make big motor locked builds be less lagy so they can go faster, my tomcat is really slow at 8/10 graphics , at 4/10 its really fast but the map doesnt load in unless your right next to it, also this might be impossible since im running off the rusty old 1980s chevy of computers
+help 2022-07-04 08:04:28 how do i upload an image of my build in the creations channel
+help 2022-07-04 08:04:51 bruh
+help 2022-07-04 08:05:00 how to get to level 3?
+help 2022-08-21 05:25:16 can someone help me figure out on how to make my plane stop wobbling, at speeds of like 150-200 its fine but any faster and its completely uncontrollable, (only vertical wobbling, sometimes goes straight down then up when wobbling), watched namnams guides and stuff, added helium to the front and back, extra wing panels to the front/back, nothing works, also the central weight and central lift are on same block, hope someone will help , thx
+bug-reports 2022-08-21 05:33:04 prob already reported but why not, when I try to copy a setting by clicking C in the purple screwdriver function, it doesn't work the first time, so sometimes im spaming c for it to not copy
+help 2022-08-21 05:34:09 that will help?
+help 2022-08-21 05:34:12 yes
+help 2022-08-21 05:34:42 wouldnt a horizontal one work tho
+help 2022-08-21 05:35:01 ok ill try
+help 2022-08-21 05:36:32 I have horizontal and vertical and still very bad wobbling
+help 2022-08-21 05:37:37 I’ll add more of each and see what that does
+help 2022-08-21 05:38:16 Still many wobbles
+help 2022-08-21 05:38:36 Oh it’s m2m or something like that btw
+help 2022-08-21 05:38:55 Bruhhhhhh
+help 2022-08-21 05:39:09 I’m on a 200$ budget laptop
+help 2022-08-21 05:39:25 13 FPS with lowest graphics
+help 2022-08-21 05:39:44 Walking at the highest is 30
+help 2022-08-21 05:40:10 I have other jets that don’t wobble and are similar tho
+help 2022-08-21 05:40:56 I’m in private server rn
+help 2022-08-21 05:41:05 I’m the only one there
+help 2022-08-21 05:41:21 My iPad is prob better
+help 2022-08-21 05:41:32 K thx for ur help
+help 2022-08-21 05:44:15 bruhhhhhhhh
+help 2022-08-21 05:44:20 so u were right
+help 2022-08-21 05:44:32 I added like 2 more wing panels and its fine
+bug-reports 2022-08-21 21:21:42 No I’m just clicking c in the motor once or 100 times, the. When in another motor and I click V it doesn’t paste, it’s fine when I click the copy button with my cursor but I’m lazy , Srry for responding a day later
+help 2022-08-23 00:53:14 anyone know how to make your flaps/ailerons not glitch and move up and down at high speeds?
+creations-chat 2022-08-23 00:54:38 yeah ik , becuase I suck at the game I built the motor lock like that and it would only fit there plus I didnt feel like redoing it
+help 2022-08-27 14:37:07 Building a MH-60 Black hawk, I wanna know if this looks like it
+help 2022-08-27 14:39:13 ill paint it black and default material
+help 2022-08-27 14:41:17 
+help 2022-08-27 14:41:24 bruh
+help 2022-08-27 14:41:28 i do it again
+help 2022-08-27 14:41:38 you can see the frames in this one
+help 2022-08-27 14:42:23 this should work
+help 2022-08-27 14:43:09 I fixed the glass
+help 2022-08-31 22:08:49 should I post this on the creations chat? if not what should I do to fix it
+help 2022-08-31 22:09:50 sure
+help 2022-08-31 22:19:35 im pretty sure there in the winter update special blocks thing, currently its the summer update so u can get the summer blocks so u can wait or buy them in the game pass stuff
+help 2022-09-01 22:22:24 should I post this to the ceation chat thing, not 100% done yet
+help 2022-09-11 17:43:41 anyone know know to make my carriwer stop glitching on mobile, im trying to do a carrier rp, the folds dont work and they move 20-50 blocks away at wierd angles, the anchor doesnt work and the carrier moves witth anchor on, sometimes part of the carrier will stop loading, like when you load ur build up , sometimes the fold goes back to it origanal state, this is on mobile and when I did it on pc its fine, i want it to be on mobile so I can use my pc for my alt, anyone know how to fix
+bot-central 2022-09-15 03:45:42 !rank
+help 2022-09-17 02:49:07 im making an osprey which has a triblade, i found a techic to use which is good, but it has motor lock pillar which spins, so for it to spin properly nothing can be in way, which mean big engine which is ugly, what do i do to make it more compact
+bot-central 2022-09-25 00:16:03 -servers
+bug-reports 2022-10-04 22:15:16 Camera lock doesnt save so I have to manually do it every time I wanna fly my heli
+bug-reports 2022-10-04 22:36:42 also, signs (not text) are broken, I cant change the color of the text on the sign and it makes it so I can type anything i want, this might be a glitch n robloxs part tho as ive been able to do this in other games kinda
+bug-reports 2022-10-04 23:05:40 basicly its like when you hover your cursor over a search bar or text that you can edit, then I left click for things like painting or deleting but it makes me edit the text, the menu that pops up when toggling a seeting with teh screwdriver doesnt show, i can edit it without having any tools open
+bug-reports 2022-10-05 21:33:52 ok ima try check but even if I clicked to the side it would make me edit
+creations-chat 2022-10-14 23:58:27 impossible , its 1 block wide, idk about proportions tho, ill check
+creations-chat 2023-06-06 19:41:16 How? its so a rlly small build , also every spot on the motor lock tower is taken by other stuff

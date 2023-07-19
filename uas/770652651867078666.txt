@@ -1,0 +1,71 @@
+The Tale of quisling.json (770652651867078666)
+creations-chat 2021-04-20 22:43:25 i made a battleship gun but it doesnt follow my mouse, how to make motors working??
+creations-chat 2021-04-20 22:48:46 used that
+creations-chat 2021-04-20 22:51:16 used this tutorial https://www.youtube.com/watch?v=Tw60K2q7Mt4 cause im new noob
+creations-chat 2021-04-20 22:53:16 ig turret is connected to teh ship not sure how to unseperate it how do that V
+creations-chat 2021-04-20 22:55:24 so how do i tell the motor what to move, and what not to move
+help 2021-04-20 22:57:14 yea so how make motor move only turret and not whole ship
+help 2021-04-20 22:58:40 https://www.youtube.com/watch?v=Tw60K2q7Mt4 i was using this tutorial, but it doesnt move for some reason
+help 2021-04-20 22:58:52 not sure how they make the base not move, and the turret move
+help 2021-04-20 23:00:25 yea that works but looks kinda ugly on a ship
+help 2021-04-20 23:00:37 a turret sticking out of the deck
+help 2021-04-20 23:00:44 oh
+help 2021-04-20 23:00:46 true
+help 2021-04-20 23:01:39 thats ur tutorial?
+help 2021-04-20 23:01:45 ah
+help 2021-04-20 23:01:49 it looked kidna kool
+help 2021-04-20 23:01:53 oh
+help 2021-04-20 23:02:09 ig ill use a different design
+help 2021-04-20 23:02:15 the springs do be kinda wobbly
+help 2021-04-20 23:03:15 so how i make the base not move, and the turret move without motor lock
+help 2021-04-20 23:03:35 ooh
+help 2021-04-20 23:04:10 yea that should work
+help 2021-04-20 23:04:40 hmm but he begins tutorial with the 1 by 3 wedge,
+help 2021-04-20 23:04:55 part of the turret
+help 2021-04-20 23:04:56 its on the base
+help 2021-04-20 23:05:00 so they connect
+help 2021-04-20 23:05:08 this game confuses me soo much
+help 2021-04-20 23:05:14 yea ig the deck 1 * 0.9
+help 2021-04-20 23:05:24 true i didnt think of that
+help 2021-04-20 23:05:35 i just started a few days ago
+help 2021-04-20 23:05:48 I already learned some motor locking
+help 2021-04-20 23:05:53 and now trying some folding with a ship
+help 2021-04-20 23:07:32 i made a tie fighter go brrr with like 10 super engines folded into it
+help 2021-04-20 23:07:58 a speeder
+help 2021-04-20 23:08:00 go speed
+help 2021-04-20 23:08:25 some katyushas
+help 2021-04-20 23:08:51 a police car
+help 2021-04-20 23:09:04 Swat Van
+help 2021-04-21 01:26:20 so for a ship, how do i make a rudder
+help 2021-04-21 15:34:10 made a ship rudder/engine but its not turning
+help 2021-04-21 15:38:07 i used 1 by 0.9 blocks to make sure its not connected
+help 2021-04-21 15:38:11 and maxed the tourque at 1000
+help 2021-04-21 15:38:36 not sure what servo does though
+help 2021-04-21 15:40:48 yes
+help 2021-04-21 15:40:50 the one block under
+help 2021-04-21 15:42:10 the block there is 1 by 0.9 so not conencted to the ship
+help 2021-04-21 15:42:40 1000
+help 2021-04-21 15:42:53 i put servo and toggle, i dont know how setting sowrk
+help 2021-04-21 15:43:15 not sure what they do
+help 2021-04-21 15:44:27 
+help 2021-04-21 15:45:51 not working hmm
+help 2021-04-21 15:45:54 doesnt want to turn
+help 2021-04-21 15:46:25 what about them?
+help 2021-04-21 15:46:42 yes they are
+help 2021-04-21 15:46:48 u can see in the image they dont touch the ship
+help 2021-04-21 15:47:37 k ill try that
+help 2021-04-21 15:49:50 hmm not working, maybe just give me a working engine/rudder design
+help 2021-04-21 15:50:42 im using a vip
+help 2021-04-21 15:50:57 well other poeple use it not mine
+help 2021-04-21 15:51:14 https://www.roblox.com/games/166986752/Plane-Crazy-X16-SAVEDATA?privateServerLinkCode=qhaM7TLNr81ozPwd8B0ab9NzSURexpTB
+help 2021-04-21 15:52:30 hmm i flipped the motor but now my ship doesnt want to touch the water
+help 2021-04-21 17:36:02 hmm for some reason my ship just collapses and folds onto itself diagonally, is that just a lag issue?
+help 2021-04-21 20:11:52 yea motor lock a wedge and a control surface
+help 2021-04-21 20:46:32 whats a good color for battleship wood flooring
+help 2021-04-22 02:28:09 so i learned to fold a ship, but how do i keep the ship in one piece?
+help 2021-04-22 02:29:01 like i fold the ship and then when it moves, it leaves a bit of a crack between the halves
+help 2021-04-22 02:29:26 ah ok
+help 2021-04-22 02:29:28 ty
+help 2021-04-22 02:53:09 how to use ballast tank they dont seem to be operating
+help 2021-04-22 02:54:43 k
+help 2021-04-22 03:43:59 i figured it out, im supposed to hold the f button not press it once

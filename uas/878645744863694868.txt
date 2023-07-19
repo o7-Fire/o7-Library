@@ -1,0 +1,12 @@
+The Tale of eijxz (878645744863694868)
+help 2023-04-22 07:58:56 custom prop makes whole plane spin and idk what to do
+help 2023-04-22 07:59:13 
+help 2023-04-22 07:59:36 <@702907851001167882>
+help 2023-04-22 08:02:04 ah ok, its a pretty small plane so i cant add much weight because the power to weight ratio is already pretty off
+help 2023-04-22 08:02:56 <@702907851001167882> 3 or 4 blocks
+help 2023-04-22 08:03:54 signs work perfectly, thanks for the help
+help 2023-04-22 08:07:35 <@702907851001167882> do the props in the nose (located behind the custom prop) have an effect on my balance?
+help 2023-04-22 08:08:04 theyre for yaw
+help 2023-04-22 08:08:25 do they have side collisions
+help 2023-04-22 08:08:30 i mean anchor points
+help 2023-04-22 08:08:51 actually nvm i have a plan

@@ -1,0 +1,3 @@
+The Tale of bw8x (612958371242442752)
+bug-reports 2021-07-15 13:16:32 hover thrusters need to be fixed because if motorlocked together they can cause a big and long lag spike
+bug-reports 2021-07-15 13:32:27 not even god can remove that unholy bug

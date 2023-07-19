@@ -1,0 +1,11 @@
+The Tale of randomizerbot (401807302111526912)
+bug-reports 2021-08-23 21:36:31 Yeah same issue
+bot-central 2022-03-24 02:54:19 !rank
+bot-central 2022-05-10 03:31:56 ?shelp
+bot-central 2022-07-24 17:29:11 !rank
+help 2022-07-25 02:38:04 Fireworks? motor locked together
+help 2022-07-25 02:38:13 sorry wait I mean sparklers
+help 2022-07-25 17:03:13 could be a weld location on one of the surfaces
+help 2022-07-25 17:06:18 hmm could either be the cylinders collisions box bashing with triangle wedge aka roblox physics moment
+bot-central 2022-07-27 20:26:20 !rank
+bot-central 2023-02-02 17:38:59 !rank

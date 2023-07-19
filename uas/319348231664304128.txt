@@ -1,0 +1,36 @@
+The Tale of ceryne (319348231664304128)
+help 2021-07-23 19:41:56 Can someone who knows custom angle motorlocking help me?
+help 2021-07-23 19:42:46 im tryna make some down angled wings on a scifi vehicle and things are spazzing out when i try and lock.
+help 2021-07-23 19:45:50 Motor 1
+help 2021-07-23 19:46:13 Locked and powered 30 torque 1 speed
+help 2021-07-23 19:46:27 <@!587047177558163466>
+bot-central 2021-07-23 19:47:18 -play Ha ha ha ha he he he he ho ho ho
+help 2021-07-23 19:47:34 Before
+help 2021-07-23 19:47:53 Are you busy or can you come look?
+help 2021-07-23 19:48:07 Yeah
+help 2021-07-23 19:48:12 Its pvp so i can use tnt
+help 2021-07-23 19:48:22 can you join me or do i need to send a fr?
+help 2021-07-23 19:48:32 aight
+help 2021-07-23 19:48:38 ye\
+bot-central 2021-07-25 04:02:56 !rank
+help 2022-02-25 22:28:52 I'm working on a helicopter and got a few questions.
+ 1. How do you make those cool sliding heli doors I keep seeing on other builds? 
+2. When I ascend, my front tilts up, and opposite when descending. How do I fix this without thrusters? I consider using anything other than motors and aerodynamics cheating.
+help 2022-02-25 22:38:31 I've done a very stable no thrusters heli in a quadcopter desing, and it works great, but Im struggling to make it happen for a single rotor.
+help 2022-02-25 22:57:15 Alright, and as for the tilting issue?
+help 2022-02-28 17:40:53 What's the ebst kind of propulsion for a very large battleship?
+help 2022-02-28 17:42:25 Aight, I'll goggle that conveyor engine.
+help 2022-03-05 04:41:36 Pvp question, I am making a battleship, and I plan to have a drone on board, but I also want to have a guided missile on board. Are there any designs that can reliably hit fast moving targets like jets?
+help 2022-03-05 04:43:00 I have the back third of the boat to work with
+help 2022-03-05 04:43:01 
+help 2022-03-05 05:27:07 I was more wondering about payloads. The issue I have with guided missiles is they bonk the opponent and detonate but don't deal any real damage.
+help 2022-03-08 05:22:38 Whats the difference between legacy and normal rockets?
+help 2022-03-08 05:22:42 Is one better?
+help 2022-05-28 01:26:04 Im building a quad heli airship
+help 2022-05-28 01:26:11 and it has an interior cargo bay
+help 2022-05-28 01:26:22 and I need some dimensions of yalls smaller ground vehicles
+help 2022-05-28 01:26:31 so i can get an idea of how big the inside needs to be
+help 2022-08-08 21:54:26 Im building a battleship for PVP mode, And I want to add a harpoon missile. Preferably something with a clusterbomb sort of detonation I can use to take out aircraft. Any good designs/tutorial videos? Picture of the boat included to show the space I have to work with.
+help 2022-08-08 21:54:28 
+bot-central 2022-08-12 19:11:35 ;;play A stranger I remain
+bot-central 2022-08-12 19:11:43 1

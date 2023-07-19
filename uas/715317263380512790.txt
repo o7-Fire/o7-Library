@@ -1,0 +1,20 @@
+The Tale of GreemOw1 (715317263380512790)
+bot-central 2020-07-29 13:57:27 !play Money Gaullin
+bot-central 2020-07-29 13:57:39 ;;p  Money Gaullin
+bot-central 2020-07-29 13:57:52 ;;s
+bot-central 2020-07-29 13:58:24 ;;s
+bot-central 2020-07-29 13:58:29 ;;p  Money Gaullin
+bot-central 2020-07-29 13:59:00 =play ;;p  Money Gaullin
+bot-central 2020-07-29 13:59:27 =play Money Gaullin
+bot-central 2020-07-29 13:59:30 =skip
+bot-central 2020-07-29 14:00:55 =play jesus rock
+bot-central 2020-07-29 14:01:09 =skip
+bot-central 2020-07-29 14:01:18 !play Cristian rock
+bot-central 2020-07-29 14:01:30 =play Cristian rock
+bot-central 2020-07-29 16:16:48 =play Cristian Rock
+bot-central 2020-08-04 19:58:33 -play rick roll
+bot-central 2020-08-04 19:58:54 =play Baby baby baby ohh
+bot-central 2020-08-04 19:59:27 =stop
+bot-central 2020-08-04 19:59:55 =play minesweeper song
+bot-central 2020-08-04 20:00:02 !skip
+bot-central 2020-08-04 20:00:05 =skip

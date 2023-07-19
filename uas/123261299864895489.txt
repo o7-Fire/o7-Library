@@ -1,0 +1,14 @@
+The Tale of twodog (123261299864895489)
+bot-central 2020-02-01 02:59:41 ?whois
+bot-central 2020-02-01 02:59:46 alright
+bot-central 2020-02-01 02:59:57 <@!299289130964090881> can you give me view perms to the channel it's not working on?
+bot-central 2020-02-01 03:01:16 No worries at all
+bot-central 2020-02-01 03:01:29 yeah fair enough
+bot-central 2020-02-01 03:01:37 I'm just trying to find out why it's not exactly working lol
+bot-central 2020-02-01 03:01:43 Cause it defo seems to work here
+bot-central 2020-02-01 03:02:41 Oh hold up
+bot-central 2020-02-01 03:02:44 I found the issue don't worry
+bot-central 2020-02-01 03:02:59 You've only enabled this channel as an allowed channel for whois
+bot-central 2020-02-01 03:04:17 lmfao
+bot-central 2020-02-01 03:04:21 But yeah that looks to be your reason
+bot-central 2020-02-01 03:05:39 <:thumbsyes:389601899050958858> I'ma jump out, feel free to pop in support if you need anymore help

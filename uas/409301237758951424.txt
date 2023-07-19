@@ -1,0 +1,4 @@
+The Tale of bjowa (409301237758951424)
+bug-reports 2019-10-14 13:10:35 I had this plane that was very nice, it is the grey plane in https://www.youtube.com/watch?v=QX9N_ED-OFw . However, I accidentally saved over it. I pressed undo, but then when it undid the *save slot was completely empty* (<--- bug) and i lost my plane. Is it possible to get it back? I spent hours and hours over many days to build it.
+bug-reports 2019-10-14 13:55:15 the Undo button didnt work this once
+bug-reports 2019-10-14 15:01:52 OH NO its gone forever 😫

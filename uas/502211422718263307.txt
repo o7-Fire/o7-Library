@@ -1,0 +1,290 @@
+The Tale of bobyblobfish (502211422718263307)
+bot-central 2020-05-26 15:12:58 +suggestion a glider, to save the planet
+bot-central 2020-05-26 15:13:00 .
+bot-central 2020-05-26 15:13:04 how suggest
+bot-central 2020-05-26 15:14:57 ?suggest a glider, to save the planet. glider should have full control over pitch and yaw and that stuff, it would gradually go down, faster or slower based on the angle
+bot-central 2020-05-26 15:15:00 ..........
+bot-central 2020-05-26 15:15:04 HOW SUGGEST
+bot-central 2020-05-26 15:15:13 SHUTUP DYNO
+bot-central 2020-05-26 15:15:22 sigh
+bot-central 2020-05-26 15:15:25 ?shelp
+bot-central 2020-05-26 15:21:13 &suggest 
+[TITLE] - hot air balloon 
+[CATEGORY] - item
+
+[DESCRIPTION] -  the hot air balloon would not be a vehicle its self, but could be attached to vehicles, with a tiny pot producing controllable flame attached to a resizable balloon, allowing you to go up or down or easily stay in the same spot. the larger the flame the more upwards speed, the larger the balloon the higher weight it can carry
+bot-central 2020-05-26 15:21:26 .
+bot-central 2020-05-26 15:21:39 +help
+bot-central 2020-05-26 15:22:02 what rank
+bot-central 2020-05-26 15:22:03 how ranl
+bot-central 2020-05-26 15:22:15 join the group?
+bot-central 2020-05-26 15:22:32 oh
+bot-central 2020-05-26 15:22:54 time to make a tutorial plane 😐
+bot-central 2020-06-13 01:37:15 ?whois
+help 2020-06-18 23:14:32 is it just me or do cameras not work. i cant seem to actually connect them to anything. @ me with response pls.
+help 2020-06-19 15:19:23 My vtol keeps turning and tilting even though the center of mass and center of aerodynamics are perfectly in the middle. Any help greatly appreciated
+help 2020-06-19 16:05:43 Whenever it’s in the air. I’ll try adjusting the center of mass, didn’t think off that
+help 2020-06-21 01:39:20 in <#685266919145734165> the event manager roll says you have to be rank 4+. does this mean rank 4 and up or only above 4
+help 2020-06-21 01:39:38 @me with response,thanks in advance
+help 2020-06-21 14:54:17 Thanks <@!308156968550268928> :3
+creations-chat 2020-07-17 03:52:59 Place working with only wheels and gravity, centrifugal force, etc
+creations-chat 2020-07-17 03:53:09 No engine, just physics
+creations-chat 2020-07-17 03:53:25 Do it
+creations-chat 2020-07-17 03:53:34 Place working with only wheels and gravity, centrifugal force, etc
+creations-chat 2020-07-17 03:53:41 Do it
+creations-chat 2020-07-17 03:54:01 It will work I show you
+help 2020-07-18 00:02:14 CAMERA???
+help 2020-07-18 00:02:18 IT NO STICK?
+help 2020-07-18 00:02:25 HELP PLZ :(
+help 2020-07-18 00:21:58 
+help 2020-07-18 00:22:11 the camera
+help 2020-07-18 00:22:16 doesnt do the thingie thing
+help 2020-07-18 00:22:19 with the block
+help 2020-07-18 00:22:24 it doesnt stick
+help 2020-07-18 00:26:46 hwelp :(
+help 2020-07-18 00:29:10 . huh
+help 2020-07-21 05:23:24 Any idea on how to make a vtol hover in place without extra engines or anchors?
+bug-reports 2020-08-30 17:19:24 can someone find if its only me, or are hit boxes of blocks broken? half blocks are welding to blocks that they would be connected to if they were normal blocks. even though visually they dont connect.
+bug-reports 2020-08-30 18:46:17 i remember them working though... like i remember half blocks not welding to other blocks unless they actually touched
+bug-reports 2020-08-30 22:34:34 rickje absolutely roasting bug reporters compilation
+bug-reports 2020-08-30 22:36:13 i believe on newer builds the 0.9 block is welding to other blocks even when the only side it can weld through is the 0.9 side.
+bug-reports 2020-08-30 22:39:05 oh nvm... guess its on me or just a glitch
+bug-reports 2020-08-31 00:37:16 i see no need to remove absolutely broken suspension and piston physics. breaking into the fourth dimension may eventually be used to teleport controllably or get insane amounts of speed. we just need to find out what makes it tick
+bug-reports 2020-08-31 05:27:48 Y’all are so ungrateful. The devs let you break into the fourth dimension and teleport and achieve insane speed and you want it removed?
+help 2020-08-31 05:34:52 In your experience, what kind of paint jobs get more upvotes in creations
+help 2020-08-31 05:38:17 Just re-verify
+bug-reports 2020-08-31 20:04:32 yes, in fact the first version of dynablocks which was basically beta roblox came out in 2003
+creations-chat 2020-08-31 22:57:38 Expert rank or you are banned from plane crazy. Purification of the plane crazy gene pool
+creations-chat 2020-09-01 00:29:07 When making formula cars use 2x2 cylinders attached to a motor which is attached to another motor both at the max speed with friction texture on the cylinders. You’ll need to add lots of ballast blocks or wings to keep it from bouncing around.
+creations-chat 2020-09-01 00:29:28 If you give it a nice paint job I would upvote it as is though
+creations-chat 2020-09-01 00:30:00 Oooo go kart
+creations-chat 2020-09-01 00:30:03 Can I see it?
+creations-chat 2020-09-01 00:31:23 ... where are the wheels...
+creations-chat 2020-09-01 00:32:05 I wonder if there’s a way to hide the propellers
+creations-chat 2020-09-01 00:32:27 lol
+creations-chat 2020-09-01 00:33:06 Yeah it’s tough
+creations-chat 2020-09-01 00:33:26 People post these super cool cars and get upvotes but they are so unrealistically huge
+creations-chat 2020-09-01 00:34:00 And people like us try and compact them as much as possible to a realistic size and get downvoted for not having 200 wedges
+creations-chat 2020-09-01 00:34:30 *when it is time to race, I shall prove the power of compact builds*
+creations-chat 2020-09-01 00:34:50 I don’t know what’s wrong with the jet
+creations-chat 2020-09-01 00:34:52 Upvotes
+creations-chat 2020-09-01 00:36:29 I’ve been trying to make a dragster but it always flips
+creations-chat 2020-09-01 00:36:34 Any advice?
+creations-chat 2020-09-01 00:36:52 What if it flips too much
+creations-chat 2020-09-01 00:37:41 Of course not
+creations-chat 2020-09-01 00:37:47 That’s cheating
+creations-chat 2020-09-01 00:38:03 Hrmmmmm
+creations-chat 2020-09-01 00:38:11 Gtg thanks for the help
+creations-chat 2020-09-01 00:38:21 Let’s make a tiny builds sub server
+creations-chat 2020-09-01 00:38:30 For the lovers of realistically sized builds
+creations-chat 2020-09-01 00:51:42 > <@456226577798135808> i apologize for disliking your creation
+<@!330492073213952000>  are you the one who was warned for disliking a creation
+creations-chat 2020-09-01 01:13:41 downvoting is a crime to enforce love and acceptance. if its appropriate for <#384025409945337856> you should love it knowing the creator loves it, regardless of your thoughts
+creations-chat 2020-09-01 04:21:21 The nose looks absolutely perfect
+creations-chat 2020-09-01 04:21:48 It could connect to the back a bit better
+creations-chat 2020-09-01 04:21:57 It looks like it has gills
+creations-chat 2020-09-01 04:22:07 Amphibious plane?
+creations-chat 2020-09-01 04:57:36 ...
+creations-chat 2020-09-01 04:57:47 It’s in the blocks section
+creations-chat 2020-09-01 04:58:23 ...
+creations-chat 2020-09-01 04:58:33 w e d g e
+creations-chat 2020-09-01 04:58:44 w h y
+creations-chat 2020-09-01 05:00:03 t h a t  e x p l a i n s  w h y  y o u   c a n t  f i n d  t h e  c y l i n d e r s
+creations-chat 2020-09-01 05:00:29 It’s in the cylinder section in the building category
+creations-chat 2020-09-01 05:01:14 Dude just place a cylinder
+creations-chat 2020-09-01 05:01:19 What’s so complicated
+creations-chat 2020-09-01 05:02:35 You’re not making sense
+creations-chat 2020-09-01 05:02:40 You have to be trolling
+creations-chat 2020-09-01 05:02:56 It’s as simple as going to cylinders
+creations-chat 2020-09-01 05:34:53 <@!343195064027054090> undo
+creations-chat 2020-09-01 05:35:21 Also what’s a wmv file
+creations-chat 2020-09-01 05:36:06 But what is a wmv file
+creations-chat 2020-09-01 05:36:43 Pictures are files
+creations-chat 2020-09-01 05:37:30 Wmv is like a video file but smaller
+creations-chat 2020-09-01 05:37:39 Sleep
+creations-chat 2020-09-01 05:37:48 You are going to start hallucinating
+creations-chat 2020-09-01 05:37:56 .
+creations-chat 2020-09-01 05:38:01 What?
+creations-chat 2020-09-01 05:38:41 I’ll buy you a therapist if you promise to talk to them
+creations-chat 2020-09-01 05:38:44 Please sleep
+creations-chat 2020-09-01 05:39:17 ...
+creations-chat 2020-09-01 05:39:18 Ok
+creations-chat 2020-09-01 05:40:31 Cool
+creations-chat 2020-09-01 05:43:08 ...
+creations-chat 2020-09-01 05:43:12 See a doctor
+creations-chat 2020-09-01 05:43:45 He says he’s been up for 4 days off of 2 hours of sleep looking for this photo
+creations-chat 2020-09-01 05:44:56 When making large artistic detailed builds in plane crazy, I act like a 3d printer. Layer after layer after layer. From bottom to top.
+creations-chat 2020-09-01 05:45:12 Same lol
+creations-chat 2020-09-01 05:45:58 Would it be against the rules to photoshop a picture of the “custom wedge” feature and post it as a hoax in creations?
+creations-chat 2020-09-01 05:46:24 What about in general
+creations-chat 2020-09-01 05:46:31 Or memes
+creations-chat 2020-09-01 05:47:04 So I can post my fake custom wedge demonstration in the dump?
+creations-chat 2020-09-01 05:47:32 Epic
+creations-chat 2020-09-01 05:47:40 Good night gamers
+creations-chat 2020-09-01 06:07:36 Wedges
+creations-chat 2020-09-01 06:22:47 Lol spying on Golden would make a good series
+creations-chat 2020-09-02 19:32:56 bad language will get you crushes by solid axle suspension <:Trigje139:559518788660232196>
+creations-chat 2020-09-02 19:33:29 whats wrong with gay lord
+creations-chat 2020-09-02 19:33:36 yez
+creations-chat 2020-09-02 19:33:52 5x5 cylinder is wheel
+creations-chat 2020-09-02 19:34:35 i use 10x10 wheels
+creations-chat 2020-09-02 19:41:55 what a cool bonge747
+bug-reports 2020-09-03 02:03:13 
+bug-reports 2020-09-03 02:03:21 i just loaded in and got the tutorial lol
+bug-reports 2020-09-03 02:04:28 where is the tutorial button?
+bug-reports 2020-09-03 02:05:29 i dont think i hit that button lol. im not complaining. time to re-learn how to make a plane
+creations-chat 2020-09-03 09:24:02 How to vtol: vroom vroom but up. Put vroom vroom in middle. Make sure to limit any turning of the main upwards thrust so it doesn’t launch you in some wacky direction. On your first vtols fell free to use wings attached to fast motors to control your yaw.
+creations-chat 2020-09-03 09:24:26 After only 4 days, you can make a mediocre flying house
+creations-chat 2020-09-03 09:24:41 :3
+creations-chat 2020-09-03 22:01:56 > <@!502211422718263307> y u dislike reeee
+<@!674434894616854548> what did i dislike?
+creations-chat 2020-09-03 22:02:18 imagine how many people would be pinged if i pinged all dislikers
+creations-chat 2020-09-03 22:02:28 i disliked it because its way too big
+creations-chat 2020-09-03 22:02:32 its unrealistic
+creations-chat 2020-09-03 22:02:38 the person to car scale is way off
+creations-chat 2020-09-03 22:02:58 thats your problem. not mine
+creations-chat 2020-09-03 22:03:27 so compress it
+creations-chat 2020-09-03 22:04:02 if you need to build a giant mega ultra mothership car to fir in detail and suspension, thats a you issue
+creations-chat 2020-09-03 22:04:17 agreed
+creations-chat 2020-09-03 22:04:25 its my vote so i can dislike it
+creations-chat 2020-09-03 22:04:48 giant cars are dumb
+creations-chat 2020-09-03 22:05:04 imagine if the streets were filled with those things
+creations-chat 2020-09-03 22:05:26 add detail and suspension in a smaller vehicle
+creations-chat 2020-09-03 22:05:33 very ez
+creations-chat 2020-09-03 22:06:14 > Then make one and show
+<@!674434894616854548> https://discordapp.com/channels/384021699466756103/384025409945337856/751191071072977058
+creations-chat 2020-09-03 22:06:23 someone elses not giant car
+creations-chat 2020-09-03 22:06:59 i sent a link to one yes
+creations-chat 2020-09-03 22:07:59 its not 1:1 scale. its simply not for giants
+creations-chat 2020-09-03 22:08:38 i gave you a dislike because i disliked your build. im not saying that its bad or that you didnt work hard enough, its simply not my taste
+creations-chat 2020-09-03 22:09:11 plane crazy battle royale yes
+creations-chat 2020-09-03 22:09:22 > So u saying that if there was an amazing tank but I don’t like tanks that I would dislike it
+<@!674434894616854548> this is exactly what i did
+creations-chat 2020-09-03 22:10:19 > Bruh that’s just dumb
+<@!674434894616854548> using words like "dumb" or "stupid" to argue with people is the same as answering 1+1=x with x
+creations-chat 2020-09-03 22:11:12 you're too sophisticated for me, hence your way too big car thing
+creations-chat 2020-09-03 22:11:50 imma go back to playing games on itch. can people stop pinging others over dislikes?
+creations-chat 2020-09-03 22:12:18 why is it that the mass disliked people dont ping over dislikes but the mostly liked people do
+creations-chat 2020-09-03 22:12:28 its greedy, ignorant, and ungrateful
+creations-chat 2020-09-03 22:18:48 heres my tip: why is there i absolutely giant block on the front
+creations-chat 2020-09-03 22:19:05 also why are the wheels so big
+creations-chat 2020-09-03 22:19:19 no
+creations-chat 2020-09-03 22:20:12 i didnt get tips. the community wants mass motor locked things with wedges absolutely everywhere. i dont. i care more about functionality and efficiency than ALL THE DETAILS
+creations-chat 2020-09-03 22:21:21 efficient functionality. i can fit suspension and a motor into a 4x4 area that shrinks when the suspension leaves build mode
+creations-chat 2020-09-03 22:21:53 but this doesnt get likes because people want giant super detailed monster things
+creations-chat 2020-09-03 22:22:31 instead of wanting a good creation in plane crazy, they want giant over-detailed unrealistically sized monsters.
+creations-chat 2020-09-03 22:22:48 you cant race in a car that takes up the entire build area
+creations-chat 2020-09-03 22:23:08 everything can offroad
+creations-chat 2020-09-03 22:23:31 i dont care if you can offroad. we can all offroad.
+creations-chat 2020-09-03 22:23:56 yes
+creations-chat 2020-09-03 22:24:32 > Caaan u
+<@!674434894616854548> are you going to proceed to add an a to every "can" until i leave you alone?
+creations-chat 2020-09-03 22:25:23 oh i forgot. i made a fully working car in a 3x4x3 area.
+creations-chat 2020-09-03 22:25:41 so dont talk to me about needing to be big for functionality
+creations-chat 2020-09-03 22:25:53 it doesnt need to look good to be a good car
+creations-chat 2020-09-03 22:26:09 it looks even better when you fit decoration into a small build
+creations-chat 2020-09-03 22:26:20 exactly
+creations-chat 2020-09-03 22:26:36 which is my problem with the <#384025409945337856> community
+creations-chat 2020-09-03 22:27:11 it dislikes perfectly good creations.
+creations-chat 2020-09-03 22:27:18 because of a lack of wedges
+creations-chat 2020-09-03 22:27:44 a decent build
+creations-chat 2020-09-03 22:28:01 i said "creations"
+creations-chat 2020-09-03 22:28:21 why.
+creations-chat 2020-09-03 22:28:30 is there a giant sphere in the middle of it
+creations-chat 2020-09-03 22:29:00 play "dream car builder" on steam. this is a block based game
+creations-chat 2020-09-03 22:29:29 arent we all?
+creations-chat 2020-09-03 22:29:40 they should fix motorlock. i mean, its a glitch.
+creations-chat 2020-09-03 22:29:45 yes
+creations-chat 2020-09-03 22:29:56 it IS a glitch
+creations-chat 2020-09-03 22:30:09 its a feature because it was exploited
+creations-chat 2020-09-03 22:30:26 it is a glitch
+creations-chat 2020-09-03 22:30:37 yeah me
+creations-chat 2020-09-03 22:30:44 its a glitch
+creations-chat 2020-09-03 22:30:50 clipping blocks is a glitch
+creations-chat 2020-09-03 22:31:11 yes its useful, its a glitch that is exploited
+creations-chat 2020-09-03 22:31:32 it takes away the challenge of compacting features into builds/
+creations-chat 2020-09-03 22:31:47 why?
+creations-chat 2020-09-03 22:31:50 they arent glitches
+creations-chat 2020-09-03 22:32:28 the community is discord, the actual playerbase mostly doesnt know how to use motorlock
+creations-chat 2020-09-03 22:32:59 the real players should be the community. not the exploiters here on discord
+creations-chat 2020-09-03 22:33:19 > you clearly havent made any builds that are significantly more visually appealing than a tutorial shredder bug
+<@!479298992874979328> i dont do pvp
+creations-chat 2020-09-03 22:33:41 motorlockers are exploiting a glitch that allows you to clip blocks into each other.
+creations-chat 2020-09-03 22:34:22 yes, glitches are useful, so is hacking and cheating and copying. but they are all malicious
+creations-chat 2020-09-03 22:34:34 it was always a bug. people simply normalized it
+creations-chat 2020-09-03 22:35:20 yes theres an issue with the normalization of a bug, so widespread the devs are scared of fixing it
+creations-chat 2020-09-03 22:35:44 why would i leave? i love this game
+creations-chat 2020-09-03 22:36:01 go play build a boat if you like exploiting
+creations-chat 2020-09-03 22:37:02 > omggg blob is under 13
+<@!614659754249420810> spamming this over an over in an attempt to get me banned is silly, since, you know, it doesnt mean anything
+creations-chat 2020-09-03 22:37:27 > he meant exploiting the glitches
+<@!455009731430449163> duh, was that not obvious?
+creations-chat 2020-09-03 22:37:36 bugs arent features, they are bugs
+creations-chat 2020-09-03 22:38:26 they are especially bugs if the playerbase that doesnt know about them suffers because they cant make their builds hyper-realistic
+creations-chat 2020-09-03 22:39:51 *boby not bloby
+creations-chat 2020-09-03 22:41:02 i dont like oversized builds because they are unrealistic and take away the spotlight from people that make excellent, efficient, realistically sized builds
+creations-chat 2020-09-03 22:41:46 when you find someone driving a car that is 40x taller than them go tell me its realistic
+creations-chat 2020-09-03 22:42:17 yes its their own creation, and its my vote, so i will downvote
+creations-chat 2020-09-03 22:42:52 also stop calling me bloby. thats an insult to my species
+creations-chat 2020-09-03 22:43:23 poor henry spider :9
+creations-chat 2020-09-03 22:43:40 can we all agree we simp for henry spider
+creations-chat 2020-09-03 22:44:00 its ***boby***blobfish
+creations-chat 2020-09-03 22:45:16 " Do not harrass, bully, threaten or berate other members. You are expected to be respectful to everyone at all times. General toxicity will be met with a ban.
+
+While light swearing is tolerated, please do not swear excessively or direct it at someone." we need better mods
+creations-chat 2020-09-03 22:45:44 lol
+creations-chat 2020-09-03 22:46:34 y'all gotta ##### #### #######
+creations-chat 2020-09-03 22:47:20 > u know sometimes bullying isnt that bad because it teaches ppl like u to not do something bad lol
+<@!674434894616854548> i agree but sadly, politics arent allowed here so i cant express where bullying is acceptable or not
+creations-chat 2020-09-03 22:48:01 i said that motorlock is an bug, which it is. clipping blocks into each other is a bug.
+creations-chat 2020-09-03 22:48:42 the bug cant be a feature. it needs to be removed and re-added as a feature. you cant just call a bug a feature
+creations-chat 2020-09-03 22:49:16 the bug needs to be fixed, and motorlocking needs to be added legitimately. until than its a bug in my eyes
+creations-chat 2020-09-03 22:49:50 because until its removed its a bug
+creations-chat 2020-09-03 22:50:36 my builds? i spend a large amount of time trying to maximize the efficiency of compact simplistic mechanisms
+creations-chat 2020-09-03 22:51:26 showcasing motorlocking as a glitch doesnt break my argument
+creations-chat 2020-09-03 22:52:19 most of my builds are unfinished
+creations-chat 2020-09-03 22:52:46 only if you all stop spamming
+creations-chat 2020-09-03 22:53:12 .
+creations-chat 2020-09-03 22:53:26 its tiny and efficient? how is it trash?
+creations-chat 2020-09-03 22:53:43 > IDOIT
+<@!614659754249420810> no u
+creations-chat 2020-09-03 22:54:06 > BRO BOBY IF YOU BUILD LIKE THAT, THE ONLY THING I'LL TREAT YOU TO IS THE HOMELESS MAN'S COKE STASH.
+<@!470018120317403137> this is fine with me please proceed
+creations-chat 2020-09-03 22:55:28 and than you have me who can make a one block wide plane without motorlocking
+creations-chat 2020-09-03 22:56:08 i was having fun and made this. its fun to watch
+creations-chat 2020-09-03 22:56:26 i know
+creations-chat 2020-09-03 22:56:40 its still fun to look at
+creations-chat 2020-09-03 22:57:50 > blob probably thinks this is a fine piece of art
+<@!674434894616854548> i dont. its way too wide and there isnt enough detail. however the default wheels are faster than custom wheels, and spinning them extra with more motors makes it even better. in short, it'll perform better than your truck chassis
+creations-chat 2020-09-03 22:58:12 i love motors
+creations-chat 2020-09-03 22:58:29 yes
+creations-chat 2020-09-03 22:58:54 our brains are all the same size
+creations-chat 2020-09-03 22:59:32 thats unscientific
+creations-chat 2020-09-03 23:00:17 > actually blobs' brain is his profile picture LOL
+<@!674434894616854548> well yes but no
+creations-chat 2020-09-03 23:00:25 yes
+creations-chat 2020-09-03 23:01:11 it has rockets. rockets are violent and are made to hurt many people. im sorry for not liking that being inside a kids game about building planes
+creations-chat 2020-09-03 23:02:08 beneficial space travel cant be achieved with rockets. too expensive and slow
+creations-chat 2020-09-03 23:03:17 if we ever want to colonize mars or harvest Jupiter we need a much more efficient launch system. something that doesnt cost too much, and can lift more
+creations-chat 2020-09-03 23:05:13 the build im working on is a giant rectangular prism with propellers. its very fun to drive. im thinking of somehow getting yaw into a smaller system
+creations-chat 2020-09-03 23:06:38 *what if motorlocked can be used to compact cars even more...?*
+creations-chat 2020-09-03 23:07:20 > you can fucking make a 2x3 car with motorlock
+<@!720024036863901717> i can beat that easily without it
+creations-chat 2020-09-03 23:07:58 2x3 is too small to be realistic sorry'
+creations-chat 2020-09-03 23:08:02 get on scale
+creations-chat 2020-09-03 23:08:47 its simply too small. its not to scale with the roblox avata
+creations-chat 2020-09-03 23:09:54 > Splish Splash Your Opinion Is Trash
+<@!720024036863901717> we should talk about politics
+creations-chat 2020-09-03 23:10:25 > <@!502211422718263307> how about no
+<@!335599526414909451> in dms silly
+creations-chat 2020-09-03 23:11:28 legos usually dont clip into each other
+creations-chat 2020-09-03 23:12:16 space doesnt have drag... why does it need to minimize drag.
+creations-chat 2020-09-03 23:12:52 i didnt break any rules.
+creations-chat 2020-09-03 23:13:04 however everyone here did break rules
+creations-chat 2020-09-03 23:13:43 do you want me to get evidence of everyone breaking the rules? i can
+creations-chat 2020-09-03 23:14:45 they wouldnt patch it, rick has been pressured into sending the game into a world it wasnt originally supposed to enter
+creations-chat 2020-09-03 23:14:59 exactly
+creations-chat 2020-09-03 23:15:54 useful exploiting is the reason rainbow six siege gamemodes had to be removed.
+creations-chat 2020-09-03 23:16:58 there are no engines in plane crazy
+creations-chat 2020-09-03 23:17:05 do it
+creations-chat 2020-09-03 23:17:21 6 hours do it

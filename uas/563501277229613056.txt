@@ -1,13 +1,107 @@
-_fossil_
-plane-crazy 2020-07-18 16:47:15 due to asymmetry
-plane-crazy 2020-07-18 16:47:11 a single half block would be hard to implement
-plane-crazy 2020-07-18 16:47:02 which is a half block
-plane-crazy 2020-07-18 16:46:59 even if were talking about block scale, im only 0,4 off
-plane-crazy 2020-07-18 16:46:03 <@!670939038999511041>  real scale referring to comparison of the character
-plane-crazy 2019-05-20 21:12:15 i thoughtu had to do it with the bot
-plane-crazy 2019-05-20 21:12:06 oh
-plane-crazy 2019-05-20 21:11:51 but how do u submit
-plane-crazy 2019-05-20 21:11:24 thats not even on what i need help with
-plane-crazy 2019-05-20 21:10:36 u are verified
-plane-crazy 2019-05-20 21:10:27 what is the command
-plane-crazy 2019-05-20 21:10:24 how do u submit a build
+The Tale of _fossil_ (563501277229613056)
+creations-chat 2019-05-20 21:16:54 
+creations-chat 2019-05-20 21:21:38 
+creations-chat 2019-05-20 22:53:49 ..
+creations-chat 2019-05-28 19:55:45 <@!466793357318815744> I saw your fish in game
+bug-reports 2020-03-08 20:38:54 Everytime I spawn in my hover car, all my hover thrusters face forward
+bug-reports 2020-03-08 20:39:10 they are all supposed to face away from the car so that when the wheels fold they point down
+bug-reports 2020-03-08 20:39:26 ive tried re-placing them properly and saving but when I load it still happens
+bug-reports 2020-03-08 20:40:29 thats why i said it in <#498473314445033472>
+help 2020-07-17 14:54:16 
+help 2020-07-17 14:54:21 does anyone know why my car is bouncing
+help 2020-07-17 14:54:24 it has suspension
+help 2020-07-17 14:54:30 and its pretty stiff
+help 2020-07-17 14:56:33 keep going...
+help 2020-07-17 14:56:49 i stiffened it because it was bouncing
+help 2020-07-17 14:56:52 let me try lossening
+help 2020-07-17 14:58:07 now it over does it
+help 2020-07-17 14:58:33 LOL
+help 2020-07-17 14:58:43 
+help 2020-07-17 14:59:18 well in case you wanted to see the inside....
+help 2020-07-17 14:59:27 
+help 2020-07-17 15:00:31 just a normal tesla roadster
+help 2020-07-17 15:05:16 im still extended someone help
+help 2020-07-17 15:15:26 ok ill just remove suspension
+help 2020-07-17 23:00:55 it doesnt help
+creations-chat 2020-08-22 19:34:19 why cant i see <#384025409945337856> ?
+creations-chat 2020-08-22 19:47:22 <#384025409945337856>
+creations-chat 2020-08-22 19:48:08 tgabjs
+creations-chat 2020-08-22 19:48:17 wait...
+creations-chat 2020-08-22 19:48:20 LOL
+creations-chat 2020-08-22 19:48:24 I THOUGHT I SAID THANKS
+creations-chat 2020-08-22 19:49:10 how did you get expert?
+creations-chat 2020-08-22 19:49:17 i thought you needed expert in every field to get it
+creations-chat 2020-08-22 19:49:21 <@!679843010757787650>
+creations-chat 2020-08-22 19:49:47 oh
+creations-chat 2020-08-22 19:49:53 then i should probably apply for it
+creations-chat 2020-08-22 19:50:30 i feel like not even 30 people are going to decide to rate it
+creations-chat 2020-08-22 19:51:51 and?
+creations-chat 2020-08-22 19:51:54 how does that affect it
+creations-chat 2020-08-22 19:52:05 oh
+creations-chat 2020-08-22 20:01:22 why are there some people that go around disliking most creations
+creations-chat 2020-08-22 20:01:43 its just so immature
+creations-chat 2020-08-25 23:19:54 
+creations-chat 2020-08-25 23:19:57 doesnt even blend
+creations-chat 2020-08-25 23:19:58 lol
+creations-chat 2020-08-25 23:20:10 the background is darker than in the image
+creations-chat 2020-08-25 23:21:24 https://discordapp.com/channels/384021699466756103/384025409945337856/746816093569548318
+creations-chat 2020-08-25 23:21:24 to anyone who doesnt check <#384025409945337856>  or hasnt seen my build, can you please rate it? im trying to get to 60 upvotes so if you could go take a look at it then rate it it would be mostly appreciated
+creations-chat 2020-08-25 23:21:41 anime
+creations-chat 2020-08-25 23:22:25 BRUH
+creations-chat 2020-08-25 23:25:40 peekaboo
+creations-chat 2020-08-25 23:25:51 i could see it without clicking on it lol
+creations-chat 2020-08-25 23:26:03 its not a rick roll if its an image
+creations-chat 2020-08-25 23:26:08 it needs sound and video
+creations-chat 2020-08-25 23:26:15 lol
+creations-chat 2020-08-25 23:26:17 why u tryin
+creations-chat 2020-08-25 23:26:26 lol
+creations-chat 2020-08-25 23:27:00 why wouldnt he want to visit his dad
+creations-chat 2020-08-25 23:27:19 oh ok
+bot-central 2020-09-14 20:19:32 ?shelp
+bot-central 2020-09-14 20:20:34 &suggest
+[TITLE] - Pipe Pieces
+[CATEGORY] - Building
+
+[DESCRIPTION] - Pipe pieces would include a T and L shaped piece. The L shaped piece would just be a cylinder that curves, and the T shape would be a cylinder perpendicular to a cylinder.
+bot-central 2020-09-14 20:20:51 is that how u suggest?
+bug-reports 2020-11-06 20:13:24 ragdoll seperates your limbs; has been happening to others
+help 2020-12-29 18:33:59 how do you get access to the vips?
+help 2020-12-29 18:40:59 ty
+bot-central 2020-12-29 18:41:11 !servers
+help 2020-12-30 00:29:39 i got the glitch where i cant place blocks in a certain spot but moving, reloading, and rejoining didnt fix it. its also not just one spot, its an entire level filling  my plot.
+bug-reports 2020-12-30 00:38:01 i got the glitch where i cant place blocks in a certain spot but moving, reloading, and rejoining didnt fix it. its also not just one spot, its an entire level filling my plot.
+creations-chat 2020-12-30 00:54:13 cockpit ok?
+creations-chat 2020-12-30 00:57:29 its really glitchy though
+creations-chat 2020-12-30 01:04:12 but its like teleport glitchy because its motor angled on motor lock on motor angle on motor lock
+creations-chat 2020-12-30 01:07:05 yes its glitched because of the wedge i use to make the cockpit's bottom slant
+creations-chat 2020-12-30 01:10:04 no because the glitched parts are on the outside and add a lot of detail
+creations-chat 2020-12-30 01:12:05 comparison
+creations-chat 2020-12-30 09:17:24 No I would put them full red zone
+creations-chat 2020-12-30 16:38:51 bruh how they dont look the same
+the-dump 2021-01-04 15:14:18 
+bot-central 2021-04-01 16:47:59 -pccmc
+bot-central 2021-04-02 20:35:31 -pccmc
+creations-chat 2021-05-21 00:28:26 me?
+bot-central 2021-05-26 00:31:22 !servers
+bot-central 2021-05-26 00:31:29 nah
+help 2021-06-03 22:38:51 how can i fix my helicopter rolling to the left
+help 2021-06-03 22:58:08 yes 😔
+help 2021-06-03 22:58:36 i did and it didnt help
+help 2021-06-04 00:13:24 make the motors rotate in opposite directions
+help 2021-06-04 00:16:27 yes one sec
+help 2021-06-04 00:16:33 do you have android
+help 2021-06-04 00:16:39 oh
+help 2021-06-04 00:16:46 idk if its on ios but i have a color grabber app
+help 2021-06-04 00:17:34 try this
+help 2021-06-04 00:17:38 0, 251, 255
+help 2021-06-04 00:17:48 lmk if it looks good or its too bright or what
+help 2021-06-04 00:17:59 because the app is sensitive, so i might need to try and grab from a darker spot
+help 2021-06-04 00:18:11 ok
+help 2021-06-04 00:18:42 and also cuz im pointing it at my monitor, which is a light source
+help 2021-06-04 00:19:15 0, 85, 94
+help 2021-06-04 00:19:15 try
+help 2021-06-04 00:19:20 might be a bit dark, but idk
+help 2021-06-04 00:20:00 np
+bot-central 2021-06-04 01:24:24 ?shelp
+help 2021-06-04 01:24:59 type "?shelp" in <#384027830192832513>
+help 2021-06-04 01:25:06 ^

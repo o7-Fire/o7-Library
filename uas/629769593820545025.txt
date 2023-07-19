@@ -1,0 +1,50 @@
+The Tale of Cooked Pain (629769593820545025)
+the-dump 2021-06-03 23:32:00 Hampet
+the-dump 2021-06-03 23:32:08 Meep
+the-dump 2021-06-03 23:32:51 https://cdn.discordapp.com/attachments/777590827237113906/847418756682874920/video0.mp4
+the-dump 2021-06-03 23:33:14 https://cdn.discordapp.com/attachments/264720208550166528/847910139729281084/rock.mp4
+the-dump 2021-06-03 23:37:31 Yes dad
+the-dump 2021-06-03 23:37:51 https://cdn.discordapp.com/attachments/556766821764562956/847993038218985552/video0_87.mp4
+help 2021-10-12 19:09:22 How do I effectively motor lock with disconnectors?
+help 2021-10-12 19:13:15 Why do angle locks shake inside other blocks?
+help 2021-10-12 19:13:39 Yes
+help 2021-10-12 19:13:44 Using motor locking
+help 2021-10-12 19:14:07 Then if you motor lock another section over an angle motor/spin lock is vibrates
+help 2021-10-12 19:14:34 Thank you, can you use servo motors or will motor 1 only work?
+help 2021-10-12 19:14:56 Okok
+help 2021-10-12 19:14:59 Thank you
+help 2021-10-12 19:15:40 So the motor that's rotating has to touch locked motor?
+help 2021-10-12 19:16:27 The one rotating the section?
+help 2021-10-12 19:16:33 Has to be locked and powered?
+help 2021-10-12 19:16:54 Okay
+help 2021-10-12 19:17:38 Oh
+help 2021-10-12 19:17:40 It works
+help 2021-10-12 19:17:58 I never locked my rotating motors welp
+help 2021-10-12 20:02:03 <@!714878625484243101> when you branch motor locks out left and right why do they snap differenctly while using desconnector buffers?
+help 2021-10-12 20:03:58 when you spawn in they're uneven somehow
+help 2021-10-12 20:06:24 
+help 2021-10-12 20:06:35 
+help 2021-10-12 20:06:47 <@!714878625484243101>
+help 2021-10-12 20:07:46 pardon?
+help 2021-10-12 20:07:51 like
+help 2021-10-12 20:07:58 facing away from the blimp?
+help 2021-10-12 20:08:08 or flat to the motor
+help 2021-10-12 20:08:35 facing each other?
+help 2021-10-12 20:08:56 I'm braindead forgive me
+help 2021-10-12 20:10:26 bottom ones too?
+help 2021-10-12 20:10:51 do I need the ones capping the ends?
+help 2021-10-12 20:11:10 ah
+help 2021-10-12 20:11:16 but not the ones at the tips?
+help 2021-10-12 20:11:59 okok
+help 2021-10-12 20:12:28 hm
+help 2021-10-12 20:12:30 still uneven
+help 2021-10-12 20:14:14 
+help 2021-10-12 20:14:19 
+help 2021-10-12 20:16:48 does the stationary rotation matter?
+creations-chat 2021-10-14 02:55:04 What needs improvement
+creations-chat 2021-10-14 03:11:07 looks great
+creations-chat 2021-10-14 03:16:53 do a mustard yellow
+creations-chat 2021-10-15 02:11:13 Clean or nah?
+bot-central 2022-04-30 16:23:47 !play white room
+creations-chat 2022-05-10 03:57:20 Okay thank you!
+creations-chat 2022-05-10 03:59:22 How do circle generators work?

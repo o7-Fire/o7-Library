@@ -1,5 +1,3 @@
-genzokyo
-plane-crazy 2019-10-04 22:16:54 It is a food?
-plane-crazy 2019-10-04 22:16:49 what is a magnet engine?
-plane-crazy 2019-10-04 22:15:57 there's a magnet engine?
-plane-crazy 2019-10-04 22:15:49 what
+The Tale of genzokyo (279332745086238720)
+bug-reports 2019-10-04 22:08:26 When you delet a block and the same time you switch to construct tool, it will place a block
+help 2019-10-04 22:11:32 how the physics works in this game?

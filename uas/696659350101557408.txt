@@ -1,0 +1,18 @@
+The Tale of hellohennessy (696659350101557408)
+bot-central 2021-12-16 17:17:52 !help
+bot-central 2021-12-16 17:21:02 I put builds in creation ?
+bot-central 2021-12-23 14:58:50 ok
+bot-central 2021-12-23 15:05:03 &suggest
+**[New Effect switch in pvp mode ?]**
+
+**[Other] [PVP]**
+
+**[Description :]**
+So when you die in PVP mode, your build just crumbles down into many 'parts' which is very laggy considering it also has physics.
+So add a switch in the setting's menu where you can turn that off so that like- your build just despawns.
+It is meant to help people with bad PC (like me) to not crash when dying. (don't laugh, dying is normal in pvp mode)
+bot-central 2021-12-23 15:05:10 ...
+bot-central 2021-12-23 15:05:19 i have no idea how this suggestion thing works
+bot-central 2021-12-23 15:30:28 !rank
+bot-central 2021-12-23 15:31:09 how do i get ranked
+creations-chat 2022-02-02 12:44:32 why are so many people making there builds with glass

@@ -1,0 +1,27 @@
+The Tale of sputniknewhorizons (313282947803250690)
+help 2021-03-02 05:46:09 my planes flaps sometimes go inverted and I cant maneuver my plane much and it either goes off the void or stops working, Sometimes this does not happen and the plane is very maneuverable is there a fix to this?
+help 2021-03-02 05:54:29 No
+help 2021-03-02 05:54:41 simple plane with a single rocket booster
+help 2021-03-02 05:55:44 like the ailerons face a single direction
+help 2021-03-02 05:55:47 when turning
+help 2021-03-02 11:43:47 Why does spawning at Airport change my plane controls
+help 2021-03-02 11:44:34 whenever I spawn at airport my planes flaps only depress and elevate at the same time
+help 2021-03-02 11:44:42 it does not seem to turn right or left
+help 2021-03-02 11:45:26 yes
+help 2021-03-02 12:27:00 how do I make motor 2 rotate paralell symmetrical?
+help 2021-03-02 12:31:13 are you attempting to antagonize me
+help 2021-03-02 12:32:36 
+bug-reports 2021-03-02 15:33:53 Why do explosions seem to blow up far behind and not in front of my target?
+help 2021-03-03 07:22:15 does anyone know how to re-enable the blue indicator
+help 2021-03-03 07:23:17 wdym
+help 2021-03-03 07:23:22 just put a wing on it?
+help 2021-03-03 07:23:55 d
+help 2021-03-03 07:24:37 ok
+help 2021-03-03 07:24:39 thanks
+help 2021-03-03 07:31:14 make sure yellow and blue indicator is allign
+help 2021-03-03 07:31:46 dont spawn at airport
+help 2021-03-03 07:31:56 usually breaks the controls
+help 2021-03-03 07:32:12 ok
+help 2021-03-03 07:32:33 could you send me a screenshot of your design
+help 2021-03-03 07:33:43 any works
+help 2021-05-22 10:46:30 my merkava hull is tilting the the right a little, could I get a diagnosis on the issue?

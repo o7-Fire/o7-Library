@@ -1,5 +1,182 @@
-destructivelogic
-plane-crazy 2020-06-12 03:19:31 needs specific degrees to turn different blocks so it fits perfectly in two different forms, but motor2 freaks out and has a seizure when ever it wants
-plane-crazy 2020-06-12 03:18:02 reason why is because im building a complex transformer
-plane-crazy 2020-06-12 03:16:47 do any of you wish motor2 could be configured to lock?
-plane-crazy 2020-06-12 03:16:27 one question for anyone to answer:
+The Tale of destructivelogic (394035089777885187)
+reports 2020-05-31 05:26:00 User: synopthies
+Reason: Inappropriate/NSFW Build
+Proof: ||https://imgur.com/a/An7yxmL||
+Profile: https://www.roblox.com/users/503621365/profile
+bot-central 2020-06-12 04:17:41 &suggest
+Motor 2 Locks
+[GAMEPLAY]
+
+[DESCRIPTION]
+Add a lock configuration to Motor 2. Motor 2s can freak out when under certain circumstances on complex builds, but when using normal motors they lock and don't freak out. Motor2 doesn't have this configurable option, and using normal motors can't give you precise placements between two different angles/movements. For example: Building a complex Transformer vehicle, motor2 is great for transforming between the two forms, but they freak out. Normal motors are great for keeping everything in place but the form isn't kept correctly. Please consider adding a lock configuration to Motor2.
+
+Example link of Motor2s without locks freaking out:
+https://imgur.com/a/bEV6DVO
+bot-central 2020-06-12 04:18:46 !help
+bot-central 2020-06-12 04:19:31 !shelp
+bot-central 2020-06-12 04:19:47 ?shelp
+bot-central 2020-06-12 04:20:18 ?rhelp
+bot-central 2020-06-12 06:25:25 $help
+bot-central 2020-06-12 06:25:37 $help faq
+creations-chat 2020-06-15 04:38:29 i cant post in <#384025409945337856>
+help 2020-06-15 04:50:19 I cant post in <#384025409945337856>
+creations-chat 2020-06-16 02:01:12 carnival craziness
+creations-chat 2020-06-16 02:01:14 https://imgur.com/a/X7kWBLM
+creations-chat 2020-06-16 02:01:50 ^^what happens when you try to build an extremely long fold^^
+bot-central 2020-06-16 02:14:18 !rank
+bot-central 2020-06-16 02:14:53 !help
+creations-chat 2020-07-27 17:12:08 like a tesla factory?
+creations-chat 2020-07-27 17:12:23 thatd be cool, take some time but i could do it
+creations-chat 2020-07-27 17:13:32 oof a little low on data tho
+creations-chat 2020-07-27 17:13:45 
+creations-chat 2020-07-27 17:15:16 if you save a build and you go over
+creations-chat 2020-07-27 17:15:38 itll save but if you exit and rejoin it wont have saved
+creations-chat 2020-07-27 17:16:00 it will revert back before you went over
+creations-chat 2020-07-27 17:19:11 XD i have
+creations-chat 2020-07-27 17:19:23 ive even exploded it, no one liked that
+creations-chat 2020-07-27 17:19:44 
+creations-chat 2020-07-27 17:19:57 n o
+creations-chat 2020-07-27 17:20:17 kewl
+creations-chat 2020-07-27 19:13:40 look in <#384025409945337856> it looks like a creeper i just realized XD
+creations-chat 2020-07-27 19:14:33 its my first military paint job :/
+creations-chat 2020-07-27 19:15:30 im replacing the bright green with grey
+creations-chat 2020-07-27 19:26:00 hows this
+creations-chat 2020-07-27 19:26:56 gonna try and get expert robotics specialist
+creations-chat 2020-07-27 19:27:13 <#609442446249820211>
+bot-central 2020-07-27 20:20:46 !rank
+bot-central 2020-07-27 20:20:55 :/
+creations-chat 2020-08-02 22:57:14 Should I create a micro Yeager hanger with micro working Yeagers from Pacific rim?
+help 2020-08-02 22:59:08 Should I create a micro Yeager hanger with working micro Yeager mechs from pacific rim?
+creations-chat 2020-08-20 03:08:21 omg my ship is literally a few votes away to getting into hall of fame : /
+creations-chat 2020-08-20 03:09:10 wait huh
+creations-chat 2020-08-20 03:09:18 oh yea
+creations-chat 2020-08-20 03:09:25 the mods decide to right?
+creations-chat 2020-08-20 03:10:33 but did the person request it? or dont you have to
+creations-chat 2020-08-20 03:11:21 what i mean is do you have to tell a mod to look at it and decide
+creations-chat 2020-08-20 03:11:51 and you do the by dming a mod or rank request?
+creations-chat 2020-08-20 03:11:55 ok
+creations-chat 2020-08-20 03:15:19 who would upvote this?
+the-dump 2020-08-21 12:46:15 i mean the desc isnt not wrong
+the-dump 2020-08-21 13:19:16 
+the-dump 2020-08-22 16:26:05 How I feel rn
+the-dump 2020-08-22 16:26:09 
+bug-reports 2020-09-19 02:00:19 Motor locking a seat into a wing(s): Can't sit in the chair after jumping out of it
+bug-reports 2020-09-19 02:00:30 
+bug-reports 2020-09-19 02:00:30 
+creations-chat 2020-12-06 01:30:35 https://tenor.com/view/pinged-who-me-discord-ping-gif-18146810
+the-dump 2020-12-08 15:42:40 yall watch this
+the-dump 2020-12-08 15:42:42 
+bot-central 2021-01-03 04:45:04 !servers
+bot-central 2021-01-03 04:45:43 !servers
+bot-central 2021-01-17 05:40:40 !servers
+bot-central 2021-02-02 04:49:56 !server
+bot-central 2021-02-02 04:49:59 !servers
+bot-central 2021-02-02 04:51:09 !expert servers
+bot-central 2021-02-02 04:51:25 !expertservers
+bot-central 2021-02-04 02:28:40 !expertservers
+creations-chat 2021-02-04 15:35:24 ello
+bot-central 2021-02-06 00:55:32 !servers
+bot-central 2021-02-16 15:59:46 !servers
+bot-central 2021-02-18 12:54:28 !servers
+bot-central 2021-02-18 12:56:10 !expertservers
+bot-central 2021-02-21 05:01:27 !servers
+bot-central 2021-02-24 20:52:12 !servers
+bot-central 2021-02-24 20:52:42 !expertservers
+the-dump 2021-04-23 01:38:40 heres stuff without context B)
+the-dump 2021-04-23 01:38:46 
+bot-central 2021-04-25 23:24:00 !servers
+the-dump 2021-05-07 22:35:32 
+the-dump 2021-05-07 22:49:23 *
+the-dump 2021-05-20 01:30:01 https://tenor.com/view/bussin-bus-this-stuff-is-bussin-car-tasty-gif-21334384
+bot-central 2021-05-25 11:52:20 <@!577028730560577537>
+bot-central 2021-05-25 11:52:21 hi
+bot-central 2021-05-25 11:52:23 no
+bot-central 2021-05-25 11:52:28 go to <#705941616199991307>
+bot-central 2021-05-25 11:52:32 theres instructions there
+bot-central 2021-05-25 11:52:37 what
+the-dump 2021-05-25 11:53:23 <#384027830192832513>
+bot-central 2021-05-25 11:53:31 oh
+bot-central 2021-05-25 11:53:39 you cant post images can you
+bot-central 2021-05-25 11:53:41 thats why
+bot-central 2021-05-25 11:53:43 !rank
+creations-chat 2021-05-25 19:27:24 hmmmmmmmmm
+creations-chat 2021-05-25 19:49:37 What do yall think of my Monowheel traction city, a custom creation thats supposed to be from mortal engines, obviously a wip but ive got the first few buildings done
+creations-chat 2021-05-25 19:52:40 it is a wip, ill be coloring it after its finished being built
+creations-chat 2021-05-25 19:55:40 as I continue to build the buildings it will be more diverse and less plain, but ill see what i can do
+creations-chat 2021-05-25 20:00:26 once its done it will be a city, <@!719168864705052802> and sure whats your user, this is also how wide the platform is...
+the-dump 2021-05-26 04:05:04 
+the-dump 2021-05-26 04:05:26 
+the-dump 2021-05-26 04:06:02 lol
+the-dump 2021-05-26 04:08:59 no
+the-dump 2021-05-26 04:10:32 ***delete it***
+the-dump 2021-05-26 04:17:48 https://images-ext-2.discordapp.net/external/XdQqcrx3ikQ4d-LED8KoA_MP8TH58D7SOt3XBomoGu0/https/media.discordapp.net/attachments/495286269459300364/846961109771878410/image0.gif
+creations-chat 2021-05-26 04:19:28 it doesnt have to go into <#384025409945337856>
+creations-chat 2021-05-26 04:21:30 yea, and im sure some of PCC knows that its toxic, but i wouldnt get mad and rage about it lol, id just show them better tbh
+bot-central 2021-05-28 00:39:25 !servers
+bot-central 2021-06-07 22:07:42 !servers
+the-dump 2021-06-10 18:02:56 
+the-dump 2021-06-10 18:04:31 thanks
+the-dump 2021-06-10 18:04:58 shoulda added black border
+the-dump 2021-06-10 18:09:57 uh
+the-dump 2021-06-10 18:12:29 https://tenor.com/view/sus-imposter-among-us-among-sus-trollface-gif-21441519
+the-dump 2021-06-10 18:12:43 lol wait
+the-dump 2021-06-10 18:12:50 this man tryin to get free nitro
+bot-central 2021-06-14 23:16:46 !server
+bot-central 2021-06-14 23:16:49 !servers
+the-dump 2021-06-16 19:15:53 https://www.youtube.com/watch?v=jzwMjOl8Iyo&t=0s
+the-dump 2021-06-29 23:52:19 
+bot-central 2021-07-12 12:27:13 !servers
+the-dump 2021-07-18 14:37:43 https://tenor.com/view/discord-mod-discord-gif-18242678
+the-dump 2021-07-18 14:38:29 https://tenor.com/view/discord-mod-discord-mods-mute-ban-kick-gif-18546458
+the-dump 2021-08-14 22:53:55 whatchu
+bot-central 2021-08-26 14:53:12 !servers
+bot-central 2021-08-26 14:53:18 -servers
+the-dump 2021-08-27 17:47:16 https://tenor.com/view/plane-crazy-gif-19801246
+the-dump 2021-08-27 17:56:50 watch this imma boutta get warned
+the-dump 2021-08-27 18:05:52 wheres your meme stealing permit sir
+the-dump 2021-08-27 18:11:23 alr sir have a nice day
+the-dump 2021-08-27 18:13:46 lol
+the-dump 2021-08-27 18:14:16 lmao
+the-dump 2021-08-31 23:06:35 
+the-dump 2021-08-31 23:08:38 what
+the-dump 2021-08-31 23:10:30 https://tenor.com/view/epic-embed-fail-ryan-gosling-cereal-embed-failure-laugh-at-this-user-gif-20627924
+the-dump 2021-09-01 02:48:59 https://tenor.com/view/frien-my-friend-now-your-my-friend-now-meme-gif-22200411
+the-dump 2021-09-02 23:02:16 https://cdn.discordapp.com/attachments/879853206946058381/883103677575991396/meme.mp4
+the-dump 2021-09-02 23:11:02 Turtle 🐢
+the-dump 2021-09-04 04:51:40 
+bug-reports 2021-09-25 16:40:20 https://cdn.discordapp.com/attachments/384021699466756107/891357261669232670/Roblox_2021-09-25_11-14-33.mp4 I believe the video is pretty self explanatory, user id is DestructiveLogic
+bug-reports 2021-09-25 19:34:12 yea kinda
+bug-reports 2021-09-26 03:23:30 true lo
+the-dump 2021-10-13 03:55:48 e
+creations-chat 2022-01-20 05:40:58 yea unfortunetly, its very difficult and a pain to get it to fly in regular grav
+creations-chat 2022-01-20 05:43:17 amazing how a stupid rat is getting more votes than my car :l
+creations-chat 2022-01-20 05:46:19 yea :l
+the-dump 2022-01-24 19:59:30 THERES A PIPE BOMB IN YOUR MAIL BOX
+the-dump 2022-01-24 20:01:01 https://tenor.com/view/crying-callmecarson-no-sad-gif-16368821
+the-dump 2022-04-10 23:29:23 
+the-dump 2022-05-19 01:22:30 
+the-dump 2022-05-28 01:21:45 https://www.youtube.com/watch?v=2QQv1_ngYtA&ab_channel=foonb
+the-dump 2022-07-02 07:45:17 
+the-dump 2022-07-02 07:49:49 
+the-dump 2022-07-02 07:50:59 
+the-dump 2022-07-02 07:53:01 you know what
+the-dump 2022-07-02 07:54:15 
+the-dump 2022-07-02 07:54:29 uh
+the-dump 2022-07-02 07:54:30 uh
+the-dump 2022-07-02 07:54:35 no not at all ocifer
+the-dump 2022-07-02 07:54:55 it still there
+the-dump 2022-07-02 07:55:03 
+the-dump 2022-07-02 07:55:29 
+the-dump 2022-07-02 07:56:00 
+the-dump 2022-07-02 07:56:36 
+the-dump 2022-07-02 07:57:02 
+the-dump 2022-07-02 08:05:45 
+the-dump 2022-07-02 08:06:55 
+the-dump 2022-07-02 08:07:15 
+the-dump 2022-07-02 08:08:22 
+the-dump 2022-07-02 08:09:37 bruh what
+the-dump 2022-07-02 08:10:13 cry about it
+the-dump 2022-07-02 08:10:25 
+the-dump 2022-07-30 06:20:44 
+the-dump 2022-10-11 19:40:30 
+the-dump 2022-10-16 20:50:13 yep saw that coming

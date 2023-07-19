@@ -1,0 +1,47 @@
+The Tale of bakamitai1559 (351933959585660940)
+bug-reports 2018-11-12 18:17:36 The missiles are not working, even as I enter and exit the game. (I'm not using anchor block)
+bug-reports 2018-11-12 18:22:40 seconds ago me and many people were launching missiles
+bug-reports 2018-11-12 18:23:08 This in the area of construction
+bug-reports 2018-11-12 18:25:02 Hm, ok
+bug-reports 2018-11-12 18:25:19 Thx
+creations-chat 2018-11-12 21:35:20 My heavy tank with functional track and tower
+creations-chat 2018-11-26 15:05:01 My aircraft carrier
+creations-chat 2018-11-26 15:06:22 I can control the plane and the aircraft carrier at the same time.
+creations-chat 2018-11-26 15:35:06 wait until the end of the day, I'll make a bigger
+creations-chat 2018-11-26 15:38:06 Or I'll finish until tomorrow.
+creations-chat 2018-11-27 21:30:52 
+creations-chat 2018-11-27 21:31:05 As I promised, I made a huge aircraft carrier
+creations-chat 2018-11-27 21:31:44 
+bug-reports 2018-12-02 05:02:49 Even with the option "paint all" unchecked, it paints the entire construction
+bug-reports 2018-12-02 05:16:33 When I uncheck the option to "paint all" it still paints everything, and when I saved the thing, the save was extremely huge
+bug-reports 2018-12-02 05:16:58 Noo
+bug-reports 2018-12-02 05:17:22 When I changed color, I passed the limit of saved
+bug-reports 2018-12-02 05:18:13 was at 247K, when I changed color and salver went to over 300k
+bug-reports 2018-12-02 05:18:29 Ops 257*
+bug-reports 2018-12-02 05:20:31 I went back into the game and look, it's back to normal, but when I change color and save happens these two errors
+bug-reports 2018-12-02 05:22:20 I'm not lying, if you want I'll send the prints showing the computer time
+bug-reports 2018-12-02 05:27:21 And every time I save different colors, the value used goes up
+bug-reports 2018-12-02 05:29:40 Yes
+bug-reports 2018-12-02 05:32:08 Ok
+bug-reports 2018-12-02 05:36:29 An interesting thing that I discovered, when you save with black the save gets smaller (because black is the absence of colors), when I save with white the save gets as large as possible (all colors junction). In case when I save with a color and then save with it again, the save is the same size, each color has a save size
+bug-reports 2018-12-02 05:39:07 Do you want me to delete something I did?
+bug-reports 2018-12-02 05:41:10 ok
+bug-reports 2018-12-02 14:22:36 repair the painting bug as quickly as possible, I want to play :c
+bug-reports 2018-12-02 14:27:38 <@!217336009455566848>  I explained above how the bug works, was talking to James
+bug-reports 2018-12-02 14:31:17 So would it be possible for you to increase the save? For it took me five days to do a construction and I calculated according to what is available
+bug-reports 2018-12-02 14:36:36 I deactivated the RGB, however the color that appears is totally different from what I had saved and this is very bad
+bug-reports 2018-12-02 14:38:43 So this problem is no solution, is it to be so?
+bug-reports 2018-12-02 14:44:20 I understand that part, but that means there is no solution to that, right?
+bug-reports 2018-12-02 14:47:06 I suggested increasing the available space to save, but James said that it was not possible
+bug-reports 2018-12-02 14:51:03 Ah :/
+creations-chat 2018-12-02 15:42:34 I did not want to do this, but I'll have to exclude that aircraft carrier. R.I.P :c
+creations-chat 2018-12-02 15:44:30 one more photo on the sea so I can say goodbye :,c
+bug-reports 2018-12-02 16:04:05 I managed to circumvent the problem temporarily, I painted my other constructions with the black color without the RGB, then I was putting colors above the one I wanted, until a color appeared that I liked (even with the RGB option being false). Thank you for your support
+bug-reports 2018-12-02 16:04:30 If you have someone with the same problem, you can suggest this
+bot-central 2020-04-14 20:01:26 &suggest
+bug-reports 2020-04-17 05:16:24 Every time I try something that has a piston with "lock" it appears on my screen and I am thrown off the server.
+bug-reports 2020-07-21 14:34:21 When I build a missile on a simple base it works quickly, but when I place the same base on my 5k block submarine, it works extremely slow. It is as if the mass of the submarine was part of the projectile, I believe it could be some kind of bug.
+
+Note: The FPS in both cases is the same
+bug-reports 2020-07-21 15:07:10 But i have same FPS 60-40
+bug-reports 2020-07-21 15:43:16 I understand, so this will never be solved?

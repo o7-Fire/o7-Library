@@ -1,0 +1,133 @@
+The Tale of ._vefrax_. (251356987869233154)
+help 2021-02-01 19:28:19 I have attempted to build a folding large scale airship and have failed miserably with the helium part
+it is either too much or too less anytime I remove or place helium with an attempt to fix the problem
+I have built a smaller airship which doesn't fold and I was able to get quite good stability with it
+any ideas on what could be wrong?
+It is about 4900 parts
+help 2021-02-01 20:14:10 no i used motor 1
+help 2021-02-01 20:14:32 yes
+help 2021-02-01 20:14:55 i never folded creations before so I don't know what I am doing
+help 2021-02-01 20:15:32 i mean it folds but the helium never works the way it is intended to work
+help 2021-02-01 20:16:53 yes
+help 2021-02-01 20:17:10 i tried apply to center too but it was a worse situation so i reverted the changes
+help 2021-02-01 20:18:40 ok
+help 2021-02-01 20:19:27 I will continue tomorrow though it is 11 pm for me here and i am too tired for any more frustration
+i also think of starting from scratch because of some flaws
+help 2021-02-01 20:22:00 ok
+help 2021-02-05 16:11:40 https://gyazo.com/b53f9a369b98dd29833bca03d150c46f
+how can I stop this from happening?
+I just hold r (ascend key for me) and that happens
+help 2021-02-14 11:14:35 i don't know why but my anchor block won't unanchor can someone help me
+help 2021-02-14 11:14:55 it is a 6464 block airship
+help 2021-02-14 11:14:59 i tried everything
+help 2021-02-14 11:15:07 oh
+help 2021-02-14 11:15:12 hm good idea
+help 2021-02-14 11:15:15 i will try that thanks
+help 2021-02-14 11:17:26 thank you very much the hopping out and hopping back in worked
+help 2021-02-14 11:17:37 i had a mental breakdown trying to solve this
+help 2021-02-14 11:29:37 bruh
+help 2021-02-14 11:29:41 it stopped working
+help 2021-02-14 11:30:05 even if I hop out and hop back in now it still doesn't unanchor after hitting the key
+help 2021-02-14 11:32:30 now nothing works
+help 2021-02-14 11:32:43 im extremely confused
+help 2021-02-14 11:33:15 nvm it works again but
+help 2021-02-14 11:33:17 idk about the anchor
+help 2021-02-14 11:33:20 lemme test real quick
+help 2021-02-14 11:33:42 nope doesn't work
+help 2021-02-14 11:34:03 and before you ask there isn't a stray anchor in my creation
+help 2021-02-14 11:34:23 i can tell by looking at the count remaining of anchor blocks
+help 2021-02-14 11:35:59 yes
+help 2021-02-14 11:37:24 hmm
+help 2021-02-14 11:37:26 maybe
+help 2021-02-14 11:37:29 ill try now
+help 2021-02-14 11:40:13 i have bad news it is not unanchoring still
+help 2021-02-14 11:42:07 i lost total hope for my project, time and effort
+help 2021-02-14 11:46:26 i don't know why my other airship works
+help 2021-02-14 11:46:36 it is 6209 pieces
+help 2021-02-14 11:46:44 yet the anchor still works
+help 2021-02-14 11:47:08 the anchor stopped working after adding bombs to my combat airship
+help 2021-02-14 11:47:21 and if you ask why i put an anchor to my airship
+help 2021-02-14 11:47:27 it is necessary for the folding part
+help 2021-02-14 11:47:33 so it remains stable
+help 2021-02-14 11:47:35 while unfolding
+help 2021-02-14 11:48:38 actually I don't think this topic needs more discussion
+help 2021-02-14 11:55:27 I do not know why but it started working without problems on its own
+help 2021-02-14 11:55:31 problem solved
+bot-central 2021-02-14 16:19:51 !rank
+creations-chat 2021-02-14 17:26:48 that's why it is so special
+creations-chat 2021-02-14 17:32:49 i know
+i have other good creations but this one was made after I got angry at this shredder spammer
+and it works so what else could you want
+creations-chat 2021-02-14 17:36:34 i mean the creation was not meant to be creative in the first place it was just to bait shredders and give them a fate worse than death
+creations-chat 2021-02-14 17:39:25 cuz shredders suck and let's focus on the oil rig creation instead of mine
+creations-chat 2021-02-14 17:41:27 yes cuz that oil rig is awesome
+the-dump 2021-02-20 18:08:53 
+the-dump 2021-02-20 18:09:00 he is finding you:
+https://gyazo.com/25bb446aca83c1702f6bdf2c07fb9715
+help 2021-02-21 20:35:07 how can I make my plane light enough for its wings to properly keep it in the sky? i have replaced almost every possible block with helium that has apply at center to it but it still loses altitute despite its huge wings i need help
+help 2021-02-21 20:36:33 the wings:
+help 2021-02-21 20:38:06 it goes at about 200
+help 2021-02-21 20:38:22 ok
+help 2021-02-21 20:38:36 wait let me check again
+help 2021-02-21 20:39:11 241
+help 2021-02-21 20:39:56 ok
+help 2021-02-21 20:39:58 thank you
+help 2021-02-21 20:44:15 about 400 solved the problem thank you very much
+creations-chat 2021-03-10 10:20:06 this one does not carry bombs at the moment
+creations-chat 2021-03-11 06:52:45 making that thing fly would be difficult honestly
+creations-chat 2021-03-14 07:56:08 i am currently lazy
+help 2021-03-22 17:19:41 hello i made a v-22 osprey but the engines won't stop shaking and i don't even know why
+this hinders stability and makes the whole thing a lot harder to control
+here is a gif https://gyazo.com/5a1221e59ba74217761a201603e429f5
+oh and no i didn't use motor 1s and motor2s at the same time
+I checked the propeller to make sure parts don't collide with each other
+I maxed out the torque on the motors
+help 2021-03-22 17:23:48 well
+help 2021-03-22 17:24:04 it makes it easier for me but sure i will try that
+help 2021-03-22 17:36:40 yeah problem solved thank you very much
+help 2021-03-22 17:51:35 motor 2s couldnt lock
+help 2021-03-22 17:51:40 i switched to motor 1 with lock
+help 2021-03-22 17:51:42 and it was fixed
+help 2021-03-22 17:51:50 it flies pretty good now
+help 2021-03-22 17:51:56 just needs more improvements
+creations-chat 2021-03-24 09:16:53 epic
+help 2021-04-10 17:23:46 how to close hud
+help 2021-04-10 17:23:59 there was a key for it tho
+help 2021-04-10 17:24:10 i remember using it for a video i forgot now
+creations-chat 2021-04-30 11:58:39 i bet at least %75 of the people that downvoted my creation never even heard of aegis reborn in their lives
+the-dump 2021-04-30 16:38:36 
+the-dump 2021-04-30 16:39:02 at least the whole world dies painlessly
+the-dump 2021-04-30 16:39:24 but i thought we would survive 9 years minimum
+the-dump 2021-04-30 16:39:46 because climate change will kill us all a few decades later
+the-dump 2021-04-30 16:40:27 
+the-dump 2021-04-30 16:41:44 epic
+the-dump 2021-04-30 16:51:17 ok
+the-dump 2021-04-30 16:53:15 yes
+the-dump 2021-04-30 16:53:21 ww1
+the-dump 2021-04-30 17:13:06 my friend made this
+the-dump 2021-04-30 17:13:09 giga chad is omega sussy
+the-dump 2021-04-30 17:14:47 his portrait
+the-dump 2021-04-30 17:15:53 giga chad roblos
+the-dump 2021-04-30 17:18:34 https://gyazo.com/eaa3417318d4923ce6f763caa6c5ab25
+sussy spin
+the-dump 2021-04-30 17:21:40 https://gyazo.com/95b668999cd9a2252c892130ea5cf8be
+the-dump 2021-04-30 17:21:48 last pic of sussy friend creatin
+the-dump 2021-04-30 17:25:53 amognus
+the-dump 2021-04-30 17:26:48 giga chad's transparent jacket
+creations-chat 2021-05-01 13:52:20 k
+creations-chat 2021-05-01 13:56:54 i agree on most of these things however the pic is not from the exact same angle and the elevators on the original have a nice airfoil shape so that might be why it seems steeper
+thank you very much for the feedback because not everyone can give good feedback like you
+creations-chat 2021-05-03 18:46:15 helium and motor locked chairs
+a ton of helium tho
+creations-chat 2021-05-03 18:55:41 ok
+the-dump 2021-12-03 18:55:30 my friend just sent me this
+the-dump 2022-01-09 20:17:41 
+creations-chat 2022-01-24 21:14:24 you could change the material to be metal
+creations-chat 2022-03-10 16:23:48 thanks for the feedback bro front lights are actually there(they are hard to see since they are trails) and the lack of detail is because the entire reason i wanted to do this is to show the conveyor tracks with suspension
+creations-chat 2022-08-05 06:43:30 ty
+creations-chat 2022-08-05 07:28:13 ey thanks
+creations-chat 2022-08-05 12:08:14 guess you could call it a more american f-14 lmao
+creations-chat 2022-08-07 17:52:42 of course you will get at least 1 downvote but plane crazy community has a strong tendency to mass downvote things that aren't clusterfuckly motorlocked
+creations-chat 2022-08-07 17:58:00 not exactly, they focus on every single angle on your creation and whine about it if it is 1 degree off they don't care if it actually looks good or not
+custom builds are the way to go
+creations-chat 2022-08-07 18:02:30 off topic but I love your bio and status

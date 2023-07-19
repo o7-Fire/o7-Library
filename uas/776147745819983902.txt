@@ -1,0 +1,18 @@
+The Tale of ._.robbe (776147745819983902)
+bug-reports 2021-06-21 16:42:37 water/lava jet work
+bug-reports 2021-08-04 12:38:45 the jetpack doesn't go away anymore
+bug-reports 2021-10-02 11:44:35 The gamemode hub for phone players
+help 2021-10-02 11:53:06 What do I have to do/have to send pictures in?
+help 2021-10-02 11:58:16 Ok
+bug-reports 2021-10-02 12:11:15 I can't send pictures but you forgot to set Offset to 0
+help 2021-10-02 12:16:35 no
+bug-reports 2021-10-02 12:28:48 It's a develop error
+Not my error 
+They only need to change offset and scale
+bug-reports 2021-10-02 13:12:41 i did
+help 2021-10-02 13:48:47 Motor lock
+help 2021-10-02 13:51:55 Just use motor lock like folding
+But without moving parts
+help 2021-10-02 15:43:36 https://youtu.be/_aa_desmXQ8
+help 2021-10-02 16:10:11 What's aboud https://devforum.roblox.com/t/1295621 ?
+help 2021-10-02 16:13:39 ok

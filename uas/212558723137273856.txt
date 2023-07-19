@@ -1,0 +1,7 @@
+The Tale of doom.net (212558723137273856)
+help 2021-10-14 17:23:46 anybody know how i could make a block rotate freely using motor 2
+help 2021-10-14 17:24:06 something like this
+help 2021-10-14 17:24:13 i tried rope but it is floppy
+help 2021-10-14 22:20:55 " u have to go under the map with a specific plane"
+help 2021-10-14 23:29:16 lots of ladder spam
+help 2021-10-14 23:29:24 experiment with wedges, half blocks, etc

@@ -1,0 +1,102 @@
+The Tale of colenotcoal_ (610990270846074880)
+bot-central 2022-09-27 00:44:18 !rank
+bug-reports 2022-10-30 15:58:22 i have a mouse guided missle, and for some reason it wont respond to my mouse movements at all, but when i build the exact same thing in a blank save slot it works just fine.
+bug-reports 2022-10-30 15:58:37 ive deleted the cs and placed them back again
+bug-reports 2022-10-30 15:58:49 and rebuilt the entire missle multiple times and nothing works
+bug-reports 2022-10-30 17:09:35 Found the issue, it just doesn’t work when built vertically
+bug-reports 2022-10-30 17:10:01 Makes my sub look terrible launching them horizontally
+help 2022-11-01 01:57:28 how can i improve on my MQ-9 Reaper? i just finished the fuselage.
+creations-chat 2022-11-01 13:16:39 What should I build next, Sam-300/400 or f-4
+bot-central 2022-11-10 02:11:53 !rank
+creations-chat 2022-11-19 20:05:02 i think minis are cooler than normal building size. it demonstrates that people can motor lock effectively, and make large builds keep detail on a small scale.
+creations-chat 2022-11-19 20:07:10 but for certain things you physically build them in the provided space, even with folding and motor locking
+creations-chat 2022-11-19 20:18:45 suggestion: put a glass wing over it for the blue wall to keep the vacum of space out.
+creations-chat 2022-11-19 20:21:18 oh nvm, i thought it was the hanger on the inside of the front like a venator class
+creations-chat 2022-11-19 20:23:21 sorry i havent seen them in forever since i finshed the clone wars like 5 months ago
+creations-chat 2022-11-19 20:26:30 yea they are but dont imperial star destroyers still have ray-ish shielding(dont know the offical term for the wall or class of ship for empire)
+creations-chat 2022-11-19 21:23:44 Trapdoors
+creations-chat 2022-11-19 21:27:02 Yea I prefer bigger builds even if I have to fold the wings weirdly. it makes it easier and puts less stress on motor locking.
+creations-chat 2022-11-20 03:27:34 I cant tell if thats custom or f/a-18
+creations-chat 2022-11-20 03:29:44 I realized right after i posted it was an f-18. I was just a little confused on the engine intake. now why did u get so angry?
+creations-chat 2022-11-20 03:35:10 see no need to get angry
+creations-chat 2022-11-23 00:18:22 Ik this started about how the f-35 couldn’t turn, but the plane is designed for bvr combat, not dogfights, so it doesn’t even matter.
+creations-chat 2022-11-23 01:05:47 They have prototypes, but they have a few finals I think, just not using them to fear losing one in combat and striking a blow to the propaganda campaign
+help 2022-11-26 04:29:18 So i need help. ive had a ticket out for a rank request for 4 days now. Idk if i should @ staff, make a new ticket, or just wait. Anyone got any advice?
+help 2022-11-26 04:35:37 keep the nose angle going up more consistant, as in images it doesnt have a sharp angle going up. instead of the inverted 1/2 try a 1/1 wedge.
+help 2022-11-26 04:36:00 for the top most wedge
+help 2022-11-26 04:41:23 i dont think it warrants an angle lock
+help 2022-11-26 04:42:03 you can get away with what you have minus the highest wedge, which i think should be replaced with an inverted 1/1
+help 2022-11-26 04:44:06 i say cut it there
+help 2022-11-26 04:44:17 maybe a half wedge
+help 2022-11-26 04:44:20 but idk
+help 2022-11-26 04:44:23 its your plane
+help 2022-11-26 04:44:26 np
+help 2022-11-26 04:44:45 @ me if u need any more help even though i am a terrible builder
+help 2022-11-26 04:45:35 functional over how it looks in my opinion
+help 2022-11-26 16:31:07 Half wedge that goes an entire block. Do 2 in a row until you get to the cockpit.
+help 2022-11-26 19:58:33 exposed lock
+help 2022-11-26 19:59:05 nvm i thought i saw one
+help 2022-11-26 19:59:21 something to interupt the flatness on top of the turret
+help 2022-11-26 19:59:31 like a small gun
+help 2022-11-26 19:59:36 or hatch
+help 2022-11-26 19:59:57 np
+help 2022-11-27 01:32:08 after 5 days, i got my rank lets go
+help 2022-11-27 04:55:48 r/wooosh
+help 2022-11-27 04:56:34 r/wooosh is a subreddit of where the joke goes over peoples heads
+help 2022-11-27 04:56:51 the joke is, that it is one of the tomcats of all time
+help 2022-11-27 04:57:05 it is just a tomcat
+help 2022-11-27 04:57:17 so it is one of all the tomcats to ever exist
+creations-chat 2022-11-27 15:39:07 Ik Someone already answered, but t add to that I’m pretty sure you need a video of plane stability, as it it can fly level ish and doesn’t want to flip and crash.
+creations-chat 2022-11-27 18:41:10 what do u guys think of this? its a custom vtol cargo aircraft. it has a working ramp that can open and close and hold 2 small cars. it also has full control of all 3 axis' and can get up to around 170. any improvements?
+bot-central 2022-11-29 05:23:03 !rank
+help 2022-11-29 22:03:25 Motor lock the intake and have the fuselage be the .5 in that you need.
+help 2022-11-29 22:03:55 Ok
+help 2022-11-29 22:04:23 I normally build it above then motorblok it down.
+help 2022-11-29 23:39:38 level 3 in mee6
+help 2022-11-30 01:10:33 So if you click the key if it actually realeases. A lot of people use disconnecters as aesthetic features to builds
+help 2022-11-30 01:14:51 If you unselect powered, it becomes a dummy block. If you click the key it does nothing. It then becomes purely aesthetic
+help 2022-11-30 01:38:48 Bugs I guess
+help 2022-11-30 04:23:45 Don’t
+help 2022-11-30 04:24:09 2 wides just don’t work
+help 2022-11-30 04:24:19 1,1.5 or 3
+help 2022-11-30 04:24:37 Unless you are a true god at building, not saying you aren’t
+help 2022-11-30 04:25:03 With angle locks, piston locks, and all the fancy stuff
+help 2022-11-30 04:26:43 https://discord.com/channels/384021699466756103/384025409945337856/1046818990158254220
+help 2022-11-30 04:27:19 That’s how it is in like every game, up and down
+help 2022-11-30 04:27:42 Look closely
+help 2022-11-30 04:27:53 It’s .25 on each side
+help 2022-11-30 04:28:30 Computer nerd I say 2 as in even width, not 1 center and 2 half blocks on the sides
+help 2022-11-30 04:28:57 I guess
+help 2022-11-30 04:29:06 Nvm computer need go ahead
+help 2022-11-30 04:29:15 I thought u meant even width
+help 2022-11-30 04:29:23 Sorry for the confusion
+help 2022-11-30 04:33:12 Ok
+help 2022-11-30 04:33:16 Well now Ik
+help 2022-11-30 13:04:30 Kinda me, just need to apply for the ank
+creations-chat 2022-12-01 04:17:21 Also a lot of modern planes, at least the f-22, have heat diffusers, so they are harder to get heat locks.
+creations-chat 2022-12-03 02:59:47 Very true
+help 2022-12-08 23:57:33 Exposed lock, rough (needs to be smoother or dislike bombed in creations), and nose is crappy
+creations-chat 2022-12-09 22:22:00 I think the wings have less of an angle, but not many photos have any info and some say it has that angle of sweep. Also the center point goes farther backwards I think
+help 2022-12-09 22:23:06 Motors can go below 1 speed you know
+help 2022-12-09 22:23:17 Just click on the number and type anything
+help 2022-12-09 22:23:36 Click the 1
+help 2022-12-09 22:23:42 And put a decimal
+help 2022-12-09 22:23:54 Like 0.5
+help 2022-12-09 22:24:00 Or 0.25
+help 2022-12-09 22:25:09 What helicopter r u making? Or custom
+help 2022-12-09 22:25:50 Mobile? I don’t know anything about mobile. Maybe something is clipping and it’s bugging?
+help 2022-12-09 22:26:01 Ok
+help 2022-12-09 22:26:09 Probably something bugging
+help 2022-12-09 22:26:59 Try doing the same exact thing on an empty slot
+help 2022-12-09 22:27:06 Just copy the moving part
+help 2022-12-09 22:27:24 2
+help 2022-12-09 22:27:31 No idea
+help 2022-12-09 22:30:06 Yea
+help 2022-12-09 22:30:17 Probably that and or maybe bugging
+creations-chat 2022-12-10 12:53:18 Gover engines are only effective up to 7 blocks away from the piston. You have 10. Also your creation is big and heavy, so it will need more
+creations-chat 2022-12-11 22:57:50 i tried making a v-22 when i still couldnt motorlock, and its so bad i will never share a photo of it
+help 2023-01-01 18:32:03 So i have a decently large plane, and around 800-900 sps it starts wobbiling uncontrollably. does anyone know hot to fix it?
+help 2023-01-01 18:33:43 nvm, i removed some hover thrusters and now it wont wobble
+help 2023-02-13 03:40:12 Sometimes, if you are having fps issues, the game its struggling, which makes it behave weird
+creations-chat 2023-07-03 12:32:45 a lot of folding, maybe some detachable wheels to move around and an anchor block
+bug-reports 2023-07-08 18:27:45 I cant unput custom numbers for moter2, idk about other moters, but motor2 wont take custom numbers

@@ -1,0 +1,13 @@
+The Tale of le_flatfish (527470063746416661)
+bot-central 2021-11-20 13:03:58 !rank
+bot-central 2021-11-20 13:04:04 ah no
+bot-central 2021-11-20 13:04:06 e
+bug-reports 2022-03-27 13:48:44 i have a bug where i see every item twice in the second build menu
+bug-reports 2022-03-27 13:49:43 ah, thanks
+bug-reports 2022-03-27 15:26:17 https://www.youtube.com/watch?v=rxLzWBlJgIo
+bug-reports 2022-03-27 15:26:37 in-depth explanation
+bug-reports 2022-03-27 17:17:05 watch the vid above for help
+bug-reports 2022-03-27 17:17:13 here
+creations-chat 2022-05-03 17:28:45 I'm so proud of my comrades 😩
+creations-chat 2022-05-03 17:44:18 yes
+bug-reports 2022-07-09 17:05:52 Add a disconnector under the turret next to the motor 2. Then once spawned, fold the ship as you want and unanchor it if it has an anchor block. Then disconnect the disconnectors connected to the turrets and it should work

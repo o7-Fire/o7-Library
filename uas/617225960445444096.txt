@@ -1,0 +1,594 @@
+The Tale of boriseya (617225960445444096)
+creations-chat 2020-09-18 08:01:09 Any suggestions to make this turn? yeah control panels freak it out.
+creations-chat 2020-09-18 08:01:41 also if your asking why I'm dark, I accidentally got into the lava, but got out using that.
+creations-chat 2020-09-18 08:04:56 owo what's fuelselage
+creations-chat 2020-09-18 08:05:32 Just, any suggestions for that thingy above?
+creations-chat 2020-09-18 08:06:33 So more hover thrusters?
+creations-chat 2020-09-18 08:06:54 oh
+creations-chat 2020-09-18 08:06:57 Alright
+creations-chat 2020-09-18 08:07:04 Alright
+creations-chat 2020-09-18 08:07:09 b u t f i r s t
+creations-chat 2020-09-18 08:07:19 a video showcasing it's performance.
+creations-chat 2020-09-18 08:07:35 hold on, recording it.
+creations-chat 2020-09-18 08:09:08 https://gyazo.com/276c5bbfff9d77d34cf98d01d379482d
+creations-chat 2020-09-18 08:10:17 yeah that was what i was asking for
+creations-chat 2020-09-18 08:10:19 Any suggestions
+creations-chat 2020-09-18 08:10:34 since it just goes forward
+creations-chat 2020-09-18 08:10:55 yeah.. *what the frick is servo.*
+I'm not that good at plane crazy.
+creations-chat 2020-09-18 08:11:11 Aight, thanks.
+creations-chat 2020-09-18 08:12:59 Oh
+creations-chat 2020-09-18 08:12:59 I made the back hover thruster the same level
+https://gyazo.com/a429248651cf2485fb51bde73e930aab
+creations-chat 2020-09-18 08:13:18 Alright
+creations-chat 2020-09-18 08:13:31 let me try making it like that, then making the hover servo thingy
+creations-chat 2020-09-18 08:15:01 Oh nice
+creations-chat 2020-09-18 08:15:03 I'll try that
+creations-chat 2020-09-18 08:18:27 What should the max angle be?
+creations-chat 2020-09-18 08:18:39 Aight
+creations-chat 2020-09-18 08:19:59 what i have right now
+creations-chat 2020-09-18 08:20:46 Should it be the other way around?
+creations-chat 2020-09-18 08:23:21 well
+creations-chat 2020-09-18 08:23:22 Uhh
+creations-chat 2020-09-18 08:23:36 it is possible to steer with this
+creations-chat 2020-09-18 08:24:18 but it's kinda hard
+creations-chat 2020-09-18 08:24:50 and steering to the left is kinda broken
+creations-chat 2020-09-18 08:24:51 Yeah
+creations-chat 2020-09-18 08:25:26 ok I adjusted the angle, steering to the left is fine.
+creations-chat 2020-09-18 08:26:34 https://gyazo.com/dc715da152e9e9153b61f4aaa3f7e386
+creations-chat 2020-09-18 08:27:41 atleast it steers
+creations-chat 2020-09-18 08:28:24 Steering while driving's a mess, though.
+creations-chat 2020-09-18 08:29:04 Should it be located at the seat?
+creations-chat 2020-09-18 08:29:13 I intended it to be bulky on the front
+creations-chat 2020-09-18 08:29:15 so it leans forward
+creations-chat 2020-09-18 08:29:18 and gives more speed.
+creations-chat 2020-09-18 08:31:16 here's footage of steering
+https://gyazo.com/538049b48c7253dd7bbe77eaff1a0802
+creations-chat 2020-09-18 08:31:51 it does occasionally
+creations-chat 2020-09-18 08:31:57 but that's when it's fast
+creations-chat 2020-09-18 08:32:08 Also, here's the center of mass here.
+creations-chat 2020-09-18 08:32:14 Alright, thanks.
+creations-chat 2020-09-18 08:33:35 Oh wait
+creations-chat 2020-09-18 08:33:42 it rolls over when it hits something fast
+creations-chat 2020-09-18 08:33:57 or goes on bumpy land
+creations-chat 2020-09-18 08:35:13 Alright
+creations-chat 2020-09-18 08:35:36 Lowered it
+creations-chat 2020-09-18 08:36:04 Turning is slower now
+creations-chat 2020-09-18 08:37:22 Is there a slower engine I could use?
+creations-chat 2020-09-18 08:38:30 Alright
+creations-chat 2020-09-18 08:52:42 Made something new, I guess.
+creations-chat 2020-09-18 08:52:44 <@!714763671410180127> nice
+creations-chat 2020-09-18 08:56:50 try to make it that there's a propeller on front
+creations-chat 2020-09-18 08:57:06 well
+creations-chat 2020-09-18 08:57:13 you certainly did mess up
+creations-chat 2020-09-18 08:57:15 I guess
+creations-chat 2020-09-18 08:58:03 that's what i did with this
+creations-chat 2020-09-18 08:58:13 Pretty fast and flies well
+creations-chat 2020-09-18 08:59:23 Turning speed is moderate
+creations-chat 2020-09-18 08:59:30 let me check the speed
+creations-chat 2020-09-18 08:59:43 150 highest
+creations-chat 2020-09-18 08:59:46 pretty low
+creations-chat 2020-09-18 08:59:50 but handles well
+creations-chat 2020-09-18 09:00:24 Frick, I gotta improve
+creations-chat 2020-09-18 09:03:43 Beat this
+creations-chat 2020-09-18 09:05:18 yeah
+creations-chat 2020-09-18 09:05:28 I'll get rid of the propellers entirely
+creations-chat 2020-09-18 09:05:35 And add reversed ets
+creations-chat 2020-09-18 09:05:37 jets
+creations-chat 2020-09-18 09:07:01 Power.
+creations-chat 2020-09-18 09:07:17 FRICK I CAN'T STEER
+creations-chat 2020-09-18 09:07:22 IT'S GOING OFF THE EDGE
+creations-chat 2020-09-18 09:07:40 first person sound is also painful
+creations-chat 2020-09-18 09:07:42 so loud
+creations-chat 2020-09-18 09:08:01 I never saved it at all
+creations-chat 2020-09-18 09:08:31 Well
+creations-chat 2020-09-18 09:08:42 the fastest it was is 650
+creations-chat 2020-09-18 09:09:11 I'm adding bombs to it and making it a suicide bomber plane
+creations-chat 2020-09-18 09:29:48 Experiment thingy
+creations-chat 2020-09-18 09:30:55 I'm really just seeing if i can make something that's something like a Mecha thingy
+creations-chat 2020-09-18 09:31:28 It'd be nice
+creations-chat 2020-09-18 09:32:13 <@!685909594932773033> By mecha thingy, I just meant something that shoots and moves
+creations-chat 2020-09-18 09:32:15 Dude
+creations-chat 2020-09-18 09:32:19 Alright
+creations-chat 2020-09-18 09:32:34 I didn't really try
+creations-chat 2020-09-18 09:32:41 Lowest effort, I guess
+creations-chat 2020-09-18 09:32:43 bruh
+creations-chat 2020-09-18 09:32:44 aight
+creations-chat 2020-09-18 09:33:01 I heard explosives are basically invulnerable?
+creations-chat 2020-09-18 09:33:09 <@!685909594932773033> Yeah i suck at planes
+creations-chat 2020-09-18 09:33:38 Maybe
+creations-chat 2020-09-18 09:33:41 But uhh
+creations-chat 2020-09-18 09:33:47 are explosives basically invulnerable?
+creations-chat 2020-09-18 09:33:51 when not used
+creations-chat 2020-09-18 09:33:54 frick
+creations-chat 2020-09-18 09:34:47 It'd be nice to be able to script a set of commands when you press a key in plane crazy
+creations-chat 2020-09-18 09:35:04 not really Lua
+creations-chat 2020-09-18 09:35:30 Well
+creations-chat 2020-09-18 09:35:42 Maybe when you want something to basically reveal itself
+creations-chat 2020-09-18 09:35:49 since it's being covered by a bunch of pistons
+creations-chat 2020-09-18 09:35:54 or something I don't know
+creations-chat 2020-09-18 09:36:01 *I dunno.*
+creations-chat 2020-09-18 09:36:24 Alright
+creations-chat 2020-09-18 09:36:42 yeah I seriously don't know how to explain
+creations-chat 2020-09-18 09:37:56 Naw, not the purple tool
+creations-chat 2020-09-18 09:38:01 Just
+creations-chat 2020-09-18 09:38:05 Like walking
+creations-chat 2020-09-18 09:38:10 Requires a bunch of steps
+creations-chat 2020-09-18 09:38:16 you can script those steps to a keybind
+creations-chat 2020-09-18 09:38:29 Frick
+creations-chat 2020-09-18 09:38:30 well
+creations-chat 2020-09-18 09:38:40 Huh
+creations-chat 2020-09-18 09:38:47 <@!661550706511314944> Yeah
+creations-chat 2020-09-18 09:38:49 basically that
+creations-chat 2020-09-18 09:39:05 Alright then
+creations-chat 2020-09-18 09:40:21 Naw, I want automatic firing of rockets
+creations-chat 2020-09-18 09:40:33 aight
+creations-chat 2020-09-18 09:40:47 Dunno
+creations-chat 2020-09-18 09:41:05 anyway, you want to see a turret attached to this?
+creations-chat 2020-09-18 09:41:21 alright
+creations-chat 2020-09-18 09:42:27 Exactly
+creations-chat 2020-09-18 09:43:00 thruster
+creations-chat 2020-09-18 09:43:02 thruster
+creations-chat 2020-09-18 09:43:04 thursetr
+creations-chat 2020-09-18 09:43:06 thruster
+creations-chat 2020-09-18 09:43:14 thustrte'#
+creations-chat 2020-09-18 09:45:24 The original version of the hover bike thingy is working surprisingly well on the bumpy ground
+https://gyazo.com/fb9c01ce5e700b47a67e58656a23ecbf
+creations-chat 2020-09-18 09:46:30 aught
+creations-chat 2020-09-18 09:47:21 Holy frick I just saw somebody using guided missles
+creations-chat 2020-09-18 09:47:32 I am really just getting started
+creations-chat 2020-09-18 09:47:34 aren't I
+creations-chat 2020-09-18 09:50:20 submarine, yes.
+creations-chat 2020-09-18 09:53:56 Dunno
+the-dump 2020-09-18 09:57:45 3 year old me on a tantrum
+https://gyazo.com/215bf97b47bcef3c40f71a7b38c9426e
+creations-chat 2020-09-19 03:03:17 Anybody have any suggestions for the motor speed of a tank thingy?
+creations-chat 2020-09-19 03:05:23 I mean, the speed for the motor that controls the wheels of a tank
+creations-chat 2020-09-19 03:06:11 Should the tank be fast or slow, or I dunno
+creations-chat 2020-09-19 03:06:51 Older based
+creations-chat 2020-09-19 03:07:23 Naw, I haven't made it yet. Still getting stuff to plan it.
+creations-chat 2020-09-19 03:07:55 aight
+creations-chat 2020-09-19 03:09:00 as anybody actually made a space station?
+creations-chat 2020-09-19 03:09:59 I'd like to see it, it'd be really *kool.*
+creations-chat 2020-09-19 03:11:05 There was this one dude on youtube who made some locking system that can be used for space stations
+creations-chat 2020-09-19 03:15:27 I'm gonna work on the top of the tank first
+creations-chat 2020-09-19 03:15:42 **LOACK**
+creations-chat 2020-09-19 03:15:43 nice
+creations-chat 2020-09-19 03:18:40 The should add a visibility mode so that you can actually see some parts of the thing your building. I don't like shadows.
+creations-chat 2020-09-19 03:19:59 YES
+creations-chat 2020-09-19 03:20:05 I WAS THINKING ABOUT THAT THIS MORNING
+creations-chat 2020-09-19 03:20:06 FRICK YES
+creations-chat 2020-09-19 03:34:54 It would be nice if there was a project that has multiple users making things that connect to eachother
+creations-chat 2020-09-19 03:35:31 nice
+creations-chat 2020-09-19 03:50:04 Is this too small for a tank
+creations-chat 2020-09-19 03:50:18 Yep, I knew it.
+creations-chat 2020-09-19 03:52:30 Is this big enough now
+creations-chat 2020-09-19 03:52:52 aight
+creations-chat 2020-09-19 03:55:49 yet it's on land
+creations-chat 2020-09-19 03:56:06 Reminds me of the terraria walking goldfish
+creations-chat 2020-09-19 03:56:10 Looks nice
+creations-chat 2020-09-19 03:56:25 I'd like to see this in the water, kinda curious.
+creations-chat 2020-09-19 04:14:12 Made a bit thingy
+https://gyazo.com/eb26c682a7c67b86ccbca04d76bc94fb
+creations-chat 2020-09-19 04:16:09 Looking at the picture of the tank I'm basing, it seems that the tube? it doesn't move up and down. Should I make move up and down or follow the photo?
+creations-chat 2020-09-19 04:16:24 Ping me your answer
+creations-chat 2020-09-19 04:17:03 the tube where the rocket comes out, I dunno what that part is called
+creations-chat 2020-09-19 04:17:16 o
+creations-chat 2020-09-19 04:17:25 But should I make it move up and down?
+creations-chat 2020-09-19 04:17:44 Alright
+creations-chat 2020-09-19 04:27:39 Yes
+https://gyazo.com/5c9178f0a3cbbf3ae6276a53d0040af5
+creations-chat 2020-09-19 04:28:07 t h i c c
+creations-chat 2020-09-19 04:30:54 The wings look like wings, actually
+creations-chat 2020-09-19 04:31:23 The front doesn't match up with the body
+creations-chat 2020-09-19 04:31:37 Hold on
+creations-chat 2020-09-19 04:31:48 can you give me a top view?
+creations-chat 2020-09-19 04:32:08 also I don't think you can make it in roblox studio
+creations-chat 2020-09-19 04:32:10 you need blender
+creations-chat 2020-09-19 04:32:19 <@!259742168661360641> Like, bird wings.
+creations-chat 2020-09-19 04:32:26 They look like they arch up
+creations-chat 2020-09-19 04:32:44 Just
+creations-chat 2020-09-19 04:32:46 somehow reminds me
+creations-chat 2020-09-19 04:32:58 Anyway, is this ok for the tank thingy?
+creations-chat 2020-09-19 04:33:07 Nice
+creations-chat 2020-09-19 04:33:11 That explaines why
+creations-chat 2020-09-19 04:33:15 Pretty cool
+creations-chat 2020-09-19 04:33:58 Is the tank turning motor ok?
+creations-chat 2020-09-19 04:34:10 It clearly has some space inbetween
+creations-chat 2020-09-19 04:34:16 I don't know how to stop this
+creations-chat 2020-09-19 04:34:36 Nice
+creations-chat 2020-09-19 04:35:02 *hoe 2 motor lock* yeah I've never really tried new techniques.
+creations-chat 2020-09-19 04:36:42 Should I use wheels or conveyers
+creations-chat 2020-09-19 04:37:20 You messed up with the unions.
+creations-chat 2020-09-19 04:37:38 Anyway, should I use conveyers or Cylinders?
+creations-chat 2020-09-19 04:37:56 Aight
+creations-chat 2020-09-19 04:38:28 I'll use suspension thingy
+creations-chat 2020-09-19 04:42:43 frick how do i do this
+creations-chat 2020-09-19 04:44:28 My tank is bouncy
+https://gyazo.com/0ba276be7043870ec32a030bd4a46a46
+creations-chat 2020-09-19 04:45:06 Aight
+creations-chat 2020-09-19 04:52:55 Uhh
+https://gyazo.com/5522a30c25c21455474e6c4df4c5385a
+creations-chat 2020-09-19 04:53:21 Aight
+creations-chat 2020-09-19 04:54:22 It is a lot lower
+creations-chat 2020-09-19 04:54:37 But more bouncy, I guess.
+creations-chat 2020-09-19 04:56:04 I lowered the the free lenght
+creations-chat 2020-09-19 04:56:08 it's pretty small now
+creations-chat 2020-09-19 04:56:15 I also increased the stiffness to 30
+creations-chat 2020-09-19 04:59:59 I've adjusted it, so it's pretty low, nice.
+https://gyazo.com/dc9957b225971e772a2b1c66421a6d19
+creations-chat 2020-09-19 05:00:28 I'm currently focusing on movement
+creations-chat 2020-09-19 05:00:35 So uhh
+creations-chat 2020-09-19 05:00:47 yep
+creations-chat 2020-09-19 05:00:55 Pretty much a test, working on the thingy
+creations-chat 2020-09-19 05:02:10 It's pretty ok offroad
+creations-chat 2020-09-19 05:02:11 on bumpy land
+creations-chat 2020-09-19 05:03:26 The tank's pretty ok offroad
+creations-chat 2020-09-19 05:03:26 https://gyazo.com/cb6fb3abd8d1c919a06c8cc64e1e286d
+creations-chat 2020-09-19 05:10:06 Added steering to the tank.
+https://gyazo.com/80e96318a92176846a626feb0e64eed0
+creations-chat 2020-09-19 05:10:34 Wait what
+creations-chat 2020-09-19 05:11:10 Yeah sure
+creations-chat 2020-09-19 05:14:53 I seriously don't know how to make tanks, so uhh
+Yeah here's some terrible turning
+https://gyazo.com/dfd18b3efded735499bfce65fc39772d
+creations-chat 2020-09-19 05:15:15 steering is probably why I've never made a tank ever.
+creations-chat 2020-09-19 05:16:29 w a i t
+creations-chat 2020-09-19 05:16:35 double motors
+creations-chat 2020-09-19 05:16:42 How have I never seen this
+creations-chat 2020-09-19 05:16:44 **HOW**
+creations-chat 2020-09-19 05:17:27 How does one
+creations-chat 2020-09-19 05:17:33 get double motor
+creations-chat 2020-09-19 05:17:41 because I'm stupid
+creations-chat 2020-09-19 05:17:47 somehow I've never found this
+creations-chat 2020-09-19 05:18:12 aight
+creations-chat 2020-09-19 05:23:33 I'm much better making a turret rather than a tank.
+https://gyazo.com/ce2f83d96f7e2999c88c07810b67559e
+creations-chat 2020-09-19 05:23:49 this HAS to be painful for somebody
+creations-chat 2020-09-19 05:24:18 Is the turning bad
+creations-chat 2020-09-19 05:24:21 ofcourse it is
+creations-chat 2020-09-19 05:26:07 I'm not gonna try to continue this, I'll try to continue my hoverbike thingy.
+creations-chat 2020-09-19 06:51:28 Well, since my tank was a failure,
+creations-chat 2020-09-19 06:51:33 tips on boats?
+creations-chat 2020-09-19 06:52:25 Bote become submarine
+creations-chat 2020-09-19 06:53:12 yes
+creations-chat 2020-09-19 06:53:42 Add guns
+creations-chat 2020-09-19 06:54:22 I don't see the guns there
+creations-chat 2020-09-19 06:54:29 They look like guns
+creations-chat 2020-09-19 06:54:36 Seriously though, it's pretty cool
+creations-chat 2020-09-19 06:56:23 How one make guided missile
+creations-chat 2020-09-19 06:57:50 Yep
+creations-chat 2020-09-19 06:58:01 Maybe
+creations-chat 2020-09-19 06:58:20 it seems people are spamming them in my server
+creations-chat 2020-09-19 07:12:13 I made some locking system I dunno can be used for a space station?
+https://gyazo.com/faf2322028b19919844dc1650ac416f8
+creations-chat 2020-09-19 07:12:41 Yeah I figured
+creations-chat 2020-09-19 07:12:46 Since it's up in the air
+creations-chat 2020-09-19 07:12:49 and there's no ground
+creations-chat 2020-09-19 07:12:52 pretty hard
+creations-chat 2020-09-19 07:13:27 Takes more space
+creations-chat 2020-09-19 07:13:28 but
+creations-chat 2020-09-19 07:13:30 more effective
+creations-chat 2020-09-19 07:13:35 nice
+creations-chat 2020-09-19 07:13:57 also this useless locking system can be used for transporting thingies and stuff
+creations-chat 2020-09-19 07:14:34 frick
+creations-chat 2020-09-19 07:14:39 that's hard
+creations-chat 2020-09-19 07:16:33 now watch as I somehow transport this piece of thingy
+https://gyazo.com/9f2e73a0675f383157225af351b8500d
+creations-chat 2020-09-19 07:17:19 that could be a potential way to transfer bricks and stuff
+creations-chat 2020-09-19 07:17:23 but only on one direction
+creations-chat 2020-09-19 07:17:32 ad it's gonna be hard to lock it in the first place
+creations-chat 2020-09-19 07:18:22 And it can easily also get loose
+creations-chat 2020-09-19 07:20:53 Oh god
+creations-chat 2020-09-19 07:21:49 Nice
+creations-chat 2020-09-19 07:24:37 https://gyazo.com/b7d33e8a546fe545417664223fcd8121
+creations-chat 2020-09-19 07:24:50 haha hoverthruster go brr
+creations-chat 2020-09-19 07:25:35 dunno
+creations-chat 2020-09-19 07:25:59 Nope
+creations-chat 2020-09-19 07:26:02 I think
+creations-chat 2020-09-19 07:36:38 impressive
+creations-chat 2020-09-19 07:36:43 well
+creations-chat 2020-09-19 07:36:46 by impressive
+creations-chat 2020-09-19 07:36:59 I mean *y e s.*
+creations-chat 2020-09-19 07:37:34 I only really think that you should make the suspension's free area higher.
+creations-chat 2020-09-19 07:37:38 <@456226577798135808>
+creations-chat 2020-09-19 07:39:07 oh shoot
+creations-chat 2020-09-19 07:39:16 Does the crab have hidden guns
+creations-chat 2020-09-19 07:43:44 i think so
+creations-chat 2020-09-19 07:43:53 but it'd be comples
+creations-chat 2020-09-19 07:47:59 Battle of the mechs
+creations-chat 2020-09-19 07:48:10 and that one warship
+creations-chat 2020-09-19 07:57:31 when robot arm rebels
+https://gyazo.com/cc5dd697e17579ae68e8d0d77e69a721
+creations-chat 2020-09-19 07:59:53 This looks likes propoganda
+creations-chat 2020-09-19 08:04:59 there's a powerplant there
+creations-chat 2020-09-19 08:05:02 or a prison
+creations-chat 2020-09-19 08:05:03 I dunno
+creations-chat 2020-09-19 08:07:00 In the background
+creations-chat 2020-09-19 08:07:48 
+creations-chat 2020-09-19 08:07:53 also
+creations-chat 2020-09-19 08:07:57 when arm is good now
+https://gyazo.com/f14a2bd9325a84e5807e35fa2ecedbb1
+creations-chat 2020-09-19 08:08:47 Yeah i dunno what to make it do other than wave
+creations-chat 2020-09-19 08:19:29 The frick i saw a car that can ride on walls
+creations-chat 2020-09-19 08:21:55 Anybody wanna be taken up by this thing
+creations-chat 2020-09-19 08:23:37 This can actually kidnap people
+creations-chat 2020-09-19 08:23:53 If they consent
+creations-chat 2020-09-19 10:08:50 watar, indeed.
+creations-chat 2020-09-19 10:09:45 dunno
+creations-chat 2020-09-19 10:13:58 mmm hydration
+creations-chat 2020-09-19 10:14:52 because I drank it
+creations-chat 2020-09-19 10:39:29 I recreated something from a youtube video, a naval gun, yes. It's a really nice design.
+creations-chat 2020-09-19 10:47:11 Do you use magnets when making guns?
+creations-chat 2020-09-19 10:47:49 Do you also use explosives for the bullet?
+creations-chat 2020-09-19 10:47:54 or just use cutters
+creations-chat 2020-09-19 10:49:22 Explosive boolets, I see
+creations-chat 2020-09-19 10:49:33 I'd rather use a cutter
+creations-chat 2020-09-19 10:49:38 Much more accurate, I guess.
+creations-chat 2020-09-19 10:50:39 Is smoll suspension ok?
+creations-chat 2020-09-19 10:51:10 Seriously, if we had a smaller version of suspension
+creations-chat 2020-09-19 10:51:15 what could we do with it?
+creations-chat 2020-09-19 10:53:07 I'd really like smoll suspension
+creations-chat 2020-09-19 10:57:29 recreating the bolt action system from earlier today
+creations-chat 2020-09-19 10:57:41 what I have right now
+creations-chat 2020-09-19 10:57:56 schiper
+creations-chat 2020-09-19 10:59:14 I'd choose a bolt action if i were to shoot from far away
+creations-chat 2020-09-19 10:59:23 Semi for medium range
+creations-chat 2020-09-19 10:59:31 more convenient, less death.
+creations-chat 2020-09-19 11:24:45 What i have right now
+creations-chat 2020-09-19 11:24:56 Let me color it so it's clear
+creations-chat 2020-09-19 11:26:35 
+creations-chat 2020-09-19 11:26:36 
+creations-chat 2020-09-19 11:26:43 Yeah here's it colored
+creations-chat 2020-09-19 11:26:55 I'll just
+creations-chat 2020-09-19 11:26:58 not post wips no
+creations-chat 2020-09-19 11:27:02 *now
+creations-chat 2020-09-19 11:55:27 After failing miserably in a bolt action gun, what should I fail at next?
+creations-chat 2020-09-19 11:55:32 can anybody suggest to me?
+creations-chat 2020-09-19 11:56:06 Sure
+creations-chat 2020-09-19 11:56:10 but uhh
+creations-chat 2020-09-19 11:56:14 what to make next
+creations-chat 2020-09-19 11:57:53 does anybody make the keys for hover thruster q and e?
+creations-chat 2020-09-19 11:58:43 double decker plane
+creations-chat 2020-09-19 11:59:00 accurate
+creations-chat 2020-09-19 11:59:14 does it fly though
+creations-chat 2020-09-19 12:02:02 does anybody want to make a mini version of that
+creations-chat 2020-09-19 12:02:18 <@!295784513152221184> do it
+creations-chat 2020-09-19 12:10:58 lol
+creations-chat 2020-09-19 12:11:19 nice
+creations-chat 2020-09-19 12:14:23 hmm
+creations-chat 2020-09-19 12:14:29 I might make a motorbike, yes
+creations-chat 2020-09-19 12:18:36 Nice
+creations-chat 2020-09-19 12:43:53 is there a secret sound when you use jets and propellers?
+creations-chat 2020-09-19 12:45:12 i always get it
+creations-chat 2020-09-19 12:46:24 when you hover
+creations-chat 2020-09-19 12:46:25 https://gyazo.com/e1775b709ccd7059548785fac6d9f77d
+creations-chat 2020-09-19 12:46:56 probably the only benefit of the hover thruster
+creations-chat 2020-09-19 12:47:27 frick
+creations-chat 2020-09-19 12:47:57 also you can skirt skirt on water with it
+creations-chat 2020-09-19 12:48:40 nice
+creations-chat 2020-09-19 12:48:52 show it to us in action
+creations-chat 2020-09-19 12:49:19 nice
+creations-chat 2020-09-19 12:51:14 this
+https://gyazo.com/5c167178bc4c6bb966413d815b05a607
+creations-chat 2020-09-19 12:51:50 what
+creations-chat 2020-09-19 12:52:27 aight
+creations-chat 2020-09-19 12:59:08 we need an option to adjust the maximum power a jet/rocket/propeller can give
+creations-chat 2020-09-19 12:59:37 making it that you need to hold down, it goes at maximum speed
+creations-chat 2020-09-19 13:00:40 oh frick
+creations-chat 2020-09-19 13:00:42 anyway
+creations-chat 2020-09-19 13:00:57 when you tokyo drift
+https://gyazo.com/58b6340b99b90f189e316fd74192fb29
+creations-chat 2020-09-19 13:01:14 I added a steering wheel
+creations-chat 2020-09-19 13:01:20 to a hoverbike
+creations-chat 2020-09-19 13:01:22 aight
+creations-chat 2020-09-19 13:02:36 also the steering is terrible
+creations-chat 2020-09-19 13:02:43 constantly drifting
+creations-chat 2020-09-19 13:07:42 Yeah I also did that
+creations-chat 2020-09-19 13:09:59 I gave up on hover thrusters
+creations-chat 2020-09-19 13:10:06 just did that as a joke
+creations-chat 2020-09-20 03:58:54 I made this to experiment to see if i can launch something using tnt and stuff
+creations-chat 2020-09-20 04:00:07 It failed, oof.
+creations-chat 2020-09-20 04:20:00 Hey dudes, you have an Idea on how to make a gun without magnets? I'd like to make a working mechanism thingy, I guess.
+creations-chat 2020-09-20 04:32:23 Anybody have anyway to launch a block fast other than magnets?
+creations-chat 2020-09-20 05:51:53 Trying to continue the crappy tank, here's what I have.
+creations-chat 2020-09-20 05:52:14 I use motor lock in order to close the gap betwen the top and the base
+creations-chat 2020-09-20 05:53:22 works pretty ok
+creations-chat 2020-09-20 05:54:12 NICE
+creations-chat 2020-09-20 05:54:20 tommy gun without drum mag
+creations-chat 2020-09-20 05:54:32 that uses plasma boolet
+creations-chat 2020-09-20 05:54:52 AK 47 but without the second barrel
+creations-chat 2020-09-20 05:54:56 basically making it useless
+creations-chat 2020-09-20 05:55:01 can't shoot after the first shot
+creations-chat 2020-09-20 05:55:15 But
+creations-chat 2020-09-20 05:55:17 it's really nice
+creations-chat 2020-09-20 05:55:20 *awesome.*
+creations-chat 2020-09-20 05:56:08 Well
+creations-chat 2020-09-20 05:56:20 you could kinda replace the 40% with TNT
+creations-chat 2020-09-20 05:56:25 make it explode on impact
+creations-chat 2020-09-20 05:56:48 i tested it
+creations-chat 2020-09-20 05:56:52 doesn't kill the gun lol
+creations-chat 2020-09-20 05:57:11 YES YES PLEASE
+creations-chat 2020-09-20 05:57:22 also, I tried using TNT instead of magnets
+creations-chat 2020-09-20 05:57:25 it doesn't work.
+creations-chat 2020-09-20 05:57:36 that's sad
+creations-chat 2020-09-20 05:57:40 Huh?
+creations-chat 2020-09-20 05:57:45 Nice
+creations-chat 2020-09-20 05:57:58 NICE
+creations-chat 2020-09-20 05:58:03 I just realized how you did it
+creations-chat 2020-09-20 05:58:24 Oh
+creations-chat 2020-09-20 05:58:27 Aight
+creations-chat 2020-09-20 05:58:52 hold on, let me try recreating it.
+creations-chat 2020-09-20 05:59:28 there are cylinders and stuff
+creations-chat 2020-09-20 06:00:29 You can use a piston for it
+creations-chat 2020-09-20 06:00:32 I guess
+creations-chat 2020-09-20 06:00:55 oof
+creations-chat 2020-09-20 06:02:42 Sure
+creations-chat 2020-09-20 06:04:21 Why are there buttons allover your screen
+creations-chat 2020-09-20 06:04:24 oh wait
+creations-chat 2020-09-20 06:04:26 oh
+creations-chat 2020-09-20 06:05:02 We need a lock part
+creations-chat 2020-09-20 06:18:59 smoll plane
+creations-chat 2020-09-20 06:33:55 dancy tonk
+https://gyazo.com/5e0143638d2f1b0c718f119be5dd7228
+creations-chat 2020-09-20 06:58:04 I somehow succesfully created a tank using my failure
+creations-chat 2020-09-20 06:58:05 nice
+creations-chat 2020-09-20 06:58:21 with steering, yes.
+creations-chat 2020-09-21 00:10:19 rip and tear
+creations-chat 2020-09-21 00:49:06 Do you guys use motorlock for a tank's Turret?
+creations-chat 2020-09-21 00:49:54 Aight
+creations-chat 2020-09-21 00:50:01 ok
+creations-chat 2020-09-21 00:50:50 show it in action
+creations-chat 2020-09-21 08:50:13 should i make a bottle build
+creations-chat 2020-09-21 08:50:36 ok
+creations-chat 2020-09-21 09:07:29 should i recreate this
+creations-chat 2020-09-21 09:07:40 Aight
+creations-chat 2020-09-21 09:07:55 We need a racetrack part of the map
+creations-chat 2020-09-21 10:27:49 How would one make suspension for a car
+creations-chat 2020-09-21 10:28:16 It does, I think.
+creations-chat 2020-09-21 10:28:42 the springs are the suspension, I guess.
+creations-chat 2020-09-21 10:41:30 Do you guys use the pre made wheels or make your own for a normal size car?
+creations-chat 2020-09-21 10:42:06 If you make your own wheels, what cylinder size do you use?
+creations-chat 2020-09-21 11:16:48 WIP
+https://gyazo.com/f0fb64d6583b84af812f2ad993e0ed88
+creations-chat 2020-09-21 11:16:51 TONK
+creations-chat 2020-09-21 11:16:58 Yeah i posted a wip
+creations-chat 2020-09-21 11:17:03 *fite me.*
+creations-chat 2020-09-21 11:18:36 problem is that it's too small to fit a rocket
+creations-chat 2020-09-21 11:18:43 should I add a gun instead?
+creations-chat 2020-09-21 11:19:21 nice
+creations-chat 2020-09-21 11:19:25 water car
+creations-chat 2020-09-21 11:20:11 frick
+creations-chat 2020-09-21 11:20:19 I'm scared
+creations-chat 2020-09-21 11:26:21 get out
+creations-chat 2020-09-21 11:26:37 N O W
+creations-chat 2020-09-21 11:38:26 <@!580008314109296641> Yeah I made the left wheel set on D and vice versa
+creations-chat 2020-09-21 11:38:33 when i want to turn, I just
+creations-chat 2020-09-21 11:38:43 hold down the key i'd like it to turn
+creations-chat 2020-09-21 11:39:12 What do you think I should set the speed to
+creations-chat 2020-09-21 11:39:52 Due to it's size, I can't make the barrel go up and down
+creations-chat 2020-09-21 11:39:57 so that sucks
+creations-chat 2020-09-21 11:40:22 also I press both A and D to move forward
+creations-chat 2020-09-21 11:41:25 what
+creations-chat 2020-09-21 11:41:28 TO BATTLE
+creations-chat 2020-09-21 11:41:34 bruh
+creations-chat 2020-09-21 11:41:41 wait what
+creations-chat 2020-09-21 11:41:54 I'll just download it
+creations-chat 2020-09-21 11:42:32 
+creations-chat 2020-09-21 11:42:38 you don't
+creations-chat 2020-09-21 11:42:58 The tonk is pretty terrible
+creations-chat 2020-09-21 11:43:14 it kinda tips when it starts and stops
+creations-chat 2020-09-21 11:43:23 and it doesn't have suspension
+creations-chat 2020-09-21 11:44:09 But somehow kinda good offroad
+creations-chat 2020-09-21 11:44:48 *NO*
+It needs that effect
+creations-chat 2020-09-21 11:45:20 Aight
+creations-chat 2020-09-21 11:46:42 hard, really hard
+creations-chat 2020-09-21 11:46:45 especially steering
+creations-chat 2020-09-21 11:46:53 you can't steer mid ride
+creations-chat 2020-09-21 11:47:14 But I can show you a picture of my hover bike for reference.
+creations-chat 2020-09-21 11:47:34 That's hard too
+creations-chat 2020-09-21 11:47:41 Trust me, *don't.*
+creations-chat 2020-09-21 11:47:51 also since I'm nooby, what are ballast blocks.
+creations-chat 2020-09-21 11:48:05 forgive me for being dumb.
+creations-chat 2020-09-21 11:48:25 Oh nice
+creations-chat 2020-09-21 11:53:42 is that... TNT?
+creations-chat 2020-09-21 11:53:48 FRICK GET OUT
+creations-chat 2020-09-21 11:57:38 nice
+creations-chat 2020-09-21 11:58:49 nice
+creations-chat 2020-09-21 12:04:24 nice
+creations-chat 2020-09-21 12:09:44 <@!684107544008196187> impossible
+creations-chat 2020-09-21 12:09:46 does it steer
+creations-chat 2020-09-21 12:10:22 IMPOSSIBLE
+creations-chat 2020-09-21 12:12:45 I M P O S S I B L E
+the-dump 2020-09-26 10:34:31 the two brothers
+creations-chat 2020-09-30 08:54:30 B I G W H E E L
+creations-chat 2020-09-30 09:04:37 when your tired of your car always flipping over
+creations-chat 2020-09-30 09:06:41 dunno
+the-dump 2020-09-30 09:14:55 yummy
+creations-chat 2020-09-30 11:58:07 what if you make an aircraft
+creations-chat 2020-09-30 11:58:23 that floats in the air with propeller like flying thingies
+creations-chat 2020-09-30 11:58:40 like that thing in the avengers
+creations-chat 2020-09-30 11:58:56 that can basically unlock a hatch to drop some p l a n e s
+creations-chat 2020-09-30 11:59:17 lamborghini y e s
+creations-chat 2020-09-30 11:59:54 yeah sure
+creations-chat 2020-09-30 12:00:11 or it has aiplanes connected to it's side
+creations-chat 2020-09-30 12:00:27 and it just detaches them
+creations-chat 2020-09-30 12:01:31 make it anti aircraft
+creations-chat 2020-09-30 12:01:46 and make it B I G anti aircraft gun
+creations-chat 2020-09-30 12:03:44 f
+creations-chat 2020-09-30 12:04:53 wait what
+creations-chat 2020-09-30 12:05:09 nice
+creations-chat 2020-09-30 12:06:00 holy frick somebody's making that one red organization of germany led by an austrian man airship
+also look at my tonk
+https://gyazo.com/ee17210508de2b4541076bad07e9816d
+creations-chat 2020-09-30 12:07:15 The controls are pretty simple, you see..
+A controls right wheels and d controls left wheel, the design is crappy I know
+creations-chat 2020-09-30 12:07:38 so uhh, in order to move forward, I have to press both keys, I press one key depending on the direction I'd like to go
+creations-chat 2020-09-30 12:08:08 I challenge somebody to create a tonk that's better than mine, You'll probably succeed
+creations-chat 2020-09-30 12:08:24 it also tips over at times
+creations-chat 2020-09-30 12:08:41 and uses a gun instead of a rocket, it can't fit.
+creations-chat 2020-09-30 12:09:36 LMAO
+creations-chat 2020-09-30 12:10:39 wait what
+creations-chat 2020-09-30 12:11:10 google maps is time travel
+creations-chat 2020-09-30 12:11:29 also
+brrrr
+creations-chat 2020-09-30 12:12:04 but basically, you go backwards, time goes backwards, forwards, time goes forwards
+creations-chat 2020-09-30 12:12:53 sunny tonk front view
+creations-chat 2020-09-30 12:13:19 sunny tonk side view
+creations-chat 2020-09-30 12:14:19 orange wheel
+creations-chat 2020-09-30 12:14:51 anybody wanna remake the tonk now?
+creations-chat 2020-09-30 12:15:07 dayum bro the exhaust
+creations-chat 2020-09-30 12:15:23 bad for the environement, with all the pollution and stuff
+creations-chat 2020-09-30 12:15:39 n o o o
+show us.
+creations-chat 2020-09-30 12:16:16 make futuristic lambo car that hovers
+creations-chat 2020-09-30 12:16:32 <@!251250926218641408> nice
+creations-chat 2020-09-30 12:17:57 only in my server
+creations-chat 2020-09-30 12:18:43 old build but
+creations-chat 2020-09-30 12:18:59 a really innefficient kidnap machine
+creations-chat 2020-09-30 12:19:53 nice
+creations-chat 2020-09-30 12:20:18 I know how to build tank wheels, but i dunno how to build tank
+creations-chat 2020-09-30 12:21:08 i used to have a toy bomber plane before
+creations-chat 2020-09-30 12:21:24 might make it in plane crazy
+creations-chat 2020-09-30 12:22:50 the vitamin gummy battling the worm I ate today
+<@!432134043379826708>
+creations-chat 2020-09-30 12:23:45 remove what
+creations-chat 2020-09-30 12:24:03 w h a t
+creations-chat 2020-09-30 12:47:12 when fly
+https://gyazo.com/d80689cdd4a20de230212fe8f9187345
+creations-chat 2020-09-30 12:48:33 bruh
+creations-chat 2020-09-30 12:59:04 when you don't know what to build.
+https://gyazo.com/d013d93a6db8ed612d28cb11de5b7654
+creations-chat 2020-09-30 12:59:46 LMAO nice
+creations-chat 2020-09-30 13:00:08 it sounds like a punch kinda I dunno the first part does
+creations-chat 2020-09-30 13:01:06 yes?
+creations-chat 2020-09-30 13:01:33 naw it doesn't
+the-dump 2020-10-04 09:30:34 what do I do
+the-dump 2020-10-11 12:09:31 Damn bro where you get those moves?
+the-dump 2020-10-19 04:56:53 
+the-dump 2020-10-23 00:56:26 
+the-dump 2020-10-28 08:47:14 **what*8
+help 2021-08-06 09:29:27 how 2 fill this
+help 2021-08-06 09:30:32 ***AA***
+help 2021-08-07 03:21:39 is there a way to make blocks not stick to eachother
+help 2021-08-07 03:24:20 oh shit
+help 2021-08-07 03:24:24 i forgot about that
+help 2021-08-07 03:24:38 I spent most of the night agonizing how to do it
+help 2021-08-07 03:47:27 uh oh
+help 2021-08-07 05:16:57 how do I make my boat not go doodoo****
+help 2021-08-07 05:21:59 ok i just used ballast blocks
+help 2021-08-07 05:32:01 in the middle or the side where it tips over
+help 2021-08-07 05:41:55 aight
+help 2021-08-07 08:29:35 or hover thing
+creations-chat 2021-08-09 04:01:19 I don't even bother trying to hard motorlock ig
+creations-chat 2021-08-09 04:04:18 the people in this server seem eager to downvote creations
+help 2021-08-12 05:11:22 How do you make lights
+help 2021-08-12 05:11:28 I forgot
+help 2021-08-13 09:29:58 what is the co pilot seat thing for
+help 2021-08-13 09:30:05 The blue seat
+help 2021-08-13 09:30:27 For some reason I can still control the stuff I have made when I am sitting down in it
+help 2021-08-13 09:33:09 Ah
+help 2021-08-15 07:59:10 my engines are just saying "bruh" help
+help 2021-08-15 13:02:35 Every time I use motors to fit a chunk of the thing I'm making, it wobbles. Any help on fixing that
+help 2021-08-17 07:21:15 Do we have bigger half balls

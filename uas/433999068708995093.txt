@@ -1,0 +1,3 @@
+The Tale of dustin4041 (433999068708995093)
+creations-chat 2021-02-18 11:27:30 I am building a missle cruiser with sea mines with magnets so the sea mines go towards enemy ships but instead of the mine going to the ship the ship goes to the mine how can I fix that?
+bot-central 2022-09-17 13:10:21 $new

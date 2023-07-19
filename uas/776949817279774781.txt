@@ -1,0 +1,10 @@
+The Tale of lucasporcel (776949817279774781)
+help 2022-09-22 08:50:05 Is there a limit to how many rocket engines you can have placed at a time?
+help 2022-09-22 08:50:55 Actually tho is there?
+help 2022-09-22 08:52:06 I have like 268 placed and it won't let me launch, like I press the green button and my character just get's teleported to center of the build plot
+help 2022-09-22 08:52:24 I tried it with just 134 before and it worked so idk if there is a limit
+help 2022-09-22 08:53:19 I'm trying to make something
+help 2022-09-22 08:53:36 No
+help 2022-09-22 08:53:45 A thing that spins very very fast
+bug-reports 2022-09-22 09:00:59 The game won't let me launch with more than 134 super rocket engines.
+help 2022-09-22 09:12:04 It was making it spin faster tho

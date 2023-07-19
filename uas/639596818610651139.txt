@@ -1,15 +1,192 @@
-crepe6218
-plane-crazy 2020-07-16 14:35:35 Finally integrated a maverick like missile with one of my vehicles
-plane-crazy 2020-07-15 20:27:55 doing something rn
-plane-crazy 2020-07-15 20:27:48 can't
-plane-crazy 2020-07-15 20:26:55 this design it worked a few times then suddenly stopped when I went into PVP
-plane-crazy 2020-07-15 20:26:32 
-plane-crazy 2020-07-15 20:26:15 just sat their
-plane-crazy 2020-07-15 20:26:07 tried using it to drop a missile that was already burning didn't do anything
-plane-crazy 2020-07-15 20:25:27 disconnectors are broken
-plane-crazy 2020-06-07 17:24:31 landing speed 250-280 max speed 648-650
-Stall speed with max deflections of all moving horizontal stabilizer 140knts
-plane-crazy 2020-06-07 17:22:50 T-38C that handles almost exactly like a real T-38
-plane-crazy 2020-06-07 17:22:32 
-plane-crazy 2020-06-07 17:22:31 
-plane-crazy 2020-06-07 17:22:30 
+The Tale of crepe6218 (639596818610651139)
+creations-chat 2020-09-10 02:12:34 What's the best f-15 you guys have seen any version
+help 2020-10-20 18:48:41 guys if I'm trying to make a canted control surface that's canted up or down like this what do I use to do that motor 2 make the control surface spaz out and motor 1's aren't really reliable and become un even
+https://cdn.discordapp.com/attachments/384021699466756107/768180608408485918/108609main_F-15active_takeoff.png
+
+I've been trying to figure this out for a while now
+
+is there a work around for this
+help 2020-10-29 19:03:13 how do you assign motors to certain axis like roll I saw minisniper do something like that
+help 2020-10-29 19:03:34 he said he was moving his mouse from side to side and not up and down so he didn't just invert them
+creations-chat 2020-10-30 13:55:43 how do you do ailerons with motor 2's
+I want to be able to roll with mouse
+creations-chat 2021-06-07 01:52:21 has anyone made a T-38 in this game
+creations-chat 2021-06-07 01:55:12 correction a good T-38
+
+jk some of them were good but literally 2 of the 14 searches were actual T-38's
+creations-chat 2021-06-07 02:00:39 well time to go 3-50 in creations for my F-18D feedback is much appreciated
+creations-chat 2021-06-07 02:02:48 T-38C?
+creations-chat 2021-06-07 02:12:21 I personally don't care people will figure out how to do it eventually but the only reason why someone would hold back a community intentionally would be for clout humanity never progressed via secrets
+
+I'm about to canceled aren't I?
+creations-chat 2021-06-07 02:15:40 imagine if the person who discovered the hover drive glitch held his tongue and said nothing while waving his creations in the face of the community
+creations-chat 2021-06-07 02:22:53 honestly whatever respect he could gain from creating something like that he squandered it in his effort to end up on keemstars channel
+creations-chat 2021-06-07 02:31:39 for the F-18 I've tried and it's physically impossible to replicate that in game without somehow fixing motor 2 so they don't have the capacity to glitch on the T-38... the plane is ultra tiny didn't know how to make it any cleaner I'm sorry
+creations-chat 2021-06-07 02:35:16 the front landing gear in flight (this aircraft isn't meant too look good on the ground) has essentially a landing gear cover for it in flight it's all covered up
+creations-chat 2021-06-07 02:48:11 how does one exploit in a creation game
+creations-chat 2021-06-07 02:52:58 oh boy someone tell me what's wrong with my F-16
+creations-chat 2021-06-07 03:08:16 my god the downvotes are depressing can someone actually give a genuine reason why they don't like the F-16C
+creations-chat 2021-06-07 03:10:41 well everything I've said ~~wrong~~ is right about the FCS
+creations-chat 2021-06-07 03:15:09 the ejection seat isn't a part of the flight control system that would be the survivability system and the cockpit just for reference can you show me a cockpit that isn't blocky for the F-16
+creations-chat 2021-06-07 03:20:10 https://www.youtube.com/watch?v=Lhs4nz3mjLA&ab_channel=FlyingMattersFlyingMatters
+I mean idk what to tell you it does fold like this even if it's less elegant
+creations-chat 2021-06-07 03:24:19 alright I guess I could touch up the cockpit but the dude literally put a half slab and called it a day but look at me and tell me that model looks better because I can poke holes in it all day
+
+the only thing I can think of is the inlet and that is uses motorlocking <@!354786846049566720>
+creations-chat 2021-06-07 03:26:21 ? also why is there a two minute timer for creation feedback
+creations-chat 2021-06-07 03:29:59 couldn't be bothered for the 2 min cool down alright mangler do me a favor and tell me what displacing your pilot seat means for the aircraft you are making
+
+and in addition what would tilting your horizontal stabs for roll
+creations-chat 2021-06-07 03:35:06 what would be toxic would be complaining about the nose cone being a shade to light and then downvoting (yes this is actually happened)
+
+or putting your reason for disliking the build purely the skin I put on it or the cockpit which frankly you only and had a valid reason for until you showed me an F-16 who's only discernable difference in said cockpit would be a half wedge block
+creations-chat 2021-06-07 03:38:26 yes I'm sorry I didn't add enough motor locking or put a slab as a cockpit piece I cry now
+creations-chat 2021-06-07 03:43:48 based
+creations-chat 2021-06-07 04:24:49 I mean he's not wrong
+
+just got back from a super enlightening conversation where Mangler after a half hour of talking about what I did wasn't special told me that he can't actually back up what he said because his account was suspended I'm expecting a " I can't show you rn because my wifi is down response soon "
+creations-chat 2021-06-07 04:27:58 I'm finally getting immortalized in this server thing can't get any better than this
+creations-chat 2021-06-07 04:31:57 https://tenor.com/view/dababy-convertable-gif-20206040
+creations-chat 2021-06-07 04:34:27 real maturity: having cringe as a comeback
+creations-chat 2021-06-07 04:36:58 no I only think you're stupid because you don't have the reading comprehension to realize that I never called you stupid in the first place
+
+furthermore you couldn't even understand what I did and there are DM's to prove that
+
+funny thing is he has the attention span of 5 seconds because I actually explained why it works that way and how I didn't use what I said I did yet he continues to put on this façade of ignorance true expert
+creations-chat 2021-06-07 04:41:46 can't even understand what you said having a stroke trying to wade through the quagmire that is your writing after all this time did you just say exactly what you said before I explained to you how I did it
+
+looks like I had a *actual* stroke reading  manglers crap because I now can't spell writing correctly
+creations-chat 2021-06-07 04:44:28 can someone actually show me ifkin's F-16
+creations-chat 2021-06-07 04:47:21 you do realize quagmire is more than a word from family guy
+
+shows your age really
+creations-chat 2021-06-07 04:49:25 oh no anyways
+
+put that down not because it was actually wip to be completely honest I lied I stopped working on it a while ago
+creations-chat 2021-06-07 04:53:58 it's all about wording if you pull a holier than thou like I did you get wacked
+
+on the other hand if you're famous and you use motor locking my god YOU GET A MEDAL
+creations-chat 2021-06-07 04:56:33 https://discordapp.com/channels/384021699466756103/384025409945337856/849073305272975452
+
+case and point
+creations-chat 2021-06-07 05:00:19 I mean he hasn't done anything but bench warm this entire argument and shout from the sidelines about how my build isn't good without giving a solid answer as to why
+creations-chat 2021-06-07 22:48:08 this was my 4th build I ever made and I slightly revamped the thrust vectoring portion of the aircraft I'm likely going to make it a little bit smaller and even more nimble despite it's looks it's handles really well but it's not true to real life exactly it can't do J turns I need some feedback on how I would get thrust vectoring to work
+creations-chat 2021-06-07 22:58:16 aight
+creations-chat 2021-06-07 23:49:58 just finished the intake and new landing gear for the X-31 thoughts?
+creations-chat 2021-06-08 00:04:28 I use smaller landing gear I personally don't like the massive 2x2 landing gear that I see everywhere I like for it to be a little more compact
+creations-chat 2021-06-08 00:24:15 it's also the same type of system I used on my F-16 and you can probably guess why]
+creations-chat 2021-06-08 00:34:03 mangler
+creations-chat 2021-06-08 01:21:10 hmm not I'm not seeing enough motor locking the counsel won't grant him the rank of jedi master
+creations-chat 2021-06-08 01:25:58 the problem with that is that you can only get expert through doing obnoxious levels of motor locking killing one bird with two stones with that idea
+creations-chat 2021-06-08 01:30:50 say it with me the builds that have a shit ton of motorlocking are good
+
+conform to society please
+creations-chat 2021-06-08 01:34:55 now repeat after me the only good builds have a shit ton of motorlocking
+creations-chat 2021-06-08 01:37:33 a hundred more upvotes to you good sir
+creations-chat 2021-06-08 03:06:21 okay viper pilot
+creations-chat 2021-06-08 03:11:44 was doing a bit you're right with larger creations people don't get so angry about motor locking and camera usage
+creations-chat 2021-06-08 05:01:33 ye
+creations-chat 2021-06-08 05:21:03 <@456226577798135808> https://discordapp.com/channels/384021699466756103/384025409945337856/851688396253298699
+but was I wrong tho
+creations-chat 2021-06-09 03:17:41 <@!794055037553737769> don't tell us what to do 
+
+upvote his creation because fuck him
+creations-chat 2021-06-09 03:20:24 that would be what he wants and as a member of creations feedback I think we all know that we wake up in the morning to come on here and deny people that very idea
+creations-chat 2021-06-16 06:49:09 when you unlock the hover drive irl
+creations-chat 2021-06-16 06:52:23 the plane that put ethics in the hospital
+creations-chat 2021-06-16 07:01:32 no it's a drone that goes around at mach 3 at 100m sea level and can deliver a nuclear weapon it's powered by a nuclear reactor that powers a scram jet that causes nuclear pollution where ever it flies spoiler alert it can fly everywhere and stay up for weeks
+creations-chat 2021-06-16 07:04:45 point being?
+creations-chat 2021-06-16 07:10:24 I'm sorry is your only point that I didn't narrow down the type of unmanned vehicle enough
+
+the plane doesn't have a pilot and commits self destruct is that what you wanted me to say
+creations-chat 2021-06-16 07:18:00 not gonna argue with you any long about something that doesn't matter I was so sleep deprived I called it a bomber instead of a hypersonic missile (by that era's standards)
+creations-chat 2021-06-16 07:23:40 https://media.discordapp.net/attachments/384021699466756107/752939500459524267/5a3c7124f3195501e7d513e46875c573.png?width=635&height=430
+
+Insanely cool build this goes in the hall of fame right
+creations-chat 2021-06-16 07:27:56 never said it was and actually alluded to it not being mine wtf
+literally from <#504718138399522832>
+creations-chat 2021-06-16 07:30:53 regular
+creations-chat 2021-06-16 07:51:33 probably gonna make a hound dog soon it's almost as if hover drives were meant to represent something as wacky as what powers that thing
+creations-chat 2021-06-19 18:50:37 Any thoughts on my F-22
+creations-chat 2021-06-19 19:00:15 ?
+creations-chat 2021-06-19 19:02:25 which part of the aircraft the intakes?
+creations-chat 2021-06-19 19:05:49 k but be warned the landing gear looks gnarly like really bad
+creations-chat 2021-06-19 19:08:37 bruh chat slow mode
+creations-chat 2021-06-19 19:10:46 did warn you having trouble fitting something compact enough but good enough looking into that little space
+creations-chat 2021-06-19 20:01:14 you're not wrong
+creations-chat 2021-06-19 20:03:28 motorlocking or camera locking isn't hard once you have the basics down it just takes longer and it's all for aesthetics '
+creations-chat 2021-06-19 20:08:27 no you don't need to be old or new to motor lock all it's used for it aesthetics and maybe jamming super rockets into a tight space because bad
+creations-chat 2021-06-21 02:25:42 any feedback on my MH6
+creations-chat 2021-06-21 02:57:55 
+creations-chat 2021-06-21 03:03:57 lol
+creations-chat 2021-06-22 01:34:22 wow they did not like my AH-6<:pain:644301805534183464>
+creations-chat 2021-06-22 01:37:58 I swear this community has actually lost their minds
+creations-chat 2021-06-26 12:02:17 needs some input on my old recently revamped F-14 and some ideas for the swing wing as it is quite dated
+creations-chat 2021-06-26 12:05:24 I'm really stupid forgot to actually show the gear
+creations-chat 2021-06-26 12:08:56 <:thoink:657279634563399720>
+creations-chat 2021-06-26 12:16:44 I do all of the motors and bending my self I just put the noob stuff on the end because it allows for complete retraction and not the weird gear half out shit that everyone seems to love so much ground handling is always terrible for my aircraft so idk why not here will take me another few hours though.
+creations-chat 2021-06-26 12:43:58 what livery? I'm not doing a shitty rogers skin
+creations-chat 2021-06-26 12:48:27 was gonna do this I love the prototype and Grumman F-14D skins
+creations-chat 2021-06-26 12:52:29 true I'm gonna do both because coloring isn't that hard I'll probably have the F-14D one used as a test bed
+
+if you look closely there are HARM's and JDAM's on the F-14D above
+creations-chat 2021-06-26 12:55:59 gonna leave that to next life time I can't be arsed to fit wheels that are far too big into the existing spaces
+creations-chat 2021-06-26 12:58:55 https://cdn.discordapp.com/attachments/744667860441366548/858330012879945808/RobloxScreenShot20210626_085443821.png
+https://cdn.discordapp.com/attachments/744667860441366548/858330017834598440/RobloxScreenShot20210626_085333536.png
+creations-chat 2021-06-30 08:11:47 it's a 3 wide helicopter there is no where to hide propellers
+creations-chat 2021-06-30 08:14:21 I pray you have an example
+creations-chat 2021-06-30 08:22:40 the cabin is two wide essentially there is no space to hide anything unless you take out the ballast blocks there is no lateral or length wise space
+
+technically a skill issue on my part but you could fit this thing in the crew compartment of that blackhawk
+creations-chat 2021-06-30 08:27:15 aight
+creations-chat 2021-06-30 08:36:04 you think I don't see those prop hidden under the wing also that thing is fricken massive
+creations-chat 2021-06-30 08:38:53 Probably not but you can see how the design of the helicopter he's trying to depict is doing him quite the favor while on the other hand the R-22 is literally an engine a prop and a cabin
+
+honestly that goes for literally all of these extra thin helicopters they all may be toothpicks but they seem to all have really nice control surfaces empty space inside and general large sizes that make it incredibly easy to hide stuff
+creations-chat 2021-06-30 08:43:37 <:OkayChamp:709084018485887096>
+creations-chat 2021-07-05 15:56:26 more Extra-300 but with the proper color for the propeller
+creations-chat 2021-07-05 15:59:06 might apply that skin to my F-16 later
+creations-chat 2021-07-05 16:02:57 why are people downvoting the F-14 it's a great build?
+creations-chat 2021-08-02 04:22:08 would go back to the drawing table and really think about your future here at Plane Crazy aeronautics
+creations-chat 2021-08-02 04:31:22 they really need to add actual wing parts to the game and not just resistance slabs so we can actually make a proper F-22 with all it's complexity
+
+and also fix motor 2's
+creations-chat 2021-08-02 04:34:49 I'll say it if you wanna get good and building build really big over sized aircraft then begin shrinking them down no amount of staring at a picture is gonna make your builds not look like crap
+
+now if you want to get upvotes 
+dude just motor lock<:trollface:775024642104229898>
+creations-chat 2021-08-02 04:37:24 share first build ever now<:pogey:651848693842182144>
+creations-chat 2021-08-02 04:40:58 nice felon
+creations-chat 2021-08-02 04:44:08 I've been asking around do you have any idea of how to make motor 2's behave and not glitch at all most of my build revolve around mouse control since in my personal opinion it's harder to do but more satisfying to use
+
+I hate using motor 2's even if I have to because they simply have so may problem are incapable of handling any load and god forbid you put two of them together<:nooo:787097964946259978>
+creations-chat 2021-08-02 04:54:03 ye
+creations-chat 2021-08-20 07:32:26 cool
+creations-chat 2021-08-21 22:21:53 wouldn't worry about getting feedback from this place the only thing the experts even raise your eyebrow at is motor stuff that flies like shit
+creations-chat 2022-06-09 04:29:57 What the star fighter
+
+What are you smoking the star fighter has like the direct opposite proportions of the banshee did you literally just look at the tip tanks and think they were the same what exactly is the same with the SU-33/30 and MTD either😂
+creations-chat 2022-06-09 04:37:08 Lol where
+
+Where does moai head mean you're doing a bit
+creations-chat 2022-06-09 04:41:49 I didn't follow the convo lmao I just saw your post
+
+I'm not gonna go into the science of funny fam but just wth lmao
+creations-chat 2022-07-20 01:56:14 imagine the stealthiest thing we can come up with is a crounchy flying plate
+creations-chat 2022-07-31 09:29:05 Stg this community is probably the most toxic rblx group ever
+
+They don't want you to get better they want to shit on you while your bad
+creations-chat 2022-07-31 09:36:49 Go outside while your at it
+creations-chat 2022-07-31 09:39:30 Don't care did not ask
+
+not on the grindset
+<@401530469952389130> no excuses get on that hypothermia grindset and go for a swim
+creations-chat 2022-07-31 09:50:14 what a shame while you were writing paragraphs in the roblox plane crazy community discord you could have spent your day smoking on that lazy pack by touching grass and being on the bacterial infection grindset
+creations-chat 2022-07-31 09:53:39 https://media.discordapp.net/attachments/617054493657530378/934216384135725086/CRETH1.gif
+You all spend your time bullying noobs
+creations-chat 2022-07-31 09:57:19 <:BIG1:588443768806703124> <:BIG2:588443778554134540>
+creations-chat 2022-08-01 00:01:08 https://tenor.com/view/intese-moyai-gif-21328189
+7 pings because I said you guys bully noobs
+creations-chat 2022-08-01 16:37:32 Least insulting PCC community member<:OmegaTroll:626841385118597152>
+
+Context: there is a reason why creations chat has 2:00 slow down you monsters

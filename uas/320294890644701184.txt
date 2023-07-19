@@ -1,0 +1,22 @@
+The Tale of onepatronimo (320294890644701184)
+creations-chat 2019-01-23 09:13:18 I need help with my C-130
+creations-chat 2019-01-23 09:13:27 I can’t quite get enough power from the engines
+creations-chat 2019-01-23 09:13:54 I’ve got 2 motors spinning each prop (at max speed of course)
+creations-chat 2019-01-23 09:14:21 And I would give it one more but with 2 the centrifugal force is pulling the props back to neutral
+creations-chat 2019-01-23 09:19:23 I’ve got motors so that you can turn the actual propellers themselves to give them more thrust or even feather them if needed but it means at high speeds they get pulled flat
+creations-chat 2019-01-23 09:21:45 Ye
+creations-chat 2019-01-23 09:23:00 But to make the motors more powerful I’ve added more, and so the pitch keeps rolling back, I’m already at a point where I have to be constantly pulling them back just to maintain thrust
+creations-chat 2019-01-23 09:24:14 I’m just going to assume that I was just a complete tit for not even seeing that
+creations-chat 2019-01-23 09:25:18 Wouldn’t that mean that the motor stops working tho?
+creations-chat 2019-01-23 09:26:31 Niice, that’s what I’ve been missing
+creations-chat 2019-01-23 09:26:35 Thanks so much
+help 2019-01-24 09:06:05 How does one actually submit a creation? 🧐
+help 2019-01-24 09:08:48 (I mean with the bot)
+help 2019-01-24 10:46:27 And someone will post it on submissions with the bot?
+creations-chat 2019-01-28 10:47:39 I made a C-130 but it has a weight distribution issue...
+the-dump 2019-01-30 20:05:52 Btw, this:
+the-dump 2019-01-30 20:05:56 
+the-dump 2020-07-05 23:20:27 Made a lil video that talks a bit about Plane Crazy, I’m pretty proud of it 🙂 
+
+https://www.youtube.com/watch?v=ejtlrvFH6Xg&t=97s
+the-dump 2020-07-05 23:31:54 <@!308156968550268928> Ay cheers man lol

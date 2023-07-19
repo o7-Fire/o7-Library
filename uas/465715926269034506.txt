@@ -1,0 +1,24 @@
+The Tale of bound1234587 (465715926269034506)
+bug-reports 2020-03-28 07:08:42 I’m on mobile
+bug-reports 2020-03-28 07:09:11 I’ve been trying to stop my car from steering but it continues steering even though it is disabled
+bug-reports 2020-03-28 07:10:21 If I am mistaken please tell me, and what my issue is.
+bot-central 2020-03-28 07:14:10 What is this place for?
+bot-central 2020-03-28 07:14:24 Ok
+bug-reports 2020-03-30 20:12:57 Rickje did you find out if the wheel steering was a problem?
+bug-reports 2020-07-07 05:35:07 I have 2 bugs. The first one is that sometimes for no reason some blocks disappear and I can’t delete them. My second one is that the ballast block won’t count the weight as weight when I change it. I don’t know if all of this is just happening to me.
+bug-reports 2020-07-08 02:53:45 <@670939038999511041>  What do I spawn and despawn?
+bug-reports 2020-07-09 17:43:13 <@670939038999511041> I still dont understand. How do I delete the blocks?> yesterday i had this bug in a strange way tho, it was a place where i never placed a block and spawning and despawnign didnt help. turned out, i had to place the block from a certain angle on the block below
+<@670939038999511041> I still dont understand. How do I delete the blocks? You had to place the block from a certain angle on the block below in order for what to happen?
+bug-reports 2021-01-10 05:30:50 I'm not sure if this is a bug or not but I assume it is, so when on larger builds fly, usually it says it's going faster than it really is. For instance, I have a 3000 block build that flies and it says it's going 550 speed but it sure isn't.
+bug-reports 2021-01-10 05:35:10 Oh
+bug-reports 2021-01-12 04:05:38 So when I’m using rockets to turn my build on mobile, there are 10 in the back on the wing that don’t work in the air for some reason, even though they work on the ground. I don’t know if this is a cause of using 500 super rockets because it is a big build, but they just stop working. Only the ones in the back of the plane.
+bug-reports 2021-01-12 04:06:19 I’m not sure if this is for pc too
+bug-reports 2021-01-12 04:12:55 That’s odd
+bug-reports 2021-01-12 04:13:02 It is working now
+bug-reports 2021-01-12 04:13:06 But it wasn’t before
+bug-reports 2021-01-12 04:54:44 Yea it isn’t working again. I think it might be under certain circumstances. Maybe it doesn’t work when I press multiple keys at once
+bug-reports 2021-02-17 00:37:06 This probably isn't a bug but whatever, it's just waiting time. So whenever there are loose blocks in my planes on mobile, the plane goes really slow even though it says it's moving faster than it is. And I have another plane that is like that and it doesn't even have any loose blocks.
+bug-reports 2021-02-17 01:11:13 Is this fixable while keeping the same size?
+bug-reports 2021-02-17 01:12:11 Perhaps is using 1x7 better than 1x1 or is it just overall size?
+bug-reports 2021-02-17 01:13:07 Or is using half blocks better?
+bug-reports 2021-02-17 01:42:33 Aight

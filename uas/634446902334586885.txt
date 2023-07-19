@@ -1,0 +1,5 @@
+The Tale of faraday9510 (634446902334586885)
+bug-reports 2022-01-25 22:09:47 Any type of propulsion is not working for me, for example, if i try using a rocket to make a aircraft go faster the boost will not turn on, this is also valid for propellers, jets, water propellers, and all rockets.
+Is there anything i can do ?
+bug-reports 2022-01-25 22:24:14 Its on but i'll try turning it off and on again
+bug-reports 2022-01-25 22:29:12 Seems like it does work, gonna need to do this everytime i join ig

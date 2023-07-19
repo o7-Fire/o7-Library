@@ -1,0 +1,24 @@
+The Tale of averagequickscoper (591438580073627648)
+bug-reports 2022-03-08 01:28:36 Cameras are set back to deafult keybinds on saved builds
+bug-reports 2022-03-08 01:28:58 Eg: Was set to v to activate and is now set back to 1
+bug-reports 2022-03-08 01:30:06 This is a issue multiple people are having
+bug-reports 2022-03-08 01:33:38 happens every time a build is loaded even if the keybind is changed and the build re-saved
+bug-reports 2022-03-08 02:01:46 wdym? I said cameras are set back to default keybinds on all saved builds (even if re-saved with the correct keybinds)
+bug-reports 2022-03-08 02:05:06 https://cdn.discordapp.com/attachments/950568537943072878/950573130831785994/camera_glitch_proof.mp4
+bug-reports 2022-03-08 02:22:46 Just one problem. I need cameras to hold together most of my builds
+bug-reports 2022-03-08 02:23:45 i press 1 to activate something and I get put in one of my 500 cameras on my build
+bug-reports 2022-03-08 02:24:44 and deactivates the other thing
+bug-reports 2022-03-08 02:25:23 It's not really a problem for me but a lot of people are complaining about it since I mentioned it xd
+bug-reports 2022-03-08 02:26:44 yep... and they are all set back to 1
+bug-reports 2022-03-08 02:27:02 I bind all cameras to \ so I don't activate them
+bug-reports 2022-03-08 02:27:34 The problem is every build I load (or save) is just set back to the default keybind on them
+bug-reports 2022-03-08 02:31:27 As shown here
+bug-reports 2022-03-08 03:25:24 Idk if he's seen it but I mentioned it
+bug-reports 2022-03-08 04:05:32 .
+bug-reports 2022-03-08 07:11:30 https://cdn.discordapp.com/attachments/950568537943072878/950573130831785994/camera_glitch_proof.mp4
+bug-reports 2022-03-08 07:11:41 I reported it ages ago
+bug-reports 2022-03-08 07:16:51 I sent it to you
+bug-reports 2022-03-08 07:17:08 It's not really a problem just pointing it out
+bug-reports 2022-03-08 09:16:07 magnet only not attracted to magnets?
+bug-reports 2022-03-08 09:17:36 Also can yall stop arguing in here this is <#498473314445033472>  Not #fight-over-stupid-stuff
+bug-reports 2022-03-08 09:21:04 Best advice I've ever heard.

@@ -1,0 +1,3 @@
+The Tale of moxinosis (726644487534805044)
+bug-reports 2021-05-11 13:08:27 there is a bug (idk if it happens to anyone else) but in my heli if the main propellers are on the rockets, other propellers, and the small propellers dont work
+bug-reports 2021-05-11 13:13:03 and its not because there are alot of propellers i just put 100 small propellers on a plane and it works but if i put a motor and a small propeller on a heli i can only control it one at a time

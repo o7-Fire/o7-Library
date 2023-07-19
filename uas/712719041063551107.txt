@@ -1,0 +1,69 @@
+The Tale of Dinonuggie (712719041063551107)
+bug-reports 2021-02-19 18:44:30 i found a glitch
+bug-reports 2021-02-19 18:44:46 more of a glitch that just makes you mad when it happens
+bug-reports 2021-02-19 18:46:00 but if you have the suspension and rope and if you shorten the rope the build sometimes starts shaking and also sometimes flings you
+bug-reports 2021-02-19 18:46:14 it makes me sad
+bug-reports 2021-02-19 18:46:16 lol
+bug-reports 2021-02-23 15:15:09 no thats not correct the parachute bug where you lose your limbs is usually from when your going really fast and use the parachute and i mean really fast like over 1000 studs
+creations-chat 2021-04-18 00:08:20 Can i report a build?
+help 2021-04-26 13:14:59 it could possibly be that trail behind the turret base but probably not and make sure the motor max torque is 1000
+help 2021-04-26 13:16:08 you could also use suspension under the motor so it can like move up when turning over uneven blocks
+help 2021-04-26 13:23:44 the you should add a suspension under the motor
+help 2021-04-26 13:24:02 with 2 free length and 20 stiffness
+help 2021-04-26 13:33:21 to pull the turret down?
+help 2021-04-26 13:33:49 ok so
+help 2021-04-26 13:33:54 remove those motors
+help 2021-04-26 13:34:00 and put a suspension there
+help 2021-04-26 13:34:10 the suspension pulls the turret down
+help 2021-04-26 13:34:42 and gives it room to push up a little bit when moving around on uneven blocks
+help 2021-04-26 13:37:10 put it at 2 free length and 20 stiffness
+help 2021-04-26 13:41:20 you need to slow the motors down lol
+help 2021-04-26 13:41:35 and use normal blocks instead of 0x9
+help 2021-04-26 13:43:14 make the 0x9 normal blocks and change the speed on the motors to 11
+help 2021-04-26 13:44:28 i use 11 speed
+help 2021-04-26 13:44:58 then theres something its getting stuck on
+help 2021-04-26 13:45:28 speed 1 is pretty fast dude
+help 2021-04-26 13:45:32 and its realistic
+help 2021-04-26 13:46:46 make the turret bottom ice
+help 2021-04-26 13:48:29 show me the motor2 in build mode
+help 2021-04-26 13:49:06 no
+help 2021-04-26 13:49:11 the way you have it placed
+help 2021-04-26 13:51:12 max torque is the strength
+help 2021-04-26 13:51:21 50 makes it weaker
+help 2021-04-26 13:51:32 it wont turn
+help 2021-04-26 13:51:37 its getting stuck on something
+help 2021-04-26 13:51:49 when it should work fine if he did what i said
+help 2021-04-26 13:52:26 how
+help 2021-04-26 13:52:33 that makes the motor weaker
+help 2021-04-26 13:52:39 and more prone to getting stuck
+help 2021-04-26 13:53:34 replace suspension with normal blocks
+help 2021-04-26 13:53:43 and just see if it even turns
+help 2021-04-26 13:54:14 let me see
+help 2021-04-26 13:57:14 now replace the 1 block under the motor with a motorlock
+help 2021-04-26 13:57:19 but only that 1 block
+help 2021-04-26 13:58:02 then make the top of the tank where the turret moves over around on ice
+help 2021-04-26 14:00:14 now replace the block under the motorlock with motorlock
+help 2021-04-26 14:00:19 it should work
+help 2021-04-26 14:02:22 ok now what your gonna wanna do is get an autoclicker then turn it on put your mouse over the tank in build mode then press 2
+help 2021-04-26 14:02:31 dont
+help 2021-04-26 14:02:33 tho
+help 2021-04-26 14:02:49 but actually dont
+help 2021-04-26 14:02:59 idk whats wrong
+help 2021-04-26 14:03:05 it should be working fine
+the-dump 2021-04-28 13:08:18 https://www.youtube.com/watch?v=JHum4v-0res
+the-dump 2021-04-28 13:08:26 brrrrttt
+the-dump 2021-04-28 13:08:51 delicios bullet
+the-dump 2021-04-28 13:08:58 i  cant spell
+bug-reports 2021-05-08 20:06:54 Its not letting me open up the confirm to save or load on any of my slots
+bug-reports 2021-06-16 20:09:22 Hii
+bug-reports 2021-06-16 20:09:23 Soo
+bug-reports 2021-06-16 20:09:31 Im just here trying to get my jet to fly
+bug-reports 2021-06-16 20:09:38 It flys perfect all the time
+bug-reports 2021-06-16 20:09:40 And lately
+bug-reports 2021-06-16 20:10:04 Ive been getting this weird glitch where the control panels wont let me go up or down but let me turn
+bug-reports 2021-06-16 20:10:16 And this has happened at least 50 times in a row so far
+bug-reports 2021-06-16 20:10:28 And its been happening for around 2 days now
+bug-reports 2021-06-16 20:12:20 <@!273536574770380800>
+bug-reports 2021-06-16 20:13:19 Obc
+bug-reports 2021-06-16 20:19:22 Idk wat to do
+bug-reports 2021-06-17 14:04:32 I cant the jet is too small to use custom panels and ive tried doing custom panels and it doesnt work well

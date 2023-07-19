@@ -1,0 +1,5 @@
+The Tale of noglog (951277419262779482)
+bug-reports 2022-08-02 06:13:55 when you have a motor 2 placed you cant open trapdoors
+bug-reports 2022-08-02 06:34:51 so apparently if i set it to servo i can open it but im trying to use the default settings for the motor 2
+bug-reports 2022-08-02 06:36:37 a
+bug-reports 2022-08-02 06:36:58 hold on isnt synapse a exploit?

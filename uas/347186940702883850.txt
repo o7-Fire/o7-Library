@@ -1,2 +1,6 @@
-pizzatimemax
-plane-crazy 2019-08-10 21:55:45 how do i suggest something
+The Tale of pizzatimemax (347186940702883850)
+bug-reports 2019-02-09 16:08:38 a lot of my creations dont work in non pvp
+bug-reports 2019-02-09 16:08:58 (which means i got to go to pvp to have them work)
+bug-reports 2019-02-10 21:32:15 motors are buggy, very buggy
+bug-reports 2019-02-10 21:37:56 (motors work for 2 seconds as soon as you spawn it in then they weld in place)
+bug-reports 2019-03-09 01:46:24 just saying all my planes dont fly now, wing panels are glitchy as hecc

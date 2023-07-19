@@ -1,0 +1,18 @@
+The Tale of qqqqqqqqqq (526867106206318602)
+help 2022-07-06 06:45:26 hey hey- so i tried making a big aircraft for once and so far it's going well, but the control surfaces keep wobbling. i did some searching and followed some fixes (such as reducing the amount and making them farther away from the body), but it doesn't seem to completely prevent it, and since they're farther away the whole plane just shakes around with them. is there anything more i can do?
+help 2022-07-06 06:52:45 (excuse the goofy aesthetics i am not keen on appearances xd)
+help 2022-07-06 06:53:57 it's able to go up and down after the fix, but still wiggles around
+help 2022-07-06 06:55:58 largely non responsive
+help 2022-07-06 06:56:03 and the plane rocks to the side when they do that
+help 2022-07-06 06:57:50 mmm...how close should the mass and lift be?
+help 2022-07-06 06:58:33 lmao rip
+help 2022-07-06 06:58:51 mm
+help 2022-07-06 06:58:55 i'll try adding more surfaces
+help 2022-07-06 07:01:44 i have no idea how to do that <:hahaa:773727260539617280>
+help 2022-07-06 07:02:49 ...and then stick wing panels on it?
+help 2022-07-06 07:09:37 ohhhhh
+help 2022-07-06 07:12:20 gonna have to figure out how to stick that onto the main wings...but thanks, i'll go try that out
+help 2022-07-06 07:27:50 oh yeah one more question, how do you prevent anchors from screwing with disconnectors, i tried using them in a drone launcher thing but they wouldn't disconnect and i ended up having to make the platform heavy as tungsten to not get carried by the drone's engines
+help 2022-07-06 07:32:09 .
+help 2022-07-06 07:32:11 thank you
+help 2022-07-06 07:32:21 it was that simple 💀

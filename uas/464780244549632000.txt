@@ -1,0 +1,796 @@
+The Tale of asoullessplayer (464780244549632000)
+bot-central 2023-03-28 06:44:38 !rank
+bot-central 2023-03-28 06:44:42 crazy
+bot-central 2023-03-28 06:59:48 !rank
+bot-central 2023-03-28 07:12:43 !rank
+bot-central 2023-03-28 07:19:51 !rank
+creations-chat 2023-03-28 07:21:21 is it too big or what
+help 2023-04-04 09:54:29 they have been broken for 12 hours now
+bug-reports 2023-04-04 16:42:04 ~2000 casual plane crazy players who are not informed of the motor 2 bug are going insane trying to find out why their planes are suddenly not working
+bug-reports 2023-04-04 16:42:21 (they will irreversibly break several of their builds trying to find the problem)
+bug-reports 2023-04-04 16:44:34 me when I lie
+bug-reports 2023-04-04 16:45:23 MY MOTORS ARE WORKING
+bug-reports 2023-04-04 16:45:25 IN MY PRIVATE SERVER
+creations-chat 2023-04-09 22:55:21 simply dont build jets and return to propeller driven planes
+bot-central 2023-04-14 00:30:41 !rank
+creations-chat 2023-04-14 13:01:57 i think in that specific message he is referring to the general dislike for whitenames rather than what’s happening to him right now
+help 2023-04-20 11:03:35 i think you just have too many wing panels
+help 2023-04-20 11:03:51 too much lift
+creations-chat 2023-04-20 12:47:30 is this enough for a mega downvote
+creations-chat 2023-04-20 12:52:51 yipee
+creations-chat 2023-04-20 12:55:52 this is the part where you tell me how badly i went wrong
+creations-chat 2023-04-20 15:44:43 i want to try and fix it by angle locking more 1x4 triangle wedges into it but idk how im gonna evenly spin something that's 2x2
+
+does the slowmode really need to be two whole minutes
+creations-chat 2023-04-20 15:47:22 i'll give it a shot tomorrow (i have to move so much stuff out of the way in the motorlock tower)
+creations-chat 2023-04-20 15:49:24 how would you suggest i make a very sharp and long nose for my mirage v
+help 2023-04-21 10:37:54 all you can do is do a better job of hiding them inside the build
+creations-chat 2023-04-21 10:42:47 i hid the motor2s inside the fuselage and connected them to the control surface using text and cameras, now the wing doesnt have a motor2 on the tip
+creations-chat 2023-04-21 10:53:41 cant, if i do, then the wings will rub against each other and get jammed
+creations-chat 2023-04-21 11:20:03 control surfaces are less versatile and smaller
+creations-chat 2023-04-21 11:29:58 moving parts give more dopamine 👍
+help 2023-04-22 09:24:14 how would I go about making these airbrakes on the mirage 5? they're somewhere around the center of each wing
+help 2023-04-22 11:37:25 i think ill use the trapdoors externally and then put the control panels inside the fuselage
+help 2023-04-22 11:37:30 i have a lot of space to work with
+creations-chat 2023-04-22 13:28:46 <@971081152066637904> what is up with the single block sticking out of the tail wing
+help 2023-04-23 06:55:45 is it a motor2 connected to another motor2
+help 2023-04-23 06:55:50 if so then no
+creations-chat 2023-04-24 12:19:22 <@914779689745285140> can you do it while spinning at 68 rpm
+creations-chat 2023-04-24 12:22:36 put a huge cannon on the bottom of the hull
+creations-chat 2023-04-24 12:26:26 does it do the shooty bang bang though
+creations-chat 2023-04-24 12:29:42 please continue with the updates 🙏 
+
+also in the future you should add a functional docking bay 👍
+creations-chat 2023-04-24 12:58:46 aside from the balls on the intakes needing to be replaced what should I fix on this
+creations-chat 2023-04-24 13:57:37 it already is
+creations-chat 2023-04-24 14:00:18 i see, ill try it tomorrow
+
+the bottom part of the nose is already like that btw
+bug-reports 2023-04-24 14:50:52 <:noway:1021283202561744977>
+creations-chat 2023-04-25 12:37:02 have you noticed that many people here are just plain homophobic
+help 2023-04-25 13:02:30 rank 3
+help 2023-04-25 13:02:41 it's in the server rules
+creations-chat 2023-04-27 13:33:56 roblox developers saying “sorry but i have no time to update” when everyone explains to them that hiring more developers is a thing they can do
+creations-chat 2023-04-27 13:35:59 i know but it applies to plane crazy too does it not? also i was talking about roblox game devs not roblox themselves
+help 2023-04-28 05:28:09 if you have too much lift in the front of your plane/too much weight in the back, then it will wobble up and down at speeds past ~300. If you have too many horizontal wings near the front it will wobble side to side, and if you have too many of either in the back then controls will stiffen up and you will start wobbling too
+help 2023-04-28 05:28:31 make space for adding or subtracting wing panels inside your plane so you can tune it
+help 2023-04-28 05:28:40 and make sure your controls aren't super sensitive
+help 2023-04-28 06:21:00 that’s just how it is in plane crazy
+help 2023-04-28 06:21:15 if you want it to explode when it hits the ground then you have to manually detonate it
+help 2023-04-29 14:36:32 anchor blocks and motors are really buggy when you use them together as of now
+help 2023-04-29 14:36:44 i don’t know how long it’s been like this
+help 2023-04-30 07:01:19 the tall part is the one that spins
+help 2023-04-30 09:25:22 use a hover engine
+creations-chat 2023-04-30 13:27:14 do you understand that if something is motorlocked inside of another block, you can’t make it move using motor 2s or it will break the angle lock?
+creations-chat 2023-04-30 13:31:34 let’s use my mirage 5’s canopy as an example. It’s noclipped inside the nose because of angle locking. do you think this can be made to open?
+creations-chat 2023-04-30 13:33:39 have you noticed that his canopy is also slightly noclipped into the body of the plane using motorlocks? how do you suppose he would make it open without breaking everything?
+
+
+I’m waiting for your response
+creations-chat 2023-04-30 13:41:06 hey man I just got here
+creations-chat 2023-04-30 13:45:52 https://tenor.com/view/aneurysm-hhhhomeboyyyy-kings-dark-tidings-saga-by-kel-kade-reaperleviathan-head-explode-gif-21578105
+creations-chat 2023-05-03 00:04:45 rare case of pcc members calling out stupid behavior
+creations-chat 2023-05-11 13:24:49 gotta get the latest pc with the best specs just to get 5% less physics lag in plane crazy 👍 thank you rickje
+creations-chat 2023-05-11 13:27:12 i would build more pvp oriented builds but the current meta is just 360 maneuverability with instant turning and the ability to stop midair then proceed to go at 13k studs per second, which leads to all pvp getting dominated by those stupid fucking balls with guns and rockets on them
+
+
+(and also i can’t even play pc anymore because my launch fps dropped to 10 a week ago out of nowhere 🤩)
+creations-chat 2023-05-11 15:52:54 i want to talk to whoever decided to cut the planks like that
+creations-chat 2023-05-11 15:56:44 i just want to talk to him
+creations-chat 2023-05-11 16:10:46 inner peace
+creations-chat 2023-05-11 22:25:25 yeah what he said can i see it too
+help 2023-05-12 00:38:00 only if you can manage to dodge fast enough or somehow deflect attacks
+help 2023-05-12 00:38:27 plane crazy’s current meta forces everyone to move as fast as possible or else they get hit by 12 missiles
+help 2023-05-12 00:41:32 whichever one you find better
+help 2023-05-12 00:41:49 but i think helium would be better than hovers
+help 2023-05-12 00:48:27 you do it manually
+creations-chat 2023-05-12 02:45:53 just motorlock some signs in
+
+you can offset them by half a block by only using a single locked motor instead of two motors stacked on each other
+creations-chat 2023-05-12 04:49:42 man i knew about the j20 but i didnt know what it looked like until now, i kinda wanna build it
+creations-chat 2023-05-12 04:51:46 yeah but delta wing + canards on a stealth plane 😱 (i love delta wing planes)
+help 2023-05-12 04:52:47 just put rocket thrusters
+creations-chat 2023-05-12 04:56:47 actually, i was planning on building a 5th gen delta wing and in my mind it looked exactly like the j20 before i even knew what the j20 looked like
+help 2023-05-12 05:02:19 try putting some propellers in the back that raise the tail upwards, it would make the main rotor face a little to the front and start making you go forwards
+help 2023-05-12 05:02:57 ill be honest though I’m not that good with helicopters
+creations-chat 2023-05-12 05:03:43 those are the headlights
+creations-chat 2023-05-12 05:10:27 https://tenor.com/view/walter-white-breaking-bad-sad-crying-phone-gif-20022348
+creations-chat 2023-05-13 17:41:44 the only case where trapdoors on wings are acceptable
+help 2023-05-13 17:50:06 you might have a few ballasts set to the wrong keybinds
+help 2023-05-13 18:27:32 knowing plane crazy, it's likely there's one little tiny block affecting it that's really easy to overlook but very obvious once you find it
+help 2023-05-13 18:27:35 just keep looking
+creations-chat 2023-05-13 18:47:37 i have been directly insulted by eskeline, my whitename journey is complete
+creations-chat 2023-05-13 18:52:02 🤯 that is crazy i didn't know, sorry eskeline
+creations-chat 2023-05-13 19:53:41 <@584060481522761728> made this for you what do you think
+creations-chat 2023-05-13 20:12:38 now with armaments <@584060481522761728>
+creations-chat 2023-05-13 20:14:49 ackshually it's a poorly shaped 🗿 bomb ☝️🤓
+help 2023-05-13 20:21:45 plan out your motorlocks and hide them all inside or around the fuselage
+creations-chat 2023-05-14 04:45:16 tired of seeing f-teens i wanna see some other country’s jets for once
+creations-chat 2023-05-14 04:48:30 specifically i wanna see more delta wings like the mirage variants or a draken, maybe even a j-20
+creations-chat 2023-05-14 05:31:21 mb I’ll remove my upvote <:clueless:942802644043464734>
+creations-chat 2023-05-14 05:33:25 jokes aside it’s really good (also I actually forgot to upvote when I first saw it so thanks for reminding me)
+
+I will say though, the missiles hang a little too low
+creations-chat 2023-05-14 05:44:39 should i keep the cylinder canopy or switch to a wedge one that can open and close
+creations-chat 2023-05-14 08:42:28 they already are half cylinders
+
+wait which ones are you talking about
+help 2023-05-14 08:58:07 if you have motorlocks, try adding extra wing panels to the front end of the plane
+help 2023-05-14 08:58:27 if that makes it worse then you need to remove them and instead add more wing panels in the back
+help 2023-05-14 10:50:48 if you're tilting upwards then you either need to remove weight in the back or add weight in the front
+help 2023-05-14 10:51:08 or if you want to fiddle with the wings and risk making it wobble again then you can remove some wing panels
+help 2023-05-14 12:02:50 you’ll have to suffer through trial and errol then. Just keep adding or subtracting wings in the rear and front until you’ve removed the wobble
+help 2023-05-14 12:03:04 you’ll get there if you go at it long enough
+creations-chat 2023-05-14 12:03:49 hide the cheese grater wings and it might be salvageable
+creations-chat 2023-05-14 12:09:01 you can actually motorlock wing panels/trapdoors on top of control surfaces and they’ll still function fine
+help 2023-05-14 12:14:53 if i can get a 1400~ block jet to go 1500 sps without wobbling then you can get your jet to not wobble too
+help 2023-05-14 12:14:57 you can do it
+help 2023-05-14 12:15:14 just
+help 2023-05-14 12:15:17 it might take a while
+help 2023-05-14 12:16:36 see if you can pull that off then surely the tiny one should be a piece of cake
+help 2023-05-14 12:17:56 
+help 2023-05-14 12:18:07 all the wing panels you can see there are for stabilization
+help 2023-05-14 12:18:47 they don’t have to be on the actual wings of the plane you can just stuff them inside the nose or fuselage using motorlocking
+creations-chat 2023-05-15 05:06:14 aside from emilos’ fictional mirage has anyone made a good mirage in this server
+creations-chat 2023-05-15 08:30:59 what is that long stick of cameras
+
+
+wait is that a motor in the middle? don’t tell me it just floats there once you’ve launched and folded everything 😦
+creations-chat 2023-05-15 09:42:51 the skeleton appears
+help 2023-05-15 09:48:08 just think of each motor block in the motorlock tower as a separate layer
+help 2023-05-15 09:48:21 they all collapse together into one single layer when you launch
+help 2023-05-15 09:48:49 but if you for example build something connected to one of the motors that is a block higher than the motor it is connected to
+help 2023-05-15 09:48:59 then that will also be a block higher than all the other layers
+help 2023-05-15 10:54:39 half motorlock a triangle wedge 1x4
+help 2023-05-15 10:54:58 the part that sticks out should look like a half triangle wedge 1x2
+help 2023-05-15 10:56:25 rickje issue
+help 2023-05-15 10:56:42 <:shock:1098116005252841503>
+help 2023-05-15 10:57:14 is there such a thing as overage children
+help 2023-05-15 10:57:20 or underage adults
+help 2023-05-15 10:57:39 true
+bug-reports 2023-05-16 00:10:39 have plane crazy’s bugs gotten so bad to the point where paid items are now not working
+bug-reports 2023-05-16 00:11:20 he has to *at least* fix this bug right
+bug-reports 2023-05-16 00:11:33 this is affecting people who literally paid him money
+creations-chat 2023-05-16 01:59:47 how do i hide sideways folding landing gear under this thing
+
+and no those aren’t exposed locks those are guns
+creations-chat 2023-05-16 02:05:27 clearly I have the best mirage 5 in the game (it's the only one)
+
+someone please one up me so i can take notes
+creations-chat 2023-05-16 02:08:46 it's ever so slightly angle locked so i dont know how i would do that
+creations-chat 2023-05-16 02:44:27 probably just the upvote count honestly
+creations-chat 2023-05-16 02:46:47 <:empty:794431705070174238> ^ same with dev update role
+creations-chat 2023-05-16 02:49:09 perfectly content with being a whitename
+creations-chat 2023-05-16 02:51:13 the guy in the background who has a full plane:
+creations-chat 2023-05-16 02:53:16 what even
+creations-chat 2023-05-16 02:57:15 the deteriorating state of plane crazy due to rickje’s seeming apathy towards the game, which has caused many game breaking bugs to arise: https://media.tenor.com/eE2OLGiBR-QAAAPo/transitions-kinemaster.mp4
+creations-chat 2023-05-16 03:00:00 which was scheduled to be released a year ago, and since then we have not seen sneak peeks or any dev communication aside from a few offhand comments in general
+creations-chat 2023-05-16 03:03:27 i just want to at least see a message from him, that’s all
+
+communication is very important
+
+and also jesus how long can it possible take, we’ve already seen chiseled cheese make flightpoint in a couple of months and yet rickje already has the base game to work iff of and he still isn’t done
+creations-chat 2023-05-16 03:05:33 he should have just hired chiseled when flightpoint came about, hell i don’t know why he can’t just find people to help him develop the game
+creations-chat 2023-05-16 05:03:17 see: <#498473314445033472> 3090 debacle
+creations-chat 2023-05-16 05:05:36 rare eskeline w???
+creations-chat 2023-05-16 05:08:00 at least when I see eskeline talking nonsense i know he’s not serious
+
+also i recall nuclear linking his tomcat somewhere like 2 days after it was posted because he wanted to reach 180 upvotes
+creations-chat 2023-05-16 05:39:14 littering in the ocean <:Downvote:490311668556103700>
+creations-chat 2023-05-16 07:02:46 eskeline resisting the urge to put <:clueless:942802644043464734> at the end of every message <:clueless:942802644043464734>
+creations-chat 2023-05-16 07:04:50 the emoji is literally called “clueless” <:clueless:942802644043464734>
+creations-chat 2023-05-16 07:07:44 <:clueless:942802644043464734>
+creations-chat 2023-05-16 07:09:57 clueless to clueless communication
+creations-chat 2023-05-16 07:53:37 is the tip jar block good for detailing
+creations-chat 2023-05-16 12:30:16 do signs and text boxes cause a high amount of lag? genuine question cause I really need to know
+creations-chat 2023-05-16 14:25:12 WHAT THE HEEEELLLL OH MY GOD NO WAYAYAY
+creations-chat 2023-05-16 14:57:06 another <#384025409945337856> argument yipee
+creations-chat 2023-05-16 15:34:55 feast your eyes on the copium landing gear
+
+(only like this because it lets it be concealed)
+creations-chat 2023-05-16 15:37:16 mirage 5 
+
+also here's what it looks like when folded (also the reason why i made it like this in the first place)
+
+sacrificed good looking gears for a clean underside when folded 💪
+creations-chat 2023-05-16 15:39:21 i will only post it to <#384025409945337856> once i've designed droptanks and matra r.550s for it
+creations-chat 2023-05-16 15:43:16 droptanks, bombs and missiles are planned yes
+creations-chat 2023-05-16 15:45:31 this is literally my only good build everything else i have is mid (hence why it's the only one you'll see me sharing in this server
+creations-chat 2023-05-16 15:47:36 no way I'm nuclearbeast approved 🙀
+creations-chat 2023-05-16 15:49:58 one up me right now i need to see more mirages
+
+^I'm not being serious lol chill out
+creations-chat 2023-05-16 15:55:31 oh damn you're the guy with the incomplete engine and tail fins that take up half of the plot, thought you looked familiar lol
+creations-chat 2023-05-16 16:02:04 your mig 29 looks spicy i dont know if i can come out on top
+
+also you can apply for expert role because of the upvotes on that thing, just saying
+creations-chat 2023-05-16 16:08:24 also here's an older backup save i have of my mirage that had functioning landing gear (looked really clunky imo which is why im trying to hide it now but it had suspension and stuff) it was also really buggy sometimes and the suspension tended to noclip through the wings
+
+honestly it only served to give me somewhat smoother landings than normal
+
+(((also it stuck out a whole block under the plane which didnt look good)))
+creations-chat 2023-05-16 16:10:27 i think im gonna go ahead and overwrite that save slot now
+creations-chat 2023-05-16 16:13:04 this?
+creations-chat 2023-05-16 16:15:15 ohhhhh right yeah i've been meaning to do that for a while lol, i'll go do it now
+creations-chat 2023-05-16 16:24:11 should i spend the time to motorlock a ton of wedges into it so it's more rounded
+creations-chat 2023-05-16 16:26:22 delta wings too small for the job on this one i think i'll stick with wedges (also ew flight performance killer)
+
+old version 
+
+I SAID OLD VERSION RAHHH
+creations-chat 2023-05-16 16:31:00 ok it's less of them being too small and more of i dont want to kill my flight performance
+
+also here's the sideview <@912065912658608190>
+creations-chat 2023-05-16 16:34:39 i already spent the effort to hide the motors that move them how in the world am i gonna hide the gaps
+creations-chat 2023-05-16 16:36:50 problem is they are connected to the same angle lock as the entire wing so they have to move with it (though i guess i could try to add more motorlock towers directly on the wing maybe)
+creations-chat 2023-05-16 16:38:52 also this is the space that i have to work with pre-launch lol
+
+anyway see you in 10 minutes ill try to move it in with motorlocks
+creations-chat 2023-05-16 16:51:30 <@912065912658608190> <@467459282250629120> alright that was way easier than i thought it would be now i just have to mirror it and hide the last gap
+creations-chat 2023-05-16 16:56:31 oh my goodness gracious why didnt i do this earlier
+creations-chat 2023-05-16 16:58:46 actually made such a huge difference lol what was i doing this whole time
+creations-chat 2023-05-16 17:00:54 yes it does! i actually thought friction might mess it up but turns out nope
+creations-chat 2023-05-16 17:03:01 picture of both flaps moving in opposite directions
+creations-chat 2023-05-16 17:32:35 <@912065912658608190> <@467459282250629120> these flaps good enough for the two of you?
+creations-chat 2023-05-16 17:42:11 surely if the f-62 whatever guy can have no motorlocks on his f-14 wings then you can too
+
+also wow since when did he leave
+creations-chat 2023-05-16 17:44:21 <@912065912658608190> alright they're (the flaps) a bit stiff now
+creations-chat 2023-05-16 18:01:55 because there is now no gap between the wings and the flaps, they’ll sometimes stiffen up before moving properly
+creations-chat 2023-05-16 18:04:25 what do you mean inside or outside, also i tried the ice and it made my motor 2s freak out for some reason so i reverted it
+creations-chat 2023-05-16 18:06:51 both the ailerons and flaperons (if that’s what they’re called on delta wings) and the rudder started twitching like crazy when i made them ice
+creations-chat 2023-05-16 18:48:30 honestly i think you should go without the camo it makes it look like someone built it in minecraft
+creations-chat 2023-05-16 18:53:43 yes
+creations-chat 2023-05-16 19:10:42 yes, why wouldnt they how else would i control it lol
+creations-chat 2023-05-16 19:20:02 magic (text boxes and cameras that extend outside the plane as seen in this outdated photo)
+
+bluesclues tells me that apparently everyone does this
+creations-chat 2023-05-16 19:22:04 just ignore it 👍
+creations-chat 2023-05-16 19:24:39 incredible, honestly quite amazing
+creations-chat 2023-05-17 05:55:17 the stealth aircraft with a radar cross section the size of a schoolbus
+creations-chat 2023-05-17 06:00:29 was kiw really banned again
+bug-reports 2023-05-17 09:10:51 rickje issue
+creations-chat 2023-05-17 09:52:35 why does the space fighter have ailerons and airbrakes
+creations-chat 2023-05-17 10:28:11 removed the copium landing gear and instead tried to hide the motors better
+creations-chat 2023-05-17 11:59:43 managed to stuff the wheels inside the fuselage yipee
+creations-chat 2023-05-17 12:01:58 it's for adding a separate color under the wings without killing my flight performance
+creations-chat 2023-05-17 12:07:32 yeah... what else would they be, disconnectors? anyway here's what both sides look like
+creations-chat 2023-05-17 12:09:38 amazing, now give me helpful criticism so i can do better and we can have a productive conversation
+creations-chat 2023-05-17 12:12:05 ok aside from the poopoo fart rocket thruster exhaust which i am fully aware of what exactly should i do here
+
+and yes that fabric ball is a parachute
+creations-chat 2023-05-17 12:14:47 time to go stare at mirage 5 stock photos, 3d models and blueprints for a few minutes then, also is the color too flat?
+creations-chat 2023-05-17 12:34:04 ah the classic trapdoor copium (i tell this to myself everyday)
+creations-chat 2023-05-18 02:51:33 f-16 intake not fat and gaping enough <:Downvote:490311668556103700>
+bug-reports 2023-05-18 02:52:50 would this be a rick issue or a mattadak issue
+bug-reports 2023-05-18 02:54:10 simply forfeit your money to rickje and buy a vip server 😃
+bug-reports 2023-05-18 03:29:41 truly a whitename moment for me
+bug-reports 2023-05-18 03:30:18 <:empty:794431705070174238>
+creations-chat 2023-05-18 05:24:52 the one that is right there in creations
+creations-chat 2023-05-18 06:22:05 clearly you haven't seen peak f-16 intake before
+
+it's gotta be wider than the plane by at least 1.5x as you can see
+creations-chat 2023-05-18 08:01:47 good question maybe I should build it as my next plane
+creations-chat 2023-05-18 08:21:41 skill issue (yeah I know it's fine lol)
+creations-chat 2023-05-18 09:52:00 https://tenor.com/view/walter-white-breaking-bad-sad-crying-phone-gif-20022348
+help 2023-05-18 12:51:35 it’s just
+help 2023-05-18 12:51:43 motor 1 with powered and lock options
+help 2023-05-18 12:51:52 and then you attach it to a motorlock tower
+help 2023-05-18 12:52:05 and then you attach the blocks you want to angle to the motor 1
+help 2023-05-18 12:52:12 and then you move the motor 1
+help 2023-05-18 12:52:19 then you collapse the motorlock tower
+help 2023-05-18 12:52:33 and then the blocks you moved using the motor 1 are still in the same position
+help 2023-05-18 12:52:38 so now you have a custom angle
+help 2023-05-18 13:06:04 1. motor has lock option but is still powered
+2. motor is then attached onto a motorlock tower
+3. put blocks onto motor
+4. move motor
+5. collapse motorlock tower
+6. free angle!!!
+help 2023-05-18 13:06:54 what in the what are you talking about
+help 2023-05-18 13:09:39 why don’t you just like
+help 2023-05-18 13:09:45 invite me to your private server
+help 2023-05-18 13:10:06 watching your reaction to my ping live in 144p
+help 2023-05-18 13:10:22 woah there
+help 2023-05-18 13:10:31 did you just link your own ps to a whole server
+help 2023-05-18 13:10:50 redoing it every time you join a server is stinky
+help 2023-05-18 13:22:29 i mean like
+help 2023-05-18 13:22:40 with angle locking you just hold one button
+help 2023-05-18 13:22:44 then press another button
+help 2023-05-18 13:22:56 yes
+help 2023-05-18 13:22:57 i am
+help 2023-05-18 13:23:04 👍
+bug-reports 2023-05-18 13:24:56 known bug 😃👍
+bug-reports 2023-05-18 13:25:07 (nothing will be done to fix it this is just how it is now)
+creations-chat 2023-05-18 14:01:38 i thought you quit
+creations-chat 2023-05-18 14:33:01 power of friendship brings jef back into plane crazy (hell)
+creations-chat 2023-05-18 15:40:31 yipee
+help 2023-05-18 16:43:46 because it’s connected to the rest of the build
+help 2023-05-18 16:47:43 isn’t this connected
+help 2023-05-18 16:50:09 it doesn’t look that way but there is probably a teeny tiny part of a block connected to something
+help 2023-05-18 16:50:14 100%
+help 2023-05-18 16:50:28 almost always the case when a motorlock isn’t working
+help 2023-05-18 16:50:43 also some blocks have deceptive welding points
+help 2023-05-18 16:50:51 (connection points)
+help 2023-05-18 16:50:56 like certain half blocks
+help 2023-05-18 16:51:03 so just check again
+help 2023-05-18 16:51:16 also don’t ping me again i need to sleep 👍
+creations-chat 2023-05-19 01:35:02 stubby wings
+creations-chat 2023-05-19 01:37:08 ok now tell me if this is good or not (can’t give more angles right now I’m not at home)
+creations-chat 2023-05-19 01:39:46 i need a big red circle with arrows pointing to the part you’re talking about (is it this)
+creations-chat 2023-05-19 02:47:37 hey blues is this still goober
+
+should probably get more angles later
+creations-chat 2023-05-19 02:50:06 would this work
+creations-chat 2023-05-19 02:52:16 i sentence you to 500 angle locked trail blocks
+creations-chat 2023-05-19 02:54:30 anyway better version and round version (no idea what these could be used for but they look nice)
+creations-chat 2023-05-19 02:57:13 anyway if it’s a 2 block wide plane you should try angle locking a bunch of 1x4 triangle wedges together for the sharp tip
+
+
+“no spamming” it was just a gif stupid bot
+creations-chat 2023-05-19 03:16:14 you can’t do it with motor 2
+creations-chat 2023-05-19 03:18:42 what else do you think? these are the only motor 2s in the picture. you need to use regular motors with the lock function
+creations-chat 2023-05-19 03:21:16 you align it manually with blocks, then disconnect the blocks after you align them. Use tnt to delay the collapse of the motorlock tower
+creations-chat 2023-05-19 03:31:17 the camera is clogging the motorlock
+creations-chat 2023-05-19 03:36:01 me when the lack of understanding of motorlocks
+creations-chat 2023-05-19 04:08:49 i just noticed now but is your tomcat like 3-4 blocks too short
+creations-chat 2023-05-19 10:54:25 too big for my mirage and I already fixed my mirage’s nose yesterday
+bug-reports 2023-05-19 10:58:13 (most obvious troll in the history of trolls) you stupid dumbass! you idiot! pc2 doesnt exist are you stupid?
+bug-reports 2023-05-19 10:59:05 he literally has creations blacklist and is talking about having 12 expert roles despite there only being 8
+bug-reports 2023-05-19 11:00:21 he. is. messing with you.
+bug-reports 2023-05-19 11:00:59 for crying out loud he is calling people whitenames without them actually beinng whitenames
+bug-reports 2023-05-19 11:01:45 how could anyone in a million years take such an obvious troll seriously
+creations-chat 2023-05-19 12:24:55 costom
+creations-chat 2023-05-19 12:29:29 happens to me when i have high ping
+creations-chat 2023-05-20 00:35:22 the two inches of progress (please finish it ong i wanna see the final product)
+creations-chat 2023-05-20 00:44:16 meanwhile my mirage which i started all the way back at the start of april:
+creations-chat 2023-05-20 00:47:16 my god i found the first image
+creations-chat 2023-05-20 00:49:41 another old image
+creations-chat 2023-05-20 00:52:35 come to think of it i didnt really play plane crazy much before march of this year aside from when i started back in july last year
+help 2023-05-20 01:15:10 wedge or half block wedge
+help 2023-05-20 01:15:28 or just half wedge
+help 2023-05-20 01:15:36 from the half blocks category
+help 2023-05-20 01:16:34 joining you ingame
+help 2023-05-20 01:19:28 okay nevermind he’s afk
+creations-chat 2023-05-20 02:09:33 i think i painted it metal back then so i could see the blocks better (bad plane crazy lighting)
+creations-chat 2023-05-20 02:49:23 you’re gonna build a m(bad word!!!) lab in plane crazy
+creations-chat 2023-05-20 03:34:32 no way it’s rickje139!!
+creations-chat 2023-05-20 04:18:41 how hard would it be to copy this livery
+creations-chat 2023-05-20 04:58:27 how would you do the hexagons
+creations-chat 2023-05-20 05:00:59 and and and uhhh cam lock andn
+creations-chat 2023-05-20 05:03:05 the ###### in question:
+
+<:nooo:787097964946259978>
+creations-chat 2023-05-20 10:43:43 thank you roblox for shielding my eyes from the horrifying imagery of a blue square
+creations-chat 2023-05-20 16:08:56 make up your mind
+creations-chat 2023-05-21 05:27:40 you know I wanna side with you because I feel bad but you’re doubling down so hard and making yourself look bad
+creations-chat 2023-05-21 05:29:45 “when did you stop rooting for diokarako”
+creations-chat 2023-05-21 05:31:54 you’re the one who brought up taking a massive shit unprompted
+creations-chat 2023-05-21 05:35:13 you are actively making the situation worse for yourself by continuing to talk
+
+me when the lack of self awareness
+creations-chat 2023-05-21 05:40:16 ok now that the t-95 discussion is done what should I do with this
+creations-chat 2023-05-21 05:42:28 mirage 5s have long noses what can I say (also the lip of the intakes is already at the right position don’t @ me)
+creations-chat 2023-05-21 05:44:53 i have consulted several people about the nose and they all said it looks better than before and now people are telling me to change it again 😃
+
+maybe I need to get more pictures
+creations-chat 2023-05-21 05:47:29 before and after
+
+this would have been so much simpler if they would just add cones (how can you not have a cone block in A PLANE GAME???)
+creations-chat 2023-05-21 05:49:31 I have been putting off doing that for a while now but maybe today I will do it
+creations-chat 2023-05-21 05:51:51 that is only on the variants that were upgraded in Pakistan’s ROSE program 
+
+anyway here is a slightly outdated top view ignore the sign on the tail
+
+maybe I should add it idk
+creations-chat 2023-05-21 05:58:06 piston lock camo fans when they get 170k ping on launch
+creations-chat 2023-05-21 16:29:15 <@370972492233310210> 11.1k blocks and I can’t see any of them because you took the pictures at night <:empty:794431705070174238>
+creations-chat 2023-05-22 04:14:21 daily 2 blocks of progress post
+creations-chat 2023-05-22 09:49:31 the 500th tomcat post
+creations-chat 2023-05-22 10:16:22 3000 roblox tomcats of pcc
+help 2023-05-23 00:31:34 use powered motorlocks
+help 2023-05-23 00:31:43 motor 2s are notoriously weak
+help 2023-05-23 00:32:11 you will have to manually align the wings
+help 2023-05-23 00:32:28 you could also put in blocks to push them up against so they don’t go past your desired angle
+help 2023-05-23 00:32:57 normal motors with the lock function on*
+help 2023-05-23 00:36:22 it will be if it’s the first time
+help 2023-05-23 00:38:55 if you want to move over 500 speed without suffering through the fps lag of hover drives then you need to use conveyors
+help 2023-05-23 00:39:25 rocket engines have drag which limits your max speed with them to ~600
+help 2023-05-23 00:39:41 that just means you need to stabilize your plane for conveyor engine speeds
+help 2023-05-23 00:40:30 motorlock
+help 2023-05-23 00:40:41 that’s how everyone stabilizes their planes
+help 2023-05-23 00:40:48 motorlock in more wing panels
+help 2023-05-23 00:40:59 add or subtract as needed
+help 2023-05-23 00:45:17 what did you do
+help 2023-05-23 00:45:45 
+help 2023-05-23 03:19:52 plane crazy <#478584971670454284> people on their way to ask you 5 questions every single block they place instead of trying to figure out at least part of it themselves
+help 2023-05-23 05:32:44 https://tenor.com/view/walter-white-falling-walter-white-breaking-bad-falling-gif-25642150
+help 2023-05-23 05:35:22 it’s the next 5th stealth fighter can’t you see
+creations-chat 2023-05-23 09:03:02 https://tenor.com/view/look-at-this-photograph-gif-25290696
+creations-chat 2023-05-23 09:07:14 3000 f-14 tomcats of pcc
+bug-reports 2023-05-23 21:46:13 plane crazy community members on their way to argue about literally nothing with random strangers they’ve never met irl before
+creations-chat 2023-05-24 00:53:52 <@793887766022455316> why is your mig-21 not a delta wing
+bug-reports 2023-05-24 01:10:11 what
+help 2023-05-24 05:00:44 didnt i already tell you
+help 2023-05-24 05:54:51 https://tenor.com/view/saul-goodman-better-call-saul-saul-goodman3d-meme-breaking-bad-gif-24027228
+creations-chat 2023-05-24 05:55:15 DAILY 2 BLOCKS OF TOMCAT PROGRESS
+creations-chat 2023-05-24 06:59:43 ok my bad
+
+DAILY 2 PIXELS OF TOMCAT PROGRESS
+creations-chat 2023-05-24 07:09:37 how do you have 4 expert roles
+creations-chat 2023-05-24 07:12:33 ok so you get a motorlock tower and put tnt on it first so you can choose when to lock the tower, get a powered motor with the lock function, place it on the motorlock tower, connect the blocks you want to angle lock to the powered motorlock, and then when you launch you move the powered motorlock before collapsing the motorlock tower
+
+the blocks that were moved by the powered motorlock will stay at the position you angled them in even when you collapse the tower (if you do it correctly)
+creations-chat 2023-05-24 07:16:12 do not hold the button you use for angling the blocks while you collapse the motorlock tower or it will break your build 👍
+
+also, don’t use motor2 for angling blocks because it does not have a lock setting
+creations-chat 2023-05-24 07:26:32 photos courtesy of my iphone 7
+
+blue motor is for angle locking, keep the “powered” setting and “lock” settings on
+
+green blocks are the ones being angle locked
+creations-chat 2023-05-24 07:28:59 when you launch, move the motor and the blocks connected to it to your desired position and then collapse the motorlock tower using tnt/springs/disconnectors. if you do it correctly then the angled blocks should merge with the other blocks in the build and stay like in the third image
+
+obviously this can also be used in situations where you don’t need the angled blocks to merge with other blocks
+creations-chat 2023-05-24 09:36:28 the mig 21 is a delta wing, more specifically a tailed delta wing
+creations-chat 2023-05-24 09:47:49 which mig21 variant are you trying to build anyway
+creations-chat 2023-05-24 09:58:57 ok so do these real life pictures depict a romanian mig-21 with slightly angled wings
+help 2023-05-24 09:59:56 paint the bottom or flat sides of the cutters
+creations-chat 2023-05-24 10:03:35 also regardless of the wings your vertical stabilizers are just plain wrong
+creations-chat 2023-05-24 11:02:16 motorlocking:
+creations-chat 2023-05-24 11:05:34 well it’s the way you’re asking for
+creations-chat 2023-05-24 11:12:39 it’s only like that for you because you aren’t used to it
+
+not even months, you’ll get used to it in just a few days if you work with it
+creations-chat 2023-05-24 11:14:59 that’s the spirit
+creations-chat 2023-05-24 11:43:46 if the wheels function and actually make the tank move then I can understand that but if they’re also non-functional then he might as well have just added fake tracks as well
+
+(accidentally uses “as well” twice in the same sentence)
+help 2023-05-24 11:45:15 compact reloadable cannons are way too complicated and extremely unreliable
+help 2023-05-24 11:45:24 + they are highly impractical
+help 2023-05-24 11:46:09 tnt cannons in general as well as block-built missiles are mostly useless past certain speeds because of explosion delay
+help 2023-05-24 11:46:26 (as in the explosion radius of the tnt lags behind the actual tnt block)
+help 2023-05-24 11:47:52 your best option for a cannon type explosive is to wait 6 months for the winter event so you can get firework launchers
+help 2023-05-24 11:48:04 (or just buy it, up to you)
+help 2023-05-24 11:48:34 if you really want a tnt cannon your best option is to make a non-reloadable one
+help 2023-05-24 11:49:12 also, magnets are the most reliable for propelling the tnt balls
+help 2023-05-24 11:49:19 just make the barrel out of ice
+help 2023-05-24 11:49:32 (use the paint tool and go to materials)
+help 2023-05-24 11:49:45 ah
+help 2023-05-24 11:49:59 that would be because you made the magnets too strong
+help 2023-05-24 11:50:23 try putting one magnet at the start of the cannon to push the tnt out and then add magnets on the muzzle
+help 2023-05-24 11:50:40 the magnets at the muzzle will be the ones doing the launching
+creations-chat 2023-05-24 11:52:03 can’t the sliding be solved using a bunch of maximum drag hover thrusters
+help 2023-05-24 11:52:15 it depends
+help 2023-05-24 11:52:28 i can’t go into the game to test right now so you might want to check youtube
+help 2023-05-24 11:53:50 yes, mostly because if you make the cannon too big then it will be too heavy for the motors to move it without bugging out
+help 2023-05-24 11:54:01 as for accuracy I’m not sure
+help 2023-05-24 11:54:21 👍
+creations-chat 2023-05-24 11:55:16 flip some of the sparklers on the barrel so that you have less squares
+
+no i don’t think it’s a working track it has a bunch of trails motorlocked into it
+creations-chat 2023-05-24 11:57:48 <@604636023141433365> honestly just paint it and move the fake wheels closer together (maybe make them smaller and then move them closer)
+creations-chat 2023-05-24 11:59:51 did you ever start the mirage 5 you were gonna one-up me with
+creations-chat 2023-05-24 12:02:02 raaaahh do it NOW! ⚡
+creations-chat 2023-05-24 12:49:00 you built that on mobile? ok never mind good job <:Upvote:490311647492309004>
+creations-chat 2023-05-24 12:52:37 just make the vertical stabilizers have a sharper trailing edge angle honestly (this part)
+help 2023-05-24 12:55:36 there’s not much we can say except “you make it look cool”
+help 2023-05-24 12:55:43 add decals or something
+help 2023-05-24 12:56:22 sarcasm
+creations-chat 2023-05-24 12:59:41 could be that he ran out of space in that area because motorlocks/something else is in the way
+creations-chat 2023-05-24 13:02:41 he is talking about the landing gear raaahh move it to where the arrow is
+
+also tail wing leading edge is not angled sharply enough!!!
+help 2023-05-24 13:05:19 don’t listen to eskeline)))
+creations-chat 2023-05-24 13:08:52 we are just trying to help you make it look as good as possible don’t be like that
+creations-chat 2023-05-24 13:11:13 on jod we are just giving you tips so that you can no longer be a newbie
+
+this is why everyone hates whitenames
+creations-chat 2023-05-24 13:14:26 shut up jeff you can’t even place more than two blocks a day on your tomcat!!! (i want to see it already!!! 🗣️🔥)
+creations-chat 2023-05-24 13:16:31 when the joke message is misinterpreted as a serious insult! (i send him this same type of message everyday!!!)
+help 2023-05-24 13:43:53 https://tenor.com/view/walter-white-breaking-bad-sad-crying-phone-gif-20022348
+help 2023-05-24 13:44:40 i was about to say
+help 2023-05-24 13:44:56 “asoulessplayer try not to send the same walter white gif everytime”
+help 2023-05-24 13:45:49 https://tenor.com/view/walter-white-breaking-bad-sad-crying-phone-gif-20022348
+help 2023-05-24 13:45:59 👽
+creations-chat 2023-05-24 19:54:18 FINALLY
+
+DAILY LARGE AMOUNTS OF TOMCAT PROGRESS POST
+creations-chat 2023-05-24 19:57:05 https://tenor.com/view/no-sad-frustrated-no-way-yell-gif-17334973
+creations-chat 2023-05-24 20:01:03 as long as you finish it 👍 (plane crazy will find a way to bug out and make it stop working/give you 70k ping 😃)
+
+also is there space for landing gear
+
+<:shock:1098116005252841503>
+creations-chat 2023-05-24 20:12:14 if i can fit the landing gear into my stupid messy motorlock system then you can too i believe in you jeff!1!
+creations-chat 2023-05-24 20:22:01 https://tenor.com/view/senator-armstrong-facts-brother-so-true-my-friend-gif-25938367
+creations-chat 2023-05-24 20:28:25 flightpoint players pressing 3 buttons to make a detailed angled slope vs plane crazy players putting their blood sweat and tears into a build just to finish the nose of their plane
+creations-chat 2023-05-24 20:37:40 i changed the hover engine in my mirage to a bunch of rocket thrusters and my fps increased by 10 👍
+
+never using hover thrusters again ong
+creations-chat 2023-05-24 20:42:46 i can just use conveyors for that anyway
+creations-chat 2023-05-24 20:45:38 it's just one conveyor on a motor2 ill be fine 
+
+(THE SOUND OF THE ROCKETS IS KILLING ME)
+
+what is it (sorry i cant tell)
+creations-chat 2023-05-24 20:53:55 either rotated wedge 1x2s, regular jet engine, or if you want more angle locking pain then the funny angled wing/control panel
+creations-chat 2023-05-24 20:59:42 personally i prefer control panels so you can have the nozzle contract when you use afterburner
+creations-chat 2023-05-24 21:01:49 still applies, just make it 2x2 👍 (angle locking it will be a pain)
+creations-chat 2023-05-24 21:03:57 small on purpose because the moving part on the real thing doesnt stick out that much 👍
+creations-chat 2023-05-24 21:09:29 yeah i was just giving an example, probably should have said
+help 2023-05-24 21:11:12 if you angle lock enough blocks together then you can make it but then you’ll have a bunch of super dense and heavy wheels
+help 2023-05-24 21:11:38 it will take you a lot of blocks
+help 2023-05-24 21:12:04 it’s like those custom nosecones you’ll see sometimes on builds
+help 2023-05-24 21:12:24 they look nice but you just know they kill performance and take up tons of building space
+creations-chat 2023-05-24 21:25:18 yeah it does but I’m too sleepy to fix it right now 👍
+creations-chat 2023-05-25 07:40:09 ballast blocks
+creations-chat 2023-05-25 11:56:40 because a lot of them don’t look too great
+
+high standards of pcc <:stuff:908917207986208828>
+help 2023-05-25 14:13:41 the autosave slot in question:
+creations-chat 2023-05-25 14:52:53 i mean the f-20 a derivative of the f-5, of course they’re gonna look similar
+creations-chat 2023-05-27 07:07:40 https://discord.com/channels/384021699466756103/384025409945337856/1111803098424410123 “simple building style” > proceeds to post a build that could pass as a 3d model
+
+morfix behavior honestly
+creations-chat 2023-05-27 18:21:00 I’m gonna be real with you man your mini build is nice but you talk like you’re above everyone else
+creations-chat 2023-05-27 18:23:25 also not that good of a look to call your own build good just saying
+
+that’s fair
+
+i foresee a large paragraph in my future
+creations-chat 2023-05-27 18:29:14 all I have to say is what can be considered “good” and what can be considered “bad” is and always will be subjective
+creations-chat 2023-05-28 12:05:56 this is how i finished my mirage
+help 2023-05-28 17:14:39 is it possible to explode the block part of a pvp rocket and still have it function
+help 2023-05-28 17:21:18 i was just thinking about it since you can do the same thing with jet engines
+help 2023-05-28 17:21:29 explode the blades inside so you can have a hollow tube
+help 2023-05-28 17:21:38 with a specific charge of tnt
+help 2023-05-28 17:22:05 add more wing panels inside the plane
+help 2023-05-28 17:22:22 there are gazillions of youtube videos about how to fix wobbling
+help 2023-05-28 17:23:04 you use motorlocking
+help 2023-05-28 17:23:09 to put more wing panels inside
+help 2023-05-28 17:23:12 it’s not rocket science
+help 2023-05-28 17:23:29 it isn’t, you just need to tune your plane
+help 2023-05-28 17:23:59 i know
+help 2023-05-28 17:24:17 can you show me what kind of wobbling you mean
+help 2023-05-28 17:24:44 is it just wobbling up and down/ side to side when you fly
+help 2023-05-28 17:24:51 that is normal and everyone has to deal with that
+help 2023-05-28 17:25:07 exactly
+help 2023-05-28 17:25:09 everyone
+help 2023-05-28 17:25:12 has to deal with that
+help 2023-05-28 17:25:17 you fix it by balancing your plane
+help 2023-05-28 17:25:26 with ballast blocks and extra wing panels
+help 2023-05-28 17:25:40 it is literally because your plane is unbalanced
+help 2023-05-28 17:25:46 why would they fix a core game feature
+help 2023-05-28 17:25:56 it was in the in-game tutorial
+help 2023-05-28 17:26:00 they explain to you
+help 2023-05-28 17:26:04 that your plane
+help 2023-05-28 17:26:08 needs to be balanced
+help 2023-05-28 17:26:12 the yellow and blue balls
+help 2023-05-28 17:26:31 https://tenor.com/view/aneurysm-hhhhomeboyyyy-kings-dark-tidings-saga-by-kel-kade-reaperleviathan-head-explode-gif-21578105
+help 2023-05-28 17:27:16 nikko do you understand the concept of center of mass
+help 2023-05-28 17:27:19 and center of lift
+help 2023-05-28 17:27:58 just
+help 2023-05-28 17:28:01 join a different one
+help 2023-05-28 17:28:10 go to a pvp server or something
+help 2023-05-28 17:28:41 you could just blacklist everyone if you don’t want to get interrupted
+help 2023-05-28 17:30:07 you know what
+help 2023-05-28 17:30:15 just
+help 2023-05-28 17:30:19 join my private server
+help 2023-05-28 17:31:33 copy the link because i need to delete the message
+help 2023-05-28 17:33:09 is this you
+help 2023-05-28 17:33:39 go to your server list
+help 2023-05-28 17:33:44 refresh it or whatever
+help 2023-05-28 17:34:20 go ahead
+bug-reports 2023-05-28 22:15:04 
+bug-reports 2023-05-28 22:45:46 
+creations-chat 2023-05-29 14:03:55 can’t even say “daily 2 blocks of tomcat progress” anymore because there are 0 blocks now
+creations-chat 2023-05-30 02:20:50 are these drop tanks too fat
+creations-chat 2023-05-30 02:29:06 <@866848584888877077> can i borrow (steal) your drop tank design
+creations-chat 2023-05-30 02:54:22 https://tenor.com/view/discordian-discord-brick-hill-discordia-nba-youngboy-gif-25717262
+creations-chat 2023-05-31 08:33:27 seriously answer: if you use motor2s for your control surfaces give them a bigger maximum angle, and put more wing panels in the front of your plane
+help 2023-05-31 08:37:07 or just press escape or open roblox chat while holding it
+creations-chat 2023-05-31 09:19:03 it is actually roscale (russia cant afford to build full scale su-57s so this demonstrator is all they can muster)
+creations-chat 2023-05-31 09:25:29 i think russia is funny to watch because they flop so often
+creations-chat 2023-05-31 14:57:05 better droptanks now yipee
+help 2023-05-31 16:13:50 roblox is down
+bug-reports 2023-05-31 16:13:59 roblox is down
+bug-reports 2023-05-31 16:14:01 now shush
+bug-reports 2023-05-31 16:14:11 just wait for everything to start working again
+bug-reports 2023-05-31 16:14:24 for once it’s a roblox issue and not a rickje issue
+bug-reports 2023-05-31 16:14:36 **ROBLOX IS DOWN!!!**
+bug-reports 2023-05-31 16:15:04 ooo you like boys don’t you
+bug-reports 2023-05-31 16:15:08 you’re a boykisser aren’t you
+creations-chat 2023-06-01 02:05:31 me when i get mad over absolutely nothing (i am a pcc member it is in my blood)
+creations-chat 2023-06-01 03:28:03 <@467459282250629120> 5 centimeters of exposed motorlock!!!
+help 2023-06-01 10:17:05 wing panels connected to motor 2 with inverted setting
+creations-chat 2023-06-01 10:25:54 whar is lock
+help 2023-06-01 10:34:23 too much weight on the motor
+help 2023-06-01 10:35:40 👍
+help 2023-06-01 10:54:55 are the wings painted
+help 2023-06-01 10:55:37 like with a material
+help 2023-06-01 11:03:14 are they noclipping into other blocks
+help 2023-06-01 11:04:45 hm
+creations-chat 2023-06-01 12:12:52 dynamite no worky in non pvp server 😭 😭 🤮
+creations-chat 2023-06-01 12:16:30 https://tenor.com/view/104-gif-19958882
+creations-chat 2023-06-01 19:09:13 this thing what is this <@348549871470379030> what is it
+
+why does this viper have a dumpy
+creations-chat 2023-06-01 20:53:58 it’s shaped like a banana can you straighten its posture
+help 2023-06-02 12:31:29 you already did it with the front
+help 2023-06-02 12:31:34 why can't you just
+help 2023-06-02 12:31:35 do it again
+creations-chat 2023-06-03 10:05:24 should i keep the fans of the jet engine in or make it hollow
+creations-chat 2023-06-03 10:10:33 https://tenor.com/view/milk-choco-chocolate-chocolate-milk-jug-gif-21568651
+creations-chat 2023-06-03 10:15:29 no space inside fuselage 😭 😭 (i want bottom to be flat!!!)
+
+
+
+raaahhhh how was that spamming dyno it was a gif
+creations-chat 2023-06-03 10:21:49 https://tenor.com/view/disintegrate-gif-22469816
+bug-reports 2023-06-03 10:31:31 known bug
+help 2023-06-03 10:56:05 build an electric lightning
+creations-chat 2023-06-03 16:22:23 left of course
+creations-chat 2023-06-03 19:01:42 making a cheese wedge what should it have
+creations-chat 2023-06-03 19:14:45 tank with no turret and massive gun 👍
+creations-chat 2023-06-03 19:16:49 cheese wedge tank 💯
+creations-chat 2023-06-04 21:24:39 at least it exists <:nails:1098115968137445478> i haven’t even seen your tomcat nose for a while now
+creations-chat 2023-06-04 21:26:54 (it was a joke please take as long of a break as you want 😃👍)
+
+((daily 0 blocks of tomcat progress))
+creations-chat 2023-06-04 21:31:11 it has absolutely nothing to do with the build i just like mentioning the nose when i see jeff <:stuff:908917207986208828>
+creations-chat 2023-06-05 18:06:20 stop fishing for attention nobody cares about your shredder
+creations-chat 2023-06-06 08:43:17 1000iq exposed motorlock hiding strategy
+help 2023-06-06 14:14:14 i am 90% sure a recent roblox update broke plane crazy
+help 2023-06-06 14:14:15 again
+creations-chat 2023-06-06 18:46:09 do i stick with the cylinder nose
+creations-chat 2023-06-06 18:50:17 that's what ive been saying to myself aaauugggghhh how do i choose
+
+problem with the cylinder is that i cant replicate it on the rest of the plane's curves because there's no space to build it
+creations-chat 2023-06-06 18:54:28 can't do that because of this, also <@814978152672657458> if i were to try and smooth out the tip i would have to angle lock 500 trail blocks into a cone
+creations-chat 2023-06-06 18:56:30 can't do camera locking on top of motorlock and angle lock <:shock:1098116005252841503>
+creations-chat 2023-06-06 18:59:30 because most of us act dumb, either because of being a kid or because of not reading the <#925522972586967092> channel before asking a question
+
+or because of getting really mad after receiving criticism (though sometimes the "criticism" is just bullying in which case it's kinda understandable to get mad)
+creations-chat 2023-06-06 19:02:01 pcc mindset means that instead of correcting someone or helping them you yell at them and send the whitename activity gif (cue eskeline coming in to reply to me and send the whitename activity gif)
+creations-chat 2023-06-06 19:41:06 yes because rockets phasing through enemies and tracking the sun is very fun
+creations-chat 2023-06-06 19:43:21 anyway canopy frame should i go through with it (if i want to build the rest i will have a lot of angle locking in my future)
+help 2023-06-06 20:53:17 what is this
+help 2023-06-06 20:53:39 you gotta move in inwards
+help 2023-06-06 20:54:01 are you sure
+help 2023-06-06 20:54:08 let me join you are you in a public server
+help 2023-06-06 20:54:39 by inwards i mean towards the fuselage
+help 2023-06-06 20:55:22 yeah
+help 2023-06-06 20:55:26 or or
+help 2023-06-06 20:55:32 because i think what’s happening is that
+help 2023-06-06 20:55:44 when the motorlock tower collapses
+help 2023-06-06 20:56:00 the motor 2s for your vertical stabilizer twitch upwards a bit
+help 2023-06-06 20:56:09 which causes the wing panels to clip into the motor
+help 2023-06-06 20:56:37 you can prevent this by welding the stabilizer to another block to prevent it from twitching using tnt/springs
+help 2023-06-06 20:56:53 then disconnect/explode the tnt/springs to unweld the stabilizer
+help 2023-06-06 20:58:53 (wouldn’t be a problem if rickje would get around to fixing motor 2s from being incredible weak but oh well)
+help 2023-06-06 20:59:48 just do what i mentioned
+help 2023-06-06 21:00:11 stick the vertical stabilizer to another stationary block using tnt or springs and then disconnect them after the motorlock tower collapses
+help 2023-06-06 21:00:15 see if it works
+help 2023-06-06 21:00:29 cause i can see in the image that it’s forcefully tilted upwards by a bit
+help 2023-06-06 21:04:02 guess i have to hop on plane crazy now
+help 2023-06-06 21:06:25 are you alive
+help 2023-06-06 21:06:28 im standing on your head
+help 2023-06-06 21:07:10 chat is dying
+help 2023-06-06 21:07:16 were you able to fix it
+help 2023-06-06 21:07:28 can you spawn it
+help 2023-06-06 21:07:35 also is this a pvp or non pvp server
+help 2023-06-06 21:10:14 <@602922097513201676> something is still blocking it
+help 2023-06-06 21:10:21 probably from somewhere higher in the motorlock tower
+help 2023-06-06 21:10:57 yes
+help 2023-06-06 21:10:58 text has no hitbox
+help 2023-06-06 21:16:16 honestly the only way is to either move it a whole block or use pistons to move it .1 studs
+help 2023-06-06 21:16:19 or
+help 2023-06-06 21:16:22 if you want
+help 2023-06-06 21:16:31 you could reconstruct it using angle locked disconnectors
+help 2023-06-06 21:16:50 which would move it to the right slightly and give space for the vertical stabilizer
+help 2023-06-06 21:16:58 yeah i know
+help 2023-06-06 21:19:05 disconnectors/trapdoors whichever you prefer
+help 2023-06-06 21:19:10 angled to look like wing panels
+help 2023-06-06 21:27:21 there's a first time for everything
+help 2023-06-06 21:34:32 good idea
+help 2023-06-06 21:34:39 yeah go and try that
+help 2023-06-06 21:34:42 also check your server list
+help 2023-06-06 21:37:21 nice
+help 2023-06-06 21:37:50 just make sure the piston has both toggle and lock and make sure to wait a few seconds after extending it before collapsing the motorlock tower
+help 2023-06-06 21:37:54 or else it will bug out
+help 2023-06-06 21:39:41 👍
+help 2023-06-06 21:48:11 i dont apply for anything
+help 2023-06-06 22:05:23 ok
+help 2023-06-06 22:05:26 eskeline
+creations-chat 2023-06-08 00:44:27 mirage 5 has a long nose 👍
+creations-chat 2023-06-08 13:58:29 <@721908663694131281> it looks like a cow in this picture lol
+creations-chat 2023-06-09 02:39:28 ok now my turn, i just woke up give me your criticism on my mirage
+creations-chat 2023-06-09 02:44:06 https://tenor.com/view/milk-choco-chocolate-chocolate-milk-jug-gif-21568651
+creations-chat 2023-06-09 05:48:21 <@625227708921806858> stop reposting the same build over and over and over and over again
+creations-chat 2023-06-09 05:51:24 you pinged the ~~wrong~~ right person <:stuff:908917207986208828>
+creations-chat 2023-06-09 06:36:09 read <#925522972586967092>
+help 2023-06-09 11:30:53 i genuinely cannot tell what is in the picture can you zoom out
+help 2023-06-09 11:32:24 no seriously can you zoom out
+help 2023-06-09 11:32:41 i cannot form an image in my head of what the rest of the build in the picture looks like
+help 2023-06-09 11:32:46 or what blocks i am looking at
+help 2023-06-09 11:34:26 ohhhh
+help 2023-06-09 11:34:58 have you tried triangle wedges
+help 2023-06-09 11:35:11 looks like a 1x2 would fit
+help 2023-06-09 11:35:25 wait no
+help 2023-06-09 11:35:26 hmm
+help 2023-06-09 11:37:41 i would say it needs angle locking but there should be a simpler answer than that
+help 2023-06-09 11:38:23 what’s the wedge on top of the space
+help 2023-06-09 11:38:34 is it 1x4
+help 2023-06-09 11:39:19 what if you reduced it to 1x3 and used some triangle block wedges in combination with 1x3 or 1x4 triangle wedge
+creations-chat 2023-06-09 15:57:39 make the f-22 but with the engine configuration of the english electric lightning
+creations-chat 2023-06-10 22:21:36 read <#925522972586967092>
+creations-chat 2023-06-12 04:18:06 you can’t
+
+that’s not how camera locking works
+creations-chat 2023-06-12 04:20:13 you need to make the pilot seat and rest of the build motorlock towards the camera lock and not the camera lock going towards the seat
+creations-chat 2023-06-12 14:33:27 he said it in reference to a post that ahh made of an actual wip which he then proceeded to delete after being called out (hence the “not so fast nerd”)
+bot-central 2023-06-13 05:00:25 -servers
+creations-chat 2023-06-13 08:19:43 doesnt the f-14 do that when the wings are swept back
+creations-chat 2023-06-13 09:07:19 they do have those flap things that i don’t know the name of that are embedded in the wings though right?
+creations-chat 2023-06-13 09:43:55 just finished my new space shuttle guys what do you think
+creations-chat 2023-06-16 13:04:39 it’s as simple as this
+
+blue motor is a powered motorlock, green blocks are the blocks you want to angle
+creations-chat 2023-06-16 13:06:42 no, motor2 cannot be used for angle locking because it has no lock setting. you need to use a regular motor with both lock and powered settings on, then move it to the position you want to angle the blocks in.
+creations-chat 2023-06-16 13:08:51 people get around this by having temporary blocks to stop the angled blocks from moving past the angle they want
+
+it’s not rocket science it’s literally just moving blocks with a motor before you collapse the motorlock tower
+creations-chat 2023-06-16 13:11:54 it’s extremely useful but if you’re like me and really need to get every angle on a build to be just right then it’s gonna end up looking like this pre launch
+creations-chat 2023-06-16 15:37:06 will it have a glass canopy or you’re just gonna paint it black to cover the motorlocks
+creations-chat 2023-06-16 15:40:00 can you maybe try to replace the half wedges on the nose with motorlocked half cylinders
+creations-chat 2023-06-16 15:42:07 like this (outdated picture (didnt even keep it))
+creations-chat 2023-06-16 17:35:33 turn on both lock and powered on the motors so they don’t split after you fold it, and turn on physics on any anchor blocks in the build
+bug-reports 2023-06-18 15:22:40 the lock setting on motors in question:
+creations-chat 2023-06-19 02:53:55 put two trapdoors/disconnectors side by side
+creations-chat 2023-06-19 04:19:07 then just use half blocks <:shock:1098116005252841503> it’ll take like two motors at most
+creations-chat 2023-06-19 04:22:27 you center it with one motor and then angle lock it with the second motor
+
+or use pistons idfk
+help 2023-06-19 05:38:07 check your ping
+help 2023-06-19 05:38:50 sometimes the game has a seizure if you
+a) move too many motors with blocks on them at the same time
+b) explode a lot of tnt (like in motorlock towers)
+help 2023-06-19 05:39:22 if that happens then your best option is to go to a private server
+help 2023-06-19 05:39:29 or keep reloading the build
+help 2023-06-19 05:40:47 yes that would be an issue
+help 2023-06-19 05:41:09 i would try binding some of them to a second key if they’re piston locks so that you’re not moving everything at the same time
+help 2023-06-19 06:37:43 honestly too short but i guess you’re not building it to scale so it’s fine
+creations-chat 2023-06-19 06:41:09 did you mean to say far off then
+
+if you say far from off then that would mean very close
+help 2023-06-19 08:55:07 how is he gonna do that it’s a 1 wide
+help 2023-06-19 08:55:38 did you prepare for this exact response
+help 2023-06-19 08:55:48 by readying up that screenshot
+help 2023-06-19 08:55:51 who does that
+help 2023-06-19 08:55:58 https://tenor.com/view/jet-bean-killer-bean-ragdoll-ragdoll-fall-gif-23762382
+help 2023-06-19 08:56:22 ok but,
+help 2023-06-19 08:56:32 i bet his nose is full of blocks or locks
+help 2023-06-19 08:56:39 probably can’t fit anything
+help 2023-06-19 08:56:53 honestly quite incredible
+creations-chat 2023-06-19 08:57:10 the reverse motorlocking in question:
+help 2023-06-19 08:57:27 i know how to make landing gear rahgh
+creations-chat 2023-06-19 09:56:53 yeah because they’re made of fabric
+creations-chat 2023-06-24 14:13:29 just put more than one color on it <:stuff:908917207986208828>
+creations-chat 2023-06-29 04:27:57 doctorhayman has a su 34 go ask him how he made the nose
+creations-chat 2023-06-29 04:30:06 you be the judge
+creations-chat 2023-06-29 05:14:11 you forgor again
+help 2023-07-03 15:10:19 nose looks too long
+help 2023-07-04 12:41:21 just spam a ton of blocks in the corner of your plot so it moves
+help 2023-07-04 12:46:41 hide the motors and gaps in the elevons
+creations-chat 2023-07-04 13:09:20 maybe he wants it to be functional
+creations-chat 2023-07-04 15:32:08 he said four words where did this response come from
+bug-reports 2023-07-05 06:26:26 krill issue
+bug-reports 2023-07-05 14:30:59 wtf real rickje response⁉️
+creations-chat 2023-07-05 17:56:32 piston lock the hover thruster plsplsplspls it would look so nice
+bot-central 2023-07-05 18:05:10 -servers
+creations-chat 2023-07-06 01:28:27 
+creations-chat 2023-07-12 09:26:46 this is the average filipino teenager
+creations-chat 2023-07-14 04:32:32 https://discord.com/channels/384021699466756103/384025409945337856/1124679584240111666
+
+the upvote difference

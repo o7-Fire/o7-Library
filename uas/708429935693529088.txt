@@ -1,0 +1,13 @@
+The Tale of spoofls (708429935693529088)
+creations-chat 2022-05-14 19:48:12 anyone know how to make a bipedal "dinosaur" thing stable and not fall when it runs. Also not like a mech kind of walk, im talking like a fast and stable run
+creations-chat 2022-05-14 19:51:22 thanks for the help, but would i get similar results as the goose in the video https://www.youtube.com/watch?v=-MSfHQaHNNg&t=23s (this is not my channel or an ad).
+creations-chat 2022-05-14 19:54:07 ok so what would be the better and easier option, also if i used motor2s, then how will i make it run
+help 2022-05-15 16:21:12 so im trying to make a thing where there are mortor2s and wherever i point i want to go there by using propellers. but the motor2s keep flinging everywhere, like going side to side on their own, even if i replace the propellers with a conveyor engine, it  still flings around side to side, any help?
+help 2022-05-15 16:26:26 both are at 1000 torque
+help 2022-05-15 16:28:33 (sorry i use HDR its so bright) so i alaready had the motor2s at 1000 torque and i switched out the propellers for an converyor engine, same problem
+help 2022-05-15 16:30:25 and when i use the converyor engine, it starts haivng a seizuure
+help 2022-05-15 18:02:30 Just use motor1s?
+help 2022-05-15 18:02:53 It’s gonna be so slow using motor1s
+help 2022-05-15 18:04:31 Duh, but it’s a pain in my ass to press keys instead of pointing my mouse
+help 2022-05-15 18:04:45 Alright
+help 2022-05-15 18:04:51 I hate my life

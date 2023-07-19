@@ -1,0 +1,23 @@
+The Tale of a_melon (342030911472140288)
+bot-central 2020-06-08 06:17:17 =stop
+bot-central 2020-06-08 06:17:32 =volume 1
+bot-central 2020-06-12 02:14:19 =play https://www.youtube.com/watch?v=s49CT4DTAkw&t=1302s
+bot-central 2020-06-12 02:21:59 lol
+bot-central 2020-06-12 02:22:02 sorry
+bot-central 2020-06-12 02:22:13 lol
+bot-central 2020-06-17 20:20:17 =play https://www.youtube.com/watch?v=QuBD81KI9rM
+bot-central 2020-06-17 20:32:48 =skip
+bot-central 2020-06-17 20:32:58 =play https://www.youtube.com/watch?v=QuBD81KI9rM\
+bot-central 2020-06-17 20:33:52 /play https://www.youtube.com/watch?v=Gtv40bOE3U4&list=PL7eu9DjnXNTzmMwF4xfuO0FO3qyjcAUrF&index=2&t=0s
+bot-central 2020-06-17 20:34:20 =playhttps://www.youtube.com/playlist?list=PL7eu9DjnXNTzmMwF4xfuO0FO3qyjcAUrF
+bot-central 2020-06-17 21:04:25 =p play https://www.youtube.com/playlist?list=PL7eu9DjnXNTzmMwF4xfuO0FO3qyjcAUrF
+bot-central 2020-06-17 21:52:15 =skip
+bot-central 2020-06-17 21:52:24 =skip
+bot-central 2020-06-17 21:52:29 =play indominosre1
+bot-central 2020-06-17 21:52:44 =play  https://www.youtube.com/playlist?list=PL7eu9DjnXNTzmMwF4xfuO0FO3qyjcAUrF'
+bot-central 2020-06-17 21:53:00 =play https://www.youtube.com/playlist?list=PL7eu9DjnXNTzmMwF4xfuO0FO3qyjcAUrF
+bot-central 2020-06-17 21:55:38 =skip
+bot-central 2020-06-21 20:30:23 !RANK
+bot-central 2020-06-22 03:58:36 !servers
+the-dump 2020-06-22 04:03:37 
+bot-central 2020-06-22 04:09:27 but why

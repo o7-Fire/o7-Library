@@ -1,0 +1,24 @@
+The Tale of stroopa (1045203490944852058)
+help 2023-06-13 12:14:03 I need help
+help 2023-06-13 12:14:09 I have a T-72
+help 2023-06-13 12:14:14 And I’m stuck in the turret
+help 2023-06-13 12:14:29 As soon as I add motor locking into the turret to make it looks like a T-72 turret
+help 2023-06-13 12:14:35 It stops moving around
+help 2023-06-13 12:27:51 I’m pretty sure it is
+help 2023-06-13 12:28:06 But I cant figure out where that part of the motor lock sits within my tower
+help 2023-06-13 12:28:18 Plus none of my friends are online rn
+help 2023-06-13 12:28:27 They all know motor lock a little bit better
+help 2023-06-13 12:29:09 Ok
+help 2023-06-13 12:29:13 I’ll send some soon
+help 2023-06-13 12:34:22 Ok them
+help 2023-06-13 12:34:43 Sorry for mobile, my laptop dead rn
+help 2023-06-13 12:35:03 
+help 2023-06-13 12:35:17 
+help 2023-06-13 12:35:39 Lil hard to understand
+help 2023-06-13 12:44:27 Ok
+help 2023-06-13 12:58:39 Yeah
+help 2023-06-13 12:58:42 I was thinking that
+help 2023-06-13 12:58:47 I got most of it fixed
+help 2023-06-13 12:59:01 All I did was increase motor torque from 30-1000
+help 2023-06-13 12:59:14 And I made my piston go from 0.75 up to 1
+help 2023-06-13 12:59:26 But I’ll refine that piston as I want it close to the hull

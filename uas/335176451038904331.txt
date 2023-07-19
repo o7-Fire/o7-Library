@@ -1,71 +1,373 @@
-robotics5
-plane-crazy 2020-06-24 23:47:11 since currrently they're wedges
-plane-crazy 2020-06-24 23:47:04 Shouldn't the little house on the floating island have the seats changed to stairs now that those are added?
-plane-crazy 2020-05-27 23:31:38 No clue
-plane-crazy 2020-05-27 23:31:36 Try asking in <#478584971670454284> ?
-plane-crazy 2020-05-27 23:02:23 Dang, I'm running way too low on save slots...
-plane-crazy 2020-05-26 17:56:22 Anyone ever seen a grumman x-29? Really interesting looking
-plane-crazy 2020-05-26 17:53:43 Interesting
-plane-crazy 2020-05-26 17:50:22 I've tried asking in <#497142796961054721> but I get ignored
-plane-crazy 2020-05-26 17:50:09 Hey, so what do the color ranks on the discord mean?
-plane-crazy 2020-05-24 21:47:26 That's exciting
-plane-crazy 2020-05-24 21:42:54 Nice
-plane-crazy 2020-05-24 21:28:30 just makes them strong?
-plane-crazy 2020-05-24 21:28:27 So what does superstrength on magnets do?
-plane-crazy 2020-05-24 20:55:22 Or fly at them head-on
-plane-crazy 2020-05-24 20:54:36 and then feel sad
-plane-crazy 2020-05-24 20:54:31 You try and fail
-plane-crazy 2020-05-24 19:58:57 What does max torque actually do?
-plane-crazy 2020-05-24 03:46:02 Hmm, some discconnectors refuse to work
-plane-crazy 2019-09-08 20:34:53 I drew the map. It's accurate-ish
-plane-crazy 2019-09-08 20:30:07 ty
-plane-crazy 2019-09-08 20:29:35 Does anyone know where to use the &suggest command?
-plane-crazy 2019-08-29 17:30:48 <:Pog:516298810700464128> <:RapidUnscheduledDisassembly:592979206800146472>
-plane-crazy 2019-08-29 17:28:45 I love this https://youtu.be/3VOzKuEhrMY
-plane-crazy 2019-08-29 17:25:49 https://youtu.be/92ZRVlKuc0U
-plane-crazy 2019-08-29 17:24:26 How do you do spoiler tag?
-plane-crazy 2019-08-29 17:23:56 I'll be listening to this on loop for the rest of the day
-plane-crazy 2019-08-29 17:23:40 I just like it
-plane-crazy 2019-08-29 17:23:35 Ik
-plane-crazy 2019-08-29 17:23:23 https://youtu.be/F6W13QMQsag
-plane-crazy 2019-08-29 17:21:06 Karen no
-plane-crazy 2019-08-29 17:19:13 Oh I thought it was different from jetpack
-plane-crazy 2019-08-29 17:18:51 So how do you get flexpack?
-plane-crazy 2019-08-29 17:18:07 <:Flexpack:583491115710414848>
-plane-crazy 2019-08-29 17:16:26 Hmm
-plane-crazy 2019-08-29 17:16:26 
-plane-crazy 2019-08-29 17:16:00 Oh yeah, redstone engine is brown with red center
-plane-crazy 2019-08-29 17:15:26 I want cones and half spheres though
-plane-crazy 2019-08-29 17:15:13 Redstone engine
-plane-crazy 2019-08-29 17:15:06 Nice
-plane-crazy 2019-08-29 17:14:40 Ok
-plane-crazy 2019-08-29 17:14:39 Oh
-plane-crazy 2019-08-29 17:14:24 How bout politics
-plane-crazy 2019-08-29 17:13:39 I love these
-plane-crazy 2019-08-29 17:12:57 <:duck1:592059402866130954> <:duck2:592059419894743041> 
-<:duck3:592059429587779596> <:duck4:592059439389868043>
-plane-crazy 2019-08-29 17:12:21 <:Flexpack:583491115710414848>
-plane-crazy 2019-08-29 17:12:13 .gif is best
-plane-crazy 2019-08-29 17:12:07 Calm down
-plane-crazy 2019-08-29 17:12:04 It's a joke geeze
-plane-crazy 2019-08-29 17:11:35 Needs more jpg
-plane-crazy 2019-08-29 17:11:30 Jpg
-plane-crazy 2019-08-29 17:11:17 It preserves layering
-plane-crazy 2019-08-29 17:11:03 Paint.net
-plane-crazy 2019-08-29 17:10:41 <:YouTried:559530066258821131>
-plane-crazy 2019-08-29 17:10:30 💩
-plane-crazy 2019-08-29 17:09:16 
-plane-crazy 2019-08-29 17:08:36 Like netherack
-plane-crazy 2019-08-29 17:08:28 They burn
-plane-crazy 2019-08-29 17:08:24 My eyes
-plane-crazy 2019-08-29 17:08:15 Oh no
-plane-crazy 2019-08-29 16:31:00 Oh great, zalgo text isn't allowed
-plane-crazy 2019-08-29 16:30:05 LÃMP
-plane-crazy 2019-08-29 16:29:54 LAMP
-plane-crazy 2019-08-29 16:29:26 Great proof
-plane-crazy 2019-08-29 16:29:16 Wow
-plane-crazy 2019-08-29 16:28:03 How bout now?
-plane-crazy 2019-08-29 16:27:08 My dog disaproves
-plane-crazy 2019-08-29 16:26:50 
-plane-crazy 2019-08-29 16:26:12 Yay
-plane-crazy 2019-08-29 16:25:45 Canada good
+The Tale of robotics5 (335176451038904331)
+help 2019-08-28 22:27:56 anyone know where to use the & suggestion command? The suggestions chat says that's how you suggest, but idk where i'm supposed to do that
+help 2019-08-28 22:28:28 oh
+help 2019-08-28 22:28:46 how do i do that?
+help 2019-08-28 22:29:41 ok
+creations-chat 2019-08-28 22:39:21 So i made a massive carrier ship that has 7 smaller vehicles inside of it, it's 2,646 blocks, and is stable, and can turn. Hoping for shipwright IV
+creations-chat 2019-08-28 22:39:23 
+creations-chat 2019-08-28 22:39:24 
+creations-chat 2019-08-28 22:39:25 
+creations-chat 2019-08-28 22:40:09 
+creations-chat 2019-08-28 22:40:25 
+creations-chat 2019-08-28 22:42:36 which part?
+creations-chat 2019-08-28 22:42:53 oh the sides
+creations-chat 2019-08-28 22:43:06 sorry for accidently posting the pics as indivual posts btw
+creations-chat 2019-08-29 01:14:27 Lun-class Ekranoplan, 1004 blocks. (Yes it's a ship, and it can turn)
+creations-chat 2019-08-29 01:24:11 Wait are you saying people don't upvote themselves here?
+creations-chat 2019-08-29 01:24:17 Sorry I'm used to Reddit
+creations-chat 2019-08-29 01:24:37 Also I called it a boat because i didn't expect everyone to know what an ekranoplan is
+creations-chat 2019-08-29 01:24:47 and fine, i'll remove my upvote
+creations-chat 2019-08-29 01:25:18 Neither does reddit karma
+creations-chat 2019-08-29 01:26:03 it's not reposting if you make it yourself
+creations-chat 2019-08-29 01:26:26 Just a question though... does it look like an ekranoplan?
+creations-chat 2019-08-29 01:26:53 close enough
+creations-chat 2019-08-29 01:26:57 i'll take it
+creations-chat 2019-08-29 01:27:53 i ran out of room
+creations-chat 2019-08-29 01:27:57 and i didn't feel like folding
+creations-chat 2019-08-29 01:28:08 what
+creations-chat 2019-08-29 01:28:32 oKAy sOrRY
+creations-chat 2019-08-29 01:28:51 no ew
+creations-chat 2019-08-29 01:29:07 vertical stablizers.... yeah i forgot to resize those when i resized the wings
+creations-chat 2019-08-29 01:29:55 <:Oof:503264155940421633>
+creations-chat 2019-08-29 01:30:26 This emoji sums up my day
+creations-chat 2019-08-29 01:31:30 <:BIG1:588443768806703124> <:BIG2:588443778554134540>
+creations-chat 2019-08-29 01:31:50 <:BIG3:588443788721258534> <:BIG4:588443798842114088>
+creations-chat 2019-08-29 01:39:55 Why was Soviet tech always so monochromatic?
+creations-chat 2019-08-29 01:40:10 Black white and gray
+creations-chat 2019-08-29 01:40:16 seriously
+creations-chat 2019-08-29 01:40:21 like the only colors they used
+creations-chat 2019-08-29 01:40:25 oh
+creations-chat 2019-08-29 01:40:27 /sorry
+creations-chat 2019-08-29 01:40:37 just tiny spots of red
+creations-chat 2019-08-29 01:40:43 true
+creations-chat 2019-08-29 01:58:22 So do soviet rockets
+creations-chat 2019-08-29 01:58:33 The Buran shuttle
+creations-chat 2019-08-29 01:58:36 monochromatic
+creations-chat 2019-08-29 03:08:48 wow
+help 2019-08-29 04:31:42 What is SPS? Is it speed or altitude?
+help 2019-08-29 04:37:14 Ty
+help 2019-08-29 04:38:00 Also, does the "Just like Elon" challenge allow wings and/or parachutes?
+help 2019-08-29 04:39:38 It does say propulsion landing
+help 2019-08-29 04:40:04 So I'm surprised about the wings
+help 2019-08-29 05:15:11 So no shuttles?
+help 2019-08-29 05:29:13 But could I use a vtol?
+help 2019-08-29 15:40:54 A got a question about the "Just like Elon" challenge. Can the final stage of the rocket be a Vtol?
+help 2019-08-29 16:53:39 PvP rockets?
+help 2019-08-29 16:53:47 Wait nvm
+help 2019-08-29 16:53:55 Those don't work in water
+help 2019-08-29 16:54:15 You could add a super rocket to explosive blocks
+help 2019-08-29 16:54:28 And launch that as a torpedo
+help 2019-08-29 17:26:35 So does my vtol idea count?
+help 2019-08-29 17:49:29 ok
+creations-chat 2019-08-29 19:59:04 Since everyone said it didn't have enough wedges, I've smoothed out my carrier, and it's now up to 2750 Blocks. I'm applying for ShipWright IV
+help 2019-08-29 20:46:04 So another question about the "Just like Elon" challenge... are jet engines allowed? I know it's a rocket, but for some parts with the landing craft they would work better. So are they allowed?
+help 2019-08-29 20:47:26 Well turns out this question was pointless, as it turns out i didn't need them...
+help 2019-08-29 20:47:28 oops
+help 2019-08-31 03:20:02 How many days does it take for ranks to be given? Anyone know?
+help 2019-08-31 03:32:15 ok ty
+creations-chat 2019-09-01 03:45:05 I made a custom pod racer
+bot-central 2019-09-02 20:51:53 &suggest Cones and half spheres
+bot-central 2019-09-02 23:57:54 &suggest Half spheres and cones
+bot-central 2019-09-08 18:41:48 !rank
+bot-central 2019-09-08 20:25:01 &suggest
+bot-central 2019-09-08 20:25:03 oops
+help 2019-09-08 20:26:07 Which channel do you use to suggest?
+help 2019-09-08 20:26:30 anyone know?
+bot-central 2019-09-08 20:32:31 &suggest Changes to the map. So I drew an expanded and changed map, which you can see the normal map size with the gray box. This isn't me saying what it should look like, but rather a few suggestions for what could be added if the map were expanded. Another airport, and island, another railway station, a mountainous area and a volcano, etc.
+bot-central 2019-09-08 22:32:05 !servers
+bot-central 2019-09-08 22:32:25 ?servers
+bug-reports 2019-09-10 02:50:55 Motor 2 sometimes just starts intensely shaking if not on servo mode
+help 2019-09-10 02:52:30 How long does it take to get a rank?
+creations-chat 2019-09-15 01:33:00 I expanded my carrier. over 3k blocks. Still hoping for ShipWright IV
+bug-reports 2019-09-22 22:46:46 Magnets cause intense lag, which often ends with a crash
+creations-chat 2019-09-23 03:07:19 Scarab, 6 legged cargo mech
+creations-chat 2019-09-23 03:07:26 Scarab 6 legged cargo mech. Cargo elvator is open in this picture, and you can see the small loading vehicle on the bottom right
+creations-chat 2019-09-24 03:23:16 Created a vertical launch system with suspension and rope. Hoping for Inventor maybe?
+creations-chat 2019-09-24 03:24:03 oh wait, that's not a rank anymore
+creations-chat 2019-09-24 03:24:06 oops
+creations-chat 2019-09-25 02:46:21 Buggy with gyroscope seat. Sorry it looks terrible, my main goal was the gyroscope, so i just built something quick around it.
+creations-chat 2019-09-26 00:44:36 My carrier ship, requesting shipwright IV
+creations-chat 2019-09-26 00:44:38 My carrier ship, requesting shipwright IV (open view)
+creations-chat 2019-09-26 00:44:42 Block count
+bug-reports 2019-09-26 02:36:36 So apparently parachutes can cause some major problems with vehicles
+bug-reports 2019-09-26 02:37:25 and when i jumped out of the pilot seat, this happened
+bug-reports 2019-09-26 02:37:44 oh great, the second vidoe works, but not the first
+help 2019-10-01 00:18:45 How long does it take to be given a rank?
+help 2019-10-01 00:40:53 Apparently so
+bot-central 2020-05-24 22:04:48 !rank
+creations-chat 2020-05-24 23:35:23 <@456226577798135808> Yeah that's the one
+creations-chat 2020-05-24 23:35:50 Oh
+creations-chat 2020-05-24 23:35:52 Oh no
+creations-chat 2020-05-24 23:35:57 the outer wheels are on the WINGS
+creations-chat 2020-05-24 23:35:59 frick
+creations-chat 2020-05-24 23:36:21 I was using this pic, so I didn't realize how far from the body they are
+creations-chat 2020-05-25 00:00:07 Woah, looks  good megagoden
+creations-chat 2020-05-25 00:32:44 <@!527653676022628353>  How many controls?
+creations-chat 2020-05-25 00:33:00 I'm curious if it's more than my ship
+creations-chat 2020-05-25 00:33:15 Ayyy I have slightly more than you
+creations-chat 2020-05-25 00:33:54 So I use 1 through =, some of the F keys, most letters, and the keypad
+creations-chat 2020-05-25 00:33:56 for my ship
+creations-chat 2020-05-25 00:34:14 Carrier with like 8 or 9 vehicles in it
+creations-chat 2020-05-25 00:35:27 Wow
+creations-chat 2020-05-25 00:35:32 Sounds fun to fly XD
+creations-chat 2020-05-25 00:36:01 Mine's not hard to control, since I don't usually control more than one vehicle at a time. Just takes a lot of memory...
+creations-chat 2020-05-25 00:36:23 I put a pic in <#384025409945337856> just now
+creations-chat 2020-05-25 00:36:40 Although if you scroll up a few months you can see a pic with all the vehicles out of it
+creations-chat 2020-05-25 00:36:57 Oh gosh, do the cannons turn?
+creations-chat 2020-05-25 00:37:16 Impressive
+creations-chat 2020-05-25 00:37:26 still waiting for flak cannons...
+creations-chat 2020-05-25 00:38:15 That works, but you have to detonate it manually, don't you?
+creations-chat 2020-05-25 00:38:24 And only have a limited number of shots
+creations-chat 2020-05-25 00:39:02 Fireworks? They added those?
+creations-chat 2020-05-25 00:39:11 oh cool
+creations-chat 2020-05-25 00:39:28 Till yesterday I hadn't played since like october
+creations-chat 2020-05-25 00:40:06 They weren't summer, I was there for that
+creations-chat 2020-05-25 00:40:10 I missed winter though
+creations-chat 2020-05-25 02:29:22 Yes
+creations-chat 2020-05-25 17:45:31 What's rfc?
+bot-central 2020-05-25 20:12:31 ?shelp
+creations-chat 2020-05-25 20:17:48 <@!581846949901369365> that looks really good!
+creations-chat 2020-05-25 20:41:24 It looks good yeah
+creations-chat 2020-05-25 20:41:39 How'd you do the airbrake?
+creations-chat 2020-05-25 20:42:00 cool
+creations-chat 2020-05-25 20:42:10 Could you give some feedback on mine?
+creations-chat 2020-05-25 20:42:13 It's a guillotine
+creations-chat 2020-05-25 20:45:04 Is that Pathy?
+creations-chat 2020-05-25 20:47:15 I was asking <@!450005202511200256>
+creations-chat 2020-05-25 21:07:32 Not a dev, but did you try clicking Undo a second time?
+creations-chat 2020-05-25 21:09:19 No clue then
+creations-chat 2020-05-25 21:11:45 I'd also like my first suggestion removed, I forgot formating
+help 2020-05-25 21:12:26 I assume the density is 1:1 when at 1
+help 2020-05-25 21:12:29 Might not be though
+creations-chat 2020-05-25 21:18:05 Nice
+creations-chat 2020-05-25 21:18:14 <@!552343549572677632> That was really impressive!
+creations-chat 2020-05-25 21:18:27 Unbelievable wing folding
+creations-chat 2020-05-25 21:21:27 It really does look like a fighter
+creations-chat 2020-05-25 21:21:36 But that transition, is INSANELY smooth
+creations-chat 2020-05-25 21:23:02 <@!318593948081848320> You could call it the lunar moth or something
+creations-chat 2020-05-25 21:23:27 Just a suggestion
+creations-chat 2020-05-25 21:23:35 since you said it was unnamed
+creations-chat 2020-05-25 21:24:10 cool
+creations-chat 2020-05-25 21:27:49 You need a rank first
+creations-chat 2020-05-25 21:29:02 Add trails
+creations-chat 2020-05-25 21:29:30 Cool
+creations-chat 2020-05-25 21:33:01 Even rank I ground vehicle works
+creations-chat 2020-05-25 21:50:06 What do you guys think of my guillotine in <#384025409945337856> ?
+creations-chat 2020-05-25 21:50:24 Wanna discover how a french monarch feels?
+creations-chat 2020-05-25 21:51:32 Lunar Moth
+creations-chat 2020-05-25 21:51:34 Space Whale
+creations-chat 2020-05-25 21:51:40 Dark Moon
+creations-chat 2020-05-25 21:52:07 Midnight Moth
+creations-chat 2020-05-25 21:52:09 Midnight Moon
+creations-chat 2020-05-25 21:52:14 Evening Tide
+creations-chat 2020-05-25 21:52:21 Midnight Tide
+creations-chat 2020-05-25 21:52:24 Lunar Tide
+creations-chat 2020-05-25 21:52:36 yeah
+creations-chat 2020-05-25 22:02:21 Good idea
+creations-chat 2020-05-25 22:02:55 except *this* is a luna moth
+creations-chat 2020-05-25 22:03:18 Kinda the wrong colors
+creations-chat 2020-05-25 22:03:44 Ik, but still
+creations-chat 2020-05-25 22:03:53 both luna
+creations-chat 2020-05-25 22:03:55 with no r
+creations-chat 2020-05-25 22:10:46 My aircraft is just too small to qualify for a rank...
+creations-chat 2020-05-25 22:11:16 It's only 146 blocks. It's a small harrier fighter
+creations-chat 2020-05-25 22:11:20 Oh dang
+creations-chat 2020-05-25 22:11:25 and I thought my ship was big
+creations-chat 2020-05-25 22:24:54 Control panels?
+bot-central 2020-05-25 22:25:47 dang it pressed enter too soon
+creations-chat 2020-05-25 22:30:18 Space Whale Moth Thing
+creations-chat 2020-05-25 22:30:28 From Space
+creations-chat 2020-05-26 00:52:12 Because you can
+creations-chat 2020-05-26 01:00:41 LMAO 27 upvotes on a guillotine
+creations-chat 2020-05-26 01:02:11 This ^
+creations-chat 2020-05-26 01:15:15 Congrats on making a mech, that's how most of them are
+creations-chat 2020-05-26 01:25:17 <@!527653676022628353>  I thought the same thing when making a Jaegar
+creations-chat 2020-05-26 01:25:50 Sounds fun, till you try walking without falling. Sure you can cheat with thrusters, but that's not fun
+creations-chat 2020-05-26 01:25:57 No clue
+creations-chat 2020-05-26 01:26:02 Against torque
+creations-chat 2020-05-26 01:26:15 I guess motor to keep it from rotating?
+creations-chat 2020-05-26 01:26:22 like how your hips turn when walking
+creations-chat 2020-05-26 01:27:25 I made a SUPER tiny mech actually, like 12 blocks
+creations-chat 2020-05-26 01:27:32 Ses bke?
+creations-chat 2020-05-26 01:27:35 what?
+creations-chat 2020-05-26 01:27:44 With 2 motors
+creations-chat 2020-05-26 01:27:56 1 motor for ankle, one motor for hip
+creations-chat 2020-05-26 01:28:06 well the ankle is mixed with the knee
+creations-chat 2020-05-26 01:28:20 the leg is just a half beam
+creations-chat 2020-05-26 01:28:27 attached to feet and tiny body
+creations-chat 2020-05-26 01:28:35 and mirrored on other side
+creations-chat 2020-05-26 01:29:19 Well yeah, but I don't feel like making it weirdly small
+creations-chat 2020-05-26 01:29:26 There's a SUPER tiny one by a friend of mine
+creations-chat 2020-05-26 01:29:30 it's 5 or 6 blocks
+creations-chat 2020-05-26 01:29:52 Whole thing
+creations-chat 2020-05-26 01:29:57 That's what's so impressive
+creations-chat 2020-05-26 01:30:57 I've only copied from a tutorial 3 times. Never for a full creation though, they were just for tiny vehicles to put on my carrier.
+creations-chat 2020-05-26 01:31:08 A heli, a submarine, and a cessna(which I modified)
+creations-chat 2020-05-26 01:31:23 Honestly the cessna is so different it might not count anymore
+creations-chat 2020-05-26 01:31:32 But yeah I shamelessly followed those sub and heli tutorials
+creations-chat 2020-05-26 01:32:08 The sub is 6x4x3
+creations-chat 2020-05-26 01:32:14 Yes I know, why?
+creations-chat 2020-05-26 01:32:26 I've also made one myself
+creations-chat 2020-05-26 01:32:47 No?
+creations-chat 2020-05-26 01:33:01 I built a mech that happens to be 6 blocks tall
+creations-chat 2020-05-26 01:33:13 But could be 4 if I didn't use beams
+creations-chat 2020-05-26 01:33:32 Also... I lied. I was not aware of that tutorial
+creations-chat 2020-05-26 01:33:40 BRUH that's just a player
+creations-chat 2020-05-26 01:33:49 How would you?
+creations-chat 2020-05-26 01:33:52 A seat?
+creations-chat 2020-05-26 01:33:54 How?
+creations-chat 2020-05-26 01:34:03 That's 4 blocks though
+creations-chat 2020-05-26 01:34:14 I *am* a mech
+creations-chat 2020-05-26 01:34:19 Oh, 1 high
+creations-chat 2020-05-26 01:34:25 Thought you meant block count
+creations-chat 2020-05-26 01:34:35 That's what I've been talking about this whole time
+creations-chat 2020-05-26 01:34:47 Except for mine being 6 tall
+creations-chat 2020-05-26 01:35:02 But the friend I mentioned with like a 5 block one? That's 1 tall if you count a seat as 1
+creations-chat 2020-05-26 01:35:47 Sometimes, other times not though
+creations-chat 2020-05-26 01:36:02 ...
+creations-chat 2020-05-26 02:45:58 Dang, I was so close to designer III, but it seems a French monarch was not amused
+creations-chat 2020-05-26 02:48:06 Which bot?
+creations-chat 2020-05-26 03:10:21 <@456226577798135808> How do you have lines on your creation?
+creations-chat 2020-05-26 03:10:37 And did you just upvote yourself?
+creations-chat 2020-05-26 16:29:06 Pictoblox looks nice
+creations-chat 2020-05-26 16:29:42 Is that a Volkswagen Thing?
+creations-chat 2020-05-26 16:29:52 Nice
+creations-chat 2020-05-26 16:30:53 You should make a Krankenwagen
+creations-chat 2020-05-26 16:44:36 Bruh, I got designer 3... with a guillotine...
+creations-chat 2020-05-26 16:44:53 Not complaining, but wha...
+creations-chat 2020-05-26 17:07:50 Wait, you want a mech... that can RUN?
+creations-chat 2020-05-26 17:07:58 Not walk, RUN!?
+creations-chat 2020-05-26 17:08:22 Hawkeye that is insanely difficult
+creations-chat 2020-05-26 17:09:53 Wait really? Dang
+creations-chat 2020-05-26 17:09:57 That's impressive
+creations-chat 2020-05-26 17:12:14 Wow
+creations-chat 2020-05-26 17:12:23 Oh hey, it's you
+creations-chat 2020-05-26 17:12:34 Hi Beast
+creations-chat 2020-05-26 17:14:23 My gosh <@!294980570885390346> I had no idea you Volkswagen was that large
+creations-chat 2020-05-26 17:14:35 I thought it was character sized till I saw the 2nd pic
+creations-chat 2020-05-26 17:15:37 True
+creations-chat 2020-05-26 17:23:19 Blitzkrieg time
+creations-chat 2020-05-26 17:32:33 Cool
+creations-chat 2020-05-26 17:32:39 In theory, or in practice?
+creations-chat 2020-05-26 17:33:18 Dang
+creations-chat 2020-05-26 17:33:22 that's impressive
+creations-chat 2020-05-26 17:34:22 So in theory
+creations-chat 2020-05-26 17:34:57 I mean the ability to dock submarines
+creations-chat 2020-05-26 17:59:10 What about swept forwards?
+help 2020-05-26 18:42:22 Make the blades spin in opposite directions
+creations-chat 2020-05-26 18:43:28 This
+creations-chat 2020-05-26 18:43:43 2nd one
+creations-chat 2020-05-26 18:43:51 Or make the glass black or red
+creations-chat 2020-05-26 18:44:09 Yeah red glass would be best
+help 2020-05-26 18:44:18 Paint them red
+creations-chat 2020-05-26 18:44:42 Hey, anyone wanna give some feedback on my jet? Downvoted, and I'd like to know why
+creations-chat 2020-05-26 18:45:02 I made a gradient too
+creations-chat 2020-05-26 18:45:47 I put a 2nd pic
+creations-chat 2020-05-26 18:46:01 This ^
+help 2020-05-26 18:46:05 Crimson
+help 2020-05-26 18:46:19 Crimson looks gorgeous, 2nd one
+creations-chat 2020-05-26 18:47:08 Alright fine, revoked
+creations-chat 2020-05-26 18:47:23 I was curious if anyone would check if it didn't say on the first 3
+creations-chat 2020-05-26 18:47:32 Nice one starcraft
+creations-chat 2020-05-26 18:48:10 Nice
+help 2020-05-26 18:49:35 Yes
+creations-chat 2020-05-26 18:50:05 Nice
+creations-chat 2020-05-26 18:51:12 I just make the canopy pop on mine, nothing complicated
+creations-chat 2020-05-26 18:56:13 <@!697786877444358186> How'd you make your rocket so round looking on the top part? That's not cylinders, right?
+creations-chat 2020-05-26 18:56:32 wow
+creations-chat 2020-05-26 18:59:09 The lack of a 4x4 cylinder is really hurting my rocket
+creations-chat 2020-05-26 19:00:56 motor 2
+creations-chat 2020-05-26 19:01:43 ohhh that's how you fix that, thanks
+creations-chat 2020-05-26 19:30:44 even just 4x4 like the half and wedge beams would be nice
+creations-chat 2020-05-26 19:51:53 a block and a wedge
+creations-chat 2020-05-26 19:52:03 so 1.5 blocks
+creations-chat 2020-05-26 19:52:42 Uhg, building this quinjet is hurting my brain
+creations-chat 2020-05-26 19:52:59 This area is annoying
+creations-chat 2020-05-26 20:18:40 Uhg, don't you hate it when you're making good progress, then realize something was built in the completely wrong place?
+creations-chat 2020-05-26 20:22:50 I like the shipyard
+creations-chat 2020-05-26 20:23:03 reminds me of something from this lego space book I have
+creations-chat 2020-05-26 20:24:12 this
+creations-chat 2020-05-26 20:36:14 cool
+creations-chat 2020-05-26 20:43:10 Dude that's adorable
+creations-chat 2020-05-26 20:57:35 <@!679741669159207010> If you're gonna post something that's WIP, post it in *this* channel
+creations-chat 2020-05-26 20:58:32 Well it needs the envelope
+creations-chat 2020-05-26 20:58:51 And the railing should be different color from the rest
+creations-chat 2020-05-26 20:58:57 Envelope, the balloon
+creations-chat 2020-05-26 20:59:21 Yes, and maybe some gold accents on the hull
+creations-chat 2020-05-26 20:59:27 Or metal accents
+creations-chat 2020-05-26 20:59:34 Yes, that looks better
+creations-chat 2020-05-26 20:59:58 Maybe switch to wooden planks instead of wood for the hull?
+creations-chat 2020-05-26 21:01:35 Yes, better
+creations-chat 2020-05-26 21:03:31 Ok, but have the deck be a bit darker than the rest of the hull
+creations-chat 2020-05-26 21:12:32 How's my WIP quinjet look so far?
+creations-chat 2020-05-26 21:13:09 <@!432354194960416769> Looks good. Curiosity rover?
+creations-chat 2020-05-26 21:13:27 You should make Opportunity, it was the best one
+creations-chat 2020-05-26 21:13:33 No, they are not all the same
+creations-chat 2020-05-26 21:14:00 one sec
+creations-chat 2020-05-26 21:14:04 there's a lot, lemme grab 2 pics
+creations-chat 2020-05-26 21:15:08 On the right is Opportunity
+creations-chat 2020-05-26 21:15:13 Left is Curiosity
+creations-chat 2020-05-26 21:15:28 Biggest differene is size, and solar panels, and overall structure
+creations-chat 2020-05-26 21:16:07 So did Spirit
+creations-chat 2020-05-26 21:16:09 Nope
+creations-chat 2020-05-26 21:16:42 Spirit and Opportunity were deployed at the same time, so basically the same. Curiosity is FAR more recent
+creations-chat 2020-05-26 21:17:21 Well your current wheel looks perfect for it
+help 2020-05-26 21:17:33 same
+help 2020-05-26 21:17:41 or a stretch tool, as a lot of people have said
+creations-chat 2020-05-26 21:18:16 No, the left
+creations-chat 2020-05-26 21:18:24 since that fits your wheel better
+help 2020-05-26 21:18:38 Just look in <#507673335816126509>
+creations-chat 2020-05-26 21:18:45 Left is Curiosity
+creations-chat 2020-05-26 21:19:02 yep
+creations-chat 2020-05-26 21:28:52 <@!432354194960416769> yep
+creations-chat 2020-05-26 21:44:21 An aircraft carrier airship
+creations-chat 2020-05-26 21:51:01 lol
+creations-chat 2020-05-27 01:19:43 <@!409676438682206218> We need to get that list of yours pinned
+creations-chat 2020-05-27 16:48:50 <@!564503356576628737> The windmill shouldn't be green
+creations-chat 2020-05-27 19:28:40 You yourself described it as "shit"
+creations-chat 2020-05-27 21:05:04 I'm surprised, that of all the Jaegars I've seen people recreate, I've never seen a Brawler Yukon
+creations-chat 2020-05-27 21:05:19 It's one of the simpler ones too
+creations-chat 2020-05-27 21:05:27 Should I build it later?
+help 2020-05-27 21:51:11 How the heck do you make a vehicle that can go on the rails and actual handle the turns?
+help 2020-05-27 21:56:12 I tried that, but it just goes over the turns rather than turning
+creations-chat 2020-05-27 23:28:45 Did you see over in <#384025409945337856> ? He turned himself into a pickle, funniest shit I've ever seen!
+creations-chat 2020-05-27 23:32:14 Why are the giant propellor engines so TINY?
+creations-chat 2020-05-27 23:32:16 and tall
+creations-chat 2020-05-27 23:59:39 <@!443562221050658816> Can it?
+creations-chat 2020-05-28 15:42:25 <@!273536574770380800> That tank might be the best one I've seen
+creations-chat 2020-05-28 15:42:56 I have though
+creations-chat 2020-05-28 15:43:05 That cromwell was top-notch
+creations-chat 2020-05-28 16:18:17 <@!277197945273581570> we all do
+creations-chat 2020-05-28 16:18:32 This is why a wedge stretch tool would be so handy
+creations-chat 2020-05-28 16:19:25 Just saying, it would be way simpler to be able to make your own wedges, rather than adding like 30 more
+creations-chat 2020-05-28 16:23:17 And the vote arrows aren't showing up on it
+creations-chat 2020-05-28 16:24:14 weird
+creations-chat 2020-05-28 18:53:14 Well the paint job needs some work
+creations-chat 2020-05-28 18:53:20 for one thing, don't make it the same color as the ground
+creations-chat 2020-05-28 21:49:05 So it can't fly?
+creations-chat 2020-05-28 22:02:43 How does this quinjet look so far?
+creations-chat 2020-05-28 23:10:58 I bet no one can guess what this incomplete vehicle is
+creations-chat 2020-05-28 23:12:47 nope
+creations-chat 2020-05-28 23:12:54 but close
+creations-chat 2020-05-28 23:13:31 close, but no
+creations-chat 2020-05-28 23:14:28 uh... I guess
+creations-chat 2020-05-28 23:14:37 It's a Hydroplane
+creations-chat 2020-05-28 23:14:40 and it's incomplete
+creations-chat 2020-05-28 23:15:14 Boeing
+creations-chat 2020-05-28 23:15:24 
+creations-chat 2020-05-28 23:15:28 As far as I know Boeing only had the one
+creations-chat 2020-05-28 23:15:48 Oh I should tint the glass
+creations-chat 2020-05-28 23:15:59 that's a hydroplane
+creations-chat 2020-05-28 23:16:22 no
+creations-chat 2020-05-28 23:16:40 just google "hydroplane unlimited"
+creations-chat 2020-05-28 23:16:54 well yes
+creations-chat 2020-05-28 23:17:13 Also they were named for the engines they used, which were formerly aircraft engines
+creations-chat 2020-05-28 23:17:35 Read what I just wrote
+creations-chat 2020-05-28 23:17:36 that's why
+creations-chat 2020-05-28 23:17:58 And if you're just gonna call it a boat, then when someone posts a 747 you could just say it's a plane
+creations-chat 2020-05-28 23:40:05 What's it from?
+creations-chat 2020-05-29 00:33:02 My wifi is terrible
+creations-chat 2020-05-29 00:33:10 sometimes it just cuts out randomly
+creations-chat 2020-05-29 00:34:35 Apparently a bandwidth of 3 is recommended for most games, and mine is 2.4 lol
+creations-chat 2020-05-29 00:37:24 go into properties when choosing a wifi
+creations-chat 2020-05-29 00:37:39 And look for Network Band

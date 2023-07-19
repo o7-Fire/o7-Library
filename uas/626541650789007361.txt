@@ -1,0 +1,244 @@
+The Tale of double_box (626541650789007361)
+bot-central 2021-11-27 07:56:24 !rank
+bot-central 2021-11-27 07:56:52 Oh boy not this levelling system again
+bot-central 2021-11-27 07:56:53 Nooo
+bot-central 2021-11-27 07:56:56 Oh well
+bot-central 2021-11-27 07:57:05 Effective I guess
+bot-central 2021-11-27 07:57:11 Why
+bot-central 2021-11-27 07:57:14 What
+bot-central 2021-11-27 07:57:21 Where is your life
+bot-central 2021-11-27 07:57:27 At rank 47
+bot-central 2021-11-27 07:58:29 !rank battleship1372
+bot-central 2021-11-27 07:59:16 I would ping but I’m not
+the-dump 2021-11-27 08:00:15 Why does this exist
+the-dump 2021-11-27 08:00:19 I must know
+bot-central 2021-11-27 08:01:30 Why
+bot-central 2021-11-27 08:01:40 Where is the nearest cliff
+bot-central 2021-11-27 08:01:52 We are gonna have a missing person report real soon
+bot-central 2021-11-27 08:01:56 And it’s not gonna be me
+bot-central 2021-11-27 08:02:18 Anyways how’s your day going?
+bot-central 2021-11-27 08:02:36 Nice
+bot-central 2021-11-27 08:02:47 I managed to get trillions of speed in game
+bot-central 2021-11-27 08:03:17 Oh neat
+bot-central 2021-11-27 08:03:19 Lemme do that
+help 2021-11-27 08:03:37 
+help 2021-11-27 08:04:17 Yeah so I made a new type of useless engine that is so powerful that it ignored attached anchored blocks
+help 2021-11-27 08:05:23 It simply uses motors and suspensions and exploits the slight rng in the suspensions
+help 2021-11-27 08:05:29 Because I am big brain
+help 2021-11-27 08:05:36 Anyways ty
+help 2021-11-27 08:05:47 I added trails and it looks pretty coo
+help 2021-11-27 08:05:52 Another pic
+help 2021-11-27 08:05:56 
+help 2021-11-27 08:06:14 It is quite fun to completely ignore activated anchor blocks :)
+help 2021-11-27 08:07:47 Lol
+help 2021-11-27 08:07:57 I can show the machine sometime
+help 2021-11-27 08:08:10 I have a screenshot of before I turn on the motors
+help 2021-11-27 08:08:33 
+help 2021-11-27 08:09:06 On the bottom there’s an anchor block so it stays floating
+bot-central 2021-11-27 08:13:26 !rsnk
+bot-central 2021-11-27 08:13:33 !rank
+bot-central 2021-11-27 08:13:41 Uh
+bot-central 2021-11-27 08:13:53 Is the image broken or is it just me
+bot-central 2021-11-27 08:13:56 !rank
+bot-central 2021-11-27 08:14:02 Yay
+bot-central 2021-11-27 08:14:07 Ty
+bot-central 2021-11-27 08:14:37 So close to being able to put my trillions of speed somewhere that isn’t <#478584971670454284>
+bot-central 2021-11-27 08:18:19 !rank
+bot-central 2021-11-27 08:18:29 Can I has lv 3 now pls
+bot-central 2021-11-27 08:27:26 !rank
+bot-central 2021-11-27 08:36:35 !rank
+bot-central 2021-11-27 08:36:48 Ayo level 3
+bot-central 2021-11-27 08:37:10 Nice
+bug-reports 2021-11-27 08:56:06 Still not 100% sure how it works but I used suspensions and a motor to ignore an anchored block, resulting in chaos
+*the anchored block was attached and activated but was probably not what caused the insane speed
+**this is 100% reproducible and I have it on one of my save slots, though it usually only reaches e+12 to e+14
+creations-chat 2021-11-27 09:00:47 I would put my 18 hour creation in <#384025409945337856> except it is not designed to look particularly streamlined or anything, it only is for ignoring activated anchor blocks and moving at e+17 (trillions) of speeds
+
+This means that even though I put work into it, it will probably be downvoted to an all new level because people expect a cool model, not a perfectly executed concept :(
+the-dump 2021-11-27 09:32:28 Try
+the-dump 2021-11-27 09:32:30 Tagging
+the-dump 2021-11-27 09:32:32 All
+the-dump 2021-11-27 09:32:33 This
+the-dump 2021-11-27 09:32:34 With
+the-dump 2021-11-27 09:32:35 Bread
+the-dump 2021-11-27 09:32:48 >:)
+the-dump 2021-11-27 09:32:51 Oh
+the-dump 2021-11-27 09:32:52 No
+the-dump 2021-11-27 09:32:53 Wait
+the-dump 2021-11-27 09:32:56 No
+the-dump 2021-11-27 09:33:01 Illegal
+the-dump 2021-11-27 09:33:17 Welp I tried guys
+the-dump 2021-11-27 09:33:31 Ah true
+the-dump 2021-11-27 09:33:33 But still
+the-dump 2021-11-27 09:33:40 Oh
+the-dump 2021-11-27 09:33:42 Nm
+the-dump 2021-11-27 09:33:44 Still
+the-dump 2021-11-27 09:33:49 I tried
+the-dump 2021-11-27 09:33:55 They are just too powerful
+the-dump 2021-11-27 09:34:03 Unless
+the-dump 2021-11-27 09:34:09 ||
+||
+the-dump 2021-11-27 09:34:16 Damn
+the-dump 2021-11-27 09:34:19 Never mind
+the-dump 2021-11-27 09:34:23 He’s too good
+bug-reports 2021-12-01 00:30:47 roughly 400 trillion speed, the bottom known bug in the known bugs list might want to be updated, motors will either not move or they will do this:
+bug-reports 2021-12-01 00:31:55 it was a motor + anchored block bug
+somehow i got a motor with max speed and torque to move suspension at insane speeds and the suspension SOMEHOW interacted with the anchored block with physics off
+bug-reports 2021-12-01 00:32:11 this essentially tuned the physics back on without me using the keybind
+bug-reports 2021-12-01 00:32:24 and it flung me into the next universe
+bug-reports 2021-12-01 00:32:46 kk
+help 2021-12-01 00:35:45 how do i uh
+help 2021-12-01 00:35:47 not
+help 2021-12-01 00:35:48 have this happen
+help 2021-12-01 00:35:50 
+help 2021-12-01 00:35:56 i want to build a ball
+help 2021-12-01 00:36:00 but anchored blocks
+help 2021-12-01 00:36:01 broke
+help 2021-12-01 00:36:12 i put in <#498473314445033472> but it apparently is known
+bug-reports 2021-12-01 02:34:42 probably
+bug-reports 2021-12-01 22:04:33 kk
+creations-chat 2021-12-02 02:37:49 I worked really hard on this plane, and I even added a custom background! Is this worthy of <#384025409945337856>?
+creations-chat 2021-12-02 03:30:57 ^boat
+creations-chat 2021-12-02 03:33:29 Boat
+creations-chat 2021-12-03 03:14:24 Why does everyone feel the need to base planes off of stuff from real life
+i dont understand lol
+creations-chat 2021-12-04 00:57:34 https://discord.com/channels/384021699466756103/384025409945337856/916361622916845608
+<@!612384943485485089>
+Which USS Enterprise? 8 ships under that name exist, 3 of them are currently in service, and a 9th is scheduled to be built sometime between 2025-2026
+creations-chat 2021-12-04 01:00:37 windows computers: window key + shift + s will allow you to copy a snip to your clipboard for an easy pasting into discord :)
+
+~~sadly quite often it is 8mb+ and wont let you post it, but you can solve this by taking a screenshot of the notification that will pop up~~
+creations-chat 2021-12-04 01:02:42 then why are you too lazy to do that lmao
+creations-chat 2021-12-04 01:10:47 probably
+help 2021-12-04 05:04:01 help
+help 2021-12-04 05:04:20 video is in corner ik
+help 2021-12-04 05:04:21 but im too lazy to fix that
+help 2021-12-04 05:04:31 the issue is the way the plane flies
+help 2021-12-04 05:07:26 no i meant there is no engine, propellor, rocket, etc.
+help 2021-12-04 05:07:42 idc that it has nothign vertical
+help 2021-12-04 05:07:53 i care that it flies when it should be able to move past landing gear
+help 2021-12-06 14:25:58 I would say just use a lua injector on your Roblox client but too many people consider even having a lua injector open as hacking
+help 2021-12-06 14:26:27 Also nice
+help 2021-12-06 14:32:40 Macro but not?
+help 2021-12-06 14:33:41 This is just an inverted ########
+help 2021-12-06 14:34:57 Whenever I try to stack planes like this it always flies wrong and idk why
+creations-chat 2021-12-17 20:29:56 This should not fly well…
+bug-reports 2022-01-05 05:53:01 Disconnectors move down a full block though
+events-chat 2022-01-11 03:03:54 My submission is coming for you <:FineTroll:626841259746656289>
+events-chat 2022-01-11 04:12:30 k fine
+events-chat 2022-01-11 15:52:25 looks like fireworks and disconnectors which i believe are both banned
+events-chat 2022-01-11 15:53:03 pathetic
+events-chat 2022-01-11 15:53:30 MY boat top speed <:OmegaTroll:626841385118597152>
+events-chat 2022-01-11 15:53:57 3.9 TRILLION
+events-chat 2022-01-11 15:58:04 kk
+fireworks?
+events-chat 2022-01-11 16:02:46 look its close enough
+events-chat 2022-01-11 16:03:50 correction: 396 trillion
+events-chat 2022-01-11 16:04:08 i think
+if i did good maths
+events-chat 2022-01-11 16:05:00 wha
+no?
+events-chat 2022-01-11 16:06:10 3.9611746519868e+17 = 3.9611746519868 x (10^17)
+
+i think
+events-chat 2022-01-11 16:06:38 in which case you just add 17 zeroes
+events-chat 2022-01-11 16:07:16 which gets you 396,874,357,042,840
+events-chat 2022-01-11 16:07:41 interesting but looks slightly easy to destroy guns
+events-chat 2022-01-11 16:07:56 interesting but looks slightly easy to destroy guns
+events-chat 2022-01-11 16:08:19 real quick is it against the rules to use an autoclicker in build mode?
+events-chat 2022-01-11 16:09:05 ...building?d
+events-chat 2022-01-11 16:09:39 lets say you misalign something and place 30 blocks on it
+do you want to manually delete each block?
+events-chat 2022-01-11 16:09:54 ye
+events-chat 2022-01-11 16:11:12 the decimals are not part of e
+events-chat 2022-01-11 16:11:37 you wouldnt add the number of decimals + e then multiply by 10^sum of decimals and e
+events-chat 2022-01-11 16:12:27 e just moves decimal point to the left depending on the number
+events-chat 2022-01-11 16:12:43 thats basically it
+events-chat 2022-01-11 17:40:57 ive made a plane powered only be conveyor belts and its actually quite nice <:FineTroll:626841259746656289>
+events-chat 2022-01-11 17:41:13 wat da fak
+events-chat 2022-01-11 20:00:41 Unguided is another word for very, very lazy guided missiles
+events-chat 2022-01-11 23:48:59 
+events-chat 2022-01-11 23:49:15 my boat uh is not supposed to do this...
+events-chat 2022-01-12 00:33:32 ?
+events-chat 2022-01-12 00:33:49 what do be the issue
+events-chat 2022-01-12 00:34:07 yes i know it is large i really dont care lol
+events-chat 2022-01-12 00:34:53 i was testing the turret alone in a pvp server on my base plot and nothing can stand against it on the ground, even shredders if i have half decent aim, so i am confident about putting it on the water
+events-chat 2022-01-12 00:42:57 6
+i only used 6
+events-chat 2022-01-12 17:16:55 Yes, for small propellers it is 20,000, for normal propellers it is 2,222, and for large propellers it is 800
+events-chat 2022-01-12 17:17:11 Unless you lock or fold outside of building area
+events-chat 2022-01-12 17:18:31 100k+ on mine when it hit a ramp lol
+the-dump 2022-01-12 17:21:40 Well I mean he did go to an art school
+the-dump 2022-01-12 17:21:43 But other than that
+events-chat 2022-01-12 17:21:53 Uh
+events-chat 2022-01-12 17:22:15 So it looked like nothing crazy would happen because it was like a normal boat so I went towards a ramp
+events-chat 2022-01-12 17:22:37 But when I hit the ramp my speed locked at 107,827 and wouldn’t change
+events-chat 2022-01-12 17:22:55 Altitude bar was instantly cleared and I lost connection lol
+events-chat 2022-01-12 17:23:12 It’s somewhat reproducible… sort of
+events-chat 2022-01-13 01:34:33 
+events-chat 2022-01-13 01:34:59 nothing wrong here
+events-chat 2022-01-13 01:39:06 lmao
+events-chat 2022-01-13 01:39:23 yeah i cant fix that nobody else has that problem i guess
+events-chat 2022-01-13 01:43:36 i-
+i tried
+events-chat 2022-01-13 01:43:53 i may or may not have spent 8 hours trying to fix it lol
+events-chat 2022-01-13 19:05:34 1 bote
+events-chat 2022-01-13 19:05:51 20x20x50 area? <:empty:794431705070174238>
+events-chat 2022-01-14 00:03:51 Generally, when using just about any worldly language, it is generally a good idea to put spaces between numbers and words.
+events-chat 2022-01-14 05:16:23 https://discord.com/channels/384021699466756103/917397949938548736/931372728202719292
+> cant measure speed
+juuuust slightly ominous...
+events-chat 2022-01-14 05:58:18 Rookie numbers. I get 100-120 speed but sometimes it’s 1030000-1040000
+events-chat 2022-01-14 05:58:42 Better plane tracking but worse boat tracking
+events-chat 2022-01-14 05:59:07 It’s the old tracking system but rickje updated it and left an option for the old system still in the rocket settings
+events-chat 2022-01-14 06:26:12 May have gotten it backwards
+events-chat 2022-01-14 06:26:43 But I know it’s very situational and in this case you don’t want legacy
+events-chat 2022-01-14 06:27:05 How…? In this game, that takes ages
+events-chat 2022-01-14 06:27:22 Wait what I thought it only affected tracking
+events-chat 2022-01-14 06:29:05 Yeah but 2 fast planes at the same time… you can’t ever strafe…
+events-chat 2022-01-14 06:29:22 Never noticed a change there lmao
+events-chat 2022-01-14 06:34:13 You end up constantly circling each other, never able to land a hit. This is why I use a giant, detailed, and accurately made turret
+events-chat 2022-01-14 17:07:38 https://discord.com/channels/384021699466756103/917397949938548736/931592218299490364
+
+i actually kinda like that ngl
+bot-central 2022-01-14 21:29:36 !high scores
+bot-central 2022-01-14 21:29:41 !leaderboards
+bot-central 2022-01-14 21:29:46 !leaderboard
+bot-central 2022-01-14 21:29:51 !rank
+bot-central 2022-01-14 21:29:58 !help
+bot-central 2022-01-14 21:30:08 Lmao ok
+bot-central 2022-01-14 21:30:15 !ranktop
+bot-central 2022-01-14 21:30:20 !topranks
+bot-central 2022-01-14 21:30:24 Dam
+bot-central 2022-01-14 21:30:51 !rank rickje139#4213
+bot-central 2022-01-14 21:31:06 !rank Rickje139#4213
+bot-central 2022-01-14 21:31:10 Dam
+bot-central 2022-01-14 21:31:12 Nm
+bot-central 2022-01-14 21:31:23 Not worth it
+events-chat 2022-01-14 21:46:49 its 8:30 est
+events-chat 2022-01-14 21:47:10 o
+events-chat 2022-01-14 21:47:39 sad
+events-chat 2022-01-14 21:47:55 well your fight may be on a diff time so maaaaaaybee
+events-chat 2022-01-21 03:34:06 guys i have the best mech
+events-chat 2022-01-21 03:34:23 what do you think of my mech guys
+events-chat 2022-01-21 03:34:40 i think its really powerful and is going to rip everyone else to shreds easily
+events-chat 2022-01-28 18:01:40 Sad scam links
+bug-reports 2022-03-06 00:43:04 UHH
+bug-reports 2022-03-06 00:43:06 im pretty sure this is not a known issue
+bug-reports 2022-03-06 00:43:15 i may have had in issue with motor 2s
+bug-reports 2022-03-06 01:57:30 i was literally just using a boat
+bug-reports 2022-03-06 01:57:45 there was nothing weird going on... and then suddenly there was?
+bug-reports 2022-03-06 01:57:59 i just got teleported to... idk what altitude?
+bug-reports 2022-03-06 03:17:42 I have some motor lock and motor 2s but that’s it
+bug-reports 2022-03-06 03:17:46 It’s very light
+bug-reports 2022-03-07 15:16:09 Lmao
+the-dump 2022-03-08 05:30:52 
+the-dump 2022-03-08 05:30:55 
+events-chat 2022-03-09 00:19:59 yooooo eclipsis event would be amazing
+events-chat 2022-03-09 00:20:16 plenty of space for people to join and it seems perfect for the kind of events that are currently running lol
+the-dump 2022-03-19 00:20:24 **i did the funny**
+the-dump 2022-03-19 02:22:52 decaying winter
+the-dump 2022-03-19 02:22:56 i did some trolling
+the-dump 2022-03-19 02:23:06 and made a bunch of garbage guns :)
+the-dump 2022-03-21 01:39:05 https://tenor.com/view/dungeons-and-dragons-meme-roll-initiative-nat1-d20fails-gif-16905225
+the-dump 2022-03-31 03:49:26 Leaked footage of PC2!!! 🤯 🤯 🤯

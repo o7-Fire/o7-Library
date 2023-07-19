@@ -1,0 +1,16 @@
+The Tale of scorpiumimus (395633413085724672)
+creations-chat 2020-12-24 06:32:03 thx
+creations-chat 2020-12-25 00:31:40 therizinosaurus wip
+bug-reports 2020-12-25 00:38:17 copy and pasting controls on this game seems to break my laptops copy and paste and if i keep constantly copying and pasting controls into something like a motor it has a chance to break my laptops copy and paste function until i restart it
+even tried restarting rdpclip.exe (function in charge of copy and paste) and it still doesnt work
+and what i mean is when i copy something like a image and paste it into lets say a google doc it would not work even if i keep constantly copying it
+bug-reports 2020-12-25 00:42:37 thx man
+bug-reports 2020-12-25 00:48:50 i sometimes have to repeat control c because when i copy some controls to a motor it seems to not copy itself and then i have to re-copy again
+creations-chat 2021-01-28 21:16:05 why do people hate so many builds people make im confused
+bot-central 2021-01-28 21:17:11 !rank
+creations-chat 2021-01-28 21:18:28 i mean i understand why people downvote unfinished builds but why do people seemingly downvote some actual good builds?
+creations-chat 2021-01-28 21:21:08 i cant really send images but the halo gunship
+bot-central 2021-01-29 19:47:05 !rank
+bot-central 2021-01-29 19:58:09 !rank
+creations-chat 2021-02-03 01:12:10 https://streamable.com/udeivs footage of how broken motor 2s are. i tried using cameras to make my sarcosuchus not flip upside down in water and this happens
+the-dump 2021-04-06 16:53:13 

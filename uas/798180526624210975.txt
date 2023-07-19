@@ -1,0 +1,2 @@
+The Tale of dog4 (798180526624210975)
+bug-reports 2022-01-15 13:53:17 The moving part of the Delta Control Surface 1x2 doesn't remain painted when loading a creation that uses it

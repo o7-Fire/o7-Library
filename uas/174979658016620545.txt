@@ -1,0 +1,4 @@
+The Tale of lolwa21 (174979658016620545)
+help 2018-11-11 23:05:20 rope restitution will make it try to return to its original length/strength right?
+help 2019-08-16 21:15:12 https://gyazo.com/0f30d64adf53740553010b423d14029b how do i make this less shaky (50 in both dampening and stiffness, 2 free length)
+help 2019-08-16 21:17:08 thx

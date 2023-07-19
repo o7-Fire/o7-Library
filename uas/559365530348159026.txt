@@ -1,0 +1,237 @@
+The Tale of solmonfish (559365530348159026)
+help 2022-10-29 23:42:18 how do I get this to not glitch out like this
+help 2022-10-30 00:05:52 it just stops them from moving into place
+help 2022-10-30 00:07:34 oh ok
+help 2022-10-30 00:16:42 i got it to work ty
+bug-reports 2022-11-01 03:02:07 You just need to be precise and click on the right spot on the sides
+bug-reports 2022-11-03 21:04:19 i think you might have the motor2s backwards
+bug-reports 2022-11-03 21:05:44 it might just be too slow or something
+creations-chat 2022-11-04 20:21:52 screw it im building an aircraft carrier
+creations-chat 2022-11-04 20:24:37 any tips before I start
+creations-chat 2022-11-04 20:27:39 damn i gotta do that?
+creations-chat 2022-11-04 20:30:38 good idea
+help 2022-11-04 20:38:00 you have to do it from the side, its annoying
+bot-central 2022-11-04 23:58:02 !help
+bot-central 2022-11-04 23:59:50 ?rankhelp
+bot-central 2022-11-05 04:22:46 !rank
+bot-central 2022-11-05 11:32:52 !rank
+creations-chat 2022-11-05 13:53:00 who knew making an aircraft carrier catapult system would be hard
+creations-chat 2022-11-05 14:00:07 i did that
+bug-reports 2022-11-05 18:49:42 im having the same issue but it only started today and i generaly have really good internet
+bug-reports 2022-11-05 18:52:54 it seems like its just a roblox issue tho
+bot-central 2022-11-05 18:54:04 !rank
+bot-central 2022-11-05 18:58:29 !rank
+bot-central 2022-11-05 19:01:22 !rank
+help 2022-11-05 19:21:04 roblox is having a stroke rn too so...
+help 2022-11-05 19:21:16 things aren't working
+help 2022-11-05 19:22:29 im trying to test parts of my own carrier but it wont unfold for me either
+the-dump 2022-11-05 19:28:18 this man fish react him 🐟
+bot-central 2022-11-05 19:28:54 !rank
+creations-chat 2022-11-05 19:36:29 ok they acknowledged it good
+the-dump 2022-11-05 19:38:48 we know
+the-dump 2022-11-05 19:58:49 i forgor 💀
+creations-chat 2022-11-05 20:04:49 Nah it looks to be the same length  as ones in pictures
+help 2022-11-05 21:06:00 roblox is still broken
+help 2022-11-05 21:06:10 just wait before you try any fixes
+help 2022-11-05 21:22:40 wait do u have more than 1 anchor block
+help 2022-11-05 21:24:41 in your build
+help 2022-11-05 21:37:05 i have no idea
+help 2022-11-05 21:41:18 ok so at some point they changed the rockets and their tracking a little bit so the legacy mode seems to have slightly better tracking but its a little bit wonky and glitchy
+help 2022-11-05 21:42:01 another thing is that with tracking turned off legacy does more damage than without but its still glitchy
+help 2022-11-05 21:42:53 wait no I was wrong
+help 2022-11-05 21:43:19 legacy mode just increases the damage a little bit but at the same time becomes less reliable
+help 2022-11-05 22:10:14 Dont
+help 2022-11-06 01:37:51 plane crazy is still glitching out when I try to unfold my aircraft carrier
+help 2022-11-06 01:38:06 even though roblox status says the issue was fixed
+help 2022-11-06 01:38:28 and the audio is delayed while the build is spawned
+help 2022-11-06 03:41:27 I'm not using motor 2
+help 2022-11-06 03:41:40 Imma just wait until the morning I need to sleep
+help 2022-11-06 11:59:03 is there any way for me to test my ping with roblox servers
+help 2022-11-06 12:08:34 ive got an issue and i cant find the source of it
+help 2022-11-06 12:08:47 im working on an aircraft carrier
+help 2022-11-06 12:09:09 and it wornt unfold itll just reset into the unfolded position when i try to
+help 2022-11-06 12:10:03 because of its size I have to use rocket engines to help fold it but the audio for them is delayed by about 1 or 2 seconds
+help 2022-11-06 12:10:16 the carrier is 5300 blocks
+help 2022-11-06 12:10:37 and this issue started when the roblox servers started having issues yeserday
+help 2022-11-06 12:43:10 its kinda just difficult in general to fight at high speeds
+help 2022-11-06 12:43:33 you want good controlling and the plane needs to be very stable
+help 2022-11-06 17:28:55 you dont
+help 2022-11-06 18:06:34 you straight up cant\
+help 2022-11-06 21:34:33 uh
+help 2022-11-06 21:34:52 hang on a sec im the wrong person to answer this question
+help 2022-11-06 21:35:19 ik
+help 2022-11-06 21:35:29 i can barely answer that question for myself
+help 2022-11-06 21:35:46 uhhhh
+help 2022-11-06 21:35:55 make
+help 2022-11-06 21:35:57 a
+help 2022-11-06 21:36:24 bomber plane
+help 2022-11-06 21:36:37 make a bomber plane of any type
+help 2022-11-06 21:37:30 what if you just dont
+help 2022-11-06 21:37:34 and why is it so big
+help 2022-11-06 21:38:39 ok what
+contest-chat 2022-11-06 23:35:07 can you use builds made for contests also for getting a rank
+help 2022-11-09 00:07:03 add more windows if theres interior
+help 2022-11-09 00:07:14 or add a name
+help 2022-11-09 00:08:43 it doesn't have to look perfectly smooth
+help 2022-11-09 00:10:04 just commit minecraft text
+help 2022-11-09 00:11:43 you could do it directly on the ship and then motor lock in some other parts to smooth it out
+help 2022-11-09 00:11:51 like wedges
+help 2022-11-09 00:12:36 wings
+help 2022-11-09 00:12:57 use them for smoothing out the text
+help 2022-11-09 00:13:53 just use full sized blocks for both
+help 2022-11-09 00:14:13 also you dont wanna do the x the way you did
+help 2022-11-09 00:15:10 just make it full blocks connected by the corners and then smooth it out with motor lock
+help 2022-11-09 00:15:51 i could easily make a basic minecraft text looking thing to base it off of if you want
+help 2022-11-09 00:17:42 there ya go
+help 2022-11-09 00:19:41 i guess you dont want my help then
+help 2022-11-09 00:20:41 np
+help 2022-11-09 00:27:33 put it on the boat and see what it looks like
+creations-chat 2022-11-09 00:28:25 its got more upvotes than downvotes by a ratio of over 2:1, I think people like it
+help 2022-11-09 00:28:47 thats underwater nobody is gonna care
+help 2022-11-09 00:30:35 move them completely
+help 2022-11-09 00:30:43 so they fit
+creations-chat 2022-11-09 00:31:14 this community isn't the greatest
+help 2022-11-09 00:31:28 wdym
+help 2022-11-09 00:31:31 too tall?
+help 2022-11-09 00:32:36 make them the same height as the x on the picture you posted when you asked for help
+help 2022-11-09 00:32:50 on "breaking up the side"
+help 2022-11-09 00:33:15 then how do they not fit?
+help 2022-11-09 00:33:19 im confused
+creations-chat 2022-11-09 00:34:12 theres not much i can say other than that
+help 2022-11-09 00:34:33 oh alr
+help 2022-11-09 00:34:39 so they are now
+help 2022-11-09 00:36:07 damn ur not wrong
+creations-chat 2022-11-09 00:39:05 the whitename insult thing is kinda pointless, a lot of them are just people who are good but just joined
+creations-chat 2022-11-09 00:41:15 in that case, being a whitename means nothing
+creations-chat 2022-11-09 00:44:56 i think you should add a bit more detailing on the walls but otherwise it looks fine to me
+help 2022-11-09 21:18:35 Nice
+help 2022-11-09 22:00:38 ive got an issue with my aircraft carrier where it will unfold but then just resets into its original position
+creations-chat 2022-11-10 23:01:31 what for?
+creations-chat 2022-11-11 22:12:18 this also happens to me but only when its not in the water
+creations-chat 2022-11-12 13:19:10 its the greatest build of all time
+help 2022-11-12 15:45:07 this guy made a 5 part series on making helicopters, i think it has what you're looking for
+https://www.youtube.com/channel/UCzoqttbTaETs7Bwr42D-2vw
+help 2022-11-12 15:48:59 look i have no idea how to do it either
+creations-chat 2022-11-13 00:14:42 i swear to god i think its gonna get into hall of fame
+creations-chat 2022-11-13 00:18:04 ah ok
+creations-chat 2022-11-13 02:58:22 wait... WAIT WHAT
+creations-chat 2022-11-13 03:48:31 try this: 319804747
+bug-reports 2022-11-13 15:10:07 its annoying, you have to do it from the side at the right angle
+bug-reports 2022-11-13 15:10:15 or the back
+help 2022-11-14 22:10:11 help i think i crashed a server with a camera fold
+help 2022-11-14 22:11:35 and roblox doesn't wanna close
+bug-reports 2022-11-15 00:31:56 I thinks its because of copyright issues and music/audio with swears and other non PG things, but im not sure
+bug-reports 2022-11-15 00:32:49 yeah I get that, but there isn't much that can be done
+the-dump 2022-11-15 03:05:59 <#705941616199991307>
+help 2022-11-15 03:13:20 just wanna know what kinds of improvements I could make to this if any https://discord.com/channels/384021699466756103/384025409945337856/1041372117687619604
+help 2022-11-15 04:35:51 I've heard of that, but I don't think it will help considering the design is custom
+help 2022-11-15 04:36:19 Also is it unclear that there is angle lock on the main part cuz there is
+help 2022-11-15 04:39:31 I mean I did do a terrible job with the pictures in my opinion
+help 2022-11-15 12:39:26 Well what you're asking for is either very difficult or just straight up impossible
+help 2022-11-15 23:21:47 Whenever I spawn in a build that's over 5k blocks my ping just starts rising up into the hundreds of thousands. Normally when I'm just building my ping is at 50-60
+help 2022-11-15 23:22:42 How can I make this not happen?
+help 2022-11-15 23:54:16 its strange, but my aircraft carrier used to glitch out when on land and not on water (before it made my ping enter the equivalent of the altitude of the highest point in the exosphere in millimeters) so just have the carrier in the water
+help 2022-11-16 00:01:47 no, but do you have a solution for my ping issue? https://discord.com/channels/384021699466756103/478584971670454284/1042217887781371904
+help 2022-11-16 00:01:52 if you do then thanks
+help 2022-11-16 00:02:02 if not, its fine
+help 2022-11-16 00:04:09 what ping do you have when you're just building?
+help 2022-11-16 00:05:32 what i know is that my internet is pretty good, I have done some tests so I cant figure out what it is
+help 2022-11-16 00:06:31 is there any way around that or am i just dumb for thinking there is
+help 2022-11-16 00:07:28 bruh I have 50-60 ms how do you not have the problem
+help 2022-11-16 00:08:30 actually, another important question: do you also have to use SR engines to fold the build because of how large it is?
+help 2022-11-16 00:09:02 and so the motors aren't enough
+help 2022-11-16 00:12:24 good idea
+help 2022-11-16 00:16:53 it didn't work :(
+help 2022-11-16 00:17:44 guess ill try removing all the SR engines
+help 2022-11-16 00:21:38 in that case I think i know what the problem is
+help 2022-11-16 00:31:01 i switched to just motors and the issue is still there
+help 2022-11-16 00:33:59 no
+help 2022-11-16 00:34:03 its at 1
+help 2022-11-16 00:35:25 
+help 2022-11-16 00:35:39 💀
+help 2022-11-16 00:46:40 I think I fixed my issue
+help 2022-11-16 00:47:02 I had to remove the antenna array thing in top of the tower on my aircraft carrier
+help 2022-11-16 00:48:40 ok nevermind
+help 2022-11-16 00:56:18 well ive tried everything
+help 2022-11-16 00:56:31 it still sends my ping into the thermosphere
+help 2022-11-16 00:58:13 what are some blocks know for causing intense amounts of lag
+bot-central 2022-11-16 01:02:21 -servers
+help 2022-11-16 01:09:39 heres the thing: I have a pretty good pc, has a 3050 gpu, HOWEVER, there is no built in wifi chip in the motherboard and I have speculated for a while that the wifi adapter I use is just bad.
+help 2022-11-16 01:09:46 so it could be that
+help 2022-11-17 02:31:50 Try anchor blocking it
+help 2022-11-17 02:33:27 Oh ok
+help 2022-11-17 20:50:50 check to see if theres any unlocked motors
+help 2022-11-18 03:28:46 Obviously, as long as it follows the rules
+help 2022-11-18 04:42:18 F 22 raptor
+bug-reports 2022-11-19 01:54:04 what the shaking?
+bug-reports 2022-11-19 01:55:23 yeah i think thats just lag
+bug-reports 2022-11-19 01:56:15 what were the solutions
+bug-reports 2022-11-19 01:57:50 what's your ping in game
+bug-reports 2022-11-19 01:58:09 ^
+bug-reports 2022-11-19 02:01:50 how often do the rockets just vanish like that
+bug-reports 2022-11-19 02:12:52 are the rockets on legacy mode
+bug-reports 2022-11-19 02:13:20 well then I dont think there's a solution
+creations-chat 2022-11-19 02:22:20 well did he get the ranks by building a boat? no
+help 2022-12-03 00:13:44 make it so the exposed motorlock ends up inside a different block when building
+help 2022-12-03 00:17:47 did you play the ingame tutorial
+help 2022-12-03 00:19:37 dont go all out on motor lock at first, start out by making builds as good as you can without motor lock and make them functional, then slowly start adding in mor and more motor lock to your builds
+help 2022-12-03 00:20:25 you wont be an extremely good builder straight away
+help 2022-12-03 00:21:22 this game - while it doesn't seem like it - requires a lot of patience to get better
+help 2022-12-03 20:43:38 Do you want it flush with the wedge or just floating
+help 2022-12-03 20:44:01 Angle lock
+help 2022-12-03 20:44:04 Do that
+help 2022-12-03 20:45:30 Good question
+help 2022-12-03 20:46:40 Nope, I'm not sure what it is
+help 2022-12-03 20:48:12 Show a picture
+help 2022-12-03 20:48:28 You might be doing it wrong in some way
+help 2022-12-03 20:50:35 Doing that is very inconsistent in my experience
+help 2022-12-03 20:51:16 Use a motor to turn it into position and then use motor lock to put it where it needs to go
+creations-chat 2022-12-03 20:52:51 Keep it
+help 2022-12-03 21:10:12 Bro 💀
+help 2022-12-03 21:11:11 THAT DOESNT MEAN YOU DONT KNOW
+help 2022-12-03 21:11:37 Place a motor, turn off powered, and turn on lock
+creations-chat 2022-12-03 21:19:16 a build gets at least 150 upvotes, and then a group of VIPs choose whether or not the build should actually get in incase its a meme build or something not meant to look hof worthy
+help 2022-12-04 04:04:11 It's more the roblox servers and plane crazy itself not being able to handle the extreme things we do with motor lock and such
+help 2022-12-04 22:49:16 the corners need help
+help 2022-12-04 22:50:59 you should put more here to make it smoother and the same on the other side
+help 2022-12-04 22:51:55 other than that i think its fine
+help 2022-12-04 23:56:56 Sure, it looks good
+contest-chat 2022-12-08 17:18:32 since this contest is about most of the rules being the opposite, most of the submissions are gonna be troll builds, and since there's a lot of troll builds, they become normal builds, and normal builds become troll builds...
+contest-chat 2022-12-09 02:04:50 you still follow the rules, its just that some of them are the opposite
+contest-chat 2022-12-09 02:05:05 from what they normally are
+bug-reports 2022-12-10 00:20:33 symbols that im trying to use for extra detail will work sometimes but other they get censored out
+bug-reports 2022-12-10 00:20:49 is there any fix to this
+bug-reports 2022-12-10 01:06:34 nevermind i figured it out
+help 2022-12-10 03:33:23 That means it's too fast for its size and amount of wing panels and other things like that
+help 2022-12-10 03:33:44 Although the size part isnt as important
+help 2022-12-10 03:35:12 Yeah try that and see if it works
+help 2022-12-10 03:36:09 As long as there is enough wing panels
+help 2022-12-10 03:36:21 Can I see a picture of it?
+help 2022-12-10 03:38:15 Actually, also try adding some wing panels in the front half of the plane
+help 2022-12-10 03:38:24 Do that first
+help 2022-12-10 03:38:30 See if it helps
+help 2022-12-12 02:54:49 There's your first issue lol
+help 2022-12-12 02:55:00 Try using normal engines
+help 2022-12-12 02:55:21 And not glitch ones
+help 2022-12-12 20:17:07 Are you angle locking
+creations-chat 2022-12-18 17:31:14 i upvoted it but lemme give you 2 things:
+
+- there's a lot of exposed motor lock
+- the intakes seem a little disproportionate, they just don't seem right
+help 2022-12-19 21:01:35 💀
+help 2022-12-20 00:34:08 nope sadly
+help 2022-12-20 00:34:49 i would say 2x2 for looks, 1x1 for "roscale"
+help 2022-12-22 20:30:40 How is that a question
+help 2022-12-22 20:32:32 It's a plane. It has wings with control panels and elevators at the tail.
+help 2022-12-22 20:33:27 YES
+help 2022-12-22 20:33:38 💀
+creations-chat 2022-12-25 15:24:49 not bad
+creations-chat 2022-12-25 16:28:28 kinda, they can help new players know how to solve a specific problem by seeing how its done in a tutorial
+the-dump 2023-01-02 03:55:19 
+bug-reports 2023-01-02 05:36:23 Torque works in reverse in this game, it's contradictory to the actual definition and the speed is also gonna be a problem I would set it to like 10
+creations-chat 2023-01-07 03:04:20 piston
+help 2023-01-14 00:40:50 you can use a method like magnet locking or the newer offset locking to be able to get rid of the motor lock after angle locking
+help 2023-01-26 01:48:14 👍
+help 2023-02-15 02:05:19 does anyone know how to get the weld setting on magnets to work? i got it to work on something small but when trying to use it on a big folding build it doesn't do anything
+help 2023-02-15 02:07:36 never mind i got it to work
+help 2023-02-16 14:28:16 The elevators look strangely far from the jet itself

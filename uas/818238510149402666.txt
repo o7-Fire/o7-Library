@@ -1,0 +1,12 @@
+The Tale of 7inix (818238510149402666)
+bot-central 2021-07-12 17:12:30 !servers
+bot-central 2021-07-12 17:13:08 $new
+bot-central 2021-07-12 17:13:25 !servers
+bot-central 2021-07-12 17:14:12 !rank
+bot-central 2021-07-12 17:27:28 !servers
+bot-central 2021-07-12 17:54:43 !rank
+bot-central 2021-09-19 17:16:05 $new
+bot-central 2021-09-19 17:17:05 !servers
+bot-central 2021-09-19 17:19:18 -servers
+bot-central 2022-01-27 10:50:06 !servers
+bot-central 2022-01-27 10:50:17 -servers

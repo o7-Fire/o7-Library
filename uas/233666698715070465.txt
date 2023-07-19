@@ -1,6 +1,176 @@
-obsidial
-plane-crazy 2019-08-27 13:57:41 will the water wheels only work when submerged in water
-plane-crazy 2019-08-27 13:48:13 are there any type of blocks that have no buoyancy
-plane-crazy 2019-08-27 13:48:00 are there any type of blocks that have no buoyancy
-plane-crazy 2019-08-27 13:12:46 for boat hulls
-plane-crazy 2019-08-27 13:12:42 Does this game have inverse wedges
+The Tale of obsidial (233666698715070465)
+help 2018-11-03 14:31:57 Where should my center of mass and center of lift be for making a helicopter?
+help 2018-11-03 14:37:18 Basically the same as a plane yes?
+help 2018-11-03 14:58:56 I have set up my heli rotor but it just spins it in circles
+creations-chat 2018-11-03 21:29:41 Recration of F-22 Raptor | Obsidial | 279 blocks | Novice Replicator
+creations-chat 2018-11-03 21:29:57 
+creations-chat 2018-11-03 21:33:12 It flies well
+creations-chat 2018-11-03 21:33:42 Ok I have a video of it doing a loop
+creations-chat 2018-11-03 21:34:42 uploading it to yt
+creations-chat 2018-11-03 21:35:17 i only have the roblox recorder sorry
+creations-chat 2018-11-03 21:35:33 https://youtu.be/oFPDIOWNZeY
+creations-chat 2018-11-03 21:35:55 might be able to make it into a giphy
+creations-chat 2018-11-03 21:36:51 thx
+bug-reports 2018-11-03 21:58:55 Bug with my ailerons raising/lowering in the same direction even though I set them not to do that https://youtu.be/hpg3YasXp1k
+creations-chat 2018-11-04 10:03:07 Ace pilot rank https://www.youtube.com/watch?v=3Be7QwZi2a4&feature=youtu.be
+creations-chat 2018-11-04 10:17:19 F-22 Raptor | Obsidial | 279 blocks | Ace Pilot Rank | https://www.youtube.com/watch?v=3Be7QwZi2a4
+creations-chat 2018-11-04 10:17:34 
+help 2018-11-05 16:09:00 What is the best way to make a plane go fast?
+help 2018-11-05 17:33:37 How would magnets make it go faster?
+help 2018-11-05 17:39:35 I assume its with magnets?
+help 2018-11-05 17:47:57 So Im guessing i use magnets at the back and set them to backward?
+help 2018-11-05 17:48:02 at full strength
+help 2018-11-05 17:54:10 magnets really lag my game XD
+creations-chat 2018-11-05 20:03:29 Advanced engineer: Hot air balloon 739 blocks
+help 2018-11-06 21:50:07 Help please my helicopter wont stop spinning
+help 2018-12-30 20:59:23 How to make magnet drives?#
+help 2018-12-30 21:00:54 yes
+help 2018-12-30 21:02:39 Do the magnets have to be free to move?
+help 2018-12-30 21:03:01 as in not welded to anything
+help 2018-12-30 21:03:22 does it need to be not touching any blocks
+help 2018-12-30 21:05:33 Ok
+help 2018-12-30 21:08:00 my magnet drive isn't working
+help 2018-12-30 21:08:16 
+help 2018-12-30 21:08:28 yea
+help 2018-12-30 21:09:00 yea
+help 2018-12-30 21:09:39 normal
+help 2018-12-30 21:10:02 Do the magnets not need to be touching any blocks?
+help 2018-12-30 21:14:04 I've got plenty of space in the main body of the jet
+help 2018-12-30 21:14:18 
+help 2018-12-30 21:22:22 lol my plane's total thrust from rocket engines is higher than that of a magnet drive XD
+help 2018-12-30 21:22:35 a double magnet drive
+help 2018-12-30 21:23:22 yea ish
+help 2018-12-30 21:23:27 im gonna make a helicarrier now tho
+help 2018-12-31 20:53:37 How do I make a mechanism to release the payload for my trebuchet?
+help 2018-12-31 20:53:49 
+help 2018-12-31 20:54:04 
+help 2018-12-31 20:57:13 Nevermind, disconnector works just fine
+creations-chat 2018-12-31 21:24:30 262 blocks, functional trebuchet capable of firing projectiles up to 600 SPS across the map
+help 2019-01-01 21:04:07 Will this work for 3x3 cylinder wheels?
+help 2019-01-01 21:04:12 for turning them
+help 2019-01-01 21:14:14 I tried it but it just keeps bending
+help 2019-01-01 21:17:49 and the wheels have no grip
+help 2019-01-01 21:18:10 yea thats part of the game XD
+creations-chat 2019-01-02 12:16:58 1376 block fighter jet
+help 2019-01-02 16:08:32 Can someone tell me how to make a good train chassis?
+help 2019-01-02 16:12:03 a good way is using suspension springs on the wheels but there's a better way
+help 2019-01-02 16:15:07 i dont know
+help 2019-01-02 16:15:32 there's a train contest on right now try looking in <#504630451579781121> they will be using good chassis
+help 2019-01-02 16:39:37 <@!434967120393273357> I've figured out how to make the trains turn https://streamable.com/6dr1r
+help 2019-01-02 16:40:29 it derails at high speed sometimes but it goes around corners very smoothly
+help 2019-01-02 17:21:43 Use multiple ropes
+creations-chat 2019-01-02 21:40:07 DareDevil role. 1375 block plane landed on aircraft carrier https:// streamable.com/1t8rb
+help 2019-01-02 21:50:48 How do you make tank tracks?
+help 2019-01-02 22:08:56 I sort of made a prototype https://streamable.com/1ns19
+help 2019-01-02 22:14:01 Main issue is the treads bunching up and folding over one another but it works overall
+help 2019-01-02 22:14:10 I haven't tested it on an actual vehicle though.
+help 2019-01-02 22:18:10 I'm going to implement it to a very basic chassis and see if it works
+help 2019-01-02 22:35:09 https://streamable.com/l2ivq
+help 2019-01-02 22:35:50 It works with vehicles, though it is by no means a smooth ride. The only issues to fix now are making it roll smoothly and implementing a system to prevent the tracks from falling off the rollers
+help 2019-01-02 22:38:53 and a tendency for tracks to fold up and jam when switching between moving forward and reversing, causing unwanted turning
+help 2019-01-02 22:41:38 the tanks also tend to jam up completely when attempting to traverse any sort of hill
+help 2019-01-02 22:41:51 although they remain functional when moving downhill
+help 2019-01-02 22:53:19 Given the nature of the rollers it is difficult to implement a system to prevent the tracks from sliding/falling off
+help 2019-01-02 22:54:03 and the tracks have serious issues with grip and are highly prone to sliding
+help 2019-01-02 22:54:19 which makes them unable to traverse vertical terrains
+help 2019-01-02 23:03:48 <@367588891777171466> Thanks, that actually really helps the whole grip situation 😄
+help 2019-01-02 23:06:43 ill upload a video of it travelling
+help 2019-01-02 23:06:58 https://streamable.com/h9e9m
+help 2019-01-02 23:07:24 I put half-wedges on the tracks to see if they would have a difference but I have no clue
+help 2019-01-02 23:10:48 I also got the tracks to go smoothly
+help 2019-01-02 23:13:15 nevermind, the tracks just jam up with cylinder rotators it needs to be half block
+help 2019-01-02 23:16:36 These are my tracks XD
+help 2019-01-02 23:18:00 fluctuates between 15-25 SPS for me lol
+help 2019-01-02 23:18:50 does it work on uneven terrain?
+help 2019-01-02 23:19:02 cool
+help 2019-01-02 23:19:52 my one doesn't have any steering and can barely off-road XD
+help 2019-01-02 23:21:15 im gonna try to make
+help 2019-01-03 21:31:09 How do I stop my magnet drives from breaking?
+help 2019-01-03 21:31:11 
+help 2019-01-03 21:31:43 they stop working
+help 2019-01-03 21:32:01 sometimes it causes it to spin or the plane just stops moving
+help 2019-01-03 21:32:25 yea magnet drives
+help 2019-01-03 21:32:50 i want 2 get the light speed rank as well
+help 2019-01-03 21:36:55 thx
+help 2019-01-04 15:22:23 Is there a way to make an airship (helium blocks) float but still be able to control it going up/down
+help 2019-01-04 15:52:34 you need a motor underneath the base to allow it to spin
+help 2019-01-04 15:52:53 and where the actual barrel is, put motors on the sides to allow you to aim up and down
+help 2019-01-06 13:49:33 https://streamable.com/pe3qm can some1 tell me what i'm doing wrong here
+help 2019-01-06 18:13:28 can someone help my heli doesnt fly properly
+help 2019-01-06 18:13:40 it doesnt spin
+help 2019-01-06 18:15:03 it just goes forward, then stops and falls backward
+help 2019-01-06 18:15:12 and just freaks out
+help 2019-01-06 18:19:39 its doing this now https://streamable.com/z2ki3
+help 2019-01-06 18:26:54 i have ballasts in the front
+help 2019-01-07 21:16:28 https://streamable.com/xmarq help with my helicopter please
+help 2019-01-07 21:17:22 Center of mass/lift
+help 2019-01-07 21:19:12 i dont know
+help 2019-01-07 21:19:36 it cant go forward without immediately point nose upwards, going backwards and flipping over
+help 2019-01-07 21:20:50 i cant it will unbalance the center of mass / lift
+help 2019-01-07 21:26:44 shouldn't there be a separate thing for center of thrust though?
+help 2019-01-07 21:27:01 there's lift for wings and weight, but there should be center of thrust for engines
+help 2019-01-07 21:27:17 
+help 2019-02-22 15:29:56 https://streamable.com/uiqg7 Help me please what am I doing wrong
+creations-chat 2022-05-15 14:30:35 why is my sea plane getting downvoted
+creations-chat 2022-05-15 14:32:36 whats wrong with it that is making people downvote
+creations-chat 2022-05-15 14:36:53 why is there a standard? it's a creation sharing channel not a competition.
+creations-chat 2022-05-15 14:54:22 is it starting to look any better
+creations-chat 2022-05-15 15:00:03 
+creations-chat 2022-05-15 15:02:37 i rounded the wings
+creations-chat 2022-05-15 15:10:13 
+creations-chat 2022-05-15 15:14:20 would you not agree that starting with moving toward doing basic well is better than starting a massive motor lock plane project out the gate without basic skills first
+creations-chat 2022-05-15 15:59:14 left or right wing better?
+creations-chat 2022-05-15 16:01:23 
+creations-chat 2022-05-15 16:06:09 wings less curved now
+creations-chat 2022-05-15 16:08:26 tell me how to make the wings better
+creations-chat 2022-05-15 16:10:37 
+creations-chat 2022-05-15 16:16:10 at this point its not a sea plane anymore im just gonna put landing gear on the bottom of it instead. anyway now the wings are nail files
+creations-chat 2022-05-15 16:20:14 new cockpit. has roof this time
+creations-chat 2022-05-15 16:22:22 any ideas where to put some jet engines
+creations-chat 2022-05-15 16:27:42 i put jet engines inside and now it flies
+creations-chat 2022-05-15 16:31:41 tips on how to fix the tail? the wings kinda had to mess up the shape to fit them on
+creations-chat 2022-05-15 16:49:56 i am remodelling the fuselage
+creations-chat 2022-05-15 16:58:10 is this fuselage any better than before
+creations-chat 2022-05-15 17:00:20 make the back bit shorter so its less high up?
+creations-chat 2022-05-15 17:02:14 here is another view with example wings
+creations-chat 2022-05-15 17:13:15 
+creations-chat 2022-05-15 17:26:28 new wing progress
+creations-chat 2022-05-16 10:07:19 thoughts / how to improve my first plane?
+creations-chat 2022-05-16 10:12:37 anyone got example of good jet cockpit I can use as reference? my current problem is the seat is lower than the glass
+creations-chat 2022-05-16 11:16:48 has anyone created any gears of war vehicles in this server
+creations-chat 2022-05-16 14:42:37 starting work on submarine
+creations-chat 2022-05-16 14:44:38 blue or black?
+creations-chat 2022-05-16 15:18:21 submarine progress
+creations-chat 2022-05-16 15:31:44 
+creations-chat 2022-05-16 15:53:45 
+creations-chat 2022-05-16 15:55:33 how do i improve it
+
+its a submarine
+creations-chat 2022-05-16 16:08:55 I have used materials to add more detail and added some vent things on the side
+creations-chat 2022-05-16 16:10:48 broke up the blue with some dark grey, might make it darker
+creations-chat 2022-05-16 16:12:29 which color are you talking about
+creations-chat 2022-05-16 16:14:29 which color would you use instead
+creations-chat 2022-05-16 16:28:31 
+creations-chat 2022-05-16 16:35:34 
+creations-chat 2022-05-16 16:41:20 https://youtu.be/wupsEGGQSkg
+creations-chat 2022-05-16 16:51:41 are submarines counted in the ship rank requirements
+creations-chat 2022-05-16 18:17:39 how do I do the motor thing that lets two halves of a build fold into one for an extra long submarine
+creations-chat 2022-05-17 11:30:13 submarine progress.
+at the bottom/back where it curves im thinking of putting a docking bay / door for mini-subs
+creations-chat 2022-05-17 12:27:31 sliding door mechanism for submarine
+creations-chat 2022-05-17 12:54:34 https://tenor.com/view/mods-discord-mod-moderator-moderation-clash-of-clans-gif-24080525
+creations-chat 2022-05-18 15:40:33 sci-fi submarine 2741 blocks so far
+creations-chat 2022-05-18 18:20:00 submarine. gonna make the back of it next.
+creations-chat 2022-05-18 18:28:44 are wip builds not allowed. i got rid of it
+creations-chat 2022-05-18 18:43:49 left, right or neither panel design?
+creations-chat 2022-05-18 18:47:36 extra design for the one on the left. might make it white like the main body
+creations-chat 2022-05-18 18:54:23 he is just baiting an argument
+creations-chat 2022-05-18 18:58:57 this is what i've modified the panel design to
+creations-chat 2022-05-18 19:03:30 
+creations-chat 2022-05-18 19:24:13 you're posting it in a creations rating channel, that is asking for their opinion
+help 2022-05-19 17:28:35 is there a way to get rid of the ugly extra stuff for a motor fold on a long build?
+creations-chat 2022-05-19 17:44:16 submarine is now 4222 blocks
+creations-chat 2022-05-19 17:47:07 
+creations-chat 2022-05-20 15:43:46 submarine progress
+creations-chat 2022-05-20 15:45:27 powerpoint presentation frame rate lmao
+help 2022-05-21 10:09:41 how do I use signs to hide the motor

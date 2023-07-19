@@ -1,0 +1,22 @@
+The Tale of edward_mkl (645897678450065418)
+help 2021-04-22 00:54:14 how do i suggest
+bot-central 2021-04-22 00:54:29 ?help
+bot-central 2021-04-22 00:56:17 ?shelp
+bot-central 2021-04-22 00:56:28 ?rank
+bot-central 2021-04-22 00:56:30 !rank
+bot-central 2021-04-22 00:56:38 ?rhelp
+bot-central 2021-04-22 00:57:32 what.
+creations-chat 2021-04-22 01:41:44 why does the ship have downvotes doe
+creations-chat 2021-06-16 10:46:41 where did the downvote go
+creations-chat 2021-06-16 10:58:04 ...
+bot-central 2021-06-28 15:48:19 ?shelp
+bot-central 2021-06-28 15:51:12 &suggest sensors(like distance sensors, color sensors, etc.)
+Configurable
+
+sensors that would automatically turn on and off when a certain expectation is met, for example, distance sensor, when you set 10 as distance, if it detects a block at distance 10 or more, it will turn on its output, same with speed sensor, color sensor and others
+bot-central 2021-06-28 15:51:33 ?rhelp
+bot-central 2021-06-28 16:33:50 reet
+bot-central 2021-06-28 16:33:53 idk how
+bot-central 2021-06-28 16:34:16 oh
+bot-central 2021-06-28 16:34:24 any random plane i made?
+bot-central 2021-06-28 16:35:56 ty

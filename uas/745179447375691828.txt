@@ -1,0 +1,74 @@
+The Tale of _aron_. (745179447375691828)
+bot-central 2021-12-17 00:37:50 !rank
+bot-central 2021-12-17 00:51:24 !rank
+the-dump 2021-12-17 00:55:43 man didnt watch his tone
+bot-central 2021-12-17 00:58:20 !rank
+bot-central 2021-12-17 01:03:50 !rank
+creations-chat 2021-12-17 01:11:04 can you give me an example of an rgb?
+creations-chat 2021-12-17 01:17:18 mk
+creations-chat 2021-12-17 01:22:24 this a better color?
+creations-chat 2021-12-17 01:33:28 alright i'll try
+creations-chat 2021-12-17 01:50:34 i cant get the back vert stabilizers to be flush w/o ruining the folding ability
+creations-chat 2021-12-17 01:55:18 i cant really fix this problem without sacrificing the shape of the plane, unlike giant bombers
+creations-chat 2021-12-17 02:00:31 So i fixed the outer blocky wing problem to an extent
+creations-chat 2021-12-17 02:10:20 should i use this wing type? or this type
+creations-chat 2021-12-17 02:12:51 i feel that might require me to restart so the question is
+is it worth restarting
+creations-chat 2021-12-17 02:17:36 the problem comes from practicality, plane crazy doesnt have angles like 1.2 x1 eg and to make it yourself means sacrificing alot of function just for looks, i like making my jets atleast recogniseable to the real plane but also still be good at pvp at the same time
+creations-chat 2021-12-17 02:21:09 this is an example of a TU-4 that i built a while back and its primary flaw is that i used angle locking but it still ended up looking quirky (PM) forgot to add image (PPM) game crashed bc went too fast with it
+creations-chat 2021-12-17 02:23:25 you could technically use the b29 as reference for the chaos that i did
+creations-chat 2021-12-17 02:25:56 Fair enough, just one issue for me
+i only build pvp builds
+Welp
+creations-chat 2021-12-17 02:28:00 obs studio?
+creations-chat 2021-12-17 02:34:48 bc its not entirely style, thats just the pc community, they dont like pvp as much as style
+creations-chat 2021-12-17 02:36:50 u said it to me yourself
+(PM) should i annoy the <#384025409945337856> channel by posting a ptfs plane?
+creations-chat 2021-12-17 02:40:47 oh alright then
+creations-chat 2021-12-17 02:44:50 my potato sucks but it can run this
+the-dump 2021-12-27 02:53:43 
+the-dump 2021-12-29 00:54:35 
+creations-chat 2022-01-01 23:57:07 Another issue is ppl find builds personal and relate it to what they build eg, if somebody is building an f16 and they see a good looking f16 they would probably downvote it out of spite or bc they think theirs is better
+creations-chat 2022-01-02 00:01:04 The thing is some people will respect that and incorporate things into future builds, (like you just said) but there is always going to be that one person out there that will downvote it simply for the sake of doing so
+creations-chat 2022-01-02 00:04:44 Same, it’s kinda sad that people favor builds sometimes not because of detail or the effort put into it, but because of what it is supposed to resemble
+creations-chat 2022-01-02 03:50:59 I critique my own builds compared to other builds eg and set my standards using good builds as the lower limit to try and improve my building
+bot-central 2022-01-11 23:10:31 -servers
+bot-central 2022-01-11 23:10:42 rip
+creations-chat 2022-03-18 10:29:24 should I build f117?
+creations-chat 2022-04-30 22:54:44 epic
+creations-chat 2022-06-14 03:49:47 should I build a yf23 with an actually accurate square pyramid to hex nose?
+and also if so if u can, can someone suggest a way for me to make a 0.5 wide 1 tall and 2 long triangle wedge?
+creations-chat 2022-06-14 03:54:04 bad drawing on wat I mean (first is side view second is front view and last one is top view
+creations-chat 2022-06-14 03:56:32 I have tried 1x4 wedges but they don’t work very well and they overrun the nose , they look kinda like this
+(Responding to comment below) A bad drawing that’s supposed to be a triangle wedge
+creations-chat 2022-06-14 03:58:58 a bad drawing that’s supposed to be a triangle wedge (blueprint format)
+creations-chat 2022-06-14 04:01:02 do u atleast understand this?
+creations-chat 2022-06-14 04:04:36 Currently in plane crazy the only 0.5 block triangle wedge is a 1x1x0.5 and the only 2 block triangle wedge is a 2x1x1 when I need a 2x0.5x1
+And I don’t wanna wait until the rewrite to finish my yf23 nose
+creations-chat 2022-06-14 04:08:27 The light gray bit is the part that I need it for
+creations-chat 2022-06-14 04:11:24 Yes but I am very worried about the top being visible through the bottom plus I can’t just use 1x4 bc it’s 2 block long
+creations-chat 2022-06-14 05:19:00 I think they mean like activated on launch, you can’t do that but you can use piston lock and toggle to motor lock it into the place when you spawn
+creations-chat 2022-07-16 13:22:40 what even is the purpose of magnet lock other than just hiding motor lock
+(since it would theoretically be easier just to hide it in a place where it won’t be seen)
+creations-chat 2022-07-16 13:27:19 I was gonna make my yf23 nose a similar concept to accomodate for the lack of the correct angle but then decided to change it for practicality plus it would have a bunch of gaps at the lvl I was gonna have to do it at
+creations-chat 2022-07-16 13:30:28 <#925563336500871268> read wat it says
+creations-chat 2022-08-11 06:26:03 is it a bad sign when ur plane isn’t even half done and ur already starting to run out of plot space
+
+bc it’s happening to me
+creations-chat 2022-08-11 06:28:16 ok, btw the amt of piston locking it has so far and the amount it will have is also probs way too much for the game to handle, ends 20 realities while tryna spawn it rn bc of roblox physics
+creations-chat 2022-08-11 08:05:28 alr
+creations-chat 2022-08-16 23:27:12 I think Ik how to make a smoke afterburner bc of a hof holder lol
+creations-chat 2022-08-16 23:29:17 Once met exquisite in game and bc his smoke thing was good I decided to get the settings and it’s actually saved on my xb70 plot and bc of the 2 smoke pipe thing I bet I could possibly make a rlly good afterburner by trial and error
+creations-chat 2022-08-18 06:32:44 The f14 tomer too expensive to maintain bc wings
+creations-chat 2022-08-18 06:36:20 so that’s why they have retired 17 b1s already
+bot-central 2022-09-02 06:42:22 ?shelp
+bot-central 2022-09-02 06:42:35 ?rhelp
+creations-chat 2022-09-05 21:21:41 https://tenor.com/view/mm-no-i-disagree-disagree-statement-gif-26392653
+the-dump 2022-10-05 08:14:01 plane crazy if they had programming:
+the-dump 2022-10-05 08:14:07 https://tenor.com/view/future-ram-ranch-gif-18120355
+the-dump 2022-10-05 11:02:23 ALAH AKBAR
+the-dump 2022-10-05 12:03:14 I do kno but chill
+the-dump 2022-10-05 12:06:56 CFA 44 OR ELSE
+creations-chat 2023-03-05 07:05:01 I built an AAM
+However I used some shredder bug principles to make it work, which makes it funny that it’s main target will most likely be shredder bugs
+In defence, shredder bugs were originally guided missiles tho which got given cutters instead of warheads which separates the missile from a pure shredder bug

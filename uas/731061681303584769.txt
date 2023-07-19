@@ -1,0 +1,21 @@
+The Tale of aurution (731061681303584769)
+bot-central 2022-04-10 16:08:25 !rank
+bot-central 2022-04-10 16:10:46 !rank
+bot-central 2022-04-10 16:18:17 !rank
+bot-central 2022-04-10 16:22:13 !rank
+bot-central 2022-04-10 16:47:48 !rank
+bot-central 2022-04-10 16:54:03 !rank
+bot-central 2022-04-10 17:00:40 !rank
+help 2022-04-10 17:03:22 how do i motorlock a missile
+help 2022-04-10 17:03:30 i suck at it
+help 2022-04-10 17:03:48 and how do i make it effective, and not so i have to stay still on the target
+bot-central 2022-04-10 17:05:18 !rank
+bot-central 2022-04-10 17:11:06 !rank
+bot-central 2022-04-10 17:11:52 $new
+bot-central 2022-04-11 08:04:47 $new
+bot-central 2022-05-15 07:40:22 -rank
+bot-central 2022-05-15 07:40:29 !rank
+help 2022-08-07 17:12:08 I'm trying to make a realistic engine. I want the driveshaft to connect with the back wheels, but I have no idea how to do this. Any help is appreciated!
+bot-central 2022-09-12 18:56:27 ?shelp
+bot-central 2022-09-12 18:57:01 ?rhelp
+help 2023-04-19 18:49:11 Ok, so I might need a bit of help. I don't know how to make a suspension pass over the train tracks with minimal jolting? Any help is appreciated. Ping me <@731061681303584769>

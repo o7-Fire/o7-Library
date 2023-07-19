@@ -1,0 +1,7 @@
+The Tale of diam0ndt (629316515895967764)
+bot-central 2020-04-09 21:37:52 !npp
+bot-central 2020-04-09 21:37:53 !np
+bot-central 2020-04-09 21:37:57 !nowplaying
+bot-central 2020-04-09 21:37:59 ?nowplaying
+bot-central 2020-04-09 21:38:00 ?np
+bot-central 2020-04-09 21:38:04 =np

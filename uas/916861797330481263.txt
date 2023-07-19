@@ -1,0 +1,8 @@
+The Tale of buhers (916861797330481263)
+help 2023-07-10 23:06:43 does anyone know how tall a 1 block:1 meter scale battleship turret (like one found on the pennsylvania class battleships) would be
+help 2023-07-10 23:07:11 ive looked at some videos (cant find any meaningful blueprints or anything of the sort) and im not sure if theyre 3, 3.5, or 4 blocks tall
+help 2023-07-13 07:55:26 is there any way to make jet engine barrels using the 3x3 huge jet engines? tnt works for 1x1 and 2x2 but not 3x3 for some reason
+help 2023-07-13 08:08:24 i've changed the values, it's just that parts don't seem to weld to the central cylinder
+help 2023-07-13 08:08:36 it looks like they weld to the exhaust nozzle for some reason
+help 2023-07-13 23:10:45 building blast bags for a gun turret, any suggestions for shape/design
+help 2023-07-14 05:44:12 spam spaces

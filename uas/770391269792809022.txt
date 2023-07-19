@@ -1,0 +1,119 @@
+The Tale of exhos (770391269792809022)
+creations-chat 2021-12-11 05:57:26 I'm trying to put *minor* camber to my car, but the left side keeps leaning, and the motors are too weak to support the car, as well as the front splitter dragging on the ground causing understeer, ideas? https://cdn.discordapp.com/attachments/794080118989389854/919105554453004328/unknown.png
+bot-central 2021-12-11 06:01:10 !level
+bot-central 2021-12-11 06:01:23 !rank
+bot-central 2021-12-11 06:13:28 !rank
+bot-central 2021-12-11 07:28:06 !rank
+bot-central 2021-12-12 06:24:43 !rank
+bot-central 2021-12-12 06:24:50 finally-
+creations-chat 2021-12-12 23:48:27 wait wha-
+creations-chat 2021-12-13 00:00:19 ah i didnt know
+creations-chat 2021-12-13 02:28:32 qwha
+creations-chat 2021-12-13 04:57:32 yw and ty
+creations-chat 2021-12-13 05:00:42 ca
+the-dump 2021-12-13 06:47:31 a
+the-dump 2021-12-13 06:53:01 jesus christ
+the-dump 2021-12-13 06:53:34 nice n’simple
+the-dump 2021-12-13 06:53:49 color could change but it works
+the-dump 2021-12-13 06:54:22 someone put on the soviet anthem
+the-dump 2021-12-13 06:54:32 im so tired i cant type properly
+the-dump 2021-12-13 06:54:34 FUCK
+the-dump 2021-12-13 06:55:00 ow
+the-dump 2021-12-13 06:55:02 guess im dead
+the-dump 2021-12-13 06:55:16 thicc tank
+the-dump 2021-12-13 06:55:21 ffs
+the-dump 2021-12-13 06:56:00 whymustyouhurtmeinthisway
+the-dump 2021-12-13 06:56:21 minor homicide
+the-dump 2021-12-13 06:56:29 just minor smh
+the-dump 2021-12-13 06:56:38 couldve gotten more
+the-dump 2021-12-13 06:57:46 just realized this is the dump
+the-dump 2021-12-13 06:58:38 uh
+the-dump 2021-12-13 06:58:54 i chewed 5 gum
+the-dump 2021-12-13 06:59:13 now im dead
+the-dump 2021-12-13 06:59:17 shit its 11
+the-dump 2021-12-13 07:00:11 lucky
+the-dump 2021-12-13 07:00:47 jesus christ
+the-dump 2021-12-13 07:01:40 chaos
+the-dump 2021-12-13 07:01:56 https://tenor.com/view/chaos-gif-22919457
+the-dump 2021-12-13 07:02:33 ok how am i like
+the-dump 2021-12-13 07:02:35 not hated
+the-dump 2021-12-13 07:03:26 south park moment
+the-dump 2021-12-13 07:03:57 andd here we go
+the-dump 2021-12-13 07:04:04 the fightings going to begin
+the-dump 2021-12-13 07:04:12 someone pass the popcorn
+the-dump 2021-12-13 07:05:34 stampy
+the-dump 2021-12-13 07:05:35 dms
+the-dump 2021-12-13 07:05:45 ive been pinging you
+the-dump 2021-12-13 07:06:26 PFFFFFF
+the-dump 2021-12-13 07:07:01 LMAO
+the-dump 2021-12-13 07:07:24 oh noo
+the-dump 2021-12-13 07:07:29 i mean
+the-dump 2021-12-13 07:07:33 yeah luckily
+the-dump 2021-12-13 07:07:42 OH FOR FUCKS SAKE
+the-dump 2021-12-13 07:07:51 DAMNIT
+the-dump 2021-12-13 07:09:12 he dead man
+the-dump 2021-12-13 07:09:28 i have a feeling he is
+the-dump 2021-12-13 07:09:58 death star?
+the-dump 2021-12-13 07:10:11 yep
+creations-chat 2021-12-15 05:46:59 wha
+creations-chat 2021-12-15 05:52:39 im too lazy to  do math after i suffered so whats 60 mph/kmh in sps
+creations-chat 2021-12-16 14:56:49 lmao
+help 2022-08-19 05:14:40 plane keeps rolling, its even on both sides with both lift and mass how do i fix it
+help 2022-08-19 05:14:50 always rolling to the left
+help 2022-08-19 05:23:10 alright
+help 2022-08-19 05:23:33 would you prefer if i sent a video example or a pic of it not motorlocked
+help 2022-08-19 05:25:20 video or pic of it?
+help 2022-08-19 05:25:50 also im not lvl 3 yet so i cant send pics of it
+help 2022-08-19 05:27:01 alr
+help 2022-08-19 05:27:03 what
+creations-chat 2022-08-20 01:06:04 does anybody have some ref pics on the f15 rear? specifically the elevator
+creations-chat 2022-08-20 01:08:08 where could i find one ty
+help 2022-08-20 19:15:26 elevators keep inverting, the setting is the same on both motor twos
+help 2022-08-20 19:19:58 yes
+help 2022-08-20 19:21:33 i have
+help 2022-08-20 19:21:38 ill try turning off toggle
+help 2022-08-20 19:28:23 yes
+help 2022-08-20 19:28:27 found the issue
+help 2022-08-20 19:28:35 the wing panel 1x1's were welding to the motors
+help 2022-08-20 19:28:47 replaced them with control panels
+help 2022-08-20 19:28:58 
+help 2022-08-20 19:30:04 issues back now what the hell
+help 2022-08-20 19:30:10 it keeps coming back at random
+help 2022-08-20 19:41:24 it keeps breaking at random one time when i spawn in they go seperate directions, another time with the same settings its perfectly fine
+help 2022-08-20 19:41:32 bloody hell
+help 2022-08-20 19:47:42 no im just matching with my gf
+help 2022-08-20 19:47:49 this is not my regular pfp
+help 2022-08-20 19:52:57 JAHKDWKDWAJKO
+help 2022-08-20 19:53:03 NO
+help 2022-08-20 19:56:12 n o
+help 2022-08-20 20:17:52 is this too much for the f15 intake
+help 2022-08-20 20:25:56 namnam would be proud
+help 2022-08-20 20:32:16 sadness
+help 2022-08-20 20:32:19 yes
+help 2022-08-20 20:36:39 yes
+help 2022-08-20 20:36:49 it doesnt look as good but it gives that performance
+help 2022-08-20 21:14:25 
+help 2022-08-20 21:14:58 in which part
+help 2022-08-20 21:15:06 i had to use half circle 2
+help 2022-08-20 21:16:23 oh
+help 2022-08-20 21:16:27 thats nice
+help 2022-08-20 21:16:49 also how would you suggest to make the fuel tanks on the side of the wings
+help 2022-08-20 21:17:00 i dont need to make a mechanism that jettisons it
+help 2022-08-21 23:27:39 whats mach 1 in game
+help 2022-08-22 21:37:05 creating a custom 6th gen, unsure what kind of wing shape or intake i should make
+help 2022-08-22 22:18:41 which is why im asking for help
+help 2022-08-22 22:19:04 i deleted the wings
+help 2022-08-22 22:19:06 added canards
+help 2022-08-22 22:19:07 https://cdn.discordapp.com/attachments/797560158821023755/1011398210050347118/unknown.png
+help 2022-08-22 22:28:48 should i push it back more?
+help 2022-08-22 22:30:03 yes
+help 2022-08-22 22:30:34 oik
+help 2022-08-22 22:30:35 ok
+help 2022-08-22 22:31:08 but should i push it back
+help 2022-08-22 22:34:07 i thought this was the help channel
+help 2022-08-22 22:43:23 whys it uneven
+help 2022-08-23 02:46:03 y/n
+help 2022-08-23 02:54:18 yes
+help 2022-08-23 02:54:19 im aware
+help 2022-08-23 02:54:35 also someone give me a new canard design
+help 2022-08-23 18:58:20 tilted elevators refuse to point down

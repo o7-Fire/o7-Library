@@ -1,0 +1,2 @@
+The Tale of macandfries (710330392154210374)
+bug-reports 2022-05-12 15:46:22 Explosive blocks are always like a foot behind where you hit something, so if you hit something moving fast on it's back then it wont take any damage. I know this is a lag thing but there probably is a fix

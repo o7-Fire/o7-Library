@@ -1,0 +1,98 @@
+The Tale of hanz_weller (476757904322723844)
+bot-central 2022-10-05 01:20:07 !rank
+bot-central 2022-10-05 13:01:59 !rank
+help 2023-05-23 00:27:45 So I have a problem with my tailless bomber. When I unfold the wings and accelerate, the motor gods deem me unworthy and banish me.
+https://medal.tv/games/roblox/clips/1aywq4WS3GJ7LV/d1337Wj5n7HB?invite=cr-MSx4Y3csNDAzMjAwMSw
+help 2023-05-23 00:27:54 Any idea on how to fix this?
+help 2023-05-23 00:30:12 It may be the motor 2s I use as the hinges, but if that is the case, how can I replace them?
+help 2023-05-23 00:31:59 How should I use the motorlocks then?
+help 2023-05-23 00:33:02 Thats going to be a pain, but alright
+help 2023-05-23 00:52:40 It somehow made it worse. Now I can get into the air but then the motors disconnect and glitch about. They also wont align properly so I have to fix that later.
+help 2023-05-23 16:05:49 So, my wingless aircraft decides to bug out at any good flying speed or when turning. I had used Motor 2s before to fold the wings and have since changed to motor 1s. But I have the same problem, if not worse, as I cannot even take off properly. Any tips on how to fix this?
+https://medal.tv/games/roblox/clips/1aywq4WS3GJ7LV/d1337CYfmp9U?invite=cr-MSw0SW8sNDAzMjAwMSw
+help 2023-05-23 16:06:58 Pretty much
+help 2023-05-23 16:07:43 Ive got a smaller version that flies without glitches, but it seems the gods dont like this one in particular
+help 2023-05-23 16:10:39 The only real difference between the two other than size is the smaller one has a giant rudder and slanted wings
+help 2023-05-23 16:57:21 ._.
+help 2023-05-23 18:10:48 Ok I temporarily fixed it, I had to slant the wings. It still glitches in flight though.
+help 2023-05-24 19:08:11 Ok I help building a gun- railgun sorta thing. I need to know how it works. Basically, I saw this guy earlier using some type of weird floating railgun, but it abused suspension (I think?) that caused the guns on board to become railguns and become super fast with very little to no drop.
+help 2023-05-24 19:11:13 It instantly vaporized my creation from across the map
+help 2023-05-24 19:11:28 And Im not exaggerating
+help 2023-05-24 19:56:43 I dont think there is a specific tower,
+help 2023-05-25 18:48:50 So I need a swarm of unmanned rocket drones...
+help 2023-05-25 18:49:14 Howmst.
+help 2023-05-25 18:49:53 I need them to be deployable via explosive block and be able to be controlled in a swarm of 6 with two rockets each
+help 2023-05-25 21:18:23 Ok so I made drones myself, but they have a problem of glitching off
+help 2023-05-25 21:33:34 https://medal.tv/games/roblox/clips/1aWKfkOCcROa8s/d1337U1CjMuR?invite=cr-MSw5YngsNDAzMjAwMSw
+help 2023-05-25 21:33:38 Here is the video
+help 2023-05-25 21:43:11 Theres two,
+help 2023-05-25 21:52:34 Oh
+help 2023-05-25 21:52:35 Ye
+help 2023-05-25 21:53:33 Itll be a min
+help 2023-05-25 22:00:03 
+help 2023-05-25 22:00:15 
+help 2023-05-25 22:00:24 Only had enough room in my plot to put half of it
+help 2023-05-25 22:01:02 Bottom explosive block is the ejecting block, control surfaces are all on auto
+help 2023-05-25 23:58:50 <@761354294859005962>,
+help 2023-05-25 23:59:44 Yea
+help 2023-05-26 14:29:50 Fixed it by removing an extra section of the wing. Apparently, the game doesnt like having  4 motors on a single part
+help 2023-05-26 14:41:40 Can you show us a video of it flying?
+help 2023-05-26 14:41:46 It may just be gravity
+help 2023-05-26 14:44:52 Im pretty sure it is weight and the placement of the wings compared to the engines
+help 2023-05-26 14:46:26 The engines are above the wings, so if you want to keep the shape of the aircraft, I suggest angling the wing tips you have a bit more
+help 2023-05-26 14:49:52 Gotcha,
+help 2023-05-26 14:50:08 cool F4 btw,
+help 2023-05-26 14:51:28 Could be, experiment
+help 2023-05-26 14:51:43 Using wing panels,
+help 2023-05-26 14:54:58 Hm,
+help 2023-05-26 14:55:33 What is your propulsion?
+help 2023-05-26 18:05:59 I do not think it matters.
+help 2023-05-26 18:08:18 
+help 2023-05-26 18:09:25 That I do not know off the top of my head
+help 2023-05-26 18:09:53 The engine is just a simple jet engine right?
+help 2023-05-26 18:11:21 Can you post another angle of the engines?
+help 2023-05-26 18:13:33 Is the section between the two engines occupied by something that can be replaced with motorlocks?
+help 2023-05-26 18:14:29 Hm
+help 2023-05-26 18:14:40 That makes it tough,
+help 2023-05-26 18:14:58 Cause the only thing I can see that would work fine is this, lemme grab a pic
+help 2023-05-26 18:18:10 So this doesnt work, but somethinig along the lines of this
+help 2023-05-26 18:18:12 
+help 2023-05-26 18:18:23 You get this
+help 2023-05-26 18:18:24 
+help 2023-05-26 18:18:52 Yea the problem is the jet engine's connection
+help 2023-05-26 18:19:23 In order to make it compact, it has to be right next to the engine, but the engines sides have connection,
+help 2023-05-26 18:23:51 Here is your best bet from my experience, there is probable a better way
+help 2023-05-26 18:24:06 To get this
+help 2023-05-26 18:24:22 
+help 2023-05-26 18:25:02 A block below the engine, motorlock one out, have a simple tower, add one motor lock to the top, and have two blocks from that towards the engine
+help 2023-05-26 18:25:39 You get a clean engine
+help 2023-05-26 18:26:00 But it costs outside room
+help 2023-05-26 18:27:48 Yea,
+help 2023-05-26 18:28:09 You could also move the motorlock under
+help 2023-05-26 18:28:15 But I dont think that will help
+help 2023-05-26 18:29:52 Dont think thats a PC problem,
+help 2023-05-26 18:30:25 Sure
+help 2023-05-26 18:30:42 Roblox having another seizure
+help 2023-05-26 18:31:18 What?
+help 2023-05-26 19:05:37 Still need help on this,
+help 2023-05-30 18:51:43 Hm, whats a good speed for custom props? Im making some functional props, but I dont want them to seem glitchy,
+help 2023-05-30 18:51:55 And theses are LARGE props btw
+help 2023-05-30 18:53:15 ._.
+help 2023-05-30 18:57:30 Im just sticking with 10
+help 2023-05-30 18:59:26 What is that? That looks like a CFA 44 Nosferatu,
+help 2023-06-02 19:03:53 Is there a way to fill these holes?
+help 2023-06-02 19:03:54 
+help 2023-06-02 20:25:30 Ill just leave it, I cant mess with the weight too much
+help 2023-06-02 21:29:55 I made the aircraft incredibly light and I had to fine tune the ballast blocks to make sure it was balanced
+help 2023-06-02 21:33:46 It took an hour to do it once, I dont have an hour again,
+help 2023-06-02 21:38:57 Im focusing most of my time on my other creation, this was like a side project
+help 2023-06-03 17:55:07 Oh, so im wondering if theres a glitch to speed a block up while not moving too much, like something with suspension
+creations-chat 2023-06-03 23:44:10 Ok, I got an idea for any mech enjoyers...Lego Batman 2 Joker robot
+help 2023-06-27 09:27:19 Anyone got ideas for canted canards?
+help 2023-06-27 09:27:48 All the ideas ive tried glitch out when they are motorlocked into place.
+help 2023-06-27 14:18:32 yea
+bug-reports 2023-07-07 16:46:56 man Im still getting error 69ed.
+bug-reports 2023-07-07 16:58:13 thats the cool thing, you dont,
+bot-central 2023-07-09 12:43:30 ?shelp
+bot-central 2023-07-10 10:11:47 bruh
+bot-central 2023-07-10 10:12:42 there we go

@@ -1,0 +1,2 @@
+The Tale of waiyana (688320343844192299)
+bug-reports 2020-12-24 09:27:20 In PVP, when i shoot someone, the plane/car breaks but the destroyed blocks will become invisible, but still fine as they are still driving/flying

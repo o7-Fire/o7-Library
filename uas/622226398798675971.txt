@@ -1,24 +1,27 @@
-aux_fox
-plane-crazy 2020-03-27 00:25:04 there I made it an .mp4
-plane-crazy 2020-03-27 00:18:44 they should have been .mp4
-plane-crazy 2020-03-27 00:18:30 idk why it downloaded as .wmv and not .mp4
-plane-crazy 2020-03-27 00:17:49 lol ok
-plane-crazy 2020-03-27 00:17:18 its deploying flares
-plane-crazy 2020-03-27 00:17:12 plus (and idk why) the missile gets shaky when frames get low
-plane-crazy 2020-03-27 00:16:43 My game drops frames while recording
-plane-crazy 2020-03-27 00:16:40 
-plane-crazy 2020-03-27 00:16:39 
-plane-crazy 2020-03-27 00:16:29 Some footage of the missile
-plane-crazy 2020-03-27 00:08:57 ?whois @[person's username]
-plane-crazy 2020-03-27 00:07:15 The missile is big yes but its good quality, and you cant really size it down without making a crappier one
-plane-crazy 2020-03-27 00:06:36 especially if you want a better performing missile
-plane-crazy 2020-03-27 00:06:21 well its hard to get smaller
-plane-crazy 2020-03-27 00:04:38 heres an example for a good missile
-plane-crazy 2020-03-26 23:32:03 ill find/make an example to post here
-plane-crazy 2020-03-26 23:30:43 the CL should behind the CG a bit (increases stability so it flies straight with no inputs) and obviously the control surfaces are there to steer. Those they are more effective the farther from the CG
-plane-crazy 2020-03-26 23:28:56 Once you make the main part with the payload and engine you add control surfaces and flight blocks
-plane-crazy 2020-03-26 23:27:37 Position of the CG is important in relation to your CL
-plane-crazy 2020-03-26 23:26:59 What engine to use varies as each type has different weight that would effect the position of the CG
-plane-crazy 2020-03-26 23:25:12 payload at the front and set to impact (obviously)
-plane-crazy 2020-03-26 23:24:55 you need the thrust lift ( Center of Lift; CL), control, Center of Gravity (CG) and payload
-plane-crazy 2020-03-26 23:24:28 <@!479273717609005059> Ive made a couple guided missiles
+The Tale of aux_fox (622226398798675971)
+help 2020-03-26 20:55:31 wow
+help 2020-03-26 20:55:48 a working swashplate that's incredible
+help 2020-03-26 20:56:51 do you have roll/pitch control as well?
+help 2020-03-26 23:40:46 <@!318892614378061824> my question was if he had could BOTH roll AND pitch using his swashplate
+bug-reports 2020-03-27 07:05:08 what cant be done only is as long as you think it cant be done
+bug-reports 2020-03-27 07:06:13 lets make this a r/IncreasinglyVerbose
+bot-central 2020-03-27 07:06:31 and normal at the same time lol
+bug-reports 2020-03-27 07:11:06 thing is not possible
+the-dump 2020-03-27 07:11:39 i have my speakers at **0** volume
+the-dump 2020-03-27 07:11:48 and I can still hear it
+the-dump 2020-03-27 07:11:55 *How*
+the-dump 2020-03-27 07:12:48 i mean how did you fall for that though
+the-dump 2020-03-27 07:12:59 it couldn't be more obvious
+the-dump 2020-03-27 07:14:57 is that supposed to trick somebody?
+the-dump 2020-03-27 07:16:14 mk listening
+the-dump 2020-03-27 07:16:34 omg your right i cant hear the scream part
+the-dump 2020-03-27 07:16:57 lol yes
+the-dump 2020-03-27 07:18:07 yeah that's why i have nice headset so it must lower the volume
+the-dump 2020-03-27 07:18:34 try it again with higher volume
+the-dump 2020-03-27 07:18:57 it will flatten the audio
+the-dump 2020-03-27 07:19:31 same way guns are as loud as people talking in youtube videos
+the-dump 2020-03-27 07:19:44 try it with your volume up
+the-dump 2020-03-27 07:20:57 yeah its 12:20 am here
+the-dump 2020-03-27 07:21:02 time to go to sleep
+the-dump 2020-03-27 07:21:07 in 3 hours
+creations-chat 2020-03-27 07:21:56 thats a really good sub

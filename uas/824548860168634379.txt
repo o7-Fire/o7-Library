@@ -1,0 +1,180 @@
+The Tale of plaboat (824548860168634379)
+bot-central 2022-04-17 12:41:18 !rank
+bot-central 2022-04-17 12:47:56 !rank
+bot-central 2022-04-17 13:00:54 !rank
+bot-central 2022-04-17 13:09:26 !rank
+bot-central 2022-04-17 13:16:43 !rank
+bot-central 2022-04-17 13:20:00 !rank
+bot-central 2022-04-17 13:26:54 !rank
+creations-chat 2022-04-17 17:21:07 What's WIP?
+creations-chat 2022-04-17 17:23:14 I deleted the unfinished creation from <#384025409945337856> .
+creations-chat 2022-04-17 17:25:02 Dude, I didn't know.
+creations-chat 2022-04-17 17:26:48 I read them.
+creations-chat 2022-04-17 17:28:29 I basically only missed out only that part when I was reading it.
+creations-chat 2022-04-17 17:31:04 By the way, what do you guys think of the motor-lock system on this?
+creations-chat 2022-04-17 17:33:17 Here's what it looks like locked.
+creations-chat 2022-04-17 17:49:21 <:wot:695654208837255219>
+creations-chat 2022-04-17 17:57:52 <:pogey:651848693842182144>
+creations-chat 2022-04-17 17:59:52 Turn into pinocchio. Say a lie.
+creations-chat 2022-04-17 18:23:08 ?shelp
+creations-chat 2022-04-17 18:26:29 Can I post a picture of food in here? Or is that general-only.
+creations-chat 2022-04-17 18:29:03 
+creations-chat 2022-04-17 18:50:38 Pee
+creations-chat 2022-04-17 18:55:21 Poo
+creations-chat 2022-04-17 18:57:06 Poo is mashed up chocolate.
+bot-central 2022-07-20 15:44:12 /shelp
+bot-central 2022-07-20 15:57:07 /rhelp
+bot-central 2022-07-20 15:57:34 ?rhelp
+bot-central 2022-07-20 16:01:23 !rank
+creations-chat 2022-07-20 17:47:46 the floating motors are for folding, if it weren't for them, the build would collapse.
+creations-chat 2022-07-20 17:49:54 honestly, I probably won't change anything, I wanted it to basically look like this.
+creations-chat 2022-07-20 17:51:58 I didn't make it specifically for destroying shredders, I made it for kind of like acting, if you know what I mean.
+I am making tons of these vehicles for acting.
+creations-chat 2022-07-20 17:54:01 For example, I am working on the Anti-Shredder Panther and anti-shredder Stegodyphus.
+creations-chat 2022-07-20 17:56:50 yeah, well, after the release of the rest of my ships, I may or may not rebuild it in a different form.
+help 2022-09-04 18:47:57 I keep trying to fix this error in this piece of motorlock but it continues to go into this block when I want it to face the corner and go into this corner (the dark grey along with the light grey)
+help 2022-09-04 18:48:27 Does anybody know why this might be happening?
+help 2022-09-04 18:50:17 this is the motor lock mechanism
+help 2022-09-04 18:53:44 can someone tell me what is the problem with this
+help 2022-09-04 18:55:35 instead of the curved piece going into the dark and light grey corner, it goes into the white block
+help 2022-09-04 18:56:22 it is as if the curved piece just doesn't want to go inside the corner
+help 2022-09-04 18:57:17 wdym?
+help 2022-09-04 18:58:01 so you want me to rebuild the motorlock a bit to the side? alr
+help 2022-09-04 19:01:29 it won't work since the curve will stick to the grey part
+help 2022-09-04 19:01:51 and I will not be able to use motorlock
+help 2022-09-04 19:04:32 I can try somehow just using plain curves without turning them at all but it would looks wrong with all the pieces sticking out
+help 2022-09-04 19:05:07 but that would be wrong, and I refuse to do that
+help 2022-09-04 19:05:24 motorlock
+help 2022-09-04 19:06:40 make a hole in there,  form a motorlock piece with text at the end of it
+help 2022-09-04 19:07:21 then idk
+help 2022-09-05 10:54:06 can a motor lock expert please explain what is wrong here?
+help 2022-09-05 10:58:51 I put all the motors on max torque but nothing changed
+help 2022-09-05 11:02:23 so what should I do?
+help 2022-09-05 11:03:16 Now?
+help 2022-09-05 11:04:31 I  am trying to remake the loxodon but a bit different.
+help 2022-09-05 11:05:01 wait, I'll give you a closer look at the mechanism,
+help 2022-09-05 11:05:18 also would anchor blocks cause a problem?
+help 2022-09-05 11:05:40 yes
+help 2022-09-05 11:05:43 ok
+help 2022-09-05 11:05:57 ok
+help 2022-09-05 11:07:01 
+help 2022-09-05 11:08:39 So what is happening is, instead of the like curved dark grey part going into the light and dark grey corner, it goes into the white block
+help 2022-09-05 11:08:50 and it needs to go inside of the corner
+help 2022-09-05 11:09:09 it's as if it is being pushed out
+help 2022-09-05 11:10:11 it needs to go into there
+help 2022-09-05 11:10:26 and I need to angle lock it
+help 2022-09-05 11:10:45 ok
+help 2022-09-05 11:10:55 what will that do?
+help 2022-09-05 11:11:21 ah, ok
+help 2022-09-05 11:11:57 It worked, thank you
+creations-chat 2022-09-07 16:54:27 thanks
+creations-chat 2022-09-07 17:04:52 why am I only getting downvotes
+creations-chat 2022-09-08 14:41:00 It isn't supposed to look exactly like loxodon
+help 2022-09-10 19:57:02 how do I be a god in motorlock and designing
+creations-chat 2022-09-10 20:12:41 ok
+help 2022-09-10 20:21:51 thank you
+creations-chat 2022-09-10 20:56:34 ok
+help 2022-09-11 11:52:45 what motorlock structure should I begin building first to be a god in motorlock
+help 2022-09-11 11:59:22 ik, I just need an idea so I know what I should build
+help 2022-09-11 11:59:51 what is something simple I can build that uses motor lock
+help 2022-09-11 12:00:44 a structure that uses motorlock
+help 2022-09-11 12:24:04 can someone pls give me an idea <:ElonSad:573361014112780303>
+help 2022-09-11 12:24:45 ok
+help 2022-09-11 16:24:30 how do I do the like plates that look like signs that had their material and colour changed?
+help 2022-09-11 16:26:17 but I can't change the colour for some reason
+help 2022-09-11 16:27:15 thanks
+creations-chat 2022-09-15 17:28:50 is this an ok start to the front of a ship?
+creations-chat 2022-09-15 17:31:06 the bottom and top may be a bit blocky and I will try find a solution to make it a bit more smooth
+creations-chat 2022-09-15 17:46:15 
+creations-chat 2022-09-15 18:08:17 Does this front look ok for now?
+creations-chat 2022-09-15 18:11:00 elaborate
+why
+creations-chat 2022-09-15 18:14:10 WHY
+creations-chat 2022-09-15 19:13:39 someone just tell me the problem with this..
+creations-chat 2022-09-15 19:53:33 it is the front of a ship
+help 2022-10-01 15:54:34 I want to put ladders on these wedges and the other side too but I don't know how to do it without motors sticking out everywhere
+help 2022-10-02 12:08:15 can someone explain pls
+bug-reports 2022-10-02 13:01:14 whenever I use engines and edit the controls when I check back later the controls switch places
+help 2022-10-02 16:26:56 is this impossible to make?
+help 2022-10-02 16:33:14 <:OMEGALUL:528987216643489792>
+help 2022-10-02 16:36:29 <:ElonSad:573361014112780303>
+help 2022-10-02 16:40:47 I want to place angle locked ladders on this wedges without having motorlock sticking out every where.
+help 2022-10-02 16:41:39 I am recreating this model of the spirit of fire from halo, yet I have no idea what I need to do to stop the motorlock for sticking out,
+help 2022-10-02 16:43:32 by the way, I'm talking about this part, should I just leave it as wedges?
+help 2022-10-02 16:44:28 the part in the model that is circled in blue
+help 2022-10-02 16:45:10 nope, not that
+help 2022-10-02 16:45:35 I'll do the thing with delta wings and all that for the grater
+help 2022-10-02 16:45:40 but I meant the wedges
+help 2022-10-11 15:58:21 how do I colour text on the invisible text signs, I can't edit the sign nor colour it
+help 2022-10-11 15:59:04 and it's just making me type when I want to edit it
+help 2022-10-11 16:07:06 hey, do YOU know how to colour invisible text sign texts?
+help 2022-10-11 16:07:37 but what if it is on a wall.
+help 2022-10-11 16:08:24 <:WhatChamp:775044367022555166>
+help 2022-10-11 16:08:44 the texts are glitched?
+help 2022-10-11 16:08:45 how?
+the-dump 2022-12-28 19:35:49 this is why people hate mayo
+the-dump 2023-01-28 13:18:32 https://www.youtube.com/watch?v=l8W98L94gw8&ab_channel=MysteriousCheese
+the-dump 2023-04-28 18:30:10 
+the-dump 2023-04-28 18:32:04 wanted criminals ^
+help 2023-05-18 16:40:33 why isn't it locking, the wedges that are supposed to lock just stay, and the motors just lock to the big part
+help 2023-05-18 16:40:48 and disconnect from the wedge/half block part
+help 2023-05-18 16:46:35 only the motor part is connected to the rest of the build, so it locks
+help 2023-05-18 16:49:12 glass part, this part is supposed to be motorlocked over the glass
+help 2023-05-18 16:49:43 the area circled in red isn't stuck to anything other than the motors
+help 2023-05-18 16:50:17 ok
+creations-chat 2023-06-25 19:49:31 what should I add here and any suggestion on how to make the front kind bit - the ridges more smooth, so it doesn't look so blocky
+it's a spaceship
+creations-chat 2023-06-25 20:11:56 it's not a star destroyer
+creations-chat 2023-06-25 20:18:06 but what should I add to the next like segment of the build, this thing is gonna be  really long, im thinking about adding a cannon area with turrets sticking out of the ship on both sides but don't know how to start building it, and make it look smooth, the top part is gonna look really weird if I just leave it flat on the back
+creations-chat 2023-06-25 20:31:56 I think I can use a lot parts, rotate them with motors and motor lock them together to make the round thing but it'll take a lot of time
+creations-chat 2023-06-26 08:26:36 
+creations-chat 2023-06-26 08:35:39 every school advertisement:
+creations-chat 2023-06-26 08:50:37 
+creations-chat 2023-06-26 08:58:02 fish
+creations-chat 2023-06-26 09:16:45 
+creations-chat 2023-06-26 09:23:34 spaceship
+creations-chat 2023-06-26 09:30:21 🦞
+creations-chat 2023-06-26 15:43:19 it left me broken
+creations-chat 2023-06-26 15:51:30 giant mech
+creations-chat 2023-06-26 15:53:33 look up a tutorial on how to form a mech, it is really easy
+creations-chat 2023-06-26 15:55:59 look up sketch fab or 3d warehouse, sketch fab is better, higher quality, there are a lot of vehicle models there
+creations-chat 2023-06-26 16:10:30 spaceships, tanks, cars, planes,
+creations-chat 2023-06-26 16:13:19 idk
+creations-chat 2023-06-26 16:17:07 
+creations-chat 2023-06-26 16:26:42 yes
+creations-chat 2023-06-26 16:58:49 im trying to make a snake dragon thing, how do I make the segments, if I use motors i'll probably have to put a lot of space in between all segments
+creations-chat 2023-06-26 18:18:02 why is my motor 2 not moving at all, when I play it does nothing, when I my cursor
+creations-chat 2023-06-26 21:00:57 when making a long dragon, how do I attach the segments together  without having a lot of space in between them, ropes definitely don't work
+creations-chat 2023-06-27 16:25:56 how can I make it so this thing flies smoothly, it freaks out when I play
+help 2023-06-27 18:23:05 how do I make it so my build can hover (propellor blades)
+help 2023-06-27 18:23:38 so it doesn't just keep going up
+help 2023-06-27 18:46:10 I used a tutorial but when I use it, it freaks out and doesn't fly
+help 2023-06-28 20:04:52 titanic 2
+help 2023-06-29 15:41:32 lock the motors for the yaw
+help 2023-06-29 15:41:48 nvm idk what to do honestly
+help 2023-06-29 15:42:04 oh
+help 2023-06-29 15:42:16 i thought you were using normal motors
+help 2023-06-29 17:00:59 reporting was closed
+help 2023-06-29 17:04:05 anti copy blacklist him
+help 2023-06-29 17:04:48 settings -> turn on anti copy blacklist -> blacklist him
+help 2023-06-29 17:10:31 know I yes
+help 2023-06-29 17:15:54 ?tutorial build how zeppelin big
+help 2023-06-29 17:18:09 fineshed
+the-dump 2023-06-29 17:20:42 https://www.youtube.com/watch?v=7X4Rs0hr1pQ
+help 2023-06-29 17:21:15 https://tenor.com/view/math-calculate-confusing-figure-out-gif-6237717
+help 2023-06-29 17:41:16 <:trollface:775024642104229898>
+help 2023-06-29 17:42:21 https://tenor.com/view/cat-stare-gif-25974981
+help 2023-06-29 17:45:34 anyone have any idea on what i should build
+help 2023-06-29 17:58:21 no
+help 2023-06-29 18:07:06 what
+help 2023-06-30 17:08:04 what is the biggest abomination you can build
+help 2023-07-01 10:53:38 what that
+help 2023-07-01 10:53:42 looks sick
+help 2023-07-01 10:57:44 how much motor lock did you use
+help 2023-07-01 10:58:10 ok
+help 2023-07-01 10:58:26 ok
+the-dump 2023-07-01 11:48:29 
+creations-chat 2023-07-01 12:36:29 
+creations-chat 2023-07-01 12:40:48 also very cool build
+creations-chat 2023-07-01 19:56:40 i have it
+now I have a roblox concussion every second

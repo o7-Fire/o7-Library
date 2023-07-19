@@ -1,0 +1,19 @@
+The Tale of wildfl (532679066663518228)
+help 2021-12-20 20:39:43 Does anyone know why rockets may go slower than builds
+help 2021-12-20 20:39:54 i have a big problem with this all the time
+help 2021-12-20 20:40:06 And i dont understand why
+help 2021-12-20 21:22:46 ive tried at higher speed
+help 2021-12-20 21:22:52 it just doesnt work
+help 2021-12-20 21:24:50 huh
+help 2021-12-20 21:44:26 Ok I think I found the issue it’s that you can’t motor lock them but I wonder if you used tnt it would be possible without a negative effect
+help 2021-12-20 21:47:17 Probably because motors aren’t really real blocks
+help 2021-12-20 21:47:51 And thus not “connected” to the aircraft and not accounting for its speed
+help 2021-12-27 19:22:44 ok so i need help i think im experiencing a glitch that i cant get rid of
+help 2021-12-27 19:23:25 
+help 2021-12-27 19:23:28 everytime i spawn it my chair goes into that position no matter what
+help 2021-12-27 19:23:36 even when not attached to the creation
+help 2021-12-27 19:25:19 
+help 2021-12-27 19:28:08 it also seems to be attached to the creation even though its not
+help 2021-12-27 19:45:33 yes
+help 2021-12-27 19:46:34 alright thanks
+creations-chat 2022-07-13 17:56:16 anyone know a good fighter jet sound id

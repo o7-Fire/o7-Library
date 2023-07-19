@@ -1,0 +1,107 @@
+The Tale of Emperor Peanut (622423089212555264)
+help 2022-03-18 16:18:51 When ever i move forward in my sub under water the bow goes up and its kind of annoying is there a way to fix that?
+help 2022-03-18 16:20:16 so like move the engine to the center?
+help 2022-03-18 16:23:57 wdym by putting a small engine above?
+help 2022-03-18 16:25:44 k
+help 2022-03-18 22:29:04 if i wanted to make a flying ship what engine/motor should i use?
+help 2022-03-19 13:43:23 hey guys how do i make something levitate high and be controllable like move up and down?
+help 2022-03-19 14:42:13 may i ask how your going to make it go up and down cuz i am learning to try to make a flying boat.
+help 2022-03-19 14:43:52 ok thx
+help 2022-03-19 14:45:06 btw does a ballast tank work like a controllable counter weight on ground?
+bug-reports 2022-04-02 14:23:15 so is it a game mechanic or an bug?
+help 2022-07-20 18:55:17 how to fix my turret swinging around i know it has something to do with motor?
+help 2022-07-20 20:00:28 like the turret swings back and forth and like vibrates
+help 2022-07-20 20:04:42 would a motorlock on top of a motor 2 be causing it?
+bot-central 2022-07-21 02:20:25 !shelp
+bot-central 2022-07-21 02:20:48 ?shelp
+bot-central 2022-07-21 02:21:16 ?rhelp
+bot-central 2022-07-21 02:38:27 !rank
+help 2022-07-21 02:39:43 try motor locking the barrel from the outside into the turret thats how i make my turrets
+help 2022-07-21 02:43:24 Check the wiki it should give you info on the length and wing span
+help 2022-07-21 02:44:21 or any site that gives info should do
+help 2022-07-21 02:45:42 thx i guess
+help 2022-07-21 02:52:27 yes i agree
+help 2022-07-21 03:09:21 Use Wedges or custom angles
+bug-reports 2022-07-21 03:13:53 I have a Save Slot which is stuck on one version of my tank everytime i update it and save it always loads the old version
+bot-central 2022-07-21 03:45:47 !rank
+bot-central 2022-07-21 03:45:55 So close
+help 2022-07-21 03:48:53 📸
+creations-chat 2022-07-21 03:53:57 Legend says that no mortal brain can understand this knowledge.
+bot-central 2022-07-21 05:24:53 !rank
+help 2022-07-21 13:30:35 https://streamable.com/fottgg
+help 2022-07-21 13:49:19 you might have to make your turret bigger
+help 2022-07-21 13:50:15 something is connected to the barrel
+help 2022-07-21 14:08:47 i think your turret is too small for it
+bot-central 2022-07-21 14:09:22 !rank
+help 2022-07-21 14:33:55 Use magnets to weld them on them blow them off
+help 2022-07-21 14:35:05 well if you mess with the setting i think you can weld any blocks together
+help 2022-07-21 14:35:19 thats how i weld my ships
+help 2022-07-21 14:36:22 no like when the blocks are touching activate its weld ability
+bot-central 2022-07-21 21:38:15 ?rhelp
+help 2022-07-22 14:31:08 add track armor if you can
+bot-central 2022-07-22 18:42:28 !rank
+bot-central 2022-07-22 19:11:21 ?shelp
+bot-central 2022-07-22 19:16:40 ?rhelp
+help 2022-07-22 21:54:11 try using the motor but place it a block away
+help 2022-07-22 21:54:25 trial and error
+help 2022-07-22 21:54:33 thats how i lerned
+help 2022-07-22 21:56:23 sorry man not possible due to the fact that the motor has to be in middle
+bot-central 2022-07-22 22:52:14 !rank
+bot-central 2022-07-23 03:48:08 !rank
+bot-central 2022-07-23 03:48:26 !rank
+bot-central 2022-07-23 16:13:47 -server
+bot-central 2022-07-25 20:54:53 !rank
+creations-chat 2022-08-10 01:32:44 rip
+creations-chat 2022-08-10 01:34:46 everyone knows the name but no one dares to tell how they know
+creations-chat 2022-08-10 01:37:31 he who is wise dares not tell where they find it
+bot-central 2022-08-10 05:21:45 !rank
+help 2022-08-10 22:35:18 Is there a way to make a ai bot that randomly moves and or follow other players without you controlling them?
+help 2022-08-11 14:41:03 Tell pls
+help 2022-08-11 14:44:59 Oh so it not possible to make it normally
+help 2022-08-12 03:40:06 Is there a way to make a working combination lock or something that works with a anchor block with no physics?
+help 2022-08-12 03:40:38 Did only ones that work with physics
+help 2022-08-12 03:41:08 Doesn’t hurt to ask does it?
+help 2022-08-12 03:41:35 What
+help 2022-08-12 03:41:43 What
+help 2022-08-12 03:42:01 Interesting
+help 2022-08-12 03:43:10 If say I disconnect a part of my build from the anchors does that part now have physics?
+help 2022-08-12 03:44:34 Like if I disconnect a part that I want to have physics
+help 2022-08-12 03:44:43 But the rest is locked
+help 2022-08-12 03:48:08 Ok let’s say I have a big build and I want it to be anchored without physics but I want a room to have physics so I can make a lock
+help 2022-08-12 03:48:58 But what if I disconnect that room from the build
+help 2022-08-12 03:49:12 And use a separate anchor with physics
+help 2022-08-12 03:49:22 Nice
+help 2022-08-12 05:03:15 Wdym
+help 2022-08-12 05:03:45 Like put stuff on top of the motor
+help 2022-08-12 05:04:38 Will it still lock everything into place?
+help 2022-08-12 05:06:01 And will it be a motor 1 or 2 also is it powered?
+help 2022-08-12 17:41:38 does roll to only one side or is it random?
+help 2022-08-12 17:42:25 so something is unbalanced
+help 2022-08-12 17:42:43 check all your engines and make sure they all work
+bot-central 2022-08-18 22:45:29 !rank
+help 2022-08-21 18:28:01 does magnets affect other players?
+bot-central 2022-08-21 21:41:07 !rank
+help 2022-09-01 15:15:17 what does a paint block do?
+help 2022-09-04 02:38:57 If I have tnt on impact and ignore self does it explode when it touches my own build?
+the-dump 2022-09-04 18:27:56 my best game ever
+the-dump 2022-09-04 18:31:30 yes i have analyst here https://www.chess.com/game/live/56052947223
+help 2022-10-19 18:05:29 You can never fully cover it the texture is too great
+help 2022-10-19 18:06:09 Try 67
+help 2022-10-19 18:06:24 Something around That area
+help 2022-10-19 18:07:12 Yes
+help 2022-10-19 18:07:29 If not add and minus a bit
+help 2022-10-19 18:10:29 What color are your metal I use 99 as standered
+help 2022-10-19 18:11:17 Than idk 67 is for 99 color
+help 2022-10-19 18:13:24 Check if the the wings are attached to the main body
+help 2022-10-19 18:14:06 The picture is to small for me to give the answer
+help 2022-10-19 18:15:51 Replace the cash here with full blocks than test
+help 2022-10-19 18:15:59 Camera
+help 2022-10-19 18:16:28 Ok
+creations-chat 2023-02-16 19:29:09 It may be high effort but it ain’t good
+creations-chat 2023-02-16 19:31:50 Bro it looks like a shoe from the side no camo is hiding that
+creations-chat 2023-02-16 19:38:15 The entire tank has only 2 angles with a comically tall turret and no gun mantlet
+creations-chat 2023-02-16 19:51:55 so it aint even a tank atleast make the turrets move takes actually like 2 minutes
+the-dump 2023-04-07 03:05:28 
+the-dump 2023-04-07 03:05:35 dog
+the-dump 2023-04-07 03:07:20 its a deer in winter that has the wasting disease
+help 2023-07-09 00:58:17 did cutters get nerfed it does nothing my sword acts more like a baseball bat

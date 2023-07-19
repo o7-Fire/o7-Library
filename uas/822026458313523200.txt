@@ -1,0 +1,672 @@
+The Tale of Deez (822026458313523200)
+help 2021-12-19 08:33:51 how do i make my mech stable..
+help 2021-12-19 08:36:21 yes I did that
+help 2021-12-19 08:36:25 it still wobble like crazy
+help 2021-12-19 08:36:31 and cant even walk right
+help 2021-12-19 08:36:44 the entire mech
+help 2021-12-19 08:36:56 tilting left and right
+help 2021-12-19 08:37:03 I honestly don't know
+help 2021-12-19 08:37:11 I just have max ballast at the feet and helium on top
+help 2021-12-19 08:38:22 do u have time to assist me in the game
+help 2021-12-19 08:38:27 where
+help 2021-12-19 08:38:34 ok
+help 2021-12-19 08:39:09 I will try
+help 2021-12-19 08:39:35 does the helium have to be on the top and not the torso or waist
+help 2021-12-19 08:40:55 oh
+help 2021-12-19 08:41:04 ok I will go change some stuff in my mech
+help 2021-12-19 08:41:14 what if it doesnt have a head
+help 2021-12-19 08:41:20 the head is the torso
+help 2021-12-19 08:41:25 like a titanfall mech
+help 2021-12-19 08:42:08 ok
+help 2021-12-19 08:42:48 should I do apply at center
+help 2021-12-19 08:42:51 or is that a bad thing
+help 2021-12-19 08:48:00 it's wobbling back and forth
+help 2021-12-19 08:48:15 when walking
+help 2021-12-19 08:56:39 sometimes lag can cause wobbling i think
+help 2021-12-19 08:57:41 <@456226577798135808> u good at mech?
+help 2021-12-19 08:57:47 I need help
+help 2021-12-19 08:58:41 my mech balancing is dogwater
+help 2021-12-19 08:58:46 it can barely walk
+help 2021-12-19 09:53:34 if I used regular powered motors for a mech's leg wouldnt they be in odd positions if it got bumped rly bad and be forced to respawn or something
+help 2021-12-19 10:30:27 my mech can't walk properly
+help 2021-12-19 10:30:59 that doesn't help
+help 2021-12-19 10:31:17 there's very little resources on youtube that teaches u how to make ur mech stable
+help 2021-12-19 10:32:33 so it's 1:1:1, front:middle:back or some parts need to have more helium
+help 2021-12-19 10:36:16 yeah did that
+help 2021-12-19 10:36:38 if more it might start floating
+help 2021-12-19 10:37:08 I only have 2 max ballast at the feet 1 on each leg
+help 2021-12-19 10:37:24 I think there needs to be improvement on my walking mechanism
+help 2021-12-19 10:38:09 every motor below waist level (entire leg) are free and it is powered by some propellers
+help 2021-12-19 10:38:20 I cant make a walking mech with powered motors
+help 2021-12-19 10:39:04 the leg when launched
+help 2021-12-19 10:40:23 for refference
+help 2021-12-19 10:40:33 im doing a titan fall mech
+help 2021-12-19 10:40:46 not that chonk
+help 2021-12-19 10:41:14 is there any way I can make it better at walking
+help 2021-12-19 10:42:29 how do i send a clip of it walking
+help 2021-12-19 10:42:43 
+help 2021-12-19 10:42:48 it worked
+help 2021-12-19 10:43:13 too wobbly
+help 2021-12-20 03:50:29 the mechanism isn't but I still can't figure out how it works
+help 2021-12-20 13:10:04 I can make great wall of china with that
+help 2021-12-20 13:10:17 <:FineTroll:626841259746656289>
+bug-reports 2021-12-22 10:41:39 tnt works, but I believe the explosion is delayed so it probably exploded only after bouncing off target therefore missing, just a theory
+help 2021-12-23 15:17:04 
+creations-chat 2021-12-24 01:41:33 idk how
+creations-chat 2022-01-10 06:25:32 <@753399511061233694> make the body open and close like a Titanfall mech
+creations-chat 2022-01-10 08:47:05 segsy
+creations-chat 2022-01-11 14:54:05 bet, how do i take a vid on windows, ok
+creations-chat 2022-01-11 14:59:22 https://streamable.com/5ud182  (had to angle it so u guys can see it running from side view and the acalyte pods following my mouse that's why the acalyte pods going weird lol)
+creations-chat 2022-01-11 15:05:33 im gonna build ronin titan next
+creations-chat 2022-01-11 15:28:47 if his 35k block was a lie, warn, if he reveals he really has 35k block, prob less downvotes
+creations-chat 2022-01-11 16:06:07 why hide 35k sticks within sticks
+creations-chat 2022-01-11 16:15:42 tried making the arms move but not much space for that, would probably need to redesign the arms, that's the best I can do to simulate running, how else could I make it run stable without helium support, ok thx
+creations-chat 2022-01-12 03:28:44 is that a rounded answer
+creations-chat 2022-01-12 03:34:26 1 meter = 1.42857 block
+1 block = 0.7 meter
+
+no, the further it multiplies the more it get inaccurate so consider it 1.4
+creations-chat 2022-01-12 03:37:10 I don't use feet but according to google it's 2.29659
+creations-chat 2022-01-12 16:54:38 wing panels made movement a lot smoother and consistent now (thx), will make a new video of it running again soon
+creations-chat 2022-01-14 06:30:03 step 3: leave the server
+creations-chat 2022-01-14 06:56:09 I copied Titanfall 2
+creations-chat 2022-01-14 08:46:40 I have a question, what do you use to propell your tank forward
+creations-chat 2022-01-14 09:10:11 so ur saying his tracks are scarpping the ground and his wheels are useless, ok ima do a tank like that
+creations-chat 2022-01-14 09:13:11 2 block wide? im trash at motor lock
+creations-chat 2022-01-14 09:17:45 I think i will just go back to making Glamrock Freddy
+creations-chat 2022-01-14 09:22:25 Have you heard of Among us, Gregory?
+creations-chat 2022-01-14 12:05:52 me too <:pogey:651848693842182144>
+creations-chat 2022-01-17 14:10:18 you prioritize detail over functions?
+creations-chat 2022-01-17 14:12:57 pvp or not, I value function just as much as the design, because I really don't enjoy having a good looking build that has limited functions, it's just my opinion that I like functions just as much as design (make a video on the functions 😳)
+creations-chat 2022-01-17 14:15:07 I actually thought ur nozzle could move up and down <:empty:794431705070174238>, turns out I overestimated something
+creations-chat 2022-01-17 14:18:21 I guess keeping the aesthetic while having a functioning nozzle becomes more difficult or not depending on the tank frame and design in the first place
+creations-chat 2022-01-23 03:19:29 <@!753399511061233694> you can use this emoji for the headlight instead of circle, ⚪
+creations-chat 2022-01-23 05:08:55 windows key and ; will show you list of emojis
+events-chat 2022-01-28 09:38:03 can i only join the bonus round with whatever mech i have
+creations-chat 2022-02-03 21:22:59 how does blast pressure affect tnt block, specify what it actually does, does it delay the explosion?
+help 2022-02-03 21:25:38 does blast pressure delay tnt block explosion
+help 2022-02-03 21:25:50 also does it affect the explosion radius
+help 2022-02-03 21:32:25 where is it
+help 2022-02-03 21:33:45 wait
+help 2022-02-03 21:33:49 what does impact speed do exactly
+creations-chat 2022-02-03 21:34:23 emotional damage
+help 2022-02-03 21:36:22 ohh
+help 2022-02-03 21:36:28 so if I make impact speed of 0
+help 2022-02-03 21:36:31 then it blow instantly
+help 2022-02-03 21:37:00 if I put the missile on impact, and impact speed of 0
+help 2022-02-03 21:37:12 would the 'on impact' settings be finally useful 🗿
+creations-chat 2022-02-16 12:42:39 <@638063314752241735> u dont put F1 downforce wings for drifting
+creations-chat 2022-02-18 11:57:16 teleporter is definitely not allowed within the rules, what is 0g, how, if the vehicle have no weight I can slip
+creations-chat 2022-02-18 12:21:31 cool, if u read what I said, I only need performance, additional performance feedback, big or small, I will take it, if aesthetic feedback, I know what u are going to say already, some sacrifices have to be made for performance
+creations-chat 2022-02-18 12:24:22 winter wheels are the grippest things that exist in plane crazy, I tested it, winter wheels are still way better in cornering
+creations-chat 2022-02-18 12:26:48 then u can fuck off, I'm only here for performance feedback to dominate the F1 entry not some whining joe 🗿, I will dm u a video of the performance when I'm free later
+creations-chat 2022-02-18 12:29:05 active suspension system, soft anti roll bar, triple hybrid engine mix, extra adjustable wings both front and back before cornering, u can give me some more if u can think of one, I'm really trying to think of a good tech to add in
+creations-chat 2022-02-18 12:38:22 wdym elaborate
+creations-chat 2022-02-18 12:41:05 they aren't glitchy, they are just very very grippy, so grip u can flip from turning, if u have F1 downforce, u won't flip
+
+doesn't matter, it don't mess with performance
+creations-chat 2022-02-18 12:44:37 im in an F1 entry that have certain rules, looking good isn't one of them
+
+don’t care + didn’t ask + cry about it + stay mad + get real + L + cope harder + h0es mad + basic + skill issue + ratio + counter ratio + you fell off + the audacity + triggered + stay mad+ any askers + redpilled + get a life + ok and? + cringe + touch grass + donowalled + not based + your’re probably white + GG! + get good + go outside + not based + grammar issue + your're* + ad hominem + reported + you're a full time discordian + not funny didn't laugh + hahahahaha cry
+creations-chat 2022-02-18 12:46:41 my F1 is not aesthetic based, im here for performance feedback not toxic aesthetic comments
+creations-chat 2022-02-18 12:49:58 so pcc is the wrong place to ask for F1 performance feedback <:empty:794431705070174238>
+
+I posted specifically here for feedback on performance for the entry
+creations-chat 2022-02-18 12:52:39 basically wasted time here explaining the existing performance tech components on my F1 but got nothing in return
+creations-chat 2022-02-18 13:27:08 should I report
+creations-chat 2022-02-18 13:29:11 ok I'll let him go 🗿
+creations-chat 2022-02-18 13:42:04 can I ask u for performance feedback in dms, here is useless other than people vomitting on me
+creations-chat 2022-02-18 13:49:45 
+creations-chat 2022-02-18 13:52:15 <@!335599526414909451> <@!460531752033845258> and <@456226577798135808> is harassing people.
+creations-chat 2022-02-18 14:03:02 actually, I believe people just want to talk down on other people more than actually giving feedbacks, wouldn't change much if downvotes disappeared, slow mode too long im lazy to respond 🗿
+creations-chat 2022-02-18 14:05:57 im trying to learn to not have an ego and actually get along with people not like all of u 🗿
+creations-chat 2022-02-18 14:08:19 don’t care + didn’t ask + cry about it + stay mad + get real + L + cope harder + h0es mad + basic + skill issue + ratio + counter ratio + you fell off + the audacity + triggered + stay mad+ any askers + redpilled + get a life + ok and? + cringe + touch grass + donowalled + not based + your’re probably white + GG! + get good + go outside + not based + grammar issue + your're* + ad hominem + reported + you're a full time discordian + not funny didn't laugh + hahahahaha cry
+creations-chat 2022-02-18 14:11:44 who's fault was it <:FineTroll:626841259746656289>, was it me not able to shut or was it people being toxic 🗿, also ur 4/14/2021 crazy dave post looks bad, could do better if u did motor lock and removes the disconnector rect prisms
+the-dump 2022-02-24 12:11:17 https://streamable.com/q4pdx0
+help 2022-03-06 06:07:32 what is the largest possible explosion we can make in plane crazy?
+help 2022-03-06 06:48:44 my camera is attached to nothing and floats 💀
+help 2022-03-06 06:49:07 I don't know 💀
+the-dump 2022-03-08 12:11:08 doesnt beer taste bitter
+the-dump 2022-03-08 12:28:13 i think i got warned for putting shit in the dump
+the-dump 2022-03-08 12:28:46 it's not against the rules according to the rules 🗿
+the-dump 2022-03-08 12:28:58 
+the-dump 2022-03-08 12:30:05 
+the-dump 2022-03-08 12:31:28 what is shitpost and why did i get warned <:empty:794431705070174238>
+the-dump 2022-03-08 12:32:05 what's funny about it, I read the rules nothing against it
+the-dump 2022-03-08 12:32:28 this is a meme area isn't it
+the-dump 2022-03-08 12:32:59 there is no nsfw in that image
+the-dump 2022-03-08 12:33:10 wher
+the-dump 2022-03-08 12:33:13 💀
+the-dump 2022-03-09 12:18:34 i choose the line inbetween them
+creations-chat 2022-03-09 12:22:32 do video performance
+bug-reports 2022-03-09 12:31:08 character not spawning back to base despite respawned the build, what's the cause?
+creations-chat 2022-03-10 02:22:44 start
+the-dump 2022-03-22 13:07:53 
+the-dump 2022-04-13 12:14:43 https://tenor.com/view/kinoplex-steak-allow-me-to-explain-the-guy-above-me-is-insane-talking-gif-24312956
+the-dump 2022-04-13 12:15:02 https://tenor.com/view/no-body-asked-man-talking-to-wall-black-man-talking-to-wall-speach-bubble-gif-23545089
+the-dump 2022-04-13 12:16:01 https://tenor.com/view/zelda-rat-fool-chat-bubble-gif-23046792
+the-dump 2022-04-13 12:16:21 https://tenor.com/view/zelda-rat-fool-chat-bubble-gif-23046792
+the-dump 2022-04-13 12:16:25 yes
+the-dump 2022-04-13 12:16:30 i have achieved
+the-dump 2022-04-13 12:16:40 embed but only the link
+the-dump 2022-04-13 12:16:48 https://tenor.com/view/zelda-rat-fool-chat-bubble-gif-23046792
+the-dump 2022-04-21 06:07:38 
+the-dump 2022-04-21 06:16:16 
+the-dump 2022-04-21 06:18:13 
+bug-reports 2022-05-02 01:27:59 whenever I take too much dmg on my tank
+bug-reports 2022-05-02 01:28:04 my game freezes
+bug-reports 2022-05-02 01:28:06 and crash
+bug-reports 2022-05-02 01:34:56 like
+bug-reports 2022-05-02 01:35:06 just now, a jet fired 6 rockets all hit my sideskirt
+bug-reports 2022-05-02 01:35:12 then 2 seconds later the game completely freezes
+bug-reports 2022-05-02 01:36:07 it keeps happening
+bug-reports 2022-05-02 01:36:17 sustaining too much damage = crash
+bug-reports 2022-05-02 01:36:52 why
+bug-reports 2022-05-02 01:37:11 this hasn't happened to my other tank
+bug-reports 2022-05-02 01:37:22 my other tank can be completely destroyed and I can still play the game
+bug-reports 2022-05-02 01:37:31 on this tank, abit too much dmg = game completely frozen
+bug-reports 2022-05-02 01:44:51 is there anyway to fix this
+bug-reports 2022-05-02 01:54:34 when u spawn in give it some time
+bug-reports 2022-05-02 01:54:42 then u try testing again
+bug-reports 2022-05-02 01:54:47 dont press keys immediately after spawn
+bug-reports 2022-05-02 01:55:03 how about mine
+bug-reports 2022-05-02 01:55:19 every single time my new tank sustains some damage I completely frozen and crash
+bug-reports 2022-05-02 01:55:31 but my old tank take damage and doesnt crash
+bug-reports 2022-05-02 01:56:13 just shoot a few on plane then it will be working fine
+bug-reports 2022-05-02 01:56:44 yes
+bug-reports 2022-05-02 01:56:48 1-3 times
+bug-reports 2022-05-02 01:56:49 try it
+bug-reports 2022-05-02 01:56:56 if it doesn't work then there is real problem
+bug-reports 2022-05-02 01:57:40 this is my new tank, full of signs
+bug-reports 2022-05-02 01:57:45 whenever I sustain too much dmg
+bug-reports 2022-05-02 01:57:51 = game completely frozen and crash
+bug-reports 2022-05-02 01:57:57 my 1st theory are the signs
+bug-reports 2022-05-02 01:58:33 then im not sure
+bug-reports 2022-05-02 01:58:40 u can try your own theories and test them out
+bug-reports 2022-05-02 01:58:44 im gonna do the same
+bug-reports 2022-05-02 02:05:31 the signs wasn't the problem
+bug-reports 2022-05-02 02:06:08 this is becoming a serious issue
+bug-reports 2022-05-02 02:06:15 get damaged and u completley get frozen
+bug-reports 2022-05-02 02:06:21 i dont know which block is the factor
+bug-reports 2022-05-02 02:06:50 oh
+bug-reports 2022-05-02 02:06:59 is there a way to mitigate or prevent it
+bug-reports 2022-05-02 02:07:14 or builds that are detailed and a lot of blocks will result liek that
+bug-reports 2022-05-02 02:07:24 ok
+bug-reports 2022-05-02 02:07:35 im gonna try that
+bug-reports 2022-05-02 03:03:48 problem solved
+bug-reports 2022-05-02 03:04:02 I used locked piston as armour
+bug-reports 2022-05-02 03:04:06 when the locked pistons get damaged
+bug-reports 2022-05-02 03:04:10 you freeze and crash
+bug-reports 2022-05-02 03:15:09 who doesn't
+bug-reports 2022-05-02 03:15:18 people who don't are basically cave men
+bug-reports 2022-05-02 03:15:33 tnt main block for armour
+help 2022-05-08 14:20:54 does spinning the gun and firework increase their travel speed
+help 2022-05-08 14:45:50 how about rockets
+help 2022-05-08 14:46:11 according to fandom, for guns, they are: initial speed + 1500sps
+help 2022-05-08 14:46:19 that is the gun speed
+help 2022-05-08 14:46:22 so I thought if I spun it
+help 2022-05-08 14:46:29 it would slightly increase in speed
+help 2022-05-08 14:47:01 like
+help 2022-05-08 14:47:03 ballistic
+help 2022-05-08 14:47:11 fascinating topic
+help 2022-05-08 14:47:13 things go up
+help 2022-05-08 14:47:15 things go down
+help 2022-05-08 14:47:20 guns
+help 2022-05-08 14:47:23 they go up
+help 2022-05-08 14:47:25 and go down
+help 2022-05-08 14:47:33 depending on speed the go down take longer
+help 2022-05-08 14:47:55 rotation is a speed
+help 2022-05-08 14:48:07 if u attach your pilot seat to a rotating motor
+help 2022-05-08 14:48:16 oh
+help 2022-05-08 14:48:23 in this case
+help 2022-05-08 14:48:30 my next tank design will be frekin op
+help 2022-05-08 14:48:37 u can test it
+help 2022-05-08 14:48:51 but not much boost
+help 2022-05-08 14:48:59 you need a lot of motor to see a small change in speed
+help 2022-05-08 14:49:17 and if ur barrel is spinnign it messes up ur motor 2 aiming
+help 2022-05-08 14:49:59 that explains a guy with almost instantaneous high damage explosions
+help 2022-05-08 14:50:09 I thought he was just spinning his rockets at very high speed
+help 2022-05-08 14:50:15 but now I know it was the spinning fireworks
+help 2022-05-08 14:54:30 oh
+help 2022-05-08 14:54:32 fireworks are
+help 2022-05-08 14:54:33 eh?
+help 2022-05-08 14:55:04 do this: put 2 fireworks side by side but 1 is spinning did u do that
+help 2022-05-08 14:55:16 hmmm
+help 2022-05-08 14:55:28 but does 1 explode first
+help 2022-05-08 14:55:50 can u screnshot the test build u did
+help 2022-05-08 14:56:08 I had really high hopes for spinning fireworks
+help 2022-05-08 14:56:24 <:BIG1:588443768806703124>
+help 2022-05-08 14:58:17 is there a contraption that possibly makes a forward motor but not move on the spot <@587047177558163466>
+help 2022-05-08 14:58:30 like motor rotation
+help 2022-05-08 14:59:13 what if rotation + forward movement boosts it
+help 2022-05-08 14:59:19 instead of just plain forward movement
+help 2022-05-08 14:59:26 since real battle takes place in movement
+help 2022-05-08 15:00:02 how about fireworks
+help 2022-05-08 15:00:31 they could've at least added a legacy option to fireworks
+help 2022-05-08 15:00:46 or maybe it was that way from the beginning
+help 2022-05-08 15:01:35 <@587047177558163466> another question, does spinning a block (with motor) messes up incoming rocket tracking
+help 2022-05-08 15:02:46 a lot of people have been implementing this
+help 2022-05-08 15:02:53 spinning objects on their builds
+help 2022-05-08 15:03:04 that makes the rocket go different direction out of confusion
+help 2022-05-08 15:03:14 I'll probably test it myself soon
+help 2022-05-08 15:06:29 ok thanks for the info
+help 2022-05-08 15:06:36 btw u got an alt?
+help 2022-05-08 15:06:40 roblox alt
+help 2022-05-08 15:06:48 u can try to test this with an alt
+help 2022-05-08 15:06:53 rocket tracking vs spinning objects
+help 2022-05-08 15:07:26 my macbook pro can open 2 roblox at once on the same app but different account
+help 2022-05-08 15:07:34 at a cost of heating up faster
+help 2022-05-08 15:08:05 there is 2 roblox apps
+help 2022-05-08 15:08:12 one from an app store
+help 2022-05-08 15:08:14 other from website
+help 2022-05-08 15:08:31 that's how you open 2 roblox at once in windows pc
+help 2022-05-08 15:08:48 open on 1 account
+help 2022-05-08 15:08:57 go to roblox website log out and log to diff account
+help 2022-05-08 15:09:01 open on that account
+help 2022-05-13 09:37:58 Does fireworks go through tnt
+help 2022-05-13 11:21:24 So it can clip through any block
+help 2022-05-21 14:42:06 what block is laggy?
+help 2022-05-21 14:42:25 when I try to build something big like a battleship it gets laggy
+help 2022-05-21 14:42:48 on my first battleship (intended for pvp) I play on about 10-15 fps
+help 2022-05-21 14:42:55 so im rebuilding one
+help 2022-05-21 14:43:28 make the turret turn
+help 2022-05-21 14:44:15 then make it stuck but in an angle for picture
+help 2022-05-21 14:44:41 where
+help 2022-05-21 14:44:43 i mean the turret
+help 2022-05-21 14:45:20 yes
+help 2022-05-21 14:45:29 now make it can turn freely
+help 2022-05-21 14:46:18 the wheel looks empty
+help 2022-05-21 14:46:34 
+help 2022-05-21 14:47:15 btw do u only do aesthetics?
+help 2022-05-21 14:47:22 do u have any pvp intended tank
+help 2022-05-21 14:47:50 you can call roscale a light tank for normal pvp sizes
+help 2022-05-21 14:48:25 they are only good at upvote, not good at being used for fun
+help 2022-05-21 14:48:45 they can be considered light tanks
+help 2022-05-21 14:48:53 light tanks are meant to be maneuverable
+help 2022-05-21 14:49:02 but can't get shot too much
+help 2022-05-21 14:50:05 the smallest possible at least somewhat pvp effective tank is up to 5 block wide
+help 2022-05-21 14:50:21 will the anti tank missile work or only for show
+help 2022-05-21 14:51:25 i think i might make a real anti tank missile
+the-dump 2022-05-24 11:39:57 Fertilizer
+the-dump 2022-05-24 11:41:07 u can make bomb out of fertilizer
+the-dump 2022-05-24 11:43:21 Someone can get arrested for having tons of fertilizer
+the-dump 2022-05-24 11:45:29 what other plant based resource can make a bomb
+the-dump 2022-05-24 11:46:57 make a bomb out of air
+the-dump 2022-05-24 11:47:32 100% made of air including shell
+help 2022-05-25 12:50:50 i need help
+help 2022-05-25 12:50:54 trapdoor glitch
+help 2022-05-25 12:51:17 when I use trap door on my build (maybe motor locked), it appears normal for me but for others the trap door is going crazy
+help 2022-05-25 12:51:42 why
+help 2022-05-25 14:00:49 no
+help 2022-05-25 14:01:32 The glitch can't be experienced client side but clearly visible to other players
+help 2022-05-25 14:01:50 So u never know when it happens
+help 2022-05-25 14:02:32 my theory is motor lock + trap door = glitch but not client side
+help 2022-05-25 14:03:09 The trapdoor either is in odd angle or starts spinning crazy on other player screen
+help 2022-05-28 03:46:40 how do i prevent my tank's turret from getting a bit stuck when turning
+help 2022-05-28 03:46:48 I've used ice
+help 2022-05-28 03:46:55 I limited friction using wedges
+help 2022-05-28 03:47:05 there is nothing blocking its way when turning
+help 2022-05-28 03:47:12 (it turns on motor 2)
+help 2022-05-28 06:33:58 can't
+help 2022-05-28 06:34:11 the motor 2 freaks out if it is on top of a piston in any way
+help 2022-05-28 06:34:19 I don't even know why
+help 2022-05-28 06:37:02 it gets worse by the second
+help 2022-05-28 06:37:45 but I will attempt anyways
+help 2022-05-28 06:38:37 yeah didn't work
+help 2022-05-28 06:38:42 keeps randomly spinning endlessly
+help 2022-05-28 06:40:23 ok
+help 2022-05-28 06:40:26 wait
+help 2022-05-28 06:40:29 can't
+help 2022-05-28 06:40:36 the bottom of my turret are half blocks
+help 2022-05-28 06:40:55 and is put down by 1 motor lock
+help 2022-05-28 06:41:13 it's smooth most of the time and sometimes gets a bit stuck then smooth again
+help 2022-05-28 06:43:05 no
+help 2022-05-28 06:43:10 all engines are below the hull
+help 2022-05-28 06:43:23 so the hull is flat
+help 2022-05-28 06:43:45 
+help 2022-05-28 06:43:47 red is the hull
+help 2022-05-28 06:44:00 it is pretty much flat
+help 2022-05-28 06:44:07 the half blocks are all ice
+help 2022-05-28 06:44:18 and wedges
+help 2022-05-28 06:46:17 yes
+help 2022-05-28 06:46:26 it is hollow inside
+help 2022-05-28 06:46:41 there is nothing inside other than the outside layer of half block shell
+help 2022-05-28 06:46:51 for the part that touches the hull
+help 2022-05-28 06:47:12 then it will be see through
+help 2022-05-28 06:47:17 but likely removes the problem too
+help 2022-05-28 06:48:21 ok I found the main problem
+help 2022-05-28 06:48:30 it's not the friction between the turret and the hull
+help 2022-05-28 06:48:49 it's the actually the friction that causes the barrel to elevate downwards clamping the turret and the hull
+help 2022-05-28 06:48:57 so it's barrel's problem
+help 2022-05-28 06:55:30 after another test
+help 2022-05-28 06:55:33 that was the wrong problem
+help 2022-05-28 06:55:41 the turret didn't clamp down at all it still got stuck
+help 2022-05-28 06:56:18 no
+help 2022-05-28 06:56:28 my new theory is collision
+help 2022-05-28 06:56:47 motor locking things together sometimes some things are not fully into each other maybe causes small friction problem
+help 2022-05-28 07:00:45 wasn't that either
+help 2022-05-28 07:01:10 the most motor lock collision things were either my top mounted gun or rockets, their were both removed and the small stuck behaviour is still there
+help 2022-05-28 07:02:28 that brings back to square 1
+help 2022-05-28 07:02:35 friction between the half blocks and hull
+help 2022-05-28 07:02:42 because removing the half blocks removed this problem
+bug-reports 2022-05-28 12:29:54 probably have already been reported but worth a shot, I was in a random public pvp server where the guns were glitched, the red bullets didn't came out for everyone there was only the yellow bullet in the guns, so shooting someone makes their builds invisible and look damaged but infact, on other player's view there is nothing happening
+the-dump 2022-05-29 11:40:29 
+creations-chat 2022-05-29 11:42:57 <@888247385543819365> make it pink
+the-dump 2022-06-14 11:50:58 
+the-dump 2022-07-08 16:40:41 
+bug-reports 2022-07-09 14:59:31 there's a bug where when I fire rockets, the rocket just disappears completely (doesn't happen when standing still, only moving) any ideas?
+bug-reports 2022-07-10 02:42:09 were you able to find a solution
+bug-reports 2022-07-10 02:46:17 do u still hve the problem
+bug-reports 2022-07-10 02:47:08 then it could be a new bug
+bug-reports 2022-07-10 02:49:13 but is still new if there is no solution
+bug-reports 2022-07-10 02:50:37 well we need a solution
+the-dump 2022-07-11 13:43:04 
+bug-reports 2022-07-26 09:08:59 what causes motor 2 invert glitch
+help 2022-07-26 09:11:40 what causes the motor 2 invert glitch
+help 2022-07-26 13:38:10 what is 179.9
+help 2022-07-26 13:38:17 does torque matter in this glitch
+help 2022-07-26 13:39:52 oh
+help 2022-07-26 13:40:00 angle helps with the glitching??
+help 2022-07-27 01:36:56 how about the guided torpedo that can freely submerge like a submarine but is still an explosive stick
+creations-chat 2022-07-27 01:40:41 he's gonna get banned soon
+creations-chat 2022-08-01 05:17:19 white
+help 2022-08-01 05:20:03 im gonna suggest something that might / might not work
+help 2022-08-01 05:20:31 try to swap all ur trapdoors with disconnectors, test that
+help 2022-08-01 05:20:51 rebuild it
+help 2022-08-01 05:21:05 if autosave no work and u didn't manual save u're screwed
+help 2022-08-01 05:21:27 so what was the build
+help 2022-08-01 13:52:20 how do we reduce lag with ships on water
+bug-reports 2022-08-01 13:53:51 how do we reduce lag with ships on water
+creations-chat 2022-08-01 13:54:29 how do we reduce lag with ships on water
+bug-reports 2022-08-01 14:04:35 unless I have a paper thin hull
+bug-reports 2022-08-01 14:04:39 then it would be fixed
+help 2022-08-02 10:31:26 what's a laggy block
+help 2022-08-02 10:31:40 cuz I want to reduce the amount of that block on my ship
+help 2022-08-02 10:39:55 why did they do that
+help 2022-08-02 10:42:03 would tnt be laggy
+help 2022-08-02 10:42:10 not exploded tnt just there
+help 2022-08-02 10:42:58 would seven 1x1 blocks in water be laggier than one 1x7 beam
+help 2022-08-31 11:38:47 does water lag work on surface area or number of blocks
+help 2022-08-31 11:48:43 so a 4x half beam vs a 4x beam would be the same lag or one is laggier
+events-chat 2022-09-02 17:35:03 everyone died and left
+events-chat 2022-09-02 17:35:20 I was the last one there so I left
+the-dump 2022-10-06 08:30:10 you mean the "*dodges*" expert
+creations-chat 2022-10-17 13:40:05 i am
+creations-chat 2022-10-17 13:44:44 
+the-dump 2022-10-20 14:37:39 world of warships but anime
+the-dump 2022-10-20 14:38:41 it copies the formatting of a real anime
+the-dump 2022-10-20 14:38:52 https://www.youtube.com/watch?v=xgEk94JaEAU
+the-dump 2022-10-20 14:39:25 uncultured person here
+the-dump 2022-10-20 14:39:36 I mean, if you look at anime decades ago they are trash
+the-dump 2022-10-20 14:40:06 you probably don't watch anime but you can have your opinion
+the-dump 2022-10-20 14:40:43 what did u watch
+the-dump 2022-10-20 14:40:45 lol
+the-dump 2022-10-20 14:40:45 azur lane?
+the-dump 2022-10-20 14:41:47 I watch anime because I enjoy the intellectual entertainment
+the-dump 2022-10-20 14:42:13 but they don't give me the feels of an anime
+the-dump 2022-10-20 14:42:26 which one
+the-dump 2022-10-20 14:42:41 who looks at ghosts and thought they become your combat buddies
+the-dump 2022-10-20 14:43:03 who would thought a modern military would suddenly meet ancient roman
+the-dump 2022-10-20 14:43:36 who would thought human colonised the galaxy and is having wars over power using space mechs
+the-dump 2022-10-20 14:43:46 those are the reasons why I watch anime it's interesting
+the-dump 2022-10-20 14:43:58 attack on titan
+the-dump 2022-10-20 14:44:15 I can't stop having goosebumps with attack on titan
+the-dump 2022-10-20 14:44:34 no movie gives me the feel I get from animes
+the-dump 2022-10-20 14:45:29 I watched anime and I learned life philosophies
+the-dump 2022-10-20 14:45:37 and even how to make nitroglycerin
+the-dump 2022-10-20 14:45:44 which is basically dynamite
+the-dump 2022-10-20 14:45:54 lol they dont teach u anything
+the-dump 2022-10-20 14:46:03 some anime actually teaches
+the-dump 2022-10-20 14:46:10 go try, you can't
+the-dump 2022-10-20 14:46:26 it teaches hell ton you just landed on the wrong one for your first
+the-dump 2022-10-20 14:46:34 but I can because of anime
+the-dump 2022-10-20 14:47:01 the anime deliberately warned the viewers all ingredients and crafts within the anime is real and do not attempt every episode, watch Dr Stones
+the-dump 2022-10-20 14:47:17 how old are you
+the-dump 2022-10-20 14:47:23 16
+the-dump 2022-10-20 14:47:35 tell me which anime you watched first
+the-dump 2022-10-20 14:48:15 his opinion is that anime is trash and anyone who watches it is underaged
+the-dump 2022-10-20 14:48:36 the fuck
+the-dump 2022-10-20 14:49:02 isn't it algebra
+the-dump 2022-10-20 14:49:09 such as parabolas or straight lines
+the-dump 2022-10-20 14:49:40 I learned all of this in a different language so I don't even know the names of these maths
+the-dump 2022-10-20 14:50:29 demon slayer mugen train
+the-dump 2022-10-20 14:50:45 jujutsu kaisen 0
+the-dump 2022-10-20 14:51:13 dragon ball super: broly
+the-dump 2022-10-20 14:51:29 no
+the-dump 2022-10-20 14:51:45 but it is something that I really enjoy even after I finished it
+the-dump 2022-10-20 14:52:22 that's not the point
+the-dump 2022-10-20 14:52:28 not rewatching it
+the-dump 2022-10-20 14:52:46 you enjoy it because you watched the anime and you are still able to think about it and enjoy it as much as when u watched it
+the-dump 2022-10-20 14:53:35 but they are random stuff, imagine you get that but in a whole series, packs the punch much higher
+the-dump 2022-10-20 14:53:45 I don't have a mic
+the-dump 2022-10-20 14:53:55 give me math questions
+the-dump 2022-10-20 14:54:22 I meant numerical
+the-dump 2022-10-20 14:54:33 I don't know these definitions because English was not my first language
+the-dump 2022-10-20 14:55:39 not at all
+the-dump 2022-10-20 14:55:49 we're not talking about the scenes, but sure they are really cool as well
+the-dump 2022-10-20 14:55:59 it's not always about the fighting
+the-dump 2022-10-20 14:56:25 anime like 'Your Lie in April' is actually very good because of the impact it lands on you after you finished the anime
+the-dump 2022-10-20 14:56:32 and there is absolutely no fighting
+the-dump 2022-10-20 14:57:11 and movies like 'silent voice' is actually somewhat interesting and impactful
+the-dump 2022-10-20 14:57:25 the further you go down into the movie the more things makes sense
+the-dump 2022-10-20 14:58:47 try Eighty Six
+the-dump 2022-10-20 14:59:11 it's about far in the future as well
+the-dump 2022-10-20 14:59:38 or animes like 'Love is War', intense psychological warfare and intellect
+the-dump 2022-10-20 15:00:26 Death Note is also one of those intellectual typed anime, outsmarting outsmart
+the-dump 2022-10-20 15:01:23 'classroom of elite' is just speechlessly genius, no idea how the director pulls these stuff off
+the-dump 2022-10-20 15:02:04 but it hits different in anime compared to movie that's undescribable in words for me
+the-dump 2022-10-20 15:04:13 anime be like:
+main character gives himself amnesia on purpose to dodge the intense interrogation and somehow with enough pre-instructions to reverse the effect
+the-dump 2022-10-20 15:05:12 except that's just the base
+the-dump 2022-10-20 15:05:43 there are anime directiors that directs a few animes
+the-dump 2022-10-20 15:06:27 I wouldn't say all of them are as well but the ones I chose to watch are good for me
+the-dump 2022-10-20 15:08:00 I think Saiki is better
+the-dump 2022-10-20 15:08:52 I can't take the art style lol
+the-dump 2022-10-20 15:11:20 I already watched interstellar btw
+the-dump 2022-10-20 15:11:52 but I find the anime impact better
+the-dump 2022-10-20 15:13:20 sci-fi space
+the-dump 2022-10-20 15:13:28 bro went into a blackhole
+creations-chat 2023-01-24 14:56:46 <@365515326550573078> I require your inquiries as to why it wasn't up to your standards
+help 2023-01-24 15:02:54 what's the theoretically smallest possible working missile in plane crazy
+help 2023-01-24 15:03:37 or just the smallest u think/have made
+help 2023-01-24 17:34:46 cutters stop working at high speeds
+bug-reports 2023-04-10 08:30:37 why is the m2 bug back
+bug-reports 2023-04-10 08:30:42 m2 became weak again
+help 2023-04-28 07:50:07 **what does the super strength option in magnet even do**
+help 2023-04-28 07:51:39 **does anyone even have a clue**
+creations-chat 2023-04-28 08:02:38 do u know what do the super strength option do in magnets
+help 2023-04-28 08:06:35 it's just illogical to think that super strength makes it stronger if u already have a strength bar u can set
+help 2023-04-28 08:06:47 I've also heard somewhere that it doesnt make it much stronger
+help 2023-04-28 08:07:16 I am not starting a petition
+help 2023-04-28 08:07:20 I am questioning a functionality
+help 2023-04-28 08:07:35 would he answer
+help 2023-04-28 08:08:24 ok will he answer u
+help 2023-04-28 08:08:44 ok
+help 2023-04-28 08:08:46 ask him
+help 2023-04-28 08:09:21 you just said he won't answer me
+help 2023-04-28 08:09:33 so if u want to help then u ask it
+help 2023-04-28 08:09:40 otherwise u wouldn't be in this channel
+help 2023-04-28 08:09:42 <:clueless:942802644043464734>
+help 2023-04-28 08:16:57 <@584060481522761728>
+help 2023-04-28 08:17:06 the magnet is weaker with super strength on
+help 2023-04-28 08:17:39 any explanations
+help 2023-04-28 08:17:50 you should know because you are a pro non-white name right
+help 2023-04-28 08:37:41 wow ur so good
+help 2023-04-28 08:37:48 but what u said earlier is false
+help 2023-04-28 08:37:49 lol
+help 2023-04-28 08:38:00 super strength "english" yeah about that it actually makes the magnet weaker
+help 2023-04-28 08:38:15 test it yourself
+help 2023-04-28 08:38:16 🕋
+help 2023-04-28 08:39:01 u don't need to know it to help me test it
+help 2023-04-28 08:39:05 you are in the help channel
+help 2023-04-28 08:39:52 I should because you are useless
+help 2023-04-28 08:39:55 <:trollface:775024642104229898>
+help 2023-05-11 10:45:27 does anyone know how to make magnet engines accelerate and cap at a desired speed instead of it just accelerating forever
+help 2023-05-11 11:00:14 but it has to be magnet
+help 2023-05-11 11:00:19 someone has achieved it
+help 2023-05-11 11:00:34 tho he doesn't play anymore and refuses to talk about plane crazy
+creations-chat 2023-05-15 12:37:19 Actually, I changed to winter wheel in the latest modification, it now requires winter wheel to maintain its current steering capability
+
+I will post latest performance and design soon
+creations-chat 2023-05-15 12:40:13 it's not visible probably due to video quality but there is a trail connecting it
+creations-chat 2023-05-15 12:45:02 I can add textblocks with black square emoji to make it more visible
+creations-chat 2023-05-16 06:27:14 exhaust colour changed
+
+btw it's fully capable of circuit racing if someone has a build that loads the circuit barriers
+creations-chat 2023-05-16 06:30:01 stabilisers which are responsible for helping the bike lean and not fall over and tumble like any average bike if they tried to lean, this also really helps it with maneuvering for circuit typed racing
+creations-chat 2023-05-16 10:06:46 it can off road but it's not supposed to as a track racing bike, it can cross terrain at around 150 speed and be stable (uses motor 2 suspensions)
+creations-chat 2023-05-16 10:29:06 which one
+creations-chat 2023-05-16 10:32:33 will he get warned
+help 2023-05-17 16:27:20 are there any plane crazy engineers here that has experience with magnet engines
+help 2023-05-17 16:37:48 yes but that is a really trash model
+help 2023-05-17 16:39:32 motor lock is obsolete idiot <:trollface:775024642104229898>
+help 2023-05-17 16:39:54 top tier pvp engineering has very little motor locking by now, it uses offset locking
+help 2023-05-17 16:40:17 offset locking does what motor locking can do but motor locking can't do what offset locking can
+help 2023-05-17 16:40:21 <:trollface:775024642104229898>
+help 2023-05-17 16:40:49 performance is not liked here, so just say engineering instead
+help 2023-05-18 00:21:48 the functions I side are not aircrafts
+help 2023-05-18 00:22:23 I seek functions with practicality
+help 2023-05-18 00:22:59 for example, a motor 2 suspension chassis system made for pvp tanks
+help 2023-05-18 00:23:15 7 blocks wide pvp tanks, I don't enjoy oversized
+help 2023-05-18 03:07:02 im not interested in over sized suspensions, they don't have any use other than for show
+help 2023-05-18 03:07:14 my motor 2 suspension is being used in pvp tanks
+help 2023-05-18 03:07:26 does he have a yt video showcase?
+help 2023-05-18 03:07:39 what's his discord user
+help 2023-05-18 03:08:07 where can I see his suspension
+help 2023-05-18 03:14:42 does anyone know what does the magnet do if u turn off the 'lose parts only'
+help 2023-05-18 03:15:07 what will trigger its attraction after that
+help 2023-05-18 05:54:47 it apparently stopped attracting loose parts
+the-dump 2023-05-24 13:10:07 
+the-dump 2023-05-24 13:23:36 it's a chinese song
+the-dump 2023-05-24 13:23:43 bts is korean
+the-dump 2023-05-24 13:23:48 <:trollface:775024642104229898>
+the-dump 2023-05-24 13:23:55 it's chinese
+the-dump 2023-05-24 13:23:59 therefore i wont delete it
+the-dump 2023-05-24 13:24:02 <:trollface:775024642104229898>
+the-dump 2023-05-24 13:24:59 cuz they can't tell difference between korean japanese and chinese
+the-dump 2023-05-24 13:25:08 me being Chinese I can easily tell difference between all 3
+the-dump 2023-05-24 13:25:14 racial perk
+the-dump 2023-05-24 13:25:33 no
+the-dump 2023-05-24 13:25:36 words are Chinese
+the-dump 2023-05-24 13:25:47 Korean words are different than that
+the-dump 2023-05-24 13:26:03 look
+the-dump 2023-05-24 13:26:23 Korean words have a lot of spaces and with big squares occasionally circles, Chinese doesn't use circles
+the-dump 2023-05-24 13:27:23 it's easy to tell apart Korean from Chinese and Japanese
+the-dump 2023-05-24 13:27:38 telling difference between Chinese and Japanese is a bit harder than Korean
+the-dump 2023-05-24 13:32:15 when the French couldn't 1v1 Vietnam so USA had to help but still loses
+the-dump 2023-05-24 13:32:20 <:trollface:775024642104229898>
+bot-central 2023-07-07 03:03:48 -servers
+bug-reports 2023-07-07 05:57:56 <@217336009455566848> it's real
+bug-reports 2023-07-07 05:57:57 
+bug-reports 2023-07-07 05:58:02 put 2 wedges
+bug-reports 2023-07-07 05:58:06 and I got it
+bug-reports 2023-07-07 05:59:11 u can't put a wedge above another one
+bug-reports 2023-07-07 05:59:17 if u do u get it
+bug-reports 2023-07-07 05:59:18 bruv
+bug-reports 2023-07-07 06:02:41 
+bug-reports 2023-07-07 06:02:48 I tried moving the entire build but the center of the build is
+bug-reports 2023-07-07 06:02:55 not on my plot
+bug-reports 2023-07-07 06:04:08 he's going to sleep
+bug-reports 2023-07-07 06:04:14 he will fix tomorrow or something
+bug-reports 2023-07-07 06:04:20 tbh wouldn't be bothered if he didn't
+bug-reports 2023-07-07 06:04:33 I would rather he do pc2
+bug-reports 2023-07-07 06:04:49 oh wait
+bug-reports 2023-07-07 06:04:55 if u put a block on top of any block
+bug-reports 2023-07-07 06:05:01 u disconnect
+bug-reports 2023-07-07 06:05:02 lol
+bug-reports 2023-07-07 06:06:17 o nvm it's cylinders and wedges for now
+bug-reports 2023-07-07 06:06:34 and half blocks
+bug-reports 2023-07-07 06:06:45 wedge, cylinders, half blocks, balls, pontoons
+bug-reports 2023-07-07 06:07:19 they give u error code 69
+bug-reports 2023-07-07 07:03:39 are you sure it isn't center of weight issue
+bug-reports 2023-07-07 07:04:18 im gonna test my ship
+bug-reports 2023-07-07 07:04:55 no issue
+bug-reports 2023-07-07 07:04:59 no issue with pontoons
+bug-reports 2023-07-07 07:05:05 my ship is still upright
+bug-reports 2023-07-07 07:05:16 your center of weight is above your floating point so you are flipping over
+bug-reports 2023-07-07 07:05:24 you need to lower your center of weight
+bug-reports 2023-07-07 07:07:51 hold on
+bug-reports 2023-07-07 07:08:01 <@217336009455566848> pontoons now float infinitely even out of water, making you ascend
+bug-reports 2023-07-07 07:08:18 oh wait
+bug-reports 2023-07-07 07:08:24 pontoons float on water
+bug-reports 2023-07-07 07:08:28 but it doesn't stop floating
+bug-reports 2023-07-07 07:08:34 it keeps going up even after out of water
+bug-reports 2023-07-07 07:09:21 it didn't affect my military grade ship with a better stability, but civillian grade ships will now flip
+bug-reports 2023-07-07 07:09:34 because pontoons will infinitely float
+bug-reports 2023-07-07 07:09:35 new bug
+bug-reports 2023-07-07 07:09:53 yes
+bug-reports 2023-07-07 11:54:57 guns are phasing through blocks, they aren't stopping when hitting one block
+bug-reports 2023-07-07 12:17:20 guns are damaging every block in line at the same time, phasing through all of them
+bug-reports 2023-07-07 12:17:37 this isn't supposed to happen, as guns were previously stopped by one block and damages one at a time
+bug-reports 2023-07-07 12:17:57 along with this, pontoons now infinitely float upwards once touching water
+bug-reports 2023-07-07 12:18:10 these are the 2 notable bugs that needs to be fixed after this new update
+bug-reports 2023-07-07 12:37:11 So far I've found that half block, wedge, cylinder and pontoons stacked upwards causes error 69
+bug-reports 2023-07-07 12:37:42 also going to mention about the gun bug, it phases through and damaged everything instead of stopping at the initial block it hits
+bug-reports 2023-07-07 12:41:02 a lot of new bugs after that performance update apparently
+bug-reports 2023-07-07 12:44:42 u don't really need to, it's quite easy to explain
+bug-reports 2023-07-07 12:46:09 u can put the block on any side of the following blocks: half block, wedge, cylinder and pontoon, except for the top of it. If you try to place another block on top of them, u wouldn't be able to as if something is already there, and if u do place it, which it will push it 1 block away sideways from the top of the block, then u get kicked
+bug-reports 2023-07-07 12:51:06 wait I'll try
+bug-reports 2023-07-07 12:51:51 half block is fixed
+bug-reports 2023-07-07 12:52:04 maybe he was putting half block on top of a block that was still affected by error 69
+bug-reports 2023-07-07 12:53:00 but there is still a bug where u can't place a wedge on top of another wedge directly
+bug-reports 2023-07-07 12:53:07 that is the same for pontoon
+bug-reports 2023-07-07 12:53:29 try putting a wedge on top of a wedge
+bug-reports 2023-07-07 12:53:48 u'll find that u can't, it'll push ur wedge to a side
+bug-reports 2023-07-07 12:54:02 6 sides, one of the sides doesn't allow u to stack on
+bug-reports 2023-07-07 12:54:21 I'll show pic example of pontoon and wedge having this issue
+bug-reports 2023-07-07 12:55:44 
+bug-reports 2023-07-07 12:55:50 they get pushed aside
+bug-reports 2023-07-07 12:55:58 you cannot put blocks directly on them
+bug-reports 2023-07-07 12:56:15 previously, that would've resulted in error 69 but that is now fixed
+bug-reports 2023-07-07 12:56:27 however, not being able to place on top of them is still an issue
+bug-reports 2023-07-07 12:58:06 dont know
+bug-reports 2023-07-07 12:58:12 doesn't seem to be
+bug-reports 2023-07-07 12:58:19 Rick is trying to fix all these issues
+bug-reports 2023-07-07 13:13:08 <@217336009455566848> u might as well fix this one while at it
+bug-reports 2023-07-07 13:41:49 no, it was different before
+bug-reports 2023-07-07 13:41:59 before this
+bug-reports 2023-07-07 13:42:19 gun projectile actually stops at the initial block it hits, only then damages the next one after the initial one is destroyed
+bug-reports 2023-07-07 13:42:32 I play plane crazy for pvp, so I know this one well
+bug-reports 2023-07-07 13:43:10 I've done the tests
+bug-reports 2023-07-07 13:43:20 I shot at a tnt armoured vehicle
+bug-reports 2023-07-07 13:43:35 the gun's bullet went through the entire vehicle ignoring the block infront of it
+bug-reports 2023-07-07 13:43:46 and killed the man inside along with damaging every block in its way all at the same time
+bug-reports 2023-07-07 13:57:33 oh yeah I heard of that as well
+bug-reports 2023-07-07 13:57:43 pistons being major source of lag recently
+bug-reports 2023-07-07 15:32:52 all concept of armours flop due to new gun bug
+bug-reports 2023-07-07 15:37:56 yes that too
+bug-reports 2023-07-07 15:40:59 if we remember why PC2 is made over PC1, it's because PC1 is hardcoded, which means it's very difficult for rick to find and fix the errors, so this might take a while
+bug-reports 2023-07-07 15:55:55 omg
+bug-reports 2023-07-07 15:56:10 <@217336009455566848> I think plane crazy is starting to get a bug infestation
+bug-reports 2023-07-07 15:56:17 even fireworks broke
+bug-reports 2023-07-07 15:56:41 when u fire them, the fireworks projectile actually shoot somewhere away from the fireworks block
+bug-reports 2023-07-07 15:57:01 and the faster u move, the further the projectile starts from the block
+bug-reports 2023-07-07 15:57:10 in like random positions idk
+bug-reports 2023-07-07 15:57:34 they were working so fine earlier today
+bug-reports 2023-07-07 15:57:50 maybe we should collect a list of bugs
+bug-reports 2023-07-07 16:05:49 it's urgent and he should know about it, so that's most likely reasonable
+bug-reports 2023-07-07 16:06:13 there's a lot of bugs going on after recent update
+bug-reports 2023-07-07 16:06:25 if he isn't aware of it, we'll let him be aware of it
+bug-reports 2023-07-07 16:06:39 we're the players he's the developer, that's how we work together to make a game great
+bug-reports 2023-07-07 16:07:58 probably problem with PC1's coding
+bug-reports 2023-07-07 16:08:03 PC1 is hardcoded afterall
+bug-reports 2023-07-07 16:09:01 this bug alone halted an entire pvp community
+bug-reports 2023-07-07 16:09:25 literally most of the battles cannot be conducted
+bug-reports 2023-07-07 19:44:19 well everything is breaking
+bug-reports 2023-07-07 19:44:28 bug infestation
+bug-reports 2023-07-08 03:20:36 so you're saying it's normal for it's bullet to start midair
+bug-reports 2023-07-08 03:21:02 no, clearly not, as a pvp'er that uses fireworks every pvp ever I can tell u
+bug-reports 2023-07-08 03:21:06 bullets don't start midair
+bug-reports 2023-07-08 03:21:12 but from the gun
+bug-reports 2023-07-08 10:11:16 gun blocks also need to be fixed, they are damaging everything in line all at the same time
+bug-reports 2023-07-08 10:11:35 before this update, they can only damage 1 block at a time
+bug-reports 2023-07-08 10:11:44 after this update, they are going through everything
+bug-reports 2023-07-08 11:12:14 that's a minor problem
+bug-reports 2023-07-08 11:12:41 main issues that are still on going is piston lag, error code 69 and gun block bug
+bug-reports 2023-07-08 13:04:53 yes they are going through everything and damaging them while at it
+bug-reports 2023-07-08 13:05:24 which is not how it's supposed to work, new update caused some unnoticeable bugs that is changing the game in bad way
+bug-reports 2023-07-10 08:19:36 ?
+bug-reports 2023-07-11 07:29:40 or 25 drag disabled hover engines
+bug-reports 2023-07-12 01:43:16 water propeller continues to provide thrust even after going out of water
+bug-reports 2023-07-14 14:24:46 guns are still bugged
+bug-reports 2023-07-14 14:24:55 it's bypassing blocks

@@ -1,0 +1,16 @@
+The Tale of .little_man (553990029480034327)
+bot-central 2020-05-24 05:51:13 ?shelp
+bot-central 2020-05-24 05:51:27 ?rhelp
+bug-reports 2022-05-02 01:54:05 I dont know how to fix this, but for some reason whenever I spawn one of my jets in and try to fire the rockets, itll shoot when I dont turn the engines on. But when I take off and try and shoot the rockets in the air they disappear, and turn back up in like 8 seconds or so and continue the path they were on, like they freeze mid air and go invisible and stay stuck for a few seconds, is there any way to fix it?
+bug-reports 2022-05-02 01:55:13 I just bought my rig, its a 2021 made pc
+bug-reports 2022-05-02 01:55:20 running at like 60 fps constantly
+bug-reports 2022-05-02 01:55:37 Yeah rockets on my ground vehicles are fine tho
+bug-reports 2022-05-02 01:55:46 ground vehicles and even my mech can shoot rockets, but not planes
+bug-reports 2022-05-02 01:56:35 so ive gotta shoot multiple before it starts working?
+bug-reports 2022-05-02 01:57:05 testing it out, as soon as the engines are on the missiles bug
+bug-reports 2022-05-02 01:58:12 still busted, shot about ten times, halfway through they stopped appearing in the air
+bug-reports 2022-05-02 01:58:24 ill try logging in with an alt and see if it fixes things
+bug-reports 2022-05-02 01:59:23 I tried attaching them to a tutorial plane, literally bare minimum and still wouldnt fire, if it dont work on my alt then I got nothing
+bug-reports 2022-05-02 02:02:12 Yep, busted on my alt aswell. im gonna try and reinstall roblox and see if that fixes things.
+bug-reports 2022-05-02 02:07:03 Yeah I tried running it on a fresh version of roblox but still broken for me
+bug-reports 2022-05-02 02:07:13 dont work on the alt either,

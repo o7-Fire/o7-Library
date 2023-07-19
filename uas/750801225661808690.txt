@@ -1,0 +1,30 @@
+The Tale of techdev (750801225661808690)
+help 2023-06-13 03:39:53 this plane keep falling down when I try fly with it
+help 2023-06-13 03:39:59 falling into void
+help 2023-06-13 04:05:15 
+help 2023-06-13 04:07:22 k
+help 2023-06-13 04:07:27 Ima try
+help 2023-06-13 04:38:11 good news
+it worked
+bad news
+after I moved the jet engines to the back (ijad moved to front for testing), i discovered the center of mass is slightly more to the right
+I spent most of the time I didn't talk here searching for the object that's causing that, but i didnt find anything
+help 2023-06-13 05:19:57 it seems the problem with the center of mass was some parachutes at the center of the plane
+help 2023-06-13 05:20:13 but i not sure
+but the plane finally flies normally now! thx :)
+help 2023-06-13 05:20:57 I had thought on using it for landing <:empty:794431705070174238>
+help 2023-06-14 00:11:20 why this tank can't steer? only the front wheels are with steering on
+help 2023-06-16 04:36:49 I trying make a tank based off the abrams X but something feels wrong about it's design
+the turret is still being made
+help 2023-06-16 04:37:04 
+help 2023-06-16 04:37:39 references I used
+help 2023-06-16 04:41:24 I cant pinpoint exactly what looks wrong <:empty:794431705070174238>
+help 2023-06-16 04:46:03 lemme grab a screenshot of my motorlocks real quick
+it's claustrophobic from how much motorlocks that little tank have
+help 2023-06-16 04:48:20 
+help 2023-06-16 04:50:36 I summon a wormhole just to find a available place for a new motorlock there
+help 2023-06-16 04:56:22 sadly not
+help 2023-06-16 04:56:27 I could get one tho
+help 2023-06-16 04:59:23 made one
+help 2023-06-17 05:14:19 is there any way to make smaller cylinders
+help 2023-06-23 04:36:35 someone or something is my guess

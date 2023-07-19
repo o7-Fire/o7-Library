@@ -1,0 +1,27 @@
+The Tale of supperts4 (790838680842797066)
+help 2022-12-09 22:14:12 my motors are too fast when they are on 1
+help 2022-12-09 22:14:13 https://streamable.com/22e7fv
+help 2022-12-09 22:14:26 srry for the low quality
+help 2022-12-09 22:17:48 even when my motors were set to max torque 1 it was still the same
+help 2022-12-09 22:17:50 someone pls help
+help 2022-12-09 22:23:24 how do i fix it
+help 2022-12-09 22:23:29 anything other than 1
+help 2022-12-09 22:23:30 ?
+help 2022-12-09 22:23:51 ok
+help 2022-12-09 22:23:59 ok
+help 2022-12-09 22:24:07 ill put 0.5
+help 2022-12-09 22:24:49 didnt work
+help 2022-12-09 22:25:33 it slowly becomes faster as i hold e like uncontrollably fast
+help 2022-12-09 22:25:41 this has never happened to me before
+help 2022-12-09 22:25:47 it didnt work
+help 2022-12-09 22:25:55 im not on mobile
+help 2022-12-09 22:25:59 pc
+help 2022-12-09 22:26:17 do i just delete it and place another one
+help 2022-12-09 22:26:30 i tried rejoining it didnt work
+help 2022-12-09 22:27:21 what if it works
+help 2022-12-09 22:27:37 bruh
+help 2022-12-09 22:27:55 i just wanna make an exit for my drive thru
+help 2022-12-09 22:29:56 lets go i fixed it by moving the motor somewhere else
+help 2022-12-09 22:30:01 i think it was an anchor block problem
+help 2022-12-09 22:32:38 oh nvm its becuase i placed these 2 motors together so it kinda broke since the road is too heavy
+help 2022-12-09 22:33:24 so rn idk how im gonna make it

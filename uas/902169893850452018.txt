@@ -1,0 +1,9 @@
+The Tale of deltadeveloper (902169893850452018)
+bot-central 2022-04-05 18:43:34 &suggest Please add Giant Wheels
+help 2022-04-30 06:41:51 How to send the suggestion?
+bot-central 2022-04-30 06:43:50 &help
+bot-central 2022-04-30 06:43:57 &cmds
+bot-central 2022-04-30 06:44:03 !help
+bot-central 2022-04-30 06:46:49 &suggest Please add more save slots
+bot-central 2022-04-30 06:47:27 &suggest [Please add more save slots]
+bot-central 2022-09-18 07:26:28 ?shelp

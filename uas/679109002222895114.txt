@@ -1,12 +1,28 @@
-endret_everything
-plane-crazy 2020-05-14 20:46:16 I don't even copy and paste that full name of the plane the red baron once used
-plane-crazy 2020-05-14 20:45:50 XD
-plane-crazy 2020-05-14 20:45:20 ~~I say this as I am about to do something morbid~~
-plane-crazy 2020-05-14 20:44:44 what iz dis
-plane-crazy 2020-05-14 20:44:21 boi
-plane-crazy 2020-05-14 20:40:21 now I'm gonna have to use density blocks to fix it
-plane-crazy 2020-05-14 20:40:02 last time, my props did not scoop enough air to fly,so I added small props. then it was too back heavy
-plane-crazy 2020-05-14 20:39:27 density block will help this out
-plane-crazy 2020-05-14 20:39:09 to be honest I backtracked the save to before wings so I can get moar power and less weight
-plane-crazy 2020-05-14 20:38:02 I am making the red baron's Fokker DR.I Dreidecker, and will listen to Sabaton's song the red baron at the same time
-plane-crazy 2020-05-14 20:37:19 someone please slap me now
+The Tale of endret_everything (679109002222895114)
+bug-reports 2020-04-13 23:34:45 here's a strange bug I found during flying my plane: when the gear is out, the plane speeds up and is stable, but as soon as I retract it, the plane goes unstable and slows down a bit
+creations-chat 2020-04-13 23:41:57 this is 'The Flying Ace'! it's a monoplane with good speed and stability!
+creations-chat 2020-04-21 22:37:32 this is a recreation of a 1928 John Deere Model D. this model here has steel wheels and overhead exhaust
+creations-chat 2020-04-21 22:39:49 I spent about an hour and a half on the model D. that flywheel on the side does spin, actually
+creations-chat 2020-05-14 20:34:12 XD about 1 month ago, I began to make a Fokker DR.I Dreidecker based upon the red baron's legend, now I am going to finish it while I listen to the song: 'Red Baron' by Sabaton
+creations-chat 2020-05-14 21:42:52 my Fokker DR.I Dreidecker. can't fly, sadly, because it constantly stalls and has hardly any speed to get off the ground(if it does, it just keeps rolling to the left for no reason). can someone help me with this thing?
+creations-chat 2020-05-14 21:43:26 good for you
+creations-chat 2020-05-14 21:43:39 I made this one big so I can fit in all the detail
+creations-chat 2020-05-14 21:44:02 huh
+creations-chat 2020-05-14 21:44:17 I got a motor system hooking into it
+creations-chat 2020-05-14 21:45:04 it's fine
+creations-chat 2020-05-14 21:45:36 I'm gonna remake it in a smaller scale and see if it works(last minute note: I forgot the browning guns on it)
+creations-chat 2020-06-13 00:55:51 built a fully working VTOL concept rig, and the only problem is that the thing rocks from side to side sometimes in vertical mode, and I can sometimes fix it without going into plane mode, but it can crash the rig if I don't correct it
+the-dump 2020-10-24 04:18:32 So, I stop playing Plane Crazy to play Simple Planes. Bruh.
+the-dump 2020-10-24 05:27:57 ...
+the-dump 2020-10-24 05:28:14 you have put images I never wanted into my head
+the-dump 2020-11-05 02:06:06 
+the-dump 2020-11-05 02:06:35 crap
+creations-chat 2021-01-06 04:24:22 well, low effort to you, but it took about 3-4 hours, being the noob that I am
+creations-chat 2021-01-21 17:12:54 me: Dares people to downvote a crappy designed, but fully functional battlebot. The Community: This dude.
+creations-chat 2021-01-21 17:15:26 I don't mind. also, an engineer is not a designer. they make things that work, not things that looks good. which is why the TF2 sentry is bare-bones for it's worth
+creations-chat 2021-01-21 17:17:27 no, it's begging for upvotes, I think. anyways, I get constant downvotes for all my functional machines anyways. So, I broke the system in a way it's not rule breaking <:trollface:775024642104229898>
+creations-chat 2021-01-21 17:19:31 no, I'm that ad that says it's not worth your time and you should skip either way round
+creations-chat 2021-01-21 17:21:37 do you want me to say it has nothing but a spinner on the front? that's literally all it has. it's just a moving box with a spinner.
+creations-chat 2021-01-21 17:24:19 so, you saw something exactly like The Black Hazzard, my own battlebot, but say it wan't me.
+creations-chat 2021-01-21 17:26:21 well, that thing is fitting within a I think a 13x13x10 space, because of a battlebot challenge coming up. and yes, I did test it in public pvp a few times.
+creations-chat 2021-01-21 17:29:06 unfortunately, that's the model for this season of the battlebots I am doing. which is the RBCS season 3. and i'm going against a tall boi with a ramp and crusher for my first round

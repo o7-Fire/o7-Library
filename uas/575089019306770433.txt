@@ -1,0 +1,3 @@
+The Tale of 2306_4005 (575089019306770433)
+bug-reports 2022-01-01 18:45:21 the track that is right beside the station thing you can spawn at but not the one closest to it, when you spawn on it your foreword and backward controls are reversed
+bug-reports 2022-01-01 18:47:13 nevermind i guess spawning near it in general does that but the first time i spawned on the closest track it didnt happen so idk

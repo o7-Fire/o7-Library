@@ -1,66 +1,136 @@
-_poogle
-plane-crazy 2020-07-02 22:06:16 wwww
-plane-crazy 2020-07-02 21:46:51 oh
-plane-crazy 2020-07-02 21:29:31 i think ur joins are off
-plane-crazy 2020-07-02 21:29:07 sure ill join
-plane-crazy 2020-07-02 21:29:04 oh ok
-plane-crazy 2020-07-02 21:28:54 wat is 7q9s
-plane-crazy 2020-07-02 21:28:48 i has question
-plane-crazy 2020-07-02 21:28:46 uh
-plane-crazy 2020-07-02 21:28:18 but looks nice
-plane-crazy 2020-07-02 21:27:52 i see
-plane-crazy 2019-12-30 18:41:09 
-plane-crazy 2019-08-28 21:10:28 it seems to fold when its not anchored
-plane-crazy 2019-08-28 21:10:21 hmmm
-plane-crazy 2019-08-28 21:09:53 no the first segment is anchored
-plane-crazy 2019-08-28 21:08:19 ok so this motor is set to 1000 torque and the motor to the left for the other fold is the same... but the one on the left works but this one doesnt. its not catching on anything or welded to something
-plane-crazy 2019-08-28 21:08:15 are motors broken again?
-plane-crazy 2019-08-28 21:06:25 rip
-plane-crazy 2019-08-28 21:06:15 like past 1000 torque?
-plane-crazy 2019-08-28 21:06:11 is there a way to make motors even more powerful?
-plane-crazy 2019-08-28 18:50:51 lol
-plane-crazy 2019-08-28 18:50:49 why must u discuss this in a game about planes
-plane-crazy 2019-08-28 18:50:42 .
-plane-crazy 2019-08-28 17:52:02 man why cant u change the material of helium
-plane-crazy 2019-08-27 17:00:10 i dont think i need that for a plane
-plane-crazy 2019-08-27 17:00:04 ok
-plane-crazy 2019-08-27 16:59:56 rip
-plane-crazy 2019-08-27 16:59:33 wat does this mean
-plane-crazy 2019-08-27 16:59:31 
-plane-crazy 2019-08-26 23:36:36 
-plane-crazy 2019-08-26 23:35:50 in my undercarriage
-plane-crazy 2019-08-26 23:35:48 i only have like 3 blocks of clearance
-plane-crazy 2019-08-26 23:35:29 uhhh
-plane-crazy 2019-08-26 23:35:00 seemlessly
-plane-crazy 2019-08-26 23:34:58 yeah but like how do i put them in the undercarriage
-plane-crazy 2019-08-26 23:34:39 anyone know how to make good landing gear?
-plane-crazy 2019-08-26 19:55:32 yeah but how do i fold to the side without having to use a whole line of wedges?
-plane-crazy 2019-08-26 19:54:47 how would i fold the wings
-plane-crazy 2019-08-26 19:54:14 how can i fold the wings
-plane-crazy 2019-08-26 19:54:10 yo
-plane-crazy 2019-08-26 19:34:03 in my server
-plane-crazy 2019-08-26 19:34:01 jump used to be broken
-plane-crazy 2019-08-26 19:33:57 oh
-plane-crazy 2019-08-26 19:33:54 lol ikr
-plane-crazy 2019-08-26 19:28:20 its just trap doors
-plane-crazy 2019-08-26 19:28:17 nvm
-plane-crazy 2019-08-26 19:26:45 where are the doors
-plane-crazy 2019-08-26 19:26:42 uhhh
-plane-crazy 2019-08-17 16:25:28 my keybinds are keypad1 and keypad2
-plane-crazy 2019-08-17 16:24:57 if i get out of my seat it unfolds
-plane-crazy 2019-08-17 16:24:48 if i jump
-plane-crazy 2019-08-17 16:24:44 but
-plane-crazy 2019-08-17 16:24:43 its fine when i fold it and it stays
-plane-crazy 2019-08-17 16:24:30 i have lock motors
-plane-crazy 2019-08-17 16:24:19 does anyone know a fix to my plane randomly unfolding?
-plane-crazy 2019-08-17 16:10:29 ok
-plane-crazy 2019-08-17 16:10:22 k
-plane-crazy 2019-08-17 16:10:16 i drained water
-plane-crazy 2019-08-17 16:10:14 ye
-plane-crazy 2019-08-17 16:10:11 but theres like a layer of glass
-plane-crazy 2019-08-17 16:10:06 i pressed that
-plane-crazy 2019-08-17 16:10:03 yes
-plane-crazy 2019-08-17 16:10:00 i just got back from there
-plane-crazy 2019-08-17 16:09:52 how do i open the door?
-plane-crazy 2019-08-17 16:09:40 ye
-plane-crazy 2019-08-17 16:09:27 yall know how to get the fire spitter?
+The Tale of _poogle (431283338716905472)
+creations-chat 2018-12-01 18:20:38 howq do u stabilize a rocket
+creations-chat 2018-12-05 00:13:19 does anyone know how to make a folding vehicle
+creations-chat 2018-12-08 19:57:11 guys what does lock do on the motor?
+creations-chat 2018-12-08 19:58:01 ok
+creations-chat 2018-12-08 19:58:02 ty
+creations-chat 2018-12-08 19:58:12 ima use it in my folding rocket
+creations-chat 2018-12-08 19:58:32 ty
+help 2018-12-08 20:01:44 what does lock do on motor?
+help 2018-12-08 20:02:23 
+help 2018-12-08 20:03:29 halp
+help 2018-12-08 20:10:35 im using it to fold my rocket bcuz of height limit but it still jitters a bit
+bug-reports 2018-12-09 18:59:08 if you have big creations that fold with motors, even with the lock option the build still jitters and acts like a snake
+creations-chat 2018-12-09 19:27:47 Folding Typhoon-Class submarine
+creations-chat 2018-12-09 19:27:58 Does not shoot missiles, terrible driving
+creations-chat 2018-12-09 19:28:05 Glitches because of motor glitch
+creations-chat 2018-12-09 19:28:16 
+creations-chat 2018-12-09 19:28:57 The sub had to be anchored for this photo
+creations-chat 2018-12-09 19:29:00 but it still floats
+creations-chat 2018-12-09 20:23:23 true
+creations-chat 2018-12-09 20:23:47 
+creations-chat 2018-12-09 20:24:31 btw his doesnt have turbines
+creations-chat 2018-12-09 20:24:40 it folds
+creations-chat 2018-12-09 20:25:06 
+creations-chat 2018-12-09 20:25:35 i guess
+creations-chat 2018-12-09 20:25:36 wait
+creations-chat 2018-12-09 20:25:46 a block is like
+creations-chat 2018-12-09 20:25:47 3 studs
+creations-chat 2018-12-09 20:25:52 cuz i compared it to my body
+creations-chat 2018-12-09 20:26:03 lets say 1 block is 3 metres
+creations-chat 2018-12-09 20:26:15 ok
+creations-chat 2018-12-09 20:26:52 erm
+creations-chat 2018-12-09 20:26:54 /lemme see
+creations-chat 2018-12-09 20:28:29 thentheres 7 7 beams
+creations-chat 2018-12-09 20:29:49 like an hour
+creations-chat 2018-12-09 20:29:50 thats it
+creations-chat 2018-12-09 20:29:52 maybe 3
+creations-chat 2018-12-09 20:30:06 the inside is empty
+creations-chat 2018-12-09 20:30:15 just filled with thrusters
+creations-chat 2018-12-09 20:30:44 i want it to launch missiles
+creations-chat 2018-12-09 20:30:46 any idea how?
+creations-chat 2018-12-09 20:31:05 wow
+creations-chat 2018-12-09 20:31:15 er
+creations-chat 2018-12-09 20:31:17 ok
+creations-chat 2018-12-09 20:32:02 erm
+creations-chat 2018-12-09 20:32:09 but how do i make it open
+creations-chat 2018-12-09 20:32:18 i might use the same way i used to fold
+creations-chat 2018-12-09 20:32:52 lol
+creations-chat 2018-12-09 20:35:13 the sub performs very poorly becaue the lock system on motors is still very glitchy
+creations-chat 2018-12-09 20:38:47 can i see?
+creations-chat 2018-12-09 20:39:12 k
+creations-chat 2018-12-09 20:45:18 mine is seemless
+creations-chat 2018-12-10 23:31:10 .
+help 2018-12-18 23:27:28 How do u make a big rocket stay upright?
+help 2018-12-18 23:27:32 w/out helium
+help 2018-12-18 23:27:42 i already tried spinning
+help 2018-12-18 23:27:56 
+creations-chat 2018-12-22 00:36:08 how do u make a rocket stay upright
+creations-chat 2018-12-22 00:36:12 i already tried spinning
+creations-chat 2018-12-22 00:37:00 so...
+creations-chat 2018-12-22 00:37:12 motor
+creations-chat 2018-12-22 00:37:22 
+creations-chat 2018-12-22 00:38:02 er
+creations-chat 2018-12-22 00:38:03 idk
+creations-chat 2018-12-22 00:38:06 i guess
+creations-chat 2018-12-22 00:38:07 wai
+creations-chat 2018-12-22 00:38:12 ima do smthing
+creations-chat 2018-12-22 00:38:39 k
+creations-chat 2018-12-22 00:38:43 now its mirrored
+creations-chat 2018-12-22 00:39:14 wait so i need
+creations-chat 2018-12-22 00:39:20 rockets downward
+creations-chat 2018-12-22 00:39:22 at the bottom
+creations-chat 2018-12-22 00:39:30 and rockets upright at da top
+creations-chat 2018-12-22 00:41:27 should i remove spin?
+creations-chat 2018-12-22 00:43:52 sure
+bug-reports 2018-12-24 17:22:33 in some servers folding builds don't fold but everything else works
+creations-chat 2018-12-24 17:27:34 
+creations-chat 2018-12-24 17:27:52 
+creations-chat 2018-12-24 17:27:58 w/ launch escape system
+creations-chat 2018-12-24 17:28:00 and stages
+creations-chat 2018-12-24 17:28:04 requesting master replicator
+creations-chat 2018-12-24 17:28:08 and master scientist
+creations-chat 2018-12-24 17:28:28 
+creations-chat 2018-12-24 17:33:44 ok
+creations-chat 2018-12-24 17:36:27 
+creations-chat 2018-12-24 17:37:00 all helium used to help it fold
+creations-chat 2018-12-24 17:39:07 ya
+creations-chat 2018-12-27 00:43:53 cool
+creations-chat 2018-12-28 17:07:16 .
+help 2019-01-01 16:56:05 is there a more seemless way to make a 180 degree fold?
+creations-chat 2019-01-05 21:20:12 
+creations-chat 2019-01-05 21:20:14 requesting midshipman
+creations-chat 2019-01-05 21:20:23 
+creations-chat 2019-01-05 21:21:02 flashing lights and rotatig spotlight
+creations-chat 2019-01-06 18:32:34 um
+creations-chat 2019-06-30 15:53:02 Modified Strandbeest walking machine thingy
+creations-chat 2019-06-30 15:54:28 https://media.giphy.com/media/jnWTOI3OML3H454v3n/giphy.gif
+creations-chat 2019-06-30 15:57:39 https://media.giphy.com/media/Pn1cuTMMtI9k8am170/giphy.gif
+creations-chat 2019-06-30 15:58:28 the speed remains very low cuz i was tapping w to go to the next frame while screenshotting cuz i used giphy to make the gifs
+bug-reports 2020-07-05 19:18:06 man... parachutes r really buggy huh?
+creations-chat 2020-07-06 19:29:12 can u make decals in plane crazy?
+creations-chat 2020-07-06 19:29:14 like do they exist?
+creations-chat 2020-07-06 19:29:21 i've seen american flags here and there
+creations-chat 2020-07-06 19:29:23 how do u make them
+bot-central 2020-09-24 21:28:10 -mapsuggestion toll booths
+bot-central 2020-09-24 21:28:19 -mapsuggest toll booth
+help 2020-12-31 02:52:38 
+help 2020-12-31 02:52:41 how do u make these treads?\
+help 2020-12-31 03:25:53 oop
+help 2020-12-31 17:53:27 indeed
+help 2021-01-23 20:46:28 is there a way to stop locked motors from unlocking when exiting the pilot seat?
+creations-chat 2021-01-30 20:43:22 👍 thanks
+creations-chat 2021-01-30 21:34:04 hehehehe
+creations-chat 2021-01-30 21:58:25 ✍️ noted
+creations-chat 2021-01-31 00:12:25 <@!721908663694131281> it's ✨ beautifulllll ✨
+creations-chat 2021-02-07 22:23:07 :)
+creations-chat 2021-02-07 22:44:28 <@!436678113691303936> looks okay, but cant tell much from the image quality; i cant tell the scale on which it is made and thus, i refuse to believe that it consists of 1443 blocks.
+help 2021-02-09 00:17:37 where do u request roles
+help 2021-02-09 00:17:45 nvm
+creations-chat 2021-03-07 03:27:16 :)
+creations-chat 2021-03-07 03:29:25 ^^^
+creations-chat 2021-03-07 03:31:47 quite clever
+creations-chat 2021-03-07 03:35:37 imagine
+creations-chat 2021-03-07 03:49:38 probably
+creations-chat 2021-03-07 03:52:26 for the sake of not getting muted or warned i have deleted it
+
+apologies for anyone inconvenienced bcuz of it
+creations-chat 2021-03-07 07:54:17 it was originally meant for a flight simulator... in a game about making planes....... and flying them...
+the-dump 2021-04-19 07:41:37 ᵐʸ　friend
+　　　　ʰᵉʳe ʲᵘˢᵗⁱⁿ
+ʰᵉˢ　already taken
+ᵃⁿᵈ　hes
+　　　　ᶜʳᵃᶜᵏᵉᵈ ᵃᵗ
+　ᶠᵒʳᵗⁿⁱᵗᵉ　my guy
+the-dump 2021-05-31 03:12:38 
+help 2022-02-12 20:56:19 The torque is too high on the motors. The sudden movement from the high acceleration causes the bounce

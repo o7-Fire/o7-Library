@@ -1,7 +1,6 @@
-ctophat
-plane-crazy 2020-07-14 12:29:52 thanks for the help
-plane-crazy 2020-07-14 12:29:45 oh it does
-plane-crazy 2020-07-14 12:29:07 alright I'll see if that works
-plane-crazy 2020-07-14 12:27:38 Like you know whenever in like a tank build you put two motors and a block so you can fire the missile up and down
-plane-crazy 2020-07-14 12:26:33 my motors aren't going up
-plane-crazy 2020-07-14 12:26:21 so um
+The Tale of ctophat (561856988208955414)
+help 2020-09-08 04:46:05 when i try to make the car go forwards it spins in place
+help 2020-09-08 04:46:54 yes
+help 2020-09-08 04:47:08 i've tried upping the torgue and the speed and nothing is working
+help 2020-09-08 04:48:55 that worked
+help 2020-09-08 04:48:59 finally

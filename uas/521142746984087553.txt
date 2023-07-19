@@ -1,0 +1,41 @@
+The Tale of Sam le Canard Cool (521142746984087553)
+bug-reports 2022-01-03 00:53:37 my saves arent saving, i saved a build, rejoined later and it was back to a previous save
+help 2022-01-03 04:34:34 my save isnt working, i saved a build, then when i rejoined it went back to an old save
+bug-reports 2022-01-03 04:59:54 does anyone know about saves not saving? when i go into a server the autosave for my build is 10942, the builds save is 9420, when i load the autosave and save onto the builds save it become 10942 but when i rejoin it goes back to 9420
+bug-reports 2022-01-03 05:05:21 i can save on other accounts, it seems to be an issue with my main account
+bug-reports 2022-01-03 05:05:39 ive tried on both the roblox app, roblox player and roblox mobile but i cant save on my main
+bug-reports 2022-01-03 05:11:21 Ok so
+bug-reports 2022-01-03 05:11:26 Build no save
+bug-reports 2022-01-03 05:11:31 I save it to a file
+bug-reports 2022-01-03 05:11:39 It say save successfully
+bug-reports 2022-01-03 05:11:45 I leave and join again
+bug-reports 2022-01-03 05:11:57 Save reverts to before i recently saved it
+bug-reports 2022-01-03 05:12:36 And it for some reason is only happening on my main account
+bug-reports 2022-01-03 05:14:24 Maybe just a roblox server failing to save the data or something
+bug-reports 2022-01-03 05:14:30 Hopefully fixed by tomorrow
+bug-reports 2022-01-03 05:23:35 Hope so
+bug-reports 2022-01-03 07:20:45 Ok ill try that
+bug-reports 2022-01-03 07:23:24 Do you mean wait a few minutes before saving pr save then wait a few minutes before leaving?
+bug-reports 2022-01-03 07:23:46 K
+bug-reports 2022-01-03 07:42:36 i waited 5 minutes after saving and the save still reverted
+bug-reports 2022-01-03 07:43:34 Wdym
+bug-reports 2022-01-03 07:43:58 Thats not the issue
+bug-reports 2022-01-03 07:44:06 I mean the save file gets reverted
+bug-reports 2022-01-03 07:44:24 Like in the save menu it reverts
+bug-reports 2022-01-03 07:44:46 Actually my autosave doesnt spawn when I joins games either
+bug-reports 2022-01-03 07:44:57 Ok let me paint you the picture
+bug-reports 2022-01-03 07:45:09 I made a 10942 block build
+bug-reports 2022-01-03 07:45:23 The last time i saved was at 9420 blocks
+bug-reports 2022-01-03 07:45:26 What
+bug-reports 2022-01-03 07:45:55 Bruhned
+bug-reports 2022-01-03 07:46:15 I have several over 10k block builds with no issues in the past though
+bug-reports 2022-01-03 07:46:44 ae
+bug-reports 2022-01-03 07:46:54 Odd
+bug-reports 2022-01-03 07:47:22 So now what should i do
+bug-reports 2022-01-03 07:50:24 Is it 10k blocks and over have issues or just large builds in general?
+bug-reports 2022-01-03 07:50:40 Damn
+bug-reports 2022-01-03 07:51:16 I should just rebuild off of what i have so far
+bug-reports 2022-01-03 07:51:45 I mean the only difference between the save and autosave was the autosave being painted and wedged
+bug-reports 2022-01-03 07:51:53 Thank for trying to help tho
+bug-reports 2022-01-03 08:01:18 Ok i tried it out i just gotta save very often
+bot-central 2023-02-12 02:52:14 !rank

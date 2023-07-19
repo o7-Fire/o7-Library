@@ -1,2 +1,162 @@
-toe1650
-plane-crazy 2020-05-20 18:46:32 no, magnets dont work on other players creations. also, magnets dont connect, theyre pulled together, which can cause a lot of problems.
+The Tale of toe1650 (370358351999139841)
+bug-reports 2020-05-12 14:40:18 The bug happens with the motor 2 block. when it comes into contact with water it does that. pls fix
+help 2020-05-12 15:37:39 The motor gods have flung my creation into the abyss
+help 2020-05-12 15:37:46 send help
+bug-reports 2020-05-13 14:23:13 i cant save :/
+bug-reports 2020-05-13 14:26:24 
+bug-reports 2020-05-13 14:27:11 cant load things either
+bot-central 2020-05-13 15:23:39 ?shelp
+bot-central 2020-05-13 15:24:18 ?rhelp
+bot-central 2020-05-14 16:00:09 shelp
+bot-central 2020-05-14 16:00:24 ?shelp
+bot-central 2020-05-14 16:09:21 & suggest 
+[TITLE] - Better control surfaces
+[CATEGORY] - Configurable
+
+[DESCRIPTION] - (Sorry if I put this in the wrong category) 
+For control surfaces, you should have the ability to change what they do. In there menu thing, there should be three boxes labeled Yaw, Pitch, and Roll. These settings should be on by default, but if you turn on off the control surface wont do anything for that axis. For example, the ailerons on airplanes control roll, the elevators control pitch, and the rudder controls yaw. The ability to do this would greatly improve gameplay.
+bug-reports 2020-05-19 21:30:26 please fix motor 2, its driving me insane. when i spawn my thing theres a 50/50 chance of the motor just going down at full force instead of following the curser. when theres a max angle it will get stuck when trying to turn around because of the way it works, they shouldnt be trying to go past the max angle, and go the other way instead.
+bug-reports 2020-06-05 21:55:19 cant join the game
+bug-reports 2020-06-05 21:55:38 not sure if this is actually a bug but i though i should report it just incase
+bug-reports 2020-06-05 21:56:07 plane crazy loading screen :/
+bug-reports 2020-06-06 15:53:33 It’s working again, you don’t have to worry. It was prob just something wrong on my end
+bot-central 2020-06-08 16:13:50 [Continuation of my previous suggestion] I understand this may be difficult because the game is hard coded, so you could just add new blocks to work around it. Also, please put a little yellow thing on the SAS block so we know where to point it, and something else on it so we know if we put it upside down. I know this seems a bit far fetched, but you already have a similar system in place for mouse control with control surfaces, so at least give this a shot, and don't not try because it sounds hard. Thanks for reading this, and if rickje139 sees this, hi! I hope you all have a great day.
+bot-central 2020-06-08 16:13:55 oops
+bot-central 2020-06-08 16:14:05 adgas
+the-dump 2020-10-22 18:03:34 i didnt know there were community vips
+the-dump 2020-10-22 18:04:08 please tell me how to get into them i am curious
+the-dump 2020-10-22 18:05:08 alr
+the-dump 2020-10-22 18:05:09 thx
+bot-central 2020-10-22 18:05:13 !servers
+the-dump 2020-10-27 16:53:37 <@!581846949901369365> bane*
+bot-central 2020-11-02 17:47:38 $suggest
+Title: Cannon
+Category: PVP
+Description: Ships and tanks are limited to slow and ugly weapons that don't work. When you make a tank, you'd expect to have a proper gun that works well, but you are limited to things like rockets, which are terribly slow. An easy fix would be a cannon weapon. It would be the same size as a fireworks block, deal a heck ton of damage, and the shots would move very fast, although this would be pretty op. To make it less op so it doesn't completely ruin the game, it should have an extremely slow rate of fire (5-20 seconds in-between each shot) and have actual recoil so only larger and more stable builds can use them, for example, tanks, ships, and not lines with wheels with every pvp weapon strapped to one block on the front. This would make larger builds have an actual use, and make them fun to build and use in pvp. If you have any ideas about how this could be balanced more or a different way it could work, dm me, I'd like to hear about it. And there should also be a way to stager the shots if that make sense. (By holding down the button, instead of them all shooting at the same time then not firing again for a while, one should shoot, then a few seconds later, an other one will shoot, and so on)
+bot-central 2020-11-02 17:47:42 heck
+bot-central 2020-11-03 14:30:45 !servers
+bot-central 2020-11-03 22:09:00 !servers
+bot-central 2020-11-06 02:27:19 !servers
+bot-central 2020-11-06 02:28:07 i keep getting error code 257 when i try to join the vip servers
+bot-central 2020-11-06 02:28:09 wth
+bot-central 2020-11-06 21:31:09 !servers
+bot-central 2020-11-11 02:15:13 !expertservers
+bot-central 2020-11-11 02:15:16 !servers
+bot-central 2020-11-11 02:15:22 !noobservers
+bot-central 2020-11-11 02:15:37 there arent servers for noobs help
+bot-central 2020-11-11 02:16:56 wth are you guys doing
+bot-central 2020-11-11 02:17:21 uhh ok
+bot-central 2020-11-11 02:17:34 XD
+bot-central 2020-11-11 18:44:44 &suggest
+[Title] Remove tracer shots
+bot-central 2020-11-11 18:44:47 shoot
+bot-central 2020-11-11 18:47:03 &suggest
+[Title] Remove Tracer Shots
+[Category] PVP, Gameplay
+
+Tracer shots (the red shots) from guns don't do anything useful. They make the game lag more, they don't deal damage, and only go half the distance of the other shots. It makes no sense why they exist and should be removed or given a use.
+bot-central 2020-11-11 18:47:07 nani
+bot-central 2020-11-11 18:47:13 why didnt it go through
+bot-central 2020-11-11 18:47:35 &suggest
+[Title] Remove Tracer Shots
+[Category] PVP, Gameplay
+
+Tracer shots (the red shots) from guns don't do anything useful. They make the game lag more, they don't deal damage, and only go half the distance of the other shots. It makes no sense why they exist and should be removed or given a use.
+bot-central 2020-11-11 18:47:38 wtf
+bot-central 2020-11-11 18:48:10 purifiedwater help
+bot-central 2020-11-11 18:52:16 ?
+the-dump 2020-11-12 19:25:20 https://cdn.discordapp.com/attachments/772890327027154994/774340407625646081/juan-horse-memes-.png
+the-dump 2020-11-12 19:25:40 juan
+the-dump 2020-11-12 19:26:11 yes
+the-dump 2020-11-12 19:26:38 guilherme you are the leg man right
+the-dump 2020-11-12 19:27:04 XD
+the-dump 2020-11-12 19:27:32 epic
+the-dump 2020-11-12 19:28:35 https://cdn.discordapp.com/attachments/772890327027154994/774340407625646081/juan-horse-memes-.png
+the-dump 2020-11-12 19:29:17 juan
+the-dump 2020-11-12 19:31:40 https://cdn.discordapp.com/attachments/772890327027154994/774340407625646081/juan-horse-memes-.png
+bot-central 2020-11-16 16:55:43 !servers
+bot-central 2020-11-19 03:22:22 !servers
+the-dump 2020-11-22 21:52:30 
+the-dump 2020-12-03 00:37:35 whats up?
+the-dump 2020-12-03 00:38:45 alr
+the-dump 2020-12-03 00:39:28 it make sense that you were blacklisted tho
+the-dump 2020-12-03 00:39:42 you basically swore, even if you didnt say the full thing
+the-dump 2020-12-03 00:40:24 oh wait no im dumb
+the-dump 2020-12-03 00:40:55 i saw b and immediately thought you meant a different word XD
+the-dump 2020-12-03 00:40:59 sry
+the-dump 2020-12-03 00:41:03 yea that
+the-dump 2020-12-03 00:41:17 ok yea
+the-dump 2020-12-03 00:41:35 so in a way it kinda makes sense why you were blacklisted
+the-dump 2020-12-03 00:41:45 idk
+the-dump 2020-12-03 00:41:50 i was pinged so i came here
+the-dump 2020-12-03 00:43:01 aight my friends calling me so imma go do other stuff
+the-dump 2020-12-03 00:43:02 cya
+bot-central 2020-12-07 03:33:20 !servers
+bot-central 2021-01-12 02:02:53 !communities
+bot-central 2021-01-12 02:02:56 aaaaaa
+bot-central 2021-02-18 02:33:05 !servers
+creations-chat 2021-02-18 16:53:06 looks nice, gj
+creations-chat 2021-02-18 18:13:00 it was pain to make i didnt want to redo it again cause i had to move a bunch of motor locks and stuff to fit it and id have to move a bunch more to fit a better one
+creations-chat 2021-02-18 18:20:55 that looks pretty nice
+creations-chat 2021-02-18 18:23:24 yea new paint looks much better
+creations-chat 2021-02-18 18:27:05 <@!493343880478195733> make it bigger
+creations-chat 2021-02-18 18:42:37 more bombs
+creations-chat 2021-02-18 18:46:40 it looks nice
+bot-central 2021-02-18 21:28:53 what
+help 2021-02-18 21:47:41 is it supposed to take 15 mins for someone to respond for a rank or is that abnormal
+help 2021-02-18 21:48:20 a
+help 2021-02-18 21:50:25 aaa
+help 2021-02-18 21:50:28 ok
+bot-central 2021-02-19 01:00:59 !rank
+bot-central 2021-02-19 17:47:21 !ping
+bot-central 2021-02-19 17:47:27 ?ping
+bot-central 2021-02-19 18:28:51 !servers
+bot-central 2021-02-19 18:29:03 still same links
+bot-central 2021-02-19 18:29:29 theyre the same links still if theyre switching the links they havent done it yet
+bot-central 2021-02-19 18:29:58 me?
+bot-central 2021-02-19 18:30:19 oh him
+bot-central 2021-02-19 18:30:28 i thought you meant me XD
+bot-central 2021-02-19 18:30:39 !servers
+bot-central 2021-02-19 18:32:12 btw hyper i didnt get to say this before cause you closed the thing but ty for helping me, and have a great day :D
+bot-central 2021-02-25 19:27:28 wait shoot
+bot-central 2021-02-25 19:27:47 ok it didnt go through
+bot-central 2021-03-11 15:41:49 !servers
+events-chat 2021-03-11 15:42:33 am i supposed to see this i didnt notice it before
+events-chat 2021-03-11 15:43:00 alr
+the-dump 2021-03-18 19:12:33 
+bot-central 2021-03-29 14:25:34 !rank
+bot-central 2021-04-07 18:13:27 $links
+bot-central 2021-04-07 18:13:30 &links
+bot-central 2021-04-07 18:13:31 e
+bot-central 2021-04-07 18:13:39 ?links
+bot-central 2021-04-07 18:13:46 !links
+bot-central 2021-04-07 18:13:56 why the hell can i not remember the command
+bot-central 2021-04-07 18:14:10 ?link
+bot-central 2021-04-07 18:14:13 e
+bot-central 2021-04-07 18:14:51 !servers
+bot-central 2021-04-07 18:14:57 im so stupid
+bot-central 2021-04-19 13:50:09 ?servers
+bot-central 2021-04-19 13:50:14 !servers
+bot-central 2021-04-19 13:50:15 e
+bot-central 2021-04-19 16:14:38 !servers
+the-dump 2021-07-14 19:13:28 **who dares summon thy ancient one**
+the-dump 2021-07-14 19:17:06 ae
+the-dump 2021-07-14 19:17:18 *yea i kinda deserved that wheeze*
+bot-central 2021-08-20 23:10:15 ?links
+bot-central 2021-08-20 23:10:22 **fuck**
+bot-central 2021-08-20 23:10:37 !servers
+bot-central 2021-08-20 23:12:07 wait
+bot-central 2021-08-20 23:12:29 **hello cal1b_r**
+bot-central 2021-08-20 23:12:47 **hows russia doing?**
+bot-central 2021-08-20 23:13:10 ok i think youre wrong person <:KEKW:670310537300672528>
+bot-central 2021-08-20 23:13:19 were you in mrp russia?
+bot-central 2021-08-20 23:13:39 yea ik avem left
+bot-central 2021-08-20 23:13:46 he joined funny terrorist faction
+bot-central 2021-08-20 23:13:56 yes
+bot-central 2021-08-20 23:14:08 join japan it epic
+bot-central 2021-08-20 23:14:21 **come back**
+bot-central 2021-08-20 23:15:03 k
+bot-central 2021-08-21 00:05:57 !rank
+bot-central 2021-08-21 00:11:05 obc why you just listening to this lol
+bot-central 2021-08-21 00:27:31 **then I’ll make him listen to it**
+the-dump 2021-12-27 23:05:55 

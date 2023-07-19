@@ -1,0 +1,33 @@
+The Tale of oʇɐʇodɹǝllᴉʞ (422141834073210890)
+bot-central 2021-03-07 01:39:22 pfft
+help 2021-08-22 16:32:50 how badly does it pitch up?
+help 2021-08-22 16:33:44 hm this may seem dumb but ive had luck just putting some down facing propeller blades on my conveyor builds
+help 2021-08-22 16:34:07 not sure
+help 2021-08-22 16:34:44 but its worth a try if 5 ballast blocks wont do anything
+help 2021-08-22 16:34:52 hm
+help 2021-08-22 16:35:27 so do your elevators make you pitch down when you want them to
+help 2021-08-22 16:35:37 or is the lift to strong
+help 2021-08-22 16:35:46 so your pitching up
+help 2021-08-22 16:35:54 but you want to go down
+help 2021-08-22 16:36:12 yes but if you want to go down
+help 2021-08-22 16:36:23 youd make the elevators go down
+help 2021-08-22 16:36:48 so id suggest presetting the elevators with locked motor 1s
+help 2021-08-22 16:37:33 
+help 2021-08-22 16:38:19 yeh so use 2 motors
+help 2021-08-22 16:38:32 one motor would be what you can adjust
+help 2021-08-22 16:38:35 which is what you have now
+help 2021-08-22 16:38:51 but have another which would pitch them up as a toggle key
+help 2021-08-22 16:39:20 this is really hard to explain
+help 2021-08-22 16:39:37 well rip
+help 2021-08-22 16:44:07 ._.
+help 2021-08-22 20:16:20 okay so the toggle option on a magnet allows one to click a button and toggle the magnet to either be on or off. Loose parts only means that the magnet will only attract blocks that are not welded (attached) to it. Magnets only means that the magnet will only repel or attract a magnet not any normal block. Weld means that the magnet will attach and weld blocks to it, they will remain stuck to the magnet and wont be able to move. Super strength makes the magnet very stronc
+help 2021-08-22 21:59:34 nope
+help 2021-08-22 22:08:50 you can see that the wheel is hitting the rocket have you tried removing the rocket?
+help 2021-08-22 22:10:56 hm maybe the springs prevent your motors from fully locking
+help 2021-08-22 22:17:05 why not use disconnectors
+help 2021-08-22 22:27:04 your very welcome
+help 2021-08-22 22:47:26 well i mean he had space for springs
+help 2021-08-23 01:30:35 paste this- ★ and paint it red
+help 2021-08-23 01:46:58 Looks fine to me
+help 2021-08-23 01:48:15 yw
+help 2021-08-23 02:30:08 yw

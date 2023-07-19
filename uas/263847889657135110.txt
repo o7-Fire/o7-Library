@@ -1,4 +1,25 @@
-charvey22
-plane-crazy 2020-07-30 18:42:05 Haven't built anything new on here in a few months, what should I build?
-plane-crazy 2020-05-02 01:57:35 yeah boats arent difficult. Haven't built a big one yet.
-plane-crazy 2020-05-02 01:56:11 Wellll this is quite unfortunate.
+The Tale of charvey22 (263847889657135110)
+help 2020-04-22 19:14:41 I feel like normal blocks would be best in that sutuation.
+help 2020-05-02 01:39:16 
+help 2020-05-02 01:39:17 
+help 2020-05-02 01:39:30 I request the rank of VTOL Engineer II...
+help 2020-05-02 01:42:16 <@!252094891448860673> Does my VTOL meet the requirements? No Helium used, and I sorta forgot to show it flying horizontally, but I can record that if needed.
+help 2020-05-02 01:42:59 For VTOL Engineer II, I mean.
+help 2020-05-02 01:48:08 
+help 2020-05-02 01:49:25 
+help 2020-05-02 01:50:28 Is this sufficient?
+help 2020-05-02 01:52:10 <@!252094891448860673>  Umm, what channel do I use !rank in?
+help 2020-05-02 01:54:09 oh ok thanks
+bot-central 2020-05-02 01:54:17 !rank
+bot-central 2020-09-29 21:30:42 -mapsuggest More obstacles, generally larger map, more interesting map locations to visit.
+help 2021-06-28 01:25:31 i have a problem with a VTOL i'm just about finished with. Basically, everything's working okay (just have to tweak some things to make it handle better) but one thing that's been happening for a little while is it's rolling to the right slightly when I take off and when it's in forward mode. The CoM and CoL are both centered, so I thought it was an issue with the thrust but all my engines are the same.
+help 2021-06-28 01:25:39 Any ideas on how to fix it?
+help 2021-06-28 01:41:30 Hmmm i waited a few seconds after i spawned to turn them on, still pulling right.
+help 2021-06-28 01:42:13 And it seems like it only does it in vtol mode, not in forward flight
+help 2021-06-28 01:43:27 Guess i'll try deleting all my engines and replacing them
+help 2021-06-28 01:52:14 Yeah unfortunately seems like it considering i just switched all my rockets to jet engines and now for some reason it pulls left.
+help 2021-06-28 01:52:29 Makes the whole, vertical landing part pretty difficult.
+help 2021-06-28 23:26:31 Any ideas on what i can do to make the wings look better? I've been trying some things but they mostly just look too chunky.
+help 2021-06-28 23:32:35 ... That feels like an insult, but i do see where you're coming from.
+help 2021-07-26 21:00:11 what exactly does motor lock do, and what's the easiest example of it?
+help 2021-07-26 21:04:28 ... i must experiment

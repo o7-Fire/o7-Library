@@ -1,0 +1,27 @@
+The Tale of Father Heaven (421887077186273310)
+help 2018-10-23 23:15:38 anyone know how to make a helicopter with working tail rotors?
+help 2018-10-23 23:16:39 That's what i was trying to do but the rotors are too weak
+help 2018-11-20 17:46:44 What are 0.9 blocks used for?
+help 2018-11-20 18:11:30 is the shorter part of the 0.9 not suppose to attach to anything because it does that for me.
+creations-chat 2018-11-21 02:50:17 My attempt at making a stealth bomber. Max speed: 620, Uses missiles for bombs.
+creations-chat 2018-11-21 02:56:55 Blocks: 912
+creations-chat 2018-11-21 02:59:52 
+bug-reports 2018-11-26 22:29:18 Heatseeking missiles do not heatseek 90% of the time, even at point blank range
+bug-reports 2018-11-26 22:30:18 but it's obviously scripted to be heatseeking.
+bug-reports 2018-11-26 22:32:44 Well i'm just reporting that it looks scripted to be heatseeking but doesn't work well at all.
+bug-reports 2018-11-26 23:23:43 Now the missiles don't work at all. You can't fire them
+bug-reports 2018-11-26 23:24:06 i am in pvp
+bug-reports 2018-11-28 00:31:52 rockets are going mental, they just don't make any thrust sometimes.
+bug-reports 2018-11-29 22:05:11 https://www.youtube.com/watch?v=S5SJNXDc48k&feature=youtu.be:   Fix your missiles
+bug-reports 2018-11-29 22:17:25 Fix your too rockets while you're at fixing missiles.
+bug-reports 2018-11-30 04:12:51 The rocket bug can't be fixed? It just sits there with no thrust at all.
+bug-reports 2018-11-30 04:13:46 Sometimes during take off it just stops making thrust even tho it's on.
+bug-reports 2018-12-02 00:22:13 ikr i hate when that happens.
+bug-reports 2018-12-02 04:02:52 Make PVP rockets not glitch your aircraft by pulling on it when you fire them.
+bug-reports 2018-12-02 17:34:40 Fix rockets, they do no damage to fast planes speeding at you but they can kill you with their rockets.
+creations-chat 2018-12-02 17:44:22 Tank and Ship buster helicopter.
+creations-chat 2018-12-02 17:44:32 
+help 2018-12-02 22:06:50 What does reset on motors do?
+help 2018-12-02 22:11:02 updates
+help 2018-12-02 22:59:53 seriously, what does reset motor do?
+help 2018-12-02 23:14:27 It doesn't do that for me 😦 (Nvm, the lock was on.)

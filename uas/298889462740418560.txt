@@ -1,0 +1,11 @@
+The Tale of Ospaar (298889462740418560)
+bug-reports 2018-10-23 00:27:22 Block Beneath The Base
+bug-reports 2018-10-23 00:27:23 Don't know if this glitch happens to the rest of you. A block spawns beneath my area whenever I initially use the build tool. Figured it was beneath the base when it constantly erupted into my ship from nowhere.
+bug-reports 2018-10-23 00:28:17 As I have mentioned before... it occurs whenever I use the build tool
+bug-reports 2018-10-23 00:28:31 Don't know if it is repetitive but it is something to  not.
+bug-reports 2018-10-23 00:28:33 note*
+bug-reports 2018-10-25 00:53:36 A recent Roblox update may have ended up causing physics changes that conflict with the nature of builds prior to said update. Parts that were able to rotate into solid frames or against other parts are now locking and preventing desired angles of movement. How will this affect the tournament should designs be revised or scrapped?
+bot-central 2022-04-11 23:33:34 !rank
+bot-central 2022-04-15 12:33:40 !rank
+bot-central 2022-04-16 13:24:00 ?shelp
+bot-central 2022-04-16 13:24:24 ?rhelp

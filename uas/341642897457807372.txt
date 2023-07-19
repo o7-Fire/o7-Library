@@ -1,0 +1,28 @@
+The Tale of protoskye (341642897457807372)
+creations-chat 2020-10-04 23:47:11 <@!658153536047022090> Im not done yet. Paint job comes last. Just thought Id share the progress
+creations-chat 2020-10-04 23:49:16 Im not sure if anyone would be interested in the interior of the b17
+creations-chat 2020-10-04 23:51:48 I only have the bomb bay and the basics of the bomber room so far
+creations-chat 2020-10-04 23:53:10 The b17 is using a conveyor engine because I like being able to use my own sound effects and not hear jets or rockets drowning everything out
+creations-chat 2020-10-04 23:53:44 Side effect of this is that It is very inconsistent
+creations-chat 2020-10-04 23:54:00 Currently has a hard time pitching down
+creations-chat 2020-10-04 23:55:20 Yeah. Im going to try to figure out a better power source but its annoying. It worked fine with half the wings but when I fill it in it doesn't.
+creations-chat 2020-10-05 21:11:29 What should I build?
+creations-chat 2020-10-05 21:12:26 no
+creations-chat 2020-10-16 05:11:03 How could I go about making a rounded nosecone?
+creations-chat 2020-10-18 06:59:25 With rank requests they mention a helium block count. Where could I find that?
+creations-chat 2020-10-18 19:09:04 How can I make it so my propellor won’t tilt my aircraft? It’s constantly trying to turn left right now
+creations-chat 2020-10-18 19:10:36 <@!458012038594166795> how can I fix that?
+creations-chat 2020-10-18 19:11:47 But it’s my propulsion. I don’t speed up with it unpowered
+creations-chat 2020-10-18 19:27:44 How can I counter my custom propellor on a single prom plane making me tilt?
+creations-chat 2020-10-18 19:29:55 
+creations-chat 2020-10-18 19:31:44 It’s going 100 right now. It was faster earlier
+creations-chat 2020-10-18 19:35:33 125-150 now I don’t want to use standard thrust because Of all the noise it makes and I like to keep it realistic.
+creations-chat 2020-10-18 19:46:58 <@!458012038594166795> it’s up to 300 now
+help 2021-07-15 03:12:19 I need to figure out a way to make this stop pitching up constantly without messing up the design
+help 2021-07-15 03:31:24 I mean...
+help 2021-07-15 03:32:10 Where are you suggesting I put a motorlock and why?
+help 2021-07-15 03:32:51 Putting ballast at the front doesn't end up looking very good
+help 2021-07-15 03:34:37 Im trying to avoid helium for several reasons but that would probably work
+help 2021-07-15 03:36:47 Actually helium seems to work pretty well. except I still pitch up when I'm sideways apparently, still open to other suggestions.
+bot-central 2021-09-09 23:14:16 !rank
+bot-central 2021-09-09 23:14:23 ok cool

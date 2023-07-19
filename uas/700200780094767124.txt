@@ -1,0 +1,75 @@
+The Tale of adam_and_steve (700200780094767124)
+help 2021-04-27 11:41:49 Had this problem
+help 2021-04-27 11:42:15 Motor couldn't rotate it the proper way..
+help 2021-04-27 11:44:22 Also increased power, and torque
+help 2021-04-27 11:44:25 Did nothing lmao
+help 2021-04-27 11:45:31 H m m
+help 2021-04-27 11:49:44 Still ain't workin
+help 2021-04-27 11:49:52 :/
+help 2021-04-27 11:50:09 Welp, my Alsace-build is f*cked
+help 2021-04-27 11:56:21 o
+help 2021-04-27 12:15:54 Bruh
+help 2021-04-27 12:16:07 The thing moves the same the way pressing R, and F
+help 2021-04-27 12:18:26 Already tried rotating the motors in build mode..
+help 2021-04-27 12:19:06 Am I doin somethin wrong-
+help 2021-04-27 12:20:13 I'VE PUT 1000
+help 2021-04-27 12:20:22 meh
+help 2021-04-27 12:20:25 I knew I am
+help 2021-04-27 12:20:27 And I am
+help 2021-04-27 12:20:45 I dunno how torque works alright-
+help 2021-04-27 12:24:34 https://streamable.com/w3ldjg
+help 2021-04-27 12:25:06 That's me pressing R, and F too..
+help 2021-04-27 12:28:15 Oh f*ck-
+help 2021-04-27 12:28:34 It worked, but it's flinging now..
+
+Not a problem at least.
+help 2021-04-27 12:28:43 Thanks for fixing my dumbass head
+help 2021-04-27 14:41:32 Ayo, do different blocks have different armor?
+help 2021-04-27 14:41:59 And do jets/rockets work better than rotary water propellers for turning?
+help 2021-04-27 14:45:31 So Ballast blocks are meta for making ship, even for the armor?
+help 2021-04-27 14:45:32 Meh
+help 2021-04-28 03:11:31 I've seen ladders on naval ships as railings, and they're aligned along 4x wedges. How do you do this?
+help 2021-04-28 03:16:06 
+help 2021-04-28 03:16:38 F*ck
+help 2021-04-28 03:19:37 How do ya align that angle shit. How does it look unfolded.
+help 2021-04-28 03:20:22 <:Thonk:509498568982134816>
+help 2021-04-28 03:24:53 R i g h t' n t
+help 2021-04-28 03:26:23 Pretty impressive the ngl
+help 2021-04-28 03:26:36 (For the original builder)
+help 2021-04-28 03:31:08 I meant the mechanism
+help 2021-04-28 03:31:11 Not the design
+help 2021-04-28 03:31:14 That's meh
+help 2021-04-28 03:36:36 <:Trigje139:559518788660232196>
+help 2021-04-28 03:37:05 Dos motor locks tho
+help 2021-04-28 03:37:26 Why da tnt
+help 2021-04-28 03:41:05 I forgot why motor locks are useful..
+help 2021-04-28 03:52:33 I see..
+help 2021-04-28 07:25:08 Dampin?
+This game got dampin?
+help 2021-04-28 07:25:52 And btw, I can just replace all my 4x beams on my ship with Ballast beams right? Isn't it just outright better?
+bug-reports 2021-04-30 09:44:55 https://streamable.com/o0xeqj The bow flops
+bug-reports 2021-04-30 10:16:53 Like, my player camera, or the camera objects?
+bug-reports 2021-04-30 11:14:46 M m
+bug-reports 2021-04-30 11:14:52 Not a problem really
+bug-reports 2021-04-30 11:15:56 Got fixed actually
+bug-reports 2021-04-30 11:15:59 It's alright
+help 2021-05-01 06:14:20 How do I increase ship speed other than propellers?
+help 2021-05-01 06:14:44 Ballasts? Rokcets/Jets?
+help 2021-05-01 06:21:10 Oh right
+help 2021-05-12 00:19:14 I haven't seen motor locking on ships (or from what I remembered). I don't understand motor locking, but I just wanna know why.
+help 2021-05-12 00:22:34 O h
+help 2021-05-12 00:23:03 Aight. Imam go see a motor locking tutorial
+help 2021-05-12 00:32:12 Y o o.
+
+Motor locking is useful
+help 2021-05-12 04:28:14 Try to set your elevator's power higher??
+help 2021-05-12 22:56:01 Can I motor lock Torpedoes?
+help 2021-05-13 00:10:52 Aight. Will they still work?
+bug-reports 2021-05-14 14:41:40 the beam block's gettin' blocked by.. somethin?
+bug-reports 2021-05-14 14:46:11 It's these 3 blocks
+bug-reports 2021-05-14 14:46:34 aight
+bug-reports 2021-05-14 14:46:56 Resolved
+bug-reports 2021-05-14 14:47:04 thanks
+bug-reports 2021-05-22 08:07:45 B r o . . .
+bug-reports 2021-05-22 08:08:06 It's been a week man
+help 2021-09-11 04:32:09 Do different part sizes have different hp? Do some have better resistance against certain weapons?

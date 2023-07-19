@@ -1,31 +1,258 @@
-viridiano
-plane-crazy 2020-04-02 03:13:37 what
-plane-crazy 2020-02-10 16:34:51 fortnitesammy02838
-plane-crazy 2020-02-09 02:59:17 
-plane-crazy 2019-12-21 13:43:03 bruh
-plane-crazy 2019-12-18 00:56:31 :( helppp
-plane-crazy 2019-12-14 17:52:46 use fabric
-plane-crazy 2019-12-14 17:49:44 I got 0.007 once
-plane-crazy 2019-12-14 17:44:32 I can use paint with 7 fps
-plane-crazy 2019-12-14 17:43:36 1/10 30 fps
-plane-crazy 2019-12-14 17:42:39 low graphics
-plane-crazy 2019-12-14 17:42:35 my max fps is 30
-plane-crazy 2019-12-14 17:42:21 i have a potato computer
-plane-crazy 2019-12-12 17:10:24 33°C
-plane-crazy 2019-12-12 02:20:01 lol
-plane-crazy 2019-12-04 02:18:41 lol
-plane-crazy 2019-12-04 01:46:45 the tie bomber
-plane-crazy 2019-12-04 01:46:21 me too
-plane-crazy 2019-12-04 01:45:03 do you*
-plane-crazy 2019-12-04 01:44:56 <@446205377604878336> you have a picture of the tie?
-plane-crazy 2019-12-04 01:40:03 they are easier too
-plane-crazy 2019-12-04 01:38:54 both are ugly
-plane-crazy 2019-12-04 01:38:47 I don't like the tie and the tie advanced
-plane-crazy 2019-12-04 01:38:34 i have a tie, a tie advanced x1 and a shuttle
-plane-crazy 2019-12-04 01:37:31 yes
-plane-crazy 2019-12-04 01:37:19 do you have any vehicle from the empire?
-plane-crazy 2019-12-04 01:35:35 no
-plane-crazy 2019-12-04 01:35:17 i have a y-wing
-plane-crazy 2019-09-18 18:03:28 how do I use the <#507673335816126509> ?
-plane-crazy 2019-09-18 17:56:56 oh, i saw you building that ship vixo
-plane-crazy 2019-09-09 20:49:35 rotom
+The Tale of viridiano (377247951086551052)
+bug-reports 2019-09-09 19:23:37 well, it's hard to explain this but I'll talk briefly: 1x4 wing panels generate less lift than 1x1 wing panels, but only vertically, I noticed that on my tie fighter, so I decided to test it, and I put five 1x4 wing panels vertically on both sides, I placed a block in the middle of the aerodynamic center and replaced the 1x4 wing panels to 1x1 wing panels on one side, and the aerodynamic center was not centered but was on the side where the wing panels 1x1
+bug-reports 2019-09-09 19:23:44 sorry bad english btw
+bug-reports 2019-09-09 19:40:55 
+bug-reports 2019-09-09 19:41:05 wing panels 1x4
+bug-reports 2019-09-09 19:41:20 
+bug-reports 2019-09-09 19:41:27 wing panels 1x1
+bug-reports 2019-09-09 19:46:20 k
+bug-reports 2019-09-09 19:52:46 but
+bug-reports 2019-09-09 19:52:57 why just on vertical?
+creations-chat 2019-11-18 21:03:46 hi
+creations-chat 2019-11-18 23:01:43 VTOL Y-Wing
+creations-chat 2019-11-18 23:02:09 
+creations-chat 2019-11-19 00:52:38 VTOL Enginner II, i can control pitch, roll and yaw
+creations-chat 2019-11-19 00:52:44 
+creations-chat 2019-11-19 14:57:11 
+creations-chat 2019-11-19 14:57:38 oof, wrong image
+creations-chat 2019-11-19 15:01:08 Request Vtol Engineer II, I can control pitch yaw and roll.
+bot-central 2019-11-19 20:24:27 !help
+help 2019-11-30 19:29:00 help
+help 2019-11-30 19:29:07 someone is copying me
+help 2019-11-30 19:29:30 
+help 2019-11-30 19:30:26 i changed
+help 2019-11-30 19:30:35 but he took a picture
+help 2019-11-30 19:34:55 oof
+reports 2019-11-30 19:39:18 Player: Chrisski79
+Reason: Copying me
+Proof: https://prnt.sc/q4dhyb
+Profile: https://www.roblox.com/users/110926772/profile
+creations-chat 2019-12-03 19:47:29 My Imperial Shuttle and PhoenixPXG's AT-AT
+creations-chat 2019-12-03 20:01:58 wut
+bot-central 2019-12-03 21:54:24 !rank
+creations-chat 2019-12-03 21:55:40 nice
+help 2019-12-04 01:21:32 uh
+help 2019-12-04 01:23:22 can I get Vtol Engineer II?
+help 2019-12-04 01:23:32 
+help 2019-12-04 01:52:17 can I get Vtol Engineer II too?
+creations-chat 2019-12-04 02:12:08 can I say "you rebel scum"? lol
+creations-chat 2019-12-04 09:52:26 what you need to do to "get hall of fame"?
+help 2019-12-04 10:04:12 
+help 2019-12-04 10:04:23 it's possible to get any rank from that?
+help 2019-12-04 10:04:31 it's not just my build
+creations-chat 2019-12-04 14:52:38 lol
+creations-chat 2019-12-04 14:52:48 russian bias
+creations-chat 2019-12-04 18:07:07 Tydirium Shuttle
+1007 Blocks
+creations-chat 2019-12-04 18:07:17 
+creations-chat 2019-12-04 18:07:30 
+creations-chat 2019-12-04 18:07:43 lol
+help 2019-12-04 21:11:44 
+help 2019-12-04 21:11:58 can i get any rank from that?
+help 2019-12-04 21:12:20 idk if i get it
+help 2019-12-04 21:12:31 can*
+creations-chat 2019-12-05 12:36:40 Request Designer IV
+help 2019-12-05 15:09:35 That's a y-wing
+help 2019-12-05 15:09:52 I used control surfaces in the cockpit to control mine
+help 2019-12-05 15:10:05 And some props to control vtol
+help 2019-12-05 17:42:06 <@468207489524039680>  request Vtol Engineer II, sorry for the pin btw
+help 2019-12-05 17:42:07 
+help 2019-12-05 17:42:19 4° attempt
+help 2019-12-05 17:43:10 I didn't know
+help 2019-12-05 17:43:39 oh
+help 2019-12-05 17:43:57 request Designer IV too
+help 2019-12-05 17:44:19 thanks
+bot-central 2019-12-05 18:00:50 ?help
+bot-central 2019-12-05 18:01:03 !help
+bot-central 2019-12-05 18:03:11 =p Fragments of time
+help 2019-12-05 22:24:05 wdym?
+creations-chat 2019-12-06 01:21:28 <@403590573799505922>  noice
+help 2019-12-06 16:32:13 motor
+help 2019-12-07 02:09:19 o
+help 2019-12-07 02:09:26 star wars server
+help 2019-12-07 02:11:10 idk
+help 2019-12-07 02:13:18 not a imperial destroyer
+help 2019-12-07 02:13:26 maybe that large ship
+help 2019-12-07 02:13:35 from the episode VIII
+help 2019-12-07 03:18:47 yes, It does
+help 2019-12-07 13:13:48 I can't access the #colours too
+help 2019-12-07 18:04:38 request vtol engineer III
+help 2019-12-07 18:04:58 i can control roll, yaw and pitch
+help 2019-12-07 18:05:08 
+help 2019-12-07 18:15:25 can i get aeronautical engineer from that?
+help 2019-12-07 19:40:39 request aeronautical engineer III too, lol
+help 2019-12-09 18:15:40 build it open
+creations-chat 2019-12-12 11:57:04 nice
+bot-central 2019-12-14 15:18:39 !rank
+bot-central 2019-12-14 17:39:08 =play justice safe and sound
+bot-central 2019-12-16 01:20:56 bruh
+creations-chat 2019-12-16 21:13:39 11 days actually
+creations-chat 2019-12-17 12:28:30 build something from star wars
+creations-chat 2019-12-17 21:16:07 b
+creations-chat 2019-12-17 21:19:52 noice
+creations-chat 2019-12-17 22:20:49 she killed my fps :(
+creations-chat 2019-12-17 22:21:41 but my fps I always low
+creations-chat 2019-12-17 23:04:32 1x7 Delta wings
+creations-chat 2019-12-17 23:04:37 1x7 wedge
+creations-chat 2019-12-17 23:04:39 etc
+help 2019-12-17 23:26:32 https://prnt.sc/qcacit that is a lag machine?
+help 2019-12-17 23:26:33 bruh
+help 2019-12-17 23:33:11 some people is saying that it's a storm
+help 2019-12-17 23:33:20 and have lag as side effect, lol
+reports 2019-12-17 23:38:43 Player: hunterplaysfootbal
+Reason: Lag Machine
+Evidence: https://prnt.sc/qcacit
+Link to profile: https://www.roblox.com/users/98490326/profile
+help 2019-12-17 23:45:56 bruh
+help 2019-12-17 23:46:16 where is my building? its not in the <#648579808971980822>
+creations-chat 2019-12-17 23:56:52 it's still 17th for me too
+creations-chat 2019-12-17 23:59:57 mine isn't in the <#648579808971980822> <:Bruhje139:602943011634020379>
+bot-central 2019-12-18 20:47:41 !rank
+bot-central 2019-12-18 20:48:35 <@341324114461720577>  you need rank to suggest
+creations-chat 2019-12-19 11:02:00 the elevator isn't in the right shape too (I don't know if that is the right name)
+creations-chat 2019-12-19 11:03:20 effort
+creations-chat 2019-12-19 18:32:30 pho?
+creations-chat 2019-12-19 19:51:55 lol
+creations-chat 2019-12-19 19:52:01 I saw that
+creations-chat 2019-12-20 10:57:19 that is cute
+bot-central 2019-12-20 11:02:11 bruh
+bot-central 2019-12-20 21:29:01 !servers
+creations-chat 2019-12-21 20:57:12 Imperial Cargo Shuttle Zeta-Class
+creations-chat 2019-12-21 20:57:15 simple interior
+creations-chat 2019-12-21 20:57:24 
+creations-chat 2019-12-21 20:57:28 
+creations-chat 2019-12-21 20:57:39 block count
+creations-chat 2019-12-21 20:58:20 "real" one
+creations-chat 2019-12-21 20:58:39 sorry for pics spam btw
+help 2019-12-22 17:24:18 1x2 maybe
+help 2019-12-22 17:25:03 yep
+help 2019-12-28 13:42:43 
+help 2019-12-28 13:42:51 i need help on that cockpit
+help 2019-12-28 13:42:57 I didn't start it
+bug-reports 2019-12-28 14:19:24 rick
+bug-reports 2019-12-28 14:19:37 new wedges?
+bug-reports 2019-12-28 14:31:02 bruh
+bug-reports 2019-12-28 14:31:04 wrong chat
+help 2019-12-28 15:28:05 uhm, i need help with the glass
+help 2019-12-28 15:28:18 i tried to put 1x2 wedges but.. ehm
+help 2019-12-28 15:32:01 but the "real" one is chonk
+bot-central 2020-01-16 18:43:04 !servers
+creations-chat 2020-01-28 01:03:43 cOoL lIzArd
+creations-chat 2020-01-28 01:35:54 where are you phoeni
+creations-chat 2020-01-28 01:45:37 imperial bois <@565376886843244544>
+creations-chat 2020-01-28 01:58:07 why the zonda is with a chinese flag
+creations-chat 2020-01-28 01:58:22 bruh
+creations-chat 2020-01-28 01:58:35 looks good bte
+creations-chat 2020-01-28 01:58:37 btw
+creations-chat 2020-01-28 01:59:56 yes
+help 2020-01-29 01:06:15 what do i need to get hall of fame?
+help 2020-01-29 01:06:34 how many
+help 2020-01-29 01:10:01 oh, it's "just" 40
+help 2020-01-29 01:13:46 can i get rank from a post with two people build?
+bot-central 2020-01-29 01:15:10 ?whois
+creations-chat 2020-01-29 01:16:44 rip bot
+creations-chat 2020-01-30 00:52:16 o noce
+creations-chat 2020-01-30 00:54:44 brein
+creations-chat 2020-01-30 01:22:36 lol
+creations-chat 2020-01-30 01:22:43 ubhr
+the-dump 2020-01-30 01:57:54 wioon
+bug-reports 2020-02-02 04:31:19 <#384025409945337856> bot is broken bruh
+bug-reports 2020-02-02 04:32:28 i forgot to check it before bhru
+bug-reports 2020-02-02 04:32:33 thanks
+help 2020-02-03 02:44:05 
+creations-chat 2020-02-05 17:26:27 epeck
+bot-central 2020-02-05 17:28:22 !rank
+bot-central 2020-02-05 17:28:36 ?whois
+bot-central 2020-02-06 22:43:48 bruh
+help 2020-02-06 22:46:55 self upvote counts?
+help 2020-02-06 23:34:16 lmao im just asking
+help 2020-02-06 23:34:31 I would ask if self down vote count
+help 2020-02-08 02:11:31 can you self d o w n v o t e ?
+help 2020-02-08 02:23:39 cool
+bot-central 2020-02-08 02:47:24 !help
+creations-chat 2020-02-08 02:50:43 noce
+help 2020-02-08 02:51:02 w0t
+creations-chat 2020-02-08 20:14:34 do you have like 10 alts?
+creations-chat 2020-02-09 17:30:19 b r u h
+creations-chat 2020-02-09 17:30:24 yes they do
+creations-chat 2020-02-09 17:30:30 some of them actually
+help 2020-02-10 00:54:45 emojis
+help 2020-02-10 00:55:47 🇧🇷 🥥 🇨🇱 🗿
+help 2020-02-10 00:56:11 press windows + .
+help 2020-02-10 00:56:30 when using text block
+creations-chat 2020-02-12 01:51:45 noce buld dood
+creations-chat 2020-02-12 01:52:45 bot is broken lmao
+creations-chat 2020-02-12 01:53:38 u probably should repost it
+creations-chat 2020-02-12 01:53:40 I guess
+creations-chat 2020-02-12 01:53:59 just repost bruh
+creations-chat 2020-02-12 02:26:15 <@565376886843244544> nice a340
+the-dump 2020-02-15 03:24:07 
+help 2020-03-05 22:13:08 <#498473314445033472>
+creations-chat 2020-03-16 22:49:44 o noce uboot
+bot-central 2020-03-28 14:01:06 !rank
+bot-central 2020-03-28 14:01:18 nO
+bot-central 2020-03-28 14:01:47 ?whois
+bot-central 2020-03-28 14:01:57 bruh
+bot-central 2020-03-28 14:05:18 =p lose yourself to dance
+bot-central 2020-03-28 14:13:08 =queue
+bot-central 2020-03-28 14:14:49 =play get lucky
+bot-central 2020-03-28 14:15:23 =play fragments of time
+bot-central 2020-03-28 14:15:47 =play instant crush
+bot-central 2020-03-28 14:15:51 =s
+bot-central 2020-03-28 14:16:27 =queue
+bot-central 2020-03-28 15:36:56 =queue
+bot-central 2020-03-28 15:37:57 =play lose yourself to dance
+bot-central 2020-03-28 15:40:03 aA
+bot-central 2020-03-28 15:41:02 =s
+bot-central 2020-03-28 15:44:12 =s
+bot-central 2020-03-28 15:44:43 =queue
+bot-central 2020-03-28 15:45:02 =s
+bot-central 2020-03-28 15:45:13 =s
+bot-central 2020-03-28 15:45:21 =s
+bot-central 2020-03-28 15:45:33 lmaO
+bot-central 2020-03-28 15:46:29 =s
+bot-central 2020-03-28 15:46:34 =s
+bot-central 2020-03-28 15:46:51 oof
+bot-central 2020-03-28 15:51:21 br0
+bot-central 2020-03-28 15:51:28 lol bruh
+bot-central 2020-03-28 15:51:35 hahah
+bot-central 2020-03-28 15:53:26 =q
+bot-central 2020-03-28 15:58:02 =play fragments of time
+creations-chat 2020-04-02 03:16:44 noce xbê-70 dood
+creations-chat 2020-04-02 03:16:53 finally found creations chat
+creations-chat 2020-04-02 03:18:39 bruH
+creations-chat 2020-04-02 03:18:49 lol what do u want
+creations-chat 2020-04-02 03:19:03 bruh
+bot-central 2020-04-20 15:02:11 ?av
+bot-central 2020-04-20 18:12:21 ?whois
+bot-central 2020-04-20 18:12:24 bruh wot
+bot-central 2020-04-21 01:23:20 ?whois
+creations-chat 2020-04-21 03:43:02 wot
+creations-chat 2020-04-21 03:45:41 lol
+creations-chat 2020-04-21 03:51:59 lol
+creations-chat 2020-04-21 03:52:08 do u know me? bruh
+creations-chat 2020-04-21 03:54:57 so why did u ping me? lol
+creations-chat 2020-04-21 03:56:12 bRuH
+creations-chat 2020-04-21 03:56:14 k
+creations-chat 2020-04-24 19:36:04 <#623337136267067393>
+creations-chat 2020-04-24 19:36:22 oh lol
+creations-chat 2020-04-25 02:46:17 <:LagBomb:568630816121290753>
+bot-central 2020-04-27 20:05:21 =q
+creations-chat 2020-05-01 02:13:40 noce
+creations-chat 2020-05-07 00:23:41 o noce uss ronger dood
+creations-chat 2020-05-07 00:27:54 lol
+bot-central 2020-05-30 02:39:22 !rank
+bot-central 2020-07-12 01:49:10 !servers
+bot-central 2020-09-03 02:49:10 ?whois
+bot-central 2020-10-27 12:53:37 how do i suggest stuff?
+bot-central 2020-10-27 12:53:45 ?shelp
+bot-central 2021-03-24 19:13:04 d
+bot-central 2021-04-24 20:27:15 !servers
+bot-central 2021-04-24 23:41:52 !servers
+bot-central 2021-04-25 21:48:37 !servers
+bot-central 2021-04-28 21:33:53 !servers
+bot-central 2021-04-29 14:46:49 !servers
+bot-central 2021-07-04 00:08:26 !servers
+bot-central 2021-09-21 20:20:25 !servers
+bot-central 2021-09-21 20:20:29 -servers
+bot-central 2022-07-09 01:42:13 -servers

@@ -1,0 +1,24 @@
+The Tale of yukimeko (505895220672593937)
+bug-reports 2021-04-11 17:02:59 uh, so, on mobile (I don't know if it's ny phone or not) but my screen freezes every time someone speaks in chat....I don't know what causes it, but mabye it could be a bubble text script error???? (The freeze happens before the bubble is sent)
+help 2021-04-15 00:03:33 can someone help me? I want to put a spinning blade on my car, but every time I activate the motor, it spins the car as well as the blade\
+help 2021-04-15 00:09:26 no, no, I meant like a blade for PvP, not like to make it fly or anything
+help 2021-04-15 00:10:18 o okay
+help 2021-04-15 00:12:24 it's still spinning rapidly
+help 2021-04-15 00:12:34 do I add weight to the build?
+help 2021-04-15 00:18:30 o I see
+help 2021-04-15 00:21:19 it fixed the problem! Thank you!
+bot-central 2021-04-29 23:47:12 ?shelp
+bot-central 2021-04-29 23:47:30 ?rhelp
+bot-central 2021-04-30 06:51:43 !rank
+bot-central 2021-04-30 06:51:48 that's a shame
+help 2021-05-08 20:16:03 Can someone explain to me why this happens every time my build goes off a smooth surface?
+help 2021-05-09 19:34:39 oh sorry for being a day late on the response but is it because of the torque?
+help 2021-05-09 20:24:22 Will lowering the torque work?
+help 2021-05-09 20:25:48 Oh okay, thanks
+help 2021-05-09 20:26:44 I use wheels connected to springs
+help 2021-05-09 20:28:26 thanks :D
+help 2021-07-09 00:55:04 anyone know how to prevent the motor gods from flinging your build lol
+help 2021-07-09 01:10:01 because i'm trying to make a battlebot and every time I get into a fight the energy from the weapon just gives the motors a seizure and  go to space
+bot-central 2021-07-09 01:43:11 !rank
+bot-central 2021-07-09 01:43:21 nice
+help 2021-07-10 22:28:19 I made my vehicle's torque the lowest it can be and it still glitches out and flings me into the void.....help?

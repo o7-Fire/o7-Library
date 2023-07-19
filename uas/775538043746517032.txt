@@ -1,0 +1,32 @@
+The Tale of chilipotato (775538043746517032)
+bot-central 2020-11-18 23:26:17 ?whois
+bot-central 2020-11-21 05:11:48 !help
+bot-central 2021-02-15 20:48:10 ?shelp
+bot-central 2021-02-15 20:48:56 ?rhelp
+bot-central 2021-02-19 02:31:04 !help
+bot-central 2021-02-19 02:32:53 ?shelp
+bot-central 2021-02-19 19:03:05 !rank
+bot-central 2021-02-28 02:38:55 !rank
+bot-central 2021-03-05 01:04:09 !rank
+bot-central 2021-03-08 01:16:39 ?whois
+bot-central 2021-09-20 23:53:52 ?shelp
+bug-reports 2021-10-02 01:49:41 I have been trying to put trapdoors on my jet for 2 days without them falling off now and I just realized that trapdoors are no longer staying on any of my builds
+bug-reports 2021-10-02 01:51:39 It’s sorta like they just can’t attach to builds in any way and I know it wasn’t that way before
+creations-chat 2021-10-25 01:20:17 hmm it appears I have been pinged, I wish I could make it tpose, but I could consider making kneecaps (idk if I want to)
+creations-chat 2021-10-25 01:26:20 <@!479305807674998804> I think your build looks good, but 1: I always like a build if I see it, and well, if I like it, and 2: I am not good at giving feedback.
+creations-chat 2021-10-25 01:30:28 creations-feedback is an interesting place, idk why I haven't stayed here before
+creations-chat 2021-10-25 01:33:22 anything above 1:1 upvote to downvote ratio has to be good, if not rigged
+creations-chat 2021-10-25 01:37:15 I’ll probably find that out over time
+bot-central 2021-10-30 04:56:39 !help
+bot-central 2021-10-30 04:59:34 !rank
+bot-central 2021-10-30 05:07:22 ?whois uwilldie409
+bot-central 2021-12-05 16:25:57 !rank
+bot-central 2022-03-20 01:21:23 ?shelp
+bot-central 2022-04-11 01:01:57 a suggestion on mobile
+bot-central 2022-04-18 21:07:20 ?whois
+bot-central 2022-05-08 17:29:25 ?shelp
+bot-central 2022-05-10 00:57:11 ?shelp
+bot-central 2022-05-14 18:28:57 &suggest Truss Block
+[Building]
+A truss block, for whatever desired look or function you want. Could come in 1x1, 1x4, or 1x7, like existing beams.
+bot-central 2022-05-14 18:29:02 Oof

@@ -1,8 +1,83 @@
-bigunit2262
-plane-crazy 2020-05-05 11:32:44 Oil industry started.
-plane-crazy 2020-05-05 05:54:14 I should probly stop there.
-plane-crazy 2020-05-05 05:54:01 And yes its at 400000 speed.
-plane-crazy 2020-05-05 05:53:44 Ive done it to the point where i cant even see the build or my charactor any more.
-plane-crazy 2020-05-05 05:43:44 I just had to test this out more.
-plane-crazy 2020-05-05 05:34:46 All the blocks are out of shape. Like what diegunguyman posted.
-plane-crazy 2020-05-05 05:34:06 I made something which hits 50000 speed and I went up too high as well.
+The Tale of bigunit2262 (580638679824072707)
+bug-reports 2019-09-21 04:50:27 i got all four quest items and i did not get the badge
+bug-reports 2019-09-21 04:52:57 and in some parts of my building are there is a spot were i cant place a block like theres and invisible block there
+bug-reports 2019-09-22 21:45:58 i never go the badge even with all four items
+bug-reports 2019-09-22 21:47:17 i have all four items and i did not get the badge i did it ages ago and i looked in my badges area and i do not have it.
+bug-reports 2019-09-22 21:48:15 water wheel lava spitter pontoon middle and front.
+bug-reports 2019-09-22 22:28:16 no ill try again now
+bug-reports 2019-09-22 22:37:46 <@299289130964090881> it did not work
+bug-reports 2019-09-22 22:38:15 screen shot of what
+bug-reports 2019-09-22 22:38:28 ok
+bug-reports 2019-09-22 22:39:53 
+bug-reports 2019-09-22 22:40:49 how
+bug-reports 2019-09-22 22:40:56 i have it
+bug-reports 2019-09-22 22:41:04 i did before
+bug-reports 2019-09-22 22:41:35 ok
+bug-reports 2019-09-22 22:42:00 middle or front pontoon
+bug-reports 2019-09-22 22:42:14 ok
+bug-reports 2019-09-22 22:43:08 F9 did not do any thing
+bug-reports 2019-09-22 22:44:38 im at the bottom of the changelog
+bug-reports 2019-09-22 22:45:05 ok
+bug-reports 2019-09-22 22:46:03 im in settings
+bug-reports 2019-09-22 22:47:02 ok
+bug-reports 2019-09-22 22:47:52 is that in settings
+bug-reports 2019-09-22 22:48:20 ok let me have another look
+bug-reports 2019-09-22 22:49:27 it does not say any thing with log in it.
+bug-reports 2019-09-22 22:50:22 no but i got all four pieces ages ago
+bug-reports 2019-09-22 22:51:17 thanks for the help any way sorry for using your time
+bug-reports 2019-09-23 02:31:12 send a screen shot and they will look at it
+bug-reports 2019-09-23 22:44:46 my chat in roblox is broken every time i type an a,c,h it just resets and i have to type it all again any one know how to fix this
+bug-reports 2019-09-23 22:45:11 its roblox thats the problem i think
+bug-reports 2019-09-23 22:46:59 and this does not work any more the opposite motor just spins it does not turn the wheel. its broken.
+bug-reports 2019-09-23 22:48:09 the front ones are working but not the back the one i took a photo of
+bug-reports 2019-09-23 22:54:28 the blue bit spins but the red wont spin like an anchored block.
+creations-chat 2019-09-23 23:12:16 they need to add some kind of grappling hook to the game
+bug-reports 2019-09-26 21:26:54 this front wheel works but both back ones dont.
+bug-reports 2019-09-26 21:28:26 The red is like an anchored block and the blue are spinning in the same direction but i checked it and there not, the red is an anchored block and the blue just spin.
+bug-reports 2019-09-26 21:30:09 and the wheels are not touching any thing to make it not spin
+bug-reports 2019-09-26 22:44:33 there not spinning in the same direction i checked it
+bug-reports 2019-09-26 22:45:52 ok ill try that
+bug-reports 2019-09-26 22:47:54 still doing it
+bug-reports 2019-09-26 22:48:08 let me see if the wheel is to close to every thing
+bug-reports 2019-09-26 22:48:22 any thing*
+bug-reports 2019-09-26 22:49:18 found the problem there is a wedge to close to it.
+creations-chat 2019-09-26 22:55:24 The grass was a bit to long lol.
+creations-chat 2019-09-26 22:58:35 wow my mower gets to 312 its a drag racing lawn mower.
+creations-chat 2019-09-26 23:01:18 wish my lawn mower went this fast.
+bot-central 2019-09-26 23:06:13 suggestion add some kind of thing you can put sound id's in and play the sound.
+bot-central 2019-09-26 23:07:12 !suggestion add some kind of thing you can put sound id's in and play the sound.
+bot-central 2019-09-26 23:07:33 how do you add suggestions
+bot-central 2019-09-26 23:08:09 oh yea true
+bot-central 2019-09-26 23:08:29 add it to plane crazy though.
+bug-reports 2019-09-27 04:14:24 Well the motor i have to turn the wheel its on reset so it goes back to its starting position when i stop using the motor but when im not using it, it moves back and forward till i use it again i tried it without the motor on the wheel and it did not woble back and forward.
+bug-reports 2019-09-27 04:15:00 it does it on other things ive made to.
+bug-reports 2019-09-27 04:26:33 hold on ill send another one
+bug-reports 2019-09-27 04:27:55 
+bot-central 2019-09-27 04:34:08 Suggestion #2262 Add a resizing tool to the game.
+bug-reports 2019-09-27 04:41:02 ok
+bug-reports 2019-09-27 04:41:15 yes
+bug-reports 2019-09-27 04:43:06 i need it to reset after i stop pressing the key but instead it just wobles.
+bug-reports 2019-09-27 04:45:20 ill put it down and try
+bug-reports 2019-09-27 04:47:14 it still wobles on default
+bug-reports 2019-09-27 04:47:25 thats both wheels to.
+bug-reports 2019-09-27 04:49:10 it only stops wobling when i press A and D to use it
+bug-reports 2019-09-27 04:52:38 i did it wobles to
+bug-reports 2019-09-27 04:52:53 i got rid of that creation ages ago
+creations-chat 2019-09-28 09:29:25 can some one send me a a picture of a good cab for a ute
+creations-chat 2019-09-28 09:29:48 i just cant build good ute cabs
+creations-chat 2019-09-28 09:53:47 i cant build good ute cabs in plane crazy if you are fine with building a cab just to start me off because im trash at it.
+creations-chat 2019-12-07 04:20:18 i dont know if any one else has done this but i think i made a new piece of suspension.
+creations-chat 2019-12-07 04:21:56 better view
+bug-reports 2020-01-14 08:58:35 the game wont let me get fire works luancher and yes i did check every corner of my inventory 3000 times i dont have it
+bug-reports 2020-01-14 08:59:46 oh is it in there
+bug-reports 2020-01-14 09:01:09 sorry for wasting your time and yep i failed that big time
+bug-reports 2020-01-14 09:01:11 lol
+creations-chat 2020-01-14 09:50:40 i would like to be a shipwright
+creations-chat 2020-01-14 09:51:32 fire boat
+creations-chat 2020-01-14 09:54:47 tug boat
+creations-chat 2020-01-14 10:06:45 speed boat
+creations-chat 2020-01-14 10:07:30 another view
+creations-chat 2020-01-16 21:40:44 trophy truck i used pistons for suspension so it wont woble and fling
+creations-chat 2020-01-16 21:43:30 i also use double wish bone for steering
+bug-reports 2020-05-04 23:37:24 Has any one else noticed that when you  take off at the normal spawn the plane flys fine but when you take off from the airport it dives strait down or strait up?
+bug-reports 2020-05-04 23:38:31 Just unsure if its a bug or not.

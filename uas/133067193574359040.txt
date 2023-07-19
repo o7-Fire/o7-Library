@@ -1,0 +1,2 @@
+The Tale of cardboardius (133067193574359040)
+bug-reports 2020-09-07 23:14:48 self-protection _disabled_ cutters won't damage your own builds when there's certain parts placed on your plot (they don't even have to be welded to anything) parts I found that make it not work are pistons and suspension.

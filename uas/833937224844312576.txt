@@ -1,0 +1,61 @@
+The Tale of Medimedes (833937224844312576)
+the-dump 2021-11-20 01:35:12 
+the-dump 2021-11-20 01:35:27 darn
+the-dump 2021-11-20 01:35:37 
+the-dump 2021-12-15 15:03:01 Not plane crazy but still cool
+the-dump 2021-12-15 15:03:24 Supercarrier Moment
+the-dump 2021-12-15 15:04:23 XD
+the-dump 2021-12-15 15:04:46 lol
+the-dump 2021-12-15 15:06:20 Eve Online
+the-dump 2021-12-15 15:07:43 Its a supercarrier tho  lol
+the-dump 2021-12-15 15:08:34 pic
+the-dump 2021-12-15 15:08:35 here a better pci
+the-dump 2022-01-03 04:35:24 When my hel is Busy
+the-dump 2022-01-03 06:04:27 Good Pictures of my super
+the-dump 2022-01-03 06:09:44 Shut up and enjoy my spaceships
+the-dump 2022-01-03 06:11:53 No u
+the-dump 2022-01-03 06:12:21 Downvote all u like my no u is superior
+the-dump 2022-01-03 06:12:36 <a:CongaMedic:425859791282372608>
+the-dump 2022-04-26 04:32:52 const fs = require('node:fs');
+const { Client, Collection, Intents } = require('discord.js');
+const { token } = require('./config.json');
+const Canvas = require('canvas');
+
+
+const client = new Client({ intents: [Intents.FLAGS.GUILDS] });
+
+const eventFiles = fs.readdirSync('./events').filter(file => file.endsWith('.js'));
+
+for (const file of eventFiles) {
+    const event = require(`./events/${file}`);
+    if (event.once) {
+        client.once(event.name, (...args) => event.execute(...args));
+    } else {
+        client.on(event.name, (...args) => event.execute(...args));
+    }
+}
+
+client.commands = new Collection();
+const commandFiles = fs.readdirSync('./commands').filter(file => file.endsWith('.js'));
+
+for (const file of commandFiles) {
+    const command = require(`./commands/${file}`);
+    client.commands.set(command.data.name, command);
+}
+client.on('interactionCreate', async interaction => {
+    if (!interaction.isCommand()) return;
+
+    const command = client.commands.get(interaction.commandName);
+
+    if (!command) return;
+
+    try {
+        await command.execute(interaction);
+    } catch (error) {
+        console.error(error);
+        await interaction.reply({ content: 'There was an error while executing this command!', ephemeral: true });
+    }
+});
+
+client.login(token);
+the-dump 2022-04-26 04:35:51 ME who will proceed to post code for no apparent reason

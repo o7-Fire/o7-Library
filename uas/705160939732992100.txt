@@ -1,0 +1,5 @@
+The Tale of flabbergaps (705160939732992100)
+help 2023-04-04 03:55:42 does anyone know why my custom control surfaces are locking up on my plane?
+help 2023-04-04 03:55:47 they werent yesterday
+help 2023-04-04 03:56:01 and now when i turn they get stuck facing downwards and i do a nosedive
+help 2023-04-04 03:56:33 i tried almost everything from altering the shape of the control surfaces to playing with every setting in the motors

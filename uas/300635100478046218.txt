@@ -1,0 +1,74 @@
+The Tale of Fubuki Shirou (300635100478046218)
+help 2021-12-31 16:46:46 hello, having issues with plane, i have ballast blocks nad im trying to guess what i need to balance out the mass and float
+help 2021-12-31 16:46:47 
+help 2021-12-31 16:47:06 this is what it looks like, except when i go up, instead of stabilizing it starts flipping in the air and falling down
+help 2021-12-31 17:16:48 so uh... whats the issue with the plane?
+help 2021-12-31 17:17:12 ballasts btw
+help 2021-12-31 17:17:33 internal wings?
+help 2021-12-31 17:17:44 you mean the back wings?
+help 2021-12-31 17:18:00 oh.
+help 2021-12-31 17:18:05 well uh the issue here is
+help 2021-12-31 17:18:20 im trying to make an X-15
+help 2021-12-31 17:18:22 
+help 2021-12-31 17:18:29 so i dont wanna ruin the wings in any way
+help 2021-12-31 17:18:58 right
+help 2021-12-31 17:19:18 ow thats some impressive working
+help 2021-12-31 17:19:19 modelling
+help 2021-12-31 17:19:22 im jelly a bit
+help 2021-12-31 17:19:26 wish i was that smart lol
+help 2021-12-31 17:19:42 do i make entirely new wings inside the body?
+help 2021-12-31 17:20:06 yeah thats what im asking
+help 2021-12-31 17:20:29 i know but i have no idea whether or not i went overboard or not enough with ballast
+help 2021-12-31 17:20:50 and replace with normal blocks?
+help 2021-12-31 17:21:10 also one more question
+help 2021-12-31 17:21:18 is the super rocket engine the strongest engine
+help 2021-12-31 17:21:51 glitch?
+help 2021-12-31 17:36:28 are they the conveyor glitch ones?
+help 2021-12-31 17:39:32 <@!707953054489509978> sorry for the ping, what else can i do to get the weight and control closer?
+help 2021-12-31 17:40:33 what did i even say that was bad
+help 2021-12-31 17:40:35 wtf
+help 2021-12-31 17:40:40 i just said
+help 2021-12-31 17:40:50 "nope, i have too little space to fit eveyrhting in"
+help 2021-12-31 17:40:58 okay then
+help 2021-12-31 17:41:05 but yeah i don't have much space to work with
+help 2021-12-31 17:41:37 this is what we're looking at rn
+help 2021-12-31 17:41:43 with internal wings
+help 2021-12-31 17:41:56 motorlocks? where?
+help 2021-12-31 17:42:13 look, im sorry, but im very very new.
+help 2021-12-31 17:42:39 its alright, thank you for understanding
+help 2021-12-31 17:42:44 but uh, where exactly are motorlocks?
+help 2021-12-31 17:43:17 so just use normal Motor, not Motor 2?
+help 2021-12-31 17:45:46 im watching a tutorial video
+help 2021-12-31 17:45:47 wtf
+help 2021-12-31 17:45:58 but uh how can i fit those motorlocks in the back?
+help 2021-12-31 17:47:17 you mean in the middle?
+help 2021-12-31 17:47:40 i get it.
+help 2021-12-31 17:50:33 thats a very good idea
+help 2021-12-31 17:50:36 although un uh
+help 2021-12-31 17:50:41 unorthodox, untraiditional even
+help 2021-12-31 17:50:44 ill see what i can do
+help 2021-12-31 17:51:01 like i never used glitches before
+help 2021-12-31 17:51:32 is it actually?
+help 2021-12-31 17:51:38 damn
+help 2021-12-31 17:51:46 so i gotta lift the top up, right?
+help 2021-12-31 17:52:46 do motorlocks lower them by like
+help 2021-12-31 17:52:50 1 block or half block
+help 2021-12-31 17:53:08 double lock twice?
+help 2021-12-31 17:53:43 okay
+help 2021-12-31 18:05:32 <@!378612526151237642> sorry for the ping
+help 2021-12-31 18:05:40 is 3 motorlocks in a row
+help 2021-12-31 18:05:42 2 blocks?
+help 2021-12-31 18:05:43 or 1.5?
+help 2021-12-31 18:06:18 so i need 4?
+help 2021-12-31 18:08:00 ye in a stair-like form right?
+help 2021-12-31 18:57:57 <@!378612526151237642> sorry for the second ping, i can fly properly! but when it comes to trying to decrease altitude, its really slow, any way to fix that?
+help 2021-12-31 19:09:17 yes
+help 2021-12-31 19:09:21 https://media.discordapp.net/attachments/663088355415818258/926552541511180378/RobloxScreenShot20211231_210628219.png
+help 2021-12-31 19:09:21 also
+help 2021-12-31 19:09:21 theyre right on eachother
+help 2021-12-31 19:16:16 <@!378612526151237642>
+help 2021-12-31 19:18:03 i think its okay now
+help 2021-12-31 19:18:14 i did some more tweaking, the issues were with a slightly older ver of the plane
+help 2021-12-31 19:18:20 rn its not as desired, but its perfect
+help 2021-12-31 19:18:32 thank you for your help! i think i can officially post this in creations
+help 2021-12-31 19:19:36 thank youuu

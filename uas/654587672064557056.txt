@@ -1,0 +1,91 @@
+The Tale of boxgaming (654587672064557056)
+help 2022-03-08 19:35:14 I'm making a build and when I load it the binds of stuff won't save, anything I can do about it?
+bug-reports 2022-03-09 14:27:27 my friends and bunch of other people i know have issues with saving stuff, when saving and loading some builds, the binds don't save and everything loads unbinded 
+
+Specifically cameras and ballast tanks
+bug-reports 2022-03-09 14:39:55 aw hell naw
+help 2022-04-09 15:17:03 i made this huge bomb (about 700 total blocks) and have no idea how to make it moove by the air, planes and v-tools dont work, and hovers simply unstabilize, any ideas?
+help 2022-04-09 15:18:12 theres still space inside for wings tho
+help 2022-04-09 15:21:06 how do i move it into that location then?
+help 2022-04-09 15:22:44 ok that solves one problem but how about if i want it to move it by the air? like if i used it as a dropping bomb?
+help 2022-04-09 15:42:47 crystal themed spaceship/starship, clearly it needs to have floating parts just hanging in there
+help 2022-04-09 15:44:18 u aint gonna make it urself? like, is the pic to build from it or as reference?
+help 2022-04-09 15:44:45 ok gimme a sec
+help 2022-04-09 15:46:19 here are bunch of concepts i inspired from to make a crystal v-tool
+help 2022-04-09 15:46:30 should be useful to you
+help 2022-04-09 15:46:47 np
+help 2022-04-09 15:55:43 cameras have collision, thats why he is using text
+help 2022-04-09 15:56:34 because he probably will use those cyclinders to move
+help 2022-04-09 15:56:48 and if he doesnt then use cams
+help 2022-04-09 15:57:22 ok nvm then
+help 2022-06-05 18:06:07 any idea on how to make it faster while it is still mouse controlled? current speed is 350-600 (full size image cuz idk maybe you can do something with it)
+adding more hovers just unstabilizes it and makes it unable to move correctly
+help 2022-06-08 15:28:08 is the game supposed to crash after some time of setting pistons to both lock an powered?
+no more after 3-7 minutes of using powered and locked pistons my game crashes, any solution? (yes i need the pistons with those settings)
+help 2022-06-08 15:31:15 im on pc
+help 2022-06-08 15:31:56 would setting the graphics to lowest help?
+help 2022-06-08 15:32:08 ok, thanks for the help
+help 2022-06-08 15:33:09 aigh, thanks for the help
+help 2022-06-08 15:45:41 if you are using a conveyor engine, its probably the lack of space, if not its a motors bug
+help 2022-06-08 15:47:03 you dont even use motors? then i dont have any idea of what it is
+help 2022-06-08 15:48:18 also how can you get that fast with only rockets?
+maybe its the speed after all, try making it a bit slower, and if that doesnt work then idk what will
+help 2022-06-08 15:50:30 then idk man, i dont really see what could do that
+help 2022-06-08 15:52:10 try removing the motors you used for steering
+help 2022-06-08 15:52:21 its the last thing i could think of
+help 2022-06-08 15:54:46 ok i give up, good luck with it
+help 2022-06-08 15:54:53 i have no idea on what to do next
+help 2022-06-16 17:01:48 how can i fix down tilt at 0 gravity (Ballast doesnt work)
+help 2022-06-16 17:05:36 im using hyperdrive (conveyor engine variant) to go that fast
+help 2022-06-16 17:06:03 you eman like, put it right on the center?
+help 2022-06-16 17:06:06 mean*
+help 2022-06-16 17:11:12 aigh, ill try that
+help 2022-06-16 17:28:28 still the same
+help 2022-06-16 17:47:07 wdym
+help 2022-06-16 18:15:33 used both ballast and helium, ballast at the back simply doesnt work and a sinlge helium block at front makes it tilt up
+help 2022-06-16 18:17:39 already told you, helium at 0 gravity overrides weight so it tilts where helium at no matter amount
+help 2023-01-14 16:09:12 So, when i load a build with signs on it, the text is simply gone, any knowledge on this?
+help 2023-01-14 16:09:31 yes
+help 2023-01-14 16:10:28 well this glitch doesnt seem to affect other people and has been going on for months to me
+help 2023-01-14 16:11:54 my build literally has only 6 signs, 5 signs 1x1 and one with 1x3
+help 2023-01-14 16:12:04 and there isnt much text either
+help 2023-01-22 09:54:49 Anyone has any idea how to make cutter cannons more accurate?
+I made a shotgun but only works goodly at point blank, which isnt very fun knowing its stationary :/
+help 2023-01-22 11:38:13 tried already, the cutters just breake and clip trough teh barrel anyway
+help 2023-01-22 11:38:44 i can get an image but its just the classic 3x3 magnet cannon
+help 2023-01-22 11:44:36 
+help 2023-01-22 11:44:50 if you need the contraption too just tell
+help 2023-01-22 11:45:50 also the blocks inside that are not glass are magnets that launch the cutters
+help 2023-01-22 12:16:29 it has enough reach for all of the cutters, also theres a door on the front so they dont get instantly blown up as soon as the build is loaded
+help 2023-01-22 12:16:54 it launches all of them near-evenly?
+help 2023-01-22 12:18:08 so if i put a magnet facing foreward all along the barrel, you tell me they'll have a different effect?
+help 2023-01-22 12:18:45 wouldnt that make it more inaccurate?
+help 2023-01-22 12:19:42 aigh ill try that, but does it have to be up until the very end of the barrel?
+help 2023-01-22 12:26:33 ok i see, but theres a small detail that i overlooked, nearly all of the blocks on the cannon are 0.9x1 blocks, so all i can really do is extend the barrel with magnets
+help 2023-01-22 12:26:57 or the cutters stick to it
+help 2023-01-22 12:29:03 is what im doing
+help 2023-01-22 12:29:10 but it might not be as effective
+help 2023-01-22 12:31:38 i make myself an idea
+help 2023-01-22 12:32:19 a guide is not a tutorial btw
+help 2023-01-22 12:32:44 unless its a literal guide on how to build X specific thing
+help 2023-01-22 12:34:21 oh yeah that one
+help 2023-01-22 12:34:34 yeah i dont think so
+help 2023-01-22 12:36:01 also the magnets should have superstrenght or nah?
+help 2023-01-22 12:36:20 okok good
+help 2023-01-22 12:41:00 ok should the sequence be full on magnets or magnets spearated by blocks?
+help 2023-01-22 12:43:46 is bc the game lags because of how fast they go
+help 2023-01-22 12:45:38 im aware, yes
+help 2023-01-22 14:04:16 Ok, so about this:
+good news: managed to make cutters go very fast without causing lag
+bad news: the accuracy remains unchanged
+help 2023-01-22 14:09:22 it already has a long barrel
+help 2023-01-22 14:09:30 i doubled the size of this
+help 2023-01-22 14:21:34 you mean like, pushing inside?
+help 2023-01-22 14:23:40 yeah already done that
+help 2023-01-22 14:23:59 that adds speed but not much accuracy :/
+help 2023-01-22 14:24:50 also what does "weld" do on a magnet?
+help 2023-01-22 14:34:14 wdym? like moving the jet as a whole without turning it?
+help 2023-01-22 14:35:19 probably hovers or gravity slider
+help 2023-01-22 14:36:46 ok then i have no idea what you mean
+help 2023-01-22 14:48:34 any good 3x3 choke designs for a shotgun? mines are not very effective
+help 2023-01-22 14:52:18 forget the top message chokes literally dont work

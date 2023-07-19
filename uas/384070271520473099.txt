@@ -1,2 +1,18 @@
-bones1605
-plane-crazy 2020-04-02 09:46:19 brokken
+The Tale of bones1605 (384070271520473099)
+the-dump 2021-03-02 22:57:02 
+creations-chat 2021-03-04 16:53:01 i find that wings really help the handling and performance of planes
+creations-chat 2021-03-04 16:55:19 oh ok
+
+i suggest parts commonly found on aircraft
+help 2021-03-13 16:20:09 what does motor locking do
+help 2021-03-13 16:22:03 what
+creations-chat 2021-09-04 23:45:25 using the previous pics looks like a half built a7
+creations-chat 2021-09-28 20:58:56 that f18
+
+*smooth*
+help 2023-04-07 22:26:27 why is the wheel not being spun round
+is it roblox physics being roblox or am i doing smthing wrong k thx
+help 2023-04-07 22:28:54 so basically my intentions were that the pistons on the right (ignore the rocket) would push the rod attached to the wheel down, moving the wheel
+help 2023-04-07 22:28:59 oh my god i know what
+help 2023-04-07 22:29:10 i think i know wahts wrong lmao
+help 2023-04-07 22:35:28 i didn't give space for the right pistons to compress to allow the wheel to spin past 180*

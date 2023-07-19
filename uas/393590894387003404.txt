@@ -1,38 +1,84 @@
-bluesandbox
-plane-crazy 2020-07-17 22:03:47 well someone deleted what he said
-plane-crazy 2020-07-17 22:02:48 <@!163143541160148992> i guess i wont post any pictures when its done then
-plane-crazy 2020-07-17 21:52:30 not rreealy important though
-plane-crazy 2020-07-17 21:52:20 idk to make it so theres no motor
-plane-crazy 2020-07-17 21:51:57 there should be some kind of seamless hinge block or something
-plane-crazy 2020-07-17 21:50:52 things huge lol
-plane-crazy 2020-07-17 21:50:44 i built the lego model
-plane-crazy 2020-07-17 21:50:31 looks like Apollo 11
-plane-crazy 2020-07-17 21:50:20 oof
-plane-crazy 2020-07-17 21:49:44 thats sad
-plane-crazy 2020-07-17 21:49:42 oh
-plane-crazy 2020-07-17 21:49:28 do they just have to have the motors visable?
-plane-crazy 2020-07-17 21:49:23 how do other people do it on rockets
-plane-crazy 2020-07-17 21:48:47 yeah but the motor would still be there
-plane-crazy 2020-07-17 21:48:34 the motor would still be visable
-plane-crazy 2020-07-17 21:48:29 wdym use cameras
-plane-crazy 2020-07-17 21:47:51 can someone help
-plane-crazy 2020-07-17 21:45:52 its a rocket
-plane-crazy 2020-07-17 21:45:48 how do i do a fold like this so that the motor and stuff isnt visable from the outside
-plane-crazy 2020-07-17 20:50:05 what is that
-plane-crazy 2020-07-17 20:49:09 how would i build a fold like this so that the motor is inside the rocket when its folded
-plane-crazy 2020-07-17 20:46:05 build mode?
-plane-crazy 2020-07-17 20:43:25 how do you do a fold but have the motor and stuff be on the other side
-plane-crazy 2020-07-17 20:27:13 how do other people build rockets
-plane-crazy 2020-07-17 20:26:28 i need the opposite
-plane-crazy 2020-07-17 20:26:21 because then the motor will be outside the rocket
-plane-crazy 2020-07-17 20:26:08 that wont work
-plane-crazy 2020-07-17 20:23:29 ?
-plane-crazy 2020-07-17 20:23:11 i need to fold 2 pieces
-plane-crazy 2020-07-17 20:23:01 here
-plane-crazy 2020-07-17 20:23:00 
-plane-crazy 2020-07-17 20:22:31 but i need the seem on the inside of the 180*
-plane-crazy 2020-07-17 20:22:20 i see all the videos
-plane-crazy 2020-07-17 20:22:13 oh i cant paste
-plane-crazy 2020-07-17 20:22:06 how do you do a fold like this
-plane-crazy 2020-07-17 17:08:43 mimirror
-plane-crazy 2020-07-17 17:08:36 is there no way to mirror your build?
+The Tale of bluesandbox (393590894387003404)
+help 2020-12-03 22:20:33 im trying to make a turret and i need this hinge to make the barrel longer, but placing the motor down causes everything to wobble
+help 2020-12-03 22:21:06 up down left right are fine before the motor (both axis are motor 2 things so it follows your curser)
+help 2020-12-03 22:32:44 maybe
+help 2020-12-03 22:32:58 but why does placing down a motor at the top of the barrel cause it to wobble
+help 2020-12-03 22:33:34 oh and its not just wobbling, its like it dosnt have the energy to get all the way up as well
+help 2020-12-03 22:34:13 it only does it when the motor is there though
+help 2020-12-03 22:35:44 its perfectly fine when it has no motor on the hinge, when i add the motor it flops
+help 2020-12-03 22:35:51 that makes it worse
+help 2020-12-03 22:35:55 it wont even move then
+help 2020-12-03 22:36:05 i tried adding helium to the end and it wont move now
+help 2020-12-03 22:36:32 lemme get a video of it
+help 2020-12-03 22:38:11 no hinge
+help 2020-12-03 22:38:19 hinge
+help 2020-12-03 22:39:20 great
+help 2020-12-03 22:39:21 lol
+help 2020-12-03 22:39:36 now how am i going to add a barrel to this
+help 2020-12-03 22:40:04 that is a motor fold
+help 2020-12-03 22:40:09 its whats breaking it
+help 2020-12-03 22:40:34 oh
+help 2020-12-03 22:40:44 lemme see if it being powered or not does anything
+help 2020-12-03 22:41:38 its all at base speed and torque
+help 2020-12-03 22:42:37 what the up and down motors?
+help 2020-12-03 22:43:54 oh
+help 2020-12-03 22:44:13 i havnt even been using it, just having it exist is what breaks it
+help 2020-12-03 22:46:14 hmm
+help 2020-12-03 22:47:43 it still breaks even with unpowered motors i think
+help 2020-12-03 22:48:16 yeah its still broken if the motor is unpowered
+help 2020-12-03 22:48:22 actually lemme relog
+help 2020-12-03 22:48:27 server might be broken
+help 2020-12-03 22:48:29 ill try that
+help 2020-12-03 22:51:47 <@!611251614178869269> still broke
+help 2020-12-03 22:51:51 it works when the motor is locked though
+help 2020-12-03 22:52:35 ill look it up
+help 2020-12-03 22:53:48 is this what your talking about
+help 2020-12-03 22:53:50 https://www.youtube.com/watch?v=K848OEofiyU
+help 2020-12-03 22:57:00 do you have a link to a video of motor lock folds
+help 2020-12-03 22:57:38 how do i build a motor lock fold
+help 2020-12-03 23:02:03 idk he said motor lock fold
+help 2020-12-03 23:02:05 idk what it is
+creations-chat 2020-12-03 23:05:47 its the same build, i just added a turret and changed the front
+help 2020-12-03 23:15:01 ok
+help 2020-12-03 23:18:56 why do i hear a jet engine every time i rotate my motor
+help 2020-12-03 23:24:07 i do not have any jet engines on my build
+help 2020-12-03 23:26:20 nvm im just blind
+help 2020-12-03 23:26:24 i forgot what a jet engine looked like
+help 2020-12-03 23:26:25 sorry
+creations-chat 2020-12-04 00:25:40 how did you get this little image thing
+oh
+help 2020-12-04 03:58:22 would a vehicle with rocket assisted fowards and backwards and rocket turning count
+help 2020-12-04 03:58:33 for the terrain rank
+help 2020-12-04 16:16:35 im probably doing this completely wrong, but im trying to make a motor lock but it dosnt pull anything into the blocks, just to the top of them
+help 2020-12-04 16:16:46 
+help 2020-12-04 16:17:29 that works
+help 2020-12-04 16:17:30 thanks
+help 2020-12-04 16:35:53 is there any way to fit guns and rockets into these barrels with motor locks or something
+help 2020-12-04 16:37:48 the thickest part is 3x3
+help 2020-12-04 16:37:58 i used 0.9 blocks to fit the square part into the turret so they could move
+help 2020-12-04 16:38:24 how
+help 2020-12-04 16:42:47 oof
+help 2020-12-04 16:43:15 i think ill make it less round to fit a motor lock in
+help 2020-12-04 16:49:47 i have a space but how can i put the motor lock in without the sides sticking to the motor bases and stoping them from working
+help 2020-12-04 16:51:57 sure
+help 2020-12-04 16:53:08 oh i think i figured something out
+help 2020-12-04 16:53:13 kinda
+help 2020-12-04 16:58:58 <@!486276884611465256> i think just having 3 of the cylinders being squarish vs having a section would be weird looking
+help 2020-12-04 17:05:59 <@486276884611465256> sorry power went out for a sec
+help 2020-12-04 17:06:13 Yep
+help 2020-12-04 17:06:38 One sec I have to get my pc on
+help 2020-12-04 17:06:53 Lol
+help 2020-12-04 17:08:54 uh how do i join your game
+help 2020-12-04 17:09:28 o
+help 2020-12-04 18:27:55 how do you get the firework cannons
+creations-chat 2020-12-04 19:02:03 looks dead
+help 2020-12-04 19:02:23 more rockets
+help 2020-12-04 19:02:35 more everything
+help 2020-12-04 19:05:44 more rockets
+help 2020-12-04 19:05:48 rockets fix everything
+help 2020-12-04 19:10:32 ez
+help 2020-12-04 19:10:32 use zero gravity
+creations-chat 2020-12-04 19:58:00 who even made a among us crewmate tutorial
+its so fucking simple
+creations-chat 2020-12-04 20:08:43 did you have a stroke
+creations-chat 2020-12-04 20:24:42 thicc

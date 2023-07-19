@@ -1,0 +1,15 @@
+The Tale of neptune.com (526468680498806786)
+bot-central 2021-11-15 18:02:23 !update
+help 2021-11-29 01:43:04 this happened and idk how to fix it at all, it's supposed to all be in a wheel and not like this
+help 2021-11-29 01:46:00 i'm trying to make a tank but it doesn't lock like it's supposed to into the top wheels and i can't remove the bottom ones as they are what makes it move
+help 2021-11-29 01:47:01 oh alr i guess
+help 2021-11-29 01:48:42 should i just not use suspensions
+help 2021-11-29 01:49:25 i suppose i shouldn't as it's easier
+help 2021-11-29 01:52:58 i removed the top ones
+bot-central 2021-12-04 19:34:38 -servers
+help 2021-12-21 02:13:26 these sides don't lock (even if i am using motorlocks)
+help 2021-12-21 02:16:37 can someone help me with my motorlocks
+bot-central 2021-12-22 22:06:48 -servers
+bot-central 2022-05-13 22:21:51 -servers
+bot-central 2022-05-14 22:57:37 -verify
+bot-central 2022-05-14 22:57:42 -verify 62_113

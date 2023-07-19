@@ -1,4 +1,419 @@
-aha.savage
-plane-crazy 2020-07-31 07:47:05 <:KEKW:670310537300672528>
-plane-crazy 2020-07-17 05:49:11 I imagine that takes a lot of fine tuning/trial and error
-plane-crazy 2020-07-17 05:46:21 You need a lot more than a tail rotor if you want a helicopter with collective
+The Tale of aha.savage (323363169613381632)
+help 2020-06-09 04:39:16 
+help 2020-06-09 04:39:40 Anybody have good tips for single rotor helis, this one I converted is really unstable but it can fly
+help 2020-06-09 04:42:21 No I mean
+help 2020-06-09 04:42:44 
+help 2020-06-09 04:42:57 It only has one rotor on top in comparison to two which is typically used
+help 2020-06-09 04:43:32 Because two rotors is the only easy way to counteract torque but even with a tail rotor set to the right speed for countering the torque, it’s still very unstable
+help 2020-06-09 04:45:31 I already have lol that’s not what I mean
+help 2020-06-09 04:45:48 
+help 2020-06-09 04:46:59 Yeah I’ve done that too
+help 2020-06-09 04:47:14 
+help 2020-06-09 04:48:05 Like one of those really advanced ones huh
+help 2020-06-09 04:48:42 Could you link a ty tutorial?
+bot-central 2020-06-15 08:45:26 !help
+bot-central 2020-06-15 08:49:35 !rank
+bot-central 2020-06-15 08:50:39 ?rankhelp
+creations-chat 2020-06-19 13:07:31 <@531903658011394058> could we get a tutorial on the improved machine gun?
+creations-chat 2020-06-19 13:09:50 No
+creations-chat 2020-06-19 13:10:26 No
+creations-chat 2020-06-19 13:10:42 Appreciated
+bot-central 2020-06-30 18:10:33 ?rhelp
+creations-chat 2020-06-30 18:17:32 <@!533881657380569089> don’t text in <#384025409945337856>
+help 2020-07-08 01:30:04 Maybe it’s your character on top creating a weight offset with him spinning
+help 2020-07-13 00:24:38 Anybody have some good auto loader tnt ball cannon designs for tanks with turrets, please ping me if so
+help 2020-07-13 00:40:56 Need something a lil better than that
+help 2020-07-13 00:41:12 I’ve seen some examples but I can’t find them in here anymore
+creations-chat 2020-07-14 05:25:32 Spell banana with creations, we’re doing good so far
+bug-reports 2020-07-15 16:07:17 Yeah he knows, he’s not referring to that though
+the-dump 2020-07-15 17:22:52 Welcome bois
+help 2020-07-16 22:32:19 Can someone explain what dampening does in suspension?
+help 2020-07-16 22:32:36 Or damping I mean
+help 2020-07-16 23:43:59 Sooo what does damping do in suspension
+creations-chat 2020-07-22 05:56:06 He is ig rain
+creations-chat 2020-07-22 16:37:20 Yeah it’s not bad it’s just a diff style
+creations-chat 2020-07-22 16:39:42 Imagine being so confined to being realistic
+creations-chat 2020-07-22 16:41:08 Bulbous designs are actually considered cartoony
+creations-chat 2020-07-22 16:48:39 > the cartoon-like style aims to exaggerate features that makes the plane more unique
+<@!489910972946055172>  so you agree basically
+creations-chat 2020-07-22 16:50:14 It sounds like you agree with me but with extra steps
+creations-chat 2020-07-22 16:51:19 What are we
+creations-chat 2020-07-22 16:51:41 We are
+creations-chat 2020-07-22 16:51:42 The?
+creations-chat 2020-07-23 21:41:55 <@!583801306871758848> where can I find a picture of the 20 fold carrier
+creations-chat 2020-07-23 22:27:45 Btw ur second post isn’t a gyroscope
+bug-reports 2020-07-25 22:38:08 Unguided rockets that launch off of motor 2’s are broken and will get stuck in the air and only move when a player is right by them which is weird. I’ve done tests using just a propulsion block and this is true.
+creations-chat 2020-07-26 16:54:40 Dude
+creations-chat 2020-07-26 16:54:50 Put it into an actual slot are you’re gonna end up losing it
+creations-chat 2020-07-26 16:55:26 <@!693476997007147068>
+help 2020-07-28 17:58:39 Anybody have a compact and very efficient and strong conveyor gyro stabilizer?
+help 2020-07-28 18:00:34 What
+help 2020-07-28 18:00:45 You got it wrong lmao
+help 2020-07-28 18:01:08 Uhhhh who gonna tell him? It’s not a server lol
+help 2020-07-28 18:02:47 So who’s got a stabilizer design
+creations-chat 2020-07-28 18:03:06 Anybody have a compact and very efficient and strong conveyor gyro stabilizer?
+help 2020-07-28 18:22:46 <@523278765825196062> I’ve been having that same problem too, the only way I know how to fix it is to use regular motors for the turrets which sucks because we all want to use our mouse
+creations-chat 2020-07-29 16:44:26 Currently not at my computer so I can’t get a better picture, this is outdated anyways without colors, interior, weapons, but does anyone think this is hall of fame worthy? (In the picture it’s at about 3000 blocks but now it’s over 4000)
+creations-chat 2020-07-29 16:47:59 I’ve gotta get an updated picture but I won’t be one for a few hours
+creations-chat 2020-07-29 16:48:37 Sounds good I appreciate it 🙂
+creations-chat 2020-07-29 17:28:47 Yuppp I’m glad someone knows lol <@586354707723845636>
+creations-chat 2020-07-29 17:53:08 <@586354707723845636> yes it hovers and in the picture since it’s old it doesn’t have guns but it does now. Also the engines swivel and move alongside the desired direction. I thought reaper was a cool specialist though
+bug-reports 2020-07-29 21:11:38 Fr I don’t see anything wrong not why that one guy was trippin
+help 2020-07-29 22:01:47 Anyone have any good tips on reducing lag with big builds that have a few folds and are around 4K blocks?
+creations-chat 2020-07-30 03:30:02 Server lag kills my mothership :(
+creations-chat 2020-07-30 03:30:21 1k is fine normally
+creations-chat 2020-07-30 03:30:29 Builds with folds will suffer the most
+creations-chat 2020-07-30 03:30:51 You’re fine using locked most of the time
+creations-chat 2020-07-30 03:30:57 Magnets will hinder it a lot
+creations-chat 2020-07-30 03:31:35 Remove the magnets and you’ll see improvement
+creations-chat 2020-07-30 03:31:41 If you’re using folds then yeah
+creations-chat 2020-07-30 03:31:51 For what?
+creations-chat 2020-07-30 03:32:08 If just for turrets and small things you’re fine
+help 2020-07-30 03:37:49 Yeah you can’t really do roll with motor 2 only control surfaces
+help 2020-07-30 03:40:06 Actually well that’s a lie but it’s not gonna be what you want, just invert one of the motors and it’ll work but you gotta point your mouse up and down
+creations-chat 2020-07-30 03:54:34 Honest thoughts on this? https://discord.com/channels/384021699466756103/384025409945337856/738236045006733393
+creations-chat 2020-07-30 05:28:01 Yeah I prefer good looks and amazing functionality 😎
+creations-chat 2020-07-30 19:01:45 I think he meant it’s gonna be a tutorial
+bug-reports 2020-07-30 21:42:52 
+bug-reports 2020-07-30 21:43:55 please fix, custom rockets fired off disconnectors attached to motor 2's will always get stuck in mid air no matter what, only switching to regular motors will work but that ruins rocket turrets.
+bug-reports 2020-07-30 22:01:36 Indeed that’s what I did
+bug-reports 2020-07-30 22:14:34 Never happened :0
+bug-reports 2020-07-30 22:58:41 Jeez calm down lol why you so pressed
+bug-reports 2020-07-30 22:58:53 Taking something light hearted so seriously
+bug-reports 2020-07-30 22:59:14 Anyways how’s the bug not related to plane crazy
+bug-reports 2020-07-30 22:59:25 Other people experience it, it’s constant
+bug-reports 2020-07-30 22:59:39 I couldn’t understand how
+bug-reports 2020-07-30 22:59:59 Why doesn’t the same thing happen to say motor 1 turrets?
+bug-reports 2020-07-30 23:00:16 Alt calm down dude
+bug-reports 2020-07-30 23:00:26 I edited it since you were so pressed about me pinging him
+bug-reports 2020-07-30 23:00:44 Dude chill holy
+bug-reports 2020-07-30 23:01:08 Okay then I’ll just edit it again and ping him
+bug-reports 2020-07-30 23:01:10 What do you want?
+bug-reports 2020-07-30 23:01:13 Sheesh
+bug-reports 2020-07-30 23:01:34 I’m not on discord enough to know 😂
+bug-reports 2020-07-30 23:02:01 Eh if you didn’t whine about it it would’nt of happened
+bug-reports 2020-07-30 23:02:57 Because I’m not aware of ghost pinging since I don’t live on discord
+bug-reports 2020-07-30 23:03:09 You definitely have been whining
+bug-reports 2020-07-30 23:03:33 You’ve gone and sent like 10 messages about it and you keep complaining to mods about  simple mistake
+bug-reports 2020-07-30 23:03:36 Like quit crying jeez
+bug-reports 2020-07-30 23:03:47 Yeah it was unintentional
+bug-reports 2020-07-30 23:03:50 You literally are
+bug-reports 2020-07-30 23:03:55 You want to make a problem out of nothing
+bug-reports 2020-07-30 23:04:11 I said it was unintentional
+bug-reports 2020-07-30 23:04:13 Holy omg
+bug-reports 2020-07-30 23:04:29 Bro
+bug-reports 2020-07-30 23:04:32 You are something else
+bug-reports 2020-07-30 23:04:40 That was a joke 😂
+bug-reports 2020-07-30 23:04:48 That’s why I said “never happened :0”
+bug-reports 2020-07-30 23:05:05 I know mods have logs
+bug-reports 2020-07-30 23:05:19 I didn’t say it was
+bug-reports 2020-07-30 23:05:23 I said it was unintentional
+bug-reports 2020-07-30 23:05:33 But you want to make it into a big problem
+bug-reports 2020-07-30 23:05:35 Bro
+bug-reports 2020-07-30 23:05:37 Listen to me?
+bug-reports 2020-07-30 23:05:43 I said covering it up was
+bug-reports 2020-07-30 23:05:45 Omg
+bug-reports 2020-07-30 23:05:53 Not pinging him to begin with
+bug-reports 2020-07-30 23:06:03 I deleted it for your whining sake
+bug-reports 2020-07-30 23:06:08 I know it wouldn’t make a difference
+bug-reports 2020-07-30 23:06:17 But I thought perhaps if the literal text wasn’t there you wouldn’t cry
+bug-reports 2020-07-30 23:06:24 But instead ghost pinging is the problem now
+bug-reports 2020-07-30 23:06:55 Dude the ping isn’t even that big of a problem in the first place
+bug-reports 2020-07-30 23:07:04 I doubt rick has notifications on and plus someone pinged him above me
+bug-reports 2020-07-30 23:07:16 Regardless he will have a notification in this specific channel
+bug-reports 2020-07-30 23:07:29 Bruh you need to educate yourself
+bug-reports 2020-07-30 23:07:35 You’re the one making it a problem
+bug-reports 2020-07-30 23:07:44 Funny
+bug-reports 2020-07-30 23:08:07 Looks like you should retake all of elementary school
+bug-reports 2020-07-30 23:08:50 Bruh
+bug-reports 2020-07-30 23:09:24 Ok I’m done with this unnecessary wack stuff lol, I’d rather not deal with you and waste my time
+bug-reports 2020-07-30 23:09:53 That just proves my point even more lol
+bug-reports 2020-07-30 23:10:19 Making problems out of nothing, some toxicity that is. I don’t care about the screenshots I’ve done nothing wrong intentionally
+bug-reports 2020-07-30 23:11:00 Oh my god
+bug-reports 2020-07-30 23:11:05 Learn to stop yeah?
+bug-reports 2020-07-30 23:11:09 Stop being so immature
+bug-reports 2020-07-30 23:11:21 And don’t even try calling me unreasonable things now that do not at all describe me
+bug-reports 2020-07-30 23:11:28 Like you don’t look smart or right doing it
+bug-reports 2020-07-30 23:11:30 So stop trying
+bug-reports 2020-07-30 23:11:44 Ironic coming from you
+bug-reports 2020-07-30 23:11:58 Turning a mistake into a big problem and bugging mods about it while spamming the chat with nonsense
+bug-reports 2020-07-30 23:12:04 Legit I asked you to stop a while ago now
+bug-reports 2020-07-30 23:12:07 So you need to do so too
+bug-reports 2020-07-30 23:13:50 I can’t describe how annoying you are, just drop it already? God -_-
+creations-chat 2020-07-30 23:15:29 Shouldn’t you use ice or something with less friction for a sled?
+bug-reports 2020-07-30 23:15:57 Then leave this channel to bug reports only 😂 stop talking to me and I won’t reply
+bug-reports 2020-07-30 23:16:56 Yeahhh because I sent over 10 messages in a row complaining about a ping and then continuing to bug mods about it
+bug-reports 2020-07-30 23:17:10 Alright I’ll be the big boy here, I’m out this convo
+help 2020-07-30 23:17:49 Lol I feel that
+creations-chat 2020-07-30 23:18:10 Oh I meant with less friction so it slides more. Fabric is the opposite
+creations-chat 2020-07-30 23:19:24 Ah
+creations-chat 2020-07-30 23:19:55 I forgot about friction blocks
+bug-reports 2020-07-31 01:45:00 Jeez but the other guy can do it Ight
+bug-reports 2020-07-31 01:45:25 Toxicity :/
+bug-reports 2020-07-31 02:00:54 No one actually reads through discord messages lol
+bug-reports 2020-07-31 02:18:43 heheheh
+creations-chat 2020-07-31 02:19:22 That’s some nice coloring
+help 2020-07-31 02:21:41 <@678251951195947008> what do you need help with?
+help 2020-07-31 02:27:11 Sure
+help 2020-07-31 02:28:30 <@!544683852384174093> it sways due to small physics and torque inconsistencies that make it move a little and then offset, you’ll need helium or something to help keep it up right or more preferably use wing panels in all orientations
+help 2020-07-31 03:07:14 Typing e in here is like a small trend
+help 2020-07-31 03:07:27 You might need an expert rank
+help 2020-07-31 03:11:15 e
+help 2020-07-31 03:11:31 A colors channel will open up
+help 2020-07-31 03:16:04 Under server updates
+help 2020-07-31 03:16:05 e
+help 2020-07-31 16:42:45 Woah is it the man behind the slaughter
+creations-chat 2020-07-31 16:43:32 Self upvote, don’t worry ur Ight
+creations-chat 2020-07-31 16:43:46 Have a good build to be proud of doe
+creations-chat 2020-07-31 16:47:40 Tbh what’s the point of an alt in a discord server
+creations-chat 2020-07-31 20:26:42 Use vertical and horizontal wing panels inside the build
+creations-chat 2020-07-31 20:27:09 Try to see if a few 1x1’s will work, if not for something that small you may need to motor lock them in
+bot-central 2020-07-31 20:29:00 !help
+bug-reports 2020-07-31 22:00:41 Sad love story ending ;(
+creations-chat 2020-08-01 04:07:11 Yessir
+creations-chat 2020-08-02 00:39:49 Why this discord so toxic lol
+creations-chat 2020-08-02 00:40:01 It can be
+creations-chat 2020-08-02 03:27:55 No
+creations-chat 2020-08-02 03:28:05 Don’t need to get into hall of fame for an expert rank
+creations-chat 2020-08-02 03:28:12 That’s master
+creations-chat 2020-08-02 03:28:34 <@!552184095812091918> what
+creations-chat 2020-08-02 03:29:07 Lol emsc he was talking about that
+creations-chat 2020-08-02 03:29:34 Another dull tool in da shed
+creations-chat 2020-08-02 03:30:00 Do you know what rank you get if you’re featured in the hall of fame?
+creations-chat 2020-08-02 03:30:05 Master <:KEKW:670310537300672528>
+creations-chat 2020-08-02 03:30:18 See
+creations-chat 2020-08-02 03:30:32 The dude who asked is literally admitting he thought it took master
+creations-chat 2020-08-02 03:30:35 Yikes man
+creations-chat 2020-08-02 03:30:47 Do you know what implication is?
+creations-chat 2020-08-02 03:31:11 Okay, I give up. I argue with too many dingos
+creations-chat 2020-08-02 03:31:46 <@456226577798135808> you need an expert rank to access the colours channel
+creations-chat 2020-08-02 03:32:01 Look in <#609442446249820211> on how to get an expert rank
+creations-chat 2020-08-02 03:32:29 You need to already be ranked as an expert
+creations-chat 2020-08-02 03:32:33 To unlock the colors channel
+creations-chat 2020-08-02 03:32:36 It’s hidden
+creations-chat 2020-08-02 03:32:55 You are not an expert yet <:KEKW:670310537300672528>
+creations-chat 2020-08-02 03:33:26 Dew it donut
+creations-chat 2020-08-02 03:33:41 It do be ngl
+creations-chat 2020-08-02 03:33:59 Nah shipwright imo
+creations-chat 2020-08-02 03:34:44 Yeah but you don’t have to worry about much stabilization or movement
+creations-chat 2020-08-02 03:35:01 Just do a few folds and get a good shape and bam
+creations-chat 2020-08-02 03:35:17 Lol I tried going for vtol master
+creations-chat 2020-08-02 03:35:21 No 60 upvotes though
+creations-chat 2020-08-02 03:35:23 Big sad
+creations-chat 2020-08-02 03:35:30 But I settle for expert
+creations-chat 2020-08-02 03:35:43 Huh?
+creations-chat 2020-08-02 03:35:59 Emsc a ship doesn’t take mid air stabilization
+creations-chat 2020-08-02 03:36:10 All it gotta do is float and be balanced lol
+creations-chat 2020-08-02 03:37:38 Man motor gods spooky
+creations-chat 2020-08-02 03:37:58 How does your FPS handle your ships
+creations-chat 2020-08-02 03:38:02 @ everyone here
+creations-chat 2020-08-02 03:38:41 Good
+creations-chat 2020-08-02 03:39:25 Ruh roh
+creations-chat 2020-08-02 03:44:48 Vertical folding without jet pack hurts
+creations-chat 2020-08-02 03:45:43 Grob still downvoting, they ain’t blacklisted
+creations-chat 2020-08-02 03:45:45 Sad
+creations-chat 2020-08-02 03:46:43 Why
+creations-chat 2020-08-02 03:46:44 Leave
+creations-chat 2020-08-02 06:09:49 <@!477864354105262083> how could you dislike a pineapple on a pedestal
+creations-chat 2020-08-02 09:04:56 This man stays up on this app just to downvote creations
+creations-chat 2020-08-02 09:05:03 Sheer will
+creations-chat 2020-08-03 01:01:54 It’s supposed to mimic the engine
+creations-chat 2020-08-06 04:05:21 <@456226577798135808> lol you’re that annoying shredder bug guy
+creations-chat 2020-08-06 04:05:47 And now you tried posting a creation that wasn’t yours w/o credit <:KEKW:670310537300672528>
+creations-chat 2020-08-07 08:02:28 Motor lock good
+the-dump 2020-08-07 17:46:19 
+bug-reports 2020-08-07 17:50:02 Uh there’s 900 guns available
+the-dump 2020-08-08 09:33:59 <:BottomText:602005011177668641>
+the-dump 2020-08-08 09:41:44 <:Picklerickje139:688580461668466730>
+help 2020-08-08 09:46:17 e
+help 2020-08-08 09:47:02 It’s basically the friction against the ground the hovery part has, more drag the faster you’ll slow down and grip to the ground etc etc
+bug-reports 2020-08-13 19:11:43 Does anyone even completely understand cameras and is capable of harnessing their power?
+creations-chat 2020-08-13 19:13:00 <@!455008768737017856> bad
+bug-reports 2020-08-13 19:29:23 Well I mean
+bug-reports 2020-08-13 19:29:29 Cameras point towards a block
+bug-reports 2020-08-13 19:36:16 They are indeed quite funky, they work sometimes, have interesting welds i suppose, but function differently everytime you reload up until they stop working entirely lol
+help 2020-08-13 20:43:22 Removing shredders isn’t really possible though
+help 2020-08-13 20:43:48 Yeah we hate them but at least be realistic
+help 2020-08-13 20:43:54 And that’s just silly alt
+help 2020-08-13 20:44:00 You could instead not play pvp then
+help 2020-08-14 18:59:53 Just use it in game, don’t have one in the server and don’t get your account here banned and you’re fine
+help 2020-08-16 23:43:33 So anyone know how to revert the forced spawn camera bug. I’ve done it before multiple times and it’s possible by doing something but I always forget lol, who remembers how
+help 2020-08-16 23:44:29 Oh I mean spawning in with a locked camera, then needing to press C twice to have a free cam
+help 2020-08-16 23:45:12 True, an alternative. I’ll keep digging for the fix I used before
+help 2020-08-17 01:01:58 Nvm lol I found the issue and apparently it’s an intended feature which is poopy
+bug-reports 2020-08-17 16:03:04 Yep just Rick
+help 2020-08-18 17:10:29 Using two motor 2’s for a single rotation is the best you can get for it not being so unstable
+bug-reports 2020-09-10 09:11:31 Hey dood
+bug-reports 2020-09-10 17:47:46 Motor 2 has indeed seemed a little more unstable in servo mode lately. Some builds with angled parts are consistently unstable and wobbly now unlike before
+bug-reports 2020-09-24 21:23:44 Flip never worked on pilot seats
+help 2020-10-18 07:46:09 Anyone know how to do a 90 degree fold with cameras, ping me asap if so
+help 2020-10-18 07:48:54 No
+help 2020-10-18 07:48:57 Camera fold
+help 2020-10-18 07:49:27 No motors involved
+help 2020-10-18 10:30:52 Your plane shakes due to lag, can’t stop it no matter what form of propulsion you use
+help 2020-10-18 10:31:20 Also I figured out the closest you can get to 90 degrees with only using 1 camera
+creations-chat 2020-10-21 05:12:55 <@456226577798135808> play megalovania
+creations-chat 2020-10-25 10:38:48 A ping for that? Because it’s cute lmao
+creations-chat 2020-10-25 10:41:47 And yet again people will fail to realize that noobs exist and that they’re learning mechanics
+creations-chat 2020-10-25 10:44:26 We’ve all been at that level in the game, anyways it’s not common knowledge to not post what is to us a nooby creation. Unless of course you’ve been more involved in the community, which of course noobs really haven’t. I just don’t see a point in shooting them down so hard
+creations-chat 2020-12-03 09:10:48 Ew disgusting
+creations-chat 2020-12-05 20:11:32 <@!602626094176141342> it’s a shame people downvote good builds
+creations-chat 2021-03-19 09:48:20 Someone didn’t read my cap
+
+Imagine being lame enough to downvote for that reason <:KEKW:670310537300672528>
+creations-chat 2021-03-22 03:44:59 <@!683489861352685627> yo who’s got that scarab tank in your post
+creations-chat 2021-03-22 03:47:03 How is the walking
+creations-chat 2021-03-24 19:33:57 Many thanks
+creations-chat 2021-03-24 19:36:15 Don’t look at the top 😳
+creations-chat 2021-03-24 20:12:38 Yeah a bit
+creations-chat 2021-03-24 20:15:52 Mostly for control but there’s some small bits for design as-well <@456226577798135808>
+creations-chat 2021-04-05 05:37:08 Wait why do people cry about exposed motor lock doe, a good few hall of fame builds even have it lmao. It’s just so dumb to whine about that ngl
+creations-chat 2021-04-05 05:39:38 At least when it’s very minimal
+creations-chat 2021-04-07 07:12:19 This looks the best imo
+creations-chat 2021-04-07 21:02:15 Possible ban from the game
+creations-chat 2021-04-07 21:04:35 His first creation post and his last one <@!466793357318815744>
+creations-chat 2021-04-07 21:09:37 <:thoink:657279634563399720>
+creations-chat 2021-04-10 03:10:56 How ironic, sounds like you can’t even use motorlock effectively if even putting a logo on the front would be a struggle
+creations-chat 2021-04-10 03:13:35 my guy I can easily do that, there’s something called camera locking in plane crazy too. Getting a logo on an angle isn’t hard yet I’m not going to get on roblox to prove something to some generic noob like you
+creations-chat 2021-04-10 03:16:33 my guy I can easily do that, there’s something called camera locking in plane crazy too. Getting a logo on an angle isn’t hard yet I’m not going to get on roblox to prove something to some generic noob like you
+
+“You expect way too much from people” does that not contradict what you said to that other guy before?
+creations-chat 2021-04-10 03:20:04 I’m at work. I’m not going to get on just to hold your hand like the little kid you are. If think so highly of yourself to look down on people with white names then you should know basic plane crazy skills. How ironic that you make fun of others
+creations-chat 2021-04-10 03:22:07 You don’t have basic skills because somehow you find a triangle too complex of a shape to motorlock? And you can’t even put a logo onto motorlocked detail?
+creations-chat 2021-04-11 04:54:17 <@!274565008837574656> how many accounts did you need to use for that building?
+creations-chat 2021-05-04 08:34:26 <@!410992368494575626> yo that’s the sickest jet I’ve ever seen in plane crazy. Easily hof worthy
+creations-chat 2021-05-04 19:41:13 Bruv, drag exists in plane crazy <:KEKW:670310537300672528>
+creations-chat 2021-05-04 19:56:51 What’s the point of even telling someone that in his plane crazy post then?
+
+I’m not seeing anything prior to what you said
+help 2021-05-19 06:13:13 What does the fixed option do for smoke pipes
+help 2021-05-19 06:14:47 It would be cool if that option made the smoke that comes out go in a fixed straight like that doesn’t waver when you move, would be good for large thrusters
+help 2021-05-19 06:17:29 I see no changes at all
+bug-reports 2021-05-30 21:01:09 It happens when you have them on motors
+bug-reports 2021-05-30 21:01:22 Can’t put missiles on a turret sadly
+creations-chat 2021-06-12 23:26:58 It’s more of a personal knack but I think the build looks too rough and blocky. Flir looks a bit too big too. It’s not a bad build though. The rocket pods are good, if I could give advice on them I’d say to make the pods rectangular to fit the shape the holes take. Or alternatively adding more holes to fill in the rocket pods shape.
+creations-chat 2021-06-13 22:47:00 I’ll never understand why some of y’all be so sensitive, to whatever is going on lmao
+creations-chat 2021-07-08 01:42:09 Now 5, so far no likes so thus reasonable to assume that everyone to come across it will simply not like it
+creations-chat 2021-07-08 01:46:15 10 <:OmegaTroll:626841385118597152>
+creations-chat 2021-08-21 07:49:34 Danks
+creations-chat 2021-08-22 07:44:19 No it’s hot
+creations-chat 2021-08-22 07:52:00 Didn’t even get designer V <:KEKW:670310537300672528>
+creations-chat 2021-08-22 08:00:59 Okay no expert rank
+creations-chat 2021-08-22 08:04:07 It’s a girl, bow before your queen
+creations-chat 2021-08-22 08:08:58 Are u have brain?
+creations-chat 2021-08-22 08:14:54 Yummy
+creations-chat 2021-08-22 08:30:38 no one said u had to talk
+creations-chat 2021-08-22 08:33:50 then cry
+creations-chat 2021-08-22 08:35:59 https://discordapp.com/channels/384021699466756103/495286269459300364/878825006094778369 <@456226577798135808> ayo???????
+creations-chat 2021-08-23 07:18:27 Damn you still out here 💀
+creations-chat 2021-08-23 07:21:17 Make some builds and post them you bozo, you just out here being negative you lil whitey <:peow:804998147993894922>
+creations-chat 2021-08-23 08:19:55 Ugly as hecc
+creations-chat 2021-08-24 10:49:26 Look like a whole potato!!!1!1!1!
+creations-chat 2021-08-24 11:20:39 I’ll count your balls
+creations-chat 2021-08-26 07:46:12 Idk blockate is kinda noob don’t mind him
+creations-chat 2021-08-26 07:48:17 Bit ironic of you considering your history here in this channel <:Yikes:704804144657203220>
+bot-central 2021-08-31 21:04:00 -servers
+bug-reports 2021-08-31 22:08:31 It does though
+bot-central 2021-09-03 10:06:17 -servers
+creations-chat 2021-10-16 00:33:10 <@456226577798135808> use disconnectors. There’s a trick to build with only the rod part, takes lots of motorlocking. For the cannon ofc
+
+Oh oops
+creations-chat 2021-11-02 08:55:30 
+creations-chat 2021-11-19 22:06:59 Use trails, it’ll come closer to the actual girth
+
+Otherwise nice build
+
+Re: Yes lmao, learn about proportions
+creations-chat 2021-11-19 22:13:20 Looks much better, I think others will agree 😎
+
+*maybe there’s a good reason why everyone else uses trails as well 😳*
+creations-chat 2021-11-19 22:16:06 Kinda just feels a little thin or way too thick really. With the half wedges it has that blocky shape to it too which isn’t fitting, but do as you see fit in the end lol
+
+Damn everyone trippin <:WWAAHH:888173967041515540>
+creations-chat 2021-11-19 22:18:26 Damn everybody without taste is active rn <:WWAAHH:888173967041515540>
+creations-chat 2021-11-19 22:21:04 I forgot to mention, you should put trails that are double cheeked up. Like one on top and one on the bottom, rather than the former but we’re past that
+
+What’s this scam nonsense
+creations-chat 2021-11-19 22:26:43 Looks like a terrible coincidence lol
+creations-chat 2021-11-19 22:31:03 Yeah maybe I’m just used to seeing trails for those, or the triangular shape is what turns me off
+creations-chat 2021-12-04 02:42:13 <@!410992368494575626> you try shooting for hof with your builds yet?
+creations-chat 2021-12-04 04:12:36 Your builds definitely deserve it, vip is bipolar imo
+creations-chat 2021-12-16 21:02:52 <@!605122774155002103> can I see your vtol in build mode? Wanna see how you fit and fold the whole thing
+
+It’s big enough to need a fold I’m sure
+creations-chat 2021-12-31 23:12:15 Looks too big, scale down the whole thing
+creations-chat 2022-01-01 00:43:52 Damn it looked bigger in the last pic to me my bad
+creations-chat 2022-01-16 08:39:43 wip music man here to throw some beats down on a memorial
+
+big hot beautiful man
+creations-chat 2022-01-16 08:42:11 tennis ball throw it against the wall
+creations-chat 2022-01-16 08:48:18 we support you coming out
+bug-reports 2022-01-18 13:01:52 <:Flexpack:583491115710414848> <:FixPls:548709302282747914>
+bug-reports 2022-01-18 13:07:59 That’s a bug
+bug-reports 2022-01-18 13:08:01 Smh
+bug-reports 2022-01-18 13:09:20 It literally is
+bug-reports 2022-01-18 13:09:30 It’s done that since the winter update, not always
+bug-reports 2022-01-18 13:09:39 Winter update made it go funky
+bug-reports 2022-01-18 13:09:43 Ok and?
+bug-reports 2022-01-18 13:09:55 What’s your point
+bug-reports 2022-01-18 13:10:22 Your point is invalid
+bug-reports 2022-01-18 13:10:25 <:Flexpack:583491115710414848> <:FixPls:548709302282747914>
+bug-reports 2022-01-18 13:12:02 Most likely
+creations-chat 2022-01-26 00:36:43 Meow
+the-dump 2022-01-26 08:27:30 wah
+the-dump 2022-01-26 08:27:39 <:gungaginga:935465484172816394>
+bug-reports 2022-02-10 11:52:03 Yes it is idiot
+bug-reports 2022-02-10 11:52:58 Speakers will continue to play when you zoom out then back in. It doesn’t just stop the audio. Audio has permanence. There’s an issue with the speakers rn where they aren’t playing their audio
+bug-reports 2022-02-10 11:53:18 So you don’t even play the game?
+bug-reports 2022-02-10 11:53:43 You would know what he means if you saw yourself
+bug-reports 2022-02-10 11:54:15 That explains it all, conversation concluded
+bug-reports 2022-02-10 23:09:29 To all those who apparently don’t know, speakers are trippin and are straight up broken on a lot of builds
+bug-reports 2022-02-11 00:42:38 It’s a roblox thing I suppose
+bug-reports 2022-02-12 02:23:13 Damn never thought someone would even get half way through the save data
+bug-reports 2022-02-13 18:58:11 Roblox is self imploding lately fr
+bug-reports 2022-02-15 21:29:11 It’s just a visual bug, spawn in then the rest of the ‘tail’ will follow. The bug actually makes it easy to see where the lock turns
+creations-chat 2022-02-15 21:30:53 The embodiment of <:noo:859235715098476555> <:angrycri:560997936155066379> <:aaa:560645271437049857>
+creations-chat 2022-02-15 21:34:31 Yeah this place is toxic, it’ll only get worse as standards continue to grow
+bug-reports 2022-02-20 00:54:07 It is a bug lmao, it’s just already known
+bug-reports 2022-02-20 04:06:28 You need to spawn in your build a couple times for it to auto save
+bug-reports 2022-02-20 04:06:37 But yes just save normally
+creations-chat 2022-02-27 03:03:36 Agreed
+contest-chat 2022-03-17 21:19:14 <@456226577798135808> ok but how did you make the barrel
+contest-chat 2022-03-17 23:50:16 Damn that’s a first I’ve seen of that, nice
+creations-chat 2022-03-18 09:46:47 They’re different enough to be good in their own ways
+creations-chat 2022-03-20 04:13:43 <@!421068077556301844> a10 paint job isn’t doing the build justice. Would recommend giving it a more colorful camo
+creations-chat 2022-03-24 02:51:18 That’s short for yes
+creations-chat 2022-04-14 21:59:13 <@!745389882607927337> Abrams is smaller than scale but looks good
+the-dump 2022-04-16 08:16:03 <@699460165707235338> balls
+the-dump 2022-06-15 01:15:48 https://tenor.com/view/kirby-cursed-teeth-gif-24740879
+the-dump 2022-06-15 01:16:15 https://tenor.com/view/telepurte-uncanny-uncanny-mr-incredible-uncanny-meme-uncanny-mr-incredible-meme-gif-24611773
+the-dump 2022-06-15 01:17:49 https://tenor.com/view/speechbubble-speech-bubble-please-meme-gif-25693113
+the-dump 2022-06-15 01:18:22 https://tenor.com/view/speech-bubble-chad-handsome-discord-gif-25759083
+the-dump 2022-06-15 01:18:36 https://tenor.com/view/fnaf-toy-chica-super-smash-bros-little-mac-meme-gif-25693861
+the-dump 2022-06-15 01:19:05 https://tenor.com/view/toy-chica-gif-24739042
+the-dump 2022-06-15 01:19:30 https://tenor.com/view/cry-about-it-cry-about-it-meme-gif-20184012
+the-dump 2022-06-15 01:20:11 https://tenor.com/view/angai313-spongebob-sad-spongebob-crying-gif-21679826
+the-dump 2022-06-15 01:20:35 https://tenor.com/view/roblox-jtoh-jukes-towers-of-hell-tower-of-hell-gif-22276116
+the-dump 2022-06-15 01:20:56 https://media.discordapp.net/attachments/497142796961054721/879535111383683103/847100084910030889-1.gif
+the-dump 2022-06-15 01:21:28 https://tenor.com/view/get-real-gif-24964437
+the-dump 2022-06-15 01:22:06 https://tenor.com/view/watch-yo-tone-fnaf-fnaf-memes-gif-24043137
+the-dump 2022-06-15 01:22:40 https://tenor.com/view/center-stage-gif-24631184
+the-dump 2022-06-15 01:22:50 https://tenor.com/view/supreme-commander-forged-alliance-default-dance-gif-gif-24781560
+the-dump 2022-06-15 01:48:45 https://tenor.com/view/among-us-sus-impostor-gif-22394469
+the-dump 2022-06-21 02:14:22 
+the-dump 2022-06-21 02:16:19 https://tenor.com/view/no-gif-20395215
+creations-chat 2022-08-12 08:34:34 its actually based off halo 9 odst nerd
+creations-chat 2022-10-09 23:38:33 <@1004207882784489472> dude that hind is easily hof worthy nice job. Dw about people crying about shaders, they can’t see the detail for themselves I guess
+creations-chat 2022-10-09 23:41:40 Idk mane I’ve seen worse in hof so I’m not sure what to say about that
+
+- even recently
+creations-chat 2022-10-09 23:44:58 We need a new system for hof
+
+Idk what tho
+creations-chat 2022-10-09 23:47:35 Rip 💀
+
+I think people are afraid to recognize a good build now
+creations-chat 2022-10-09 23:50:37 I don’t think anyone finds anything hof worthy besides the rng energy vip voters give. Y’all raised the standards unrealistically. If it was up to the common pcc user there wouldn’t be any more hof builds
+
+Exactly vvv
+creations-chat 2022-10-10 00:10:12 so funny

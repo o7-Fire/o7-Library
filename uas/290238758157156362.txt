@@ -1,0 +1,13 @@
+The Tale of goodbye (290238758157156362)
+bug-reports 2020-11-21 03:53:04 help
+bug-reports 2020-11-21 03:53:47 The motors of my creations keep detaching when i rotate the motors
+bug-reports 2020-11-21 03:53:53 they fall
+bug-reports 2020-11-21 03:55:00 the base of the motor separates from the rotative rectangular prism
+bug-reports 2020-11-21 04:02:04 I can only play in vip servers bc of lag and it’s been like this the whole day even alternating between servers
+bug-reports 2020-11-21 04:02:09 :c
+bug-reports 2020-11-21 04:05:46 ...
+bug-reports 2020-11-21 16:05:42 Game has become almost unplayable for me due to the falling motors
+bug-reports 2020-11-21 16:08:04 
+bug-reports 2021-10-22 04:33:41 Motors don’t work
+creations-chat 2021-10-22 21:23:13 look
+creations-chat 2021-10-22 21:25:15 This has no motor lock exposed but the screenshot doesn’t have quite a great quality (this is the latest version i meant)

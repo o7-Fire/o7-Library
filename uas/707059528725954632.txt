@@ -1,0 +1,47 @@
+The Tale of natsumiakari (707059528725954632)
+help 2022-03-08 21:44:31 is it there any way to prevent my ships spawn below sea surface? from since it started spawning like that i was not able to spawn the whole ship without a motor 2 being flung into mars
+help 2022-03-08 21:47:19 if i unanchor the ship the motors breaks and goes crazy
+help 2022-03-08 21:48:37 usually the motor 2s that are used to move the guns up and down first
+help 2022-03-08 21:48:51 since they are welded to a base where is moved by another motor
+help 2022-03-08 21:50:36 probably
+help 2022-03-08 21:51:03 from motor 2s?
+help 2022-03-08 21:51:25 25 motor 2s
+help 2022-03-08 21:51:32 o
+help 2022-03-08 21:52:11 hold on rq
+help 2022-03-08 21:55:25 too confusing for me
+help 2022-03-08 21:55:34 hull
+help 2022-03-08 21:57:27 if i use wedges in most parts of the ship it will get more unnecessary parts
+help 2022-03-08 21:57:48 and basically take a while to add it to all the ships i have
+help 2022-03-08 22:00:40 is not like i really know to use 1x4 wedges on larger hulls and with the triangle wedgeblocks aswell
+help 2022-03-08 22:01:36 nope
+help 2022-03-08 22:04:20 ill just try making smaller sized ships
+help 2022-03-08 22:17:11 q
+help 2022-03-08 22:19:14 what about 0.25 then?
+help 2022-03-08 22:20:11 i was
+help 2022-03-08 22:20:17 im at non pvp now
+help 2022-03-08 22:21:34 mk
+help 2022-03-08 22:25:13 you have a priv server?
+help 2022-03-08 22:25:39 yesnt
+bug-reports 2022-03-08 22:26:26 maybe its because the auto time thingy
+bug-reports 2022-03-08 22:26:50 keep it set it to "both" till is fully day
+help 2022-03-08 22:28:57 easier
+help 2022-03-08 22:31:42 i think i found the mistake i made
+help 2022-03-08 22:32:14 yup it was the torque
+bot-central 2022-03-08 22:49:19 ?shelp
+bot-central 2022-03-08 22:49:32 r
+help 2022-03-08 23:41:44 how can i prevent this from woobling and glitching if it the legs crossed
+help 2022-03-08 23:49:22 is it fine if i add ballast to max settings on the end of the legs and in the bottom of the body and helium on the top of the legs then?
+the-dump 2022-08-07 18:18:57 <@752698612252934244> quehacesaca 🤨
+the-dump 2022-08-07 18:19:38 w
+the-dump 2022-08-07 18:20:33 amk
+the-dump 2022-08-07 18:20:58 y yo esperando para q vuelvan a abrir <#623337136267067393>
+help 2022-11-07 03:24:11 is it a good idea to add a XF-85 to a very modified Madvulpen's B-29?
+help 2022-11-07 03:25:46 by what reasons?
+help 2022-11-07 03:26:26 but why would it not go well on it?
+help 2022-11-07 03:27:29 i find it fine to make the b29 warp away with 8 conveyor engines a lil away from the fight area when locking the motor 2s movement after releasing the jet
+help 2022-11-07 03:27:41 ofc jet moved my mouse
+help 2022-11-07 03:27:56 alr then
+help 2022-11-07 03:29:07 20th blubble chat in a row today thats new
+help 2022-11-07 03:33:47 nvm i see why now
+help 2022-11-07 03:34:19 it would look like a massive ball at the back of the plane and may block funny tnt dose nuke
+help 2022-11-08 02:02:33 I've made the steel olive go fly good 'n nice

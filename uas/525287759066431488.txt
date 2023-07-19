@@ -1,0 +1,9 @@
+The Tale of razorwave (525287759066431488)
+bug-reports 2021-09-17 12:53:29 got a strange interface bug with build menu
+bug-reports 2021-09-17 12:54:22 i returned to the base and as always building menu showed up gor a second, but when i clicked subcategory in building menu (half blocks) sub category menu opened but the main building menu closed, and sub category menu was still on screen ||sorry for bad english||
+bug-reports 2021-09-17 12:56:39 i have screenshot but cant send it here
+bot-central 2021-12-04 12:35:40 !rank
+bot-central 2021-12-04 12:35:49 !help
+bot-central 2021-12-04 12:36:42 !rhelp
+bot-central 2021-12-04 12:36:52 !rankhelp
+bot-central 2021-12-04 12:37:12 ?rankhelp

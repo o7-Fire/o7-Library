@@ -1,0 +1,146 @@
+The Tale of pimcsnumber (849417848740642826)
+bug-reports 2021-06-22 12:13:23 alr here's a massive bug everybody experiences, motor storms, it'd be nice if they were fixed, they happen mostly with motor 1 if you use it for wheels and send your creation to brazil and tear the motors apart. locking the motors has some effect on prevention but if you're not careful they'll still get blown up
+bug-reports 2021-06-22 12:13:44 also happens with motor 2 sometime but i don't know the conditions that lead to it
+bot-central 2021-06-23 21:56:17 !rank
+bot-central 2021-06-23 21:56:22 a
+the-dump 2021-06-24 20:16:51 a
+the-dump 2021-06-24 20:16:51 'tis a hair brush
+creations-chat 2021-06-24 20:19:11 t r a i n
+help 2021-06-24 20:19:57 intakes are too wide
+help 2021-06-24 20:20:35 the intakes on this irl are around as wide as the nose
+help 2021-06-24 20:20:46 that too
+help 2021-06-24 20:20:54 that wasn't bad actually
+help 2021-06-24 20:21:16 it's an F22
+help 2021-06-24 20:21:36 doesn't have vibrant colors
+help 2021-06-24 20:21:40 or camo
+help 2021-06-24 20:22:14 not really
+creations-chat 2021-06-28 18:38:41 so what about that 207:8 vote HWK 30 Aguila
+help 2021-06-28 18:39:54 you stop lag shaking with wing panels alligned to the direction of flight
+help 2021-06-28 18:40:01 but if you have too much it shakes even more
+help 2021-06-28 18:40:04 so keep that in mind
+help 2021-06-28 18:42:50 a
+help 2021-06-28 18:43:00 but why
+bot-central 2021-06-30 20:37:49 !rank
+bot-central 2021-06-30 20:37:57 oh wait wrong s-pot
+bot-central 2021-06-30 20:37:59 want no
+bot-central 2021-06-30 20:38:11 !rank
+bot-central 2021-06-30 20:39:02 !rank
+bot-central 2021-06-30 20:39:09 cool
+bot-central 2021-07-01 14:25:02 !level
+bot-central 2021-07-01 14:25:05 !rank
+bot-central 2021-07-01 14:25:08 cool
+bot-central 2021-07-01 21:43:57 !level
+bot-central 2021-07-01 21:44:01 !rank
+bot-central 2021-07-01 21:44:04 cool
+bot-central 2021-07-01 23:50:34 !level
+bot-central 2021-07-01 23:50:40 !level
+bot-central 2021-07-01 23:50:41 a
+bot-central 2021-07-01 23:50:43 !rank
+bot-central 2021-07-01 23:50:47 😄 level 3
+creations-chat 2021-07-01 23:53:16 IM HELI GOD
+bug-reports 2021-07-01 23:55:02 sparklers will change orientation when saved in a certain orientation
+bug-reports 2021-07-01 23:55:08 i forget what it is though
+bug-reports 2021-07-01 23:55:11 try it when you save it
+creations-chat 2021-07-01 23:55:31 ;-;
+bug-reports 2021-07-01 23:55:42 it's not common bug
+bug-reports 2021-07-01 23:55:45 is annoying feature
+bot-central 2021-07-08 14:37:48 !level
+bot-central 2021-07-08 14:37:49 !rank
+bot-central 2021-07-08 14:37:53 cool
+bug-reports 2021-07-16 19:19:43 very  known  bug  also  why  do  you  double  space  everything
+bug-reports 2021-07-16 19:26:34 sometimes when you dislike something in <#384025409945337856>  you didn't make it go back to you not disliking it pls fix
+creations-chat 2021-07-19 12:57:25 ayo guys what do you think of my P-51D i just posted in <#384025409945337856>
+creations-chat 2021-07-19 13:05:04 m8 the camera lock welds to the seat and i can't bring the seat up a half a block to optimum positioning
+creations-chat 2021-07-19 13:08:07 yeah ik but still, i think the dihedral takes the disadvantage away
+creations-chat 2021-07-19 13:10:41 tbh the guns are just for added detail, but the top speed of 525 combined with pretty good stability make it a decent ground attack plane, it also has a firework in each drop tank for welding purposes and ground attack purposes because the guns aren't effective at all for ground attack
+creations-chat 2021-07-19 13:22:03 it's very hard to get right, camera lock, and even on my mustang, only 2 cameras are used for lock purposes
+creations-chat 2021-07-19 13:24:53 i went straight into camera lock before even trying angle locking because i don't wanna deal with that mess each time i spawn, i'd just prefer to deal with it whenever i load it, not every time i spawn, and that's not a problem, i can teach you how to camera lock if you want
+creations-chat 2021-07-19 13:31:14 i really prefer to avoid angle locking, as it always means your build is just slightly different each time you spawn, and if you use tnt to delay the locking, it only works in VIP or pvp servers, so i don't find it too practical, and it also means you gotta angle everything each time you spawn, and in pvp, this is heaven for spawn campers, who see a spawned in build and move in for the kill, and camera lock can be used on the largest of builds if you take into mind welding
+creations-chat 2021-07-19 13:34:13 angle lock also takes up valuable keybinds away from stuff like speakers, flight controls, and weapons, as well as causing issues of exposed lock often, which is why i prefer cameras which you can set and forget when you load the build, taking into mind welding
+creations-chat 2021-07-19 13:36:59 alr ima start work on an F7F-3 day fighter, cy'all
+creations-chat 2021-07-19 15:30:29 imagine the creations having 10 second cooldown but the creations feedback having 2 min cooldown lol
+creations-chat 2021-07-19 15:37:40 i was asking for '50s rock not '50s pop, know any IDs i can use? <@456226577798135808> thank you i forgot smol winglets e
+creations-chat 2021-07-19 15:42:03 not ejected it was designed with folding wings and a retracting hook in the nose so it could fit in the bomb bay of a B-36, which could carry 1 fighter and some bombs or 2 fighters and no bombs, while other planes had just bombs, but the test flights failed, pilots only managing to hook onto the motherplane 3 times throughout the test program, and only on the B-29s because testing, i'll look into the wedge nose
+creations-chat 2021-07-19 15:44:17 that'll do for me bc rockn' roll was a '50s thing, elvis will do
+creations-chat 2021-07-19 16:10:28 <@!738702049113538600> it don't work, guys can you find '50s rock and roll for my goblin?
+creations-chat 2021-07-19 16:21:04 how did something with that much exposed motor lock get so far lol
+creations-chat 2021-08-12 19:18:07 what should i change to my M4A1 turret?
+creations-chat 2021-08-12 19:30:11 hi
+creations-chat 2021-08-12 19:32:51 huey is new trend for hi
+creations-chat 2021-08-12 19:35:07 ok im work on hull now cya
+creations-chat 2021-08-16 13:28:12 i went for the origional full circle turret
+creations-chat 2021-08-16 13:31:01 this is what i was going for, the rounded hull with the circle turret
+creations-chat 2021-08-16 14:58:24 <@!697893501274161325> , 99eryaydude was right and i had a super hard time trying to round that out and just gave up for that part
+creations-chat 2021-08-16 18:04:37 <@!356853573197496331> i motor locked half cylinder 2 into the corners and angle locked the back similarly, so yeah no wonder <@!571265344015171594>  you can't find them, but you can try to make them using motor lock, if you want i'll mention you in <#384025409945337856> to show you what i did
+creations-chat 2021-08-16 18:06:51 <@!168586098895749120>  exposed motor lock the community gonna downvote hard btw, and it don't matter how much as long as it's not covered up, you're gonna get yelled at by somebody for it, might as well tell you now
+creations-chat 2021-08-16 18:09:20 also how come nobody wonders how i did the super pog tracks on my sherman, i took a lot of pride in my unique tread design. . . . .
+creations-chat 2021-08-16 18:20:04 <@!356853573197496331>  https://streamable.com/rpc5yk here ya go, also sorry for the super long time waiting for stuff to angle i was lagging
+creations-chat 2021-08-16 18:22:43 thanks m8, they took a while
+bug-reports 2021-08-23 12:21:23 AY RICK, CAMERA LOCK NO LONGER WORKS!
+bug-reports 2021-08-23 12:21:32 if you need evidence i can show you
+bug-reports 2021-08-23 12:25:47 https://streamable.com/y20w3g
+bug-reports 2021-08-23 12:26:03 sorry for the bad quality but this is what i could do
+bug-reports 2021-08-23 12:26:10 please fix it
+bug-reports 2021-08-23 12:26:43 ik hardly anybody uses camera lock but it is a very useful tool and no longer works. .  .
+bug-reports 2021-08-23 12:27:51 <@!217336009455566848> , sorry for ping, please don't ban e but i need you to see this. .  .
+bug-reports 2021-08-23 13:00:15 alright thank you rick
+bug-reports 2021-08-23 15:41:58 ay rick, for a camera locked build, there are a few things you must know
+bug-reports 2021-08-23 15:42:13 first of all, to make camera lock
+bug-reports 2021-08-23 15:42:22 use config tool and click camera
+bug-reports 2021-08-23 15:42:27 then click block
+bug-reports 2021-08-23 15:42:36 the block is where camera will face
+bug-reports 2021-08-23 15:42:52 you want the front of the camera to have what you want to be angled on
+bug-reports 2021-08-23 15:45:32 also, once you lock a camera, it welds to the seat no matter what
+bug-reports 2021-08-23 15:46:32 but i can't do too much from just trying to explain how it works
+bug-reports 2021-08-23 15:46:39 camera lock is a very complicated thing
+bug-reports 2021-08-23 15:50:13 also when you wanna rotate only what's on a camera, put another camera on the side you dont want to rotate otherwise it causes problems, weld everything else onto the camera that you used to prevent broken build
+bug-reports 2021-08-23 15:50:19 gl on fixing it
+bug-reports 2021-08-23 15:50:34 and if you do, please make the seat welding toggleable
+bug-reports 2021-08-23 15:50:40 it's a hassle sometimes
+bug-reports 2021-08-24 12:40:48 <@!403843930543882241> yes actually i built that mustang about three months ago and it worked great, but it doesn't even angle anymore
+creations-chat 2021-10-12 17:24:03 thanks
+creations-chat 2021-10-12 17:26:18 nice pfp lol
+bot-central 2021-10-12 17:29:35 ?shelp
+bot-central 2021-10-12 17:29:59 ?rhelp
+creations-chat 2021-10-19 13:08:41 oh, well i mostly wanted to show the wheels, i'll post the finished tank later
+creations-chat 2021-10-29 15:59:46 because you can still get to the game link if you have it, like this https://www.roblox.com/games/166986752/Plane-Crazy
+the-dump 2021-10-30 13:34:44 bobux national history month is october now
+the-dump 2021-10-30 13:34:49 because yes
+bot-central 2021-10-30 17:52:12 !suggest
+bot-central 2021-10-30 17:52:14 hmm
+help 2021-10-30 18:00:24 is
+bug-reports 2021-10-31 14:57:46 roblox is the bug
+bug-reports 2021-10-31 14:57:47 e
+creations-chat 2021-10-31 18:58:11 dont ban me i need bobux lol trolling 2 year old
+creations-chat 2021-11-01 12:45:25 <@!535580493442187274> they look like that because i have the water texture removed
+creations-chat 2021-11-01 15:18:59 make it a half wedge from wedges somehow so that way it more gradually slopes
+bug-reports 2021-11-01 17:56:53 dont bother reporting this it happens to everybody and has existed longer than you have
+bug-reports 2021-11-01 17:57:09 texas best state in the united states of america
+bug-reports 2021-11-01 17:57:30 yes
+bug-reports 2021-11-01 17:57:32 you should know it is
+bug-reports 2021-11-01 17:59:05 e
+creations-chat 2021-11-04 14:24:17 I EAT BOBUX EEE
+creations-chat 2021-11-04 15:54:23 yes eat bobux
+creations-chat 2021-11-09 15:37:20 turret front is bad its not circle enough, also your tracks, the motor color is much brighter than the nonmotor color it looks bad that way
+creations-chat 2021-12-03 15:07:45 i cant it's half block tracks
+creations-chat 2021-12-09 15:18:53 text blocks connected to internal motors that make it move
+creations-chat 2021-12-09 15:54:33 if i put something there to make it appear to be something between the gun shield and the mantlet then it would interfere with elevation and depression
+creations-chat 2022-01-07 16:07:51 guys how can improve it farther, its too small for working 1x1 tracks
+creations-chat 2022-01-07 16:10:08 guys you have to understand its 5 blocks wide so i cant make an angled hatch because its just not big enough but i can add wooden panels on the sides and stuff
+creations-chat 2022-01-07 16:16:49 i will add more detail thats not the issue its just that i cant make angled hatches because its too small
+creations-chat 2022-01-07 16:21:39 is my sherman color not good enough?
+creations-chat 2022-01-07 16:25:45 i dont want anybody copying it
+creations-chat 2022-01-07 16:32:14 some wierdo idk i'd rather not risk it
+creations-chat 2022-01-07 16:43:34 E-100 is my favorite, but as an american i feel it is my duty to build something good and american
+creations-chat 2022-02-18 14:25:41 https://tenor.com/view/4k-caught-caught-in4k-caught-in8k-8k-gif-20014426
+creations-chat 2022-02-18 17:12:47 its meant to be just your average M4A2
+creations-chat 2022-02-18 17:15:36 how could it be better without making it personalized to a specific division or whatever
+creations-chat 2022-02-18 17:18:56 i cant make turret smoother due to the way blocks are, and i rather like that green
+creations-chat 2022-02-18 19:11:07 i cant replicate such a firearm at the given scale and that weapon was not available during the service of the vehicle in the United States Army.
+help 2022-04-28 18:30:29 hey can somebody make me a 4 block long air droppable torpedo
+help 2022-04-28 18:30:31 e
+help 2022-04-28 18:32:23 unguided
+help 2022-04-28 18:32:50 i've tried similar
+help 2022-04-28 18:32:55 doesnt work
+creations-chat 2022-06-02 14:09:57 just the angle of the picture
+the-dump 2022-06-30 19:46:30 

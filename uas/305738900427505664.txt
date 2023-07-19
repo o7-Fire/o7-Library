@@ -1,14 +1,315 @@
-bangludosh bruh
-plane-crazy 2019-08-08 17:34:15 BRUH
-plane-crazy 2019-08-08 17:34:06 e
-plane-crazy 2019-07-13 13:54:16 impossible
-plane-crazy 2019-06-11 11:26:44 thanks
-plane-crazy 2019-06-11 11:26:40 i see
-plane-crazy 2019-06-11 11:26:07 where
-plane-crazy 2019-06-11 11:25:59 is there a quarter of a cylinder block
-plane-crazy 2019-05-07 18:31:09 what does the collision setting do on wheels
-plane-crazy 2019-05-04 17:52:34 concrete has 0.7
-plane-crazy 2019-05-04 17:52:31 normal blocks have around 0.3
-plane-crazy 2019-05-04 17:52:23 concrete has the most friction in the game
-plane-crazy 2019-05-04 17:51:17 why did concrete get removed
-plane-crazy 2019-05-01 17:15:40 go to settings
+The Tale of bangludosh bruh (305738900427505664)
+creations-chat 2018-10-27 13:26:32 Flying car. i can turn the suspension on / off mid flight.
+creations-chat 2018-10-27 13:26:42 
+bug-reports 2018-10-27 13:27:13 When i kill someone or destroy someones parts in arena, its only visible for me. for others he is still alive.
+help 2018-10-27 15:33:44 my plane keeps tilting.
+help 2018-10-27 15:33:52 like it touches terrain, flies
+help 2018-10-27 15:34:00 then it is in a tilted position
+help 2018-10-27 15:34:04 and keeps tilting to that side
+help 2018-10-27 15:34:11 with no possibility of controlling
+help 2018-10-27 15:35:35 no i mean like
+help 2018-10-27 15:35:36 mid flight
+help 2018-10-27 15:35:55 like i steer to the right, it tilts to the left
+help 2018-10-27 15:36:17 it happens when i steer.
+help 2018-10-27 15:36:27 i still go right, but after some time i only go to the left
+help 2018-10-27 15:36:29 and vise versa
+help 2018-10-27 17:54:35 they arent sticky blocks. i think they will "anchor" (so basicly when you fly, you activate them) you will be stuck in midair.
+creations-chat 2018-10-30 08:48:34 (first pic) Novice Builder role
+creations-chat 2018-10-30 08:49:01 second pic (Flying) Novice builder role
+creations-chat 2018-10-30 08:49:18 my car got neat features, but the block count is too low.
+creations-chat 2018-10-30 08:49:24 it can rotate very fast.
+creations-chat 2018-10-30 08:50:42 ?
+help 2018-11-02 11:00:12 whats the best offroad setup for suspension?
+help 2018-11-02 11:02:01 but i mean like
+help 2018-11-02 11:02:03 the stiffness
+help 2018-11-02 11:02:05 etc
+help 2018-11-02 11:03:39 so lower stiff?
+help 2018-11-02 11:03:53 and damping?
+help 2018-11-02 11:04:58 the wheels seem kinda jumpy
+help 2018-11-02 11:05:05 but the car itself is sustaining
+help 2018-11-03 19:55:29 what does the lock and reset function do on motors?
+help 2018-11-03 20:32:26 how do magnets work in this game?
+help 2018-11-03 20:32:30 i put one down, and then
+help 2018-11-04 10:47:40 add wings.
+creations-chat 2018-11-05 18:18:34 wrong
+bug-reports 2018-11-09 14:30:07 when you attach a anchor block with a rope to a creation
+bug-reports 2018-11-09 14:30:14 the creation will get anchored too.
+bug-reports 2018-11-09 14:33:21 oof
+bug-reports 2018-11-09 14:33:34 it should only anchor itself
+creations-chat 2018-11-09 14:46:45 https://gyazo.com/cceb975dee2cec3a4dc347de3353ccd1
+creations-chat 2018-11-09 14:46:55 orbital velocity rank pls
+creations-chat 2018-11-09 14:47:26 this can go much faster. orbital velocity rank
+creations-chat 2018-11-09 14:47:58 my god
+creations-chat 2018-11-09 14:48:01 i broke the ropes
+creations-chat 2018-11-09 14:48:21 https://gyazo.com/87ed2a25389b18f77c12f5803f8ad7ac
+creations-chat 2018-11-09 14:48:24 the creation.
+creations-chat 2018-11-09 14:48:27 its spazzing out
+creations-chat 2018-11-09 14:48:39 is that enough proof?
+creations-chat 2018-11-09 14:48:59 https://gyazo.com/007955bf4ec12cc79a7ed41fc143aa16
+creations-chat 2018-11-09 14:49:48 om
+creations-chat 2018-11-09 14:49:54 after trying to return
+creations-chat 2018-11-09 14:49:59 it flinged me out
+creations-chat 2018-11-09 14:50:06 now im a fidget spinner in space
+help 2018-11-09 14:59:40 edit its controls
+help 2018-11-09 15:00:04 you need a main
+help 2018-11-09 15:00:08 pilot seat
+creations-chat 2018-11-09 15:13:52 https://streamable.com/jddd3
+creations-chat 2018-11-09 15:13:56 skilled or novice pilot?
+creations-chat 2018-11-09 17:09:17 no.
+creations-chat 2018-11-09 17:09:19 it uses engines
+creations-chat 2018-11-09 17:09:27 no engines.
+creations-chat 2018-11-09 17:13:39 https://gyazo.com/cceb975dee2cec3a4dc347de3353ccd1
+creations-chat 2018-11-09 17:13:43 escape velocity pls
+creations-chat 2018-11-13 08:13:32 this game is called plane crazy..
+creations-chat 2018-11-18 17:30:57 https://gyazo.com/9790b310be55101e64a9b8479db2d63b
+creations-chat 2018-11-18 17:31:03 anyone got a idea on how i should colour this
+creations-chat 2018-11-19 20:07:11 https://gyazo.com/c369b9a72a0cd3f7a082531fb6589940
+creations-chat 2018-11-19 20:07:18 Requesting propeller master rank
+creations-chat 2018-11-19 20:08:01 requesting propeller master.
+creations-chat 2018-11-19 20:08:31 i can remove the engine.
+creations-chat 2018-11-19 20:10:18 oh
+help 2018-11-23 16:06:25 https://gyazo.com/276aaa65f3e5227070e9085208fad880
+help 2018-11-23 16:06:30 Whenever i turn, this thing tilts.
+help 2018-11-23 16:06:35 how can i stop it from tilting?
+help 2018-11-23 16:08:56 yes.
+help 2018-11-23 16:08:58 but once it tilts
+help 2018-11-23 16:09:03 it stays like that forever
+help 2018-11-23 16:11:27 i can barely lift up, theres no space of ailerons
+help 2018-11-23 16:14:17 fixed it
+help 2018-11-23 16:55:24 motor x propeller blade
+help 2018-11-23 17:58:27 did you place any propeller blades?
+creations-chat 2018-11-25 17:32:08 
+creations-chat 2018-11-25 17:32:11 escape velocity pls
+creations-chat 2018-11-25 17:32:55 k
+creations-chat 2018-11-25 17:32:57 let me find the pic
+creations-chat 2018-11-25 17:33:58 
+creations-chat 2018-11-25 17:34:10 wait
+creations-chat 2018-11-25 17:34:11 oof
+creations-chat 2018-11-25 17:34:13 got corrupted
+help 2018-11-25 18:27:21 https://gyazo.com/138142c70e9be833cb3f1c3d318f6511
+help 2018-11-25 18:27:34 My mech seat turns with the legs.
+bug-reports 2018-11-25 18:29:35 https://gyazo.com/26a3ea8d9237675d21c38b10e89e9419
+bug-reports 2018-11-25 18:29:38 these two weld together
+bug-reports 2018-11-25 18:29:41 even tough they shouldnt
+creations-chat 2018-11-26 19:18:49 please add suspension
+creations-chat 2018-11-26 19:19:27 i made a 67 block aircraft with suspension
+creations-chat 2018-11-26 19:19:46 and it was only like 3x5
+creations-chat 2018-11-26 19:20:09 nah
+creations-chat 2018-11-26 19:20:57 you can just put it inside
+creations-chat 2018-11-26 19:21:07 then remove some of the free range
+creations-chat 2018-11-26 19:21:39 lets go general
+help 2018-11-26 20:11:55 https://gyazo.com/ab0add83e22eec9de28d3a444fa1b2e2
+help 2018-11-26 20:12:04 i cant place a block there
+bug-reports 2018-11-26 20:12:29 https://gyazo.com/ab0add83e22eec9de28d3a444fa1b2e2
+bug-reports 2018-11-26 20:12:33 cant place a block there.
+help 2018-11-26 20:13:15 i fixed it by reloading.
+creations-chat 2018-11-26 20:52:29 Semi truck with closeable doors and suspension.
+creations-chat 2018-11-26 20:52:50 The suspension is pretty compact
+creations-chat 2018-11-26 20:53:25 i used a motor as a hinge
+creations-chat 2018-11-26 20:53:27 for the trailer
+creations-chat 2018-11-26 20:53:45 https://gyazo.com/00565a707e6d924f72d28fbef7a8de32
+creations-chat 2018-11-26 20:53:52 indeed
+creations-chat 2018-11-26 20:54:04 im gonna work on it tommorow
+creations-chat 2018-11-26 20:54:30 yes
+creations-chat 2018-11-26 20:54:32 10pm
+help 2018-11-28 18:31:41 https://gyazo.com/eb2c7d6cc25226c51faac5262388c7f3
+help 2018-11-28 18:31:50 why is it tilted_
+help 2018-11-28 18:32:08 https://gyazo.com/f67352b717397b0f2cbbfdbcc6f118a9
+creations-chat 2018-11-28 18:57:39 tried making a propeller plane first but it made it unstable. so i made a fighter jet
+help 2018-11-28 19:03:17 the speed
+help 2018-11-28 19:03:22 change it
+creations-chat 2018-11-29 18:36:13 
+creations-chat 2018-11-29 18:36:16 2 stage rocket
+creations-chat 2018-11-29 18:36:27 
+creations-chat 2018-11-29 18:37:01 Master scientist or so
+creations-chat 2018-12-01 11:13:27 Requesting commander rank.
+creations-chat 2018-12-01 11:13:53 1,4k blocks. fully functional. Commander rank please
+bug-reports 2018-12-01 14:29:29 are your engines at the same level of the center of mass?
+the-dump 2018-12-01 15:32:28 hide the engine fire
+the-dump 2018-12-01 15:32:30 and its perfect
+creations-chat 2018-12-02 11:48:14 Requesting Commander and master builder rank
+creations-chat 2018-12-02 11:48:26 Requesting commander and master builder rank
+bug-reports 2018-12-04 14:45:33 Roblox physics dont like speed and hinges / constraints
+creations-chat 2018-12-06 17:16:28 hm
+creations-chat 2018-12-06 17:16:34 you cant attach wings to the pilot seat
+creations-chat 2018-12-06 17:17:49 you can
+creations-chat 2018-12-06 17:18:34 but it wont float
+creations-chat 2018-12-06 17:20:18 i revamped it to fly
+creations-chat 2018-12-06 17:20:34 but can it fly
+creations-chat 2018-12-06 17:22:38 i made a compact one that flies very well
+creations-chat 2018-12-06 17:23:24 with the mouse
+creations-chat 2018-12-06 17:24:41 i know
+creations-chat 2018-12-06 17:27:08 https://streamable.com/u3rbm
+creations-chat 2018-12-06 17:27:16 very stealthy plane
+help 2018-12-06 19:01:01 planes.
+help 2018-12-06 19:01:05 they cant shoot you in the sky
+bug-reports 2018-12-07 15:31:27 maybe your rockets are hitting your ships? i know a similar problem when i fire my rockets at my own tank it goes speedy because the rockets push the tank.
+creations-chat 2018-12-07 15:38:00 A fortwo towing a small stealth plane. plane block count 9. fortwo block count 60 (can drift epicly)
+creations-chat 2018-12-07 15:39:34 surprisingly my fortwo always tilts the right side up even when doing loops. its godly on terrain even tough it has no suspension
+creations-chat 2018-12-07 16:58:01 
+creations-chat 2018-12-07 16:58:09 
+creations-chat 2018-12-07 17:00:13 (2 stage rocket)
+creations-chat 2018-12-07 17:00:24 
+creations-chat 2018-12-07 17:01:15 a UNIQUE creation.
+creations-chat 2018-12-07 17:01:55 i meant mechanism
+the-dump 2018-12-07 18:56:09 nub i made a wheelie fortwo smart car with fbi planeee on top
+creations-chat 2018-12-07 19:17:32 mega carrier rank plox. more then 4k parts in total
+creations-chat 2018-12-07 19:18:29 yes
+creations-chat 2018-12-07 19:25:37 Mega carrier for everyone.
+bug-reports 2018-12-07 19:45:22 it doesnt
+bug-reports 2018-12-07 19:48:42 https://streamable.com/nl5rh
+help 2018-12-07 20:24:30 <#501034677793193994>
+bug-reports 2018-12-07 20:29:01 it looks like your wheel is glitching.
+bug-reports 2018-12-07 20:29:06 and next time upload your video to streamable
+help 2018-12-07 21:20:13 springs
+creations-chat 2018-12-08 12:37:43 epic
+bug-reports 2018-12-08 14:34:28 have you tried the rotate tactic
+bug-reports 2018-12-08 14:34:37 with yo yo despin
+creations-chat 2018-12-13 18:36:17 Unicycle with very complex useless suspension and adjustable ride height
+creations-chat 2018-12-13 18:41:28 a flying droneship. try and land on that with a falcon
+creations-chat 2018-12-13 18:44:23 flying droneship
+creations-chat 2018-12-13 18:44:38 lights to signalize where the droneship is when its night
+help 2018-12-15 14:47:20 use ropes
+help 2018-12-15 14:47:23 and engines
+help 2018-12-15 15:00:49 i mean motors.
+help 2018-12-15 15:00:55 i can show you
+help 2018-12-15 15:01:02 are you in a vip server?
+creations-chat 2018-12-18 17:18:02 propellers
+bug-reports 2018-12-19 12:07:06 You can reload the save too.
+creations-chat 2018-12-19 12:34:38 
+creations-chat 2018-12-19 12:34:45 Tried jumping with my mouse.
+creations-chat 2018-12-19 12:34:49 maus*
+creations-chat 2018-12-19 12:35:05 Indeed
+creations-chat 2018-12-19 13:00:27 over 1k blocks, purely wheel power and very short barrel. some kind of maus recreation
+creations-chat 2018-12-19 13:12:19 <#473249376223887371>
+creations-chat 2018-12-19 13:13:20 Say something like
+creations-chat 2018-12-19 13:13:27 "requestion light speed" when you met that milestone
+creations-chat 2018-12-19 13:13:31 with the creation
+creations-chat 2018-12-19 13:16:33 Then say something like "requesting rank lag machine"
+creations-chat 2018-12-19 13:17:21 Im not a mod.
+creations-chat 2018-12-19 14:34:12 looks like a cat
+the-dump 2018-12-19 17:27:25 https://www.youtube.com/watch?v=TyxiqAVwLkQ
+the-dump 2018-12-19 17:27:37 2018 in a nutshell
+the-dump 2018-12-19 17:39:03 hell
+creations-chat 2018-12-20 10:45:38 "no wedges"
+creations-chat 2018-12-20 10:45:45 https://gyazo.com/566d2fb8086fe1acf7863f033db15e16
+creations-chat 2018-12-20 10:45:46 hmm
+help 2018-12-20 11:12:15 no
+the-dump 2018-12-20 16:23:14 https://cdn.discordapp.com/attachments/295700654326808576/524777031045611538/image0-7-1.png
+creations-chat 2018-12-21 13:24:35 Chinese version of the huey. very unstable and the rotors might collide with the heli itself
+help 2018-12-21 14:29:48 you need to post it in creations chat
+help 2018-12-21 14:50:48 how can i make my heli go straight instead of tilting to one side?
+help 2018-12-21 14:54:49 yes it lifts up and tilts to like the left
+help 2018-12-21 14:54:54 and when i go reverse it tilts to the right
+bug-reports 2018-12-21 15:04:59 trapdoors are very buggy and spazz out easily. i made a helicopter and used trapdoors as doors and they keep on spazzing out
+bug-reports 2018-12-21 15:16:07 the trapdoors even spazz out while im on the ground.
+bug-reports 2018-12-21 15:16:09 seems weird
+creations-chat 2018-12-21 15:26:47 but is it stable?
+creations-chat 2018-12-21 15:27:32 doubt
+the-dump 2018-12-21 19:51:51 https://gyazo.com/b2cf2ef616a19dae7aa468d39b934efe
+the-dump 2018-12-21 20:24:59 https://www.change.org/p/everyone-keep-the-rickje-channel-alive-89f1e217-2faa-4702-82a9-5ec7e1e3431b?recruiter=851160526&utm_source=share_petition&utm_medium=copylink&utm_campaign=share_petition
+the-dump 2018-12-21 20:28:48 sign the petition
+creations-chat 2018-12-22 15:13:36 you need to do it without thrusters
+help 2018-12-23 14:18:03 <@!461965530903871489> its because the lower motors are spinning on the ground. try lifting the track abit up and it should be fine
+the-dump 2018-12-23 14:57:05 he is a assist trophy i think
+bug-reports 2018-12-26 12:37:42 https://gyazo.com/fb5e084aaf6ffcd9a1ebdc1b4772f827
+bug-reports 2018-12-26 12:37:44 uhhh
+bug-reports 2018-12-26 12:38:03 https://gyazo.com/b2324e818a57d586d803235dc9c27cb3
+bug-reports 2018-12-26 13:23:03 https://gyazo.com/267d24c71886235d65c72394feedee7c
+bug-reports 2018-12-26 13:23:08 motors dont like suspension..
+bug-reports 2018-12-26 13:28:30 and the motors seem to spin even tough i locked them.
+bug-reports 2018-12-26 20:05:23 https://gyazo.com/14ea85a973af1feb6aba1a3f99cc0b3c
+bug-reports 2018-12-26 20:05:28 tried fix and lock.
+bug-reports 2018-12-26 20:39:38 rejoin.
+bug-reports 2018-12-26 20:39:43 i had that bug too
+bug-reports 2018-12-26 23:12:36 https://gyazo.com/0ae35c9410564e47420ac0c2a1b46858
+bug-reports 2018-12-26 23:12:38 hmm
+the-dump 2018-12-28 23:43:20 https://gyazo.com/ef74663dc53d490f70a95e855e8b9443
+the-dump 2018-12-28 23:48:42 from a different server.
+the-dump 2018-12-29 02:30:43 Its 3am somebody help
+the-dump 2018-12-29 10:48:09 
+the-dump 2018-12-29 16:19:09 i got warned from roblox
+the-dump 2018-12-29 16:19:14 because i made a golumn model
+the-dump 2018-12-29 16:22:45 it said
+the-dump 2018-12-29 16:22:51 "do not share personal information"
+the-dump 2018-12-29 16:23:03 and another friend of mine got warned for making a car model
+the-dump 2018-12-29 16:41:59 <@!471024129345191937> its abit offensive https://www.roblox.com/library/2688236845/golumn-cart
+the-dump 2018-12-29 16:42:25 https://gyazo.com/6cb18417a474b4b12fb3d7274d388c93
+the-dump 2018-12-29 16:43:31 yes
+the-dump 2018-12-29 16:43:38 from the rewind
+the-dump 2018-12-29 16:46:13 no
+bug-reports 2018-12-29 20:00:18 <@!354337552846684180> its normal. its a secret
+creations-chat 2018-12-29 20:16:18 small submarine inspired by the seamoth from subnautica. Requesting submarine commander rank
+creations-chat 2018-12-29 20:21:15 true
+bug-reports 2019-01-12 10:26:16 https://gyazo.com/c64e5695402ea4fca9bc3ceb3f68d3ff these two weld together
+creations-chat 2019-01-26 20:26:39 Requesting floating fortress. 1,6k blocks
+bug-reports 2019-01-28 17:27:41 I cant destroy stuff with impact tnt, yet normal one works
+bug-reports 2019-01-28 17:31:52 and sometimes my mouse controlled plane works, sometimes it just glides
+bug-reports 2019-01-28 18:08:42 and there is a slight delay when clicking the tnt keybind and the actual tnt exploding
+bug-reports 2019-01-28 18:12:38 wrong channel
+bug-reports 2019-01-28 18:19:36 what is the problem
+help 2019-01-28 19:15:41 there is a command called !suggestion or &suggestion (text)
+the-dump 2019-01-28 20:18:58 
+the-dump 2019-01-28 20:19:39 I am a gnome
+bug-reports 2019-01-29 18:15:53 When i use my missile, the server thinks its behind from the actual spot
+bug-reports 2019-01-29 18:15:59 so when i hit something the explosion is mid air
+bug-reports 2019-01-29 18:16:02 instead of being on target
+bug-reports 2019-01-29 18:19:39 
+bug-reports 2019-01-29 18:19:43 badly made drawing of how it works
+the-dump 2019-02-03 18:34:35 https://gyazo.com/f8e576528074b1eb6be6fd1155e23411
+help 2019-02-04 19:36:22 How do i increase traction on my tracks?
+creations-chat 2019-02-14 19:22:27 https://streamable.com/xo4jo Requesting rank Ace pilot
+bug-reports 2019-02-24 07:54:21 Motors dont like pistons. And when you put pistons on lock they start to retract
+bug-reports 2019-02-24 10:05:29 https://gyazo.com/c50f4a5d77fab2c6d8f3c83a4e222f74
+bug-reports 2019-02-24 11:38:30 https://streamable.com/153e5
+bug-reports 2019-02-24 11:38:42 i tried rotating my spoiler and now im in the 4th dimension
+bug-reports 2019-02-24 11:53:43 alright
+the-dump 2019-03-07 14:12:24 set it to night please
+the-dump 2019-03-07 14:12:27 i dont want them to melt
+the-dump 2019-03-08 22:28:46 ahh yes my favourite toy company, LOZ
+help 2019-03-09 18:02:28 whats the best way to counter small gun spam planes?
+help 2019-03-09 18:02:35 because my ship cannot handle with them even tough the rockets hit
+help 2019-03-09 18:20:49 i tried that
+help 2019-03-09 18:20:51 doesnt work
+the-dump 2019-03-17 17:06:20 
+help 2019-03-29 16:41:18 Max the torque?
+the-dump 2019-03-29 18:11:03 i dare someone to make this in plane crazy
+bug-reports 2019-03-29 19:09:32 I tried to join a friend and then i spawned in the middle of the map
+bug-reports 2019-03-29 19:09:47 and it seems like i dont have a plot
+bug-reports 2019-03-29 19:09:57 + the guis dont work
+bug-reports 2019-03-29 19:11:12 https://streamable.com/1f6k7
+the-dump 2019-03-29 19:20:31 No
+the-dump 2019-03-29 19:20:34 Roblox studio
+the-dump 2019-03-30 17:53:15 
+help 2019-03-31 16:23:45 wheels are very flimsy because of robloxs new update
+help 2019-03-31 16:33:35 Not really
+help 2019-03-31 16:33:38 use custom wheels
+help 2019-03-31 16:33:44 with motors
+help 2019-04-02 13:37:16 if you set it to like 10, the tnt must travel atleast at a speed of 10 to explode on impact
+help 2019-04-02 13:52:10 It needs to be a minimum of 10 to explode
+help 2019-04-02 13:52:30 bimasak, is your plane too heavy or is all the weight in the front?
+the-dump 2019-04-07 19:04:24 not that heavily on physics
+help 2019-04-14 18:36:22 how do i make my creation not tilt to the right while using propellers
+bug-reports 2019-04-16 14:53:18 https://gyazo.com/0269c32ed2941505da06a0dd2a29dbe5
+bug-reports 2019-04-16 14:53:38 altitude and pvp enabled guis still there even when in build mode
+bug-reports 2019-04-29 14:38:20 did you use lock mode
+the-dump 2019-05-04 12:59:15 
+bug-reports 2019-05-28 15:24:04 https://gyazo.com/bf7ad61158fe44a714505420810245e0
+bug-reports 2019-05-28 15:24:16 Tried retracting the half piston, but it wont fully retract
+the-dump 2019-06-07 13:58:39 https://gyazo.com/565ceb1fe2237029e1bff667bf9c6b05
+help 2019-06-07 19:02:53 how do i stop a heli from tilting
+help 2019-06-07 19:05:00 Its because of the blades.
+creations-chat 2019-06-09 15:43:09 cursed plane
+creations-chat 2019-06-09 15:43:31 
+help 2019-06-20 19:18:39 too little thrust and too much weight
+bot-central 2019-06-20 20:11:40 !servers
+bug-reports 2019-06-20 20:30:55 my keybinds broke, cant press 1, 2 etc now to select tools or copy and paste
+help 2019-06-23 12:06:26 why is my turret hella unstable
+the-dump 2019-06-26 12:51:27 there are 0.9 blocks
+bug-reports 2019-07-01 13:36:50 https://streamable.com/l3hog
+bug-reports 2019-07-01 13:37:03 spazzed as soon as i tried to lower
+bug-reports 2019-07-02 05:15:46 It started spazzing out as soon as i unanchored.
+bug-reports 2019-07-12 19:15:15 did you lock your motors
+help 2019-08-04 11:59:28 how do i fix it when i use propeller blades to anything i automatically tilt to the right side
+bot-central 2019-09-25 17:51:35 !servers
+bot-central 2020-05-18 20:03:17 !servers

@@ -1,0 +1,25 @@
+The Tale of bean_7 (564663966509563914)
+bot-central 2020-11-21 21:13:34 !servers
+bot-central 2020-11-21 21:13:42 !servers
+bot-central 2020-11-25 20:27:00 !servers
+bot-central 2020-11-25 20:27:12 !servers
+bug-reports 2020-11-25 20:51:58 I tried make a 3x3 tie fighter before and it had 4 control surfaces for up/down, however it did it very slowly, but in flight it tipped over a bit onto its side and was able to go up and down much faster despite the controls surfaces for left/right being a quarter of the number that i had for up/down
+bot-central 2020-11-25 21:20:27 !servers
+bot-central 2020-12-12 01:25:28 !servers
+bot-central 2020-12-14 19:04:32 ?shelp
+creations-chat 2020-12-14 22:52:17 what Can i do to improve this
+creations-chat 2020-12-14 22:57:33 its a pain to make blimp fronts
+creations-chat 2020-12-15 20:50:23 why is it that a flying cheese triangle gets 45 upvotes but everything else even if its much bigger and detailed gets at most 20
+creations-chat 2020-12-15 20:52:58 ah yes
+creations-chat 2020-12-15 20:56:32 I made the gondolas smaller on my zepellin and it looks better, im not sure how im supposed to make the 4 german crosses bigger when I dont have the images gamepass
+creations-chat 2020-12-16 21:15:17 I saw that same design before, the person had a german ww1 soldier outfit
+creations-chat 2020-12-16 21:20:27 I choose the above
+creations-chat 2020-12-16 23:21:17 Ok So I did what was suggested and made the cabins smaller and made the cross symbol better
+bug-reports 2021-01-30 19:17:05 Ive noticed that if you have control surfaces set to manual that they are not effective
+bug-reports 2021-01-30 19:17:23 even if they are all placed the same with same controls
+bug-reports 2021-01-30 19:17:33 they arent as close to as effective as they are on automatic
+bug-reports 2021-01-30 19:19:27 this is bad for people like me who dont like flying using cursor
+bot-central 2021-01-30 20:01:48 !server
+bot-central 2021-01-30 20:01:56 whats link for the discord server
+bot-central 2021-01-30 20:02:17 !servers
+bot-central 2021-08-31 23:26:14 -servers

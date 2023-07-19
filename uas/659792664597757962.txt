@@ -1,0 +1,11 @@
+The Tale of Mike Hunt (659792664597757962)
+bot-central 2020-11-01 23:00:30 ?rhelp
+bot-central 2020-11-01 23:04:04 ?rhelp
+bot-central 2020-11-01 23:27:02 $help
+bot-central 2020-11-01 23:27:10 $help commands
+bot-central 2020-11-01 23:27:35 $setup
+bot-central 2020-11-01 23:27:43 $help setup
+bot-central 2020-11-01 23:36:07 !rank
+bot-central 2020-11-02 00:18:51 ?whois
+bot-central 2020-11-02 00:20:24 !servers
+bot-central 2020-11-02 16:30:30 ?whois

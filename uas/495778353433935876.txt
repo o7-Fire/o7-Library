@@ -1,0 +1,60 @@
+The Tale of aquatic_water (495778353433935876)
+help 2020-09-02 23:23:55 how do you guys make the cockpit open up? I wanna add that feature to my plane
+help 2020-09-03 00:04:38 my cockpit wont stay open any fixes?
+help 2020-09-03 00:11:19 whenever it opens it just falls back down
+help 2020-09-03 00:18:39 any other way to keep it open other than those?
+help 2020-09-03 00:36:40 any ideas on how to make this cockpit rotate?
+help 2020-09-03 00:41:18 yeah but where?
+help 2020-09-03 03:19:06 What are custom engines like conveyor engines and how do they work?
+help 2020-09-05 14:25:32 can i use anything to move the center of mass back?
+help 2020-09-05 14:31:55 i know but i cant exactly add blocks to the back without just ruining the design so is there anything that can make the center of mass go back without adding more blocks to the back?
+creations-chat 2020-09-05 17:43:28 lmao
+help 2020-09-17 20:56:57 my plane has a problem where it suddenly jolts to the left or right even though nothing should be causing that anything i can do to fix that?
+help 2020-09-18 03:07:06 my plane keeps on turning by itself after i reach a certain speed is there any way to fix it?
+help 2020-09-18 03:08:58 i put a conveyor engine on this so is that the reason why it's doing that?
+help 2020-09-20 21:25:29 my plane is having this problem where it can go perfectly straight backwards but going forwards it just spins out. i have moved the conveyor engine to the front of the plane but it still doesnt fix the problem anyone got any ideas on how i can fix it?
+help 2020-09-21 22:50:42 my plane is having this trouble with spinning after it reaches a certain speed and i've done the fixes people have suggested to me to fix it but none of them worked anyone got any ideas on how to fix it?
+help 2020-09-21 22:52:52 it usually spins out much worse and at lower speeds too
+help 2020-09-21 22:53:27 *oh*
+help 2020-09-21 22:53:32 *crap*
+help 2020-09-21 22:54:26 i am small brain
+help 2020-09-21 23:22:31 okay even with vertical stablizers its still having the same problem of it spinning out at high speeds
+help 2020-09-21 23:22:46 do i just make them bigger or
+help 2020-09-21 23:23:55 compared to the main wings yeah they are pretty small
+help 2020-09-21 23:24:07 but the main wings are also gaint so
+help 2020-09-21 23:24:10 giant*
+help 2020-09-21 23:24:48 this is one of the vertical stabilizers compared to me
+help 2020-09-21 23:25:13 okay
+help 2020-09-21 23:25:14 and this is the main wing compared to me
+help 2020-09-21 23:25:45 god they are going to be huge then
+creations-chat 2020-09-24 16:36:38 im slightly annoyed that a plane that i spent like 3-4 days on flies worse than a plane i whipped up in like 2 hours
+help 2020-10-02 21:01:22 anyone know why my plane still flies better backwards than forwards?
+creations-chat 2020-10-03 00:13:28 i mean
+creations-chat 2020-10-03 00:13:47 mouse control is good for precision movement and just cruising on planes
+creations-chat 2020-10-03 00:14:03 cant do advanced stuff though
+creations-chat 2020-10-03 00:41:24 color the motors
+creations-chat 2020-10-03 00:41:50 but everything else looks good
+creations-chat 2020-10-03 00:48:46 thats a f-23 right?
+creations-chat 2020-10-03 00:49:25 yeah that does not look easy to turn into a vtol at all
+creations-chat 2020-10-03 01:27:47 oh i brain didnt work
+creations-chat 2020-10-03 01:28:06 i was thinking of the f-35 not the f-23 that doesnt exist
+help 2020-10-03 01:30:07 a whole lot of motor locking probably
+help 2020-10-03 01:30:54 the tread armor could be made with wedges and triangle wedges and half blocks
+help 2020-10-03 01:31:53 so motor 2 can be used for the gun angle stuff
+help 2020-10-03 01:31:58 uhh
+help 2020-10-03 01:32:20 the section near the cannon base seems like it can be made with wedge to block
+help 2020-10-03 01:32:35 and then half block roof
+help 2020-10-03 01:32:51 with motor lock to make it look more smooth
+help 2020-10-03 01:33:16 and interior i think is about 3 blocks tall if your going for life size
+help 2020-10-03 01:33:24 so that should be plenty of room for some designs
+help 2020-10-03 01:34:06 no wait its just 2 blocks at max
+help 2020-10-03 01:34:20 that should still leave some room though
+help 2020-10-03 01:36:41 yeah no that tank in general cant really fit a person sitting upright so im guessing the seats are like seats that are laying down
+help 2020-10-03 01:39:01 *oh*
+help 2020-10-03 01:39:03 well then
+help 2020-10-03 01:39:14 that solves a lot of problems with the interior
+help 2020-10-03 01:40:56 oh the manlet
+help 2020-10-03 01:40:59 uh
+help 2020-10-03 01:41:18 it looks like round wedges can work for that kind
+help 2020-10-03 01:41:33 but considering the size it probably wont
+help 2020-10-03 01:42:22 you could make it 1 block thick but there's still the problem of there not being a round corner wedge

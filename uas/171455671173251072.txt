@@ -1,5 +1,409 @@
-_arkangel_
-plane-crazy 2019-10-20 18:44:45 Where I come from, dark mode is so 2005
-plane-crazy 2019-10-20 18:43:57 Brah, I was using dark more before it was cool. I'm over and past it already
-plane-crazy 2019-10-20 18:43:17 I've been awakened from my slumber... Playing way too much space engineers and Stormworks
-plane-crazy 2019-10-20 18:42:19 
+The Tale of _arkangel_ (171455671173251072)
+help 2019-01-12 23:23:17 Or if there is something describing how magnets are supposed to work
+help 2019-01-12 23:36:15 I wish it was obvious. 😛
+help 2019-01-12 23:36:48 Add weight to the bottom of the basket?
+help 2019-01-12 23:37:21 Suspension block is a solid tip
+help 2019-01-12 23:37:49 I haven't seen evidence the "loose blocks" toggle works
+help 2019-01-12 23:44:24 Just not getting great results from this magnet latch. One time, I think it may have welded, but not at all in the right spot
+help 2019-01-12 23:44:31 
+help 2019-01-16 19:26:05 Does anyone know if there is a good document somewhere that says how things like magnets are actually supposed to work?
+help 2019-01-16 19:27:19 I've gotten pretty mixed results. So it's been hard to figure out if I'm doing something wrong or...
+help 2019-01-16 19:29:15 Also, if there is a change log or dev blog somewhere? I've seen updates from devs saying weld is working "better". I am looking to understand when magnets are supposed to weld, things like that
+help 2019-01-16 19:30:15 I have a deck that unfolds, and I want it to weld when it's in position. Sometimes maybe it seems like it does
+help 2019-01-16 19:34:55 It has welded unaligned sometimes. There have been times where random blocks became unaligned from those next to them. That's rare.
+help 2019-01-16 19:35:58 It's hard to test whether they are welded or but, so sometimes I don't know until it gets bumped. Doing reliable scientific experimentation has been hard
+help 2019-01-16 19:36:25 So even if it drops into the exact right position, weld can go wrong?
+help 2019-01-16 19:37:57 Yeah. That's been approximately what seems to work. Unfold, activate magnet, then bump the motors a few more times... Then maybe I see a weld ... Or a false positive
+help 2019-01-16 19:38:18 Does toggle work better or not?
+help 2019-01-16 19:38:40 I use magnets only to get a magnet to magnet link
+help 2019-01-16 19:40:57 Has anyone considered putting up a wiki for this stuff?
+help 2019-01-16 20:17:49 Hmmm. If I started a wiki, would that be a bad thing?
+help 2019-01-16 22:49:01 I did find an amount of wiki:
+help 2019-01-16 22:49:02 http://plane-crazy.wikia.com/wiki/Basic_VTOL(hovercraft)_building_guide
+help 2019-01-18 18:41:11 I have a question about the culture of getting upset that someone is copying your creation. Especially when there is no copy/paste tool and building anything is extremely manual
+help 2019-01-18 18:41:29 If somone copies your creation, they are likely to make a copy error and it's not really the same.
+help 2019-01-18 18:42:02 And. 97% at least of anything anyone is making is a copy of something else - either real life or a variation on an existing creation.
+help 2019-01-18 18:42:33 Very rarely is anyone making something so unique in plane crazy that it could be called original.
+help 2019-01-18 18:42:56 So... where does this idea that copying is upsetting or ban-worthy come from
+help 2019-01-18 18:43:07 Does this happen on other roblox games?
+help 2019-01-18 19:49:50 IDK. "most builds are a copy"
+help 2019-01-18 19:50:08 is basically how music has worked for the last few hundred years
+help 2019-01-18 19:51:19 Understanding physics games can have a steep learning curve. 5 people building the same thing helps people get started
+help 2019-01-18 19:51:35 Eventually, the designs diverge or evolve.
+help 2019-01-18 19:52:43 "too many complaints and too many arguments" - now that makes sense
+help 2019-01-18 19:53:42 Even if it's a symptom of many roblox players being much younger - if you make copying a bannable offense, and someone is offended, the argument is much shorter.
+help 2019-01-18 19:55:20 Because it's a lot harder to fix the people who are offended over... not so much
+bug-reports 2019-01-20 23:07:02 Can I put messages here?
+bug-reports 2019-01-20 23:07:10 Yep.
+help 2019-01-20 23:07:37 Does anyone know how to reset your spawn location?
+help 2019-01-20 23:08:03 Mine was off center, and it's kinda rude to my neighbor
+help 2019-01-20 23:08:27 
+help 2019-01-20 23:08:46 
+help 2019-01-20 23:09:28 I usually have to be very nice to my neighbors not to get blacklisted. This was kinda funny, though?
+bug-reports 2019-01-20 23:10:17 
+bug-reports 2019-01-20 23:10:31 Loading a new craft, spawning, reloading didn't help:
+bug-reports 2019-01-20 23:10:48 
+bug-reports 2019-01-20 23:10:54 
+help 2019-01-20 23:19:35 I joined a different server and it was fine. Weird glitch
+help 2019-01-20 23:23:20 Actually, I was disconnected from the server where I was fine with this message: "Disconnected from server" "unknown exception". When I clieked re-join, it put me on the old server
+help 2019-01-20 23:23:30 
+help 2019-01-20 23:23:40 And the crooked spot again
+help 2019-01-21 18:49:24 Does anyone know if it's possible to come back from a corrupted save?
+bug-reports 2019-01-21 18:49:58 I have a corrupted save. Is it possible... to have it uncorrupted? Is this a bug with a recent update?
+bug-reports 2019-01-21 18:51:05 Big Quad Carrier V3.10 has 3366 parts, V3.11 has 3466 parts.
+bug-reports 2019-01-21 18:52:06 I finished the 4th rotor between V 3.10 and 3.11
+bug-reports 2019-01-21 18:52:57 This is 3.10 - 4th rotor is not attached or complete
+bug-reports 2019-01-21 18:54:08 Here's 3.11 from yesterday.
+bug-reports 2019-01-21 18:55:01 3.11 test flight did something I've never seen before (this was the result of a magnet glitch)
+bug-reports 2019-01-21 18:56:04 Roblox never came back from this position. I clicked on the return arrow to go back to build mode, but my client never responded.
+bug-reports 2019-01-21 18:57:45 Another player on the server did see my ship go back to build mode and was able to stand on it, though I still saw blue sky with Speed: inf on my client
+bug-reports 2019-01-21 18:58:28 Point of view from MarbleArkMecha's client
+bug-reports 2019-01-21 18:59:19 I had to kill roblox since it wasn't responding to pressing esc to get the leave game menu even after a couple of minutes
+bug-reports 2019-01-21 18:59:35 When I went into a game and loaded 3.11, I have this:
+bug-reports 2019-01-21 19:00:42 Random pieces are missing, even though V3.11 has a block count of 3466, it's clearly not as many as V3.10
+bug-reports 2019-01-21 19:01:24 I'm bummed, but I guess it's just 100 blocks.
+help 2019-01-21 19:02:34 I'm considering that I should probably put less time into creations if it's not possible to pay to put creations into safe storage.
+help 2019-01-21 19:03:00 Either downloading them or publishing them into a catalog (like robocraft) or something.
+help 2019-01-21 19:05:17 Bummer.
+bug-reports 2019-01-21 19:06:00 The actual block count seems to be 2302 if I save in a different slot.
+bug-reports 2019-01-21 19:29:29 Not sure if that's trolling?
+bug-reports 2019-01-21 19:30:05 The final screen shot where I load slot 9 and save into slot 10 is over the save limit.
+bug-reports 2019-01-21 19:32:02 After that, I erased slot 10 before I exited. In the game where I saved 3.11, I got up to 259.440, so I deleted a creation to get back down to 230 - exited, joined another server, loaded 3.11 with the 4th rotor complete.
+bug-reports 2019-01-21 19:33:19 I had a string of glitchy games that night with misplaced build plots and other oddities. But I went into the game where a magnet glitch tore my ship to shreds with all 4 corner rotors complete.
+bug-reports 2019-01-21 19:35:18 
+bug-reports 2019-01-21 19:38:18 So in the game I was in that caused corruption - I was at 230something save data, came in with 3401 parts, added some, did some keybinding tweaks, saved with 3466 parts and plenty of save data - but I re-used slot 9 and kept the version number at 3.11.
+help 2019-01-21 19:40:11 I didn't go over the save limit. To be clear.
+help 2019-01-21 19:40:58 There was a session last week where I went over the save limit and what I found was my progress was erased next time I joined a server.
+help 2019-01-21 19:42:02 Which made perfect sense to me. There was another session where I went over the limit, delete a creation to get under, saved again, exited the server. Joined another server to check - and all my progress was kept.
+help 2019-01-21 19:44:22 Makes sense. There was another session where I saved some updates, was well under the save limit, but didn't realize my laptop charger wasn't plugged in to the wall.  My laptop hibernated without exiting the server. When I turned my laptop back on, the changes from that session were lost.
+help 2019-01-21 19:46:06 That sucked, but I can see how the server side script might not be triggered to save to persistent storage if my roblox client stopped communicating without disconnecting.
+help 2019-01-21 19:48:43 All that is (for better or worse) understandable. What happened yesterday seems much more like a bug. I came in to a server with 4 rotors on my creation, saved an update, then next time I loaded, the 4 rotor save slot was corrupted with absolutely random blocks missing. Luckily I had a backup in a different slot with just 100 blocks missing.
+bug-reports 2019-01-21 19:50:59 I think that just means god is watching your server. Also this god slightly favors yaaru over paulinho132010.
+help 2019-01-22 18:43:33 Does anyone know if there is a way to avoid keybinds firing when you're in chat? I've had some unfortunate things happen during flight just typing messages.
+help 2019-01-22 18:44:53 Seemed to creep in sometime in the last week. Before that, I could chat without triggering motors/magnets/etc
+bug-reports 2019-01-23 00:15:53 <@!328989346411839488>  - You might need to press your Fn key (somewhere between CTRL and ALT) when you press F9
+bug-reports 2019-01-23 00:30:20 Huh. I get something like that on my slot that won't load all it's blocks:
+bug-reports 2019-01-23 00:30:24 
+bug-reports 2019-01-23 00:33:02 That message doesn't come up when I load my models that don't have issues. I loaded 3 other models, then came back and loaded the one that is missing pieces
+bug-reports 2019-01-23 00:33:05 
+bug-reports 2019-01-23 17:58:26 I would like to second the thanks on the plot fix. I hope it fixes mine, too!
+bug-reports 2019-01-24 14:49:49 <@!217336009455566848>  - Same results:
+bug-reports 2019-01-24 14:49:55 
+help 2019-01-24 18:25:51 Do you have Lock checked on the motors?
+help 2019-01-24 18:39:50 It looks like the wings are taking on some pretty intense forces.
+help 2019-01-24 18:40:09 And that may just be from hitting the ground
+help 2019-01-24 18:40:38 Can you try moving your back landing gears forward so you can pitch up before you run out of runway?
+help 2019-01-24 18:41:06 Or taxi onto the area in front of you, turn right and use the longer runway to get speed befor eyou take off?
+help 2019-01-24 18:42:27 You could also try putting some rockets on the nose pointed down to force it up.
+help 2019-01-24 18:43:03 It's possible your center of lift is a little behind your center of mass
+help 2019-01-24 18:43:53 You could put a canard near the nose to add some more forward lift, and control surfaces on the canard to get more control authority for pitch.
+help 2019-01-24 18:44:36 I'm not sure that V tail is giving you any control authority for pitch at all
+help 2019-01-24 18:45:21 I don't disagree XN, but not hitting the ground would help.
+help 2019-01-24 18:46:18 If the V tail control surfaces are set to mouse control (automatic), I'm not sure thier position after moving into V matters.
+help 2019-01-24 18:46:32 I get that it's obviously a UAV (extremely not to scale)
+help 2019-01-24 18:46:46 But he needs to troubleshoot where his problem is.
+help 2019-01-24 18:47:15 OK. Yes, exactly.
+help 2019-01-24 18:47:35 Soory, I did not know how much experience NooBaris had
+help 2019-01-24 18:47:51 But that plane is clearly pitching down hard when it runs out of runway
+help 2019-01-24 18:48:06 vipEmpire - I saw your chat log yesteray
+help 2019-01-24 18:48:37 Yes, that was my first suggestion.
+help 2019-01-24 18:50:58 Is there a video of the wings glitching that doesn't involve hitting the ground hard first?
+bug-reports 2019-01-24 20:36:13 It's not super fun, but you can work around it NooBaris
+bug-reports 2019-01-24 20:36:45 1x4 beams mostly work, and you can place one next to it. Then build off it
+bug-reports 2019-01-24 22:03:00 Rick - if you want more more shot to fix that loading error, cool.
+bug-reports 2019-01-24 22:03:20 But I gotta overwrite that slot soon if it's not going to get fixed. It's nearly half my savedata
+bug-reports 2019-01-30 17:17:27 I'm looking forward to the next release. I just confirmed my slot 3 still has the load error
+bug-reports 2019-01-30 17:17:31 
+help 2019-01-31 15:22:14 Definitely a copy. I would like to report both of those users for copying
+help 2019-01-31 15:22:21 
+help 2019-01-31 15:22:44 
+help 2019-01-31 15:23:07 It looks like they are copying out of textbooks. Sooo
+help 2019-02-01 14:07:59 I forgot - how do you deal with these?
+help 2019-02-01 14:08:18 Shoot. Not my email. Oh no
+help 2019-02-01 14:08:46 mgmchenry Doxes self...
+help 2019-02-01 14:09:19 
+help 2019-02-01 14:09:31 springtrapgun_ALT2
+help 2019-02-01 14:09:38 I wonder what his other alts are named
+help 2019-02-01 14:09:54 <@!217336009455566848>  - can we get this guy banned?
+help 2019-02-01 16:43:52 He's long gone
+bug-reports 2019-02-02 23:11:11 Is it unfair to ask when an update might come? days? weeks? I do understand it will be done when it's done.
+bug-reports 2019-02-02 23:11:33 Is there a dev version to test on?
+help 2019-02-04 13:45:48 I've been doing some measurements on rotor thrust output
+help 2019-02-04 13:45:53 
+help 2019-02-04 13:46:50 Some time ago, I thought I found that I got better thrust from super rocket engines than I did from a motor. But my current observations do not agree.
+help 2019-02-04 13:48:03 If the number of blades isn't enough to slow down the motor, motor does get better thrust.
+help 2019-02-04 13:49:21 If the drag from the blades is enough to slow the motor, adding thrust from rocket engines will increase thrust some.
+help 2019-02-04 13:50:10 (deleted because bad facts. Above is true, though)
+help 2019-02-04 13:56:07 When measuring the vertical thrust of rocket engines at full throttle vs pulsed rocket engines, they are identical.
+help 2019-02-04 14:12:39 Does anyone know if it's possible to change default roblox keybinds? I would like to use i and o for keybinds, but they zoom the camera in and out
+bug-reports 2019-02-04 14:20:05 Would you consider it a bug if the middle engine here produces considerably more thrust:
+bug-reports 2019-02-04 14:20:10 
+bug-reports 2019-02-04 14:21:20 Am I that dumb? How can you tell the difference?
+bug-reports 2019-02-04 14:25:56 Yep. I messed up. That fixed it. Thanks!
+help 2019-02-04 14:26:23 My observations above were all wrong. I was comparing rocket engines to super rocket engines. XD
+help 2019-02-04 14:52:51 Running two motors (at max torque) produces less thrust than just one. On my scale 1 motor gives me 2.5 thrust. 2 engines both running gives 2.2. Running 1 of the 2 gives  1.35 thrust. Running either motor with "lock" checked also reduces thrust output.
+help 2019-02-04 14:53:21 So why do people run propellers with multple motors?
+help 2019-02-04 14:54:12 Also, I can tell I've reached maximum RPM with one motor because adding thrust from the rockets does not increase lift. At lower torque, I do get less RPM, and adding thrust from rockets increases thrust.
+help 2019-02-04 15:31:18 I have a creation that needs power
+help 2019-02-04 15:31:22 
+help 2019-02-04 15:31:50 Switching to motor power instead of rockets on the rotors increased my thrust and lifting power by - and this is a rough but conservative estimate:
+help 2019-02-04 15:32:15 1 bajillion-fold. The main lift rotor is now putting out enough thrust to lift on it's own
+help 2019-02-04 15:33:34 The main lift in the center has a ton of rockets, but they can't touch the power of a single motor mount
+help 2019-02-04 15:35:58 At long last, I have defeated gravity
+help 2019-02-04 15:36:16 
+help 2019-02-04 15:38:42 Oh, have you seen it on a server? To be clear: I am the one who is making it. It's far from made
+help 2019-02-04 15:39:03 I've spent a few weeks working through each of the technical challenges
+help 2019-02-04 15:39:36 I'm almost there now.
+help 2019-02-04 15:40:08 Oh. I'm sorry if I lagged your server figuring things out. I've made it less laggy from time to time.
+help 2019-02-04 15:40:23 Figuring out the magnets helped a lot. And getting a more reliable unfolding sequence.
+help 2019-02-04 15:40:51 The stability on the rotor-tilt is still a pain.
+help 2019-02-04 15:41:09 It's sitting at 3923 right now, I think.
+help 2019-02-04 15:41:59 Another 200-400 blocks will get it to full functionality. Then probaly another 800 or so to finish the hull plating and some basic interior.
+help 2019-02-04 15:42:08 It's a hover carrier
+help 2019-02-04 15:43:06 I started off making a full-size  quad rotor that I could control with my joystick (and joystick gremlin)
+help 2019-02-04 15:43:23 And everyone wanted to land on it all the time. And it also had a lifting platform underneath it.
+help 2019-02-04 15:43:47 So I revemped it with a more powerful lift motor and added a legit carrier deck.
+help 2019-02-04 15:44:26 The quad-rotors need to reach far to the corners for attitude and roll control.
+help 2019-02-04 15:45:08 Also - they need to be fairly large? People make big planes so... just had to scale up.
+help 2019-02-04 15:48:11 I think I'd like to ask Rick for motors that have adjustable throttle the way jet/rocket engines do. That would make rotorcraft hovering a lot easier.
+creations-chat 2019-02-05 13:19:47 Out of curiousity - does anyone think it would be hard to make a hovercarrier? I was thinking maybe like a quad-rotor tilt-rotor hover carrier with an unfolding deck.
+creations-chat 2019-02-05 13:25:43 That's the highest speed I've seen that is not just "inf"
+creations-chat 2019-02-05 13:30:58 I will admit - I was hoping someone would talk me out of it. But it's too late. :/
+creations-chat 2019-02-05 13:31:06 
+creations-chat 2019-02-05 13:32:08 Oh. I didn't know that would post to the other channel. It's not done yet. WIP.
+creations-chat 2019-02-05 13:32:18 I think I'm going to ask for the Server Exterminator rank
+creations-chat 2019-02-05 13:33:50 I still have a lot of hull plating to do and asthetic stuff. But it works
+creations-chat 2019-02-05 13:33:54 
+creations-chat 2019-02-05 13:36:15 My greatest achievement is that it no longer runs at 8fps
+creations-chat 2019-02-05 13:36:36 Not that 41 is amazing (60 is what I get before I spawn)
+creations-chat 2019-02-05 13:38:52 It starts off compacted:
+creations-chat 2019-02-05 13:39:47 Halfway unfolded
+creations-chat 2019-02-05 14:12:04 Big Quad Carrier 3.14
+creations-chat 2019-02-05 14:12:07 !rank
+creations-chat 2019-02-05 14:12:31 I'm looking for Server Exterminator rank - 4063 blocks
+creations-chat 2019-02-05 14:49:41 My first flight was a success.
+creations-chat 2019-02-05 14:49:46 
+creations-chat 2019-02-05 14:49:58 I'm struggling with yaw control a little
+bug-reports 2019-02-05 19:41:01 This is true - throttles reset when you re-enter.
+bug-reports 2019-02-05 19:41:47 <@!253999566444167171>  - I was on that same server earlier. I spawned on the black quad carrier spot. It's been there since 7AM this morning.
+bug-reports 2019-02-05 19:42:46 I thought it was funny I was coming in to flight test my quad carrier, which can fit the ghost/glitch carrier in it's cargo bay.
+bug-reports 2019-02-05 19:44:33 https://cdn.discordapp.com/attachments/384021699466756107/542342270729322496/unknown.png
+bug-reports 2019-02-05 19:45:01 I second your bug report.  :/
+bug-reports 2019-02-05 19:47:18 Non-consentual docking:
+bug-reports 2019-02-05 19:47:22 
+bug-reports 2019-02-05 19:49:42 Takeoff was basically impossible. The black carrier didn't even budge when I glitched through it.
+bug-reports 2019-02-05 19:51:15 It didn't belong to any of the users on that server. Shoot. I should have pressed F9 to see if there were any messages.
+creations-chat 2019-02-05 23:49:09 Submitted by @mgmchenry : MGM X-3 VTOL CloudCarrier
+Type: VTOL Tilt-Rotor Quad Carrier and Heavy Lift transport
+Parts: 4,063 blocks
+Speed: Classified
+Time to build: 30-50 hours maybe?
+Ranks Requested!: VTOL Master, Server Exterminator, Inventor, Floating Fortress
+
+Features: 
+- Central lift rotors produce enough thrust alone to put the ship into the sky before unfolding.
+- Unfolding landing deck can accommodate very large craft comfortably and VTOLS of any size
+- 4 quad rotors with independent control for pitch and roll adjustment, as well as extra lift for cargo
+- For maximum control authority, quad rotors extend outward and back when unfolding.
+- For yaw control and for level forward thrust, quad rotors tilt to a near-vertical orientation.
+- The carrier can hover and flip entirely from vertical to horizontal. (It accidentally went nose up when I was not paying attention once. It had the power to level out from pointing straight up without loosing much altitude. I have not yet attempted a full flip or barrel roll.)
+- Magnets safely weld unfolded parts for stability and to reduce lag
+- 4 adjustable helium anchor bouys lock the carrier into position for landing approaches (also to reduce lag when smaller craft are landing)
+- Loading bay on lower level can be lowered to pick up wheeled or walking vehicles
+- Personal purple noob plane on deck for the captain's use
+- There is an aircraft elevator for small/medium craft to move from deck down to second level
+
+I should probably make a youtube about it? I love how people love to land on it, whether I'm ready or not.
+creations-chat 2019-02-05 23:49:49 Re-submitted to clarify ranks requested
+creations-chat 2019-02-05 23:52:44 Rank creds:
+VTOL: Yep. It goes up. It goes down. It flies around.
+Server Exterminator: 4000+ blocks. If I don't have magnets engaged to lock down loose parts, no anchors engaged, and someone tries to land on the deck - gravity and time nearly stop for any pilots on deck.
+Floating Fortress: I have had 4 planes on the deck. I've also had planes land in the lower cargo bay. I'm not thrilled when planes land *ON* the quad rotors. I did build grills above them to protect them. "Entire flight deck must be above water in order to qualify." - technically, yes! It's well above the water! I can take a picutre of it floating if I have to...
+Inventor: The port and starboard sides each have a linked pair of quad rotors. Each pair of side rotors is always *parallel* (edit: not perpendicular). Left side pair can go forward while right side goes back or stays level. There is a suspension+rope return-to-center mechanism with adjustable tension (tighten the ropes) to lock the rotors into level position for hovering. (or to overcome the stress when some yahoo lands on the actual rotor! XD ) That took some trial and error and several scrapped ideas to get right.
+creations-chat 2019-02-05 23:57:02 😋
+creations-chat 2019-02-06 00:28:38 Are you, though?
+creations-chat 2019-02-06 00:28:48 I'm pretty sure it was  a bad idea. 😉
+help 2019-02-06 02:39:39 I realised today I can determine how many of each part it's in my ship by subtracting the amount left in inventory from 1500.
+help 2019-02-06 02:40:13 And if I knew the weight of each part, I could then add it up.
+help 2019-02-06 02:41:18 Does anyone know the weight of each part? Is a 1x7 beam 7 times heavier than a block?
+help 2019-02-06 02:41:42 Do two half blocks weigh the same as one solid block? Etc
+help 2019-02-06 04:56:26 <@456226577798135808> , you shouldn't make comments about other people's mothers. Especially considering that yo momma so fat, even if <@456226577798135808>  builds a machine to find her exact weight, <@476629966780497931> still won't know what to do with the data.
+bug-reports 2019-02-07 05:24:21 Gleaner is a bug
+bug-reports 2019-02-07 05:24:25 
+bug-reports 2019-02-07 05:25:29 
+bug-reports 2019-02-07 05:25:41 Please ban this confused person.
+bug-reports 2019-02-07 05:43:50 I hate this alt-right time-wasting thought garbage
+bug-reports 2019-02-07 05:43:55 
+bug-reports 2019-02-07 05:46:49 Oof. That's worrying
+bug-reports 2019-02-07 05:46:55 
+bug-reports 2019-02-07 05:47:52 
+bug-reports 2019-02-07 05:48:46 
+bug-reports 2019-02-07 05:51:54 It's one thing to "be bored" and draw a swastica parade float.
+bug-reports 2019-02-07 05:53:13 Say it's a joke, then to follow it up with 4chan hatebro talking points
+bug-reports 2019-02-07 05:53:17 it's not a joke.
+bug-reports 2019-02-07 05:54:02 Gleaner! So good to see you!
+bug-reports 2019-02-07 05:54:28 I'm going to let mods deal with you. Your BS is sooooo thick
+bug-reports 2019-02-07 05:54:31 Good night
+bug-reports 2019-02-07 05:55:10 Your cousin seems to be real quick with the alt-right rhetoric
+bug-reports 2019-02-07 05:55:27 The rhetoric of pathetic scared angry people
+bug-reports 2019-02-07 05:55:40 Try to give him some perspective.
+bug-reports 2019-02-07 05:55:50 I'll say a a prayer for your "cousin"
+bug-reports 2019-02-07 05:56:29 If my cousin got on my laptop and defaced my account with hate symbols...
+bug-reports 2019-02-07 05:56:46 I'd award him douchecanoe of the year
+bug-reports 2019-02-07 05:57:00 But, for damned sure, I'd punch the twit
+bug-reports 2019-02-07 05:57:13 I'm good
+bug-reports 2019-02-07 05:57:18 OK.
+bug-reports 2019-02-07 14:25:01 XD
+bug-reports 2019-02-08 03:05:32 Oof. Looks like this update killed my CloudCarrier. Before snow update, I got 60FPS before spawning my carrier, then 25-40 after I launch. Occasional dips to 10fps while I unfold and latch the magnets.
+bug-reports 2019-02-08 03:07:24 Now, it's just...  death. 20FPS before even launching while still in build mode. 0.5 to 5FPS where I used to be getting 25 to 40 only 24 hours ago.
+bug-reports 2019-02-08 03:12:20 Liftoff at 2FPS is painful
+bug-reports 2019-02-08 03:12:43 Also, when I spawn it, everyone on the server gets zero FPS for several seconds.
+bug-reports 2019-02-08 03:13:04 So... CloudCarrier is on hiatus until there is a lag fix release
+bug-reports 2019-02-08 03:21:01 Does Moore's Law still work? I'll be back in 2025 when computers are fast enough for this...
+bug-reports 2019-02-08 03:21:04 
+bug-reports 2019-02-08 18:38:40 That's a relief. I went poking through the microprofiler to get some clues why things were so much slower for me.
+bug-reports 2019-02-08 18:40:14 On a PC where GPU was def not an issue with a higher clock speed than my main, no surprise - better FPS, still one CPU core pegged for Roblox.
+bug-reports 2019-02-08 18:40:23 All the time spent in physics
+bug-reports 2019-02-08 18:48:10 doWorldStep, newStepContacts, and stepContacts taking up most of that.
+bug-reports 2019-02-08 18:49:16 With a high enough CPU clock, I can still get enough FPS to fly my lag carrier, but I won't load it into public servers - when I launch it locks up other clients sometimes for a few seconds.
+bug-reports 2019-02-08 18:49:30 Looking forward to the fix!
+bug-reports 2019-02-08 18:59:03 Sure did! I'm comparing right now.
+bug-reports 2019-02-08 19:04:27 Opposite here: The plane on the deck of my carrier has has it's automatic roll control broken since the last build. Mouse didn't roll any more. Now, it's suddenly fixed.
+bug-reports 2019-02-08 19:04:39 Build before last broke it, sorry
+bug-reports 2019-02-08 19:29:01 Lost control - but physics surprisingly dead:
+First load - control was good. FPS OK
+got distracted for a minute before physics started glitching
+... returned to build mode
+Second load - Can't control anything with keybinds
+- microprofiler shows physics system not doing anything at all
+bug-reports 2019-02-08 19:29:07 I'm seeing if I can recreate it
+bug-reports 2019-02-08 19:37:19 Actually, I crashed physics without going back to build mode.
+bug-reports 2019-02-08 19:37:40 Did not get f9 results before roblox client crashed... Will try again.
+bug-reports 2019-02-08 21:30:51 I'm getting crashes...
+creations-chat 2019-02-10 04:52:52 Rank Requested: Floating Fortress
+It's still the Cloud Carrier, but I don't have room for anyting else in my save data. XD
+Currently standing at 4100 blocks.
+creations-chat 2019-02-10 04:53:48 The bridge/control tower upgrades above the deck were from TheArkMecha
+creations-chat 2019-02-10 04:58:50 Before the tower upgrade, we had quite a few planes on board
+creations-chat 2019-02-10 05:03:47 That's not what the description says.
+creations-chat 2019-02-10 05:04:00 It says the deck has to be completely *ABOVE* the water
+creations-chat 2019-02-10 05:04:09 ✅
+creations-chat 2019-02-10 05:04:40 XD
+bug-reports 2019-02-10 05:07:52 When I got out of my pilot seat, the quad rotors on my ship suddenly went to full speed and the welds on the magnets broke. It wasn't pretty.
+bug-reports 2019-02-10 05:07:54 https://streamable.com/kkejo
+creations-chat 2019-02-10 05:09:01 https://streamable.com/mlk2w
+creations-chat 2019-02-10 05:09:01 OK, streamable:
+creations-chat 2019-02-10 05:16:20 https://streamable.com/l6jxu
+bug-reports 2019-02-10 18:24:28 I posted a video yesterday of jumping out of craft, motors going berserk.
+bug-reports 2019-02-10 18:26:03 It's legit. I took a minute to level my carrier, then get out to talk to someone on deck. Then my motors went so fast, they broke the magnet welds that hold them steady
+bug-reports 2019-02-10 18:27:14 https://streamable.com/kkejo
+bug-reports 2019-02-10 18:28:20 Those 4 motors are on 4 different keybinds, and I def wasn't pressing them when I jumped out.
+bug-reports 2019-02-10 18:30:02 Actually, in that run, I had already exited my main pilot seat, noticed the deck was crooked - then say down in the control tower pilot seat, leveled out and anchored the deck
+bug-reports 2019-02-10 18:30:56 Upon jumping out of the non-main seat: that's when it went crazy.
+
+So maybe it's from getting in and out, or maybe just the non-main seat
+help 2019-02-10 20:22:49 Should my rotors be able to spin at full speed with maxtorque set to 10, speed=20?
+help 2019-02-10 20:23:27 I use a control scheme where the motor doesn't have enough torque to go full speed and I use super rockets to add thrust.
+help 2019-02-10 20:23:51 But if it's going full speed at torque 10... This idea doesn't work. It's not a small rotor. Is this a new issue?
+help 2019-02-10 20:31:11 :/ I just spawned and none of my keybinds did anything. I should have hit f9.
+help 2019-02-10 20:31:30 I went to an empty VIP server to see if it's OK there
+bug-reports 2019-02-10 20:35:49 
+bug-reports 2019-02-10 20:36:11 Nil indexes on magnets? I don't know what is happening here, but this is just on load
+bug-reports 2019-02-10 20:36:42 
+bug-reports 2019-02-10 20:49:32 Happens every time I launch, but I'm not sure if I'm seeing any undesirable behavior because of it.
+bug-reports 2019-02-10 21:00:25 Motors are not respecting max torque.
+bug-reports 2019-02-10 21:01:04 They appear to be using enormous amounts of torque whatever you set it to.
+bug-reports 2019-02-10 21:02:50 Also - when I get out of my craft an the motors overcome the magnet weld, there is nothing in the error log about it. ( I started recording, then it did the thing )
+bug-reports 2019-02-10 21:03:14 
+bug-reports 2019-02-10 21:05:40 https://streamable.com/phdg8
+bug-reports 2019-02-10 21:06:25 10 seconds in, I jump out of my seat and the magnets break
+help 2019-02-10 21:07:28 Plane crazy is likely to use up a full core for physics calculations
+bug-reports 2019-02-14 13:26:10 For both of you, Roblox is using about 50% of four logical processors.
+bug-reports 2019-02-14 13:26:59 One of you is seeing that thread activity spread out a little
+bug-reports 2019-02-14 13:28:37 Some Intel processors (I think common with I5) have two hyper-threaded cores, which is almost like having 4 CPUs, but not
+bug-reports 2019-02-14 13:29:54 Some Intel processors can run at a higher clock rate by temporarily turning off hyperthreading
+bug-reports 2019-02-14 13:31:28 So for anything that has a single thread maxing out a CPU, the processor decides it can run faster by boosting clock speed and running fewer concurrent threads
+bug-reports 2019-02-14 13:31:45 In other words, it's complicated
+bug-reports 2019-02-14 13:32:53 And I'm pretty sure Roblox physics engine isn't set up to take advantage of multiple cores - not more than 2, anyway
+bug-reports 2019-02-14 13:46:11 It depends. With Roblox, you def get more out of boosted clock speed than turning on more CPUs.
+bug-reports 2019-02-14 13:53:38 https://www.intel.com/content/www/us/en/architecture-and-technology/turbo-boost/turbo-boost-technology.html
+bug-reports 2019-02-14 13:55:18 The new update is a glitchfest. I'm not trying to work on much until some more fixes come
+bug-reports 2019-02-15 20:43:47 Right now, I know my creation will not respond to physics or keybinds  the second time I load it. So after I test it, I save and exit the server, and come back in for my next test.
+bug-reports 2019-02-15 20:44:21 I'm using a VIP server for that. Sometimes I get this message:
+bug-reports 2019-02-15 20:44:24 
+bug-reports 2019-02-15 20:44:26 Or one like it.
+bug-reports 2019-02-15 22:02:01 I kinda wish there was a sticky for all the bugs we're aware are in there. Motor lock. Floppy wheels. snow stuff. Etc
+help 2019-02-17 22:26:53 Does anyone know if there is a good way to make 180 folds with a block of air in between?
+help 2019-02-17 22:27:22 RN, my best idea is to put the motor on a suspension so it can spring into the proper alignment.
+help 2019-02-17 22:28:45 I'm trying to keep the motor from sticking out on the outside.
+help 2019-02-17 22:30:07 The 180 split in there has the motor sticking out.
+help 2019-02-17 22:30:22 LOL, no it don't!
+help 2019-02-17 22:30:55 Sorry - I think my tone didn't come across how I meant it.
+help 2019-02-17 22:31:57 I already have one solution (suspension) where the motor settles inside. I was just wondering if anyone knew of a better one.
+help 2019-02-17 22:34:21 I am sorry if I said something that set you off. Throwing "annoying brat" out there is legitimately toxic and uncalled for.
+help 2019-02-17 22:35:42 I have thick skin and will brush it off.
+help 2019-02-17 23:14:35 Russian Dolls
+help 2019-02-17 23:15:03 But they're rockets?
+bug-reports 2019-02-20 17:57:03 Possible workaround for "Roblox physics" ragdoll insanity: maybe keep track of the players "sane" position every .1 seconds or something. As long as the speed and acceleration of the playermodel is sane, keep updating it. Something like
+
+sanePosition = playerCharacter.HumanoidRootPart.CFrame
+
+Then once acceleration or speed becomes insane and they are not in a vehicle seat, do something like
+playermodel:SetPrimaryPartCFrame(sanePosition)
+And then kill all the players velocity.
+
+This would protect against parachute glitches, players flinging off of parts unexpectedly, and trolls griefing the server with flinging machines.
+
+The only issue then would be if the place you were .1 seconds ago is now inside something else and you get stuck inside a block.
+bug-reports 2019-02-20 17:59:02 I think the benefits would outweigh the inconvenience of being thrown into outer space unless you're in a creation going for the lightspeed rank
+bug-reports 2019-02-20 19:49:48 Here's a magnet fix request/suggestion: a   only, weld, and align all checked and the magnets are about to weld, see if you can set the position of the location with lower mass aligned with section of the part with higher mass, with the magnets squared up face to face.
+
+Maybe put a BallSocketConstraint between them with limits enabled or a spring constraint with free length set to zero, then disable any other constraints between the two for a moment while it settles into aligned position before welding.
+bug-reports 2019-02-20 19:54:01 Roblox physics workaround again - the "bug" is when after unfolding a creation and I toggle the weld magnets on, it can glitch warp out of the known universe. I've learned to decrease the chances of that by a lot, but there is still a good chance it will weld into a glitchy position that only gets worse when I unweld. Especially if the magnets are intersecting a little bit. Then I have to despawn and start over.
+
+Once everything is welded, things go pretty well, though!
+bug-reports 2019-02-23 20:01:31 Spring length setting is not quite right.
+bug-reports 2019-02-23 20:04:48 Spring lengths are 3(minimum value), 5, 7.5, 10, and 15
+bug-reports 2019-02-23 20:25:02 The strength doesn't seem to matter
+bug-reports 2019-02-25 01:40:52 Sometimes when I spawn a very large creation (like 4800 blocks), keybinds and physics give up for that creation on that server.
+bug-reports 2019-02-25 01:41:43 
+bug-reports 2019-02-25 01:43:00 
+bug-reports 2019-02-25 01:44:04 I can load another creation and it works. If I re-load the one that stopped working, it's no good. (I'm checking this is stil the same after the last update.)
+bug-reports 2019-02-25 01:49:13 Huh. Nevermind. Since the last update, I can load something else, load the big one back, spawn, and keybinds work again.
+bug-reports 2019-02-25 01:49:23 I'll take it!
+bug-reports 2019-02-25 02:47:13 In the random chaos of bug fixing and bug creation - I'll take this one. If all I have to do is reload the creation to get keybinds back, I'd rather haver more stuff like the color picker.
+bug-reports 2019-02-25 02:48:26 Bug: The color picker displays a color code, but it doesn't display the RGB colors
+bug-reports 2019-02-25 02:48:30 It's still awesome.
+bug-reports 2019-02-25 02:49:28 A keybind or right click for color picker would be really great
+bug-reports 2019-02-25 02:49:52 Right click for block picker when you're in the build tool would be even better
+bug-reports 2019-02-25 03:33:40 Right click could do both
+bug-reports 2019-02-25 03:34:00 Right clicking doesn't do anything to the camera unless you hold it down and move the mouse
+bug-reports 2019-02-26 02:29:00 Sometimes I lose keybinds since the winter update. My first load has always been fine, but i'm rolling the dice on the second third or fourth. This is on a VIP server with only me on it. And this is an issue coming up with a large build where the frame rate can dip quite low when the creation initially spawns.
+bug-reports 2019-02-26 02:29:43 I posted logs yesterday where there were "weld" errors. Most of the time, the issue has occured with no errors at all:
+bug-reports 2019-02-26 02:30:16 
+bug-reports 2019-02-26 02:31:28 There have been times I could load another creation and go back to the large creation and it will work. That's worked twice. Most of the time it doesn't and I just have to leave the VIP server and start another one to get my keybinds back.
+help 2019-02-26 16:55:36 <@!242650210583576576>  - keep an eye out for the development of perestroika
+help 2019-02-26 16:56:23 Actually, never mind. Just get some bombs on that and name it the perestriker
+help 2019-02-26 16:57:46 Sorry - I lived through the 80s. Gorbechov brought in some looser more market-friendly policies. I'm pretty sure that's what perestroika was.
+help 2019-02-26 16:58:03 then the Berlin wall came down and it wasn't long until the USSR broke up.
+help 2019-02-26 16:58:17 all of them, yes
+help 2019-02-26 16:58:38 Oh, yeah. Video games are dangerous for me.
+help 2019-02-26 16:59:03 also, not really. It's a people who play games games, but it's more kid-friendly than most.
+help 2019-02-26 16:59:33 It's not a kids game - it's a people make their own games and that's the point of the platform game. It's like youtube.
+help 2019-02-26 17:01:23 Less polished content, but more of it? Anyway,
+help 2019-02-26 18:46:10 Oh, I missed that esiotrot121 was looking for a ban
+creations-chat 2019-02-27 06:20:32 I get a little closer every day to being ready to request floating fortress for the CloudCarrier
+creations-chat 2019-02-27 06:21:22 Landing jetliners is still a stretch.
+creations-chat 2019-02-27 06:23:08 And work left to do rounding out the asthetics and interior
+bug-reports 2019-02-27 06:32:55 Bug: My existence? And the fact that I'm allowed to play this game. LOL
+bug-reports 2019-02-27 06:32:56 https://streamable.com/kx3sw
+bug-reports 2019-02-27 06:38:21 I wasn't able to get to the bottom of that error list to see if the errors may have caused my disconnection. Or if it was just roblox being roblox
+creations-chat 2019-02-27 06:39:58 Also ... I think I need to add some movable balast and up the power on the the outer rotors to handle unbalanced loads
+creations-chat 2019-02-27 06:39:59 https://streamable.com/t0p0c
+bug-reports 2019-03-01 18:42:26 <@!327547511726407680> - I see a SERIOUS bug here. You're claiming you did not make a jet tank, and that is a major disappointment. 😦
+bug-reports 2019-03-01 18:43:58 I've also had the spawn on a ghost creation bug. Someone's medium sized helicarrier was stuck inside the cargo bay of my giant hover carrier.
+bug-reports 2019-03-01 18:50:14 Ghost creation left behind in my build spot on Feb 05 - i guess this still happens.
+bug-reports 2019-03-01 18:52:04 Physics is dead-ish on ghost creations. You collide with them, but they don't move in response.
+bug-reports 2019-03-01 18:53:19 I was able to glitch out of the spot with some work, but the ghost acted like it was anchored in that spot - which is what it would do if the other creation was in build mode, come to think of it.
+bug-reports 2019-03-01 18:54:42 <@!271299269984518155> - Not that I don't want to see motor locks fixed, but I've never been satisfied with the way they work anyway for unfolds - not compared to hard welds with magnets
+bug-reports 2019-03-01 18:55:17 You can use this time to investigate locking down folds with magnets. Or latches.

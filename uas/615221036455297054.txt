@@ -1,0 +1,39 @@
+The Tale of pakistaniaviator (615221036455297054)
+bug-reports 2020-12-10 02:08:02 Not sure if this is a bug, but sometimes when I turn on the engine it makes a weird monster noise like MUMUMUMU
+bug-reports 2020-12-10 02:08:51 Oh okay I just read pins
+bug-reports 2020-12-10 02:10:06 If you set 2 motor 2 to different speed and lock the angle to 90 and use it for landing gear, it will glitch and not go to the designated spot you want it to go
+bot-central 2020-12-10 02:12:38 recovered cases for covid are almost at 69.420 percent
+bot-central 2020-12-10 02:12:49 ?covid
+bot-central 2020-12-10 02:13:00 ITS ALMOST THERE
+bot-central 2020-12-10 02:13:14 ?covid
+bot-central 2020-12-10 02:13:24 Still at 69.31
+bot-central 2020-12-10 02:13:39 ?covid
+bot-central 2020-12-10 02:14:08 probably updates every min
+bot-central 2020-12-10 02:14:16 ?covid
+bot-central 2020-12-10 02:14:45 ?covid
+bot-central 2020-12-10 02:14:59 ?covid recovered
+bot-central 2020-12-10 02:15:21 ACTIVE ALMOST THERE
+bot-central 2020-12-10 02:16:18 One Mote time
+bot-central 2020-12-10 02:16:20 more*
+bot-central 2020-12-10 02:16:25 ?covid
+bot-central 2020-12-10 02:16:40 okay 1 hour it is
+bot-central 2020-12-10 02:25:48 ?covid
+the-dump 2020-12-11 18:03:02 
+the-dump 2020-12-12 22:45:18 
+the-dump 2020-12-16 18:39:57 
+the-dump 2020-12-16 18:40:06 AMONG US 2
+the-dump 2020-12-16 18:40:27 YES
+bug-reports 2020-12-17 02:55:56 I got the Winter event 2019 completion badge for completing the event this year
+bug-reports 2020-12-17 02:56:30 use the corner clip glitch
+bot-central 2020-12-18 06:15:08 &suggest Add a .5 x 1, 2, 3, or 4 wing panel. This is useful for those who want to make flaps using motors
+the-dump 2020-12-21 19:10:54 
+the-dump 2020-12-24 00:54:18 
+bot-central 2021-02-14 05:42:56 ?shelp
+bot-central 2021-02-14 05:53:13 &suggest [Rescalable Wedges]
+[Building]
+Make it so you can rescale wedges like triangle wedges, traingle wedgeblocks, etc. With this feature, you can make triangle wedgeblocks 2x2, 2x3, 3x3, 3x3, etc. It can be in any shape up to 5x5. This feature will help people who are having trouble filling in gaps on plane noses.
+Links - https://media.discordapp.net/attachments/710220929204224183/810387165233545256/unknown.png - In this case, I want to make a triangle wedge 2x2, but it would be tough to figure out a way to fill this gap. Link 2: https://media.discordapp.net/attachments/710220929204224183/810387318652403732/unknown.png - There would be a scaling menu on the bottom of your screen, you can increase the height, width, and breadth, but you cant go any higher than 5x5x5. This will make it easier to fill in gaps.
+bot-central 2021-02-14 05:54:31 Oh yeah
+the-dump 2022-01-20 00:26:07 Gonb
+help 2022-07-12 07:50:31 Anyone knows why this cabin wont fully lock? Its always stuck like this
+help 2022-07-12 13:29:53 It its on anchor emable physics

@@ -1,0 +1,8 @@
+The Tale of Dylan0Nuggets (446674472842428437)
+bug-reports 2020-04-24 12:40:53 got a new glitch i just found
+bug-reports 2020-04-24 12:42:25 
+bug-reports 2020-04-24 12:42:41 
+bug-reports 2020-04-24 12:44:00 As you can see in this picture i was using an upside down landing gear and a camera to make sights on this cannon, but for some reason the combination just messes up everything. Either the camera or the landing gear can be there, not both
+bug-reports 2020-04-24 12:44:28 
+bug-reports 2020-04-24 12:44:31 
+bug-reports 2020-04-24 12:44:48 As you can see, removing them solves the issue

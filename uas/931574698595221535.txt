@@ -1,0 +1,42 @@
+The Tale of woodland_arthropod (931574698595221535)
+creations-chat 2022-06-05 05:42:34 very cool! Love the detail!
+creations-chat 2022-06-05 05:45:54 uhhhhh...
+creations-chat 2022-06-05 05:49:31 Guess what, I didn't choose it for you. Bye~
+bot-central 2022-06-05 06:03:43 !rank
+help 2022-06-06 14:26:27 I'm having trouble getting my mini-submarine to go at a decent speed. While submerged it only travels at about 30-40.
+help 2022-06-06 14:30:12 I'm aware, but I need to find a sufficient thrust or propulsion to accommodate it.
+help 2022-06-06 14:31:51 It would be easier to just show it at this point so you guys can see what's gone wrong.
+help 2022-06-06 14:33:14 the interior cylinders are hover engines
+help 2022-06-06 14:34:43 I know submarines are usually long & tubular, but I'm building from reference.
+help 2022-06-06 14:38:56 I don't believe so
+help 2022-06-06 14:39:17 I assume you mean in the building stage?
+help 2022-06-06 14:42:23 maybe try using half blocks? Though I assume you'd have tried that already.
+bot-central 2022-06-06 14:46:36 !rank
+help 2022-06-06 14:47:06 is 50 a decent speed for a mini-sub? idk
+help 2022-06-06 14:48:28 ok, cool
+help 2022-06-06 14:49:33 I guess it doesn't really matter anyway since it's a relatively small map at the moment.
+bot-central 2022-06-06 17:21:24 !rank
+bug-reports 2022-06-07 07:12:45 idk if this has already been mentioned or not, but cutter blocks don't work in private ervers, even when all the players in said server have PVP turned on.
+bug-reports 2022-06-07 07:16:55 okay.
+bug-reports 2022-06-07 07:17:28 What speeds are optimal for cutter blocks to function?
+bug-reports 2022-06-07 07:18:27 I'm using my cutters on a drill rotated by a motor
+bug-reports 2022-06-07 07:19:44 the motor itself is on top speed but the drill is usually stationery
+bot-central 2022-06-07 07:21:05 !rank
+bug-reports 2022-06-07 07:56:33 ok
+bug-reports 2022-06-07 08:04:50 bug cuz it's not working or bug cuz you think it's one of those cheap copy & paste drones?
+bug-reports 2022-06-07 08:07:47 ik, there's at least one in every pvp server normally
+bug-reports 2022-06-07 08:08:33 *this*. It's not one of those bug clones
+bug-reports 2022-06-07 08:09:31 yup
+bug-reports 2022-06-07 08:10:05 & according to the creations channel this server does *not* like Thunderbirds so far.
+bug-reports 2022-06-07 08:10:18 Though I don't wanna get too off topic.
+bug-reports 2022-06-07 08:12:35 what even is the up/downvote thing for? Feedback would be helpful instead of a vague emoji thing. Anyway, I should find a more appropriate channel to continue this.
+bug-reports 2022-06-07 08:13:25 ok
+bug-reports 2022-06-07 08:13:29 thx
+creations-chat 2022-06-07 08:34:45 The Mole. The best machine I have for travelling in the canyon regions of the map. & can move comfortably on any terrain. (except the ocean obviously)
+creations-chat 2022-06-07 08:38:07 mostly for rescue rp, finding players in tight spots & cutting through walls(pvp) to get to survivors of crashes & ect. (& it's handy for wriggling if it gets stuck.
+creations-chat 2022-06-07 08:41:03 I made it from reference. It's a pod machine from Thunderbirds
+creations-chat 2022-06-07 08:45:58 Thunderbird 4. From the same set of machines as the Mole. Is a bit tricky to operate on land, but can be transported in Thunderbird 2 to get to its destination. While submerged, it has a speed of roughly 50. As well as a magnetic grip on the from for carrying smaller items.
+creations-chat 2022-06-07 09:07:54 Thunderbird 2. Large(ish) transporter craft. Middle section descends to allow for the pod vehicles to park inside. Vehicles are held in place with magnets & an additional magnet on a cable for fishing out smaller objects. (Tho I don't often use the front grapple since the extra weight added to the front makes flying... difficult.)
+creations-chat 2022-06-07 20:56:37 looks fine the way it is to me, but how well does it drive?
+creations-chat 2022-06-07 20:59:53 I would though recommend changing the windows to glass if possible.
+creations-chat 2022-06-07 21:12:19 FAB-1 Rolls Royce. Super rocket engine booster, +conveyors, 4 concealed guns beneath the wheels as well as 2 water propellers for aquatic travel.

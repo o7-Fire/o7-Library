@@ -1,0 +1,47 @@
+The Tale of bombermanking24 (353354027968233482)
+help 2020-10-10 03:54:45 Is there a way to understand motor locking for builds? I wanna take my builds up a level.
+bot-central 2020-10-23 07:26:55 ?rhelp
+help 2020-11-26 06:05:14 I've been making a airship and when i fold it it freaks out and breaks. I've set the folding motor to 179, I've had a locking mechanism and still it freaked out. Any suggestions?
+help 2020-11-26 06:11:24 It freaks out and slams itself into itself and gets stuck like this
+help 2020-11-26 06:15:24 yeah
+help 2020-11-26 06:18:48 yeah that fixed it, thanks everyone
+bot-central 2021-01-30 02:18:58 !rank
+creations-chat 2021-05-12 20:08:50 im sure its fine
+help 2021-05-16 01:34:54 Is there a way to get the motors to stop swinging back and forth? The vehicle I'm making can't turn well when the wheels are flopping randomly disregarding button input. I've tried both motor 1 and 2 but it still is uncontrollable. Ping with response
+help 2021-05-16 01:49:33 pain
+help 2021-05-16 01:51:10 ill try it but I'm lacking space so it'll be hard to fit
+help 2021-05-16 01:52:11 It's too big for something like that
+help 2021-05-16 01:54:02 huh, never seen something like that. ill give it a try
+help 2021-05-16 01:56:49 now it works well enough
+help 2021-05-16 01:57:02 thanks <@!674434894616854548>
+help 2021-05-16 01:59:49 yeah i added two more on each wheel and now its fairly stable
+help 2021-05-16 02:01:05 Not sure how it works, but if it works it works. That and it fits without interfering.
+help 2021-06-04 21:56:43 Is there a way to stop the bouncing? It makes the vehicle unable to turn well.
+help 2021-06-04 22:07:45 doesnt help, it still bounces and its supposed to be able to flex anyway
+bot-central 2021-06-22 01:24:22 !rank
+help 2021-06-26 05:50:53 i think the half-blocks that are supposed to make the bottom of the plane are connecting with the blocks below, my guess is to have the guns and blocks connecting them a block lower and add an extra set of motor locks to bring it up. other than that idk whats causing that
+help 2021-06-26 22:08:15 its falling out because the wheels cant turn with the tracks. have the two wheels connected like a solid axle and have a free spinning motor in the center.
+help 2021-06-26 22:15:37 <@!371036190767448065> i made an example of what i was talking about because i kinda suck at explaining things
+help 2021-06-26 22:20:56 its a motor 1 thats not powered, its in the middle so when the "axle" rotates the wheels stay aligned on the track.
+help 2021-06-26 22:26:06 <@!371036190767448065>  I realized i made an error, the wheels were on wrong. they are corrected in this pic. also this is the rear view
+help 2021-06-26 23:25:07 yeah
+help 2021-06-26 23:27:19 
+help 2021-06-26 23:27:32 
+help 2021-06-27 00:13:26 I'm not sure how I should cover the suspension in the bed of the truck I'm working on. If I do a full liner of half blocks its too tall and looks weird. Any suggestions on how to handle the wheel well?
+help 2021-06-27 00:34:09 nvm I got it
+help 2021-06-27 15:19:32 No, it works just fine
+help 2021-06-27 17:10:18 do what?
+help 2021-06-27 18:08:35 Like in the picture as long as the wheels are close together on the same rail, along with the free spinning motor in the center of the wheels like before it should work fine. (The part holding the wheels is a 5x5 square with the wheels at each corner) The horizontal motors are there to allow the wheels to pivot to keep level with the ground on hilly parts.
+help 2021-07-12 03:05:23 I made an 8x8 chassis but idk what body i should put on top
+help 2021-07-12 03:13:16 i thought of adding a center steering hinge but id have to work around this and i didnt want to.
+help 2021-07-12 03:17:46 what?
+help 2021-07-12 03:33:22 why does it need a clock?
+help 2021-07-12 05:29:42 it kinda is, but it was necessary to shorten the overall length
+creations-chat 2021-08-05 23:15:06 lightish red
+creations-chat 2021-11-08 03:44:43 I want some feedback if I can improve this 3 linkage suspension I made https://streamable.com/r8murb
+creations-chat 2021-11-08 03:48:56 Damn how am I supposed to keep up with these talented builders 😔
+creations-chat 2021-11-08 03:55:00 Yeah eventually I'm going to make it small enough for at least the 5x5 cylinder to be used as wheels. MAYBE even 3x3 but that might be pushing it but I won't know till I start shrinking it down.
+creations-chat 2021-11-08 04:14:32 I made the previous design smaller and more compact-ish. (The motor-locking in the middle was because I was lazy and didn't want to delete a bunch of stuff <:trollface:775024642104229898>) https://streamable.com/av8nb3
+creations-chat 2021-11-08 04:17:03 exposed motorlock <:trollface:775024642104229898>
+help 2021-11-08 04:21:01 Maybe a chain of loose motors?
+help 2021-11-10 00:12:32 Any idea on how to attach suspension onto this?

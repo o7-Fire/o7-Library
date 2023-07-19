@@ -1,0 +1,188 @@
+The Tale of miloold (551950808632000512)
+help 2020-10-16 21:01:08 does anyone know how to make pistons that dont shake immensely when under weight? I have a tanker truck that can disconnect the cab from the tank and re connect but the pistons that hold up the tank make the tank wobble alot
+help 2020-10-16 21:02:43 they are at max force
+help 2020-10-16 21:03:49 hm
+help 2020-10-16 21:03:50 okay
+help 2020-10-16 21:04:20 im not that new to the game, but im new to pistons, ive barely used them
+help 2020-10-16 21:04:51 yeah
+help 2020-10-16 21:05:03 okay so your tip helped but its still wobbling a tiny bit but, thanks
+help 2020-10-19 21:00:28 anyone have any tips to make a hover drive plane (or any 550+ speed plane) more stable WITHOUT a use of changing to a conveyor drive or something?
+help 2020-10-19 21:02:51 less control surfaces?
+help 2020-10-19 21:03:23 oh
+help 2020-10-19 21:03:38 alright thanks for the tips, i'll take those into consideration
+creations-chat 2020-10-20 20:41:20 even if rickje doesnt ban people doesnt mean you should do it if it breaks the rules.
+creations-chat 2020-10-20 20:42:21 koolio
+creations-chat 2020-10-20 20:43:32 the tentacles do move on ghasts in mc i think
+creations-chat 2020-10-20 20:44:49 > they slightly wiggle
+@alxti (fake ping) mhm
+bug-reports 2020-10-20 20:55:56 try rejoining?
+bug-reports 2020-10-20 20:56:06 mine got wiped but i rejoined and they were back
+bug-reports 2020-10-20 20:56:08 oh.
+bug-reports 2020-10-20 20:56:11 f
+bot-central 2020-10-20 20:58:14 f
+help 2020-10-22 01:25:25 is there any way to change the language the text appears as in plane crazy?
+the-dump 2020-10-22 10:04:11 yeah that's weird
+the-dump 2020-10-22 10:04:50 i didnt really find it funny but im playing along
+the-dump 2020-10-26 09:23:30 <:wot:695654208837255219>
+help 2020-10-27 18:23:09 does anyone have any tips of how to make a simple heli rotor that doesnt have 2 stacked on top of eachother (if that makes sense)
+help 2020-11-13 04:35:47 anyone know how to make fast, well handling, engines that are throttlable (not conveyor drives, those are practically on/off)that dont lag you? for some reason hover drives lag me.
+help 2020-11-19 18:41:12 i have a question, i have a heli rotor because im making a rotodyne, its just propeller blades with rocket engines on the tips, but the plane goes up and tilts left
+help 2020-11-19 18:41:20 what
+help 2020-11-19 18:42:20 
+help 2020-11-19 18:43:23 .
+help 2020-11-19 21:32:36 okay yes that looks way better but mine just tilts to the left
+help 2020-11-19 21:37:54 mexican standoff
+help 2020-11-19 21:38:22 i just needed help making mine not tilt to the left not start a chain
+help 2020-11-19 21:45:29 its getting worse
+help 2020-11-19 21:45:36 as in the chain not the builds
+help 2020-11-19 21:47:18 me?
+help 2020-11-19 21:47:38 OH GOD ITS THE PIXAR LAMP
+help 2020-11-19 21:48:20 my thing just tilts left whenever the rotor spins
+help 2020-11-19 21:48:24 it goes up but left
+help 2020-11-19 21:49:24 needs to spin faster? im new to using propellers
+help 2020-11-19 21:51:05 it is un powered
+help 2020-11-19 21:51:30 so what im getting is bigger blade and more thrust
+help 2020-11-19 21:52:10 in what way
+help 2020-11-19 21:53:06 yes
+help 2020-11-19 21:53:41 what should i use instead
+help 2020-11-21 06:34:17 Maybe something to do with anchors?
+help 2020-12-04 07:48:42 also to anyone who does suggest this
+help 2020-12-04 07:48:56 suggest like a panel 1 and 2 thing
+help 2020-12-04 07:49:10 one of them is like he said, where the panel is in the middle of the block
+help 2020-12-04 07:49:23 and one thats kinda like a disconnector
+bug-reports 2020-12-23 05:45:07 i joined a server earlier and all items were duplicate
+bug-reports 2020-12-23 05:45:10 i got an image
+bug-reports 2020-12-23 05:45:12 
+help 2020-12-23 05:49:15 a motor 2 on toggle?
+help 2020-12-23 05:59:06 hm
+help 2020-12-23 05:59:56 
+help 2020-12-23 06:00:24 thats what i did for my tomcat
+help 2020-12-23 06:04:04 I put mine under
+help 2020-12-23 06:04:12 its hard to make it without motor lock
+help 2020-12-23 06:04:18 i made mine without motor lock though
+help 2020-12-23 06:04:26 i put it under the wing
+help 2020-12-23 06:05:28 you dont need to
+help 2020-12-23 06:05:35 it just makes it easier if you know
+help 2020-12-23 06:05:45 i didnt use motor lock even though i know how
+help 2020-12-23 06:07:15 
+help 2020-12-23 06:08:10 yeah
+help 2020-12-23 06:08:15 its way easier with motor lock
+help 2020-12-23 06:08:21 and it helps with other builds also
+help 2020-12-23 06:08:36 i wouldve done motor lock if the plane wasnt for a challenge
+help 2020-12-23 06:09:14 it was stressful without motor lock
+help 2020-12-23 06:10:53 motor lock is pretty simple also
+help 2020-12-23 06:14:59 uh
+help 2020-12-23 06:15:13 heres a plane with basic motor lock
+help 2020-12-23 06:15:21 in build mode vs spawned
+help 2020-12-23 06:15:29 true
+help 2020-12-23 06:15:40 in build mode
+help 2020-12-23 06:15:41 
+help 2020-12-23 06:16:05 its basic motor lock
+help 2020-12-23 06:16:15 spawned
+help 2020-12-23 06:16:17 
+help 2020-12-23 06:16:25 its very basic
+help 2020-12-23 06:16:27 and not good
+help 2020-12-23 06:16:48 i purely made it cause i got bored
+help 2020-12-23 06:17:14 the bombs were just me messing upppppp
+help 2020-12-23 06:17:56 you can clip blocks
+help 2020-12-23 06:18:03 you can put a motor inside of a wedge
+help 2020-12-23 06:18:08 and stuff like that
+help 2020-12-23 06:18:22 thats like one minor thing
+help 2020-12-23 06:18:50 you can make a hidden motor so it looks better
+help 2020-12-23 06:18:54 I
+help 2020-12-23 06:18:58 i cant explain
+help 2020-12-23 06:19:04 its pretty straight forward
+help 2020-12-23 06:19:27 motor
+help 2020-12-23 06:19:28 lock
+help 2020-12-23 06:20:08 on what
+help 2020-12-23 06:20:56 
+help 2020-12-23 06:21:03 in build mode
+help 2020-12-23 06:21:27 spawned
+help 2020-12-23 06:21:27 
+help 2020-12-23 06:22:11 it shortens by half a block
+help 2020-12-23 06:22:54 what
+help 2020-12-23 06:22:57 i dont understand
+help 2020-12-23 06:23:59 no as in your question
+help 2020-12-23 06:24:07 
+help 2020-12-23 06:24:20 
+help 2020-12-23 06:24:49 i dont even know what im sending at this point either
+help 2020-12-23 06:26:06 whatever is connected to the base of the motor will come with it when its locked
+help 2020-12-23 06:26:20 if thats what youre asking
+help 2020-12-23 06:27:58 i think you might just need time to look over this
+help 2020-12-23 06:28:48 hm
+help 2020-12-23 06:28:56 yeah maybe that
+help 2020-12-23 06:29:13 its also just a little confusing at first
+help 2020-12-23 06:32:13 i only use minor motor lock, find someone whos actually good at it
+help 2020-12-23 06:34:58 it is basic and minor motorlock
+help 2020-12-23 06:35:13 yeah you seem like a guy who knows his motors
+help 2020-12-23 06:35:30 OR her not assuming genders
+help 2020-12-23 06:35:42 make it when you are rested
+help 2020-12-23 06:35:53 my 3am planes are either my best or my worst, no in between
+help 2020-12-23 06:37:47 you have a point
+help 2020-12-23 06:38:16 im still learning motor lock
+creations-chat 2020-12-23 06:50:28 if its not expert its not good is what ive been seeing in pcc
+creations-chat 2020-12-23 06:52:29 a non-creation was just posted and deleted, right?
+creations-chat 2020-12-23 06:54:36 it depends if the tutorial is well known or not
+creations-chat 2020-12-23 07:01:14 the way to stop this is to either take a picture with less of the titanic so its mainly their actual build or to point out the build
+creations-chat 2020-12-23 07:07:44 "I don't even know (titanic @Deadly_Pr0YT (sorry for pinging you again)) My build is the tiny one on the right." would work <@!485229989537644547> change the 0 to an O so it actually pings them if you want it to
+creations-chat 2020-12-23 07:09:45 alright well it seems this whole, blob of messages is sorted
+creations-chat 2020-12-23 07:11:46 voice typing? maybe they have some type of screen that can make braille from like 2043
+creations-chat 2020-12-23 07:13:58 dont call 666-TITANIC at 3 AM OMG TITANIC ACTUALLY ANSWERED!!! (NOT CLICKBAIT)
+creations-chat 2020-12-23 07:16:32 alright thats good
+the-dump 2020-12-23 07:20:40 what
+the-dump 2020-12-23 07:20:42 HUH
+bug-reports 2020-12-23 08:09:46 i mean
+creations-chat 2020-12-23 15:56:55 why does this picture look so good, it looks like its edited, is it?https://discord.com/channels/384021699466756103/384025409945337856/791332037524586548
+help 2020-12-23 17:53:06 They are inlets I’ve never heard them get called that but
+help 2020-12-23 17:53:17 Half block wedges and conveyors or paint blocks
+help 2020-12-23 17:58:23 1st
+help 2020-12-23 17:59:00 Both are pretty close to the real one
+help 2020-12-23 17:59:35 Mugs, lol
+help 2020-12-23 17:59:52 I like sukhois
+help 2020-12-23 18:00:18 Lol
+help 2020-12-23 18:00:54 My current project is a SU 57
+help 2020-12-23 18:01:21 Fatter f22 basically
+help 2020-12-23 18:03:50 I like that
+creations-chat 2020-12-26 07:10:36 i have a question, as a newbie to plane crazy, how do they have a GUI?https://discord.com/channels/384021699466756103/384025409945337856/792287766003974155
+bot-central 2020-12-29 14:47:58 !servers
+bug-reports 2020-12-29 15:45:05 well uh i guess saves dont work
+bug-reports 2020-12-29 15:45:17 now when i save a lot of the time it shows an old save
+bug-reports 2020-12-29 15:45:28 i literally have to save in autosave
+bug-reports 2020-12-29 15:45:35 in a different server rn though
+bug-reports 2021-01-01 18:26:32 dont have phtos but saves dont work
+bug-reports 2021-01-01 18:26:49 ill save but then if i rejoin its an old save?
+bug-reports 2021-01-01 18:35:48 any way to fix this or do i just have to deal with this for now?
+help 2021-01-01 19:06:19 uhh????
+help 2021-01-01 19:06:33 they are normal motors btw and on powered but this happens?
+help 2021-01-01 19:07:42 also in the video i was **not** pressing any keys for the motors
+help 2021-01-01 19:08:31 okay thanks
+help 2021-01-01 19:08:47 no
+help 2021-01-01 19:09:10 
+help 2021-01-01 19:09:24 i was **not** pressing w s in the video
+help 2021-01-01 19:10:49 i put a bunch of helium and its stil la little wobbly
+help 2021-01-01 19:10:53 still a*
+bug-reports 2021-01-06 15:22:18 my saves get corrupteddd if thats kinda what you have also, ive temp quit for it makes it unplayable since i cant save
+bug-reports 2021-01-06 15:24:24 yeah but hes talking about the fact that you just uploaded a plane crazy video
+bug-reports 2021-01-06 15:24:42 k
+bot-central 2021-01-11 06:47:40 !help
+bot-central 2021-01-23 18:36:29 ?shelp
+bot-central 2021-04-02 16:41:52 -pccmc
+help 2022-02-09 02:39:20 yall so im building a plane and like it doesnt have a lot of control surfaces and wing panels and basically its agile turning-wise but it doesnt go up or down virtually at all and i'm wondering, do i need more wing panels or control surfaces? (ping me if you reply)
+help 2022-02-09 03:17:39 cant wait till we have the resize-able delta wings
+help 2022-02-09 03:17:51 the angle is always too steep or too narrow
+help 2022-02-09 03:21:42 
+help 2022-02-09 03:21:53 best i could line them up
+help 2022-02-09 03:45:24 yall how do you post a suggestion
+help 2022-02-09 04:57:39 plane dont go up or down even though theres like a buncha control surfaces  and helium blocks set to center
+help 2022-02-09 04:57:42 it just go straight man
+help 2022-02-09 04:57:45 idk what to do
+help 2022-02-09 06:22:34 yall i just made it go faster and put more wing panels
+help 2022-02-09 06:22:36 im good
+help 2022-02-11 03:02:11 yall any way i can make a more *round* / *fluid* cockpit? one that looks smoother and less triangular? (yes, i can use motorlock.
+help 2022-02-11 03:22:57 i like the idea of pontoons
+help 2022-02-11 05:21:35 anyone got tips for making a vtol go Straight UP
+help 2022-02-11 05:21:37 cause like
+help 2022-02-11 05:22:12 mine takes off with majority of energy from back and it leans forward at first, and ive modded weight and stuff and its either leaning back or forwards
+help 2022-02-11 05:26:51 motor 2 or motor one
+help 2022-02-11 05:27:01 damn
+help 2022-02-11 05:27:04 well then idk anything lmao

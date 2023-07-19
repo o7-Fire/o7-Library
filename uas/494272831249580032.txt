@@ -1,0 +1,8 @@
+The Tale of yap3797 (494272831249580032)
+help 2022-11-24 20:41:36 anyone got a solution for my chassis bouncing up and down vigorously?
+these are my suspension settings:
+help 2022-11-24 20:41:49 my screenshots are nott working
+help 2022-11-24 20:42:01 damping: 100
+stiffness: 20
+free length: 4.5
+help 2022-11-24 20:42:24 

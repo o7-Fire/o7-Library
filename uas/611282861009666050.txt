@@ -1,2 +1,9 @@
-wildsteakeater
-plane-crazy 2020-05-22 22:05:24 does anyone know how to contro rockets properly or do they need to be fixed?
+The Tale of wildsteakeater (611282861009666050)
+bot-central 2021-08-01 01:01:51 !rank
+bot-central 2021-08-01 01:11:11 !rhelp
+bot-central 2021-08-01 01:11:19 ?rhelp
+bot-central 2021-08-01 01:13:25 ?shelp
+bot-central 2021-08-01 01:43:01 !servers
+bot-central 2021-08-02 18:42:42 ?shelp
+bot-central 2021-12-17 22:04:59 -minecraft
+help 2022-01-04 21:42:05 what does the legacy toggle do on rocket?

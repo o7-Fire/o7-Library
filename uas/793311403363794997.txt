@@ -1,0 +1,5 @@
+The Tale of dinguspigeon (793311403363794997)
+bot-central 2021-12-26 20:29:41 ;;play
+bot-central 2021-12-26 20:29:49 ..,
+bot-central 2021-12-26 20:38:01 ?color beige
+bot-central 2021-12-26 20:38:43 ?color 232, 56, 255

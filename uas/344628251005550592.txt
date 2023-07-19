@@ -1,0 +1,20 @@
+The Tale of realgutty (344628251005550592)
+bug-reports 2020-03-16 23:07:17 -The bug regards motors on small flying vehicles, when flying with something connected to a motor on flying vehicles the vehicle spazzes out when a speed depending on the vehicle is hit.
+-Screen shot below
+-To get the bug, make a smallish plane, then put a motor on it connected to a few blocks, like the wings or something like that, then start flying. When a certain speed is met, your vehicle will spazz out of the sky.
+- Player Name: gutty258758  Slot:21
+-link to glitch happening:
+
+https://youtu.be/K7GJPLmUq6M
+bug-reports 2020-03-16 23:14:34 
+help 2020-03-28 01:55:15 is there a channel to see the rank requirments?
+help 2020-03-28 03:20:52 I'm requesting AERONAUTICAL ENGINEER [II]
+help 2020-03-28 03:20:54 
+help 2020-03-28 03:22:22 <@!335599526414909451>
+help 2020-03-28 03:24:28 thx
+help 2020-03-29 19:31:34 Can i get submarine commander?
+
+https://youtu.be/QCCzIMylNS0
+help 2020-03-29 19:31:55 <@!370594904268734464>
+help 2020-03-29 19:32:31 ?
+help 2020-03-29 19:32:41 Thx

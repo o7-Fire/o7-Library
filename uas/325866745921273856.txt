@@ -1,2 +1,76 @@
-``
-plane-crazy 2019-08-27 17:07:46 So many people trying to spawncamp...
+The Tale of `` (325866745921273856)
+creations-chat 2019-02-28 19:55:03 Magnet propelled frog
+creations-chat 2019-03-01 19:54:27 Mini plane | x2_z | 5 blocks | Microscopic Engineer maybe
+creations-chat 2019-03-03 02:33:32 Is this even a plane anymore | x2_z | 4 blocks| <@456226577798135808> Micro Engineer?
+
+To launch: Give W 2-3 taps and press flip. Adjust engine down and press flip until stable flight is achieved.
+creations-chat 2019-03-03 02:33:52 Probably gonna get rejected for being too simple oof
+creations-chat 2019-03-08 18:40:33 Flying ultra land ship - x2_z - 1057 blocks
+Flying:
+creations-chat 2019-03-08 18:41:08 All doors open:
+help 2019-03-11 16:42:50 I've had the opposite problem with explosive balls, I made a ramp  shaped car with balls and they explode when they hit the border of plots, preventing me from destroying turrets without being next to the plot or delaying arming...
+creations-chat 2019-03-12 23:38:58 Levitating
+creations-chat 2019-03-12 23:39:41 Build mode:
+creations-chat 2019-03-13 02:51:09 I was playing around with blocks and trying to misuse them, its not really a bug but more of using invisible cameras...
+creations-chat 2019-04-03 04:06:57 Spinny springy thingy V2, 0 to 1000 in ~1 second
+help 2019-04-03 04:58:31 Does anyone know how to amplify rotation? I made a mouse steered car but it turns really slowly...
+help 2019-04-03 15:42:45 Thanks. I put another one at the back and now it sort of steers.
+creations-chat 2019-04-03 22:40:51 A tank. Very scientific  testing. The tank fell off after this angle so using tangent we get an angle of tan(8/10)=1.0296 radians. Rounding to the correct number of significant figures, we get 1.0 radians.
+creations-chat 2019-04-04 17:03:52 Speedy boi (No rockets/jets/props, just tracks)
+creations-chat 2019-04-04 23:46:32 When you're never gonna get a rank because you're only building tanks at the moment oh wait
+creations-chat 2019-04-04 23:48:01 Interleaved wheels - x2_z - 543 blocks - Requesting Midshipman???
+creations-chat 2019-04-05 17:34:12 Requesting Novice engineer, flying tank
+creations-chat 2019-04-05 17:34:32 Slot 1
+help 2019-04-07 17:29:37 How do I make the front ones go down and the back ones go up when I try to fly up without resorting to control surface spam to trick fly by wire?
+creations-chat 2019-04-07 23:54:36 Quick and easy little quadcopter with simple controls and both turning and strafe (Can't figure out how to make turn controls not reverse when goes downward without making movement really slow tho)
+creations-chat 2019-04-24 23:27:56 11 block diameter wheels.
+creations-chat 2019-05-26 20:21:51 Small fighting boat | x2_z | 382 blocks | Requesting Ensign
+creations-chat 2019-05-26 20:22:08 Block count
+creations-chat 2019-05-31 02:39:36 Somewhat shoddlily made overly complicated 6 wheeled combat vehilcle
+creations-chat 2019-05-31 04:39:20 Mostly meant a door on the bottom (which is invisible from this angle oof), https://i.gyazo.com/4b56d2dde01d6180206b6534a44c6a0f.gif
+creations-chat 2019-06-04 19:53:03 This thing drives, flies, and swims (All very poorly):
+https://i.gyazo.com/da24cdccea5d5e1869ca0a620b24f917.gif
+creations-chat 2019-06-04 19:59:11 Yes. (The wheels are really poorly designed though, the car has to drive backwards to get good grip)
+creations-chat 2019-06-04 20:01:30 The biggest problem is the wheels themselves give the lift, so if I tilt them outwards when driving forward it produces lift (Reducing grip), and if I tilt them inwards steering is impossible.
+creations-chat 2019-06-04 20:03:14 It would greatly increase the amount of keys and operation of the already way too complex keybinds.
+creations-chat 2019-06-04 20:04:33 WASD, QE for fixing sideways tilt, VB for turning in air, TG for tilting wheels.
+creations-chat 2019-06-04 20:29:59 When you make a flying car but then realize you've been doing everything wrong... inward tilting rotors fixed everything XD
+help 2019-06-05 16:40:40 Are you supposed to put rank request screenshots in creations chat or can you use other channels?
+creations-chat 2019-06-05 16:49:38 <@295568493166985218> can I get ranked please?
+creations-chat 2019-06-05 16:50:09 Requesting Expert Designer
+creations-chat 2019-06-05 17:10:56 The upvotes don't lie (Actually IDK how I got all those upvotes), here is the thing that wouldn't load: https://i. gyazo. com/da24cdccea5d5e1869ca0a620b24f917. gif
+creations-chat 2019-06-05 17:13:05 Wait why did that go through wait what
+creations-chat 2019-06-09 04:24:49 Made some improvements (Faster, better controls, better steering, now has sides)
+creations-chat 2019-08-04 18:23:40 Wall penetrator machine
+creations-chat 2019-08-04 18:23:53 I'VE BEEN GNOMED
+creations-chat 2019-08-05 05:24:52 Roblox isn't happy with me... https://streamable.com/jcii6
+creations-chat 2019-08-05 05:29:08 It's a creation though (a rocket powered glitch machine but still).
+help 2019-08-08 21:08:33 How wide should I make my tank? All of my tanks tend to end up looking too wide or too narrow and then I never get around to fixing it because tank treads are a pain to make over and over again...
+creations-chat 2019-08-10 18:21:37 Deloreain't IV - x2_z - 529 Blocks Requesting: VTOL ENGINEER [II], TERRAIN SPECIALIST [I]
+
+This is the fourth version of some random thing I made.
+The first version was trash with the wheels turning in an inconvenient method, causing it to be unstable in flight.
+The second was improved but still required steering and tilt engines.
+The third version removed the steering engines but not the tilt engines, improving handling.
+The fourth and most recent version removes the tilt engines, and adds yaw to satisfy VTOL requirements.
+
+https://streamable.com/tiytg
+bug-reports 2019-08-18 17:28:53 I'm also having the no one owns issue... Also, block placement broke.
+bot-central 2019-08-26 19:21:01 &suggest flipped propellers, essentially a mirror image version of each propeller block that rotates the other direction (Useful for planes with more than one propeller, both propellers rotating the same direction just makes me really annoyed for some reason.)
+bot-central 2019-08-26 19:21:47 !
+bot-central 2019-08-26 19:21:51 !help
+help 2019-09-12 22:46:33 I need advice on how to fit another suspension on each wheel
+help 2019-09-12 22:51:05 The suspension is way too weak rn though
+help 2019-09-13 01:35:39 Everything is maxed out on the 9 ground wheels on each side, it still compresses a ton when driving around.
+creations-chat 2019-09-13 17:37:39 Extremely simple helicopter design using motor 2 for blade flapping.
+creations-chat 2019-09-13 17:41:19 oof
+help 2019-09-17 18:24:39 How do you stop kamikaze bomb cars from blowing up land vehicles? Blacklist just makes things worse and it isn't feasible to outrun/outgun them...
+help 2019-09-17 18:32:07 I tried that once with a smaller vehicle
+help 2019-09-17 18:32:49 it didn't work too well and I don't even have much room to place wings on the problematic vehicle
+help 2019-09-17 18:34:39 Set it to lower speeds and higher torque I think
+creations-chat 2019-09-20 00:10:28 Arresting cable landing (I know arresting cables are already made, this is mostly just for fun). https://streamable.com/1iqz0
+bug-reports 2019-09-20 19:08:18 Spawning with parachute deployed when under map flings. https://streamable.com/8lz8e
+creations-chat 2019-10-01 21:07:10 Smol tank - x2_z - 273 blocks
+Just a  little tank/exploration vehicle that reminds me of when I was starting out making tracked vehicles, before I started making laggy, ugly, and not very fun to drive tanks.
+https://i.gyazo.com/82caccae5f3a631d35ff48518fb340f5.png
+https://i.gyazo.com/14272ef6e9e97a134dbd2e2f6d9d1776.png

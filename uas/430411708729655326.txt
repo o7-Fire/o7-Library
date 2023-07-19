@@ -1,0 +1,43 @@
+The Tale of y6rty (430411708729655326)
+the-dump 2020-11-09 06:57:28 
+the-dump 2020-11-09 07:08:19 lol only 1m
+the-dump 2020-11-09 07:08:35 i got 12bil with just a parachute
+the-dump 2020-11-09 07:08:50 i don’t have recording
+the-dump 2020-11-09 07:09:32 but it involves having a very fast spinning object hit my parachute
+the-dump 2020-11-09 07:10:16 i like the parachute glitch
+the-dump 2020-11-09 07:10:52 i also found some secret areas using a clipping glitch
+the-dump 2020-11-09 07:11:14 it’s under the hill in the back left corner
+the-dump 2020-11-09 07:11:27 large triangular room
+the-dump 2020-11-09 07:12:14 use fast motor on big plate
+the-dump 2020-11-09 07:12:26 have it 2 blocks above the ground
+the-dump 2020-11-09 07:12:52 press the spin button and jump out of the chair
+the-dump 2020-11-09 07:13:10 then go under spinning plate and parachute
+the-dump 2020-11-09 07:13:16 normal one
+the-dump 2020-11-09 07:13:38 lots of torque and speed
+the-dump 2020-11-09 07:13:49 but only one motor
+the-dump 2020-11-09 07:15:12 it may take a few attempts
+the-dump 2020-11-09 07:15:27 i have to go to bed now
+the-dump 2020-11-09 07:15:30 bye
+the-dump 2020-11-09 07:16:14 i never said that but i agree
+bug-reports 2020-11-09 16:19:22 i don’t know if i can get footage of this, but when i motor locked a suspension with max free length and stiffness and 0 damping it just stopped working, i could push the end of the ends of the suspension just by walking into it and it did not go back to its old position
+the-dump 2020-11-10 07:10:58 
+the-dump 2020-11-10 07:11:02 
+the-dump 2020-11-10 07:11:10 
+the-dump 2020-11-10 07:11:14 
+the-dump 2020-11-10 07:11:23 
+the-dump 2020-11-10 07:11:57 
+the-dump 2020-11-10 07:11:59 
+the-dump 2020-11-10 07:12:00 
+the-dump 2020-11-10 07:12:17 
+the-dump 2020-11-10 07:12:25 there
+the-dump 2020-11-10 07:12:30 have some memes
+bot-central 2020-11-28 07:26:54 ?av
+creations-chat 2020-11-29 21:59:42 it's a 30 min build
+creations-chat 2020-11-29 22:32:40 thanks :>
+creations-chat 2020-11-29 22:35:01 i put a low quality tank head on it and it looks terible now
+Edit: i know its not a high quality build, and its not my best but it works
+creations-chat 2020-12-06 17:34:52 use turning propellers or get motor 2’s set to servo that rotate a wing panel vertically to create drag
+bug-reports 2020-12-29 19:47:35 i dont think this is suppost to happen
+bug-reports 2020-12-29 19:55:03 there is also another bug in that vid
+bug-reports 2020-12-29 19:55:15 hoverthrusters are oddly unstable now
+bug-reports 2020-12-29 19:55:42 if they sit for too long they start to move very fast

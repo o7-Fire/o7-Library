@@ -1,0 +1,10 @@
+The Tale of itsme_davie (741740214745301012)
+bot-central 2021-02-04 00:49:56 !verify
+bot-central 2021-02-04 00:50:39 !reverify
+bot-central 2021-02-04 00:50:41 A
+bot-central 2021-02-04 00:50:52 !verify
+creations-chat 2021-02-06 17:34:34 e
+bot-central 2021-05-15 16:01:45 ?rank
+bot-central 2021-05-15 16:01:50 ?level
+bot-central 2021-05-15 16:01:54 !rank
+bot-central 2021-05-15 16:02:05 ;-;

@@ -1,0 +1,8 @@
+The Tale of localsaab (417354338059550721)
+bug-reports 2020-07-05 08:03:18 So in pvp mode, when I am for example in air battle, when I shoot somebodys wing of, it starts apear that the fuselage is anchored in midair, and there a small wing piece flying and shooting towards me
+bot-central 2021-04-16 08:39:07 !verify
+bot-central 2021-04-16 08:39:15 !updaate
+bot-central 2021-04-16 08:39:19 !update
+bot-central 2021-04-16 08:39:58 -verify TheLocalEngineer
+creations-chat 2021-04-22 22:40:37 Dababy bomber
+creations-chat 2021-04-22 22:42:51 What do you think I should improve to my sub?(It's not 100% finished)

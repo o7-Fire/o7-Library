@@ -1,0 +1,334 @@
+The Tale of .fruitberries (342662955575410690)
+help 2020-12-19 19:35:45 idk how to make the body of the heli without making the body spin with the propellors
+help 2020-12-19 19:38:28 wtf is a co-axle
+help 2020-12-19 19:45:31 ok then time to make a -googol:1 reduction kappa
+bot-central 2020-12-19 20:03:58 ?shelp
+help 2020-12-19 20:12:02 why dont this fly straight
+help 2020-12-20 15:32:35 why is this having a seizure
+help 2020-12-20 16:01:49 this is a better design but it's bad at turning, it goes from 0 to 550 mph in less than 2 seconds
+help 2020-12-20 16:07:24 yawing
+help 2020-12-20 16:07:50 but this is my main focus rn and it has the worst yaw ever
+help 2020-12-20 16:08:36 id rather sacrifice design/detail for effectiveness
+help 2020-12-20 16:09:18 i literally had to make it so that increase and decrease power was a and a and d and d
+help 2020-12-20 16:09:42 and also it randomly turns to the left whenever  i dont want it to
+help 2020-12-20 16:09:59 and it doesnt have a propellor inside
+help 2020-12-20 16:50:29 Edit: I figured out im a fucking idiot and i had to turn on/off on.
+help 2020-12-21 21:37:09 how do i make a rotating camera for my robot?
+help 2020-12-21 21:38:02 no shit
+help 2020-12-21 21:38:11 but how would i connect it to the camera
+help 2020-12-21 21:38:29 you cant connect it in any way plus it dont work with wasd controls
+help 2020-12-21 21:39:13 rotating camera that whenever i hold f the camera rotates
+help 2020-12-21 21:40:40 the block is a ballast block.
+help 2020-12-21 21:40:48 it drifts if i hget rid of it
+help 2020-12-21 21:40:53 which is annoying as fuck
+help 2020-12-21 21:41:28 ok
+help 2020-12-21 21:43:38 and how would i make something that would rotate the body itself
+help 2020-12-21 21:45:29 or could i use motors again
+help 2020-12-21 21:46:40 well it did but at a cost
+help 2020-12-21 21:46:45 *not being able to move the fucking thing*
+help 2020-12-21 21:48:13 also do ballast tanks hold more density  than ballast blocks
+help 2020-12-21 21:48:47 o
+help 2020-12-21 21:49:13 all 3 ballast blocks are at 10 fuckin density
+help 2020-12-21 21:49:28 
+help 2020-12-21 21:49:39 and it still falls over,
+help 2020-12-21 21:50:53 i may be the dumbest motherfucker alive.
+help 2020-12-21 21:52:05 wdyfm the arms
+help 2020-12-21 21:54:37 ok
+help 2020-12-21 21:57:55 like this
+help 2020-12-21 21:58:44 
+help 2020-12-21 21:59:20 ok
+help 2020-12-21 22:03:42 it doesnt do anything
+help 2020-12-22 20:51:15 
+help 2020-12-22 20:51:22 it dont turn properly
+help 2020-12-27 15:55:42 how the hell do i fix pistons being so slow when i set them to 2500 max force and 4 distance
+bot-central 2020-12-30 01:04:20 !s
+bot-central 2020-12-30 01:04:49 ?s a gui that tells you which direction(e.g. North East) the camera is pointing
+bot-central 2020-12-30 01:06:13 ?s a gui that tells you which direction (e.g. North East) the camera is pointing
+help 2021-01-03 23:27:40 how would i make this fully automatic
+help 2021-01-03 23:27:45 the spring is set to automatically retract
+help 2021-01-03 23:39:18 no its a gun slick brain
+help 2021-01-04 01:10:28 why doesnt this fire automatically it jsut stops at the 6th ball and become ssemi
+help 2021-01-04 01:15:36 help
+help 2021-01-04 01:16:55 help
+bot-central 2021-01-05 16:05:54 ?shelp
+bot-central 2021-01-05 19:41:08 ?s a rotation option
+help 2021-01-22 02:15:15 what settings on suspensions would i need to make my car to be an atv
+help 2022-09-25 21:59:26 
+help 2022-09-25 22:00:06 DOPOROOOOOOO_2, Doporoooo_Alt
+help 2022-09-25 22:00:12 fucking up every server
+help 2022-10-09 22:16:36 
+help 2022-10-09 22:16:40 why the fuck this bitch veering right
+help 2022-10-09 22:16:45 its evened out perfectly
+help 2022-10-09 22:17:46 how many
+help 2022-10-09 22:18:17 its even
+help 2022-10-09 22:18:33 that made it worse btw
+help 2022-10-09 22:19:21 everythjing is even
+help 2022-10-09 22:19:33 
+help 2022-10-09 22:20:11 theres nothijng thats uneven
+help 2022-10-09 22:21:02 im using hover engines in the middle
+help 2022-10-09 22:22:02 it works but there isnt enough thrust to lift the plane up
+help 2022-10-09 22:22:15 and also it looks like shit
+help 2022-10-09 22:22:39 no
+bug-reports 2022-10-13 23:26:42 fix speakers holy shit
+bug-reports 2022-10-14 18:46:04 daynight cycle is fucked
+help 2022-10-16 17:40:03 is there a terminal velocity?
+help 2022-11-05 22:50:40 fix this bullshit
+help 2022-11-05 22:50:52 you know what im talking about
+bot-central 2022-11-09 00:38:24 !rank red
+creations-chat 2022-11-26 16:10:04 l
+bug-reports 2022-12-27 02:00:13 fix your fuckass motor2 you fucking piece of fucky wucky shit
+bug-reports 2022-12-27 21:01:26 https://media.discordapp.net/attachments/1043755661739171860/1052733668382216343/Image.gif
+bug-reports 2022-12-27 21:01:38 https://media.discordapp.net/attachments/756714063437889616/916979819936378920/image0-3.gif
+bug-reports 2023-01-08 20:59:02 signs.
+texts.
+the-dump 2023-01-28 20:20:09 balls
+the-dump 2023-01-28 20:21:48 balls 2
+the-dump 2023-01-28 20:23:22 XDDDS what fuck
+the-dump 2023-01-28 23:16:32 what the fuck did you just make me watch
+the-dump 2023-01-28 23:23:42 whats the originakl video you sick fuck
+the-dump 2023-01-28 23:23:44 bitch balls
+the-dump 2023-01-28 23:45:36 thats well edited
+the-dump 2023-01-29 04:23:17 
+the-dump 2023-01-29 04:24:09 
+the-dump 2023-01-29 05:07:35 
+the-dump 2023-01-29 05:07:37 
+the-dump 2023-01-29 05:07:52 bichard rlevins
+the-dump 2023-01-30 02:21:04 
+the-dump 2023-01-30 03:05:15 ass
+the-dump 2023-01-30 03:05:23 ass and balls
+the-dump 2023-01-30 03:05:26 balls and ass
+the-dump 2023-01-30 03:05:29 together they make
+the-dump 2023-01-30 03:05:33 BAABAA
+the-dump 2023-01-30 03:09:52 
+the-dump 2023-01-30 03:09:53 SPED BOY 9000 HAHAHAHA
+the-dump 2023-01-30 03:33:46 laser microwave oven
+the-dump 2023-01-30 03:33:51 styro man of pyrotechnical
+the-dump 2023-01-30 03:33:56 you cant fool me
+the-dump 2023-01-30 03:34:12 
+the-dump 2023-01-31 00:27:43 
+the-dump 2023-01-31 17:12:32 so f and g can be literally any positive number
+the-dump 2023-01-31 17:17:21 
+the-dump 2023-01-31 17:18:40 wat
+the-dump 2023-01-31 17:20:16 yes
+the-dump 2023-01-31 17:20:55 whats v
+the-dump 2023-01-31 17:21:07 oh
+the-dump 2023-01-31 17:21:15 thx
+the-dump 2023-01-31 17:29:35 
+the-dump 2023-01-31 17:29:46 i guess the variables can be any positive number
+the-dump 2023-01-31 17:31:53 
+the-dump 2023-01-31 17:32:17 i got it wrong loop
+the-dump 2023-01-31 17:32:35 
+the-dump 2023-01-31 17:35:08 
+the-dump 2023-01-31 17:37:05 its simplifying radicals
+the-dump 2023-01-31 17:37:11 with variables
+the-dump 2023-01-31 17:37:20 aka whatever the fuck thois is
+the-dump 2023-01-31 17:37:39 my parents are holding me hostage until i do my work
+the-dump 2023-01-31 17:39:25 
+the-dump 2023-01-31 17:40:53 
+the-dump 2023-01-31 17:42:20 oof
+the-dump 2023-01-31 17:42:22 its fine
+the-dump 2023-01-31 17:42:26 i only lost 2 points
+the-dump 2023-01-31 17:42:34 
+the-dump 2023-01-31 17:44:28 shut up dont question it
+the-dump 2023-01-31 17:44:57 yes
+the-dump 2023-01-31 17:45:02 its math
+the-dump 2023-01-31 17:45:24 <:trollface:814329332104560671>
+the-dump 2023-01-31 17:45:58 
+the-dump 2023-01-31 17:48:47 heres a symbol for fast things purposes
+the-dump 2023-01-31 17:49:29 ⁰¹²³⁴⁵⁶⁷⁸⁹
+the-dump 2023-01-31 17:49:42 •
+the-dump 2023-01-31 17:49:45 √
+the-dump 2023-01-31 18:03:48 A BULLSHIT
+the-dump 2023-01-31 18:10:33 blend
+creations-chat 2023-01-31 19:36:24 it is not low effort
+i made the line thingies on the cockpits on the really cool fighters that those people make
+creations-chat 2023-01-31 19:45:58 fuck off
+the-dump 2023-02-01 05:59:04 taiwan is a country 🤩🥶
+the-dump 2023-02-01 05:59:16 YESSSSSSSS
+the-dump 2023-02-01 05:59:22 SOMEBODY FOUND IT
+the-dump 2023-02-01 05:59:59 https://tenor.com/view/roblox-baller-roblox-baller-baller-guy-ballers-gif-26937843
+help 2023-02-07 02:28:06 how do i make my plane stop wobbling when i go up or down or roll right or left
+help 2023-02-07 02:28:15 how do i make snow pipes glow
+help 2023-02-07 02:28:37 how do i stabilize my plane no matter the direction its facing
+help 2023-02-07 02:34:15 its bouncing and wobbling on the back
+help 2023-02-07 02:34:25 how do i fix it
+help 2023-02-07 02:37:09 i dont use control surfaces anymore because they are beyond motherfucking buggy and make my plane do weird shit when i do literally anything related to turning
+the-dump 2023-02-08 19:08:21 https://media.discordapp.net/attachments/495286269459300364/1072724968296693780/unknown.png
+the-dump 2023-02-08 19:15:40 https://tenor.com/view/lil-nas-x-nickb-pregnant-speech-bubble-gif-25238772
+the-dump 2023-02-20 18:58:20 stop drinking methamphetamine out of your asshole <:thedaftpedoguy5:1028046763220815922>
+the-dump 2023-02-24 02:49:21 ass
+the-dump 2023-02-25 06:08:08 i agree
+the-dump 2023-02-25 06:09:42 <@956447807156412467> M16
+the-dump 2023-02-25 06:09:58 A1 MOTHERFUCKER GOTTI
+the-dump 2023-02-25 06:10:14 BITCH YOUR DRAFTED
+the-dump 2023-02-25 06:10:18 RAHHHHH
+creations-chat 2023-02-26 16:06:07 https://tenor.com/view/nerd-nerd-emoji-meme-speech-bubble-bubble-gif-25115885
+creations-chat 2023-02-26 16:08:30 wooosh
+creations-chat 2023-02-26 16:13:09 https://media.discordapp.net/attachments/868546161470996480/947691402643525642/IM_COME_YOU.gif
+creations-chat 2023-02-26 16:27:50 i agree ^
+creations-chat 2023-02-26 17:06:03 <:finger:991357454396956723>
+creations-chat 2023-02-26 18:51:48 sir what
+blood sweat and tears
+creations-chat 2023-03-11 19:49:51 bot died
+creations-chat 2023-03-20 23:28:36 wtf happened why cant i post
+creations-chat 2023-06-01 22:53:45 thats not a tutorial you buffoon
+bug-reports 2023-06-01 22:54:32 the missile didnt get an education
+creations-chat 2023-06-01 22:56:49 ALL of you dipshits FUCKING COPE if you dont like me
+creations-chat 2023-07-03 18:05:23 roflcopter
+creations-chat 2023-07-03 18:07:49 my roflcopter go
+soi
+soi
+soi
+soi
+soisoiosioisoiosioisoisoiosioisoiosioisoiosioisoisoiosioisisoisoiosioiso'
+creations-chat 2023-07-03 18:10:26 12 hours of motorlock
+gumball if your talking about the brburuburbubruburuurbbrubrububrubu sound, then its prob from tf2
+creations-chat 2023-07-03 18:18:51 its a cube (deadass)
+the-dump 2023-07-03 18:26:20 3/31/07
+the-dump 2023-07-03 18:26:23 dob
+the-dump 2023-07-03 18:26:26 fucker
+the-dump 2023-07-03 18:27:59 watch me
+the-dump 2023-07-03 18:28:16 https://www.roblox.com/users/167582971/profile
+the-dump 2023-07-03 18:28:17 wow
+the-dump 2023-07-03 18:28:19 NO WEB
+the-dump 2023-07-03 18:28:21 WHO WOULD HAVE
+the-dump 2023-07-03 18:28:23 GUESSED
+the-dump 2023-07-03 18:28:26 NO WEB.ROBLOX.COM
+the-dump 2023-07-03 18:29:16 
+the-dump 2023-07-03 18:30:25 i am a texan
+the-dump 2023-07-03 18:31:08 what would happen if i passed an unde check
+the-dump 2023-07-03 18:31:15 wwyd
+the-dump 2023-07-03 18:31:33 good
+the-dump 2023-07-03 18:31:36 thats what i thought
+the-dump 2023-07-03 18:33:29 https://tenor.com/view/blow-im-about-to-blow-im-bout-to-blow-helicopter-helicopter-helicopter-gif-26483307
+the-dump 2023-07-03 18:33:50 https://media.discordapp.net/attachments/899025349164281856/1060601096801898576/COLD_HARBOR_APUCT.gif
+the-dump 2023-07-03 18:34:33 i just inhaled liquid ginger ale
+the-dump 2023-07-03 18:34:58 vaper
+the-dump 2023-07-03 18:35:08 no vaping in the bathroom
+the-dump 2023-07-03 18:35:10 LOL
+the-dump 2023-07-03 18:35:36 is that bitch on sale still
+the-dump 2023-07-03 18:36:49 <@652925710976942100> shut this man up
+the-dump 2023-07-03 18:37:58 cry more
+the-dump 2023-07-03 18:37:59 shitter
+the-dump 2023-07-03 18:38:20 rn
+the-dump 2023-07-03 18:38:20 hall of fame
+the-dump 2023-07-03 18:38:53 https://tenor.com/view/crumby-trolls-lusionz-mass-amount-of-trolling-gif-21566615
+the-dump 2023-07-03 18:39:32 i am a deadly laser
+the-dump 2023-07-03 18:40:06 ad
+creations-chat 2023-07-03 18:43:56 i didnt start being an ass
+creations-chat 2023-07-03 18:48:20 neither does yours or your shitsack friends, go outside and drink from a puddle of their shit
+creations-chat 2023-07-03 18:50:25 so you dont embarrass yourself further to your nonexistent parents
+creations-chat 2023-07-03 18:52:38 hes gonna get pissed at you and shut your ass up, im sure he has better shit to do than answer your dumbass
+creations-chat 2023-07-03 18:54:41 you started arguing, dont start the grammar "intimidation" bullshit, you are the one who flicked the lighter
+creations-chat 2023-07-03 18:58:06 You should have moved on a long time ago, you are the one who pinged Aftersock multiple times and I pinged him once, as soon as he came online you started using grammar to make it look like your the bigger person.
+I'm using grammar now, as a way to present a very subtle "fuck you".
+creations-chat 2023-07-03 19:00:58 Right now, a couple minutes ago, and when you're scared.
+I have slowmode
+creations-chat 2023-07-03 19:03:14 And now you brought someone who didnt have anything to do with this into the mix. I'm not saying you were trying to correct me, I'm saying as soon as Aftersock went online, you started using grammar.
+creations-chat 2023-07-03 19:05:18 I just said this.
+creations-chat 2023-07-03 19:07:20 Correcting and proving a point are completely different things.
+creations-chat 2023-07-03 19:09:49 both of you started this
+actually "epic" and delete(your account) and secretspy_age_6 started it
+creations-chat 2023-07-03 19:12:16 like middle school
+creations-chat 2023-07-03 19:14:25 16
+going into junior year in about a month
+creations-chat 2023-07-03 19:17:03 nobody asked you to join this argument
+idfk what dipshit hs system you use aver, but im from texas
+and we start highschool at 13 here
+also quit changing your answers we can see the edited mark on it
+im editing this because slowmode exists
+creations-chat 2023-07-03 19:19:18 FUCK YEAH
+
+corndogs are amazing, we can all agree
+creations-chat 2023-07-03 19:21:20 shut the fuck up its corndog time
+
+aver, everyone has different education systems, which by the way, you seem to not have at all
+
+because you couldnt afford it
+creations-chat 2023-07-03 19:24:50 which one
+creations-chat 2023-07-03 19:56:04 no
+delete yours
+creations-chat 2023-07-03 20:02:11 lower your standards
+creations-chat 2023-07-03 20:04:42 your an expert designer.
+your opinion does not matter.
+your a dead to me.
+creations-chat 2023-07-03 20:08:23 by the way
+creations-chat 2023-07-03 20:17:42 your life (garbage)
+creations-chat 2023-07-03 20:33:58 bros insults revolve around age
+creations-chat 2023-07-03 20:44:17 so how can i improve my builds, be constructive not an ass
+
+and nesko,
+give me an idea for a plane.
+
+fill this out.
+
+wings: 
+vertical stabilizers: 
+engines: 
+general type (attack, bomber, recon, fighter, cargo):
+creations-chat 2023-07-03 20:47:57 i go for quality way over looks
+quality as in PERFORMANCE
+and all of my builds perform godlike
+creations-chat 2023-07-03 20:51:43 you try making one EXACTLY like the one in the picture
+if you get one pixel of it wrong im gonna shit on you
+creations-chat 2023-07-03 20:55:51 wheres the marking? wheres the larger taper on the engines? where are the aerodynamic sticks on the sides of the wings? and why are the horiz stabilizers so high up?(regarding the first german plane)
+<@738448924368568360> and you are criticizing me over that
+creations-chat 2023-07-03 20:57:55 performance over sexiness
+creations-chat 2023-07-03 21:01:44 pvp is awful because you fucken suck at it
+creations-chat 2023-07-03 21:04:06 see? no real answer tell me why pvp is bad. im not going anywhere until you tell me.
+creations-chat 2023-07-03 21:06:29 your lookin all pretty for the cameras but once you get in a dogfight, you die of panic before my f22 shoots you down just like those spy balloons learned the hard way
+creations-chat 2023-07-03 21:09:42 no im talking about a plane from scratch. give me an idea. one thats NOT production and was never a prototype irl
+creations-chat 2023-07-03 21:12:44 1v1  me later
+creations-chat 2023-07-03 21:16:14 dont judge a book by its cover.
+creations-chat 2023-07-03 21:18:26 i know what trapdoors are and i actually used them to cover up the wings on one of my planes
+interior is tnt, exterior is ice. exterior is trapdoors, wing covers are trapdoors.
+creations-chat 2023-07-03 21:21:31 i never said i used the trapdoors on the f22.
+
+also submarine pvp is best, would love to see the billio-
+im making mine currently
+creations-chat 2023-07-03 21:24:06 working on the wings now
+creations-chat 2023-07-03 21:27:00 im making a new one
+creations-chat 2023-07-03 21:30:29 20-30 mins im almost done
+creations-chat 2023-07-03 21:49:42 <@641439058719014913> alright whats your username
+creations-chat 2023-07-03 21:52:08 my screen recorder has like 5 minutes of recording then it crashes, also sent a frend req
+creations-chat 2023-07-03 22:03:10 i shot a firework and it instantly took off only my rockets and firework pod
+on one wing
+no delay at all
+creations-chat 2023-07-03 22:05:30 ok public servers respawn rockets i can confirm
+creations-chat 2023-07-03 22:38:49 i jsut realized that thats fucking disgusting
+1 wides make me droopy
+creations-chat 2023-07-03 22:43:30 ok boomer
+at least he wasnt a wiggly worm head about it'
+creations-chat 2023-07-03 22:51:54 fat motherfucker
+bruh someones playing the soviet anthem with horns
+creations-chat 2023-07-03 22:59:34 ^^^^^^^^
+creations-chat 2023-07-03 23:01:35 what the fuck happened
+creations-chat 2023-07-03 23:05:21 god bless america
+creations-chat 2023-07-03 23:10:36 our grandfathers didnt die for femmies, goths, or zoophiles
+they died for our freedom
+creations-chat 2023-07-03 23:15:37 femboy
+
+also june is dday month
+creations-chat 2023-07-03 23:52:00 its you
+creations-chat 2023-07-04 00:23:51 tf even is this
+creations-chat 2023-07-04 05:04:12 all of you that arent cst can take a long walk off a short pier your a dead to me
+creations-chat 2023-07-04 05:06:56 you arent cst fuck off
+god damn commie
+also someone built the titan crash 💀
+creations-chat 2023-07-04 05:12:39 you dont use a timezone dipshit
+creations-chat 2023-07-04 05:19:01 unde check me so i can shujt these brainless shitters up|
+i could make an alt and yall dumbasses wouldnt suspect a damn thing
+creations-chat 2023-07-04 05:23:11 <:zycosmoke:821821351576338534> you are making a fool out of yourself
+creations-chat 2023-07-04 05:25:54 free as in girls in american flag bikinis walking into walmart with 12 ar-15s
+creations-chat 2023-07-04 15:48:42 holy shit dude your in dauntless as well the blackhawk mission 5??????
+creations-chat 2023-07-04 18:32:57 fuck-4 (i like to get people to start arguments)
+creations-chat 2023-07-04 18:36:50 ok
+creations-chat 2023-07-04 18:44:39 we can all agree that sparkler hitboxes fucking suck
+creations-chat 2023-07-04 18:49:30 wip freebrams, hows this?
+ill send a side view when slowmode resets
+creations-chat 2023-07-04 18:51:48 side view
+creations-chat 2023-07-04 18:55:02 i tried disconnecters but they wont detach when i press the key, ive also tried using trapdoors but it looks weird af
+but the problem still lies: i cannot put the rockets anywhere
+creations-chat 2023-07-04 18:57:48 talk in dms so slowmode wont exist'
+creations-chat 2023-07-04 22:48:03 ball s
+creations-chat 2023-07-05 18:04:39 you are the corndog

@@ -1,0 +1,10 @@
+The Tale of fastsnail901_0685 (434456617988128780)
+help 2022-06-07 19:56:52 hey guys, can anyone help me with why this isn't turning fully, the 2 motors are unpowered, and I'm trying to make realistic steering
+help 2022-06-07 19:58:25 ok thank you, so maybe I change them to pistons as well?
+help 2022-06-07 19:58:53 that worked
+help 2022-06-07 19:58:57 thank you very much
+bot-central 2022-07-18 16:40:49 !shelp
+bot-central 2022-07-18 16:40:54 darn
+bot-central 2022-07-18 16:40:59 it ain't that
+help 2023-04-15 16:41:43 Hello everybody, I've been trying to/thinking about making an aircraft carrier, in particular for me and one of my friends. I am having trouble with the carrying part of it, as the planes I intend to store are larger than I know how to fit into one plot (roughly a quarter of a plot each plane), so are there any tips or tricks I could use to make a larger build? I've been using folding but the hull was still too small, and I don't want to make a smaller plane so that they can use most any of their planes for it. Thank you in advance.
+help 2023-04-15 20:32:13 I figured out that I just need to build bigger, shock horror

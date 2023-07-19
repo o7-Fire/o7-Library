@@ -1,0 +1,9 @@
+The Tale of Starry🌟 (928558255578439700)
+creations-chat 2022-09-17 02:26:06 can anyone help with my helicopter please
+creations-chat 2022-09-17 02:28:19 no image perms💀 but i can describe it
+
+coaxial articulating blades 4-long wing panels as blades, no stabalizers bc im just testing
+dosent spin out of control, it just rocks back and forth and side to side while slowly spinning
+
+i tested it with a single block, and that block started spinning too, i checked the motor values and they are all the same except the top blade is double the speed of the bottom one.
+creations-chat 2022-09-17 02:33:56 nvm i figured it out, i forgot to lock an inner motor

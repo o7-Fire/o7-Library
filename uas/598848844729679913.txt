@@ -1,0 +1,15 @@
+The Tale of dojangkog (598848844729679913)
+bot-central 2020-07-06 01:23:13 !severs
+bot-central 2020-07-06 01:23:22 !servers
+bot-central 2020-07-06 02:51:02 !severs
+bot-central 2020-07-06 02:51:06 !servers
+bot-central 2020-12-20 05:07:11 !servers
+bot-central 2020-12-20 05:17:35 ?update
+bot-central 2020-12-20 05:17:45 !update
+bot-central 2020-12-20 05:18:03 !verify
+bot-central 2020-12-20 05:18:11 !unverify
+bot-central 2020-12-20 05:18:15 !die
+bot-central 2020-12-20 05:18:55 !reverify
+bot-central 2020-12-20 05:19:05 !reverify <@!598848844729679913>
+bot-central 2020-12-20 05:20:11 !verify
+bot-central 2020-12-20 05:20:17 !reverify

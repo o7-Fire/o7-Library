@@ -1,13 +1,29 @@
-boniestcoder
-plane-crazy 2020-04-19 03:44:27 How does the disconnecter work?
-plane-crazy 2020-04-19 03:17:33 I put mine at 75% and nothing
-plane-crazy 2020-04-19 03:16:58 Then why don't they release any kinetic energy?
-plane-crazy 2020-04-19 03:15:47 But aren't they releasing energy by being on?
-plane-crazy 2020-04-19 03:13:45 Why don't turbines and rockets actually activate until they're near or at full power?
-plane-crazy 2020-04-19 00:41:23 Button does nothing :>
-plane-crazy 2020-04-19 00:41:13 I'm not I deliberately moved my face lol
-plane-crazy 2020-04-19 00:40:43 <:YouTried:559530066258821131>
-plane-crazy 2020-04-19 00:40:38 Not a screeny
-plane-crazy 2020-04-19 00:40:14 What is this?
-plane-crazy 2020-04-19 00:40:12 
-plane-crazy 2020-04-19 00:17:24 Are there any videos or anything that introduce one to shipbuilding?
+The Tale of boniestcoder (284461157857624064)
+help 2020-04-16 23:25:54 I have a fighter with 9 rocket engines, 1 super rocket engine, and ~10 jet engines. The speed registers at like 250, yet flies horrifically slow. Anyone have an idea of what it is?
+help 2020-04-16 23:27:52 My A-10 model with half as many engines goes twice as fast so I’m at a loss rn >_<
+help 2020-04-16 23:30:39 Graphics lvl 6
+help 2020-04-16 23:30:42 Can't record fps
+help 2020-04-16 23:31:00 Ah ok
+help 2020-04-16 23:31:03 Give me a moment
+help 2020-04-16 23:32:36 Averaging in the 10's 😔
+help 2020-04-16 23:32:47 Let me try my other model
+help 2020-04-16 23:33:48 It's the exact same
+help 2020-04-16 23:34:10 The other model go faster
+help 2020-04-16 23:34:17 Nope
+help 2020-04-16 23:34:20 None of thay
+help 2020-04-16 23:34:39 My fighter has significantly more power
+help 2020-04-16 23:34:55 But there's no frame difference?
+help 2020-04-16 23:35:18 It's not
+help 2020-04-16 23:35:37 My faster plane has ~100 more blocks
+help 2020-04-16 23:36:29 Motors on both
+help 2020-04-16 23:37:12 Faster plane has 8-9
+help 2020-04-16 23:37:28 Slower has 20-21
+help 2020-04-16 23:37:50 So would less maybe make it faster?
+help 2020-04-16 23:38:03 Ok I'll try that thanks
+help 2020-04-16 23:38:34 I have a couple more motors on the slower one
+help 2020-04-16 23:46:14 I'm mobile . _.
+help 2020-04-16 23:46:24 If only I could have a pc 😫
+help 2020-04-16 23:46:41 Your solution worked somewhat thanks btw
+creations-chat 2020-04-17 00:36:00 How can I make an aircraft easier to pull up?
+bug-reports 2020-07-21 21:13:24 Missiles stored on my aircraft made of explosive blocks randomly explode when i fire the nose gun on my fighter.
+bug-reports 2020-07-21 21:50:47 no, i have them binded to the number pad, while left click is fire

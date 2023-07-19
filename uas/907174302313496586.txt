@@ -1,0 +1,252 @@
+The Tale of piperpa28 (907174302313496586)
+help 2022-09-22 07:59:16 any good comprehensible tutorials on angle locking a boat hull?
+help 2022-09-22 08:03:47 can you recommend some good ones, i found a good one earlier but it skipped a lot of the important motor locking stuff
+help 2022-09-22 08:27:56 is there a better one for ship hulls?
+help 2022-09-22 10:49:45 aight, how would i make an angle lock in this area to make fencing?
+help 2022-09-22 10:49:51 
+help 2022-09-22 11:00:00 😡 where do i put it to make it hidden?, its a 2 block high tower that cant go on the sides since the sides are ontop of  slimmer wedges
+help 2022-09-22 11:08:26 done
+help 2022-09-22 11:08:31 
+help 2022-09-22 11:16:56 uh
+help 2022-09-22 11:17:58 the 3 blocks on top is supposed to be the floor, the 4 motors and disconnectors is motor lock and i misunderstood your wording from the statement before
+help 2022-09-22 12:09:06 should I leave the motors on the outside unlocked?
+help 2022-09-23 00:45:02 how do i stop these angle locked ladders from moving when i press the key to rotate the motors?
+help 2022-09-23 00:45:08 
+help 2022-09-23 00:46:24 no when i finish angling them and i lock the main motor lock structure, they still move when i press their keys
+help 2022-09-23 00:46:34 is it supposed to happen?
+help 2022-09-23 00:46:49 to test
+help 2022-09-23 00:47:02 ok
+help 2022-09-23 01:07:49 help, emoji
+help 2022-09-23 01:07:59 ⚫ is what it is supposed to be
+help 2022-09-23 01:13:12 works, thanks
+help 2022-09-23 03:08:09 how would i make the cannons look like they are firing without fireworks?
+help 2022-09-23 04:37:41 how do i change the colour of the text on signs
+help 2022-09-23 04:39:34 i do but it makes me edit the text
+help 2022-09-23 04:41:42 its grey to start with, then when i click on it while in paint mode it makes me edit the text without configuring and then configure doesnt work on it anymore
+help 2022-09-23 05:35:43 anything i could do here to improve it?
+help 2022-09-23 06:49:40 im learning to fold my build from <#925522972586967092> but how would i hide the motor if its on the outside?
+help 2022-09-23 06:51:23 whats a way to make it discrete tho
+help 2022-09-23 07:09:45 the 3 180 degree folds shown in the video in <#925522972586967092> wont work on my build, will i have to substitute a ladder for a motor for it to work?
+help 2022-09-23 08:25:53 why is this happening?
+help 2022-09-23 08:26:23 there is no parts or obstructing parts in the gap
+help 2022-09-23 08:32:34 i fixed it
+help 2022-09-23 08:35:53 what about the issue above?
+help 2022-09-23 09:48:44 how to weld things after folding?
+help 2022-09-23 09:50:00 ?
+help 2022-09-23 09:57:27 a weld?
+help 2022-09-23 09:58:01 magnets?
+help 2022-09-23 09:58:13 rope
+help 2022-09-23 09:58:56 idk
+help 2022-09-23 10:00:39 like this?
+bot-central 2022-09-23 13:40:05 !rank
+help 2022-09-23 22:28:04 how do i assemble this in water? its just sink and on land it wont go to water
+help 2022-09-23 22:28:12 
+help 2022-09-24 00:30:44 ?
+help 2022-09-24 01:51:36 how does my ship get to the water???
+help 2022-09-24 01:55:23 detachable wheels?
+help 2022-09-24 01:55:33 bc it cant foldout in water
+help 2022-09-24 01:58:16 motor 1
+help 2022-09-24 01:59:34 oh
+help 2022-09-24 01:59:43 im stupid
+help 2022-09-24 02:00:26 i have an anchor but it spawns me in the water
+help 2022-09-24 02:01:32 i cant
+help 2022-09-24 02:02:53 
+help 2022-09-24 02:02:59 ballast tanks?
+help 2022-09-24 02:03:01 or helium?
+help 2022-09-24 02:03:12 nvm
+help 2022-09-24 02:03:15 i unachored
+help 2022-09-24 02:03:32 
+help 2022-09-24 02:03:51 how do i make it not flip over?
+help 2022-09-24 02:09:33 what density?
+help 2022-09-24 02:10:44 i put 2 beams on each end and 4 in the middle
+help 2022-09-24 02:34:25 my boat is tipping when i turn (im using rocket engines
+help 2022-09-24 03:50:43 should i ignore these holes underneath the hull?
+help 2022-09-24 04:14:13 how
+help 2022-09-24 04:15:00 those are half 1x2 up wedges
+help 2022-09-24 04:17:39 oh
+help 2022-09-24 04:18:40 now my upper deck is easier to build
+help 2022-09-24 04:28:55 how do i make a thinner variant of the cylinder without fireworks? (compact)
+help 2022-09-24 04:29:46 arent they the same width as the cylinder
+help 2022-09-24 04:54:59 how to make this turret better?
+help 2022-09-24 04:55:05 cylinders are a bit too wide and i dont have fireworks
+help 2022-09-24 04:56:32 i dont have!!11!11!
+help 2022-09-24 04:59:41 what else can i use?
+creations-chat 2022-09-24 09:33:33 how do you get a smooth front of the hull like that?
+creations-chat 2022-09-24 09:37:21 wow
+help 2022-09-24 09:42:00 how would i make an angle-locked hull for this ship blueprint?
+help 2022-09-24 11:24:30 also, what would the best way to get better at angle locking be?
+help 2022-09-24 12:21:28 Also, on a plane, how do you conceal motor lock?
+help 2022-09-24 13:16:09 ok thank
+help 2022-09-24 21:41:45 hmas anzac
+help 2022-09-24 22:11:20 hm how to do this hull?
+help 2022-09-24 22:11:27 
+help 2022-09-24 22:12:12 1st turret past anchor point
+help 2022-09-24 22:12:26 thanks
+help 2022-09-24 22:12:58 doing hmas warramunga now
+help 2022-09-24 22:13:14 yes
+help 2022-09-24 22:13:23 1x3 wedges and blocks?
+help 2022-09-24 22:13:29 alr
+help 2022-09-24 22:17:11 is there a way to make it smoother?
+help 2022-09-24 22:48:41 anyone?
+help 2022-09-24 23:03:41 pls help i need smooth wedge hull
+help 2022-09-24 23:17:31 like this?
+help 2022-09-24 23:19:09 wait i did my hull wrong, i cant paint the bottom section to be fully red
+help 2022-09-24 23:20:16 
+help 2022-09-24 23:20:19 i cant do the black line
+help 2022-09-24 23:20:26 and 2 reds are missing
+help 2022-09-24 23:21:43 i did 55 0 0 lol
+help 2022-09-24 23:23:36 red?
+help 2022-09-24 23:25:13 *grey
+help 2022-09-25 00:47:03 yes
+help 2022-09-25 01:02:42 good hull?
+help 2022-09-25 01:07:37 
+help 2022-09-25 01:07:41 i use triangle wedge 1x2
+help 2022-09-25 02:49:53 i cant find the right block to use while angle-locking for a shield. wing panels are in the middle and not on the outside and wedges are too thick
+help 2022-09-25 02:50:43 these things that go up
+help 2022-09-25 02:51:27 half wedge 2?
+help 2022-09-25 02:52:02 i dont know how to do an extra angle lock, i only know how to do it vertically
+help 2022-09-25 02:57:29 it when i turn it out, it goes up now
+help 2022-09-25 03:04:07 any help, or that guy who does the diagrams?
+help 2022-09-25 03:45:45 i ❤️ boats
+help 2022-09-25 04:39:50 how to make these windows like the other picture?
+help 2022-09-25 04:56:12 where do i put the angle locks and how, i have no clue on how to use angle locksa
+help 2022-09-25 04:57:36 i know how it works but i dont know where to put them and where to have motor lock stacks
+help 2022-09-25 04:59:20 this is confusing
+help 2022-09-25 05:02:10 so motorlock under bridge
+help 2022-09-25 05:02:42 hm
+help 2022-09-25 05:04:08 is the bridge the top part where the window is or the body?
+help 2022-09-25 05:09:34 
+help 2022-09-25 05:10:28 front walls?
+help 2022-09-25 05:12:58 
+help 2022-09-25 05:17:47 <@715148402022678608> what next
+help 2022-09-25 06:03:51 where do i put the anglelocks to make bridge look like a bridge?
+help 2022-09-25 06:51:25 anyone know how to make a thin naval flag?
+help 2022-09-25 06:51:50 
+help 2022-09-25 06:55:33 what would be a close resemblance to it?
+help 2022-09-25 06:56:46 i could do british emoji?
+help 2022-09-25 07:07:47 i need master oogway back online bc im stuck with their bridge help
+creations-chat 2022-09-25 09:24:22 2nd ship ive ever done, looks good so far WIP. 1465 blocks (HMAS Warramunger II)
+help 2022-09-25 22:25:35 need help with angle/motor lock to make a flag hang from  the tower
+help 2022-09-25 22:27:06 doesnt look good, my flag are wing panels
+help 2022-09-25 22:57:20 need help making this goofy thing
+help 2022-09-25 22:57:26 
+help 2022-09-25 23:51:51 i tried doing anglelocked smoke stacks, doesnt work
+help 2022-09-26 00:07:43 ok
+help 2022-09-26 00:08:18 that worked thanks
+help 2022-09-26 01:19:09 reference images, inspiration from other designs, reference images, and reference images
+creations-chat 2022-09-26 02:21:50 boat
+help 2022-09-26 02:27:30 my ship cant be stable, it either tips, or is underwater
+help 2022-09-26 02:39:29 9 blocks wide (including edge of hull)
+help 2022-09-26 02:39:45 but my keel goes down pretty deep so should i flatten it?
+help 2022-09-26 02:40:08 what's a good ship width/
+help 2022-09-26 02:40:17 underside of ship
+help 2022-09-26 02:42:13 
+help 2022-09-26 07:58:56 carrier hull help
+help 2022-09-26 07:59:28 angle 2
+creations-chat 2022-09-26 09:01:15 rate
+help 2022-09-26 09:21:33 canopy help
+help 2022-09-26 09:30:34 i need help with making an anglelocked canopy
+help 2022-09-26 22:14:25 i need help making an f-15e intake
+help 2022-09-26 22:14:45 
+help 2022-09-26 23:22:37 then how to make it?
+help 2022-09-26 23:24:45 angle-locked disconnector and delta wing?
+help 2022-09-26 23:27:04 would i use a side motorlock to pull the disconnector in?
+help 2022-09-26 23:30:42 
+help 2022-09-26 23:37:52 ?
+help 2022-09-26 23:38:08 
+help 2022-09-26 23:38:48 no, the gap on between it and the body
+help 2022-09-26 23:39:22 the exposed motor and how its 2 blocks wide
+help 2022-09-26 23:40:53 then how is it at the front
+help 2022-09-26 23:42:19 
+help 2022-09-26 23:46:37 still doesnt work, now it's too far back and it is still 2 blocks wide
+help 2022-09-26 23:48:38 <@927438201503772682>
+help 2022-09-26 23:49:36 i dont know anything
+help 2022-09-27 09:16:50 helium blocks?
+help 2022-09-28 06:48:18 help with carrier hull, i did the top
+help 2022-09-28 06:50:17 it's not that, its the curves, i cant get an idea of what to do
+help 2022-09-28 07:24:11 
+help 2022-09-28 07:24:16 hm
+help 2022-09-28 08:08:39 my mind has gone blank
+help 2022-09-28 08:58:16 feedback?
+help 2022-09-28 08:58:28 
+creations-chat 2022-09-28 11:48:45 what about the logo?
+help 2022-09-28 11:49:45 need a bit of help designing the fuselage and a system to get in the plane (fold out wings too)
+help 2022-09-28 23:34:12 help with f4u corsair wings
+help 2022-09-28 23:34:58 <:nooo:787097964946259978>
+help 2022-09-29 00:23:32 looks bad, doesnt even fly
+help 2022-09-29 00:30:01 i suck at plane designing
+help 2022-09-29 00:31:28 no, the control surfaces at the back dont move and the engines dont turn on
+help 2022-09-29 00:33:11 these 2 are set to e and q
+help 2022-09-29 00:37:19 i think ill make this plane after i finish my carrier
+help 2022-09-29 02:12:32 any ideas on how to make an elevator?
+help 2022-09-29 02:54:53 oh
+help 2022-09-29 02:54:58 💀
+help 2022-09-29 02:55:05 would suspension work?
+help 2022-09-29 03:57:36 i dont know what is happening with the walls in the red part, it's entirely dark
+help 2022-09-29 04:05:19 let me rephrase
+help 2022-09-29 05:01:37 hows my hangar?
+help 2022-09-29 05:03:08 
+help 2022-09-29 05:03:13 like that
+help 2022-09-29 05:03:30 but helium
+help 2022-09-29 05:05:17 what details? i couldnt find any hangar reference for the ship im doing
+help 2022-09-29 05:05:40 USS Bunker Hill (CV-17)
+help 2022-09-29 05:06:34 ill do that but i need room for planes
+help 2022-09-29 05:06:41 but i dont know how to do planes
+help 2022-09-29 05:08:09 ships are better because minimal to average motorlock
+help 2022-09-29 05:08:48 yeah
+help 2022-09-29 11:51:01 my rope is going weird when i put deelevate my elevator
+help 2022-09-29 12:01:26 they are at the lowest  setting but ill check
+help 2022-09-30 00:16:37 what looks better for propellers? trails or wings?
+help 2022-09-30 00:17:19 or this
+help 2022-09-30 00:17:23 (f4u corsair)
+help 2022-09-30 00:26:50 not too sure if i like it because i dont want it to be too far away or too close
+help 2022-09-30 00:28:38 i need the plane to be compact tho
+help 2022-09-30 00:31:19 ?
+help 2022-09-30 00:33:08 motorlock scares me
+help 2022-09-30 00:33:44 then how would you do it?
+help 2022-09-30 00:33:54 because i dont know
+help 2022-09-30 00:48:51 ?
+help 2022-09-30 02:27:39 when i lower the rope it breaks
+help 2022-09-30 02:27:42 suspension isnt the problem
+help 2022-09-30 03:44:30 yes
+help 2022-09-30 03:45:01 no
+help 2022-09-30 03:45:08 spring, motorlock, rope
+help 2022-09-30 03:46:23 ill remove the motorlock and add extra suspension to see if that helps
+help 2022-09-30 03:48:34 ok
+help 2022-09-30 04:10:31 ill try to find a different one
+help 2022-09-30 04:17:32 im pretty sure it was bugging because i added too much motorlock or didnt do motorlock right
+help 2022-09-30 04:18:19 yeah, it works now
+help 2022-09-30 04:18:27 i removed an extra motorlock that i didnt need
+help 2022-09-30 04:25:50 for my f4u corsair (with foldable wings) should i have a body/fuselage with half blocks or full blocks?
+help 2022-09-30 06:52:06 my disconnector, landing gears, pitch, and roll isnt working
+help 2022-09-30 06:52:11 
+help 2022-09-30 07:58:18 i had physics turned off on my anchor block 💀
+help 2022-09-30 10:25:34 anything i could add to hangar? (gonna fold another section with 4 more planes with tnt attached)
+help 2022-09-30 11:57:01 it looks like it needs to be a bit wider but it looks good
+help 2022-10-01 09:37:27 what is 1 sps in mph?
+creations-chat 2022-10-01 12:19:11 bunning warehous
+creations-chat 2022-10-01 12:36:45 
+creations-chat 2022-10-01 12:58:08 me and my precious jumbuck
+help 2022-10-02 00:46:59 how do i stop it from capsizing when i turn
+help 2022-10-02 01:33:33 where
+help 2022-10-03 09:17:14 how would i fold to end section? there is no space on top on the middle section where the bridge is and idk oh i would do the front
+help 2022-10-03 20:05:19 how would i fold to end section? there is no space on top on the middle section where the bridge is and idk oh i would do the front
+help 2022-10-04 05:05:31 how would i fold the end section if i make the end section on top of the middle or front section?
+help 2022-10-04 05:05:41 because the bridge will be max height
+help 2022-10-04 05:39:45 there is no side left, i used it all
+help 2022-10-04 08:28:48 how to make magnets work
+help 2022-10-04 08:29:00 the dont weld together with the weld option on
+help 2022-10-04 20:06:03 i used pistons to push the magnet up and it pushed the plane away from the magnet
+help 2022-10-04 20:06:09 
+help 2022-10-04 20:18:27 i made it touch using pistons because i dont want a big magnet in the hangar and it wont work
+help 2022-10-05 05:38:03 why doesnt it stay together when i press a button to detach it?
+help 2022-10-05 06:01:53 people keep saying it has to be touching
+help 2022-10-05 06:03:04 i want the plane to be able to reconnect tho
+help 2022-10-05 06:19:53 this for both magnets with a one block gap?
+help 2022-10-05 06:21:04 its making it shake when i press keypad one
+help 2022-10-05 06:22:13 oh
+help 2022-10-05 06:23:16 would i be able to use pistons to push it up while its attached to a disconnector?
+help 2022-10-05 06:24:40 now it flys away when in contact with the magnet controlled by pistons
+help 2022-10-05 06:36:12 why do magnets have to be so hard, cant it just be: "if an object is touching it, it connects, if a key is pressed it connects, if a key is pressed, it disconnects"
+help 2022-10-05 07:21:32 thanks for your help, much needed
+help 2023-02-24 09:11:42 how do i even start learning how to motor and angle lock, it seems very complicated and i dont know where to start since its very overwhelming

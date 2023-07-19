@@ -1,0 +1,2 @@
+The Tale of falcon0ne (722659412426096650)
+bug-reports 2022-05-19 03:11:05 Having the same problem. When I open the developer console (F9) I see an error that says VectorForce is not a valid member of WedgePart "WingSurface" in script PlaneScript at line 1223

@@ -1,0 +1,544 @@
+The Tale of ignitelistic (906201415247093780)
+creations-chat 2023-06-05 10:57:10 yo how do I get image perms
+bot-central 2023-06-05 11:03:40 !rank
+creations-chat 2023-07-02 15:25:42 blame how small pc plots are
+creations-chat 2023-07-02 15:27:45 the helicopter itself takes up more than 70% of the plot length
+creations-chat 2023-07-02 15:30:18 Also the AH-1Z model that I used for the build is practically the same length of my heli so idk what youre on about
+creations-chat 2023-07-02 15:33:36 if youre gonna shit on random people because their build isnt as perfect as you want it to be then I'd like to see you build a better ah-1z in the same 3 hours that I spent building mine
+creations-chat 2023-07-02 15:43:10 You need 2 rotors on top of eachother, one to provide lift for the helicopter and one to counter the torque of the main rotor
+creations-chat 2023-07-02 15:46:26 this is what I do but theres also another way to stop your heli from spinning by adding a tail rotor (which is very vulnerable in pvp) to counter the torque and also provide horizontal stabilization and movement of the tail of the helicopter
+creations-chat 2023-07-02 15:48:54 This is what I use on my heli
+
+I can also link a helicopter basics video if it will let me
+creations-chat 2023-07-02 15:52:09 <@982238041445900348> 
+
+Timestamp - 3:55
+
+https://www.youtube.com/watch?v=bKO2UPoR27M&t=236s
+
+If your helicopter is decently long or heavy then I recommend putting 2 of these co-ax rotors on the far ends of the center of gravity on your vehicle so its easy to control
+creations-chat 2023-07-02 16:18:17 Tandem rotor
+creations-chat 2023-07-02 16:20:29 its changing direction because the heli is too light
+
+I recommend changing the materials to metal which is more durable in pvp and heavier, or removing helium blocks
+creations-chat 2023-07-02 16:26:11 <@982238041445900348> 
+
+this can also be because your helicopter is unfinished and just very small so I recommend building the helicopter itself THEN adding the rotor where it needs to be added
+
+the center of gravity constantly changes whenever you add a block on to your build so its much better to finish your build first and then add the rotors
+creations-chat 2023-07-02 19:02:11 oh mb
+creations-chat 2023-07-02 19:04:58 what
+creations-chat 2023-07-02 19:19:31 no like wdym by viper
+creations-chat 2023-07-02 20:24:23 a box
+creations-chat 2023-07-02 22:14:42 Can someone help on what to do here?
+
+I'm making an aircraft carrier but I don't think I will have enough space to install the superstructure. I set up a pole to measure the plot height limit and it appears that I'm reaching the top of the plot
+
+I can't stop building more layers because when the build is unfolded, it appears to be very short and obviously requires more length
+
+I also put an image of the reference im using for my build
+creations-chat 2023-07-02 22:16:56 ignore the fact that the runway is inverted and on the opposite side
+creations-chat 2023-07-02 22:19:16 actually though what do I do in that situation
+
+there is a very high chance I wont be able to fit in the superstructure
+creations-chat 2023-07-02 22:22:35 I'll try motorlocking the superstructure
+creations-chat 2023-07-02 23:04:32 since rebuilding the entire build would have more downsides than upsides at this point and there isnt enough space for motorlocking I'll try to integrate the superstructure into the hull of the ship
+creations-chat 2023-07-02 23:52:53 Where is the ah-1z you said you would complete 9 hours ago
+creations-chat 2023-07-02 23:56:30 https://tenor.com/view/malkin8-malkin-malky-gif-25701352
+creations-chat 2023-07-02 23:58:43 I hacked his webcam and saw that
+creations-chat 2023-07-03 00:00:50 Sure <:Thonk:509498568982134816>
+creations-chat 2023-07-03 00:23:08 Eskeline try not to shit on peoples build if he cant make a better build himself (failed in 2 fucking seconds)
+creations-chat 2023-07-03 00:25:39 <:Thonk:509498568982134816>
+creations-chat 2023-07-03 00:27:50 If you cant even make a small attack helicopter in 3 hours you arent in any place to be shit talking people
+creations-chat 2023-07-03 00:29:54 Sounds like a skill issue tbh
+creations-chat 2023-07-03 01:08:52 mans cant even make an interior
+
+also what helicopter is that
+creations-chat 2023-07-03 01:11:42 sorry I dont spend my life studying helicopters so I dont know off the top of my head what an uncolored russian-looking vehicle is supposed to be
+
+also how long did it take you to build that
+creations-chat 2023-07-03 01:14:14 what
+creations-chat 2023-07-03 01:16:16 https://i.gyazo.com/2fb9da022ae3a8c8e2885f6ecfbf28cd.png
+creations-chat 2023-07-03 01:19:11 nah 💀
+https://i.gyazo.com/d87a8853cec1b15a765594f3086cb382.png
+creations-chat 2023-07-03 02:42:42 guys what should I add to this besides markings and a superstructure
+creations-chat 2023-07-03 02:45:26 actually
+creations-chat 2023-07-03 03:57:43 I use disconnectors
+
+yes I know it looks like horseshit but I dont care about it that much
+creations-chat 2023-07-03 04:13:54 piston and motorlock can be very laggy so I just use disconnectors
+creations-chat 2023-07-03 04:18:50 angle locks are pretty unnecessary if youre just trying to paint the deck
+creations-chat 2023-07-03 16:10:39 Use propeller engines to control pitch and steering, not rockets
+creations-chat 2023-07-03 16:13:38 You can also use a combination of wing panels and propellers
+creations-chat 2023-07-03 16:15:50 Is that in new york
+creations-chat 2023-07-03 16:18:02 I pass by those towers every time I cross from NJ to NYC
+creations-chat 2023-07-03 16:20:15 Why tf does this channel constantly have a 2 minute cooldown
+bot-central 2023-07-03 16:30:15 !rank
+creations-chat 2023-07-03 16:33:59 Do you know how to make custom control surfaces
+creations-chat 2023-07-03 16:36:02 Watch a tutorial on custom control surfaces
+help 2023-07-03 16:43:49 Why are hover engines not allowed for most of the ranks in <#925563336500871268>
+help 2023-07-03 18:38:26 Default control surfaces dont work well with hover engines
+creations-chat 2023-07-03 22:54:24 let me show you a screenshot of how small my plot size is compared to the aircraft carrier
+creations-chat 2023-07-03 22:57:10 <@584060481522761728> <@597865326708916314> 
+https://i.gyazo.com/e8f4b574e3c32b71f5770ba959dfaec3.png
+
+If I make the motor locks any smaller or more space efficient than they already are then I would not be able to make my aircraft carrier pvp-capable or have some of the features it has on it atm
+
+said features include having a 1:1 scale superstructure and some of the markings it has on
+creations-chat 2023-07-03 22:59:12 theres no point in arguing to human pieces of shit they will just keep being assholes
+
+Also isnt being toxic against the rules?
+creations-chat 2023-07-03 23:01:16 theres no correct way to position a runway when youre not specifically replicating an irl vehicle
+
+its a custom ac carrier
+creations-chat 2023-07-03 23:03:22 what aircraft carrier is that
+creations-chat 2023-07-03 23:05:28 I used that carrier as a reference at first but then stopped trying to replicate it like the 1/4 mark once I realized it was too large
+creations-chat 2023-07-03 23:23:46 they cause lag too
+creations-chat 2023-07-03 23:37:56 how many blocks should I increase the tail of the helicopter by for maximum combat performance
+https://i.gyazo.com/833109b25ce07ab9febfb7df26912c1a.png
+creations-chat 2023-07-03 23:42:59 watch a tutorial
+creations-chat 2023-07-04 00:20:46 what is roscale
+
+is that a game or a measurement
+creations-chat 2023-07-04 00:22:56 its already 1:1 scale
+
+The tail was shortened a bit due to a building error but everything else is pretty much 1:1 with my roblox avatar
+creations-chat 2023-07-04 00:27:05 my helicopter after extending the tail by 3 blocks and slimming the vertical stabilizer:
+https://i.gyazo.com/94268319e5f3ed16494f3f93715b5355.png
+creations-chat 2023-07-04 00:44:56 how do I even change the color of my name
+creations-chat 2023-07-04 00:47:11 upvote this creation now or I will send a missile to your house
+https://discord.com/channels/384021699466756103/384025409945337856/1125072373004107868
+creations-chat 2023-07-04 01:22:03 omg stop disrespecting the fatgender this is xenophobic homophobic transphobic and fatphobic ong
+help 2023-07-04 03:49:41 Can someone help?
+
+I own an aircraft carrier with 4 sections, all using anchor blocks to hold themselves together while spawned in, as well as a functioning catapult system
+
+The problem is that I need physics to be turned on in order for the catapult to work, otherwise I have to quickly unlock the anchors, activate the catapult, and lock them again.
+
+The problem with physics mode is that its extremely buggy and does not function when more than 2 blocks from another persons vehicle is on the carrier, but if I do the other method where I quickly unlock anchors, the carrier has a tendency to freak out when I do that.
+
+Is there a way I can fix this bug?
+
+**reference picture of the catapult system in question**
+https://i.gyazo.com/72216324eca02aaae420c4da0f8be05d.png
+creations-chat 2023-07-04 04:00:05 Can someone help?
+
+I own an aircraft carrier with 4 sections, all using anchor blocks to hold themselves together while spawned in, as well as a functioning catapult system
+
+The problem is that I need physics to be turned on in order for the catapult to work, otherwise I have to quickly unlock the anchors, activate the catapult, and lock them again.
+
+The problem with physics mode is that its extremely buggy and does not function when more than 2 blocks from another persons vehicle is on the carrier, but if I do the other method where I quickly unlock anchors, the carrier has a tendency to freak out when I do that.
+
+Is there a way I can fix this bug?
+
+reference picture of the catapult system in question
+https://i.gyazo.com/72216324eca02aaae420c4da0f8be05d.png
+creations-chat 2023-07-04 15:06:53 ok
+creations-chat 2023-07-04 17:22:48 cockpit part of B-52 stratofortress
+
+what do you guys think
+https://i.gyazo.com/b714f7bb4e8f365956bdb3c1c7b356af.png
+creations-chat 2023-07-04 17:24:52 just watch a tutorial on youtube
+creations-chat 2023-07-04 17:27:14 https://www.youtube.com/watch?v=M0UV_JUk_jw&t=79s
+
+there is literally no possible way your build isnt compatible with any of these techniques
+creations-chat 2023-07-04 17:29:35 that looks like it takes up more than 30% of your plot size ngl
+creations-chat 2023-07-04 17:31:38 I would literally have an aneurysm trying to fold in such tight spaces like that
+
+also I hate using motorlocks
+creations-chat 2023-07-04 17:33:50 show me a picture of your build
+creations-chat 2023-07-04 17:36:10 what is the problem
+creations-chat 2023-07-04 17:38:14 you need to add one more camera here and move the fold to the right by one block, the amount of cameras on the left side of the motor are inequal to the amount of cameras on the right
+
+
+https://gyazo.com/4c9ee5e567432b142d98676fc643695f
+creations-chat 2023-07-04 17:40:38 you just messed up another thing
+
+now there is more than 4 cameras on the right side
+
+**you need to have an equal amount of cameras on both sides**
+creations-chat 2023-07-04 17:42:55 another reference:
+https://i.gyazo.com/5ff2fc924bb64e7450dc7105c2c92696.png
+creations-chat 2023-07-04 17:45:05 what do you not understand about **make the amount of cameras on each side EQUAL**
+
+dude use this as a reference or the other guy's screenshot please
+https://i.gyazo.com/5ff2fc924bb64e7450dc7105c2c92696.png
+creations-chat 2023-07-04 17:48:08 look at his join date
+creations-chat 2023-07-04 18:13:14 I'll use this nose design as a reference for my b-52
+help 2023-07-04 20:27:45 how do I stop these shitty plane crazy motors from constantly bugging out whenever I try to fold a creation in plane crazy
+creations-chat 2023-07-04 20:29:41 how do I stop these shitty plane crazy motors from constantly bugging out whenever I try to fold a creation in plane crazy
+creations-chat 2023-07-04 20:39:34 thank you so fucking much
+creations-chat 2023-07-05 15:21:50 fatass plane
+help 2023-07-05 21:27:12 can someone please tell me how to fix these annoying as motors and make them work properly?
+
+whenever I use a regular motor, it just bugs out and makes the entire plane break
+
+Whenever I use motor 2s, as shown in the screenshot below, it always does the complete opposite of what its supposed to do (turn backward instead of forward and vice versa)
+
+I've spent an entire day making my b-52 and I cant even make it get off the ground because of this stupid motor glitch
+https://i.gyazo.com/ba57d4568a5d6e53670052ef98d60544.png
+help 2023-07-05 21:29:51 because it isnt finished
+help 2023-07-05 21:30:12 can you not see the folded wingtips
+help 2023-07-05 21:30:39 thats not what I asked
+help 2023-07-05 21:30:45 can you see the folded wingtips, yes or no
+help 2023-07-05 21:31:16 because if you cant even see a clearly portrayed problem then why tf are you even in this channel
+help 2023-07-05 21:35:32 my god you are actually useless
+help 2023-07-05 21:36:29 most helpful plane crazy member:
+help 2023-07-05 21:38:16 youre not even helping
+help 2023-07-05 21:47:33 fixed it by unlocking wing motors and adjusting the torque 👍
+https://i.gyazo.com/748c2e3ca944c148231dda5f41242f63.png
+
+thank you for being a unhelpful bitch
+help 2023-07-05 21:56:12 I recommend using references for builds if youre having trouble with making them look good
+help 2023-07-05 21:56:41 A good 3D model reference site you can use is sketchfab
+help 2023-07-05 21:57:57 I sent you a link to the website in dms
+creations-chat 2023-07-05 21:58:58 man is spitting facts ong
+help 2023-07-05 22:05:33 we can continue this conversation in <#504436696021204992>
+creations-chat 2023-07-05 22:09:13 <@375281006091173890> 
+
+B-52 3d model:
+https://i.gyazo.com/32b113703ae2a514b29fa58a633a284c.png
+
+I focus on logic and getting my plane to actually fly before focusing on non-essential parts such as visible engines and accessories, which is why my unfinished plane is not and will not look like the finished, high-detail version of it irl (obviously)
+creations-chat 2023-07-05 22:11:45 💀
+help 2023-07-05 22:13:00 No I just dont want to talk about something unrelated in an unrelated channel
+creations-chat 2023-07-05 22:17:56 nice
+creations-chat 2023-07-05 22:44:46 you can also just use fireworks, as fireworks function similarly to flares
+
+the missiles do track firework particles and often disarm upon fireworks being activated
+creations-chat 2023-07-05 22:46:49 a lot of people on plane crazy use fireworks as flares, its widely known that rockets will track fireworks and it can be used to escape.
+
+I use it on one of my airstrike aircraft as a defense mechanism against fighter jets
+creations-chat 2023-07-05 22:49:49 custom rockets are guided by players, no "evasion tactics" will help against them
+
+unless youre referring to unguided missiles which most of the time never even hit stationary targets
+creations-chat 2023-07-05 23:06:27 <@597865326708916314> does this plane struggle a lot with glitching out or breaking?
+help 2023-07-05 23:23:27 how do I stop this from happening
+https://medal.tv/games/roblox/clips/1hUVBoVgzWbBPZ/d1337rgr9f4x?invite=cr-MSxLWUosMTYyNjg1ODE0LA
+creations-chat 2023-07-05 23:25:41 any large build at all is a large bomb for mobile players
+creations-chat 2023-07-05 23:29:41 mfw plane crazy has shittier physics than the roblox engine itself:
+https://medal.tv/games/roblox/clips/1hUVBoVgzWbBPZ/d1337rgr9f4x?invite=cr-MSxLWUosMTYyNjg1ODE0LA
+creations-chat 2023-07-05 23:31:44 how do I make this stop happening ffs
+creations-chat 2023-07-05 23:34:19 im the reason why your mother fell off a cliff before she could divorce your cheating father
+creations-chat 2023-07-05 23:36:21 nah its because I took <@375281006091173890> 's advice and beat your grandmother to a bloody pulp then sent your mom a picture of her mangled body
+
+wait I read his message wrong
+creations-chat 2023-07-05 23:38:28 ima stop now before i get banned
+creations-chat 2023-07-05 23:40:58 average 11 year old middle schooler:
+https://i.gyazo.com/f24bcac41f66189f0af60797c0ab6d82.png
+creations-chat 2023-07-05 23:46:10 his mom was at a bar while pregnant again
+creations-chat 2023-07-05 23:48:21 do you mean chatlogs?
+
+also I recall minimodding and toxicity being against the rules which you are pretty notorious for
+creations-chat 2023-07-05 23:50:25 my g youre literally hated by like 90% of the people who talk in <#504436696021204992>
+creations-chat 2023-07-05 23:52:42 👍
+creations-chat 2023-07-05 23:57:15 because you like femboys
+creations-chat 2023-07-05 23:59:20 thats literally his phone screen right now
+creations-chat 2023-07-06 00:01:29 why are you sending me a picture of your dad's affair partner
+creations-chat 2023-07-06 00:18:49 so your dad is gay?
+
+damn bro im sorry for your loss
+creations-chat 2023-07-06 00:21:00 you overestimated his age by 2 years
+creations-chat 2023-07-06 00:26:24 the hypocrisy is off the charts
+https://i.gyazo.com/1ac9de6f5ae4e3c3d8113b18a1d238ff.png
+creations-chat 2023-07-06 00:32:27 🤡
+https://i.gyazo.com/03724a4c0368de1726b9df913acb8b83.png
+https://i.gyazo.com/2791ff039080b80435d110202d214168.png
+https://i.gyazo.com/687b4e9f1b0161cd4ac24a06b0148960.png
+https://i.gyazo.com/7ec119ab8416ebe259f4fc0dd69b8fc3.png
+https://i.gyazo.com/2790af4a82c648d3f0fd6313c3cd3333.png
+creations-chat 2023-07-06 00:34:30 im too lazy to screenshot the other 200 messages of eskeline being an asshole
+creations-chat 2023-07-06 00:36:33 all jokes aside I think you should refresh your discord because its bugged out
+creations-chat 2023-07-06 00:38:35 I have nothing else to do atm
+creations-chat 2023-07-06 00:40:37 but I live in a cardboard box on the side of the road
+creations-chat 2023-07-06 00:43:00 most peaceful conversation in plane crazy discord
+creations-chat 2023-07-06 00:45:31 im using a portable internet router
+
+<@986395564126134363>  I get money by begging
+creations-chat 2023-07-06 00:48:37 theres no arguing anymore but alr
+creations-chat 2023-07-06 00:55:09 <@656259000555536415> I recommend making your aircraft carrier 2 or 3 times bigger next time you make a similar creation as most fighter jets, especially well-built ones are very big in plane crazy and need more surface area
+
+overall your build looks great though
+creations-chat 2023-07-06 00:59:57 I also recommend adding a working catapult system to your carrier, its fairly easy (literally just add a line of trap doors that you can open and close to launch aircraft using thrust revving)
+creations-chat 2023-07-06 01:06:07 heres the catapult I have on my carrier for reference:
+https://i.gyazo.com/10f4cd219f16ecc820172fb38743204c.png
+https://i.gyazo.com/fd7f70983e208b1a8875302dd0f59362.png
+bug-reports 2023-07-06 02:08:44 whenever I load in my unfinished B-52 stratofortress in plane crazy and try to accelerate it, the motor folding begins to shake uncontrollably and completely break the entire build.
+This happens every time I try to move it, locked motors or not. It gets worse when I'm in a public server or am lagging an excessive amount
+
+Debug menu screenshot:
+https://i.gyazo.com/d586c028746f73722140ff38f45044cc.png
+
+The bug happens specifically on my B-52, which is over 3000 blocks and causes tolerable lag increase when spawned in and/or unanchored, so it is likely that it can be reproduced via spawning in a large build that uses wing folding including motors and wing panels.
+
+https://medal.tv/games/roblox/clips/1hWiXGknTWagyy/d1337FDfWCZ3?invite=cr-MSxrZkYsMTYyNjg1ODE0LA
+
+Note: *In the video, the larger parts of the wings have unlocked motors, as well as the motors connecting the main airframe. This is because locking the motors seemingly do not help at all, and only prevent it from breaking apart __in my private server__. The wingtip folds are locked, however, as they seemingly worsen when the motors are unlocked.*
+
+plot save:
+https://i.gyazo.com/574ed894b1e0e66e00322fdcce5bcb89.png
+
+My roblox user ID is *582497416* and my user name is *Ignitelistic_Ace*
+creations-chat 2023-07-06 02:23:01 I used your build as a reference when making my B-52 and this happens when im on the ground 
+
+do you know how to make it stop?
+https://medal.tv/games/roblox/clips/1hWiXGknTWagyy/d1337PXF5lEv?invite=cr-MSx3QUssMTYyNjg1ODE0LA
+creations-chat 2023-07-06 02:25:04 its 10x worse when im in a public server, and I cant imagine how bad it would be if I entered pvp with it
+creations-chat 2023-07-06 02:27:08 locking all of the motors makes it worse
+
+I made a more detailed report in <#498473314445033472>
+creations-chat 2023-07-06 02:31:45 the wings are connected via a single camera  and motor, attached to a row of half-wedges in order for them to sit flush on the top of the plane
+
+there is a small cavity in the fuselage in order to prevent the half-wedges from colliding and not sitting correctly
+https://i.gyazo.com/bcea1565e9107c6c114236e373332778.png
+https://i.gyazo.com/2d3ed65d93d5f79a55b3d2e3f20b5f5f.png
+https://i.gyazo.com/407bd26bb30e3623ae3eac34b7b2dbc2.png
+help 2023-07-06 02:33:19 alr one sec
+help 2023-07-06 02:33:31 btw this is how bad it gets when im in a public server
+help 2023-07-06 02:34:36 this did not fix the problem
+help 2023-07-06 02:34:41 still bugs out and breaks
+help 2023-07-06 02:37:08 ok
+creations-chat 2023-07-06 02:45:26 read the conversation god damn it
+https://i.gyazo.com/a2ff3f9049cf30e2cf05e2a6757b949c.png
+creations-chat 2023-07-06 02:47:37 https://i.gyazo.com/544ce4d8c83f33af5a4a1336f712f329.png
+help 2023-07-06 02:49:59 does it have a tendency to shake when moving on land or is it completely fine?
+help 2023-07-06 02:50:32 alr one sec while I modify my configs
+help 2023-07-06 02:50:51 why are you still continuing this petty conversation bro
+help 2023-07-06 02:50:54 I thought we moved on
+help 2023-07-06 02:53:26 <@597865326708916314> can you show me a screenshot of the wingtip folds
+help 2023-07-06 02:55:11 we have practically the same fold so ig im fine in that department
+https://i.gyazo.com/978cdc391063c722bb92d94d558f7bc4.png
+https://i.gyazo.com/4c1a35fd7e918f01d69f7abc8da20cc0.png
+help 2023-07-06 02:56:19 I managed to minimize the breaking to only a shake and no actually breakage of my wing by locking the motors (which for some reason made it worse prior to this)
+help 2023-07-06 02:56:44 I'ma add more hover engines and some control panels to the build and see if it starts breaking mid-air
+help 2023-07-06 02:57:41 wdym
+help 2023-07-06 02:58:41 https://i.gyazo.com/b1086cb4c1160121b01db50688313ca8.png
+https://i.gyazo.com/40d427a1f4a7939412e8fc3c8fe88f32.png
+https://i.gyazo.com/c6e85a187c1904ecf21c397b77914964.png
+help 2023-07-06 03:00:07 https://i.gyazo.com/b44e36e7e1cb2fbe989eeafafa5fcfe7.png
+https://i.gyazo.com/7afe72cea691e5ab3a16c719b760051b.png
+https://i.gyazo.com/521499c93239071f9c6fd7919788b5b4.png
+help 2023-07-06 03:02:47 when I was in a public server both the wingtip and main airframe joints broke
+
+when Im in a private server it tends to be the main airframe joint that breaks
+
+when all motors are locked on a private server, the plane shakes considerably around the main airframe
+help 2023-07-06 03:04:13 how many blocks, by estimate, were the engines?
+help 2023-07-06 03:04:28 I can try adding ballast beams to simulate the weight of each engine
+help 2023-07-06 03:05:42 https://i.gyazo.com/4f3ee87c59e27dd46b34faf88eaa9379.png
+https://i.gyazo.com/92a0ed0f776e2e0d35efa4ab951183b7.png
+https://i.gyazo.com/e1d367313c947b30f8d48f1b96cbdd95.png
+help 2023-07-06 03:07:42 that reduces the shake by a little bit doesnt make a considerable change
+help 2023-07-06 03:12:05 did 750 and 500, and even tried setting them both to 1000, none of the 3 worked
+help 2023-07-06 03:13:51 behind the motor controlling the big part of the wing?
+help 2023-07-06 03:14:16 powered or unpowered
+help 2023-07-06 03:19:00 no result
+help 2023-07-06 03:25:52 Blue circles:
+
+Main airframe joint, suffers from major shaking in private servers, and even starts to break and dislodge when in public servers
+
+Red circles:
+
+wingtip joint, suffers from minor shaking in private servers, sometimes dislodges a little when in public servers
+creations-chat 2023-07-06 03:36:54 this is what my plane be doing
+help 2023-07-06 03:42:15 as in ballast blocks?
+help 2023-07-06 03:42:49 how far away should I put them from the joints?
+
+right next to them, on the tip of the wing, or closest to the main airframe?
+help 2023-07-06 03:48:32 that literally completely eradicated the problem
+help 2023-07-06 03:48:41 tysm
+help 2023-07-06 03:52:09 When I get to installing weaponry I'll put a bunch of fireworks on the tail as they act as flares against rockets
+creations-chat 2023-07-06 04:04:31 Pretty neat 👍
+bug-reports 2023-07-06 12:11:18 Bro I literally said that locking all motors doesnt help
+bug-reports 2023-07-06 12:11:36 In itallics
+creations-chat 2023-07-06 19:47:36 which causes the least amount of lag?
+
+pistons
+
+motors
+
+locked motors
+help 2023-07-06 19:50:33 which causes the least amount of lag?
+
+pistons
+
+motors
+
+locked motors
+creations-chat 2023-07-06 19:53:40 hes just built different fr
+creations-chat 2023-07-06 20:32:23 how do I reduce this lag
+https://medal.tv/games/roblox/clips/1i41Ge6IUAqvw7/d1337KnAYCyg?invite=cr-MSxCUGYsMTYyNjg1ODE0LA
+creations-chat 2023-07-06 20:34:30 custom control panels
+
+I dont see anything wrong with the placement and shape
+creations-chat 2023-07-06 20:45:28 I'm running a ryzen 9 5900hs and an rtx 3060 laptop
+
+I know for a fact its a plane crazy optimization thing
+creations-chat 2023-07-06 20:48:38 there is absolutely no possible way that an RTX 3060 in a zephyrus G14 can't run a roblox game
+
+also plane crazy is the only game that lags this bad
+creations-chat 2023-07-06 20:50:41 im using 5G wifi in the middle of the USA
+creations-chat 2023-07-06 20:58:14 https://i.gyazo.com/4bfcaf5103470f43f9a5c0156c152c5a.png
+creations-chat 2023-07-06 22:37:14 I fixed the lag but now I have an issue with ping
+https://i.gyazo.com/90cde777cb72b7ab32d5d3f77a8824ce.png
+creations-chat 2023-07-06 22:43:47 thats what happens when I spawn in and fly my b-52
+creations-chat 2023-07-06 22:51:56 how do I fix it
+
+my internet connection is perfectly fine but whenever I fly my b-52 it just spikes and I cant even respawn without having to leave the server
+help 2023-07-06 23:13:19 <@597865326708916314> what engine did you use for your b52
+help 2023-07-06 23:13:55 e.g hover engine, rocket engine, conveyor, etc
+help 2023-07-06 23:14:36 bruv
+help 2023-07-06 23:14:44 you dont lag?
+help 2023-07-06 23:15:03 I tried to use a hover engine and my fps dropped below 5 frames
+help 2023-07-06 23:15:20 then I used rocket engines and my ping is spiking above 200K whenever I fly
+help 2023-07-06 23:15:32 how are you surviving
+help 2023-07-06 23:15:44 I have a ryzen 9 5900hs and an rtx 3060
+help 2023-07-06 23:15:54 my computer is a zephyrus g14
+help 2023-07-06 23:16:25 HOW
+help 2023-07-06 23:16:27 FUCKING HOW
+help 2023-07-06 23:17:05 do you know a good engine that doesnt cause any lag
+help 2023-07-06 23:17:24 ima try using conveyor engines
+creations-chat 2023-07-07 00:12:56 which game
+creations-chat 2023-07-07 01:44:08 guys should I continue working on this plane which lags a shit ton and runs on conveyor engines or should I scrap it and start a smaller project
+
+its very hard to decide considering I spent 2 days on this already plane crazy optimization has made it a huge headache to continue working on
+
+https://i.gyazo.com/1d363907bf84287d4abde6cb5fda35f0.png
+creations-chat 2023-07-07 01:46:50 plane crazy's shitty ass optimization makes it lag whenever I use ANY other engine that isn't either a magnet engine or conveyor
+
+the downsides of using those 2 engines is they are shit for use on bomber/heavy aircraft
+creations-chat 2023-07-07 01:49:57 I have the engine set to a configuration where the max speed is 900 sps
+
+the thing is that I have to hold down the button for accelerating in order to maintain speed, making landing and pvp unrealistic to even think of doing
+creations-chat 2023-07-07 01:53:34 anyway should I keep trying or should I start from scratch and make something smaller
+creations-chat 2023-07-07 01:55:49 conveyor engines do not lag at all
+creations-chat 2023-07-07 02:14:38 I am trying to wrap my mind around how tf those wings fold inward with no seems or cracks at all
+creations-chat 2023-07-07 02:17:49 wait I just watched a vid on how the wings work
+
+basically its a wing inside of a wing and it folds outward like a pocket knife
+creations-chat 2023-07-07 02:41:31 theres actually a guy named moderator 💀
+creations-chat 2023-07-10 19:34:26 front fuselage & nose section of Tupolev Tu-95V Bear (wings not included)
+https://i.gyazo.com/ddd7b7bfac8cf76839fcc1b0a353638a.png
+https://i.gyazo.com/90832761c65a59e2e9d66075d6340f0e.png
+https://i.gyazo.com/f81d7de46b1d6641afb6185f7211faaa.png
+
+what should I add
+creations-chat 2023-07-10 19:46:17 <:trollface:775024642104229898>
+ https://i.gyazo.com/f6cc345b33ca2acbe7a97bc3efeb0e68.png
+creations-chat 2023-07-11 16:05:23 literally every expert designer rank:
+creations-chat 2023-07-11 16:07:38 no its just the expert designer ranks
+
+everyone in this server who I have met who isnt an expert designer are genuinely good people with humility
+creations-chat 2023-07-11 16:09:41 protip:
+if the only rank they have is expert designer and nothing else, disregard their opinion
+
+👍
+creations-chat 2023-07-11 16:11:47 <:thconking:535171057649188865> 
+https://i.gyazo.com/17c48a40a32a3fc5feb1169f2d0eb466.png
+creations-chat 2023-07-11 16:14:05 wasnt this convo about having high standards
+
+also his helicopter is literally the same detail as mine
+creations-chat 2023-07-11 16:16:48 Where is the exposed motor
+creations-chat 2023-07-11 16:19:50 Its a cluster bomb and the turret is supposed to have a motor there
+creations-chat 2023-07-11 16:22:12 I literally just said the exposed motorlock is intentional <@1078737749407969411>
+creations-chat 2023-07-11 16:24:17 what grave 💀
+creations-chat 2023-07-11 16:27:07 Ok but what failure - this isnt the twitter replies section
+creations-chat 2023-07-11 16:29:14 Why are you sending me your selfie bruv
+creations-chat 2023-07-11 17:15:50 I have an unfinished tu-95v
+creations-chat 2023-07-11 17:17:54 Forgot to say I didnt research whether it was made before 1945 or not
+creations-chat 2023-07-12 15:47:24 what should I add to my tu-95 before I arm 4 cluster bombs on it
+https://i.gyazo.com/5ca05a8848b154a01b79d3e7e230b26e.png
+creations-chat 2023-07-12 16:21:21 it looks like it can double as a submarine
+creations-chat 2023-07-12 16:51:23 is this a custom build or is it based off of something?
+creations-chat 2023-07-12 16:53:40 I recommend motorlocking the cockpit window so you can add more detail to it
+
+here's an example
+https://i.gyazo.com/0a547bb3c32088ac8350072146b277bc.png
+creations-chat 2023-07-12 16:55:44 in that case try to make the cockpit blend more with the airframe of the helicopter so it fits flush and doesnt look so blocky
+
+e.g use half blocks
+creations-chat 2023-07-12 20:03:56 pretty good ngl
+creations-chat 2023-07-12 20:24:57 is the plane done?
+what type of aircraft is it? what you should add to it depends on its main role
+
+bomber or fighter? <@396515096693833729>
+creations-chat 2023-07-12 20:28:13 add some sort of vertical stabilizer so that it will maneuver well in combat
+creations-chat 2023-07-12 20:30:54 can it perform an instantaneous 9g turn in less than 5 seconds
+
+if it can't then I recommend making the stabilizer bigger and adjusting the control surfaces' sensitivity as you will most likely be doing that alot while dogfighting in pvp
+creations-chat 2023-07-12 20:33:27 an instant 9g turn is when you roll the aircraft 90 degrees to the left or right and turn to either side using only your elevators
+creations-chat 2023-07-12 20:35:36 <@396515096693833729> this is an instantaneous 9g turn
+
+having to perform a maneuver like this in combat, especially in dogfighting is practically guaranteed
+https://www.youtube.com/watch?v=-DpazsWZj_E
+creations-chat 2023-07-12 20:50:56 its not worth trying to argue, hes just gonna keep being ass to people
+creations-chat 2023-07-12 21:00:04 Its hard to take you seriously when you unironically call people “my slime”
+creations-chat 2023-07-12 21:02:30 It sounds weird and creepy af too
+creations-chat 2023-07-12 21:04:33 Tbh his builds arent even good enough to warrant such an ego of his, he sent me pictures of his builds and I have seen way better
+creations-chat 2023-07-12 21:06:35 Block canopy is less laggy but looks worse, cylinder canopy looks good but requires angle locking which can be very laggy
+creations-chat 2023-07-12 21:15:03 Kinda ironic how youre calling him a snowflake considering you got pressed over someone stating that fleet has high standards
+creations-chat 2023-07-12 21:17:07 <#504436696021204992> when someone with an ego bigger than the sun joins
+creations-chat 2023-07-12 21:19:28 Or a combination of the 3
+creations-chat 2023-07-12 21:21:30 Speaking of this server being absolute horseshit is there any decently-populated 3rd party community for pc we can migrate to
+creations-chat 2023-07-12 21:25:04 Any server that has a respectable community and has a decent amount of people - if you know any then dm me the invite link
+creations-chat 2023-07-12 21:27:34 my g your builds are literally below your standards
+creations-chat 2023-07-12 23:10:21 Plot size is too small for the tsar
+creations-chat 2023-07-12 23:12:41 why do I feel like I’ve seen that f-14 on a tutorial thumbnail
+creations-chat 2023-07-12 23:14:58 Go to <#705941616199991307> and request for expert designer rank and give proof
+creations-chat 2023-07-12 23:57:19 You can change the color of your name
+creations-chat 2023-07-13 00:01:40 This is true tbh
+creations-chat 2023-07-13 03:37:03 its a tu-95
+creations-chat 2023-07-13 03:39:07 where is the 9th propeller blade 💀
+
+dumbass thats 8 propeller blades <:clueless:942802644043464734>
+creations-chat 2023-07-13 03:41:50 are you on drugs
+https://gyazo.com/6ec1eeb27dc4d1c4edc6a2e6642358f7
+creations-chat 2023-07-13 03:44:28 smjk97 caught using drugs while shitposting in pc discord
+creations-chat 2023-07-13 03:46:29 bro forgot how to count 💀
+creations-chat 2023-07-13 03:48:34 you failed kindergarten so you made a living shitting on people's builds but didnt realize you dont know how to count propellers on a turboprop
+creations-chat 2023-07-13 03:50:39 the bot is programmed to say that to every insult
+creations-chat 2023-07-13 03:52:46 what does editing have to do with programming
+
+also <@959618055560912907> nice car
+creations-chat 2023-07-13 03:55:29 I lost 3 braincells trying to understand this logic
+https://i.gyazo.com/fe70811390d7888b7ef4bb2026dc56f5.png
+creations-chat 2023-07-13 03:57:45 who said you programmed the discord bot
+creations-chat 2023-07-13 04:00:50 you dont need to type up a 47 page document about how im an idiot
+
+stop typing
+creations-chat 2023-07-13 04:02:54 ok make an insult
+creations-chat 2023-07-13 04:11:19 thanks
+creations-chat 2023-07-13 04:15:13 are you trying to take me back to elementary school with that humor
+creations-chat 2023-07-13 04:20:48 idk if its because im new to this community but I have never seen someone unironically say "jk nerd" in all my time using discord
+creations-chat 2023-07-13 04:27:06 I feel like im talking to an AI with the amount of aneurysms im having trying understand wtf youre on about but you can think that if it helps you sleep at night ig
+creations-chat 2023-07-13 04:30:40 the windows look fine
+creations-chat 2023-07-13 04:34:24 im about to have the 64th aneurysm
+creations-chat 2023-07-13 04:36:43 honestly one of the better migs I've seen
+creations-chat 2023-07-13 04:55:41 people hate eskeline so much he left the server
+
+not surprised he got banned tbh
+creations-chat 2023-07-13 13:08:29 does that lag
+creations-chat 2023-07-13 17:10:58 looks great
+creations-chat 2023-07-13 17:13:22 9/10
+creations-chat 2023-07-13 17:15:49 you should add lifeboats and make the windows light up
+creations-chat 2023-07-13 21:50:22 is this a good airframe for the antonov an-32
+https://gyazo.com/a1444369e39b520f12ff9ed49b8304e5
+help 2023-07-13 22:04:46 spell out the words "United States Air Force" instead of the abreviation USAF
+help 2023-07-13 22:05:09 for some reason plane crazy's signs has a stronger filter than roblox so it tags out a ton more harmless words
+help 2023-07-13 22:06:06 you can also use other shortened variants like "Air Force" or "US Air Force"
+help 2023-07-13 22:06:15 im pretty sure those dont tag
+creations-chat 2023-07-13 22:16:08 tristar:
+douglas dc-10:
+creations-chat 2023-07-13 22:18:23 whoever said that is in cloud 9, not in a good way
+creations-chat 2023-07-13 22:20:27 hmm this is a very fine engine
+https://i.gyazo.com/9ff2faafd43be8e6ce69f07929d46d77.png
+creations-chat 2023-07-15 00:20:57 If I were to make the ukraine flag would I get 200 upvotes then
+creations-chat 2023-07-15 00:49:11 People be meatriding ukraine so I wouldnt be surprised if making a flag would be the reason I get expert designer
+creations-chat 2023-07-17 01:16:26 isnt telling people to kill themselves bannable
+help 2023-07-17 01:18:51 put ballast blocks on the edges of the wings or remove hover engines, this will eliminate the issue
+help 2023-07-17 01:19:19 I've had that issue in the past and I fixed it completely by either removing all hover thrusters on the build or adding ballast blocks away from the cog
+creations-chat 2023-07-17 01:19:53 wrong glasses; I use aviators
+creations-chat 2023-07-17 01:25:09 <:clueless:942802644043464734> https://i.gyazo.com/c437bcaa5fe4ae166d73751f32c0f5b5.png
+creations-chat 2023-07-17 01:31:19 still got the glasses wrong, they should look more like this:
+https://i.gyazo.com/b91d2ba8793544cc1b7bd504623d9189.png
+creations-chat 2023-07-17 01:33:22 https://create.roblox.com/marketplace/soundeffects?creatorName=&includeOnlyVerifiedCreators=true&keyword=&pageNumber=1&querySource=0

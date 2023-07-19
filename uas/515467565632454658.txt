@@ -1,2 +1,18 @@
-evkonar_abi_
-plane-crazy 2020-05-17 09:32:42 umm
+The Tale of evkonar_abi_ (515467565632454658)
+bot-central 2020-05-28 23:15:38 &help
+bot-central 2020-05-28 23:16:51 &suggest
+[Delay for Disconnectors]
+[MECHANICAL]
+Make a new configurable that is Delay, the valid delay should be 0 - 10 seconds.
+help 2020-05-28 23:45:37 how do you send a suggestions?
+help 2020-05-28 23:49:05 <@!461268283765555230> try to press shift or ctrl
+help 2020-05-28 23:50:16 um
+help 2020-05-28 23:50:19 idk now
+help 2020-05-28 23:50:36 oh
+help 2020-05-28 23:50:41 hovers have weight limits
+help 2020-05-28 23:51:30 try to adding hover thrusters till it hovers
+help 2020-05-28 23:51:43 it will help
+help 2020-05-28 23:52:02 wont helium make things lighter
+help 2020-05-28 23:52:31 yes
+help 2020-05-28 23:52:42 epic
+bot-central 2020-05-28 23:57:16 ?rhelp

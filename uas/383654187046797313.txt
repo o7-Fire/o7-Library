@@ -1,10 +1,19 @@
-VEIIINs
-plane-crazy 2020-06-11 01:11:47 i know..
-plane-crazy 2020-06-11 01:11:05 because "motor 2" don't have "lock"
-plane-crazy 2020-06-11 01:10:37 delete bottom motor, and place "motor", not "motor 2"
-plane-crazy 2020-06-11 01:09:39 ahh..
-plane-crazy 2020-06-11 01:08:20 <@!596741777432510474> make max torque on all motors.. on max and turn "Lock" on the bottom motor
-plane-crazy 2020-06-11 01:06:24 take a screenshot with motors
-plane-crazy 2020-06-06 18:38:53 ohh
-plane-crazy 2020-06-06 18:38:34 Does anyone know when the summer event will be around?
-plane-crazy 2020-06-06 18:38:28 hmm
+The Tale of VEIIINs (383654187046797313)
+help 2020-06-01 01:51:53 Guys, for what need "fixed" in "smoke pipe"?
+help 2020-06-01 01:52:29 thx
+help 2020-06-01 02:27:13 if my ship is stable, but heel slightly when turning due to its low height and because of this I correct it with propellers, can it be considered stable?
+creations-chat 2020-06-01 04:17:04 Make more screenshots
+creations-chat 2020-06-10 21:45:49 Guys I need help. What should I do, a tank or a large crane (2000-3000 blocks)? Or tell me what to do
+creations-chat 2020-06-10 21:46:51 okay 😄
+help 2020-06-11 01:04:29 Explosions can be do with TNT and rockets, no more.
+creations-chat 2020-06-11 01:57:35 <@!251174713890439169> What do u think about my MiG 1.44?
+the-dump 2020-06-17 03:48:43 Where 18+ content? this is just a dota 2 forum
+the-dump 2020-06-17 03:50:49 > <@!383654187046797313> you need some help
+<@!227539187358892033> Yes, roblox dont work, do you can help?
+the-dump 2020-06-17 03:52:35 Maybe.. but not today
+help 2020-06-21 12:31:58 How can i use friction block? And what can he do
+help 2020-07-30 16:10:14 for what need lock in piston?
+help 2020-08-12 13:24:00 What changes material on Control Surface?
+help 2020-08-12 13:26:42 If I use a Diamond Plate, my plane becomes uncontrollable :/
+help 2020-08-12 13:27:35 So the material changes something
+help 2020-08-12 13:28:01 but idk what

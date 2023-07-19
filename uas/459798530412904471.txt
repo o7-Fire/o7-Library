@@ -1,0 +1,2 @@
+The Tale of tex5 (459798530412904471)
+bug-reports 2021-08-29 12:43:39 Not sure if it's a bug but it's really annoying, when I want to drive the plane, it sometimes does a thingy where it's like it's gravity is affected, it falls really slowly, and the motors start spinning in one direction, instead of following the mouse cursor. Only sometimes it spawns correctly and it's really annoying. One time I spawned the plane 25 times and still nothing.

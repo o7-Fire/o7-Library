@@ -1,0 +1,9 @@
+The Tale of j_akee (555858278161055784)
+bot-central 2020-11-09 20:30:03 -verify
+bot-central 2020-11-09 20:30:25 -verify xJ_akester
+bot-central 2021-02-13 17:26:58 !verify
+bot-central 2021-02-13 17:27:09 !getroles
+bot-central 2021-02-13 17:27:21 -getroles
+bot-central 2021-02-14 16:13:11 <@!660341617537843210>
+bot-central 2021-02-14 16:14:18 -verify
+bot-central 2021-02-14 16:14:22 -verify vcxvqr

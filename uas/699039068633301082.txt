@@ -1,0 +1,101 @@
+The Tale of rogues3 (699039068633301082)
+bug-reports 2020-08-14 02:27:43 Folded control surfaces dont work when you move your mouse up and down, if you have no keybinds for them.
+bug-reports 2020-08-14 02:27:48 
+bug-reports 2020-08-14 02:30:56 ^ its a memeified version of a b29
+bug-reports 2020-08-14 02:31:23 yea ik
+bug-reports 2020-08-14 02:36:10 still tho, I spent 4-5 hours making that plane and it can't even fly :/
+the-dump 2020-09-08 21:40:36 me and the bois going to the farlands
+bot-central 2020-09-14 17:01:29 ?shelp
+bot-central 2020-09-14 17:01:38 ?rhelp
+bug-reports 2020-09-14 18:20:35 when you get stuck below the huge jet engine and click jetpack, you get flung into the air.
+bug-reports 2020-09-14 19:35:48 trap doors are broken as hell lmao, open and close for you, but stay closed for other players.
+my screen:
+bug-reports 2020-09-14 19:35:57 my friend's screen:
+help 2020-09-20 19:54:19 how do you fix the day/night thing
+help 2020-09-20 20:04:19 i did that
+help 2020-09-20 20:04:21 it didn't work
+help 2020-09-20 20:04:41 is it normal for the button to be orange too
+help 2020-09-20 20:04:43 
+help 2020-09-20 20:12:09 its legit broken for me
+bug-reports 2020-09-20 20:13:05 I keep trying to activate "night" mode, and it just doesn't work, it just stays "day."
+help 2020-09-20 20:21:39 i did that
+help 2020-09-20 20:21:45 still broken :/
+creations-chat 2020-09-20 20:25:25 yee
+creations-chat 2020-09-20 20:37:44 it was based off a catamaran carrier i saw
+creations-chat 2020-09-20 20:38:02 aka
+creations-chat 2020-09-20 20:38:03 t h i s
+creations-chat 2020-09-20 20:38:04 
+creations-chat 2020-09-20 20:39:34 much cursed
+creations-chat 2020-09-20 20:40:20 ikr lol
+creations-chat 2020-09-20 20:41:20 thats a picture i pulled off from a website
+creations-chat 2020-09-20 20:41:28 d e a l
+creations-chat 2020-09-20 20:41:44 give me 20 or 30 minutes and a bucket
+creations-chat 2020-09-20 21:20:18 <@!722974995118162041>
+creations-chat 2020-09-20 21:20:25 i did what you said for me to do
+creations-chat 2020-09-20 21:20:27 
+creations-chat 2020-09-20 21:20:32 it looks bad but eh
+creations-chat 2020-09-20 21:30:35 how does this look
+creations-chat 2020-09-20 21:33:13 why would i not
+creations-chat 2020-09-20 21:33:14 lolz
+creations-chat 2020-09-20 21:33:50 does it look good though <@!289619211981029377>
+creations-chat 2020-09-20 21:34:06 lol
+creations-chat 2020-09-20 21:34:06 yeehaw
+creations-chat 2020-09-20 21:34:09 tonk?
+creations-chat 2020-09-20 21:34:10 more like
+creations-chat 2020-09-20 21:34:13 tenk
+creations-chat 2020-09-20 21:34:46 im adding jets onto the carrier btw
+creations-chat 2020-09-20 21:42:55 almost done
+bug-reports 2020-09-21 03:38:39 <@!403843930543882241> I rejoined several times, even tried to use the help from others, didn't work still. Legit nothing is working..
+bug-reports 2020-09-23 03:23:14 You can't turn night mode on when you click "day."
+help 2020-09-23 03:26:22 day/night mode is still broken for me
+help 2020-09-23 03:26:26 so rip
+help 2020-09-23 03:26:30 anyone know how to fix it?
+bug-reports 2020-09-23 22:53:33 ^ broken for me too, but i cant turn it to night at all.
+the-dump 2020-09-24 01:54:26 
+bug-reports 2020-10-17 23:45:41 For some reason, day/night doesn't work at all.
+I tried turning it on in the testing game thing, and it worked perfectly, yet not in the main game.
+help 2020-10-17 23:47:37 Does anyone know how to fix day/night? whenever I click it, the "day" doesn't turn to night. I tried this in the testing server and it worked, but not in the main game.
+bug-reports 2020-10-17 23:51:31 I tried that multiple times, it never worked.
+bug-reports 2020-10-17 23:51:53 I even just tried rn, still same.
+help 2020-10-18 18:44:14 So, I was doing Just Fish's Bismarck tutorial when I encountered a problem when doing the third fold. Since the hull size is 10 blocks, I tried making it 10 blocks on the 3rd fold, but it only let me do 8 because of the plot barrier. Everything was correct, so i have just no idea what to do..
+help 2020-10-18 19:19:49 i did
+help 2020-10-18 19:19:57 i followed the entire thing lol
+help 2020-10-18 19:22:03 the hull is 10 blocks on the bottom folds, but the plot barrier doesn't allow me to do 10 blocks for the top barrier, instead 8.
+help 2020-10-18 19:22:18 and whenever I move any cameras, the structure moves out of allignment
+creations-chat 2021-01-03 20:09:16 i just realized this lad posted a madvulpen jet in creations
+bug-reports 2021-01-19 02:57:31 For some reason, I cannot enter the "saves" menu. I keep clicking it, yet it doesn't let me see the menu.
+bug-reports 2021-01-19 02:57:45 i've tried resetting
+bug-reports 2021-01-19 02:58:45 i just rejoined too
+bug-reports 2021-01-19 02:58:52 same thing
+bug-reports 2021-01-19 03:02:40 nvm
+bug-reports 2021-01-19 03:02:43 i rejoined again
+bug-reports 2021-01-19 03:02:44 and it worked
+bug-reports 2021-01-19 03:02:46 ?
+bug-reports 2021-01-19 03:03:04 doe
+bug-reports 2021-01-19 03:03:04 i did wait
+bug-reports 2021-01-19 03:03:08 i waited for like 10 mins
+bug-reports 2021-01-19 03:03:12 before posting it
+bug-reports 2021-01-19 03:03:27 ye
+creations-chat 2021-04-14 21:45:22 cuz I stopped working on it
+creations-chat 2021-04-14 21:55:36 i completely had no idea how to make american turrets so I did that lol
+creations-chat 2021-07-19 19:24:20 yea, the hull is a bit **simplified**
+bug-reports 2021-10-29 00:39:59 still kept rejoining, didn't work
+bug-reports 2021-10-29 00:40:27 internet seems fine
+bug-reports 2021-10-29 00:40:35 it just keeps popping up for no reason
+bug-reports 2021-10-29 00:40:40 whenever i join a new server
+bug-reports 2021-10-29 00:41:19 i think its due to roblox being down
+bug-reports 2021-10-29 00:41:20 idk
+bug-reports 2021-10-29 00:45:38 yeah, i cant join the game without being kicked
+bug-reports 2021-10-29 03:56:50 yeah i know
+bug-reports 2021-10-29 03:57:11 no
+bug-reports 2021-10-29 03:58:21 i prob lost all of mine
+bug-reports 2021-10-29 03:58:25 since i tried to rejoin plane crazy a lot of times
+bug-reports 2021-10-29 04:02:19 i really just wanna go onto plane crazy and see if my builds are fine but i cant
+the-dump 2022-02-16 05:12:36 relatable
+the-dump 2022-02-17 01:31:55 classic roblox moment, when you get flung into deep space and become a box
+bot-central 2022-04-30 23:08:35 ?shelp
+bot-central 2022-04-30 23:08:45 ?rhelp
+the-dump 2022-06-01 02:55:55 isnt this just a mansion 💀
+the-dump 2022-06-02 06:37:37 https://tenor.com/view/always-has-been-among-us-astronaut-space-betrayal-gif-23836476
+the-dump 2022-06-02 17:47:40 hey i know you too
+creations-chat 2022-07-09 20:39:02 wth is that lol

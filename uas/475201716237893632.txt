@@ -1,13 +1,4 @@
-matt6049
-plane-crazy 2020-06-06 17:27:54 imagine being a good builder
-plane-crazy 2020-06-06 17:13:02 oh ok
-plane-crazy 2020-06-06 17:10:23 could someone help me?
-plane-crazy 2020-06-06 17:02:22 is there any way to prevent blocks from fusing when using suspensions?
-plane-crazy 2020-06-06 16:24:30 get in call so i can screenshare
-plane-crazy 2020-06-06 16:24:20 ill show you
-plane-crazy 2020-05-30 15:39:05 somehow
-plane-crazy 2020-05-30 15:39:01 they remove almost all friction
-plane-crazy 2020-05-30 15:38:30 suspensions with 0 stiffness are weird
-plane-crazy 2020-05-28 10:48:25 thanks
-plane-crazy 2020-05-28 10:48:23 cool
-plane-crazy 2020-05-28 10:47:33 are there any blocks with no weight?
+The Tale of matt6049 (475201716237893632)
+help 2020-06-06 17:23:42 is there any way to prevent block fusing when using suspensions?
+help 2020-06-06 17:25:10 i have this thingy that can accelerate exponentially by using 0 stiffness and 0 damping suspensions but after a while it just fuses together
+help 2020-06-06 17:34:18 rip

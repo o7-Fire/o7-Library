@@ -1,0 +1,169 @@
+The Tale of the_creator8888 (469318402087845898)
+help 2020-09-14 00:12:45 For thin, pole-like structures do you guys use wing trails or what?
+help 2020-09-14 00:15:07 Like wires on a tank, for example
+help 2020-09-14 00:15:21 How does one get rid of the trails ambient sparkle or whatnot?
+help 2020-09-14 00:15:55 Ah
+help 2020-09-14 00:15:58 Thanks
+help 2020-09-25 21:49:08 Can someone briefly summarize how best to get huge cruiser-style sci fi ships to fly? Hover pads? Vertical propulsion? Helium?
+help 2020-09-25 21:58:09 Hmm
+help 2020-09-25 21:59:46 I see
+help 2020-09-25 22:01:08 Maybe adding some helium blocks to decrease the weight of the ship just enough to not require a gajillion propulsion blocks to lift the thing?
+help 2020-09-25 22:01:19 Concentrated on either end of the ship?
+help 2020-09-25 22:01:41 Aight
+help 2020-09-25 22:02:01 I see
+help 2020-09-25 22:02:17 ~~not that I have time to try that out right away but~~ thanks
+help 2020-10-02 06:18:46 How do you get blocks that aren't standard light blocks (ie. not 1x1 cubes) to be lights? Is there like a special neon material or is there some trick?
+help 2020-10-02 06:31:02 Huh?
+help 2020-10-02 06:31:19 I meant physical lights with luminescent properties lol
+help 2020-10-02 06:31:57 Like I see a lot of creations over at its channel showcasing builds with slopes and other complex shapes as functional lights and I was wondering what the secret to that is
+help 2020-10-02 06:36:57 Like on the latest post in <#384025409945337856> with the cop car
+help 2020-10-02 06:37:24 How the rear lights aren't the standard lightblock
+help 2020-10-02 06:37:49 Ah
+help 2020-10-02 06:38:26 I see
+help 2020-10-02 06:38:50 (Kinda wish there was like a neon material lol)
+help 2020-10-02 06:38:51 Thanks
+creations-chat 2020-10-14 17:25:48 Did... did someone remove a creation from <#384025409945337856> after pinging me for a critique?
+creations-chat 2020-10-14 17:27:51 I see...
+help 2020-10-30 02:17:12 Is there an alternative to TNT motorlocking/toggleable motorlocking that allows me to compress whatever I want to compress whenever I want in a public, no-PVP server?
+help 2020-10-30 02:22:02 So in the standard motorlock array, the staggered scaffold-looking one, instead of putting a TNT block between each thing like usual, one single disconnector facing towards one of the motorlock thingies will work?
+help 2020-10-30 02:22:55 Ah so
+help 2020-10-30 02:23:01 
+help 2020-10-30 02:23:02 Like this
+help 2020-10-30 02:23:16 But with disconnectors instead of TNT?
+help 2020-10-30 02:24:26 Horizontally?
+help 2020-10-30 02:24:34 Or vertically?
+help 2020-10-30 02:24:40 Aligned with the two stacked motors?
+help 2020-10-30 02:24:52 Nice
+help 2020-10-30 02:24:55 Thanks a bunch
+help 2020-10-30 02:25:10 Gonna try it on a supercarrier this weekend :D
+help 2020-10-31 02:09:23 How did the suspension-rope elevator go again?
+help 2020-10-31 02:11:41 I tried with a suspension-rope design and that's why I'm here lol
+help 2020-10-31 02:12:09 Like would simply a rope and suspension vertically placed be enough?
+help 2020-10-31 02:12:26 Umm alrighty Ig
+help 2020-10-31 02:12:28 Thanks anyway
+help 2020-10-31 02:14:02 I'm tooling around with just pistons rn since the elevator doesn't need to be that tall
+help 2020-10-31 02:15:23 Ok nvm I'll need to think of something else
+help 2020-10-31 06:57:19 If anyone's built a carrier before with an elevator or knows how to build one of the side elevators you see on supercarriers like the Nimitz or Ford please share with me how to do so
+help 2020-10-31 22:02:05 Anyone with aircraft carrier knowledge or just elevator knowledge have any tips for building the elevators on the sides of supercarriers like the Nimitz or Ford?
+help 2020-11-01 00:30:15 Please somebody help me; I need a compact elevator design that won't freak out
+help 2020-11-01 00:57:52 I'm trying pistons... again...
+help 2020-11-01 01:02:25 Those exist?
+help 2020-11-01 01:02:36 Oh they do
+help 2020-11-01 01:02:58 I had not noticed lol
+help 2020-11-01 01:03:01 Thanks
+help 2020-11-01 01:03:31 I think whatever I'm doing with pistons is making my carrier a tad ch0nky but it fits the aesthetic ok
+help 2020-11-01 01:03:40 But I'll definitely take advantage of the 1x0.9 blocks
+help 2020-12-19 01:37:35 There seems to be a bug or something where sparklers don't load correctly; is this an isolated problem or are others experiencing this also?
+help 2020-12-19 01:54:13 Like it seems they won't load the placed direction
+help 2020-12-19 02:27:59 Ah
+help 2020-12-19 02:28:01 Rip
+help 2021-01-24 02:10:01 Yo uhh why isn't colored glass a thing anymore?
+help 2021-01-24 02:48:20 That explains a lot
+help 2021-02-20 01:49:22 Can one rotate builds?
+help 2021-02-20 01:49:37 I'm tryna build tank suspensions and I built it backwards
+help 2021-02-20 01:49:53 Or do I have no choice except to spawn the tank in backwards?
+help 2021-02-20 01:50:13 Dang
+help 2021-02-20 01:50:57 Well
+help 2021-02-20 01:51:00 I uhh
+help 2021-02-20 01:51:12 Tried to build a Christi or whatever it's called
+help 2021-02-20 01:51:33 I built it with the L bend after the wheel, not before
+help 2021-02-20 01:54:04 A piston?
+help 2021-02-20 01:55:12 How does that work?
+help 2021-02-20 01:55:35 What does moving the piston do?
+help 2021-02-20 01:56:06 Hm
+help 2021-02-20 01:56:27 I'll give it a shot
+help 2021-02-20 01:57:12 Alr
+help 2021-02-20 01:57:51 What about the elevated front and rear wheels like in modern MBTs?
+help 2021-02-20 01:58:37 Hm
+help 2021-02-20 01:58:50 Aren't they tied to the next wheels over?
+help 2021-02-20 01:59:00 Suspension wise
+help 2021-02-20 02:01:35 I can't set pistons to unpowered
+help 2021-02-20 02:01:41 0 max force?
+help 2021-02-20 02:03:48 So the yellow blocks are where it's supposed to connect to the body?
+help 2021-02-20 02:04:48 Also what configuration should the suspension follow?
+help 2021-02-20 02:06:11 I see
+help 2021-02-20 02:06:17 I think mine may be a bit heavy
+help 2021-02-20 02:06:31 I'm putting on quite the aesthetic show on top of this
+help 2021-02-20 02:09:35 Can't see much into it :/
+help 2021-02-20 02:09:55 Did you check the suspension configuration?
+help 2021-02-20 02:14:04 I see
+help 2021-02-20 02:14:07 Thanks
+help 2021-02-20 02:17:33 The first diagram you posted is leaving my tank as stiff as a rock
+help 2021-02-20 02:17:45 Can you tell me the piston specifications again?
+help 2021-02-20 02:18:29 I see
+help 2021-02-20 02:18:32 Thanks
+help 2021-02-20 02:19:03 Is it meant to activate when going forward?
+help 2021-02-20 02:19:20 Ah
+help 2021-02-20 02:20:32 I see
+help 2021-02-20 02:20:33 Thanks
+bug-reports 2021-04-03 00:49:18 Yo is the sparkler bug fixed yet?
+bug-reports 2021-04-03 00:49:37 Where if you spawn a creation with sparklers they're not oriented where you put them
+help 2021-04-03 03:53:05 So I'm making an otobreda 40 mm twin gun; y'all know if there's any convincing ways to replicate the look of a twin barrel one block wide?
+help 2021-04-03 03:53:30 If not I can just do the one barrel, although thus sacrificing authenticity
+help 2021-04-03 03:56:47 I'm planning on making the turret close to 1:1 scale and movable so it's cramped enough already :/
+help 2021-04-03 03:58:28 Perhaps I'll consign to a single barrel
+help 2021-04-03 03:58:30 Thanks anyway
+help 2021-04-17 22:02:53 Is there any way to add the line dividing thingies on ship bridges on a half wedge bridge like this one?
+help 2021-04-17 22:09:40 Yes Ik how motorlocking works
+help 2021-04-17 22:09:51 I just don't know how to use it in this instance
+help 2021-04-17 22:09:51 Yes Ik how motorlocking works
+help 2021-04-17 22:10:29 Like would I need to use another motor to tilt something like a trail a bit or is there an easier way?
+help 2021-04-19 00:16:13 Can someone help me with my single rotor helicopter? I can't get the physics to work for me
+help 2021-04-19 00:17:39 It's extremely unstable when I try to take off
+help 2021-04-19 00:17:40 Yeah
+help 2021-04-19 00:20:03 
+help 2021-04-19 00:20:04 
+help 2021-04-19 00:20:20 Oh
+help 2021-04-19 00:20:38 The rotor one needs to be unpowered?
+help 2021-04-19 00:21:22 I see
+help 2021-04-19 00:21:53 Well I did that and it is now stabilized upon rotor turning on but when I increase the angle of my rotors it spins out of control again
+help 2021-04-19 00:22:03 Is my tail get up also flawed?
+help 2021-04-19 00:22:06 (Gimme a sec)
+help 2021-04-19 00:22:28 
+help 2021-04-19 00:22:53 Would I need only one unpowered motor?
+help 2021-04-19 00:23:25 I see...
+help 2021-04-19 00:24:19 Also would helium help to take weight off the tail or should I add blocks up front?
+help 2021-04-19 00:26:20 Because English is awesome
+help 2021-04-19 00:28:20 Wait a second
+help 2021-04-19 00:28:26 Do tail rotors not have an angle
+help 2021-04-19 00:28:34 Or do they
+help 2021-04-19 00:28:35 Idk
+help 2021-04-19 00:29:42 Rotors is rotors in Spanish, mi hombre
+help 2021-04-19 00:30:11 I'm still lost as hell ;-;
+help 2021-04-19 00:33:59 Rip
+help 2021-04-19 00:34:00 Well
+help 2021-04-19 00:55:28 So the top rotor needs to be perfectly balanced with the entire craft, I'm guessing
+help 2021-04-19 01:04:49 How exactly should I work a tail rotor? With the above advice, the top rotor propels with super rockets on a free bearing motor clockwise, so how should I accordingly set my tail rotor?
+help 2021-04-19 01:06:06 I assume the tail rotor's purpose is to offset the helicopter torque
+help 2021-04-19 01:06:35 But Idk if there's a good way to sync the tail rotor ok enough with the torque of the central rotor
+help 2021-04-19 01:08:46 The helicopter still torques tho
+help 2021-04-19 01:09:07 (Also the copter I'm modeling this after has one too)
+help 2021-04-19 01:15:43 What about a big propeller as the tail rotor?
+help 2021-04-19 01:20:31 https://streamable.com/qj7zlb
+help 2021-04-19 01:20:36 Idk
+help 2021-04-19 01:20:47 The tail's likely too heavy but there's something else as well
+help 2021-04-19 01:23:39 
+help 2021-04-19 01:23:41 
+help 2021-04-19 01:23:56 Sorry for the obtrusions
+help 2021-04-19 01:26:05 Even if the copter were in balance with its rotor, isn't another stabilizing element required?
+help 2021-04-19 01:29:25 And to have it fly comfortably, does rotor length, rotor speed, or rotor angle matter the most?
+help 2021-04-19 01:29:58 (If it's a balance of all three idk how to do that at all so please elaborate)
+help 2021-04-19 01:30:13 Idk so many questions with this pos
+help 2021-05-01 01:14:59 Why are conveyors so friggin hard to paint?
+help 2021-05-01 01:15:15 Like sometimes I can paint the thin plate color and other times I can't
+help 2021-05-01 01:15:33 Idk if there's a remedy but so far I keep deleting and replacing the conveyor block
+help 2021-05-01 01:17:23 When I place them in my current creation, no sides seem to be accepting the paint
+help 2021-05-01 01:17:40 I wish there was just some grill block
+help 2021-05-02 02:31:27 How does one make explosive reactor armor convincingly?
+help 2021-05-02 02:31:48 Like is there a block that allows for a small gap on all sides?
+help 2021-05-02 03:54:55 Thanks
+help 2021-05-02 04:01:49 Wait so like a pattern that alternates between portrait and landscape?
+help 2021-05-02 04:04:55 How do you mean?
+the-dump 2021-05-10 05:50:54 https://youtu.be/dTlld8BbJ_8
+creations-chat 2021-08-06 20:38:49 Thanks :D
+creations-chat 2021-08-06 22:14:22 Lmao this isn't for a group; I was doubtful of the camo myself, but it's what the colors are. I think the only solution to the camo problem could be to introduce artificial shadows and the like.
+creations-chat 2021-08-06 22:17:15 Maybe I can make like a winter, desert, or some other variant in which solid colors replace the kinda jank camo pattern that proves difficult to replicate through blocky shapes
+creations-chat 2021-08-06 22:21:47 It's within my capabilities overall, since I've done so with my Cromwell after I made the K2, but as for refitting the K2 with treads, that could be tricky, particularly because the K2 has substantially more motorlock than the Cromwell, and the amount of motorlock on the Cromwell itself makes it spazz with treads sometimes
+creations-chat 2021-08-09 22:22:53 Apologies for the awful quality of the pics
+creations-chat 2021-08-09 22:25:08 Thanks
+creations-chat 2021-08-10 03:14:37 I really like this

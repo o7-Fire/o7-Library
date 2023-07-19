@@ -1,2 +1,13 @@
-noxsova
-plane-crazy 2020-06-20 21:08:27 i found this hover car in the water. it doesn't belong to anyone on the server either.
+The Tale of noxsova (463222643798310932)
+bug-reports 2020-10-20 18:26:12 i got kicked from a private server, so i might have just lost all of my saves?
+bug-reports 2020-10-20 18:27:03 Unless someones got stable private servers, i see six people total in planecrazy
+bug-reports 2020-12-02 03:47:46 When ever i get up from my chair and sit back down, some of my pistons de-synchronize with the others. They're all bound to the same button but on will go in and one will go out
+bug-reports 2021-01-11 18:58:31 
+bug-reports 2021-01-11 18:58:38 
+bug-reports 2021-01-11 18:58:50 wedges welding together even tho nothing is touching
+bug-reports 2021-01-11 19:01:52 is there a specific pin channel i need to read? because i don't see wrong wedge weld in pins
+bug-reports 2021-01-11 19:02:17 ah.
+bug-reports 2021-01-11 19:02:37 my bad, then. sorry
+bug-reports 2021-01-11 19:03:27 aaahh
+bug-reports 2021-01-11 19:03:34 that makes sense, but it shouldnt
+bug-reports 2021-01-11 19:03:53 thank you

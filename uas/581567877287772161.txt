@@ -1,0 +1,5 @@
+The Tale of lim8 (581567877287772161)
+bug-reports 2022-04-07 21:00:01 When rotating motors the attached blocks and motor section (Plate or rod) physically detaches and changes position- not a visual error since it affects the creations physics
+bot-central 2022-04-07 21:06:19 !rank
+bot-central 2022-04-07 21:06:36 ah jeez
+bot-central 2022-09-24 01:41:09 !rank

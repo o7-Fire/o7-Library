@@ -1,0 +1,5 @@
+The Tale of DemonicFireX (528372722481233944)
+help 2021-10-27 21:16:19 What does the "ignore self" option in explosive blocks do? I wanted to start using explosive blocks for a project of mine and I want to know what I can do with them.
+help 2021-10-27 21:23:37 That makes more sense, so basically making the explode on impact work on everything other than my build
+help 2021-10-27 21:23:55 I thought it meant the ex. block would ignore itself
+help 2021-10-27 21:24:03 I am a bit **d e n s e**

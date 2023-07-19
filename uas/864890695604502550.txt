@@ -1,0 +1,29 @@
+The Tale of krunev (864890695604502550)
+creations-chat 2022-10-29 07:46:42 how do you post something in creation
+help 2022-10-29 07:54:16 hold it
+help 2022-10-29 07:55:28 try add a motor 2 with no power and limited angle on top or just put a block to stop it from moving more
+help 2022-10-29 07:59:22 the block in the middle is the half block
+help 2022-10-29 08:00:01 when you hold the motor
+help 2022-10-29 08:00:09 the motor 2 will stop it
+help 2022-10-29 08:00:24 also flip the motor upside down i made a mistake
+help 2022-10-29 08:01:26 
+help 2022-10-29 08:02:25 oh then use this
+help 2022-10-29 08:02:27 wait
+help 2022-10-29 08:04:32 
+help 2022-10-29 08:04:43 the green is for connect to the body
+help 2022-10-29 08:04:49 yellow is the motor 2
+help 2022-10-29 08:05:03 red is for connect to the side of the intake
+help 2022-10-29 08:05:18 gray is disconnecter
+help 2022-10-29 08:06:52 i mean if you don't want the motor 2 to be connected then use it
+help 2022-10-29 08:07:07 if no then just use other block that don't connect to the spring
+help 2022-10-29 08:09:30 make it 0.01
+help 2022-10-29 08:12:12 maybe make it like 0.05
+help 2022-10-29 08:12:25 if the space is less than 1 block
+help 2022-10-29 08:14:11 also how you get image permision in the creations?
+help 2022-10-29 08:14:50 too much space in the motor yet too little lock part
+help 2022-10-29 08:17:12 i don't like use much motor lock since it just make my build slow down for some reason instead of fps drop
+help 2022-10-29 08:17:42 that alot of space
+help 2022-10-29 13:01:59 how come some people able to send their creation
+help 2022-10-29 13:06:36 ok
+bot-central 2023-05-08 14:55:06 !rank
+bot-central 2023-05-09 04:35:02 !rank

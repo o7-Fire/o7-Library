@@ -1,0 +1,8 @@
+The Tale of man2222222222 (168517341225811968)
+bug-reports 2018-11-18 02:35:39 [PVP mode] When I fire an arena gun in front of me it does damage to and removes parts of my character.
+bug-reports 2018-11-18 02:46:47 that's dum cause a normal bullet's velocity would add to the velocity of the thing firing it
+bug-reports 2018-11-18 02:47:27 wait.. it goes through the glass too
+bug-reports 2018-11-22 02:21:02 Are the guns both client and server side? It's causing the physics replication to disconnect from the server when specific parts of assemblies are broken off.
+bug-reports 2018-11-22 02:26:19 the problem mainly is that the yellow lines also seem to do damage, and when those do it messes up the physics replication
+bug-reports 2018-11-22 02:26:37 like, it causes planes to fly around even if you don't see the wings on them
+bug-reports 2018-11-22 02:34:37 also, combat rockets keep getting stuck.

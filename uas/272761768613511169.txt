@@ -1,16 +1,10 @@
-cagetin
-plane-crazy 2019-08-08 17:35:28 BRUH
-plane-crazy 2019-08-08 17:34:53 BRUH
-plane-crazy 2019-08-08 17:34:33 BRUH
-plane-crazy 2019-08-08 17:34:27 BRUH
-plane-crazy 2019-08-08 17:34:25 BRUH
-plane-crazy 2019-08-08 17:34:24 BRUH
-plane-crazy 2019-08-08 17:34:23 BRUH
-plane-crazy 2019-08-08 17:34:22 BRUH
-plane-crazy 2019-08-08 17:34:20 BRUH
-plane-crazy 2019-08-08 17:34:18 BRUH
-plane-crazy 2019-08-08 17:34:17 BRUH
-plane-crazy 2019-08-08 17:34:12 BRUH
-plane-crazy 2019-08-08 17:34:10 AFAGKLDBU
-plane-crazy 2019-08-08 17:34:07 AAAAAAW
-plane-crazy 2019-08-08 17:34:03 W HO
+The Tale of cagetin (272761768613511169)
+bug-reports 2019-08-05 18:24:15 Anyone know if there's something certain you need to do to get the disconnector working? For me it sometimes works perfectly, sometimes just drops itself but not the bomb it's holding and sometimes doesn't even respond to the key.
+bug-reports 2019-08-05 18:29:32 Right now it's not working at all.
+help 2019-08-05 19:33:59 How do I add propellors to a propellor engine?
+help 2019-08-05 19:35:31 then what's the point of them?
+help 2019-08-05 19:36:03 Ah.
+help 2019-08-06 11:41:50 is there a possible way to bind thrusters and others to other keys so they all don't start on the same key?
+help 2019-08-06 11:42:06 when i bind a thruster, it binds all of them on the same jkey
+help 2019-08-06 11:42:08 key*
+help 2019-08-06 11:46:11 And now it works for some reason.

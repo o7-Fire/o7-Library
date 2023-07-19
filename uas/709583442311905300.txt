@@ -1,0 +1,4 @@
+The Tale of mehlm (709583442311905300)
+help 2023-01-20 00:41:00 When i put an anchor on my missile truck to stop the missile mid air the controls are inverted, all the control panels and motor 2 is inverted, i set the motor 2 settings to "inverted" to combat this and it only fixed the aiming not the control panels. The missile is mouse guided. Without the anchor its fine, anyone have a solution? this truck isnt mine if u would like to see how its build i can send the video of the guy who made it.
+help 2023-01-20 00:41:43 also for some reason it worked perfectly with the anchor one time and that was it never again, resetting and rejoining does not fix this
+help 2023-01-20 03:00:30 usually if i hit something the blast doesnt register at faster speeds, weather i hit it, blow it up before or after it passes the target. if i stop the missile in its tracks at the nose of the target it registers 100 percent of the time no matter the speed

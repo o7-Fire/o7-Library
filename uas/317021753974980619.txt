@@ -1,2 +1,15 @@
-levienci
-plane-crazy 2019-06-24 18:18:22 that seems like it would be a fun thing to try
+The Tale of levienci (317021753974980619)
+creations-chat 2019-03-05 03:08:18 It ain't much in size, but this is a fictional ultralight open-cockpit concept design called the CAF-X-19
+creations-chat 2019-03-05 03:08:21 
+creations-chat 2019-03-05 03:08:40 And it's INCREDIBLY manueverable
+creations-chat 2019-03-05 03:09:34 Like 280 SPS
+creations-chat 2019-03-05 03:10:54 Which is about 166 MPH
+creations-chat 2019-03-05 03:12:50 time to get mathy
+creations-chat 2019-03-05 03:13:28 if *x* is studs per second and miles per hour is *y*
+creations-chat 2019-03-05 03:14:42 *y* = ( *x* / 1.127) X 0.61818
+creations-chat 2019-03-05 03:14:47 ok done
+creations-chat 2019-03-05 03:15:00 but that's how you convert studs per second to mph
+creations-chat 2019-03-05 03:15:52 and it's not even a glider
+creations-chat 2019-03-05 03:15:55 it's got rockets
+creations-chat 2019-03-05 03:18:03 
+creations-chat 2019-06-24 23:32:41 An inconveniently long dinghy. not much effort, more of a comedic build

@@ -1,0 +1,15 @@
+The Tale of stun_seed01 (716908395612864532)
+the-dump 2020-11-10 01:40:41 :?
+bug-reports 2021-04-29 04:09:05 motor 2 is broken.
+When spun on high rotation or idk what's that called The motor 2 glitches and instantly glitches and won't work in any key bind, Nor position.
+bug-reports 2021-04-29 15:48:12 it was on max :/
+bug-reports 2021-05-07 09:20:38 Piston bug:
+Every time I use piston and I switch from main pilot seat to pilot seat It bug's out. By I mean by bug out is it malfunctions. It Doesn't go up or down fully. It just stays there for no reason.
+bug-reports 2021-05-26 03:04:43 Impossible
+bug-reports 2021-05-26 03:05:02 Oh Normal motor and motor 2 bugged like damn
+bug-reports 2021-05-26 03:05:52 The (Normal Motor) kept wiggling for no reason without any block on the offset side which can cause it.
+bug-reports 2021-05-26 03:06:43 The (Motor 2) goes for same reason as (Normal Motor) But more bugged than ever.
+bug-reports 2021-11-13 03:10:45 Some of the wedges 2 parts are not appearing for me or other
+bug-reports 2021-11-13 03:12:36 wedge down and up is gone
+bug-reports 2023-04-04 01:56:42 :(
+bot-central 2023-07-18 09:55:44 !rank

@@ -1,0 +1,10 @@
+The Tale of ihavenoideawhatimdoing (336777626859339778)
+bot-central 2021-08-14 23:33:12 !rank
+help 2021-08-23 03:46:18 if im making a mini ship, and its too fast, what can I do to make it slower? (its using a single propellor engine with a motor to turn)
+help 2021-11-09 09:11:25 anyone know if there is a way to make this vehicle stop tipping over other than slowing down?
+help 2021-11-09 09:11:30 normally i would just try slowing down the vehicle but the whole focus of this one is speed
+help 2021-11-09 09:12:42 oh yeah
+physics
+help 2021-11-09 09:12:48 well, thanks for helping
+help 2021-11-09 09:13:49 yeah, im gonna keep one rocket so i can aim up and down
+help 2021-11-09 09:13:53 and the rest on the side

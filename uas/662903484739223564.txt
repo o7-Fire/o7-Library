@@ -1,0 +1,224 @@
+The Tale of officeroscar2019 (662903484739223564)
+help 2021-07-21 07:00:32 I made a tandem double rotor heli and when I take it for a fly and make the slightest change in yaw, it starts to shake uncontrolably, I know its a stability issue, how do I fix it?
+help 2021-07-21 07:10:42 ok
+help 2021-07-21 07:11:18 
+help 2021-07-21 07:11:27 
+help 2021-07-21 07:11:38 Its pretty much empty
+help 2021-07-21 07:12:59 it wouldnt be that cause take off and landing is smooth, its just if I turn it wll have a siezure
+help 2021-07-21 07:13:36 yeah,
+help 2021-07-21 07:13:44 if I turn,
+help 2021-07-21 07:14:07 then when it pitches back it will start to wobble from side to side until its unflyable
+help 2021-07-21 07:14:53 oh,
+help 2021-07-21 07:15:05 Ok ima try and get rid of the rear door motors
+help 2021-07-21 07:16:12 You wanna join me?
+help 2021-07-21 07:16:18 or you can stay in your server
+help 2021-07-21 07:16:21 I dont mind
+help 2021-07-21 07:19:36 oh ok
+help 2021-07-21 07:19:49 I dont wanna disturb you so ima fiddle around with it for a bit
+help 2021-07-21 07:28:08 yeah no, I cant figure it out
+help 2021-07-21 07:28:16 can I get some help?
+help 2021-07-21 07:29:27 ign?
+help 2021-07-21 07:29:47 OfficerOscar2019
+help 2021-07-21 07:30:03 Kalashnikova is my display name
+help 2021-07-21 07:31:17 Im the dude who looks like a riot agent who sniffed 10 bags of suger
+help 2021-07-21 12:00:00 hey guys
+help 2021-07-21 12:01:41 how do I make a helicopter hover in place, cause normally all my helis will just keep accending into the sky,
+help 2021-07-21 12:01:52 How do I make a heli hover?
+help 2021-07-21 12:15:59 wdym ballast at center of lift?
+help 2021-07-21 12:23:25 yeah but how do you go up and down if you hover
+help 2021-07-21 13:02:37 Bruh when I start the rotors on my new heli it just throws the heli around and has a siezure
+help 2021-07-21 13:03:03 Can somebody tell me how to place the rotor blades properlly?
+help 2021-07-21 13:19:51 Yeah
+help 2021-07-21 13:19:56 nvm about the rotors
+help 2021-07-21 13:20:01 I figured it out but
+help 2021-07-21 13:20:06 I dont know
+help 2021-07-21 13:20:19 how to make it pitch
+help 2021-07-21 13:20:31 and how to make the nose go up and down
+help 2021-07-21 13:20:53 yeah but im tryna make it eligible for the heli technition
+help 2021-07-21 13:21:22 hmm.
+help 2021-07-21 13:21:25 Ok
+help 2021-07-21 23:01:36 Im making a Sikorsky sky crane, a Heavy cargo lifting helicopter, should I put swash plate rotors on it?
+help 2021-07-21 23:59:59 You just add a short wheel base, just a frame with the wheels really close to each other, Like 1-2 blocks away depending on how menuverable you want it to be. Then connect that wheel base with a unpowered motor to the main frame then when you turn the short wheel base will guide the train and can turn hard without derailing
+help 2021-07-22 00:00:18 many modern trains have it,
+help 2021-07-22 01:59:10 Can somebody tell me how to make a custom Swash blade for my new heli?
+help 2021-07-22 02:03:49 damnit
+help 2021-07-22 02:06:19 bruh Im just gonna dedicate these last days of the week to try and make my new heli fly and make it eligible for the heli technition rank
+creations-chat 2021-07-22 02:22:13 m a j i k
+creations-chat 2021-07-22 02:30:11 What the hell is that
+help 2021-07-22 03:58:55 Put the cylinder on it?
+help 2021-07-22 04:46:59 nope
+help 2021-07-23 06:59:23 ayo
+help 2021-07-23 06:59:38 can yall teach me how to make a custom swash plate
+help 2021-07-23 07:00:22 whatchu needa build to make one?
+help 2021-07-23 07:01:43 ok
+help 2021-07-23 09:37:27 uh,
+help 2021-07-23 09:37:30 I mean,
+help 2021-07-23 09:37:37 normal regular rotors,
+help 2021-07-23 09:39:00 like the rotors you make with a motor, power or if un powered with rockets, the ones you make with the prop blades, those just generate lift, they make you go up and down,
+help 2021-07-23 09:39:06 But
+help 2021-07-23 09:39:11 Swash plates,
+help 2021-07-23 09:40:09 If you are a super duper pro like recktangular, If you make a good one with full swash plate systems installed on it, You dont need engines, you dont need nothing
+help 2021-07-23 09:40:18 not even a rear prop for turning,
+help 2021-07-23 09:40:25 though its optional,
+help 2021-07-23 09:41:22 A good swash plate can make you go forward with no engines, up and down, backward, strafe left and right and turning,
+help 2021-07-23 09:41:26 No no no,
+help 2021-07-23 09:41:30 For small helis
+help 2021-07-23 09:41:43 like bells Ud-1
+help 2021-07-23 09:41:50 You can make a mini version
+help 2021-07-23 09:41:57 still with all the features
+help 2021-07-23 09:42:05 but
+help 2021-07-23 09:42:22 Im making a big boy, The sikorsky CH-54 sky crane
+help 2021-07-23 09:42:37 I use a full size one,
+help 2021-07-23 09:42:48 Though I dont use a full system wash plate cause im lazy,
+help 2021-07-23 09:43:01 I just made one that goes up and down and can hover
+help 2021-07-23 09:43:15 no,
+help 2021-07-23 09:43:32 Hull redesign is not needed,
+help 2021-07-23 09:43:51 If your old normal rotors can lift you up straight up,
+help 2021-07-23 09:44:26 as long as your hull weight is balanced, the full system swash plate will work
+help 2021-07-23 09:44:29 Oh nah thats my old build
+help 2021-07-23 09:44:37 I built a new one
+help 2021-07-23 09:44:49 recktangular taught me how to make one
+help 2021-07-23 09:44:59 and I just make one outta scrap
+help 2021-07-23 09:45:02 oh ok
+help 2021-07-23 09:45:03 brb
+help 2021-07-23 09:46:41 here,
+help 2021-07-23 09:46:48 Posted in creations
+help 2021-07-23 09:48:02 new one
+help 2021-07-23 09:48:27 I put my own custom semi swash plate system in
+help 2021-07-23 11:07:16 Im working on it cause im like, Oh im just gonna make it look like a normal heli
+help 2021-07-23 11:07:18 then im like,
+help 2021-07-23 11:07:22 Oh it dont fly so good
+help 2021-07-23 11:07:26 so I put on swash plates
+help 2021-07-23 11:07:36 and then im like, oh it dont look so good with swash plates
+help 2021-07-23 11:07:45 so im redesigning the rear rotor and the top engines
+help 2021-07-23 11:09:51 Iam
+help 2021-07-23 11:10:09 Im gonna redesign the whole thing so it looks and acts like pure soviet steel
+creations-chat 2021-07-23 11:18:26 bruh Its my first swash plate I made all by myself, Im not tryna be rude but do yall expect a dude who usually dosent use advanced mechanisms to have a super duper first swash plate
+creations-chat 2021-07-23 11:32:00 Ok I get it bruh, Now dont disturbe me im whatching how to make more pickles outta pickle juice
+help 2021-07-23 11:35:12 Yes, I know
+help 2021-07-23 11:36:53 I mean, you cant really make the gear look alike,
+help 2021-07-23 11:37:31 Its impossible to add that much detail
+creations-chat 2021-07-23 11:39:25 bruh for a guy who usually uses premade stuff like the prop blades and props, its a pretty good start to my first custom advanced/basic rotor system ok?
+creations-chat 2021-07-23 11:44:49 bruh what did I do against yall, Im new to stuff like this, Its a start. We supposed to be a community, you aint even giving me constructive feed back you just saying it looks like a piece of poop
+help 2021-07-23 11:45:19 well the hell do you want me to use?
+help 2021-07-23 11:45:25 premade landing gears?
+help 2021-07-23 11:45:54 You want me to make a over sized custom landing gear that dont do anything?
+help 2021-07-23 11:46:05 You want me to take it from a tutorial?
+help 2021-07-23 11:46:16 Mate you tell me what you want me to do.
+creations-chat 2021-07-23 11:47:10 I officially hate this community.
+help 2021-07-23 11:48:42 Big boi water props connected to servo motor 2's
+creations-chat 2021-07-23 11:50:33 bruh whats the point of adding a creations feedback section if yall just call new players build pieces of s*** and say that they are bad at building and that what their build which they are proud of is a ugly noobie build that basic, also Its Oscar.
+help 2021-07-23 11:51:28 You cant motor lock that
+help 2021-07-23 11:51:36 its 1 block pillar,
+help 2021-07-23 11:52:20 you cant motor lock it otherwise it will just have holes on the sides, and if you put disconnectors on em it will still bulg
+help 2021-07-23 11:52:25 Its a 1 block pillar,
+help 2021-07-23 11:52:52 You cant motor lock a 1 block pillar otherwise theres holes on the side
+creations-chat 2021-07-23 11:53:30 Bruh so what? Saying that it aint "advanced" and that its basic and that you needa redesign the wle heli cause it dont look good, that you needa change the landing gears aint calling my build a piece of poopoo, well if you aint saying that you are at the least saying its bad
+creations-chat 2021-07-23 11:57:08 you are supposed to support a good community, I can take feed back, Its just that your feed back is PURE criticism targeted at new players, I dont see yall top rank dudes saying that to your other top rank friends yeah?
+help 2021-07-23 11:57:43 yeah, but what ever block you use beside a full block still has a hole in it,
+creations-chat 2021-07-23 12:00:27 bruh, fine im gonna take yall insults, I just expected a community that says they are all nice and rainbows to be all nice and rainbows
+help 2021-07-23 12:01:10 Uh
+help 2021-07-23 12:01:20 Make a super offroader
+help 2021-07-23 12:01:38 the typa thing that can jump the jump at the canyon
+creations-chat 2021-07-23 12:04:18 Bruh Im tryna stop this arguement, but what do yall call saying that your build is basic, that aint advanced, thats basic! that aint a swash plate, rebuild the whole thing, it looks bad, I get it feed back yeah but you are being mean about it.
+creations-chat 2021-07-23 12:06:20 No, I said its Advanced basic, cause I know it aint a full swash plate system but I can flex the wing panels and stuff, I didnt say its a advanced.
+creations-chat 2021-07-23 12:09:14 Ok, Now I get the definition, Now im gonna rebuild my heli cause yall told me its bad, Im gonna go to bad after this cause yall ruined my confidence
+help 2021-07-23 12:10:53 Your wifi is probs dying, cause these last few weeks ive been getting shitty wifi and my wifi cutting out and stuff
+help 2021-07-23 12:11:00 oh no,
+help 2021-07-23 12:11:18 is shitty a bad word here
+creations-chat 2021-07-23 12:11:49 I get it bruh, Dont needa remind me I dont know the definetion
+help 2021-07-23 12:12:01 Oh I know,
+help 2021-07-23 12:12:27 Adopt me probs added like a new wall paint color or something
+help 2021-07-23 12:13:29 goodnight, or uh bye if it aint night for you
+creations-chat 2021-07-23 12:48:07 Eh, In my opinion, Maybe the camo dosent fit it well, Maybe you can do like a green black or something...
+creations-chat 2021-07-23 12:56:40 Oh yeah, Green with grey or Olive green with gray
+creations-chat 2021-07-23 13:00:12 It looks a bit blocky, the shapes a bit funky, You could use more colour, Make the grill a light grey to make it look like chrome and make the cabin from the actual home a different colour
+help 2021-07-23 13:27:33 why not build a tough military 8x8
+help 2021-07-23 13:28:04 Alos, do any of yall know to make a heli hover?
+creations-chat 2021-07-23 13:51:24 M a j i k
+creations-chat 2021-07-23 22:53:05 I shall tell you something to enhance your suffering, I play on a 17 year old mac book air that some how runs better than my brothers 2017 dell laptop.
+help 2021-07-29 00:41:41 how do you build a swash plate
+help 2021-07-29 01:00:11 Bruh I dont how to build one
+help 2021-08-04 13:04:36 can somebody help me build a swash plate
+help 2021-08-04 13:05:20 im pretty sure they sink infinetly
+the-dump 2021-08-04 14:08:53 DEIN FURER
+the-dump 2021-08-04 14:09:12 What did he say
+the-dump 2021-08-04 14:12:25 Glückwunsch, du hast das gerade ohne Grund übersetzt, du Dummkopf.
+help 2021-08-29 06:42:23 Its heavy?
+help 2021-08-29 06:42:41 What does it not take off?
+help 2021-08-29 06:43:32 It dosent take off right?
+help 2021-08-29 06:43:53 Does it take off?
+help 2021-08-29 06:44:01 .
+help 2021-08-29 06:44:27 Take off means it leaves the ground and it flies.
+help 2021-08-29 06:45:00 Then whats the problem with it?
+help 2021-08-29 06:45:23 What?
+help 2021-08-29 06:56:15 Use spoilers.
+help 2021-08-29 06:58:00 Or,
+help 2021-08-29 06:58:21 You can use props.
+help 2021-08-29 07:03:49 ?
+help 2021-08-29 07:04:45 Oh.
+help 2021-08-29 07:04:53 Use rockets.
+help 2021-08-29 07:24:01 Use ladders.
+help 2021-08-29 08:11:01 I see some differences between the sides, theres bits of stuff
+help 2021-08-29 08:11:39 Add helium blocks then set it to "Apply to Center".
+help 2021-08-29 08:12:24 You can edit the helium blocks and theres a option that applies it to the center
+help 2021-08-29 08:12:46 I see a white block on the right top
+help 2021-08-29 08:13:03 Put it anywre you want,
+help 2021-08-29 08:13:43 That "apply to center" Option will make it so that the helium block is affecting the whole plane and not just 1 spot
+help 2021-08-29 08:14:14 The nose goes down?
+help 2021-08-29 08:21:47 Either,
+help 2021-08-29 08:22:08 You add helium blocks in the front,
+help 2021-08-29 08:22:29 Or add some blocks in the back to weigh it down
+help 2021-08-29 08:41:43 Put some helium blocks in the nose.
+help 2021-08-29 08:42:14 Then put more.
+help 2021-08-29 08:45:01 Bruh then I dont know how to fix it.
+help 2021-08-29 08:45:15 Sorry.
+creations-chat 2021-08-29 11:25:44 <@!683040274951176197> For your buggy, Make the wheels touch the ground fully, Otherwise it will have minimal traction which makes it a bad offroad vehicle
+help 2021-08-30 05:29:31 Who ghost pinged me, Who.
+help 2021-08-30 05:31:56 .
+help 2021-08-30 05:32:03 I saw that <@!715148402022678608>
+help 2021-08-30 05:32:34 Stop ghost pinging me.
+help 2021-08-30 05:33:13 I think somebody ghost pinged everyone.
+help 2021-08-30 05:39:43 STOP GHOST PINGING ME
+help 2021-08-30 05:40:04 I THINK THAT DA EXQUITED DUDE KEEPS GHOST PINGING US
+help 2021-09-02 01:52:36 You manually control them to hit targets more accuratly.
+creations-chat 2021-11-03 05:12:17 <@!325884967986921472>, The nose and the tail are really wonky looking, try adding some stabilizers and, maybe, get a more advanced rotor system on it for better performance.
+creations-chat 2021-11-03 05:14:44 nah, thats like the ugliest heli the Us military has, they use a few in vietnam
+creations-chat 2021-11-03 06:27:58 nah nah nah, the windscreen needs no work, its just the nose
+creations-chat 2021-11-03 06:30:45 <@!325884967986921472> basically, you needa do it like on a normal heli, make a adjustable rotor system on the rear rotor and the main rotor, and do some maths to see what the rear rotor needs to be adjusted to in order for it to overpower the main rotor force, like in a normal heli does.
+creations-chat 2021-11-03 06:32:52 make 2 pictures with each wing but on both sides.
+help 2021-11-03 06:52:25 use something else for the rotor power
+help 2021-11-03 06:52:44 I think its the hover thrusters having a siezure when you try to turn it
+help 2021-11-03 06:52:55 like if they are side ways
+help 2022-02-05 11:28:49 H e l p
+help 2022-02-05 11:41:08 Big oofus
+help 2022-04-21 15:54:50 How would I tilt the wings for this, Because the real C-17 galaxy has tilted wings.
+help 2022-04-21 15:56:03 C-17 Globemaster, sorry, I got confuso.
+help 2022-04-21 15:56:11 My bad.
+help 2022-04-21 15:56:32 I would gonna do that, but then I needed to make the wings tilt,
+help 2022-04-21 15:57:08 I need a way for the wings to be strong enough to not just collapse on the weight of the plane but also to tilt to say like 15 degrees or 10 degrees.
+help 2022-04-21 15:58:16 How do I lock folded wings...
+help 2022-04-21 15:58:45 Wait, lemme do a sample real quick.
+help 2022-04-21 16:08:40 Oh, damn, that actually works.
+help 2022-04-21 16:08:47 Thanks bro, I can finally finish my plane.
+help 2022-04-23 15:01:41 It looks like crap, whats wrong with it, It looks like its too short.
+help 2022-04-23 15:01:45 What should I do with it?
+help 2022-04-23 15:05:08 Well, whats wrong with it?
+help 2022-04-23 15:05:12 Should I try a different shape?
+help 2022-04-23 15:20:31 Say like 10 or 15 blocks longer?
+help 2022-04-23 15:42:37 Its supposed to be a C-17, its a cargo.
+help 2022-04-23 15:43:19 so like 6 blocks?
+help 2022-04-23 15:44:14 Ah, Ok ok.
+help 2022-04-23 15:44:16 Thanks for that,
+help 2022-04-23 15:44:26 Blueprint helps so much,
+help 2022-04-23 15:44:28 Thanks.
+help 2022-04-23 15:44:58 Thanks Buddy, Now I will have a much easier time.
+help 2022-04-23 15:45:04 Appreciate it.
+help 2022-04-23 15:46:18 I'm a actual dumbass for relying on images not blueprints, they're so much more accurate and clear...
+help 2022-04-23 15:46:34 Thanks man, It helps alot.
+help 2022-04-23 15:48:50 To be honest, I have no goddamn idea how to make noses, so I usually take em from a tutorial, then I make the body all by myself, and thats where I screw it up so I gotta find alotta time fixing it up but at the end It usually turns out good.
+help 2022-04-23 15:52:08 My weakness is the shape of most noses and how they're shaped, they're all curved in wierd ways with them being either wider on the side or wider on the top, and The only nose I know how to make is the noobiest one where its just the triangle wedges stacked onto eachother, Anyways, thanks buddy, appreciate the help, we should stop talking here.
+help 2022-04-23 15:54:32 Pretty sure he's talking about me...
+help 2022-04-23 15:59:23 All I could find were like angles at the side, I was dumb enough to not find any blueprints, I could've get a clear shot from the top.
+help 2022-04-23 15:59:33 Thats probably why it looked like crap.
+help 2022-09-23 08:54:32 Lock the Motor, Locking the Motor means the motor will stay in that position and its welded still, The reason why your wings are wobbling is because the Motors on the wings are struggling to keep up with the weight of the plane fuselage.

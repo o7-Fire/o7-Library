@@ -1,0 +1,2 @@
+The Tale of Not Chase (932216250422153246)
+help 2022-06-12 21:31:01 When i use the control surface on my plane, the controls are inverted. So instead of going up when i point my mouse up, the plane goes down. I already tried flipping over the control surface, it does nothing. Anyone know a fix?

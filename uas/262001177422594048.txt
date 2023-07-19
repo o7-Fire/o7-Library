@@ -1,28 +1,187 @@
-.algae.
-plane-crazy 2020-07-01 01:50:18 https://i.gyazo.com/eb5cbbc7c0cf5aa08ba3035cede7f720.mp4
-plane-crazy 2020-07-01 01:37:58 testing
-plane-crazy 2020-07-01 01:37:54 https://medal.tv/clips/27592002/d1337yRBYXDJ
-plane-crazy 2020-07-01 01:18:45 ??
-plane-crazy 2020-07-01 01:09:41 im tired rn
-plane-crazy 2020-07-01 01:09:18 lol nothing in game
-plane-crazy 2020-04-30 04:19:19 https://i.gyazo.com/6bd5ddc80841463fed03790dd361c53b.mp4
-plane-crazy 2020-04-30 04:00:59 1 motor in the front goes all the way back to the clutch and the driveshaft
-plane-crazy 2020-04-30 03:58:23 https://i.gyazo.com/20698b85dca0e3437dce1a586a7f230f.mp4
-plane-crazy 2020-04-30 03:55:29 Yeah the clutch works too
-plane-crazy 2020-04-30 03:55:05 at least in this game
-plane-crazy 2020-04-30 03:54:57 drive the car
-plane-crazy 2020-04-30 03:54:54 So driveshafts aren't really good if you want to actually like
-plane-crazy 2020-04-30 03:54:28 I made this and it barely works
-plane-crazy 2020-04-30 03:54:22 
-plane-crazy 2020-04-30 03:53:36 hold on
-plane-crazy 2020-04-30 03:52:33 If I added a driveshaft to go to the differential it won't work as well
-plane-crazy 2020-04-30 03:50:06 It's rough with outgears
-plane-crazy 2020-04-30 03:49:45 yet
-plane-crazy 2020-04-30 03:49:40 I didn't make one
-plane-crazy 2020-04-30 03:48:17 https://i.gyazo.com/4e86d840829095183a4167198a15ce0d.mp4
-plane-crazy 2020-04-29 14:56:31 Thanks
-plane-crazy 2020-04-29 14:56:14 https://i.gyazo.com/64847331f8cb34e68f4df197fd6788ee.mp4
-plane-crazy 2019-09-09 20:54:55 lost one of my saves
-plane-crazy 2019-09-09 20:53:19 Ah,
-plane-crazy 2019-09-09 20:52:43 I don't see it
-plane-crazy 2019-09-09 20:52:41 What does it mean by new motor
+The Tale of .algae. (262001177422594048)
+help 2018-09-24 11:54:31 So basically it's the waiting game until Roblox gets its life together?
+the-dump 2018-10-04 14:26:37 
+the-dump 2018-10-11 12:20:15 
+help 2018-10-13 22:45:20 Do you have to load your creation first and then save it
+the-dump 2018-10-16 11:43:05 Both
+help 2018-10-17 23:05:50 Half wedges don't want to connect to half blocks
+bug-reports 2018-10-31 14:49:10 I don't think the wheels cause it
+bug-reports 2018-10-31 14:50:20 The smaller slopes seem to only connect to half blocks when the half block isn't attached visually
+bug-reports 2018-10-31 14:50:25 If that makes sense
+bug-reports 2018-10-31 14:51:08 Like a part that is non collision
+bug-reports 2018-10-31 14:51:16 Above the half
+bug-reports 2018-10-31 14:51:55 Happened to some of my builds
+help 2018-10-31 14:55:23 Does anyone know an efficient way to use counter thrust in an helicopter?
+help 2018-10-31 14:56:39 Besides coaxial rotors
+help 2018-10-31 14:58:42 Nevermind I'll look into it later
+bug-reports 2018-10-31 15:44:20 And it was only when it was the half blocks
+bug-reports 2018-10-31 15:44:30 For me at least
+bug-reports 2018-10-31 15:44:58 Others not touching any half bricks were completely fine
+help 2018-10-31 15:46:22 That design seems very common
+help 2018-10-31 15:47:41 Okay then
+help 2018-10-31 15:48:17 For slapping 12 bricks together?
+help 2018-10-31 15:48:52 Banning a person for such a thing would be rude as well
+creations-chat 2018-11-08 16:08:59 You forgot the finger hook infront of third valve
+creations-chat 2018-11-08 16:10:18 You forgot the finger rings too actually
+creations-chat 2018-11-08 16:16:58 I'm talking about trumpet man
+bug-reports 2018-11-08 22:14:36 The new rockets make the rotor on my helicopter lock up
+bug-reports 2018-11-08 22:16:02 ^
+bug-reports 2018-11-08 22:17:02 My heli spins on a unpowered motor
+bug-reports 2018-11-08 22:17:18 at first when the jets turn on
+bug-reports 2018-11-08 22:17:20 it works
+bug-reports 2018-11-08 22:17:58 but it snaps back as if it were spawned in again with the motor locked up
+the-dump 2018-11-09 05:28:07 
+creations-chat 2018-11-12 21:01:40 Why are you freaking out over it
+the-dump 2018-11-13 21:23:34 
+the-dump 2018-11-14 02:23:22 Might as well be the official discord
+the-dump 2018-11-14 02:24:08 Considering that the people in this discord are actually working on the game
+the-dump 2018-11-14 15:12:11 Why is it named unofficial
+the-dump 2018-11-14 15:12:20 Is that just a joke or what
+creations-chat 2018-11-14 16:13:57 Might as well have guns that just shoot down from the bottom of your plane
+the-dump 2018-11-15 05:20:53 
+creations-chat 2018-11-15 05:22:12 F4u Corsair
+the-dump 2018-11-15 12:55:36 
+the-dump 2018-11-16 16:23:00 
+the-dump 2018-11-27 02:07:39 
+the-dump 2018-11-29 02:32:07 
+the-dump 2018-12-03 21:33:00 That's funny
+the-dump 2018-12-06 00:14:57 That reaction time
+the-dump 2018-12-13 12:54:36 
+help 2018-12-13 16:27:18 The last tank treads I made fitted well but was not really capable of doing anything
+help 2018-12-13 16:27:21 At all
+help 2018-12-13 16:27:43 It's ineffective
+help 2018-12-13 16:27:56 It lags
+help 2018-12-13 16:29:09 Unless you're planning to sit in the same spot where you started and use the tracks purely and only for cosmetic effect
+help 2018-12-13 16:30:11 I'm speaking on my end, someone may have a design that works but I'm not sure
+bug-reports 2018-12-14 16:44:43 Does that work?
+bug-reports 2018-12-14 16:44:52 Properly?
+the-dump 2018-12-17 15:42:47 
+the-dump 2018-12-17 15:58:57 Ha?
+creations-chat 2019-01-19 04:09:56 https://gyazo.com/354c7c2cc7b442dc62f9c1b41e7e3786
+creations-chat 2019-01-19 04:10:36 https://gyazo.com/ea132957f069ea14a5c933a473e772ff
+creations-chat 2019-01-19 04:11:24 https://gyazo.com/69447c12f3d8c050d5918042cb5e3167
+creations-chat 2019-01-19 04:14:09 2 Cylinder inline combustion engine w/ functioning clutch (pushrod camshaft)  rack & pinion steering chassis and suspension
+creations-chat 2019-01-19 04:14:35 https://i.gyazo.com/79b3bae70308aac449d207a6065dd990.png
+creations-chat 2019-01-19 04:14:50 https://i.gyazo.com/5e28bb95533b2d1d9cafa6ae0a2793de.png
+creations-chat 2019-01-19 04:22:18 https://gyazo.com/f6d899eaeb713511a552dafd44f1d746
+creations-chat 2019-01-19 04:23:06 https://gyazo.com/3db6762e00d2bf13a370b4992c3f318b
+creations-chat 2019-01-19 04:27:57 How do I do that?
+the-dump 2019-03-29 11:55:03 Water is just boat suspension
+creations-chat 2020-04-29 15:04:50 https://i.gyazo.com/64847331f8cb34e68f4df197fd6788ee.mp4
+creations-chat 2020-04-29 15:04:54 
+creations-chat 2020-04-29 15:06:02 I might do it later
+creations-chat 2020-04-29 15:06:15 Just putting it on here because it's a creation I guess
+creations-chat 2020-04-29 15:06:43 
+creations-chat 2020-04-29 15:09:39 
+creations-chat 2020-04-29 15:09:44 
+creations-chat 2020-04-29 15:10:35 This is my first helicopter I ever made
+creations-chat 2020-04-29 15:10:43 the first build I've ever done
+creations-chat 2020-04-29 15:10:47 back in 2018
+creations-chat 2020-04-29 15:11:08 just upgraded it a bit
+creations-chat 2020-04-29 15:11:39 If I made my clips into a youtube video would it show up or no
+creations-chat 2020-04-29 15:12:02 Okay
+creations-chat 2020-04-29 15:12:11 I'ma just say it's probably not
+creations-chat 2020-04-29 15:12:17 I'll send a test clip
+creations-chat 2020-04-29 15:12:40 https://youtu.be/zeDmGrpNy8s
+creations-chat 2020-04-29 15:14:54 
+creations-chat 2020-04-29 15:16:00 What if I have variations of the same build
+creations-chat 2020-04-29 15:16:07 I kinda feel like I'm spamming
+creations-chat 2020-04-29 15:19:27 okay
+creations-chat 2020-04-29 15:19:33 so don't do it I guess
+creations-chat 2020-04-29 15:19:39 I'll hold off for now
+the-dump 2020-04-30 09:12:23 
+the-dump 2020-04-30 09:17:25 Came up with my own car design
+the-dump 2020-04-30 09:25:45 
+the-dump 2020-04-30 09:26:42 
+the-dump 2020-04-30 10:09:28 https://www.instagram.com/p/B_aPhdDlqy7/?igshid=1di79tejayy6f
+bot-central 2020-04-30 10:43:31 !p Too Late Def Leppard audio
+bot-central 2020-04-30 10:43:54 =p  Too Late Def Leppard audio
+bot-central 2020-04-30 10:44:00 =leave
+bot-central 2020-04-30 10:44:04 =join
+bot-central 2020-04-30 10:44:07 =play   Too Late Def Leppard audio
+bot-central 2020-04-30 10:50:42 =p https://youtu.be/lTYCHtGIkFE
+bot-central 2020-04-30 10:53:17 =skip
+bot-central 2020-04-30 10:54:14 https://w2g.tv/fo5a08gs6ilni1ymne
+bot-central 2020-04-30 12:04:14 =p Driving to hawaii summer salt
+bot-central 2020-04-30 12:04:27 ;;p Driving to hawaii summer salt
+bot-central 2020-04-30 12:04:32 1
+bot-central 2020-04-30 12:37:10 ;;p Kodachrome Paul Simon audio
+bot-central 2020-04-30 12:38:02 ;;leave
+bot-central 2020-04-30 12:38:10 ;;join
+bot-central 2020-04-30 12:38:26 =leave
+bot-central 2020-04-30 12:38:32 =leave
+bot-central 2020-04-30 12:38:54 ;;join
+bot-central 2020-04-30 12:39:30 ;;p Kodachrome Paul Simon audio
+bot-central 2020-04-30 12:51:34 ;;skip
+bot-central 2020-04-30 12:51:37 ;;leave
+bot-central 2020-04-30 12:51:40 ;;join
+bot-central 2020-04-30 12:51:54 ;;p  Fleetwood Mac - Dreams
+bot-central 2020-04-30 12:57:07 a
+bot-central 2020-04-30 12:58:23 yep
+bot-central 2020-04-30 12:58:42 Let's just do the watchtogether
+bot-central 2020-04-30 12:59:52 ;;leave
+the-dump 2020-04-30 14:06:06 https://i.gyazo.com/20698b85dca0e3437dce1a586a7f230f.mp4
+bot-central 2020-04-30 14:31:21 ?help
+bot-central 2020-04-30 14:31:38 ?rhelp
+help 2020-04-30 14:33:10 
+help 2020-04-30 14:33:21 https://cdn.discordapp.com/attachments/705422819147907073/705422900521336902/cf5c9b45d921e970ccfc8dab38455ccb.png
+help 2020-04-30 14:34:02 https://i.gyazo.com/20698b85dca0e3437dce1a586a7f230f.mp4
+help 2020-04-30 14:34:25 https://gyazo.com/d575eb8fd540a9b24cc1ad228bb710e2
+help 2020-04-30 14:37:07 2 Cylinder inline combustion engine w/ functioning clutch (pushrod camshaft)  rack & pinion steering chassis and suspension
+help 2020-04-30 14:39:25 Request terrain specialist 3
+help 2020-04-30 14:40:24 <@!308156968550268928>
+help 2020-04-30 14:41:44 Oh
+help 2020-04-30 14:41:45 mb
+help 2020-04-30 14:41:52 Don't know how to do this
+bot-central 2020-04-30 14:42:11 !servers
+the-dump 2020-04-30 14:43:05 I made the suspension the same way I always do
+the-dump 2020-04-30 14:43:19 I think it's just acting weird because of the size of it
+the-dump 2020-04-30 14:45:27 https://youtu.be/zeDmGrpNy8s
+the-dump 2020-04-30 14:46:33 https://cdn.discordapp.com/attachments/700333590474391662/705039519480807434/unknown.png
+the-dump 2020-04-30 14:46:41 https://cdn.discordapp.com/attachments/700333590474391662/705039636740833289/unknown.png
+creations-chat 2020-04-30 14:53:31 
+creations-chat 2020-04-30 14:54:01 
+creations-chat 2020-04-30 14:56:07 
+the-dump 2020-05-01 13:36:52 Getting ready to kill the aliens
+the-dump 2020-05-05 14:52:05 
+the-dump 2020-05-06 02:39:47 https://i.gyazo.com/49bdc06684de7f2922e081a6aa064dea.mp4
+the-dump 2020-05-06 02:40:26 https://i.gyazo.com/7fbd852fc0256463035daafcf6d925c0.mp4
+the-dump 2020-05-26 04:13:15 
+the-dump 2020-05-27 06:26:27 
+the-dump 2020-05-29 05:48:16 
+the-dump 2020-05-31 04:38:56 
+the-dump 2020-06-14 09:01:23 
+the-dump 2020-07-24 20:50:18 
+the-dump 2020-08-05 09:49:55 
+the-dump 2020-08-05 13:05:36 
+the-dump 2020-08-08 09:15:49 
+the-dump 2020-08-08 10:00:24 
+the-dump 2020-08-20 13:27:06 
+the-dump 2020-08-20 13:59:31 
+the-dump 2020-08-20 14:16:45 
+the-dump 2020-08-20 14:44:31 
+the-dump 2020-08-20 14:45:52 yeah
+the-dump 2020-08-20 14:46:05 real
+the-dump 2020-08-20 14:46:23 
+the-dump 2020-08-20 14:49:21 
+the-dump 2020-08-20 14:50:53 what
+the-dump 2020-08-20 14:51:12 
+the-dump 2020-08-20 15:00:34 https://cdn.discordapp.com/attachments/722236062411391098/730030589729832990/HULK_MACHINE.mp4
+the-dump 2020-08-21 04:57:08 
+the-dump 2020-08-21 04:59:23 Yeah same
+the-dump 2020-08-21 04:59:31 Saw this today
+the-dump 2020-08-27 19:50:24 
+the-dump 2020-09-22 01:18:03 https://i.gyazo.com/5010b46ce8905a371cfa651147f468a4.mp4
+the-dump 2020-09-22 01:19:19 https://i.gyazo.com/7917ca1f0c0b45d4f0f65267fd2387c8.mp4
+the-dump 2020-09-22 01:22:23 humor
+the-dump 2020-09-22 01:27:01 water
+the-dump 2020-09-22 01:30:40 did you try boiling it
+the-dump 2020-09-22 01:30:54 idk
+the-dump 2020-09-22 01:31:11 probably need to buy some new milk
+the-dump 2020-09-22 01:33:59 
+the-dump 2020-09-22 02:50:10 
+bot-central 2021-01-03 00:41:31 !p L.A. Guns Jayne
+bot-central 2021-01-03 00:41:42 =p L.A. Guns Jayne
+bot-central 2021-01-03 00:41:51 ye thank
+the-dump 2021-01-03 00:56:05 https://media.discordapp.net/attachments/739070211633840169/795089424600793168/image0-18.jpg
+the-dump 2021-07-03 21:47:18 you have a among us pfp

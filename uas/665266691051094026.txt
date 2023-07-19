@@ -1,8 +1,69 @@
-spuntikplanitia
-plane-crazy 2020-06-14 13:31:41 "Is ThIs An M1 AbRaMs"
-plane-crazy 2020-06-14 13:20:16 : )
-plane-crazy 2020-06-14 13:20:12 
-plane-crazy 2020-06-13 10:00:25 Hmm yes very helpful.
-plane-crazy 2020-06-13 09:58:24 Any ideas?
-plane-crazy 2020-06-13 09:58:20 I don't know what to make today.
-plane-crazy 2020-06-03 19:58:28 nice
+The Tale of spuntikplanitia (665266691051094026)
+bot-central 2020-05-02 09:00:01 ?shelp
+bot-central 2020-05-02 09:01:16 ?rhelp
+bot-central 2020-05-30 10:32:21 !rank
+creations-chat 2020-05-30 17:51:36 
+creations-chat 2020-05-30 17:51:42 
+creations-chat 2020-05-30 17:51:57 Lets see your thoughts.
+creations-chat 2020-05-30 17:53:36 4247 blocks.
+creations-chat 2020-05-30 17:55:09 Mk
+creations-chat 2020-05-30 17:56:25 it's a custom trijet
+creations-chat 2020-05-30 17:58:09 just wanna say that my trijet also has fully functional flaps, flaperons, ailerons and flight control spoilers
+creations-chat 2020-05-30 17:58:31 K
+creations-chat 2020-05-30 17:58:55 Alright
+creations-chat 2020-05-30 17:59:51 i am
+creations-chat 2020-05-30 18:00:15 And by the way this thing is no where near complete.
+creations-chat 2020-05-30 18:00:46 It's a "project plane."
+creations-chat 2020-05-30 18:00:53 Never done.
+creations-chat 2020-05-31 13:09:10 I upgraded the wings
+creations-chat 2020-05-31 13:09:18 Also different livery.
+creations-chat 2020-05-31 13:11:50 4127 blocks
+bug-reports 2020-06-09 15:10:33 There is this saving issue where when you paint glass to white, the colour doesn't save and the glass resets to this blue colour.
+bug-reports 2020-06-09 15:10:57 This bug existed for a long time
+bug-reports 2020-06-09 15:11:35 It's also triggering
+bug-reports 2020-06-09 17:16:20 Only some of the glass blocks save for me.
+bug-reports 2020-06-09 17:17:04 Just to make sure i am not using legacy
+bug-reports 2020-06-09 17:20:10 So far i have experimented and found out it's the wegdes.
+bug-reports 2020-06-09 17:20:25 1x1
+bug-reports 2020-06-09 17:20:38 and half wedge downs
+bug-reports 2020-06-09 17:21:10 By the war nice profile pic
+bug-reports 2020-06-09 17:21:15 way i meant
+bug-reports 2020-06-09 17:21:27 ...
+bug-reports 2020-06-09 17:21:32 well
+bug-reports 2020-06-09 17:21:40 some save and some don't
+bug-reports 2020-06-09 17:23:01 What does pogger mean?
+bug-reports 2020-06-09 17:23:31 ...
+bug-reports 2020-06-09 17:23:44 ...
+bug-reports 2020-06-09 17:23:52 I thought this was bug reports
+bug-reports 2020-06-09 17:24:06 An emoji
+bug-reports 2020-06-09 17:24:50 well uhh
+bug-reports 2020-06-09 17:24:58 Ok?
+bug-reports 2020-06-09 17:26:49 Well anyways I usually use the black paint for the glass on builds I use.
+bug-reports 2020-06-09 17:26:57 But uhh
+bug-reports 2020-06-09 17:27:05 hold on
+bug-reports 2020-06-09 17:28:25 Could this help?
+bug-reports 2020-06-09 17:28:38 Do you see what i mean now?
+bug-reports 2020-06-09 17:28:58 let me know if you need me to show you the dev console
+bug-reports 2020-06-09 17:31:01 
+bug-reports 2020-06-09 17:31:20 Lots and lots of errors
+bug-reports 2020-06-09 17:32:25 Never happened to me
+bug-reports 2020-06-09 17:33:13 Must be a saving ussue
+bug-reports 2020-06-09 17:33:24 check if you have exceeded your max save data
+bug-reports 2020-06-09 17:33:52 hmm
+bug-reports 2020-06-09 17:37:22 I have no idea what the limit materials block is
+bug-reports 2020-06-09 17:39:03 In my time of playing plane crazy, the only thing that i can think of is the paint block
+bug-reports 2020-06-09 17:39:34 <:pogey:651848693842182144>
+bug-reports 2020-06-09 17:42:12 For what?
+bug-reports 2020-06-09 17:43:53 For the glass saving issue it's usually the 1X1 wegde, the half wedge down and that's it.
+bug-reports 2020-06-09 17:45:43 place multiple wedges
+bug-reports 2020-06-09 17:45:53 
+bug-reports 2020-06-09 17:47:03 How many wedges did you place?
+bug-reports 2020-06-09 17:47:37 I believe there are 12 1X1 wedges on my build
+bug-reports 2020-06-09 17:50:17 Anyways, I have to go now.
+bug-reports 2020-06-10 17:06:56 Happened to me many times.
+bug-reports 2020-06-10 17:07:15 The person who blacklist you must rejoin for it to fix.
+bot-central 2020-07-18 15:37:15 !whois
+bot-central 2020-07-18 15:37:34 !server
+bot-central 2020-07-18 15:37:41 !servers
+bot-central 2020-07-18 15:37:54 mk.
+bot-central 2020-07-18 15:38:10 ?rhelp

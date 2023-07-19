@@ -1,0 +1,64 @@
+The Tale of superboringname (688806157749715044)
+bot-central 2021-12-05 06:22:35 !rank
+bot-central 2021-12-05 06:23:20 -ms 25 25
+bot-central 2021-12-05 06:25:32 -ms 5050
+bot-central 2021-12-05 06:26:18 -ms 1
+bot-central 2021-12-05 06:26:43 -ms 1
+bot-central 2021-12-05 06:27:45 dangit i was 1 away
+bot-central 2021-12-05 12:59:48 !rank
+creations-chat 2021-12-05 15:20:28 any way i could make it better
+creations-chat 2021-12-05 15:23:57 thanks for the feedback, i kinda designed it for pvp so i put as many guns as i could in there
+creations-chat 2021-12-05 17:10:45 sorry im not too familiar with war ships and stuff
+creations-chat 2021-12-05 18:28:23 sorry. i posted a non recolored version in case thats any better
+creations-chat 2021-12-05 18:36:08 sorry for posting a tutorial jet i will take it down
+creations-chat 2021-12-05 18:38:10 ok. sorry about what i did i understand what i did wrong and understand why im getting a blacklist. sorry. :(
+creations-chat 2021-12-05 18:40:14 because i feel bad about what i did
+creations-chat 2021-12-05 18:43:55 sorry i missed that part of it
+creations-chat 2021-12-05 18:50:41 i kinda like it
+creations-chat 2021-12-05 19:02:27 bro i suck at plane crazy. every time i make a build, its functional but looks like crap. how do i not be bad at plane crazy?
+creations-chat 2021-12-05 19:04:45 maybe i just suck at the game lol idk
+creations-chat 2021-12-05 19:21:22 lol every single build i have posted to <#384025409945337856> has gotten ***n e g a t i v e   p o i n t s***
+creations-chat 2021-12-05 19:23:44 i guess the reason why all my builds get negative points is because i joined the server this weekend and havent learned what kind of builds yall like
+creations-chat 2021-12-05 19:26:02 thx
+creations-chat 2021-12-06 00:56:27 where i found the pixel art i just posted: https://www.google.com/imgres?imgurl=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D1251793991559694&imgrefurl=https%3A%2F%2Fm.facebook.com%2FPixel-Art-1249593508446409%2F&tbnid=dogv-BkJ2x-aZM&vet=12ahUKEwj2m6XA-830AhURWKwKHY9KBocQMygKegUIARDqAQ..i&docid=KqfLzYi7rabFdM&w=451&h=451&q=pixel%20art&client=opera-gx&ved=2ahUKEwj2m6XA-830AhURWKwKHY9KBocQMygKegUIARDqAQ
+creations-chat 2021-12-06 01:23:28 lol
+creations-chat 2021-12-06 01:45:58 <@!673670368757678106> bro it looks like the destruction physics on those old mobile games
+bot-central 2021-12-07 00:56:33 $new
+bot-central 2021-12-07 00:56:50 -servers
+creations-chat 2021-12-07 01:27:51 idk i couldnt figure out the proportions
+creations-chat 2021-12-07 02:43:29 i rly like the new ghostbusters movie, have you seen it?
+bot-central 2021-12-18 01:26:44 -minecraft
+creations-chat 2022-02-27 04:07:21 ***INTENTS AND PURPOSES COUNTER:***
+
+**15**
+creations-chat 2022-02-27 04:09:54 idek it was in refrences lol. i sadly didnt have enough skill or space to make them retractable.
+creations-chat 2022-02-27 04:12:44 there engines are under the wings. They're hard to see since they're the same color as the body
+creations-chat 2022-02-27 04:27:01 tbh idk much about planes whats a fuselage?
+creations-chat 2022-02-27 04:30:17 well they're not so much stuck to the fuselage as they are stuck to the wings, very close to the fuselage
+creations-chat 2022-02-27 04:32:33 one block away from fuselage.
+creations-chat 2022-02-27 04:39:44 looks great! thanks!
+help 2023-02-16 19:08:12 yall know how to fix a folding submarine?
+every time i fold it it never stays together
+(this happens to all my folding water things
+help 2023-02-16 23:37:42 which of these planes should i try and make?
+help 2023-02-17 00:43:59 sorry u were too late i already started work on the first one
+help 2023-02-17 00:44:20 i might make the second one later on
+help 2023-02-17 00:44:42 i like the first two because they have itneresting tails instead of the basic three pointed model
+help 2023-02-18 05:40:44 anybody know how to fix this plane?
+its very wobbly and when i try to do turns it slows down and is overall janky
+someones it keeps rolling to one side even after a let go of the button too
+
+it has 3 small hover drives powering it (the propeller doesnt do anything)
+help 2023-02-21 03:53:25 do yall know how to make a tandem rotor heli stop spinning?
+help 2023-02-21 03:53:42 it has fake rotors but still spins when it goes upwards
+help 2023-02-21 03:53:52 i havent finished the controls yet but i've noticed this on test runs
+help 2023-02-21 22:12:40 no
+help 2023-02-21 22:12:53 like a real tendem rotor they spin in opposite directions
+help 2023-02-21 22:16:34 it looks kinda bad but this shows how it spins
+(ik i didnt fly up but it still showcases how the rotors cause it to spin drastically)
+help 2023-02-21 22:25:04 i tried reversing the rotors but it only helped slightly
+help 2023-02-21 22:25:18 (making them move the same direction
+help 2023-02-21 22:38:20 yes
+help 2023-02-21 22:50:02 what should i do to fix it?
+help 2023-02-22 23:28:20 aye could anyone help me with a heli
+creations-chat 2023-02-22 23:59:29 how do i get the arrows to appear on my thing

@@ -1,72 +1,107 @@
-Isodium
-plane-crazy 2020-06-16 00:54:29 They are basically density in 1 block
-plane-crazy 2020-06-16 00:54:15 Oh right
-plane-crazy 2020-06-16 00:54:05 ?
-plane-crazy 2020-06-16 00:48:45 Killing me on the inside
-plane-crazy 2020-06-16 00:48:34 The fact that ballast blocks don't even change the center of mass
-plane-crazy 2020-06-15 23:59:43 Hey guys, does anyone know the mass of a huge jet engine?
-plane-crazy 2020-06-12 15:56:36 What does the pilot seat do?
-plane-crazy 2020-06-10 01:07:39 Nvm it can just do flips
-plane-crazy 2020-06-10 01:04:33 Like how?
-plane-crazy 2020-06-10 01:04:22 Still learning how to actually do a cobra maneuver
-plane-crazy 2020-06-10 01:03:21 Just add a lot of propellers and then just post stall
-plane-crazy 2020-06-10 01:02:59 Wait nvm I found out how to do a post stall maneuver
-plane-crazy 2020-06-10 00:59:24 Its basically weight all in one block
-plane-crazy 2020-06-10 00:59:12 ballast
-plane-crazy 2020-06-10 00:59:08 Just search it up
-plane-crazy 2020-06-10 00:58:57 Yeah
-plane-crazy 2020-06-10 00:58:55 I am not making that autistic head
-plane-crazy 2020-06-10 00:58:04 This is too much for me
-plane-crazy 2020-06-10 00:57:59 Yeah no
-plane-crazy 2020-06-10 00:57:17 Aight ima head out
-plane-crazy 2020-06-10 00:55:55 what kind?
-plane-crazy 2020-06-10 00:55:28 And how do planes do post stall maneuvers so easily?
-plane-crazy 2020-06-10 00:54:00 Im to lazy to learn it
-plane-crazy 2020-06-10 00:53:45 Wait is that the merging method?
-plane-crazy 2020-06-10 00:53:36 Oh
-plane-crazy 2020-06-10 00:51:58 I added like 10 more and it now goes 450
-plane-crazy 2020-06-10 00:51:33 Oh thanks
-plane-crazy 2020-06-10 00:48:33 Dunno bout that
-plane-crazy 2020-06-10 00:48:07 Ikr
-plane-crazy 2020-06-10 00:47:56 W and S?
-plane-crazy 2020-06-10 00:47:46 Yeah?
-plane-crazy 2020-06-10 00:47:38 Im not sure if you need to add reset for the mech
-plane-crazy 2020-06-10 00:47:28 I dunno like my friend tried and completely failed
-plane-crazy 2020-06-10 00:47:06 Mech's are pretty complicated to control
-plane-crazy 2020-06-10 00:46:41 Oh ok
-plane-crazy 2020-06-10 00:46:39 Hover? Rocket? Jet? or Propeller
-plane-crazy 2020-06-10 00:46:19 And if how?
-plane-crazy 2020-06-10 00:46:16 So do I just add more thrust?
-plane-crazy 2020-06-10 00:46:05 Private server
-plane-crazy 2020-06-10 00:45:36 Nah only 600 blocks
-plane-crazy 2020-06-10 00:44:50 2 jet engines and 5 or 4  super rockets
-plane-crazy 2020-06-10 00:43:36 Do I just add more thrust?
-plane-crazy 2020-06-10 00:42:51 Aight so I made my jet fly but the only problem is the speed, it only goes at around 200 and I need to know the best way to get more speed
-plane-crazy 2020-06-09 15:01:28 Ah ok
-plane-crazy 2020-06-09 15:01:06 No but they updated it today
-plane-crazy 2020-06-09 15:00:49 Yeah?
-plane-crazy 2020-06-09 15:00:34 What was the new update today?
-plane-crazy 2020-06-08 21:41:57 Im in a vip server now
-plane-crazy 2020-06-08 21:41:51 Can anyone tell me what is the banging in the lava spitter area?
-plane-crazy 2020-06-07 14:49:12 Nvm found it
-plane-crazy 2020-06-07 14:48:30 Where do you find ladders?
-plane-crazy 2020-06-05 19:36:33 There is no tip?
-plane-crazy 2020-06-05 19:35:52 Ik
-plane-crazy 2020-06-05 19:35:48 that doesn't even look like 1k blocks
-plane-crazy 2020-06-05 19:35:40 1K blocks isn't a lot
-plane-crazy 2020-06-05 19:32:46 Nice rocket
-plane-crazy 2020-06-05 19:32:33 Theres these kids in my pvp server that only use cutter bugs
-plane-crazy 2020-06-05 19:31:56 Almost everyone in the community hates it
-plane-crazy 2020-06-05 19:31:48 Literally I don't even need to ask this question
-plane-crazy 2020-06-05 19:31:35 I don't even know why they exist
-plane-crazy 2020-06-05 19:31:21 Ikr
-plane-crazy 2020-06-05 19:29:38 Alright this is just a simple question, do you guys like cutter bugs?
-plane-crazy 2020-05-24 15:27:35 Ouch
-plane-crazy 2020-05-24 15:27:25 Like without anything
-plane-crazy 2020-05-24 15:27:18 Sometimes I just get Speed
-plane-crazy 2020-05-24 15:27:06 Oof
-plane-crazy 2020-05-24 15:26:49 How much
-plane-crazy 2020-05-24 15:26:46 Infinit?
-plane-crazy 2020-05-24 15:25:23 Oh then who has gotten higher?
-plane-crazy 2020-05-24 15:25:15 I never knew my battleship can go thiss fast
-plane-crazy 2020-05-24 15:24:59 World record speed?
+The Tale of Isodium (552252221224648724)
+bug-reports 2020-05-09 21:18:29 So basically every time I save and it says SAVE SUCCESSFUL, but when I rejoin, it goes back to my old version
+bug-reports 2020-05-09 21:19:04 Then I have to change it everytime back to the new version
+bug-reports 2020-05-09 21:19:39 Apparently this was a old glitch a year ago
+bug-reports 2020-05-09 21:20:03 But it came back for some reason, anyone know how to fix it?
+bug-reports 2020-05-09 21:20:19 Is it just me or is anyone else experiencing this?
+bug-reports 2020-05-09 21:22:50 But as long as I stay in the game, it saves
+bug-reports 2020-05-10 02:06:05 There was also like this other bug where when I spawn my boat, it just break's apart when everything is perfectly attached. It's not a big bug but it pretty annoying and you have to take a while to fix it
+bug-reports 2020-05-12 19:34:09 Im not sure if this is me or the game
+bug-reports 2020-05-12 19:34:29 There is no blue line on my plane
+bug-reports 2020-05-12 19:34:52 I added the wings, control panels and everything else
+bug-reports 2020-05-12 19:35:01 Can anyone tell me how I can fix this?
+bug-reports 2020-05-12 23:31:28 Ok just recently everything stopped
+bug-reports 2020-05-13 01:29:29 Apparently one time the game just stopped and this is not only me since it happened to my friend at the same time. Then rejoined and the servers were just frozen
+bug-reports 2020-05-13 01:29:44 no one can do anything except walk run and jump
+bot-central 2020-05-27 12:27:53 !shelp
+bot-central 2020-05-27 12:28:12 ?shelp
+bot-central 2020-05-27 12:28:35 ?rhelp
+creations-chat 2020-06-02 18:37:39 Not that bad
+creations-chat 2020-06-02 18:38:28 I've seen this other guy with a giant yamato and I have no idea how he made his turrets so flat
+creations-chat 2020-06-02 18:39:10 I kinda wanted to make the turret a lil bigger since its a bigger more chonkier battleship, might've made it a tad too big
+creations-chat 2020-06-02 18:39:43 Batplane?
+creations-chat 2020-06-02 18:40:10 btw how do I get ranked in the discord?
+creations-chat 2020-06-02 18:41:03 My battleship is about 3450 blocks without the ladder and the other blocks so what rank does that give me?
+creations-chat 2020-06-02 18:44:04 I would kindly ask for a shipright rank, btw its about 3400 without the ladder and the fold
+bug-reports 2020-06-10 01:10:15 Aight so if you look inside the cockpit thats made out of glass from first person view, it will not show water or at least most of it
+bug-reports 2020-06-10 01:11:19 And for some reason, the motor's are kinda broken because when I closed my cockpit, it just glitched and went through the  blocks
+bot-central 2020-06-10 18:32:23 !rank
+bot-central 2020-06-10 19:55:31 ?shelp
+the-dump 2020-08-01 14:59:40 Someone post this in another server
+the-dump 2020-08-01 14:59:45 XD
+the-dump 2020-08-01 14:59:55 That was perfect timing
+the-dump 2020-08-01 15:00:10 <:what:644996672048463942>
+the-dump 2020-08-01 15:00:20 mmm delicous
+the-dump 2020-08-01 15:00:24 delicious
+the-dump 2020-08-01 15:00:56 <:ElonMenacing:715271505088479537>
+the-dump 2020-08-01 15:01:22 Noice
+creations-chat 2020-10-23 23:33:27 uhh wheels
+creations-chat 2020-10-23 23:39:16 👀
+creations-chat 2020-10-24 21:32:34 Tried making it look all futuristic cool kinda thing don't kill me my friend made me post it
+creations-chat 2020-10-24 21:35:15 Cutters can cause a lot of damage and can also cause no damage at all
+bug-reports 2020-11-01 02:37:46 Plane crazy, I don't know whats happening but my friend keeps on disconnecting in THIS specific game only. Error code 277
+bug-reports 2020-11-01 02:38:03 Only happens in privite servers
+bug-reports 2020-11-01 02:39:58 This has been happening for like a while (1 - 4) hours
+bug-reports 2020-11-01 02:40:10 He's been doing whatever he can
+bug-reports 2020-11-01 02:40:41 Wait nvm public and private
+bug-reports 2020-11-01 15:48:40 Again, my friend is still experiencing error code 277 on plane crazy ONLY
+bug-reports 2020-11-01 15:48:57 Does anyone know this problem?
+bug-reports 2020-11-01 15:59:37 Profile of friend with conflict: THEGLMMEMEZ_yt
+bug-reports 2020-11-01 17:59:16 nah its fine
+bug-reports 2020-11-01 17:59:21 I think it got fixed
+bug-reports 2020-11-01 17:59:33 but this might happen sooner or later
+creations-chat 2021-01-07 19:17:33 im trying to make a pirate ship but im not familiar with any of its hull, designs or decorations, what do I do
+creations-chat 2021-01-07 19:49:37 how do I make this WIP better, also this thing is ***a little bit*** laggy. I just realized I should probably add more lights
+creations-chat 2021-01-08 12:28:40 <a:pingscream:672183418250854417>
+creations-chat 2021-01-10 19:09:41 ^^^
+creations-chat 2021-01-10 19:13:57 what should I improve on this pirate ship wip, yeah I know im gonna put more details like lighting and stuff but yeah
+creations-chat 2021-01-10 19:16:43 <:NO_WOE:742597694832508983>
+creations-chat 2021-01-10 19:19:20 nice saab, im still trying to find out how to make a working engine nozzle
+creations-chat 2021-01-10 19:21:41 Facts
+creations-chat 2021-01-10 19:28:27 yeah in, its supposed to look like a stick, heres a man o war https://lh3.googleusercontent.com/proxy/qwHfhpzzDC64RimbV4gQOBKlyV6Ctv-2hQ0mWEpLn9U2WLPMUc9uuH5Sdj08LcHKj4eCLm2LrJAebBKFpDwEcw
+creations-chat 2021-01-10 19:32:07 its pretty good, and yeah that's a tutorial (EnterByter)
+creations-chat 2021-01-10 19:37:48 yeah thats the tutorial, for the bi plane, improve the tail a bit more
+creations-chat 2021-01-10 19:43:36 https://i.ytimg.com/vi/blnn0ZyqGQ4/maxresdefault.jpg
+creations-chat 2021-01-10 19:54:22 yeah pretty <a:PogChomp:602886463469649920><a:PogChomp1:602886556675604492><a:PogChomp2:602886585159254026><a:PogChomp3:602886602905223188>ngl
+creations-chat 2021-01-10 20:14:49 it has low details and looks kinda awkward and low quality, so you're new to plane crazy?
+creations-chat 2021-01-10 20:22:26 bruh then what does the plane crazy community like? Motor lock? Details? Camera angle? Folding? overly complicated builds?
+creations-chat 2021-01-10 20:26:04 yes the funny <a:A_SooFunny_FE:742166719170215967>, anyways yeah pistons for landing gear seems pretty simple and good, if you wanna go to another level you can add motors for no reason. Damnnn post the bee or put the message link
+creations-chat 2021-01-10 20:29:47 damnnnnn that's gooooood, the colors and everything is accurate. but like yeah you did post that a lot but I never saw it
+creations-chat 2021-01-10 20:34:45 yeah idk what I was saying too
+creations-chat 2021-01-10 20:57:29 <a:run:694416620034195458>
+creations-chat 2021-01-10 21:00:23 <:flushed_cool:606577286132662275>
+creations-chat 2021-01-10 21:06:25 the heart is a nice addiction <a:popcorneat:678642760672083995>
+creations-chat 2021-01-10 21:10:54 bro MRK, I checked your previous posts and they were all downvoted hard, ik mine were too but just saying you can't go around criticizing and down voting a lot of builds that are decent also yeah i'll take that popcorn <a:A_FrogePopcorn_REH:742599109977833532>
+creations-chat 2021-01-10 21:18:43 take a chill pill <:chillpill:694414587646312457>
+creations-chat 2021-01-10 21:26:49 yeah bro your bee is cool and all but no need to get toxic and bias
+creations-chat 2021-01-10 21:29:14 <a:thonkchill:787108515499737108>
+creations-chat 2021-01-10 21:32:37 you kinda came at a wrong time bud but yeah sure go for it, yeah I agree, looks kinda awkward
+creations-chat 2021-01-10 21:35:51 finally peace, no cap bobjohnson has a lot of insanely good builds
+creations-chat 2021-01-10 21:38:51 bro you literally have 3 expert ranks, a pixel artist, you have like over 25 builds that all have over 50 upvotes and less than 15 downvotes. I couldn't ask for anythign more
+creations-chat 2021-01-10 21:43:08 lol but now its all good cuz the threat has left the chat
+creations-chat 2021-01-10 22:24:30 wrong chat buddy, put in in the boys gc
+creations-chat 2021-01-10 22:27:11 Long story, we both go long ways and we're cousins
+creations-chat 2021-01-10 22:29:11 <a:A_WobblyPensive_FE:742166707438747679>
+creations-chat 2021-01-10 22:33:33 idk, never heard of it before
+creations-chat 2021-01-11 20:34:22 is that a shitpost?
+creations-chat 2021-01-11 20:41:39 yeah ikr, seems to be low effort
+creations-chat 2021-01-14 23:56:06 yo how tf do people do these intakes
+creations-chat 2021-01-18 22:38:49 First of all the blackhawk doors don't open and close like that, second of all the tail is a bit short and awkward, Lastly, the blackhawk has a articulating stabilator I think. Anyways is there anything I can improve on my apache, yes I know the apache has single main rotor and the cockpit isn't well made but il try motor locking it later
+creations-chat 2021-01-18 22:41:53 bruh okay lol dunno man same thing
+creations-chat 2021-01-18 22:44:20 Then how do I make it more ***apache***
+creations-chat 2021-01-18 22:47:24 ah okay is that it?
+creations-chat 2021-01-18 22:51:30 pog
+creations-chat 2021-01-18 22:59:28 oh yeahhhh I see the curve, il try using motor lock for that
+creations-chat 2021-01-19 23:47:11 the front is kinda awkward for the buggati creation
+creations-chat 2021-01-19 23:49:31 e
+creations-chat 2021-01-19 23:51:58 but did you base it off the tutorial? Either way looks kind of awkward tutorial or no tutorial
+creations-chat 2021-01-19 23:54:27 Same bro FAX
+creations-chat 2021-01-20 19:04:58 nice, the 2nd one is better
+creations-chat 2021-01-20 19:12:50 Lol
+creations-chat 2021-02-02 23:50:26 those intakes and motor lock
+creations-chat 2021-02-03 00:03:53 no no im saying the intakes are great
+creations-chat 2021-02-23 22:01:27 Motor lock is broken on my tank how to fix
+creations-chat 2021-02-23 22:03:27 nvm it was just an awkward part that broke it
+creations-chat 2021-04-11 15:31:17 yo custom mbt, a bit trash but any suggestions?
+creations-chat 2021-04-11 15:36:42 I tried it but, the rockets end up like popping out after firing. the rockets are already concealed but when fired, it pops up
+creations-chat 2021-04-11 15:39:48 pretty low effort ngl

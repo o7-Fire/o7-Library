@@ -1,0 +1,8 @@
+The Tale of learnedtim2003 (396587482919206923)
+bug-reports 2020-01-20 14:39:18 https://prnt.sc/qqaldt Some error occuring here in the dev console, i checked the console after my engines didn't work, i found this.
+help 2020-01-20 14:40:51 I have a boat, with 3 by 2 water propellors, but the propellor doesn't activate, while i clearly press the right key. Anyone who can help?
+help 2020-01-20 15:08:08 Hello, anyone? ^
+help 2020-02-19 16:17:12 How do i post an suggestion in <#507673335816126509>?
+bot-central 2020-02-19 16:29:02 !suggest Well, what i think that will really improve the game, is logic blocks. The purpose of this is that you can add waits, for as example flashing landing lights for a airplane carrier. Or emergency lights emergency vehicles.
+bot-central 2020-02-19 16:29:44 ok, thanks
+bug-reports 2020-04-07 10:50:15 https://gyazo.com/d2ab9afba31968d6f3c6451847e5faf5 Can't place anything on that tile, tried using the remove tool, but it didn't detect anything.

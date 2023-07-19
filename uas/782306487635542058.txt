@@ -1,0 +1,23 @@
+The Tale of masewtroll (782306487635542058)
+bot-central 2023-05-04 17:33:23 !rank
+creations-chat 2023-05-04 17:34:11 nice heli
+bot-central 2023-05-04 17:39:51 !rank
+bot-central 2023-05-04 17:45:04 !rank
+bot-central 2023-05-04 17:50:41 !rank
+bot-central 2023-05-04 17:55:03 !rank
+bot-central 2023-05-04 17:58:25 !rank
+bot-central 2023-05-04 18:00:21 !rank
+bot-central 2023-05-04 18:06:33 !rank
+bot-central 2023-05-04 18:10:44 !rank
+bot-central 2023-05-04 18:13:43 !rank
+bot-central 2023-05-05 17:37:55 $delete ticket
+bot-central 2023-05-05 17:44:01 !servers
+bot-central 2023-05-05 17:44:09 -servers
+bot-central 2023-05-06 12:13:31 !rank
+bot-central 2023-05-07 13:09:35 $rank request
+bot-central 2023-05-07 13:09:45 $rank
+help 2023-05-07 14:46:31 can someone tell me how to remove my own rank request ticket please?
+creations-chat 2023-05-07 19:11:53 -servers
+bot-central 2023-05-13 13:07:03 -servers
+bot-central 2023-05-13 13:07:21 $servers
+bot-central 2023-05-14 09:41:28 -servers

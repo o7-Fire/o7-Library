@@ -1,0 +1,35 @@
+The Tale of timurantvix (691525115241955359)
+bot-central 2023-07-01 23:36:10 &suggest
+bot-central 2023-07-01 23:41:47 &suggest We need to create an opportunity to build together with other people. For example, in the settings panel there will be a list of people on the server, and you can choose people who can build on your territory. It will also be possible to control the buildings of another person by sitting on his pilot's seat. 
+
+I think it's worth adding the interaction of magnets not only between the player, but between all people. For example, someone has built a crane with a magnet and some person wants his equipment to be lifted, and the magnet works only for the equipment of the owner of the crane.
+bot-central 2023-07-01 23:41:55 -suggest
+bot-central 2023-07-01 23:47:05 &suggest
+bot-central 2023-07-01 23:47:27 !suggest
+bot-central 2023-07-01 23:47:34 /suggest
+help 2023-07-01 23:48:14 How to write a suggest?
+help 2023-07-01 23:52:17 To whom exactly?
+bot-central 2023-07-01 23:56:23 ?shelp
+bot-central 2023-07-01 23:56:50 ?rhelp
+bot-central 2023-07-02 00:07:15 !rank
+bot-central 2023-07-02 00:07:20 d
+bot-central 2023-07-02 00:07:23 !rank
+bot-central 2023-07-02 00:08:21 $ne
+bot-central 2023-07-03 09:27:35 !rank
+bot-central 2023-07-03 09:31:04 !rank
+bot-central 2023-07-03 09:31:13 фвы
+bot-central 2023-07-03 09:55:28 s
+bot-central 2023-07-03 09:55:32 !rank
+bot-central 2023-07-03 10:17:54 m
+bot-central 2023-07-03 10:32:44 m
+bot-central 2023-07-03 10:52:24 s
+bot-central 2023-07-03 12:58:04 !rank
+bot-central 2023-07-03 12:58:18 !rank
+bot-central 2023-07-03 13:00:06 !rank
+bot-central 2023-07-03 13:34:20 ь
+bot-central 2023-07-03 13:34:24 !rank
+bot-central 2023-07-03 13:42:25 s
+bot-central 2023-07-03 13:42:52 ?shelp
+bot-central 2023-07-03 13:43:01 ?rhelp
+bot-central 2023-07-03 14:11:22 d
+bot-central 2023-07-03 14:11:25 !rank

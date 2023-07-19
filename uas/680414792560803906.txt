@@ -1,0 +1,87 @@
+The Tale of keepthechange. (680414792560803906)
+bot-central 2020-06-08 14:11:55 ?whois
+bug-reports 2020-07-15 18:56:05 i've had that issue
+bug-reports 2020-07-15 18:57:25 but it was because both motors where set to the same keybinds and each one randomly took over power.
+bug-reports 2020-07-15 18:57:46 I think it was same keybinds... It might have been opposite
+bug-reports 2020-07-15 18:57:50 can remember
+bug-reports 2020-07-15 18:58:02 whatever makes them work against eachother
+help 2020-07-28 16:24:05 if I have Shipwright III but I don't have I and II, can I immediately get the others?
+creations-chat 2020-07-28 16:32:26 XB-70 Valkyrie in the making, any suggestions?
+creations-chat 2020-07-28 16:37:57 ok
+the-dump 2020-07-30 13:03:48 
+the-dump 2020-07-30 13:04:03 this cat tho
+the-dump 2020-07-30 13:04:07 is on something
+the-dump 2020-07-30 13:04:56 https://www.instagram.com/p/BlFxCsQgN1i/?utm_source=ig_embed
+the-dump 2020-07-30 13:05:07 🤣
+the-dump 2020-07-30 13:05:16 cats are weird
+the-dump 2020-07-30 13:05:23 im wheezing
+the-dump 2020-07-30 13:18:02 https://www.instagram.com/p/BqC-t52lvqQ/
+the-dump 2020-07-30 13:18:10 wth
+the-dump 2020-07-31 19:11:31 lol
+creations-chat 2020-07-31 19:47:46 I think I have designed a new engine
+creations-chat 2020-07-31 19:48:54 hover thruster + suspension
+creations-chat 2020-07-31 19:48:57 +motor
+creations-chat 2020-07-31 19:49:01 im uploading it to yt now
+creations-chat 2020-07-31 19:50:09 new engine:
+creations-chat 2020-07-31 19:50:11 https://www.youtube.com/watch?v=FGpb4JM055s
+creations-chat 2020-07-31 19:50:47 ooh
+creations-chat 2020-07-31 19:50:52 so im not a inventor
+creations-chat 2020-07-31 19:50:55 😦
+creations-chat 2020-07-31 19:51:01 u ruined mah dreams
+creations-chat 2020-07-31 19:51:06 i thought i had invented a new engine
+creations-chat 2020-07-31 19:51:09 :(((
+help 2020-08-14 17:28:54 Conveyer engines won't work for me on new builds, old build that have already used them still work tho
+creations-chat 2020-08-17 07:04:45 my avatar and maybe everyone weight 0.74 units in plane crazy normal gravity
+the-dump 2020-08-19 17:32:12 https://www.youtube.com/watch?v=9dfMCVa-4Es
+the-dump 2020-08-19 17:41:26 https://www.youtube.com/watch?v=9dfMCVa-4Es
+the-dump 2020-08-19 19:30:27 461200
+the-dump 2020-08-19 19:31:35 https://www.youtube.com/watch?v=9dfMCVa-4Es
+the-dump 2020-08-19 19:38:34 https://www.youtube.com/watch?v=se4k2ImIs4o&t=1s
+the-dump 2020-08-19 19:41:54 https://www.youtube.com/watch?v=Wl959QnD3lM
+the-dump 2020-08-19 19:45:57 https://www.youtube.com/watch?v=w0AOGeqOnFY
+the-dump 2020-08-19 19:47:15 https://www.youtube.com/watch?v=liFFtpLiaw0
+the-dump 2020-08-19 19:47:27 sick beats
+the-dump 2020-08-19 19:47:53 even sicker beats
+the-dump 2020-08-19 19:47:54 https://www.youtube.com/watch?v=iLBBRuVDOo4
+the-dump 2020-08-19 19:59:13 https://www.youtube.com/watch?v=Y5tjtUFL0j4
+the-dump 2020-08-19 19:59:23 megalorave
+the-dump 2020-08-19 19:59:26 or
+the-dump 2020-08-19 19:59:32 crabania
+the-dump 2020-08-19 20:05:25 <:PogU:670373666164572172>
+the-dump 2020-08-19 20:06:00 https://www.youtube.com/watch?v=-15VC4Yxzys
+the-dump 2020-08-19 20:06:25 👌
+the-dump 2020-08-19 20:07:43 😱
+the-dump 2020-08-19 20:08:10 https://www.youtube.com/watch?v=Pxnor-aiBrw
+the-dump 2020-08-19 20:09:11 crab god
+the-dump 2020-08-19 20:10:17 HES BACC
+the-dump 2020-08-19 20:10:54 https://www.youtube.com/watch?v=6okxuiiHx2w
+the-dump 2020-08-19 20:11:22 ChAnGeD My StAtE Of MiNd
+the-dump 2020-08-19 20:12:56 https://www.youtube.com/watch?v=xfr64zoBTAQ&list=PL8LxeO4qJhBPheX-UV2INbVcfHjZwW239&index=2
+the-dump 2020-08-19 20:13:49 https://www.youtube.com/watch?v=D-UmfqFjpl0
+the-dump 2020-08-19 20:17:16 https://www.youtube.com/watch?v=2a6F--fA3fw
+the-dump 2020-08-19 20:17:20 HOW MANY SICK BEATS R THERE
+creations-chat 2020-09-03 08:39:51 any tips for turning on a vtol?
+creations-chat 2020-09-03 08:40:12 my last big vol
+creations-chat 2020-09-03 08:40:15 vtol
+creations-chat 2020-09-03 08:40:20 banked whne turning
+creations-chat 2020-09-03 08:42:20 I was thinking of using the wing propellers as two different keybinds for forwards and turning propulaion
+creations-chat 2020-09-03 08:42:24 *propulsion
+bot-central 2020-10-09 14:28:08 !rank
+bot-central 2020-10-10 12:10:23 ?covid uk
+bot-central 2020-10-10 12:10:49 so no one has recovered
+bot-central 2020-10-10 12:10:55 fakts 100
+bot-central 2020-10-10 12:11:10 and no cases
+bot-central 2020-10-10 12:11:18 ok we need a better system for that
+creations-chat 2020-10-23 20:02:46 Tie Silencer WIP
+creations-chat 2020-10-26 20:37:43 I can change people's keybinds
+bot-central 2020-11-21 18:39:46 !servers
+the-dump 2020-11-25 16:39:11 .
+creations-chat 2021-01-16 21:09:40 I'm trying to fit some pop up headlights in the front but idk how
+creations-chat 2021-01-17 13:02:23 https://discord.com/channels/384021699466756103/384025409945337856/800336252498083880
+<@!711516970230612030> that's awesome, you deserve tons more upvotes
+help 2021-01-21 20:35:41 I have a 1.5k+ plane around half way through and I was wondering if anyone else has a plane of this size that is actually manoeuvrable and therefore is it worth finishing (vulcan btw)
+help 2021-01-21 20:36:27 ok
+creations-chat 2021-07-14 17:01:24 thanks lol
+creations-chat 2021-08-19 16:45:56 half wedges along the sides
+creations-chat 2021-09-16 18:12:46 yeah sure i'm online for an hour or two now if you want
+creations-chat 2021-09-26 17:41:22 <@!698992062372118558> felon looks awesome idk why people downvoted u

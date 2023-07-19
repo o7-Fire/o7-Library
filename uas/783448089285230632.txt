@@ -1,0 +1,26 @@
+The Tale of rage_doritos (783448089285230632)
+help 2023-07-05 07:32:06 why do hover engines do this and how do i fix it
+
+https://medal.tv/games/roblox/clips/1hNFp3qjm8sYqn/d13378hH48F9?invite=cr-MSw1TGQsMTQ0MTk0NTYs
+help 2023-07-05 07:36:45 nvm found the solution, having a higher fps than 60 breaks whatever runservice they're using
+bug-reports 2023-07-05 07:47:58 fps unlockers break hover thrusters, i made this script for one of my games for cutscenes which fixes fps unlockers going through the cutscenes super fast, maybe it can help?
+bug-reports 2023-07-05 07:48:11 ```lua
+local plr = game.Players.LocalPlayer
+local cam = workspace.CurrentCamera
+local called = game.ReplicatedStorage.Cutscene
+local rp
+local currentFrame = 0
+local frameDelay = 1/60 
+```
+bug-reports 2023-07-05 07:48:20 ```lua
+called.OnClientEvent:Connect(function(folder, frames)
+    rp = game.Players.LocalPlayer.Character.HumanoidRootPart
+    cam.CameraType = Enum.CameraType.Scriptable
+    rp.Anchored = true
+    currentFrame = 0
+    local connection
+    connection = game:GetService("RunService").Heartbeat:Connect(function(step)
+        currentFrame += step/frameDelay
+        local currentFrameInt = math.floor(currentFrame)
+```
+bug-reports 2023-07-05 07:48:51 if you really want it DM me cause your bot wont let me post it

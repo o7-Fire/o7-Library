@@ -1,0 +1,10 @@
+The Tale of brick4 (518835763300007965)
+bug-reports 2022-04-16 00:18:02 Bug: Spotlights appear to turn off after a short period of time. I don't know if this is intentional or not, but it seems that having more spotlights, or simply having a large build causes them to turn off faster, causing lighting to go out of sync, or break entirely. 
+
+Debug Menu: https://drive.google.com/file/d/1QmuV-ZVdc2nyHk3sUjO_s6VMn4pLgzJ0/view?usp=sharing
+
+Username: Myretix
+
+Slot: 12
+bug-reports 2022-04-16 00:31:24 I don't see that in there. Could you direct me?
+bug-reports 2022-04-16 00:39:01 Thanks, anyways.

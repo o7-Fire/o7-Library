@@ -1,0 +1,11 @@
+The Tale of slickctr (657148604435136544)
+bot-central 2020-01-03 10:32:28 ?help
+bot-central 2020-01-03 10:33:50 ?rank
+bot-central 2020-01-03 10:33:58 !rank
+bot-central 2020-01-03 10:34:05 !help
+bot-central 2020-02-15 09:11:43 !play hatz
+bot-central 2020-04-03 04:45:47 !p hi bich
+bot-central 2020-04-03 04:46:23 =p hi bich
+bot-central 2020-04-03 04:46:34 😒
+bot-central 2020-04-03 04:46:40 =skip
+bot-central 2020-04-03 04:46:50 =skip 8

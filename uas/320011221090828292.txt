@@ -1,0 +1,14 @@
+The Tale of Renji (320011221090828292)
+bot-central 2022-07-26 16:09:45 !rank
+bot-central 2022-07-26 16:10:12 !rank
+bot-central 2022-07-26 16:53:09 !rank
+bot-central 2022-07-26 20:07:52 !rank
+bot-central 2022-07-27 01:53:55 !rank
+bot-central 2022-07-28 22:19:05 !rank
+creations-chat 2022-08-04 03:30:58 Thank you so much!
+help 2022-09-30 19:23:01 They help me? I don't know why the camera lock is not saved, I load my creation and the camera returns to its original position.
+creations-chat 2022-10-01 05:04:01 Srry, my bad
+creations-chat 2022-10-01 05:06:28 rdy
+help 2023-06-19 18:55:48 Why does the ping increase when I sit in the cockpit of my Mech? Makes it impossible to motorfold. In fact I can't even handle it :c
+bug-reports 2023-06-19 18:56:06 Why does the ping increase when I sit in the cockpit of my Mech? Makes it impossible to motorfold. In fact I can't even handle it :c
+help 2023-06-21 20:43:03 The problem was the pistons, they cause a lot of lag from what I see in large structures.

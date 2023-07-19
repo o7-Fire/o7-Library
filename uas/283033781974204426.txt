@@ -1,11 +1,3 @@
-aether.o
-plane-crazy 2019-08-19 16:44:28 why are plane load times so poor now
-plane-crazy 2019-08-17 05:40:54 lol k
-plane-crazy 2019-08-17 05:39:59 Who?
-plane-crazy 2019-08-17 05:39:02 thats very uncool
-plane-crazy 2019-08-17 05:38:57 Yo so every time i load in my plane, the landing gears are spasming and nothing works
-plane-crazy 2019-08-16 20:46:41 pontoon
-plane-crazy 2019-08-16 20:46:30 where is pontoon eend
-plane-crazy 2019-08-16 20:44:32 is there a pontoon back end or just front and middle
-plane-crazy 2019-08-16 20:41:47 Where do I find the water wheel
-plane-crazy 2019-08-16 20:31:52 anyone know where to find the items in the update
+The Tale of aether.o (283033781974204426)
+bug-reports 2019-08-17 05:32:11 Every time I load my plane in, it glitches and nothing works, I've tried waiting, I've tried switching servers
+bug-reports 2019-08-17 05:45:10 https://gyazo.com/e0e1d7a3a8ce734ddd935403e31ad14a

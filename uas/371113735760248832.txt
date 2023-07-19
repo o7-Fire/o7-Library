@@ -1,0 +1,36 @@
+The Tale of miserman (371113735760248832)
+bug-reports 2020-10-28 17:08:28 So for some reason when I set my motor to lock... It just shrinks and its really confusing! This is an awful bug please fix it
+bug-reports 2020-10-29 03:13:13 For the record
+bug-reports 2020-10-29 03:13:18 I wasnt being serious
+help 2020-11-06 06:06:19 how do I motor lock 2 engines into one block?
+help 2020-11-08 09:38:34 how do you connect motor locks?
+help 2020-11-08 09:38:39 like
+help 2020-11-08 09:38:45 how would
+help 2020-11-08 09:38:53 i add more engines to this motor lock section
+help 2020-11-08 09:38:57 
+help 2020-11-12 19:50:37 How do I make a plane control well with follow mouse controls
+help 2020-11-12 19:51:08 I have manual control surfaces but I can clearly see that it is less strain using mouse controls
+help 2020-11-12 19:51:16 I use those but they dont control that well at all
+help 2020-11-12 19:51:45 Hold on lemme screenshot my plane
+help 2020-11-12 19:51:54 I only used flaps on the elevators
+help 2020-11-12 19:53:04 
+help 2020-11-12 19:53:41 The control surfaces don’t control well at all when it is automated
+help 2020-11-12 19:53:59 When I use mouse control
+help 2020-11-12 19:54:12 It doesn’t work at all
+help 2020-11-12 19:54:22 Well it does just
+help 2020-11-12 19:54:23 Not good
+help 2020-11-12 19:55:39 When I control it manually it works fine but I gotta manage that, and I have to aim
+help 2020-11-12 19:55:41 Etc etc
+help 2020-11-12 19:55:52 I want to make the controls as close to war thunder as possible basically
+help 2020-11-13 12:55:28 How do people actually put a hole in their cannons
+help 2020-12-11 02:30:35 
+help 2020-12-11 02:30:42 any idea how to make this stop being top heavy
+help 2020-12-11 02:30:49 it literally falls to the front the moment I start it
+help 2021-02-24 17:17:42 tnt explodes to early
+help 2021-02-24 17:17:43 help
+help 2021-02-24 17:17:59 I have the impact speed on 5 but I also tried 155 and 300
+help 2021-02-24 17:18:08 but when it impacts something it explodes
+help 2021-02-24 17:18:16 and does nothing cause I think it detonates to early
+help 2022-01-03 01:31:22 is there any way to weld myself to another players vehicle
+help 2022-01-03 01:31:30 or at least not be flung out when he moves fast
+help 2022-01-03 01:31:47 me and my friend want to do a paradrop but when I get in his plane I fling

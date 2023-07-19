@@ -1,8 +1,142 @@
-a_lx
-plane-crazy 2019-10-17 14:42:06 Tag
-plane-crazy 2019-10-17 14:42:05 Oh wrong tacmg
-plane-crazy 2019-10-17 14:41:44 What
-plane-crazy 2019-07-26 21:47:18 by how much?
-plane-crazy 2019-07-26 21:46:53 oh.
-plane-crazy 2019-07-26 21:46:28 I just got on for the first time in months and none of my builds work
-plane-crazy 2019-07-26 21:46:17 did super rocket engines get nerfed
+The Tale of a_lx (121007634714329089)
+creations-chat 2018-12-08 03:14:48 Battering ram house on wheels :D requesting expert for the "buildr/lag specialist" category
+creations-chat 2018-12-08 03:19:13 heres the little driving area with trap doors to get out, only including so I can put my username: The Dark Fluffle#5595
+creations-chat 2018-12-08 03:30:53 flying fridge (saved as "faster vtol") | The Dark Fluffle#5595 | 121 | Technician novice
+creations-chat 2018-12-08 03:31:02 
+creations-chat 2018-12-09 16:27:03 name: God brick      user: The Dark Fluffle#5595      block count: idk I didnt check before launch            requested rank: speed demon (escape velocity)
+help 2018-12-09 22:50:24 like an osprey?
+help 2018-12-10 00:07:16 yeah but he said like a helicopter so I thought he meant the osprey specifically cause it has those rotors
+creations-chat 2018-12-10 02:11:57 
+creations-chat 2018-12-10 02:12:11 
+help 2018-12-14 23:01:28 how do u build tank tracks?
+help 2018-12-14 23:01:47 also why does my jet crack in half whenever I use the magnets https://gyazo.com/c4fc00736f3284b6689aed166f716530
+bug-reports 2018-12-15 19:20:50 if you try to grab something with a claw, it tends to just glitch the thing being grabbed and throw it upwards
+bug-reports 2018-12-16 01:35:20 if u delete a block and quickly switch back to build, it places a new block without you having clicked with build selected
+creations-chat 2018-12-16 21:16:44 new vtol :D
+creations-chat 2018-12-16 21:16:54 
+creations-chat 2018-12-16 21:24:56 Correction
+creations-chat 2018-12-16 21:25:00 Dont have that anymore
+creations-chat 2018-12-16 21:25:05 I just deleted it by accident
+creations-chat 2018-12-16 21:25:20 🙃
+creations-chat 2018-12-16 21:26:57 If I was building it next to u then yes
+creations-chat 2018-12-16 21:27:07 The thing I just posted an image of
+creations-chat 2018-12-16 21:27:20 I had to clear data to save it and I didnt name the slot it was in so I saved over it
+creations-chat 2018-12-16 21:27:41 I dont really remember
+creations-chat 2018-12-16 21:27:45 At one point there was
+creations-chat 2018-12-16 21:27:55 Had some helium in the back that made it flip over
+creations-chat 2018-12-16 21:28:33 I mean I remember most of how that vtol was built it would only take maybe an hour to rebuild, most of which would be spent with controls
+creations-chat 2018-12-16 21:28:40 But still it's really annoying
+creations-chat 2018-12-16 21:33:33 OH MY GOD
+creations-chat 2018-12-16 21:33:46 THANK YOU SAVING GODS FOR YOUR MERCY
+creations-chat 2018-12-16 21:33:57 I HAVE NO IDEA HOW BUT IT IS BACK
+creations-chat 2018-12-16 21:34:15 my auto save says 1 block
+creations-chat 2018-12-16 21:34:25 I honestly have no idea what happened but im not complaining
+creations-chat 2018-12-16 21:35:31 agh
+creations-chat 2018-12-20 23:55:58 [Tardis]  [The Dark Fluffle#5595]  [498]  [none (cant fly yet)]
+help 2018-12-26 17:06:34 how do you turn on the train tracks?
+help 2018-12-26 17:07:27 yes, but no matter what I do I cant *turn*
+help 2018-12-26 17:07:35 1 sec let me take a picture
+help 2018-12-26 17:07:59 ignore how ugly it is, its a place holder
+help 2018-12-26 17:08:05 https://gyazo.com/603f45438f160e6c63602881d4d33c20.gif
+help 2018-12-26 17:09:53 I removed the middle one and all it did was make me fall off the tracks
+help 2018-12-26 17:10:37 it was 15 speed...
+help 2018-12-28 21:46:21 honestly I have no idea how to use wing panels
+help 2018-12-28 21:46:31 when I use the automatic controls, they work like crap
+help 2018-12-28 21:46:40 when I set my own, they barely work
+help 2018-12-28 21:47:05 so I basically have to chose between bad controls that work or good controls that dont work very well
+help 2018-12-28 21:47:21 ~~essentially I dont know what im doing and so it doesnt work~~
+help 2018-12-28 21:48:18 sorry not wing panels, control panels
+help 2018-12-28 21:52:16 ah I see
+help 2018-12-28 21:54:05 well while you're here, I don't suppose you could help with this as well: I was attempting to make my tardis fly, but it kept rolling and flipping over. So I decided, hey, if I make the top out of helium and the bottom out of balasts, any attempt to roll over should straighten out because the bottom will be forced under. So I did that, except it still rolled over
+help 2018-12-28 21:54:20 am I just severely misunderstanding how physics work or why doesn't this work?
+help 2018-12-28 21:54:59 it wasn't moving forward, just up
+help 2018-12-28 21:56:30 https://gyazo.com/485b332c2eeac318ddafb6bfb6f90988
+help 2018-12-28 21:56:30 I mean its not like its super unsymmetrical
+help 2018-12-28 21:56:37 literally a square
+help 2018-12-28 21:57:37 ...
+help 2018-12-28 21:57:46 I dont think this game goes that far into depth
+help 2018-12-28 21:58:02 this is a game were a block of helium can get you to escape velocity
+help 2018-12-28 21:58:04 no, it doesn't
+help 2018-12-28 21:58:40 *steinfeld theme*
+help 2018-12-28 21:59:13 yes actually please do because I am really confused as to why it doesnt work lol
+help 2018-12-28 21:59:34 ~~not that it matters the save deleted it but I can pretty easily recreate it~~
+help 2018-12-28 22:00:47 I will go through the design and see if I placed a stray block
+help 2018-12-28 22:01:52 dude the game doesn't use a realistic physics engine
+help 2018-12-29 00:46:51 <@328413257092169729> the first motor turns it, say, right at 20. Then the second turns left at 20. They cancel out. The bottom spins at 20 and the top remains still
+help 2018-12-29 00:49:17 <@194241218811658240> not sure, had that happen to me. I did 2 things: 1) rejoin (might do nothing, I did this first and then did step 2) and 2) I didnt alter what it looks at. It might just be that when you turn the cameras to look at something they end up getting locked in place (maybe so they dont turn/fall from the direction they are supposed to be pointing in)
+help 2018-12-29 00:51:44 Also cool looking... thing. Lol didn't see it very well but looked cool, especially with the... unrendered engines?
+help 2018-12-29 00:52:47 I probably can't but I'm certainly willing to try
+creations-chat 2018-12-29 03:21:50 https://gyazo.com/bd37604a2daae3125313e5e654e154a9.gif spinning out of control... just like the show
+user: The Dark Fluffle#5595 requesting: expert replicator https://gyazo.com/b6a38cb4d1bd6d4c2075affe4a078b87 block count: 598
+help 2018-12-29 16:00:52 trying to build a dalek... any ideas on how to build this? https://gyazo.com/0ccb4e1585fcc9b3d068eaf38eb0f3ed
+help 2018-12-29 18:44:11 yes
+the-dump 2019-01-06 20:54:59 
+bug-reports 2019-01-08 20:45:34 Every so often firing rockets ends up launching you (more with some builds than others). No idea why this happens, or what sorts of things make it more likely to happen and, as far as I can tell, nothing consistently does it but it does happen, sometimes frequently
+bug-reports 2019-01-08 20:46:33 This has probably been reported but I wanted to make sure
+the-dump 2019-01-10 15:03:05 
+help 2019-01-13 02:57:47 how do u make it to light speed
+bug-reports 2019-01-18 22:20:05 ^
+help 2019-01-18 22:22:24 how do you build small fighter jets
+help 2019-01-18 22:59:55 new question: how to I make automatic controls work?
+help 2019-01-18 23:00:28 I have several planes that work fine with keybinds but the moment I use automatic controls the thing starts to shit itself as it wobbles and shakes and, in many cases, doesnt even turn
+help 2019-01-18 23:02:33 like tf is it doing with this little .000000000000001% turn on the control surfaces for yaw so it can turn in 4 hours
+help 2019-01-18 23:03:00 basically, how do I make automatic controls turn via roll and pitch so it can atleast somewhat function
+help 2019-01-18 23:04:49 yeah I know that part
+help 2019-01-18 23:05:05 but after I get the surfaces in the right places, it seems like the automatic controls only want to use yaw to turn
+help 2019-01-18 23:06:12 1 sec
+help 2019-01-18 23:11:38 ok sounds like ur right because I tested it with my best plane and (while it was still rather slow while turning) it wasn't doing the wobbly stuff
+help 2019-01-18 23:11:53 https://gyazo.com/c2dda21b66f7f23a0b6319571f9ef43e.gif (manual)
+help 2019-01-18 23:12:01 https://gyazo.com/caa6122d3e808b6166ce7db756c9fd3a.gif (auto)
+help 2019-01-18 23:12:47 I guess its just crappy fighter design causing the auto controls to not work on my mini fighter builds
+help 2019-01-18 23:14:52 I just wanted to use mouse cause I have heard its better for fighers as it makes aiming easier
+help 2019-01-18 23:15:08 also when I try to control it, my aim sucks because im tilting all over the place
+help 2019-01-19 20:37:09 does the center of mass being under the center of lift have an effect on flight?
+creations-chat 2019-01-19 22:38:13 https://gyazo.com/b5acd746297fbea47971ad6e23457943.gif https://gyazo.com/6645a6dd1fb7e13230d8042778951f77 https://gyazo.com/53208795e538170bf84495f65fb9fd2b heres a plane I built cause I wanted a larger flying craft! hope u like it (colors coming soon)
+the-dump 2019-01-20 02:30:13 <:eyes2:525319504721608705>
+help 2019-01-21 15:16:44 anyone have any tips for first time helis
+creations-chat 2019-01-21 17:51:46 a bird flew into my window
+creations-chat 2019-01-21 17:55:10 my first heli :D its only real "features" are the bent wings and (in the front) a gun that can be tilted up and down (hey I never said it was unique) though there is also oh hole in the top which the blades are attached to, I find it makes the heli more stable in flight (someone else designed this, I just used it, sorry idk the guy's name)
+creations-chat 2019-01-21 17:55:20 there we go
+creations-chat 2019-01-21 17:55:34 oh it submitted them independently T_T
+creations-chat 2019-01-21 17:56:02 ~~now you can read the same paragraph 3 times!~~
+help 2019-01-22 22:09:26 <@!217336009455566848> https://www.roblox.com/users/935225431/profile
+help 2019-01-22 22:09:49 oh right
+help 2019-01-22 22:10:09 there u go
+help 2019-01-22 22:10:14 forgot to do that on my alt
+help 2019-01-22 22:11:37 I dont have a screenshot of him with it but I have a screenshot of the build and if u look in chat its pretty clear its him
+help 2019-01-22 22:17:31 https://gyazo.com/a1d169a2da3c84e7901f222603f1219b
+help 2019-01-22 22:17:47 https://gyazo.com/6ec51c85c18b2568bd5998cdc9babefc
+help 2019-01-22 22:18:42 thats all I have unless I can get him to spawn it
+help 2019-01-22 22:20:46 https://gyazo.com/970cc72ded7005f2fa9e92bb46b0bba5
+help 2019-01-22 22:22:17 plus when I mentioned using the iron cross  he said "I couldn't"
+help 2019-01-22 22:22:25 it seems like a cheap cover story to me
+help 2019-01-22 22:39:20 https://gyazo.com/cb3a66822bcfdade0d9a7f008076712d why does this keep happening
+help 2019-01-23 23:08:25 https://gyazo.com/a1c85f3dc59f27b21f71b03f4163bfa3.gif how can I get the center to float without spinning with the rest of the wheel? the motors are unpowered, the hope was that would keep it steady but it didnt really work out that way
+help 2019-01-23 23:10:25 also a movement system would be appreciated as using the motors powered doesnt work and using rockets on the center wheel doesnt work
+creations-chat 2019-01-24 19:54:36 lets play will the bot work with gyazo
+creations-chat 2019-01-24 19:58:08 the correct answer is no
+creations-chat 2019-01-24 20:00:27 I made a spitfire a while back but never posted it so... yeah? it flies pretty well and has pistons to push the front landing gear up so it has that angle, tho the landing gear can't go to the sides like they should because the game doesnt do that. oh and it has missiles on the bottom but thats just for pvp. anyway hope you like it :D
+creations-chat 2019-01-24 20:00:33 
+creations-chat 2019-01-24 20:00:40 
+creations-chat 2019-01-24 20:55:27 so I made my first wheelie b0i... uh... yeah. its a wheel. thanks to <@!99607451300548608> for the idea and help with *minor* things like making it work and making it not fall over every 2 seconds
+creations-chat 2019-01-24 20:55:35 
+creations-chat 2019-01-24 20:55:43 
+creations-chat 2019-01-24 21:01:59 ^
+creations-chat 2019-01-24 21:02:25 I think he meant agera
+creations-chat 2019-01-25 01:27:07 I made a bigger and better wheel :D this one handles far better, can move faster without bouncing and turning itself, can turn while moving, and can tackle some small hills. Also I think it looks nicer (at least design wise).
+creations-chat 2019-01-25 01:27:28 
+creations-chat 2019-01-25 01:29:02 bruh moment
+creations-chat 2019-01-25 01:29:05 
+creations-chat 2019-01-25 01:30:06 someone upvote my spitfire so I can get master replicator D:<
+creations-chat 2019-01-25 01:40:19 aha
+creations-chat 2019-01-25 01:40:21 10 upvotes
+creations-chat 2019-01-25 01:43:29 <@!163143541160148992> can I get master replicator
+creations-chat 2019-01-25 01:48:42 https://gyazo.com/8f7a67e90698e7e2155f0963e6bf744a
+creations-chat 2019-01-25 01:52:00 right
+creations-chat 2019-01-25 01:52:00 oh
+creations-chat 2019-01-25 01:52:08 D:<
+creations-chat 2019-01-25 01:54:29 <@!163143541160148992> https://gyazo.com/a131a79e1fd4c977fc010544d7ccfc8f >:D
+creations-chat 2019-01-26 03:22:58 so I built a ufo... cause why not. It was originally inspired by the dalek mothership but I later change it because 1) it didnt look like it and 2) I wanted to do my own colors. also the bottom lights spin and it can move in just about every way imaginable
+creations-chat 2019-01-26 03:23:06 
+creations-chat 2019-01-26 03:23:16 
+creations-chat 2019-01-26 03:23:23 

@@ -1,0 +1,85 @@
+The Tale of dhabo (776492301945012225)
+help 2022-03-16 04:40:59 anyone can help me?
+help 2022-03-16 04:41:03 yo can anyone help me with my ship? i added helium blocks and some ballast but its still tipping over-
+help 2022-03-16 04:42:27 in the very top u mean the hull top or the tower top?
+help 2022-03-16 04:43:13 ah ok il try
+help 2022-03-16 04:44:18 wait do the helium blocks needs to be applied on center?
+help 2022-03-16 04:52:19 yeah so should i?
+help 2022-03-16 04:53:37 huh ok got it
+help 2022-03-18 01:35:30 yo guys need a help, so my first time using the suspension turret technic and when i uses it its spinning by its own and when its not spinning its having hard time just following my cursor and kept wobbling around
+help 2022-03-18 01:35:36 anyone can help me?
+help 2022-03-18 01:41:54 yeah
+help 2022-03-18 01:42:26 like yk to cover the whole turret so it touches the hull and not using 0.9 blocks
+help 2022-03-18 01:43:27 how to use pistons?
+help 2022-03-18 01:43:44 dont u only able to use em on the not retrated state?
+help 2022-03-18 01:43:57 i meant retreacted
+help 2022-03-18 01:44:11 so then how
+help 2022-03-18 01:45:26 e
+help 2022-03-18 01:47:34 ilt try
+help 2022-03-18 01:56:35 and one more for an IFV should i use suspension on wheel?
+help 2022-03-18 01:58:36 ok
+help 2022-03-19 11:45:28 yo is there anyway to make a tnt only explodes when its detached?
+help 2022-03-19 11:47:49 uh can u give me an example? sorry
+help 2022-03-19 11:48:06 motorlock the engines ig
+help 2022-03-19 11:48:14 or jsut strap em inside fuselage
+creations-chat 2022-03-19 16:07:29 i need build ideas
+help 2022-04-10 14:15:16 gday people, i need help, so um I'm making a battleship with a big turret and every time I load the thing in the water the ship tilts when i rotate the turret got any tips to help me out?
+help 2022-04-10 14:15:30 i tried ballast block and tanks but still
+help 2022-04-10 14:54:08 il try
+help 2022-04-11 13:38:40 yoo is there any way to set up ur motors so its controled by a keybind like motor  and have a max angle like in the motor 2?
+help 2022-04-11 13:45:17 so imagine usual motor control
+help 2022-04-11 13:45:34 which will be assigned in 2 dif keybinf
+help 2022-04-11 13:45:48 but they have turning limitation like the motor 2
+help 2022-04-11 13:46:10 more of how to make motor 1 with max angle on it
+help 2022-04-11 13:47:10 for a battleship turret
+help 2022-04-11 13:47:30 and i need a to make limit for them so they dont touch teh structure
+help 2022-04-11 13:47:43 but i use motor keybind instead of motor 2
+help 2022-04-11 13:47:45 so yes
+help 2022-04-11 13:48:46 and that why
+help 2022-04-11 13:49:49 well yes i would do that but i have 3 turret with same controls and only 2 of them have structural contact and each time they hit the structure the whole turret become unallign
+help 2022-04-11 13:49:51 yea
+help 2022-04-11 13:50:16 oh welp ig imma try it
+help 2022-04-11 13:50:23 good idea
+help 2022-04-11 13:50:54 <:OkayChamp:709084018485887096>
+help 2022-04-11 13:52:44 i use keys
+help 2022-04-11 13:53:00 /yes i prefer keys turret then mouse
+help 2022-04-11 13:53:12 but damn i do mouse planes and not wasd
+help 2022-04-11 13:53:31 tonky battleship
+help 2022-04-11 14:03:54 ok got new problems what do u do whean ur motor wont do what it suppose to do and just kept falling
+help 2022-04-11 14:04:01 is it cuz the weight
+help 2022-04-11 14:10:37 what does that do
+help 2022-04-11 14:19:04 nothing ;-;
+help 2022-04-11 14:38:00 i want it to act like a normal motor
+help 2022-04-11 14:38:10 that ismoving normally
+help 2022-04-11 14:38:13 /rather than bouncing
+help 2022-04-11 14:39:17 barrels colliding with super structure i suppose
+help 2022-04-11 14:39:26 fuck how to record again brbn
+help 2022-04-11 14:40:25 the ship surface deck
+help 2022-04-11 14:40:32 doing it
+help 2022-04-11 14:41:59 yes
+help 2022-04-11 14:42:01 the hull didnt count
+help 2022-04-11 14:42:19 ig i said it wrong then
+help 2022-04-11 14:43:31 the structure the bridge is on is the superstructure
+help 2022-04-11 14:43:32 ye
+help 2022-04-11 14:45:28 ok waht
+help 2022-04-11 14:45:32 i swear i recorded it
+help 2022-04-11 14:47:27 there we have it lads
+help 2022-04-11 14:48:43 not responding barrels
+help 2022-04-11 14:48:57 
+help 2022-04-11 14:52:49 nvm i figured it out F
+help 2022-04-11 15:07:07 i meesed up two motors and its causing both side doing the opposite
+help 2022-04-12 14:45:22 ey back for big ship help
+help 2022-04-12 14:45:34 best engine for big flod ship?
+help 2022-04-12 14:45:37 fold*
+help 2022-04-12 14:45:59 wouldnt that be **lag*
+help 2022-04-12 14:46:42 how abt hover drives?
+help 2022-04-12 14:49:13 sure lemme
+help 2022-04-12 14:51:38 there
+help 2022-04-12 14:51:48 very not thick costum missouri
+help 2022-04-12 15:02:54 have any idea of sum1 that might know?
+creations-chat 2022-04-13 05:00:59 a plane that requires angle locking to make (except f117)
+help 2022-04-16 02:21:53 yo am making a f14 but i cant rly get the wings and the top to get closer anyone have a tip?
+help 2022-04-16 02:31:10 imma try e
+help 2023-01-15 11:02:23 So uh *why is the sign tagging random words* 
+
+Like a moment ago it registered and then when I try again it just tagged it like whaaaa

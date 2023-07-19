@@ -1,0 +1,4 @@
+The Tale of gimbit_ (486679891161645086)
+bug-reports 2021-04-01 09:26:46 Disconnectors are being weird.
+bug-reports 2021-04-01 09:27:47 When i disconnect my missile it just freezes midair.
+bug-reports 2021-04-01 09:27:55 I don't have any anchors

@@ -1,0 +1,741 @@
+The Tale of nec6992 (610446020018700289)
+help 2021-01-12 19:02:24 how can i make my own suspension?
+help 2021-01-12 19:02:35 look
+help 2021-01-12 19:05:42 all ballast block on density 10 all motors on no-powered
+help 2021-01-12 19:06:15 the suspension on down is supposed to rotate up and down depending on how it has to be so it can pass the terrain
+help 2021-01-12 19:06:23 can anybody help?
+help 2021-01-12 19:07:47 Butt it doesnt do it
+help 2021-01-13 13:48:43 how to make a better suspension with the usage of motors
+help 2021-01-13 13:49:07 motors unpowered density block on 10
+help 2021-01-13 13:50:33 when i drive i think you can notice the wheels are divided by motors
+help 2021-01-13 13:50:50 
+help 2021-01-13 13:57:50 Nevermind I already understand how it work now
+help 2021-04-06 10:26:50 how to make smooth suspension
+help 2021-04-06 10:27:06 for car
+help 2021-04-06 15:48:26 plz
+help 2021-04-06 15:48:26 how to make smooth suspension for car
+help 2021-04-06 15:49:25 why none respond
+help 2021-04-10 09:19:37 why does this plane keep going up
+help 2021-04-10 09:22:08 nvm I fixed it for some reason i put propellers that made it go up lol
+help 2021-04-10 09:51:15 no i fixed it its not going up anymore
+help 2021-04-14 08:37:43 help
+help 2021-04-14 08:37:50 what are smooth settings for suspension
+help 2021-04-14 08:38:07 
+help 2021-04-14 08:38:14 for this block
+help 2021-04-14 08:38:53 for car
+help 2021-04-14 08:39:19 how about you guys tell me what is each setting for
+help 2021-04-14 08:40:55 so higher damping is more smooth ?
+help 2021-04-14 08:41:09 ok
+help 2021-04-14 08:41:17 i dont understand stifness
+help 2021-04-14 08:41:59 ok
+help 2021-04-14 08:42:04 why not smooth
+help 2021-04-14 08:42:53 stifness is 20
+help 2021-04-14 08:43:02 i change it to 0 then ?
+help 2021-04-14 08:43:24 what do you mean too tight
+help 2021-04-14 08:43:33 wait
+help 2021-04-14 08:43:35 i think i know
+help 2021-04-14 08:43:37 pistons too strong push
+help 2021-04-14 08:43:46 i made 3 max power
+help 2021-04-14 08:44:42 still no
+help 2021-04-14 08:45:35 when i disable piston it very  smooth
+help 2021-04-14 08:45:48 
+help 2021-04-14 08:46:29 i did 2
+help 2021-04-14 08:47:17 i think 3 is good
+help 2021-04-14 08:47:50 ok
+help 2021-04-14 08:47:53 i save and try later
+help 2021-04-14 08:48:01 thank for help
+help 2021-04-14 08:49:05 wdym
+help 2021-04-14 08:49:44 ok
+help 2021-04-14 08:49:53 but it work good
+help 2021-04-14 08:52:00 waht
+help 2021-04-14 08:52:26 thank
+help 2021-04-14 08:52:38 cool
+help 2021-04-14 08:52:59 np
+help 2021-04-14 08:53:14 show
+help 2021-04-14 08:53:18 wait
+help 2021-04-14 08:53:22 you mean godzilla will fall down
+help 2021-04-14 08:53:26 or rockets will not weld
+help 2021-04-14 08:53:31 i never make mech sorry idk
+help 2021-04-14 16:47:24 can somebody help me how to make troads work for this ?
+help 2021-04-14 16:48:41 its unfinished but probably wont work
+help 2021-04-14 16:53:13 Nvm it works
+help 2021-04-14 16:54:40 what does physics in anchor block do
+help 2021-04-14 16:57:19 ok
+help 2021-04-14 17:01:00 ok
+help 2021-04-14 17:06:58 should i make the troads fabric
+help 2021-04-19 09:46:56 how do i make this not require helium block to stop going up, i needed to add like 20 helium blocks to make it stop going up itself
+help 2021-04-19 09:47:47 like
+help 2021-04-19 09:47:55 the wing that is placed vertically or horizontally on the back
+help 2021-04-19 09:48:12 <@!738702049113538600>
+help 2021-04-19 09:55:03 ok
+help 2021-04-19 09:57:14 <@!738702049113538600> still goes up so ill add ballast blocks
+help 2021-04-23 09:20:50 how to fold this pls
+help 2021-04-23 11:10:47 How to fold my plane pls
+help 2021-04-23 11:11:33 Doesnt work
+help 2021-04-23 11:11:48 Ok thanks
+help 2021-04-23 11:14:54 Also doesnt work <@!612627208481144842>
+help 2021-04-23 11:15:17 Nvm i got it working
+help 2021-04-23 11:31:32 how can i make the tail connection to the body smooth
+help 2021-04-23 11:34:01 yes but there are half wedges from both half blocks and half wedges and half wedge downs
+help 2021-04-23 11:34:06 these dont fit to it
+help 2021-04-23 12:37:57 Where do i suggest
+help 2021-04-23 12:39:10 Nvm
+bot-central 2021-04-23 12:39:30 ?shelp
+bot-central 2021-04-23 12:39:44 ?rhelp
+help 2021-04-23 13:24:40 how much wide and long 1.4x wing panels should this plane have as the main wing
+help 2021-04-23 13:30:28 i think it needs to be here
+help 2021-04-23 13:36:41 idk maybe u need to rejoin
+help 2021-04-23 13:37:34 u forgot to save ur ship?
+help 2021-04-23 13:38:35 idk then
+help 2021-04-23 13:38:49 im sorry idk how to help you
+help 2021-04-23 14:41:32 help this plane keeps going up with the front how do i fix that
+help 2021-04-23 14:42:11 like
+help 2021-04-23 14:42:13 let me get a pic
+help 2021-04-23 14:42:24 which wing
+help 2021-04-23 14:42:43 yes i tried to fix it
+help 2021-04-23 14:42:46 by making ballast blocks on the front
+help 2021-04-23 14:43:13 looks like it
+help 2021-04-23 14:43:17 ok
+help 2021-04-23 14:43:20 let me get it to fly
+help 2021-04-23 14:43:45 it just keeps going like this
+help 2021-04-23 14:44:07 how
+help 2021-04-23 14:44:30 thats half hour of work
+help 2021-04-23 14:45:00 is it supposed to be in the middle or what
+help 2021-04-23 14:45:08 ok
+help 2021-04-23 14:45:47 i cant
+help 2021-04-23 14:45:49 its right next to the fold
+help 2021-04-23 14:46:31 
+help 2021-04-23 14:47:11 on the other side theres the fold
+help 2021-04-23 14:47:24 i dont have a vip server
+help 2021-04-23 14:47:46 oh
+help 2021-04-23 14:48:30 but how to fix it
+help 2021-04-23 14:48:54 what front
+help 2021-04-23 14:48:55 sc?
+help 2021-04-23 14:49:06 ok
+help 2021-04-23 14:49:23 
+help 2021-04-23 14:49:27 already watched this
+help 2021-04-23 14:49:42 yes
+help 2021-04-23 14:50:51 how do i motorlock it to the abck
+help 2021-04-23 14:51:44 pls i dont want lose this
+help 2021-04-23 14:53:03 also watched this
+help 2021-04-23 14:53:28 wdym
+help 2021-04-23 14:54:01 
+help 2021-04-23 14:55:22 
+help 2021-04-23 14:56:14 yes but i dont know how to motorlock a wing
+help 2021-04-23 14:57:38 how to do it
+help 2021-04-23 17:40:01 so
+help 2021-04-23 17:40:21 the right wing is way too far on the front so i wanna ask if the left wing which is much smaller because im still making the plane is good enough
+help 2021-04-23 17:40:44 like will it go up if i make the both wings long but placed like the left one
+help 2021-04-23 17:40:50 or not
+help 2021-04-23 17:41:06 when there was the same placement as the right wing it was just contininously going up
+help 2021-04-23 17:47:27 well if u wanna use rockets you will need to make the torpedos in the water
+help 2021-04-23 17:47:48 u can try doing a disconnector and rocket engine with explosive blocks too but that way u will get limited torpedos
+help 2021-04-23 17:47:59 but idk if that will work
+help 2021-04-24 13:42:58 how do i request a rank
+help 2021-04-24 13:43:57 rude
+help 2021-04-24 13:47:53 no
+bot-central 2021-04-24 13:57:30 !rank
+creations-chat 2021-04-24 18:23:07 same for me
+creations-chat 2021-04-24 19:01:11 i dont know why people just randomly dislike very cool creations actually
+bot-central 2021-04-25 07:57:29 ?shelp
+help 2021-04-25 09:59:15 i need ideas what to build
+help 2021-04-25 10:05:13 no
+bot-central 2021-04-30 20:32:43 !shelp
+help 2021-05-08 19:09:19 how to make this heli not keep going up and down but make it stay in 1 position in air
+help 2021-05-08 19:10:39 how
+help 2021-05-08 19:10:43 im new in making helicopters
+help 2021-05-08 19:11:05 i watched it
+help 2021-05-08 19:11:11 wai
+help 2021-05-08 19:11:12 like this
+help 2021-05-08 19:11:28 
+help 2021-05-08 19:11:40 ok
+help 2021-05-08 19:11:43 ill try
+help 2021-05-08 19:12:48 
+help 2021-05-08 19:13:02 i know how to fix this
+help 2021-05-08 19:16:28 i did
+help 2021-05-08 19:16:40 i just need to know how to make it stay in air
+help 2021-05-08 19:17:17 which
+help 2021-05-08 19:17:39 can you show a image of it
+help 2021-05-08 19:18:48 <@!662488111380430887>
+help 2021-05-08 19:19:22 ok
+help 2021-05-08 19:20:12 like this
+help 2021-05-08 19:20:12 
+help 2021-05-08 19:25:43 I did it but my heli doesnt even go up anymore
+help 2021-05-08 19:26:16 <@!662488111380430887>
+help 2021-05-08 19:29:19 this design doesnt work for my heli
+help 2021-05-08 19:31:57 wait
+help 2021-05-08 19:31:58 it works now
+help 2021-05-08 19:32:20 but my plane is rotating on side
+help 2021-05-08 19:32:24 i mean heli
+help 2021-05-08 19:32:48 <@!662488111380430887>
+help 2021-05-08 19:33:20 i press q so control surface move
+help 2021-05-08 19:33:23 i did
+help 2021-05-08 19:34:11 just how to make my heli hover
+help 2021-05-08 19:34:16 using a easier design
+help 2021-05-08 19:39:32 pls somebody
+help 2021-05-08 19:55:57 i managed to do it using propellor engines
+creations-chat 2021-05-12 10:15:51 <@!597340544548601867> how did you make that background
+help 2021-05-14 09:56:03 how to make this rotate when i move my mouse like motor 2
+help 2021-05-14 10:00:59 pls
+help 2021-05-14 10:03:37 impossible?
+help 2021-05-14 10:04:28 everything
+help 2021-05-14 10:04:42 would it be possible with control surfaces
+help 2021-05-14 10:04:57 oof
+help 2021-05-14 10:05:10 ?
+help 2021-05-14 10:05:29 bro
+help 2021-05-14 10:05:32 how did i not think of that
+help 2021-05-14 10:05:41 thank you guys
+help 2021-05-14 10:29:23 managed to do it, thanks again
+help 2021-05-14 11:10:14 does submarine count as shipwright
+help 2021-05-16 14:48:34 s
+help 2021-05-17 16:19:45 how to make this better
+help 2021-05-17 16:20:18 idk im trying to cover the engine particles
+help 2021-05-17 16:20:58 how
+help 2021-05-17 16:21:31 yes because if i make smaller then you cant make it smooth
+help 2021-05-17 16:21:49 ok
+help 2021-05-17 16:28:38 like this
+help 2021-05-18 05:37:35 how to make this not require helium blocks
+help 2021-05-18 05:38:19 prevent this
+help 2021-05-18 05:38:34 
+help 2021-05-18 05:39:54 how to fix it
+help 2021-05-18 05:40:28 where
+help 2021-05-18 05:40:58 ok
+help 2021-05-18 05:41:20 
+help 2021-05-18 05:41:58 ok
+help 2021-05-18 05:42:20 now it doesnt work
+help 2021-05-18 05:43:39 so it doesnt fly
+help 2021-05-18 05:44:59 ok
+help 2021-05-18 05:46:25 it works thank you
+help 2021-05-18 07:49:21 is this a good jet body
+help 2021-05-18 07:49:37 how to make a good one
+help 2021-05-18 07:50:07 what
+help 2021-05-18 07:50:57 ok
+help 2021-05-18 07:52:11 like this
+help 2021-05-18 07:53:16 idk
+help 2021-05-18 08:01:03 ok
+help 2021-05-26 10:44:13 does this look like the f4 phantom shape
+help 2021-05-26 10:44:57 wdym
+help 2021-05-26 10:45:35 ohh alr
+help 2021-05-26 10:45:56 how to make it round though
+help 2021-05-26 10:46:02 the body is from half blocks
+help 2021-05-26 10:47:06 i get it k
+help 2021-05-26 10:56:04 like this? (dont care about the parts in front its because i didnt weld it yet)
+help 2021-05-26 11:10:06 ok
+help 2021-05-26 15:12:29 
+help 2021-05-26 15:46:24 ok
+help 2021-05-26 15:55:07 is this still good for a f4 phantom body or i need to fix something in it?
+help 2021-05-26 16:06:42 
+help 2021-05-26 17:02:01 is this a wing using motor?
+help 2021-05-26 17:02:35 just do control surfaces so theres a 0.1 gap only and remove the option set controls automatically
+help 2021-05-26 17:02:37 but
+help 2021-05-26 17:02:42 dont do it near the motor 2
+help 2021-05-26 17:03:02 like a 1 block space
+help 2021-05-26 17:03:06 gap
+help 2021-05-26 17:03:20 idk how to remove the gap
+help 2021-05-26 17:03:26 in a other way
+help 2021-05-26 17:39:49 this is for the rudder to move
+help 2021-05-26 17:44:38 what
+help 2021-05-26 17:44:49 how
+help 2021-05-26 17:48:40 i dont understand
+help 2021-05-26 17:56:05 that will glitch
+help 2021-05-26 17:57:29 how to make the back wings like this
+help 2021-05-26 17:57:47 
+help 2021-05-26 18:00:17 how
+help 2021-05-26 18:00:35 yeah but  my plane is from half blocks
+help 2021-05-26 18:00:47 in the direction it will leave a gap
+help 2021-05-26 18:05:03 what is this
+help 2021-05-26 18:06:13 no
+help 2021-05-26 18:06:32 im not talking about the motorlock
+help 2021-05-26 18:09:31 can you guys just actually help me
+help 2021-05-26 18:09:52 .
+help 2021-05-30 15:34:12 how to make a rocket
+help 2021-05-30 16:04:20 yes but where to place it
+help 2021-05-30 18:25:27 ok
+help 2021-05-30 18:28:52 like this (blue is ballast block)
+help 2021-05-30 18:29:21 no it doesnt work
+help 2021-05-30 18:29:33 
+help 2021-05-30 18:29:39 i ended up in the void
+help 2021-05-30 18:29:48 i think its too heavy
+help 2021-05-30 18:30:06 ok
+help 2021-05-30 18:30:10 where
+help 2021-05-30 18:30:42 
+help 2021-05-30 18:30:57 im going to the void
+help 2021-05-30 18:31:45 a little then i fall down
+help 2021-05-30 18:31:54 like 1 block up
+help 2021-05-30 18:32:12 now i keep going up
+help 2021-05-30 18:33:12 it keeps spinning
+help 2021-05-30 18:33:27 yes but how do i get back down
+help 2021-05-30 18:34:36 ok
+help 2021-05-30 18:35:10 it works
+help 2021-05-30 18:35:10 huh
+help 2021-05-30 18:35:27 doesn't roll over
+help 2021-05-30 18:35:39 thx
+help 2021-05-30 18:35:44 now i know how to make a rocket
+help 2021-05-30 18:35:53 its ok
+help 2021-05-30 18:36:06 its ok dont worry
+help 2021-05-30 18:36:25 wait
+help 2021-05-30 18:37:16 will this work
+help 2021-05-30 18:37:37 yes
+help 2021-05-30 18:37:52 thank you guys very much
+help 2021-05-30 18:38:24 no it works still
+help 2021-05-30 18:38:33 i made the side ones with a disconnector
+help 2021-05-30 18:38:40 thx again
+help 2021-05-30 18:40:12 idk
+help 2021-05-30 18:40:29 but thanks you tried to help
+help 2021-05-30 18:40:40 np
+help 2021-05-30 18:41:09 now ill try making a bigger rocket
+help 2021-05-30 18:42:42 idk
+help 2021-05-31 15:18:14 how to make this rocket work
+help 2021-05-31 15:19:01 or whatever that is
+help 2021-05-31 16:42:22 it keeps spinning
+creations-chat 2021-06-02 17:10:18 B r u h
+creations-chat 2021-06-02 17:12:35 He got creations blacklisted
+help 2021-06-03 20:36:11 still, if u use it at beggining to improve its not bad at all to use a one
+help 2021-06-06 16:23:00 how to make a working mech
+help 2021-06-13 11:16:50 i just bought the speaker gamepass and want to give a sound for my jet, does anybody know any jet flying sounds ids?
+help 2021-06-13 11:18:06 no
+help 2021-06-13 11:22:06 pls does anybody know id
+help 2021-06-13 11:24:49 i cant find
+help 2021-06-13 11:27:25 pls
+help 2021-06-13 11:28:21 it costs robux
+help 2021-06-13 11:28:51 no
+help 2021-06-13 11:31:35 bruh if ur not here to help then dont
+help 2021-06-13 11:32:41 i finnaly found
+bot-central 2021-06-13 16:23:26 ?shelp
+help 2021-06-17 15:42:41 how to make working mech with legs
+help 2021-06-18 19:08:24 Please how to make a good working mech
+help 2021-06-18 19:11:22 yes but i dont know how to make a 2-leg one and make it stand
+help 2021-06-18 19:11:25 actually wait I think i know
+help 2021-06-24 10:05:57 Help, there is a invisible block in my build, when in build mode it doesnt appear, when i start it it appears
+help 2021-06-24 10:07:24 Still the same
+help 2021-06-24 10:08:22 Nevermind i fixed it
+help 2021-06-24 10:08:25 I just had to use the move tool
+help 2021-06-24 14:23:04 what does exactly happen there
+help 2021-06-24 14:23:11 <@!589538857759014934>
+help 2021-06-24 14:24:01 where did you add the ballast block
+help 2021-06-24 14:25:37 i actually dont know why does this happen
+help 2021-06-24 14:25:46 i just made the same thing you did and it works perfectly
+help 2021-06-24 14:26:00 like that door thing or whatever it is
+help 2021-06-24 14:26:11 can u show the motor 2 settings <@!589538857759014934>
+help 2021-06-24 14:28:09 or whatever that is
+help 2021-06-24 14:28:09 is there any helium blocks on the gate
+help 2021-06-24 14:28:34 i dont know man
+help 2021-06-24 14:28:43 i made the same thing but even longer with ballast blocks den 10 and it is still not wobbly
+help 2021-06-24 14:29:12 hold up
+help 2021-06-24 14:29:45 i see now
+help 2021-06-24 14:29:58 <@!589538857759014934>  i think its because of the pistons
+help 2021-06-24 14:30:08 i just added the pistons and it started being very wobbly
+help 2021-06-24 14:30:45 try deleting the pistons
+help 2021-06-24 14:31:33 np
+help 2021-06-24 14:40:16 do you steer it with control surfaces
+help 2021-06-24 14:40:49 where are they
+help 2021-06-24 14:41:11 nvm i see
+help 2021-06-24 14:41:15 they are in the center right?
+help 2021-06-24 14:41:37 ok
+help 2021-06-24 14:43:40 i already see issues
+help 2021-06-24 14:43:47 the hover thrusters are way too close to eachother
+help 2021-06-24 14:44:00 i dont mean by lenght
+help 2021-06-24 14:44:03 hold up let me show you
+help 2021-06-24 14:44:10 with screenshoots
+help 2021-06-24 14:44:12 because its hard to explain
+help 2021-06-24 14:44:41 your hover thrusters are something like this
+help 2021-06-24 14:45:01 if you make it like this it should work better
+help 2021-06-24 14:45:04 another issue
+help 2021-06-24 14:45:05 is this
+help 2021-06-24 14:45:15 i only see propellor engines in the center
+help 2021-06-24 14:45:28 instead you should have them on sides of every corner
+help 2021-06-24 14:45:42 but i think just making the hover thrusters will work
+help 2021-06-24 14:45:44 you should try atleast
+help 2021-06-24 14:46:29 well
+help 2021-06-24 14:46:30 I dont know but
+help 2021-06-24 14:46:37 try making the propellors like i said first
+help 2021-06-24 14:47:00 if that doesnt work im assuming its because of the weight
+help 2021-06-24 17:46:11 Try having engines speeding it up on both sides of ur sub
+help 2021-06-24 17:46:28 Yes
+help 2021-06-24 17:47:33 If you want
+help 2021-06-24 17:47:44 You can even do it also at the bottom and top
+help 2021-06-24 17:47:51 And front and back
+help 2021-06-24 17:48:18 You mean expand a part?
+help 2021-06-24 17:48:27 Block i mean
+help 2021-06-24 17:50:37 Idk
+help 2021-06-25 05:27:47 With conveyor engine u can reach 3000 speed
+help 2021-06-25 05:27:59 Doesnt fit a boat at all
+help 2021-06-25 05:28:06 Or sub
+help 2021-06-25 05:28:33 Was gonna say that
+help 2021-06-25 05:29:47 But for 500 block big boats I really rather just use 2x5 water propellors
+help 2021-06-25 10:22:41 how do i improve this, because im gonna probably hear this is bad
+help 2021-06-25 10:26:38 lol
+help 2021-06-25 10:26:40 they can turn
+help 2021-06-25 10:28:57 i just dont wanna post it in creations and get alot of downvotes
+help 2021-06-25 10:31:50 wdym
+help 2021-06-25 10:32:23 ok
+help 2021-06-25 10:34:42 like this
+help 2021-06-25 10:35:21 <@!707953054489509978>
+help 2021-06-25 10:36:56 do you think it will still be downvoted
+help 2021-06-25 10:39:09 ok i guess ill get peoples feedback
+creations-chat 2021-06-25 12:04:48 I know i cant fix it
+help 2021-06-25 13:59:34 are these wings too big?
+help 2021-06-25 14:06:09 what do you mean
+help 2021-06-25 14:06:29 jet
+help 2021-06-25 14:06:38 custom
+help 2021-06-25 14:06:43 but i somewhat based it off f-16
+help 2021-06-25 14:07:17 are the wings too big?
+help 2021-06-25 14:07:33 ok
+help 2021-06-25 14:07:38 but what did you mean the elevators are cursed
+help 2021-06-25 14:08:00 do you mean the fact that i put delta wings on main wing?
+help 2021-06-25 14:08:22 nvm
+help 2021-06-25 14:08:37 too big or because there is a empty space
+help 2021-06-25 14:08:39 or looks weird
+help 2021-06-25 14:09:22 what should i make it look like
+help 2021-06-25 14:09:34 a triangle?
+help 2021-06-25 14:12:03 <@!707953054489509978>
+help 2021-06-25 14:12:09 should i make it look like a triangle
+help 2021-06-25 14:12:35 
+help 2021-06-25 14:13:12 where
+help 2021-06-25 14:13:46 v
+help 2021-06-25 14:13:48 
+help 2021-06-25 14:13:50 but now its incredibly small though
+help 2021-06-25 14:14:23 is that good <@!707953054489509978>
+help 2021-06-25 14:15:44 
+help 2021-06-25 14:15:45 bruh
+help 2021-06-25 14:16:14 where
+help 2021-06-25 14:16:32 every?
+help 2021-06-25 14:16:51 i cant make it all
+help 2021-06-25 14:16:54 it will be as big as the main wing
+help 2021-06-25 14:17:50 
+help 2021-06-25 14:18:42 bruh
+help 2021-06-25 14:19:31 which one
+help 2021-06-25 14:19:43 ok
+creations-chat 2021-06-26 10:08:49 xd
+creations-chat 2021-06-26 10:34:01 yes
+creations-chat 2021-06-26 11:00:22 i dont even wanna put that in creations im scared how much downvotes it would get
+creations-chat 2021-06-26 11:13:53 but isnt it too simple to be posted
+help 2021-06-28 10:39:57 call admin
+help 2021-06-28 10:40:21 wrong ping
+creations-chat 2021-06-28 10:41:25 amazing its better than 123mrk123's tank <:trollface:775024642104229898>
+help 2021-06-28 10:41:49 bruh
+help 2021-06-28 10:41:50 i just realized
+help 2021-06-28 10:42:04 i pinged the wrong guy
+help 2021-06-28 10:42:18 still toxic
+help 2021-06-28 10:42:21 they can share their opinion
+help 2021-06-28 10:43:36 bro ok you're really toxic
+help 2021-06-28 10:43:38 calm down
+help 2021-06-28 10:44:24 he started it not me
+help 2021-06-28 10:45:22 ban him
+help 2021-06-28 10:45:26 @moderator ban him
+help 2021-06-28 10:45:40 ban this toxic noob
+help 2021-06-28 10:46:03 you don't even know what "toxicity" means
+help 2021-06-28 10:50:28 ban you have
+help 2021-06-28 10:50:54 for what
+help 2021-06-28 10:51:04 waiting for what
+help 2021-06-28 10:51:13 because theres no mods
+help 2021-06-28 10:51:15 on
+help 2021-06-28 11:08:02 <@!273536574770380800> this dude toxic help
+help 2021-06-28 11:08:38 this dude is toxic
+help 2021-06-28 11:08:50 since 1 hour
+help 2021-06-28 11:08:59 no
+help 2021-06-28 11:09:03 1 hour 2 minutes
+help 2021-06-28 11:09:14 he is toxic
+help 2021-06-28 11:09:33 there
+help 2021-06-28 11:09:37 no
+help 2021-06-28 11:09:42 you were toxic
+help 2021-06-28 11:10:11 still toxic
+help 2021-07-01 09:56:16 dont use diamond plate
+help 2021-07-01 09:56:19 its going to make it more heavy
+help 2021-07-01 09:56:30 bruh
+help 2021-07-01 09:56:32 nice scam
+help 2021-07-01 09:56:41 <@!216193164199985152> <@!466793357318815744> help
+help 2021-07-01 09:56:42 theres scammer
+help 2021-07-01 09:57:21 it doesnt even say steam
+help 2021-07-01 09:57:22 nice scam
+help 2021-07-01 09:57:56 omg admin there is scammer
+help 2021-07-01 09:57:58 ban him
+creations-chat 2021-07-02 06:01:12 Lol
+help 2021-07-04 07:57:21 looks like the tutorial
+help 2021-07-04 08:21:47 no its tutorial
+help 2021-07-04 13:23:13 ok mister toxic
+help 2021-07-05 05:33:32 Still toxic
+help 2021-07-11 09:22:13 maybe because theres too much motors
+creations-chat 2021-12-30 08:06:17 Because i can, pretty simple
+help 2022-02-04 10:45:44 How do i make tilted gear like this but so i dont need to use unpowered motors
+help 2022-02-17 18:13:38 how do you make 2 unpowered motors affect the same block
+help 2022-02-17 18:13:48 i saw that so many times in suspensions and after 900000 times of trying to do it i still cant
+help 2022-03-29 17:35:17 any ideas for what should i build
+help 2022-03-29 17:36:09 uh i think pretty much everything i just cant angle lock and piston lock
+help 2022-03-29 17:40:18 any ideas for what should i build
+help 2022-03-29 17:41:51 any ideas for what should i build pls
+help 2022-03-29 17:43:22 i already have a f 35 and im not looking for irl models just some cool idea
+help 2022-03-29 17:44:00 bruh
+help 2022-04-09 17:26:44 how do i make a rubik cube
+help 2022-04-09 17:27:42 yeah, i want to try it though
+help 2022-04-09 17:27:57 ty
+help 2022-04-09 17:28:09 actually someone did
+help 2022-04-09 17:28:16 its on yt
+help 2022-04-09 17:28:32 yeah
+help 2022-04-09 17:28:39 thats why i dont trust creations channel
+help 2022-04-09 17:29:03 https://www.youtube.com/watch?v=60kQC3t2Jus
+help 2022-04-09 17:29:13 it works terribly but that means you can build one
+help 2022-04-09 17:29:19 yes
+help 2022-04-09 17:29:28 i dont think theres another way
+help 2022-04-09 17:29:44 no
+help 2022-04-09 17:29:48 with current plane crazy thats impossible
+help 2022-04-09 17:29:56 because of the corners
+help 2022-04-09 17:30:20 yeah
+help 2022-04-09 17:30:23 but its powered by a human
+help 2022-04-09 17:30:31 like
+help 2022-04-09 17:30:40 there are no motors inside of a real cube
+help 2022-04-09 17:30:57 oh
+help 2022-04-09 17:31:04 thats possible?
+help 2022-04-09 17:31:35 it would look like this
+help 2022-04-09 17:31:36 so it wouldnt work
+help 2022-04-09 17:31:45 unless im dumb
+help 2022-04-09 17:32:56 oh
+help 2022-04-09 17:45:41 theres a 1 block gap each every piece
+help 2022-04-09 17:46:03 xd
+help 2022-04-09 18:07:37 yeah man im gonna motorlock a rubik cube, really smart bro
+help 2022-04-09 18:07:49 yeah exactly
+help 2022-04-09 18:07:51 so it doesnt work
+help 2022-04-09 18:08:03 i dont even know how to make it work
+help 2022-04-09 18:08:04 xddddd
+help 2022-04-09 18:09:07 uh
+help 2022-04-09 18:09:11 does anyone have any idea how to make it functional
+help 2022-04-16 07:06:31 m4a3e8 sherman doesnt have a round roof
+help 2022-04-16 07:06:49 and you should send more pictures
+help 2022-04-16 07:11:45 the cannon that u made also looks weird
+help 2022-04-16 15:58:54 k, if u need help ping me ill try to help
+help 2022-06-13 18:44:47 im trying to make a functioning rubiks cube. i know there is a tutorial on yt but it literally works worse than a cube from 1984
+help 2022-06-13 18:44:54 can someone give me any idea how to do it
+help 2022-06-13 18:48:46 yes
+help 2022-06-13 18:48:59 I do know how cubes work
+help 2022-06-13 18:49:09 but the mechanism of today's speed cubes is like
+help 2022-06-13 18:49:11 impossible in plane crazy
+help 2022-06-13 18:49:30 so im trying to find something that will work worse but not as bad as the tutorial ones
+help 2022-06-13 18:53:34 I think its possible to make a 2x2 but it would have to be really huge
+help 2022-08-22 11:39:30 i need ideas what to build, something unique
+help 2022-08-22 16:46:57 what the fu
+help 2022-08-27 19:11:27 how do i improve this
+creations-chat 2022-08-27 19:11:39 how to improve this
+help 2022-08-27 19:15:45 no but it looks ugly with the 1x2 corner wedge
+help 2022-08-27 19:16:14 for comparison
+help 2022-08-27 19:16:42 nope
+help 2022-08-27 19:16:43 there are already parts
+help 2022-08-27 19:17:03 which are necessary for the vehicle to work
+help 2022-08-27 19:17:49 idk i feel like this isnt detailed enough
+help 2022-08-30 12:20:59 Every way to ultilize a suspension? I wanna try something new
+help 2022-08-30 13:17:39 do longer guns add more accuracy in plane crazy too or its just irl
+creations-chat 2022-08-30 13:29:11 
+help 2022-09-01 15:15:44 How many blocks high should the first motor of the rotor be (the rotor is 3 motors tall), do not question the design
+help 2022-09-01 15:15:50 U can paint every side
+help 2022-09-01 15:16:04 Pretty useless
+help 2022-09-01 15:24:05 lol
+help 2022-09-01 15:24:05 it is useless
+help 2022-09-01 15:24:19 its only useful in corners/edges
+help 2022-09-01 15:24:20 and if you do that
+help 2022-09-01 15:24:35 you will have blocky buildings
+help 2022-09-01 15:27:50 whats tvs
+help 2022-09-01 17:03:49 useless*
+help 2022-09-04 16:49:38 what angle is a 1x4 wedge
+help 2022-09-04 17:04:28 found it its 25 degrees
+creations-chat 2022-09-11 08:24:51 
+creations-chat 2022-09-11 08:28:11 its based on the world of tanks kranvagn and swedish emil
+help 2022-09-14 14:26:23 can i have some inspiration for a land vehicle for pvp
+help 2022-09-14 14:26:25 pls
+help 2022-09-14 14:26:50 images if possible
+help 2022-09-14 14:31:19 thanks
+help 2022-09-14 15:04:36 holy
+help 2022-09-14 15:04:41 that looks fun
+bot-central 2022-09-18 12:03:20 ?shelp
+help 2022-11-04 16:09:06 how to make a christie suspension
+help 2022-11-04 16:15:45 how is this supposed to teach me how to do it
+help 2022-11-04 16:18:07 wait
+help 2022-11-04 16:18:24 so actually just making a simple lever and suspension will make a good christie suspension?
+help 2022-11-04 17:47:57 <@744109857770045483> <@541549457053974559>
+help 2022-11-04 17:48:03 U guys said it would work good
+help 2022-11-04 18:01:35 where weight
+help 2022-11-04 18:01:39 on the body
+help 2022-11-04 18:01:43 or on the lever
+help 2022-11-04 18:10:24 ok
+help 2022-11-04 18:10:35 like this?
+help 2022-11-04 18:10:36 
+help 2022-11-04 18:11:47 what do you mean
+help 2022-11-04 18:14:26 im not making a tank
+help 2022-11-04 18:14:28 im making a suspension
+help 2022-11-04 18:14:29 thats it
+help 2022-11-04 18:14:38 also how do i make it smooth on the rails
+help 2022-11-04 18:37:21 how do i make this go smooth over the rails, right now it jumps in the air a bit
+help 2022-11-04 20:01:45 you mean stiffness
+help 2022-11-04 20:01:57 chill
+help 2022-11-04 20:52:37 omg what the hell is wrong with you people no one uses advanced suspension in treads or vehicles
+help 2022-11-04 21:04:34 idk but it works well
+help 2022-11-04 21:05:02 much better than the normal plane crazy suspension
+help 2022-11-04 21:36:42 lol no
+help 2022-11-04 21:36:47 wishbone is trash
+help 2022-11-05 08:44:32 im trying to make a christie suspension, it works fine but there are 3 issues: the motors that power the wheel glitch on fast speeds, the vehicle flips over a lot, and its very bouncy
+help 2022-11-05 08:44:35 how do i fix those issues
+help 2022-11-05 08:49:44 what do u mean
+help 2022-11-05 08:49:56 you cant fix the motors glitching out?
+help 2022-11-05 08:50:47 i could just switch it from a half 5x5 to a normal 5x5 then
+help 2022-11-05 08:50:51 imma try that
+help 2022-11-05 09:02:11 it actually works well
+help 2022-11-05 16:14:07 how to make a wishbone suspension
+help 2022-11-05 16:16:28 pls
+help 2022-11-05 20:30:16 how is the wishbone suspension lever supposed to connect with the wheel? with an unpowered motor?
+help 2022-11-05 20:32:53 with what
+help 2022-11-05 20:33:21 bro if ur not here to help then why bother trolling
+help 2022-11-06 11:44:28 if you have engines in the back and you enable them, this will happen
+help 2022-11-06 12:12:32 hold up
+help 2022-11-06 12:12:33 nvm sorry
+help 2022-11-06 12:12:41 if the engines are in the back it should go up
+help 2022-11-06 12:12:53 actually idk im confused rn too
+help 2022-11-06 17:16:55 can someone give me some suspension types that i could build
+help 2022-11-06 17:18:22 i have christie and wishbone already
+help 2022-12-14 19:11:46 does anyone here understand how regular mechs work or dinosaur mechs?
+help 2022-12-14 19:12:00 i need help understanding how a mech works
+help 2022-12-14 19:12:04 so i can create my own one
+bot-central 2022-12-17 14:13:34 ?shelp
+help 2022-12-17 15:10:05 sukhoi color pallete pls pls
+help 2022-12-17 18:55:35 sukhoi collor pallete pls
+help 2023-06-14 14:59:50 how should i continue the ship
+help 2023-06-14 14:59:57 its my first one btw
+help 2023-06-14 16:59:42 I already did it myself but thanks tho
+help 2023-06-14 18:57:27 this is it now
+help 2023-06-14 19:18:42 Im thinking of making the double barrel turret smaller and make it a single barrel
+help 2023-06-14 19:18:46 what do you guys think
+help 2023-06-14 19:30:08 i based it off from some google image and continued on my own after i finished this
+help 2023-06-15 06:59:38 no its also wooden
+help 2023-06-15 07:17:22 hey bro is this hull good
+help 2023-06-15 07:18:10 you cant make a 1x7 wedge
+help 2023-06-15 07:18:24 im not motorlocking the hull bro
+help 2023-06-15 07:18:28 im not this good
+help 2023-06-15 07:18:40 bro
+help 2023-06-15 07:18:54 when you angle lock you need to change it so it looks good like a 1000 times
+help 2023-06-15 07:18:59 you need to find the right angle and position
+help 2023-06-15 07:19:27 whats a stop
+help 2023-06-15 07:19:43 yes
+help 2023-06-15 07:20:19 also are there too many 1x7 wedges
+help 2023-06-15 07:20:25 or should i make 1x7, 1x6 and 1x5
+help 2023-06-15 07:22:01 oh
+help 2023-06-15 07:22:07 can you send how it looks motorlocked
+help 2023-06-15 07:22:44 also this takes lots of space
+help 2023-06-15 07:22:57 for just 1 wedge
+help 2023-06-15 07:23:20 but then there will be a hole
+help 2023-06-15 07:23:22 where the motorlock is
+help 2023-06-15 07:26:02 its my second ship ever i dont want to start motorlocking it yet
+help 2023-06-15 07:26:14 i changed it a bit
+help 2023-06-15 07:26:14 
+help 2023-06-15 07:26:42 is it good or make it longer
+help 2023-06-15 07:26:51 the hull is custom
+help 2023-06-15 07:27:06 juhhhhhh i dont know either
+help 2023-06-15 07:27:26 maybe cruiser or battleship
+help 2023-06-15 07:27:42 wider?
+help 2023-06-15 07:28:01 ok ill make it a crusier then
+help 2023-06-15 07:28:54 i think thats a cruiser
+help 2023-06-15 07:29:02 yes it is
+help 2023-06-15 07:29:39 old
+help 2023-06-15 07:29:42 modern ones look bad
+help 2023-06-15 07:30:01 k
+help 2023-06-15 07:30:08 uh
+help 2023-06-15 07:30:18 i guess i gotta make a third fold
+help 2023-06-15 07:31:16 <@456226577798135808> i ran out of space
+help 2023-06-15 07:31:25 
+help 2023-06-15 07:32:32 oh wait
+help 2023-06-15 07:32:35 i need to do it the opposite direction
+help 2023-06-15 07:32:45 wait i found a smaller fold on yt
+help 2023-06-15 07:32:55 
+help 2023-06-15 07:36:54 is this good now
+help 2023-06-15 07:37:14 it looks very thin
+help 2023-06-15 07:37:21 but i think thats how its supposed to be
+help 2023-06-15 07:37:28 ok
+help 2023-06-15 07:37:34 ill start building thel ower part of the hull
+help 2023-06-15 07:37:48 actually how much blocks in height should the hull have
+help 2023-06-15 07:38:08 its 13 blocks width
+help 2023-06-15 07:38:13 wide
+help 2023-06-15 07:38:32 and also
+help 2023-06-15 07:38:41 huh
+help 2023-06-15 07:38:45 when you make the lower part of the hull
+help 2023-06-15 07:38:53 then its like angled
+help 2023-06-15 07:38:55 uhhh let me show u
+help 2023-06-15 07:39:23 like this?
+help 2023-06-15 07:39:32 ok wait
+help 2023-06-15 07:40:05 
+help 2023-06-15 07:40:08 including the top part thats 11 blocks
+help 2023-06-15 07:40:15 oh wait below it
+help 2023-06-15 07:40:16 nvm
+help 2023-06-15 07:40:46 
+help 2023-06-15 07:41:10 reset34799215
+help 2023-06-15 07:41:36 what
+help 2023-06-15 08:00:11 how does point one look like
+help 2023-06-15 08:00:52 idk which one would fit better
+help 2023-06-15 08:00:56 for a cruiser
+help 2023-06-15 08:01:19 then lets do it
+help 2023-06-15 08:26:31 yes
+help 2023-06-15 08:26:36 yeah
+help 2023-06-15 09:50:20 dont make it too heavy
+help 2023-06-15 09:51:26 its like if you expected a 1 meter motor to turn around the whole earth
+help 2023-06-15 10:18:57 <@456226577798135808> i need help
+help 2023-06-15 10:19:00 i cant get the stern right
+help 2023-06-15 12:27:03 guys
+help 2023-06-15 12:27:09 why does my ship fall to the side
+help 2023-06-15 12:27:20 is it too long
+help 2023-06-15 12:27:21 oh
+help 2023-06-15 12:27:23 how do u make a sub
+help 2023-06-15 12:27:24 pls
+help 2023-06-15 12:27:50 you have to ballance it with ballast tanks
+help 2023-06-15 12:27:57 fuck
+help 2023-06-15 12:28:00 what
+help 2023-06-15 12:28:00 shot me
+help 2023-06-15 12:28:10 why do u want to shoot me
+help 2023-06-15 12:28:25 no
+help 2023-06-15 12:28:28 be a chad and go outside
+help 2023-06-15 12:28:53 im trying to make a ship
+help 2023-06-15 12:28:56 but as i said earlier
+help 2023-06-15 12:28:57 it just falls over
+help 2023-06-15 12:29:01 and sinks
+help 2023-06-15 12:29:11 how
+help 2023-06-15 12:29:32 is it not wide enough
+help 2023-06-15 12:29:33 or what
+help 2023-06-15 12:29:54 it is a little assymetrical because of folds
+help 2023-06-15 12:29:56 but the folds are so lightweight
+help 2023-06-15 12:30:04 basically it just falls over if you turn
+help 2023-06-15 12:30:21 bruhhhhh
+help 2023-06-15 12:30:43 wait ill send ss
+help 2023-06-15 12:30:47 bro
+help 2023-06-15 12:30:49 the hull is already done
+help 2023-06-15 12:30:52 im not remodelling it all over
+help 2023-06-15 12:32:11 
+help 2023-06-15 12:32:19 
+help 2023-06-15 12:32:29 i got told ww2 ships should be this thin
+help 2023-06-15 12:32:48 its not a modern one
+help 2023-06-15 12:32:50 the modern ones are fat
+help 2023-06-15 12:32:55 and ugly
+help 2023-06-15 12:33:55 
+help 2023-06-15 12:34:14 so
+help 2023-06-15 12:34:15 ballast beams
+help 2023-06-15 12:34:21 whats wayer
+help 2023-06-15 12:34:26 ok
+help 2023-06-15 12:34:28 so ballast beams
+help 2023-06-15 12:34:40 wait
+help 2023-06-15 12:34:44 my center of gravity is near the water line
+help 2023-06-15 12:34:47 only 2 blocks higher
+help 2023-06-15 12:35:48 ok
+help 2023-06-15 12:37:04 my ship sank
+help 2023-06-15 12:38:44 i cant bro
+help 2023-06-15 12:38:48 i cant add ballast beams
+help 2023-06-15 12:38:49 the ship sinks
+help 2023-06-15 12:38:58 wait
+help 2023-06-15 12:39:00 maybe helium at top then
+help 2023-06-15 12:39:10 helium at top ballast at bottom
+help 2023-06-15 12:41:35 nah it still just falls over
+help 2023-06-15 12:42:11 fuck plane crazy is so shit the plots are so small you cant even make a wide ship because then theres no space to make it long
+help 2023-06-15 12:42:15 so you have to make it insanely thin
+help 2023-06-15 12:42:17 fuck
+help 2023-06-15 12:42:17 and then itd oesnt work
+help 2023-06-15 12:46:14 wdym change games
+help 2023-06-15 12:46:18 what other games are there
+help 2023-06-15 12:46:24 flight point and midchanica has the same issue
+creations-chat 2023-06-15 17:41:20 <@838276416163807232> you mean panzer 0 block
+creations-chat 2023-06-15 17:44:49 maus front armor is sloped 45*
+the turret's side armor is sloped, and the turret's front armor is like a cylinder
+ur tank is just weird
+creations-chat 2023-06-15 17:57:55 No you dont try to do your best if you dont even look up a google image <:nooo:787097964946259978>
+help 2023-07-09 10:49:06 how do i make gman skibidi toilet look better

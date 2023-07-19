@@ -1,0 +1,20 @@
+The Tale of holdwich (169862082953478145)
+creations-chat 2018-11-25 13:52:31 
+creations-chat 2018-11-25 13:52:55 
+creations-chat 2018-11-25 13:55:16 thanks, Its working and has 286 blocks
+creations-chat 2018-11-25 13:56:29 also, based in an osprey, but i think you already noticed it
+creations-chat 2018-11-25 14:02:32 only problem is it is bad at turning
+creations-chat 2018-11-25 14:05:37 Oh, nice idea, ill try it
+creations-chat 2018-11-25 14:21:52 Finished the VTOL, Based on the osprey, It now turns properly and is entirely working, 282 blocks as the final count
+creations-chat 2018-11-25 14:21:57 
+creations-chat 2018-11-25 14:22:17 
+creations-chat 2018-11-25 14:22:40 Reposting? Oh gotcha
+creations-chat 2018-11-25 14:22:43 alright then
+help 2018-11-25 14:23:39 You use propeller blades and motors
+help 2018-11-25 14:29:09 these are unaligned
+help 2018-11-25 14:29:16 your aircraft is too heavy on its front
+help 2018-11-25 14:29:47 either place more blocks behind it, or delete some of those panels
+help 2018-11-25 14:30:49 well, its basically that, I don't think the ballasts are doing much, you will have to delete some of those flaps
+the-dump 2018-11-26 22:02:35 you have been decieved
+help 2018-11-26 22:11:50 Anyone have some idea on how to build an sort of catapult for a carrier?
+help 2018-11-26 22:14:27 i was thinking about that, but im not sure if it would launch at a sufficent speed, you reckon it will? Ill try it

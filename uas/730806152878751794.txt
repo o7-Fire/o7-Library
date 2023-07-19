@@ -1,0 +1,172 @@
+The Tale of thehypedcat (730806152878751794)
+help 2022-05-18 13:00:25 My new inline 4 cylinder model engine. Still needs cams and valves but I need help on something else.
+
+I need 2 main fixes. 
+1. The timing belt keeps slipping. 
+ 2. The timing belt creates too much friction.
+help 2022-05-18 13:01:51 Yes it did jam here for a sec
+
+It was running a slighty higher speed than it could handle
+help 2022-05-18 13:02:12 Strech as in give the tracks some elasticity?
+help 2022-05-18 13:02:22 *stretch
+help 2022-05-18 13:02:46 No jamming isnt an issue
+help 2022-05-18 13:02:54 I need it to stop slipping
+help 2022-05-18 13:03:15 It keeps slipping and i need it to be accurate for the valves to work properly
+help 2022-05-18 13:03:23 Hmm yea ill try that
+help 2022-05-18 13:03:31 Also any way to reduce friction?
+help 2022-05-18 13:03:48 The engine rpm significantly drops with the belt
+help 2022-05-18 13:04:13 Hmm with the blocks preventing slipping i wont need it to be fabric
+help 2022-05-18 13:04:19 Thanks mate!
+help 2022-05-19 08:16:13 Guys how do i make it so that when the bottom cog (powered by motor) rotates once, the top rotates perfectly in sync with it?
+
+There should be very little to no slippage in the belt.
+help 2022-05-19 08:23:41 tried it  but nope
+help 2022-05-19 08:24:23 15 on bottom (max torque)
+help 2022-05-19 08:24:32 top unpowered no torque
+help 2022-05-19 08:26:04 did so
+help 2022-05-19 08:26:10 still no avail
+help 2022-05-19 08:26:21 i tried all the way at 1
+help 2022-05-19 08:29:02 Thats what ive been trying but im not sure what to use
+
+I tried trails
+
+I tried motorlocked trails so that its shorter and interferes less and i tried half wedge
+help 2022-05-19 08:29:15 Oh and wingpanels
+help 2022-05-19 08:31:31 The reason i need it to be so perfect is that im building an engine model and need the crankshaft and camshaft to be in sync or the valves will smash into the piston
+help 2022-05-19 08:31:53 Hmm i shall try them
+help 2022-05-19 08:32:54 Ah i did try that
+
+But the pistons create resistance and it goes faster when the two middle pistons are going down
+help 2022-05-19 08:33:05 So again out of sync XD
+help 2022-05-19 08:33:34 I even tried to use magnets to stick to the belt
+help 2022-05-19 08:34:40 Im ready to have to build a completely new belt itself but i just want it to sync
+help 2022-05-19 08:34:46 Hmm
+help 2022-05-19 08:35:23 Like a sideward boxer engine u say??
+
+Once i get the belt thing and all working, ill build a v8
+help 2022-05-19 08:35:38 Boxers are just too imbalanced
+help 2022-05-19 08:36:23 I use ice for the pistons but glass for the chamber
+help 2022-05-19 08:36:33 uhhuuhh continue
+help 2022-05-19 08:36:44 It is
+help 2022-05-19 08:36:58 ohh like that
+help 2022-05-19 08:37:50 Bruh
+help 2022-05-19 08:38:06 Ill try that and return lol
+help 2022-05-19 08:39:31 U mean like this rite?
+help 2022-05-19 08:42:21 Ah that was the first one i tried
+help 2022-05-19 08:42:27 Again too much slipping
+help 2022-05-19 08:43:04 Did so
+help 2022-05-19 08:43:12 Pistons, suspensions
+help 2022-05-19 08:43:44 even using an anchored block once it was pushed down by pistons
+help 2022-05-19 08:45:12 mhm
+help 2022-05-19 08:45:22 to psh down?
+help 2022-05-19 08:48:49 That i will have to for the valves
+help 2022-05-19 08:49:01 This is just to check if the belt is good enough
+help 2022-05-19 08:49:45 Hm so the suspension pushes up on the camshaft
+help 2022-05-19 08:50:03 I shall try to use something like that
+help 2022-05-19 08:50:15 Oh there is no glass at the top
+help 2022-05-19 08:50:37 IT opens directly into the chamber
+help 2022-05-19 08:50:44 And the pistons are ice
+help 2022-05-19 08:50:59 mhm
+help 2022-05-19 08:51:00 0.o
+help 2022-05-19 08:51:02 okk
+help 2022-05-19 08:51:21 of course u have an i6
+help 2022-05-19 08:51:36 ok my user is HyperCat_24
+help 2022-05-19 08:51:44 Display name: Windows_98
+help 2022-05-19 08:51:52 Oh it cahnged my nick
+help 2022-05-19 08:51:57 lol
+help 2022-05-19 08:53:40 I even asked the same doubt in the plane crazy reddit and all i got was a person accusing my 2 months of work as a tut
+help 2022-05-19 08:53:53 So if this works out
+help 2022-05-19 08:54:05 imma be super happs
+help 2022-05-19 08:54:45 Apparently one does
+help 2022-05-19 08:54:47 O N E
+help 2022-05-19 08:55:12 And it looks nothing like mine except it is also a i4
+help 2022-05-19 08:55:29 *an i4
+help 2022-05-19 08:55:56 No camshaft or whatever just crank, pistons
+help 2022-05-19 08:57:46 I would have gone i6
+
+i wanted to build like a 2JZ GTE but then lag
+
+Like evne with 4 cyls its this bad
+help 2022-05-19 08:58:29 Its pretty bad already
+help 2022-05-19 08:58:38 Only when the engine is running it does this
+help 2022-05-19 08:58:52 So i honeslt dont care
+help 2022-05-19 08:59:03 plus 15 fps is playable for this game
+help 2022-05-19 08:59:10 oof
+help 2022-05-19 08:59:14 What did u do to get banned
+help 2022-05-19 08:59:30 ah
+help 2022-05-19 08:59:48 we all do things in the heat of the moment jimbo.
+help 2022-05-19 09:00:04 I dont understand roblox itself at this point
+help 2022-05-19 09:00:55 XD alr
+help 2022-05-19 09:02:05 Alr
+creations-chat 2022-05-19 11:45:43 dude i built this engine and was bullied in reddit cause it ahd one similarity to a tut
+
+The tut was an inline 4 cyl too.....
+help 2022-05-19 14:26:44 One thing abt these
+help 2022-05-19 14:27:02 How can we use it when not in pvp?
+help 2022-05-19 14:28:04 Ah
+help 2022-05-19 14:28:26 Danke fren
+help 2022-05-19 14:50:02 Guys i need help in making a belt
+help 2022-05-19 14:50:12 The thing is it shdnt slip at all
+help 2022-05-19 14:50:23 Kinda like tank tracks for a pulley
+help 2022-05-19 14:50:30 It has to not slip at all
+help 2022-05-19 14:50:59 Slip as in the cylinder it lies on it shdnt do a burnout on the belt
+help 2022-05-19 14:51:01 Not come off
+help 2022-05-19 14:51:09 I mean it shdnt come off either
+help 2022-05-19 14:51:15 But yea u get the point
+help 2022-05-19 14:53:13 First tho is it even possible?
+creations-chat 2022-05-20 05:22:02 The thing is my laptop is like 10 yrs old
+if u guys ok with a vid at like 10 fps ill do it
+creations-chat 2022-05-20 05:37:27 I have
+But the frames only drop this bad when the engine is running
+I did lower it a bit
+But not too much
+
+Maybe i shd have done it a bit more
+creations-chat 2022-05-20 05:39:59 Intel i5 4210U with Intel UHD 4400 Graphics
+
+10 yr old laptop
+
+Life aint the best
+creations-chat 2022-05-20 05:41:42 Bruh even at minimum graphics my frames drop to like 10
+
+I think im limited by my cpu rather than gpu
+creations-chat 2022-05-20 05:44:18 U gotta ask in <#478584971670454284>
+creations-chat 2022-05-20 05:49:26 <@581608044417515521> YOOO IVE NEEDED SOMETHING LIKE THAT FOR SOO GODDAMN LONG
+
+But first... may I have the permission to copy it to use in my engine?
+creations-chat 2022-05-20 05:51:13 Danke
+creations-chat 2022-05-20 06:03:13 <@581608044417515521> Could u send an img of it before running it
+creations-chat 2022-05-20 06:07:35 Danke again
+
+This has been most helpful
+
+I would fight for u🗿
+creations-chat 2022-05-20 06:35:47 It works mate!
+
+Its a bit messy but nothing that a cover cant fix
+creations-chat 2022-05-20 09:21:17 Yeeeesssss???
+creations-chat 2022-05-20 10:07:28 Bruh
+creations-chat 2022-05-23 05:20:34 t-thats a truck???
+help 2022-06-23 11:33:00 So ok
+
+the red marked cyl. is powered and i need a way to like link it to the yello marked cyls. which arent
+
+Can i have the mechanical side of pc to help me here?
+help 2022-06-23 12:32:40 Video not found
+help 2022-06-23 12:32:53 2
+help 2022-06-23 12:32:59 2 extends it a block
+help 2022-06-23 12:33:40 hmm
+
+fix center of mass?
+help 2022-06-23 12:33:45 ur welcome
+help 2022-06-23 12:34:02 Can you show me the cm
+help 2022-06-23 12:35:01 Hm
+help 2022-06-23 12:35:31 Fix center of thrust
+
+make sure there is equal amount of rockets in both the front and back
+help 2022-06-23 12:35:49 On hover stuff, its usually the issue
+help 2022-06-23 12:36:33 Hm
+help 2022-06-23 12:36:45 Mayybeee thats the issue?
+help 2022-06-23 12:39:52 Bruh
+creations-chat 2022-06-23 12:43:17 Idk man i like it
+help 2022-12-16 11:26:44 I need help making a dual overhead camshaft for a model engine im making. (inline 4 cyl to be exact)

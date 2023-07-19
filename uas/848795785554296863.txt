@@ -1,0 +1,196 @@
+The Tale of cornedbeefloaf (848795785554296863)
+help 2022-05-18 11:40:15 yes i know its tut but why does it spin
+help 2022-05-18 12:58:00 yeah
+help 2022-05-18 12:58:08 i think its the wing panels
+help 2022-05-18 12:58:21 my p40 has a bomb with no wings
+help 2022-05-18 12:58:24 it doesnt do that
+help 2022-05-18 12:58:35 i tried removing wings
+help 2022-05-18 12:58:37 it works
+help 2022-05-18 12:58:49 altho the bombs which r actually torpedos
+help 2022-05-18 12:58:57 are unstable
+help 2022-05-18 12:59:04 so it kinda sucks
+bug-reports 2022-05-19 00:05:04 hello
+bug-reports 2022-05-19 00:05:18 every time i drop bombs
+bug-reports 2022-05-19 00:05:22 and make them explode
+bug-reports 2022-05-19 00:05:24 i spin
+bug-reports 2022-05-19 00:05:54 it only happens on bombs with wing panels
+bug-reports 2022-05-19 00:06:04 i posted example on help channel
+bug-reports 2022-05-19 00:07:52 how
+bug-reports 2022-05-19 00:07:57 its uncontrollable
+bug-reports 2022-05-19 00:08:14 i might be able to control wing flapd
+bug-reports 2022-05-19 00:08:35 but pitch and yaw are screwed
+bug-reports 2022-05-19 00:08:56 idk if this helps
+bug-reports 2022-05-19 00:09:06 but pitch and yaw are controlled using m2m
+bug-reports 2022-05-19 00:09:25 wing flaps use keyboard
+help 2022-05-19 00:38:19 
+help 2022-05-19 00:39:37 repost cuz i really need help
+help 2022-05-19 00:47:01 4
+help 2022-05-19 00:47:05 max blast pressure
+help 2022-05-19 00:47:11 max impact speed
+help 2022-05-19 00:47:13 arm on ket
+help 2022-05-19 00:47:15 key
+help 2022-05-19 00:47:27 others r default
+help 2022-05-19 00:49:11 do u know what the problem id
+help 2022-05-19 00:49:57 is
+help 2022-05-19 00:50:12 the detonation isnt the problem
+help 2022-05-19 00:50:16 its the spinning
+help 2022-05-19 00:54:12 yea
+help 2022-05-19 00:54:21 is it client side tho
+help 2022-05-19 00:54:29 or is it the physics engine
+help 2022-05-19 00:59:44 thx
+bug-reports 2022-05-19 06:33:40 same
+bug-reports 2022-05-19 06:59:53 i hate that glitch
+bug-reports 2022-05-19 07:00:01 cant use torpedos noe
+bug-reports 2022-05-19 07:19:19 stablebombsgang
+help 2022-05-19 13:20:26 does anyone have fix for wing panel spin glitch rhing yet
+bug-reports 2022-05-20 13:26:59 is it ok to reply to rickje
+bug-reports 2022-05-20 13:27:05 what glitcj
+bug-reports 2022-05-20 13:27:14 what glitch was fix
+bug-reports 2022-05-20 13:27:29 the one where if u explode bomb with wing panel u spin?
+bug-reports 2022-05-20 13:29:13 omg
+bug-reports 2022-05-20 13:29:15 yay
+bug-reports 2022-05-20 14:18:03 u can ping rick?
+bug-reports 2022-05-20 14:18:04 wow
+bug-reports 2022-05-22 18:52:22 how do u fix the glitch
+bug-reports 2022-05-22 18:52:35 where the control surfaces get onverted
+bug-reports 2022-05-22 18:52:50 is it fixed now
+bug-reports 2022-05-26 10:55:27 custom or nah
+bug-reports 2022-05-27 16:07:46 bonjoue
+bug-reports 2022-05-27 16:07:48 r
+bug-reports 2022-05-27 16:07:55 have this bug where
+bug-reports 2022-05-27 16:08:11 if i place trapdoors under a hover thruster
+bug-reports 2022-05-27 16:08:18 then the build motorlocks wrong
+bug-reports 2022-05-27 16:08:26 only happens on that hover thruster
+bug-reports 2022-05-27 16:08:37 idk if i can replicate it now
+bug-reports 2022-05-27 16:08:43 maybe just bad motor locking
+bug-reports 2022-05-27 16:09:04 if i remove it
+bug-reports 2022-05-27 16:09:11 the build motor locks right
+bug-reports 2022-05-27 16:09:26 and by that i mean a single motor
+bug-reports 2022-05-27 16:09:37 both arent close to each other
+bug-reports 2022-05-28 07:17:20 why does a certain motor not motorlock if i put a trapdoor near a certain hover thruster
+bug-reports 2022-05-28 07:17:36 its annoying
+bug-reports 2022-05-28 07:17:41 how 2 fix
+bug-reports 2022-05-28 07:17:55 it is
+bug-reports 2022-05-28 07:18:04 if i remove the trapdoor
+bug-reports 2022-05-28 07:18:11 the thing motorlocks correctly
+bug-reports 2022-05-28 07:18:18 nothing wrpng
+bug-reports 2022-05-28 07:18:27 and they are atleast 5+ blocks apart
+bug-reports 2022-05-28 07:18:42 cant lol
+bug-reports 2022-05-28 07:18:49 i fixed the thing
+bug-reports 2022-05-28 07:18:54 still annoying tho
+bug-reports 2022-05-28 07:19:07 only reason im complaining
+bug-reports 2022-05-28 07:19:25 is because it prevents me from making namnam toggleable engine
+bug-reports 2022-05-28 07:19:31 yeah
+bug-reports 2022-05-28 07:19:51 ill try
+bug-reports 2022-05-28 07:19:57 thx for the help
+help 2022-05-29 13:12:01 how go control yaw in f/a 18
+help 2022-05-29 13:12:10 or on plane with slanted wings
+help 2022-05-29 13:20:50 does that work with m2m?
+help 2022-05-29 13:24:04 rudder
+help 2022-05-29 13:24:06 ????
+help 2022-05-29 13:24:15 oh wait
+help 2022-05-29 13:24:21 thats roll
+help 2022-05-29 13:24:29 fuck
+help 2022-05-29 13:24:33 my question was wrong
+help 2022-05-29 13:24:35 ahhhhhhh
+help 2022-05-29 14:40:35 idk where to put this
+help 2022-05-29 14:41:07 will pc 2 have a thing where u sync ur builds from pc to pc2?
+help 2022-05-29 14:45:35 thats what i said
+help 2022-05-29 14:45:42 thx tho
+creations-chat 2022-05-30 03:24:46 how to make elevator bigger
+help 2022-05-30 04:20:51 how to control f22 yaw
+help 2022-05-30 04:21:06 in m2m
+help 2022-05-30 04:24:41 thank
+help 2022-05-30 04:31:04 this plane failure
+help 2022-05-30 04:53:31 help again
+help 2022-05-30 04:53:34 the plane rolls
+help 2022-05-30 04:53:47 even tho cursor is at le center
+help 2022-05-30 09:13:32 how do i make the elevators bigger
+help 2022-05-30 09:44:35 for tilting it
+help 2022-05-30 09:44:42 id camera lock if i could
+help 2022-05-30 09:44:57 normal motor has no max angle
+help 2022-05-30 09:45:25 ok
+help 2022-05-30 11:09:28 how to give f22 roll/yaw control
+help 2022-05-30 11:09:40 i tried putting flaps in rudder
+help 2022-05-30 11:09:49 tis unreliable
+help 2022-05-30 11:10:01 i already have thode
+help 2022-05-30 11:10:06 lol
+help 2022-05-30 11:10:11 keybind
+help 2022-05-30 11:10:16 m2m bre
+help 2022-05-30 11:10:18 btw
+help 2022-05-30 11:15:32 tut plane
+help 2022-05-30 11:48:23 hallo
+help 2022-05-30 11:48:28 je suis back
+help 2022-05-30 11:48:39 i hav too problem
+help 2022-05-30 11:48:48 wan: plane rolls
+help 2022-05-30 11:49:01 too: no reliable way to control yaw
+help 2022-05-30 11:49:13 i have prop
+help 2022-05-31 02:00:07 anyone know the angle of the f22 rudder
+help 2022-05-31 09:20:52 
+help 2022-05-31 09:21:06 
+help 2022-05-31 09:21:07 why
+help 2022-05-31 09:21:34 done
+help 2022-05-31 10:01:10 i fixed the thing
+help 2022-05-31 10:01:11 but
+help 2022-05-31 10:01:22 why does plane plane keep loop the looping
+help 2022-05-31 11:16:10 discord laggy
+help 2022-05-31 11:16:27 no
+help 2022-06-02 04:52:08 i blacklisted this shredder
+help 2022-06-02 04:52:17 he can still go inside my plot
+help 2022-06-02 04:52:21 how to fix
+help 2022-06-02 08:54:29 how do i inprove thid
+help 2022-06-02 08:54:31 this
+bot-central 2022-06-03 01:26:23 !rank
+help 2022-06-03 15:17:43 i have custom missile
+help 2022-06-03 15:17:52 and i want to attatch it to thing
+help 2022-06-03 15:18:03 and i want thing to be stationary
+help 2022-06-03 15:18:20 the missile attached to beam
+help 2022-06-03 15:18:25 beam can rotate
+help 2022-06-03 15:18:27 but
+help 2022-06-03 15:18:31 i cant disconnect
+help 2022-06-03 15:18:33 how to fix
+bot-central 2022-06-06 09:16:51 !rank
+bot-central 2022-06-06 09:16:59 -servers
+help 2022-06-12 11:20:31 how do i prevent plane from over rolling
+help 2022-06-12 11:25:00 when i yaw
+help 2022-06-12 11:25:04 it barrel rolls
+help 2022-06-12 11:37:53 i did
+help 2022-06-12 11:38:03 it now works
+help 2022-06-12 11:38:06 but
+help 2022-06-12 11:38:15 y do i lose speed when i lose rpckets
+help 2022-06-12 11:38:19 what the heww
+help 2022-06-12 13:27:21 bruh
+help 2022-06-12 13:27:26 for the last time
+help 2022-06-12 13:27:32 rocket weapon
+help 2022-06-12 13:27:39 not rocket engine
+help 2022-06-12 13:27:45 rick should rename it
+help 2022-07-27 02:09:48 how do i prevent ship from capsize when thrn
+help 2022-07-27 02:09:50 turn
+help 2022-07-27 02:29:18 more or less
+help 2022-07-27 02:29:42 kk
+help 2022-07-28 09:42:43 should i put heli on my frigate
+help 2022-07-29 00:57:39 anyone know what the color code thing for the f4 early is
+help 2022-07-29 00:57:50 like the blue ish color on the f4
+help 2022-07-29 00:58:04 i tried color picker but its a bit off
+creations-chat 2022-07-30 02:33:12 holy shit thats a nice tomcat
+help 2022-08-08 12:45:59 should i use hover engines ony heli or no
+help 2022-08-08 13:08:01 what should i use then
+help 2022-08-08 13:08:10 im thinking rocket engines
+help 2022-08-08 13:08:14 but theyre noisy
+help 2022-08-08 13:08:18 and the particles
+help 2022-08-08 13:08:20 ohhh
+help 2022-08-08 23:35:28 i have successfully angle locked
+help 2022-08-10 10:44:31 how do you find flag emoji on pc
+help 2022-08-10 12:02:24 should i use glitched mouse and m2m together
+help 2022-08-15 04:16:54 bruh
+help 2022-08-15 04:16:58 why is this
+help 2022-08-15 04:17:03 happen
+help 2022-08-15 04:18:10 bruh
+help 2022-08-15 04:19:34 https://streamable.com/yc06lp
+help 2022-08-15 04:19:56 is the cursor visible?
+help 2022-08-15 04:19:59 bruh
+help 2022-08-15 08:01:37 hello
+help 2022-08-15 08:01:45 i redid the ef2k
+help 2022-08-15 08:01:46 https://streamable.com/f8q057
+help 2022-08-15 08:01:48 why
+the-dump 2022-08-20 16:22:14 

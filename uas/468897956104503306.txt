@@ -1,0 +1,37 @@
+The Tale of firestorm_2nd (468897956104503306)
+help 2020-10-23 07:07:03 Well... This kind of tracks with only one range of wheels is pretty simple to make with motors.
+help 2020-10-23 07:28:07 Well... It's complicated to explain it but to resume you need to place a motor with 0 maxtorque, and place half blocks or half wedges in front of it, where the grey part of the motor points. Then you repeat it right next to it but the motor pointing at the opposite side with the flat part of the motor glued into the last half thing you placed. Repeat until the end.
+creations-chat 2020-10-23 07:34:20 Hey i have a question. Why did you colored it in dark grey?
+help 2020-10-23 07:43:04 Yeah and the half wedge need to all point in the same direction until you meet a corner
+help 2020-10-23 07:47:19 
+help 2020-10-23 07:47:48 And the motor just needs to be set with MaxTorque 0
+help 2020-10-23 07:54:44 Btw don't copy my corners, i made ropes corner to counter the too much of tracks due of the multiple wheels layers.
+help 2020-10-23 07:55:18 You don't need ropes because you have a simple one range of wheels. That's why i said it was pretty simple
+help 2020-10-23 09:03:51 If we just unpower the motor it is enough for the motor to not resist?
+help 2020-10-23 09:04:20 Oh. Thanks.
+help 2020-10-23 09:05:30 But maniac as i am, i set the controls to the touch Semicolon, i unpower the motors, set them to 0 maxtorque and speed at 0. I know it's useless but i always do it.
+help 2020-10-23 09:15:12 Looks really cool
+the-dump 2020-10-24 15:25:39 
+creations-chat 2021-04-02 19:57:20 But uh... planes aren't perfectly round?
+creations-chat 2021-04-02 20:01:57 Oh wait yes I forgot the AC-130 is a gunship
+creations-chat 2021-04-02 20:05:18 No 11 blocks high would be a 3-folding plane. It's insanely hard for someone that starts the game
+creations-chat 2021-04-02 20:09:26 I don't really know but I'd say too simplistic, guns at weird positions and nothing too special
+bot-central 2021-04-02 20:18:43 !rank
+bot-central 2021-04-02 20:18:58 *cries in non-image*
+help 2021-04-02 20:43:04 He said "trying"
+creations-chat 2021-04-02 20:51:40 You could motorlock those guns to make one compact autoloader
+bot-central 2021-05-04 08:49:15 !rank
+bot-central 2021-05-04 08:49:20 Oof.
+bot-central 2021-05-04 09:55:55 shhh... that's not nsfw. It's someone appreciating food a little too much. That's all.
+bot-central 2021-05-04 09:56:53 I'll change anyways. It was a troll that I forgot to change.
+creations-chat 2021-05-05 12:23:19 it's written in <#490306593242611742> but you need to talk a bit and when you reach level 3 with the bot you recieve permission for images (it's a role)
+help 2021-05-05 12:26:01 Well just talk anywhere in this server and you'll recieve exp
+creations-chat 2021-05-05 12:26:27 I think he uses it to be more "agile", so turn faster.
+creations-chat 2021-05-13 15:06:31 <@!458012038594166795> could you at least explain why downvote so fast?
+creations-chat 2021-05-13 15:09:10 I don't see how but ok I'll... try?
+creations-chat 2021-06-29 20:54:24 I wonder if motor locking could fix that
+creations-chat 2023-05-01 12:49:28 Can you guys help me choose between a straight cleaner (but maybe too fat and simplistic) cannon, or my second version?
+creations-chat 2023-05-01 13:00:42 I advise you to search “Azur Lane Roon”
+<:EmileSip:495396687158968321>
+creations-chat 2023-05-01 13:50:07 Talk about that, I was going to do it, but I have no idea how does humanoid mechas or whatever manages to stand and more or less walk, are they supported by helium?
+creations-chat 2023-05-01 14:10:17 No I only unplugged my router, maybe it would work better if I re-plugged it?

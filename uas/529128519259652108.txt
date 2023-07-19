@@ -1,0 +1,114 @@
+The Tale of insultifying (529128519259652108)
+bot-central 2021-04-27 05:34:23 ?shelp
+bot-central 2021-04-27 05:34:35 ?rhelp
+help 2021-06-29 00:14:04 I have this chassis here and I want to put a dune buggy body on top of it, but I can't seem to get a design that looks right. any ideas?
+help 2021-06-29 07:21:24 So I finished my dune buggy but whenever I turn the back wheels spas out and bounce up and down. any way to fix this?
+help 2021-06-29 07:21:28 
+help 2021-06-29 07:22:55 
+help 2021-06-29 07:41:13 I could, but I might fuck it up. im horrible at bodies.
+help 2021-06-29 13:37:37 update: I pretty much fixed the steering issue by just adding counterweight
+help 2021-07-14 20:23:31 I'm making a muscle car and its using steering that works with ONE servo. Any way to stabalize it?
+help 2021-07-14 20:24:37 The steering is wobbling back and forth
+creations-chat 2021-07-15 18:53:08 <@!531042200017174539> dude the jeep is too fuckin cool also what suspension is it packin
+creations-chat 2021-09-16 00:29:32 yes. its my favorite car. unfortunately, there are no quarter blocks, and i was making it to scale with a robloxian. and on top of that, the empty space thats missing from a half block counts as the hitbox when building so i cant be percise.
+creations-chat 2021-09-16 00:33:14 #1. I'm not good enough with motor locking to make it very compact. #2. it probably wouldnt have left enough room for the solid axel suspension AND the "interior"
+creations-chat 2021-09-16 00:35:35 With all-do respect, jeeps are all about offroading, so a suspension is crucial. and is THAT jeep to scale with a robloxian? (i.e the robloxian looks like a human would next to the car?)
+creations-chat 2021-09-16 00:37:50 closer to a monster truck, but closer than that one probably.
+creations-chat 2021-09-16 00:40:56 eh, it happens. ive made better anyway. like this muscle car.
+creations-chat 2021-09-16 00:47:23 bruh its to scale WITH A ROBLOXIAN and the basic block is half of a robloxian. how much detail can i put in? there are no blocks really small enough for that level of detail
+creations-chat 2021-09-16 00:54:23 not while leaving room for the solid axel suspension and seating area. also im not good enough at it.
+help 2021-09-25 14:50:07 hey I'm using piston damps on my dependent suspension, but when i start driving the car it spasms. any way to fix this?
+help 2021-09-25 14:51:55 https://streamable.com/bt4dnv
+help 2021-09-25 14:52:21 I know it needs body work, but its mainly a test for the suspension
+help 2021-09-25 14:52:55 what do i use then?
+help 2021-09-25 14:53:14 I need more clearance because the suspension peeks into the front of the wheel
+help 2021-09-25 14:54:06 so half pistons give that clearance but they also give the spasming shit
+help 2021-09-26 00:20:12 my magnet driver isnt working and i dont understand why
+help 2021-09-26 00:21:29 https://streamable.com/ozerep
+help 2021-09-26 00:30:16 can anyone help me make it work?
+help 2021-09-26 00:35:58 well that much i figured
+help 2021-09-26 00:36:00 but how do i fix it?
+help 2021-09-26 00:36:16 or how do i make a stronger engine
+help 2021-09-26 00:36:25 i dont wanna just be bumbass and use propellers
+help 2021-09-26 00:38:30 dont have the car and the engine connected to eachother?
+help 2021-09-26 00:49:06 so have the body be connected to the piston
+help 2021-09-26 01:10:34 that was unnecessarily mean
+help 2021-09-26 01:16:27 true
+bot-central 2021-10-09 04:36:37 -mapsuggest a cave system, with a stream running through it that has lots of small bumpy parts, and large, gradual raises in elevation for all the crawlers out there, seeing as the best thing we have currently is the canyon
+help 2021-10-12 03:59:55 i need a good color for the headlights on this jeep. any suggestions?
+help 2021-10-12 04:01:47 let me clarify: an rgb code
+help 2021-10-12 04:03:34 lmao
+help 2021-11-07 04:35:07 my jeep gladiator's solid axel suspension wobbles even while not moving. ways to fix? https://streamable.com/2pjxi4
+help 2021-11-07 04:49:19 <@!527127714004467723>  didnt work. just made it bounce differently
+help 2021-11-07 04:50:32 https://streamable.com/75d1ru
+help 2021-11-07 04:52:13 nope
+help 2021-11-07 04:52:21 i always use piston damps
+help 2021-11-07 04:55:12 <@!527127714004467723>
+help 2021-11-07 18:06:33 https://streamable.com/ds66j4 hood wont open or close. any ideas?
+help 2021-11-07 18:12:07 its a reset motor 1
+creations-chat 2021-11-08 01:16:53 no. sorry for being shit at building and taking suggestions
+creations-chat 2021-11-08 01:18:56 thanks, ill do that
+creations-chat 2021-11-20 23:52:52 i know im late to reply to this but holy shit thank you for actually giving me feedback rather than just shitting on my build lmao
+creations-chat 2021-11-21 01:56:23 I'm changing my jeep to mold toward your review, i cant really change the overall shape too much, but what do you mean by hooks?
+creations-chat 2021-11-21 02:02:52 added slight color variations, the smaller headlights, turn indicators, tools, changed the jerry can color, added bumper, added the hook, and got rid of the rear fenders. <@!757887014388367401>  what other changes are needed? (also i cant change the body shape too much due to the chassis mechanics)
+creations-chat 2021-11-21 02:06:21 what do you think of the changes i made?
+creations-chat 2021-11-21 02:08:22 ay is it me or did the channel just get locked?
+creations-chat 2021-11-21 02:10:48 yes jojo, i definitely see this "difference"
+creations-chat 2021-11-21 02:15:24 heres a tip: look at the things people are complaining about: for example, someone said my jeep had a back fender when the real one did it, so I GOT RID OF IT. DO WHAT THE FEEDBACK TELLS YOU TO DO
+creations-chat 2021-11-21 02:20:40 in all fairness we, the plane crazy community sure like to tell people to just motor lock more detail in then proceed to not tell them what in specific to motor
+
+*laughs* im in danger!
+creations-chat 2021-11-21 02:34:02 thx dawg.  upvotes and downvotes seem to agree that i improved it, too.
+creations-chat 2021-11-21 02:45:33 one of my older, shitter bodies. pls give feedback as to what i can do to add more detail. if you want me to motor lock, tell me what to motorlock.
+help 2021-12-18 14:56:46 hey can anyone tell me how to reduce bouncing in suspensions?
+help 2021-12-18 14:58:06 https://streamable.com/5xdckr
+help 2021-12-18 14:58:09 its at max
+help 2021-12-18 14:58:42 https://streamable.com/m5iowi
+help 2021-12-18 15:00:18 we need to have half  ballast blocks
+creations-chat 2021-12-20 19:54:37 wanted to make a 2 wheel offroader. i knew if it was in creations it would be a low effort build but what do you guys think?? (took prob 15 minutes to get it to where it is) it uses reset motors with 0.5 torque as shocks.
+creations-chat 2021-12-20 19:58:57 good idea. lets all ignore this. not good anyway.
+creations-chat 2022-01-19 23:01:19 damn ppl are already bein mean to my solid axle suspension
+creations-chat 2022-01-19 23:03:55 but how does that answer why ppl bein mean to it? do u mean that brain dead noobs dont understand it? or that ppl in hof think it isnt good enough (or both?)
+creations-chat 2022-01-19 23:07:26 i mean i guess. it probably would have helped if i had a body on it already
+creations-chat 2022-01-19 23:11:16 oh ive dealt with backlash from shit bodies
+help 2022-01-19 23:37:18 Can someone give me some colors for the headlights of this jeep?
+help 2022-01-19 23:38:45 i did but you cant exactly do silver in plane crazy, and white doesnt look good.
+help 2022-01-19 23:40:44 Fr
+help 2022-01-19 23:41:14 I ended up using the same color for the inner part but grey for the outer
+help 2022-01-19 23:42:17 I hope pc2 will let you transfer your old builds. Even if they give u like a save code or something it would help so much
+help 2022-01-19 23:54:34 POV: a spam name is climbing on ur build like a fuckin jungle gym
+help 2022-01-19 23:58:21 cry about it
+help 2022-01-19 23:58:23 its my build
+help 2022-01-19 23:59:52 which one looks better? headlight under glass, or solid color?
+help 2022-01-19 23:59:54 
+help 2022-01-20 00:00:53 ok
+help 2022-01-20 00:00:54 
+help 2022-01-20 00:01:36 oof now im getting mixed answers
+creations-chat 2022-01-20 05:51:50 what do u guys think of my hydraulic steering stabilizer?
+creations-chat 2022-01-20 05:57:25 man wtf this time i actually build something pretty complex and its got a 50/50 split in upvotes and downvotes. WHAT 👏 DO 👏 YALL 👏 WANT 👏
+creations-chat 2022-01-20 06:34:22 Compared to my solid axle it is
+help 2022-03-08 02:00:32 my custom 9x9 tires are just so damn bouncy. any way to fix that, or make the suspension compensate for it? its completely uncontrollable. https://streamable.com/b2vkyn
+creations-chat 2022-03-09 22:59:30 don't care + didn't ask + cry about it + stay mad + get real + L + mald seethe cope harder + hoes mad + basic + skill issue + ratio + you fell off + the audacity + triggered + any askers + redpilled + get a life + ok and? + cringe + touch grass + donowalled + not based + your're a (insert stereotype) + not funny didn't laugh + you're* + grammar issue + go outside + get good + reported + ad hominem + GG! + ur momdon't care + didn't ask + cry about it + stay mad + get real + L + mald seethe cope harder + hoes mad + basic + skill issue + ratio + you fell off + the audacity + triggered + any askers + redpilled + get a life + ok and? + cringe + touch grass + donowalled + not based + your're a (insert stereotype) + not funny didn't laugh + you're* + grammar issue + go outside + get good + your gay  + reported + ad hominem + GG! + ur mom + true one piece is better than Narutodon't care + didn't ask + cry about it + stay mad + get real + L + mald seethe cope harder + hoes mad + basic + skill issue + ratio + you fell off + the audacity + triggered + any askers + redpilled + get a life + ok and? + cringe + touch grass + donowalled + not based + your're a (insert stereotype) + not funny didn't laugh + you're* + grammar issue + go outside + get good + reported + ad hominem + GG! + ur momdon't care + didn't ask + cry about it + stay mad + get real + L + mald seethe cope harder + hoes mad + basic + skill issue + ratio + you fell off + the audacity + triggered + any askers + redpilled + get a life + ok and? + cringe + touch grass + donowalled + not based + your're a (insert stereotype) + not funny didn't laugh + you're* + grammar issue + go outside + get good + your gay  + reported + ad hominem + GG! + ur mom + true one piece is better than NarutoSus is used as a synonym of suspicious, or suspect, as in “you’ve been acting pretty sus, I think
+creations-chat 2022-03-09 23:28:03 nah you just cant make builds that can get you bitches.
+creations-chat 2022-03-09 23:31:49 abso fucking lutely. bro ironically low effort builds get all the bitches
+creations-chat 2022-03-30 07:44:00 absolutely blank bland empty canvas for what im hoping will turn into a polaris RZR. give me details to add, and ideas as for how to add them. (im dog shit at bodies if you couldnt tell)
+creations-chat 2022-03-30 07:46:33 holy shit i just realised how low effort the build looks cus of the body, so heres a shot of the rear suspension, and a shot of the un spawned in front suspension
+creations-chat 2022-03-30 07:51:27 noted. (i forgot that sarcasm isnt something that can be read)
+bug-reports 2022-03-30 23:27:13 blacklisted people can enter my plot for some fuckin reason
+creations-chat 2022-04-19 05:49:02 well i didnt drown them, but i did fling them 3 times for this clip https://streamable.com/66uzs9
+creations-chat 2022-06-15 08:19:46 <@676808894466752542> does the suspeeny work?
+creations-chat 2022-06-15 08:22:04 let me in. i want to see it. the suspeeny
+creations-chat 2022-06-15 17:33:59 real wheels would have made it too wide and in my defense they're atleast winter wheels
+creations-chat 2022-06-15 17:36:26 damn thats tough. how could they hate it? i put MINUTES of work into that! its got a tow weight up there in the SIXES of pounds!
+creations-chat 2022-06-15 17:41:03 nah couldnt be low effort (the pictures are unrelated i just thought they were funny)
+creations-chat 2022-06-15 17:44:12 I GOT IT! MORE WHEELS = MORE UPVOTES
+creations-chat 2022-06-15 21:31:56 changed the geometry, turret, and overall design of the 6x6. sticking with the winter wheels because real ones would be too big. what do you all think? (there are guns inside the cylinder
+creations-chat 2022-06-15 21:33:58 
+creations-chat 2022-06-15 21:48:39 k
+creations-chat 2022-06-21 16:58:07 tell me why you all hate the drift car. PLEASE
+creations-chat 2022-06-21 17:11:17 there. fixed the no video thing
+creations-chat 2022-06-21 17:13:31 the motors arent on zero. if the motors were on 0 it would always lean to one side or the other. also, the suspensions dont do anything. they arent connected to anything. just cosmetic
+creations-chat 2022-06-21 17:16:06 suspensions are cosmetic
+creations-chat 2022-06-21 17:18:42 as i said, servos. its a passive stabilizing system. like using reset motors but you can set a max angle. when body roll is assisted by physics they have opposite keybinds, and together have just enough torque for enertia to make the body lean. when you want it to be entirely servo driven you make them the same keybinds so their strength combine and enertia doesnt effect them.
+creations-chat 2022-08-12 04:01:25 he has organs in the non seated version (intestines, a heart, and both the seated and non seated version have a brain)
+creations-chat 2022-10-07 20:32:53 Waaaa why does everyone hate my suspension waaaaaa

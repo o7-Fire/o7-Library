@@ -1,0 +1,34 @@
+The Tale of anouar24 (753511629118898237)
+help 2021-11-19 13:22:31 the controll surfaces on my rocket dont move, how do i fix this, because i cant controll my shuttle
+help 2021-11-19 13:27:25 alright
+help 2021-11-19 13:27:27 thanks
+help 2021-11-19 13:27:37 k
+help 2021-11-19 13:28:08 but wait
+help 2021-11-19 13:28:13 how do i do that
+help 2021-11-19 13:28:22 i never tried keybinding them
+help 2021-11-19 13:47:12 i know how to keybind but not how to keybind control surfaces in a way that they actually work
+help 2021-12-01 20:36:57 can someone help me
+help 2021-12-01 20:37:11 im trying to make a motorlocking f14 from a tutorial
+help 2021-12-01 20:37:18 but the right side doesnt lock
+help 2021-12-01 20:37:20 
+help 2021-12-01 20:37:30 
+help 2021-12-01 20:38:58 no
+help 2021-12-01 20:40:22 ive been checking for 2 hours
+help 2021-12-01 20:40:29 both sides look the same
+help 2021-12-01 20:44:42 nothing is blocking it
+help 2021-12-01 20:47:41 yes
+help 2021-12-01 20:47:46 but i figured out
+help 2021-12-01 20:47:54 this piece doesnt lock
+help 2021-12-01 20:47:57 in the fornt
+help 2021-12-01 20:47:58 front
+help 2021-12-01 20:48:14 
+help 2021-12-01 20:49:46 i fixed it
+help 2021-12-01 20:50:14 i removed a few pieces but i gotta replace them with something that doesnt block
+help 2021-12-01 20:52:41 helium?
+help 2021-12-01 20:55:47 what kind of engine
+help 2021-12-01 20:55:49 u got
+help 2021-12-01 22:07:53 Missiles that follow your cursor
+bot-central 2021-12-10 14:40:04 ?shelp
+bot-central 2021-12-10 14:40:13 !trank
+bot-central 2021-12-10 14:40:17 !rank
+bot-central 2021-12-10 14:40:27 ?rhelp

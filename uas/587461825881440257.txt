@@ -1,0 +1,3 @@
+The Tale of wellifailed (587461825881440257)
+bug-reports 2021-07-21 19:05:58 well I read the pins and Im not sure if this is the right place, but on some of my mouse controlled builds when I point down my plane goes up and when I point up my plane goes down.. does this happen to anyone else?
+bug-reports 2021-07-21 19:20:07 yeah even when i do spawn at base it still happens

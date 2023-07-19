@@ -1,0 +1,9 @@
+The Tale of dububb (676109098311221356)
+creations-chat 2022-10-19 17:07:22 https://drive.google.com/file/d/1ovKrf-vtxB4E_fwQnowjDMaRrpAufSnB/view?usp=sharing https://drive.google.com/file/d/1RMIPDcL7XVtBhiZlG2x0kZkUXK_Rg2OV/view?usp=sharing Idk why I cant upload any images, but does anyone know what I can do to improve my f5?
+help 2022-10-20 14:42:39 how do I make my plane roll when using motor 2 cause atm it's only able to pitch and yaw
+help 2022-10-20 14:43:40 I'm not sure I understand
+help 2022-10-20 14:44:50 alr
+help 2022-10-20 14:49:40 I've done it like this for all of them but it only works for pitch and not roll.
+help 2022-10-20 14:52:06 they all go the same direction and only follow my mouse up and down not to the side
+help 2022-10-20 14:53:34 like this
+help 2022-10-20 15:02:10 fuck it imma just use wasd controls

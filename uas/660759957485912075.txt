@@ -1,0 +1,13 @@
+The Tale of volatiledroid (660759957485912075)
+bot-central 2020-02-29 05:59:27 !verify
+bot-central 2020-02-29 06:01:37 !help
+the-dump 2020-02-29 07:44:47 -ping
+the-dump 2020-02-29 07:44:50 whoops
+bot-central 2020-02-29 07:45:02 !ping
+bot-central 2020-02-29 07:45:13 ?ping
+bot-central 2020-02-29 07:45:18 WOAH THATS ALOT
+bot-central 2020-02-29 07:45:24 ?ping
+bot-central 2020-02-29 07:46:43 ?ping
+bot-central 2020-02-29 07:47:28 -ping
+bot-central 2020-02-29 07:52:21 -verify Ashiaphowcome
+bot-central 2020-02-29 10:23:00 return

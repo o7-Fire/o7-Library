@@ -1,0 +1,21 @@
+The Tale of gustavocoste (110761184176652288)
+help 2018-11-04 21:23:11 Is it possible to have a vertical plane / aerial thing?
+help 2018-11-04 21:23:36 Yeah
+help 2018-11-04 21:23:41 I'm trying to get Elon Musk
+help 2018-11-04 21:23:45 But it is pretty hard
+help 2018-11-04 21:24:03 I mean, like a cabin which can stay vertical and be able to be controllable
+help 2018-11-04 21:25:49 Yeah
+help 2018-11-04 21:26:09 Something like this which you can control
+help 2018-11-04 21:26:11 
+help 2018-11-04 21:28:38 Aye, thanks. I'll try building one first, then
+creations-chat 2018-11-06 22:42:36 Hey, here's "Rocket" | Gustavocoste | 478 | Master Scientist
+creations-chat 2018-11-06 22:42:46 https://streamable.com/8ucxz
+bug-reports 2018-11-07 23:35:16 Whenever I paint a block with uncommon colors such as light brownish green or purple reddish, save the building and load again, the blocks are no more of that old color and change to a closer one, such as light brownish green turning into green and purple reddish turning into red.
+help 2018-11-08 23:58:37 Is there any way to make this less jumpy and more stable? https://streamable.com/ojgfp
+help 2018-11-08 23:59:58 I'll try it, thanks
+help 2018-11-09 01:12:24 Hey Seakn, you upload it to Stream.io
+help 2018-11-09 01:12:28 https://streamable.com/
+help 2018-11-09 01:12:49 np
+help 2018-11-09 21:59:19 Hey, anyone knows the color code of the old grey?
+help 2018-11-09 22:00:59 Nevermind, I tried 110|110|110 and it is very close
+the-dump 2022-07-13 09:40:23 

@@ -1,0 +1,30 @@
+The Tale of phoenixthecheetah (500783629115457586)
+bot-central 2020-09-25 00:47:13 ?shelp
+bot-central 2020-09-25 00:47:30 -shelp
+bot-central 2020-09-25 00:47:36 w h a t
+bot-central 2020-09-25 00:49:08 !help
+bot-central 2020-09-25 00:49:35 I need the Ranked role.....
+bot-central 2020-09-25 00:49:37 h u h
+bot-central 2020-09-25 01:02:40 &suggest 
+[Measure & Fill Tool]
+
+[BLOCKS]
+
+Both of these would be good additions and here's why:
+For 1, the Measure tool would be really helpful when you need to measure how many blocks your placing, how many blocks are already placed, and the area/volume of the object your building. This could be coupled with the Fill tool to make it easier to both fill out areas, and make shapes relatively quickly without the need of placing down loads of blocks.
+
+2nd, this can be extremely helpful for those who are trying to make giant builds and don't want to waste their time that could be focused on building, just by placing block after block, or beam after beam.  People could easily measure and fill in any gaps with ease. You may be wondering "What if there are blocks in the way?" well I think it would be best if said blocks were ignored if you filled in said area and would still fill it in as it normally would. If players did not want this feature, it could be togglable. 
+
+and 3rd, People would probably be very appreciative of this feature, even if it isn't *that* helpful. And you might even be able to use if with Wedges to make awesome Pyramids or other Buildings. This "Fill" tool could also be easily used to fill in small gaps that would take much longer time to find and fill out. Especially if you have this tiny little block that you missed, or you want to fill in a line really quickly.
+
+Conclusion: 
+
+I believe this would make a great addition, and would be extremely helpful during building.
+bot-central 2020-09-25 01:02:47 it didn't work :c
+bot-central 2020-09-25 01:03:55 Theres another Protogen Here. Cool.
+help 2020-09-25 17:45:06 How do I build a catapult effectively?
+help 2020-09-25 17:45:21 I did it yesterday but it didn't save TwT
+help 2021-05-11 02:06:26 My Speakers won't work! How can I fix this problem?
+
+Whenever I try and play any music from my speakers, it won't play anything. The ID *should* be okay, and I can't seem to find out the problem.
+help 2021-05-11 02:13:16 I fixed it somehow!

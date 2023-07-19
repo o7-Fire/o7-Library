@@ -1,0 +1,19 @@
+The Tale of thenumberguy (581568551803027484)
+help 2021-12-23 17:07:43 which direction are the control surfaces suppost to face
+help 2021-12-23 17:08:04 ok
+help 2021-12-23 17:08:06 thanks
+help 2022-01-11 21:22:13 so my water propellers and now regular propellers just randomly stopped spinning and are no longer functional
+help 2022-01-11 21:22:25 they play the audio but nothing on them is working
+bug-reports 2022-01-14 15:34:28 • This bug appears to be literally locking engines to make them unusable, I had this originally happen with wtaer propellers and now its happened to regular propellers,
+• Due to the recent rule changes I cannot post a screenshot but the debug menu does read
+`"Stack Begin
+Script 'Players.1235735654377435677.PlayerGui.Settingsgui.LocalScript',   Line    384   -   function particle sevent
+Stack End"`
+whenever I try to power the motors
+• I don't think others can recreate it as I would call it a "infection" because it seems to be slowly effecting all my engine propellers for myself
+• , my username is
+`1235735654377435677`
+and my user ID is
+`474605163`
+My save slots now affected are all my boats, tanks, and planes
+help 2023-01-29 22:26:58 how prevent people from falling through trains

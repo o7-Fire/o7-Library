@@ -1,0 +1,10 @@
+The Tale of t14.armata (684271719715700768)
+bug-reports 2023-04-19 22:46:40 if you get 2 cameras and point them at each other (it should say blockstd) it makes them connected, additionally, after experimenting with cameras I noticed the reselect option is really buggy causing items to vanish occasionally.
+bot-central 2023-04-21 02:34:18 !rank
+bot-central 2023-04-21 02:34:24 cool
+help 2023-04-21 02:56:19 go to the furthest back block and put a motor 2 in the center, than connect the top to one side and the bottom to the other, the settigs should be backwards (key u will use) forwards (key u won't use) or the other way around, toggle, servo enabled
+help 2023-04-21 18:08:54 Pay attention
+help 2023-04-21 18:12:45 imagine anime pfp
+help 2023-04-21 18:15:40 imagine pressed
+help 2023-04-21 18:15:59 imagine cringe
+help 2023-04-21 19:12:31 average racist

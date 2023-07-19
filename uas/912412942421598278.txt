@@ -1,0 +1,10 @@
+The Tale of ≡nder (912412942421598278)
+bug-reports 2022-01-27 18:46:58 There is a bug displaying multiple motors
+bug-reports 2022-01-27 18:47:08 allowing me to place down 3000 standard motors
+bug-reports 2022-01-27 18:47:32 There are literally 4 motor options, 1 motor_2 and the rest standard motors
+bug-reports 2022-02-10 18:27:52 I'm spawning in the middle of the map, my UI does not work and I don't have a plot?
+bug-reports 2022-02-10 18:41:02 how?
+bug-reports 2022-02-10 18:41:12 i reset and waited a solid 5 minutes
+bug-reports 2022-02-10 18:44:12 i checked my ping it was 52
+bot-central 2022-09-08 22:22:26 !red
+bot-central 2022-09-08 22:22:32 Stupid commands

@@ -1,0 +1,20 @@
+The Tale of bosssoider (746894396968009800)
+help 2022-07-14 06:16:20 Which channel do i need to be when i suggest things?
+help 2022-07-21 02:09:57 Use pyramid wedge or learn to motor lock
+help 2022-07-21 02:13:31 Which channel do i go for suggesting?
+help 2022-07-21 07:40:03 &suggest  
+
+Control surfaces grouping
+
+[gameplay]
+Changes the control surfaces too how they should work like left wing, or rudder, or tail wing. This makes it so you can have multiple working builds at once while not needing too create custom control surfaces. This would work great with aircraft carriers with working aircrafts. You also won’t need to change controls when switching spawn location which makes it more mobile friendly as well due to mobile not good with custom control surfaces
+help 2022-07-21 07:40:14 Wait does this work?
+help 2022-07-21 07:40:50 Ok i need help suggesting
+help 2022-07-21 07:41:47 &suggest
+help 2022-07-21 07:42:03 <#925522972586967092>
+help 2022-07-21 07:42:22 Oh crap I don’t know how to do this
+bot-central 2022-07-24 09:15:48 !rank
+bot-central 2022-07-24 09:15:53 Nice
+bug-reports 2022-10-25 05:58:44 Bug: mobile controls disappearing
+
+Some keys are disappearing from my screen

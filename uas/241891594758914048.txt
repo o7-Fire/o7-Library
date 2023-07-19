@@ -1,0 +1,25 @@
+The Tale of poppadom42 (241891594758914048)
+bug-reports 2018-11-30 21:31:24 They line up pretty nicely, but when I fly it, it just does a nose dive
+bug-reports 2018-11-30 21:37:26 
+bug-reports 2018-11-30 21:38:35 the console output it seems
+bug-reports 2018-11-30 21:39:11 
+bug-reports 2018-11-30 21:40:25 
+bug-reports 2018-11-30 21:43:09 that was like an hour ago
+bug-reports 2018-11-30 21:53:11 there aren't any cylinders..?
+bug-reports 2018-11-30 21:53:21 or disconnectors
+bug-reports 2018-11-30 21:54:45 ok, good to know..?
+bug-reports 2018-11-30 21:54:56 gg
+bug-reports 2018-11-30 21:57:18 you normally have 3 save files
+bug-reports 2018-11-30 21:57:22 that's it
+bug-reports 2018-11-30 21:58:11 I don't see a glitch??
+bug-reports 2018-11-30 21:58:25 oh wait
+bug-reports 2018-11-30 21:58:28 there's a scroller
+bug-reports 2018-11-30 21:58:34 that's new to me.
+bug-reports 2018-12-01 09:30:09 I still don't understand why my plane doesn't fly..?
+bug-reports 2018-12-01 14:28:25 All of my plane's center of mass and lift are perfectly aligned but do nose dives and I don't understand why.
+bug-reports 2018-12-01 14:39:39 Ooooh, that be why
+bug-reports 2018-12-01 14:39:47 I'll try lowering jt
+bug-reports 2018-12-01 14:44:48 Ok, that works
+bug-reports 2018-12-01 16:12:20 l
+help 2019-02-17 11:44:42 These are my center of list and mass, but my plane just does complete nose dives...
+the-dump 2019-02-17 11:49:31 https://twitter.com/snakepixel/status/1096595808311492608?s=19

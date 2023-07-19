@@ -1,0 +1,5 @@
+The Tale of awesomecat357 (878653530381094912)
+bot-central 2023-07-12 17:54:32 !rank
+bug-reports 2023-07-12 18:17:21 My user is Awesomekitten357, this bug occurs with any slot number and often happens. So when I turn on a light block, half light block, wing light, or spotlight, on a build, it will turn itself off in a short amount of time, it does not happen when there are few blocks, but when there are a rather large amount of blocks, the light just turns off. This happens with any spawn area, more likely in water. This might be due to lag, but even with my 12k build, as long as it is anchored I stay at 60 frames.
+bug-reports 2023-07-12 18:21:05 There is another bug I know, if I were to try and build a blender, (A spinning motor with cutters on both sides) the cutters are ineffective, this occurs with any slot number and always happens, I've tried pvp mode and private servers, the cutters do not work on my build or anyone else's, I might not know the physics of cutters well but this seems like a bug to me.
+bug-reports 2023-07-13 01:05:34 e

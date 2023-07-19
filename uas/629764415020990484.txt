@@ -1,0 +1,17 @@
+The Tale of shimmering_streetlamp (629764415020990484)
+bot-central 2020-05-01 16:13:51 &suggest
+bot-central 2020-05-01 16:14:46 ?rhelp
+bug-reports 2020-05-25 12:20:19 The cameras attach to some blocks and glitch them out
+bug-reports 2020-06-13 12:21:14 sometimes it is day but it gets dark and i can't see anything like a solar eclipse
+help 2020-10-14 00:19:48 ok
+help 2020-10-14 00:19:49 so
+help 2020-10-14 00:19:54 i have a dragon
+help 2020-10-14 00:20:06 and whenever i make it move forward
+help 2020-10-14 00:20:18 the head wiggles back and forth very fast
+help 2020-10-14 00:20:30 the motor 2s cause it
+help 2020-10-14 00:20:40 but how the heck do i fix
+help 2020-10-14 19:42:19 <@!514333972189151233> thanks ajusting the torque helped
+bot-central 2020-11-04 21:28:56 ?shelp
+bug-reports 2021-02-20 19:22:01 ok so
+bug-reports 2021-02-20 19:22:07 i don't know all the details
+bug-reports 2021-02-20 19:22:40 but my friend has a helicopter and some of the control panels on the top rotor do not move up and down

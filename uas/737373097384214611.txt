@@ -1,0 +1,7 @@
+The Tale of vol4266 (737373097384214611)
+bot-central 2021-06-05 21:01:24 !rank
+bug-reports 2021-06-05 21:09:12 https://streamable.com/7j5n1m
+bug-reports 2021-06-05 21:09:20 So my tank is a little broken
+bug-reports 2021-06-05 21:09:48 whenever I spawn, the wheels start moving backwards, without my hands even being on the keyboard
+bug-reports 2021-06-05 21:10:26 and the pistons I have to push the top of the track up extend fully when I unanchored it even though there only meant to go about half way activated
+bug-reports 2021-06-05 21:11:20 when I'm anchored the pistons work just fine though so that's not annoying at all

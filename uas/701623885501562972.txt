@@ -1,0 +1,26 @@
+The Tale of someone1010 (701623885501562972)
+bot-central 2021-07-21 02:12:53 !info
+bot-central 2021-07-21 02:12:56 ?info
+bot-central 2021-07-21 02:13:03 ~infi
+bot-central 2021-07-21 02:13:08 ~info
+bot-central 2021-07-21 02:13:13 -info
+bot-central 2021-07-21 02:13:20 ;info
+bot-central 2021-07-21 02:13:22 .info
+bot-central 2021-07-21 02:13:25 ,info
+bot-central 2021-07-21 02:13:32 pls info
+bot-central 2021-07-21 02:13:37 %info
+bot-central 2021-07-21 02:13:51 Whats mee6's thing??
+bot-central 2021-07-21 02:14:02 _info
+bot-central 2021-07-21 02:14:07 :info
+bot-central 2021-07-21 02:14:11 'Info
+bot-central 2021-07-21 02:14:16 $info
+bot-central 2021-07-21 02:14:26 &info
+bot-central 2021-07-21 02:14:29 .help
+bot-central 2021-07-21 02:14:33 !help
+bot-central 2021-07-21 02:15:24 !stat
+bot-central 2021-07-21 02:15:27 !stats
+bot-central 2021-07-21 02:15:31 !whois
+bot-central 2021-07-21 02:15:35 !ah
+bot-central 2021-07-21 02:15:47 !level
+bot-central 2021-07-21 02:15:50 !exp
+bot-central 2021-07-21 02:15:53 Whatttt

@@ -1,0 +1,35 @@
+The Tale of pugz7682 (323953042418302988)
+bug-reports 2021-01-03 00:45:28 the center of mass display doesnt seem to be affected by changing the settings on ballast blocks
+i dont think the console is applicable here
+to recreate, just place a ballast block on a beam and adjust the density
+bug-reports 2021-01-03 00:57:36 same for the fuel in fuel blocks
+bug-reports 2021-01-03 02:33:45 ah ok
+help 2021-01-03 19:44:52 what does piston lock do?
+help 2021-01-03 19:49:17 it doesnt seem to do the same thing as the motors when i turn it on
+help 2021-01-03 19:51:32 ah ok
+help 2021-01-03 19:52:14 well
+its definitely still moving when i press the extend button
+help 2021-01-10 19:33:23 Do wings provide symmetrical or asymmetrical lift?
+help 2021-01-10 19:41:07 Make sure the turret has a center of mass at the rotation point so it doesnt throw off the balance of the tank as it turns
+help 2021-01-10 19:42:29 a hovering firetruck?
+help 2021-01-10 19:42:49 ah ok
+i havent done much with hover stuff in this game
+help 2021-01-10 19:44:53 i still need to know if wings provide asymmetrical lift or not
+help 2021-01-10 19:45:29 the wings in the game
+on the thing im building
+help 2021-01-10 19:45:53 a rocket
+help 2021-01-10 19:46:51 im talking about the mechanics of the game
+help 2021-01-10 19:47:43 by symmetrical and asymmetrical lift i mean does the wing produce lift in a certain direction or is it always based on pitch
+help 2021-01-10 19:48:27 since if its asymmetrical i have to make sure the wings all have an opposite wing to keep it from flipping
+help 2021-01-10 20:33:46 engines tab
+help 2021-01-10 20:33:58 they are hella heavy though
+help 2021-01-10 20:34:32 ye i saw
+help 2021-01-10 20:36:34 litres is a correct spelling
+help 2021-01-10 20:36:47 so is liters
+help 2021-01-10 20:53:29 make sure your total thrust lines up with your center of mass
+help 2021-01-10 20:54:51 a trebuchet
+help 2021-01-10 20:56:30 upward thrusters can angle to provide forward thrust, similar to an Osprey
+help 2021-01-10 20:56:41 the helicopter/plane kind of osprey
+help 2021-01-10 20:57:21 how does it hover then
+help 2021-01-10 20:58:07 
+help 2021-01-10 20:58:58 how would you make a speed limiter

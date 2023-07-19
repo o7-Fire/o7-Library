@@ -1,0 +1,16 @@
+The Tale of qualified_idiot (836338728287993856)
+bot-central 2022-02-14 15:18:03 !rank
+bot-central 2022-02-14 20:36:42 !rank
+bot-central 2022-02-18 23:41:42 !rank
+bot-central 2022-02-18 23:41:54 Oof
+bot-central 2022-02-18 23:42:01 Maybe I’m too quiet
+help 2022-02-25 17:05:12 Does anybody know how to submit a suggestion?
+help 2022-02-25 17:06:35 Ok thanks
+bot-central 2022-02-25 17:07:20 ?rhelp
+bot-central 2022-03-03 18:40:00 !rank
+bot-central 2022-03-14 19:32:18 !rank
+bot-central 2022-04-10 07:25:33 !rank
+help 2022-04-24 21:35:18 does anyone know why my text boxes keep resetting when i load my build in?
+help 2022-04-24 21:37:48 right...
+help 2022-04-24 21:37:53 ok
+bug-reports 2022-04-24 21:44:09 idk if this has already been discovered but whenever i have a text box with a colon in it the colon and everything after it disappears after loading my build in

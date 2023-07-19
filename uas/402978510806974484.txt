@@ -1,0 +1,3 @@
+The Tale of jbirdisthawrd (402978510806974484)
+help 2021-05-05 20:43:16 so, i am making an aircraft, but need it to float at high altitudes, as well as not flip whin i go up. I also needs to be able to lift better/faster, and turn better/faster. Help plz
+help 2021-05-05 20:43:26 *when

@@ -1,0 +1,38 @@
+The Tale of incendiary__ (896581686106681354)
+help 2021-12-05 01:37:39 trying to get stable propulsion and turning working on this, need some help. It has some helium blocks but this is all I have rn and I know nothing about motorlocking.
+help 2021-12-05 01:38:13 It doesn't fix it
+help 2021-12-05 01:38:22 I removed them specifically because they didn't
+help 2021-12-05 01:38:29 I'm trying to be serious here
+creations-chat 2021-12-20 07:14:38 mmm yes bunker where nothing happens
+bot-central 2021-12-21 04:37:47 !rank
+bot-central 2021-12-21 04:37:55 that's not helpful at all
+bot-central 2021-12-22 06:39:14 -servers
+bot-central 2021-12-22 06:39:34 !rank
+help 2022-02-04 07:36:12 So I'm working on a helicopter with 3 sets of 2 blades and I want to figure out how to stop it wobbling
+help 2022-02-04 07:55:17 6 rotors
+help 2022-02-04 07:55:30 spinning in opposite directions to each other
+help 2022-02-04 09:25:04 ignore the fact people could take that the wrong way
+help 2022-02-04 09:27:21 That's what it's labeled in the save files
+help 2022-02-04 09:27:34 Heli, drone, pretty similar mechanics
+help 2022-02-04 09:27:52 Just different executions
+help 2022-02-04 09:28:09 I never said they were the same
+help 2022-02-04 09:28:27 They both use blades pushing air downwards to achieve lift
+help 2022-02-04 09:29:25 That's what differs it from a drone yes
+help 2022-02-04 09:29:38 But there's drones with 2 or 3 blades
+help 2022-02-04 09:29:49 Or more if you're crazy
+help 2022-02-04 09:30:00 I've used 6 blade drones
+help 2022-02-04 09:31:27 my problem with my vehicle is the sideways rocking
+help 2022-02-04 09:31:44 Basically motorbike in motoGP angles
+help 2022-02-04 09:37:27 also the landing gear likes to bounce a lot but idk and idc
+help 2022-06-03 11:26:31 I want to try and hide a motor for turning a platform but I have limited clearance and limited motorlock experience
+help 2022-06-03 11:26:37 
+help 2022-06-03 11:27:23 I want to rotate it 90 degrees and have it sit flush with the platform on the left
+help 2022-06-03 11:27:45 It works here but I want the motor to be below the ocean level
+help 2022-06-03 11:28:15 I move it and it doesn't line up with the platform
+help 2022-06-03 11:30:55 I have limited space and doing that's not as easy as it sounds
+help 2022-06-03 11:31:02 I'm trying to find a simpler method
+help 2022-06-03 11:53:17 Try motorlock
+help 2022-06-03 11:53:28 I have no clue how to do it but eh
+help 2022-06-03 11:55:41 It'll make it flush with the hood
+creations-chat 2022-06-04 21:47:41 hmmm
+creations-chat 2022-06-08 07:40:47 *wrong channel, ignore*

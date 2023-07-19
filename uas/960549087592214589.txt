@@ -1,0 +1,10 @@
+The Tale of touchdownbutlong (960549087592214589)
+help 2022-12-31 11:27:41 I need help
+help 2022-12-31 11:27:53 I can't insert emojis and stuff on my text blocks
+bug-reports 2023-03-21 16:48:09 I can't insert emojis on any sign/text for some reason.
+
+I press windows + period and the emoji menu thing opens, but when I try to insert an emoji, nothing happens... the text inside the textbox doesn't change at all.
+
+If I try to copy an emoji from a website or somethn, it either shows a box with a cross on it or just inserts a space without enything in it...
+bot-central 2023-05-19 08:55:12 !rank
+bot-central 2023-05-19 08:55:22 lvl 0 REEEE

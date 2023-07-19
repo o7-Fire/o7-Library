@@ -1,0 +1,6 @@
+The Tale of dittostein (646564732614213645)
+bug-reports 2020-09-05 00:56:28 I found a problem where looking through glass makes water transparent
+bug-reports 2020-09-05 01:01:39 ohok
+bug-reports 2020-09-05 01:02:55 I just figured out how to fix it
+bug-reports 2020-09-05 01:03:44 or turn your graphics quality to less than 8
+the-dump 2020-09-09 21:59:21 https://cdn.discordapp.com/attachments/305580569238962186/753373078960209951/FB_IMG_1599646970393.jpg

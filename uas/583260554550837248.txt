@@ -1,0 +1,20 @@
+The Tale of emillia0 (583260554550837248)
+help 2021-11-14 19:45:07 Im making a vf-1j valkyrie does anyone know how it would be possible to make it transform from plane to gerwalk mode?
+bot-central 2021-12-15 20:49:54 !rank
+help 2021-12-16 11:07:30 How do i make transforming robots like this?
+help 2021-12-16 11:08:38 Specifically this.
+help 2021-12-16 11:09:08 How would I do three seprate transformations with 2 motor settings?
+help 2021-12-16 11:10:05 I must
+help 2021-12-16 11:13:02 Why not?
+help 2021-12-16 11:13:34 Yes
+help 2021-12-16 11:14:00 Ohhhh
+help 2021-12-16 11:14:09 Got it
+help 2021-12-16 11:15:45 Well then are orthicopters possible?
+help 2021-12-16 11:16:29 Like this one from dune.
+help 2021-12-16 11:16:39 Can I make a orthicopter?
+help 2021-12-16 11:18:38 Really, because evrey time I've tried the motors go in diffent directions and when I change the motors, it still goes in the wrong direction.
+help 2021-12-16 11:19:39 Like the second you have front and back motors they automatically go in diffrent directions.
+help 2021-12-16 11:26:27 Well the rotation is sideways to move the forward and back wing pannels up and down, but when the front wings go up, the back go down, and vice versa, and I dont know how to fix it.
+help 2021-12-16 11:27:49 I mean I could connext them to the same motor system, but that makes the engineering a lot harder.
+help 2021-12-16 11:28:55 This
+help 2021-12-16 11:30:05 Ok

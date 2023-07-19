@@ -1,0 +1,7 @@
+The Tale of shadowwise (791998421644869632)
+help 2022-08-22 18:20:37 motors wont work
+help 2022-08-22 18:22:57 they are
+help 2022-08-22 18:24:16 they are on max torque and 1 speed
+help 2022-08-22 18:27:48 ive tried botm motors
+help 2022-08-22 18:27:54 both*
+help 2022-08-22 18:28:43 servos and everything

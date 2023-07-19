@@ -1,5 +1,47 @@
-justminna
-plane-crazy 2020-06-06 18:38:48 Summer
-plane-crazy 2020-04-12 10:27:03 
-plane-crazy 2020-04-05 13:02:50 Thanks
-plane-crazy 2020-04-05 13:02:26 Hey, any idea on how to make a suggestion on the game?
+The Tale of justminna (318699736448106496)
+bot-central 2020-04-05 12:59:00 -commands
+bot-central 2020-04-05 12:59:57 -pccsuggest Add a pulsejet engine. It will be a cool add-on with an epic sound, suitable both for land and air vehicles.
+bot-central 2020-04-05 13:00:00 f
+bot-central 2020-04-05 13:00:10 -help pccsuggest
+bot-central 2020-04-05 13:01:50 ?commands
+bot-central 2020-04-05 13:01:57 !commands
+bot-central 2020-04-05 13:02:02 ;commands
+bot-central 2020-04-05 13:02:04 :commands
+bot-central 2020-04-05 13:02:53 ?rhelp
+help 2020-04-05 13:06:27 <@!340543153922768906> TERRAIN SPECIALIST [III] role if possible.
+help 2020-04-05 13:06:46 
+help 2020-04-05 13:07:07 
+creations-chat 2020-04-06 15:21:47 2 independent cannon towers, 8 independent wheels, 4 on each side and a crap ton of armor.
+creations-chat 2020-04-06 15:22:19 About 1.4k parts
+creations-chat 2020-04-06 15:22:31 And smokescreen
+creations-chat 2020-04-06 15:22:49 Your PC
+creations-chat 2020-04-06 15:23:00 Oh well
+creations-chat 2020-04-06 15:23:10 How
+creations-chat 2020-04-06 15:23:15 Do you get 70 fps
+creations-chat 2020-04-06 15:23:18 How
+creations-chat 2020-04-06 15:23:22 Explain me that
+creations-chat 2020-04-06 15:23:26 ...
+creations-chat 2020-04-06 15:24:32 Hmm
+creations-chat 2020-04-06 15:24:35 I have made a base
+creations-chat 2020-04-06 15:24:37 In plane crazy
+creations-chat 2020-04-06 15:24:46 Does that count as a land vehicle?
+creations-chat 2020-04-06 15:25:00 It has a rocket, a functional gate
+creations-chat 2020-04-06 15:25:23 You guys think we'll get the pulsejet engine?
+creations-chat 2020-04-06 15:29:09 ...
+creations-chat 2020-04-06 15:29:24 Are the rocket engines broken?
+creations-chat 2020-04-08 18:58:03 https://gyazo.com/a722c1a7f691608cb65665e3fbc52865
+creations-chat 2020-04-08 18:58:23 Hmm
+creations-chat 2020-07-04 12:15:17 lol
+bot-central 2021-04-13 21:46:22 !ypdate
+bot-central 2021-04-13 21:46:24 !update
+bot-central 2021-04-13 21:46:27 -update
+bot-central 2021-04-13 21:46:31 -verify
+bot-central 2021-04-13 21:46:35 ltls_Meh
+bot-central 2021-04-13 21:46:41 -verify -ltls_Meh
+bot-central 2021-04-13 21:46:47 -verify ltls_Meh
+bot-central 2021-12-15 13:54:14 !verify
+bot-central 2021-12-15 13:54:28 !update
+bot-central 2021-12-15 13:55:34 !rank
+creations-chat 2021-12-15 14:11:13 <:TYP03_Shrug:820724800229343242>
+I spent hours on mine working to get them to fly perfectly and be combat ready, even trying to hide a lot of the additional stuff
+creations-chat 2021-12-15 14:14:15 Yeah it's not that easy especially on those planes. Making them hover on the spot is surprisingly hard without putting the hover thrusters under the plane

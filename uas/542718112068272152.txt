@@ -1,9 +1,14 @@
-Mini-Lizard
-plane-crazy 2019-11-30 23:48:36 then rejoin again
-plane-crazy 2019-11-30 23:46:49 can i get the badge now?
-plane-crazy 2019-11-30 23:46:39 i have a huge destroyer thats 1000+ blocks big
-plane-crazy 2019-11-30 23:46:05 it was one of my first creations
-plane-crazy 2019-11-30 23:44:59 mine is advanced
-plane-crazy 2019-11-30 23:44:40 what?
-plane-crazy 2019-11-30 23:44:32 can i get the submarine commander rank?
-plane-crazy 2019-11-30 23:44:23 i have a submarine that can submerse
+The Tale of Mini-Lizard (542718112068272152)
+help 2020-01-13 16:34:23 What is a conveyor engine
+help 2020-01-13 16:34:31 And a piston conveyor drive
+bug-reports 2020-02-07 16:18:27 I made a plane that has it’s wings attached with a quad-walker system and rotators so the wings can swivel down and it can start walking, but as soon as I spawn, the wings start glitching out like crazy and going through each other, often having it glitch away into the sky. Any idea why this is happening? I only have motors and pistons.
+bug-reports 2020-02-07 16:18:36 It’s really annoying
+bug-reports 2020-02-08 00:28:56 Also, I bet most of you have noticed that the parachutes (at least the player ones) are seriously bugged, flinging the player to their deaths after a few seconds. Turning off ragdoll only delays this for a good ten seconds. I would love to see this fixed.
+bug-reports 2020-02-08 16:35:43 the captures are too big to post here
+bug-reports 2020-02-08 17:47:39 Dunno
+bug-reports 2020-02-08 17:47:49 I used windows gaming bar
+bug-reports 2020-02-08 17:47:57 A minute each
+bug-reports 2020-02-08 18:30:21 How is a minute long windows gaming bar capture at low quality too large to send?
+bug-reports 2020-02-21 16:08:31 Fix motors
+bug-reports 2020-02-21 16:08:51 What is the craziest thing you’ve seen?
+bug-reports 2020-02-21 16:11:25 Woah

@@ -1,0 +1,21 @@
+The Tale of gam3r_play3r (577028730560577537)
+bot-central 2021-05-25 11:52:20 !rank
+bot-central 2021-05-25 11:52:34 The instructions said that I need to be level 3
+bot-central 2021-05-26 11:58:15 !rank
+bot-central 2021-05-26 12:01:57 !rank
+bot-central 2021-05-26 12:07:05 !rank
+bot-central 2021-05-26 12:07:57 !rank
+bot-central 2021-05-26 12:08:12 !rank
+bot-central 2021-05-27 15:32:26 $rank
+bot-central 2021-05-27 15:33:01 !rank
+bot-central 2021-05-27 15:33:07 $rankrequest
+help 2021-05-27 16:14:42 Do I have to wait for the emoji to change in order to get a rank
+help 2021-05-27 16:14:45 cuz I have to be offline rn
+help 2021-05-27 16:15:41 ok
+help 2021-05-27 16:20:13 how do you add more than one image in <#384025409945337856> like this guy
+help 2021-05-27 16:20:38 The votes aren't separated unlike mine
+help 2021-05-27 16:21:06 
+help 2021-05-29 05:47:38 Tried to add 2 images at once in <#384025409945337856> using links, but it prevented me from posting and gave me this notification
+help 2021-05-29 05:57:53 wdym
+help 2021-05-29 06:00:12 nvm, I found a solution
+bot-central 2021-05-29 06:11:04 !rank

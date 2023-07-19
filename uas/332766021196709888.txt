@@ -1,34 +1,33 @@
-conflip
-plane-crazy 2020-04-15 12:47:46 ok
-plane-crazy 2020-04-15 12:47:30 bruh
-plane-crazy 2020-04-15 12:47:19 show
-plane-crazy 2020-04-15 12:47:05 wym poob
-plane-crazy 2020-04-15 12:46:40 this ain't bug reports
-plane-crazy 2020-04-15 12:45:25 what
-plane-crazy 2020-04-15 12:44:56 what
-plane-crazy 2020-04-15 12:43:55 fonkl is a server admin
-plane-crazy 2020-04-01 23:12:12 -freeadmin
-plane-crazy 2019-09-15 21:16:20 what
-plane-crazy 2019-09-15 21:16:09 what
-plane-crazy 2019-09-15 21:13:13 sad
-plane-crazy 2019-09-15 21:12:25 what
-plane-crazy 2019-09-15 21:12:03 xd
-plane-crazy 2019-09-15 21:11:00 wdym kinda good
-plane-crazy 2019-09-15 21:10:39 yes
-plane-crazy 2019-09-15 20:58:43 sad story
-plane-crazy 2019-08-14 00:17:53 why do no one like monorails
-plane-crazy 2019-08-13 18:49:50 oof roblox is down
-plane-crazy 2019-08-09 13:10:40 ok
-plane-crazy 2019-08-09 13:10:28 what role
-plane-crazy 2019-08-09 13:09:35 why am i unable to post suggestions
-plane-crazy 2019-08-09 00:46:44 you spelt stealth wrong
-plane-crazy 2019-08-09 00:45:57 what im not talking to u
-plane-crazy 2019-08-09 00:45:20 is he talkin about bombs
-plane-crazy 2019-08-09 00:44:10 stooped
-plane-crazy 2019-08-09 00:43:36 yeah u did
-plane-crazy 2019-08-09 00:43:21 hows it fly
-plane-crazy 2019-08-09 00:43:15 yeah but u said torpedoes are made for water
-plane-crazy 2019-08-09 00:42:41 hows it fly
-plane-crazy 2019-08-09 00:41:56 i want a description
-plane-crazy 2019-08-09 00:41:37 whats a torpedo anyway
-plane-crazy 2019-08-09 00:40:29 e
+The Tale of conflip (332766021196709888)
+bug-reports 2018-11-11 12:04:54 &suggest add material textures like the ones in roblox studio
+bug-reports 2018-11-11 12:05:08 a
+bug-reports 2018-11-11 12:05:33 i thought this was suggestions submissions
+bug-reports 2018-11-11 12:05:37 aaaaa
+bug-reports 2018-11-11 12:05:49 oof
+bug-reports 2019-08-09 00:16:22 e
+bug-reports 2019-08-09 00:16:33 e
+bug-reports 2019-08-09 00:28:26 e
+help 2019-08-09 00:40:04 how to post suggestions
+help 2019-08-09 00:40:11 am stupid
+help 2019-08-09 00:55:24 o ok
+bot-central 2019-08-09 01:21:04 &suggest  add a different type of saving called "part saving" where multiple of these can be loaded onto the players' plot. Simply put it, for example, the parts of a vehicle; chassis, body, engine could be saved separately and can be loaded onto the players' plot all at the same time.
+bot-central 2019-08-09 01:22:28 why wont it work
+bot-central 2019-08-09 12:54:15 &suggest  add a different type of saving called "part saving" where multiple of these can be loaded onto the players' plot. Simply put it, for example, the parts of a vehicle; chassis, body, engine could be saved separately and can be loaded onto the players' plot all at the same time.
+the-dump 2019-09-15 20:09:48 **a**
+bug-reports 2019-10-22 21:33:50 how
+~??
+bot-central 2020-02-01 17:53:13 !servers
+bot-central 2020-03-27 23:14:06 o
+creations-chat 2020-04-03 10:11:11 6 block plane that flies very good. i call it red nose
+bot-central 2020-04-04 10:01:55 =S
+bot-central 2020-04-04 10:23:37 ?whois
+creations-chat 2020-05-05 17:24:55 bruh it's a link not a image
+creations-chat 2020-05-05 17:25:23 use the + ting at left of screen
+bug-reports 2020-06-07 01:59:23 if Train Wheels are spawned backwards on the rails, then the controls do the opposite (go backwards when w is pressed)
+bug-reports 2020-06-07 02:00:45 they do exactly what they're supposed to do when spawned forwards
+bug-reports 2020-06-07 02:02:39 also in the build menu there's no space in-between Train and Wheel, but on every other block it is spaced properly
+bug-reports 2020-06-10 10:59:04 the motors lock and reset configuration are incompatible with each other. it does lock but it doesn't reset. Not sure if it's supposed to be that way
+bug-reports 2020-11-07 01:11:13 motor 2 doesn't rotate anti clockwise with servo, toggle and inverted option on with a set max angle
+bug-reports 2020-11-07 01:13:53 in short the invert option doesn't work at all
+bot-central 2021-09-15 20:18:31 ?whois
+bot-central 2022-04-19 00:14:46 -minecraft

@@ -1,22 +1,215 @@
-frvsti
-plane-crazy 2020-07-18 09:26:04 I guess makes it shoot out smoke in one straight line like a pole
-plane-crazy 2020-07-16 12:31:57 <@456226577798135808>
-plane-crazy 2020-07-16 12:31:28 Did you get permission
-plane-crazy 2020-07-16 12:31:14 I can legit join your game rn
-plane-crazy 2020-07-16 12:31:09 Bruh again
-plane-crazy 2020-07-16 12:30:10 > Let the person who built it take a pic
-<@!488043585443332096>  he’s not in the server so yeah
-plane-crazy 2020-07-13 15:59:52 > 4 sections
-<@315262125113081856>  I also meant 3 sections-
-plane-crazy 2020-07-13 15:46:25 That looks like a three fold to me
-plane-crazy 2020-07-11 12:37:22 Jesus, swashplates look complicated as hecc
-plane-crazy 2020-07-11 12:35:03 I made a uh-144 falcon and it took a while to fly well and hover
-plane-crazy 2020-07-11 12:34:29 While*
-plane-crazy 2020-07-11 12:34:26 Making helis work like helis is kinda of a pain for me but worth the whole
-plane-crazy 2020-07-09 06:11:19 Epic Apache
-plane-crazy 2020-07-04 17:11:20 <:what:644996672048463942>
-plane-crazy 2020-07-04 17:10:54 Hard choice indeed
-plane-crazy 2020-07-04 17:10:35 <:lmfao:527971550360633393>
-plane-crazy 2020-06-24 06:16:13 I just use shredders to kill other shredders
-plane-crazy 2020-04-30 02:24:09 thOnk
-plane-crazy 2020-04-30 02:24:05 isn't it what its supposed to be?
+The Tale of frvsti (411899596785057803)
+the-dump 2020-04-29 04:48:12 
+the-dump 2020-04-29 04:53:04 
+the-dump 2020-04-29 04:53:26 
+bot-central 2020-04-30 02:15:29 !servers
+the-dump 2020-04-30 02:22:38 NO
+the-dump 2020-05-31 06:55:54 
+the-dump 2020-05-31 06:56:40 
+the-dump 2020-05-31 07:25:11 it seems like I did an oopsie
+the-dump 2020-05-31 07:26:16 > this server is anarchy now until another guy wakes up
+<@!218240161719386112> isn't that every server?
+the-dump 2020-06-13 10:06:55 
+the-dump 2020-06-13 12:00:53 
+the-dump 2020-06-20 01:32:25 
+the-dump 2020-06-23 13:02:57 
+the-dump 2020-06-24 06:13:20 
+the-dump 2020-07-03 13:09:29 <:lmfao:527971550360633393>
+creations-chat 2020-07-04 17:03:30 > my first heli :)))
+<@!419477639229865984>  looks more like a vtol than a heli
+creations-chat 2020-07-04 17:04:34 pErHaps
+creations-chat 2020-07-04 17:05:50 Well vtol refers in general to vertical take off aircrafts, so a helicopter is the best example
+creations-chat 2020-07-04 17:06:07 Alright adios (nice “heli” by the way)
+the-dump 2020-07-04 17:16:10 
+help 2020-07-06 13:06:10 > I deleted it in it's entirety and it still spawns.
+<@!292712199200178186>  you could have misplaced a block and it glitched under your plot, move the build upwards and you might find it
+the-dump 2020-07-06 14:47:59 
+the-dump 2020-07-06 14:48:38 :>
+the-dump 2020-07-10 14:43:12 
+the-dump 2020-07-11 01:52:26 
+help 2020-07-11 02:09:32 <@492062192200450049> I suggest you try to make it where when you flip the heli and use the rotors as the base of your balance (it will take a while to make it balanced, you can use motor 2s for each blade to adjust the position or the blades to either rise in altitude or lower in altitude
+help 2020-07-11 02:10:24 Try to reduce or increase the motor speed to prevent it from rising nor falling ya gotta get that perfect balance
+help 2020-07-11 02:10:42 And yeah ballast blocks and stuff can help in balancing
+help 2020-07-11 02:10:51 Or helium
+help 2020-07-11 02:11:09 I see
+help 2020-07-11 02:11:30 I’m too lazy to get roles even though I have good builds
+help 2020-07-11 02:11:32 Lol
+help 2020-07-11 02:11:38 Yes
+help 2020-07-11 02:12:04 Basically you want to use servo mode
+help 2020-07-11 02:12:24 And use the angle as the limit to how far the blades can adjust
+help 2020-07-11 02:12:49 It would most likely mess the whole thing up-
+help 2020-07-11 02:14:00 Torque isn’t much of a difference in my opinion
+help 2020-07-11 02:14:04 I just make it maxed
+help 2020-07-11 02:14:14 It’s only the strength of your motor
+help 2020-07-11 02:14:26 Ah frick spelling
+help 2020-07-11 02:15:29 Torque can be used for land vehicles or smth
+help 2020-07-11 02:15:34 Cuz it comes in contact
+help 2020-07-11 02:18:03 Something like this
+help 2020-07-11 02:18:09 The motor 2s are on each blade
+help 2020-07-11 02:18:20 You can apply this for the heli as well
+help 2020-07-11 02:19:34 Use motor 1 for normal/base hovering mode
+help 2020-07-11 02:19:51 The motor 2s are for change in altitude
+help 2020-07-11 02:20:14 I’ll send a demonstration
+help 2020-07-11 02:20:24 Want it in dms or here? <@492062192200450049>
+help 2020-07-11 02:22:28 Aight*
+help 2020-07-11 02:28:31 What did you put the servo mode angel at-
+help 2020-07-11 05:45:59 I ain’t dead
+help 2020-07-11 05:57:36 Just used dms
+the-dump 2020-07-11 12:32:29 
+creations-chat 2020-07-12 16:12:14 I honestly don’t like downvoting unless it just has no work put into it
+creations-chat 2020-07-12 16:12:47 It’s good man
+creations-chat 2020-07-12 16:12:56 Very ebik
+creations-chat 2020-07-12 16:13:23 :00 wot engines
+creations-chat 2020-07-12 16:13:42 Aight
+creations-chat 2020-07-12 16:13:54 Perhaps
+help 2020-07-12 16:15:08 > anyone knows how to make a 3x3 star?
+<@724461096349728824>  just mess around with wedges and you’ll get something lol
+bug-reports 2020-07-12 16:16:36 Neither do I
+the-dump 2020-07-12 16:17:22 The dump is truly a magical channel
+creations-chat 2020-07-13 15:56:33 What are the rarest builds you see in plane crazy
+creations-chat 2020-07-13 15:56:37 Just curious
+creations-chat 2020-07-13 15:57:18 Interesting
+creations-chat 2020-07-13 15:58:18 Indeed
+help 2020-07-14 02:37:01 Motor 2s and balance
+help 2020-07-14 02:41:04 I just use motor 2s to rise or lower in altitude, but yeah keeping balance is a big problem lol
+help 2020-07-14 03:02:11 yes its locked motors
+the-dump 2020-07-16 04:56:24 Plane Crazy Heaven
+the-dump 2020-07-16 05:07:28 F
+the-dump 2020-07-16 10:55:38 
+creations-chat 2020-07-16 16:02:43 Why do some people never add an anchor block for each fold of a ship or carrier
+the-dump 2020-07-18 12:58:54 <:pogey:651848693842182144>
+the-dump 2020-07-18 17:21:19 
+the-dump 2020-07-21 00:54:32 
+the-dump 2020-07-23 12:26:32 
+the-dump 2020-07-23 12:34:04 
+the-dump 2020-08-01 01:44:31 
+the-dump 2020-08-07 15:20:05 
+the-dump 2020-08-07 15:21:48 SHIT
+the-dump 2020-08-07 15:22:06 That is so genius lmao
+the-dump 2020-08-08 09:37:39 <:BIG1:588443768806703124> <:BIG2:588443778554134540> 
+<:BIG3:588443788721258534> <:BIG4:588443798842114088>
+the-dump 2020-08-10 16:25:54 
+the-dump 2020-08-14 11:52:11 
+the-dump 2020-08-23 01:27:10 
+the-dump 2020-08-23 05:54:10 <:bruhaps:646045387911725106>
+bot-central 2020-09-04 08:38:56 !verify add
+bot-central 2020-09-04 08:39:01 A
+the-dump 2020-09-05 14:03:59 
+the-dump 2020-09-10 09:03:21 
+the-dump 2020-09-12 17:33:10 
+the-dump 2020-09-17 17:10:23 
+bot-central 2020-09-18 19:43:19 !verify
+bot-central 2020-09-18 19:43:21 a
+bot-central 2020-09-18 19:43:50 ?help
+bot-central 2020-09-18 19:44:44 !help
+bot-central 2020-09-18 19:45:46 -verify
+bot-central 2020-09-18 19:45:53 -verify FrostyChrome
+bot-central 2020-09-18 19:46:28 a
+the-dump 2020-10-09 16:15:10 
+the-dump 2020-10-09 16:24:30 
+creations-chat 2020-10-27 05:00:46 > Has motor lock evolved to a point that it’s uncontrollable?
+<@!403843930543882241>  very much yes
+creations-chat 2020-10-27 05:05:10 Woah there buster-
+creations-chat 2020-10-27 05:06:12 Mhm, lmao
+the-dump 2020-10-27 05:20:39 <:PogU:670373666164572172>
+the-dump 2020-10-27 14:28:27 
+the-dump 2020-11-14 13:04:29 ***b r u h***
+the-dump 2020-11-14 13:05:30 Lmao-
+creations-chat 2020-11-21 08:26:31 a
+creations-chat 2020-11-21 08:28:03 lmao-
+the-dump 2020-11-23 14:19:04 
+the-dump 2020-11-23 14:19:22 <:Yikes:704804144657203220>
+creations-chat 2020-11-23 14:25:49 <:hahaa:773727260539617280>
+creations-chat 2020-11-25 04:17:23 Do y’all have any suggestions for the length and width of the feet, I’m trying to make it as tall as half the maximum building height
+the-dump 2020-11-26 04:29:01 <:what:644996672048463942>
+help 2020-11-26 08:51:40 literally nothing, it's just a solid block
+bug-reports 2020-11-26 08:51:57 <:ElonWoke:589674854798589962>
+bug-reports 2020-11-26 08:53:00 damn
+bug-reports 2020-11-26 08:53:02 lmao
+creations-chat 2020-11-26 18:56:33 I can agree to some extent
+creations-chat 2020-11-26 19:05:25 <:pogey:651848693842182144>
+creations-chat 2020-11-26 19:06:58 That’s exactly the point, speed and armor is key
+creations-chat 2020-11-26 19:08:48 Thanks- and for your question, there is a shoulder joint, bicep joint and a wrist joint, the rest I’m pretty sure you can figure out it’s workings
+creations-chat 2020-11-26 19:10:20 About 14 keybinds-
+creations-chat 2020-11-26 19:14:04 YES, but ngl it’s fun and satisfying when someone flies straight into your weapon shattering to pieces
+creations-chat 2020-11-26 19:16:13 Mhm, much sad <:hahaa:773727260539617280>
+creations-chat 2020-11-26 19:18:12 Would you mind sending a picture in dms , I’m curious lmao-<:OkayChamp:709084018485887096>
+creations-chat 2020-11-26 19:19:44 It really do be like that <:Shrugje139:652564379577090074>
+creations-chat 2020-11-26 19:24:36 Good luck my g<:PewPew:532303441293344778>
+bot-central 2020-11-27 13:14:18 !servers
+bot-central 2020-11-27 13:14:20 welp
+bot-central 2020-11-27 13:14:35 ah right, my pea brain forgot
+creations-chat 2020-11-27 18:24:55 <:bruhaps:646045387911725106>
+creations-chat 2020-11-28 19:01:08 That one dude with shit internet
+creations-chat 2020-11-28 19:05:49 <:pogey:651848693842182144>
+help 2020-11-28 19:14:49 Does it count as forward motion and turning if the mech requires a-bit of momentum using rockets (talking about robotics specialist rank)
+help 2020-11-28 19:16:12 Like it used motors and shit to walk but the rockets just helps it balance a little I guess
+help 2020-11-28 19:16:19 Alr
+help 2020-11-28 19:16:22 Pog
+help 2020-11-28 19:16:36 Arigato
+help 2020-11-28 19:18:04 :c
+help 2020-11-28 19:18:06 Alr thanks either way
+help 2020-11-28 19:19:16 That is not physically possible even in plane crazy terms lmao
+help 2020-11-28 19:19:21 <:Wokeje139:604492580369203210>
+bot-central 2020-11-29 09:58:15 !servers
+bot-central 2020-11-29 10:00:33 oop\
+bot-central 2020-11-29 10:00:48 ?whois <@!432134043379826708>
+bot-central 2020-11-29 17:17:05 !servers
+bot-central 2020-11-30 01:55:01 !servers
+bot-central 2020-11-30 07:50:10 !server
+bot-central 2020-11-30 07:50:13 !servers
+the-dump 2020-11-30 15:58:31 
+bot-central 2020-11-30 17:03:03 !servers
+bot-central 2020-12-02 04:03:20 -av
+bot-central 2020-12-02 04:03:27 !servers
+bot-central 2020-12-03 08:59:28 !servers
+bot-central 2020-12-03 14:09:40 !servers
+creations-chat 2020-12-03 15:27:00 **F**
+creations-chat 2020-12-03 15:30:32 try using more wedges, it looks too smooth, smoother than a baby's buns
+creations-chat 2020-12-03 15:40:12 well, we are trying to help here are we not?-
+creations-chat 2020-12-03 15:43:08 it really do be like that
+creations-chat 2020-12-03 18:42:00 When you’re creation is missing one block for the expert rank but you are too honest to cheat the system <:hahaa:773727260539617280>
+help 2020-12-03 18:43:37 Give the legs some cake
+help 2020-12-03 18:44:00 It looks like a lollipop with two sticks at the moment
+creations-chat 2020-12-03 18:47:40 Fascinating, well let’s hope you read everything and don’t get Nae Nae’d by the mods
+creations-chat 2020-12-03 18:50:22 (The dump but with standards)
+creations-chat 2020-12-03 18:52:24 exactly <:PewPew:532303441293344778>
+creations-chat 2020-12-03 18:58:46 ^^^
+creations-chat 2020-12-03 19:00:57 <:m_:778994206948589638>
+help 2020-12-03 19:02:39 Can you try folding it and then send a screenshot of how it doesn’t fold properly
+help 2020-12-03 19:03:21 H m
+help 2020-12-03 19:03:27 Seems like you’ll need to add more blocks to one of the folds
+help 2020-12-03 19:04:05 Iike add some more blocks to fill the gap on one section
+help 2020-12-03 19:04:13 Cuz there is a gap, yes?
+help 2020-12-03 19:07:18 <:m_:778994206948589638>
+bot-central 2020-12-06 10:19:41 !servers
+creations-chat 2020-12-06 15:42:02 yeah-
+creations-chat 2020-12-06 15:44:03 ***F***, lemme help ya there
+creations-chat 2020-12-24 04:05:58 <@!586503838450843648>, if you wunna request for a rank,you gotta read <#705941616199991307> and <#609442446249820211>
+creations-chat 2020-12-24 04:07:59 do the command in bots channel to make the ticket. This 2 minute slow mode is pain
+creations-chat 2020-12-24 04:10:54 <@!330157638367313921>, the design already looks good, although, I suggest trying other mech mechanisms instead of shuffling, there are some tutorials that can help you grasp the concept better.
+bot-central 2021-01-17 04:02:58 !servers
+help 2021-03-31 06:29:17 sir, may I ask h o w
+help 2021-03-31 06:30:39 I am losing brain cells over this for an apparent reason lol
+help 2021-03-31 06:33:21 <:empty:794431705070174238>
+creations-chat 2021-04-05 00:47:36 you gotta download the skybox textures and replace em in the roblox textures files
+bot-central 2021-05-06 17:19:55 !servers
+creations-chat 2021-10-21 17:00:44 much appreciated feedback, I'll test it out
+creations-chat 2021-10-21 17:03:06 <:Gjob:795856522935533598>
+the-dump 2021-11-10 14:06:50 https://cdn.discordapp.com/attachments/875366476041826334/907944079374028820/download_7.mp4
+the-dump 2021-11-14 06:14:47 
+the-dump 2021-11-14 06:16:04 
+the-dump 2021-11-14 11:11:55 
+the-dump 2021-11-14 11:14:41 <:BroChill:789064029720543262>
+the-dump 2021-11-14 11:15:14 <a:853812650743693332:858593595182153728>
+the-dump 2021-11-14 11:19:00 <:crylmao:854434624730300446>
+the-dump 2021-11-14 11:19:18 https://tenor.com/view/neco-arc-cope-seethe-mald-gif-23320121
+the-dump 2021-11-14 11:19:35 <:BroChill:789064029720543262>
+the-dump 2021-11-14 11:20:11 wbt a mackerel
+the-dump 2021-11-14 11:20:24 <:what:777188358903693344>
+bot-central 2021-11-14 11:20:39 !rank
+bot-central 2021-11-14 11:20:49 <:DiCaprioLaugh:778659394933620767>
+the-dump 2021-11-14 11:21:45 surprise adoption
+the-dump 2021-11-15 08:26:38 
+the-dump 2021-11-15 16:39:25 
+the-dump 2021-11-24 17:57:38 https://cdn.discordapp.com/attachments/752400344780243025/912876934084563044/video0.mov

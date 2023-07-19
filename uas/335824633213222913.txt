@@ -1,15 +1,49 @@
-shawnbick
-plane-crazy 2020-03-19 13:21:00 easy
-plane-crazy 2020-03-19 13:16:35 <@!503108213932032000> what about the p.1000 ratte?
-plane-crazy 2020-03-19 02:13:04 lol
-plane-crazy 2020-03-19 02:01:44 mind helping me through the process?
-plane-crazy 2020-03-19 01:58:06 because i don't use my epiclolz113 account due to some issues with roblox
-plane-crazy 2020-03-19 01:57:43 what i was getting at is my nickname
-plane-crazy 2020-03-19 01:57:35 actually lets drop it here
-plane-crazy 2020-03-19 01:56:49 hold up lets take this to general
-plane-crazy 2020-03-19 01:56:38 two why is your first response calling somebody dumb?
-plane-crazy 2020-03-19 01:56:16 not my actual discord name for one
-plane-crazy 2020-03-19 01:55:18 (on discord)
-plane-crazy 2020-03-19 01:55:04 (also i still need to find out how to switch my name)
-plane-crazy 2020-03-19 01:54:30 Caution: contents *may* be hot
-plane-crazy 2019-06-23 17:24:06 oh
+The Tale of shawnbick (335824633213222913)
+creations-chat 2018-11-02 22:24:26 my first attempt at master scientist https://www.youtube.com/watch?v=HgkYPN3e_xM&feature=youtu.be
+creations-chat 2018-11-03 18:28:02 which variant looks better? swat or military
+creations-chat 2018-11-03 18:28:07 
+creations-chat 2018-11-03 18:34:24 forgot to mention, both variants have a different style of bumper and gun
+creations-chat 2018-11-03 18:38:21 
+creations-chat 2018-11-03 18:38:30 
+creations-chat 2018-11-03 18:38:52 the  military variant's gun can go up or down via piston
+bug-reports 2018-11-03 21:08:36 saving any vehicle using the color value 200,200,200 will result in any block with that value turning a lavender purple when loaded again
+bug-reports 2018-11-03 21:11:42 
+help 2018-11-04 00:47:50 how do i make rotors lock
+creations-chat 2018-11-06 01:58:03 my attempt at prop master
+creations-chat 2018-11-06 01:58:05 https://www.youtube.com/watch?v=jEMlxSU-AXg
+help 2018-11-06 23:06:43 I need help making a folding runway
+help 2018-11-07 12:54:39 <@233666698715070465> your heli isn't countering rotation
+help 2018-11-07 12:55:16 Use a second blade that rotates in the opposite direction
+help 2018-11-07 12:55:31 Or a prop engine  on the back
+help 2018-11-08 22:19:03 Rockets are broken
+help 2018-11-08 22:19:30 They disappear when fired
+bug-reports 2018-11-08 23:04:52 Rockets are broken and my saves are corrupted
+bug-reports 2018-11-08 23:05:07 Rockets just disappear
+bug-reports 2018-11-08 23:08:30 Joined the game and tried to load them
+bug-reports 2018-11-08 23:08:38 So I built a plane
+bug-reports 2018-11-08 23:08:44 And added rockets
+bug-reports 2018-11-08 23:08:52 And went to the arena
+bug-reports 2018-11-08 23:09:15 Then realized the rockets disappear when fired
+bug-reports 2018-11-09 14:29:25 A bunch of people probably lost a ton of time from corrupted saves
+bug-reports 2018-11-09 14:29:38 And some contest submissions
+bug-reports 2018-11-09 14:31:32 The anchor block freezes the entire creation
+bug-reports 2018-11-09 14:31:54 <@305738900427505664>
+creations-chat 2018-11-09 14:44:49 I  want to make a spider mech later
+bug-reports 2018-11-09 23:09:53 That may explain why all my saves are corrupted
+creations-chat 2018-11-11 22:07:36 Help
+creations-chat 2018-11-12 01:13:06 Lightspeed, please
+creations-chat 2018-11-12 01:14:18 
+creations-chat 2018-11-12 01:14:47 
+creations-chat 2018-11-12 01:16:31 <@!317791690788306946>
+help 2018-11-12 19:15:37 <@243490235265056769> use a half wedge
+bug-reports 2018-11-13 19:28:09 Laggy server
+the-dump 2018-11-13 20:32:36 suck
+the-dump 2018-11-13 20:34:23 banana earphone nuckles
+bug-reports 2018-11-14 20:38:29 it seems that if you try to start flying a vehicle for a second time once in a server it won't let you
+bug-reports 2018-11-14 20:43:38 nvm it just my vtol it won't let my fly
+bug-reports 2018-11-14 20:49:18 https://www.youtube.com/watch?v=XZdgdJiKIh8
+creations-chat 2018-11-15 19:43:49 Lol
+the-dump 2020-01-13 15:37:08 
+the-dump 2020-01-13 15:39:49 
+the-dump 2020-01-13 15:40:10 XD, ok
+bot-central 2020-03-19 02:16:50 !help

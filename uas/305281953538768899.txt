@@ -1,4 +1,37 @@
-endeyfire
-plane-crazy 2020-05-13 20:01:17 <@217336009455566848>  aye sorry for the ping but i was wondering if yall still had a pic of the new map that yallve been hinting at. also hows your day goin.
-plane-crazy 2019-08-31 03:06:51 e
-plane-crazy 2019-08-28 02:59:54 Whats the density of the water in plane crazy?
+The Tale of endeyfire (305281953538768899)
+the-dump 2019-01-27 17:48:00 *grabs gun* i got 7 bullets who wants to die as well?
+help 2019-08-28 03:01:23 Whats the density of the water in game?
+bug-reports 2019-10-15 09:29:27 <@217336009455566848> ive gotten flung from a mixture of block interation and parachutes. Tho i cant pinpoint whatever it may have been, as i was damn well going lightspeed.
+bug-reports 2019-10-15 09:31:03 But thats about all i can tell u. It may include water as well. Tbh i like the bug, and i feel like its less of yalls faults as devs, and more so the game engine just gaining way to may inputs, and outputting u(as the player) at lightspeed as the result.
+bug-reports 2019-10-15 09:31:22 It doesnt happen often, and when it does. Its funny.
+bug-reports 2019-10-15 09:33:18 Unless it becomes a very common occurrence, id sudgest leaving it be, unless someone is able to fix it or finds something evidential to make it noteable.
+bug-reports 2019-10-15 09:33:42 (I mean. Common, who doesnt like going lightspeed)
+help 2020-03-11 13:17:48 my game keeps saying "account is restricted" for plane crazy, im on a s9+. has the update rolled out completely yet or have i been banned?
+help 2020-03-11 13:19:36 may i know why?
+help 2020-03-11 13:19:55 i havnt been remotely able to touch this game for at least half a year.
+help 2020-03-11 13:21:49 the only conclusion i have to being banned is a A-hole who has my acc (a bud helped me comfirm this) and ive been trying to shake him for some time now. but idk what the dude does while im off so i cant say for certain.
+help 2020-03-11 13:22:43 but i would appreciate confirmation on weather or not ive been banned.
+help 2020-03-11 13:22:52 or if my games slow
+help 2020-03-11 13:23:34 i have 2fa. i have the pin lock for my settings. i will change my pass and hope for the best :/
+help 2020-03-11 13:25:31 i can assume the person yeeted himself on my account. i can never say for certain.
+help 2020-03-11 13:25:53 but i do know some prick other than me uses my account xd
+help 2020-03-11 13:26:50 im not trying to cuase i know theres a load of kids who wanna learn it in middle school.
+help 2020-03-11 13:27:14 :p
+help 2020-03-11 13:28:01 pretty much.
+help 2020-03-11 13:30:04 it works now? xd
+help 2020-03-11 13:30:35 im just curious to what happened at this point :0
+bug-reports 2020-04-15 03:46:59 in mobile, when placing stuff in general, shit like this constantly occurs
+bug-reports 2020-04-15 03:47:17 it is moderately annoying, and sometimes outright game breaking.
+bug-reports 2020-04-15 03:49:51 in this instance, i have a 3by3 opening where im trying to put in the large rocket engine, however, the placement keeps being anywhere but inside the hole, and if it is in the hole, its invalid.
+
+best way to describe this would be trying to put the two north ends of a magnet together.
+bug-reports 2020-04-15 09:02:51 <@217336009455566848> i think its more along the lines of where the "place" point of the block is, per say the thruster being 3by3by4. that "place point" being im the back middle which gets abit irritating to place.
+
+id sudgest having the blocks or placement system, for on mobile at least, allow abit of placement leeway. but thanks for letting me know :D
+help 2020-04-22 00:41:10 uhhhh... ya know... its kind of hard to report players using <#623337136267067393> when i cant send screenshots
+help 2020-04-22 00:42:05 maybe set up a bot? but uhh, im not *that* smart and most others probably arnt *as* smart to dig through their phones and tablets for the screenshot, then somehow convert it to a link.
+help 2020-04-22 00:42:31 im just saying, something should be done about this >.>
+bug-reports 2020-04-22 12:50:20 **anger**
+bug-reports 2020-04-22 12:50:25 
+bug-reports 2020-04-22 12:51:14 mobile building controlls. stuff like this happens.
+bug-reports 2020-04-22 12:52:06 i have the delta 1b4 wing panel selected in the first pic, but when i try to put it on the side, it just doesnt.

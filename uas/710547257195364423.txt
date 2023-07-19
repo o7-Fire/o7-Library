@@ -1,0 +1,49 @@
+The Tale of aeg1s_intercept (710547257195364423)
+bot-central 2021-07-24 18:42:49 ?help
+bot-central 2021-07-24 18:43:25 !rank
+help 2021-08-28 02:12:46 so umm
+help 2021-08-28 02:12:51 Im making a copter
+help 2021-08-28 02:12:53 and
+help 2021-08-28 02:13:13 despite being level on the left and right side, it leans to the left when it takes off
+help 2021-08-28 02:13:36 right
+help 2021-08-28 02:14:46 
+help 2021-08-28 02:15:02 I can also provide a video of the issue if needed
+help 2021-08-28 02:15:21 yes
+help 2021-08-28 02:16:05 thanks
+help 2021-08-28 02:31:29 Im now presented with a new issue
+help 2021-08-28 02:32:19 Weight and Lift are balanced
+help 2021-08-28 02:32:32 but when I fly, it frontflips
+help 2021-08-28 02:40:52 nvm I managed to work it out
+help 2021-08-28 15:41:54 so I'd like some tips on improving my copter
+help 2021-08-28 15:42:00 it can fly, and decently at that
+help 2021-08-28 15:42:09 but it constantly wobbles
+help 2021-10-10 01:41:38 Nah, you just didnt use enough ballast blocks
+help 2021-10-10 01:43:32 nah
+help 2021-10-10 01:43:38 negative ballast
+creations-chat 2021-10-14 02:19:12 feedback since apparently everyone hates it?
+creations-chat 2021-10-14 02:59:07 okay, Im working on a new one rn
+but the huge fenders was a side effect of the wheels needing a stupid amount of clearance to not lockup
+creations-chat 2021-10-14 03:12:11 3x3 wheels are too big and 2x2 wheels are too small
+creations-chat 2021-10-14 03:42:52 Okay, here's the new one
+creations-chat 2021-10-14 05:00:50 as a rail enthusiast, I'd recommend using bogies. Most rail cars use multiple sets of wheels attached to the frame to get around tighter curves.
+creations-chat 2021-10-14 05:18:49 my mistake
+I just got the names mixed up, my model IS a W900
+Although it isnt a 1974
+creations-chat 2021-10-14 05:22:13 for the single stripe, blame plane crazy, I DO have another model with more accurate stripes and for the colors, I just suck at making custom ones. this is still a WIP though. it's just finished for now
+bot-central 2021-10-14 06:04:16 !rank
+creations-chat 2021-10-14 17:49:00 yo Double
+creations-chat 2021-10-23 18:54:49 I added the trailer to my Kenworth, thoughts?
+creations-chat 2021-10-23 18:58:35 well gosh dangit, now I wanna make a Cessna 172...
+bot-central 2021-12-26 21:06:42 !rank
+help 2021-12-29 23:18:04 Hi, Im trying to make a VTOL and, despite the center of mass being equal distances from both sets of lift engines, the vehicle still tilts backwards when lifting, could someone help?
+help 2021-12-29 23:20:43 its going vertical, slowly
+help 2021-12-29 23:20:52 and this is happening the moment it begins to rise
+help 2021-12-29 23:36:12 done, it works now, but requires A LOT of input to prevent it from losing control
+help 2021-12-29 23:36:22 but, with the right training, it can be ran
+creations-chat 2022-01-24 18:34:23 can I have some feedback on this Bell 74 Sioux
+creations-chat 2022-01-24 18:36:38 pretty cool
+texturing? its glass
+creations-chat 2022-01-24 18:38:43 <:hahaa:773727260539617280>👍 I agree with the person below me, out on the road, these things get pretty dirty
+creations-chat 2022-01-24 18:47:06 I'd add some basic detail to the wheel sets along with increasing their size
+creations-chat 2022-01-24 18:49:12 you
+increase wheel diameter and add some detailing to the outside

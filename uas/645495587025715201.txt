@@ -1,0 +1,53 @@
+The Tale of swordfastic (645495587025715201)
+help 2021-12-15 11:13:01 is there a block to fit in this space? (in the middle of screen) like a 
+half triangular wedge block?
+help 2021-12-15 11:17:03 fuvk
+help 2021-12-16 04:23:42 can some1 help me for design solutions to my blimp?
+note that i would like the  it to be realistic. (like not using jet engines to solve everything)
+The three problems i’m facing:
+
+1- when my blimp is damaged, it would float up instead of falling out of the sky due to the loss of blocks (= loss of weight + helium = fly higher)
+I want my blimp to take damage and instead sink instead of rise (like real life)
+
+2- how do i move the blimp up/down without the use of elevators? (i’m trying to find a solution that uses helium to make it rise or sink while not moving)
+
+3- how can i make my blimp more stable? (as in not take 5 blocks of damage and immediately break controls)
+help 2021-12-16 04:24:07 and also the damage u see is due to being in pvp arena for testing it’s stability
+help 2021-12-16 04:24:15 brb
+help 2021-12-16 04:26:47 i’m not gonna use vertical engines, i wanna make use of helium
+help 2021-12-16 04:27:33 wait so PC’s physics allows adding wing panels inside the blimp to stabilise?
+help 2021-12-16 04:27:58 idk how disconnectors work, but they sound like a 1 time use solution. i wanna go up and down as many times as i like
+help 2021-12-16 04:28:21 bruh
+help 2021-12-16 04:28:23 ok
+help 2021-12-16 04:28:48 was thinking of piston moving helium blocks
+help 2021-12-16 04:33:51 exactly. i was tryna find a solution to this, rn i can only think of moving helium forward to tilt the zeppelin up and go up horizontally, but i was trying to find a way to go up without tilting
+help 2021-12-16 04:38:33 hmm. for solution to question 1 do you think if i added tons of ballast into the blimp/zeppelin then add even more helium will work? this makes the zeppelin weight more on the inside and thus depend on the helium more, so the outside shell of the blimp doesn’t weight as much thus doesn’t have a bigger impact when damaged. since the ballast is on the inside, it gets damaged less often and helium goes first. thus the blimp will sink majority of the time
+help 2021-12-16 04:39:44 yeah but i did that, players destroying my helium will not cause proper tilting and damage of my zeppelin due to helium not depending on where it is
+help 2021-12-16 04:39:54 will look wierd
+help 2021-12-16 04:41:21 hard
+help 2021-12-16 05:53:24 can i ask
+help 2021-12-16 05:53:31 how does ballast tank work
+help 2021-12-16 05:54:00 does it work in air <:empty:794431705070174238>
+help 2021-12-16 05:54:54 <:WeirdChamp:670867805176070145>
+help 2021-12-16 05:55:21 does ballast tank work like ballast blocks? it decrease and increase density? no?
+help 2021-12-16 05:56:38 nani
+help 2021-12-16 05:56:42 bruh i’m just gonna go test
+help 2021-12-16 09:19:32 how do i suggest something, the channel isn’t open
+help 2021-12-16 09:19:36 ok
+bot-central 2021-12-16 09:19:48 ?shelp
+bot-central 2021-12-16 09:20:04 ?rhelp
+help 2021-12-16 09:24:13 can some1 help me suggest a 
+helium tank? it’s like ballast tank but for airships using helium
+help 2021-12-16 10:13:18 dude thrusters for everything sucks. i want to do it legit way
+help 2021-12-16 10:16:22 f
+help 2021-12-16 10:16:24 dude
+help 2021-12-16 10:16:29 give me my text back
+help 2021-12-16 10:17:02 bro
+help 2021-12-16 10:19:21 i can’t show video, but the COM line is not in the exact middle of the zeppelin and not at all balanced with the CoL. I use ballast blocks to balance both sides of the zeppelin, so the com guide line shouldn’t play a role that much, however when i activate my propellors, the zeppelin pitches up. what can i do about the lift to balance out?
+help 2021-12-16 10:20:24 <@!707953054489509978> hep
+help 2021-12-16 10:24:22 is there a guide line for cot
+help 2021-12-16 10:24:29 i don’t c any
+help 2021-12-16 10:25:55 : (
+help 2021-12-16 10:26:05 b but
+help 2021-12-16 10:26:16 how do i know where exactly it should be
+help 2021-12-16 10:26:30 there no lines for thrust

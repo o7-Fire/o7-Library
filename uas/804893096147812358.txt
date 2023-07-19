@@ -1,0 +1,44 @@
+The Tale of _liquifiedwater (804893096147812358)
+creations-chat 2021-06-13 14:49:32 what
+creations-chat 2021-06-13 14:51:37 oh, i just happen to be looking at suggestions
+bug-reports 2021-10-02 12:48:11 while doing testing for a competition, I found an issue:
+
+when two things have spawned at the rails, those two things will be treated as if they were black listed. not just that, but you can’t undo it unless you leave the server
+bug-reports 2021-10-04 01:31:32 one creation i have has the problem of when its motor 2’s are making contact with the body: it will do flips at random intervals
+bot-central 2021-12-07 00:32:13 !shelp
+bot-central 2021-12-07 00:32:40 ?shelp
+help 2021-12-07 02:26:40 I’ve made a battlebot for the competition but i can’t post bc no perms
+creations-chat 2021-12-07 02:29:45 i am here for the same reason so i suppose we talk
+help 2021-12-07 02:32:52 fair
+bot-central 2021-12-07 03:14:07 ?help
+bot-central 2021-12-07 05:37:41 !rank
+creations-chat 2021-12-11 19:43:29 not allowed in the rules
+bug-reports 2021-12-13 02:24:37 did you both spawn at the rails at some point? i know that two things spawned at the rails will have no collision. the solution is to have someone leave the sever
+events-chat 2022-01-18 01:36:24 this could be legal?
+events-chat 2022-05-01 00:53:20 Is there still open spots?
+events-chat 2022-05-01 01:59:00 Are there still open slots?
+events-chat 2022-05-01 01:59:37 yes
+events-chat 2022-05-01 02:00:27 alright
+events-chat 2022-05-01 02:01:02 wait, what are the still open slots?
+events-chat 2022-05-01 02:01:27 yes
+events-chat 2022-05-01 02:03:34 i think i'll be good, but i know a few that own those already
+events-chat 2022-05-01 02:06:11 are there rules on configurations?
+events-chat 2022-05-01 04:05:19 you need to do that if you want fights to last longer than 10 seconds
+events-chat 2022-05-04 23:41:28 am i still building uppercut?
+events-chat 2022-05-04 23:44:24 well…
+events-chat 2022-05-05 00:29:17 greetings
+events-chat 2022-05-05 00:33:12 i'ma build in the mean time
+events-chat 2022-05-05 00:56:46 what is your current plan to resolve this
+events-chat 2022-05-05 00:57:33 nice
+events-chat 2022-05-05 00:58:02 of course
+events-chat 2022-05-05 01:04:31 alright, good luck to them
+bot-central 2022-05-08 00:30:04 -servers
+bot-central 2022-05-14 14:49:00 -servers
+events-chat 2022-05-15 02:29:04 i disagree because you have not made it clear to every competitor, besides, you would happen to be the only one aware of that during the tournament
+events-chat 2022-11-08 04:22:30 i can fight, can i get my bot now?
+events-chat 2022-11-08 23:58:35 is drive torque limited?
+events-chat 2022-11-16 03:55:54 👍
+bot-central 2022-11-24 06:44:12 -servers
+events-chat 2022-11-24 23:53:11 i’m hoping my phone can handle 11k blocks
+events-chat 2022-11-24 23:57:28 same as flippers i’m assuming
+events-chat 2022-11-26 07:44:29 i set up my pc and monitor so i shouldn’t be as laggy

@@ -1,27 +1,109 @@
-ginseng173
-plane-crazy 2020-04-01 12:31:50 ∆∆∆∆∆∆∆∆∆∆__∆∆
-plane-crazy 2020-04-01 12:31:29 ?∆∆∆∆?
-plane-crazy 2020-04-01 12:30:55 ∆?
-plane-crazy 2020-04-01 12:30:40 ∆∆
-plane-crazy 2020-04-01 12:30:33 ∆∆∆∆∆__∆∆∆
-plane-crazy 2020-04-01 12:30:28 ∆∆∆∆∆∆∆∆∆
-plane-crazy 2020-02-09 15:26:18 hmm
-plane-crazy 2020-02-09 14:39:20 Often happens that when my boat goes at 150 speed its more like 90 or so
-plane-crazy 2020-02-09 14:39:01 I know
-plane-crazy 2020-02-09 14:35:46 Lag?
-plane-crazy 2020-02-09 14:35:38 Why does my helicopter not work at full graphics but when i set it to 1 it works perfectly
-plane-crazy 2020-02-08 20:27:26 Epic
-plane-crazy 2020-02-08 20:24:56 Motor 1 is useful for when my boat is stationary.Motor 2 is useful for when my boat is moving so instead of having to use wasd for the boat and qerf for the turret i just use motor 2.Im asking for a motor i could use for a turret that would change from motor 1 to 2 and vice versa at the click of a button since motor 2 is harder to aim since i need high speed motors to keep up to planes and if i increase the speed too much it becomes hard af to aim.
-plane-crazy 2019-12-11 19:53:26 :/
-plane-crazy 2019-12-11 19:44:55 Do the motors on the rotor need to have the same inclination controls or inverted
-plane-crazy 2019-12-11 19:43:05 the motors on each sides
-plane-crazy 2019-12-11 19:42:47 I saw those kinda rotors
-plane-crazy 2019-12-11 19:42:03 ?
-plane-crazy 2019-12-11 19:42:02 normal wings/
-plane-crazy 2019-12-11 19:41:42 ?
-plane-crazy 2019-12-11 19:41:32 propellor blades
-plane-crazy 2019-12-11 19:41:15 :
-plane-crazy 2019-12-11 19:41:02 Still doesnt work
-plane-crazy 2019-12-11 19:40:23 but it doesnt work
-plane-crazy 2019-12-11 19:40:18 i did
-plane-crazy 2019-12-11 19:39:40 Anyone has a idea why my helicopter keeps spinning with my rotor and it wont work
+The Tale of ginseng173 (393370866702090250)
+help 2019-12-11 19:36:23 How are we supossed to make a plane rotor and the direction changing thing on its tail
+help 2019-12-11 19:36:31 I made a rotor
+help 2019-12-11 19:36:46 But it keeps spinning the heli with it
+help 2019-12-11 19:36:55 itself
+creations-chat 2020-02-09 17:52:50 iS THAT A SBD ?
+creations-chat 2020-02-09 17:52:54 caps
+creations-chat 2020-02-09 17:53:01 cool tho
+creations-chat 2020-02-09 17:54:12 flaps?
+creations-chat 2020-02-09 17:54:18 Or did it even have flaps
+creations-chat 2020-02-09 17:54:19 cause idk
+help 2020-03-21 16:33:47 How can i make dual propellor helicopters
+help 2020-03-21 16:34:12 Like the propellors used in the v 22 osprey
+help 2020-03-21 16:34:34 Whenever i try to make them dual they start spinning my plane in one direction
+creations-chat 2020-03-22 02:59:37 Someone needs to create a russian typhoon class <:pogey:651848693842182144>
+creations-chat 2020-03-22 03:00:40 <:OMEGALUL:528987216643489792>
+creations-chat 2020-03-22 03:00:55 Where is it
+creations-chat 2020-03-22 03:01:24 No i suck at making submarines
+creations-chat 2020-03-22 03:03:13 Like to make the submarine rise up and down you have to use those ballast blocks with stripes on them or something
+creations-chat 2020-03-22 03:03:20 Id imagine
+help 2020-03-22 21:58:22 What is a better weapon for a plane?Guns placed in front of each other to make a sort of laser when it fires or should weapons be spreaded across the plane
+help 2020-03-22 21:59:02 Ok
+help 2020-03-22 21:59:06 Thank you
+creations-chat 2020-03-28 18:58:00 How do you make a flying room that doesnt tip over :/
+creations-chat 2020-03-28 18:59:14 Bruh
+creations-chat 2020-03-28 18:59:16 I know
+creations-chat 2020-03-28 18:59:23 But one that goes up in the sky
+creations-chat 2020-03-28 18:59:35 Hover engines just go a bit above the ground
+creations-chat 2020-03-28 19:00:02 The thing tips over
+creations-chat 2020-03-28 19:00:19 Those dont fly
+creations-chat 2020-05-27 17:42:51 
+creations-chat 2020-05-27 17:42:58 
+creations-chat 2020-05-27 17:48:31 faced
+creations-chat 2020-05-27 18:02:45 pvp enabled
+creations-chat 2020-05-27 18:02:48 whats that
+creations-chat 2020-05-27 18:02:53 button
+creations-chat 2020-05-27 18:06:08 pls ban
+creations-chat 2020-05-28 20:04:41 <@!551806781609869313> What can i improve on it if you dont like it
+creations-chat 2020-05-28 20:05:03 If you dislike my bomber what can i do to improve it
+creations-chat 2020-05-28 20:05:26 Considering you disliked all my different posts you kinda started looking a bit toxic towards me
+creations-chat 2020-05-28 20:05:33 its a light bomber
+creations-chat 2020-05-28 20:05:35 small
+creations-chat 2020-05-28 20:06:09 How would i make an internal bomb in a 3x3
+creations-chat 2020-05-28 20:06:20 Its light
+creations-chat 2020-05-28 20:06:23 Because its not big
+creations-chat 2020-05-28 20:06:56 who
+creations-chat 2020-05-28 20:08:26 Search the b 16
+creations-chat 2020-05-28 20:08:34 That fits on carriers
+creations-chat 2020-05-28 20:08:57 You can put 16 on a general sized one
+creations-chat 2020-05-28 20:09:03 Because thats a light bomber
+creations-chat 2020-05-28 20:09:15 As small as it gets
+creations-chat 2020-05-28 20:09:49 And that
+creations-chat 2020-05-28 20:09:52 the a20
+creations-chat 2020-05-28 20:09:55 Is a medium bomber
+creations-chat 2020-05-28 20:10:59 Damn i saw acid communities but this is the strongest
+creations-chat 2020-05-28 20:11:41 Most people i talked with talked like im nothing next to them
+creations-chat 2020-05-28 20:11:54 And he isnt the first
+creations-chat 2020-05-28 20:12:02 im here since 2019 i have multiple experiences
+creations-chat 2020-05-28 20:12:27 i guess
+creations-chat 2020-07-03 16:40:27 The plane looks rather simple
+creations-chat 2020-07-03 16:40:50 Like a few half blocks
+creations-chat 2020-07-03 16:40:59 and some wing panels
+creations-chat 2020-07-03 16:41:39 <@!654239873489960970>
+bot-central 2020-08-24 23:36:29 &suggest
+ Gun changes 
+(PvP)
+  
+Guns should be more configurable.
+For example you should be able to chance the bullets your gun shoots mm.From 7-40mm.The more you increase it the fire rate will be slower and each shot that hits will deal more damage.
+Ammo belt types: 
+Armor piercing bullets: These will deal more damage to a single block it hits 
+Incendiary:These would deal lower impact damage than AP bullets but would have a DoT which would give them more overall damage (Burning DoT) and they would affect a single block.They would also explode any fuel tanks they hit
+Hight explosive:These would deal damage to blocks in a radius of 3x3 with higher damage on the block that was hit and lower damage on its the edge blocks.They would deal lower damage on a single block but more overall counting in the edge blocks that are also by it compared to AP bullets.These should be much better at destroying wings or should deal more damage to them than AP bullets
+Tracers:Bullets that deal less damage than AP but leave a visible trace like current bullets do
+There are also a lot of other
+Belts:Unless its too hard to add these too it would be nice if you could customise the belts each of your guns shoots.For example:Ground targets belt:Bullet 1:AP 2:AP 3:AP 4:T
+Stealth:(Used for air to air combat):1:AP 2:AP 3:I 4:HE
+Air to air:1:AP 2:T 3:I 4:HE 
+Belts would be fired from bullet 1 to bullet XX there being a fair limit of 10 to belt ammunition customisation
+Guns should receive a damage buff as outside of having them stacked they deal very little damage making air to air combat reliant on rockets
+bot-central 2020-08-24 23:36:48 um
+bot-central 2020-08-24 23:36:49 ???
+bot-central 2020-08-24 23:36:52 it didnt work
+bot-central 2020-08-24 23:37:25 <@!468207489524039680> sorry for the ping but how do i make the suggestion go into the channel
+bot-central 2020-08-24 23:41:49 ok
+bot-central 2020-08-24 23:42:05 <@!340543153922768906> help pls?
+bot-central 2020-08-24 23:42:23 wow
+bot-central 2020-08-24 23:43:07 r/help
+bot-central 2020-08-24 23:43:20 ?rhelp
+bot-central 2020-08-24 23:43:36 ok
+bot-central 2020-08-24 23:43:38 thanks
+bot-central 2020-08-24 23:44:52 not to be mean but you could have at least said the suggestion was originally made by me
+bot-central 2020-08-24 23:45:02 <:BIG1:588443768806703124> <:BIG2:588443778554134540>
+bot-central 2020-08-24 23:53:51 <@!335599526414909451> theres a suggestion i made that got posted by someone else.Not a problem as he wanted to help but i wanna post it myself im gonna get a rank to do that soon.If you could delete the suggestion in the suggestion channel i would appreciate it.You can check the bot commands channel to actually see i suggested it first
+creations-chat 2020-10-10 16:45:20 My plane crazy data when adopt me updates https://tenor.com/view/thanos-avengers-dust-dissolve-gif-16965356
+creations-chat 2020-10-10 16:46:42 same
+creations-chat 2020-10-10 16:47:04 but mine were planes not ships.I hope i dont lose the piper cherokee and cessna 210 i made today
+creations-chat 2020-10-10 22:28:17 <@492887853702053898> *Proud communist noises*
+creations-chat 2020-10-10 22:29:44 😐
+creations-chat 2020-10-10 22:30:01 <:JumboJet:559121641355870220>
+creations-chat 2020-10-13 07:36:30 <@!492887853702053898> that the house from that cartoon.Bear and lemmings?
+creations-chat 2020-10-16 08:55:19 how did you make that
+help 2020-10-18 14:11:50 > Super rocket and normal rocket
+<@!738764962377367552> you need to use manual controls
+help 2020-10-18 14:12:26 automatic control surfaces are garbage and glitchy make them manual
+help 2020-10-18 14:12:32 back wing s w
+help 2020-10-18 14:12:40 left a d
+help 2020-10-18 14:12:43 right d a
+help 2020-10-18 14:13:06 or invert for left and right idk

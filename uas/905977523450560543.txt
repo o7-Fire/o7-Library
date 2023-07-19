@@ -1,0 +1,14 @@
+The Tale of ScatterCatWasTaken (905977523450560543)
+bug-reports 2023-04-05 09:55:05 hover drives are broken
+bug-reports 2023-04-05 09:55:08 not sure if its just me
+bug-reports 2023-04-05 09:55:16 but whenever i spawn a build that uses them
+bug-reports 2023-04-05 09:56:47 the build will either glitch out  on spawning, and my camera will sort of "drop", then return to place, and no matter how much i mash W, it wont move forward. and if i do manage to get it in the air before it glitches it will fly for a bit then do the camera glitch i mentioned, then it will drop like a lead balloon.
+sort of like the build immediately gains a million trillion tonnes
+and other glitch engines that should usually create a lot of speed dont work either :/
+Not sure if its just me or not
+creations-chat 2023-04-05 10:10:56 lol
+bot-central 2023-04-05 10:15:07 !rank
+bot-central 2023-04-05 10:16:08 /imagine cow
+bot-central 2023-04-05 10:19:29 /imagine a cow
+bug-reports 2023-04-14 08:26:23 rickje need to fix hover engine
+bug-reports 2023-04-14 08:26:36 all my builds that use them decide to not have the ability to do the fly off ground

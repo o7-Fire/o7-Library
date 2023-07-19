@@ -1,0 +1,66 @@
+The Tale of shrimpo_ (178497187943022592)
+creations-chat 2018-12-28 06:22:11 Is this where I can find help regarding mechanical engineering..
+creations-chat 2018-12-28 06:22:24 actually I'll just read the rules
+help 2018-12-28 06:22:42 halp
+help 2018-12-28 06:23:21 Since yesterday I've been trying to make a biplane thats more maneuverable
+help 2018-12-28 06:23:30 This is my 3rd attempt on making a biplane
+help 2018-12-28 06:23:35 http://prntscr.com/m0gvrz
+help 2018-12-28 06:23:54 It seems the wings lift up the elevation a lot, or its either the weight is too heavy
+help 2018-12-28 06:24:06 But they are both aligned
+help 2018-12-28 06:25:10 Its hidden by the front wings
+help 2018-12-28 06:25:13 their there
+help 2018-12-28 06:25:30 I limited myself with the length of the biplane, to hopefully be able to make sharp turns
+help 2018-12-28 06:26:11 Enlighten me by how planes make sharp turns
+help 2018-12-28 06:27:25 Meaning?
+help 2018-12-28 06:28:19 wait so the main wings need to be farther from the stabalizers?
+help 2018-12-28 06:28:59 Can they be closer to the engine, while the body is extended further from the back?
+help 2018-12-28 06:29:45 What for?
+help 2018-12-28 06:30:19 ok
+help 2018-12-28 06:30:50 Another question, can the plane turn sharply if I add more control surfaces?
+help 2018-12-28 06:32:21 What about lowwing monoplanes?
+help 2018-12-28 06:32:29 the planes commonly used during wwii
+help 2018-12-28 06:32:45 Yea, and the hurricane and P-41
+help 2018-12-28 06:33:01 Or was that p-40..
+help 2018-12-28 06:33:02 idk
+help 2018-12-28 06:36:21 I like this server ;D
+help 2018-12-28 06:39:10 dam
+help 2018-12-28 06:42:38 Now I have less motivation to complete my biplane
+help 2018-12-28 06:44:26 Can I put more ballast blocks on my plane just to pull up the weight?
+help 2018-12-28 06:44:27 /hopefully..
+help 2018-12-28 06:52:04 yea
+help 2018-12-28 07:00:26 Nvm
+help 2019-01-05 14:27:50 http://prntscr.com/m3dk7n
+help 2019-01-05 14:27:57 I need help with this stupid tank's steering
+help 2019-01-05 14:28:03 It needs to make sharp turns
+help 2019-01-05 17:27:27 oh
+help 2019-01-05 17:27:33 I learned a lot now, wow
+help 2019-01-06 01:54:13 I've failed to make one
+help 2019-01-06 01:54:25 Several times
+help 2019-01-06 01:55:23 I know..
+help 2019-01-06 01:56:19 No need to rub it in..
+help 2019-01-13 08:13:30 In Suspensions, whats Damping, Sitffness, and Free length?
+help 2019-01-13 08:13:37 Please someone explain thoroughly to me
+help 2019-01-13 12:47:47 Thank you
+help 2019-01-14 08:06:47 For my suspensions, damping and stiffness are maxed 100, but they still seem to bounce a lot
+help 2020-09-07 05:58:51 Hey, I need ideas, tips, or advice for the  Nakajima KI-84
+help 2020-09-07 05:59:10 
+help 2020-09-07 05:59:50 Someone suggested that I should use "large control surfaces". So I'm thinking I need to build manual(?) control surfaces from scratch, but I'm not familiar with other control surfaces
+help 2020-09-07 05:59:56 Also, are the wings too large?
+help 2020-09-07 06:00:38 I'm looking for help, and not criticism
+creations-chat 2020-09-07 06:08:28 <@!367986810862698498> You've got an interesting looking UAVTOL there. Is it only armed with MG's?
+help 2020-09-07 07:01:23 I have the KI-84 blueprints as reference
+help 2020-09-07 07:02:31 I'm having a hard time trying to get the body, accurate
+help 2020-09-07 07:02:56 Make them thinner?
+help 2020-09-07 07:07:04 Ok
+help 2020-09-07 07:08:41 Should I make new control surfaces?
+help 2020-09-07 07:29:16 I assume you use w3 school for color codes?
+help 2020-09-07 07:36:18 I'll link you to it, I think it'll help your camo
+help 2020-09-07 07:41:01 I'll look into it, thanks
+help 2020-09-07 07:44:24 Use the folding technique
+help 2020-09-09 02:34:07 
+help 2020-09-09 02:34:14 I'm trying to make a wing flap for a prop plane, but I've never made one before
+help 2020-09-09 02:35:16 No, I just need an idea on how to make a flap
+help 2020-09-09 02:35:21 I'm using wing parts
+help 2020-09-09 02:38:00 I still need an idea. This flap has to be un-anchored to any other part except the motor
+help 2020-09-09 03:08:05 What does it mean when your plane keeps nosing down when in flight?
+help 2020-09-09 03:12:00 Should I work on that first, before moving to custom control surfaces?

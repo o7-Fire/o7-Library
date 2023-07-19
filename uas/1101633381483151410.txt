@@ -1,0 +1,6 @@
+The Tale of 5k1m4l0 (1101633381483151410)
+bug-reports 2023-07-06 21:19:49 https://cdn.discordapp.com/attachments/1101636614251368449/1126618316509818991/image.png anybody else having this bug? (right is mine, left is my friend's build)
+bug-reports 2023-07-06 21:20:08 some visual bug i found
+bug-reports 2023-07-06 21:21:48 if someone has a rocket thruster, camera, or wing, and they are in build mode, i find the wing DOUBLE the thickness, the rocket has a cuboid instead of a cylindrical part in the front, and the camera has a rectangular part that should be a cylinder
+bug-reports 2023-07-06 21:22:13 this is the same visual bug as him
+creations-chat 2023-07-16 11:31:30 tanmks

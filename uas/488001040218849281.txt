@@ -1,0 +1,2 @@
+The Tale of itsmedom. (488001040218849281)
+help 2020-03-17 20:39:10 for some reason my buld works fine walking but when i added 2 more motors for rotating left and right the original ones broke and wouldnt work right breaking my build and the new motors are in a spot they wouldnt affect the original

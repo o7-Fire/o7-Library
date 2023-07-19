@@ -1,694 +1,165 @@
-circle31415
-plane-crazy 2020-06-23 12:59:50 how do I make drones that aren't stupid
-plane-crazy 2020-06-22 16:25:31 the only vtol I can make is drone
-plane-crazy 2020-06-22 13:35:04 when you struggle to make something
-plane-crazy 2020-06-14 15:28:44 I've tried making drones and aircraft but the finished results are bad
-plane-crazy 2020-06-14 15:27:57 I've been wondering what I can make that would just get me a rank
-plane-crazy 2020-06-07 14:07:14 back to designing a less giant and better drone
-plane-crazy 2020-06-07 14:05:13 sucks
-plane-crazy 2020-06-07 14:05:10 oh well, I dont have them
-plane-crazy 2020-06-07 14:02:16 and how do you get them
-plane-crazy 2020-06-07 14:02:11 what does a pontoon do
-plane-crazy 2020-06-07 13:55:26 first attempt top propeller blades spun but not the bottoms
-plane-crazy 2020-06-07 13:55:03 am also trying to remember how to make a one rotor heli without making it spin
-plane-crazy 2020-06-07 13:50:56 how do I make a good heli
-plane-crazy 2020-05-30 12:22:09 dont think ill make another thing in this game again
-plane-crazy 2020-05-30 12:21:57 
-plane-crazy 2020-05-27 14:08:41 quick tangent i had 1.4k block drone but it was stupid and also had only a top speed of 30 sps
-plane-crazy 2020-05-27 14:06:45 i got no pontoons
-plane-crazy 2020-05-27 14:03:23 and also my f35 still isnt functional asaddas
-plane-crazy 2020-05-27 14:02:42 its s t r e c h i n g
-plane-crazy 2020-05-27 14:02:33 the logo isnt spinning
-plane-crazy 2020-05-27 13:59:57 w/o helium
-plane-crazy 2020-05-27 13:59:14 how do i make something float
-plane-crazy 2020-05-23 08:22:33 should i lock the motors that spin the wing panels
-plane-crazy 2020-05-23 08:22:12 and when they get out of alignment the control just flops
-plane-crazy 2020-05-23 08:21:55 problem is they get out of alignment if i were to get my rotor crashed into something
-plane-crazy 2020-05-23 08:21:31 so i made heli rotors with wing panels
-plane-crazy 2020-05-22 14:26:43 i want that back
-plane-crazy 2020-05-22 14:26:39 you know how like the colors of blocks were slightly off regardless if you paint them to have the same color?
-plane-crazy 2020-05-22 14:26:09 yes
-plane-crazy 2020-05-22 14:24:31 it looks bad now
-plane-crazy 2020-05-22 14:24:25 also ew no outlines
-plane-crazy 2020-05-22 14:24:19 wobbles a lot while flying
-plane-crazy 2020-05-22 14:24:16 current version of my f35
-plane-crazy 2020-05-22 14:21:39 but what
-plane-crazy 2020-05-22 14:21:35 now to make something
-plane-crazy 2020-05-22 14:18:11 annoyed entire server with this
-plane-crazy 2020-05-22 14:18:01 
-plane-crazy 2020-05-22 14:07:56 an AA-1010?
-plane-crazy 2020-05-22 14:07:41 what is that
-plane-crazy 2020-05-22 13:37:17 oh I thought you make one of them non powered
-plane-crazy 2020-05-22 13:33:57 can someone tell me again
-plane-crazy 2020-05-22 13:33:52 I forgot how to make a dual helicopter rotor not spin my helicopter body
-plane-crazy 2020-05-22 13:31:49 
-plane-crazy 2020-05-22 13:31:29 anyways
-plane-crazy 2020-05-22 13:30:23 locked motors go crazy when spun at high speeds
-plane-crazy 2020-05-16 08:29:00 man i wished there is propeller blades 1 block wide
-plane-crazy 2020-05-16 07:57:49 so adding a heavy ballast block to the rear of my aircraft will make it lose balance if i didnt go for max throttle
-plane-crazy 2020-05-15 16:46:13 lemme just say that current plane im making isnt so good at manuvering
-plane-crazy 2020-05-15 16:44:50 also had to ensure its still stable when going both heli and plane mode
-plane-crazy 2020-05-15 16:44:20 yeah thats what im putting in next
-plane-crazy 2020-05-15 16:43:54 originally i wanted it to be a cross between a heli and plane but uh i dont have enough brain iq to think about that
-plane-crazy 2020-05-15 16:42:41 im too stupid for that game
-plane-crazy 2020-05-15 16:42:31 i dont even play plane crazy anymore
-plane-crazy 2020-05-15 16:42:22 eh whatever
-plane-crazy 2020-05-15 16:39:41 i have down syndrome
-plane-crazy 2020-05-15 16:39:29 ok insult it all you want
-plane-crazy 2020-05-15 16:39:09 repost, this time i need help with improvements on the plane
-plane-crazy 2020-05-15 16:18:23 i mean at least wing panel propellers cooler than normal propellers
-plane-crazy 2020-05-15 16:17:53 thats propeller blades
-plane-crazy 2020-05-15 16:17:48 thats
-plane-crazy 2020-05-15 16:17:17 what was i making?
-plane-crazy 2020-05-15 16:17:11 
-plane-crazy 2020-05-15 16:04:20 i never make anything good
-plane-crazy 2020-05-15 16:02:14 time to delete this
-plane-crazy 2020-05-15 16:02:09 it was fun while it lasted
-plane-crazy 2020-05-15 16:01:58 
-plane-crazy 2020-05-15 15:34:11 im about to design something dumb again
-plane-crazy 2020-05-15 15:33:55 oh boy
-plane-crazy 2020-05-15 12:13:19 because of that I have to just hope
-plane-crazy 2020-05-15 12:13:06 wait actually I meant you can't see the center change
-plane-crazy 2020-05-15 12:11:26 I hate how even when you make ballast blocks heavier it doesn't change the center of weight
-plane-crazy 2020-05-08 03:59:55 for some reason my control surfaces are bad at steering the plane
-plane-crazy 2020-05-08 03:59:32 time to fix my unstable f35
-plane-crazy 2020-05-05 15:07:24 why doesnt anything i make work
-plane-crazy 2020-05-05 15:06:03 this thing has been wobbling left to right and it made my aircraft crash
-plane-crazy 2020-05-05 15:05:41 and its not stable when flying
-plane-crazy 2020-05-05 15:05:16 my f35 goes up slower than it goes down, like much slower when it goes up
-plane-crazy 2020-05-05 15:04:47 welp im having trouble
-plane-crazy 2020-05-05 14:37:01 now where do i put control surfaces
-plane-crazy 2020-05-05 14:36:50 
-plane-crazy 2020-05-05 13:03:08 why does this look like it went through that distorted effect
-plane-crazy 2020-05-05 12:35:55 how did you
-plane-crazy 2020-05-05 12:19:55 nvm its 14 super rockets
-plane-crazy 2020-05-05 12:17:17 thrust is 10 hidden super rockets
-plane-crazy 2020-05-05 12:16:47 now i just have to upgrade it
-plane-crazy 2020-05-05 12:16:39 ok it works
-plane-crazy 2020-05-05 12:16:25 
-plane-crazy 2020-05-05 12:13:06 IVE BEEN PUTTING LIKE 40 OF THEM ON MY CREATIONS
-plane-crazy 2020-05-05 12:11:29 WAIT I DIDNT KNOW YOU CAN MAKE BALLAST BLOCKS HEAVIER
-plane-crazy 2020-05-05 05:29:10 judgeing from the top speed you got i think you broke the physics of the game
-plane-crazy 2020-05-05 05:24:52 nice
-plane-crazy 2020-05-05 05:23:21 ill stop playing plane crazy for another 3 days
-plane-crazy 2020-05-05 05:22:30 actually i like anything except my creations
-plane-crazy 2020-05-05 05:21:58 yes
-plane-crazy 2020-05-05 05:21:44 becuase your better than me
-plane-crazy 2020-05-05 05:21:17 yes
-plane-crazy 2020-05-05 05:20:49 and i wont even bother to fix it
-plane-crazy 2020-05-05 05:20:40 its nowhere near functional
-plane-crazy 2020-05-05 05:19:48 its not nice imo
-plane-crazy 2020-05-05 05:16:54 i would still feel gulity if i deleted the plane
-plane-crazy 2020-05-05 05:16:36 ok change of plan, im fixing the "f35"
-plane-crazy 2020-05-05 05:14:07 im not wasting 15 hours fixing this stupid plane
-plane-crazy 2020-05-05 05:13:54 yeah i prefer trashing the plane
-plane-crazy 2020-05-05 05:12:46 hmm, the f35 can do roll, but pitch is terrible, and yaw is nonexistent for some reason
-plane-crazy 2020-05-05 05:11:33 its just isnt fixable
-plane-crazy 2020-05-05 05:11:20 im still trashing the plane
-plane-crazy 2020-05-05 05:11:05 this is the worst f35 anyone has ever made, and im the one that made it
-plane-crazy 2020-05-05 05:00:20 enough thrust gets anything flying
-plane-crazy 2020-05-05 05:00:11 and yeah emil was right
-plane-crazy 2020-05-05 04:57:32 ok im back playing plane crazy again
-plane-crazy 2020-05-02 07:18:11 You are now the enemy of the people
-plane-crazy 2020-05-02 06:31:41 or stop playing this game
-plane-crazy 2020-05-02 06:31:28 i should probably stop deleting my saves whenever i found out that they are a failure
-plane-crazy 2020-05-02 06:29:39 too bad i deleted all of my saves
-plane-crazy 2020-05-02 06:29:07 I put 10 super rockets and the thing flops
-plane-crazy 2020-05-02 06:28:58 you have to be kidding me right
-plane-crazy 2020-05-02 06:26:29 i didnt understand the bulid
-plane-crazy 2020-05-02 06:26:06 nevermind
-plane-crazy 2020-05-02 06:25:14 i couldnt do that, so i thought i was autistic (confusing theory, ik)
-plane-crazy 2020-05-02 06:24:29 im trying to understand how people just makes planes and they fly
-plane-crazy 2020-05-02 06:24:13 nah
-plane-crazy 2020-05-02 06:22:20 <@612692049375789102> can i see it
-plane-crazy 2020-05-02 06:19:11 why are you trying to pick all 3 options using quantum mechanics
-plane-crazy 2020-05-02 06:14:42 has anyone made a working f35
-plane-crazy 2020-05-02 06:14:23 so uh
-plane-crazy 2020-05-02 06:01:49 why do you keeping going to the edge
-plane-crazy 2020-05-02 06:00:36 the last one was too octagon-y
-plane-crazy 2020-05-02 06:00:28 i kinda want to make an improved large drone
-plane-crazy 2020-05-02 05:56:35 how do i make a circle
-plane-crazy 2020-05-02 05:40:21 ok clown
-plane-crazy 2020-05-02 05:38:10 i also wanted to make the xp 55 ascender but the limitations of the control surfaces makes that plane impossible to replicate
-plane-crazy 2020-05-02 05:37:32 haha very funny
-plane-crazy 2020-05-02 05:24:20 for some reason modern planes have the wings behind and im trying to successfully replicate that, like the f35 attempt
-plane-crazy 2020-05-02 05:22:44 brhu
-plane-crazy 2020-05-02 05:22:06 so this plane of yours
-plane-crazy 2020-05-02 05:21:16 im an adolescent that needs to grow up
-plane-crazy 2020-05-02 05:20:22 makes the gun go ratatata
-plane-crazy 2020-05-02 05:20:13 row of guns
-plane-crazy 2020-05-02 05:17:40 i havent understood a single thing emil made
-plane-crazy 2020-05-02 05:14:08 i can confirm that whatever an expert makes, i wont understand it
-plane-crazy 2020-05-02 05:12:48 oh well, time to delete this save, stop playing plane crazy for another 2 weeks and get on with my life
-plane-crazy 2020-05-02 05:12:05 make a vehicle that didnt work
-plane-crazy 2020-05-02 05:11:19 argh i did it again
-plane-crazy 2020-05-02 03:40:58 but you probably still dont know so lets keep it that way
-plane-crazy 2020-05-02 03:40:33 the player that failed to make a proper creation many times and doesnt know why
-plane-crazy 2020-05-02 03:38:40 ey i forgot about this game
-plane-crazy 2020-04-30 14:26:17 thats what you get for trying to impersonate
-plane-crazy 2020-04-30 14:23:43 ok
-plane-crazy 2020-04-30 14:23:17 how the real f35 fly anyways
-plane-crazy 2020-04-30 14:23:00 time to make the f35, again
-plane-crazy 2020-04-26 13:42:31 oh
-plane-crazy 2020-04-26 13:42:28 also what is that
-plane-crazy 2020-04-26 13:42:23 how do you describe the event where you failed something without learning anything in the progress
-plane-crazy 2020-04-26 13:09:18 *cries*
-plane-crazy 2020-04-26 13:09:14 *laughs in multiple failed projects*
-plane-crazy 2020-04-26 08:27:26 does anyone have a bulid of f35
-plane-crazy 2020-04-25 14:08:45 also do you realize there is no control surface that attaches to delta wings, except for delta control surface 1x2 but who uses that
-plane-crazy 2020-04-25 14:07:47 Ronan, the f35 is a fighter jet designed by Lockheed Martin, nowhere near the Balkans, because Balkan tech is way better than this
-plane-crazy 2020-04-25 14:06:37 uh yeah... how do you delta wing that
-plane-crazy 2020-04-25 14:05:38 I used delta wings
-plane-crazy 2020-04-25 14:05:34 but isnt that a delta wing
-plane-crazy 2020-04-25 14:04:56 which had a center of lift far behind center of weight
-plane-crazy 2020-04-25 14:04:36 and I'm trying to figure out how the real f35 did not end up like my f35
-plane-crazy 2020-04-25 14:04:21 left half is just cockpit and body then right half is where the wings are
-plane-crazy 2020-04-25 14:04:04 look at the real f35
-plane-crazy 2020-04-25 14:03:42 that item is unavailable at the moment
-plane-crazy 2020-04-25 14:02:56 
-plane-crazy 2020-04-25 14:00:12 the front half is strait up just body and then the other half is large wings
-plane-crazy 2020-04-25 13:59:29 something is wrong with my modern planes, I'm not sure how an f35 can fly when it's wings are so far behind
-plane-crazy 2020-04-25 13:58:46 I dont even know how to make tank tracks
-plane-crazy 2020-04-25 13:57:06 I really don't know what to make, I cant make anything
-plane-crazy 2020-04-25 13:54:14 what am I ever gonna make
-plane-crazy 2020-04-25 12:07:21 I want to go break a femur after that effort of trying to make an f35 but it was both ugly and dysfunctional
-plane-crazy 2020-04-25 10:05:22 considering quitting this game sometime
-plane-crazy 2020-04-25 10:00:02 guys i have the sad
-plane-crazy 2020-04-25 09:57:24 this plane is never gonna get me a single upvote
-plane-crazy 2020-04-25 09:53:29 time to pack it up, this thing has to be scrapped
-plane-crazy 2020-04-25 09:52:06 my plane is gonna get a lot of downvotes only isnt it?
-plane-crazy 2020-04-25 09:51:49 but i couldnt find a way to have it work without making it look like that
-plane-crazy 2020-04-25 09:51:21 the front wings and back wings used to be closer
-plane-crazy 2020-04-25 09:49:01 are you guys gonna get mad because i did this to my f35
-plane-crazy 2020-04-25 09:48:53 
-plane-crazy 2020-04-25 09:23:58 i hate water i almost drowned in it when i was 2 years old (joke, but the drowning part was real)
-plane-crazy 2020-04-25 09:23:17 no\
-plane-crazy 2020-04-25 09:23:00 how am i supposed to make the f35 work now
-plane-crazy 2020-04-25 09:20:35 named it's save "a literal failure"
-plane-crazy 2020-04-25 09:20:22 you probably dont remember the bad looking 1800 blocks drone i made
-plane-crazy 2020-04-25 09:17:47 bulid, trash, scrap
-plane-crazy 2020-04-25 09:17:32 this is the vicious cycle
-plane-crazy 2020-04-25 09:16:32 oh well bring in the scrap dumpster, this f35 gotta be scrapped
-plane-crazy 2020-04-25 09:16:11 im making it look like the real thing and its broken
-plane-crazy 2020-04-25 09:15:58 seriously how did the f35 fly
-plane-crazy 2020-04-25 09:14:57 i am a goblin
-plane-crazy 2020-04-25 09:14:53 im not one of them
-plane-crazy 2020-04-25 09:07:29 well tell me how you balance this plane sherlock
-plane-crazy 2020-04-25 09:07:04 what if i replace some blocks with ballast blocks and then paint them
-plane-crazy 2020-04-25 09:06:47 ok i got idea
-plane-crazy 2020-04-25 09:05:03 without ruining the way it looks
-plane-crazy 2020-04-25 09:04:52 now to make it fly
-plane-crazy 2020-04-25 09:04:48 
-plane-crazy 2020-04-25 08:49:16 trail things?
-plane-crazy 2020-04-25 08:47:28 imo
-plane-crazy 2020-04-25 08:47:18 no
-plane-crazy 2020-04-25 08:46:10 it cant fly
-plane-crazy 2020-04-25 08:46:05 prodigy, i havent even made this thing fly
-plane-crazy 2020-04-25 08:45:17 now to make it fly
-plane-crazy 2020-04-25 08:45:08 yeet
-plane-crazy 2020-04-25 08:45:04 
-plane-crazy 2020-04-25 08:27:55 they dont work
-plane-crazy 2020-04-25 08:27:52 trying tilted wings
-plane-crazy 2020-04-25 08:21:07 i am in eternal pain after finding out that wings dont attach to cylinder sides
-plane-crazy 2020-04-25 08:03:28 what it stands for
-plane-crazy 2020-04-25 08:03:21 <@456226577798135808> explain CS
-plane-crazy 2020-04-25 07:57:51 
-plane-crazy 2020-04-25 07:57:36 hold on
-plane-crazy 2020-04-25 07:57:31 oops that second image
-plane-crazy 2020-04-25 07:57:12 both
-plane-crazy 2020-04-25 07:56:41 I've been doing the same thing but the two centers are messed up
-plane-crazy 2020-04-25 07:56:26 I still don't know how the real f35 flies even with its wings behind it
-plane-crazy 2020-04-25 07:54:54 day 3 of trying to fix the two centers without messing up the looks of the f35
-plane-crazy 2020-04-25 05:37:47 just tap, it doesnt have to get complicated
-plane-crazy 2020-04-25 05:36:10 you dont risk getting in trouble for one thing
-plane-crazy 2020-04-25 05:36:00 that's literally one thing man
-plane-crazy 2020-04-25 05:35:09 ok what's the point of using an auto clicker in plane crazy
-plane-crazy 2020-04-25 05:34:44 well  now I gotta figure out how to tilt my vertical f35 wings
-plane-crazy 2020-04-25 05:33:21 you done an oopsie
-plane-crazy 2020-04-25 05:32:44 for what
-plane-crazy 2020-04-25 05:26:39 I'm going to get harrassed even more
-plane-crazy 2020-04-25 05:26:32 I regret making my own anime pfp
-plane-crazy 2020-04-25 05:23:07 well if you all refuse to help me I'll do it myself, I can make tilted wings, I am a immature man
-plane-crazy 2020-04-25 05:17:34 do i have do fix this f35 myself
-plane-crazy 2020-04-25 05:17:00 this is the third time i asked for help and all i got is vague solutions
-plane-crazy 2020-04-25 05:16:18 now tell me how im gonna tilt these vertical wings
-plane-crazy 2020-04-25 05:16:09 
-plane-crazy 2020-04-25 05:11:48 this is gonna be impossible for my f35
-plane-crazy 2020-04-25 05:11:05 how do i make tilted wings
-plane-crazy 2020-04-25 04:31:20 it is impossible to tilt wings without the aid of motors, change my mind
-plane-crazy 2020-04-24 16:54:00 im making f35
-plane-crazy 2020-04-24 16:42:53 can any expert help me on my f35
-plane-crazy 2020-04-24 16:34:01 yall mind helping me out in <#478584971670454284>
-plane-crazy 2020-04-24 16:14:34 guys how do i fix the two centers
-plane-crazy 2020-04-24 16:14:05 i need help
-plane-crazy 2020-04-24 16:13:59 they are too off
-plane-crazy 2020-04-24 16:13:53 the two centers
-plane-crazy 2020-04-24 16:13:47 uh
-plane-crazy 2020-04-24 16:13:47 
-plane-crazy 2020-04-24 15:43:51 how do you remove rocket particles
-plane-crazy 2020-04-24 15:35:03 bruh
-plane-crazy 2020-04-24 15:20:05 borgar are you ok
-plane-crazy 2020-04-24 15:19:32 rocket or jet
-plane-crazy 2020-04-24 15:18:50 should f35 be equipped with rocket or jet
-plane-crazy 2020-04-24 14:57:16 time to e x t e n d the magnet
-plane-crazy 2020-04-24 14:57:02 i didnt put magnets where the ball ammo sits on
-plane-crazy 2020-04-24 14:56:48 wait actually i think i see the problem
-plane-crazy 2020-04-24 14:56:27 how do i make railgun
-plane-crazy 2020-04-24 08:29:36 i still dont understand how you can just make a propeller with an odd number of blades
-plane-crazy 2020-04-24 08:27:58 i have decided that i want to be stupid
-plane-crazy 2020-04-24 08:27:45 can normal propellers work in water
-plane-crazy 2020-04-24 08:13:10 why would you think of a boat with legs
-plane-crazy 2020-04-24 08:11:57 and i though of a vehicle that can traverse in water, land and air
-plane-crazy 2020-04-24 08:11:35 so i was being dumb
-plane-crazy 2020-04-23 13:00:23 *I'm rboke*
-plane-crazy 2020-04-23 13:00:19 *I played none*
-plane-crazy 2020-04-23 13:00:14 hahaha
-plane-crazy 2020-04-23 12:57:52 gotta smolify it
-plane-crazy 2020-04-23 12:57:46 yeah
-plane-crazy 2020-04-23 12:56:50 I'm not sure what place would allow the arsenal bird to takeoff
-plane-crazy 2020-04-23 12:56:23 first of all, if we are talking about a plane that needs folds
-plane-crazy 2020-04-23 12:54:29 what
-plane-crazy 2020-04-23 12:54:20 I dont
-plane-crazy 2020-04-23 12:54:16 if you got the folds I'm sure you can do this
-plane-crazy 2020-04-23 12:53:52 hint: folds
-plane-crazy 2020-04-23 12:52:47 I dare you to make this
-plane-crazy 2020-04-23 12:51:42 does anyone know the game series ace combat
-plane-crazy 2020-04-23 12:46:31 usually prone to seizures, not that they are bad, but they can do weird things even reducing the torque does not stop it entirely
-plane-crazy 2020-04-23 12:45:50 motor 2s are how do I say this
-plane-crazy 2020-04-23 12:43:57 I think you should improve the maneuvering of your missiles before improving their explosions
-plane-crazy 2020-04-23 12:43:01 that place is a mess
-plane-crazy 2020-04-23 12:42:53 and why would you go in pvp servers anyway
-plane-crazy 2020-04-23 12:42:33 no
-plane-crazy 2020-04-23 12:41:22 ah so that's why my turrets can go crazy
-plane-crazy 2020-04-23 12:37:14 and when its locked it does what
-plane-crazy 2020-04-23 12:36:32 uh
-plane-crazy 2020-04-23 12:35:45 nother question: what does the lock option of the motor do when on
-plane-crazy 2020-04-23 12:34:34 its jet powered, its gonna fly, and if it wont, I dont know what I make will
-plane-crazy 2020-04-23 12:33:59 also time to continue my f35
-plane-crazy 2020-04-23 12:32:53 also sakura how did you just, make a propeller with 5 blades
-plane-crazy 2020-04-23 12:31:52 why havent I put this on drones
-plane-crazy 2020-04-23 12:31:30 rotor g o fast er?
-plane-crazy 2020-04-23 12:31:21 w/ swashplate
-plane-crazy 2020-04-23 12:31:07 so
-plane-crazy 2020-04-23 12:29:17 what is the advantage of swashplate
-plane-crazy 2020-04-22 12:10:18 if anyone created that I hope the server didnt lag
-plane-crazy 2020-04-22 12:09:59 God I hope you lagged no one
-plane-crazy 2020-04-22 12:08:13 that's why I said show
-plane-crazy 2020-04-22 12:07:53 show
-plane-crazy 2020-04-22 12:07:05 what even is that anyways
-plane-crazy 2020-04-22 12:06:52 might take some time to build that
-plane-crazy 2020-04-22 12:06:37 
-plane-crazy 2020-04-22 12:06:34 I was not ready when I saw this on the f35
-plane-crazy 2020-04-22 12:04:46 am about to have dinner
-plane-crazy 2020-04-22 12:04:41 ye
-plane-crazy 2020-04-22 12:03:28 VIP server so full it breaks the laws
-plane-crazy 2020-04-22 11:52:20 on the flat side right
-plane-crazy 2020-04-22 11:51:56 can you attach motors to cylinders
-plane-crazy 2020-04-22 10:56:35 <@224513422161739776> am online
-plane-crazy 2020-04-22 10:51:20 <@224513422161739776> am about to be online now, was bringing home ice cream
-plane-crazy 2020-04-22 10:36:12 motor2 turrets tend to have seizures, or maybe it's just my errors in designing
-plane-crazy 2020-04-22 10:28:40 why that number
-plane-crazy 2020-04-22 10:27:59 mine is just random users I found on games with like 10 people playing on
-plane-crazy 2020-04-22 10:27:13 I should clear out my friend list a bit
-plane-crazy 2020-04-22 10:25:35 ye
-plane-crazy 2020-04-22 10:25:08 ye send a friend request
-plane-crazy 2020-04-22 10:24:41 uh
-plane-crazy 2020-04-22 10:22:59 <@224513422161739776> yeah I guess I can use some help
-plane-crazy 2020-04-22 10:12:09 whats the bug
-plane-crazy 2020-04-22 10:11:29 hold on, im new here, i gotta do that thing where i feel absolutely nothing
-plane-crazy 2020-04-22 10:10:42 a
-plane-crazy 2020-04-22 10:10:14 actually no, i can't understand anything about every creation
-plane-crazy 2020-04-22 10:09:33 i dont think i could understand how an expert thinks
-plane-crazy 2020-04-22 10:07:03 k
-plane-crazy 2020-04-22 10:04:36 i couldn't understand how you would just make a plane and it flies, sounds like magic nonsense imo
-plane-crazy 2020-04-22 10:02:14 and i cant understand how people can just make a thing and it works reliably
-plane-crazy 2020-04-22 10:00:12 idk what to build
-plane-crazy 2020-04-22 09:52:58 should i make the f22
-plane-crazy 2020-04-22 09:20:48 p38 is notoriously difficult to be accurately built
-plane-crazy 2020-04-22 09:20:19 until then i will switch to a more modern aircraft
-plane-crazy 2020-04-22 09:17:08 and even if i did get them smaller it would not reach the 200+ block count needed to get me the aero engineer 1 rank
-plane-crazy 2020-04-22 09:16:24 they were overweighted
-plane-crazy 2020-04-22 09:14:54 the event that confuses me the most of this month was when I spent 2 days to make many variants of a p38 lightning and none of them flew
-plane-crazy 2020-04-21 16:42:54 <@505835349889777685> I put the torques at like 5
-plane-crazy 2020-04-21 16:40:37 how do I make turret without making it shake like it's having a seizure
-plane-crazy 2020-04-21 12:51:27 block count sry
-plane-crazy 2020-04-21 12:46:10 someone show me a 200+ propeller plane
-plane-crazy 2020-04-21 11:52:26 
-plane-crazy 2020-04-21 11:38:34 should i be concerned
-plane-crazy 2020-04-21 11:38:25 center of lift is not showing up
-plane-crazy 2020-04-21 11:38:21 
-plane-crazy 2020-04-21 11:00:21 cofin danc
-plane-crazy 2020-04-21 10:45:00 ill have to get the right settings for explosive ball if i dont want my railgun to explode
-plane-crazy 2020-04-21 10:43:29 ball or explosive ball
-plane-crazy 2020-04-21 10:43:14 what ammo should i use
-plane-crazy 2020-04-21 10:42:42 ye, but i got anxious due to all the bad builds
-plane-crazy 2020-04-21 10:42:15 you talking to me
-plane-crazy 2020-04-21 10:41:19 lord i hope this one doesnt die from downvotes
-plane-crazy 2020-04-21 10:41:07 making barrel of railgun
-plane-crazy 2020-04-21 10:41:05 
-plane-crazy 2020-04-21 10:34:13 no
-plane-crazy 2020-04-21 10:34:10 you have accidentally obliterated my ego out of the space time fabric
-plane-crazy 2020-04-21 10:33:38 and i usually dont look into <#384025409945337856> much
-plane-crazy 2020-04-21 10:33:21 no im new here
-plane-crazy 2020-04-21 10:32:51 did you post them to creations
-plane-crazy 2020-04-21 10:32:07 V if possible
-plane-crazy 2020-04-21 10:28:11 haha jk, unless...?
-plane-crazy 2020-04-21 10:28:03 what if we conjoined two helicopters
-plane-crazy 2020-04-21 07:58:31 roblox physics is weird because for some reason when i spun the barrels it fired in a cone
-plane-crazy 2020-04-21 07:58:02 this one was a bit unstable, it shook moderately
-plane-crazy 2020-04-21 07:57:38 something something minigun turret
-plane-crazy 2020-04-21 07:57:20 
-plane-crazy 2020-04-21 07:10:46 anchored blocks dont work ofc
-plane-crazy 2020-04-21 07:10:35 how do i "attach" the base the turret sits on to the ground
-plane-crazy 2020-04-21 07:10:11 gonna need help on my mini gun turret
-plane-crazy 2020-04-21 07:01:49 im bored, i think ill make a minigun turret
-plane-crazy 2020-04-21 06:57:56 what
-plane-crazy 2020-04-21 06:56:23 am i the only one that listens to e1m1 when buliding
-plane-crazy 2020-04-21 05:46:09 
-plane-crazy 2020-04-21 05:43:10 
-plane-crazy 2020-04-21 05:41:58 forward or backward
-plane-crazy 2020-04-21 05:41:06 this?
-plane-crazy 2020-04-21 05:39:44 im trying to not end up with yesterday's disaster
-plane-crazy 2020-04-21 05:39:29 yes
-plane-crazy 2020-04-21 05:39:28 should i make the propeller sides larger
-plane-crazy 2020-04-21 05:38:37 i should probably make those propeller sides larger
-plane-crazy 2020-04-21 05:33:08 i do that usually when i took the L
-plane-crazy 2020-04-21 05:32:41 dont make me ask myself if im autistic
-plane-crazy 2020-04-21 05:32:01 changed smth a bit on cockpit
-plane-crazy 2020-04-21 05:31:55 
-plane-crazy 2020-04-21 05:27:37 also how can i improve the cockpit
-plane-crazy 2020-04-21 05:27:07 also to make the flying a little easier on me, sadly i have to get the wing shape wrong
-plane-crazy 2020-04-21 05:24:13 i think im doing something here
-plane-crazy 2020-04-21 05:24:02 
-plane-crazy 2020-04-21 04:50:59 i made a p38 that almost covered my plot result is **failure**
-plane-crazy 2020-04-21 04:46:20 i make planes that are abnormally small
-plane-crazy 2020-04-21 04:45:33 idk how im gonna get aeronautical engineer 1
-plane-crazy 2020-04-20 16:44:16 imma need to understand how you can make planes smaller
-plane-crazy 2020-04-20 16:40:50 short answer: he copied
-plane-crazy 2020-04-20 16:34:05 i learnt nothing from my mistakes, in other words, i dont know how to make a working pllane without tutorials
-plane-crazy 2020-04-20 16:33:05 someone tell me what makes a p38 lightning work
-plane-crazy 2020-04-20 16:30:07 time to make a *working* p38
-plane-crazy 2020-04-20 16:24:32 nothing just bruh
-plane-crazy 2020-04-20 16:22:56 40 upvotes bruh
-plane-crazy 2020-04-20 16:11:25 this is what im kinda irritated at
-plane-crazy 2020-04-20 16:11:15 this was a p38 i finished, BUT, it had so many flaws i just threw it
-plane-crazy 2020-04-20 16:10:52 ok ok look
-plane-crazy 2020-04-20 16:10:50 
-plane-crazy 2020-04-20 16:09:29 i guess ill make something else myself because no one else is here to help
-plane-crazy 2020-04-20 16:07:27 what do i do
-plane-crazy 2020-04-20 16:07:19 i dont even think i understood the layout of the p38 when i realized how off aligned the two centers were
-plane-crazy 2020-04-20 16:06:05 so i learned absolutely nothing during the making of the p38
-plane-crazy 2020-04-20 15:58:47 ok i cant believe i spent my whole day on a failure
-plane-crazy 2020-04-20 15:54:24 was expecting you to say the two centers are out of alignment but ok
-plane-crazy 2020-04-20 15:46:30 spot it (easy)
-plane-crazy 2020-04-20 15:46:25 one thing is very wrong with this plane
-plane-crazy 2020-04-20 15:46:02 
-plane-crazy 2020-04-20 15:29:09 its weakening
-plane-crazy 2020-04-20 15:29:05 oh god
-plane-crazy 2020-04-20 15:28:56 my wifi is doing weird stuff again
-plane-crazy 2020-04-20 15:00:23 ok since i cant put control surfaces anywhere on the front plane wing, ill put them right in the wing
-plane-crazy 2020-04-20 13:55:47 is it accurate
-plane-crazy 2020-04-20 13:54:24 how crappy is the average bulid
-plane-crazy 2020-04-20 13:52:37 also I was told that p38 lightning was a plane people built a lot
-plane-crazy 2020-04-20 13:51:44 someone is making adfx-01 and I'm just sitting here working on my ass p38 lightning
-plane-crazy 2020-04-20 13:16:52 i still havent figured out how to attach control surfaces to the front wing
-plane-crazy 2020-04-20 13:16:25 this p38 isn't going to die in the burning dumpster, right?
-plane-crazy 2020-04-20 13:15:34 lord have mercy on me
-plane-crazy 2020-04-20 13:15:29 
-plane-crazy 2020-04-20 12:53:51 why isnt there a bigger one
-plane-crazy 2020-04-20 12:53:37 we got ᵗⁱⁿʸ and ˢᵐᵃˡˡ landing gears
-plane-crazy 2020-04-20 12:51:19 theres literally only two landing gears
-plane-crazy 2020-04-20 12:51:03 is there a sort of longer landing gear i can use
-plane-crazy 2020-04-20 11:02:59 are railguns good
-plane-crazy 2020-04-20 10:46:55 guess it would take weeks for me before i get a rank
-plane-crazy 2020-04-20 10:46:38 im a bit sad that i wasnt able to get accurate when making the p38
-plane-crazy 2020-04-20 10:24:58 thats a no
-plane-crazy 2020-04-20 10:24:52 ye- no
-plane-crazy 2020-04-20 10:23:15 i guess no it looks fine
-plane-crazy 2020-04-20 10:21:32 are they for steering
-plane-crazy 2020-04-20 10:21:21 uh
-plane-crazy 2020-04-20 10:18:49 the closest thing to a cone available is pyramid wedge, unfortunately, propeller blades cant be attached to pyramid wedges
-plane-crazy 2020-04-20 10:17:41 the propellers are special, because the center is a cone, not a cube
-plane-crazy 2020-04-20 10:17:11 ill have to do the propellers too
-plane-crazy 2020-04-20 10:15:10 its only the cockpit and a third of its wings and im doing something wrong
-plane-crazy 2020-04-20 10:14:41 this p38 lightning cockpit gives me slight disappointment
-plane-crazy 2020-04-20 09:48:33 from what i've seen on youtube, most tutorials got the shape of the p38 right, but they arent very accurate
-plane-crazy 2020-04-20 09:47:13 ive seen the curves, im trying to bend the wedges to my will
-plane-crazy 2020-04-20 09:46:38 how do i make an accurate p38 cockpit
-plane-crazy 2020-04-20 09:12:39 what is even pontoon
-plane-crazy 2020-04-20 08:39:12 are trailed projectiles cooler
-plane-crazy 2020-04-20 08:38:15 and trails
-plane-crazy 2020-04-20 08:38:11 and learn about rails
-plane-crazy 2020-04-20 08:38:05 time to make a railgun
-plane-crazy 2020-04-20 08:35:02 <@!177743269105500160> ey which wedge(s) in wedges 2 section
-plane-crazy 2020-04-20 08:30:35 ok something something need help on p38 lightning cockpit
-plane-crazy 2020-04-20 08:28:08 wait why am i laughing at my disadvantage
-plane-crazy 2020-04-20 08:27:29 i dont have pontoons lmao
-plane-crazy 2020-04-20 08:27:13 got it
-plane-crazy 2020-04-20 08:26:39 trying to get the curves right
-plane-crazy 2020-04-20 08:26:31 p38 cockpit
-plane-crazy 2020-04-20 08:23:34 i need help on this
-plane-crazy 2020-04-20 08:23:32 
-plane-crazy 2020-04-20 08:03:52 why does it exist
-plane-crazy 2020-04-20 08:03:46 what is this pain
-plane-crazy 2020-04-20 08:03:44 
-plane-crazy 2020-04-20 07:59:34 i type fast at the expense of moderately good english
-plane-crazy 2020-04-20 07:59:23 curious
-plane-crazy 2020-04-20 07:59:14 ah nvm i see it
-plane-crazy 2020-04-20 07:58:54 im more curious about how you made that part so round
-plane-crazy 2020-04-20 07:55:24 ok can someone help me on improving the cockpit shape
-plane-crazy 2020-04-20 07:54:16 also when in doubt, say it's a glitch
-plane-crazy 2020-04-20 07:54:00 was trying to get the cockpit glass right, but didnt want to die from brain damage
-plane-crazy 2020-04-20 07:53:41 
-plane-crazy 2020-04-20 06:21:22 i simultaneously believe that i should quit and that i can progress at the same time
-plane-crazy 2020-04-20 06:18:41 one of the confusing parts of the p38 are the propellers, the blades are connected to a cone, and idk how to replicate that
-plane-crazy 2020-04-20 06:17:35 well if im gonna make a better plane nose, i think ill make the plane bigger
-plane-crazy 2020-04-20 06:10:10 i love how the alpha tester badge is a picture of the alpha particle
-plane-crazy 2020-04-20 06:08:05 damm how did you know, purified water
-plane-crazy 2020-04-20 05:53:12 easy to understand?
-plane-crazy 2020-04-20 05:52:10 basically I am so angry at my bad creations I am now deciding to stop making anymore of them and refuse to progress in plane crazy
-plane-crazy 2020-04-20 05:47:55 am easy to angry
-plane-crazy 2020-04-20 05:45:54 i will probably quit the game
-plane-crazy 2020-04-20 05:43:19 there is no way i will make a good creation
-plane-crazy 2020-04-20 05:42:57 the only way i can repilcate the nose is by scaling this aircraft like 2 times bigger
-plane-crazy 2020-04-20 05:42:05 it's gotta die
-plane-crazy 2020-04-20 05:41:56 this cockpit sucks ass
-plane-crazy 2020-04-20 05:41:50 dammit i did it again
-plane-crazy 2020-04-20 05:41:49 
-plane-crazy 2020-04-20 05:33:53 the
-plane-crazy 2020-04-20 05:33:52 the, the
-plane-crazy 2020-04-20 05:33:19 the WHAT
-plane-crazy 2020-04-20 05:21:25 there are only two wedges i use, wedge and triangle wedge
-plane-crazy 2020-04-20 05:20:53 with that curve knowledge i can make a better drone, i think
-plane-crazy 2020-04-20 05:20:35 i really want to somehow be able to make curves on this game
-plane-crazy 2020-04-20 05:19:49 i cant make the cockpit for p38 lightning, am i autistic?
-plane-crazy 2020-04-20 03:10:14 because the only blocks i used to bulid the body of anything is block, wedge and triangle wedge
-plane-crazy 2020-04-20 03:09:37 im desperately trying to make the plane not look flat
-plane-crazy 2020-04-20 03:07:17 it looks like an octagon, but its not an octagon
-plane-crazy 2020-04-20 03:06:55 5 minutes into making and i already dont understand how to bulid the cockpit
-plane-crazy 2020-04-20 03:03:52 so i press f and it wont move
-plane-crazy 2020-04-20 03:03:37 aj duhfsk
-plane-crazy 2020-04-20 03:03:33 what
-plane-crazy 2020-04-20 03:03:31 oh
-plane-crazy 2020-04-20 03:03:29 in what way
-plane-crazy 2020-04-20 03:03:19 what does anchored block do
-plane-crazy 2020-04-20 03:02:36 ok explain the extend your knowledge part, what is that all about, because i cant figure out 25% of the blocks in this game
-plane-crazy 2020-04-20 03:01:01 what
-plane-crazy 2020-04-20 03:00:59 i uh
-plane-crazy 2020-04-20 03:00:45 i am not going to make another drone until i understand how to make better curves
-plane-crazy 2020-04-20 03:00:20 probably gonna make the p38 lightning, god i hope that isnt unoriginal
-plane-crazy 2020-04-20 02:59:56 time to make a plane
-plane-crazy 2020-04-20 02:58:20 is it unoriginal to make that
-plane-crazy 2020-04-20 02:58:09 is f-22 unoriginal
-plane-crazy 2020-04-20 02:55:35 this drone is giving me a headache
-plane-crazy 2020-04-20 02:55:21 ill just delete the damm thing
-plane-crazy 2020-04-20 02:55:04 said that it gotta fly in the burning dumpster
-plane-crazy 2020-04-20 02:54:50 ofc i was thinking the same thing
-plane-crazy 2020-04-20 02:54:25 drone
-plane-crazy 2020-04-20 02:54:16 curves
-plane-crazy 2020-04-20 02:53:40 its probably the missing paintjob
-plane-crazy 2020-04-20 02:53:31 4 up 7 down
-plane-crazy 2020-04-20 02:53:24 
-plane-crazy 2020-04-20 02:52:24 *sigh* already posted
-plane-crazy 2020-04-20 02:52:18 this is the first creation i am proud/ not proud of
-plane-crazy 2020-04-20 02:51:52 i made this wack drone i guess
-plane-crazy 2020-04-20 02:51:00 brodda i aint got experience its my third day of this game
-plane-crazy 2020-04-20 02:50:18 how high the needed rank
-plane-crazy 2020-04-20 02:50:17 no i mean which rank
-plane-crazy 2020-04-20 02:49:47 how ranked
-plane-crazy 2020-04-20 02:49:22 where vip1 at
-plane-crazy 2020-04-20 02:48:36 someone teach me how to make missiles
-plane-crazy 2020-04-20 01:26:56 one last, because nearly everyone hated it
-plane-crazy 2020-04-20 01:26:44 im gonna upgrade my drone one last time
-plane-crazy 2020-04-19 17:15:45 my creations can go fly in the burning dumpster
-plane-crazy 2020-04-19 16:37:31 I do not like the way it stares
-plane-crazy 2020-04-19 16:30:03 or not, I mean, I just made a drone with over 1500 blocks
-plane-crazy 2020-04-19 16:29:39 this will be difficult
-plane-crazy 2020-04-19 16:27:39 which rank
-plane-crazy 2020-04-19 16:25:30 which
-plane-crazy 2020-04-19 16:19:58 was trying to make Mk3 version of citadel drone and 5 dumdums decided to bust out the lag bulids
-plane-crazy 2020-04-19 15:18:40 i guess ill just make a radar and add it to the center of drone, which does nothing, it's for cool looks
-plane-crazy 2020-04-19 15:18:09 well splitting that rocket turret into two smaller rocket turrets (each with 6 rockets) did the trick, they are more stable
-plane-crazy 2020-04-19 15:16:38 no toggle too
-plane-crazy 2020-04-19 15:16:11 no servo
-plane-crazy 2020-04-19 15:15:56 all of the motor2s are like that
-plane-crazy 2020-04-19 15:15:37 speed 15
-torque 20
-<@!287459677611098114>
-plane-crazy 2020-04-19 15:09:54 experts, please tell me what have i done wrong that made my turret spin
-plane-crazy 2020-04-19 15:04:27 i know, its bad isnt it?
-plane-crazy 2020-04-19 15:03:00 for reasons idk, the turret kept rotating left and right
-plane-crazy 2020-04-19 15:02:30 
-plane-crazy 2020-04-19 15:02:30 rocket turret
-plane-crazy 2020-04-19 14:06:16 wait explode on?
-plane-crazy 2020-04-19 14:05:51 the payload was also not set to explode on impact
-plane-crazy 2020-04-19 14:03:08 one problem was that before I even launched the rocket, rotating it always make the explosive payload explode
-plane-crazy 2020-04-19 14:02:37 *I make my own, because the normal ones don't got enough boom*
-plane-crazy 2020-04-19 14:02:20 and no im not gonna use the normal rockets
-plane-crazy 2020-04-19 14:02:06 I'm already struggling to make a rocket turret
-plane-crazy 2020-04-19 10:00:40 oh well, it's the first version of giant drones anyways
-plane-crazy 2020-04-19 10:00:00 and we all know how slow 60 sps is
-plane-crazy 2020-04-19 09:59:32 i put motor at 50 speed, even with blades this big, it moves at 60 sps
-plane-crazy 2020-04-19 09:58:59 that big center propeller is the thing that make it move
-plane-crazy 2020-04-19 09:58:44 here is my drone in action
-plane-crazy 2020-04-19 09:58:42 
-plane-crazy 2020-04-19 09:58:03 water propeller is ok i guess
-plane-crazy 2020-04-19 09:57:49 propeller poo poo
-plane-crazy 2020-04-19 09:57:42 when i make the next drone i think ill use jet or rocket propulsion
-plane-crazy 2020-04-19 09:49:47 what does that look like
-plane-crazy 2020-04-19 09:49:38 unique you say
-plane-crazy 2020-04-19 09:48:38 i am not gonna make another drone
-plane-crazy 2020-04-19 09:48:24 at least something to follow
-plane-crazy 2020-04-19 09:48:05 is there something i can make
-plane-crazy 2020-04-19 09:39:15 im guessing its in the battleship class
-plane-crazy 2020-04-19 09:39:05 what ship is that
-plane-crazy 2020-04-19 09:37:09 cant believe i sprained my back to "improve" this drone
-plane-crazy 2020-04-19 09:36:51 
-plane-crazy 2020-04-19 08:31:48 i made a drone an 8 year old can duplicate
-plane-crazy 2020-04-19 08:30:42 i dont even understand the actual thing of aerodynamics
-plane-crazy 2020-04-19 08:30:27 how are people good at this game
-plane-crazy 2020-04-19 08:27:05 what in the kentucky fried frick have i made
-plane-crazy 2020-04-19 08:26:41 k so do i start painting
-plane-crazy 2020-04-19 08:12:51 but im not sure what this is
-plane-crazy 2020-04-19 08:12:41 i tried to make it look nicer
-plane-crazy 2020-04-19 08:12:30 what am i even doing
-plane-crazy 2020-04-19 08:12:27 
-plane-crazy 2020-04-19 05:59:49 next drone design will be based on that one except I'm not gonna use propellers to steer it
-plane-crazy 2020-04-19 05:59:15 Hmm ok
-plane-crazy 2020-04-19 05:56:12 <@300103214873968650> So it's too simple, is that you mean?
-plane-crazy 2020-04-19 05:15:47 <@300103214873968650>
-the drone I submitted in <#384025409945337856> almost everyone hated it, and I want to know why
-plane-crazy 2020-04-19 05:11:13 kresen is there any piece of text in this server that motivates people, I feel like I never made anything good
-plane-crazy 2020-04-19 05:09:04 lord what do I do
-plane-crazy 2020-04-19 05:07:20 I still dont know why the majority of voters hate the drone, but I hate that I'm bad at designing
-plane-crazy 2020-04-19 05:05:50 bruh what's going on
-plane-crazy 2020-04-19 05:05:15 by I mean big drone i mean this drone, what is the thing about it that grinds your gears
-plane-crazy 2020-04-19 05:04:23 ok so tell me why you hated the big drone i submitted in <#384025409945337856>
-plane-crazy 2020-04-19 04:52:30 bruh
-plane-crazy 2020-04-19 04:52:23 am i the only one that likes making drones
-plane-crazy 2020-04-19 04:37:56 all i know is im a terrible designer and will stay like that
-plane-crazy 2020-04-19 04:37:40 but i didnt know what was wrong with it
-plane-crazy 2020-04-19 04:37:31 thats why i said ouch
-plane-crazy 2020-04-19 04:37:27 yeah i know
-plane-crazy 2020-04-19 04:36:26 ouch
-plane-crazy 2020-04-19 04:36:24 and nearly all votes hated it
-plane-crazy 2020-04-19 04:36:16 so i checked on my drone submitted to <#384025409945337856>
-plane-crazy 2020-04-19 04:15:41 literally everything i make on my own is terrible so ill build something that already exists
-plane-crazy 2020-04-19 04:15:09 guys what should i build
-plane-crazy 2020-04-19 04:12:30 lord why do i like this game when im bad at it
-plane-crazy 2020-04-19 04:10:03 why do i play this game
-plane-crazy 2020-04-19 04:08:57 haven't finished painting the drone and i think i have done something really wrong
-plane-crazy 2020-04-19 03:55:58 you can paint the sides of the block
-plane-crazy 2020-04-19 03:55:45 nvm i got it
-plane-crazy 2020-04-19 03:55:24 what does paint block do
-plane-crazy 2020-04-19 01:41:38 Bruh
-plane-crazy 2020-04-19 01:41:34 Desert or winter
-plane-crazy 2020-04-19 01:41:25 I mean idk what camouflage to choose
-plane-crazy 2020-04-19 01:40:01 Bro what do i paint my drone with
-plane-crazy 2020-04-18 16:36:08 since my drone is large might as well make it carry bombs
-plane-crazy 2020-04-18 16:11:51 default material doesnt seem strong
-plane-crazy 2020-04-18 16:11:33 should i armor the drone
-plane-crazy 2020-04-18 16:09:39 context: someone crashed my drone with a missile
-plane-crazy 2020-04-18 16:09:30 
-plane-crazy 2020-04-18 15:39:51 my turrets use motor2s and they keep spazzing, and for some moments they stop
-plane-crazy 2020-04-18 15:39:15 just a question but do motor2s respond to nearby targets
-plane-crazy 2020-04-18 15:36:56 it is the saturn v
-plane-crazy 2020-04-18 15:36:50 wait no
-plane-crazy 2020-04-18 15:36:48 looks like the saturn v
-plane-crazy 2020-04-18 15:27:48 bruh i was putting on desert camo on my drone and my wifi cut off, removing all the paint i put on
-plane-crazy 2020-04-18 14:57:28 i didnt know that turrets that use motor 2s would also target nearby targets automatically until i tested my drone
-plane-crazy 2020-04-18 14:42:54 hey can you guys rate my drone
-plane-crazy 2020-04-18 14:42:07 also is this a plane of your own or a reference to something
-plane-crazy 2020-04-18 14:41:18 the biggest drone i can make without folds
-plane-crazy 2020-04-18 14:41:03 project citadel is finished
-plane-crazy 2020-04-18 14:40:54 finally
-plane-crazy 2020-04-18 14:40:54 
-plane-crazy 2020-04-18 13:32:40 imma attach 8 machinegun turrets on the 4 steering thrusters
-plane-crazy 2020-04-18 13:32:17 my drone is almost completed
-plane-crazy 2020-04-18 13:31:03 wait what
-plane-crazy 2020-04-18 13:30:55 mine is a drone with a minigun turret
-plane-crazy 2020-04-18 13:30:37 just attack him with your favorite combat build
-plane-crazy 2020-04-18 13:28:12 can I say what I wished I can make with the correct skills
-plane-crazy 2020-04-18 13:25:35 bruh
-plane-crazy 2020-04-18 13:12:26 copying someone's work, then claiming the original is worse (without any obvious evidence) is a double no no
-plane-crazy 2020-04-18 13:11:51 you gotta do something about it
-plane-crazy 2020-04-18 13:11:43 yep
-plane-crazy 2020-04-18 13:10:34 this sounds like the words of a bully
-plane-crazy 2020-04-18 13:09:39 you asked for credit first or he jumped the gun?
-plane-crazy 2020-04-18 13:06:22 did they make something based on it or literally made the exact copy of it
-plane-crazy 2020-04-18 11:09:56 hey, spanish or vanish
-plane-crazy 2020-04-18 10:01:31 man, I sometimes have terrible designs
-plane-crazy 2020-04-18 10:01:19 I was immensely scared when someone built adf-11f from ace combat 7 and flew it over my drone
-plane-crazy 2020-04-18 09:48:47 ok I understand gyroscopes now, but putting it on my drone is gonna be tricky
-plane-crazy 2020-04-18 09:35:22 ok back to learning quad fold and gyroscopes
-plane-crazy 2020-04-18 09:34:30 and I'm not taking the risk
-plane-crazy 2020-04-18 09:34:23 because there is a percentage that hates it
-plane-crazy 2020-04-18 09:33:44 you might probably hate this but I use ballast blocks to balance my drones
-plane-crazy 2020-04-18 09:30:04 actually nvm dont answer my question I wont understand either way
-plane-crazy 2020-04-18 09:29:25 ok excuse me, im a noob but how did you make that
-plane-crazy 2020-04-18 09:29:01 how do you
-plane-crazy 2020-04-18 09:28:35 maybe even a railgun
-plane-crazy 2020-04-18 09:28:28 time to add turrets on my drone
-plane-crazy 2020-04-18 08:33:17 welp imma go without the gyroscope, what can go wrong
-plane-crazy 2020-04-18 08:29:05 and i dont even know how to make one
-plane-crazy 2020-04-18 08:28:59 putting in a gyroscope will be difficult
-plane-crazy 2020-04-18 08:28:40 well in the center is the pilot seat, as well as propeller motors
-plane-crazy 2020-04-18 08:23:11 none of the tutorials did i understand
-plane-crazy 2020-04-18 08:22:56 ok please give me a picture of a basic gyroscope
-plane-crazy 2020-04-18 08:21:05 where do i put one on the drone
-plane-crazy 2020-04-18 08:20:54 ok so back to gyroscope
-plane-crazy 2020-04-18 08:20:21 no
-plane-crazy 2020-04-18 08:19:56 on that big drone
-plane-crazy 2020-04-18 08:19:49 ok but where do i put one
-plane-crazy 2020-04-18 08:17:51 give me a thousand miliseconds
-plane-crazy 2020-04-18 08:17:39 ok ill look up a gyroscope tutorial
-plane-crazy 2020-04-18 08:16:07 sorry im too newb to understand what is a gyroscope
-plane-crazy 2020-04-18 08:15:25 another bonus about this drone is that it's silent
-plane-crazy 2020-04-18 08:14:54 its not a drone if it doesnt spin
-plane-crazy 2020-04-18 08:14:46 now i just gotta make it spin
-plane-crazy 2020-04-18 08:14:40 Finally, finished the left/right steering
-plane-crazy 2020-04-18 07:35:21 how hard can it be
-plane-crazy 2020-04-18 07:34:19 I think I'll make a zeppelin
-plane-crazy 2020-04-18 06:53:30 is it big or not big enough
-plane-crazy 2020-04-18 06:53:16 this is my old version, I havent took a picture of my current version
-plane-crazy 2020-04-18 06:52:12 what is the biggest drone you have
-plane-crazy 2020-04-18 06:51:56 guys can I ask something
-plane-crazy 2020-04-18 06:47:57 what is the biggest flying drone you guys got
-plane-crazy 2020-04-18 06:45:32 who is an expert at drones
-plane-crazy 2020-04-18 06:35:59 how big is the projectile
-plane-crazy 2020-04-18 06:35:50 so I heard there are railguns in the game
-plane-crazy 2020-04-18 05:43:20 ew, helicopters
-plane-crazy 2020-04-18 05:43:04 which is why I am working on project citadel
-plane-crazy 2020-04-18 05:42:44 i have no idea why but it's something about drones that make me favor them
-plane-crazy 2020-04-18 05:42:17 why do i frequently make drones again
-plane-crazy 2020-04-18 05:20:27 oops sorry
-plane-crazy 2020-04-18 05:20:09 if i were to weaponize this drone i would probably add a large bomb
-plane-crazy 2020-04-18 05:19:26 there are two rotors in inside this steering engine, one at the bottom controls forward/backward, one at the top controls left/right
-plane-crazy 2020-04-18 04:53:54 should I make a weaponized version of the drone?
-plane-crazy 2020-04-18 04:53:20 which makes sense, because it's huge
-plane-crazy 2020-04-18 04:53:10 steering this drone is kinda hard
-plane-crazy 2020-04-18 04:52:02 heres an updated version, now it has bigger steering propellers
-plane-crazy 2020-04-18 04:51:48 
-plane-crazy 2020-04-18 04:05:02 so as I stated this is a WIP, but I wanna know what I can do to make it look nicer
-plane-crazy 2020-04-18 04:04:38 
-plane-crazy 2020-04-18 04:04:37 
+The Tale of circle31415 (428948212225933312)
+help 2020-04-17 11:07:13 this is a drone im buliding with a really large rotor
+help 2020-04-17 11:07:33 
+help 2020-04-17 11:07:41 however, when i turn on the motor, the motor does not rotate the propeller part, it rotates both the propeller part and body part
+help 2020-04-17 11:07:59 ive known this problem, but i have yet to fix it
+help 2020-04-17 11:09:58 should i make the propeller smaller?
+help 2020-04-17 11:10:51 counter rotor
+help 2020-04-17 11:10:55 ohh wait i get it
+help 2020-04-17 11:11:40 wait how would i attach the body to the rotor then
+help 2020-04-17 11:22:31 it works
+help 2020-04-17 11:22:42 i pressed r and it flew in a flash
+help 2020-04-17 11:34:35 i got another question
+help 2020-04-17 11:34:47 is there any sort of heavy blocks in the game
+help 2020-04-17 11:35:09 this is so i can make compact counterweights
+help 2020-04-17 11:35:20 oh
+help 2020-04-17 11:59:18 
+help 2020-04-17 11:59:20 well great
+help 2020-04-17 11:59:30 one rotor isnt spinning
+help 2020-04-17 12:11:37 your character does not affect the weight
+help 2020-04-17 12:12:05 from my experience, dont put the propellers like a +
+help 2020-04-17 12:12:15 do it more like a X
+help 2020-04-17 12:12:38 its way more stable
+help 2020-04-17 12:19:53 ok yeah i see it now
+help 2020-04-17 12:20:00 but it was real tiny
+help 2020-04-17 12:24:09 ok so
+help 2020-04-17 12:24:29 i tried the two rotors thing but it didnt work rn
+help 2020-04-17 12:25:03 when one rotor spun opposed to the other it didnt move
+help 2020-04-17 12:40:43 Can I ask for help on my problem now?
+help 2020-04-17 12:42:30 
+help 2020-04-17 12:42:47 so in the picture I used 2 rotors to prevent the drone body from spinning
+help 2020-04-17 12:42:56 now only the lower propeller spins
+help 2020-04-17 12:45:20 actually in the current version I removed the top part of the body connecting to the top motor
+help 2020-04-17 12:45:25 the same thing happened
+help 2020-04-17 12:45:39 how
+help 2020-04-17 12:46:51 wait what
+help 2020-04-17 12:47:13 I guess I'll put a block in between the two motors
+help 2020-04-17 12:49:29 why
+help 2020-04-17 12:49:38 is that not gonna work or
+help 2020-04-17 15:53:14 still havent figured out how to make one rotor copters
+help 2020-04-17 15:54:23 no no no it isnt that simple
+help 2020-04-17 15:54:42 you use 1 motor, and the body part it is attached to spins
+help 2020-04-17 15:54:53 2 motors, the same thing happens
+help 2020-04-17 15:55:12 this is why when making a drone, you use multiple rotors
+help 2020-04-17 15:55:29 you think i didnt try that?
+help 2020-04-17 15:55:40 well i did
+help 2020-04-17 15:55:49 body part still spins
+help 2020-04-17 15:56:23 bruh
+help 2020-04-17 15:58:14 ok it works
+help 2020-04-17 15:58:16 thanks
+help 2020-04-17 15:59:59 wait what
+help 2020-04-17 16:00:16 oh wait now the body part is spinning again
+help 2020-04-17 16:01:46 yes
+creations-chat 2020-04-18 04:00:44 its WIP, but I call this thing Project Citadel
+creations-chat 2020-04-18 04:02:50 is there anything i can do to uh, make my drone look nicer
+creations-chat 2020-04-18 04:03:03 scroll up
+creations-chat 2020-04-18 04:05:29 so motor + propeller system?
+help 2020-04-18 10:25:16 I decided that this drone needs a gyroscope, but because the main propulsion is the center propeller I'm not sure how, any ideas?
+help 2020-04-18 10:25:52 pilot seat is inside that glass chamber
+help 2020-04-18 10:26:07 because it keeps tilting
+help 2020-04-18 10:26:30 a what
+help 2020-04-18 10:28:20 ok excuse me what
+help 2020-04-18 10:28:36 there is absolutely no way I can attach a swashplate on the drone
+help 2020-04-18 10:40:45 I'm probably just gonna leave my drone as is, not like it will crash if I dont add anything to stabilize it
+help 2020-04-18 10:44:39 I'm at somewhere else that isnt my house
+help 2020-04-18 10:44:45 therefore I cant join sorry
+help 2020-04-18 15:46:15 
+help 2020-04-18 15:46:28 need help on the turrets
+help 2020-04-18 15:46:42 they use motor2s, so they aim with cursor
+help 2020-04-18 15:47:29 but uh, they move uncontrollably, a lot, and their accuracy when aimed is terrible
+help 2020-04-18 15:48:14 how low
+help 2020-04-18 15:55:38 after a while of fixing the turrets
+help 2020-04-18 15:55:58 i realized this one turret as pointing up because i used normal motor
+help 2020-04-18 15:56:47 this is what happens when i bulid something big
+help 2020-04-18 15:57:00 source of errors are smaller than a grain of salt
+help 2020-04-18 16:04:02 bro i was testing my drone turrets and someone lauched a missile at it and crashed it
+help 2020-04-18 16:04:24 check center of lift and weight
+creations-chat 2020-04-18 16:51:22 [NAME]: Project Citadel
+[BLOCKS]: 1060
+creations-chat 2020-04-18 16:52:53 oh no it actually flys
+creations-chat 2020-04-18 16:52:55 sorry
+creations-chat 2020-04-18 16:53:16 i think you guys cant see the propellers
+creations-chat 2020-04-18 16:53:25 ill send a front view
+creations-chat 2020-04-18 16:53:46 oh
+creations-chat 2020-04-18 16:53:55 was confused there
+creations-chat 2020-04-18 16:54:41 [front view] (note: yes the thing flh
+creations-chat 2020-04-18 16:54:58 dammit was about to say it flies
+creations-chat 2020-04-19 15:41:13 an "improved" version of the biggest drone i make w/o folds
+creations-chat 2020-04-19 15:41:36 will probably stop there and make a fighter jet instead
+creations-chat 2020-04-19 15:41:46 you talking to me blast?
+creations-chat 2020-04-19 15:42:48 well yeah it flies, but at like 60 sps
+creations-chat 2020-04-19 15:43:07 this is meant to be a capital class drone of sorts
+creations-chat 2020-04-19 15:44:44 actually if your taking about it's speed when it goes straight up its 15 sps
+creations-chat 2020-04-19 15:45:12 when tilting moderately to move, that's 60 sps
+creations-chat 2020-04-19 15:45:24 yeah
+creations-chat 2020-04-19 15:47:00 next huge drone would use jet or rocket propulsion instead since idk how to make a bigger propeller and 2 gigantic propellers is too much for a drone imo
+creations-chat 2020-04-19 15:49:32 argh dammit i knew i gotta make it fast, im adding secondary propellers
+creations-chat 2020-04-20 07:20:20 what in the russian pancakes just happened
+creations-chat 2020-04-20 07:20:54 who unde
+creations-chat 2020-04-20 07:21:28 oh hes the dude that posted the plane with the control surfaces
+help 2020-04-20 10:16:57 p38 lightning cockpit, is there room for improvement?
+creations-chat 2020-04-20 14:49:43 he done an oopsie
+help 2020-04-20 15:47:35 Problem 1: the two centers are out of alignment
+Problem 2: plane keeps spinning to the left when propellers are turned on
+help 2020-04-20 15:49:55 done
+help 2020-04-20 15:50:02 i knew that basic knowledge
+help 2020-04-20 15:50:09 yet it keeps going to the left
+help 2020-04-20 15:50:41 plane is probs to too heavy to take off
+help 2020-04-20 15:50:58 oh damm they are
+help 2020-04-20 15:59:14 forget this plane, i got rid of it
+help 2020-04-20 15:59:32 it's too broken to be even fixed
+help 2020-04-21 12:14:00 
+help 2020-04-21 12:14:02 p38 can't fly
+help 2020-04-21 12:14:11 do i have to reduce the weight?
+help 2020-04-21 12:15:22 yes
+help 2020-04-21 12:15:49 you talking about the giant propellers?
+help 2020-04-21 12:21:16 what
+help 2020-04-21 12:30:43 bruh even with 7 super rocket the thing wont fly
+help 2020-04-21 12:30:54 why am i bad at this game
+help 2020-04-21 12:30:58 yes
+help 2020-04-21 12:31:11 yes
+help 2020-04-21 12:34:52 what was it that got other people's propeller planes to fly but not my p38
+help 2020-04-21 12:36:37 what's concerning me is that i don't know what makes a plane fly
+help 2020-04-21 12:40:43 and also how are you supposed to make a 200 block plane
+help 2020-04-21 12:42:27 i think im gonna take a lil break, i cant make a 200+ plane without ending with an overweighted plane
+help 2020-04-24 16:16:27 
+help 2020-04-24 16:16:29 need help on the two centers
+help 2020-04-24 16:18:22 can anyone help
+help 2020-04-24 16:21:15 as you wish
+help 2020-04-24 16:28:53 
+help 2020-04-24 16:28:53 
+help 2020-04-24 16:28:54 
+help 2020-04-24 16:28:55 so the two centers are messed up
+help 2020-04-24 16:29:05 which is why the thing wont fly
+help 2020-04-24 16:34:59 it is
+help 2020-04-24 16:35:20 center of weight?
+help 2020-04-24 16:35:35 zoom in
+help 2020-04-24 16:35:52 im not sure how you cant see it
+help 2020-04-24 16:36:19 how, this is f35
+help 2020-04-24 16:36:54 forward?
+help 2020-04-24 16:39:49 f35 is different
+help 2020-04-24 16:40:00 im trying to make it look like the real thing
+help 2020-04-24 17:16:28 to prevent lag and stuff
+help 2020-04-25 03:41:43 f-35 except the two centers are messed up
+help 2020-04-25 03:42:59 previously i asked for help but a non-ranked player told me to extend the wings forward, and im not sure if thats the right answer
+help 2020-04-25 03:44:32 how do i tilt the vertical things
+help 2020-04-25 03:44:57 thats like next level moves only a wizard can do
+help 2020-04-25 03:45:17 hidden inside is 5 super rockets
+help 2020-04-25 03:46:30 please tell me how i am gonna get the wings right, am i autistic or smth
+help 2020-04-25 03:48:18 hello? anybody?
+help 2020-04-25 04:20:55 because you have 2 expert ranks duh
+help 2020-04-25 04:21:10 you gonna help me or laugh at me choose fam
+help 2020-05-05 08:43:01 is this fixable
+help 2020-05-05 08:43:56 and yea its potato quality, you dont have to tell me
+help 2020-05-05 12:23:32 so putting 2 ballast beams with density 20 the back of the aircraft made it fly
+help 2020-05-05 12:23:45 but now i gotta improve it, somehow
+help 2020-05-05 12:26:41 so one problem i found with the addition of ballast blocks that now it can sometimes wobble
+creations-chat 2020-08-29 16:11:05 just a drone
+creations-chat 2020-08-29 16:11:36 maybe I could put on a gyroscope
+creations-chat 2020-08-29 16:12:05 dunno how, the center has a bunch of super rockets to steer it
+creations-chat 2020-08-29 16:12:20 > the center looks like a light blue cancer tumor
+I am sorry you think of it like that
+creations-chat 2020-08-29 16:12:43 what the hecc is a box
+creations-chat 2020-08-29 16:13:51 /s
+creations-chat 2020-08-29 16:14:38 dude I was being sarcastic please don't tell me your response was sarcastic too
+help 2021-02-23 03:20:21 imagine making real life planes lol

@@ -1,15 +1,99 @@
-ainsley4ever
-plane-crazy 2020-03-17 18:19:35 <@!163143541160148992> It's submersible that's what the holes are for lol
-plane-crazy 2020-03-17 18:18:20 <@!615356321340063784> Yeah I see what you meant now, but as I said before I don't think that could be done (because you wouldn't want to park a spacecraft that uses nuclear bombs for propulsion near anything
-plane-crazy 2020-03-17 18:16:51 crap just pinned myself lol
-plane-crazy 2020-03-17 18:16:41 <@!480688071726071821> Oh I see what you meant now
-plane-crazy 2020-03-17 18:12:36 Bourgeoisie
-plane-crazy 2020-03-17 18:12:26 <@!615356321340063784> I mean an Orion spacecraft is very clumsy (it uses nuclear bombs to move so yeah) so you wouldn't want to park near anything (that includes your station)
-plane-crazy 2020-03-17 18:10:12 <@!615356321340063784> Anyway what I wanted to say is that normally you would use the small shuttles on my ship to transfer people and resources between a station and the ship
-plane-crazy 2020-03-17 18:08:15 Oh nice
-plane-crazy 2020-03-17 18:07:56 Yeah
-plane-crazy 2020-03-17 18:07:29 Technically a nuclear reactor would need radiators to dump its waste heat into space so that's not that<@!163143541160148992>
-plane-crazy 2020-03-17 18:06:34 Yeah it's interesting
-plane-crazy 2020-03-17 18:06:26 <@!615356321340063784> Oh I see
-plane-crazy 2020-03-17 17:57:00 <@!615356321340063784> I mean can you post the image you have so I can see?
-plane-crazy 2020-03-17 17:55:58 Yeah just show me what you have
+The Tale of ainsley4ever (480688071726071821)
+creations-chat 2020-03-03 21:27:35 Waaa… WAAAA… WAAAALUIIGIII!
+Here’s an articulated Waluigi I made:
+- Can fly and is controllable (helium blocks)
+- Is articulated and “wobbles” its limbs when moving (having motor-driven limbs would make their movement unrealistic during flight)
+- Can move his head and eyes (see gifs below)
+- Fires lasers (guns) from his eyes
+- Is Waluigi
+creations-chat 2020-03-03 21:27:46 
+creations-chat 2020-03-03 21:28:03 Gif of me rotating him for full view (sorry for the lag)
+creations-chat 2020-03-03 21:28:18 Gif of the movement of the head and eyes
+help 2020-03-17 12:29:40 Requesting Expert Designer [V] with my Waluigi (He's in the HoF)
+help 2020-03-17 12:29:58 Block count : 1063
+help 2020-03-17 12:32:09 WAAA
+help 2020-03-17 12:33:32 Oh wait you need to ping a moderator to get a rank
+help 2020-03-17 12:33:36 I'm dumb lol
+help 2020-03-17 12:35:15 Oh wait what?
+help 2020-03-17 12:37:07 <@!454570394343702529> Probably a very dumb question but how do you see your rank?
+help 2020-03-17 12:37:50 <@!454570394343702529> Oh just found how, sorry for the trouble
+help 2020-03-17 12:40:28 <@!297019145084469248> From what I remember you can just paint a block with the metal material and use the eyedropper thing tool to pick its default color
+help 2020-03-17 12:42:54 Oh you're right you can't pick the color
+help 2020-03-17 12:43:35 I did some quick testing and the color would be approx. 15 195 195 for a default metal block
+help 2020-03-17 12:43:48 195 195 195 I can't type
+bot-central 2020-03-17 13:04:45 !help
+bot-central 2020-03-17 13:21:10 !servers
+creations-chat 2020-03-17 17:47:32 Allow me to introduce you the Boomer, a realistic nuclear-powered spacecraft with enough power to blast its way through the entire solar system.
+
+(It flies using zero-G mode, and yes, it’s huge. It has 5525 blocks, half of which are for details, and takes up more than 100k of my save space. I couldn’t even add all the maneuvering engines because I don’t have any save space left lol)
+
+More details below
+creations-chat 2020-03-17 17:47:43 
+creations-chat 2020-03-17 17:48:04 The spacecraft itself is based on Project Orion; a study conducted in the 60s which studied the possibility of propelling a spacecraft using tiny modified nuclear bombs (Hence its name).
+
+While it may sound “a bit” strange at first, the idea was actually really interesting: not only would it be feasible with our technology level, but it would have allowed us to make absurdly powerful ships (I’m talking about sending an entire research base to Saturn and back to Earth in one go). Really, if the Partial Ban Treaty hadn’t occurred, we would probably already be lugging stuff around the solar system using Orion spaceships.
+
+
+I tried making everything as close to the real thing as possible while still having it look good:
+
+Here’s the engine (yes, the image quality is terrible), which absorbs the nuclear detonations to propel the spacecraft. I had to speed up the video because of the lag. (Also, a real engine would offer much, much higher thrust than this one)
+creations-chat 2020-03-17 17:48:22 Here we have the habitation module, which is entirely decorated according to the sources I found (normally the larger part is upside down but moving around in it was already difficult so no). The front part can be ejected in case of a catastrophic failure, and two landers are also attached to it (Those are not functional because I don’t have any save space left). I also added a tiny nuclear reactor (like those on which NASA is currently working on) to power everything up.
+creations-chat 2020-03-17 17:48:28 
+creations-chat 2020-03-17 17:48:46 Here’s the inspiration I used. The images were taken from a copy of report GA-5009 vol III "Nuclear Pulse Space Vehicle Study - Conceptual Vehicle Design" by General Atomics (1964), which I found while browsing the Atomic Rockets site
+creations-chat 2020-03-17 17:48:56 <@!439659689610051585> Yup it's one
+creations-chat 2020-03-17 17:49:11 Thanks guys
+creations-chat 2020-03-17 17:50:22 Thanks again, and really the most incredible thing is that a thing like this would work irl and be viable
+creations-chat 2020-03-17 17:50:40 Yes as you may have seen I have an obsession with spaceships
+creations-chat 2020-03-17 17:51:18 Oh about that
+creations-chat 2020-03-17 17:51:48 The ship is technically meant to act as a space station lol
+creations-chat 2020-03-17 17:51:52 Oh really?
+creations-chat 2020-03-17 17:52:52 What do you mean by piston lock?
+creations-chat 2020-03-17 17:54:56 <@!316693531638890497> Thanks man
+creations-chat 2020-03-17 17:57:20 It's pipes
+creations-chat 2020-03-17 17:57:26 Lots of pipes
+creations-chat 2020-03-17 17:58:20 Wait what part are you referring to?
+creations-chat 2020-03-17 17:59:50 AaAhgh wait too many complaints lol
+creations-chat 2020-03-17 18:01:10 <@!163143541160148992> Yeah I get what you mean about the exposed pipes and stuff, the real project had all of them well protected. But I like having exposed pipes everywhere so I just went with it
+creations-chat 2020-03-17 18:02:28 yeah that's the feeling I wanted to give to it
+creations-chat 2020-03-17 18:03:07 But if you look at the original thing no pipes are exposed, so yeah you're right <@!163143541160148992>
+bot-central 2020-03-19 23:25:44 !servers
+creations-chat 2020-03-20 02:14:14 Here’s a fully functional ornithopter that I made (~~correct me if I’m wrong, but this thing is probably the first entirely functional ornithopter ever made in this game~~ Well I was wrong lol).
+
+The flapping system is fully automated, and mimics the wing movements of a dragonfly. I chose to use 4 wings so the craft doesn’t bounce up and down too much.
+And yes, I know, it has the body of a bird. Don’t look at me like that lol, I just thought a 4-winged mechanical bird would look cooler than a big dragonfly.
+The ornithopter is lightly decorated to resemble a bird. I chose not to decorate it too heavily, as doing so would weigh it down too much and hide the mechanisms that make it fly (seeing the flapping mechanism work makes the vehicle more interesting in my opinion).
+creations-chat 2020-03-20 02:14:21 
+creations-chat 2020-03-20 02:14:26 
+creations-chat 2020-03-20 02:14:49 In these gifs I cut the wings to better see their movement. As the wings move, they tilt in a way that creates thrust: when the wings go down, they tilt forwards, and push the craft forwards (by pushing the air backwards). And when they go back up, they tilt backwards, and since the craft already gained speed, they cut through the air without resistance (by the way this is how real birds and insects fly). In the end, we get enough thrust to propel the entire ornithopter through the sky.
+creations-chat 2020-03-20 02:14:56 
+creations-chat 2020-03-20 02:15:13 Here’s a sole flapping mechanism, in case some of you want to use it (but please, don’t claim it as your own unless you heavily modified it, else that’s not cool at all)
+creations-chat 2020-03-20 02:15:26 And here’s a simpler version, that doesn’t produce any thrust but still looks cool enough to be used in a “false” ornithopter
+creations-chat 2020-03-20 02:29:10 <@238017332872478720> Oof. Well I'll correct my claim then
+creations-chat 2020-03-20 02:31:32 Yeah e
+creations-chat 2020-03-20 02:31:56 But it still works correctly and that's the most important
+creations-chat 2020-03-20 02:34:03 Oh I didn't know you could do that
+creations-chat 2020-03-20 02:34:13 Well thanks for letting me know
+creations-chat 2020-03-23 22:49:25 <@163143541160148992> By monstrosity you mean the size of my spaceship and not its appearance, right? Right?? RiGhT??? Also that's one hell of a ship you showed here
+bot-central 2020-03-26 17:34:19 !servers
+bot-central 2020-04-01 00:26:22 !servers
+bot-central 2020-04-17 09:57:49 !servers
+bot-central 2020-04-20 09:53:31 !servers
+bot-central 2020-09-05 12:30:15 !servers
+bot-central 2020-09-20 18:18:52 !servers
+bot-central 2020-09-20 18:19:15 !expertservers
+bot-central 2020-09-21 17:40:03 !servers
+bot-central 2020-12-19 17:32:51 !expertservers
+bot-central 2021-04-03 13:11:05 !servers
+bot-central 2021-08-22 14:04:13 !expertservers
+bot-central 2021-08-26 17:18:50 -expertservers
+creations-chat 2021-08-26 20:43:45 I was just about to ask <@756523831585275905> what he meant by gondal lol
+I Didn't know these robots existed
+creations-chat 2021-08-26 20:45:55 The one I posted can also swim (since the irl animal it's based on lives in the water) but it's slower and laggier
+creations-chat 2021-08-26 20:49:38 Sure, I'll do it when I have the time (which should be soon)
+creations-chat 2021-08-26 23:03:00 I'm flattered lol. Honestly the flapping mechanism for each pair of wings isn't that complicated (I could show you if you're interested), it's the syncing mechanism that was horrible to make. The damn thing kept jamming at unexpected locations and would sometimes bug out for seemingly no reason. But as you can see I managed to get it working properly, and it (almost) never glitches
+bot-central 2021-08-27 11:39:18 !help
+bot-central 2021-08-27 11:40:00 -expertservers
+bot-central 2021-08-27 12:25:31 -servers
+bot-central 2021-09-01 22:08:16 -expertservers
+bot-central 2021-11-05 11:57:17 -servers
+bot-central 2021-12-17 23:49:59 -servers

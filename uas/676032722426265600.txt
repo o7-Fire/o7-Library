@@ -1,0 +1,224 @@
+The Tale of rkazbqm (676032722426265600)
+bot-central 2022-03-20 01:47:31 -ms 15 15
+bot-central 2022-03-20 01:48:11 -ms 10 10
+bot-central 2022-03-20 01:49:18 ?whois
+bot-central 2022-03-20 01:49:37 !rank
+bot-central 2022-03-20 01:49:45 -ms 10 10
+bot-central 2022-03-20 01:49:53 !RANK
+bot-central 2022-03-20 01:50:24 -ms 15 15
+bot-central 2022-03-20 01:51:18 !rank
+bot-central 2022-03-20 01:53:29 !rank
+bot-central 2022-03-20 01:53:42 -ms 30 30
+bot-central 2022-03-20 01:55:33 -ms 1 10
+bot-central 2022-03-20 01:57:19 -ms 1 30
+bot-central 2022-03-20 01:58:13 !rank
+bot-central 2022-03-20 01:58:53 -help
+bot-central 2022-03-20 01:59:43 -help minesweeper
+bot-central 2022-03-20 02:00:01 -help minecraft
+bot-central 2022-03-20 02:00:19 -minesweeper 10 10 100
+bot-central 2022-03-20 02:00:42 !RANK
+bot-central 2022-03-20 02:05:47 -ms 1 1 80
+bot-central 2022-03-20 02:06:10 -ms 10 10 1
+bot-central 2022-03-20 02:09:20 !rank
+bot-central 2022-03-20 02:09:24 -servers
+bot-central 2022-03-20 02:09:42 -help
+bot-central 2022-03-20 02:17:03 -ms 10 10 40
+bot-central 2022-03-20 02:17:43 !rank
+bot-central 2022-03-20 02:23:39 -ms 1 1 5
+bot-central 2022-03-20 02:31:15 -ms 1 1 10
+bot-central 2022-03-20 02:32:02 !rank
+bot-central 2022-03-20 02:36:51 -ms 5 5 5
+bot-central 2022-03-20 02:38:41 -ms 15 5 10
+bot-central 2022-03-20 02:41:22 -ms 5 15 20
+bot-central 2022-03-20 02:45:55 -ms 5 20 40
+bot-central 2022-03-20 02:46:33 !rank
+bot-central 2022-03-20 02:49:55 -ms 5 20 30
+bot-central 2022-03-20 02:54:22 -ms 10 10 20
+bot-central 2022-03-20 02:55:47 -ms 5 10 20
+bot-central 2022-03-20 02:57:52 -ms 5 30 20
+bot-central 2022-03-20 02:58:00 !rank
+bot-central 2022-03-20 02:58:06 ?whois
+bot-central 2022-03-20 02:59:02 -ms 5 10 30
+bot-central 2022-03-20 02:59:26 -ms 5 10 30
+bot-central 2022-03-20 02:59:40 !rank
+bot-central 2022-03-20 03:01:14 -ms 10 20 5
+bot-central 2022-03-20 03:01:54 -ms 5 10
+bot-central 2022-03-20 03:02:03 !rank
+bot-central 2022-03-20 03:02:27 ?help
+bot-central 2022-03-20 08:01:03 -help
+bot-central 2022-03-20 08:08:10 $open
+bot-central 2022-03-20 08:08:43 %new
+bot-central 2022-03-20 11:07:21 -servers
+bot-central 2022-03-20 12:08:01 -servers
+bot-central 2022-03-22 07:57:21 -servers
+bot-central 2022-03-23 11:08:45 -servers
+creations-chat 2022-03-24 12:28:12 need more detail?
+creations-chat 2022-03-24 12:31:25 impossible one block height
+creations-chat 2022-03-24 12:57:14 added elevator (gonna remove everything and rebuild cuz this includes cam lock)
+creations-chat 2022-03-24 13:22:13 horizontal motorlock
+creations-chat 2022-03-25 07:36:31 what should I fix
+creations-chat 2022-03-26 06:05:54 3st attempt good so far?
+creations-chat 2022-03-26 06:20:30 can u give any feedbacks
+creations-chat 2022-03-26 06:24:44 wait forgot to say that it's not done yet
+creations-chat 2022-03-26 07:16:58 looks empty what should I add
+creations-chat 2022-03-26 07:26:08 thx nice idea
+creations-chat 2022-03-26 07:31:52 what
+creations-chat 2022-03-26 08:20:35 not added arresting wire cuz I'm lazy (a lot of motorlock cuz I used horizontal lock to hide exposed motorlock)
+creations-chat 2022-03-26 10:55:14 arresting wire (idk how it's looks like in realife)
+creations-chat 2022-03-26 11:11:04 https://discord.com/channels/384021699466756103/384025409945337856/957185864373518366
+added details like squares helipad arresting wire
+creations-chat 2022-03-26 11:47:17 bruh removed message by mistake
+added more arresting wire
+creations-chat 2022-03-26 11:53:12 oh sorry lol I was dumb forgot to lock it
+creations-chat 2022-03-26 12:14:43 ye just put cuz it looks empty
++ removed it cuz I have multiple arresting wires now
+creations-chat 2022-03-26 12:18:42 looks better? (changed island)
+creations-chat 2022-03-26 12:44:26 https://gyazo.com/5c16eebd781f3f8ca6db1ee9cf255978
+just found that it actually can fly
+creations-chat 2022-03-26 13:00:38 I think this is my final version of aircraft carrier
+creations-chat 2022-03-26 13:42:58 I think I'm noob cuz I uses shredder
+creations-chat 2022-03-26 22:52:25 https://discord.com/channels/384021699466756103/384025409945337856/957185864373518366
+I just woke up and what so thx everyone
+also thx to everyone who gave me feedbacks for it
+bot-central 2022-03-27 01:01:23 -servers
+bot-central 2022-03-27 01:05:59 -servers
+bot-central 2022-03-27 01:06:31 why vip not working
+bot-central 2022-03-27 02:14:39 -servers
+help 2022-03-27 03:35:26 wanna request my build to hall of fame stuff
+anyone know how to do it
+I know I have to send dm to staff member but idk who is staff memeber
+help 2022-03-27 03:38:37 so I have to dm to purifiedwater?
+help 2022-03-27 03:39:40 thx
+bot-central 2022-03-27 04:33:37 -servers
+bot-central 2022-03-27 04:54:23 -servers
+bot-central 2022-03-27 10:53:31 -servers
+creations-chat 2022-03-27 13:50:42 feedback pls KF-21
+creations-chat 2022-03-27 13:53:22 is this design looks better
+creations-chat 2022-03-27 14:06:08 bruh forgot to upload image lol
+creations-chat 2022-03-27 14:08:48 like this? (added windscreen wip)
+creations-chat 2022-03-27 14:15:05 added trail stuff back
+creations-chat 2022-03-27 14:24:57 moved landing gear back (is trail too short?)
+bot-central 2022-03-28 13:12:31 -servers
+creations-chat 2022-03-31 09:49:40 need half wing :(
+give me idea pls
+creations-chat 2022-03-31 09:52:26 looks bad
+bot-central 2022-04-01 12:58:51 -servers
+creations-chat 2022-04-02 04:23:38 shinden II intakes
+creations-chat 2022-04-02 05:03:58 shinden II
+(not done)
+feedback pls
+creations-chat 2022-04-02 05:21:51 that's for this
+creations-chat 2022-04-02 05:24:24 bruh it's variable wing
+creations-chat 2022-04-02 07:37:04 bruh it's just trapdoor
+help 2022-04-02 13:28:31 anyone know what's this
+help 2022-04-02 13:31:59 I think it's global stuff
+bot-central 2022-04-02 13:32:42 -servers
+help 2022-04-02 13:36:26 bruh
+creations-chat 2022-04-03 00:30:53 does the body looks smooth?
+creations-chat 2022-04-03 02:03:30 shinden II engine (did my best)
+creations-chat 2022-04-03 04:05:41 shinden II
+I think it's good
+feedback pls
+creations-chat 2022-04-03 04:08:31 u mean this?
+it's variable wing can't fix
+also it's scifi plane stuff
+creations-chat 2022-04-03 04:28:45 colored it
+feedback pls but don't give feedback like fix exposed motor lock at wing and fix engine
+don't do stuff like hipster noob
+creations-chat 2022-04-03 04:40:16 use ur eyeshttps://discord.com/channels/384021699466756103/504436696021204992/960033093014671380
+creations-chat 2022-04-03 04:50:51 just found out that night mode it cool
+creations-chat 2022-04-03 08:33:52 https://discord.com/channels/384021699466756103/384025409945337856/960042618190987314
+feed back pls
+(gonna rebuild)
+(before giving me feedback, check some reference images of it)
+creations-chat 2022-04-03 08:37:46 more screenshots
+bot-central 2022-04-03 08:53:06 -servers
+creations-chat 2022-04-03 09:03:54 why no feedback bruh
+doesn't make sense that no feedback but many downvotes
+creations-chat 2022-04-03 10:33:29 another attempt
+feedback pls
+(changed canopy, camlock angles, removed motor at the wing but unable to tilt wing anymore)
+creations-chat 2022-04-03 11:27:15 exhaust wip
+creations-chat 2022-04-03 14:16:27 fixed some stuffs
+feedback pls
+bot-central 2022-04-03 22:53:26 -servers
+bot-central 2022-04-03 22:53:47 -servers
+bot-central 2022-04-03 22:53:49 bruh
+creations-chat 2022-04-03 23:37:35 should I put camo
+creations-chat 2022-04-04 00:12:10 looks weird?
+don't have much experience on camo
+creations-chat 2022-04-04 00:25:41 oh ok
+but that would be really hard but at least I'm gonna try
+creations-chat 2022-04-04 00:35:21 how about this
+includes a lot of cam lock
+ik it's possible but it will be hard
+creations-chat 2022-04-06 13:58:12 4th attempt
+used new skin
+better ratio stuff
+creations-chat 2022-04-06 14:17:38 Decals
+Gonna add color later
+bot-central 2022-04-11 11:21:31 -servers
+bot-central 2022-04-12 09:17:18 -servers
+creations-chat 2022-04-15 14:21:47 a10 cockpit (wip)
+focused on making it not blocky
+creations-chat 2022-04-15 15:39:51 Bruh wip
+bot-central 2022-04-16 02:32:58 -servers
+creations-chat 2022-07-17 02:24:20 does wings looks weird?
+f35-b
+creations-chat 2022-07-17 02:58:41 ye it was not done
+creations-chat 2022-07-17 03:06:25 
+creations-chat 2022-07-19 11:10:12 only thrust is left
+looking good so far?
+f-35a
+also need thrust ideas
+creations-chat 2022-07-19 11:21:36 too small?
+reduced 1 block
+creations-chat 2022-07-19 11:25:05 why not
+creations-chat 2022-07-19 11:35:21 fixed
+i guess
+creations-chat 2022-07-19 11:48:38 so I fixed my vertical stabilizer
+creations-chat 2022-07-19 11:50:42 anyone can give me thrust ideas (examples)
+I don't have much experience on it
+creations-chat 2022-07-20 03:38:09 f-35a
+need thrust idea
+1 block or 2 block
+creations-chat 2022-07-20 03:46:38 like how
+ can u give feedback instead of criticism
+creations-chat 2022-07-20 03:49:41 me also
+what's problem
+creations-chat 2022-07-20 03:59:20 More images and I'll try fixing that stabiliser angle
+tell me what should I fix or improve
+
+sad
+creations-chat 2022-07-20 04:55:41 bruh someppl say it's good and other says it's bad
+wat should I believe
+help 2022-07-23 14:29:09 anyone know why trapdoor don't works sometimes
+and way how fix it
+help 2022-07-23 14:31:39 bruh rejoin doesn't works too
+help 2022-07-23 14:37:41 bruh it's trapdoor
+not even cam locked or rotate locked
+help 2022-07-23 14:44:16 tilted lol
+help 2022-07-23 14:44:29 it stopped while closing
+help 2022-07-23 14:51:05 HOW
+help 2022-07-23 14:56:39 wait what
+help 2022-07-23 14:56:59 I mean keybing stuff don't works
+help 2022-07-23 14:57:06 or work strangely
+help 2022-07-23 14:57:29 some reason it works sometimes
+help 2022-07-23 14:57:37 and it doesn't works sometimes
+help 2022-07-23 14:57:54 no :(
+help 2022-07-23 14:58:43 wdym
+help 2022-07-23 14:59:19 so motorlocked trapdoors can be problem?
+help 2022-07-23 14:59:37 oh u mean
+help 2022-07-23 14:59:49 that lock setting?
+help 2022-07-23 15:00:02 lemme check it
+help 2022-07-23 15:00:20 still don't works
+help 2022-07-23 15:00:29 bruh
+help 2022-07-23 15:02:20 this happens
+help 2022-07-23 15:02:31 it stopped while opening
+help 2022-07-23 15:05:59 
+help 2022-07-23 15:06:02 part with problem
+help 2022-07-23 15:06:11 
+help 2022-07-23 15:07:05 FIXED
+help 2022-07-23 15:07:14 by removing anchor block :)
+help 2022-07-23 15:07:35 then how I fix my build bruh
+bot-central 2023-02-28 11:32:20 -ms

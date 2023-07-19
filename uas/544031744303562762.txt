@@ -1,0 +1,14 @@
+The Tale of bowfuz (544031744303562762)
+the-dump 2022-02-17 04:18:26 when you get yote into space cause motors can't behave then you go all quantized
+the-dump 2022-02-17 04:24:29 where these images from
+the-dump 2022-02-17 04:25:46 i know i know, actually i dont, i dont know anything lol
+help 2022-02-17 04:42:07 add mass in the front, replace regular blocks with ballasts or increase any ballast's densities up there
+help 2022-02-17 04:42:56 by default ballast blocks and regular blocks are the same weight so if you replace without changing density nothing changes functionally
+help 2022-02-17 04:53:49 do... more?
+help 2022-02-17 04:54:03 does it sit like that when still or when moving
+help 2022-02-17 04:56:39 so then just make the front even heavier or make the tail lighter
+bug-reports 2022-12-01 20:40:19 anyone else having a problem where on launching, no thruster controls work but they all fire for a second at the start of launching
+bug-reports 2022-12-01 20:51:13 been a consistent issue for 100% of my launches for a few months
+bug-reports 2022-12-01 20:52:02 wait ong
+bug-reports 2022-12-01 20:52:21 bro i swear if that's it lemme see
+bug-reports 2022-12-01 20:53:40 tysm fam

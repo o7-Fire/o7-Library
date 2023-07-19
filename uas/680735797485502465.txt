@@ -1,0 +1,2 @@
+The Tale of thesopwithcamel (680735797485502465)
+bug-reports 2022-07-27 09:23:48 My planes yaw to the left without any input from me, it only really happens to heavily motorlocked builds.

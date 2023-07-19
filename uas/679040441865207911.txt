@@ -1,0 +1,4 @@
+The Tale of mahanthepesarekhoob (679040441865207911)
+bug-reports 2023-03-20 03:43:03 i've been playing this game since 2020. its a great game. i had made a helicopter at that time and it was working well until months ago i noticed that the heli is shaking so bad when i start it. it happens when i use the motors (and motor 2s, i tested all things before reporting) to rotate the blades ,it seems like the motors cant hold blades which is a torque bug i think.
+bug-reports 2023-03-20 03:44:35 it was a good game back in the day
+bug-reports 2023-03-20 03:45:35 kinda same thing with me. main version of my heli uses motor2 and yeah they wont work

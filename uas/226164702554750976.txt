@@ -1,6 +1,9 @@
-spacex724
-plane-crazy 2019-10-10 03:25:09 Thank you!
-plane-crazy 2019-10-10 03:16:39 I'm really confused on what the settings do for motor 2. Is anyone able to explain?
-plane-crazy 2019-10-10 03:15:22 Does motor 2 just follow mouse?
-plane-crazy 2019-10-10 03:12:52 😦
-plane-crazy 2019-10-10 03:11:06 guys I'm confused, how do I use motor 2
+The Tale of spacex724 (226164702554750976)
+help 2019-11-16 04:14:21 I can't tell if my hull is going well or not, this is my first ship build, any advice?
+help 2019-11-16 04:19:10 I haven't decided yet, but I think 5-6 blocks would be a good range
+help 2019-11-16 04:32:00 Okay, lets go big time
+help 2019-11-16 04:32:49 I dare you to build a car that is powered solely by magnets.
+help 2019-11-17 04:38:34 I am facing the same issue with my boat
+help 2019-11-17 04:46:52 It seems to only move when I get off the seat
+help 2019-11-17 04:47:37 I removed all anchors to see if that was the issue but it did not work, all the inputs stop working until I hop out and hop back in
+bug-reports 2019-11-30 20:46:26 Oh mb, I didn't notice the new anchor stuff

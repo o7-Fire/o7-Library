@@ -1,0 +1,4 @@
+The Tale of Jameyyyy (627976885489631243)
+bug-reports 2021-05-21 19:23:06 Dear developers, I have a large aircraft carrier and it is extremely GPU heavy, but I have always been able to have at least 60 fps on max graphics settings. But now I am getting 5 fps. if I anchor the boat then the lagging stops but if I unanchor it starts lagging again. It is also worth noting that my carrier has a folding system. My hardware specs are GTX 1660 super, intel core i9, 1TB hard driive, 16 GB ram. everything was fine until an update broke it
+bug-reports 2021-05-21 21:14:23 Ok, thanks
+bug-reports 2021-05-22 01:19:04 no, anchoring literally removes lag for me

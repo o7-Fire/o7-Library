@@ -1,0 +1,454 @@
+The Tale of herr.ottovonbismarck (862160384206962749)
+help 2021-10-04 02:57:04 How to make fine meshing? I know it’s made out of suspension and rope, but idk how it were edited
+help 2022-08-15 07:48:51 How to submit proposal to PC’s devs?
+help 2022-08-15 07:54:19 Joined this server for 2 years and I don’t even know ranking exist…
+help 2022-08-15 07:56:04 Ima go request a rank immediately
+bot-central 2022-08-18 02:26:35 !rank
+bot-central 2022-08-18 02:31:11 !rank
+creations-chat 2022-08-18 06:06:49 Argue with the fact yourself, cuz I will not
+creations-chat 2022-08-18 06:11:56 I love watching the arrogant playing around like a clown
+creations-chat 2022-08-18 06:14:11 Does this convince you?
+creations-chat 2022-08-18 06:17:07 Cuz Tomcat is gone, and F35 can’t carry weapons externally.
+The Navy planned to accompany the Tomcat and the Hornet as partners. But the budget was cut after ussr oofed.
+creations-chat 2022-08-18 06:19:37 Integrated fuel tank, upgraded radar, equipped with enclosed weapon pod, Super Hornet BLK IiI can carry 3 of its.
+
+And in response and as an add on, F35 don’t carry weapon externally if it want to maintain it stealth.
+creations-chat 2022-08-18 06:22:05 Logical, the plane is stealth, but not the weapons
+You either choose external weapons in exchange of stealth.
+Or stealth in exchange of external weapons.
+creations-chat 2022-08-18 06:24:27 A 4th or 4.5th gen can do the job at a cheaper cost, then why should you let a 5th gen to do it?
+creations-chat 2022-08-18 06:29:23 I understand your point. Sometimes there’re situation that allow 5th gen to carry weapon externally.
+But in general, and as I mentioned, 4th or 4.5th gen can do the job at a lower cost. 4.5th gen are fighter that adopted some of the 5th gen requirements in the design. Fuselage of 4th gen, but engines and technology from 5th genTherefore, make it an existence between 4th and 5th gen. F15EX, F/A18 Super Hornet Block III, Dassault Rafale, KF-21, Su-35 are the example
+creations-chat 2022-08-18 06:31:30 Not the US, but Lockheed Martin, they’re the one who manufacture and profit from it.
+creations-chat 2022-08-18 06:34:35 The complexity of the structure makes the maintenance a pain in the ass, plus that thing weigh 800kg, equal to 2x MK83 1000lbs bombs. Dogfighting with 2x 1000lbs bombs tied to your jet is not a good idea.
+creations-chat 2022-08-18 06:41:14 The B1 has the advantage of speed, obviously, powered by 4x General Electric F101 turbofan afterburner engines. As well as payload. But as a bomber designed from the last century, it focuses on breaching enemy’s air defense through low altitude and supersonic. Which obviously, doesn’t work as well as it used to be nowadays. And as mentioned, maintaining the swept wings is pain. However I think they retire the B1 to give space for the B21.
+creations-chat 2022-08-18 06:45:04 Now ima wait for another 100 years and witness how air combat turn into ace combat.
+creations-chat 2022-08-18 06:55:32 The intake is… short? Don’t you think?
+the-dump 2022-08-18 07:00:17 What computer you using, I wanna buy yours. Antique stuff gets people nolstagia’s feeling
+bot-central 2022-08-18 07:03:25 !rank
+creations-chat 2022-08-18 07:04:20 I really should go take another eyes exam…
+creations-chat 2022-08-18 07:06:22 I’ve always thought the Flanker’s series intakes are rectangles
+bot-central 2022-08-18 07:07:03 What you wanna do?
+creations-chat 2022-08-18 07:32:06 https://tenor.com/view/dr-house-you-dont-want-to-be-like-me-gif-11535815
+creations-chat 2022-08-18 21:29:58 Just chat more
+creations-chat 2022-08-18 21:32:54 How do I place a suggestion
+bot-central 2022-08-19 07:22:18 ?av
+creations-chat 2022-08-20 04:59:48 This gun is… idk what to say, a little better than the HK416 cuz 2800 of default muzzle velocity is higher than HK416’s 2500.
+creations-chat 2022-08-20 05:56:00 According to the blueprint, the width of the intake appears to be 1/2 the width of the canopy. Therefore, if the nose is 3 blocks wide, then the intake should be 1.5 block wide, but does it look like it tho? I feel like the width is 2/3 the width of the canopy.
+creations-chat 2022-08-20 06:13:54 So, does it look close to the blueprint? I don’t trust my eyes
+creations-chat 2022-08-20 06:18:47 So, if my nose is 3 blocks wide, then the 1.5 intake would work
+help 2022-08-21 07:18:20 Apparently, you cannot achieve dual keybinds control of the elevator by putting 2 motor 2 head to head… which I understand, pain in the ass.
+In order to solve this, I have 2 options for you:
+One: instead of using 1 key to control 1 movement, such as W to pitch up. You can try to use 2 keys. Instead of placing W/S as the key bind, you can try W/A for one and S/D for another. So if you want to pitch you press 2 keys like W and D or S and A. If you want to roll using elevator, you can press W and S for left or A and D for right.
+Second option is more complex while building and looks bad but you won’t have to reset your muscle memory, you can use a set of locked motor, place vertically, attack one motor 2 controlling W/S or A/D, doesn’t matter, to the one head of the motor lock and another motor for W/S if you placed A/D before already, or A/D if you placed W/S before already. Then attack panels to the outer motor 2 and it should solve the problem.
+creations-chat 2022-08-25 02:16:02 I wonder where did I go wrong with the nose…
+creations-chat 2022-08-25 02:22:16 Making the tomcat, but the nose, I can’t describe, it’s like too chunky. And it’s a 3 wide
+bug-reports 2022-08-25 06:06:11 Rick, I hope you see this and fix this issue. I used the same setting for 4 motors, but when I spawn in and angle lock them, they all rotate at different rate, like, not united at all. Thank you very much.
+Yours sincerely.
+help 2022-10-30 02:12:55 Any better solution for the elevator?
+help 2022-10-30 03:00:34 Tomcat
+help 2022-10-30 19:02:04 Compare to the blueprint, which version of the elevator best reassemble the shape?
+creations-chat 2022-11-01 07:35:10 800 words? It’s just a position paper for me
+help 2022-11-20 08:14:25 Nice
+help 2022-11-20 08:18:56 My Super Hornet
+creations-chat 2022-11-20 08:21:24 Request
+help 2022-11-20 08:37:15 Add anymore and my comp gonna crash
+help 2022-11-20 08:39:42 Apple’s dogshit dual cores iMac
+help 2022-11-20 08:40:12 Would rather keep 50% of its CPU memory idle instead of working at its limit
+help 2022-11-20 08:46:12 You mean you “can’t”
+help 2022-11-20 08:48:01 Try posting it again?
+help 2022-11-20 08:48:33 Well, try to post it after you make progress on your build
+help 2022-11-20 08:49:46 There’s always a possibility that the system will mis-recognize your build as “effortless work”.
+help 2022-11-20 08:50:11 My suggestion: Post it again after you progressed on your build
+creations-chat 2022-11-20 08:52:20 J-10 is not a bad one, yet definitely not the best within its category. But, interesting
+help 2022-11-20 08:53:06 So have you get it through?
+help 2022-11-20 08:54:03 Oh, I forgor you need to achieve certain lvl
+help 2022-11-20 08:55:18 Depends on its purpose, you want it to be more of a ground attack or focus more on aerial combat
+help 2022-11-20 08:56:19 Perhaps motorlocking rockets and rocket pod (i don’t suggest cuz lag)
+help 2022-11-20 08:57:18 Is there a necessity to be such critical about the minor details?
+help 2022-11-20 08:58:00 Congrat, you’re one of my kind
+help 2022-11-20 08:58:49 Anyway, ima head back making memes to earn money to buy my dad back
+help 2022-11-20 09:00:17 You have a debt of resentment and favour with me that I haven’t make it clear
+creations-chat 2022-11-20 09:03:29 Score= total upvote - total downvotes, aye?
+help 2022-11-20 09:04:41 Don’t worry, I evolved, just backward
+help 2022-11-20 09:06:46 Against the majority
+help 2022-11-20 09:07:53 Something that it’s not convenient to discuss in the public
+help 2022-11-20 09:08:14 Would rather not to discuss
+help 2022-11-20 09:10:39 Humiliate the RAF as you desire, the obedience is sworn. The request for official representation has been submitted
+help 2022-11-20 09:12:04 Indicate the specific one you want to hear
+help 2022-11-20 09:14:03 My mind is being understated
+help 2022-11-20 09:14:30 Good guess, however, the ambition extends beyond
+help 2022-11-20 09:16:31 Hard to change, it’s already what it is
+help 2022-11-20 09:18:28 The longer it was aged, the better it gets
+help 2022-11-20 09:20:17 Different methods, different results. We’re not the same type of humankind deep in the nature.
+help 2022-11-20 09:21:10 As I said, it goes against the majority
+help 2022-11-20 09:23:10 Good guess, yet it is nowhere close
+help 2022-11-20 09:23:42 What do you see from the direction of majority
+help 2022-11-20 09:26:08 Still nowhere close. I have to admit the fact that PC has evolved over times. However there is always a good numbers of infidel which desire the revolution
+help 2022-11-20 09:27:59 Those whom claim themselves to be the saviours, leaders to lead, too, to an extent, trying to reverse the natural process
+help 2022-11-20 09:29:23 Those whom he keeps loyal doubt not, question not the leader, nor the motivation or intention.
+help 2022-11-20 09:31:07 Those whom distorted the original definition which defined by the Nature, watch their tower collapse
+help 2022-11-20 09:32:29 Is it a straight answer you want to know or an emphasis to prevent troubles?
+help 2022-11-20 09:33:42 Therefore an emphasis it is
+help 2022-11-20 09:34:04 I desire not to commit any more karma into my burden
+help 2022-11-20 09:34:29 Those whom re-defined “ro-scale”
+help 2022-11-20 09:37:13 The answer is for you to discover. That’s all I can say in the public
+help 2022-11-20 09:37:46 Qu’est-ce que çi?
+help 2022-11-20 09:37:59 762
+help 2022-11-20 09:38:05 762
+help 2022-11-20 09:38:11 223
+help 2022-11-20 09:38:13 556
+help 2022-11-20 09:38:16 762
+help 2022-11-20 09:38:20 9mm
+help 2022-11-20 09:38:23 .40
+help 2022-11-20 09:38:26 .44
+help 2022-11-20 09:38:28 .45
+help 2022-11-20 09:38:30 .50
+help 2022-11-20 09:38:41 5.7x28
+help 2022-11-20 09:38:47 4.6x30
+help 2022-11-20 09:39:56 9mm is not the kind for me
+help 2022-11-20 09:40:14 .45 ACP performs better
+help 2022-11-20 09:40:35 The number triggered the paranoid
+help 2022-11-20 09:42:12 The physic class I took is still giving me a severe disorder about number rounding
+help 2022-11-20 09:43:58 A moment of silence for those who failed the No Nut’s challenge:
+help 2022-11-20 09:46:29 Blame it on the Soviet’s outdated tech
+help 2022-11-20 09:46:57 The N001 on the Su-27 weights nearly 1 tons
+help 2022-11-20 09:47:14 You ever saw any air-mounted radar that weigh for 1 tons?
+help 2022-11-20 09:48:22 The AN/APG-66 only weigh 1/5 of the N001 and still outperforms it
+help 2022-11-20 09:49:35 Speaking of which that the Rus claimed the radar on Su%35 can detect targets up to a distance of 400KM…
+bot-central 2022-11-20 09:51:08 !rank
+help 2022-11-20 10:52:16 Correction is necessary, so please
+creations-chat 2022-11-20 10:59:17 So, how many contract have you signed with demon for this?
+creations-chat 2022-11-20 22:48:05 What is the jet you making
+help 2022-11-21 00:04:37 The nose for the F14, too long? too short?
+help 2022-11-21 00:19:13 the canopy or the nose that contains the radar
+help 2022-11-21 00:28:19 no, but i'm planning to add the AWG-9
+help 2022-11-21 00:28:41 But maybe not
+help 2022-11-21 00:31:48 I don't see the need to add something which only serves the purpose of decoration and has no use in combat
+help 2022-11-21 00:32:12 They don't need to flow, but it has to be stable. But you can bypass that by using helium
+help 2022-11-21 00:33:08 
+help 2022-11-21 00:33:15 this looks better?
+help 2022-11-21 00:34:18 Those are just limiters to help with angling the canopy components
+help 2022-11-21 00:34:32 A shorter nose
+help 2022-11-21 00:35:25 I have to angle the canopy eventually, so ima keep it in its current state
+help 2022-11-21 00:37:47 Beside the nose, the width of the intake appears to be 1/2 the width of the canopy according to the blueprint
+help 2022-11-21 00:38:05 Some said it is 2/3
+help 2022-11-21 00:38:31 Looks like 1/2 to me
+help 2022-11-21 03:04:11 How come the blueprint look so off
+help 2022-11-21 03:07:15 how come that is the F35-C
+help 2022-11-21 03:07:32 the wings on the C version are supposed to be bigger
+help 2022-11-21 03:08:10 
+help 2022-11-21 03:09:55 F35C has a greater wing surface and bigger elevators to ensure maneuverability during low speed
+help 2022-11-21 03:13:12 Different model was used on the carrier based F35
+help 2022-11-21 04:31:01 I don’t understand the Brits’ reason for why they make the nose like that…
+contest-chat 2022-11-21 04:34:20 What’s the ongoing contest
+help 2022-11-21 05:48:54 I’m interested
+help 2022-11-21 05:51:03 Indeed, JF-17 equipped with Darkstar’s scamjet
+creations-chat 2022-11-21 05:53:10 So how many percent of your soul have been subjected to some kind of paranormal force to achieve this?
+help 2022-11-21 05:55:07 Love how wings did not distorted during the process
+help 2022-11-21 05:55:16 It’s PC anyway
+help 2022-11-21 05:55:51 Speaking of wings…
+help 2022-11-21 05:56:15 Certain heavy fighters have lower wing loading than light fighters
+help 2022-11-21 05:57:11 Saint Gatling once said: “If one gun pod doesn’t work, then use more”
+help 2022-11-21 05:57:59 No objection shall be raised against that fact
+creations-chat 2022-11-21 05:58:30 Understand the humour, don’t make me explain it myself
+help 2022-11-21 06:04:13 Compensate-able by using  piston
+help 2022-11-21 06:05:21 Wdym by “suck”
+help 2022-11-21 06:05:36 Hard, ugly, strange?
+help 2022-11-21 06:05:54 Or uncanny
+help 2022-11-21 06:06:34 Which section of the wing are you attempting to build
+help 2022-11-21 06:06:56 The root or the tip
+help 2022-11-21 06:07:49 So the angled extension of the wing
+help 2022-11-21 06:08:49 Is it the Thicc-ness of the wing you indicating?
+help 2022-11-21 06:09:13 The thickness of the angled extension
+help 2022-11-21 06:09:19 To be specific
+help 2022-11-21 06:10:37 
+help 2022-11-21 06:11:24 It appears that the angled extension is gently trimmed from the root to the tip
+help 2022-11-21 06:12:28 A gap will form between the wings if you lock the extension is what piss you off, to be specific aye?
+help 2022-11-21 06:13:46 Then, pick which is more important, the overall performance and scale of the plane, or that minor detail?
+help 2022-11-21 06:14:18 Or ofc, you can just cover up the gap with text
+help 2022-11-21 06:14:31 If you can precisely control the distance
+help 2022-11-21 06:15:17 Mine is nowhere close
+help 2022-11-21 06:15:34 But who know what is going to come
+help 2022-11-21 06:16:08 Stay strong brother, it’s not over yet
+help 2022-11-21 06:17:12 At least your target is to achieve the A-10 shape. Please pay me some of your sympathy for the Tomcat is haunting
+help 2022-11-21 06:17:49 Well, that’s the load of a month you released
+help 2022-11-21 06:18:20 Thou shoult confess thy sins
+help 2022-11-21 06:19:51 I solemnly apologize, for I didn’t warn you in advance that I speak Canadian
+help 2022-11-21 06:20:19 The moving wings isn’t the barrier
+help 2022-11-21 06:20:23 The wing box is
+help 2022-11-21 06:20:34 The wing boxes
+help 2022-11-21 06:21:46 Within a limit thickness of 0.5 block, I have to apply the whole mechanism into it
+help 2022-11-21 06:22:34 There’s always someone in Grumman to blame for that
+help 2022-11-21 06:24:23 There’re certain mechanical principles that I do not possess, therefore, I’m simply going to demonstrate the difficulty with image or videos
+help 2022-11-21 06:25:25 
+help 2022-11-21 06:26:38 There has been one myth that I have yet to solve
+help 2022-11-21 06:27:13 Perhaps I should prototype in advance
+help 2022-11-21 06:27:55 Plus
+help 2022-11-21 06:29:31 If motor 2 can solve the issue then why would I discuss with other legends in this realm?
+help 2022-11-21 06:32:08 The wing loading of the Tomcat is surprisingly low, only 200-215 kg/m2, while F22 has a wing loading of 377 kg/m2, F16 has a wing loading of 431 kg/m2. Those data were subjected to the change of loadout and fuel.
+help 2022-11-21 06:32:39 3 blocks nose, I’m currently inheriting the laziness from my bed, so I cannot move
+help 2022-11-21 06:34:18 If the Tomcat never retired, I’m curious of what would the result be if Grumman successfully applied the F119 (F22’s engine) on it.
+help 2022-11-21 06:34:26 3 blocks in width
+help 2022-11-21 06:35:01 So I can carry 4 custom Phoenix missiles under its “pancake”
+help 2022-11-21 06:36:07 In normal consequence, F14 would not carry all 6 Phoenixes since it would increase the airframe stress
+help 2022-11-21 06:36:45 The ground crew gonna curse for a whole day
+help 2022-11-21 06:36:56 F110-GE-400
+help 2022-11-21 06:37:29 Nope
+help 2022-11-21 06:37:52 F14A uses the earlier TF-30 inherited from F111
+help 2022-11-21 06:38:14 Which is well known for its terrible reliability
+help 2022-11-21 06:38:43 Yup
+help 2022-11-21 06:39:02 POV: That’s how Goose died
+help 2022-11-21 06:41:03 Compressor stall: a situation which the compressor components failed to compress air to a pre-calculated pressure, which caused the airflow to be redirected back forward
+help 2022-11-21 06:43:30 Basically the compressor cannot compress air to a pre calculated pressure, so the air cannot continue to advance into the ignition chamber, which then caused the process to be disrupted, boom, dead engine. You would rather want both engines to die at the same time, cuz due to the design, the remaining engine will generate an unbalance torque which will force the aircraft into an uncontrollable flat spin. Or in short: That was how Goose died
+help 2022-11-21 06:44:27 I’m a materialist, so I stick with Girls Frontline, foreseeable future
+help 2022-11-21 06:45:21 I totally don’t simp for gun ladies despite the fact that I have an airsoft collection that I sleep with everyday
+help 2022-11-21 06:46:50 My interest? Aviation, military, business. Jack of all trade
+help 2022-11-21 06:47:30 I forgive you, but perhaps General Dynamics won’t
+help 2022-11-21 06:48:13 Lockheed Martin
+help 2022-11-21 06:48:34 Wonder what are they hiding in the file bunker of Skunkwork
+help 2022-11-21 06:48:53 They did
+help 2022-11-21 06:49:39 Died to Lockheed Martin twice
+help 2022-11-21 06:49:54 The ATF and the JSF
+help 2022-11-21 06:50:14 Now they did, just not before
+help 2022-11-21 06:51:39 The latest Block III is what you indicating I suppose?
+help 2022-11-21 06:52:31 The earlier Hornet
+help 2022-11-21 06:53:24 Early Hornet has one fatal design flaw
+help 2022-11-21 06:53:57 The edge wing create a turbulence flow which directly impacts the root of rudders
+help 2022-11-21 06:54:35 Which will cause metal distress to the airframe
+help 2022-11-21 06:54:56 Which tiny thing?
+help 2022-11-21 06:56:06 They either added a heck tons of propeller engines to help with maneuvering, or they simply light and have great thrust to weight ratio
+help 2022-11-21 06:56:23 The extruded fin thingy?
+help 2022-11-21 06:57:34 That’s the fin blade, which serves the purpose to help redirect the turbulence flow generated by the edge wings away from the root of the rudder to avoid distress, a compensation to the aerodynamic specialty but also a flaw of the early Hornet
+help 2022-11-21 07:02:27 And so Boeing redesigned the Hornet, change the intake from the early oval shape to the Galette intake (also used by the Raptor), new F414, and larger wing surfaces and a new edge wing design, which completely redirected the turbulence flow away from the root of rudder without the existence of fin blade. But it also caused disruption to the airflow under the wings, weapons now have a chance to collide into the fuselage while dropping. Boeing’s solution to that: angle the weapon racks for 3 degrees. Avoided that risk, but in exchange of terrible drag.
+help 2022-11-21 07:03:17 Basic
+help 2022-11-21 07:03:43 So I don’t have to risk my life piloting planes that I’m not familiar
+help 2022-11-21 07:04:34 I’m sure that I have to. But I prefer learning aerodynamic of each aircraft.
+help 2022-11-21 07:05:36 Rate of turning
+help 2022-11-21 07:07:23 That’s physically un-achievable irl, but since this is PC, you can simply add another set of hover engines which provided reversing thrust
+help 2022-11-21 07:08:03 However I do not guarantee the rate of success
+help 2022-11-21 07:09:32 Applying gun like that is no difference from trying to take down a fly using a cannon
+help 2022-11-21 07:10:10 First, you have to acknowledge one thing: guns in PC suck in aerial combat
+help 2022-11-21 07:10:40 More drop than they supposed to
+help 2022-11-21 07:11:42 The real bullets that do damage have way more drop, terrible mechanism, always turn your opponent’s vehicle into a Wonder Woman’s one
+help 2022-11-21 07:12:31 I still use some in case of emergency
+help 2022-11-21 07:13:08 Better to have some than to have none in case of unexpected
+help 2022-11-21 07:13:51 Do not question why I slap 12 missiles on my Hornet
+help 2022-11-21 07:15:42 Wasd is a solution to help with my dual cores mac, the amount of pain it gives me everytime I play the game is unbearable
+help 2022-11-21 07:17:07 Still have no idea how glitched mouse works
+help 2022-11-21 07:17:53 Beside the fact that you need to be in a pilot seat to use it and not the main one
+help 2022-11-21 07:19:24 I’ve been attempting to use it with motor 2 controlled panels, but it all ended up in instability and pain
+help 2022-11-21 07:19:37 Saw that before
+help 2022-11-21 07:20:31 All I know is I have to keep my average above 80% to get my scholarship
+help 2022-11-21 07:21:43 How come you did not lag
+help 2022-11-21 07:22:14 Ok.How come he/she did not lag
+help 2022-11-21 07:23:15 I’m wondering why did I purchased a dual cores Mac for 2500 bucks
+help 2022-11-21 07:25:21 My $2500 Mac simply can’t
+help 2022-11-21 07:26:52 Apply is pretty professional at scamming people to buy their overpriced computer
+help 2022-11-21 07:27:49 That’s a fact I must admit
+help 2022-11-21 07:28:42 My Hornet powered by hover engine: 8 bit’ resolution
+My Hornet powered by normal super rocket: 8K resolution
+help 2022-11-21 07:29:47 Anyway, It’s time to sign off, school tomorrow
+help 2022-11-21 07:30:05 But before I leave
+help 2022-11-21 07:30:51 Send nam a greeting: tell him “Good day from your natural enemy”. I want to see how he react lol
+help 2022-11-21 07:32:23 On the second thought, let’s not do that
+help 2022-11-21 07:32:41 Signing off for real this time for juicy 6-digit codes
+help 2022-11-21 07:33:15 Confess my sins in advance
+creations-chat 2022-11-22 06:08:04 Trying to evade something lol
+creations-chat 2022-11-22 06:20:02 Beside hover, rocket and conveyor engine, is there a better substitution that provides more thrust and less lag
+creations-chat 2022-11-22 06:28:08 Not a good idea to use it on a ro-scale pvp fighter aye? Stability is, too, a relevant indicator
+creations-chat 2022-11-22 06:30:55 Not a problem for you, but a serious problem for my 2500 bucks investment on an iMac that can’t even handle a game
+creations-chat 2022-11-22 06:32:57 Severe G-LOC, he was either integrated a titanium exo-skeleton to endure the G, or he was David Martinez himself…
+creations-chat 2022-11-22 06:35:00 So, how did Adam Smasher not kill you after he pancaked Rebecca?
+help 2022-11-22 06:53:31 Not slandering Rick here, but where did the inertia disappear to?
+help 2022-11-22 06:55:55 Plus, to an extent, how the heck wing can still generate lift even the speed is 0 or it was simply Rick considers wing has no mass? Or perhaps he programmed wings to generate way more lift than it suppose to?
+help 2022-11-23 04:43:56 You indicating it pitches up and down at snail speed?
+help 2022-11-23 04:44:15 Mind post a picture?
+help 2022-11-23 04:47:05 That makes it clear, it is necessary to have sufficient elevator’s surface area to alter air flow in order to maneuver the plane
+help 2022-11-23 04:49:51 You’re left with 3 options:
+1) Increase the elevator’s surface area by making it bigger, but in exchange of more energy loss per move
+2) Reduce the wing components in the centre of the wings, also help with reducing drag and increase the turning rate
+3) Add a reasonable amount of propellers to assist with the maneuvering. Not too many that it becomes too heavy and spinning too fast that put the plane in a Russian roulette, and not too few that it help a little. This solution can also be adopted to simulate thrust vectoring.
+help 2022-11-23 04:50:51 What do you think? 🙂
+help 2022-11-23 04:52:00 Upward/Downward, depending on where it is located
+help 2022-11-23 04:52:21 You’re more than welcome sir
+creations-chat 2022-11-23 04:55:03 Got your back
+creations-chat 2022-11-24 04:36:08 Is there really no way to purge lag and ping while using hover engines?
+creations-chat 2022-11-24 04:39:18 Give me the access 🧌
+creations-chat 2022-11-24 04:46:45 No, I’m being serious. Any alternative solution?
+creations-chat 2022-11-24 04:49:36 My computer is a Mac, so it’s an exceptional, don’t know if it’s compatible
+creations-chat 2022-11-24 04:51:39 Yup, I’m revising the reason why I invested 250 bucks into a Mac, a horrible decision. (Desktop)
+creations-chat 2022-11-24 04:53:47 Desktop, a dual cores one.
+creations-chat 2022-11-24 04:56:30 Doesn’t even worth the investment and the medical fee you have to pay for having cardiac arrest and rising blood pressure while playing on it.
+creations-chat 2022-11-24 07:13:52 The platform already destined that it can’t carry much payload, nor having space for future upgrades. So far most players I’ve encountered  (not everyone I’m referring to, you know who your are the best, so don’t apply it to you if you consider it’s not applicable, in another word: don’t take the shit on you) mod the fighters with conveyor boost since the terrible turn rate destined that there would be little room for mistake (they afraid to lose). With that being said, I can do nothing but pity and wish for them to not join the Air Force… cuz they probably wouldn’t know how did they got killed in action…
+creations-chat 2022-11-24 07:15:57 When family education is not being fulfilled to compensate the arrogance:
+I once thought I would never bring this up again to avoid unnecessary troubles, yet I found this is necessary. I’m hereby declaring that everything I’m about to say is fact and it has not been altered by any means.
+
+Short: they send agent to spy on your server. Why? Je he sais pas, how am I suppose to know the true motive behind?
+
+Long: I joined the server, everything went well for the first day. Until the second day, the mod brought up a humiliation on me privately in DM for absolutely no reason. First he/she (iel) judge my age. I found that was ridiculous that the mod just assume your age and consider that assumption as a fact. Then, the mod physically told me to: “get tf out of nam nam’s server”, another example for horrible customer support, do not apply that to your occupation unless you want to be squid gamed from your job. What really rise my blood pressure was he blatantly demonstrated the screenshots he got from my server, which includes conversation between members, group’s info,… and he brag that he is going to report it to nam nam. I was back then, questioning how the hell did I let this guy slip in, plus who do they think they are that they believe they have the right to justify people like that. According to Discord’s Community guidelines, and ongoing law, an action which steal information without consent will be identified as a crime. Like who do they think they are! Overlord of Discord? A wake up call is necessary to wake those irrational ordinaries.
+creations-chat 2022-11-24 07:42:20 Can’t help it pal. The hate, the resentment, the thirst for a vengeance, the debt wouldn’t vanish without a result
+creations-chat 2022-11-24 07:44:23 An overrated one
+creations-chat 2022-11-24 07:50:32 I’m hereby expressing my greatest condolence to Costa Rica
+Spain 7-0 Costa Rica
+
+Canada’s attempted goals: 21
+Actual goal: 0
+Belgium 1-0 Canada
+creations-chat 2022-11-24 15:12:04 When family education didn’t come in place:
+When honour is not being possessed:
+When the greed exceeded the reasonable:
+help 2022-11-24 15:13:46 I suppose it is not a fighter jet judging from the width of the fuselage
+help 2022-11-24 15:15:30 Vous allez à <#705941616199991307> , Il y a un instruction.
+creations-chat 2022-11-25 05:00:53 The Mac give me a boost in blood pressure every time I pvp
+400 ping and 10 fps is always guaranteed
+creations-chat 2022-11-25 05:02:56 Apple advertising why their Mac is superior:
+creations-chat 2022-11-25 05:06:56 When a 2017 dual cores Mac performs worse than a phone: 💀
+creations-chat 2022-11-25 05:09:34 I should book a room in The Intercontinental Hotel
+creations-chat 2022-11-27 06:31:25 Did I heard F22? Where is it?
+the-dump 2022-12-04 03:21:40 So what is the result
+bot-central 2022-12-04 08:15:01 !rank
+bug-reports 2022-12-04 16:36:39 The best way is to save your current progress and rejoin
+bug-reports 2022-12-04 17:56:25 The problem doesn’t lie within your computer, it’s Roblox’s problem
+the-dump 2022-12-05 07:30:45 Someone gonna lose his/her sibling
+bot-central 2022-12-05 07:31:07 !rank
+the-dump 2022-12-05 07:31:32 With what
+the-dump 2022-12-05 07:32:11 Why stab when you can chainsaw them
+creations-chat 2022-12-05 07:34:56 https://tenor.com/view/deus-vult-prank-funny-loop-infinite-gif-17037670
+creations-chat 2022-12-06 04:30:13 Sweet lie or harsh truth you desire to hear?
+creations-chat 2022-12-06 05:09:18 B52: decent
+747: above average (in term of ro scale ofc, but they look smaller than I expected)
+creations-chat 2022-12-06 05:14:07 In term of appearance, the B747 is fine, make the B52 B I Gger, Stratofortress didn’t earn that name for being small. secondly, make the engines look more round and smooth, you don’t need to add smoke trails to the engines cuz the latest B52 upgrade will replace the old TF-33 with the Rolls Royce’s F130 turbofan. Keep enough space inside the B52 so you can mount rotary weapon racks to mount AGM-158 and bombs and AGM-86, and all other weapons.
+creations-chat 2022-12-06 05:21:36 Thou shoult not
+bug-reports 2022-12-06 05:22:15 Yes you can
+creations-chat 2022-12-06 05:26:01 If speed is something you concern, improve it would be the only suggestion I can propose to you for the moment
+help 2022-12-06 05:27:27 Look somewhat accurate, both
+contest-chat 2022-12-06 05:29:31 How do you drop a suggestion
+bug-reports 2022-12-06 05:33:01 All I know is you can access PC with VR, nothing beside that is within my profession
+bot-central 2022-12-06 05:34:38 ?suggest
+creations-chat 2022-12-06 05:41:53 Maybe? Try and use water propellers?
+help 2022-12-06 05:57:19 An idea of a madman, but I admire you courage. Piston lock + motor angled lock shall do the job
+help 2022-12-06 05:57:29 Above and behind the canopy
+help 2022-12-06 05:58:31 Not sure if picking aviation over accounting and business administration/management is a good and rational decision…
+help 2022-12-06 06:07:32 Forgor, you need camera lock as well
+contest-chat 2022-12-07 03:09:33 There’s that one guy I want to open an account payable with his name
+contest-chat 2022-12-07 04:04:43 Nya’s fan when they acknowledged the fact that she sacrificed herself to stop the villain:
+creations-chat 2022-12-07 06:39:17 You forgot the intakes’ shape and angle
+You forgot the weapon racks under the wing boxes
+You forgot to suggest a reshape for elevators
+You forgot the air brake
+creations-chat 2022-12-12 05:56:29 Did you use cam lock to shape the nose and canopy?
+creations-chat 2022-12-12 05:59:00 I see
+creations-chat 2022-12-12 06:01:03 I suppose it will be both a pvp and non pvp fighter?
+creations-chat 2022-12-12 06:03:20 19.7 tons of stealthy metal. And what will be its top speed
+creations-chat 2022-12-12 06:05:55 How long does it take for you to progress this far?
+creations-chat 2022-12-12 07:04:19 The infidel of Plane Crazy it is.
+help 2022-12-12 07:05:52 It is the shame intake design as the F/A 18 Super Hornet’s one. Just bigger to be compatible with the need of airflow of the F119
+creations-chat 2022-12-12 07:07:09 He screwed everything up then dip. What a “responsible” man he is, aye?
+creations-chat 2022-12-12 07:13:57 No space for creativity, too small for modification, too little for performance.
+help 2022-12-12 07:15:24 You don’t, cuz you have to acknowledge the fact that the intake front is a diamond-shaped cut
+creations-chat 2022-12-12 07:16:48 Shredder kids’ final solution when their shredders can’t dominate the server: nam nam’s flanker
+creations-chat 2022-12-12 07:18:50 Alternative 1: Lag machine
+Alternative 2: rage quit
+Alternative 3: accuse the real chad fighter’s users for exploiting/not having a life
+creations-chat 2022-12-12 07:22:50 Dogfighting in ro-scaled fighters is the only value I extol.
+Don’t you find it humorous when those nam nam’s simps or shredder orphans realize that they can’t win a dogfight, so they turn on the booster and dip and then proclaim their victory?
+creations-chat 2022-12-12 07:27:49 CSA: Collective Shredders Alliance. That crap exists for bullshit reason
+creations-chat 2022-12-12 07:32:21 Now I have to disagree with you. One of my encounter with ball from CSA told me that the possibility of ball going over 1000 is above average, higher than most people expected.
+creations-chat 2022-12-12 07:34:29 The only thing that back those shredder kids from being orphaned is the CSA, CSA collapse, nothing to back them up.
+creations-chat 2022-12-12 07:36:45 There is. Great misery to the fate of mankind
+creations-chat 2022-12-12 07:38:46 What do you expect? They even named their group Collective Shredder Alliance.
+creations-chat 2022-12-12 07:41:53 Now Ladies and Gentlemen, an idea just enlightened in my head. Shall we initiate an Anti-shredder’s Revolution? For year, PC has been suffering from enduring the tyranny of shredder’s existence. Many have hold their fury and hate under the bottom of their heart. Our destiny is to release the wrath, lead and guide the oppressed to the victory and freedom.
+creations-chat 2022-12-12 07:45:01 I shall prepare the declaration. It will be open for the community to contribute their words into the declaration which will be published in the public and to the foes we’re about to counter.
+creations-chat 2022-12-12 07:47:52 Now somebody here please do a favour of creating a mini group chat for those who desire to volunteer to participate into the Revolution. We will document the declaration of anti shredder revolution there.
+creations-chat 2022-12-12 07:49:57 I attempted a few times. Quite a success in term of stability.
+creations-chat 2022-12-12 07:52:18 Fabulous, now how do you make the group chat that’s independent. If you know how to, make it and send us the invitation.
+creations-chat 2022-12-12 07:54:45 Group chat for now, then we will expand to a server once the group chat reached saturation.
+creations-chat 2022-12-12 07:58:41 We’re sending invitation one by one. Rest assured
+creations-chat 2022-12-12 08:05:53 Submarine, those shredders were not specified for under water combat anyway
+creations-chat 2022-12-12 08:08:12 I don’t think leaking your group’s info to the opponent is a rational move, mister stormingscar I of Arrogania, Ignorancia and Stupidia
+creations-chat 2022-12-12 08:11:21 You heard the will of the people, bloody messenger of the devil
+creations-chat 2022-12-12 08:13:24 Yes, you may.
+creations-chat 2022-12-12 08:16:16 What do you think? 
+Blame me not for my merciless. It’s just the will of the people and the desire to revolt against the tyranny of your brutality. I have to issue you a warning in advance: the consequence could be real dreadful and miserable for the defeated side.
+creations-chat 2022-12-12 08:27:42 Who know if your “invincibility” is real or simply a fraud?
+creations-chat 2022-12-12 08:33:49 https://tenor.com/view/tgif-gif-12972338
+creations-chat 2022-12-12 08:39:38 Ok
+creations-chat 2022-12-12 08:46:47 Didn’t know that group exist until you say that? Thank you lol
+creations-chat 2022-12-12 08:48:51 Take that as a professional courtesy
+creations-chat 2022-12-12 08:53:12 This time will be an exception. From which the era of creation we once lived in peace and joy until the entity descended to the realm, brought suffer and impose tyranny upon us the free people. And you and those whom subjected themselves to the corrupted temptation of glory and privilege by building your empire upon it. You should have predicted that one day this will happen.
+creations-chat 2022-12-12 09:02:57 What happens in another server stay inside another server, please
+creations-chat 2022-12-12 23:44:56 I can feel you
+help 2022-12-17 01:25:21 “Ro-scaled” by nam nam
+creations-chat 2022-12-25 04:57:10 The point is: how are you going to find those symbols…
+creations-chat 2022-12-26 08:08:42 Uhh, do I really have to?
+creations-chat 2022-12-26 08:10:45 K good, cuz I’ve saw enough broke pride for today.
+help 2022-12-27 03:12:29 Should I go give myself a vision examination or did you intentionally use delta 1x2 for the slat?
+help 2022-12-27 03:12:52 slat
+help 2022-12-27 03:14:05 Leading-edge slat, helps to generate more lift at lower speed
+creations-chat 2022-12-29 03:35:26 Why do I have a feeling the scale is off by a bit for both the rudders and the fuselage
+creations-chat 2022-12-29 03:41:24 So what's next?  Reduce the length?
+creations-chat 2022-12-29 03:43:30 Which component? the canopy? or the fuselage?
+creations-chat 2022-12-29 03:46:28 Got it
+creations-chat 2022-12-29 03:50:29 But the inlet was already 3 blocks wide to adapt the custom afterburner’s nozzle. Or do you mean I should increase the height of the inlet so it looks more beefy?
+creations-chat 2022-12-29 03:53:33 I see, ok I know where to fix.
+creations-chat 2022-12-30 20:33:22 Motors keep glitching out, never happened before when I was building. How do you fix it
+creations-chat 2022-12-30 20:35:51 I tested it last night and it already started behaving like this, so I can't really undo the build
+creations-chat 2022-12-30 20:38:07 Aren't you tired? Or were you born to do such business?
+creations-chat 2022-12-30 20:40:13 whatever, now I can't roll it back to its previous state, is there any possible solution to fix this?
+creations-chat 2022-12-30 20:43:51 And it corrupted for even worse
+creations-chat 2022-12-30 20:52:23 Not like you know how to fix it anyway
+creations-chat 2023-01-01 04:24:22 When the F14 mated with MiG 15:
+creations-chat 2023-01-03 23:20:17 Reasonable for F14, just not the F15
+help 2023-01-03 23:33:50 Uhh, no?
+help 2023-01-03 23:34:23 That’s the IRST
+creations-chat 2023-01-03 23:38:07 I’m holding the urge to not make the nose of the Tomcat 4 blocks wide
+creations-chat 2023-01-07 08:57:20 F16 but given enough steroid to kill the whole Russian military
+creations-chat 2023-01-07 08:59:23 Unless the armaments are carried by the F-16 XL
+creations-chat 2023-01-07 09:31:03 I would rather say the nose to be “flat” and not long
+creations-chat 2023-01-07 22:53:41 He made it… at last
+help 2023-01-24 20:39:01 I tried, that doesn’t exist.
+help 2023-01-24 21:27:51 The second one
+creations-chat 2023-03-04 09:47:56 Outstanding Fencer
+help 2023-03-16 04:52:34 Same here
+creations-chat 2023-04-16 03:49:50 Oh crap, didn’t realize that
+creations-chat 2023-04-16 04:06:58 <:empty:794431705070174238>
+creations-chat 2023-04-23 07:08:58 What do you say about this
+creations-chat 2023-04-23 16:02:03 Finally a craft with effort devoted in it.
+creations-chat 2023-04-24 03:10:11 Don’t you think it’s going to be pretty mundane if the only style of craft in the game is 1x1?
+creations-chat 2023-04-26 04:01:55 Wanted to make everything on the F15 perfect, at the end, made nothing perfect.
+creations-chat 2023-05-09 04:24:28 Same job, but the second one will mostly likely not going to see tomorrow’s dawn
+creations-chat 2023-05-09 05:27:22 New bomber?. There is
+creations-chat 2023-05-09 05:29:27 B-52J, a new B-52 with new engines and avionic system’s upgrades. That’s it
+creations-chat 2023-05-09 05:31:29 The newest is the B21, that’s what we have so far. Bombers are rare these days, or perhaps you can ask someone’s granny for an old B-29 or B-17 <:trollface:775024642104229898>
+creations-chat 2023-05-09 05:34:29 Change in warfare logic, strategy and tactics, it’s what it is.
+creations-chat 2023-05-09 05:50:02 I would go for the B-1 or Tu-160, PC doesn’t have radar so stealth wouldn’t save you from being bullied.
+creations-chat 2023-05-09 05:52:21 Or just go with multi-role fighter, can also get the jobs done whiteout risking your life.
+creations-chat 2023-05-09 05:57:13 It’s your Air Force, you make your own decision
+creations-chat 2023-05-09 06:18:45 I don’t see anything wrong, but you have only two 4th gen aircrafts. Try to add another one, like Typhoon or Rafale
+bug-reports 2023-05-18 02:41:03 Impressive coding, Rick. Watch, look at it, look and reflect on yourself. How much longer do you want the whole community to endure such miserable consequences from your tardiness? Like look, look at what your game has become. Don't you have the slightest sense of guilt witnessing all of these? Countless builds are failing because of all of these built-up errors, and have you done anything to resolve them? Does acknowledging the fact that some social tumours wreak havoc in your own game makes you feel comfortable? I suppose not. You know yourself the best, I'm hereby stating the voice of a small fragment of this community. By the very least, please give it a view, have some respect and honour your dignity. Time is running out, you either nail it on time and earn a win-win, or lose everything that you devoted your effort into.
+creations-chat 2023-05-18 05:29:16 You’re not the only one here who did the same thing and then got f up by Roblox and the game
+bug-reports 2023-05-19 01:39:35 yeah, send a priest to play this game and he will sin
+creations-chat 2023-05-19 01:45:41 T-38 or F-5
+creations-chat 2023-05-26 02:17:34 time to get myself dinged
+creations-chat 2023-05-26 02:23:52 I will DM it to you later
+creations-chat 2023-05-26 03:49:56 Angle shots have been sent
+creations-chat 2023-05-26 13:25:16 I don’t really use that F-15 that often, so the livery is just lame
+creations-chat 2023-05-26 21:40:25 POV: iMac gaming be like
+help 2023-05-26 21:41:51 POV: Your wrote in simplified characters
+help 2023-05-26 21:42:33 Real chad uses traditional scripts
+help 2023-05-26 21:43:39 You do know it means “insane aurora” right?
+help 2023-05-26 21:43:47 Right?
+help 2023-05-26 21:44:16 And what did you typed
+help 2023-05-26 21:45:26 I can at maximum understand 10% of a Japanese sentence based on the Kanji in the sentence.
+help 2023-05-26 21:45:48 That’s it
+help 2023-05-26 21:46:30 Japanese explaining why do they have to use 3 scripts to express their language:
+help 2023-05-26 21:46:43 https://tenor.com/view/explaining-gif-22499839
+help 2023-05-26 21:47:06 And indeed, Japanese is… idk, a mix of all
+help 2023-05-26 21:49:05 When chicken runs on the pedestrian crosswalk from the table on the bed, please sit on knees - literal translation
+help 2023-05-26 21:49:55 Uhhhhhhhh
+creations-chat 2023-05-27 05:55:59 Make a bet. I bet that PC2 will continue to delay just like what happened last summer. I bet 10 bucks
+the-dump 2023-05-27 06:03:06 The hell is Shenhe and Eula doin’…
+creations-chat 2023-05-27 06:11:28 Pay attention to the word “speculated”. Cuz that’s how I know it will be delayed further.
+creations-chat 2023-05-27 06:13:52 But let just say that it would be a shame for rickje if he is going to discredit his reputation any further. I mean, so far his prestige is hanging on the edge.
+creations-chat 2023-05-27 14:13:50 Right, then let’s assume he has none of em

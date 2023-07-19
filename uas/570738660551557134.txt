@@ -1,0 +1,4 @@
+The Tale of fishyy134 (570738660551557134)
+help 2022-06-14 19:00:31 ok so i have custom ailorons with a small gap inbetween the moving bit and the wing, and when i try to motor lock a wing pannel next to the ailoron to patch the hole sometimes the ailoron gets stuck and doesnt go back to its original position after a turn, is there any fix to this or am i gonna have to have an ugly hole in my wing
+bot-central 2022-06-27 17:47:36 !rank
+bot-central 2022-06-27 18:02:33 !rank

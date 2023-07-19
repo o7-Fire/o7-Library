@@ -1,0 +1,24 @@
+The Tale of sllavoir (543029563169701908)
+bug-reports 2023-01-07 00:39:41 im trying to build a train and thing is for some reason the suspension doesnt work, so its basically a 1x2 block then i have a steering system that uses unpowered motors but for some reason they are locked in place almost as if there are no physics to the train
+bug-reports 2023-01-07 00:40:00 its horizontal
+bug-reports 2023-01-07 00:40:14 ill dm you a pic
+bug-reports 2023-01-07 00:41:44 its so the sharp turns dont make it get all werid
+bug-reports 2023-01-07 00:42:17 but you got any idea why that happens
+bug-reports 2023-01-07 00:43:28 but the unpowered engine is locked
+bug-reports 2023-01-07 00:43:31 it doesnt move
+bug-reports 2023-01-07 00:43:38 its like having a normal block
+bug-reports 2023-01-07 00:44:38 DAMN DUDE
+bug-reports 2023-01-07 00:44:53 in my llanguage motor is engine
+bug-reports 2023-01-07 00:45:47 motor means engine in my language
+bug-reports 2023-01-07 00:45:49 i got confused
+bug-reports 2023-01-07 00:45:58 its bugged the thing dont move
+bug-reports 2023-01-07 00:46:56 im spanish
+bug-reports 2023-01-07 00:47:21 ok
+bug-reports 2023-01-07 00:48:12 anyway
+bug-reports 2023-01-07 00:48:15 lets get back to topic
+bug-reports 2023-01-07 00:48:28 also now i got image perms so ill send screenshots here
+bug-reports 2023-01-07 00:56:21 ok i did some slight changes it wors now
+bug-reports 2023-01-07 00:56:29 well like i built a weird system on top
+bug-reports 2023-01-07 00:56:39 so the whole wheel thing is totally useless
+creations-chat 2023-01-31 02:04:46 i feel ashamed
+the-dump 2023-02-17 00:57:55 

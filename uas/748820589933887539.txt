@@ -1,0 +1,251 @@
+The Tale of iruninfinity (748820589933887539)
+bug-reports 2020-12-01 01:22:21 My saves are weird
+bug-reports 2020-12-01 01:22:36 the autosave shows that i had saved 3.2k build,
+bug-reports 2020-12-01 01:22:55 but it shows the another build i have which is 888blocks when i load it.
+bug-reports 2020-12-01 01:22:58 And also,
+bug-reports 2020-12-01 01:23:12 the 3.2k build i had is now very broken for somereason,
+bug-reports 2020-12-01 01:23:16 with a lot of missing blocks
+bug-reports 2020-12-01 01:23:50 and just by changing the material, the uncolored ladder is now suddenly white
+bug-reports 2020-12-01 01:24:05 even though i never painted white on it.
+bug-reports 2020-12-01 01:24:15 due to the missing blocks,
+bug-reports 2020-12-01 01:24:54 i need to fix all the parts of the 3.2k build that's broken, which is really hard to do, in order to make it functional again
+bug-reports 2020-12-01 01:25:17 oh in addition,
+bug-reports 2020-12-01 01:25:35 some of the blocks that weren't there are placed randomly too
+bug-reports 2020-12-01 01:25:54 and block counts are same as the original one that was functional, on the same save plot...
+bug-reports 2020-12-01 01:34:56 Please fix this
+bug-reports 2020-12-01 02:28:27 well
+bug-reports 2020-12-01 02:28:30 for the color,
+bug-reports 2020-12-01 02:28:40 the ladder default is grey
+bug-reports 2020-12-01 02:29:34 and except the ladder, color on any other parts than normal blocks or normal beams were the same
+bug-reports 2020-12-01 02:29:45 such as motors and ballast
+bug-reports 2020-12-01 02:30:06 and yes, the problem occurs when i change from
+bug-reports 2020-12-01 02:30:11 /to glass material too
+bug-reports 2020-12-01 02:39:08 but what i meant was
+bug-reports 2020-12-01 02:39:13 the color of ladder changes
+bug-reports 2020-12-01 02:39:20 to white instead of default
+bug-reports 2020-12-01 02:39:31 when i changed from glass to defauly
+bug-reports 2020-12-01 03:32:12 well i guess so
+bug-reports 2020-12-01 03:32:20 tbh, i don't really care about the color,
+bug-reports 2020-12-01 03:32:35 but the other problem i described above
+bug-reports 2020-12-01 03:32:48 From here
+bug-reports 2020-12-01 05:32:23 ?-?
+bot-central 2021-01-30 15:00:42 = play 사랑이 슬픔에게
+bug-reports 2021-02-25 04:36:12 please increase the power of flip
+bug-reports 2021-02-25 04:36:27 flip doesn't work well on my build
+bug-reports 2021-02-25 04:36:47 i need to press 50 times or more to make it look forward
+bug-reports 2021-02-25 06:36:02 wdyamean?
+bug-reports 2021-02-25 10:51:08 it's over 7k blocks build
+bug-reports 2021-02-26 13:00:40 i guess
+bug-reports 2021-02-27 15:22:42 hope the thruster permanently being on after getting damaged get fixed soon
+creations-chat 2021-04-10 12:17:19 oh i am sorry. he said he can't post it, so he just asked me to post it for him
+sorry for the inconvenience
+
+if i am not wrong, he is banned i think
+
+he also said i can take all the credits, but i didn't want to take his.
+creations-chat 2021-12-06 05:58:11 it's so hard to make that curve
+creations-chat 2021-12-06 06:02:19 this is older pic so it has some exposed motors
+help 2021-12-06 06:04:10 is it possible to make the nose more smooth than that
+help 2021-12-06 06:04:28 yeah
+help 2021-12-06 06:04:43 i was also working on something similar but it was quite tiring to make it more curved
+help 2021-12-06 06:05:02 i see
+help 2021-12-06 06:06:53 hm i guess it would take far more space if ya were to make it more curved then
+help 2021-12-06 06:06:58 nice
+creations-chat 2021-12-06 06:09:58 how about angling the prop from inside oneblock at the end of the axle or how should i call it
+creations-chat 2021-12-06 06:12:02 hm? i am confused
+help 2021-12-06 06:13:44 what should i do if the head attached to the body by motor 2 keeps disintegrating, causing the mech to suddenly fly with 1.6 bil speed, and at some point everything disappears and yet i don't die with constant speed
+help 2021-12-06 06:13:46 fun
+creations-chat 2021-12-06 06:14:06 oh i see
+well after trial and error, he/she will get it eventually ig
+help 2021-12-06 06:15:30 i see
+help 2021-12-06 06:15:35 hope it won't lag too much
+help 2021-12-06 06:17:43 yeap
+help 2021-12-06 06:18:23 this is what i got so far ig
+help 2021-12-06 06:18:29 gotta redo the whole bottom part of the nose
+help 2021-12-06 06:19:44 has the working landing gear, so hard to get space for now
+creations-chat 2021-12-06 06:22:23 hm how about first angling and changing the shape of the front wing, change the shape of the wing a bit by adjusting through motor lock by texts, make the canopy and nose smoother, remove mouse controlled wing panels by instead using another mechanism, and etc
+creations-chat 2021-12-06 06:24:31 yeap i do
+
+btw can anyone help me in what i wrote at help text channel regarding the mech's head
+creations-chat 2021-12-06 06:27:22 try watching one of the vid of jj or was it diamond's regarding the jet engine part, and try learning about motorlocks ig. by doing so ya will figure out a lot of ways to improve
+creations-chat 2021-12-06 06:29:24 shutdown does seem to happen often nowadays, but as long as ya save it often, it will be fine
+it takes risks to learn new things afterall
+creations-chat 2021-12-06 06:31:33 well there is two ways to learn, which is either learn through tutorial or experiment yourself ig
+creations-chat 2021-12-06 06:33:46 idk than ya can try experimenting yourself ya just don't need to make it based on tutorial, but just learn some facts from it to improve
+creations-chat 2021-12-06 06:36:36 looks great, but what ya can try challenge is adding steering system and making wheels motorized ig
+creations-chat 2021-12-06 06:38:56 i guess that's decent, but ya should probably angle the turret, remove all exposed motors, and make sure the rockets aren't exposed ig
+the body can be made so it's more curved too by motor locking more
+also can try adding tracks if ya have time
+creations-chat 2021-12-06 06:42:09 try checking out how to do angle lock first then ig
+then ya will figure out how to put all of those in more confined space
+keep in mind that texts can't collide with blocks
+creations-chat 2021-12-06 07:26:36 if so, how about locking horizontally rather than vertically
+and other parts, lock it with text signs or disconnector to cover it up more ig
+creations-chat 2021-12-06 07:28:59 i see
+bot-central 2022-04-19 20:49:57 -servers
+bot-central 2022-04-19 20:50:31 - servers
+bot-central 2022-04-19 20:50:34 -server
+bot-central 2022-04-23 00:31:00 -servers
+bot-central 2022-04-23 00:31:11 !rank
+bot-central 2022-04-27 12:09:10 !play mr.bluesky
+bot-central 2022-04-27 12:09:20 %play
+bot-central 2022-04-27 12:09:26 ?play
+bot-central 2022-04-27 12:09:30 -?play
+bot-central 2022-04-27 12:09:33 ->play
+bot-central 2022-04-27 12:09:34 ah
+events-chat 2022-05-01 08:03:12 okay
+events-chat 2022-05-01 08:08:00 hello everyone
+events-chat 2022-05-01 08:08:38 i am new to these types of event, and i hope we have a great time together
+events-chat 2022-05-01 08:11:44 hello fellow computer head
+events-chat 2022-05-01 08:12:20 being overly wholesome in social life = morally corrupt inside
+events-chat 2022-05-01 08:15:11 btw is there a specific private server for this event
+events-chat 2022-05-01 08:16:37 i see
+events-chat 2022-05-01 08:17:03 i was wondering since i saw some people together in images of submissions channel
+events-chat 2022-05-01 09:01:05 also does the build need to fit in 51x51x36 even after some parts move? or just before anything rotates?
+events-chat 2022-05-01 10:56:39 if just in build mode,
+events-chat 2022-05-01 10:56:55 it can be a lot larger than that size after spawning?
+events-chat 2022-05-01 11:18:42 but if that's the case, i am worried there might be build that reach like 150 blocks width
+events-chat 2022-05-01 11:19:10 since some might mototlock it to extend their size
+events-chat 2022-05-01 11:27:07 sorry for bothering you again, but i have another question
+events-chat 2022-05-01 11:27:32 is it okay to add another feature on a mech other than original features the battlebot i have been chosen to possesses?
+events-chat 2022-05-01 13:05:02 i see
+events-chat 2022-05-01 13:05:20 thx for the help
+events-chat 2022-05-01 13:05:41 man this is pain
+events-chat 2022-05-01 13:05:58 i already used like 150 motors for one wheel and it's unfinished
+events-chat 2022-05-01 14:44:07 ah wheel is pain
+events-chat 2022-05-01 15:08:13 yes
+events-chat 2022-05-01 15:08:42 that's why i thought of another idea
+events-chat 2022-05-01 15:08:58 in addition to this
+events-chat 2022-05-01 15:11:53 i may not look like it,
+events-chat 2022-05-01 15:12:10 but i have fought a lot with cutters in ps pvp
+events-chat 2022-05-02 07:47:29 
+events-chat 2022-05-02 08:02:20 i think i might use all motors
+events-chat 2022-05-02 08:06:41 yes
+events-chat 2022-05-02 08:19:44 can i apply custom suspension system if mine is flipper
+events-chat 2022-05-03 15:42:33 <@466793357318815744> i am sorry for pinging, but mine goes over size before spawning by 15 or so.
+it fits within size limit once spawned, so is this fine or do i need to decrease size
+events-chat 2022-05-03 15:44:58 okay thank you for your help
+events-chat 2022-05-03 15:45:25 thx <:Upvote:490311647492309004>
+events-chat 2022-05-03 15:59:16 🦞
+events-chat 2022-05-03 16:06:41 ah
+events-chat 2022-05-03 16:14:56 cause infinite weight
+events-chat 2022-05-03 19:25:08 except front and overall frame, my wheels and weapon(looks simpler) looks different ah
+events-chat 2022-05-05 14:08:28 i am noob?
+events-chat 2022-05-05 14:11:05 ahh
+events-chat 2022-05-05 14:14:33 are you noob?
+events-chat 2022-05-05 14:14:50 at mech?
+events-chat 2022-05-05 14:50:11 me, but i don't have ranked role
+events-chat 2022-05-06 03:33:22 simple
+creations-chat 2022-05-07 07:59:38 hm?
+creations-chat 2022-05-07 08:01:44 oh lol
+i was lazy on it since i am just gonna use it for pvp
+it's tiring to stack motorlock for roundness
+want me to show the example of pain on my other build?
+creations-chat 2022-05-07 08:09:11 then suffer (wip so some are misplaced)
+creations-chat 2022-05-07 08:19:14 yes suffer more
+creations-chat 2022-05-07 08:22:05 suffer from the pain of stacking motors
+creations-chat 2022-05-07 08:26:06 joe biden
+creations-chat 2022-05-07 08:28:12 everywhere B)
+creations-chat 2022-05-08 07:41:09 yes
+events-chat 2022-05-08 08:17:40 <@466793357318815744> <@660341617537843210> i am sorry for the pings, but would it be possible for me to please get the ranked role soon since i am unable to join vip server at this moment for i am without that role? i have posted in the ticket, but haven't gotten response in nearly 24 hours
+events-chat 2022-05-08 08:18:10 what is it
+events-chat 2022-05-08 08:18:29 i did since i was lazy to finish my other builds
+events-chat 2022-05-08 08:18:49 how long
+events-chat 2022-05-08 08:19:07 ah days
+events-chat 2022-05-08 08:19:31 also additional question, is it fine to use suspension system for wheels if i am flipper?
+events-chat 2022-05-08 08:23:30 since mine bounces lol
+events-chat 2022-05-08 08:26:06 i see
+events-chat 2022-05-08 08:27:16 nice i fixed it
+events-chat 2022-05-08 08:57:52 btw how many blocks are your guys battlebot
+events-chat 2022-05-08 09:02:50 i see
+events-chat 2022-05-08 09:03:06 i see
+events-chat 2022-05-08 09:03:57 mine is 2.6k without one wheel and unfinished body ig
+events-chat 2022-05-08 09:05:04 idk where to place my seat ah
+events-chat 2022-05-08 09:06:08 where do ya think would be best to place seat for this bot
+events-chat 2022-05-08 09:35:12 I see
+events-chat 2022-05-08 09:35:29 if so tire cause yes
+events-chat 2022-05-08 09:41:50 "i participate in pcc event to break the rule without breaking the rule"
+events-chat 2022-05-08 09:42:22 quote from one of my friend
+events-chat 2022-05-08 10:20:38 pic of wip battlebot
+events-chat 2022-05-08 11:05:31 sorry for bothering, i have thought i putted block count was included in my vid
+events-chat 2022-05-08 11:57:54 cause why not
+bot-central 2022-05-08 11:58:12 -vip
+bot-central 2022-05-08 11:58:17 -servers
+events-chat 2022-05-08 12:00:57 that's why i only put it partially
+bot-central 2022-05-08 12:03:15 -servers
+events-chat 2022-05-08 12:55:22 can someone send me vip server i am ranked
+events-chat 2022-05-08 12:55:38 i am trying to get it by bot but it says unidentified ps
+events-chat 2022-05-08 14:06:55 epic
+events-chat 2022-05-08 14:35:29 not me
+bot-central 2022-05-08 14:35:40 -servers
+events-chat 2022-05-08 14:36:20 it did send it to me, but the links won't work
+events-chat 2022-05-09 11:49:54 mint pizza
+events-chat 2022-05-10 07:26:32 <@466793357318815744> sorry for pinging, but mine gets glitched when using powered motor for wheel, so since i am  a flipper, can i use simple suspension system for wheels
+events-chat 2022-05-10 09:11:50 but i am flipper
+events-chat 2022-05-10 09:12:45 so i am allowed
+events-chat 2022-05-10 09:13:28 nice
+events-chat 2022-05-10 09:13:45 time to use christie suspension
+events-chat 2022-05-10 09:14:35 okay
+events-chat 2022-05-10 09:14:52 thx for trying to help out though
+events-chat 2022-05-10 14:16:15 wip
+events-chat 2022-05-10 14:16:32 
+events-chat 2022-05-10 14:16:51 built within plot size
+events-chat 2022-05-10 14:20:10 whiplash
+events-chat 2022-05-10 18:04:03 cause no color and different wheel
+events-chat 2022-05-10 18:04:20 gonna change the arm and cover some part, then it will be whiplash-ish
+events-chat 2022-05-11 14:27:10 finally almost finished
+events-chat 2022-05-11 14:27:40 <@466793357318815744> please answer my question when ya have time
+events-chat 2022-05-11 15:37:00 thank you
+events-chat 2022-05-11 15:39:34 when battlebot = 5k blocks
+events-chat 2022-05-11 15:40:46 who
+events-chat 2022-05-11 15:41:04 beast?
+events-chat 2022-05-11 15:43:31 i see
+events-chat 2022-05-11 15:43:47 <:stuff:908917207986208828>
+events-chat 2022-05-11 15:48:34 i see
+what is it, the hint
+events-chat 2022-05-11 18:04:04 hm
+bot-central 2022-05-13 14:12:06 -servers
+events-chat 2022-05-14 17:12:16 joining it tomorrow
+events-chat 2022-05-15 17:43:15 sad i lost by vote man
+events-chat 2022-05-15 17:43:59 i had all weapon and all functions
+events-chat 2022-05-15 17:44:26 just a beam off from top, and he lost weapon and one cutter left with front dmg
+events-chat 2022-05-15 17:45:59 i got no vital dmg though
+events-chat 2022-05-15 17:47:58 yes ahh
+events-chat 2022-05-15 18:26:13 wdyamean
+events-chat 2022-05-15 18:27:14 yes so what
+events-chat 2022-05-15 18:27:34 explain it got no dmg except one water wheel from it
+events-chat 2022-05-15 18:30:06 why does it matter it doesn't make logical sense
+mine is a disk not cylinder
+events-chat 2022-05-15 18:31:07 but i cut his weapon off
+did ya see the match
+events-chat 2022-05-15 18:32:56 like i lost by vote even if i got no vital dmg and could function while enemy lost weapon
+events-chat 2022-05-15 18:33:17 and flung to sky
+events-chat 2022-05-15 18:33:38 i did cut it off so no need
+creations-chat 2022-05-20 18:15:24 oh hello mega
+bot-central 2022-05-27 16:48:49 -servers
+creations-chat 2022-05-30 19:03:07 hm another trash talker
+creations-chat 2022-05-30 19:07:24 not a good thing for higher standard = more motivations for higher quality stuffs
+creations-chat 2022-05-30 19:09:36 yeah i didn't want upvote for that no joke
+cause it really is a low effort build
+and why care about being accepted to community
+just enjoy building and sharing etc in community
+creations-chat 2022-05-30 19:15:29 yes ya are right
+creations-chat 2022-05-30 19:17:46 yes
+creations-chat 2022-05-30 19:19:49 but low effort depends on standards so ig it's fine
+
+https://streamable.com/ftwjwg
+creations-chat 2022-05-30 19:21:53 well leave it to mod, no need for us to argue about it here
+creations-chat 2022-05-30 19:23:57 <:FineTroll:626841259746656289>
+bot-central 2022-05-30 19:24:14 -servers
+creations-chat 2022-05-30 19:27:49 why does angle lock not work on one of my builds
+am in pcc ps rn, someone give me help
+creations-chat 2022-05-30 19:30:38 <:Upvote:490311647492309004>
+help 2022-05-30 19:37:59 someone help
+help 2022-05-30 19:38:03 i am in pcc ps
+help 2022-05-30 19:38:10 my anglelock won't work
+contest-chat 2022-06-14 08:20:09 jaeger
+creations-chat 2022-08-24 09:06:35 wait ain't that copy of mash's
+creations-chat 2022-08-24 09:08:44 lol 
+well ig we can kinda report it if he did that?
+fun
+creations-chat 2022-08-24 09:10:47 nice job

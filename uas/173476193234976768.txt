@@ -1,0 +1,82 @@
+The Tale of orbin (173476193234976768)
+bot-central 2019-11-02 22:51:51 &help
+creations-chat 2019-11-02 23:10:59 Jet/Rocket Aircraft "Beowulf"
+Part count: 330
+Role request: Aero Engineer 1
+
+Retracting gear (nosegear) and under-wing missiles. Can reach 450+ in level flight. My first seriously thought out plane, I can only improve from here.
+creations-chat 2019-11-02 23:11:21 
+creations-chat 2019-11-02 23:11:32 
+creations-chat 2019-11-02 23:16:49 <@!417484722239963136> sorry your desires aren't met visually by my plane. Do you by chance have any constructive criticism that I can use to improve or is "disgustang" all you have to say?
+creations-chat 2019-11-02 23:24:19 ..
+help 2019-11-17 22:51:56 anyone have a general table of materials with most to least friction?
+help 2019-11-17 22:53:58 what about inbetween
+help 2019-11-17 22:54:12 noticed that slate and sand are pretty slippery as well
+help 2020-02-18 06:20:07 my trying to figure out variable helicopter torque is like me reading war and peace in 10 minutes flat
+help 2020-02-18 06:20:19 *i cant do it*
+help 2020-02-18 06:28:23 lift goes up == torque between the rotor and main body go up.
+help 2020-02-18 06:28:48 *then i have to adjust the tailrotor somehow..*
+creations-chat 2020-02-18 06:56:25 Rocket Platform Anti Air 8x8 with independent suspension.
+creations-chat 2020-02-18 06:56:29 
+creations-chat 2020-02-18 06:56:41 
+creations-chat 2020-02-18 06:59:00 thanks
+creations-chat 2020-02-18 06:59:17 all wheels are powered
+creations-chat 2020-02-18 07:00:17 4 wheel steering was necessary as well considering some of its previous iterations had a piss poor turning radius
+creations-chat 2020-02-18 07:00:36 one set front and one set back fixed that up quite nicely.
+help 2020-02-18 07:03:03 Rocket Platform Anti Air. Requesting ``Terrain Specialist [I]``.
+help 2020-02-18 07:03:12 
+reports 2020-02-18 19:32:57 User: dleifnesor
+Reason: Build contains inappropriate language.
+Evidence: https://cdn.discordapp.com/attachments/542496069947490337/679409041209950228/RobloxScreenShot20200218_142822147.png
+Profile: https://www.roblox.com/users/607323678/profile
+help 2020-02-18 20:32:54 my dumbass in: dealing with helicopter torque, a series of failures.
+help 2020-02-18 21:21:03 adjusting the weight balance is keeping my heli from pitching backwards but it still wants to yaw left the whole time due to the fact that ***i cannot for the life of me figure out how to tailrotor***
+help 2020-02-18 22:00:13 how to strong yaw
+creations-chat 2020-02-18 22:01:18 bot didnt make reactions rip
+creations-chat 2020-02-18 22:06:59 nice elevator regardless
+help 2020-02-18 22:37:23 yaw fixed now i have rotor drift <:lmfao:527971550360633393>
+bug-reports 2020-02-18 22:38:26 i couldn't transfer from my own pilot seat back into it after getting out so yeah. ^
+creations-chat 2020-02-18 22:39:58 scary file needs to be downloaded no trust no trust <:ElonDisapprove:589136548356685837>
+creations-chat 2020-02-19 05:59:48 *its a cool repost shhh*
+help 2020-02-19 19:57:59 https://vimeo.com/392542361
+help 2020-02-19 19:57:59 so i'm back to screwing with helicopters and swashplate understanding and-
+help 2020-02-19 19:58:39 *i wanted nice heli controls and i should probably expect it to be hard to control*
+help 2020-02-19 19:59:51 not my swashplate design btw but its a bit modified. using that to understand it while i make one myself
+help 2020-02-19 20:00:18 gave it a bit more authority
+help 2020-02-19 20:00:40 the longer you work with them and think about them the more you understand
+help 2020-02-19 20:00:51 kinda why i'm trying to figure it out
+help 2020-02-19 20:02:08 *also its spinning a lot faster than the video appears because 30fps
+help 2020-02-19 21:25:02 wait so everyone is like 6 foot
+help 2020-06-17 09:53:53 does anyone have an idea for combating rotor torque in a helicopter?
+help 2020-06-17 09:55:18 doesnt matter how beefy i made the tailrotor the thing insists on pulling into a left turn the whole time
+help 2020-06-17 09:58:20 even a way of reducing the effect would be appreciated. it would probably be impossible to negate it 100% because of the torque changes between zero collective and climb collective
+help 2020-06-17 10:02:00 torque is essentially an opposing action. if X is attatched to Y and X is made to spin at rate A, then the torque from X will cause a rotational force on Y.
+help 2020-06-17 10:02:09 im having a hard time managing it.
+help 2020-06-17 10:03:14 yes
+help 2020-06-17 10:03:28 i have a tail rotor
+help 2020-06-17 10:03:38 it has a swashplate mechanism
+help 2020-06-17 10:03:54 > i have a tail rotor
+help 2020-06-17 10:04:49 which by the way is set to adjust as the colletive does
+help 2020-06-17 10:04:53 to no avail
+help 2020-06-17 10:40:07 yes
+help 2020-06-17 10:48:08 your props are inverted and spinning in the same direction
+help 2020-06-17 10:48:22 flip the direction of the other motor or flip the prop direction.
+help 2020-06-17 10:48:37 preferably the motor direction if you want to counteract rotational torque
+help 2020-06-17 10:50:16 if the motors are in the same direction, then the props need to match as well
+help 2020-06-17 10:50:27 if the props are opposite, the motor spin must also be opposite
+help 2020-06-17 10:50:45 that will work, but you will have rotational torque issues
+help 2020-06-17 10:54:37 <@!480746414293647360> are you still available to assist with my torque issue?
+help 2020-06-17 10:55:08 https://gyazo.com/365c56271b651eec7a4e798432d6424f
+help 2020-06-17 10:55:33 does this naturally with no input at the controls
+help 2020-06-17 10:56:41 not sure what to make of it other than blaming roblox physics.
+help 2020-06-17 10:57:41 fights me whenever I try to yaw right and flying in a straight line requires a constant right roll in order to keep it straight
+help 2020-06-17 11:01:45 **If anyone has any ideas I'm all ears.**
+help 2020-06-17 11:05:42 picture?
+creations-chat 2020-06-18 06:44:06 gronk post in wrong channel hurr durr
+creations-chat 2020-06-18 06:44:15 moving it
+creations-chat 2020-06-18 06:48:06 might look cool with some lights
+creations-chat 2020-06-18 06:54:26 most of it was spent fine tuning the flight charictaristics
+creations-chat 2020-06-18 06:54:45 but yeah. from zero parts to saved and finished was 3 hours give or take a bit
+creations-chat 2020-06-18 07:01:09 also just got it to 2500 sps before i had some kind of mechanical failure
+help 2021-09-18 13:49:39 ~~anyone else had pistons go wack and just not work?~~ i have ape brain
+creations-chat 2021-09-18 14:31:58 creations bot doin a little <:OmegaTroll:626841385118597152>

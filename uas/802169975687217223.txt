@@ -1,0 +1,9 @@
+The Tale of _rfr (802169975687217223)
+bug-reports 2021-02-26 01:58:01 I found bug, u can place beams outside the plot
+bug-reports 2021-02-26 01:58:13 but not really outside like few blocks outside the plot
+bug-reports 2021-02-26 03:53:01 ohh
+bug-reports 2021-02-26 03:53:04 :/
+help 2021-03-19 05:09:19 how can i fix woblynes of a motor
+help 2021-03-19 05:10:36 motor 2
+help 2021-03-19 05:10:51 :/
+help 2021-03-19 05:11:35 oh

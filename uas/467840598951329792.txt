@@ -1,0 +1,82 @@
+The Tale of carterman102 (467840598951329792)
+creations-chat 2021-05-11 02:47:09 make it wider
+bot-central 2021-05-11 21:48:32 !rank
+bot-central 2021-05-11 21:49:27 !rank
+bot-central 2021-05-11 21:49:40 !rank
+creations-chat 2021-05-11 22:01:11 is this ugly so far
+help 2021-05-12 01:16:53 what are friction blocks for
+help 2021-05-12 02:05:48 oh
+help 2021-05-12 02:05:51 so just for looks
+help 2021-05-12 02:22:16 what do they do
+help 2021-05-12 02:48:32 why does my elevator get stuck when there's another person's plane on it but it's fine when I go up and down on it
+help 2021-05-12 11:58:23 I know that, it's an elevator for a carrier. Whenever I use a plane on it the elevator works fine but when my friend uses a plane on it, it glitches out.
+help 2021-05-12 12:00:41 I have the force thing set at 2500 if that's what you meant
+help 2021-05-12 12:08:38 would suspension on the other plane help maybe?
+the-dump 2021-05-12 12:44:04 why do I keep seeing this bruh
+bot-central 2021-05-12 14:06:29 -ms 1 1 0
+bot-central 2021-05-12 14:07:59 -MS 1 1 0
+bot-central 2021-05-12 14:09:33 -ms 1 1000 0
+bot-central 2021-05-12 14:12:36 -ms 1 1000 0
+bot-central 2021-05-12 14:16:32 -ms 1 1 0
+bot-central 2021-05-12 14:17:11 -ms 1 10
+bot-central 2021-05-12 14:17:18 -ms 1 1 0
+bot-central 2021-05-12 14:18:05 -ms 1 1 0
+bot-central 2021-05-12 14:18:50 -ms 1 1000 1
+bot-central 2021-05-12 14:19:06 -ms 1 1 0
+bot-central 2021-05-13 15:01:11 -ms 1 1 0
+bot-central 2021-05-13 15:01:56 -ms 1 1 0
+bot-central 2021-05-13 15:02:57 -ms 1 1 0
+help 2021-05-13 18:09:43 whenever I try to spawn my build it doesn't teleport me to it and whenever I sit in it, it doesn't work. Is there any fix for this?
+help 2021-05-13 18:12:16 also it works whenever I spawn at "base" but it never works when I spawn at "water"
+help 2021-05-13 18:18:23 so no fix?
+help 2021-05-13 18:20:43 ooof
+help 2021-05-13 18:21:14 okay
+help 2021-05-13 18:22:25 is it likely to be fixed soon or nah
+help 2021-05-13 18:24:17 wdym
+help 2021-05-13 18:24:22 it doesn't work in any server
+help 2021-05-13 18:24:28 I've tried 3-4 now
+help 2021-05-13 18:26:57 like autosave it then resave it
+help 2021-05-13 18:28:06 ok
+help 2021-05-13 18:29:30 didn't work
+help 2021-05-13 18:30:06 bruh
+help 2021-05-13 18:30:39 is it because it's almost 9000 blocks
+help 2021-05-13 18:32:19 it works on mobile but not on pc
+help 2021-05-13 18:32:25 lgkjdhlkshgkdfhglksdhfgkldjhfg
+the-dump 2021-05-13 22:35:43 jhkgjhgkjgjhgkjhgjkhgkjhgjkgjgkjhgkjhjkhgkjhgjkhgkjhgjkhgkjhg
+creations-chat 2021-06-02 22:42:53 🍿 🍾
+creations-chat 2021-06-02 23:08:49 what is pcc
+creations-chat 2021-06-02 23:13:54 BYPASS
+help 2021-06-03 21:40:17 everytime I spawn at water I fall through the map :(
+bug-reports 2021-06-03 22:07:12 nice
+bug-reports 2021-06-03 22:07:14 lol
+bug-reports 2021-06-03 22:18:30 I thought I was the only one
+bug-reports 2021-06-03 22:18:31 phew
+bug-reports 2021-06-03 22:24:36 and the water
+bug-reports 2021-06-03 22:25:18 you can literally fly through the water LOL
+bug-reports 2021-06-03 22:27:01 lol
+bug-reports 2021-06-03 22:32:42 I joined a private sevrer and it works fine
+creations-chat 2021-06-21 22:26:17 is that why people are downvoting I wonder
+creations-chat 2021-06-21 22:28:37 I'll post one where you can actually see lol
+creations-chat 2021-06-21 22:33:34 that's weird it says 6 downvotes on my screen
+creations-chat 2021-06-21 22:51:36 feedback?
+creations-chat 2021-06-21 22:53:45 gotcha, I do think the bridge could use a redo
+creations-chat 2021-06-21 22:56:04 the bridge on the real thing is pretty far back though so how far should I move it up?
+creations-chat 2021-06-21 23:12:31 so I think I should do these things: rebuild the bridge to make it more accurate (not moving it though), build some jets, make a crane, and add some more detail to the stern but how would I do weathering?
+creations-chat 2021-07-12 21:33:57 is that an osprey
+help 2021-07-13 01:18:13 does anyone have any tips I guess on how to weather an aircraft carrier
+creations-chat 2021-07-13 15:09:44 The shape looks good but I think it extends too much
+creations-chat 2021-07-13 15:52:39 you can find tutorials on youtube if you just want something cool looking but just don't post a tutorial in <#384025409945337856> or act like it's your own
+creations-chat 2021-07-13 15:54:40 :( just trying to help sorry
+creations-chat 2021-07-13 16:16:18 ^plus it feels way better when you made it yourself
+creations-chat 2021-07-13 16:20:40 unless it's a tutorial for motor locking or folding or something right
+creations-chat 2021-07-13 16:42:33 feedback
+creations-chat 2021-07-13 16:47:17 nice I like it but maybe you could add like a rollcage
+creations-chat 2021-07-13 16:49:21 bruh what does that have to do with anything why is everyone a asshole
+creations-chat 2021-07-13 16:55:21 does the suspension work
+creations-chat 2021-07-13 17:00:35 oh my bad man didn't see where you posted the video
+creations-chat 2021-07-13 17:06:12 also maybe make the rudders (if that's what they're called) taller
+creations-chat 2021-07-13 17:24:39 with
+creations-chat 2021-08-28 15:00:22 feedback
+creations-chat 2021-08-28 15:11:08 lol
+creations-chat 2021-09-12 21:36:07 feedbak
+creations-chat 2021-09-12 21:38:12 no should I add one

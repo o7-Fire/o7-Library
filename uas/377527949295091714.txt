@@ -1,6 +1,191 @@
-leplasma
-plane-crazy 2019-10-12 14:31:58 My account is 13+..
-plane-crazy 2019-10-12 14:31:42 <@!216193164199985152> Why did you ping me?
-plane-crazy 2019-10-12 14:31:30 .
-plane-crazy 2019-07-06 07:15:10 <:BIG1:588443768806703124> <:BIG2:588443778554134540> 
-<:BIG3:588443788721258534> <:BIG4:588443798842114088>
+The Tale of leplasma (377527949295091714)
+creations-chat 2019-01-01 18:22:33 My first drone, made with 156 blocks. :)
+creations-chat 2019-01-01 18:23:42 
+creations-chat 2019-01-01 18:27:05 Sad
+help 2019-01-01 18:31:08 I made a fish, since all the engines, apart from propellers, make it fly, so I decided to use propellers, now it doesn't fly, and it moves a good speed, but now it dives half-way underwater, or turns on it's side and constantly spins. :|
+help 2019-01-01 18:33:19 Anybody know how to fix it?
+help 2019-01-01 20:26:34 Anybody...?
+help 2019-01-01 20:32:34 Just tips over on it's side now.
+help 2019-01-01 20:38:52 To move forward.
+help 2019-01-01 20:39:04 Anything else makes me go too fast, or makes me fly.
+help 2019-01-01 20:39:55 Engines.
+help 2019-01-01 20:41:06 That's why I have little to no wings.
+help 2019-01-01 20:42:14 Trying to fix that with ballast blocks.
+help 2019-01-01 20:43:35 Worked, but it's super slow. :)
+help 2019-01-01 20:43:43 Now I need super rocket engines ;_;
+help 2019-01-01 21:24:10 I saw you in game,
+help 2019-01-01 21:24:17 you need to make it stiffer.
+creations-chat 2019-01-02 10:43:48 My rare (and exotic) species of human-fish, more commonly know as the Humanum Pisces.
+creations-chat 2019-01-02 10:44:29 230 blocks.
+creations-chat 2019-01-02 10:44:46 xd
+bug-reports 2019-01-02 12:00:31 I found a glitch where you can fly in ragdoll, if you build a grid like this:
+bug-reports 2019-01-02 12:00:35 
+bug-reports 2019-01-02 12:00:41 Then start, and use ragdoll,
+bug-reports 2019-01-02 12:01:18 When you stop, and start, and stop again (while in the seat), you will be ragdoll in a seat, then if you jump out, you just start flying.
+bug-reports 2019-01-02 12:06:50 <@!216371990959882241> The bug you reported had this in it:
+bug-reports 2019-01-02 12:06:52 
+bug-reports 2019-01-02 12:07:10 Infinite yield is an exploit.
+creations-chat 2019-01-02 14:26:46 Cyborg fish!
+creations-chat 2019-01-02 14:27:30 'Regular' fish.... ;c
+creations-chat 2019-01-02 14:28:05 If you come too close, it will open his eyes and give you a deathly stare c:
+creations-chat 2019-01-02 14:28:19 Should I urn them into rockets?
+creations-chat 2019-01-02 14:28:22 turn
+bug-reports 2019-01-02 14:49:04 I can edit my friends engines.
+bug-reports 2019-01-02 14:49:08 
+creations-chat 2019-01-02 15:09:36 My fish can now defend itself c:
+bug-reports 2019-01-02 15:28:08 ?
+bug-reports 2019-01-02 15:28:43 Oof
+bug-reports 2019-01-02 15:28:57 People told me it was :|
+creations-chat 2019-01-02 20:39:49 Made a sub, requesting rank: Ensign
+creations-chat 2019-01-02 20:40:20 Block count:
+creations-chat 2019-01-03 10:52:26 Ranks requesting: Ensign, Novice
+creations-chat 2019-01-03 10:58:55 Rank requesting: Escape Velocity
+bug-reports 2019-01-03 16:12:14 Mine just paints everything once I change it, it paints everything, even if I change it back ;_;
+creations-chat 2019-01-03 16:58:55 Rank requesting: Novice (Technician)
+creations-chat 2019-01-03 17:00:06 
+creations-chat 2019-01-03 17:20:56 XD
+creations-chat 2019-01-03 17:21:22 It's still a VTOL, it didn't state you had to make your own VTOL
+creations-chat 2019-01-03 17:21:37 xd
+creations-chat 2019-01-03 17:21:50 I mainly just use tutorials then modify them
+creations-chat 2019-01-03 17:44:17 Also, the VTOL on youtube was terrible,
+creations-chat 2019-01-03 17:44:43 it barely went upwards without doing about a million barrel rolls
+creations-chat 2019-01-03 17:46:06 It also wouldn't turn.
+creations-chat 2019-01-03 18:12:41 Which is why I modified it
+creations-chat 2019-01-03 18:13:23 No....
+creations-chat 2019-01-03 18:13:38 I've added more than that.
+creations-chat 2019-01-03 21:06:10 <@456226577798135808> Who said it had to look good?
+creations-chat 2019-01-03 21:06:39 I don't believe that's a requirement for the rank I was going for.
+creations-chat 2019-01-03 21:07:01 Anyway, I'm going.
+creations-chat 2019-01-05 21:31:11 Sad
+bug-reports 2019-01-21 20:11:56 If you use a parachute, then start or stop testing your vehcile, it just stays in the same place, and it looks as though you've not got it on.
+bug-reports 2019-01-23 18:09:17 When you start your vehicle, it automatically puts you cam into any camera you've placed, or just go into a random POV if you haven't placed a camera
+creations-chat 2019-01-23 18:32:59 Found this flying car on youtube, but it rolled over a lot xd So I decided to mod it, and now it works better than the video showed :)
+creations-chat 2019-01-23 18:44:29 I can show the original version
+creations-chat 2019-01-23 18:45:11 Forgot to show the bottom xd
+creations-chat 2019-01-23 18:49:20 The original:
+creations-chat 2019-01-23 18:50:12 
+help 2019-01-23 18:57:28 I don't get how only propellor blades can make things fly, I got how it can make it turn, but not fly ;-;
+creations-chat 2019-01-24 15:51:37 Turns out my car/plane hybrid is a car/place/boat/sub hybrid.
+creations-chat 2019-01-24 15:52:04 Plane*
+bug-reports 2019-01-25 16:01:41 The skis are not affected by the convenyor belts, I was trying to see the how much I could resist them with skis, and it doesn't get affected, or it gets affected very little.
+bug-reports 2019-01-25 16:02:01 
+bug-reports 2019-01-25 16:13:29 My car also keeps spawning a random brick
+bug-reports 2019-01-25 16:13:34 
+bug-reports 2019-01-25 16:13:59 
+bug-reports 2019-01-25 16:14:38 
+bug-reports 2019-01-25 17:24:10 oof
+help 2019-01-26 17:55:59 How do you make a ship fly, with only propellor blades?
+help 2019-01-26 17:56:14 Cause it only makes me turn ;-;
+help 2019-01-26 17:56:32 Yes
+help 2019-01-26 17:56:35 xd
+help 2019-01-26 17:57:01 You can
+help 2019-01-26 17:57:09 <#504718138399522832>
+help 2019-01-26 17:57:15 It says you can xd
+help 2019-01-26 17:57:52 xd
+help 2019-01-26 17:58:18 How do you make a **plane** fly with only propellor blades then? xd
+help 2019-01-26 18:04:25 ***i dont***
+help 2019-01-26 18:04:32 <:dabberone:532303044701061141>
+help 2019-01-26 18:04:52 How do you make a plane fly with only propellor blades?
+creations-chat 2019-01-28 20:51:58 I made a six block plane, that flies :D
+creations-chat 2019-01-28 20:52:49 
+creations-chat 2019-01-28 20:55:20 Way better version :D
+creations-chat 2019-01-28 20:55:21 xd
+creations-chat 2019-01-28 20:55:51 xd
+creations-chat 2019-01-28 20:55:52 
+creations-chat 2019-01-28 20:56:08 
+creations-chat 2019-01-28 20:56:26 It does wobble a bit when starting, but is completely smooth after that
+creations-chat 2019-01-28 20:56:27 xd
+creations-chat 2019-01-28 20:57:08 
+creations-chat 2019-01-28 20:58:25 Requesting rank novice and beginner :)
+creations-chat 2019-01-28 21:04:25 No longer shakes >:)
+bug-reports 2019-01-28 21:09:07 The wing is connected to the seat,
+bug-reports 2019-01-28 21:09:11 
+bug-reports 2019-01-28 21:09:42 but falls off when I start it
+bug-reports 2019-01-28 21:09:45 
+creations-chat 2019-01-28 21:17:27 This guy was trying to makea better plane v
+creations-chat 2019-01-28 21:17:40 xd
+creations-chat 2019-01-28 21:19:43 xd
+bug-reports 2019-01-28 21:44:06 I know, but if the wing is touching the seat, shouldn't it be connected?
+creations-chat 2019-01-28 22:01:31 No, it's not.
+creations-chat 2019-01-28 22:01:38 I got the idea from the video,
+creations-chat 2019-01-28 22:01:46 so I tried to make it smaller and better
+creations-chat 2019-01-28 22:02:21 <@456226577798135808>
+creations-chat 2019-01-28 22:02:45 I would have removed 3 blocks.
+creations-chat 2019-01-28 22:02:52 Which I did not.
+creations-chat 2019-01-28 22:03:24 I changed the blocks, so that the blocks were smaller, instead of a 1x2 control surface, I changed it to a 1x1, etc
+creations-chat 2019-01-28 22:03:59 That would be removing 1 block
+creations-chat 2019-01-28 22:04:00 not 3
+creations-chat 2019-01-28 22:14:34 Okay, 4 blocks not changed, 2 changed, and 3 added, which is more than 50% of it 'copied'.
+creations-chat 2019-01-28 22:16:59 Correction, 4 blocks not changed, 3 changed, and 4 added.
+creations-chat 2019-01-28 22:28:15 Less than 50% of it copied*
+creations-chat 2019-01-28 22:31:24 Still, I was accused of having '90%' of it copied, because people don't know what 'etc' means.
+creations-chat 2019-01-28 22:57:35 Gonna have to get banned, Ravin. It's a low effort build.
+creations-chat 2019-01-28 23:02:39 Also, how am I supposed to be banned, if I changed my name?
+creations-chat 2019-01-28 23:03:00 sad
+creations-chat 2019-01-28 23:03:04 I jusst checked
+creations-chat 2019-01-28 23:03:07 On the player list
+creations-chat 2019-01-28 23:03:34 Well, you said 'low effort builds and your gonna get creations banned'
+creations-chat 2019-01-28 23:03:54 Ravin made a low effort build,
+creations-chat 2019-01-28 23:04:01 <:lul:526445157847924736>
+creations-chat 2019-01-28 23:05:28 No, it's hard work, try making a plane like that, which flies, does not tip over, does not crash every time, flies smoothly, not so it is constantly wobbling, etc.
+creations-chat 2019-01-28 23:05:52 Any other variation I tried, failed.
+creations-chat 2019-01-29 16:02:49 <@!295568493166985218> Gonna have to ban Rez, his plane only used a small amount of blocks, and apparently that's not allowed, well that's what you said to me anyway.
+creations-chat 2019-01-29 16:14:50 Check <#504436696021204992> and scroll up a bit,
+creations-chat 2019-01-29 16:14:59 because apparently small things are not allowed.
+creations-chat 2019-01-29 16:16:17 *cough*
+creations-chat 2019-01-29 16:16:41 And apparently planes that are small, are not effort.
+creations-chat 2019-01-29 16:17:11 You said small planes are not allowed.
+creations-chat 2019-01-29 16:17:35 So Rez has to get banned, just like you told me I would when I built a small plane :)
+creations-chat 2019-01-29 16:19:35 I'm not trying to use your own words against you, I'm just saying that Rez has to get banned, because If I'm not allowed to make a small plane, which is diffent to a tutorial, nobody can.
+creations-chat 2019-01-29 16:20:28 .
+creations-chat 2019-01-29 16:20:34 So now planes have to look good?
+creations-chat 2019-01-29 16:21:48 Still, why am I the only one who gets affected by a dumb rule which stops me making small planes that have to look good?
+creations-chat 2019-01-29 16:24:04 So somebody who posts a picture of an entirely empty plot, is allowed to post it, because it's 'wonderwomans invisible jet'?
+creations-chat 2019-01-29 16:25:09 Exactly.
+creations-chat 2019-01-29 16:25:39 And that small plane, wasn't a 'joke build'.
+creations-chat 2019-01-29 16:26:29 And I don't see the point of getting threatend to be banned, because I made a small plane.
+creations-chat 2019-01-29 16:27:05 You said I was pushing it as gold.
+creations-chat 2019-01-29 16:27:18 I just said I was building a small plane.
+creations-chat 2019-01-29 16:27:43 You're banning me from creating small builds..
+creations-chat 2019-01-29 16:29:30 And anyway, people can't be banned from the game, for making planes.
+creations-chat 2019-01-29 16:29:47 The rules state that you can be banned from POSTING planes for 3 days.
+creations-chat 2019-01-29 16:30:49 I saw that mistake.
+creations-chat 2019-01-29 16:31:40 And I made it use more blocks, I changed it, and made it stop shaking.
+creations-chat 2019-01-29 16:32:20 There was literally two blocks not changed.
+creations-chat 2019-02-16 22:54:49 <@!511080180966752256> Funny, I saw that plane on youtube.
+creations-chat 2019-02-16 22:58:43 I know.
+creations-chat 2019-02-16 22:58:49 I was just saying I saw it on youtube.
+creations-chat 2019-02-16 23:07:12 Requesting rank: Microscopic Engineer
+creations-chat 2019-02-17 14:21:21 Ranks requesting: Microscopic engineer, Noice, Adept.
+creations-chat 2019-03-29 16:30:25 `I made a controllable missle
+creations-chat 2019-03-31 22:09:46 Requesting ranks novice + adept
+creations-chat 2019-04-08 12:04:07 <@!365207262987550720> That plane is on Youtube
+creations-chat 2019-04-08 13:29:45 <@!365207262987550720> I found that plane on Youtube.
+creations-chat 2019-04-08 13:32:57 Oh nvm
+creations-chat 2019-04-08 13:33:00 I just checked the vid
+creations-chat 2019-04-08 13:33:09 It just looks similar to it
+help 2019-07-13 20:22:21 Why does my drone not work?
+help 2019-07-13 20:22:34 
+help 2019-07-13 20:22:38 It can fly, turn, move forward, and backwards
+help 2019-07-13 20:22:39 but
+help 2019-07-13 20:23:10 When it moves forwards or backwards, it'll start moving diagonally
+help 2019-07-13 20:24:05 and moving up and down ^
+help 2019-07-13 20:40:01 what
+help 2019-07-13 20:53:24 Well the thrust on the front and back is the same
+help 2019-07-13 20:53:37 and the thrust is centred,
+help 2019-07-13 20:53:56 Every time I turn, my drone will instantly pitch upwards
+help 2019-07-13 20:56:28 I'll upload a video in a min
+help 2019-07-13 21:26:41 https://www.youtube.com/watch?v=oZ5GpirErao
+help 2019-07-13 21:26:45 that's what's happening
+help 2019-07-14 07:53:23 What?
+help 2019-07-14 19:42:11 no
+help 2019-07-14 19:42:17 it needs the h
+help 2019-07-14 19:45:35 <@!476629966780497931> Didn't work that well instead my drone will do a barrel roll
+help 2019-08-20 15:43:28 How do I place water wheels?
+help 2019-08-20 15:44:38 It's not letting me
+help 2020-07-19 13:29:43 is there a way to appeal a warn because the warn I have is for making a plane "too simple" because it contained less than 10 blocks
+help 2020-07-19 13:32:24 yes
+help 2020-07-19 13:32:27 ages ago
+help 2020-07-19 13:32:32 and I'm still salty about it being a false warn
+help 2020-07-19 13:33:19 well it can't be a low effort build if its for a role
+help 2020-07-19 13:33:22 and it was over a year ago

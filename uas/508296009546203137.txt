@@ -1,0 +1,15 @@
+The Tale of klaidonis (508296009546203137)
+bot-central 2021-12-03 16:05:54 -play sow
+bot-central 2021-12-03 16:05:58 ;play sow
+bot-central 2021-12-03 16:06:01 !play sow
+bot-central 2021-12-03 16:06:03 p!play sow
+bot-central 2021-12-03 16:06:49 -play albania
+bot-central 2021-12-03 16:06:53 -join
+bot-central 2021-12-03 16:07:55 =join
+bot-central 2021-12-03 16:08:00 !join
+bot-central 2021-12-03 16:08:13 ;;join
+bot-central 2021-12-03 16:10:31 ;;play marshi i uck
+bot-central 2021-12-03 16:10:40 ;;skip
+bot-central 2021-12-03 16:10:44 ;;play marshi i uck
+bot-central 2021-12-03 16:10:48 ;;loop
+bot-central 2021-12-03 16:10:57 ;;loop single

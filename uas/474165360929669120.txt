@@ -1,0 +1,2 @@
+The Tale of jnhg (474165360929669120)
+help 2021-04-08 22:27:43 So I have a machine which has arms with 2 rotations. The second motor is a servo and its very bouncy which I expect. Is there a way to make it less bouncy?

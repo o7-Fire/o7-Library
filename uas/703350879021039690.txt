@@ -1,15 +1,5 @@
-polaris
-plane-crazy 2020-07-30 17:10:37 Is test version open yet
-plane-crazy 2020-07-30 17:10:15 I forgot that ping is against the law
-plane-crazy 2020-07-30 17:10:03 Sorry, I’m new
-plane-crazy 2020-07-30 17:04:26 I always see Visit bux.dev for Rbpx
-plane-crazy 2020-07-30 17:03:44 You can’t even say roblox.com
-plane-crazy 2020-07-30 17:02:54 No they won’t be able to say it
-plane-crazy 2020-07-30 17:02:22 I don’t have one
-plane-crazy 2020-07-30 17:01:52 They say “Visit Bux.dev for ROBUX!”
-plane-crazy 2020-07-30 17:01:13 I say visit roblox.com/premium for robux when the scammers try to scam some helpless kid
-plane-crazy 2020-07-30 17:00:31 But it dissappears
-plane-crazy 2020-07-30 17:00:23 I try and say visit roblox.com/premium for robux
-plane-crazy 2020-07-30 17:00:03 Oh I see that all the time
-plane-crazy 2020-07-30 16:59:22 I just met you
-plane-crazy 2020-07-30 16:58:43 hello rick
+The Tale of polaris (703350879021039690)
+bug-reports 2020-07-30 17:11:55 <@!217336009455566848> I found something. If you go on the test version and go to pvp mode, you get put in the winter event with a limited time before the game “updates” and tries to send you somewhere, then kicks you. The event items carry over. (Won’t ping again)
+bug-reports 2020-07-30 17:52:49 Yes it was a few days ago
+bug-reports 2020-07-30 17:53:02 When is it reopening
+bot-central 2020-09-26 18:21:14 -mapsuggest highway, desert with roads, and bigger body of water

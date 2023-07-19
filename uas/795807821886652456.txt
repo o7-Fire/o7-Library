@@ -1,0 +1,46 @@
+The Tale of gd8908 (795807821886652456)
+help 2021-09-16 16:09:02 Why can’t my heli fly anymore?
+help 2021-09-16 16:09:11 It worked well 4 or 5 months ago
+help 2021-09-16 16:15:37 Oh ok
+help 2021-09-16 16:15:46 I was going to make another one anyway
+bot-central 2021-09-20 05:23:08 ?shelp
+bot-central 2021-09-20 05:24:00 ?rhelp
+bug-reports 2021-09-20 14:31:53 Is it normal for rockets to do no damage when they clearly have hit other’s build’s?
+bug-reports 2021-09-20 14:32:14 About half of the rockets i’ve shot today did that
+bug-reports 2021-09-20 14:42:58 The missiles given by the game
+bug-reports 2021-09-20 14:43:21 It shows an explosion and no damage
+bug-reports 2021-09-20 14:46:02 So is the problem coming from me?
+bug-reports 2021-09-20 14:46:45 No it was a public server
+bug-reports 2021-09-20 14:46:58 pvp
+bug-reports 2021-09-20 14:48:43 No
+bug-reports 2021-09-20 14:49:07 Also all the parts were connected
+bug-reports 2021-09-20 14:49:15 And it was moving
+bug-reports 2021-09-20 14:51:23 I can’t get evidence rn
+bug-reports 2021-09-20 14:51:53 No and i can’t play roblox now
+bug-reports 2021-09-20 14:52:13 i can post images in help though
+bot-central 2021-09-20 16:44:56 !rank
+bug-reports 2021-09-20 16:55:44 So I was just in pvp server and rockets work the way they should
+bug-reports 2021-09-20 16:56:02 still not sure what was causing it
+bug-reports 2021-09-20 16:56:38 rockets not working is a known bug?
+bug-reports 2021-09-20 16:59:41 so how do you fix it?
+bug-reports 2021-09-20 16:59:48 leave and join?
+bug-reports 2021-09-20 17:01:45 ok i guess im stuck with it if it happened again
+bug-reports 2021-09-20 18:29:32 Why the router tho?
+bug-reports 2021-09-20 18:30:01 nvm if it works it’s better than nothing
+bug-reports 2021-09-20 18:31:18 Btw it already solved itself somehow, all i did was rejoining the game
+bot-central 2021-09-21 18:01:04 !rank
+creations-chat 2021-09-22 09:16:03 Fix the air intakes they don’t fit with the body
+help 2021-09-22 10:40:15 Use ?shelp in bot central
+creations-chat 2021-09-23 13:23:07 Self destruct
+creations-chat 2021-09-23 13:27:45 Or make an anti shredder build and make them rage quit
+bot-central 2021-09-23 21:35:30 You need to be ranked
+creations-chat 2021-09-23 23:23:59 amphibian-aircraft-sci-fi-movie-concept-project-by-rene-gabrielli1
+bot-central 2021-09-23 23:46:05 !rank
+bot-central 2021-09-23 23:48:17 a
+bot-central 2021-09-23 23:50:19 !rank
+help 2021-09-25 12:59:54 you can but it won't be counted
+bot-central 2021-09-26 11:55:07 ?shelp
+bot-central 2021-09-26 15:07:29 -servers
+help 2021-09-28 11:35:47 Wait what
+help 2021-09-28 11:36:17 This isn’t bot-central why did the command work
+help 2021-09-28 11:37:18 &.suggest without the dot

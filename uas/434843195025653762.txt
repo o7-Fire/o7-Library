@@ -1,3 +1,1871 @@
-surblox
-plane-crazy 2019-09-24 14:04:32 surface
-plane-crazy 2019-09-24 14:04:28 how to get control surafce for plane
+The Tale of surblox (434843195025653762)
+creations-chat 2020-10-13 17:24:25 > <@!434843195025653762> no self upvoting
+<@!555601119473041409> ?
+creations-chat 2020-10-13 17:24:41 > bruh stop posting wip builds lmao
+<@456226577798135808> it done tho
+creations-chat 2020-10-13 17:26:02 what self upvote?
+creations-chat 2020-10-13 17:26:21 I WASNT REACTED
+creations-chat 2020-10-13 17:26:52 yes yes
+bot-central 2020-10-14 15:35:47 ?rhelp
+bot-central 2021-01-22 06:17:23 ?suggest
+help 2021-02-24 01:07:34 how do i get this
+help 2021-02-24 01:07:42 <@!195253906333368320> help
+creations-chat 2021-07-08 01:38:32 wow everyone hates my creation
+creations-chat 2021-07-08 01:42:39 a plane
+creations-chat 2021-07-08 02:03:05 it took more than 5 minutes
+creations-chat 2021-07-08 02:06:31 u mean spoiler
+creations-chat 2021-07-08 02:16:04 huh
+creations-chat 2021-07-08 02:39:37 that hurt
+creations-chat 2021-08-20 04:47:56 with
+creations-chat 2021-12-17 01:47:33 imagine getting downvotes <:trollface:775024642104229898>
+events-chat 2022-02-07 00:05:12 can you paint the aircraft?
+contest-chat 2022-02-25 20:10:24 i cant see #contest-creations
+contest-chat 2022-02-25 20:10:28 what role do i need for it
+contest-chat 2022-02-25 20:11:03 ohh
+contest-chat 2022-03-03 01:22:15 Can it be an amphibious ifv?
+contest-chat 2022-03-03 01:23:11 Do the T-15
+contest-chat 2022-03-03 01:25:38 How about one of the omfvs
+contest-chat 2022-03-03 01:29:52 Oh ok
+contest-chat 2022-03-03 02:19:54 im defa not submitting this but its wip and its terrible
+contest-chat 2022-03-03 04:00:46 🤢
+contest-chat 2022-03-16 14:41:02 wdym “cannon not a bullet”
+contest-chat 2022-03-16 14:44:52 Is it not a round?
+bot-central 2022-03-17 23:31:21 -servers
+bot-central 2022-03-26 23:20:06 -servers
+bot-central 2022-04-13 22:44:26 !servers
+bot-central 2022-04-13 22:44:33 -servers
+creations-chat 2022-04-14 05:31:28 https://streamable.com/iz7i2l
+I mean, it flies, I’ll fix the adverse yaw later since am too lazy
+This is just a demo
+creations-chat 2022-04-14 05:34:48 Supposed to be neutral stability, uses split flap thingys to yaw instead of a rudder (more drag on one side), uses canard + rear control surface for pitch
+
+Feedback appreciated
+creations-chat 2022-04-14 05:37:35 He totally obviously is, definitely
+creations-chat 2022-04-14 19:31:29 What am I supposed to use?
+help 2022-04-15 09:58:09 https://www.wikipedia.org/wiki/Deceleron
+How do u build this
+bot-central 2022-04-19 06:30:37 -servers
+creations-chat 2022-04-23 03:57:46 didnt even relalize it was a pizza
+bot-central 2022-04-23 20:38:27 -servers
+bot-central 2022-04-24 18:53:28 -servers
+creations-chat 2022-04-24 22:59:10 Tail weird and why the wing so far forward?
+creations-chat 2022-04-24 23:01:01 And are those the ailerons? Cuz they are huge af
+creations-chat 2022-04-25 23:07:42 <@719178114898591773> now remove the vertical surfaces
+creations-chat 2022-04-26 04:20:10 The vertical wing panels at the rear
+help 2022-04-26 04:23:31 No it’s the front
+creations-chat 2022-04-26 04:40:23 It’s different tho
+Ur white they’re colorless
+creations-chat 2022-04-26 04:42:39 Ur an expert, how do you make wing twist in pc
+creations-chat 2022-04-26 14:27:07 The whole thing moves?
+creations-chat 2022-04-26 14:28:51 Also a rudder is a vertical surface too
+creations-chat 2022-04-26 14:54:48 Vertical tail surfaces
+the-dump 2022-04-29 01:41:21 1. There are women
+2. The moon is white too
+3. It’s mankind because women are just men with wo
+4. Anyone can use the bathroom lol
+5. He’s breathing in space cuz he’s a 2d image
+the-dump 2022-04-29 01:42:32 Fun fact
+the-dump 2022-04-29 01:42:39 I don’t go to parties
+the-dump 2022-04-29 01:43:11 https://tenor.com/view/nice-south-park-gif-17950420
+creations-chat 2022-04-29 23:03:03 Wtf it’s not a biplane tho
+bot-central 2022-04-30 03:07:36 !servers
+bot-central 2022-04-30 03:07:41 -servers
+creations-chat 2022-05-01 03:25:54 2 block tall pyramid would be usefull
+creations-chat 2022-05-01 23:56:48 The top should be tilted back slightly and the windshield should not be so steep
+bot-central 2022-05-02 00:03:11 -servers
+bot-central 2022-05-02 03:48:48 -servers
+creations-chat 2022-05-03 23:27:18 Try to make a small prop plane using motor and prop blades
+It’s pretty hard
+creations-chat 2022-05-06 23:13:58 1. It’s rocket powered rotors so no effort needed to balance
+2. Pendulum effect of the rotors causes heli to self stabilize
+Rest is just ballast so yea I don’t think having your heli be balanced is impressive
+creations-chat 2022-05-06 23:19:40 Anyone wanna try to make a simple single rotor heli that uses the tail rotor for counter torque? No fake or rocket/hover engine powered rotors.
+Doesn’t need to move too much, just needs to be capable of hovering, yaw, and collective
+creations-chat 2022-05-06 23:21:35 Just a challenge, I don’t want it
+creations-chat 2022-05-06 23:23:20 how the hell-
+bot-central 2022-05-07 17:02:56 -servers
+bot-central 2022-05-07 19:33:38 -servers
+creations-chat 2022-05-08 04:16:03 <@782711868179480656> why is the door touching the ground
+Back looks weird front is weird
+Why is the emergency exit so far back
+creations-chat 2022-05-08 04:18:01 Why Spanish or French idk
+creations-chat 2022-05-08 17:14:56 Meant the lettering on the bus
+creations-chat 2022-05-08 17:18:08 It’s french
+bot-central 2022-05-08 17:38:52 -servers
+creations-chat 2022-05-09 23:07:54 <@761854427262353408> front wheels are supposed to be caster wheels
+creations-chat 2022-05-11 20:45:02 I tried making a single rotor heli model and it’s way too hard
+Like legit just using like regular blocks with no design
+bot-central 2022-05-12 23:11:47 -servers
+bot-central 2022-05-12 23:13:46 Since the command doesn’t work, if you need the link and do not have it already, dm me for the links
+I will check to make sure you are ranked if you dm me, so no rule breaking
+bot-central 2022-05-21 01:55:28 -servers
+creations-chat 2022-05-21 16:59:57 lol
+creations-chat 2022-05-21 17:01:53 Once pc2 comes out we won’t need any more locking for building
+creations-chat 2022-05-21 17:13:30 Wasn’t motor lock meant to be used to lock a motor in place so it doesn’t move? And not to contract blocks together?
+creations-chat 2022-05-21 17:15:17 I hope it does allow us to do that
+creations-chat 2022-05-21 17:37:55 uhhh so you want to spend more effort to achieve the exact same result?
+creations-chat 2022-05-21 17:40:20 lmao
+creations-chat 2022-05-21 17:49:52 
+creations-chat 2022-05-21 17:52:38 because your opinion is trash
+help 2022-05-21 19:50:19 does shooting rockets temporarily reduce weight?
+whats the max angle that the premade control surfaces can deflect?
+creations-chat 2022-05-21 20:39:07 crappy turret crappy body crappy interior
+creations-chat 2022-05-21 20:42:38 interior
+creations-chat 2022-05-21 20:44:51 <@938196250791141386> the tail looks a bit wack
+creations-chat 2022-05-21 20:46:34 make the vert stabs slightly larger and shift them down slightly so that the bottom of the vert stab is slightly lower than the horizontal stabs
+creations-chat 2022-05-21 22:45:59 weird nozzle
+creations-chat 2022-05-21 22:48:09 the fuel tanks?
+bot-central 2022-05-21 22:53:12 !help
+help 2022-05-22 03:03:52 
+help 2022-05-22 03:04:59 and this wont work cuz it touches the upper red piece
+help 2022-05-22 03:05:29 this wont work either
+bot-central 2022-05-22 03:07:35 -servers
+bug-reports 2022-05-22 04:07:38 if you spawn a build, then hop out the main pilot seat and hop back in, you sit slightly higher up than when you first spawned in
+creations-chat 2022-05-22 04:15:06 <@884290997129998408> how does ur rotor thing work
+creations-chat 2022-05-22 04:18:14 wait wheres the hidden engines
+creations-chat 2022-05-22 04:19:57 but you said the only hover engines are on the rotor
+creations-chat 2022-05-22 04:21:55 1 more thing, you should try to make it where the rotor is powered by the motor at the center instead of hover engines at the tip, and try to balance it, will be very hard
+creations-chat 2022-05-22 04:32:16 yea motors kinda buggy rick pls fix
+i think rick said hes gonna fix it
+help 2022-05-22 17:11:30 its ok i just changed to a different design
+creations-chat 2022-05-23 14:45:13 Private server
+Balcklist
+help 2022-05-23 14:48:09 If it’s motor 2 you can use the toggle thing
+help 2022-05-23 14:48:40 Works for mouse controlled motor 2 as well
+help 2022-05-25 03:40:27 small wheels
+help 2022-05-25 03:41:44 tail rotor not needed
+bot-central 2022-05-25 14:51:13 !rank
+creations-chat 2022-05-28 02:53:30 <@745621553756110928> can i see the interior of ur stryker?
+bot-central 2022-05-28 03:03:25 -servers
+creations-chat 2022-05-28 03:09:38 ?
+creations-chat 2022-05-28 03:11:52 nice
+creations-chat 2022-06-05 00:01:18 is this angle lock okay
+help 2022-06-05 00:13:35 how do i improve the anglelock
+creations-chat 2022-06-05 01:40:18 sometimes i cant paste photos after playing pc but then once i leave the game i can again
+bot-central 2022-06-05 20:22:15 -servers
+creations-chat 2022-06-05 23:23:36 need feedback
+custom mini fighter jet with an internal weapon bay
+this is my first anglelock build so its kinda trash but yea
+i tried making afterburners but they're kinda shitty
+creations-chat 2022-06-05 23:30:02 thanks for the feedback bro, so helpful
+creations-chat 2022-06-05 23:39:24 added ejection seat marking in the wrong place and the seat cant eject, also no intakes and they are too far forward but i cant really move them back
+creations-chat 2022-06-05 23:59:12 why not? it doesnt need any more
+creations-chat 2022-06-06 01:09:38 is this better
+creations-chat 2022-06-06 01:11:42 idk how to make intakes so yea thats the best i can do for now
+creations-chat 2022-06-06 01:21:02 bro wdym its literally an f-35 tiger VIIIV
+creations-chat 2022-06-06 04:35:18 huge
+creations-chat 2022-06-08 05:07:55 please ping me here with feedback
+help 2022-06-09 02:10:55 angle lock is getting stuck in the air
+contest-chat 2022-06-09 02:36:09 does J-20 count?
+contest-chat 2022-06-09 02:39:29 nvm no jets
+contest-chat 2022-06-09 23:44:09 no because its just a block
+contest-chat 2022-06-10 00:18:39 u made like 20% of the build how are we supposed to give feedback
+creations-chat 2022-06-10 02:29:24 <@614952074546774031> hi, would you be willing to provide me with constructive criticism?
+creations-chat 2022-06-10 02:31:53 k thanks for the feedback very helpful
+creations-chat 2022-06-10 02:34:34 thanks bro thats so helpful i could totally improve my plane based on what you told me
+creations-chat 2022-06-10 02:37:37 🤓 actually its 1.2 wide
+creations-chat 2022-06-10 23:20:37 <@842510926996439051> can you show front view
+bot-central 2022-06-12 03:27:57 !severs
+bot-central 2022-06-12 03:28:00 -servers
+bug-reports 2022-06-12 04:37:39 clarification on this known bug, its not just jetpack, your entire character will weigh less, so balancing will be thrown off
+creations-chat 2022-06-12 05:11:56 <@725120822158819441> angle lock for the tail
+bug-reports 2022-06-14 00:58:55 has anyone encountered a bug with character weight randomly changing by very small amounts? jetpack is not sending me upwards, but ill have a balanced plane, save it, wait a while, load it in, and when i fly it again its completely unbalanced
+creations-chat 2022-06-14 01:04:38 <@793132196810588200> bruh, 1 block wide cockpit isnt roscale, 1.25 wide cockpit is close enough
+creations-chat 2022-06-14 01:07:05 2 block wide for some jets
+bug-reports 2022-06-14 02:30:58 i dont see it in there lol
+bug-reports 2022-06-14 02:32:48 ?????
+bug-reports 2022-06-14 02:32:51 bru
+bug-reports 2022-06-14 02:33:16 wdym????
+creations-chat 2022-06-14 04:08:43 did you try angle lock?
+creations-chat 2022-06-14 04:11:10 damn ur folding skills are insane
+creations-chat 2022-06-14 04:13:54 did u try half wedge 1x2?
+creations-chat 2022-06-15 01:13:53 broooo
+creations-chat 2022-06-15 03:47:51 if 2 ppl are building the same plane, its gonna end up looking similar, and some parts may look the same
+bot-central 2022-06-19 22:42:16 !severs
+bot-central 2022-06-19 22:42:22 -servers
+creations-chat 2022-06-19 23:06:46 intake placement is... interesting
+creations-chat 2022-06-19 23:08:57 why is the darkstar canopy so weird
+creations-chat 2022-06-19 23:11:33 am i blind
+creations-chat 2022-06-20 01:48:11 "roscale"
+bot-central 2022-06-20 02:36:15 -servers
+bot-central 2022-06-21 00:15:30 -servers
+creations-chat 2022-06-21 03:05:39 <@617498718417190943> wdym by semi-realistic???
+the tail rotor is off, evidently not controlling yaw
+and the control seems the same as any other heli?
+creations-chat 2022-06-21 03:09:00 that doesnt make it semi realistic tho, it just makes it not unrealistic
+creations-chat 2022-06-21 03:23:34 <@805320449767899138> can you provide a closer up, zoomed in picture?
+creations-chat 2022-06-22 03:29:08 whats the thing sticking out the bottom of the nose?
+creations-chat 2022-06-22 22:20:31 That’s under the cockpit not the nose
+creations-chat 2022-06-24 20:19:35 omg its roscale
+bot-central 2022-06-24 20:28:24 -servers
+bot-central 2022-06-24 20:28:44 -underandom
+bot-central 2022-06-24 20:29:15 why is the quality so shit
+bot-central 2022-06-24 20:29:27 -unde s_sur
+bot-central 2022-06-24 20:29:39 -unde samuminegamer
+bot-central 2022-06-24 20:29:46 how does that work
+bot-central 2022-06-24 20:30:08 -unde refeia
+bot-central 2022-06-24 20:30:25 -unde robloxshan7
+creations-chat 2022-06-30 00:44:28 hows that suggestive
+bot-central 2022-06-30 00:46:28 !servers
+bot-central 2022-06-30 00:46:32 -servers
+creations-chat 2022-07-02 20:32:15 <@793132196810588200> oil barrels are kinda big
+creations-chat 2022-07-07 00:33:02 ok 0/1
+creations-chat 2022-07-19 19:39:39 does anyone have compact main gear for fighter jets that actually rolls?
+bot-central 2022-07-20 20:32:30 -servers
+creations-chat 2022-07-23 01:42:19 <@652925710976942100> its pretty good but there isnt that wide of a gap between the nozzles
+creations-chat 2022-07-23 02:20:28 make it 1.3-1.35 wide
+creations-chat 2022-07-23 02:34:26 u cant pistonlock?
+creations-chat 2022-07-23 02:43:55 why didnt u just use the default jet engine
+creations-chat 2022-07-24 02:32:58 wheres that large steering creation that was sent recently?
+like the realistic car steering with the steering wheel
+creations-chat 2022-07-25 18:11:53 <@334903399709671445> why super rockets
+bot-central 2022-07-25 18:14:06 -servers
+bot-central 2022-07-25 19:06:27 -servers
+bot-central 2022-07-26 22:15:39 -servers
+creations-chat 2022-07-27 00:52:13 how does that look the same
+creations-chat 2022-07-29 17:30:26 
+contest-chat 2022-07-30 03:48:02 gonna make a poll-inator
+contest-chat 2022-07-30 03:48:10 pollenator
+contest-chat 2022-07-30 03:48:14 pollinator
+bot-central 2022-08-10 17:34:24 -servers
+help 2022-08-16 02:29:28 Rudder will make the plane roll slightly.
+help 2022-08-16 02:29:57 Because of the way it’s positioned
+help 2022-08-16 02:30:43 Not home rn so I can’t make a diagram
+help 2022-08-16 02:30:57 But basically since the rudder is above the center of mass
+help 2022-08-16 02:31:45 When you yaw left, the rudder is providing a force towards the right, which rolls the plane to the right
+bug-reports 2022-08-16 02:33:50 Post a pic of your zeppelin
+bug-reports 2022-08-16 02:34:17 Could be character weight reducing randomly since that happens
+events-chat 2022-08-16 02:35:53 Bonsoir rbk
+creations-chat 2022-08-16 02:36:21 Is that even a build
+creations-chat 2022-08-16 03:06:13 Ain’t no way that’s possible
+creations-chat 2022-08-16 03:13:18 Show
+help 2022-08-16 03:29:36 Yea since it kinda will act like mini ailerons when it’s canted
+help 2022-08-16 03:30:19 Might be hard to counter since it’s m2m
+help 2022-08-16 03:32:18 Nose looks weird
+help 2022-08-16 03:32:28 Can’t see over the nose from cockpit
+help 2022-08-16 03:32:46 Wings are too long and pointy
+creations-chat 2022-08-17 04:17:39 Pc2 is here guys
+bot-central 2022-08-17 14:01:16 -servers
+bot-central 2022-08-19 00:57:46 -servers
+help 2022-08-19 01:41:31 how do i connect wheel to the motor 2
+creations-chat 2022-08-19 18:09:00 angle lock is annoying
+help 2022-08-22 20:37:38 how
+bot-central 2022-08-25 20:16:08 -servers
+bot-central 2022-08-25 20:16:21 nice
+bot-central 2022-08-25 20:16:54 the links are expired
+bot-central 2022-08-25 20:54:59 -servers
+creations-chat 2022-08-25 21:53:19 need feedback
+creations-chat 2022-08-25 22:05:26 <@743670705387733052> can i have some feedback
+creations-chat 2022-08-25 22:18:07 ok, i will replace the wing with regular wing panels, not sure what you mean by big and goofy main gear, the main gear is supposed to be beefier compared to the nose gear because the main gear is supporting most of the weight
+base game missiles may look big but its still smaller than custom missles
+ill just remove the missiles for now
+creations-chat 2022-08-25 22:22:32 is this better?
+bot-central 2022-08-25 22:31:04 -servers
+bot-central 2022-08-26 20:55:42 -servers
+bot-central 2022-08-27 04:14:31 -server
+bot-central 2022-08-27 04:14:34 -servers
+creations-chat 2022-08-27 04:20:29 how did this get 60 upvotes
+help 2022-08-27 04:22:42 did u set motor to max torque
+help 2022-08-27 18:25:02 wdym? can you not use trails?
+help 2022-08-27 22:20:40 wdym
+bot-central 2022-08-27 22:25:51 -servers
+bot-central 2022-08-28 01:15:14 -servers
+bot-central 2022-08-28 17:14:26 -servers
+bot-central 2022-08-28 20:28:18 -servers
+help 2022-08-28 21:55:39 well they do need to be in the same spot to ba balanced, unless you use trim or something
+help 2022-08-28 21:57:40 dunno what you mean by that
+help 2022-08-28 21:58:48 well yea they wont be in the same spot in build mode, but once you spawn in, the center of mass has to be at the same spot as the center of wing panels
+help 2022-08-28 21:59:33 wdym by no way to balance an f-22
+help 2022-08-28 22:00:05 why not?
+help 2022-08-28 22:01:06 simple solution, put wing panels in the nose, and make the nose/cockpit ice
+help 2022-08-28 22:02:43 plane balancing is kinda self explanatory so yea
+help 2022-08-28 22:03:28 u just need to get it close enough to the point where its unnoticeable, nearly impossible to make it perfect unless its unmanned
+help 2022-08-29 04:44:46 how do i add thrust vectoring to my plane
+creations-chat 2022-08-29 04:46:47 <@697793017331056732> make an F-15 2040C
+bot-central 2022-08-29 16:50:18 -servers
+help 2022-08-29 17:22:08 reduce block count
+creations-chat 2022-08-29 17:23:03 its not even that bad but getting so many downvotes
+creations-chat 2022-08-31 01:51:52 1.3-1.4
+creations-chat 2022-08-31 01:54:11 1.3-2.4* not 1.4 it was a typo
+creations-chat 2022-09-03 04:04:44 gay people are so gei
+creations-chat 2022-09-03 19:46:47 not possible
+if it doesnt transfer fuel, its not functional
+its quite literally impossible to transfer fuel in pc
+the-dump 2022-09-04 03:27:33 
+creations-chat 2022-09-04 19:50:59 Jesus Christ
+help 2022-09-05 00:56:34 you dont
+help 2022-09-05 00:56:54 too detailed to be possible
+contest-chat 2022-09-07 03:46:09 doesnt that just make it a fighter-bomber
+bug-reports 2022-09-07 03:50:08 please provide pictures or video and go to <#478584971670454284>
+contest-chat 2022-09-07 03:55:19 do strike fighters and multirole combat aircraft count as attack aircraft?
+contest-chat 2022-09-07 04:04:57 F-117
+bot-central 2022-09-07 04:09:48 -servers
+contest-chat 2022-09-07 04:12:14 but its an attack aircraft
+contest-chat 2022-09-07 04:12:32 it doesnt carry air to air weapons
+the-dump 2022-09-08 04:17:03 
+bot-central 2022-09-09 02:29:10 ?rank gold
+bot-central 2022-09-09 02:29:15 ?rank red
+bot-central 2022-09-09 02:29:19 ?help
+bot-central 2022-09-09 02:29:22 -help
+the-dump 2022-09-15 14:15:29 brah
+bot-central 2022-09-18 16:26:46 -servers
+help 2022-09-22 01:41:11 2.5 feet
+creations-chat 2022-09-22 02:35:12 interior
+help 2022-09-23 05:20:14 shit is a nightmare to balance
+help 2022-09-23 23:55:32 my plane nosedives at low speeds
+creations-chat 2022-09-24 02:28:34 wtf
+the-dump 2022-09-24 23:22:25 thats not a gender lmao
+creations-chat 2022-09-24 23:37:37 *shoves random elderly man to the ground because hes asian*
+"it was a joke!"
+the-dump 2022-09-25 23:52:29 whats stupid about some random ass disney adult liking both women and men
+creations-chat 2022-09-26 03:48:25 shaders getting out of hand
+bot-central 2022-09-29 03:42:57 -servers
+bot-central 2022-09-29 03:43:08 <@660341617537843210>
+bot-central 2022-09-29 03:46:06 ;;search doja radio edit
+bot-central 2022-09-29 03:53:19 too many songs
+bot-central 2022-09-29 03:53:46 can we skip this
+bot-central 2022-09-29 03:55:56 too many songs
+bot-central 2022-09-29 03:57:42 its already on the list
+bot-central 2022-09-29 03:57:48 bru
+bot-central 2022-09-29 03:57:50 lma
+bot-central 2022-09-29 03:58:21 u have fade to black on there 3 times
+bot-central 2022-09-29 04:01:28 too long
+bot-central 2022-09-29 04:01:44 try to keep tracks under 5 mins pls
+bot-central 2022-09-29 04:03:21 /skip 9
+bot-central 2022-09-29 04:03:37 ???
+bot-central 2022-09-29 04:03:44 its literally just a 5 second jumpscare
+bot-central 2022-09-29 04:06:01 its already on the list
+bot-central 2022-09-29 04:06:21 ayo
+bot-central 2022-09-29 04:07:00 wait what
+bot-central 2022-09-29 04:07:01 why
+bot-central 2022-09-29 04:08:23 what
+bot-central 2022-09-29 04:08:30 stop doing shit like this
+bot-central 2022-09-29 04:08:38 why tf did u add 15 songs
+bot-central 2022-09-29 04:08:52 you probably put a playlist link
+bot-central 2022-09-29 04:08:59 check your link before pasting
+bot-central 2022-09-29 04:09:13 tfw
+bot-central 2022-09-29 04:10:03 finally all cleaned up
+bot-central 2022-09-29 04:10:21 what
+bot-central 2022-09-29 04:10:34 turn down the volume then
+bot-central 2022-09-29 04:12:07 <@888964918118846474> can u stop
+bot-central 2022-09-29 04:12:14 we are asking you nicely
+bot-central 2022-09-29 04:13:01 whyd my song get skipped
+bot-central 2022-09-29 04:13:48 i thought this was a child friendly server 💀
+bot-central 2022-09-29 04:14:04 ok
+bot-central 2022-09-29 04:15:35 tf are yall doin
+bot-central 2022-09-29 04:16:23 /skip
+bot-central 2022-09-29 04:16:40 its literally a 6 second clip
+bot-central 2022-09-29 04:18:19 6ix9ine sux ngl
+bot-central 2022-09-29 04:20:06 can we
+bot-central 2022-09-29 04:20:09 skip this
+bot-central 2022-09-29 04:20:47 <@874912257128136734> haha i joined b4 u
+bot-central 2022-09-29 04:21:32 -servers
+bot-central 2022-09-29 04:22:29 dont skip this
+bot-central 2022-09-29 04:22:37 good song
+bot-central 2022-09-29 04:22:55 bru
+bot-central 2022-09-29 04:23:46 does anyone have the vip links? dm me if u have them
+bot-central 2022-09-29 04:29:24 -servers
+help 2022-09-30 04:27:22 how do i make this 3 blocks wide instead of 5
+help 2022-09-30 04:27:31 using motorlock
+help 2022-09-30 04:27:51 basically i want multifunctional ailerons that also work as flaps
+help 2022-09-30 04:39:14 that would only get to 4 blocks minimum
+help 2022-09-30 04:54:48 its not
+help 2022-09-30 04:54:52 its not 1 wide tho
+help 2022-10-01 20:34:09 Never use motor 1 for control surfaces, maybe for trim but nothing else
+bot-central 2022-10-03 01:41:20 -servers
+creations-chat 2022-10-07 01:52:41 jesus how do u see back
+help 2022-10-07 03:19:02 ur thing too pointly
+help 2022-10-07 03:19:06 pointy*
+help 2022-10-07 03:38:13 https://en.wikipedia.org/wiki/Variable_cycle_engine
+are we going to be able to make these in pc2?
+bot-central 2022-10-08 03:34:21 ?role yellow
+help 2022-10-08 17:58:00 how do i make angled nose like this
+help 2022-10-08 22:21:19 is there a way to smoothly connect these?
+help 2022-10-08 22:21:42 i basically wanna fill this cleanly
+creations-chat 2022-10-09 17:56:59 should i make the nose wider or skinnier
+creations-chat 2022-10-09 18:19:58 not finished
+creations-chat 2022-10-09 23:00:34 ok
+bot-central 2022-10-11 04:53:54 -servers
+bot-central 2022-10-16 03:43:43 -servers
+creations-chat 2022-10-21 01:45:23 fr the props are so innacurate
+bot-central 2022-10-21 01:52:05 -servers
+creations-chat 2022-10-22 00:02:08 <@832440010313170944> no trig functions, no exponents, no division (im guessing you dont want to deal with decimals)
+creations-chat 2022-10-22 03:18:54 should i put trails or wing lights on the wingtips and on top of the vertical stabilizers
+creations-chat 2022-10-22 03:21:36 i love exposed lock
+creations-chat 2022-10-23 04:19:45 show pic
+help 2022-10-23 04:21:44 <@694332705923399753> reply to this when you have time, I'll dm you a vip server link and i can help u figure it out
+help 2022-10-23 04:22:24 nvm ill just post it here
+https://www.roblox.com/games/166986752?privateServerLinkCode=07931997830754241050459044851006
+creations-chat 2022-10-23 04:36:44 helicopters in pc that actually work are so unrealistically weird
+help 2022-10-23 15:01:51 go to your roblox settings > privacy, and switch this to everyone
+creations-chat 2022-10-23 15:02:38 if they're really trying to make it stealthy, the gun should be fully concealed in the fuselage, not sticking out
+the rudders should also be canted in some way
+landing gear sticking out does not help with stealth
+creations-chat 2022-10-24 14:01:57 <@1017614602277756998> now make it smooth
+creations-chat 2022-10-25 01:33:18 if this is allowed, im gonna do it
+help 2022-10-25 01:45:39 how do i make it so control surfaces deflect more at low speeds and less at high speed
+help 2022-10-25 01:46:01 basically i want it to be controllable at low speed but not way too sensitive at high speed
+help 2022-10-25 01:46:16 and its keyboard controlled
+help 2022-10-25 01:50:34 my canards will randomly get stuck when im flying idk how to fix
+help 2022-10-25 01:50:59 and it causes my plane to roll
+help 2022-10-25 02:30:51 yep it still gets stuck
+help 2022-10-25 03:03:27 join vip 1
+help 2022-10-25 03:06:39 ok
+help 2022-10-25 03:08:25 <@523003901075521536>this is the way i have them rn
+help 2022-10-25 03:08:36 
+help 2022-10-25 03:09:00 yea...
+creations-chat 2022-10-25 03:39:13 i hate this i wasted time
+creations-chat 2022-10-25 03:41:19 nah bro u cappin, it 100% looks like plane crazy
+creations-chat 2022-10-25 03:44:10 tf u mean, i aint mad at all
+help 2022-10-26 03:29:56 why does the piston disconnect when i spawn in
+help 2022-10-26 03:31:23 ok its a problem with it being a half piston
+help 2022-10-26 03:31:30 regular piston works fine
+bug-reports 2022-10-26 03:32:05 half piston disconnects itself
+bug-reports 2022-10-26 03:32:13 the regular piston is fine
+help 2022-10-26 14:24:42 ok
+creations-chat 2022-10-28 02:06:52 <@997579355024785559> fix the spine my guy
+help 2022-10-28 02:14:36 how do i hide these piston
+help 2022-10-28 02:15:18 its supposed to push the canards out like 0.1 blocks
+help 2022-10-28 02:21:40 wdym by fix
+help 2022-10-28 02:22:16 ok
+help 2022-10-28 02:23:15 https://www.roblox.com/games/166986752/Plane-Crazy?privateServerLinkCode=07931997830754241050459044851006 join this
+bug-reports 2022-10-28 02:24:12 no
+help 2022-10-28 02:24:50 go to your roblox settings
+help 2022-10-28 02:25:17 privacy >
+help 2022-10-28 02:25:48 <@996784702805516399>
+bot-central 2022-10-29 18:44:58 -servers
+bot-central 2022-10-30 22:15:16 -servers
+bot-central 2022-11-01 02:10:30 -servers
+bot-central 2022-11-01 23:54:19 -servers
+bot-central 2022-11-02 20:57:56 -servers
+bot-central 2022-11-04 03:13:31 -servers
+contest-chat 2022-11-05 17:54:30 isnt that rotary-wing aircraft
+contest-chat 2022-11-05 17:54:41 delete and remake
+bot-central 2022-11-05 17:58:52 -servers
+creations-chat 2022-11-05 18:10:31 how tf did u get realistic elevator trim practically impossible in plane crazy
+creations-chat 2022-11-05 18:18:15 <@297120728342331392> does your elevator trim work realistically? if so, can I see how you did it?
+creations-chat 2022-11-05 18:29:21 does ur plane have dihedral to maintain roll stability?
+creations-chat 2022-11-05 18:31:29 your main wings are low mounted, which makes your plane have unstable roll, so you need dihedral to give it roll stability
+help 2022-11-06 01:18:39 top motor needs to be double speed of the bottom motor
+help 2022-11-06 01:19:54 thats not how you use motorlock
+help 2022-11-06 01:21:38 build your motorlock tower horizontally, since your rocket is vertical
+contest-chat 2022-11-06 01:24:45 someone do the Defiant X
+contest-chat 2022-11-06 01:25:04 there are in fact many
+contest-chat 2022-11-06 01:26:20 XCH-62 is a cool one
+contest-chat 2022-11-06 01:31:14 3 engined behemoth
+contest-chat 2022-11-06 01:41:18 yes
+contest-chat 2022-11-06 18:05:54 where
+contest-chat 2022-11-06 18:08:47 what
+contest-chat 2022-11-06 18:09:02 wdym by that
+contest-chat 2022-11-06 18:09:40 wdym by 5 block wide osprey
+creations-chat 2022-11-06 18:10:39 radar
+contest-chat 2022-11-07 03:01:59 fake rotors (signs) arent allowed right
+contest-chat 2022-11-07 03:04:11 bell 360
+contest-chat 2022-11-07 03:04:34 raider X
+contest-chat 2022-11-07 03:04:56 defiant X
+contest-chat 2022-11-07 03:05:30 ok
+contest-chat 2022-11-07 03:05:55 v-280
+contest-chat 2022-11-07 03:06:08 they're all black
+creations-chat 2022-11-07 05:00:06 <@873696499513561088> higher quality pic pls
+creations-chat 2022-11-09 01:52:58 "improved my super hornet"
+*converts to a worse version*
+and yes, I understand it, dont reply to this
+contest-chat 2022-11-09 01:56:26 how tf are those rotors producing enough lift
+contest-chat 2022-11-09 01:56:54 that shit looks heavy and the blades are at like 1 degree angle of attack
+contest-chat 2022-11-09 02:36:08 wait wdym
+contest-chat 2022-11-09 02:36:45 nvm
+contest-chat 2022-11-09 02:36:57 ok
+help 2022-11-09 02:48:18 for what
+creations-chat 2022-11-09 03:05:36 tf is cintrifical
+creations-chat 2022-11-09 03:08:09 oh
+creations-chat 2022-11-09 03:10:24 yes but not secretly
+creations-chat 2022-11-09 05:41:02 wdym normal hornet
+what makes a hornet abnormal
+help 2022-11-10 01:55:45 
+help 2022-11-10 01:56:21 bro just doesnt know how locked motors work
+help 2022-11-10 01:56:59 yea
+help 2022-11-10 01:57:20 the lock isnt gonna work if the base is connected
+creations-chat 2022-11-10 01:59:34 why does the nose look odd
+creations-chat 2022-11-10 02:03:40 does it have the splitter plate
+creations-chat 2022-11-10 03:41:09 fun fact: a few hundred rounds from an a-10 is way cheaper than a precision guided bomb
+events-chat 2022-11-11 22:52:38 <@466793357318815744> bingus
+events-chat 2022-11-11 23:10:03 ko
+events-chat 2022-11-11 23:11:23 how do u guys know the motor torque
+events-chat 2022-11-11 23:11:35 and how do u know if we are stacking them or not
+events-chat 2022-11-11 23:19:59 i kinda have to stack motors so that i can steer
+events-chat 2022-11-11 23:20:17 one motor to move and one to steer
+events-chat 2022-11-11 23:23:38 <@466793357318815744> nickname: basic ass car, type of bot: car, date: november or december (any time before pc2 comes out)
+events-chat 2022-11-11 23:32:10 i can go on saturday
+events-chat 2022-11-11 23:50:39 fun fact, even though motor torque is limited to 5, you can use a reduction gear to increase torque
+events-chat 2022-11-11 23:56:43 also since you have to be able to get off the tracks, use a large wheelbase and large wheels if ur using wheels.
+large wheelbase reducing manuverability but you dont need that anyways
+events-chat 2022-11-12 00:04:45 bruh remove this rule
+events-chat 2022-11-12 00:05:00 suspensions and pistons are useful
+events-chat 2022-11-12 00:13:50 its usefull for spinners
+events-chat 2022-11-12 00:27:23 
+events-chat 2022-11-12 00:45:59 and my weapons are retraactable so i need pistons
+events-chat 2022-11-12 03:35:05 ?
+events-chat 2022-11-12 03:47:23 is a propeller blade not just a turned wing panel
+events-chat 2022-11-12 03:47:28 and wing panels are allowed
+events-chat 2022-11-12 04:44:10 i have it off
+events-chat 2022-11-12 04:51:26 but the plot is 40 blocks tall
+events-chat 2022-11-12 17:26:51 <@466793357318815744> can I stack 2 motors with torque 5 for wheels? since it adds up to 10
+events-chat 2022-11-12 17:27:43 why do u need a hammer  tho its not gonna crush anything
+events-chat 2022-11-12 17:31:35 does anyone know if this is okay
+events-chat 2022-11-12 17:33:45 yea but the total torque doesnt exceed the limit
+events-chat 2022-11-12 20:16:20 bruh no one told me there was no torque limit for wheels
+events-chat 2022-11-12 20:16:48 its not a robot lmao
+events-chat 2022-11-12 20:16:58 its called battlebots but they arent actual robots
+events-chat 2022-11-12 20:17:09 combat vehicles???
+events-chat 2022-11-12 20:17:50 torque rule seems fine to me
+events-chat 2022-11-12 20:18:11 flippers can use pistons, suspensions, and springs
+events-chat 2022-11-12 20:18:44 <@609921899585077296> 💀
+events-chat 2022-11-12 20:19:07 nothing in particular
+events-chat 2022-11-12 20:19:20 why cant i
+events-chat 2022-11-12 20:19:40 as long as what i say isnt against the rules i can say what i want to say
+events-chat 2022-11-12 20:20:48 rbk can you clarify in <#621452102618578964> that theres no torque limit for drive motors?
+events-chat 2022-11-12 20:21:40 its an event in a lego game, its meant to be fun, so there are rules
+events-chat 2022-11-12 20:21:45 its really that shrimple
+events-chat 2022-11-12 20:22:37 theres a reason why drag races have power limits
+events-chat 2022-11-12 20:22:56 im like 99% sure that most do
+events-chat 2022-11-12 20:23:28 and teams have tried that, which is the reason why theres a power limit
+events-chat 2022-11-12 20:24:01 smooth wheels when
+events-chat 2022-11-12 20:24:14 with actual tire pressure
+events-chat 2022-11-12 20:34:50 wider wheels are better right
+events-chat 2022-11-12 20:34:53 more grip
+events-chat 2022-11-12 20:34:57 less slip
+events-chat 2022-11-13 01:00:51 <@466793357318815744> nickname: shredder bug
+events-chat 2022-11-13 01:04:01 wdym
+events-chat 2022-11-13 01:04:48 i think so
+events-chat 2022-11-13 01:04:56 yes
+events-chat 2022-11-13 01:04:59 you can do that
+events-chat 2022-11-13 01:11:07 wait how
+events-chat 2022-11-13 01:11:20 its double the power
+events-chat 2022-11-13 01:11:30 huh
+events-chat 2022-11-13 01:11:34 idk what that is
+events-chat 2022-11-13 01:11:50 yes
+events-chat 2022-11-13 01:11:56 no
+events-chat 2022-11-13 01:12:10 maybe
+events-chat 2022-11-13 01:13:16 ok
+events-chat 2022-11-13 01:15:44 you cant
+events-chat 2022-11-13 01:16:08 ?
+help 2022-11-13 02:35:24 help
+events-chat 2022-11-13 02:42:33 these things are hard to control
+events-chat 2022-11-13 02:43:59 can i battle a bot in vip 1
+events-chat 2022-11-13 03:08:38 you are allowed to add a detachable thing
+events-chat 2022-11-13 03:08:52 rocket powered C-17
+events-chat 2022-11-13 03:38:11 if you make a bot small enough, you can just hide here and the bigger bots will have a harder time getting you
+events-chat 2022-11-13 03:41:12 fun fact, if you set gravity to 300, you can increase your weight without increase your mass
+events-chat 2022-11-13 05:25:06 this might take a while
+events-chat 2022-11-13 05:25:21 ill need to configure 64 different motors
+events-chat 2022-11-13 17:58:28 please unban suspension
+events-chat 2022-11-13 17:58:36 the ground is actually so damn bumpy
+events-chat 2022-11-13 18:01:19 its especially noticeable at high speeds
+events-chat 2022-11-13 18:04:00 how do i make suspension without using the banned blocks
+events-chat 2022-11-13 18:06:38 im confused now since it says we can fold outside of the limit
+events-chat 2022-11-13 18:07:39 i know but i need suspension for wheels
+events-chat 2022-11-13 18:07:55 my bot will literally jump over the rails from the bumpiness
+events-chat 2022-11-13 18:08:31 no
+events-chat 2022-11-13 18:08:46 yea
+events-chat 2022-11-13 18:09:15 i havent seen any wedge bots
+events-chat 2022-11-13 18:09:21 which is interesting
+events-chat 2022-11-13 18:09:37 its not glitching out
+events-chat 2022-11-13 18:09:45 its just hitting the tiny bumps on the field
+events-chat 2022-11-13 18:09:49 and jumping up
+events-chat 2022-11-13 18:10:08 well yea cuz ur slow
+events-chat 2022-11-13 18:10:11 no
+events-chat 2022-11-13 18:10:33 what even is the point of banning suspension tho
+events-chat 2022-11-13 18:10:56 well only 1 of the motors is used for forward/reverse
+events-chat 2022-11-13 18:11:03 the only one is for turning
+events-chat 2022-11-13 18:11:10 and the lone motor is unpowered
+events-chat 2022-11-13 18:11:31 yes?
+events-chat 2022-11-13 18:11:43 i need redundacy
+events-chat 2022-11-13 18:11:57 evading
+events-chat 2022-11-13 18:12:08 and possibly ramming into enemies
+events-chat 2022-11-13 18:12:13 to send them flying
+events-chat 2022-11-13 18:12:44 it makes the controls difficult
+events-chat 2022-11-13 18:12:54 you have to use 2 hands to drive
+events-chat 2022-11-13 18:13:24 if i increase my mass a ton (which the wheels can handle), i probably wont
+events-chat 2022-11-13 18:13:29 no
+events-chat 2022-11-13 18:13:39 if you call it something different
+events-chat 2022-11-13 18:13:44 how would i know what it is
+events-chat 2022-11-13 18:21:35 pc2 is a lie
+events-chat 2022-11-13 18:47:46 its not completely flat
+events-chat 2022-11-13 18:47:55 its bumpy enough to make my bot jump
+events-chat 2022-11-13 18:49:34 i have 32 big 5x5 wheels
+events-chat 2022-11-13 18:49:41 each wheel is 4 blocks wide
+events-chat 2022-11-13 18:49:49 max speed and torque
+events-chat 2022-11-13 18:49:56 so yea its gonna be bumpy
+events-chat 2022-11-13 18:50:08 so i need some sort of suspension to smooth it out
+events-chat 2022-11-13 18:50:27 yes
+events-chat 2022-11-13 18:50:44 it is quite the big
+events-chat 2022-11-13 18:50:54 yea please
+events-chat 2022-11-13 18:51:07 why would u use suspension for weapons anyways
+events-chat 2022-11-13 18:51:13 no
+events-chat 2022-11-13 18:51:19 its all fuel beams
+events-chat 2022-11-13 18:51:49 suspension is literally designed to be used for drive systems
+events-chat 2022-11-13 18:52:22 is a magnet cannon a glitch
+events-chat 2022-11-13 18:52:51 aint n oway
+events-chat 2022-11-13 18:53:11 whats with the 51x51 size limit but folding outside the limit is allowed
+events-chat 2022-11-13 18:53:41 true
+events-chat 2022-11-13 18:53:58 smol boat
+events-chat 2022-11-13 18:55:59 in the meantime, how do i make wheel suspension without using suspension blocks
+events-chat 2022-11-13 18:56:12 im surprised u have no top armor
+events-chat 2022-11-13 18:56:29 a javelin could easily blow that whole thing up
+events-chat 2022-11-13 18:56:53 fun fact, your character is a weak point
+events-chat 2022-11-13 18:57:08 so you should place the main pilot seat in the most armored position
+events-chat 2022-11-13 18:57:35 ok because those 5 torque motors are able to fling a 500 ton battle bot
+events-chat 2022-11-13 18:57:41 somehow
+events-chat 2022-11-13 18:58:15 i wanna copy u so bad
+events-chat 2022-11-13 18:58:33 except bigger and buffer
+events-chat 2022-11-13 18:58:50 im gonna fold my bot so its bigger than the plot
+creations-chat 2022-11-13 19:26:37 guh
+events-chat 2022-11-13 19:48:45 isnt 2 beams more than 6 blocks tho
+events-chat 2022-11-13 21:56:15 i never knew there was an expert server
+events-chat 2022-11-13 22:08:44 <@466793357318815744> can i put max torque for a motor used for folding? it wont be moved during the match since its a locked motor
+events-chat 2022-11-14 02:02:55 me
+events-chat 2022-11-14 04:17:04 DANG thats huge
+events-chat 2022-11-14 04:17:09 jeeez
+events-chat 2022-11-14 04:20:31 man most of ur wheels dont even do anything
+events-chat 2022-11-14 04:20:46 tf u mean
+events-chat 2022-11-14 04:20:54 the ones on top dont do shit
+events-chat 2022-11-14 04:21:03 at least mine all function
+events-chat 2022-11-14 04:21:22 yes thats my point
+events-chat 2022-11-14 04:21:27 thats the goal of my bot
+events-chat 2022-11-14 04:24:19 <@466793357318815744> does the bot have to be above ground?
+events-chat 2022-11-14 04:24:44 man u didnt specify
+events-chat 2022-11-14 04:24:58 like underground bots
+events-chat 2022-11-14 04:25:22 it like
+events-chat 2022-11-14 04:25:26 is under the ground
+events-chat 2022-11-14 04:25:55 ok
+events-chat 2022-11-14 04:27:03 yes but ur gonna get ripped apart
+events-chat 2022-11-14 04:27:07 so uh good luck
+events-chat 2022-11-14 04:28:31 man that dont look like a pentagram
+events-chat 2022-11-14 04:29:28 penta means five, nowhere in that is 5
+events-chat 2022-11-14 04:29:32 
+events-chat 2022-11-14 04:30:41 get in vip 2
+events-chat 2022-11-14 04:31:17 ur bot small and tall
+events-chat 2022-11-14 04:31:56 those goofy ahh wheels
+events-chat 2022-11-14 04:32:17 your spinners barely do anything
+events-chat 2022-11-14 04:32:44 most of the time they push me back 2 feet
+events-chat 2022-11-14 04:33:05 because ur swords are scary
+events-chat 2022-11-14 04:33:17 exactly
+events-chat 2022-11-14 04:33:27 only the ones that do damage are scary
+events-chat 2022-11-14 04:34:08 what
+events-chat 2022-11-14 04:34:12 why not
+events-chat 2022-11-14 04:34:18 what is grapes
+events-chat 2022-11-14 04:34:23 go to your roblox settings
+events-chat 2022-11-14 04:34:26 privacy
+events-chat 2022-11-14 04:34:36 turn who can invite to private server to everyone
+events-chat 2022-11-14 04:34:50 get over here
+events-chat 2022-11-14 04:34:53 lemme do it for you
+events-chat 2022-11-14 04:35:20 how many wheels do yalls bots have
+events-chat 2022-11-14 04:35:53 how big is each
+events-chat 2022-11-14 04:36:08 how wide
+events-chat 2022-11-14 04:36:16 ok
+events-chat 2022-11-14 04:36:24 i have a little more wheels
+events-chat 2022-11-14 05:34:49 was taking a fat dump
+creations-chat 2022-11-14 05:38:13 this shit basic af
+events-chat 2022-11-15 03:08:52 <@466793357318815744> my bots top speed on flat ground is 310, in the arena its 280 ish, acceleration also suffers in the arena
+events-chat 2022-11-15 03:42:21 so uh yea i need suspension
+events-chat 2022-11-15 03:56:40 literally
+events-chat 2022-11-15 03:56:58 dude its literally bumpy
+events-chat 2022-11-15 03:57:19 for the most part, no, since you wont be going fast enough to notice
+events-chat 2022-11-15 03:58:39 its not just my bot tho, i saw another dudes bot also glitching, albeit not as much
+events-chat 2022-11-15 03:58:55 its a combination of high speed and no suspension
+events-chat 2022-11-15 03:59:19 no because then that wouldnt be the max motor settings
+events-chat 2022-11-15 03:59:54 if the maximum motor speed is 50 and max torque is 1000, then you can fairly assume that the game is designed to handle that power
+events-chat 2022-11-15 04:00:03 roblox is just ass
+events-chat 2022-11-15 04:00:37 the reason its glitching is probably because of the amount of motors in it
+events-chat 2022-11-15 04:00:59 yes
+events-chat 2022-11-15 04:01:09 im not giving up the motors tho
+events-chat 2022-11-15 04:01:25 it doesnt glitch on my end so i honestly dont really  care
+events-chat 2022-11-15 04:19:05 i mean i get launched too
+events-chat 2022-11-15 04:19:11 its not a unique problem
+events-chat 2022-11-15 04:19:44 why would it fix it tho
+events-chat 2022-11-15 04:21:16 okay but that also means i wont be able to push other bots
+events-chat 2022-11-15 04:22:50 which have reduced torque compared to smaller wheels
+events-chat 2022-11-15 04:23:00 each is 4 blocks wide
+events-chat 2022-11-15 04:23:32 
+events-chat 2022-11-15 04:24:26 and my bot still takes 3 full seconds to do a 360 turn
+events-chat 2022-11-15 04:25:25 its not possible for me to ever get to that tho
+events-chat 2022-11-15 04:25:33 because of the way the bindings are set up
+events-chat 2022-11-15 04:25:42 the total torque is only going to be 32k
+events-chat 2022-11-15 04:26:24 on flat ground, probably 80% at least
+events-chat 2022-11-15 04:27:25 so you know how when you have a motor at max torque and 50 speed, itll instantly spin at max speed when you push the key right? well my wheels dont
+events-chat 2022-11-15 04:28:35 nah what
+events-chat 2022-11-15 04:28:38 how
+events-chat 2022-11-15 04:28:59 im going 300+ speed on flat ground in this heavy ass bot
+events-chat 2022-11-15 04:29:19 no
+events-chat 2022-11-15 04:29:38 why would i lock it
+events-chat 2022-11-15 04:30:09 locked motors dont stay locked when ur moving it
+events-chat 2022-11-15 04:30:23 yes
+events-chat 2022-11-15 04:30:30 oh wiat
+events-chat 2022-11-15 04:30:36 maybe i should lock them
+events-chat 2022-11-15 04:30:48 locked motors act weird tho
+events-chat 2022-11-15 04:53:11 yousurf made a spinner bot that can fling my plot sized monstrosity with 200k fuel, at like 2k speed
+events-chat 2022-11-15 04:53:26 and somehow the motor torque is 5 and speed is 40
+events-chat 2022-11-15 05:08:51 same thing lma
+creations-chat 2022-11-15 05:50:48 literally the same aside from slightly bigger wing
+events-chat 2022-11-15 05:56:35 <@466793357318815744> bot name: bot violator, date: 2nd, class: spinner
+events-chat 2022-11-15 06:46:36 no
+events-chat 2022-11-16 03:55:24 my hammer is set to 10 torque and it literally cannot move
+events-chat 2022-11-16 03:56:13 and its super buggy now
+bug-reports 2022-11-18 06:03:54 my autosave slot is not loading in when i join the game
+creations-chat 2022-11-18 06:10:34 how tf did this get 93 upvotes
+creations-chat 2022-11-19 03:04:22 its not exact
+creations-chat 2022-11-19 19:20:15 um
+contest-chat 2022-11-19 19:21:45 fake rotors technically dont count for the contest
+contest-chat 2022-11-19 19:23:05 where is contest submissions
+contest-chat 2022-11-19 19:23:45 what is that mess of motors
+contest-chat 2022-11-19 21:20:54 
+creations-chat 2022-11-20 00:27:01 they tanks they are using arent great
+creations-chat 2022-11-20 00:31:56 he never said thats what you said tho
+creations-chat 2022-11-20 00:40:50 
+creations-chat 2022-11-20 00:45:49 how is that a valid argument
+creations-chat 2022-11-20 00:48:43 they are just as capable for the role they were designed for and are used for
+creations-chat 2022-11-20 00:52:46 mig29s are not flankers
+creations-chat 2022-11-20 00:55:21 the nato reporting name given to the su-27 is Flanker, the nato reporting name given to the mig-29 is the Fulcrum, so no, the mig-29 is not a Flanker
+creations-chat 2022-11-20 01:06:00 basic
+creations-chat 2022-11-20 02:26:08 make those intakes bigger
+events-chat 2022-11-20 02:27:43 i need to figure out a good weapon design
+events-chat 2022-11-20 02:27:49 i have a decent base
+events-chat 2022-11-20 04:21:42 what private server yall in for battling bots
+events-chat 2022-11-20 04:22:26 wait what
+events-chat 2022-11-20 04:22:32 whats wrong with his
+events-chat 2022-11-20 04:30:10 <@466793357318815744>  bot type: hybrid
+events-chat 2022-11-20 04:32:57 isnt
+events-chat 2022-11-20 04:33:03 isnt hes the organizer
+events-chat 2022-11-20 05:44:50 fuck im dyslexic
+events-chat 2022-11-20 05:45:00 i meant to ping rbk 🤦‍♂️
+events-chat 2022-11-20 20:33:06 what server yall in
+events-chat 2022-11-20 22:56:18 <@466793357318815744> i am available for both days
+events-chat 2022-11-21 04:39:07 ya
+events-chat 2022-11-22 02:52:35 join vip 1 i wanna test my spinner
+bot-central 2022-11-23 02:45:36 -servers
+help 2022-11-23 22:42:27 use regular cylinders
+events-chat 2022-11-23 22:52:21 my spinner takes 2 minutes to get to max speed
+contest-chat 2022-11-24 02:33:55 Is it just those 2 props
+events-chat 2022-11-24 22:32:53 apparently its the shape of the blade or weight distribution or something
+events-chat 2022-11-24 22:32:59 honestly makes no sense
+events-chat 2022-11-24 23:41:43 no it isnt
+events-chat 2022-11-24 23:41:47 theres no max blockcount
+events-chat 2022-11-24 23:42:00 theres no max
+events-chat 2022-11-24 23:47:36 why not
+events-chat 2022-11-24 23:55:57 what is the limit for motors used for folding
+events-chat 2022-11-25 00:20:31 <@297120728342331392> is 500k fuel enough
+events-chat 2022-11-25 00:36:43 thats a lot of wheels
+events-chat 2022-11-25 01:15:24 so fun
+events-chat 2022-11-25 06:52:16 ok
+events-chat 2022-11-25 17:39:41 yea
+events-chat 2022-11-25 17:45:06 <@466793357318815744> how do you decide a winner after timer ends
+events-chat 2022-11-25 17:46:31 wait what
+events-chat 2022-11-25 17:46:50 i designed my weapon to not be a permanent fixture
+events-chat 2022-11-25 17:47:15 wait they coverd up the sides so u cant knock people out the arena
+events-chat 2022-11-25 17:47:26 then whats the point of the no going on rails rule
+events-chat 2022-11-25 17:59:57 how much fuel do u guys have
+events-chat 2022-11-25 18:59:07 i have to completely redesign my bot since it was designed to be able to go over the rails
+help 2022-11-25 22:20:06 how do u get freecam
+events-chat 2022-11-26 04:51:35 <@466793357318815744> can you put me at a slightly later time so i dont have to wake up so early
+events-chat 2022-11-26 14:52:36 Dude
+events-chat 2022-11-26 14:52:41 I am so tired
+events-chat 2022-11-26 15:52:21 im here btw
+events-chat 2022-11-26 17:16:44 what
+events-chat 2022-11-26 17:16:47 ready for what
+events-chat 2022-11-26 17:17:21 yea
+events-chat 2022-11-26 17:17:33 apparently i looked sluggish
+events-chat 2022-11-26 17:17:52 https://challonge.com/pcbattlebots6p2
+events-chat 2022-11-26 17:26:10 <#919309932329840671>
+bug-reports 2022-11-26 19:40:58 what
+bug-reports 2022-11-26 19:41:13 u mean a tail rotor?
+bug-reports 2022-11-26 19:42:39 ok but a swashplate doesnt do anything for that
+bug-reports 2022-11-26 19:47:22 swashplate does not control yaw in single rotor helis
+contest-chat 2022-11-27 02:19:44 <@1004207882784489472> how do those tiny rotors produce enough lift
+contest-chat 2022-11-27 02:20:30 this does not look functional
+contest-chat 2022-11-27 02:20:49 im assuming u have a functional rotor hidden inside the build?
+contest-chat 2022-11-27 02:21:13 how does ur build stay in the air
+contest-chat 2022-11-27 02:22:09 
+contest-chat 2022-11-27 02:26:20 why are ornithopters even included
+help 2022-11-28 01:03:11 reduce motor torque
+creations-chat 2022-11-28 03:54:57 fuselage looks weird
+creations-chat 2022-11-29 04:21:57 ive been stuck on this idk how to make better
+im thinking about making intakes wider at the front but i dont want it to look fat
+creations-chat 2022-11-29 04:25:12 i honestly dont know what to do aside from cleaning up some gaps and bits
+creations-chat 2022-11-29 04:27:59 forgot to say but its supposed to be something around the size of a gripen or hal tejas
+creations-chat 2022-11-29 04:31:46 🤷‍♂️ V3 on top V2 on bottom, V2 nose just looks fat
+<@883063424614006878> gripen is like 1 block longer
+creations-chat 2022-11-29 04:39:08 der a bit different
+creations-chat 2022-11-29 04:47:47 i think the size is okay, i need to figure out how to angle the cockpit and raise the pilot seat slightly
+creations-chat 2022-11-29 05:00:34 1.8 wide at the base, 1 wide at the tip
+creations-chat 2022-11-29 05:07:30 i dont want to make any significant increases in size, im willing to lengthen it by a few blocks maybe, but i cant make any drastic changes like making the fuselage any more than 3.5 blocks wide (including intakes), so the wider i make the cockpit, the smaller the intakes
+creations-chat 2022-11-29 05:15:12 now that i think about it, im basically going for a downsized f-35 with 2 engines and canards
+help 2022-11-30 02:01:49 i want a nozzle like this that is 1.5 wide
+help 2022-11-30 02:01:53 but idk if its possible
+contest-chat 2022-11-30 02:35:55 if fake rotors are allowed then im sure it doesnt need to be able to fly
+contest-chat 2022-11-30 04:31:41 nose looks goofy
+contest-chat 2022-11-30 04:35:26 
+contest-chat 2022-11-30 04:37:43 looks like blobs
+contest-chat 2022-11-30 04:37:52 ok true this one is excusable
+contest-chat 2022-11-30 04:39:01 the glass sphere also looks sort of weird
+contest-chat 2022-11-30 04:41:44 
+contest-chat 2022-11-30 04:44:47 overall the build is ok, but sharp corners/edges on a blackhawk arent ideal
+contest-chat 2022-11-30 04:45:54 does the HH-60A have the sensors or no?
+contest-chat 2022-11-30 04:46:01 these things
+contest-chat 2022-11-30 04:47:00 bob, your rotor blades are angled the wrong way i thinke
+contest-chat 2022-11-30 04:48:04 the tips
+contest-chat 2022-11-30 04:49:39 main gear should be forward just a tad bit
+contest-chat 2022-11-30 04:51:28 ok
+contest-chat 2022-11-30 22:36:44 next time, just make them delete and rebuild it
+contest-chat 2022-11-30 22:36:55 that way its fair
+events-chat 2022-11-30 22:38:30 
+creations-chat 2022-11-30 23:11:10 F-22 is obviously a tanker
+creations-chat 2022-12-01 00:37:29 actual rocker bogie with differential bar, i searched in pcc but none of them were true rocker bogies (except for maybe one but i dont think it is either)
+creations-chat 2022-12-01 00:41:58 yea that might be kinda hard
+creations-chat 2022-12-01 03:00:19 
+creations-chat 2022-12-01 03:02:51 its not that simple but ok
+bug-reports 2022-12-01 03:32:03 my god people these days cant spend 20 seconds to check
+help 2022-12-01 19:09:27 how do i keep the rear wheels on the ground
+help 2022-12-01 19:09:49 
+creations-chat 2022-12-01 19:11:32 2.5 blocks long
+help 2022-12-01 19:22:41 ok i think i figured out the cause
+help 2022-12-01 19:23:06 when turning in reverse, the inner rear wheel lifts
+help 2022-12-01 19:23:25 i think i need a speed differential
+help 2022-12-01 19:24:15 i could also set the center wheels to be unpowered, but then i get reduced power
+help 2022-12-01 21:28:55 kinda hard to explain but that wont work
+help 2022-12-01 23:10:27 motorlock a few together to make it circular
+help 2022-12-01 23:11:01 tails
+help 2022-12-01 23:11:03 trails
+help 2022-12-01 23:11:20 yes
+help 2022-12-01 23:11:30 since they are a trapezoid by default
+help 2022-12-01 23:11:46 yes
+help 2022-12-01 23:11:59 ok
+contest-chat 2022-12-01 23:12:46 its not bad but i dont like that it looks like that
+contest-chat 2022-12-01 23:13:06 like even thought its fictional, it just looks too fictional
+contest-chat 2022-12-02 00:02:38 yea
+contest-chat 2022-12-02 00:02:53 id prefer a fictional vehicle that looks realistic
+contest-chat 2022-12-02 00:03:34 yes
+contest-chat 2022-12-02 00:03:49 i have more words
+contest-chat 2022-12-02 00:04:12 it should at least look like something that would be made irl
+contest-chat 2022-12-02 00:05:08 like if someone made an oversized helicopter with a tiny rotor, i wouldnt like it
+contest-chat 2022-12-02 00:05:58 but if someone made a regularly sized helicopter with a regularly sized rotor, id be fine with it even if its not an actual helicopter than exists irl
+contest-chat 2022-12-02 00:40:52 exactly
+contest-chat 2022-12-02 00:41:36 <@866848584888877077> its not too late to tell SR to restart his heli
+contest-chat 2022-12-02 00:43:02 is not
+contest-chat 2022-12-02 00:43:28 just tell him to delete the part that he did before the contest
+contest-chat 2022-12-02 00:43:42 everything he made after the contest started he can keep
+contest-chat 2022-12-02 00:43:57 so it only took him 2 days to make the build?
+contest-chat 2022-12-02 00:44:02 and contest still has 5 days
+contest-chat 2022-12-02 00:45:09 if he made 80% of his heli before the contest started and finished the rest after the contest started, then he should delete that 80% and rebuild it
+contest-chat 2022-12-02 00:45:16 the other 20% he can keep
+contest-chat 2022-12-02 00:45:25 really is quite the simple
+contest-chat 2022-12-02 00:45:42 they didnt finish the car
+contest-chat 2022-12-02 03:33:26 ok
+help 2022-12-02 05:07:55 text?
+creations-chat 2022-12-02 05:10:07 the actual build may only be a few blocks, but the thinking and creativity required for it may take much more effort
+help 2022-12-02 05:13:56 motorlock
+help 2022-12-02 05:14:07 yea
+contest-chat 2022-12-03 03:54:18 wording was bad, i prefer for fictional vehicles to at least look like it could work if it was made in real life
+at least for real life vehicle categories
+contest-chat 2022-12-03 04:55:38 the size looks off and the cockpit looks so odd like theres no way that shape is realistically viable
+contest-chat 2022-12-03 04:55:49 does not look aerodynamic
+contest-chat 2022-12-03 15:59:31 because its light lma
+contest-chat 2022-12-03 21:40:33 <@866848584888877077> elaborate pls
+creations-chat 2022-12-04 00:22:18 new font looks ass
+bot-central 2022-12-04 02:10:23 -servers
+creations-chat 2022-12-04 17:25:55 nah
+help 2022-12-04 18:41:23 tf is that
+creations-chat 2022-12-04 18:43:58 exposed lock dragging on the ground
+creations-chat 2022-12-05 01:58:30 rear wing doesnt look like it produces downforce
+creations-chat 2022-12-05 02:00:45 wdym plane crazy doesnt have air physics
+creations-chat 2022-12-05 02:04:48 it does
+creations-chat 2022-12-05 15:21:57 <@334903399709671445> nah bruh this shit sucks
+creations-chat 2022-12-06 02:55:57 fill in the nose bit
+creations-chat 2022-12-06 03:45:35 use only 1 prop instead of 2, add helium
+help 2022-12-06 15:50:00 Are there any pistons on your build
+help 2022-12-06 15:50:20 Ok
+help 2022-12-06 15:50:53 Attach a long bar pointing forward on the front 2 motor 2s
+help 2022-12-06 15:51:07 So when you turn the front wheels the bars should turn too
+help 2022-12-06 15:51:33 Then connect the ends of the 2 bars with unpowered motor and a third bar
+help 2022-12-06 15:51:53 The first 2 bars should be at least 4-5 blocks long
+contest-chat 2022-12-08 02:30:23 I’d like to see someone make a single rotor heli powered by an actual piston or turboshaft engine
+contest-chat 2022-12-08 02:31:25 What
+contest-chat 2022-12-08 02:31:37 A single rotor with multiple blades
+contest-chat 2022-12-08 02:32:18 It says external programs allowed tho
+contest-chat 2022-12-08 02:33:12 ANY EXTERNAL PROGRAM
+creations-chat 2022-12-08 02:37:02 <@466793357318815744> <#384025409945337856> wip build
+contest-chat 2022-12-08 02:53:43 low effort is so subjective
+contest-chat 2022-12-08 03:00:42 remove this pls
+contest-chat 2022-12-08 03:01:34 bruh
+contest-chat 2022-12-08 03:01:41 mig has something against me
+contest-chat 2022-12-08 03:02:41 😐
+contest-chat 2022-12-08 03:05:48 <@573970670854340628> ahm you need to make the thingy on the loop the jank
+contest-chat 2022-12-08 03:06:47 the piece in the plastic needs to be tethered
+creations-chat 2022-12-08 03:08:49 leading edge extension
+creations-chat 2022-12-08 03:14:02 LEVCON > LERX
+creations-chat 2022-12-08 03:17:59 ive seen many people use it as a gun
+creations-chat 2022-12-08 03:21:09 its a different use case tho, water jet is good for a machine gun, sparklers are good for tank cannons
+contest-chat 2022-12-08 03:31:13 no
+contest-chat 2022-12-08 03:31:36 one cares
+contest-chat 2022-12-08 03:32:01 its not a joke
+contest-chat 2022-12-08 03:32:28 i will single handedly find you
+contest-chat 2022-12-08 03:33:48 wasnt talking to you
+contest-chat 2022-12-08 03:34:19 do it
+creations-chat 2022-12-08 03:57:45 the whole scale is just off
+creations-chat 2022-12-08 04:05:31 nah its off by a whole block
+help 2022-12-10 04:09:06 wing panels in pc so shitty
+bot-central 2022-12-10 23:57:05 -server
+bot-central 2022-12-10 23:57:10 -servers
+creations-chat 2022-12-11 01:14:44 no
+creations-chat 2022-12-11 04:23:53 777-10X from ohio 💀
+real 777-10X for comparison
+creations-chat 2022-12-11 05:35:30 they dont look like they move
+no sprocket, tracks are smooth so it looks more like a belt than a track (which is made up of individual links)
+creations-chat 2022-12-11 05:39:01 springless rocker bogie suspension, but it has suspension blocks to act only as shock absorbers (the suspension blocks dont support any weight bc 0 stiffness)
+
+and yes, it can climb up short walls over 5 blocks tall
+creations-chat 2022-12-11 05:41:08 
+help 2022-12-11 05:42:25 motorlock + anglelock + piston lock
+creations-chat 2022-12-11 05:45:46 top down angle showing differential bar
+creations-chat 2022-12-11 23:48:40 <@402617794606399488> hover engines ugly use a powered motor or something
+creations-chat 2022-12-12 00:13:16 the motors glitch out when its spinning that fast
+creations-chat 2022-12-12 00:52:58 V or inverted V
+creations-chat 2022-12-13 06:05:43 oh nah what
+help 2022-12-13 06:07:08 it looks like its supposed to be an x-15 which has a high wing-loading which is why the wings are small
+creations-chat 2022-12-14 05:30:53 i want to make an improved a-10
+larger fan diameter for greater thrust and efficiency
+redesigned airframe and wings
+help 2022-12-17 20:26:30 split rudder causes plane to pitch down
+help 2022-12-17 20:27:52 
+help 2022-12-17 20:28:27 one side rudder makes plane pitch down other side makes plane pitch up
+creations-chat 2022-12-17 20:35:00 flying wing proof of concept
+creations-chat 2022-12-17 20:39:21 fat cockpit
+creations-chat 2022-12-18 03:16:50 eh
+creations-chat 2022-12-18 03:51:21 does this work for a b-2 cockpit
+creations-chat 2022-12-18 03:54:55 b-21*
+creations-chat 2022-12-18 04:08:15 
+creations-chat 2022-12-18 04:19:38 eh
+creations-chat 2022-12-18 04:41:54 its his special shaders
+creations-chat 2022-12-18 05:01:23 moments before disaster
+creations-chat 2022-12-18 05:24:52 it flies ig
+creations-chat 2022-12-18 05:30:14 i need a better split rudder design
+creations-chat 2022-12-18 06:10:51 build mode looks so ass
+help 2022-12-18 22:49:01 do frise ailerons work in pc?
+help 2022-12-18 22:51:34 assuming they dont, my best bet to countering adverse yaw is going to be either differential aileron deflection, roll spoilers or a combination of both
+creations-chat 2022-12-19 03:28:00 is this size good for a b-21?
+creations-chat 2022-12-19 03:33:52 close enough
+creations-chat 2022-12-19 03:54:39 <@787238164384972801> tip: dont take screenshots of only nighttime
+ur basically hiding 50% of your build so it gives the impression that u know its bad
+creations-chat 2022-12-19 04:20:22 this shit actual ass tho
+creations-chat 2022-12-19 04:23:13 literally ass tho, probably wont be able to fit any bombs, nose gear wont be able to steer, none of the gear will be able to roll
+creations-chat 2022-12-19 04:27:19 just sucks
+creations-chat 2022-12-19 04:35:07 not sure how i feel
+creations-chat 2022-12-19 04:43:15 how do i fill this
+creations-chat 2022-12-19 04:51:03 this will have to do for now
+creations-chat 2022-12-19 04:55:00 nose looks way too long
+contest-chat 2022-12-19 05:31:42 opaque canopy
+help 2022-12-19 06:40:42 lmk if ur good with cam lock i need help
+creations-chat 2022-12-19 22:34:20 omg expos motor!!
+creations-chat 2022-12-19 22:45:24 bruh
+creations-chat 2022-12-20 02:15:56 bee twanty won
+creations-chat 2022-12-20 02:50:57 ?
+creations-chat 2022-12-20 02:53:05 tip way too pointy ngl
+creations-chat 2022-12-20 02:57:48 doesnt look like either
+contest-chat 2022-12-20 03:00:31 yo same
+contest-chat 2022-12-20 03:01:15 
+creations-chat 2022-12-20 03:01:42 ok maybe
+help 2022-12-20 03:03:45 literally just thrust vectoring
+help 2022-12-20 03:04:41 make sure thrust to weight ratio is less than 1
+help 2022-12-20 03:04:47 or else its gonna go up
+help 2022-12-20 03:05:01 reduce amount of wing panels so it goes up less
+help 2022-12-20 03:05:24 nah
+help 2022-12-20 03:05:47 the further back you shift the center of mass, the smaller the moment arm
+help 2022-12-20 03:06:03 unless you cheat by putting engines in the nose (lame)
+creations-chat 2022-12-21 00:26:03 sorry dude, i see the effort but you gotta make it smooth
+creations-chat 2022-12-21 00:30:06 make your motor lock tower bigger
+creations-chat 2022-12-21 00:32:55 i see no motorlock but ok
+creations-chat 2022-12-21 00:39:47 literally no motorlock
+creations-chat 2022-12-21 00:41:50 <@738979597323862048> literally contructive criticism
+"major redesigning" literally just motorlock the nose and add some angle locks
+creations-chat 2022-12-21 01:39:44 idk man but it just doesnt look accurate
+help 2022-12-21 01:42:08 
+help 2022-12-21 01:42:25 do u mean nozzle?
+help 2022-12-21 01:42:39 ok
+help 2022-12-21 01:42:48 channel is roedits btw
+creations-chat 2022-12-21 03:25:31 does this look ok (the bottom part)
+creations-chat 2022-12-21 03:28:05 not working on gear rn lmao i gotta at least make the gear bays before i work on those
+creations-chat 2022-12-21 03:31:10 why does it looks so pregnant tho
+creations-chat 2022-12-21 03:54:21 haha default gear haha
+creations-chat 2022-12-21 03:59:00 eh
+creations-chat 2022-12-21 05:29:29 is this ok for the main gear
+creations-chat 2022-12-21 05:32:46 probably but those are wayyy too big
+creations-chat 2022-12-21 05:35:59 
+creations-chat 2022-12-21 05:40:03 use a limiter
+creations-chat 2022-12-21 05:46:23 a block that makes the motor stop turning
+creations-chat 2022-12-21 05:48:51 eh, the wings on the side are kinda thin but 4 wide is the best i can do tbh
+creations-chat 2022-12-21 17:52:04 kinda messy rn but this bottom fuselage section basically
+creations-chat 2022-12-21 18:03:31 length and width should be ok, i might need to make it a bit taller or make the skin thinner
+creations-chat 2022-12-21 18:12:56 hmm
+creations-chat 2022-12-21 18:28:09 that man failed math or sum, its 23.5 blocks long
+creations-chat 2022-12-21 19:07:33 a block is not 0.78 meters
+creations-chat 2022-12-21 19:10:40 ok
+creations-chat 2022-12-21 19:12:57 link to the 5.1 feet
+creations-chat 2022-12-21 19:15:50 look at the source tho
+a roblox character is 2 blocks tall, according to rickje, a block is 2.5 studs, making a character 5 studs tall, that source is wrong
+creations-chat 2022-12-21 19:17:56 thats not a roblox site tho
+creations-chat 2022-12-21 19:20:25 5 studs tall
+even though its amazon, its not an official amazon answer, its like a forum, anyone can answer
+creations-chat 2022-12-21 19:23:46 i think the assumption that a character is 5.5 studs tall created the discrepancy
+0.7 meters = 1 block in length
+creations-chat 2022-12-21 19:26:23 i think ill be able to fit 1 bomb long
+creations-chat 2022-12-21 19:34:53 hey we dont need to continue this ok
+creations-chat 2022-12-21 19:37:05 clean design, no exposed lock, lines are straight edges are sharp
+creations-chat 2022-12-21 19:39:22 shut the hell up bruh
+creations-chat 2022-12-22 00:55:06 why is it so hard to fit bombs in the fuselage
+creations-chat 2022-12-22 01:36:28 use regular glass, legacy sucks
+creations-chat 2022-12-22 02:09:10 split rudder be splittin
+creations-chat 2022-12-22 02:11:20 looks ok, but good luck with the control surfaces 🤷
+bug-reports 2022-12-22 02:35:08 fr the lift to drag ratio is so shitty
+creations-chat 2022-12-22 11:07:31 <@306215012219748353> good build but too much extra info, not sure what you mean by working prop bc it doesn’t look like it can produce any thrust, it’s basically just a spinning brick
+bug-reports 2022-12-22 11:08:23 That’s not a bug
+creations-chat 2022-12-22 11:13:07 What
+creations-chat 2022-12-22 11:16:50 Wdym? Is it not just a motor that turns a prop?
+creations-chat 2022-12-22 22:38:40 windows
+help 2022-12-24 01:54:36 sometimes you need motorlock to make it work
+bug-reports 2022-12-24 01:55:38 what
+help 2022-12-24 03:19:37 🧿
+help 2022-12-24 03:20:48 piston lock a red circle emoji on top of a white circle emoji
+help 2022-12-24 03:21:02 make the red circle a slightly smaller size
+bot-central 2022-12-24 03:56:50 -servers
+creations-chat 2022-12-24 20:54:29 heres mine, the wings on the side are a bit skinny but thats the best i can do reaonably tbh
+creations-chat 2022-12-24 21:01:50 im assuming you'd need multiple account for the interior?
+bug-reports 2022-12-24 21:03:39 i make planes for the fun of using them, being able to land or take off properly is a big part of that
+help 2022-12-24 21:05:07 u need level 5 i think
+creations-chat 2022-12-24 21:13:02 does anyone have a good 1x1 precision bomb design that doesnt use wing panels or control surface fins
+creations-chat 2022-12-24 21:16:49 i want it to drop straight down and not travel forward much
+creations-chat 2022-12-24 22:13:38 the gap?
+creations-chat 2022-12-24 22:15:48 the bit being further behind im pretty sure thats from the camera lock idk how to fix it
+events-chat 2022-12-24 22:16:38 no point in winter event tbh we already have all the blocks
+creations-chat 2022-12-25 17:26:43 Tutorials can be good, they just choose not to be
+creations-chat 2022-12-25 18:46:27 Do ppl even use 3-6
+bug-reports 2022-12-26 17:13:24 Show build mode
+creations-chat 2022-12-26 17:14:29 To the backrooms
+creations-chat 2022-12-26 19:28:02 Omg my white Tesla model x looks a lot like his white Tesla model x!!!
+creations-chat 2022-12-26 19:42:40 who cares if it’s similar, urs is worse, you were the one that brought it up
+creations-chat 2022-12-26 19:51:50 Ur ailerons look funny
+Put ur ailerons at the end of the wing not the root
+help 2022-12-27 01:15:25 Angle what
+help 2022-12-27 01:16:25 Oh you circled it but it’s yellow so I didn’t see it
+creations-chat 2022-12-28 00:15:25 Is it custom?
+creations-chat 2022-12-28 00:20:26 S-duct for the engines
+creations-chat 2022-12-28 00:30:41 A tutorial car and a paint roller gets more upvotes than anything I’ve ever built
+creations-chat 2022-12-28 00:34:53 Some tutorials are kinda good and there’s too many tutorials to know all of them
+creations-chat 2022-12-28 01:59:04 Looks fat but if you like it like that it’s ok
+creations-chat 2022-12-28 02:03:56 They aren’t made to look good that’s the problem
+creations-chat 2022-12-28 02:06:00 nam nam is just a convenient way to describe that type of jet
+help 2022-12-28 02:49:55 No?
+help 2022-12-28 02:50:40 Unless something changed today, motor 2 controls work fine
+help 2022-12-28 02:50:56 Show
+creations-chat 2022-12-28 02:52:10 Welcome to pcc
+creations-chat 2022-12-28 02:56:43 Link
+creations-chat 2022-12-28 03:01:32 “Decently good looking plane”
+- 1 wide
+- wing position too far forward
+- ass engine
+I can probably pick it apart more with more angles
+creations-chat 2022-12-28 03:05:18 1 wide isn’t necessarily wrong, but in this case it makes the build look bad
+creations-chat 2022-12-28 03:08:46 https://discord.com/channels/384021699466756103/384025409945337856/1057181491416793140
+creations-chat 2022-12-28 03:11:18 (They are that bad)
+Ur sending low voted builds that are bad which counters your point
+creations-chat 2022-12-28 03:13:41 Please provide additional angles
+creations-chat 2022-12-28 07:02:26 about 2.15 blocks wide
+bug-reports 2022-12-28 19:07:36 Elaborate or show video
+creations-chat 2022-12-28 21:02:43 1 stud = 0.9 feet, roscale is a set in stone definition, it’s the same for everyone
+creations-chat 2022-12-29 01:37:11 Why’s the nose a square tho
+creations-chat 2022-12-29 02:45:26 not a square
+creations-chat 2022-12-29 02:47:28 Make the f-16 nose
+creations-chat 2022-12-29 14:44:49 https://discord.com/channels/384021699466756103/384025409945337856/1058032117512146944
+<@866848584888877077> rule 10?
+help 2022-12-29 14:47:32 Which part is supposed to move
+help 2022-12-29 14:47:45 Is only the glass part supposed to lift?
+creations-chat 2022-12-29 14:49:16 state your concerns
+creations-chat 2022-12-29 14:52:14 Show video in <#478584971670454284>
+It’s probably adverse yaw but I’m not 100% sure
+creations-chat 2022-12-29 14:58:20 <@812440177226154025>
+help 2022-12-29 16:04:47 Looks like adverse yaw
+help 2022-12-29 16:39:27 What’s your yaw control
+creations-chat 2022-12-29 18:36:02 What was that
+help 2022-12-29 21:50:35 No rudder
+creations-chat 2022-12-29 22:15:26 If the giant YouTube blimp doesn’t count then that doesn’t either
+bot-central 2022-12-29 22:18:30 -unde s_sur
+bot-central 2022-12-29 22:18:51 -underandom
+bot-central 2022-12-29 22:19:01 -unde munchyolly
+bot-central 2022-12-29 22:19:18 -unde all
+bot-central 2022-12-29 22:25:28 !rank
+bot-central 2022-12-29 22:25:45 -unde swat 1033
+contest-chat 2022-12-29 22:43:34 <#609381270237216768>
+help 2022-12-30 14:39:46 What
+help 2022-12-30 14:40:31 What plane or custom
+help 2022-12-30 14:53:27 Don’t use 3x3 text
+help 2022-12-30 14:54:06 1x2 and 1x3
+help 2022-12-30 15:25:32 Emoji squares
+help 2022-12-30 15:25:50 Trails
+help 2022-12-30 15:26:00 No
+help 2022-12-30 15:26:09 How big are those
+help 2022-12-30 15:26:50 Use them on the sides
+help 2022-12-30 15:26:55 Or the bottom
+help 2022-12-30 15:27:11 If u put the trails on top of the hovers it won’t lock
+help 2022-12-30 15:27:36 How small are these
+help 2022-12-30 15:27:46 Or bottom
+help 2022-12-30 15:30:02 U did it wrong then
+help 2022-12-30 15:32:39 Show ur build mode
+help 2022-12-30 15:44:20 Don’t use piston use an unpowered motor with the smaller bit facing forward
+help 2022-12-30 15:44:55 Make wing bigger
+creations-chat 2022-12-30 16:31:24 Nahh what even
+creations-chat 2022-12-30 18:28:26 Not a wip
+creations-chat 2022-12-31 06:24:23 Pretty sure you didn’t balance it right
+creations-chat 2022-12-31 06:27:06 Helium
+creations-chat 2022-12-31 06:30:20 Depends on what you want but it’s pretty self explanatory
+creations-chat 2022-12-31 07:16:19 Smaller target and less mass
+creations-chat 2022-12-31 16:45:19 <@866848584888877077> this has to count as low effort bruh
+creations-chat 2022-12-31 16:48:45 Get rid of sparkler base
+creations-chat 2022-12-31 18:02:24 Make 777-9
+bot-central 2022-12-31 19:41:42 -servers
+help 2022-12-31 23:17:26 It should give you a button
+help 2022-12-31 23:19:09 Kinda a waste of money tbh
+help 2022-12-31 23:19:19 Regular sprint is enough
+creations-chat 2023-01-01 02:41:32 Put the hover engine on the other side of the blade <:clueless:942802644043464734>
+bug-reports 2023-01-01 02:43:58 Does the parachute work at all?
+bug-reports 2023-01-01 02:44:09 The button not the block
+bug-reports 2023-01-01 03:47:18 ok yea it does that sometimes just rejoin
+creations-chat 2023-01-01 05:53:45 brah
+custom light fighter
+help 2023-01-01 06:13:18 join vip 1 to help me with heli
+creations-chat 2023-01-01 06:13:26 join vip 1 to help me with heli
+creations-chat 2023-01-01 07:24:36 pls join vip 1 if u can help me with my heli
+creations-chat 2023-01-01 07:27:47 with today's fly-by-wire computer systems, it could work
+creations-chat 2023-01-01 07:30:50 balancing and motor 2 vibration
+its controllable but its a pain to fly
+creations-chat 2023-01-01 07:33:21 vip 1
+creations-chat 2023-01-01 21:27:43 join vip 1 if you can help me balance my heli
+help 2023-01-01 21:44:45 help
+creations-chat 2023-01-01 21:45:00 join vip 1 to help me with heli
+creations-chat 2023-01-01 21:49:29 join vip server 1 if you can help me balance my helicopter
+help 2023-01-01 21:49:40 join vip server 1 if you can help me balance my helicopter
+creations-chat 2023-01-01 21:58:31 https://streamable.com/nvpze1
+how balnce
+help 2023-01-01 22:01:25 https://streamable.com/nvpze1 please help
+creations-chat 2023-01-01 23:10:27 yes
+bug-reports 2023-01-02 05:47:58 <:BIG1:588443768806703124><:BIG2:588443778554134540>
+<:BIG3:588443788721258534><:BIG4:588443798842114088>
+creations-chat 2023-01-02 06:25:54 my first post with a positive rating 💀 😭
+creations-chat 2023-01-02 06:29:47 (i didnt either)
+creations-chat 2023-01-02 06:52:27 what did he say
+creations-chat 2023-01-02 20:19:57 1. 197 studs/hour??
+2. no one cares about fuel
+3. dont care about stability either its supposed to be stable anyways
+creations-chat 2023-01-02 20:26:23 yes
+creations-chat 2023-01-03 07:02:02 yea idk man its just not really looking right tbh
+help 2023-01-03 07:53:07 space shuttle isnt meant to fly
+creations-chat 2023-01-04 05:29:06 Don’t rockets add drag tho
+creations-chat 2023-01-04 06:28:33 🤓
+creations-chat 2023-01-04 06:50:22 "roscale"
+creations-chat 2023-01-04 07:02:12 it actually is, when i started the build, i set up the dimensions and made it to scale, i did make it like 2 blocks wider later on but thats negligible
+creations-chat 2023-01-04 22:52:29 what
+creations-chat 2023-01-04 23:50:50 Low effort considering bro has expert aeronautical
+creations-chat 2023-01-05 05:11:00 ?modlogs 434843195025653762
+creations-chat 2023-01-06 00:45:55 ong no one follows these bruh
+help 2023-01-06 15:41:34 Get out of pvp if you are
+help 2023-01-06 15:41:47 If ur in pvp ur gonna explode urself
+help 2023-01-06 15:43:31 Yea if ur exploding the motor it won’t lock…
+help 2023-01-06 15:43:52 So what are you trying to do then
+help 2023-01-06 15:44:59 If you destroy any part of the motors it’s not gonna function
+help 2023-01-06 15:45:36 Bruh
+creations-chat 2023-01-07 00:57:14 Would not consider these mini
+creations-chat 2023-01-08 03:02:30 assuming u have no vertical wing panels, make sure the center of mass isnt behind of center of lift, for yaw control, just motorlock 2 control surface into each other, one deflects up and one deflects down to create extra drag on one side to yaw
+hidden vertical wing panels will work but they create extra drag and are not needed
+creations-chat 2023-01-08 03:08:20 what the hell is this
+creations-chat 2023-01-08 03:11:30 average anime pfp user
+creations-chat 2023-01-08 03:15:14 what
+creations-chat 2023-01-08 04:27:45 ok so the drift he was talking about is just adverse yaw
+creations-chat 2023-01-08 04:35:08 no cockpit, engines are flat, wing shape is relly weird
+creations-chat 2023-01-08 04:40:16 engine just doesnt look right, the ends of the wing arent supposed to be wider either
+creations-chat 2023-01-08 04:52:15 i think the wingtips may look like they are wider but its just because of the angle, the actual wing chord stays the same
+creations-chat 2023-01-08 20:09:11 how do i fill this in
+creations-chat 2023-01-08 20:25:54 make it pointier
+contest-chat 2023-01-09 02:29:04 im gonna make either the X-37B or the Dream Chaser
+creations-chat 2023-01-09 04:19:22 eh not reallly, its just a bunch of angled blocks
+creations-chat 2023-01-09 04:26:40 literally looks so innaccurate when compared to the actual, it may look good on its own, but the innaccuracies can be seen when compared with the real one
+creations-chat 2023-01-09 04:30:53 these are just some of the problems
+creations-chat 2023-01-09 04:34:06 the f-117 is supposed to have very nice and clean defined edges, and his build just doesnt do it right
+the edges on his build look poorly done and theres all kinds of gaps and stuff throughout the build
+creations-chat 2023-01-09 06:42:30 first of all, if ur referring to that, its an F-117, second of all, I only make builds I think will be interesting, so I choose want I want to build, although I am open to suggestions
+creations-chat 2023-01-09 06:46:32 eh, looks ugly and is kinda basic, nothing interesting/unique either aside from the old nose intake design which isnt really unique either, id rather build interesting planes
+<@756829031982432276> i dont really like building old planes bc it just feels boring when i could be building new vehicles
+creations-chat 2023-01-09 06:49:50 i have no ideas on how I would make it have an interior, i cant just put a horn and add emojis
+creations-chat 2023-01-09 06:54:57 what block is the yellow piece for the throttle
+creations-chat 2023-01-09 06:57:06 why do i feel like theres a suspension or helium block somewhere
+
+<@627546746792443904> you should make a mig-19
+creations-chat 2023-01-10 00:24:01 There have been like 10 f-14s in <#384025409945337856> in the past 24 hours
+creations-chat 2023-01-10 00:26:18 omg no highly detailed realistic turbofan (i think)!!!!
+help 2023-01-10 00:28:29 What control scheme are you using
+creations-chat 2023-01-10 00:29:16 (Default jet engine)
+help 2023-01-10 00:32:50 From what I’m seeing, the rudder is trying to yaw your plane to the right but is instead rolling it to the left due to the high rudder position, so it sort of acts like an aileron
+creations-chat 2023-01-10 01:30:41 <@644126809507627009> didnt u say it was australia
+creations-chat 2023-01-10 05:09:52 in order for an airliner in pc to be truly "roscale" the walls would have to be made of disconnectors or trapdoors or something similar
+creations-chat 2023-01-10 05:12:49 taking the 777X for example, the wall is 4.5 inches thick on each side
+creations-chat 2023-01-10 05:27:59 a roscale 777x would have a wingspan of almost exactly 102.5 blocks, which is just over 2 plots wide
+creations-chat 2023-01-11 05:36:35 if anyone has experience with flying wings, blended wing body designs, lifting body design, etc dm or ping or reply
+ex: B-21, B2, etc
+creations-chat 2023-01-11 05:49:24 <@200793484053970944> noclip?
+creations-chat 2023-01-11 05:51:42 ur trippin balls
+creations-chat 2023-01-11 06:15:50 roscale airliners actually nearly impossible
+creations-chat 2023-01-11 06:18:41 in plane crazy its nearly impossible
+creations-chat 2023-01-11 06:25:59 i was researching the possibility of building a roscale 777X in pc, the walls would have to be made of disconnectors or trapdoors, so you'd need a bunch of angle locks, and theres basically no space to hide the motorlock except for maybe in the nose or in the very back assuming i want actually usable cargo space, the seats in pc are also way to be for economy, 10-abreast economy seats on the 777X are 18 inches wide, a seat in pc is 27.5 inches wide, and even if you managed to get everything mentioned above, youd still have to make the cockpit which would be horrendous consider the blocks wouldnt line up if its a custom sized cylinder, and youd still have to somehow weasle in space to fit the landing gear with landing gear doors, and it would just be a nightmare to make
+creations-chat 2023-01-11 06:31:17 i didnt think about control surfaces but that seems like it would make a lot of drag
+creations-chat 2023-01-11 06:34:58 ive never seen control surfaces used fro the fuselage, could you show me an example?
+creations-chat 2023-01-11 06:48:15 i meant like for the fuselage of an airliner
+creations-chat 2023-01-11 06:50:53 both r kinda mid
+creations-chat 2023-01-11 07:26:09 that plane looks ugly
+help 2023-01-11 07:34:20 cant
+creations-chat 2023-01-11 07:35:08 https://tenor.com/view/my-reaction-to-that-information-rep-invil-jadimations-gif-25628125
+creations-chat 2023-01-11 15:21:27 nah, jets have superior acceleration and speed and old biplanes like that dont even have targetting systems
+help 2023-01-11 22:33:21 if ur a noob dont build either
+help 2023-01-11 22:49:13 i could give you recommendations but i dont know your background
+help 2023-01-11 22:49:33 experience, previous builds, preference
+help 2023-01-11 22:49:52 its better to just find something you are interested in building
+creations-chat 2023-01-11 23:10:03 <@654837629874864140> i know ur probably going for the dome window b-17 look but it'd probably easier to do a conventional cockpit and windows, with the high wing, id recommend adding a little bit of anhedral maybe 5 degrees, also would recommend like 10-15 degrees of wing sweep since its jet powered
+idk about the apu
+creations-chat 2023-01-12 02:34:28 <@782168042229858304> how did you get it to take/save pics automatically? The Google cars will take pictures automatically like 1 per second or something I don’t know
+creations-chat 2023-01-12 02:38:25 So it’s not automatic?
+creations-chat 2023-01-13 05:31:04 im confused, but wheres the rail
+creations-chat 2023-01-13 05:49:57 well yea the rail is what accelerates the projectile...
+creations-chat 2023-01-13 05:53:13 yes
+creations-chat 2023-01-13 15:42:02 You didn’t execute it correctly but ok
+contest-chat 2023-01-13 15:46:16 Why’s everyone making fictional spacecraft
+help 2023-01-14 00:39:16 Pretty sure motor is hidden behind the wedge
+help 2023-01-14 00:39:19 Or not I don’t know
+creations-chat 2023-01-14 06:23:08 99% of the jet isn’t finished what is there to give feedback on
+creations-chat 2023-01-14 18:25:37 <@999427137129951353> tf u mean math bro
+creations-chat 2023-01-14 18:29:04 Why r the wheels angled
+creations-chat 2023-01-14 18:34:08 Wheels look barely tilted if any
+creations-chat 2023-01-14 20:31:18 Wingspan? 14 blocks
+Length: 12.5-13 blocks
+creations-chat 2023-01-14 20:34:17 I’ll help u in 5 mins
+creations-chat 2023-01-14 20:40:16 <@925548477327491073> join vip server 1
+creations-chat 2023-01-14 22:36:02 roscale bf109 attempt
+creations-chat 2023-01-14 22:45:37 roundedsquare.png
+creations-chat 2023-01-14 22:56:58 is this ok for a bf109
+creations-chat 2023-01-14 22:59:26 alternative
+creations-chat 2023-01-14 23:07:29 ok but his is roscale, yours isnt
+creations-chat 2023-01-14 23:38:18 gap is 1 block too big
+creations-chat 2023-01-14 23:42:54 that would probably be like less than a block wide lol
+creations-chat 2023-01-15 01:28:00 is this good enough
+creations-chat 2023-01-15 01:51:03 bruh how else am i supposed to improve it
+creations-chat 2023-01-15 01:53:22 it looks clean but it doesnt look good
+creations-chat 2023-01-15 01:55:40 i mean 3 months is pretty long
+creations-chat 2023-01-15 01:58:32 im struggling so hard
+creations-chat 2023-01-15 02:02:29 idk its kinda hard when the scale of the whole build is small
+creations-chat 2023-01-15 02:05:27 nah i just dont like the f-117
+creations-chat 2023-01-15 02:10:07 i dont see how its ironic, i dont rate others builds based on difficulty, i rate based on accuracy and if its custom, a bunch of other factors
+creations-chat 2023-01-15 02:13:57 how do i hide the trails
+creations-chat 2023-01-15 02:26:48 i used reference images the whole process through wdym
+creations-chat 2023-01-15 02:28:53 because i cant cam lock it and i cant fit angle lock so i have to resort to using wedges
+<@612092288662765570>
+creations-chat 2023-01-15 02:33:50 dry the air
+creations-chat 2023-01-15 02:38:47 why is this random 0 lock bf109 better than mine
+creations-chat 2023-01-15 02:42:03 you got the order mixed up
+creations-chat 2023-01-15 02:45:10 
+creations-chat 2023-01-15 03:00:15 i will figure out how to remove the exposed motor without using magnetlock, its just as aerodynamic as every other pc build, and if you threw it into a wind tunnel it would fly bc it has wings dunno what u mean by turbulent foil, if you mean turbolent flow, that isnt a problem at low speeds, consider a paper airplane, idk what you mean by center of gravity bc it flies perfectly fine, WBL 183.4???, I will add exhaust exit later, the in-game prop engine is literally a piston engine, just a different type of piston engine (thats ricks fault im not doing his work for him), ahm ackshually its not a cube its a rectangular prism 🤓, and yea air is still gonna flow over it, air still flows over a box if you throw it, front landing gear is ricks fault as well
+so your response is ass basically 💯
+creations-chat 2023-01-15 03:04:12 if you read the message, the only useful piece of info you gave me is the exhaust exit thingies
+creations-chat 2023-01-15 03:06:21 i literally have made improvements to it wdym
+creations-chat 2023-01-15 03:10:44 maybe it is, but its still better than the few roscale bf109s out there
+creations-chat 2023-01-15 03:13:01 thats literally not roscale
+creations-chat 2023-01-15 03:15:22 theres literally only like 2 (maybe 3) roscale bf109s in pcc, and i didnt see any on youtube
+<@398216801592410113> yea, because its not roscale
+creations-chat 2023-01-15 03:17:59 its actually slightly larger than roscale lol
+creations-chat 2023-01-15 03:22:34 dude mine is like barely bigger its close enough
+
+<@456226577798135808>
+IRL BF109 specs:
+12.786 blocks long
+14.179 blocks wingspan
+3.714 blocks tall
+MY BF109 specs
+13 blocks long
+16 blocks wingspace
+4 blocks tall (might be more idk)
+creations-chat 2023-01-15 03:24:43 <@456226577798135808> that guy is about the same height as the fuselage, if not slightly taller, my planes fuselage is 2 blocks tall, the same height as my character standing up
+creations-chat 2023-01-15 03:28:19 the only reason the arms are sticking out is because of roblox animations making the arms stick way out to the side, as you can see in your photo, the guys arms barely fit inside the plane, if he were to literally T-pose then he wouldnt fit in the plane either
+creations-chat 2023-01-15 03:31:00 sorry bro but this doesnt count as roscale
+creations-chat 2023-01-15 03:35:07 my avatar is closer to a real human than a blocky style avatar is, a cat-sized cat avatar would be roscale to a real life cat
+help 2023-01-15 03:36:37 canards and thrust vectoring both work
+creations-chat 2023-01-15 03:45:51 idk what definition ur using but 1 stud = 0.28 meters accoring to roblox, a block is 2.5 studs according to rickje, therefore a block is 0.7 meters, using simple arithmetic and wikipedia specifications, you can determine the amount of blocks a certain build needs to be sized to
+creations-chat 2023-01-15 03:48:51 <@773474989751664640> this is the definition im using
+creations-chat 2023-01-15 04:05:37 very detailed
+creations-chat 2023-01-15 04:34:45 stud to irl ratio doesnt change
+the avatar you use doesnt change build scale
+creations-chat 2023-01-15 04:37:59 that doesnt change the fact that a block in pc is equivalent to 0.7 meters irl
+creations-chat 2023-01-15 04:40:15 <@690957737391161434>, note the definition of roscale, the avatar size literally doesnt matter, since roscale is just relating studs to real life units of measurement
+creations-chat 2023-01-15 04:45:24 <@838973460884488233> cool concept but it looks like it can only toggle when the wheels arent steering
+creations-chat 2023-01-15 05:42:26 shaders make the build appear/look better, does not make the build itself better
+creations-chat 2023-01-15 05:45:10 eh, its okay ig since its mini but it could be much better
+creations-chat 2023-01-15 05:47:39 making something mini in pc thats huge irl isnt a great idea
+creations-chat 2023-01-15 05:50:02 id recommend building a new one, and make it bigger, even if you try to make a bunch of improvements on ur plane rn, you need a solid foundation to get good results
+creations-chat 2023-01-15 19:24:26 can someone find a good roscale bf109, I need to see what im up against
+creations-chat 2023-01-15 19:28:05 doesnt count as roscale unfortunately
+also bf109 doesnt have 4 bladed prop? i might be wrong on that
+creations-chat 2023-01-15 19:31:32 it doesnt have to be 1 wide ig but the dimensions have to at least be right
+creations-chat 2023-01-15 19:39:44 norway! that means i can use the giant prop engine instead of the medium one!!! more power = more speed
+contest-chat 2023-01-15 20:54:03 the intakes are interesting
+creations-chat 2023-01-16 04:02:56 <@984694509772357662> honestly not a bad heli
+creations-chat 2023-01-16 04:35:33 every mistake is a learning opportunity
+creations-chat 2023-01-16 05:09:24 hey i didnt dunk on ur blackhawk too hard
+help 2023-01-16 05:10:27 fun fact, you basically cant (at least not well) bc pc doesnt have realistic force and mass based acceleration
+creations-chat 2023-01-16 05:13:11 it was clear that you had put effort into it
+creations-chat 2023-01-16 05:17:08 aint no way what
+help 2023-01-16 05:18:01 try setting gravity to 0
+help 2023-01-16 05:18:14 i have a feeling that gravity is doing something
+creations-chat 2023-01-16 05:44:18 why is it a square what
+bot-central 2023-01-16 18:23:36 -servers
+creations-chat 2023-01-16 23:35:30 all the new 4.5 and 5 gen fighter jets look the same
+contest-chat 2023-01-17 03:12:06 im thinking of making a lifting body spaceplane
+bug-reports 2023-01-18 01:18:28 Happened to me
+bot-central 2023-01-18 01:35:09 -servers
+creations-chat 2023-01-18 07:16:15 Kinda hard to make anything hyper realistic in pc
+creations-chat 2023-01-18 07:31:26 i would consider those very good builds but not hyper realistic
+bot-central 2023-01-18 07:40:09 ;suggest Motor
+[Configurable]
+be able to have a non-constant torque, to allow cars powered by motors to continue cruising with its momentum
+creations-chat 2023-01-18 08:00:18 itd have to be as good as like a 3d model
+creations-chat 2023-01-18 15:44:18 It’s probably close enough tbh
+Shape bad tho, size is okay
+creations-chat 2023-01-18 15:48:13 Motorlocked trails
+creations-chat 2023-01-19 03:40:15 can i post
+creations-chat 2023-01-20 01:49:32 flings balls very far
+creations-chat 2023-01-20 01:57:47 the ball is that one pixel
+creations-chat 2023-01-20 02:07:31 nahh bro got a rounded ship
+creations-chat 2023-01-20 03:11:01 Since some airliners have electric motors in the landing gear, could they have regenerative braking
+creations-chat 2023-01-20 03:16:34 Can help to charge onboard devices or go to a small battery
+creations-chat 2023-01-20 06:05:59 okay
+help 2023-01-20 06:09:28 dude did you not do the in game tutorial
+help 2023-01-20 06:09:35 it literally tells u how to play
+creations-chat 2023-01-21 01:16:07 <@997579355024785559> omg so pro
+contest-chat 2023-01-22 06:32:18 bruh
+help 2023-01-22 17:27:37 what
+help 2023-01-22 17:28:05 wdym by "use a gear to push something"
+contest-chat 2023-01-22 17:31:58 didnt see
+creations-chat 2023-01-22 19:38:31 make the wing less angled
+creations-chat 2023-01-22 19:40:46 yes
+creations-chat 2023-01-22 19:44:45 
+help 2023-01-22 20:41:25 oh bruh thats called a rack and pinion
+bug-reports 2023-01-22 20:53:49 please read these known bugs before posting a bug in here...
+the-dump 2023-01-22 20:54:50 nah what
+creations-chat 2023-01-23 00:02:01 if its good ill upvote if its bad i wont its very simple
+creations-chat 2023-01-23 00:05:24 that doesnt make it good what
+creations-chat 2023-01-23 00:07:52 dude whats your point
+creations-chat 2023-01-23 00:11:42 shut up bro even if its not roscale the proportions are just off
+creations-chat 2023-01-23 00:18:52 one of my builds is 2 upvotes away from designer 4
+creations-chat 2023-01-23 00:21:31 ok
+creations-chat 2023-01-23 00:27:51 closer up img pls its kinda hard to see bc of the color too
+barrel is too thick
+help 2023-01-23 02:31:04 what
+creations-chat 2023-01-24 01:29:10 no they dont look similar
+help 2023-01-24 01:30:25 dude ur wheels are touching
+bug-reports 2023-01-24 01:32:18 knoooooooown bug
+creations-chat 2023-01-24 01:38:09 yes
+creations-chat 2023-01-24 02:15:02 what
+creations-chat 2023-01-24 02:17:07 6.83 : 1 : 1.25
+creations-chat 2023-01-24 03:29:02 wings need to be more tapered, the thing sticking out from the middle is a bit thick
+creations-chat 2023-01-25 02:25:49 <@617498718417190943> how did u get it to only fire when the barrel is lined up
+creations-chat 2023-01-25 06:44:58 Bro I can’t figure out how to make the stabs
+creations-chat 2023-01-25 06:54:15 Shit I’m dumb
+creations-chat 2023-01-25 15:44:00 What, dude literally asked for downvotes in his message
+creations-chat 2023-01-25 21:30:44 shut
+creations-chat 2023-01-25 21:32:53 its not really bad but its not really good
+creations-chat 2023-01-26 02:46:36 interesting
+creations-chat 2023-01-26 02:52:23 sort of hard to tell from that angle but canopy looks interesting, base of the vert stab is interesting, and the top of thte engines looks interesting
+creations-chat 2023-01-26 03:04:39 i gave valid feedback
+creations-chat 2023-01-26 03:07:28 i saw the actual plane thats why i gave feedback??
+creations-chat 2023-01-27 00:45:39 wingpanel.exe
+creations-chat 2023-01-27 00:48:10 <@766239281236148224> how did you make automatic transmission
+creations-chat 2023-01-27 00:51:02 join where
+bot-central 2023-01-27 00:51:14 -servers
+creations-chat 2023-01-27 01:21:58 bro posted a terrible f22 right below a really good f22
+creations-chat 2023-01-27 01:24:09 im sure theres some space to fit it in the fuselage
+creations-chat 2023-01-27 01:26:43 the elevator position is fine, the motor can just be moved into the fuselage slightly
+creations-chat 2023-01-27 01:29:04 red is motor, blue is elevator, top is current configuration, bottom is a possible alteration
+creations-chat 2023-01-27 01:32:01 you can, but you decided to disrupt the peace by posting it in <#384025409945337856>
+creations-chat 2023-01-27 01:35:06 ok bro
+help 2023-01-27 03:12:07 humans for comparison
+help 2023-01-27 03:13:09 you could probably do 5 wide
+creations-chat 2023-01-27 03:17:09 <@925548477327491073> this part looks odd
+creations-chat 2023-01-27 03:21:19 id recommend putting the gun in the upper part of the fuselage, thats how its done in the f-35a and f-22
+creations-chat 2023-01-27 03:45:43 they probably dont
+creations-chat 2023-01-27 15:36:50 Shut up bro it’s fine
+bug-reports 2023-01-27 15:37:54 Known bug move your build with the yellow tool
+contest-chat 2023-01-28 00:23:25 rare booster
+contest-chat 2023-01-28 00:32:17 bro why cant i make a spaceplane
+contest-chat 2023-01-28 00:32:41 it also flys terribly bc the tail doesnt have control surface
+creations-chat 2023-01-28 03:58:01 why does the bore evacuator look so fat compared to irl
+help 2023-01-28 03:59:04 what do the motors simulate
+help 2023-01-28 03:59:16 electric motor or some other type?
+help 2023-01-28 03:59:40 because electric motors operate at reduced torque at higher rpm
+help 2023-01-28 04:04:07 shouldnt it still have reduced torque at higher speeds tho
+the-dump 2023-01-28 04:13:02 guess my age from my math lesson
+the-dump 2023-01-28 04:14:18 eh close enough ig im 15
+the-dump 2023-01-28 04:14:49 united states
+the-dump 2023-01-28 04:16:11 its AP wdym
+the-dump 2023-01-28 04:16:26 most high schools offer AP lol
+the-dump 2023-01-28 04:16:47 https://apstudents.collegeboard.org/
+the-dump 2023-01-28 04:18:07 AP just means the class prepares you for the AP test, which some colleges will accept as college credit
+the-dump 2023-01-28 04:19:27 these are all the ap courses
+creations-chat 2023-01-28 04:20:26 wdym
+the-dump 2023-01-28 04:21:06 yea
+the-dump 2023-01-28 04:21:35 high school
+the-dump 2023-01-28 04:21:47 depends on what school
+the-dump 2023-01-28 04:22:31 you usually wouldnt take all of them
+the-dump 2023-01-28 04:23:12 depends on school lol mine has a regular physics class so its easier
+the-dump 2023-01-28 04:24:10 idk everyones situation is differnent, but theres prerequisites so u just need to have taken algebra or something like that before
+the-dump 2023-01-28 04:25:06 what
+the-dump 2023-01-28 04:25:33 yea
+creations-chat 2023-01-28 06:16:58 idk man i havent seen any 3x3 tanks be called roscale 🤷
+the-dump 2023-01-28 07:01:33 wow so accurate
+the-dump 2023-01-28 07:01:59 <:trollface:775024642104229898>
+creations-chat 2023-01-28 17:56:45 but it has wing panels?
+creations-chat 2023-01-28 18:36:40 
+creations-chat 2023-01-28 18:38:42 its also what provides the lift and allows the thing to actually fly in level flight
+creations-chat 2023-01-28 18:41:13 even if it doesnt produce enough lift, it still produces some lift, which is probably why it can only fly 10 seconds according to OP
+creations-chat 2023-01-28 18:46:03 same 🤓
+creations-chat 2023-01-28 18:50:00 i will try to make a wingless aircraft, lmk which blocks i shouldnt use aside from wing panels + control surfaces
+creations-chat 2023-01-28 18:52:54 i do need to tilt the engines some amount to have fine control over the aircraft
+creations-chat 2023-01-28 19:26:47 working on it
+creations-chat 2023-01-28 19:39:45 motorlock the motors into each other
+help 2023-01-28 19:41:51 then its not balaced
+help 2023-01-28 19:47:10 5 fps and you kept hitting the ground but it doesnt look balanced
+creations-chat 2023-01-28 20:18:03 bf109
+creations-chat 2023-01-29 00:53:34 <@743842049157234759> i like the needle-thin prop blades
+bot-central 2023-01-29 00:54:35 !rank
+events-chat 2023-01-29 02:18:08 i want to revamp and repurpose the drive system i used on my battlebot
+events-chat 2023-01-29 02:20:38 simple overview
+4 columns with 8 wheels each, so 32 total
+each wheel is a 5x5 cylinder 4 blocks wide
+each wheel is powered by 2 motors, 1 for forward and back, 1 for turning
+problems with this system, the stacked motors effectively halves useable torque leading to a very noticeable acceleration time, there is no suspension, so even on flat ground, not all the wheels are contacting the ground at all times so traction is reduced
+events-chat 2023-01-29 02:26:31 first improvement i can make is increase wheels from 8 to 9 by placing them slightly outside the plot space
+creations-chat 2023-01-29 03:04:24 i wouldnt say so
+creations-chat 2023-01-29 04:11:31 please leave me
+creations-chat 2023-01-29 04:18:55 why is the front turret armor angle different for the M1
+creations-chat 2023-01-29 04:23:05 nvm i think its cuz the right side needs to be bigger to fit 2 ppl and only 1 person on the left side so more angled
+help 2023-01-29 06:42:31 show
+help 2023-01-29 17:43:42 Why does it look like the rotor isn’t centered
+help 2023-01-29 17:44:59 It seems like that’s making your heli roll left slightly causing you to turn
+creations-chat 2023-01-29 17:45:57 This is warnable?
+creations-chat 2023-01-29 21:05:26 make something easier
+creations-chat 2023-01-30 03:23:35 <@887490533990223902> how did u get the emoji to work it just shows X in a box when i try to paste it
+creations-chat 2023-01-30 03:27:36 paste the one u used here
+creations-chat 2023-01-30 03:29:44 <@641439058719014913> why does this look modified from ur me262
+help 2023-01-30 03:33:51 what
+the-dump 2023-01-30 03:56:07 me 282 with afterburners
+contest-chat 2023-01-30 05:13:18 real
+the-dump 2023-01-30 05:39:05 me can i
+the-dump 2023-01-30 05:39:19 can u do again
+the-dump 2023-01-30 05:39:27 also why do u look like rodusk
+creations-chat 2023-01-30 15:50:33 <@641439058719014913> vertical wing panels<:nooo:787097964946259978>
+creations-chat 2023-01-30 15:54:10 The wings
+creations-chat 2023-01-31 01:44:55 <@543029563169701908>
+creations-chat 2023-01-31 15:57:22 Fr my shitass custom jet has upvotes somehow
+events-chat 2023-02-01 01:02:55 J
+creations-chat 2023-02-01 01:15:13 ???
+creations-chat 2023-02-01 01:18:18 <:clueless:942802644043464734>
+bot-central 2023-02-01 01:45:15 -servers
+help 2023-02-01 03:37:58 bro just google it
+creations-chat 2023-02-01 03:46:56 how did this get so many upvotes
+creations-chat 2023-02-01 06:00:23 <@812089451450466364>??? thats not a proper designation
+creations-chat 2023-02-01 06:30:20 wingtip
+creations-chat 2023-02-01 06:32:24 custom planes cant really be roscale because there are no irl specs to compare w "
+creations-chat 2023-02-01 23:02:57 shut up you stupid trigger
+creations-chat 2023-02-02 02:20:30 f-14 overrated
+creations-chat 2023-02-02 02:31:55 
+creations-chat 2023-02-02 05:06:41 <#925563336500871268>
+creations-chat 2023-02-03 00:52:37 75 upvotes wtf?
+creations-chat 2023-02-03 01:29:26 10 block tall sedan ong frfr
+creations-chat 2023-02-03 15:50:51 Because I don’t know what the kv-2 looks like and too lazy to google
+bug-reports 2023-02-03 15:52:29 What bug
+help 2023-02-04 02:34:28 Still not that tall
+creations-chat 2023-02-04 02:53:01 <@535246391316971530> get rid of this part sticking out
+creations-chat 2023-02-04 03:08:36 cant rlly see bc the angle of the shot
+creations-chat 2023-02-04 16:38:23 what heli
+bot-central 2023-02-05 00:49:08 -servers
+creations-chat 2023-02-05 01:53:31 why not just get close enough to use the cannon
+creations-chat 2023-02-05 18:29:59 Brooooo
+creations-chat 2023-02-05 18:33:10 <@738979597323862048> It’s wayyy too small but it’s alright
+creations-chat 2023-02-06 00:58:47 fr
+creations-chat 2023-02-06 01:47:47 <@932744263123472414> dude u still did it wrong lmao
+help 2023-02-06 01:50:33 im not telling you whats wrong, what ill tell you is that it's wrong and you should figure it out yourself
+help 2023-02-06 01:50:48 (most likely something welded)
+events-chat 2023-02-06 02:32:57 Epic embed fail
+events-chat 2023-02-06 02:33:14 Epic embed fail
+events-chat 2023-02-06 02:33:27 I don’t have perms either I don’t think
+events-chat 2023-02-06 02:34:02 nah wtf is that
+events-chat 2023-02-06 02:34:17 ok
+events-chat 2023-02-06 02:34:48 no
+events-chat 2023-02-06 02:34:54 and im not going to
+events-chat 2023-02-06 02:35:00 n o
+events-chat 2023-02-06 02:35:17 you can post it urself after u get a rank
+creations-chat 2023-02-06 06:21:55 how do i hide exposed motors
+creations-chat 2023-02-06 06:24:41 the bottom is worse
+creations-chat 2023-02-06 06:51:53 i tried
+creations-chat 2023-02-07 02:12:01 could work for this
+events-chat 2023-02-07 05:37:57 u keep the items
+events-chat 2023-02-07 05:38:06 unless u just didnt do the event
+creations-chat 2023-02-07 15:27:29 <@892688032824713226> please it’s not a trend, ur gonna make it bland
+creations-chat 2023-02-08 00:50:52 The part he posted isn’t wip
+creations-chat 2023-02-08 00:58:53 haha ^
+help 2023-02-08 04:51:49 he has the rotors at the same height so the rotor blades would collide if made longer
+creations-chat 2023-02-08 04:56:33 <@456226577798135808> still looks too big also why are the wings so straight
+creations-chat 2023-02-08 22:35:18 Doesn’t exist in pc
+creations-chat 2023-02-08 22:38:17 <:4Weird:709084058721714324>
+creations-chat 2023-02-08 22:40:50 Angle the wings up <:nooo:787097964946259978>
+creations-chat 2023-02-09 01:18:20 actual wing flex doesnt tho
+creations-chat 2023-02-09 01:23:32 im not the guy who brought up wing flex 🤷
+creations-chat 2023-02-10 02:19:00 It’s been like 1 week
+help 2023-02-10 02:19:27 2-3
+creations-chat 2023-02-10 15:42:50 When a unique creative build gets more upvotes then a tank that has been made countless times (and  better)
+creations-chat 2023-02-11 06:44:16 motor 2s suck
+creations-chat 2023-02-11 20:27:23 how is that gonna fit in a plane
+creations-chat 2023-02-11 20:30:09 wtf
+creations-chat 2023-02-11 23:12:02 Fuselage looks like a box
+creations-chat 2023-02-11 23:15:04 Intake looks meh, nose is a rectangle (look at SR’s f4 prolly different variant idk)
+help 2023-02-12 15:59:43 <@956447807156412467> make an abramsX
+bug-reports 2023-02-12 16:00:32 k n o w n
+b u g
+help 2023-02-12 16:01:50 mans admitting to exploiting
+help 2023-02-12 16:04:22 still against the rules tho
+help 2023-02-12 16:07:52 just build something in game???
+help 2023-02-12 16:08:14 tip jar doesnt give u image permissions???
+help 2023-02-12 16:08:17 get a rank
+help 2023-02-12 16:10:30 <#925563336500871268>
+help 2023-02-12 16:12:01 probably
+creations-chat 2023-02-13 02:53:37 (photoshop)
+creations-chat 2023-02-13 06:47:55 is it just me or are there no pistons
+creations-chat 2023-02-13 06:50:10 exposed motorlock and hover engines sticking out?
+<@668314196764655618> i was watching it in a tiny window so i couldnt see, but it looks like its powered by the rockets and not the pistons
+creations-chat 2023-02-13 06:52:30 why is the spine just flat
+bug-reports 2023-02-14 00:31:19 You don’t have expert and you can’t post creations
+bug-reports 2023-02-14 00:42:02 you literally dont tho
+help 2023-02-14 03:17:10 ???
+bot-central 2023-02-16 00:40:03 -servers
+help 2023-02-16 15:42:50 Ass idea
+help 2023-02-16 15:43:01 Cheese grater wings suck ass
+help 2023-02-16 15:44:03 <@763288927296815104> use your original design but motor lock it to have a smaller gap
+help 2023-02-16 15:46:27 U can do it without exposing the entire motor and with a smaller gap
+help 2023-02-16 15:47:00 Bru ok
+creations-chat 2023-02-16 15:47:39 Those props bro
+bug-reports 2023-02-17 01:14:27 pov: you did it wrong
+creations-chat 2023-02-17 03:20:55 And who left the server?
+creations-chat 2023-02-17 04:44:05 Make it stealthy
+creations-chat 2023-02-17 04:51:15 <@571834798381989899> mini-ass flanker
+creations-chat 2023-02-17 06:09:40 
+creations-chat 2023-02-17 06:11:42 2k blocks kinda hard
+creations-chat 2023-02-17 06:16:01 shit looks ass
+help 2023-02-17 15:14:03 idk what you consider complex but its not that simple
+creations-chat 2023-02-17 15:14:43 isnt it literally just a sparkler
+help 2023-02-17 15:16:28 
+help 2023-02-17 15:17:08 swashplate
+creations-chat 2023-02-17 15:19:18 hover engine makes gun look fat, and the only reason the gun can spin is because its literally mounted UNDER the fuselage instead of inside
+help 2023-02-17 15:19:48 wat
+help 2023-02-17 15:19:56 its the best design i could get
+help 2023-02-17 15:22:36 
+help 2023-02-17 15:22:41 probably not
+help 2023-02-18 15:49:23 i didnt read everything
+creations-chat 2023-02-19 00:26:46 Man how did this get 80 upvotes
+help 2023-02-19 04:30:08 Make it realistically sized please that’s tiny
+creations-chat 2023-02-19 04:33:24 <@854567628198772757> cool build but I will never like mini builds like this tbh
+creations-chat 2023-02-19 19:55:08 1.25-2.5 blocks wide for most fighter jets
+bot-central 2023-02-21 00:04:55 -server
+bot-central 2023-02-21 00:04:59 -servers
+creations-chat 2023-02-21 05:22:41 how did u make a railgun im so confused
+creations-chat 2023-02-21 05:25:11 god damnit <@335599526414909451> can u deal with this
+creations-chat 2023-02-21 05:28:13 i dont wanna talk about it
+<@262009847669719040> how do u make linear motor tho
+help 2023-02-21 05:29:12 show
+creations-chat 2023-02-21 05:30:18 https://en.wikipedia.org/wiki/Linear_motor
+<@406647821815775233> its 18+ thats all im gonna say
+creations-chat 2023-02-21 06:46:49 <@776531178303258664> lend me a hand with my swashplate wuld'ya
+creations-chat 2023-02-21 06:49:51 so true
+creations-chat 2023-02-21 18:45:31 ???
+creations-chat 2023-02-21 19:27:52 no dude the plane
+help 2023-02-21 22:28:50 does it move straight when the rotors arent spinning?
+creations-chat 2023-02-21 22:33:32 <@649634024012120065>
+help 2023-02-21 22:35:34 <@776531178303258664> help me with my swashplate
+help 2023-02-21 22:38:07 anything i can improve and it cant hover
+creations-chat 2023-02-22 00:18:16 doesnt look good tho
+creations-chat 2023-02-22 02:08:53 i didnt say i hated it
+events-chat 2023-02-22 23:05:16 i might just revamp my old battlebot
+events-chat 2023-02-22 23:05:19 more wheels
+events-chat 2023-02-22 23:05:27 and i need a better drive system
+help 2023-02-22 23:09:39 1 block is 2.3 feet wide which is absolutely wide enough for a human
+creations-chat 2023-02-23 00:01:55 <@688806157749715044> knockoff ch-47
+help 2023-02-23 00:21:04 no
+creations-chat 2023-02-23 23:33:37 hi
+creations-chat 2023-02-23 23:36:05 trebuchet
+events-chat 2023-02-24 01:48:02 i love how it literally says unclassified at the top
+creations-chat 2023-02-24 01:54:32 <@693481603120365659> i can help u make the suspension if u want
+creations-chat 2023-02-24 01:56:36 ill show u mine hop in vip 1
+creations-chat 2023-02-24 02:01:59 type "-servers" in <#384027830192832513>
+events-chat 2023-02-24 02:09:12 leak implies that
+creations-chat 2023-02-24 02:10:37 nvm i gtg
+events-chat 2023-02-24 02:11:45 ok
+events-chat 2023-02-24 02:11:48 tanks u
+creations-chat 2023-02-24 05:36:02 <@400119068704636938> wrong size and ur so late
+help 2023-03-01 03:12:07 yea much better
+help 2023-03-01 03:15:11 for the thing in the middle, u could use a trail
+help 2023-03-01 05:37:09 yea im dumb
+creations-chat 2023-03-02 00:52:43 lack of stealth and modern avionics
+creations-chat 2023-03-02 02:53:48 for modern combat, yes a p51 sucks lmao
+creations-chat 2023-03-02 02:55:58 also he literally asked "what is negative about the tomcat" so I am directly answering his question
+help 2023-03-02 02:56:28 motorlock something into it
+help 2023-03-02 02:56:52 aim
+help 2023-03-02 02:56:57 why
+creations-chat 2023-03-02 03:03:20 whether or not its "bad" depends on who you ask, but we can all agree that its worse than most modern fighter jets
+creations-chat 2023-03-02 03:12:59 it is both negative and inevitable
+idk what you consider to be a "negative", but in fighter jet design, almost everything is a trade-off, and we value some aspects more than others for fighter jets. So yes, an f-14 used to be cheaper to buy and maintain than an f-22 today, but the capabilities of the f-22 are unmatched by the f-14
+TLDR;
+Fighter jet combat effectiveness is probably the most important aspect to consider, more so than anything else
+
+also everything is going to have negatives no matter what, an f-14 just has more negatives and less positives than an f-22
+creations-chat 2023-03-02 03:23:19 "the tomcat is better than the f22 and f35 because it was made in the 70s so stealth and survivability doesnt matter" ^
+creations-chat 2023-03-02 03:33:23 tomcat used to be good, but now it isnt
+creations-chat 2023-03-02 03:35:40 my whole point is that its no longer good, which essentially relates back to the original prompt
+creations-chat 2023-03-02 04:50:29 🥰
+bot-central 2023-03-02 06:03:11 -servers
+help 2023-03-03 03:39:32 what jet is it
+creations-chat 2023-03-03 05:34:08 broo the exposed lock
+creations-chat 2023-03-03 15:55:53 Fuselage looks meh, and what are those winglets bro
+help 2023-03-04 00:50:49 i used cam lock for something and i wanna convert it to angle lock without redoing the whole thing
+help 2023-03-04 00:51:20 since the cam lock means the main pilot seat is like inside the build instead of in the cockpit
+help 2023-03-04 00:52:30 in build mode or spawned or both
+help 2023-03-04 00:52:50 gimme a few mins i gotta take a dump
+help 2023-03-04 01:28:18 
+help 2023-03-04 01:36:01 yea cuz i need to lock the seat down half a block
+help 2023-03-04 01:40:49 i am in vip 1 btw
+help 2023-03-04 01:41:15 yea but then it isnt the right height so im just using normal pilot seats in the cockpit
+help 2023-03-04 01:41:38 like i could but it wouldnt look right since the seat would either be too high or too low
+help 2023-03-04 01:42:22 its with cam lock binding to the main pilot seat
+help 2023-03-04 01:42:39 best course of action is to either leave it as is, or replace with angle lock
+help 2023-03-04 01:46:55 the position of the camera relative to the main pilot seat is fixed, meaning i cant have it half a block higher than the wings
+help 2023-03-04 01:49:05 thats what i said
+help 2023-03-04 01:49:24 i just need to figure out how to replace it with angle lock without needing to redo a bunch of stuff
+creations-chat 2023-03-04 05:06:49 Some not all
+creations-chat 2023-03-04 05:19:35 show diff angle
+creations-chat 2023-03-04 05:26:06 wait so its just a 2 seater a-10 with extra equipment
+bot-central 2023-03-04 20:50:13 -servers
+bot-central 2023-03-04 20:50:20 !rank
+creations-chat 2023-03-05 15:00:26 might just be the angle but it looks a bit long
+creations-chat 2023-03-05 23:43:38 the fins
+creations-chat 2023-03-05 23:46:30 the gap
+creations-chat 2023-03-06 03:04:03 he couldve made it 4 years ago but taken the pic recently so no outlines
+help 2023-03-06 14:27:12 abramsX
+help 2023-03-06 14:27:39 show
+help 2023-03-06 14:28:36 yea... good luck with that
+help 2023-03-06 14:28:44 you're gonna have to make it huge
+help 2023-03-06 14:30:12 i was under the impression that you had finished it
+help 2023-03-06 14:31:27 you said you already built it
+help 2023-03-06 14:31:34 but ur still building it
+help 2023-03-06 14:31:44 show
+help 2023-03-06 14:32:59 nahh the camo bruh
+help 2023-03-06 14:33:14 why not just use the gray it was shown in
+creations-chat 2023-03-07 01:49:19 interesting...
+creations-chat 2023-03-07 02:09:03 asked
+bot-central 2023-03-09 01:09:01 -servers
+help 2023-03-09 01:42:05 how do i connect these with less mass
+help 2023-03-09 01:42:32 what
+help 2023-03-09 01:42:42 not long enough
+help 2023-03-09 01:43:06 uhhh idk
+help 2023-03-09 01:44:54 i would like it lighter
+help 2023-03-09 01:44:58 probably wood
+help 2023-03-09 01:47:00 wait nvm i think its light enough
+help 2023-03-09 06:31:15 what
+creations-chat 2023-03-09 14:33:38 is it just the house thats warnable?
+help 2023-03-10 00:58:05 gears
+creations-chat 2023-03-11 16:02:49 bruh, its not bugging out, its quite literally going to the null zone theres no better way to say it
+help 2023-03-11 16:16:52 stabilize with vertical wing panels
+help 2023-03-11 17:14:07 use motorlock to make thicker wings, and they already actually generate lift
+help 2023-03-11 17:23:39 ?
+help 2023-03-11 17:25:42 piston lock
+help 2023-03-11 22:04:26 motorlock
+creations-chat 2023-03-12 04:21:31 huge truck
+help 2023-03-12 04:22:16 ps
+help 2023-03-12 04:22:40 too blocky
+creations-chat 2023-03-15 00:24:09 just u
+help 2023-03-15 00:31:55 then it wont lock
+help 2023-03-15 00:32:14 use angle lock instead
+creations-chat 2023-03-15 02:34:08 <@855728402437767199> size?
+creations-chat 2023-03-15 14:38:15 Make an American style cab
+help 2023-03-15 21:13:57 omoji
+bug-reports 2023-03-15 21:41:18 control surfaces work wdym
+creations-chat 2023-03-16 03:15:20 theres no way this is real, the chair doesnt even look right
+bot-central 2023-03-17 15:59:46 -servers
+events-chat 2023-03-17 23:01:25 You don’t need armor if u don’t get hit lmao
+creations-chat 2023-03-17 23:45:45 doesnt even look like its mini
+contest-chat 2023-03-18 02:56:10 gliders
+contest-chat 2023-03-18 02:56:34 youd have to follow strict guidelines similar to irl
+contest-chat 2023-03-18 02:56:46 weight and size classes
+contest-chat 2023-03-18 02:57:19 thats probably better for an event actually
+contest-chat 2023-03-18 02:57:23 not a contest
+creations-chat 2023-03-18 14:04:52 max 10?
+creations-chat 2023-03-18 15:36:34 will aspect ratio affect wing performance in pc2?
+creations-chat 2023-03-18 16:04:50 i might try to make a high performance fighter by reducing drag by a ton
+creations-chat 2023-03-18 16:07:07 vert stab also tiny
+creations-chat 2023-03-18 17:47:58 its super good! its the best plane ive ever seen! even better than tropicals a380!!
+creations-chat 2023-03-18 17:59:25 im being genuine why are you being mean to me
+bug-reports 2023-03-19 01:34:45 dont use on impact
+bug-reports 2023-03-19 03:44:43 show roblox performance stats
+bug-reports 2023-03-19 03:45:21 
+bug-reports 2023-03-19 03:45:24 settings
+bug-reports 2023-03-19 03:45:29 roblox setting
+bug-reports 2023-03-19 03:47:12 type /console in the chat
+bug-reports 2023-03-19 03:47:34 oh
+bug-reports 2023-03-19 03:49:05 ye
+bug-reports 2023-03-19 03:49:36 the plane flashing at the beginning of the vid is a known issue
+bug-reports 2023-03-19 03:49:44 not sure about the physics not working
+bug-reports 2023-03-19 03:49:48 the wings
+bug-reports 2023-03-19 03:50:19 ?
+bug-reports 2023-03-19 03:51:38 i meant like at 0:02 the audio cuts and the speed indication flashes blank for a sec
+bug-reports 2023-03-19 03:58:00 just play normally and pull up the console when you get it
+creations-chat 2023-03-19 03:58:24 balance
+creations-chat 2023-03-19 04:00:50 nah 30 hours what
+creations-chat 2023-03-20 01:27:20 the
+contest-chat 2023-03-20 04:32:43 guh
+contest-chat 2023-03-20 04:32:47 coc
+contest-chat 2023-03-20 04:34:01 i thought bot work
+contest-chat 2023-03-20 04:34:06 -servers works
+contest-chat 2023-03-20 04:34:36 its been like that for days wdym
+contest-chat 2023-03-20 04:34:57 bro thats what ive been confused about is it seems to work fine but its supposedly broken
+contest-chat 2023-03-20 04:35:27 oh
+contest-chat 2023-03-20 04:36:15 event more fun than contest
+bug-reports 2023-03-20 14:54:19 Not everyone lives in the US
+bug-reports 2023-03-21 14:29:19 if they read it they would know
+bug-reports 2023-03-21 14:35:46 It’s not our fault they ignore simple instructions
+creations-chat 2023-03-21 23:47:51 large
+bug-reports 2023-03-21 23:55:47 they work
+creations-chat 2023-03-23 04:06:16 i mean if u compare it to the guy, its really just like a 2.5 block tall wheels
+contest-chat 2023-03-23 14:53:07 Ayoo
+events-chat 2023-03-24 00:39:19 glider event
+creations-chat 2023-03-24 14:28:37 what
+creations-chat 2023-03-27 14:50:27 <@702907851001167882> I love how you didn’t show any of the features
+creations-chat 2023-03-27 23:57:48 bro stfu he sent that after i sent my message
+creations-chat 2023-03-28 02:06:24 man i dont give a shit
+help 2023-03-28 14:42:57 I can’t read that handwriting and that black Background makes it so I can’t see anything
+bot-central 2023-04-01 21:38:22 -servers
+creations-chat 2023-04-02 18:59:17 nahh bruhdi did the v-280 dirtyyy
+help 2023-04-03 23:45:21 show configs
+bug-reports 2023-04-05 03:33:01 press undo
+bug-reports 2023-04-05 03:33:04 unless u left
+events-chat 2023-04-08 15:41:26 more tank
+events-chat 2023-04-08 15:41:27 pls
+events-chat 2023-04-08 15:41:41 <@216193164199985152> more tank
+bot-central 2023-04-08 21:09:36 -servers
+creations-chat 2023-04-09 16:55:22 Show reference pic
+help 2023-04-09 16:57:57 Has no one that does this figured out that you can cover their username on the plot
+help 2023-04-09 21:48:52 move the pivot point closer to the front
+help 2023-04-09 21:50:13 https://www.roblox.com/games/166986752?privateServerLinkCode=07931997830754241050459044851006
+join this if u can
+creations-chat 2023-04-09 23:18:25 https://discord.com/channels/384021699466756103/384025409945337856/1094762767426273350
+<@652925710976942100>
+help 2023-04-09 23:27:27 my jet hella goofy bruh
+help 2023-04-09 23:28:25 wait how is it remotely nam nam
+help 2023-04-09 23:29:26 very slightly wider
+help 2023-04-09 23:30:14 too lazy to remove
+help 2023-04-09 23:31:13 i still havent figured out a reliable way to make the canards not get stuck
+help 2023-04-09 23:31:19 too lazy to
+help 2023-04-09 23:32:24 i might retrofit this jet with a low drag high performance setup
+help 2023-04-09 23:34:13 what
+help 2023-04-09 23:34:24 wdym
+help 2023-04-09 23:34:31 instead of what
+help 2023-04-09 23:35:10 i like text better cuz no collision
+help 2023-04-09 23:40:58 join vip 1 if u can help me with fuselage
+creations-chat 2023-04-11 02:44:53 <@697893501274161325> nice lore, can i see how u made working autoloader
+creations-chat 2023-04-13 03:02:08 are u blind theres 4
+creations-chat 2023-04-13 18:33:46 German symbol prolly
+help 2023-04-14 04:14:46 777-9X
+help 2023-04-14 18:07:58 ur rotors have to be in opposite directions
+help 2023-04-14 18:08:44 magnet cannon is probably easiest
+help 2023-04-14 18:08:55 tho u can try stuffing explosive blocks
+help 2023-04-15 18:38:21 show
+creations-chat 2023-04-17 23:49:51 That is the largest forklift I have even seen bruh that’s huge
+creations-chat 2023-04-18 04:21:44 yea its since the round shape not as stealthy
+help 2023-04-20 00:15:17 1 super structure is fine
+creations-chat 2023-04-20 00:31:05 why did giant downvote get removed
+bot-central 2023-04-20 00:31:12 -servers
+creations-chat 2023-04-20 00:35:02 yes
+bot-central 2023-04-30 21:54:54 -servers
+creations-chat 2023-05-01 00:41:14 L
+the-dump 2023-05-02 04:35:08 yooo fr
+creations-chat 2023-05-04 02:07:24 Use like that thin paper
+creations-chat 2023-05-17 02:16:33 ok how
+bot-central 2023-05-28 20:46:35 -servers
+help 2023-05-28 22:43:29 https://streamable.com/ulaevt
+help
+help 2023-05-29 17:40:35 why no
+bot-central 2023-06-02 01:07:04 -servers
+help 2023-06-03 04:00:53 thats fine since the base is fixed
+help 2023-06-03 04:01:10 u mean this part right
+help 2023-06-03 04:01:34 yea the wing panels arent overlapped so its fine
+help 2023-06-03 04:02:14 b
+help 2023-06-03 04:02:51 plane fire crazy dept
+creations-chat 2023-06-03 04:03:19 how
+creations-chat 2023-06-09 00:36:49 Motor placement does not have a significant effect on maneuverability
+creations-chat 2023-06-09 00:39:26 I touch plane crazy for a total of 10 minutes per month
+creations-chat 2023-06-17 15:53:29 Close enough depends on lighting
+help 2023-06-22 20:44:29 Literally the first rule is no helium
+help 2023-06-22 21:29:40 could just use the emoji
+help 2023-06-22 21:29:45 🇵🇭
+bot-central 2023-06-22 21:32:31 -servers
+bot-central 2023-06-22 21:32:33 !ranks
+bot-central 2023-06-22 21:32:40 !rank
+creations-chat 2023-06-23 04:54:23 why are u using the elevators as ailerons
+creations-chat 2023-06-23 04:56:43 carbon fiber and titanium are known to be good materials for high pressures and light weight, hence why it is used on modern airliners extensively
+
+<@488078218646257695> lol
+bug-reports 2023-06-23 05:19:56 that happens if u click the button too quickly
+bug-reports 2023-06-23 20:34:33 ok
+bug-reports 2023-06-23 20:34:48 yea
+bug-reports 2023-06-23 20:37:52 pc2
+creations-chat 2023-06-24 05:43:44 howhttps://discord.com/channels/384021699466756103/384025409945337856/1121840496118071296
+creations-chat 2023-06-24 05:46:35 nvm i figured it out
+creations-chat 2023-06-29 16:41:57 1x1
+creations-chat 2023-07-01 19:31:57 Very nearly low effort
+creations-chat 2023-07-01 19:34:05 Case in point.
+creations-chat 2023-07-01 19:51:50 how much is it
+creations-chat 2023-07-01 19:56:44 <@769319142146048001> theres no way each of those took any more than 2 minutes to make
+creations-chat 2023-07-02 00:47:36 dont think so
+help 2023-07-02 00:56:00 show
+creations-chat 2023-07-02 03:52:15 bozo was tryna justify how they arent low effort
+creations-chat 2023-07-02 16:59:41 just bcuz someone else makes it doesnt mean u cant
+creations-chat 2023-07-02 17:05:20 does anyone have experience making flying wings bombers
+creations-chat 2023-07-02 17:09:19 can u help me
+bot-central 2023-07-02 17:09:56 -servers
+creations-chat 2023-07-02 17:11:47 dms
+creations-chat 2023-07-05 17:01:41 https://en.wikipedia.org/wiki/Electromagnetic_Aircraft_Launch_System
+is this possible in pc? i have no clue how to make a linear induction motor
+creations-chat 2023-07-05 20:52:39 ???
+creations-chat 2023-07-06 01:27:00 <@907408760253857812>please make the nose longer
+creations-chat 2023-07-06 23:27:16 i remember someone did this and it got removed
+bot-central 2023-07-07 05:25:02 -servers
+contest-chat 2023-07-07 22:28:33 super stallion/king stallion counts right
+contest-chat 2023-07-07 23:00:24 just confirming
+contest-chat 2023-07-07 23:02:35 it just says aircraft
+contest-chat 2023-07-07 23:03:00 doesnt specify fixed/rotary wing
+contest-chat 2023-07-07 23:03:54 they are craft in the air
+contest-chat 2023-07-07 23:04:53 an airship with 3 engines could count
+contest-chat 2023-07-09 00:59:59 3 engine DC-3
+creations-chat 2023-07-09 16:52:37 ERA
+bot-central 2023-07-11 00:33:29 -servers
+creations-chat 2023-07-14 17:33:56 Hi
+creations-chat 2023-07-15 20:48:22 🫦
+creations-chat 2023-07-15 22:46:16 There’s no way he isn’t 5 foot at least
+creations-chat 2023-07-15 22:52:33 55 inches is 4 foot 7 lma
+creations-chat 2023-07-15 23:16:56 How do the ppl that make tutorials make them without a tutorial

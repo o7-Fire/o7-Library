@@ -1,0 +1,47 @@
+The Tale of guidedsubset469 (638910367430344706)
+help 2021-04-06 21:42:37 Can someone explain why my TNT missile freezes mid air?
+help 2021-04-06 21:43:58 well thats not much help, and its also rude...
+help 2021-04-06 21:44:33 This is a help channel, maybe instead of shaming people you should help them...
+help 2021-04-06 21:45:23 Tnt blocks, some wings and a jet engine
+help 2021-04-06 21:45:47 yes
+help 2021-04-06 21:46:16 upon take off yes
+help 2021-04-06 21:47:44 it does the same thing
+help 2021-04-06 21:48:26 it just stops mid air, it gets about 2 feet and just stops
+help 2021-04-06 21:53:24 ill just google it, im getting nowhere in here....
+help 2021-04-06 22:09:10 its attached to a motor that can rotate it. right after take off it freezes about 2 feet away
+help 2021-04-06 22:10:43 its currently in testing so its not attached to my aircraft yet, could that be a reason? its just attached to a stand on the ground as im testing it.
+help 2021-04-06 22:11:24 give me a second, ill record with Gforce
+help 2021-04-06 22:13:44 god, only if i could figure out how to post a video with gforce...
+help 2021-04-06 22:14:29 
+help 2021-04-06 22:15:11 how else am i suppose to make it rotate then?
+help 2021-04-06 22:15:24 it needs to disconnect from the motor2
+help 2021-04-06 22:20:45 well, i tried setting them to zero strength but it just puts it 0.25
+help 2021-04-06 22:22:51 still doesnt break off
+help 2021-04-06 22:23:25 let me double check
+help 2021-04-06 22:26:31 now it blows up when it takes off
+help 2021-04-06 22:28:10 thats what im saying....
+help 2021-04-06 22:29:58 because it never started to blow up until i used the spring...
+help 2021-04-06 22:32:24 would a magnet work?
+help 2021-04-06 22:34:12 youre right, thats what im gonna have to do. Nothing else works
+help 2021-04-06 22:44:28 how do i make it controllable? I added control surfaces to it but it doesnt do anything
+help 2021-04-06 23:05:51 anyway to make bombs drop faster and accurately?
+help 2021-04-06 23:15:29 i give up with the TNT blocks, they are broken. They just freeze mid air
+help 2021-04-07 03:35:23 ohhh wow that actually worked! thank you so much
+help 2021-04-08 04:15:23 what are pistons used for in the game?
+bug-reports 2021-06-29 04:12:52 The trap doors are refusing to work, if you want a video i can send one... i asked the server and they are also getting this issue
+help 2021-07-16 09:14:05 anyone know how to fix snapping with jets?
+help 2021-07-16 09:14:16 i have this jet, and it has 3 sections and it snaps all the time
+help 2021-07-16 09:16:28 the motors dont entirely lock, and it causes sections to sometimes snap back and forth (undoing themselves and then reconnecting)
+help 2021-07-16 09:17:08 the jet is pretty big, and im not sure whats causing it
+help 2021-07-16 09:17:59 something like that, i was told to use a normal motor to lock it but the normal motor doesnt move it at all. The motor 2 is the only thing that moves the sections
+help 2021-07-16 09:18:26 and im not sure what would be connecting, all sections are seperate until linked together by the motor
+help 2021-07-16 09:19:18 when i use the motor 1 it gets really squished down, and im not sure if thats causing it not to move
+help 2021-07-16 09:19:28 ahhh
+help 2021-07-16 09:19:29 okay
+help 2021-07-16 09:21:14 here is the plane, im not finished because it constantly snaps. Ill try using more motor 1's
+help 2021-07-16 09:28:53 thank you for the information, my plane no longer snaps!!! Thanks so much!
+creations-chat 2021-11-28 04:51:50 yes, a friend wanted something that looked like it was impossible to fly but somehow it actually worked  😆
+creations-chat 2021-11-28 04:56:31 LMFAO
+creations-chat 2021-11-28 04:59:54 https://tenor.com/view/bruh-moment-bruh-fail-fall-prank-gif-16786135
+creations-chat 2021-11-28 05:05:42 my build started out as a joke because a friend told me it couldnt be done, so me being me thats what i did 😂 😭 😭
+creations-chat 2021-11-28 05:24:35 yes, i know its a stupid build. That was the entire point behind it, i got sick of building "proper" things and my friend and I started messing around, he told me it couldnt be done and i wanted to prove him wrong and my build is the end result.

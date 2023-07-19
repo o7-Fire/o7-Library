@@ -1,0 +1,463 @@
+The Tale of ryad (328598467972956160)
+help 2018-09-18 05:06:54 i have a problem with an aviation project which is supposed to have folding wings, any clue on how I can make it work?
+help 2018-09-18 10:25:14 Aye thanks
+help 2018-09-23 11:14:56 yikes
+help 2018-09-23 11:58:46 single or double what
+the-dump 2018-09-28 19:14:51 extra fucking calcium and energy
+the-dump 2018-09-28 19:14:58 why need coffee?
+the-dump 2018-09-28 19:15:09 WHEN YOU HAVE MILK AND A METAL CUP
+the-dump 2018-09-28 19:15:20 *plays metallica*
+the-dump 2018-09-28 19:15:37 GET YOUR METAL CUP TODAY
+the-dump 2018-09-28 19:15:45 AND EARN THOSE FREAKING ELECTRODES
+the-dump 2018-09-28 19:18:52 WHY NOT PUT A METAL CUP AND SOME MILK IN IT
+the-dump 2018-09-28 19:19:03 EXTRA FREAKING CA AND EXTRA ENERGY
+help 2018-09-29 10:00:03 <@!350773590213525511> There is a difference between ballats and ballast tanks, the ballast block makes your ship float the right way
+help 2018-09-29 10:00:10 adding weight to the bottom
+help 2018-09-29 10:00:16 So it dosen't flip over
+help 2018-09-29 10:00:26 You still have to use engines for submarines
+help 2018-09-29 15:01:45 Oh and btw
+help 2018-09-29 15:01:55 The dropship works perfect now <@!350773590213525511>
+help 2018-09-29 15:02:46 Rip
+help 2018-09-29 15:02:58 The issue was helium
+help 2018-09-29 15:03:01 Helium sucks
+the-dump 2018-09-30 08:52:35 no u
+the-dump 2018-10-01 13:56:10 so i often cruise around with my cyclops around the darker areas
+the-dump 2018-10-01 13:56:23 and i see a red dot appear on my radar
+the-dump 2018-10-01 13:56:29 im like 🤔
+the-dump 2018-10-01 13:56:42 and then i see a blue glow
+the-dump 2018-10-01 13:57:14 
+the-dump 2018-10-01 13:57:50 
+the-dump 2018-10-02 11:39:13 And then I spend 20 rig silent to get the ghost leviathans away until i rq
+the-dump 2018-10-02 13:14:47 Power play
+the-dump 2018-10-02 15:39:03 So tomorrow is a sports day
+the-dump 2018-10-02 15:39:13 And as you may know by now
+the-dump 2018-10-02 15:39:23 I'm more of an intel guy rather than sport guy
+the-dump 2018-10-02 15:39:40 So it's gonna be -3 degrees tomorrow
+the-dump 2018-10-02 15:39:42 And raining
+the-dump 2018-10-02 15:39:59 Uhhhhhhh
+help 2018-10-02 15:42:52 Yes indeed
+help 2018-10-02 15:42:55 I agree
+help 2018-10-03 14:58:03 uhh
+help 2018-10-03 14:58:07 yeah
+the-dump 2018-10-04 13:01:24 art
+help 2018-10-08 11:08:47 Heading back home
+help 2018-10-08 11:37:38 And I'm home
+help 2018-10-08 13:09:54 Another reason we need server moderators
+help 2018-10-08 13:09:57 https://gyazo.com/4f84957ec8baa8f4cf4997052f8a7522
+help 2018-10-08 13:10:23 This guy wasy was blasting our ears out with rocket engines
+help 2018-10-08 13:14:58 There are rocket engines inside
+help 2018-10-08 13:16:07 Whatever
+help 2018-10-08 13:16:09 He stopped
+help 2018-10-08 13:16:34 And I just found another bug
+help 2018-10-08 13:16:59 So when I landed my newly made VTOL
+help 2018-10-08 13:17:09 I started the engines
+help 2018-10-08 13:17:13 The sound is there
+help 2018-10-08 13:17:31 But the engine propellers dont move and dont work
+help 2018-10-08 13:17:59 No
+help 2018-10-08 13:18:54 Yes
+help 2018-10-08 13:18:59 I have not got off the seat
+help 2018-10-08 13:19:05 I just landed and wanted to takeoff again
+help 2018-10-08 13:20:05 And there's another one with the jet engines
+help 2018-10-08 13:20:27 I was in air gonna land, turned my engines off and I keep floating
+help 2018-10-08 13:29:03 As you can see there is no secondary seat
+help 2018-10-08 13:29:05 So no
+help 2018-10-08 13:39:52 Ok so I still have audio problems
+help 2018-10-08 13:40:00 Not with the game or anything
+help 2018-10-08 13:40:03 But with discord
+help 2018-10-08 13:40:10 I cannot hear anyone while in VC
+help 2018-10-08 13:40:30 So I have to go on my phone whichs battery is currently dead
+help 2018-10-08 13:44:06 Now I should hear people
+help 2018-10-08 13:44:53 update just kinda broke the game
+bug-reports 2018-10-10 04:06:09 Well xpert that explains why my VTOL often breaks
+help 2018-10-11 04:48:28 Using ballasts and unpowered engines could help with weight
+help 2018-10-19 04:30:16 I believe Danny gave me the discord at first
+help 2018-10-19 04:30:40 And I first played in 2016 I believe
+creations-chat 2018-10-28 12:06:05 SIVA-333
+creations-chat 2018-10-28 12:06:07 https://gyazo.com/f8d6ce4a858cf43775a1ddca0713c791
+creations-chat 2018-10-28 12:06:23 Can go to speeds up to 250
+creations-chat 2018-10-28 12:06:35 It also  has retractable landing gear
+creations-chat 2018-10-28 12:07:40 (except the wheels on the wings cant retract)
+creations-chat 2018-10-28 12:08:01 https://gyazo.com/f8d6ce4a858cf43775a1ddca0713c791
+creations-chat 2018-10-28 12:08:52 oof wrong pic
+creations-chat 2018-10-28 12:21:05 It looks like aaa
+creations-chat 2018-10-28 12:21:07 T-45?
+creations-chat 2018-10-28 12:21:09 No
+creations-chat 2018-10-28 12:21:10 Uhh
+creations-chat 2018-10-28 14:44:58 Ballasts dont make things go underwater
+the-dump 2018-10-28 14:47:38 roblox devs thinking of a new update "hey we should add a shit  morph thing and bring the thing where you cant join games back"
+the-dump 2018-10-28 14:47:50 "Good idea bob!"
+the-dump 2018-10-28 14:48:21 2 days later: why have 200k people left the platform?
+creations-chat 2018-10-29 12:04:18 Planes r easy
+creations-chat 2018-10-30 05:46:58 Dont ping ViP
+creations-chat 2018-11-01 12:37:56 <@!295568493166985218> And the Chair thing was probabaly under 500
+creations-chat 2018-11-01 18:15:01 What is this?
+creations-chat 2018-11-01 18:15:17 A domino chain is a bunch of blocks falling over
+creations-chat 2018-11-01 18:16:02 i mean sure the little things that move
+creations-chat 2018-11-01 18:16:05 but
+creations-chat 2018-11-01 18:16:37 You know, I've detected an odd similarity between me and Vip, we both disagree with a lot of things.
+creations-chat 2018-11-01 18:16:41 You know why?
+creations-chat 2018-11-01 18:17:03 Because we think of things logically and how well it would apply with people and the game.
+creations-chat 2018-11-01 18:17:15 If someone suggests more blocks I would say no.
+creations-chat 2018-11-01 18:17:27 The block choosing menu is already confusing enough.
+creations-chat 2018-11-01 18:18:00 With a lot of blocks you can make unique and realistic builds sure
+creations-chat 2018-11-01 18:18:06 But if it makes the game harder to use
+creations-chat 2018-11-01 18:18:11 Then I would say no.
+creations-chat 2018-11-01 18:19:26 The last thing we'd want right now is more people in the community
+creations-chat 2018-11-01 18:19:42 I've counted over 15 trolls on servers in the past few days
+creations-chat 2018-11-01 18:20:03 That means, lag bombers, Breaking of roblox ToS, etc
+creations-chat 2018-11-01 18:20:24 This game is currently at the mid point
+creations-chat 2018-11-01 18:20:32 If it crosses one edge it dies
+creations-chat 2018-11-01 18:20:39 If we keep it equal
+creations-chat 2018-11-01 18:20:42 It will survive.
+creations-chat 2018-11-01 18:21:08 If you put too much salt on your salad it won't be good, if you put too much sugar it won't be good either.
+creations-chat 2018-11-01 18:21:12 So you have to balance the two
+creations-chat 2018-11-01 18:21:31 The fact that the game works properly and the people's opinion
+creations-chat 2018-11-01 18:22:01 If the people get too much of the things they want
+creations-chat 2018-11-01 18:22:05 It would be bad
+creations-chat 2018-11-01 18:22:10 You gotta realise
+creations-chat 2018-11-01 18:22:19 With the OG veterans of Plane crazy
+creations-chat 2018-11-01 18:22:30 We had a few blocks wing parts and utility blocks
+creations-chat 2018-11-01 18:22:42 But nowadays we have everything
+creations-chat 2018-11-01 18:23:04 If you give a kid too much of what he wants they'll go overload.
+creations-chat 2018-11-01 18:23:10 And we don't want that.
+creations-chat 2018-11-01 18:23:30 I say,
+creations-chat 2018-11-01 18:23:38 We stop giving out the inventor ranl.
+creations-chat 2018-11-01 18:23:45 rank*
+creations-chat 2018-11-01 18:24:04 You see, this rank is so unique
+creations-chat 2018-11-01 18:24:13 You've "invented" something
+creations-chat 2018-11-01 18:24:56 This game is based on mechanics not looks
+creations-chat 2018-11-01 18:25:06 Which unscrews the designer ranks
+creations-chat 2018-11-01 18:25:41 I give out my opinion on things
+creations-chat 2018-11-01 18:26:23 Something like a Levitating train made by my recently invented quantum mechanics would be unique
+creations-chat 2018-11-01 18:26:53 lmao
+creations-chat 2018-11-01 18:27:19 Let's take this to a private DM chat
+creations-chat 2018-11-01 18:27:24 Send me a FR
+creations-chat 2018-11-01 18:27:42 Both of you
+creations-chat 2018-11-01 18:28:31 super send me a FR
+creations-chat 2018-11-01 18:28:43 We will no longer discuss this in public servers thank you
+creations-chat 2018-11-01 18:28:49 Case closed
+creations-chat 2018-11-02 12:48:45 The First Engine ever build (Invented by C4RAB1NE and recorded by spookymommysbrother) Does it deserve a custom rank said Xpert?
+creations-chat 2018-11-02 12:48:46 https://youtu.be/dS8Cb54p_cI
+creations-chat 2018-11-02 12:52:49 it literally moves by itself
+creations-chat 2018-11-02 12:53:08 yes or no?
+creations-chat 2018-11-02 12:53:52 it is because
+creations-chat 2018-11-02 12:53:53 imagine
+creations-chat 2018-11-02 12:54:02 We can place that into a vehicle of some sort
+creations-chat 2018-11-02 12:54:11 And it could move by itself
+creations-chat 2018-11-02 12:55:11 Okay
+creations-chat 2018-11-02 12:55:39 <@!383826315339628544> What do you say?
+creations-chat 2018-11-02 13:06:53 pls vote
+creations-chat 2018-11-02 13:09:12 can you
+creations-chat 2018-11-02 13:09:13 please
+creations-chat 2018-11-02 13:09:16 vote
+creations-chat 2018-11-02 13:13:12 please
+creations-chat 2018-11-02 13:13:17 *vote*
+creations-chat 2018-11-02 13:16:02 *can you fucking vote*
+creations-chat 2018-11-02 13:16:04 The First Engine ever build (Invented by C4RAB1NE and recorded by spookymommysbrother) Does it deserve a custom rank said Xpert?
+https://youtu.be/dS8Cb54p_cI
+creations-chat 2018-11-07 14:55:13 <@!209371454632886272> Military bases? lmao what
+creations-chat 2018-11-07 14:56:09 Are you in the military?
+creations-chat 2018-11-07 14:56:24 Tf
+creations-chat 2018-11-07 14:57:13 Indiana
+creations-chat 2018-11-07 14:57:35 I don't think you can enter a base like that
+creations-chat 2018-11-08 05:53:07 god
+help 2018-11-08 05:53:53 *makes giant craft without engines for propellor master*
+help 2018-11-08 05:54:02 *adds helium inside*
+help 2018-11-08 05:54:13 *colors helium white*
+help 2018-11-08 05:54:29 *huehuehuehue*
+help 2018-11-08 05:55:06 Hows that gonna help tho
+help 2018-11-08 05:56:50 We need like a block list people need to take a picture of
+help 2018-11-08 05:58:32 There is still no way you can see all the blocks used
+help 2018-11-08 06:00:19 wellll
+help 2018-11-08 06:00:26 possible...
+help 2018-11-08 06:03:24 sure i guess
+creations-chat 2018-11-08 12:28:45 Oke
+creations-chat 2018-11-09 05:44:21 NICE
+creations-chat 2018-11-09 05:44:49 You should make the Oryx raid ship from D1
+creations-chat 2018-11-09 05:47:37 I've been playing Destiny since The Dark Bellow
+creations-chat 2018-11-09 09:21:56 Very basic mechanism but I like it
+creations-chat 2018-11-09 11:01:10 Galaton Superengine Market Version 2
+
+It can be used as a powerful warp drive and self moving engine for all your AI needs,
+It also has 2 Self moving pistons for extra strenght with a cooldown of 5 seconds. 
+
+https://gyazo.com/e541bcb2f544f7b38d7b6359fe416589
+creations-chat 2018-11-11 11:35:53 Penta ICV Modular AT Vehicle (Made by C4RAB1NE, design insporations from chudy)
+https://gyazo.com/6d27762227688dd72e2947e239d051b7
+creations-chat 2018-11-11 12:00:32 hey mom dont worry it was just an experiment
+creations-chat 2018-11-11 12:00:33 https://gyazo.com/469f75cd4ef510993ebd1bfee9e59b6d
+help 2018-11-11 12:54:05 Only VSs need adjustments
+creations-chat 2018-11-11 13:58:21 Kagari XS-12
+creations-chat 2018-11-11 13:58:22 https://gyazo.com/f642cca6a550981850cf0571a15dd1a4
+creations-chat 2018-11-11 13:58:37 Complete edition with full retractable gear
+creations-chat 2018-11-11 14:00:49 <:upvote:490311647492309004> Or <:downvote:490311668556103700>
+help 2018-11-12 05:45:25 iz not that complex m8
+help 2018-11-12 05:45:52 Youre not making a custom rocket and landing it like I did
+creations-chat 2018-11-12 05:56:22 Time patience and learning
+the-dump 2018-11-12 06:03:06 OpoOooFf
+creations-chat 2018-11-12 21:51:34 Ace Innovation's long hard worked project, project "Roboi" this features an AI that walks around by itself and such things. (No pictures shown for safety)
+creations-chat 2018-11-12 21:57:25 You can
+creations-chat 2018-11-12 21:57:32 Its simple
+creations-chat 2018-11-12 21:57:45 You just need basic engineering skills
+creations-chat 2018-11-12 21:58:13 Its a custom rank
+creations-chat 2018-11-12 21:58:34 For making a world destroyer
+creations-chat 2018-11-12 21:58:42 Game
+creations-chat 2018-11-12 21:59:07 no leaked pictures
+creations-chat 2018-11-12 21:59:14 no
+creations-chat 2018-11-12 21:59:24 almost
+creations-chat 2018-11-12 21:59:35 not reslly tho
+creations-chat 2018-11-12 21:59:52 It has a mind of its own and can walk around
+creations-chat 2018-11-12 22:00:20 no
+creations-chat 2018-11-12 22:00:28 Its hella small
+creations-chat 2018-11-12 22:00:45 no leaks
+creations-chat 2018-11-12 22:00:58 For plane crazy safety
+creations-chat 2018-11-12 22:01:21 No
+creations-chat 2018-11-12 22:01:27 Simple blocks
+creations-chat 2018-11-12 22:01:41 no leaks
+creations-chat 2018-11-12 22:01:48 fonkl
+creations-chat 2018-11-12 22:01:55 buzzer oofer
+creations-chat 2018-11-12 22:02:16 i need to invent an anti fonkl
+creations-chat 2018-11-12 22:02:23 no
+creations-chat 2018-11-12 22:02:30 its not just a walking boi
+creations-chat 2018-11-12 22:02:42 we sure do
+creations-chat 2018-11-12 22:03:08 Maybe an EMP?
+creations-chat 2018-11-12 22:03:47 Roboi is peaceful tho
+creations-chat 2018-11-12 22:04:02 no
+creations-chat 2018-11-12 22:04:13 'Movie'
+creations-chat 2018-11-12 22:04:51 Zok i gotta sleep
+creations-chat 2018-11-12 22:04:57 I got school
+creations-chat 2018-11-12 22:05:05 .
+creations-chat 2018-11-12 22:05:44 
+creations-chat 2018-11-12 22:05:50 Look at the time
+creations-chat 2018-11-12 22:06:09 onfg
+creations-chat 2018-11-12 22:06:31 in scandinavia
+creations-chat 2018-11-12 22:06:32 Ff
+creations-chat 2018-11-12 22:06:59 l e a v e m e a l o n e a l r e a d y
+creations-chat 2018-11-12 22:07:01 no
+creations-chat 2018-11-12 22:07:05 Bye now
+help 2018-11-13 05:38:01 Looks like everyone is making some sort of plane from the WWII era
+creations-chat 2018-11-13 05:43:31 Yes u
+creations-chat 2018-11-13 05:44:07 ys
+creations-chat 2018-11-13 05:45:14 yes u
+creations-chat 2018-11-13 05:46:02 yes no
+help 2018-11-13 06:00:19 Magnets are a little fuzzy
+creations-chat 2018-11-13 13:34:19 what in the world
+creations-chat 2018-11-13 17:52:31 Stop pinging everyone ffs
+the-dump 2018-11-13 20:25:58 I put a crayon up my ass when i was little
+the-dump 2018-11-13 20:28:01 I called xpert bb
+the-dump 2018-11-13 20:28:13 But i placed no homo at the end
+the-dump 2018-11-13 20:30:11 buck
+the-dump 2018-11-13 20:30:16 duck
+the-dump 2018-11-13 20:30:20 guck
+the-dump 2018-11-13 20:30:27 gluk
+the-dump 2018-11-13 20:30:30 bukk
+the-dump 2018-11-13 20:30:34 syka
+the-dump 2018-11-13 20:30:47 bomba
+the-dump 2018-11-13 20:30:59 why tho
+the-dump 2018-11-13 20:32:10 Šampoon
+the-dump 2018-11-13 20:32:18 sigi pula
+the-dump 2018-11-13 20:32:22 sugi pula
+the-dump 2018-11-13 20:32:30 pugi sula
+creations-chat 2018-11-14 18:52:31 'eskape velosaty'
+creations-chat 2018-11-14 21:47:37 dont talk here
+creations-chat 2018-11-14 21:47:45 so much
+creations-chat 2018-11-14 21:48:14 yesh but checking names?
+creations-chat 2018-11-14 21:48:31 Most people don't include names
+creations-chat 2018-11-14 22:06:24 its not yours
+creations-chat 2018-11-15 12:43:39 are you moronicus gaymonus?
+creations-chat 2018-11-15 12:43:49 to ping ppl for that?
+creations-chat 2018-11-15 12:44:32 stop asking me ffs
+creations-chat 2018-11-15 12:44:58 everyone asks me
+creations-chat 2018-11-15 12:45:01 its annnoying
+creations-chat 2018-11-15 12:53:10 REEEEE
+help 2018-11-15 13:10:35 stop copying me
+help 2018-11-15 13:11:06 
+creations-chat 2018-11-16 05:06:42 is that even yours?
+creations-chat 2018-11-16 05:06:50 I dont think so
+help 2018-11-16 06:03:15 Stop fucking
+help 2018-11-16 06:03:17 Asking
+help 2018-11-16 06:03:22 For mod ranks
+help 2018-11-16 06:03:30 Are you fucking gecko
+help 2018-11-16 06:03:57 Yes
+the-dump 2018-11-16 09:52:20 oof
+creations-chat 2018-11-16 13:30:41 <:thonking:509498568982134816> <:thonking:509498568982134816>
+the-dump 2018-11-16 13:31:38 <:thonking:509498568982134816>
+the-dump 2018-11-17 08:32:12 no spam
+the-dump 2018-11-17 08:32:19 <:banhammer:507685761496252420>
+the-dump 2018-11-19 12:25:45 oh waitt
+the-dump 2018-11-19 12:25:49 I forgot
+the-dump 2018-11-19 12:26:06 Its the younglings
+the-dump 2018-11-19 12:26:21 The "i dont have a crush on you" ppl
+the-dump 2018-11-19 12:27:52 thiz aint the gay anime premium
+the-dump 2018-11-19 12:28:01 cease your faggotry
+the-dump 2018-11-19 12:28:25 the young couple
+the-dump 2018-11-19 12:28:51 <:banhammer:507685761496252420>
+the-dump 2018-11-19 12:31:59 
+help 2018-11-20 05:51:00 Show me a picture of the turret <@!328413257092169729>
+help 2018-11-20 05:56:35 Hmm
+help 2018-11-20 05:59:00 I have no clue
+help 2018-11-20 05:59:17 I cant see much on that picture
+help 2018-11-20 06:00:32 no
+help 2018-11-20 06:01:09 duh
+help 2018-11-20 06:01:16 remove the anchor
+help 2018-11-20 06:02:00 Use engines for downforce
+help 2018-11-20 06:02:06 Or rockets
+help 2018-11-20 06:03:11 just remove the fucking anchor
+help 2018-11-20 06:09:34 🤦
+creations-chat 2018-11-21 13:18:33 <@256977509147475968> no you cant get inventor spasm
+creations-chat 2018-11-21 16:50:49 Update on my now USS Iowa, finished the main hull. Current block count: 1023
+creations-chat 2018-11-21 16:51:36 (yes i know the nose is a bit too angled, but i think it makes it look cool)
+creations-chat 2018-11-22 15:46:16 https://gyazo.com/c2f7ad662d08baf328712758f07d4551 My unmodelled WWII Fighter with french camo
+creations-chat 2018-11-22 16:13:55 Unmodelled WWII Era fighter jet, (repost)
+creations-chat 2018-11-23 08:42:14 Quadra V1, It's fast and agile, it can go as speeds up to 476 SPS!
+creations-chat 2018-11-23 11:34:05 Lockhead P-38 Lightning, 236 blocks, requesting Advanced replicator.
+creations-chat 2018-11-23 11:41:22 
+creations-chat 2018-11-23 13:13:54 <@427466925275217931> I made it control as realistically as possible. Since they're interceptors they don't turn fast but very slowly, it handles and glides well too
+creations-chat 2018-11-23 13:17:57 Yes it climbs well
+creations-chat 2018-11-23 13:18:42 Well sort of
+creations-chat 2018-11-23 13:18:46 It's stable
+creations-chat 2018-11-23 13:18:47 But
+creations-chat 2018-11-23 13:18:55 Not very fast
+creations-chat 2018-11-23 13:19:02 I haven't added any weapons atm
+creations-chat 2018-11-23 13:19:35 It's difficult since  it turns so slowly
+creations-chat 2018-11-23 13:19:50 It almost takes up almost the entire map to do a 360
+creations-chat 2018-11-23 13:20:02 Then again that makes it unstable
+creations-chat 2018-11-23 13:20:10 And the real ones turn slowly
+creations-chat 2018-11-23 13:20:32 Since they're interceptors
+creations-chat 2018-11-23 13:22:24 I have another fighter I use for VP
+creations-chat 2018-11-23 13:22:25 PVP
+creations-chat 2018-11-23 13:22:42 If anything I would only use the P-38 for bombing ships or land vehicles
+creations-chat 2018-11-23 13:23:04 I took down a big plane with the other fighter
+creations-chat 2018-11-23 13:24:30 It's a bit bulky *cough cough*
+creations-chat 2018-11-23 13:25:06 what is a  'navy'?
+creations-chat 2018-11-23 13:26:02 ive never heard of a ship called 'navy'
+creations-chat 2018-11-23 13:26:24 its called
+creations-chat 2018-11-23 13:26:29 navy is a branch
+creations-chat 2018-11-23 13:27:54 the thing is
+creations-chat 2018-11-23 13:27:59 each time they do it
+creations-chat 2018-11-23 13:28:14 they lose  over a 100000 citizens
+creations-chat 2018-11-23 13:28:33 have you seen their missiles?
+creations-chat 2018-11-23 13:28:45 The missiles are more sucidal than my AIs
+creations-chat 2018-11-23 13:29:11 And as soon as my AIs spawn in they walk off the cliff
+creations-chat 2018-11-23 13:30:20 they dont even hit the town by the launch siter
+creations-chat 2018-11-23 13:30:26 site*
+creations-chat 2018-11-23 13:30:31 they go up and straight down
+creations-chat 2018-11-23 13:30:38 no lol
+creations-chat 2018-11-23 13:30:47 have you heard of the might of russia
+creations-chat 2018-11-23 13:31:07 they may take siberia for a day
+creations-chat 2018-11-23 13:31:16 and get fucked by the russian armu
+creations-chat 2018-11-23 13:31:30 eStoNiA
+creations-chat 2018-11-23 13:31:54 coldest place on the fucking earth
+creations-chat 2018-11-23 13:31:57 jk
+creations-chat 2018-11-23 13:32:01 but its like britain
+creations-chat 2018-11-23 13:32:19 eStOnIA
+creations-chat 2018-11-23 13:32:32 in god
+creations-chat 2018-11-23 13:33:09 i pour peper on my bee stings so i can skip school for longer
+creations-chat 2018-11-23 13:33:26 nah jk
+creations-chat 2018-11-23 13:33:32 i go to highschool
+creations-chat 2018-11-23 13:33:38 i dont need to skip school
+creations-chat 2018-11-23 13:33:45 i already skip school
+creations-chat 2018-11-23 13:34:22 i once heard a rumor
+creations-chat 2018-11-23 13:34:41 that if you put water on cocaine
+creations-chat 2018-11-23 13:34:47 mix it up
+creations-chat 2018-11-23 13:35:01 and inject it into yourself with a syringe
+creations-chat 2018-11-23 13:35:08 you can become donkey kong
+creations-chat 2018-11-23 13:35:52 yeet
+creations-chat 2018-11-23 13:36:06 wait guys
+creations-chat 2018-11-23 13:36:13 this is <#504436696021204992>
+creations-chat 2018-11-23 13:36:18 MOVE TO OFF TOPIC
+creations-chat 2018-11-23 13:36:21 NOWWWWWWWWWWWW
+creations-chat 2018-11-23 16:12:22 As the newest and also slowest WWII era plane to my collection, introducing: Zero.
+creations-chat 2018-11-23 16:13:17 
+creations-chat 2018-11-23 16:13:24 Which one is better?
+creations-chat 2018-11-23 16:13:38 The P-38 was claimed the best one made yet xd
+creations-chat 2018-11-23 16:13:44 I'm proud
+creations-chat 2018-11-23 16:14:49 Zero would probabaly win
+creations-chat 2018-11-23 16:15:16 The Zero is very manouverable tho, it's a good plane for beginners to fly
+creations-chat 2018-11-23 16:15:22 Invite me
+creations-chat 2018-11-23 16:15:37 Sure
+creations-chat 2018-11-23 16:20:11 Also, the first person view is awesome
+creations-chat 2018-11-23 16:20:38 https://gyazo.com/5d417530bab4b78ce7e263e0f3f0cdbc
+creations-chat 2018-11-23 16:20:50 eh...
+creations-chat 2018-11-23 16:21:46 cool i guess
+creations-chat 2018-11-23 16:21:53 cant see much use from it tho
+creations-chat 2018-11-23 16:38:32 e.e
+creations-chat 2018-11-23 16:39:09 https://gyazo.com/ad62215fd6361b4916411d72add02a7e
+creations-chat 2018-11-23 16:39:16 Theres my version
+creations-chat 2018-11-23 16:39:49 uhh
+creations-chat 2018-11-23 16:39:54 I don't know
+creations-chat 2018-11-23 16:39:56 Yeah
+creations-chat 2018-11-23 16:39:57 Lol
+creations-chat 2018-11-23 16:57:51 <@!264769733021270016> ?
+creations-chat 2018-11-23 16:59:05 I think your's is a bit Oversized
+creations-chat 2018-11-23 16:59:08 And thank you
+creations-chat 2018-11-23 19:44:48 <@!454809803223465984> https://gyazo.com/ae52b2c3b36f5d3685df6c4f2f4046df
+creations-chat 2018-11-23 19:44:53 Show me yours
+creations-chat 2018-11-23 20:54:21 <@!338747388061548556> its not really a new mechanism
+creations-chat 2018-11-24 11:34:02 🤔
+creations-chat 2018-11-24 19:06:18 lol im the only one with a special role ;)))
+creations-chat 2018-11-24 19:14:37 dosen't the name already give it away?
+creations-chat 2018-11-24 19:15:03 stop asking me stupid questions that you can probabaly figure out yourself
+creations-chat 2018-11-25 07:55:56 <@!290568472620957706> So you spammed down a bunch of blocks to get a special rank
+creations-chat 2018-11-25 07:56:48 You don’t do that
+creations-chat 2018-11-25 10:44:52 yes
+creations-chat 2018-11-25 18:17:56 That looks like the space station from Lost in space
+creations-chat 2018-11-25 18:18:06 Dont remember the name
+creations-chat 2018-11-25 18:20:51 Ah yes the Resolute
+creations-chat 2018-11-25 18:22:40 Torpedoes?
+creations-chat 2018-11-26 15:28:44 So short
+creations-chat 2018-11-27 13:18:48 Crappy be because it has no wedges
+creations-chat 2018-11-27 17:09:58 **--BREAKING NEWS--**
+The construction of a new Semi submersible has begun, Bluewater Horizon will be built soon, 
+https://gyazo.com/de15ff226cb5fd051e0956ca2b8e0c89
+creations-chat 2018-11-27 17:10:38 'Bluewater Horizon'
+creations-chat 2018-11-27 17:10:47 The one that did was the Deepwater horizon
+creations-chat 2018-11-27 18:03:09 **--BREAKNG NEWS--** 
+Bluewater Horizon has been fully built! She will be commisioned operational in the next few days!
+https://gyazo.com/a6cd5d9bdfdcf7e3e7ee9324a7fcfc5c
+creations-chat 2018-11-27 18:03:21 Yes, she does not look like many of her sister rigs,
+creations-chat 2018-11-27 18:03:34 But she has many advantages.
+creations-chat 2018-11-27 18:09:55 i dont care about the paint rn
+creations-chat 2018-11-27 18:15:42 Paint isn't important
+creations-chat 2018-11-27 18:19:25 <@!295568493166985218> Can my rig get Modeller?
+creations-chat 2018-11-27 18:19:34 I don't think anyone ever made a rig before
+creations-chat 2018-11-27 18:20:33 No?
+creations-chat 2018-11-27 18:20:50 Semi submersible
+creations-chat 2018-11-27 18:21:01 It's kinda mix match
+creations-chat 2018-11-27 18:21:43 Is this worse than Deepwater Horizon? https://gyazo.com/e52064c989fe2780849cb634380de800
+creations-chat 2018-11-27 18:21:54 I mean the rig legit split in half
+creations-chat 2018-11-27 18:22:13 And it's upside down
+creations-chat 2018-11-27 18:22:14 https://gyazo.com/48b6b2d134cedf5d30881196b8963db4
+creations-chat 2018-11-27 18:22:43 Woo
+creations-chat 2018-11-27 18:23:12 The worst disaster in the history of the oil industry
+creations-chat 2018-11-27 18:23:13 https://gyazo.com/48b6b2d134cedf5d30881196b8963db4
+creations-chat 2018-11-27 18:23:59 ?
+creations-chat 2018-11-27 18:24:06 *dab*
+creations-chat 2018-11-27 18:24:24 I got every special boi rank
+creations-chat 2018-11-27 18:24:45 which you pretty much cant get
+creations-chat 2018-11-27 18:24:49 nope
+creations-chat 2018-11-27 18:24:51 no
+creations-chat 2018-11-27 18:24:56 xpert gave it to me
+creations-chat 2018-11-27 18:25:00 i just made an ai
+creations-chat 2018-11-27 19:05:32 yes
+creations-chat 2018-11-27 19:05:36 people have made
+creations-chat 2018-11-27 19:05:38 a wings
+creations-chat 2018-11-27 19:05:39 x wings
+creations-chat 2018-11-27 19:05:40 y wings
+creations-chat 2018-11-27 19:05:44 b wings i think maybe
+creations-chat 2018-11-27 19:05:45 idk
+creations-chat 2018-11-28 15:41:45 **--BREAKING NEWS--** 
+Today, at 4:40 PM, The famous semi submerisible oil rig "Bluewater Horizon" Has been damaged by an explosion withing the fuel compartment,https://gyazo.com/b4a2b1b305ae1ae7366ebdcee400ce27
+
+Death count: 1 so far
+creations-chat 2018-11-28 15:42:07 https://gyazo.com/ddab2919d56e847958ab8971439762e3
+creations-chat 2018-11-28 15:44:28 https://gyazo.com/4e8c83cb8dc6cf674616f90142e2a379
+creations-chat 2018-11-28 15:44:42 The rigs pilons are completely submerged!
+creations-chat 2018-11-28 15:55:27 The last moments of Bluewater Horizon
+creations-chat 2018-11-28 15:55:28 https://gyazo.com/063c45ebf02da58b55647a71ff6ee3b5
+creations-chat 2018-11-28 16:07:21 lol
+creations-chat 2018-11-28 20:01:40 <@!194241218811658240> Try putting a rudder inside the plane, near the rear end
+creations-chat 2018-11-28 20:06:53 still the same designs as your old vtols...
+creations-chat 2018-11-28 20:07:20 <;c
+the-dump 2018-11-29 13:42:10 you gigantus cuntus
+creations-chat 2018-11-30 05:03:18 thats an alreigh burke? <:thonking:509498568982134816>

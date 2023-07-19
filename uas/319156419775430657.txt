@@ -1,0 +1,7 @@
+The Tale of mr_brobot621 (319156419775430657)
+creations-chat 2020-12-08 01:48:46 <@683847069890510887> ya know if you wana offer feed back it helps to actually mention something I can improve besides I built it entirely on mobile so I wasn't trying that hard at making it look like the best bus in existence
+creations-chat 2020-12-08 01:50:48 Hmm it seems you still missed the point in providing feed back try agian
+help 2020-12-16 23:50:15 I'm trying to make piston steering but the pistons (painted blue) wont fully extend they will start to extend but wont go the full 4 blocks I've got them set to
+help 2020-12-17 01:55:03 Can anyone help me with this
+bug-reports 2021-01-22 20:39:46 not shure whats causing this but my motor 2 isnt working right on this battle bot i made i have the motors set to servo mode and the kinda just spazz out instead of working like they should
+bug-reports 2021-01-22 20:39:50 https://streamable.com/eg168z

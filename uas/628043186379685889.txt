@@ -1,0 +1,39 @@
+The Tale of luckypanda0 (628043186379685889)
+bot-central 2022-06-05 21:47:57 ?shelp
+bot-central 2022-06-05 21:48:13 ?rhelp
+bot-central 2022-06-05 22:21:21 ?snew
+bot-central 2022-06-13 03:55:40 ?shelp
+bot-central 2022-07-03 00:14:14 ?shelp
+bot-central 2022-07-27 03:20:37 ?shelp
+bot-central 2022-09-13 16:45:57 ?shelp
+help 2022-10-03 23:19:04 i have kind of a strange problem, i was adding turrets to my ship and now the trapdoors i placed are not clickable, i used motor 2s for the turret and the ship folds to create a bigger ship (the trapdoors were working before)
+bug-reports 2022-10-03 23:31:20 yes
+bug-reports 2022-10-03 23:31:26 they are unlocked
+bug-reports 2022-10-03 23:31:28 and unanchored
+bug-reports 2022-10-03 23:31:37 they worked before i added the the motors
+bug-reports 2022-10-03 23:32:27 maybe motor 2 is taking focus of the mouse and not letting trap doors open by mouse or some weird scripting thing like that
+bug-reports 2022-10-03 23:32:33 ive had this happen on other builds aswell
+bug-reports 2022-10-04 00:44:40 try clearing any unused save slots? idrk but maybe ur save data is overflowing or something
+bug-reports 2022-10-04 00:45:40 can u save anything apart from your main builds or is everything not saving
+bug-reports 2022-10-04 00:46:14 sounds like a corrupted save slot, does autosave work?
+bug-reports 2022-10-04 00:47:22 i really have no idea, maybe try turning off autosave in settings? there really isnt anything u can do unless a game dev/mod helps or somebody who can administrate the game
+bug-reports 2022-10-04 00:48:25 if that doesnt work try making an alt and saving something
+creations-chat 2022-11-16 19:18:49 making a f35b, what angle do you think the elevators are?
+creations-chat 2022-11-16 19:22:12 yeah no ima just make it a custom angle
+creations-chat 2022-11-16 19:58:25 vtols
+creations-chat 2022-11-16 20:36:13 what  do you guys think of this f35? it has no weapon bay yet but i added vtol and its joystick compatible
+creations-chat 2022-11-19 19:38:44 in progress carrier (based on USS-WASP)
+creations-chat 2022-11-20 04:17:47 in progress vtol/heli carrier
+creations-chat 2022-11-20 04:22:34 so? this is creations chat not creations, i can do whatever i want
+creations-chat 2022-11-20 04:27:29 exactly its just an upgrade to roblox's lack of detail with light or color
+the-dump 2022-11-20 04:28:30 completely unrelated but this is a cool harrier flir video i made in a sim
+the-dump 2022-11-20 04:30:16 thx
+the-dump 2022-11-20 04:37:55 https://tenor.com/view/mig25-gif-24248876
+the-dump 2022-11-20 04:38:23 https://tenor.com/view/everybody-edits-discord-police-wtf-gif-19364455
+the-dump 2022-11-20 04:40:06 https://tenor.com/view/long-thumb-thumbs-up-gif-25948245
+bot-central 2022-11-20 04:44:11 -servers
+the-dump 2022-11-20 16:57:48 https://tenor.com/view/perro-wave-walking-jazz-hands-hi-gif-17412854
+bot-central 2022-12-16 19:13:52 ?shelp
+bot-central 2022-12-16 19:27:35 -servers
+bot-central 2023-06-29 20:50:25 -servers
+bot-central 2023-06-29 20:57:32 wait wtf

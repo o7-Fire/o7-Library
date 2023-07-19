@@ -1,0 +1,30 @@
+The Tale of ketc_hup (817044433840111717)
+bot-central 2021-06-03 06:06:55 -play bedeos delfin
+bot-central 2021-06-03 06:07:06 !play beedeos delfin
+bot-central 2021-06-03 06:07:15 ?play bedeos delfin
+bot-central 2021-06-03 06:07:42 ;play bedeos delfin
+bot-central 2021-06-03 06:08:12 !help
+bot-central 2021-06-03 06:08:52 =play bedeos delfin
+bot-central 2021-06-03 06:09:23 =loop
+bot-central 2021-06-03 06:09:32 =724
+bot-central 2021-06-03 06:09:37 =247
+bot-central 2021-06-03 06:09:57 =stop
+bot-central 2021-06-03 06:10:06 =play feyzullah
+bot-central 2021-06-03 06:10:24 =resume
+bot-central 2021-06-03 06:10:38 =finish
+bot-central 2021-06-03 06:10:43 =stop
+bot-central 2021-06-03 06:10:54 =play feyzullah
+bot-central 2021-06-03 06:11:05 =un loop
+bot-central 2021-06-03 06:11:10 =unloop
+bot-central 2021-06-03 06:11:27 =play feyzullah
+bot-central 2021-06-03 06:11:41 =end
+bot-central 2021-06-03 06:11:45 =stop
+bot-central 2021-06-03 06:12:02 =skip
+bot-central 2021-06-03 06:12:13 =stop
+bot-central 2021-06-03 06:12:18 =start
+bot-central 2021-06-03 06:12:26 =resume
+bot-central 2021-06-03 06:12:52 =stop
+bot-central 2021-06-03 06:13:00 =skip
+creations-chat 2021-06-03 07:14:11 I want to make a film but I cant find a idea can you give me some ideas for my film?
+help 2021-06-03 07:15:41 I want to make a short film but I cant find a idea. Do you have a idea for my film?
+bot-central 2021-06-09 08:58:35 !rank

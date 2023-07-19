@@ -1,0 +1,12 @@
+The Tale of viaviej (718619226436534274)
+bot-central 2021-04-24 09:10:22 !rank
+bot-central 2021-04-24 14:00:56 !leaderboard
+bot-central 2021-04-24 14:01:29 !levels
+bot-central 2021-04-24 14:03:04 yes
+bot-central 2021-04-24 14:03:41 ok
+creations-chat 2021-05-17 12:04:33 try using delta 1x2 instead of 1x1
+creations-chat 2021-05-17 12:07:01 maybe shorten the wing a bit
+bot-central 2021-05-17 12:26:39 !rank
+bot-central 2021-05-19 13:17:01 !rank
+bot-central 2021-05-19 13:17:39 ?av <@!718619226436534274>
+bot-central 2021-05-19 13:17:46 ?help

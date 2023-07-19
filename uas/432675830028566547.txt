@@ -1,0 +1,14 @@
+The Tale of gahbwee (432675830028566547)
+bug-reports 2021-12-04 21:02:28 Having ": or ;" on text/sign deletes whatever you typed after that on the sign upon saving.
+bug-reports 2021-12-04 21:05:41 er not sure how to attach photos to here tho..
+bug-reports 2022-03-13 18:53:28 spawning on water is "broken" in that instead of of the waterline being just under the lowest block of your creation, it is now 1-2 blocks under your seat upon spawn which really messes with creations that are designed to sink to a specific depth into the water
+bug-reports 2022-03-13 19:03:52 cant my my boat is litterly as tall as the build plot allows
+bug-reports 2022-03-13 19:04:33 meaning it just instantly gets shoved into the sea floor upon spawning
+help 2022-03-13 19:36:21 
+bug-reports 2022-03-13 19:36:50 before: https://discord.com/channels/384021699466756103/478584971670454284/952651351127650384
+help 2022-03-13 19:37:28 
+bug-reports 2022-03-13 19:37:45 after: https://discord.com/channels/384021699466756103/478584971670454284/952651631701426266
+help 2022-03-13 19:39:56 screenshots used to show potential bug, more info here: https://discord.com/channels/384021699466756103/498473314445033472/952640560710172713
+help 2022-03-13 19:46:01 my creation is actually to heavy too float on its own and thus needs to be anchored into the spot where it spawns, plus the images show how a tall boat would just instantly be shoved into the sea floor upon spawning
+bug-reports 2022-03-14 16:24:53 hitting the flip button does not fix this issue if your boat's primary flotation device is to be anchored into the spot were you spawn like my lighthouse is, in fact I've done some testing showing that if your boat is large and tall enough that its not that uncommon for your boat to spawn partly lodged into the sea floor and being stuck there.
+bug-reports 2022-03-14 17:29:35 lighthouse is too heavy and too laggy in free physics to be constantly un-anchoring and re-anchoring into place, plus there's still the issue of tall watercrafts being fused into the sea floor every so often when you spawn it in.

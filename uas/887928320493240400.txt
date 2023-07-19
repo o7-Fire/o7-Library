@@ -1,0 +1,7 @@
+The Tale of .kjlol (887928320493240400)
+bot-central 2021-12-16 07:08:48 !rank
+bot-central 2021-12-16 10:52:12 -ms 10 5
+bot-central 2021-12-16 10:54:24 !rank
+bot-central 2021-12-16 11:07:16 !help
+bot-central 2021-12-16 11:09:53 ?rhelp
+bot-central 2021-12-16 11:10:56 -ms 10 10

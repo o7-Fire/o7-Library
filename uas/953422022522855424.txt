@@ -1,0 +1,132 @@
+The Tale of gman544 (953422022522855424)
+help 2022-10-22 15:46:34 how do i add more details to this without making it look like a discount anaconda?
+bot-central 2023-01-01 21:21:30 !rank
+help 2023-01-02 19:49:39 you need level 3
+help 2023-01-02 19:49:48 to get levels
+help 2023-01-02 19:49:50 you just gotta chat
+help 2023-01-02 19:58:24 is there a way to cram a carriage onto this with folding techniques
+help 2023-01-03 01:26:37 that would've been possible, if not for roblox physics
+help 2023-01-03 01:26:53 even if you have a really good locking mechanism, you or the other dude would glitch out of the lock
+help 2023-01-03 01:27:07 sadly, it's theoretically possible, but for now
+help 2023-01-03 01:27:12 not happening anytime soon
+help 2023-01-03 01:27:39 magnets don't interact with other player's creations
+help 2023-01-03 01:27:40 only your own
+help 2023-01-03 01:27:56 yeah sure
+help 2023-01-03 01:28:24 well, yeah sure but
+help 2023-01-03 01:28:36 do you mean like
+help 2023-01-03 01:28:39 in terms of the model
+help 2023-01-03 01:28:41 or functionality
+help 2023-01-03 01:28:48 yeah that's literally what i just said
+help 2023-01-03 01:29:04 in terms of modeling, maybe not
+help 2023-01-03 01:29:05 you can just
+help 2023-01-03 01:29:08 use your own design
+help 2023-01-03 01:29:12 aerodynamic physics don't apply
+help 2023-01-03 01:29:13 but if you want
+help 2023-01-03 01:29:21 you can just copy how a drone looks irl
+help 2023-01-03 01:29:32 either way is fine, as long as it's actually balanced
+help 2023-01-03 01:29:38 and for functionality
+help 2023-01-03 01:29:40 drones are like
+help 2023-01-03 01:29:45 stupid complicated irl
+help 2023-01-03 01:29:51 i don't think you can mimic that in plane crazy
+help 2023-01-03 01:30:00 just slap 4 propellers on the drone
+help 2023-01-03 01:30:07 that's basically what drones are
+help 2023-01-03 01:30:52 are you plotting to stuff a smaller land vehicle in one of them?
+help 2023-01-03 01:31:10 i have absolutely no idea what you mean
+help 2023-01-03 01:31:21 sadly, that's also up to how roblox physics decide if they wanna work or not
+help 2023-01-03 01:31:32 the tank inside will literally just completely glitch out
+help 2023-01-03 01:31:34 or any other land vehicle
+help 2023-01-03 01:31:53 i don't see why you need to protect your propeller blades from getting bent
+help 2023-01-03 01:31:57 we're playing plane crazy, not real life
+help 2023-01-03 01:32:06 just go ham on your drone model, as long as it's balanced
+help 2023-01-03 01:33:37 said this twice already but
+help 2023-01-03 01:33:45 theoretically, what you've been already doing WOULD work
+help 2023-01-03 01:33:51 it's just that roblox physics say no to that
+help 2023-01-03 01:34:02 comes down to something called client sided
+help 2023-01-03 01:34:10 just won't work man, take my word for it
+help 2023-01-03 01:34:25 if you locked something together, it will stay together
+help 2023-01-03 01:34:33 if you even try to move it, it'll start crumbling apart
+help 2023-01-03 01:34:38 the locks would do nothing
+help 2023-01-03 01:35:10 i don't got a big plane or any aero vehicle, but i can just make a big box and strap rockets under it
+help 2023-01-03 01:35:13 it'll give a similar result
+help 2023-01-03 01:35:17 try to stuff a car into that box
+help 2023-01-03 01:35:21 and once i blast off the box
+help 2023-01-03 01:35:23 the car will glitch out
+bot-central 2023-01-03 01:44:17 !rank
+help 2023-01-03 02:49:37 submitting reports to rick won't warrant a warning anymore
+help 2023-01-03 02:49:53 apparently, the reports channel is completely closed until the foreseeable future
+help 2023-01-03 02:50:02 2/3 of the mods are busy with other things
+help 2023-01-03 02:50:06 leaving one moderator to do all the work
+help 2023-01-03 02:50:14 which is not very practical
+help 2023-01-03 02:50:52 the only thing you can't report to rick is copied builds, and fowl language though
+help 2023-01-03 06:18:05 should probably be a bit more specific with that
+help 2023-01-03 06:18:18 i'll say some really basic things for now
+help 2023-01-03 06:18:24 if you don't have gravity slider
+help 2023-01-03 06:18:28 just put helium on it
+help 2023-01-03 06:18:38 make sure all the helium has apply to center on
+help 2023-01-03 06:19:05 are they just made out of blocks
+help 2023-01-03 06:19:08 no wing panels?
+help 2023-01-03 06:19:15 no wing panels at all?
+help 2023-01-03 06:19:37 you do realize that
+help 2023-01-03 06:19:42 right
+help 2023-01-03 06:19:42 you need wing panels
+help 2023-01-03 06:19:47 aerodynamics don't exist in this game
+help 2023-01-03 06:21:26 when you said your spaceship won't fly
+help 2023-01-03 06:21:30 did you mean like
+help 2023-01-03 06:21:34 it just won't lift off the ground at all
+help 2023-01-03 06:21:38 or like, it didn't have a 0G effect
+help 2023-01-03 06:22:13 is it pointing up in build mode
+help 2023-01-03 06:22:55 yeah, either your thing is severely underpowered, or it's the fact that you have no wingpanels to lift up your plane to begin with
+help 2023-01-03 06:23:23 probably has to do with the wing panels then
+help 2023-01-03 06:23:40 if it can go down really well for some reason, then that's the sign it's related to not having enough lift with wing panels
+help 2023-01-03 06:23:46 and by wing panels, i meant like
+help 2023-01-03 06:23:51 ones on motor 2's and stuff
+help 2023-01-03 06:24:06 or you just have to spam a bunch of control surfaces inside the wing
+help 2023-01-03 06:24:49 depends on if you want the motors to be concealed
+help 2023-01-03 06:24:55 you don't need motorlock to make it look good
+help 2023-01-03 06:25:07 you said your wings are just
+help 2023-01-03 06:25:10 made out of blocks and stuff
+help 2023-01-03 06:25:11 right
+help 2023-01-03 06:25:14 no wing panels at all?
+help 2023-01-03 06:25:20 like, it's not a flat wing made of wing panels
+help 2023-01-03 06:26:07 try to be as quick as possible, it's a bit late over here in my timezone
+help 2023-01-03 06:26:16 i'll just give a quick explanation for now
+help 2023-01-03 06:26:31 if you want the custom control surfaces (aka motor 2's and wing panels) to work properly
+help 2023-01-03 06:26:37 you'd need a motor 2 first
+help 2023-01-03 06:26:44 make sure the hinge is pointing forwards
+help 2023-01-03 06:26:50 which is the yellow thing
+help 2023-01-03 06:27:00 go into the settings, and set the motor 2 speed to 50
+help 2023-01-03 06:27:08 and max angle to be like
+help 2023-01-03 06:27:12 40
+help 2023-01-03 06:27:15 or around 60
+help 2023-01-03 06:27:22 you don't need servo enabled for that
+help 2023-01-03 06:27:32 when you got that
+help 2023-01-03 06:27:35 it should probably work like
+help 2023-01-03 06:27:39 a normal control surface
+help 2023-01-03 06:27:45 but with a lot more lift since it's an entire wing panel
+help 2023-01-03 06:27:55 just put a wing panel ontop of a motor2 in summary
+help 2023-01-03 06:28:00 it's a really easy thing to do
+help 2023-01-03 06:28:29 you just gotta make sure nothing is touching the custom control surface
+help 2023-01-03 06:28:37 or the motor2, depending on it's rotation
+help 2023-01-03 15:39:48 i think you got the wrong channel
+help 2023-01-04 01:01:55 magnets are very buggy
+help 2023-01-04 01:02:18 seems legit
+bot-central 2023-01-04 01:52:41 ?shelp
+creations-chat 2023-01-11 06:31:24 could be better
+creations-chat 2023-01-11 15:27:00 legs r kewl
+creations-chat 2023-01-11 15:43:33 well they did kinda ask if their mech's cool or not, and i don't think their mech would look nearly as cool if it was paraplegic
+creations-chat 2023-01-11 21:22:37 https://discord.com/channels/384021699466756103/384025409945337856/1060019831342104586 somehow got a ton of upvotes on this a while ago, despite being relatively crappy and not even having a paint job. i'm happy with the upvotes, but i'm not happy with the build itself, clearly doesn't deserve this decent ratio so i'd like some suggestions on how to improve this poor excuse of a dieselpunk creation
+creations-chat 2023-01-12 23:18:14 still haven't gotten any advice for this, and i still can't think of any ideas if my crippling autism keeps rudely interfering. it also literally has ZERO motorlock
+help 2023-01-15 02:19:07 wowzers
+help 2023-01-15 02:19:14 you need more lift
+help 2023-01-15 02:19:26 control panels
+help 2023-01-15 02:19:50 my bro
+help 2023-01-15 02:19:52 watch what
+help 2023-01-15 02:19:56 the ingame tutorial my laddie
+creations-chat 2023-03-01 00:27:55 https://media.discordapp.net/attachments/329588425206530048/1038179895626448917/22A3B4E1-2D76-4D9C-A9E5-CCA2E5B24E10.gif
+creations-chat 2023-03-01 03:28:09 https://discord.com/channels/384021699466756103/384025409945337856/1060019831342104586 how do i improve this
+creations-chat 2023-03-01 03:35:44 good advice, i see you're taking inspiration from girls und panzer
+creations-chat 2023-03-06 03:45:47 metal gear sahelanthropus1111!1!!1
+creations-chat 2023-03-07 02:41:21 https://discord.com/channels/384021699466756103/384025409945337856/1082485250497720470 t
+help 2023-03-09 01:22:08 type 94 naval gun in every place you can fit it in
+creations-chat 2023-03-13 23:42:00 meme creations are no longer funny 😦
+creations-chat 2023-03-16 23:45:11 racism

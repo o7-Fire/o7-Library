@@ -1,14 +1,29 @@
-cqv
-plane-crazy 2020-05-20 00:42:16 Ah I see, thanks. Wasnt easy to see on mobile and roblox has already changed so much from when I use to play aha
-plane-crazy 2020-05-20 00:40:53 Does this refer to the outlines around each block that make each one visible or some other outline that I'm not aware of
-plane-crazy 2020-05-20 00:36:07 What are outlines? Why they gone?
-plane-crazy 2020-05-18 14:02:59 ty
-plane-crazy 2020-05-18 14:01:53 ty
-plane-crazy 2020-05-18 14:01:29 or does it change acceleration to max speed
-plane-crazy 2020-05-18 14:01:12 does it just make it less likely to give into resistance?
-plane-crazy 2020-05-18 14:00:45 what does max torque do on motors?
-plane-crazy 2020-05-17 03:38:32 smh
-plane-crazy 2020-05-17 03:38:31 out of sync
-plane-crazy 2020-05-17 03:38:22 having 2 motors in a mirrored build and one of them will always end up different to the other
-plane-crazy 2020-05-17 03:37:59 motors out here really just being inaccurate huh
-plane-crazy 2020-05-16 21:44:15 my millenium falcon's hyperdrive is working
+The Tale of cqv (95262763479212032)
+creations-chat 2020-05-16 21:34:42 hahahaha
+creations-chat 2020-05-16 21:35:26 Does anyone have any tips on how to reduce the lag of a 2k+ build?
+creations-chat 2020-05-16 21:38:28 the computer isnt the problem, it just moves slower in general, even if recorded speed is the same
+creations-chat 2020-05-16 21:45:08 ok im confused
+creations-chat 2020-05-16 21:45:22 I just post a screenshot of my creations to <#384025409945337856> and thats it?
+creations-chat 2020-05-16 22:18:57 nice
+the-dump 2020-05-16 23:57:13 
+the-dump 2020-05-16 23:58:32 
+creations-chat 2020-05-17 00:01:23 leaf him alone
+creations-chat 2020-05-17 00:01:32 he is trying to branch out
+creations-chat 2020-05-17 00:53:42 i guess this is for talking whereas <#384025409945337856> is pure images with captions
+the-dump 2020-05-17 02:11:38 
+bot-central 2020-05-17 14:19:29 ?whois
+the-dump 2020-05-17 14:37:12 boo facebook meme
+creations-chat 2020-05-17 14:42:45 this dude <@!660341617537843210> keeps downvoting all of my posts???? and they are a gamer??? what is this?? I think they should be BANNED
+creations-chat 2020-05-17 14:47:15 If im a shipwright IRL can I have the role for free ;)))))
+creations-chat 2020-05-17 15:24:16 them duke boys are at it again
+creations-chat 2020-05-17 16:28:17 has anyone built a walking AT-AT yet?
+bot-central 2020-05-18 17:47:06 !servers
+bot-central 2020-06-11 22:34:54 !servers
+bot-central 2020-06-11 22:35:16 -ms
+bot-central 2020-06-11 22:35:23 -ms
+bot-central 2020-06-11 22:35:59 how do I make it harder
+bot-central 2020-06-11 22:36:01 -ms hard
+bot-central 2020-06-11 22:36:11 -help
+bot-central 2020-06-11 22:36:27 -help ms
+bot-central 2020-06-11 22:36:40 -minesweeper 10 10 10
+bot-central 2020-06-11 22:37:04 -minesweeper 10 10 25

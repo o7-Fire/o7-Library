@@ -1,2 +1,17 @@
-redgear17
-plane-crazy 2020-04-01 08:25:02 V>v
+The Tale of redgear17 (410608838035898368)
+help 2018-12-22 04:26:35 So like, how do propellers in this game work
+help 2018-12-23 01:04:21 any tips
+help 2018-12-23 01:35:26 its a helicopter I made after just learning how helicopters are made
+help 2018-12-23 01:35:36 It cannot turn
+help 2018-12-23 01:35:42 or move forward
+help 2018-12-23 01:35:46 only up
+help 2018-12-23 01:35:56 and down
+help 2018-12-23 01:53:40 thanks
+help 2018-12-23 02:08:59 ok I think I understand
+help 2018-12-23 02:09:54 /but when I move the propellers for direction it just moves the body of the heli
+help 2018-12-23 05:05:06 ok, so I got forward and backward movement nailed
+help 2018-12-23 05:05:26 but now it just goes in wide circles
+help 2018-12-23 05:05:45 I have no control over left and right
+help 2018-12-23 18:15:30 can go forward backwards but cant go left or right, any tips
+help 2018-12-23 21:41:21 ok, ill try to get one
+creations-chat 2018-12-23 21:46:37 <@!336538005676228610>  I liked your missile design, based one I made off yours, but it was really hard to turn. do you know how to get it easier to turn on a dime or partial on a dime

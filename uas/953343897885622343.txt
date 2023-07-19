@@ -1,0 +1,2 @@
+The Tale of deetis. (953343897885622343)
+bug-reports 2022-09-25 06:13:06 yeah so anyway, everyone knows this but the thing with signs currently is that when you click on them, they allow you to input text without the need to configure it. the same also applies to other people while your build is launched; they click the text once and can change it to whatever they want. it is both editable in build mode and when launched.

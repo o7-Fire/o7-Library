@@ -1,0 +1,2 @@
+The Tale of Chaos Insurgant.lys (851261619359055923)
+bug-reports 2023-06-02 02:26:19 I still don't know how to fix the issue of control surfaces breaking once I spawn, I place them on a plane and they freak out once I spawn

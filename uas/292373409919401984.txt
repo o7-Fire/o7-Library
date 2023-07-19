@@ -1,2 +1,57 @@
-nitrion
-plane-crazy 2019-09-02 01:19:09 Why do vehicles no longer shatter when you die?
+The Tale of _nitrion (292373409919401984)
+help 2019-02-22 23:13:35 I am trying to join the game but it keeps kicking me..
+help 2019-02-22 23:13:41 Can someone help please?
+help 2019-02-22 23:14:38 Okay. Thank you Curly.
+help 2019-02-22 23:15:26 it worked. Cheers again mate.
+bug-reports 2019-02-23 02:03:57 I am currently trying to turn the "steering" thing OFF on my wheels but they won't turn off and they are messing with my vehicle by flailing all about when I drive.
+bug-reports 2019-02-23 02:04:24 I tried resetting the game, the webpage, and my WIFI. And yet its still not turning off.
+bug-reports 2019-02-25 21:18:47 My wheels are loose in the game and keep flailing when I am using them even when I set the steering option to "off". Setting steering to "off" makes it a little better, but they are still loose and still flail about.
+help 2019-02-25 21:32:22 hey where can I report two people for spamming?
+bug-reports 2019-03-04 20:26:13 The motors do not work when they are set to lock. When I move them, They glitch out and appear far away from where they are supposed to be.
+creations-chat 2019-03-16 03:16:42 DRONE-A5210 | Username: Nitrionn | Block count of drone: 350 | Rank Requested: Advanced Technician
+creations-chat 2019-03-16 03:17:23 Dude, I don't care.
+creations-chat 2019-03-16 03:17:26 xD
+creations-chat 2019-03-16 03:17:37 I am proud of my creation
+creations-chat 2019-03-16 03:17:45 And its based off a drone so
+creations-chat 2019-03-16 03:17:47 ...
+creations-chat 2019-03-16 03:17:59 -_-
+creations-chat 2019-03-16 03:18:02 Rude,
+creations-chat 2019-03-16 03:18:41 Listen I'm just trying to get ranked, I don't need your sarcasm or input on my "drone" Idc if its manned or not I call it a drone.
+creations-chat 2019-03-16 03:19:05 I can see you deleting your messages and I've read all of them before you deleted them.
+creations-chat 2019-03-16 03:21:06 It's Advanced Technician lol not too high
+creations-chat 2019-03-16 03:22:26 Forgot to mention that the A5 has 3 bombs that can all be dropped individually, and it can hover without the use of anchor blocks.
+help 2019-03-16 03:36:27 what channel do I put the &suggest command in
+help 2019-03-16 03:38:36 Ok thanks
+reports 2019-12-24 06:17:04 Player: asdf1488
+Profile: https://www.roblox.com/users/451854385/profile
+Reason: Lag machine
+Evidence: https://gyazo.com/3b2e1109182443c3ca80a34953c9f26f
+reports 2020-03-23 01:03:48 User: Bsauce_michelishere
+Profile: https://www.roblox.com/users/644390671/profile
+Reason: Lag Machine
+Evidence: ||https://gyazo.com/2ed6d844180b73f953f32af0cf76600e ||
+bug-reports 2020-05-02 01:34:43 So I'm having an issue with motor 2s on one of my turrets
+bug-reports 2020-05-02 01:34:46 I have a video
+bug-reports 2020-05-02 01:35:07 its a .flv so you might need to convert it
+bug-reports 2020-05-02 01:35:11 
+bug-reports 2020-05-02 01:35:16 But idk what the hell is going on
+bug-reports 2020-05-02 01:35:23 They repeatedly glitch out
+bug-reports 2020-05-02 01:35:41 what is streamable
+bug-reports 2020-05-02 01:38:50 can I get a link?
+bug-reports 2020-05-02 01:41:03 its telling me I need a url
+bug-reports 2020-05-02 01:41:06 but the video is a file
+bug-reports 2020-05-02 01:41:53 nvm got it
+bug-reports 2020-05-02 01:42:48 https://streamable.com/mnsl1c
+bug-reports 2020-05-02 01:42:52 ok there
+bug-reports 2020-05-02 01:42:56 I need help
+bug-reports 2020-05-02 01:43:01 Motor 2's are broken
+bug-reports 2020-05-02 02:14:01 forwards
+bug-reports 2020-05-02 03:21:43 so can anyone help me
+bug-reports 2020-05-02 03:21:46 about the motor 2s
+reports 2020-05-03 20:30:07 User: xXway2gopokeXx
+Reason: Lag Bomb
+Profile: https://www.roblox.com/users/1245548898/profile
+Proof: https://gyazo.com/3f5b4ea8fb842b796a643a0c922fbbd3
+bot-central 2020-06-01 06:30:55 ?shelp
+bot-central 2020-11-06 17:34:02 ?shelp
+bug-reports 2020-11-08 07:03:21 You cant color the conveyor surface of a conveyor block without using the paint bucket feature

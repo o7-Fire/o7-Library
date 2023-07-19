@@ -1,25 +1,21 @@
-sayer80
-plane-crazy 2019-09-06 16:02:30 dude what does the summer event even give me
-plane-crazy 2019-05-31 14:28:17 why does she carry around 2 watermelons in the wind?
-plane-crazy 2019-05-31 14:05:41 so it wont have delay
-plane-crazy 2019-05-31 14:05:38 it client sided first and then remotevent
-plane-crazy 2019-05-31 14:05:32 pls make
-plane-crazy 2019-05-31 14:05:09 remote eevent
-plane-crazy 2019-05-31 14:05:07 pls fix
-plane-crazy 2019-05-31 13:56:48 oh
-plane-crazy 2019-05-31 13:56:47 where is  it saying
-plane-crazy 2019-05-31 13:56:41 where is the max build height?
-plane-crazy 2019-05-31 13:56:26 <@!435464209677942784> the tutorial doesnt tell me anything
-plane-crazy 2019-05-31 13:55:08 and his rocket can only be 39 blocks high
-plane-crazy 2019-05-31 13:55:02 if his rocket is too big the whole world lags
-plane-crazy 2019-05-31 13:54:55 in elon musk
-plane-crazy 2019-05-31 13:54:52 the aerodynamics say
-plane-crazy 2019-05-31 13:54:45 yes
-plane-crazy 2019-05-31 13:54:15 does the tutorial give me keybinds and max build height?
-plane-crazy 2019-05-31 13:53:47 oh nooo
-plane-crazy 2019-05-31 13:53:45 oh nop
-plane-crazy 2019-05-31 13:53:37 is there a max build height
-plane-crazy 2019-05-31 13:50:42 ah now i understand
-plane-crazy 2019-05-31 13:50:38 what
-plane-crazy 2019-05-31 13:50:19 and how to activate them
-plane-crazy 2019-05-31 13:50:02 what are the parts to drop off boosters?
+The Tale of sayer80 (541376138476519444)
+creations-chat 2019-05-30 17:10:31 how do you create those wheels instant reponse time without hackers being able to ruin it
+creations-chat 2019-05-30 17:11:05 what
+creations-chat 2019-05-30 17:11:34 when i give networkownership to someone he could do big stuff with it
+creations-chat 2019-05-30 17:11:37 like teleporting it
+creations-chat 2019-05-30 17:11:55 thats why i say
+creations-chat 2019-05-30 17:12:00 theres no backdoor
+creations-chat 2019-05-30 17:12:01 on the wheels
+creations-chat 2019-05-30 17:12:18 like how do you make it have an instant response time on the client and not be exploitable
+creations-chat 2019-05-30 17:13:11 you can give a player networkownership to a part so they can do anything they want to it and it will be serversided instead of clientsided
+creations-chat 2019-05-30 17:13:20 https://developer.roblox.com/articles/Network-Ownership
+help 2019-05-30 22:28:16 how do i steer better
+help 2019-05-30 22:28:26 it takes so long to finally rotate
+help 2019-05-30 22:28:53 oh i figured it out
+bug-reports 2019-05-30 22:36:25 when the seat is not upright but like rotated the steering is glitched out
+creations-chat 2019-05-30 22:40:14 Not mine it also lags out the whole server and it has a functioning door that is big like the white square u see at the bottom u can close it
+creations-chat 2019-05-30 22:45:19 because it made me quit the servre
+creations-chat 2019-05-30 22:45:21 server
+creations-chat 2019-05-31 12:34:25 
+bot-central 2019-05-31 15:33:49 !levels
+bot-central 2019-05-31 15:33:56 !leaderboard

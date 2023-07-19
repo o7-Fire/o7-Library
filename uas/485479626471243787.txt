@@ -1,2 +1,31 @@
-smugllar
-plane-crazy 2020-06-12 17:48:33 more lava should be added back to plane crazy
+The Tale of smugllar (485479626471243787)
+bug-reports 2020-10-16 00:10:57 When you make cameras point at something, when you load a save with them pointing somewhere, they reset to the default position
+bot-central 2020-10-17 18:58:28 ?shelp
+bot-central 2020-10-17 18:58:53 ?rhelp
+creations-chat 2020-10-17 19:12:06 hey i made it a while ago just decided to share
+creations-chat 2020-10-17 23:21:23 i'm trying to upload something to creations but it just immediately deletes it
+creations-chat 2020-10-17 23:22:24 oh ok but like it also said to use something like streamable or whatever... and also i had an imgur link but it still deleted it
+bot-central 2020-10-17 23:31:43 $new
+bot-central 2020-10-17 23:31:48 hmm yep
+bot-central 2020-10-17 23:31:58 :( i was really proud of the thing i made
+help 2020-10-19 14:51:08 what are the advantages of attaching something using motor lock instead of directly because motor lock confuses me a lot
+help 2020-10-19 15:02:51 the most i know is just condensing a couple blocks into eachother
+help 2020-10-19 15:03:46 i mean like yeah i know that it moves things half a block and have used it in some cases for just that but like why do people use motor lock to attach something like the top of a jet to the rest of it
+help 2020-10-19 15:05:33 ok
+help 2020-10-19 15:05:39 well thanks
+creations-chat 2020-10-19 17:15:22 https://i.imgur.com/ccZV1MD.jpeg looked much cooler in my head :(
+help 2020-10-20 13:38:51 i really hope im not too stupid for asking this but how do you place those decal things onto things like the sides of blocks
+help 2020-10-20 13:40:17 like do i put the decal id into the text spot
+help 2020-10-20 13:40:58 hmm let me get a picture of what im thinkin'
+help 2020-10-20 13:41:32 https://i.imgur.com/cpbwPwW.png from creations tab
+help 2020-10-20 13:45:37 https://i.imgur.com/55tiaOH.png what about something like this
+help 2020-10-20 13:46:24 so does doing emojis work
+help 2020-10-20 13:46:58 ok thamks
+help 2020-10-20 13:47:18 guessing ones like the middle finger
+help 2020-10-20 13:47:43 :( i cant believe you
+help 2020-10-20 13:47:56 ok well thanks
+creations-chat 2021-04-25 01:57:18 i literally did that by looking at a picture of a drone and looking up how drones work, i don't really like tutorials because then i'm not creative. feels bad how theres no way to prove my innocence
+creations-chat 2021-04-25 01:59:59 yeah i probably will when i feel like making it again
+creations-chat 2021-04-25 02:02:01 yooo innocence proven? how would i prove that i didnt is the better question
+creations-chat 2021-04-25 02:08:57 i wouldnt know; didn't look at any
+bot-central 2022-07-27 16:56:07 !help

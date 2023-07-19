@@ -1,7 +1,66 @@
-Pyro_.
-plane-crazy 2020-04-22 11:22:36 Has anyone made star trek stuff?
-plane-crazy 2020-04-22 11:20:56 It is a circle
-plane-crazy 2020-04-22 11:19:54 Then what shall I poorly recreate?
-plane-crazy 2020-04-22 11:18:34 <@!557172100545249281> Why are ironclads gay?
-plane-crazy 2020-04-22 11:17:37 Why?
-plane-crazy 2020-04-22 11:17:20 I've run out of ideas what shall I poorly make?
+The Tale of Pyro_. (286793767162347521)
+help 2021-03-07 07:01:53 I'm trying to make an armoured train and the motors for the turret aren't working.
+When I add a second "motor 2" the first motor which turns the turret stops working. Then when I remove the second motor it starts working again.
+help 2021-03-07 07:02:23 **1st Motor**
+help 2021-03-07 07:02:42 **2nd Motor**
+help 2021-03-07 07:03:13 1st one.
+help 2021-03-07 07:03:48 To pull the top part of the turret down to make it look connected
+help 2021-03-07 07:03:55 rather than leaving a gap.
+help 2021-03-07 07:04:36 
+help 2021-03-07 07:04:49 k
+help 2021-03-07 07:05:51 Works now. Cheers.
+help 2021-03-09 12:15:00 Any tips or common mistakes I should know before I attempt to recreate a car?
+help 2021-03-09 12:16:02 Stuff like:
+Where is best to start?
+What scale is best?
+How to create certain shapes that may be difficult
+
+Those immediately come to mind.
+help 2021-03-09 12:17:07 Car I'm attempting to create:
+help 2021-03-09 12:21:41 was planning on using motors and cylinders for wheels.
+help 2021-03-09 12:22:33 I should probably try small first eh?
+help 2021-03-09 12:22:47 oh.
+help 2021-03-09 12:23:08 holy shit.
+help 2021-03-09 12:23:59 I was going to attempt something this size at first
+help 2021-03-09 12:24:02 https://cdn.discordapp.com/attachments/384025409945337856/801991370444242984/RobloxScreenShot20210121_203621425.png
+help 2021-03-09 12:26:25 Please do.
+help 2021-03-09 12:26:55 I've not got much time atm I might ask her tomorrow if she's avaliable.
+help 2021-03-09 12:27:41 lol
+help 2021-03-09 12:33:26 The one who made the skyline?
+help 2021-03-09 12:33:59 He's given me someone else. I'm gonna see if they're avaliable tomorrow
+help 2021-03-09 12:34:25 what's MC?
+help 2021-03-09 12:34:34 oh. thought it was something irl
+help 2021-04-08 13:10:13 What's the best option for making tank tracks?
+help 2021-04-08 13:10:50 I see.
+help 2021-04-08 13:11:47 Also how would I configure them so that i could turn?
+help 2021-04-08 13:27:26 What design process should I follow to assist me when I'm creating a complex project/build?
+help 2021-05-22 01:26:25 How should I go about making a tank that can move and turn?
+In the past I used motors on cylinders but couldn't find a usable way to configure them.
+Thanks in advance.
+help 2021-05-22 01:32:59 That makes sense
+help 2021-05-22 01:36:00 You're both still going?
+help 2022-04-08 05:49:58 It it possible to make a 5 blade rotor for a helicopter?
+the-dump 2022-09-23 12:41:52 
+the-dump 2022-09-23 12:43:11 
+the-dump 2022-09-23 12:43:29 ^^
+the-dump 2022-09-23 12:43:52 I've had these extensions long before this started happening
+the-dump 2022-09-23 12:44:02 Tried that
+the-dump 2022-09-23 12:44:05 it still persists
+the-dump 2022-09-23 12:44:27 I've looked thru task manager for suspicious looking executables aswell
+the-dump 2022-09-23 12:48:58 How have I been hacked excusivly on chrome tho
+the-dump 2022-09-23 12:49:07 Since it's fine on edge on the same account
+the-dump 2022-09-23 12:49:22 
+the-dump 2022-09-23 12:49:28 
+the-dump 2022-09-23 12:49:45 I flicked them all to OFF
+the-dump 2022-09-23 12:49:54 Would I need to uninstall them
+the-dump 2022-09-23 12:50:27 from control panel or is there an uninstall executable for it?
+the-dump 2022-09-23 12:51:14 
+the-dump 2022-09-23 12:51:16 Do I delete browsing data?
+the-dump 2022-09-23 12:51:40 <@297120728342331392>
+the-dump 2022-09-23 12:52:19 I'll just tick it
+the-dump 2022-09-23 12:52:26 cover all my possible bases
+the-dump 2022-09-23 12:54:56 YAY'
+the-dump 2022-09-23 12:55:02 ticking it worked
+the-dump 2022-09-23 12:55:07 Ty all who tried to help.
+the-dump 2022-09-23 13:00:55 
+the-dump 2022-09-23 13:01:19 It's so small

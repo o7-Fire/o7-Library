@@ -1,0 +1,96 @@
+The Tale of fx9750gii (759251017287860244)
+bot-central 2021-10-16 02:48:33 !rank
+bot-central 2021-10-16 03:02:55 !rank
+bot-central 2021-10-16 03:04:15 !rank
+bot-central 2021-10-16 03:05:05 !rank
+bot-central 2021-10-16 03:05:34 -servers
+bot-central 2021-10-16 03:05:42 !rank
+bot-central 2021-10-16 03:09:36 !rank
+bot-central 2021-10-16 03:09:40 !rank
+bot-central 2021-10-16 03:18:27 !rank
+bot-central 2021-10-16 03:31:54 !rank
+bot-central 2021-10-16 03:37:42 !rank
+bot-central 2021-10-16 03:48:02 !rank
+bot-central 2021-10-16 04:11:13 !rank
+bot-central 2021-10-16 04:11:21 -servers
+creations-chat 2021-10-16 04:23:29 yess
+bot-central 2021-10-16 05:15:45 -servers33
+bot-central 2021-10-16 05:15:49 -servers
+bot-central 2021-10-16 05:25:01 !rank
+bot-central 2021-10-16 05:29:05 -servers
+bot-central 2021-10-16 19:59:49 ?shelp
+bot-central 2021-10-16 20:01:11 -servers
+bot-central 2021-10-21 03:21:07 -servers
+bot-central 2021-10-22 06:15:00 -servers
+help 2021-10-24 04:45:51 how to make suggenstion?
+bug-reports 2021-10-25 04:12:22 its a case of ghost blocks (blocks that were not fully deleted after the previus player left)
+bug-reports 2021-10-25 04:14:42 my computer i was making glitched out and is now breaking the srever and i cant do anything
+bug-reports 2021-10-25 04:17:40 thank god for auto save
+bug-reports 2021-10-25 04:50:02 my motor locking did this to my plane pls fix
+bug-reports 2021-10-25 04:51:10 no like in this build there is no anglr locking
+help 2021-10-28 06:42:12 is it still possible to get inventor rank?
+bug-reports 2021-10-29 06:31:29 lol
+bot-central 2021-11-01 06:01:23 $suggest heloween update/event rather than a contest
+bot-central 2021-11-01 06:04:06 oh
+bot-central 2021-11-03 02:51:27 -servers
+help 2021-11-03 02:52:23 how often do the pcc servers change link???
+creations-chat 2021-11-11 20:36:57 hey is saw u good job on plane
+bot-central 2021-11-20 05:22:59 !rank
+bot-central 2021-11-27 03:33:32 -servers
+bot-central 2021-12-23 00:50:52 -servers
+bot-central 2022-01-02 00:35:41 $suggest you guys should not put thousands of parts but do somthing like 
+local HalfWedge game.ReplicatedStorage.HalfWedge:Clone
+HalfWedge.Parent = game.Workspace
+put that into a click function
+help 2022-01-02 00:36:16 how to suggest
+bot-central 2022-01-02 00:36:53 ?shelp
+the-dump 2022-02-08 04:44:40 https://www.youtube.com/watch?v=5JKx_FUMZZw
+bot-central 2022-02-14 04:44:26 -servers
+bot-central 2022-02-15 06:21:42 -ms 10 10
+bot-central 2022-02-15 06:22:00 -ms 0 0
+bot-central 2022-05-16 07:21:43 -servers
+bot-central 2022-05-16 07:22:07 -servers
+bot-central 2022-05-16 07:22:17 !servers
+bot-central 2022-05-16 07:22:23 -servers
+bot-central 2022-05-16 07:22:24 -servers
+help 2022-05-16 07:23:51 the -servers command doent work
+help 2022-05-16 07:23:54 hello?
+help 2022-05-16 07:23:56 pls
+help 2022-05-16 07:24:00 help
+help 2022-05-16 07:24:07 it doing nothing
+help 2022-05-16 07:24:23 pls help
+bot-central 2022-05-17 04:16:59 -servers
+bot-central 2022-05-26 06:44:48 !rank
+bot-central 2022-05-26 06:44:58 -servers
+help 2022-05-26 06:47:10 y do the vip links not work
+help 2022-05-26 06:47:52 do they work for u?
+help 2022-05-26 06:48:19 wow u r xpert
+help 2022-05-26 06:48:24 rank
+help 2022-05-26 06:49:01 ok
+bot-central 2022-05-26 07:05:15 $suggest pls fix the glitch (idk if it is one) but the ui for the configure tool keeps changing
+help 2022-05-29 07:11:31 wait i heard there was a mc server what is the ip?
+bug-reports 2022-07-16 07:29:45 https://streamable.com/lzikaq huh? there is no anchor block and it dont move
+bug-reports 2022-07-16 07:59:52 but its got pyshics on
+bug-reports 2022-07-16 07:59:58 and if u watch
+bug-reports 2022-07-16 08:00:07 i used discontecter
+bug-reports 2022-07-16 08:00:14 and moved motor around
+bug-reports 2022-07-16 08:00:26 it was got 0 gravity
+bug-reports 2022-07-16 08:00:30 and not moving
+bug-reports 2022-07-16 08:00:43 i later took away the anchor block
+bug-reports 2022-07-16 08:00:47 same thing
+bug-reports 2022-07-16 08:00:50 WHY
+bug-reports 2022-07-17 02:19:26 ok thx but how do i fix
+bug-reports 2022-07-21 20:45:49 Idk what to say about this
+bug-reports 2022-07-21 20:45:56 https://streamable.com/cmlg8w
+bug-reports 2022-07-21 20:55:42 This might have been resolved but I think it's because of a small error in the ui service causing the game to think you are not ready to load in yet
+bot-central 2022-12-19 20:30:32 -servers
+bot-central 2022-12-19 20:30:47 -servers
+bot-central 2022-12-19 20:33:47 -servers
+contest-chat 2023-02-20 06:12:45 ⁵
+bug-reports 2023-03-20 05:14:51 bro agreed
+bot-central 2023-04-21 07:10:28 !servers
+bot-central 2023-04-21 07:10:34 -servers
+bot-central 2023-04-21 07:11:20 -servers
+bot-central 2023-04-21 07:11:23 -server
+bot-central 2023-04-21 07:12:32 -servers
+bot-central 2023-04-21 07:12:34 -servers

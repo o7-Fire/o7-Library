@@ -1,0 +1,11 @@
+The Tale of thedeadlymarauder (484155881886580736)
+bug-reports 2020-10-30 15:26:25 They know about the bugged trapdoors right?
+creations-chat 2020-11-09 17:01:57 > Do yall think i should put this in <#384025409945337856> for a chance at hof?
+<@509391216845258752>
+creations-chat 2020-11-09 17:07:05 Trigger guard could also be shorter, the rear in general needs work
+bug-reports 2020-11-18 13:41:11 Ghost heli O_o
+bot-central 2020-11-19 13:47:48 -underandom
+bot-central 2020-11-19 13:47:52 O_o
+bug-reports 2020-11-20 21:04:12 Is it just me or are the locked motors disconnecting when you turn them, like I use locked motors so my tank turret doesn't get pushed around and when I turn the turret it pops off like I've been ammo racked
+bug-reports 2020-11-20 21:04:50 Also whenever you press the keys to "turn" The motors after it has disconnected it will try and fuse back, flying across the map to reconnect
+bug-reports 2020-11-20 21:05:07 It only connects when you are holding down the key, once you let go it disconnects

@@ -1,27 +1,97 @@
-Lensilver
-plane-crazy 2020-06-22 12:50:29 Why the lava and water splitter ain't working?
-plane-crazy 2020-06-09 13:17:53 is the slow motion feature that slow down potentially laggy creations an official Roblox feature or it is a Plane Crazy function?
-plane-crazy 2020-06-09 06:54:09 Red means double track, pink means single track, grey means tunnel, light blue means cargo station, yellow means passenger station
-plane-crazy 2020-06-09 06:53:33 Something
-plane-crazy 2020-06-08 09:52:43 i think that is a bug
-plane-crazy 2020-06-08 09:52:37 <@!540991000752160809> You mean the side where the wheel connects on its axle?
-plane-crazy 2020-06-08 09:36:26 but have way too much moving parts
-plane-crazy 2020-06-08 09:36:19 However, Radials are still possible
-plane-crazy 2020-06-08 09:36:11 Which can be fixed by making the disc away from the tracks
-plane-crazy 2020-06-08 09:35:58 Because the middle wheel would derail the train
-plane-crazy 2020-06-08 09:35:51 You can't build "conventional" trucks
-plane-crazy 2020-06-08 09:35:39 By the way, one thing i've notice while testing the train wheels was this
-plane-crazy 2020-06-08 09:34:38 what is that? Rank for building trains?
-plane-crazy 2020-06-08 09:34:28 conductor rank?
-plane-crazy 2020-06-08 09:33:22 That is used on steam locomotives
-plane-crazy 2020-06-08 09:33:09 train wheels that don't have the disc for holding it on the track
-plane-crazy 2020-06-08 09:32:55 I think we really need blind train wheels
-plane-crazy 2020-06-08 09:32:09 The disc behind the wheel should be actually more distant from the track
-plane-crazy 2020-06-08 09:32:09 Yeah
-plane-crazy 2020-06-08 09:29:46 Altought they need some rework
-plane-crazy 2020-06-08 09:29:32 But speaking of the train wheels, they actually need to be strange like that
-plane-crazy 2020-06-08 09:28:39 I mean, i think we need bigger curves for tracks
-plane-crazy 2020-06-08 09:12:56 weird in which way?
-plane-crazy 2020-05-21 19:36:49 Just some tip
-plane-crazy 2020-05-21 19:35:21 Nothing too special, but attaching your train couplers into the trucks can make them very more smoother at curves
-plane-crazy 2020-05-21 15:24:22 Is this a good creation?
+The Tale of Lensilver (336990223991046144)
+help 2020-05-20 14:50:25 What is an outline?
+help 2020-05-20 19:01:08 I've building a passenger train that has a very high center of mass, hence making it easily to tip over on a curve. The locomotive is stable because of several jet engines found on the engine compartment of the irl counterpart. However the passenger cars doens't have such engines because of lack of space that i can hide them. How to i make it more stable with that in mind?
+help 2020-05-20 19:01:38 It is also worth mention it is not a steam engine, hence not slow. And i don't wanna run it at 20 MPH
+bot-central 2020-05-20 20:58:14 ?rhelp
+help 2020-05-20 21:06:50 in the Land vehicle must be capable of forward motion and turning at the <#609442446249820211> for the Terrain Specialist, is trains capable of turning? Or it needs actual steering power like a car?
+help 2020-05-20 22:52:07 Why on this creation where there is a vehicle being hold by an anchored tower, whenever it gets released from it the games slows down? it is not lag, the creation itself gets slower.
+help 2020-05-20 22:53:16 You mean, moving parts?
+help 2020-05-20 22:58:12 You mean, bad distributed thrusters? The locomotive got thrusters only from the center to the back, but that not cause any slowness at all
+help 2020-05-20 22:58:37 Also the coach's bogies are a solid prop made out of ice
+help 2020-05-20 22:59:01 The only articulation there is what makes it turn left and right at curves
+help 2020-05-20 22:59:37 And the coach's thrusters are also equally distributed
+help 2020-05-21 00:26:39 lmao
+help 2020-05-21 00:26:45 anyway thanks for the help
+help 2020-05-21 14:39:33 Why i can't place certain blocks in certain places?
+help 2020-05-21 14:40:01 This half beam automatically gets pushed away every time i try to fill that hole on the roof
+help 2020-05-21 15:19:27 Well, i can't move my build in most cases, since i build giant contraptions, it makes impossible to move them
+help 2020-05-21 15:40:14 As i said, big contraptions where it reaches the limits of the building area makes it hard to move it
+help 2020-05-21 15:40:21 Also, why i shouldn't reload?
+help 2020-05-21 15:52:52 Thats what i did
+help 2020-05-21 21:03:09 How do i send a suggestion?
+help 2020-05-21 21:05:27 Thanks
+bot-central 2020-05-21 21:05:48 ?shelp
+help 2020-05-21 21:07:22 Also, when getting the terrain specialist rank, it claims that every single part should be attached to the creation
+help 2020-05-21 21:07:38 However, i've got kind of a technique for building trains
+help 2020-05-21 21:08:08 On the side of the locomotive, there is a anchored tower that goes right through the top of the building area
+help 2020-05-21 21:08:15 And the cars are attached to this tower
+help 2020-05-21 21:08:33 When i run the train, the cars fall from the tower, land on the tracks and the tower then come obsolete
+help 2020-05-21 21:08:51 Is that against the "Every single part should be attached..." rule?
+creations-chat 2020-05-21 23:08:35 Amtrak train i've created in about 2 days, a little bit off-scale but thats related to the building limits
+creations-chat 2020-05-21 23:10:54 Because like
+creations-chat 2020-05-21 23:10:59 I want to
+help 2020-05-22 17:33:41 
+help 2020-05-22 17:33:51 
+help 2020-05-22 17:34:04 Any suggestions for making this closer to the real model?
+help 2020-05-22 19:43:57 he is lying
+help 2020-05-22 20:02:55 There is any trick that i've should do when using rocket engines
+help 2020-05-22 20:03:01 Because it seems like this doens't work
+help 2020-05-22 20:09:27 This rocket engine just doens't recieve any commands
+creations-chat 2020-05-22 23:59:30 EMD F7 Diesel-Electric freight locomotive. Painted in the Grat Northern scheme, it is my best locomotive so far, doens't have a lot of functions though.
+creations-chat 2020-05-23 00:02:21 Ok
+creations-chat 2020-05-23 00:02:44 <@!551806781609869313> Also personal preference
+creations-chat 2020-05-23 00:03:48 thanks
+help 2020-05-23 13:34:04 There is any way to reduce lag when building something big?
+bot-central 2020-05-23 16:17:07 !help
+bot-central 2020-05-23 16:17:47 ?shelp,
+bot-central 2020-05-23 16:17:49 ?shelp
+help 2020-05-23 16:20:11 There is any specific channel to post suggestions?
+help 2020-05-23 16:20:20 Or just put the message in any chat?
+help 2020-05-23 17:01:52 Ok, thanks for the help
+help 2020-05-23 19:04:51 How do i destroy something on a non PVP server?
+help 2020-05-23 19:05:10 I mean, i need to get rid of something
+help 2020-05-23 19:05:24 But i cannot do that while in build mode
+help 2020-05-23 19:45:53 This is a technique that i've created for building both big and long trains. The cars are being hold by an anchored block, and they fall after the are below them be completely clear. But when the top coach falls into the track, the game slows down because of the size of the cars. There is any way to increase the game speed with this?
+help 2020-05-27 21:48:01 Between the drive wheels "Bix wheels", should i give a space between them or no?
+help 2020-05-27 21:54:43 <@!335176451038904331> You just need conventional wheels
+help 2020-05-27 21:55:15 Like this
+help 2020-05-27 21:55:22 A wheel for run into the tracks
+help 2020-05-27 21:55:27 and another hold the train
+help 2020-05-27 22:00:09 If you're building a diesel locomotive, it should be articulated like this
+help 2020-05-27 22:00:36 In this case, each axle has its own second wheel who keeps the train on the tracks
+help 2020-05-27 22:01:08 And each pair of axle is connected to a truck, which is connected through an axle to the body of the locomotive
+the-dump 2020-05-27 23:42:53 
+the-dump 2020-05-27 23:42:55 samir
+the-dump 2020-06-05 23:45:47 https://www.roblox.com/games/507552824/Vendo-Opel-Corsa?refPageId=6f9193a4-f749-4e1e-a816-764a26d3d2be
+the-dump 2020-06-05 23:45:54 Imagine using ROBLOX to sell your car
+bug-reports 2020-06-07 03:57:45 Train wheel's hitbox is uncorrect
+bug-reports 2020-06-07 03:57:51 This motor is connected to the wheel
+help 2020-06-08 09:15:08 Why my unpowered motors aren't spinning?
+help 2020-06-08 09:15:23 They're acting like they are powered/locked ones
+help 2020-06-08 09:15:31 but still not having any of these on
+bug-reports 2020-06-08 09:17:38 Motor's are broken. The articulation doens't have physics, and when connected with something, acts like an actual block
+bug-reports 2020-06-09 03:52:52 Train wheel's disc that hold it on the tracks are way too close to the tracks, which can result in derailents by two ways: One by creating a 6 axle train truck, where the middle axle derails by being  forced against the track on a curve. The second way is by the wheels jumping from the tracks while entering a curve, as the discs climb the rails
+help 2020-06-09 06:19:18 Anybody had already made a image of the map of Plane Crazy?
+bug-reports 2020-06-09 07:01:05 train wheels doens't save colors
+bug-reports 2020-06-09 07:01:31 also, any kind of motor or block that contain special functions don't accept materials
+bug-reports 2020-06-09 09:01:53 why tho
+bug-reports 2020-06-09 09:02:47 weird
+help 2020-06-09 13:20:22 How do i prevent my big creation to be slowed down by Roblox physics?
+help 2020-06-09 13:20:40 Any techniques or tips for avoiding that?
+help 2020-06-24 18:06:05 It is possible to avoid the slow motion feature by connecting the entire contraption together?
+help 2020-06-24 18:06:27 Like using ropes or anything else
+help 2020-06-26 22:32:24 Folding creations like ships or planes can be affected by lag?
+creations-chat 2020-10-03 22:52:01 quite too big ngl
+creations-chat 2020-10-03 22:52:19 but still nice, nice job on it
+creations-chat 2020-10-03 22:53:06 tbh i only care abut truck size due to the trailer, i build mine quite small so i can acomodate the double trailer
+creations-chat 2020-10-03 22:53:46 Now the angles on your truck like the mirrors and the 5th wheel are looking neat
+creations-chat 2020-10-03 22:54:27 btw do you pretend to add a trailer to it? just curious
+creations-chat 2020-10-03 22:55:18 F.
+creations-chat 2020-10-03 22:55:48 Jesus that is oversized
+creations-chat 2020-10-03 22:56:27 i wasn't expecting something that big
+creations-chat 2020-10-03 22:57:43 rip
+creations-chat 2020-10-03 22:58:10 Dodge Dart
+creations-chat 2020-10-03 22:58:37 1975, try looking for Brazilian models, specially the "Charger R/T" dart
+creations-chat 2020-10-03 22:58:54 It is a sport Dart made only in Brazil
+creations-chat 2020-10-03 22:59:19 Then do the mom car
+creations-chat 2020-10-03 23:00:08 Ew supercar

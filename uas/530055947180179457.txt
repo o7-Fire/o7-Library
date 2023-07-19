@@ -1,0 +1,30 @@
+The Tale of fluffyboom (530055947180179457)
+the-dump 2019-07-20 18:17:00 Hey everyone, I won't put out a ping for this, but if you see it definitely forward this message to your friends on the platform. A few weeks ago a few individuals ran a phishing scheme on discord, via a fake link: <discordgg.ga>. Clicking this link (disguised as a free gift of nitro) would take a user to a login page indistinguishable from the real discord. You'd type in your info, and thusly, compromise your account. News is spreading like wildfire that these so called "hackers" will try again soon. The 27th to be specific. While steps like enabling 2FA can certainly help if it's an option for you, the long and short is follow the biggest, simple, online safety rule:
+
+Don't click on suspicious links.
+
+They're not hackers, they're scammers. They can't compromise your account with a bot, or with any external means other than you physically letting them in through your own action. Just be safe, and you'll be quite alright.
+the-dump 2019-07-20 18:19:40 Yep
+the-dump 2019-07-20 18:19:58 Just felt like putting it incase anyone didn't know about it
+the-dump 2019-07-20 18:28:27 Ik
+the-dump 2019-07-20 18:28:33 But you can never be sure...
+the-dump 2019-07-20 18:29:00 Some people (like me) live under a rock
+creations-chat 2020-01-11 01:36:00 Helicopter, 220 blocks, 180 max speed, VTOL Engineer 1 if possible
+creations-chat 2020-01-11 01:36:07 
+help 2020-01-11 22:52:44 Helicopter, 220 blocks, 180 max speed, VTOL Engineer 1 if possible
+help 2020-01-11 22:52:45 
+bot-central 2020-01-12 17:00:09 !servers
+bot-central 2020-08-26 01:18:45 !help
+bot-central 2020-08-26 01:19:02 !servers
+bot-central 2020-10-31 18:37:29 !servers
+bot-central 2020-11-26 15:06:15 !servers
+bot-central 2020-11-26 18:40:12 !rank
+bot-central 2020-12-05 14:47:05 !servers
+bot-central 2020-12-17 03:09:08 !servers
+bot-central 2020-12-18 02:29:42 !servers
+bot-central 2021-01-10 04:26:43 !rank
+bot-central 2021-01-10 04:27:11 !servers
+bot-central 2021-02-15 23:33:51 !servers
+bot-central 2023-01-09 12:40:30 !rank
+bot-central 2023-01-09 12:42:49 -servers
+bot-central 2023-01-09 13:45:52 ?whois
