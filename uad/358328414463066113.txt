@@ -1,0 +1,772 @@
+The Tale of 47hao (358328414463066113)
+creations-chat 2020-07-01 16:08:38 ok so... paint shading is actually op
+creations-chat 2020-07-01 16:08:40 
+creations-chat 2020-07-01 16:08:51 unshaded bow
+creations-chat 2020-07-01 16:08:53 
+creations-chat 2020-07-01 16:08:54 vs shaded bow
+creations-chat 2020-07-01 16:13:23 Why
+creations-chat 2020-07-02 05:03:46 <@!417484722239963136> does that bruhpache have a working swashplate
+general 2020-07-02 05:07:13 ive never lost a save before I don't understand
+general 2020-07-02 05:07:18 is this something I should be scared of
+general 2020-07-02 05:07:22 anything I can do to prevent
+general 2020-07-02 05:10:50 LCAC
+general 2020-07-02 05:10:55 with tonks inside
+general 2020-07-02 05:11:06 idk i heard the hover engines dont scale well though
+general 2020-07-02 05:11:09 might be worth a try still
+creations-chat 2020-07-02 14:47:23 <@356231361344045057> did u end up finishing ur yamato in the build space
+creations-chat 2020-07-02 14:47:33 Didnt look like itd fit to me
+creations-chat 2020-07-02 14:47:42 I will be pleasantly surprised if u did
+creations-chat 2020-07-02 15:59:18 dang teach me your ways
+creations-chat 2020-07-02 15:59:20 ropes??
+creations-chat 2020-07-02 15:59:26 i mean i made one that works like a real swashplate
+creations-chat 2020-07-02 15:59:35 im not big brain enough to figure out a plane crazy specialized one
+creations-chat 2020-07-02 16:00:00 also wouldn't be surprised if it's been done before, but has anyone seen a falcon 9 with lockmotor grid fins
+creations-chat 2020-07-02 16:00:41 wait but
+creations-chat 2020-07-02 16:00:44 how do the ropes actuate the blades
+creations-chat 2020-07-02 16:01:18 moves swashplate as in spins it?
+creations-chat 2020-07-02 16:01:25 wait the ropes get twisted?
+creations-chat 2020-07-02 16:01:40 anyone have like a reference/screenshot that I can investigate/copy idk
+creations-chat 2020-07-02 16:01:53 center of mass is back
+creations-chat 2020-07-02 16:01:57 and having wings in the back causes drag
+creations-chat 2020-07-02 16:02:06 so it'll tilt back when upward force is applied
+creations-chat 2020-07-02 16:02:23 orly
+creations-chat 2020-07-02 16:02:36 i heard smth about heli blades being proportional to the heli's mass or size or something
+creations-chat 2020-07-02 16:02:47 idk why though
+plane-crazy 2020-07-02 16:06:05 ^^ I'm struggling with that too, the tail rotor causes heli to drift in one direction
+plane-crazy 2020-07-02 16:06:12 also how does one bruhplate
+creations-chat 2020-07-02 16:08:09 <@!417484722239963136> any chance u can leek bruhpache swooshplate design? if it's ur own then nvm but if it's a common thing I'd like to see
+creations-chat 2020-07-02 16:09:03 i've never seen it in person or anywhere else
+creations-chat 2020-07-02 16:09:12 besides like sakura screenshots
+creations-chat 2020-07-02 16:09:20 sweet
+creations-chat 2020-07-02 16:10:35 heck
+creations-chat 2020-07-02 16:10:39 no helium no stahp
+creations-chat 2020-07-02 16:10:44 helium bad, heavy ballast bad
+creations-chat 2020-07-02 16:10:50 just spam pontoons/lightest ballast at the waterline, on the hull sides
+plane-crazy 2020-07-02 16:37:37 my god
+plane-crazy 2020-07-02 16:37:48 that's excessively excessive yet super amazing
+plane-crazy 2020-07-02 16:38:07 lots of lock motors
+plane-crazy 2020-07-02 16:38:10 ?
+plane-crazy 2020-07-02 16:38:39 dang yeah
+creations-chat 2020-07-02 18:36:24 ? what
+creations-chat 2020-07-02 18:36:28 oh earlier lol
+creations-chat 2020-07-02 18:44:25 why dont people just use half cylinder rollers for ez retention lol
+creations-chat 2020-07-02 18:44:32 hate when they put guides on the sidess of the tracks
+creations-chat 2020-07-02 18:45:15 yamato turrets, old(right) vs new(left)
+creations-chat 2020-07-02 18:46:01 lockmotors are magical
+creations-chat 2020-07-02 18:46:04 looks so much better
+creations-chat 2020-07-02 21:40:56 anyone have a better way to make ship railings
+creations-chat 2020-07-02 21:40:58 
+creations-chat 2020-07-02 21:41:04 lockmotoring ladders down is SO annoying for curved parts
+creations-chat 2020-07-02 21:42:57 yeah but then it just doesn't go in...
+creations-chat 2020-07-02 21:42:59 
+creations-chat 2020-07-02 21:43:15 guess i could use disconnectors? let the railing sink down 1 after turning the railings
+creations-chat 2020-07-02 21:43:29 the motor2 is locked into the hull,, but struggles to move the railing in
+creations-chat 2020-07-02 21:44:00 
+creations-chat 2020-07-02 21:44:13 im trying to turn the railing in
+creations-chat 2020-07-02 21:44:21 but since i sink it half a block, it collides with the hull and glitches out
+creations-chat 2020-07-02 21:44:33 I think i have to turn it in, THEN lock it down?
+creations-chat 2020-07-02 21:46:52 hhh bruh
+creations-chat 2020-07-02 21:47:02 that could look okay but.. might miss vertical poles
+creations-chat 2020-07-02 21:47:58 oh wait looks promising
+creations-chat 2020-07-02 21:48:03 ww1 boats ugly smh
+creations-chat 2020-07-02 21:48:46 i dont like the chonky straight hulls
+creations-chat 2020-07-02 21:49:30 why not?
+creations-chat 2020-07-02 21:49:32 lockmotor?
+creations-chat 2020-07-02 21:50:06 
+creations-chat 2020-07-02 21:50:09 wait that's pretty good lmao
+creations-chat 2020-07-02 21:50:14 i welded it with maget
+creations-chat 2020-07-02 21:50:27 oh that landing pad is so sick
+creations-chat 2020-07-02 21:50:50 also is there a reason why everyone seems to like half wedges and such for hulls, instead of triangle wedges?
+creations-chat 2020-07-02 21:51:33 cus like
+creations-chat 2020-07-02 21:51:41 half wedges look kinda rough
+creations-chat 2020-07-02 21:51:50 but triangle wedges r so smooth and nice
+creations-chat 2020-07-02 21:51:52 
+creations-chat 2020-07-02 21:52:03 if anyone has a smooth lookin half wedge hull
+creations-chat 2020-07-02 21:52:04 pls send pic
+creations-chat 2020-07-02 21:53:01 I just make parametric curves in solidworks or autodesk inventor, sample slopes at various points, and do the math
+creations-chat 2020-07-02 21:53:18 then u know what mix of straight blocks and 1x4's to use
+creations-chat 2020-07-02 21:53:31 cus like if uw ant a slope of 1/9 its a 1x4 with 5 striaght blocks around it right
+creations-chat 2020-07-02 21:53:39 how else do ppl do hulls
+creations-chat 2020-07-02 21:54:00 fair point
+creations-chat 2020-07-02 21:54:09 im more of an artist than engineer so...
+creations-chat 2020-07-02 21:54:15 fair bit of compensation with my paintjob though
+creations-chat 2020-07-02 21:55:41 wait what? like the brush would antialias?
+creations-chat 2020-07-02 21:55:59 llemme just uhhh paint the bow all flat color to show shading op
+creations-chat 2020-07-02 21:57:10 
+creations-chat 2020-07-02 21:57:12 unshaded bow
+creations-chat 2020-07-02 21:57:20 not as super smooth
+creations-chat 2020-07-02 21:57:45 yah
+creations-chat 2020-07-02 21:58:26 ok also so uh
+creations-chat 2020-07-02 21:58:38 since i have like 8 different sets of railings at different angles
+creations-chat 2020-07-02 21:58:48 should I just play wiht the speed, and use locking motor 1s?
+creations-chat 2020-07-02 21:58:58 <@!429826358827417601>
+creations-chat 2020-07-02 22:00:20 
+creations-chat 2020-07-02 22:00:24 ultra flat turret ring is satisfy
+creations-chat 2020-07-02 22:00:31 ignore crumbled turret
+creations-chat 2020-07-02 22:00:33 thank
+creations-chat 2020-07-02 22:00:56 do yall think it's expert shipwright qual or whats it missing
+creations-chat 2020-07-02 22:01:33 made it all before lockmotor was a thing so im now overhauling it hard
+creations-chat 2020-07-02 22:01:51 i got shipwright... 4? maybe i forget
+creations-chat 2020-07-02 22:02:00 gonna reapply when its done ig
+creations-chat 2020-07-02 22:02:19 how do i even see my own role
+creations-chat 2020-07-02 22:02:25 am discord nub
+creations-chat 2020-07-02 22:02:47 ah thanks
+creations-chat 2020-07-02 22:02:50 yep an IV
+creations-chat 2020-07-02 22:03:11 wait actually t's 5k blocks or so, not enough blocks yet lol
+creations-chat 2020-07-02 22:04:27 oh that's nice
+creations-chat 2020-07-02 22:04:33 oh shoot u need like 6k for master though
+creations-chat 2020-07-02 22:04:37 or expert im ean
+creations-chat 2020-07-02 22:04:46 oh wait im dumb
+creations-chat 2020-07-02 22:05:05 seems rlly difficult to get lots of upvotes...
+creations-chat 2020-07-02 22:05:10 do ppl post at smart times of day
+creations-chat 2020-07-02 22:05:27 or do more people see that channel than im thinking
+creations-chat 2020-07-02 22:06:11 ah
+creations-chat 2020-07-02 22:06:34 imagine thinking 1x7 is the most efficient block
+creations-chat 2020-07-02 22:06:44 real poggers know it's the 3x3 pontoon, covers 9 blocks
+creations-chat 2020-07-02 22:06:53 
+creations-chat 2020-07-02 22:06:56 cafe floor lol
+creations-chat 2020-07-02 22:07:10 
+creations-chat 2020-07-02 22:07:11 yah
+creations-chat 2020-07-02 22:07:12 it's
+creations-chat 2020-07-02 22:07:15 "hotel yamato" haha funny
+creations-chat 2020-07-02 22:07:27 
+creations-chat 2020-07-02 22:07:51 the other day I showed someone the ship
+creations-chat 2020-07-02 22:08:11 they trashed all over it, said it'd be nothing against the ships in vip servers
+creations-chat 2020-07-02 22:08:17 threw around purifiedwater's name and all
+creations-chat 2020-07-02 22:08:31 so ig that's why im remodeling it
+creations-chat 2020-07-02 22:09:20 a friend build this thing like months ago
+creations-chat 2020-07-02 22:09:31 I was just gonna repaint it for him
+creations-chat 2020-07-02 22:09:38 but now I'm redoing tons of stuff with motor2 lol
+creations-chat 2020-07-02 22:09:53 so I've been working on it for like ~10 hours
+creations-chat 2020-07-02 22:10:20 he has 24 hours on the gear thing
+creations-chat 2020-07-02 22:10:49 this is his alt tho he's prob got more on other accs idk
+creations-chat 2020-07-02 22:12:12 
+creations-chat 2020-07-02 22:12:15 any ideas for this empty space
+creations-chat 2020-07-02 22:13:36 movie theatre,, edm floor, cafeteria, 16 suites, master head, pool are in
+creations-chat 2020-07-02 22:13:38 so what else lol
+creations-chat 2020-07-02 22:14:03 also what's the benefit of this hull technique? I see it so often but never figured out why
+creations-chat 2020-07-02 22:15:46 it's harder to build, looks worse(imo), more blocks...
+creations-chat 2020-07-02 22:15:51 does it float better or something?
+creations-chat 2020-07-02 22:16:01 not roasting the build, just curious why EVERY other nice ship I've seen does this
+creations-chat 2020-07-02 22:16:33 why not use wedges to round out the edges of that
+creations-chat 2020-07-02 22:16:41 yeah
+creations-chat 2020-07-02 22:17:08 its really nice, u use a reference?
+plane-crazy 2020-07-02 22:18:34 let's write a roblox bot that uses machine learning to recognize shredders and ban them instantly
+plane-crazy 2020-07-02 22:18:51 #1 application of neural networks
+creations-chat 2020-07-02 22:21:40 I meant reference image lol
+creations-chat 2020-07-02 22:41:57 Objectively
+creations-chat 2020-07-02 22:42:02 I think it looked cleaner white
+plane-crazy 2020-07-03 01:39:48 had a random idea that could be hella spicy
+plane-crazy 2020-07-03 01:39:52 wright flyer with legit wing warping
+creations-chat 2020-07-03 01:51:16 anyone know of the british APT train
+creations-chat 2020-07-03 02:28:22 <@!397375741664165888> is that a nebulon B next to u
+bug-reports 2020-07-03 02:34:50 
+bug-reports 2020-07-03 02:35:01 anchors are with physics off
+bug-reports 2020-07-03 02:35:08 motors with lock on do not move any blocks
+bug-reports 2020-07-03 02:35:13 but rotate if unloaded
+bug-reports 2020-07-03 02:35:18 is this a bug or intentional?
+creations-chat 2020-07-03 03:03:44 bob ross bruh
+creations-chat 2020-07-03 03:03:52 that's gotta be near 10k blocks for final right
+creations-chat 2020-07-03 03:04:08 100x100 is pretty crazy on data
+creations-chat 2020-07-03 03:13:10 oh please no
+creations-chat 2020-07-03 03:13:12 just use motors
+creations-chat 2020-07-03 03:13:23 oh nvm u used linear actuators... have fun
+creations-chat 2020-07-03 03:43:40 I thought of making a nebulon, realized it could look awesome cus it's spindly and can fold pretty hard
+creations-chat 2020-07-03 03:45:03 then I made a 5-plot-wide snoke ship thing instead
+creations-chat 2020-07-03 15:12:25 
+creations-chat 2020-07-03 15:12:29 ship deck starting to get out of hand
+creations-chat 2020-07-03 15:12:46 
+creations-chat 2020-07-03 15:12:51 borderless and half height railing
+creations-chat 2020-07-03 16:32:58 wait yeah u can put a block there and still have it work
+creations-chat 2020-07-03 16:33:12 i also am very uncomfortable with the idea of a 1 wide bow tip
+creations-chat 2020-07-03 16:33:21 i may just be too perfectionist
+creations-chat 2020-07-03 16:33:44 must. have. *SMOOOTH* bow
+plane-crazy 2020-07-03 16:34:00 nothing like
+plane-crazy 2020-07-03 16:34:07 encountering 3 ppl with shredders
+plane-crazy 2020-07-03 16:34:10 in non-pvp
+plane-crazy 2020-07-03 16:34:33 hmmm
+creations-chat 2020-07-03 16:35:26 bruhhh my WIP yamato got 60 votes...
+creations-chat 2020-07-03 16:35:44 bro the motor is connected to the front hull
+creations-chat 2020-07-03 16:35:52 u can definitely rpelace the lower half block with a full block
+creations-chat 2020-07-03 17:12:54 wing shape isn't quite right lol
+creations-chat 2020-07-03 17:12:56 the tails cool tho
+creations-chat 2020-07-03 17:18:30 ship deck detailing improvements
+creations-chat 2020-07-03 17:18:33 before
+creations-chat 2020-07-03 17:18:33 
+creations-chat 2020-07-03 17:18:41 and after
+creations-chat 2020-07-03 17:19:04 also extended planks to the edge
+creations-chat 2020-07-03 17:19:19 eliminated the thick gray stripe from the armor
+creations-chat 2020-07-03 17:19:49 hmmm my WIP screenshot got 60 votes, but it's under 6k so no master shipwright :C
+creations-chat 2020-07-03 17:23:29 these r the dimensioned blueprints I used for yamato
+creations-chat 2020-07-03 17:23:38 outlined folds and determined scale
+creations-chat 2020-07-03 17:25:00 yeh ppl are like "ur build is a bit thick"
+creations-chat 2020-07-03 17:25:04 and im like nah, it's within .5 meter scale
+creations-chat 2020-07-03 17:25:08 yamato is just thick
+creations-chat 2020-07-03 17:25:09 yah
+creations-chat 2020-07-03 17:25:27 getting all the proportions and outlines is easy with dimensioned blueprints
+creations-chat 2020-07-03 17:25:45 had to squint at the model in autodesk inventor to try to figure out hull curvature
+creations-chat 2020-07-03 17:26:21 nah not for sizing and stuff tho
+creations-chat 2020-07-03 17:26:34 getting beam, draft, length, turret relative sizes and everything
+creations-chat 2020-07-03 17:26:35 yep
+creations-chat 2020-07-03 17:26:39 look at the image
+creations-chat 2020-07-03 17:26:43 it made it super easy to figure out folds
+creations-chat 2020-07-03 17:26:56 nah but i need within-1-block precision
+creations-chat 2020-07-03 17:27:05 yeah i made all the measurements on that imagei  sent tho
+creations-chat 2020-07-03 17:27:11 nah just do it urself
+creations-chat 2020-07-03 17:27:12 ez
+creations-chat 2020-07-03 17:27:19 the image i found online didnt have it
+creations-chat 2020-07-03 17:27:24 all those green lines r what i did to figure out
+creations-chat 2020-07-03 17:27:26 and numbers
+creations-chat 2020-07-03 17:27:29 ah ok
+creations-chat 2020-07-03 17:27:49 much better
+creations-chat 2020-07-03 17:27:51 like 10x better
+creations-chat 2020-07-03 17:28:25 yeah lowkey half the reason i upvoted
+creations-chat 2020-07-03 17:28:27 was cus u said not to
+creations-chat 2020-07-03 17:28:30 pyschology 100
+creations-chat 2020-07-03 17:34:26 replace the first 1x2 with a 1x1
+creations-chat 2020-07-03 17:34:32 and move the rest 1x2's back
+creations-chat 2020-07-03 18:50:22 lmao jsut shoot down the cutters with a half decent plane
+creations-chat 2020-07-03 18:51:21 better wings
+creations-chat 2020-07-03 20:26:30 starcraft gang
+creations-chat 2020-07-03 20:26:53 <@!419477639229865984> u ever make a banshee
+creations-chat 2020-07-03 20:27:01 oh a hellion that transforms into hellbat could be sick
+creations-chat 2020-07-03 20:31:40 <@!419477639229865984> a toss carrier would be sick
+creations-chat 2020-07-03 20:31:46 but I think the terran transforming things woudl be insane
+creations-chat 2020-07-03 20:31:50 like a mech transforming viking
+creations-chat 2020-07-03 20:32:01 showwww
+creations-chat 2020-07-03 20:32:05 do the treads move and all
+creations-chat 2020-07-03 20:32:17 super detailed back turret done now
+creations-chat 2020-07-03 20:32:27 oh shoot the rangefinders fell off brb
+creations-chat 2020-07-03 20:38:27 shooot that's so legit bro
+creations-chat 2020-07-03 20:38:44 siege tank's nice and the pheonix looks amazing
+creations-chat 2020-07-03 20:38:48 how's the handling on it lol
+creations-chat 2020-07-03 20:46:26 dang I'd considered some starcraft before, but ur straight up hardcore sc builds
+creations-chat 2020-07-03 20:46:32 the smoke clothes are big brain
+creations-chat 2020-07-03 22:24:17 old stern
+creations-chat 2020-07-03 22:24:17 
+creations-chat 2020-07-03 22:24:30 
+creations-chat 2020-07-03 22:24:31 new stern WIP
+creations-chat 2020-07-03 22:26:21 ? smth wrong?
+creations-chat 2020-07-03 22:26:45 <@!389502733490716673>
+creations-chat 2020-07-03 22:27:19 its accruate
+creations-chat 2020-07-03 22:27:43 
+creations-chat 2020-07-03 22:27:53 the barrel is made of pairs of cylinder2
+creations-chat 2020-07-03 22:27:55 it's not cylinderse
+creations-chat 2020-07-03 22:28:11 
+creations-chat 2020-07-03 22:28:12 looks good enough imo
+creations-chat 2020-07-03 22:28:35 smoke?
+creations-chat 2020-07-03 22:28:45 
+creations-chat 2020-07-03 22:28:49 there?
+creations-chat 2020-07-03 22:29:08 its pontoons too
+creations-chat 2020-07-03 22:29:08 
+creations-chat 2020-07-03 22:30:47 what
+creations-chat 2020-07-03 22:30:49 
+creations-chat 2020-07-03 22:30:53 working on smooothing out deck edge now
+creations-chat 2020-07-03 22:31:33 naaah 😉
+creations-chat 2020-07-03 22:31:39 I'm gonna gun for master shipwright
+creations-chat 2020-07-03 22:31:54 so ill show the full thing then
+creations-chat 2020-07-03 22:32:02 sneek peek inside
+creations-chat 2020-07-03 22:33:20 still have to paint metal deck, redo secondaries, redo AA mounts, do catapults, finish redoing stern, extend railings
+creations-chat 2020-07-03 22:33:40 that's pretty dank
+creations-chat 2020-07-03 22:33:43 does it drop depth charges
+creations-chat 2020-07-03 22:34:09 the shape is really solid
+creations-chat 2020-07-03 22:34:18 some painting would get it to go the extra mile
+creations-chat 2020-07-03 22:34:21 yeahhh i saw that
+creations-chat 2020-07-03 22:34:29 replace with disconnectors or something?
+creations-chat 2020-07-03 22:34:38 or are thew indows half blocks
+creations-chat 2020-07-03 22:34:48 can us end a closeup pic in build mode
+creations-chat 2020-07-03 22:35:14 
+creations-chat 2020-07-03 22:35:18 unfolded turret is a monstrosity
+creations-chat 2020-07-03 22:35:50 
+creations-chat 2020-07-03 22:35:53 cute AA gun is cute
+creations-chat 2020-07-03 22:36:05 i showed it a while ago
+creations-chat 2020-07-03 22:36:17 my painted bow pic got freaking 60 upvotes surprisingly
+creations-chat 2020-07-03 22:36:26 search "yamato" and scroll ig
+creations-chat 2020-07-03 22:36:29 duh
+creations-chat 2020-07-03 22:36:38 i might be tooting my own horn but
+creations-chat 2020-07-03 22:36:42 i blieve its the nicest bow ive seen
+creations-chat 2020-07-03 22:37:00 yeah.... discon's would be tough cus they're half blocks
+creations-chat 2020-07-03 22:37:13 yeah motor lock a top thing?
+creations-chat 2020-07-03 22:37:15 why should I use motors
+creations-chat 2020-07-03 22:37:19 well
+creations-chat 2020-07-03 22:37:25 how compact is it
+creations-chat 2020-07-03 22:37:32 it'd interfere w/ the master bedroom likely
+creations-chat 2020-07-03 22:37:36 if it needs any space inside the shiu
+creations-chat 2020-07-03 22:37:38 ship
+creations-chat 2020-07-03 22:37:52 is there ever a comedy build
+creations-chat 2020-07-03 22:37:57 this ship is a huge piece of satire
+creations-chat 2020-07-03 22:38:05 lowkey imo
+creations-chat 2020-07-03 22:38:09 i like my bow better
+creations-chat 2020-07-03 22:38:11 i think mine looks smoother
+creations-chat 2020-07-03 22:38:20 its also way more efficient on blocks
+creations-chat 2020-07-03 22:38:35 ? nah the one i sent in creations a while back?
+creations-chat 2020-07-03 22:38:46 idk lemme take another shot now
+creations-chat 2020-07-03 22:39:47 
+creations-chat 2020-07-03 22:39:50 i think its hard to get any smoother htna that
+creations-chat 2020-07-03 22:39:58 aa no ima delete it pls no leek
+creations-chat 2020-07-03 22:40:19 sigh if i get 60 on my wip up there and less on the final it'll be so depressing
+creations-chat 2020-07-03 22:40:20 no
+creations-chat 2020-07-03 22:40:22 its literally just
+creations-chat 2020-07-03 22:40:24 1x4's
+creations-chat 2020-07-03 22:40:41 who tf uses stock colors
+creations-chat 2020-07-03 22:40:46 the screenshot up there is 5k blocks
+creations-chat 2020-07-03 22:40:57 as in the gray from the pallete??
+creations-chat 2020-07-03 22:41:00 
+creations-chat 2020-07-03 22:41:06 that's bow super up close
+creations-chat 2020-07-03 22:41:12 stock as in the pallette?
+creations-chat 2020-07-03 22:41:27 oh
+creations-chat 2020-07-03 22:41:27 the squares u can click
+creations-chat 2020-07-03 22:41:29 well
+creations-chat 2020-07-03 22:41:41 
+creations-chat 2020-07-03 22:41:42 what do u think that thing is fore
+creations-chat 2020-07-03 22:41:54 
+creations-chat 2020-07-03 22:41:55 the bow is 8 colors
+creations-chat 2020-07-03 22:42:03 ewwwww
+creations-chat 2020-07-03 22:42:07 that works for speedboats, but not for battleships
+creations-chat 2020-07-03 22:42:10 battleships are too vertical
+creations-chat 2020-07-03 22:42:15 nah ushanka look ath te pic
+creations-chat 2020-07-03 22:42:18 i use 8 colors on the hull
+creations-chat 2020-07-03 22:42:21 the gray
+creations-chat 2020-07-03 22:42:24 and 5 red colors
+creations-chat 2020-07-03 22:42:33 i just
+creations-chat 2020-07-03 22:42:33 yeah
+creations-chat 2020-07-03 22:42:44 i use tons of shading to make it look better
+creations-chat 2020-07-03 22:43:01 
+creations-chat 2020-07-03 22:43:04 i use all these colors on the metal
+creations-chat 2020-07-03 22:43:54 151, 27, 199, 148
+creations-chat 2020-07-03 22:44:07 real yamato didn't have camoflage so... i get ot shade
+creations-chat 2020-07-03 22:44:56 oh <@!389502733490716673> check out these dank side stripes on an old bismarck i made
+creations-chat 2020-07-03 22:45:11 this is like a year old
+creations-chat 2020-07-03 22:45:25 could make it pretty insane wiht updates but im lazy
+plane-crazy 2020-07-04 01:05:56 <@!429826358827417601> any idea who/what build this is? looks like a cruiser to me
+plane-crazy 2020-07-04 01:07:00 are those harriers all one build
+plane-crazy 2020-07-04 01:07:04 or are they launched from the boats
+creations-chat 2020-07-04 01:07:50 <@!505835349889777685> do you have a cruiser or something? saw a bit of it folded
+general 2020-07-04 01:17:37 lit
+general 2020-07-04 01:17:37 yo wait people play this game
+general 2020-07-04 01:18:21 i literally submitted the WIP yamato which now has 60 votes to get both expert ship and designer 😄
+general 2020-07-04 01:18:37 right? it wasn't even finished and had a huge gash of empty paint missing
+general 2020-07-04 01:18:40 no downvotes
+general 2020-07-04 01:18:47 yah im gonna go for master
+general 2020-07-04 01:18:54 given that i got 60 on the wip... promising
+general 2020-07-04 01:18:56 but hof is unpredictable
+general 2020-07-04 01:19:02 well nah,, i feel like it's predictably biased
+general 2020-07-04 01:19:09 wait
+general 2020-07-04 01:19:10 heck
+general 2020-07-04 01:19:12 i meant master shipwright
+general 2020-07-04 01:19:36 
+general 2020-07-04 01:19:40 <@!456219506486804480>
+general 2020-07-04 01:19:52 this was a year ago before the larger build space update
+general 2020-07-04 01:20:03 each of those sets of 5 was a full build space
+general 2020-07-04 01:20:10 10*
+general 2020-07-04 01:20:36 i made this jank launch assist system to put stupiid heavy loads in one go
+general 2020-07-04 01:20:46 launch a set of boosters, shimmy it to the left
+general 2020-07-04 01:20:50 launch another set, shimmy it right
+general 2020-07-04 01:20:58 launch ur load, and connect the two side loads vai docking
+plane-crazy 2020-07-04 01:21:36 some things id find super cool in this game
+plane-crazy 2020-07-04 01:21:39 if anyone ever made it
+plane-crazy 2020-07-04 01:21:48 a wright flyer with wing warping
+plane-crazy 2020-07-04 01:21:57 curiosity rover w/ skycrane deploy that fits in rocket
+plane-crazy 2020-07-04 01:22:13 a passively tilting advanced passenger train
+plane-crazy 2020-07-04 01:22:28 ill see if i get around to any
+plane-crazy 2020-07-04 01:24:44 where does one find VIP servers
+plane-crazy 2020-07-04 01:24:59 for expert+
+plane-crazy 2020-07-04 01:25:03 ive only heard about them
+bot-central 2020-07-04 01:31:26 !servers
+plane-crazy 2020-07-04 03:49:56 <@!244667801824919553> do u plan to smoothen ur jaggedy deck
+plane-crazy 2020-07-04 03:49:59 
+plane-crazy 2020-07-04 03:50:01 like this idk
+plane-crazy 2020-07-04 03:53:09 oh god i made a jet that could do a cobra
+plane-crazy 2020-07-04 03:53:16 but all the wings turned like window blinds
+plane-crazy 2020-07-04 03:53:19 it was so jank
+plane-crazy 2020-07-04 03:53:51 so like it could just straight up fly normally with the nose vertical
+plane-crazy 2020-07-04 03:54:05 yeah the drag mechanics suck
+plane-crazy 2020-07-04 03:54:08 same reason u cant make a glider
+plane-crazy 2020-07-04 03:55:30 nah u need to slide forwards
+plane-crazy 2020-07-04 03:55:31 not just
+plane-crazy 2020-07-04 03:55:32 pitch
+plane-crazy 2020-07-04 03:55:41 maintain constant or decreasing altitude
+plane-crazy 2020-07-04 03:55:50 then that's somethign
+plane-crazy 2020-07-04 03:56:12 wait w h a t
+plane-crazy 2020-07-04 03:56:16 in a plane or
+plane-crazy 2020-07-04 04:05:59 ok spt i thought u were joking
+plane-crazy 2020-07-04 04:06:02 but do you actually think that fr
+plane-crazy 2020-07-04 04:06:28 usually that's the result of a bad blade length to body mass ratio i think
+plane-crazy 2020-07-04 04:07:06 bruh autoclick macros are even legal in phantom forces
+plane-crazy 2020-07-04 04:07:12 doubt any sort of macro is very exploity
+plane-crazy 2020-07-04 04:07:34 who said u did
+plane-crazy 2020-07-04 04:07:44 autohotkey? or built in to keyboard
+plane-crazy 2020-07-04 04:08:15 hey kids, say no to jaggedy ship deck edges
+plane-crazy 2020-07-04 04:08:17 
+plane-crazy 2020-07-04 04:08:19 real poggers smooth their decks out
+plane-crazy 2020-07-04 15:53:38 <@435946988559925248> wym? The wedges on the deck surface?
+The holes in the deck r to accomodate the folded bow
+plane-crazy 2020-07-04 15:54:19 <@244667801824919553> what about barrel up and down
+plane-crazy 2020-07-04 15:54:35 Id have to make something rise up from the bottom
+plane-crazy 2020-07-04 15:54:47 The bow tip, which curves up, folds flat over that spot
+plane-crazy 2020-07-04 15:54:59 And i didnt want to have a floating motor
+plane-crazy 2020-07-04 15:55:07 So theres 1 block space
+plane-crazy 2020-07-04 15:55:10 Mhm sad indeed
+plane-crazy 2020-07-04 15:57:06 Its also the roof of the master bedroom so
+plane-crazy 2020-07-04 15:57:11 Cant put anything underneath rlly
+creations-chat 2020-07-04 17:42:30 <@505835349889777685> saw a glimpse of it in a screenshot and am interested
+creations-chat 2020-07-04 17:43:42 <@419477639229865984>  Nice banshee! It looks amazing, hows it fly
+creations-chat 2020-07-04 17:43:47 Idk just what ship is it
+plane-crazy 2020-07-04 22:34:31 <@!435946988559925248> happy now
+plane-crazy 2020-07-04 22:35:26 i was mainly talking about how the wood and metal doesnt have jaggedy block edges at first
+plane-crazy 2020-07-04 22:35:29 but i decided to patch that part anyway
+plane-crazy 2020-07-04 22:38:01 https://discordapp.com/channels/384021699466756103/384021699466756107/728825458010882129 is <@456226577798135808> 's richeliu friggin 10k blocks cus of the camo/vertical hull pattern??
+plane-crazy 2020-07-04 22:38:35 https://discordapp.com/channels/384021699466756103/384025409945337856/727918068847869963 this thing was 5.5k
+creations-chat 2020-07-05 00:07:19 <@!422194096258547733> why not ladder railings?
+creations-chat 2020-07-05 00:07:53 
+creations-chat 2020-07-05 00:07:54 oh
+creations-chat 2020-07-05 00:07:55 ok
+creations-chat 2020-07-05 00:07:58 thought somethign like that would be nice
+creations-chat 2020-07-05 00:08:06 is it pvp oriented im guessing
+creations-chat 2020-07-05 00:08:21 ah so it can dogfight
+creations-chat 2020-07-05 00:12:14 <@!422194096258547733> if it looks trash (as it did on my yama) sink it half a block and it might look nice( as it did)
+creations-chat 2020-07-05 00:12:33 bepis truck on a jump
+plane-crazy 2020-07-05 15:54:13 anyone got tricks for good train bogeys
+plane-crazy 2020-07-05 15:54:20 mine slip off a lot
+plane-crazy 2020-07-05 16:17:16 nooooo vertical hull bad
+plane-crazy 2020-07-05 16:17:52 
+plane-crazy 2020-07-05 16:17:55 horizontal gang best
+plane-crazy 2020-07-05 16:18:00 1x4 wedges hull best
+plane-crazy 2020-07-05 16:18:22 say no to jaggedy waterlines
+plane-crazy 2020-07-05 16:20:40 wait <@!448505589983739914> that's horizontal p much lol
+plane-crazy 2020-07-05 16:20:53 anything with long 1x4's horizontally is an H hull
+plane-crazy 2020-07-05 16:20:57 vertical hulls use half wedges and crap
+plane-crazy 2020-07-05 16:21:12 <@!287459677611098114> do you genuinely think that looks bad though
+plane-crazy 2020-07-05 16:21:22 n o
+plane-crazy 2020-07-05 16:21:27 please why
+plane-crazy 2020-07-05 16:21:41 the horizontal pic i posted just before u said delete
+plane-crazy 2020-07-05 16:22:02 tatato, rockets might be connecting to lower stage
+plane-crazy 2020-07-05 16:22:12 n o
+plane-crazy 2020-07-05 16:22:14 i implied
+plane-crazy 2020-07-05 16:22:17 good horizontal bow lmao
+plane-crazy 2020-07-05 16:22:40 
+plane-crazy 2020-07-05 16:22:41 but looks good lol
+plane-crazy 2020-07-05 16:22:54 
+plane-crazy 2020-07-05 16:22:56 also smooth ur decks if u dont
+plane-crazy 2020-07-05 16:23:08 
+plane-crazy 2020-07-05 16:23:12 and extend em to the railing
+plane-crazy 2020-07-05 16:23:19 n00bs leave the gray stripe from the top of the armor
+plane-crazy 2020-07-05 16:24:13 pls copy guys
+plane-crazy 2020-07-05 16:24:16 i want to see more builds with cute AA gun
+plane-crazy 2020-07-05 16:25:33 wait a sec yeah
+plane-crazy 2020-07-05 16:25:53 also wait whats up with this submarine
+plane-crazy 2020-07-05 16:25:58 203mm twin turrets?
+plane-crazy 2020-07-05 16:26:28 hes using e x p l o i t s
+plane-crazy 2020-07-05 16:26:46 i thought the kermit was recent
+plane-crazy 2020-07-05 16:27:05 i dont understand
+plane-crazy 2020-07-05 16:27:10 how do people move their ships in position
+plane-crazy 2020-07-05 16:27:11 to stack
+creations-chat 2020-07-05 16:29:39 <@!316693531638890497> no turret elevate?
+creations-chat 2020-07-05 16:31:17 also not sure im a fan of the material :/
+creations-chat 2020-07-05 16:32:17 i use default just cus it's smooth like actual metal
+creations-chat 2020-07-05 16:32:20 things would change if u did camo though
+creations-chat 2020-07-05 16:32:28 I'm doing yamato which doesn't have a camo, so default for me :>
+creations-chat 2020-07-05 16:33:07 yeah then just
+creations-chat 2020-07-05 16:33:08 paint it
+creations-chat 2020-07-05 16:33:38 
+creations-chat 2020-07-05 16:33:42 u see the uh
+creations-chat 2020-07-05 16:33:51 
+creations-chat 2020-07-05 16:33:53 those areas are painted lighter gray
+creations-chat 2020-07-05 16:34:05 to make the angled corners more clear
+creations-chat 2020-07-05 16:34:44 I find it too dull/flat when a turret is painted all 1 color
+creations-chat 2020-07-05 16:35:14 color shading also takes hulls
+creations-chat 2020-07-05 16:35:15 to the next level
+creations-chat 2020-07-05 16:35:17 
+creations-chat 2020-07-05 16:35:19 <@!316693531638890497>
+creations-chat 2020-07-05 16:35:21 consider it
+plane-crazy 2020-07-05 16:35:59 railgun? get out, we need an M4a1
+plane-crazy 2020-07-05 16:36:11 smh just compensate for lack of outlines by painting
+plane-crazy 2020-07-05 16:36:20 lighten ur highlights, darken ur shadows
+plane-crazy 2020-07-05 16:36:38 u sure its not the angle
+plane-crazy 2020-07-05 16:36:45 i think its both
+plane-crazy 2020-07-05 16:36:59 the angle and being in shadow in the first pic prolly
+plane-crazy 2020-07-05 16:44:25 daaang i could only ever get one module t o work
+plane-crazy 2020-07-05 16:44:36 it can turn right?
+plane-crazy 2020-07-05 16:44:44 ah dang
+plane-crazy 2020-07-05 16:44:48 cant u reverse the direction of one module
+plane-crazy 2020-07-05 16:44:59 i made 4 foot so it couldnt turn
+plane-crazy 2020-07-05 16:45:03 mirroring it would've made it turnable
+plane-crazy 2020-07-05 16:45:07 are all those 8 legs connected?
+plane-crazy 2020-07-05 16:52:03 wait <@!208322565171576833> then you should be able to turn by reversing half the modules??
+the-dump 2020-07-05 17:06:10 140 110 90
+plane-crazy 2020-07-05 19:16:35 please tell me it involves rails with gentler curves
+plane-crazy 2020-07-05 19:16:43 or hopefully even narrower gauge rails
+plane-crazy 2020-07-05 19:17:15 ah you think he just lazy
+plane-crazy 2020-07-05 20:32:43 the contest map even still has work imo
+plane-crazy 2020-07-05 20:32:49 heavily favors certain builds which isn't a good thing
+plane-crazy 2020-07-05 20:33:11 should have more water for large ships, at least one second airport on an island
+plane-crazy 2020-07-05 20:34:14 if it really takes a year
+plane-crazy 2020-07-05 20:34:16 i'd disagree
+plane-crazy 2020-07-05 20:34:30 anything that would prevent new content for more than 3 consec. months I would be very wary about doing
+plane-crazy 2020-07-05 20:36:42 i got a train car that automatically banks corners
+plane-crazy 2020-07-05 20:36:50 but idk how to make bogeys so it occasionally derails
+creations-chat 2020-07-06 00:30:55 <@456226577798135808> did you see that one roblox game about how the engine messes up when your coordinates become extreme
+creations-chat 2020-07-06 00:31:11 that was the second game in which I saw that phenomenon
+plane-crazy 2020-07-06 00:50:50 VIP 1......
+plane-crazy 2020-07-06 00:50:55 oh, vip 1.....
+plane-crazy 2020-07-06 00:50:57 
+creations-chat 2020-07-06 03:02:33 <@456226577798135808> https://www.roblox.com/games/901033001/The-zone
+bot-central 2020-07-21 03:54:41 !servers
+creations-chat 2020-07-21 18:44:43 
+creations-chat 2020-07-21 18:44:48 playing around with a train car that automatically banks turns
+creations-chat 2020-07-21 18:44:58 
+creations-chat 2020-07-21 18:45:38 he tilt
+creations-chat 2020-07-21 18:46:11 
+plane-crazy 2020-07-23 16:09:39 
+plane-crazy 2020-07-23 16:10:17 this game is amazing
+plane-crazy 2020-07-23 16:10:21 10/10 sync
+plane-crazy 2020-07-25 05:11:42 
+plane-crazy 2020-07-25 05:11:57 22_synth said it couldnt be done
+plane-crazy 2020-07-25 05:12:01 tiny treads
+plane-crazy 2020-07-25 05:36:11 
+plane-crazy 2020-07-25 05:36:12 very compact
+plane-crazy 2020-07-25 05:36:14 tonk trek
+plane-crazy 2020-07-25 22:40:36 <@!347182144873037824> https://discordapp.com/channels/384021699466756103/384021699466756107/736456749871136809 the track is built diagonally so the motors dont connect, and are connected to each other via signs and the tread
+plane-crazy 2020-07-25 22:40:46 thee wheels dont collide with motor heads, but the outside rim of the tread
+plane-crazy 2020-07-25 22:41:01 so its both 1 block wide, and the treads aren't thick
+plane-crazy 2020-07-25 22:41:14 handling is trash tbh, my 2-wide version is a lot nicer, but ig it has uses for halftracks and such
+plane-crazy 2020-07-26 00:18:34 <@!347182144873037824> how do the tracks stay connected to each other, or stay on the guide wheels?
+plane-crazy 2020-07-26 15:23:06 <@!347182144873037824> wing trails connect each unit to the last via the tread
+plane-crazy 2020-07-26 19:40:47 <@!437078588701933568> i dont like using half blocks, 1x4 wedges and normal blocks are superior
+plane-crazy 2020-07-26 19:41:17 I took beam measurements at diff parts along the hull from a blueprint
+plane-crazy 2020-07-26 19:41:35 all the green markings/numbers are my reference markings
+plane-crazy 2020-07-26 19:42:02 so i could tell like, 50 blocks down the hull it should be 20 wide, at the fold it should be 24 wide, etc etc
+plane-crazy 2020-07-26 19:42:17 so then i just smoothly connected the dots
+plane-crazy 2020-07-26 19:42:28 i do the deck first, then the side profile, then use a 3D model to flesh in the rest
+plane-crazy 2020-07-26 19:43:02 
+plane-crazy 2020-07-26 19:43:05 to achieve the smooth boi hull
+plane-crazy 2020-07-26 19:43:43 wdym?
+plane-crazy 2020-07-26 19:44:06 like straight top down
+plane-crazy 2020-07-26 19:44:08 or angled a bit higher
+plane-crazy 2020-07-26 19:44:27 i literally copied the blueprint
+plane-crazy 2020-07-26 19:44:30 i assure you it's good
+plane-crazy 2020-07-26 19:44:36 nah ur tripping
+plane-crazy 2020-07-26 19:44:47 u see the  blueprint?
+plane-crazy 2020-07-26 19:45:06 
+plane-crazy 2020-07-26 19:45:08 here is a higher angle at least
+plane-crazy 2020-07-26 19:45:11 booting game to do full top
+plane-crazy 2020-07-26 19:45:29 thank
+plane-crazy 2020-07-26 19:45:35 yeah im opening game my guy
+plane-crazy 2020-07-26 19:46:11 what baout it?
+plane-crazy 2020-07-26 19:46:17 yeah
+plane-crazy 2020-07-26 19:46:22 i just dont have the patience to edit it anymore
+plane-crazy 2020-07-26 19:46:44 i think my point about 1x4 wedge hulls still stands
+plane-crazy 2020-07-26 19:47:13 yeah
+plane-crazy 2020-07-26 19:47:18 cus at the bow i didn't wanna use half blocks
+plane-crazy 2020-07-26 19:47:26 and the location of the fold got tricky
+plane-crazy 2020-07-26 19:47:29 meh
+plane-crazy 2020-07-26 19:47:29 i could easily thinnen it but
+plane-crazy 2020-07-26 19:48:16 naaaaaaaaaaaa
+plane-crazy 2020-07-26 19:49:49 
+plane-crazy 2020-07-26 19:49:50 bow from above
+plane-crazy 2020-07-26 19:50:00 looks fine right
+plane-crazy 2020-07-26 19:50:09 heck
+plane-crazy 2020-07-26 19:50:15 i made this before i knew what motor 2 did
+plane-crazy 2020-07-26 19:50:22 dont think it's worth going back with lock motor
+plane-crazy 2020-07-26 19:50:39 yea
+plane-crazy 2020-07-26 19:50:48 h o r i  z o n  t  a  l
+plane-crazy 2020-07-26 19:50:50 1x4 wedges please
+plane-crazy 2020-07-26 19:51:12 
+plane-crazy 2020-07-26 19:51:43 
+plane-crazy 2020-07-26 19:53:20 im gonna pause for a sec
+plane-crazy 2020-07-26 19:53:21 i think
+plane-crazy 2020-07-26 19:54:04 no dip
+plane-crazy 2020-07-26 19:54:13 of course oyu didn't
+plane-crazy 2020-07-26 19:54:15 its warships beta
+plane-crazy 2020-07-26 19:54:38 "best yamato" u said
+plane-crazy 2020-07-26 19:56:03 cute rear
+plane-crazy 2020-07-26 19:56:03 
+plane-crazy 2020-07-26 19:56:11 fir nite
+plane-crazy 2020-07-30 16:13:31 dank stratolaunch
+plane-crazy 2020-07-30 16:14:00 consider motolocc cockpits
+bot-central 2020-08-05 15:11:57 !servers
+creations-chat 2020-08-09 22:31:45 <@!587047177558163466> semi practical mecanum with independent suspensions
+creations-chat 2020-08-10 04:07:08 <@!587047177558163466> I wanted something of size usable for like a rock crawler build. That mecanum chassis actually works ok on hills, strafes straight, but is kinda bumpy on road even with suspension. Getting a remotely circular overall profile was tough... 8 rollers is probably doable with 2x2 2s, but really hard to get on my scale
+creations-chat 2020-08-10 04:07:45 
+creations-chat 2020-08-10 04:07:48 8 roller thats really small
+creations-chat 2020-08-10 04:08:04 HELLA smooth moving and strafing, but since the roller axis isn't aligned properly, the thing slips in all directions which sucks
+creations-chat 2020-08-10 04:08:08 also wheels mega wide
+plane-crazy 2020-08-11 17:40:31 semi practical tank autoloading cannon
+plane-crazy 2020-08-11 17:40:38 if anyone wants to use this on a build ping me
+plane-crazy 2020-08-11 17:40:40 id like to see it
+plane-crazy 2020-08-11 17:41:38 
+plane-crazy 2020-08-11 17:41:39 good firerate at any elevation
+plane-crazy 2020-08-11 17:42:19 
+plane-crazy 2020-08-11 17:42:22 i mean
+plane-crazy 2020-08-11 17:42:23 its cool ig
+plane-crazy 2020-08-11 17:42:39 fires 2-3 shots a second if u spam
+plane-crazy 2020-08-11 17:42:52 i just rarely see good looking tanks with actual cannons
+plane-crazy 2020-08-11 17:43:10 of a reasonable size
+plane-crazy 2020-08-11 17:43:13 even in vip
+plane-crazy 2020-08-11 17:43:24 valid
+plane-crazy 2020-08-11 17:47:46 dont judge
+plane-crazy 2020-08-11 17:48:03 i mean herr doesnt my design look ok
+plane-crazy 2020-08-11 17:48:12 p sure uve also seen me in game
+plane-crazy 2020-08-11 17:48:42 
+plane-crazy 2020-08-11 17:48:47 could def make an ok looking KV2 or something
+plane-crazy 2020-08-11 17:48:59 tried to get it flat enough for modern tanks though
+plane-crazy 2020-08-11 17:49:06 barrel still to chonk
+plane-crazy 2020-08-11 18:37:12 what have i done
+plane-crazy 2020-08-11 18:37:14 
+plane-crazy 2020-08-11 18:37:24 rapidfire, motor2 aimed, elevating and rotating ball cannon
+plane-crazy 2020-08-11 18:37:25 kv2 turret
+plane-crazy 2020-08-11 18:37:35 no motoloc
+plane-crazy 2020-08-11 18:45:25 i want the tank to be not too big
+plane-crazy 2020-08-11 18:45:32 so ididnt scale it to barrel
+plane-crazy 2020-08-11 18:50:11 it's the size i want it to be
+plane-crazy 2020-08-11 18:50:21 and i dont wanna lockmotor a lid on
+plane-crazy 2020-08-11 18:50:29 might build body later
+bot-central 2020-08-12 16:35:55 !servers
+bot-central 2020-08-12 16:36:37 !expertservers
+plane-crazy 2020-08-12 16:37:48 is it just me or
+plane-crazy 2020-08-12 16:37:57 do vip2, expert server 1 & 2 all not work
+plane-crazy 2020-08-12 16:39:48 !servers in bot central? not sure if there's a rank requirement
+plane-crazy 2020-08-20 16:38:52 <@!527653676022628353>
+plane-crazy 2020-08-20 16:39:21 imagine flat spinning being a problem
+plane-crazy 2020-08-20 16:39:24 rather than a feature
+plane-crazy 2020-08-20 16:39:37 tie fighter hours
+plane-crazy 2020-08-20 16:39:43 who needs to roll when u can yaw
+bot-central 2020-08-20 19:07:30 !expertservers
+bot-central 2020-08-20 19:07:45 !servers
+bot-central 2020-08-20 19:07:46 uh
+bot-central 2020-08-20 19:07:48 is bot broken
+bot-central 2020-08-20 19:07:53 :C
+bot-central 2020-08-20 19:08:00 also expert links from days ago dont work
+bot-central 2020-08-20 19:08:13 oh, so i have to get new ones
+bot-central 2020-08-20 19:08:15 oh ok
+bot-central 2020-08-20 19:08:23 how do u check without joining lmao
+bot-central 2020-08-20 19:08:51 heck
+bot-central 2020-08-20 19:08:54 they sent me normal servers
+bot-central 2020-08-20 19:08:57 not expert ones
+bot-central 2020-08-20 19:09:11 vip2 isnt even valid for me
+plane-crazy 2020-08-21 00:31:37 wow
+plane-crazy 2020-08-21 00:31:44 here I am with 3 days
+plane-crazy 2020-08-21 02:55:36 are hover engines known to be bad
+plane-crazy 2020-08-21 02:55:46 my 190 block hovertrain drops me from 62 to 15 fps when cornering
+plane-crazy 2020-08-21 02:57:47 yeah its so sad
+plane-crazy 2020-08-21 02:57:58 my bare hovertrain chassis is pulling corners at 650 speed without derailing
+plane-crazy 2020-08-21 02:58:17 but once i added seats and windows, my fps drops by 75%
+plane-crazy 2020-08-21 02:58:27 im sad
+plane-crazy 2020-08-21 03:04:35 as in for submarines?
+plane-crazy 2020-08-21 03:22:40 isn't there a confirmation
+plane-crazy 2020-08-21 03:22:45 for when u load
+plane-crazy 2020-08-21 03:23:47 i have no clue
+plane-crazy 2020-08-21 03:23:55 and i hate subs in pc cus htey're flooded inside
+plane-crazy 2020-08-21 03:24:01 also wait the hovers weren't the real problem
+plane-crazy 2020-08-21 03:24:07 it was cus i was mounting them on motor2 🙂
+plane-crazy 2020-08-21 04:12:32 who said anything about hover propulsion
+plane-crazy 2020-08-21 04:14:50 
+plane-crazy 2020-08-21 04:14:52 hover stabilization is the hot stuff
+plane-crazy 2020-08-21 05:38:03 <@!163143541160148992> yamato toorets visible
+plane-crazy 2020-08-21 05:38:44 yeah its hard to see but like
+plane-crazy 2020-08-21 05:38:48 at least u know it looks good from a distance
+plane-crazy 2020-08-21 18:04:35 I kinda wanna try a nice katyusha now
+plane-crazy 2020-08-21 18:04:43 Would impact missiles work
+plane-crazy 2020-08-21 18:05:10 Mouse guided would be tough to get it compact
+plane-crazy 2020-08-21 18:06:41 1x1 guided missile is possible but tough
+plane-crazy 2020-08-21 18:06:53 Ud have to lock together a vertical and horizontal wing
+plane-crazy 2020-08-21 18:07:01 On a 1x1 gimball
+plane-crazy 2020-08-21 18:07:16 Which would be like 4 block long, sad
+plane-crazy 2020-08-21 18:07:39 But if u do 2 explosive blocks and 2 wings in front, 7 long missile might be acceptavle
+plane-crazy 2020-08-21 18:07:41 13 is lonk
+plane-crazy 2020-08-21 18:07:47 How much charge?
+plane-crazy 2020-08-21 18:07:55 7 sounds possible
+plane-crazy 2020-08-21 18:08:09 I mean technically itll be more than 1 from motorlock heads
+plane-crazy 2020-08-21 18:08:22 But if udont count the noncolliding motor bits
+plane-crazy 2020-08-21 18:08:24 Then u can do 1x1
+plane-crazy 2020-08-21 18:08:28 Show us urs
+plane-crazy 2020-08-21 18:08:32 How good is the guidance
+plane-crazy 2020-08-21 18:08:42 Oh sick
+plane-crazy 2020-08-21 18:08:46 1x1 mouse guided?
+plane-crazy 2020-08-21 18:08:58 Heck thats clever
+plane-crazy 2020-08-21 18:09:03 DISGUSTING
+plane-crazy 2020-08-21 18:09:12 Im trying to fire several
+plane-crazy 2020-08-21 18:09:16 I need mouse fire n forget
+plane-crazy 2020-08-21 18:09:18 It is
+plane-crazy 2020-08-21 18:09:27 I wanna see spinning design
+plane-crazy 2020-08-21 18:09:40 But im just thinking 2 motor2s in front of each other
+plane-crazy 2020-08-21 18:09:42 E
+plane-crazy 2020-08-21 18:09:42 Just
+plane-crazy 2020-08-21 18:09:45 Ez
+plane-crazy 2020-08-21 18:09:54 Ah yeah thats faid
+plane-crazy 2020-08-21 18:10:02 But 1x2 build is qcfeptable
+plane-crazy 2020-08-21 18:10:05 For my purpose
+plane-crazy 2020-08-21 18:10:10 Thrust turn is tough
+plane-crazy 2020-08-21 18:10:17 Thats acceptavle
+plane-crazy 2020-08-21 18:10:20 I want a katyusha
+plane-crazy 2020-08-21 18:10:24 Can we seeed
+plane-crazy 2020-08-21 18:10:27 The beees
+plane-crazy 2020-08-21 18:10:33 Does it spin a motor2 thruster
+plane-crazy 2020-08-21 18:10:44 K ping me later
+plane-crazy 2020-08-21 18:11:06 Sick
+plane-crazy 2020-08-21 18:11:11 Alright then
+plane-crazy 2020-08-21 18:11:18 Btw do ya build robots irl
+plane-crazy 2020-08-21 18:11:27 Eyyy
+plane-crazy 2020-08-21 18:11:34 My pfp is from FTC competition
+plane-crazy 2020-08-21 18:11:45 Competition or just hobby
+plane-crazy 2020-08-21 18:11:48 Oh
+plane-crazy 2020-08-21 18:11:56 Oh shoot holy
+plane-crazy 2020-08-21 18:12:18 Jeez vombat
+plane-crazy 2020-08-21 18:12:20 I do like
+plane-crazy 2020-08-21 18:12:26 Nornal civilian robotics
+plane-crazy 2020-08-21 18:19:22 Thats hiladious if they rlly are stable
+plane-crazy 2020-08-21 18:21:49 Dont have many good pics rn of my robots
+plane-crazy 2020-08-21 18:22:19 Dumped like $1k into this thing but at least I didnt pay for it
+plane-crazy 2020-08-21 18:22:24 Hover drag is clever but
+plane-crazy 2020-08-21 18:22:30 Dont the hovers have to be in feont
+plane-crazy 2020-08-21 18:22:47 The hover engine provides force
+plane-crazy 2020-08-21 18:23:06 Oh true
+plane-crazy 2020-08-21 18:23:21 Thrust in the front then?
+plane-crazy 2020-08-23 03:48:17 
+plane-crazy 2020-08-23 03:48:23 lasor sight actually from tie fighter
+plane-crazy 2020-08-23 03:48:37 all half block hulls look like tilled dirt smh
+plane-crazy 2020-08-23 03:48:44 1x4 wedge is king
+plane-crazy 2020-09-02 23:46:13 god this is a lotta scrolling
+plane-crazy 2020-09-02 23:46:30 was it not plausible to have a "page 2" for saves
+plane-crazy 2020-09-02 23:46:40 for the save slots
+bot-central 2020-09-02 23:49:06 !expertservers
+bot-central 2020-09-02 23:49:09 !servers
+bot-central 2020-09-04 20:11:16 !servers
+plane-crazy 2020-09-05 03:37:49 bow
+plane-crazy 2020-09-06 01:31:44 
+plane-crazy 2020-09-06 01:31:45 overlay time
+plane-crazy 2020-09-06 01:31:58 
+plane-crazy 2020-09-06 01:32:03 sucks that u cant get a perfectly top down view in roblox
+plane-crazy 2020-09-06 01:35:04 
+plane-crazy 2020-09-06 01:35:17 <@!389502733490716673> hull is spot on
+plane-crazy 2020-09-06 01:37:32 
+plane-crazy 2020-09-06 01:37:37 getting mixed signals about the superstructure, weirdly
+plane-crazy 2020-09-06 01:37:46 i think roblox fov is screwing with me
+bug-reports 2020-09-06 20:22:06 Are sparklers saving incorrectly? if i save and load the sparkler orientations change
+bug-reports 2020-09-06 20:22:45 this is not happening to me btw trees
+bot-central 2020-09-25 19:01:26 !expertservers
+bot-central 2020-09-27 18:12:58 !servers
+bot-central 2020-09-27 23:40:25 !servers
+bot-central 2020-09-27 23:40:28 !expertservers
+bot-central 2020-10-04 16:07:27 !servers
+bot-central 2020-10-04 16:07:30 !expertservers
+bot-central 2020-10-11 15:54:21 !expertsesrvers
+bot-central 2020-10-11 15:54:23 !servers
+bot-central 2020-10-11 15:54:25 !expertservers
+bot-central 2020-11-28 15:57:09 !servers
+bot-central 2020-11-28 15:57:11 !expertservers
+bot-central 2020-11-29 16:51:20 !expertservers
+bot-central 2020-11-29 16:51:22 !servers
+bot-central 2020-12-15 20:57:56 !servers
+bot-central 2020-12-17 21:05:32 !servers
+bot-central 2020-12-29 05:40:50 !servers
+bot-central 2021-02-13 05:41:19 !servers
+bot-central 2021-02-13 05:41:21 !expertservers
+bot-central 2021-02-15 18:52:59 !servers
+bot-central 2021-02-15 18:53:02 !expertservers
+bot-central 2021-02-20 05:32:42 !servers
+bot-central 2021-02-20 05:32:55 !expertservers
+bot-central 2021-02-26 05:06:30 !servers
+bot-central 2021-03-12 05:20:40 !servers
+bot-central 2021-03-15 13:35:41 !servers
+bot-central 2021-03-18 01:23:10 !servers

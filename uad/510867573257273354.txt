@@ -1,0 +1,631 @@
+The Tale of luchtleidernederland (510867573257273354)
+bot-central 2019-05-10 19:44:57 &suggest block editor tool
+bug-reports 2019-05-12 14:18:11 if i respawn my creation, i can't do anything like place or drive with it. than i have to reload it until i can do something
+bug-reports 2019-05-12 14:20:23 if i or somebody else spawns their big creation like a warship or my tu-160 blackjack, than the server will lag, it makes it impossible to see the map or where you're flying
+bug-reports 2019-05-12 18:16:50 mine are in the normal server
+bug-reports 2019-05-25 15:02:01 fix this motor glitch: if i want to unfold my creation, only one direction works, only key O works and key P doesn't work
+bug-reports 2019-05-25 15:05:11 the motors works 100 % when motor option 'Lock' has turned off, so i think 'Lock' is the problem of this glitch/bug/issue
+creations-chat 2019-05-25 15:15:21 Lockheed SR-71 (Blackbird, The Thing, Habu) with 1252 blocks, with fold system, parachute, 100% working landing gears (also with an hatch), cockpit hatch and thats it.
+bot-central 2019-05-25 15:23:11 &suggest A bigger map
+bot-central 2019-05-25 15:25:19 &suggest A tool to write numbers and letters and a tool to make symbols.
+bot-central 2019-05-25 16:33:13 &suggestions Add laser beams as weapons
+bug-reports 2019-05-25 16:33:47 yes
+creations-chat 2019-05-25 16:34:38 lol
+bug-reports 2019-05-25 17:50:09 <@416254104017305600>  thanks, i will try it
+creations-chat 2019-05-25 18:00:46 the attack helicopter Orca Fighter of the game Command & Conquer Tiberian Sun (Firestorm expension). It can reach the 600 mph, has a machine gun at the front, if it crashes in the sea, it can transform its self  to a boat/hovercraft. But its difficult to control it; it can dive suddenly when a rocket engine is failing, which make the helicopter stable, but it flies
+creations-chat 2019-05-25 18:01:14 Here it's transformed to a hovercraft/boat
+bug-reports 2019-05-25 18:19:16 <@416254104017305600>  it works, but the pistons, which opens the hatch of the landing gears of my Concordski, won't working
+bug-reports 2019-05-25 18:20:01 <@416254104017305600>  nvm
+bug-reports 2019-05-29 16:08:15 sometimes after i respawn my creation, the buttons won't work anymore, only the Tutorial, Gamemodes, Save/Load, Settings, Jetpack, Ragdoll and Parachute buttons works.
+bug-reports 2019-05-29 16:10:19 good luck with developing and fixing by the way
+bug-reports 2019-06-05 18:45:30 the motors and pistons glitches very well when spawned and folded my plane........
+bug-reports 2019-06-05 18:46:33 and btw are you (rickje and/or madattak) reading the Wall at the Plane Crazy Group?
+bug-reports 2019-06-05 18:48:16 and the glitch i reported probably a month ago isn't fixed yet (when respawned, i can't click at the buttons of the left side  until waiting by 10/20 seconds, only buttons of the right side works)
+bug-reports 2019-06-06 07:08:56 <@!260174728717664257>y20190 i didn’t turn on motor option ‘lock’
+creations-chat 2019-06-07 21:03:38 <@!251794298914209792> i have since december 2018 a Bismarck (battleship)
+bug-reports 2019-06-10 09:43:38 the motors and pistons are even glitching without Lock, short after i spawn my airliner
+bug-reports 2019-06-12 18:29:17 after i put 3 super rocket engines inside my F-111, it will 'freeze' after i spawn it, nothing is working. like the motors aren;t working. im taking now full power (its topspeed is 350 mph), but it isn't moving!
+bug-reports 2019-06-12 18:29:41 and i didn't put an anchor block inside it
+bug-reports 2019-06-12 18:40:37 sure
+bug-reports 2019-06-12 18:41:51 
+bug-reports 2019-06-12 18:43:05 yes
+bug-reports 2019-06-12 18:44:23 ok
+bug-reports 2019-06-12 18:45:08 regular rockets cause s it too
+bug-reports 2019-06-12 18:46:28 oh i have to wait 5 seconds, then it works
+bug-reports 2019-06-12 18:46:42 still weird
+bug-reports 2019-06-12 18:52:17 oh and sometimes the control surfaces aren't working after i fly with it (this happends with all my aircrafts)
+bug-reports 2019-06-14 18:07:31 this guy (2210_daniel) made a few ww2 german things with the german icon (i dont know where i should report this). please ban this idiot or kick him
+bug-reports 2019-06-14 18:08:16 thanks
+help 2019-06-14 18:09:42 rickje, this guy (2210_daniel) made 2 creations with the german WW2 icon. ban/kick this idiot please
+help 2019-06-14 18:10:41 https://www.roblox.com/users/632981869/profile his profile
+help 2019-06-14 18:11:51 ok
+help 2019-06-14 18:12:43 he really likes to make that sign (same guy)
+help 2019-06-14 18:14:09 ''imma be popular'' he said
+help 2019-06-14 19:00:39 ah ok
+bug-reports 2019-06-16 12:59:36 this beautiful F-111 Aardvark, is now broken. after spawn. nothing is working, it can't move the wings, it cant retract the landing gears, its even not moving when im taking full power
+bug-reports 2019-06-16 16:43:42 ok
+bug-reports 2019-06-19 11:41:29 what about this?
+creations-chat 2019-06-23 09:56:29 Hawker Siddeley Harrier (clicked accidentally on Enter), can take-off and land vertical, uses 449 blocks rank requested: Technician (Advanced), https://www.youtube.com/watch?v=8gi3MkLRayI&t=9s link to my showcase at my channel to prove that it can take-off and land vertical
+bug-reports 2019-06-25 14:19:18 #joyboy2776 that happend also with my F-111 aardvark
+bug-reports 2019-06-25 18:04:43 this is where i spawn short after i respawn my jet, and this happends many times. I spawn at my main seat in my cockpit
+bug-reports 2019-06-25 18:15:57 well, maybe this is a bug: this happend short after i spawn my jet. The motors are bugging/glitching
+bug-reports 2019-06-25 18:17:16 i didn't used lock
+bug-reports 2019-06-25 18:17:30 ok
+bug-reports 2019-06-28 14:32:08 me just after i respawn. i was in a dive before i respawn. first i had hair....... lol
+bug-reports 2019-06-28 14:34:39 i have hair now btw
+bug-reports 2019-06-28 14:36:05 ok
+help 2019-07-02 15:34:14 another nazi sign. his playername is CannonCrocket1. he is not a very big nazi fan. (he's german too). he doesn't care about what happend in the netherlands (hitler killed so many people) ban him, he deleted that sign now, but he might make it again in another server
+help 2019-07-02 15:38:35 he's also making us mad
+help 2019-07-02 16:30:57 Oh lol i forgot
+help 2019-07-02 16:31:08 <@!217336009455566848>
+help 2019-07-03 08:31:37 when will they open the suggestions?
+help 2019-07-03 09:03:50 X_X
+help 2019-07-03 09:06:18 ok
+creations-chat 2019-07-04 13:51:44 My F-22 Raptor. people says this one is better then fish tanks f-22 raptor, but what do you think?
+creations-chat 2019-07-04 15:54:22 <@!210141202698338304> its an old fighter jet, i made it before the update with the materials arrived
+creations-chat 2019-07-04 19:34:59 I really want to copy that landing gears technic, its a-m-a-z-i-n-g-!-!-! (Its allowed to copy small things?)
+bug-reports 2019-07-07 09:40:58 ik this is an old glitch, but it isn't fixed. the 2 white parts at the end of the suspension sticks together. this happens when i spawn my A320, but also when i drive with an off-road car in the nature (my english is a bit bad, so i'm sorry)
+bug-reports 2019-07-07 18:37:28 an altitudemeter in building mode.......
+bug-reports 2019-07-08 11:23:23 this is also an old glitch i guess, but it's still not fixed
+bug-reports 2019-07-09 07:04:38 when scrolled into first person, the block dissapears and only the green lines are visible, when scrolled into third person, the block appears
+bug-reports 2019-07-09 07:07:38 I reported this glitch months ago. After respawning my vehicle, the buttons in the right side are not responding, im clicking so much on them, but they aren’t responding. Only the buttons on the left side responds. After 20 seconds waiting, the right side is responding
+bug-reports 2019-07-09 08:13:19 ok
+help 2019-07-09 08:14:32 looks my embraer 190 good?
+help 2019-07-09 08:19:44 ok
+help 2019-07-09 08:34:46 yeah
+help 2019-07-09 08:39:04 ok
+bug-reports 2019-07-09 12:36:03 number 2 cant be a lag, because it happends also in vipservers
+help 2019-07-10 18:56:51 that thing in the circle does not move, idk how, but it's absolutely not connected with the other part. so can i report this as bug/glitch/issue etc.? (this will be Thunderbird 3 btw)
+help 2019-07-10 19:11:21 oh lol
+help 2019-07-10 19:13:18 <@!429665143677255681>  this is Thunderbird 3 btw
+help 2019-07-10 19:14:22 its a storage with vehicles
+help 2019-07-10 19:14:53 the Thunderbirds is a rescue team btw and they have 6 thunderbirds
+help 2019-07-10 19:16:22 lol no
+help 2019-07-10 19:36:24 lol yeah
+bug-reports 2019-07-12 18:20:21 and what about this? (is this a hitbox issue too?)
+bug-reports 2019-07-12 18:29:17 i know, but its still not fixed
+bug-reports 2019-07-12 19:07:05 this is also a pretty old thing
+bug-reports 2019-07-12 19:17:15 yes
+bug-reports 2019-07-12 19:17:19 that could be the problem
+bug-reports 2019-07-12 19:18:47 idk why but my skin is changed into a noob after i respawn during a glitch in the following picture
+bug-reports 2019-07-12 19:18:53 yes thats this one
+bug-reports 2019-07-15 10:23:29 this could be the cause of the 2 737 8 MAX crashes
+bug-reports 2019-07-15 10:27:29 the motors glitched (it hasn't motor option lock)
+bug-reports 2019-07-15 11:10:41 this is the oldest glitch i know, when engines are turned on or taking power, you will hear this
+bug-reports 2019-07-15 11:11:31 and i mean ALL engines
+bug-reports 2019-07-15 11:53:57 many other people still thinks its a glitch
+bug-reports 2019-07-15 13:03:51 rickje, remove that easter egg please
+bug-reports 2019-07-16 08:20:22 this is my vehicle, it spawns at the airport, but it belongs in a house, which spawned at my base.
+bug-reports 2019-07-16 08:24:19 and now my vehicle spawns in another base
+bug-reports 2019-07-16 08:25:23 
+creations-chat 2019-07-21 09:54:32 the Fyra, has 1150 blocks, has working doors and lights, requesting Novice
+creations-chat 2019-07-21 09:58:57 sure
+creations-chat 2019-07-21 09:59:47 
+bug-reports 2019-07-21 10:29:33 taking full power, but it isn't moving
+bug-reports 2019-07-21 10:33:46 i has so many super rockets
+bug-reports 2019-07-21 10:34:04 it*
+bug-reports 2019-07-21 10:34:19 no
+bug-reports 2019-07-21 10:34:22 its not anchored
+bug-reports 2019-07-21 10:34:27 it didn't had an anchor block
+bug-reports 2019-07-21 10:34:38 it never had an anchor block actually
+bug-reports 2019-07-21 10:34:43 yes
+bug-reports 2019-07-21 10:35:07 uh no
+bug-reports 2019-07-21 10:35:21 after i reload it, it flies
+bug-reports 2019-07-21 10:36:25 it can hit the 500 knots
+bug-reports 2019-07-21 10:36:46 it happends sometimes
+bug-reports 2019-07-21 14:52:34 its not lag because it can happen also in a vipserver, and putting more super rockets isn't working
+bug-reports 2019-07-21 17:02:41 <@!476629966780497931>  thanks
+creations-chat 2019-07-24 07:28:22 F/A-18 Super Hornet
+creations-chat 2019-07-24 07:33:14 I saw people with their F-15, this is my pretty big F-15 Eagle
+plane-crazy 2019-07-24 13:40:14 <@456226577798135808> My F-18 and F-15 are not the same
+plane-crazy 2019-07-24 13:41:44 i think so
+bug-reports 2019-08-21 11:22:06 sometimes when i spawn my creation, all engines (propeller, rocket, jet etc.) are muted
+bug-reports 2019-08-21 11:36:45 does not work
+bug-reports 2019-08-21 12:05:54 something is wrong with the propeller engines, they aren't working when I'm flying with my plane. they are critical because they avoid the plane with banking dangerous. but it doesn't, they are causing the plane with banking, which results in a crash or dive
+bug-reports 2019-08-21 12:55:22 Idk how to call it, but this is what i mean
+bug-reports 2019-08-21 12:56:19 yes im poor at speaking/writting english
+bug-reports 2019-08-21 14:54:52 oof nvm lol. 1 propeller engine weren't working; On/Off mode was turned off, and it had controls W and S. problem solved
+bug-reports 2019-08-22 09:43:14 wtf
+bug-reports 2019-08-22 09:43:59 my f-15 is uncontrollable when i move a motor
+bug-reports 2019-08-22 09:44:26 yeah D:
+bug-reports 2019-08-22 09:44:33 😩
+bug-reports 2019-08-22 15:34:36 trap doors without setting Lock
+bug-reports 2019-08-23 12:39:53 when i spawn every creation, i can't do anything, nothing works. i have to wait 5 or 10 seconds until everything works
+bug-reports 2019-08-23 15:36:57 3 times is 3 times worse than 2 times
+bug-reports 2019-08-25 14:50:27 this happend....
+bug-reports 2019-08-25 14:50:42 after this glitch
+bug-reports 2019-08-25 15:29:17 oh oof
+bug-reports 2019-08-29 06:11:49 first, the turret rotates to the left, and then it rotates a bit to the right. it works also the opposite: when the turret rotates to the right, it will rotate a bit to the left. It's maybe hard to understand, but when you watch the movie, then you'll maybe understand what I mean (motors are still bugging, even without motor setting lock)
+bug-reports 2019-08-29 06:11:57 it's a leopard 2 btw
+bug-reports 2019-08-29 07:56:13 and when this happends, all motors and engines will bug
+bug-reports 2019-08-29 08:25:49 it's not easy to make a leopard 2 turret
+bug-reports 2019-08-29 12:59:30 <@!217336009455566848> im not using pistons
+bug-reports 2019-09-01 11:51:27 wadu hek
+bug-reports 2019-09-01 11:51:36 
+bug-reports 2019-09-08 12:39:35 i made this aircraft for school, it's kind of homework. so its important that this glitch/bug is gonna be fixed. i try to drop the rescuecabin, before the last update, it worked fine, but now after the update, its totally bugged/glitched
+bug-reports 2019-09-08 12:53:29 im flying below the 90 knots/mph and its still bugging. i really dont think its going too fast because before the latest update, i dropped it with almost 300 knots/mph
+bug-reports 2019-09-08 13:08:50 yes
+bug-reports 2019-09-08 13:09:03 no magnets
+bug-reports 2019-09-10 15:30:57 <@!217336009455566848> when you got time so i can show it to you?
+bug-reports 2019-09-11 18:51:43 <@!217336009455566848> when do you have time so i can show the bug/glitch?
+bug-reports 2019-09-13 18:40:07 <@!217336009455566848>  when you got time so i can show you this glitch/bug?
+bug-reports 2019-09-13 18:41:24 ok
+bug-reports 2019-09-13 18:41:56 do i have to send a link from my roblox profile?
+bug-reports 2019-09-13 18:42:05 ok
+bug-reports 2019-09-13 18:42:10 link?
+bug-reports 2019-09-13 18:42:24 LuchtLeiderNederland
+bug-reports 2019-09-13 18:42:53 yes im dutch
+bug-reports 2019-09-13 18:43:14 lol
+creations-chat 2019-09-13 20:51:17 wait did i wrote J wrong
+creations-chat 2019-09-13 20:51:28 you're kidding me
+creations-chat 2019-09-13 20:53:32 nothing happend
+creations-chat 2019-09-14 08:34:58 Stridsfordon 90, known as Combat Vehicle 90 (CV90), Swedish infantry fighting vehicle, has 659 blocks
+creations-chat 2019-09-16 18:58:19 Swedish Archer Artillery System 08, it's the best howitzer on the world. it has 633 blocks
+creations-chat 2019-09-23 18:29:20 Swedish Stridsvagn 103B, WW2 turretless main battle tank/tank destroyer. It has 544 blocks
+creations-chat 2019-09-23 18:35:52 <#478584971670454284>
+bug-reports 2019-09-28 09:21:43 my F-22 has the same bug like my F-15. when i activate a motor, the entire plane falls out of the sky. and than nothing works anymore, this happens everytime when i spawn it, like my F-15
+bug-reports 2019-10-20 18:18:15 my friend has a glitching/bugging Maus (WW2 german tank).  we know what causes this: suspension, the suspension is connected with 2 (normal) motors. maybe this mix of suspension and 2 motors causes this glitch
+bug-reports 2019-10-20 18:20:22 yes
+bug-reports 2019-10-22 19:13:01 motors have been passed out? well this landing gear of my friend is using motor 1, and its going slower than the requested speed 1, and its resetting itself while Reset has been turned off, than it stops completely with working, this happens also with the motor 2. Motor 2 broken counter 77(?)
+bug-reports 2019-10-22 19:16:54 lol
+bug-reports 2019-10-22 19:16:57 he just made a mistake
+bug-reports 2019-10-22 19:17:11 MOTOR 2 BROKEN COUNTER 76*
+bug-reports 2019-11-03 14:04:34 i've never seen this before, my Me-262 glitches immediatly after spawning, probably motor 2 is causing it, but it uses a lot of motor 1's so that could be the cause too. i'll try to remove at first all motor 2's and than if its still glitching, removing all motor 1's
+bug-reports 2019-11-03 14:06:08 problem is motor 2
+bug-reports 2019-11-03 14:06:24 oof
+bug-reports 2019-11-03 14:09:41 i conclude that if i place more than 5 motor 2's on my Me-262, it will glitch, if i place 5 motor 2's or less, than it doesn't glitch
+bug-reports 2019-11-03 16:18:40 <@!435946988559925248> servo is on
+bug-reports 2019-11-24 10:46:22 is this an old or new bug? anyway i jump on the elevator with ropes of my friend, but this happend
+bug-reports 2019-12-01 15:40:14 This bug happend short after i've added a motor 2.
+bug-reports 2019-12-01 15:45:59 and unfixed
+reports 2019-12-05 15:25:41 Player: progamerluuk
+Reason: 2 Offensive Symbols, tries to lag me
+Evidence: https://gyazo.com/6402122c7e0b2cc9e66a4b6677f1386b
+Profile: https://www.roblox.com/users/97709711/profile
+bug-reports 2019-12-05 19:32:29 it happens already a few months, it took me 10 or 20 seconds until it disappeared. But lately, it took me a minute, every quarter-hour. So it happens I think 5 - 10 times per day. I can't click on the buttons of the left side of my screen, only the right side works. So the only thing I can try to do is reloading the build to let this bug disappear. It's just a waste of time.
+bug-reports 2019-12-05 19:32:44 something have increased the time of this bug
+bug-reports 2019-12-05 19:33:37 oof it just happend 2 times to me
+bug-reports 2019-12-05 19:38:23 uh
+bug-reports 2019-12-05 19:38:25 1
+bug-reports 2019-12-05 19:43:07 thats right
+creations-chat 2019-12-05 20:15:06 <@!621961120617594880> that V-22 Osprey nose looks like mine
+bug-reports 2019-12-06 10:39:04 <@!338393512389378059> madattak is not be able to develop because he’s busy with his other games and his job, so rickje is the only developer right now.
+bug-reports 2019-12-06 21:33:03 this happend WHILE IT'S ANCHORED (+option physics). very insane
+bug-reports 2019-12-06 21:34:15 looks like its getting worse
+bug-reports 2019-12-06 21:35:29 the anchor-option physics caused this
+bug-reports 2019-12-06 21:37:02 when Physics is turned off, its not bugging until i unanchor it
+bug-reports 2019-12-06 21:37:16 even when i wait 20 seconds it getting bugged and flinged
+bug-reports 2019-12-06 21:38:46 it's also getting flinged when i wait 1 minute
+bug-reports 2019-12-06 21:38:54 motor 2's are totally bugged
+bug-reports 2019-12-06 21:39:40 looks like the amount of motor 2's caused this
+bug-reports 2019-12-06 21:40:06 i've just deleted 2 motor 2's and the bug is getting decreased, but they are still bugging and glitching
+bug-reports 2019-12-10 16:06:23 the anchor option Physics has been totally bugged, it doesn't anchor the plane with the known motor 2 bug/glitch. btw whats the speed record cuz i hit the 80 million sps i guess
+bug-reports 2019-12-10 16:08:20 this bug could appear by a mix of the anchor option Physics and motor 2 with mouse control
+bug-reports 2019-12-10 16:13:40 thx for info
+bug-reports 2019-12-10 20:14:50 i tried to report a guy in my server in <#623337136267067393>  but MEE6 said ''don't send the same message over and over again! :ANGRY6:'' while it's the first time in a month that i report somebody
+bug-reports 2019-12-10 20:14:56 and now i have to wait 10 minutes
+bug-reports 2019-12-10 20:20:53 i want to put 5 links
+bug-reports 2019-12-10 20:20:59 is that too many?
+bug-reports 2019-12-10 20:24:36 Okay i am going to add less
+reports 2019-12-10 21:02:20 Player: luchijano2332
+Reason: copying my F-35 without any permission
+Evidence: https://gyazo.com/eaad45c067ebf41ce2912de7afe4daef
+https://gyazo.com/91e2ae7aa78e1f64fd6dc1bf75edca65
+https://gyazo.com/6ffb9d82b633218c04fd74b8c8d2d067
+Profile: https://www.roblox.com/users/1351295697/profile
+bug-reports 2019-12-24 15:28:27 https://gyazo.com/e4ddc9ff7bee3077e7ae699b77655dbf
+bug-reports 2019-12-24 15:28:43 jesus
+bug-reports 2019-12-24 15:29:34 this happend short after i got the bug where the left side of my screen is not working
+bug-reports 2019-12-24 15:30:06 and this glitch happend 3 times short before that bug
+bug-reports 2019-12-24 15:32:07 you can solve this bug and let it disappear by spawning and respawning your creation
+bug-reports 2019-12-24 21:14:45 i am not be able to report a guy called WorldsBestChampion09 (because of nsfw) in <#623337136267067393> while it only has 1 link (i was not be able to search his profile or roblox will say ''cannot find #######'')
+bug-reports 2019-12-24 21:14:57 is this because of somebody else reported him already?
+bug-reports 2019-12-25 10:30:40 looks like the motors are resetting them selves while Reset is turned off. those folds are containing only motor 1's. this is the first time i am seeing this glitch/bug in my whole life, and then i am getting kicked from the private server of my friend hmhmhmhmhmmhm
+bug-reports 2019-12-25 10:32:16 i am getting kicked everywhere
+bug-reports 2019-12-25 10:32:30 and i am trying to make a showcase for a viewer
+bug-reports 2019-12-25 10:33:11 (why does this happen with literally my biggest plane i ever have which took me 7 hours to build)
+bug-reports 2019-12-25 10:37:16 it happens with almost everything i got
+bug-reports 2019-12-25 10:38:43 even the small ones
+bug-reports 2019-12-25 10:39:09 all my creations i made for my viewers are failed because of this bug
+bug-reports 2019-12-25 10:40:47 even with my M-18
+bug-reports 2019-12-25 10:41:56 i gtg, when im back i'll try to spawn my small and big creations on my alts or i have to stop with my youtube channel
+bug-reports 2019-12-26 11:20:40 
+bug-reports 2019-12-26 11:20:40 i know this is not a glitch or bug or whatever but its annoying. those places are having a small area which is much higher than the bases and surroundings. everybody who has a base straight behind that area and are testing their new aircraft are colliding with this and those area's are high enough to stop aircraft for a while and it will crash
+bug-reports 2019-12-26 11:23:41 idk how to call those area's
+bug-reports 2019-12-26 11:33:40 ik, but i wouldn't call it high terrain lol
+bug-reports 2020-01-08 19:31:31 last month, from 7 december to 7 january, i was counting how much times my building-tools were frozen. this bug will freeze all the buttons and tools on the left side of my screen. i've counted  115 bugs, with a record of 24 times on 1 day. last half hour it happend 3 times. 4 times, this bug led to the bug where you'll get everything in the building menu twice or more. so maybe, the bug where the left side is frozen, could lead to twice or more blocks in the building menu. i lost 115 minutes, almost 2 hours because of this bug
+bug-reports 2020-01-10 15:56:49 the bug which i have, the bug where the building menu and the other tools on the left side of my screen got frozen, happens everywhere, in all empty private servers, full and almost-empty servers, even when a full server spawns their smallest and biggest creation. it occurs with every creation i got, small and huge. last hour it happend already 7 times, and 1 single bug takes me 1 minute untill it dissappears (which means i lost 7 minutes, but last month i lost 115 minutes almost 2 hours)
+bug-reports 2020-01-10 15:57:08 this is pretty game breaking
+bug-reports 2020-01-10 15:58:57 impossible, i got a gamingpc with 5G
+bug-reports 2020-01-10 15:59:17 well maaaaayybbeee it is but i dont think so
+bug-reports 2020-01-11 20:11:47 all motors, pistons and other movable things are not working when building is anchored, because to decrease glitches, bugs and lag?
+bug-reports 2020-01-11 20:44:56 well uh it wasnt supposed as a bug report but its weird to me, and its getting complicated because when its anchored, a motor is moving at my test thingy
+bug-reports 2020-01-11 20:45:30 btw my friend has a bug where he has no plot, and is not be able to build anything. he is getting this bug every day, and rejoining is not helping
+bug-reports 2020-01-11 20:45:45 this counts as a very game breaking bug?
+bug-reports 2020-01-11 20:46:05 looks like he is the only one who has this bug
+bug-reports 2020-01-18 11:06:15 looks like it is going to be a common bug/glitch
+creations-chat 2020-01-20 19:05:35 hm i cant recognize it as an apache
+creations-chat 2020-01-20 19:06:58 try to make it look like this
+bug-reports 2020-01-22 13:15:30 i got the famous bug too; this isn't my build
+bug-reports 2020-01-22 13:17:42 it isn't
+bug-reports 2020-01-22 13:17:53 lol i wouldn't make something like that
+bug-reports 2020-01-22 13:20:43 still there
+bug-reports 2020-01-22 16:24:04 not anymore
+bug-reports 2020-01-22 16:24:41 had to gtg around 14:20
+bug-reports 2020-01-22 16:27:43 uh rickje, i just found the server, but you left discord
+bug-reports 2020-01-22 16:30:03 maybe this could help you to find the bug or the server or whatever
+bug-reports 2020-01-22 16:31:09 i'll do
+bug-reports 2020-01-22 16:31:27 
+bug-reports 2020-01-22 16:31:47 oh uh what
+bug-reports 2020-01-22 16:32:19 yes, he's online
+bug-reports 2020-01-22 16:52:05 hm?
+bug-reports 2020-01-22 16:52:22 in that developer thing?
+help 2020-01-23 11:02:00 Rocket engines may be better for big ships
+bug-reports 2020-01-24 06:59:35 <@616496814652129280> just move your build or reload it dont rejoin
+creations-chat 2020-01-30 21:54:20 the design is nice, but i don't like the black color so well
+creations-chat 2020-01-30 21:54:59 ok
+creations-chat 2020-01-30 21:55:31 ok
+creations-chat 2020-01-30 21:56:03 K2 Black Panther, a South-Korean main battle tank, and is part of the Third Generation Battle Tanks. Is since 2014 in operational service and will replace the M48 Patton and the K1 series which are entering retirement
+creations-chat 2020-01-30 21:56:04 
+creations-chat 2020-01-30 21:56:05 
+creations-chat 2020-01-30 21:57:57 thx
+bug-reports 2020-01-31 13:48:02 this is absolutely common
+bug-reports 2020-01-31 13:48:26 again, a build of somebody else who have left the server, but his build is still here
+bug-reports 2020-01-31 13:49:40 with this glitch, its becoming easier to copy other builds
+help 2020-02-01 08:26:20 <@456226577798135808> SPS means studs per second, the speed of Roblox
+help 2020-02-01 08:27:15 Idk why the developers were so stupid to add their own speed instead of miles, kilometers or knots  per hour
+help 2020-02-01 08:27:56 Or per second whatever
+help 2020-02-01 11:09:55 Got 40 upvotes, worth to be showed in the hall-of-fame, am i allowed to ping an admin?
+help 2020-02-01 14:00:44 Mine should be in the hall of fame too
+help 2020-02-01 14:01:23 Btw that lambo really needs to be in hall of fame
+bug-reports 2020-02-03 19:41:26 i don't really know what happend here, but during a normal flight, it got bugged by something and got flinged. and then the gravity gets stronger and pulls me immediately to the surface and i can't get out of it. oh help pls dont make stranger things exist
+bug-reports 2020-02-03 19:41:29 
+bug-reports 2020-02-03 19:55:05 yeah
+bug-reports 2020-02-03 19:55:12 it had always
+bug-reports 2020-02-04 07:28:48 That kick thingy haven’t happen with me but sadly with my friend
+bug-reports 2020-02-04 07:29:13 He managed to join again after he logged in with his alt
+bug-reports 2020-02-04 07:45:39 And than rejoining with his other acc
+the-dump 2020-02-04 14:20:15 
+creations-chat 2020-02-07 14:02:14 Formula One Power Boat
+creations-chat 2020-02-07 20:13:14 But afterall its nice 👍
+creations-chat 2020-02-07 20:13:14 That nose and the engines oof
+creations-chat 2020-02-08 15:20:57 very nice
+creations-chat 2020-02-08 15:22:36 idk why but if i hear or see F-111 aardvark i think immediately about a dirty pig cuz aardvark sounds like aardvarken or aarde varken which is a dutch word for literally dirt pig lol
+creations-chat 2020-02-08 15:59:12 <@!435864400235200522> lol didn't knew that
+creations-chat 2020-02-08 16:19:59 change that color please
+creations-chat 2020-02-08 16:20:38 and the engines are wrong
+creations-chat 2020-02-08 16:20:51 but the others are good
+bug-reports 2020-02-10 07:29:28 No its also with mine
+bug-reports 2020-02-10 07:32:37 It saves the keybinds but not on the right way
+bug-reports 2020-02-10 07:37:17 I can only explain it with 2 pictures but i am right now on school
+bug-reports 2020-02-10 08:47:24 I am allowed to use my phone whenever i want but i need to ask permission, and i was on my ipad cuz we work on ipads
+bug-reports 2020-02-10 15:36:33 fix this bug please, i have this for over a half year and it takes me 1 minute before this bug dissapears. it disables all buttons on the left side of my screen while the right side is not disabled. people are saying it is caused by lag, but it **isn't** it happens everywhere and always, in every vip and public server even when a public server is almost empty. and this bug causes another very-very known bug where people have twice more blocks.
+bug-reports 2020-02-10 15:38:40 https://gyazo.com/b107c38474f8051bbb3131b6265f11e8
+when people enter a server, this is their photo mode keybinds. these do not work
+bug-reports 2020-02-10 15:39:08 https://gyazo.com/540f54edef4ac631011ec392f2c85d03
+but when you change it like this, it will work
+bug-reports 2020-02-10 15:40:06 it happens everywhere even when people spawn small creations or they spawn nothing
+bug-reports 2020-02-10 15:40:16 i did
+bug-reports 2020-02-10 15:40:26 i did in every vip server i got, thats 7 vip servers
+bug-reports 2020-02-10 15:40:39 couldn't understand how 5G could be so bad
+bug-reports 2020-02-10 15:41:19 sad
+bug-reports 2020-02-10 15:41:29 but am i the only one with this bug
+bug-reports 2020-02-10 15:50:37 oof
+creations-chat 2020-02-11 06:43:11 I prefer rogue one
+creations-chat 2020-02-11 07:17:40 Idk why but I don’t like the old republic and jedi order stuff
+creations-chat 2020-02-11 07:18:31 I like the galactic civil war with the alliance and the empire cuz its the classic story
+creations-chat 2020-02-11 07:39:08 👍
+creations-chat 2020-02-11 13:14:22 Small tail for such a big aircraft
+creations-chat 2020-02-11 13:14:41 But the nose looks good
+creations-chat 2020-02-12 07:51:14 Stop discussing about this bullshit
+help 2020-02-12 13:39:23 Thats nice
+help 2020-02-12 13:39:48 The father of my grandfather was an australian soldier during the second world war
+help 2020-02-12 13:40:01 And fought against the japanese soldiers
+help 2020-02-12 13:40:41 Got captured, but escaped during a bombardment
+creations-chat 2020-02-14 08:44:19 “I have a bad feeling about this” antenna
+creations-chat 2020-02-14 13:22:35 Thats a toxeed tutorial right
+creations-chat 2020-02-14 13:22:51 Or not?
+creations-chat 2020-02-18 09:08:57 Leopard 2, a german main battletank, developed during the 1970s and entered operational service 1979 and replaced the leopard 1. they are still in service and entered combat during the war in afghanistan and the syrian civil war. 3.900 tanks have been made.
+creations-chat 2020-02-18 09:09:00 https://gyazo.com/5aebf8addb35652144b89817433aea27
+creations-chat 2020-02-18 09:09:29 thx
+bug-reports 2020-02-18 09:37:25 friction is also a problem, and not just a little one but a pretty big one
+bug-reports 2020-02-18 09:38:50 a moving objects needs space to move, but in real, thats not always true
+bug-reports 2020-02-18 09:40:14 uhm. no?
+bug-reports 2020-02-18 09:40:21 does that improve friction?
+bug-reports 2020-02-18 09:40:30 i can try
+bug-reports 2020-02-18 09:55:08 ice didn't work
+bug-reports 2020-02-18 10:42:53 fabric doesn't work, i know fabric creates more grip, but its only useful for my wheels
+bug-reports 2020-02-18 11:10:11 well in this case, i need something which is the opposite of fabric/friction
+bug-reports 2020-02-18 11:15:15 ice doesn't work i said
+bug-reports 2020-02-18 11:15:44 i guess its the in-game or roblox physics
+bug-reports 2020-02-18 11:27:40 when i move the tank, the friction at the cannon and the spring increases
+bug-reports 2020-02-18 11:28:07 after i moved it, i have to move the cannon its self to make it work
+creations-chat 2020-02-18 11:34:33 or make a mendeleev tank lol
+creations-chat 2020-02-18 11:34:43 the most squary tank ever
+creations-chat 2020-02-18 11:35:36 but its a super heavy tank, and has almost the same weight as the panzerkampfwagen maus, but is a soviet ww1 concept
+creations-chat 2020-02-18 11:36:29 vezdekhod is a funny armored car, its actually a ww1 shoe on wheels but with a turret
+creations-chat 2020-02-18 11:38:15 and the tog 2* is almost literally a driving boat, its 13 metres (14 yards) long, and is even longer than the maus, but it has a weak armor
+creations-chat 2020-02-18 11:38:28 im becoming a tankopedia
+creations-chat 2020-02-18 12:03:39 yeah lol
+creations-chat 2020-02-19 10:45:54 <@!537491215126626315> yeah lol the mendeleev tank is actually a driving bunker, and it can retract the treads, so it can become a real bunker xd
+creations-chat 2020-02-19 12:09:12 xd
+help 2020-02-24 12:18:50 For what is <#681209786942881806>? To write down the most upvoted suggestions or whatever?
+the-dump 2020-02-24 12:20:10 
+the-dump 2020-02-24 12:21:29 Yeah xd
+bug-reports 2020-02-26 10:18:24 what the f* is this
+bug-reports 2020-02-26 10:18:26 loooooool
+bug-reports 2020-02-26 10:21:47 i have no idea what this causes and how to call it
+creations-chat 2020-02-28 09:41:09 Btw its plane crazy, you’re free to modify existing vehicles
+creations-chat 2020-02-28 09:59:53 Relax, its a game
+creations-chat 2020-02-28 11:26:49 Not a tic-tac-toe game?
+creations-chat 2020-03-02 14:02:39 So more VTOL planes can take-off at the same moment?
+bug-reports 2020-03-03 20:22:46 this never happend before. probably after the recent update
+bug-reports 2020-03-03 20:23:06 and size does not affect it, cuz a huge titanic just folded succesfully without any bugs
+bug-reports 2020-03-04 15:29:56 Lock has always been broken
+bug-reports 2020-03-04 15:30:06 Well most of the time
+creations-chat 2020-03-04 15:31:41 Looks better than your previous JSF
+bug-reports 2020-03-06 07:42:45 Thats a lot of damage
+bug-reports 2020-03-06 21:59:21 No wmv
+bug-reports 2020-03-06 21:59:50 Its an easy way to hide computer virusses
+bug-reports 2020-03-06 21:59:56 People told me
+creations-chat 2020-03-08 17:41:39 Anakin*
+bug-reports 2020-03-08 18:42:48 yeah that bug is old
+bug-reports 2020-03-08 18:44:08 a motor connected with another motor. this is why a lock function is helpful for motor 2's
+bug-reports 2020-03-08 19:22:49 thats not a bug thats roblox i guess
+bug-reports 2020-03-08 19:23:00 yeah
+bug-reports 2020-03-08 19:45:18 however, its roblox
+bug-reports 2020-03-08 20:07:05 https://www.youtube.com/watch?v=Rj2wcR4V93Q
+huge glitch
+bug-reports 2020-03-08 20:08:24 i am getting 0.02 fps or something and i am hitting 1 bilion sps, it has anchor blocks. 1 in the nose and 1 in the wing
+bug-reports 2020-03-08 20:10:20 i know, the account where i posted the vid was just a random one i created once has a very weird name
+bug-reports 2020-03-08 20:10:52 you really like .
+bug-reports 2020-03-08 20:10:56 hmm? lol
+bug-reports 2020-03-08 20:14:19 very nice what is going on over there
+creations-chat 2020-03-08 20:33:20 <@!368510721153171456> no wmv files. These are not allowed because it is easy to hide computervirusses in it.
+the-dump 2020-03-10 11:09:33 This armed scooter can penetrate 100 mm armor with HEAT shells lol it could even destroy an abrams
+the-dump 2020-03-10 11:09:58 Its a Vespa 150 tap btw
+the-dump 2020-03-10 11:10:22 Lol
+the-dump 2020-03-10 11:10:34 xd
+the-dump 2020-03-10 11:11:59 Best anti-tank scooter ever lol
+bug-reports 2020-03-10 14:01:24 Wait what is the mobile version already online?
+bug-reports 2020-03-10 14:02:02 Test server alright nvm
+creations-chat 2020-03-11 09:22:44 lol
+creations-chat 2020-03-12 08:31:03 Oof
+creations-chat 2020-03-12 08:47:42 <@!331490905846448129> how the hell did you made that
+the-dump 2020-03-12 10:45:28 
+the-dump 2020-03-14 13:26:51 This is what you need to do when people are trying to steal your toiletpaper because of corona
+bug-reports 2020-03-15 16:50:46 what in the name of hell is this
+bug-reports 2020-03-15 16:52:46 it may caused by these invisible blocks, i can't see or delete them.
+bug-reports 2020-03-15 16:53:15 no camera's
+bug-reports 2020-03-15 16:55:16 
+bug-reports 2020-03-15 16:55:24 <@!217336009455566848> this is gamebreaking
+bug-reports 2020-03-15 16:55:46 3 vids, from 1 bug or whatever
+bug-reports 2020-03-15 16:56:06 TeslaTroop
+bug-reports 2020-03-15 16:56:11 slot 6
+bug-reports 2020-03-15 16:57:54 spawnbutton
+bug-reports 2020-03-15 16:58:04 thats it
+bug-reports 2020-03-15 16:58:54 just spawnbutton
+bug-reports 2020-03-15 16:59:12 and it should cause the fling immediately
+bug-reports 2020-03-15 16:59:24 server problem?
+bug-reports 2020-03-15 16:59:46 i'll try to rejoin
+bug-reports 2020-03-15 17:00:09 yes i tried to reload <@!252094891448860673>
+bug-reports 2020-03-15 17:00:10 ok
+bug-reports 2020-03-15 17:00:37 im in the server
+bug-reports 2020-03-15 17:09:49 yup
+bug-reports 2020-03-15 17:09:56 thats whta the bug caused
+bug-reports 2020-03-15 17:10:00 what*
+bug-reports 2020-03-15 17:10:05 or fling
+bug-reports 2020-03-15 17:23:01 i am going to join my other friend who made place for you in the server, if you need me for the bug, just ping or dm me or whatever
+creations-chat 2020-03-15 18:47:19 yup he did
+creations-chat 2020-03-15 18:47:27 self upvote
+creations-chat 2020-03-16 11:15:15 rushed aircraft
+creations-chat 2020-03-16 11:15:34 6 rockets and 9 guns
+creations-chat 2020-03-16 11:16:00 isn't that a lot of weapons on a single aircraft?
+the-dump 2020-03-20 22:19:03 Buy now the LEGO Coronavirus Panic set!
+creations-chat 2020-03-27 07:53:33 SR-91 Aurora, was a rumoured 1980's jet fighter, part of the Black Project. Was designed to intercept UFO's and sighted in the US and the UK, but the US government and the FBI denied such an aircraft was ever built. Now it's identified as a UFO
+creations-chat 2020-03-27 07:53:45 
+creations-chat 2020-03-27 07:53:46 
+creations-chat 2020-03-27 07:53:47 
+creations-chat 2020-03-27 07:57:12 lol
+help 2020-04-07 18:51:45 does a driving house, as big as a plot with balls in it count as lagbombing?
+help 2020-04-07 18:52:24 ik lol
+help 2020-04-07 18:52:45 but somebody in my server drove for 7 minutes with his house, lagging the server
+help 2020-04-07 18:53:18 yeah
+help 2020-04-07 18:53:46 well the problem is, im in the server with 2 other friends, btw he stopped with driving
+bot-central 2020-04-08 08:14:55 oof
+bot-central 2020-04-08 08:17:16 wth did they blocked the suggestion command
+bot-central 2020-04-08 08:19:31 i. want. to. suggest. something. which. isn't. suggested. before.
+bot-central 2020-04-08 08:25:33 it didn't worked when i wanted to suggest something
+bot-central 2020-04-08 08:25:57 pay respect for rescuers and doctors who are trying to heal corona patients by adding somewhere on the map the sign ''thank you, coronavirus helpers''
+bot-central 2020-04-08 08:26:10 ik it sounds weird
+bug-reports 2020-04-10 14:37:47 huge bug/fling with the personal-parachute. the only thing you need to do to trigger this bug is to activate the parachute
+bug-reports 2020-04-10 15:20:13 maybe you need a plane with 1k blocks and the same ejection seat
+bug-reports 2020-04-10 18:49:46 idk what this is
+bug-reports 2020-04-10 18:49:56 oh
+bug-reports 2020-04-10 18:49:57 my
+bug-reports 2020-04-10 18:49:58 GOD
+bug-reports 2020-04-10 18:50:19 <@!217336009455566848>
+bug-reports 2020-04-10 18:50:29 W T F IS THIS OOOOF
+bug-reports 2020-04-10 18:51:02 btw i have no idea what caused that fling with the parachute
+bug-reports 2020-04-10 18:51:18 **275 errors**
+bug-reports 2020-04-10 18:58:53 my friend has also 275 errors in his developer console
+bug-reports 2020-04-10 18:59:42 thats known
+bug-reports 2020-04-10 18:59:48 motors are known to be bugged
+bug-reports 2020-04-10 18:59:55 including motor 2
+bug-reports 2020-04-10 19:02:05 you should see my errors, i have 275 errors
+creations-chat 2020-04-14 08:57:08 where's the elevator
+reports 2020-04-19 09:13:17 User: cool20uu
+Profile: https://www.roblox.com/users/432576265/profile
+Reason: Lag bomb, ignoring warnings from 4 other guys
+Proof: https://gyazo.com/b51bf7a428f945d58ec8bbeef3855bc4
+reports 2020-04-19 09:47:15 User: cool20uu 
+Profile: https://www.roblox.com/users/432576265/profile 
+Reason: Build contains derogatory language
+Proof: https://gyazo.com/bbe89d4931e6b8730e33f43caa4ff22a
+creations-chat 2020-04-19 13:16:46 what is it
+creations-chat 2020-04-19 13:16:58 a guided missile?
+creations-chat 2020-04-19 13:21:47 hm
+creations-chat 2020-04-19 13:21:50 does it work good?
+creations-chat 2020-04-19 13:21:59 ah
+creations-chat 2020-04-19 13:22:09 btw the front of that missile does not really look good
+creations-chat 2020-04-19 13:22:16 ok
+creations-chat 2020-04-19 13:22:34 but i like people who are building their own weapons, so you have my upvote
+creations-chat 2020-04-20 14:39:30 hey wait
+creations-chat 2020-04-20 14:39:39 <@!478558356324220929> THAT LOOKS EXACTLY LIKE MINE
+creations-chat 2020-04-20 14:40:22 ok
+creations-chat 2020-04-20 14:40:43 https://gyazo.com/584affa25acfe93071e3d2638db746ca
+creations-chat 2020-04-20 14:41:06 LITERALLY EXACTLY THE SAME
+creations-chat 2020-04-20 14:41:25 you know you'll get banned for this
+creations-chat 2020-04-20 14:42:21 right now i need to go, but you need to know, copying things without permission results in ban
+bug-reports 2020-04-27 08:38:23 <@!519552318484512772> what are you trying to explain
+bug-reports 2020-04-27 08:38:38 I don’t get it
+bug-reports 2020-04-27 08:39:53 Well maybe i get it, Roblox does not see there are players in your server?
+bug-reports 2020-04-27 08:40:23 That is probably a Roblox issue, not a game issue i think
+bug-reports 2020-04-27 08:41:19 Next time explain more about your bug report or people won’t understand it immediately
+bug-reports 2020-04-27 12:30:54 <@!454570394343702529> i know he means that but i don’t get it what bug he has
+bug-reports 2020-04-27 12:32:59 well i don’t cuz i know that bug already for a long time
+creations-chat 2020-04-27 17:50:36 Sad it does not fly
+the-dump 2020-04-27 19:03:05 
+the-dump 2020-04-27 19:04:11 Yeah XD
+bug-reports 2020-04-30 19:16:26 I pinged rick for having 400 errors
+bug-reports 2020-04-30 19:16:53 You can ping him i guess for that huge amount of errors
+bug-reports 2020-04-30 19:17:23 My god
+creations-chat 2020-05-05 09:01:32 oh thats sad, due to corona?
+creations-chat 2020-05-05 09:01:36 btw looks nice
+bug-reports 2020-05-07 08:29:22 no.wmv.files..use.streamable. <@!564633856184156161> .wmv.files.are.a.good.way.to.hide.virusses
+creations-chat 2020-05-07 11:25:39 for the first time i see a good looking tank with real treats
+creations-chat 2020-05-07 11:25:58 most of the time i see people with a huge box on treats
+creations-chat 2020-05-07 11:27:34 hm
+creations-chat 2020-05-07 11:27:38 let me check
+creations-chat 2020-05-07 11:28:35 sorry for my bad english word choice/grammar
+creations-chat 2020-05-07 11:29:06 tracks/treads
+creations-chat 2020-05-23 11:29:29 AH-1 HueyCobra, officially known as Attack Helicopter 1 Cobra, AH-1 Cobra. Was meant to be an emergency solution during the development of the AH-56 Cheyenne during the Vietnam war. This project failed due to problems during the test flights so the AH-1 remained in operational service. The AH-1 was the first attack helicopter gunship and was 1 meter wide. 70% of all its parts are found on the UH-1 Huey.
+creations-chat 2020-05-23 11:31:52 nice it is not posted in <#384025409945337856> there goes my upvotes
+creations-chat 2020-05-23 11:33:40 since when
+creations-chat 2020-05-23 11:33:47 thx btw
+creations-chat 2020-05-23 11:34:11 sad
+creations-chat 2020-05-23 11:35:14 thx for your upvote btw
+creations-chat 2020-05-23 11:36:14 i've used blueprints from the standard ah-1
+creations-chat 2020-05-23 11:36:51 how you mean
+bug-reports 2020-06-15 13:55:05 it is closed
+bug-reports 2020-06-15 13:55:19 they just said that in <#384025409945337856>
+bug-reports 2020-06-15 13:55:37 “Channel temporarily closed due to the bot being broken”
+bug-reports 2020-06-15 13:55:45 <@!492760737438105610>
+help 2020-06-26 19:48:03 does somebody know a less-glitching wing fold, it is triggering me
+help 2020-06-26 19:48:04 
+help 2020-06-26 19:50:10 its a b-52 by the way
+help 2020-06-26 20:05:48 i had to give each fold a different keybind and yes there are hinges
+help 2020-06-26 20:08:01 make custom control panels
+help 2020-06-26 20:08:16 white blocks are motors
+help 2020-06-26 20:08:41 yes they are or my entire fold system would fail
+help 2020-06-26 20:09:05 i know they are
+help 2020-06-26 20:10:06 well to be precisely, i was not asking for fixing the fold system, i was asking for a different fold system
+help 2020-06-26 20:10:26 but thanks for support
+help 2020-06-26 20:10:54 i see the glitches already coming but alright i will try when i have time
+creations-chat 2020-07-26 21:04:32 it has become a DC-9 with third engine
+creations-chat 2020-09-29 09:34:25 looks like the cylon space craft from battlestar galactica
+creations-chat 2020-10-02 06:28:12 mendeleev tank
+creations-chat 2020-10-02 06:29:37 xD
+creations-chat 2020-10-02 06:30:57 mendeleev tank is actually a driving bunker
+creations-chat 2020-10-02 08:00:00 <@727028164223696966> this is mine, old picture btw
+creations-chat 2020-10-02 08:01:02 lol its one of the first super heavy tank concept
+creations-chat 2020-10-02 08:01:23 lol
+general 2020-10-05 13:24:03 <@!746731989855633499>
+general 2020-10-05 13:24:50 whats going on here
+bug-reports 2020-10-12 11:07:17 i've never seen this glitch before
+bug-reports 2020-10-12 11:07:55 i was only driving with it and without any warning signs it glitches out of the world
+bug-reports 2020-10-12 11:08:25 lol
+bug-reports 2020-10-12 11:08:34 is it known?
+bug-reports 2020-10-12 11:08:41 to glitch out like that?
+bug-reports 2020-10-12 11:09:30 lock option isn't on
+bug-reports 2020-10-12 11:10:55 hm
+bug-reports 2020-10-12 18:56:01 <@!476629966780497931> i play this game and know this bug for 2 years, but my creations never glitched out like this.
+creations-chat 2020-10-22 09:08:23 <:KEKW:670310537300672528>
+creations-chat 2020-11-16 08:38:19 > any tips for making a bell x-15 in plane crazy?
+<@!726600777174483085>  It’s North American, not Bell.
+creations-chat 2020-11-16 08:40:58 Sorry, i didn’t knew that.
+creations-chat 2020-11-16 08:42:42 Have you seen the P.1500 Monster <@!407347404858458123> ?
+creations-chat 2020-11-23 11:03:50 <@!527092191189925918> its WIP?
+creations-chat 2020-11-23 11:05:33 its good so far, i think.
+creations-chat 2020-12-07 14:09:13 dark
+creations-chat 2021-03-29 10:03:01 <:sus:805543105428193301>
+bot-central 2021-03-31 08:56:47 !rank
+bug-reports 2021-04-12 08:37:41 ah sh!t here we go again
+bug-reports 2021-04-12 09:11:23 it was inactive and unusable.
+help 2021-05-01 15:13:28 
+help 2021-05-01 15:14:31 You can’t see it because you’re blacklisted.
+help 2021-05-01 15:14:48 Idk, maybe.
+help 2021-05-01 15:15:31 Ask a mod to remove your blacklist
+help 2021-05-01 15:16:19 Okay I think you should wait until somebody replies.
+help 2021-05-01 15:16:26 Or ping a mod idk.
+general 2021-05-12 09:48:02 That’s not a fuelpod. I dropped a bomb. Using fuelpods as bombs is a Hollywood thing, not my thing.
+help 2021-05-12 09:49:30 chat until you reach level 3 or something
+help 2021-05-12 09:49:41 MEE6 level 3
+general 2021-05-12 11:44:19 At least what I dropped is supposed to be a bomb and not a fuelpod.
+bug-reports 2021-05-13 10:22:26 Didn’t work for me, tried to join several games but couldn’t join
+bug-reports 2021-05-13 10:22:33 Roblox issue i guess...
+bug-reports 2021-05-13 10:23:25 Yeah
+creations-chat 2021-05-21 08:49:02 car
+help 2021-05-21 11:18:58 Su-47 didn’t have weapons, it’s an experimental aircraft/technology demonstrator.
+help 2021-05-21 11:19:09 it would’ve had weapons if the program wasn’t canceled
+help 2021-05-21 11:19:28 it would’ve had an internal weapon bay
+creations-chat 2021-05-26 07:59:51 He tried too but he made a better plane than you
+bug-reports 2021-06-16 10:18:14 It’s in PVP weapons
+bug-reports 2021-06-16 10:18:27 If I’m right
+bug-reports 2021-06-16 10:19:06 Fireworks should be in PVP weapons
+help 2021-06-19 10:34:46 Printscreen on Windows.
+creations-chat 2021-06-23 10:01:39 Looks like Minecraft
+help 2021-07-02 08:57:35 Eurocopter X^3
+help 2021-07-02 08:58:36 https://en.m.wikipedia.org/wiki/Eurocopter_X³
+creations-chat 2021-08-30 14:15:35 Fokker D.24 is a nice idea i guess
+general 2021-09-08 06:14:13 Google suspended my account and my channel because I’m apparently “too young” to even own an unsupervised account which is quite stupid. It’ll be fixed within 24 hours.
+creations-chat 2021-11-01 13:13:12 Welcome to the PCC
+creations-chat 2021-11-16 18:23:31 Yo thnx mate, it took me 2 weeks to make.
+bug-reports 2021-11-26 09:23:09 grab the flamethrower
+creations-chat 2021-11-29 08:39:45 XF-84 Thunderscreech
+help 2021-12-16 07:01:45 Hawker Siddeley P.1216
+help 2021-12-16 07:05:04 yes lol it is compleks, but it is a cool single-engine fighter
+help 2021-12-16 07:19:42 What
+help 2021-12-16 07:20:00 Did I do a cobra? I can’t remember anything, probably because I’ve been playing teardown for like a month
+help 2021-12-16 07:24:22 O k
+help 2021-12-16 07:31:45 You mean the news channel part 2?
+help 2021-12-16 07:34:14 ok (watch it so i get more views!!1!1)
+help 2021-12-16 07:35:20 sadly i dont get revenue <:nooo:787097964946259978>
+help 2021-12-16 08:34:20 <@456226577798135808> now I know where you got the “bloodless maniac pilot” from lol
+the-dump 2021-12-16 10:07:08 
+the-dump 2022-01-13 20:57:28 https://streamable.com/tgieef
+help 2022-01-17 09:54:35 Hawker Siddeley P.1214
+help 2022-01-17 09:55:15 KB SAT SR-10
+creations-chat 2022-02-11 16:53:32 Welcome to PCC
+bug-reports 2022-03-03 18:13:38 when will the upvotes and downvotes come back in <#537387160261885962>
+bug-reports 2022-03-06 13:45:20 when will <#537387160261885962> have upvotes and downvotes again?
+the-dump 2022-03-10 22:56:29 e
+creations-chat 2022-03-11 11:08:21 “fresh frozen, out of a can”
+the-dump 2022-03-18 13:32:43 
+plane-crazy 2022-03-25 20:19:26 time will tell
+plane-crazy 2022-03-25 20:19:48 hello
+plane-crazy 2022-03-25 20:20:54 ye i promote it too
+plane-crazy 2022-03-25 20:21:01 if it sounds cool, i promote and invest
+plane-crazy 2022-03-25 20:24:58 ye i’m a simple man
+help 2022-03-31 06:12:51 -servers
+creations-chat 2022-04-04 13:53:57 Yes it’s image role
+the-dump 2022-04-06 12:41:19 
+help 2022-04-12 11:30:41 Talk ‘till you reach level 3
+plane-crazy 2022-04-25 17:53:11 i have some ideas, but i am completely unmotivated
+plane-crazy 2022-04-25 17:54:10 yeah
+plane-crazy 2022-04-25 17:54:38 rn i am just playing some other games, but haven’t played plane crazy in a week or smth
+plane-crazy 2022-04-25 17:55:13 e
+plane-crazy 2022-04-25 17:55:33 certified
+creations-chat 2022-10-18 20:31:42 y
+bot-central 2022-11-06 15:46:34 !help
+bot-central 2022-11-06 15:48:57 !expertservers
+bot-central 2022-11-06 15:49:06 !servers
+bot-central 2022-11-06 15:49:15 -servers
+general 2022-12-09 13:13:39 ok, i might feature it in part 2 if there’s enough topics i forgot to include
+general 2022-12-09 13:14:06 ok
+general 2022-12-09 13:14:18 thx
+general 2022-12-09 13:14:41 you can dm me about those weird stuff and glitches, i’m in class rn
+general 2022-12-09 13:15:28 ok noted
+general 2022-12-09 13:15:52 ok
+general 2022-12-09 13:16:10 ok
+creations-chat 2023-05-23 16:13:10 

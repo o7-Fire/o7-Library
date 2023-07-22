@@ -1,0 +1,835 @@
+The Tale of grenboii (466673912760107009)
+bug-reports 2021-01-21 03:48:47 So what happen was that I accidentally spawn my plane in the water and suddenly all the custom control surfaces start glitching. I respawned and now my control surfaces keep fidgeting while Im flying. (this is for every plane creation)
+help 2021-01-21 03:52:31 So what happen was that I accidentally spawn my plane in the water and suddenly all the custom control surfaces start glitching. I respawned in base and now my control surfaces keep fidgeting and glitching when I move them, while Im flying. (this is for every plane creation)
+bug-reports 2021-01-21 03:54:53 This includes motor 2
+help 2021-01-21 03:55:55 motor 2 is glitching to
+bug-reports 2021-01-21 03:58:38 motor 2 was glitching yesterday to, also is there way to solve this glitch
+bug-reports 2021-01-21 03:58:48 I try logging back and off but it wont go away
+bug-reports 2021-01-21 03:59:18 oh ok, thank you very much
+help 2021-01-21 04:11:41 but I didnt spawn at the airport or the ocean
+help 2021-01-21 04:11:46 just base plate
+help 2021-01-21 04:15:19 but I didnt spawn at the airport or the ocean
+just base plate. Motor 2 starts glitching, and this is just not control surfaces.
+help 2021-01-21 04:18:17 So what happen was that I spawned in the water by mistake. Changed the spawn option to base plate. Then when I spawned at base plate to fly my motor 2's started glitching.
+help 2021-01-21 04:34:20 https://streamable.com/byzwgi
+help 2021-01-21 04:36:07 the sight uses servo, same goes with the control surfaces
+help 2021-01-21 04:43:27 heres the video for the glitch problem
+help 2021-01-21 04:45:04 The video's ready
+bug-reports 2021-01-21 04:46:56 https://streamable.com/byzwgi this video is for the motor 2 glitch issue I had
+bug-reports 2021-01-23 04:06:23 hey guys motor 2 is not working for me
+bug-reports 2021-01-23 04:06:28 it keeps glitching out
+bug-reports 2021-01-23 04:06:33 any advice
+bug-reports 2021-01-23 04:06:58 dude im new to the server
+bug-reports 2021-01-24 02:45:35 is lockmotor broken, because it always keeps leaving these slits
+bug-reports 2021-01-24 03:32:51 https://streamable.com/v4s62a
+bug-reports 2021-01-24 03:32:55 this is the video
+bug-reports 2021-01-24 03:33:05 I already checked the blocks
+help 2021-01-24 04:22:05 https://streamable.com/v4s62a
+help 2021-01-24 06:18:27 you still here
+bot-central 2021-01-24 06:32:22 ?shelp
+bot-central 2021-01-24 06:33:01 ?rhelp
+the-dump 2021-01-24 06:36:03 hey guys
+the-dump 2021-01-24 06:36:15 i found a great way to find accurate color id's
+the-dump 2021-01-24 06:36:44 not that
+the-dump 2021-01-24 06:38:04 what I do is save image, go to files, click edit, go to color finder option, click image to get color, copy color id to planecrazy, done
+the-dump 2021-01-24 06:39:00 every heard of the xb b-19 bomber
+the-dump 2021-01-24 06:39:06 ima try it
+bot-central 2021-01-24 16:53:37 Rank!
+bot-central 2021-01-24 16:53:50 rank!
+help 2021-01-24 16:55:37 
+bot-central 2021-01-24 17:00:22 !rank
+bug-reports 2021-01-25 00:57:37 So for the cargo contest, When I put loose blocks on my plane it starts glitching everywhere
+bug-reports 2021-01-25 00:57:50 when i try to fly
+bug-reports 2021-01-25 03:48:17 https://streamable.com/eo8d16
+bug-reports 2021-01-25 03:48:31 this video has the bug
+bug-reports 2021-01-25 03:48:57 no
+bug-reports 2021-01-25 03:49:00 its not the servos
+bug-reports 2021-01-25 03:49:13 watch the video
+bug-reports 2021-01-25 03:49:35 when the blocks are not connected to the disconnecters they can move on the conveyers
+bug-reports 2021-01-25 03:49:57 but when they are, once disconnected they dont move on the conveyers
+bug-reports 2021-01-25 03:52:51 Ok when the blocks have disconnecters on them, when disconnected, the blocks dont move on the conveyer.
+bot-central 2021-01-25 03:54:43 rank!
+bot-central 2021-01-25 03:54:46 !rank
+bug-reports 2021-01-25 04:01:04 no i mean when the block is hanged above the conveyer, then droped
+creations-chat 2021-01-25 04:16:54 guys I found a way to bomb accurate accurately from high heights
+help 2021-01-27 21:56:24 Can someone help me with this problem, im using lockmotors btw
+help 2021-01-27 22:08:31 i have no idea
+help 2021-01-27 22:09:01 its literally bending
+bug-reports 2021-01-27 22:11:50 help
+help 2021-02-03 03:16:12 https://streamable.com/xh5r0m
+help 2021-02-03 03:16:19 can someone help me with my lock motor
+help 2021-02-03 03:16:44 the half blocks are suppose to cover the lock motors, but they block it instead
+bug-reports 2021-02-03 03:24:49 https://streamable.com/4k2o33 after i put a anchor block on my build it fixes the motors, when i take it off it breaks the motors
+bug-reports 2021-02-03 03:24:53 the lock motors
+help 2021-02-04 07:49:42 i need help with the landing gear, since every time i retract the landing gear of my plane slows down and speed decreases alot. Any suggestions or answers
+creations-chat 2021-02-04 07:51:14 i need help with the landing gear, since every time i retract the landing gear of my plane slows down and speed decreases alot. Any suggestions or answers
+help 2021-02-04 07:56:44 just regular blocks
+help 2021-02-06 20:02:59 anyone know how to reduce motor lock lag
+creations-chat 2021-02-06 20:05:28 anyone know how to reduce motor lock lag
+help 2021-02-06 20:44:58 how do i post a suggestion?
+bot-central 2021-02-06 23:38:10 suggestion@
+bot-central 2021-02-06 23:38:14 suggestion!
+bot-central 2021-02-06 23:38:20 suggestion?
+bot-central 2021-02-06 23:38:44 thanks
+bot-central 2021-02-06 23:38:50 ?shelp
+bot-central 2021-02-06 23:39:11 @suggest
+creations-chat 2021-02-07 02:52:22 I need feedback, Edit: this is a world war 2 handley page Hampden
+bot-central 2021-02-07 03:32:08 @suggestion
+help 2021-02-07 03:34:04 anyone know how to work suggestions?
+help 2021-02-07 20:36:00 anyone know how to reduce motor lock lag
+help 2021-02-07 20:36:20 when i make tnt motor lock bombs they slow my plane alot
+help 2021-02-09 22:19:54 anyone know how to work suggestions
+help 2021-02-09 22:20:06 im a bit confused on how to suggest a idea
+bot-central 2021-02-09 22:20:28 ?shelp
+bug-reports 2021-02-13 23:53:55 you know the winter event sign, that pops on your screen when you join the game
+bug-reports 2021-02-13 23:53:58 i cant take it out
+bug-reports 2021-02-13 23:54:08 it dosent go away
+bug-reports 2021-02-17 08:36:05 https://www.youtube.com/watch?v=76QTFC4L1zg&ab_channel=marvincalson should i be worried about this, since i dont want my build taken
+bug-reports 2021-02-17 08:36:30 im really worried about this problem
+bug-reports 2021-02-17 08:47:04 what about when im in pvp servers battling? Also do you know if this exploit is solved?
+bug-reports 2021-02-17 08:47:15 thank you
+bug-reports 2021-02-17 08:47:35 oh ok
+help 2021-02-19 19:38:39 anyone know how to do lock wings, like make big wings
+bug-reports 2021-02-25 18:48:35 is it me or every time I add a propellers to my plane, it causes it to lag and slow down
+bug-reports 2021-02-25 18:48:39 Im not using wing pannels
+bug-reports 2021-02-25 18:48:46 just regular blocks
+help 2021-02-25 18:51:37 is it me or every time I add a propellers to my plane, it causes it to lag and slow down
+Im not using wing pannels
+just regular blocks
+creations-chat 2021-02-25 18:51:59 is it me or every time I add a propellers to my plane, it causes it to lag and slow down
+Im not using wing pannels
+just regular blocks
+creations-chat 2021-02-27 04:59:57 https://streamable.com/5ov89w Anyone have a idea on how to make to faster. (the creation is slower since the video)   I cant do anything about graphics, since I need to see far
+help 2021-02-27 05:03:18 https://streamable.com/5ov89w  Anyone have a idea on how to make to faster. (the creation is slower since the video)   I cant do anything about graphics, since I need to see far
+creations-chat 2021-02-27 05:06:32 but when I use other creations they go fast, only for the bombers in general that Im having problems with
+help 2021-03-05 06:02:57 If anyone is still in chat, can you help me. Which engines like conveyor, magnet, spring do you think is reliable for bombers. Im bombing from high heights but I also want to be stable since Im using a bombsight.
+help 2021-03-05 06:04:28 thank you for the suggestions
+help 2021-03-05 06:32:54 If anyone is still in chat, can you help me. You know the fake propellers you put on planes. If i put fake propellers on my plane it lags my plane really bad. I want to keep the propellers. Anyone know how to reduce this lag or stop it?
+creations-chat 2021-03-05 06:34:30 If anyone is still in chat, can you help me. You know the fake propellers you put on planes. If i put fake propellers on my plane it lags my plane really bad. I want to keep the propellers. Anyone know how to reduce this lag or stop it?
+help 2021-03-05 06:34:40 ok
+help 2021-03-05 06:35:55 The white parts are the propellers
+help 2021-03-05 06:38:21 the motor making the propellers spin is a yes. I did use lock motors to make the propellers attach to the engine
+help 2021-03-05 06:40:47 i did use them
+help 2021-03-05 06:41:20 and the real reason why I used a alt cause when I was young I didnt really remember my birthday
+help 2021-03-05 06:41:27 and made the age wrong
+help 2021-03-05 06:43:11 yes there is a difference between the british beay and the mosquito
+help 2021-03-05 06:43:18 sadly no
+help 2021-03-05 06:44:13 I made my main accountants birthday age lower, w
+help 2021-03-05 06:44:24 I was young when I made that
+help 2021-03-05 06:44:29 accountant
+help 2021-03-05 06:44:35 the main
+help 2021-03-05 06:44:43 no
+help 2021-03-05 06:44:45 13
+help 2021-03-05 06:44:58 2007
+help 2021-03-05 06:46:34 well I did made some handley page creations
+help 2021-03-05 06:47:14 back to my problem: You know the fake propellers you put on planes. If i put fake propellers on my plane it lags my plane really bad. I want to keep the propellers. Anyone know how to reduce this lag or stop it?
+help 2021-03-05 06:48:18 Ok back and its the propellers sadley
+help 2021-03-05 06:48:25 but its avro lancaster
+help 2021-03-05 06:48:30 the props though :c
+help 2021-03-05 06:49:09 mine sending some pictures of the propeller design that your suggesting
+help 2021-03-05 06:50:49 is it possible to describe in words?  Ok tbh that would be hard to do.
+help 2021-03-05 06:55:26 i still want to keep the cone shape propeller cap design like on the avro lancaster engine
+creations-chat 2021-03-05 07:36:19 but is that just about the cross hair and not the effectivness of the bombing
+creations-chat 2021-03-05 08:18:57 This mechanism was put into creations and was disliked alot (im not looking for the looks, but rather does the bombsight mechanism work or is there any bugs) I need feedback   https://discordapp.com/channels/384021699466756103/384025409945337856/817297719638622228
+creations-chat 2021-03-05 08:36:58 This mechanism was put into creations and was disliked alot (im not looking for the looks, but rather does the bombsight mechanism work or is there any bugs) I need feedback   https://discordapp.com/channels/384021699466756103/384025409945337856/817297719638622228
+creations-chat 2021-03-05 08:39:47 I get it, but Im just making sure that the people get the point im making
+creations-chat 2021-03-05 08:42:55 the only problem is that recording the video would cause the bomber to lag horribly and slow down
+creations-chat 2021-03-05 08:44:58 I will try my best in making the video, but do you have any suggestions to counter this problem
+creations-chat 2021-03-05 08:47:11 Just copy the bombsight mechanism and put it on the front of a bomber, then test. If possible tell me the results and go find my bombsight on creations. The creations bombsight description gives all the info you need on how to use the bombsight and more.
+creations-chat 2021-03-05 08:49:33 plus i will send a simplified version
+creations-chat 2021-03-05 08:52:26 This is the simplifed version/ showing how it looks on the front of bomber (I took off glass nose cone to show inside)
+creations-chat 2021-03-05 08:56:13 yes I know you now
+creations-chat 2021-03-05 09:01:15 Im going to make the video tommorow since its pretty late. But I will make that video.
+creations-chat 2021-03-05 23:57:33 i made the video, THIS IS THE VIDEO TO PROVE THE BOMBSIGHT WORKS https://streamable.com/7udmls
+creations-chat 2021-03-06 00:00:41 https://discordapp.com/channels/384021699466756103/384025409945337856/817545466727628811 This link goes to the original creation notes. Please read the Note I put on the creation to learn how to use the bombsight.
+creations-chat 2021-03-06 00:04:28 If possible can I get some feedback on my bombsight mechanism. (if theres any questions about the bombsight in general dm me)
+creations-chat 2021-03-06 00:12:26 Look im really sorry if Im annoying anyone,
+creations-chat 2021-03-06 01:02:22 mine if you show a example on creations or here
+creations-chat 2021-03-06 01:16:27 Your spitfire beautiful, I love it. upvoted
+creations-chat 2021-03-06 01:19:55 the back part of the boat seems really empty
+help 2021-03-06 07:33:06 anyone know how to motor lock bend?
+creations-chat 2021-03-12 07:37:12 I added a lot of hover engines but it still doesn't make the plane move fast at all. Anyone have any tips or ideas?
+creations-chat 2021-03-13 06:18:52 I added some motor lock super rockets to my bomber to make it go faster. After I added them the bomber goes really slow.
+help 2021-03-15 18:15:31 does anyone know the settings on how to weld 2 blocks together
+help 2021-03-15 18:15:37 with magnets
+creations-chat 2021-03-15 18:16:09 does anyone know the settings on how to weld 2 blocks together
+with magnets
+creations-chat 2021-03-29 23:42:18 any recommendations or ideas to help improve dis?
+bug-reports 2021-03-31 00:06:38 since roblox updated there physics and now everything is faster. When i use my bomber to drop bombs the bombs glitch into the bomber. I try reducing the amount of super rockets, but its still a issue
+help 2021-03-31 00:15:55 anyone know how to put on suggestions?
+help 2021-03-31 00:16:01 like make a suggestion
+bug-reports 2021-03-31 20:46:43 https://streamable.com/m3l32d For some reason my bombs literally glitch into my bomber when I drop them. At the same time when I drop my bombs, it causes my bomber to freeze for a bit and causes the bombs to glitch through the bomber.
+bug-reports 2021-03-31 20:54:02 yes about that, i didnt use lock motors for the bombs
+bug-reports 2021-03-31 20:56:48 so do i just use lock motor bombs then? or is there another way
+bug-reports 2021-03-31 20:57:44 well for the bomber i dont use lock motor bombs. But im not really sure how to solve the problem?
+bug-reports 2021-03-31 21:01:44 read the pins
+bug-reports 2021-03-31 21:02:02 the pins on the top of discord
+creations-chat 2021-03-31 23:35:51 https://streamable.com/m3l32d bruh these bombs, i need help
+bug-reports 2021-03-31 23:39:35 https://streamable.com/m3l32d
+bug-reports 2021-04-01 01:10:24 The bombs literally glitch through the bomber
+creations-chat 2021-04-02 19:31:50 Hey for my avro lancaster, should i put a real nose turret thats working or just a fake nose turret?
+creations-chat 2021-04-02 19:58:13 So what do you think about this design, also I need some help on the wings
+creations-chat 2021-04-02 20:00:24 Heres the top view
+creations-chat 2021-04-02 20:03:08 so what do you think?
+creations-chat 2021-04-03 06:39:12 how do i cover this motor lock wing on my bomber?
+creations-chat 2021-04-03 18:39:23 anyone know how i could hide this motorlock on my wing, Im putting wing pannels on my wing
+creations-chat 2021-04-03 18:56:19 just copy the color id of the colors you want and put it in the color id slots of the paintbrush in planecrazy
+creations-chat 2021-04-03 19:09:00 Does anyone know how I could hide this motorlock on my wing, Im using wing pannels lockmotored to the wing
+creations-chat 2021-04-03 23:38:21 hey do you remember me from yesterday, Can you help me with my motorlock wing
+creations-chat 2021-04-03 23:40:27 oh ok, no worries
+creations-chat 2021-04-05 05:03:40 So what ya think about this new design for my b-24  I used lockmotors and thick wings in this design, plus changing the shape of the bomber alot
+creations-chat 2021-04-05 05:06:13 This is a WIP, but heres the top view of it (you probably have to look closer)
+bug-reports 2021-04-06 03:50:50 bro why is my big builds and small builds laggy bruh
+bug-reports 2021-04-06 03:50:53 same
+bug-reports 2021-04-06 03:54:35 bruh i cant use my big builds now 😫
+bug-reports 2021-04-06 05:33:40 is it me or is slow mode happening in roblox?
+bug-reports 2021-04-06 22:25:12 yes sorry
+general 2021-04-06 22:52:44 yo does anyone know how to join the stream discord
+general 2021-04-06 22:52:44 yo does anyone know how to join the stream discord
+general 2021-04-06 22:52:52 not discord but game
+general 2021-04-06 22:52:52 not discord but game
+general 2021-04-06 22:53:00 no like server
+general 2021-04-06 22:53:00 no like server
+general 2021-04-06 22:53:10 i got a b-24 to showcase
+general 2021-04-06 22:53:10 i got a b-24 to showcase
+general 2021-04-06 22:54:06 anyone know how to join the hangar server in planecrazy, in plane crazy there having a stream
+general 2021-04-06 22:54:06 anyone know how to join the hangar server in planecrazy, in plane crazy there having a stream
+general 2021-04-06 22:54:49 what i mean is how could i actually join the server in the actual game? I wanna show my b-24 to the flying fortress dude
+general 2021-04-06 22:54:49 what i mean is how could i actually join the server in the actual game? I wanna show my b-24 to the flying fortress dude
+general 2021-04-06 22:55:24 yes but i dont know how to find it
+general 2021-04-06 22:55:24 yes but i dont know how to find it
+general 2021-04-06 22:56:12 ok i know this is weird, but just for this stream, can you friend me so that i can find dis server
+general 2021-04-06 22:56:12 ok i know this is weird, but just for this stream, can you friend me so that i can find dis server
+general 2021-04-06 22:56:48 what i mean is like roblox friend
+general 2021-04-06 22:56:48 what i mean is like roblox friend
+general 2021-04-06 22:56:59 ok
+general 2021-04-06 22:56:59 ok
+general 2021-04-06 22:57:38 uh is dis your username
+general 2021-04-06 22:57:38 uh is dis your username
+general 2021-04-06 22:59:38 you still here.....
+general 2021-04-06 22:59:38 you still here.....
+general 2021-04-06 23:00:54 bro is there anyone in the hangar stream that can friend me so that I can join hangar plane crazy server (user: bulldogbrandon)
+general 2021-04-06 23:00:54 bro is there anyone in the hangar stream that can friend me so that I can join hangar plane crazy server (user: bulldogbrandon)
+general 2021-04-06 23:13:13 yo can anyone friend me in the hangar planecrazy server
+general 2021-04-06 23:13:13 yo can anyone friend me in the hangar planecrazy server
+general 2021-04-06 23:13:19 like in the actual game server
+general 2021-04-06 23:13:19 like in the actual game server
+general 2021-04-06 23:14:10 motor 3's a joke right
+general 2021-04-06 23:14:10 motor 3's a joke right
+general 2021-04-06 23:14:36 ya i checked it dont exist
+general 2021-04-06 23:14:36 ya i checked it dont exist
+general 2021-04-06 23:50:42 who puts flaps on a plane anymore
+general 2021-04-06 23:50:42 who puts flaps on a plane anymore
+help 2021-04-08 03:26:47 can anyone show me how to angle lock
+help 2021-04-08 03:26:56 theres none
+help 2021-04-08 03:27:54 ty
+bug-reports 2021-04-08 22:54:56 one question is the lag glitch fixed?
+bug-reports 2021-04-08 23:46:41 ya i checked its not solved yet
+bug-reports 2021-04-09 14:32:16 ??????
+bug-reports 2021-04-11 00:16:06 when will dis lag glitch end
+creations-chat 2021-04-11 01:30:46 bruh this is just argument about a blob " octohedron which cannot rotate and is omnidirectional.
+creations-chat 2021-04-11 01:33:21 but i have to tell you, maybe show a demostration of how it works or show some use to it. You could change the color to make it more clear i guess. Also the planecrazy upvote and downvote in creations are a bit picky in what genres they like.
+creations-chat 2021-04-11 01:36:06 ok then end of argument. Just remember that upvote and downvote dosent mean everything. Its what you think is good, no need to let people choose for you. You are the artist of your creations 😄
+creations-chat 2021-04-11 01:39:58 if the reaction is negative, then keep it to yourself
+creations-chat 2021-04-11 01:42:38 fine ima chill now this argument is going nowhere
+creations-chat 2021-04-12 04:32:28 If you mind? Does anyone have a gaint tirpitz battle ship or any other gaint warship? I need to test out my modified avro lancaster, fitted with a grandslam. If anyone wanna help test dm pls or chat here. Thanks for the help.
+creations-chat 2021-04-12 04:34:35 
+creations-chat 2021-04-12 04:36:43 thank you for the correction
+bug-reports 2021-04-12 04:43:01 remember that motors in water will cause the motor to glitch badly
+creations-chat 2021-04-12 04:56:22 look at the side view picture, the shape a bit weird
+creations-chat 2021-04-12 04:59:36 your going to have to get a rank first then you could get image perms
+help 2021-04-12 05:00:53 maybe try thick wings and change the tail design a little bit. Also just saying people in the creative feedback hate exposed motors and are a bit salty about it.
+general 2021-04-12 05:28:29 any feedback on my b-24d
+general 2021-04-12 05:29:41 well people asked me to use thick wings instead of the bad wing pannel and yes i could improve on the colors
+general 2021-04-12 05:32:46 anymore feedback for the b-24d. plus does anyone know how i could make good 3 prop propeller?
+general 2021-04-12 05:33:44 uhh
+general 2021-04-12 05:34:40 look the world is kinda really salty about this topic and can get easily provoked
+creations-chat 2021-04-12 05:45:52 dude chill with the comments, tell them what they could improve on at least
+creations-chat 2021-04-12 05:49:26 maybe try changing the design a little to make it more like a attacking quad robot. I suggest using refrence pictures to help you. Your doing good with progress and overtime it could be great.
+creations-chat 2021-04-12 06:06:03 i found it. a thin torpedo bomber
+creations-chat 2021-04-12 06:28:46 go to the original but its blurry tho
+help 2021-04-12 06:34:19 well your doing good , maybe but more wing pannels on the elvator and rudders. You probably have to move the seat facing properly up and near the middle of the main body. Otherwise goodjob and dont give up 😄
+help 2021-04-12 06:35:13 i still see potential no matter the looks
+help 2021-04-12 06:36:12 well there is always room for improvement, just takes time
+help 2021-04-12 06:36:29 we learn new things everyday
+creations-chat 2021-04-12 20:35:17 https://streamable.com/wnhtj4 I'm using angle longing for some time, but I keep getting the angles wrong when im locking them. I heard you could servos to make them align perfectly but im not sure how to do that. This video just shows the problem. also does anyone know how to angle lock with servos?
+creations-chat 2021-04-12 20:37:33 ok
+help 2021-04-12 20:38:00 so Im not that sure were this solution is
+help 2021-04-12 20:38:21 oh thanks
+help 2021-04-12 20:43:42 this works so well, thank you so much
+creations-chat 2021-04-12 21:06:11 not my method, its this guy   <@!404632014189494293> tell him that
+help 2021-04-12 21:09:33 ty
+help 2021-04-12 21:13:42 but would this still work in a public server, since it uses tnt?
+help 2021-04-12 21:14:01 uh
+help 2021-04-12 21:14:09 ?
+help 2021-04-12 21:15:48 oh ok ty
+help 2021-04-12 21:17:00 depends on the situtation
+help 2021-04-12 21:18:51 actutally cussing is not allowed in this server
+help 2021-04-12 21:21:16 wait so i can curse once right now and i wont get in trouble???
+help 2021-04-12 21:29:54 oh wow, well looks like you can curse just once
+help 2021-04-13 23:49:05 i need help copying the wing design of this bomber. Im making the same bomber.
+creations-chat 2021-04-13 23:50:40 I need some help copying the wing design of this. like how do i build it?
+creations-chat 2021-04-14 00:35:12 <@!722525256241119332> dude no wip's in creation
+creations-chat 2021-04-14 01:19:33 maybe try better camera positioning. I mean like make it day so that the quality a bit better. Its hard to see the great detail in the dark
+creations-chat 2021-04-14 01:21:42 i love it, 9/10
+creations-chat 2021-04-14 01:26:57 well i got to say. The nose kinda weird. plus angles kinda weird too. Also to kinda looks like it took less than 2 hours tbh. Not trying to cause a war, but just saying.
+creations-chat 2021-04-14 01:41:58 im and totally gonna build this (no joke i will)
+creations-chat 2021-04-14 05:06:56 <@!587473322975952897> hey do you know what tank is that in creations? The one you made?
+help 2021-04-15 03:34:43 
+help 2021-04-15 03:34:55 https://streamable.com/jxn3gz
+help 2021-04-15 03:35:19 so the problem im having is that, im using angle locking to make the same wing design as the picture above
+help 2021-04-15 03:35:49 but its hardly moving at all
+help 2021-04-15 03:36:20 Im still pretty new to angle locking, but motor locking in general is good
+help 2021-04-15 03:37:15 well is possible to put the motor 2 inside the plane?
+help 2021-04-15 03:37:57 oh ty
+help 2021-04-15 03:39:56 watch a motor lock tutorial on motorlocking. or maybe just look at the picture
+help 2021-04-15 03:40:38 its literally a motor 2 conncted to a trail connected to a 1X2 invis sign
+help 2021-04-15 03:40:43 then to a wheel
+creations-chat 2021-04-15 03:48:49 im trying to do a motor lock angle on the wings. But when i try to. The wings starts glitching out. Does anyone have another design for thick wing angle locking?
+help 2021-04-15 03:50:12 the bottom propeller is connected to the motor base instead of the actual motor
+help 2021-04-15 03:51:20 the trail is not connected to the cylindeer
+creations-chat 2021-04-15 03:51:50 Heres my angle lock design and yes i did turn on lock. I'll send the picture and the video on what i want to do
+help 2021-04-15 03:52:38 ?
+help 2021-04-15 03:53:20 yes thats because the base is free to spin and the propellers are connected to the base
+creations-chat 2021-04-15 03:54:17 https://streamable.com/jxn3gz heres my crap angle motor lock design in action
+help 2021-04-15 03:55:54 are you talking about the cylinder and the trail
+help 2021-04-15 03:56:51 oh well then do you have in servo mode. also is the landing gear even tall enough?
+creations-chat 2021-04-15 03:57:28 this is the angle lock design im trying to do on the wing
+help 2021-04-15 03:57:41 yes
+help 2021-04-15 03:57:52 what you mean?
+help 2021-04-15 03:58:57 https://www.youtube.com/watch?v=bKO2UPoR27M
+help 2021-04-15 03:59:11 https://www.youtube.com/watch?v=GMa-QZZP_zY
+help 2021-04-15 03:59:19 https://www.youtube.com/watch?v=vupmauGKeFc
+help 2021-04-15 04:01:14 watch the first episode
+help 2021-04-15 04:01:34 well did you use the design on the episode
+help 2021-04-15 04:07:08 dont say that you dont even know how to motor lock bro
+help 2021-04-15 04:08:42 you probably just need to use a good design using delta and wing pannels. Or you could use angle locking
+help 2021-04-15 04:10:27 looks pretty good, i say yes
+help 2021-04-15 04:10:52 ima go to bed now cya
+creations-chat 2021-04-15 05:21:32 https://streamable.com/x8055a so the pink color wing, always keep glitching when i motor lock it in place. Im not sure why it does that?
+help 2021-04-15 05:24:21 https://streamable.com/x8055a so the pink color wing, always keep glitching when i motor lock it in place. Im not sure why it does that?
+creations-chat 2021-04-15 05:28:19 im very sorry for interrupting, but uh can one help me with me problem. Theres no one in <#478584971670454284> to help me...
+creations-chat 2021-04-15 05:39:22 No the lock motors in the pink wing are not powered.
+creations-chat 2021-04-15 05:42:25 wait why do they need to be powered, they're lock motors
+creations-chat 2021-04-15 05:45:22 heres the design of the lockmotor/servo wing. Now can you tell me what could be causing the glitching. All it does is the servo turns it 90 degrees and then i lock it. But when i do that i causes it to glitch out.    (yes)   well no theres space for it  (ok tysm)
+help 2021-04-15 07:40:57 you know you could just lockmotor the 6 other wheels to match the height of the wheel in the very front. Or you could add suspension on the 8 wheels.
+help 2021-04-15 07:41:45 oh ok
+bot-central 2021-04-15 07:51:08 ?shelp
+help 2021-04-15 08:08:38 https://www.youtube.com/watch?v=5lDj-t-ZSC8
+creations-chat 2021-04-16 04:54:15 i made a bombsight that can let me bomb from 3200 ft accuractly, no parchutes or bomb fins
+creations-chat 2021-04-16 05:08:40 uh how ya do that. Is this tank tracks or a motorcycle
+creations-chat 2021-04-20 20:03:18 https://imgflip.com/i/56gwfo
+help 2021-04-21 07:10:59 does anyone know how to build thick wing control surfaces, or could show me a vid
+help 2021-04-21 20:09:59 does anyone know how to make thick wing control surfaces?
+plane-crazy 2021-04-21 20:11:21 servo 2 is mouse controled or you could use it to be a servo
+plane-crazy 2021-04-21 20:11:38 either way i suggest you test it out first
+help 2021-04-21 21:07:41 use lock motors
+help 2021-04-21 21:08:33 you should try to the  ww2 armor locomotives
+help 2021-04-21 21:09:20 https://www.youtube.com/watch?v=8Ye8UeUYYZc
+creations-chat 2021-04-21 22:10:33 for thick wing bombers, do you know how to make good control surfaces, also is there another way to not use control surfaces to move the plane?
+help 2021-04-21 22:16:04 This is my lock motor control surface for thick wing but it pretty doo doo. it causes so much lag and gets stuck time to time
+help 2021-04-21 22:16:46 wait like the small ones
+help 2021-04-21 22:17:52 ya but this is my thick wing size tho and were do i even put it without people seeing it
+help 2021-04-21 22:18:26 oh ok
+help 2021-04-21 22:18:27 ty
+help 2021-04-21 22:20:24 ok
+help 2021-04-21 22:48:35 mind showing me how your big plane build uses those normal control surfaces, just a picture
+help 2021-04-21 22:53:29 no im mean can  you show me were you placed them, like for a example
+help 2021-04-21 22:53:41 btw that build is smoking
+help 2021-04-21 22:53:45 nice job
+help 2021-04-21 22:54:42 ty
+help 2021-04-21 23:47:30 its probably the weight of the tail
+creations-chat 2021-04-22 06:12:18 is there any lockmotor or any way to replicate this bomb bay door?
+help 2021-04-22 06:12:43 is there any way, like lock motor or anything to replicate this bomb bay door
+help 2021-04-22 06:19:13 its actually 2 bomb together
+help 2021-04-22 06:20:35 my bomb bay is 3 blocks wide
+creations-chat 2021-04-22 06:26:57 someone in trouble?  oh ok, that copier bad
+bug-reports 2021-04-22 20:55:24 is it me or this the creator of plane crazy fixed the anti lag system
+bug-reports 2021-04-23 00:00:38 are allowed to send vids to you, bit nervous since you dont allow dm's.....
+bug-reports 2021-04-23 00:07:45 im a dead man now, forgive me rick
+bug-reports 2021-04-24 04:20:43 is it me or are motor 2's gltichty
+bug-reports 2021-04-24 04:21:17 glitchy*
+bug-reports 2021-04-24 23:29:48 ROBLOX DID IT AGAIN, THE ANTI LAG IS GONE
+bug-reports 2021-04-24 23:32:33 sorry for caps but Rick's anti lag system is gone
+creations-chat 2021-04-24 23:39:29 they broke the anti lag system on plane crazy
+bug-reports 2021-04-25 05:04:46 no i mean that its back and no its not old news
+bug-reports 2021-04-25 07:04:56 the anti lag system that rick put is gone
+bug-reports 2021-04-25 07:35:29 your suppose to put it
+bug-reports 2021-04-25 07:35:37 no power
+bug-reports 2021-04-25 07:35:45 lock on only
+bug-reports 2021-04-25 07:35:58 that all
+bug-reports 2021-04-25 18:15:18 never say the word
+bug-reports 2021-04-25 18:42:10 it the lag gltich back....
+bug-reports 2021-04-26 03:01:38 well the settings switiching isnt really a bug
+bug-reports 2021-04-26 03:02:35 Also rick if your lisenting, did roblox change the anti lag system of yours again?
+bug-reports 2021-04-26 17:40:06 Did roblox break the anti lag system again?
+bug-reports 2021-04-26 17:47:14 https://streamable.com/m3l32d this is my plane when the anti lag system was here
+bug-reports 2021-04-26 17:47:34 and now I have this https://streamable.com/z60qhn
+bug-reports 2021-04-26 17:56:24 im on desktop
+bug-reports 2021-04-26 17:56:36 i tried pc, but it still bad
+bug-reports 2021-04-26 18:14:55 wow its all white names
+bug-reports 2021-04-26 18:48:36 i am sorry for being a dumb person. Lesson i learn today is dont judge a book by its cover and ACTUALLY LOOK AT THE INFO BAR..... im sorry.
+bug-reports 2021-04-26 18:48:41 i am sorry for being a dumb person. Lesson i learn today is dont judge a book by its cover and ACTUALLY LOOK AT THE INFO BAR..... im sorry.
+bug-reports 2021-04-26 23:06:15 it cheap
+creations-chat 2021-04-27 19:11:26 This is a handley page halifax. What do you think about the front part of it?
+creations-chat 2021-04-27 19:16:50 uh maybe change a little, your getting there, dont give up
+bug-reports 2021-04-28 05:34:02 When I put a ballast tank block on my torpedo it makes the torpedo glitch out of the plane. <#498473314445033472>https://streamable.com/rd6t7r
+bug-reports 2021-05-01 22:59:30 please explain
+creations-chat 2021-05-02 19:39:40 This is my Handley Page Halifiax, people suggested that i should use angle locking and lock motors more. Here is the finish version. Any suggestions on how to improve it?
+creations-chat 2021-05-02 20:16:52 I DID IT, I MADE A SKIPING BOMB oh forgot to add pic
+creations-chat 2021-05-02 20:21:51 https://streamable.com/fsrsj0  no conveyor engines were used on this build
+creations-chat 2021-05-02 20:25:23 nope  and yes i want to blow up ship  ( should i put the design on creations and the in depth of the bomb?)
+plane-crazy 2021-05-02 21:12:38 bruh I cant post anything on creations. Im verified and has permission to post images.
+plane-crazy 2021-05-02 21:13:55 bruh how
+plane-crazy 2021-05-02 21:14:26 the images here?|
+plane-crazy 2021-05-02 21:24:34 when I post anything it just puts me back on slowmode
+plane-crazy 2021-05-02 21:25:00 oh ok
+help 2021-05-02 21:27:14 I cant post anything in creations, Im verified and has perms
+plane-crazy 2021-05-02 21:30:50 I used dashboard and used no chat, and it still dosent work
+plane-crazy 2021-05-02 21:31:53 can you send link to one
+plane-crazy 2021-05-02 21:32:21 yes, but is it ok too
+plane-crazy 2021-05-02 21:32:33 ok thank you
+plane-crazy 2021-05-02 21:33:00 purified water right
+plane-crazy 2021-05-02 21:33:11 purified water right
+plane-crazy 2021-05-02 21:33:19 ok
+help 2021-05-02 21:35:04 <@!335599526414909451> I cant post anything in creations, I have perms for images and I am verified. (Someone suggested that I ask a mod for help, If I was not allowed to please, please forgive me.
+creations-chat 2021-05-02 21:56:27 sorry to bother, but someone told me to ask a mod if you have a problem. I cant post anything in creations, I have image perms and verified
+creations-chat 2021-05-02 21:58:38 alright then, thank you so much
+creations-chat 2021-05-02 22:27:01 This is my bouncing bomb design and demonstration. To use this bouncing bomb, you must be low on the water and must be at a high speed. The videos below are the demonstration of the bombs in action and the design/build. You will also need a sight to line up with the target, which in included in the demonstration vid. If you have any questions ping me https://streamable.com/f0rtr1 https://streamable.com/dfd40o I suggest the bouncing bomb design with no cover, since it was more reliable in most of my tests
+creations-chat 2021-05-02 22:35:54 alright then. but were am i gonna find a dam
+creations-chat 2021-05-02 22:45:47 if your gonna make it, were gonna have to find a server together then or vip... ( you have pvp server right)
+creations-chat 2021-05-02 22:48:27 wanna join mine then
+creations-chat 2021-05-02 23:18:04 cant invite you, says it because of your privacy settings ok did it
+creations-chat 2021-05-02 23:31:13 yes but I made the bombs as light, but packed with tnt as possible  just watch the design vid
+creations-chat 2021-05-02 23:33:44 Yes but ballast tanks would cause the bombs to glitch out or cause them to slow down
+creations-chat 2021-05-03 05:19:59 Does anyone know how to solve this problem. So I have this working skip bomb that skips on water, but I want it to explode on impact. Now I have the 3 settings on, but when I arm the bomb on the water and let it skip, it explodes. If I just wait for the skipping bombs to hit its target and blow it up, the bombs dont explode on time. So how tnt settings should I make so that the bomb can skip on water without exploding, but explode on impact with the target?
+creations-chat 2021-05-03 05:23:13 so just on impact on the tnt settings  and nothing else?
+creations-chat 2021-05-03 05:25:22 ah man, thats a bummer ( but my bombs go super fast, while skipping
+creations-chat 2021-05-03 05:45:37 ty i thought of the joke
+creations-chat 2021-05-03 06:11:31 well could try changing the design a little, like use wedges
+creations-chat 2021-05-04 20:13:48 https://streamable.com/ooxwjl I did it bois
+creations-chat 2021-05-04 20:33:00 https://streamable.com/ud0v6o This is for creation proof
+creations-chat 2021-05-04 21:04:59 there is one super rocket in each bouncing bomb to cause the backspin, I didnt tried using motors since it didnt give enough rpm
+bug-reports 2021-05-06 04:35:58 ROBLOX IS DOWN
+plane-crazy 2021-05-06 04:36:13 roblox down
+plane-crazy 2021-05-06 04:38:28 no roblox is down
+plane-crazy 2021-05-06 04:38:54 all servers are down
+plane-crazy 2021-05-06 04:39:04 the website too
+plane-crazy 2021-05-06 04:39:30 wait nvm its back now, i checked it
+plane-crazy 2021-05-06 04:39:41 the down website checker
+bug-reports 2021-05-06 04:42:00 nvm it back
+plane-crazy 2021-05-06 04:43:02 dont, one day you make a tutorial, the next day people start calling your builds tut's
+plane-crazy 2021-05-06 23:16:38 GUYS GOOD NEWS, THE ANTI LAG SYSTEM IS BACK
+general 2021-05-06 23:16:46 GUYS GOOD NEWS, THE ANTI LAG SYSTEM IS BACK
+help 2021-05-06 23:17:09 GUYS GOOD NEWS, THE ANTI LAG SYSTEM IS BACK
+creations-chat 2021-05-06 23:17:21 GUYS GOOD NEWS, THE ANTI LAG SYSTEM IS BACK
+plane-crazy 2021-05-07 00:45:09 hey looks like some white name guy, made a boat. Just saying the creations and creation feedback pretty salty about these kind of builds. So you know... wait for the worse
+bot-central 2021-05-08 16:51:47 rank
+bot-central 2021-05-08 16:51:51 !rank
+bug-reports 2021-05-10 04:11:02 deal with it, its not changing the game dramatically (plus there were already 24245454356 peeps that said the same thing)
+bug-reports 2021-05-10 04:11:48 bruh then why
+help 2021-05-10 06:19:05 is there anyway to make a bended bombay door like in this picture
+creations-chat 2021-05-10 06:19:59 Is there any way or technique to replicate this curved bomb bay?
+help 2021-05-10 07:02:42 can you show me a example of how to build this
+help 2021-05-10 07:03:00 and its pretty big, like the actual size in real life 1 to 1 scale
+help 2021-05-10 07:03:34 ok
+help 2021-05-10 07:04:36 
+help 2021-05-10 07:05:35 wait give me a sec ima make it better to see
+help 2021-05-10 07:07:55 well i cant really say, theres 3 blocks in the middle and 1 half block wedge in the half block section and just another half block from blocks (sorry for the screen shot)
+help 2021-05-10 07:08:57 yes i can lock motor a half block half wedge in the middle
+help 2021-05-10 07:11:39 im sorry to say, but its really late in my time zone. I might need to talk to you later, is that ok?
+help 2021-05-10 20:03:55 <@!714878625484243101>, uh Im back for the curved bomb bay
+help 2021-05-10 23:08:14 hey do know any way to make a curved bomb bay, Im replicating the same bomber in this picture
+help 2021-05-10 23:10:07 bro im using blocks
+help 2021-05-10 23:10:35 I was talking about the curved bomb bay
+help 2021-05-10 23:11:04 use a anchor
+help 2021-05-10 23:12:44 hey do you know how to make a curved bomb bay door?
+help 2021-05-10 23:19:09 bruh IM USING ANGLE LOCKING AND NO ITS NOT JUST AS SIMPLE AS WEDGES
+help 2021-05-10 23:19:58 Im having a real hard time figuring out how Im going to but any angle locking on a bomb bay door, without blocking the way for the bombs
+help 2021-05-12 00:08:21 does anyone know how to make a magnet stick to a block properly
+help 2021-05-12 08:17:34 my bombs keep glitching into my plane
+help 2021-05-12 08:19:17 Im making a flying fortress bomb configuration, the bombs are placed inside the bomber. but when I fly and drop bombs, they always glitch into the plane. I know I could just lock motor bombs and place it at the bottom of the bomber, but I want to keep the bombs inside the plane.
+bug-reports 2021-05-12 08:21:37 Im making a flying fortress bomb configuration, the bombs are placed inside the bomber. but when I fly and drop bombs, they always glitch into the plane. The video below shows what happens inside of the bomber
+bug-reports 2021-05-12 08:21:48 https://streamable.com/i97rqf
+bug-reports 2021-05-12 16:41:06 Yes you told me to use lockmotor bombs and put it at the outside of the bomber, but I want to keep the same design of how to bombs are placed in the actual flying fortress
+bug-reports 2021-05-12 16:42:13 I have no converyor engine or drive in my bomber
+bug-reports 2021-05-12 16:42:51 remember the anti lag system rick put in place, ya.... it helped
+bug-reports 2021-05-12 16:45:03 Well I just strapped some super rockets, and after the anti lag system rick put in place. I can now go instant acceleration. Before the anti lag system I didn't have this bomb problems.
+bug-reports 2021-05-12 16:46:55 already tried that, but the bombs still glitch into the bomber.
+bug-reports 2021-05-12 17:10:05 what, I do use bombs
+bug-reports 2021-05-12 17:11:06 bruh you cant call a bomber a bomber without bombs
+bug-reports 2021-05-12 17:13:09 thats because fighters can have missles and bombs, fireworks too
+help 2021-05-12 22:40:07 Sadly you cant do anything about it. There reports on the discord server, but I think they shut it down. You could blacklist them or server hop.
+help 2021-05-14 06:48:28 bro why is it not lowering (talking about the bomber not locking properly) I literally checked ever place for a block or wedge, but nothing. IM Losing my mind
+help 2021-05-14 06:49:54 you new to server, plus there was no anchor blocks and I checked motor settings. Some block is stuck or something thats causing this to happen
+bug-reports 2021-05-15 00:03:01 ok look im sorry, I understand that i should post a better question or explanation next time, please forgive and good day.
+plane-crazy 2021-05-15 02:30:13 im guessing your a actual young 9 yearold, guessing because I was literally with you in the wind tunnel
+plane-crazy 2021-05-15 02:30:55 you were with me in the wind tunnel channel
+plane-crazy 2021-05-15 02:31:13 dude what was that coversation tho bro
+plane-crazy 2021-05-15 02:31:23 its in voice channels
+plane-crazy 2021-05-15 02:31:45 im not dumb, I was literally with you
+plane-crazy 2021-05-15 02:32:08 bruh you coping people builds\
+plane-crazy 2021-05-15 02:33:18 i saw the argument in creation feedback bruh
+plane-crazy 2021-05-15 02:34:05 i literally went back in the whole chat bruh
+plane-crazy 2021-05-15 02:36:39 ok then thank you for explaining, but dont go board with your conversations
+plane-crazy 2021-05-15 02:37:12 alr
+creations-chat 2021-05-16 03:42:59 Im starting to do thick wing designs for my flying fortress, what you think? Also how could I impove on wing
+creations-chat 2021-05-16 03:46:42 Heres a different view of the green wing
+creations-chat 2021-05-16 03:51:47 heres the drawing i used
+creations-chat 2021-05-16 04:04:54 im guessing you used angle locking and motor lock for this? (also that wing is too fin)
+creations-chat 2021-05-16 16:28:22 Hey how do I do that 3 prop lock motor
+creations-chat 2021-05-16 19:05:30 im sorry for asking, but does anyone know any good thick wing control surface designs?
+creations-chat 2021-05-16 20:25:32 just block him
+creations-chat 2021-05-16 20:32:12 Instead of arguing with you, im actually gonna help you this time. There are many tutorials that you can reference from or, you can use references in the plancrazy discord to learn the walking motion. For me I use helium to make the mech stand up and just make the walking animation from there with motors and motor locking. (look im not trying to mean, and I know that anyone can do this)
+creations-chat 2021-05-16 20:34:39 no problem
+creations-chat 2021-05-16 20:39:06 just don't mind chat, gets a bit crazy here sometimes. You just go to the search bar in the top right corner and search up the thing you want. That will show up many references you can use.
+creations-chat 2021-05-16 20:42:05 well in my opinion I think a "no" wouldn't help his problem and insulting the guy for a skill issue is not smart. Just give him a straight responce
+creations-chat 2021-05-16 20:59:11 I gave him some advice, to apoligize. It's better to apoloigize rather than just leaving it
+help 2021-05-16 21:35:49 hey I was just wondering. How do I make 3 prop lock motor? I tried the ones yt but they suck
+creations-chat 2021-05-16 21:38:47 bro stop bullying man aleady, the argument already died. He also already apoligized already through dm's
+creations-chat 2021-05-16 22:22:10 maybe add some smoke, most ejection seats were propelled using a explosive charge under the seat. Plus that ejection seat mechnism is so good 10/10
+creations-chat 2021-05-16 22:27:39 ask this man, he pro with this type of stuff <@!404632014189494293>
+help 2021-05-17 20:06:15 how do i make double thick wing bombers fast. Ever since I tried adding a round layer to my already block thick wings. It makes it kinda janky
+help 2021-05-17 20:15:37 So the main block holding the wing is the first block layer. Then I lock motor a wind pannel on top of that first layer. Then right on top of that wind pannel layer, I added a half block and half block down wedges for a round look
+help 2021-05-17 20:15:58 So the main block holding the wing is the first block layer. Then I lock motor a wind pannel on top of that first layer. Then right on top of that wind pannel layer, I added a half block and half block down wedges for a round look
+help 2021-05-17 20:17:56 Ok for nose Im sorry, I had to cutt it so that I can finish the tail
+help 2021-05-17 20:18:45 also the third layer of the wing, causes some of the problems for me
+help 2021-05-17 20:19:50 but dont you need alot, im mean alot of hover thrusters to make it speed
+help 2021-05-17 20:20:45 mind showing a image
+help 2021-05-17 20:22:03 oh ok
+help 2021-05-17 20:22:32 any settings?
+help 2021-05-17 20:26:11 dont give up man, decrease the torge and the speed a little. To much torge can cause the motor to lag
+help 2021-05-19 03:23:20 <@!404632014189494293> I tried using these but they dont work properly, I'll send a vid
+help 2021-05-19 03:26:29 ya, I used a big prop with this design, plus a nose cap.
+help 2021-05-19 03:26:52 https://streamable.com/mvm3q9
+help 2021-05-19 03:27:17 it keeps glitching out and the props lose its 3 blade shape placement
+help 2021-05-19 03:27:36 oh big brain
+help 2021-05-19 03:27:56 on lock?
+help 2021-05-19 03:28:04 ok
+help 2021-05-19 03:30:04 never mind problem solved
+help 2021-05-19 03:30:09 ty
+help 2021-05-19 03:41:15 hey i got a different problem, I usally put my super rockets in the engines, but the propeller wont spin since the super rockets block it. Were should I add the rockets?
+help 2021-05-20 03:17:49 I started making thick wing bombers and I'm having a problem with this rudder. Its literally to heavy and I have no idea how to reduce weight on it. I don't want to make it hollow, since that will reduce the structural integrity of the rudder. That will make the rudder get torn off easy.
+help 2021-05-20 06:35:23 heres a picture with color
+help 2021-05-20 06:35:46 heres a drawing
+help 2021-05-20 15:12:01 well there a dragon one, a b-25 called puff the magic dragon, fitted with 8 Vulcan minguns on the sides to attack viet cong troops during the vietnam war.
+help 2021-05-20 15:13:44 thats pretty much all i know
+help 2021-05-20 15:22:45 explain problem please
+help 2021-05-20 15:24:31 do lock motor going horizonally connected to the vertical one
+help 2021-05-20 21:00:15 my bombs keep glitching out of my bomber, I have no idea how to stop it. I use tnt blocks which are connected to disconnecters. The bomb bay is surrounded by walls and a bomb bay door at the bottom. But when I release the bombs, the bombs literally glitch through the bomb bay walls and when I dentonate them, they destroy my bomber.
+help 2021-05-20 21:01:13 just 300
+help 2021-05-20 21:01:22 this happens to every speed
+help 2021-05-20 21:01:28 even my fast bombers
+help 2021-05-20 21:01:33 , but not slow
+bug-reports 2021-05-20 21:03:06 My bombs keep glitching out of my bomber, I have no idea how to stop it. I use tnt blocks which are connected to disconnecters. The bomb bay is surrounded by walls and a bomb bay door at the bottom. But when I release the bombs, the bombs literally glitch through the bomb bay walls and when I detonate them, they destroy my bomber. This happens at fast speeds, but not as much at really low speeds. The bombs are arranged in the style of a b-24 bomb bay.
+bug-reports 2021-05-20 21:10:01 https://streamable.com/1bxh70
+bug-reports 2021-05-20 21:13:47 explain then
+bug-reports 2021-05-20 21:14:40 then what would you do, to solve this problem
+bug-reports 2021-05-20 21:16:31 do you know how to solve this problem. I get its skill, but what should I do
+bug-reports 2021-05-20 21:18:57 alright then maybe I have a skill issue. but do you know how to solve this problem? Do you have a explanation instead of just saying  "a skill issue?"
+help 2021-05-20 21:26:48 maybe improve the coloring and add some shading. I think they had lights on it too.
+help 2021-05-20 21:28:53 have you found the actual space ship decal of it then
+help 2021-05-20 21:30:38 https://www.youtube.com/watch?v=_9TyufB44bo
+creations-chat 2021-05-20 21:37:53 You will need to obtain a chat level of at least 3 to post media. You can check your current chat level by using the command !rank in <#384027830192832513>
+help 2021-05-20 21:46:32 you know what, I think gradients a bit over the top
+help 2021-05-20 21:46:47 just maybe copy the small details, like lights, markers and windows
+creations-chat 2021-05-20 21:51:29 you know that the gru car was also able to transform into a jet.
+creations-chat 2021-05-20 22:40:50 well, i suggest the similay from iron harvest or the german tank mech in iron harvest
+creations-chat 2021-05-21 00:13:35 iron harvest is a video game, based off ww1, but mechs now help humans fight each other.
+bug-reports 2021-05-21 03:53:37 https://streamable.com/1bxh70 does anyone know how to stop the bombs from glitching out bomb bay walls and into the body of the bomber
+bug-reports 2021-05-21 04:03:53 i did now
+bug-reports 2021-05-21 04:04:01 but they still glitch through'
+bug-reports 2021-05-21 04:04:30 its the same problem for all my other bombers, that were finished long ago
+help 2021-05-21 04:25:50 My bombs keep glitching out of my bomber, I have no idea how to stop it. I use tnt blocks which are connected to disconnecters. The bomb bay is surrounded by walls and a bomb bay door at the bottom. But when I release the bombs, the bombs literally glitch through the bomb bay walls and when I detonate them, they destroy my bomber. This happens at fast speeds, but not as much at really low speeds. The bombs are arranged in the style of a b-24 bomb bay.
+bug-reports 2021-05-21 07:40:44 they are actually not motorlocked
+bug-reports 2021-05-21 07:40:53 there not motor locked (What I did was I made a row of disconnecters with bombs, and used lockmotors to move that large wall of bombs to the bomb bay)
+bug-reports 2021-05-21 07:41:34 What I did was I made a row of disconnecters with bombs, and used lockmotors to move that large wall of bombs to the bomb bay
+bug-reports 2021-05-22 06:15:16 you do know that rickje dosent like dms to him or some of his mods since he really busy.
+bug-reports 2021-05-22 06:16:16 oh alr
+bug-reports 2021-05-22 06:23:50 you forgot to reply to the person
+bug-reports 2021-05-22 06:24:06 build a boat i guess
+bug-reports 2021-05-22 06:25:43 go to the game yourself bruh 🙏
+creations-chat 2021-05-22 17:32:50 how could I make this curved bomb bay door, I tried angle locking it with the bomb bay doors, but there wasnt any room for the tnt.
+creations-chat 2021-05-22 17:41:16 I angle locked on the bomb bay door. I used disconnecters to hold the lock in place. Then I used a motor to make the angle. Then I disconnected and got the angle.
+help 2021-05-22 18:30:32 probably try angle locking or motor lock
+help 2021-05-22 21:46:14 couldn't just use half block thick wings to cover the motor lock. Or if its on the body. You can just motor lock some blocks or half blocks to cover the motor lock.
+help 2021-05-22 21:47:45 show pic
+help 2021-05-22 21:53:53 maybe change the plane design, no offense but that plane dosent look well at flying
+help 2021-05-22 21:56:49 you could just put the in game tutorial on it, and make it look like a bi plane?
+help 2021-05-22 21:57:42 but dont put the small control surfaces mouse, use keyboard
+creations-chat 2021-05-22 22:01:04 https://streamable.com/1bxh70 The bombs are not lock motor. But a wall with bombs connected with disconnetors is motorlock into the bomber. When the bombs glitch through the bomber. There are walls on all sides of the  bomb bay, but still.
+plane-crazy 2021-05-22 22:04:26 maybe another idea would be to increase the range of guns and fireworks
+plane-crazy 2021-05-22 22:05:28 only when there in the sky and flying. But your on the ground, the range trash
+plane-crazy 2021-05-22 22:06:28 Im talking about high alititude planes, plus it was just a idea ok
+plane-crazy 2021-05-22 22:07:15 Shredders can be avoided with a fast plane
+plane-crazy 2021-05-22 22:08:21 maybe change plane design
+creations-chat 2021-05-22 22:10:34 well my bombs are just 2 tnt together. The reason I keep it that way is because I want the radius large enough. Plus do you know how to solve this glitch?
+plane-crazy 2021-05-22 22:11:45 rank dosent always show skill
+plane-crazy 2021-05-22 22:12:19 idc about that, I given up suggesting
+plane-crazy 2021-05-22 22:12:57 I know, but I already knew I was gonna be blacklisted
+plane-crazy 2021-05-22 22:26:20 the war over right
+plane-crazy 2021-05-22 22:26:22 nvm
+plane-crazy 2021-05-22 22:26:31 Break it up assholes
+help 2021-05-24 04:57:32 This is the curved bomb bay Im working on. I've literally been trying so long just to make this work. The bomb bay doors wont open. This is a handley page halifax.
+help 2021-05-24 04:57:41 https://streamable.com/df57om Right after I finish making this bomb bay working. Im going to connect this moving bomb bay with the tail area bottom floor.
+creations-chat 2021-05-24 06:29:42 This is the curved bomb bay Im working on. I've literally been trying so long just to make this work. The bomb bay doors wont open properly. This is a handley page halifax https://streamable.com/df57om
+creations-chat 2021-05-24 06:57:55 uh what you think about my bomber?
+creations-chat 2021-05-24 07:03:33 "me climbs out of bunker"  is it safe to post creation feedback now?
+bug-reports 2021-05-24 23:20:40 This glitch has been stuck with me for months, I have no idea how to fix it. The water texture is different and weird and theres this large black square in the sky.
+bug-reports 2021-05-24 23:20:47 
+bug-reports 2021-05-24 23:54:32 i dont have mods or texture packs for this game
+bug-reports 2021-05-25 00:00:45 thank you so much, the glitch is gone
+help 2021-05-25 06:33:24 My flying fortress's control surfaces are not moving and wont budge. There like stuck https://streamable.com/unkkc2
+help 2021-05-25 06:35:47 well the control surface is actually lock motored. The video shows a better explanation
+help 2021-05-25 06:37:25 it would leave a slit, and it wouldn't look to well
+help 2021-05-25 06:39:19 im using motor 2
+creations-chat 2021-05-25 07:29:18 I think we all had procrastinated when building
+creations-chat 2021-05-25 07:37:29 is this just a modified a10 tut?
+creations-chat 2021-05-25 07:39:45 abbreviation for tutorial on yt
+creations-chat 2021-05-25 07:43:00 well not really, this is the yt vidhttps://www.youtube.com/watch?v=oJWO3qEmxag I was just wondering thats all
+bug-reports 2021-05-25 23:13:21 https://streamable.com/1bxh70
+bug-reports 2021-05-26 00:21:38 so do I make the bombs like a block apart from the bomb bay walls?
+bug-reports 2021-05-26 00:22:00 whats for you
+bug-reports 2021-05-26 00:22:46 can you show pic of what you did
+bug-reports 2021-05-26 00:23:02 oh ok
+bug-reports 2021-05-26 00:23:10 ok
+bug-reports 2021-05-26 00:31:38 uh so how am I going to pack alot of bombs in that
+bug-reports 2021-05-26 00:32:09 oh ok
+bug-reports 2021-05-26 00:42:59 I dont know man, my bombs are pretty tight together and the bomb bay pretty small. The other side of the bomb bay will also be filled with bombs that are tight too.
+bug-reports 2021-05-29 20:24:01 This for all my builds, but the when I place a text sign and write a word in it. It censors. I'm not even writing anything inappropriate. This sign is suppose to say "berry."
+bug-reports 2021-05-29 20:24:05 On the left side its fine, but always the right side theres a problem
+bug-reports 2021-06-20 21:18:08 https://streamable.com/muc46y This keeps happening everytime I drop the bombs from the bomber. The bomb bay is sealed with blocks, which makes it so that the bombs wont escape. The bombs are racked on a wall with disconnectors and this wall is lock motored to the bomb bay. Sorry for the quality of the video.
+bug-reports 2021-06-20 22:53:18 How should i place the bombs, outside of the plane? The bombers a b-24d btw
+creations-chat 2021-06-21 03:39:14 thanks for insight, but it was really hard fitting the three blade mechanism in there, while at the same time fitting super rockets.
+bug-reports 2021-06-21 06:14:42 https://streamable.com/yq46k1 I dont know why, but these tnt rockets just keep staying stuck in the air for no reason. Its not the suspension either.
+bug-reports 2021-06-21 06:59:58 sorry about that, i didnt know
+bug-reports 2021-06-21 13:56:36 User: bulldogbrandon slot 9 (this is the tnt launcher) Slot 26 is the bomber that keeps glitching its bombs through the body for some reason.
+creations-chat 2021-06-21 14:04:00 "i got a jar of dirt" "i got a jar of dirt"  (jack sparrow quote)
+bug-reports 2021-06-25 05:17:00 https://streamable.com/muc46y
+bug-reports 2021-06-25 05:27:21 trust me its not lag
+bug-reports 2021-06-25 05:29:09 well im staying with these bombs, since realistically this bomber used small 500 lb bombs
+bug-reports 2021-06-25 14:53:45 that issue has been already been addresed  mulitple times  already
+help 2021-07-04 06:22:34 ok heres a question, say that you drop 150 tnt bombs from a alititude of 4200 in planecrazy. Each bomb is in pairs of 2 so 2 tnt make one bomb. Now the question I have is how much does it take for a bomb to fall from 4200 to the spawn base plates?
+help 2021-07-04 06:26:18 wait did you actually tested
+help 2021-07-04 06:26:33 or was that just a guess
+help 2021-07-04 06:27:11 my computer pretty trash
+help 2021-07-04 06:27:24 im trying to make a norden bombsight
+help 2021-07-04 20:24:07 Anyone know how I can add a trim control surface to my elevator? Also how should I add one to my ailerons too?
+help 2021-07-05 05:35:35 Well that guy that you talked to you about the arrow thing is mistaken. Go to settings and click the building arrow square, then it will say disabled and the build arrows will go away.
+help 2021-07-05 05:38:05 Anyone know how to make a working trim on this elevator
+help 2021-07-05 17:40:43 lock motor a half circle
+help 2021-07-05 20:43:19 Does anyone know how to make a working control surface trim on a elevator?
+help 2021-07-05 21:22:39 its still not possible
+help 2021-07-06 04:49:30 hey do you know how to make working trim control surfaces for a elvator.
+help 2021-07-06 04:57:05 These are the trims and I think you know where the elevator is. The trims are used to set the aircraft at a maintained altitude, or to stay at a certain altitude and not change in height what so ever.
+help 2021-07-06 04:59:47 yes but its not like servos but motors. It can make your plane stay at a certain alititude and not change.
+help 2021-07-06 05:01:32 not a automatic one, but like you use keys to change the up and down motion
+help 2021-07-06 05:03:20 yes, but my problem is that even when I try to get the angle right, it keeps drifting up or down
+help 2021-07-06 05:04:07 im talking about the bomber itself
+help 2021-07-06 05:05:15 here let me show you what i have so far
+help 2021-07-06 05:09:06 So this is my trim design, and sometimes when I move the trims, one of the white trim, is in the wrong direction than the other trim, so like a synchronization problem. Also when I use lock motor, when I attempt to move the trims they glitch out. Also theres again the problem that its hard to make the bomber stay in place
+help 2021-07-06 05:10:12 ya but every situation is different, i need it to be somewhat adjustable
+help 2021-07-06 05:11:13 ya i will try
+help 2021-07-06 05:20:42 maybe show a photo
+help 2021-07-11 21:58:52 i know it is possible
+help 2021-07-13 02:07:23 does anyone know a 3 prop mechanism? I know theirs one on this discord server, but i cant find it.
+help 2021-07-18 03:31:20 Heres my question, is there a way to see how much a block, wedge or just any building material in plane crazy?
+help 2021-07-18 05:00:19 ya but isnt creation feedback like super salty
+help 2021-07-18 05:26:12 well most of the time they dont even give feedback instead giving mean comments or just telling the person to delete there build.
+help 2021-07-18 05:27:56 well do you think a "skill issue" is a good response for feedback
+help 2021-07-18 05:29:21 well ya but dont you think telling them what they could actually do
+creations-chat 2021-07-21 22:12:27 <@!593249332262600725>  https://discord.com/channels/384021699466756103/384025409945337856/731234008872255579 This is the 3 propeller mechnism
+creations-chat 2021-07-26 06:58:27 https://streamable.com/gkc6lh
+creations-chat 2021-07-26 07:00:45 you can check out my missles in creations, and thank you https://discord.com/channels/384021699466756103/384025409945337856/869111178092245022 heres the link to the unguided missile
+creations-chat 2021-07-26 07:06:13 https://streamable.com/z2641t
+creations-chat 2021-07-26 17:30:10 https://discord.com/channels/384021699466756103/384025409945337856/869111178092245022 For my unguided missile, can i get some feedback on how the missiles worked for you and were they effective in ground attack?
+creations-chat 2021-07-26 17:35:25 put some ballast blocks to keep it from tipping
+help 2021-07-26 17:37:15 try to use the other ballast block
+help 2021-07-26 17:37:28 and place them evenly accros the bottom floor of the ship
+help 2021-07-26 17:37:39 no the other one
+help 2021-07-26 17:37:50 yes
+help 2021-07-26 17:38:02 yes
+help 2021-07-26 17:41:30 show vid
+help 2021-07-26 17:45:58 did you sink the tanks
+help 2021-07-26 17:46:08 theres a option to fill the tanks with water
+help 2021-07-26 17:46:23 get the screw driver and click the tank
+help 2021-07-26 17:48:05 so that i would be more stable, but not all the way
+help 2021-07-26 17:50:10 maybe make the boat wider
+help 2021-07-26 17:50:24 oh
+help 2021-07-26 20:24:56 How can I improve these wings? I made them out of blocks and lockmotor some wing pannels
+help 2021-07-26 20:59:28 click on the image
+general 2021-07-27 06:20:48 egg in french
+general 2021-07-27 06:24:49 doing a avro lancaster build
+general 2021-07-27 06:24:55 tell me if you want to switch the build
+general 2021-07-27 06:24:57 in vc
+general 2021-07-27 06:32:35 hey
+general 2021-07-27 06:32:44 you wants to hear a dad joke
+general 2021-07-27 06:32:49 anyone
+general 2021-07-27 06:32:57 im talking to vc
+general 2021-07-27 06:36:37 ok heres a joke
+general 2021-07-27 06:37:37 what did james bond do when he went to bed
+general 2021-07-27 06:39:37 ye
+creations-chat 2021-07-29 00:59:23 it looking pretty good
+creations-chat 2021-07-29 05:18:32 https://streamable.com/gkc6lh i did boi's, just watch it
+creations-chat 2021-07-29 05:20:37 no just watch it trust me, this a successful test of my  custom unguided missile's
+creations-chat 2021-07-29 06:46:20 https://discord.com/channels/384021699466756103/504436696021204992/870173429112926288 Wait do you guys want to know how to make unguided rocket
+help 2021-07-29 15:18:37 your going to need to get image perms
+help 2021-07-29 15:19:29 https://discord.com/channels/384021699466756103/735554521992003584/735554953501999104
+bug-reports 2021-07-29 18:09:40 wait let me ask you a question, did you spawn at airport?
+bug-reports 2021-07-29 18:24:05 because he probably just spawned at the airport, which if you use normal default mouse control surfaces, it glitches and makes the control surface broken.
+bug-reports 2021-07-29 20:25:19 Dont spawn at airport when your using default control surfaces that are mouse controlled. It glitches the control surfaces, so maybe try custom control surfaces at airport or in general.
+help 2021-07-29 22:00:27 i suggest you just the normal landing gear design, like servo retracts landing gear. Piston landing gear and spring landing gear is pretty glitchy
+help 2021-07-30 18:28:04 Does anyone know how to make working control surface trim for a plane?
+creations-chat 2021-07-30 18:28:08 Does anyone know how to make working control surface trim for a plane?
+creations-chat 2021-07-30 18:30:46 if you dont know, then dont say anything
+creations-chat 2021-07-30 21:24:07 search it up
+help 2021-08-22 02:56:54 can someone help me, my flying fortress keeps shifting to the left and i don't know why. I checked if I placed the super rockets in the engines unevenly and checked engine placement but still. 
+ the video https://streamable.com/vutac2
+creations-chat 2021-08-22 02:57:44 can someone help me, my flying fortress keeps shifting to the left and i don't know why. I checked if I placed the super rockets in the engines unevenly and checked engine placement but still. 
+ Heres the video  https://streamable.com/vutac2
+creations-chat 2021-08-22 03:01:28 also there fake propellers tho
+creations-chat 2021-08-22 03:10:50 well I did lock motored the rudder to the side. But when i load the build, the rudder goes to the middle like in the drawing
+help 2021-08-22 04:42:22 oh i fixed the problem, but thanks for the suggestion i appreciate it
+help 2021-08-22 04:42:31 oh i fixed the problem, but thanks for the suggestion i appreciate it
+creations-chat 2021-08-24 22:53:29 This is some of my development on my newest bomber the b-36 peace maker in its original scale to real life. So how does it look, feedback.
+help 2021-08-25 12:35:17 https://sketchfab.com/3d-models/b36-063e5a3836a94d3eb2df7ffc1f5b1953 anyone know how I can somehow replicate these thick wings in plane crazy?
+help 2021-08-25 12:38:00 here let me show you my build scale
+help 2021-08-25 12:41:01 Side View Scale
+help 2021-08-25 12:41:08 it pretty big, i was trying to make a 1 to 1 scale
+help 2021-08-25 12:41:17 Top View Scale
+help 2021-08-25 12:41:23 Front
+help 2021-08-25 12:41:51 here it is
+help 2021-08-25 12:42:55 alr
+help 2021-08-25 12:50:00 maybe a bit bigger than that
+help 2021-09-30 04:07:07 Is there a way to precisely lock a half block at a certain height? I used motor locking, but I can't lock this thick wing panel at the right height and adding a motor lock just causes it to go too under or over the height.
+help 2021-09-30 04:07:20 
+help 2021-09-30 04:09:50 how? and is it good
+help 2021-09-30 04:10:29 wait do you know how
+help 2021-09-30 04:11:21 mind showing like a example, sorry its just its my first time using pistons in general..... and piston locking.....
+help 2021-09-30 04:13:37 you guys mind showing a image example
+help 2021-09-30 04:13:56 i wanna use it in a angle motor lock
+help 2021-09-30 04:14:04 oh ty
+help 2021-09-30 04:17:19 but how do you do it in a angle lock
+help 2021-09-30 04:18:31 just go back at chat history, you will see it
+help 2021-09-30 04:18:51 k
+help 2021-09-30 04:19:23 tysm
+help 2021-09-30 04:20:29 what im trying to do is to line up the red part with the blue part
+help 2021-09-30 04:21:28 ima try to piston lock first
+help 2021-09-30 04:21:35 then if that dont work then this
+help 2021-09-30 04:21:45 but yea thanks for the help chat
+help 2021-10-01 01:51:46 So you remember yesterday were you made a video about piston locking. So you like how the piston it pushes up then locks with lock motor. Is there a way to retract since I'm trying to move the red part of that wing back, but at a certain height.
+help 2021-10-01 01:58:25 alright I will try that
+bug-reports 2021-10-07 21:56:44 is pvp down
+bug-reports 2021-10-07 22:00:58 you should say this in help not bug reports
+plane-crazy 2021-10-07 22:05:56 guys is connecting to pvp broken for youi
+help 2021-10-22 00:24:32 motors and motor 2 is probably glitched again
+help 2021-10-22 00:24:37 there was a new roblox update
+bug-reports 2021-10-24 01:10:22 bro my motors and motor 2s are bugging
+bug-reports 2021-10-24 16:49:15 bruh motors are still bugged
+help 2021-10-27 02:14:58 does anyone know how to make a good b-17 ball turret
+help 2021-10-27 02:15:09 don't care if its hard to make just let me know
+help 2021-10-27 02:25:09 mind showing a example? like a image
+plane-crazy 2021-11-03 02:47:49 whats the new update
+plane-crazy 2021-11-03 02:47:55 like wat
+plane-crazy 2021-11-03 02:48:43 please be anti lag
+help 2021-11-07 02:49:45 https://streamable.com/u00hb1
+help 2021-11-07 02:50:04 How do I make my bomber go faster, and what engine should I use and where to place?
+help 2021-11-07 02:55:47 well dont hover drives dont work or are not efficient over 1000 blocks?
+help 2021-11-07 02:57:27 well my bomber is 4885 blocks......
+help 2021-11-08 04:07:37 what engine should I use to make a bomber faster, without screwing it to much
+help 2021-11-08 04:13:13 mind showing a how to......
+help 2021-11-10 02:49:12 does anyone know how to make a altimeter?
+help 2021-11-10 02:49:23 that reaches up like 40,000
+help 2021-11-10 02:53:08 well because I made a flying fortress and a bombsight, and I want to bomb from a height of 27,000 cause thats what they did in real life. Also 36,000 cause I want to bomb using my b-36. Bombsight is accurate
+help 2021-11-10 02:57:02 uh well you see, I got that math, I just wanted a way to actually build it physically, like a working one
+bug-reports 2021-11-10 23:35:29 is it me or is plane crazy having more lag?
+help 2021-11-26 02:23:50 Does anyone know to fit a stable, but strong engine onto a 5000 block build like a bomber. I already tried conveyer engines, but they were to unstable
+help 2021-11-26 02:35:28 i already tried that
+help 2021-11-26 02:35:57 mmm i will try
+help 2021-12-01 05:46:02 does anyone know how to reduce the lag of a magnet engine
+help 2021-12-01 05:46:43 hover dosen't really make a difference and conveyor overpowered
+help 2021-12-01 05:47:32 well I tried that, it just wacked all the controls of my bomber
+help 2021-12-01 05:47:50 i did that, but still it was unstable
+help 2021-12-01 05:48:40 well im using 4810 blocks which is a bomber, i could show a picture
+help 2021-12-01 05:49:49 well ya in the middle of the bomber were the center of mass is
+help 2021-12-01 05:50:40 I used the conveyer engine with springs on it]
+help 2021-12-01 05:50:50 should I use the one with no springs
+help 2021-12-02 02:14:05 winter update
+bug-reports 2021-12-06 00:12:39 if you make a motor 2 servo with a 180 degree angle. It glitches and the controls dont work. It only works if you wait a bit of time before you turn on the servo for some reason. I just want to work the motor right after I spawn my bomber.
+help 2021-12-07 05:15:49 when is the winter update gonna come out
+help 2021-12-07 06:56:57 Anyone know how to make this wing lock smaller. Is there a way to use less lock motor so that I can bring the wing coverings closer to the main wing. I want to do this so that I can make more wing sections.
+bug-reports 2021-12-11 20:11:22 weres the winter update..
+help 2021-12-15 01:25:14 i cant use my bombsight at 7200, cause the fog from up there is just makes targets blind. How can i solve this? or how can i could blind bomb?
+help 2021-12-15 02:07:00 but how
+help 2021-12-15 02:08:01 stop sending memes also I had already increased my render distance but it hasn't gone away
+help 2021-12-15 02:09:17 but how
+bug-reports 2021-12-16 01:56:04 when i drop my lock bombs from a high height, some of them do explode( like disappear), but show no damage and the actual explosion when bombing
+bug-reports 2021-12-16 02:00:21 ok my wifi is in good shape, just checked. PVP is on and your probably right about the second to last part of your response
+bug-reports 2021-12-19 21:36:03 I don't know why, but I drop lock bombs from my bomber none of the bomb's explosions render or even show damage to actual players. My guess to this problem is that im bombing from a high height, but I do not know in general. This video shows an example, I suggest for you to zoom in fullscreen (sorry for the roblox recording quality in advance) All bombs were armed
+bug-reports 2021-12-19 21:36:13 https://streamable.com/0ndkkh
+bug-reports 2021-12-20 19:14:32 please fix tnt its bugged, if you lock motor or drop a big load of tnt onto the ground. only a small majority explodes and does damage and the rest disappears. (pls rick)
+bug-reports 2021-12-20 19:18:16 https://streamable.com/3pijck
+bug-reports 2021-12-20 19:18:31 https://streamable.com/gkc6lh This is video of the tnt working before the glitch
+help 2021-12-20 19:41:56 does anyone know how to increase the hover range of the hover pads. Im going to use hover pads as a way to detect enemies from long ranges and make it like radar.
+help 2021-12-20 19:43:45 is there any way you can replicate long range hover characteristic with magnets or springs?
+help 2021-12-20 19:45:02 ok just to put in point, is it possible to make a radar
+bug-reports 2021-12-20 20:00:45 well the 2nd video was taken a few months ago
+bug-reports 2021-12-21 02:30:29 But the rockets in the first video were spread apart, and i put them to not affect each other
+bug-reports 2021-12-21 20:10:41 tnt keeps on doing nothing to enemies, it just disappears, does no damage, and the explosion doesn't even render
+bug-reports 2021-12-21 20:24:41 i got a desktop and checked the stats and its good. Checked my tnt settings and delay, and im using lock motor bombs. It only dosen't render when they hit the ground.
+help 2021-12-23 03:58:51 Does anyone know how to big wings like in this picture. I've been trying to make these big wings for months but haven't found a way.
+help 2021-12-23 04:19:20 well this is my progress so far, getting the shape is really hard when your making big wings
+help 2021-12-23 04:19:45 
+help 2021-12-23 04:20:06 
+help 2021-12-23 04:25:18 yes
+help 2021-12-23 04:25:32 but its that i can't get the shape
+help 2021-12-23 04:34:53 
+help 2021-12-23 05:45:06 thank you
+help 2021-12-23 08:31:48 Does paint blocks take more save date (causing more lag possibly?) than normal blocks
+help 2021-12-23 08:33:04 alright thanks
+help 2021-12-23 19:03:43 is the weight of a half block less than the weight of a block? Also do half blocks take more data then blocks?
+help 2021-12-23 19:06:44 I dont know if this right or wrong, but I heard that the more build data you have and block count. The more laggier your build will be.
+help 2021-12-23 19:07:50 what you mean by that?
+help 2021-12-23 19:11:18 thanks for the info
+bug-reports 2021-12-24 19:42:22 tnt is not rendering for me and it just disappears
+bug-reports 2021-12-24 20:05:40 im sorry, its just that this winter break I can do nothing cause all my builds are bombers. My apologies
+general 2021-12-25 08:00:36 @everyone Merry Christmas everyone
+bug-reports 2021-12-25 19:07:07 bro are pistons broken again, my angle locking is not working with them
+creations-chat 2022-01-03 05:37:25 does anyone know how to image overlay also how do you do it accurately
+help 2022-01-18 22:18:18 Just a question for making bombers. Should I use 1X4 wing panels as in breaking in larger pieces or 1X1 wing panels since that would mean that it would break in smaller pieces? bomber survivability. If I use 1X1 would that affect how my bomber flys or no difference?
+help 2022-01-18 23:31:04 i mean like when people use fireworks on the bomber or guns, my thinking was that if it were 1x1 it would break apart is small bits
+help 2022-02-07 04:28:45 does anyone know how to stop bomb tumbling from high heights. When the bomb starts falling, it starts tumbling. I did use wing pannels and delta wings, even weights but it didn't work
+help 2022-02-07 07:10:30 Oh it ok now. I fixed tumbing by just removing some wing pannels
+help 2022-02-23 06:48:42 Does anyone know how to prevent a bomb from tumbling while falling from 7200. This is my design, how can I improve it?
+bug-reports 2022-05-18 08:04:29 The physics are currently bugged in roblox, there working to fix the problem.
+bug-reports 2022-05-20 04:56:07 you cant fix it, either its a roblox or plane crazy problem
+bug-reports 2022-05-20 04:56:23 gotta wait till they fix it
+help 2022-06-10 07:55:14 does anyone now what restitution does to ropes?
+creations-chat 2022-06-11 17:57:31 something wrong with my design?
+creations-chat 2022-06-11 17:59:53 should i just send a video then of it, and also the use?
+creations-chat 2022-06-11 18:08:47 https://streamable.com/t7j9wm heres the video, im sorry for the quality
+help 2022-06-25 06:14:19 Is there a way to recover a lost data file.....
+help 2022-06-25 06:16:58 your not allowed to dm, cause he is really busy
+help 2022-06-25 21:59:11 Anyone know how to get a lost save file back
+help 2022-06-25 22:30:04 maybe lock motor some wing pannels on top or disconnectors
+creations-chat 2022-07-05 01:17:27 I was wondering if you can show me how to build this sight design. I have figured out the accurate angles from 0-7200 altitude using motor 2. I'm using a fixed sight but I need stabilization.
+bug-reports 2022-10-07 03:25:29 Delay, also plane crazy is a bit slow. Though I think its probably temporary?
+creations-chat 2022-10-31 06:12:07 I'm not so good in the creation art detail. Maybe add some varying sizes of half balls on the walls. Try adding shadings, the wall of flesh is not fully one color.
+bug-reports 2022-11-08 21:53:45 Its happening 4 times for me
+bug-reports 2022-11-08 22:00:54 its just an update..
+creations-chat 2022-11-23 21:00:59 YOU KNOW WHAT TIME IT IS @everyone
+general 2022-11-23 21:06:10 thick boi
+general 2022-11-23 21:07:07 MFS > DCS
+general 2022-11-23 21:08:10 
+help 2022-11-24 23:07:43 https://streamable.com/e1zgln
+help 2022-11-24 23:08:01 Bro my motors keep on reseting or just bugging out when Im angle locking and locking in general
+help 2022-11-24 23:08:27 It works sometimes, but most of the time now it bugs out.
+help 2022-11-25 05:53:28 What you mean by limiters?
+bug-reports 2023-03-16 04:06:17 motors broke again
+bug-reports 2023-03-16 04:06:26 it is sad day :C
+creations-chat 2023-03-17 07:09:48 Sorry for asking a question for a long time ago build, but is it possible if you could show the how to build of the bombsight from different angles? The design of your bombsight is really brilliant, but the camera angle makes it a bit hard to see which parts go which. I hope your spring break goes well, ok bye now.
+plane-crazy 2023-03-26 07:01:01 Sorry for asking a question for a long time ago build, but is it possible if you could still share the file of with the desmo math? These calculations are really brilliant for calculating the trajectory of a bomb in the game. I would like to test this in game, it's the vid wasn't able to show all the math. Thank you for responding and have a great day.
+plane-crazy 2023-03-26 07:12:31 hi curby, it bulldogbrandon
+plane-crazy 2023-03-26 07:13:55 you could use a combination of lock motor and angle locking
+general 2023-04-22 17:10:46 yo does anyone remember the way to see plane crazy fps
+general 2023-04-22 17:18:25 ty

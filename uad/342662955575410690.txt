@@ -1,0 +1,2124 @@
+The Tale of .fruitberries (342662955575410690)
+general 2020-12-18 19:18:50 indeed
+general 2020-12-18 19:21:01 obcproiiiiii_iiiiiiiii
+plane-crazy 2020-12-18 19:54:26 i am going to make Plane Crazy's first ever AI bot
+plane-crazy 2020-12-18 19:54:58 big brain
+plane-crazy 2020-12-18 19:55:11 i got an a+ in physics and engineering
+plane-crazy 2020-12-18 19:56:26 so i can literally make a bot that can use motors, pistons, ball wheels and more to make the brainsof it
+plane-crazy 2020-12-18 19:57:28 i can do it using only a 8x8 space
+plane-crazy 2020-12-18 20:22:27 funniest thing is i havent been to school lately
+plane-crazy 2020-12-19 19:15:35 oh no
+plane-crazy 2020-12-19 19:15:58 LMFAO
+plane-crazy 2020-12-19 19:16:48 ye
+plane-crazy 2020-12-19 19:17:04 ai agree
+plane-crazy 2020-12-19 19:18:30 oh fuck
+plane-crazy 2020-12-19 19:18:33 pls dont
+plane-crazy 2020-12-19 19:19:17 trying to make a simple heli but idk how to make the blades
+plane-crazy 2020-12-19 19:19:28 <#497142796961054721>
+plane-crazy 2020-12-19 19:22:23 how to make a quad-bladed propellor
+plane-crazy 2020-12-19 19:27:32 why arent you using incognito mode
+help 2020-12-19 19:35:45 idk how to make the body of the heli without making the body spin with the propellors
+help 2020-12-19 19:38:28 wtf is a co-axle
+help 2020-12-19 19:45:31 ok then time to make a -googol:1 reduction kappa
+plane-crazy 2020-12-19 19:56:39 how the hell do i toggle a camera
+plane-crazy 2020-12-19 19:56:55 ok thanks
+bot-central 2020-12-19 20:03:58 ?shelp
+help 2020-12-19 20:12:02 why dont this fly straight
+plane-crazy 2020-12-20 01:56:51 *hold up*
+plane-crazy 2020-12-20 02:00:01 thats no good
+help 2020-12-20 15:32:35 why is this having a seizure
+help 2020-12-20 16:01:49 this is a better design but it's bad at turning, it goes from 0 to 550 mph in less than 2 seconds
+help 2020-12-20 16:07:24 yawing
+help 2020-12-20 16:07:50 but this is my main focus rn and it has the worst yaw ever
+help 2020-12-20 16:08:36 id rather sacrifice design/detail for effectiveness
+help 2020-12-20 16:09:18 i literally had to make it so that increase and decrease power was a and a and d and d
+help 2020-12-20 16:09:42 and also it randomly turns to the left whenever  i dont want it to
+help 2020-12-20 16:09:59 and it doesnt have a propellor inside
+help 2020-12-20 16:50:29 Edit: I figured out im a fucking idiot and i had to turn on/off on.
+general 2020-12-21 02:31:35 :kekw:
+general 2020-12-21 02:31:49 add it
+general 2020-12-21 02:32:16 d
+general 2020-12-21 02:32:31 g
+general 2020-12-21 02:32:38 j
+general 2020-12-21 02:32:42 k
+general 2020-12-21 02:32:44 k
+general 2020-12-21 02:33:16 eeeeee
+help 2020-12-21 21:37:09 how do i make a rotating camera for my robot?
+help 2020-12-21 21:38:02 no shit
+help 2020-12-21 21:38:11 but how would i connect it to the camera
+help 2020-12-21 21:38:29 you cant connect it in any way plus it dont work with wasd controls
+help 2020-12-21 21:39:13 rotating camera that whenever i hold f the camera rotates
+help 2020-12-21 21:40:40 the block is a ballast block.
+help 2020-12-21 21:40:48 it drifts if i hget rid of it
+help 2020-12-21 21:40:53 which is annoying as fuck
+help 2020-12-21 21:41:28 ok
+help 2020-12-21 21:43:38 and how would i make something that would rotate the body itself
+help 2020-12-21 21:45:29 or could i use motors again
+help 2020-12-21 21:46:40 well it did but at a cost
+help 2020-12-21 21:46:45 *not being able to move the fucking thing*
+help 2020-12-21 21:48:13 also do ballast tanks hold more density  than ballast blocks
+help 2020-12-21 21:48:47 o
+help 2020-12-21 21:49:13 all 3 ballast blocks are at 10 fuckin density
+help 2020-12-21 21:49:28 
+help 2020-12-21 21:49:39 and it still falls over,
+help 2020-12-21 21:50:53 i may be the dumbest motherfucker alive.
+help 2020-12-21 21:52:05 wdyfm the arms
+help 2020-12-21 21:54:37 ok
+help 2020-12-21 21:57:55 like this
+help 2020-12-21 21:58:44 
+help 2020-12-21 21:59:20 ok
+help 2020-12-21 22:03:42 it doesnt do anything
+help 2020-12-22 20:51:15 
+help 2020-12-22 20:51:22 it dont turn properly
+plane-crazy 2020-12-27 15:52:35 whats something that can make things extend really fast really far and retracts instantly
+plane-crazy 2020-12-27 15:52:58 and how do i fix pistons
+help 2020-12-27 15:55:42 how the hell do i fix pistons being so slow when i set them to 2500 max force and 4 distance
+bot-central 2020-12-30 01:04:20 !s
+bot-central 2020-12-30 01:04:49 ?s a gui that tells you which direction(e.g. North East) the camera is pointing
+bot-central 2020-12-30 01:06:13 ?s a gui that tells you which direction (e.g. North East) the camera is pointing
+help 2021-01-03 23:27:40 how would i make this fully automatic
+help 2021-01-03 23:27:45 the spring is set to automatically retract
+help 2021-01-03 23:39:18 no its a gun slick brain
+help 2021-01-04 01:10:28 why doesnt this fire automatically it jsut stops at the 6th ball and become ssemi
+help 2021-01-04 01:15:36 help
+help 2021-01-04 01:16:55 help
+bot-central 2021-01-05 16:05:54 ?shelp
+bot-central 2021-01-05 19:41:08 ?s a rotation option
+plane-crazy 2021-01-08 19:54:37 FIX THIS
+plane-crazy 2021-01-08 19:54:44 JUST
+plane-crazy 2021-01-08 19:54:45 FIX IT
+plane-crazy 2021-01-08 19:57:23 JUST REMOVE THE HITBOX OF THE MAGNET IM TIRED OF IT
+plane-crazy 2021-01-09 18:06:16 prob not
+plane-crazy 2021-01-09 18:06:31 this is because magnets have a 1x2 box
+plane-crazy 2021-01-09 18:06:49 because the devs decided to make our lives tedious as hell
+general 2021-01-22 02:12:58 wtf
+general 2021-01-22 02:13:00 
+general 2021-01-22 02:13:23 why is it crying
+general 2021-01-22 02:13:27 the sounds
+general 2021-01-22 02:13:34 are fucking cursed
+help 2021-01-22 02:15:15 what settings on suspensions would i need to make my car to be an atv
+plane-crazy 2022-03-15 21:47:20 what the fuck do friction blocks even do
+general 2022-05-04 00:28:54 is roblox down
+general 2022-05-04 00:28:58 oh
+general 2022-05-04 00:29:19 is roblox getting rodoxxed
+general 2022-05-04 00:29:23 wtf no
+general 2022-05-04 00:29:35 roblox is getting rodoxxed
+general 2022-05-04 00:29:39 again
+general 2022-05-04 00:36:55 4 wars
+plane-crazy 2022-08-25 01:48:55 
+plane-crazy 2022-08-25 01:48:58 ban
+plane-crazy 2022-08-27 00:27:24 why cant i move individual parts
+plane-crazy 2022-08-27 02:45:56 black man
+plane-crazy 2022-08-27 02:50:12 fogr
+plane-crazy 2022-08-27 02:54:13 shut up blue bastard
+general 2022-08-27 03:07:06 yo what was that one game where you had the arena and the moving house with the cool physics with the floppy arms
+general 2022-08-27 03:07:11 i forgoy
+general 2022-08-27 03:08:21 not like a moving house
+general 2022-08-27 03:08:25 but you could pick up stuff
+general 2022-08-27 03:08:34 and you had to get as much stuff in the truck as possible
+general 2022-08-27 03:08:38 before the timer ran out
+general 2022-08-27 03:08:42 what was that game called
+general 2022-08-27 03:09:10 ohhhh thx
+general 2022-08-27 03:23:03 orange bitch
+plane-crazy 2022-08-28 00:29:21 how do i build a motor lock
+plane-crazy 2022-08-28 00:29:26 i gorfor
+plane-crazy 2022-08-28 00:35:04 why is there a squiggly at the beginning of the url
+plane-crazy 2022-08-28 00:35:15 
+plane-crazy 2022-08-28 01:40:21 wtf
+plane-crazy 2022-08-28 01:40:46 wtf are motor locks even used for
+plane-crazy 2022-08-28 01:41:00 idgaf
+plane-crazy 2022-08-28 02:20:25 how do you do that one glitch where you go like mach 6 billion
+plane-crazy 2022-08-29 00:13:41 can you change the tracer color of the gun
+plane-crazy 2022-09-02 23:30:31 how did you do that
+i want to do that
+plane-crazy 2022-09-02 23:30:40 why the hell is my name still this
+plane-crazy 2022-09-02 23:36:17 go closer
+plane-crazy 2022-09-03 20:32:14 why cant i rotate/move individual parts
+plane-crazy 2022-09-04 18:34:36 fix the fucking hover thrusters
+plane-crazy 2022-09-04 18:35:39 how do i make water wheels have more grip
+plane-crazy 2022-09-04 18:36:28 hover thr4usters are fucking broken
+plane-crazy 2022-09-04 18:36:39 and now im not even going to correct my typos because its bullshit
+plane-crazy 2022-09-04 18:37:02 i want to go up
+plane-crazy 2022-09-04 18:37:03 but i cant
+plane-crazy 2022-09-04 18:37:35 thisthisthisthisthis
+plane-crazy 2022-09-04 18:39:07 add a max height option for hover thrusters at least
+plane-crazy 2022-09-05 01:23:09 why is it so slow going down but way faster going up, and also why does it take so long to recover when moving my mouse like 1 nanometer
+plane-crazy 2022-09-05 01:27:05 💀
+plane-crazy 2022-09-05 01:27:17 you ruined the chain
+plane-crazy 2022-09-05 01:27:19 fucking bitch
+plane-crazy 2022-09-05 01:27:27 💀 x2
+plane-crazy 2022-09-05 01:27:40 not onloy that but
+plane-crazy 2022-09-05 01:27:47 shut up blue guy
+plane-crazy 2022-09-05 16:22:56 why does my plane go up faster but down slower
+plane-crazy 2022-09-05 16:23:24 and why does it take so long to recover from turning
+plane-crazy 2022-09-05 16:29:18 dyes
+plane-crazy 2022-09-05 16:29:31 i quit using planes now
+plane-crazy 2022-09-05 16:29:37 im gonna build a helicopter
+plane-crazy 2022-09-05 16:29:50 even though its 100% going to be unbalanced
+plane-crazy 2022-09-05 16:30:33 idk how to make the body be balanced
+plane-crazy 2022-09-05 16:33:33 this is bullshit
+plane-crazy 2022-09-05 16:33:33 
+plane-crazy 2022-09-05 16:35:32 
+plane-crazy 2022-09-05 16:37:12 wat
+plane-crazy 2022-09-05 16:42:43 what
+plane-crazy 2022-09-05 16:44:02 its 4 blocks
+plane-crazy 2022-09-05 16:46:02 anyways
+plane-crazy 2022-09-05 17:18:10 fuck
+plane-crazy 2022-09-05 17:18:21 dumbass fish
+plane-crazy 2022-09-05 17:18:26 thing'
+plane-crazy 2022-09-05 17:20:07 fuckign spinning around
+plane-crazy 2022-09-05 17:20:21 and yes i tried a rotor on both sides as well
+plane-crazy 2022-09-05 17:20:23 didnt work
+plane-crazy 2022-09-05 17:21:20 am i supposed to use wing panels for the rear rotors
+plane-crazy 2022-09-05 17:30:21 read
+plane-crazy 2022-09-05 17:31:44 bruh
+plane-crazy 2022-09-05 17:31:53 do you think ive tried doing that
+plane-crazy 2022-09-05 17:32:01 yes
+plane-crazy 2022-09-05 17:32:02 i did
+plane-crazy 2022-09-05 17:32:09 and wanna know what happened???
+plane-crazy 2022-09-05 17:32:12 *it didnt work*
+plane-crazy 2022-09-05 17:32:23 yes.
+plane-crazy 2022-09-05 17:32:25 on the tail.
+plane-crazy 2022-09-09 22:31:17 hurry up on pc2
+plane-crazy 2022-09-10 01:28:29 bro how do i stop this dumb ahh plane from rocking side to side when i turn
+plane-crazy 2022-09-11 15:38:41 whats the difference between delta wings and wing panels
+plane-crazy 2022-09-17 23:47:52 bitch why the fuck can i take damage in my own plot when i blacklisted the person who is damaging me
+plane-crazy 2022-09-18 00:13:06 fatass
+plane-crazy 2022-09-18 00:13:08 bigeon
+plane-crazy 2022-09-18 15:43:46 fuckass
+plane-crazy 2022-09-18 17:11:12 its a fucking triangle wedge painted blue
+plane-crazy 2022-09-18 21:19:59 any good a10 engine startup sounds? roblox is being autistic and not showing me what i know is on the creator marketplace
+plane-crazy 2022-09-18 21:20:19 they like got rid of everything that wasnt made by them
+plane-crazy 2022-09-18 21:20:51 and sometimes it works, but gives me random bullshit that i never even mentioned in the search by keyword
+plane-crazy 2022-09-18 21:21:15 at that point, its more of search by key pixel
+plane-crazy 2022-09-18 21:26:02 i cant
+plane-crazy 2022-09-18 21:26:07 theres nothing good
+plane-crazy 2022-09-18 21:26:12 on the internet
+plane-crazy 2022-09-18 21:26:49 apparently nobody has ever made an a10 engine startup sound effect
+plane-crazy 2022-09-18 21:30:31 what flyby is the longest one
+plane-crazy 2022-09-18 23:05:34 quandale pregnale
+plane-crazy 2022-09-18 23:55:53 whats the purpose of ball wheels
+plane-crazy 2022-09-19 00:15:27 direa
+plane-crazy 2022-09-19 00:15:39 diarrhea
+plane-crazy 2022-09-19 00:51:11 cameras and motor 2s need to be fixed
+plane-crazy 2022-09-20 22:34:56 anyone know of a good laser cannon
+plane-crazy 2022-09-21 22:43:37 broor
+plane-crazy 2022-09-21 23:12:27 ricardo
+plane-crazy 2022-09-21 23:12:38 explain the imagery displayed above
+plane-crazy 2022-09-22 01:11:05 crepper1034
+plane-crazy 2022-09-22 01:11:14 giant fucking blackhole
+plane-crazy 2022-09-22 02:00:06 WHATS THE STRONGEST MATERIAL
+plane-crazy 2022-09-22 02:00:08 oof caps
+plane-crazy 2022-09-22 02:16:29 shut up blue bastard
+plane-crazy 2022-09-22 02:16:33 fucking bitchass
+plane-crazy 2022-09-22 02:16:37 anyways
+plane-crazy 2022-09-22 02:16:39 RICARDO
+plane-crazy 2022-09-22 22:19:04 this better be good
+plane-crazy 2022-09-22 22:19:08 bitch
+plane-crazy 2022-09-22 22:22:18 nothing changed
+plane-crazy 2022-09-22 22:22:19 fucker
+plane-crazy 2022-09-22 22:27:40 how do i make fireworks shoot farther
+plane-crazy 2022-09-22 22:27:41 hello
+plane-crazy 2022-09-22 23:05:37 shut yo bitchass up
+plane-crazy 2022-09-22 23:05:39 blue bastard
+plane-crazy 2022-09-22 23:19:05 stop putting me in the same fucking server
+plane-crazy 2022-09-22 23:19:10 in pvp
+plane-crazy 2022-09-23 01:49:21 ricardo
+plane-crazy 2022-09-23 01:49:25 release pc2
+plane-crazy 2022-09-23 01:49:30 or im gonna cry
+plane-crazy 2022-09-23 01:49:45 also pls update my name
+plane-crazy 2022-09-23 01:49:49 pls
+plane-crazy 2022-09-23 01:49:49 like actually
+plane-crazy 2022-09-23 01:49:58 IS THAT AN INSULT BITCH
+plane-crazy 2022-09-23 01:50:12 i am a sophomore and i find this highly offensive
+plane-crazy 2022-09-23 01:51:20 alreigh guiys lets assassinate the ruzzian president
+for legal reasons thats a joke
+plane-crazy 2022-09-23 01:52:07 please do\
+plane-crazy 2022-09-23 01:53:38 please dooooo
+plane-crazy 2022-09-23 01:53:40 teth
+plane-crazy 2022-09-23 01:53:41 man
+plane-crazy 2022-09-23 01:53:52 add a stock images wartermark
+plane-crazy 2022-09-23 01:53:56 to make it le jit
+plane-crazy 2022-09-23 01:59:12 bean man
+plane-crazy 2022-09-23 01:59:15 men
+plane-crazy 2022-09-23 01:59:17 te ben
+plane-crazy 2022-09-23 03:19:21 how make laser
+plane-crazy 2022-09-23 03:19:30 without motor lock
+plane-crazy 2022-09-24 01:06:28 fix ladders dumb bitchass
+plane-crazy 2022-09-24 01:06:43 they arent doing their simple fucking task
+plane-crazy 2022-09-24 01:24:20 WTF IS WRONG WITH SIGNS NOW
+plane-crazy 2022-09-24 01:57:45 
+plane-crazy 2022-09-24 01:57:54 hahahaha7800
+plane-crazy 2022-09-24 01:58:00 probably a member of al qaeda
+plane-crazy 2022-09-24 03:34:03 how make laser
+plane-crazy 2022-09-24 03:41:08 and how do i make extra long suspension
+plane-crazy 2022-09-25 19:06:14 https://cdn.discordapp.com/attachments/595702611387220024/1002768400562536628/piston.webm
+plane-crazy 2022-09-25 19:10:03 https://cdn.discordapp.com/attachments/846133147934654565/1002785152310706227/Bouncing.webm
+help 2022-09-25 21:59:26 
+help 2022-09-25 22:00:06 DOPOROOOOOOO_2, Doporoooo_Alt
+help 2022-09-25 22:00:12 fucking up every server
+plane-crazy 2022-09-25 23:04:34 how laser make
+plane-crazy 2022-09-25 23:10:41 how to make laser
+plane-crazy 2022-09-25 23:11:03 tell how
+plane-crazy 2022-09-25 23:54:44 whats the record speed
+plane-crazy 2022-09-25 23:54:47 exactly
+plane-crazy 2022-09-25 23:54:55 the speed
+plane-crazy 2022-09-26 23:13:57 qwertyuiop12lo or qwertyuiop12Io - lag machines
+plane-crazy 2022-09-26 23:14:10 also has been following me for quite some time now
+plane-crazy 2022-09-27 00:01:14 whats the speed record
+plane-crazy 2022-09-28 03:04:45 wwwwwwwGUYS I FOUND THE CURE FOR CANC-
+plane-crazy 2022-09-30 20:56:22 111``111---
+plane-crazy 2022-09-30 21:08:29 ]]]]]\-[[[]]////[]
+plane-crazy 2022-09-30 21:10:14 i not
+plane-crazy 2022-09-30 21:23:41 i was
+plane-crazy 2022-09-30 21:23:43 that
+plane-crazy 2022-09-30 21:23:43 trying to say
+plane-crazy 2022-09-30 21:23:49 my keyboard is beikng reassembled
+plane-crazy 2022-09-30 21:23:55 being
+plane-crazy 2022-09-30 21:26:09 because i just blew up an anthill ion my backyard
+plane-crazy 2022-09-30 21:26:15 no seriously
+plane-crazy 2022-09-30 21:26:16 i blew it up
+plane-crazy 2022-09-30 23:07:21 my setup is infested with ants
+plane-crazy 2022-09-30 23:07:29 why cant this game be more mobile friendly
+plane-crazy 2022-09-30 23:07:58 i wonder if i can connect a keyboard to this ipad i am currently using
+plane-crazy 2022-10-02 22:31:43 6.5 counts of 8th degree conspiracy to commit aggrevated premeditated attempted arson
+plane-crazy 2022-10-03 02:16:53 
+plane-crazy 2022-10-03 03:34:28 
+plane-crazy 2022-10-03 03:34:30 give inventor role
+plane-crazy 2022-10-03 03:34:38 shut up blue bastard
+plane-crazy 2022-10-03 03:34:46 anyways
+plane-crazy 2022-10-03 03:34:51 give me inventor role
+plane-crazy 2022-10-03 03:34:55 or im gonna beat you up
+plane-crazy 2022-10-03 03:35:04 invis
+plane-crazy 2022-10-05 02:17:46 motherfucker fix inverted controls
+plane-crazy 2022-10-05 02:18:13 shut the fuck up blue bastard
+plane-crazy 2022-10-06 22:42:16 fix this
+plane-crazy 2022-10-06 22:42:17 
+plane-crazy 2022-10-06 22:44:19 i change one thing, it works for a little bit
+plane-crazy 2022-10-06 22:44:33 (for one fucking deployment)
+plane-crazy 2022-10-06 22:44:48 then when i run the exact same thing again,
+plane-crazy 2022-10-06 22:44:56 all of a sudden my mouse is inverted
+plane-crazy 2022-10-06 22:46:07 fuck no
+plane-crazy 2022-10-06 22:46:16 thats too complicated
+plane-crazy 2022-10-06 22:47:20 if you want to get on my server and show me how:
+https://www.roblox.com/users/167582971/profile
+plane-crazy 2022-10-06 22:49:33 just get on and show me
+plane-crazy 2022-10-06 22:49:42 its so much easier
+plane-crazy 2022-10-06 22:59:38 ok what now
+plane-crazy 2022-10-06 23:01:34 hey guys quandale dingle here i threw my buddy quandalius IV into a pit of screaming raccoons, and subsequently tore him to pieces
+plane-crazy 2022-10-06 23:01:52 he died next week due to caffeine overdose
+plane-crazy 2022-10-06 23:06:11 also is it just me or is every single fucking server just lagging to asshole
+plane-crazy 2022-10-06 23:06:24 
+plane-crazy 2022-10-06 23:06:44 guys lets spam ping ricardo
+plane-crazy 2022-10-06 23:08:21 everyone is lagging
+plane-crazy 2022-10-06 23:08:32 even fucking private servers
+plane-crazy 2022-10-06 23:09:26 
+plane-crazy 2022-10-06 23:09:37 like i can fuckin select text
+plane-crazy 2022-10-06 23:11:22 i can fucking hear shit in the game even when im in a different game
+plane-crazy 2022-10-06 23:11:28 even when my fucking pc is shut down
+plane-crazy 2022-10-07 01:05:14 the <:trollge:968488162898874500>
+plane-crazy 2022-10-07 01:05:18 <:HAHAHA:584928378151501834>
+plane-crazy 2022-10-07 01:05:26 <:trollHD:773349849235062805>
+plane-crazy 2022-10-08 14:04:07 Ok docter
+plane-crazy 2022-10-08 14:06:05 docter why is plane crazy so laggy
+plane-crazy 2022-10-08 14:07:29 docter why is plane crazy so laggy
+plane-crazy 2022-10-08 14:08:43 its only plane crazy docter
+plane-crazy 2022-10-08 14:47:53 bruh i got kicked for anti exploit <:trollge:968488162898874500>
+plane-crazy 2022-10-08 14:48:08 was making a hangar
+plane-crazy 2022-10-08 14:48:17 that takes a long time to do
+plane-crazy 2022-10-08 14:48:21 without an autoclicker
+plane-crazy 2022-10-08 14:50:31 HOLY SHIT
+plane-crazy 2022-10-08 14:50:35 jetpacks are so fucked
+plane-crazy 2022-10-08 15:22:56 dude its not uneven
+plane-crazy 2022-10-08 15:23:01 look at this fuckass
+plane-crazy 2022-10-08 15:23:02 
+plane-crazy 2022-10-08 17:43:49 not roblox
+plane-crazy 2022-10-08 17:43:53 its just plane crazy
+plane-crazy 2022-10-08 17:45:13 but it might be roblox entirely
+plane-crazy 2022-10-08 17:45:27 because it says "same account launched from different device" even tho i dont have any other devices
+plane-crazy 2022-10-08 23:07:16 lag fixed yet
+plane-crazy 2022-10-08 23:07:31 i bet 10000 robux its not
+plane-crazy 2022-10-09 20:13:28 is it still lagging
+plane-crazy 2022-10-09 20:21:38 is it still lagging
+plane-crazy 2022-10-09 21:35:00 motherfucker hes trying to fix the games lag
+plane-crazy 2022-10-09 21:35:12 and your here bitching about WHERE PC2
+plane-crazy 2022-10-09 21:35:42 its not roblox
+plane-crazy 2022-10-09 21:35:45 its just pc
+plane-crazy 2022-10-09 21:37:04 
+plane-crazy 2022-10-09 21:37:08 saved
+plane-crazy 2022-10-09 21:37:11 <:trollge:993722199498309783>
+plane-crazy 2022-10-09 21:42:29 the massive lag spikes are gone
+plane-crazy 2022-10-09 21:42:41 but you gotta fix your physics
+plane-crazy 2022-10-09 21:48:11 like i have my cursor dead center and the center of mass is perfectly stable and this bullshit plane decides to always turn right
+plane-crazy 2022-10-09 21:48:16 even though my cursor is centered
+plane-crazy 2022-10-09 22:11:12 
+plane-crazy 2022-10-09 22:11:14 bullshit
+plane-crazy 2022-10-09 22:11:56 someone tell me what the fuck is causing this thing to veer right
+plane-crazy 2022-10-09 22:13:35 someone tell me what the fuck is causing this thing to steer right
+plane-crazy 2022-10-09 22:13:51 and dont tell me "oH uSe CuStOm FlApS"
+plane-crazy 2022-10-09 22:15:02 its perfectly evened out
+help 2022-10-09 22:16:36 
+help 2022-10-09 22:16:40 why the fuck this bitch veering right
+help 2022-10-09 22:16:45 its evened out perfectly
+help 2022-10-09 22:17:46 how many
+help 2022-10-09 22:18:17 its even
+help 2022-10-09 22:18:33 that made it worse btw
+help 2022-10-09 22:19:21 everythjing is even
+help 2022-10-09 22:19:33 
+help 2022-10-09 22:20:11 theres nothijng thats uneven
+help 2022-10-09 22:21:02 im using hover engines in the middle
+help 2022-10-09 22:22:02 it works but there isnt enough thrust to lift the plane up
+help 2022-10-09 22:22:15 and also it looks like shit
+help 2022-10-09 22:22:39 no
+plane-crazy 2022-10-10 22:53:03 private
+plane-crazy 2022-10-10 22:55:45 idk for sure if multiple people in a private server would effect the performance
+plane-crazy 2022-10-10 22:56:51 but leaving flight mode in a private server  is kinda laggy but not as much as every second of a public server
+plane-crazy 2022-10-12 23:13:29 nose ideas for this?
+plane-crazy 2022-10-12 23:13:59 nose ideas for this?
+plane-crazy 2022-10-12 23:14:18 and CHANGE MY FUCKING NAME
+plane-crazy 2022-10-12 23:14:53 ok designer 4
+plane-crazy 2022-10-12 23:15:05 kill it
+plane-crazy 2022-10-12 23:15:07 immediately
+plane-crazy 2022-10-13 22:19:30 pipe
+bug-reports 2022-10-13 23:26:42 fix speakers holy shit
+bug-reports 2022-10-14 18:46:04 daynight cycle is fucked
+plane-crazy 2022-10-15 17:51:04 
+plane-crazy 2022-10-15 17:51:12 WAIT WHY ISNT IT SHOWING THERE
+plane-crazy 2022-10-15 17:51:22 hold on let me take a pic of my screen like a bitch
+plane-crazy 2022-10-15 17:52:33 
+plane-crazy 2022-10-15 17:52:39 look at the v in leave
+plane-crazy 2022-10-15 17:52:58 theres an uneven split in the middle of my screen
+plane-crazy 2022-10-15 17:54:08 
+plane-crazy 2022-10-15 17:54:16 is it a problem with my monitor?
+plane-crazy 2022-10-15 17:54:29 idk why this happening
+plane-crazy 2022-10-15 18:00:16 its only on my other monitor
+plane-crazy 2022-10-15 20:02:44 dingleson
+plane-crazy 2022-10-16 03:10:22 
+plane-crazy 2022-10-16 03:10:29 assripper200
+plane-crazy 2022-10-16 13:06:50 barack obama helped me blow up a walgreens around 2009 at 2am
+plane-crazy 2022-10-16 13:07:51 AYYYYYYY CST
+plane-crazy 2022-10-16 13:07:54 LETS FUCKING GOOOOOO
+plane-crazy 2022-10-16 13:08:57 and the elevator came to a stop
+plane-crazy 2022-10-16 13:09:24 just out of curiosity who got that reference
+plane-crazy 2022-10-16 13:10:49 how to make a good nose
+plane-crazy 2022-10-16 13:13:20 how to make a good fighter style nose and cockpit glass
+plane-crazy 2022-10-16 13:13:28 that doesnt look like a cone
+plane-crazy 2022-10-16 13:13:42 wats that
+plane-crazy 2022-10-16 13:13:55 how get there
+plane-crazy 2022-10-16 13:15:07 i hjave a pvt server
+plane-crazy 2022-10-16 13:16:00 i added you to my private server
+help 2022-10-16 17:40:03 is there a terminal velocity?
+plane-crazy 2022-10-16 19:42:22 mcdonalds douglas bitch
+plane-crazy 2022-10-16 19:42:37 wheres my inventor rank
+plane-crazy 2022-10-16 22:35:32 fucking
+plane-crazy 2022-10-16 22:35:35 
+plane-crazy 2022-10-16 22:36:14 how
+plane-crazy 2022-10-16 22:38:16 bullshit
+plane-crazy 2022-10-16 22:38:26 join m y private serveer
+plane-crazy 2022-10-16 22:38:28 show me
+plane-crazy 2022-10-16 22:38:53 join my private server nitro
+plane-crazy 2022-10-16 23:28:09 send video of it
+plane-crazy 2022-10-19 00:53:13 how to stop this thing from turning when i turn the upper half
+plane-crazy 2022-10-19 00:54:36 thank you for calling it a tank lmao
+plane-crazy 2022-10-19 00:55:25 when im only moving the top part it still moves the bottom part
+plane-crazy 2022-10-19 00:55:28 the opposite way
+plane-crazy 2022-10-19 00:55:44 oh did i forget to mention
+plane-crazy 2022-10-19 00:56:08 it makes the bottom part go the opposite way of the top part
+plane-crazy 2022-10-19 00:56:40 wait
+plane-crazy 2022-10-19 00:56:43 its because of the fucking wing panels
+plane-crazy 2022-10-19 00:57:39 problem fixed
+plane-crazy 2022-10-19 00:57:48 it was because of the useless wing panels
+plane-crazy 2022-10-19 01:13:12 idfk
+plane-crazy 2022-10-19 01:44:57 shut up blue bastard
+plane-crazy 2022-10-19 01:45:01 anyways
+plane-crazy 2022-10-19 01:45:08 how to make smoke effect on barrel
+plane-crazy 2022-10-19 01:45:09 on tank
+plane-crazy 2022-10-19 01:45:42 69k hd 1920x1080p rtx 69420 4206969 fps ultra realistic hd photorealistic smoke
+plane-crazy 2022-10-19 01:45:45 on tank
+plane-crazy 2022-10-19 01:45:47 how do to that
+plane-crazy 2022-10-19 01:45:54 for tank barrel
+plane-crazy 2022-10-19 02:13:47 yeye
+plane-crazy 2022-10-19 02:25:29 forgor*
+plane-crazy 2022-10-19 02:25:38 <a:nerd:892852797492588566>
+plane-crazy 2022-10-19 03:24:14 fuck sorry for ping
+plane-crazy 2022-10-19 23:31:15 whats the strongest material
+plane-crazy 2022-10-20 23:19:05 
+plane-crazy 2022-10-20 23:19:05 why this happening
+plane-crazy 2022-10-20 23:19:10 goofy ahh bobbing
+plane-crazy 2022-10-20 23:19:29 not the jittery bobbing
+plane-crazy 2022-10-20 23:19:35 i wanna keep that
+plane-crazy 2022-10-20 23:20:22 when i shoot the mg while rotating the top part, it starts swaying like crazy
+plane-crazy 2022-10-20 23:20:29 its not so much of an issue on the cannons as it is on the mg
+plane-crazy 2022-10-20 23:30:29 what a fucking deadass
+plane-crazy 2022-10-21 02:25:48 fuck
+plane-crazy 2022-10-21 02:51:02 
+plane-crazy 2022-10-21 02:51:03 ac69
+plane-crazy 2022-10-22 20:14:21 whats the grippiest material
+plane-crazy 2022-10-22 21:54:06 ok dont drive a tank on water
+plane-crazy 2022-10-22 21:54:33 
+plane-crazy 2022-10-23 20:23:25 why are my treads falling off
+plane-crazy 2022-10-23 20:25:54 and how do i stop that from happening
+plane-crazy 2022-10-23 20:28:02 why my tank treads falling off
+plane-crazy 2022-10-23 20:28:04 how to prevent
+plane-crazy 2022-10-23 21:50:49 this
+plane-crazy 2022-10-24 01:02:06 how make this
+plane-crazy 2022-10-24 01:02:17 i fucking want that engine exhaust thingy
+plane-crazy 2022-10-24 01:02:46 theres a  giant red circle around it
+plane-crazy 2022-10-24 01:02:48 yes
+plane-crazy 2022-10-24 01:03:11 can the do with jet engines
+plane-crazy 2022-10-24 01:04:16 i doubt thats trails
+plane-crazy 2022-10-24 01:04:18 btw
+plane-crazy 2022-10-24 01:04:28 wait nvm
+plane-crazy 2022-10-24 01:04:34 what colors do i use
+plane-crazy 2022-10-24 01:04:39 to make that
+plane-crazy 2022-10-24 01:04:51 what rgb values
+plane-crazy 2022-10-24 01:06:04 no
+plane-crazy 2022-10-24 01:06:10 that hard
+plane-crazy 2022-10-24 01:06:12 😭
+plane-crazy 2022-10-24 01:06:36 how maek it
+plane-crazy 2022-10-24 01:07:44 https://www.roblox.com/games/166986752?privateServerLinkCode=27550230307540527449691109867502
+plane-crazy 2022-10-24 01:07:46 ples show me
+plane-crazy 2022-10-24 01:08:07 i have no brain
+plane-crazy 2022-10-28 00:59:21 how do i get the accelleration powered keybind
+plane-crazy 2022-10-28 00:59:25 for like
+plane-crazy 2022-10-28 00:59:28 the smoke stuff
+plane-crazy 2022-10-28 00:59:36 instead of being on/off only
+plane-crazy 2022-10-28 00:59:39 the snow pipe
+plane-crazy 2022-10-28 01:00:10 it shows as like a blank key
+plane-crazy 2022-10-28 22:11:12 what the fuck is a vtol
+plane-crazy 2022-10-30 21:37:43 what have i created
+plane-crazy 2022-10-30 21:37:54 
+plane-crazy 2022-10-30 21:38:22 the thing spins when i press R ONLY AFTER i press f
+plane-crazy 2022-10-30 21:38:32 when i press f it rotates
+plane-crazy 2022-10-30 21:38:37 have i discovered smething new
+plane-crazy 2022-10-30 21:39:06 will i get inve-
+plane-crazy 2022-10-30 21:40:14 the motors are a little offset
+plane-crazy 2022-10-30 21:40:42 the gray parts on the motors are a little offset
+plane-crazy 2022-10-30 21:50:39 where did it go
+plane-crazy 2022-11-04 22:48:11 has anyone ever made full auto fireworks
+plane-crazy 2022-11-04 22:48:18 without an autoclicker
+help 2022-11-05 22:50:40 fix this bullshit
+help 2022-11-05 22:50:52 you know what im talking about
+plane-crazy 2022-11-08 23:54:18 IS THIS IT?
+plane-crazy 2022-11-08 23:54:26 
+plane-crazy 2022-11-08 23:56:02 bro plane crazy got updated
+plane-crazy 2022-11-08 23:56:07 but pc 2 doesnt exist
+plane-crazy 2022-11-08 23:56:12 rickje deadass ong
+plane-crazy 2022-11-08 23:56:46 fuck overwatch
+plane-crazy 2022-11-08 23:57:11 mothafucka
+plane-crazy 2022-11-08 23:58:33 rickje when pc2
+plane-crazy 2022-11-08 23:58:55 ricardo
+plane-crazy 2022-11-08 23:58:59 ricardoson
+plane-crazy 2022-11-09 00:23:37 how to make 0 gravity thingy
+plane-crazy 2022-11-09 00:23:42 without the 0 gravity gamepass
+plane-crazy 2022-11-09 00:38:04 bro just turned red right infront of me
+bot-central 2022-11-09 00:38:24 !rank red
+plane-crazy 2022-11-09 00:38:52 jej
+plane-crazy 2022-11-09 00:38:55 hahaha
+plane-crazy 2022-11-09 00:39:02 heheheheheha
+plane-crazy 2022-11-09 00:39:04 heheheha
+plane-crazy 2022-11-09 00:40:38 it has been for the past 8 and a half hours
+plane-crazy 2022-11-09 01:09:03 wheres my ivnentor role
+plane-crazy 2022-11-09 01:09:05 nerd
+plane-crazy 2022-11-09 01:09:59 do it or im gonna kick my ass
+plane-crazy 2022-11-09 02:33:00 me and barack obama blew up a walgreens around 2009 at 2:67am
+plane-crazy 2022-11-09 02:33:34 both of us were charged with 71st degree vehicular manslaughter
+plane-crazy 2022-11-09 02:33:46 0.6 counts
+plane-crazy 2022-11-09 02:34:02 hi fbi agent
+plane-crazy 2022-11-09 02:34:04 this is a joke
+plane-crazy 2022-11-09 02:34:11 this did not actually happen
+plane-crazy 2022-11-12 04:27:19 jit what this
+plane-crazy 2022-11-12 04:27:37 
+plane-crazy 2022-11-13 15:01:34 YOOOOO
+plane-crazy 2022-11-15 23:42:39 ricky
+plane-crazy 2022-11-15 23:42:41 im not kidding
+plane-crazy 2022-11-15 23:42:50 release pc2 before nato declares war on russia
+plane-crazy 2022-11-15 23:43:15 wwiii finna start in like a couple days
+plane-crazy 2022-11-18 03:17:43 oldest pc video??????
+plane-crazy 2022-11-20 02:54:40 tell me why the FUCK this RE----ED ASS PLANES CONTROLS ARE INVERTED
+plane-crazy 2022-11-20 02:55:10 im so sorry
+plane-crazy 2022-11-20 02:55:27 no
+plane-crazy 2022-11-20 02:55:28 base
+plane-crazy 2022-11-20 02:55:44 yes
+plane-crazy 2022-11-20 02:55:50 i have a joystick thingy inside the cockpit
+plane-crazy 2022-11-20 02:56:15 join
+plane-crazy 2022-11-20 02:56:17 uhhhhhh
+plane-crazy 2022-11-20 02:56:20 streaming
+plane-crazy 2022-11-20 02:56:28 wait nvm
+plane-crazy 2022-11-20 02:56:30 i dont have perms
+plane-crazy 2022-11-20 03:13:48 FIimsically
+plane-crazy 2022-11-20 19:38:38 what the fuck does vtol mean
+plane-crazy 2022-11-20 19:38:54 oh
+plane-crazy 2022-11-20 19:39:27 north korea is jsut a sattelite state compared to ruzzia
+plane-crazy 2022-11-20 19:39:45 *has flashbacks*
+plane-crazy 2022-11-23 20:08:18 has anyone ever made an lmg with an advancing belt
+plane-crazy 2022-11-24 03:17:43 fuckboy
+plane-crazy 2022-11-24 03:17:58 nonono
+plane-crazy 2022-11-24 03:18:06 
+plane-crazy 2022-11-24 03:19:06 bitch shit
+plane-crazy 2022-11-24 03:20:23 sped
+plane-crazy 2022-11-24 03:20:27 spedboy 9000
+plane-crazy 2022-11-24 15:38:15 HOW CANOPY
+plane-crazy 2022-11-24 15:38:18 HOW THE CANOPY
+plane-crazy 2022-11-24 15:38:20 HOW
+plane-crazy 2022-11-24 15:40:07 LIES
+plane-crazy 2022-11-24 15:44:17 HOW MAKE CANPYO
+plane-crazy 2022-11-24 15:45:35 <@447221768520859659>
+plane-crazy 2022-11-24 15:45:37 HOW
+plane-crazy 2022-11-24 15:45:41 MAKE CANO YP
+plane-crazy 2022-11-24 15:46:30 I WANT TO KNOW
+plane-crazy 2022-11-24 15:46:38 HOW EXACT MAKING CANOPY <@447221768520859659>
+plane-crazy 2022-11-24 15:47:37 JOIN CSLL']
+plane-crazy 2022-11-24 15:48:58 https://www.roblox.com/games/166986752?privateServerLinkCode=07470421598730102669620374331695
+plane-crazy 2022-11-24 15:54:31 
+plane-crazy 2022-11-24 16:33:41 mf what
+plane-crazy 2022-11-25 00:04:31 what does legacy do
+plane-crazy 2022-11-25 00:04:40 on rockets
+plane-crazy 2022-11-25 01:00:30 and what does "close" tracking do
+plane-crazy 2022-11-25 01:01:15 from what ive seen it just runs away from everything
+plane-crazy 2022-11-25 15:41:28 what the fuck is wrong with that
+plane-crazy 2022-11-25 15:58:16 usmelikufahded(fahded)
+plane-crazy 2022-11-26 00:02:15 <@910695311675097178>
+plane-crazy 2022-11-26 02:42:04 fuck you
+plane-crazy 2022-11-26 02:42:04 noit even one minute apart
+creations-chat 2022-11-26 16:10:04 l
+plane-crazy 2022-11-30 00:44:16 idot
+plane-crazy 2022-11-30 00:44:29 work on pc2
+plane-crazy 2022-11-30 00:44:31 weirdo
+plane-crazy 2022-11-30 00:44:35 💀
+plane-crazy 2022-11-30 00:45:47 pc3 when
+plane-crazy 2022-11-30 00:46:04 caught yo ass in 69k
+plane-crazy 2022-11-30 01:07:00 oh
+plane-crazy 2022-11-30 01:07:18 btw are snow blasters faster than small propellorsd
+plane-crazy 2022-11-30 01:07:24 both on/off
+plane-crazy 2022-11-30 14:47:52 wait fr
+plane-crazy 2022-11-30 14:50:36 🧢
+plane-crazy 2022-11-30 14:53:51 <:thedaftpedoguy5:1028046763220815922>
+plane-crazy 2022-12-01 01:22:51 just let me put it on the corner you dipshit
+plane-crazy 2022-12-01 01:23:02 be honest
+plane-crazy 2022-12-01 01:23:06 everyone wants that
+plane-crazy 2022-12-01 01:23:18 why cant trails be put on corners as well
+plane-crazy 2022-12-01 04:04:58 bros stuck in fuckin 2003 or some bullshit
+plane-crazy 2022-12-02 03:18:51 fuck you
+plane-crazy 2022-12-04 02:39:19 update gaem
+plane-crazy 2022-12-04 02:39:56 wait what the fuck kind of conversation did i just join into
+plane-crazy 2022-12-04 15:29:17 wing panels
+plane-crazy 2022-12-07 02:49:43 full vc server
+plane-crazy 2022-12-08 02:00:42 how make cone
+plane-crazy 2022-12-08 23:19:09 do
+plane-crazy 2022-12-09 02:57:00 how the fuck do i fix these dumbass wings sometimes working and sometimes not
+plane-crazy 2022-12-09 02:57:02 like
+plane-crazy 2022-12-09 02:57:38 one time i pull up fine
+plane-crazy 2022-12-09 02:57:51 the next run it takes me half a year to get off the ground
+plane-crazy 2022-12-09 02:57:57 because
+plane-crazy 2022-12-09 02:58:05 sometimes the wing panels go the same way
+plane-crazy 2022-12-09 02:58:08 sometimes they dont
+plane-crazy 2022-12-09 02:58:11 and work flawlessly
+plane-crazy 2022-12-09 02:58:19 mostly just going the same way
+plane-crazy 2022-12-09 02:58:29 and i fucking hate it with a burning motherfucking passion
+plane-crazy 2022-12-09 02:58:54 like
+plane-crazy 2022-12-09 02:59:00 ricky deadass get up and fix it
+plane-crazy 2022-12-09 02:59:10 frfr
+plane-crazy 2022-12-09 03:00:24 and with keyboard controls your accuracy sucks ass
+plane-crazy 2022-12-09 03:00:37 like
+plane-crazy 2022-12-09 03:00:40 a lot of ass
+plane-crazy 2022-12-10 18:02:17 bitch let me fucking move
+plane-crazy 2022-12-10 18:02:23 im actually sick of your shit pc
+plane-crazy 2022-12-10 18:02:40 how the fuck do i fucking switch off of WASD controlling the gui'
+plane-crazy 2022-12-10 18:03:33 bro
+plane-crazy 2022-12-10 18:03:43 im not on an xbox
+plane-crazy 2022-12-10 18:05:09 and here this motherfucker is coming on
+plane-crazy 2022-12-10 18:05:13 when it never has
+plane-crazy 2022-12-10 18:05:17 every time i launch the game
+plane-crazy 2022-12-10 18:05:53 no
+plane-crazy 2022-12-10 18:05:56 never
+plane-crazy 2022-12-10 18:05:56 it has literally
+plane-crazy 2022-12-10 18:05:57 fucking
+plane-crazy 2022-12-10 18:05:59 done this
+plane-crazy 2022-12-10 18:12:46 why the fuck did roblox think it was a good idea to mix the xbox code with fucking wasd code
+plane-crazy 2022-12-10 18:12:50 there the polar opposite things
+plane-crazy 2022-12-10 20:21:33 why is this thing going down
+plane-crazy 2022-12-10 20:21:45 and why is it bouncing when i tap e/q
+plane-crazy 2022-12-10 20:22:46 no
+plane-crazy 2022-12-10 20:22:57 its always going down
+plane-crazy 2022-12-10 20:24:01 yes
+plane-crazy 2022-12-10 20:24:12 theres a
+plane-crazy 2022-12-10 20:24:17 wait nvm
+plane-crazy 2022-12-10 20:24:37 
+plane-crazy 2022-12-10 20:24:43 i cant
+plane-crazy 2022-12-10 20:24:50 or the canopy wont work
+plane-crazy 2022-12-10 20:28:45 well now the boujncing is much fuckign worse
+plane-crazy 2022-12-10 20:28:56 and the drag is a piece of ass
+plane-crazy 2022-12-10 21:02:29 are audios fucking fixed?
+plane-crazy 2022-12-10 21:02:31 just curious
+plane-crazy 2022-12-10 21:13:32 no they apparently arent
+plane-crazy 2022-12-12 22:35:38 https://tenor.com/view/roblox-baller-roblox-baller-baller-guy-ballers-gif-26937843
+plane-crazy 2022-12-12 22:35:44 baller
+plane-crazy 2022-12-12 22:55:38 why is this dumbass thing so fucking stupid to control
+plane-crazy 2022-12-14 00:16:38 i need prototypes for a handheld gun that can fit in a dday landing craft
+plane-crazy 2022-12-14 00:16:56 that can be worn or held somehow
+plane-crazy 2022-12-14 00:17:46 and gives you full range of movement
+plane-crazy 2022-12-15 02:04:09 what the fuckj
+plane-crazy 2022-12-15 02:04:10 are
+plane-crazy 2022-12-15 02:04:12 the goddamn
+plane-crazy 2022-12-15 02:04:15 attadch points
+plane-crazy 2022-12-15 02:04:17 for sparklers
+plane-crazy 2022-12-15 02:40:08 piece of shit
+plane-crazy 2022-12-15 02:40:18 why is this bitchboy bouncing
+plane-crazy 2022-12-15 02:40:21 so
+plane-crazy 2022-12-15 02:40:23 goddamn
+plane-crazy 2022-12-15 02:40:24 much
+plane-crazy 2022-12-15 03:33:44 the bullshit
+plane-crazy 2022-12-15 03:33:47 sixty nine
+plane-crazy 2022-12-15 03:33:49 bitch
+general 2022-12-16 03:10:18 hackering
+plane-crazy 2022-12-16 03:11:02 ch1 motherfucker
+plane-crazy 2022-12-16 03:12:01 FIimsically
+plane-crazy 2022-12-16 03:12:06 the flim part is with a capital I
+plane-crazy 2022-12-16 03:12:12 im not playing pc rn tho
+plane-crazy 2022-12-16 03:12:18 im playing nico botd
+plane-crazy 2022-12-16 03:12:19 bots
+plane-crazy 2022-12-16 22:07:23 how the FUCK do i stop these dumbass sparklers from falling off
+plane-crazy 2022-12-16 22:07:32 i know that i have t use cameras
+plane-crazy 2022-12-16 22:07:40 but i covered every single one of them in cameras
+plane-crazy 2022-12-16 22:07:44 and this bitch still falling off
+plane-crazy 2022-12-16 22:17:55 how to make turret traverse
+plane-crazy 2022-12-16 23:05:39 how do i make a cool humvee body
+plane-crazy 2022-12-16 23:07:52 your bad
+plane-crazy 2022-12-16 23:08:00 <a:trollge:839055870604083210>
+plane-crazy 2022-12-16 23:08:04 <:trollge:968488162898874500>
+plane-crazy 2022-12-16 23:08:15 <:trollHD:773349849235062805>
+plane-crazy 2022-12-16 23:08:23 <:TrollFace:868879935731798016>
+plane-crazy 2022-12-16 23:08:31 https://tenor.com/view/trollge-gif-phonktrollge-phonk-trollface-troll-ge-gif-25211413
+plane-crazy 2022-12-17 00:13:59 how do i stop my suspension from bouncing in the direction im goingeven when the dampiong is at 100
+plane-crazy 2022-12-23 19:42:12 bitchboy
+plane-crazy 2022-12-23 19:43:57 make a mini explosive autocannon that can fit in the chassis of a 3 wide 3 tall 17 long fighter
+plane-crazy 2022-12-23 19:51:01 post
+plane-crazy 2022-12-23 19:51:02 fucking
+plane-crazy 2022-12-23 19:51:02 a
+plane-crazy 2022-12-23 19:51:06 link to the youtube video
+plane-crazy 2022-12-27 01:56:28 this goddamn motherfucking piece of shit
+bug-reports 2022-12-27 02:00:13 fix your fuckass motor2 you fucking piece of fucky wucky shit
+plane-crazy 2022-12-27 02:01:18 i bet if i put this bitch on a vehicle it would turn the vehicle instead of the gun
+plane-crazy 2022-12-27 02:01:40 no
+plane-crazy 2022-12-27 02:01:43 anyways
+plane-crazy 2022-12-27 02:01:52 thats how stupid motor2 is sometimes
+plane-crazy 2022-12-27 02:02:51 motorlock, guns, ladders, half blocks, cylinders
+plane-crazy 2022-12-27 02:02:53 blocks
+plane-crazy 2022-12-27 02:03:13 half wedge from wedges
+plane-crazy 2022-12-27 02:04:06 wdym
+plane-crazy 2022-12-27 02:04:50 no
+plane-crazy 2022-12-27 02:08:33 oh wait
+plane-crazy 2022-12-27 02:08:34 nvm
+plane-crazy 2022-12-27 02:08:41 im big idot
+plane-crazy 2022-12-27 02:08:58 there was a ballast block under the floor
+plane-crazy 2022-12-27 02:13:56 nvm again
+plane-crazy 2022-12-27 02:13:57 new problem
+plane-crazy 2022-12-27 02:14:34 whenever i point the gun down too much, it starts to go to go to the left
+plane-crazy 2022-12-27 02:14:55 even though im perfectly in the center of my screen
+plane-crazy 2022-12-27 03:22:06 so would it help if i put another motor to the opposite side of it?
+plane-crazy 2022-12-27 03:22:28 wait nvm that wouldnt work
+plane-crazy 2022-12-27 03:22:35 because of the ammo box
+plane-crazy 2022-12-27 03:22:39 but
+plane-crazy 2022-12-27 03:22:43 sacrafices must be made
+plane-crazy 2022-12-27 03:24:54 
+plane-crazy 2022-12-27 03:24:56 doesnt work
+plane-crazy 2022-12-27 03:32:37 wtf
+plane-crazy 2022-12-27 03:32:42 is that
+plane-crazy 2022-12-27 03:33:27 anti gravity
+plane-crazy 2022-12-27 03:33:47 yeah the ones that those flying anti grav turrets use without 0 gravity?
+plane-crazy 2022-12-27 03:33:50 yeah those
+plane-crazy 2022-12-27 03:33:53 those annoying ones
+plane-crazy 2022-12-27 03:34:47 fuck the turret, i just want something that goes where i point
+plane-crazy 2022-12-27 03:35:02 and that stays mid air unless i point it down
+plane-crazy 2022-12-27 03:36:23 kind of like brikzays gyroscope
+plane-crazy 2022-12-27 03:36:32 actually i want exactly what he did
+plane-crazy 2022-12-27 03:38:22 I WANT THE ANTI GRAVITY BLACK MAGIC FUCKERY
+plane-crazy 2022-12-27 03:39:08 holy shit
+plane-crazy 2022-12-27 03:39:10 like
+plane-crazy 2022-12-27 03:39:15 a shredder ball
+plane-crazy 2022-12-27 03:39:16 but
+plane-crazy 2022-12-27 03:39:18 less ugly
+plane-crazy 2022-12-27 03:39:26 i want it to move like a shredder ball
+plane-crazy 2022-12-27 03:39:57 that doesnt bounce at all
+plane-crazy 2022-12-27 03:40:18 idk
+plane-crazy 2022-12-27 03:40:21 thought it would be cool
+plane-crazy 2022-12-27 03:41:18 i want an actual anti gravity aircraft that doesnt bounce and stays in mid air unless i point my mouse at the ground
+plane-crazy 2022-12-27 03:41:22 no turret
+plane-crazy 2022-12-27 03:41:26 no guns
+plane-crazy 2022-12-27 03:41:33 just
+plane-crazy 2022-12-27 03:42:17 https://www.youtube.com/watch?v=NlPNwTgHej0
+plane-crazy 2022-12-27 03:42:30 this black magic  fuckery
+plane-crazy 2022-12-27 03:43:14 go to 1:14
+plane-crazy 2022-12-27 03:43:21 i want something like that
+plane-crazy 2022-12-27 03:44:56 but h o w
+plane-crazy 2022-12-27 03:45:43 all i know is:
+plane-crazy 2022-12-27 03:45:53 ice trapdoor = not heavy at all
+plane-crazy 2022-12-27 04:44:22 the testiculus ballus
+plane-crazy 2022-12-27 18:43:11 i need that anti gravity fuckery
+plane-crazy 2022-12-27 18:43:30 no
+plane-crazy 2022-12-27 18:43:34 like
+plane-crazy 2022-12-27 18:43:40 an actual vehicle
+plane-crazy 2022-12-27 18:43:48 that moves however the hell i want it to
+plane-crazy 2022-12-27 18:43:58 like
+plane-crazy 2022-12-27 18:44:02 a 100% stable shredder ball
+plane-crazy 2022-12-27 18:44:07 but without the cutter parts
+plane-crazy 2022-12-27 21:01:01 stupid bitch
+bug-reports 2022-12-27 21:01:26 https://media.discordapp.net/attachments/1043755661739171860/1052733668382216343/Image.gif
+bug-reports 2022-12-27 21:01:38 https://media.discordapp.net/attachments/756714063437889616/916979819936378920/image0-3.gif
+plane-crazy 2022-12-28 04:27:22 https://media.discordapp.net/attachments/1043755661739171860/1052733668382216343/Image.gif
+plane-crazy 2022-12-28 05:14:10 https://tenor.com/view/saul-goodman-better-call-saul-saul-goodman3d-meme-breaking-bad-gif-24027228
+plane-crazy 2022-12-28 05:14:25 stfu blue bastard
+plane-crazy 2022-12-28 05:14:33 caught your ass in 4k
+plane-crazy 2022-12-28 19:47:28 attack-circumcised 130
+plane-crazy 2022-12-29 00:13:05 i want to know how to quantum tunnel
+plane-crazy 2022-12-29 00:16:51 how do i go through the ground
+plane-crazy 2022-12-29 00:16:55 with a plane
+plane-crazy 2022-12-29 00:16:58 in plane crazy
+plane-crazy 2022-12-29 04:43:11 
+plane-crazy 2022-12-29 04:43:27 e housee
+plane-crazy 2022-12-29 04:43:30 house man
+plane-crazy 2022-12-29 05:14:57 
+plane-crazy 2022-12-29 05:14:57 https://tenor.com/view/can-we-ban-this-guy-gif-21304842
+plane-crazy 2022-12-29 05:56:21 this motherfucker
+plane-crazy 2022-12-29 05:56:23 wont work
+plane-crazy 2022-12-29 05:56:41 even with ballast blocks
+plane-crazy 2022-12-29 05:56:44 unconnected
+plane-crazy 2022-12-29 05:57:21 the other side of the motor turns the ballast
+plane-crazy 2022-12-29 05:58:23 ok im just gonna remove the spinning part
+plane-crazy 2022-12-29 05:58:24 im done
+plane-crazy 2022-12-29 05:58:26 its 3am
+plane-crazy 2022-12-29 05:58:30 i  wanna fucking die
+plane-crazy 2022-12-29 06:06:00 fuck you
+plane-crazy 2022-12-29 19:15:19 your fucked buddy
+plane-crazy 2022-12-29 19:15:23 💀💀
+plane-crazy 2022-12-29 19:15:37 you done fucked the fuck up
+plane-crazy 2022-12-29 19:15:51 YES
+plane-crazy 2022-12-29 19:15:52 YOU IDIOT
+plane-crazy 2022-12-29 19:16:23 sock man
+plane-crazy 2022-12-29 19:16:29 its
+plane-crazy 2022-12-29 19:16:30 common
+plane-crazy 2022-12-29 19:16:33 sense
+plane-crazy 2022-12-29 19:16:33 fucking
+plane-crazy 2022-12-29 19:16:33 mother
+plane-crazy 2022-12-29 19:16:54 <@885774611424358410>
+plane-crazy 2022-12-29 19:17:17 he pinged mad twice
+plane-crazy 2022-12-29 19:17:33 no
+plane-crazy 2022-12-29 19:18:35 HES THE FUCKING CREATOR DUMBASS
+plane-crazy 2022-12-29 19:18:42 pban him
+plane-crazy 2022-12-29 19:18:54 JUST BAN HIM
+plane-crazy 2022-12-29 19:18:58 DONT EVEN MUTE HIM
+plane-crazy 2022-12-29 19:19:09 hes being a bitch
+plane-crazy 2022-12-29 19:19:35 aftersock died of cringe
+plane-crazy 2022-12-29 19:19:38 💀 😭
+plane-crazy 2022-12-29 19:20:07 anyways
+plane-crazy 2022-12-29 19:20:10 i need a design
+plane-crazy 2022-12-29 19:20:11 for uhhhhh
+plane-crazy 2022-12-29 19:20:16 sick ass anti gravity
+plane-crazy 2022-12-29 19:20:53 also can you update my name
+plane-crazy 2022-12-29 19:21:07 
+plane-crazy 2022-12-29 19:21:17 
+plane-crazy 2022-12-29 21:12:21 3 down, 7 more to go...
+plane-crazy 2022-12-29 21:12:31 cramming 10 guns into a single block
+plane-crazy 2022-12-29 21:21:01 4
+plane-crazy 2022-12-29 21:38:44 i cant get 5 in one block no matter what i do
+plane-crazy 2022-12-29 21:38:52 and its fucking annoying
+plane-crazy 2022-12-29 21:40:19 this is why motorlock is gay
+plane-crazy 2022-12-29 21:41:52 
+plane-crazy 2022-12-29 21:41:53 6 dont work
+plane-crazy 2022-12-29 21:41:55 smartass
+plane-crazy 2022-12-29 23:18:21 
+plane-crazy 2022-12-29 23:18:29 
+plane-crazy 2022-12-29 23:18:41 no
+plane-crazy 2022-12-29 23:18:43 anyways
+plane-crazy 2022-12-29 23:18:46 ban this fucking bitch
+plane-crazy 2022-12-30 18:36:33 one of you guys should make an explosive autocannon
+plane-crazy 2022-12-30 18:36:41 that is compacted to the fullest extent
+plane-crazy 2022-12-30 19:00:36 bitch boy boy the damn Fuck
+plane-crazy 2022-12-30 20:45:53 the stupid Yes the XDDDS
+plane-crazy 2022-12-31 16:52:12 
+plane-crazy 2022-12-31 17:09:34 THIS
+plane-crazy 2022-12-31 17:09:36 MOTHERFUCKER
+plane-crazy 2022-12-31 17:09:37 
+plane-crazy 2022-12-31 17:11:52 also can someone give me tips on decorating
+plane-crazy 2022-12-31 17:13:44 
+plane-crazy 2022-12-31 17:13:47 so this is ugly
+plane-crazy 2022-12-31 17:14:09 no
+plane-crazy 2022-12-31 17:14:14 undeground bunker
+plane-crazy 2022-12-31 17:14:23 ignore my avatar
+plane-crazy 2022-12-31 17:14:24 xd
+plane-crazy 2022-12-31 17:14:42 based
+plane-crazy 2022-12-31 17:15:11 hanger
+plane-crazy 2022-12-31 17:15:17 i just saw that
+plane-crazy 2022-12-31 17:15:20 lmao
+plane-crazy 2022-12-31 17:15:55 the underground part only works best if your the second closest plot to the rails
+plane-crazy 2022-12-31 17:16:35 
+plane-crazy 2022-12-31 17:16:44 
+plane-crazy 2022-12-31 17:16:46 ignore my avatar
+plane-crazy 2022-12-31 17:17:32 <:thedaftpedoguy5:1028046763220815922>
+plane-crazy 2022-12-31 17:18:17 anyways uhhh theres no way to get in or out after its underground
+plane-crazy 2022-12-31 17:18:27 and its also a huge gamble because if you like
+plane-crazy 2022-12-31 17:18:31 dont uhhhhhh
+plane-crazy 2022-12-31 17:18:39 get the second closest plot to the rails
+plane-crazy 2022-12-31 17:18:55 then it wont work properly
+plane-crazy 2022-12-31 17:20:26 xd
+plane-crazy 2022-12-31 17:20:26 wait if thats actually real im gonna cry
+plane-crazy 2022-12-31 17:20:55 ohio
+plane-crazy 2022-12-31 17:21:01 i bet its in ohio
+plane-crazy 2022-12-31 17:21:02 i bet
+plane-crazy 2022-12-31 17:21:06 69k robux that i dont hae
+plane-crazy 2022-12-31 17:21:07 that
+plane-crazy 2022-12-31 17:21:09 its in ohio
+plane-crazy 2022-12-31 17:21:54 
+plane-crazy 2022-12-31 17:22:04 so i kinda like the hotplate thingy
+plane-crazy 2022-12-31 17:22:18 but i made the oven with a cutter xd
+plane-crazy 2022-12-31 17:22:30 and just stuck a light block under it
+plane-crazy 2022-12-31 17:22:34 which doesnt work very well
+plane-crazy 2022-12-31 17:23:02 search up shredder tutorial
+plane-crazy 2022-12-31 17:24:19 nine fox tails
+plane-crazy 2022-12-31 17:24:52 what are your opinions on this
+plane-crazy 2022-12-31 17:25:20 no
+plane-crazy 2022-12-31 17:25:21 no
+plane-crazy 2022-12-31 17:25:24 the other one
+plane-crazy 2022-12-31 17:25:58 '
+plane-crazy 2022-12-31 17:26:00 thoughts on this
+plane-crazy 2022-12-31 17:26:15 its a hotplate
+plane-crazy 2022-12-31 17:26:16 stove
+plane-crazy 2022-12-31 17:26:17 thing
+plane-crazy 2022-12-31 17:26:31 wait what material should i use for the floor
+plane-crazy 2022-12-31 17:26:34 and what color
+plane-crazy 2022-12-31 17:26:46 besides fabric
+plane-crazy 2022-12-31 17:27:35 not
+plane-crazy 2022-12-31 17:27:35 thats
+plane-crazy 2022-12-31 17:27:36 a
+plane-crazy 2022-12-31 17:27:38 fucking
+plane-crazy 2022-12-31 17:27:39 material
+plane-crazy 2022-12-31 17:30:32 i just realized i used beams and it looks like shit
+plane-crazy 2022-12-31 17:32:38 what do i use for the-
+plane-crazy 2022-12-31 17:32:41 ok
+plane-crazy 2022-12-31 17:32:47 are you like
+plane-crazy 2022-12-31 17:32:49 behind me
+plane-crazy 2022-12-31 17:32:52 shit
+plane-crazy 2022-12-31 17:33:37 wait what else is behind me
+plane-crazy 2022-12-31 17:33:45 whats behind my green screen
+plane-crazy 2022-12-31 17:35:40 anyways
+plane-crazy 2022-12-31 17:35:57 rooms
+plane-crazy 2022-12-31 17:36:05 where do i put them
+plane-crazy 2022-12-31 17:39:20 fuck boy
+plane-crazy 2022-12-31 17:39:56 ^
+plane-crazy 2022-12-31 17:40:56 the Shit shit Shit ball left Handed module Yes ahh the Do of a FuckFUCK FUCK
+plane-crazy 2022-12-31 17:41:18 my dog ate my invisalign
+plane-crazy 2022-12-31 17:41:28 and now i have to live with crooked teeth for 3 days
+plane-crazy 2022-12-31 17:41:34 they were getting so good
+plane-crazy 2022-12-31 17:41:57 and here this re----- dog comes along and eats them
+plane-crazy 2022-12-31 17:42:49 they start going crooked after like
+plane-crazy 2022-12-31 17:42:53 half a fucking hour
+plane-crazy 2022-12-31 17:43:31 how do i make a tv
+plane-crazy 2022-12-31 17:43:32 in
+plane-crazy 2022-12-31 17:43:34 plane crazy
+plane-crazy 2023-01-08 03:08:15 anyone got a good wwii decal or can make a good looking wwii decal like this?
+plane-crazy 2023-01-08 03:10:32 anyone have a decal like this
+plane-crazy 2023-01-08 03:10:36 like for signs
+plane-crazy 2023-01-08 03:10:39 /hmmm
+plane-crazy 2023-01-08 03:11:10 its probably fucking censored
+plane-crazy 2023-01-08 03:13:04 no like
+plane-crazy 2023-01-08 03:13:05 i want
+plane-crazy 2023-01-08 03:13:09 the entire thing
+plane-crazy 2023-01-08 03:13:13 the entire tail decal
+plane-crazy 2023-01-08 03:23:49 BITCH THERE AINT NO STAR UNICODE CHARACTERS
+plane-crazy 2023-01-08 20:44:23 i need decals for b17
+plane-crazy 2023-01-08 20:44:25 right now
+plane-crazy 2023-01-08 20:44:28 or im gonna
+plane-crazy 2023-01-08 20:44:34 gonna going to going
+plane-crazy 2023-01-08 20:44:43 yeah
+plane-crazy 2023-01-08 20:44:46 so you better get to it
+plane-crazy 2023-01-08 20:44:53 nah
+plane-crazy 2023-01-08 20:44:55 tail
+plane-crazy 2023-01-08 20:45:42 
+plane-crazy 2023-01-08 20:51:38 i mainly want the star symbol on it
+plane-crazy 2023-01-08 20:52:04 the star and the rectangles
+plane-crazy 2023-01-08 20:52:45 but none of them work
+plane-crazy 2023-01-08 20:53:05 they all have the annoying bitchass motherfucking square with an x in the middle
+plane-crazy 2023-01-08 20:55:44 like i actually mean none
+plane-crazy 2023-01-08 20:57:08 i dont see the usaf symbol
+plane-crazy 2023-01-08 20:57:44 
+plane-crazy 2023-01-08 20:57:46 what the fuck is that
+plane-crazy 2023-01-08 20:57:52 why dont mine work
+plane-crazy 2023-01-08 20:57:53 wtf
+plane-crazy 2023-01-08 20:58:03 this is bitch bitch
+plane-crazy 2023-01-08 20:58:25 WHY IS IT VISIBLE IN THE VIDEO
+plane-crazy 2023-01-08 20:58:31 I KNEW IT
+plane-crazy 2023-01-08 20:58:38 VULPEN IS A HAKE R!!!1!1!!!onE
+bug-reports 2023-01-08 20:59:02 signs.
+texts.
+plane-crazy 2023-01-08 20:59:23 bruh what
+plane-crazy 2023-01-08 20:59:39 its not tagged
+plane-crazy 2023-01-08 20:59:40 its just
+plane-crazy 2023-01-08 20:59:42 an invalid character
+plane-crazy 2023-01-08 20:59:45 because
+plane-crazy 2023-01-08 20:59:51 rroblox is fuking stupid
+plane-crazy 2023-01-08 21:01:02 copy the chjaracter heres
+plane-crazy 2023-01-08 21:01:05 i donrbelv eoyu
+plane-crazy 2023-01-08 21:01:35 is there a filled in version
+plane-crazy 2023-01-08 21:01:36 thats circled
+plane-crazy 2023-01-08 21:03:29 032 is fucking invisible......
+plane-crazy 2023-01-08 21:05:04 ⍟
+plane-crazy 2023-01-08 21:05:06 this one
+plane-crazy 2023-01-08 21:05:07 doesnt work
+plane-crazy 2023-01-08 21:05:18 and i want to fucking cry
+plane-crazy 2023-01-08 21:06:27 FUCKER!!!!!!!!!
+plane-crazy 2023-01-08 21:07:18 thats the same thing
+plane-crazy 2023-01-08 21:07:36 
+plane-crazy 2023-01-08 21:07:41 stupid motherfucking roblox
+plane-crazy 2023-01-08 21:08:19 THATS STUPID
+plane-crazy 2023-01-08 21:08:26 no
+plane-crazy 2023-01-08 21:08:27 thats lame
+plane-crazy 2023-01-08 21:08:28 as fuck
+plane-crazy 2023-01-08 21:08:34 and very very based
+plane-crazy 2023-01-08 21:10:48 but how do i motorlock texts
+plane-crazy 2023-01-08 21:10:56 they have the goofiest fucking attach points
+plane-crazy 2023-01-08 21:11:55 thats stupid
+plane-crazy 2023-01-08 21:13:44 ⭘
+plane-crazy 2023-01-08 21:13:45 that
+plane-crazy 2023-01-08 21:13:47 doesnt work
+plane-crazy 2023-01-08 21:13:48 this bitch
+plane-crazy 2023-01-08 21:13:56 ball ball business on the Business fuck Fuck fuck
+plane-crazy 2023-01-08 21:14:22 ok found one
+plane-crazy 2023-01-08 21:14:23 ◯
+plane-crazy 2023-01-08 21:14:30 now
+plane-crazy 2023-01-08 21:14:35 how do i do that
+plane-crazy 2023-01-08 21:15:02 im not gonna make a giant ass uneven motorlock tower that will fuck my build up
+plane-crazy 2023-01-08 21:22:30 pc2 wont exist
+plane-crazy 2023-01-08 21:23:08 that usually means they add one part like 50 light years away and call it an update
+plane-crazy 2023-01-08 21:23:41 yes
+plane-crazy 2023-01-08 21:26:28 im past that
+plane-crazy 2023-01-08 21:26:34 how do i motorlock thos thing
+plane-crazy 2023-01-08 21:27:15 
+plane-crazy 2023-01-08 21:27:17 ignore my avatar
+plane-crazy 2023-01-08 21:27:35 its a 3 wide plane
+plane-crazy 2023-01-08 21:27:53 wdym by do it twice
+plane-crazy 2023-01-08 21:28:46 above what
+plane-crazy 2023-01-08 21:29:23 so on top of the wing panel
+plane-crazy 2023-01-08 21:30:56 in between wha
+plane-crazy 2023-01-08 21:30:57 t
+plane-crazy 2023-01-08 22:11:03 who gave this bitch image perms
+plane-crazy 2023-01-08 23:33:58 shut up blue bastard
+plane-crazy 2023-01-08 23:33:59 anyways
+plane-crazy 2023-01-08 23:34:09 WUT DA FUK DID YOU JUST LEAK
+plane-crazy 2023-01-08 23:36:42 igotblackigotwhitewhatyouwanthopoutsideaghostandhopupinaphantomiknowimabouttoblowiaintdumbtheytrytotakemyflowitaketheirassforransom
+plane-crazy 2023-01-08 23:36:57 L
+plane-crazy 2023-01-08 23:36:57 L
+plane-crazy 2023-01-08 23:36:58 L
+plane-crazy 2023-01-08 23:37:02 get off discord nerdddddddd
+plane-crazy 2023-01-08 23:37:37 l bozo + no id + no bitches
+plane-crazy 2023-01-08 23:37:54 the signs and texts have the filter of >0.69
+plane-crazy 2023-01-08 23:38:44 
+plane-crazy 2023-01-08 23:38:46 l bozo still
+plane-crazy 2023-01-08 23:38:47 nerd
+plane-crazy 2023-01-08 23:39:12 build another plane
+plane-crazy 2023-01-08 23:39:45 im gonna get a leak'
+plane-crazy 2023-01-08 23:39:52 dont be so fucky wucky
+plane-crazy 2023-01-08 23:40:20 im going to going Going go went have have THAT Fuck fuck Fuck?*
+plane-crazy 2023-01-08 23:40:24 if you do not
+plane-crazy 2023-01-08 23:40:26 comply
+plane-crazy 2023-01-08 23:41:58 im gonna acquire it
+plane-crazy 2023-01-08 23:42:05 if you acquire acquisition me Have
+plane-crazy 2023-01-09 01:47:44 im gonna fucking die of fucking aids if this fucking bullshit doesnt fucking get fucking fixed
+plane-crazy 2023-01-09 01:48:47 the letter
+plane-crazy 2023-01-09 01:48:48 L
+plane-crazy 2023-01-09 01:48:57 is
+plane-crazy 2023-01-09 01:48:58 censored
+plane-crazy 2023-01-09 01:50:26 to
+plane-crazy 2023-01-09 01:50:26 i swear
+plane-crazy 2023-01-09 01:50:27 fuck
+plane-crazy 2023-01-09 01:50:30 fix this
+plane-crazy 2023-01-09 01:50:33 right the fuck now
+plane-crazy 2023-01-09 18:46:29 bro
+plane-crazy 2023-01-09 18:46:32 i type something
+plane-crazy 2023-01-09 18:46:33 on a sign
+plane-crazy 2023-01-09 18:46:34 it works
+plane-crazy 2023-01-09 18:46:46 but then i get disconnected for being idle too long
+plane-crazy 2023-01-09 18:46:47 or leave
+plane-crazy 2023-01-09 18:46:58 then this motherfucking sign
+plane-crazy 2023-01-09 18:46:59 just
+plane-crazy 2023-01-09 18:47:01 fucking
+plane-crazy 2023-01-09 18:47:03 tags itself
+plane-crazy 2023-01-09 18:47:11 even though =★= wasnt tagged before
+plane-crazy 2023-01-09 18:47:26 FIX YOUR [hard R] SIGNS GOD DAMMIT
+plane-crazy 2023-01-09 18:48:10 I KNOW THE SIGNS HAVE SAFE CHAT
+plane-crazy 2023-01-09 18:48:27 ITS NOT THAT HARD
+plane-crazy 2023-01-09 18:48:29 TO FIX
+plane-crazy 2023-01-09 18:48:46 please dont call me mom
+plane-crazy 2023-01-09 18:48:47 xd
+plane-crazy 2023-01-09 18:48:51 call me flim
+plane-crazy 2023-01-09 18:49:14 i dont wanna ping any of the devs
+plane-crazy 2023-01-09 18:49:19 because ill probably get my ass kicked
+plane-crazy 2023-01-09 18:49:22 <:amsmiles:725046901174567103>
+plane-crazy 2023-01-09 18:49:56 i could probably disable safe chat on these stupid signs
+plane-crazy 2023-01-09 18:50:34 i cant type motherfucking
+plane-crazy 2023-01-09 18:50:35 letters
+plane-crazy 2023-01-09 18:54:28 vp is still censored
+plane-crazy 2023-01-09 18:55:38 i bet roblox thinks it stands for (female v word) (female p word)
+plane-crazy 2023-01-09 18:55:47 i legit think thats what they fucking think
+plane-crazy 2023-01-09 19:10:26 i need
+plane-crazy 2023-01-09 19:10:27 b17 sounds
+plane-crazy 2023-01-09 19:10:30 propellor
+plane-crazy 2023-01-09 19:14:53 theres no sounds for fighter jet
+plane-crazy 2023-01-09 19:14:54 
+plane-crazy 2023-01-09 19:14:57 stupid bitch
+plane-crazy 2023-01-09 19:15:04 how fucking bitch is roblox
+plane-crazy 2023-01-09 19:15:11 IT DONT WOPRK LIKE THAT
+plane-crazy 2023-01-09 19:15:12 JUD
+plane-crazy 2023-01-09 19:15:14 KID
+plane-crazy 2023-01-09 19:15:27 YOU CANT MAKE AUDIOS ANYMORE
+plane-crazy 2023-01-09 19:16:22 they
+plane-crazy 2023-01-09 19:16:22 well
+plane-crazy 2023-01-09 19:16:24 dont work
+plane-crazy 2023-01-09 19:17:01 shut up blue boy
+plane-crazy 2023-01-09 19:17:04 anyways
+plane-crazy 2023-01-09 19:17:12 go make a b17 engine audio
+plane-crazy 2023-01-09 19:17:13 right now
+plane-crazy 2023-01-09 19:19:31 🧠 👈 use this
+plane-crazy 2023-01-09 19:22:12 B17 ENGINE
+plane-crazy 2023-01-09 19:22:15 PROPELLOR
+plane-crazy 2023-01-09 19:23:00 
+plane-crazy 2023-01-09 19:23:36 i already am
+plane-crazy 2023-01-09 19:23:43 it dont sound like it
+plane-crazy 2023-01-09 21:49:22 bitch fuck Fuck
+plane-crazy 2023-01-09 22:03:39 The hell fucking Shut up business on the business Mother fuck fuck Fuck? definitely of retributor grand
+plane-crazy 2023-01-09 22:05:53 
+plane-crazy 2023-01-09 22:06:01 stupid bitch bitch mother ball boll
+plane-crazy 2023-01-09 22:06:05 fucker
+plane-crazy 2023-01-10 00:37:02 /XD
+plane-crazy 2023-01-10 00:37:02 LOL I DIDNT REALIZE THAT THE TEXT WASNT DONE LOADING
+plane-crazy 2023-01-10 01:11:28 whats the rgb code for the sky color
+plane-crazy 2023-01-10 01:12:01 kthx
+plane-crazy 2023-01-10 01:16:06 what about the water
+plane-crazy 2023-01-10 01:16:11 for foil
+plane-crazy 2023-01-10 01:16:13 wait nvm
+plane-crazy 2023-01-10 23:55:48 <:baller:1058844829930508388>
+plane-crazy 2023-01-21 01:51:36 ac130 motherfucker
+plane-crazy 2023-01-21 01:51:45 give this guy expert designer
+plane-crazy 2023-01-21 03:05:23 SHUT THE FUCK UP BLUE BITCH
+plane-crazy 2023-01-21 03:05:26 anyways
+plane-crazy 2023-01-21 03:05:35 mmm actually its called turkiye now 🤓🤓
+plane-crazy 2023-01-21 17:05:47 this fucking bitchass fucking piece of motherfucking fucking shit
+plane-crazy 2023-01-21 18:07:08 bing chilling guys we are bing chillers
+plane-crazy 2023-01-21 18:07:12 who else agree the
+plane-crazy 2023-01-21 18:07:21 who else is
+plane-crazy 2023-01-21 18:07:22 bing
+plane-crazy 2023-01-21 18:07:23 chilling
+plane-crazy 2023-01-21 18:07:25 right now
+plane-crazy 2023-01-21 18:07:47 also is it just me or does my roblox take longer to load
+plane-crazy 2023-01-21 18:07:51 like way fucking longer
+plane-crazy 2023-01-21 18:59:28 wwiii
+plane-crazy 2023-01-23 00:20:01 
+plane-crazy 2023-01-23 00:20:11 
+plane-crazy 2023-01-23 00:35:08 my plane is almost indestructible
+plane-crazy 2023-01-23 00:42:28 fucking maniac
+plane-crazy 2023-01-23 02:39:32 i just fucking shit inside a cicada
+plane-crazy 2023-01-23 02:41:01 https://tenor.com/view/roblox-baller-roblox-baller-baller-guy-ballers-gif-26937843
+the-dump 2023-01-28 20:20:09 balls
+the-dump 2023-01-28 20:21:48 balls 2
+the-dump 2023-01-28 20:23:22 XDDDS what fuck
+the-dump 2023-01-28 23:16:32 what the fuck did you just make me watch
+the-dump 2023-01-28 23:23:42 whats the originakl video you sick fuck
+the-dump 2023-01-28 23:23:44 bitch balls
+the-dump 2023-01-28 23:45:36 thats well edited
+plane-crazy 2023-01-29 03:31:36 fuck what xddds
+plane-crazy 2023-01-29 03:31:50 octobing
+plane-crazy 2023-01-29 03:32:07 hahaha
+plane-crazy 2023-01-29 03:32:11 haHAZhSagrvf
+plane-crazy 2023-01-29 03:48:00 f1 ferrari
+plane-crazy 2023-01-29 03:48:09 
+general 2023-01-29 03:48:56 post this in another server and tell them to post back
+general 2023-01-29 04:10:08 2 and a half ball
+general 2023-01-29 04:11:03 stop sexting midget boy
+general 2023-01-29 04:11:14 its NOT fair
+general 2023-01-29 04:11:16 😭
+the-dump 2023-01-29 04:23:17 
+the-dump 2023-01-29 04:24:09 
+the-dump 2023-01-29 05:07:35 
+the-dump 2023-01-29 05:07:37 
+the-dump 2023-01-29 05:07:52 bichard rlevins
+the-dump 2023-01-30 02:21:04 
+the-dump 2023-01-30 03:05:15 ass
+the-dump 2023-01-30 03:05:23 ass and balls
+the-dump 2023-01-30 03:05:26 balls and ass
+the-dump 2023-01-30 03:05:29 together they make
+the-dump 2023-01-30 03:05:33 BAABAA
+the-dump 2023-01-30 03:09:52 
+the-dump 2023-01-30 03:09:53 SPED BOY 9000 HAHAHAHA
+the-dump 2023-01-30 03:33:46 laser microwave oven
+the-dump 2023-01-30 03:33:51 styro man of pyrotechnical
+the-dump 2023-01-30 03:33:56 you cant fool me
+the-dump 2023-01-30 03:34:12 
+the-dump 2023-01-31 00:27:43 
+plane-crazy 2023-01-31 00:27:47 xddd what fuck
+plane-crazy 2023-01-31 03:28:57 vuck
+plane-crazy 2023-01-31 03:28:58 fuck
+plane-crazy 2023-01-31 03:29:02 you didnt see anything
+plane-crazy 2023-01-31 03:45:28 i was a sea man collector in the united states american of the navy
+plane-crazy 2023-01-31 04:03:52 nft stealing time
+plane-crazy 2023-01-31 04:03:55 bitch bitch
+plane-crazy 2023-01-31 04:30:40 balls balls balls balls part 6.7
+the-dump 2023-01-31 17:12:32 so f and g can be literally any positive number
+plane-crazy 2023-01-31 17:14:35 i dont give a FUCK if this is the wrong channel
+plane-crazy 2023-01-31 17:15:35 the motherfucking
+the-dump 2023-01-31 17:17:21 
+the-dump 2023-01-31 17:18:40 wat
+the-dump 2023-01-31 17:20:16 yes
+the-dump 2023-01-31 17:20:55 whats v
+the-dump 2023-01-31 17:21:07 oh
+the-dump 2023-01-31 17:21:15 thx
+the-dump 2023-01-31 17:29:35 
+the-dump 2023-01-31 17:29:46 i guess the variables can be any positive number
+the-dump 2023-01-31 17:31:53 
+the-dump 2023-01-31 17:32:17 i got it wrong loop
+the-dump 2023-01-31 17:32:35 
+the-dump 2023-01-31 17:35:08 
+the-dump 2023-01-31 17:37:05 its simplifying radicals
+the-dump 2023-01-31 17:37:11 with variables
+the-dump 2023-01-31 17:37:20 aka whatever the fuck thois is
+the-dump 2023-01-31 17:37:39 my parents are holding me hostage until i do my work
+the-dump 2023-01-31 17:39:25 
+the-dump 2023-01-31 17:40:53 
+the-dump 2023-01-31 17:42:20 oof
+the-dump 2023-01-31 17:42:22 its fine
+the-dump 2023-01-31 17:42:26 i only lost 2 points
+the-dump 2023-01-31 17:42:34 
+the-dump 2023-01-31 17:44:28 shut up dont question it
+the-dump 2023-01-31 17:44:57 yes
+the-dump 2023-01-31 17:45:02 its math
+the-dump 2023-01-31 17:45:24 <:trollface:814329332104560671>
+the-dump 2023-01-31 17:45:58 
+the-dump 2023-01-31 17:48:47 heres a symbol for fast things purposes
+the-dump 2023-01-31 17:49:29 ⁰¹²³⁴⁵⁶⁷⁸⁹
+the-dump 2023-01-31 17:49:42 •
+the-dump 2023-01-31 17:49:45 √
+the-dump 2023-01-31 18:03:48 A BULLSHIT
+plane-crazy 2023-01-31 18:04:04 i didnt pay attention
+plane-crazy 2023-01-31 18:04:09 who tf does that
+plane-crazy 2023-01-31 18:04:13 nanananana
+plane-crazy 2023-01-31 18:04:16 i was -
+plane-crazy 2023-01-31 18:04:21 im already done with that
+plane-crazy 2023-01-31 18:05:48 shut yo ass up
+plane-crazy 2023-01-31 18:06:01 sweaty
+plane-crazy 2023-01-31 18:06:03 sweaty
+plane-crazy 2023-01-31 18:06:21 thats obvious
+plane-crazy 2023-01-31 18:06:22 xd
+plane-crazy 2023-01-31 18:06:38 pothagerum
+plane-crazy 2023-01-31 18:06:40 xd
+plane-crazy 2023-01-31 18:06:56 bro isnt a sophomore in highschool
+plane-crazy 2023-01-31 18:06:59 imagine
+plane-crazy 2023-01-31 18:07:26 <:laughingatu:1019969951609667584>
+the-dump 2023-01-31 18:10:33 blend
+creations-chat 2023-01-31 19:36:24 it is not low effort
+i made the line thingies on the cockpits on the really cool fighters that those people make
+creations-chat 2023-01-31 19:45:58 fuck off
+the-dump 2023-02-01 05:59:04 taiwan is a country 🤩🥶
+the-dump 2023-02-01 05:59:16 YESSSSSSSS
+the-dump 2023-02-01 05:59:22 SOMEBODY FOUND IT
+the-dump 2023-02-01 05:59:59 https://tenor.com/view/roblox-baller-roblox-baller-baller-guy-ballers-gif-26937843
+plane-crazy 2023-02-01 17:48:00 ATTENTION ALL:
+it hjas been revealed that pc2 is NOT COMING!
+plane-crazy 2023-02-01 20:15:00 the balls and asses ball xddds what fuck?
+plane-crazy 2023-02-01 22:51:25 balls and ball
+plane-crazy 2023-02-02 16:35:08 assy and gassy
+plane-crazy 2023-02-02 16:35:13 🤓
+plane-crazy 2023-02-02 16:35:25 https://tenor.com/view/mrbeast-mr-beast-gif-25629645
+plane-crazy 2023-02-02 16:35:47 fishing rod
+plane-crazy 2023-02-02 16:35:53 https://tenor.com/view/submissive-and-breedable-you-look-gif-22637855
+plane-crazy 2023-02-02 16:36:15 https://tenor.com/view/voksy-girl-furry-fursuit-costume-gif-24186981
+plane-crazy 2023-02-02 16:36:36 fuck
+plane-crazy 2023-02-02 16:36:42 https://tenor.com/view/when-the-imposter-is-thick-when-the-imposter-is-among-us-among-sus-among-drip-gif-19860632
+plane-crazy 2023-02-02 16:37:08 https://tenor.com/view/lawsuit-threats-gif-24711704
+plane-crazy 2023-02-02 16:37:28 https://tenor.com/view/get-real-get-fake-meme-airplane-when-the-gif-20448665
+plane-crazy 2023-02-02 16:37:57 https://tenor.com/view/caught-in-sussy4k-omgomg-gif-21922925
+plane-crazy 2023-02-02 16:39:23 https://media.discordapp.net/attachments/756714063437889616/916979819936378920/image0-3.gif
+plane-crazy 2023-02-02 16:40:59 
+plane-crazy 2023-02-02 16:41:04 this happening to anyone else?
+plane-crazy 2023-02-02 16:41:20 oh its gone
+plane-crazy 2023-02-02 19:49:38 the yes
+plane-crazy 2023-02-02 19:49:42 do have the
+plane-crazy 2023-02-02 19:49:44 THE
+plane-crazy 2023-02-04 23:37:08 i business on the business
+plane-crazy 2023-02-05 01:46:54 https://www.youtube.com/watch?v=SXW_U9fiZFA&t=0s
+plane-crazy 2023-02-05 01:47:05 i fucking want this in my possession
+plane-crazy 2023-02-05 01:47:09 right now
+plane-crazy 2023-02-05 02:10:54 i need a screenshot of all the color codes
+plane-crazy 2023-02-05 02:13:45 i want fuckign f22 engines with afterburners that fit the shapoe of the engine
+plane-crazy 2023-02-05 02:17:05 yeah
+plane-crazy 2023-02-05 02:17:40 yeah
+plane-crazy 2023-02-05 02:18:00 thats plane crazy 0.69
+plane-crazy 2023-02-05 02:18:28 im gonna beat my asshole
+plane-crazy 2023-02-05 19:40:48 https://tenor.com/view/caught-in-sussy4k-omgomg-gif-21922925
+plane-crazy 2023-02-07 00:21:49 why the fuck do my stupid ass speakers sound so goofy sometimes
+help 2023-02-07 02:28:06 how do i make my plane stop wobbling when i go up or down or roll right or left
+help 2023-02-07 02:28:15 how do i make snow pipes glow
+help 2023-02-07 02:28:37 how do i stabilize my plane no matter the direction its facing
+help 2023-02-07 02:34:15 its bouncing and wobbling on the back
+help 2023-02-07 02:34:25 how do i fix it
+help 2023-02-07 02:37:09 i dont use control surfaces anymore because they are beyond motherfucking buggy and make my plane do weird shit when i do literally anything related to turning
+plane-crazy 2023-02-07 02:39:57 how do i make my plane stop wobbling when i go up or down or roll right or left 
+how do i make snow pipes glow
+how do i stabilize my plane no matter the direction its facing
+its bouncing and wobbling on the back
+how do i fix it
+i dont use control surfaces anymore because they are beyond motherfucking buggy and make my plane do weird shit when i do literally anything related to turning
+plane-crazy 2023-02-08 01:09:37 bitch boy bithc
+the-dump 2023-02-08 19:08:21 https://media.discordapp.net/attachments/495286269459300364/1072724968296693780/unknown.png
+the-dump 2023-02-08 19:15:40 https://tenor.com/view/lil-nas-x-nickb-pregnant-speech-bubble-gif-25238772
+plane-crazy 2023-02-10 23:53:13 you cant anymore
+plane-crazy 2023-02-10 23:53:16 because roblox
+plane-crazy 2023-02-10 23:53:17 is\
+plane-crazy 2023-02-10 23:53:32 really gay
+plane-crazy 2023-02-10 23:53:42 and doesnt let you upload audio
+plane-crazy 2023-02-10 23:53:56 honestly same i agree with you 💯
+plane-crazy 2023-02-11 01:46:29 what the fuck is oat meal
+plane-crazy 2023-02-12 20:54:59 im gonna sue you if you dont update plane crazy
+plane-crazy 2023-02-12 20:55:29 cock
+plane-crazy 2023-02-13 01:05:43 eeeeeeeeereal
+plane-crazy 2023-02-13 01:58:11 
+plane-crazy 2023-02-13 15:57:37 help
+plane-crazy 2023-02-13 15:58:18 
+plane-crazy 2023-02-13 15:58:52 
+plane-crazy 2023-02-13 15:59:32 
+plane-crazy 2023-02-13 15:59:50 
+plane-crazy 2023-02-13 15:59:53 pls help i am failing
+plane-crazy 2023-02-13 16:00:34 i need andswers ASAP
+plane-crazy 2023-02-13 17:08:09 this is geometry 10th grade
+plane-crazy 2023-02-13 17:09:57 read the whole question
+plane-crazy 2023-02-13 17:13:46 aircraft insanity 3
+plane-crazy 2023-02-13 17:17:43 ok seriously i need answers
+plane-crazy 2023-02-13 17:17:55 like actually
+plane-crazy 2023-02-13 17:21:10 aircraft insanity 4
+plane-crazy 2023-02-13 17:21:41 shut the FUCK up
+plane-crazy 2023-02-13 17:22:23 ok
+plane-crazy 2023-02-13 17:22:27 real
+plane-crazy 2023-02-13 17:24:44 the R in rickje is not capital
+plane-crazy 2023-02-13 17:26:21 guys every on djoud ping ricardoson jeraldt the one hunderd therty nineth!!1!1oNeONe11!!
+plane-crazy 2023-02-13 17:45:37 ricardoson jeraldt the 139th
+plane-crazy 2023-02-14 00:17:10 a 10 war hog
+plane-crazy 2023-02-14 00:19:33 no its an a 10 war hog
+plane-crazy 2023-02-14 00:20:17 a = aut-
+plane-crazy 2023-02-14 00:21:41 real
+plane-crazy 2023-02-14 00:21:47 real real
+plane-crazy 2023-02-14 00:22:49 the a jit
+plane-crazy 2023-02-14 03:03:53 bro this dumbass thinks he invented the teleport glitch
+plane-crazy 2023-02-14 03:05:51 terrorism
+plane-crazy 2023-02-14 03:24:16 assy and gassy
+plane-crazy 2023-02-14 03:24:26 <:thedaftpedoguy5:1028046763220815922> <:thedaftpedoguy5:1028046763220815922>
+plane-crazy 2023-02-14 04:16:14 
+plane-crazy 2023-02-14 04:16:16 fuck you
+plane-crazy 2023-02-14 04:16:33 
+plane-crazy 2023-02-14 04:16:39 fuck you
+plane-crazy 2023-02-14 04:18:19 dipshits
+plane-crazy 2023-02-14 23:25:51 ima play wt now
+plane-crazy 2023-02-16 17:40:30 what is v
+plane-crazy 2023-02-16 17:41:27 seriously
+plane-crazy 2023-02-16 17:41:40 my parents won't shut the fuck up about my grades
+plane-crazy 2023-02-16 17:42:25 goguardian is on
+plane-crazy 2023-02-16 17:42:42 this is 10th grade geometry
+plane-crazy 2023-02-16 17:42:54 not precalculus
+plane-crazy 2023-02-16 17:43:13 idk wtf sin is
+plane-crazy 2023-02-16 17:43:36 i can't tell you that
+plane-crazy 2023-02-16 17:44:14 u is 4
+plane-crazy 2023-02-16 17:44:21 isn't v the root of u
+plane-crazy 2023-02-16 17:49:34 
+plane-crazy 2023-02-16 17:49:56 fuck i have exposed my skin color
+plane-crazy 2023-02-16 17:51:46 bruh
+plane-crazy 2023-02-16 17:52:09 
+plane-crazy 2023-02-16 17:52:21 like i said this is not recalculate bullshit
+plane-crazy 2023-02-16 17:52:28 precalcylus
+plane-crazy 2023-02-16 17:53:35 THATS WHAT I PUT
+plane-crazy 2023-02-16 17:54:59 <:uncannymeme2:929089612431912961>
+plane-crazy 2023-02-16 17:55:48 this isn't engee class
+plane-crazy 2023-02-16 17:55:56 this is
+plane-crazy 2023-02-16 17:56:03 10th grade geometry
+plane-crazy 2023-02-16 17:56:11 not engineering
+plane-crazy 2023-02-16 17:56:55 bruh no
+plane-crazy 2023-02-16 17:57:48 this is right triangles
+plane-crazy 2023-02-16 17:57:57 no it's not
+plane-crazy 2023-02-16 17:58:04 u is 4
+plane-crazy 2023-02-16 17:58:33 the y is supposed to be a V
+plane-crazy 2023-02-16 17:58:58 
+plane-crazy 2023-02-16 17:59:35 no way
+plane-crazy 2023-02-16 17:59:36 real
+plane-crazy 2023-02-16 18:00:10 WHAT THE FUCK THIS ISNT COSIN
+plane-crazy 2023-02-16 18:00:13 OR SIN
+plane-crazy 2023-02-16 18:00:16 OR TAN
+plane-crazy 2023-02-16 18:03:31 everything you just said makes me want to consume my dead lizards inhaler
+plane-crazy 2023-02-16 18:03:35 orally
+plane-crazy 2023-02-16 18:05:32 👽
+plane-crazy 2023-02-16 18:07:41 balls balls estrogen
+plane-crazy 2023-02-16 18:07:54 ok then
+plane-crazy 2023-02-16 18:08:14 you do it
+plane-crazy 2023-02-16 18:08:15 
+plane-crazy 2023-02-16 18:10:57 wtf
+plane-crazy 2023-02-16 18:12:26 does it look like this dipshit is able to handle cosin sin tan balls bullshit
+plane-crazy 2023-02-16 18:13:03 that's what they all say
+plane-crazy 2023-02-16 18:14:25 bruh
+plane-crazy 2023-02-16 18:15:35 ANDWER THE QUESTION
+plane-crazy 2023-02-16 18:15:39 REEEE
+plane-crazy 2023-02-16 18:16:45 this is 10th grade geometry
+plane-crazy 2023-02-16 18:16:52 not college bullshit
+plane-crazy 2023-02-16 18:17:28 this is academic geometry
+plane-crazy 2023-02-17 23:52:24 whats the color code for sky color
+plane-crazy 2023-02-17 23:53:50 wat
+plane-crazy 2023-02-17 23:55:10 8 doesnt work
+plane-crazy 2023-02-17 23:57:40 help
+plane-crazy 2023-02-18 16:28:08 what is the water jet useful for
+plane-crazy 2023-02-18 16:28:24 and why is it in pvp
+plane-crazy 2023-02-18 16:28:27 what does it do
+plane-crazy 2023-02-18 18:24:16 please someone fucking ban this little shit
+plane-crazy 2023-02-18 19:28:58 oklahoman rocketrysmanship
+plane-crazy 2023-02-19 01:35:05 i have a virginity
+general 2023-02-19 19:14:38 i agree
+general 2023-02-19 22:55:23 bitch bitch bitcj
+plane-crazy 2023-02-20 00:20:05 asshole ing ing
+plane-crazy 2023-02-20 01:56:16 guys we should all ping ricardoson jeraldt the one hundred twenty ninth
+plane-crazy 2023-02-20 02:59:14 this guy
+plane-crazy 2023-02-20 02:59:27 ban him
+plane-crazy 2023-02-20 02:59:47 
+plane-crazy 2023-02-20 03:02:15 fuck off blue bitch
+plane-crazy 2023-02-20 03:02:20 the light blue one
+plane-crazy 2023-02-20 03:04:27 
+plane-crazy 2023-02-20 03:05:21 praising the soviets for their warcrimes
+plane-crazy 2023-02-20 03:05:43 and saying shit like " if the ussr comes back im gonna move to moscow and join the army "
+plane-crazy 2023-02-20 03:06:06 
+plane-crazy 2023-02-20 03:07:27 -slapping intensifies-
+plane-crazy 2023-02-20 03:07:34 oh my god
+plane-crazy 2023-02-20 03:07:37 its perfect
+plane-crazy 2023-02-20 03:08:56 
+plane-crazy 2023-02-20 03:09:10 seriously someone ban this motherfucker
+plane-crazy 2023-02-20 03:09:55 f2 balls
+plane-crazy 2023-02-20 03:13:48 
+plane-crazy 2023-02-20 03:13:52 <:thedaftpedoguy5:1028046763220815922>
+plane-crazy 2023-02-20 03:14:07 *nukes again*
+the-dump 2023-02-20 18:58:20 stop drinking methamphetamine out of your asshole <:thedaftpedoguy5:1028046763220815922>
+the-dump 2023-02-24 02:49:21 ass
+plane-crazy 2023-02-25 00:16:27 ok im fucking sick of this bullshit WHERE IS MY GOD DAMN BLUE THINGY
+plane-crazy 2023-02-25 01:50:14 motherfucker
+plane-crazy 2023-02-25 01:50:58 
+the-dump 2023-02-25 06:08:08 i agree
+the-dump 2023-02-25 06:09:42 <@956447807156412467> M16
+the-dump 2023-02-25 06:09:58 A1 MOTHERFUCKER GOTTI
+the-dump 2023-02-25 06:10:14 BITCH YOUR DRAFTED
+the-dump 2023-02-25 06:10:18 RAHHHHH
+plane-crazy 2023-02-25 06:19:48 bitch why does this stupid piece of fucking ass say "fiLe cAnNoT Be eMptY🥶😭"
+plane-crazy 2023-02-25 06:20:00 fuckboy
+plane-crazy 2023-02-25 19:37:24 there has to be a list of all the color codes
+plane-crazy 2023-02-25 21:32:18 https://tenor.com/view/fandom-fun-fandom-fun-gaming-jerma-speech-bubble-speech-bubble-meme-gif-25077155
+plane-crazy 2023-02-26 01:01:32 how do i make this tilt in the shape of the wedge its on
+plane-crazy 2023-02-26 01:03:44 i want a simple diagram that shows how i would do such a thing without fucking up the main pilot seat
+plane-crazy 2023-02-26 01:04:30 because cameras always do something with the pilot seat when you click on something with config selected
+plane-crazy 2023-02-26 01:07:57 angle locking does what i just said i didnt want to happen
+plane-crazy 2023-02-26 01:08:05 thats big and clunky
+plane-crazy 2023-02-26 01:08:06 and bulky
+plane-crazy 2023-02-26 01:08:54 i cant
+plane-crazy 2023-02-26 01:09:25 i said cameras do the thing i dont want
+plane-crazy 2023-02-26 01:11:05 i thougnt iw as camer
+plane-crazy 2023-02-26 01:11:06 s
+plane-crazy 2023-02-26 01:11:06 a
+plane-crazy 2023-02-26 01:11:12 it
+plane-crazy 2023-02-26 03:41:53 what does fixed do on the snow and smoke pipes
+creations-chat 2023-02-26 16:06:07 https://tenor.com/view/nerd-nerd-emoji-meme-speech-bubble-bubble-gif-25115885
+creations-chat 2023-02-26 16:08:30 wooosh
+creations-chat 2023-02-26 16:13:09 https://media.discordapp.net/attachments/868546161470996480/947691402643525642/IM_COME_YOU.gif
+creations-chat 2023-02-26 16:27:50 i agree ^
+creations-chat 2023-02-26 17:06:03 <:finger:991357454396956723>
+creations-chat 2023-02-26 18:51:48 sir what
+blood sweat and tears
+plane-crazy 2023-02-27 02:26:35 i ate several orphaned lizards
+plane-crazy 2023-02-27 23:18:07 unrelated but how do i get out of big picture in steam
+plane-crazy 2023-02-27 23:18:42 
+plane-crazy 2023-02-27 23:19:00 my computer monitor was tilted backward when i got home
+plane-crazy 2023-02-27 23:19:04 so idk wtf happened
+plane-crazy 2023-02-27 23:28:47 tysm
+plane-crazy 2023-03-03 00:12:33 bro why the fuck can i not untoggle smoke pipes and snow pipes
+plane-crazy 2023-03-03 00:12:37 this is bullshit
+plane-crazy 2023-03-03 01:13:44 bitch what the fuck
+plane-crazy 2023-03-03 01:15:59 oh my fucking god
+plane-crazy 2023-03-03 01:16:34 this mother fucker
+plane-crazy 2023-03-04 01:08:05 
+plane-crazy 2023-03-05 02:03:44 balls a
+plane-crazy 2023-03-05 03:25:38 america motherfuckas
+plane-crazy 2023-03-05 03:25:40 seriously though
+plane-crazy 2023-03-05 03:25:41 what the fuck
+plane-crazy 2023-03-05 17:42:03 shut yo ugly ass the FUCK up
+plane-crazy 2023-03-05 17:42:46 fucking bitch
+plane-crazy 2023-03-05 17:42:57 no
+plane-crazy 2023-03-05 17:43:31 the creator of CAC is a capitalist
+plane-crazy 2023-03-05 17:43:32 destroy him
+plane-crazy 2023-03-05 17:43:42 jk fuck commies
+plane-crazy 2023-03-06 02:03:40 
+plane-crazy 2023-03-06 23:56:24 sexy
+plane-crazy 2023-03-07 02:42:53 https://www.youtube.com/watch?time_continue=39583&v=L6qN9h8cZYI&embeds_euri=https%3A%2F%2Fvideo.search.yahoo.com%2F&embeds_origin=https%3A%2F%2Fvideo.search.yahoo.com&source_ve_path=MzY4NDI&feature=emb_logo
+plane-crazy 2023-03-07 04:26:04 fuck you
+plane-crazy 2023-03-07 04:26:08 
+plane-crazy 2023-03-07 04:27:00 baby man
+plane-crazy 2023-03-08 02:23:26 
+plane-crazy 2023-03-08 04:01:44 give me the maltese cross text
+plane-crazy 2023-03-08 04:02:44 shut up
+plane-crazy 2023-03-08 04:02:49 
+plane-crazy 2023-03-08 04:02:51 4k bitch
+creations-chat 2023-03-11 19:49:51 bot died
+plane-crazy 2023-03-11 20:15:45 motherfucker on my stuka none of my weapons work
+plane-crazy 2023-03-11 20:15:47 what the fuck
+plane-crazy 2023-03-11 20:18:18 buddy i am in pvp mode
+plane-crazy 2023-03-11 20:19:01 lol
+plane-crazy 2023-03-11 20:20:30 who
+plane-crazy 2023-03-11 20:20:47 oh
+plane-crazy 2023-03-20 23:24:16 if a stuka was gangbanged by an f22 and an a-10 this is the output
+plane-crazy 2023-03-20 23:27:44 ju-10/22A
+creations-chat 2023-03-20 23:28:36 wtf happened why cant i post
+plane-crazy 2023-03-20 23:47:24 this boi indestructible
+plane-crazy 2023-03-20 23:54:38 
+plane-crazy 2023-03-20 23:56:44 ok this fuckboy just tried to blow me up while i was landed and he fucking failed at that
+plane-crazy 2023-03-20 23:56:50 he was in a god damn cringe box
+plane-crazy 2023-03-20 23:57:56 L-166 ballhawk
+plane-crazy 2023-03-23 22:16:31 real
+plane-crazy 2023-03-23 23:27:57 i dont know how this happened
+plane-crazy 2023-03-24 00:22:25 who else agrees with this man
+plane-crazy 2023-03-24 23:18:45 give me gau 8 barrel emoji art
+plane-crazy 2023-03-25 01:28:05 i said "hell" and my grand dad got pissed off at me
+plane-crazy 2023-03-25 01:28:47 this is a motherfucking free state you piece of fucking shit dont act like your ass swears all the motherfucking time motherfucker
+plane-crazy 2023-03-25 01:36:47 minecraft joj
+plane-crazy 2023-03-25 01:36:53 deadass
+plane-crazy 2023-03-25 01:37:10 say goodbye
+plane-crazy 2023-03-25 01:38:15 SHUT THE FUCK UP YOU PIECE OF SHIT
+plane-crazy 2023-03-25 15:51:56 bruh why the hell cant there be a game that leads directly to arena
+plane-crazy 2023-03-25 17:10:52 
+plane-crazy 2023-03-25 17:10:53 wth
+plane-crazy 2023-03-25 18:11:21 
+plane-crazy 2023-03-25 18:11:32 
+plane-crazy 2023-03-25 18:11:40 my brother in christ
+plane-crazy 2023-03-25 18:11:53 hes basically saying anything can be a modified a10\
+plane-crazy 2023-03-25 20:08:25 oh no
+plane-crazy 2023-03-25 20:08:49 
+plane-crazy 2023-03-25 20:08:52 i have a brain tumor
+plane-crazy 2023-03-25 20:09:17 
+plane-crazy 2023-03-25 20:09:22 its meant to be a dive bomber
+plane-crazy 2023-03-25 20:09:33 and to look like an a-10
+plane-crazy 2023-03-25 20:16:18 fuck you
+plane-crazy 2023-03-25 20:16:41 the sheer serotonin from the turret is incredible
+plane-crazy 2023-03-25 23:52:39 oh my god
+plane-crazy 2023-03-25 23:59:47 eggs
+plane-crazy 2023-03-26 00:00:13 pepperoni
+plane-crazy 2023-03-26 00:01:12 banana sundae with 3 cherries on top drizzled in chocolate syrup and strawberry icecream crumbs sprinkled on the cherry
+plane-crazy 2023-03-26 00:01:53 hispanic cinnamon hair female the age of 23
+plane-crazy 2023-03-26 00:02:36 
+plane-crazy 2023-03-26 00:12:43 bitchboy
+plane-crazy 2023-03-26 15:49:19 completely unrelated but i just beat the fuck out of a freshman twice the size of me that challenged me to a fight the other day
+plane-crazy 2023-03-26 15:52:20 im a sophomore
+plane-crazy 2023-03-26 15:52:23 so i guess thats fair
+plane-crazy 2023-04-02 18:17:35 reference ignore pls
+plane-crazy 2023-04-02 22:25:41 silly boy 🤣
+plane-crazy 2023-04-02 22:25:45 #LOL
+plane-crazy 2023-04-02 22:25:56 you silly goose
+plane-crazy 2023-04-02 22:26:02 yu tilly
+plane-crazy 2023-04-02 22:26:32 yu to to to to tilly 🤣
+plane-crazy 2023-04-02 23:28:41 fuck i just orally inhaled a ton of vapor from my humidifier and i just realized the water wasnt very clear
+i used tap water
+plane-crazy 2023-04-02 23:28:51 now my lungs hurt and am wheezing
+plane-crazy 2023-04-02 23:28:54 please help
+plane-crazy 2023-04-02 23:29:27 no seriously i think im fucking dying
+plane-crazy 2023-04-02 23:29:28 help
+plane-crazy 2023-04-03 01:53:44 OH MY GOD
+plane-crazy 2023-04-03 02:45:49 black guy
+plane-crazy 2023-04-03 02:46:08 nice feet
+plane-crazy 2023-04-03 02:47:52 im calling peta
+plane-crazy 2023-04-03 02:48:01 i dont care
+plane-crazy 2023-04-03 02:48:08 fucking dumbasses
+plane-crazy 2023-04-03 03:11:22 c-ram gets fucked in the asshole by naval artillery
+plane-crazy 2023-04-03 03:26:54 because mechs are fucking stupid
+plane-crazy 2023-04-03 03:28:39 no they arent
+plane-crazy 2023-04-03 03:28:55 its like
+plane-crazy 2023-04-03 03:29:04 choosing "c" on the SAT every questiuon
+plane-crazy 2023-04-03 03:29:17 nobody does it'
+plane-crazy 2023-04-03 03:30:00 https://media.discordapp.net/attachments/868546161470996480/947691402643525642/IM_COME_YOU.gif
+plane-crazy 2023-04-03 03:31:48 i hope so
+plane-crazy 2023-04-03 21:16:59 balls and balls
+plane-crazy 2023-04-03 21:18:08 <:thedaftpedoguy5:1028046763220815922>
+plane-crazy 2023-04-03 21:18:13 🤩
+plane-crazy 2023-04-03 21:19:45 eat my ass
+plane-crazy 2023-04-03 21:19:55 fucking stupid ass not
+plane-crazy 2023-04-03 21:20:02 BOT
+plane-crazy 2023-04-03 23:23:33 i ate twelve and a half quintradecillion amoguse
+plane-crazy 2023-04-04 00:25:07 
+plane-crazy 2023-04-04 00:42:21 you trippin balls
+plane-crazy 2023-04-04 18:07:06 baldwin baldwin
+plane-crazy 2023-04-04 18:09:00 your an analyst
+plane-crazy 2023-04-04 18:09:24 FUCK YOU AEROJET
+plane-crazy 2023-04-04 18:11:09 pendo phingleton the twelfth
+plane-crazy 2023-04-04 18:14:08 hola hallo privet hi hello hey what's up wats good what's popping sup
+plane-crazy 2023-04-04 18:14:39 the spawn of a it
+plane-crazy 2023-04-04 18:14:44 glitchy controls
+plane-crazy 2023-04-04 18:15:00 what happened when pressed was
+plane-crazy 2023-04-04 18:15:04 d
+plane-crazy 2023-04-04 18:15:34 not ubderstand
+plane-crazy 2023-04-04 18:16:27 it might be because of skill issue
+plane-crazy 2023-04-04 18:16:32 send an i@agery
+plane-crazy 2023-04-04 18:16:37 imagery
+plane-crazy 2023-04-04 18:16:57 ghetto asshole jet
+plane-crazy 2023-04-04 18:17:16 whatte
+plane-crazy 2023-04-04 18:17:59 нет тыкв нас вчера в гости мы в в в
+plane-crazy 2023-04-04 18:18:12 <:zycosmoke:821821351576338534>
+plane-crazy 2023-04-04 18:19:14 hi not duet for the jg
+plane-crazy 2023-04-04 18:19:35 jej🤙
+plane-crazy 2023-04-04 18:19:41 👍
+plane-crazy 2023-04-04 18:20:43 solo man should make an a10 that was gangbanged by the f18 and a14 and su57
+plane-crazy 2023-04-04 18:21:08 jej solo
+plane-crazy 2023-04-04 18:21:55 cerng
+plane-crazy 2023-04-06 22:20:45 
+plane-crazy 2023-04-06 23:14:55 t o n k
+plane-crazy 2023-04-08 20:31:56 i am a fucking menace
+plane-crazy 2023-04-08 20:32:13 motorlocked rockets bitch
+plane-crazy 2023-04-08 20:35:04 its not
+plane-crazy 2023-04-09 17:20:33 
+general 2023-04-09 18:22:52 LOL
+general 2023-04-09 18:22:59 my brohter in christ LMFAOOAOAOA
+plane-crazy 2023-04-09 18:23:57 
+general 2023-04-09 18:24:00 <#384021699466756107>
+general 2023-04-09 18:24:02 now
+plane-crazy 2023-04-09 18:24:15 
+plane-crazy 2023-04-09 18:28:20 FIimsically
+general 2023-04-09 18:30:36 but he said 15 first
+general 2023-04-09 18:30:37 lmfao
+plane-crazy 2023-04-09 18:48:05 
+plane-crazy 2023-04-09 23:01:35 real
+plane-crazy 2023-04-10 02:56:30 HOLY SHIT
+plane-crazy 2023-04-10 02:56:44 AMBATUKAM
+plane-crazy 2023-04-10 02:56:48 AKBAR
+plane-crazy 2023-04-10 02:57:24 make a micro carrier
+plane-crazy 2023-04-10 02:57:28 <:clueless:893726224415879200>
+plane-crazy 2023-04-10 02:57:59 shut
+plane-crazy 2023-04-10 02:58:02 emoji
+plane-crazy 2023-04-10 02:58:02 i did wrong
+plane-crazy 2023-04-10 02:58:04 misclick'
+plane-crazy 2023-04-11 22:45:47 
+plane-crazy 2023-04-11 22:46:09 
+plane-crazy 2023-04-11 22:46:29 
+plane-crazy 2023-04-11 22:47:15 unglys h
+plane-crazy 2023-04-11 22:47:25 
+plane-crazy 2023-04-11 22:47:28 EXCUSE THE FUCK
+plane-crazy 2023-04-11 22:52:48 
+plane-crazy 2023-04-11 22:53:11 
+plane-crazy 2023-04-11 22:53:20 
+plane-crazy 2023-04-11 22:53:37 
+plane-crazy 2023-04-11 22:53:59 
+plane-crazy 2023-04-11 22:54:16 
+plane-crazy 2023-04-11 22:55:07 OH MY MOTHERFUCKING GOD DUDE
+plane-crazy 2023-04-11 22:55:12 YOU CANT BE SERIOUS
+plane-crazy 2023-04-11 22:55:14 😭
+plane-crazy 2023-04-12 23:45:17 caca crazy two
+plane-crazy 2023-04-12 23:45:36 https://tenor.com/view/silence-wench-wench-inc-gif-19837326
+plane-crazy 2023-04-12 23:46:13 SUCK MY-
+plane-crazy 2023-04-12 23:48:38 ricardo jeraldt the one hundred and thirty ninth should release the game on the platform of roblox known as aerodynamically functioning air vehicle locomotive insanity two
+plane-crazy 2023-04-13 02:11:58 aeaaeea
+plane-crazy 2023-04-13 22:26:41 for
+plane-crazy 2023-04-13 22:26:41 someone send me color codes
+plane-crazy 2023-04-13 22:26:45 camo
+plane-crazy 2023-04-13 22:26:46 stuff
+plane-crazy 2023-04-16 03:36:03 gaming
+plane-crazy 2023-04-16 03:36:04 
+plane-crazy 2023-04-16 04:45:47 nagras de horchatas bei dola quelas DAS DUMO EL QASA BUENAS NAGROS NAGRITOS BUELAS!!!!
+plane-crazy 2023-04-16 04:46:01 
+plane-crazy 2023-04-16 04:46:07 
+plane-crazy 2023-04-16 04:46:14 CACA!!!!!!
+plane-crazy 2023-04-16 04:50:16 https://tenor.com/view/alejandra-guzman-el-juego-de-las-llaves-juego-de-las-llaves-juego-de-las-llaves2-el-juego-de-las-llaves2-gif-23078409
+plane-crazy 2023-04-16 04:50:42 NEGRANAS DE HORCHATAS!!!!!
+plane-crazy 2023-04-16 04:51:06 https://tenor.com/view/colossal-titan-attack-on-titan-titan-gif-20157615
+plane-crazy 2023-04-16 14:52:16 honey badger ftw rangers lead the way
+plane-crazy 2023-04-16 14:57:06 fuck you dyno
+plane-crazy 2023-04-16 14:57:43 add sacks
+plane-crazy 2023-04-16 14:59:48 SHUT THE FUCK UP DYNO
+plane-crazy 2023-04-16 15:00:40 noob
+plane-crazy 2023-04-16 15:00:52 <:laughingatu:1019969951609667584>
+plane-crazy 2023-04-16 15:01:20 shut the FUCK up
+plane-crazy 2023-04-16 15:01:25 you didnt se anythuing
+plane-crazy 2023-04-16 15:01:29 schizo
+plane-crazy 2023-04-16 15:02:13 cylinder canopies make my pp soft
+plane-crazy 2023-04-16 15:31:10 you like kids?
+plane-crazy 2023-04-18 00:12:49 
+plane-crazy 2023-05-01 02:26:15 <:thedaftpedoguy5:1028046763220815922>
+plane-crazy 2023-05-01 02:26:22 <:zycosmoke:821821351576338534>
+plane-crazy 2023-05-04 00:26:43 how
+plane-crazy 2023-05-04 00:26:58 fucking maniac
+plane-crazy 2023-05-04 00:27:06 u gotta do it on the back
+plane-crazy 2023-05-04 00:27:24 or hold left click away from the sign
+plane-crazy 2023-05-04 00:27:42 you have to color it on the back
+plane-crazy 2023-05-04 00:27:47 click the sign on the back with colors
+plane-crazy 2023-05-04 00:30:24 delete bloci under it
+plane-crazy 2023-05-04 00:30:25 then
+plane-crazy 2023-05-04 00:30:28 color it like dat
+plane-crazy 2023-05-04 01:44:02 WOAH
+plane-crazy 2023-05-04 01:44:38 https://tenor.com/view/doug-walker-computer-gif-18704487
+plane-crazy 2023-05-04 01:52:12 original message was deleted
+plane-crazy 2023-05-04 01:54:13 send screen shoot
+plane-crazy 2023-05-04 01:54:31 but dont shoot your screen
+plane-crazy 2023-05-04 01:54:36 itn has a lot of things to live for
+plane-crazy 2023-05-04 01:54:58 my brother in christ you created a floating nose
+plane-crazy 2023-05-04 01:55:18 https://tenor.com/view/explosion-boom-gif-8911363
+plane-crazy 2023-05-04 01:55:24 big a
+plane-crazy 2023-05-04 01:55:53 shut up whitename
+plane-crazy 2023-05-04 01:56:00 https://tenor.com/view/whitename-monkey-discord-gif-22734116
+plane-crazy 2023-05-04 01:56:35 https://tenor.com/view/nerd-emoji-nerd-emoji-avalon-play-avalon-gif-24241051
+plane-crazy 2023-05-04 01:57:28 furry
+plane-crazy 2023-05-04 01:57:30 alert
+plane-crazy 2023-05-04 01:57:55 https://tenor.com/view/crumby-trolls-lusionz-mass-amount-of-trolling-gif-21566615
+plane-crazy 2023-05-05 23:08:52 call me fuckingh stupid but whats this called
+plane-crazy 2023-05-05 23:39:15 whats up badatgame
+plane-crazy 2023-05-05 23:43:35 assy
+plane-crazy 2023-05-05 23:43:42 and gassy
+plane-crazy 2023-05-05 23:43:45 <:thedaftpedoguy5:1028046763220815922>
+plane-crazy 2023-05-05 23:50:20 fuck off aerojet
+plane-crazy 2023-05-05 23:50:34 GAS
+plane-crazy 2023-05-06 00:07:34 OLIVE OILLLL HAHAHAHHA
+plane-crazy 2023-05-06 19:13:02 someone needs to make a really tightly compacted thing
+plane-crazy 2023-05-06 19:13:04 of guns
+plane-crazy 2023-05-06 19:15:16 instead of this
+plane-crazy 2023-05-06 19:15:23 i want this
+plane-crazy 2023-05-06 19:17:58 LOL
+plane-crazy 2023-05-06 19:19:01 use conveyors instead
+plane-crazy 2023-05-06 19:19:16 no its not'
+plane-crazy 2023-05-06 19:19:40 im gonna kick your lizards ass if you dont agree with me
+plane-crazy 2023-05-06 19:20:06 https://media.discordapp.net/attachments/756714063437889616/916979819936378920/image0-3.gif
+plane-crazy 2023-05-06 19:20:16 :::
+plane-crazy 2023-05-06 19:22:02 make the oliens move
+plane-crazy 2023-05-06 19:22:06 usee conveyor wedges
+plane-crazy 2023-05-06 19:22:11 make them face inward
+plane-crazy 2023-05-06 19:22:16 towards to front of the plane
+plane-crazy 2023-05-06 19:22:24 and make them go fast'
+plane-crazy 2023-05-07 18:12:01 how tf do i prevent joining the same setver
+plane-crazy 2023-05-07 18:12:27 in pvp
+plane-crazy 2023-05-07 18:16:32 
+plane-crazy 2023-05-07 18:33:25 i ate several homeless mens lizards left ring toenails
+plane-crazy 2023-05-07 19:23:32 everyone knows about this
+plane-crazy 2023-05-10 23:24:07 what an unde looks like
+plane-crazy 2023-05-10 23:24:28 what a not so unde looks like https://www.roblox.com/users/167582971/profile
+plane-crazy 2023-05-11 23:48:10 whats his real username
+plane-crazy 2023-05-11 23:48:31 ima fuck this guy up in a dogfight
+plane-crazy 2023-05-11 23:55:57 <@711710154839556178> what was his avatar
+plane-crazy 2023-05-12 00:06:30 bruh
+plane-crazy 2023-05-12 00:06:35 the pvp servers are broken
+plane-crazy 2023-05-12 00:07:06 bitch bitch
+plane-crazy 2023-05-12 00:07:24 your going to aeaeaeaeae
+plane-crazy 2023-05-12 00:11:16 is it the sameserver?
+plane-crazy 2023-05-12 00:11:17 like
+plane-crazy 2023-05-12 00:11:26 it usually doesnt take thsk long to change
+plane-crazy 2023-05-12 00:13:01 wait you were in that one too?
+plane-crazy 2023-05-12 00:13:08 the one with the guy named noobisawesome?
+plane-crazy 2023-05-12 00:13:19 OH
+plane-crazy 2023-05-12 00:13:22 HOLY SHIT
+plane-crazy 2023-05-12 00:13:26 FUCK EYAH
+plane-crazy 2023-05-12 00:13:39 you juicy son of a bitch you did it
+plane-crazy 2023-05-12 15:01:09 mother of a fuck
+plane-crazy 2023-05-12 15:09:05 i want the answer for this
+plane-crazy 2023-05-12 15:09:10 all of then
+plane-crazy 2023-05-12 15:09:13 of them
+plane-crazy 2023-05-12 15:44:06 wtf is the height
+plane-crazy 2023-05-12 15:44:11 is it 4 or 5
+plane-crazy 2023-05-12 15:48:46 thx
+plane-crazy 2023-05-12 19:44:51 set your balls on fire
+plane-crazy 2023-05-12 19:45:10 and you will enter the forbidden month of the day
+plane-crazy 2023-05-12 23:31:09 spin
+plane-crazy 2023-05-12 23:31:14 
+plane-crazy 2023-05-14 14:26:45 how do i go 37775 sps
+plane-crazy 2023-05-14 14:28:19 give me a good answer
+plane-crazy 2023-05-14 14:28:31 conveyor engines wont cut it
+plane-crazy 2023-05-25 00:47:21 
+plane-crazy 2023-05-25 00:54:20 
+plane-crazy 2023-05-25 00:54:34 caught in 4k
+plane-crazy 2023-05-25 23:19:06 fucked
+plane-crazy 2023-05-25 23:58:15 ireland
+plane-crazy 2023-05-25 23:58:21 all of it'
+plane-crazy 2023-05-26 00:59:54 fucked
+plane-crazy 2023-05-26 01:00:13 
+plane-crazy 2023-05-26 01:00:16 WHAT
+plane-crazy 2023-05-26 01:15:32 freedom
+plane-crazy 2023-05-26 15:52:10 bitch bitch bitch
+plane-crazy 2023-05-26 19:37:46 at what vertical speed do you begin to fall through the map
+plane-crazy 2023-05-26 19:43:58 about 2000 sps
+plane-crazy 2023-05-26 19:44:05 from a little over 10k feet
+plane-crazy 2023-05-26 19:46:26 fuck nvm
+plane-crazy 2023-05-26 19:46:28 its so random
+plane-crazy 2023-05-26 22:07:11 
+plane-crazy 2023-05-26 22:07:12 balls
+plane-crazy 2023-05-27 03:30:22 shutcup
+plane-crazy 2023-05-28 01:44:09 mlg 360 noscope illuminati xXxSWEGBOY9001xXxplayzTTV
+plane-crazy 2023-05-29 18:25:06 how fix
+plane-crazy 2023-05-29 18:25:52 mother of the fuck wobble
+plane-crazy 2023-05-29 18:34:21 bruh
+plane-crazy 2023-05-29 18:34:41 nose
+plane-crazy 2023-05-29 18:34:46 it go up and down
+plane-crazy 2023-05-29 18:34:49 and it piss me off
+plane-crazy 2023-05-29 18:35:05 IDC
+plane-crazy 2023-05-29 18:35:07 it pisses me off
+plane-crazy 2023-05-29 18:35:31 EXCUSE ME?
+plane-crazy 2023-05-29 18:36:22 im a minor
+plane-crazy 2023-05-29 18:36:38 LOL
+plane-crazy 2023-05-29 18:37:25 https://www.roblox.com/users/167582971/profile
+plane-crazy 2023-05-29 18:37:28 im not an unde
+plane-crazy 2023-05-29 18:37:30 bitch
+plane-crazy 2023-05-29 18:38:20 WOAH
+plane-crazy 2023-05-29 18:38:29 oh my goodness gracious!
+plane-crazy 2023-05-29 18:39:31 https://tenor.com/view/sexy-black-man-thirst-trap-ice-cream-lick-hot-gif-14646541
+plane-crazy 2023-05-29 18:39:39 hog rider spotted in eal live!!!!11
+plane-crazy 2023-05-29 18:39:52 (n0t cl1ckb8!1!!)
+plane-crazy 2023-05-29 18:58:39 no
+plane-crazy 2023-05-29 18:59:50 its just ricardo jeraldt the one hundred and thirty ninth not updating the game in 8 months
+plane-crazy 2023-05-31 16:03:08 ok
+plane-crazy 2023-05-31 16:07:51 ffs is roblox down again
+plane-crazy 2023-05-31 16:08:11 this is getting old
+plane-crazy 2023-05-31 16:09:02 mf gamepasses dont load
+plane-crazy 2023-05-31 16:12:25 tf
+plane-crazy 2023-05-31 16:16:47 this
+plane-crazy 2023-05-31 16:16:49 mother
+plane-crazy 2023-05-31 16:16:50 fucker
+plane-crazy 2023-05-31 16:17:06 a fuckign tnt cannon
+plane-crazy 2023-05-31 16:19:55 fucking gamepasses dotn evene work
+plane-crazy 2023-05-31 16:34:51 thigns that ruin everything on roblox:
+adopt me/brookhaven
+dipshit 6 year olds having voice chat
+little kids with safechat drooling on their leapfrog ipad xxxl and babyraging when they dont understand one fucking thing
+plane-crazy 2023-05-31 16:35:05 and little kids in general
+plane-crazy 2023-05-31 16:35:34 no
+plane-crazy 2023-05-31 16:35:46 because roblox is made for kids
+plane-crazy 2023-05-31 16:35:54 and it should be made for 13 and up
+plane-crazy 2023-05-31 16:35:58 and extreme verification required
+plane-crazy 2023-05-31 16:36:15 no
+plane-crazy 2023-05-31 16:36:19 
+plane-crazy 2023-05-31 16:36:52 dont
+plane-crazy 2023-05-31 16:36:54 its not worht it
+plane-crazy 2023-06-01 18:42:06 
+creations-chat 2023-06-01 22:53:45 thats not a tutorial you buffoon
+bug-reports 2023-06-01 22:54:32 the missile didnt get an education
+creations-chat 2023-06-01 22:56:49 ALL of you dipshits FUCKING COPE if you dont like me
+plane-crazy 2023-06-01 23:36:19 fuck you
+plane-crazy 2023-06-01 23:38:31 you aint focused on the 105mm oil barrel pointed directly at your cranium
+plane-crazy 2023-06-01 23:54:23 
+plane-crazy 2023-06-02 16:55:06 ive got a sugges5tion
+plane-crazy 2023-06-02 16:55:07 WHY DONT YOU
+plane-crazy 2023-06-02 16:55:09 FUCKING
+plane-crazy 2023-06-02 16:55:13 fix the god damn rockets
+plane-crazy 2023-06-02 16:55:32 fix the missiles
+plane-crazy 2023-06-02 16:55:41 give them at least 1 day of education
+plane-crazy 2023-06-02 16:57:29 im sick of being LITERALLY 1 stud away and ALL TWELVE missiles either run the complete opposite way outright or just ignore close tracking
+plane-crazy 2023-06-02 17:00:32 literally a blind and deaf senseless 3 year old with severe parkinson's can navigate better than these piece of shit "close """tracking"""" missiles
+plane-crazy 2023-06-02 17:05:15 you too
+plane-crazy 2023-06-02 17:07:02 # same
+plane-crazy 2023-06-02 17:16:14 Shut the fuck up you stupid fucking piece of mentally unguided shit. You don't know where you are or aren't, you don't know how much of a failure you are, only I know this information. I bet you can't pass a Field Sobriety Test even if you tried. You are unable to navigate jack shit, and nobody cares if you could, which you can't. If I were you, I would be ashamed of myself to the fullest extent, and I especially don't give a fuck if you know where you are or aren't, because you don't know any information about your position. In addition to that, I don't care if you know where you weren't or were, due to the fact that, again, you don't have a fucking clue what any of the information you have "gathered" means.
+plane-crazy 2023-06-02 19:39:18 mf has firefox and chrome open at the same time 💀
+plane-crazy 2023-06-03 15:06:42 
+plane-crazy 2023-06-03 15:07:14 
+plane-crazy 2023-06-03 16:13:53 
+plane-crazy 2023-06-03 16:14:03 
+plane-crazy 2023-06-03 16:16:27 release the new map and ill be happy
+plane-crazy 2023-06-03 16:16:40 wtf
+plane-crazy 2023-06-03 16:19:24 fucking geek
+plane-crazy 2023-06-03 16:19:53 they took away the og stormtroopers from 1917
+plane-crazy 2023-06-03 16:20:02 they massacred them
+plane-crazy 2023-06-03 16:20:22 they bubbad mg42s
+plane-crazy 2023-06-03 17:07:54 nuts balls
+plane-crazy 2023-06-04 17:53:50 wtf is this god damn brurbubrubruburburubrb easter egg from
+plane-crazy 2023-06-06 16:54:37 
+plane-crazy 2023-06-14 21:55:14 ok
+plane-crazy 2023-06-16 02:06:17 who here good at making logo shit
+plane-crazy 2023-06-16 02:06:18 like
+plane-crazy 2023-06-16 02:06:20 curved text shit
+plane-crazy 2023-06-16 02:06:24 inside a small area
+plane-crazy 2023-06-16 02:06:53 hes having an internal crisis
+plane-crazy 2023-06-16 02:06:57 shut the fuck up
+plane-crazy 2023-06-16 02:06:59 shut the fuck
+plane-crazy 2023-06-16 02:07:01 shut the fuck up
+plane-crazy 2023-06-16 02:07:04 i have the talking stick
+plane-crazy 2023-06-16 02:07:06 bitch
+plane-crazy 2023-06-16 02:07:21 sounds like
+plane-crazy 2023-06-16 02:07:23 yoiur already mad
+plane-crazy 2023-06-16 02:07:44 who the fuck
+plane-crazy 2023-06-16 02:07:57 this is an order
+plane-crazy 2023-06-16 02:08:35 https://tenor.com/view/gun-shoreline-mafia-hoe-shit-song-pointing-gun-pistol-gif-18643270
+plane-crazy 2023-06-16 02:08:37 i am no longer asking
+plane-crazy 2023-06-16 02:08:41 motherfucker
+general 2023-06-16 02:09:22 who here is good at making curved text
+general 2023-06-16 02:09:30 curve text around a logo
+general 2023-06-16 02:09:40 like
+general 2023-06-16 02:09:47 dm me if you good at that shit
+plane-crazy 2023-06-28 18:08:15 nothing was added
+general 2023-07-02 17:13:18 why are there updates that dont do anything at all
+plane-crazy 2023-07-02 17:15:16 
+plane-crazy 2023-07-02 17:15:17 ok so
+plane-crazy 2023-07-02 17:15:26 idk if it comes across on ur end
+plane-crazy 2023-07-02 17:15:27 but
+plane-crazy 2023-07-02 17:15:39 theres a random break in my screen
+plane-crazy 2023-07-02 17:18:17 but
+plane-crazy 2023-07-02 17:18:17 idk how to explain it
+plane-crazy 2023-07-02 17:18:47 it shows on the left edge of my right monitor
+plane-crazy 2023-07-02 17:19:23 where it should be
+plane-crazy 2023-07-02 17:21:02 and its gone'
+plane-crazy 2023-07-02 17:21:08 i just did some shit to my monitor alignment shit
+plane-crazy 2023-07-02 17:21:09 idfk
+plane-crazy 2023-07-02 18:52:19 ok
+plane-crazy 2023-07-02 19:15:03 
+plane-crazy 2023-07-02 19:15:05 WTF
+plane-crazy 2023-07-03 16:35:02 
+plane-crazy 2023-07-03 16:35:05 ok
+plane-crazy 2023-07-03 17:25:56 NO FUCKING WAY
+plane-crazy 2023-07-03 17:26:01 no way he just did that
+plane-crazy 2023-07-03 17:26:35 ricardoson jeraldt the one hundred and thirty ninth is alive
+plane-crazy 2023-07-03 17:28:45 what is with all these random updates
+plane-crazy 2023-07-03 17:28:50 nothing was added
+plane-crazy 2023-07-03 17:29:26 hes gonna ban your ass
+plane-crazy 2023-07-03 17:29:38 <@652925710976942100>
+plane-crazy 2023-07-03 17:29:45 M Y T U R N
+plane-crazy 2023-07-03 17:30:35 afterglock
+plane-crazy 2023-07-03 17:31:16 https://tenor.com/view/this-man-whale-react-him-discord-whale-react-gif-26387281
+plane-crazy 2023-07-03 17:31:41 bro is outright nervous af
+plane-crazy 2023-07-03 17:32:06 shut the FUCK up
+plane-crazy 2023-07-03 17:32:14 https://tenor.com/view/this-man-crab-react-him-discord-crab-react-gif-26387284
+creations-chat 2023-07-03 18:05:23 roflcopter
+creations-chat 2023-07-03 18:07:49 my roflcopter go
+soi
+soi
+soi
+soi
+soisoiosioisoiosioisoisoiosioisoiosioisoiosioisoisoiosioisisoisoiosioiso'
+creations-chat 2023-07-03 18:10:26 12 hours of motorlock
+gumball if your talking about the brburuburbubruburuurbbrubrububrubu sound, then its prob from tf2
+general 2023-07-03 18:17:42 brazil
+general 2023-07-03 18:18:16 fuck off
+general 2023-07-03 18:18:17 bitch
+general 2023-07-03 18:18:19 get a life
+general 2023-07-03 18:18:25 shitsack
+creations-chat 2023-07-03 18:18:51 its a cube (deadass)
+general 2023-07-03 18:20:11 ima show you my id rn
+general 2023-07-03 18:20:21 i got a drivers license
+general 2023-07-03 18:20:27 and i will show you it
+general 2023-07-03 18:20:33 just to shit on you
+general 2023-07-03 18:20:41 p2w
+general 2023-07-03 18:26:13 <#495286269459300364>
+the-dump 2023-07-03 18:26:20 3/31/07
+the-dump 2023-07-03 18:26:23 dob
+the-dump 2023-07-03 18:26:26 fucker
+the-dump 2023-07-03 18:27:59 watch me
+the-dump 2023-07-03 18:28:16 https://www.roblox.com/users/167582971/profile
+the-dump 2023-07-03 18:28:17 wow
+the-dump 2023-07-03 18:28:19 NO WEB
+the-dump 2023-07-03 18:28:21 WHO WOULD HAVE
+the-dump 2023-07-03 18:28:23 GUESSED
+the-dump 2023-07-03 18:28:26 NO WEB.ROBLOX.COM
+the-dump 2023-07-03 18:29:16 
+the-dump 2023-07-03 18:30:25 i am a texan
+the-dump 2023-07-03 18:31:08 what would happen if i passed an unde check
+the-dump 2023-07-03 18:31:15 wwyd
+the-dump 2023-07-03 18:31:33 good
+the-dump 2023-07-03 18:31:36 thats what i thought
+the-dump 2023-07-03 18:33:29 https://tenor.com/view/blow-im-about-to-blow-im-bout-to-blow-helicopter-helicopter-helicopter-gif-26483307
+the-dump 2023-07-03 18:33:50 https://media.discordapp.net/attachments/899025349164281856/1060601096801898576/COLD_HARBOR_APUCT.gif
+the-dump 2023-07-03 18:34:33 i just inhaled liquid ginger ale
+the-dump 2023-07-03 18:34:58 vaper
+the-dump 2023-07-03 18:35:08 no vaping in the bathroom
+the-dump 2023-07-03 18:35:10 LOL
+the-dump 2023-07-03 18:35:36 is that bitch on sale still
+the-dump 2023-07-03 18:36:49 <@652925710976942100> shut this man up
+the-dump 2023-07-03 18:37:58 cry more
+the-dump 2023-07-03 18:37:59 shitter
+the-dump 2023-07-03 18:38:20 rn
+the-dump 2023-07-03 18:38:20 hall of fame
+the-dump 2023-07-03 18:38:53 https://tenor.com/view/crumby-trolls-lusionz-mass-amount-of-trolling-gif-21566615
+the-dump 2023-07-03 18:39:32 i am a deadly laser
+the-dump 2023-07-03 18:40:06 ad
+creations-chat 2023-07-03 18:43:56 i didnt start being an ass
+creations-chat 2023-07-03 18:48:20 neither does yours or your shitsack friends, go outside and drink from a puddle of their shit
+creations-chat 2023-07-03 18:50:25 so you dont embarrass yourself further to your nonexistent parents
+creations-chat 2023-07-03 18:52:38 hes gonna get pissed at you and shut your ass up, im sure he has better shit to do than answer your dumbass
+creations-chat 2023-07-03 18:54:41 you started arguing, dont start the grammar "intimidation" bullshit, you are the one who flicked the lighter
+creations-chat 2023-07-03 18:58:06 You should have moved on a long time ago, you are the one who pinged Aftersock multiple times and I pinged him once, as soon as he came online you started using grammar to make it look like your the bigger person.
+I'm using grammar now, as a way to present a very subtle "fuck you".
+creations-chat 2023-07-03 19:00:58 Right now, a couple minutes ago, and when you're scared.
+I have slowmode
+creations-chat 2023-07-03 19:03:14 And now you brought someone who didnt have anything to do with this into the mix. I'm not saying you were trying to correct me, I'm saying as soon as Aftersock went online, you started using grammar.
+creations-chat 2023-07-03 19:05:18 I just said this.
+creations-chat 2023-07-03 19:07:20 Correcting and proving a point are completely different things.
+creations-chat 2023-07-03 19:09:49 both of you started this
+actually "epic" and delete(your account) and secretspy_age_6 started it
+creations-chat 2023-07-03 19:12:16 like middle school
+creations-chat 2023-07-03 19:14:25 16
+going into junior year in about a month
+creations-chat 2023-07-03 19:17:03 nobody asked you to join this argument
+idfk what dipshit hs system you use aver, but im from texas
+and we start highschool at 13 here
+also quit changing your answers we can see the edited mark on it
+im editing this because slowmode exists
+creations-chat 2023-07-03 19:19:18 FUCK YEAH
+
+corndogs are amazing, we can all agree
+creations-chat 2023-07-03 19:21:20 shut the fuck up its corndog time
+
+aver, everyone has different education systems, which by the way, you seem to not have at all
+
+because you couldnt afford it
+plane-crazy 2023-07-03 19:23:36 im not dumb
+plane-crazy 2023-07-03 19:23:53 go back to creations chat
+plane-crazy 2023-07-03 19:24:30 argue here = mods awaken
+creations-chat 2023-07-03 19:24:50 which one
+plane-crazy 2023-07-03 19:26:54 aftersock is awake
+plane-crazy 2023-07-03 19:27:29 i would love to
+plane-crazy 2023-07-03 19:27:33 slaughter demonic forces
+creations-chat 2023-07-03 19:56:04 no
+delete yours
+creations-chat 2023-07-03 20:02:11 lower your standards
+creations-chat 2023-07-03 20:04:42 your an expert designer.
+your opinion does not matter.
+your a dead to me.
+creations-chat 2023-07-03 20:08:23 by the way
+creations-chat 2023-07-03 20:17:42 your life (garbage)
+creations-chat 2023-07-03 20:33:58 bros insults revolve around age
+creations-chat 2023-07-03 20:44:17 so how can i improve my builds, be constructive not an ass
+
+and nesko,
+give me an idea for a plane.
+
+fill this out.
+
+wings: 
+vertical stabilizers: 
+engines: 
+general type (attack, bomber, recon, fighter, cargo):
+creations-chat 2023-07-03 20:47:57 i go for quality way over looks
+quality as in PERFORMANCE
+and all of my builds perform godlike
+creations-chat 2023-07-03 20:51:43 you try making one EXACTLY like the one in the picture
+if you get one pixel of it wrong im gonna shit on you
+creations-chat 2023-07-03 20:55:51 wheres the marking? wheres the larger taper on the engines? where are the aerodynamic sticks on the sides of the wings? and why are the horiz stabilizers so high up?(regarding the first german plane)
+<@738448924368568360> and you are criticizing me over that
+creations-chat 2023-07-03 20:57:55 performance over sexiness
+creations-chat 2023-07-03 21:01:44 pvp is awful because you fucken suck at it
+creations-chat 2023-07-03 21:04:06 see? no real answer tell me why pvp is bad. im not going anywhere until you tell me.
+creations-chat 2023-07-03 21:06:29 your lookin all pretty for the cameras but once you get in a dogfight, you die of panic before my f22 shoots you down just like those spy balloons learned the hard way
+creations-chat 2023-07-03 21:09:42 no im talking about a plane from scratch. give me an idea. one thats NOT production and was never a prototype irl
+creations-chat 2023-07-03 21:12:44 1v1  me later
+creations-chat 2023-07-03 21:16:14 dont judge a book by its cover.
+creations-chat 2023-07-03 21:18:26 i know what trapdoors are and i actually used them to cover up the wings on one of my planes
+interior is tnt, exterior is ice. exterior is trapdoors, wing covers are trapdoors.
+creations-chat 2023-07-03 21:21:31 i never said i used the trapdoors on the f22.
+
+also submarine pvp is best, would love to see the billio-
+im making mine currently
+creations-chat 2023-07-03 21:24:06 working on the wings now
+creations-chat 2023-07-03 21:27:00 im making a new one
+creations-chat 2023-07-03 21:30:29 20-30 mins im almost done
+creations-chat 2023-07-03 21:49:42 <@641439058719014913> alright whats your username
+creations-chat 2023-07-03 21:52:08 my screen recorder has like 5 minutes of recording then it crashes, also sent a frend req
+creations-chat 2023-07-03 22:03:10 i shot a firework and it instantly took off only my rockets and firework pod
+on one wing
+no delay at all
+creations-chat 2023-07-03 22:05:30 ok public servers respawn rockets i can confirm
+creations-chat 2023-07-03 22:38:49 i jsut realized that thats fucking disgusting
+1 wides make me droopy
+creations-chat 2023-07-03 22:43:30 ok boomer
+at least he wasnt a wiggly worm head about it'
+creations-chat 2023-07-03 22:51:54 fat motherfucker
+bruh someones playing the soviet anthem with horns
+creations-chat 2023-07-03 22:59:34 ^^^^^^^^
+creations-chat 2023-07-03 23:01:35 what the fuck happened
+creations-chat 2023-07-03 23:05:21 god bless america
+creations-chat 2023-07-03 23:10:36 our grandfathers didnt die for femmies, goths, or zoophiles
+they died for our freedom
+creations-chat 2023-07-03 23:15:37 femboy
+
+also june is dday month
+creations-chat 2023-07-03 23:52:00 its you
+creations-chat 2023-07-04 00:23:51 tf even is this
+creations-chat 2023-07-04 05:04:12 all of you that arent cst can take a long walk off a short pier your a dead to me
+creations-chat 2023-07-04 05:06:56 you arent cst fuck off
+god damn commie
+also someone built the titan crash 💀
+creations-chat 2023-07-04 05:12:39 you dont use a timezone dipshit
+creations-chat 2023-07-04 05:19:01 unde check me so i can shujt these brainless shitters up|
+i could make an alt and yall dumbasses wouldnt suspect a damn thing
+creations-chat 2023-07-04 05:23:11 <:zycosmoke:821821351576338534> you are making a fool out of yourself
+creations-chat 2023-07-04 05:25:54 free as in girls in american flag bikinis walking into walmart with 12 ar-15s
+creations-chat 2023-07-04 15:48:42 holy shit dude your in dauntless as well the blackhawk mission 5??????
+plane-crazy 2023-07-04 18:01:32 what the fuck
+plane-crazy 2023-07-04 18:01:46 midget
+plane-crazy 2023-07-04 18:02:11 shit
+plane-crazy 2023-07-04 18:02:43 i missed it
+plane-crazy 2023-07-04 18:02:50 becauswe i dont have a gun in the middle of my plane
+plane-crazy 2023-07-04 18:10:50 WHAT THE FUCK
+plane-crazy 2023-07-04 18:11:26 that was the gu8y who had the pp plot
+plane-crazy 2023-07-04 18:22:39 dont listen to him
+plane-crazy 2023-07-04 18:22:40 its ass
+plane-crazy 2023-07-04 18:22:42 it sucks
+plane-crazy 2023-07-04 18:22:49 he should delete it
+plane-crazy 2023-07-04 18:22:59 he should keep himself safe
+plane-crazy 2023-07-04 18:23:15 delete all your builds
+plane-crazy 2023-07-04 18:23:38 its absolutely terrible
+plane-crazy 2023-07-04 18:23:49 honestly quite ugly
+plane-crazy 2023-07-04 18:24:44 https://tenor.com/view/shoebill-shoebill-bird-bird-threat-him-gif-22043045
+plane-crazy 2023-07-04 18:24:50 shoebill.
+creations-chat 2023-07-04 18:32:57 fuck-4 (i like to get people to start arguments)
+creations-chat 2023-07-04 18:36:50 ok
+creations-chat 2023-07-04 18:44:39 we can all agree that sparkler hitboxes fucking suck
+creations-chat 2023-07-04 18:49:30 wip freebrams, hows this?
+ill send a side view when slowmode resets
+creations-chat 2023-07-04 18:51:48 side view
+creations-chat 2023-07-04 18:55:02 i tried disconnecters but they wont detach when i press the key, ive also tried using trapdoors but it looks weird af
+but the problem still lies: i cannot put the rockets anywhere
+creations-chat 2023-07-04 18:57:48 talk in dms so slowmode wont exist'
+creations-chat 2023-07-04 22:48:03 ball s
+creations-chat 2023-07-05 18:04:39 you are the corndog
+plane-crazy 2023-07-07 03:47:27 HOLY SHIT
+plane-crazy 2023-07-07 03:47:32 caught in 4j
+plane-crazy 2023-07-07 03:49:50 you dont see this often tho
+plane-crazy 2023-07-08 15:06:29 motor hat?
+plane-crazy 2023-07-08 15:14:39 i am a crackdict
+plane-crazy 2023-07-08 15:15:14 a group of shredder bugs is called food
+plane-crazy 2023-07-17 17:08:46 this mf can still fly
+plane-crazy 2023-07-17 17:57:40 try shooting it down
+plane-crazy 2023-07-17 17:57:41 bitch
+plane-crazy 2023-07-17 17:58:10 i am 102.314% confident that you will not be able to shoot it down with anything at all
+plane-crazy 2023-07-17 17:58:22 except for tnt
+plane-crazy 2023-07-17 17:58:29 but your not hitting this with tnt
+plane-crazy 2023-07-18 18:22:45 wtf happened to the hitboxes for selecting shit
+plane-crazy 2023-07-18 18:29:11 cylinder cockpit moment
+plane-crazy 2023-07-18 18:29:51 nothing
+plane-crazy 2023-07-18 18:48:34 what is up with the cylinder 2 2x2
+plane-crazy 2023-07-18 18:48:42 the hitbox is so big
+plane-crazy 2023-07-18 18:56:37 whats his user
+plane-crazy 2023-07-18 18:56:47 oh
+plane-crazy 2023-07-18 18:56:53 shit
+plane-crazy 2023-07-18 18:57:01 it happened to me too
+plane-crazy 2023-07-18 18:57:08 drum roll
+plane-crazy 2023-07-18 18:57:09 fucking
+plane-crazy 2023-07-18 18:57:10 nothing
+plane-crazy 2023-07-19 17:52:09 wtf did rickje do to the cameras
+plane-crazy 2023-07-19 17:53:17 they didnt fix anything
+plane-crazy 2023-07-19 17:53:43 bruh
+plane-crazy 2023-07-19 17:53:48 ever
+plane-crazy 2023-07-19 17:53:48 i never seen that
+plane-crazy 2023-07-19 17:53:58 is
+plane-crazy 2023-07-19 17:53:58 spawnign in
+plane-crazy 2023-07-19 17:54:01 a painin the ass
+plane-crazy 2023-07-19 17:55:00 I KNOW
+plane-crazy 2023-07-19 17:55:02 i fucking hate it
+plane-crazy 2023-07-19 17:55:03 why
+plane-crazy 2023-07-19 17:57:27 i had a dream about someone havinga  heat sensor
+plane-crazy 2023-07-19 17:57:29 in pc
+plane-crazy 2023-07-19 17:57:36 maybe heat sensor added in pc2
+plane-crazy 2023-07-19 17:57:46 as all my dreams some day come true
+plane-crazy 2023-07-19 17:59:35 idk
+plane-crazy 2023-07-19 17:59:39 i just saw it ina  config menu
+plane-crazy 2023-07-19 19:50:05 DUDE
+plane-crazy 2023-07-19 19:50:10 theyb remkove dht earrow direction thing
+plane-crazy 2023-07-19 19:50:16 what the fuck rickje
+plane-crazy 2023-07-19 20:02:36 nobody was experiencing a move tool issue
+plane-crazy 2023-07-19 20:02:40 you just fucked up the game
+plane-crazy 2023-07-19 20:03:05 i went to 100 servers
+plane-crazy 2023-07-19 20:03:08 pvp and non pvp
+plane-crazy 2023-07-19 20:03:10 and NOBODY
+plane-crazy 2023-07-19 20:03:13 EVER SAID
+plane-crazy 2023-07-19 20:03:26 that they were having issues with a move tool
+plane-crazy 2023-07-19 20:04:11 yeah everybodies dcoes

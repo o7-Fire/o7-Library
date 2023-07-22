@@ -1,0 +1,1747 @@
+The Tale of kullykiat (178681093036179456)
+general 2020-05-20 20:12:57 How do I make a suggestion?
+general 2020-05-20 20:13:03 Oh thanks fam
+bot-central 2020-05-20 20:13:11 ?shelp
+bot-central 2020-05-20 20:13:45 ?rhelp
+general 2020-05-20 20:14:38 Damnit
+general 2020-05-20 20:14:52 Wanted to suggest ball socket Motor 2's but cant.
+general 2020-05-20 20:15:01 God help me if I try to do any one of those ranks
+general 2020-05-21 02:00:50 If someones in a pilot seat, can they take control of the aircraft?
+general 2020-05-21 02:01:00 Or if its a twin fuselage, could I release controls over to them?
+general 2020-05-21 02:07:55 I need an answer please lads
+general 2020-05-21 02:08:07 I just built a F82 and need to know if the co-pilot is just for show
+general 2020-05-21 02:26:07 Also is there word of a ball socket motor 2?
+general 2020-05-21 02:26:12 Cause that would be hella
+general 2020-05-21 02:26:22 Useful for small tail gunner
+general 2020-05-21 02:26:54 Like, a ball motor
+general 2020-05-21 02:27:04 Powered.
+general 2020-05-21 02:27:11 Like the motor 2 it can track your mouse
+general 2020-05-21 02:27:14 Yeah
+general 2020-05-21 02:27:20 You know what a ball socket is, right?
+general 2020-05-21 02:27:30 Its a motor version
+general 2020-05-21 02:27:36 I was getting to that
+general 2020-05-21 02:27:43 Its for small tail gunners and gunships
+general 2020-05-21 02:27:49 It would be a whole hell of a lot easier
+general 2020-05-21 02:27:56 Especially tail gunners
+general 2020-05-21 02:28:11 Because on a bomber you dont want a massive ooga booga 2 motor setup
+general 2020-05-21 02:28:31 What?
+general 2020-05-21 02:28:59 I could tell, but what do you mean by motor lock engineering?
+general 2020-05-21 02:29:06 How does that help?
+general 2020-05-21 02:29:57 Yeah but a ball socket motor would still be really handy
+general 2020-05-21 02:31:16 Either way I still think it would be neat
+general 2020-05-21 03:05:02 Whats the pilot seat even for?
+general 2020-05-21 03:05:09 I cant seem to find something it can control
+general 2020-05-21 03:06:28 I did
+general 2020-05-21 03:06:39 I sat in the seat in some lads plane who needed a gunner
+general 2020-05-21 03:06:42 And It didnt control anything
+general 2020-05-21 03:07:01 Is it just a blue seat with a cool name?
+general 2020-05-21 03:07:02 Or?
+general 2020-05-21 03:08:43 Why have 2 seats then?
+general 2020-05-21 03:08:51 If only the builder can use it, why have 2 seats?
+general 2020-05-21 03:09:04 I cant be the only one seeing this, right?
+general 2020-05-21 03:24:50 So theres no use for a pilot seat if you arent a builder?
+plane-crazy 2020-05-21 16:11:10 I believe AMRAAM are anti-radar so they only lock onto planes with an active radar system
+plane-crazy 2020-05-21 16:11:46 https://gyazo.com/d14d046930d2a587b73f874651607d66 https://gyazo.com/f63fa00d94535ce2760a1cb373e24aa8 Also F-82/XP-82
+plane-crazy 2020-05-21 16:14:45 Droop
+plane-crazy 2020-05-21 21:49:43 konigstiger be like
+general 2020-05-24 02:48:29 We ever gonna get jets with afterburners?
+general 2020-05-24 02:49:22 Actually, yeah
+general 2020-05-24 02:49:29 Take a jet, slap a hidden rocket behind it
+general 2020-05-26 01:10:43 Where are the landing skis?
+general 2020-05-30 07:05:20 Lemme guess, nobody has made a bomb sight yet?
+general 2020-05-30 07:07:03 Better question, is there a block affected by altitude and speed?
+general 2020-05-30 07:10:28 So, what is it?
+general 2020-05-30 07:11:57 How could I use them to form a sort of sight with a camera?
+general 2020-05-30 07:12:17 I have some ideas.
+general 2020-05-30 07:14:59 Yeah but dive bombing sights are easy because the bomb doesn’t get flung very far forward
+general 2020-05-30 07:19:51 Damn
+general 2020-05-30 07:19:58 I did see something about a camera guided bomb
+general 2020-05-30 07:20:32 I don’t know
+general 2020-05-30 07:20:39 It was in creations when I looked up sight
+general 2020-05-30 07:22:27 That’s a guided missile
+general 2020-05-30 07:22:35 Yeah
+general 2020-05-30 07:22:45 Oh yeah
+general 2020-05-30 07:22:57 Why tf would you put a camera on a rocket
+general 2020-05-30 07:23:01 I know that
+general 2020-05-30 07:23:04 I’ve built em before
+general 2020-05-30 07:23:19 I just wanna bomb accurately without making a parachute bomb because god I hate those
+general 2020-05-30 07:24:18 It kinda is when your at 1400 meters in a B17
+general 2020-05-30 07:24:46 Cause if you fly below that flak or some lobotomite with a turret slathered in rockets that barely turns shoots you down
+general 2020-05-30 07:25:07 But then there’s nobody to bomb
+general 2020-05-30 07:26:05 I do but basically none of them play plane crazy
+general 2020-05-30 07:26:16 I may just slap a few control surfaces on it and call it a day
+general 2020-05-30 07:26:30 I literally just said none of my friends play plane crazy
+general 2020-05-30 07:29:15 I may just slap control surfaces on the bomb to control it just by using falling speed as it’s main accelerator
+general 2020-05-30 07:32:15 Mine is a bit, eh
+general 2020-05-30 07:32:22 It’s not pretty but it works
+general 2020-05-30 07:32:50 How do I make a suggestion?
+general 2020-05-30 07:32:55 God damnit
+bot-central 2020-05-30 07:33:05 ?shelp
+bot-central 2020-05-30 07:33:16 ?rhelp
+general 2020-05-30 07:36:45 I’ll try to send a pic of my B17 tomorrow,
+general 2020-05-30 07:36:51 It’s kinda ugly but it works.
+general 2020-05-30 07:37:00 I’m about to go to sleep
+general 2020-05-30 07:37:34 
+general 2020-05-30 07:38:39 I can’t for the love of me get propellers to work
+general 2020-05-30 07:38:44 *blades
+general 2020-05-30 07:38:51 They are too slow
+general 2020-05-30 07:39:26 Wdym more motors?
+general 2020-05-30 07:39:31 Like, stacked motors?
+general 2020-05-30 07:40:22 I thought I could stack them unless they are locked
+general 2020-05-30 07:42:34 How do I stack?
+general 2020-05-30 07:43:05 What’s the same orientation, the motors?
+general 2020-05-30 19:56:55 https://gyazo.com/e8769ac3cf7f8466e975fd40e2532b51 Remodeled my B17 as a tribute to Ye Olde Pub
+general 2020-05-30 19:57:11 Far from finished, and already looks better than my old one
+general 2020-05-30 19:57:20 (Mostly because of the tail section)
+general 2020-05-30 19:59:56 And thanks Vip for the stacked motor suggestion.
+general 2020-05-30 20:00:05 Hoping that will get my bird off the ground and steady.
+general 2020-05-30 20:01:17 Thoughts/
+general 2020-05-30 20:01:19 *?
+general 2020-05-30 20:02:56 Yeah, roblox censored Pub
+general 2020-05-30 20:03:52 I know
+general 2020-05-30 20:03:57 Just kinda sucks
+general 2020-05-30 20:05:45 I even put the name in the right spot
+general 2020-05-30 20:05:57 
+general 2020-05-30 20:06:10 Above and below the left cheek turret.
+general 2020-05-30 20:08:14 I believe there was also one on the right cheek turret.
+general 2020-05-30 20:08:39 Yeah
+general 2020-05-30 20:09:40 The story of Ye Olde Pub is that after being ravaged by flak fire, enemy planes, and losing 2 engines, a Bf 109 was about to kill it.
+general 2020-05-30 20:09:50 It didnt, because the pilot felt it wasnt honorable
+general 2020-05-30 20:10:08 So he escorted the B17 over the atlantic wall and back to england before waving off and heading back home.
+general 2020-05-30 20:10:27 The Bf 109 was piloted by Franz Stigler, and the B17 was Charlie Brown.
+general 2020-05-30 20:10:40 They met in the 90s, and I believe both died in 2008
+general 2020-05-30 20:17:46 Yep.
+general 2020-05-30 20:37:49 For the walkway inside the bomb bay, I used cutters as the walkway, and half wedge downs instead of normal half blocks for the bomb bay edges
+general 2020-05-30 20:37:54 Im not sure how to describe it
+general 2020-05-30 20:44:38 All im saying is the doors are still flush and open in 2
+general 2020-05-30 20:50:27 Screwed up the ticket for AERONAUTICAL ENGINEER [IV]
+general 2020-05-30 20:50:33 It sent blank
+general 2020-05-30 21:07:06 rank pog
+general 2020-05-30 21:07:28 There are no helium blocks
+general 2020-05-30 21:07:38 K?
+general 2020-05-30 21:08:48 https://gyazo.com/cdf2ce67c9cb15916707eac5b1aec484
+general 2020-05-30 21:09:13 https://gyazo.com/4089c4b54c461e978b2ac3003c652322
+bot-central 2020-05-30 21:11:35 ?shelp
+general 2020-05-30 21:22:05 Same
+general 2020-05-30 21:22:12 They are too ooga booga to copy my b17
+general 2020-05-30 21:22:57 Anyone notice the amount of sirenhead builds recentley?
+general 2020-05-30 21:23:57 Put a phallic shape on it
+general 2020-05-30 21:23:59 He wont build it
+general 2020-05-30 22:19:50 If I build wings out of b locks instead of panels with it still provide lift?
+general 2020-05-30 22:19:54 *blocks
+general 2020-05-30 22:20:16 Rip
+general 2020-05-30 22:51:43 They really spent all that time trying to kill the bismarck with boats and planes when they could have used tanks
+general 2020-05-30 22:52:36 Not if you dont try hard enough
+general 2020-05-30 22:52:58 Just put a few shermans on a small ship and drive by the bismarck
+general 2020-05-31 00:25:14 Update on the B17 https://gyazo.com/27a06e1d9b36ea6fa9d99fc54d2391b0
+general 2020-05-31 00:26:54 based? based on wat
+general 2020-05-31 01:19:00 My B17 slowly yaws to the left, and I dont know how to fix it
+general 2020-05-31 01:19:06 COM is centered
+general 2020-05-31 01:19:37 Nope
+general 2020-05-31 01:19:43 Its compeltely prop driven
+general 2020-05-31 01:20:00 Wdym?
+general 2020-05-31 01:24:28 Join my game
+general 2020-05-31 01:24:37 https://www.roblox.com/users/392954116/profile
+general 2020-05-31 01:24:51 Why?
+general 2020-05-31 03:32:49 I was tearing down my B17 to see what caused to lean left heavily, and when I got near the end of its dissection, the center of mass was outside the building zone
+general 2020-05-31 03:32:50 Wtf?
+general 2020-05-31 03:34:26 Is this a known glitch or?
+general 2020-05-31 03:34:44 No
+plane-crazy 2020-05-31 03:35:47 My plane kept leaning left, and when I did a teardown to figure out why, the center of mass was out of the box and to the left
+plane-crazy 2020-05-31 03:35:50 Is this a common thing/
+plane-crazy 2020-05-31 03:35:51 *?
+plane-crazy 2020-05-31 03:36:01 Can I fix it without completely rebuilding the B17?
+plane-crazy 2020-05-31 03:56:54 Can someone answer me?
+general 2020-05-31 04:00:13 Good question
+plane-crazy 2020-05-31 04:10:12 god damnit
+plane-crazy 2020-05-31 04:10:19 Already tried that
+plane-crazy 2020-05-31 04:11:30 Already tried that
+plane-crazy 2020-05-31 04:12:18 Didnt work
+plane-crazy 2020-05-31 04:12:33 Ive tried literally everything, im moreso confused as to why my center of mass is outside the building zone
+plane-crazy 2020-05-31 04:13:50 https://gyazo.com/742e2c22cee4e5152e4e31d89ce27ea5
+plane-crazy 2020-05-31 04:14:57 https://gyazo.com/ae0693ce7ab0291925c6d7a1cf16a345
+plane-crazy 2020-05-31 04:15:10 Thats what I meant
+plane-crazy 2020-05-31 04:15:12 It yaws left
+plane-crazy 2020-05-31 04:15:41 Already did that
+plane-crazy 2020-05-31 04:15:48 This never happened before.
+plane-crazy 2020-05-31 04:15:59 Ive rearranged the props a bunch.
+plane-crazy 2020-05-31 04:16:01 I did that
+plane-crazy 2020-05-31 04:16:18 Alright give me a minute
+plane-crazy 2020-05-31 04:16:22 Im playing war thunder
+plane-crazy 2020-05-31 04:17:20 I had to record that before getting into a war thunder match
+plane-crazy 2020-05-31 04:20:41 I know
+plane-crazy 2020-05-31 04:20:51 Im gonna try to
+plane-crazy 2020-05-31 04:20:56 Just give me a minute
+plane-crazy 2020-05-31 04:25:30 Didnt work
+plane-crazy 2020-05-31 04:28:26 https://gyazo.com/d3b11b587578f4ac6f4ac5133dbc5da4
+plane-crazy 2020-05-31 04:28:28 Like I said
+plane-crazy 2020-05-31 04:28:30 This is the problem
+plane-crazy 2020-05-31 04:28:43 I dont know
+plane-crazy 2020-05-31 04:29:09 https://gyazo.com/9338e191f335ee35b7938791bb9790ec
+plane-crazy 2020-05-31 04:29:48 https://gyazo.com/a2b9e8474036982e8b207dfd0a5baba7
+plane-crazy 2020-05-31 04:29:51 It gets worse
+plane-crazy 2020-05-31 04:29:52 Much worse
+plane-crazy 2020-05-31 04:29:59 Thats what I meant
+plane-crazy 2020-05-31 04:30:09 Whos rick?
+plane-crazy 2020-05-31 04:31:26 Done
+plane-crazy 2020-05-31 04:36:22 I spent so much time on that b17
+plane-crazy 2020-05-31 04:36:28 only to find out its broken
+plane-crazy 2020-05-31 04:36:29 cause
+plane-crazy 2020-05-31 04:36:31 you know
+plane-crazy 2020-05-31 04:36:38 unholy center of mass
+plane-crazy 2020-05-31 04:37:28 beef wellington
+plane-crazy 2020-05-31 04:37:31 I like it
+plane-crazy 2020-05-31 04:37:33 Its a fat pog
+plane-crazy 2020-05-31 21:20:26 https://gyazo.com/a2b9e8474036982e8b207dfd0a5baba7
+plane-crazy 2020-05-31 21:20:27 me when
+plane-crazy 2020-06-01 01:33:40 https://gyazo.com/a2b9e8474036982e8b207dfd0a5baba7
+plane-crazy 2020-06-01 01:33:44 me when
+plane-crazy 2020-06-01 01:33:57 Rick still has yet to get back to me about that.
+plane-crazy 2020-06-01 02:01:34 https://gyazo.com/a1c85bf4c9a400ec0fc13388699906b4 Guess the plane
+plane-crazy 2020-06-01 02:01:40 Also <@!217336009455566848> Check your DMs.
+plane-crazy 2020-06-01 02:01:47 Theres a mega problem with plane crazy
+plane-crazy 2020-06-01 02:06:25 Who tf has 20k members to dislike a group?
+plane-crazy 2020-06-01 02:06:40 Eltorks SCPF may have been the culprit
+plane-crazy 2020-06-01 02:09:26 I did
+plane-crazy 2020-06-01 02:09:31 Im just confused as to who did it
+plane-crazy 2020-06-01 02:34:57 Thats a sin.
+plane-crazy 2020-06-01 02:37:06 Im in love with the B18
+plane-crazy 2020-06-01 02:37:12 
+plane-crazy 2020-06-01 02:37:17 Such a tall boye
+plane-crazy 2020-06-01 02:38:18 I even designed a bomb bay for it that works like the real one
+plane-crazy 2020-06-01 02:38:19 https://gyazo.com/a0b4ae5ce9e7f5d9e4a480c240c37500
+plane-crazy 2020-06-01 02:41:35 Maybe.
+plane-crazy 2020-06-01 02:41:40 I dont do jets though
+plane-crazy 2020-06-01 02:41:46 I do ww2 stuff.
+plane-crazy 2020-06-01 05:09:18 I finished by B-18A "Bolo"
+plane-crazy 2020-06-01 05:09:20 *my
+plane-crazy 2020-06-01 05:09:25 https://gyazo.com/7f7c1acd22824496240515386f121dc8
+plane-crazy 2020-06-01 05:09:30 Completely prop driven.
+plane-crazy 2020-06-01 05:09:44 No hidden propellors, just stacked motors and a dual custom prop setup
+plane-crazy 2020-06-01 05:11:04 Im really happy with how it turned out
+plane-crazy 2020-06-01 05:11:08 https://gyazo.com/5ed59538e105d8922de970a9c6bbad23
+plane-crazy 2020-06-01 05:11:12 The dorsal and belly gunners work
+plane-crazy 2020-06-01 05:12:38 And the bomb bay is a custom, different kind of 2 door
+plane-crazy 2020-06-01 05:12:59 Unlike most bomb bays, the B-18A (And B34 as well as a few others) Had a 2 stage door system
+plane-crazy 2020-06-01 05:13:09 They were also placed a lot farther back
+plane-crazy 2020-06-01 05:13:52 https://gyazo.com/bc377dc36b8a146f4ca3729ad5f6a000
+plane-crazy 2020-06-01 05:14:27 https://gyazo.com/96414f1a9ba738b946f9e403f42bc024
+plane-crazy 2020-06-01 05:14:34 949 Block count, no helium
+plane-crazy 2020-06-01 05:14:46 I was suprised to find that it actually wants to pitch up
+plane-crazy 2020-06-01 05:14:56 So I had to use 2 10 density ballast blocks
+plane-crazy 2020-06-01 05:15:08 Each engine nacelle has 5, 50 speed same rotating motors
+plane-crazy 2020-06-01 05:15:57 The right engine spins clockwise with clockwise propellors, but the left engine spins counter clockwise with counter clockwise propellors. This counteracts the torque that would naturally make it drift right or left
+plane-crazy 2020-06-01 05:16:17 My B17 still has the glitch wherein the center of mass is outside the build zone, but Im hoping rick can help me fix it.
+plane-crazy 2020-06-01 05:16:21 Thoughts on it?
+plane-crazy 2020-06-01 05:36:52 https://gyazo.com/df512b3d2d3000944a6e80a7726e95c6
+plane-crazy 2020-06-01 05:36:55 Display model
+plane-crazy 2020-06-01 05:37:06 Turned it into a museum for people who want to know more about it
+plane-crazy 2020-06-01 05:37:19 https://gyazo.com/cc58fbf7e74650ffb4a3cfc535c1285c
+plane-crazy 2020-06-01 05:37:33 https://gyazo.com/6d5e6ac8e24937e83295c3d7317b7c90
+plane-crazy 2020-06-01 05:37:46 https://gyazo.com/9f5fa87c3e3886ea599740b931c87df2
+plane-crazy 2020-06-01 05:38:03 https://gyazo.com/9b1171734995763d98a53c58a4db6464
+plane-crazy 2020-06-01 05:38:19 
+plane-crazy 2020-06-01 05:38:41 Learn more here https://www.historynet.com/the-bolo.htm
+plane-crazy 2020-06-01 05:45:08 https://gyazo.com/cde3082f169a43263520c1cf574eedd4
+plane-crazy 2020-06-01 05:49:11 Eh, I think they understand
+plane-crazy 2020-06-01 05:49:17 What do you guys think?
+plane-crazy 2020-06-01 05:51:25 They censored second
+plane-crazy 2020-06-01 05:51:29 But is it good or bad?
+plane-crazy 2020-06-01 05:51:33 The plane I mean
+plane-crazy 2020-06-01 05:51:59 What do you mean hide the ss?
+plane-crazy 2020-06-01 05:52:08 No no no no
+plane-crazy 2020-06-01 05:52:16 The SS were the ones who found people hiding
+plane-crazy 2020-06-01 05:52:51 Eh
+plane-crazy 2020-06-01 05:53:15 But what do you think of the plane itself?
+plane-crazy 2020-06-01 19:07:02 I already did a XP-82, Spitfire, B17, and a B18A.
+plane-crazy 2020-06-01 19:07:06 What should I build now?
+plane-crazy 2020-06-01 19:07:31 I was thinking a B-25 Mitchell
+plane-crazy 2020-06-01 19:08:06 This?
+plane-crazy 2020-06-01 19:09:25 This lad?
+plane-crazy 2020-06-01 19:09:38 Alright.
+plane-crazy 2020-06-01 19:12:29 Can someone tell me what angle the 1x4 delta wing is at?
+plane-crazy 2020-06-01 19:14:35 Thanks
+plane-crazy 2020-06-01 19:17:08 https://gyazo.com/6d1b6c1ff87043d4deadf2e7d5f5c0bc
+plane-crazy 2020-06-01 19:17:18 Theres how the wings will look.
+plane-crazy 2020-06-01 19:17:24 Well, not really
+plane-crazy 2020-06-01 19:17:37 Just a demonstration showing how it works
+plane-crazy 2020-06-02 19:35:59 If I place a guided middle inside a bomb bay, will the control surfaces still have an effect on the plane?
+plane-crazy 2020-06-04 01:06:36 What if we had a massive group project wherein we constructed a bridge connecting the dock to the lunar area
+plane-crazy 2020-06-04 01:06:43 Im not sure if it would work
+plane-crazy 2020-06-04 01:07:20 Do magnets stick to other peoples magnets?
+plane-crazy 2020-06-04 01:07:31 Then how would we connect and dock it?
+plane-crazy 2020-06-04 01:08:05 How would those work?
+plane-crazy 2020-06-04 01:10:17 Ngl I kinda want to make a landing craft
+plane-crazy 2020-06-04 16:59:38 I hate the god damn apes who use the snakes and camp spawns
+plane-crazy 2020-06-04 17:00:47 The thinks that fly everywhere and either are explosive or covered in cutters
+plane-crazy 2020-06-04 17:00:54 Im assuming thats a shredder bug
+plane-crazy 2020-06-04 17:03:18 <:jonahs1Nervous:706974921711943691> im gonna shit my pants
+creations-chat 2020-06-22 07:49:05 Where can I find the firework cannon?
+plane-crazy 2020-06-22 16:03:34 I’ve just now realized how useful flares can be
+plane-crazy 2020-06-22 16:04:02 That can stop tracking rockets from tracking you and going straight for the flare instead
+plane-crazy 2020-06-22 16:04:25 With manual guided missiles your still fucked
+plane-crazy 2020-06-22 16:04:28 I know that
+plane-crazy 2020-06-22 16:04:39 But I haven’t realized how useful they could be in game
+plane-crazy 2020-06-22 16:04:50 Because of the fact there are pre built autonomous tracking missiles
+plane-crazy 2020-06-22 16:04:54 No
+plane-crazy 2020-06-22 16:04:58 But you can make them
+plane-crazy 2020-06-22 16:06:11 Disconnectors, red lights, smoke
+plane-crazy 2020-06-22 16:06:17 There are tutorials
+plane-crazy 2020-06-22 16:09:35 Not player guided ones
+plane-crazy 2020-06-22 16:09:46 Because you don’t see a flare and go wooga booga
+plane-crazy 2020-06-22 16:09:51 But close tracking rockets
+plane-crazy 2020-06-22 16:10:00 If it’s hot on your ass and you fire one
+plane-crazy 2020-06-22 16:10:19 It should theoretically get closer to the tracking area for the rocket than the plane itself
+plane-crazy 2020-06-22 16:10:31 Then it would just kinda shoot off in a direction of kill the flare
+plane-crazy 2020-06-22 16:11:47 Not smoke attracting people
+plane-crazy 2020-06-22 16:11:53 The blocks themselves
+plane-crazy 2020-06-22 16:12:05 You could make flares without smoke and have them still work
+plane-crazy 2020-06-22 16:12:09 It’s just a cool factor thing
+plane-crazy 2020-06-22 16:13:56 You could cover a massive plane in them
+plane-crazy 2020-06-22 16:14:02 And just bitch slap missles
+plane-crazy 2020-06-22 16:14:36 Water jet engine
+plane-crazy 2020-06-22 16:15:43 Gimme sonar block
+plane-crazy 2020-06-22 16:15:54 With a little GUI on your screen
+plane-crazy 2020-06-22 16:16:35 I mean, your ranked
+plane-crazy 2020-06-22 16:16:38 So go suggest it
+plane-crazy 2020-06-22 16:17:44 If simpler games can have it work, I think the lads in development could get it to work
+plane-crazy 2020-06-22 16:18:03 Or just have a massive fucking arm that is on a motor that swivels back and forth and if it stops moving you hit something
+plane-crazy 2020-06-22 16:18:12 Yeah
+plane-crazy 2020-06-22 16:18:18 That would be nice to not have that happen
+plane-crazy 2020-06-22 16:19:09 Right now I’m trying to design a massive net you can place on the back of a warship
+plane-crazy 2020-06-22 16:19:14 When released, it floats behind
+plane-crazy 2020-06-22 16:19:23 That way if an enemy sub is chasing you they get tangled and slowed down
+plane-crazy 2020-06-22 16:19:30 Or it’s a trap
+plane-crazy 2020-06-22 16:19:46 When you see the top buoys start to jiggle and dive under you’ve found your target
+plane-crazy 2020-06-22 16:20:08 Do you mind showing me?
+plane-crazy 2020-06-22 16:20:20 It pushes people lighso
+plane-crazy 2020-06-22 16:20:51 I meant the ship itself
+plane-crazy 2020-06-22 16:20:58 That sounds really fucking cool
+plane-crazy 2020-06-22 16:21:16 Yeah but why have “legitimate” options when I can just be an asshole and catch them in nets
+plane-crazy 2020-06-23 21:26:00 I have yet to figure out magnets
+plane-crazy 2020-06-23 21:26:09 Someone mind helping me on that one?
+plane-crazy 2020-06-23 21:26:55 Idk
+plane-crazy 2020-06-23 21:28:27 nvm
+plane-crazy 2020-06-23 21:28:29 figured it out
+plane-crazy 2020-06-23 21:35:51 nevermind
+plane-crazy 2020-06-23 21:35:54 how to they work
+plane-crazy 2020-06-23 23:33:39 Do you ever just make a massive ship
+plane-crazy 2020-06-23 23:33:52 And you get that warm feeling when you can stand on the port and starboard side without it tipping
+plane-crazy 2020-06-23 23:33:57 Just because of the shear weight
+plane-crazy 2020-06-23 23:34:05 Or that you dont even need ballast blocks to assist
+plane-crazy 2020-06-23 23:34:16 Also, do the propellor blades work underwater too?
+plane-crazy 2020-06-23 23:37:36 Time for a twelve motor setup just to get this beast of a dreadnought moving
+plane-crazy 2020-06-23 23:40:22 If I have enough blocks, im double layering the hull.
+plane-crazy 2020-06-23 23:40:30 Just to make this thing able to tank shots
+plane-crazy 2020-06-23 23:40:45 Do rockets set off explosives?
+plane-crazy 2020-06-23 23:45:11 Do materials have an effect on strength?
+plane-crazy 2020-06-23 23:45:16 Like, is metal stronger than wood?
+plane-crazy 2020-06-23 23:58:29 Not even a full 2/3 of the way done and its 1500 blocks.
+plane-crazy 2020-06-23 23:59:03 Guessing 3000-3500+ block count when finished.
+plane-crazy 2020-06-23 23:59:11 Even when Im using beams
+plane-crazy 2020-06-24 00:24:47 I still want to do that massive multi player bridge across the lake.
+the-dump 2020-06-25 16:54:24 
+the-dump 2020-06-25 16:58:04 no hes just very hungry
+plane-crazy 2020-06-26 00:56:12 Any suggestions for getting a massive behemoth of a ship to turn faster?
+plane-crazy 2020-06-26 00:56:28 I have 2 rudders, hidden water propellors, rockets, everything
+plane-crazy 2020-06-26 18:04:47 I need a boat guy
+plane-crazy 2020-06-26 18:05:06 I need a lad to answer a big boat question
+plane-crazy 2020-06-26 18:05:30 I got this proper phat dreadnought
+plane-crazy 2020-06-26 18:05:38 It goes at about 20 knots which I’m fine with
+plane-crazy 2020-06-26 18:05:53 But even with hidden propellers, rockets, 2 external rudders, the turning is shit
+plane-crazy 2020-06-26 18:06:11 I am
+plane-crazy 2020-06-26 18:06:23 It’s about 3780 blocks
+plane-crazy 2020-06-26 18:06:27 I’ve tried that
+plane-crazy 2020-06-26 18:06:35 It’s a big boy
+plane-crazy 2020-06-26 18:06:49 Like a proper ass clapper of a dreadnought
+plane-crazy 2020-06-26 18:06:54 I see someone and they get nae naed
+plane-crazy 2020-06-26 18:07:06 I’m working on deck mounted torpedo tubes for it aswell
+plane-crazy 2020-06-26 18:07:38 It’s a mix of German and British dreadnought designs
+plane-crazy 2020-06-26 18:07:50 The hull looks very similar to that of the RN dreadnought
+plane-crazy 2020-06-26 18:08:03 But it’s a German dreadnought with a German naval jack flag
+plane-crazy 2020-06-26 18:08:45 10 rocket deck guns, 2 per turret for a total of 4 turrets
+plane-crazy 2020-06-26 18:09:09 Used to have secondary guns embedded in the hull but got rid of them to allow the building of anti air
+plane-crazy 2020-06-26 18:09:17 Because planes are the big weakness right now
+plane-crazy 2020-06-26 18:10:35 It doesn’t help that my big brain added a second layer to the inside of the hull to allow it to tank explosives and torpedoes
+plane-crazy 2020-06-26 18:10:48 So now the turning blows mega
+plane-crazy 2020-06-26 18:13:22 I wanna turn, not do the kaiser funky and go flying
+plane-crazy 2020-06-26 18:13:41 I should add hover engines to it on the bottom
+plane-crazy 2020-06-26 18:13:45 The Flying Dutchman
+plane-crazy 2020-06-26 18:13:57 But with 405mm guns
+plane-crazy 2020-06-26 18:14:09 You gonna learn today spongebob
+plane-crazy 2020-06-26 18:15:16 Can I still get the submarine commander role?
+plane-crazy 2020-06-26 18:15:31 Cause I have a midget sub
+plane-crazy 2020-06-28 02:06:45 https://gyazo.com/46661753550c25cf00b9d08d903441f3 Dazzle camo <:jonahs1Love:706974920235679866>
+plane-crazy 2020-06-28 02:11:41 Kek
+plane-crazy 2020-06-28 02:11:51 Should I do a standard wooden deck or a prussian steel deck?
+plane-crazy 2020-06-28 02:18:18 https://gyazo.com/d2e101ca627b7bafd3668d1c7feaed8a
+plane-crazy 2020-06-28 02:18:30 that answers the question
+plane-crazy 2020-06-28 02:22:48 them some big rockets
+plane-crazy 2020-06-28 02:27:54 fat bruh
+plane-crazy 2020-06-28 02:33:00 Cant
+creations-chat 2020-06-28 05:57:20 Flares kinda work
+creations-chat 2020-06-28 05:57:28 For rockets with close tracking on
+creations-chat 2020-06-28 05:57:33 Not man guided missles
+plane-crazy 2020-06-28 06:08:32 if its not guided
+plane-crazy 2020-06-28 06:08:36 it’s a rocket
+plane-crazy 2020-06-28 06:08:42 if it’s guided
+plane-crazy 2020-06-28 06:08:45 it’s a missle
+plane-crazy 2020-06-29 05:23:54 I bet he thinks the front wings control pitch
+plane-crazy 2020-06-30 19:37:08 How do zeppelins manage to rise and lower?
+plane-crazy 2020-06-30 19:37:18 Ive tried using helium and ballast tanks, but it doesnt work.
+plane-crazy 2020-06-30 19:37:49 I was hoping it would have something to do ballast.
+plane-crazy 2020-06-30 19:37:53 Alrighty then.
+plane-crazy 2020-06-30 19:38:12 I was hoping that wouldnt be the case
+plane-crazy 2020-06-30 19:38:49 please rick man ice cone
+plane-crazy 2020-06-30 19:38:53 i beg
+plane-crazy 2020-07-01 20:15:57 zeppelin with a shit ton of bombs coming soon to a theatre near you
+plane-crazy 2020-08-19 19:26:37 Has anyone figured out a decent targeting system?
+plane-crazy 2020-08-19 19:27:40 yes
+plane-crazy 2020-08-19 19:27:45 I will do this
+plane-crazy 2020-08-21 04:18:45 Is there a ground effect in this game? And no I dont mean using hover thrusters.
+plane-crazy 2020-08-21 04:23:26 cringe
+bot-central 2020-08-21 19:28:02 !expertservers
+bot-central 2020-08-21 19:28:06 shite
+bot-central 2020-08-21 19:28:12 !servers
+bot-central 2020-08-21 19:28:20 Thx cutie ❤️
+plane-crazy 2020-08-22 08:29:43 this games torque systems make me want to rip my hair out
+plane-crazy 2020-08-22 08:30:20 When I try to cyclic forward it just goes “durr cringe” and shits it’s pants
+plane-crazy 2020-08-22 08:30:40 <:PogStare:699130318510227537>
+plane-crazy 2020-08-27 03:38:03 pp lol
+creations-chat 2020-09-03 18:12:25 The side armor on <@!283622814370758656> 's tank gives me Panzer 3 Ausf M vibes
+creations-chat 2020-09-03 18:12:48 
+plane-crazy 2020-09-11 21:53:53 For overlapping road wheels like on the tiger and panther, what suspension should I use?
+plane-crazy 2020-09-11 22:05:10 does anybody know a good suspension for overlapping road wheels
+plane-crazy 2020-09-11 22:42:24 https://gyazo.com/1ebdfd142938cb0762fd4e903942bee0 Sturmtiger barrel done
+plane-crazy 2020-09-11 22:42:30 Improvement definetly needed.
+plane-crazy 2020-09-11 22:42:44 But I dont know how to improve it.
+plane-crazy 2020-09-11 22:44:26 https://gyazo.com/208f46e1719cd56f43b27c5027c5b266
+plane-crazy 2020-09-11 22:44:33 
+plane-crazy 2020-09-11 22:44:35 Which one is better?
+plane-crazy 2020-09-11 22:56:06 Alright
+plane-crazy 2020-09-12 04:09:46 https://gyazo.com/26daa64df4a1de067d3f39dc6b5f5de3 Shitty Sturmtiger finished.
+plane-crazy 2020-09-12 04:14:18 I am angry
+plane-crazy 2020-09-12 05:36:49 So, the firework cannot be obtained, right?
+plane-crazy 2020-09-12 05:37:16 I hope so.
+plane-crazy 2020-09-12 06:27:25 Really liked <@456226577798135808> 's Geschützewagen Tiger so I thought id make my own, but i loved the gun design so decided to use it
+plane-crazy 2020-09-12 06:27:29 https://gyazo.com/09af10d86b607b5e4bd90d6223ac1190
+plane-crazy 2020-09-12 06:30:43 Flying wing designs
+plane-crazy 2020-09-12 06:30:45 Also flaps
+plane-crazy 2020-09-16 23:44:36 What exactly is TNT armor?
+plane-crazy 2020-09-16 23:44:41 Is it reactive armor?
+plane-crazy 2020-09-16 23:44:49 Or just armor thats good against tnt
+plane-crazy 2020-09-16 23:44:56 Oh.
+plane-crazy 2020-09-16 23:45:02 Thats actually kinda cool
+plane-crazy 2020-09-16 23:46:11 TNT armor would be good and effective Schürzen
+plane-crazy 2020-09-16 23:49:15 Triforce
+plane-crazy 2020-09-16 23:49:16 Buddy
+plane-crazy 2020-09-16 23:49:17 Stop
+plane-crazy 2020-09-16 23:49:30 Yeah.
+plane-crazy 2020-09-16 23:50:24 Triforce please
+plane-crazy 2020-09-16 23:50:26 just shut
+plane-crazy 2020-09-16 23:50:34 What
+plane-crazy 2020-09-16 23:50:35 is that?
+plane-crazy 2020-09-16 23:50:38 Im curious
+plane-crazy 2020-09-16 23:50:42 <@!392778761701031947>
+plane-crazy 2020-09-16 23:50:52 Shit.
+plane-crazy 2020-09-16 23:50:53 Its shit.
+plane-crazy 2020-09-16 23:51:05 Is it explosives?
+plane-crazy 2020-09-16 23:52:32 So its like a leopard if it was just armed with nothing but ditch posts
+plane-crazy 2020-09-16 23:53:44 Engine
+plane-crazy 2020-09-16 23:53:46 Thats how
+plane-crazy 2020-09-16 23:54:13 Stacked motors
+plane-crazy 2020-09-16 23:54:25 Enough space on the inside to spin freely
+plane-crazy 2020-09-16 23:55:20 Take a motor
+plane-crazy 2020-09-16 23:55:24 Put it on another one
+plane-crazy 2020-09-16 23:55:35 Yes
+plane-crazy 2020-09-16 23:55:56 If they both rotate in the same direction and are both set to the same speed it doubles it
+plane-crazy 2020-09-16 23:56:06 Then triples
+plane-crazy 2020-09-16 23:56:08 Quadruples
+plane-crazy 2020-09-16 23:56:10 Quintuples
+plane-crazy 2020-09-16 23:56:12 Etc
+plane-crazy 2020-09-16 23:56:53 No
+plane-crazy 2020-09-16 23:57:32 Add motors, adjust motor speeds to your needs
+plane-crazy 2020-09-16 23:57:47 They look cool as fuck
+plane-crazy 2020-09-16 23:57:49 Also speed
+plane-crazy 2020-09-16 23:58:04 Also cooler engine nacelles
+plane-crazy 2020-09-16 23:58:22 Yeah but some of us dont like using hidden engines like that
+plane-crazy 2020-09-17 00:00:34 Bullshit
+plane-crazy 2020-09-17 00:10:01 Not lookin very aerodynamic
+plane-crazy 2020-09-17 00:10:06 Kelekky
+plane-crazy 2020-09-17 00:10:13 Go count yourself
+plane-crazy 2020-09-17 00:10:22 They wanna know how many blocks is a plot
+plane-crazy 2020-09-17 00:10:31 I dont fuckin know
+plane-crazy 2020-09-17 02:50:16 How will we stop them?
+plane-crazy 2020-09-17 06:29:34 > someone make the tsar tank
+<@!239052650446979082>  your wish is my command
+plane-crazy 2020-09-17 06:32:12 Also I’m making a nuclear submarine to launch offshore assaults on shredder hordes with missles
+plane-crazy 2020-09-17 06:34:20 Do not disrespect the tsar tank woman
+plane-crazy 2020-09-17 06:46:26 <@!721908663694131281> what design did you use for those missles? I understand they use stacking, but if you don’t mind I’d like to use it for my sub
+plane-crazy 2020-09-18 22:38:43 Yo if someone has a large ship I need to test my "Fritz X" bomb I made
+plane-crazy 2020-09-18 23:46:00 Anyone know how to make the exhaust pipes like on the warhawk and apache
+plane-crazy 2020-09-18 23:48:49 thx
+plane-crazy 2020-09-19 05:59:58 https://gyazo.com/ca7cc9bf65917fcb459938ec20a76fb3 Karl gerat inbound
+plane-crazy 2020-09-19 06:01:26 
+plane-crazy 2020-09-19 06:01:53 I want there to be a hole.
+plane-crazy 2020-09-19 06:02:04 Its pure chonk requires it
+plane-crazy 2020-09-19 06:03:16 https://gyazo.com/a5f27a4f7dfa677c158dc3471362236a
+plane-crazy 2020-09-19 06:03:22 Its hideous
+plane-crazy 2020-09-19 06:03:28 Squared barrel pog
+plane-crazy 2020-09-19 22:20:58 Should I make the ammunition vehicle that carried the extra shells for the gerat?
+plane-crazy 2020-09-19 22:21:06 > meme
+<@!615356321340063784> Was that addressing me?
+plane-crazy 2020-09-19 22:21:27 Oh
+plane-crazy 2020-09-19 22:21:49 I know one thing to make the short barreled variant more cursed
+plane-crazy 2020-09-19 22:22:23 Railway transport variant
+plane-crazy 2020-09-19 22:46:59 How do I stop the motor from twitching and unfolding for like half a second before folding again?
+plane-crazy 2020-09-19 22:47:16 Alright
+plane-crazy 2020-09-19 22:50:02 Im using motor 2s
+plane-crazy 2020-09-19 22:50:11 Cant lock and torque aint helpin
+plane-crazy 2020-09-19 22:58:37 I did it
+plane-crazy 2020-09-19 22:58:41 I did the cursed thing
+plane-crazy 2020-09-19 22:58:45 
+plane-crazy 2020-09-19 23:03:25 Yeah
+plane-crazy 2020-09-19 23:03:37 Should I also make the ammunition carrier that acompanied it?
+plane-crazy 2020-09-19 23:03:40 
+plane-crazy 2020-09-19 23:04:40 fahrgestell munitionsshlepper
+plane-crazy 2020-09-19 23:07:19 Dont answer that question
+plane-crazy 2020-09-19 23:07:26 I think I know what you wanna do
+plane-crazy 2020-09-19 23:13:29 I wish I could make it so it actually fires a massive shell
+plane-crazy 2020-09-19 23:13:37 I tried but it looked like ass
+creations-chat 2020-09-19 23:37:45 <@!617068069034000394> Nice pacific rim reference
+creations-chat 2020-09-19 23:37:57 nyoom
+plane-crazy 2020-09-19 23:39:09 Get a little more decoration and it would be perfect
+plane-crazy 2020-09-19 23:39:13 It also looks a little stubby
+plane-crazy 2020-09-19 23:41:10 Hm?
+plane-crazy 2020-09-19 23:41:23 rip
+plane-crazy 2020-09-19 23:41:38 idk
+plane-crazy 2020-09-20 05:57:15 How do I make those red deck paint strips with the iron cross like on the Bismarck and prinz eugen?
+plane-crazy 2020-09-21 01:27:10 Any ideas for hunting submarines?
+plane-crazy 2020-09-21 01:27:18 Aside from a giant spinning stick
+plane-crazy 2020-09-21 01:32:25 Im sorry what?
+plane-crazy 2020-09-21 01:32:28 Elaborate.
+plane-crazy 2020-09-21 01:33:21 Thanks dad
+plane-crazy 2020-09-21 01:34:18 Legacy?
+plane-crazy 2020-09-21 01:34:26 Or normal
+plane-crazy 2020-09-21 01:34:39 No
+plane-crazy 2020-09-21 01:34:42 <@!645128367611445248>
+plane-crazy 2020-09-21 01:34:44 Its not working.
+plane-crazy 2020-09-21 01:35:00 10 i think
+plane-crazy 2020-09-21 01:35:10 Its not.
+plane-crazy 2020-09-21 01:37:23 Its not invisible
+plane-crazy 2020-09-21 01:37:25 Its kinda
+plane-crazy 2020-09-21 01:37:26 Weird
+plane-crazy 2020-09-21 01:37:28 Like blue
+plane-crazy 2020-09-21 01:38:04 https://gyazo.com/6cb6ee1056f0bb685f9f328eba46abba
+plane-crazy 2020-09-21 01:38:28 I surfaced
+plane-crazy 2020-09-21 01:38:30 Its crystal clear
+plane-crazy 2020-09-21 01:39:21 Im at periscope depth
+plane-crazy 2020-09-21 01:39:25 The camera is above the water
+plane-crazy 2020-09-21 01:39:27 Kinda
+plane-crazy 2020-09-21 01:39:32 And its clear
+plane-crazy 2020-09-21 01:39:33 Invisible
+plane-crazy 2020-09-21 01:39:37 As if no water was there
+plane-crazy 2020-09-21 01:39:39 Its working
+plane-crazy 2020-09-21 01:40:08 y tho
+plane-crazy 2020-09-21 01:40:09 its workin
+plane-crazy 2020-09-21 05:19:14 https://gyazo.com/382bd33e2ab0b92fb4ccf4a5d10b9f6a prinz eugen hull
+plane-crazy 2020-09-21 05:20:55 doing that rn
+plane-crazy 2020-09-21 05:21:02 old hull was chunky and shit
+plane-crazy 2020-09-21 05:21:26 https://gyazo.com/66a3c4a5af56d12bff975b8a7b5421bc
+plane-crazy 2020-09-21 05:22:12 reference
+plane-crazy 2020-09-21 05:22:20 
+plane-crazy 2020-09-21 05:22:49 had to do that before sending
+plane-crazy 2020-09-21 05:22:58 
+plane-crazy 2020-09-21 05:23:44 also fuck the us navy
+plane-crazy 2020-09-21 05:23:55 they took the eugen and used it as an atom bomb target for bikini atoll
+plane-crazy 2020-09-21 05:24:07 until they actually reintroduce battleships fuck the us navy
+plane-crazy 2020-09-21 05:24:10 all my homies hate the us navy
+plane-crazy 2020-09-21 05:24:19 except aircraft carriers and their planes thats pretty sick
+plane-crazy 2020-09-21 05:24:22 subs too
+plane-crazy 2020-09-21 05:24:51 idk
+plane-crazy 2020-09-21 05:25:09 and the funny things is the same people who did that said "no wait dont scrap the bismarcks corpse"
+plane-crazy 2020-09-21 05:25:37 I would love to see the bismarck be lifted from its watery grave and refurbished
+plane-crazy 2020-09-21 05:26:06 though I doubt we can
+plane-crazy 2020-09-21 05:27:23 noo!!!!11!!!!
+plane-crazy 2020-09-21 05:27:39 I uh mentioned the funny symbol with the same !!!
+plane-crazy 2020-09-21 05:27:53 i know
+plane-crazy 2020-09-21 05:28:00 oh?
+plane-crazy 2020-09-21 05:28:06 The gods have spoken
+plane-crazy 2020-09-21 05:28:10 I was making a funny
+plane-crazy 2020-09-21 05:34:15 One can only imagine the souls still there.
+plane-crazy 2020-09-21 05:36:24 Ngl looks sick as fuck
+plane-crazy 2020-09-21 05:36:51 nyoom
+plane-crazy 2020-09-21 05:36:53 death stingray
+plane-crazy 2020-09-21 05:38:17 Death stringray that doesnt even have to shoot
+plane-crazy 2020-09-21 05:38:34 ngl late night mutahar really helps me in this game
+plane-crazy 2020-09-21 05:38:37 death stingray
+plane-crazy 2020-09-21 05:39:20 bruh
+plane-crazy 2020-09-21 05:39:25 why do i see so many siren heads
+plane-crazy 2020-09-21 05:39:29 like it died off for a bit
+plane-crazy 2020-09-21 05:39:32 then boom
+plane-crazy 2020-09-21 05:39:35 instant resurgence
+plane-crazy 2020-09-21 05:40:09 fly up
+plane-crazy 2020-09-21 05:40:31 im good at the vto not the l
+plane-crazy 2020-09-21 05:41:43 VTOL isnt really my thing in this
+plane-crazy 2020-09-21 05:41:53 Which is weird because im really good with the F-45A in VTOL VR
+plane-crazy 2020-09-21 05:42:06 But I guess flying one with engineered controls and not roblox lego game is a bit different
+plane-crazy 2020-09-21 05:42:18 hm?
+plane-crazy 2020-09-21 05:42:25 Elaborate.
+plane-crazy 2020-09-21 05:51:05 https://gyazo.com/6d1321de0fd9f6fdc602d40b5c4a01af?token=0bd32b1669bf60f0cb4f46d256954873
+plane-crazy 2020-09-21 05:51:05 funny symbol added
+plane-crazy 2020-09-21 05:52:53 deck painted too.
+plane-crazy 2020-09-21 05:54:52 after i took the pic i mean
+plane-crazy 2020-09-21 05:54:57 the whole thing is painted not just 1/3
+plane-crazy 2020-09-21 06:34:52 so uh
+plane-crazy 2020-09-21 06:35:02 mods please tell me so I can replace it
+plane-crazy 2020-09-21 06:35:08 https://gyazo.com/7068a1828c98be098936d681fa2cccd6
+plane-crazy 2020-09-21 06:35:10 Naval flags.
+plane-crazy 2020-09-21 06:35:13 Is that okay?
+plane-crazy 2020-09-21 06:38:28 I dont wanna get banned
+plane-crazy 2020-09-21 06:38:35 So is this okay?
+plane-crazy 2020-09-21 06:39:05 Poggers
+plane-crazy 2020-09-21 06:39:09 Thanks dad
+plane-crazy 2020-09-21 06:40:23 Unless
+plane-crazy 2020-09-21 06:40:26 Brother?
+plane-crazy 2020-09-21 06:40:44 <:weestCHOMP:564226688674955275>
+plane-crazy 2020-09-21 06:41:19 Honestly suprised femboy wasnt censored
+plane-crazy 2020-09-21 06:42:15 well if you said the words japanese and femboy in the same sentence you only got one right
+plane-crazy 2020-09-21 06:42:19 Im red white and true
+plane-crazy 2020-09-21 06:42:51 tanks
+plane-crazy 2020-09-21 06:42:51 boats
+plane-crazy 2020-09-21 06:42:52 planes
+plane-crazy 2020-09-21 06:42:57 cool shit aside from helis
+plane-crazy 2020-09-21 06:42:58 no
+plane-crazy 2020-09-21 06:43:01 im shit with jets
+plane-crazy 2020-09-21 06:43:13 I plead the 5th
+plane-crazy 2020-09-21 06:43:18 No i dont
+plane-crazy 2020-09-21 06:43:29 self-incrimination
+plane-crazy 2020-09-21 06:43:46 was it someone standing on an office chair without secured wheels meaning they could crack their head
+plane-crazy 2020-09-21 06:43:49 cause thats nsfw
+plane-crazy 2020-09-21 06:43:56 Or
+plane-crazy 2020-09-21 06:43:57 wait
+plane-crazy 2020-09-21 06:43:58 oh no
+plane-crazy 2020-09-21 06:44:00 oh no
+plane-crazy 2020-09-21 06:44:13 you uh
+plane-crazy 2020-09-21 06:44:19 lol
+plane-crazy 2020-09-21 06:44:23 tank suppresor
+plane-crazy 2020-09-21 06:45:13 delete what
+plane-crazy 2020-09-21 06:45:20 ohhh
+plane-crazy 2020-09-21 06:45:23 yeah good call
+plane-crazy 2020-09-21 06:52:36 had uh
+plane-crazy 2020-09-21 06:52:40 had my spotify goin
+plane-crazy 2020-09-21 06:52:49 and i had a youtube tab of muted bismarck music video
+plane-crazy 2020-09-21 06:52:55 so as the bismarck sank
+plane-crazy 2020-09-21 06:53:05 "Im a scat man! Skibidibidododop"
+plane-crazy 2020-09-21 06:53:28 thank you spotify
+plane-crazy 2020-09-21 07:19:23 Leopard shark
+plane-crazy 2020-09-21 07:19:30 Leopard 2A5 shark
+plane-crazy 2020-09-21 07:19:47 show mercy
+plane-crazy 2020-09-21 07:21:16 idk
+plane-crazy 2020-09-21 07:21:24 regular suspension pretty pog
+plane-crazy 2020-09-21 07:24:16 visual i think
+plane-crazy 2020-09-21 07:24:18 dont quote me on that
+plane-crazy 2020-09-21 07:38:51 Do ballast tanks at all help with preventing your ship from listing?
+plane-crazy 2020-09-21 08:07:29 https://gyazo.com/b343b4a0f7dd4b9d0ad013b55fe1400c?token=8b7a0fb906cae7e3968f3a837f2fef4a
+plane-crazy 2020-09-21 08:07:32 nutsack gaming moment
+plane-crazy 2020-09-21 08:08:02 yes.
+plane-crazy 2020-09-21 08:08:07 im too shit at angle hulls
+plane-crazy 2020-09-21 08:16:36 False
+plane-crazy 2020-09-21 08:18:02 Easy to kill
+plane-crazy 2020-09-21 08:18:06 Big boat hard
+plane-crazy 2020-09-21 08:18:19 Especially if tnt armor or double hull
+plane-crazy 2020-09-21 08:19:10 To be fair that kills anything
+plane-crazy 2020-09-21 08:19:26 If you have a friend you can maintain air superiority
+plane-crazy 2020-09-21 08:19:41 Or have sick ass surface to air missles
+plane-crazy 2020-09-21 08:20:10 I sleep
+plane-crazy 2020-09-21 08:23:21 Dumb
+plane-crazy 2020-09-21 08:23:31 Imagine not having thermonuclear warheads
+plane-crazy 2020-09-21 18:35:36 bruh
+plane-crazy 2020-09-21 18:35:44 i looked up reference images of the prinz eugen
+plane-crazy 2020-09-21 18:35:48 all i see are azur lane
+plane-crazy 2020-09-21 18:36:42 i played it once just cause the combat seemed cool but its sub par
+plane-crazy 2020-09-21 18:36:58 the only chances of you getting a good fight are 1 in a million
+plane-crazy 2020-09-21 18:38:55 i have a f-82
+plane-crazy 2020-09-21 18:39:02 but no p51
+plane-crazy 2020-09-21 18:39:12 im also doing math rn
+plane-crazy 2020-09-21 21:02:05 AR 196 done https://gyazo.com/9624fff417629220519d9bff21d0369e
+plane-crazy 2020-09-21 21:02:39 Gotta paint it
+plane-crazy 2020-09-21 21:09:43 yeah
+plane-crazy 2020-09-21 21:10:01 Mind you those are 5 inch guns
+plane-crazy 2020-09-21 21:10:05 Its just a heavy cruiser
+plane-crazy 2020-09-21 21:10:25 Yeah well the prinz eugen had em
+plane-crazy 2020-09-21 21:10:37 While I do agree, 5 inch guns have their place
+plane-crazy 2020-09-21 21:12:42 hamburber
+plane-crazy 2020-09-21 21:36:13 Suicide squad of shredder bugs
+plane-crazy 2020-09-21 21:36:22 Shredder bugs that vow to kill shredder bugs
+plane-crazy 2020-09-21 21:37:13 A wrong killing the other wrong makes them a little less wrong
+plane-crazy 2020-09-21 21:37:16 they are still shredder bugs
+plane-crazy 2020-09-21 21:37:20 But its for the greater good
+plane-crazy 2020-09-22 03:15:42 Do spotlights not work?
+plane-crazy 2020-09-22 03:15:55 They arent for me.
+plane-crazy 2020-09-22 03:16:04 Alright well how do I use em?
+plane-crazy 2020-09-22 03:17:50 please
+plane-crazy 2020-09-22 03:17:54 someone just explain the spotlight
+plane-crazy 2020-09-22 03:18:22 its night
+plane-crazy 2020-09-22 03:19:30 To be honest no
+plane-crazy 2020-09-22 03:21:02 ok they work
+plane-crazy 2020-09-22 03:21:04 thanks
+plane-crazy 2020-09-22 03:23:13 ngl tank is kinda pepega
+plane-crazy 2020-09-22 03:23:23 i havent even been here long and I see that he is
+creations-chat 2020-09-22 03:40:24 Im aware the super structure is a little
+creations-chat 2020-09-22 03:40:26 Tall
+creations-chat 2020-09-22 03:43:40 Yeah Im taking new pics
+creations-chat 2020-09-22 03:45:17 The paint doesnt help
+creations-chat 2020-09-22 04:09:19 Commie
+creations-chat 2020-09-22 05:05:11 Definite F-35
+creations-chat 2020-09-22 05:05:17 Your just not based enough
+creations-chat 2020-09-22 05:05:25 Yes.
+creations-chat 2020-09-22 05:07:16 You just dont wanna accept that the chinese copied the superior american designs
+creations-chat 2020-09-22 05:07:19 They are identical
+creations-chat 2020-09-22 05:07:24 Yes
+creations-chat 2020-09-22 05:08:20 obviously they used the tiktok data funneling to copy the upcoming f-49
+creations-chat 2020-09-22 05:08:40 dummy
+creations-chat 2020-09-22 05:09:00 I already made a Prinz Eugen
+creations-chat 2020-09-22 05:09:12 Make an admiral hipper
+creations-chat 2020-09-22 05:09:16 <@!714763671410180127>
+creations-chat 2020-09-22 05:09:22 We can be admiral hipper class buddies
+creations-chat 2020-09-22 05:14:22 It gets nervous
+creations-chat 2020-09-22 05:14:25 Dont judge it
+creations-chat 2020-09-22 06:20:45 Death stingray!
+plane-crazy 2020-09-22 07:11:52 I feel like my prinz Eugen is a little lackluster
+plane-crazy 2020-09-22 07:14:30 And here I thought I was the only femboy here
+plane-crazy 2020-09-22 07:15:11 <:weestV:564226692252565514> poor fool
+plane-crazy 2020-09-22 07:23:45 Everything
+plane-crazy 2020-09-22 07:23:51 I’m dragging you to hell with me Dad
+plane-crazy 2020-09-22 07:30:51 Squishy voice?
+plane-crazy 2020-09-22 07:31:52 Lol
+creations-chat 2020-09-22 15:41:55 I have become ship boy
+plane-crazy 2020-09-23 03:48:19 I did something awful
+plane-crazy 2020-09-23 03:49:02 i put a m230 gimbal mounted chain gun on a f16
+plane-crazy 2020-09-23 03:49:03 https://gyazo.com/03f2d879124deee64715e34e21ab7c24
+plane-crazy 2020-09-23 03:49:12 I feel gross
+bot-central 2020-09-23 21:24:30 !help
+bot-central 2020-09-23 21:24:41 !servers
+bot-central 2020-09-23 21:24:43 pogchamp
+plane-crazy 2020-09-23 22:45:27 Friendly reminder that gamer eugenix is real
+plane-crazy 2020-09-23 22:45:32 kinda
+plane-crazy 2020-09-25 18:47:47 Im gonna make a BT42
+plane-crazy 2020-09-25 18:48:05 so i can whip it without tracks
+plane-crazy 2020-09-25 18:48:21 Sakkijarven polkka moment
+plane-crazy 2020-09-25 20:28:16 > it couldnt even pen t34 in side
+<@456226577798135808> it was an assault gun, it wasnt meant for AP
+plane-crazy 2020-09-28 04:40:13 sturmgeschütz III be like
+plane-crazy 2020-09-28 04:56:03 https://gyazo.com/43b1a2390ab423e0706d54ac9b568635
+plane-crazy 2020-09-28 04:56:12 Any ideas to get good suspension for wheels like these?
+plane-crazy 2020-09-28 04:58:19 Yeah
+plane-crazy 2020-09-28 04:58:36 Just good compact suspension
+plane-crazy 2020-09-28 05:00:34 Alright
+plane-crazy 2020-09-28 06:05:09 https://gyazo.com/8f7682da75fb11dbf6cfb50990b55d36
+plane-crazy 2020-09-28 06:05:11 bruhhh
+plane-crazy 2020-09-28 06:05:14 size limits
+plane-crazy 2020-09-28 06:05:18 are gonna make me kill myself
+plane-crazy 2020-09-28 06:05:23 for a tank?
+plane-crazy 2020-09-28 06:05:33 Havent heard that before.
+plane-crazy 2020-09-28 06:08:18 Hell no
+plane-crazy 2020-09-28 06:08:27 Motor treads look cool but do not like me
+plane-crazy 2020-09-28 16:10:21 Hamboiga
+plane-crazy 2020-09-28 18:48:53 stug go brrr
+plane-crazy 2020-09-28 18:48:54 https://gyazo.com/4467e1ee7f66fa53d8d56d3c528344f7
+plane-crazy 2020-09-28 18:51:41 japan really do be japanese
+plane-crazy 2020-09-28 18:53:26 this suspension is taking forever to do
+plane-crazy 2020-09-28 18:57:58 thank you father
+plane-crazy 2020-09-28 18:58:00 praise be
+plane-crazy 2020-09-28 19:54:08 https://gyazo.com/f9170a67f1be1b2e8e881c05ff256b30
+plane-crazy 2020-09-28 19:54:10 stug go brrr
+plane-crazy 2020-09-28 19:55:03 https://gyazo.com/edd845f5f8275dac77230ffe9493553c
+plane-crazy 2020-09-29 04:47:57 Added commanders coupula, stowage rack, and a little drum for carrying whatever.
+plane-crazy 2020-09-29 19:28:59 i did another awful thing
+plane-crazy 2020-09-29 19:29:07 first of all it was my m230 chaingun on an f16
+plane-crazy 2020-09-29 19:29:15 https://gyazo.com/151c4f7b14201cf0edbc99988f5a5d86
+plane-crazy 2020-09-29 19:29:25 this bad boy got the pilgrims to plymouth rock
+plane-crazy 2020-09-30 01:23:13 <@!484529511468236802> Mind teaching me how to make HVSS
+plane-crazy 2020-09-30 01:24:13 tank
+plane-crazy 2020-09-30 01:25:30 My design was fucked
+plane-crazy 2020-09-30 01:27:09 Thanks gamer
+plane-crazy 2020-09-30 01:41:20 suspension settings?
+plane-crazy 2020-09-30 01:44:29 <@!484529511468236802>
+plane-crazy 2020-09-30 01:55:48 It aint workin.
+plane-crazy 2020-09-30 14:56:28 merkava kinda gay tho
+plane-crazy 2020-09-30 14:59:31 pretty hot ngl
+plane-crazy 2020-10-01 15:24:24 based
+plane-crazy 2020-10-01 21:08:57 bruh
+plane-crazy 2020-10-01 21:08:59 why
+plane-crazy 2020-10-01 21:08:59 train wheels
+plane-crazy 2020-10-01 21:09:04 i cant turn
+plane-crazy 2020-10-01 21:09:05 at all
+plane-crazy 2020-10-01 23:54:59 How can I do the squared section on the barrel?
+plane-crazy 2020-10-01 23:55:00 https://cdn.discordapp.com/attachments/384021699466756107/736180109727236106/72aa63c02da480c32c2b30f396e58dc7.png
+plane-crazy 2020-10-01 23:55:05 Pic for reference
+plane-crazy 2020-10-01 23:55:12 I know it uses locked motors
+plane-crazy 2020-10-01 23:58:07 Notice how on the barrel, without any gaps, there are motor bases.
+plane-crazy 2020-10-01 23:59:24 How can I do that?
+plane-crazy 2020-10-01 23:59:35 You see the squared parts right?
+plane-crazy 2020-10-01 23:59:50 I asked how I can do that.
+plane-crazy 2020-10-02 00:01:16 I wanna know how to replicate the square sections on the barrel.
+plane-crazy 2020-10-02 00:01:27 Im making a K5(E) and it has similar sections.
+plane-crazy 2020-10-02 00:02:09 Ill ask the person who made it
+plane-crazy 2020-10-02 00:02:47 ye?
+plane-crazy 2020-10-02 00:04:00 Chicken?
+plane-crazy 2020-10-02 00:04:59 <@456226577798135808> father
+plane-crazy 2020-10-02 00:05:01 assistance
+plane-crazy 2020-10-02 00:06:53 pardon?
+plane-crazy 2020-10-02 00:08:07 Im not sure I follow
+plane-crazy 2020-10-02 00:09:20 Im a little confused as to what you mean by replace the top one with motors and the bottom one with cylinders
+plane-crazy 2020-10-02 00:10:24 no habla
+plane-crazy 2020-10-02 00:11:08 en puhu espanjaa
+plane-crazy 2020-10-02 00:11:30 all i wanted to do was practice finnish
+plane-crazy 2020-10-02 00:11:31 please
+plane-crazy 2020-10-02 00:11:32 show mercy
+plane-crazy 2020-10-02 00:13:01 <@!615356321340063784> sinä prinssi rottien
+plane-crazy 2020-10-02 00:13:27 please
+plane-crazy 2020-10-02 00:13:29 show mercy
+plane-crazy 2020-10-02 00:13:34 do the poggers
+plane-crazy 2020-10-02 00:14:43 do the mario swing your arms from side to side
+plane-crazy 2020-10-02 00:19:29 based
+plane-crazy 2020-10-02 01:15:35 there
+plane-crazy 2020-10-02 01:15:38 is no reason
+plane-crazy 2020-10-02 01:15:39 to share this
+plane-crazy 2020-10-02 02:43:35 are you asking about what makes a missle a missle?
+plane-crazy 2020-10-02 16:06:48 my boy
+plane-crazy 2020-10-02 16:06:49 224
+plane-crazy 2020-10-02 16:06:56 i require your assistance
+plane-crazy 2020-10-02 16:08:14 https://cdn.discordapp.com/attachments/384021699466756107/736180109727236106/72aa63c02da480c32c2b30f396e58dc7.png
+plane-crazy 2020-10-02 16:08:19 squared barrel parts
+plane-crazy 2020-10-02 16:08:29 how
+plane-crazy 2020-10-02 16:09:50 fuck
+plane-crazy 2020-10-02 16:10:08 not based
+plane-crazy 2020-10-02 16:11:08 what
+plane-crazy 2020-10-02 16:11:11 no thats not mine
+plane-crazy 2020-10-02 16:11:21 i sent it as reference for the question
+plane-crazy 2020-10-02 16:11:23 jay made that
+plane-crazy 2020-10-02 16:12:25 i tried'
+plane-crazy 2020-10-02 16:12:27 it doesnt work
+plane-crazy 2020-10-02 17:31:55 🇫🇮
+plane-crazy 2020-10-02 17:32:02 finland is based
+plane-crazy 2020-10-02 17:32:05 not as based as the us
+plane-crazy 2020-10-02 17:32:07 but still based
+plane-crazy 2020-10-03 04:30:52 best anti tank weapons?
+plane-crazy 2020-10-03 04:31:47 i mean like to slap onto a tank destroyer
+plane-crazy 2020-10-03 04:31:56 just a shit ton of rockets and guns?
+plane-crazy 2020-10-03 04:32:19 well im making a stryker so i want mobility
+plane-crazy 2020-10-03 04:52:10 mantlet based
+plane-crazy 2020-10-03 21:08:46 https://gyazo.com/58b7b1271770160cf18e3cd4079ecb78 Rhino MGS UP so far
+plane-crazy 2020-10-03 21:09:33 I feel like I need to move the wheels up one block
+plane-crazy 2020-10-03 21:09:40 Like forward not up
+plane-crazy 2020-10-03 21:09:49 no
+plane-crazy 2020-10-03 21:09:58 I was trying to mimic camo
+plane-crazy 2020-10-03 21:10:02 But its shit
+plane-crazy 2020-10-03 21:19:11 pip
+plane-crazy 2020-10-03 21:19:20 fuck
+plane-crazy 2020-10-03 21:19:22 you beat me to it
+plane-crazy 2020-10-03 21:31:35 aaaa
+plane-crazy 2020-10-03 21:31:43 bumpy
+plane-crazy 2020-10-03 21:35:35 how make car turn?
+plane-crazy 2020-10-05 02:57:06 shell physics when
+plane-crazy 2020-10-05 02:57:26 i want spgs to work damnit
+plane-crazy 2020-10-05 16:29:24 control panels?
+plane-crazy 2020-10-05 16:29:39 oh
+plane-crazy 2020-10-05 16:29:50 i thought you meant like a control panel not control surfaces
+plane-crazy 2020-10-05 16:29:58 like a piece of steel covered in buttons
+plane-crazy 2020-10-05 16:30:08 Terrifying.
+creations-chat 2020-10-07 04:03:23 <@!525884381974233088> Looks good, but the main gun is a bit small, no?
+creations-chat 2020-10-07 04:04:17 Ah, GUP
+creations-chat 2020-10-07 04:05:06 Though the actual gun is a little small it seems too small
+creations-chat 2020-10-07 04:05:49 Take the time to
+creations-chat 2020-10-07 04:06:09 It will be much better , also is the elevation system mounted on the outside?
+creations-chat 2020-10-07 04:06:29 Like the motor controlling elevation adjustment
+creations-chat 2020-10-07 04:07:33 The guns side to side movement is usually controlled by movement of the turret or the gun itself if it’s a case mate, that is called traverse
+creations-chat 2020-10-07 04:07:51 The pitch of the gun, the up and down, is the elevation.
+creations-chat 2020-10-07 04:08:10 Yes
+creations-chat 2020-10-07 04:09:23 Yes
+creations-chat 2020-10-07 04:09:40 It is, I see
+creations-chat 2020-10-08 23:37:17 what is window
+creations-chat 2020-10-08 23:38:22 False
+creations-chat 2020-10-08 23:38:39 I dont believe that liberal bullshit
+creations-chat 2020-10-08 23:39:09 nevermind
+creations-chat 2020-10-08 23:39:28 I believe it
+creations-chat 2020-10-08 23:42:34 his name speaks the truth
+creations-chat 2020-10-08 23:43:40 🇵🇰
+plane-crazy 2020-10-10 01:02:40 Question
+plane-crazy 2020-10-10 01:02:46 If i set off tnt near other tnt
+plane-crazy 2020-10-10 01:02:49 will it explode that tnt?
+plane-crazy 2020-10-10 01:03:19 shit
+plane-crazy 2020-10-10 01:03:39 is there a way to have blast pressure without it exploding stuff and still be able to propel something
+plane-crazy 2020-10-10 01:05:00 yeah but i was gonna make a howitzer that utilizes the explosive force to propel a shell
+plane-crazy 2020-10-10 01:05:12 but if thats the only way for it to work then I will use it
+plane-crazy 2020-10-10 01:19:02 What exactly does ignore self do?
+plane-crazy 2020-10-10 01:19:11 Does it not damage your parts?
+general 2020-10-10 19:31:53 adopt me must be removed
+general 2020-10-10 19:32:23 otaku = weeb and you cannot tell me otherwise
+plane-crazy 2020-10-11 18:43:34 any tips for MLRS?
+bot-central 2020-10-11 19:01:10 &servers
+bot-central 2020-10-11 19:01:12 fuck
+bot-central 2020-10-11 19:01:18 !servers
+plane-crazy 2020-10-11 23:16:06 swashplates hurt my brain
+plane-crazy 2020-10-12 06:37:30 Bro it’s 14:35 go to bed
+creations-chat 2020-10-13 03:53:50 > How is the artillery tank called
+<@!672135256958173225>  Artillery that can move itself is called a Self Propelled Gun, and infantry support artillery able to move itself typically on a tank chassis is called an assault gun
+creations-chat 2020-10-13 03:54:45 > bt7 artillery version
+@Idkwhattoput#3889  it’s real, look up the BT-42
+creations-chat 2020-10-13 16:31:41 homo boat
+creations-chat 2020-10-13 16:31:58 all aboard
+creations-chat 2020-10-13 16:33:23 Better dead than red
+creations-chat 2020-10-14 02:05:14 <@!558406471067500614> you realize the point of creations is to judge creations right
+creations-chat 2020-10-14 02:05:49 like thats the reason upvotes exist
+creations-chat 2020-10-14 02:06:04 and downvotes too
+creations-chat 2020-10-14 02:07:59 me when attempting the Rhino MGS UP
+creations-chat 2020-10-14 02:09:21 yeah
+creations-chat 2020-10-14 02:09:48 very effective at sniping t140ks tho
+creations-chat 2020-10-14 02:24:54 p
+plane-crazy 2020-10-15 04:24:46 your mother
+plane-crazy 2020-10-15 04:25:01 Your uncle
+plane-crazy 2020-10-15 04:25:05 Checkmate
+plane-crazy 2020-10-15 04:25:27 Silence
+plane-crazy 2020-10-15 18:17:41 how tf does the motor lock circle work
+plane-crazy 2020-10-15 18:17:44 like using blocks for it
+plane-crazy 2020-10-15 18:53:13 fr tho how do you make round objects with motor locked blocks
+plane-crazy 2020-10-15 18:55:01 how tho
+plane-crazy 2020-10-15 19:00:40 hmm
+plane-crazy 2020-10-15 19:00:47 very well i will attempt this
+bug-reports 2020-10-19 23:35:01 > I came into this server to report a problem. There appears to be something wrong with the explosive blocks actually blowing up your personal buildings. Sometimes it doesn't, sometimes it does.
+<@!335853079050190850> When you spawn in you have a short grace period of no damage.
+creations-chat 2020-10-19 23:37:21 > why. Am. I. Still. AWAKE
+<@456226577798135808> sleep woman
+plane-crazy 2020-10-20 18:01:38 the game is punishing him for not reading suggestions
+plane-crazy 2020-10-20 20:11:54 any news as to whether or not fireworks are gonna come back?
+plane-crazy 2020-10-31 06:32:55 Nuts, clackers even.
+plane-crazy 2020-10-31 06:32:58 Balls if you will
+plane-crazy 2020-10-31 06:33:04 The sack if you are so inclined
+creations-chat 2020-11-02 05:34:35 The problem is your motors turn at way to steep of an angle, about 45 degrees
+creations-chat 2020-11-03 17:18:18 dumbass even **tried** to do @ everyone
+creations-chat 2020-11-03 17:19:19 thats why i said he tried to
+general 2020-11-04 19:02:38 Not again
+creations-chat 2020-11-04 20:19:02 <@!535883244323733524> self upvote cringe
+creations-chat 2020-11-05 04:56:29 <@!565165316116578324> can you send a video of the loading process? I am absolutely obsessed with how it works
+plane-crazy 2020-11-06 03:59:00 sign treads
+plane-crazy 2020-11-06 03:59:01 how
+plane-crazy 2020-11-06 04:20:32 bruh
+plane-crazy 2020-11-06 04:20:48 i used motor lock for my tank turret
+plane-crazy 2020-11-06 04:20:55 it doesnt traverse anymore
+plane-crazy 2020-11-06 04:21:00 every block is ice
+plane-crazy 2020-11-06 04:21:06 cranked the hell out of torque
+plane-crazy 2020-11-06 04:21:56 i used a motor with motor lock
+plane-crazy 2020-11-06 04:21:58 the second i add it
+plane-crazy 2020-11-06 04:22:02 it doesnt traverse
+plane-crazy 2020-11-06 04:22:04 without it its fine
+plane-crazy 2020-11-06 04:22:11 i think its a friction problem
+plane-crazy 2020-11-06 04:24:36 the motor 2 rotates a okay without the motor locks
+plane-crazy 2020-11-06 04:24:49 but the second i add the motor with lock it just go brrr
+plane-crazy 2020-11-06 04:27:26 i dont tho
+plane-crazy 2020-11-06 04:27:50 nvm yes i did
+plane-crazy 2020-11-06 04:27:52 oo
+plane-crazy 2020-11-06 04:27:52 me full ape
+plane-crazy 2020-11-06 04:27:53 monke
+plane-crazy 2020-11-06 07:17:26 No such thing
+plane-crazy 2020-11-06 07:17:42 Depends on a bunch of different factors
+plane-crazy 2020-11-06 15:17:32 Ladder
+plane-crazy 2020-11-06 16:49:33 my tank does the cringe
+plane-crazy 2020-11-06 16:49:42 and i need to make it not do the cringe
+plane-crazy 2020-11-06 16:50:29 it moves fine
+plane-crazy 2020-11-06 16:50:35 i cant describe it
+plane-crazy 2020-11-06 16:50:36 sending vid
+plane-crazy 2020-11-06 16:51:36 
+plane-crazy 2020-11-06 16:51:39 it freezes on turns sometimes
+plane-crazy 2020-11-06 16:51:53 and i have to rotate the opposite direction a bit to then rotate
+plane-crazy 2020-11-06 16:52:26 nothing its good
+plane-crazy 2020-11-06 16:52:53 but does anyone know why thats happening or nah
+plane-crazy 2020-11-06 16:53:06 cause the gun itself isnt clipping with the half blocks on turns
+plane-crazy 2020-11-06 16:53:42 then how come i just need to rotate back a single degree then it works again
+plane-crazy 2020-11-06 16:53:51 torque is cranked gonna try ice
+plane-crazy 2020-11-06 21:18:16 alright so
+plane-crazy 2020-11-06 21:18:25 swashplates
+plane-crazy 2020-11-06 21:18:26 how
+plane-crazy 2020-11-07 08:43:33 a
+plane-crazy 2020-11-07 08:43:44 a
+plane-crazy 2020-11-08 21:47:46 sign treads
+plane-crazy 2020-11-08 21:47:47 how
+plane-crazy 2020-11-09 22:58:00 so
+plane-crazy 2020-11-09 22:58:03 theres a guy
+plane-crazy 2020-11-09 22:58:22 and im assuming i cant report him
+plane-crazy 2020-11-09 22:58:36 the bad german symbol
+plane-crazy 2020-11-09 22:58:49 all over his build
+plane-crazy 2020-11-09 22:59:14 so there is quite literally no way to report the nono bad
+plane-crazy 2020-11-09 22:59:48 cause when i say its covered i mean like the frame of it is made of them
+plane-crazy 2020-11-09 23:09:22 beast
+plane-crazy 2020-11-09 23:09:25 you realize
+plane-crazy 2020-11-09 23:09:35 that if your wasting missles sometimes on build mode creations
+plane-crazy 2020-11-09 23:09:38 thats you spawn camping
+plane-crazy 2020-11-09 23:09:45 yes it is
+plane-crazy 2020-11-09 23:09:51 they can only be in build mode at their spawn
+plane-crazy 2020-11-09 23:09:57 you are firing a missle at their spawn
+plane-crazy 2020-11-09 23:10:00 that is spawn camping
+plane-crazy 2020-11-09 23:10:13 you can talk while i do too
+plane-crazy 2020-11-09 23:10:22 yes you can you just did
+plane-crazy 2020-11-09 23:10:30 prove it
+plane-crazy 2020-11-09 23:10:33 <:weestTF:564226692990631945>
+plane-crazy 2020-11-09 23:11:06 speak woman
+plane-crazy 2020-11-09 23:11:11 and stop being so salty jesus man
+plane-crazy 2020-11-09 23:11:33 its not hard just type
+plane-crazy 2020-11-09 23:11:45 literally you could have written a small essay on the cultural impact of cars 2 by now
+plane-crazy 2020-11-09 23:11:58 just talk holy shit
+plane-crazy 2020-11-09 23:12:31 alright everybody be quiet for the queen
+plane-crazy 2020-11-09 23:12:33 silence
+plane-crazy 2020-11-09 23:12:36 let the man speak
+plane-crazy 2020-11-09 23:13:00 kekW
+plane-crazy 2020-11-09 23:13:07 <:KEKW:670310537300672528>
+plane-crazy 2020-11-09 23:13:15 beast you can type
+plane-crazy 2020-11-09 23:13:18 literally type
+plane-crazy 2020-11-09 23:13:20 just type it
+plane-crazy 2020-11-09 23:13:22 ignore people
+plane-crazy 2020-11-09 23:13:23 jesus
+plane-crazy 2020-11-09 23:13:31 > This is spam abd harassment
+<@!529111635844136971> <:KEKW:670310537300672528>
+plane-crazy 2020-11-09 23:13:39 maximzied kek hoyl shit
+plane-crazy 2020-11-09 23:13:51 alright everybody be quiet for the queen
+plane-crazy 2020-11-09 23:14:21 hes not typing
+plane-crazy 2020-11-09 23:14:24 the queen is dead
+plane-crazy 2020-11-09 23:14:36 ding dong the wicked bitch is dead
+plane-crazy 2020-11-09 23:14:43 LETS GOO
+plane-crazy 2020-11-09 23:14:45 femboy king
+plane-crazy 2020-11-09 23:14:46 pog
+plane-crazy 2020-11-09 23:14:48 alright
+plane-crazy 2020-11-09 23:14:52 first order of business
+plane-crazy 2020-11-09 23:14:54 fortnite sneakers
+plane-crazy 2020-11-09 23:14:59 second order of business
+plane-crazy 2020-11-09 23:15:04 ninja is prime minister
+plane-crazy 2020-11-09 23:15:11 third order of business
+plane-crazy 2020-11-09 23:15:24 vow of silence for all until my boy <@!529111635844136971> speaks
+plane-crazy 2020-11-09 23:15:28 starting now
+plane-crazy 2020-11-09 23:16:03 I have a phd in glizzy
+plane-crazy 2020-11-09 23:17:00 *e1m1 begins playing*
+plane-crazy 2020-11-09 23:17:22 can i join you so i can poop it with my prinz eugen
+plane-crazy 2020-11-09 23:17:31 wait your on my friends list
+plane-crazy 2020-11-09 23:17:32 pepega
+plane-crazy 2020-11-09 23:18:00 go online on blorox so i can join andrew
+plane-crazy 2020-11-09 23:18:16 yeah
+plane-crazy 2020-11-09 23:18:17 bruh
+plane-crazy 2020-11-09 23:18:23 <:KEKW:670310537300672528>
+plane-crazy 2020-11-09 23:18:43 https://media.discordapp.net/attachments/746215515378417674/770403857901682748/amnesiascanner-1.gif
+plane-crazy 2020-11-09 23:19:02 dont make me violently start singing valley of the pagans by gorillaz
+plane-crazy 2020-11-09 23:19:21 i thought you were
+plane-crazy 2020-11-09 23:19:37 did you take those pics of the ice breaker and shredder before?
+plane-crazy 2020-11-09 23:19:53 im pretty pepega but i might be able to help
+plane-crazy 2020-11-09 23:20:00 idk man youve made a lot of things
+plane-crazy 2020-11-09 23:20:21 good enough
+plane-crazy 2020-11-09 23:20:24 pontoon
+plane-crazy 2020-11-09 23:20:31 weve been waiting for you
+plane-crazy 2020-11-09 23:20:33 everyone silence
+plane-crazy 2020-11-09 23:20:55 beast
+plane-crazy 2020-11-09 23:20:56 please just tlak
+plane-crazy 2020-11-09 23:20:59 *talk
+plane-crazy 2020-11-09 23:21:06 orders of the femboy king shut up
+plane-crazy 2020-11-09 23:21:09 let the man speak
+plane-crazy 2020-11-09 23:21:19 <:weestV:564226692252565514> 
+> never
+<@!405089963445583881>
+plane-crazy 2020-11-09 23:21:27 beast
+plane-crazy 2020-11-09 23:21:28 just
+plane-crazy 2020-11-09 23:21:29 talk
+plane-crazy 2020-11-09 23:21:30 holy shit
+plane-crazy 2020-11-09 23:21:33 everyone shutup
+plane-crazy 2020-11-09 23:22:06 please
+plane-crazy 2020-11-09 23:22:06 🕋dont talk
+plane-crazy 2020-11-09 23:22:09 let him speak
+plane-crazy 2020-11-09 23:22:13 get it over with beast
+plane-crazy 2020-11-09 23:22:17 if they talk keep going
+plane-crazy 2020-11-09 23:22:38 🕋
+plane-crazy 2020-11-09 23:22:48 maybe dont spawn camp with missles <:KEKW:670310537300672528>
+plane-crazy 2020-11-09 23:23:19 poo missle
+plane-crazy 2020-11-09 23:23:30 bike mode
+plane-crazy 2020-11-09 23:23:32 <:KEKW:670310537300672528>
+plane-crazy 2020-11-09 23:24:01 the answer to not wasting missles on build mode vehicles is not spawn camping
+plane-crazy 2020-11-09 23:24:10 AAA?
+plane-crazy 2020-11-09 23:24:15 https://media.discordapp.net/attachments/279294297398837249/775441033232121866/image0.gif
+plane-crazy 2020-11-09 23:24:29 andrew
+plane-crazy 2020-11-09 23:24:30 dont
+plane-crazy 2020-11-09 23:24:31 please
+plane-crazy 2020-11-09 23:24:35 dont do it
+plane-crazy 2020-11-09 23:25:21 he gets a pass from me its fine
+plane-crazy 2020-11-11 19:31:57 the e100 was to be used as a super heavy tank,platform aswell as a tank destroyer, self propelled gun, and anti aircraft platform
+plane-crazy 2020-11-11 19:57:05 work?
+plane-crazy 2020-11-11 19:57:05 did it
+plane-crazy 2020-11-14 20:50:45 bruh
+plane-crazy 2020-11-14 20:50:57 my missles keep bouncing and exploding and not doing anything to the thing i hit
+plane-crazy 2020-11-14 22:29:54 anyone got some big brain moves for missle submarines
+plane-crazy 2020-11-14 22:30:01 my smallest silo is not small at all
+plane-crazy 2020-11-14 23:20:20 any tips for ballstic missle subs?
+plane-crazy 2020-11-15 06:39:04 bruh
+plane-crazy 2020-11-15 06:39:09 my missles keep shaking
+plane-crazy 2020-11-15 06:39:11 they never do this
+plane-crazy 2020-11-15 06:39:47 anyone know how to prevent missle shake?
+plane-crazy 2020-11-15 06:40:13 only happens when it is propulsed
+plane-crazy 2020-11-15 06:41:04 please man i just wanna make my missles stop shaking
+plane-crazy 2020-11-15 06:41:19 Ill record to demonstrate
+plane-crazy 2020-11-15 06:41:33 I think it has something to do with it being a big build?
+plane-crazy 2020-11-15 06:42:04 nvm
+plane-crazy 2020-11-15 06:42:06 fixed it
+plane-crazy 2020-11-15 06:42:14 just gotta anchor it before firing
+plane-crazy 2020-11-15 06:42:22 alright, time for an underwater test
+plane-crazy 2020-11-15 06:43:45 Well that isnt the case considering the same missle design (when i mean same i mean literally identical) never does this.
+plane-crazy 2020-11-15 06:43:55 But I found out it was because it wasnt anchored for some reason.
+plane-crazy 2020-11-15 06:44:17 As to how it does i dont know but it does.
+plane-crazy 2020-11-15 06:44:46 jesus man 18 missles
+plane-crazy 2020-11-15 06:48:31 nope
+plane-crazy 2020-11-15 06:48:34 still fuckin broken
+plane-crazy 2020-11-15 06:52:54 compressing vid to send
+plane-crazy 2020-11-15 06:54:45 its not a plane
+plane-crazy 2020-11-15 06:54:47 its a missle
+plane-crazy 2020-11-15 06:55:05 if i do slow down
+plane-crazy 2020-11-15 06:55:10 i glide down like a bomb
+plane-crazy 2020-11-15 06:55:11 problem solved
+plane-crazy 2020-11-15 06:55:19 second i kick on the engine i go WOOWOOWOOWOOWOOWO
+plane-crazy 2020-11-15 06:56:15 i use super rocket engines on this one
+plane-crazy 2020-11-15 06:56:17 BUT
+plane-crazy 2020-11-15 06:56:30 the same design with a normal engine does the same thing if its big.
+plane-crazy 2020-11-15 06:57:50 
+plane-crazy 2020-11-15 06:59:03 ive explained tihs
+plane-crazy 2020-11-15 06:59:11 on the same design with a normal rocket engine
+plane-crazy 2020-11-15 06:59:30 it did it
+plane-crazy 2020-11-15 06:59:42 im not?
+plane-crazy 2020-11-15 07:00:02 so
+plane-crazy 2020-11-15 07:00:04 slow it down?
+plane-crazy 2020-11-15 07:00:59 Doesnt fix it
+plane-crazy 2020-11-15 07:01:06 slowing down i mean
+plane-crazy 2020-11-15 07:02:16 darma?
+plane-crazy 2020-11-15 07:02:18 you there bud?
+plane-crazy 2020-11-15 07:02:51 its as short as it gets
+plane-crazy 2020-11-15 07:04:15 gonna try wider turn
+plane-crazy 2020-11-15 07:05:50 Wider turn helped a lot.
+plane-crazy 2020-11-15 07:05:58 Still happens a bit but I just gotta practice control.
+plane-crazy 2020-11-15 07:07:36 why
+plane-crazy 2020-11-15 07:07:40 whats wrong
+plane-crazy 2020-11-15 07:07:41 oh
+plane-crazy 2020-11-15 07:07:45 yeah half assing it is cringe
+plane-crazy 2020-11-15 07:08:05 > its advanced shit
+<@!615876745710534676> <:KEKW:670310537300672528>
+plane-crazy 2020-11-15 07:08:11 its not at all advanced
+plane-crazy 2020-11-15 07:08:16 me have spinning rock
+plane-crazy 2020-11-15 07:08:18 me click button
+plane-crazy 2020-11-15 07:08:19 oog
+plane-crazy 2020-11-15 07:08:22 me beat wife
+plane-crazy 2020-11-15 07:12:13 didnt fix it nvm
+plane-crazy 2020-11-15 07:12:20 wider turn did nothing
+plane-crazy 2020-11-15 22:55:51 <@!311638025308209154> remember the wobbling thing
+plane-crazy 2020-11-15 22:56:04 i took one of my missles and gave it stagnant wings
+plane-crazy 2020-11-15 22:56:09 turned it into a rocket
+plane-crazy 2020-11-15 22:56:11 still happened
+plane-crazy 2020-11-15 23:03:46 nvm fixed
+plane-crazy 2020-11-15 23:03:48 thank the lord
+plane-crazy 2020-11-16 08:30:11 I have an unhealthy addiction to this game
+plane-crazy 2020-11-17 05:11:07 really hate the whole exploding and doing nothing to planes because the explosion happens a bit later than when you press the button to detonate and the plane flies away completely unharmed despite you trying to obliterate it with a missle
+creations-chat 2020-11-18 18:34:23 my brain
+creations-chat 2020-11-18 18:36:09 I cannot understand the monkey brain
+plane-crazy 2020-11-19 00:44:25 anyone know if were gonna have another chance to get the fireworks?
+creations-chat 2020-11-20 06:22:01 bruh
+creations-chat 2020-11-20 06:23:38 thanks, its one of my favorite armored fighting vehicles just because its a true modern day tank destroyer
+creations-chat 2020-11-20 06:27:48 all jokes aside this thing shreds tanks
+creations-chat 2020-11-20 06:31:50 also my first ever modern vehicle aside from my Leopard 2A7 which is shit
+creations-chat 2020-11-20 08:05:01 fighter jet made out of tnt
+creations-chat 2020-11-20 19:44:04 He has a box wing plane too
+creations-chat 2020-11-21 02:19:00 Its immoral and scummy but its not against the rules.
+bot-central 2020-11-21 03:52:33 &servers
+bot-central 2020-11-21 03:52:36 !servers
+bot-central 2020-11-21 03:52:43 there we go thanks dad
+plane-crazy 2020-11-21 06:32:24 that is so poorly motor locked its hideous
+plane-crazy 2020-11-21 06:36:51 just because im outranked doesnt mean i cannot criticize
+plane-crazy 2020-11-21 06:38:53 want me to give you a medal or somethin?
+plane-crazy 2020-11-21 06:39:14 the problem is the turret is so hollow, and the motors are almost entirely exposed
+plane-crazy 2020-11-21 06:39:18 It looks like a scaffold turret
+plane-crazy 2020-11-21 06:39:33 A much more solid turret with very little gaps would be much better
+plane-crazy 2020-11-21 06:40:06 One shot with a single bullet and I guarantee in the right spot the turret is just gonna explode
+plane-crazy 2020-11-21 06:40:34 Problem is it doesnt
+plane-crazy 2020-11-21 06:41:01 Looks like a k'nex set
+plane-crazy 2020-11-21 06:41:35 what?
+creations-chat 2020-11-23 20:21:56 Why is there motor lock in the front
+creations-chat 2020-11-24 23:09:33 You just asked
+creations-chat 2020-11-25 09:18:34 Has anyone designed reactive armor?
+plane-crazy 2020-11-26 22:45:24 I need a really tiny tank suspension system
+plane-crazy 2020-11-26 22:45:28 any ideas?
+plane-crazy 2020-11-27 00:18:08 Wee bit large, if there was no horizontal suspension it could work
+plane-crazy 2020-11-27 00:18:29 In the picture
+plane-crazy 2020-11-27 00:18:36 Theres 2 suspension springs
+plane-crazy 2020-11-27 00:30:37 poltava
+plane-crazy 2020-11-27 00:30:53 rode to certain death and pain
+plane-crazy 2020-11-27 00:30:59 swedish soldiers met their bane
+plane-crazy 2020-11-27 00:31:05 sacrificed their lives in vain
+plane-crazy 2020-11-27 00:31:06 poltava
+plane-crazy 2020-11-27 00:31:39 i dont know what to build
+plane-crazy 2020-11-27 00:31:45 i want to build something but i dont know what
+plane-crazy 2020-11-27 00:31:55 something fictional maybe?
+plane-crazy 2020-11-27 00:32:10 im a fool
+plane-crazy 2020-11-27 00:32:45 maybe an xf-23
+plane-crazy 2020-11-27 00:33:04 variable sweep wings are based
+plane-crazy 2020-11-27 00:33:23 shutup
+plane-crazy 2020-11-27 00:33:27 <:trollface:775024642104229898>
+plane-crazy 2020-11-29 01:14:33 fortnite tomcat
+plane-crazy 2020-11-29 01:14:41 
+plane-crazy 2020-11-29 01:14:44 
+plane-crazy 2020-11-29 01:15:01 oh fuck
+plane-crazy 2020-11-29 01:15:02 oh god
+plane-crazy 2020-11-29 01:15:04 oh what did i do
+plane-crazy 2020-11-29 01:15:06 oh no
+plane-crazy 2020-11-29 01:15:13 
+plane-crazy 2020-11-29 01:15:17 the tomcat is forward swept wing
+creations-chat 2020-11-30 04:04:46 <@!498610533721964554> choke
+creations-chat 2020-11-30 04:06:21 ok bug boy
+creations-chat 2020-11-30 04:08:41 no too blocky, not enough detail, color is off, and the wheel motors are exposed with no skirts whatsoever. also whats with the 6 wheel config
+creations-chat 2020-11-30 04:53:44 you gave a challenger 2 6 wheels
+plane-crazy 2020-12-04 01:52:42 how can i induce suction upon another persons build
+plane-crazy 2020-12-04 01:53:05 i want to make an underwater lamprey that latches onto ships and subs and extends a spinning cutter to slowly eat away at them before swimming away
+plane-crazy 2020-12-04 01:53:43 thats what im trying to figure out
+plane-crazy 2020-12-04 01:54:27 maybe just shear force?
+plane-crazy 2020-12-04 01:54:34 i mean you can exactly push aside a ship easily
+plane-crazy 2020-12-04 01:54:43 but i could use a super rocket to just aim and stay attached
+plane-crazy 2020-12-04 01:54:53 im worried this is just gonna be an underwater shredder
+plane-crazy 2020-12-04 01:55:04 well no because it travels slowly and acts more like a fish
+plane-crazy 2020-12-04 01:55:34 honestly i just wanna make a lamprey
+plane-crazy 2020-12-04 01:56:16 does anyone know how to attach to other builds
+plane-crazy 2020-12-04 01:56:24 aside from docking ports n stuff
+plane-crazy 2020-12-04 01:57:44 also these little devil worshippers are lampreys
+plane-crazy 2020-12-04 01:57:45 
+plane-crazy 2020-12-04 01:58:50 my peepers
+plane-crazy 2020-12-04 02:01:25 if anyone has ideas for an almost suction cup like thing so i can latch my lamprey to ships then please dm
+creations-chat 2020-12-04 03:01:00 <@!466793357318815744> you redditor
+plane-crazy 2020-12-04 20:47:30 hes making a point on how its desert not dessert
+plane-crazy 2020-12-04 20:47:39 dessert is the things grandmas make for thanksgiving
+plane-crazy 2020-12-05 07:14:38 You can’t clip into text right
+plane-crazy 2020-12-05 07:14:42 It has no bitbox
+plane-crazy 2020-12-05 07:14:48 *hitbox
+plane-crazy 2020-12-05 07:15:21 bobux
+plane-crazy 2020-12-05 08:49:41 it’s almost like you made it so the rest end blocks will be one above where you want them to be
+plane-crazy 2020-12-05 08:49:43 Huh
+plane-crazy 2020-12-05 08:50:05 Also how do you get bored to the point where in less than a minute you build that
+plane-crazy 2020-12-05 08:50:16 And consider that some sort f satisfaction to cure your boredom
+plane-crazy 2020-12-06 19:35:12 is there a way to imitate the max angle function on a motor 2 with a motor
+plane-crazy 2020-12-06 19:35:19 i need it for my harrier
+plane-crazy 2020-12-06 19:35:33 i dont want the nozzles passing 90 degrees
+plane-crazy 2020-12-06 19:35:56 yeah but that doesnt give me much of a level of control compared to a motor
+plane-crazy 2020-12-06 19:36:08 m
+plane-crazy 2020-12-06 19:36:23 i mean
+plane-crazy 2020-12-06 19:36:32 hm?
+plane-crazy 2020-12-06 19:36:35 yeah
+plane-crazy 2020-12-06 19:36:48 brain brokey
+plane-crazy 2020-12-06 19:36:49 what?
+plane-crazy 2020-12-06 19:37:12 i just need something that has the level of fine precision that a motor has with the ability to limit its angle
+plane-crazy 2020-12-06 19:37:18 also i will remember that
+plane-crazy 2020-12-06 19:37:20 thank you
+plane-crazy 2020-12-06 19:38:59 on your screen they appear to be dead
+plane-crazy 2020-12-06 19:39:03 they arent actually
+plane-crazy 2020-12-06 19:39:06 its a local glitch
+the-dump 2020-12-06 20:23:05 https://dlcordapp.com/attachments/shard0/782803848166899772/782808126423957504/1606610026038.png
+plane-crazy 2020-12-06 23:12:19 close tracking is cringe unless it very specific scenarios
+plane-crazy 2020-12-07 03:26:45 any tips for vtol jets?
+plane-crazy 2020-12-07 03:27:24 specifically for systems like on the harrier
+plane-crazy 2020-12-07 03:30:32 please i just need assistance with vtol systems
+plane-crazy 2020-12-07 03:32:39 vtol jets
+plane-crazy 2020-12-07 03:32:49 Any general tips or good things to know?
+creations-chat 2020-12-07 22:55:37 <@!746383586755870821> normal looks better pink cringe
+plane-crazy 2020-12-08 00:27:01 call it poob and you die
+plane-crazy 2020-12-08 08:30:23 Hideous
+plane-crazy 2020-12-08 18:53:43 Zimbabwe
+plane-crazy 2020-12-09 07:57:16 Kinda wanna make a shredder to attach to my F-14 so I can lug it around and humiliate it’s corpse
+plane-crazy 2020-12-09 07:57:29 Send a message to the people
+plane-crazy 2020-12-09 07:57:47 you satanist
+creations-chat 2020-12-10 05:00:02 pfft
+good luck
+plane-crazy 2020-12-14 01:27:44 Ive seen helicopter blades with propellor blades turned 90 degrees from the others, some vertical, then some horizontal. Is there a benefit to this?
+plane-crazy 2020-12-14 01:31:25 yeah
+creations-chat 2020-12-14 17:51:03 I’m not sure how they work in plane crazy but in real life it’s basically a fixed bar of steel at one end connected to the suspension arm with a wheel on a tank. It uses torsion (twisting) to create more resistance as you push it upwards, which means it is an effective, simple, and cheap form of suspension
+creations-chat 2020-12-14 17:53:11 Big brian
+creations-chat 2020-12-14 17:56:41 It’s welded to the hull at one end and poking through a hole on the other end just enough for it to be attached to a suspension arm on a tank
+creations-chat 2020-12-14 17:59:08 Exactly, which is why I’m not sure how they work. Maybe using low torque motors?
+plane-crazy 2020-12-15 00:49:32 unfinished apache, dual blade because fuck you
+plane-crazy 2020-12-15 00:49:39 front nose camera design isnt mine
+plane-crazy 2020-12-15 00:50:02 dont need em
+plane-crazy 2020-12-15 00:50:22 didnt even know they were a thing
+plane-crazy 2020-12-15 00:51:16 ight
+plane-crazy 2020-12-15 00:51:22 so this whole heli stabilizer thing
+plane-crazy 2020-12-15 00:51:34 im interested ive never done a heli before
+plane-crazy 2020-12-15 00:52:36 oh
+plane-crazy 2020-12-15 00:52:57 wait i never added it
+plane-crazy 2020-12-15 00:52:58 im
+plane-crazy 2020-12-15 00:53:01 special needs
+plane-crazy 2020-12-15 00:54:34 added it
+plane-crazy 2020-12-15 00:56:45 oh yeah
+plane-crazy 2020-12-15 00:56:49 instant improvement i like it
+plane-crazy 2020-12-15 07:27:24 pretty weirdchamp
+plane-crazy 2020-12-15 07:27:31 if only reports still worked
+plane-crazy 2020-12-15 07:28:25 It was a buddhist symbol of peace
+plane-crazy 2020-12-15 07:28:40 Unless your actually a buddhist im pretty sure you know exactly what people will think it is
+plane-crazy 2020-12-17 04:36:33 How do you get into the airport?
+plane-crazy 2020-12-17 04:36:37 Theres a sign with a wheel
+plane-crazy 2020-12-17 04:37:44 Idk man
+plane-crazy 2020-12-17 04:37:53 I wasnt looking for sass I was looking for an answer
+plane-crazy 2020-12-17 04:40:04 bruh
+plane-crazy 2020-12-17 04:40:05 i thought
+plane-crazy 2020-12-17 04:40:11 you got in through that steel gate
+plane-crazy 2020-12-17 04:40:32 no shit sherlock
+plane-crazy 2020-12-17 04:42:16 
+plane-crazy 2020-12-17 04:42:45 no
+plane-crazy 2020-12-17 04:42:49 wheel resting against the wall
+plane-crazy 2020-12-17 04:44:21 ight i got winter wheel, snow blaster, snow pipe, sparkler, front, flat, and both skis, firework launcher, anything else?
+plane-crazy 2020-12-17 04:44:43 i said that
+plane-crazy 2020-12-17 04:51:44 find out
+plane-crazy 2020-12-17 19:43:47 fireworks are kinda cringe
+plane-crazy 2020-12-17 19:43:51 they arent very effective
+plane-crazy 2020-12-17 19:44:02 for ground support its useless
+plane-crazy 2020-12-17 19:44:08 chances of hitting are pretty low
+plane-crazy 2020-12-17 19:44:23 they have splash damage?
+plane-crazy 2020-12-17 19:44:49 i do configure it
+plane-crazy 2020-12-17 19:44:54 its just very close range even at max
+plane-crazy 2020-12-17 19:45:10 its just a little tricky
+plane-crazy 2020-12-17 19:45:44 <:OmegaTroll:626841385118597152> get pc
+plane-crazy 2020-12-17 21:26:36 the fireworks are seriously messed up for me
+plane-crazy 2020-12-17 21:26:45 they are firing from nowhere
+plane-crazy 2020-12-17 21:26:48 some fire from the block
+plane-crazy 2020-12-17 21:26:53 others appear in the sky
+plane-crazy 2020-12-17 21:27:24 To your cursor?
+plane-crazy 2020-12-17 21:28:06 Nah
+plane-crazy 2020-12-17 21:28:13 Its fixed and mounted to my Apache
+plane-crazy 2020-12-18 04:56:59 probably because you arent able to adjust the pitch of the blades
+plane-crazy 2021-01-01 10:08:48 My Apache go brrrt
+plane-crazy 2021-01-01 10:08:56 You guys are really edgy
+plane-crazy 2021-01-01 10:09:10 Mostly <@!347182144873037824>
+plane-crazy 2021-01-01 10:09:16 Big funny
+plane-crazy 2021-01-01 10:09:35 I will not have my name soiled by a woman’s mouth
+plane-crazy 2021-01-01 10:09:42 Never speak it again boy
+plane-crazy 2021-01-01 10:10:02 <:WhatChamp:775044367022555166>
+plane-crazy 2021-01-01 10:10:12 👇
+plane-crazy 2021-01-01 10:10:25 Your point is
+plane-crazy 2021-01-01 10:10:33 Your point is
+plane-crazy 2021-01-01 10:10:40 Little nobalance
+plane-crazy 2021-01-01 10:10:52 I was gonna finish that
+plane-crazy 2021-01-01 10:11:04 I don’t know if anyone would know what I’m referencing if I do
+plane-crazy 2021-01-01 10:12:15 Reading through this chat I realize that nobalance is just generally an asshole
+plane-crazy 2021-01-01 10:12:48 Goodnight fuckheads
+plane-crazy 2021-01-01 10:12:50 Sleep well
+plane-crazy 2021-01-01 10:12:52 Happy New Years
+plane-crazy 2021-01-01 10:12:55 Love you
+plane-crazy 2021-01-01 10:13:54 Australians are cool
+plane-crazy 2021-01-01 10:13:56 He is not
+plane-crazy 2021-01-01 10:15:06 Helis are super easy to destroy
+plane-crazy 2021-01-01 10:15:40 It’s called one shot to the rotors
+plane-crazy 2021-01-01 10:15:54 Don’t give a shit what type of heli
+plane-crazy 2021-01-01 10:16:17 Ye
+plane-crazy 2021-01-01 10:17:18 idk bro you talk like your slow
+plane-crazy 2021-01-01 10:17:49 Ok
+plane-crazy 2021-01-01 10:17:55 Doesn’t make it difficult to shoot you
+plane-crazy 2021-01-01 10:18:00 Yes
+plane-crazy 2021-01-01 10:18:21 If it’s a light enough heli, a single block gone could take it out of the fight
+plane-crazy 2021-01-01 10:18:39 The bigger it is the more damage you can take
+plane-crazy 2021-01-01 10:19:01 Not gonna because guess what we’re talking about you fighting a ground vehicle
+plane-crazy 2021-01-01 10:19:08 Dumbass
+plane-crazy 2021-01-01 10:19:34 Doesn’t make you hard to shoot down
+plane-crazy 2021-01-01 10:19:45 No it doesn’t
+plane-crazy 2021-01-01 10:19:49 You just wanna sound cool
+plane-crazy 2021-01-01 10:20:14 You wanna sound like your a god at combat. Your not. Take that stick out of your ass, and stop acting like a pompous jackass.
+plane-crazy 2021-01-01 10:20:20 Seriously
+plane-crazy 2021-01-01 10:20:31 That stick might cause an infection if you leave it up there anymore
+plane-crazy 2021-01-01 10:20:50 Because you can be killed easily
+plane-crazy 2021-01-01 10:21:00 Your an edgy piece of shit with nothing left to do aside from argue here
+plane-crazy 2021-01-01 10:21:16 You act as if your some design Jesus when in reality you can’t accept truth
+plane-crazy 2021-01-01 10:21:37 This has been an argument
+plane-crazy 2021-01-01 10:21:48 Do you not know what an argument is
+plane-crazy 2021-01-01 10:22:03 Me and you have been going back and forth on whether you can easily be shot down or not
+plane-crazy 2021-01-01 10:22:11 The fuckin definition does
+plane-crazy 2021-01-01 10:22:18 Attacking is not apart of arguments
+plane-crazy 2021-01-01 10:22:45 Yes
+plane-crazy 2021-01-01 10:22:59 That’s not what I said
+plane-crazy 2021-01-01 10:23:13 I said attacking isn’t apart of the definition of an argument
+plane-crazy 2021-01-01 10:23:25 And I’m telling you that yes, you can
+plane-crazy 2021-01-01 10:23:38 You have a chimp brain
+plane-crazy 2021-01-01 10:23:43 I cannot believe how idiotic you are
+plane-crazy 2021-01-01 10:24:07 Your telling me I’m denying facts when you refuse to accept you are arguing with me AND completely misread and still refuse to understand what I had said
+plane-crazy 2021-01-01 10:24:20 Your trying to act like leading your shots is hard
+plane-crazy 2021-01-01 10:24:32 Move mouse in front
+plane-crazy 2021-01-01 10:24:35 Moving mouse difficult
+plane-crazy 2021-01-01 10:24:37 Ooga booga
+plane-crazy 2021-01-01 10:24:39 Caveman
+plane-crazy 2021-01-01 10:25:08 Yes it was
+plane-crazy 2021-01-01 10:25:29 If was two parties deliberating over a topic with differentiating points of view with the intent to change the others mind
+plane-crazy 2021-01-01 10:26:08 No it want
+plane-crazy 2021-01-01 10:26:10 *wasnt
+plane-crazy 2021-01-01 10:26:20 Read
+plane-crazy 2021-01-01 10:26:21 The
+plane-crazy 2021-01-01 10:26:22 Bottom
+plane-crazy 2021-01-01 10:26:25 Definition
+plane-crazy 2021-01-01 10:26:27 Holy shit
+plane-crazy 2021-01-01 10:26:33 I give up
+plane-crazy 2021-01-01 10:26:34 This man
+plane-crazy 2021-01-01 10:26:39 Is a level of monkey
+plane-crazy 2021-01-01 10:26:59 I’ve never seen someone cherry pick evidence this hard
+plane-crazy 2021-01-01 10:27:30 There are multiple definitions for different scenarios otherwise why would there be two definitions
+plane-crazy 2021-01-01 10:27:35 Thank god
+plane-crazy 2021-01-01 10:27:37 Do a push-up
+plane-crazy 2021-01-01 10:27:39 Take a run
+plane-crazy 2021-01-01 10:27:44 Do something productive
+plane-crazy 2021-01-01 10:28:24 and? We were arguing over a plane crazy topic
+plane-crazy 2021-01-01 10:28:31 Of whether or not it’s easy to shoot down helicopters
+plane-crazy 2021-01-01 10:29:08 Unfortunately this chimp brain thinks a helicopter traveling at 500 SPS is difficult to shoot down
+plane-crazy 2021-01-01 10:29:14 And doesn’t know what an argument is
+plane-crazy 2021-01-01 10:29:21 Or how multiple definitions work
+plane-crazy 2021-01-01 10:29:33 Rotor
+plane-crazy 2021-01-01 10:30:44 Leading shots isn’t difficult
+plane-crazy 2021-01-01 10:31:33 <@!347182144873037824> this is an ashtray
+plane-crazy 2021-01-01 10:31:36 eat it’s contents
+plane-crazy 2021-01-01 10:32:04 start crunching
+plane-crazy 2021-01-01 10:32:06 now
+plane-crazy 2021-01-01 10:32:17 what
+plane-crazy 2021-01-01 10:32:36 who’s Aussie me or him
+plane-crazy 2021-01-01 10:32:43 Ok and
+plane-crazy 2021-01-01 10:32:50 Turrets can turn
+plane-crazy 2021-01-01 10:32:54 I know revolutionary
+plane-crazy 2021-01-01 10:33:10 then they won’t hit ground targets for shit
+plane-crazy 2021-01-01 10:33:21 <:KEKW:670310537300672528>
+plane-crazy 2021-01-01 10:33:49 I grew up with a lot of aussies
+plane-crazy 2021-01-01 10:33:59 Unlike you I got a workout plan to follow
+plane-crazy 2021-01-01 10:34:22 Joining the army rangers ain’t no easy feat and I’m not gonna let some moron who wants me to fight them in plane crazy ruin my chances
+plane-crazy 2021-01-01 10:34:39 Some words I pronounce with an Australian accent because they were the ones who taught me
+plane-crazy 2021-01-01 10:34:43 But I have no Australian accent
+plane-crazy 2021-01-01 10:34:48 Same for you pal
+plane-crazy 2021-01-01 10:35:04 I guess my taste in insults and cussing comes from them too
+plane-crazy 2021-01-01 10:35:13 2nd or 3rd
+plane-crazy 2021-01-01 10:35:34 probably 2nd
+plane-crazy 2021-01-01 10:36:23 I dropped a rock on a snake that was about to bite my friend once
+plane-crazy 2021-01-01 10:36:40 Didn’t feel right doing it but it was either that or he dies out in the forest
+plane-crazy 2021-01-01 10:37:40 Goodnight
+plane-crazy 2021-01-01 10:38:50 Indeed he did
+plane-crazy 2021-01-01 16:42:32 Gameing
+plane-crazy 2021-01-03 09:23:00 <@!347182144873037824> <:trollface:775024642104229898>
+plane-crazy 2021-01-03 22:24:50 repostin ya mum
+plane-crazy 2021-04-14 06:07:37 rejoined to ask this
+plane-crazy 2021-04-14 06:07:43 are naval guns a thing yet
+plane-crazy 2021-04-14 06:07:50 damnit
+plane-crazy 2021-04-14 06:08:11 not as cool as a 16 inch gun with shells the size of me
+plane-crazy 2021-04-14 06:08:23 rockets are doodoo
+plane-crazy 2021-04-14 06:08:37 do they go zoom fast
+plane-crazy 2021-04-14 06:08:46 no
+plane-crazy 2021-04-14 06:08:54 do they have shell physics
+plane-crazy 2021-04-14 06:09:01 no
+plane-crazy 2021-04-14 06:09:05 since when was that a thing
+plane-crazy 2021-04-14 06:09:20 im aware of that
+plane-crazy 2021-04-14 06:09:36 1. how would i make him do it
+2. im not the only one who wants naval guns
+plane-crazy 2021-04-14 06:10:00 still not as cool as big gun
+plane-crazy 2021-04-14 06:10:19 i already have before
+plane-crazy 2021-04-14 06:10:32 on my prinz eugen
+plane-crazy 2021-04-14 06:10:55 its not a naval cannon
+plane-crazy 2021-04-14 06:10:57 it looks like one
+plane-crazy 2021-04-14 06:11:02 but it doesnt have 2 chonky guns on it
+plane-crazy 2021-04-14 06:11:06 it just shoots rockets
+plane-crazy 2021-04-14 06:11:11 which are unpog
+plane-crazy 2021-04-14 06:11:23 so a .950 JDJ is equal to a 9mm
+plane-crazy 2021-04-14 06:11:39 no
+plane-crazy 2021-04-14 06:11:42 i have myself a rocket
+plane-crazy 2021-04-14 06:15:42 no
+plane-crazy 2021-04-14 06:16:25 yes
+general 2021-04-15 22:53:26 no
+general 2021-04-17 05:44:22 https://discord.com/channels/384021699466756103/384025409945337856/832853316844781598 oh wow so funny!
+creations-chat 2021-04-18 01:51:25 Did you overlay that or is there an in game thing I don’t know of
+creations-chat 2021-04-18 20:16:00 All of my hulls havent tapered towards the bottom, they have been straight walls from the deck to the keel
+creations-chat 2021-04-18 20:18:05 Im trying to change that, the red part is a triangle wedge, the blue part is a triangle wedge block, and the green are normal wedges. I havent found any good images to go off of in terms of advanced hull building. Is this a good method? If not, what should I do?
+creations-chat 2021-04-18 20:30:57 What do you mean by "make vertical hulls and not horizontal hulls"?
+creations-chat 2021-04-19 20:43:17 I wanna use my fletcher for pvp, how should I add armor?
+plane-crazy 2021-04-20 02:41:11 I wanted to add armor to my fletcher
+plane-crazy 2021-04-20 02:41:15 How should I go about doing that?
+plane-crazy 2021-04-20 03:34:06 help
+plane-crazy 2021-04-20 03:34:08 save my soul
+plane-crazy 2021-04-20 03:34:20 
+plane-crazy 2021-04-20 03:34:39 i gotta cram a rocket into that
+plane-crazy 2021-04-20 03:35:30 nonono
+plane-crazy 2021-04-20 03:35:33 you dont understand
+plane-crazy 2021-04-20 03:35:47 when i say cram
+plane-crazy 2021-04-20 03:35:49 i mean cram
+plane-crazy 2021-04-20 03:36:20 you fool
+creations-chat 2021-04-20 04:48:57 yuh
+creations-chat 2021-04-20 07:16:51 ye
+creations-chat 2021-04-20 07:32:34 Nice, I’d be down
+creations-chat 2021-04-20 08:39:40 That being?
+creations-chat 2021-04-20 08:50:23 embed fail on a less than ideal build
+creations-chat 2021-04-20 16:55:50 <@!177743269105500160> dude, wed me
+creations-chat 2021-04-20 17:51:17 Shit yourself.
+creations-chat 2021-04-20 18:45:00 Does this justify you being a jag off? No.
+creations-chat 2021-04-20 18:56:14 The world doesn’t revolve around you
+creations-chat 2021-04-20 18:58:19 You could have said that it was a low effort tutorial build to him instead of insulting him you monkey boy
+creations-chat 2021-04-20 19:00:20 yeah okay bud
+creations-chat 2021-04-20 19:03:24 you didn’t mention what was wrong with it, you insulted him you dense cabbage. what you just tried doing is no different than me answering 2+2 with 15, but because I answered the original question, it’s correct. It doesn’t make sense
+creations-chat 2021-04-20 19:05:49 I’m done with this argument. Have fun jack hammering your baby shrimp balls into a thesaurus as you write a 300 word Reddit essay on how you conquered yet another argument
+creations-chat 2021-04-20 19:08:00 yeah okay bud
+dislike = insulting
+your right how could I be so foolish
+creations-chat 2021-04-20 19:10:07 they were closing remarks, im not gonna let you act like the better person either when this all started because you insulted someone and their build instead of actually offering criticism. i don’t give a shit about what you do or don’t dislike, but I do have a problem with stuckup pepegas like you
+creations-chat 2021-04-20 19:12:09 k
+the-dump 2021-04-20 19:14:51 
+creations-chat 2021-04-20 20:20:06 <@!601781619023675392> The nose looks strange, im not too sure why tho. I will provide a reason when I find it.
+creations-chat 2021-04-20 20:27:53 my first build was a p1000 with rope treads <:FineTroll:626841259746656289>
+creations-chat 2021-04-20 21:27:59 <@!565376886843244544> For a first build, not bad.
+The F-16s wings are too small and the coloring is off, but thats personal bias cause im more of a proper paint guy
+creations-chat 2021-04-20 21:33:23 dad gummit
+creations-chat 2021-04-20 22:17:14 Should i do a wood or steel deck for my fletcher
+creations-chat 2021-04-20 22:19:59 nvm found a rc boat website, provided resources showing it was a steel deck. the deck is grey sus
+creations-chat 2021-04-20 23:19:09 Fletcher so far
+Gun barrels are short, had problems building that forced em to be. Havent done anything involving ballast hence its tipping forward
+creations-chat 2021-04-21 02:03:54 
+creations-chat 2021-04-21 02:41:20 Added the torpedo tubes
+creations-chat 2021-04-21 02:45:00 Ford F-150
+bot-central 2021-04-21 02:53:54 !servers
+creations-chat 2021-04-21 03:21:02 the torpedoes or the ship?
+creations-chat 2021-04-21 04:22:07 
+creations-chat 2021-04-21 07:40:40 did you actually try using the ethnic card
+creations-chat 2021-04-21 07:48:00 If you don’t shut up from now on I will kiss you. Do not take this threat lightly.
+creations-chat 2021-04-21 07:50:03 my balls itch
+
+scratch and sniff until it is done
+creations-chat 2021-04-21 07:52:04 anime pfps vs a swede 
+
+who gonna win
+creations-chat 2021-04-21 07:54:07 didn’t this start cause you said people had no class
+
+also why do you care about people thinking your builds are shit when you literally call your own builds bad
+
+they call the rising sun
+creations-chat 2021-04-21 19:27:11 minot
+creations-chat 2021-04-21 20:02:55 overwrote the stern extension I did yesterday, gonna have to do more work. Cant undo either cause I did it twice. So far I have the Bridge, sea cabin, sonar room, clipping room/gun crew shelter, both uptake spaces, the torpedo maintenance room, the laundry room, the galley, the aft fire room, and one 5 inch gun ammunition handling room (need 4 more, total of 5 guns)
+creations-chat 2021-04-21 20:51:47 e x p a n d
+creations-chat 2021-04-21 20:54:57 Use half blocks for the sides of the guns, they look too chunky for a ship of that size.
+
+Raise the super structure up more so that you would actually be overlooking the guns
+creations-chat 2021-04-21 22:12:54 Oh hi Warcrimes
+creations-chat 2021-04-21 23:05:56 flashback to like a day ago when he was huckin insults at some lad and called it "disliking"
+creations-chat 2021-04-21 23:43:35 it doesnt equal disliking. you can dislike something, and thats fine. you started being a pepega and insulting people.
+i didnt get upset over it, your just trying to make me seem like an over emotional spastic
+
+i refuse to continue a conversation with someone who is as sped as you
+creations-chat 2021-04-21 23:52:02 k
+creations-chat 2021-04-22 02:10:28 All finished rooms are grayed out
+
+What are some essential rooms I should add? Im not done adding rooms I want to add yet, so keep that in mind
+creations-chat 2021-04-22 02:14:29 Rooms that are 2 levels below deck might not be possible.
+Whats the point of a room if you have to swim in it
+creations-chat 2021-04-22 02:16:59 the ice machine has fallen
+
+long live the king
+creations-chat 2021-04-22 04:51:00 7372 blocks and its not even done <:4Weird:709084058721714324>
+help 2021-04-22 07:28:35 Did you enable sounds in settings?
+help 2021-04-22 07:30:27 rip
+creations-chat 2021-04-22 16:46:38 <@!695324920565071877> Better pic pls
+creations-chat 2021-04-22 17:13:39 yuh
+
+i found a 3d virtual unguided tour of the uss kidd meaning i can accurately recreate the rooms
+creations-chat 2021-04-22 18:29:29 Unfinished, renewed some of the  bridge rooms
+creations-chat 2021-04-23 19:24:24 bruhhhh
+
+
+its the same emoji
+creations-chat 2021-04-23 19:49:29 the upvotes say that there need be no feedback
+
+how tf do those treads work?
+creations-chat 2021-04-23 19:51:39 really cool design
+creations-chat 2021-04-23 19:58:42 water isnt wet or dry, it exists in a state between the two.
+
+the definition of dry is "free from moisture or liquid; not wet or moist."
+the definition of wet is "covered or saturated with water or another liquid."
+
+water cannot cover itself or be saturated in itself, thats like saying a hunk of milled aluminum is saturated with aluminum.
+
+by the layman's definition of wet, the object had to be originally dry or partially dry.
+if you jump in the pool and are completely submerged, are you wet or dry? neither. it is only until you exit the pool that you are wet.
+creations-chat 2021-04-23 20:06:13 based
+creations-chat 2021-04-23 20:53:29 8k blocks on the fletcher, less goooo
+creations-chat 2021-04-24 02:02:12 Driving home after looking at houses cause we’re moving, when I get home can someone join my game and take a tour of my fletcher so I can get feedback on what I should add or remove?
+
+The guns and torpedo tubes work, the latter not looking very accurate cause torpedo tubes in PC are clunky. It has a lot of 2nd floor rooms (first floor below deck) at the stern with the bow rooms being WIP
+help 2021-04-24 03:13:33 Can anyone who has an expert shipwright or above role let me give you a tour of my fletcher? I want you to tell me what I should add or remove so I can ensure this is my best ship.
+help 2021-04-24 04:40:43 Awesome
+creations-chat 2021-04-24 06:18:53 Cant send it in creations, so ill send it here
+Scuffed Zumwalt AGS
+
+Short barrel, experimental, horrible motor locking, too big, but its a start.
+
+Hate the zumwalt, but I love its weapon system.
+
+The part where I keep misalligning the barrel on purpose is to show that the strength of the trapdoors can seat the barrel properly even if misalligned
+https://streamable.com/un48el
+general 2021-04-24 06:42:14 I can.
+creations-chat 2021-04-24 07:23:55 He knows that the marines disbanded all of their tanks right
+creations-chat 2021-04-24 07:29:21 Honestly
+help 2021-04-24 07:30:05 How do people make the pictures of multiple of their builds? I’ve seen it done with tanks and stuff to showcase their collection of what they built.
+help 2021-04-24 07:32:07 I’ve seen people showcase multiple of their own builds in one picture before. Not edited together or anything. I wanna know if there’s a better way to do it before I go and make an alt.
+help 2021-04-24 07:33:31 I guess?
+help 2021-04-24 07:33:43 Damnit
+help 2021-04-24 07:35:16 I was gonna build a USS independence for combat and stuff while I take a break from my fletcher and I wanted to slap in separately controlled things like a mine hunting heli drone or an amphib.
+help 2021-04-24 07:39:12 Yeah but then things get weird
+creations-chat 2021-04-24 20:42:20 https://streamable.com/n2dc1m
+
+RHIB Recovery and launch system, USS independence style
+
+Gonna use it on my USS independence, i want to make a combat ship while i take a break from the fletcher
+
+Gonna have a friend build a tiny little rhib with a gun turret on it so I can have them harass the enemy while im fighting em
+creations-chat 2021-04-24 20:56:03 So should I make the gap 5 blocks?
+bot-central 2021-04-24 22:56:11 !servers
+creations-chat 2021-04-24 23:19:42 Updated the RHIB launch and recovery system
+
+Fixed sliding by adding a small hook on the belly of my new RHIB which means it doesnt fly off while sliding
+It can only unhook when its in the water.
+
+https://streamable.com/p92pcl
+creations-chat 2021-04-24 23:43:18 intention doesnt matter here, you dont do shit like that
+creations-chat 2021-04-25 04:06:34 Progress on my USS Independence
+creations-chat 2021-04-26 19:41:52 Can someone send a pic of those motor locked plane props people make
+creations-chat 2021-04-26 19:45:24 Nvm
+help 2021-04-26 20:22:43 The motor isn’t unpowered then
+help 2021-04-26 20:23:14 If you use a powered motor, the torque of it spinning makes the helicopter spin in the opposite direction
+creations-chat 2021-04-26 20:24:35 The paint is awful, use duller colors
+
+The hull is squished and too tall
+
+Time ≠ Quality
+creations-chat 2021-04-27 20:32:36 You make me angry you zumwalt sympathizer
+creations-chat 2021-04-27 22:09:02 It already looks pretty good, but the thickness to length ratio of the wings seems off
+creations-chat 2021-04-28 23:31:33 Good B25 nose?
+creations-chat 2021-04-28 23:35:13 Why not? I need feedback.
+creations-chat 2021-04-28 23:37:32 I couldnt figure out the metal reinforcing strips
+creations-chat 2021-04-28 23:39:57 thx
+creations-chat 2021-04-28 23:49:34 New cockpit, if you cant type cause of cooldown my dms are open
+creations-chat 2021-04-30 01:09:14 Can someone show me how to make a fairly compact three blade propellor?
+creations-chat 2021-04-30 01:11:16 too small for what I want to build, I need something custom
+creations-chat 2021-04-30 03:31:36 give him master shipwright
+creations-chat 2021-04-30 04:48:54 That’s not a tutorial. If you can find the video where I “stole it from”, please do.
+creations-chat 2021-04-30 04:53:32 if you are smart enough to know i'm smart then use your brain <:trollface:775024642104229898>
+creations-chat 2021-04-30 04:56:41 that NBAforLYFE guy been real quiet
+creations-chat 2021-04-30 05:09:44 is your skull cracked open and bleeding
+creations-chat 2021-04-30 05:11:45 You do realize that he used half wedges and wing panels while I use signs and cameras to make the spinning connectors exist non collidably outside the aircraft right?
+
+Also team rocket he’s trying to say I posted a tutorial in creations when you can clearly see my build and that persons build are different
+creations-chat 2021-04-30 05:14:02 Shit yourself.
+creations-chat 2021-04-30 05:16:21 It was a simple request. A path to enlightenment
+creations-chat 2021-04-30 05:18:27 The creation is the system itself. The system is done. The half blocks simply show that you can use it in a compact fuselage
+creations-chat 2021-04-30 05:22:08 the only thing mad are the hoes, they are furious
+plane-crazy 2021-04-30 05:27:43 dang bro
+plane-crazy 2021-04-30 05:27:58 some of these builds are just plane crazy <:OmegaTroll:626841385118597152>
+creations-chat 2021-04-30 19:32:14 How should I do angled wings like on the Corsair? Motor 2s are too flexible and motor 1s with lock on doesnt do it equally
+creations-chat 2021-04-30 19:34:15 the ground itself would apply force against the motors which caused problems. anchored it with a physics enabled anchor
+creations-chat 2021-05-02 01:20:26 is kaput
+creations-chat 2021-05-02 01:22:29 painting the 69 costed too much
+creations-chat 2021-05-02 01:49:26 motorlocked the fuck out of some super rocket engines, now my 262 cranks it
+creations-chat 2021-05-02 01:52:47 do you fart
+bot-central 2021-05-02 03:02:20 !servers
+bot-central 2021-05-02 03:02:22 deez nuts
+creations-chat 2021-05-02 07:00:02 Gonna send an updated 262 I made tmrw, replaced the R4M fireworks with actual rockets for improved pvp capabilities and moved a single firework to the chin of the plane, similar to where Werfergranate-21s would be placed
+
+For now can I get feedback on my current one? Thanks.
+
+https://discord.com/channels/384021699466756103/384025409945337856/838216390594396180
+bug-reports 2021-05-02 07:09:07 brass monkey
+help 2021-05-02 15:23:47 Can I get some feedback on this since creations feedback never gives any?
+
+https://discord.com/channels/384021699466756103/384025409945337856/838216390594396180
+help 2021-05-02 15:48:03 Those white half blocks are welding to the blocks next to it.
+help 2021-05-02 15:48:08 It should only weld to the motor.
+creations-chat 2021-05-02 15:49:04 <@!626036997546442763> try using wooden signs as props.
+creations-chat 2021-05-02 15:52:11 Np, keep the sparkler tho. Just try to match its color to the wood as best as you can so it looks like a pivot pin
+creations-chat 2021-05-02 15:55:48 Better pics found here https://discord.com/channels/384021699466756103/384025409945337856/838216390594396180
+
+The one I send here is just the updated one with the rockets replacing the fireworks and the fireworks being placed at the chin like werfergranate-21s
+
+I need some feedback.
+creations-chat 2021-05-02 16:22:20 The 262 doesn’t have external barrels, take the trails on the front off
+help 2021-05-02 16:22:36 Take what you can get
+help 2021-05-02 16:22:50 If you wanna focus on looks for this then guess what? Your not gonna have a bomb bay.
+help 2021-05-02 16:22:58 Your gonna have a motor that just sits there
+help 2021-05-02 16:23:15 Don’t be picky, take the advice and have a bit of faith
+creations-chat 2021-05-02 16:27:25 I stand corrected
+creations-chat 2021-05-02 18:08:47 Made the night paint less blue, added more to the radar antennaes, extended the cockpit (the night fighter variant was a 3 seater compared to the normal 2), and changed the cockpit to ice
+
+also changed the number because 3
+creations-chat 2021-05-02 19:57:41 five freddy night
+creations-chat 2021-05-02 22:19:49 <@!694009880507580528> Whats wrong with it?
+creations-chat 2021-05-02 22:25:39 can you be more specific? whats wrong with the shape
+bot-central 2021-05-02 22:50:51 !servers
+creations-chat 2021-05-03 17:20:51 <@!527653676022628353> how the fuck did you fold that 8 times
+creations-chat 2021-05-03 17:26:19 <@!473580489337339914> how did you fold that 8 times
+
+Can you send a picture of it in build mode?
+bug-reports 2021-05-03 17:31:27 ok
+creations-chat 2021-05-03 18:02:54 my balls itch
+bot-central 2021-05-03 20:12:11 -ms
+creations-chat 2021-05-03 21:08:43 i like boats
+creations-chat 2021-05-03 21:10:46 do it or gay
+creations-chat 2021-05-04 02:02:39 good luck on getting any here, it looks good tho.
+creations-chat 2021-05-04 05:41:38 <@!200793484053970944> imagine spam downvoting
+
+every post within the past few hours except like, 3, youve downvoted
+creations-chat 2021-05-04 05:43:41 yeah okay bud
+
+yo mama
+creations-chat 2021-05-04 05:45:49 hot
+creations-chat 2021-05-04 06:10:05 https://discord.com/channels/384021699466756103/384025409945337856/839012836092411934 Feedback please
+creations-chat 2021-05-04 06:14:23 cause he doesn’t know he can use <#478584971670454284>
+creations-chat 2021-05-04 06:52:58 use blocks <:OmegaTroll:626841385118597152>
+creations-chat 2021-05-05 21:27:33 yeah alright bud
+creations-chat 2021-05-06 17:42:09 <@!653059099533115423> your brain is throbbing
+creations-chat 2021-05-06 17:44:35 if time != quality then:
+    print("Your mom")
+output:
+Your mom
+creations-chat 2021-05-06 18:58:51 thats based tho
+creations-chat 2021-05-07 15:33:09 imagine posting wip’s in creations
+creations-chat 2021-05-08 06:25:02 https://discord.com/channels/384021699466756103/384025409945337856/840288358885228574 is this what they mean by hourglass form
+creations-chat 2021-05-13 07:59:40 can you please move your build to the center of your plot it is making me angry <@!675513271071277068>
+creations-chat 2021-05-13 17:33:30 Massive breakthrough
+creations-chat 2021-05-14 01:13:05 nah your just unfunny
+creations-chat 2021-05-15 03:25:11 uss tecas
+creations-chat 2021-05-15 03:27:21 its just the uss texas with a c
+plane-crazy 2021-05-17 05:13:41 ive discovered the worst type of PC player
+plane-crazy 2021-05-17 05:13:55 shredder users who hide their plot name and use a display name
+plane-crazy 2021-05-17 05:14:09 equally bad is one I just encountered
+plane-crazy 2021-05-17 05:14:15 they had an alt that also had shredders
+plane-crazy 2021-05-17 05:14:28 literally just their name with a 1 at the end
+creations-chat 2021-05-17 07:40:18 I built most of the hull of a 4 tracked tank thing with the hull gun of a Maus and 4 anti aircraft guns. I wanted to add a three barreled gun with an auto loader
+
+What else should I add? Pics tmrw
+creations-chat 2021-05-17 19:24:39 im gonna die
+
+its not done, the tedious treads are tho
+creations-chat 2021-05-17 19:31:25 gonna give it a 3 barreled turret with an autoloader. anything else I should add? each leg can rotate but there is suspension in the hull to prevent it from rotating too much, and each road wheel on each leg is also suspended independently
+creations-chat 2021-05-17 19:44:39 Aside from paint and what kind of details?
+creations-chat 2021-05-17 19:46:54 Fair enough
+creations-chat 2021-05-17 22:06:05 balls
+creations-chat 2021-05-17 22:10:07 https://media.discordapp.net/attachments/775823451747123201/839128257617330216/caption-5.gif
+
+banned speedrun
+creations-chat 2021-05-17 22:12:14 API; automated poop intelligence
+
+sussy smell bad 😠
+creations-chat 2021-05-17 22:50:22 ive returned
+creations-chat 2021-05-17 22:54:33 goodbye
+creations-chat 2021-05-19 07:12:47 para de bater aqui
+the-dump 2021-07-03 18:05:43 cry about it Bosnian <:trollface:775024642104229898>
+the-dump 2021-07-30 02:43:57 https://tenor.com/view/elite-phoenix-fnaf-five-nights-five-nights-freddy-gif-20947210
+the-dump 2021-07-30 02:44:09 ^
+bot-central 2022-01-30 20:46:49 -servers
+plane-crazy 2022-01-30 21:25:13 someone got a large space ship build i can test my missile on
+plane-crazy 2022-01-30 21:25:24 somethin like 40k or halo
+plane-crazy 2022-01-30 21:26:00 its a "boarding" missile, basically just a shredder head used to embed in a ship then spring out some boom booms and explode
+plane-crazy 2022-01-30 23:36:29 i am once again asking if anyone has large ships (preferably space ships) i can test my breaching torpedo on
+plane-crazy 2022-01-30 23:39:01 that works
+plane-crazy 2022-01-30 23:39:10 i honestly just wanna know if this thing works ngl
+plane-crazy 2022-01-30 23:39:23 it needs to be big enough for a pretty chunky torpedo to slam in and bury itself
+plane-crazy 2022-02-20 21:53:21 any advice for making my magnet cannon fire smoother?
+plane-crazy 2022-02-20 21:53:25 i use ice already
+plane-crazy 2022-02-20 21:56:32 input requested
+bot-central 2022-06-11 00:16:48 -servers
+plane-crazy 2022-06-13 01:50:38 need reccomendations for a good air to air missile design
+plane-crazy 2022-09-10 20:44:02 exposed nuts
+plane-crazy 2022-11-12 02:24:03 whats the best block for ERA

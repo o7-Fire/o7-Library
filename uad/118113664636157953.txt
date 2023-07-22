@@ -1,0 +1,1007 @@
+The Tale of hexagonest (118113664636157953)
+plane-crazy 2018-12-04 02:32:04 tutorial planes are fun target practice until they start flinging their mouse around
+plane-crazy 2018-12-04 02:34:13 on the other hand it's hilarious when you hit their motor and it just falls over
+plane-crazy 2018-12-04 02:34:53 variable density
+plane-crazy 2018-12-04 02:35:04 you can change the weight of it to balance your plane
+plane-crazy 2018-12-04 02:43:20 is it bad that my jet is unreasonably loud
+plane-crazy 2018-12-04 03:07:49 f35 can't do anything well
+plane-crazy 2018-12-04 03:08:59 f14 > all of them
+creations-chat 2018-12-04 03:11:25 not necessarily, you can do it with pistons
+creations-chat 2018-12-04 03:11:35 displaying might be a challenge but doing the math itself is not too difficult
+creations-chat 2018-12-04 03:16:33 make a graphing calculator
+plane-crazy 2018-12-06 23:21:28 ballasts are literally just blocks with variable density, they have no inputs at all
+plane-crazy 2018-12-06 23:24:11 the speed indicator is in studs/second or sps
+plane-crazy 2018-12-08 01:13:33 this is the one and only time i hope it's a problem on roblox's side instead of actually being a game problem
+plane-crazy 2018-12-08 01:15:14 what's he supposed to do
+plane-crazy 2018-12-08 20:51:27 i had an f14 before my saves got yeeted last night, can i still post it in creations?
+plane-crazy 2018-12-08 21:10:15 with lock enabled i've never had much of a problem with engine misalignment on vtols, unless that behavior was changed
+plane-crazy 2018-12-08 21:12:20 that's what reset is supposed to do i believe
+plane-crazy 2018-12-08 21:12:44 it locks the motor in place when you aren't actively controlling it
+plane-crazy 2018-12-08 21:14:17 maxtorque is how much torque the motor can put into moving whatever's attached, the higher it is the more force it'll use and therefore the faster it'll accelerate  <@104668735972843520>
+plane-crazy 2018-12-08 21:17:09 scroll up, i answered that a little while ago tealur
+plane-crazy 2018-12-08 21:49:15 max torque is how much force the motor can use to accelerate itself to whatever rotational velocity you want, tl;dr more torque = motor reaches velocity quicker
+plane-crazy 2018-12-08 21:56:33 it's literally explained in announcements
+plane-crazy 2018-12-08 22:07:23 the best picture i have of my f14 with the wings extended is one where i'm standing on the side of the plane rather than inside the cockpit, nice.
+creations-chat 2018-12-08 22:09:27 f14 tomcat
+creations-chat 2018-12-08 22:09:35 
+creations-chat 2018-12-08 22:09:37 
+plane-crazy 2018-12-08 22:25:59 as in, staying where you left them?
+plane-crazy 2018-12-08 22:27:40 turn on lock
+plane-crazy 2018-12-08 23:26:43 custom fps destroyer*
+plane-crazy 2018-12-08 23:28:59 turn down brightness, new lighting engine makes lights a lot brighter
+plane-crazy 2018-12-08 23:29:41 once people adapt to brightness being a lot more sensitive it'll be really neat but for now expect a lot of neon
+plane-crazy 2018-12-08 23:31:00 yes
+plane-crazy 2018-12-08 23:32:51 reduced torque means i get to wait three years for my ship to unfold completely
+plane-crazy 2018-12-08 23:32:52 yay
+plane-crazy 2018-12-08 23:50:25 i've made a terrible mistake
+plane-crazy 2018-12-08 23:57:32 paint tool
+plane-crazy 2018-12-09 13:17:42 floating point precision errors are great aren't they
+plane-crazy 2018-12-09 14:52:43 is this too much power for one man
+plane-crazy 2018-12-09 14:53:49 it gets the sub up to a blazing 3 studs/s at full speed
+plane-crazy 2018-12-09 14:56:50 ballast and lots of patience
+plane-crazy 2018-12-09 14:57:06 still gotta balance my ohio
+plane-crazy 2018-12-09 15:02:29 i'm working on an unnecessarily large submarine if that counts
+plane-crazy 2018-12-09 15:03:57 i've got no weapons lol
+plane-crazy 2018-12-09 15:08:42 build an airliner with an airport on top
+plane-crazy 2018-12-09 15:17:00 surfacing
+plane-crazy 2018-12-09 15:18:53 paint "NOT A RUNWAY" in massive letters on the deck
+plane-crazy 2018-12-09 15:21:39 this isn't close to complete either xd
+plane-crazy 2018-12-09 15:21:58 roughly 2.5x the length of the build plot
+plane-crazy 2018-12-09 15:22:27 here you go
+plane-crazy 2018-12-09 15:23:43 this isn't built for speed
+plane-crazy 2018-12-09 15:23:51 although it goes a blazing 26 in the water
+plane-crazy 2018-12-09 15:23:58 18 while diving
+plane-crazy 2018-12-09 15:24:51 going to finish it up and post this mad lad in creations
+plane-crazy 2018-12-09 15:47:23 <#473249376223887371> ..
+plane-crazy 2018-12-09 15:56:37 physics
+general 2018-12-09 15:58:18 <@!153949186511863808> he already explained why he needs a laptop and not a pc
+plane-crazy 2018-12-09 15:59:44 my submarine uses 24 super rockets just to spin the turbine xd
+plane-crazy 2018-12-09 16:00:27 or you could just use a super rocket
+plane-crazy 2018-12-09 16:01:41 for creations that fold, don't set the speed on the motors high
+plane-crazy 2018-12-09 16:01:46 torque should be high tho
+plane-crazy 2018-12-09 16:07:45 unupdated servers breaking my motors are great
+plane-crazy 2018-12-09 16:20:20 use delta wings..
+plane-crazy 2018-12-09 16:48:30 increase the max torque then
+plane-crazy 2018-12-09 17:29:06 why do 1x7 beams still not want to place correctly onto each other ree
+creations-chat 2018-12-09 20:26:10 20 studs is 1 meter
+creations-chat 2018-12-09 20:26:32 blocks are ~2.5 studs i believe
+creations-chat 2018-12-09 20:35:29 my sub works fine and it folds
+plane-crazy 2018-12-09 20:38:57 i've got 4 saves and i'm approaching max data
+plane-crazy 2018-12-09 20:38:59 send help
+creations-chat 2018-12-09 20:39:08 about to post it, gimme a sec
+plane-crazy 2018-12-09 20:58:28 my tracks before my saves got corrupted
+plane-crazy 2018-12-09 21:00:02 pistons pushed the outer wheels and the frame was made so they would slot into place nicely
+plane-crazy 2018-12-09 21:24:32 it's annoying when people use it to jump onto my stuff that i raised specifically so they couldn't
+creations-chat 2018-12-09 21:27:17 Ohio-class Submarine
+Requesting ranks: Lag Machine, Sea Marshal, Submarine Commander
+creations-chat 2018-12-09 21:27:23 
+creations-chat 2018-12-09 21:27:27 
+plane-crazy 2018-12-09 23:23:06 trying to make the ohio class neutrally buoyant instead of positive
+plane-crazy 2018-12-10 02:04:51 has anyone made a gearbox with a clutch yet?
+plane-crazy 2018-12-10 02:06:36 i've got a prototype for a 2 speed gearbox with a clutch, would that be enough
+plane-crazy 2018-12-10 03:28:41 this is going to be a disaster
+creations-chat 2018-12-10 04:03:58 unfortunately i lost the save when my saves got corrupted but i'm going to rebuild it at some point
+plane-crazy 2018-12-10 06:09:57 or do what i did and build a 2300 part submarine instead of something that doesn't destroy the physics delta of the server
+plane-crazy 2018-12-10 22:12:23 posting my tank treads was a mistake
+plane-crazy 2018-12-10 22:13:13 i've seen 5 people claiming they made it after i posted it here
+plane-crazy 2018-12-10 22:13:37 and naturally everyone else on the server is copying them and saying they "got inspiration"
+plane-crazy 2018-12-10 22:14:09 there are several other ways
+plane-crazy 2018-12-10 22:14:38 there's tutorials on youtube for a weird design using a lot of motors, there's designs with ropes and various other ways
+plane-crazy 2018-12-11 01:32:40 everything
+creations-chat 2018-12-11 01:50:09 imo the fuselage should be a little wider, wings look good
+creations-chat 2018-12-11 01:50:59 body of the plane
+plane-crazy 2018-12-11 19:55:57 i start at 7:30am and end at 3pm
+plane-crazy 2018-12-12 15:34:57 it seems like motors reset a lot slower now
+plane-crazy 2018-12-12 15:37:33 they're trying to reset by going completely around so they're just stuck there
+plane-crazy 2018-12-12 15:42:20 figured that out with trying to make it work again
+plane-crazy 2018-12-12 15:42:52 reset appears to be a lot slower now so i have to replace it with control surfaces
+plane-crazy 2018-12-12 15:42:53 ree
+plane-crazy 2018-12-12 16:21:28 isn't that their problem though
+plane-crazy 2018-12-12 16:22:12 maybe mouseover text to explain what certain things do
+plane-crazy 2018-12-12 16:23:03 can't use my saturn v without it because the motor is too weak to lift the thicc boie now ree
+plane-crazy 2018-12-12 16:35:17 was the motor reset functionality changed?
+plane-crazy 2018-12-12 17:52:23 there's always the good old right click
+plane-crazy 2018-12-12 17:59:08 why are you posting that again
+plane-crazy 2018-12-13 00:38:53 you need a rank to suggest things
+plane-crazy 2018-12-13 00:39:11 maybe that should be put in the channel topic
+plane-crazy 2018-12-13 00:44:55 i never saw your verified role disappear and i was checking after you said it totten
+plane-crazy 2018-12-13 00:46:33 discord doesn't care
+plane-crazy 2018-12-13 17:33:52 why can't motor lock just actually weld the two parts together
+plane-crazy 2018-12-13 17:34:32 because a locked motor shouldn't move
+plane-crazy 2018-12-13 17:35:12 it would reduce lag if it welded when not in motion
+plane-crazy 2018-12-13 17:35:36 instead of 2 physics objects with a motor trying to stay still it's now 1
+plane-crazy 2018-12-13 17:36:07 ..yes
+plane-crazy 2018-12-13 17:36:59 it does
+plane-crazy 2018-12-13 17:37:32 super is better for the weight
+plane-crazy 2018-12-13 17:37:52 and yeah i doubt it'll change to welding but it would make a lot more sense that way
+plane-crazy 2018-12-13 17:38:50 interesting
+plane-crazy 2018-12-13 23:21:24 are you genuinely too lazy to place normal blocks
+plane-crazy 2018-12-13 23:21:41 you also clutter the block list even more
+plane-crazy 2018-12-13 23:29:58 tracks are fun
+plane-crazy 2018-12-13 23:30:47 yes
+plane-crazy 2018-12-13 23:31:47 tutorials *are* for new players but when they don't bother to make their own stuff and just play with that vtol or me262 it gets obnoxious
+plane-crazy 2018-12-13 23:33:08 public pvp: tutorial planes completely covered in guns and rockets
+plane-crazy 2018-12-13 23:33:39 "spawnkilling is a tactic"
+plane-crazy 2018-12-13 23:45:02 ryanair? where economy class is standing?
+plane-crazy 2018-12-13 23:45:59 if i may make a suggestion for your livery
+plane-crazy 2018-12-13 23:46:02 
+plane-crazy 2018-12-15 03:26:15 idk if he's actually having this issue but i've had that before
+plane-crazy 2018-12-15 03:26:32 people i haven't blacklisted couldn't walk onto my plot
+plane-crazy 2018-12-15 03:31:28 still flying
+plane-crazy 2018-12-15 03:31:54 shot someone down like that
+plane-crazy 2018-12-15 03:31:57 tbf it was a lucky hit
+plane-crazy 2018-12-15 03:33:11 i didn't say it was bad
+plane-crazy 2018-12-15 03:33:14 weird flex but ok
+plane-crazy 2018-12-15 03:33:52 there's a turret spam firing at me and i'm not even spawned
+plane-crazy 2018-12-15 03:37:30 ~~just like the real ones~~
+plane-crazy 2018-12-15 03:39:36 here's a japanese zero
+plane-crazy 2018-12-15 03:39:37 ゼロ
+creations-chat 2018-12-15 04:32:14 ..put it this way, light speed has 10 decimal places and that has ***16***.
+creations-chat 2018-12-15 04:38:10 his speed is 216 times the speed of light, i think he's good
+creations-chat 2018-12-15 04:39:12 definitely a high g turn but probably not the turn you expected
+creations-chat 2018-12-15 04:44:01 there's a guide in <#501034677793193994>
+plane-crazy 2018-12-15 14:20:01 you can set your spawn to water if that's what you mean
+plane-crazy 2018-12-15 14:20:43 oh that
+plane-crazy 2018-12-15 14:20:45 that'd be ice
+plane-crazy 2018-12-15 14:21:32 imperial, do you know of any ways to stop wings from flailing about violently?
+plane-crazy 2018-12-15 14:21:44 my b52 is unusable
+plane-crazy 2018-12-15 14:21:45 i do
+plane-crazy 2018-12-15 14:22:54 it's fine on the ground but once it gets in the air they start flinging violently
+plane-crazy 2018-12-15 14:23:40 jettisoning the canopy sometimes fixes it
+plane-crazy 2018-12-15 14:23:45 but then i'm flying a convertible b52
+plane-crazy 2018-12-15 14:24:28 no
+plane-crazy 2018-12-15 14:24:32 skiddy boie
+plane-crazy 2018-12-15 14:25:26 yeah i was wondering if it's because the wings have forces on them and they're so light that roblox has a seizure
+plane-crazy 2018-12-15 14:25:35 i put ballast on the ends and it seemed to dampen it
+plane-crazy 2018-12-15 14:27:11 same with this
+plane-crazy 2018-12-15 14:27:17 the fuselage stays intact fine
+plane-crazy 2018-12-15 14:27:29 i tried to use magnets to weld the wings at the base and that kinda fixed it but they rarely actually weld
+plane-crazy 2018-12-15 14:28:53 nice
+plane-crazy 2018-12-15 14:29:05 if i even attempt to unfold my wings when they're deployed it does a weird flip and then voids
+creations-chat 2018-12-15 14:31:49 i don't know if there's actually a rule regarding this but did you have to post so many screenshots
+creations-chat 2018-12-15 14:32:51 you have to request a rank
+plane-crazy 2018-12-15 14:52:24 i think i'm gonna go for rocket scientist
+plane-crazy 2018-12-15 15:05:11 shouldn't you be in <#497142796961054721>
+plane-crazy 2018-12-15 15:14:06 are rockets vtols
+plane-crazy 2018-12-15 15:14:28 rip
+plane-crazy 2018-12-15 15:14:36 *looks at falcon 9* did you say one time use
+plane-crazy 2018-12-15 15:15:52 sr71 actually existed
+plane-crazy 2018-12-15 15:16:14 it really doesn't
+plane-crazy 2018-12-15 15:16:41 sr72 is a concept
+plane-crazy 2018-12-15 15:23:50 please tell me you don't think that's real
+plane-crazy 2018-12-15 15:25:35 your suggestion really isn't very specific
+plane-crazy 2018-12-15 15:38:44 discord thinks my saturn v is explicit
+plane-crazy 2018-12-15 15:38:45 hot?
+plane-crazy 2018-12-15 15:40:48 send help
+plane-crazy 2018-12-15 15:44:51 bombers would carry it and drop it when they needed an escort
+plane-crazy 2018-12-15 15:45:13 that's a glider
+plane-crazy 2018-12-15 15:48:01 big boie
+creations-chat 2018-12-15 15:56:01 Saturn V, 3791 blocks
+Requesting ranks: Master Rocket Scientist
+creations-chat 2018-12-15 15:56:06 
+creations-chat 2018-12-15 15:56:13 
+creations-chat 2018-12-15 15:56:17 
+plane-crazy 2018-12-15 16:03:37 ..time to modify my ohio-class
+plane-crazy 2018-12-15 16:43:00 neat, it landed on land
+plane-crazy 2018-12-15 16:50:25 ..middle wing panels?
+plane-crazy 2018-12-15 20:40:53 it's free!
+plane-crazy 2018-12-18 03:09:03 american problem solving in progress
+plane-crazy 2018-12-18 03:14:42 ._.
+plane-crazy 2018-12-18 03:16:03 this server is a disaster
+plane-crazy 2018-12-18 03:16:23 it's a public server ye
+plane-crazy 2018-12-18 03:26:01 my saturn v has a lot of engines and it keeps despawning because of that
+plane-crazy 2018-12-18 03:26:02 sigh
+plane-crazy 2018-12-18 03:33:17 <@365636270040416257> you were trying to make an ejection system?
+plane-crazy 2018-12-18 03:34:55 
+plane-crazy 2018-12-18 03:35:00 here's the tomcat's ejection system
+plane-crazy 2018-12-18 03:35:36 could fit the disconnector in the back wall maybe
+plane-crazy 2018-12-18 03:35:53 that post part isn't solid so it'll go through blocks
+plane-crazy 2018-12-18 03:36:59 i mean hey if it gets the seat out of the plane it's working right
+plane-crazy 2018-12-18 03:37:18 oh nice
+plane-crazy 2018-12-18 03:44:08 fixes it
+plane-crazy 2018-12-18 03:44:45 this setup is the most space efficient i could come up with
+plane-crazy 2018-12-18 03:45:02 it doesn't always yeet the seat but it gets it away from the plane at least
+plane-crazy 2018-12-18 03:45:09 lol my b52 has ejection seats and it rarely works
+plane-crazy 2018-12-18 03:45:24 *blender*
+plane-crazy 2018-12-18 03:45:55 sideways or down
+plane-crazy 2018-12-18 03:46:21 inb4 timed perfectly and it goes straight through an opening in the blades
+plane-crazy 2018-12-18 03:46:33 you're better off going sideways, down, or forwards
+plane-crazy 2018-12-18 03:47:28 if all else fails bring a blowtorch
+plane-crazy 2018-12-18 03:49:39 when your cpu fan is louder than a jet engine
+plane-crazy 2018-12-18 03:52:42 my cpu fan on my dumpster fire laptop would get up to 3000 rpm under load
+plane-crazy 2018-12-18 17:46:41 that's true but roblox moderation doesn't really look at those games past automated checks
+plane-crazy 2018-12-18 17:47:45 unfortunately i don't believe roblox would like the historical accuracy argument all that much so it's better to be on the safe side
+plane-crazy 2018-12-18 17:48:49 yes lt
+plane-crazy 2018-12-18 17:50:20 i don't think he's arguing against historical accuracy as much as he's arguing that it's probably not a good idea to allow it on roblox given their terms of service
+plane-crazy 2018-12-18 17:52:48 <#504436696021204992>?
+plane-crazy 2018-12-18 17:53:58 moderation rarely looks at small games, automated checks is all they ever get
+plane-crazy 2018-12-18 17:54:32 and as for clothing with swastikas there's a rule against that in the tos so it will probably be removed
+plane-crazy 2018-12-18 20:54:39 does the slowmode command support scientific notation?
+plane-crazy 2018-12-18 20:55:25 9x10^999 xd
+plane-crazy 2018-12-18 20:57:11 ..fun trivia, 9e999 seconds is 2 followed by 982 zeroes times the age of the universe
+plane-crazy 2018-12-18 20:57:19 perfect slowmode
+plane-crazy 2018-12-18 22:11:27 why would you upvote yourself tho
+plane-crazy 2018-12-18 22:12:14 there's a way to have bots remove reactions from posts
+plane-crazy 2018-12-18 22:12:29 i wonder if there's some way to configure the bot to remove the poster's upvotes
+plane-crazy 2018-12-18 22:13:02 there's a bot that does it in a server i'm in
+plane-crazy 2018-12-18 22:14:01 ~~most of roblox does~~
+plane-crazy 2018-12-18 22:15:13 i'm seriously considering making my saturn v able to land its first stage
+plane-crazy 2018-12-18 22:15:15 am i going insane
+plane-crazy 2018-12-18 22:15:26 ~~not like this~~
+plane-crazy 2018-12-18 22:15:46 ~~
+plane-crazy 2018-12-18 22:15:49 before and after
+plane-crazy 2018-12-18 22:24:10 as in
+plane-crazy 2018-12-18 22:24:15 actual functional flapping wings that allow you to fly?
+plane-crazy 2018-12-18 22:24:23 ..brb
+plane-crazy 2018-12-18 22:24:41 *looks at every folding aircraft in existence*
+plane-crazy 2018-12-18 22:26:59 depends on what kind of plastic rick used to make the parts
+plane-crazy 2018-12-18 22:30:43 <@!484363661121421332> this might help
+plane-crazy 2018-12-18 22:30:48 that's how i fold my b52's wings
+plane-crazy 2018-12-18 22:31:11 control surface behind the motor is turned off, it just creates a gap between the wing and motor
+plane-crazy 2018-12-18 22:31:33 it's extremely tempermental when it flies
+plane-crazy 2018-12-18 22:31:43 the wings are either stable or violently flapping
+plane-crazy 2018-12-18 22:32:05 ~~it also has a top speed of like 400 because thicc~~
+plane-crazy 2018-12-18 22:33:08 maybe it'll fly this time
+plane-crazy 2018-12-18 22:34:28 sigh
+plane-crazy 2018-12-18 22:34:28 aaand the wings are now trying to depart from the rest of the aircraft
+plane-crazy 2018-12-18 22:35:33 now that's an interesting spelling
+plane-crazy 2018-12-18 22:35:48 motor is circled <@!484363661121421332>
+plane-crazy 2018-12-18 22:36:05 it rotates to the left and those half wedges kinda lock it against the half blocks
+plane-crazy 2018-12-18 22:36:32 do you need me to blur the rest of the image too
+plane-crazy 2018-12-18 22:36:36 and highlight it
+plane-crazy 2018-12-18 22:37:22 here's the wing deployed so you can see what it does
+plane-crazy 2018-12-18 22:38:17 not yet
+plane-crazy 2018-12-18 22:38:25 stopped working on it because the wing stability was garbage
+plane-crazy 2018-12-18 22:38:41 waiting for motors to be more stable when they're locked
+plane-crazy 2018-12-18 22:38:53 it starts oscillating violently and flaps itself to death
+plane-crazy 2018-12-18 22:39:16 i mean
+plane-crazy 2018-12-18 22:39:22 putting magnets on the base of the wing helped
+plane-crazy 2018-12-18 22:39:24 but now it does this
+plane-crazy 2018-12-18 22:39:35 
+plane-crazy 2018-12-18 22:39:38 symmetrical
+plane-crazy 2018-12-18 22:40:02 it's not
+plane-crazy 2018-12-18 22:40:20 there's absolutely nothing i can do about it rn
+plane-crazy 2018-12-18 22:40:28 *cough* if motors welded when they locked.. *cough*
+plane-crazy 2018-12-18 22:41:26 i mean at least every crew seat can eject
+plane-crazy 2018-12-18 22:41:28 even the rear gunner
+plane-crazy 2018-12-18 22:43:10 here's my tomcat's system, it's practically the same in the b52
+plane-crazy 2018-12-18 22:44:00 ye, compact and it yeets the seat enough for what i need
+plane-crazy 2018-12-18 22:45:05 tail gunner lol
+plane-crazy 2018-12-18 22:45:18 old screenshot so it's unpainted but meh
+plane-crazy 2018-12-18 22:47:49 ejection system xd
+plane-crazy 2018-12-18 22:48:08 that is a tomcat
+plane-crazy 2018-12-18 22:48:59 yes
+plane-crazy 2018-12-18 22:54:27 
+plane-crazy 2018-12-18 22:54:40 whoops, did i do that
+plane-crazy 2018-12-18 22:56:03 inside the plane
+plane-crazy 2018-12-19 20:10:23 <@282630784928710657> you don't need a height increase to build bfr
+plane-crazy 2018-12-20 12:45:38 it was your choice to start it wasn't it
+plane-crazy 2018-12-20 12:47:42 you know when you start a project and work on it for like 7 minutes and you decide it's going to be a trainwreck but you keep working on it?
+plane-crazy 2018-12-20 12:47:43 me rn
+plane-crazy 2018-12-20 12:55:23 rip the rad lad
+plane-crazy 2018-12-20 13:34:56 read that as house and got confused
+plane-crazy 2018-12-20 13:37:40 worse than an apple keyboard?
+plane-crazy 2018-12-20 13:37:41 is that possible?
+plane-crazy 2018-12-20 14:23:35 ree never got ranked for my rocket
+plane-crazy 2018-12-20 14:25:52 what do if i didn't get ranked for something i posted in creations
+plane-crazy 2018-12-20 14:27:28 better not be orks
+plane-crazy 2018-12-20 14:31:57 how could i attach the wheel arch cover without making it look like garbage?
+plane-crazy 2018-12-20 14:33:28 the problem is the wheel blocks placement of parts there
+plane-crazy 2018-12-20 14:39:46 you've been here for how long and you don't know how to get ranks
+plane-crazy 2018-12-20 14:39:48 are you serious
+plane-crazy 2018-12-20 14:40:19 ~~pleasedont~~
+plane-crazy 2018-12-20 14:41:10 age barrier probably didn't exist then
+plane-crazy 2018-12-20 14:43:06 that's the third time you've posted that
+plane-crazy 2018-12-20 14:44:05 then explain it
+plane-crazy 2018-12-20 14:44:16 ..then explain it?
+plane-crazy 2018-12-20 14:44:27 if you post the image with a caption all of it goes to the creations channel
+plane-crazy 2018-12-20 14:45:12 gifs do
+plane-crazy 2018-12-20 14:45:22 they don't like videos unless it's streamable/yt/not a file
+plane-crazy 2018-12-20 14:51:04 you didn't even try to explain it
+plane-crazy 2018-12-20 14:51:05 what is it
+plane-crazy 2018-12-20 15:11:02 i have a big boie that flies straight up
+plane-crazy 2018-12-20 15:12:54 you don't
+plane-crazy 2018-12-20 15:34:29 you need a rank
+general 2018-12-20 15:36:49 
+general 2018-12-20 15:36:52 did you already forget
+plane-crazy 2018-12-26 01:30:50 by the airport
+plane-crazy 2018-12-26 01:36:22 are they ever
+plane-crazy 2018-12-26 12:37:46 what happened to slot 8?
+plane-crazy 2018-12-26 13:01:50 oh ffs i lost the b52 in slot 8
+bug-reports 2018-12-26 13:26:07 i think stridel was saying winter update is his least favorite because he lost his carrier with the new save/load not having slot 8
+plane-crazy 2018-12-26 13:57:50 as in, the nose slowly drops to the horizon?
+plane-crazy 2018-12-26 13:57:59 or literally falling out of the sky
+plane-crazy 2018-12-26 13:58:15 yes that's normal
+plane-crazy 2018-12-26 13:58:22 just means your center of lift is behind the center of mass
+plane-crazy 2018-12-26 13:58:28 so it's rotating the plane pitch down
+plane-crazy 2018-12-26 13:59:22 wasn't worth losing a save slot for
+plane-crazy 2018-12-26 13:59:27 but it's alright i guess
+plane-crazy 2018-12-26 14:00:14 yes
+plane-crazy 2018-12-26 14:00:18 autosave is in its place
+plane-crazy 2018-12-26 14:00:25 yes
+plane-crazy 2018-12-26 14:00:37 
+plane-crazy 2018-12-26 14:00:40 rip 8
+plane-crazy 2018-12-26 14:03:32 for some reason i can't submit suggestions even though i have ranks
+plane-crazy 2018-12-26 14:03:33 fantastic
+plane-crazy 2018-12-26 14:04:33 moderators don't update the game my guy
+plane-crazy 2018-12-26 14:06:41 ah, did not see that
+plane-crazy 2018-12-26 14:07:27 awd
+plane-crazy 2018-12-26 14:07:31 sports trains don't exist
+plane-crazy 2018-12-26 14:09:11 i had a bendy b52 in slot 8 xd
+plane-crazy 2018-12-26 14:10:52 that's not a railgun
+plane-crazy 2018-12-26 14:10:54 that's a railway gun
+plane-crazy 2018-12-26 14:11:31 on a straight section you could
+plane-crazy 2018-12-26 14:11:35 through the turns it would not work
+plane-crazy 2018-12-26 14:14:09 probably not inftorque
+plane-crazy 2018-12-26 14:14:17 toggle if you want to press the key once and it keeps going
+plane-crazy 2018-12-26 14:15:08 not if you're actually using it for its intended purpose
+plane-crazy 2018-12-26 14:15:52 what
+plane-crazy 2018-12-26 14:16:47 they can't really do anything harmful
+plane-crazy 2018-12-26 14:18:04 so they can turn independently of the carriage
+plane-crazy 2018-12-26 14:58:43 papi brick, is slot 8 being revived any time soon
+plane-crazy 2018-12-26 14:59:44 snapped by autosave
+plane-crazy 2018-12-26 15:00:18 slot 8 was my b52h
+plane-crazy 2018-12-26 15:00:53 what
+plane-crazy 2018-12-26 15:01:21 you might have turned off autosave if's permanently saved as something
+plane-crazy 2018-12-26 15:01:26 i use it as a save slot lmao
+plane-crazy 2018-12-26 15:03:55 *downforce*
+plane-crazy 2018-12-26 15:04:32 thank papi brick
+plane-crazy 2018-12-26 15:07:17 nx class is already 2100 blocks
+plane-crazy 2018-12-26 15:09:02 i saved my nx 10 seconds before the update and it didn't save
+plane-crazy 2018-12-26 15:09:03 nice
+plane-crazy 2018-12-26 15:09:15 time to rebuild what i've spent the last hour doing
+plane-crazy 2018-12-26 15:09:35 i saved several times
+plane-crazy 2018-12-26 15:09:44 the version that is in the slot is from
+plane-crazy 2018-12-26 15:09:46 around 2 hours ago
+plane-crazy 2018-12-26 15:10:20 it does exist though
+plane-crazy 2018-12-26 15:10:37 
+plane-crazy 2018-12-26 15:10:40 the scroll bar is a little confused
+plane-crazy 2018-12-26 15:10:42 but it's there
+plane-crazy 2018-12-26 15:10:55 one that flies
+plane-crazy 2018-12-26 15:18:32 less resistance in a straight line
+plane-crazy 2018-12-26 15:20:04 do you have to put blank lines between sentences
+plane-crazy 2018-12-26 15:20:37 did you ask for ranks when you submitted them
+plane-crazy 2018-12-26 15:22:18 they really don't
+creations-chat 2018-12-26 15:29:57 <@456226577798135808> he was told to repost them because they were missed the first time around
+creations-chat 2018-12-26 15:32:14 should i repost my saturn v since i never got ranked for it
+creations-chat 2018-12-26 15:35:40 Saturn V, 3791 blocks, requesting master rocket scientist
+creations-chat 2018-12-26 15:35:50 1st stage sep
+creations-chat 2018-12-26 15:35:57 2nd
+creations-chat 2018-12-26 15:36:03 and 3rd
+creations-chat 2018-12-26 15:36:41 csm also separates but would rather not clutter it
+creations-chat 2018-12-26 15:36:52 escape tower works when it feels like it
+plane-crazy 2018-12-26 15:42:27 motors
+plane-crazy 2018-12-26 15:42:40 functional s foils shouldn't actually be difficult now that i think about it
+plane-crazy 2018-12-26 16:06:53 a whole new meaning to track car
+plane-crazy 2018-12-26 16:07:02 not sure why this actually works
+plane-crazy 2018-12-26 16:08:56 normal version is better but i don't think i've posted it here yet
+plane-crazy 2018-12-26 16:22:50 slot 8 is already back
+plane-crazy 2018-12-26 16:23:18 yes
+plane-crazy 2018-12-26 16:36:39 this will not end well
+plane-crazy 2018-12-26 16:41:14 note to self: skis are absolutely awful for turning
+plane-crazy 2018-12-28 15:06:25 center of mass vs center of lift affects handling
+plane-crazy 2018-12-28 15:06:55 the closer they are the more sensitive it is to controls
+plane-crazy 2018-12-30 17:47:24 have i taken this too far
+plane-crazy 2018-12-30 17:47:57 haw yee
+plane-crazy 2019-01-02 22:13:27 is that identity theft
+plane-crazy 2019-01-02 22:13:43 ..close enough
+plane-crazy 2019-01-02 22:14:25 i was asking if it was that game
+plane-crazy 2019-01-02 22:14:28 i know what character it is
+plane-crazy 2019-01-02 22:14:34 it's the one that likes hugs
+plane-crazy 2019-01-02 22:15:09 fun fact, stan appears in corridors that will bring you closer to the exit
+plane-crazy 2019-01-02 22:17:07 xd
+plane-crazy 2019-01-02 22:17:07 just stop randomly and /e wave and you'll make anyone run
+plane-crazy 2019-01-02 22:18:26 it's even better when it waves back and turns out to actually be fraud
+plane-crazy 2019-01-02 22:23:32 probably a lot depending on how buoyant it is <@373585820436660226>
+plane-crazy 2019-01-02 22:33:12 just fill it until it's where you want it
+plane-crazy 2019-01-03 23:43:36 people who block unfolding creations just for the sake of it are actual cancer
+plane-crazy 2019-01-03 23:46:26 i'm not even disrupting them
+plane-crazy 2019-01-03 23:46:28 it passes over like
+plane-crazy 2019-01-03 23:46:30 near the height limit
+plane-crazy 2019-01-03 23:46:41 and only the escape tower
+plane-crazy 2019-01-04 17:56:45 iq < room temperature?
+plane-crazy 2019-01-04 18:00:44 coming back to see 5 people coincidentally building the exact same thing
+plane-crazy 2019-01-04 18:01:04 *hide plot when*
+plane-crazy 2019-01-04 20:42:48 <@280026855782744064> sweep the wings back on that b52
+plane-crazy 2019-01-04 20:43:46 the trailing edge (back of the wing) isn't supposed to be straight
+plane-crazy 2019-01-04 20:44:41 and the front of the wing might look better as 1x3 delta instead of 1x4
+plane-crazy 2019-01-04 20:45:36 my mad lad b52 uses 1x3 slopes on the front of the wing and 1x4s for the back
+plane-crazy 2019-01-04 20:47:30 if there's room above that rack then you could put another
+plane-crazy 2019-01-04 20:48:00 guessing that's on the center already
+plane-crazy 2019-01-04 20:48:14 use 1x0.9s on the top of the bay
+plane-crazy 2019-01-04 20:48:49 if you put 1x.9s on the top of the bay you could store another rack and it won't weld to the top
+plane-crazy 2019-01-04 21:57:56 waiting for my b52's wings to lock into place is so much fun
+plane-crazy 2019-01-04 21:58:03 5 minutes of flapping while waiting for magnets to realize they exist
+plane-crazy 2019-01-05 16:39:30 after playing on a public server, would you really be surprised
+plane-crazy 2019-01-05 16:43:00 <#478584971670454284> ?
+plane-crazy 2019-01-05 16:50:00 why would you try to tag everyone
+plane-crazy 2019-01-05 16:50:09 fortunately it's disabled but still why
+plane-crazy 2019-01-05 16:51:49 have you tried removing the extra parts
+plane-crazy 2019-01-05 16:56:44 repainted the car and made a new rear wing xd
+plane-crazy 2019-01-05 16:58:56 are you in a pvp server
+plane-crazy 2019-01-06 15:50:36 thats not how this works
+plane-crazy 2019-01-06 15:50:56 you can't
+plane-crazy 2019-01-06 15:51:42 
+plane-crazy 2019-01-06 15:51:45 currently flying mine
+plane-crazy 2019-01-06 15:52:46 do you have a tail gunner position yet
+plane-crazy 2019-01-06 15:55:13 i built this in around an hour and a half
+plane-crazy 2019-01-06 15:55:23 so i don't really care if you want to flex joey
+plane-crazy 2019-01-06 15:57:15 why do you need tracks
+plane-crazy 2019-01-06 15:57:30 they're not that hard to make
+plane-crazy 2019-01-06 15:58:01 that removes the effort required
+plane-crazy 2019-01-06 15:58:06 it's more fun to make them yourself and experiment
+plane-crazy 2019-01-06 15:58:40 3 blocks wide at most and like 5 tall and however long you want is too big?
+plane-crazy 2019-01-06 16:00:43 why do you need a turret ring
+plane-crazy 2019-01-06 16:00:55 do you know what motors are
+plane-crazy 2019-01-06 16:01:22 ^^^^
+plane-crazy 2019-01-06 16:02:08 you could just build tracks that work
+plane-crazy 2019-01-06 16:06:32 now flying a convertible
+plane-crazy 2019-01-06 16:07:53 should i test ejection seats
+plane-crazy 2019-01-06 16:08:17 i've got boarders
+plane-crazy 2019-01-06 16:09:02 of this?
+plane-crazy 2019-01-06 16:09:10 uh
+plane-crazy 2019-01-06 16:09:12 320 on a good day
+plane-crazy 2019-01-06 16:09:16 in reality, with physics lag?
+plane-crazy 2019-01-06 16:09:17 more like 150
+plane-crazy 2019-01-06 16:10:07 yeehaw
+plane-crazy 2019-01-06 16:10:20 oh i didn't fire the tailgunner ejection seat
+plane-crazy 2019-01-06 16:10:26 no i ejected
+plane-crazy 2019-01-06 16:10:57 it's going into a flat spin
+plane-crazy 2019-01-06 16:10:59 interesting
+plane-crazy 2019-01-06 16:16:48 use rockets
+plane-crazy 2019-01-06 16:17:18 then put explosives on springs or something
+plane-crazy 2019-01-06 16:17:38 use ice
+plane-crazy 2019-01-06 16:27:46 y so short
+plane-crazy 2019-01-07 04:59:34 if you spawn it on a public server, i'm sure they're *trying* to ram it with planes but.. it's a public server, they're also *trying* to get the plane to fly in the first place
+plane-crazy 2019-01-07 05:01:36 same with my b52
+plane-crazy 2019-01-07 05:02:55 my wings are always trying to violently remove themselves from the rest of the aircraft
+plane-crazy 2019-01-07 05:03:02 actual miracle it stays in the air at all tbh
+plane-crazy 2019-01-07 19:40:27 the delta wing is touching the motor base
+plane-crazy 2019-01-07 21:52:13 b52 is 2100 parts and flies without helium or ballasts xd
+plane-crazy 2019-01-07 22:19:22 add lightness
+plane-crazy 2019-01-07 22:19:46 no, just add lightness
+plane-crazy 2019-01-07 22:22:51 control surfaces, propeller blades for downforce
+plane-crazy 2019-01-07 22:22:54 or motors
+plane-crazy 2019-01-07 22:24:17 i use control surfaces for downforce xd
+plane-crazy 2019-01-07 22:25:28 motorized rear wing works pretty well
+plane-crazy 2019-01-07 22:26:39 gonna rebuild my f1 car, old one is awful
+plane-crazy 2019-01-07 22:27:23 i made an lmp1 car a while ago but lost my saves and don't feel like rebuilding it
+plane-crazy 2019-01-07 22:29:15 tl;dr problems with the backend of the game etc etc impossible to do without redoing the game
+plane-crazy 2019-01-07 22:29:33 i mean
+plane-crazy 2019-01-07 22:29:39 it's not hard to do, a game i work on has it
+plane-crazy 2019-01-07 22:29:48 it's just the save system has to be designed for resizable parts
+plane-crazy 2019-01-07 22:29:57 and i'm assuming pc's is not
+plane-crazy 2019-01-07 22:30:14 basically a summary
+plane-crazy 2019-01-07 22:30:20 either way works
+plane-crazy 2019-01-07 22:48:02 what is that
+plane-crazy 2019-01-07 22:48:17 bottom
+plane-crazy 2019-01-08 00:52:28 having a gpu *at all* > integrated graphics
+plane-crazy 2019-01-08 00:52:29 xd
+plane-crazy 2019-01-08 23:48:44 ~~which is an awful way for an autosave to work~~
+plane-crazy 2019-01-08 23:51:15 if you didn't save when you saw the shutdown warning it's kind of your own fault
+plane-crazy 2019-01-08 23:52:50 i'm curious how roblox breaks things when there wasn't a recent roblox update
+plane-crazy 2019-01-08 23:53:42 huh, wasn't aware
+plane-crazy 2019-01-08 23:53:45 what broke?
+plane-crazy 2019-01-08 23:54:39 perhaps something to do with the humanoid if it broke wasd
+plane-crazy 2019-01-09 00:02:37 oh my, i found the vertically folding boat guy
+plane-crazy 2019-01-09 00:25:53 <@237359768405147649> impact speed is the minimum speed an explosive block needs to hit something at to detonate
+plane-crazy 2019-01-09 00:26:04 basically the lower the impact speed the more sensitive it is
+plane-crazy 2019-01-09 00:26:50 i mean you probably could propel things but uh
+plane-crazy 2019-01-09 00:26:54 you'd kind of destroy them
+plane-crazy 2019-01-09 00:31:49 propellers do work in water
+plane-crazy 2019-01-09 00:32:17 as in, propellers with actual blades, not the engine
+plane-crazy 2019-01-09 01:07:03 ..*what*
+plane-crazy 2019-01-09 01:08:08 magnets
+plane-crazy 2019-01-09 01:08:22 it succ plane
+general 2019-01-09 03:17:03 left click in a pvp server
+plane-crazy 2019-01-09 03:19:05 not really harder
+plane-crazy 2019-01-09 03:19:47 single rotors are more fun
+plane-crazy 2019-01-09 03:19:55 single blade even better
+plane-crazy 2019-01-09 03:20:32 coaxial isn't the only way tho
+plane-crazy 2019-01-09 03:21:15 i had a helicopter that had a single rotor before my saves were yeeted, it wasn't very difficult
+plane-crazy 2019-01-09 03:23:23 folding pixel art
+plane-crazy 2019-01-09 03:26:16 yes, 51x51
+plane-crazy 2019-01-09 04:44:25 was it clyde
+plane-crazy 2019-01-09 13:15:18 robo, while you're here can i get the ranked role bc i'm ranked and don't have it xd
+plane-crazy 2019-01-09 13:15:50 thank
+plane-crazy 2019-01-09 13:17:25 innocent joey, don't associate yourself with the other one
+plane-crazy 2019-01-09 13:22:40 y
+plane-crazy 2019-01-09 13:23:29 there's a tutorial in <#501034677793193994>
+plane-crazy 2019-01-09 13:23:36 for 90 and 180 folds
+plane-crazy 2019-01-10 13:27:36 it does kind of resemble an old mustang, especially with the stripe
+plane-crazy 2019-01-10 19:36:20 *staples a payload fairing to my saturn v*
+plane-crazy 2019-01-10 19:37:46 if i make something on an alt and post it here, is that alright or no
+plane-crazy 2019-01-10 19:37:59 running out of save space xd
+plane-crazy 2019-01-10 19:38:02 oh good
+plane-crazy 2019-01-10 19:44:55 common sense and roblox in the same sentence
+plane-crazy 2019-01-10 20:35:21 is your internet connection based on carrier pigeons
+general 2019-01-10 20:35:51 ^
+plane-crazy 2019-01-10 23:50:44 activated the magnets on my b52's wings and the game froze
+plane-crazy 2019-01-10 23:50:48 did something change with magnets
+plane-crazy 2019-01-10 23:51:12 well yes
+plane-crazy 2019-01-10 23:51:17 but before when magnets only was turned on
+plane-crazy 2019-01-10 23:51:23 it only looked for other magnets and it wasn't too laggy
+plane-crazy 2019-01-10 23:51:47 maybe that would make my wings more stable
+plane-crazy 2019-01-10 23:51:48 1500 magnets
+plane-crazy 2019-01-10 23:55:11 wat it do
+plane-crazy 2019-01-11 00:01:05 hahaa i have a project due in 15 days and i have so much left to do <:lmfao:527971550360633393>
+creations-chat 2019-01-11 00:08:17 engineer is for airships
+creations-chat 2019-01-11 00:09:20 replicator needs upvotes
+plane-crazy 2019-01-11 00:45:48 was aerodynamic drag reduced or something
+plane-crazy 2019-01-11 02:41:05 i would ask how you know what ants taste like but i really don't want to know
+plane-crazy 2019-01-11 02:41:43 why am i like this
+plane-crazy 2019-01-11 02:42:01 i have too much free time
+plane-crazy 2019-01-11 02:43:29 just nx class in general but yes
+creations-chat 2019-01-11 15:34:13 <@325320982602448897> uh, did you mean f4 phantom?
+plane-crazy 2019-01-11 17:36:31 <#504436696021204992>
+plane-crazy 2019-01-11 17:36:49 works for literally everyone else
+plane-crazy 2019-01-11 17:46:03 *accidentally*
+plane-crazy 2019-01-11 17:50:21 weren't you just asked to not tip him over
+plane-crazy 2019-01-11 17:51:03 scroll up
+plane-crazy 2019-01-11 17:52:13 i mean you can if you have turning thrusters
+plane-crazy 2019-01-11 17:52:21 but you will not stop very easily
+plane-crazy 2019-01-11 17:53:09 what is that
+plane-crazy 2019-01-11 17:53:48 asymmetric engines
+plane-crazy 2019-01-11 17:53:52 but why
+plane-crazy 2019-01-11 17:54:25 wait
+plane-crazy 2019-01-11 17:54:30 is that black striped even centered
+plane-crazy 2019-01-11 17:55:43 yet lags on roblox
+plane-crazy 2019-01-11 17:56:29 it's hard to optimize physics based games on robox
+plane-crazy 2019-01-11 17:56:53 most of the lag comes from physics which is unfortunately out of developer control
+plane-crazy 2019-01-11 17:57:43 how is that relevant to physics lag
+plane-crazy 2019-01-11 17:58:50 more servers != less lag
+plane-crazy 2019-01-11 17:59:32 there is nothing to fix and no reason to recode
+plane-crazy 2019-01-11 18:01:19 more servers doesn't reduce lag
+plane-crazy 2019-01-11 18:02:50 no
+plane-crazy 2019-01-11 18:07:35 what spaghetti code
+plane-crazy 2019-01-11 18:08:33 how is it not
+plane-crazy 2019-01-11 18:09:14 it isn't really outdated tho
+plane-crazy 2019-01-11 18:09:21 still works just fine
+general 2019-01-11 18:10:36 you mean hyes
+general 2019-01-11 18:17:27 a disaster
+plane-crazy 2019-01-11 18:21:15 what community
+plane-crazy 2019-01-11 19:55:28 how do you get 15 fps on robox though
+plane-crazy 2019-01-11 21:13:07 why are the cannons so comically large tho
+plane-crazy 2019-01-11 21:13:55 imagine anchor blocks xd
+plane-crazy 2019-01-11 22:10:53 not really
+creations-chat 2019-01-11 22:43:19 uh
+creations-chat 2019-01-11 22:43:22 f14 is called the tomcat
+plane-crazy 2019-01-11 22:49:50 made a questionable helicopter
+plane-crazy 2019-01-11 22:50:06 yes
+plane-crazy 2019-01-11 22:50:22 does it look safe at all
+plane-crazy 2019-01-11 22:52:38 yeet
+plane-crazy 2019-01-11 23:51:32 why do you care point
+plane-crazy 2019-01-12 14:05:13 aren't you not supposed to post the link to it in general
+plane-crazy 2019-01-12 15:43:02 what's with the massive gaps
+plane-crazy 2019-01-12 17:27:25 why is hull smol
+plane-crazy 2019-01-12 18:28:38 what's the point in refreshing the link if he keeps getting it anyway
+plane-crazy 2019-01-12 18:45:14 he can't see it
+plane-crazy 2019-01-12 18:45:45 urd
+plane-crazy 2019-01-12 18:46:21 yes
+plane-crazy 2019-01-12 18:50:33 bit big
+plane-crazy 2019-01-12 18:51:40 are you gamlv
+plane-crazy 2019-01-12 18:53:54 an executor class is not unique
+plane-crazy 2019-01-12 19:57:50 it isn't unique because it already exists
+plane-crazy 2019-01-12 19:58:01 
+plane-crazy 2019-01-12 19:58:56 suggestions
+plane-crazy 2019-01-12 20:00:21 he's trying to get modeller with an executor class from star wars
+plane-crazy 2019-01-12 20:01:15 earth is a velociraptor
+plane-crazy 2019-01-12 20:05:40 not lightspeed
+plane-crazy 2019-01-12 20:07:03 not an a10 for the love of god
+plane-crazy 2019-01-12 20:07:35 me irl
+plane-crazy 2019-01-12 20:07:37 and yes
+plane-crazy 2019-01-12 22:51:23 there's that guy with a malevolence, few star destroyers lying around
+plane-crazy 2019-01-12 22:53:23 tracks are ez
+plane-crazy 2019-01-12 22:53:47 but why would you use ropes
+plane-crazy 2019-01-12 22:54:21 what
+plane-crazy 2019-01-12 22:54:54 ..bb = battleship
+plane-crazy 2019-01-12 22:55:14 i'm not even the one who brought it up, why did you tag me
+plane-crazy 2019-01-12 22:55:40 is there a picture of yours without massive gaps in it
+plane-crazy 2019-01-12 22:55:47 or with more than like half of it finished
+plane-crazy 2019-01-12 22:57:05 no, jekeri
+plane-crazy 2019-01-12 23:10:33 did something with magnets change?
+plane-crazy 2019-01-12 23:10:47 it now freezes my game trying to lock the b52's wings
+plane-crazy 2019-01-12 23:13:00 >sunday
+plane-crazy 2019-01-12 23:13:57 for literally every other time zone on the planet
+plane-crazy 2019-01-12 23:13:59 tomorrow is sunday
+plane-crazy 2019-01-12 23:14:26 except for the ones east of europe at least
+plane-crazy 2019-01-12 23:16:16 nobody cares about london tho
+plane-crazy 2019-01-12 23:16:47 not interesting enough
+plane-crazy 2019-01-12 23:18:28 "fix lag", extremely descriptive
+plane-crazy 2019-01-12 23:27:13 wouldn't laser weapons just be a disaster
+plane-crazy 2019-01-12 23:27:27 instant travel time
+plane-crazy 2019-01-12 23:27:46 the only way that *wouldn't* be stupidly op is if they didn't do much damage
+plane-crazy 2019-01-12 23:28:56 jek you know actual lasers are not at all like what star wars shows them as
+plane-crazy 2019-01-12 23:30:00 what
+plane-crazy 2019-01-12 23:30:20 gun but faster
+plane-crazy 2019-01-12 23:30:22 whats the point
+plane-crazy 2019-01-12 23:30:44 there isn't even a reload time right now
+plane-crazy 2019-01-12 23:34:18 why not just use guns if you want them to be basically the exact same thing but named differently
+plane-crazy 2019-01-12 23:35:26 i still don't see the problem
+plane-crazy 2019-01-12 23:42:56 throw a net over a land vehicle and anchor the corners
+plane-crazy 2019-01-12 23:45:24 it's fun letting people get into my copilot seat thinking they're safe and then yeeting them into the void with the ejector seat
+plane-crazy 2019-01-12 23:58:10 it me
+plane-crazy 2019-01-13 00:02:20 airstrike
+plane-crazy 2019-01-15 23:41:25 locking saves would take up almost no extra space
+plane-crazy 2019-02-04 21:33:58 i have never seen a radome that far back, jesus
+plane-crazy 2019-02-13 22:08:33 aa landing gear is bouncy again
+plane-crazy 2019-02-13 22:12:33 did lock mode break again, my canopy won't stay closed
+plane-crazy 2019-02-13 22:13:09 wonderful
+plane-crazy 2019-02-13 22:13:44 yeah my landing gear collapses when i accelerate
+plane-crazy 2019-02-13 22:14:00 no
+plane-crazy 2019-02-13 22:18:47 the landing gear steering is great, it steers left and the plane goes right if it turns at all
+plane-crazy 2019-02-13 22:19:25 it's most definitely not on the back
+plane-crazy 2019-02-13 22:21:57 oh god what happened to the wheels steering
+plane-crazy 2019-02-13 22:32:04 why can't motors just be left alone for once, they used to work fine and now they don't
+plane-crazy 2019-02-13 22:34:01 how did they break
+plane-crazy 2019-02-13 22:35:32 man i love these motor improvements
+plane-crazy 2019-02-13 22:35:39 very stable
+plane-crazy 2019-02-13 22:37:32 i just don't get why motors can't be left alone for once instead of 'improved' every update and then inevitably broken
+plane-crazy 2019-02-13 22:37:40 and then more duct tape fixes come along and it's even less stable
+plane-crazy 2019-02-16 14:37:04 resizing would work fine with physics
+plane-crazy 2019-02-16 14:37:46 ..you can
+plane-crazy 2019-02-16 14:38:08 it's incredibly easy to make a resize tool and physics still works just fine
+plane-crazy 2019-02-16 18:12:54 
+plane-crazy 2019-02-16 18:21:19 oh hey thats me
+plane-crazy 2019-02-18 18:37:50 use magnets
+plane-crazy 2019-02-18 18:38:28 debatable
+plane-crazy 2019-02-23 15:59:20 is it just me or can steering not be disabled on wheels
+plane-crazy 2019-02-23 16:02:53 how did motors get *worse*
+plane-crazy 2019-02-23 18:00:20 i can either write an essay due in 10 hours or make the landing gear on my b52 work
+plane-crazy 2019-02-23 18:00:21 hmm
+plane-crazy 2019-02-23 18:01:14 no
+plane-crazy 2019-02-23 18:01:34 it's due at midnight
+plane-crazy 2019-02-23 18:01:48 so 11 hours actually but eh
+plane-crazy 2019-02-24 15:55:10 find something else to complain about probably
+plane-crazy 2019-02-27 22:37:37 there are a lot of free models that are not bad
+plane-crazy 2019-02-28 00:15:40 going to attempt to fly my b52 from the tail gunner position
+general 2019-02-28 23:32:37 where'd you find green wood
+plane-crazy 2019-02-28 23:35:13 filtering only breaks your scripts if you're awful at scripting ecks dee
+plane-crazy 2019-02-28 23:35:50 that's not how it works but sure blame roblox
+plane-crazy 2019-02-28 23:40:11 blender is fun
+plane-crazy 2019-02-28 23:40:35 until it crashes and autosave figures that a save from 2 hours ago is recent enough
+general 2019-02-28 23:41:08 oh neat
+general 2019-02-28 23:41:38 haven't played lt2 in forever xd
+plane-crazy 2019-02-28 23:42:07 i'm working on a model rn xd
+plane-crazy 2019-02-28 23:42:35 will post in <#497142796961054721>
+general 2019-02-28 23:42:43 
+general 2019-02-28 23:42:45 ecks dee
+general 2019-02-28 23:42:52 that's not in wireframe, there's just no faces yet
+general 2019-02-28 23:43:43 i have a more "finished" model
+general 2019-02-28 23:43:47 still needs a lot of smoothing
+general 2019-02-28 23:44:46 ~~shh its not public yet~~
+general 2019-02-28 23:45:23 eh who's going to look
+general 2019-02-28 23:45:37 it's not on this account anyway
+general 2019-02-28 23:46:49 nice
+general 2019-02-28 23:47:04 about to obliterate my sawmill
+general 2019-02-28 23:47:19 yes
+general 2019-02-28 23:47:35 i'm not building anything atm
+general 2019-02-28 23:47:39 just processing wood to get something
+general 2019-02-28 23:47:58 https://www.roblox.com/games/13822889/Lumber-Tycoon-2
+general 2019-02-28 23:48:10 that road train is half a tree
+general 2019-02-28 23:48:25 i still have to go get the other half after i spend the next 40 years unloading
+general 2019-02-28 23:48:54 my b52 fuselage folds 3 times xd
+general 2019-02-28 23:49:16 help
+general 2019-02-28 23:49:30 i need to improve my processing system
+general 2019-02-28 23:50:47 are fire trees still the most valuable
+general 2019-02-28 23:52:48 i remember driving a 20 trailer long road train up the volcano once
+general 2019-02-28 23:52:50 it was terrible
+general 2019-02-28 23:53:01 they didn't even all fit on top so there were some on the ramp
+plane-crazy 2019-03-03 04:02:19 <@456226577798135808>
+plane-crazy 2019-03-03 04:10:07 including missed shots
+plane-crazy 2019-03-03 04:10:08 around 60
+plane-crazy 2019-03-03 04:10:48 by the time i got off the back half of the rudder was chipped off
+plane-crazy 2019-03-03 04:10:50 but that was about it
+general 2019-03-03 04:11:56 they were warned beforehand
+general 2019-03-03 04:12:02 could've left if they wanted to not commit die
+plane-crazy 2019-03-14 23:19:59 i don't think it was the vtol itself that people disliked robocraft
+plane-crazy 2019-03-14 23:20:03 just the weird rendering effects
+plane-crazy 2019-03-15 20:57:55 "landing gear fixed"
+plane-crazy 2019-03-15 20:57:59 ok
+plane-crazy 2019-03-15 21:01:27 two of my landing gears have destroyed themselves
+plane-crazy 2019-03-15 21:01:29 "fixed"
+plane-crazy 2019-03-15 21:16:55 were helium blocks changed
+plane-crazy 2019-03-15 21:17:40 i can see that colors don't save properly again
+plane-crazy 2019-03-15 21:17:48 was this update tested at all
+plane-crazy 2019-03-15 21:18:46 this game actually gets worse after every update
+plane-crazy 2019-03-15 21:23:47 really nice color saving
+plane-crazy 2019-03-15 21:26:43 this server thinks my b52 is a 747
+plane-crazy 2019-03-16 02:12:59 i did a thing
+plane-crazy 2019-03-16 02:14:44 someone loaded a rocket, should i flex with my saturn v
+plane-crazy 2019-03-16 02:14:47 xd
+plane-crazy 2019-03-16 02:18:20 uh
+plane-crazy 2019-03-16 02:23:55 lol
+plane-crazy 2019-03-16 13:21:15 hm
+plane-crazy 2019-03-17 02:27:56 why before/after
+plane-crazy 2019-03-17 02:27:59 what do you think the drain is for
+plane-crazy 2019-03-22 00:49:33 ew macbook
+plane-crazy 2019-03-30 00:57:18 take a guess
+plane-crazy 2019-03-30 00:57:26 yep
+plane-crazy 2019-03-30 00:58:12 
+plane-crazy 2019-03-30 00:58:39 my wings are 50 feet behind me
+plane-crazy 2019-03-30 00:58:42 what about this is manageable
+plane-crazy 2019-04-02 01:55:21 wait, does the plane crazy minecraft server still exist
+plane-crazy 2019-04-02 01:55:36 what in tarnation
+plane-crazy 2019-04-02 01:57:10 ok but does the plane crazy minecraft server have 246 mods
+plane-crazy 2019-04-02 01:57:35 probably has a reasonable load time then
+plane-crazy 2019-04-02 01:57:43 i've been waiting for around half an hour since i started this
+plane-crazy 2019-04-02 01:57:45 :D kill me
+plane-crazy 2019-04-02 22:37:16 hardly expensive
+plane-crazy 2019-04-02 22:37:18 just impractical
+plane-crazy 2019-04-02 22:38:23 yes but if you're in a scenario where you will crash
+plane-crazy 2019-04-02 22:38:28 what are the odds you can control your speed effectively
+plane-crazy 2019-04-02 22:41:01 deploying slides in flight
+plane-crazy 2019-04-02 22:41:02 hm
+plane-crazy 2019-04-02 22:41:25 there's no but
+plane-crazy 2019-04-02 22:41:29 not really
+plane-crazy 2019-04-02 22:42:20 with the exception of the 737 max airliner crashes are already rare
+plane-crazy 2019-04-02 22:42:31 parachutes would just be unnecessary weight
+plane-crazy 2019-04-02 22:42:42 natural selection?
+plane-crazy 2019-04-02 22:43:06 box
+plane-crazy 2019-04-02 22:43:22 i would hope the airliner is in the sky
+plane-crazy 2019-04-02 22:43:39 if a plane got into a scenario where there was literally no way to get out of crashing
+plane-crazy 2019-04-02 22:43:45 i think i'd rather be in the cabin
+plane-crazy 2019-04-02 22:44:20 i mean just think of it
+plane-crazy 2019-04-02 22:44:21 for around
+plane-crazy 2019-04-02 22:44:25 a hundredeth of a second
+plane-crazy 2019-04-02 22:44:31 you'd be playing plinko with the airliner's seats
+plane-crazy 2019-04-02 22:44:33 at the instant of impact
+plane-crazy 2019-04-02 22:45:48 why wouldn't you go over 5 km/s
+plane-crazy 2019-04-03 00:48:54 do your presentation
+plane-crazy 2019-04-07 00:10:43 consistent colors
+plane-crazy 2019-04-07 00:11:20 wow really
+plane-crazy 2019-04-07 16:12:55 that's because it's hitting the front of your car
+plane-crazy 2019-04-07 16:13:41 yeah that's because the wheels would bounce off the block and have enough space to move
+plane-crazy 2019-04-07 16:13:46 now that they're more rigid they stay locked against it
+plane-crazy 2019-04-07 16:15:29 put the wedges the other way around so it lands on the larger face
+plane-crazy 2019-04-07 16:17:38 give them more room to actually turn
+plane-crazy 2019-04-07 16:17:44 so they don't hit the front of the wheel well
+plane-crazy 2019-04-07 16:17:53 you can though
+plane-crazy 2019-04-07 16:17:59 replace the block in front of the wheel with a half block
+plane-crazy 2019-04-07 16:18:00 or wedge
+plane-crazy 2019-04-07 16:19:20 you can replace the block the motor is on to give it more clearance
+plane-crazy 2019-04-07 16:20:19 its free!
+plane-crazy 2019-04-07 16:20:56 cframe instead of hinge constraints xd
+plane-crazy 2019-04-08 01:31:19 wouldn't it also reduce drag since the control surfaces are at less of an angle relative to your flight path
+plane-crazy 2019-04-08 01:32:20 you know he can't see what you're saying right lego
+plane-crazy 2019-04-08 01:33:16 imperial, lego said he's not sorry
+plane-crazy 2019-04-10 02:46:29 no it's not the minecraft one
+plane-crazy 2019-04-13 14:46:04 remove your magnets
+plane-crazy 2019-04-13 14:50:37 why tag me when i'm already looking at this channel
+plane-crazy 2019-04-13 14:51:02 4 minutes after sending a message
+plane-crazy 2019-04-13 15:02:31 drifting in vs is just powersliding
+plane-crazy 2019-04-13 21:29:36 why play galaxy when you can play elite dangerous xd
+plane-crazy 2019-04-14 15:04:26 robo, build the MAKS spaceplane
+plane-crazy 2019-04-14 15:05:43 
+plane-crazy 2019-04-14 15:07:55 why would you shorten raisin water
+plane-crazy 2019-04-14 16:59:32 lego are you still doing this
+plane-crazy 2019-04-14 17:01:07 why are you telling us this
+plane-crazy 2019-04-14 17:01:58 my egoista goes 310 without nitrous xd
+plane-crazy 2019-04-14 17:58:25 y is that dragster so short
+plane-crazy 2019-04-14 17:59:16 
+plane-crazy 2019-04-14 17:59:53 reaches ~1100 at the end of the base
+plane-crazy 2019-04-14 18:00:08 or there's the longer version
+plane-crazy 2019-04-14 18:06:43 the funniest thing about people who say they can drift on vs is when they complain that they spin out if they do it too long
+plane-crazy 2019-04-14 18:06:49 you're not drifting, you're sliding
+plane-crazy 2019-04-14 18:09:36 that's a funny car
+plane-crazy 2019-04-18 23:28:02 sabre
+plane-crazy 2019-04-18 23:28:51 is a sabre
+plane-crazy 2019-04-20 21:43:01 why is the furry mad
+plane-crazy 2019-04-20 21:43:08 l o n g e
+plane-crazy 2019-04-20 21:45:07 logic gates wouldn't be difficult to implement though
+plane-crazy 2019-04-21 18:57:51 some sort of furry weapon
+plane-crazy 2019-04-21 18:58:53 way too long
+plane-crazy 2019-04-21 18:59:13 why is the optic so exposed tho
+plane-crazy 2019-04-21 19:11:37 i would hope the barrel is capable of supporting itself
+plane-crazy 2019-04-21 19:20:28 edgy
+plane-crazy 2019-04-21 19:24:06 yeah
+plane-crazy 2019-04-21 19:50:07 sensors wouldn't be hard to make lol
+plane-crazy 2019-04-21 20:22:18 up
+plane-crazy 2019-04-21 20:23:15 you probably shouldn't send pictures of yourself on a public discord
+plane-crazy 2019-04-21 20:23:47 even if you hide your eyes
+plane-crazy 2019-04-21 20:23:51 just isn't a good idea
+plane-crazy 2019-04-21 21:43:44 why is it made of slate
+plane-crazy 2019-04-21 21:44:49 no its a thermometer
+plane-crazy 2019-04-21 22:37:05 nice water bottle
+plane-crazy 2019-04-21 22:42:56 oh nice, motors are so badly broken that i can't even use my saturn v anymore
+plane-crazy 2019-04-21 22:48:54 weak point: everything
+plane-crazy 2019-04-21 22:49:47 120 ton tank and its for
+plane-crazy 2019-04-21 22:49:48 flanking
+plane-crazy 2019-04-21 22:49:50 ok
+plane-crazy 2019-04-21 22:49:56 useless
+plane-crazy 2019-04-21 22:50:39 why does it have a direct fire barrel
+plane-crazy 2019-04-21 22:50:57 its facing straight forward
+plane-crazy 2019-04-21 22:51:19 so it's
+plane-crazy 2019-04-21 22:51:20 an spg
+plane-crazy 2019-04-21 22:51:50 spg
+plane-crazy 2019-04-21 22:51:57 the way you are describing it
+plane-crazy 2019-04-21 22:51:59 it is an spg
+plane-crazy 2019-04-21 22:52:02 it is not anti tank
+plane-crazy 2019-04-21 22:52:22 so its a jack of 2 trades and master of nothing
+plane-crazy 2019-04-21 22:52:54 the one in back
+plane-crazy 2019-04-21 22:53:29 space force when
+plane-crazy 2019-04-21 22:54:20 step 1: don't aim at the plow
+plane-crazy 2019-04-21 22:54:21 step 2: tracked
+plane-crazy 2019-04-21 22:55:07 if you hit the barrel it is likely going to pen
+plane-crazy 2019-04-21 22:57:29 its an extremely specialized spg
+plane-crazy 2019-04-21 22:58:04 and god help the poor crew if something bigger than a go kart with an ak47 finds them
+plane-crazy 2019-04-21 22:58:37 so the light version would actually die to a go kart with an ak47
+plane-crazy 2019-04-21 22:58:48 `what`
+plane-crazy 2019-04-21 22:59:21 or just look in its general direction
+plane-crazy 2019-04-21 23:00:46 just shoot a wheel and now it's not going anywhere
+plane-crazy 2019-04-21 23:01:00 bigger target
+plane-crazy 2019-04-21 23:02:08 what timeframe is this
+plane-crazy 2019-04-21 23:02:22 >sabot is outdated
+plane-crazy 2019-04-21 23:02:24 ok
+plane-crazy 2019-04-21 23:02:42 b
+plane-crazy 2019-04-21 23:02:44 bu
+plane-crazy 2019-04-21 23:03:47 there's also the entire tank with the uh
+plane-crazy 2019-04-21 23:03:49 lack of useful armor
+plane-crazy 2019-04-21 23:03:59 k
+plane-crazy 2019-04-21 23:03:59 40mm
+plane-crazy 2019-04-21 23:04:34 does it have a machine gun
+plane-crazy 2019-04-21 23:04:41 shocking
+plane-crazy 2019-04-21 23:05:38 just put cinderblocks in front and behind the treads, i doubt it has the power to weight ratio to move them lol
+plane-crazy 2019-04-21 23:06:29 what
+plane-crazy 2019-04-21 23:06:38 what reasonable armed forces can't afford a high caliber rifle
+plane-crazy 2019-04-21 23:06:52 what
+plane-crazy 2019-04-21 23:07:04 so wait
+plane-crazy 2019-04-21 23:07:18 you can't use this against an actual organized armed forces
+plane-crazy 2019-04-21 23:08:37 so just have a gunship go over and meme it
+plane-crazy 2019-04-21 23:09:04 and what happens when it gets spotted
+plane-crazy 2019-04-21 23:09:27 do you know what planes do
+plane-crazy 2019-04-21 23:09:56 this is just godmodding
+plane-crazy 2019-04-21 23:10:10 *points out weakness*
+plane-crazy 2019-04-21 23:10:12 "no"
+plane-crazy 2019-04-21 23:10:17 "ur just stupid"
+plane-crazy 2019-04-21 23:10:19 "u dont understand"
+plane-crazy 2019-04-21 23:10:27 *caps lock*
+plane-crazy 2019-04-21 23:11:33 step 1: go kart
+plane-crazy 2019-04-21 23:11:34 step 2: weave
+plane-crazy 2019-04-21 23:12:30 so just walk away from it and itll catch fire from trying to follow
+plane-crazy 2019-04-21 23:13:10 if its stressed from going down a hill you're doing something wrong
+plane-crazy 2019-04-21 23:13:46 if you're fighting actual farmers
+plane-crazy 2019-04-21 23:13:52 then there's no point in us trying to point out weaknesses
+plane-crazy 2019-04-21 23:13:58 because you'll just reply with "you cant get a hold of that"
+plane-crazy 2019-04-21 23:15:17 because anything more threatening than a farmer would probably destroy it
+plane-crazy 2019-04-21 23:15:49 lol
+plane-crazy 2019-04-21 23:15:49 >we're godmodding
+plane-crazy 2019-04-21 23:16:18 >germans
+plane-crazy 2019-04-21 23:16:48 so they just stay there forever
+plane-crazy 2019-04-21 23:16:50 never moving
+plane-crazy 2019-04-21 23:17:16 so even if something comes towards them they just stay still
+plane-crazy 2019-04-21 23:17:39 what's even the point of having treads or an engine if you're just going to station it somewhere and forget it
+plane-crazy 2019-04-21 23:17:47 you've just got overcomplicated artillery
+plane-crazy 2019-04-21 23:18:34 laser guided tank shell l0l
+plane-crazy 2019-04-21 23:20:09 electronic cannon
+plane-crazy 2019-04-21 23:20:10 did you mean
+plane-crazy 2019-04-21 23:20:12 railgun
+plane-crazy 2019-04-21 23:20:14 or are you just sped
+plane-crazy 2019-04-21 23:20:31 to power what
+plane-crazy 2019-04-21 23:23:51 very
+plane-crazy 2019-04-21 23:23:51 if hit by a shell
+plane-crazy 2019-04-21 23:24:24 back to this again
+plane-crazy 2019-04-21 23:24:25 wonderful
+plane-crazy 2019-04-21 23:25:48 at 20 miles range it would take almost a minute for a projectile to hit
+plane-crazy 2019-04-21 23:26:14 it would take longer
+plane-crazy 2019-04-21 23:26:39 take into consideration aerodynamic drag
+plane-crazy 2019-04-21 23:26:44 that shell is not going 2.4 km/s the entire flight
+plane-crazy 2019-04-21 23:26:55 the heavier it is the faster it would average actually
+plane-crazy 2019-04-21 23:27:01 not even most
+plane-crazy 2019-04-21 23:27:05 after a few seconds it's below 2 km/s
+plane-crazy 2019-04-21 23:28:22 you'd be surprised, the shell has a massive low pressure zone behind it
+plane-crazy 2019-04-21 23:28:33 also considering the shell diameter
+plane-crazy 2019-04-21 23:28:35 drag would be insane
+plane-crazy 2019-04-21 23:29:07 stop splitting your sentences into 800 messages
+plane-crazy 2019-04-21 23:29:45 that's like 30 lol
+plane-crazy 2019-04-21 23:31:37 that's ship mounted
+plane-crazy 2019-04-21 23:31:52 there's no way a tank could carry even the power system to support that railgun
+plane-crazy 2019-04-21 23:32:15 dont start this
+plane-crazy 2019-04-21 23:34:11 my car is smaller xd
+plane-crazy 2019-04-21 23:34:42 yes
+plane-crazy 2019-04-21 23:35:27 yes
+plane-crazy 2019-04-21 23:35:38 because i'm actually competent enough to use blender
+plane-crazy 2019-04-21 23:36:19 cockpit isnt small
+plane-crazy 2019-04-21 23:38:34 lmao
+plane-crazy 2019-04-21 23:40:10 or americans with a potato cannon and a molotov
+plane-crazy 2019-04-21 23:42:18 help i broke my rear right suspension
+plane-crazy 2019-04-21 23:42:30 it's spinning endlessly at 214 mph
+plane-crazy 2019-04-21 23:42:31 h e l p
+plane-crazy 2019-04-21 23:45:31 i am speed
+plane-crazy 2019-04-22 01:46:06 orangeski y u leave astrocraft discord
+plane-crazy 2019-04-22 01:46:30 rip
+plane-crazy 2019-04-22 01:46:44 you could join a faction lol
+general 2019-04-22 02:04:07 
+plane-crazy 2019-04-22 02:05:50 it doesnt even work on most rthro packages lol
+plane-crazy 2019-04-22 23:53:57 you guys know websites like that can't steal your roblosecurity cookie right
+plane-crazy 2019-04-23 00:02:40 oh
+plane-crazy 2019-04-23 00:05:56 ~~i doubt it would surprise anyone if that was true~~
+plane-crazy 2019-04-23 00:09:29 m a l e
+plane-crazy 2019-04-23 00:09:43 ok dad
+plane-crazy 2019-04-23 00:11:09 e?
+plane-crazy 2019-04-23 00:15:05 this is a disaster
+plane-crazy 2019-04-23 00:15:55 furry?
+plane-crazy 2019-04-23 00:16:39 edgy
+plane-crazy 2019-04-23 00:17:58 e d g y
+plane-crazy 2019-04-23 00:18:20 not really
+plane-crazy 2019-04-23 00:18:22 it's a hexagon
+plane-crazy 2019-04-23 00:18:38 ..black and white is edgy
+plane-crazy 2019-04-23 00:18:39 ok
+plane-crazy 2019-04-23 00:19:31 adding color
+plane-crazy 2019-04-23 00:20:23 c o l o r !
+plane-crazy 2019-04-23 00:20:41 you're edgy
+plane-crazy 2019-04-23 19:54:47 ..it's a perfectly valid excuse if their primary language is not english
+plane-crazy 2019-04-23 20:01:54 it's a thing that exists
+plane-crazy 2019-04-23 20:05:31 f u r r y
+plane-crazy 2019-04-23 20:41:24 is 0-200 in 8 seconds a bit too quick for an f1 car
+plane-crazy 2019-04-23 22:14:48 20 miles
+plane-crazy 2019-04-24 00:19:57 throw sabot at tank
+plane-crazy 2019-04-24 23:15:31 f u r r y
+plane-crazy 2019-04-24 23:24:58 asphalt 9? did you mean microtransaction simulator?
+plane-crazy 2019-04-24 23:26:25 i just want a decent mobile motorsports game that isn't full of microtransactions
+plane-crazy 2019-04-24 23:27:17 i would actually pay like $15 for a decent mobile motorsports game that doesn't have the stupid refueling gimmick or artificial wait times
+plane-crazy 2019-04-24 23:27:19 or microtransactions
+plane-crazy 2019-04-24 23:29:45 slightly
+plane-crazy 2019-04-24 23:50:43 even in an alternate timeline it shouldn't be that narrow
+plane-crazy 2019-04-24 23:57:03 chiron is tyre limited because it's so heavy
+plane-crazy 2019-04-24 23:57:10 jesko/f5 shouldn't have a problem
+plane-crazy 2019-04-24 23:57:44 it's actually not tyre durability in a straight line that they're worried about for the chiron
+plane-crazy 2019-04-24 23:57:46 it's side loading
+plane-crazy 2019-04-24 23:58:07 with a car that heavy if it takes a corner *at all* above 260 the side loading is insane
+plane-crazy 2019-04-24 23:58:16 and the tyre might survive but it's a risk
+plane-crazy 2019-04-24 23:58:43 you'll rip the tire apart before you lose grip
+plane-crazy 2019-04-24 23:58:58 doesn't have to be a tight corner
+plane-crazy 2019-04-24 23:59:36 with a perfectly straight track the current chiron and its current tyres could probably reach its top speed
+plane-crazy 2019-04-24 23:59:54 but even minor curves load up the sidewall a lot at those speeds and i don't think they're comfortable with those loads at the moment
+plane-crazy 2019-04-25 22:51:53 "how can you be mad for a whole 7 days"
+plane-crazy 2019-04-25 22:51:56 this is katze we're talking about
+plane-crazy 2019-04-25 22:52:00 would you really be surprised
+plane-crazy 2019-04-25 23:29:22 so is asphalt actually just a shameless money grab now
+plane-crazy 2019-04-25 23:29:55 please tell me that isn't $100 USD
+plane-crazy 2019-04-25 23:33:12 i used the egoista religiously in a7
+plane-crazy 2019-04-25 23:33:24 couldn't be bothered to grind for 800 years to get anything better
+plane-crazy 2019-04-25 23:34:04 a8* not 7
+plane-crazy 2019-04-27 09:54:44 go to the restroom like 40 times before the movie
+plane-crazy 2019-04-27 09:55:25 you will not have many opportunities where it's "safe" to leave the theater for 5 minutes
+plane-crazy 2019-04-27 09:55:42 the avengers are in it
+plane-crazy 2019-04-27 10:46:32 
+plane-crazy 2019-04-27 10:46:41 `send help`
+plane-crazy 2019-04-27 10:46:54 2009
+plane-crazy 2019-04-27 10:48:33 you're making me feel old
+plane-crazy 2019-04-27 10:52:39 yeah, instead we had stolen places on the front page and garbage copy paste renamed obbies
+plane-crazy 2019-04-27 10:52:55 it really wasnt much better
+plane-crazy 2019-04-27 10:53:10 and game quality has gone up significantly since then
+plane-crazy 2019-04-27 11:00:42 rocket robin why
+plane-crazy 2019-04-27 11:02:35 the 1st one obviously
+plane-crazy 2019-04-27 11:02:54 do we get anything for using your referral link
+plane-crazy 2019-04-28 02:12:25 will the flight end on a runway
+plane-crazy 2019-05-01 23:16:11 unioning in game is easy though
+plane-crazy 2019-05-01 23:17:16 it's not very laggy
+plane-crazy 2019-05-04 13:47:23 no
+plane-crazy 2019-05-04 13:47:46 ding dong ur wrong
+plane-crazy 2019-05-04 15:31:52 they do though
+plane-crazy 2019-05-04 15:34:18 charge it overnight
+plane-crazy 2019-05-04 15:34:19 it's not hard
+plane-crazy 2019-05-19 16:00:38 is that an attempt to make a german typhoon
+plane-crazy 2019-05-19 16:04:05 not really
+plane-crazy 2019-06-29 14:40:17 so many people coming to ac
+plane-crazy 2019-06-29 14:40:52 u wanna go
+plane-crazy 2019-06-29 14:41:38 
+plane-crazy 2019-06-29 14:41:43 best turret
+plane-crazy 2019-06-29 14:43:51 do you want me to flex with my cockpit
+plane-crazy 2019-06-29 14:44:14 doing it anyway
+plane-crazy 2019-06-29 14:44:52 clock
+plane-crazy 2019-06-29 14:44:53 what
+plane-crazy 2019-06-29 14:45:13 ree
+plane-crazy 2019-06-29 14:46:41 shift to go down
+plane-crazy 2019-06-29 14:47:34 space
+plane-crazy 2019-06-29 14:47:49 did you connect the thrusters
+plane-crazy 2019-06-29 14:48:07 nice
+plane-crazy 2019-06-29 14:48:14 i'm going to add ac vents in my cockpit
+plane-crazy 2019-06-29 14:48:49 ¯\_(ツ)_/¯
+plane-crazy 2019-06-29 14:49:14 mfw this ship is 614 parts and 501 of those are this cockpit
+plane-crazy 2019-06-29 14:51:30 i should probably make sure all of this actually welds together
+plane-crazy 2019-06-29 14:53:00 should i make the control sticks uber detailed to match the rest of the cockpit
+plane-crazy 2019-06-30 13:56:18 xd
+general 2021-06-09 02:44:06 hello
+general 2021-06-09 02:44:17 oh my nickname is wrong here

@@ -1,0 +1,1859 @@
+The Tale of anton_kupchenko (893650511025283112)
+general 2021-11-12 10:12:15 are iron crosses allowed?
+bot-central 2021-11-22 09:39:48 !shelp
+bot-central 2021-11-22 09:40:00 ?shelp
+bot-central 2021-11-22 09:40:20 ?rhelp
+bug-reports 2022-02-10 04:52:44 Speakers stop playing audio once i zoom out and zoom back in.
+bug-reports 2022-02-10 04:54:08 And i cannot post video proof, great.
+plane-crazy 2022-02-10 05:01:13 Same, I joined just to ask since the horns on my tripod, including other noises, stopped working after zooming out and back in.
+bug-reports 2022-02-10 10:34:19 You didnt read what i said properly. I zoom out and as soon as i zoom back in, the sound doesnt play, despite being on loop.
+bug-reports 2022-02-10 10:34:32 I press the toggle keys, doesnt play either.
+bug-reports 2022-02-10 10:43:04 Its never happened before, it started this morning and continued through the entire day.
+bug-reports 2022-02-10 10:43:52 How though? I try to re toggle the noise and any other noise for that matter, and they dont play either.
+bug-reports 2022-02-10 11:01:17 And what are those things it depends on?
+bug-reports 2022-02-10 11:29:04 Glitch.
+bug-reports 2022-02-10 11:54:15 Because i dont have perms because i just joined for help mate.
+bug-reports 2022-02-10 11:56:02 I see, someone finally mentioned that there was an issue with them. Thank you.
+bug-reports 2022-02-10 12:02:00 Some builds have the issue but some also do not.
+bug-reports 2022-02-10 12:02:09 I have only discovered that recently.
+bug-reports 2022-02-10 20:19:22 This is a bug report channel and I am reporting a bug. And yet you call me dumb, as said by jacekilla, Audio has permanence and continues to play when you zoom out and back in.
+bug-reports 2022-02-10 20:19:26 Conversation ended.
+bug-reports 2022-02-10 20:23:37 Same here.
+bug-reports 2022-02-10 20:29:18 Well thats a fair enough fix, ill play without thruster noises until its gone.
+help 2022-12-25 00:51:07 whats the best way to reduce drag?
+help 2022-12-25 00:51:32 yeah i added some
+help 2022-12-25 00:51:42 but i need to reduce the amount because of lag
+help 2022-12-25 00:51:47 no sprockets
+help 2022-12-25 00:52:16 well
+help 2022-12-25 00:52:20 i used to have some diagonally facing down
+help 2022-12-25 00:52:25 but i changed that ages ago
+help 2022-12-25 00:52:32 nothing front facing right now
+help 2022-12-25 00:52:49 actually its quite large
+help 2022-12-25 00:53:05 lmao
+help 2022-12-25 00:53:18 ive tried to keep drag miniscule
+help 2022-12-25 00:53:45 last night i removed some of the delta wings and used the angle lock wing to replace them
+help 2022-12-25 00:53:51 the angle lock wing is just trapdoors
+help 2022-12-25 00:54:22 the front part of it flies fine, but when its attached to the main wing its troublesome
+help 2022-12-25 00:54:25 hold on
+help 2022-12-25 00:54:28 lemme give some context
+bot-central 2022-12-25 00:54:33 !rank
+help 2022-12-25 00:55:35 https://media.discordapp.net/attachments/1018710542199832616/1023565884574421092/roblox_detach.gif
+help 2022-12-25 00:55:39 old gif but should give context
+help 2022-12-25 00:55:44 it used to use sprockets
+help 2022-12-25 00:56:17 its actually pretty simple to make
+help 2022-12-25 00:56:24 just make a small mini plane with folding wings
+help 2022-12-25 00:56:30 slap a disconnector on it
+help 2022-12-25 00:56:35 attach that disconnector to a big main wing
+help 2022-12-25 00:56:38 and boom youve got one
+help 2022-12-25 00:56:43 also yes its an ADF 11F
+help 2022-12-25 00:57:02 i would recolor it to an ADFX 10 but my ADFX 10 slot is taken up by my hoverdrive conversion of the ADF 11F
+help 2022-12-25 00:57:20 i have the sprocket one and the hover one
+bot-central 2022-12-25 00:57:59 !rank
+help 2022-12-25 00:58:26 also theres still a remnant leftover from when the front was angled slightly
+help 2022-12-25 00:58:40 
+help 2022-12-25 00:58:41 this was used to limit it
+help 2022-12-25 00:58:56 lol yeah i have it on my HK tank
+help 2022-12-25 00:59:09 ill sc my mechanism
+help 2022-12-25 00:59:11 if you want
+help 2022-12-25 00:59:16 ill give configs as well
+help 2022-12-25 00:59:36 
+help 2022-12-25 01:00:02 this is better
+help 2022-12-25 01:00:20 then you just motorlock that up towards the topsection
+help 2022-12-25 01:00:32 the version im screenshotting is an improved version
+help 2022-12-25 01:00:49 i can help you ingame if you want
+help 2022-12-25 01:01:14 yes i do
+help 2022-12-25 01:01:17 and i will send it here
+help 2022-12-25 01:01:30 you remind me
+help 2022-12-25 01:01:34 i need to renew my servers
+help 2022-12-25 01:01:41 i could tell lol
+help 2022-12-25 01:02:01 ill build a dummy version
+help 2022-12-25 01:02:09 that shows the basics
+help 2022-12-25 01:02:13 you can copy it or look at how it works
+help 2022-12-25 01:10:41 oh hello
+help 2022-12-25 01:10:43 there
+help 2022-12-25 01:10:48 i havent seen you for ages as well
+help 2022-12-25 01:10:55 that your username is only familiar lol
+help 2022-12-25 01:14:33 just
+help 2022-12-25 01:14:38 i think ive been playing in vip servers too much
+help 2022-12-25 01:14:43 the one i sent there lol
+the-dump 2022-12-25 01:20:17 https://www.youtube.com/watch?v=rSkKmSQ2FFo
+help 2022-12-25 01:50:17 e
+help 2022-12-25 01:50:23 The folding part
+help 2022-12-25 01:50:27 yes?
+help 2022-12-25 01:50:29 <@761354294859005962>
+help 2022-12-25 01:51:42 
+help 2022-12-25 01:51:51 wing fold motor
+help 2022-12-25 01:52:10 the motor for the roll
+plane-crazy 2022-12-25 03:27:45 Thats a bloody A-10-DF-X-02
+plane-crazy 2022-12-25 03:28:21 Masterpiece
+plane-crazy 2022-12-25 03:29:10 slap an ADFX 10 on the bottom
+the-dump 2022-12-25 04:05:59 
+creations-chat 2022-12-25 04:10:26 dayum
+creations-chat 2022-12-25 04:19:07 Suffering from success
+creations-chat 2022-12-25 04:21:11 you can try setting a few motors to the same keys so you dont have to press so many buttons as well
+
+and what is with this 2 minute timer even the <#384025409945337856>  doesnt have this slowmode
+
+motor reset has been annoying the hell out of me because it goes asymmetrical
+creations-chat 2022-12-25 04:25:28 who wants to see something trash
+creations-chat 2022-12-25 04:27:36 bro this is what my ADF 11F used to look like before months of redoing it
+creations-chat 2022-12-25 04:29:52 Damn how many blocks is that? I thought my 1.6K block plane was big
+creations-chat 2022-12-25 04:32:04 Before you go ill ask one question
+
+What is up with the slowmode here?
+creations-chat 2022-12-25 04:37:14 You think you could make it the Rogue Nation F14?
+creations-chat 2022-12-25 04:40:41 hidden 🤓  emoji (CIA classified)
+help 2022-12-25 04:44:26 so im assuming your making an ADF 11, hows it going right now
+creations-chat 2022-12-25 04:46:43 By far the best camo
+help 2022-12-25 04:53:29 Alright, good luck on it
+help 2022-12-25 04:53:39 And dont make the mistake of overlocking it like me
+help 2022-12-25 04:53:48 It becomes a pain to make it perform decently
+creations-chat 2022-12-25 05:31:59 Its kinda more a sudden straight transition, theres a little curve though
+creations-chat 2022-12-25 05:38:15 Ive seen some before on youtube lol
+creations-chat 2022-12-25 05:41:15 This shape is very annoying to make if your making a tiny one. Most of the time youd just have the entire wing move which makes it have a sharp edge and no small wings at the front because of how deltas work
+
+Also all that motorlock was me angle locking 2 much
+creations-chat 2022-12-25 05:43:59 True, hover drives kill my FPS in publics
+creations-chat 2022-12-25 05:49:02 And heres a goofy work in progress HK Aerial (yes another one) using the Genysis design, and before you ask, NO i am not making that spider thing
+creations-chat 2022-12-25 05:54:36 Long
+help 2022-12-25 06:39:35 Stubby wings
+creations-chat 2022-12-25 09:31:57 LMFAO
+https://cdn.discordapp.com/attachments/1012913098614657074/1056504648716001341/image.png
+creations-chat 2022-12-25 09:38:30 The creepy cabin in the woods
+creations-chat 2022-12-25 11:00:56 starting tail
+help 2022-12-25 11:05:14 Which tail do you guys prefer, help me decide
+(the second one doesnt have the top fin and the lower fin is more forward
+help 2022-12-25 11:06:23 Uh join me ingame ill give you a hand
+help 2022-12-25 11:07:13 Nah its good
+help 2022-12-25 11:07:22 I dont really mind if any rando joins lmao
+help 2022-12-25 11:23:20 You can put conveyor drives in them i think
+creations-chat 2022-12-25 15:17:46 pretty damn nice
+plane-crazy 2022-12-26 04:24:01 this is all ill do today
+plane-crazy 2022-12-26 04:25:17 https://tenor.com/view/ace-combat-ace-combat-zero-f15-pixy-jet-gif-27034461
+plane-crazy 2022-12-26 04:25:41 nah thats an ADFX 02
+plane-crazy 2022-12-26 04:25:53 
+plane-crazy 2022-12-26 04:25:59 its Belkan
+plane-crazy 2022-12-26 04:26:17 Are lasers shit?
+plane-crazy 2022-12-26 04:26:21 Thats a laser on top
+plane-crazy 2022-12-26 04:27:10 i mean at least it has ECM technology
+plane-crazy 2022-12-26 04:27:20 you can only kill it by firing at its intakes lmao
+plane-crazy 2022-12-26 04:27:42 ok but on a serious note it shouldnt deflect bullets thats just bs
+plane-crazy 2022-12-26 04:28:39 review this plane for me
+plane-crazy 2022-12-26 04:29:03 ADF 11F
+plane-crazy 2022-12-26 04:29:17 Yes detaching
+plane-crazy 2022-12-26 04:29:41 cockpit's basically camera lens
+plane-crazy 2022-12-26 04:29:53 the system for it is called the C.O.F.F.I.N
+plane-crazy 2022-12-26 04:30:10 ADF 01 Falken had the COFFIN as a buncha hexagonal screens
+plane-crazy 2022-12-26 04:30:27 the 11F i think you plug your brain into it or some
+plane-crazy 2022-12-26 04:30:44 Yeah the 11F cockpit isnt any screens or anything
+plane-crazy 2022-12-26 04:30:47 Just a grainy filter
+plane-crazy 2022-12-26 04:31:12 The ones you fight ingame are unmanned anyways
+plane-crazy 2022-12-26 04:31:27 I think the having a piloted version was an excuse to get it flyable by players while removing the detaching element
+plane-crazy 2022-12-26 04:31:52 I read somewhere only the UAV version can detach its front
+plane-crazy 2022-12-26 04:33:05 also yeah i made the 11f
+plane-crazy 2022-12-26 04:33:48 Yeah i have a version with a bit more coloring but its sprockets
+plane-crazy 2022-12-26 04:33:54 im working to unlagify the hoverdrive version
+plane-crazy 2022-12-26 04:34:10 I need to remove the entire angle wing assembly and use camlock for it instead
+plane-crazy 2022-12-26 04:34:36 I mean, decreasing the 2k block count might help lol
+plane-crazy 2022-12-26 04:35:56 The majority of wings are all gone
+plane-crazy 2022-12-26 04:36:56 
+plane-crazy 2022-12-26 04:45:00 should i work on the camlock wings or should i just work on Morgan
+plane-crazy 2022-12-26 04:55:11 getting there
+plane-crazy 2022-12-26 04:55:42 i had to move my main pilot seat to a position where i have to get out and enter the nose unit otherwise the camlock detached with the front part
+plane-crazy 2022-12-26 04:55:57 also hello computer
+plane-crazy 2022-12-26 04:57:35 It is a raven
+plane-crazy 2022-12-26 04:57:44 Im tryna reduce block counts
+plane-crazy 2022-12-26 04:57:51 But yeah it detaches
+plane-crazy 2022-12-26 04:58:02 Not really to do with weight
+plane-crazy 2022-12-26 04:58:03 its uh
+plane-crazy 2022-12-26 04:58:05 Lag lmao
+plane-crazy 2022-12-26 04:58:21 Im removing an entire anglelock assembly to reduce it by hopefully a ton
+plane-crazy 2022-12-26 04:58:26 Using camlock instead
+plane-crazy 2022-12-26 04:58:45 Its basically putting a mini plane onto a frame using a disconnector
+plane-crazy 2022-12-26 04:58:49 And maybe some motorlock
+plane-crazy 2022-12-26 04:59:02 To make it blend into the body sorta
+plane-crazy 2022-12-26 04:59:39 Yeah its kinda like taht
+plane-crazy 2022-12-26 05:04:05 This camlock is a pain in the backside
+plane-crazy 2022-12-26 05:04:10 I need a break
+plane-crazy 2022-12-26 05:05:04 Interior? Like buildings?
+plane-crazy 2022-12-26 05:54:29 Sharp wings :sad:
+plane-crazy 2022-12-26 06:13:40 33fps, a small victory
+plane-crazy 2022-12-26 06:16:28 OHH MAN I KNOW ITS JUST 33 FPS BUT AFTER 20 FPS THIS FEELS LIKE HEAVEN
+plane-crazy 2022-12-26 06:20:17 f15 better in my opinion
+plane-crazy 2022-12-26 06:20:24 it looks cooler
+creations-chat 2022-12-26 06:58:01 nope
+yeah i dont
+plane-crazy 2022-12-26 08:27:58 yes i did use that one video on youtube, the cobra guide thing
+creations-chat 2022-12-26 08:31:10 cockpit looks funny
+plane-crazy 2022-12-26 08:39:16 talking about shaders i only use them to make the game look more gritty such as in this image
+plane-crazy 2022-12-26 08:39:49 normal plane crazy map too vibrant
+plane-crazy 2022-12-26 09:19:48 I use both hover and conveyors
+plane-crazy 2022-12-26 09:39:15 conveyor drives are good for boosting the hoverdrive to max speed
+plane-crazy 2022-12-26 09:40:45 in terms of structures and stuff yeah
+plane-crazy 2022-12-26 09:40:55 im talking about the coloring
+plane-crazy 2022-12-26 09:49:38 Discord light mode
+plane-crazy 2022-12-26 10:01:19 mind telling me how magnet lock works? im an absolute peabrain on that subject
+bot-central 2022-12-26 10:08:56 -servers
+plane-crazy 2022-12-26 12:18:04 hello farter
+creations-chat 2022-12-26 15:20:41 roscale (i swear guys)
+creations-chat 2022-12-26 15:37:56 https://tenor.com/view/mods-discord-mod-moderator-moderation-clash-of-clans-gif-24080525
+plane-crazy 2022-12-26 15:47:08 nah none at all
+plane-crazy 2022-12-26 15:47:22 https://cdn.discordapp.com/attachments/384021699466756107/1056850850858930206/what_the_devils.mp4
+plane-crazy 2022-12-26 15:47:25 look at this
+plane-crazy 2022-12-26 15:47:28 this answers everything
+plane-crazy 2022-12-26 15:47:47 flying backwards
+plane-crazy 2022-12-26 15:48:12 its some conveyor glitch
+plane-crazy 2022-12-26 15:48:21 i got it off some goofy yt vid
+plane-crazy 2022-12-26 15:49:00 you can put conveyors inside the build
+plane-crazy 2022-12-26 15:49:03 they dont need to be loose
+plane-crazy 2022-12-26 15:49:15 and just spam their activation key
+plane-crazy 2022-12-26 15:49:23 while tryna do some goofy manuever like what i did
+plane-crazy 2022-12-26 15:49:51 https://www.youtube.com/watch?v=Nyjxjg4NWu0
+plane-crazy 2022-12-26 15:49:51 okay you know what just watch part of this i just used part of the video for it
+plane-crazy 2022-12-26 15:50:00 easy modifications
+plane-crazy 2022-12-26 15:50:16 to teach you hwo to break the game i think
+plane-crazy 2022-12-26 15:50:53 i think ive pulled more than 500 with the way i fly
+plane-crazy 2022-12-26 15:51:05 its mainly the start where they add weight and put conveyors in
+plane-crazy 2022-12-26 15:51:16 somehow the conveyors let you retain momentum thats how ive been flying reverse
+plane-crazy 2022-12-26 15:51:24 as long as you spam them
+plane-crazy 2022-12-26 15:51:40 damn
+plane-crazy 2022-12-26 15:51:42 i feel you
+plane-crazy 2022-12-26 15:52:26 skip to abt 28 seconds
+plane-crazy 2022-12-26 15:52:47 very painful
+plane-crazy 2022-12-26 15:53:14 hm, do you think you could get a keyboard that doesnt do that?
+plane-crazy 2022-12-26 15:53:54 conveyor drives exist though
+plane-crazy 2022-12-26 15:54:04 you can use them to boost you to max speed
+plane-crazy 2022-12-26 15:54:10 then disable them
+plane-crazy 2022-12-26 15:54:28 that too
+plane-crazy 2022-12-26 15:55:03 speaking about my "about me" i think i will do a cobra manuever gaming chair now
+the-dump 2022-12-26 16:01:30 
+the-dump 2022-12-26 16:02:31 
+general 2022-12-26 16:48:44 Fact
+general 2022-12-26 16:51:38 citadel from half life <:trollface:775024642104229898>
+creations-chat 2022-12-26 16:54:39 punisher jet looks a bit more like a air support type of thing ngl
+help 2022-12-26 16:55:39 m
+plane-crazy 2022-12-26 16:56:59 exposed lock
+plane-crazy 2022-12-26 16:59:03 facts
+plane-crazy 2022-12-26 17:01:30 mfw
+plane-crazy 2022-12-26 17:12:21 so this is in laymans terms
+creations-chat 2022-12-26 17:15:47 my favorite part was when Pixy said its resettin time and v2'ed everywhere
+the-dump 2022-12-26 17:22:07 
+the-dump 2022-12-26 17:28:44 
+general 2022-12-26 17:29:37 Roblox truss
+the-dump 2022-12-26 17:30:15 
+the-dump 2022-12-26 17:31:15 Tom cruise from top gun came to my house and scared the living crap outta me!!!!!
+the-dump 2022-12-26 17:32:42 <:trollface:775024642104229898>
+the-dump 2022-12-26 17:33:16 Liked and scrubcribed
+plane-crazy 2022-12-27 01:24:08 Looking good for its size. Those 2 frontal wings are hard to do in that scale.
+plane-crazy 2022-12-27 01:24:27 
+plane-crazy 2022-12-27 01:39:35 falken
+plane-crazy 2022-12-27 01:39:45 i discovered the most cursed thing just now
+plane-crazy 2022-12-27 01:39:55 i can do belkan manuevers while my plane isnt even motorlocked
+plane-crazy 2022-12-27 01:40:05 
+plane-crazy 2022-12-27 01:43:22 
+plane-crazy 2022-12-27 04:25:41 what should i work on next, wings or the engines and rear stabilizers
+plane-crazy 2022-12-27 04:42:59 Walmart ADF-X-02
+plane-crazy 2022-12-27 04:45:51 yes do it
+plane-crazy 2022-12-27 04:45:55 amazing
+plane-crazy 2022-12-27 04:46:19 Five freddys at night?????
+plane-crazy 2022-12-27 06:03:20 #removemotorlock
+plane-crazy 2022-12-27 06:03:34 if we dont have motorlock there wont be any motorlock to be exposed
+plane-crazy 2022-12-27 06:03:43 🤓
+plane-crazy 2022-12-27 06:06:46 Exposed camlock
+plane-crazy 2022-12-27 06:07:15 not if i use the screwdriver
+plane-crazy 2022-12-27 06:07:47 #hoverpadsupremacy
+plane-crazy 2022-12-27 06:08:11 only real ones use hoverpads
+plane-crazy 2022-12-27 06:10:57 see how good the underside looks with hoverpads <:OmegaTroll:626841385118597152>
+plane-crazy 2022-12-27 06:12:43 so trash without hoverpads 😭😭
+plane-crazy 2022-12-27 06:14:57 
+plane-crazy 2022-12-27 06:16:21 
+plane-crazy 2022-12-27 06:16:36 Masterpice
+plane-crazy 2022-12-27 06:17:13 use propellors to roll <:trollface:775024642104229898>
+creations-chat 2022-12-27 06:24:31 look at how scary this mf is!!!
+creations-chat 2022-12-27 07:27:06 
+the-dump 2022-12-27 07:36:36 
+creations-chat 2022-12-27 13:06:30 Oblivion drone, nice
+May I ask how you made that hovering system
+plane-crazy 2022-12-27 13:09:29 mf!!!!!! i probably will be playing kerbal space program instead by then!!!!
+plane-crazy 2022-12-27 13:09:41 that game is smarter!!!11111!1
+plane-crazy 2022-12-27 13:10:30 simpleplanes
+plane-crazy 2022-12-27 13:10:39 which is just singleplayer plane crazy
+plane-crazy 2022-12-27 13:11:06 guns that dont have a stupid red projectile
+plane-crazy 2022-12-27 13:11:14 WHAT
+plane-crazy 2022-12-27 13:11:22 the bot censored mechan1c4
+plane-crazy 2022-12-27 13:11:53 so to put it simply the bot is telling people to shut up
+plane-crazy 2022-12-27 13:13:22 Exposed piston lock
+plane-crazy 2022-12-27 13:13:25 smh!!!1
+plane-crazy 2022-12-27 13:13:49 exposed camlock too smh
+plane-crazy 2022-12-27 13:13:57 i saw it with my screwdriver tool
+plane-crazy 2022-12-27 13:14:28 #mobilesupremacy
+plane-crazy 2022-12-27 13:14:32 no exposed camlock
+plane-crazy 2022-12-27 13:15:52 in mechan1c4 do i have to use motorlock equivalent 24/7??!?!?!?!
+plane-crazy 2022-12-27 13:16:16 if it exists
+plane-crazy 2022-12-27 13:16:40 Nah build a boat for treasure
+plane-crazy 2022-12-27 13:17:34 guys come check out my jet in build a base to survive!!!!!!
+plane-crazy 2022-12-27 13:19:07 fine, i guess i will have to pull out the kidnap cessna
+plane-crazy 2022-12-27 13:19:58 color name 🤮 🤮 🤮
+the-dump 2022-12-27 14:46:39 
+the-dump 2022-12-27 15:20:02 Minecraft steve dies
+the-dump 2022-12-27 16:04:24 2
+the-dump 2022-12-27 16:05:23 
+plane-crazy 2022-12-27 16:06:11 bro is that salvation?????
+plane-crazy 2022-12-27 16:06:39 with a railgun to save 10 million lives
+plane-crazy 2022-12-27 16:07:38 
+plane-crazy 2022-12-27 16:10:14 plane crazy glider (impossible)
+the-dump 2022-12-27 16:12:29 mf bot!!!11
+plane-crazy 2022-12-28 05:41:13 
+plane-crazy 2022-12-28 06:42:28 
+plane-crazy 2022-12-28 08:15:21 19fps ADF 11F pvp challenge
+plane-crazy 2022-12-28 08:18:10 This is so sad
+plane-crazy 2022-12-28 08:18:23 Can you use a spring for that instead
+plane-crazy 2022-12-28 08:19:10 hold on
+plane-crazy 2022-12-28 08:19:26 you use springs instead of disconnectors
+plane-crazy 2022-12-28 08:19:44 a lot of them will cause them to get stuck in the build though
+plane-crazy 2022-12-28 08:20:14 
+plane-crazy 2022-12-28 08:20:40 ive seen worse i think thats ok
+plane-crazy 2022-12-28 08:20:59 when its colored it will blend in
+plane-crazy 2022-12-28 08:21:39 the red part of the spring faces the motorlock
+plane-crazy 2022-12-28 08:21:49 
+plane-crazy 2022-12-28 08:21:54 all you really need is
+plane-crazy 2022-12-28 08:21:55 break weld
+plane-crazy 2022-12-28 08:22:20 
+plane-crazy 2022-12-28 08:22:51 ill show how i do it on motorlock stacks
+plane-crazy 2022-12-28 08:23:22 theres other ways too
+plane-crazy 2022-12-28 08:23:23 
+plane-crazy 2022-12-28 08:23:27 i think that will work though the one you did
+plane-crazy 2022-12-28 08:24:00 try what you did first if it doesnt work try the method i used
+plane-crazy 2022-12-28 08:25:18 this one is more compact
+plane-crazy 2022-12-28 08:25:46 
+plane-crazy 2022-12-28 08:25:49 yeah thats the issue with them
+plane-crazy 2022-12-28 08:25:52 wait
+plane-crazy 2022-12-28 08:26:03 only replace the disconnectors that are exposed
+plane-crazy 2022-12-28 08:26:12 youll have less spring to deal with
+plane-crazy 2022-12-28 08:26:56 the ones causing that stud to be visible
+plane-crazy 2022-12-28 08:27:18 could you send a screenshot of your build unloaded
+plane-crazy 2022-12-28 08:27:41 i could get a better idea on what to do
+plane-crazy 2022-12-28 08:29:30 ok i see how its done
+plane-crazy 2022-12-28 08:30:12 try this
+plane-crazy 2022-12-28 08:30:28 the side opposite to the red part will weld permanently btw
+plane-crazy 2022-12-28 08:30:37 every other side wont weld permanently and will disconnect when the spring is triggered with "break weld" on
+plane-crazy 2022-12-28 08:32:16 let me try another method, ill try with disconnectors
+plane-crazy 2022-12-28 08:32:28 https://cdn.discordapp.com/attachments/384021699466756107/1057572519114178580/image.png
+plane-crazy 2022-12-28 08:33:55 this could help
+plane-crazy 2022-12-28 08:33:57 but
+plane-crazy 2022-12-28 08:34:03 it does pull the motorlock stack down a little bit
+plane-crazy 2022-12-28 08:34:23 actually
+plane-crazy 2022-12-28 08:34:24 you can do this
+plane-crazy 2022-12-28 08:35:01 i think it would
+plane-crazy 2022-12-28 08:35:11 it gives a bit less space
+plane-crazy 2022-12-28 08:35:24 
+plane-crazy 2022-12-28 08:35:29 it does stop the motorlock from locking so it should work with anglelock
+plane-crazy 2022-12-28 08:35:43 studs will be like this
+plane-crazy 2022-12-28 08:36:12 looking at how your build is going right now, this shouldnt be exposed
+plane-crazy 2022-12-28 08:36:47 okay
+plane-crazy 2022-12-28 08:36:53 that should be an easy fix
+plane-crazy 2022-12-28 08:36:57 youd have to remove
+plane-crazy 2022-12-28 08:36:58 wing panels
+plane-crazy 2022-12-28 08:36:59 tho
+plane-crazy 2022-12-28 08:37:21 
+plane-crazy 2022-12-28 08:37:37 nvm i think you can keep the wing panels
+plane-crazy 2022-12-28 08:38:40 did you remove the middle wing
+plane-crazy 2022-12-28 08:39:11 yeah lol i made another mistake as well
+plane-crazy 2022-12-28 08:39:14 you can keep all of them
+plane-crazy 2022-12-28 08:39:15 lmao
+plane-crazy 2022-12-28 08:39:31 i kinda deal with exposed pieces a lot
+plane-crazy 2022-12-28 08:39:45 if its a plane you can fly it into something
+plane-crazy 2022-12-28 08:39:50 should help get them out
+plane-crazy 2022-12-28 08:40:12 or if your plane is hollow
+plane-crazy 2022-12-28 08:40:17 make the internal solid
+plane-crazy 2022-12-28 08:40:31 and springs on the other?
+plane-crazy 2022-12-28 08:41:07 try this
+plane-crazy 2022-12-28 08:41:46 
+plane-crazy 2022-12-28 08:46:31 just talk alot
+plane-crazy 2022-12-28 08:46:44 the bot gives levels
+plane-crazy 2022-12-28 08:47:04 theres probably a timer between each message that counts
+plane-crazy 2022-12-28 08:47:16 pretty sure its level 3 you can send images
+plane-crazy 2022-12-28 08:47:51 i dont recommend spamming like that though lmao
+plane-crazy 2022-12-28 08:48:07 just have some goofy convo
+plane-crazy 2022-12-28 08:48:41 you can check your level by doing !rank in <#384027830192832513>
+bot-central 2022-12-28 08:48:51 !rank
+plane-crazy 2022-12-28 08:50:10 swag
+plane-crazy 2022-12-28 08:50:57 
+general 2022-12-28 08:52:02 Shaders gone wrong
+plane-crazy 2022-12-28 13:14:09 Falken yes or no
+plane-crazy 2022-12-29 04:43:54 Dudes a sexoffender yet hes a virg1n
+creations-chat 2022-12-29 09:47:56 <:trollface:775024642104229898>
+creations-chat 2022-12-29 09:52:34 fax
+plane-crazy 2022-12-29 09:54:20 Building an asylum for planes in plane crazy (gone right)
+creations-chat 2022-12-29 09:58:32 Mad vulpen tutorial in creations (real)
+creations-chat 2022-12-29 10:00:35 your pfp goes hard ngl
+can i screenshot
+creations-chat 2022-12-29 10:09:39 nah i wasnt actually talking about that i was just saying random shit
+general 2022-12-31 06:49:18 quite effective in combat
+general 2022-12-31 06:49:37 B-21 raider lookin fire tho
+general 2022-12-31 06:50:08 mi-35 glider version
+general 2022-12-31 06:50:32 more planes
+general 2022-12-31 06:50:41 true
+general 2022-12-31 06:51:04 No viruses
+general 2022-12-31 06:51:09 Banned forever
+general 2022-12-31 06:51:24 https://tenor.com/view/ip-grabber-ip-grabber-thanos-gif-21846609
+general 2022-12-31 06:51:43 IP grabber
+general 2022-12-31 06:52:09 now you have 50 billion viruses
+general 2022-12-31 06:52:33 secretly i was affiliated with the virus creator and now have your info
+general 2022-12-31 06:53:02 Fire
+general 2022-12-31 06:53:27 i know good sir
+general 2022-12-31 06:53:57 fine
+general 2022-12-31 06:53:58 ill do it
+general 2022-12-31 06:54:05 https://www.bing.com/images/search?view=detailV2&ccid=sagoOto%2b&id=111F7E335F898D62A235224AC8D3AC619CBE4224&thid=OIP.sagoOto-KEG1QAWobtde8AHaEK&mediaurl=https%3a%2f%2fi.ytimg.com%2fvi%2fkWqsU6XCd3w%2fmaxresdefault.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.b1a8283ada3e2841b54005a86ed75ef0%3frik%3dJEK%252bnGGs08hKIg%26pid%3dImgRaw%26r%3d0&exph=720&expw=1280&q=old+plane+designs+that+make+no+sense&simid=608039564310483359&FORM=IRPRST&ck=340CDFD5FD65FF8DC303AC0EADDB16A3&selectedIndex=0
+general 2022-12-31 06:54:09 MFW
+general 2022-12-31 06:54:21 this is so sad
+general 2022-12-31 06:54:56 i like C-450's too
+general 2022-12-31 06:57:07 fixed
+general 2022-12-31 06:57:28 1v1
+general 2022-12-31 06:57:59 no bad words!!!
+general 2022-12-31 06:58:13 Lumber tycon
+general 2022-12-31 06:58:33 https://media.discordapp.net/attachments/342845320813740032/1016998966065381376/Jacko.gif
+general 2022-12-31 06:59:32 (plane crazy showcase)
+general 2022-12-31 07:00:38 
+general 2022-12-31 07:01:04 Ip grabber
+general 2022-12-31 07:01:12 reported for hacking
+general 2022-12-31 07:01:19 need level 3 which is ass
+general 2022-12-31 07:01:40 https://tenor.com/view/skeleton-grab-choke-gif-24613420
+general 2022-12-31 07:01:47 wtf ip grabber
+general 2022-12-31 07:02:16 this is so sad
+general 2022-12-31 07:02:25 5 likes right now
+general 2022-12-31 07:02:54 yes because plane crazy 18+
+general 2022-12-31 07:04:18 this server is 18+ because i can send naked arnold schwarzenegger
+general 2022-12-31 07:04:39 no bro the servers 18+
+general 2022-12-31 07:05:31 
+general 2022-12-31 07:06:08 Uhh
+general 2022-12-31 07:07:50 https://cdn.discordapp.com/attachments/995014857126596729/1058642197064462427/trim.D075A8CE-1264-40B5-9DDD-A6AE54C77959.mov
+general 2022-12-31 07:09:15 
+general 2022-12-31 07:09:33 https://tenor.com/view/battleship-alien-ship-aliens-battleship-movie-alien-spaceship-gif-26230263
+general 2022-12-31 07:10:10 
+general 2022-12-31 07:10:32 🔥
+general 2022-12-31 07:10:58 
+general 2022-12-31 07:11:23 
+general 2022-12-31 07:11:27 this
+general 2022-12-31 07:12:21 im too dead
+general 2022-12-31 07:12:30 new years eve
+general 2022-12-31 07:12:32 faker
+general 2022-12-31 07:12:54 good, now avoid my landmines
+general 2022-12-31 07:12:59 <:trollface:775024642104229898>
+general 2022-12-31 07:13:33 https://media.discordapp.net/attachments/734875115635998780/880898783335038986/CRP.gif
+general 2022-12-31 07:14:39 do through dms
+general 2022-12-31 07:14:43 image perms is an ass
+general 2022-12-31 07:17:04 chat died for 1 second dead chat
+general 2022-12-31 07:23:39 https://media.discordapp.net/attachments/342845320813740032/1016998966065381376/Jacko.gif
+plane-crazy 2022-12-31 07:24:52 Exposed motorlock
+plane-crazy 2022-12-31 07:25:02 Rated down for eternity
+plane-crazy 2022-12-31 07:25:12 Ok but how many bombs are in that
+plane-crazy 2022-12-31 07:25:42 dam
+plane-crazy 2022-12-31 07:26:12 adding cluster bomb to my jet (its suddenly laggy now)
+general 2022-12-31 07:27:51 
+general 2022-12-31 07:31:12 Mcdondalds
+general 2022-12-31 07:32:04 is it squid game masterchief
+plane-crazy 2022-12-31 07:32:27 Yeah you gotta rejoin
+plane-crazy 2022-12-31 07:32:31 You can still save tho
+plane-crazy 2022-12-31 07:32:48 Mouse works keyboard not so much
+plane-crazy 2022-12-31 07:35:24 that one guy spamming balls on his plot
+plane-crazy 2022-12-31 07:36:20 Next time that happens ill try it
+plane-crazy 2022-12-31 07:36:25 I think it will work
+plane-crazy 2022-12-31 07:36:29 If it did for you
+plane-crazy 2022-12-31 07:37:37 Well, thats a solution
+plane-crazy 2022-12-31 07:37:46 Backslash yes?
+plane-crazy 2022-12-31 07:38:07 I dont even remember the adminbar key, but im looking at other chats its saying backslash
+plane-crazy 2022-12-31 07:38:19 Complete accident btw
+plane-crazy 2022-12-31 07:38:35 \
+plane-crazy 2022-12-31 07:39:26 new knowledge gained
+plane-crazy 2022-12-31 07:42:40 https://media.discordapp.net/attachments/497142796961054721/990248102415970314/forgot.gif
+plane-crazy 2022-12-31 07:43:13 Plane crazy 3 never because plane crazy 2 is already fake
+general 2022-12-31 07:46:26 motor physics
+general 2022-12-31 07:46:47 pretty sure it mainly happens on mouse controlled stuff but idk
+general 2022-12-31 08:06:34 2023:
+general 2022-12-31 08:08:54 5 hours until year change
+general 2022-12-31 08:10:34 alien fighter
+general 2022-12-31 08:11:02 
+general 2022-12-31 08:12:44 vault from HL:A
+general 2022-12-31 08:13:52 i like them wires going up to it
+general 2022-12-31 08:31:44 for gunships ive got a good one, but its not space
+general 2022-12-31 08:31:46 its a VTOL
+general 2022-12-31 08:33:05 not a big fan ngl
+the-dump 2022-12-31 08:42:39 
+the-dump 2022-12-31 16:42:04 https://media.discordapp.net/attachments/495286269459300364/1058700824240468039/attachment-5-1.gif
+general 2022-12-31 16:42:46 Shitposting in general challenge
+general 2022-12-31 16:44:46 https://media.discordapp.net/attachments/893678221739061329/1058738334962294805/jr2xydu5a59a1.gif
+general 2022-12-31 16:45:35 
+general 2022-12-31 16:45:35 superior
+bot-central 2022-12-31 16:46:57 !rank
+bot-central 2022-12-31 16:47:08 not even level 20
+bot-central 2022-12-31 16:47:09 trash <@893650511025283112>
+the-dump 2022-12-31 16:48:24 
+the-dump 2022-12-31 16:51:59 https://cdn.discordapp.com/attachments/1043171587144290424/1058789573636935710/high_quality_adf.PNG
+the-dump 2023-01-02 02:02:16 https://tenor.com/view/im-like-black-ops3guy-official-nanba-yu-fanclub-gif-25644485
+general 2023-01-02 02:44:59 masterpice
+general 2023-01-02 02:45:46 whats this?
+general 2023-01-02 02:46:09 e
+general 2023-01-02 02:46:15 good luck then ig
+general 2023-01-02 02:46:30 try messing around with camlock a bit maybe
+general 2023-01-02 02:46:57 rest in peace
+general 2023-01-02 02:48:52 gen z emo kids after cutting their arms open (it was for a tiktok challenge)
+general 2023-01-02 02:49:36 nah
+creations-chat 2023-01-03 06:06:38 g
+creations-chat 2023-01-03 06:09:02 "only a little motorlocking"
+general 2023-01-03 06:15:20 https://media.discordapp.net/attachments/504436696021204992/935133625370943498/speed.gif
+general 2023-01-03 06:22:04 my 1 wide adf 11f
+:emoji_disintegrating:
+the-dump 2023-01-03 06:24:53 
+the-dump 2023-01-03 06:28:40 https://tenor.com/view/i-saw-what-you-deleted-gus-breaking-bad-gif-25966954
+the-dump 2023-01-03 06:29:45 https://tenor.com/view/t1000-no-terminator-robert-patrick-nein-gif-9881427
+the-dump 2023-01-03 06:30:11 
+the-dump 2023-01-03 06:30:29 
+the-dump 2023-01-03 06:31:08 mr breast give me money
+general 2023-01-03 06:37:09 wtf TLS port??!?!?!?!? thats impossible
+general 2023-01-03 06:37:54 i kno lol
+general 2023-01-03 06:39:36 worth it
+plane-crazy 2023-01-04 07:44:26 https://tenor.com/view/ied-better-call-saul-bomb-your-honor-gif-24668812
+plane-crazy 2023-01-04 07:46:47 mf my jackolantern gif broke
+plane-crazy 2023-01-04 07:48:54 
+plane-crazy 2023-01-04 08:27:12 pineapple goes on pizza
+plane-crazy 2023-01-04 08:27:46 certified badass
+plane-crazy 2023-01-04 08:31:01 https://tenor.com/view/roblox-gif-24684724
+plane-crazy 2023-01-04 08:32:26 shredder balls are the best builds ngl
+plane-crazy 2023-01-04 08:35:30 
+plane-crazy 2023-01-04 08:35:35 theyre ass
+plane-crazy 2023-01-04 08:36:15 its especially easy to kill them if they build em big
+plane-crazy 2023-01-04 08:36:28 and i see big ones everywhere
+plane-crazy 2023-01-04 08:36:55 nice
+plane-crazy 2023-01-04 08:37:05 mind sending pic?
+plane-crazy 2023-01-04 08:39:24 so how did you make it float?
+plane-crazy 2023-01-04 08:39:28 if you dont mind explaining
+plane-crazy 2023-01-04 08:40:03 https://tenor.com/view/angry-birds-real-angry-birds-angry-birds-gif-24043549
+plane-crazy 2023-01-04 08:41:03 ah i see
+plane-crazy 2023-01-04 09:05:25 https://tenor.com/view/dream-machine-flip-car-flip-awesome-car-epic-gif-25565841
+general 2023-01-05 02:07:49 
+general 2023-01-05 02:11:58 https://tenor.com/view/operation-save-the-world-time-travel-chimp-zone-caption-discord-meme-gif-25004272
+general 2023-01-05 02:21:45 https://tenor.com/view/poop-gif-19163806
+general 2023-01-05 02:23:27 Cant have shit in PCC
+general 2023-01-05 02:26:48 get snitched on for shitposting challenge (possible)
+general 2023-01-05 02:33:33 give it some cool ass shit
+general 2023-01-05 02:33:45 https://tenor.com/view/ace-combat-raven-adf11f-adf11-ac7-gif-26775819
+general 2023-01-05 02:34:12 <#384025409945337856> ?
+general 2023-01-05 02:34:29 also sure
+general 2023-01-05 02:36:59 i think its alright
+general 2023-01-05 02:37:28 maybe add landing gear
+general 2023-01-05 02:37:41 since its only got nosewheel
+general 2023-01-05 02:37:51 custom if you can fit it
+general 2023-01-05 02:38:20 intakes look a bit strange
+general 2023-01-05 02:39:02 you should probably add views from diff angles
+general 2023-01-05 02:53:20 not a big fan of the cockpit
+general 2023-01-05 02:55:56 why cant i upvote this masterpiece
+general 2023-01-05 02:56:08 whenever i do it gets rid of it
+the-dump 2023-01-05 02:58:00 https://tenor.com/view/scam2023-gif-24344858
+general 2023-01-05 03:01:15 Heated discussion
+general 2023-01-05 03:03:44 https://tenor.com/view/big-brother1984-1984-big-brother-big-brother-is-watching-you-george-orwell-gif-24454773
+general 2023-01-05 03:04:27 beautiful
+general 2023-01-05 03:08:38 https://tenor.com/view/scam2023-gif-24344858
+general 2023-01-05 03:09:37 and then shit sprays out and onto the wall
+general 2023-01-05 03:10:26 8 ft
+general 2023-01-05 03:11:47 https://media.discordapp.net/attachments/384021699466756107/1060102509982654514/jacko2.gif
+general 2023-01-05 03:13:32 true
+general 2023-01-05 03:13:41 because its real
+general 2023-01-05 03:15:16 https://tenor.com/view/big-brother1984-1984-big-brother-big-brother-is-watching-you-george-orwell-gif-24454773
+general 2023-01-05 03:15:29 this is truly the society we live in
+general 2023-01-05 03:15:34 1984
+general 2023-01-05 03:16:17 thats from an ad
+general 2023-01-05 03:17:22 https://tenor.com/view/1984-walter-white-literally1984-breaking-bad-mfs-gif-25566747
+general 2023-01-05 03:18:33 g
+general 2023-01-05 03:19:05 
+general 2023-01-05 03:19:43 
+general 2023-01-05 03:21:58 True
+general 2023-01-05 09:47:16 yt shorts and tiktok are both wastes of time lma
+general 2023-01-05 09:48:09 https://media.discordapp.net/attachments/384021699466756107/1060102509982654514/jacko2.gif
+general 2023-01-05 13:03:20 https://media.discordapp.net/attachments/846258330258636830/1049727123289550908/caption-4.gif
+general 2023-01-05 19:26:53 https://tenor.com/view/big-brother-1984-moment-spotify-ads-gif-20902346
+general 2023-01-05 19:28:27 facts
+general 2023-01-05 19:29:01 evil clown named pennywise is watching
+the-dump 2023-01-05 19:31:33 https://tenor.com/view/krnl-krnl-cracked-no-key-krnl-cracked-no-key-pov-gif-24620407
+general 2023-01-05 19:32:41 https://media.discordapp.net/attachments/846556327090323466/1059107675411058698/fallouthlmmetro.gif
+plane-crazy 2023-01-05 20:20:43 air pvp after literally noone hits eachother
+plane-crazy 2023-01-05 20:21:10 I love flying fucking backwards
+plane-crazy 2023-01-05 20:22:17 Flying backwards was not even intended
+plane-crazy 2023-01-05 20:22:30 I followed some guide on cobra and it gave me flying backwards
+plane-crazy 2023-01-05 20:23:04 Nah its like, im still going forward, just facing the other way
+plane-crazy 2023-01-05 20:24:27 Only the best of the best build tutorial shredder balls
+plane-crazy 2023-01-05 20:26:10 me dogfighting the annoying ass white colored plane
+plane-crazy 2023-01-05 20:27:02 Whyd you have to remind me of this bullsh*t
+plane-crazy 2023-01-05 20:27:24 Slow ass star wars bomber
+plane-crazy 2023-01-05 20:29:17 which one do you guys prefer
+plane-crazy 2023-01-05 20:29:51 got it
+plane-crazy 2023-01-05 20:30:01 https://tenor.com/view/ace-combat-raven-adf11f-adf11-ac7-gif-26775819
+plane-crazy 2023-01-05 20:30:17 why am i literally the only one who prefers the white one
+plane-crazy 2023-01-05 20:30:25 ones got lasers
+plane-crazy 2023-01-05 20:30:34 but the other one
+plane-crazy 2023-01-05 20:30:41 has the equivalent of a CIWS
+plane-crazy 2023-01-05 20:30:47 and can shoot your missiles down
+plane-crazy 2023-01-05 20:31:06 just guns lmao
+plane-crazy 2023-01-05 20:32:24 https://cdn.discordapp.com/attachments/1033178173715775500/1056952907611787274/raven_detach_roblox.mp4 <:nooo:787097964946259978>
+plane-crazy 2023-01-05 20:33:47 the guy after hitting my ass with missiles and seeing a second plane appear
+plane-crazy 2023-01-05 20:35:12 grey dorito with blue pimples
+plane-crazy 2023-01-05 20:35:18 bro wtf
+plane-crazy 2023-01-05 20:35:22 we sent the same image
+plane-crazy 2023-01-05 20:36:04 dont forget the green winglights with full settings
+plane-crazy 2023-01-05 20:39:36 i just realized i only have fictional ass builds
+plane-crazy 2023-01-05 20:43:02 is it bad that i build stuff based on "what looks right" as opposed to doing actual measurements
+plane-crazy 2023-01-05 20:45:49 bro i love the separatists
+plane-crazy 2023-01-05 20:50:04 https://cdn.discordapp.com/attachments/504436696021204992/1056954716241801297/image.png
+plane-crazy 2023-01-05 20:50:15 is this massive as shit or nah
+plane-crazy 2023-01-05 20:51:02 https://tenor.com/view/ace-combat-raven-adf11f-adf11-ac7-gif-26775819
+plane-crazy 2023-01-05 20:51:39 https://cdn.discordapp.com/attachments/1033178173715775500/1056952907611787274/raven_detach_roblox.mp4
+plane-crazy 2023-01-05 20:52:13 ADFX 10
+plane-crazy 2023-01-05 20:52:17 ive done it before
+plane-crazy 2023-01-05 20:52:24 but its gone because i worked on the adf 11f to fix some stuff
+plane-crazy 2023-01-05 20:52:34 ive finished fixing some stuff so might recolor
+plane-crazy 2023-01-05 20:52:35 yeah
+plane-crazy 2023-01-05 20:52:46 the falken's stats ingame are better ngl
+the-dump 2023-01-05 20:54:01 https://media.discordapp.net/attachments/846258330258636830/1049727123289550908/caption-4.gif
+plane-crazy 2023-01-05 20:54:51 ace difficulty Dark Blue probably
+plane-crazy 2023-01-05 20:56:29 yep
+plane-crazy 2023-01-05 20:56:40 PC2 gonna have some tunnels
+plane-crazy 2023-01-05 20:57:10 do you have the Raven bought
+plane-crazy 2023-01-05 20:59:26 im gonna see how well ADFX 01 with MPBM does in Dark Blue later
+plane-crazy 2023-01-05 21:00:25 f 22
+plane-crazy 2023-01-05 21:00:57 he has 67 mental illnesses and is banned from most public spaces
+plane-crazy 2023-01-05 21:01:31 yes
+plane-crazy 2023-01-05 21:02:05 i think so because i posted an adf 11f pic
+plane-crazy 2023-01-05 21:02:59 i never paid attention to the missions that give the best MRP
+plane-crazy 2023-01-05 21:03:04 i just played the ones i had the most fun with
+plane-crazy 2023-01-05 21:03:12 Anchorhead Raid was a favorite for a while
+plane-crazy 2023-01-05 21:03:34 oh shit
+plane-crazy 2023-01-05 21:03:53 i hate it
+plane-crazy 2023-01-05 21:04:34 pfp change <:trollface:775024642104229898>
+general 2023-01-05 23:32:34 agh
+general 2023-01-05 23:32:55 ace combat 8 looks great
+plane-crazy 2023-01-05 23:33:46 False info
+plane-crazy 2023-01-05 23:33:53 PC2 doesnt exist
+general 2023-01-05 23:34:19 ww2 fighters in ace combat infinity
+general 2023-01-05 23:34:41 https://www.youtube.com/watch?v=TMf8ishXV4Q&t=536s
+general 2023-01-05 23:34:41 its real
+general 2023-01-05 23:35:10 https://www.youtube.com/watch?v=MPKK-VEF69A
+general 2023-01-05 23:36:03 
+general 2023-01-05 23:36:19 basically
+general 2023-01-05 23:36:21 and crazy ass (belkan) tech
+general 2023-01-05 23:36:36 which can deflect bullets
+plane-crazy 2023-01-05 23:37:28 recolor my ADF 11F or nah
+general 2023-01-05 23:38:16 its goofy ah
+general 2023-01-05 23:38:25 you got this p-38 fighting some massive ass aerial cruiser
+plane-crazy 2023-01-05 23:40:01 true
+general 2023-01-05 23:41:00 facts it sucks ass
+general 2023-01-05 23:41:52 "guys look at my anime girl paint scheme on my f 22!!!!!" <:nooo:787097964946259978>
+plane-crazy 2023-01-06 00:10:06 who pinged my *ss
+general 2023-01-06 01:34:31 https://media.discordapp.net/attachments/808788231478444134/942082932347134002/caption.gif
+general 2023-01-06 03:28:25 https://media.discordapp.net/attachments/808788231478444134/942082932347134002/caption.gif
+plane-crazy 2023-01-06 04:18:32 https://media.discordapp.net/attachments/808788231478444134/942082932347134002/caption.gif
+general 2023-01-07 04:31:44 https://tenor.com/view/big-brother-1984-moment-spotify-ads-gif-20902346
+general 2023-01-07 04:32:44 is ace combat realistic????
+general 2023-01-07 04:34:27 what the fuck neo warfare has an ADFX 02 i need to play it
+general 2023-01-07 04:35:18 its got an adf 01 too? damn
+general 2023-01-07 04:37:42 id pay 3k robux if they added the 11F with detaching
+plane-crazy 2023-01-07 05:28:58 
+plane-crazy 2023-01-07 05:31:14 <:nooo:787097964946259978>
+general 2023-01-07 05:31:55 belka is just strangereal ohio
+general 2023-01-07 05:32:31 nice jet
+plane-crazy 2023-01-07 05:50:25 https://media.discordapp.net/attachments/808788231478444134/942082932347134002/caption.gif
+plane-crazy 2023-01-07 05:51:17 https://media.discordapp.net/attachments/846258330258636830/1049727123289550908/caption-4.gif
+general 2023-01-07 05:52:03 Nice boat
+plane-crazy 2023-01-07 05:52:57 https://media.discordapp.net/attachments/808788231478444134/942082932347134002/caption.gif
+plane-crazy 2023-01-07 05:53:25 upvote shitty builds
+the-dump 2023-01-07 05:54:19 https://cdn.discordapp.com/attachments/495286269459300364/1061145982500343818/IMG_9369.png
+plane-crazy 2023-01-07 09:11:14 mfw when i see they put the Aigaion and HK-Aerial in the honorable mentions
+general 2023-01-07 09:12:10 play fart sounds with the speaker
+general 2023-01-07 09:12:19 and any other stupid ass gen z sound
+general 2023-01-07 09:12:28 they will get pissed (not fake)
+the-dump 2023-01-07 09:12:38 https://cdn.discordapp.com/attachments/495286269459300364/1061145982500343818/IMG_9369.png
+general 2023-01-07 09:12:50 i said theyd get pissed
+plane-crazy 2023-01-07 09:18:20 
+plane-crazy 2023-01-07 09:18:57 aka
+plane-crazy 2023-01-07 09:19:09 other HK Aerial designs as well that look badass
+plane-crazy 2023-01-07 09:19:31 say, this one
+plane-crazy 2023-01-07 09:19:51 
+plane-crazy 2023-01-07 09:20:06 this one as well i love
+plane-crazy 2023-01-07 09:20:38 HK Airstrike
+general 2023-01-07 09:21:34 1 jet 1 bird
+general 2023-01-07 09:24:50 1 airliner 1 hijacker
+general 2023-01-07 09:28:05 1 Fat Man 1 city
+general 2023-01-07 09:29:00 Mindblowing
+general 2023-01-07 09:30:28 8 people 1 train
+general 2023-01-07 09:31:41 nah i dunno how to do it
+general 2023-01-07 09:32:53 1 anime convention 1 bomber
+general 2023-01-07 09:52:48 i dont wake up at 5 am its trying to sleep at 5 am
+general 2023-01-07 10:06:05 The videogame industry has been covering something up for many, many years since the inception of gaming.  Most games have been implemented with a "visual hazard", or a "Cognitohazard"  as a way to earn money. The cognitohazard is simple, however it requires one has a device such as a keyboard or controller. Through unknown means, a person will become greatly addicted to using a keyboard in conjunction with a "game", which can be installed onto a computer or console. The screen, or "game" responds to the inputs on the controller, and appears to give a release of dopamine leading to 'addiction'. In some cases, one may become angry during the process, usually in competitive games. This is believed by many to be correlated to the fact that games reduce patience. If one fails in a game, they may have to wait a short amount of time; which to a normal person or newly affected person is fine, but to a person affected by such hazards heavily they will become frustrated. Another reason can be the reactions of other people affected playing the same game; if it is multiplayer. The person will not want to be classified as a "noob" or laughed at by others.
+
+More on the visual hazard industries appear to implement into their games, the hazard is almost irreversible if not treated early. For some people, the hazard may affect them more, and some may not even be affected. Affected people are classed as "Gamers". Gamers are not usually seen outside, only in houses or basements. Typically, Gamers suffer a variety of issues, many of which relate to sleep. Most gamers are seen up at 3-am playing games- exposing them further to the cognitohazard making it irreversible. Some do not sleep, and eventually die due to sleep deprivation. Gamers are also not seen to be able to hold jobs and are socially inept.
+
+If you believe a person you know is starting to be affected by such hazards, stop them immediately. If a person you know is irreversibly affected, contact your local mental institute.
+general 2023-01-07 15:46:06 https://media.discordapp.net/attachments/808788231478444134/942082932347134002/caption.gif
+general 2023-01-07 15:51:48 https://tenor.com/view/payday2-among-us-squad-up-payday-sus-gif-26203707
+general 2023-01-07 15:53:13 https://media.discordapp.net/attachments/1033178173715775500/1061310096036077628/caption.gif
+general 2023-01-07 15:53:51 https://media.discordapp.net/attachments/808788231478444134/942082932347134002/caption.gif
+general 2023-01-07 15:56:14 https://tenor.com/view/brutal-dubstep-reaction-tearout-marauda-gamer-sexersr-gif-25414804
+general 2023-01-07 15:57:45 https://media.discordapp.net/attachments/1033178173715775500/1061310616700207194/caption.gif
+general 2023-01-07 16:03:35 https://tenor.com/view/tf2-sentry-level4-reaction-gif-20922056
+plane-crazy 2023-01-07 16:05:21 https://tenor.com/view/tboi-isaac-thebindingofisaac-divorce-papers-divorce-gif-21785231
+the-dump 2023-01-07 16:06:34 https://tenor.com/view/big-brother1984-1984-big-brother-big-brother-is-watching-you-george-orwell-gif-24454773
+the-dump 2023-01-07 16:10:12 https://tenor.com/view/big-brother-1984-moment-spotify-ads-gif-20902346
+the-dump 2023-01-07 17:37:11 
+plane-crazy 2023-01-08 03:07:01 https://media.discordapp.net/attachments/1033178173715775500/1061310258091397200/caption.gif
+the-dump 2023-01-08 04:00:38 
+general 2023-01-08 04:02:32 no
+general 2023-01-08 04:05:06 
+general 2023-01-08 04:05:11 this you?
+general 2023-01-08 04:05:55 make combustible lemons
+general 2023-01-08 04:07:49 https://tenor.com/view/morbius-1984-discord-87-gif-26150077
+general 2023-01-08 04:08:38 i love people playground irl
+general 2023-01-08 04:10:43 y
+general 2023-01-08 04:10:47 yo computer
+general 2023-01-08 04:10:50 delete your message
+general 2023-01-08 04:10:59 the one below this
+general 2023-01-08 04:11:18 i need my title of racis
+general 2023-01-08 04:11:35 i want to be the one below
+general 2023-01-08 04:11:52 this is just like Joker (2019)
+general 2023-01-08 04:12:30 do NOT mispell 'bigger'
+general 2023-01-08 04:12:59 https://tenor.com/view/gonna-deck-your-halls-deck-your-halls-deck-the-halls-christmas-santa-claus-gif-10459117
+general 2023-01-08 04:13:04 yes
+general 2023-01-08 04:13:52 g
+general 2023-01-08 04:14:02 mf pranked me
+general 2023-01-08 04:14:07 okay good
+general 2023-01-08 04:15:28 https://tenor.com/view/big-brother1984-1984-big-brother-big-brother-is-watching-you-george-orwell-gif-24454773
+general 2023-01-08 04:15:51 y
+general 2023-01-08 04:16:10 https://media.discordapp.net/attachments/808788231478444134/942082932347134002/caption.gif
+general 2023-01-08 04:16:49 https://media.discordapp.net/attachments/883064333049929738/1007000642260308078/caption-7-3.gif
+general 2023-01-08 04:17:12 self control not fake
+general 2023-01-08 04:18:50 https://media.discordapp.net/attachments/898152498324471848/1005015860664074270/caption.gif
+general 2023-01-08 04:19:13 https://media.discordapp.net/attachments/883064333049929738/1007000642260308078/caption-7-3.gif
+general 2023-01-08 04:20:30 me supressing the urge to yell slurs at the school presentation
+general 2023-01-08 04:22:29 its not the average homie group
+general 2023-01-08 04:22:31 DAMN
+general 2023-01-08 04:22:38 HOT DAMN
+general 2023-01-08 04:24:03 truly self control
+plane-crazy 2023-01-08 04:25:29 
+general 2023-01-08 04:26:58 https://store.steampowered.com/app/1272080/PAYDAY_3/
+general 2023-01-08 04:27:03 paydfay3
+general 2023-01-08 04:27:58 say slurs in other languages
+general 2023-01-08 04:29:42 https://tenor.com/view/big-brother1984-1984-big-brother-big-brother-is-watching-you-george-orwell-gif-24454773
+general 2023-01-08 04:29:56 freedom of speech doesnt exist here
+general 2023-01-08 04:30:09 petition to rename dyno to Thought Police
+general 2023-01-08 04:30:34 the one in my pfp
+general 2023-01-08 04:30:41 thats ace shitbat zero
+general 2023-01-08 04:31:04 
+general 2023-01-08 04:31:32 
+general 2023-01-08 04:34:59 
+plane-crazy 2023-01-08 07:35:10 send it through dms to me and ill post it here
+plane-crazy 2023-01-08 08:31:54 
+plane-crazy 2023-01-08 08:33:44 
+general 2023-01-08 09:11:24 THE AERODYNAMICS OF A COW
+general 2023-01-08 09:12:51 ksp > plane crazy
+plane-crazy 2023-01-08 09:17:38 canards
+general 2023-01-08 09:22:38 in 4 months it will
+general 2023-01-08 09:22:42 
+general 2023-01-08 10:14:34 https://media.discordapp.net/attachments/808788231478444134/942082932347134002/caption.gif
+general 2023-01-08 13:25:42 This server is 1984
+plane-crazy 2023-01-08 13:27:03 https://tenor.com/view/big-brother-1984-moment-spotify-ads-gif-20902346
+plane-crazy 2023-01-08 13:27:38 it needs a CIWS turret on it
+plane-crazy 2023-01-08 13:53:44 https://tenor.com/view/gif-bano-el-gif-19821211
+the-dump 2023-01-08 13:54:43 https://media.discordapp.net/attachments/1033178173715775500/1061310096036077628/caption.gif
+plane-crazy 2023-01-09 00:39:10 yes or no
+plane-crazy 2023-01-09 00:41:56 masrterpice
+the-dump 2023-01-09 00:42:55 https://tenor.com/view/zip-bomb-kanye-west-kanye-west-staring-gif-21479808
+plane-crazy 2023-01-09 00:43:22 plane crazy players after hiding every fucking mechanism they use
+plane-crazy 2023-01-09 00:46:55 plane crazy players manhunting some random dude for sharing a cool mechanism
+plane-crazy 2023-01-09 00:47:03 (it was secret)
+plane-crazy 2023-01-09 00:47:27 i dont get why people care about keeping their mechanisms secret
+plane-crazy 2023-01-09 00:51:41 i leaked void tech (my house got attacked by plane crazy players)
+plane-crazy 2023-01-09 00:53:46 hover drives after putting my fps to fucking 20
+plane-crazy 2023-01-09 00:54:34 that plane is hot
+plane-crazy 2023-01-09 00:55:22 yo wait
+plane-crazy 2023-01-09 00:55:26 that plane is using void tech
+plane-crazy 2023-01-09 00:55:41 ur gonna be hunted by angry plane crazy members now
+general 2023-01-09 00:56:14 https://media.discordapp.net/attachments/1033178173715775500/1061310096036077628/caption.gif
+plane-crazy 2023-01-09 00:56:58 my 1.5k block plane:
+plane-crazy 2023-01-09 00:57:27 https://media.discordapp.net/attachments/1033178173715775500/1061310258091397200/caption.gif
+plane-crazy 2023-01-09 00:58:13 https://media.discordapp.net/attachments/808788231478444134/942082932347134002/caption.gif
+general 2023-01-09 00:59:12 surving PCC part 1
+general 2023-01-09 01:01:15 pcc members when they see a slightly bad build
+general 2023-01-09 01:02:05 i know how to color motorlock brown and add green smoke to it
+general 2023-01-09 01:02:21 i dont vc th
+general 2023-01-09 01:02:39 need screenshits
+general 2023-01-09 01:02:49 actually
+general 2023-01-09 01:02:52 are you in a vip server
+the-dump 2023-01-09 01:04:19 https://media.discordapp.net/attachments/1033178173715775500/1061310616700207194/caption.gif
+the-dump 2023-01-09 01:08:23 I have access to Belkan aircraft
+the-dump 2023-01-09 01:09:23 but can it defeat the alien mothership from Independence Day <:trollface:775024642104229898>
+the-dump 2023-01-09 01:09:48 shit he got me
+plane-crazy 2023-01-09 04:17:06 is this ass
+plane-crazy 2023-01-09 04:33:46 me flying facing backwards<:trollface:775024642104229898>
+plane-crazy 2023-01-09 05:03:27 only real mfs use conveyor drives to accelerate
+plane-crazy 2023-01-09 05:05:17 https://media.discordapp.net/attachments/1033178173715775500/1061310258091397200/caption.gif
+plane-crazy 2023-01-09 05:05:57 https://media.discordapp.net/attachments/1033178173715775500/1061310096036077628/caption.gif
+plane-crazy 2023-01-09 05:06:38 you have 1 hour to live
+plane-crazy 2023-01-09 05:06:49 
+plane-crazy 2023-01-09 05:07:22 just a sec
+plane-crazy 2023-01-09 05:09:00 my bot broke
+plane-crazy 2023-01-09 05:09:10 you have 16 hours
+plane-crazy 2023-01-09 05:10:22 what in the Galm team is happening here
+plane-crazy 2023-01-09 05:11:24 my adf 11 when someone shoots the cameras holding the angled tail wings whatever (fucking guns i hate them)
+plane-crazy 2023-01-09 05:12:19 my detaching part becomes literal ass to fly because one side still has the angled tail wings lmao
+plane-crazy 2023-01-09 05:12:24 if both are shot off its fine
+plane-crazy 2023-01-09 05:12:55 you are kidding that thing has thrust vector
+plane-crazy 2023-01-09 05:14:12 then gave it pixy livery
+plane-crazy 2023-01-09 05:15:25 it still got that red wing <:trollface:775024642104229898>
+plane-crazy 2023-01-09 05:19:36 
+plane-crazy 2023-01-09 05:21:31 but remember you have 16 hours to live
+plane-crazy 2023-01-09 05:21:49 dont waste it
+plane-crazy 2023-01-09 05:22:07 i have my hitmen on standby
+plane-crazy 2023-01-09 05:23:19 ace combat is ass only real mfs play garrys mod LFS
+plane-crazy 2023-01-09 05:24:27 uav is an ace combat reference
+plane-crazy 2023-01-09 05:25:57 https://tenor.com/view/ace-combat-drone-launch-container-mq99-gif-20176594
+plane-crazy 2023-01-09 05:27:47 who is a Leasath enjoyer
+plane-crazy 2023-01-09 05:28:19 a shit
+plane-crazy 2023-01-09 05:34:42 world war 2 cobra manuever
+general 2023-01-09 05:35:52 
+general 2023-01-09 05:37:41 reaction
+general 2023-01-09 05:37:43 
+general 2023-01-09 05:39:04 Belt fed assault rifle
+general 2023-01-09 05:39:39 https://tenor.com/view/caterpillar-smoking-catterpillar-cool-worm-cool-catterpillar-smoking-bug-gif-25843920
+general 2023-01-09 05:40:21 
+general 2023-01-09 05:42:02 idk
+general 2023-01-09 05:42:05 its ass
+general 2023-01-09 05:43:40 https://tenor.com/view/jumpscare-springtrap-fnaf-gif-24533724
+general 2023-01-09 05:45:22 https://tenor.com/view/leantrap-i-love-lean-springtrap-lean-fnaf-gif-24807011
+general 2023-01-09 05:46:38 
+general 2023-01-09 05:47:00 Straight facts
+general 2023-01-09 05:47:25 https://media.discordapp.net/attachments/935989994735169546/1013397192616190052/a1393312e.gif
+general 2023-01-09 05:48:51 
+general 2023-01-09 05:50:06 
+general 2023-01-09 05:52:12 
+general 2023-01-09 05:53:05 https://tenor.com/view/this-server-opsatmycase-cringe-this-server-sucks-this-server-is-cringe-gif-22990542
+general 2023-01-09 05:53:56 facts
+general 2023-01-09 05:54:33 dropping a redpill
+general 2023-01-09 05:55:43 https://media.discordapp.net/attachments/861139149297549312/989959186752352337/attachment.gif
+general 2023-01-09 05:57:04 honest reaction
+general 2023-01-09 05:57:40 how to kill someone
+general 2023-01-09 05:57:55 what a weirdo
+general 2023-01-09 05:58:13 mf thats the equivalent of anime body pillows though lmfao
+general 2023-01-09 05:58:28 obviously equally as bad
+general 2023-01-09 05:58:56 why is my ass bleeding
+general 2023-01-09 05:59:03 nice
+general 2023-01-09 06:00:52 https://tenor.com/view/tboi-isaac-thebindingofisaac-divorce-papers-divorce-gif-21785231
+general 2023-01-09 06:01:18 Lasagna
+general 2023-01-09 06:01:40 who wants me to send mental brain damage
+general 2023-01-09 06:02:08 https://www.youtube.com/shorts/im4ouCUr6yU
+general 2023-01-09 06:02:50 https://tenor.com/view/joker-xdd-poop-fart-me-when-gif-21170724
+general 2023-01-09 06:07:26 first they gonna jab it with some needles tho
+general 2023-01-09 06:08:05 
+general 2023-01-09 06:08:25 vtubers suck
+general 2023-01-09 06:08:34 50 year old man watching vtubers
+general 2023-01-09 06:10:49 hot
+general 2023-01-09 06:11:33 1984
+general 2023-01-09 06:12:19 what about this
+general 2023-01-09 06:14:32 my reaction
+general 2023-01-09 06:15:42 
+general 2023-01-09 06:16:55 free tvs
+general 2023-01-09 06:17:10 DAMN
+general 2023-01-09 06:17:27 originel
+general 2023-01-09 06:18:15 crab synth my beloved
+general 2023-01-09 06:20:50 
+general 2023-01-09 06:21:57 ichtdogesaure
+general 2023-01-09 06:23:02 no guys you got it all wrong
+general 2023-01-09 06:23:28 this is the real deal
+general 2023-01-09 06:24:22 😭
+general 2023-01-09 06:28:33 fuck its a serious convo i cant shitpost anymore
+general 2023-01-09 06:38:47 https://media.discordapp.net/attachments/1033178173715775500/1061310096036077628/caption.gif
+general 2023-01-09 06:39:55 https://media.discordapp.net/attachments/893678221739061329/1003941807924727858/solader.gif
+general 2023-01-09 06:41:04 WHY DO THEY PUT FISHES INTO THESE TINY ASS CONTAINERS DAWG
+general 2023-01-09 06:41:58 🧌
+general 2023-01-09 06:42:37 Top gun fans on their way to make an F14
+general 2023-01-09 06:42:50 Ace combat fans coloring their f14 black (they are now ghosts of razgriz)
+general 2023-01-09 06:43:49 https://media.discordapp.net/attachments/1033178173715775500/1061310616700207194/caption.gif
+general 2023-01-09 06:44:18 evebn beter
+general 2023-01-09 06:44:23 my hitmen will be waiting
+general 2023-01-09 06:44:35 they are under your bed
+general 2023-01-09 06:44:49 (joke btw why would i reveal their locations)
+general 2023-01-09 07:03:20 https://media.discordapp.net/attachments/935989994735169546/1013397192616190052/a1393312e.gif
+general 2023-01-09 11:03:57 https://tenor.com/view/windows-users-gif-26552946
+general 2023-01-09 11:04:56 tiktok does suck ass
+general 2023-01-09 23:51:01 he has 67 mental illnesses and is banned from most public spaces
+general 2023-01-09 23:52:21 
+general 2023-01-09 23:53:45 
+general 2023-01-09 23:55:32 
+general 2023-01-09 23:57:39 
+general 2023-01-09 23:59:55 
+general 2023-01-10 00:00:03 T-1 Terminator
+general 2023-01-10 00:00:17 thats the Salvation design
+general 2023-01-10 00:00:26 
+general 2023-01-10 00:00:32 T3 design
+general 2023-01-10 00:00:39 HK Tank
+general 2023-01-10 00:00:43 original design
+general 2023-01-10 00:01:00 Covered
+general 2023-01-10 00:03:37 this is a concept HK tank, similar to T-1 in design but just larger and with 4 tracks like the classic one
+general 2023-01-10 00:06:31 classic HK-Tank has 2 barrel designs
+general 2023-01-10 00:06:45 i prefer the one barrel config
+general 2023-01-10 00:09:42 1 barrel configuration def got more energy
+general 2023-01-10 00:14:58 
+general 2023-01-10 00:15:13 https://media.discordapp.net/attachments/342845320813740032/1016998966065381376/Jacko.gif
+general 2023-01-10 00:16:23 <:trollface:775024642104229898>
+general 2023-01-10 00:17:19 facts
+general 2023-01-10 00:17:29 (2)
+general 2023-01-10 00:18:21 https://media.discordapp.net/attachments/497142796961054721/1061885080181690410/defunct.gif
+general 2023-01-10 00:18:42 https://media.discordapp.net/attachments/495286269459300364/1061494618757288026/potat.gif
+general 2023-01-10 00:19:03 masterpice
+general 2023-01-10 00:19:18 https://media.discordapp.net/attachments/1033178173715775500/1061310457153069147/caption.gif
+general 2023-01-10 00:20:16 markiplier is ass
+general 2023-01-10 00:20:18 ngl
+general 2023-01-10 00:20:32 he made an only farts
+general 2023-01-10 00:20:55 yeah
+general 2023-01-10 00:21:44 while your here which barrel configuration do you think is better
+general 2023-01-10 00:22:08 for me its the 1 barrel config
+general 2023-01-10 00:22:24 i thought youd choose the first because it looks way more powerful
+general 2023-01-10 00:22:27 one hit and your gone
+general 2023-01-10 00:22:29 vaporized
+general 2023-01-10 00:22:35 plus its got a better firing noise ig
+general 2023-01-10 00:23:00 
+general 2023-01-10 00:23:10 sounds much heavier
+general 2023-01-10 00:23:43 add that to those ominous HK-Tank engine/track/servo sounds and youve got some pretty awesome sound design
+general 2023-01-10 00:27:14 missile firing is pretty cool
+general 2023-01-10 01:15:59 https://media.discordapp.net/attachments/1033178173715775500/1061310457153069147/caption.gif
+general 2023-01-10 01:22:24 https://cdn.discordapp.com/attachments/422448194476048403/983721079954628649/unknown.gif
+general 2023-01-10 01:23:02 https://media.discordapp.net/attachments/1033178173715775500/1061310096036077628/caption.gif
+general 2023-01-10 01:23:46 https://media.discordapp.net/attachments/808788231478444134/942082932347134002/caption.gif
+general 2023-01-10 02:36:26 dawg why arent they doing batshit crazy manuevers and using conveyor drives to avoid missiles!!!
+the-dump 2023-01-10 02:41:53 https://tenor.com/view/lets-get-readyto-rumble-war-of-the-worlds-alien-gif-16093598
+the-dump 2023-01-10 02:42:02 literally war of the worlds
+the-dump 2023-01-10 04:22:08 so, i can use this website to practice saying "fuck you" to robots?
+the-dump 2023-01-10 04:22:12 that sounds like a job for me
+plane-crazy 2023-01-10 04:24:52 build 7th gen<:trollface:775024642104229898>
+plane-crazy 2023-01-10 10:35:28 https://media.discordapp.net/attachments/1033178173715775500/1061310258091397200/caption.gif
+general 2023-01-10 10:35:58 my browser stopping it from redirecting me
+general 2023-01-10 10:36:17 (its real)
+general 2023-01-10 10:36:26 delete top secret info
+general 2023-01-10 10:36:39 level 10 only
+general 2023-01-10 10:37:18 possibly
+general 2023-01-10 10:37:39 
+general 2023-01-10 10:37:47 no clue
+general 2023-01-10 10:37:56 but i use it a lot
+general 2023-01-10 11:24:46 
+general 2023-01-10 13:36:33 epic engine render
+general 2023-01-10 13:37:06 thanks good sir i love looking at how engines work
+general 2023-01-10 13:38:48 i like cursed engines
+general 2023-01-10 13:39:17 still looks cool <:trollface:775024642104229898>
+general 2023-01-10 13:40:18 its called 'generic highschool anime'
+general 2023-01-10 13:41:56 https://media.discordapp.net/attachments/342845320813740032/1016998966065381376/Jacko.gif
+general 2023-01-10 13:42:30 all ive seen is highschool bs
+general 2023-01-10 13:43:00 only one i think looks ok is the random cop thing
+general 2023-01-10 13:43:06 where they have mg42s and stuff
+general 2023-01-10 13:43:10 that one looked alright
+general 2023-01-10 13:43:40 this is like the only good anime thing ive ever looked at
+general 2023-01-10 13:44:18 cars or something, good its not the generic highschool bs
+general 2023-01-10 23:30:47 https://tenor.com/view/ip-grabber-ip-grabber-thanos-gif-21846609
+general 2023-01-10 23:31:06 https://tenor.com/view/ip-grabbermegamind2-gif-23461251
+general 2023-01-10 23:31:50 ping him 3 times for a special reward
+general 2023-01-10 23:32:07 not crazy
+general 2023-01-10 23:32:09 its real!!!
+general 2023-01-10 23:32:16 2 more times
+general 2023-01-10 23:32:50 https://tenor.com/view/scam2023-gif-24344858
+general 2023-01-10 23:33:31 the special award being chance of ban
+general 2023-01-10 23:34:08 we were joking bro
+general 2023-01-10 23:34:18 you already knew the rules against pinging staff
+general 2023-01-10 23:34:28 we were joking
+general 2023-01-10 23:34:57 theres no special reward????
+general 2023-01-10 23:35:32 Cant joke about shit in ohio
+general 2023-01-10 23:36:50 this is me after joking about the ping rule and getting told that im coercing people to get in trouble
+general 2023-01-10 23:37:37 you know we can prove this right
+general 2023-01-10 23:37:41 the message search
+general 2023-01-10 23:38:06 im inclined to believe that he was here a while back
+general 2023-01-10 23:38:40 
+general 2023-01-10 23:39:00 i dont see an issue here
+general 2023-01-10 23:51:15 this argument is pointless
+plane-crazy 2023-01-10 23:52:32 they arent doing cool manuevers like flying backwards!!!! trash!!!
+general 2023-01-10 23:53:32 https://tenor.com/view/big-brother-1984-moment-spotify-ads-gif-20902346
+plane-crazy 2023-01-10 23:53:45 literal
+plane-crazy 2023-01-10 23:54:24 just flying around is more fun if youve got a manueverable plane
+general 2023-01-10 23:56:06 https://tenor.com/view/star-wars-clone-wars-begun-the-clone-war-has-gif-21159557
+general 2023-01-11 00:08:58 man hes just joking with ya
+general 2023-01-11 00:10:17 Ace combat gameplay
+bot-central 2023-01-11 00:11:16 https://media.discordapp.net/attachments/808788231478444134/942082932347134002/caption.gif
+bot-central 2023-01-11 00:11:41 -underandom
+bot-central 2023-01-11 00:11:54 -underandom
+bot-central 2023-01-11 00:13:01 ?av <@893650511025283112>
+the-dump 2023-01-11 01:27:33 
+the-dump 2023-01-11 01:56:17 https://media.discordapp.net/attachments/1033178173715775500/1061310457153069147/caption.gif
+plane-crazy 2023-01-11 02:23:25 
+general 2023-01-11 04:07:46 does anyone know how the XFA-33's VTOL looks like
+plane-crazy 2023-01-11 08:41:10 yeah at the end
+plane-crazy 2023-01-11 08:41:26 you put it on the wrong side
+plane-crazy 2023-01-11 10:05:02 ace combat mfs
+plane-crazy 2023-01-11 10:05:22 exposed motorlock adfx 02
+plane-crazy 2023-01-11 10:05:25 ill fix it later
+plane-crazy 2023-01-11 10:14:15 after wings are fully done with custom surfaces i can move onto engines
+plane-crazy 2023-01-11 23:58:28 
+general 2023-01-12 00:04:14 what do you guys think of borders
+general 2023-01-12 02:59:04 https://tenor.com/view/big-brother-1984-moment-spotify-ads-gif-20902346
+general 2023-01-12 03:57:51 https://media.discordapp.net/attachments/931840349352120320/988164537624694804/IMG_3403.gif
+the-dump 2023-01-12 03:59:11 DO NOT SCREAM 'BORDERS' INTO YOUR BATHROOM MIRROR
+general 2023-01-12 12:04:20 is this skynet furry or something
+general 2023-01-12 12:04:39 damn i thought skynet was cool <:nooo:787097964946259978>
+general 2023-01-12 12:04:57 hot
+general 2023-01-12 12:11:04 https://media.discordapp.net/attachments/808788231478444134/942082932347134002/caption.gif
+the-dump 2023-01-12 12:12:38 https://cdn.discordapp.com/attachments/991595952718741584/1063067831312338994/image.png
+plane-crazy 2023-01-12 12:17:32 https://media.discordapp.net/attachments/861139149297549312/989959186752352337/attachment.gif
+plane-crazy 2023-01-12 13:27:46 war of the worlds mfs when they see something with 3 legs
+plane-crazy 2023-01-12 13:35:59 make 50
+general 2023-01-12 14:18:11 https://media.discordapp.net/attachments/883064333049929738/1007000642260308078/caption-7-3.gif
+general 2023-01-12 14:18:30 fucking real!?!?!?!?!?
+general 2023-01-12 14:19:25 https://tenor.com/view/memes-deatg-death-concepy-concept-gif-20473651
+general 2023-01-12 14:20:29 https://cdn.discordapp.com/attachments/422448194476048403/983721079954628649/unknown.gif
+general 2023-01-12 14:21:05 once your level 3 you can shitpost
+general 2023-01-12 14:21:08 (not that much)
+general 2023-01-12 14:21:31 mutant creatures from area 51
+general 2023-01-12 14:22:57 https://media.discordapp.net/attachments/825898827022073876/878033753337888788/image0.gif
+general 2023-01-12 14:23:08 i love shitposting!!!!
+general 2023-01-12 14:23:20 https://tenor.com/view/1984-movie-projector-gif-8163423
+general 2023-01-12 14:24:00 Smoking caterpillar sighting
+general 2023-01-12 14:25:41 DAMN BRO I CANT EVEN SEND SMOKING CATERPILLAR
+general 2023-01-12 14:26:13 
+general 2023-01-12 14:30:20 https://media.discordapp.net/attachments/1002452862602858577/1063102598221144185/shockcannon.gif
+general 2023-01-12 14:35:29 https://media.discordapp.net/attachments/1002452862602858577/1063102598221144185/shockcannon.gif
+the-dump 2023-01-12 14:44:46 its a meme
+the-dump 2023-01-12 14:46:25 isnt that the one where some kid steals their shite
+the-dump 2023-01-12 14:46:34 and its a kids book
+the-dump 2023-01-12 14:46:44 probably a shitpost version
+the-dump 2023-01-12 14:47:01 gold sharts and the 3 farts
+the-dump 2023-01-12 14:48:30 
+general 2023-01-12 14:56:31 https://media.discordapp.net/attachments/1002452862602858577/1063108307033792542/mental_illness.gif
+general 2023-01-12 14:59:51 backwards firing missiles
+general 2023-01-12 15:00:29 war thunder players after wasting their entire life to get a jet (they dont have enough time left in their life to use it)
+general 2023-01-12 15:03:23 how do i unlock the Gleipnir from ace combat in war thunder
+plane-crazy 2023-01-13 00:56:37 here comes the shit (snow)
+plane-crazy 2023-01-13 00:58:23 good
+plane-crazy 2023-01-13 01:02:05 exposed motorlock
+plane-crazy 2023-01-13 01:04:56 thanks i just gotta do the intakes, rear stabilizers and finish the engines
+plane-crazy 2023-01-13 01:04:59 then make it fly
+plane-crazy 2023-01-13 01:07:12 
+plane-crazy 2023-01-13 01:07:16 sure
+plane-crazy 2023-01-13 01:07:20 second seat on the TLS though
+plane-crazy 2023-01-13 01:07:25 so i can throw you into the lava
+plane-crazy 2023-01-13 01:07:54 theres a bunch of camlock jammed onto it
+plane-crazy 2023-01-13 01:08:08 so if i get shot on one of those cams
+plane-crazy 2023-01-13 01:08:13 my wings will go byebye
+plane-crazy 2023-01-13 01:08:18 yeah
+plane-crazy 2023-01-13 01:08:24 if i angle lock everything itd be so damn heavy
+plane-crazy 2023-01-13 01:08:30 and ill have a lag issue like i did my ADF 11F
+plane-crazy 2023-01-13 01:08:46 motorlock at least can take a tiny bit of gun damage
+plane-crazy 2023-01-13 01:11:11 should i do an XFA 33 after i finish this ADFX 02
+plane-crazy 2023-01-13 01:11:25 
+plane-crazy 2023-01-13 01:12:01 fair enough, its quite wide
+plane-crazy 2023-01-13 01:12:10 i like it though
+plane-crazy 2023-01-13 01:12:18 that VTOL function
+plane-crazy 2023-01-13 01:12:43 yeah
+plane-crazy 2023-01-13 01:13:01 https://www.youtube.com/watch?v=_MpAR92V6SQ
+plane-crazy 2023-01-13 01:13:13 i like those long range shockwave missiles whatever theyre called
+plane-crazy 2023-01-13 01:13:22 like the Gleipnir's SWBM but small scale
+plane-crazy 2023-01-13 01:22:56 why do you remind me that this exists
+plane-crazy 2023-01-13 01:23:11 
+plane-crazy 2023-01-13 01:23:16 i remind you that this exists
+plane-crazy 2023-01-13 01:23:43 mig 28
+plane-crazy 2023-01-13 01:24:48 man i wish i could play them older games
+plane-crazy 2023-01-13 01:25:10 if i ever did get the chance i probably would play Zero first
+plane-crazy 2023-01-13 01:26:51 damn you gave me an idea
+plane-crazy 2023-01-13 01:27:01 if i have room when ive done my ADFX 02
+plane-crazy 2023-01-13 01:27:10 im gonna try build the V2 somewhere on the plot
+plane-crazy 2023-01-13 01:27:19 and if i can, a silo
+plane-crazy 2023-01-13 01:28:11 that is cursed to think about
+plane-crazy 2023-01-13 01:28:39 nice
+plane-crazy 2023-01-13 01:29:52 i love it
+plane-crazy 2023-01-13 01:31:42 https://www.youtube.com/watch?v=hrf2IX_0GH4
+plane-crazy 2023-01-13 01:38:47 https://www.youtube.com/watch?v=vQMs3HjNTGc
+plane-crazy 2023-01-13 01:38:51 why tf does this actually go hard
+general 2023-01-13 01:39:24 https://media.discordapp.net/attachments/1002452862602858577/1063104275829497956/just_bad.gif
+plane-crazy 2023-01-13 01:41:00 so should i make actual MPBMs or just use rockets
+plane-crazy 2023-01-13 04:54:53 back stabilizers unfinished but you get the point
+plane-crazy 2023-01-13 05:28:26 
+plane-crazy 2023-01-13 07:42:50 
+plane-crazy 2023-01-13 13:38:56 
+plane-crazy 2023-01-13 13:39:30 https://media.discordapp.net/attachments/1013858365245497395/1063061694055714826/558892EE-A15A-46B6-8453-1953B1A489DD.gif
+plane-crazy 2023-01-14 03:52:57 so you cant get Aeronautical engineer if you use hover drives?
+plane-crazy 2023-01-14 03:54:26 rest in piss
+general 2023-01-14 04:22:56 https://media.discordapp.net/attachments/1002452862602858577/1063109026356920390/scarrty.gif
+plane-crazy 2023-01-14 04:25:25 my plane only usin wings but its got hover drives <:nooo:787097964946259978>
+plane-crazy 2023-01-14 04:26:06 so should i make a falken or what
+plane-crazy 2023-01-14 04:26:27 then i can modify it into an Adler <:trollface:775024642104229898>  and complete the ADF series
+general 2023-01-14 04:29:38 https://media.discordapp.net/attachments/1013858365245497395/1063061694055714826/558892EE-A15A-46B6-8453-1953B1A489DD.gif
+general 2023-01-14 04:39:24 https://media.discordapp.net/attachments/1002452862602858577/1063108605919907871/galm_2.gif
+general 2023-01-14 05:10:51 dont scream ;BORDERS' into your mirror 3 times
+general 2023-01-14 15:54:39 https://media.discordapp.net/attachments/1002452862602858577/1063109026356920390/scarrty.gif
+general 2023-01-14 15:54:55 https://media.discordapp.net/attachments/1002452862602858577/1063102598221144185/shockcannon.gif
+general 2023-01-14 15:55:17 https://media.discordapp.net/attachments/1002452862602858577/1063108307033792542/mental_illness.gif
+general 2023-01-14 15:55:33 https://media.discordapp.net/attachments/1033178173715775500/1061310616700207194/caption.gif
+general 2023-01-14 15:56:08 https://tenor.com/view/memes-deatg-death-concepy-concept-gif-20473651
+general 2023-01-14 15:57:10 me
+general 2023-01-14 15:57:20 <:trollface:775024642104229898>
+general 2023-01-14 15:57:36 yeah its fun
+general 2023-01-14 15:58:04 nah dawg i just fucking hate borders y'know
+general 2023-01-14 15:59:16 https://cdn.discordapp.com/attachments/1037859475010363452/1063678145099739146/attachment.gif
+general 2023-01-14 16:00:17 what should i do to fix it then
+general 2023-01-14 16:08:07 yeah been trying to fix that shit for a while lmao
+general 2023-01-14 16:08:26 thats how my builds always end up and i have to go on a fricking fix them which takes months
+general 2023-01-14 16:08:47 if you have any tips on proportions tell me
+general 2023-01-14 16:11:20 its to bait the 45 year old men
+plane-crazy 2023-01-14 17:46:41 better
+creations-chat 2023-01-15 09:12:25 https://cdn.discordapp.com/attachments/1057395311980597368/1064108659669467217/image.png
+better or nah
+plane-crazy 2023-01-15 09:40:12 falken?
+plane-crazy 2023-01-15 09:40:31 better have backwards firing missiles ill tell you that
+general 2023-01-15 09:41:57 i would never survive with less than 1tb of storage
+general 2023-01-15 09:42:03 too many garrys mod addons
+general 2023-01-15 09:42:43 you planning to get a new one?
+general 2023-01-15 09:44:30 https://tenor.com/view/ip-grabber-meme-black-dude-talking-slander-meme-slander-gif-24119544
+general 2023-01-15 09:44:45 not so secret now <:trollface:775024642104229898>
+general 2023-01-15 09:45:36 taco bell is mandatory if you want to eat (the real stuff is in the toilet)
+general 2023-01-15 09:48:33 i never said anything bad about it, i meant to say the real good food comes when you need to go to the toilet
+general 2023-01-15 09:48:44 well, more after going to the toilet
+general 2023-01-15 09:48:51 <:trollface:775024642104229898>
+general 2023-01-15 09:49:05 see, this man gets it
+general 2023-01-15 09:50:07 tutorail🚉 🚉 🚉
+general 2023-01-15 09:50:10 laxative
+general 2023-01-15 09:51:44 then eat it up before the others do
+general 2023-01-15 09:52:12 i dont need to imagine
+general 2023-01-15 09:52:37 instead of imagining, do it for real
+creations-chat 2023-01-15 09:53:10 hello mister
+general 2023-01-15 09:54:12 more suitable to bring a cup with you
+general 2023-01-15 09:54:18 just in case
+general 2023-01-15 09:55:39 sit on the toilet while flushing and let your organs spill out
+general 2023-01-15 09:56:02 forgot C4
+general 2023-01-15 09:56:14 just incase the cops dont approve of shitting in public
+general 2023-01-15 09:56:34 LMFAO
+general 2023-01-15 09:57:02 no delay <:Upvote:490311647492309004>
+general 2023-01-15 09:57:15 even the normal creations tab has less delay
+general 2023-01-15 09:57:42 tell them its lemonade
+general 2023-01-15 09:57:51 theyll think theyre drinking lemonade
+general 2023-01-15 09:58:02 but theyll say it tastes much better
+general 2023-01-15 09:58:43 https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F4f%2Fe3%2F44%2F4fe3446e2162d29def83d27dd17b98fe.jpg&f=1&nofb=1&ipt=81e974ba3ceada005d0ba44516906884c21e1a9351f23b24e476f536402fe80a&ipo=images
+general 2023-01-15 09:58:47 the design is very human
+general 2023-01-15 11:00:53 what the fuck why is everyone a class d
+general 2023-01-15 11:01:16 send pic <:clueless:942802644043464734>
+general 2023-01-15 11:02:42 good yes
+general 2023-01-15 11:03:47 done
+general 2023-01-15 11:06:08 d class immediately
+plane-crazy 2023-01-15 11:22:25 
+plane-crazy 2023-01-15 11:22:26 lma
+plane-crazy 2023-01-15 11:23:30 look at how this guys story changes in 2 videos lmfao
+plane-crazy 2023-01-15 11:24:04 still funny tho
+plane-crazy 2023-01-15 11:26:05 i guess the intensity
+the-dump 2023-01-15 11:28:11 copier my video!!!
+the-dump 2023-01-15 11:33:38 
+plane-crazy 2023-01-15 11:41:58 how useful that would be
+plane-crazy 2023-01-15 11:42:21 collisionless cams would be nice too
+general 2023-01-15 11:46:45 i thought the War of the Worlds CGI was good idk about you guys
+general 2023-01-15 11:49:55 https://media.discordapp.net/attachments/808788231478444134/942082932347134002/caption.gif
+general 2023-01-15 11:52:06 consoomer mindset
+general 2023-01-15 12:03:38 12 is teenager
+general 2023-01-15 12:03:41 lets settle it here
+general 2023-01-15 12:04:11 👍 👍 👍
+the-dump 2023-01-15 12:04:26 Reported
+the-dump 2023-01-15 12:04:34 😭
+general 2023-01-15 12:06:02 dont cry bro
+plane-crazy 2023-01-15 12:57:31 https://tenor.com/view/ac7-raven-adf11-ace-combat7-uav-gif-26775834
+plane-crazy 2023-01-15 12:59:19 true
+general 2023-01-15 13:02:03 add backwards firing missiles <:OmegaTroll:626841385118597152>
+general 2023-01-15 13:03:52 you know what? belka sucks i prefer Leasath
+plane-crazy 2023-01-15 14:07:31 ADF 11F if you want detaching, ADFX if you like style
+plane-crazy 2023-01-15 14:08:23 are you talking about the ADFX 02 or the ADFX 10
+plane-crazy 2023-01-15 14:09:11 oh alr i thought you were actually talking about this thing when you mentioned detaching
+general 2023-01-15 14:10:31 who would raid this server
+general 2023-01-15 14:10:37 literally everyone will just say lmao
+plane-crazy 2023-01-16 02:16:01 remaking it lma
+plane-crazy 2023-01-16 02:23:36 ADFX 02
+plane-crazy 2023-01-16 02:32:00 https://media.discordapp.net/attachments/495286269459300364/1063107208742707200/you_fed_up_my_face.gif
+plane-crazy 2023-01-16 02:32:14 fuc it broke
+plane-crazy 2023-01-16 02:32:38 it broke!!!
+plane-crazy 2023-01-16 02:32:56 
+plane-crazy 2023-01-16 02:35:14 nice X-02
+the-dump 2023-01-16 02:41:10 
+bot-central 2023-01-16 03:58:21 https://media.discordapp.net/attachments/1002452862602858577/1063108307033792542/mental_illness.gif
+bot-central 2023-01-16 03:58:24 Cipher
+general 2023-01-16 03:59:54 
+general 2023-01-16 04:01:06 https://tenor.com/view/big-brother1984-1984-big-brother-big-brother-is-watching-you-george-orwell-gif-24454773
+general 2023-01-16 04:01:53 hard r 👍 👍 👍
+general 2023-01-16 04:02:59 second one better
+general 2023-01-16 04:04:49 no racing allowed
+general 2023-01-16 04:04:56 https://tenor.com/view/race-car-peugeot-meme-racist-mode-gif-23410462
+general 2023-01-16 04:05:40 modern warfare 2 lobby
+general 2023-01-16 04:07:33 look at this goofy mf!!!
+general 2023-01-16 04:08:40 should i make
+general 2023-01-16 04:09:37 shit its hot
+general 2023-01-16 04:10:02 
+general 2023-01-16 04:10:20 ho 229 im already making <:trollface:775024642104229898>
+general 2023-01-16 04:11:40 badass tho
+the-dump 2023-01-16 04:17:53 
+plane-crazy 2023-01-16 04:52:01 nooo i cant fly backwards in my ADF 11F <:nooo:787097964946259978>
+plane-crazy 2023-01-16 04:53:38 its true, plane crazy dogfighting is ass
+plane-crazy 2023-01-16 04:55:23 im lazy to boot up robblovksd
+plane-crazy 2023-01-16 04:55:27 can i send old video
+plane-crazy 2023-01-16 04:55:47 https://cdn.discordapp.com/attachments/384021699466756107/1056850850858930206/what_the_devils.mp4
+plane-crazy 2023-01-16 04:55:50 <@761354294859005962>
+plane-crazy 2023-01-16 04:56:36 become d class
+plane-crazy 2023-01-16 04:57:22 non-mouse guide would fuck up the aim on my Hunter Killer aerials
+plane-crazy 2023-01-16 04:57:51 turret!!!
+plane-crazy 2023-01-16 04:58:40 turret (2)
+plane-crazy 2023-01-16 04:59:44 the HK Aerials are machines
+plane-crazy 2023-01-16 04:59:46 unpiloted
+plane-crazy 2023-01-16 04:59:57 SKYNET machines
+plane-crazy 2023-01-16 05:01:19 the guy who is going to create airburst EMP missiles:
+plane-crazy 2023-01-16 05:07:02 my first helicopter:
+plane-crazy 2023-01-16 05:07:34 shit i didnt expect that, i was expecting to have it called ass or something lmao
+plane-crazy 2023-01-16 05:09:07 you should see what the hell i was trying to make with my first heli
+plane-crazy 2023-01-16 05:09:31 lol yeah
+plane-crazy 2023-01-16 05:09:47 not the best choice for firsttime
+plane-crazy 2023-01-16 05:10:46 replicating is kinda annoying because its like
+plane-crazy 2023-01-16 05:10:49 idk how to explain it
+plane-crazy 2023-01-16 05:10:55 like the sideview on the reference is flat
+plane-crazy 2023-01-16 05:11:04 but while your building you can see like
+plane-crazy 2023-01-16 05:11:08 ok lemme try visual
+plane-crazy 2023-01-16 05:11:21 so this image here, you cant see the second tail stabilizer
+plane-crazy 2023-01-16 05:11:32 fair
+plane-crazy 2023-01-16 05:11:40 ill just finish example
+plane-crazy 2023-01-16 05:12:52 but here you can see the second stabilizer
+plane-crazy 2023-01-16 05:12:58 yes i didnt camlock it
+general 2023-01-16 05:14:00 they must be like
+general 2023-01-16 05:14:01 angled
+general 2023-01-16 05:14:06 hold on
+general 2023-01-16 05:14:38 must be like this or something
+general 2023-01-16 05:14:49 the picture was drawn with second rotor somewhat angled
+general 2023-01-16 05:15:57 i need to find an ingame image hold on
+general 2023-01-16 05:16:26 shit i dont remember the mission, all i know its the one where you fight London monitor
+general 2023-01-16 05:16:52 https://www.youtube.com/watch?v=CCt2xqLMGX0
+general 2023-01-16 05:16:56 also london monitor is badass ig
+general 2023-01-16 05:19:39 nah theyre same length
+general 2023-01-16 05:20:52 hard to get actual pic because theyre constantly moving all the time
+general 2023-01-16 05:26:54 yes indeed
+the-dump 2023-01-16 05:27:46 
+the-dump 2023-01-16 05:28:18 MF WHAT
+the-dump 2023-01-16 05:28:32 this is litertally 1984
+the-dump 2023-01-16 05:28:53 wtf did .mov files do to you bruh????
+the-dump 2023-01-16 05:29:02 i guess ur right
+the-dump 2023-01-16 05:30:49 https://tenor.com/view/skinwalker-1v1-local-deer-fight-deer-boxing-gif-24034383
+general 2023-01-16 05:46:43 The laser cannon sound is for me a personal favorite thing about it
+general 2023-01-16 06:08:05 hello good sir, we havent seen eachother in a good while
+general 2023-01-16 10:34:43 hello sir
+general 2023-01-16 11:09:30 https://tenor.com/view/memes-deatg-death-concepy-concept-gif-20473651
+the-dump 2023-01-16 11:33:06 extraordinary
+plane-crazy 2023-01-16 12:49:30 im remaking it already
+plane-crazy 2023-01-16 12:50:03 also that picture the wings and everything else are not there because camlock gone
+plane-crazy 2023-01-16 12:52:51 remake
+plane-crazy 2023-01-16 12:58:02 i estimate it wont take too long because im probably going to assemble the wings and stuff in a similar way
+plane-crazy 2023-01-16 12:58:19 just a bit smaller because i scaled it down a little
+plane-crazy 2023-01-16 12:59:28 canards will be pain tho
+general 2023-01-16 13:03:55 ⚠This user is suspected to be part of an online terrorist organisation. Report any suspicious activity to Discord Staff NPCs when i actually report them
+general 2023-01-16 13:04:59 !!!!
+general 2023-01-16 13:05:03 11/9
+general 2023-01-16 13:06:44 can you jettison the TLS?
+general 2023-01-16 13:07:15 pain
+general 2023-01-16 13:17:47 nah im saying people with that in their status are NPCs
+general 2023-01-16 13:17:53 because i see it everywhere
+general 2023-01-16 13:19:09 our names
+general 2023-01-16 13:19:13 are our roblox users
+general 2023-01-16 13:19:41 pg 13 🤬 🤬 🤬
+general 2023-01-16 13:21:10 https://media.discordapp.net/attachments/1033178173715775500/1061310096036077628/caption.gif
+general 2023-01-16 13:21:46 https://media.discordapp.net/attachments/1033178173715775500/1061310258091397200/caption.gif
+general 2023-01-16 13:21:59 do it by 5 o clock
+general 2023-01-16 13:23:26 https://media.discordapp.net/attachments/1033178173715775500/1061310258091397200/caption.gif
+general 2023-01-16 13:23:32 ok 6 o clock
+general 2023-01-16 13:23:47 damn you can say it nice
+the-dump 2023-01-16 14:18:37 
+general 2023-01-16 14:21:08 https://media.discordapp.net/attachments/1013858365245497395/1063061694055714826/558892EE-A15A-46B6-8453-1953B1A489DD.gif
+general 2023-01-16 14:22:30 the violence is ok because funny but the s-x parts are stupid ass
+general 2023-01-16 14:22:44 just let me rob cars!!!
+general 2023-01-16 14:23:35 https://www.gta5-mods.com/vehicles/adfx-01-morgan-add-on-custom-laser-and-mini-nuke
+general 2023-01-16 14:23:35 its real
+general 2023-01-16 14:25:45 id only get GTA V to blow up some cars
+general 2023-01-16 14:27:28 Glass jet
+general 2023-01-16 14:27:34 <:trollface:775024642104229898>
+general 2023-01-16 14:27:52 yeah i dont build a ton of jets either
+<:lmfao:527971550360633393>
+general 2023-01-16 14:30:18 it doesnt exist
+general 2023-01-16 14:30:53 Dead body
+general 2023-01-16 14:31:24 it dont exist
+general 2023-01-16 14:32:00 https://en.wikipedia.org/wiki/Plane_Crazy_(video_game)
+general 2023-01-16 14:32:00 alright mfs its time for the real plane crazy
+general 2023-01-16 14:32:38 true
+general 2023-01-16 14:33:13 1984
+general 2023-01-16 14:33:26 troll ass bot
+general 2023-01-16 14:33:49 they call him a menace to society
+general 2023-01-16 14:34:02 love the 2nd one
+general 2023-01-16 14:34:38 🙏 🙏 🙏 🙏
+plane-crazy 2023-01-17 23:59:26 democracy is a lie
+general 2023-01-18 00:46:07 https://media.discordapp.net/attachments/1002452862602858577/1063108605919907871/galm_2.gif
+general 2023-01-19 06:01:10 
+general 2023-01-19 07:33:47 https://tenor.com/view/memes-deatg-death-concepy-concept-gif-20473651
+general 2023-01-19 07:40:09 1984
+general 2023-01-19 07:40:17 cant even speak about the
+general 2023-01-19 07:40:24 https://cdn.discordapp.com/attachments/495286269459300364/1064080814377283584/image.png
+general 2023-01-19 07:45:36 https://tenor.com/view/war-planes-tanks-gravity-broken-gif-26202635
+general 2023-01-19 07:51:16 Stop shitting in public
+general 2023-01-19 07:51:25 I know your probably hungry but i dont care
+general 2023-01-19 07:51:37 No im generalizing everyone here
+general 2023-01-19 07:51:45 Ive seen shit on the floor here for 5 years
+general 2023-01-19 07:52:02 If your gonna shit at least finish your meal
+general 2023-01-19 07:52:08 Dont leave it for others
+general 2023-01-19 07:52:21 The shit is the meal
+general 2023-01-19 07:52:41 Everyone shitting out their meals yet they dont wanna eat it
+general 2023-01-19 07:52:51 IM FUCKINMG TIRED OF IT!
+general 2023-01-19 07:53:02 STOP SHITTING IN PUBLIC AND THATS FINAL
+general 2023-01-19 07:53:16 https://tenor.com/view/big-brother1984-1984-big-brother-big-brother-is-watching-you-george-orwell-gif-24454773
+general 2023-01-19 07:53:44 ILL EAT IT FOR YOU PROMISE
+general 2023-01-19 07:54:45 https://media.discordapp.net/attachments/1033178173715775500/1061310616700207194/caption.gif
+general 2023-01-19 07:56:30 
+general 2023-01-19 07:57:14 you fucked up my face
+general 2023-01-19 08:00:17 https://media.discordapp.net/attachments/893678221739061329/1003550383878184960/based_pooping.gif
+general 2023-01-19 08:00:43 https://tenor.com/view/trollface-troll-trollface-walk-discord-gif-22139157
+general 2023-01-19 08:01:24 
+general 2023-01-19 08:04:14 https://tenor.com/view/deep-fry-ice-gif-25244702
+general 2023-01-19 08:04:53 https://tenor.com/view/big-brother1984-1984-big-brother-big-brother-is-watching-you-george-orwell-gif-24454773
+general 2023-01-19 08:05:38 https://tenor.com/view/my-balls-when-they-see-gif-21534441
+general 2023-01-19 08:06:52 https://tenor.com/view/facts-gif-25119304
+general 2023-01-19 08:07:41 https://tenor.com/view/star-wars-memes-bacta-star-wats-bacta-republic-commando-republic-commando-memes-gif-26516659
+general 2023-01-19 08:19:23 https://tenor.com/view/mustard-ketchup-gif-25402475
+plane-crazy 2023-01-19 12:20:05 i hate measuring i hate measuring i hate measuring
+plane-crazy 2023-01-20 01:35:07 why my harddrive grinding bruh 😩 😩 😩 😩
+plane-crazy 2023-01-20 04:10:38 https://tenor.com/view/escape-from-tarkov-escape-from-tarkov-escape-from-the-tarkov-player-gif-24430436
+plane-crazy 2023-01-20 04:11:42 https://tenor.com/view/trollface-troll-trollface-walk-discord-gif-22139157
+plane-crazy 2023-01-20 04:11:48 i just needed to tell you that
+general 2023-01-20 04:12:19 https://tenor.com/view/trollface-troll-trollface-walk-discord-gif-22139157
+general 2023-01-20 04:13:35 i n d e p e n d e n c e d a y a l i e n f i g h t e r
+general 2023-01-20 04:14:13 the excuse for that reason is
+general 2023-01-20 04:14:14 alien shit
+general 2023-01-20 04:14:18 <:trollface:775024642104229898>
+general 2023-01-20 04:16:56 they got some goofy ass technology that humans strapped onto their planes
+general 2023-01-20 04:26:40 goofy alien reverse engineered stuff
+general 2023-01-20 05:30:49 i mean hes not wrong
+general 2023-01-20 05:31:07 Rap is ass
+general 2023-01-20 05:31:26 random shitter
+general 2023-01-20 05:31:38 DOOM ost is fire
+general 2023-01-20 05:31:57 i like Megadeth and Iron Maiden for msuic
+general 2023-01-20 05:32:25 Somewhere in time is my favorite album
+general 2023-01-20 05:32:38 Turbokiller
+general 2023-01-20 05:32:59 sorry too political
+general 2023-01-20 05:34:06 Hot
+general 2023-01-20 05:34:26 overused
+general 2023-01-20 05:34:31 !!!
+general 2023-01-20 05:35:39 beating random people on the street to get level 50
+general 2023-01-20 05:37:19 https://www.youtube.com/watch?v=2S6IfDkqDDk
+general 2023-01-20 05:37:21 real
+general 2023-01-20 05:42:33 here comes the shitter
+general 2023-01-20 05:45:53 🗿
+general 2023-01-20 05:46:22 Masterpice gif
+plane-crazy 2023-01-20 06:37:43 https://tenor.com/view/burt-lancaster-salute-saluting-run-silent-run-deep-gif-26186364
+general 2023-01-20 12:10:46 genshit
+plane-crazy 2023-01-20 12:11:00 redpilled chat
+plane-crazy 2023-01-20 12:11:38 they put microchips in my brain
+general 2023-01-21 03:40:27 me 262 pilots when they try to accelerate it to 100% instantly
+general 2023-01-21 03:40:32 https://tenor.com/view/house-explosion-explode-boom-kaboom-gif-19506150
+general 2023-01-21 04:13:07 the truth
+the-dump 2023-01-22 02:29:40 https://www.youtube.com/watch?v=JzXnRUrnrcM
+the-dump 2023-01-22 04:05:17 https://cdn.discordapp.com/attachments/1059795461663367178/1066569100920361012/park.mp4
+plane-crazy 2023-01-22 05:20:41 
+plane-crazy 2023-01-22 05:21:34 why not
+events-chat 2023-01-22 05:27:46 npc trend
+events-chat 2023-01-22 05:27:53 <:trollface:775024642104229898>
+plane-crazy 2023-01-22 05:28:28 https://tenor.com/view/memes-deatg-death-concepy-concept-gif-20473651
+plane-crazy 2023-01-22 05:36:22 dead
+general 2023-01-22 12:12:54 real mfs introduce eachother by saying 'hey motherfucker how are you doing loser'
+general 2023-01-23 01:46:32 https://tenor.com/view/patrick-bateman-literally-me-narcissism-gif-25830024
+general 2023-01-23 11:38:57 MASTERPISS
+general 2023-01-23 11:39:20 send masterpiss immediately
+general 2023-01-23 11:39:28 (the drawing)
+general 2023-01-23 11:40:11 still masterpiss tho
+general 2023-01-23 11:40:17 <:stuff:908917207986208828>
+general 2023-01-23 11:41:49 i miss masterpiss <:nooo:787097964946259978>
+general 2023-01-23 11:42:03 he appeared for 1 second and disappeared
+general 2023-01-23 11:43:04 https://cdn.discordapp.com/attachments/495286269459300364/1064080814377283584/image.png
+general 2023-01-23 11:43:43 https://tenor.com/view/trollface-troll-trollface-walk-discord-gif-22139157
+general 2023-01-23 11:45:27 its true tho
+general 2023-01-23 11:45:43 yeah its k
+general 2023-01-23 11:45:48 at least i spoke the truth
+general 2023-01-23 11:47:37 https://tenor.com/view/trollface-troll-trollface-walk-discord-gif-22139157
+general 2023-01-23 11:47:51 laughing my ass off
+general 2023-01-23 11:48:02 'irl education'
+general 2023-01-23 11:49:10 https://media.discordapp.net/attachments/952216942234730507/1060948669735632916/smokin.gif
+general 2023-01-23 11:50:09 i smoked and my lungs turned black
+general 2023-01-23 11:51:13 goofy ass droids
+general 2023-01-23 11:52:00 https://tenor.com/view/saul-cis-confeder-star-wars-clone-trooper-gif-26100258
+general 2023-01-23 11:52:44 prequel battles were good
+general 2023-01-23 11:53:10 opening scene of the third one was great tho
+general 2023-01-23 11:55:01 childhood classic, i remember those badass BX droids
+general 2023-01-23 11:58:45 some copyright holder or something
+general 2023-01-23 11:58:58 music group
+general 2023-01-24 01:07:57 https://tenor.com/view/gang-shit-roaches-roaches-shooting-ak47-gif-18655486
+general 2023-01-24 01:09:03 eat the nail bruh
+general 2023-01-24 01:09:05 ez
+general 2023-01-24 01:09:14 it will regrow
+general 2023-01-24 01:09:18 only when you eat it
+general 2023-01-24 01:10:07 
+general 2023-01-24 01:11:40 canadian doctor : die yourself
+general 2023-01-24 01:15:50 https://cdn.discordapp.com/attachments/497142796961054721/1067249913051762739/image.png
+the-dump 2023-01-24 03:01:16 
+general 2023-01-24 03:13:38 https://tenor.com/view/gang-shit-roaches-roaches-shooting-ak47-gif-18655486
+general 2023-01-24 04:07:33 
+the-dump 2023-01-24 05:06:05 https://media.discordapp.net/attachments/808788231478444134/942082932347134002/caption.gif
+general 2023-01-24 11:20:04 
+the-dump 2023-01-24 23:21:00 
+general 2023-01-25 00:53:07 
+plane-crazy 2023-01-25 04:49:37 why is my camlock doing this? like one side is on more of an angle
+the two sides are identical
+plane-crazy 2023-01-25 05:47:43 So its all based on that little red dot instead of the black circle?
+plane-crazy 2023-01-25 08:56:21 
+general 2023-01-25 09:47:45 eggs are bald
+general 2023-01-25 09:48:47 https://media.discordapp.net/attachments/883064333049929738/1007000642260308078/caption-7-3.gif
+general 2023-01-25 09:49:40 the most vile, disgusting shit a man could ever type
+general 2023-01-25 09:50:04 when was this mf given a uniform???
+general 2023-01-25 09:50:56 racc00n
+general 2023-01-25 09:51:01 DAMN
+general 2023-01-25 09:51:08 bro said it without the ra????
+general 2023-01-25 09:51:56 he is sexing plane crazy
+general 2023-01-25 09:52:38 https://media.discordapp.net/attachments/923158681149927434/942175806363426837/laughinfg.gif
+general 2023-01-25 09:55:37 MFW "hot dog" 🤣  🤣  🤣
+general 2023-01-25 09:56:18 Pile of steaming burning shit
+general 2023-01-25 09:56:26 the best way to describe this server
+general 2023-01-25 09:57:29 (the build name was Plane Crazy Community)
+general 2023-01-25 09:58:16 who gives a shit im gonna go blow up a government office!!!
+general 2023-01-25 09:58:25 like a real mf!!
+general 2023-01-25 09:58:38 real threat too, FBI watch your ass
+general 2023-01-25 09:58:54 https://tenor.com/view/trollface-troll-trollface-walk-discord-gif-22139157
+general 2023-01-25 09:59:54 
+general 2023-01-25 10:00:30 howd this guy spoof the link so good yet failed to put in a proper embed
+general 2023-01-25 10:00:41 i watched someone fall victim to a well spoofed link
+general 2023-01-25 10:01:14 almost got shitted on by it myself but my antivirus blocked it or something
+general 2023-01-25 10:01:34 blocked connection to y**.su
+general 2023-01-25 10:10:50 https://media.discordapp.net/attachments/503288006686277632/1041972014216388680/image0-2-1.gif
+general 2023-01-26 00:40:07 https://tenor.com/view/spongebob-gary-i-need-heroin-gif-18334165
+plane-crazy 2023-01-26 02:55:23 https://tenor.com/view/spongebob-gary-i-need-heroin-gif-18334165
+the-dump 2023-01-26 06:09:36 
+general 2023-01-26 06:11:30 smoking gif broke
+the-dump 2023-01-26 06:34:51 now spam slurs
+plane-crazy 2023-01-26 06:35:28 F4
+plane-crazy 2023-01-26 06:35:36 F35 looks weird
+general 2023-01-26 10:33:18 https://media.discordapp.net/attachments/1033178173715775500/1061310258091397200/caption.gif
+general 2023-01-27 08:17:17 isnt it funny how people with anime girl pfps usually are men
+the-dump 2023-01-27 08:20:33 balloon
+general 2023-01-27 14:22:09 https://tenor.com/view/half-life-half-life2-gman-gif-25087297
+plane-crazy 2023-01-27 14:23:43 dont give me flashbacks to my ass old adf 11f
+plane-crazy 2023-01-27 14:24:46 true..
+plane-crazy 2023-01-27 14:25:11 fucking had to work on that shit for months before it even looked somewhat decent lmao
+plane-crazy 2023-01-27 14:30:22 i need to cope with perspective <:clueless:942802644043464734>
+plane-crazy 2023-01-27 14:31:01 shit you can?
+plane-crazy 2023-01-27 14:31:12 whats it called
+plane-crazy 2023-01-27 14:32:33 also is it a bad thing that im good at making something that looks like this as opposed to a real jet
+plane-crazy 2023-01-27 14:34:50 ghost of kiev mfs when mig 29
+general 2023-01-27 16:25:26 instead, call them slurs
+general 2023-01-27 16:33:19 i hate how true this is
+plane-crazy 2023-01-27 16:44:42 stealth aircraft mfs after they fire a missile
+plane-crazy 2023-01-27 16:44:51 (where the fuck is my stealth)
+plane-crazy 2023-01-27 16:50:00 do fictional aircraft count?
+general 2023-01-27 16:50:43 https://media.discordapp.net/attachments/743854405279023194/912662252417605632/fantastic-great.gif
+creations-chat 2023-01-27 17:13:00 that f/a 18 is a masterpiece
+creations-chat 2023-01-27 17:15:43 ok ill admit the shaders suck but the build is quite good probably hall of fame worthy if everyone wasnt so biased against real builds like that
+whats a mirage 69420 and why does it matter in this situation? thats an F/A 18
+creations-chat 2023-01-27 17:20:10 ive been forced to highlight the details
+starting off with
+
+engines
+exposed lock
+the sign with mcdonalds doodoo
+those sick engines at the front (its a scifi F/A 18, so those engines make it look even more scifi)
+fake maintenance person dummy to solidify the fact that this is an F/A 18, as F/A 18's need maintenance every now and then. since it is scifi, there is a crew member to fix stuff mid flight! cool as shit!
+
+change my mind
+creations-chat 2023-01-27 17:22:15 ok mister 'shower shitter'
+creations-chat 2023-01-27 17:24:18 summon me the sus real quick
+creations-chat 2023-01-27 17:26:24 understood my friend, have a good day 👍
+creations-chat 2023-01-27 17:30:10 everyone just jelly about it <:clueless:942802644043464734>
+creations-chat 2023-01-27 17:32:25 https://tenor.com/view/discord-life-discordian-gif-24352768
+the-dump 2023-01-27 17:34:07 https://tenor.com/view/discord-life-discordian-gif-24352768
+general 2023-01-29 12:13:10 https://media.discordapp.net/attachments/1033178173715775500/1067968044657291264/the_stabber.gif
+general 2023-01-29 12:15:10 i want him dead
+general 2023-01-29 12:17:14 dark soul suck play roblox instead
+general 2023-01-29 12:17:24 roblox dark souls better
+general 2023-01-29 12:19:13 the butt ghost is the best SCP entry
+plane-crazy 2023-01-29 12:20:41 https://media.discordapp.net/attachments/1033178173715775500/1069230270621958205/caption.gif
+plane-crazy 2023-01-29 13:17:33 https://media.discordapp.net/attachments/923158681149927434/942175806363426837/laughinfg.gif
+the-dump 2023-01-29 15:20:13 
+general 2023-01-29 22:52:21 https://cdn.discordapp.com/attachments/805863292479602728/1065690510322307132/skull.gif
+creations-chat 2023-01-30 07:23:08 masterpice helicopter ngl...
+plane-crazy 2023-01-30 07:27:45 https://cdn.discordapp.com/attachments/1063713047488766002/1069080599740030996/image.png
+plane-crazy 2023-01-30 07:27:49 hunter killer arial
+plane-crazy 2023-01-30 07:28:58 united states copied skynet
+general 2023-01-31 20:18:49 https://tenor.com/view/federal-investigation-gif-22271245
+general 2023-01-31 20:24:10 https://media.discordapp.net/attachments/931855640094208020/997221535704162354/output_xkXZXV.gif
+general 2023-01-31 21:11:36 we like killing babies
+general 2023-02-01 19:58:58 https://media.discordapp.net/attachments/927625956624039996/992860705546047528/ezgif-4-d342d1f6e4-1.gif
+the-dump 2023-02-03 04:45:27 just call them slurs ig
+general 2023-02-03 07:55:03 can we turn pcc into a conspiracy theory server
+general 2023-02-03 07:56:23 what in the shitter is going on
+general 2023-02-03 07:57:59 hello computer
+general 2023-02-03 07:59:00 freedom of spech <:nooo:787097964946259978>
+general 2023-02-03 08:00:22 and i got basically none
+general 2023-02-03 08:00:42 yeah
+general 2023-02-03 08:00:47 theyre all social media npcs
+general 2023-02-03 08:00:48 lmao
+general 2023-02-03 08:02:32 good straight 10/10
+general 2023-02-03 08:03:54 less than 2*
+general 2023-02-03 08:10:04 https://cdn.discordapp.com/attachments/1012913098614657074/1070080998571778098/iu.png
+general 2023-02-03 08:12:20 
+general 2023-02-03 08:16:35 this server is oppressive and does not give me any rights
+general 2023-02-03 08:53:32 
+general 2023-02-03 11:36:29 https://tenor.com/view/trollface-troll-trollface-walk-discord-gif-22139157
+general 2023-02-03 11:37:06 Spaceballs is a masterpiece
+general 2023-02-03 11:38:13 tanks are not really the best choice for pvp
+general 2023-02-03 11:38:44 words cannot describe the amount of times ive been able to dive vertically on a tank without the dude even noticing my existence
+general 2023-02-03 11:39:35 mega speed tank with ability to jump (wtf!)
+general 2023-02-03 11:40:28 tanks dogfighting eachother
+general 2023-02-03 11:41:05 springlock 👍 😱 🔥
+general 2023-02-03 11:41:31 leantrap
+general 2023-02-03 11:41:39 https://tenor.com/view/leantrap-i-love-lean-springtrap-lean-fnaf-gif-24807011
+general 2023-02-03 11:42:49 tank with one side painted red dogfighting tank with blue on both sides
+general 2023-02-03 11:44:36 no its these two dudes with 109 mental illnesses fighting eachother in flying tanks
+general 2023-02-03 11:44:59 yeah im serious
+general 2023-02-03 11:46:08 clearly best tank
+general 2023-02-03 11:47:11 hypershit
+general 2023-02-03 11:48:06 
+general 2023-02-03 11:49:26 no dont laugh at masterpice artwork smoking caterpillar!!! that is insulting!!!
+general 2023-02-03 11:51:19 
+general 2023-02-03 11:57:50 https://tenor.com/view/george-orwell-1984-1984movie-george-orwell-book-gif-25203594
+the-dump 2023-02-03 11:58:20 1984
+plane-crazy 2023-02-03 12:02:45 this server is where they put the wastes of society
+general 2023-02-03 12:03:22 what the fuck why is the tank so hot
+general 2023-02-03 12:06:33 rolling on floor laughing
+general 2023-02-03 12:07:24 the guy who pinged me is the worst person alive
+general 2023-02-03 12:08:34 https://tenor.com/view/joker-xdd-poop-fart-me-when-gif-21170724
+the-dump 2023-02-03 12:19:15 https://tenor.com/view/discord-life-discordian-gif-24352768
+the-dump 2023-02-03 13:38:11 https://store.steampowered.com/app/388080/Borderless_Gaming/
+the-dump 2023-02-03 13:38:12 FUCK
+plane-crazy 2023-02-03 13:40:40 shit, i genuinely cant imagine playing plane crazy with no motorlock, but if theres still camlock thats a solid maybe
+general 2023-02-03 13:42:24 mfs after ruining the rest of their life (they did some goofy surgery shit)
+general 2023-02-03 13:45:32 it would be mega ass if the thought police appeared out of nowhere
+general 2023-02-03 13:46:01 yeah its stupid
+general 2023-02-03 13:46:47 at the same time they promote braindamage
+general 2023-02-03 13:47:09 they cry out in pain as they strike you
+general 2023-02-03 13:48:42 my goofy ass old adfx 02 with shitty proportions got 130 upvotes
+general 2023-02-03 13:49:20 yeah
+general 2023-02-03 13:49:22 thats also big as fuck
+general 2023-02-03 13:50:06 thats why i remke 🙏
+general 2023-02-03 13:53:40 it looks pretty ok, id describe it as a bit basic looking tho
+general 2023-02-03 13:55:23 i think they dropped a bit tho
+general 2023-02-03 13:58:35 fuck yuo!! <@155149108183695360>
+general 2023-02-03 14:00:01 man i wish i wanted to build stuff more but i only do stuff i nerd over
+general 2023-02-03 14:09:56 fucking hot
+general 2023-02-03 14:13:36 i got shitted over because of goofy ass proportions so i got my ass moving to fix it
+general 2023-02-03 14:14:35 me personally, i dont really mind as long as its not super ridiculous
+general 2023-02-03 14:14:48 but when i build shit ill make it small because
+general 2023-02-03 14:14:50 why not
+general 2023-02-03 14:16:55 
+general 2023-02-03 14:22:48 smoking crack
+general 2023-02-03 14:24:25 make slender men forest and you have to get the 8 pages to wipe your ass
+general 2023-02-03 14:25:43 is spamming shit sound effects allowed in vc
+general 2023-02-03 14:27:21 robotic furry terminator
+general 2023-02-03 14:27:37 thats what they are right
+general 2023-02-03 14:27:44 goofy ass terminator robot furry
+general 2023-02-03 14:28:28 get this guy and turn it into a furry or something
+general 2023-02-03 14:29:11 james cameron pizza (or something idk)
+general 2023-02-03 14:29:57 windmill flag emoji when??
+general 2023-02-03 14:30:23 wait sorry people are too sensitive to windmills
+general 2023-02-03 14:30:27 babies!!!
+general 2023-02-03 14:30:45 it is lol
+general 2023-02-03 14:31:50 1984
+general 2023-02-03 14:32:16 fuck yuo <@155149108183695360>
+general 2023-02-04 04:54:09 why are people turned on by cannibalism lmfao
+general 2023-02-04 04:54:14 fucking stupid
+general 2023-02-04 04:55:09 "oh man i want to be eaten because it turns me on!!!"
+general 2023-02-04 04:55:34 your right ig, theres much worse
+general 2023-02-04 04:56:33 just call them degenerates and slurs ig
+general 2023-02-04 04:56:36 works every time
+general 2023-02-04 04:56:39 not the slurs part tho
+general 2023-02-04 04:56:50 cancel culture will kill your ass
+general 2023-02-04 04:57:52 most sane plane crazy player
+general 2023-02-04 11:07:51 https://tenor.com/view/gman-half-life-speech-bubble-reaction-mona-lisa-gif-26331942
+the-dump 2023-02-04 11:08:45 
+general 2023-02-04 11:09:31 bypass banned
+plane-crazy 2023-02-04 11:11:49 https://tenor.com/view/trollface-troll-trollface-walk-discord-gif-22139157
+general 2023-02-04 12:04:16 https://tenor.com/view/soccer-suii-laser-eyes-crying-gif-24138864
+the-dump 2023-02-04 12:05:29 
+general 2023-02-04 12:08:54 https://cdn.discordapp.com/attachments/856343179674386442/896944133606891520/gladoos1.gif
+general 2023-02-04 13:58:56 i want to say slurs
+general 2023-02-04 13:59:19 grass more like ass
+general 2023-02-04 13:59:41 shit, hes right tho
+general 2023-02-04 14:00:23 yes
+general 2023-02-04 14:00:32 ur pfp dictates ur entire life
+general 2023-02-04 14:00:52 this fellow here is destined to live as a class d forever
+general 2023-02-04 14:00:56 based on his pfp
+general 2023-02-04 14:01:30 https://tenor.com/view/gman-half-life-speech-bubble-reaction-mona-lisa-gif-26331942
+general 2023-02-04 14:01:59 https://media.discordapp.net/attachments/674338221714440192/1005866944668377150/ezgif-3-95418786a2-2.gif?width=544&height=498
+general 2023-02-04 14:02:20 it is ukraine airforce
+general 2023-02-04 14:03:22 shaders??
+general 2023-02-04 14:03:24 https://cdn.discordapp.com/attachments/856343179674386442/896944133606891520/gladoos1.gif
+general 2023-02-04 14:04:42 to rake in upvotes or something
+general 2023-02-04 14:04:51 it works every time!!!
+general 2023-02-04 14:05:46 wait so once you get a role, your just not gonna talk?
+general 2023-02-04 14:05:55 i dont see a point in the roles then
+general 2023-02-04 14:06:22 you need roles to be a narcissistic asshole to people without them
+general 2023-02-04 14:08:41 https://tenor.com/view/patrick-bateman-literally-me-narcissism-gif-25830024
+general 2023-02-04 14:10:30 pcc members resting after a long day of being narcissistic and hypocritical
+general 2023-02-04 14:10:59 who sent evil cult subliminal messages
+general 2023-02-04 14:14:21 pcc should add a training channel with the purpose to make non-narcissistic assholes into narcissistic assholes
+general 2023-02-04 14:15:44 SHIT ITS HOT
+general 2023-02-04 14:17:44 https://media.discordapp.net/attachments/985745484687745026/987974846782775296/rlly_scary.gif
+general 2023-02-04 14:18:41 your mom eats too much and collapses into a blackhole
+general 2023-02-04 14:39:35 https://tenor.com/view/nokia-microwave-phone-ferngully-gif-7461981
+general 2023-02-05 04:58:14 https://cdn.discordapp.com/attachments/856343179674386442/896944133606891520/gladoos1.gif
+general 2023-02-05 08:47:59 pho is fucking lit
+the-dump 2023-02-05 08:53:10 https://cdn.discordapp.com/attachments/738925700572119153/1062462283340587119/attachment.gif
+general 2023-02-07 08:38:46 https://tenor.com/view/police-roblox-bad-police-bad-gif-21393412
+general 2023-02-07 19:27:12 this bot fcked me up!!!
+general 2023-02-07 19:27:19 go take your robot ass else where!!!
+general 2023-02-07 19:27:38 fuck you skynet!!!
+general 2023-02-07 19:29:54 https://tenor.com/view/gang-shit-roaches-roaches-shooting-ak47-gif-18655486
+general 2023-02-07 19:30:45 ✊ ✊ ✊ ✊
+general 2023-02-07 19:31:25 racis
+general 2023-02-07 19:32:38 👍
+general 2023-02-07 21:02:28 
+the-dump 2023-02-07 21:07:17 https://tenor.com/view/police-roblox-bad-police-bad-gif-21393412
+plane-crazy 2023-02-08 06:36:56 whats up with a plane that goes down when gaining speed but as soon as speed gain stops, its bloody stable
+plane-crazy 2023-02-08 20:16:54 https://tenor.com/view/thanos-smoking-gif-23151077
+general 2023-02-09 08:36:25 https://cdn.discordapp.com/attachments/856343179674386442/896944133606891520/gladoos1.gif
+the-dump 2023-02-09 08:36:35 cracker
+general 2023-02-09 08:37:33 https://media.discordapp.net/attachments/503288006686277632/1041972014216388680/image0-2-1.gif
+general 2023-02-09 11:52:03 https://media.discordapp.net/attachments/1008145182933389419/1030824062345302166/attachment.gif
+general 2023-02-09 11:53:51 because we all shit on eachother every day
+general 2023-02-09 11:54:19 the entire point is to call your builds shit so you can improve on it
+general 2023-02-09 11:56:20 me building fake jets
+general 2023-02-09 11:57:05 yeah lol
+general 2023-02-09 11:57:19 its fun making shit
+general 2023-02-09 11:57:56 weekends and the time after school lma
+general 2023-02-09 11:58:55 you wanna try beat my ass by making a Hunter Chopper which will look 100% better than mine
+general 2023-02-09 12:00:06 define overdone, as in details?
+general 2023-02-09 12:00:30 we all throw shit at eachother
+general 2023-02-09 12:00:53 ah got it
+general 2023-02-09 12:01:59 if youve got garrys mod you can just use the model as direct reference
+general 2023-02-09 12:02:06 since its in the prop list
+general 2023-02-09 12:02:30 there is one on sketchfab tho
+general 2023-02-09 12:02:44 https://sketchfab.com/3d-models/hunter-chopper-modded-half-life-2-12f579bdb1aa41ec8e0b4cc7fb3da96f
+general 2023-02-09 12:04:45 tutorials kinda boring anyway
+general 2023-02-09 12:05:04 its like your just making clones of a dudes jet
+general 2023-02-09 12:05:20 nothing interesting like figuring out how to do shit and where to place shit
+general 2023-02-09 12:05:26 https://tenor.com/view/star-wars-clone-wars-begun-the-clone-war-has-gif-21159557
+general 2023-02-09 12:05:53 thats like the best part when your trying to put in some mechanism and it works
+general 2023-02-09 12:06:13 hes a real one
+general 2023-02-09 12:07:24 braindead and less braindead 🤣 👍 🗿
+general 2023-02-09 12:08:18 this is how i feel about that <:nooo:787097964946259978>
+general 2023-02-09 12:10:25 some cockpit stuff i found for it ig
+general 2023-02-09 12:11:29 this region should be good
+plane-crazy 2023-02-09 12:12:02 no embed perms EVER <:empty:794431705070174238>
+general 2023-02-09 12:13:22 you could use downwards facing rockets to make a ripoff of the helicopter mines
+general 2023-02-09 12:14:36 helicopter dropping explosive balls <:empty:794431705070174238>
+general 2023-02-09 12:15:48 just joking about the explosive balls i know he aint gonna just use those because thats way too lazy
+general 2023-02-09 12:18:55 aperture science 👍
+general 2023-02-09 12:24:28 this pic goes so hard
+general 2023-02-10 06:22:53 https://tenor.com/view/patrick-bateman-literally-me-narcissism-gif-25830024
+general 2023-02-10 06:30:30 it will never
+general 2023-02-10 06:30:49 its just a lie created by the government to control us
+plane-crazy 2023-02-10 06:49:07 basically buzzword
+plane-crazy 2023-02-10 06:49:33 "its next generation!!!"
+plane-crazy 2023-02-10 06:52:42 SHUT UP GEORGE ORWELL BOT
+plane-crazy 2023-02-10 06:52:53 <@155149108183695360>
+general 2023-02-10 10:12:06 https://tenor.com/view/live-reaction-gif-25413546
+the-dump 2023-02-10 10:13:39 where FALKEN friday bruh 😩
+the-dump 2023-02-10 21:47:00 ⚾ 🏀 ⁉️
+the-dump 2023-02-10 22:13:41 <:nooo:787097964946259978>
+the-dump 2023-02-10 22:52:19 https://tenor.com/view/live-reaction-gif-25413546
+general 2023-02-10 22:52:36 https://tenor.com/view/joker-gamings-pc-joker-pc-gif-22757313
+general 2023-02-10 22:56:49 https://media.discordapp.net/attachments/1033178173715775500/1067968044657291264/the_stabber.gif
+general 2023-02-10 22:57:44 make british a warnable word
+general 2023-02-10 22:58:26 call the exploiters slurs
+general 2023-02-10 23:13:01 
+general 2023-02-10 23:29:34 https://tenor.com/view/live-reaction-gif-25413546
+general 2023-02-10 23:32:03 imagine posting flightpoint build in <#384025409945337856> <:trollface:775024642104229898>
+general 2023-02-10 23:32:38 ill turn up to court with a bomb
+general 2023-02-10 23:38:16 https://tenor.com/view/trolling-miners-minor-twitter-map-gif-22206143
+general 2023-02-10 23:38:41 i think he wants other people to hear the audio
+general 2023-02-10 23:38:56 because any new audios uploaded by you when you put em in the speaker but only you will hear it
+general 2023-02-10 23:40:03 idk how the system works now
+general 2023-02-10 23:40:53 i mean you can still upload audios and put them in speakers
+general 2023-02-10 23:41:01 just that others wont hear it
+general 2023-02-10 23:41:05 if i remember correctly
+general 2023-02-10 23:43:10 roblox messages?
+general 2023-02-10 23:43:42 i dont think anyone uses them
+general 2023-02-10 23:46:48 he did tho
+general 2023-02-10 23:49:17 get drunk and die
+general 2023-02-11 00:02:05 at least they wont be raising kids who are bound to fail like them
+general 2023-02-11 03:44:41 https://tenor.com/view/live-reaction-gif-25413546
+general 2023-02-11 03:51:05 https://tenor.com/view/skull-emoji-me-when-rasputin-dying-skeleton-skeleton-meme-skeleton-turning-to-ash-gif-26000244
+general 2023-02-11 03:51:30 same....
+general 2023-02-11 03:52:01 i just need to send at least one shitpost every hour
+plane-crazy 2023-02-11 07:02:31 https://cdn.discordapp.com/attachments/856343179674386442/896944133606891520/gladoos1.gif
+the-dump 2023-02-11 07:03:05 https://cdn.discordapp.com/attachments/1033178173715775500/1073512698576375899/watermark.png
+general 2023-02-12 01:23:55 ace combat fan dont make x-02s challenge
+general 2023-02-12 01:37:21 https://tenor.com/view/live-reaction-gif-25413546
+general 2023-02-12 02:21:13 https://media.discordapp.net/attachments/1059795461663367178/1074141285641900124/excalibur.gif
+general 2023-02-12 03:22:12 https://cdn.discordapp.com/attachments/805863292479602728/1065690510322307132/skull.gif
+events-chat 2023-02-12 03:25:24 kids have 2 paths
+play call of duty and yell slurs and insults to everyone they meet
+or play roblox and have permanent brain damage
+general 2023-02-12 04:01:53 https://media.discordapp.net/attachments/454293518819524609/905109654894415942/caption-46-1.gif
+general 2023-02-12 04:06:24 https://media.discordapp.net/attachments/454293518819524609/905109654894415942/caption-46-1.gif
+general 2023-02-12 04:07:45 now this has **GOTTA** be bait. dont feed the trolls, guys
+the-dump 2023-02-12 09:39:18 im dementia
+plane-crazy 2023-02-12 09:40:37 https://media.discordapp.net/attachments/454293518819524609/905109654894415942/caption-46-1.gif
+events-chat 2023-02-12 09:42:48 we dont talk about that one, there are probably 13 y/os here who might have the potential to take that path after hearing that it exists
+the-dump 2023-02-12 09:43:59 im not dementia
+the-dump 2023-02-12 09:44:28 <:Upvote:490311647492309004>
+plane-crazy 2023-02-12 10:37:11 https://media.discordapp.net/attachments/893678221739061329/1016276975486251018/Nasheed_Imposter.gif
+creations-chat 2023-02-12 10:45:37 https://media.discordapp.net/attachments/454293518819524609/905109654894415942/caption-46-1.gif
+creations-chat 2023-02-12 10:48:49 guh T-1!!!
+
+(in all seriousness that is quite a good looking locomotive)
+plane-crazy 2023-02-12 10:50:00 rip in peace 🪦
+plane-crazy 2023-02-12 10:50:33 https://media.discordapp.net/attachments/454293518819524609/905109654894415942/caption-46-1.gif
+plane-crazy 2023-02-12 10:50:56 https://media.discordapp.net/attachments/454293518819524609/905109654894415942/caption-46-1.gif
+plane-crazy 2023-02-12 10:51:36 spotify premium <:Downvote:490311668556103700>  vs pirate bay <:Upvote:490311647492309004>
+general 2023-02-12 10:52:38 https://media.discordapp.net/attachments/454293518819524609/905109654894415942/caption-46-1.gif
+general 2023-02-12 10:53:25 virus link
+general 2023-02-12 10:53:40 top 10 attempts virus real
+general 2023-02-12 10:54:13 virus (2)
+general 2023-02-12 10:55:28 illuminati codes
+general 2023-02-12 10:55:32 scary conspiracy?
+general 2023-02-12 10:55:42 aliens visitng the pyramids?
+general 2023-02-12 10:56:07 
+general 2023-02-12 10:56:43 plague inc
+general 2023-02-12 10:57:01 bypass!!!
+general 2023-02-12 10:57:09 first 3 letters!!
+the-dump 2023-02-12 10:58:40 this is the shitposting channel <:trollface:775024642104229898>
+the-dump 2023-02-12 10:59:28 its pretty plain ig thats all i can really say
+the-dump 2023-02-12 11:00:12 maybe the shape at the front could be a little more smoothed out
+the-dump 2023-02-12 11:00:24 it just kinda goes flat
+creations-chat 2023-02-12 11:01:01 it is rip in peace so 10/10
+general 2023-02-12 11:11:40 damn. this. post. goes. so. hard.
+general 2023-02-12 11:20:14 https://media.discordapp.net/attachments/1059795461663367178/1074141285641900124/excalibur.gif
+the-dump 2023-02-13 04:18:16 https://media.discordapp.net/attachments/454293518819524609/905109654894415942/caption-46-1.gif
+general 2023-02-13 04:18:54 https://media.discordapp.net/attachments/454293518819524609/905109654894415942/caption-46-1.gif
+general 2023-02-13 05:44:52 government files
+general 2023-02-13 05:48:01 https://media.discordapp.net/attachments/454293518819524609/905109654894415942/caption-46-1.gif
+general 2023-02-13 05:49:14 must. say. racial. slurs.
+general 2023-02-13 05:51:50 bypass banned for life
+the-dump 2023-02-13 05:54:42 https://tenor.com/view/gang-shit-roaches-roaches-shooting-ak47-gif-18655486
+general 2023-02-13 07:00:18 oh my hot roblox
+general 2023-02-13 07:01:20 must. send. oh. my. hot. roblox.
+general 2023-02-13 07:30:44 https://tenor.com/view/dr-says-borky-bullshit-catsoda-zyg-gif-19516735
+general 2023-02-13 07:31:02 must. shitpost. every. hour.
+general 2023-02-13 07:31:34 https://media.discordapp.net/attachments/454293518819524609/905109654894415942/caption-46-1.gif
+the-dump 2023-02-13 07:35:00 braindamage video
+bot-central 2023-02-13 07:36:15 ?av 『Ｅｘｘ』#0643
+bot-central 2023-02-13 07:36:21 <:empty:794431705070174238>
+general 2023-02-13 10:23:01 https://tenor.com/view/trollface-troll-trollface-walk-discord-gif-22139157
+the-dump 2023-02-13 10:28:07 https://tenor.com/view/troll-gif-26178840
+plane-crazy 2023-02-13 11:01:41 https://tenor.com/view/dr-says-borky-bullshit-catsoda-zyg-gif-19516735
+events-chat 2023-02-13 11:34:39 dont even start with that one, that is the darkest path
+creations-chat 2023-02-13 11:36:44 damn. call of duty plane crazy. hits hard.
+plane-crazy 2023-02-13 11:39:02 yeah, keyword younger
+general 2023-02-13 11:40:38 virus download reported
+general 2023-02-13 11:40:55 @ tech master
+the-dump 2023-02-13 11:48:43 https://cdn.discordapp.com/attachments/497142796961054721/1074657998745636904/iu.png
+the-dump 2023-02-13 11:48:50 gr...... blame <@720891502108344360>  for cursing me
+general 2023-02-14 06:46:47 dont search mig 15 nato reporting name
+plane-crazy 2023-02-14 07:30:03 https://media.discordapp.net/attachments/365541056453804033/1048680525684035604/talker6.gif
+general 2023-02-14 10:22:31 https://tenor.com/view/dr-says-borky-bullshit-catsoda-zyg-gif-19516735
+general 2023-02-14 10:24:06 gaming event when im dead
+the-dump 2023-02-14 10:28:07 https://media.discordapp.net/attachments/894858430643306507/978170188535058432/non_function.gif
+general 2023-02-14 10:29:14 alright, now climb this big fuck
+general 2023-02-14 10:29:34 
+general 2023-02-14 10:33:15 lets bypass slurs to test the theory if they really did die
+general 2023-02-14 10:50:26 racism
+creations-chat 2023-02-14 10:51:50 they just like making mechanisms ig
+general 2023-02-14 10:53:29 https://tenor.com/view/troll-gif-26178840
+general 2023-02-14 10:56:43 tutorial users when i tell them theyll never understand the feeling of figuring out how to make a certain shape or mechanism
+the-dump 2023-02-14 11:00:54 i killed myself from hearing shitty music
+the-dump 2023-02-14 11:01:06 cant type anymore
+bug-reports 2023-02-14 11:29:10 https://tenor.com/view/gang-shit-roaches-roaches-shooting-ak47-gif-18655486
+general 2023-02-14 11:49:16 literally school
+general 2023-02-14 20:12:59 https://media.discordapp.net/attachments/990839452781916170/996336718955417610/turdinater.gif
+bot-central 2023-02-16 04:35:35 https://media.discordapp.net/attachments/1030928186873229338/1049691010218864650/militia_says.gif
+bot-central 2023-02-16 06:47:41 https://cdn.discordapp.com/attachments/839893029673369631/978250382235017266/realimperialfactcheckers.gif
+bot-central 2023-02-16 06:48:39 stop pinging
+bot-central 2023-02-16 06:48:47 https://tenor.com/view/brain-damage-gif-25961554
+bot-central 2023-02-16 06:49:08 https://tenor.com/view/dr-says-borky-bullshit-catsoda-zyg-gif-19516735
+bot-central 2023-02-16 06:49:19 <@887918328784494622>
+bot-central 2023-02-16 06:49:45 https://media.discordapp.net/attachments/804491292897574944/1064697241597657183/1763ABD-653CD-ESG12.gif
+bot-central 2023-02-16 06:50:13 https://media.discordapp.net/attachments/940869566194671626/965630068338614302/8F648C05-49DA-49A8-90C4-570384B34364.gif
+bot-central 2023-02-16 06:50:27 https://tenor.com/view/sad-crying-crying-heart-sad-heart-depressed-gif-20412049
+bot-central 2023-02-16 06:52:58 https://tenor.com/view/george-orwell-1984-1984movie-george-orwell-book-gif-25203594
+bot-central 2023-02-16 06:55:16 ADFX 10 unpiloted tho...
+bot-central 2023-02-16 06:55:46 LMAO
+bot-central 2023-02-16 06:57:06 my guys cockpit looks like Fenrir
+bot-central 2023-02-16 06:57:08 but really damn squished
+bot-central 2023-02-16 06:57:59 what the fuck is this lmfao
+bot-central 2023-02-16 06:59:09 https://tenor.com/view/pink-head-floating-3d-model-gif-19419839
+bot-central 2023-02-16 06:59:55 💀
+bot-central 2023-02-16 07:00:42 rip in peace
+bot-central 2023-02-16 07:01:38 🗿
+bot-central 2023-02-16 07:01:54 🗿
+bot-central 2023-02-16 07:02:15 🗿
+general 2023-02-16 10:19:53 https://tenor.com/view/police-roblox-bad-police-bad-gif-21393412
+general 2023-02-16 10:20:37 mcw (my car when) 'peaceful protest' 🚙 🔥
+general 2023-02-17 07:13:23 
+general 2023-02-17 07:18:16 banned for life
+general 2023-02-17 07:18:29 true
+bot-central 2023-02-17 16:46:19 shut the FUCK up
+bot-central 2023-02-17 16:46:24 https://tenor.com/view/pog-gif-22423011
+general 2023-02-18 00:11:35 https://tenor.com/view/milkman-milk-society-joker-batman-gif-20789133
+general 2023-02-18 00:12:50 nice jet should go in hall of fame
+general 2023-02-18 00:12:56 11/9 build
+general 2023-02-18 00:13:12 100% accurate
+general 2023-02-18 00:14:42 public server experience
+general 2023-02-18 00:15:26 https://tenor.com/view/gang-shit-roaches-roaches-shooting-ak47-gif-18655486
+general 2023-02-18 00:16:10 https://tenor.com/view/shruu-shruti-shruuonyt-ytshruu-sus-boi-gif-23627756
+general 2023-02-18 00:16:57 become AWACS guy and shitpost mid-mission
+general 2023-02-18 00:17:22 me looking at shitposts while my buddies are fucking dying
+general 2023-02-18 00:18:35 recoil 100 billion
+general 2023-02-18 00:19:20 internal organs
+general 2023-02-18 00:20:26 aye can i see how it looks from like above
+general 2023-02-18 00:20:42 i can only see lock everywhere in that one
+general 2023-02-18 00:21:21 damn. its hot
+general 2023-02-18 00:22:07 https://cdn.discordapp.com/attachments/1033178173715775500/1076297501348466769/caption.png
+general 2023-02-18 00:24:05 damn. its real madatk
+general 2023-02-18 00:27:37 https://tenor.com/view/patrick-bateman-gif-26282297
+general 2023-02-19 12:36:38 https://tenor.com/view/pog-gif-22423011
+general 2023-02-21 20:56:08 https://tenor.com/view/plane-crazy-bmp-gif-27533308
+general 2023-02-21 20:57:41 https://tenor.com/view/pissyourpantsaggresively-gang-shit-horrifying-discord-gif-20960859
+general 2023-02-21 20:58:47 
+general 2023-02-21 20:59:13 gasrfeild terminator parkor
+general 2023-02-21 21:01:08 https://cdn.discordapp.com/attachments/946976736241938513/948021514891067462/caption-9.gif
+general 2023-02-21 21:03:16 blox shaker
+general 2023-02-23 08:33:03 https://media.discordapp.net/attachments/923158681149927434/996336179089768508/unknown.gif
+creations-chat 2023-02-25 09:14:48 battleship shredder wtf!!!
+the-dump 2023-02-25 09:16:17 fire shit
+the-dump 2023-02-25 09:19:57 https://tenor.com/view/this-man-crab-react-him-discord-crab-react-gif-26387284
+the-dump 2023-02-25 09:20:55 https://tenor.com/view/this-man-whale-react-him-discord-whale-react-gif-26387281
+the-dump 2023-02-25 09:21:24 https://tenor.com/view/ghost-ghost-reaction-gif-26649404
+the-dump 2023-02-25 09:22:12 https://tenor.com/view/lobster-react-him-lobster-react-thanos-gif-26859688
+the-dump 2023-03-06 06:37:11 <@887918328784494622>
+the-dump 2023-03-06 06:37:19 https://media.discordapp.net/attachments/1063713047488766002/1082111971509420052/caption.gif
+the-dump 2023-03-06 06:37:54 SENMD
+the-dump 2023-03-06 06:37:58 <@887918328784494622>
+the-dump 2023-03-06 06:38:12 GRUG
+the-dump 2023-03-06 06:38:14 WTF
+the-dump 2023-03-08 04:16:27 https://tenor.com/view/jump-scare-crying-cry-scary-gif-12191195
+the-dump 2023-03-08 05:20:02 thanks for ideas
+the-dump 2023-03-08 05:20:08 i need to make shitass edits....
+general 2023-03-09 05:01:32 https://tenor.com/view/skeleton-crawling-tired-gif-11883184
+the-dump 2023-03-09 07:13:28 oh so thats what you used my esmbot for
+the-dump 2023-03-09 07:13:41 https://media.discordapp.net/attachments/944790739450220545/946311282066329600/Untitled.gif
+the-dump 2023-03-16 12:41:37 
+the-dump 2023-03-16 12:41:39 i love ai generated voices

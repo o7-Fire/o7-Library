@@ -1,0 +1,3480 @@
+The Tale of Fleet Productions (667756016116695040)
+general 2020-03-06 20:49:36 Oh no.
+general 2020-03-06 20:49:42 I've made a Vectored-Thrust A-10!
+general 2020-03-06 20:49:55 Using the hover blocks lol
+general 2020-03-06 20:50:13 This is  actually cool though.
+general 2020-03-06 20:50:51 Landings are so much more epic now...
+general 2020-03-06 20:53:44 I'm thinking of  changing up the frame of the A-10 now, to accommodate the upgrade to VT
+general 2020-03-06 21:07:00 
+general 2020-03-06 21:07:02 Vector-Thrust MQ-120A
+general 2020-03-06 21:08:00 It can fly at about Mach .7
+general 2020-03-06 21:08:45 6 XN-E4 Shrike Missiles
+general 2020-03-06 21:09:17 2 AGM-190 Devestator DLGA Rockets
+general 2020-03-06 21:09:54 And an interior-mounted Miniturized FOF Super Gravity Cannon
+general 2020-03-06 21:10:21 I was just showing you guys...
+general 2020-03-06 21:10:56 Mk fine
+plane-crazy 2020-03-06 21:13:19 ``Vector-Thrust MQ-120A, 6x XN-E4 Shrike Missiles, 2x AGM-190 Devestator DLGA Rockets, 1x Internal Miniturized FOF Super Gravity Cannon, Top Speed: Mach .7``
+plane-crazy 2020-03-06 21:13:43 I have it  in a flawless hover here...
+plane-crazy 2020-03-06 21:14:05 A basic run turbo, I'm still working on the design
+plane-crazy 2020-03-06 21:14:17 When it's done it shouldn't even be able to be recognised
+plane-crazy 2020-03-06 21:14:33 I needed a base and I liked that model though
+plane-crazy 2020-03-06 21:14:50 I could work on a tank though.
+plane-crazy 2020-03-06 21:14:58 What are those wheels
+plane-crazy 2020-03-06 21:18:13 I hit the build limit and I couldn't finish my giant PA.
+plane-crazy 2020-03-06 21:18:31 Just because I changed the scale  from 1x1 to 2x2
+plane-crazy 2020-03-06 21:18:49 Every square in the PA was now 4 blocks ingame total
+plane-crazy 2020-03-06 21:18:56 And...
+plane-crazy 2020-03-06 21:19:27 
+plane-crazy 2020-03-06 21:19:28 It no work
+plane-crazy 2020-03-06 21:19:57 I wonder if I can find a way to make Kongou from Arpeggio of Blue Steel..
+plane-crazy 2020-03-06 21:19:58 NO
+plane-crazy 2020-03-06 21:20:00 YOU
+plane-crazy 2020-03-06 21:20:05 that's  not sans
+plane-crazy 2020-03-06 21:20:20 No.
+plane-crazy 2020-03-06 21:20:25 I'm very sure it isn't.
+plane-crazy 2020-03-06 21:20:29 It does not.
+plane-crazy 2020-03-06 21:21:09 ...
+plane-crazy 2020-03-06 21:21:21 
+plane-crazy 2020-03-06 21:21:26 Not sans
+plane-crazy 2020-03-10 07:54:03 AX-40 Low-Altitude Light Transport Has Been Completed. For Now.
+plane-crazy 2020-03-10 07:55:54 
+plane-crazy 2020-03-10 07:56:07 Sorry, I was just messing around and I got the idea.
+plane-crazy 2020-03-10 07:56:15 I know it looks like a YF-23
+plane-crazy 2020-03-10 07:56:23 But it's only meant to hover.
+plane-crazy 2020-03-10 07:56:38 Yes.
+plane-crazy 2020-03-10 07:58:19 Highest straight-line speed without any hills/obstructions  is 95
+plane-crazy 2020-03-10 07:58:35 It's not built for speed
+general 2020-03-10 07:59:06 Question. What units are Speed and Altitude measured by ingame?
+general 2020-03-10 07:59:27 Like MPH/ KPH, Feet/Meters?
+general 2020-03-10 08:00:50 Wait, so that's...
+general 2020-03-10 08:01:37 Theres 160934.4 Centimeters in a Mile
+general 2020-03-10 08:01:48 So,
+general 2020-03-10 08:02:16 1 MPH is 1 Mile Traversed in 60 Minutes
+general 2020-03-10 08:02:28 So, 160934.4 times 60
+general 2020-03-10 08:02:41 Sorry, I need a clocitulator
+general 2020-03-10 08:07:43 So.
+general 2020-03-10 08:08:41 I am correct.
+general 2020-03-10 08:11:28 Okay.
+general 2020-03-10 08:11:31 I was wrong, actually.
+general 2020-03-10 08:11:56 15 Speed Ingame = 1 MPH Real
+general 2020-03-10 08:14:26 Lemme  do the math
+general 2020-03-10 08:14:37 No.
+general 2020-03-10 08:14:49 The math is different from whatever the hell just happened there
+general 2020-03-10 08:14:56 1 Stud is 5 Centimeters
+general 2020-03-10 08:15:53 No, 1 Stud = 5 Centimeters
+general 2020-03-10 08:16:03 If You can find  how many centimeters in a mile
+general 2020-03-10 08:16:05 Which is
+general 2020-03-10 08:16:13 160934.4 Centimeters
+general 2020-03-10 08:17:01 9656064
+general 2020-03-10 08:17:10 Wait hold it
+general 2020-03-10 08:17:37 Yeah
+general 2020-03-10 08:17:53 160934.4 Times 60 is 9656064
+general 2020-03-10 08:18:48 No, wait
+general 2020-03-10 08:19:04 160934 Divided by 60 is 2682 centimeters in a minute
+general 2020-03-10 08:19:45 Now divided again is about
+general 2020-03-10 08:19:52 44.7 Centimeters per Second
+general 2020-03-10 08:20:45 Yes
+general 2020-03-10 08:20:47 Which is 9
+general 2020-03-10 08:20:50 bru
+general 2020-03-10 08:20:54 No.
+general 2020-03-10 08:21:00 Quit with that childish joke
+general 2020-03-10 08:21:46 9 Speed is 1MPH
+general 2020-03-10 08:21:50 Well.
+general 2020-03-10 08:21:59 That's  some pretty exhausting shit there.
+general 2020-03-10 08:23:51 So Basically
+general 2020-03-10 08:23:57 At my top speed of 95 Speed (Studs)
+general 2020-03-10 08:24:03 I'm going  about 11 MPH
+general 2020-03-10 08:28:15 This is hard to control my Stabilators.
+general 2020-03-10 08:28:38 And no, I'm not making a mistake
+general 2020-03-10 08:28:44 Not stabilizers, stabilators
+general 2020-03-10 08:28:49 Because there's only two
+general 2020-03-10 08:29:07 So, like on the  YF-23 Black Widow II
+general 2020-03-10 08:29:22 And there's only two Tail stabilators
+general 2020-03-10 08:29:29 At a 90 Degree angle
+general 2020-03-10 08:29:50 Look
+general 2020-03-10 08:30:49 Dude wait
+general 2020-03-10 08:31:13 
+general 2020-03-10 08:31:14 Look at those Stabilators
+general 2020-03-10 08:31:28 Because there's only two, it's a  mix of the  Stabilizers and the Elevators
+general 2020-03-10 08:31:40 Because they do both jobs at the same time.
+general 2020-03-10 08:31:54 So, not Stabilizers, they're known as  Stabilators.
+general 2020-03-10 08:32:51 Dude my  reaction to that video in <#384021699466756107> is those two keybinds `T` `F`
+general 2020-03-10 08:33:20 What is your fastest vehicle
+general 2020-03-10 08:33:23 Like, without bugs
+general 2020-03-10 08:33:29 Without Mag Drives
+general 2020-03-10 08:33:40 Like, a Car
+general 2020-03-10 08:33:46 Just straight-line speed
+general 2020-03-10 08:34:12 I still love my MQ-120
+general 2020-03-10 08:35:46 No Bugs, No Mag Drives, Just Level-Off Straight Line Speed
+general 2020-03-10 08:37:51 My car is being  a pain in the ass
+general 2020-03-10 08:38:56 I can't even guage my cars top speed
+general 2020-03-10 08:43:06 Well, one of my cars flying speed can go about 20 mph
+general 2020-03-10 08:45:33 I JUST DROPPED SOMEONE INSIDE THE VOLCANO
+general 2020-03-10 08:45:52 <:OMEGALUL:528987216643489792>
+general 2020-03-10 23:23:54 I have caught it!
+general 2020-03-10 23:24:12 The wild `Manjet`
+general 2020-03-10 23:24:19 
+general 2020-03-10 23:24:27 Opposed to Human Kite Man, it's Manjet.
+general 2020-03-10 23:24:38 *Spectacular*
+general 2020-03-18 02:54:31 Guys.
+general 2020-03-18 02:54:43 I just found out another boi has joined the Hella Gay Clan with me.
+general 2020-03-18 02:54:50 It's Kakashi.
+general 2020-03-18 02:55:14 
+general 2020-03-18 02:55:57 Wait, who's getting deepfried by the Underage Hammer?
+general 2020-03-18 02:56:26 Wait, who?
+general 2020-03-18 02:56:35 I don't even know what's happening here.
+general 2020-03-18 02:56:44 But someone just got ripped.
+general 2020-03-18 02:56:58 Yes, I know this.
+general 2020-03-18 02:57:14 Just the situation as I came in.
+general 2020-03-18 02:57:29 Right after I said something, hyper started cracking down on someone for being underage
+general 2020-03-18 02:57:38 And I was like
+general 2020-03-18 02:57:50 "Holy shit, why this again. I've already proved I was 13+!"
+general 2020-03-18 02:58:05 And then I realized it was that sad soul
+general 2020-03-18 02:58:18 That was getting ripped from this beautiful server
+general 2020-03-18 02:58:31 By his own stupid idea to be born less than 13 years ago.
+general 2020-03-18 02:59:36 Jackoon, may I ask you a science question?
+general 2020-03-18 03:00:14 How much Hydrogen can I inhale before I spintaniously explode from the heat of my body igniting the hydrogen?
+general 2020-03-18 03:00:25 Oh shit!
+general 2020-03-18 03:00:39 Someone get Queen.
+general 2020-03-18 03:00:46 Cuz another is about to bite the dust!
+general 2020-03-18 03:01:00 Someone needs to put some queen on in a VC
+general 2020-03-18 03:01:12 Because everyone is just biting the dust.
+general 2020-03-18 03:01:34 This is going  to be known at the March 17th Hyper Minor Massacre.
+general 2020-03-18 03:01:45 Or,
+general 2020-03-18 03:01:47 HMM.
+general 2020-03-18 03:02:05 Which sounds like something you would say before you ban someone for being  Underage.
+general 2020-03-18 03:02:18 Did I just say that?
+general 2020-03-18 03:02:25 https://tenor.com/view/tatsumaki-one-punch-man-gif-serious-gif-14084592
+general 2020-03-18 03:04:13 I'm going  to go.
+general 2020-03-18 03:04:27 Some tardo is attacking my fusion plant.
+general 2020-03-18 03:04:47 Oh, yeah true.
+general 2020-03-18 03:04:54 Well, then I'll just do what I did  before.
+general 2020-03-18 03:05:07 Oh, and by the way, stunning *Star Trek* pfp you have there Empire
+general 2020-03-18 03:05:46 Though, is that a Construction terminal?
+general 2020-03-18 03:05:49 Or a Repair Dock?
+general 2020-03-18 03:06:03 Nevermind, I'll go.
+general 2020-03-19 09:40:41 Just roleplaying with my friend like
+general 2020-03-19 09:41:11 And btw is <#384025409945337856> JUST for PC creations?
+general 2020-03-19 09:41:18 Or can I post my MC beauty?
+general 2020-03-19 09:41:46 Bruh NoobDude lol I thought that was a Hoonigan in your pfp
+general 2020-03-19 09:42:01 In the words of the great REEE Kid
+general 2020-03-19 09:42:02 ...
+general 2020-03-19 09:42:10 *Pizza Rolls, Pizza Rolls, Pizza Rolls.*
+general 2020-03-19 09:42:23 Michelin
+general 2020-03-19 09:42:24 AKA
+general 2020-03-19 09:42:34 Supa Tiny Stay Puft Dude Jr.
+general 2020-03-19 09:42:41 AKA
+general 2020-03-19 09:42:49 During the Virus
+general 2020-03-19 09:42:55 Imma be looking like the Michelin man
+general 2020-03-19 09:43:03 With my damn HVAC suit.
+general 2020-03-19 09:43:19 Not in wuhan
+general 2020-03-19 09:43:26 They just strappin on masks
+general 2020-03-19 09:43:30 that don't do ANYTHING
+general 2020-03-19 09:44:08 Oh but I have a perfect representation of what the Virus Is doing to the economy
+general 2020-03-19 09:44:11 Too bad it's NSFW
+general 2020-03-19 09:44:21 DM?
+general 2020-03-19 09:44:27 I warn you, it bad
+general 2020-03-19 09:45:19 WHY DOES EVERYONE WANT IT?!
+general 2020-03-19 09:46:06 Hehehe
+general 2020-03-19 09:46:35 
+general 2020-03-19 09:46:57 Naw
+general 2020-03-19 09:47:15 You know that that moment when you step on a lego
+general 2020-03-19 09:47:17 and  you like
+general 2020-03-19 09:47:38 **When you step on a lego**
+general 2020-03-19 09:48:46 
+general 2020-03-19 09:48:47 Kakashi Hella Gay
+general 2020-03-19 09:49:02 Don't think I didn't notice that little stunt you pulled.
+general 2020-03-19 09:49:10 Not even joking.
+general 2020-03-19 09:49:20 There is a Gif
+general 2020-03-19 09:49:47 https://tenor.com/view/naruto-kakashi-thienniensat-gif-8475779
+general 2020-03-19 09:50:12 Bruh
+general 2020-03-19 09:50:12 
+general 2020-03-19 09:50:15 That sounds wrong
+general 2020-03-19 09:50:22 That sounds ***WRONG*** IONA
+general 2020-03-19 09:50:25 STFU IONA
+general 2020-03-19 09:50:43 <:pain:644301805534183464>
+general 2020-03-19 09:51:02 https://tenor.com/view/crying-anime-sad-gif-5336156
+general 2020-03-19 09:51:28 https://tenor.com/view/gtfo-get-the-fuck-out-get-outta-here-kick-begone-gif-15924198
+general 2020-03-19 09:51:44 dan
+general 2020-03-19 09:51:49 What is your driving style?
+general 2020-03-19 09:52:01 Mine is backwards.
+general 2020-03-19 09:52:08 https://tenor.com/view/driving-backwards-emergency-lights-blinkers-what-are-you-doing-viral-hog-gif-13572554
+general 2020-03-19 09:52:33 
+general 2020-03-19 09:52:40 My friend tryna hit  up on my Dark Magician Girl card rn
+general 2020-03-19 09:52:56 He into Yu-Gi-Oh! too damn much.
+general 2020-03-19 09:53:13 He need to stop before I go hella Blue Eyes White Dragon on him
+general 2020-03-19 09:53:57 
+general 2020-03-19 09:59:50 
+general 2020-03-23 07:33:21 
+general 2020-03-23 07:33:58 <:OMEGALUL:528987216643489792>
+general 2020-03-24 07:52:39 People, people
+general 2020-03-24 07:52:56 
+general 2020-03-24 07:53:09 Komrade KV-2 has been sentenced to forever loneliness on an island for his crimes.
+general 2020-03-24 07:53:23 Press F to pay sorrow to Komrade KV-2
+general 2020-03-24 07:53:31 He will forever Social Distance
+general 2020-03-24 07:56:07 We've all made a grave mistake.
+general 2020-03-24 07:56:26 Komrade KV-2 stood for a final time to protec his country
+general 2020-03-24 07:56:29 And,
+general 2020-03-24 07:58:42 
+general 2020-03-24 07:58:46 As he sinks to the bottom of the ocean
+general 2020-03-24 07:59:11 We all grieve knowing that he died for a cause, for his country, for the motherland
+general 2020-03-24 07:59:34 His sacrifice will be forever known...
+general 2020-03-24 07:59:57 
+general 2020-03-24 07:59:58 Well, at least that's over
+general 2020-03-24 08:41:21 Goggle
+general 2020-06-25 00:41:36 Should I move my sub from <#384021699466756107> to <#384025409945337856>?
+general 2020-06-25 00:42:20 I will do it anyway
+general 2020-06-25 00:42:47 Ah, there is no verification channel.
+general 2020-06-25 00:42:55 But my ingame name is even stranger ah
+general 2020-06-25 00:43:30 ai, I'd rather Verify.
+creations-chat 2020-06-25 00:43:47 IVAN, DON'T LET GO!
+creations-chat 2020-06-25 00:43:56 He's between a
+creations-chat 2020-06-25 00:44:00 Wood grinder
+creations-chat 2020-06-25 00:44:06 and a wood grinder
+bot-central 2020-06-25 00:44:35 -reverify
+bot-central 2020-06-25 00:44:42 -reverify Thejetpilot1
+general 2020-06-25 00:45:22 yeah so I can't do the verification with the code
+general 2020-06-25 00:45:31 because to put a code into my description,
+general 2020-06-25 00:45:44 I need my security code for my account since it's on total lockdown after a hack attempt
+general 2020-06-25 00:45:55 and I can't access it myself
+general 2020-06-25 00:46:27 oh, one seond I'll try anyway
+bot-central 2020-06-25 00:46:38 -reverify Thejetpilot1
+general 2020-06-25 00:48:01 ohsh someone did hack me
+general 2020-06-25 00:48:24 all my stuff says I was "Hacked by: FNTClout"
+bot-central 2020-06-25 00:48:59 -reverify Thejetpilot1
+general 2020-06-25 00:49:24 There we go.
+creations-chat 2020-06-25 00:56:16 **major F**
+general 2020-06-25 00:56:56 whoah, I really really don't want to ask what's happening  in VC imma just chill.
+general 2020-06-25 00:57:36 I'm crying rn I love this
+general 2020-06-25 00:58:06 Yo dude I wanna get onto the server they're in
+creations-chat 2020-06-25 00:59:02 Why thank you lol huge pain in the behind
+creations-chat 2020-06-25 00:59:25 Same goes for me trying to shove a plane  into my Carrier Sub 401
+creations-chat 2020-06-25 00:59:29 Didn't even work.
+creations-chat 2020-06-25 01:00:08 ?
+general 2020-06-25 01:00:46 I need to get into that server
+creations-chat 2020-06-25 01:00:54 Sure.
+general 2020-06-25 01:01:28 wth
+general 2020-06-25 01:01:34 do I hear Fortnite in the background?
+creations-chat 2020-06-25 01:02:06 Because it's I-401 "Blue Steel"
+creations-chat 2020-06-25 01:02:38 Yes.
+creations-chat 2020-06-25 01:02:40 Exactly.
+creations-chat 2020-06-25 01:02:53 Technically I could have gone with Green or Reddish,
+creations-chat 2020-06-25 01:03:00 I'M TRYING
+creations-chat 2020-06-25 01:03:42 There.
+creations-chat 2020-06-25 01:03:44 
+creations-chat 2020-06-25 01:04:22 Legit seriously you never heard of Fleet of Fog sub?
+creations-chat 2020-06-25 01:04:35 Those are secondaries
+creations-chat 2020-06-25 01:04:45 I had to use hovers becus
+creations-chat 2020-06-25 01:04:51 It has like no wings
+creations-chat 2020-06-25 01:05:10 My sub has more Wing Panels than the  Sub.
+general 2020-06-25 01:05:37 Please shut  up about Tilted you Fortnite Nerd.
+creations-chat 2020-06-25 01:05:47 bruh
+creations-chat 2020-06-25 01:05:53 You never watched ARP?
+general 2020-06-25 01:09:55 Bro can you invite me to the server  you're on?
+general 2020-06-25 01:10:03 I want to see this
+general 2020-06-25 01:10:05 McDonalds
+general 2020-06-25 01:13:06 I need an Invite
+general 2020-06-25 01:13:20 One second
+general 2020-06-25 01:13:25 I think I can search them
+general 2020-06-25 01:13:44 It's beautiful
+general 2020-06-25 01:20:36 tf
+general 2020-06-25 01:20:39 are you watching
+general 2020-06-25 01:22:42 Motor 2 Guns.
+the-dump 2020-06-25 01:24:16 god damn you
+general 2020-06-25 01:24:54 50 MPH or 50 Speed?
+general 2020-06-25 01:25:11 bcus I did the math to translate Roblox Studs/s to MP/H
+general 2020-06-25 01:25:20 hot
+general 2020-06-25 01:25:33 lol
+general 2020-06-25 01:25:38 that was the perfect talking
+general 2020-06-25 01:25:50 *I'm getting in my PVP plane*
+general 2020-06-25 01:26:03 lol ye
+general 2020-06-25 01:26:20 The PVP server is full *cry*
+general 2020-06-25 01:26:22 Milk,
+general 2020-06-25 01:26:30 make a Stonehenge cannon from Ace Combat.
+general 2020-06-25 01:30:09 Just replace them.
+general 2020-06-25 01:30:25 You an use any parts.
+general 2020-06-25 01:31:22 ah hell
+general 2020-06-25 01:31:48 NO
+general 2020-06-25 01:47:04 No!
+general 2020-06-25 01:47:08 don't take me outl ol
+creations-chat 2020-06-25 02:20:29 Should I bring out my Police Speedster that hugs the maps side?
+creations-chat 2020-06-25 02:21:32 heh
+creations-chat 2020-06-25 02:23:22 hehe
+creations-chat 2020-06-25 02:23:23 
+creations-chat 2020-06-25 02:23:36 Skill, guess my location
+creations-chat 2020-06-25 02:24:44 yes, near the mountain
+creations-chat 2020-06-25 02:24:46 it just...
+creations-chat 2020-06-25 02:25:24 
+creations-chat 2020-06-25 02:25:25 may not be where you think.
+creations-chat 2020-06-25 02:26:11 
+creations-chat 2020-06-25 02:26:16 Sucction power
+creations-chat 2020-06-25 02:26:30 I can get back up too
+creations-chat 2020-06-25 02:26:34 and, if anything goes wrong,
+creations-chat 2020-06-25 02:26:52 deployable parachute
+creations-chat 2020-06-25 02:26:52 
+creations-chat 2020-06-25 02:27:05 However,
+creations-chat 2020-06-25 02:27:13 it can cause me to slip up and fall off the bottom
+general 2020-06-25 02:28:17 Someone called my Sen-Toku Submarine a  "Battleship, or possibly a Destroyer. That's not a submarine"
+general 2020-06-25 02:30:08 The carrier  sub I have can handle 3 Attack Seaplanes.
+creations-chat 2020-06-25 02:30:37 you read my mind
+the-dump 2020-06-25 02:31:00 oh lord
+the-dump 2020-06-25 02:31:06 The Girls und the Panzter
+the-dump 2020-06-25 02:31:28 Too bad I can't share my beautiful Fog ships with you if you only like the Girls unt the pantzer
+the-dump 2020-06-25 02:31:50 holy jeus
+creations-chat 2020-06-25 02:32:07 *insert halo theme*
+plane-crazy 2020-06-25 02:34:24 ah, I have  that  problem too.
+plane-crazy 2020-06-25 02:34:33 I have  a perfectly balanced sub
+plane-crazy 2020-06-25 02:34:40 and it lists badly to the left
+plane-crazy 2020-06-25 02:34:57 nah
+plane-crazy 2020-06-25 02:35:00 not even in water
+plane-crazy 2020-06-25 02:35:05 wait, I think I know the problem
+plane-crazy 2020-06-25 02:35:08 also, I have a  car
+plane-crazy 2020-06-25 02:35:14 that is constantly trying to turn right
+plane-crazy 2020-06-25 02:38:07 
+plane-crazy 2020-06-25 02:38:12 Horrifying
+plane-crazy 2020-06-25 02:38:37 Yeah, those are Turrets.
+plane-crazy 2020-06-25 02:38:41 Problem?.
+plane-crazy 2020-06-25 02:40:39 Davy jones is not giving you any money
+creations-chat 2020-06-25 02:41:49 But wait
+creations-chat 2020-06-25 02:41:55 ships are  alligned female
+creations-chat 2020-06-25 02:41:57 So...
+creations-chat 2020-06-25 02:42:01 Traps?
+plane-crazy 2020-06-25 02:43:00 Land Mode:
+plane-crazy 2020-06-25 02:43:03 **ACTIVATED**
+plane-crazy 2020-06-25 02:44:42 woah
+plane-crazy 2020-06-25 02:44:45 someone recognises it
+plane-crazy 2020-06-25 02:45:20 hot
+plane-crazy 2020-06-25 02:45:25 You know what I love?
+plane-crazy 2020-06-25 02:46:20 giant flying submarines
+plane-crazy 2020-06-25 02:46:22 
+plane-crazy 2020-06-25 02:46:45 
+plane-crazy 2020-06-25 02:46:55 Wwe need to legit meet and build a
+plane-crazy 2020-06-25 02:47:02 Nagara class
+plane-crazy 2020-06-25 02:47:26 where are you
+plane-crazy 2020-06-25 02:47:42 my I401 is totally impractical for combat
+plane-crazy 2020-06-25 02:47:46 except for on land
+plane-crazy 2020-06-25 02:47:50 it actually does better on land
+plane-crazy 2020-06-25 02:47:53 than underwater
+plane-crazy 2020-06-25 02:47:56 or in water at all
+plane-crazy 2020-06-25 02:48:09 That's it
+plane-crazy 2020-06-25 02:48:16 bring Takao around
+plane-crazy 2020-06-25 02:48:24 Or I'm dunking Iona in the lava
+plane-crazy 2020-06-25 02:48:48 show us the Takao
+plane-crazy 2020-06-25 02:49:22 yes
+plane-crazy 2020-06-25 02:50:26 HURRY
+plane-crazy 2020-06-25 02:50:27 
+plane-crazy 2020-06-25 02:50:29 I'M DUNKING HER
+plane-crazy 2020-06-25 02:51:08 I love gravity slide-
+plane-crazy 2020-06-25 02:51:52 Iona,
+plane-crazy 2020-06-25 02:51:59 Triangle Formation of Death
+plane-crazy 2020-06-25 02:52:04 
+plane-crazy 2020-06-25 02:52:24 I do that all the time,
+plane-crazy 2020-06-25 02:52:30 I'll sit in my base in PVP
+plane-crazy 2020-06-25 02:52:37 triangle it up into like a fortress
+plane-crazy 2020-06-25 02:52:48 and use my guns, missiles, and torps, as well as my flares
+plane-crazy 2020-06-25 02:52:54 to fight ppl
+general 2020-06-25 02:53:06 fv
+general 2020-06-25 02:53:09 Neo
+general 2020-06-25 02:53:20 teach me to Atago on land
+general 2020-06-25 02:53:46 they're Dive Bombers
+general 2020-06-25 02:53:51 basically Attack aircraft
+plane-crazy 2020-06-25 02:54:03 aagh
+plane-crazy 2020-06-25 02:54:06 Arpify!
+plane-crazy 2020-06-25 02:54:30 that lolmobile train I401
+plane-crazy 2020-06-25 02:54:38 Yes.
+plane-crazy 2020-06-25 02:55:00 why is your name battleship
+plane-crazy 2020-06-25 02:55:06 but your ign is Battlecruiser
+general 2020-06-25 02:55:20 bruh
+general 2020-06-25 02:55:35 The TU-95 that carried Tzar Bomba didn't have a Bomb Bay.
+general 2020-06-25 02:55:42 So, that means
+general 2020-06-25 02:55:44 in your words
+general 2020-06-25 02:55:46 it's not a bomber
+general 2020-06-25 04:46:12 You better be posting these to build in Plane Crazy
+general 2020-06-25 04:46:18 that'd be savage though.
+general 2020-06-25 04:46:24 some giant  guns.
+general 2020-06-25 04:46:37 with dettachable clips
+general 2020-06-25 04:47:10 how does changeable  ACOG/ Reflex sights sound?
+general 2020-06-25 04:50:20 Nerds: Mech
+general 2020-06-25 04:50:49 Also Nerds: Nega-Wisp Mechanic Suit
+general 2020-06-25 04:51:34 that floats
+general 2020-06-25 04:51:46 technically that seems scary.
+general 2020-06-25 04:51:52 it floats
+general 2020-06-25 04:51:54 and has arms
+general 2020-06-25 04:51:58 just stick some
+general 2020-06-25 04:52:03 cutters
+general 2020-06-25 04:52:07 on the arms
+general 2020-06-25 04:52:13 and rip all that come in it's path
+the-dump 2020-06-25 04:53:29 no.
+the-dump 2020-06-25 04:54:15 
+the-dump 2020-06-25 04:54:26 https://tenor.com/view/stonks-up-stongs-meme-stocks-gif-15715298
+the-dump 2020-06-25 04:55:25 
+the-dump 2020-06-25 04:55:52 
+general 2020-06-25 05:02:32 aight
+the-dump 2020-06-26 01:46:15 mk I just found the most  creative thing ever in roblox
+the-dump 2020-06-26 01:46:24 this is  as  creative as Roblox has ever been
+the-dump 2020-06-26 01:46:29 
+the-dump 2020-06-26 01:46:31 a giant black room
+the-dump 2020-06-26 01:46:37 with like 40 ppl
+creations-chat 2020-06-26 20:56:45 Sorry explain how the hell Light Cruiser is wrong.
+creations-chat 2020-06-26 20:57:09 it's supposed to be brigt
+creations-chat 2020-06-26 20:57:16 
+creations-chat 2020-06-26 20:57:17 ack
+creations-chat 2020-06-26 20:57:21 okay maybe a little too bright
+creations-chat 2020-06-26 20:58:11 Yes, but it rotates.
+creations-chat 2020-06-26 20:58:27 Heavy Cruisers do that as well.
+creations-chat 2020-06-26 20:58:48 The perfect example of this is the Takao-class Heavy Cruiser
+creations-chat 2020-06-26 20:59:18 
+creations-chat 2020-06-26 20:59:35 
+the-dump 2020-06-26 23:21:20 When you accidentally put a disconnector on the landing gear instead of  a motor
+the-dump 2020-06-26 23:21:25 https://tenor.com/view/bad-day-accident-plane-wheel-gif-16013352
+general 2020-06-30 09:18:15 😮
+general 2020-06-30 09:18:19 Dio
+general 2020-06-30 09:18:43 Pick a number between 1-100, be careful, you're deciding a mans Automotive future
+general 2020-06-30 09:19:02 Yes!
+general 2020-06-30 09:19:05 THANKYOU THANKYOU
+general 2020-06-30 09:19:24 Sorry 1969 Dodge Coronet R/T 440 Magnum, but he chose the 1968 Plymouth Barracuda, good choice.
+general 2020-07-02 04:58:39 Plane crazy Air Shows:
+general 2020-07-02 05:01:07 Shredders like
+general 2020-07-02 05:01:30 224jay
+general 2020-07-02 05:01:33 Nice Richelieu
+general 2020-07-07 05:57:04 You need Allah, not even jesus can save you.
+general 2020-07-07 05:57:41 https://tenor.com/view/wide-putin-walk-wide-screen-expanded-gif-17474729
+general 2020-07-07 05:57:47 Wide Putin
+general 2020-07-07 05:57:58 Ah crap my Macintosh just caught on fire
+general 2020-07-07 05:59:08 <:FalconStance1:715614632655454269><:FalconStance2:715614633737584691><:FalconStance3:715614633972727878>
+general 2020-07-07 06:00:28 Stay away from my son you vile creep!
+general 2020-07-07 06:00:35 damn
+general 2020-07-07 06:00:41 <:BIG1:588443768806703124><:BIG2:588443778554134540>
+<:BIG3:588443788721258534><:BIG4:588443798842114088>
+general 2020-07-07 06:00:49 damn boy...
+general 2020-07-07 06:00:56 DAMN BOY HE'S THICK
+general 2020-07-07 06:01:01 BOI, THAT'S A THICK ASS BOY,
+general 2020-07-07 06:01:02 DAMN
+general 2020-07-07 06:01:54 <:thchoink:527880803456122891>
+general 2020-07-07 06:02:03 oh now you gonna be like ;C sad face  now?
+general 2020-07-07 06:02:30 FREDDY MERCURY WILL NOW
+general 2020-07-07 06:02:32 BEAT YOU
+general 2020-07-07 06:02:34 
+general 2020-07-07 06:03:54 ohnvm he's busy beating  Atago <:OMEGALUL:528987216643489792>
+general 2020-07-07 06:04:25 <:KEKW:670310537300672528> you think you're leaving?
+general 2020-07-07 06:05:06 <:Duck:606204496695001091> nonono, come back here. You're not going anywhere son.
+general 2020-07-07 06:05:53 GET BACK IN HERE RIGHT NOW
+general 2020-07-07 06:06:13 ENTY IS ANGRI AT YOU
+general 2020-07-07 06:06:55 ok but before you go
+general 2020-07-07 06:06:58 don't forget these
+general 2020-07-07 06:07:00 
+general 2020-07-07 06:07:20 <:OMEGALUL:528987216643489792>
+general 2020-07-07 06:07:41 <:kek:652566605028524033> <:KEKW:670310537300672528> <:MyDolphinIsntWorking:552912733008429081>
+general 2020-07-07 06:09:09 
+general 2020-07-07 06:10:17 
+general 2020-07-07 06:10:36 
+general 2020-07-07 06:11:10 
+general 2020-07-07 06:11:40 
+general 2020-07-07 06:23:30 ohh pffft blocked me cuz I beat em good lol
+general 2020-07-07 06:23:32 
+general 2020-07-07 06:23:45 lawl
+general 2020-07-07 06:23:52 oh wait
+general 2020-07-07 06:24:12 you just disabled DM's from the server
+general 2020-07-07 06:24:18 
+general 2020-07-07 06:24:46 
+general 2020-07-07 06:25:07 
+general 2020-07-07 06:25:28 
+general 2020-07-07 06:25:49 ack, I have to of gone anyway
+general 2020-07-07 06:26:10 <:Pinged:508027985190715457> I leveled
+general 2020-07-07 06:26:36 <:NotFunny:602000308154925057>
+general 2020-07-07 06:27:02 <@!636996526878490624> you're Minimodding
+general 2020-07-07 06:27:23 don't.
+general 2020-07-07 06:27:49 Oh boy...
+general 2020-07-07 06:28:01 He's giving staff directions,
+general 2020-07-07 06:28:13 I mean Purified just gave that same  exact request.
+general 2020-07-07 06:28:30 The fact he's telling me to move to another  channel is  minimodding
+general 2020-07-07 06:28:38 But he's not  a  mod.
+general 2020-07-07 06:28:48 Yeah, and they get warned.
+general 2020-07-07 06:28:50 For Minimodding.
+general 2020-07-07 06:28:59 they do.
+general 2020-07-07 06:29:22 I'm completely chill lol, I'm just saying that you're minimodding.
+general 2020-07-07 06:29:53 wait a second.
+general 2020-07-07 06:29:55 Aha!
+general 2020-07-07 06:30:08 Mini Modding is when someone is trying to take over the job of Moderator. This person is most likely willing to become an actual Moderator and is trying to act like one to show he/she is fit for it. When someone is Mini Modding (Mini Moderating ) he/she will try to take over small Moderator jobs like: *Telling people to post at the right place.*
+general 2020-07-07 06:30:29 ***Telling people to post at the right place.***
+general 2020-07-07 06:30:34 Right there!
+general 2020-07-07 06:30:57 Black_Bird
+general 2020-07-07 06:31:57 99.
+general 2020-07-07 06:32:17 it says it right there.
+general 2020-07-07 06:33:10 Because I literally read you a Dictionary definition with that EXACT example to you,
+general 2020-07-07 06:33:16 and you're still
+general 2020-07-07 06:33:20 defending his cause
+general 2020-07-07 06:33:53 Sorry where?
+general 2020-07-07 06:34:03 What do you mean a Name Change?
+general 2020-07-07 06:34:11 ohlol
+general 2020-07-07 06:34:36 Shredders are too Overrated
+general 2020-07-07 07:08:07 What?
+general 2020-07-07 07:08:35 Sorry, I was too busy dealing with the fact that I lost an entire Gamepass somehow.
+general 2020-07-07 07:08:44 So yeah.
+general 2020-07-07 07:08:53 haha
+general 2020-07-07 07:08:57 HAHA
+the-dump 2020-07-08 00:59:18 
+the-dump 2020-07-14 06:06:34 *A ship cannot attack a Submari-*
+the-dump 2020-07-14 06:06:57 Surcoaf called, they want their  joke back
+plane-crazy 2020-07-14 07:50:02 FV that tank is Uncanny
+plane-crazy 2020-07-14 09:12:13 Mega
+plane-crazy 2020-07-14 09:12:14 woah
+plane-crazy 2020-07-14 09:12:31 224, what ship class is that?
+plane-crazy 2020-07-14 09:12:47 What did you base it off?
+plane-crazy 2020-07-14 09:13:11 Almost looks like a *Kongo*-class Base
+plane-crazy 2020-07-14 09:13:17 Welp,
+plane-crazy 2020-07-14 09:13:46 Here's a little  cinematic-like of *U-2501*, *Milchkuh*, and some partials of the little *Seehund* Midget Subs.
+plane-crazy 2020-07-14 09:14:23 Lonk
+plane-crazy 2020-07-14 09:14:24 Ye
+plane-crazy 2020-07-14 09:14:28 Does look like a Kongo
+plane-crazy 2020-07-14 09:15:04 I mean Kongo base.
+plane-crazy 2020-07-14 09:15:18 Turret Placement and Superstructure, along  with hull
+plane-crazy 2020-07-14 09:16:16 I don't know if anybody remembers  my Endeaver to build *I-401*, but it was just Absolut Lag
+plane-crazy 2020-07-14 09:16:32 While *U-2501* seems to be much smoother
+plane-crazy 2020-07-14 09:16:45 Likely because of size difference, One second..
+plane-crazy 2020-07-14 09:17:48 As you see,
+plane-crazy 2020-07-14 09:17:57 Sen-Toku *I-401*
+plane-crazy 2020-07-14 09:18:31 Lol they look like Rookie Phalanx guns
+plane-crazy 2020-07-14 09:19:02 and then, to compare with Sen-Toku *I-401*,
+plane-crazy 2020-07-14 09:19:18 *U-2501* with *Milchkuh* and *Seehund* Midget Subs.
+plane-crazy 2020-07-14 09:20:56 and  heck, to even compare,
+plane-crazy 2020-07-14 09:21:04 Light Cruiser *Nagara*
+plane-crazy 2020-07-14 09:21:22 Not sure Fish.
+plane-crazy 2020-07-14 09:21:55 I'm having  a problem with Nagara though,
+plane-crazy 2020-07-14 09:22:07 Whenever my Smoke is going, and I start Accelerating forward,
+plane-crazy 2020-07-14 09:22:12 The smoke goes  forward.
+plane-crazy 2020-07-14 09:22:28 and ends up enveloping my forward mask
+plane-crazy 2020-07-14 09:22:30 mast*
+plane-crazy 2020-07-14 09:22:40 Is this a bug?
+plane-crazy 2020-07-14 09:23:39 as you see here.
+plane-crazy 2020-07-14 09:23:51 I'm moving forward.
+plane-crazy 2020-07-14 09:23:58 Ah, as I thought lol
+plane-crazy 2020-07-14 09:24:25 I did take advantage of those nice Motor2's for my Turrets on both *I-401* and *Nagara*
+plane-crazy 2020-07-14 09:24:41 Yeah, I have  *Fixed* Option on
+plane-crazy 2020-07-14 09:24:44 On all of them.
+plane-crazy 2020-07-14 09:25:22 but yeah, I had to completely build *U-2501*'s hull from scratch.
+plane-crazy 2020-07-14 09:25:46 aha
+plane-crazy 2020-07-14 09:26:15 Reminds me of a *Schlachtschiff H* design Battleship.
+plane-crazy 2020-07-14 09:26:48 Wait
+plane-crazy 2020-07-14 09:26:54 Supensionity
+plane-crazy 2020-07-14 09:27:01 Are those Richelieu guns?
+plane-crazy 2020-07-14 09:27:14 Cool.
+plane-crazy 2020-07-14 09:27:22 Well,
+plane-crazy 2020-07-14 09:27:31 I noticed instantly from the Quad-barrel Design.
+plane-crazy 2020-07-14 09:27:58 And the difference between the Richelieu multiple Quad barrel and the  *King George V*'s Single Forward Quad Turret.
+plane-crazy 2020-07-14 09:28:39 Althought I am confused,
+plane-crazy 2020-07-14 09:29:01 as to why the Hull Bulge is contained within the hull itself.
+plane-crazy 2020-07-14 09:29:08 and not seperate.
+plane-crazy 2020-07-14 09:29:14 Is it detail?
+plane-crazy 2020-07-14 09:29:24 Ah.
+plane-crazy 2020-07-14 09:29:30 Detail choice or Detail Limits?
+plane-crazy 2020-07-14 09:29:43 It would be pretty hard to seperate bulge from the red of the bow.
+plane-crazy 2020-07-14 09:29:58 But also would make it fairly unstable as I could  gues-
+plane-crazy 2020-07-14 09:30:07 *spits out the water I had* woah lol
+plane-crazy 2020-07-14 09:30:26 That is quite intimidating.
+plane-crazy 2020-07-14 09:30:41 I don't think he knows,
+plane-crazy 2020-07-14 09:30:49 those guns  weren't fitted with PVP weaponry
+plane-crazy 2020-07-14 09:31:03 Dude, I want yo join your server lol
+plane-crazy 2020-07-14 09:31:25 shinx,
+plane-crazy 2020-07-14 09:31:49 > battleships have vanished from the pvp gamemode
+<@!434989303882579981> 
+it's because they get assaulted by shredders
+plane-crazy 2020-07-14 09:32:18 They've been outpowered by Bombers and  Shredder Bugs
+plane-crazy 2020-07-14 09:32:34 As well as my fun little  Drone Turret Platform.
+plane-crazy 2020-07-14 09:33:21 Well, not really true for me
+plane-crazy 2020-07-14 09:33:28 I'll shoot them up, but for some reason
+plane-crazy 2020-07-14 09:33:40 Either due to Roblox physics or something else,
+plane-crazy 2020-07-14 09:33:43 it just keeps flying
+plane-crazy 2020-07-14 09:33:59 It'll be missing about 2/3 of the shredder but it's  still flying around
+plane-crazy 2020-07-14 09:34:32 I just realized what your actual name was
+plane-crazy 2020-07-14 09:34:46 Roblox Physics when you shoot a shredder bug in half
+plane-crazy 2020-07-14 09:34:49 *Ah yes, the Negotiator*
+plane-crazy 2020-07-14 09:36:35 You wouldn't mind if  I built a 40-mile long runway, wouldn't you?
+plane-crazy 2020-07-14 09:36:55 oh nevermind, something else just took precidence >:)
+plane-crazy 2020-07-14 09:37:34 Ah, this will require me to strip off *I-401*'s entire deck.
+plane-crazy 2020-07-14 09:38:17 Except for Gravity Slider
+plane-crazy 2020-07-14 09:40:26 I need an opinion from some genuine PC players,
+plane-crazy 2020-07-14 09:41:09 Should people actually think less of other people if they use Tutorials?
+plane-crazy 2020-07-14 09:41:32 Because  I see people who use Tutorials alot, and alot of the people on the  server just start yelling at them for having absolutely no skill
+plane-crazy 2020-07-14 09:42:29 Well,
+plane-crazy 2020-07-14 09:42:48 I'll look at Tutorials to pick up on little details,
+plane-crazy 2020-07-14 09:43:13 to kinda find little details to help when I'm building my own stuff
+plane-crazy 2020-07-14 09:43:37 almost like tips or just genuine designs.
+plane-crazy 2020-07-14 09:43:51 Like my AA mounts on my *I-401*
+plane-crazy 2020-07-14 09:44:19 I got the design idea for the AA mounts on my submarine from a Truck tutorial.
+plane-crazy 2020-07-14 09:44:34 Not copying,
+plane-crazy 2020-07-14 09:44:59 I really don't care about your opinion.
+plane-crazy 2020-07-14 09:45:12 wow, ok
+plane-crazy 2020-07-14 09:45:26 I built the entire  submarine and  I needed Design ideas for the Turrets,
+plane-crazy 2020-07-14 09:45:30 so after looking around,
+plane-crazy 2020-07-14 09:45:47 I compiled some tricks other people used along with my own twist,
+plane-crazy 2020-07-14 09:46:01 and  made completely custom AA Mounts.
+plane-crazy 2020-07-14 09:46:10 Using details  and  tricks I saw other people use,
+plane-crazy 2020-07-14 09:46:17 Nah, I don't  do those
+plane-crazy 2020-07-14 09:46:22 No offense but gross
+plane-crazy 2020-07-14 09:47:01 I'll just take little things like Turret designs or say Vehicle shapes, etc.
+plane-crazy 2020-07-14 09:47:18 and I'll use it to support when I build  a Custom build.
+plane-crazy 2020-07-14 09:47:35 It's actually quite interesting  what you come up with.
+plane-crazy 2020-07-14 09:47:39 eXoKay
+plane-crazy 2020-07-14 09:48:10 are you deaf or blind  I just said 
+> I really don't care about your opinion.
+No offense but you fuck
+plane-crazy 2020-07-14 09:48:35 Not you, Exo
+plane-crazy 2020-07-14 09:49:13 One second  I got pinged
+plane-crazy 2020-07-14 09:49:31 Mk we're launching Sputnik 1 cool.
+plane-crazy 2020-07-14 09:50:21 Exactly my point
+plane-crazy 2020-07-14 09:50:26 I'll have to go see then.
+plane-crazy 2020-07-14 09:50:35 Where
+plane-crazy 2020-07-14 09:51:06 <:FalconStance1:715614632655454269><:FalconStance2:715614633737584691><:FalconStance3:715614633972727878>
+plane-crazy 2020-07-14 09:51:27 Shinji what is your pfp from lmfao
+plane-crazy 2020-07-14 09:52:15 yo that's amazing
+plane-crazy 2020-07-14 09:52:25 Yo that's Flexing
+plane-crazy 2020-07-14 09:52:31 uh
+plane-crazy 2020-07-14 09:52:43 It's a Russian tank made out of Tiles lol
+plane-crazy 2020-07-14 09:52:58 Like the tiles  in my kitchen
+plane-crazy 2020-07-14 09:53:02 Woah
+plane-crazy 2020-07-14 09:53:07 Sorry Screaming Fox Kid
+plane-crazy 2020-07-14 09:53:16 sounds like a Ree Kid VRchat video
+plane-crazy 2020-07-14 09:53:47 yo moc what the fuck is À
+plane-crazy 2020-07-14 09:54:20 Woah I got told not to spam
+plane-crazy 2020-07-14 09:54:25 oh I see
+plane-crazy 2020-07-14 09:54:38 Yeah you used À to bypass Dyno
+plane-crazy 2020-07-14 09:54:44 Kool
+plane-crazy 2020-07-14 09:55:25 Bruh
+plane-crazy 2020-07-14 09:55:35 Oh my god that Monocle is giving my Flashbacks
+plane-crazy 2020-07-14 09:55:39 https://tenor.com/view/war-gif-13170560
+plane-crazy 2020-07-14 09:55:49 oh my god yo
+plane-crazy 2020-07-14 09:55:52 light bulb
+plane-crazy 2020-07-14 09:56:15 > i finally make money
+<@!409676438682206218> time to pay off your debt to the Mafia
+plane-crazy 2020-07-14 09:56:35 Pay your debt to the mafia
+plane-crazy 2020-07-14 09:56:38 now
+plane-crazy 2020-07-14 09:57:03 The Middle class must rise up.
+plane-crazy 2020-07-14 09:57:08 Fight the man.
+plane-crazy 2020-07-14 09:57:35 If we don't stop this, the Globalists will get rid of the Middle Class.
+plane-crazy 2020-07-14 09:57:52 gotta head out
+creations-chat 2020-07-14 19:17:26 <:OMEGALUL:528987216643489792>
+the-dump 2020-07-14 19:40:24 
+the-dump 2020-07-14 19:43:02 What in the lol is that video
+the-dump 2020-07-14 19:43:05 That's earrape
+the-dump 2020-07-14 19:43:10 Ow
+the-dump 2020-07-14 19:43:12 my ears
+the-dump 2020-07-14 19:43:29 
+the-dump 2020-07-14 19:44:41 Woah this  server is intensely sensitive
+the-dump 2020-07-14 19:44:47 
+the-dump 2020-07-14 19:45:18 They tried to crop out  the Swast sorry doe
+the-dump 2020-07-14 19:45:52 Holy fucking ping
+the-dump 2020-07-14 19:46:22 https://tenor.com/view/its-time-to-stop-stop-clock-time-gif-5001372
+plane-crazy 2020-07-16 18:59:25 Look I am sorry about what I did.
+plane-crazy 2020-07-16 19:00:14 Who?
+plane-crazy 2020-07-16 19:01:04 aight ppl don't mind me
+plane-crazy 2020-07-16 19:01:15 just  gonna Emulate PC in MC
+plane-crazy 2020-07-16 19:01:50 Sorry, I blocked the  name bcus
+plane-crazy 2020-07-16 19:01:52 It's an alt,
+plane-crazy 2020-07-16 19:01:57 becus my actual acc
+plane-crazy 2020-07-16 19:01:59 has security
+plane-crazy 2020-07-16 19:02:03 and I don't feel like
+plane-crazy 2020-07-16 19:02:09 taking the time and effort
+plane-crazy 2020-07-16 19:02:20 to login to a Secure acount
+plane-crazy 2020-07-16 19:02:48 It's not an image though.
+plane-crazy 2020-07-16 19:03:26 Yeah I'm emulating Roblox  using a mod
+plane-crazy 2020-07-16 19:03:32 Matter a fact I  can Emulate  Discord  with the same one
+general 2020-07-16 19:04:06 Bruh.
+plane-crazy 2020-07-16 19:05:07 I remember
+plane-crazy 2020-07-16 19:05:12 I had an early endeavure
+plane-crazy 2020-07-16 19:05:15 to try and build
+plane-crazy 2020-07-16 19:05:20 an enlarged version
+plane-crazy 2020-07-16 19:05:25 of the rocket launcher-
+plane-crazy 2020-07-16 19:06:32 It's a bug
+plane-crazy 2020-07-16 19:06:47 I'm going to find a way to suggest a Torpedo launcher...
+plane-crazy 2020-07-16 19:08:38 oh.
+general 2020-07-16 19:08:48 When the Emulation gets serious
+general 2020-07-16 19:09:07 
+general 2020-07-16 19:09:12 It happens
+plane-crazy 2020-07-16 19:09:55 
+general 2020-07-16 19:10:42 Yo that is deep tho
+plane-crazy 2020-07-16 19:17:30 no bro
+plane-crazy 2020-07-16 19:17:34 virus
+the-dump 2020-07-16 22:20:36 Shh doin some really important spying on the ruskies
+the-dump 2020-07-17 09:34:34 awwwwhh fu-
+plane-crazy 2020-07-17 09:35:44 That almost reminds me of  Izumo
+plane-crazy 2020-07-17 09:36:20 I does kinda remind me of Izumo
+plane-crazy 2020-07-17 09:36:29 Yamato superstructure
+plane-crazy 2020-07-17 09:37:45 lol
+plane-crazy 2020-07-17 09:37:51 that really looks like Izumo
+plane-crazy 2020-07-17 09:38:32 Now this.
+This  Izumo.
+Looks like something someone would build in Plane Crazy legit no lie.
+plane-crazy 2020-07-17 09:38:41 no get your Richelieu Successor off my screen.
+plane-crazy 2020-07-17 09:38:57 Suspens that Richelieu Successor lol
+plane-crazy 2020-07-17 09:39:15 I said
+plane-crazy 2020-07-17 09:39:18 *Successor*
+plane-crazy 2020-07-17 09:39:19 you
+plane-crazy 2020-07-17 09:39:20 dote
+plane-crazy 2020-07-17 09:40:18 I know you're messing with me lol.
+plane-crazy 2020-07-17 09:40:59 Seriously.
+plane-crazy 2020-07-17 09:41:04 Richelieu Successor.
+plane-crazy 2020-07-17 09:41:16 Which, would have been uhhh
+plane-crazy 2020-07-17 09:41:48 Well actually
+plane-crazy 2020-07-17 09:41:51 I'm wrong
+plane-crazy 2020-07-17 09:42:13 Richelieu successor was *Alsace*
+plane-crazy 2020-07-17 09:42:31 Seriously,
+plane-crazy 2020-07-17 09:43:17 Ah
+plane-crazy 2020-07-17 09:43:18 Yes
+plane-crazy 2020-07-17 09:43:22 another Fictional
+plane-crazy 2020-07-17 09:43:53 Wow
+plane-crazy 2020-07-17 09:43:57 Suspen
+plane-crazy 2020-07-17 09:44:01 Azuma was an
+plane-crazy 2020-07-17 09:44:04 Armored Cruiser
+plane-crazy 2020-07-17 09:44:15 Technically named *Adzuma*
+plane-crazy 2020-07-17 09:44:23 Armored Cruiser
+plane-crazy 2020-07-17 09:44:26 not Heavy  Ccruiser
+plane-crazy 2020-07-17 09:44:32 that's because WoWS has fictionals
+plane-crazy 2020-07-17 09:44:35 Like the Izumo BB
+plane-crazy 2020-07-17 09:44:54 Izumo is also an Armored cruiser.
+plane-crazy 2020-07-17 09:45:03 But Wargaming gave us a Super BB
+plane-crazy 2020-07-17 09:45:24 But it's the same concept,
+plane-crazy 2020-07-17 09:45:35 One ship having the same  name  as a much lighter ship,
+plane-crazy 2020-07-17 09:45:43 but being totally buffed and  fictional,
+plane-crazy 2020-07-17 09:45:48 Wow.
+plane-crazy 2020-07-17 09:45:55 I'm not 100% Naval History, hah
+plane-crazy 2020-07-17 09:46:03 YOU'RE NOT OMNIPOTENT
+plane-crazy 2020-07-17 09:46:09 Ok lol
+plane-crazy 2020-07-17 09:46:23 well anyway lol I was just going to say
+plane-crazy 2020-07-17 09:47:25 Ur Fictional Heavy Cruiser Azuma reminds me of my Fiction Mogami Successor Heavy Cruiser Satsuma.
+plane-crazy 2020-07-17 09:48:30 hmm...
+plane-crazy 2020-07-17 09:48:35 Nah
+plane-crazy 2020-07-17 09:48:41 ofc not,
+plane-crazy 2020-07-17 09:48:54 too recenlty designed looking.
+plane-crazy 2020-07-17 09:49:10 Older Carriers like Graf Zep have a certain look to them.
+plane-crazy 2020-07-17 09:49:11 yeah lol
+plane-crazy 2020-07-17 09:49:13 Akagi Bow.
+plane-crazy 2020-07-17 09:49:16 oof
+plane-crazy 2020-07-17 09:49:36 you literally have the oof Akagi Breach bow ther, where it protrudes the flght deck.
+plane-crazy 2020-07-17 09:49:47 Anyway gotta head out
+plane-crazy 2020-07-17 09:49:51 https://tenor.com/view/peace-gif-9727828
+the-dump 2020-07-17 18:48:48 Oh my god
+the-dump 2020-07-17 18:48:56 is the most beautiful thing  I've ever  seen
+the-dump 2020-07-17 18:49:07 Love the addition of the
+the-dump 2020-07-17 18:49:18 *Unexploded RPG*
+the-dump 2020-07-17 18:49:28 
+the-dump 2020-07-17 18:49:49 Wait
+the-dump 2020-07-17 18:49:52 How to make army
+the-dump 2020-07-17 18:49:55 Steal the  box
+the-dump 2020-07-17 18:50:03 and then just take all the  guns out  of the box.
+the-dump 2020-07-17 18:50:09 That's alot  of  guns.
+the-dump 2020-07-17 19:07:50 https://cdn.discordapp.com/attachments/680130547334643856/733232487567982673/video0.mp4
+the-dump 2020-07-17 19:30:09 Brehd
+the-dump 2020-07-17 20:33:48 Purified
+the-dump 2020-07-17 20:34:15 How fucking blatantly disregarding are white people
+the-dump 2020-07-17 20:35:03 The Beer company *Yellow  Belly* just  released this beer to promote "Anti-Racism" efforts.
+the-dump 2020-07-17 20:35:33 Oh  my  god these idiots, the timing  couldn't be WORSE.
+plane-crazy 2020-07-21 08:53:17 Holy frick Maple
+plane-crazy 2020-07-21 08:53:23 Was that an Eclipse?
+the-dump 2020-07-21 08:53:50 The ultimate form:
+C-130 mixed with P.1500 Monster =
+the-dump 2020-07-21 08:53:52 God Itself.
+plane-crazy 2020-07-21 08:58:20 My bro never ping me again or I will make ur disappearance the gangs next mystery
+plane-crazy 2020-07-21 08:59:44 I'm so mad
+plane-crazy 2020-07-21 09:00:15 Now imma build an Aichi M6A Seiran.
+plane-crazy 2020-07-21 09:00:33 WOAH
+plane-crazy 2020-07-21 09:01:09 I want that map too
+plane-crazy 2020-07-21 09:02:51 bruh imma now build Aichi M6A Seiran because I have a SenToku 私401 Carrier because, well I'll let this explain.
+plane-crazy 2020-07-21 09:03:23 I needa make my SenToku 私401 capable of this for my M6A
+the-dump 2020-07-21 09:04:34 Bruh
+the-dump 2020-07-21 09:04:50 I swear my dude that's what I saw when I was  on Acid how'd you know
+plane-crazy 2020-07-21 09:08:36 WHO PINGED
+plane-crazy 2020-07-21 09:09:07 Bruh what is that
+plane-crazy 2020-07-21 09:09:12 Wow that  is
+plane-crazy 2020-07-21 09:09:14 Amazing
+plane-crazy 2020-07-21 09:09:31 Sus don't ping me to look at a meme
+plane-crazy 2020-07-21 09:09:37 I'm fishing dood
+plane-crazy 2020-07-21 09:10:38 bruh
+plane-crazy 2020-07-21 09:10:58 when you use Magnet Drives for like a Hyperdrive lol
+plane-crazy 2020-07-21 09:11:22 Bro Sus
+plane-crazy 2020-07-21 09:11:28 I swear that pic reminds me
+plane-crazy 2020-07-21 09:11:32 some time
+plane-crazy 2020-07-21 09:11:38 imma have to farm out Alts
+plane-crazy 2020-07-21 09:11:48 fill a Private server,
+plane-crazy 2020-07-21 09:11:58 and have each one build a section of a Cruise ship
+plane-crazy 2020-07-21 09:12:07 and  then just connect them
+plane-crazy 2020-07-21 09:12:15 Dude that'd be amazing though.
+plane-crazy 2020-07-21 09:12:18 Not folding them,
+plane-crazy 2020-07-21 09:12:31 But building it 1:1 using Alts to connet different blocks of the ship.
+plane-crazy 2020-07-21 09:12:33 Sly,
+plane-crazy 2020-07-21 09:12:35 it's scalled
+plane-crazy 2020-07-21 09:12:39 Moniters
+plane-crazy 2020-07-21 09:12:43 Just have like
+plane-crazy 2020-07-21 09:12:45 100 Moniters
+plane-crazy 2020-07-21 09:13:04 Lol not  rn I gotta work on this M6A becus I have nothing  else to do
+plane-crazy 2020-07-21 09:13:54 I'm on a 100+ ft Commercial Fishing Vessel and I have  like 4 hours until my next shift and  I can't sleep
+plane-crazy 2020-07-21 09:14:04 So I gotta occupy myself hrm
+plane-crazy 2020-07-21 09:14:17 holy
+plane-crazy 2020-07-21 09:14:24 Shinx
+plane-crazy 2020-07-21 09:14:29 when you of
+plane-crazy 2020-07-21 09:14:44 Place a ton of guns and Rockets in the Axial Laser position
+plane-crazy 2020-07-21 09:14:53 fly over  someone
+plane-crazy 2020-07-21 09:14:54 and just
+plane-crazy 2020-07-21 09:14:56 RAIN
+plane-crazy 2020-07-21 09:15:01 BRO CAN I JOIN UR SERVER?
+plane-crazy 2020-07-21 09:15:33 I recently got my ARS Rori to actually be Practical.
+plane-crazy 2020-07-21 09:15:46 cool.
+plane-crazy 2020-07-21 09:15:48 Wait
+plane-crazy 2020-07-21 09:15:50 Oh yeah,
+plane-crazy 2020-07-21 09:16:01 I forgot that the Axial laser doesn't come out the bottom of the ram.
+plane-crazy 2020-07-21 09:16:29 Shinx,
+plane-crazy 2020-07-21 09:16:41 When will it be time to commit UNSC Infinity lol
+plane-crazy 2020-07-21 09:16:57 oh... Shinx
+plane-crazy 2020-07-21 09:17:01 thinking about Inf
+plane-crazy 2020-07-21 09:17:05 Just put the  picture of
+plane-crazy 2020-07-21 09:17:09 a giant death star
+plane-crazy 2020-07-21 09:17:14 But using the Hover Ball tactic
+plane-crazy 2020-07-21 09:17:26 Lol
+plane-crazy 2020-07-21 09:17:36 Which sounds better, Death Star or  Lucre?
+plane-crazy 2020-07-21 09:17:46 lol-
+plane-crazy 2020-07-21 09:17:47 oh  god
+plane-crazy 2020-07-21 09:17:49 Sneaky
+plane-crazy 2020-07-21 09:17:52 when you put
+plane-crazy 2020-07-21 09:17:57 a bunch of Shredders into the Lucre
+plane-crazy 2020-07-21 09:18:01 and  fly around
+plane-crazy 2020-07-21 09:18:07 yeah
+plane-crazy 2020-07-21 09:18:27 Dude, ppl would hate me if I filled a damn Lucre  with Shredders
+plane-crazy 2020-07-21 09:18:35 Can you imagine it?
+plane-crazy 2020-07-21 09:18:52 Bruh for a  second  I thought he Server mod's name  was Jailbreakium
+plane-crazy 2020-07-21 09:19:12 and  was gonna be  like *damn, how many ores they got in Azure Mines now lol*
+plane-crazy 2020-07-21 09:19:24 Bruh Yoder
+plane-crazy 2020-07-21 09:20:09 So I added  Extending  Pontoons, more Ballasts, Helium, and removed weight from Light Cruiser Rori to try and  make it as Practical as it can be
+plane-crazy 2020-07-21 09:21:39 I feel bad for the  person who just jumped into the Hole in my hull lol
+plane-crazy 2020-07-21 09:22:29 Sus what does that mean
+plane-crazy 2020-07-21 09:22:31 The Ark Nova
+plane-crazy 2020-07-21 09:23:08 Dude  you forgot the delete the spaces lmfao
+plane-crazy 2020-07-21 09:23:38 Bruh ok
+plane-crazy 2020-07-21 09:23:51 I thought you had insulted Ars Nova for  a sec there
+plane-crazy 2020-07-21 09:23:54 and  was gonna be
+plane-crazy 2020-07-21 09:23:56 *fury*
+plane-crazy 2020-07-21 09:24:33 What ur fleet
+plane-crazy 2020-07-21 09:24:43 bro then I'll have to use  my Birb
+plane-crazy 2020-07-21 09:25:04 The day will come when I will strap shredders to the Birb
+plane-crazy 2020-07-21 09:25:27 Yo 224jay
+plane-crazy 2020-07-21 09:25:40 I see we have a fellow Combato fan here
+plane-crazy 2020-07-21 09:25:47 Bro oh god
+plane-crazy 2020-07-21 09:26:00 So many shredders
+plane-crazy 2020-07-21 09:26:18 Yes
+plane-crazy 2020-07-21 09:26:24 Sadly
+plane-crazy 2020-07-21 09:26:26 it has like
+plane-crazy 2020-07-21 09:26:31 YES
+plane-crazy 2020-07-21 09:26:33 224
+plane-crazy 2020-07-21 09:26:35 Sadly,
+plane-crazy 2020-07-21 09:26:45 The Birb has absolutely no lift
+plane-crazy 2020-07-21 09:27:00 my 私401 has more Wing Panels than it lol
+plane-crazy 2020-07-21 09:27:02 no I have Hovers
+plane-crazy 2020-07-21 09:28:08 Yeah
+plane-crazy 2020-07-21 09:28:17 By the way, 224
+plane-crazy 2020-07-21 09:28:27 I might make a Modded X-02s
+plane-crazy 2020-07-21 09:28:39 Using a design from the  Cosmo Zero fighter
+plane-crazy 2020-07-21 09:28:49 I'll give it a folding body
+plane-crazy 2020-07-21 09:28:55 Fuselage*
+plane-crazy 2020-07-21 09:29:25 No
+plane-crazy 2020-07-21 09:29:28 Ace Combat
+plane-crazy 2020-07-21 09:30:24 Haha anime sub 私401 go brrt brrt
+plane-crazy 2020-07-21 09:31:20 Wot-
+plane-crazy 2020-07-21 09:31:23 Maple
+plane-crazy 2020-07-21 09:31:31 you realize  the  French had a Cruiser Sub in WWII
+plane-crazy 2020-07-21 09:32:30 uhhh
+plane-crazy 2020-07-21 09:32:32 What time lol
+plane-crazy 2020-07-21 09:33:01 Oh yeah
+plane-crazy 2020-07-21 09:33:06 It  was Heavy  Cruiser Takao
+plane-crazy 2020-07-21 09:33:12 1 second
+plane-crazy 2020-07-21 09:34:02 Ah yeah this
+plane-crazy 2020-07-21 09:34:04 
+plane-crazy 2020-07-21 09:34:48 Oh shit she did have a Main *Takao* Turret 1 sec I have to go edit my Statistics sheet for it.
+plane-crazy 2020-07-21 09:35:07 Bro that is unnerving
+plane-crazy 2020-07-21 09:35:23 Bote
+plane-crazy 2020-07-21 09:35:49 Bruh someone in roblox  just scared me
+plane-crazy 2020-07-21 09:36:09 bruh
+plane-crazy 2020-07-21 09:36:20 I came back from Discord and someone  was standing right in front of me
+plane-crazy 2020-07-21 09:36:48 bruh
+plane-crazy 2020-07-21 09:36:56 U-2501 is starting to piss me off
+plane-crazy 2020-07-21 09:37:52 Time to compete anime  subs
+plane-crazy 2020-07-21 09:37:56 
+plane-crazy 2020-07-21 09:38:18 I need to Fix  my U boat's Ballists
+plane-crazy 2020-07-21 09:38:27 Dude that's a quality Skirt
+plane-crazy 2020-07-21 09:38:41 Bro but
+plane-crazy 2020-07-21 09:38:54 I usually see ppl just pput a bunch of Beams in front of their tracks lol
+plane-crazy 2020-07-21 09:39:50 oh f- Maple
+plane-crazy 2020-07-21 09:39:59 a UFo just launched a torp at my sub
+plane-crazy 2020-07-21 09:40:25 Must get the little ones away
+plane-crazy 2020-07-21 09:40:55 I just realized that Zero-G Guided Missiles can work as Torpedoes
+plane-crazy 2020-07-21 09:41:14 Wow
+plane-crazy 2020-07-21 09:41:27 That'll suck for my 401, as it's  Impractically Slow,
+plane-crazy 2020-07-21 09:41:40 Now there's Practical torps in the game *scare*
+plane-crazy 2020-07-21 09:41:45 oofie
+plane-crazy 2020-07-21 09:42:17 Maple
+plane-crazy 2020-07-21 09:42:26 <#495286269459300364>
+the-dump 2020-07-21 09:42:53 Favorite Ace Combat mod
+the-dump 2020-07-21 09:43:07 Everything is Arsenal Bird
+the-dump 2020-07-21 09:43:15 Is perfection.
+the-dump 2020-07-21 09:44:02 
+plane-crazy 2020-07-21 09:44:35 Personally I think this'd look cool in Plane crazy
+plane-crazy 2020-07-21 09:44:39 
+plane-crazy 2020-07-21 09:47:20 Commiting Ark Royal
+plane-crazy 2020-07-21 09:48:32 lol
+plane-crazy 2020-07-21 09:48:39 lol
+plane-crazy 2020-07-21 09:48:46 Maple
+plane-crazy 2020-07-21 09:48:49 Yes or no
+plane-crazy 2020-07-21 09:49:03 401 SGC Model.
+plane-crazy 2020-07-21 09:53:08 Alright boys I'm already Drawing up the designs for Cosmo Zero Fighter.
+plane-crazy 2020-07-21 09:53:40 It's the one I'm gonna derive the  Folding Fuselage  design for the  X-02s
+plane-crazy 2020-07-21 09:53:48 Megabruh
+plane-crazy 2020-07-21 09:57:13 So,
+plane-crazy 2020-07-21 09:57:21 What I love about the Cosmo Zero is
+plane-crazy 2020-07-21 09:57:26 
+plane-crazy 2020-07-21 09:57:34 as I said, Folding Fuselage
+plane-crazy 2020-07-21 09:57:41 
+plane-crazy 2020-07-21 09:57:50 I oofily modded it into an older design I had
+plane-crazy 2020-07-21 09:57:52 big
+plane-crazy 2020-07-21 09:57:55 oof
+plane-crazy 2020-07-21 09:58:23 Lol
+plane-crazy 2020-07-21 09:58:35 Well I gotta go
+plane-crazy 2020-07-21 09:59:30 I don't get it
+plane-crazy 2020-07-21 10:01:19 Bro that carrier is  amazing
+plane-crazy 2020-07-21 10:01:24 Lol,
+plane-crazy 2020-07-21 10:01:37 but I know a more amazing Motor guy
+plane-crazy 2020-07-21 10:01:44 bruh his fling truck is
+plane-crazy 2020-07-21 10:01:47 phenominal
+plane-crazy 2020-07-21 10:01:50 it doesn't matter
+plane-crazy 2020-07-21 10:01:53 how big  you are
+plane-crazy 2020-07-21 10:01:59 The  bigger, the more power it has,
+plane-crazy 2020-07-21 10:02:07 and  it  has demolished small vehicles
+plane-crazy 2020-07-21 10:02:11 And when he dies,
+plane-crazy 2020-07-21 10:02:13 it  lags even more
+plane-crazy 2020-07-21 10:02:31 Bruh
+plane-crazy 2020-07-21 10:02:37 When you get blacklisted
+plane-crazy 2020-07-21 10:02:51 so you just place ur space station on top of the Blacklist box
+plane-crazy 2020-07-21 10:03:09 bruh I'm out peace
+plane-crazy 2020-07-21 10:12:11 On a final note,
+the-dump 2020-07-21 10:12:24 YOOO
+plane-crazy 2020-07-21 10:12:49 Maple,
+plane-crazy 2020-07-21 10:13:04 Remember that moment from Ars Nova when I-401 and Yamato merge bruhhh
+general 2020-07-21 10:14:00 mocmish, shush
+general 2020-07-21 10:14:02 https://tenor.com/view/adults-tony-stark-avengers-infinity-war-talking-robert-downey-jr-gif-17085094
+plane-crazy 2020-07-21 10:14:13 Mega bruh
+the-dump 2020-07-21 10:21:49 <@!448505589983739914>
+the-dump 2020-07-21 10:21:50 Commit Merger
+the-dump 2020-07-21 10:22:10 Wait, Sus
+the-dump 2020-07-21 10:22:28 your body folds right in the middle of the barrels lol
+the-dump 2020-07-21 10:22:46 you'd have  to fold the barrels if that's to the edge of the plot where you are folding
+the-dump 2020-07-21 10:25:20 Bruh Maple
+the-dump 2020-07-21 10:25:41 mk
+the-dump 2020-07-21 10:25:50 but I'll put the question here
+the-dump 2020-07-21 10:26:18 Would you have enjoyed if they had put 2501 into the Show and not just the Manga series
+the-dump 2020-07-21 10:27:58 Woah, I just realized she was but as Surveilance Sub I-501 becus I-501 in real used to be a u-boat, same  class as 2501
+plane-crazy 2020-07-21 23:46:44 Damn that Eurofighter Maneuver is Unholy
+plane-crazy 2020-07-21 23:49:13 Bruh
+plane-crazy 2020-07-21 23:49:22 Ok then
+plane-crazy 2020-07-21 23:49:25 224
+plane-crazy 2020-07-21 23:49:37 Should I build an Alicorn?
+plane-crazy 2020-07-21 23:54:35 Roblox finna piss me off with its inability to handle the word "Carrier"
+plane-crazy 2020-07-22 00:05:14 Polis
+plane-crazy 2020-07-22 00:07:47 Bro I swear that police car is that Flying car wtf
+plane-crazy 2020-07-22 00:08:24 yo bro it does fly wtf
+general 2020-07-22 00:10:16 Naw
+general 2020-07-22 00:10:23 this  is
+general 2020-07-22 00:10:37 
+general 2020-07-22 00:10:41 hot
+general 2020-07-22 00:10:47 
+general 2020-07-22 00:11:10 das is mega hot
+the-dump 2020-07-22 00:11:25 Dude that legit good
+general 2020-07-22 00:11:51 bruh
+general 2020-07-22 00:11:59 das my waifu there why you call it thick lmfao
+general 2020-07-22 00:12:38 Not as  thick as
+general 2020-07-22 00:12:39 Typho
+general 2020-07-22 00:12:50 troll what funnels lol
+general 2020-07-22 00:12:54 thats a Carrier sub there
+general 2020-07-22 00:13:00 Beutilicious
+general 2020-07-22 00:13:22 bruh
+general 2020-07-22 00:14:25 disgusting
+general 2020-07-22 00:14:25 bruh no
+general 2020-07-22 00:14:45 See not as thick as Typho
+general 2020-07-22 00:15:04 dude
+general 2020-07-22 00:15:14 you shouldn't be worrying about what happen to those Reactors
+general 2020-07-22 00:15:43 bruh
+general 2020-07-22 00:15:48 you should be worrying about those
+general 2020-07-22 00:15:49 ENGINES
+general 2020-07-22 00:15:53 
+general 2020-07-22 00:15:58 FUCK
+general 2020-07-22 00:16:00 THICK ENGINES
+general 2020-07-22 00:16:22 Bruh vip
+general 2020-07-22 00:16:25 lol
+general 2020-07-22 00:16:36 get that thick
+general 2020-07-22 00:20:26 Wait
+general 2020-07-22 00:20:30 What is a Drill?
+general 2020-07-22 00:20:46 Bruh no you called  something a drill
+general 2020-07-22 00:21:47 Bruh
+general 2020-07-22 00:29:52 b
+general 2020-07-22 00:29:59 https://tenor.com/view/killer-bean-bruh-momento-dance-low-quality-moves-gif-17291913
+general 2020-07-22 00:30:09 bruh momento
+general 2020-07-22 00:30:37 When you get told to move your reactions :thonk:
+general 2020-07-22 00:30:52 that's amazing-
+general 2020-07-22 00:30:54 oh bruh
+general 2020-07-22 00:30:56 wrong timing
+general 2020-07-22 00:33:30 Battleship
+general 2020-07-22 00:33:37 you ever be standing in a Tower
+general 2020-07-22 00:33:44 and suddenly ur phone switched to Airplane Wifi
+general 2020-07-22 00:33:56 bruh
+general 2020-07-22 00:34:03 that menu tho
+general 2020-07-22 00:38:46 Real
+general 2020-07-22 00:39:05 Plane  Crazy
+plane-crazy 2020-07-22 01:20:40 WHAT DEMON
+plane-crazy 2020-07-22 01:20:58 F
+general 2020-07-22 01:21:47 ne
+plane-crazy 2020-07-22 01:23:34 Ok isn't this illegal?
+plane-crazy 2020-07-22 01:25:05 The users name is Twisted_Suns
+plane-crazy 2020-07-22 01:25:17 And my RAM is hating his builds
+plane-crazy 2020-07-22 01:53:13 Smh
+plane-crazy 2020-07-22 01:53:40 I've replaced every genuine block on my plane with Helium and it still doesn't even lift
+general 2020-07-22 01:54:18 Bruh
+general 2020-07-22 01:54:40 Got banned from roblox for saying Black people deserve the same rights as White People
+general 2020-07-22 01:56:00 Poggers
+plane-crazy 2020-07-22 01:59:43 Yes
+plane-crazy 2020-07-22 01:59:48 The plane finally works
+plane-crazy 2020-07-22 02:15:20 Dude
+plane-crazy 2020-07-22 02:15:22 that is epic
+general 2020-07-22 02:39:30 bruh
+general 2020-07-22 02:39:33 GET IT AWAYY
+plane-crazy 2020-07-22 02:40:38 Imma post my new fighter into creations
+plane-crazy 2020-07-22 02:43:06 Kool
+plane-crazy 2020-07-22 02:43:13 now I have a Fighter to launch from my Sub
+general 2020-07-22 02:43:36 It's a She
+plane-crazy 2020-07-22 02:47:31 Also here's a Rear view of the M6A in flight
+plane-crazy 2020-07-22 02:47:32 
+plane-crazy 2020-07-22 02:48:27 Well
+plane-crazy 2020-07-22 02:48:29 
+the-dump 2020-07-22 02:57:01 
+the-dump 2020-07-22 02:57:09 
+plane-crazy 2020-07-22 03:20:35 Purified
+plane-crazy 2020-07-22 03:20:49 Mind that I put a friend's build in Creations for them?
+creations-chat 2020-07-22 03:21:18 Remember, https://canary.discordapp.com/channels/384021699466756103/384025409945337856/735335259935211573 is **NOOB_card9000**'s build, not mine.
+creations-chat 2020-07-22 03:21:47 I posted it for them with their permission because they could not do it themselves.
+plane-crazy 2020-07-22 03:21:58 Yeah.
+plane-crazy 2020-07-22 03:47:07 b
+general 2020-07-22 04:04:33 YES
+general 2020-07-22 04:04:49 BREATHTAKING
+general 2020-07-22 04:27:01 Ye
+general 2020-07-22 04:27:07 dat Stranger Things Season 2
+general 2020-07-22 04:27:26 I just finished it too lol
+plane-crazy 2020-07-22 04:28:13 Bruv made some Subtle (not so subtle) edits to my M6A and turned it into a Cosmo Seiran
+plane-crazy 2020-07-22 04:28:40 Woa
+plane-crazy 2020-07-22 04:28:45 Duck
+plane-crazy 2020-07-22 04:28:57 Can I see ur *Takao*-class Maya?
+bot-central 2020-07-22 04:29:21 !rank
+plane-crazy 2020-07-22 04:30:05 Bruh
+plane-crazy 2020-07-22 04:30:11 just rotate it until it is
+plane-crazy 2020-07-22 04:31:05 Bruv I just found a fun little trick for Japanese Aircraft
+plane-crazy 2020-07-22 04:31:39 You know how their wings usually have a little yellow line right at the front tip of their wings?
+plane-crazy 2020-07-22 04:32:06 I used Trail makers to have the little  lines instead of Painting a whole Wing Panel
+plane-crazy 2020-07-22 04:32:27 
+plane-crazy 2020-07-22 04:32:36 Megamin
+plane-crazy 2020-07-22 04:35:14 yo
+the-dump 2020-07-22 04:35:26 Oh
+the-dump 2020-07-22 04:35:27 damn
+the-dump 2020-07-22 04:35:41 that moment when you realize your son a furry
+plane-crazy 2020-07-22 04:40:37 😮
+plane-crazy 2020-07-22 04:41:32 Battleship
+plane-crazy 2020-07-22 04:41:42 You doing Historic Kongo and Hyuga
+plane-crazy 2020-07-22 04:41:58 or speciiaaaaal Versions
+plane-crazy 2020-07-22 04:42:30 YEEEEE
+plane-crazy 2020-07-22 04:42:43 bruh
+plane-crazy 2020-07-22 04:42:47 Use the guns
+plane-crazy 2020-07-22 04:42:51 they kinds look like
+plane-crazy 2020-07-22 04:42:53 Lasers
+plane-crazy 2020-07-22 04:43:07 Battleship13
+plane-crazy 2020-07-22 04:43:10 Hyuga ais an Ise
+plane-crazy 2020-07-22 04:43:14 is an Ise*
+plane-crazy 2020-07-22 04:43:19 It's already a Hybrid
+plane-crazy 2020-07-22 04:43:48 Now what I wanna see a Sagami
+plane-crazy 2020-07-22 04:44:07 1372
+plane-crazy 2020-07-22 04:44:11 I wanna see a Sagami now lol
+plane-crazy 2020-07-22 04:44:27 This  is  Sagami
+plane-crazy 2020-07-22 04:44:29 
+plane-crazy 2020-07-22 04:44:34 
+plane-crazy 2020-07-22 04:44:37 Basically just Yamato
+plane-crazy 2020-07-22 04:44:40 bred with a  Carrier
+plane-crazy 2020-07-22 04:44:46 no, it's Neo lol
+plane-crazy 2020-07-22 04:45:02 Bruh no
+plane-crazy 2020-07-22 04:45:10 Msfx is Legacy
+plane-crazy 2020-07-22 04:45:23 you have to be  more precise which game lol
+plane-crazy 2020-07-22 04:45:36 They also have Stardust and
+plane-crazy 2020-07-22 04:45:40 lol
+plane-crazy 2020-07-22 04:45:57 1372
+plane-crazy 2020-07-22 04:46:09 Even doe it's not in the show, I still got the U boat
+plane-crazy 2020-07-22 04:46:57 But I only have the Protagonist Sub 401 and Light Cruiser Nagara
+plane-crazy 2020-07-22 04:47:32 Now I really wanna  do that 401/ Takao merger from Ars Nova
+plane-crazy 2020-07-22 04:49:07 The bruh moment when Roblox Tags the word "Well"
+plane-crazy 2020-07-22 04:49:30 and the letter
+plane-crazy 2020-07-22 04:49:31 O
+plane-crazy 2020-07-22 04:51:15 Btw I decided to rename my Nagara *Rori* bc Roblox chat isn't stronk enough to handle the word Nagara
+plane-crazy 2020-07-22 04:51:47 *Are you approaching me?*
+plane-crazy 2020-07-22 04:52:05 bruh
+plane-crazy 2020-07-22 04:52:08 Slippin
+plane-crazy 2020-07-22 04:54:30 Bruh
+plane-crazy 2020-07-22 04:54:36 Imagine if  we got Neon Texture lol
+plane-crazy 2020-07-22 04:55:05 Bu-
+plane-crazy 2020-07-22 04:55:15 oh...
+plane-crazy 2020-07-22 04:55:18 oh shit
+plane-crazy 2020-07-22 04:55:24 I just did something I regret
+plane-crazy 2020-07-22 04:56:53 I basically
+plane-crazy 2020-07-22 04:57:05 was converting I-401 into a Space Version
+plane-crazy 2020-07-22 04:57:16 and I started integrating that rear engine,
+plane-crazy 2020-07-22 04:57:20 the large thruster
+plane-crazy 2020-07-22 04:57:22 and it just
+plane-crazy 2020-07-22 04:57:23 looks
+plane-crazy 2020-07-22 04:57:25 wrong
+the-dump 2020-07-22 05:12:42 SHIZ IT'S THE ANIME POLICE
+the-dump 2020-07-22 05:13:03 https://tenor.com/view/anime-gtfo-jump-jumping-run-gif-9074471
+plane-crazy 2020-07-22 05:13:52 Roses are red, Trees are Green,
+plane-crazy 2020-07-22 05:13:57 The language I speak is Vietnamese
+plane-crazy 2020-07-22 05:15:45 Communists are red,
+plane-crazy 2020-07-22 05:15:48 Water is blue,
+plane-crazy 2020-07-22 05:15:55 Meanwhile in Soviet Russia,
+plane-crazy 2020-07-22 05:15:58 I am watching  you.
+plane-crazy 2020-07-22 05:16:00 
+general 2020-07-22 05:17:05 Roses are red
+general 2020-07-22 05:17:14 I don't like Egg Nogg
+general 2020-07-22 05:17:19 Get back to work,
+general 2020-07-22 05:17:23 or you're going to the Gulag
+plane-crazy 2020-07-22 05:17:51 Bruh no
+plane-crazy 2020-07-22 05:17:53 Make a
+plane-crazy 2020-07-22 05:17:55 Germany Train
+general 2020-07-22 05:18:58 ROSES ARE RED
+general 2020-07-22 05:19:02 GREEN LIGHT MEANS GO
+general 2020-07-22 05:19:04 OPEN THE DOOR
+general 2020-07-22 05:19:07 IT'S THE GESTAPO
+general 2020-07-22 05:19:09 
+general 2020-07-22 05:20:45 Roses  are red,
+general 2020-07-22 05:20:51 I have Unlimited Power
+general 2020-07-22 05:20:59 Isn't that plane flying too close to the tower?
+general 2020-07-22 05:24:58 Roses are red
+general 2020-07-22 05:25:01 You having fun?
+general 2020-07-22 05:25:06 I have one word for you.
+general 2020-07-22 05:25:07 Run.
+general 2020-07-22 05:25:10 
+general 2020-07-22 05:25:26 Woah
+general 2020-07-22 05:25:28 Troll
+general 2020-07-22 05:25:30 that looks like my
+general 2020-07-22 05:25:41 Sleep Paralasys demon
+general 2020-07-22 05:44:17 Problem
+general 2020-07-22 05:44:32 Random spots on the plots where  it just refuses to allow you to place stuff.
+general 2020-07-22 05:44:48 WOAH
+general 2020-07-22 05:44:58 WHERE
+general 2020-07-22 05:45:26 Bruh
+general 2020-07-22 05:46:43 Bruh
+general 2020-07-22 05:46:45 i gotta
+general 2020-07-22 05:46:46 see
+general 2020-07-22 05:46:47 this
+the-dump 2020-07-22 05:47:12 Woke
+general 2020-07-22 05:47:26 LOL
+general 2020-07-22 05:47:28 BRUH
+general 2020-07-22 05:47:31 I NEED TO SEE THIS
+general 2020-07-22 05:47:33 "HISTORY"
+plane-crazy 2020-07-22 05:48:15 Amazing
+plane-crazy 2020-07-22 05:48:42 Longe Runway
+plane-crazy 2020-07-22 05:48:49 Longeway
+the-dump 2020-07-22 05:58:18 
+the-dump 2020-07-22 05:59:07 Bruh
+the-dump 2020-07-22 05:59:15 Plane Crazy PVP mode is now like
+the-dump 2020-07-22 05:59:22 
+general 2020-07-22 06:01:01 Sinx
+general 2020-07-22 06:01:04 Shinx*
+general 2020-07-22 06:01:08 Sphinx
+general 2020-07-22 06:01:43 I swear after shredder bugs were invented all PVP boats just became this
+general 2020-07-22 06:05:56 Bruh
+general 2020-07-22 06:06:49 Bruh I saw  this at the dock the other day
+general 2020-07-22 06:07:04 I just realized what it was
+general 2020-07-22 06:07:08 
+the-dump 2020-07-22 06:13:01 that is
+the-dump 2020-07-22 06:13:03 amazing
+general 2020-07-22 06:15:35 
+general 2020-07-22 06:15:43 Yes.
+general 2020-07-22 06:15:50 ```brainfuck
+__**INFANTRY**__
+```
+general 2020-07-22 06:16:22 ```diff
+-Big Brain
+```
+the-dump 2020-07-22 06:32:13 bruh
+the-dump 2020-07-22 06:32:18 there  is  a Phobia of Clouds
+plane-crazy 2020-07-22 06:36:59 Stealth Space  Pickle
+plane-crazy 2020-07-22 06:37:20 Modified I-401 into a WIP Dimensional Submarine  type from SBY
+plane-crazy 2020-07-22 06:37:23 
+the-dump 2020-07-22 06:38:15 https://tenor.com/view/thonk-thinking-sun-thonk-sun-thinking-sun-gif-14999983
+plane-crazy 2020-07-22 06:38:51 Don't call out it's
+plane-crazy 2020-07-22 06:38:56 Jeery Neko Ears
+plane-crazy 2020-07-22 06:39:22 Yeah
+plane-crazy 2020-07-22 06:39:23 I know
+plane-crazy 2020-07-22 06:39:30 I just kinda
+plane-crazy 2020-07-22 06:39:32 Brain oofed
+plane-crazy 2020-07-22 06:39:38 while I was building it
+plane-crazy 2020-07-22 06:39:55 Chonky
+plane-crazy 2020-07-22 06:41:20 bruh
+plane-crazy 2020-07-22 06:41:27 My Engines are  working lol
+plane-crazy 2020-07-22 06:41:30 
+plane-crazy 2020-07-22 06:41:34 They finally spin lol
+plane-crazy 2020-07-22 06:42:01 bruh-
+plane-crazy 2020-07-22 06:43:01 I forgot to replace  and repaint blocks in the Crew quarters
+plane-crazy 2020-07-22 06:43:15 Since I couldn't use the trapdoors while building it
+plane-crazy 2020-07-22 06:43:43 I had to cut out holes in the walls
+plane-crazy 2020-07-22 06:45:47 Btw
+plane-crazy 2020-07-22 06:45:51 If you didn't notice
+plane-crazy 2020-07-22 06:46:00 Built the Aircraft for the 401
+plane-crazy 2020-07-22 06:47:02 
+plane-crazy 2020-07-22 06:47:03 the M6A1
+plane-crazy 2020-07-22 06:47:54 BRUH-
+plane-crazy 2020-07-22 06:48:18 it's a Seiran!
+plane-crazy 2020-07-22 06:48:41 
+plane-crazy 2020-07-22 06:48:56 Yeah
+plane-crazy 2020-07-22 06:49:04 
+plane-crazy 2020-07-22 06:49:06 Aichi as opposed to Mitsubishi
+general 2020-07-22 06:50:18 Bruh
+general 2020-07-22 06:50:19 Hot
+plane-crazy 2020-07-22 06:50:58 bruh
+plane-crazy 2020-07-22 06:51:04 that looks like trash Battletech
+plane-crazy 2020-07-22 06:51:14 What is that
+plane-crazy 2020-07-22 06:51:51 lol
+general 2020-07-22 07:01:27 <@!163143541160148992>
+plane-crazy 2020-07-22 07:03:03 FUCK
+plane-crazy 2020-07-22 07:03:05 
+plane-crazy 2020-07-22 07:03:14 It's satan itself.
+plane-crazy 2020-07-22 07:03:23 It's deleting everything in the server
+plane-crazy 2020-07-22 07:04:38 Join my server  then
+plane-crazy 2020-07-22 07:04:42 try and destroy it
+plane-crazy 2020-07-22 07:05:53 please
+plane-crazy 2020-07-22 07:05:54 destroy it
+plane-crazy 2020-07-22 07:07:17 Delete it
+the-dump 2020-07-22 07:11:12 Time to bring all the Submechanophobia affected ppl
+the-dump 2020-07-22 07:11:39 
+general 2020-07-22 07:13:22 <@!163143541160148992>
+general 2020-07-22 07:13:28 why does the Drone Core
+general 2020-07-22 07:13:40 Looklika
+general 2020-07-22 07:13:45 Super Graviton Cannon
+general 2020-07-22 07:13:49 
+plane-crazy 2020-07-22 07:33:34 Who
+plane-crazy 2020-07-22 07:33:50 lol
+plane-crazy 2020-07-22 07:34:00 LOL IT'S  RYTHM
+plane-crazy 2020-07-22 07:34:10 bruh-
+plane-crazy 2020-07-22 07:34:13 Shhhh
+plane-crazy 2020-07-22 07:34:15 nobody can know
+plane-crazy 2020-07-22 07:34:55 Shinx
+plane-crazy 2020-07-22 07:35:14 YES
+plane-crazy 2020-07-22 07:35:17 LASER
+plane-crazy 2020-07-22 07:35:19 wait
+plane-crazy 2020-07-22 07:35:27 that'll make the Eclipse even worse
+plane-crazy 2020-07-22 07:35:29 Bruh
+plane-crazy 2020-07-22 07:35:33 that'll be horrifying
+plane-crazy 2020-07-22 07:35:36 but imagine if
+plane-crazy 2020-07-22 07:35:43 you made floating sphere death star
+plane-crazy 2020-07-22 07:35:48 and put a Laser Ccutter in it
+plane-crazy 2020-07-22 07:36:09 https://tenor.com/view/deathstar-gif-10649959
+plane-crazy 2020-07-22 07:36:53 bruh
+plane-crazy 2020-07-22 07:36:57 that'd be unstoppable
+plane-crazy 2020-07-22 07:37:01 Yeah
+plane-crazy 2020-07-22 07:37:10 We don't want another P2W building game
+plane-crazy 2020-07-22 07:37:49 Shinx
+plane-crazy 2020-07-22 07:37:54 do you prefer:
+plane-crazy 2020-07-22 07:38:17 Ordinary Seiran
+plane-crazy 2020-07-22 07:38:30 Cosmo Seiran
+plane-crazy 2020-07-22 07:39:14 Ordinary Seiran was just the Ordinary M6A1
+plane-crazy 2020-07-22 07:39:29 and then Cosmo is for my new Space Battleship ships
+plane-crazy 2020-07-22 07:39:44 Yeah
+plane-crazy 2020-07-22 07:39:46 good  choice
+plane-crazy 2020-07-22 07:40:15 bruh-
+plane-crazy 2020-07-22 07:40:38 So, believe it or not,
+plane-crazy 2020-07-22 07:40:55 My ordinary Seiran doesn't have good Takeoff power,
+plane-crazy 2020-07-22 07:40:57 So...
+plane-crazy 2020-07-22 07:41:19 I just strapped
+plane-crazy 2020-07-22 07:41:31 Detacheable Rocket Pontoons to the bottom lol
+plane-crazy 2020-07-22 07:41:33 
+plane-crazy 2020-07-22 07:41:54 Gives it that extra
+plane-crazy 2020-07-22 07:41:56 *Thrust*
+plane-crazy 2020-07-22 07:43:32 Bruh
+plane-crazy 2020-07-22 07:43:51 You ever forget you put TNT into your drag car for Kamikaze
+plane-crazy 2020-07-22 07:43:54 so you go into PVP
+plane-crazy 2020-07-22 07:43:58 and you get in
+plane-crazy 2020-07-22 07:44:11 and you had the TNT explode Keybind  as your Normal Car's thrust
+plane-crazy 2020-07-22 07:44:16 So you try to thrust and just
+plane-crazy 2020-07-22 07:44:17 https://www.youtube.com/watch?v=FqwC3eWPkuk
+plane-crazy 2020-07-22 07:44:27 lol
+plane-crazy 2020-07-22 07:46:17 bruh
+plane-crazy 2020-07-22 07:46:23 what if I said it was an Unmanned vehicle
+plane-crazy 2020-07-22 07:46:49 There are Driverless vehicles on Drag Strips, saw one the other day
+plane-crazy 2020-07-22 07:47:36 Probably putting out any fires inside to try and save anything that was inside.
+plane-crazy 2020-07-22 07:47:42 To maybe use it again later
+plane-crazy 2020-07-22 07:48:08 https://www.youtube.com/watch?v=kZIpMzF-4NI
+plane-crazy 2020-07-22 07:58:40 
+plane-crazy 2020-07-22 07:58:45 That's truly fast food
+plane-crazy 2020-07-22 08:07:23 Hey
+plane-crazy 2020-07-22 08:07:31 this guy needs to be  evicted from life
+plane-crazy 2020-07-22 08:08:03 that guy needs to be
+plane-crazy 2020-07-22 08:08:05 removed
+plane-crazy 2020-07-22 08:08:45 Well, if there's anything you can do so that he isn't bringing that to Place Crazy?
+plane-crazy 2020-07-22 08:40:33 <@!370594904268734464> that tank earlier is so GuP
+the-dump 2020-07-22 08:41:08 https://cdn.discordapp.com/attachments/134927045355503617/735380491200364544/doggu1.mp4
+the-dump 2020-07-22 08:42:33 What is the NSFL
+plane-crazy 2020-07-22 09:14:20 Bruh
+plane-crazy 2020-07-22 09:14:22 my plane is
+plane-crazy 2020-07-22 09:14:30 defying all laws of physics
+plane-crazy 2020-07-22 09:14:58 uhh, well
+plane-crazy 2020-07-22 09:15:12 it's just kinda hanging  around
+plane-crazy 2020-07-22 09:15:14 
+plane-crazy 2020-07-22 09:15:21 above the map
+plane-crazy 2020-07-22 09:15:24 
+plane-crazy 2020-07-22 09:15:31 at like 43000 Altitude
+plane-crazy 2020-07-22 09:15:49 after being shredded by the Floating Island's Propellors
+plane-crazy 2020-07-22 09:15:50 and...
+plane-crazy 2020-07-22 09:15:53 my plane is just floating
+plane-crazy 2020-07-22 09:15:56 and actually
+plane-crazy 2020-07-22 09:15:58 it's going UP
+plane-crazy 2020-07-22 09:16:19 I have  ultimate spy plane
+plane-crazy 2020-07-22 09:16:42 Now it flote
+plane-crazy 2020-07-22 09:17:18 it has... one problem
+plane-crazy 2020-07-22 09:17:22 it can't go down.
+plane-crazy 2020-07-22 09:17:34 It's Control Flaps...
+plane-crazy 2020-07-22 09:17:41 are yeetus deletus
+plane-crazy 2020-07-22 09:18:59 Bruh
+plane-crazy 2020-07-22 09:19:09 
+plane-crazy 2020-07-22 09:19:10 I'm out
+plane-crazy 2020-07-22 09:24:22 Bruh Wings
+plane-crazy 2020-07-22 09:24:56 Yes, it actually does lol surprisingly
+plane-crazy 2020-07-22 09:25:09 Dud, it flies
+plane-crazy 2020-07-22 09:25:16 I don't have Grav Slide
+plane-crazy 2020-07-22 09:25:18 gtg
+plane-crazy 2020-07-22 09:25:47 bruh should I give it crazier wings
+plane-crazy 2020-07-22 09:26:01 mka
+plane-crazy 2020-07-22 09:27:42 Shinx
+plane-crazy 2020-07-22 09:27:44 DM?
+plane-crazy 2020-07-22 09:28:10 bc
+plane-crazy 2020-07-22 09:28:14 we need to stop the man
+plane-crazy 2020-07-22 09:28:39 Can I?
+plane-crazy 2020-07-22 09:28:49 lol
+plane-crazy 2020-07-22 09:29:17 Shinx, can I DM?
+plane-crazy 2020-07-22 09:29:41 Bruh nvm
+plane-crazy 2020-07-22 09:33:49 We need to stop the
+plane-crazy 2020-07-22 09:33:51 Racist man
+plane-crazy 2020-07-22 09:34:29 lol
+plane-crazy 2020-07-22 09:34:36 is this a JoJo reference?
+plane-crazy 2020-07-22 09:35:14 Bruh I'm amassing an army across Roblox to stop the Racist man
+plane-crazy 2020-07-22 09:36:03 I can't say his name
+plane-crazy 2020-07-22 09:36:16 Bruh
+plane-crazy 2020-07-22 09:37:27 Bruh
+plane-crazy 2020-07-22 09:37:29 someone had a
+plane-crazy 2020-07-22 09:37:36 Kidnapping Dance Coffin
+plane-crazy 2020-07-22 09:37:40 that would grab you
+plane-crazy 2020-07-22 09:37:43 and rocket you off the world
+plane-crazy 2020-07-22 09:47:53 IT'LL BE ANARCHY!
+plane-crazy 2020-07-22 09:50:05 
+plane-crazy 2020-07-22 09:50:06 <:Wokeje139:604492580369203210>
+plane-crazy 2020-07-22 21:38:13 some people in my server are  plotting to crash the server
+plane-crazy 2020-07-22 21:38:49 
+plane-crazy 2020-07-22 21:40:29 But their trying to.
+plane-crazy 2020-07-22 21:40:35 They've only got it to 3 FPS
+plane-crazy 2020-07-22 21:40:40 but their still trying.
+plane-crazy 2020-07-22 21:44:33 Isn't it against the rules to intentionally crash servers?
+the-dump 2020-07-22 21:47:11 bruh momento
+the-dump 2020-07-22 21:47:23 I see that  so much in PC
+plane-crazy 2020-07-22 21:56:12 Bruh
+plane-crazy 2020-07-22 21:56:24 Belkan Technical Superiority time
+plane-crazy 2020-07-22 21:58:12 Time to put Belkan Flags on everything
+plane-crazy 2020-07-22 21:58:50 Since
+plane-crazy 2020-07-22 21:58:53 
+plane-crazy 2020-07-22 21:58:54 Everything is Belka
+plane-crazy 2020-07-22 22:14:31 Bruh 224jay
+plane-crazy 2020-07-22 22:14:41 Plane Crazy Aircraft in Peaceful:
+plane-crazy 2020-07-22 22:14:43 
+plane-crazy 2020-07-22 22:15:18 Plane Crazy Aircraft in PVP:
+plane-crazy 2020-07-22 22:15:58 It's sad because it's all too true
+plane-crazy 2020-07-22 22:18:33 More Belka
+plane-crazy 2020-07-22 22:43:20 MX-7 Ohka
+plane-crazy 2020-07-22 22:43:21 rush
+plane-crazy 2020-07-22 22:49:53 hey 1372
+plane-crazy 2020-07-22 22:50:06 Did you like my Rocket Kamikaze MXY-7 ohka?
+plane-crazy 2020-07-22 22:50:24 
+plane-crazy 2020-07-22 22:50:28 
+plane-crazy 2020-07-22 22:50:46 It's a bit of a rush still haven't painted it yet.
+plane-crazy 2020-07-22 22:50:48 It flies,
+plane-crazy 2020-07-22 22:50:51 and Explodes
+general 2020-07-22 22:53:44 Br
+general 2020-07-22 22:54:00 ?
+general 2020-07-22 22:54:04 Howdy?
+general 2020-07-22 22:54:18 Bruh I'm updating  my X1 don't ping me
+general 2020-07-22 22:54:24 Fuck
+general 2020-07-22 22:54:38 ```diff
+-Tank
+```
+bot-central 2020-07-22 22:57:57 Amazing.
+bot-central 2020-07-22 22:58:45 Capitol F
+plane-crazy 2020-07-22 22:59:31 This song plays in my head every time I see a Shredder Bug group take off
+general 2020-07-22 22:59:48 You know the rules, and so do i, say goodbye.
+general 2020-07-22 22:59:48 You know the rules, and so do i, say goodbye.
+general 2020-07-22 23:00:20 
+general 2020-07-22 23:01:14 No lie Yousuf sounds like someone from my AL server wtf
+bot-central 2020-07-22 23:01:34 Amazing
+plane-crazy 2020-07-22 23:02:18 
+bot-central 2020-07-22 23:07:31 =loop
+bot-central 2020-07-22 23:07:40 =loop
+bot-central 2020-07-22 23:07:44 Amaze
+bot-central 2020-07-22 23:07:46 lol
+bot-central 2020-07-22 23:08:00 It's too powerful to stop!
+bot-central 2020-07-22 23:08:07 Oh god...
+general 2020-07-22 23:09:47 Michael Jakson
+general 2020-07-22 23:10:14 US Navy Mari-hee-heenes
+the-dump 2020-07-23 01:19:24 https://ifunny.co/fun/82NdHZsp7?s=cl
+the-dump 2020-07-23 01:20:03 
+the-dump 2020-07-23 01:20:15 **EVERYTHING IS BELKA**
+the-dump 2020-07-23 01:20:16 **EVERYTHING**
+plane-crazy 2020-07-23 01:21:13 **#BelkaDidNothingWrong**
+plane-crazy 2020-07-23 06:55:40 WHY CAN'T IT GET IT OVER  THE FUCKING HOLE?!
+plane-crazy 2020-07-23 06:56:07 Holy crap <@!447221768520859659> that's a Satsuma
+plane-crazy 2020-07-23 06:56:25 Amazing
+plane-crazy 2020-07-23 06:57:19 Bruh, I can't get this over the damn hole.
+plane-crazy 2020-07-23 06:57:33 I need those Round wedges to line up with the light blocks.
+plane-crazy 2020-07-23 06:57:53 Don't worry, I'll paint it once it frikin fits
+plane-crazy 2020-07-23 06:58:16 Every time I do it
+plane-crazy 2020-07-23 06:58:22 I've edited it  countless times
+plane-crazy 2020-07-23 06:58:24 every time
+plane-crazy 2020-07-23 06:58:26 I get this shit
+plane-crazy 2020-07-23 06:58:28 
+plane-crazy 2020-07-23 06:59:05 Bruh no
+plane-crazy 2020-07-23 06:59:07 that's Flex Tape
+plane-crazy 2020-07-23 07:00:42 Please
+plane-crazy 2020-07-23 07:00:47 show me how to fucking connect these
+plane-crazy 2020-07-23 08:04:08 Bruh moment
+plane-crazy 2020-07-23 08:04:23 that's an Infinity
+plane-crazy 2020-07-23 08:04:35 LOL THAT IS AN F-105
+plane-crazy 2020-07-23 08:08:49 Geneva Violations 91
+plane-crazy 2020-07-23 08:10:31 bruh
+plane-crazy 2020-07-23 08:10:36 next thing Imma  build is
+plane-crazy 2020-07-23 08:10:44 Pink Successor
+the-dump 2020-07-23 08:12:17 *Bonk*
+the-dump 2020-07-23 08:12:17 When a tiny car taps my giant heavy Kinetically-powerful Submarine
+the-dump 2020-07-23 08:12:37 I hate PC physics
+plane-crazy 2020-07-23 08:13:08 It's time.
+plane-crazy 2020-07-23 08:13:45 **Arsenal Bird** ***Honor*** **launch at 12:00 PM EST 7/25/2020**
+the-dump 2020-07-23 08:16:16 But is true
+the-dump 2020-07-23 08:16:22 the physics make me go
+the-dump 2020-07-23 08:16:23 Bonk
+the-dump 2020-07-23 08:17:20 <@456226577798135808> 
+Mihaly
+```<<  You there with the 3 strikes, your flying is most impressive, but I can still tell this is your first war. >>
+
+<< Of all the Erusian planes you've shot down have you ever seen a parachute deploy? >> 
+
+<< Hard to imagine a colored shape on your HUD as a human life isn't it? A human life gone forever when its red square vanishes, its wailing tone becomes silent. >>
+
+<< An ace pilot that remains silent, typical. >>
+
+<< Nobody fights a war thinking they're wrong, especially up here. >>```
+the-dump 2020-07-23 08:18:18 https://tenor.com/view/shocked-what-huh-surprise-gif-3553473
+the-dump 2020-07-23 08:36:30 Bruh
+plane-crazy 2020-07-23 08:36:42 Bruh
+plane-crazy 2020-07-23 08:37:33 When you make a Magnet Cannon that shoots a Magnet Cannon
+plane-crazy 2020-07-23 08:37:35 
+plane-crazy 2020-07-23 08:37:39 -On Mobile
+plane-crazy 2020-07-23 08:38:00 Mobile users are **GODS**
+plane-crazy 2020-07-23 08:38:14 It takes that much effort to build something with ur fingers
+plane-crazy 2020-07-23 08:38:19 Bruh
+plane-crazy 2020-07-23 08:38:23 yes
+plane-crazy 2020-07-23 08:38:24 YES
+plane-crazy 2020-07-23 08:38:42 making a cannon that shoots a  cannon and shoots a runway that launches ur plane
+plane-crazy 2020-07-23 08:38:54 Becucs
+plane-crazy 2020-07-23 08:39:11 Space Stations are now only useful with Grav Sliders (I think?)
+plane-crazy 2020-07-23 08:39:31 Bruh
+plane-crazy 2020-07-23 08:39:34 wait
+plane-crazy 2020-07-23 08:39:54 I still smile  when noobs  call ppl hackers  because they have  Grav Slider and  they're just  floating around
+plane-crazy 2020-07-23 08:40:09 Like, that  is actually amusing lol
+plane-crazy 2020-07-23 08:40:20 ***Hakx***
+plane-crazy 2020-07-23 08:40:23 Bruh no,
+plane-crazy 2020-07-23 08:40:28 is called Gravite
+plane-crazy 2020-07-23 08:40:31 brh
+plane-crazy 2020-07-23 08:40:35 what happened to that car
+general 2020-07-23 08:40:44 Boi
+general 2020-07-23 08:40:51 that hole
+plane-crazy 2020-07-23 08:40:57 PUUUSSSHHH
+plane-crazy 2020-07-23 08:41:31 can someone help me
+plane-crazy 2020-07-23 08:41:36 build this barrel
+plane-crazy 2020-07-23 08:41:38 so it folds
+plane-crazy 2020-07-23 08:41:42 where I want it?
+plane-crazy 2020-07-23 08:41:55 It's about to
+plane-crazy 2020-07-23 08:41:57 piss me off
+general 2020-07-23 08:47:53 Woah
+the-dump 2020-07-23 09:04:22 PTFS
+plane-crazy 2020-07-23 09:14:31 Nevermind the crap sketch
+plane-crazy 2020-07-23 09:14:56 I'm tryna make something  that sticks out the front of my Sub like this (it looks much different tho)
+plane-crazy 2020-07-23 09:15:07 But I can't get it to fold right
+plane-crazy 2020-07-23 09:15:21 can someone show  me the spot where to place it so that
+plane-crazy 2020-07-23 09:15:29 some wedges line  up with those lighter blocks?
+plane-crazy 2020-07-23 09:15:57 It'll be like a barrel, so it's a 3x3 empty space with Round Wedge In's as the Corners.
+plane-crazy 2020-07-23 09:16:51 But I can't get it at the right height nor length, as in it's a hovering  a block too  far out and too far high.
+plane-crazy 2020-07-23 09:17:26 Bruh
+plane-crazy 2020-07-23 09:17:33 Ccan't go in Vip
+plane-crazy 2020-07-23 09:23:52 Cort
+plane-crazy 2020-07-23 09:23:58 Can I ask you something in DM?
+plane-crazy 2020-07-23 09:24:07 Is professional.
+plane-crazy 2020-07-23 09:24:20 Your DM is  blocked.
+plane-crazy 2020-07-23 09:24:58 oh
+plane-crazy 2020-07-23 09:24:58 uh
+plane-crazy 2020-07-23 09:25:53 Cus  ur also in the Roblox  Server
+plane-crazy 2020-07-23 09:26:00 The Official one.
+plane-crazy 2020-07-23 09:27:01 bruh
+plane-crazy 2020-07-23 09:27:03 lol
+plane-crazy 2020-07-23 09:27:30 Mihaly
+<< Tell me little hatchling, have you dropped more bombs or fired more missiles? Killed more pilots or civilians? >>
+
+Long Caster
+<< Here's a question. If a drone deploys from a cargo container instead of an Arsenal Bird and bombs an airfield, is the awarded medal the same ? Or is it different? Does the Arsenal Bird get the medal? >>
+plane-crazy 2020-07-23 09:29:38 Bruh srsly
+plane-crazy 2020-07-23 09:29:49 I need it  to be like  this
+plane-crazy 2020-07-23 09:29:52 
+plane-crazy 2020-07-23 09:30:38 Well it's a little rounder than that.
+plane-crazy 2020-07-23 09:30:42 The fold pain is reel
+plane-crazy 2020-07-23 09:30:59 Yes
+plane-crazy 2020-07-23 09:31:03 I live in Belka
+plane-crazy 2020-07-23 09:31:09 You?
+plane-crazy 2020-07-23 09:31:33 <:OMEGALUL:528987216643489792>
+plane-crazy 2020-07-23 09:32:09 konect
+plane-crazy 2020-07-23 09:32:16 <:FalconStance1:715614632655454269><:FalconStance2:715614633737584691><:FalconStance3:715614633972727878>
+plane-crazy 2020-07-23 09:33:16 damn
+plane-crazy 2020-07-23 09:36:23 Hello there
+plane-crazy 2020-07-23 09:36:40 general kenobi
+the-dump 2020-07-23 09:37:56 It thursday
+the-dump 2020-07-23 09:38:05 https://tenor.com/view/throw-rock-fail-gif-9902343
+plane-crazy 2020-07-23 09:38:26 br
+plane-crazy 2020-07-23 09:39:53 The wild
+plane-crazy 2020-07-23 09:39:55 Blyatman
+plane-crazy 2020-07-23 09:40:16 bru
+plane-crazy 2020-07-23 09:40:22 Does the plane fly?
+plane-crazy 2020-07-23 09:40:26 Fucky
+plane-crazy 2020-07-23 09:40:28 It's Rickje
+plane-crazy 2020-07-23 09:40:39 <:Wokeje139:604492580369203210>
+plane-crazy 2020-07-23 09:41:03 Rick is on my bois
+plane-crazy 2020-07-23 09:41:07 I'm out
+plane-crazy 2020-07-23 09:41:20 Pickle Rickje
+plane-crazy 2020-07-23 09:41:36 YES
+plane-crazy 2020-07-23 09:41:40 YES!
+plane-crazy 2020-07-23 09:41:44 PICKLE RICKJE!
+plane-crazy 2020-07-23 09:41:46 LOL
+plane-crazy 2020-07-23 09:42:09 https://tenor.com/view/incredible-pewdiepie-distorted-flex-tape-right-gif-16729352
+plane-crazy 2020-07-23 09:44:20 I kid you not <@!244667801824919553>
+plane-crazy 2020-07-23 09:44:23 He turns himself,
+plane-crazy 2020-07-23 09:44:25 into a pickle
+plane-crazy 2020-07-23 09:44:29 his name is
+plane-crazy 2020-07-23 09:44:32 Pickle Rickje
+plane-crazy 2020-07-23 09:44:39 Funniest shit I've ever seen!
+plane-crazy 2020-07-23 09:44:57 How do I see your voice
+plane-crazy 2020-07-23 09:45:01 It's sound
+plane-crazy 2020-07-23 09:45:23 I'd rather not.
+plane-crazy 2020-07-23 09:45:35 You're Mic probably sounds like a Jet engine in my ears
+plane-crazy 2020-07-23 09:45:56 Not joking every time I VC it sounds like a Jet Engine
+plane-crazy 2020-07-23 09:46:54 hhh
+the-dump 2020-07-23 09:47:01 
+the-dump 2020-07-23 09:47:36 WWWW
+the-dump 2020-07-23 09:47:52 BRUH
+plane-crazy 2020-07-23 09:52:34 Please
+plane-crazy 2020-07-23 09:52:41 I just need help with this
+plane-crazy 2020-07-23 09:52:43 *inhale*
+plane-crazy 2020-07-23 09:52:45 **FOLD**
+plane-crazy 2020-07-23 09:52:53 Yes I did
+the-dump 2020-07-23 09:54:03 **Eats Edible**: Dude, this thing aint shit.
+**5 Minutes later**:
+the-dump 2020-07-23 09:54:32 Bruh
+the-dump 2020-07-23 09:54:33 no joke
+the-dump 2020-07-23 09:54:44 that's me laughing while watching the video no lie
+plane-crazy 2020-07-23 09:55:09 Holy-
+plane-crazy 2020-07-23 09:55:31 https://tenor.com/view/funny-you-point-spiderman-mirror-gif-16673460
+plane-crazy 2020-07-23 09:55:54 HELP ME FOLDDD
+plane-crazy 2020-07-23 09:56:11 THIS IS PAIN
+plane-crazy 2020-07-23 09:56:30 Bro
+plane-crazy 2020-07-23 09:56:37 I will fold your Kneecaps
+plane-crazy 2020-07-23 09:56:46 I will
+plane-crazy 2020-07-23 16:54:26 I need to
+plane-crazy 2020-07-23 16:54:28 FOLD
+plane-crazy 2020-07-23 16:54:54 I swear if I don't find the right fold spot imma fold someones kneecaps like a book
+plane-crazy 2020-07-23 16:55:33 Mapl
+plane-crazy 2020-07-23 16:56:37 Maple
+plane-crazy 2020-07-23 17:02:51 Maple
+plane-crazy 2020-07-23 17:02:54 I needa help fold
+plane-crazy 2020-07-23 17:05:39 Sorry was I talking to you?
+plane-crazy 2020-07-23 17:05:42 No, I wasn't.
+plane-crazy 2020-07-23 17:06:00 Maple
+plane-crazy 2020-07-23 17:06:00 I said
+plane-crazy 2020-07-23 17:06:13 That's scary exf1
+plane-crazy 2020-07-23 17:08:50 Copy/Paste  Harriers lol
+bot-central 2020-07-23 17:09:04 Bruh
+bot-central 2020-07-23 17:09:06 I swear
+bot-central 2020-07-23 17:09:09 In 3020
+bot-central 2020-07-23 17:09:15 Dyno just gonna be like
+bot-central 2020-07-23 17:09:26 <@!720024036863901717> skoieieieieieieiieiieieieieieiiesduhdsadasddas
+plane-crazy 2020-07-23 17:10:42 Fuck
+plane-crazy 2020-07-23 17:10:50 how do you condense all that TNT
+plane-crazy 2020-07-23 17:11:05 That shit DENSE
+plane-crazy 2020-07-23 19:48:19 Bruh
+plane-crazy 2020-07-23 19:48:25 Kebab 1 in the chat
+plane-crazy 2020-07-23 19:48:39 woah
+plane-crazy 2020-07-23 19:48:42 Shqiptar bre
+plane-crazy 2020-07-23 19:49:09 The man is on
+the-dump 2020-07-23 19:50:48 
+the-dump 2020-07-23 19:52:48 
+the-dump 2020-07-23 19:53:44 
+the-dump 2020-07-23 19:54:23 Me trying to choose between 2 Yellow colors ^
+the-dump 2020-07-23 19:55:28 
+the-dump 2020-07-23 19:55:57 
+the-dump 2020-07-23 19:59:05 
+the-dump 2020-07-23 19:59:16 
+the-dump 2020-07-23 19:59:19 
+the-dump 2020-07-23 19:59:46 Lol yw
+the-dump 2020-07-23 20:00:52 It's good enough for memes.
+the-dump 2020-07-23 20:01:21 Amazing, I love this
+the-dump 2020-07-23 20:02:17 Watch that CoD meme.
+the-dump 2020-07-23 20:02:51 That story is all too personal for me, I played that map alot Online and ppl would Melee me in the Carrier's Tower Corridors.
+the-dump 2020-07-23 20:02:58 On the side of hte map
+the-dump 2020-07-23 20:03:51 https://tenor.com/view/anime-angry-mad-pissed-gif-8860186
+the-dump 2020-07-23 20:03:55 no
+the-dump 2020-07-23 20:04:06 <@!335599526414909451>
+the-dump 2020-07-23 20:04:43 Spam boi
+the-dump 2020-07-23 20:04:55 neaw
+the-dump 2020-07-23 20:05:09 
+the-dump 2020-07-23 20:05:30 
+the-dump 2020-07-23 20:06:07 bruh
+the-dump 2020-07-23 20:06:13 Mega oof
+the-dump 2020-07-23 20:06:22 Purif scroll up
+the-dump 2020-07-23 20:06:32 https://canary.discordapp.com/channels/384021699466756103/495286269459300364/735950181337399328
+the-dump 2020-07-23 20:06:41 Lol dragon
+the-dump 2020-07-23 20:06:54 
+the-dump 2020-07-23 20:06:56 Didn't fall for it
+the-dump 2020-07-23 20:07:44 spammin
+the-dump 2020-07-23 20:08:16 
+plane-crazy 2020-07-23 20:14:47 https://media.discordapp.net/attachments/666492152943083532/719190657796931654/fastputin.gif
+the-dump 2020-07-23 20:15:35 https://media.discordapp.net/attachments/666492152943083532/719190657796931654/fastputin.gif
+plane-crazy 2020-07-23 20:16:01 aihgt  bois I gotta buil minecraft
+the-dump 2020-07-23 20:16:58 im out
+the-dump 2020-07-23 20:17:12 Gotta work on Autumn Splinter Fleet
+the-dump 2020-07-23 20:17:17 
+the-dump 2020-07-23 20:22:26 Yes
+the-dump 2020-07-23 20:22:28 Finally!
+the-dump 2020-07-23 20:22:45 https://gfycat.com/jaggedunkemptachillestang-world-of-warships
+the-dump 2020-07-23 20:22:55 Got the crisp renders!
+the-dump 2020-07-23 20:23:17 Aaaaah! The torpedoes are soo much better now.
+the-dump 2020-07-23 20:25:35 Oh boy-
+the-dump 2020-07-23 20:25:37 
+the-dump 2020-07-23 20:26:06 Get ready bois
+the-dump 2020-07-23 20:26:08 https://tenor.com/view/sniper-pubg-loading-sniper-reload-gif-15505006
+the-dump 2020-07-23 20:26:12 We're snipin boats
+the-dump 2020-07-23 20:27:30 Yes
+the-dump 2020-07-23 20:27:46 It's weapon type, as a Gravity weapon,
+the-dump 2020-07-23 20:27:59 exempts it from the normal limitation of a Firing Range,
+the-dump 2020-07-23 20:28:12 and is only limited by how much power you put into it.
+the-dump 2020-07-23 20:28:44 It could be fired from 100 feet to 100,000 meters, and even further, infinitely.
+the-dump 2020-07-23 20:29:04 You just need to provide energy.
+plane-crazy 2020-07-23 20:34:46 <:OMEGALUL:528987216643489792>
+plane-crazy 2020-07-23 20:39:38 Kinetic Weapon Incoming
+plane-crazy 2020-07-23 20:39:53 *Insert john's Hover thruster*
+plane-crazy 2020-07-23 20:44:23 When set Hover thruster to Max speed
+plane-crazy 2020-07-23 20:44:30 Min Drag
+plane-crazy 2020-07-23 20:44:35 sets grav slider to 0
+plane-crazy 2020-07-23 20:44:59 https://tenor.com/view/samuel-ljackson-snakes-on-aplane-everybody-strap-in-gif-7203656
+plane-crazy 2020-07-23 20:45:11 dmn bro
+plane-crazy 2020-07-23 20:45:18 that sad
+plane-crazy 2020-07-23 20:45:26 4 ppl rejected you
+plane-crazy 2020-07-23 20:45:48 https://tenor.com/view/crying-boy-walk-away-cry-man-tears-gif-5637398
+general 2020-07-23 20:50:54 <:MyDolphinIsntWorking:552912733008429081>
+general 2020-07-23 20:51:08 <:OMEGALUL:528987216643489792>
+plane-crazy 2020-07-23 20:51:28 Imagine people <:kek:652566605028524033>
+plane-crazy 2020-07-23 20:53:23 bruh
+plane-crazy 2020-07-23 20:53:25 lemme see the
+plane-crazy 2020-07-23 20:53:26 MiG
+plane-crazy 2020-07-23 20:53:31 link
+plane-crazy 2020-07-23 20:53:48 bruh-
+plane-crazy 2020-07-23 20:53:53 <:OMEGALUL:528987216643489792>
+plane-crazy 2020-07-23 20:54:07 <:KEKW:670310537300672528> <:KEKW:670310537300672528> <:KEKW:670310537300672528>
+plane-crazy 2020-07-23 20:54:13 (crazy, they do)
+plane-crazy 2020-07-23 20:54:19 (their called explosives)
+plane-crazy 2020-07-23 20:54:21 Lol
+plane-crazy 2020-07-23 20:54:26 Bruh
+plane-crazy 2020-07-23 20:54:39 Russia's mistake
+plane-crazy 2020-07-23 20:54:48 Here
+plane-crazy 2020-07-23 20:54:59 imma give you an Upvote to be nice
+plane-crazy 2020-07-23 20:55:00 LOL
+plane-crazy 2020-07-23 20:55:01 NASA
+plane-crazy 2020-07-23 20:55:04 THAT'S MOBILE USERS
+plane-crazy 2020-07-23 20:55:07 <:KEKW:670310537300672528>
+general 2020-07-23 20:57:13 Bruh
+general 2020-07-23 20:57:25 Minecraft is a map
+general 2020-07-23 20:57:28 <:KEKW:670310537300672528>
+general 2020-07-23 20:57:33 Just go further out
+general 2020-07-23 20:57:42 Lol
+general 2020-07-23 20:57:48 But it's generated pretty damn big.
+general 2020-07-23 20:57:57 Did you already build to the Wall?
+general 2020-07-23 20:58:00 oof
+general 2020-07-23 20:58:27 Nasa
+general 2020-07-23 20:58:39 Stev is the strongest there is
+general 2020-07-23 20:59:02 when do the math,
+general 2020-07-23 20:59:29 stev can carry 6,000,000,000,000,000,000,000,000 Universes 😮
+general 2020-07-23 20:59:46 <:OMEGALUL:528987216643489792>
+general 2020-07-23 20:59:50 and still sprint
+general 2020-07-23 21:00:00 Bruh
+general 2020-07-23 21:00:18 wow
+general 2020-07-23 21:00:52 *I swear*
+general 2020-07-23 21:01:29 https://media.discordapp.net/attachments/666492152943083532/719190657796931654/fastputin.gif
+general 2020-07-23 21:01:54 the L word is banned here?
+general 2020-07-23 21:02:14 Bruh
+general 2020-07-23 21:02:19 there's only 1 filter worse
+general 2020-07-23 21:02:22 fuckin roblox
+general 2020-07-23 21:02:31 Bruh I get tagged for the word **Well**
+general 2020-07-23 21:02:44 bruh
+general 2020-07-23 21:02:52 <:KEKW:670310537300672528>
+general 2020-07-23 21:03:04 battleship
+general 2020-07-23 21:03:12 Well, Badass isn't a
+general 2020-07-23 21:03:14 "bad word"
+general 2020-07-23 21:03:19 it has a bad word in it,
+general 2020-07-23 21:03:23 but it's a definition.
+general 2020-07-23 21:03:27 Like Jackass.
+general 2020-07-23 21:03:31 Is the name of a
+general 2020-07-23 21:03:32 Donke
+general 2020-07-23 21:03:48 1372
+general 2020-07-23 21:03:49 L word
+general 2020-07-23 21:03:52 Underage anime girl
+general 2020-07-23 21:04:32 <:Upvote:490311647492309004> <:KEKW:670310537300672528>
+plane-crazy 2020-07-23 21:10:10 <:KEKW:670310537300672528>
+general 2020-07-23 21:12:18 <:KEKW:670310537300672528>
+general 2020-07-23 21:14:04 Aim
+general 2020-07-23 21:14:05 shoot
+general 2020-07-23 21:14:15 <:what:644996672048463942>
+general 2020-07-23 21:14:34 big brain
+general 2020-07-23 21:14:54 if they shoot you
+general 2020-07-23 21:14:56 ignore pain
+general 2020-07-23 21:15:19 here's some more advie
+general 2020-07-23 21:15:29 Maybe not have your user as "Supa White Man"
+general 2020-07-23 21:15:56 *aim*
+general 2020-07-23 21:15:58 *click*
+general 2020-07-23 21:16:05 **die**
+plane-crazy 2020-07-23 21:16:11 https://media.discordapp.net/attachments/666492152943083532/719190657796931654/fastputin.gif
+plane-crazy 2020-07-23 21:16:18 Wideputinapproves
+plane-crazy 2020-07-23 21:18:23 **#BelkaDidNothingWrong**
+plane-crazy 2020-07-23 21:19:14 
+plane-crazy 2020-07-23 21:23:40 
+the-dump 2020-07-23 21:25:23 bruh
+the-dump 2020-07-23 21:25:26 <@!335599526414909451>
+the-dump 2020-07-23 21:25:32 that video has the L word in it
+the-dump 2020-07-23 21:25:36 isn't it a bypass
+the-dump 2020-07-23 21:30:17 Good job boiz.
+the-dump 2020-07-23 21:30:23 We protected the server yet again.
+the-dump 2020-07-23 21:30:41 Damn
+the-dump 2020-07-23 21:30:48 Hat kid committed Tax fraud.
+the-dump 2020-07-23 21:30:58 OH HI SCOTTY
+the-dump 2020-07-23 21:31:20 WHEN'D YOU HAVE TIME TO COME FROM RT SERVER TO COME HERE?!
+the-dump 2020-07-23 21:31:25 YEAH, I AM
+the-dump 2020-07-23 21:31:33 fuck
+the-dump 2020-07-23 21:31:37 Wrong server
+the-dump 2020-07-23 21:31:41 Ur in Space Talk,
+the-dump 2020-07-23 21:31:43 not RT lol
+the-dump 2020-07-23 21:31:49 https://tenor.com/view/hopeless-disappointed-ryan-reynolds-facepalm-embarrassed-gif-5436796
+the-dump 2020-07-23 21:32:04 oh wait you are in RT tho
+the-dump 2020-07-23 21:32:31 Yes
+plane-crazy 2020-07-23 21:34:28 lol
+plane-crazy 2020-07-23 21:34:32 imma go build a 7 block plane
+plane-crazy 2020-07-23 21:35:12 **7 BLOCK**
+plane-crazy 2020-07-23 21:35:15 Bruh,
+plane-crazy 2020-07-23 21:35:21 I tried to cut it to 6 blocks,
+plane-crazy 2020-07-23 21:35:26 it worked for  like 4 seconds
+plane-crazy 2020-07-23 21:35:30 but the plane is just...
+plane-crazy 2020-07-23 21:35:32 unstable...
+plane-crazy 2020-07-23 21:35:54 Bruh
+plane-crazy 2020-07-23 21:36:00 My biggest plane is a Submarine
+plane-crazy 2020-07-23 21:36:11 https://tenor.com/view/kyouko-toshinou-yuru-yuri-smug-smile-laugh-gif-13909640
+plane-crazy 2020-07-23 21:36:34 if ur talking  about genuine planes
+plane-crazy 2020-07-23 21:36:39 uhhh
+plane-crazy 2020-07-23 21:36:49 is either a drone or
+plane-crazy 2020-07-23 21:37:25 Savoic
+plane-crazy 2020-07-23 21:37:42 I'm having problem folding a barrel for my flying sub
+plane-crazy 2020-07-23 21:37:47 I know the shape
+plane-crazy 2020-07-23 21:37:51 but it won't fucking fold
+plane-crazy 2020-07-23 21:37:56 it's a block off
+plane-crazy 2020-07-23 21:38:03 a block too far out and a block too high lol
+plane-crazy 2020-07-23 21:40:20 I'm tryna do
+plane-crazy 2020-07-23 21:40:24 
+plane-crazy 2020-07-23 21:40:29 that kind of thing
+plane-crazy 2020-07-23 21:40:36 1 sec
+plane-crazy 2020-07-23 21:40:46 it keeps placing  it
+plane-crazy 2020-07-23 21:40:49 a block too far out,
+plane-crazy 2020-07-23 21:40:55 and a block too high
+plane-crazy 2020-07-23 21:41:02 No matter how many times I adjusted
+plane-crazy 2020-07-23 21:41:08 it did the same thing every time
+plane-crazy 2020-07-23 21:41:20 1 sec lemme log into roblox I'm playing minecraft rn
+plane-crazy 2020-07-23 21:41:39 Was working on my Super BB
+plane-crazy 2020-07-23 21:41:43 
+plane-crazy 2020-07-23 21:41:51 Ok...
+plane-crazy 2020-07-23 21:42:16 Yeah.
+plane-crazy 2020-07-23 21:42:51 it really complements my Carrier, Frigate, and like 4 subs well
+plane-crazy 2020-07-23 21:43:12 It's a custom *Schachtschiff H* design,
+plane-crazy 2020-07-23 21:44:17 I was currently putting micro runways like on the *Sagami*,
+plane-crazy 2020-07-23 21:44:27 and then Imma  probably put some Super Heavy Cannons too.
+plane-crazy 2020-07-23 21:44:41 ok I have roblox up
+plane-crazy 2020-07-23 21:47:35 Ok...
+plane-crazy 2020-07-23 21:48:12 So I re-placed the  motors
+plane-crazy 2020-07-23 21:48:16 
+plane-crazy 2020-07-23 21:48:27 how high up or far forward should I place the barrel?
+plane-crazy 2020-07-23 21:48:51 I want an open space to line up with that little 3x3 of lighter blue
+plane-crazy 2020-07-23 21:50:02 this shape.
+plane-crazy 2020-07-23 21:50:04 
+plane-crazy 2020-07-23 21:51:20 But
+plane-crazy 2020-07-23 21:51:25 it'd be out of my space
+plane-crazy 2020-07-23 21:51:53 you see,
+plane-crazy 2020-07-23 21:52:03 I'm trying to line up that empty area with those lighter blue blocks
+plane-crazy 2020-07-23 21:52:20 so where do I put it and the motors so that it folds correctly
+plane-crazy 2020-07-23 21:55:07 brooo
+plane-crazy 2020-07-23 21:55:14 <:KEKW:670310537300672528>
+plane-crazy 2020-07-23 21:57:04 <:KEKW:670310537300672528> <:KEKW:670310537300672528> <:OMEGALUL:528987216643489792>
+plane-crazy 2020-07-23 21:57:21 "your have robux your the devill man"
+plane-crazy 2020-07-23 21:57:43 <:kek:652566605028524033>
+general 2020-07-23 22:00:06 bruh
+general 2020-07-23 22:03:42 
+the-dump 2020-07-23 22:04:30 
+the-dump 2020-07-23 22:07:07 <:KEKW:670310537300672528>
+general 2020-07-23 22:08:58 change format
+the-dump 2020-07-23 22:09:25 My Window: *Exists*
+Moths:
+the-dump 2020-07-23 22:09:27 https://tenor.com/view/hold-on-manatee-gif-4897821
+the-dump 2020-07-23 22:21:47 https://cdn.discordapp.com/attachments/680130547334643856/733232487567982673/video0.mp4
+the-dump 2020-07-23 22:21:56 
+plane-crazy 2020-07-23 22:33:31 Bruh
+plane-crazy 2020-07-23 22:33:40 f
+plane-crazy 2020-07-23 22:33:43 https://tenor.com/view/bad-day-accident-plane-wheel-gif-16013352
+plane-crazy 2020-07-23 22:33:47 I think we  lost something
+the-dump 2020-07-23 22:34:22 I am rn
+the-dump 2020-07-23 22:37:11 sure
+plane-crazy 2020-07-24 00:12:30 Bruh
+plane-crazy 2020-07-24 00:12:32 
+plane-crazy 2020-07-24 00:12:35 that's a RAW F in the chat.
+general 2020-07-24 00:13:34 Dud
+general 2020-07-24 00:13:43 those look like PC builds
+the-dump 2020-07-24 01:06:47 Hailer infinite
+plane-crazy 2020-07-24 01:08:09 bruh
+plane-crazy 2020-07-24 01:08:11 fuckin
+plane-crazy 2020-07-24 01:08:15 Tapper
+plane-crazy 2020-07-24 01:08:23 that grammar mistake
+plane-crazy 2020-07-24 01:08:30 oof
+the-dump 2020-07-24 01:18:44 
+plane-crazy 2020-07-24 03:12:55 **F** for Full Band.
+plane-crazy 2020-07-24 03:13:16 Damnit Bandog.
+plane-crazy 2020-07-24 03:13:30 Why'd you mark him Hostile...
+the-dump 2020-07-24 03:15:47 
+the-dump 2020-07-24 03:16:52 Lol it's not.
+the-dump 2020-07-24 03:17:12 It's related though, if you're mentioning  what I think.
+the-dump 2020-07-24 03:17:17 Can you specify in DM?
+general 2020-07-24 03:17:33 lol
+the-dump 2020-07-24 03:23:43 <@!426802747875131393> **F** lol
+the-dump 2020-07-24 03:23:49 that's Azur Lane lol
+the-dump 2020-07-24 03:24:27 Azur Lane isn't my thing.
+the-dump 2020-07-24 03:25:16 My Pfp is KanColle based from a different series, just the design type is KanColle, with the Anthro look.
+the-dump 2020-07-24 03:25:27 But the ship is from a different series lol.
+the-dump 2020-07-24 03:25:41 Bruh
+the-dump 2020-07-24 03:25:48 I've had the same status for like a month lol
+the-dump 2020-07-24 03:32:27 Dude,
+the-dump 2020-07-24 03:32:45 they did that with the Bruce Lee movie lol.
+the-dump 2020-07-24 03:33:03 ?
+the-dump 2020-07-24 03:33:56 I seen that before
+the-dump 2020-07-24 03:34:05 Can I say something?
+the-dump 2020-07-24 03:34:23 
+the-dump 2020-07-24 03:36:54 Bruh-
+the-dump 2020-07-24 03:36:57 lol moment
+the-dump 2020-07-24 03:36:59 https://www.youtube.com/watch?v=mq7t2f9eBdM
+the-dump 2020-07-24 03:37:00 Yes!
+the-dump 2020-07-24 03:37:09 oof moment
+the-dump 2020-07-24 03:37:41 YES
+the-dump 2020-07-24 03:37:43 HAHA
+the-dump 2020-07-24 03:44:42 bruh
+the-dump 2020-07-24 03:44:53 I saw that Akagi there
+the-dump 2020-07-24 03:45:03 that was the  WoWS event
+the-dump 2020-07-24 03:45:25 <@!578985813380169751> amazing of the real Girls und the Panzer
+plane-crazy 2020-07-24 04:57:28 Because of that Supremacy,
+plane-crazy 2020-07-24 04:57:31 Imma make my Birb wider
+plane-crazy 2020-07-24 04:57:35 Thicker birb
+plane-crazy 2020-07-24 04:58:03 No
+plane-crazy 2020-07-24 04:58:22 Thick ship is the Druna Skass from Naval Commander
+plane-crazy 2020-07-24 04:59:51 uh
+plane-crazy 2020-07-24 04:59:55 Is has the PLSL's
+plane-crazy 2020-07-24 04:59:59 I forgot which one, from M19.
+plane-crazy 2020-07-24 05:00:02 Also
+plane-crazy 2020-07-24 05:00:09 Druna Skass compare to Yamato
+plane-crazy 2020-07-24 05:00:14 
+plane-crazy 2020-07-24 05:00:19 thick
+plane-crazy 2020-07-24 05:00:21 ***thicck***
+plane-crazy 2020-07-24 05:00:36 There were two,
+plane-crazy 2020-07-24 05:00:40 which one was from M19?
+plane-crazy 2020-07-24 05:00:48 Oh
+plane-crazy 2020-07-24 05:00:51 then Justice.
+plane-crazy 2020-07-24 05:00:57 Because it has the PLSL's
+plane-crazy 2020-07-24 05:01:07 Like Justice from M19 Lighthouse.
+plane-crazy 2020-07-24 05:01:09 Dude
+plane-crazy 2020-07-24 05:01:11 make it
+plane-crazy 2020-07-24 05:01:14 huge.
+plane-crazy 2020-07-24 05:01:16 well,
+plane-crazy 2020-07-24 05:01:22 mine is tbh 2 folds.
+plane-crazy 2020-07-24 05:01:27 with an extra one.
+plane-crazy 2020-07-24 05:01:35 has no aerodynamics at all
+plane-crazy 2020-07-24 05:01:52 had to use Hovers and then use Cameras to build a small box with more thrusters to reverse and turn
+plane-crazy 2020-07-24 05:02:34 But srsly
+plane-crazy 2020-07-24 05:02:46 **Arsenal Bird Honor launch at 12:00 PM EST 7/25/2020**
+plane-crazy 2020-07-24 05:02:47 Don't forget.
+plane-crazy 2020-07-24 05:03:15 Time to utalize the APS as a weapon.
+plane-crazy 2020-07-24 05:03:28 Shear ships in half by flying low and turning it on and off
+plane-crazy 2020-07-24 05:05:46 Bruh
+plane-crazy 2020-07-24 05:05:56 Why didn't Liberty just
+plane-crazy 2020-07-24 05:05:57 fly low
+plane-crazy 2020-07-24 05:06:04 and shear apart the guns
+plane-crazy 2020-07-24 05:06:08 with her APS lol
+plane-crazy 2020-07-24 05:06:17 bruh
+plane-crazy 2020-07-24 05:06:19 Starship
+plane-crazy 2020-07-24 05:12:40 BRUH
+plane-crazy 2020-07-24 05:12:57 <:KEKW:670310537300672528>
+the-dump 2020-07-24 05:26:55 
+plane-crazy 2020-07-24 05:34:08 No.
+plane-crazy 2020-07-24 05:34:14 I'd rather make them
+plane-crazy 2020-07-24 05:34:18 ```diff
+-BURN
+```
+plane-crazy 2020-07-24 05:34:44 wow
+plane-crazy 2020-07-24 05:34:47 who doesn't lol
+plane-crazy 2020-07-24 05:34:56 everyone  has a fucking rocket lol
+plane-crazy 2020-07-24 05:35:03 it's either a rocket or fucking stealth plane
+plane-crazy 2020-07-24 05:43:56 uhhh sir
+plane-crazy 2020-07-24 05:44:02 it's called Roblox Filter
+plane-crazy 2020-07-24 05:44:17 you can still make an aiming
+plane-crazy 2020-07-24 05:44:31 ye bc everyone can see the signs
+plane-crazy 2020-07-24 05:44:39 people under 13 can't see numbers,
+plane-crazy 2020-07-24 05:44:48 so if  everyone can see signs, even undes
+plane-crazy 2020-07-24 05:44:59 then their ofc just gonna  have universal filter
+plane-crazy 2020-07-24 05:45:13 Unlike chat which bias's on your age
+plane-crazy 2020-07-24 05:45:29 Whether you'r 13> or 13+
+the-dump 2020-07-24 05:47:37 Bruh wtf
+the-dump 2020-07-24 05:47:41 
+the-dump 2020-07-24 05:47:49 Dude, I got the scrambled message font.
+the-dump 2020-07-24 05:48:05 It's changing lmfao
+the-dump 2020-07-24 06:20:15 Star Platinum The World Moment
+general 2020-07-24 06:26:49 salte
+plane-crazy 2020-07-24 06:29:06 No
+plane-crazy 2020-07-24 06:29:08 It's because of
+plane-crazy 2020-07-24 06:29:14 🧂
+plane-crazy 2020-07-24 06:29:18 Salte ppl
+the-dump 2020-07-24 06:30:10 <:OMEGALUL:528987216643489792>
+plane-crazy 2020-07-24 06:32:20 Wait
+plane-crazy 2020-07-24 06:32:24 Is that the Shinden?
+plane-crazy 2020-07-24 06:32:26 Nvm no ll
+plane-crazy 2020-07-24 06:32:28 lol
+plane-crazy 2020-07-24 06:34:00 BUBL
+plane-crazy 2020-07-24 06:34:10 AMAZING FALKEN
+plane-crazy 2020-07-24 06:34:39 <@!695352880735191040>
+plane-crazy 2020-07-24 06:34:56 Epic Falken
+plane-crazy 2020-07-24 06:37:37 Bruh
+plane-crazy 2020-07-24 06:37:43 If  we get Laser Cutters
+plane-crazy 2020-07-24 06:37:48 so many ppl r gonna be making  Morgans
+plane-crazy 2020-07-24 07:25:18 Bruh
+plane-crazy 2020-07-24 07:25:20 
+plane-crazy 2020-07-24 07:27:07 bruh then show me where to put the motors
+plane-crazy 2020-07-24 07:27:16 the shit pissing me off
+plane-crazy 2020-07-24 07:27:40 Yes it is
+plane-crazy 2020-07-24 07:27:47 Bruh
+plane-crazy 2020-07-24 07:27:51 then show me where to put the motor
+plane-crazy 2020-07-24 07:28:44 Motor locking?
+plane-crazy 2020-07-24 07:29:48 Also
+plane-crazy 2020-07-24 07:29:55 there's an issue with jetpacks
+plane-crazy 2020-07-24 07:30:03 just subtly floating upward
+the-dump 2020-07-24 07:30:50 
+plane-crazy 2020-07-24 07:32:35 YOOOOOOOOOOOOO
+plane-crazy 2020-07-24 07:32:38 I GOT IT
+plane-crazy 2020-07-24 07:33:36 IT FINALLY FUCKING FOLDED!
+plane-crazy 2020-07-24 07:33:40 https://tenor.com/view/celebrate-shinkoukei-mashiro-dancing-gif-4909808
+plane-crazy 2020-07-24 07:34:00 I SPENT A WHOLE WEEK ON THIS PREDICAMENT!
+plane-crazy 2020-07-24 07:34:29 I moved the bottom layer of the barrel a block  up lol
+plane-crazy 2020-07-24 07:47:22 No.
+plane-crazy 2020-07-24 07:47:37 Watch me make a Not Trash Anchored Railgun Installation.
+plane-crazy 2020-07-24 07:48:02 Not if I put actual guns in it.
+plane-crazy 2020-07-24 07:54:45 Is it not possible to make more realistic large flaps for mega-sized aircraft using Motor2's?
+general 2020-07-24 07:54:58 Bruh
+general 2020-07-24 07:55:08 I don't wanna know that.
+plane-crazy 2020-07-24 07:57:38 >
+the-dump 2020-07-24 07:59:28 Shqiptar
+the-dump 2020-07-24 07:59:36 Shqiptar Bre
+the-dump 2020-07-24 07:59:44 Kebab 1,
+the-dump 2020-07-24 07:59:45 Kebab 2
+plane-crazy 2020-07-24 08:03:15 There's only one way to make shredders decent.
+plane-crazy 2020-07-24 08:03:38 Paint them white and put them into a box truck so they can be MQ-99's.
+the-dump 2020-07-24 08:03:49 Thank you
+the-dump 2020-07-24 08:04:28 
+plane-crazy 2020-07-24 08:21:27 https://tenor.com/view/kermit-typewriter-speed-typing-navy-seals-copypasta-gif-15687803
+plane-crazy 2020-07-24 08:21:58 **Giggity**
+plane-crazy 2020-07-24 08:50:56 Shqiptar Ontiair beautifool
+plane-crazy 2020-07-24 08:51:07 Can Ontiair handle  diis?
+plane-crazy 2020-07-24 08:51:50 woaah
+plane-crazy 2020-07-24 09:35:58 The absolute fuck is that
+plane-crazy 2020-07-24 09:35:59 Sus
+plane-crazy 2020-07-24 09:36:06 what are those weird rope wall lookin things
+plane-crazy 2020-07-24 09:36:11 ppl lag servers with them
+plane-crazy 2020-07-24 09:36:19 they basically just look like a wall of rope
+plane-crazy 2020-07-24 09:36:21 wtf are those
+plane-crazy 2020-07-24 09:39:05 oH MY GOD
+plane-crazy 2020-07-24 09:39:08 wHAT HAVE I DONE
+plane-crazy 2020-07-24 09:39:13 I have created something
+plane-crazy 2020-07-24 09:39:20 that vibrates so violently
+plane-crazy 2020-07-24 09:39:38 Not even Anchor blocks
+plane-crazy 2020-07-24 09:39:40 can control it
+plane-crazy 2020-07-24 09:39:50 😨
+plane-crazy 2020-07-24 09:41:31 *Insert Elton John Music*
+plane-crazy 2020-07-24 09:41:50 I am rocketman lmfao
+plane-crazy 2020-07-24 09:42:02 I got
+plane-crazy 2020-07-24 09:42:04 Yeeto Burrito
+plane-crazy 2020-07-24 09:43:15 BRUH
+plane-crazy 2020-07-24 09:43:22 I ANCHORED THIS
+plane-crazy 2020-07-24 09:43:24 WTF HAPPANED
+plane-crazy 2020-07-24 09:43:41 I WENT FROM 24,000,000 SPEED TO 0 INSTANTLY AND THEN BACK AGAIN
+plane-crazy 2020-07-24 09:43:50 Yes, indeed
+plane-crazy 2020-07-24 09:43:53 I found a way
+plane-crazy 2020-07-24 09:44:01 to move an immovable object
+the-dump 2020-07-24 18:36:47 Bruh
+the-dump 2020-07-24 18:36:50 Rondal
+the-dump 2020-07-24 18:36:54 McDondal
+the-dump 2020-07-24 18:37:16 Fuck your ballpit and fuck your grammar
+the-dump 2020-07-24 18:37:30 Nevermind, your grammars already fucked.
+general 2020-07-24 18:37:51 Woah
+general 2020-07-24 18:37:52 APC
+general 2020-07-24 18:38:32 What country does an APC have to drive along a perilous mountainside road in order to get to it's destination?
+plane-crazy 2020-07-24 18:43:00 Bruh
+plane-crazy 2020-07-24 18:43:04 LACM?
+plane-crazy 2020-07-24 18:43:09 lol
+plane-crazy 2020-07-24 18:43:20 Maybe it's an ASROC
+plane-crazy 2020-07-24 18:43:41 *and to show you the power of flex tape*
+plane-crazy 2020-07-24 18:43:48 ***I SAWED THIS BOAT IN HALF!***
+plane-crazy 2020-07-24 18:43:59 *and repaired it only using flex tape.*
+plane-crazy 2020-07-24 18:44:14 ***AND  AFTER A DAY ON THE WATER, THE INSIDE IS COMPLETELY DRY.***
+plane-crazy 2020-07-24 18:44:20 ***YE-HAW***
+plane-crazy 2020-07-24 18:44:34 Breathtaking
+plane-crazy 2020-07-24 18:44:47 ly interesting has potential
+plane-crazy 2020-07-24 18:45:01 uhh
+plane-crazy 2020-07-24 18:45:15 you forgot the demon laser visor thing for the FO version
+plane-crazy 2020-07-24 18:45:40 wait
+plane-crazy 2020-07-24 18:45:42 I see it now
+the-dump 2020-07-24 18:55:57 donk
+plane-crazy 2020-07-24 19:08:17 *cri*
+plane-crazy 2020-07-24 19:09:05 What the hell
+plane-crazy 2020-07-24 19:09:13 I fell of the edge of the world
+plane-crazy 2020-07-24 19:09:19 and I deployed jetpack
+plane-crazy 2020-07-24 19:09:24 and it won't fly up,
+plane-crazy 2020-07-24 19:09:28 it's dragging me downward
+plane-crazy 2020-07-24 19:16:57 When lighting is perfect.
+plane-crazy 2020-07-24 19:17:29 also
+plane-crazy 2020-07-24 19:17:32 <:KEKW:670310537300672528>
+plane-crazy 2020-07-24 19:17:52 MORE ZEROES
+plane-crazy 2020-07-24 19:17:57 <:OMEGALUL:528987216643489792>
+general 2020-07-24 19:23:04 br
+the-dump 2020-07-24 19:24:21 Rickje walking into any Plane Crazy server
+the-dump 2020-07-24 19:24:26 https://tenor.com/view/mrgurnsss-friday-feels-monkey-gangster-gif-12327167
+the-dump 2020-07-24 19:37:32 https://media.discordapp.net/attachments/720213272543887450/735907354859798578/image0-14.gif
+the-dump 2020-07-24 19:39:19 
+the-dump 2020-07-24 19:43:56 https://cdn.discordapp.com/attachments/735002426154680422/735316896102088816/video0-37.mp4
+the-dump 2020-07-24 19:44:17 
+the-dump 2020-07-24 19:44:34 <:KEKW:670310537300672528>
+plane-crazy 2020-07-24 19:45:35 https://tenor.com/view/thonk-thinking-sun-thonk-sun-thinking-sun-gif-14999983
+plane-crazy 2020-07-24 20:01:56 *Sirens*
+plane-crazy 2020-07-24 20:02:26 ***HOSTILES IN THE AREA, DEPLOYING HUNTER KILLER DRONES!***
+plane-crazy 2020-07-24 20:02:42 Every game is getting bots
+plane-crazy 2020-07-24 20:03:09 Bruh
+plane-crazy 2020-07-24 20:03:11 lol
+plane-crazy 2020-07-24 20:04:05 Buh
+plane-crazy 2020-07-24 20:04:16 I made an Anchored Block move
+plane-crazy 2020-07-24 20:04:50 The anchored block was anchored
+plane-crazy 2020-07-24 20:04:57 and it broke the speed limit
+plane-crazy 2020-07-24 20:05:16 
+plane-crazy 2020-07-24 20:05:18 like this?
+plane-crazy 2020-07-24 20:07:50 What in the
+plane-crazy 2020-07-24 20:07:53 blazing hells
+plane-crazy 2020-07-24 20:07:56 did I find
+plane-crazy 2020-07-24 20:07:59 
+plane-crazy 2020-07-24 20:08:15 it's like a jigsaw
+plane-crazy 2020-07-24 20:08:20 or  optical illusion
+plane-crazy 2020-07-24 20:08:35 oh it's gone
+plane-crazy 2020-07-24 20:09:51 Bruh
+plane-crazy 2020-07-24 20:09:54 you ever notice when
+plane-crazy 2020-07-24 20:10:04 hen you put **Physics** on on an Anchor Block,
+plane-crazy 2020-07-24 20:10:10 all hell breaks loose
+plane-crazy 2020-07-24 20:13:26 9 FPS
+plane-crazy 2020-07-24 20:13:39 https://tenor.com/view/scared-freak-out-clutch-my-pearls-gasp-scary-gif-5496313
+plane-crazy 2020-07-24 20:16:24 bruh
+plane-crazy 2020-07-24 20:16:39 I hate ppl who freak out about low FPS
+plane-crazy 2020-07-24 20:16:49 I mean, 9 is kinda bad,
+plane-crazy 2020-07-24 20:16:53 not  too bad tho,
+plane-crazy 2020-07-24 20:16:56 as alot of times in PC
+plane-crazy 2020-07-24 20:17:09 I'm usually aroun 10 FPS most  of the time in PC
+plane-crazy 2020-07-24 20:17:20 But ppl cry when they get like 30 fps
+plane-crazy 2020-07-24 20:17:22 like wtf
+plane-crazy 2020-07-24 20:17:30 I'm accustomed to 10 FPS
+plane-crazy 2020-07-24 20:17:49 Bc like 80/100% of  the time in Plane Crazy that's about my FPS  level
+plane-crazy 2020-07-24 20:18:06 It's weird because it's really smooth actually
+plane-crazy 2020-07-24 20:18:16 It's just other ppl who freak out on the server lol
+plane-crazy 2020-07-24 20:18:33 Everyone else takes my lag lol
+plane-crazy 2020-07-24 20:18:43 I got instant from like 58 FPS to 13
+plane-crazy 2020-07-24 20:18:52 10.36 I mean.
+plane-crazy 2020-07-24 20:19:10 I just hit 6 lol
+plane-crazy 2020-07-24 20:20:53 lol
+plane-crazy 2020-07-24 20:20:57 
+plane-crazy 2020-07-24 20:21:17 there'll be times where my peak for like 5 minutes will be like 24, and  t'll happen like  2 times.
+plane-crazy 2020-07-24 20:24:09 ye
+plane-crazy 2020-07-24 20:24:11 
+plane-crazy 2020-07-24 20:24:14 my natural habitat
+plane-crazy 2020-07-24 20:25:31 When I live in a bad connection zone to roblox and I have 7 FPS but yet  I'm running smoothly but the players in Calif. right  next to Roblox HQ are crying  because of the lag
+the-dump 2020-07-24 20:37:08 
+the-dump 2020-07-24 20:37:41 
+the-dump 2020-07-24 20:43:15 <:Thonk:509498568982134816>
+plane-crazy 2020-07-24 20:53:30 rofl
+plane-crazy 2020-07-24 20:53:39 I just evaded some noob in a shredder bug with my old WWII plane
+plane-crazy 2020-07-24 20:53:45 for like 5 minutes straight lol
+plane-crazy 2020-07-24 20:53:48 he got like 2 of my panes
+plane-crazy 2020-07-24 20:53:52 <:KEKW:670310537300672528>
+plane-crazy 2020-07-24 20:53:53 panels*
+plane-crazy 2020-07-24 21:05:41 I need a tactical SSD to enter the server.
+plane-crazy 2020-07-24 21:05:54 Some youtuber kid keeps spamming chat with his videos and is whining
+plane-crazy 2020-07-24 21:10:48 some noob is using a shredder
+plane-crazy 2020-07-24 21:10:53 can someone delete him for me?
+plane-crazy 2020-07-24 21:11:13 No guns
+plane-crazy 2020-07-24 21:11:29 He circumsized me of my only turret
+plane-crazy 2020-07-24 21:13:22 ok this is getting like seriously gay rn
+plane-crazy 2020-07-24 21:14:38 MGM?
+plane-crazy 2020-07-24 21:15:33 I KAMIKAZED HIM
+plane-crazy 2020-07-24 21:15:38 <:KEKW:670310537300672528>
+plane-crazy 2020-07-24 21:15:59 He still hasn't realized my plane is a Kamikaze Rocket Plane from WWII
+plane-crazy 2020-07-24 21:16:03 The MXY-7 Okha
+plane-crazy 2020-07-24 21:16:09 It's strapped with bombs lol
+plane-crazy 2020-07-24 21:16:11 he fell for it
+plane-crazy 2020-07-24 21:16:16 bruh
+plane-crazy 2020-07-24 21:17:18 OH MY GOD
+plane-crazy 2020-07-24 21:17:32 there's a giant mouse guided missile like 30 blocks wide filled with TNT bruh
+plane-crazy 2020-07-24 21:17:47 the shredder is RUNNING
+plane-crazy 2020-07-24 21:18:12 lol
+plane-crazy 2020-07-24 21:19:17 Wait
+plane-crazy 2020-07-27 09:29:05 Plane crazy player^^^^^^
+plane-crazy 2020-07-27 21:20:31 Plane crazy PVP builds like
+general 2020-07-27 21:26:49 zJames, what ship is that for?
+plane-crazy 2020-07-27 21:48:49 OH MY GOD DID WE FUCKING LOSE VIP SERVERS
+plane-crazy 2020-07-27 21:49:12 https://tenor.com/view/rage-anime-gif-5025654
+plane-crazy 2020-07-27 21:51:12 oh.
+plane-crazy 2020-07-27 21:51:21 Rinse  and repeat Scud missile truck.
+plane-crazy 2020-07-27 21:51:23 Oke.
+plane-crazy 2020-07-27 22:09:16 My guys, imma build this, nobody take my idea.
+plane-crazy 2020-07-27 22:09:17 It's the Stool Bus.
+plane-crazy 2020-07-27 22:10:05 Also, never take your short busses for  granted.
+plane-crazy 2020-07-27 22:10:16 You're lucky you don't have  to endure the  pain of
+plane-crazy 2020-07-27 22:10:19 this.
+plane-crazy 2020-07-27 22:10:20 
+plane-crazy 2020-07-27 22:10:37 Big Brian
+plane-crazy 2020-07-27 22:10:55 OH MY GOD
+plane-crazy 2020-07-27 22:11:00 RIP <@456226577798135808>
+plane-crazy 2020-07-27 22:11:48 https://tenor.com/view/blob-banned-ban-hammer-blob-ban-emoji-gif-16021044
+the-dump 2020-07-27 22:15:18 non tehc
+the-dump 2020-07-27 22:16:32 that video is amazing
+plane-crazy 2020-07-27 22:20:31 Oh wait,
+plane-crazy 2020-07-27 22:20:34 
+plane-crazy 2020-07-27 22:20:43 Ok, we still have VIP servers, whew lol.
+plane-crazy 2020-07-27 22:20:54 Private Servers*
+the-dump 2020-07-27 22:26:10 https://media.discordapp.net/attachments/249323225509658625/737036952800460920/video0.mp4
+the-dump 2020-07-27 22:33:17 https://media.discordapp.net/attachments/509971218552586260/732198922080092290/clonecoffindancers.mp4
+the-dump 2020-07-27 22:33:55 https://media.discordapp.net/attachments/448224024586092565/734715582385094666/ea_sports_intro_but_its_just_the_e.mp4
+plane-crazy 2020-07-27 22:37:52 Centurion straight from Degobah.
+the-dump 2020-07-28 00:01:47 
+plane-crazy 2020-07-28 00:40:18 Oh.
+plane-crazy 2020-07-28 00:40:20 OH!
+plane-crazy 2020-07-28 00:40:22 DAMN
+plane-crazy 2020-07-28 00:40:34 
+plane-crazy 2020-07-28 00:40:37 YOOO
+plane-crazy 2020-07-28 00:41:14 Amazing.
+general 2020-07-28 03:32:12 Sending the minimods to investigate
+https://cdn.discordapp.com/attachments/706383540618788944/735222342787268688/FETCH_ME_THEIR_SOULS.mp4
+the-dump 2020-07-28 03:35:17 ^^^ Bro you gotta get the Brown Lysterine.
+plane-crazy 2020-07-28 03:36:01 holy sh-
+plane-crazy 2020-07-28 03:36:04 that's amazing.
+plane-crazy 2020-07-28 09:25:09 Bro,
+plane-crazy 2020-07-28 09:25:13 when I get Grav Slider,
+plane-crazy 2020-07-28 09:25:16 Imma SOLG up.
+plane-crazy 2020-07-28 09:25:55 The SOLG.
+plane-crazy 2020-07-28 09:26:25 **S**trategic **O**rbital **L**inear **G**un.
+plane-crazy 2020-07-28 09:26:32 It's from Ace Combat Infinity.
+plane-crazy 2020-07-28 09:27:40 ofc why not.
+plane-crazy 2020-07-28 09:28:33 No,
+plane-crazy 2020-07-28 09:28:34 224
+plane-crazy 2020-07-28 09:28:40 I need to learn how to build a Railgun
+plane-crazy 2020-07-28 09:28:45 so I can put it in my SOLG
+plane-crazy 2020-07-28 09:28:57 imma start testing in a VIP/ Private server
+plane-crazy 2020-07-28 09:32:28 224
+plane-crazy 2020-07-28 09:32:41 I forgot the fucking amount of damn Target Points the SOLG had.
+plane-crazy 2020-07-28 09:32:49 
+plane-crazy 2020-07-28 09:32:49 Alot.
+plane-crazy 2020-07-28 09:32:53 Good Days.
+plane-crazy 2020-07-28 09:35:57 Bruh Holy Sh- this is the best Roblox hat I've seen rofl
+plane-crazy 2020-07-28 09:35:59 https://www.roblox.com/catalog/5269023723/Checker-Of-Vibes
+plane-crazy 2020-07-28 09:36:11 Su-47
+plane-crazy 2020-07-28 09:37:51 <@456226577798135808>
+plane-crazy 2020-07-28 09:37:56 true or nu
+plane-crazy 2020-07-28 09:38:04 ACZ's Exalibur lookin like
+plane-crazy 2020-07-28 09:38:10 the Eye of Sauron from LOTR
+plane-crazy 2020-07-28 09:38:15 
+plane-crazy 2020-07-28 09:38:41 ALso 224,
+plane-crazy 2020-07-28 09:38:47 Don't build a Bird,
+plane-crazy 2020-07-28 09:38:49 I did that.
+plane-crazy 2020-07-28 09:39:36 Build a Gyges Aerial Fortress.
+plane-crazy 2020-07-28 09:39:48 
+plane-crazy 2020-07-28 09:40:21 Btw,
+plane-crazy 2020-07-28 09:40:27 if you need size Comp
+plane-crazy 2020-07-28 09:40:33 (We need to build an Alicorn soon.)
+plane-crazy 2020-07-28 09:41:09 Bruh, 1 sec
+plane-crazy 2020-07-28 09:41:12 look at this
+plane-crazy 2020-07-28 09:41:18 Exal. Laser Spam
+plane-crazy 2020-07-28 09:41:23 Laser Spasm
+plane-crazy 2020-07-28 09:41:28 Hey remember the Shock Cannon?
+plane-crazy 2020-07-28 09:41:28 
+plane-crazy 2020-07-28 09:42:21 Here,
+plane-crazy 2020-07-28 09:42:26 Shock Cannon firing.
+plane-crazy 2020-07-28 09:42:30 
+plane-crazy 2020-07-28 09:42:55 It's one of the only things that could 1-shot the Bird with APS
+plane-crazy 2020-07-28 09:43:09 Besides the Stonehenge Mach 17 Railgun.
+plane-crazy 2020-07-28 09:43:35 Also accurate Size Comparison
+plane-crazy 2020-07-28 09:43:45 
+plane-crazy 2020-07-28 09:44:40 No,
+plane-crazy 2020-07-28 09:44:50 it's a dummy thikk count of 1,100 Metres
+plane-crazy 2020-07-28 09:44:55 Dw,
+plane-crazy 2020-07-28 09:45:05 I'll translate it to the American Non-Metric
+plane-crazy 2020-07-28 09:45:35 It's 3608 Feet wide.
+plane-crazy 2020-07-28 09:45:57 Also
+plane-crazy 2020-07-28 09:46:04 on the size comparison, from top to bottom:
+plane-crazy 2020-07-28 09:46:30 An F-15C
+Generic Warship, Likely Arleigh-Burke
+The Scinfaxi/Hrimaxi
+Nimitz-Class
+The Alicorn
+The XB-0 Hresvelgr
+The Arkbird
+The Aigaion
+The Arsenal Bird
+plane-crazy 2020-07-28 09:47:58 bruh
+plane-crazy 2020-07-28 09:48:04 ***Exxon Mobil approves***
+plane-crazy 2020-07-28 09:52:56 bruh
+plane-crazy 2020-07-28 09:53:01 Shtorm'd be a good comp-
+plane-crazy 2020-07-28 09:53:02 I was mistaken. It's only 330 Metres long
+*Arsenal Bird - 1,100 Meters wide*
+😳 ***Wide Putin Approves***
+plane-crazy 2020-07-28 09:59:38 Hey Jay,
+plane-crazy 2020-07-28 09:59:50 There's something big behind the pl-
+plane-crazy 2020-07-28 10:00:01 
+plane-crazy 2020-07-28 10:00:10 https://tenor.com/view/turn-and-burn-fighter-jet-gif-5626844
+plane-crazy 2020-07-28 10:00:13 *E v a d e*
+plane-crazy 2020-07-28 10:00:34 The pain of getting chased by a Satellite.
+plane-crazy 2020-07-28 10:01:13 Hey, I wonder if there's anywhere I can find the basics on how to build a railgun in PC
+plane-crazy 2020-07-28 10:06:51 ...
+plane-crazy 2020-07-28 10:07:34 I'm telling you,
+plane-crazy 2020-07-28 10:07:39 when this finished,
+bot-central 2020-07-28 17:22:15 You know the rules, and so I do.
+bot-central 2020-07-28 17:22:17 Say goodbye.
+general 2020-07-28 17:23:42 H o l y S h i t My bois.
+general 2020-07-28 17:24:46 I just got 3 hours of sleep and I feel like I just came off a Caffein High, I'm so fucking tired right now, time to build Plane Crazy builds.
+general 2020-07-28 17:25:17 Bruh
+general 2020-07-28 17:25:21 you clicked '
+general 2020-07-28 17:25:29 Wait, yeah :
+general 2020-07-28 17:25:40 It's not gonna do anything tho.
+plane-crazy 2020-07-28 18:26:53 woah
+plane-crazy 2020-07-28 18:26:55 smoot
+plane-crazy 2020-07-28 18:27:21 Holy sh- that's smooth
+the-dump 2020-07-28 19:11:32 
+the-dump 2020-07-28 19:12:45 https://tenor.com/view/nuclear-bomb-atomic-bomb-explosion-explode-bomb-gif-4724984
+general 2020-07-28 19:31:35 Bro that fucking Minecraft video above that's some real deep shit there
+the-dump 2020-07-28 19:31:57 No,
+the-dump 2020-07-28 19:32:01 It's a Flakpanzer.
+the-dump 2020-07-28 19:32:13 Kugel has Quad-barrel.
+the-dump 2020-07-28 19:32:20 That was double.
+the-dump 2020-07-28 19:32:30 https://tenor.com/view/pewdiepie-big-brain-youtube-pewdiepie-big-brain-pewds-gif-14807319
+the-dump 2020-07-28 19:33:17 the pain is real
+the-dump 2020-07-28 19:33:19 I have to place
+the-dump 2020-07-28 19:33:25 ladders down this entire thing.
+general 2020-07-28 19:35:54 Always has been.
+general 2020-07-28 19:36:07 *roll credits*
+general 2020-07-28 19:36:13 Dude
+general 2020-07-28 19:36:17 You mean Atomic Annie?
+general 2020-07-28 19:36:36 But Atomic Annie is a Nuclear Mortar
+general 2020-07-28 19:39:52 Bruh
+general 2020-07-28 19:40:00 BT?
+general 2020-07-28 19:40:22 br
+general 2020-07-28 19:43:11 Tinon
+general 2020-07-28 19:43:26 Roll up on Rockstar Games headquartes in a Rhino Tank.
+plane-crazy 2020-07-28 20:00:03 <@456226577798135808> it's completus!
+plane-crazy 2020-07-28 20:00:21 The miniature SOLG is complete!
+plane-crazy 2020-07-28 20:00:27 Kinda rush, I need to grab something to eat.
+plane-crazy 2020-07-28 20:00:36 You mean SOLG.
+plane-crazy 2020-07-28 20:00:40 From Ace Combat Infinity.
+plane-crazy 2020-07-28 20:02:20 **S**trategic **O**rbital **L**inear **G**un
+plane-crazy 2020-07-28 20:02:31 Weapons satellite
+plane-crazy 2020-07-28 20:03:17 it looks like this
+plane-crazy 2020-07-28 20:03:19 
+plane-crazy 2020-07-28 20:03:31 Wait no lemme get a ingame  screenshot
+plane-crazy 2020-07-28 20:04:01 uhh yeah lower structure
+plane-crazy 2020-07-28 20:04:20 Shit-ton of hitboxes
+plane-crazy 2020-07-28 20:04:29 it has missiles and  a mega railgun
+plane-crazy 2020-07-28 20:04:35 bruh
+plane-crazy 2020-07-28 20:04:41 you haven't known pain
+plane-crazy 2020-07-28 20:04:51 Until you've  had to destroy all these Point Defense guns
+plane-crazy 2020-07-28 20:04:53 
+plane-crazy 2020-07-28 20:05:44 That's the problem.
+plane-crazy 2020-07-28 20:05:53 It took a
+plane-crazy 2020-07-28 20:06:03 particle collider cannon
+plane-crazy 2020-07-28 20:06:09 to knock it out of orbit.
+plane-crazy 2020-07-28 20:06:26 Purif,
+plane-crazy 2020-07-28 20:06:36 can you build  a van with a seat to kidnap ppl lmfao
+plane-crazy 2020-07-28 20:06:57 you know what I'm talking about,
+plane-crazy 2020-07-28 20:07:13 With what?
+plane-crazy 2020-07-28 20:07:19 It's in
+plane-crazy 2020-07-28 20:07:20 SPACE
+plane-crazy 2020-07-28 20:07:32 WHAT ARE YOU GOING TO RAM IT WITH?
+plane-crazy 2020-07-28 20:07:43 IT'S GOING TO SHOOT DOWN ANY SSTO'S
+plane-crazy 2020-07-28 20:07:54 SSTO'S, SHUTTLES, SATELLITES
+plane-crazy 2020-07-28 20:08:03 It's literally called a Satellite Interceptor.
+plane-crazy 2020-07-28 20:08:16 You wouldn't think it'd just Railgun the  Shuttle as it was launching?
+plane-crazy 2020-07-28 20:08:21 I said it has point defense
+plane-crazy 2020-07-28 20:08:55 naw
+plane-crazy 2020-07-28 20:09:02 I'd say Fly a birb rlly rlly high
+plane-crazy 2020-07-28 20:09:06 and engage APS
+plane-crazy 2020-07-28 20:09:12 Saw it in  half lmfao
+plane-crazy 2020-07-28 20:09:43 But
+plane-crazy 2020-07-28 20:09:49 what're you gonna launch the Humvee with?
+plane-crazy 2020-07-28 20:10:15 HOW ARE YOU GETTING IT INTO SPACE?!
+plane-crazy 2020-07-28 21:37:42 Omfl those Roma turrets
+plane-crazy 2020-07-28 21:37:45 **H O T**
+general 2020-07-28 21:38:22 T pose jesus
+general 2020-07-28 21:38:57 https://tenor.com/view/baldi-fortnite-fortnite-dance-gif-12747343
+general 2020-07-28 21:38:58 amaz
+plane-crazy 2020-07-29 00:25:08 fuuucckk
+plane-crazy 2020-07-29 00:25:20 my computer was hating me earlier and wouldn't open
+plane-crazy 2020-07-29 00:25:25 so I was forced to play
+plane-crazy 2020-07-29 00:25:32 Minecraft Dungeons on the XB1
+plane-crazy 2020-07-29 00:25:35 for like 3 hours
+plane-crazy 2020-07-29 00:25:48 **P A I N**
+bot-central 2020-07-29 00:26:16 Bro play you know the rules and so do I, say goodbye
+the-dump 2020-07-29 01:10:17 ***CARE PACKAGE READY***
+general 2020-07-29 01:33:42 Sympt Kek Dreadnought there.
+general 2020-07-29 01:34:12 How about make Vesuvio
+general 2020-07-29 01:37:10 Bord strike
+general 2020-07-29 01:37:30 BORD
+general 2020-07-29 01:37:42 *Silence*
+general 2020-07-29 01:37:58 No u
+general 2020-07-29 01:38:06 that's not even a sentence
+general 2020-07-29 01:38:44 Insert of
+general 2020-07-29 01:38:56 Anyone who pings me is a Tsun, I'm looking at you <@!456219506486804480>
+general 2020-07-29 01:39:11 The sentence  above it true
+general 2020-07-29 01:39:34 the sentence above is false.
+general 2020-07-29 01:39:52 The sentence above is backwards.
+general 2020-07-29 01:41:12 The sentence below is false
+The sentence above is true
+general 2020-07-29 01:41:35 above is false
+general 2020-07-29 01:42:08 above  is true
+general 2020-07-29 01:42:57 
+general 2020-07-29 01:43:39 
+general 2020-07-29 01:43:59 above the above is false
+general 2020-07-29 01:44:25 above above is false
+general 2020-07-29 01:44:41 above the above is false
+general 2020-07-29 01:44:51 above the above is false
+general 2020-07-29 01:47:55 above is false
+plane-crazy 2020-07-29 02:36:33 The appitamy of all Plane Crazy PVP builds V
+https://cdn.discordapp.com/attachments/329154768733995009/737840195889791086/doom_2-1.mp4
+plane-crazy 2020-07-29 02:37:43 ofc you are
+plane-crazy 2020-07-29 02:41:58 Is it round?
+plane-crazy 2020-07-29 02:42:14 Also,
+plane-crazy 2020-07-29 02:42:35 I suggest  using the one design with the propellor and the thing goes wherever you point.
+plane-crazy 2020-07-29 02:42:55 Take lava spitters, cutters, and all and make  an army of  angry roombas
+general 2020-07-29 02:43:22 *Bottleflip 100*
+general 2020-07-29 05:48:46 *YOU WERE SUPPOSED TO DESTROY THEM, NOT JOIN THEM!*
+plane-crazy 2020-07-29 05:50:22 USS Oil
+plane-crazy 2020-07-29 05:50:34 Mhm
+plane-crazy 2020-07-29 05:51:57 <@!707991071476547745>
+plane-crazy 2020-07-29 05:52:01 https://tenor.com/view/explode-combat-that-thing-you-just-posted-gif-14441130
+plane-crazy 2020-07-29 05:52:40 Arsenal Bird's MQ-101's when it detects a dust particle 10 miles away ^
+plane-crazy 2020-07-29 05:53:06 Oh look at that.
+plane-crazy 2020-07-29 05:53:19 Germany dusting off it's old WWII railway gun set
+plane-crazy 2020-07-29 05:53:21 https://tenor.com/view/ace-combat-explosion-gif-11418130
+plane-crazy 2020-07-29 05:54:06 https://tenor.com/view/excalibur-ace-combat-laser-belka-gif-17048982
+plane-crazy 2020-07-29 05:55:11 https://tenor.com/view/ace-combat-zero-belkan-assault-intensifies-ace-combat-zero-ace-combat-belkan-belka-gif-12507165
+plane-crazy 2020-07-29 05:55:42 https://tenor.com/view/ace-combat-strigon-fighter-jets-fighter-planes-gif-11418299
+plane-crazy 2020-07-29 05:56:45 Me with multiple alts in the same server when I see shinx's Eclipse spawn in PVP V
+plane-crazy 2020-07-29 05:56:47 https://tenor.com/view/stonehenge-cannon-shots-gif-13413435
+plane-crazy 2020-07-29 05:57:31 AC7 comp
+plane-crazy 2020-07-29 05:57:34 https://tenor.com/view/ac7-fire-jetplane-unknown-skies-gif-11417488
+plane-crazy 2020-07-29 05:58:04 I hear Project Aces is giving us CFA-44 Nostefaru in the next DLC
+plane-crazy 2020-07-29 05:58:15 Along with a flyable F-4
+plane-crazy 2020-07-29 05:58:45 https://tenor.com/view/ace-combat-su30-brownie-osea-gif-14009989
+plane-crazy 2020-07-29 06:01:09 **F** in the chat for Full Band.
+plane-crazy 2020-07-29 06:16:12 Terrain finished, who would like to help me build the port protection wall and city?
+plane-crazy 2020-07-29 06:16:36 Wait, too smol
+plane-crazy 2020-07-29 06:26:20 
+plane-crazy 2020-07-29 06:26:54 supa
+plane-crazy 2020-07-29 06:27:04 One handle, two barrels.
+plane-crazy 2020-07-29 06:27:40 Stuck in the JoJo Za Warudo zone
+plane-crazy 2020-07-29 08:16:19 Jay
+plane-crazy 2020-07-29 08:17:20 Should I build a
+plane-crazy 2020-07-29 08:17:24 Tsun
+plane-crazy 2020-07-29 08:18:14 ?
+plane-crazy 2020-07-29 08:19:08 Ok,
+plane-crazy 2020-07-29 08:19:13 Good Tsun or bad Tsun?
+plane-crazy 2020-07-29 08:19:59 Mobius
+plane-crazy 2020-07-29 08:20:09 And a Good or Bad Tsun?
+plane-crazy 2020-07-29 08:20:42 Wait
+plane-crazy 2020-07-29 08:20:46 that's beyond absolute win
+plane-crazy 2020-07-29 08:20:52 Send me
+plane-crazy 2020-07-29 08:22:39 Aw, I was hoping  for the Bad Tsun, but I'll do the Good Tsun.
+the-dump 2020-07-29 09:03:04 
+the-dump 2020-07-29 09:03:13 Looks like Trevor Hendorson.
+the-dump 2020-07-29 09:03:26 
+plane-crazy 2020-07-29 09:04:04 All the og ppl like us stay up until the unde  mods are asleep and then
+plane-crazy 2020-07-29 09:04:06 Anarchy time.
+the-dump 2020-07-29 09:08:45 
+the-dump 2020-07-29 09:09:00 
+the-dump 2020-07-29 09:09:04 
+general 2020-07-29 09:12:58 I've seen a game with similiar graphics, it was such a good game but the devs gave up on it. Still, that looks interesting.
+general 2020-07-29 18:03:02 but that's still
+general 2020-07-29 18:03:06 talking like a human
+general 2020-07-29 18:03:35 oh... boy...
+general 2020-07-29 18:03:47 *insert terminator music*
+Here we go again
+general 2020-07-29 18:04:56 I just had the picture of the Terminator invasion but instead Future's Sword Bots.
+general 2020-07-29 18:06:20 Mad online
+general 2020-07-29 18:09:26 hello BB 1372
+the-dump 2020-07-29 18:11:35 someone post this on another server
+general 2020-07-29 18:12:09 Oh,
+general 2020-07-29 18:12:15 well we're screwed.
+general 2020-07-29 18:12:44 gudboi, they have AI's that can "taste", so it's not that wildly exotic of an idea.
+general 2020-07-29 18:14:57 DUN DUN DUNDUN DUN
+general 2020-07-29 18:15:37 Also,
+general 2020-07-29 18:16:02 you cannot ask it How to save the planet.
+general 2020-07-29 18:16:27 Cause since Humanity is the root of all the things that are polluting the planet,
+general 2020-07-29 18:16:57 it gonna come up with the conclusion that humanity is the cause and is gonna, well
+general 2020-07-29 18:18:28 https://tenor.com/view/robot-tech-skynet-ai-arnold-gif-13186419
+general 2020-07-29 18:18:39 <Neural Net-Base
+general 2020-07-29 18:18:41 Oh sh-
+general 2020-07-29 18:19:17 to update to bronze age
+plane-crazy 2020-07-29 18:19:57 No,
+plane-crazy 2020-07-29 18:20:09 Flat earthers are made up of roblox users.
+plane-crazy 2020-07-29 18:20:22 Because roblox games are
+plane-crazy 2020-07-29 18:20:25 *flat*
+plane-crazy 2020-07-29 18:20:30 in turn,
+plane-crazy 2020-07-29 18:20:33 they think
+plane-crazy 2020-07-29 18:20:36 all world is flat
+general 2020-07-29 18:22:15 But AI can get powerful on its own
+general 2020-07-29 18:22:34 it just evolves
+general 2020-07-29 18:26:56 Well I mean isn't NASA's systems Military Encrypted?
+general 2020-07-29 18:28:42 https://tenor.com/view/explode-combat-that-thing-you-just-posted-gif-14441130
+general 2020-07-29 18:29:41 ***You do not die until I tell you you can die!***
+general 2020-07-29 18:30:13 https://media.discordapp.net/attachments/495286269459300364/737903431443808306/unknown.gif
+plane-crazy 2020-07-29 23:51:39 <:OMEGALUL:528987216643489792>
+plane-crazy 2020-07-29 23:51:49 I'm watching a Dev and some Kid insult eachother
+plane-crazy 2020-07-29 23:54:22 <:KEKW:670310537300672528>
+plane-crazy 2020-07-30 00:24:12 Bruh
+plane-crazy 2020-07-30 00:24:18 
+general 2020-07-30 07:33:30 You mean...
+general 2020-07-30 07:33:31 She?
+plane-crazy 2020-07-30 07:34:11 Hello, I need 10 random World War II ships to use, list them, go.
+plane-crazy 2020-07-30 07:34:42 Already done.
+plane-crazy 2020-07-30 07:34:53 Ack.
+plane-crazy 2020-07-30 07:34:58 I'll just find a randomizer.
+the-dump 2020-07-30 07:38:04 
+the-dump 2020-07-30 08:19:41 <:what:644996672048463942>
+the-dump 2020-07-30 08:19:55 **Floridaman Spotted**
+plane-crazy 2020-07-30 08:20:16 <:OkBuddy:652567204453154816>
+the-dump 2020-07-30 08:22:45 <:Trigje139:559518788660232196>
+the-dump 2020-07-30 08:22:52 **CONSUMPTION**
+plane-crazy 2020-07-30 09:45:45 Henlo, permission to use your game in a music video?
+plane-crazy 2020-07-30 09:46:59 Like, permission to use footage from Plane Crazy in a Music Video?
+plane-crazy 2020-07-30 09:48:09 Ah yes.
+plane-crazy 2020-07-30 09:48:30 I'll be making a Plane Crazy Music Video using this song, it will be epic.
+plane-crazy 2020-07-30 09:48:32 https://open.spotify.com/track/3SfegQ7orQv1bkmRtpcS8Z?si=rdzGXPt7Q26FkqqCRLuhyg
+plane-crazy 2020-07-30 09:48:38 Will I get anything if I do it?
+plane-crazy 2020-07-30 09:48:51 Damn.
+plane-crazy 2020-07-30 09:49:02 Well
+plane-crazy 2020-07-30 09:49:44 Time to start building and compiling.
+plane-crazy 2020-07-30 09:49:55 What were you expecting?
+plane-crazy 2020-07-30 19:03:14 Stratolaunch
+plane-crazy 2020-07-30 20:01:48 Time to initiate CFA-44 into Plane Crazy
+plane-crazy 2020-07-30 20:04:42 Who wants a bet or something to build
+plane-crazy 2020-07-30 20:04:55 Well if you need something to build
+plane-crazy 2020-07-30 20:04:59 
+plane-crazy 2020-07-30 20:08:05 
+plane-crazy 2020-07-30 20:09:17 <@!407525924096180224>
+plane-crazy 2020-07-30 20:09:20 
+plane-crazy 2020-07-30 20:09:30 
+plane-crazy 2020-07-30 20:09:32 https://tenor.com/view/bruh-bye-ciao-gif-5156041
+plane-crazy 2020-07-30 20:10:44 
+plane-crazy 2020-07-30 20:10:55 ***Hrm Squadron come to Hrm***
+general 2020-07-30 20:13:00 Holy sh- that Helipad
+the-dump 2020-07-30 20:13:23 One cannot just simply scare me.
+the-dump 2020-07-30 20:13:39 https://tenor.com/view/hide-secret-escape-scared-dying-gif-4513776
+the-dump 2020-07-30 20:14:17 Not Sukhois
+general 2020-08-03 23:36:16 Tell me this isn't true if you dare,
+general 2020-08-03 23:36:28 the appitamy of all bored people in Plane Crazy:
+general 2020-08-03 23:36:34 
+general 2020-08-03 23:36:40 *WaitIt'sAllWarthog*-Hog
+general 2020-08-03 23:37:14 1372,
+general 2020-08-03 23:37:25 can I challenge you to build something?
+general 2020-08-03 23:38:25 First person to build this imma thank you.
+F99 Wombat Drone from Halo
+general 2020-08-04 02:48:28 
+general 2020-08-04 02:48:31 *Wait, it's all clip?*
+general 2020-08-04 02:48:38 ***Always has been***
+general 2020-08-04 02:49:02 No joke that's movie magazines for you right there.
+general 2020-08-04 17:52:43 We all know what's about to happen.
+general 2020-08-04 17:53:18 KV-2-2-2-2-2-2-2
+general 2020-08-04 17:53:53 I will just keep adding -2's until it is the greatest and tallest in the motherland
+general 2020-08-04 17:54:10 All will cower at the *Tower of Stalin*
+general 2020-08-04 17:54:29 Whih actually gives  me an idea of a tall tower with KV guns.
+general 2020-08-04 17:55:40 Man
+general 2020-08-04 17:55:58 Purified, how many -2's can I add before it is good enough>
+general 2020-08-04 17:56:19 I must add
+general 2020-08-04 17:56:23 All of the -2's
+general 2020-08-04 17:56:42 omfl it's going to be so unstable yet epic
+general 2020-08-04 21:51:38 
+general 2020-08-04 21:56:10 https://cdn.discordapp.com/attachments/704491869110927360/738563593272033420/caption.gif?thisgifwillping@everyone
+general 2020-08-04 21:58:21 woah
+general 2020-08-04 21:58:29 that gif auto Pings everyone
+general 2020-08-04 21:58:40 It's like a server perm check.
+general 2020-08-04 21:58:46 If you can't ping, it'll just gif
+general 2020-08-04 21:58:49 if you can,
+general 2020-08-04 21:58:52 EVERYONE
+general 2020-08-04 21:58:55 ***PING***
+general 2020-08-04 21:59:07 the name
+general 2020-08-04 21:59:28 
+general 2020-08-04 22:00:00 Bc I don't have perms
+general 2020-08-04 22:00:08 I put it into another server
+general 2020-08-04 22:00:10 and it pinged
+general 2020-08-04 22:00:12 EVERYONE
+general 2020-08-04 22:00:31 It's because you don't have permission to do everyone ping
+general 2020-08-04 22:00:32 Wait
+general 2020-08-04 22:00:41 Well,
+general 2020-08-04 22:00:43 it does
+the-dump 2020-08-04 22:01:25 https://cdn.discordapp.com/attachments/704491869110927360/738563593272033420/caption.gif?thisgifwillping@everyone
+general 2020-08-04 22:01:41 i know
+general 2020-08-04 22:01:57 wait
+general 2020-08-04 22:02:04 when I put everyone into chat...
+general 2020-08-04 22:02:29 
+general 2020-08-04 22:02:39 ***deu it***
+general 2020-08-04 22:03:16 why does it pop up then?
+general 2020-08-04 22:03:25 if it doesn't work why does it?
+general 2020-08-04 22:04:34 
+general 2020-08-04 22:06:00 omf I trolled a whole  server by using it's Emergency Ping but not actually posting  it, just posting a picture of the ping
+general 2020-08-04 22:06:15 lol, if you hover over my everyone ping, you'll notice it's a
+general 2020-08-04 22:06:17 image
+general 2020-08-04 22:06:20 troool
+general 2020-08-04 22:06:30 Woah, when GuP gets you banned for War Material
+general 2020-08-04 22:06:52 woah
+general 2020-08-04 22:07:03 Mustach Man name is  tagged
+general 2020-08-04 22:07:28 I want to make World War II Mustach Man meme from that situation rofl
+general 2020-08-04 22:08:50 <:duck1:652569234593021952><:duck2:652569235469369375>
+<:duck3:652569235587072020><:duck4:652569237143158794>
+general 2020-08-04 22:08:55 dock
+general 2020-08-04 22:09:21 Deceloper
+general 2020-08-04 22:09:24 smh
+general 2020-08-04 22:09:30 I got tagged on roblox for saying no
+general 2020-08-04 22:11:10 wdym?
+general 2020-08-04 22:11:51 woah
+general 2020-08-04 22:12:06 PICKLE RICKJE
+general 2020-08-04 22:12:41 oooh
+general 2020-08-04 22:12:48 wait
+general 2020-08-04 22:13:05 waddup with the Takao gun placment but circumcised?
+general 2020-08-05 08:47:19 Due to space...
+general 2020-08-05 08:47:32 Rori has to go 😦
+general 2020-08-05 08:48:12 It's a Light Cruiser
+general 2020-08-05 08:50:45 It's only 9 blocks wide lol
+general 2020-08-05 08:51:26 Lol
+general 2020-08-05 08:51:37 I had to delete my brand new SOLG 😭
+general 2020-08-05 08:52:11 Rori  is gone forever 😦
+general 2020-08-05 08:54:15 I was amazed  at  how well my Seiran works
+general 2020-08-05 08:54:29 I just need an I-400 to land it  on 😅
+general 2020-08-05 08:55:31 Question, Question
+general 2020-08-05 08:55:36 was it  true though?
+general 2020-08-05 09:05:07 I think it work
+general 2020-08-05 09:11:29 Some guy is intentionally trying to crash everyone
+general 2020-08-05 21:35:12 CHRISTO YES!
+general 2020-08-05 21:35:26 OH MY GOD YES!
+general 2020-08-05 21:35:30 BARAK
+general 2020-08-05 21:35:38 I have a  better one now
+general 2020-08-05 21:35:51 Btw some  weeeiirdd shit happening in CC server  rofl
+general 2020-08-05 21:37:38 hell
+general 2020-08-05 21:37:40 
+general 2020-08-05 21:38:49 woah
+general 2020-08-05 21:38:54 no way...
+general 2020-08-05 21:39:20 I need that to go with my controller
+general 2020-08-05 21:39:42 PS4 actually
+general 2020-08-05 21:39:49 you don't want to see the PS5 controller
+general 2020-08-05 21:47:56 <@!561571188845969409>
+general 2020-08-05 21:48:11 ***O b a m a p p r o v e***
+general 2020-08-05 21:48:21 *That is.... magnificent....*
+general 2020-08-05 22:18:47 m
+general 2020-08-06 00:04:33 ***私ザ401ズ, 上昇!***
+general 2020-08-06 00:18:34 We lost
+general 2020-08-06 00:18:41 *Milchkuh* 😦
+general 2020-08-06 00:24:56 some douche in my server  spamming
+general 2020-08-06 01:06:11 amazing. I got the crane on my sub to work
+general 2020-08-06 01:07:15 
+general 2020-08-06 01:07:27 using rope, trapdoor, and magnet
+general 2020-08-06 01:07:43 YES!
+general 2020-08-06 01:07:46 OMFL LOL
+general 2020-08-06 01:08:05 using the magnet, I pull the rope into the ball there,
+general 2020-08-06 01:08:28 and then I close the  trapoor, trapping the half-block and rope panel inside the ball,
+general 2020-08-06 01:08:35 like a fishing line.
+general 2020-08-06 01:08:47 no,
+general 2020-08-06 01:08:50 half block on rope
+general 2020-08-06 01:08:55 magnet in ball
+general 2020-08-06 01:09:00 1 sec
+general 2020-08-06 01:09:15 open trapdoor
+general 2020-08-06 01:10:13 turn on magnet, lower rope
+general 2020-08-06 01:10:58 
+general 2020-08-06 01:10:59 get it inside
+general 2020-08-06 01:11:14 boom.
+general 2020-08-06 01:11:14 close trapdoor
+general 2020-08-06 01:11:42 
+general 2020-08-06 01:11:44 now it mine
+general 2020-08-06 01:11:51 <:RickShrug:652564379577090074>
+general 2020-08-06 01:12:01 it just popped into my head
+general 2020-08-06 01:12:03 only problem,
+general 2020-08-06 01:12:11 the magnet is  powerful enough to
+general 2020-08-06 01:12:12 pull the
+general 2020-08-06 01:12:14 WHOLE sub
+general 2020-08-06 02:19:53 <@!287779983445721088> cute car
+general 2020-08-06 02:20:14 I'd rather the Volkswagen I.D. R.
+general 2020-08-06 02:20:45 
+general 2020-08-06 02:21:07 Chunky Wide and Fully Electric,
+general 2020-08-06 02:21:17 Giga Wing too
+general 2020-08-06 02:21:54 
+general 2020-08-06 02:22:19 Yes,
+general 2020-08-06 02:22:25 that is best car, honestly.
+general 2020-08-06 02:22:31 True.
+general 2020-08-06 02:22:47 Man,
+general 2020-08-06 02:22:55 I almost thought it was going to be a Rick Roll.
+bot-central 2020-08-06 02:28:17 oh my god
+bot-central 2020-08-06 02:28:31 I randomly clicked 3 times and  all of them were mines
+bot-central 2020-08-06 02:28:36 https://tenor.com/view/imout-bye-gif-4989183
+general 2020-08-06 02:28:52 false above
+the-dump 2020-08-06 08:29:33 DAAAAAMN
+general 2020-08-06 08:30:33 https://tenor.com/view/banned-anime-kick-ban-gif-17887223
+general 2020-08-06 08:44:02 YES
+general 2020-08-06 08:44:11 Olympic Battlebots
+general 2020-08-06 08:44:43 Ultimate Battlebots Za Warudo moment
+general 2020-08-06 08:45:18 We need to have an official Plane Crazy Battlebots tournament
+general 2020-08-06 08:45:27 Where  ppl build big bots
+general 2020-08-06 08:45:30 and  fight
+general 2020-08-06 08:45:40 and there'd by like regulations on what they can build lol
+general 2020-08-06 08:47:03 cigol logic
+general 2020-08-06 08:48:44 wth...
+general 2020-08-06 08:48:48 I didn't get that alert...
+general 2020-08-06 08:48:51 I call BS
+general 2020-08-06 08:49:31 no.
+general 2020-08-06 08:49:38 I really didn't though
+general 2020-08-06 08:49:45 no big brain
+general 2020-08-06 08:50:42 I said
+general 2020-08-06 08:52:50 I swear you use like all the TNT blocks in a single bomb and like you can't do any damage  to a little car but someone drops a single tnt on your ship and this  happens
+general 2020-08-06 08:53:13 no lie
+general 2020-08-06 08:53:19 that's happened too many times
+general 2020-08-06 08:53:29 it's like someone just dropped a nuclear bomb on my ship
+general 2020-08-06 08:56:46 When you have a basic plane and  you add a super rocket onto it
+Maneuverability/ Control:
+plane-crazy 2020-08-06 08:57:00 But you don't just build planes
+general 2020-08-06 08:57:31 No lie I just tried
+plane-crazy 2020-08-06 08:57:57 but it's more derivative from *Build a Boat*
+plane-crazy 2020-08-06 08:58:48 No it isn't, actually.
+the-dump 2020-08-06 08:59:08 When you accidentally place a disconnector instead of a motor
+the-dump 2020-08-06 08:59:11 https://tenor.com/view/bad-day-accident-plane-wheel-gif-16013352
+the-dump 2020-08-06 09:05:11 ***Welcome to Spirit Airlin- Oop, one of  our wheels has already departed.***
+general 2020-08-06 09:07:53 Imagine getting Votekicked bc you have goot Shotgun Accuracy
+general 2020-08-06 09:09:11 Wow fvlvia
+general 2020-08-06 09:12:54 fvlvia
+general 2020-08-06 09:13:08 I have  a nice map you can build stuff on if you want.
+general 2020-08-06 09:14:46 Slightly outdated image, I added more landmass.
+general 2020-08-06 09:14:53 Or maybe not.
+general 2020-08-06 09:15:17 No,
+general 2020-08-06 09:15:31 Imma be working on the Fortress Port of Yokosuka.
+general 2020-08-06 09:15:42 ah,
+general 2020-08-06 09:15:56 less than 5000 blocks x 5000 blocks
+general 2020-08-06 09:16:19 All I need are some buildings to take up space in that little land area
+general 2020-08-06 09:16:56 Imma be  building a large naval wall against those mountains there.
+general 2020-08-06 09:17:12 it's one  of the most iconic locations in my favorite anime's,
+general 2020-08-06 09:17:30 Unless, of course, I tried building Iwoto. That'd be a  fun build.
+general 2020-08-06 09:18:37 do you realize
+general 2020-08-06 09:18:44 what a pain in the  ass it  was
+general 2020-08-06 09:18:51 to get the natural shapes...
+general 2020-08-06 09:18:53 natural?
+general 2020-08-06 09:21:34 Plane Crazy Custom Engines like
+general 2020-08-06 09:22:08 
+general 2020-08-06 09:23:44 Bro
+general 2020-08-06 09:23:54 ***Just had to replace my Honda's  engine  with another Honda engine.***
+general 2020-08-06 09:23:59 ***Lookin Fine***
+general 2020-08-06 09:32:52 Also Milk
+general 2020-08-06 09:32:59 can you DM me that pfp of yours?
+general 2020-08-06 09:33:02 I like it.
+general 2020-08-06 09:34:27 2
+general 2020-08-06 09:35:56 https://tenor.com/view/incredible-pewdiepie-distorted-flex-tape-right-gif-16729352
+the-dump 2020-08-06 09:36:05 https://media.discordapp.net/attachments/495286269459300364/740757768256094258/korone.gif
+the-dump 2020-08-06 09:36:09 My sentiments exactly
+the-dump 2020-08-06 09:51:47 
+the-dump 2020-08-06 09:51:50 https://tenor.com/view/boring-company-flame-thrower-elon-musk-gif-14391479
+the-dump 2020-08-06 09:52:37 Yes
+the-dump 2020-08-06 09:52:44 https://tenor.com/view/elon-musk-smoke-smoking-well-maybe-gif-12516944
+the-dump 2020-08-06 09:52:50 I mean,
+the-dump 2020-08-06 09:52:53 it makes sense
+the-dump 2020-08-06 09:56:37 Oh, whew
+the-dump 2020-08-06 09:56:45 I thought that was going to be a Rickroll...
+the-dump 2020-08-06 09:57:05 But it was only this
+the-dump 2020-08-06 09:57:07 https://media.discordapp.net/attachments/495286269459300364/740870704773202010/image0-1.gif
+the-dump 2020-08-06 09:57:26 Also got new renders...
+the-dump 2020-08-06 09:57:37 https://gfycat.com/jaggedunkemptachillestang-world-of-warships
+the-dump 2020-08-06 09:57:40 Beautiful torps
+the-dump 2020-08-06 09:57:59 No, it was a SpaceX Rocket Anime Girl and  then Elon Musk with a Flamethrower.
+the-dump 2020-08-06 09:58:05 He intends to burn the anime.
+the-dump 2020-08-06 09:58:17 <:ElonWoke:589674854798589962>
+the-dump 2020-08-06 09:58:25 <:pain:644301805534183464>
+the-dump 2020-08-06 09:58:29 🔥
+the-dump 2020-08-06 09:59:38 Wait,
+the-dump 2020-08-06 09:59:44 but that's the Booster
+the-dump 2020-08-06 09:59:55 Bc it whole and it land on SpaceX Drone Ship
+plane-crazy 2020-08-06 18:23:59 Malevolence?
+general 2020-08-06 18:33:37 Holy shit that
+general 2020-08-06 18:33:39 *noice*
+general 2020-08-06 18:33:51 Maple, please send  me some  of your quality art
+general 2020-08-06 18:40:56 Yooo being gay is gay 😳
+general 2020-08-06 18:49:36 Insert <@!335599526414909451>
+general 2020-08-06 18:49:44 Extract Unde
+general 2020-08-06 18:49:50 Eliminate Unde
+general 2020-08-06 18:50:07 ***D e s t r o y U n d e***
+the-dump 2020-08-06 18:50:35 Oh  whew, almost thought it was  going to be a rickroll
+the-dump 2020-08-06 18:51:14 Heres a tip: Cross your eyes to bypass at least HALF of the Headshaking speed in order to get the full view.
+general 2020-08-06 18:52:03 PURIFIED,
+general 2020-08-06 18:52:12 ZIP ZOOM,
+general 2020-08-06 18:52:20 SEND THE UNDE TO ETERNAL
+general 2020-08-06 18:52:21 DOOM
+general 2020-08-06 18:52:30 ***Und Spotted in Sector 3***
+general 2020-08-06 18:52:44 ***Und has been eliminated***
+general 2020-08-06 18:53:05 Yes, we live in a Society.
+general 2020-08-06 18:53:26 A Society that can smell Undes anywhere they hide.
+general 2020-08-06 18:53:52 We need a Voteban system for the Community to destroy all the Undes when you mods are slow af
+general 2020-08-06 18:54:10 Like a Democracy,
+general 2020-08-06 18:54:21 except we elect the undes to get  eliminated
+general 2020-08-06 18:54:34 But Mod Democracy is  slow af
+general 2020-08-06 18:54:39 too like 5 minutes to wait  for Purified
+general 2020-08-06 18:54:45 and you were right there.
+general 2020-08-06 18:54:48 3 mods online,
+general 2020-08-06 18:54:53 couldn't even get an unde
+general 2020-08-06 18:55:07 Just wait for him to come  back
+general 2020-08-06 18:55:14 then lay down the double smackdown
+general 2020-08-06 18:55:34 I swear Undes that rejoin the server they just got banned from
+general 2020-08-06 18:55:46 ***LAY THE DOUBLE SMACKDOWN ON THEIR CANDY ASS***
+plane-crazy 2020-08-06 18:56:13 Imagine setting all the control panels to keybinds insidead of mouse 😳
+plane-crazy 2020-08-06 18:56:20 Ultimate Aerial Control
+plane-crazy 2020-08-06 18:56:27 Super-Clutch Mode
+plane-crazy 2020-08-06 18:56:46 Someone
+plane-crazy 2020-08-06 18:56:49 if he does it
+plane-crazy 2020-08-06 18:56:52 give him a medal.
+plane-crazy 2020-08-06 18:57:02 For his  insane bravery to set all the Panels to keybinds.
+plane-crazy 2020-08-06 18:57:24 One must make sarifices to accomplish something  great...
+plane-crazy 2020-08-06 18:57:48 that can include half your keybinds in order to turn right.
+plane-crazy 2020-08-06 19:03:14 No E Q is roll.
+plane-crazy 2020-08-06 19:03:20 Wait,
+plane-crazy 2020-08-06 19:03:30 E Q is Yaw
+plane-crazy 2020-08-06 19:03:38 W S is  pitch
+plane-crazy 2020-08-06 19:03:45 A D is roll
+plane-crazy 2020-08-06 19:03:56 QWEASD
+plane-crazy 2020-08-06 19:04:10 Don't.
+plane-crazy 2020-08-06 19:04:21 no,
+plane-crazy 2020-08-06 19:04:42 you
+plane-crazy 2020-08-06 19:04:54 
+the-dump 2020-08-06 19:05:25 Me about to ping  the mods as an unde is begging  me in DM not to
+the-dump 2020-08-06 19:05:39 https://tenor.com/view/jim-halpert-the-office-looking-through-blinds-gif-12796960
+the-dump 2020-08-06 19:05:57 I always do.
+the-dump 2020-08-06 19:06:03 I always ping the mod.
+general 2020-08-06 19:09:53 Oh shizdamns
+general 2020-08-06 19:10:14 An Unde on one of my other servers isn't getting  kicked yet, but now their name  is stuck as "Unde"
+general 2020-08-06 19:10:19 Public Humiliation time.
+general 2020-08-06 19:10:24 <:kek:652566605028524033>
+general 2020-08-06 19:10:31 How I love that torture.
+general 2020-08-06 19:10:54 A final hour on the server, but you're known only as "Unde"
+plane-crazy 2020-08-06 19:12:01 Beautiful
+plane-crazy 2020-08-06 19:12:06 bug
+general 2020-08-06 19:12:12 It's amazing.
+general 2020-08-06 19:12:26 The mod is gonna let the kid stay in the server for another hour,
+general 2020-08-06 19:12:38 but their name is stuck as "unde"
+general 2020-08-06 19:15:19 
+general 2020-08-06 19:16:14 https://tenor.com/view/chirs-farley-shocked-what-huh-omg-gif-4108687
+general 2020-08-06 19:16:31 The german in me just awakened
+general 2020-08-06 19:16:47 <:OkBuddy:652567204453154816>
+general 2020-08-06 19:16:51 It's trying to get out
+the-dump 2020-08-06 21:32:29 Me after being  afk from a PC server for 24 minutes and coming back and like 10 people joined and there's a bunch of rainbow mechs and ultimate bullshit
+the-dump 2020-08-06 21:32:30 https://youtu.be/wbvw_9HeoDg?t=645
+general 2020-08-06 21:41:29 Yo you don't know how hard it is to make Druna Skass guns in Plane Crazy.
+general 2020-08-06 21:41:46 It's because they're bigger than Yamato guns
+general 2020-08-06 21:41:59 How much bigger than Yamato guns?
+general 2020-08-06 21:42:00 Well,
+general 2020-08-06 21:42:07 Druna Skass guns are bigger than Yamato guns
+general 2020-08-06 21:42:14 because they're almost BIGGER THAN YAMATO ITSELF
+general 2020-08-06 21:42:17 
+the-dump 2020-08-06 21:42:51 
+general 2020-08-06 21:43:02 Imagine getting shot with a gun
+general 2020-08-06 21:43:07 bigger than your ship
+general 2020-08-06 21:43:41 Physics be  like
+general 2020-08-06 21:43:44 https://tenor.com/view/one-punch-man-saitama-gif-8618419
+general 2020-08-06 21:44:06 The Gun's Shell >>>>>>>> You're entire ship size
+general 2020-08-06 21:49:56 
+general 2020-08-06 21:50:09 ***You're probably wondering how I got into this situation.***
+general 2020-08-06 21:50:56 Yeah I got rammed by 2 of my own people, shot by them, and then I got torped by them
+general 2020-08-06 21:52:09 Well ofc I did
+general 2020-08-06 21:52:17 I just took over half my HP from friendly fire
+general 2020-08-06 21:52:51 https://tenor.com/view/thurston-waffles-meow-scream-glowing-eyes-cat-gif-15740056
+general 2020-08-06 21:53:49 Hey remember  when Odin was good?
+the-dump 2020-08-06 21:56:52 NOOO!!!
+the-dump 2020-08-06 21:57:06 *The 4 stages of the life of a Lamb*
+the-dump 2020-08-06 21:57:38 *Rescue, Cleanup, Rebeautify,*
+the-dump 2020-08-06 21:57:56 ```diff
+-CHOWDER
+```
+the-dump 2020-08-06 22:09:43 dang
+the-dump 2020-08-06 22:09:45 
+the-dump 2020-08-06 22:09:45 removed the video
+the-dump 2020-08-06 22:10:21 Me:
+the-dump 2020-08-06 22:10:22 
+the-dump 2020-08-06 22:11:28 
+the-dump 2020-08-06 22:11:28 
+the-dump 2020-08-06 22:52:57 
+the-dump 2020-08-06 22:56:35 Oh goodness I thought that was the ISIS  version
+the-dump 2020-08-06 22:56:47 My inner german is awakening-
+the-dump 2020-08-06 22:56:49 HEY!
+the-dump 2020-08-06 22:56:56 <@!335599526414909451> THE END OF THAT VIDEO
+general 2020-08-06 23:08:12 Dude  I love that van I need one
+general 2020-08-06 23:08:35 It's perfect.
+the-dump 2020-08-06 23:09:58 https://tenor.com/view/shocked-gif-7443411
+general 2020-08-06 23:16:04 Wait,
+general 2020-08-06 23:16:14 does the Seaplane in Contests have to be  a real Seaplane?
+general 2020-08-06 23:16:30 It just has to work and abide by the rules?
+general 2020-08-06 23:17:03 ahh, coole.
+general 2020-08-06 23:17:07 Sad
+general 2020-08-06 23:17:19 I submitted my M6A1 too soon, and now it doesn't count  😦
+general 2020-08-06 23:17:27 Damn.
+general 2020-08-06 23:17:42 uhh
+general 2020-08-06 23:17:43 +
+general 2020-08-06 23:18:22 Dang I was  about to submit this but then I realized it  couldn't be before the contest and I posted this in <#384025409945337856> 😦
+the-dump 2020-08-06 23:18:46 Dude,
+the-dump 2020-08-06 23:18:49 that's so true
+general 2020-08-06 23:19:06 I built a rocket plane
+general 2020-08-06 23:19:11 to Kamikaze everything
+general 2020-08-06 23:19:32 it's also a real plane
+general 2020-08-06 23:20:22 Manned Yokosuka MXY-7 "Ohka" 3-Stage Rocket Kamikaze Glider from 1945
+general 2020-08-06 23:21:08 FYI, the rocket plane does fly
+general 2020-08-06 23:21:21 Absolute pain in the ass to control, much less to be accurate
+general 2020-08-06 23:21:30 But it works.
+general 2020-08-06 23:21:37 Ok
+general 2020-08-06 23:21:40 What do I do
+general 2020-08-06 23:21:46 or
+general 2020-08-06 23:21:46 buy my nice cosmetic stuff
+general 2020-08-06 23:21:49 change my Username
+general 2020-08-06 23:21:59 for all my robux
+general 2020-08-06 23:22:35 <@456226577798135808> buy Plane Crazy stuff and Cosmetics and  have leftover Robux or spend all robux on new Username
+general 2020-08-06 23:24:10 my glider has 1 problem doe
+general 2020-08-06 23:24:19 too much lift at the front
+general 2020-08-06 23:25:01 ohmegod
+general 2020-08-06 23:25:11 I have to fly at like e10% of the engine's power just to control
+general 2020-08-06 23:25:30 Like,
+general 2020-08-06 23:25:36 if you want a challenge to have fun doing,
+general 2020-08-06 23:25:46 try to PVP in my rocket glider
+general 2020-08-06 23:25:48 accurately
+general 2020-08-06 23:26:05 It's the hardest  thing I've done in Plane Crazy
+general 2020-08-06 23:26:28 besides  trying to fold a barrel onto my Space Sub 😡
+general 2020-08-06 23:26:49 i need to join you now
+general 2020-08-06 23:27:52 oh my god furious is not lying
+general 2020-08-06 23:28:05 there are 2 of the same tutorial B-17's in the server
+general 2020-08-10 04:57:12 My dudes do I change my username or buy other stuff last call.
+general 2020-08-10 04:58:25 *and the crowd goes... quiet?*
+general 2020-08-10 04:58:41 Wow, ok, you're a fun crowd.
+general 2020-08-10 04:58:51 mhh yes
+general 2020-08-10 04:58:54 true robloxer
+general 2020-08-10 04:58:58 thank you
+general 2020-08-10 04:59:14 Quality pfp
+general 2020-08-10 04:59:26 I thought it was a rickroll.
+general 2020-08-10 07:22:20 I just had an out-of-body experience
+general 2020-08-10 07:22:49 first my avatar was  invisible after I accidentally flew right into a propellor  blade,
+general 2020-08-10 07:22:52 I survived
+general 2020-08-10 07:22:57 went back to base
+general 2020-08-10 07:23:03 I was building  and stuff
+general 2020-08-10 07:23:08 until someone  found  my avatar
+general 2020-08-10 07:23:15 at which point my camera falls  through the map
+general 2020-08-10 07:23:27 and then finally goes back to my actual body,
+general 2020-08-10 07:23:34 ragdolling and jetpacking without arms and legs
+general 2020-08-10 07:23:37 which at that point
+general 2020-08-10 07:23:43 my torso falls  off my head
+general 2020-08-10 07:23:46 and I spontaniously die
+general 2020-08-10 07:23:53 😳 sp00ke
+general 2020-08-10 07:38:05 bruh
+general 2020-08-10 07:38:08 I swear
+general 2020-08-10 07:38:13 I was driving a car
+general 2020-08-10 07:38:20 in peaceful
+general 2020-08-10 07:38:26 and some guy is yelling at me
+general 2020-08-10 07:38:41 and I finally notice a yellow shredder stuck in the back of my car :|.
+general 2020-08-10 07:38:47 
+general 2020-08-10 09:48:07 bruh
+general 2020-08-10 09:48:38 I just spotted a user named *coolaidenrl* driving a schong around the map, wtf
+general 2020-08-10 09:49:13 I am
+general 2020-08-10 09:49:18 startled
+general 2020-08-10 09:49:24 I'm about to take off my sub
+general 2020-08-10 09:49:30 and suddenly I get rammed by
+general 2020-08-10 09:49:35 that.
+general 2020-08-10 09:52:30 yo I got someone bypassing  the filter
+general 2020-08-10 09:52:42 he's been arguing  with another  user for the past 30+ minutes
+general 2020-08-10 09:52:49 My server
+general 2020-08-10 09:53:02 His username is *TrainMaster927*
+general 2020-08-10 09:53:24 he's been arguing with a user named *the_lReal*
+general 2020-08-10 09:54:14 yo bro eXo
+general 2020-08-10 09:54:30 I keep thinking your pfp is 3 ripped penguins standing  next to eachother wtf lol
+general 2020-08-10 09:55:10 Yo bro Milk I don't know whether to call the FBI on that pfp cus it be looking like the  FBI thouuuh
+general 2020-08-10 09:55:55 It has ears
+general 2020-08-10 09:56:12 Dude it's real lining the L word
+general 2020-08-10 09:57:41 dude
+general 2020-08-10 09:57:47 just spotted someone spelling the Cat word
+general 2020-08-10 10:01:24 no
+general 2020-08-10 10:01:37 you know
+general 2020-08-10 10:01:46 *smh*
+general 2020-08-10 10:01:52 *the* cat word.
+general 2020-08-10 10:02:02 No I caught someone building the word
+general 2020-08-10 10:02:03 yes
+general 2020-08-10 10:02:11 that word right there
+the-dump 2020-08-10 20:25:50 Yo that first one is what I want to do to this frikin shredder bug rn
+the-dump 2020-08-10 20:26:06 Bro <@!484447467434147844> I dare you to build that in plane crazy.
+the-dump 2020-08-10 20:26:19 The sword robot
+the-dump 2020-08-10 20:26:35 or at least A working sword robot lol
+the-dump 2020-08-10 21:43:28 
+the-dump 2020-08-10 21:44:10 Always has been
+the-dump 2020-08-10 21:44:35 No
+the-dump 2020-08-10 21:44:38 you are a lie
+the-dump 2020-08-10 21:44:43 https://tenor.com/view/gun-gangster-ready-turn-around-gif-14489666
+plane-crazy 2020-08-10 21:45:05 bro that thing
+plane-crazy 2020-08-10 21:45:09 hepic
+plane-crazy 2020-08-10 21:45:40 the only ugly around here is that ***G r a m m a r***
+plane-crazy 2020-08-10 21:46:02 Exactly my point.
+the-dump 2020-08-10 21:46:57 No
+the-dump 2020-08-10 21:46:58 you
+the-dump 2020-08-10 21:47:00 prepare to die
+plane-crazy 2020-08-10 21:47:21 Above has  been true since the beginning of time
+the-dump 2020-08-10 21:47:40 bruh
+the-dump 2020-08-10 21:47:44 Slenderman when he had hair
+the-dump 2020-08-10 21:48:07 https://tenor.com/view/hello-scarface-al-pacino-action-hi-gif-3522196
+the-dump 2020-08-10 21:48:27 amazing
+the-dump 2020-08-10 21:48:46 time to torture
+the-dump 2020-08-10 21:49:27 https://media.discordapp.net/attachments/686471230756356112/735078267488436295/point.gif
+the-dump 2020-08-10 21:50:01 Seen that
+the-dump 2020-08-10 21:50:07 Fish Cannon
+the-dump 2020-08-10 21:50:26 https://media.discordapp.net/attachments/435938425196249108/691747688961802330/20200202_014430.gif
+general 2020-08-10 21:50:48 YO
+general 2020-08-10 21:50:52 WHAT SONG IS THAT BOBBY
+general 2020-08-10 21:51:22 Born into a world with anim-
+general 2020-08-10 21:52:05 Is that actually the name?
+general 2020-08-10 21:52:34 Wait  it's called Skyn-
+the-dump 2020-08-10 21:53:28 Accidentally placing a  disconnector instead of  a motor for your Fold wings
+the-dump 2020-08-10 21:53:48 https://tenor.com/view/plane-wwii-airplane-crash-airplane-gif-11968531
+the-dump 2020-08-10 21:55:47 Using close tracking missiles
+the-dump 2020-08-10 21:56:46 https://tenor.com/view/girls-und-panzer-tank-hit-shot-shockwave-gif-4992925
+the-dump 2020-08-11 00:06:26 https://tenor.com/view/girlsundpanzer-tank-panzerhard-anime-gif-4992916
+the-dump 2020-08-11 00:15:18 What the
+the-dump 2020-08-11 00:15:24 just spotted a Tier 30 Yamato
+the-dump 2020-08-11 00:15:37 https://tenor.com/view/confused-turn-around-what-wot-wat-gif-15539383
+the-dump 2020-08-11 00:24:33 
+the-dump 2020-08-11 00:24:36 https://tenor.com/view/sweet-baby-jesus-what-is-that-shaed-off-sunglasses-gif-15770500
+general 2020-08-11 01:58:41 so
+general 2020-08-11 01:59:19 Strap trails and a speaker that plays the OG railgun sound from the game onto your railgun.
+general 2020-08-11 01:59:35 Sorry,
+general 2020-08-11 01:59:40 I meant  the Quake Railgun Sound
+plane-crazy 2020-08-11 02:50:22 So I made the I-401X better.
+plane-crazy 2020-08-11 02:51:51 M1A2 Abrams VS BT7 VS Black Dragon Tank VS PL-01
+general 2020-08-11 02:56:16 I am
+general 2020-08-11 02:56:18 
+general 2020-08-11 02:56:19 Disappointed
+general 2020-08-11 02:56:30 *What's with the long face?*
+general 2020-08-11 02:56:46 no,
+general 2020-08-11 02:56:54 that's not nuclear tank
+general 2020-08-11 02:56:59 that's a  mistake
+general 2020-08-11 02:57:07 God's Ultimate  Mistake, Abort It
+general 2020-08-11 02:57:25 Everyone sits in the turret
+general 2020-08-11 02:57:33 turret can detatch and become aquatic
+general 2020-08-11 02:57:51 because
+general 2020-08-11 02:58:26 that's true tho
+general 2020-08-11 02:58:39 More than 1 crew, actually.
+general 2020-08-11 02:58:58 They all just cramp into the completely sealed-off Detacheable turret
+general 2020-08-11 02:59:13 even the gun on top is remove controlled,
+general 2020-08-11 02:59:41 and the turret shape is supposed to be able to compensate for the Airblast caused by a Nuclear blast.
+general 2020-08-11 03:00:12 No
+general 2020-08-11 03:00:19 You know Russia has a Nuclear ICBM
+general 2020-08-11 03:00:24 Powered by a Nuclear Reactor
+general 2020-08-11 03:00:55 It can fly for weeks, months, or  even years at low altitude, flying fast to avoid Defense  radar
+general 2020-08-11 03:01:02 and then,
+general 2020-08-11 03:01:10 Hit anywhere on the planet.
+general 2020-08-11 03:02:00 They don't confirm it exists,
+general 2020-08-11 03:02:07 but they say they're working on one.
+general 2020-08-11 03:02:21 But they could already have  one.
+general 2020-08-11 03:02:26 And we wouldn't even know.
+general 2020-08-11 03:02:57 <:Thonk:509498568982134816>
+general 2020-08-11 03:03:51 No tank is more badass than the Abrams-
+general 2020-08-11 03:04:01 
+general 2020-08-11 03:04:15 Mmm, yes, more gun
+the-dump 2020-08-11 03:06:01 
+the-dump 2020-08-11 03:06:09 noe
+general 2020-08-11 03:06:45 
+general 2020-08-11 03:07:34 
+general 2020-08-11 03:08:54 
+general 2020-08-11 03:08:55 *nort*
+general 2020-08-11 03:09:31 
+general 2020-08-11 03:10:58 
+general 2020-08-11 03:11:10 Plane Crazy tank
+general 2020-08-11 03:11:16 rusk
+general 2020-08-11 03:12:48 Look at the
+general 2020-08-11 03:12:51 
+general 2020-08-11 03:12:52 PL-01
+general 2020-08-11 03:15:32 ***N O***
+general 2020-08-11 03:16:09 ```diff
+-T90 Demonic Presence detected on the battlefield
+```
+general 2020-08-11 03:54:35 Launching in 3 Minutes.
+general 2020-08-11 03:54:47 
+general 2020-08-11 03:55:07 Purified
+general 2020-08-11 03:55:11 How to defeat the ring
+general 2020-08-11 03:55:18 just charge a  Plasma Pistol
+general 2020-08-11 03:55:23 and then shoot it into the ring
+general 2020-08-11 03:55:27 boome
+general 2020-08-11 04:04:54 NOOOO
+general 2020-08-11 04:04:56 
+general 2020-08-11 04:05:37 
+general 2020-08-11 04:06:01 MY BOOOEUTIFUL ANIME BOOT!
+general 2020-08-11 04:06:04 
+general 2020-08-11 04:07:07 
+general 2020-08-11 04:07:10 
+general 2020-08-11 04:08:03 oe.
+general 2020-08-11 05:11:47 Time for
+general 2020-08-11 05:11:50 EUF Pencil Drones
+general 2020-08-11 05:44:48 Serve the cause
+general 2020-08-11 05:44:55 screw that cause
+the-dump 2020-08-11 06:06:31 
+the-dump 2020-08-11 06:11:45 Only cultured ones will understand the reference.
+plane-crazy 2020-08-11 06:12:09 Give it
+plane-crazy 2020-08-11 06:12:13 ***E Y E S***
+plane-crazy 2020-08-11 06:14:04 Make Armata tank >:)
+plane-crazy 2020-08-11 06:14:20 You degenerate
+plane-crazy 2020-08-11 06:14:24 swine
+plane-crazy 2020-08-11 06:14:41 T-14 Armata is
+plane-crazy 2020-08-11 06:14:55 *votkaz*
+plane-crazy 2020-08-11 06:14:59 
+plane-crazy 2020-08-11 06:15:08 Boetifool
+the-dump 2020-08-11 06:15:57 Me when you don't understand  the  referene
+the-dump 2020-08-11 06:17:22 Soon you'll see it.
+the-dump 2020-08-11 06:17:33 Soon you'll understand....
+the-dump 2020-08-11 06:26:50 No.
+the-dump 2020-08-11 06:26:52 No you will not.
+the-dump 2020-08-11 06:27:04 You will not be getting Jesus Wheels.
+general 2020-08-11 07:05:08 Sly
+general 2020-08-11 07:05:14 Nic Juggernaut
+the-dump 2020-08-11 07:05:55 
+the-dump 2020-08-11 07:06:11 <@!448505589983739914> imagine calling Takao a Battlecruiser <:pogey:651848693842182144>
+the-dump 2020-08-11 07:07:29 Heavy Cruiser Submarine
+the-dump 2020-08-11 07:07:53 I like this Drydock
+plane-crazy 2020-08-11 07:08:06 You see, Ivan.
+plane-crazy 2020-08-11 07:08:26 Wait is that the Hornet from COD IW?
+plane-crazy 2020-08-11 07:08:32 Makarov ^^^
+plane-crazy 2020-08-11 07:08:51 I
+plane-crazy 2020-08-11 07:08:53 Oh
+plane-crazy 2020-08-11 07:08:57 I thought that said Autism
+plane-crazy 2020-08-11 07:09:23 *Ah yes, the Autism Gun*
+the-dump 2020-08-11 07:09:42 Elevator time
+the-dump 2020-08-11 07:09:44 
+plane-crazy 2020-08-11 07:09:59 No
+plane-crazy 2020-08-11 07:10:08 Oh yes Pork
+plane-crazy 2020-08-11 07:10:11 YEOUS
+plane-crazy 2020-08-11 07:10:42 
+plane-crazy 2020-08-11 07:11:14 
+plane-crazy 2020-08-11 07:11:21 
+plane-crazy 2020-08-11 07:12:07 
+plane-crazy 2020-08-11 07:12:41 
+plane-crazy 2020-08-11 07:12:53 Yo
+plane-crazy 2020-08-11 07:12:57 my Floridaman friend
+plane-crazy 2020-08-11 07:13:10 they told him he needed a holster for his concealed weapon
+plane-crazy 2020-08-11 07:13:12 
+plane-crazy 2020-08-11 07:13:13 so
+plane-crazy 2020-08-11 07:13:50 "glocks aren't cool"
+***GLOCK BODY KITS***
+plane-crazy 2020-08-11 07:14:32 Touched
+plane-crazy 2020-08-11 07:15:21 Guns in Movies:
+plane-crazy 2020-08-11 07:15:45 Their clips:
+plane-crazy 2020-08-11 07:16:23 <@!363742162757877761>  wait
+plane-crazy 2020-08-11 07:16:37 Plane Crazy PVP Conversions like
+plane-crazy 2020-08-11 07:18:15 Sly
+plane-crazy 2020-08-11 07:18:31 you know how  COD: IW has like 6 attachments for  guns?
+plane-crazy 2020-08-11 07:18:46 COD: IW Guns:
+general 2020-08-11 07:21:15 CoD attachments be like
+general 2020-08-11 07:21:25 ***TaCtIcAl***
+plane-crazy 2020-08-11 07:22:04 When they tell you to stop  3 minutes after  you've stopped <:PogU:670373666164572172>
+general 2020-08-11 07:28:27 <@!702068186119405578>
+general 2020-08-11 07:28:32 *glik*
+plane-crazy 2020-08-11 07:28:43 I've been stopped
+general 2020-08-11 07:29:40 Wow
+general 2020-08-11 07:29:48 <@!287459677611098114> you literally told me to move to general
+general 2020-08-11 07:29:58 Sorry that was 224
+general 2020-08-11 07:30:06 Ever have problems meleeing?
+general 2020-08-11 07:30:13 not anymore.
+general 2020-08-11 07:31:01 
+general 2020-08-11 07:31:42 Movie Magazines be like:
+general 2020-08-11 07:31:45 
+general 2020-08-11 07:31:48 
+general 2020-08-11 07:32:16 ***KeKstended Clip***
+general 2020-08-11 07:33:12 Converting a car to PVP in  Plane Crazy like
+general 2020-08-11 07:33:15 
+general 2020-08-11 07:33:31 ***VW Isetta***: Am I a joke to you?
+general 2020-08-11 07:36:31 Pulling down on the trigger for .00001 seconds while wielding Skorpion EVO with Rapid Fire  attachment in BO II:
+general 2020-08-11 07:38:10 <@!563979803041202195>
+general 2020-08-11 07:38:26 Literally God
+general 2020-08-11 07:40:11 
+general 2020-08-11 07:40:23 Glockson Submachine Gun
+general 2020-08-11 07:43:12 POV: Weeb Gamers
+**YOU HAVE FOUND -**
+*Hello Kitty AR Skin*
+general 2020-08-11 07:47:23 Oh my god
+general 2020-08-11 07:49:28 *After 108 years, Rose and Jack still up there #Titanic*
+general 2020-08-11 07:53:40 ***Yo got my new #PPE, goin out to the store, wish me luck.***
+the-dump 2020-08-11 07:54:56 Motorlock Moments
+the-dump 2020-08-11 07:55:03 <:Thonk:509498568982134816>
+the-dump 2020-08-11 07:55:21 
+the-dump 2020-08-11 07:55:45 ***Motorlock Intensifies***
+the-dump 2020-08-11 08:04:09 https://www.youtube.com/watch?v=dGDH3meSPyk&feature=emb_rel_end
+general 2020-08-11 08:31:40 Walking down the Cabin past all the passen-
+general 2020-08-11 08:31:47 ***What is that  being?***
+general 2020-08-11 09:34:53 <@!448505589983739914> do you not see the little spot there on the tank where it's slightly like censored rofl
+general 2020-08-11 09:35:03 It's like blurred out
+general 2020-08-11 09:58:37 YOO
+general 2020-08-11 09:58:52 <@!670939038999511041> EPIC FALKEN IN THE BACKGROUND
+general 2020-08-11 09:59:13 
+general 2020-08-11 09:59:29 <@!448505589983739914>
+general 2020-08-11 09:59:42 Rate, I'm not finished yet  but I'm getting there
+general 2020-08-11 09:59:51 
+general 2020-08-11 09:59:56 
+general 2020-08-11 10:00:15 It's the Fortess Port o/ Yokosuka Naval Blockade Wall.
+general 2020-08-11 10:00:41 <@!335599526414909451>
+general 2020-08-11 10:00:46 Spammer online
+the-dump 2020-08-11 10:04:05 <@!448505589983739914> Rate ARP Fortress Port Yokosuka Naval Blockade Wall (So Far, W.I.P.)
+the-dump 2020-08-11 10:04:11 
+the-dump 2020-08-11 10:04:36 It needs to shed some pounds 😐
+the-dump 2020-08-11 10:08:24 Remember it?
+general 2020-08-11 20:47:43 Generalized Plane Crazy tanks
+the-dump 2020-08-11 20:59:29 
+the-dump 2020-08-11 21:03:31 
+general 2020-08-11 21:05:27 <@!363742162757877761> you ever look at a picture and see another nice picture so you open it in another tab and this continues happening, no matter how many tabs you close more just open?
+general 2020-08-11 21:05:29 
+general 2020-08-11 21:07:24 what kind of ship is it?
+general 2020-08-11 21:08:34 IJN Shimizu
+general 2020-08-11 21:08:58 Satsuma
+general 2020-08-11 21:09:14 np
+general 2020-08-11 21:09:18 I work on ships alot.
+general 2020-08-11 21:09:31 I can DM you couple of specs.
+general 2020-08-11 21:09:37 Touched,
+general 2020-08-11 21:09:45 I have the Baka rocket.
+general 2020-08-11 21:10:21 The Japanese Rocket-powered Kamikaze Flying Bomb from WWII
+general 2020-08-11 21:10:28 The Ohka
+general 2020-08-11 21:10:32 I have it ingame
+general 2020-08-11 21:10:48 It was nicknamed Baka
+general 2020-08-11 21:10:51 Also,
+general 2020-08-11 21:10:53 Baka means
+general 2020-08-11 21:10:55 "Fool"
+the-dump 2020-08-11 23:51:16 no
+the-dump 2020-08-11 23:51:33 
+the-dump 2020-08-11 23:51:35 Don't open the door
+the-dump 2020-08-11 23:51:49 DON'T OPEN IT!
+the-dump 2020-08-11 23:51:49 
+the-dump 2020-08-12 00:06:45 Fireteam
+the-dump 2020-08-12 00:06:49 North Korean Airforce
+the-dump 2020-08-12 00:07:11 
+the-dump 2020-08-12 00:07:18 Confirmed
+the-dump 2020-08-12 00:07:41 <@!335599526414909451> ever jump into a puddle and it's deeper than you thought?
+the-dump 2020-08-12 00:07:44 https://tenor.com/view/fail-whooo-deep-dangerous-gif-6108945
+the-dump 2020-08-12 00:08:49 Avengers: Endgame **2020**
+general 2020-08-12 00:10:10 GUY'S I'M BRINGING IT BACK
+general 2020-08-12 00:10:41 BUT THERE WILL BE MORE NOW, KEEP AN EYE OUT
+general 2020-08-12 00:11:04 obc Sims but each house is a single tile wide
+general 2020-08-12 00:11:18 The Gray Challenge
+general 2020-08-12 00:11:44 Every building must be 1 Tile Wide.
+general 2020-08-12 00:12:11 I want to see a successful community of 1-Tile Wide Buildings
+the-dump 2020-08-12 01:46:50 <@!275772366687043584> damn the hair got me
+general 2020-08-12 01:47:20 99er
+general 2020-08-12 01:47:22 don't doubt it
+the-dump 2020-08-12 01:49:16 When I watch a beautiful VR experience made by my bf but then I remember he's gone and won't come back, and it was the  last thing he gave me.
+general 2020-08-12 01:51:39 Bruh
+general 2020-08-12 01:51:45 Cars before Hover Thruster
+general 2020-08-12 01:51:46 
+general 2020-08-12 01:52:00 Cars  after Hover Thruster
+general 2020-08-12 01:52:17 
+the-dump 2020-08-12 01:53:38 
+general 2020-08-12 01:54:23 I saw that before
+general 2020-08-12 01:54:45 I did it  before
+general 2020-08-12 01:54:52 Gordon Ramsay would be proud
+the-dump 2020-08-12 01:55:46 I swear there are Real Anime girls following me around
+the-dump 2020-08-12 01:55:58 bruh
+the-dump 2020-08-12 01:56:15 WHAT THE
+the-dump 2020-08-12 01:56:39 G
+the-dump 2020-08-12 01:59:16 Who
+the-dump 2020-08-12 01:59:19 who is that
+the-dump 2020-08-12 01:59:45 I A m T h e M i l k M a n
+the-dump 2020-08-12 01:59:55 M y M i l k I s D e l i c i o u s
+the-dump 2020-08-12 02:00:16 bro
+the-dump 2020-08-12 02:00:20 
+the-dump 2020-08-12 02:00:22 https://tenor.com/view/sad-blackish-anthony-anderson-tears-upset-gif-4988274
+the-dump 2020-08-12 02:00:54 Bruh that reminds me of the time I was like this
+the-dump 2020-08-12 02:01:02 Dark Times
+general 2020-08-12 02:01:37 GUYS
+general 2020-08-12 02:02:00 When loading a Big Build
+general 2020-08-12 02:02:15 What it feels like
+general 2020-08-12 02:02:32 Yes
+the-dump 2020-08-12 02:03:40 
+the-dump 2020-08-12 02:04:33 
+the-dump 2020-08-12 02:05:16 
+the-dump 2020-08-12 02:05:46 
+the-dump 2020-08-12 02:06:38 Yo bro so I choose the 2nd one uhh
+the-dump 2020-08-12 02:06:42 what was it called again?
+the-dump 2020-08-12 02:06:53 Plague Doctor
+the-dump 2020-08-12 02:08:24 
+the-dump 2020-08-12 02:08:31 
+general 2020-08-12 02:10:41 Awesome
+general 2020-08-12 02:10:42 No
+general 2020-08-12 02:10:48 You mean Mineplex
+general 2020-08-12 02:10:56 Imma vomit at Mineplex bugs
+general 2020-08-12 02:11:09 Everything > Mineplex Bugs
+general 2020-08-12 02:11:21 Bruh don't
+general 2020-08-12 02:11:33 It's basically a P2W server,
+general 2020-08-12 02:11:42 and it has  like 4 Trillion bugs
+general 2020-08-12 02:11:46 and  bad connection
+general 2020-08-12 02:11:55 It died like years ago, but people still play it
+general 2020-08-12 02:12:07 Sorry 99er,
+general 2020-08-12 02:12:12 The  nether  is more than one biome now.
+general 2020-08-12 02:12:31 Welp sorry it's not up to date
+general 2020-08-12 02:12:33 2B2T
+general 2020-08-12 02:12:35 THE OLDEST
+general 2020-08-12 02:12:36 ANARCHY
+general 2020-08-12 02:12:39 SERVER IN MINECRAFT
+general 2020-08-12 02:13:33 FUCK
+general 2020-08-12 02:13:46 oh well
+general 2020-08-12 02:13:56 I know that server
+general 2020-08-12 02:14:08 I know what  you're talking  about Touched
+general 2020-08-12 02:14:10 actually,
+general 2020-08-12 02:14:21 they're having  people in this community build parts of the world
+general 2020-08-12 02:14:25 and then they can submit them
+general 2020-08-12 02:14:35 99er, I have  the most  protected port yet
+general 2020-08-12 02:15:45 Show me a picture  of  a port
+general 2020-08-12 02:16:09 Do it.
+general 2020-08-12 02:16:30 omfl I know that
+general 2020-08-12 02:16:33 There's a  meme
+general 2020-08-12 02:16:39 wanted Minecraft
+general 2020-08-12 02:16:43 got *Meinkampf*
+general 2020-08-12 02:16:46 the book
+general 2020-08-12 02:16:56 By WWII Mustach Guy
+general 2020-08-12 02:17:08 *pain*
+general 2020-08-12 02:17:26 GET THE DIAMONDS
+the-dump 2020-08-12 02:18:18 So sad because it's so true.
+general 2020-08-12 02:25:46 I take protecting my ships
+general 2020-08-12 02:26:07 
+general 2020-08-12 02:26:09 Very. Seriously.
+general 2020-08-12 02:31:41 
+general 2020-08-12 02:32:07 
+general 2020-08-12 02:32:27 Yeous, the great Naval wall of Yokosuka.
+general 2020-08-12 02:32:35 Still underway.
+general 2020-08-12 02:32:56 I swear
+general 2020-08-12 02:33:07 None  shall take  my boats
+general 2020-08-12 02:33:52 I'll fight 100 Dragons with a Stick before someone takes one of my boats.
+general 2020-08-12 02:34:16 Tbh I did get the finishing  blow on a dragon once by accidentally punching it with my bow
+general 2020-08-12 02:34:37 The melee damage was enough to kill it in one accidental hit.
+general 2020-08-12 02:34:56 ***ONE PUUUUNNCHH-*** No.
+the-dump 2020-08-12 03:35:28 rensis
+the-dump 2020-08-12 03:35:38 get lizards
+the-dump 2020-08-12 03:35:52 Lizards love eating spiders
+the-dump 2020-08-12 03:35:58 There's only 2 that could contend
+the-dump 2020-08-12 03:36:06 Goliath Bird Eaters
+the-dump 2020-08-12 03:36:16 and Australian Huntsman Spiders
+the-dump 2020-08-12 03:36:22 You don't want Huntsman Spiders
+the-dump 2020-08-12 03:36:25 they run at you
+the-dump 2020-08-12 03:36:40 and have like half- to almost foot-long legs
+the-dump 2020-08-12 03:37:04 
+the-dump 2020-08-12 03:37:09 
+the-dump 2020-08-12 03:37:15 
+the-dump 2020-08-12 03:37:21 
+the-dump 2020-08-12 03:37:25 
+the-dump 2020-08-12 03:37:32 Bro time to cry
+the-dump 2020-08-12 03:37:48 
+the-dump 2020-08-12 03:37:51 
+general 2020-08-12 03:38:12 Bruh
+general 2020-08-12 03:38:26 My radio station keeps doing Emergency Alert Tests
+general 2020-08-12 03:38:40 Every time I hear it
+general 2020-08-12 03:38:45 I jump up and like
+general 2020-08-12 03:38:53 ***"RUSSIA!"***
+general 2020-08-12 03:39:39 ***"GOTTVERDAMMNT CHINA!"***
+general 2020-08-12 22:30:13 Bruh
+general 2020-08-12 22:30:23 Time to build a Mantis Shrimp in Plane Crazy.
+general 2020-08-12 22:30:44 Their punches average 20 Meters per second,
+general 2020-08-12 22:30:57 and can break Bullet Proof glass and punch holes in Titanium.
+general 2020-08-12 22:31:39 Matter  a fact, their claws move so fast, the water around the claws  Boil when they punch, creating a low-pressure air bubble and  a shockwave to disorient their prey
+general 2020-08-12 22:31:57 Yes,
+general 2020-08-12 22:32:19 The shockwave can disorient the prey, the punch could probably break bones, and  the water would  boil their flesh
+general 2020-08-12 22:32:38 ***One Punch Shrimp***
+the-dump 2020-08-12 22:32:58 
+general 2020-08-12 22:34:34 You know at 6 inches Mantis Shrimp have the power of a 22 Rifle V
+general 2020-08-12 22:35:01 It'll break ur skull.
+general 2020-08-12 22:35:23 Wish me luck bois
+general 2020-08-12 22:35:56 One-Punch Shrimp will soon enter the battlefield and none will be able to defeat me at CQC
+general 2020-08-12 22:36:45 Imma be punching tanks away
+general 2020-08-12 22:37:29 Also I'll probably add some Blast Shields to my ships
+general 2020-08-12 22:37:42 Like Torpedo Shields, or Tank Skirts.
+general 2020-08-12 22:37:58 Don't worry
+general 2020-08-12 22:38:03 I'll be  sure  to add Rocket Pods
+general 2020-08-12 22:38:17 Actually the design reminds  me  of a certain walker...
+general 2020-08-12 22:38:28 Then I'll fire another one.
+general 2020-08-12 22:38:42 You realize I can set different Keybinds for each missile?
+general 2020-08-12 22:39:00 I just fire  1 at a time until one hits you
+the-dump 2020-08-12 22:45:16 Yikes so before I build the Mantis Shrimp Imma have to build this walker V
+the-dump 2020-08-12 22:59:44 Not too hard though,
+the-dump 2020-08-12 23:00:28 there's a fairly simple walker design that reminded me of that walker, so I can use the walker design as a base, maybe update  it.
+the-dump 2020-08-12 23:18:18 Yikes
+the-dump 2020-08-12 23:18:29 <@!335599526414909451> I see a swassi
+general 2020-08-13 00:06:39 
+general 2020-08-13 00:07:25 I'll help
+general 2020-08-13 00:09:31 <@!335599526414909451> Cute ship model guide
+general 2020-08-13 00:09:37 
+general 2020-08-13 00:09:41 
+general 2020-08-13 00:10:17 <@!380926327210901506> DM me  about that I'll help you
+general 2020-08-13 00:10:29 You too Expired.
+general 2020-08-13 00:10:48 I'm pro at Anime Plots, I know too many.
+general 2020-08-13 00:12:16 Well you have to give me a basis and I'll drive you a whole  plot but I'm now.
+general 2020-08-13 00:12:26 Trying to stay alive in Feed and Grow Fish
+general 2020-08-13 00:14:07 
+general 2020-08-13 00:14:11 I am god of the Swamp.
+general 2020-08-13 00:14:22 Level 450 and still going
+general 2020-08-13 00:14:37 I have  found a away to Spawn Camp the Swamp Lurkers
+general 2020-08-13 00:14:53 Can't even fit in the swamp anymore
+general 2020-08-13 00:15:05 Luckily my fish can live out of water for  days on end
+general 2020-08-13 00:16:14 Shiiit
+general 2020-08-13 00:16:22 Level 500
+general 2020-08-13 00:16:23 and I have  become an Airship
+general 2020-08-13 00:16:36 I can't even go in the water anymore
+general 2020-08-13 00:17:03 Give me the  basis
+general 2020-08-13 00:17:10 You haven't told me what the anime is
+general 2020-08-13 00:19:16 :o.
+general 2020-08-13 00:19:18 YES
+general 2020-08-13 00:19:26 GIVE ME A COUPLE MINUTES
+general 2020-08-13 00:19:40 I'VE JUST GIVEN UP ON THE SWAMP-SIZED FISH
+general 2020-08-13 00:19:45 *WHAT ARE YOU DOING IN MY SWAMP*
+general 2020-08-13 00:19:53 BITCH NOW I **AM** THE  SWAMP
+general 2020-08-13 00:20:19 I said 1 swear word
+general 2020-08-13 00:20:25 Yikes
+general 2020-08-13 00:20:46 SORRY, ARS NOVA SEASON 2 PLOT MORE IMPORTANT TO ME
+general 2020-08-13 00:20:53 LET ME DO IT.
+the-dump 2020-08-13 00:31:53 No he's going to hell
+the-dump 2020-08-13 01:53:23 Single Missile: *Hits my ship*
+Physics:
+the-dump 2020-08-13 01:53:26 
+the-dump 2020-08-13 01:53:30 
+general 2020-08-13 01:55:26 
+the-dump 2020-08-13 02:13:16 Delete it for me
+the-dump 2020-08-13 02:13:20 please
+the-dump 2020-08-13 02:13:39 What's the No No word
+general 2020-08-13 02:13:50 <@!671156550546751550> YES!
+the-dump 2020-08-13 02:14:02 Damn you but we can say fuck here?
+the-dump 2020-08-13 02:14:39 But
+the-dump 2020-08-13 02:14:47 What's different about that word?
+the-dump 2020-08-13 02:15:08 But they weren't
+the-dump 2020-08-13 02:15:15 But
+the-dump 2020-08-13 02:15:21 And?
+the-dump 2020-08-13 02:15:43 It's literally a kind of video I don't understand what's wrong  with it,
+the-dump 2020-08-13 02:15:51 I can see  if they were using  it in a  certain way
+the-dump 2020-08-13 02:15:59 You're not a staff  here though
+the-dump 2020-08-13 02:16:04 HEY <@!335599526414909451>
+general 2020-08-13 02:16:18 YOOO DELETE THAT NOW PLEASE
+general 2020-08-13 02:16:23 NO RICKJE-CHAN
+the-dump 2020-08-13 02:16:35 But you're an Inventor
+the-dump 2020-08-13 02:17:37 <@!456238251204935690> is getting on my ass about a video having the Po__ word
+general 2020-08-13 02:17:48 DM ME
+general 2020-08-13 02:17:50 RIGHT NOW
+general 2020-08-13 02:17:59 DM ME THAT
+the-dump 2020-08-13 02:18:04 Purif
+the-dump 2020-08-13 02:18:33 Ugh, but it wasn't borderline
+the-dump 2020-08-13 02:18:44 It literally had to word typed as a name of a channel
+the-dump 2020-08-13 02:18:57 THEN DON'T LOOK AT IT!
+the-dump 2020-08-13 02:19:03 Ok
+the-dump 2020-08-13 02:19:14 Please tell me which words are  NSFW besides Lol_
+the-dump 2020-08-13 02:19:32 Because there's just  so many words that are allowed here I just don't know
+the-dump 2020-08-13 02:19:40 PURIFIED THAT WAS IN THE FORM OF A QUESTION
+the-dump 2020-08-13 02:19:44 WHAT WORDS?
+the-dump 2020-08-13 02:19:46 TELL ME
+the-dump 2020-08-13 02:20:09 Imagine you get warned for saying NSFW word but mods won't telll you what the words are  NSFW so you don't say them.
+general 2020-08-13 02:20:32 Yikes evo
+general 2020-08-13 02:20:38 is that a
+the-dump 2020-08-13 02:20:46 But
+the-dump 2020-08-13 02:20:48 I mean
+the-dump 2020-08-13 02:20:59 If you can say *Fuck* here, I would think you can say anything.
+the-dump 2020-08-13 02:21:01 But ok
+the-dump 2020-08-13 02:21:17 Common sense must be failing me today
+the-dump 2020-08-13 02:21:20 but to be honest,
+the-dump 2020-08-13 02:21:24 Not very many people have it
+the-dump 2020-08-13 02:21:50 so I might be the one in 1,000,000 that  happens to be in this server that actually has it.
+the-dump 2020-08-13 02:22:42 > No, you just seem to have a slight case of autism my guy.
+<@!456238251204935690> that's actually offensive to people
+the-dump 2020-08-13 02:22:53 No that's offense.
+general 2020-08-13 02:23:32 Puri <@!456238251204935690> is saying I have Autism isn't that  offensive to people who actually have autism?
+general 2020-08-13 02:23:41 WOOOOO NEVADA
+general 2020-08-13 02:24:06 *smh* Expired stop calling  people Autistic is that your only insult
+the-dump 2020-08-13 02:24:26 <@!335599526414909451> Earrape video
+the-dump 2020-08-13 02:24:39 No it isn't
+the-dump 2020-08-13 02:24:58 Dude I have  a headache now
+the-dump 2020-08-13 02:25:03 I was wearing
+the-dump 2020-08-13 02:25:07 *e a r b u d s*
+the-dump 2020-08-13 02:25:12 Nonono,
+the-dump 2020-08-13 02:25:18 Earrape videos are just common sense
+the-dump 2020-08-13 02:25:36 No server  I have ever  known has allowed Earrape videos,
+the-dump 2020-08-13 02:25:49 That's like a fucking Discord Commandment.
+the-dump 2020-08-13 02:25:56 Then why did the Mod remove it?
+the-dump 2020-08-13 02:25:59 If it was  allowed?
+the-dump 2020-08-13 02:26:29 😮
+the-dump 2020-08-13 02:26:32 amazing
+the-dump 2020-08-13 02:26:35 Hm
+general 2020-08-13 02:31:24 Yo bro <@!335599526414909451> but I just noticed that Earrape videos are  condoned by the rules you need to make a  rule about that or I'll report the server for allowing unsafe content, I just got a headache from a video earlier and there are people who  are sensitive to that kind of thing or it can permanantly damage their ears.
+the-dump 2020-08-13 02:32:04 Because skill
+the-dump 2020-08-13 02:32:10 the power of Turning Differential
+general 2020-08-13 02:33:52 Purified I pinged you to make a rule about Earrape Videos or I'll report the server for condoning unsafe content that could Disorient or even Injure people.
+general 2020-08-13 02:34:39 <@!315262125113081856> , I didn't know it was an earrape, and the poster didn't alert me that it was an earrape.
+general 2020-08-13 02:36:16 Sympt maybe not spam rick.
+general 2020-08-13 02:36:33 It's not  for nothing
+general 2020-08-13 02:37:08 The server condones content that could Disorientate or Injure people.
+general 2020-08-13 02:37:17 I cannot allow that.
+general 2020-08-13 02:37:48 Unless you want lawsuits from people  that have suffered Seizures from Epileptic Videos or Have gone Deaf from Earrape Videos.
+general 2020-08-13 02:37:57 Which, last time I checked
+general 2020-08-13 02:38:00 they're both condoned.
+general 2020-08-13 02:38:11 But it's not against the rules,
+general 2020-08-13 02:38:18 You need to make it against  the rules.
+general 2020-08-13 02:38:37 <@!315262125113081856> I can't, that's Youtube.
+general 2020-08-13 02:38:57 It would be a report because the server is condoning the content,
+general 2020-08-13 02:39:15 But  check the rules.
+general 2020-08-13 02:39:18 No, Sympt
+general 2020-08-13 02:39:28 It's not the same.
+general 2020-08-13 02:39:39 It's not against Youtube's ToS,
+general 2020-08-13 02:39:53 but  it's against all other  Discord Server's Rules.
+general 2020-08-13 02:40:03 It should be against this one's as well.
+general 2020-08-13 02:40:14 Because they delete it.
+general 2020-08-13 02:40:18 it should be a warn.
+general 2020-08-13 02:40:41 <@!315262125113081856> you blind?
+general 2020-08-13 02:41:00 I literally said it's not against Youtube ToS, but it's against Discord Server Rules as a whole.
+general 2020-08-13 02:41:42 You have to be more specificc than "show me where in the tos"
+general 2020-08-13 02:42:41 <@!456238251204935690> so is this server trying to be different from all the others
+general 2020-08-13 02:42:59 Never have I seen one server that condones Excessively Loud or Epileptic content.
+general 2020-08-13 02:43:20 Just if you're going to warn people for it then put it in the rules please.
+general 2020-08-13 02:44:00 <@!429826358827417601> that ToS doesn't condone anyone getting *Injured* by content
+general 2020-08-13 02:59:09 Just perm mute me.

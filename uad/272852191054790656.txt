@@ -1,0 +1,918 @@
+The Tale of flawlessdiamond (272852191054790656)
+plane-crazy 2019-07-09 17:13:09 Howdy y'all
+plane-crazy 2019-07-09 17:13:21 ok
+plane-crazy 2019-07-09 17:14:24 i like building mechanical things but idk what mechanical thing to build, any suggestions
+plane-crazy 2019-07-09 17:15:48 that's actually really cool
+plane-crazy 2019-07-09 17:16:31 it's a fancy heckin pen
+plane-crazy 2019-07-09 17:16:41 idk who would buy it but that's actually really cool
+plane-crazy 2019-07-09 17:29:41 what the heck is that
+plane-crazy 2019-07-09 17:30:20 what it do
+plane-crazy 2019-07-09 17:30:48 why tho
+plane-crazy 2019-07-09 17:31:09 i built a robot arm but it sucks
+plane-crazy 2019-07-09 17:31:18 too hard to control
+creations-chat 2019-07-09 17:37:12 (somewhat) functional differential, which in case you don't know what a differential does, lets the 2 wheels spin at different speeds depending on how much or how little resistance there is on each wheel
+creations-chat 2019-07-09 17:41:52 for simplicity i used a jet engine on the free floating arm thing (idk the terminology well, just the mechanics) and that spins both half shafts
+creations-chat 2019-07-09 17:42:22 it would have been a whole lot bigger to power the axle like it's done in real life, so i just didn't do it
+creations-chat 2019-07-09 17:44:56 hey out of curiousity, since i just joined, has anyone figured out an effective way to do gears? that would be very helpful for multiple things
+creations-chat 2019-07-09 17:45:07 oh idk i just didn't think it through
+creations-chat 2019-07-09 17:45:20 cool
+creations-chat 2019-07-09 17:48:23 is it in the creations channel? i'm looking for it rn but i'm just curious about the actual gears
+creations-chat 2019-07-09 17:48:37 k i'll keep looking
+creations-chat 2019-07-09 17:48:46 oh
+creations-chat 2019-07-09 17:48:48 yeah im dumb
+creations-chat 2019-07-09 17:48:49 thanks
+creations-chat 2019-07-09 17:49:13 oh he just did gears the same way i did
+creations-chat 2019-07-09 17:49:21 i learned nothing from that but thanks anyways lol
+creations-chat 2019-07-09 17:52:06 Here's a dragster I made, it's not actually fast, like at all, but I'm pretty happy with how it looks
+creations-chat 2019-07-09 18:00:02 yeah
+creations-chat 2019-07-09 18:00:03 that
+creations-chat 2019-07-09 18:00:15 that's just supposed to be the engine, it's decorative
+help 2019-07-14 00:18:16 quick question, does a more sleek front actually make a difference in water? like actually making the craft more hydrodynamic
+help 2019-07-14 00:43:01 gotcha, thanks
+creations-chat 2019-07-14 01:40:06 Little 2 seater bi-plane I made, rocket engine hidden inside so it can actually fly lol.
+creations-chat 2019-07-14 01:41:29 thanks 😃
+creations-chat 2019-07-14 01:43:34 bruh
+creations-chat 2019-07-14 01:45:31 but that's like big and stuff <:Thonk:509498568982134816>
+creations-chat 2019-07-14 01:57:42 bruh moment
+creations-chat 2019-07-14 02:34:25 *y'all saying under 2000 blocks is small, literally nothing i've ever built is over 1500*
+creations-chat 2019-07-14 02:36:56 my largest craft in *physical* size is 250 blocks, i'm just now realizing the stuff i build is really small
+creations-chat 2019-07-14 02:38:11 idk it's a good size vehicle, just not very complex
+creations-chat 2019-07-14 02:38:39 my biggest vehicle in part count is 300
+creations-chat 2019-07-14 02:39:04 i don't have the patience to build something with thousands of blocks tho
+creations-chat 2019-07-14 02:39:43 my biggest vehicle is a land vehicle
+creations-chat 2019-07-14 02:39:48 but like
+creations-chat 2019-07-14 02:39:53 still, only 300 blocks
+creations-chat 2019-07-14 02:40:02 then again i never finished the body work so it would be a lot higher
+creations-chat 2019-07-14 02:41:10 what's a good color scheme for a boat
+creations-chat 2019-07-14 02:41:19 i'm not creative
+creations-chat 2019-07-14 02:48:42 big boat boi
+creations-chat 2019-07-14 02:49:24 boat's deck
+creations-chat 2019-07-14 02:51:00 yeah
+creations-chat 2019-07-14 02:51:08 ):
+creations-chat 2019-07-14 02:51:47 i don't build big, most of the time i only do mechanical stuff so trying to do aesthetics is very much not my thing, let me have my moment lmao
+creations-chat 2019-07-14 02:53:19 had an idea to build a second hull the same size, probably extend them both out more, but then put an aircraft deck between it, it would be pretty small but i can have extensions fold out at the front and back
+creations-chat 2019-07-14 02:55:09 that's actually a really nice plane
+creations-chat 2019-07-14 02:59:03 not funny didn't laugh
+creations-chat 2019-07-14 02:59:28 not didn't funny laugh
+creations-chat 2019-07-15 21:12:01 im building my first aircraft carrier, should i try to add working aircraft elevators?
+creations-chat 2019-07-15 21:12:18 i'd have to figure out some place to actually hold the planes but that shouldn't be hard
+creations-chat 2019-07-15 21:13:02 for whatever reason i decided a catamaran aircraft carrier might be a cool idea but honestly i don't think it's going to be more interesting in any way than a normal one
+creations-chat 2019-07-15 21:16:23 i don't even see how you would use ropes
+creations-chat 2019-07-15 21:16:36 but i haven't played around with ropes at all so idk how they work
+creations-chat 2019-07-15 21:17:13 yeah that's kind of what i was thinking
+creations-chat 2019-07-15 21:20:42 you have motors rotated when building so a scissor lift might be kind of difficult but i could try that
+creations-chat 2019-07-15 21:20:57 or i guess you could use wedges so it starts at an angle
+creations-chat 2019-07-15 21:21:04 i don't build much complex stuff lol
+creations-chat 2019-07-15 21:21:15 hm
+creations-chat 2019-07-15 21:21:43 yeah
+creations-chat 2019-07-15 21:21:44 ik
+creations-chat 2019-07-15 21:21:55 i can just delete the carrier after saving it and experiment
+creations-chat 2019-07-15 21:22:45 so far my carrier has 3-4 times as many parts as my second largest vehicle
+creations-chat 2019-07-15 21:22:55 i don't build big things tho so it isn't hard to beat
+creations-chat 2019-07-15 21:23:15 1k 😐
+creations-chat 2019-07-15 21:23:26 yeah ik
+creations-chat 2019-07-15 21:23:38 i'll probably reach like 3k with this when it's all done
+creations-chat 2019-07-15 21:23:50 well i don't even have a deck yet
+creations-chat 2019-07-15 21:23:53 and it's a catamaran
+creations-chat 2019-07-15 21:23:56 so split hull
+creations-chat 2019-07-15 21:24:40 i don't like talking here because everyone is way better than me and calls what i think is big small, very big sad
+creations-chat 2019-07-15 21:25:49 my hulls are both hollow and idk if i'll put stuff in them
+creations-chat 2019-07-15 21:31:43 my first boat was like a 200 block mini rescue boat thing
+creations-chat 2019-07-15 21:31:50 it was literal garbage
+creations-chat 2019-07-15 21:32:04 second boat wasn't much better, that one i actually posted here
+creations-chat 2019-07-15 21:32:15 im just really not good at making things look good
+creations-chat 2019-07-15 21:33:06 wtf
+creations-chat 2019-07-15 21:34:38 lmao
+creations-chat 2019-07-15 21:35:08 i usually focus on making things as small as possible because i usually build things like suspension mechanisms, now trying to build big is very different
+creations-chat 2019-07-15 21:35:35 I feel like i can realistically finish this carrier
+creations-chat 2019-07-15 21:35:45 it's so much bigger than anything i've done but im dedicated
+creations-chat 2019-07-15 21:36:54 lmao
+creations-chat 2019-07-15 21:37:21 any suggestions or ideas on what a carrier realistically needs? i don't know a lot about boats
+creations-chat 2019-07-15 21:37:37 i know it needs a deck, a hull, and a super structure, but what are some other essentials
+creations-chat 2019-07-15 21:38:06 the *what*
+creations-chat 2019-07-15 21:38:22 oh yeah no i'm not working out that mechanism lmao
+creations-chat 2019-07-15 21:38:53 yeah ik what you're talking about
+creations-chat 2019-07-15 21:40:14 my carrier is so stubby, because i wanted to make it a catamaran i needed a fair amount of space between the 2 hulls and now it looks really short when in reality it's really not
+help 2019-07-15 21:43:45 I know that's not what this channel is really for, i just don't really want this image in the creations channel. How does this look as far as length? I can add a second fold to help it if it's too short
+help 2019-07-15 21:46:29 fair enough
+help 2019-07-15 21:47:01 alright gimme a minute to save
+creations-chat 2019-07-16 16:03:14 that's really nice, that looks cool
+creations-chat 2019-07-16 16:59:28 that's really nice
+creations-chat 2019-07-16 17:03:22 Here's my Catamaran Aircraft Carrier, it's not the biggest or most impressive aircraft carrier but I'm super proud of this and it's the biggest thing I've ever built, about 3.6k blocks.
+creations-chat 2019-07-16 17:04:40 Some decorations inside the command room thing
+creations-chat 2019-07-16 18:02:44 thanks 😃
+creations-chat 2019-07-16 20:27:16 you can just request a role with something you build? lol
+creations-chat 2019-07-16 20:58:47 holy heck that thing flies really well
+creations-chat 2019-07-17 00:34:56 Here's an F-16 I made, 390 blocks, so somewhat small. straight line top speed of 415.
+creations-chat 2019-07-17 00:38:43 off to a great start, 2 downvotes yee haw
+creations-chat 2019-07-17 00:39:15 I thought it was pretty close to the real thing but i guess not lol
+creations-chat 2019-07-17 00:40:10 yeah ik
+creations-chat 2019-07-17 00:40:28 i didn't expect it to be the best anybody had seen by any means, i just wanted it to be accurate
+creations-chat 2019-07-17 00:40:42 personally im happy with it and that's all that really matters
+creations-chat 2019-07-17 00:43:05 here's a picture with higher graphics settings so you can see the shape a little bit better
+creations-chat 2019-07-17 00:51:09 ngl i am a little, i was really proud of it. idk what i expected tho this server has really high standards
+creations-chat 2019-07-17 00:51:24 yeah ik
+creations-chat 2019-07-17 18:43:30 overall i like the ship, but yeah i agree with ^^
+creations-chat 2019-07-17 18:47:24 im uneducated, what's a vsp?
+creations-chat 2019-07-17 19:24:12 i kinda doubt it but it's worth asking, i did a mechanical differential a little while back and i just did a search and it looks like im the only person that has done it, would i be able to get inventor rank for that?
+creations-chat 2019-07-17 19:27:33 lol
+creations-chat 2019-07-17 20:22:23 kinda want to try and do a 747, i already know it's gonna be bad but somebody pick an airline company, i wanna do the seating layout and everything but every airline company does something slightly different
+creations-chat 2019-07-17 20:23:52 mk
+creations-chat 2019-07-17 20:23:54 thanks
+creations-chat 2019-07-17 20:26:09 lol
+creations-chat 2019-07-17 20:26:22 yeah this is gonna be bad, prepared for many downvotes but i wanna challenge myself
+creations-chat 2019-07-17 20:27:18 i don't know planes well so im literally just doing the first result for "air canada 747"
+creations-chat 2019-07-17 20:27:26 *i'm extra screwed*
+creations-chat 2019-07-17 20:29:20 yeah ik it's just the plane i know well bc it's popular
+creations-chat 2019-07-17 20:29:48 yeah im using regular images, i ain't going through the trouble to use blueprints
+creations-chat 2019-07-17 20:29:53 idrc
+creations-chat 2019-07-17 20:58:46 oh absolutely
+creations-chat 2019-07-17 20:58:50 still looks nice imo
+creations-chat 2019-07-17 21:01:06 I really want to try making more mechanical things but i just don't know what mechanism to try
+creations-chat 2019-07-17 21:04:34 ive done that ._.
+creations-chat 2019-07-17 21:05:59 that's a good idea
+creations-chat 2019-07-17 21:06:27 i don't really have any large planes but i could try it anyways
+creations-chat 2019-07-17 21:35:05 lol
+creations-chat 2019-07-17 21:37:47 i just like building mechanical stuff
+creations-chat 2019-07-17 21:37:52 it's not for any particular reason
+creations-chat 2019-07-17 21:37:59 i just like understanding how it works i guess
+creations-chat 2019-07-17 22:51:55 i just remade the 5 blocks plane and it actually flies really well, i'm impressed lol
+help 2019-07-18 18:07:19 a copy and paste feature would actually be super useful
+help 2019-07-18 18:11:11 kind of like what ksp does with their sub assembly things if i remember correctly, where you save a set of blocks that can then be imported and placed as one
+help 2019-07-18 18:11:46 it's been a while since i've played but from what i can tell sounds like that's basically what you're describing lol
+creations-chat 2019-07-18 19:20:51 i tried building a B2 spirit and i regret it so much
+creations-chat 2019-07-18 19:21:02 it's so bad and it's the worst flying thing i've ever made
+creations-chat 2019-07-18 19:21:29 i had to give in and give it little vertical stabilizers just so it will fly at all so sadly i couldn't stay true to the original design
+creations-chat 2019-07-18 19:21:38 
+creations-chat 2019-07-18 19:22:06 lesson learned, just *don't*
+creations-chat 2019-07-18 19:22:19 hey wtf
+creations-chat 2019-07-18 19:22:34 why
+creations-chat 2019-07-18 19:25:18 yeah same
+bug-reports 2019-07-18 20:19:41 i hate when the motors bug out lol, i have a wishbone suspension mechanism where if it's too soft or too tall than every bump you hit it launches into the air
+creations-chat 2019-07-18 21:13:53 This super ugly plane is my first VTOL, i'm expecting loads of downvotes on this but i just love how this flies and wanted to share.
+creations-chat 2019-07-19 17:14:25 ok
+creations-chat 2019-07-19 21:08:07 all out of inspiration, what am i buildin' fellas
+creations-chat 2019-07-19 21:08:47 oh i didn't even know there was a contest ._.
+creations-chat 2019-07-19 21:09:23 im not good at building big things, even something like an airliner, i'm not gonna submit for this one
+creations-chat 2019-07-19 21:09:54 the biggest thing i've done was that below average size aircraft carrier
+creations-chat 2019-07-19 21:09:59 so yeah, no big things
+creations-chat 2019-07-19 21:32:45 for whatever reason i decided a fish plane would be a good idea. i was wrong but here it is anyways.
+creations-chat 2019-07-19 21:37:06 that actually looks pretty cool all around, the propeller housings look a little odd tho
+creations-chat 2019-07-20 01:46:11 what the heck
+creations-chat 2019-07-21 18:10:56 i actually really like the idea of a miniature airliner, considered building my own to experiment, but that one isn't very accurate imo
+creations-chat 2019-07-21 18:58:09 gonna try a 737 with realistic seating, already got economy and business class laid out and I didn't realize how much space it's going to take up lol
+creations-chat 2019-07-21 19:03:48 lol, that's pretty cool actually
+creations-chat 2019-07-21 20:26:34 because as we all know, trebuchets are superior to catapults
+creations-chat 2019-07-21 20:55:04 why the heck is there no half triangle wedges
+creations-chat 2019-07-21 21:00:23 it's genuinely annoying
+creations-chat 2019-07-21 23:37:14 that's pretty bad
+creations-chat 2019-07-22 02:37:17 (resubmitted because i forgot to put image and text in the same message) Spent all day making this 737-600, livery based off of Scandinavian airlines.
+creations-chat 2019-07-22 02:39:27 oh, in all the pics i saw they were
+creations-chat 2019-07-22 02:39:34 ohhh
+creations-chat 2019-07-22 02:39:37 easy mistake to make
+creations-chat 2019-07-22 02:39:44 sorry lol
+creations-chat 2019-07-22 02:40:16 based the seating off some random seating chart for the same plane i found online lol. 110 seats, 102 economy and 8 business class seats in the front
+creations-chat 2019-07-22 02:40:29 not the most attractive room ._.
+creations-chat 2019-07-22 02:41:50 and here's the business class section, not based off any real business class irl i just built what i could with the space
+creations-chat 2019-07-22 16:30:47 looks cool
+creations-chat 2019-07-23 00:08:00 A bunch of people in my server were doing rescue boats, so i did the same. it's nicknamed the Watchdog-1035. Can house 10 people long term, so an entire server.
+creations-chat 2019-07-23 00:09:12 Decorative kitchen in the lower floor of the superstructure
+creations-chat 2019-07-23 00:12:06 forgot to mention above, top speed of about 220, block count is 1035
+creations-chat 2019-07-23 00:23:06 fair, i think there is a few things on the outside that could look a lot better
+creations-chat 2019-07-23 00:59:29 yeah thats fair
+creations-chat 2019-07-23 01:50:46 your welcome lol
+creations-chat 2019-07-23 01:50:52 i thought it looks nice
+creations-chat 2019-07-23 01:50:55 so you get an upvote
+help 2019-07-23 16:35:04 i have a wooden model  on my desk
+help 2019-07-23 16:35:12 right in front of me rn
+help 2019-07-23 16:40:22 hey i really want constructive criticism on my boat from yesterday, I already like it a lot but there's a lot of room for improvement, but I didn't want it going into the creations channel so im posting it here. What are some specific things i can improve on this?
+https://media.discordapp.net/attachments/504436696021204992/603015415416881153/unknown.png
+help 2019-07-23 16:42:02 well i mean, it kind of was. I'm not good at building structures like that
+help 2019-07-23 16:42:19 that's why i'm asking how i can improve it lol
+creations-chat 2019-07-23 18:20:22 Spent some time upgrading my rescue boat from yesterday. Swiveling high power search lights on the front, long term housing for 12 people including a barracks area, eating area, and kitchen. 1135 blocks, top speed of 228.
+creations-chat 2019-07-23 18:21:25 bc
+creations-chat 2019-07-23 18:21:27 it's fun
+creations-chat 2019-07-23 18:21:29 ok
+creations-chat 2019-07-23 18:21:31 oh*
+creations-chat 2019-07-23 18:21:32 lol
+creations-chat 2019-07-23 18:21:36 because people dont like it i guess
+creations-chat 2019-07-23 18:21:45 thanks
+creations-chat 2019-07-23 18:21:50 i really like this version personally
+creations-chat 2019-07-23 18:22:05 something i can say i'm proud of, which isn't many of my builds
+creations-chat 2019-07-23 18:22:54 lol
+creations-chat 2019-07-23 18:23:03 i think extending it out backwards helped a lot with that
+creations-chat 2019-07-23 18:23:05 looks more realistic
+creations-chat 2019-07-23 18:23:14 and i moved all the housing areas inside the main structure
+creations-chat 2019-07-23 18:23:22 lol
+creations-chat 2019-07-23 18:24:30 rip
+creations-chat 2019-07-23 18:25:39 that tank really doesn't have much shape
+creations-chat 2019-07-23 18:25:43 idk what else to say
+creations-chat 2019-07-23 18:26:30 hm
+creations-chat 2019-07-24 18:55:18 oh yeah
+creations-chat 2019-07-25 15:45:49 i really want to try building a 747 with realistic seating, the only problem is that with the seating charts i've seen it would have to be a minimum of 14 blocks wide and idk if i can build a plane at that scale yet lol
+creations-chat 2019-07-25 15:51:41 i could, but the whole point is realistic seating
+creations-chat 2019-07-25 15:51:42 so i wont
+creations-chat 2019-07-25 15:51:44 ._.
+creations-chat 2019-07-26 22:13:11 currently trying to do a realistic seating 747 like i did with the 737, giving me a new appreciation of how big this plane is
+creations-chat 2019-07-26 22:13:29 just the business class section in the front so far is taking up half the build space
+creations-chat 2019-07-26 22:13:38 probably not gonna finish this project
+creations-chat 2019-07-26 22:40:56 too many
+creations-chat 2019-07-26 22:40:57 too many blocks
+creations-chat 2019-07-26 22:41:13 with most seating configurations it would have to be a minimum of 14 blocks wide
+creations-chat 2019-07-26 22:41:18 13 if the walls are half blocks
+creations-chat 2019-07-26 22:41:51 the 747 is a massive plane and it isn't feasible to build it in this game true to real life, i realized that quickly and deleted what i had
+creations-chat 2019-07-26 22:45:42 just went back and checked the ranks thing and realized i already meet the requirements for a couple of them <:Thonk:509498568982134816>
+creations-chat 2019-07-26 22:46:31 Requesting master engineer, capable of flight (obviously), top speed over 500 and the block count in the next image
+creations-chat 2019-07-26 22:46:48 block count for the 737
+creations-chat 2019-07-26 22:46:55 yeah i just never knew i could get ranks for it
+creations-chat 2019-07-26 22:47:17 didn't think about that
+creations-chat 2019-07-26 22:47:43 sorry, probably should've clarified in the post that i had posted it before
+creations-chat 2019-07-26 22:47:48 didn't think that through well 😐
+creations-chat 2019-07-26 22:48:42 yeehaw first rank
+creations-chat 2019-07-27 00:07:35 i think you're right, i went back and looked at it, i'm thoroughly impressed and kind of want to revisit the 747
+creations-chat 2019-07-27 00:32:05 today i learned you can copy speed setting from ropes and put it on wheels, just made a car that goes 650
+creations-chat 2019-07-27 00:32:41 i knew it could be done on motors but i never tried wheels
+creations-chat 2019-07-27 00:32:47 just playing around with this now lol
+creations-chat 2019-07-27 00:33:23 neat
+creations-chat 2019-07-27 01:45:27 might try doing a binary adder tomorrow
+creations-chat 2019-07-27 01:45:39 i'll have to do some research on the mechanics
+creations-chat 2019-07-27 01:45:46 good job on yours tho
+creations-chat 2019-07-27 14:23:28 any of my boats should be able to fit that
+creations-chat 2019-07-27 14:23:55 i don't know much about the mechanism and would probably stay with normal propulsion though
+creations-chat 2019-07-27 14:34:55 can i get master designer for a joke plane <:Thonk:509498568982134816>
+creations-chat 2019-07-27 14:36:15 the rank requires 20
+creations-chat 2019-07-27 14:36:35 i kinda doubt that'll count since i kinda sorta built the plane as a joke
+creations-chat 2019-07-27 14:40:03 hm, maybe i will get it
+creations-chat 2019-07-27 14:40:06 i wob'
+creations-chat 2019-07-27 14:40:08 wow
+creations-chat 2019-07-27 14:40:10 enter button ok
+creations-chat 2019-07-27 14:40:22 i won't be surprised if i don't get it but i guess it does count
+creations-chat 2019-07-27 14:41:11 true
+help 2019-07-27 16:16:03 ballast blocks?
+creations-chat 2019-07-27 20:25:44 built my most reliable differential yet, i've built significantly smaller before but they had serious reliability issues and typically just didn't work well but this one does consistently work.
+creations-chat 2019-07-27 20:26:24 oh dang i was gonna post a video but the file size is too high
+creations-chat 2019-07-27 20:34:17 it seems like im still the only person to have done a differential, does that qualify for inventor? lol
+creations-chat 2019-07-27 20:39:51 yeah
+creations-chat 2019-07-27 20:39:54 its more friction
+help 2019-07-27 21:06:24 oh boy
+help 2019-07-27 21:06:39 i like how you went to a help channel *on discord* when you got a weather alert on your phone
+creations-chat 2019-07-27 21:56:31 any of the other ones is a maybe?
+creations-chat 2019-07-27 22:02:28 yeah but like
+creations-chat 2019-07-27 22:02:29 it's ugly
+creations-chat 2019-07-27 22:08:08 did u really just upvote your own post
+creations-chat 2019-07-27 22:08:56 mk you removed it
+creations-chat 2019-07-27 22:09:05 the bottom one had an upvote and it said it was yours
+creations-chat 2019-07-27 22:35:16 did u decorate the inside? i like the little details lol
+creations-chat 2019-07-27 22:40:50 i have a vtol that would qualify me for advanced technician but i wanna wait until i have something to get me a higher rank
+creations-chat 2019-07-27 22:40:59 a 200 block vtol isnt that impressive
+creations-chat 2019-07-27 22:54:08 i did a request for master designer earlier and it was never acknowledged by a mod ;-;
+creations-chat 2019-07-27 23:18:34 there's so many extra wedge pieces that could be added that would make planes look so much smoother
+creations-chat 2019-07-27 23:18:46 but noooope i have to make the nose of my plane a blocky mess
+creations-chat 2019-07-27 23:38:53 idk it's a little odd
+creations-chat 2019-07-27 23:42:25 good luck my dude
+creations-chat 2019-07-28 00:19:29 bruh
+creations-chat 2019-07-28 00:20:03 no rank for getting dislikes
+creations-chat 2019-07-28 00:20:04 big sad
+creations-chat 2019-07-28 00:20:47 lag overseer... kinda doubt that has over 3000 blocks
+creations-chat 2019-07-28 00:21:09 oh i didn't see the block count
+creations-chat 2019-07-28 00:21:12 i also cant read it
+creations-chat 2019-07-28 00:21:15 so i still dont know
+creations-chat 2019-07-28 00:27:56 big boi
+creations-chat 2019-07-28 00:55:02 may or may not be trying to build a lag exterminator
+creations-chat 2019-07-28 00:55:18 server exterminator, i mean
+creations-chat 2019-07-28 00:56:37 i just realized i probably don't have the save space for this...
+creations-chat 2019-07-28 00:56:51 might have to finally delete my aircraft carrier 😐
+creations-chat 2019-07-28 00:59:06 thicc boi plane
+creations-chat 2019-07-28 00:59:30 kinda odd, looks smaller than my 737 but has like 2k blocks over mine
+creations-chat 2019-07-28 01:00:01 can tell from the inside that it is bigger
+creations-chat 2019-07-28 01:00:03 that's weird
+creations-chat 2019-07-28 01:09:07 ^^
+creations-chat 2019-07-28 01:09:22 maybe use delta wings on those? lol
+creations-chat 2019-07-28 01:33:14 repost?
+creations-chat 2019-07-28 02:14:13 master designer requires 20 upvotes on something you posted
+creations-chat 2019-07-28 02:15:36 working on something big, hoping i can get it flying bc it should qualify for server exterminator lol
+creations-chat 2019-07-28 19:50:23 😐
+creations-chat 2019-07-28 19:50:28 it's been done before tho
+creations-chat 2019-07-28 19:50:52 true true
+creations-chat 2019-07-28 19:51:58 no u
+creations-chat 2019-07-28 19:52:39 😐
+plane-crazy 2019-07-28 19:53:07 😦
+creations-chat 2019-07-29 02:34:23 just passed 3k blocks on my wip largest plane
+creations-chat 2019-07-29 15:59:59 whats a good way to make custom, thicker wings, but still get lift? i want this plane to actually fly
+creations-chat 2019-07-29 16:00:04 oh i should post this in help
+help 2019-07-29 16:01:31 whats a good way to make custom, thicker wings, but still get lift? i want this plane to actually fly
+help 2019-07-29 16:07:21 ok, thanks
+help 2019-07-29 16:07:43 even though i want thicker wings, because of how this folds i might not be able to, it might look pretty awkward
+creations-chat 2019-07-29 23:32:00 i accidentally took my goal of getting the server exterminator rank seriously
+creations-chat 2019-07-29 23:32:05 i crashed an entire server
+creations-chat 2019-07-29 23:40:42 idk, rolled hard left to try and turn and suddenly my speed went into the billions, everything looked weird and my game froze
+creations-chat 2019-07-29 23:41:07 rejoined the server bc my friend was in it, he had the same experience and now there's only 3 people left in it bc everyone left
+creations-chat 2019-07-29 23:41:25 i didn't *technically* crash a server, but it was reaaal close
+creations-chat 2019-07-29 23:45:50 lol
+creations-chat 2019-07-29 23:48:49 wmvs arent allowed
+creations-chat 2019-07-29 23:49:18 neat
+creations-chat 2019-07-29 23:53:06 Requesting server exterminator engineer | my chonky boi Lufthansa 747-400, with realistic seating using an actual seat map from the same plane, the top speed isn't much higher then what is shown in the image. Total of 8 folds. Had to use the thin wing blocks because of the way it folded i wasn't able to have custom wings. Block count is 4861, screenshot for proof in next image
+creations-chat 2019-07-29 23:53:37 block count for my 747
+creations-chat 2019-07-29 23:56:28 Top deck business class seats
+creations-chat 2019-07-29 23:59:08 Primary Economy seating area, total seat count is 398
+creations-chat 2019-07-30 14:58:31 requesting server exterminator
+creations-chat 2019-07-30 15:02:18 huh
+creations-chat 2019-07-30 15:08:06 nice! i like that a lot
+creations-chat 2019-07-30 15:47:40 the image showed up in creations but not the upvote and downvote
+creations-chat 2019-07-30 15:47:41 tf?
+creations-chat 2019-07-30 15:47:56 ik
+creations-chat 2019-07-30 15:48:03 yeah
+creations-chat 2019-07-30 15:48:07 there's no upvote and downvote
+creations-chat 2019-07-30 16:26:00 super mario pixel art vtol
+creations-chat 2019-07-30 16:26:46 proof of vertical take off
+creations-chat 2019-07-30 16:50:32 hm?
+creations-chat 2019-07-30 16:51:15 lmao
+creations-chat 2019-07-30 17:34:40 goomba vtol to match mario 😃
+creations-chat 2019-07-30 17:36:13 just gotta say this is actually surpringly stable, flies way better than any of my other vtols lol
+creations-chat 2019-07-30 17:59:44 chonky
+creations-chat 2019-07-30 21:12:00 that's really nice
+creations-chat 2019-07-30 21:12:08 looks about the same length as my 747 lol
+creations-chat 2019-07-30 22:15:25 rip
+creations-chat 2019-07-30 22:28:11 in my opinion this is my best looking vtol that I've made, top speed around 250, 3 extra passenger seats and a small cargo bay with a hatch on the back to load in cargo
+creations-chat 2019-07-31 02:17:01 ^^^
+creations-chat 2019-07-31 16:55:51 shape is very nice, does need to be painted tho lol
+creations-chat 2019-07-31 21:11:54 unique 3-wide door mechanism for small jets, pushes out the wall of the plane for access to the pilot seat, suspension is at a low length so the door starts closed
+creations-chat 2019-07-31 21:13:57 deployed door mechanism
+creations-chat 2019-07-31 21:14:32 open door mechanism
+creations-chat 2019-07-31 22:48:24 actually really difficult to do, i've tried and failed multiple times. gg
+creations-chat 2019-07-31 22:50:03 nice
+help 2019-08-01 17:03:43 literally
+help 2019-08-01 17:03:47 pistons are worse tho ngl
+creations-chat 2019-08-01 19:07:38 house plane is coming for you
+creations-chat 2019-08-01 21:12:01 even more reliable differential than the one i did last week, this time with a 1:5 gear ratio, geared for torque, meaning the output of a single motor is roughly equal to 5k torque. Also has a limited slip mechanism, preventing all of the power from going to a wheel not even on the ground.
+creations-chat 2019-08-02 17:35:57 lol
+creations-chat 2019-08-02 20:35:52 2 Speed transmission. I'm fully aware that a 4-speed transmission has been done before but what's unique about this one is that the gears actually deploy with a clutch sleeve like on real transmissions, shown in next pics
+creations-chat 2019-08-02 20:37:14 First gear, you can see the pistons extended pushing a friction block into the correct gear to engage it.
+creations-chat 2019-08-02 20:38:12 And the same thing for second gear. Second gear is less reliable but i  plan on redoing this as soon as i figure some things out.
+creations-chat 2019-08-02 20:48:10 bruh
+creations-chat 2019-08-02 20:48:18 i searched and couldn't find anything wtf
+creations-chat 2019-08-02 20:50:33 i searched gearbox too, and i searched 4 speed to find the one i already knew someone did
+creations-chat 2019-08-02 20:50:44 in the 4 speed one there wasn't a clutch sleeve from what i could see
+creations-chat 2019-08-02 20:51:05 bruh
+creations-chat 2019-08-02 20:51:24 absolutely massive bruh moment
+creations-chat 2019-08-02 20:51:44 well dang now im sad
+creations-chat 2019-08-02 20:52:05 i spent all that time experimenting just to make something that sort of works, only to find out someone has already done it, and done it well
+creations-chat 2019-08-02 20:52:14 ._.
+creations-chat 2019-08-02 20:52:28 absolutely dead inside
+creations-chat 2019-08-02 20:53:23 at least i don't a differential? so i can probably still say i'm the only person to have done that
+creations-chat 2019-08-02 20:53:27 don't see*
+creations-chat 2019-08-02 20:54:09 then again everything is so big on that i can't tell
+creations-chat 2019-08-02 20:54:54 yeah no i dont see a differential
+creations-chat 2019-08-02 20:55:12 i can say with reasonable certainty that nobody else on the discord has done that
+creations-chat 2019-08-03 18:08:07 hey wmvs aren't allowed
+creations-chat 2019-08-03 18:32:32 looks good imo, it's kind of hard to make a thin fuselage look circular
+creations-chat 2019-08-03 21:21:57 wmvs aren't allowed
+creations-chat 2019-08-03 21:22:31 all good
+creations-chat 2019-08-04 00:53:58 jeez that's amazing
+creations-chat 2019-08-04 00:54:13 i was so proud of my full seating 747 and that's on a whole other level
+creations-chat 2019-08-04 00:54:24 👏
+creations-chat 2019-08-04 00:54:41 that is absolutely amazing
+creations-chat 2019-08-04 00:54:48 i... might have work to do
+creations-chat 2019-08-04 00:55:04 im just in awe
+creations-chat 2019-08-04 00:58:06 this guy better freaking get server exterminator, he's earned it
+creations-chat 2019-08-04 01:02:23 bruh
+creations-chat 2019-08-07 19:33:03 yes
+help 2019-08-07 20:02:36 how can i do custom swept wings just made out of blocks, i need thicc boi wings
+help 2019-08-07 20:02:58 straight wings aren't hard but i'm kinda struggling with swept custom wings
+help 2019-08-07 20:45:33 rip
+help 2019-08-07 20:45:37 what am i supposed to do then
+help 2019-08-07 20:45:44 normal wing blocks are super freaking thin
+plane-crazy 2019-08-08 17:46:17 whomst ping
+plane-crazy 2019-08-08 17:46:30 <:Pinged:508027985190715457>
+creations-chat 2019-08-08 18:06:48 yeah ok im sorry, it looks like some effort went into it but it just doesn't look that good
+creations-chat 2019-08-09 02:02:44 pistons are very useful for various mechanisms
+creations-chat 2019-08-09 02:03:25 if they're being moved around quickly they may extend unintentionally
+creations-chat 2019-08-09 02:03:29 it only sort of makes sense tho
+creations-chat 2019-08-12 16:32:59 i literally *just* realized they changed the ranks
+creations-chat 2019-08-12 16:33:02 when did that happen
+creations-chat 2019-08-12 16:39:08 i need more ranks, i have decided
+creations-chat 2019-08-12 16:39:12 lol
+creations-chat 2019-08-12 16:46:08 bruh
+creations-chat 2019-08-12 16:46:16 i hate when that happened
+creations-chat 2019-08-12 16:46:19 happens*
+creations-chat 2019-08-12 16:48:14 bruh it doesn't have the option to upvote/downvote again
+creations-chat 2019-08-12 16:48:17 what's going on
+creations-chat 2019-08-12 16:56:53 This is my ugly wishbone suspension track car, but where it lacks in looks it more than makes up for in function. Top speed around 300 sps, and it turns roughly the same or better than an irl formula 1 car, absolutely insane handling and I'm genuinely very proud of this car.
+creations-chat 2019-08-12 16:57:09 oh yee haw still no upvote and downvote
+creations-chat 2019-08-12 18:12:24 <@!561734378758340649> it's really compact and reliable, chill
+creations-chat 2019-08-12 18:12:43 so what if it doesn't *look* like traditional wishbone suspension
+creations-chat 2019-08-12 18:16:52 oh yeah and i didn't even think about the fact that it was built on top of another vehicle and i extended it in an awkward way, you're probably seeing the part that connects the wheel and not the actual mechanism, or so i would hope
+creations-chat 2019-08-12 18:22:57 the reason i extended the wheelbase in the first place is because of a problem that i fixed in development of that car so i'm reverting it now
+creations-chat 2019-08-13 01:24:26 Here's my mildly disproportionate P-51 mustang, fully prepared for downvotes. 223 blocks, top speed around 220.
+creations-chat 2019-08-13 01:49:40 ok
+creations-chat 2019-08-13 01:49:45 ._.
+creations-chat 2019-08-13 01:50:04 went straight off the pictures on google images but i never expected it to be good so ok
+creations-chat 2019-08-13 02:25:03 nice
+creations-chat 2019-08-13 19:07:41 pretty bad choice in color ngl
+creations-chat 2019-08-13 19:37:04 lmao
+creations-chat 2019-08-13 19:39:45 he left
+creations-chat 2019-08-13 19:42:24 normally if you click on somebody's name if you have a server in common with them, it'll give the option to dm them, that's gone now
+creations-chat 2019-08-13 19:42:26 he left
+creations-chat 2019-08-13 21:45:47 why post it now, if it looks like *that*
+creations-chat 2019-08-14 00:43:31 lmao
+creations-chat 2019-08-14 20:08:52 rip
+creations-chat 2019-08-14 20:08:58 looks good tho
+creations-chat 2019-08-15 01:55:31 8-Legged Strandbeest walker. 937 blocks.
+creations-chat 2019-08-15 01:56:07 Video of it walking while anchored
+creations-chat 2019-08-15 01:56:19 oh oof there's a black bar on the bottom
+creations-chat 2019-08-15 01:58:10 yeah i think so
+creations-chat 2019-08-15 01:58:17 i just like the mechanism
+help 2019-08-15 19:45:00 i never took the time to find those things either, looking now and i cant find a thing <:Thonk:509498568982134816>
+creations-chat 2019-08-15 23:54:46 well yeah it's not colored
+creations-chat 2019-08-15 23:54:50 hard to see the shape of it
+creations-chat 2019-08-15 23:54:53 :/
+creations-chat 2019-08-15 23:55:13 oh the phantom
+creations-chat 2019-08-15 23:55:16 the one above
+creations-chat 2019-08-15 23:55:20 yeah no i just dont like it
+help 2019-08-16 17:53:08 guessing not every server has updated yet? nothing appears any different
+help 2019-08-16 17:58:20 and *now* he makes the announcement lol
+plane-crazy 2019-08-16 18:11:59 well dang, that was super easy to find everything
+plane-crazy 2019-08-16 18:12:42 the smoke thing isn't an event item, it was just in the inventory thing
+plane-crazy 2019-08-16 18:13:14 2 sections that need to be found
+creations-chat 2019-08-16 18:30:19 i like some of the blocks but i kind of expected more out of the event
+creations-chat 2019-08-16 18:31:15 it came out less than an hour ago and people are already smoking weed
+creations-chat 2019-08-16 18:32:55 wth
+creations-chat 2019-08-16 18:40:40 rip
+creations-chat 2019-08-16 18:40:46 looks good tho
+creations-chat 2019-08-16 19:09:30 <:Thonk:509498568982134816>
+creations-chat 2019-08-16 20:29:09 i gotta agree with him, the shape is really weird for a sub
+creations-chat 2019-08-16 20:29:23 they are usually very rounded for a reason
+creations-chat 2019-08-16 20:29:46 ok, but it still looks odd
+creations-chat 2019-08-16 20:30:06 you could just build a pile of random blocks and that could be "your imagination" but it would still be garbage
+creations-chat 2019-08-16 20:30:27 idrc that much tbh
+help 2019-08-16 20:33:43 i highly doubt it, but it's worth asking. does the game have ground effect?
+help 2019-08-16 20:34:57 yeah i figured it didn't
+help 2019-08-16 21:16:05 100 dampening works significantly better
+help 2019-08-16 21:21:53 np
+creations-chat 2019-08-16 22:34:07 that's actually pretty cool, i like that a lot
+creations-chat 2019-08-16 22:34:12 *rope treads tho*
+plane-crazy 2019-08-17 02:07:09 huh
+plane-crazy 2019-08-17 02:07:17 what'd i do
+plane-crazy 2019-08-17 02:07:28 lmao
+plane-crazy 2019-08-17 02:07:29 all good
+creations-chat 2019-08-17 18:47:49 doesn't look very good but looks like it flies pretty well
+creations-chat 2019-08-17 18:47:50 nice
+creations-chat 2019-08-17 18:48:06 no problem at all with a function-first vehicle
+help 2019-08-17 20:25:43 how do i do custom control surfaces, it's easy to do a whole panel of wings tilting like a horizontal stabilizer but how do i have just the rear section of a wing tilt
+help 2019-08-17 20:26:11 wow ok i never thought of that ._.
+help 2019-08-17 20:36:32 well yeah, but what if it's a swept wing (like on the plane im trying to put it on)
+help 2019-08-17 20:37:21 decided to just tilt the wing tips instead to save some complexity, all good
+creations-chat 2019-08-17 23:13:38 rip creation submitter
+creations-chat 2019-08-17 23:28:34 rip
+creations-chat 2019-08-18 01:26:57 got something to submit and i cant ):
+creations-chat 2019-08-18 02:15:28 that's awesome
+creations-chat 2019-08-18 02:15:31 i love that haha
+creations-chat 2019-08-18 21:11:48 big boi cargo vtol, 2003 blocks. Top speed is about 350, cargo bay dimensions are 15 blocks long, 5 blocks wide, and 6 blocks tall
+creations-chat 2019-08-18 21:14:07 Needlessly complex cargo door with fold-out ramp/cargo elevator mechanism.
+creations-chat 2019-08-18 21:16:38 capable of horizontal flight
+creations-chat 2019-08-18 21:17:09 block count
+creations-chat 2019-08-18 21:47:17 <@421975189362966538> bruh y downvote
+creations-chat 2019-08-18 21:49:43 dang that;s cool
+creations-chat 2019-08-19 01:47:18 ok
+creations-chat 2019-08-19 23:36:56 me too thanks
+creations-chat 2019-08-19 23:46:22 should've posted that in help
+creations-chat 2019-08-19 23:46:41 asking questions and stuff is literally what that channel is for
+creations-chat 2019-08-19 23:46:58 now that image that (im assuming) isn't yours is in <#384025409945337856>
+creations-chat 2019-08-19 23:47:17 ok then
+creations-chat 2019-08-19 23:47:21 no im good
+creations-chat 2019-08-19 23:47:25 i don't need proof
+creations-chat 2019-08-19 23:48:00 neat
+creations-chat 2019-08-19 23:48:09 i've been trying to figure out a balance system
+creations-chat 2019-08-19 23:48:17 but without any sort of sensor it's difficult
+creations-chat 2019-08-19 23:48:44 what
+creations-chat 2019-08-19 23:49:06 makes sense
+creations-chat 2019-08-19 23:49:36 yeah that makes sense
+creations-chat 2019-08-19 23:49:47 thanks for the idea lol, been wanting to make a motorcycle
+creations-chat 2019-08-19 23:50:06 i'll certainly try
+creations-chat 2019-08-19 23:50:07 lol
+creations-chat 2019-08-19 23:50:50 if i make something that works and i decide to post it i'll credit you for the balance mechanism idea
+creations-chat 2019-08-20 01:04:14 dang that's nice
+creations-chat 2019-08-20 01:04:28 every time i visit this discord i realize i really suck at this game lmao
+creations-chat 2019-08-20 21:00:59 cool
+creations-chat 2019-08-22 23:21:16 flying juul with detachable pod
+creations-chat 2019-08-22 23:22:10 had to make some sacrifices on my juul's shape to make it fly well
+creations-chat 2019-08-22 23:22:16 but it actually flies *really* well
+creations-chat 2019-08-24 18:07:34 <@!353750204664643595> name him boris
+creations-chat 2019-08-24 18:26:27 nice
+creations-chat 2019-08-24 18:28:44 Requesting vtol engineer IV
+creations-chat 2019-08-24 18:31:28 thanks
+creations-chat 2019-08-24 18:31:58 it was supposed to be a larger version of my original cargo vtol which was somewhat based off of the quinjet from marvel, so i kept the v tail
+creations-chat 2019-08-24 18:54:39 too bad you can never buy it
+creations-chat 2019-08-24 18:54:48 ice cream machine always broke 😕
+creations-chat 2019-08-24 20:11:02 flying folding table, with functional folding legs
+creations-chat 2019-08-24 20:11:52 legs folded
+bug-reports 2019-08-24 20:13:22 why
+bug-reports 2019-08-24 20:13:28 old cars were cool and ornate
+bug-reports 2019-08-24 20:13:46 yeah
+bug-reports 2019-08-24 20:14:05 we could never replicate the look of them, they're a very different style generally and it's entirely up to personal preference
+creations-chat 2019-08-25 01:14:17 engines are a little odd, but besides that absolutely the nicest sr-71 i've seen
+creations-chat 2019-08-25 01:15:21 yeah it really do be like that
+creations-chat 2019-08-25 01:15:30 i understand the limitations, can't be mad
+plane-crazy 2019-08-25 02:06:32 gg pewds
+help 2019-08-25 16:24:22 I've never done a vehicle with treads, just curious how most people tension them? I'm trying one now and idk what to do really
+help 2019-08-25 16:44:22 i think i'll use an extra roller above the main tread like i've seen on some vehicles, i think it'll look cool
+help 2019-08-25 16:44:23 thanks tho
+help 2019-08-25 16:44:38 i also explained that poorly  but whatever lol
+help 2019-08-25 18:18:23 in my experience the 1x1 2s have more thrust but are heavier
+help 2019-08-25 18:18:52 like in my fastest boat that i have i tried switching all the super rocket engines in it for water props and it never got as fast because of all the added weight
+creations-chat 2019-08-26 01:16:43 nothing to see here...
+creations-chat 2019-08-26 01:27:49 twin differential tank chassis, front and rear axles have differentials which again, lets the 2 sides of the axle turn at different speeds. for this particular application of the mechanism i'm basically running tank drive with only one drive motor per axle. I obviously haven't put a body on this yet but it's already close to 1200 blocks.
+creations-chat 2019-08-26 01:28:21 forgot to say in first message but the big gray blocks on the sides are just helium to help support the weight of the track on the tensioner
+creations-chat 2019-08-26 21:35:54 obviously not, it's the best car
+creations-chat 2019-08-26 21:36:11 that is the best car ever dude
+creations-chat 2019-08-26 21:36:13 it's so good
+creations-chat 2019-08-26 21:36:38 get this man every rank you can, mods
+creations-chat 2019-08-26 21:36:42 it's so good
+creations-chat 2019-08-26 21:36:49 yeah how much horsepower
+creations-chat 2019-08-26 21:37:08 ok
+creations-chat 2019-08-26 21:37:19 there ya go
+creations-chat 2019-08-26 21:37:28 heck yeah man
+creations-chat 2019-08-26 21:37:30 best car
+creations-chat 2019-08-26 21:37:46 i always tune my cars to 420 horsepower
+creations-chat 2019-08-26 21:38:19 right
+creations-chat 2019-08-26 21:44:29 bruh moment
+creations-chat 2019-08-26 23:33:56 bruh moment
+creations-chat 2019-08-27 00:06:05 dang i didn't even see that until now
+creations-chat 2019-08-27 00:06:07 that's amazing
+creations-chat 2019-08-27 20:40:18 that's actually really nice
+creations-chat 2019-08-27 20:40:30 i'd love to see a video of it actually working
+creations-chat 2019-08-27 20:43:54 i built a 5k block boeing in 3 days
+creations-chat 2019-08-27 20:44:04 literally
+creations-chat 2019-08-27 20:44:12 i spend like 12 hours a day on my pc because i have no life
+creations-chat 2019-08-27 20:44:24 it's not impressive, it's sad 😕
+creations-chat 2019-08-27 20:44:49 rip
+creations-chat 2019-08-27 21:43:48 i wanna build a full tank on my differential chassis but i don't have enough save space, sad boi hours
+creations-chat 2019-08-28 01:01:23 that is really nice but yeah doesn't belong here
+creations-chat 2019-08-28 20:31:41 what's even the point of that
+creations-chat 2019-08-28 20:41:39 what now?
+creations-chat 2019-08-28 21:44:18 hell yeah
+creations-chat 2019-08-28 22:29:54 Some Builds want to make me commit die
+help 2019-08-28 23:53:38 rubh
+creations-chat 2019-08-29 00:31:51 neat
+creations-chat 2019-08-29 00:35:10 chonky engines
+creations-chat 2019-08-29 20:11:06 <@335176451038904331> you need to use different size wedges depending on the gap that needs to be filled, using all 1x1s basically looks the same and it's still super jagged and not smooth
+creations-chat 2019-08-29 20:11:19 I like the overall vehicle but the details are important
+creations-chat 2019-08-29 20:36:50 honestly i wish there was at least a game pass for more save space
+creations-chat 2019-08-29 20:37:02 i really dont want to make an alt just to build more stuff
+creations-chat 2019-08-29 20:37:35 rip moment
+creations-chat 2019-08-29 20:38:29 surely there's some way to at least optimize it so each block takes less space but idk how that stuff works
+creations-chat 2019-08-29 20:39:03 i've made some simple games but never with any saving system so idk
+creations-chat 2019-08-29 20:39:46 cool
+creations-chat 2019-08-29 20:40:01 my current project is a survival game, but i've made a shooter and rpg
+creations-chat 2019-08-29 20:40:21 what the heck
+creations-chat 2019-08-29 20:40:36 doo doo car moment
+creations-chat 2019-08-29 20:40:48 it's a white van
+creations-chat 2019-08-29 20:41:04 he's gonna kidnap kids by advertising free wifi inside the van
+creations-chat 2019-08-29 20:41:08 common joke, rip moment
+creations-chat 2019-08-29 20:41:56 why does it open like that wtf
+creations-chat 2019-08-29 20:42:19 ok
+creations-chat 2019-08-29 20:44:36 what
+creations-chat 2019-08-29 20:46:58 yes
+creations-chat 2019-08-29 20:47:03 i know of peta/
+creations-chat 2019-08-29 20:47:06 but like
+creations-chat 2019-08-29 20:47:11 that above message made no sense
+creations-chat 2019-08-29 20:47:13 and im confused
+creations-chat 2019-08-29 20:47:22 and now that's in <#384025409945337856>
+creations-chat 2019-08-29 20:47:32 that was completely unnecessary but ok
+creations-chat 2019-08-29 20:50:25 just request one in your image post
+creations-chat 2019-08-29 20:50:41 you don't *need* to ping someone
+creations-chat 2019-08-29 20:50:47 if you've requested a few times then it's ok
+creations-chat 2019-08-29 20:52:33 Requesting vtol engineer IV
+creations-chat 2019-08-29 21:03:03 rip moment
+creations-chat 2019-08-29 21:03:22 i mean there was proof in the original post but whatever lol
+creations-chat 2019-08-29 21:03:23 one minute
+creations-chat 2019-08-29 21:22:52 well dang, i recorded a video with all necessary proof and it froze when i showed that there's no helium, guess i can send a separate screenshot
+creations-chat 2019-08-29 21:23:42 also gotta compress the video because no discord nitro 🙄
+creations-chat 2019-08-29 21:25:30 All necessary proof for vtol engineer IV, except helium because the recording cut out but i'll send that in a screenshot after this
+creations-chat 2019-08-29 21:25:44 potato pc moment
+creations-chat 2019-08-29 21:27:11 proof there's no helium
+creations-chat 2019-08-29 21:27:21 mhm
+creations-chat 2019-08-29 21:27:37 thanks setlie
+creations-chat 2019-08-29 23:54:37 tf is that
+creations-chat 2019-08-30 00:50:00 first one imo
+creations-chat 2019-08-30 00:56:39 oof moment
+creations-chat 2019-08-30 15:36:53 in case it wants to kill itself
+creations-chat 2019-08-30 15:37:20 yeah, it probably wants to kill itself
+creations-chat 2019-08-30 15:49:51 a cargo hold?
+creations-chat 2019-08-30 15:50:11 that doesn't sound difficult and i don't think it would make anything unstable
+creations-chat 2019-08-30 15:50:22 unless it's a really small vehicle i guess?
+creations-chat 2019-08-30 18:32:56 i would feel kind of bad for downvoting the pen just bc it's already got a few upvotes but like, i really don't like it
+creations-chat 2019-08-30 18:33:17 like even as a joke creation it's a really disproportionate pen
+creations-chat 2019-08-30 20:33:15 mk you should stop posting the same thing over and over again
+help 2019-08-30 22:11:16 um yeah that's kind of slow, i would guess that it's more to do with balance though
+help 2019-08-30 22:11:17 idk
+creations-chat 2019-08-31 00:46:34 lmao
+creations-chat 2019-08-31 00:46:48 looks pretty nice i guess but it's really not a big plane
+creations-chat 2019-08-31 18:39:46 just figured out that waterwheels can be used as gears, since there's only one size i'm trying to figure out what this can be useful for 🤔
+creations-chat 2019-08-31 18:47:14 im gonna try using waterwheels in a differential, but i don't think it will have any serious advantages over a friction cylinder differential, maybe very slightly better power transfer?
+creations-chat 2019-08-31 18:47:54 yeah
+creations-chat 2019-08-31 18:48:15 many suspension pieces to get it positioned right but it might be worth it, differentials in this game tend to have slip issues
+creations-chat 2019-08-31 18:48:25 yeah
+creations-chat 2019-08-31 18:48:30 im gonna see what i can do
+creations-chat 2019-08-31 18:54:32 well holy shit that wasn't hard at all, i think i just made my most compact differential ever
+creations-chat 2019-08-31 18:55:16 i will in one sec
+creations-chat 2019-08-31 18:55:21 i gotta do some more testing
+creations-chat 2019-08-31 18:55:34 it's literally like 4 blocks wide
+creations-chat 2019-08-31 18:55:46 and fits inline on 5x5 cylinders
+creations-chat 2019-08-31 18:55:53 so like, a normal sized car
+creations-chat 2019-08-31 18:55:55 not a giant one
+creations-chat 2019-08-31 18:56:07 yeah idk if it'll actually work on a moving car
+creations-chat 2019-08-31 18:56:27 it be like that sometimes lol
+creations-chat 2019-08-31 18:56:37 differentials really aren't useful in this game
+creations-chat 2019-08-31 18:56:39 it's just for fun
+creations-chat 2019-08-31 18:57:32 yeah
+creations-chat 2019-08-31 19:01:21 kind of having some weird issues rn but i can fix it probably
+creations-chat 2019-08-31 19:05:42 im so freaking confused, the wheels should be turning in the same direction with the input im giving to the differential but one goes backwards
+creations-chat 2019-08-31 19:05:59 literally the gear connected to that wheel is rolling forward and the wheel isn't
+creations-chat 2019-08-31 19:11:56 ok
+creations-chat 2019-08-31 19:15:38 ok
+creations-chat 2019-08-31 19:21:09 noice
+creations-chat 2019-08-31 19:22:23 gg
+creations-chat 2019-08-31 19:25:03 it be like that sometimes
+creations-chat 2019-08-31 19:28:08 ok
+creations-chat 2019-08-31 19:31:04 dang that looks fancy
+creations-chat 2019-08-31 19:31:19 idk if it's any better than just double wishbone but it looks cool
+creations-chat 2019-08-31 19:36:55 yeah it's a bit over the top
+creations-chat 2019-08-31 19:40:00 Here it is boys, the absolute smallest differential i could build. Locking motors have a glitch where they compress slightly when locked as long as they don't rotate and so i can abuse that and pull the water wheels closer together, this is really tiny and probably shouldn't work at all but here ya go lol
+creations-chat 2019-08-31 19:40:49 i feel like it would look a lot better if it was a bit stiffer and the ride height was higher
+creations-chat 2019-08-31 19:40:53 but yeah looks pretty good
+creations-chat 2019-08-31 19:42:55 <@!291746312599240704> i posted the diff
+creations-chat 2019-08-31 19:44:00 i mean, there's not much to see
+creations-chat 2019-08-31 19:44:04 it just rotates lol
+creations-chat 2019-08-31 19:44:21 locking motors are insanely useful, you can use it like a short suspension to pull things together but in a 1x1x1 space
+creations-chat 2019-08-31 19:44:50 cool
+creations-chat 2019-08-31 19:45:03 i don't use locking motors often, but they are very useful
+creations-chat 2019-08-31 19:45:27 but anyways yeah the smaller you make differentials the less reliable they are so this one is uh, not great
+creations-chat 2019-08-31 19:45:40 it is very fast though
+creations-chat 2019-08-31 19:45:52 i don't have to worry about the gears slipping loose from each other
+creations-chat 2019-08-31 19:46:00 so it tops out at like 150 when my others will do 60
+creations-chat 2019-08-31 19:47:44 yeah
+creations-chat 2019-08-31 19:47:52 but i don't use the water wheels for input so
+creations-chat 2019-08-31 19:48:26 yeah
+creations-chat 2019-09-03 22:15:26 mere*
+creations-chat 2019-09-03 22:15:36 did he have any helium or fuel blocks or anything for balancing?
+creations-chat 2019-09-03 22:15:47 he may have painted them so you couldn't see them
+creations-chat 2019-09-03 22:16:23 ^
+creations-chat 2019-09-03 22:22:30 g o o d
+creations-chat 2019-09-03 22:22:36 paint tool
+creations-chat 2019-09-04 00:02:47 it just looks really angular and jagged on the sides, it's not bad but could definitely be better
+creations-chat 2019-09-04 00:03:08 thank you for your services surferguy
+creations-chat 2019-09-04 00:56:44 you are not just a clown, you are the entire circus
+creations-chat 2019-09-04 00:57:53 literally 8 missles = inventor rank
+creations-chat 2019-09-04 00:58:06 he's a genius, far ahead of his time
+creations-chat 2019-09-04 00:58:23 LMAO
+creations-chat 2019-09-04 00:58:56 bruh moment
+creations-chat 2019-09-04 00:59:20 bruh
+creations-chat 2019-09-04 00:59:27 this mans just made something revolutionary as a joke
+creations-chat 2019-09-04 01:00:19 literally no doubt in my mind he's underage
+creations-chat 2019-09-04 01:00:21 but ok
+creations-chat 2019-09-04 01:01:41 ok
+creations-chat 2019-09-04 01:03:04 ok
+bug-reports 2019-09-04 21:41:59 I literally do not see any reason not to be able to paint materials on things like engines, it's not a bug, but why?
+creations-chat 2019-09-04 23:18:11 flying folding chair. only flies folded up, shown in next pic.
+creations-chat 2019-09-04 23:20:15 not stable enough to get a good flying image moment, gimme a minute lol
+creations-chat 2019-09-04 23:21:50 folded up and flying
+creations-chat 2019-09-04 23:22:57 Headrest is a control surface
+creations-chat 2019-09-04 23:23:06 sure
+creations-chat 2019-09-04 23:23:14 p h o t o g r a p h y m o d e
+creations-chat 2019-09-04 23:23:26 actually what does photography mode do
+creations-chat 2019-09-04 23:23:34 i've never tried it lol
+creations-chat 2019-09-04 23:23:56 rip
+creations-chat 2019-09-04 23:24:49 cool
+creations-chat 2019-09-04 23:43:12 wmvs aren't allowed
+creations-chat 2019-09-04 23:45:56 nope
+creations-chat 2019-09-04 23:45:57 sorry
+creations-chat 2019-09-05 00:44:20 waterwheel compatible chain, nothing special. this one looks a little odd because it was an even number of blocks so there's one double segment
+creations-chat 2019-09-06 01:15:33 Model I4 engine
+creations-chat 2019-09-06 01:16:33 Video of it running, if you know how engines work you may notice the valves fire in the right order like a real I4, genuinely very proud of this.
+creations-chat 2019-09-06 01:18:37 what did you build?
+creations-chat 2019-09-06 01:18:51 fair enough
+bug-reports 2019-09-06 22:48:56 locked motor
+bug-reports 2019-09-06 22:49:00 that's a known issue
+bug-reports 2019-09-06 22:49:28 if you know how to use it to your advantage it can actually be useful but just in general it's a pain
+bug-reports 2019-09-06 22:58:04 what do anchor blocks have to do with locking motors? they always do that for me
+bug-reports 2019-09-06 23:02:02 yeah same for me
+bug-reports 2019-09-06 23:02:13 but holy heck i've never seen one compress that much
+creations-chat 2019-09-07 20:05:22 Proof of concept 1 speed waterwheel transmission, if more sizes of waterwheels were added it would be insanely easy to expand on this idea, but sadly there IS only 1, and so it's not very practical.
+creations-chat 2019-09-07 20:09:03 yeah i know it sucks, thanks for downvote lol
+creations-chat 2019-09-07 20:09:17 there's a legitimate reason it's better but i can't expand it since there's only 1 size
+creations-chat 2019-09-07 20:11:08 the thing is that the cyllinder in the middle is connected all the way through, and there's a setting to make them free spinning. On a real transmission the gears on the countershaft are freespinning and then engage seperately mechanically
+creations-chat 2019-09-07 20:11:22 my engaging mechanism is that half piston on the bottom
+creations-chat 2019-09-07 20:11:38 so mechanically it's exactly how irl transmissions work and it's super compact
+creations-chat 2019-09-07 20:11:51 but again, i just don't have the parts to expand it
+creations-chat 2019-09-07 20:12:23 in general transmissions are very large, so that would still be useful even in large vehicles
+creations-chat 2019-09-07 20:17:41 currently dogfighting a guy in his biplane with my table
+creations-chat 2019-09-07 20:19:08 yes
+creations-chat 2019-09-07 20:21:46 bruh
+creations-chat 2019-09-07 20:22:03 nvm
+creations-chat 2019-09-07 20:22:03 so im allowed to share my creations but not what i do with them? actually that's reasonable
+creations-chat 2019-09-07 20:22:50 to be fair you could also like, chill a bit
+creations-chat 2019-09-07 21:49:46 looks good
+creations-chat 2019-09-07 22:52:28 Another proof of concept waterwheel transmission, this time a 3 speed. The ratios are 1:3, 1:1, and 5:3. This i think shows the potential of waterwheels significantly better in mechanical builds. For first and second gear I'm using the edges of blocks to mesh with the waterwheel instead of other waterwheels, technically you could create even higher ratios with the same method if you wanted to.
+creations-chat 2019-09-07 23:02:50 Here's a video of the transmission cycling through gears
+bug-reports 2019-09-07 23:07:59 that's known
+bug-reports 2019-09-07 23:08:03 and not *really* a bug
+creations-chat 2019-09-09 20:45:25 i've been considering making one of those for a while i just didn't think i had any reason to
+creations-chat 2019-09-09 22:00:13 <#478584971670454284>
+creations-chat 2019-09-09 22:51:25 ^
+creations-chat 2019-09-09 23:33:02 wide
+creations-chat 2019-09-10 20:47:53 those are both kinda ugly ngl
+creations-chat 2019-09-10 23:26:34 (i was just gonna spam A in the title but mee6 wouldn't let me smh my head) Ax131, 1300 blocks, top speed 0
+creations-chat 2019-09-10 23:27:20 thank
+creations-chat 2019-09-10 23:27:34 ok
+creations-chat 2019-09-10 23:58:47 Fairly compact double wishbone suspension chassis, might turn this into a monster truck
+creations-chat 2019-09-11 00:43:41 thanks i get that a lot
+creations-chat 2019-09-11 01:21:42 miniature fighter jet with a built in ejector seat, i'll post a video of the ejector seat in a minute
+creations-chat 2019-09-11 01:24:52 Here you can see the seat launching out, the canopy quickly unfolds to let the seat out. it's propelled by a suspension piece that's locked with a disconnector so as soon as the disconnector disconnects it releases the tension and launches violently. You can also see the decorative flare lol
+creations-chat 2019-09-11 01:25:39 from a stand still on the ground the ejector can easily get enough height for the parachute to deploy so it can also be used if there's some problem during take off
+creations-chat 2019-09-11 20:44:17 it be like that sometimes
+creations-chat 2019-09-12 01:21:46 This is my attempt at making a McDonnel XF-85 Goblin, it's got a few issues but all things considered with the space constraints i set for myself, i think it's pretty good. It's about 130 blocks and has a top speed around 400.
+creations-chat 2019-09-12 23:50:16 that landing gear is for like, really big planes apparently
+creations-chat 2019-09-12 23:50:39 like that's excessively large, i dont think anybody has a plane that would realistically fit that
+creations-chat 2019-09-13 01:14:46 ok
+creations-chat 2019-09-18 21:30:47 what
+help 2019-09-18 23:46:00 what does a motor's speed value have to be to turn one time every second
+help 2019-09-18 23:46:14 rip im interrupting lol
+help 2019-09-18 23:46:44 yeah that's fair
+help 2019-09-18 23:46:52 gonna be difficult to get my timer perfect tho lol
+help 2019-09-18 23:46:57 i'll just have to estimate
+help 2019-09-18 23:48:31 turns out it's about 5
+help 2019-09-18 23:53:18 yeah i've seen both things done
+help 2019-09-18 23:53:26 well at least the first, the second one is really simple though
+creations-chat 2019-09-19 20:15:20 dang that vtol is really cool
+creations-chat 2019-09-20 21:52:05 that's not even plane crazy chief
+creations-chat 2019-09-20 21:52:13 "thosm"
+creations-chat 2019-09-20 21:52:14 what
+creations-chat 2019-09-20 21:52:22 no?
+creations-chat 2019-09-20 21:52:36 this.. is a plane crazy server
+creations-chat 2019-09-20 21:52:40 post plane crazy content not studio
+creations-chat 2019-09-20 21:52:46 absolutely lol
+creations-chat 2019-09-20 21:53:01 ok
+creations-chat 2019-09-21 00:27:11 literal garbage
+creations-chat 2019-09-21 21:26:05 that sounds pretty terrible
+bug-reports 2019-09-22 19:09:30 its a bug
+creations-chat 2019-09-22 21:43:46 timer thing, all runs on a single drive motor that spins the second hand, then gears down 1:60 for the minute hand, then gears down 1:60 again for the hour hand
+creations-chat 2019-09-22 21:44:42 and all the gears underneath
+creations-chat 2019-09-23 21:29:30 it's not worthy of inventor
+creations-chat 2019-09-23 21:29:34 it just isn't
+creations-chat 2019-09-23 21:29:37 no need to get salty
+creations-chat 2019-09-23 21:36:03 <@232694074501496833> is it like, actually useful? not really
+creations-chat 2019-09-23 21:36:21 like ok, it's kind of cool i guess, but you have to do something really impressive for inventor
+creations-chat 2019-09-23 21:37:07 ok, but it's not like crazy impressive
+creations-chat 2019-09-23 21:37:13 anybody with a bit of experience can do that
+creations-chat 2019-09-23 21:37:36 basically nobody is given inventor anymore afaik
+creations-chat 2019-09-23 21:38:18 oh wow i just went back and actually watched the video
+creations-chat 2019-09-23 21:38:31 yeah there's literally no chance of getting inventor from that, what were you expecting
+creations-chat 2019-09-23 21:39:40 there is no criteria
+creations-chat 2019-09-23 21:40:02 it's just for doing something really impressive, usually having something to do with mechanics and that kind of thing
+creations-chat 2019-09-23 21:40:16 and what you did isn't remotely impressive
+creations-chat 2019-09-23 22:19:54 controlling a rocket with your cursor is like super easy
+creations-chat 2019-09-23 22:26:29 logic gates would be super cool but like, imagine how much save space they would use
+creations-chat 2019-09-23 22:26:47 not to mention any sort of interface
+creations-chat 2019-09-23 22:43:10 i do kind of wish there were better defined requirements for inventor ngl
+creations-chat 2019-09-24 22:33:57 definitely made in plane crazy
+creations-chat 2019-09-25 22:39:53 Vertical volute suspension, i haven't put it on any vehicle yet but it seems to work pretty well so i might build a tank around it.
+creations-chat 2019-09-26 00:20:51 not familiar with borderlands
+creations-chat 2019-09-26 00:22:10 oh yeah that looks pretty similar
+creations-chat 2019-09-27 20:58:31 that's so bad im sorry
+creations-chat 2019-09-27 20:59:06 that is one of the worst creations i've ever seen ._.
+creations-chat 2019-09-27 20:59:24 im sorry but maybe dont post that kind of thing?
+creations-chat 2019-09-28 21:00:10 nice
+creations-chat 2019-10-07 22:11:40 nice
+creations-chat 2019-10-07 22:12:11 oh that's really cool actually
+creations-chat 2019-10-07 22:12:21 too bad the voting thing didn't show up
+creations-chat 2019-10-11 01:12:12 **this thing**
+creations-chat 2019-10-11 21:30:26 tried my best to make a magnet engine look good, i think it turned out pretty well.
+creations-chat 2019-10-11 21:37:22 1
+creations-chat 2019-10-11 21:37:29 it's a single suspension piece and a single magnet
+creations-chat 2019-10-11 21:38:00 because the suspension is short the magnet pulls a lot harder, works pretty well
+creations-chat 2019-10-11 21:39:50 lol
+creations-chat 2019-10-11 21:40:18 i have a slightly longer version that just looks like a normal jet engine for the  most part but i think i like the smaller one ngl
+creations-chat 2019-10-14 02:14:35 yeah you gotta show exterior chief
+creations-chat 2019-10-14 02:14:42 as far as interior, it looks decent i guess
+creations-chat 2019-10-17 23:52:27 :/
+creations-chat 2019-10-26 19:03:34 thank you kind sir
+creations-chat 2019-10-26 21:01:41 this same one has been posted before
+creations-chat 2019-10-26 21:01:44 <:Thonk:509498568982134816>
+creations-chat 2019-10-26 21:01:54 ...why
+creations-chat 2019-10-26 21:02:18 and you expect it to get more upvotes this time?
+creations-chat 2019-10-26 21:02:43 if you really think you're deserving of a rank and that's what you care about then dm a mod
+creations-chat 2019-10-26 21:03:15 not angry i just dont think you should
+creations-chat 2019-10-26 21:03:59 because everything has been done before lol
+creations-chat 2019-10-26 21:04:11 ..it has
+creations-chat 2019-10-26 21:04:18 i saw a walking city like 3-4 weeks ago maybe?
+creations-chat 2019-10-26 21:04:29 yeah they've been around for a while
+creations-chat 2019-10-26 21:04:54 it's the same concept with more stuff
+creations-chat 2019-10-26 21:05:03 yours is
+creations-chat 2019-10-26 21:05:08 np
+creations-chat 2019-10-26 21:05:16 i upvoted the original if it makes you feel any better
+creations-chat 2019-10-26 21:06:32 counter rotating engines aren't hard
+creations-chat 2019-10-26 21:06:43 i've made a working gearbox
+creations-chat 2019-10-26 21:07:03 ^
+creations-chat 2019-10-26 21:07:21 very big issue with any of my gearbox designs
+creations-chat 2019-10-26 21:07:29 output power is at best around 1% of the input
+creations-chat 2019-10-26 21:09:01 i tried using magnets in gearbox applications, i wont go in to detail, but even with their ridiculous strength it isn't enough for some things
+creations-chat 2019-10-26 21:09:29 oh yeah no suspension isn't nearly stiff enough at 100
+creations-chat 2019-10-26 21:09:39 imo 100 should be perfectly stiff like a block
+creations-chat 2019-10-26 21:10:28 mindflayer i'll give you an upvote just because of my experience with the same thing, it's dissapointing because you make something that you think is really accurate and cool and it gets downvotes
+creations-chat 2019-10-26 21:10:56 ^
+creations-chat 2019-10-26 21:11:11 i dont mind it, if in my book it's deserving of an upvote then im gonna give it an upvote
+creations-chat 2019-10-26 21:11:49 yeah i had an f-16 that i though was awesome and it was so much fun to fly and then it got loads of downvotes lol
+creations-chat 2019-10-26 21:12:13 it be like that sometime
+creations-chat 2019-10-26 21:12:21 oh neat
+creations-chat 2019-10-26 21:12:22 that's new
+creations-chat 2019-10-26 21:12:50 it's actually uncommon to see new things at this point that's pretty awesome lol
+creations-chat 2019-10-26 21:14:32 go for it
+creations-chat 2019-10-26 21:14:38 make what you wanna make chief
+creations-chat 2019-10-26 21:16:31 most mechanical builds are ugly
+creations-chat 2019-10-26 21:16:56 yep
+creations-chat 2019-10-26 21:18:18 see pinned messages in creations
+creations-chat 2019-10-26 21:18:22 whole bunch of designs
+creations-chat 2019-10-26 21:20:20 neat
+creations-chat 2019-10-26 21:20:28 looks like a sprocket to me lol
+creations-chat 2019-10-26 21:21:12 if all you care about is power transfer and not ratios, waterwheels make fantastic gears
+creations-chat 2019-10-26 23:38:00 ?
+creations-chat 2019-10-27 00:42:55 ok but do you know yuri?
+creations-chat 2019-10-28 19:46:52 i dont think it looks very good, sorry chief
+creations-chat 2019-10-28 19:47:15 it be like that sometime
+creations-chat 2019-10-28 19:47:31 what
+creations-chat 2019-10-28 19:47:38 i... don't like it, so i downvoted
+creations-chat 2019-10-28 19:47:44 that's the only reason you should ever downvote?
+creations-chat 2019-10-28 19:48:13 ^
+creations-chat 2019-10-28 19:48:44 it's generic, fairly boxy, the cockpit looks odd, the big cylinder things at the top are also a little odd
+creations-chat 2019-10-28 19:49:32 like i just don't see anything special about it
+creations-chat 2019-10-28 19:49:38 it's *just* a heli
+creations-chat 2019-10-28 19:50:14 because the thing as a whole is attractive or it's non-coaxial (which in case you don't know is extremely difficult)
+creations-chat 2019-10-28 19:50:40 ^
+creations-chat 2019-10-28 19:50:51 ok
+creations-chat 2019-10-28 19:51:08 for one, i didn't know that, and 2 coaxials are still super easy and kinda boring
+creations-chat 2019-10-28 19:51:16 and honestly, i'm not great with helis so idk
+creations-chat 2019-10-28 20:05:30 ok
+creations-chat 2019-10-28 20:05:46 if you like it then upvote, but i don't so i'm gonna downvote
+creations-chat 2019-10-28 20:14:44 ok but im gonna downvote it because i decided i wanted to
+creations-chat 2019-10-28 20:15:05 ok
+plane-crazy 2019-10-28 21:59:30 what
+plane-crazy 2019-10-28 21:59:39 what?
+plane-crazy 2019-10-28 21:59:44 the f1 car?
+plane-crazy 2019-10-28 22:00:31 yeah and i dont like how it looks
+plane-crazy 2019-10-28 22:00:39 ok
+plane-crazy 2019-10-28 22:00:57 i don't like that one very much either ngl
+plane-crazy 2019-10-28 22:01:16 not really
+plane-crazy 2019-10-28 22:01:25 doesn't have anything to do with the paint job
+plane-crazy 2019-10-28 22:01:29 it's just not *good*
+plane-crazy 2019-10-28 22:01:46 in your opinion?
+plane-crazy 2019-10-28 22:01:57 but like it my opinion it isn't
+plane-crazy 2019-10-28 22:02:17 but fighter jets are coooollll
+plane-crazy 2019-10-28 22:02:30 yeah i build more airliners than jets
+plane-crazy 2019-10-28 22:02:41 or maybe it just feels that way because they take so much longer lol
+plane-crazy 2019-10-28 22:04:59 lmao u rite
+plane-crazy 2019-10-28 22:05:08 there's like 4 or 5 reports for the same guy tf is going on
+plane-crazy 2019-10-28 22:06:35 i have a really dumb idea for a drone thing and i'm gonna try building it, if it works i'll post it
+creations-chat 2019-10-29 21:06:33 doesn't even look like a schlatt coin smh
+creations-chat 2019-10-29 21:38:14 looks kinda stubby, overall pretty nice
+creations-chat 2019-10-29 21:38:26 almost looks like a toy mustang
+creations-chat 2019-10-29 21:38:44 ohhh ok
+creations-chat 2019-10-29 21:38:52 well i guess that would make sense then
+creations-chat 2019-10-29 21:39:46 yeah it does look short
+creations-chat 2019-10-29 21:40:00 if it were longer it would look better
+creations-chat 2019-10-29 21:40:32 lmao
+creations-chat 2019-10-29 21:40:46 yeah that's a big part of it for sure
+creations-chat 2019-10-29 21:46:02 aircraft carriers are easy if you don't care for them to look super good
+creations-chat 2019-10-29 21:46:16 can still make something look decent and it's not hard
+creations-chat 2019-10-29 21:46:42 mechs are a bit harder, VTOLs aren't that bad and helis are only hard if you want to make it non-coaxial
+creations-chat 2019-10-30 20:30:40 nice
+creations-chat 2019-10-30 21:27:31 it's ok
+creations-chat 2019-10-30 23:33:09 cute mini airliner 👌
+creations-chat 2019-11-02 02:09:29 "Linear drone/helicopter" concept, basically whenever each wing is moving out from the center it's producing lift but when they return to the center they fold flat, it cycles back and forth to create a small amount of fairly consistent lift
+creations-chat 2019-11-02 02:10:18 ok it's just a concept and it says it right in the name
+creations-chat 2019-11-02 02:10:29 i'm not trying to get ranks or anything
+creations-chat 2019-11-02 02:10:37 i just couldn't make it light enough to lift off the ground without it
+creations-chat 2019-11-02 02:10:55 not really
+creations-chat 2019-11-02 02:11:19 i guess it's closer to an ornithopter than a helicopter or drone
+creations-chat 2019-11-02 02:11:31 but it's not really flapping its wings so idk
+creations-chat 2019-11-02 02:11:59 wasn't my goal but ok
+creations-chat 2019-11-02 02:12:23 ohh i get what you're saying
+creations-chat 2019-11-02 02:12:35 hey raq
+creations-chat 2019-11-02 02:12:54 ok
+creations-chat 2019-11-02 02:12:57 lol
+creations-chat 2019-11-02 18:43:45 <@!308304989183279105> that vtol is gorgeous, great job
+creations-chat 2019-11-02 18:45:48 <@!302698900521877504> it's not really needed, but it can make steering easier
+creations-chat 2019-11-02 18:46:39 ok but it's an easy method to turn left and right
+creations-chat 2019-11-02 18:47:07 you *can*, but it's more intuitive to use a tail rotor
+creations-chat 2019-11-02 18:47:55 ok
+creations-chat 2019-11-02 18:49:43 i think im gonna try optimising my linear drone better today, i'm not really happy with my final result from yesterday
+creations-chat 2019-11-05 22:12:23 made a boeing a while back, was pretty ugly and only really built it for the size, but it had a 14 block diameter fuselage and it ended up around 7000 blocks, if you hit 10k with a 9 block diameter idk how i would feel
+creations-chat 2019-11-05 22:12:44 o k
+creations-chat 2019-11-14 21:38:17 ^
+creations-chat 2019-11-14 21:38:26 it's a cute little prop plane
+creations-chat 2019-11-14 21:38:27 very nice
+creations-chat 2019-11-16 20:50:30 what
+creations-chat 2019-11-22 00:16:15 thanos truck thanos truck
+plane-crazy 2020-03-19 22:09:18 who ping
+creations-chat 2020-04-22 02:08:26 A very muscular robot.
+creations-chat 2020-04-22 02:11:42 i feel like you kinda put my robot to shame lol

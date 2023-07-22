@@ -1,0 +1,1197 @@
+The Tale of sweerier (720821345767915520)
+general 2022-04-14 10:32:55 how heavy is
+general 2022-04-14 10:32:59 one block?
+general 2022-04-14 10:33:19 alrughy
+general 2022-04-14 10:33:20 thnaks
+help 2022-04-17 13:12:45 how are the blades supposed to be?
+help 2022-04-17 13:12:52 it doesnt go straight when i hold w
+help 2022-04-17 13:12:57 it goes to the left
+general 2022-04-17 13:14:20 where are the blades on the lockhead p-38 lightning supposed to be facing
+general 2022-04-17 13:14:42 that would
+general 2022-04-17 13:14:46 hurt a lot
+help 2022-04-17 13:26:48 what elevon
+help 2022-04-17 13:30:21 do control surfaces work?
+help 2022-04-17 13:31:18 how is it jamming?
+help 2022-04-17 13:31:27 can you send a video, i dont quite understand
+help 2022-04-17 13:35:50 or maybe a picture of the elevon on your build?
+help 2022-04-17 13:38:24 maybe this works?
+help 2022-04-17 13:38:28 is this what you're looking for?
+help 2022-04-17 13:39:15 alright
+help 2022-04-17 13:39:18 ping me
+help 2022-04-17 13:39:56 all good
+help 2022-04-17 13:40:49 can someone help me? i'm not very fammilar with propellers
+
+i cant seem to make it actually go off
+help 2022-04-17 13:41:14 ill send a really informative youtube playlist about the basics
+help 2022-04-17 13:41:26 hold on
+help 2022-04-17 13:41:57 https://www.youtube.com/watch?v=bKO2UPoR27M&list=PLIXeBBGi_3Hx-diukOijomsySAl4ugw5-
+help 2022-04-17 14:04:44 what
+help 2022-04-17 14:07:54 wdym
+help 2022-04-17 14:08:17 it moves the plane a bit
+help 2022-04-17 14:08:22 but not enough to
+help 2022-04-17 14:08:24 take off
+help 2022-04-17 14:08:54 i think its weaker, is it not?
+help 2022-04-17 14:11:06 what are properlers
+help 2022-04-17 14:13:44 what
+help 2022-04-18 01:14:19 is it possible for the wing panels to not have a gap?
+help 2022-04-18 01:18:10 piston lock?
+help 2022-04-18 01:18:18 do you have any guides on that?
+help 2022-04-18 01:31:13 <@837769118237065226> piston aint welding into the wing
+help 2022-04-18 01:32:07 the adjustment needs to be fine
+help 2022-04-18 01:32:14 so i succumb to piston locking
+help 2022-04-18 01:32:54 i need to remove this gap right here
+help 2022-04-18 01:33:36 nvm
+help 2022-04-18 01:33:37 💀
+help 2022-04-18 01:33:37 i got it
+help 2022-04-18 01:34:41 not mine
+help 2022-04-18 04:53:13 is too much torque bad for plane control surfaces?
+help 2022-04-18 04:55:34 what about speed
+help 2022-04-18 04:55:45 is 50 fine?
+help 2022-04-18 05:28:47 why does it wobble when turning at high speeds(650 ish)
+help 2022-04-18 10:19:58 i cant make it perfect :WAAA:
+help 2022-04-18 10:22:35 still not flush
+help 2022-04-18 10:29:33 how do you make it not jam
+help 2022-04-18 10:31:24 here's mine on build mode, blue - locked motors
+red - motor2
+bright yellow - unaligned part
+help 2022-04-18 10:33:16 a closer look on the part
+help 2022-04-18 10:34:31 anyone have any idea how to fix it?
+help 2022-04-19 00:12:00 what could i add or remove from the back to make it less messy
+creations-chat 2022-04-19 00:39:18 left or right?
+SU-47 <@563462654090543114>
+creations-chat 2022-04-19 00:42:22 Sukhoi Su-47 Berkut
+creations-chat 2022-04-19 00:48:09 i'd say neither look simmilar
+plane-crazy 2022-04-19 01:33:21 whats the
+plane-crazy 2022-04-19 01:33:24 engine stronger than
+plane-crazy 2022-04-19 01:33:26 hover drives
+plane-crazy 2022-04-19 01:33:33 the one that has to do something about
+plane-crazy 2022-04-19 01:33:40 conveyors
+plane-crazy 2022-04-19 02:03:38 the back looks boring, what can i add?
+plane-crazy 2022-04-19 02:03:47 su-47 berkut
+plane-crazy 2022-04-19 02:04:47 addiction
+plane-crazy 2022-04-19 02:05:13 what tail things
+plane-crazy 2022-04-19 02:07:00 if i make it more swept i'll be using 1x1 delta's
+plane-crazy 2022-04-19 02:08:03 something like this?
+plane-crazy 2022-04-19 02:08:10 1x2 front
+plane-crazy 2022-04-19 02:08:48 1x3
+plane-crazy 2022-04-19 02:09:04 which one
+plane-crazy 2022-04-19 02:09:22 yeah
+plane-crazy 2022-04-19 02:09:28 not sure how to work on that as of rn
+plane-crazy 2022-04-19 02:09:33 that's the current one
+plane-crazy 2022-04-19 02:09:39 wait no
+plane-crazy 2022-04-19 02:09:40 it isnt
+plane-crazy 2022-04-19 02:09:41 nvm
+plane-crazy 2022-04-19 02:10:08 okok
+plane-crazy 2022-04-19 02:11:28 this good?
+plane-crazy 2022-04-19 02:11:39 aight
+plane-crazy 2022-04-19 02:12:49 or just have enough google images of planes
+plane-crazy 2022-04-19 02:12:55 or whatever you want to build
+plane-crazy 2022-04-19 02:15:30 <@669316004454596611> any other things to change before i finalize the wings?
+plane-crazy 2022-04-19 02:18:00 that's what i'm doing with the wings, yup
+plane-crazy 2022-04-19 02:19:31 i was just comparing
+plane-crazy 2022-04-19 02:22:12 thank you
+plane-crazy 2022-04-19 02:29:06 https://tenor.com/view/furry-speech-bubble-gif-25272617
+plane-crazy 2022-04-19 05:04:44 what do i add to the wings
+plane-crazy 2022-04-19 05:04:45 they're boring
+plane-crazy 2022-04-19 05:09:14 you are a shitnose
+plane-crazy 2022-04-19 05:10:34 <:nooo:787097964946259978>
+plane-crazy 2022-04-19 05:33:51 what
+creations-chat 2022-04-19 23:34:22 really?
+help 2022-04-19 23:50:39 how the fuck do i make this work, the custom half block
+creations-chat 2022-04-19 23:55:40 does anyone know how to work with custom half wedges <:nooo:787097964946259978>
+help 2022-04-20 00:01:26 yes you did
+help 2022-04-20 00:02:33 i dont get where the arrow is going <:nooo:787097964946259978>
+help 2022-04-20 00:03:47 do i like, replace the halfblocks?
+help 2022-04-20 00:03:56 with trapdoors
+help 2022-04-20 00:03:57 alrught
+help 2022-04-20 00:04:46 
+help 2022-04-20 00:05:25 i can wait 👍
+help 2022-04-20 00:27:30 oh fuck i got it
+help 2022-04-20 00:27:33 nvm
+creations-chat 2022-04-20 04:14:55 does anyone know what this part is caleld
+creations-chat 2022-04-20 07:00:36 where am i supposed to put the disconectors where there wouldnt be debris when i press g
+creations-chat 2022-04-20 07:14:12 how does that work
+creations-chat 2022-04-20 07:56:45 does the sukhoi su-27's curve stop at any point?
+help 2022-04-20 15:14:48 where do i start when building air intakes for my jet <:nooo:787097964946259978>
+help 2022-04-20 15:18:30 amo?
+help 2022-04-20 15:23:32 okay
+help 2022-04-21 00:21:35 cat
+help 2022-04-21 02:13:51 how does apply at center on helium blocks work?
+creations-chat 2022-04-21 03:05:50 does anyone know how heavy helium is?
+creations-chat 2022-04-21 03:30:09 in game
+creations-chat 2022-04-21 08:22:34 do fireworks do damage?
+help 2022-04-21 12:43:26 how do i ignore gravity
+creations-chat 2022-04-21 14:17:08 how heavy is a motor
+creations-chat 2022-04-22 00:39:33 why is it backwards
+creations-chat 2022-04-22 00:41:52 not recognized by roblox
+help 2022-04-23 09:45:35 is it possible to motor lock so that the half of the chair would be inside the half sphere?
+help 2022-04-23 09:46:56 wait i forgot to add
+help 2022-04-23 09:47:07 where the motos would only be visible within the red blocks
+help 2022-04-23 10:11:47 woo thanks a lot
+help 2022-04-23 11:25:33 angle lock and piston lock
+help 2022-04-23 11:25:35 a shit ton of it
+help 2022-04-23 11:27:12 nice
+help 2022-04-23 13:33:38 how do i make a 9x9 ball <:nooo:787097964946259978>
+creations-chat 2022-04-23 14:56:47 no
+creations-chat 2022-04-23 15:00:15 how do i make this smooth <:nooo:787097964946259978>
+creations-chat 2022-04-23 15:34:03 i'm sure i can make this better, but i'm not very fammilar with wedges, can anyone lend some advice?
+creations-chat 2022-04-23 15:35:47 any easier, less heavy solutions?
+help 2022-04-23 15:42:15 1.75x the original maybe?
+i'm guessing that's a commerical plane, move the wings further back
+help 2022-04-23 15:43:09 yep, move it slightly more back
+help 2022-04-23 15:43:28 test it out
+help 2022-04-23 15:43:39 see if it looks accurate
+help 2022-04-23 15:43:44 use this for reference
+help 2022-04-23 15:44:33 yes they do
+help 2022-04-23 15:45:44 https://www.google.com/search?q=c-17+blueprint&bih=1118&biw=2133&hl=en&sxsrf=APq-WBv_omvm8ZLADRXWQsbFLzMaslqVgQ:1650728733377&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjp2pfew6r3AhU9xosBHSEOA88Q_AUoAXoECAEQAw
+
+more there
+help 2022-04-23 15:47:44 yeah me too, should've been doing that earlier when i started actually focusing on the game
+help 2022-04-23 15:47:58 np
+help 2022-04-23 15:48:37 https://www.the-blueprints.com/vectordrawings/search
+
+just found this website
+help 2022-04-23 15:50:32 my weakness is spheres, it's so frustrating layering the circles and it ends up not looking right in the end
+help 2022-04-23 15:50:53 i've found a website for that too
+http://oranj.io/blog/VoxelSphereGenerator
+help 2022-04-23 15:51:06 the internet is a great place, sometimes
+help 2022-04-23 15:53:31 what?
+help 2022-04-23 15:54:19 i havent even sent an image of a plane
+help 2022-04-23 15:55:08 what does this mean
+help 2022-04-23 15:57:36 likely because <@662903484739223564> couldnt get a very clear view of the top of the plane
+help 2022-04-23 16:01:54 i wouldn't say it looked crap, it was just a bit inaccurate and the wing length was a bit short, but i'd say that's about it
+plane-crazy 2022-04-24 07:09:22 does camera lock and angle lock do the same thing?
+plane-crazy 2022-04-24 07:10:18 it does? <:nooo:787097964946259978>
+plane-crazy 2022-04-24 07:10:35 can you do anything to stop it from doing that?
+plane-crazy 2022-04-24 07:10:53 aw
+plane-crazy 2022-04-24 07:11:08 is it still worth learning?
+plane-crazy 2022-04-24 07:11:15 i know it's not very versitile
+plane-crazy 2022-04-25 10:27:39 wont the wing bounce?
+plane-crazy 2022-04-25 10:27:50 i think a locked motor 1 would work better
+help 2022-04-25 12:03:39 turret wobbling <:nooo:787097964946259978>
+help 2022-04-25 12:03:59 1k torque and 500 torque aint wroking
+creations-chat 2022-04-25 12:07:31 that wouldnt be very nice for beginners, shredder bugs, and other scummy vehicles should be the ones in there
+creations-chat 2022-04-25 12:09:14 is everyone here gordon ramsey?
+creations-chat 2022-04-25 12:17:22 i dont think that's required, you don't go to a talent show with a warning that the judges might insult you. better just expect the things people might say to you.
+creations-chat 2022-04-25 12:19:13 constructive criticism, not shitting on them
+creations-chat 2022-04-25 12:21:03 it's not the builds that are the problem it's how the community reacts to the builds that is the problem
+
+<@393527373729103888> who said you had to be joked about to learn?
+creations-chat 2022-04-25 12:28:14 :don't do stupid shit
+
+:why are you crying about it?
+<:what:644996672048463942>
+creations-chat 2022-04-25 12:31:24 i never said you were the one crying about it
+help 2022-04-25 12:46:06 why is it wobbling <:nooo:787097964946259978>
+help 2022-04-25 12:57:11 is it because of that?
+help 2022-04-25 13:07:17 i removed it
+help 2022-04-25 13:07:30 still wobbling
+help 2022-04-25 13:08:53 still wobble
+help 2022-04-25 14:40:01 <:nooo:787097964946259978>
+creations-chat 2022-04-26 03:58:59 when are motor 2 locks coming out <:nooo:787097964946259978>
+or toggleable locks 😳
+creations-chat 2022-04-26 04:43:38 isnt white all the colors
+general 2022-04-26 08:25:38 what are the pros of conveyor engines over hover engines
+plane-crazy 2022-04-26 08:28:07 what are the pros of conveyor engines over hover engines>
+plane-crazy 2022-04-26 08:34:27 conveyor engine, or just conveyor?
+plane-crazy 2022-04-26 08:35:16 bullet train <:WhatChamp:775044367022555166>
+plane-crazy 2022-04-26 08:35:52 why does it tilt upwards <:nooo:787097964946259978>
+plane-crazy 2022-04-26 08:36:33 without pressing anything
+plane-crazy 2022-04-26 08:37:18 yes
+plane-crazy 2022-04-26 08:37:31 
+plane-crazy 2022-04-26 08:37:39 i already calculated that
+plane-crazy 2022-04-26 08:37:59 added 4 7x1 blocks at the front, then multiplied how much weight that would be
+plane-crazy 2022-04-26 08:38:19 
+plane-crazy 2022-04-26 08:38:20 let's move to <#478584971670454284>
+plane-crazy 2022-04-26 08:38:42 alright
+plane-crazy 2022-04-26 08:38:46 godnight
+plane-crazy 2022-04-26 08:40:53 was this patch of sand always here
+plane-crazy 2022-04-26 08:41:44 woah
+plane-crazy 2022-04-26 08:41:47 i never noticed
+plane-crazy 2022-04-26 08:50:52 does anyone know the weight of a wood block in game?
+general 2022-04-26 08:59:13 my wifi is so shit i cant join any game <:nooo:787097964946259978>
+the-dump 2022-04-26 09:00:30 
+general 2022-04-26 09:00:42 https://cdn.discordapp.com/attachments/495286269459300364/968436398233366528/unknown.png
+ayo dawg wtf
+general 2022-04-26 09:01:28 now it's 100k
+the-dump 2022-04-26 09:15:53 i sure hope not
+general 2022-04-26 09:31:12 yaw is controlled by the rudder right?
+general 2022-04-26 09:34:04 what controls do you guys use? 
+i use a and d for roll rn, not sure what to make my control for yaw
+general 2022-04-26 09:35:23 q and e is my pitch <:nooo:787097964946259978>
+general 2022-04-26 09:36:28 that's my throttle 😭
+general 2022-04-26 09:36:39 what do you use for throttle
+general 2022-04-26 09:36:40 fune
+general 2022-04-26 09:36:54 how does that work 😟
+general 2022-04-26 09:37:25 i'll use mouse buttons <:kek:652566605028524033>
+general 2022-04-26 09:38:41 how do you control roll with m2m?
+general 2022-04-26 09:38:48 do you just like
+general 2022-04-26 09:38:54 invert one of the motors?
+general 2022-04-26 09:38:58 motor 2 mouse
+general 2022-04-26 09:39:16 oh
+general 2022-04-26 09:39:28 yeah, me either
+general 2022-04-26 09:42:29 is it possible to toggle between m2m and m2k
+creations-chat 2022-04-27 07:35:35 what's a good speed for the motor 2 for the ailerons?
+~700 sps
+creations-chat 2022-04-27 07:41:57 angle?
+plane-crazy 2022-04-27 07:43:18 what's a good angle for ailerons 
+~700 sps
+plane-crazy 2022-04-28 02:12:28 what
+creations-chat 2022-04-28 07:50:10 top looks boring<:nooo:787097964946259978>
+creations-chat 2022-04-28 08:40:24 looks shit, can i have tips to make it look better without adding too much weight
+
+also, what do i add at the back
+creations-chat 2022-04-28 08:57:07 what do i change
+
+if i remake it it'll just be the exact same thing
+
+what do i change it to doh <@719168864705052802>
+creations-chat 2022-04-28 09:18:32 oh yeah, the wing root was just to connect the motor to the wings, i'll try to make that better without exposing any motors
+
+do i add more shape to the fuselage or?
+
+change the nose, noted
+
+i'll see how i can remove the gaps without making it too heavy 
+
+how much bigger do you think it should be?
+
+21x17x4.5 in build mode rn
+plane-crazy 2022-04-28 13:46:27 wing too big?
+plane-crazy 2022-04-28 13:47:43 too sleepy to change it, i'm taking that as a yes
+plane-crazy 2022-04-28 13:48:41 how do you even make mechs walk without pressing multiple keys
+plane-crazy 2022-04-28 13:49:18 or macro 👍
+plane-crazy 2022-04-28 13:50:03 hmm?
+plane-crazy 2022-04-29 09:32:09 my motor 2 glitches out at high speeds 😟
+plane-crazy 2022-04-29 09:34:12 wtf
+plane-crazy 2022-04-29 09:34:39 that white thing at the bottom is the motor 2 and whatever it's connected to
+plane-crazy 2022-04-29 09:34:56 i just took a turn, then everything stopped moving
+bot-central 2022-04-29 15:41:39 -minecraft
+bot-central 2022-04-29 15:41:43 fuck yo too
+general 2022-04-29 16:05:10 is it fine if i have different keybinds for different sets of rockets?
+creations-chat 2022-04-30 03:38:40 that's crazy
+plane-crazy 2022-04-30 07:09:09 is thrust vevtoring reliable?
+general 2022-04-30 10:26:05 too much clouds
+plane-crazy 2022-04-30 11:59:29 do cameras have weight
+plane-crazy 2022-04-30 12:09:18 ✙
+plane-crazy 2022-04-30 12:09:43 make it bigger
+plane-crazy 2022-04-30 12:10:05 nvm
+plane-crazy 2022-04-30 12:44:24 how much studs is a block?
+plane-crazy 2022-04-30 23:15:24 anyone wanna save this image for an emergency? im kind enough to share it with you :)
+plane-crazy 2022-04-30 23:17:29 you guys like my plane?
+plane-crazy 2022-05-01 01:18:30 where are the air brakes on the mig 21
+plane-crazy 2022-05-01 01:28:09 that includes everything with 10
+plane-crazy 2022-05-01 01:29:05 now look up "plane" <:thconking:535171057649188865>
+plane-crazy 2022-05-01 01:31:34 do people actually use air brakes
+plane-crazy 2022-05-01 01:31:38 in game
+plane-crazy 2022-05-01 01:32:08 wing panels
+plane-crazy 2022-05-01 01:32:09 that
+plane-crazy 2022-05-01 01:32:18 cause a lot of drag
+plane-crazy 2022-05-01 01:32:24 and decelerate the plane
+plane-crazy 2022-05-01 01:32:26 👍
+plane-crazy 2022-05-01 01:33:00 these things
+plane-crazy 2022-05-01 01:35:51 
+plane-crazy 2022-05-01 01:39:24 they're still motors
+plane-crazy 2022-05-01 01:48:04 what's wrong with 1 block planes
+plane-crazy 2022-05-01 01:53:50 air brakes
+plane-crazy 2022-05-01 01:54:39 like this?
+plane-crazy 2022-05-01 01:55:26 oh
+plane-crazy 2022-05-01 01:56:48 this?
+plane-crazy 2022-05-01 01:58:19 this was the whole thing
+
+the two motors on the right was just to hide the motor on the left
+plane-crazy 2022-05-01 01:58:25 so i only really used 1 motor
+plane-crazy 2022-05-01 02:04:24 mig 21
+plane-crazy 2022-05-01 02:04:33 su 1
+plane-crazy 2022-05-01 02:04:46 gee bee
+plane-crazy 2022-05-01 02:04:52 the racing plane
+plane-crazy 2022-05-01 02:05:20 it's beautiful
+plane-crazy 2022-05-01 02:08:15 did you know that "el chupcabra" from the planes movie is a gee bee and that the gee bee is somewhat known for killing it's pilots due to it's small wings, very low polar moment of inertia, and tiny control surfaces
+plane-crazy 2022-05-01 02:09:10 what's flying a jet gonna do to cancer
+plane-crazy 2022-05-01 02:09:53 if there are no women, there is no breast cancer
+plane-crazy 2022-05-01 02:10:44 what are colton panels
+plane-crazy 2022-05-01 02:11:00 beautiful
+plane-crazy 2022-05-01 02:12:05 make a plane that doesnt have wings and purely relies on thrust vectoring
+plane-crazy 2022-05-01 02:13:05 oh shit
+plane-crazy 2022-05-01 02:13:16 i thought the motor 2's on a shredder bug is connected to wing panels
+plane-crazy 2022-05-01 02:13:36 oh my fuck
+plane-crazy 2022-05-01 02:13:45 ayooo
+plane-crazy 2022-05-01 02:16:06 i'm waiting
+plane-crazy 2022-05-01 02:16:27 dear lord
+plane-crazy 2022-05-01 02:19:07 oh
+plane-crazy 2022-05-01 02:19:09 that's you
+plane-crazy 2022-05-01 02:19:18 how tf did you join me
+plane-crazy 2022-05-01 02:41:41 what
+plane-crazy 2022-05-01 02:42:43 what should i build
+plane-crazy 2022-05-01 02:43:19 something that has wings and flies
+plane-crazy 2022-05-01 02:44:40 okay
+plane-crazy 2022-05-01 02:44:41 so
+plane-crazy 2022-05-01 02:44:45 i will build the gee bee
+plane-crazy 2022-05-01 02:45:16 why is everyone just dropping FUCK YOU
+plane-crazy 2022-05-01 02:45:23 FUCK YOU
+plane-crazy 2022-05-01 02:47:17 FUCK YOU (AND YOUR FRIEND THAT I'LL NEVER SEE AGAIN)
+plane-crazy 2022-05-01 02:48:43 FUCK YOU
+creations-chat 2022-05-01 04:57:02 AFHGHAHAHHA FUCK YEAH
+help 2022-05-01 06:19:37 how tf do i camera lock
+help 2022-05-01 06:28:35 bigger rudders
+
+higher angle on the motor 2's
+creations-chat 2022-05-01 06:53:31 how do i add the wire
+<:nooo:787097964946259978>
+creations-chat 2022-05-01 06:59:51 tried it with camera locking, got nowhere
+
+<@720751430595772418> i dont have enough space for the usual angle locking w motors
+creations-chat 2022-05-01 07:02:23 or atleast i think so
+help 2022-05-01 07:03:12 why do you need more wings
+general 2022-05-01 11:37:57 what do canards control?
+
+pitch or roll or both?
+general 2022-05-01 11:38:46 do they even move 💀
+general 2022-05-01 11:38:48 yes it is
+general 2022-05-01 11:39:02 *ROLL
+general 2022-05-01 11:39:03 NOT YAW
+general 2022-05-01 11:39:04 💀
+general 2022-05-01 11:39:46 well that was fucking embarrasing
+general 2022-05-01 11:41:46 what about the f-15 active?
+general 2022-05-01 11:43:03 supermaneuverable planes <:pogey:651848693842182144>
+general 2022-05-01 11:44:20 what is mtd
+plane-crazy 2022-05-01 11:53:24 do i try some weird 1x3 triangle wedge block motor lock or just go with the usual
+plane-crazy 2022-05-01 13:28:03 can you still get poontoons
+plane-crazy 2022-05-01 13:28:21 and when is that
+plane-crazy 2022-05-01 13:52:30 jit trippin
+plane-crazy 2022-05-01 14:04:57 am i overlocking?
+plane-crazy 2022-05-01 14:05:20 that's just the nose
+plane-crazy 2022-05-01 14:05:40 okie
+plane-crazy 2022-05-01 14:06:07 what
+plane-crazy 2022-05-01 14:06:55 but it's dead weight
+plane-crazy 2022-05-01 14:08:56 i was doing that unconciously when i was making the nose
+plane-crazy 2022-05-01 14:09:30 instead of using the half weldge, i was motor locking a half wedge up and a half block 💀
+plane-crazy 2022-05-01 14:10:56 💀
+plane-crazy 2022-05-01 14:14:02 all of that was just so i could get this effect
+plane-crazy 2022-05-01 14:14:55 apparantly the x-29
+plane-crazy 2022-05-01 14:15:10 The December 14, 1984, test flight of the X-29—the most aerodynamically unstable aircraft ever built—demonstrated forward-swept wing technology for supersonic fighter aircraft for the first time
+plane-crazy 2022-05-01 14:15:22 fuck
+plane-crazy 2022-05-01 14:15:28 i typed aerodynamic
+plane-crazy 2022-05-01 14:15:30 instead of un
+plane-crazy 2022-05-01 14:16:08 lots of drag?
+plane-crazy 2022-05-01 14:16:48 whatever the fuck this is
+plane-crazy 2022-05-01 14:17:30 how aerodynamic do you think the beluga is?
+plane-crazy 2022-05-01 14:17:37 the plane that carries rocket parts
+plane-crazy 2022-05-01 14:17:56 it can do both
+general 2022-05-01 14:23:01 how do you mute someone without mod?
+plane-crazy 2022-05-01 14:36:03 i know there's one that caused traffic because it had to be carried over road
+plane-crazy 2022-05-02 06:15:13 i've been test flying before i finish things up and i've found that using wing panels for the intakes make my plane tilt while controling my roll
+
+what other block can i use for my intakes, it's affecting my flight <:nooo:787097964946259978>
+plane-crazy 2022-05-02 11:29:30 i dont see the angle lock
+plane-crazy 2022-05-02 11:29:35 oh
+plane-crazy 2022-05-02 11:29:37 the rails?
+plane-crazy 2022-05-02 11:30:20 you should learn camera locking for that
+plane-crazy 2022-05-02 11:31:20 okay
+plane-crazy 2022-05-02 12:34:40 https://imgur.com/a/ISQY1Nd
+the-dump 2022-05-02 15:17:24 see who
+the-dump 2022-05-02 15:41:41 you\
+events-chat 2022-05-03 01:54:48 5 torque? 😟
+plane-crazy 2022-05-03 09:04:28 is this bug known?
+plane-crazy 2022-05-03 09:04:31 where if you put a motor connected to a rope
+plane-crazy 2022-05-03 09:04:36 then you activate the motor
+plane-crazy 2022-05-03 09:04:46 it moves you in the direction the motor is moving
+plane-crazy 2022-05-03 09:06:46 ill send a clip
+plane-crazy 2022-05-03 09:07:53 
+plane-crazy 2022-05-03 09:07:58 cool glitch
+plane-crazy 2022-05-03 09:08:01 can i abuse it?
+bug-reports 2022-05-03 09:09:14 https://cdn.discordapp.com/attachments/384021699466756107/970974971197272064/Roblox_VR_2022.05.03_-_17.06.33.33.DVR_Trim.mp4
+bug-reports 2022-05-03 09:09:29 is this a bug? if it is, is it known?
+plane-crazy 2022-05-03 09:09:40 yes
+plane-crazy 2022-05-03 09:11:41 yes
+plane-crazy 2022-05-03 09:11:47 if you make it face
+plane-crazy 2022-05-03 09:11:50 both left and right
+plane-crazy 2022-05-03 09:11:51 like
+plane-crazy 2022-05-03 09:12:00 not a very fast one though
+plane-crazy 2022-05-03 09:12:10 
+plane-crazy 2022-05-03 09:12:21 yes
+plane-crazy 2022-05-03 09:12:24 it is not
+plane-crazy 2022-05-03 09:12:51 it is max torque
+plane-crazy 2022-05-03 09:12:52 max speed
+plane-crazy 2022-05-03 09:14:02 please tell me this hasnt been found out and that i will be the founder of a cool new widely used glitch engine <:PauseChamp:670868208588423168>
+plane-crazy 2022-05-03 09:14:40 i'll do it
+plane-crazy 2022-05-03 09:14:42 too
+plane-crazy 2022-05-03 09:14:47 it might vary with the
+plane-crazy 2022-05-03 09:14:52 item's weight
+plane-crazy 2022-05-03 09:16:25 oh and the motor's locked
+plane-crazy 2022-05-03 09:18:07 i think it'd work on hover based vehicles
+plane-crazy 2022-05-03 09:18:18 so that you won't have to worry about balancing
+plane-crazy 2022-05-03 09:21:33 it's less laggy if it isnt locked
+plane-crazy 2022-05-03 09:25:04 
+plane-crazy 2022-05-03 09:25:47 just turn the contraption around
+plane-crazy 2022-05-03 09:25:53 make the motors on the back
+plane-crazy 2022-05-03 09:26:02 i think it'd be somewhat practical for big spaceships
+plane-crazy 2022-05-03 09:26:15 since it takes a lot of space it should be fine for them eh?
+plane-crazy 2022-05-03 09:27:50 
+plane-crazy 2022-05-03 09:29:13 here
+plane-crazy 2022-05-03 09:29:18 want me to add a beam?
+plane-crazy 2022-05-03 09:29:23 i dont think the weight matters
+plane-crazy 2022-05-03 09:29:29 yeah
+plane-crazy 2022-05-03 09:30:14 it works
+plane-crazy 2022-05-03 09:30:17 same speed
+plane-crazy 2022-05-03 09:30:22 ill send another clip
+plane-crazy 2022-05-03 09:32:12 
+plane-crazy 2022-05-03 09:32:14 i'll compile the clips and send it to <#495286269459300364>
+plane-crazy 2022-05-03 09:33:04 yed
+plane-crazy 2022-05-03 09:33:13 ill try
+plane-crazy 2022-05-03 09:33:41 it doesnt move at all
+plane-crazy 2022-05-03 09:33:46 wait
+plane-crazy 2022-05-03 09:33:51 i think i did it wrong
+plane-crazy 2022-05-03 09:35:13 that's what im doing
+plane-crazy 2022-05-03 09:35:27 it's moving like 4 sps
+plane-crazy 2022-05-03 09:37:58 
+plane-crazy 2022-05-03 09:39:12 207.2 blocks worth of weight
+plane-crazy 2022-05-03 09:41:49 yes
+plane-crazy 2022-05-03 09:41:53 both
+plane-crazy 2022-05-03 09:42:06 
+plane-crazy 2022-05-03 09:42:12 
+plane-crazy 2022-05-03 09:42:21 it would glitch out i think
+plane-crazy 2022-05-03 09:43:01 it moves but it's glitchy
+plane-crazy 2022-05-03 09:45:36 uhh
+plane-crazy 2022-05-03 10:04:07 
+the-dump 2022-05-03 10:13:07 <https://cdn.discordapp.com/attachments/384021699466756107/970974971197272064/Roblox_VR_2022.05.03_-_17.06.33.33.DVR_Trim.mp4
+
+https://cdn.discordapp.com/attachments/384021699466756107/970979295151411210/Roblox_VR_2022.05.03_-_17.23.32.301.DVR_Trim.mp4
+
+https://cdn.discordapp.com/attachments/384021699466756107/970979992525746186/Roblox_VR_2022.05.03_-_17.26.36.302.DVR_Trim.mp4
+
+https://cdn.discordapp.com/attachments/384021699466756107/970981092561661962/Roblox_VR_2022.05.03_-_17.30.54.318.DVR_Trim.mp4
+
+https://cdn.discordapp.com/attachments/384021699466756107/970982540729016340/Roblox_VR_2022.05.03_-_17.37.00.319.DVR_Trim.mp4
+
+https://cdn.discordapp.com/attachments/384021699466756107/970989123227750470/Roblox_VR_2022.05.03_-_17.58.46.321.DVR_Trim_Trim.mp4>
+plane-crazy 2022-05-03 10:13:19 all the clips are on <#495286269459300364>
+the-dump 2022-05-03 10:21:03 test
+the-dump 2022-05-03 10:21:06 i dont have a mech
+the-dump 2022-05-03 10:21:13 weight doesnt matter btw
+general 2022-05-03 10:32:49 can you magnet other people's builds?
+the-dump 2022-05-03 11:29:37 if anyone asks you where you got it from you know what to do
+the-dump 2022-05-03 11:29:52 sweerier / sweerier2 on roblox
+bug-reports 2022-05-03 11:53:58 just call it the rope engine
+bug-reports 2022-05-03 11:54:45 what
+bug-reports 2022-05-03 11:55:45 but the concept of the bug is that the motor is pulling the rope which is welded to the entire mechanism which in turn pulls the whole mechanism 👍
+bug-reports 2022-05-03 11:55:51 https://discord.com/channels/384021699466756103/495286269459300364/970991388080607232
+creations-chat 2022-05-03 12:37:04 can't you guys just leave it with a downvote instead of talking down on him 👽
+creations-chat 2022-05-03 12:38:52 https://discord.com/channels/384021699466756103/504436696021204992/971027286897877012
+
+you're*
+creations-chat 2022-05-03 12:40:45 https://tenor.com/view/hilarious-funny-whole-squad-laughing-laugh-gif-19504197
+help 2022-05-03 12:44:14 decals! <:OkayChamp:709084018485887096>
+help 2022-05-03 12:54:46 also more color
+help 2022-05-03 12:55:12 maybe a tiny splash of red green or blue
+help 2022-05-03 12:55:14 just to accent
+help 2022-05-03 12:55:17 oh
+help 2022-05-03 12:55:19 nvm
+help 2022-05-03 12:55:46 longer rod at the bottom part
+help 2022-05-03 12:55:48 use trails
+help 2022-05-03 12:56:27 these small details here
+help 2022-05-03 12:59:18 this part 2/3/4 blocks wide
+help 2022-05-03 12:59:25 or anything between those
+the-dump 2022-05-03 12:59:41 the dawg shitted on him
+help 2022-05-03 13:03:44 do 2.5 blocks
+help 2022-05-03 13:04:02 or 3
+help 2022-05-03 13:04:18 use half blocks for the panels
+help 2022-05-03 13:05:02 you know about motor locking yet?
+help 2022-05-03 13:16:05 you can use that for the 0.5 part
+plane-crazy 2022-05-03 13:17:04 did the rope engine work <:EYES:525319504721608705>
+plane-crazy 2022-05-03 13:33:42 do it have suspension <:EYES:525319504721608705>
+plane-crazy 2022-05-04 08:26:20 what original trick
+general 2022-05-04 08:28:19 k
+plane-crazy 2022-05-04 08:31:58 oh
+plane-crazy 2022-05-04 09:47:03 i got into a game
+plane-crazy 2022-05-04 09:48:27 i dont know
+plane-crazy 2022-05-04 09:48:32 but everyone's a noob skin
+plane-crazy 2022-05-04 09:49:17 spotify island
+plane-crazy 2022-05-04 09:49:26 
+plane-crazy 2022-05-04 09:50:52 what
+general 2022-05-04 10:08:21 i got on
+general 2022-05-04 10:08:22 wh
+general 2022-05-04 10:08:26 130 ping
+general 2022-05-04 10:08:27 good
+general 2022-05-04 10:08:38 oh
+general 2022-05-04 10:08:43 i dont know
+general 2022-05-04 10:08:50 just how i usually do
+general 2022-05-04 10:08:56 i type in plane crazy
+general 2022-05-04 10:09:01 then i click the big square
+general 2022-05-04 10:09:08 the click the popup on google
+general 2022-05-04 10:09:16 then wait to load 👍
+general 2022-05-05 04:46:44 nice shoes
+general 2022-05-05 05:22:33 WOAH
+general 2022-05-05 05:22:38 IT FORGOT TO DELETE IT
+general 2022-05-05 05:22:43 why cant i delete it
+general 2022-05-05 05:22:59 wtf
+general 2022-05-05 05:23:56 i know
+general 2022-05-05 05:23:57 but like
+general 2022-05-05 05:24:03 the bot disnt delete it for a second
+general 2022-05-05 05:24:21 or maybe it was just my end
+general 2022-05-05 05:24:27 because i couldnt delte it either
+general 2022-05-05 05:51:03 (she big)
+plane-crazy 2022-05-05 09:41:12 **epilepsy warning**
+
+this is nauseating
+general 2022-05-05 12:29:52 how do i make compact tvc 😠
+creations-chat 2022-05-05 13:04:08 what is that
+general 2022-05-06 00:24:43 yes
+general 2022-05-06 00:29:32 hello lawyer
+creations-chat 2022-05-06 01:58:14 i'm gonna make this fucker fly <:trollface:775024642104229898>
+creations-chat 2022-05-06 02:00:20 omg <@456226577798135808> death thrdt!!!
+creations-chat 2022-05-06 02:02:09 it's a bomb with cutters around it that's propelled by magnets
+
+<@697870811117387899> no
+
+don't try to justify death threats just because they built something you don't like
+creations-chat 2022-05-06 02:04:47 still doesnt mean you should send death threats
+creations-chat 2022-05-06 02:06:39 did it feel good?
+creations-chat 2022-05-06 02:11:46 what
+
+it's fine, just don't do it to anyone else >:(
+creations-chat 2022-05-06 02:13:32 who is fleet
+
+mf
+creations-chat 2022-05-06 02:16:27 he builds pretty damn great eh?
+creations-chat 2022-05-06 02:21:34 sas
+
+nice! <@923332873409396747>
+general 2022-05-06 11:13:41 script = "pointtoyourself"
+print(script)
+general 2022-05-06 11:15:26 imagine lua 👽
+general 2022-05-06 11:16:13 imagine having to add "then" to an if statement 😎
+general 2022-05-06 11:16:52 average discord user
+general 2022-05-06 11:17:53 can you be sexis against your own gender
+general 2022-05-06 11:18:05 ok
+general 2022-05-06 11:28:32 i cant breathe
+plane-crazy 2022-05-06 11:30:24 flying dp 28
+contest-chat 2022-05-06 11:40:01 when do we get to watch
+general 2022-05-06 12:08:48 guys
+general 2022-05-06 12:08:51 what should i cook
+general 2022-05-06 12:08:55 something fast to make
+general 2022-05-06 12:09:40 not really tickling my tongue
+general 2022-05-06 12:09:58 i said cook 💀
+general 2022-05-06 12:10:04 i wanna try that now
+general 2022-05-06 12:10:33 it heats
+general 2022-05-06 12:10:37 no cook
+general 2022-05-06 12:11:06 ok
+general 2022-05-06 12:12:21 should i try gin
+general 2022-05-06 12:14:56 fuck you
+general 2022-05-06 12:15:21 nvm, its soju
+general 2022-05-06 17:36:40 banana
+general 2022-05-06 17:37:02 banana bananana banana bananana na bananaaaaa
+general 2022-05-06 17:37:07 poteto bananaaaa
+general 2022-05-06 22:57:15 i wonder how much downvotes ill get if i make the make the mendeleev tank
+general 2022-05-07 00:03:20 yk what
+general 2022-05-07 00:03:21 fuck it
+general 2022-05-07 00:03:27 ill try making it
+general 2022-05-07 00:03:54 hi new
+general 2022-05-07 00:05:19 do you guys randomly feel the urge to shit while eating?
+general 2022-05-07 00:26:13 i don't know how to make tank treads
+help 2022-05-07 00:39:08 how should i make the plates on the mendeleev tank?
+creations-chat 2022-05-07 00:39:56 even the bot downvoted..
+creations-chat 2022-05-07 00:41:58 how should i make the plates on the mendeleev tank
+creations-chat 2022-05-07 00:54:10 okay so it will get into hof
+plane-crazy 2022-05-07 01:02:08 is pc2 gonna allow hex codes 😳
+general 2022-05-07 01:17:56 what's supposed to be darker on tanks, the plates or the body?
+general 2022-05-07 01:19:04 there's only 2 genders but there are variants <:Thinkje139:590548255927173201> /s
+plane-crazy 2022-05-07 01:22:16 that was a question
+plane-crazy 2022-05-07 01:23:24 world record speed!
+plane-crazy 2022-05-07 01:29:36 no
+plane-crazy 2022-05-07 01:31:27 imagine having to use 3d virtual models
+plane-crazy 2022-05-07 01:31:31 i go to the actual thing
+plane-crazy 2022-05-07 01:38:45 i think the people who live here idk
+general 2022-05-07 02:37:08 what's the width of a wing panel?
+plane-crazy 2022-05-07 02:37:35 what's the width of a wing panel
+general 2022-05-07 10:35:11 what dimensions should i build the mendeleev tank on?
+general 2022-05-07 10:44:54 does a 1x7 have the same hitpoints as 7 blocks?
+plane-crazy 2022-05-07 11:18:35 what is that
+plane-crazy 2022-05-07 11:19:13 i've seen someone making that head not to loong ago
+plane-crazy 2022-05-07 11:19:32 same image
+plane-crazy 2022-05-07 11:19:36 is it u?
+plane-crazy 2022-05-07 11:56:49 is the right tip supposed to be angled?
+plane-crazy 2022-05-07 11:57:32 yes
+plane-crazy 2022-05-07 11:57:42 isnt it supposed to be straight?
+plane-crazy 2022-05-07 11:57:56 this
+plane-crazy 2022-05-07 11:58:18 
+plane-crazy 2022-05-07 11:58:53 wait why is it angled then
+plane-crazy 2022-05-07 11:59:36 maybe it's just the angle
+plane-crazy 2022-05-07 11:59:41 of the screenshot
+plane-crazy 2022-05-07 11:59:45 ah ok
+plane-crazy 2022-05-07 11:59:53 nvm then
+the-dump 2022-05-07 12:16:05 idk
+the-dump 2022-05-07 12:16:05 i think the guy who first made fursuits was the guy who invented them
+the-dump 2022-05-07 12:16:09 not sure
+bot-central 2022-05-07 12:20:42 !rank
+bot-central 2022-05-07 12:20:56 !top
+bot-central 2022-05-07 12:21:02 😱
+bot-central 2022-05-07 12:21:05 !leaderboard
+bot-central 2022-05-07 12:21:09 how
+bot-central 2022-05-07 12:21:11 !help
+plane-crazy 2022-05-07 13:50:58 i hate it when the wing panels jam into the blocks on custon rudders
+plane-crazy 2022-05-07 13:51:13 no
+plane-crazy 2022-05-07 13:51:23 build the mendeleev tank
+plane-crazy 2022-05-07 13:52:54 nice job hiding the motors
+plane-crazy 2022-05-07 13:53:42 omg exposed motor lock <:Downvote:490311668556103700>
+plane-crazy 2022-05-07 13:54:38 
+plane-crazy 2022-05-07 13:56:43 fold to make taller <:thoink:657279634563399720>
+plane-crazy 2022-05-07 13:59:48 is there gonna be enough space on a ship for that thing to be on there anyways?
+plane-crazy 2022-05-07 14:00:51 there are 10k block builds
+creations-chat 2022-05-07 22:30:25 does namnam not use ailerons?
+creations-chat 2022-05-07 22:40:09 words that aren't bad are the words you can say
+creations-chat 2022-05-07 23:08:12 <@717378791759937636> do you have pontoons? i think pontoons could work for the tip of your side cart
+creations-chat 2022-05-07 23:23:19 i dont know but it's what everyone do... ♥️
+creations-chat 2022-05-07 23:31:20 i'm pretty sure hulk was looking for feedback, creative criticism and i can see that you're somewhat doing that, but is there really a need to call the build bad. it's like you're trying to help him and hurt him at the same time, just say what you think hulk needs to change in the build and leave it at that, no "overall turret design is poo fard"
+creations-chat 2022-05-07 23:33:19 why?
+creations-chat 2022-05-08 00:11:18 brazil
+general 2022-05-08 02:27:10 you guys know how if you tear muscles then it grows you get stronger?
+general 2022-05-08 02:32:29 no
+plane-crazy 2022-05-08 05:19:07 what 4th gen fighter should i make
+plane-crazy 2022-05-08 05:21:26 3rd 4th or 5th
+plane-crazy 2022-05-08 05:22:48 what else
+plane-crazy 2022-05-08 06:59:55 c ram <:thconking:535171057649188865>
+plane-crazy 2022-05-08 07:00:05 or a heli pad
+plane-crazy 2022-05-08 07:00:22 you can make it a heli pad
+plane-crazy 2022-05-08 07:00:54 only for extremely small helis though
+general 2022-05-08 11:17:02 yes
+general 2022-05-08 13:03:21 make the material ice
+plane-crazy 2022-05-08 22:06:23 what are the ice heavy blocks?
+plane-crazy 2022-05-08 23:11:34 oh okok
+plane-crazy 2022-05-09 01:49:46 milkshake
+plane-crazy 2022-05-09 13:11:32 what is that
+bot-central 2022-05-09 14:16:23 -ms
+bot-central 2022-05-09 14:16:40 -ms
+bot-central 2022-05-09 14:16:48 -ms
+bot-central 2022-05-09 14:16:57 -ms
+bot-central 2022-05-09 14:17:49 -ms
+bot-central 2022-05-09 14:18:06 -ms
+bot-central 2022-05-09 14:18:41 -ms
+bot-central 2022-05-09 14:18:56 -ms
+bot-central 2022-05-09 14:19:01 MF
+bot-central 2022-05-09 14:19:02 -ms
+bot-central 2022-05-09 14:19:09 AYO
+bot-central 2022-05-09 14:19:14 EVERY FIRST TILE I CLICK
+bot-central 2022-05-09 14:19:16 IS A BOMB
+bot-central 2022-05-09 14:19:18 ?????????????
+bot-central 2022-05-09 14:19:19 -ms
+bot-central 2022-05-09 14:19:46 -ms
+bot-central 2022-05-09 14:21:20 -ms help
+bot-central 2022-05-09 14:21:26 -ms
+bot-central 2022-05-09 14:22:36 -ms
+bot-central 2022-05-09 14:23:55 -ms
+bot-central 2022-05-09 14:24:04 -ms
+bot-central 2022-05-09 14:24:09 -ms
+bot-central 2022-05-09 14:24:12 -ms
+bot-central 2022-05-09 14:24:22 -ms
+bot-central 2022-05-09 14:24:28 -ms
+bot-central 2022-05-09 14:25:07 -ms
+bot-central 2022-05-09 14:26:08 -ms
+bot-central 2022-05-09 14:26:58 -ms
+bot-central 2022-05-09 14:27:16 -ms
+bot-central 2022-05-09 14:57:27 -ms
+bot-central 2022-05-09 14:57:33 -ms
+bot-central 2022-05-09 14:57:58 -ms
+bot-central 2022-05-09 14:58:22 -ms
+bot-central 2022-05-09 14:59:06 -ms
+bot-central 2022-05-09 14:59:37 -ms
+bot-central 2022-05-09 14:59:42 -ms
+bot-central 2022-05-09 15:00:38 -ms
+bot-central 2022-05-09 15:00:43 -ms
+bot-central 2022-05-09 15:00:57 -ms 50x50
+bot-central 2022-05-09 15:01:23 -ms
+bot-central 2022-05-09 15:01:52 -ms
+bot-central 2022-05-09 15:02:07 -ms
+bot-central 2022-05-09 15:02:10 -ms
+bot-central 2022-05-09 15:02:18 -ms
+bot-central 2022-05-09 15:02:23 -ms
+bot-central 2022-05-09 15:02:28 -ms
+bot-central 2022-05-09 15:03:08 -ms
+bot-central 2022-05-09 15:03:14 -ms
+bot-central 2022-05-09 15:03:18 -ms
+bot-central 2022-05-09 23:47:44 -ms
+bot-central 2022-05-09 23:47:53 -ms
+bot-central 2022-05-09 23:47:58 -ms
+plane-crazy 2022-05-09 23:52:32 yeas
+plane-crazy 2022-05-09 23:53:46 i hate how the rocket engine's nozzle has drag <:nooo:787097964946259978>
+plane-crazy 2022-05-09 23:54:10 yeah
+general 2022-05-10 02:08:22 someone give me a 3rd - 4th gen fighter
+general 2022-05-10 02:09:00 why are your slots like that
+general 2022-05-10 02:09:13 yes
+general 2022-05-10 02:09:35 shouldnt something important be on the first slot
+general 2022-05-10 02:10:06 why not on the first slot
+general 2022-05-10 02:10:43 who uses scroll
+general 2022-05-10 02:13:23 mine is
+sword - projectiles - food - blocks - bow - flex - flex - water - lava/gaps
+keybinds are qrcvtyh13
+💀
+general 2022-05-10 03:36:41 how much warns do you need tog et banned
+general 2022-05-10 03:36:54 furray
+general 2022-05-10 03:37:20 i have like
+general 2022-05-10 03:37:22 3
+general 2022-05-10 03:37:35 fuck no
+general 2022-05-10 03:37:47 oh
+general 2022-05-10 03:38:09 what'd you do
+general 2022-05-10 03:38:28 what gif
+general 2022-05-10 04:22:19 what's a good way of waking someone up
+general 2022-05-10 04:22:49 what the fuck
+general 2022-05-10 04:23:42 what if they have loose earwax then when you blow into the ear, it bounces back at you and lands in your mouth 🤤
+general 2022-05-10 04:23:54 * 🤮
+general 2022-05-10 04:24:41 i'll just shake the bed aggresively as if there's a lvl5 earthquake
+general 2022-05-10 04:24:51 ok
+general 2022-05-10 04:24:54 nvm
+general 2022-05-10 04:25:20 wtf is yellowcake
+general 2022-05-10 04:25:31 oh
+general 2022-05-10 04:27:28 pro camo
+general 2022-05-10 04:27:29 falg
+general 2022-05-10 04:27:31 lague
+general 2022-05-10 04:27:37 camoflague
+general 2022-05-10 04:27:39 hw
+general 2022-05-10 04:28:03 thank you
+general 2022-05-10 04:30:28 what is mtd
+plane-crazy 2022-05-10 04:47:25 my dream car is the peel p50
+creations-chat 2022-05-10 05:44:38 https://discord.com/channels/384021699466756103/384025409945337856/919896500295831552
+
+holy fuck 101?
+events-chat 2022-05-10 09:07:23 Banned blocks:
+All PVP weapons except cutters
+Rocket Engines
+Jet Engines
+Propellers (including Propeller Blade and Wing Panels used as propellers)
+Conveyors
+**Suspensions, Springs, and Pistons (Unless your a flipper)**
+events-chat 2022-05-10 09:12:06 yes Suspensions, Springs, and Pistons (Unless your a flipper
+events-chat 2022-05-10 09:13:23 yes
+events-chat 2022-05-10 09:14:07 i think, i dont know wait for rbk's reply <@748820589933887539>
+general 2022-05-11 00:06:23 t
+general 2022-05-11 00:23:47 no
+creations-chat 2022-05-11 09:58:51 oh my g 😍
+general 2022-05-12 00:49:37 how do you use spring for motorlock
+general 2022-05-12 00:50:19 i got it
+the-dump 2022-05-12 03:22:57 i have a left
+the-dump 2022-05-12 03:23:00 is that good enough
+plane-crazy 2022-05-13 05:12:48 or just make cutter blocks unable to pass through enemy vehicles unless the setting "self protect" is off
+general 2022-05-13 15:09:09 Y'all lucky to have
+plane-crazy 2022-05-13 16:02:53 i mean only vehicles with 4k blocks can go on there
+general 2022-05-13 16:09:23 fuck what the
+general 2022-05-13 16:25:10 fard 🤤
+general 2022-05-13 23:57:01 those are pretty thin arms don't ya think?
+creations-chat 2022-05-14 06:29:39 what if i post man shit gif
+creations-chat 2022-05-14 06:31:38 https://discord.com/channels/384021699466756103/384025409945337856/974890661755125871
+
+**I get it's bad.**
+
+fuck you
+bot-central 2022-05-15 04:55:13 s?help
+bot-central 2022-05-15 04:55:39 ?shelp
+bot-central 2022-05-15 04:56:45 ?rhelp
+general 2022-05-15 04:58:52 can someone post the suggestion
+
+make cutter blocks unable to pass through enemy vehicles(that are blacklisted) unless the setting "self protect" is off
+general 2022-05-15 05:01:18 as in, make cutters useless if the enemy is blacklisted?
+general 2022-05-15 07:17:34 that's crazy
+general 2022-05-15 07:22:11 sorry flood
+general 2022-05-15 07:22:44 still flood
+general 2022-05-15 07:25:06 https://docs.google.com/document/d/1JN2fqwSybLck7HJTvANygb4JIuZN2hgMBjMyLgBgGbA/edit?usp=sharing
+creations-chat 2022-05-15 11:42:38 
+creations-chat 2022-05-16 11:36:09 it was an opinion btw
+creations-chat 2022-05-17 01:34:32 i think you could do with more detail at the front here
+creations-chat 2022-05-18 16:08:04 gold bars from april fools event
+
+i think
+help 2022-05-18 16:17:36 this isnt connected to anything
+help 2022-05-18 16:22:51 wtf did you do
+help 2022-05-18 16:24:31 please answer my question
+help 2022-05-18 16:24:43 i am intrigued
+creations-chat 2022-05-19 11:11:45 no, it isnt obvious
+creations-chat 2022-05-19 11:14:21 i just don't post builds <:kek:652566605028524033>
+general 2022-05-19 14:23:14 wtf
+general 2022-05-19 14:23:21 the SCAF-Dassault doesnt have vertical stableizers
+general 2022-05-19 15:09:14 wobbler
+general 2022-05-19 15:47:12 what is the difference
+general 2022-05-19 21:50:29 it was a good calculator
+general 2022-05-19 21:56:40 no, we don't
+plane-crazy 2022-05-19 22:03:42 Cat
+general 2022-05-19 23:50:18 https://www.google.com/search?q=lola+bunny&oq=lola+bunny&aqs=chrome..69i57j0i512l9.1425j0j7&sourceid=chrome&ie=UTF-8
+general 2022-05-19 23:50:27 birds dont have fur
+general 2022-05-19 23:52:55 there is no reason
+general 2022-05-19 23:53:11 2
+general 2022-05-19 23:53:11 the fuck
+plane-crazy 2022-05-20 04:49:07 an aircraft with canards and thrust vectoring, extremely maneuverable
+
+why isnt it a good idea
+plane-crazy 2022-05-20 04:49:59 what about it
+plane-crazy 2022-05-20 04:50:17 ducks are cute
+plane-crazy 2022-05-20 06:18:32 thicc 130
+plane-crazy 2022-05-20 11:58:04 i dont think so, i'll just either not put the decal or i use an X
+bot-central 2022-05-20 11:58:54 `ms
+bot-central 2022-05-20 11:58:56 -ms
+bot-central 2022-05-20 11:59:04 -ms
+bot-central 2022-05-20 11:59:33 -ms
+bot-central 2022-05-20 11:59:39 -ms
+bot-central 2022-05-20 11:59:45 -ms
+bot-central 2022-05-20 12:03:07 -ms
+general 2022-05-20 12:39:09 favk
+creations-chat 2022-05-20 18:08:14 what if forward swept able variable swept wing
+creations-chat 2022-05-21 00:04:55 airbrake? <:EYES:525319504721608705>
+creations-chat 2022-05-21 00:26:48 <:PogStare:699130318510227537> you made that?
+creations-chat 2022-05-21 00:31:10 does that still count as custom?
+contest-chat 2022-05-21 00:39:37 he won!!!!
+creations-chat 2022-05-21 00:49:02 ^
+contest-chat 2022-05-21 00:52:42 where are the other submissions
+contest-chat 2022-05-21 01:00:53 holy shit he won!!!
+contest-chat 2022-05-21 01:01:40 💀
+contest-chat 2022-05-21 01:01:54 A_loop
+contest-chat 2022-05-21 01:01:56 A_loop
+contest-chat 2022-05-21 01:01:56 A_loop
+contest-chat 2022-05-21 01:01:57 A_loop
+contest-chat 2022-05-21 01:01:59 A_loop
+contest-chat 2022-05-21 01:05:34 H
+contest-chat 2022-05-21 01:05:51 is that within deadline?
+contest-chat 2022-05-21 01:05:59 WOO
+contest-chat 2022-05-21 01:09:18 looks like that one buff guy with yellow hair
+contest-chat 2022-05-21 01:09:41 
+contest-chat 2022-05-21 01:09:45 nvm
+contest-chat 2022-05-21 01:09:47 maybe not
+contest-chat 2022-05-21 01:14:46 where did the submissions go
+contest-chat 2022-05-21 01:16:35 they need time to compile all the sumbissions
+creations-chat 2022-05-21 01:20:41 is the x wing a vtol? w
+help 2022-05-21 02:46:47 is there a way so that i don't have to hold the key?
+help 2022-05-21 02:50:18 thanks
+help 2022-05-21 03:25:45 magnets don't affect other's blocks
+help 2022-05-21 03:26:20 it wont work
+help 2022-05-21 03:26:35 how would you lock
+help 2022-05-21 03:28:30 still don't get it
+help 2022-05-21 03:28:37 but there's a thing you might be able to use
+help 2022-05-21 03:28:48 
+help 2022-05-21 03:29:01 since the tip of the motors can't
+help 2022-05-21 03:29:04 touch other blocks
+help 2022-05-21 03:29:10 you could use that
+help 2022-05-21 03:30:23 depends
+help 2022-05-21 03:30:27 what are you using the lock for
+help 2022-05-21 03:30:29 what vehicle
+help 2022-05-21 03:30:32 or if it is even a vehicle
+help 2022-05-21 03:30:45 what vehicle
+general 2022-05-21 03:40:02 toad fir
+general 2022-05-21 03:41:23 i saw 3 frog roadkils lined up
+general 2022-05-21 03:43:09 i shot a cockroach once with a nerf
+general 2022-05-21 03:43:13 the big red bullets
+general 2022-05-21 03:43:20 directly
+general 2022-05-21 03:43:23 like i put the barrel
+general 2022-05-21 03:43:27 and trapped the cockroach
+general 2022-05-21 03:43:33 in the barrel
+general 2022-05-21 03:43:35 then shot
+general 2022-05-21 03:44:09 if cockroaches can survive nukes why can't they survive 5 year old me 😎
+general 2022-05-21 03:44:37 that's hot
+events-chat 2022-05-21 03:45:55 close fight eh?
+plane-crazy 2022-05-21 03:50:07 w
+plane-crazy 2022-05-21 03:50:50 i got em
+creations-chat 2022-05-21 13:44:21 what?
+plane-crazy 2022-05-21 15:45:15 hermeus
+plane-crazy 2022-05-21 15:45:21 sr 72
+plane-crazy 2022-05-21 15:45:22 sr 10
+plane-crazy 2022-05-21 15:46:24 cfa 44
+plane-crazy 2022-05-21 15:48:25 sukhoi su 18
+plane-crazy 2022-05-21 15:49:54 mitsubishi f-x
+plane-crazy 2022-05-21 15:52:25 it was founded in 2018
+plane-crazy 2022-05-21 15:52:58 sr 72?
+plane-crazy 2022-05-21 15:53:03 or is it
+plane-crazy 2022-05-21 15:53:08 also too futuristic
+plane-crazy 2022-05-21 15:53:19 are you looking for 3rd-5th gen?
+plane-crazy 2022-05-21 15:53:25 oh it isnt?
+plane-crazy 2022-05-21 15:53:28 lawl
+plane-crazy 2022-05-21 15:53:56 then build the sr 72 prototype
+plane-crazy 2022-05-21 15:54:27 https://www.google.com/search?q=sr+72&tbm=isch&ved=2ahUKEwj3offY-PD3AhWPPJQKHbt9C_YQ2-cCegQIABAA&oq=sr+72&gs_lcp=CgNpbWcQAzIECCMQJzIECAAQQzIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEOgYIABAeEAc6BggAEB4QBToGCAAQHhAIOggIABCxAxCDAToLCAAQgAQQsQMQgwE6CAgAEIAEELEDOgcIABCxAxBDUPQEWLYMYKoNaABwAHgAgAGmAYgBmwWSAQMyLjSYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=4wmJYrekB4_50AS7-62wDw&bih=1118&biw=2133#imgrc=3ZTrn5g0O4yUsM
+plane-crazy 2022-05-21 15:54:27 h
+creations-chat 2022-05-21 17:11:15 what
+
+oh it was a question <@918581321004089364> , i didn't see the question mark
+general 2022-05-22 14:19:44 aug hbar giga chad
+general 2022-05-22 14:20:21 hbar w malcom 3x & ap😎
+general 2022-05-22 14:21:52 remove the dcl 120
+plane-crazy 2022-05-22 14:34:12 it doesnt
+general 2022-05-22 14:37:56 trg underrated
+general 2022-05-22 14:40:17 fast reload
+bot-central 2022-05-22 14:41:24 -ms 9 9
+general 2022-05-22 14:42:34 wooo philipines #1
+creations-chat 2022-05-22 14:50:11 what is lean
+general 2022-05-22 14:51:15 game?
+creations-chat 2022-05-22 14:54:42 https://imgur.com/JiIROpv
+creations-chat 2022-05-23 08:45:30 make the wheels bigger or anything to make it more noticable, because from a higher angle it just looks like it's floating
+creations-chat 2022-05-23 08:56:25 try to not cover the weels to much maybe
+show me how it go
+creations-chat 2022-05-23 09:07:48 it's for pvp?
+creations-chat 2022-05-23 09:14:18 too revealed
+creations-chat 2022-05-23 11:25:46 remove the ladders and make the place you stay in, bigger
+you can add decals and lights
+creations-chat 2022-05-23 23:24:02 exposed motor lock 😭
+creations-chat 2022-05-23 23:45:46 first time i've ever actually seen someone use triangle wedge block for the nose
+that isn't the mig 21
+creations-chat 2022-05-23 23:48:55 <@869034105625534474> what is your pfp 😭
+creations-chat 2022-05-24 00:25:25 looks like a flanker
+
+<@763400485356568577> su 30
+general 2022-05-24 00:42:12 what's the keybind for aircraft canon
+general 2022-05-24 01:12:11 drop the bed
+the-dump 2022-05-24 02:34:41 i tilted to the front
+bot-central 2022-05-24 02:42:31 ?whois
+bot-central 2022-05-24 09:59:55 !rank
+general 2022-05-25 11:41:27 obtainnypictures
+creations-chat 2022-05-25 14:18:07 https://media.discordapp.net/attachments/958415647778431036/958564648771256340/forgot.gif
+creations-chat 2022-05-26 00:09:07 rbk
+general 2022-05-26 02:57:11 wait, biplanes are more maneuverable right?
+general 2022-05-26 02:57:39 why aren't supermaneuverable aircrafts bi planes
+general 2022-05-26 02:57:59 ah i see
+general 2022-05-26 03:00:30 🗿
+general 2022-05-26 03:00:54 what?
+general 2022-05-26 03:05:06 how does the
+general 2022-05-26 03:05:10 how second wing bye bye
+general 2022-05-26 03:05:46 do they roll then detach?
+general 2022-05-26 03:06:12 oh
+general 2022-05-26 03:06:25 i'd like to see footage
+events-chat 2022-05-26 03:17:36 what other mods?
+events-chat 2022-05-26 04:05:23 w
+bot-central 2022-05-26 04:05:37 !rank 346438146549874688
+events-chat 2022-05-26 04:05:53 i doubt we're even gonna be on the teir list
+general 2022-05-26 04:08:01 what if variable sweep flying wing
+general 2022-05-26 13:02:09 they do?
+general 2022-05-26 13:02:13 they do?
+general 2022-05-26 13:02:16 w
+general 2022-05-26 13:02:37 i juse use cameras + text
+general 2022-05-26 13:03:33 ^
+general 2022-05-26 13:04:28 pc diff
+general 2022-05-26 13:04:46 aircraft?
+general 2022-05-26 13:05:07 what do you mean perform much better?
+general 2022-05-26 13:05:14 like
+general 2022-05-26 13:05:17 you get more fps?
+general 2022-05-26 14:13:28 sentence that starts with s and ends with p
+plane-crazy 2022-05-26 14:37:23 saab 37?
+plane-crazy 2022-05-26 14:38:13 where is it
+plane-crazy 2022-05-26 14:38:30 the google maps image
+plane-crazy 2022-05-26 14:39:49 
+plane-crazy 2022-05-26 14:40:09 mig 35/1.42
+plane-crazy 2022-05-26 14:40:24 exactly like it
+plane-crazy 2022-05-26 14:40:54 looks 2nd gen
+plane-crazy 2022-05-26 14:43:18 the nose though
+plane-crazy 2022-05-26 14:44:50 i dont think it's a cropped delta
+plane-crazy 2022-05-26 14:45:03 
+plane-crazy 2022-05-26 14:46:25 maybe it's just far
+plane-crazy 2022-05-26 14:46:52 what are some defining features
+plane-crazy 2022-05-26 14:48:07 what are the disadvantages of canards
+general 2022-05-26 14:52:40 i wanna see footage of soldiers playing football against other countries amidst war
+plane-crazy 2022-05-26 23:42:24 how much is mach 8 in sps
+plane-crazy 2022-05-26 23:43:13 how much is mach 8 im km/s
+plane-crazy 2022-05-26 23:48:04 why not use helium
+plane-crazy 2022-05-26 23:55:20 fuck no
+plane-crazy 2022-05-26 23:56:11 who has a rank
+plane-crazy 2022-05-26 23:56:26 someone send this in <#507673335816126509>
+plane-crazy 2022-05-26 23:58:10 allow cutters to phase through other player's blocks (blacklist) only if the setting "self protection" is off
+plane-crazy 2022-05-27 00:00:42 give guns lower penetration and remove the delay of the red part please
+plane-crazy 2022-05-27 00:10:59 what the fuck is wrong with the rockets
+plane-crazy 2022-05-27 00:11:15 
+plane-crazy 2022-05-27 00:12:12 https://imgur.com/JiIROpv
+plane-crazy 2022-05-27 00:12:22 fuck you
+plane-crazy 2022-05-27 00:12:38 https://imgur.com/JiIROpv
+plane-crazy 2022-05-27 00:12:43 h
+plane-crazy 2022-05-27 00:14:01 <#490306593242611742>
+general 2022-05-27 00:37:28 da cat
+general 2022-05-27 00:37:37 hard cat
+general 2022-05-27 00:37:38 rock
+general 2022-05-27 00:37:53 stone
+general 2022-05-27 00:39:06 dwayne the rock catson
+general 2022-05-27 00:48:27 6
+bot-central 2022-05-27 00:54:14 why?
+bot-central 2022-05-27 00:54:21 -servers
+bot-central 2022-05-27 00:54:36 -whois
+help 2022-05-27 05:51:11 make everything ice block except:
+all half wedges
+cylinders
+plane-crazy 2022-05-27 07:56:54 how do you hide the motor 2 on variable sweep fighters :WAAAAL
+plane-crazy 2022-05-27 07:58:13 h
+plane-crazy 2022-05-27 07:58:19 you could use
+plane-crazy 2022-05-27 07:58:20 text
+plane-crazy 2022-05-27 07:58:26 since text doesn't
+plane-crazy 2022-05-27 07:58:28 hit other blocks
+plane-crazy 2022-05-27 07:58:41 what
+plane-crazy 2022-05-27 07:59:00 what
+plane-crazy 2022-05-27 08:00:05 wait wdym it won't move
+plane-crazy 2022-05-27 08:00:21 because text doesn't collide with other blocks
+plane-crazy 2022-05-27 08:00:25 so theoretically
+plane-crazy 2022-05-27 08:00:27 it would work
+plane-crazy 2022-05-27 08:00:31 right?
+plane-crazy 2022-05-27 08:00:54 inside the fuselage
+plane-crazy 2022-05-27 08:00:57 so that it's not visible
+plane-crazy 2022-05-27 08:02:00 no
+plane-crazy 2022-05-27 08:03:42 why is the image an a10, but the question is about the f 14 💀
+plane-crazy 2022-05-27 08:05:56 https://tenor.com/view/not-sure-hmm-thinking-are-you-serious-fry-gif-16246481
+plane-crazy 2022-05-28 04:00:03 friction blocks
+general 2022-05-28 04:01:52 show me your tracks
+general 2022-05-28 04:27:15 guys
+general 2022-05-28 04:27:17 is jojorabit good
+general 2022-05-28 04:27:19 rabbit
+general 2022-05-28 04:27:35 ok
+bot-central 2022-05-28 06:08:51 -ms
+plane-crazy 2022-05-28 09:29:50 why that material
+plane-crazy 2022-05-28 10:57:19 make it ice
+plane-crazy 2022-05-28 10:57:26 it will fly faster
+general 2022-05-28 11:20:29 how the fuck are the missiles mounted on a variable sweep wing
+general 2022-05-28 11:31:15 yes
+general 2022-05-28 11:31:37 the philipines may be, but i'm not 😎
+general 2022-05-28 11:32:14 no
+general 2022-05-28 11:32:20 i am not in college
+general 2022-05-28 12:26:21 so did this one austri-
+general 2022-05-28 12:32:21 how do i make the f 16 intakes with half cylinder 3 2x2
+general 2022-05-28 12:33:24 won't it add more drag?
+general 2022-05-28 12:34:47 i just want it to turn fast
+general 2022-05-28 12:35:25 too small :WAAAA:
+general 2022-05-29 02:54:49 That Is So Fun!
+general 2022-05-31 11:34:02 what the fuck
+bot-central 2022-05-31 12:59:32 -ms 9 9
+bot-central 2022-06-01 09:36:46 ~ms
+bot-central 2022-06-01 09:36:48 -ms
+bot-central 2022-06-01 09:36:52 -ms
+bot-central 2022-06-01 09:36:57 boy
+bot-central 2022-06-01 09:37:07 
+bot-central 2022-06-01 09:37:09 -ms
+plane-crazy 2022-06-01 10:42:46 damn
+plane-crazy 2022-06-01 10:43:05 what camo?
+plane-crazy 2022-06-01 13:03:54 what
+general 2022-06-01 23:39:07 should i get a heli in wart
+bot-central 2022-06-02 11:33:23 -ms
+general 2022-06-02 12:00:47 no shit
+general 2022-06-03 01:37:40 that is fucking nauseating to watch
+general 2022-06-03 04:00:21 racism
+creations-chat 2022-06-04 01:12:29 yes it is a problem, because in the discord terms of service it says that you are not allowed to use discord if you are under 13
+creations-chat 2022-06-04 01:22:28 i would assume that if a person replies
+"is that a problem"
+to a message, they're asking if their message, in this case is "what are you, 9?" is a problem
+creations-chat 2022-06-04 01:25:28 Ok
+general 2022-06-04 01:41:43 https://tenor.com/view/wojak-gif-21991855
+general 2022-06-04 01:41:48 blyat
+general 2022-06-04 01:42:12 😱
+general 2022-06-04 01:42:15 😠
+bot-central 2022-06-04 01:42:39 $whois
+bot-central 2022-06-04 01:42:44 ?whois
+general 2022-06-04 01:43:36 hi
+general 2022-06-04 01:43:46 racism
+general 2022-06-04 01:44:31 i what
+plane-crazy 2022-06-04 02:21:53 whast
+general 2022-06-04 02:22:40 ?remindme 1d dog
+general 2022-06-04 02:23:15 ?remind 5min dog
+general 2022-06-04 02:23:19 ok
+general 2022-06-04 02:24:29 fr?
+bot-central 2022-06-04 04:39:07 -ms
+bot-central 2022-06-04 04:39:15 -ms
+bot-central 2022-06-04 04:39:30 -ms
+general 2022-06-04 10:24:10 what's the difference between flaps and ailerons
+general 2022-06-04 11:11:04 i wonder how single engine thrust vectoring would control roll
+general 2022-06-04 11:28:25 😘
+general 2022-06-04 15:31:10 snow
+general 2022-06-04 15:46:03 how the fuck do you even cheat in this game
+help 2022-06-04 16:05:13 why the fuck
+general 2022-06-05 03:06:37 why u wearing slippers
+general 2022-06-05 03:06:48 D
+general 2022-06-05 03:10:04 he
+general 2022-06-05 04:39:39 same thing
+plane-crazy 2022-06-05 07:59:30 why both yo legs so long
+plane-crazy 2022-06-05 08:04:16 is that why the head is so small
+plane-crazy 2022-06-05 08:07:47 i also dont think humans have that small of a weist
+bot-central 2022-06-05 09:10:47 !rank
+general 2022-06-05 09:11:39 i cant tell if he's 11 or 15 in the picture 💀
+plane-crazy 2022-06-06 11:23:19 does anyone have the link to the direct pvp servers?
+general 2022-06-06 11:23:22 does anyone have the link to the direct pvp servers?
+general 2022-06-06 11:24:00 lag machine
+general 2022-06-06 13:02:22 who doesn't know that
+help 2022-06-07 01:12:02 reduce the ammount of wings, more wings = more drag
+help 2022-06-07 01:17:32 you can also make the aircraft lighter
+the-dump 2022-06-07 01:56:11 make me a gif!
+the-dump 2022-06-07 02:17:26 0:08
+plane-crazy 2022-06-07 02:35:11 gun pod or sumn idk
+general 2022-06-07 10:40:07 do slave
+creations-chat 2022-06-08 11:30:11 is it just me or 
+sr 72
+creations-chat 2022-06-08 12:34:55 the build and the sr 72 look simmilar
+general 2022-06-08 15:29:55 except there isnt space in plane crazy
+general 2022-06-08 15:34:46 i know that if you reach high enough altitude, roblox physics breal
+not sure if that's high enough though
+plane-crazy 2022-06-09 04:10:36 make it unstable
+general 2022-06-09 05:35:45 imagine the philippines but the youth can vote 🤔
+general 2022-06-09 05:48:43 ok
+creations-chat 2022-06-09 06:31:59 😭
+creations-chat 2022-06-09 06:36:32 😭
+plane-crazy 2022-06-09 13:07:44 but but but but it looks cooler!
+general 2022-06-09 22:37:51 hatched?
+general 2022-06-09 22:38:09 like
+general 2022-06-09 22:38:11 egg?
+general 2022-06-09 22:38:54 isn't hatch like
+general 2022-06-09 22:38:59 bird giving birth?
+general 2022-06-09 22:39:02 like
+general 2022-06-09 22:39:07 hatched an egg
+general 2022-06-09 22:39:39 as in it got out of the egggg
+general 2022-06-09 22:39:40 ohhh
+general 2022-06-09 22:39:44 💀
+help 2022-06-10 01:12:09 what did you do
+creations-chat 2022-06-10 06:33:46 mini size of a roscale?
+help 2022-06-10 11:33:08 hold the keybind, press / press enter
+general 2022-06-11 06:42:02 5 feet 1 inches tall
+According to newer ROBLOX measurements, 1 Stud is 0.28 meters. Therefore, a Roblox character (that is actually 5.5 studs tall) is 154 cm or 5 feet 1 inches tall.
+general 2022-06-11 06:50:18 how many studs is a block?
+general 2022-06-11 06:54:30 so a half block is 1.25 studs
+general 2022-06-11 06:54:44 width wise
+general 2022-06-11 06:54:56 it is still 2.5
+general 2022-06-11 06:55:17 a character fits in a 2 block high area
+general 2022-06-11 06:55:46 which is 5 studs
+general 2022-06-11 06:59:54 i don't get it, because a roblox character is 5.5 studs tall. but it fits in an area that is 2 blocks tall (5 studs)
+general 2022-06-11 07:01:09 what?
+general 2022-06-11 07:01:52 According to the ROBLOX Blog, 1 meter is equal to 20 ROBLOX studs, so a stud is 5 centimeters, and a real-life ROBLOXian (that is 5 studs tall) would be 25 centimeters, about 10 inches tall.
+
+????????
+general 2022-06-11 07:02:46 if you look up "how many inches is a roblox stud" and "how tall is a roblox character"
+they give different results
+general 2022-06-11 07:05:19 neither
+general 2022-06-11 07:06:26 didn't you post a roblox roscale guide
+general 2022-06-11 07:07:00 1.60 what?
+general 2022-06-11 07:08:21 1.60 is the measurement of the person?
+general 2022-06-11 07:08:47 and what unit is that?
+general 2022-06-11 07:09:13 1,40 what? ft? cm?
+general 2022-06-11 07:12:45 why are you putting commas
+general 2022-06-11 07:21:08 a cessna nose is 1.68 blocks?
+general 2022-06-11 07:21:49 11.0999 studs/inch
+general 2022-06-11 07:22:08 rounded off to 11.1
+help 2022-06-16 01:02:39 if it's a pilot seat you can control your creation
+creations-chat 2022-06-16 02:10:16 not possible
+
+you can try a locked powered motor with the setting reset on
+
+then use a block to stop the motor from moving more than the angle of what you want it to be
+creations-chat 2022-06-17 13:39:43 f15 active >:((
+general 2022-06-17 23:31:08 dont click
+creations-chat 2022-06-18 05:47:02 -unde sweerier
+creations-chat 2022-06-18 05:49:35 -under sweerier2
+bot-central 2022-06-18 05:50:09 -unde sweerier2
+bot-central 2022-06-18 05:50:23 -unde <@720821345767915520>
+the-dump 2022-06-18 07:45:02 the guy sounds like charlie but higher pitched
+general 2022-06-18 23:45:23 the right foot looks like a man holding a sloth like a baby
+general 2022-06-18 23:47:48 why the fuck are shoes 400 dollars
+general 2022-06-18 23:48:35 just breathe 👽
+bot-central 2022-06-19 10:38:16 -unde
+bot-central 2022-06-19 10:38:21 -undesweerier2
+bot-central 2022-06-19 10:38:26 -under sweerier2
+bot-central 2022-06-19 10:38:30 -unde sweerier2
+bot-central 2022-06-19 10:38:35 -unde sweerier
+plane-crazy 2022-06-21 00:58:27 a compact 3d tvc system would be hard
+plane-crazy 2022-06-21 00:58:42 hold on
+plane-crazy 2022-06-21 00:58:43 ill try
+plane-crazy 2022-06-21 00:58:45 making one
+plane-crazy 2022-06-21 00:58:58 in a few mins
+general 2022-06-21 01:03:12 i'm gay
+general 2022-06-21 01:03:15 nvm
+plane-crazy 2022-06-21 01:12:32 there's a 1 block gap between the engines so maybe you could use this for flankers(?)
+plane-crazy 2022-06-21 01:12:35 also
+plane-crazy 2022-06-21 01:12:41 so, not sure if it's ideal for namnam jets
+plane-crazy 2022-06-21 01:12:41 jet engines are extremely heavy
+plane-crazy 2022-06-21 01:13:48 yeah
+general 2022-06-21 05:03:06 yes
+general 2022-06-21 05:03:11 titanium
+help 2022-06-23 12:59:08 try adding more wing to the back
+help 2022-06-23 14:57:34 nice

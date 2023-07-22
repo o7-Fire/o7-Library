@@ -1,0 +1,1626 @@
+The Tale of glitcheey (168537938211241984)
+plane-crazy 2019-02-12 09:40:55 So uhm
+plane-crazy 2019-02-12 09:41:01 can somebody help me understand something
+plane-crazy 2019-02-12 09:41:04 My suspensions aren't working
+plane-crazy 2019-02-12 09:41:54 It doesn't answer my question
+plane-crazy 2019-02-12 09:42:55 My suspensions aren't working. I have them attached to wheels, but they don't do what they're supposed to. The vehicle just stays stiff
+plane-crazy 2019-02-12 09:42:58 <@!263880614036373504>
+plane-crazy 2019-02-12 09:43:14 :/
+plane-crazy 2019-02-12 09:43:14 I do
+plane-crazy 2019-02-12 09:43:37 
+plane-crazy 2019-02-12 09:44:19 Oh
+plane-crazy 2019-02-12 09:44:46 What Sakura said fixed it.
+plane-crazy 2019-02-12 09:44:51 I didn't need to move the suspension.
+plane-crazy 2019-02-12 09:44:58 Thank you Sakura
+plane-crazy 2019-02-12 09:45:27 I know
+plane-crazy 2019-02-12 09:45:29 I already have.
+plane-crazy 2019-02-12 09:51:03 Is there a way to limit how much a motor can rotate?
+plane-crazy 2019-02-12 09:51:10 Like a certain degrees
+plane-crazy 2019-02-12 09:58:13 What does the Powered setting on motors do?
+plane-crazy 2019-02-12 23:36:58 Does the lock function on a motor make it impossible to move, or does it just make it work less like a joint?
+plane-crazy 2019-02-12 23:37:09 No what
+plane-crazy 2019-02-12 23:37:31 Ok that's what I need
+plane-crazy 2019-02-12 23:39:21 <@!163143541160148992> Because I did and I didn't notice any difference
+plane-crazy 2019-02-12 23:39:23 So I asked here
+plane-crazy 2019-02-12 23:39:33 What's so wrong about asking questions :/
+plane-crazy 2019-02-13 09:00:13 Can someone help me out?
+Whenever I put wheels on my vehicle, it vibrates intensely and any pistons I have on it automatically extend, and I can't retract them
+bug-reports 2019-02-13 09:02:16 Whenever I put wheels on my vehicle, it vibrates intensely and any pistons I have on it automatically extend, and I can't retract them
+bug-reports 2019-02-13 09:02:31 Doesn't matter what wheels. Landing gears or regular
+plane-crazy 2019-02-13 09:05:30 Ok
+plane-crazy 2019-02-13 09:10:34 Yes
+plane-crazy 2019-02-13 09:10:45 I wish the building space was wider
+plane-crazy 2019-02-15 00:50:29 What do ballast blocks do?
+plane-crazy 2019-02-15 00:50:50 Ok that's what I thought
+plane-crazy 2019-02-15 00:51:03 But they don't seem to effect the center of mass any more than a regular block
+plane-crazy 2019-02-15 00:51:11 Or at least the indicator
+plane-crazy 2019-02-15 00:52:36 That's really annoying
+plane-crazy 2019-02-15 00:52:52 Im trying to get my lift and mass to overlap and I can't see where the indicator moves :/
+plane-crazy 2019-02-15 00:54:35 Can someone help me with understanding something?
+plane-crazy 2019-02-15 00:55:21 <@!304977711988867072> On something like this, should the lift overlap with the center of mass or should it be somewhere else?
+plane-crazy 2019-02-15 00:55:52 No matter where I put the lift it seems it always wants to flip over
+plane-crazy 2019-02-15 00:56:13 Should it be above or below at all?
+plane-crazy 2019-02-15 00:56:21 Ok
+plane-crazy 2019-02-15 00:57:19 Ok well
+plane-crazy 2019-02-15 00:57:24 At the moment it is behind
+plane-crazy 2019-02-15 00:57:27 But I still stall
+plane-crazy 2019-02-15 00:57:30 It pulls up
+plane-crazy 2019-02-15 00:57:36 On it's own
+plane-crazy 2019-02-15 00:57:42 But the lift is behind
+plane-crazy 2019-02-15 00:58:17 
+plane-crazy 2019-02-15 00:58:26 Right is front
+plane-crazy 2019-02-15 00:58:33 Yeah
+plane-crazy 2019-02-15 00:59:03 I have no engines providing lift
+plane-crazy 2019-02-15 00:59:05 Only propellers
+plane-crazy 2019-02-15 00:59:19 None pointing forward either
+plane-crazy 2019-02-15 01:00:02 If someone could come to my server and look to see if there's any problems that would be appreciated
+plane-crazy 2019-02-15 01:00:11 I've experimented with this so much but I always get the same problem
+plane-crazy 2019-02-15 01:00:33 yes
+plane-crazy 2019-02-15 01:01:03 Yeah
+plane-crazy 2019-02-15 01:01:27 I've tried like this
+plane-crazy 2019-02-15 01:01:28 
+plane-crazy 2019-02-15 01:01:45 Like this
+plane-crazy 2019-02-15 01:02:04 I've tried with and without wings
+plane-crazy 2019-02-15 01:02:12 Im getting nowhere
+plane-crazy 2019-02-15 01:02:53 I feel like giving up
+plane-crazy 2019-02-15 01:03:34 Yes I want to make something like that
+plane-crazy 2019-02-15 01:03:37 But mine just always flips over
+plane-crazy 2019-02-15 01:03:43 No matter what I try
+plane-crazy 2019-02-15 01:04:40 I guess i'm just gonna give up
+plane-crazy 2019-02-15 01:04:44 I can't figure it out
+plane-crazy 2019-02-15 01:05:33 :/
+plane-crazy 2019-02-20 11:04:45 I saw somebody who put propeller blades on a propeller engine and they spin with it. I can't seem to replicate that though, does anybody know how?
+plane-crazy 2019-02-20 11:06:00 <@!224513422161739776> I thought of that too, but their propeller blades spun up slowly like how the engine did, it wasn't instantaneous like it is with the motors
+plane-crazy 2019-02-20 11:06:38 Multiple motors how???
+plane-crazy 2019-02-20 11:06:42 I don't understand how more would help
+plane-crazy 2019-02-20 11:44:28 Uhhhg, I REALLLY wish you could lock wheels so that they wouldn't rotate left and right
+plane-crazy 2019-02-20 11:46:45 How are anchor blocks going to help?
+plane-crazy 2019-02-20 11:46:47 :/
+plane-crazy 2019-02-20 12:05:59 <@!99607451300548608> You're a propeller master. Can you help me with something?
+plane-crazy 2019-02-20 12:07:54 hhhhh
+plane-crazy 2019-02-20 12:11:01 So, I'm trying to get my plane to have enough speed to actually fly with only propellers/propeller blades/motors. I've seen plenty of vehicles that go very fast with only those two things, but I can't seem to get mine to go fast at all
+plane-crazy 2019-02-20 12:11:07 :C
+plane-crazy 2019-02-20 12:12:12 I don't know what the rope glitch is
+plane-crazy 2019-02-20 12:12:44 Oh
+plane-crazy 2019-02-20 12:12:48 Huh
+plane-crazy 2019-02-20 12:12:52 Ill try that lol
+plane-crazy 2019-02-20 12:14:28 Ok sorry mal
+plane-crazy 2019-02-20 12:18:28 Ok that works
+plane-crazy 2019-02-20 12:18:37 I can take off now. But now I have another problem lol
+plane-crazy 2019-02-20 12:19:16 My plane is constantly leaning to the right, and also doesn't pull up. It's weight is perfectly balanced on both sides, so idk what could possibly be causing it
+plane-crazy 2019-02-20 12:20:43 So turning the torque down will fix the lean issue?
+plane-crazy 2019-02-20 12:21:14 How do I fix that?
+plane-crazy 2019-02-20 12:21:40 So it's impossible to build a single engine plane
+plane-crazy 2019-02-20 12:21:43 ?
+plane-crazy 2019-02-20 12:21:49 That's gay
+plane-crazy 2019-02-20 12:21:55 Then how
+plane-crazy 2019-02-20 12:22:03 Flame how?
+plane-crazy 2019-02-20 12:22:12 I have a single engine plane and it tilts right
+plane-crazy 2019-02-20 12:22:24 everything is perfectly balanced
+plane-crazy 2019-02-20 12:22:36 
+plane-crazy 2019-02-20 12:22:41 
+plane-crazy 2019-02-20 12:23:32 They are, everything is set correctly
+plane-crazy 2019-02-20 12:23:38 And even when I'm not touching them it leans
+plane-crazy 2019-02-20 12:24:24 I checked, it's all correct
+plane-crazy 2019-02-20 12:26:26 :c
+plane-crazy 2019-02-20 12:26:34 I don't
+plane-crazy 2019-02-20 12:26:39 And I'm not sure where the fuselage is
+plane-crazy 2019-02-20 12:26:46 I checked the rudder when you asked me to check the ailerons
+plane-crazy 2019-02-20 12:28:11 But if theres a way to use 1 I'd much MUCH prefer that
+plane-crazy 2019-02-20 12:28:13 What flame said
+plane-crazy 2019-02-20 12:28:26 Flame could you join me and try to help me?
+plane-crazy 2019-02-20 12:28:37 That works?
+plane-crazy 2019-02-20 12:28:40 But
+plane-crazy 2019-02-20 12:28:43 I don't want to use engines
+plane-crazy 2019-02-20 12:28:44 :/
+plane-crazy 2019-02-20 12:29:12 Okay
+plane-crazy 2019-02-20 12:29:13 Cya
+plane-crazy 2019-02-20 12:29:28 ?
+plane-crazy 2019-02-20 12:30:10 Yeah but
+plane-crazy 2019-02-20 12:30:26 Wouldn't that only help with the turning? It also dips down
+plane-crazy 2019-02-20 12:30:36 wait maybe
+plane-crazy 2019-02-20 12:30:46 It dips down because of the turning
+plane-crazy 2019-02-20 12:30:53 Let me try
+plane-crazy 2019-02-20 12:32:27 Flame said that he had a single engine that worked
+plane-crazy 2019-02-20 12:32:33 So I will make a single engine that works
+plane-crazy 2019-02-20 12:33:38 Do wing panels work as propellers?
+plane-crazy 2019-02-20 12:33:44 :/
+plane-crazy 2019-02-20 12:34:06 I'm not using engines
+plane-crazy 2019-02-20 12:35:37 Hidden blades in the body don't work
+plane-crazy 2019-02-20 12:35:42 to counteract it
+plane-crazy 2019-02-20 12:36:59 Or 4. Wait 8 hours for flame to get back on and see how his works
+plane-crazy 2019-02-20 12:37:04 lol
+plane-crazy 2019-02-20 12:37:33 Why?
+plane-crazy 2019-02-20 12:37:52 <@!224513422161739776> Why not?
+plane-crazy 2019-02-20 12:49:51 Ok so <@!224513422161739776> I'm trying to use 2 motors, just to see how well it flies with no issues, but now theres a new problem
+plane-crazy 2019-02-20 12:49:56 :/
+plane-crazy 2019-02-20 12:51:10 <@!224513422161739776> Only one motor spins at a time. I tried doubling one's torque, but that didn't help. I gave it more after that and the back engine froze instead
+plane-crazy 2019-02-20 12:52:00 <@!224513422161739776> https://gyazo.com/66da6705472906044c65334a9b6f0977
+plane-crazy 2019-02-20 12:52:08 Both motors are set correctly
+plane-crazy 2019-02-20 12:52:13 with controls
+plane-crazy 2019-02-20 12:52:32 I did
+plane-crazy 2019-02-20 12:52:37 What is it?
+plane-crazy 2019-02-20 12:53:38 I tried both ways now
+plane-crazy 2019-02-20 12:53:49 If the back motor has double, the front motor freezes
+plane-crazy 2019-02-20 12:53:56 if the other way around, the back motor freezes
+plane-crazy 2019-02-20 12:54:12 I did
+plane-crazy 2019-02-20 12:54:17 Then the back freezes
+plane-crazy 2019-02-20 12:54:43 Nope
+plane-crazy 2019-02-20 12:54:45 Doesnt work
+plane-crazy 2019-02-20 12:54:57 Neither does back 20 front 10
+plane-crazy 2019-02-20 12:55:14 https://gyazo.com/6db372cd49a6669aa2c2714500603f67
+plane-crazy 2019-02-20 12:55:36 :C
+plane-crazy 2019-02-20 12:55:58 I'm so unbelievably confused
+plane-crazy 2019-02-20 12:57:43 According to everyone I HAVE to put another motor
+plane-crazy 2019-02-20 12:57:55 Or use engines, but I don't want to use engines
+plane-crazy 2019-02-20 12:59:19 I know all that
+plane-crazy 2019-02-20 12:59:27 But biplanes aren't twin engine
+plane-crazy 2019-02-20 12:59:36 :/
+plane-crazy 2019-02-20 12:59:51 They fly with 1 engine irl
+plane-crazy 2019-02-20 13:00:05 That's a newer one
+plane-crazy 2019-02-20 13:00:07 I mean the older ones
+plane-crazy 2019-02-20 13:00:13 Which is what i'm trying to replicate
+plane-crazy 2019-02-20 13:00:22 I know they didn't turbo
+plane-crazy 2019-02-20 13:00:45 <@!351809528209080324>
+plane-crazy 2019-02-20 13:01:40 That's not a movie biplane lol
+plane-crazy 2019-02-20 13:01:48 Yeah
+plane-crazy 2019-02-20 13:02:00 How did they fly with only one engine without tilting?
+plane-crazy 2019-02-20 13:02:40 Then how did they counteract it
+plane-crazy 2019-02-20 13:10:27 So what i'm understanding from that video is that going in a straight line with one engine like this shouldn't be a problem, it's only when turning that it has any effect
+plane-crazy 2019-02-20 13:10:44 But mine turns regardless
+plane-crazy 2019-02-20 13:10:53 Am I just not going fast enough?
+plane-crazy 2019-02-20 13:11:29 Yeah it's stupid
+plane-crazy 2019-02-20 13:12:30 I just watched that video on it, their planes didn't have that problem unless they were turning
+plane-crazy 2019-02-21 02:45:25 Im dying lmfaooo
+plane-crazy 2019-02-21 02:45:26 https://gyazo.com/d47ff1a619a05ef8676e833caf818069
+plane-crazy 2019-02-21 02:45:40 This kid is dying
+plane-crazy 2019-02-21 02:45:46 im dying
+plane-crazy 2019-02-21 02:45:54 Too funny
+plane-crazy 2019-02-21 02:46:11 Lmao
+plane-crazy 2019-02-21 02:46:52 <@!434989303882579981> yes
+plane-crazy 2019-02-21 02:47:41 https://gyazo.com/1a341b4a1aca55160062319f8120ccd1
+help 2019-02-27 00:46:28 Are you in a pvp server?
+help 2019-02-27 01:02:00 <@!350241258012278784> Is your impact speed set too high?
+help 2019-02-27 01:02:12 Idk then lol
+plane-crazy 2019-02-28 00:23:14 There needs to be
+plane-crazy 2019-02-28 00:23:20 half triangle wedge up blocks
+plane-crazy 2019-02-28 01:59:36 Wtf how do you color the propellers inside of jet engines
+plane-crazy 2019-02-28 01:59:41 I just did it now I can't do it again
+plane-crazy 2019-02-28 01:59:55 Where? I can't find it
+plane-crazy 2019-02-28 02:00:19 Idk where that is located lol
+plane-crazy 2019-02-28 02:00:27 I've clicked all over this thing
+plane-crazy 2019-02-28 02:01:03 Yeah, but idk where near the cone
+plane-crazy 2019-02-28 02:02:22 This is stupid, why can't you just click the propellers
+plane-crazy 2019-02-28 02:10:00 So uhh
+plane-crazy 2019-02-28 02:10:15 What causes a plane to go into a sort of "drift" when trying to realign it?
+plane-crazy 2019-02-28 02:10:26 Idk if that's understandable or not lol
+plane-crazy 2019-02-28 02:11:17 What happens is I'll spin it to go into a turn, then when I try to spin it back the other way it fights against me, and the backside kind of pulls around like how a car would go into a drift
+plane-crazy 2019-02-28 02:11:24 It's balanced on both sides
+plane-crazy 2019-02-28 02:12:16 How will anchor blocks help?
+plane-crazy 2019-02-28 02:12:18 :/
+plane-crazy 2019-02-28 02:12:34 Why would I do that
+plane-crazy 2019-02-28 02:12:46 Yeah
+plane-crazy 2019-02-28 02:12:55 I guarantee it will
+plane-crazy 2019-02-28 02:13:05 Have you had this problem that I'm having?
+plane-crazy 2019-02-28 02:13:17 Yeah
+plane-crazy 2019-02-28 02:13:18 That's retarded
+plane-crazy 2019-02-28 02:13:39 I'm just saying that it's not really helpful
+plane-crazy 2019-02-28 02:13:53 What do you think i'm asking help for? jesus christ
+plane-crazy 2019-02-28 02:13:57 Quit with the passive agressiveness
+plane-crazy 2019-02-28 02:14:19 <@!279767565444710401> <@!221487880487436288>  i'll send a gif 1 sec
+plane-crazy 2019-02-28 02:14:33 lol flame
+plane-crazy 2019-02-28 02:15:47 I do appreciate the offer of help greatly, but just because I say it's not a great idea doesn't mean I'm attacking you
+plane-crazy 2019-02-28 02:16:08 Yes, and when I say I don't want to do it you say "just fix your plane then lmao"
+plane-crazy 2019-02-28 02:16:14 That's passive aggressive for no reason.
+plane-crazy 2019-02-28 02:16:37 Yes, because you shouldn't have to anchor the entire thing to turn it
+plane-crazy 2019-02-28 02:16:38 It is retarded
+plane-crazy 2019-02-28 02:16:41 Yes I do
+plane-crazy 2019-02-28 02:16:42 https://gyazo.com/602ac87b609d099d1cf19741ccb8ec2c
+plane-crazy 2019-02-28 02:16:52 During this whole motion I was pitching left
+plane-crazy 2019-02-28 02:17:16 What is wrong with them? lol
+plane-crazy 2019-02-28 02:17:58 Oh shit
+plane-crazy 2019-02-28 02:18:05 I pinged you on accident flamesword lol
+plane-crazy 2019-02-28 02:18:29 <@!221487880487436288> I had it like that before, but then I can't turn at all
+plane-crazy 2019-02-28 02:19:07 Idk what canards are lol
+plane-crazy 2019-02-28 02:19:23 Ok i'll try that
+plane-crazy 2019-02-28 02:21:22 That helped <@!264769733021270016>
+plane-crazy 2019-02-28 02:21:24 a bit
+plane-crazy 2019-02-28 02:21:41 It helped
+plane-crazy 2019-02-28 02:21:42 a little
+plane-crazy 2019-02-28 02:22:22 1 sec
+plane-crazy 2019-02-28 02:23:33 I have to make the front a bit heavier hold on
+plane-crazy 2019-02-28 02:26:41 https://gyazo.com/907c0a28713d74dbd484caea7a1230d8
+plane-crazy 2019-02-28 02:27:00 I wish gyazo recorded longer
+plane-crazy 2019-02-28 02:56:34 rip
+plane-crazy 2019-02-28 03:56:02 cringe
+plane-crazy 2019-03-01 07:06:07 this game needs
+plane-crazy 2019-03-01 07:06:13 glass triangle wedgeblock
+plane-crazy 2019-03-01 07:07:44 :v
+plane-crazy 2019-03-01 07:37:08 lmao
+plane-crazy 2019-03-01 08:19:14 What causes spotlight blocks to not make any light?
+plane-crazy 2019-03-01 08:19:20 :/
+plane-crazy 2019-03-01 08:20:19 https://gyazo.com/07ea7a9618908d1199d1f4a107c645fc
+plane-crazy 2019-03-01 08:20:29 Is there something wrong with these settings?
+plane-crazy 2019-03-01 08:21:42 Oh
+plane-crazy 2019-03-01 08:21:48 I thought that was the direction the light went in
+plane-crazy 2019-03-01 08:22:04 Ohh okay
+plane-crazy 2019-03-01 08:22:09 Thanks
+plane-crazy 2019-03-01 08:22:11 I get it now
+plane-crazy 2019-03-01 08:22:15 I thought it meant like,
+plane-crazy 2019-03-01 08:22:22 the angle that it shined down
+plane-crazy 2019-03-01 08:22:23 idk
+plane-crazy 2019-03-01 09:36:29 I accidentally made a spaceship that lags the server
+plane-crazy 2019-03-01 09:36:34 And now I feel bad for other people when I test it
+plane-crazy 2019-03-01 09:36:35 lmao
+help 2019-03-01 09:38:35 You can't build for other people
+help 2019-03-01 09:38:46 What are the things?
+help 2019-03-01 09:39:28 Use magnets? Idk
+help 2019-03-01 09:39:56 Idk how to help you with that. I'd just experiment with magnets
+plane-crazy 2019-03-01 09:50:54 cool
+plane-crazy 2019-03-01 10:31:59 Holy hell I can not believe I actually got this thing to fly
+plane-crazy 2019-03-01 11:18:10 agree
+plane-crazy 2019-03-01 11:34:21 there needs to be a drake and josh meme rank
+plane-crazy 2019-03-01 11:34:24 "SPHERICAL"
+plane-crazy 2019-03-01 11:34:26 jk
+plane-crazy 2019-03-01 11:35:13 Hmm
+plane-crazy 2019-03-01 11:38:45 <:THONK:527880803456122891>
+creations-chat 2019-03-01 12:09:45 Interstellar Personal Cruiser
+creations-chat 2019-03-01 12:09:50 
+creations-chat 2019-03-01 12:09:56 
+creations-chat 2019-03-01 12:10:02 
+creations-chat 2019-03-01 12:10:06 
+creations-chat 2019-03-01 12:10:12 ?
+creations-chat 2019-03-01 12:10:23 wat lol
+plane-crazy 2019-03-01 12:12:39 what kind of ranks could I get for something like this lol
+plane-crazy 2019-03-01 12:13:23 wow rude
+plane-crazy 2019-03-01 12:13:29 I only spent all night on it, not that long
+plane-crazy 2019-03-01 12:13:34 yes
+plane-crazy 2019-03-01 12:13:38 Lol
+plane-crazy 2019-03-01 12:14:33 Why do you have a trojan
+plane-crazy 2019-03-01 12:19:16 Lmao
+plane-crazy 2019-03-01 13:03:31 lies
+creations-chat 2019-03-01 13:29:26 yes
+plane-crazy 2019-03-01 13:30:04 https://gyazo.com/9c422400abbe6668eb1ecad8e3483cb4
+plane-crazy 2019-03-01 13:30:06 this cracked me up
+plane-crazy 2019-03-02 15:30:36 How much power does a snow blaster put out?
+plane-crazy 2019-03-02 15:30:45 compared to like, a super rocket
+plane-crazy 2019-03-02 15:37:45 I wanT TO JoIN vIp 2
+plane-crazy 2019-03-02 22:23:45 Build the drill that will pierce the heavens
+plane-crazy 2019-03-03 00:00:05 huh
+plane-crazy 2019-03-03 00:00:18 Oh shoot I just realized I haven't been ranked for my ship kek
+plane-crazy 2019-03-03 00:09:11 Can something qualify for more than one rank?
+plane-crazy 2019-03-03 00:09:29 Ok
+plane-crazy 2019-03-03 00:09:58 lol
+creations-chat 2019-03-03 00:21:15 <@!163143541160148992> Requesting Master Technician and Master Engineer ranks, also possibly Modeler. I've never seen anything look like this before, but I could be wrong in that something doesn't exist like it.
+creations-chat 2019-03-03 00:21:21 
+creations-chat 2019-03-03 00:21:42 
+creations-chat 2019-03-03 00:21:46 I did
+creations-chat 2019-03-03 00:21:51 Oh
+creations-chat 2019-03-03 00:21:52 In here
+creations-chat 2019-03-03 00:21:53 sorry
+creations-chat 2019-03-03 00:22:00 <@456226577798135808>
+creations-chat 2019-03-03 00:22:14 Lol
+creations-chat 2019-03-03 00:22:53 Thanks
+creations-chat 2019-03-03 00:23:07 Yeah?
+creations-chat 2019-03-03 00:23:11 Cool
+creations-chat 2019-03-03 00:23:46 Thanks man
+creations-chat 2019-03-03 00:24:06 Lol
+creations-chat 2019-03-03 00:24:27 Btw how do I set a color rank?
+creations-chat 2019-03-03 00:24:30 The legs fold back
+creations-chat 2019-03-03 00:24:32 mid flight
+creations-chat 2019-03-03 00:24:36 and act as extra thrusters
+creations-chat 2019-03-03 00:25:05 <@!264769733021270016>
+creations-chat 2019-03-03 00:25:22 Lol
+plane-crazy 2019-03-03 00:26:48 How do I change my name color?
+plane-crazy 2019-03-03 00:26:59 That's not clickable
+plane-crazy 2019-03-03 00:27:00 lol
+plane-crazy 2019-03-03 00:27:08 I'm not?
+plane-crazy 2019-03-03 00:27:13 lol
+plane-crazy 2019-03-03 00:27:13 How do I get ranked
+plane-crazy 2019-03-03 00:27:28 <@456226577798135808> Can you give me the Ranked rank
+plane-crazy 2019-03-03 00:27:29 lol
+plane-crazy 2019-03-03 00:27:48 Sorry for bugging you
+plane-crazy 2019-03-03 00:27:54 I did not have that before
+plane-crazy 2019-03-03 00:27:58 you cheeky
+plane-crazy 2019-03-03 00:27:59 thing
+plane-crazy 2019-03-03 00:28:32 wew
+plane-crazy 2019-03-03 00:30:52 How do you make light blocks glow? I set it's brightness up to max but it still looks bleh
+plane-crazy 2019-03-03 00:31:01 not glowy
+plane-crazy 2019-03-03 00:31:04 It makes light but it doesnt glow
+plane-crazy 2019-03-03 00:31:07 It is on night
+plane-crazy 2019-03-03 00:31:10 I don't mean the light  itself
+plane-crazy 2019-03-03 00:31:14 I mean the block
+plane-crazy 2019-03-03 00:31:17 doesn't look neon
+plane-crazy 2019-03-03 00:31:21 like other people's
+plane-crazy 2019-03-03 00:31:48 What do you mean?
+plane-crazy 2019-03-03 00:31:54 I don't quite understand
+plane-crazy 2019-03-03 00:33:37 Yes but look
+plane-crazy 2019-03-03 00:33:38 This is max brightness cyan
+plane-crazy 2019-03-03 00:33:40 they don't glow
+plane-crazy 2019-03-03 00:33:42 only make light
+plane-crazy 2019-03-03 00:34:09 I can't lol
+plane-crazy 2019-03-03 00:34:13 I have to use half blocks there
+plane-crazy 2019-03-03 00:34:19 big gay
+creations-chat 2019-03-03 01:10:08 Yeah I would up the other colors by about 65ish
+the-dump 2019-03-03 03:14:30 wew
+plane-crazy 2019-03-04 07:48:00 How complicated does a creation have to be to get inventor?
+plane-crazy 2019-03-04 07:49:05 I know
+plane-crazy 2019-03-04 07:49:10 I meant the mechanism
+plane-crazy 2019-03-04 07:49:38 Idk if anyone else has made this before
+plane-crazy 2019-03-04 07:49:44 It's a speedboat drifting mechanism
+plane-crazy 2019-03-04 07:49:49 It's really simple, but i've never seen one before
+plane-crazy 2019-03-04 07:50:45 The boat has a rotating motor that is stopped by two prongs hanging down that get in it's way from turning too much, but when you hold shift the prongs lift a tiny bit, letting the motor turn enough to go into a drifting motion
+plane-crazy 2019-03-04 07:51:12 But not enough that they just spin completely in the opposite direction
+plane-crazy 2019-03-04 07:52:24 Lol
+plane-crazy 2019-03-04 07:52:38 
+plane-crazy 2019-03-04 07:53:09 It's the thing I made
+plane-crazy 2019-03-04 07:53:16 It lets my speedboat drift
+plane-crazy 2019-03-04 07:53:33 It's simple though and I wonder if it qualifies for inventor rank, assuming I came up with it
+plane-crazy 2019-03-04 07:53:37 https://gyazo.com/775bd318a07ab789dd3bca925283dfbd
+plane-crazy 2019-03-04 07:54:41 https://gyazo.com/fc0c93eb317d8fa6ffa93a0d8190bd0b
+plane-crazy 2019-03-04 07:55:57 No lol
+plane-crazy 2019-03-04 07:56:03 Im not talking about the steering
+plane-crazy 2019-03-04 07:56:19 It has a normal steering and a drift that goes when you hold shift
+plane-crazy 2019-03-04 07:56:31 didn't you read my description
+plane-crazy 2019-03-04 07:56:34 :v
+plane-crazy 2019-03-04 15:05:43 
+plane-crazy 2019-03-04 15:05:44 huh
+plane-crazy 2019-03-04 15:06:51 This is trippy
+plane-crazy 2019-03-04 15:16:59 Im not in a vip server
+plane-crazy 2019-03-04 15:17:03 I don't have access to any
+creations-chat 2019-03-04 15:18:12 Clear Solitude
+creations-chat 2019-03-04 15:18:20 
+creations-chat 2019-03-04 15:21:13 
+creations-chat 2019-03-04 15:23:49 Kinda
+creations-chat 2019-03-04 15:53:22 Thank you
+plane-crazy 2019-03-05 00:17:33 Hey Imperial
+plane-crazy 2019-03-05 00:17:40 May I have Expert Designer
+plane-crazy 2019-03-05 00:17:45 I got 15 upvotes
+plane-crazy 2019-03-05 00:17:51 k
+plane-crazy 2019-03-05 00:18:05 https://gyazo.com/631549773015c24fb1fbdb35301cac6c
+plane-crazy 2019-03-05 00:18:18 I always self upvote
+plane-crazy 2019-03-05 00:18:20 ;)
+plane-crazy 2019-03-05 00:18:25 I don't count it though
+plane-crazy 2019-03-05 00:18:29 it's 17 upvotes
+plane-crazy 2019-03-05 00:19:02 Gracias
+plane-crazy 2019-03-05 00:19:24 same
+plane-crazy 2019-03-05 00:56:09 yes ban
+plane-crazy 2019-03-05 00:56:13 no jk
+plane-crazy 2019-03-05 00:56:14 no ban
+plane-crazy 2019-03-05 00:56:51 LOL
+plane-crazy 2019-03-05 12:40:02 same
+plane-crazy 2019-03-06 00:39:20 <:THONK:527880803456122891>
+plane-crazy 2019-03-06 00:39:54 lets turn planewell into crazywell
+plane-crazy 2019-03-06 08:09:53 What
+plane-crazy 2019-03-06 08:10:02 A half block isn't a full block made half transparent
+plane-crazy 2019-03-06 08:10:04 lol
+plane-crazy 2019-03-06 08:10:11 It's a full block with a half block mesh
+plane-crazy 2019-03-06 08:10:21 I think?
+plane-crazy 2019-03-06 08:10:54 very cool <@!228115104061849612>
+creations-chat 2019-03-06 08:40:05 Imperial Strike Bomber
+creations-chat 2019-03-06 08:40:14 
+creations-chat 2019-03-06 08:40:21 
+creations-chat 2019-03-06 08:40:31 
+creations-chat 2019-03-06 08:41:00 <@!271299269984518155> Requesting Lag Machine maybe?
+creations-chat 2019-03-06 08:42:40 Nice
+plane-crazy 2019-03-06 09:28:31 Probably
+creations-chat 2019-03-06 09:54:27 Added deployable landing gear things
+plane-crazy 2019-03-06 09:55:05 lol
+plane-crazy 2019-03-06 09:55:25 <:TRIGGERED:522821633426194454>
+plane-crazy 2019-03-06 09:57:04 There was??
+plane-crazy 2019-03-06 10:03:29 <@456226577798135808> That's been like that for a while o.o
+plane-crazy 2019-03-06 10:03:40 Or at least as long as I've played
+plane-crazy 2019-03-06 10:09:10 How so?
+plane-crazy 2019-03-06 12:09:07 you reset too hard
+plane-crazy 2019-03-06 12:57:24 Yo wait what, how do you get the pilot ranks?
+plane-crazy 2019-03-06 13:00:17 No I don't mean technician
+plane-crazy 2019-03-06 13:00:31 You think I didn't?
+plane-crazy 2019-03-06 13:00:35 Why would I be asking this
+plane-crazy 2019-03-06 13:00:43 Read <@!435946988559925248> ranks
+plane-crazy 2019-03-06 13:00:51 "ace pilot"
+plane-crazy 2019-03-06 13:01:10 sit down
+plane-crazy 2019-03-06 13:01:58 I have a feeling that's not all there is to it.
+plane-crazy 2019-03-06 13:03:20 Im not asking how to get ranks in general lol
+plane-crazy 2019-03-06 13:03:29 I already have ranks
+plane-crazy 2019-03-06 13:04:01 Bruh, you're not following the conversation lmfao
+plane-crazy 2019-03-06 13:04:19 Stop butting in when you don't know what you're talking about
+plane-crazy 2019-03-06 13:05:05 Im asking how to get the ***ACE PILOT*** rank.
+plane-crazy 2019-03-06 13:05:08 Not just any rank
+plane-crazy 2019-03-06 13:19:47 There's nothing wrong with liking your own creations
+plane-crazy 2019-03-06 13:19:54 As long as you actually like it
+plane-crazy 2019-03-06 13:23:02 True
+plane-crazy 2019-03-06 13:33:29 Lmfao
+plane-crazy 2019-03-06 13:34:01 Then save the gif as an mp4
+plane-crazy 2019-03-06 13:34:05 or something
+plane-crazy 2019-03-06 13:40:08 https://gyazo.com/e44a751e690b9d17a5273e5117377a11
+plane-crazy 2019-03-06 13:40:13 I made this with no helium and it hovers
+plane-crazy 2019-03-06 13:40:53 Yes
+plane-crazy 2019-03-06 13:41:03 The dark blue pillar on the bottom is ballast
+plane-crazy 2019-03-06 13:41:19 A whole night
+plane-crazy 2019-03-06 13:41:28 or
+plane-crazy 2019-03-06 13:41:31 half a night anyways
+plane-crazy 2019-03-06 13:41:35 probably 2 am to 6 am
+plane-crazy 2019-03-06 13:42:08 im better at artistic stuff at night
+plane-crazy 2019-03-06 13:42:09 idk why
+plane-crazy 2019-03-07 00:15:13 How does the alpha badge have a 62.7% rarity if everyone who plays should have it?
+plane-crazy 2019-03-07 00:15:15 <:THONK:527880803456122891>
+plane-crazy 2019-03-07 00:15:41 I was using your name as an example
+plane-crazy 2019-03-07 00:15:42 sorry
+plane-crazy 2019-03-07 00:16:06 I was asking if anyone knew how to get the ace pilot, etc ranks that you have, and some dude was being stupid
+plane-crazy 2019-03-07 00:16:23 telling me to read the rank channel
+plane-crazy 2019-03-07 00:16:27 like a moron
+plane-crazy 2019-03-07 00:16:40 :v
+plane-crazy 2019-03-07 00:19:00 <@456226577798135808> How do you get the pilot ranks? Or can you not anymore
+plane-crazy 2019-03-07 00:19:20 Okay, thank you
+plane-crazy 2019-03-07 08:40:35 dang
+plane-crazy 2019-03-08 05:23:32 hm
+plane-crazy 2019-03-08 05:29:46 WOW I FEEL STUPID
+plane-crazy 2019-03-08 05:30:03 All this time i've been playing this game making big gay spaceships and planes
+plane-crazy 2019-03-08 05:30:10 I never once thought to build a final fantasy style airship
+plane-crazy 2019-03-08 05:30:16 which is one of my favorite things
+plane-crazy 2019-03-08 05:30:31 :v
+plane-crazy 2019-03-08 05:30:31 You asked
+plane-crazy 2019-03-08 05:31:03 <:kek:532300771769974827>
+plane-crazy 2019-03-08 06:50:54 Wtf
+plane-crazy 2019-03-08 06:51:18 Why do trap doors lock permanently after opening and closing them once?
+plane-crazy 2019-03-08 06:51:45 Anyone know??
+plane-crazy 2019-03-08 06:55:10 Wtf this is really annoying
+plane-crazy 2019-03-08 06:55:12 >:C
+plane-crazy 2019-03-08 07:05:34 Does anybody know how to use trapdoors without having them lock up?
+plane-crazy 2019-03-08 07:13:41 I did, they aren't set to lock
+plane-crazy 2019-03-08 07:13:54 They open once, and close once before basically disabling
+plane-crazy 2019-03-08 07:14:14 <@456226577798135808>
+plane-crazy 2019-03-08 07:14:49 It's fine though, i'm making a door a different way now
+plane-crazy 2019-03-08 07:14:54 trapdoors got on my nerves
+plane-crazy 2019-03-08 07:24:46 https://gyazo.com/c574956b82ba627cc3c1e0a648642676
+plane-crazy 2019-03-08 12:18:26 oof i only just realized that i dont have snow blower engines on my alt
+plane-crazy 2019-03-08 12:18:30 how am I that dumb
+plane-crazy 2019-03-08 12:19:36 lol
+plane-crazy 2019-03-08 12:19:47 Rip him
+plane-crazy 2019-03-08 12:19:50 Show image I want to see
+plane-crazy 2019-03-08 12:21:44 Wym tougher
+plane-crazy 2019-03-08 12:22:07 Oh
+plane-crazy 2019-03-08 12:22:36 For some reason my initial thought of tougher wings was they were more resistant to force when flying with them unlocked lol
+plane-crazy 2019-03-08 12:22:47 oh wait
+plane-crazy 2019-03-08 12:22:48 thats motors
+plane-crazy 2019-03-08 12:22:51 I need sleep
+plane-crazy 2019-03-08 12:23:11 Nice
+plane-crazy 2019-03-08 12:23:19 Im working on a 3k block creation atm
+plane-crazy 2019-03-08 12:23:44 It's almost done
+plane-crazy 2019-03-08 12:23:49 Im just making it lift now
+plane-crazy 2019-03-08 12:24:45 Jetski
+plane-crazy 2019-03-08 12:24:57 Waverace 64
+plane-crazy 2019-03-08 12:25:05 Lol
+plane-crazy 2019-03-08 12:26:46 Jeez
+plane-crazy 2019-03-08 12:26:52 This is going to take so many propeller engines
+plane-crazy 2019-03-08 12:27:21 how 2 hack in snowblower engines
+plane-crazy 2019-03-08 12:27:23 jk
+plane-crazy 2019-03-08 12:27:43 A lot
+plane-crazy 2019-03-08 12:27:47 engines are diminishing returns
+plane-crazy 2019-03-08 12:27:59 Lol
+plane-crazy 2019-03-08 12:30:15 It does look easy
+plane-crazy 2019-03-08 12:30:28 I've made shapes like that before
+plane-crazy 2019-03-08 12:30:47 Tf is that image
+plane-crazy 2019-03-08 12:30:58 Oh
+plane-crazy 2019-03-08 12:31:00 OH
+plane-crazy 2019-03-08 12:31:08 What LOL
+plane-crazy 2019-03-08 12:31:12 <:whymydolphinnotworking:552912733008429081>
+plane-crazy 2019-03-08 12:31:26 thats some funny stuff
+plane-crazy 2019-03-08 12:57:22 aaaAAAA
+plane-crazy 2019-03-08 12:57:26 I can't get this thing to hover
+plane-crazy 2019-03-08 13:26:20 So uhhhhhhhh
+plane-crazy 2019-03-08 13:26:43 If you attach helium blocks to something, does the entire thing lose weight or does the helium pull on it wherever it's attached?
+plane-crazy 2019-03-08 13:27:03 Ok that's my issue then
+plane-crazy 2019-03-08 13:27:11 I've been trying to get this thing to work for ages
+plane-crazy 2019-03-08 13:27:18 Ok thank you
+plane-crazy 2019-03-08 13:27:31 https://gyazo.com/0b1a3e1d9020302930f790217dd66c63
+plane-crazy 2019-03-08 13:27:33 This thing
+plane-crazy 2019-03-08 13:27:49 It is balanced out
+plane-crazy 2019-03-08 13:28:19 When it lifts up the top flops down over the side because it's topheavy, and because the entire thing is weightless instead of just the balloons
+plane-crazy 2019-03-08 13:28:40 But now that I know rope works differently it should help
+plane-crazy 2019-03-08 13:28:47 Yeah hold on
+plane-crazy 2019-03-08 13:28:54 It will be laggy sorry
+plane-crazy 2019-03-08 13:29:00 3.5k blocks
+plane-crazy 2019-03-08 13:29:02 Yeah
+plane-crazy 2019-03-08 13:29:06 I get that now
+plane-crazy 2019-03-08 13:30:10 oof I couldn't get the whole thing because it went so slow
+plane-crazy 2019-03-08 13:30:17 but you can see what it's doing
+plane-crazy 2019-03-08 13:30:18 https://gyazo.com/e3ae8ca06fc9008e576b823fffd110bd
+plane-crazy 2019-03-08 13:30:49 Yeah
+plane-crazy 2019-03-08 13:30:54 But it should be balanced in the middle
+plane-crazy 2019-03-08 13:31:11 It has engines
+plane-crazy 2019-03-08 13:31:16 that's what pushes it up
+plane-crazy 2019-03-08 13:31:44 I would have to constantly have those active to balance it
+plane-crazy 2019-03-08 13:31:56 I want to be able to walk around on this thing as it hovers
+plane-crazy 2019-03-08 13:32:09 It has ballast on the bottom
+plane-crazy 2019-03-08 13:32:17 at least a thousand blocks worth of density
+plane-crazy 2019-03-08 13:32:42 I'm pretty sure rope will fix my issue
+plane-crazy 2019-03-08 13:32:44 Hold on
+plane-crazy 2019-03-08 13:33:02 If it doesn't i'll let you know
+plane-crazy 2019-03-08 13:33:15 I'm gonna tighten the rope 100%
+plane-crazy 2019-03-08 13:34:34 Yes but since it changes how the balloons effect the vehicle, it might help
+plane-crazy 2019-03-08 13:38:00 <@!216371990959882241> The ropes did fix the issue
+plane-crazy 2019-03-08 13:38:03 But now theres a new issue
+plane-crazy 2019-03-08 13:38:08 https://gyazo.com/ff7aa99c44a5825559943fd0b17d87dc
+plane-crazy 2019-03-08 13:38:27 1 on each balloon
+plane-crazy 2019-03-08 13:38:51 It's not the ropes that cause the issue
+plane-crazy 2019-03-08 13:38:55 It's the weight distribution
+plane-crazy 2019-03-08 13:39:00 They are motorized?
+plane-crazy 2019-03-08 13:39:03 Wym
+plane-crazy 2019-03-08 13:39:10 Im bad at mechanics lol
+plane-crazy 2019-03-08 13:39:17 Yeah?
+plane-crazy 2019-03-08 13:39:27 Idk what a swash plate is
+plane-crazy 2019-03-08 13:39:34 Lol
+plane-crazy 2019-03-08 13:39:41 Im a newbie when it comes to mechanical stuff
+plane-crazy 2019-03-08 13:40:06 Guys it's not the propellers lol
+plane-crazy 2019-03-08 13:40:18 It's the weight distribution. The ship itself tilts forward, the balloons stay straight
+plane-crazy 2019-03-08 13:41:30 The balloons themselves would need to be moved forward quite a few blocks to center it like that
+plane-crazy 2019-03-08 13:42:13 And I REALLLLLYY do not want to rebuild those things
+plane-crazy 2019-03-08 13:42:25 Getting those elongated sphere shapes are a pain in the ass
+plane-crazy 2019-03-08 13:42:35 well, tedious at minimum
+plane-crazy 2019-03-08 13:42:42 Idk
+plane-crazy 2019-03-08 13:43:24 Thanks for the help you guys btw
+plane-crazy 2019-03-08 13:45:56 Okay, I'll try
+plane-crazy 2019-03-08 13:46:14 Okay
+plane-crazy 2019-03-08 13:46:51 Idk, I haven't started yet
+plane-crazy 2019-03-08 13:46:59 Probably the right side
+plane-crazy 2019-03-08 13:47:36 Ok
+plane-crazy 2019-03-08 13:48:08 Yeah
+plane-crazy 2019-03-08 13:49:22 Wait, does restitution make the rope firmer or looser?
+plane-crazy 2019-03-08 13:49:59 Idk what you mean
+plane-crazy 2019-03-08 13:50:01 Add them where?
+plane-crazy 2019-03-08 13:50:22 I agree
+plane-crazy 2019-03-08 13:50:53 I feel sorry for the people in my server
+plane-crazy 2019-03-08 13:50:55 ;c
+plane-crazy 2019-03-08 13:52:17 https://gyazo.com/27eec6454af1e9554cc39f7f3284ba96 Well I've almost got it balanced out
+plane-crazy 2019-03-08 13:55:21 LOL
+plane-crazy 2019-03-08 13:55:30 oof
+plane-crazy 2019-03-08 13:55:34 He didn't do anything wrong :c
+plane-crazy 2019-03-08 13:55:35 Yes?
+plane-crazy 2019-03-08 13:55:41 I am
+plane-crazy 2019-03-08 13:55:48 Lots of it
+plane-crazy 2019-03-08 13:55:49 lol
+plane-crazy 2019-03-08 13:56:09 Probably an unnecessary amount
+plane-crazy 2019-03-08 13:56:19 It was just a joke tho
+plane-crazy 2019-03-08 13:56:21 lol
+plane-crazy 2019-03-08 13:56:39 I know
+plane-crazy 2019-03-08 13:57:56 What the
+plane-crazy 2019-03-08 13:58:08 
+plane-crazy 2019-03-08 13:58:09 Why cant I move my build down
+plane-crazy 2019-03-08 13:58:14 >.>
+plane-crazy 2019-03-08 13:58:59 Thank you
+plane-crazy 2019-03-08 13:59:31 So if I want my ropes to be closer to poles of iron, do I make their restitution high or no?
+plane-crazy 2019-03-08 14:06:39 Im getting close to getting this thing done
+plane-crazy 2019-03-08 14:06:41 ;o
+plane-crazy 2019-03-08 14:14:21 <@!216371990959882241> Are the propeller motors supposed to be locked? The sideways ones
+plane-crazy 2019-03-08 14:14:28 Because mine flatten out
+plane-crazy 2019-03-08 14:15:44 Ok
+plane-crazy 2019-03-08 14:17:00 Also turbo
+plane-crazy 2019-03-08 14:17:13 If I want super stiff ropes do I make the restitution higher or lower?
+plane-crazy 2019-03-08 14:17:58 Ok
+plane-crazy 2019-03-08 14:23:43 Well, I would say i've gotten my airship to work
+plane-crazy 2019-03-08 14:23:53 I just have to make the back heavier now and add a way to steer
+plane-crazy 2019-03-08 14:24:07 Thank you <@!216371990959882241> for the propeller tip
+plane-crazy 2019-03-08 14:25:33 💩 build this
+plane-crazy 2019-03-08 14:25:50 propeller motors are motors that use propellers
+plane-crazy 2019-03-08 14:26:10 Lol
+plane-crazy 2019-03-08 14:26:12 that use
+plane-crazy 2019-03-08 14:26:12 they are motors
+plane-crazy 2019-03-08 14:26:14 propellers
+plane-crazy 2019-03-08 14:26:18 attached to them
+plane-crazy 2019-03-08 14:26:23 I do get you
+plane-crazy 2019-03-08 14:26:26 Theres only motors
+plane-crazy 2019-03-08 14:26:30 if you attach propellers to them
+plane-crazy 2019-03-08 14:26:33 they become propeller motors
+plane-crazy 2019-03-08 14:26:40 Lmao ok
+plane-crazy 2019-03-08 14:57:32 Restitution makes my ship vibrate hard
+plane-crazy 2019-03-08 14:57:33 rip
+plane-crazy 2019-03-08 14:58:52 Do rope ladders work?
+plane-crazy 2019-03-08 14:59:45 Like, could you make a ladder from rope and be able to climb it
+plane-crazy 2019-03-08 14:59:50 lol
+plane-crazy 2019-03-08 14:59:50 I know thats why im asking
+plane-crazy 2019-03-08 15:00:08 I guess ill try
+plane-crazy 2019-03-08 15:00:25 Damn this build is almost 4k blocks
+plane-crazy 2019-03-08 15:00:29 I might get server exterminator
+plane-crazy 2019-03-08 15:00:40 Nice
+plane-crazy 2019-03-08 15:04:09 Woah
+plane-crazy 2019-03-08 15:04:14 rope ladders work way better than I thought
+plane-crazy 2019-03-08 15:32:27 yEs
+plane-crazy 2019-03-08 15:32:31 I've finished it
+plane-crazy 2019-03-08 15:32:33 https://gyazo.com/9b2943a14b50bfedbdd4b3342310936e
+plane-crazy 2019-03-08 15:32:50 Smooth sailing
+plane-crazy 2019-03-08 15:33:23 It just takes a bit of patience to pilot
+plane-crazy 2019-03-08 15:33:47 Have to micromanage the balloons' rotation
+plane-crazy 2019-03-08 15:35:41 Lmfao
+plane-crazy 2019-03-08 15:38:39 https://gyazo.com/f394a4d988664c1270a672476b6a12d0
+plane-crazy 2019-03-08 15:38:46 oof
+plane-crazy 2019-03-08 15:38:54 guys im scared
+plane-crazy 2019-03-08 16:00:25 Guys I need a name for a flying ship
+plane-crazy 2019-03-08 16:00:30 Idk what to name it
+plane-crazy 2019-03-08 16:05:36 Thats a big oof my dude
+plane-crazy 2019-03-08 16:06:35 rip
+creations-chat 2019-03-08 16:14:26 <@456226577798135808> I love your genos hand dude, seriously. I'm completely blown away by it
+creations-chat 2019-03-08 16:16:00 The Northern Spell Airship
+creations-chat 2019-03-08 16:16:06 
+creations-chat 2019-03-08 16:16:10 
+creations-chat 2019-03-08 16:17:20 
+plane-crazy 2019-03-08 16:18:21 I think I heard of one
+plane-crazy 2019-03-08 16:18:32 a while back, I don't remember what it was called
+plane-crazy 2019-03-08 16:18:34 something space program
+plane-crazy 2019-03-08 16:18:36 or something
+plane-crazy 2019-03-08 16:21:16 epic gamer moment
+plane-crazy 2019-03-08 16:25:00 <@!260797229068058634> Wym kerbal?
+plane-crazy 2019-03-08 16:25:30 Yeah what about it?
+plane-crazy 2019-03-08 16:25:33 lol
+plane-crazy 2019-03-08 16:25:47 Ohh
+plane-crazy 2019-03-08 16:25:50 Okay lol
+plane-crazy 2019-03-08 16:26:02 I thought you were saying kerbal to the image I posted, I was confused kek
+plane-crazy 2019-03-08 16:26:54 Wait
+plane-crazy 2019-03-08 16:28:05 Could I get the lag overseer rank for what I just posted in creations? It doesn't meet the pitch/roll requirement, but that's because that's not the kind of ship it is. It does everything else fine
+plane-crazy 2019-03-08 16:28:14 If that's not allowed it's okay
+plane-crazy 2019-03-08 16:30:12 <@!271299269984518155>
+creations-chat 2019-03-08 16:31:22 <3
+creations-chat 2019-03-08 16:31:28 Lol
+creations-chat 2019-03-08 16:31:40 maybe
+creations-chat 2019-03-08 16:31:47 what
+plane-crazy 2019-03-08 16:32:14 peng
+plane-crazy 2019-03-08 16:34:58 Awesome
+plane-crazy 2019-03-08 16:41:36 Blackbird
+plane-crazy 2019-03-08 16:41:55 <@!260797229068058634> I have a question
+plane-crazy 2019-03-09 01:19:28 What was the update?
+plane-crazy 2019-03-09 01:30:02 What the hell
+plane-crazy 2019-03-09 01:30:06 Has there really been an update?
+plane-crazy 2019-03-09 01:30:15 I can't spawn my airship anymore without the game crashing
+plane-crazy 2019-03-09 01:30:26 D:
+plane-crazy 2019-03-09 01:30:48 !changelog
+plane-crazy 2019-03-09 01:30:57 huh
+plane-crazy 2019-03-09 01:31:08 Im salty
+plane-crazy 2019-03-09 01:31:12 I cant spawn without disconnecting
+plane-crazy 2019-03-09 01:31:43 <:fix:548709302282747914>
+plane-crazy 2019-03-09 01:31:52 yes please revert
+plane-crazy 2019-03-09 01:31:55 I cant even spawn
+plane-crazy 2019-03-09 01:32:48 same hud
+plane-crazy 2019-03-09 01:32:50 Im salty
+plane-crazy 2019-03-09 02:04:43 hhhh
+plane-crazy 2019-03-09 02:04:46 I literally can't play
+plane-crazy 2019-03-09 02:04:52 because my game crashes when I load anything
+plane-crazy 2019-03-09 02:05:06 Im angry
+plane-crazy 2019-03-09 02:05:11 Why do I crash
+plane-crazy 2019-03-09 02:05:26 When will he revert V0xel
+plane-crazy 2019-03-09 02:05:28 >:C
+plane-crazy 2019-03-09 02:05:56 It seems like you'd just revert immediately after people start having issues like this
+plane-crazy 2019-03-09 02:05:59 but that's just me
+plane-crazy 2019-03-09 02:06:26 It's not that my stuff doesn't work, it's that my entire game doesnt work lol
+plane-crazy 2019-03-09 02:06:35 That too
+plane-crazy 2019-03-09 02:06:41 Lol
+plane-crazy 2019-03-09 02:07:27 Yeah
+plane-crazy 2019-03-09 02:07:31 I tried to load something and crashed
+plane-crazy 2019-03-09 02:08:22 lol
+plane-crazy 2019-03-09 02:52:38 What about f
+plane-crazy 2019-03-09 02:52:46 F
+plane-crazy 2019-03-09 02:53:00 Lmfao
+plane-crazy 2019-03-09 04:41:02 Welp
+plane-crazy 2019-03-09 04:41:08 I tried loading a tiny build, still crashed
+plane-crazy 2019-03-09 04:41:09 rip me
+plane-crazy 2019-03-09 04:53:39 How are you guys spawning your builds ;-;
+plane-crazy 2019-03-09 04:54:10 I don't lag, I disconnect
+plane-crazy 2019-03-09 04:54:13 because the game is broken
+plane-crazy 2019-03-09 04:54:23 rip
+plane-crazy 2019-03-09 04:55:30 idk
+plane-crazy 2019-03-09 04:55:52 I crash in vip servers too
+plane-crazy 2019-03-09 04:55:55 hhhhhh
+plane-crazy 2019-03-09 04:56:05 This is frustrating
+plane-crazy 2019-03-09 05:13:12 When will this update be reverted
+plane-crazy 2019-03-09 05:13:19 I really want to play >:'c
+plane-crazy 2019-03-09 05:26:06 How are you guys able to spawn your vehicles
+plane-crazy 2019-03-09 05:26:12 feelsbadman
+plane-crazy 2019-03-09 06:16:06 I hope the update is reverted by tomorrow
+plane-crazy 2019-03-09 08:03:24 Not any that have decent building toola
+plane-crazy 2019-03-09 08:03:27 Tools
+plane-crazy 2019-03-09 08:03:56 I know electric state has some alright building in it, but that's a different kind of game
+plane-crazy 2019-03-09 08:04:14 But its fe I think
+plane-crazy 2019-03-09 13:48:16 Has the game been fixed?
+plane-crazy 2019-03-09 13:49:05 *has the game been fixed i just woke up*
+plane-crazy 2019-03-09 13:49:40 <@!292280057970294785> They pushed an update that broke everything
+plane-crazy 2019-03-09 13:51:28 yeah game is still busted
+plane-crazy 2019-03-09 13:51:29 hhhhh
+plane-crazy 2019-03-09 13:52:37 When is the update going to be reverted
+plane-crazy 2019-03-09 13:52:42 :|
+plane-crazy 2019-03-09 13:53:05 ITS REVERTED?
+plane-crazy 2019-03-09 13:53:48 YES
+plane-crazy 2019-03-09 13:53:50 THANK YOU
+plane-crazy 2019-03-09 13:53:53 GOOD DEVS
+plane-crazy 2019-03-09 13:54:55 No
+plane-crazy 2019-03-09 13:54:57 The fix update
+plane-crazy 2019-03-09 13:55:09 screw gas, i'd rather be able to play
+plane-crazy 2019-03-09 13:55:30 YES
+plane-crazy 2019-03-09 13:55:32 IM SO HAPPY
+plane-crazy 2019-03-09 13:56:53 I didn't play at all in the last update
+plane-crazy 2019-03-09 13:56:55 I couldn't lol
+plane-crazy 2019-03-09 13:57:24 Oh no
+plane-crazy 2019-03-09 13:57:26 OH NO
+plane-crazy 2019-03-09 13:57:37 Honor
+plane-crazy 2019-03-09 13:57:41 I build something before the last update
+plane-crazy 2019-03-09 13:57:43 And I cant load it
+plane-crazy 2019-03-09 13:57:45 ...
+plane-crazy 2019-03-09 13:57:47 ARE YOU KIDDING ME
+plane-crazy 2019-03-09 13:58:26 lol
+plane-crazy 2019-03-09 13:58:37 Rejoining doesn't help me
+plane-crazy 2019-03-09 13:58:47 https://gyazo.com/acaf96d6efee2d11fd0fc607b83feb70
+plane-crazy 2019-03-09 13:58:50 doesnt load
+plane-crazy 2019-03-09 13:59:18 I hope you're right
+plane-crazy 2019-03-09 13:59:46 I've rejoined 5 times
+plane-crazy 2019-03-09 13:59:48 no loads
+plane-crazy 2019-03-09 13:59:55 it didn't remove all builds rob
+plane-crazy 2019-03-09 13:59:58 I can load small things
+plane-crazy 2019-03-09 14:00:12 WE ARE KEKEN
+plane-crazy 2019-03-09 14:00:25 IM REJOINING TOO
+plane-crazy 2019-03-09 14:00:30 I did
+plane-crazy 2019-03-09 14:00:43 I can load creations made a LONG time ago, but not ones made like 4 days ago, before the update was even made
+plane-crazy 2019-03-09 14:01:13 I stg if I lost my airship
+plane-crazy 2019-03-09 14:01:16 im gonna ragequit
+plane-crazy 2019-03-09 14:01:30 Oml thank god
+plane-crazy 2019-03-09 14:01:33 if it's just something like that
+plane-crazy 2019-03-09 14:01:37 That should be an easy fix
+plane-crazy 2019-03-09 14:01:46 Well, "easy"
+plane-crazy 2019-03-09 14:01:50 I don't dev idk
+plane-crazy 2019-03-09 14:02:06 If the problem is what he said, then yes
+plane-crazy 2019-03-09 14:02:08 Just dont overwrite them
+plane-crazy 2019-03-09 14:02:20 HES WORKING ON IT GUYS CHILL
+plane-crazy 2019-03-09 14:02:28 DEV
+plane-crazy 2019-03-09 14:02:29 WE KNOW
+plane-crazy 2019-03-09 14:02:34 He's working on it
+plane-crazy 2019-03-09 14:02:41 I know, we all are
+plane-crazy 2019-03-09 14:03:57 ^
+plane-crazy 2019-03-09 14:05:11 No resize tool
+plane-crazy 2019-03-09 14:05:15 YES RICK
+plane-crazy 2019-03-09 14:05:17 SLAY
+plane-crazy 2019-03-09 14:06:39 It's basically already a riot lol
+plane-crazy 2019-03-09 14:08:42 CAN LOAD?
+plane-crazy 2019-03-09 14:08:44 YES?
+plane-crazy 2019-03-09 14:08:54 OH YEAH YEAH
+plane-crazy 2019-03-09 14:09:02 
+plane-crazy 2019-03-09 14:09:42 Everyone, kiss <@!217336009455566848> 's toes as compensation for working so hard to fix
+plane-crazy 2019-03-09 14:20:09 so true
+plane-crazy 2019-03-09 14:21:18 Wym everything is working now
+plane-crazy 2019-03-09 14:21:24 except motors, those are just as great as ever
+plane-crazy 2019-03-09 14:21:45 They are broken, but not to the extreme amount people say they are
+plane-crazy 2019-03-09 14:21:46 Lol
+plane-crazy 2019-03-09 14:22:28 <@296280922771292170> Reload it
+plane-crazy 2019-03-09 14:22:31 That's happened to me before
+plane-crazy 2019-03-09 14:22:35 Reloading should fix
+plane-crazy 2019-03-09 14:22:40 Rejoin then
+creations-chat 2019-03-09 14:44:41 I made a few changes to my airship, better rudder and something to keep the balloons from spinning out. Requesting Server Exterminator role
+creations-chat 2019-03-09 14:45:46 
+creations-chat 2019-03-09 14:46:47 Ignore the 3.9k save, that was an old gyazo link I copied from on accident
+creations-chat 2019-03-09 15:28:04 <@!260797229068058634>
+creations-chat 2019-03-09 15:33:44 I'm requesting server exterminator rank <@!260797229068058634> ***sorry for double ping***
+creations-chat 2019-03-09 15:33:52 Also I just make them round idk
+plane-crazy 2019-03-09 16:11:01 <@456226577798135808>
+plane-crazy 2019-03-09 16:11:29 Thats because people dont know how to build
+plane-crazy 2019-03-09 16:11:30 kek
+plane-crazy 2019-03-09 16:11:50 hahahahaha
+plane-crazy 2019-03-09 16:12:21 https://gyazo.com/feda2b4a058893279bcd79a110c694f2
+plane-crazy 2019-03-09 16:12:30 pretty lights
+plane-crazy 2019-03-09 16:12:58 Still waiting for server exterminator role
+plane-crazy 2019-03-09 16:13:18 I did orange
+plane-crazy 2019-03-09 16:13:24 Requesting server exterminator
+plane-crazy 2019-03-09 16:13:55 Its in creations
+plane-crazy 2019-03-09 16:14:00 recently posted
+plane-crazy 2019-03-09 16:14:01 :)
+plane-crazy 2019-03-09 16:15:10 Why is it so dark
+plane-crazy 2019-03-09 16:15:32 WE DO WANT HEAVY BLOCKS
+plane-crazy 2019-03-09 16:15:57 Please dont remove heavy blocks
+plane-crazy 2019-03-09 16:16:21 Lol
+plane-crazy 2019-03-09 16:16:37 Just use ballast blocks like tf
+plane-crazy 2019-03-09 16:17:37 Ikr just use ballasts
+plane-crazy 2019-03-09 16:17:45 Nothing wrong with ballasts
+plane-crazy 2019-03-09 16:17:53 Same as normal blocks but heavier or lighter
+plane-crazy 2019-03-09 16:18:24 Im so proud of this community
+plane-crazy 2019-03-09 16:18:44 
+plane-crazy 2019-03-09 16:19:00 Niceu
+plane-crazy 2019-03-09 16:19:14 Tanks are boring
+plane-crazy 2019-03-09 16:19:18 And rarely work consistently imo
+plane-crazy 2019-03-09 16:19:32 I mean their treads
+plane-crazy 2019-03-09 16:19:35 Always fall apart
+plane-crazy 2019-03-09 16:19:39 I've never made one what are you on about
+plane-crazy 2019-03-09 16:19:44 Im going off of what other people build
+plane-crazy 2019-03-09 16:19:46 and what i've seen
+plane-crazy 2019-03-09 16:19:51 I DONT PUT ANY TOGETHER LOL
+plane-crazy 2019-03-09 16:19:57 I've literally never built one
+plane-crazy 2019-03-09 16:20:10 Im not talking trash
+plane-crazy 2019-03-09 16:20:16 I said in my experience they don't work consistently
+plane-crazy 2019-03-09 16:20:21 From what i've seen of other people's builds
+plane-crazy 2019-03-09 16:20:25 Yeah they are boring
+plane-crazy 2019-03-09 16:20:30 in my **opinion**
+plane-crazy 2019-03-09 16:20:32 Bruh
+plane-crazy 2019-03-09 16:20:38 ***i have never built a tank***
+plane-crazy 2019-03-09 16:20:41 ***ever***
+plane-crazy 2019-03-09 16:20:46 Yes?
+plane-crazy 2019-03-09 16:20:50 lol
+plane-crazy 2019-03-09 16:20:50 I know
+plane-crazy 2019-03-09 16:21:11 IM SAYING FROM WHAT I HAVE SEEN FROM THEM
+plane-crazy 2019-03-09 16:21:13 ARE YOU DENSE OR SOMETHINg
+plane-crazy 2019-03-09 16:21:14 LMFAO
+plane-crazy 2019-03-09 16:21:26 Im not saying it's impossible to make a good tank that always works
+plane-crazy 2019-03-09 16:21:29 Im sure it is possible
+plane-crazy 2019-03-09 16:21:43 But from ***MY EXPERIENCE AND SEEING OTHER PEOPLES TANKS*** they have always been inconsistent
+plane-crazy 2019-03-09 16:22:17 Well good for them
+plane-crazy 2019-03-09 16:22:21 I still find them rather boring
+plane-crazy 2019-03-09 16:24:12 LOL
+plane-crazy 2019-03-09 16:24:33 pro minecraft pro
+plane-crazy 2019-03-09 16:24:38 you're double the pro of the average pro
+plane-crazy 2019-03-09 16:25:04 Lol
+plane-crazy 2019-03-09 16:25:10 yes
+plane-crazy 2019-03-09 16:49:01 Lmfaooo imperial
+plane-crazy 2019-03-09 16:59:46 hey thats a bad word
+plane-crazy 2019-03-09 16:59:55 do you need a spanking
+plane-crazy 2019-03-09 16:59:59 <:THONK:527880803456122891>
+plane-crazy 2019-03-09 17:43:13 https://gyazo.com/cc5d77f8a4e093edabce72d5ebb35f04
+plane-crazy 2019-03-09 17:43:15 I got chompped
+plane-crazy 2019-03-09 18:26:42 
+plane-crazy 2019-03-09 18:26:43 what
+plane-crazy 2019-03-09 18:55:26 Can someone help me figure out why a camera isn't moving with whatever it's attached to?
+plane-crazy 2019-03-09 18:56:36 Nvm figured it out
+plane-crazy 2019-03-09 19:17:49 I would say it's how you make it walk, not just the fact that it CAN walk
+plane-crazy 2019-03-09 19:18:22 Thats like saying you can't make a unique suspension system that nobody else has made because someone's already made a suspension system
+plane-crazy 2019-03-09 20:09:54 <@!308156968550268928> It might be possible
+plane-crazy 2019-03-09 20:10:02 Sorry for the delay, was out driving
+plane-crazy 2019-03-09 20:10:11 Nice
+plane-crazy 2019-03-09 20:10:13 Lol
+plane-crazy 2019-03-09 20:21:54 monch
+plane-crazy 2019-03-09 21:22:51 Looks like an AT-T
+plane-crazy 2019-03-09 21:22:55 Or whatever those things are
+plane-crazy 2019-03-09 21:23:11 Which isn't a bad thing
+plane-crazy 2019-03-10 01:23:46 
+plane-crazy 2019-03-10 01:23:48 does this qualify me for lightspeed
+plane-crazy 2019-03-10 01:24:56 <@456226577798135808>
+plane-crazy 2019-03-10 01:34:57 What sps is lightspeed?
+plane-crazy 2019-03-10 01:35:28 
+plane-crazy 2019-03-10 01:35:37 I think I broke lightspeed
+plane-crazy 2019-03-10 01:35:57 can i have lightspeed rank senpai
+plane-crazy 2019-03-10 01:36:48 Nvm thats not 800 million
+plane-crazy 2019-03-10 01:38:10 So do the math
+plane-crazy 2019-03-10 01:40:19 I know
+plane-crazy 2019-03-10 01:40:21 I just said that
+plane-crazy 2019-03-10 01:40:47 ?
+plane-crazy 2019-03-10 01:41:02 What is that
+plane-crazy 2019-03-10 01:41:07 Oh
+plane-crazy 2019-03-10 01:41:12 Game with simulator in the name
+plane-crazy 2019-03-10 01:41:28 rpg simulator
+plane-crazy 2019-03-10 01:41:44 lmfao
+plane-crazy 2019-03-10 01:42:21 Please do
+plane-crazy 2019-03-10 01:42:23 PLEASE do
+plane-crazy 2019-03-10 01:42:33 "Super Plane Simulator"
+plane-crazy 2019-03-10 01:42:44 And make one of those clickbaity thumbnails
+plane-crazy 2019-03-10 01:42:47 To go with it
+plane-crazy 2019-03-10 01:43:02 Super plane simulator sounds more like what a bunch of kids would click
+plane-crazy 2019-03-10 01:43:21 Lol
+plane-crazy 2019-03-10 01:44:19 https://gyazo.com/c9b54184de8049c8f4330a66a9819a3f
+plane-crazy 2019-03-10 01:44:24 I am slowly making this a worthy vessel
+plane-crazy 2019-03-10 01:44:48 Build a skyship
+plane-crazy 2019-03-10 01:44:49 like me
+plane-crazy 2019-03-10 01:44:50 :o
+plane-crazy 2019-03-10 01:44:54 Lets make a fleet
+plane-crazy 2019-03-10 01:44:58 and RULE THE WORLD
+plane-crazy 2019-03-10 01:45:11 Best name
+plane-crazy 2019-03-10 02:33:14 Ohhhh
+plane-crazy 2019-03-10 02:33:21 Rope restitution makes them more like rubber bands
+plane-crazy 2019-03-10 02:33:24 ok I understand
+plane-crazy 2019-03-10 02:48:45 https://gyazo.com/64f45a2cf4e0bed6c3f86d00ad175868
+plane-crazy 2019-03-10 02:48:54 someone is copying my balloons lol
+plane-crazy 2019-03-10 02:49:09 It's not that bad of a copy tbh
+plane-crazy 2019-03-10 02:49:15 Its close enough
+plane-crazy 2019-03-10 02:49:27 ?
+plane-crazy 2019-03-10 02:50:26 Lol
+plane-crazy 2019-03-10 02:54:36 https://gyazo.com/9f868c63b10a4610b201d71fc73fedd5
+plane-crazy 2019-03-10 02:54:48 what
+plane-crazy 2019-03-10 02:55:01 Lmfao
+plane-crazy 2019-03-10 02:55:19 lmao
+plane-crazy 2019-03-10 02:55:26 I love my ship
+plane-crazy 2019-03-10 02:55:30 It's getting so good
+plane-crazy 2019-03-10 02:57:11 Thank you rap god
+plane-crazy 2019-03-10 02:57:13 <3
+plane-crazy 2019-03-10 02:57:34 It's so dynamic
+plane-crazy 2019-03-10 02:57:36 Thank you lol
+plane-crazy 2019-03-10 02:57:51 I tried to make everything on the ship animated
+plane-crazy 2019-03-10 02:57:56 The wheel turns when you steer
+plane-crazy 2019-03-10 02:58:02 The blimps holding it can turn
+plane-crazy 2019-03-10 02:58:09 the flag waves slowly
+plane-crazy 2019-03-10 02:58:34 the rope ladder drops down
+plane-crazy 2019-03-10 02:58:40 Yeee
+plane-crazy 2019-03-10 02:59:29 Make me staff
+plane-crazy 2019-03-10 02:59:32 I always make new stuff
+plane-crazy 2019-03-10 02:59:35 wow rude
+plane-crazy 2019-03-10 03:00:00 wew
+plane-crazy 2019-03-10 03:00:06 Wow im not THAT bad
+plane-crazy 2019-03-10 03:00:22 I try to be a very fair and kind person
+plane-crazy 2019-03-10 03:00:29 most of the time
+plane-crazy 2019-03-10 03:01:06 <@!506954217421013013>
+plane-crazy 2019-03-10 03:01:09 Helium blocks dont work that way
+plane-crazy 2019-03-10 03:01:20 Instead of lifting where you put them, they take weight away from the entire thing
+plane-crazy 2019-03-10 03:01:23 Trust me, I know
+plane-crazy 2019-03-10 03:01:28 I had the same issue with my air ship
+plane-crazy 2019-03-10 03:01:37 Instead of using helium, stick ballasts at max weight on the bottom
+plane-crazy 2019-03-10 03:01:54 Np
+plane-crazy 2019-03-10 03:02:36 Np :)
+plane-crazy 2019-03-10 03:10:46 <@427454208292421653> Did ballasts fix your issue
+plane-crazy 2019-03-10 03:10:47 ?
+plane-crazy 2019-03-10 03:13:33 <@427454208292421653> For future reference, don't assume helium will lift your craft unless it's attached with rope. In roblox helium is basically just blocks with negative density. Attaching them to a craft without rope or something similar will just decrease it's overall weight
+creations-chat 2019-03-10 03:15:43 Sooo dynamic
+plane-crazy 2019-03-10 03:24:16 oof
+plane-crazy 2019-03-10 03:24:18 lmao
+plane-crazy 2019-03-10 03:39:56 https://gyazo.com/6f3d9562e4ce21c4771de307cccbeb20
+plane-crazy 2019-03-10 03:40:00 wow so kind
+plane-crazy 2019-03-10 03:41:19 what
+plane-crazy 2019-03-10 03:41:25 Did Empire have a seizure?
+plane-crazy 2019-03-10 03:46:22 wowee
+plane-crazy 2019-03-10 03:50:45 wow
+plane-crazy 2019-03-10 03:50:49 Such a creative design
+plane-crazy 2019-03-10 03:51:01 I wonder how people come up with these things, i'd love to be able to do that
+plane-crazy 2019-03-10 04:08:44 I dont hear anything
+plane-crazy 2019-03-10 04:08:59 i guess im deaf
+plane-crazy 2019-03-10 04:10:30 why are we in asmr chamber
+plane-crazy 2019-03-10 04:10:44 your all loosers
+plane-crazy 2019-03-10 04:10:48 im 19
+plane-crazy 2019-03-10 04:10:51 kek
+plane-crazy 2019-03-10 04:11:07 I started roblox in 2009
+plane-crazy 2019-03-10 04:11:10 january
+plane-crazy 2019-03-10 04:11:33 man
+plane-crazy 2019-03-10 04:11:33 I've been playing roblox for 10 years now
+plane-crazy 2019-03-10 04:11:36 that's weird to think about
+plane-crazy 2019-03-10 04:12:01 Lol
+plane-crazy 2019-03-10 04:12:16 I always thought roleplaying was stupid
+plane-crazy 2019-03-10 04:12:21 whoever typed faster was the better roleplayer
+plane-crazy 2019-03-10 04:12:33 LOL
+plane-crazy 2019-03-10 04:12:37 you oder
+plane-crazy 2019-03-10 04:12:58 The only games I play on roblox now are this, black magic 2, and phantom forces
+plane-crazy 2019-03-10 04:13:05 and occasionally some random game that catches my eye
+plane-crazy 2019-03-10 04:13:07 YES IT DID FLAME
+plane-crazy 2019-03-10 04:13:08 LOL
+plane-crazy 2019-03-10 04:13:15 It really did
+plane-crazy 2019-03-10 04:13:26 accounts from 2006 are worth like
+plane-crazy 2019-03-10 04:13:27 2k$
+plane-crazy 2019-03-10 04:13:38 Those are some expensive ass accounts from 2006
+plane-crazy 2019-03-10 04:13:53 Accounts from 2006 also have spaces in their names
+plane-crazy 2019-03-10 04:14:01 So you have people like "Flame Thrower"
+plane-crazy 2019-03-10 04:14:03 or something
+plane-crazy 2019-03-10 04:14:04 lol
+plane-crazy 2019-03-10 04:14:21 You don't have to put numbers in your user now
+plane-crazy 2019-03-10 04:14:24 wym
+plane-crazy 2019-03-10 04:14:32 Oh lol
+plane-crazy 2019-03-10 04:14:40 It's more common because people can't think of unique names
+plane-crazy 2019-03-10 04:14:44 like ***ME***
+plane-crazy 2019-03-10 04:14:45 jk
+plane-crazy 2019-03-10 04:15:03 my name used to be
+plane-crazy 2019-03-10 04:15:05 andrewrace100
+plane-crazy 2019-03-10 04:15:06 LOL
+plane-crazy 2019-03-10 04:15:16 Town of salem
+plane-crazy 2019-03-10 04:15:19 I love that game
+plane-crazy 2019-03-10 04:15:45 I made my account when I was 8
+plane-crazy 2019-03-10 04:15:46 so
+plane-crazy 2019-03-10 04:15:47 yeah
+plane-crazy 2019-03-10 04:16:03 yeah
+plane-crazy 2019-03-10 04:16:05 Im old
+plane-crazy 2019-03-10 04:16:20 Lol
+plane-crazy 2019-03-10 04:16:27 There needs to be a new badge
+plane-crazy 2019-03-10 04:16:32 for people who been on for 10 years
+plane-crazy 2019-03-10 04:16:55 I still have a 2ds
+plane-crazy 2019-03-10 04:16:59 collectors edition
+plane-crazy 2019-03-10 04:17:08 But the charging port is busted
+plane-crazy 2019-03-10 04:17:10 needs repairs
+plane-crazy 2019-03-10 04:17:14 BECAUSE THEY BAD
+plane-crazy 2019-03-10 04:17:22 It's csgo surf but on roblox
+plane-crazy 2019-03-10 04:17:37 Lol
+plane-crazy 2019-03-10 04:18:01 I hope the next 3ds doesnt have pressure touchscreens mfg
+plane-crazy 2019-03-10 04:18:05 My first account is Glitcheey
+plane-crazy 2019-03-10 04:18:07 I still use it
+plane-crazy 2019-03-10 04:18:09 made in 2009
+plane-crazy 2019-03-10 04:18:27 Yep
+plane-crazy 2019-03-10 04:18:57 https://www.roblox.com/users/1967008/profile
+plane-crazy 2019-03-10 04:19:02 oops
+plane-crazy 2019-03-10 04:19:03 LOL
+plane-crazy 2019-03-10 04:19:05 wrong link
+plane-crazy 2019-03-10 04:19:09 https://gyazo.com/7d6af3f40607eee8e57f2d092e110dd5
+plane-crazy 2019-03-10 04:19:23 gamer moment
+plane-crazy 2019-03-10 04:19:34 Same
+plane-crazy 2019-03-10 04:19:46 No I never had money to spend early on
+plane-crazy 2019-03-10 04:19:48 <@!511080180966752256>
+plane-crazy 2019-03-10 04:19:57 Oh yeah tix was a thing
+plane-crazy 2019-03-10 04:19:58 LOL
+plane-crazy 2019-03-10 04:20:06 I miss tix too
+plane-crazy 2019-03-10 04:20:19 But yeah, 10 tix a day wasn't a lot
+plane-crazy 2019-03-10 04:20:27 And I was 8, I wasn't making no good games
+plane-crazy 2019-03-10 04:20:33 I didnt know how to make clickbait games either
+plane-crazy 2019-03-10 04:20:37 So I had like
+plane-crazy 2019-03-10 04:20:41 500 lifetime tix
+plane-crazy 2019-03-10 04:20:45 more than that but yeah
+plane-crazy 2019-03-10 04:20:51 More than 500 lol
+plane-crazy 2019-03-10 04:20:53 I know
+plane-crazy 2019-03-10 04:20:56 Im exagerating
+plane-crazy 2019-03-10 04:21:00 but my lifetime tix wasn't high
+plane-crazy 2019-03-10 04:21:09 I probably made like 150 from place visits
+plane-crazy 2019-03-10 04:21:11 I DO lol
+plane-crazy 2019-03-10 04:21:23 You could buy obc for life
+plane-crazy 2019-03-10 04:21:27 what a time to be alive
+plane-crazy 2019-03-10 04:21:35 Yes but
+plane-crazy 2019-03-10 04:21:42 People who have that are roblox millionares
+plane-crazy 2019-03-10 04:21:50 now
+plane-crazy 2019-03-10 04:21:50 And probably make more money from robux
+plane-crazy 2019-03-10 04:21:53 than 400$
+plane-crazy 2019-03-10 04:22:00 Yeah
+plane-crazy 2019-03-10 04:22:13 Roblox probably realized that real quick
+plane-crazy 2019-03-10 04:22:21 people with obc just make money sitting around doing nothing
+plane-crazy 2019-03-10 04:22:44 Of course some people still have their lifetime obc
+plane-crazy 2019-03-10 04:22:56 It was cancelled, but the people who bought it still have it
+plane-crazy 2019-03-10 04:23:07 Because they can
+plane-crazy 2019-03-10 04:23:14 Why do people spend money on ANY game
+plane-crazy 2019-03-10 04:23:19 all for the same reasons
+plane-crazy 2019-03-10 04:23:22 ^
+plane-crazy 2019-03-10 04:23:27 spending money is good
+plane-crazy 2019-03-10 04:23:30 it's what drives innovation
+plane-crazy 2019-03-10 04:23:36 and economy
+plane-crazy 2019-03-10 04:23:38 yes
+plane-crazy 2019-03-10 04:23:57 I did it because I was sick of looking like an oder with the "normal hair" and chill face
+plane-crazy 2019-03-10 04:24:26 Why is bacon hair costing robux
+plane-crazy 2019-03-10 04:24:27 lmfao
+plane-crazy 2019-03-10 04:24:39 LOL
+plane-crazy 2019-03-10 04:24:41 THERE WAS A GAME LIKE THAt
+plane-crazy 2019-03-10 04:24:42 REALLY
+plane-crazy 2019-03-10 04:24:47 Lmfaoo
+plane-crazy 2019-03-10 04:24:53 Man I remember
+plane-crazy 2019-03-10 04:24:57 that one big time exploiter
+plane-crazy 2019-03-10 04:24:59 what was his name
+plane-crazy 2019-03-10 04:25:02 JaredValdez4
+plane-crazy 2019-03-10 04:25:15 I know
+plane-crazy 2019-03-10 04:25:24 He got away with shit for so long
+plane-crazy 2019-03-10 04:25:25 idk how
+plane-crazy 2019-03-10 04:25:35 Quackity is a god
+plane-crazy 2019-03-10 04:25:53 Roblox just has a stick shoved up their ass
+plane-crazy 2019-03-10 04:26:13 If anything quackity revives dead games
+plane-crazy 2019-03-10 04:26:18 that nobody cares about
+plane-crazy 2019-03-10 04:26:31 toon town was my SHIT DUDE
+plane-crazy 2019-03-10 04:26:44 Toontown rewritten is awesome too
+plane-crazy 2019-03-10 04:26:49 I play that from time to time
+plane-crazy 2019-03-10 04:26:57 Rewritten is the same as the normal one
+plane-crazy 2019-03-10 04:27:00 But EVERYTHING is free
+plane-crazy 2019-03-10 04:27:03 Yeah
+plane-crazy 2019-03-10 04:27:10 Nah
+plane-crazy 2019-03-10 04:27:14 I never played any lego games
+plane-crazy 2019-03-10 04:27:27 I played neopets
+plane-crazy 2019-03-10 04:27:39 It was cancer
+plane-crazy 2019-03-10 04:27:40 so many ads
+plane-crazy 2019-03-10 04:27:42 lmfao
+plane-crazy 2019-03-10 04:27:48 My dumb 6 year old mind didn't know
+plane-crazy 2019-03-10 04:28:08 <:pogchamp:516298810700464128>
+plane-crazy 2019-03-10 04:28:25 Is vip the only one who saw that
+plane-crazy 2019-03-10 04:28:26 lmfao
+plane-crazy 2019-03-10 04:29:01 armored patrol
+plane-crazy 2019-03-10 04:29:05 I wish the current armored patrol wasn't shit
+plane-crazy 2019-03-10 04:29:19 I remember vip
+plane-crazy 2019-03-10 04:29:27 Yeah
+plane-crazy 2019-03-10 04:29:35 Theres so many good games that dont run anymore
+plane-crazy 2019-03-10 04:30:07 Script builder
+plane-crazy 2019-03-10 04:30:14 spamming admin scripts before you got banned
+plane-crazy 2019-03-10 04:30:28 Lol
+plane-crazy 2019-03-10 04:30:33 Guys remember survival 303
+plane-crazy 2019-03-10 04:30:48 wow ok
+plane-crazy 2019-03-10 04:30:55 DEADZONE
+plane-crazy 2019-03-10 04:31:03 YOU NEVER PLAYED DEADZONE
+plane-crazy 2019-03-10 04:31:04 REALLY
+plane-crazy 2019-03-10 04:31:05 :O
+plane-crazy 2019-03-10 04:31:07 YOU MISSED OUt
+plane-crazy 2019-03-10 04:31:26 Driveblox
+plane-crazy 2019-03-10 04:31:33 Battlefield was really good
+plane-crazy 2019-03-10 04:31:37 Phantom forces killed it
+plane-crazy 2019-03-10 04:31:53 I wish phantom forces would stop making new maps
+plane-crazy 2019-03-10 04:31:56 All the new maps are pure shit
+plane-crazy 2019-03-10 04:32:12 Lmao
+plane-crazy 2019-03-10 04:32:37 https://gyazo.com/d810ed9b5be2f7b26d46a2afe554c065
+plane-crazy 2019-03-10 04:32:41 would yu look at that
+plane-crazy 2019-03-10 04:32:44 lol
+plane-crazy 2019-03-10 04:32:44 i had it favorited
+plane-crazy 2019-03-10 04:33:25 A Pirate's Life
+plane-crazy 2019-03-10 04:33:30 YES
+plane-crazy 2019-03-10 04:33:44 SAME
+plane-crazy 2019-03-10 04:34:15 It was the classic roblox pirate game
+plane-crazy 2019-03-10 04:34:24 Yes
+plane-crazy 2019-03-10 04:34:28 Probably the first one
+plane-crazy 2019-03-10 04:34:33 Before all these shit one pieces
+plane-crazy 2019-03-10 04:34:47 Yeeep
+plane-crazy 2019-03-10 04:35:05 but
+plane-crazy 2019-03-10 04:35:05 Idk how many people played this one
+plane-crazy 2019-03-10 04:35:08 Friazascape
+plane-crazy 2019-03-10 04:35:27 Was one of the first of the rpg games with magic
+plane-crazy 2019-03-10 04:35:37 And it still does shit that newer ones dont do
+plane-crazy 2019-03-10 04:35:40 Like surfing on spells
+plane-crazy 2019-03-10 04:35:41 lmfao
+plane-crazy 2019-03-10 04:36:07 That were at the end of every obby
+plane-crazy 2019-03-10 04:36:14 Lol
+plane-crazy 2019-03-10 04:36:15 Yeah
+plane-crazy 2019-03-10 04:36:45 LOL
+plane-crazy 2019-03-10 04:37:38 Rip flame
+plane-crazy 2019-03-10 04:37:58 Vip are you sure that's the right game
+plane-crazy 2019-03-10 04:37:59 lmfao
+plane-crazy 2019-03-10 04:38:17 https://gyazo.com/2e78f562cab7e6bf96fc65d56e9a8b4d
+plane-crazy 2019-03-10 04:38:24 Oh ok
+plane-crazy 2019-03-10 04:38:42 Ill snuggle you flame
+plane-crazy 2019-03-10 04:38:44 or will I
+plane-crazy 2019-03-10 04:38:51 I dont vip
+plane-crazy 2019-03-10 04:38:56 THAT GAME
+plane-crazy 2019-03-10 04:38:59 WOW I REMEMBER IT
+plane-crazy 2019-03-10 04:39:04 SEEMS LIKE ONLY YESTERDAY
+plane-crazy 2019-03-10 04:39:10 or uh
+plane-crazy 2019-03-10 04:39:12 idk
+plane-crazy 2019-03-10 04:39:31 Lol
+plane-crazy 2019-03-10 04:39:58 Also guys I found out what restitution on ropes does
+plane-crazy 2019-03-10 04:40:12 <:kremit:506299097079218196>
+plane-crazy 2019-03-10 04:40:47 I wish I had been a clickbaity little piece of shit when I was younger on roblox
+plane-crazy 2019-03-10 04:40:52 So I had gotten money
+plane-crazy 2019-03-10 04:41:26 A thousand miles to see you
+plane-crazy 2019-03-10 04:41:42 YES
+plane-crazy 2019-03-10 04:41:42 Yes VIP
+plane-crazy 2019-03-10 04:41:45 yes
+plane-crazy 2019-03-10 04:42:02 PAINBTALL
+plane-crazy 2019-03-10 04:42:24 guys ship flame and katze
+plane-crazy 2019-03-10 04:42:58 <@!486674992981999648> wat
+plane-crazy 2019-03-10 04:43:01 OWO
+plane-crazy 2019-03-10 04:43:20 lets turn this into a furry rp server
+plane-crazy 2019-03-10 04:43:32 Lmao
+plane-crazy 2019-03-10 04:43:37 You will never know
+plane-crazy 2019-03-10 04:43:46 LOL
+plane-crazy 2019-03-10 04:43:57 I said everyone should ship flame and katze
+plane-crazy 2019-03-10 04:44:10 "haha what"
+plane-crazy 2019-03-10 04:44:13 Thats a nervous laugh
+plane-crazy 2019-03-10 04:44:15 he's into you katze
+plane-crazy 2019-03-10 04:44:24 LOL
+plane-crazy 2019-03-10 04:44:50 no
+plane-crazy 2019-03-10 04:44:53 go away fun police
+plane-crazy 2019-03-10 04:44:57 i'll stab ur arse
+plane-crazy 2019-03-10 04:45:03 I DO
+plane-crazy 2019-03-10 04:45:04 YES
+plane-crazy 2019-03-10 04:45:36 Fr
+plane-crazy 2019-03-10 04:45:39 Tycoons now suck
+plane-crazy 2019-03-10 04:45:41 except for
+plane-crazy 2019-03-10 04:45:47 treelands
+plane-crazy 2019-03-10 04:45:51 treelands is the only good tycoon now
+plane-crazy 2019-03-10 04:47:08 guYs itS mY fAvoRiTe GaEM
+plane-crazy 2019-03-10 04:47:09 https://gyazo.com/6a3d0e142b670a8b77cb4bcbcd68ce76
+plane-crazy 2019-03-10 04:47:26 oooof
+plane-crazy 2019-03-10 04:47:31 wow
+plane-crazy 2019-03-10 04:47:37 that must have been a low point
+plane-crazy 2019-03-10 04:47:41 of your roblox career
+plane-crazy 2019-03-10 04:47:45 feelsbad
+plane-crazy 2019-03-10 04:47:49 Common yes
+plane-crazy 2019-03-10 04:47:56 but trash,, on those games, also yes
+plane-crazy 2019-03-10 04:48:48 no u <@!221487880487436288>
+plane-crazy 2019-03-10 04:53:16 YEs
+plane-crazy 2019-03-10 04:53:24 RAISE A DRAGON DOPE
+plane-crazy 2019-03-10 05:02:31 https://gyazo.com/a88bcc196d1b73832bbc47aa0e512136
+plane-crazy 2019-03-10 05:03:20 <@!251566100997734400> Thank you
+plane-crazy 2019-03-10 05:03:28 At least someone noticed my dope sail
+plane-crazy 2019-03-10 05:03:33 :P
+plane-crazy 2019-03-10 05:15:23 I made a working sail 
+https://gyazo.com/bd33085b89a069d17874394e7624617c
+plane-crazy 2019-03-10 05:15:27 wheres my inventor role plebs
+plane-crazy 2019-03-10 05:15:35 wow ok
+plane-crazy 2019-03-10 05:15:57 agREE
+plane-crazy 2019-03-10 05:16:04 thats a BAD WORD
+plane-crazy 2019-03-10 05:16:13 LOL
+plane-crazy 2019-03-10 05:16:49 Im so proud of my airship
+plane-crazy 2019-03-10 05:16:53 it deserves inventor
+plane-crazy 2019-03-10 05:16:57 for that genius sail
+plane-crazy 2019-03-10 05:17:00 :)
+plane-crazy 2019-03-10 05:17:02 I know not really
+plane-crazy 2019-03-10 05:17:03 but shh
+plane-crazy 2019-03-10 05:17:06 it deserves it
+plane-crazy 2019-03-10 05:22:49 <:h_:538475395666804766>
+plane-crazy 2019-03-10 05:23:03 eshepaf
+creations-chat 2019-03-10 05:24:23 Made a working sail
+creations-chat 2019-03-10 05:24:57 it is indeed
+plane-crazy 2019-03-11 00:33:09 <@!511080180966752256> It's just a ton of trial and error
+plane-crazy 2019-03-11 00:33:25 Spamming ballasts inside to get it to be balanced
+plane-crazy 2019-03-11 00:33:36 adding/taking weight from them afterwards
+plane-crazy 2019-03-11 00:34:08 gn
+plane-crazy 2019-03-11 00:37:36 Anyone else getting some annoying moderation problems in roblox dms? Tried answering someone's question, but literally ALL of my messages are being moderated lmfao
+plane-crazy 2019-03-11 00:49:03 I don't lol
+plane-crazy 2019-03-11 00:49:12 If I wanted to playing something more like ksp, i'd just go play ksp
+plane-crazy 2019-03-11 01:15:27 The weight update made my airship steer better with the sail
+plane-crazy 2019-03-11 01:15:29 ;o
+plane-crazy 2019-03-11 01:20:45 nice trumpet
+plane-crazy 2019-03-11 01:21:26 are you trying to play fortnite default dance
+plane-crazy 2019-03-11 01:21:37 lmao
+plane-crazy 2019-03-11 01:22:43 I forgot what that was
+plane-crazy 2019-03-11 01:23:12 Oh yeah
+plane-crazy 2019-03-11 01:23:28 Yeah I remember now
+plane-crazy 2019-03-11 01:24:11 Beautiful
+plane-crazy 2019-03-11 01:24:13 do megalovania
+plane-crazy 2019-03-11 01:24:40 10/10
+plane-crazy 2019-03-11 01:25:14 rip whoever died
+plane-crazy 2019-03-11 03:49:57 The weight update made my airship fly better lol
+plane-crazy 2019-03-11 03:50:01 Lowkey dont want it reverted
+plane-crazy 2019-03-11 03:50:32 I would never join pvp if that was the case
+plane-crazy 2019-03-11 03:50:37 Too many rammers to be having that
+plane-crazy 2019-03-11 03:51:15 Everyone except rammers would have it off I think lol
+plane-crazy 2019-03-11 04:14:12 https://gyazo.com/d0d6f1944655845099c0bba73798ea39
+plane-crazy 2019-03-11 04:14:16 peak gaming here folks
+plane-crazy 2019-03-11 04:25:30 what
+plane-crazy 2019-03-11 05:52:09 cool
+plane-crazy 2019-03-11 05:58:17 big oof
+plane-crazy 2019-03-11 05:58:27 What even is that lol
+plane-crazy 2019-03-11 05:58:41 Thats uhh
+plane-crazy 2019-03-11 05:58:44 An interesting sub
+plane-crazy 2019-03-11 07:32:19 feet
+plane-crazy 2019-03-11 07:32:22 nice
+plane-crazy 2019-03-11 07:57:07 kek
+plane-crazy 2019-03-11 08:22:15 ***why do half wedges lose their color after loading in all of a sudden***
+plane-crazy 2019-03-11 08:30:09 Everybody keeps thinking that my builds are from youtube
+plane-crazy 2019-03-11 08:30:11 for some reason
+plane-crazy 2019-03-11 08:41:53 No lol
+creations-chat 2019-03-11 12:15:36 you wont
+creations-chat 2019-03-11 12:15:37 do it
+plane-crazy 2019-03-11 12:55:23 What makes something complex enough for inventor?
+plane-crazy 2019-03-11 12:55:29 I thought inventor was just making your own invention
+plane-crazy 2019-03-11 13:01:23 But the ranks channel doesn't specify that the creation HAS to be complicated
+plane-crazy 2019-03-11 13:01:27 Only that it has to be unique
+plane-crazy 2019-03-11 13:04:33 <:THONK:527880803456122891>
+plane-crazy 2019-03-11 13:21:40 wym?
+plane-crazy 2019-03-11 13:22:19 So just list all the keys I use on my creations?
+plane-crazy 2019-03-11 13:23:11 w a s d q e z x c v 1-9 o p 1numpad 2numpad shift ctrl k l h j v b f r t
+plane-crazy 2019-03-11 13:23:24 arrow keys
+plane-crazy 2019-03-11 13:23:48 Well that depends on the vehicle lol
+plane-crazy 2019-03-11 13:24:20 Why are you asking this anyways? o.o
+plane-crazy 2019-03-11 13:24:22 Seems rather random
+plane-crazy 2019-03-11 13:24:51 Uhhh
+plane-crazy 2019-03-11 13:25:02 So go through everything that uses keybinds and check? lol
+plane-crazy 2019-03-11 13:25:08 We can't really help you with that
+plane-crazy 2019-03-11 13:25:31 Lmao
+plane-crazy 2019-03-11 14:59:57 communism
+plane-crazy 2019-03-11 15:04:41 Bruh what kind of i7 processor has 2.8ghz
+plane-crazy 2019-03-11 15:04:45 Thats so low
+plane-crazy 2019-03-11 15:05:04 Oh
+plane-crazy 2019-03-11 15:21:20 What does it matter?
+plane-crazy 2019-03-11 15:21:31 Just get the cheaper one lmao
+plane-crazy 2019-03-11 15:36:27 You guys are spoiling the joke
+plane-crazy 2019-03-12 00:57:21 Weeb is a normie word
+plane-crazy 2019-03-12 00:57:33 Im far from normie
+plane-crazy 2019-03-12 00:57:49 Katze is correct
+plane-crazy 2019-03-12 00:57:53 Degenerate is the correct term
+plane-crazy 2019-03-12 00:58:16 not all furries
+plane-crazy 2019-03-12 00:58:19 some are okay
+plane-crazy 2019-03-12 00:58:35 Yeah you're okay
+plane-crazy 2019-03-12 00:59:04 A furry that doesn't make it obvious that they're a "omg im such a furry meow uwu" <@!165822006590308353>
+plane-crazy 2019-03-12 00:59:23 wow ok
+plane-crazy 2019-03-12 00:59:48 kek
+plane-crazy 2019-03-12 00:59:50 big gay
+plane-crazy 2019-03-12 01:00:05 undertale is fine, people who make remixes of the music are not
+plane-crazy 2019-03-12 01:00:47 The only good song on minecraft ost is Sweden
+plane-crazy 2019-03-12 01:01:21 wow
+plane-crazy 2019-03-12 01:01:22 ban
+plane-crazy 2019-03-12 01:01:48 what
+plane-crazy 2019-03-12 01:01:51 resp
+plane-crazy 2019-03-12 01:03:06 <:soon:501066468629413916>
+plane-crazy 2019-03-12 02:22:32 Getting a new, better phone is always a good feeling
+plane-crazy 2019-03-12 02:22:55 kek
+creations-chat 2019-03-12 02:46:35 Self upvoting is fine
+creations-chat 2019-03-12 02:46:38 Nothing wrong with it
+creations-chat 2019-03-12 02:46:43 So long as you're proud of your creation
+plane-crazy 2019-03-12 09:26:20 idk what to build anymore
+plane-crazy 2019-03-12 09:26:29 after my airship i've lost all motivation
+plane-crazy 2019-03-12 10:32:01 Is it made of half wedges?
+plane-crazy 2019-03-12 10:34:03 Half wedges are glitched atm
+plane-crazy 2019-03-12 10:34:07 They dont save their color for some reason
+plane-crazy 2019-03-12 11:35:57 <@!322970944303923200> blocks were recently made to be heavier, so that might be why
+plane-crazy 2019-03-13 20:04:05 yes
+plane-crazy 2019-03-13 20:04:08 :>
+plane-crazy 2019-03-13 20:04:19 who dat
+plane-crazy 2019-03-13 20:04:29 Oh
+plane-crazy 2019-03-13 20:04:35 Im blind ok
+plane-crazy 2019-03-13 21:06:26 Use swashplates
+plane-crazy 2019-03-13 21:06:29 Or whatever they're called
+plane-crazy 2019-03-13 21:07:09 Wym "swashplate on a plane ok"
+plane-crazy 2019-03-13 21:07:32 Yes
+plane-crazy 2019-03-13 21:07:56 The rotating wing panels
+plane-crazy 2019-03-13 21:08:22 Planes can have swashplates
+plane-crazy 2019-03-13 21:08:30 It's literally just a propeller
+plane-crazy 2019-03-13 21:08:58 Then what the hell is a swashplate
+plane-crazy 2019-03-13 21:10:01 https://gyazo.com/a61f69c1574412388d99ee172c36a1a3
+plane-crazy 2019-03-13 21:10:23 A device to translate motion of a rotating shaft
+plane-crazy 2019-03-13 21:10:29 sounds like a propeller to me
+plane-crazy 2019-03-13 21:11:14 That's the definition google gives for a swashplate
+plane-crazy 2019-03-13 21:11:19 :v
+plane-crazy 2019-03-13 21:11:38 Yes, wikipedia did
+plane-crazy 2019-03-13 21:12:20 https://gyazo.com/80ac0a921a894f1462edf10569afd077
+plane-crazy 2019-03-13 21:12:23 are you sure about that
+plane-crazy 2019-03-13 21:12:45 I didn't feel it was relevant
+plane-crazy 2019-03-13 21:13:29 Lmao
+plane-crazy 2019-03-13 21:13:36 I didn't know there were multiple?
+plane-crazy 2019-03-13 21:13:51 How the fuck am I supposed to know
+plane-crazy 2019-03-13 21:13:55 I don't get into this shit
+plane-crazy 2019-03-13 21:14:23 I'm not going to bother doing something like that for something so menial.
+plane-crazy 2019-03-13 21:14:34 Stop making it out like I've committed some grave crime.
+plane-crazy 2019-03-13 21:15:04 I'm exagerating
+plane-crazy 2019-03-13 21:15:20 I'll exaggerate if I want to exaggerate
+plane-crazy 2019-03-13 21:15:28 ;v
+plane-crazy 2019-03-13 21:16:00 I didn't exaggerate anything fact related
+plane-crazy 2019-03-13 21:16:33 In the context of exaggeration proving someone wrong when correct facts are shown, they would have to be exaggerating facts.
+plane-crazy 2019-03-13 21:16:54 Yeah
+plane-crazy 2019-03-13 21:17:07 It was implied
+plane-crazy 2019-03-13 21:17:25 Nobody was arguing though
+plane-crazy 2019-03-13 21:17:37 We are NOW
+plane-crazy 2019-03-13 21:17:44 But before hand it was just a simple misunderstanding
+plane-crazy 2019-03-13 21:17:49 Because I got the wrong definition
+plane-crazy 2019-03-13 21:18:04 Not always, but in this case yes.
+plane-crazy 2019-03-13 21:18:27 Why are you so aggressive
+plane-crazy 2019-03-13 21:19:23 I'm pretty sure most people will interpret "yeah no shit" as agreeing aggressively
+plane-crazy 2019-03-13 21:19:48 It's aggressive
+plane-crazy 2019-03-13 21:19:50 lol
+plane-crazy 2019-03-13 21:20:18 k
+plane-crazy 2019-03-25 08:36:18 <@511080180966752256> That's def a copy
+plane-crazy 2019-03-25 08:36:32 Who did it?
+plane-crazy 2019-03-25 08:40:43 Err
+plane-crazy 2019-03-25 08:40:51 I'm pretty sure idk who that is
+plane-crazy 2019-03-25 08:40:58 What's his name??
+plane-crazy 2019-03-25 09:24:21 Yeah never seen him before
+plane-crazy 2019-03-28 17:53:23 <:kek:532300771769974827>
+the-dump 2019-03-29 04:18:24 https://gyazo.com/34936f422f847a1f70a810a5da6de6e5
+the-dump 2019-03-29 04:18:44 you ever just run headfirst into a wall nonstop
+the-dump 2019-03-30 15:32:20 https://media.discordapp.net/attachments/356132794897793024/560316914161942529/ecdb2cd.jpg?width=451&height=586
+plane-crazy 2019-04-01 05:07:58 why is there a notification in the group's logo
+plane-crazy 2019-04-01 05:08:02 it's driving me insane
+plane-crazy 2019-04-01 05:08:27 i already hate april fools
+plane-crazy 2019-04-01 05:08:38 big f
+creations-chat 2019-04-01 05:09:13 add helicopter to that
+plane-crazy 2019-04-02 20:01:41 
+plane-crazy 2019-04-02 20:02:00 :)
+plane-crazy 2019-04-02 20:02:09 lol
+plane-crazy 2019-04-02 20:24:00 <@456226577798135808> Np bro :)
+Everyone else thought it was fake. Jokes on them
+plane-crazy 2019-05-19 12:48:49 wew
+plane-crazy 2019-05-19 12:55:51 https://gyazo.com/75fbc13a307cac1a1b0dd7479e4e955a
+
+What a warm welcome back to the game
+plane-crazy 2019-06-04 05:32:18 Can someone please teach me how to make stable tank treads that work? I'm not patient enough or smart enough when it comes to that kind of stuff to figure it out on my own
+plane-crazy 2019-06-04 05:33:21 I have looked up videos on it, and I've only found 2 that use actual treads, and neither look stable to me
+help 2019-06-04 05:34:45 Can someone please take time out of their day to teach me how to make stable tank treads that work? I'm not patient enough or smart enough when it comes to that kind of stuff to figure it out on my own
+help 2019-06-04 05:37:43 I just literally said I'm not smart enough to figure it out
+help 2019-06-04 05:37:56 I obviously have tried. That's why I'm asking for help
+help 2019-06-04 05:38:20 The best I know how to do is to just build ropes around motor wheels but that shit sucks
+help 2019-06-04 05:39:48 Yeah I don't understand how to do that.
+help 2019-06-04 05:44:50 ***Yeah, I don't understand how to do that***
+help 2019-06-04 05:48:01 Im aware of that Deciduus,  what I don't understand is how to build the tread
+help 2019-06-04 05:49:07 I don't know what the hell "motor block motor" means
+help 2019-06-04 05:49:27 I still don't get it
+help 2019-06-04 05:49:35 THANK YOU FIGORS
+help 2019-06-04 05:49:38 My god
+help 2019-06-04 05:50:23 Come out?
+help 2019-06-04 05:50:51 Oh
+help 2019-06-04 05:50:56 Yeah
+creations-chat 2019-06-04 19:58:18 But can it transfer back?
+creations-chat 2019-06-04 19:59:36 Rip
+creations-chat 2019-06-04 20:00:01 Couldn't you use friction blocks?
+creations-chat 2019-06-04 20:00:13 Wait
+creations-chat 2019-06-04 20:00:31 Does making a blocks material fabric give it more friction?
+creations-chat 2019-06-04 20:00:43 Oh nice
+creations-chat 2019-06-04 20:00:48 Good to know
+creations-chat 2019-06-04 20:02:27 if
+creations-chat 2019-06-04 20:05:10 Lol
+help 2019-06-05 05:07:53 Can someone please explain to me why this is happening and how to fix it
+help 2019-06-05 05:08:01 https://gyazo.com/5be026c0f6f0d6cd8d6d42977c9ee195
+help 2019-06-05 05:08:11 It was running so good and now all of a sudden pistons won't work and the entire build is jerky
+It doesn't even work when it's just one piston
+help 2019-06-05 05:08:46 No stupid replies please
+help 2019-06-05 05:09:42 Except literally 5 minutes ago it was working fine
+help 2019-06-05 05:09:53 So i'd agree with you if it wasn't for that
+help 2019-06-05 05:12:31 Just tried with suspensions. The exact same problem happens. They don't extend.
+help 2019-06-05 05:12:46 <@!350773590213525511>
+help 2019-06-05 05:12:56 I'd even go so far to say it's worse
+help 2019-06-05 05:13:13 I did
+help 2019-06-05 05:13:18 ***I did***
+help 2019-06-05 05:13:28 
+help 2019-06-05 05:13:55 I am
+help 2019-06-05 05:14:02 https://gyazo.com/e08abc174b8968ca328492cec6b31b86
+help 2019-06-05 05:14:10 It makes the treads freak out
+help 2019-06-05 05:14:40 Mhm
+creations-chat 2019-06-05 06:05:38 Landmaster WIP
+plane-crazy 2019-06-05 06:07:50 Katze is famous
+plane-crazy 2019-06-05 12:05:44 Lol
+plane-crazy 2019-06-05 18:42:09 Bruh lol who even cares
+plane-crazy 2019-06-05 18:42:22 My point exactly
+plane-crazy 2019-06-05 18:42:26 Bicker in dms kek
+plane-crazy 2019-06-06 00:27:33 Where do I post nsfw creations to report them?
+plane-crazy 2019-06-06 00:27:51 Ok
+help 2019-06-06 00:27:56 ||https://gyazo.com/60638ea282dbfc68027379b2717909f0||
+help 2019-06-06 00:28:19 https://www.roblox.com/users/325172392/profile
+help 2019-06-06 00:57:12 https://gyazo.com/2cca043261aca26a042b28804a625c8c
+help 2019-06-06 00:57:39 https://www.roblox.com/users/86414126/profile
+help 2019-06-06 01:00:11 <@456226577798135808>  ;)
+help 2019-06-06 01:07:34 Oh
+help 2019-06-06 01:07:45 I thought mods could ban sorry :(
+plane-crazy 2019-06-06 01:08:25 If I want suspension to have less give do I make dampening higher or lower?
+help 2019-06-06 02:07:50 <@!217336009455566848>
+plane-crazy 2019-06-07 04:15:52 fr
+plane-crazy 2019-06-11 19:42:09 One of my favorite games of all time is being shut down...
+plane-crazy 2019-06-11 19:42:12 I must build in tribute
+plane-crazy 2019-06-11 19:42:38 World's Adrift
+plane-crazy 2019-06-11 19:42:47 It's having it's "End of the World" event in the 26th
+plane-crazy 2019-06-11 19:42:58 not nice it's sad
+plane-crazy 2019-06-11 19:43:00 >:(
+plane-crazy 2019-06-11 19:44:23 ?
+plane-crazy 2019-08-06 09:05:32 Anyone here know scripting that could help me with an issue that probably has a simple solution and i'm just braindead
+plane-crazy 2019-08-24 08:03:51 Am I the only one who's builds are taking AGES to spawn?
+plane-crazy 2019-08-24 08:03:56 out of nowhere?
+plane-crazy 2019-08-24 08:05:03 Wtf is the problem
+plane-crazy 2019-08-24 08:05:11 Its happening in all servers
+plane-crazy 2019-08-24 08:05:22 smh
+plane-crazy 2019-08-24 08:05:42 huh
+plane-crazy 2019-08-24 08:05:52 wheres mY SERVER EXTERMINATOR ROLE
+plane-crazy 2019-08-24 08:19:23 Are all of the hidden items inside the lab?
+plane-crazy 2019-08-24 08:21:18 I can't find the water wheel anywhere 👀
+plane-crazy 2019-08-24 08:21:26 I must be blind
+plane-crazy 2019-08-24 08:23:42 Oh I need to reupload my old builds to be eligible for master ranks
+plane-crazy 2019-08-24 08:23:44 welp
+creations-chat 2019-09-18 07:46:41 I made the blue falcon lol. First build in months
+creations-chat 2019-09-18 07:47:18 lul
+creations-chat 2019-09-18 07:47:42 what's even
+creations-chat 2019-09-18 07:48:19 👀
+creations-chat 2019-09-18 07:49:12 Oh
+creations-chat 2019-09-18 07:49:13 Yes
+creations-chat 2019-09-18 07:49:20 Yes it is
+creations-chat 2019-09-18 07:49:24 lmao
+creations-chat 2019-09-18 07:51:02 Does that bother you? B)
+creations-chat 2019-09-18 07:51:56 <:DabOnEm:520022237705928704>
+plane-crazy 2019-09-18 08:12:31 This game needs a paved racetrack
+plane-crazy 2019-09-18 21:19:18 How do you get the motors to follow your mouse?
+plane-crazy 2019-09-18 21:19:27 yes
+plane-crazy 2019-09-18 21:19:28 how
+plane-crazy 2019-09-18 21:19:31 I'm using motor 2
+plane-crazy 2019-09-18 21:19:44 Servo on or off?
+plane-crazy 2019-09-18 21:19:50 Yes it does
+plane-crazy 2019-09-18 21:20:04 Ok I thought it had to be on
+plane-crazy 2019-09-18 21:20:07 it is now lol
+plane-crazy 2019-09-18 21:20:20 Ah ok
+plane-crazy 2019-09-20 14:15:28 aka titanic
+creations-chat 2019-09-20 14:19:40 I modified my Blue Falcon, and now it miraculously flies. I still don't know how, it's such a weird shape 😩
+creations-chat 2019-09-20 14:19:43 
+creations-chat 2019-09-20 14:21:54 👌
+creations-chat 2019-09-20 14:23:34 ~~take my advice and don't make realistic stuff lmao~~
+creations-chat 2019-09-20 14:26:32 <@163143541160148992> critique my copyright infringement father
+creations-chat 2019-09-20 14:27:24 Do you not know what the blue falcon is tho lol
+creations-chat 2019-09-20 14:27:46 I know you are but do you know what the blue falcon is tho
+creations-chat 2019-09-20 14:27:49 <@163143541160148992>
+creations-chat 2019-09-20 14:27:50 smh
+creations-chat 2019-09-20 14:29:03 Lmfao
+creations-chat 2019-09-20 14:30:43 😩
+reports 2019-09-20 20:07:03 PLAYER: SurgeImpulse
+REASON: NSFW Content
+EVIDENCE: https://gyazo.com/3a94c8dd493f33bcaf6847764a67eafd
+PROFILE: https://www.roblox.com/users/78286508/profile
+reports 2019-09-20 20:19:56 PLAYER: tidalwavehq
+REASON: Hateful imagery
+EVIDENCE: https://www.roblox.com/users/27421874/profile
+PROFILE: https://www.roblox.com/users/78286508/profile
+creations-chat 2019-09-20 22:04:45 <@!287348977618124800> fake lego, corners not sharp enough to slice jugulars
+bot-central 2019-09-20 22:38:01 =p https://www.youtube.com/watch?v=CX45pYvxDiA
+bot-central 2019-09-20 22:40:32 =skip
+bot-central 2019-09-20 22:44:54 =stop
+bot-central 2019-09-20 22:45:18 =p https://www.youtube.com/watch?v=CX45pYvxDiA
+plane-crazy 2019-09-20 22:45:51 :/
+plane-crazy 2019-09-20 22:45:51 Why the hell does the same song keep playing in music channel even though next in queue isn't the same song
+plane-crazy 2019-09-20 22:46:04 how do you disable it
+plane-crazy 2019-09-20 22:46:05 what's the command
+plane-crazy 2019-09-20 22:48:15 Can someone please end this loop smh
+bot-central 2019-09-20 22:48:33 =loop
+plane-crazy 2019-09-20 22:48:58 That's kind of stupid
+plane-crazy 2019-09-20 22:49:17 smh
+plane-crazy 2019-09-21 03:08:54 https://gyazo.com/394b30efd4a2e0d6e6f8703f6b693813 smh I hope this works
+bot-central 2019-09-21 03:09:28 =play mister sandman
+plane-crazy 2019-09-21 03:10:19 It's supposed to be a v-tol engine that can switch between hovering and thrust modes
+plane-crazy 2019-09-21 03:11:30 ~~minecraft~~
+plane-crazy 2019-09-21 03:14:30 you can make almost anything fly in this game its funnee
+plane-crazy 2019-09-21 03:18:38 smh they bad
+plane-crazy 2019-09-21 03:20:09 not all of them
+plane-crazy 2019-09-22 23:16:44 Ok am I sped or something
+plane-crazy 2019-09-22 23:16:48 why the hell cant I get this to work
+plane-crazy 2019-09-22 23:17:33 I'm sped my small brain can't understand how vtol's work
+plane-crazy 2019-09-22 23:17:57 vip do you know how vtols work
+plane-crazy 2019-09-22 23:18:07 😩
+plane-crazy 2019-09-22 23:18:21 not asking u noob
+plane-crazy 2019-09-22 23:18:23 👀
+plane-crazy 2019-09-22 23:18:49 "vtol engineer IV"
+plane-crazy 2019-09-22 23:19:01 I've made better vtols than you have
+plane-crazy 2019-09-22 23:19:05 "vtol engineer II"
+plane-crazy 2019-09-22 23:19:11 Please don't be sped
+plane-crazy 2019-09-22 23:22:55 Smh
+plane-crazy 2019-09-22 23:23:14 <:TEApose:544705362859786251>
+plane-crazy 2019-09-23 01:39:01 smh rick fake fan
+plane-crazy 2019-09-23 05:02:27 wow you're edgy rebelling against parents 😂
+plane-crazy 2019-09-24 00:21:40 Why are motors still broken 😩
+plane-crazy 2019-09-24 00:24:46 <@!238017332872478720> Are you saying motors aren't broken? lmfao
+plane-crazy 2019-09-24 00:25:05 And im asking why they aint fixed yet
+plane-crazy 2019-09-24 00:25:11 Not as a meme
+plane-crazy 2019-09-24 00:25:27 You're making 0 sense lmao
+plane-crazy 2019-09-24 00:25:41 Obviously
+plane-crazy 2019-09-24 00:25:49 They are lol
+plane-crazy 2019-09-24 00:26:18 The proof is things attached to my motors changing positions when I try to turn them lmaooo
+help 2020-01-26 07:39:24 https://gyazo.com/e337f3cd15bab0cfde1e38b5b2b75e38
+help 2020-01-26 07:39:38 Why does the bottom twist like this when it walks, but nobody else's does when they make similar things
+help 2020-01-26 07:39:49 I even added counter thrust smh
+the-dump 2021-01-24 06:12:03 HUH
+general 2021-01-29 20:26:22 Bruh
+general 2021-03-20 05:01:20 thanks
+general 2021-03-20 05:03:09 lmao
+general 2022-02-05 07:33:22 🥱
+general 2022-02-05 07:34:35 hey mod, someone in here is attempting to scam people lol
+general 2022-02-05 07:36:38 <@!844742401439694868> https://gyazo.com/259ab0a13ea4d4e36b406a0c59e36fc5
+general 2022-02-05 07:36:55 discord account hijack scam
+general 2022-02-05 07:37:28 high tier*
+general 2022-02-05 07:37:35 yes
+general 2022-02-05 07:37:37 no
+general 2022-02-05 07:37:45 3070 is high lmfao
+general 2022-02-05 07:37:52 3050/60 is mid
+general 2022-02-05 07:38:49 damn I wish my main pc had a 3070 😔
+general 2022-02-05 07:39:07 usa
+general 2022-02-05 07:39:22 do it 😳
+general 2022-02-05 07:39:31 yes
+general 2022-02-05 07:39:31 for free
+general 2022-02-05 07:39:34 😎
+general 2022-02-05 07:39:47 too much
+general 2022-02-05 07:40:35 you can buy them at walmart
+general 2022-02-05 07:41:14 Not that I know of
+general 2022-02-05 07:41:27 I've been fine just haven't been in here ig lol
+general 2022-02-05 07:41:35 yes
+general 2022-02-05 07:41:55 I think you have to be 18 years or older
+general 2022-02-05 07:41:59 but yeah
+general 2022-02-05 07:43:48 I should play more
+general 2022-02-05 07:43:52 or at all
+general 2022-02-05 07:44:09 bro finding old builds 😩
+general 2022-02-05 07:44:28 all hail
+general 2022-02-05 07:45:57 me when roblox runs at 200 fps with fps unlocker but my monitor only has a 60hz screen <:trollface:775024642104229898>
+general 2022-02-05 07:46:23 bro you need an upgrade
+general 2022-02-05 07:46:57 I just tried to fly this again, I complete forgot how it worked lol
+general 2022-02-05 07:47:42 Im rocking a i5 7400 gtx 1060 6gb 32gb ram B)
+general 2022-02-05 07:48:20 I think if they werent human and thye walked into a Walmart, they would be captured and sent to a zoo
+general 2022-02-05 07:48:30 ?????????????
+general 2022-02-05 07:48:34 20gb ram
+general 2022-02-05 07:48:35 how
+general 2022-02-05 07:49:04 2 6gb 1 8gb
+general 2022-02-05 07:49:05 ?
+general 2022-02-05 07:49:19 I mean
+general 2022-02-05 07:49:20 I guess
+general 2022-02-05 07:49:38 your ram is mismatched 😔
+general 2022-02-05 07:49:51 you cant get 20gb ram without mismatching lol
+general 2022-02-05 07:51:11 my phone is my laptop
+general 2022-02-05 07:51:18 galaxy z fold 3 😎
+general 2022-02-05 07:51:26 big flex ik
+general 2022-02-05 07:51:44 never
+general 2022-02-05 07:52:08 *pocket sand*
+general 2022-02-05 07:52:31 I have a feeling your computer would run better with 16gb rather than 20 lol
+general 2022-02-05 07:53:24 that depends on the application you're using
+general 2022-02-05 07:54:47 rtx 5000??
+general 2022-02-05 07:55:32 oh its a quadro
+general 2022-02-05 07:55:44 I thought you meant it was a mainline rtx gpu
+general 2022-02-05 07:56:17 no but do you have the golden wiimote
+general 2022-02-05 07:56:19 B)
+general 2022-02-05 07:56:41 <:nooo:787097964946259978>
+general 2022-02-05 07:56:54 Lmaoo
+general 2022-02-05 07:59:22 bro
+general 2022-02-05 07:59:28 high schoolers nasty bro
+general 2022-02-05 08:00:16 youtube ☠️
+general 2022-02-05 08:00:39 lol its not
+general 2022-02-05 08:00:41 but ill delete
+general 2022-02-05 08:00:48 It's not
+general 2022-02-05 08:00:51 I know what it was
+general 2022-02-05 08:01:49 lolll
+general 2022-02-05 08:02:20 amogus
+general 2022-02-05 08:02:45 it's a youtube ad
+general 2022-02-05 08:02:52 of amogus
+general 2022-02-05 08:08:27 🥱
+general 2022-02-05 08:08:29 ok I sleep
+general 2022-04-07 22:32:06 Why the hell do I have 4 pings in here from the last week lmao
+general 2022-04-07 22:32:52 ?
+general 2022-04-07 22:33:23 what does me being active have to do with people pinging me directly lol
+general 2022-04-07 22:37:47 No
+general 2022-04-07 22:38:21 idk
+general 2022-04-16 08:41:04 What about my status
+the-dump 2022-07-04 20:51:41 What

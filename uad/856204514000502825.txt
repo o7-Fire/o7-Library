@@ -1,0 +1,1126 @@
+The Tale of lacabre (856204514000502825)
+general 2022-04-12 08:58:23 I wonder, did anyone ever make a giant gun that shoots out projectiles that actually kills.
+general 2022-04-12 08:58:26 I am curious.
+general 2022-04-12 08:58:59 nvm that's just gun companies.
+plane-crazy 2022-04-12 14:27:49 There is a point where when you turn, you can not really control your yawn.
+plane-crazy 2022-04-12 14:29:08 another thing which kinda annoys me is that the plane does not try to reset the roll, like when you have your pitch up it goes up and then eventually tries to go back equalibrium.
+plane-crazy 2022-04-12 14:29:28 This probs only happens on custom wings though.
+plane-crazy 2022-04-12 14:30:41 Tbh if you really want that speed, you should reserve it to an ''emergency engine'' on a separate button
+plane-crazy 2022-04-12 14:30:49 So you can go really fast when you really need to.
+plane-crazy 2022-04-12 14:31:05 Very useful especially with conveyor drives.
+plane-crazy 2022-04-12 14:31:09 As they can go backwards.
+plane-crazy 2022-04-12 14:31:32 Though I just use a conveyor drive set to 12-17 and roll with it.
+plane-crazy 2022-04-12 14:32:08 Maybe some angle locking crap?
+plane-crazy 2022-04-12 14:32:36 I aint too knowledgable about it as the most I can do is use a basic motor lock tower and then lock it
+plane-crazy 2022-04-12 17:15:50 I wonder, how the heck do I train my aim in Plane Crazy?
+plane-crazy 2022-04-12 17:16:09 There ain't a cross hair or a way to turn the plane towards your cursor when it is big
+plane-crazy 2022-04-12 17:16:48 I wonder how the heck do I get better control for my planes and how do I get aiming?
+plane-crazy 2022-04-12 17:32:39 I wonder is there a way to make a Base Wars styled plane control system.
+plane-crazy 2022-04-12 17:32:53 It uses the mouse for the yawn and pitch.
+plane-crazy 2022-04-12 17:33:04 While the roll is controlled by key binds
+plane-crazy 2022-04-12 17:33:37 Tried that on my relatively big plane
+plane-crazy 2022-04-12 17:33:40 It failed
+plane-crazy 2022-04-12 17:33:54 And the thing that is probs impossible is
+plane-crazy 2022-04-12 17:34:01 In base wars
+plane-crazy 2022-04-12 17:34:05 When you click your mouse
+plane-crazy 2022-04-12 17:34:22 The plane's roll is returned to default
+plane-crazy 2022-04-12 17:34:45 And when it is not at default, the yawn does not get affected
+plane-crazy 2022-04-12 17:34:56 You don't have to consider the roll at all when turning in that dead game
+plane-crazy 2022-04-12 17:35:07 Just aim your mouse and it will go there.
+plane-crazy 2022-04-12 17:35:18 The speed is gone after that.
+plane-crazy 2022-04-12 17:35:53 I will probs go there I guess
+plane-crazy 2022-04-12 17:36:16 My plane probably had too many motor locks I guess.
+plane-crazy 2022-04-12 17:36:28 Like seriously nearly the whole body is motor locked
+plane-crazy 2022-04-12 17:36:46 That is why I use a conveyor drive on my main plane.
+plane-crazy 2022-04-12 17:36:52 So that I can drive backwards.
+plane-crazy 2022-04-12 17:37:22 Ahh ok
+plane-crazy 2022-04-12 17:37:37 I will do my research and try to implement the guidelines for it and fail
+plane-crazy 2022-04-12 17:37:40 And then
+plane-crazy 2022-04-12 17:37:46 Go on to make my own design that works
+plane-crazy 2022-04-12 17:38:04 Exactly what happened with my attempt at a custom circle angle lock
+plane-crazy 2022-04-12 17:41:21 I find the fact that the smokers and sparklers's particles will separate into balls instead if staying together,making my angle l locked thruster look less cool.
+plane-crazy 2022-04-12 17:41:59 Ngl you can do enough with normal motor locking
+plane-crazy 2022-04-12 17:42:52 I made my thrusters by making a motor locl tower the locking it with TNT and on the body I out down motor with a thruster and on the tower I put another thruster on so when I rotate the motor and unlock the tower it combines into a custom circle.
+plane-crazy 2022-04-12 17:43:04 That is simple motor locking
+plane-crazy 2022-04-12 17:43:27 Angle locking only comes into play when you want cool ass rudders
+plane-crazy 2022-04-12 17:43:37 Because seriously I want to figure that shit out.
+plane-crazy 2022-04-12 17:43:58 Ok maybe it comes into play more often than that
+plane-crazy 2022-04-12 17:44:06 I did.
+plane-crazy 2022-04-12 17:44:29 I even tried copying a YouTuber's design
+plane-crazy 2022-04-12 17:44:33 After it failed thrice
+plane-crazy 2022-04-12 17:44:52 I decided "fuck this I'ma make my own for my special needs"
+plane-crazy 2022-04-12 17:45:29 Maybe more things like wings custom slopes and other custom made things but
+plane-crazy 2022-04-12 17:46:42 I am curious, what is the most advanced technique that can bring the most detail into a build?
+plane-crazy 2022-04-12 17:47:24 Soooo basically motor locks on more motor locks with?
+plane-crazy 2022-04-12 17:47:39 I thought the same thing when I saw it.
+plane-crazy 2022-04-12 17:48:09 Soooo me motor locking everything on my build is weird?
+plane-crazy 2022-04-12 17:48:20 Like it adds quite a lot of durability to my jet.
+plane-crazy 2022-04-12 17:48:35 The motors just take a lot of the punishment.
+plane-crazy 2022-04-12 17:48:51 Until I realized I suck at piloting and aiming.
+plane-crazy 2022-04-12 17:49:14 Most I can do is run into the void and hope nobody can go faster than my speed 15 conveyor drive.
+plane-crazy 2022-04-12 17:49:37 Oh here it comes
+plane-crazy 2022-04-12 17:49:40 Here it comes
+plane-crazy 2022-04-12 17:49:53 Unde Deez nuts
+plane-crazy 2022-04-12 17:50:47 Mfw I made a jet of my own and tried to call it "ASS-420"
+plane-crazy 2022-04-12 17:51:48 My jet has like 5 separate motorlock towers.
+plane-crazy 2022-04-12 17:51:53 For some reason...
+plane-crazy 2022-04-12 17:52:30 Is that a cheese grater on a plane's wings?
+plane-crazy 2022-04-12 17:52:59 Is that a pasta guitar? On a plane?
+plane-crazy 2022-04-12 17:53:33 Though tbh
+plane-crazy 2022-04-12 17:53:39 Those look a bit too ya know
+plane-crazy 2022-04-12 17:53:43 Tutorial like
+plane-crazy 2022-04-12 17:54:03 They don't have a motor lock.
+plane-crazy 2022-04-12 17:55:05 Looks like my jet, without all the mess...
+plane-crazy 2022-04-12 17:55:15 Front looks like my jet, without the mess
+plane-crazy 2022-04-12 17:56:29 Damn, my plane could do some cardio and lose some fat.
+plane-crazy 2022-04-12 17:56:57 My plane stretches to like 7 blocks without counting the wings .
+plane-crazy 2022-04-12 17:57:27 Though that does make my plane quite a tank
+plane-crazy 2022-04-12 17:57:42 And it is still quite speedy with the conveyor drive and emergency super rockets.
+plane-crazy 2022-04-12 17:58:38 Bruh I can't say the word for the place pilots sit in
+plane-crazy 2022-04-12 17:58:56 S p e e d
+plane-crazy 2022-04-12 17:59:00 And also
+plane-crazy 2022-04-12 17:59:08 To drive backwards
+plane-crazy 2022-04-12 17:59:28 Any other engines can't do that.
+plane-crazy 2022-04-12 18:00:15 It used to be my emergency
+plane-crazy 2022-04-12 18:00:25 But because my plane had a ton of motor locks and blocks
+plane-crazy 2022-04-12 18:00:36 It was going at like 300-500.
+plane-crazy 2022-04-12 18:00:55 Now with the conveyor drive instead of the old hover drive with super rockets
+plane-crazy 2022-04-12 18:01:16 It goes to 500-900
+plane-crazy 2022-04-12 18:01:30 It can go to 3k if I charge it up with an anchor
+plane-crazy 2022-04-12 18:01:48 Consistency is better for me.
+plane-crazy 2022-04-12 18:01:53 Though not rlly
+plane-crazy 2022-04-12 18:02:01 As I can't pilot or aim my big guns.
+plane-crazy 2022-04-12 18:02:19 My uhh whatever jet I made has 5 motor lock towers
+plane-crazy 2022-04-12 18:02:22 And they are tall
+plane-crazy 2022-04-12 18:02:28 With tons of blocks in then.
+plane-crazy 2022-04-12 18:03:03 Using multiple prevents the craft from falling apart from a volley of 6 rockets.
+plane-crazy 2022-04-12 18:04:00 Like that plane can survive so much until the pilot is disconnected from the body or the body is split into too many parts or the wings get demolished.
+plane-crazy 2022-04-12 18:04:13 Mostly happening from me trying to pretend my plane is a tank and not a plane.
+plane-crazy 2022-04-12 18:04:38 Until you screw up.
+plane-crazy 2022-04-12 18:07:39 Oh please the motors suck up the damage
+plane-crazy 2022-04-12 18:07:43 It is so tanky
+plane-crazy 2022-04-12 18:08:00 That it needs a conveyor drive to even get it to normal speeds.
+plane-crazy 2022-04-12 18:08:07 It can get even higher or lower with my fps
+plane-crazy 2022-04-12 18:08:31 The most I saw is 55k in speed.
+plane-crazy 2022-04-12 18:09:06 My whatever the fuck is my jet has big wings like very big ones and a lot of motor towers
+plane-crazy 2022-04-12 18:09:11 Which lock down the build.
+plane-crazy 2022-04-12 18:09:32 Along with a conveyor drive that I adjust from 10-15.
+plane-crazy 2022-04-12 18:09:50 With other engines like super rockets for emergency situations.
+plane-crazy 2022-04-12 18:10:14 It has the gun blocks motor locked into the front part of the pilot seat
+plane-crazy 2022-04-12 18:10:42 Along with 4 fireworks motor locked just behind it and 4 rockets strapped onto them
+plane-crazy 2022-04-12 18:11:11 I don't think so
+plane-crazy 2022-04-12 18:11:34 They give really good speed for how simple they are
+plane-crazy 2022-04-12 18:11:49 Bruv give my PC a break
+plane-crazy 2022-04-12 18:12:07 It goes down to 40 fps within the first 10 minutes
+plane-crazy 2022-04-12 18:12:32 I know I should listen but
+plane-crazy 2022-04-12 18:12:44 Drag for me is nothing until I try to maximise it
+plane-crazy 2022-04-12 18:13:24 Super rockets for me cause as much drag as any other blocks
+plane-crazy 2022-04-12 18:13:46 The jet problem's with me not the jet.
+plane-crazy 2022-04-12 18:13:49 Huh
+plane-crazy 2022-04-12 18:13:54 I must have been mistaking
+plane-crazy 2022-04-12 18:14:04 Though if it causes so much drag
+plane-crazy 2022-04-12 18:14:14 Just crank up the conveyor drive or idk
+plane-crazy 2022-04-12 18:14:24 Incorporate them into the main engine
+plane-crazy 2022-04-12 18:14:43 They produce more speed than drag, right?
+plane-crazy 2022-04-12 18:15:34 I have no more space on the craft.
+plane-crazy 2022-04-12 18:15:42 It may be wide but it is a tight one.
+plane-crazy 2022-04-12 18:16:09 And I only use 2 super rockets on my craft rn
+plane-crazy 2022-04-12 18:16:28 They give like 200-500 extra speed.
+plane-crazy 2022-04-12 18:16:42 Enough for me or recover from a tight manuver.
+plane-crazy 2022-04-12 18:17:12 And they serve some cosmetic purposes too as their blue exhaust adds to my thrusters
+plane-crazy 2022-04-12 18:17:20 I will do it later.
+plane-crazy 2022-04-12 18:17:23 Though be warned
+plane-crazy 2022-04-12 18:17:27 It is a big mess.
+plane-crazy 2022-04-13 18:02:37 Imagine if somebody made a railgun that reloads itself, and it moves on wheels.
+plane-crazy 2022-04-13 18:03:00 Wait is that not just a kamikaze plane?
+plane-crazy 2022-04-13 18:04:11 I imagine a grand contraption with complicated motor and pistons made to fire explosives at extreme speed and precision
+plane-crazy 2022-04-13 18:04:36 Like if that is possible I wonder what is stopping us from making a full on irl recreation of a gun.
+plane-crazy 2022-04-14 17:04:10 Tbh this game kinda teaches a bit of engineering.
+plane-crazy 2022-04-14 17:04:23 Not the whole math that goes into it.
+plane-crazy 2022-04-14 17:04:30 It is more of a mindset than anything.
+plane-crazy 2022-04-14 17:06:18 Oh please my brain practically commits complete stroke when I see that.
+plane-crazy 2022-04-14 17:06:42 It is op, if I did not knew how to pvp.
+plane-crazy 2022-04-14 17:07:10 They are balls.
+plane-crazy 2022-04-14 17:07:17 No connection points
+plane-crazy 2022-04-14 17:07:20 And they roll
+plane-crazy 2022-04-14 17:07:24 Basically
+plane-crazy 2022-04-14 17:07:27 Like any other balls.
+plane-crazy 2022-04-14 17:07:34 Make what?
+plane-crazy 2022-04-14 17:07:47 Yes.
+plane-crazy 2022-04-14 17:07:56 But, there is a railgun design
+plane-crazy 2022-04-14 17:08:03 That uses magnets instead
+plane-crazy 2022-04-14 17:08:18 It is useful for when rockets lag out on big builds.
+plane-crazy 2022-04-14 17:08:36 Probably why my big and heavy foil jet survivied rockets so easily.
+plane-crazy 2022-04-14 17:08:57 I mean
+plane-crazy 2022-04-14 17:09:10 It is possible to make a reloading system for the rail gun
+plane-crazy 2022-04-14 17:09:16 The design on yt rn is one use.
+plane-crazy 2022-04-14 17:09:27 But I see the possibility of making a reload mechanism
+plane-crazy 2022-04-14 17:09:43 Like put in a few pistons and motor 2's and it is done.
+plane-crazy 2022-04-14 17:10:42 Tbh maybe a motor 2 to open or close a gap for the balls to fall into the barrel and a Liston pushing a block to block the front of the barrel probably will make a good enough reload mechanism
+plane-crazy 2022-04-14 17:11:33 There is this namam dude on yt that made one for aircraft
+plane-crazy 2022-04-14 17:11:44 Try using that to base your reload mechanism out of.
+plane-crazy 2022-04-14 17:11:48 Like it probably is simple
+plane-crazy 2022-04-14 17:12:06 Just a motor 2 and a piston added with a mag and it is probs good to go.
+plane-crazy 2022-04-14 17:29:51 A tank sized titanic
+plane-crazy 2022-04-14 17:30:48 Like y-wait that is too dark
+plane-crazy 2022-04-14 18:34:22 Good for you?
+plane-crazy 2022-04-14 18:35:12 Oh then just dont move it within the first seconds of piloting
+plane-crazy 2022-04-14 18:35:19 Let it settle down.
+plane-crazy 2022-04-14 19:05:59 A 100 percent way to fix it is to remove the suspension
+plane-crazy 2022-04-15 18:38:19 Copy and paste from a font
+plane-crazy 2022-04-15 18:40:22 *not sleeping noises
+plane-crazy 2022-04-15 18:42:02 Ahh I see
+plane-crazy 2022-04-15 18:42:16 Then ur screwed unless you can get a mobile emoji to do it for you
+plane-crazy 2022-04-15 18:42:21 Or a Discord emote
+plane-crazy 2022-04-15 18:58:36 Oh please all it really takes to be a professional is to ignore sleep and be on drugs.
+plane-crazy 2022-04-15 19:55:12 How to be a professional plane crazy engineer
+plane-crazy 2022-04-15 19:55:19 Step 1 be on drugs
+plane-crazy 2022-04-15 19:55:36 Step 2 make something dumb
+plane-crazy 2022-04-15 19:55:39 Step 3
+plane-crazy 2022-04-15 19:55:44 Make that thing not dumb
+plane-crazy 2022-04-15 19:55:48 Step 4 repeat
+plane-crazy 2022-04-15 19:55:54 Step 5 still be on drugs
+plane-crazy 2022-04-16 16:35:12 Have any of y'all made the 2d variant of the F-14?
+plane-crazy 2022-04-16 16:36:00 2 Deez nuts
+plane-crazy 2022-04-16 16:36:54 No, that is just a heavy F-14
+plane-crazy 2022-04-16 16:37:04 2 Deez nuts
+plane-crazy 2022-04-16 16:38:07 When?
+plane-crazy 2022-04-16 16:38:47 You smack balls as a hobby?
+plane-crazy 2022-04-16 16:39:28 👀
+plane-crazy 2022-04-16 16:39:54 *p
+plane-crazy 2022-04-16 16:40:11 Un restrain yourself then.
+plane-crazy 2022-04-16 16:40:38 Or else I will mash your (balls) and serve them to (balls) as (balls)
+plane-crazy 2022-04-16 16:41:18 Mashed nuts
+plane-crazy 2022-04-16 16:46:39 Dafuq
+plane-crazy 2022-04-16 16:46:55 Why is there a horn in there?
+plane-crazy 2022-04-16 16:47:34 For what? 😳
+plane-crazy 2022-04-16 16:48:20 For what? 👀
+plane-crazy 2022-04-16 16:48:47 Where?
+plane-crazy 2022-04-16 16:49:41 😳
+plane-crazy 2022-04-16 16:50:19 I took it out of context.
+plane-crazy 2022-04-16 16:51:49 I wonder, are it's big guns accurate to the real ones?
+plane-crazy 2022-04-16 16:52:33 That looks like the lumbar region to me if you catch my drift
+plane-crazy 2022-04-16 17:03:58 Looks like my jet ngl
+plane-crazy 2022-04-16 17:04:50 It is more the colour that looks like my jet.
+plane-crazy 2022-04-16 17:04:55 
+plane-crazy 2022-04-16 17:20:48 Wait until the Confederate of Unamania becomes a name for a country
+plane-crazy 2022-04-16 17:21:24 Wtf
+plane-crazy 2022-04-16 17:22:09 Here is an easy fix to any plane crazy problems
+plane-crazy 2022-04-16 17:22:13 Quit plane crazy
+plane-crazy 2022-04-17 16:42:45 "don't use too many wing panels they cause drag" bruh just use more powerful engines or idk maybe know that drag can make movement more precise and less likely to crash?
+plane-crazy 2022-04-17 16:43:23 A conveyor drive can easily go to high speeds with jets that have many wing panels
+plane-crazy 2022-04-17 16:43:37 Disagreed.
+plane-crazy 2022-04-17 16:43:48 It is quite smooth with keyboard controls.
+plane-crazy 2022-04-17 16:44:14 Their existence proves my point right.
+plane-crazy 2022-04-17 16:44:44 Does not matter when you can more stability and the ability to use conveyor drives
+plane-crazy 2022-04-17 16:45:23 Propellers
+plane-crazy 2022-04-17 16:45:42 That you people love to use Soo much for roll control.
+plane-crazy 2022-04-17 16:46:18 And if you think that is invalid,then I will tell you a fact
+plane-crazy 2022-04-17 16:46:33 Rudders are one of the least used wing controls ever
+plane-crazy 2022-04-17 16:47:26 Oh please, I believe that in inducing terror on you, I can make a point feel more impacting.
+plane-crazy 2022-04-17 16:47:38 Especially when I am right behind you when you sleep.
+plane-crazy 2022-04-17 16:48:05 And
+plane-crazy 2022-04-17 16:48:17 The turning becomes quite fast at high speeds.
+plane-crazy 2022-04-17 16:48:30 As does the rolling.
+plane-crazy 2022-04-17 16:48:46 Deez nuts
+plane-crazy 2022-04-17 16:48:59 Bitches
+plane-crazy 2022-04-17 16:49:19 Bitches
+plane-crazy 2022-04-17 16:49:35 Wrong
+plane-crazy 2022-04-17 16:49:36 It is
+plane-crazy 2022-04-17 16:49:38 US RN
+plane-crazy 2022-04-17 16:49:52 C o m m u n i s m
+plane-crazy 2022-04-17 16:50:05 For you get no bitches so hard
+plane-crazy 2022-04-17 16:50:10 You resort to being gay.
+plane-crazy 2022-04-17 16:50:28 Kinda agree
+plane-crazy 2022-04-17 16:50:37 But like...
+plane-crazy 2022-04-17 16:50:52 One gives a crying potatoes that shits and cries and pisses and the other does not
+plane-crazy 2022-04-17 16:51:15 And instead gets you stared down by boomers
+plane-crazy 2022-04-17 16:51:59 Grand Autistic shit?
+plane-crazy 2022-04-17 16:52:23 
+plane-crazy 2022-04-17 16:54:56 Wot?
+plane-crazy 2022-04-17 16:55:10 Ohhh
+plane-crazy 2022-04-17 16:55:16 You meant the spy
+plane-crazy 2022-04-17 16:55:26 I thought you said I stole a meme from somebody named spy
+plane-crazy 2022-04-17 16:55:58 "P(sussy things) starring your mother will be the second worst thing that will happen to you today"
+plane-crazy 2022-04-17 16:58:21 ?
+plane-crazy 2022-04-17 16:58:28 Is ass a banned word?
+plane-crazy 2022-04-17 16:58:35 Definitely not
+plane-crazy 2022-04-17 16:58:46 It should be deleted when I say it...
+plane-crazy 2022-04-17 16:58:59 I can't even say the place that the pilots seat in
+plane-crazy 2022-04-17 16:59:04 Cockpit
+plane-crazy 2022-04-17 16:59:07 Oh good
+plane-crazy 2022-04-17 16:59:11 I can say it now
+plane-crazy 2022-04-17 16:59:27 Though
+plane-crazy 2022-04-17 16:59:38 If you say the sussy rule then it will get deleted
+plane-crazy 2022-04-17 16:59:50 Ya know
+plane-crazy 2022-04-17 16:59:56 The rule if the number next to it?
+plane-crazy 2022-04-17 17:00:07 I fucking told you
+plane-crazy 2022-04-17 17:00:40 If I wanted to bypass I would post the image of a guy with the username of "Jointhe(I won't say the rest of it)"
+plane-crazy 2022-04-17 17:01:12 Ok..
+creations-chat 2022-04-17 17:05:21 I wonder
+creations-chat 2022-04-17 17:07:05 Has anybody made a gun in this game?
+plane-crazy 2022-04-17 18:02:28 You don't
+plane-crazy 2022-04-17 18:02:59 Idk why are shredders even thought of as effective
+plane-crazy 2022-04-17 18:03:24 Like they are relatively slow and can't do much damage against many ground vehicles that have TNT armor
+plane-crazy 2022-04-17 18:03:50 Turrets die to me because I just crash into them with my horrible keyboard controlling skills
+plane-crazy 2022-04-17 18:04:31 Why the fuck did you use springs for that...
+plane-crazy 2022-04-17 18:05:06 I said many, not all.
+plane-crazy 2022-04-17 18:05:29 Tanks and jeeps usually have TNT armor.
+plane-crazy 2022-04-17 18:05:41 Even without that the heavier guns would shred a shredder
+plane-crazy 2022-04-17 18:06:24 Lemme guess
+plane-crazy 2022-04-17 18:06:33 It is just a bunch of rockets
+plane-crazy 2022-04-17 18:06:37 Or explosives
+plane-crazy 2022-04-17 18:07:04 Bro...
+plane-crazy 2022-04-17 18:07:12 Shredders are just flying cutters.
+plane-crazy 2022-04-17 18:07:26 And they are a swarm
+plane-crazy 2022-04-17 18:07:55 Explosive crap works way better
+plane-crazy 2022-04-17 18:08:10 Why allow the shredder to damage you?
+plane-crazy 2022-04-17 18:08:19 When you can damage them at range
+plane-crazy 2022-04-17 18:09:09 Then just...
+plane-crazy 2022-04-17 18:09:18 Put TNT on your builds...
+plane-crazy 2022-04-17 18:09:24 It is much more effective...
+plane-crazy 2022-04-17 18:10:09 Someone used a block
+plane-crazy 2022-04-17 18:10:14 And it crashed the server
+general 2022-04-19 19:29:58 Boyos
+general 2022-04-19 19:30:01 Look at my pfp
+general 2022-04-19 19:30:40 Same
+general 2022-04-19 19:30:45 But they breath
+general 2022-04-21 19:06:41 Which ball to kick to inflict to most pain?
+general 2022-04-21 19:08:53 Which left?
+general 2022-04-21 19:09:03 The first or the 40th?
+general 2022-04-21 19:09:24 Ok
+general 2022-04-21 19:12:44 Like your balls
+general 2022-04-21 19:12:48 Non-existent
+general 2022-04-27 20:00:25 Wow
+general 2022-04-27 20:00:32 Cockpit
+general 2022-04-27 20:01:13 Would you like to drink yellow urea infused dihydrogen monoxide?
+general 2022-04-27 20:01:32 Ladies first
+general 2022-04-27 20:01:53 Give me a gun
+general 2022-04-27 20:01:54 Now
+general 2022-04-27 20:02:12 I would like to have him meet the lord and savior Jesus Christ
+general 2022-04-27 20:03:09 I do not care if it is real or not
+general 2022-04-27 20:03:15 Do you want to meet Jesus?
+general 2022-04-27 20:03:45 Would you like Jesus?
+general 2022-04-27 20:03:55 <:Trigje139:559518788660232196>
+general 2022-04-27 20:04:09 I will send you to Jesus.
+general 2022-04-27 20:04:19 <:OMEGALUL:528987216643489792>
+general 2022-04-27 20:04:52 If you are sent to him, you can not unbelieve it.
+general 2022-04-27 20:05:43 The one in rockets or the one up in there?
+general 2022-04-27 20:07:07 It is now 2011
+general 2022-04-27 20:07:17 You are now in a plane.
+general 2022-05-04 16:53:03 We need to t-(banned)
+plane-crazy 2022-05-17 06:44:56 Can I post adult Links?
+plane-crazy 2022-05-17 06:45:48 Wdym
+plane-crazy 2022-05-17 06:47:18 Wdym that I can not post adult Links?
+plane-crazy 2022-05-17 06:48:35 Wdym I posted 3 just now.
+plane-crazy 2022-06-06 16:04:57 That's what she said.
+plane-crazy 2022-06-06 16:06:37 It's the 100000 years of pain and shame technique!!!
+plane-crazy 2022-06-06 16:06:50 🤚
+plane-crazy 2022-06-09 05:05:03 I use a conveyor drive as the main engine of one of my planes, at least it doesn’t glitch out.
+plane-crazy 2022-06-09 05:31:00 horses?
+plane-crazy 2022-06-09 05:31:11 lmao, you need not design one.
+plane-crazy 2022-06-09 06:59:31 Bail out of deez-
+plane-crazy 2022-06-09 07:16:36 wanna see em?
+plane-crazy 2022-06-09 07:26:47 <:Mhm:551152556324159488>
+plane-crazy 2022-06-11 17:23:33 I have spent around 3 weeks to make my own jet without basing it off a tutorial or an irl jet.
+plane-crazy 2022-06-11 17:23:59 At least it can pvp.
+plane-crazy 2022-09-18 14:50:35 Yesterday I joined a server full of good ol’jet pilots and it was peaceful (it was a pvp server)
+plane-crazy 2022-09-18 14:50:49 then a couple hours ago, I joined a server with 3 shredder users.
+plane-crazy 2022-09-21 13:08:55 What is your opinion on this thing?
+plane-crazy 2022-09-21 13:12:13 Smh, I decided to design my own damn jet.
+plane-crazy 2022-09-21 13:14:51 Why can’t I make a flying dorito without being bullied ;-;
+plane-crazy 2022-09-21 13:15:16 so, gjsolo was correct.
+plane-crazy 2022-09-21 13:15:22 MAKE EVERYTHING FUCKING ORANGE
+plane-crazy 2022-09-21 13:15:52 please tell me the flaws of my build.
+plane-crazy 2022-09-21 13:16:05 Because every time I modify it I have to retune it.
+plane-crazy 2022-09-21 13:16:10 So that I can use it for pvp.
+plane-crazy 2022-09-21 13:16:19 You mean copy them?
+plane-crazy 2022-09-21 13:16:41 I want to make a custom made flying wing aircraft.
+plane-crazy 2022-09-21 13:16:55 I used Nam Nam’s guide to make it somewhat pvp viable.
+plane-crazy 2022-09-21 13:17:12 I could try making that experimental 6th gen, but I have problems copying.
+plane-crazy 2022-09-21 13:17:26 I want to make one that people like.
+plane-crazy 2022-09-21 13:18:10 Like christ, is my jet too short?
+plane-crazy 2022-09-21 13:18:17 I am hearing a pp joke somewhere.
+plane-crazy 2022-09-21 13:18:45 Name it’s bad parts, please man
+plane-crazy 2022-09-21 13:19:06 Please elaborate….
+plane-crazy 2022-09-21 13:19:28 Like christ, my playtime’s only 8 days. I need an explanation.
+plane-crazy 2022-09-21 13:19:43 Like, should I just make it an actual flying dorito?
+plane-crazy 2022-09-21 13:20:15 I want people to like it….
+plane-crazy 2022-09-21 13:20:27 like, I am now afraid of showing y’all my 2nd custom jet…
+plane-crazy 2022-09-21 13:21:16 Fam, just because I can’t make those types of details. It doesn’t mean I will not stop try.
+plane-crazy 2022-09-21 13:21:20 oh alr.
+plane-crazy 2022-09-21 13:21:30 So, now how the fuck do split rudders work?
+plane-crazy 2022-09-21 13:21:39 I motorlocked the shit out of my jet.
+plane-crazy 2022-09-21 13:22:19 You can even see a bit of the exposed motorlocking.
+plane-crazy 2022-09-21 13:22:55 Welp, might as well send another ss…
+plane-crazy 2022-09-21 13:23:13 then I won’t….
+plane-crazy 2022-09-21 13:25:32 <@582834773773254656> Just fucking roast me...
+plane-crazy 2022-09-21 13:25:56 I know, the back looks horrible...
+plane-crazy 2022-09-21 13:26:08 though at least I had to figure out some cam-locking for this shit.
+plane-crazy 2022-09-21 13:26:15 And my camo skills are horrible...
+plane-crazy 2022-09-21 13:26:21 I fucking know...
+plane-crazy 2022-09-21 13:26:55 I don't like things looking bulky....
+plane-crazy 2022-09-21 13:27:04 I despise angle locking quite a bit.
+plane-crazy 2022-09-21 13:28:14 Like, is it too blocky?
+plane-crazy 2022-09-21 13:28:20 Is that what ya mean?
+plane-crazy 2022-09-21 13:28:35 I made them for pvp....
+plane-crazy 2022-09-21 13:28:39 of course they're small...
+plane-crazy 2022-09-21 13:28:56 I hear a pp joke somewhere.
+plane-crazy 2022-09-21 13:29:12 I like my builds to have a use.
+plane-crazy 2022-09-21 13:29:23 ''Looking cool'' is not a use.
+plane-crazy 2022-09-21 13:30:07 Like, wtf am I supposed to do?
+plane-crazy 2022-09-21 13:30:16 Start making 100 angle locks for 1 corner?
+plane-crazy 2022-09-21 13:30:38 Like, I once did over motorlock my build
+plane-crazy 2022-09-21 13:30:47 And it slowed it down all the way to 500 sps
+plane-crazy 2022-09-21 13:30:51 even with a conveyor drive.
+plane-crazy 2022-09-21 13:31:07 That is slower than a shredder bug.
+plane-crazy 2022-09-21 13:31:41 Welp, might as well take your advice.
+plane-crazy 2022-09-21 13:31:50 And throw half of it into the fire, because fuck the sacrefices.
+plane-crazy 2022-09-21 13:32:09 I will get around them, somehow.
+plane-crazy 2022-09-21 13:32:28 +you can simply add more engines.
+plane-crazy 2022-09-21 13:32:42 Hover drives are pretty powerful afterall.
+plane-crazy 2022-09-21 13:33:07 Please tell me you build your jets with engines.
+plane-crazy 2022-09-21 13:33:18 Because I am getting the vibe that you don't.
+plane-crazy 2022-09-21 13:33:53 alr cya.
+plane-crazy 2022-09-21 13:34:03 Might as well think of a build I'll spend 5 months on.
+plane-crazy 2022-09-25 09:02:24 Looks like if ebola was a jet.
+plane-crazy 2022-09-25 09:04:46 I mean, the shit that’s wrong for me in this are the wings, though I can’t see em clearly.
+plane-crazy 2022-09-25 09:05:16 just log into discord via the browser.
+plane-crazy 2022-09-25 09:05:23 I mean, that’s what I usually do.
+plane-crazy 2022-09-25 09:05:43 There’s nothing wrong with those.
+plane-crazy 2022-09-25 09:05:46 Aside from the fact that
+plane-crazy 2022-09-25 09:05:52 ALL OF THEM ARE SU-27S
+plane-crazy 2022-09-25 09:06:05 LIKE WHY THE FUCK DO ALL OF THEM USE THE SAME FUCKING MODEL OF JET
+plane-crazy 2022-09-25 09:06:35 Fam, they’re a lot less laggy than your 200 angle locks.
+plane-crazy 2022-09-25 09:06:48 And cmon, they don’t look that bad.
+plane-crazy 2022-09-25 09:07:17 Make it 5.
+plane-crazy 2022-09-25 09:07:26 I don’t like 4 as a number.
+plane-crazy 2022-09-25 09:08:16 Yes, please
+plane-crazy 2022-09-25 09:08:19 please murder me.
+plane-crazy 2022-09-25 09:09:16 Ngl, it doesn’t look too bad, aside from the back and the slightly exposed propeller blades.
+plane-crazy 2022-09-25 09:09:49 Looks like an F14 melded with a F-35
+plane-crazy 2022-09-25 09:10:12 I think the back of it looks weird.
+plane-crazy 2022-09-25 09:10:41 Yes.
+plane-crazy 2022-09-25 09:11:11 anyways
+plane-crazy 2022-09-25 09:11:19 look at dis big boi
+plane-crazy 2022-09-25 09:11:47 wtf is that?
+plane-crazy 2022-09-25 09:11:55 Looks more like a pp.
+plane-crazy 2022-09-25 09:12:54 Should’ve took longer, even if you did it’d probably still suck.
+plane-crazy 2022-09-25 09:13:46 The F-32 looks better than that.
+plane-crazy 2022-09-25 09:14:37 I probs would be able to make one in a week, since camera locking does take a while to perfect for a build.
+plane-crazy 2022-09-25 09:15:21 We’re all nerds here f-
+plane-crazy 2022-09-25 09:15:22 huh.
+plane-crazy 2022-09-25 09:15:36 Seems like some of us have severe auti-oh wait that’s offensive.
+plane-crazy 2022-09-25 09:15:55 thanks for completing it.
+plane-crazy 2022-09-25 09:16:19 It is complicated, but it is less bulky than angle locking.
+plane-crazy 2022-09-25 09:16:34 and much lighter and less laggier.
+plane-crazy 2022-09-25 09:17:05 You’re not supposed to use it, excessively.
+plane-crazy 2022-09-25 09:17:50 Cam lock’s more for smaller details like the rudders or a plane’s spine.
+plane-crazy 2022-09-25 09:19:20 It makes me wonder “why the fuck did the US not use more nukes”.
+plane-crazy 2022-09-25 09:20:02 yes.
+plane-crazy 2022-09-25 09:20:39 and not bulky.
+plane-crazy 2022-09-25 09:21:19 That is why I only use cam locking for small details.
+plane-crazy 2022-09-25 09:21:25 Like rudders.
+plane-crazy 2022-09-25 09:21:48 also, look at dis big boi again
+plane-crazy 2022-09-25 09:21:59 t h i c c
+plane-crazy 2022-09-25 09:24:14 It is the most ship, I’ve seen.
+plane-crazy 2022-09-25 09:24:20 It has a stern.
+plane-crazy 2022-09-25 09:24:26 It has a bow.
+plane-crazy 2022-09-25 09:24:36 And has a massive shaf-
+plane-crazy 2022-09-25 09:25:45 
+plane-crazy 2022-09-25 09:26:11 This is getting ridiculous with how many funny parts there are.
+plane-crazy 2022-09-28 11:28:48 Hey, y'all. I am trying to make a cockpit and I was wondering, are there any guides on getting specific angles with angle locking? Cam locking fell short of the goal by a small bit, so I am resorting to angle locking. I would love some help/advice.
+plane-crazy 2022-09-28 11:29:10 (Please ignore the shit colours, still working on it)
+plane-crazy 2022-09-28 12:20:02 most useful thing thrust vectoring can do in Plane Crazy is either, that fancy ass maneuver or vertical takeoff/landing.
+plane-crazy 2022-09-28 12:20:22 (note, don’t take my advice or opinion as fact)
+plane-crazy 2022-09-28 15:54:54 s m o o t h
+plane-crazy 2022-09-29 09:17:41 use cam locking.
+plane-crazy 2022-09-29 09:17:52 Nobody said that cam locks had to be angled.
+plane-crazy 2022-09-29 09:18:35 Just 2…..
+plane-crazy 2022-09-29 09:19:00 it ain’t that big of a cost even with the added need to reset the cams every time to reload the build.
+plane-crazy 2022-09-29 09:19:47 lmao, just experiment
+plane-crazy 2022-09-29 09:20:27 I’ll give a basic explanation of how cam locking works now.
+plane-crazy 2022-09-29 15:05:59 bro, no need to be a perfectionist.
+plane-crazy 2022-09-29 15:06:04 Anglelocking’s broken rn. (for custom wedges)
+plane-crazy 2022-09-29 15:06:13 And cam locking can only get so far.
+plane-crazy 2022-09-29 15:10:46 the locked motors would keep tilting to the side for me.
+plane-crazy 2022-09-29 15:11:02 big problem, as it ruins my custom cockpit.
+plane-crazy 2022-09-29 15:11:11 dude, the motor IS locked.
+plane-crazy 2022-09-29 15:11:28 it’s a tilt perpendicular to the part that is supposed to tilt.
+plane-crazy 2022-09-29 15:12:02 it’s a small ass tilt, but it ruined the custom cockpit that I was working on for the past week.
+plane-crazy 2022-09-29 15:12:19 also I did say “for custom wedges only” for a reason.
+plane-crazy 2022-09-29 15:13:31 ok, lemme go find an issue in my ski-oh wait
+plane-crazy 2022-09-29 15:13:39 I have no skills in anything.
+plane-crazy 2022-09-30 09:38:21 can somebody explain why the fuck is the locked motor making the slab clip into the half 1x2 wedge?
+plane-crazy 2022-09-30 09:42:06 why is my locked motor doing this? Anglelocking's a little drunk rn.
+plane-crazy 2022-09-30 09:47:34 , ignore the shit colours and angles of the cockpit and everything else, but it basically makes it unsymmetrical
+plane-crazy 2022-09-30 09:48:12 Uhhhh.
+plane-crazy 2022-09-30 09:48:16 You don't understand.
+plane-crazy 2022-09-30 09:48:31 The motor involved in the angle lock itself is the problem.
+help 2022-09-30 09:52:59 soo, my angle locking tilted in a weird way and it made the cockpit unsymmetrical, I've checked that the motor for the angle lock is locked, can anybody explain why is it tilting and making my cockpit unsymmetrical? (ignore the shitty colours and random bits of spring, it's still a wip)
+help 2022-09-30 09:54:39 (another image incase the first one wasn't clear enough)
+help 2022-09-30 09:57:42 springs fucked it up the first time I decided to ss it.
+help 2022-09-30 10:24:46 I did not.
+help 2022-09-30 10:24:53 Though, I did use cam locking.
+help 2022-09-30 10:25:01 On the other parts of the cockpit.
+help 2022-09-30 10:25:15 They're literally 20 blocks away from eachother.
+help 2022-09-30 10:25:51 and this tilt happens even before the anglelock tower comes together.
+help 2022-09-30 13:58:07 I still want help for this and general tips for anglelocking.
+help 2022-10-02 07:01:23 Can somebody explain to me, why the fuck did my anglelock break the symmetry?
+help 2022-10-02 07:02:02 In what part?
+help 2022-10-02 07:02:20 The thing that is broken is that the anglelocked part kinda tilts to the side.
+help 2022-10-02 07:02:42 It’s not the tower that is broken, it is the motor. Can anybody tell me why?
+help 2022-10-02 07:03:09 (the other parts of the cockpit were made with cam locking, so they’re not broken)
+help 2022-10-02 08:10:54 for the tower they’re locked and unpowered, for the anglelocking one locked and powered.
+help 2022-10-02 08:11:06 With the default speed and torque
+help 2022-10-02 08:24:02 I am still working on it, though I still wonder.
+help 2022-10-02 08:24:07 Why the fuck is it tilting like that?
+help 2022-10-02 08:24:28 The front?
+help 2022-10-02 08:24:38 It’s not aligned with the cam locked portions of the cockpit.
+help 2022-10-02 08:27:36 Lemme explain it then.
+help 2022-10-02 08:27:46 So, there are 2 parts of the wip cockpit I am making
+help 2022-10-02 08:27:55 the first consists of 2 blocks, and is cam locked,
+help 2022-10-02 08:28:02 They are in the back
+help 2022-10-02 08:28:10 the anglelocked portion is in the front, and it’s tilted.
+help 2022-10-02 08:28:13 for no reason.
+help 2022-10-02 08:30:16 God damnit.
+help 2022-10-02 08:30:29 No wonder I observed the grey part of the motor that I used tilting to the right.
+help 2022-10-02 08:30:47 Fuck damnit, might as well do even more advanced camlocking.
+help 2022-10-02 11:15:02 Aside from bigger intakes and landing gears, any improvements that I could possibly make?
+help 2022-10-02 11:16:00 <@809781295500099584> It's weird how quickly I can go from being confused on how tf am I supposed to cam lock it, to literally doing it to everything.
+plane-crazy 2022-10-02 11:20:17 Make it bigger...
+plane-crazy 2022-10-02 11:20:21 Better...
+plane-crazy 2022-10-02 11:20:37 Faster
+plane-crazy 2022-10-02 11:20:38 Stronger.
+plane-crazy 2022-10-02 11:20:57 That's not how you're supposed to teach people on how to make their builds better.
+help 2022-10-02 11:43:57 They’re just exposed hover thrusters, it’s part of my design.
+plane-crazy 2022-10-02 11:45:27 You mocked the build, thus mocking it’s creator.
+plane-crazy 2022-10-02 11:46:23 Don’t be that big of a karen.
+plane-crazy 2022-10-02 11:47:00 I will say that may be the intent, but mocking is a form of insult that you tried to use as comedy
+plane-crazy 2022-10-02 11:47:33 can I say that a certain race of people is bad in a very direct and strong way and then use the excuse of “it’s just mocking the racists”?
+plane-crazy 2022-10-02 11:48:11 If I said “Bro, black people are evolving to run faster than bullets, just look at Usain Bolt”.
+plane-crazy 2022-10-02 11:48:19 It is not racist, it is a joke.
+plane-crazy 2022-10-02 11:48:34 I am praising Usain Bolt’s speed while mocking racism.
+plane-crazy 2022-10-02 11:49:00 Learn what the word “comparison” means you half brained neanderthal.
+plane-crazy 2022-10-02 11:49:33 “It’s just a joke”
+plane-crazy 2022-10-02 11:50:30 <@721410146995011696> There’s a huge difference between a harsh, but useful lesson
+plane-crazy 2022-10-02 11:50:32 and an insult
+plane-crazy 2022-10-02 11:50:55 Yes, it does.
+plane-crazy 2022-10-02 11:51:45 “Go fucking jump off a building, your bootleg lego creation looks worse than the shit that comes out of me after tacobell”
+plane-crazy 2022-10-02 11:52:11 “I did not send him a death threat, it was mere comedy”
+plane-crazy 2022-10-02 11:52:23 That sums you up perfectly <@721410146995011696> .
+plane-crazy 2022-10-02 11:53:02 shit.
+plane-crazy 2022-10-02 11:53:14 You can’t use the d-word for what?
+plane-crazy 2022-10-02 11:53:59 Fam, this type of shit is the crap that a literal 10 year old would argue with.
+plane-crazy 2022-10-02 11:54:25 You don’t go back to the points that we made and try to disprove them logically.
+plane-crazy 2022-10-02 11:54:42 You instead try to turn the conversation around a different topic.
+plane-crazy 2022-10-02 11:55:00 Most likely an infant from what I can read.
+plane-crazy 2022-10-02 11:55:39 It’s not.
+plane-crazy 2022-10-02 11:55:47 Grow up, mongrel.
+plane-crazy 2022-10-02 11:55:57 People have different uses for words.
+plane-crazy 2022-10-02 11:56:17 Now, stop trying to derail the conversation.
+plane-crazy 2022-10-02 11:56:48 This is not the time to discuss THAT topic.
+plane-crazy 2022-10-02 11:56:58 Especially a person like you
+plane-crazy 2022-10-02 11:57:06 with a furry pf-
+plane-crazy 2022-10-02 11:57:08 (dies)
+plane-crazy 2022-10-02 11:58:17 Start trying to pronounce my Rs and Ls correctly.
+plane-crazy 2022-10-02 11:59:18 Even though I am not from the land with the rising ball of flaming gas/plasma, I definitely have trouble making those sounds.
+plane-crazy 2022-10-02 12:00:11 wow…
+plane-crazy 2022-10-02 12:00:24 <@155149108183695360> is against lgbtq+ people
+plane-crazy 2022-10-02 12:01:02 Slightly agree.
+plane-crazy 2022-10-02 12:01:30 Threatening a doxxing is alr breaking alarms pal.
+plane-crazy 2022-10-02 12:01:43 Don’t try to squirm your way out of this.
+plane-crazy 2022-10-02 12:02:11 doxxing is when you reveal personal information without consent of the victim.
+plane-crazy 2022-10-02 12:02:21 It’s a comparison.
+plane-crazy 2022-10-02 12:02:53 Pal, your pfp is a death threat.
+plane-crazy 2022-10-02 12:03:08 Getting banned from Discord and life is probs the best bet for you.
+plane-crazy 2022-10-02 12:04:13 This bruv has never been in a community that doxxing is a regular occurrence in.
+plane-crazy 2022-10-02 12:05:09 One time, it got so bad that Canadian police had to go into somebody’s Discord account, give a number which was legit to call the Canadian police because some guy was doxxing too much.
+plane-crazy 2022-10-02 12:05:29 It’s not just your ip.
+plane-crazy 2022-10-02 12:05:43 It’s your face, name, voice and maybe even underground activity.
+plane-crazy 2022-10-02 12:06:07 One time a dude got exposed for some elicit  crap and his life went down, because he was playing a Roblox game in a community
+plane-crazy 2022-10-02 12:06:14 that doxxes regularly.
+plane-crazy 2022-10-02 12:07:09 How would you know? + Have you been doxxed?
+plane-crazy 2022-10-02 12:07:34 Hell, have you ever experienced how stressful it can be just thinking that you’ll be able to get doxxed at any time?
+plane-crazy 2022-10-02 12:07:51 It’s a harassment tool that can lead to death, like swatting.
+plane-crazy 2022-10-02 12:08:16 Not every doxxing leads to death or arrest, but some can.
+plane-crazy 2022-10-02 12:08:55 lmao, look at this clown.
+plane-crazy 2022-10-02 12:09:11 Fam, a couple insults ain’t doing anything to him
+plane-crazy 2022-10-02 12:09:20 though you telling somebody to go die will.
+the-dump 2022-10-02 12:10:27 Sorry, not sorry.
+help 2022-10-02 12:16:13 Motor 2s can follow your mouse and can have angle limits, and they can be made to respond to keybinds. And turning on the toggle function without the servo function can allow you to make the motor stop following your mouse when you press the key bind, the start following again after you press it.
+help 2022-10-02 12:17:00 Why, who says so?
+help 2022-10-02 12:17:13 It’s anybody’s choice to use whatever control scheme you want.
+help 2022-10-02 12:17:31 I don’t give a crap.
+help 2022-10-02 12:18:52 Disagreed.
+help 2022-10-02 12:19:10 You can toggle off m2m by enabling the toggle feature on motor 2s.
+help 2022-10-02 12:19:24 Which stops your wings from moving.
+help 2022-10-02 12:19:38 And, who says you can’t just turn your nose around?
+help 2022-10-02 12:19:41 It’s plane crazy.
+help 2022-10-02 12:19:46 Not fucking DCS
+help 2022-10-02 12:20:04 M2m does that for you…
+help 2022-10-02 12:20:13 +you can just point your nose at the enemy….
+help 2022-10-02 12:20:34 Your opinion, not mine,
+help 2022-10-02 12:20:48 Sorry pal, we’re going at more than 2k speeds.
+help 2022-10-02 12:21:04 +we would just use engines to help
+help 2022-10-02 12:21:11 and also keyboard controls would also suffer
+help 2022-10-02 12:21:19 unless they also use engines to help.
+help 2022-10-02 12:21:39 Turning?
+help 2022-10-02 12:21:42 Pitching?
+help 2022-10-02 12:21:44 Rolling?
+help 2022-10-02 12:22:03 That’s what I alr use….
+help 2022-10-02 12:22:10 Jesus christ, also
+help 2022-10-02 12:22:16 Nobody needs that quick of a roll.
+help 2022-10-02 12:22:28 If I wanted that, I would have made actual ailerons.
+help 2022-10-02 12:23:36 Also because of my angled rudders on my jet, it rolls regularly every second I do anything.
+help 2022-10-02 12:23:53 I think it’s just a side effect of them and my incomplete tuning.
+help 2022-10-02 12:24:09 I plan on retuning the jet when I am actually done with it.
+help 2022-10-02 12:24:18 Since that crap right there is a wip.
+help 2022-10-02 12:24:35 Great looks don’t do shit when it can’t do things like taxi.
+help 2022-10-02 12:25:15 ahahah, though if I am being fr with ya
+help 2022-10-02 12:25:34 It is quite stable at speeds of 1.2 sps.
+help 2022-10-02 12:25:41 It’s enough speed for me.
+help 2022-10-02 12:26:29 If I wanted speed, I’d use my horrible “sr-71” that looks worse than a roll of toilet paper.
+help 2022-10-02 12:27:12 That can go a little over 6k.
+plane-crazy 2022-10-03 01:19:29 You don’t need thrust vectoring like at all to get sensitive controls.
+plane-crazy 2022-10-03 01:19:51 Just fucking go very fast and use very big custom control surfaces.
+plane-crazy 2022-10-03 01:20:12 Hell, maybe put in a couple of engines in the nose, wings and back to help
+plane-crazy 2022-10-03 01:20:22 You can do thrust vectoring here.
+plane-crazy 2022-10-03 01:21:00 Instead of redirecting exhaust, you just redirect a small part of the engines.
+plane-crazy 2022-10-03 01:21:24 Like you can have a main engine for the plane and you can have a smaller one in the thruster which you vector.
+plane-crazy 2022-10-03 01:21:51 So?
+plane-crazy 2022-10-03 01:21:57 Hover drives aren’t real.
+plane-crazy 2022-10-03 01:22:33 Rick kept it, so what is it that you’ll argue about?
+plane-crazy 2022-10-03 01:23:12 Because we like them, they do not harm anyone.
+plane-crazy 2022-10-03 01:23:30 For huge amounts of speed.
+plane-crazy 2022-10-03 01:23:37 With no drag.
+plane-crazy 2022-10-03 01:24:02 That’s what engines do.
+plane-crazy 2022-10-03 01:24:05 Make speed.
+plane-crazy 2022-10-03 01:24:47 First off, no they are adequate at their job and second…
+plane-crazy 2022-10-03 01:25:05 conveyor drives are very glitchy and you do not need those types of speed.
+plane-crazy 2022-10-03 01:25:39 tf you mean, I just said they were adequate.
+plane-crazy 2022-10-03 01:26:16 Again, no, they are adequate at their jobs and secound, conveyor drives are not only even more glitchy, but we also don’t need that type of speed.
+plane-crazy 2022-10-03 01:27:31 Fam.
+plane-crazy 2022-10-03 01:27:41 It produces ugly ass exhaust.
+plane-crazy 2022-10-03 01:27:47 It has very high drag.
+plane-crazy 2022-10-03 01:27:50 It is very heavy.
+plane-crazy 2022-10-03 01:28:04 And it doesn’t scale up to glitch engines.
+plane-crazy 2022-10-03 01:28:14 Don’t be a purist, it helps with nothing.
+plane-crazy 2022-10-03 01:28:33 so? Who says that I will be using them in that type of amounts?
+plane-crazy 2022-10-03 01:28:52 By then, I’d just use a conveyor drive and screw mouse controls.
+plane-crazy 2022-10-03 01:29:25 I would not ever make 3k plane unless it has drones and bombs on it.
+plane-crazy 2022-10-03 01:30:13 Who are you to say that?
+plane-crazy 2022-10-03 01:30:20 You are not Rick.
+plane-crazy 2022-10-03 01:30:33 If you want it added to the game, make it a suggestion.
+plane-crazy 2022-10-03 01:30:52 You should go learn cam locking.
+plane-crazy 2022-10-03 01:31:03 It can reduce a lot of blocks in yo angle locking.
+plane-crazy 2022-10-03 01:31:19 Oh no no, I meant really damn advanced cam-locking.
+plane-crazy 2022-10-03 01:31:39 Actually, they kindof are.
+plane-crazy 2022-10-03 01:32:20 They are welded to the main seat, so moving the main pilot seat also moves the cam locked portions with it.
+plane-crazy 2022-10-03 01:32:29 That’s just a conveyor drive….
+plane-crazy 2022-10-03 01:32:47 but not glitchy, that would destroy the balance of this game’s pvp.
+plane-crazy 2022-10-03 01:32:57 For god’s sake, shredders would have even more access to it.
+plane-crazy 2022-10-03 01:33:09 Who said that super rocket engines look good?
+plane-crazy 2022-10-03 01:33:15 They look quite shitty.
+plane-crazy 2022-10-03 01:33:27 Of course you fucking don’t.
+plane-crazy 2022-10-03 01:33:55 Just use their “welding to main pilot seat” to replace their lack of motorlocking
+plane-crazy 2022-10-03 01:34:07 So wait for it.
+plane-crazy 2022-10-03 01:34:16 By that I meant wait 5 Eons.
+plane-crazy 2022-10-03 01:34:53 I am making this thing, any improvements I could make aside from a bigger intake and landing gears?
+plane-crazy 2022-10-03 01:35:41 The exposed engines are part of my design….
+plane-crazy 2022-10-03 01:35:57 Though, I do plan on adding more camlocking to add to the spine
+plane-crazy 2022-10-03 01:36:05 so those guys might get covered.
+plane-crazy 2022-10-03 01:36:34 Ok, I am cool with that, until a contest is live.
+plane-crazy 2022-10-03 01:36:51 so, any other improvements?
+plane-crazy 2022-10-03 01:37:30 Those are guns.
+plane-crazy 2022-10-03 01:37:40 The intake is on the bottom.
+plane-crazy 2022-10-03 01:37:48 Kinda like a F-16’s.
+plane-crazy 2022-10-03 01:37:57 I know wdym
+plane-crazy 2022-10-03 01:38:02 It’s next to the cockpit,
+plane-crazy 2022-10-03 01:38:28 Idk, it looks cool to me?
+plane-crazy 2022-10-03 01:38:34 I ain’t removing em.
+plane-crazy 2022-10-03 01:38:56 Afterall, I could say “fuck it” and make em into nose flare dispensers or something
+plane-crazy 2022-10-03 01:39:14 I did realize that, but what do I do?
+plane-crazy 2022-10-03 01:39:20 Colour em differently?
+plane-crazy 2022-10-03 01:39:25 No, that’s fucking racist.
+plane-crazy 2022-10-03 01:39:34 (no it isn’t, I am just lazy)
+plane-crazy 2022-10-03 01:39:57 Whoa, whoa.
+plane-crazy 2022-10-03 01:40:01 Watch yourself.
+plane-crazy 2022-10-03 01:40:11 Your mom?
+plane-crazy 2022-10-03 01:40:15 alr.
+plane-crazy 2022-10-03 01:40:38 Or I could move them up and have them as actual intakes.
+plane-crazy 2022-10-03 01:40:48 It’s normal.
+plane-crazy 2022-10-03 01:41:11 That is normal af.
+plane-crazy 2022-10-03 01:41:21 Especially if you use angled rudders.
+plane-crazy 2022-10-03 01:43:12 I just made my plane’s pitch control very precise to prevent the rudders from acting out their elevator fantasies.
+plane-crazy 2022-10-03 01:44:37 Basically since my rudders are angled.
+plane-crazy 2022-10-03 01:44:49 They control a bit of the pitch.
+plane-crazy 2022-10-03 01:45:08 And while they adjust to my mouse trying to control pitch, they also control roll and yaw.
+plane-crazy 2022-10-03 01:45:14 I use m2m….
+plane-crazy 2022-10-03 01:45:39 as the more they are angled, the closer they are to being elevators or ailerons
+plane-crazy 2022-10-03 01:46:16 I just use internal engines to boost my m2m’s sensitivity
+plane-crazy 2022-10-03 01:47:51 should’ve used 10, as I use 20.
+plane-crazy 2022-10-03 01:48:03 It’s now more sensitive than most keyboard controlled jets.
+plane-crazy 2022-10-03 01:48:41 Shame that you have to look around constantly while I just point my nose AND look at the enemy.
+plane-crazy 2022-10-03 01:48:49 Multitasking, learn that shit.
+plane-crazy 2022-10-03 01:49:04 Like for example, taking a piss while shitting.
+plane-crazy 2022-10-03 01:49:14 Though, never take a shit while pissing.
+plane-crazy 2022-10-03 01:50:08 for your mom.
+plane-crazy 2022-10-03 01:50:31 ok cool.
+plane-crazy 2022-10-03 01:51:06 When tf do I have to and I can literally hold s for slower speed or just
+press g to turn the engines off.
+plane-crazy 2022-10-03 01:51:46 And if I really had to multitask, I’d get a bomber, and do all of those things at the same time.
+plane-crazy 2022-10-03 01:52:57 Also by “engage ground targets and air targets at the same time” you meant, target ground and air targets at the same time.
+plane-crazy 2022-10-03 01:53:06 90% of my wings are fake.
+plane-crazy 2022-10-03 01:53:16 They’re trapdoors, losing them don’t do shit.
+plane-crazy 2022-10-03 01:53:45 +I have 5 engines that are active in my jet.
+plane-crazy 2022-10-03 01:54:03 Imagine taking multiple missile hits.
+plane-crazy 2022-10-03 01:54:10 Just go faster than the missiles lmao.
+plane-crazy 2022-10-03 01:55:42 That’s what I do, mostly because of my shitty habit of crashing into the ground, or target, or both when I get near said ground or target or both.
+plane-crazy 2022-10-03 01:56:09 I could equip my jet with guns and shoot those suckers out of the sky.
+plane-crazy 2022-10-03 01:56:13 (yes, you can do that)
+plane-crazy 2022-10-03 01:56:22 She’s a beautiful one, shut up.
+plane-crazy 2022-10-03 01:56:42 Fuck that, might as well make my jets be a Russian doll and have them be 2.
+plane-crazy 2022-10-03 01:57:44 You’re weak <@619312093962829849>
+plane-crazy 2022-10-03 01:57:59 You probably don’t have dedicated engines for the most important task of a fighter jet.
+plane-crazy 2022-10-03 01:58:05 TAXIING!
+plane-crazy 2022-10-03 01:58:11 I am not joking.
+plane-crazy 2022-10-03 01:58:20 Taxiing is really damn useful.
+plane-crazy 2022-10-03 01:58:39 You don’t have dedicated engines for em.
+plane-crazy 2022-10-03 01:58:49 You use your main engines.
+plane-crazy 2022-10-03 01:59:41 Boring.
+plane-crazy 2022-10-03 02:00:09 Where are the fucking airfans or idk, pitch engines?
+plane-crazy 2022-10-03 02:00:12 roll engines?
+plane-crazy 2022-10-03 02:00:19 yaw engines?
+plane-crazy 2022-10-03 02:00:30 That’s what I do.
+plane-crazy 2022-10-03 02:00:37 Says thrust vectoring.
+plane-crazy 2022-10-03 02:01:35 Shame that you couldn’t even see that I used that type of control on my jet.
+plane-crazy 2022-10-03 02:02:13 I use the for the most important task only.
+plane-crazy 2022-10-03 02:02:20 Taxiing.
+plane-crazy 2022-10-03 02:02:56 Both of you have the same moms.
+plane-crazy 2022-10-03 02:04:21 Big brain
+plane-crazy 2022-10-03 02:04:41 Unlike you.
+plane-crazy 2022-10-03 02:06:07 Some keep it for longer, somehow.
+plane-crazy 2022-10-03 02:06:48 I have the high ground here, bitches.
+plane-crazy 2022-10-03 02:07:15 
+plane-crazy 2022-10-04 13:45:51 Fun fact: You don’t need to motorlock and anglelock the shit out of everything for a build to look decently good.
+plane-crazy 2022-10-04 14:34:55 You still don’t need to motorlock the shit out of everything, over doing on the motorlock can lead it to be laggy and add unnecessary weight and volume to a build.
+plane-crazy 2022-10-04 14:35:06 If you want to do small ass builds, learn camlocking.
+plane-crazy 2022-10-04 14:35:18 It’s basically motorlocking and anglelocking without the bulk.
+plane-crazy 2022-10-04 14:35:41 Camlocking’s complicated.
+plane-crazy 2022-10-04 14:36:02 I can teach ya in a couple of days, since I am currently busy.
+plane-crazy 2022-10-04 14:36:26 wot?
+plane-crazy 2022-10-04 14:39:41 It’s a price that peeps like me pay.
+plane-crazy 2022-10-04 14:40:19 9/10, would perform a surgery again
+plane-crazy 2022-10-04 14:41:15 Motors for me are glitchy, the grey part of them tend to kinda tilt upwards and ruin the symmetry of my builds.
+plane-crazy 2022-10-04 14:43:14 For god’s sake, look at my wip jet 3 weeks ago with an angle-locked cockpit.
+plane-crazy 2022-10-04 14:43:27 (the back parts of the cockpit were camlocked, only the front was anglelocked)
+plane-crazy 2022-10-04 14:44:15 Glitches aren’t exactly in my control, fam. Especially when it’s not an engine.
+plane-crazy 2022-10-04 14:45:18 Idk why this particular one broke for me consistently.
+plane-crazy 2022-10-04 14:45:35 Maybe because I used springs in the anglelock, but now
+plane-crazy 2022-10-04 14:46:12 Still in wip, as the intakes, afterburners and landing gears are shit.
+plane-crazy 2022-10-04 14:46:13 I got my camlocking done and it now looks like this.
+plane-crazy 2022-10-04 14:46:41 (Approximately, this image is now outdated as I had hid the hover drives)
+plane-crazy 2022-10-04 14:47:50 Luckily the high motorlocks came in clutch, so it allowed the plane to have basically the same amount of thrust.
+plane-crazy 2022-10-04 14:48:20 <:OmegaTroll:626841385118597152>
+plane-crazy 2022-10-04 14:49:06 I used camlocking remember?
+plane-crazy 2022-10-04 14:49:22 The seat had to be up pretty high, so the motorlock tower also had to be high to bring the seat down.
+plane-crazy 2022-10-04 14:50:20 Yes, though it is somewhat hard to get as angles don’t exactly translate perfectly with distance.
+plane-crazy 2022-10-04 14:50:27 EVEN THOUGH THEY FUCKING SHOULD
+plane-crazy 2022-10-04 14:51:34 It’s also why the cockpit has that weird ring on it.
+plane-crazy 2022-10-04 14:51:52 It’s a shitty angle, and I am still trying to fix it, though I have way more important things to do.
+plane-crazy 2022-10-04 14:52:00 Like having a life.
+plane-crazy 2022-10-04 14:53:16 Camlocking is also annoying in another weird ass way.
+plane-crazy 2022-10-04 14:53:25 The one billion text boxes everywhere
+plane-crazy 2022-10-04 14:53:51 It ain’t too much of a price to pay.
+plane-crazy 2022-10-04 14:54:05 I mean your anglelocks take 10 fucking minutes to get ready.
+plane-crazy 2022-10-04 14:54:12 And you either have to be in pvp
+plane-crazy 2022-10-04 14:54:23 or risk glitching out with springs.
+plane-crazy 2022-10-04 14:54:46 deadweight.
+plane-crazy 2022-10-04 14:55:08 Not much, but still
+plane-crazy 2022-10-04 14:56:09 For me, you either shit on anglelocking, or you swear by it.
+plane-crazy 2022-10-04 14:57:15 Anglelocking makes builds heavy, and yes maybe look realistic, but
+plane-crazy 2022-10-04 14:57:24 does it MOVE realistically?
+plane-crazy 2022-10-04 14:57:37 All of anglelocked builds that I see move at 10 frames per second.
+plane-crazy 2022-10-04 14:57:57 I am attempting to unlock the power of pistons.
+plane-crazy 2022-10-04 14:58:24 Especially because I plan on adding scramjets onto my jet.
+plane-crazy 2022-10-04 14:58:36 To add onto speed and to make it cooler, I guess.
+plane-crazy 2022-10-04 14:58:53 It’s more cosmetic.
+plane-crazy 2022-10-04 14:59:02 A housing unit for extra hoverdrives.
+plane-crazy 2022-10-04 15:02:19 Sorry, too fucking lazy to make the tower higher.
+plane-crazy 2022-10-04 15:02:56 yes.
+plane-crazy 2022-10-04 15:03:18 Because fuck me, I will learn pistonlocking.
+plane-crazy 2022-10-04 15:03:21 One way or another.
+plane-crazy 2022-10-04 15:05:44 I will not be using anglelocking unless I think it fits in a spot where camlocking can’t cover, isn’t that how you’re supposed to apply techniques that you’re not good with?
+plane-crazy 2022-10-04 15:07:55 For christ’s sake, why do I have to feel like I have to change something to fit into somebody else’s views.
+plane-crazy 2022-10-04 15:08:42 I can just attach it to the motorlock tower attached to the main pilot seat and delay it’s locking with tnt or disconnectors.
+plane-crazy 2022-10-04 15:09:09 Camlocking welds to the seat, so as long as it stays up, it won’t come down and it will allow pistonlocking.
+plane-crazy 2022-10-04 15:11:45 It either works or it works, it has to work.
+help 2022-10-08 08:36:08 Are there any compact thrust vectoring designs that I could use that are capable of high vectoring angles?
+plane-crazy 2022-10-08 10:40:22 Any small thrust vectoring designs that I could use?
+plane-crazy 2022-10-09 03:41:35 What thrust vectoring designs that I could use? I need it to be compact and very flexible.
+help 2022-10-09 04:25:47 What thrust vectoring designs that are reliable and that I could use? Preferably, they don’t use super rockets.
+plane-crazy 2022-10-09 10:08:23 Oh thanks, I can now make my build very laggy with the extra trillion blocks that is in that ship that will totally add thrust vectoring to a JET.
+plane-crazy 2022-10-12 15:45:24 Make the Coleocoptere.
+plane-crazy 2022-10-12 15:47:44 this fucking chad of a flying tube.
+plane-crazy 2022-10-12 15:50:43 also there is the X-15
+plane-crazy 2022-10-12 15:51:05 A jet that flies at the edge of outer space and uses rockers to propel itself.
+plane-crazy 2022-10-12 15:52:55 Mach 15, I think.
+plane-crazy 2022-10-12 15:53:17 Idk, I may have doubled it.
+plane-crazy 2022-10-17 04:00:35 Or the plane you were fighting is one of those newbie ones that take up 3 million blocks and is sooo laggy that it takes 3 eternities for the blocks to be registered as “destroyed”.
+plane-crazy 2022-10-17 09:27:27 nice, hopefully it doesn’t move at 5 frames per second.
+plane-crazy 2022-10-17 13:38:44 yes.
+plane-crazy 2022-10-17 13:40:18 also “microfighters” are a thing, so no more excuses for shitty roscale builds.
+plane-crazy 2022-10-17 13:43:02 I didn’t get that.
+plane-crazy 2022-10-17 13:44:22 I don’t call my one wide jets a roscale even when they’re small enough to fit in some bigger planes.
+plane-crazy 2022-10-17 13:46:05 “Pilot, throw that cat upwards”
+plane-crazy 2022-10-17 13:46:54 Just take it out of context and it’s just weird.
+plane-crazy 2022-10-17 13:47:02 Like why is there a cat on a jet?
+plane-crazy 2022-10-17 13:47:09 Why is the pilot throwing it up?
+plane-crazy 2022-10-17 13:47:14 Why was the picture taken?
+plane-crazy 2022-10-17 13:47:27 Why is the man in a jet and throwing a cat?
+plane-crazy 2022-10-17 13:48:10 I advocate for more A.S.S.
+plane-crazy 2022-10-17 13:48:16 (Anti shredder systems)
+plane-crazy 2022-10-17 13:48:31 The balls.
+plane-crazy 2022-10-17 13:48:57 Though if I am real with ya, they may be even easier to deal with.
+plane-crazy 2022-10-17 13:49:10 Mini-shredders are the most annoying and hardest to kill.
+plane-crazy 2022-10-17 13:49:42 Especially when the guy using them had grown 3 brain cells and put hover drives on his mini shredders
+plane-crazy 2022-10-17 13:49:53 like at least you can hit the ball, it’s a big targe-
+plane-crazy 2022-10-17 13:50:02 ok somebody’s taking this out of context.
+plane-crazy 2022-10-17 13:50:45 If it did move at 30k speed, it’s a problem for the shredder user.
+plane-crazy 2022-10-17 13:51:05 It’s like they can aim their ass at small pvp jets cruising even at 600.
+plane-crazy 2022-10-17 13:51:27 Let alone other jets that can sometimes go even faster, with conveyor drives.
+plane-crazy 2022-10-17 13:51:43 Ahh yes, the classic blacklist exploit.
+plane-crazy 2022-10-17 13:52:32 Luckily the 30k sps that the balls claim to be able to go at seem to be rare.
+plane-crazy 2022-10-17 13:52:51 like christ, they only go real fast for like 5 seconds at a time.
+plane-crazy 2022-10-17 13:53:29 Sorry pal, even my l o o o n g rail gun can’t shoot that fast.
+plane-crazy 2022-10-17 13:53:43 They are more flexible.
+plane-crazy 2022-10-17 13:53:59 And have a way bigger variety in design.
+plane-crazy 2022-10-17 13:55:49 First off, who the fuck will be able to aim with those speeds.
+plane-crazy 2022-10-17 13:55:59 You’d be going off the map in half a second.
+plane-crazy 2022-10-17 13:56:19 (the good and speedy ones)
+plane-crazy 2022-10-17 13:56:31 Nobody has that wide of a screen.
+plane-crazy 2022-10-17 13:57:08 You’re going fast correct?
+plane-crazy 2022-10-17 13:57:19 That also means your screen moves fast.
+plane-crazy 2022-10-17 13:57:38 And people moving away from the direction that you’re going will appear to move faster.
+plane-crazy 2022-10-17 13:58:04 I just described general relativity to you nerds, so think about this.
+plane-crazy 2022-10-17 13:58:31 A fighter jet can simply turn away from the direction that the ball just went.
+plane-crazy 2022-10-17 13:59:16 and get a ton of distance from the shredder , then just move randomly into any direction
+plane-crazy 2022-10-17 13:59:33 Shredders use cutters as their main weapon.
+plane-crazy 2022-10-17 13:59:40 The balls may have rockets and guns, but
+plane-crazy 2022-10-17 13:59:46 they aren’t aimed precisely.
+plane-crazy 2022-10-17 14:00:26 You are not a turret, your rockets are not aimed close to your mouse on a shredder.
+plane-crazy 2022-10-17 14:01:18 On the other hand, a jet’s rockets are much more spread out in a specific pattern.
+plane-crazy 2022-10-17 14:01:38 Meanwhile shredder users struggle to know where their shit is because their balls look the same from every perspective.
+plane-crazy 2022-10-17 14:02:14 Not every moment.
+plane-crazy 2022-10-17 14:02:32 No ball is that damn hyper sensitive.
+plane-crazy 2022-10-17 14:03:10 I don’t have any….
+plane-crazy 2022-10-17 14:03:14 in my mouth.
+plane-crazy 2022-10-17 16:01:27 Ekranoplanes: <:OmegaTroll:626841385118597152>
+plane-crazy 2022-10-17 16:02:29 Everybody gangsta till the boats start flyin’.
+plane-crazy 2022-10-17 16:06:33 Impossible, you can’t just become a transcontinental railway.
+plane-crazy 2022-10-17 16:07:08 Your poop doesn’t count.
+plane-crazy 2022-10-17 16:07:13 <:OmegaTroll:626841385118597152>
+plane-crazy 2022-10-17 16:07:56 I fucking know.
+plane-crazy 2022-10-17 16:08:22 Though I am the guy that learns French to piss lgbtq people off.
+plane-crazy 2022-10-17 16:08:50 While at the same time my actual friends call me “Ana”, when I am a guy.
+plane-crazy 2022-10-19 08:39:15 at least use some building material.
+plane-crazy 2022-10-19 08:40:00 Make the turret lighter and maybe get rid of those wings.
+plane-crazy 2022-10-19 13:38:35 wtf
+plane-crazy 2022-10-19 13:49:37 why even use motor 2s on a wheel even if used for turning?
+plane-crazy 2022-10-19 13:50:22 There’s a much easier method.
+plane-crazy 2022-10-19 13:51:02 Just bind the keys you use to reverse on motor 1s used for the axel to a or d.
+plane-crazy 2022-10-19 13:51:18 and you can always use propellers to turn…
+plane-crazy 2022-10-19 14:01:13 Might as well use conveyor drives then.
+plane-crazy 2022-10-19 14:12:37 If this guy is bitching that the propellers are not good enough for his car, might as well give him options that are TOO good.
+plane-crazy 2022-10-19 14:14:30 though if I am fr with ya, super rockets are fine.
+plane-crazy 2022-10-19 14:14:45 Of course, they have drag, but that somewhat helps with braking.
+plane-crazy 2022-10-19 14:14:55 Why are you confused?
+plane-crazy 2022-10-19 14:15:05 I used it on one of my jets.
+plane-crazy 2022-10-19 14:15:15 Why not?
+plane-crazy 2022-10-19 14:15:42 Who cares?
+plane-crazy 2022-10-19 14:15:51 I don’t even use audio in pc.
+plane-crazy 2022-10-19 14:16:07 And most of the time particles are off since I play on a hot potato.
+plane-crazy 2022-10-19 14:16:18 Not good enough for me.
+plane-crazy 2022-10-19 14:17:16 Are you thinking that I use them to push the jet like the hover drives that are on it?
+plane-crazy 2022-10-19 14:18:08 You’re thinking that I put them on the back as afterburners, and use the on/off function to yaw like that?
+plane-crazy 2022-10-19 14:18:35 Christ, that’s inefficient and doesn’t look good for me.
+plane-crazy 2022-10-19 14:18:51 I was not referring to rolling.
+plane-crazy 2022-10-19 14:19:01 I alr have that covered with ELEVONS THAT I ALR USE.
+plane-crazy 2022-10-19 14:19:27 Though those super rockets were shortlived.
+plane-crazy 2022-10-19 14:19:34 As those were only used for the prototype.
+plane-crazy 2022-10-19 14:20:02 I eventually said “fuck it” because it made the jet wobble too much, and just used propellers instead.
+plane-crazy 2022-10-19 14:20:09 No, it’s gone now.
+plane-crazy 2022-10-19 14:21:28 Though I am working on a new jet based off this “F-45” thing and I do plan on using some powerful engines to make it very maneuverable.
+plane-crazy 2022-10-19 14:22:02 I plan on using conveyor drives for roll and yaw since the jet’s going to be relatively big for a fighter jet.
+plane-crazy 2022-10-19 14:22:29 Oh please, I alr know how to solve that issue.
+plane-crazy 2022-10-19 14:22:37 Just use a conveyor drive and screw m2m.
+plane-crazy 2022-10-19 14:23:17 It’s the least used movement of the jet, though I still add them for stability and taxiing purposes.
+plane-crazy 2022-10-19 14:23:36 Yes, I do care if my PVP JETS can taxi or not.
+plane-crazy 2022-10-19 14:24:21 I’d try that later as currently my effort is on adding thrust vectoring and making the spine and cockpit real nice with cam-locking.
+plane-crazy 2022-10-19 14:25:22 I am currently trying to make my own design as the ones I see are too bulky.
+plane-crazy 2022-10-19 14:25:45 I don’t even know the difference.
+plane-crazy 2022-10-19 14:26:20 I definitely plan on allowing it some yaw.
+plane-crazy 2022-10-19 14:26:40 So, yes. 3d vectoring will be done. Though mostly for taxiing purposes.
+plane-crazy 2022-10-19 14:27:48 Luckily it will be single engined, as if I made it double engined, the hover drives/conveyor drives would be exposed and while it looks cool af to me, most people hate that.
+plane-crazy 2022-10-19 14:28:42 Heck nah, I won’t be using a keyboard to control that bullcrap.
+plane-crazy 2022-10-19 14:28:48 Too complicated for my sanity.
+plane-crazy 2022-10-20 16:02:31 anybody that had messed with a conveyor drive got to those speeds.
+help 2022-10-21 10:15:24 Any thrust vectoring designs that I could use? Preferably it’s 3d (ie. can do pitch roll and yawing motions.)
+help 2022-10-21 10:16:04 (also it’s for a double engined jet)
+help 2022-10-21 10:17:02 ahhh alr.
+help 2022-10-21 10:17:24 I alr have one of my own though it made the rear of my jet a little fucked up.
+help 2022-10-21 10:17:35 It’s currently only 2d rn, but I do have a working design for 3d.
+help 2022-10-21 10:18:05 It’s just that the jet’s body is in the way and I need space for the mechanism.
+help 2022-10-21 10:18:18 There are tutorials for 3d thrust vectoring mechanisms.
+help 2022-10-21 10:18:25 Though they are relatively bulky.
+help 2022-10-21 10:18:58 And it’s quite hard to make space for the mechanism to actually yaw.
+help 2022-10-21 10:19:10 The problem is with space, not really the engines.
+help 2022-10-21 10:19:17 As hover drives are really compact.
+plane-crazy 2022-10-21 10:44:37 I design my jets with horizontally angles seats, so when I flip my jets. They face upwards.
+plane-crazy 2022-10-21 16:03:12 For some reason the “reset” function on motor 1s break when you turn on lock.
+plane-crazy 2022-10-21 16:03:42 Like bro, let me have foldable wings without having it spasm all over the place.
+plane-crazy 2022-10-22 09:51:40 Use the vanilla rockets, though it’s kinda shitty compared to what you and I probably want.
+plane-crazy 2022-10-23 06:17:32 Make the rear longer.
+plane-crazy 2022-10-23 06:17:40 Like, very long,
+plane-crazy 2022-10-28 15:33:41 fr
+plane-crazy 2022-10-28 15:33:47 Just be faster them em.
+plane-crazy 2022-12-06 07:38:46 (conveyor drives exist)
+help 2022-12-09 00:56:08 Messed around in mobile and I discovered that you can’t cam-lock there, if I am wrong please tell me how to cam-lock over there lmao.
+help 2022-12-09 01:58:04 I asked for cam-locking, not a stupid and overused joke. ❤️
+help 2022-12-09 02:01:04 I’ve seen ping rick at least 10 times before, coincidence? I think not.
+help 2022-12-09 02:02:46 Sorry, but it’s just me messing around in mobile.
+help 2022-12-09 02:03:00 Not that I need to trouble anybody to camlock on mobile lmao.
+help 2022-12-09 02:10:37 lock or block?
+help 2022-12-09 02:22:40 it’s cam-lock, not cam-Block
+help 2022-12-09 02:23:45 What section is it in?
+help 2022-12-09 02:24:40 If the name of the block is “camera” you should not be surprised that I do know what it is
+help 2022-12-09 02:28:08 Supermanueverability
+help 2022-12-09 02:29:32 Nah, it’s more
+help 2022-12-09 02:29:39 going at a low speed and
+help 2022-12-09 02:29:48 having good control surfaces or thrust vectoring.
+help 2022-12-09 02:29:58 Just look at how it’s done irl.
+help 2022-12-09 02:32:14 Disgusting post-stall engines.
+help 2022-12-09 02:38:08 One of my tailess jets based off the Saab J-35 could do a cobra, this time it actually fucking stalls as it should in one.
+help 2022-12-09 02:39:58 Drop???
+help 2022-12-09 02:40:04 It’s called a “super stall”
+help 2022-12-09 02:40:15 You stay basically still midair in one.
+help 2022-12-09 02:40:29 No drop in altitude, just you staying still midair.
+help 2022-12-09 02:40:46 There may be a little bit of forward motion, but it’s effectively still.
+help 2022-12-09 02:42:31 wdym by “doubling”?
+help 2022-12-09 02:43:14 reduce?
+help 2022-12-09 02:43:25 A cobra is literally you turning into one huge drag chute.
+help 2022-12-09 02:45:01 Tbh, just make your jet unstable.
+help 2022-12-09 02:45:29 Something like an F-16 can kinda do a cobra even when it does not have supermanueverability
+plane-crazy 2022-12-10 04:59:04 Even though it is definitely true that bringing some aerodymamic concepts and designs into pc can help in building jets, you need to know that this game has less aerodynamics than fucking KSP.
+plane-crazy 2022-12-12 11:23:31 A lot of people do this, then add ballast blocks to their jets so that they can do cobras and crap like that.
+plane-crazy 2022-12-12 11:23:49 Like, jeez at that point why even bother with cobras?
+plane-crazy 2022-12-12 11:24:39 My point is people make their jets very high performance.
+plane-crazy 2022-12-12 11:24:52 Then some people for some reason decide to make them heavy.
+plane-crazy 2022-12-12 11:25:07 Like jeez, just use the default material.
+plane-crazy 2022-12-12 11:25:28 Unless you’re using super rockets.
+plane-crazy 2022-12-12 11:25:53 Then maybe you’d need the weight reduction.
+plane-crazy 2022-12-12 11:26:07 Idk, I’m just a random person with no title in this server.
+plane-crazy 2022-12-12 11:26:51 Or maybe jets if you’re a person like me and absolutely hate the blue exhaust.
+plane-crazy 2022-12-12 11:27:54 Like tbh, the main reason that I think fights in this game are boring is
+plane-crazy 2022-12-12 11:27:58 infinite fuel.
+plane-crazy 2022-12-12 11:28:09 They can literally last forever if nobody fucks up.
+plane-crazy 2022-12-19 12:38:47 And you trade it off for immense fucking lag!
+plane-crazy 2022-12-26 03:21:40 “There’s a plane going to bomb innocent children, so you’re sent after them.”
+plane-crazy 2022-12-26 03:21:52 “You can’t stop the plane, but you can get to the children first”
+plane-crazy 2022-12-26 04:09:44 Omni shredders can’t make maneuvers that planes can do.
+plane-crazy 2022-12-26 04:09:57 Nor can they use their speed to screw over jets.
+plane-crazy 2022-12-26 04:10:15 Since, they either will overshoot, or simply miss.
+plane-crazy 2022-12-26 04:10:30 And they are large.
+plane-crazy 2022-12-26 04:10:41 A very easy target, for missiles and even bombs.
+plane-crazy 2022-12-26 04:10:49 They’re annoying.
+plane-crazy 2022-12-26 04:11:22 Just because they’re shittier at pvp than most top-notch pvp jets ,it doesn’t mean that they are still not annoying.
+plane-crazy 2022-12-26 04:12:25 Omni shredders are more like high speed helicopters.
+plane-crazy 2022-12-26 04:12:55 Their core basis is already flawed.
+plane-crazy 2022-12-26 04:13:36 A VTOL is easy to make.
+plane-crazy 2022-12-26 04:13:52 Just put some propellers in for specifically vtol and that’s it.
+plane-crazy 2022-12-26 04:14:03 What? You’re going to say that’s cheating?
+plane-crazy 2022-12-26 04:15:01 Yeah, but it makes it a lot easier.
+plane-crazy 2022-12-26 04:15:15 That guy posted tuts?
+plane-crazy 2022-12-26 04:15:21 (on jets)
+plane-crazy 2022-12-26 04:15:35 Yes, that is not a tut.
+plane-crazy 2022-12-26 04:15:47 It’s just that dumbasses follow it like a tut.
+plane-crazy 2022-12-26 04:16:27 fuck yes
+plane-crazy 2022-12-26 04:16:40 No, tuts for pvp usually suck ass.
+plane-crazy 2022-12-26 04:16:50 Or at least are not as good as custom ones.
+plane-crazy 2022-12-26 04:17:19 I mean, I use a thrust vectoring nozzle that I got from a tut myself.
+plane-crazy 2022-12-26 04:17:45 But jeez, am I supposed to stay stuck with my own design that is bulkier and takes up literally 90% of my jet.
+plane-crazy 2022-12-26 04:18:21 You’re misinterpreting my words.
+plane-crazy 2022-12-26 04:19:03 Nam nam’a vid is a guide on making purely a pvp jet.
+plane-crazy 2022-12-26 04:19:31 Albeit, not a very versatile one,
+plane-crazy 2022-12-26 04:19:48 And there are many inaccuracies in the vid.
+plane-crazy 2022-12-26 04:20:11 For example, not making use of actual ailerons for extra roll.
+plane-crazy 2022-12-26 04:20:17 Or using post stall engines
+plane-crazy 2022-12-26 04:20:28 like jeez, those are disgusting.
+plane-crazy 2022-12-26 04:21:04 Putting custom control surfaces on the tips of your ailerons?
+plane-crazy 2022-12-26 04:21:10 Instead of those fucking engines.
+plane-crazy 2022-12-26 04:21:54 Wut?
+plane-crazy 2022-12-26 04:22:02 I wasn’t even against those….
+plane-crazy 2022-12-26 04:23:14 Also there’s no mention of very important features like intakes or landing gears…
+plane-crazy 2022-12-26 04:23:36 Motor 2s+Wing panels?
+plane-crazy 2022-12-26 04:24:08 tf you mean?
+plane-crazy 2022-12-26 04:24:13 I ain’t against em.
+plane-crazy 2022-12-26 04:24:27 I am against using engines to pitch, roll and yaw.
+plane-crazy 2022-12-26 04:24:40 Unless it’s on some shit like the X-15
+plane-crazy 2022-12-26 04:25:29 Pure aerodynamic control surfaces are good enough.
+plane-crazy 2022-12-26 04:25:49 what’s that?
+plane-crazy 2022-12-26 04:26:04 Looks like a shitty jet to use.
+plane-crazy 2022-12-26 04:26:14 Wtf is that thing mounted on there??????
+plane-crazy 2022-12-26 04:26:26 Extra drag and less stealth.
+plane-crazy 2022-12-26 04:26:49 This Adfx-02 Morgan can get screwed by an Asramm
+plane-crazy 2022-12-26 04:27:11 It’s alr probably unstable enough with the forward swept wings.
+plane-crazy 2022-12-26 04:27:17 ok cool.
+plane-crazy 2022-12-26 04:27:42 It’s called an “Asramm” for a reason.
+plane-crazy 2022-12-26 04:27:52 Lift.
+plane-crazy 2022-12-26 06:39:00 Meh.
+plane-crazy 2022-12-26 06:39:09 Both are amazing at their intended roles.
+plane-crazy 2022-12-27 07:32:24 They’re slow af.
+plane-crazy 2022-12-27 07:32:53 Even a beginner prop plane would be faster than one.
+plane-crazy 2022-12-27 07:33:21 (if it’s one of those mini-shredder swarms)
+plane-crazy 2022-12-27 07:35:01 Just because planes are faster, it doesn’t mean they’re not annoying.
+plane-crazy 2022-12-27 07:35:22 Ground and naval vehicles just get screwed unless they somehow kill the guy operating the swarm.
+plane-crazy 2022-12-28 05:49:52 Disconnectors are better for wings.
+plane-crazy 2022-12-28 05:50:26 It’s a lot easier to mount weapons on em.
+plane-crazy 2023-01-05 05:40:41 e
+plane-crazy 2023-01-05 05:59:33 e
+plane-crazy 2023-01-13 13:51:26 Just a lil proof of concept, any suggestions?
+plane-crazy 2023-01-13 13:58:34 Mind explaining that?
+plane-crazy 2023-01-13 13:59:07 Weapons for me, are for later.
+plane-crazy 2023-01-13 13:59:21 They are for when a build is done, with all of it's functions complete.
+plane-crazy 2023-01-13 13:59:41 Though rn, it alr has a pair of fireworks inside of it, and it's enough to mess around.
+plane-crazy 2023-01-13 14:56:55 Haista Vittu
+plane-crazy 2023-01-13 14:58:18 Olet todellakin peniksen syylä
+plane-crazy 2023-01-13 14:59:12 pena
+plane-crazy 2023-01-13 14:59:57 Finland, truly the country of all time.
+plane-crazy 2023-01-13 15:00:02 Saunas
+plane-crazy 2023-01-13 15:00:04 Vodka
+plane-crazy 2023-01-13 15:00:11 People
+plane-crazy 2023-01-13 15:00:25 “Why is the snow speaking Finnish?”
+plane-crazy 2023-01-13 15:00:28 Lakes
+plane-crazy 2023-01-13 15:00:33 Rallying
+plane-crazy 2023-01-13 15:00:37 and swearing
+plane-crazy 2023-01-13 15:00:51 I didn’t.
+plane-crazy 2023-01-13 15:00:56 Nokia is not from Finland.
+plane-crazy 2023-01-13 15:01:01 Finland is from Nokia.
+plane-crazy 2023-01-13 15:02:26 Big question, who would win, a TI-84 or a Nokia?
+plane-crazy 2023-01-13 15:04:38 Sold to Raytheon.
+plane-crazy 2023-01-13 15:04:47 I agree with this statement.
+plane-crazy 2023-01-13 15:05:04 Nintendo was a l-
+plane-crazy 2023-01-13 15:06:28 Dietz & Watson makes Dietz Nuts.
+plane-crazy 2023-01-13 15:07:55 <:clueless:942802644043464734>
+plane-crazy 2023-01-13 15:08:19 No shit, it’s a cartel.
+plane-crazy 2023-01-13 15:08:47 Basically all of em, in South Korea.
+plane-crazy 2023-01-13 15:09:02 South Koreans all want to work for Samsung.
+plane-crazy 2023-01-13 15:09:10 Everybody there worships it.
+plane-crazy 2023-01-13 15:10:09 It makes up 100% of the average South Korean’s thoughts.
+plane-crazy 2023-01-13 15:11:08 “Hey guys, it’s me Jeff Bezos in my massive YB-35”
+plane-crazy 2023-01-13 15:12:17 Samsung be ruling South Korea fr fr.
+plane-crazy 2023-01-13 15:12:42 Apple’s meh.
+plane-crazy 2023-01-13 15:12:58 Their devices can’t do shit with other ones.
+plane-crazy 2023-01-13 15:13:17 And they have to design a new fucking charger every single damn time.
+plane-crazy 2023-01-13 15:14:21 Daewoo makes guns too.
+plane-crazy 2023-01-13 15:14:56 I can name a few, like the K-7, K-17, K1A.
+plane-crazy 2023-01-13 15:15:33 Basically a CIWS on crack.
+plane-crazy 2023-01-13 15:15:40 It shoots everybody.
+plane-crazy 2023-01-13 15:15:55 It doesn’t care if you’re south Korean or not.
+plane-crazy 2023-01-13 15:16:06 It’s gonna go brrrrrr
+plane-crazy 2023-01-13 15:16:12 and cause an international incident,
+plane-crazy 2023-01-13 15:16:41 Kpop is annoying.
+plane-crazy 2023-01-13 15:17:14 Now switch to the Holy See
+plane-crazy 2023-01-13 15:17:23 I need some Jesus action here.
+plane-crazy 2023-01-13 15:17:50 <:Upvote:490311647492309004>
+plane-crazy 2023-01-13 15:18:12 The Pope apparently speaks Popish.
+plane-crazy 2023-01-13 15:18:31 Dewit.
+plane-crazy 2023-01-13 15:19:15 Asians seeing foreigners learn only Chinese, Japanese and Korean: 💀
+plane-crazy 2023-01-13 15:19:39 Commitus Orderus 66us
+plane-crazy 2023-01-13 15:20:08 Morbus
+plane-crazy 2023-01-13 15:20:26 c r u s a d e
+plane-crazy 2023-01-13 15:20:38 <:BIG1:588443768806703124> <:BIG2:588443778554134540> 
+<:BIG3:588443788721258534> <:BIG4:588443798842114088>
+plane-crazy 2023-01-13 15:21:13 and IEDs.
+plane-crazy 2023-01-13 15:21:16 <:trollface:775024642104229898>
+plane-crazy 2023-01-13 15:22:10 Truly a vehicle of all time.
+plane-crazy 2023-01-13 15:22:12 <:Upvote:490311647492309004>
+plane-crazy 2023-01-13 15:22:24 <:Duck:606204496695001091>
+plane-crazy 2023-01-13 15:22:40 It’s a detonator.
+plane-crazy 2023-01-13 15:23:07 (not the goats)
+plane-crazy 2023-01-13 15:23:17 They do it more logically.
+plane-crazy 2023-01-13 15:23:27 They alr knew that they were going to die, sooooo
+plane-crazy 2023-01-13 15:24:02 Sponsored by Toyota.
+plane-crazy 2023-01-13 15:24:41 Also, for some reason Toyata sponsors like 25% of the forest reserves over here.
+plane-crazy 2023-01-13 15:25:14 Sealand🗿
+plane-crazy 2023-01-13 15:25:35 <:Yikes:704804144657203220>
+plane-crazy 2023-01-13 15:26:03 It isn’t not refraining from not existing.
+plane-crazy 2023-01-13 15:26:27 w.
+plane-crazy 2023-01-13 15:26:58 “States of Matter? No, those don’t matter.”
+plane-crazy 2023-01-13 15:27:05 “All that matters is the United States”
+plane-crazy 2023-01-13 15:27:22 -Funny Valentine circa.1800s
+plane-crazy 2023-01-13 15:27:47 Dat old Egypt flag hits hard.
+plane-crazy 2023-01-22 09:40:55 Planes here turn faster the faster it goes.
+plane-crazy 2023-01-22 09:41:00 That’s weird ngl.
+plane-crazy 2023-01-22 10:04:42 Aerodynamic stiffening.
+plane-crazy 2023-01-22 10:04:50 +Airframe stress
+plane-crazy 2023-01-22 10:04:57 +Boundary layers
+plane-crazy 2023-01-22 10:05:22 also wing panels are somehow omnidirectional.
+plane-crazy 2023-01-22 10:05:45 This makes many basic maneuvers impossible to perform.
+plane-crazy 2023-01-22 10:06:05 No.
+plane-crazy 2023-01-22 10:06:45 jet engines work.
+plane-crazy 2023-01-22 10:06:51 Jet engines use air.
+plane-crazy 2023-01-22 10:07:17 Propellers.
+plane-crazy 2023-01-22 10:07:23 wings.
+plane-crazy 2023-01-22 10:07:29 Helium.
+plane-crazy 2023-01-22 10:08:22 Fam, if you want more realistic aerodynamics, go to KSP.
+plane-crazy 2023-01-22 10:08:40 I am complaining about this, because it makes many maneuvers impossible.
+plane-crazy 2023-01-22 10:08:54 You are complaining just to annoy me.
+plane-crazy 2023-01-22 10:08:59 We are not the same.
+plane-crazy 2023-01-22 10:10:04 Can somebody tell him what a “break” is?
+plane-crazy 2023-01-22 10:12:46 There are over a million words in the English language, you somehow were able to string them together in a way that I hate yet I find hilarious at the same time.
+plane-crazy 2023-01-22 10:13:04 Omnidirectional wings tho
+plane-crazy 2023-01-22 10:13:48 You can literally fly backwards in a jet, and it handles totally fine.
+plane-crazy 2023-01-22 10:31:12 Even though KSP was made in Unity, it came out way before plane crazy, and it had a focus on space.
+plane-crazy 2023-01-22 10:31:36 But it somehow has way better aerodynamics and hydrodynamics.
+plane-crazy 2023-01-22 10:32:15 fr
+plane-crazy 2023-01-22 10:32:43 It’s not like innovation inc. is one of the biggest and longest running conglomerate on Roblox.
+plane-crazy 2023-01-22 10:34:33 They’re so reliable, they nearly always don’t work honestly for all of the time that it existed,
+plane-crazy 2023-02-06 12:51:51 Me still wondering what the fuck is a propeller supposed to do: <:empty:794431705070174238>
+plane-crazy 2023-02-16 12:01:50 Antennas
+plane-crazy 2023-03-10 06:21:01 Some asshole just threw a bunch of words at this ''nam nam'' wip jet.
+plane-crazy 2023-03-10 06:21:13 Jeez, that was not called for.
+plane-crazy 2023-03-10 06:21:28 Tryna relax building a jet for fun, then I get insulted out of nowhere.
+plane-crazy 2023-03-10 06:25:34 I meant in game, not the server.
+plane-crazy 2023-03-10 06:29:15 though tbh, idk why this thing got called a nam nam jet.
+plane-crazy 2023-03-10 06:29:26 I mean, yeah i did use the piston locking guide, but
+plane-crazy 2023-03-10 06:29:47 lmao
+plane-crazy 2023-03-10 06:30:03 though I will admit that the nose does look like one.
+plane-crazy 2023-03-10 06:30:30 jeez, Im using magnet locking so that the build’s cleaner, not for the “performance”
+plane-crazy 2023-03-10 06:34:55 I mean, jeez I did spend a lot of effort on tryna make this jet
+plane-crazy 2023-03-10 06:35:05 I did fucking calculus for it for goodness’s sake.
+plane-crazy 2023-03-10 06:51:17 That doesn’t add weight to the jet.
+plane-crazy 2023-03-10 06:51:22 It’s magnet locking.
+plane-crazy 2023-03-10 06:51:42 It’s basically motorlocking, but it moves most of the motors outside.
+plane-crazy 2023-03-10 06:51:50 Oh please, it’s more convenient.
+plane-crazy 2023-03-10 06:52:19 No, I’m not interested in having my build be even more of a lag machine,
+plane-crazy 2023-03-17 14:29:35 Wart hunter
+plane-crazy 2023-05-20 08:39:05 My magnet locked plane has made it’s first flight.
+plane-crazy 2023-05-20 08:39:11 After me making it for 10 months.
+plane-crazy 2023-05-20 08:39:16 Yay?
+plane-crazy 2023-05-20 08:51:43 ehh, alr just a second.
+plane-crazy 2023-05-20 08:51:57 The thing takes like a minute to go through it’s locking.
+plane-crazy 2023-05-20 09:07:39 and Roblox crashed.
+plane-crazy 2023-05-20 09:07:42 Great.
+plane-crazy 2023-05-30 11:00:31 maybe use a less powerful engine?
+plane-crazy 2023-05-30 11:00:53 Speed seems to not matter for your ship as you’re using a conveyor drive.
+plane-crazy 2023-05-30 11:01:40 it’s simple to do.
+plane-crazy 2023-05-30 11:01:47 Just drive off the edge.
+plane-crazy 2023-05-30 11:01:56 You’ll get the same results, trust me.
+plane-crazy 2023-05-30 11:02:20 Unless you want to mess around with magnets and anchored blocks, tis your best bet.
+plane-crazy 2023-05-30 11:02:39 Idk, I ain’t one for optimization
+plane-crazy 2023-05-30 11:03:00 I am literally building a jet with the intention of having it be very heavy so it handles a lot more realistically
+plane-crazy 2023-05-30 11:03:18 (also to give it an excuse to allow it to do cobras)
+plane-crazy 2023-05-30 11:03:28 Like,people optimize their jets to be soo light bruh
+plane-crazy 2023-05-30 11:03:55 eh sure, I’ll show ya what I got too

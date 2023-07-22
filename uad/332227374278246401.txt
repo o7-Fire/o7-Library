@@ -1,0 +1,763 @@
+The Tale of cykacica (332227374278246401)
+help 2020-06-28 20:53:29 Can someone help me? When i load in my plane it's kinda bugged, the rockets don't do anything and the landing gear doesn't work. The plane is floating in the air, and even the control surfaces don't work
+creations-chat 2020-06-28 20:53:50 <@!610586741224636442> IB-3
+creations-chat 2020-06-28 20:54:01 Reference to your name, ***ib***SuperMatt
+help 2020-06-28 20:54:11 I'm on a server with 3 people
+plane-crazy 2020-06-28 20:54:58 <@!541269303761174548> Didn't expect you here lol
+help 2020-06-28 20:55:23 ahh my fucking god i did
+help 2020-06-28 20:56:19 I used it on my plane because it might anchor the guns on my plane lol
+help 2020-06-28 20:56:57 What is the automatic bind?
+help 2020-06-28 20:57:45 I'll reverse engineer my plane to remove it
+help 2020-06-28 20:57:49 All of them
+plane-crazy 2020-06-28 20:58:11 Oh
+plane-crazy 2020-06-28 20:58:14 Well i just got into it
+plane-crazy 2020-06-28 20:58:15 so umm
+creations-chat 2020-06-28 21:01:57 It may look like something bad, but this is legit my most advanced plane
+creations-chat 2020-06-28 21:02:45 What kind of variant?
+creations-chat 2020-06-28 21:03:38 Custom plane made by me, however i try to follow modern jet design
+creations-chat 2020-06-28 21:05:06 There is another plane, however its less advanced
+creations-chat 2020-06-28 21:05:13 I like that bomber
+creations-chat 2020-06-28 21:05:23 Looks pretty nice
+creations-chat 2020-06-28 21:06:56 What could i improve on btw?
+creations-chat 2020-06-28 21:08:01 This is the back of the plane, which i am really embarrased about
+creations-chat 2020-06-28 21:08:20 The side
+creations-chat 2020-06-28 21:08:54 Yeahhhhhhh, well i have another wing design you might like
+creations-chat 2020-06-28 21:09:11 <@!628393318874873886> I dont know how to make engines, i use rockets
+creations-chat 2020-06-28 21:10:02 <:Yikes:704804144657203220>
+plane-crazy 2020-06-28 21:16:53 Can someone tell me how to make unique weapons? Like i saw people using huge rockets with explosive blocks
+plane-crazy 2020-06-28 21:18:03 Good luck trying to find the correct color code for it
+help 2020-06-28 21:20:38 How do you make the rudders angle sideways?
+bot-central 2020-06-29 08:41:46 &suggest Symmetrical mode
+
+This would be an option to place a symmetrical line at the center of the plot, allowing planes to be built easier
+bot-central 2020-06-29 08:41:59 Definitely didn't do that right
+plane-crazy 2020-06-29 08:42:55 I might try making a propeller plane because it's slower than rocket powered planes, so it might be better in pvp
+the-dump 2020-06-29 08:52:58 
+the-dump 2020-06-29 08:53:17 
+the-dump 2020-06-29 08:53:30 
+the-dump 2020-06-29 08:53:45 
+the-dump 2020-06-29 08:54:02 
+the-dump 2020-06-29 08:54:05 
+the-dump 2020-06-29 08:54:24 
+the-dump 2020-06-29 08:54:33 
+the-dump 2020-06-29 08:55:17 https://tenor.com/view/youre-going-to-brazil-no-baldi-brazil-uganda-knuckles-gif-17557175
+the-dump 2020-06-29 08:55:40 
+the-dump 2020-06-29 08:55:51 
+creations-chat 2020-06-29 09:39:54 Did you make it on phone 🗿
+creations-chat 2020-06-29 15:30:05 oh
+plane-crazy 2020-06-30 09:56:31 If blacklisting gets removed, servers will be chaos
+plane-crazy 2020-06-30 09:56:53 I'm gonna get bashed on by all other vehicles
+plane-crazy 2020-07-12 21:57:19 Does anyone know of an engine that is way better than spamming rockets?
+plane-crazy 2020-07-12 21:57:37 I'm new and i would need one for a project
+plane-crazy 2020-07-12 21:58:52 Thanks for the tips, I will make sure to learn them for my next project
+plane-crazy 2020-07-12 22:18:32 Can a Magnetic Engine be placed anywhere inside of a plane, or any other object? Or do you have to place them to a specific location
+plane-crazy 2020-07-12 22:18:53 Oh
+plane-crazy 2020-07-12 22:19:18 Well i want a powerful engine because im building a huge machine and i dont think rocket spamming is gonna work at this point.
+plane-crazy 2020-07-12 22:20:10 I'm not into advanced stuff, all i ever used yet was rocket spamming inside object hulls.
+plane-crazy 2020-07-12 22:20:55 I'll look into how to build a conveyor engine
+plane-crazy 2020-07-12 22:21:15 Also can you have more engines or will that mess up the plane?
+plane-crazy 2020-07-12 22:21:45 Nice
+plane-crazy 2020-07-12 22:24:26 What if the aircraft i'm building might be the size of my building plot?
+plane-crazy 2020-07-12 22:25:37 There's <#478584971670454284> but this is a discussion channel so umm
+plane-crazy 2020-07-12 22:26:04 yeah
+plane-crazy 2020-07-12 22:27:13 Nice
+plane-crazy 2020-07-12 22:27:40 It might be smaller
+plane-crazy 2020-07-12 22:27:46 (I'm just starting it)
+plane-crazy 2020-07-12 22:27:56 And i asked for an engine to use
+plane-crazy 2020-07-12 22:29:09 Hmm
+the-dump 2020-07-12 22:32:19 
+the-dump 2020-07-12 22:32:20 🗿
+plane-crazy 2020-07-13 17:56:45 Can someone tell me what engine this is? (the block behind the left spring is a piston too
+plane-crazy 2020-07-13 17:56:49 I was just messing around
+plane-crazy 2020-07-13 17:58:07 It actually works, however trips
+plane-crazy 2020-07-13 17:58:25 I'll go into The Hangar
+plane-crazy 2020-07-13 17:59:33 No, it would be inefficient to use in a vehicle, you would have to keep pressing W
+plane-crazy 2020-07-13 18:00:39 It will work i think
+plane-crazy 2020-07-13 18:00:41 Actually
+plane-crazy 2020-07-13 18:00:43 it might even be better
+plane-crazy 2020-07-13 18:00:57 Doesn't work with a spring
+plane-crazy 2020-07-13 18:01:28 Without piston but i put back the springs?
+plane-crazy 2020-07-13 18:01:38 i'll test that
+plane-crazy 2020-07-13 19:56:38 Whats the smallest engine btw?
+plane-crazy 2020-07-16 12:03:30 Nice
+plane-crazy 2020-07-20 19:12:24 Whats the possibility of a block names Triangle Wedge 2x1, 2x2, 2x3, 2x4?
+plane-crazy 2020-07-20 19:12:28 Named*
+plane-crazy 2020-07-20 19:13:40 Wait, what if there was an option to customize wedge width and length?
+plane-crazy 2020-07-20 19:13:41 Would be cool
+plane-crazy 2020-07-20 19:28:19 Does it use hover to float?
+creations-chat 2020-07-20 22:55:14 I just posted my first creation
+creations-chat 2020-07-20 22:56:48 Tell me what I could improve upon
+creations-chat 2020-07-20 22:58:39 > Too basic
+My most advanced looking creation ever ;-;
+creations-chat 2020-07-20 23:00:05 I'll make it better when I do some other stuff on it
+creations-chat 2020-07-20 23:01:26 I'll try to improve
+creations-chat 2020-07-20 23:03:32 Kinda true
+creations-chat 2020-07-20 23:11:15 The tail rudder's shape is a bit off but it looks nice
+creations-chat 2020-07-20 23:12:05 You don't need to if you want that's just my opinion
+creations-chat 2020-07-20 23:51:17 I made a new wing design and tried to make a camouflage but tbh im a bit embarrased
+plane-crazy 2020-07-20 23:57:16 Not the best thing but my best creation ever
+plane-crazy 2020-07-20 23:58:07 Looks like an F-16 in that angle
+plane-crazy 2020-07-20 23:58:15 But its a JAS 39
+plane-crazy 2020-07-20 23:58:47 Okay ;-;
+creations-chat 2020-07-21 00:00:58 I'll of course try new camos since it doesn't satisfy me
+plane-crazy 2020-07-21 00:28:46 Is there any tutorial on youtube about wedge placement or something like that?
+plane-crazy 2020-07-21 00:33:37 PVP is mostly just people with anti air/ground contraptions that are heavily armored
+plane-crazy 2020-07-21 00:35:15 I'm talking about those people
+plane-crazy 2020-07-21 00:35:17 Too
+plane-crazy 2020-07-21 00:35:50 Not that much difference
+plane-crazy 2020-07-21 00:36:28 oh
+plane-crazy 2020-07-21 00:38:16 Super rocket engine is the way to easily make your plane fly
+plane-crazy 2020-07-21 00:38:43 I don't have that much space inside my plane
+plane-crazy 2020-07-21 00:38:55 I tried one out, but most planes have to be really large
+plane-crazy 2020-07-21 00:39:44 Could I fit a conveyor engine inside my JAS 39?
+plane-crazy 2020-07-21 00:41:03 What's motor lock?
+plane-crazy 2020-07-21 00:41:19 I'm pretty new to the game
+plane-crazy 2020-07-21 00:41:53 So what's motor lock?
+plane-crazy 2020-07-21 00:42:11 ;-;
+creations-chat 2020-07-21 00:43:18 That's nice
+plane-crazy 2020-07-21 00:45:22 I don't even know what's motorstack either
+plane-crazy 2020-07-21 00:45:27 Im pretty new like I said
+creations-chat 2020-07-21 00:53:21 This time I made the plane functional and added Camouflage
+creations-chat 2020-07-21 00:53:58 Idk if I am allowed to repost it twice
+creations-chat 2020-07-21 00:54:12 It's not the same, it's better
+plane-crazy 2020-07-21 00:54:41 Camouflage
+creations-chat 2020-07-21 01:03:22 It's hard to make out, but yes
+help 2020-07-21 01:16:10 Does someone have a small conveyor engine design that I could use?
+creations-chat 2020-07-21 01:18:34 thats a b2
+help 2020-07-21 02:56:04 Thanks for the info
+help 2020-07-21 14:09:24 Is there some way to make the white control surfaces stop working?
+https://cdn.discordapp.com/attachments/649658833307959318/735136161219215390/Screenshot_1326.png
+https://cdn.discordapp.com/attachments/649658833307959318/735136183750885421/Screenshot_1327.png
+help 2020-07-21 14:10:55 Thanks a lot
+help 2020-07-21 14:11:29 I needed it to not function since I added custom control surface to my plane and I needed to place those for the custom surface to work
+help 2020-07-21 14:11:34 And i don't want the white one moving
+help 2020-07-21 14:12:09 Yes
+help 2020-07-21 14:15:03 ;-;
+help 2020-07-21 14:17:14 Are yaw motions useful in any way?
+help 2020-07-21 14:18:33 I feel like adding a yawing custom control surface would just be a waste of time
+help 2020-07-21 14:19:34 I'll try it out sometime
+help 2020-07-21 14:46:40 Is it safe to balance your plane with fuel tanks?
+creations-chat 2020-07-21 14:59:05 <@!419477639229865984> Amazing work
+creations-chat 2020-07-21 15:01:09 I never made a propeller plane before
+creations-chat 2020-07-21 15:01:19 Are they fun:
+creations-chat 2020-07-21 15:01:21 ?
+creations-chat 2020-07-21 15:01:45 Looks nice
+creations-chat 2020-07-21 15:02:09 You can add custom control surfaces for it to function better by the way
+creations-chat 2020-07-21 15:03:02 Ingame tutorial?
+creations-chat 2020-07-21 15:04:19 <@!659802570474258500> Color it
+creations-chat 2020-07-21 15:04:35 But all around a nice looking battleship (if it is a battleship)
+creations-chat 2020-07-21 15:07:01 It's a unique design
+creations-chat 2020-07-21 15:07:13 I like it
+help 2020-07-21 18:22:27 How can you make a tank cannon have gun elevation and gun depression? Can someone show me?
+creations-chat 2020-07-21 18:23:57 A lot of people are making Mig-21's
+creations-chat 2020-07-21 18:25:58 I made my first actual plane yesterday, it's something i'm proud of
+creations-chat 2020-07-21 18:26:07 That is being used irl
+creations-chat 2020-07-21 18:55:58 I want to make a tank today
+creations-chat 2020-07-21 18:56:02 Didn't make one yet ever
+plane-crazy 2020-07-21 18:57:13 How can a tank cannon have gun elevation and gun depression?
+plane-crazy 2020-07-21 18:57:18 In plane crazy*
+plane-crazy 2020-07-21 18:57:21 Can someone show me?
+plane-crazy 2020-07-21 18:57:57 I know that you need to use motors, but where do you need to place them?
+plane-crazy 2020-07-21 18:58:18 ooooh
+plane-crazy 2020-07-21 18:58:33 Thanks
+creations-chat 2020-07-21 19:02:24 I don't know what that is but whatever you're doing keep it up
+creations-chat 2020-07-21 19:03:25 Yes
+help 2020-07-21 19:05:13 Already got it, nvm
+plane-crazy 2020-07-21 19:34:34 Is it okay if I don't apply for ranks? (If I meet the requirements)
+help 2020-07-21 19:36:16 Never made a passenger plane, but I guess make it stable with big wings or something
+help 2020-07-21 19:36:43 And get a good amount of rockets/A conveyor engine
+plane-crazy 2020-07-21 20:25:50 What's a good color code for grey planes?
+creations-chat 2020-07-21 20:33:55 <@!725583147928125461> You make nice rockets and satellites
+help 2020-07-21 20:55:11 Can someone help me decide? Camouflage or grey
+https://cdn.discordapp.com/attachments/649658833307959318/735238199491952791/Screenshot_1332.png
+https://cdn.discordapp.com/attachments/649658833307959318/735238286473298011/Screenshot_1324.png
+help 2020-07-21 20:55:44 Grey it is then
+help 2020-07-21 20:56:41 <@!461644261566185503> If only the wings are folded, you might be able to calculate the center of lift
+help 2020-07-21 20:57:06 But idk about the whole plane being folded
+creations-chat 2020-07-21 21:03:49 That looks nice
+plane-crazy 2020-07-21 21:12:21 Those are genuinely amazing vehicles constructed by pros
+help 2020-07-21 21:53:40 I'm having the same issue
+help 2020-07-21 21:53:44 I'll post a video
+help 2020-07-21 21:53:50 https://streamable.com/h931c8
+help 2020-07-21 21:54:20 There's a huge difference between the first roll and the second roll
+help 2020-07-21 21:54:34 What's the problem behind it? How do i fix this?
+help 2020-07-21 21:54:44 (Of course the plane is fully symmetrical)
+help 2020-07-21 21:55:54 Center of mass is almost balanced with lift, however I don't think thats the issue
+help 2020-07-21 21:57:00 
+help 2020-07-21 21:57:00 No
+help 2020-07-21 21:57:36 Maybe check the blocks in your vehicle
+help 2020-07-21 21:57:47 You might have put another block that has different weight or something
+help 2020-07-21 21:58:29 I used fuel tanks to mostly balance the lift and mass, but if i didn't do it symmetrically it would have shown itself
+help 2020-07-21 22:00:50 Maybe check <#623337136267067393>
+creations-chat 2020-07-21 22:20:31 Can someone tell me what that white thing is?
+creations-chat 2020-07-21 22:20:58 Because i don't know what it is and I want to use it in my build
+creations-chat 2020-07-21 22:21:08 oh
+creations-chat 2020-07-21 22:21:09 Thanks
+help 2020-07-21 22:25:17 An update on the issue: I found a problem in my wing system, I fixed it, still not working
+help 2020-07-21 22:25:50 Not that big of a problem to me anyways
+help 2020-07-21 22:25:58 Because I wouldn't use it in pvp
+help 2020-07-21 22:26:27 I'll try 1 last thing tho
+help 2020-07-21 22:26:33 Removing 2 useless motors
+help 2020-07-21 22:31:34 YOU FUCKING HAVE NO IDEA
+help 2020-07-21 22:31:39 THAT SOLVED THE ISSUE
+help 2020-07-21 22:31:40 https://streamable.com/gr5ism
+creations-chat 2020-07-21 22:44:11 Does this seem complex?
+creations-chat 2020-07-21 22:45:13 Give feedback on what should I improve upon
+creations-chat 2020-07-21 22:47:17 I'll try to keep the delta shape though cause  I tried to copy a JAS 39 Gripen
+creations-chat 2020-07-21 22:48:06 I don't know how to do that
+creations-chat 2020-07-21 22:49:01 So if I use 0.9x blocks it would work?
+creations-chat 2020-07-21 22:49:27 If i were to put the motors near the center of the plane
+creations-chat 2020-07-21 22:49:51 Cause the motors must not have any other blocks contacted with except a control surfac
+creations-chat 2020-07-21 22:49:55 e
+creations-chat 2020-07-21 22:50:01 Okay
+creations-chat 2020-07-21 22:50:28 I'll remove 2 motors in the back though as it's causing me problems
+creations-chat 2020-07-21 22:51:16 No, it causes a problem with rolling
+creations-chat 2020-07-21 22:51:45 I fixed it just now but I didn't save it before I went to another save briefly
+creations-chat 2020-07-21 22:51:52 That was the problem
+creations-chat 2020-07-21 22:51:58 I have motors on the front
+creations-chat 2020-07-21 22:52:56 Thanks for the advice regardless
+creations-chat 2020-07-21 23:01:15 Yes, but I wanted faster rolls
+creations-chat 2020-07-21 23:01:30 so I made this
+creations-chat 2020-07-21 23:01:39 Works without a motor
+creations-chat 2020-07-21 23:01:54 Can still make rolls if you adjust the options
+creations-chat 2020-07-21 23:02:15 Well this is the only plane that uses keyboard controls
+creations-chat 2020-07-21 23:02:18 that I have
+creations-chat 2020-07-21 23:03:25 My rolls were slower when I used the motors
+creations-chat 2020-07-21 23:04:12 Speed 4, Max Torque 30, and angle was 20
+creations-chat 2020-07-21 23:07:45 https://streamable.com/gr5ism
+creations-chat 2020-07-21 23:07:47 roll rate
+the-dump 2020-07-22 13:01:24 
+general 2020-07-22 16:27:35 MFW Religious ads, i'm an atheist and wanna play, not get pressured by religious ads
+help 2020-07-22 18:57:50 How can you make a tank move with conveyors? Can someone show me?
+help 2020-07-23 11:22:51 How do people aim their guns with their mouses?!
+creations-chat 2020-07-23 12:33:17 Rate my first tank, how did I do?
+creations-chat 2020-07-23 13:07:24 As I expected, i got a ton of downvotes lol
+creations-chat 2020-07-23 13:07:40 <@!316693531638890497> nah dont put a round in your head cause your creation got disliked in a game lol
+help 2020-07-23 13:30:14 What could I improve upon?
+help 2020-07-23 13:31:27 
+plane-crazy 2020-07-23 16:32:19 I decided to make a mega tank with 2 seperate crew compartments
+plane-crazy 2020-07-23 16:32:33 lol
+plane-crazy 2020-07-23 16:32:33 My first tank aswell
+help 2020-07-23 19:26:37 I'm upgrading it
+help 2020-07-23 19:26:44 It's way bigger
+help 2020-07-23 19:26:58 I'll soon repost another version
+creations-chat 2020-07-23 19:36:42 Lol nice
+creations-chat 2020-07-23 19:48:46 Wow what? I didn't expect upvotes ;-;
+help 2020-07-23 20:06:30 A tank
+creations-chat 2020-07-23 20:06:39 K
+creations-chat 2020-07-23 20:06:53 Machine's a bit laggy tho
+help 2020-07-23 20:07:12 I built my first tank and had a lotta fun
+help 2020-07-23 20:07:14 <#384025409945337856>
+plane-crazy 2020-07-23 21:12:53 why do shredder bugs exist
+plane-crazy 2020-07-23 21:13:36 I can't protect myself in a tank against a person that has no creativity
+creations-chat 2020-07-23 21:15:05 most upvotes ive ever had
+creations-chat 2020-07-23 21:15:54 <@!723419054114865202> You deserve your expert shipwright role with that battleship, amazing work
+creations-chat 2020-07-23 21:16:30 Ik
+creations-chat 2020-07-23 21:17:25 ah fuck I might have not saved my next version of my first tank
+creations-chat 2020-07-23 21:17:26 fuck my life
+creations-chat 2020-07-23 21:17:51 Yay
+creations-chat 2020-07-23 21:17:51 Autosave did a good job
+plane-crazy 2020-07-23 21:20:49 When you accidentaly click on the bucket
+the-dump 2020-07-23 21:36:44 oof
+plane-crazy 2020-07-23 22:19:28 Imagine if sloped armor had a purpose <:KEKW:670310537300672528>
+plane-crazy 2020-07-23 22:19:46 So maybe gun rounds could ricochet of the vehicle you are in
+plane-crazy 2020-07-23 22:28:53 What box things?
+plane-crazy 2020-07-23 22:29:38 I'm guessing these missile spammers
+plane-crazy 2020-07-23 22:29:44 And suicide bombers
+plane-crazy 2020-07-23 22:30:37 these are douchebags
+plane-crazy 2020-07-23 22:30:40 idk how to kill them
+plane-crazy 2020-07-23 22:31:26 Once they strike your vehicle they immediately despawn so they cant be hit
+help 2020-07-23 22:33:43 How could I improve my tank for pvp?
+help 2020-07-23 22:41:48 guided missile on a tank 🗿
+help 2020-07-23 22:42:23 But seriously tho how  can i change my weakness ? The weakness mainly is suicide bombers getting too close
+help 2020-07-23 22:43:45 Should be ngl
+help 2020-07-23 22:45:01 "I'm having an amazing tank batt-"
+
+***HAHAHA MY MACHINE I BUILT DUE TO MY LACK OF CREATIVITY IS SO AMAZING***
+help 2020-07-23 22:45:30 Yes
+help 2020-07-23 22:45:33 Fuck them
+help 2020-07-23 22:45:44 They're one of my tank's weaknesses
+help 2020-07-23 22:47:46 A cutter worm just causally slid past my tank that has i think 6 blocks of protection in the front, 4 blocks on the sides
+help 2020-07-23 22:48:11 Don't know how to use that
+help 2020-07-23 22:48:17 But if used not correctly, you can die
+help 2020-07-23 22:50:07 <@!305721738015014913> Im thinking of a solution to stop cutter bugs while you are in a tank
+help 2020-07-23 22:51:43 What if we put missiles on the sides of the tank that are near the ground? You would just fire them like your normal missiles, but at close range, they lock on to anything
+help 2020-07-23 22:51:47 So it might just work
+help 2020-07-23 22:52:50 Well I didn't run out of armaments yet on my tank, so I'll try it out
+help 2020-07-23 22:53:27 I'm new to tanks too lol
+help 2020-07-23 22:53:50 It's 700 lol
+help 2020-07-23 22:54:06 Dang
+help 2020-07-23 22:54:54 Still have 7 more rockets so i can experiment with it
+help 2020-07-23 22:55:18 Can you join me? IGN is cykacica
+help 2020-07-23 22:55:29 <@!594977389096730627> those are my tank's weaknesses
+help 2020-07-23 22:55:41 and they are the weakness of most tanks too
+help 2020-07-23 23:16:58 kehe the most sneaky/innocent way to attack
+https://streamable.com/4kjllr
+help 2020-07-23 23:17:36 Might also help with shredder bugs
+help 2020-07-24 13:38:58 I just shot 6 rockets at a shredder bug, the guy lost no parts
+help 2020-07-24 13:39:27 Fuck them all
+help 2020-07-24 13:47:23 https://streamable.com/9obbed
+pvp mode is so fucken amazing
+plane-crazy 2020-07-24 13:48:14 yay pvp mode
+https://streamable.com/9obbed
+plane-crazy 2020-07-24 13:50:50 I don't wanna be a prick, however I wanna have fun in pvp
+plane-crazy 2020-07-24 13:51:22 Look at the video that red shredder is raping everyone once he spawns
+plane-crazy 2020-07-24 13:51:31 once people spawn*
+plane-crazy 2020-07-24 13:57:46 <@!645128367611445248> were in the same server
+plane-crazy 2020-07-24 13:57:49 lol
+plane-crazy 2020-07-24 14:07:21 Nice
+plane-crazy 2020-07-24 14:25:55 ...
+plane-crazy 2020-07-24 14:34:14 Bruh
+the-dump 2020-07-24 14:38:27 https://cdn.discordapp.com/attachments/674329227642011683/676157658717225000/Fucking.mp4
+plane-crazy 2020-07-24 15:01:30 Idk what should I create next
+plane-crazy 2020-07-24 15:02:03 Looks nicer
+plane-crazy 2020-07-24 15:02:43 Why do you have 1x1 wing panels smashed into your cannon?
+plane-crazy 2020-07-24 15:05:25 One of my jets shake after a turn
+plane-crazy 2020-07-24 15:05:31 In fact, all of my jets
+plane-crazy 2020-07-24 15:06:15 big sad
+plane-crazy 2020-07-24 15:06:33 The SR 71 Could have been faster if it wasn't atmospheric heating stopping it
+plane-crazy 2020-07-24 15:06:56 yeah
+plane-crazy 2020-07-24 15:06:57 smh
+plane-crazy 2020-07-24 15:07:37 Ok boomer
+plane-crazy 2020-07-24 15:08:10 ***Reject humanity***
+plane-crazy 2020-07-24 15:08:15 ***Come back to monke***
+plane-crazy 2020-07-24 15:08:42 NO
+plane-crazy 2020-07-24 15:09:00 ***Reject cell***
+***Become an Atom***
+plane-crazy 2020-07-24 15:09:39 <@!369303015267631104> Can't
+plane-crazy 2020-07-24 15:09:44 Cause i think they are
+plane-crazy 2020-07-24 15:09:52 For the nice look use conveyors
+plane-crazy 2020-07-24 15:11:11 <@!369303015267631104> Better work with an easier design cause shredder bugs and suicide bombers will come at you the second you spawn
+plane-crazy 2020-07-24 15:12:52 <@!289930922655088640> Try experimenting with explosive armor against shredders, i heard it can be amazing
+plane-crazy 2020-07-24 15:12:56 <@!369303015267631104> yes
+plane-crazy 2020-07-24 15:13:02 And they look somewhat realistic
+creations-chat 2020-07-28 00:16:37 <@!280020722431295488> Can you share your color code that was used on your F/A 18?
+creations-chat 2020-07-28 15:15:53 Looks nice
+creations-chat 2020-07-28 15:16:14 I invented some small intakes
+creations-chat 2020-07-28 15:21:17 I'm mainly using the air intake to make the plane larger
+creations-chat 2020-07-28 15:21:25 And to kinda experiment with smaller air intakes
+creations-chat 2020-07-28 15:21:30 And a utility tool to make the plane bigger
+creations-chat 2020-07-28 15:22:18 ű
+help 2020-07-28 15:23:28 Maybe check if the center of lift and the center of gravity are near eachother
+creations-chat 2020-07-28 15:24:23 Nice
+creations-chat 2020-07-28 15:44:10 > <@!332227374278246401> here is a radial intake design i made based off of yours
+Nice design but it would fit on a plane that would be 2x as large as mine
+creations-chat 2020-07-28 15:44:38 Also my small air intakes don't really exist anymore
+creations-chat 2020-07-28 16:44:51 I'm just building a random jet fighter lol
+creations-chat 2020-07-28 16:45:37 OMFG I LOST ALL THE PROGRESS
+creations-chat 2020-07-28 16:45:38 NOOOOOOOOOOOOO
+creations-chat 2020-07-28 16:47:37 Damn nice
+creations-chat 2020-07-28 16:47:43 But why did you make a jet fighter so big
+creations-chat 2020-07-28 18:27:23 It's now looking really great
+creations-chat 2020-07-28 18:27:48 FUCK
+creations-chat 2020-07-28 18:28:01 https://tenor.com/view/panic-big-bang-theory-paper-bag-hyperventilate-gif-4656329
+creations-chat 2020-07-28 18:28:12 THE NET WENT DOWN AND I DIDNT SAVE IT
+creations-chat 2020-07-28 18:29:03 lets hope autosave did its job
+creations-chat 2020-07-28 18:29:11 IT DID THANK GOD
+help 2020-07-28 18:35:36 <@!363488140058427414> Something like this? Maybe just bigger
+help 2020-07-28 18:36:11 Try to do it bigger since that build looks pretty big
+help 2020-07-28 19:28:17 What do ballast blocks do?
+help 2020-07-28 20:31:34 Is there any lighter block to balance my plane?
+help 2020-07-28 20:43:20 Somehow, if you angle the tail rudders with a motor this F-35 works
+help 2020-07-28 20:43:26 Look at the center of gravity ;-;
+help 2020-07-28 20:44:14 Like this
+help 2020-07-28 20:46:57 The center of gravity is in a cursed place cause I used some fuel tanks in the back, for weight
+help 2020-07-28 20:47:17 I still need to do some other things on this though
+creations-chat 2020-07-28 21:07:10 My best creation got downvoted
+creations-chat 2020-07-28 21:18:25 What could I improve upon?
+plane-crazy 2020-07-28 21:30:11 What could I improve upon?
+plane-crazy 2020-07-28 22:42:18 E
+plane-crazy 2020-07-28 22:44:09 I'm guessing that's moments before crash
+plane-crazy 2020-07-29 07:19:57 Lol
+plane-crazy 2020-07-29 07:20:13 Some guy was salty about me using custom control surfaces in a plane, saying i wasd spam
+plane-crazy 2020-07-29 07:20:16 I did it yes
+plane-crazy 2020-07-29 07:20:37 I told him he does the exact same thing cause he moves his plane way too fast
+plane-crazy 2020-07-29 07:20:46 He said he doesn't wasd control
+plane-crazy 2020-07-29 07:20:51 He said he uses the arrow keys
+plane-crazy 2020-07-29 07:20:58 Isn't that basically the same thing?
+plane-crazy 2020-07-29 07:21:00 Like
+plane-crazy 2020-07-29 07:21:42 Well it's a bit too op
+plane-crazy 2020-07-29 07:21:51 But i don't use wasd in pvp
+plane-crazy 2020-07-29 07:21:53 Mostly tanks
+plane-crazy 2020-07-29 07:23:07 https://streamable.com/5dq8kv
+cancer
+plane-crazy 2020-07-29 07:23:37 I was in pvp to see my friend
+plane-crazy 2020-07-29 07:24:00 Uhh my plane sucks yes
+creations-chat 2020-07-29 07:29:51 <@!363488140058427414> Amazing, but how does that fly?
+creations-chat 2020-07-29 07:30:22 How do you do it?
+creations-chat 2020-07-29 07:30:37 The wings
+creations-chat 2020-07-29 07:30:41 They're really strange
+creations-chat 2020-07-29 07:31:10 oh
+creations-chat 2020-07-29 07:31:23 Well, keep it up
+creations-chat 2020-07-29 07:32:13 Spamming rocket engines inside a plane's fuselage is satisfying
+creations-chat 2020-07-29 07:38:07 stopping kids from ruining the day
+creations-chat 2020-07-29 07:38:10 in pvp
+plane-crazy 2020-07-29 07:42:05 Yes
+creations-chat 2020-07-29 07:46:28 I would personally use a huge rocket engine, if too big, a large rocket engine
+creations-chat 2020-07-29 07:47:26 It might be cause of the back is pretty sloped
+creations-chat 2020-07-29 07:50:14 I did it like this for my F-35 Blue Angels, it doesn't look that bad
+plane-crazy 2020-07-29 07:52:15 lol
+plane-crazy 2020-07-29 07:52:21 he got a hit on me
+plane-crazy 2020-07-29 07:52:28 before i took the video
+plane-crazy 2020-07-29 07:54:11 Nice mini raptor
+the-dump 2020-08-02 14:21:32 
+help 2020-08-02 14:23:20 What's a good suspension system to use in ground vehicles?
+plane-crazy 2020-08-02 14:24:10 <:Upvote:490311647492309004>
+the-dump 2020-08-02 19:44:12 https://cdn.discordapp.com/attachments/601764143183167489/739270748174286918/video0.mp4
+creations-chat 2020-08-07 15:01:20 <@!360925918081974272> holy shit that looks amazing
+creations-chat 2020-08-07 15:02:20 I made my blue angels like overnight lol
+creations-chat 2020-08-07 15:14:59 I need to know how to make carriers and shit
+creations-chat 2020-08-07 15:17:19 Also <@!433617207734304778> that looks sick
+creations-chat 2020-08-08 20:04:30 uhh what
+creations-chat 2020-08-08 20:04:37 i tried to post my new creation and it didnt get posted
+creations-chat 2020-08-08 20:09:12 Oh, it just got delayed
+creations-chat 2020-08-08 20:09:27 and as usual on the way to get downvoted to hell
+help 2020-08-12 20:25:39 I made my first tank designed for pvp however i'm obviously not a master at it. The main flaw is that the turret motors on the inside get obliterated fast, how can I solve this?
+help 2020-08-12 20:27:30 There's like 2 blocks of armour, but i have to work around with it carefully with 0.9 blocks
+help 2020-08-12 20:27:46 Can't get shredded by guns, but easily blown up by a rocket
+creations-chat 2020-08-14 19:49:30 Is my build low effort?
+creations-chat 2020-08-14 19:50:44 Why would people put youtube tutorials in <#384025409945337856> lol, firstly its not their build
+help 2020-08-14 19:53:07 Is this suspension system good?
+help 2020-08-14 19:55:16 It works fine
+help 2020-08-14 19:55:29 Just upgrades are always better
+creations-chat 2020-08-14 19:56:11 Is that some bomber?
+creations-chat 2020-08-14 19:56:52 Oh
+creations-chat 2020-08-14 19:57:39 Can i repost a build of mine if it's upgraded?
+creations-chat 2020-08-14 19:57:52 K
+creations-chat 2020-08-14 20:00:29 More wedges are always better
+creations-chat 2020-08-14 20:12:11 one problem i have with wings
+creations-chat 2020-08-14 20:12:59 lets say you build a plane, where you have 2 lines to put the wing on
+creations-chat 2020-08-14 20:13:02 up or down
+creations-chat 2020-08-14 20:13:07 but you want to put the wings at the center
+creations-chat 2020-08-14 20:13:22 like the real center
+creations-chat 2020-08-14 21:29:54 > <@456226577798135808> how are you at 6,000 i can only go to 2,000
+<@!637820395961188355> maybe your at the max save data
+help 2020-08-15 16:32:02 Does this suspension system work? I'm not sure if it does, but i think it should work
+help 2020-08-15 16:32:06 I'm just confused
+help 2020-08-15 16:32:43 Yes
+help 2020-08-15 16:33:02 So should I move the motors up?
+help 2020-08-15 16:34:16 So i should invert the suspension?
+help 2020-08-15 16:35:56 I want to use the suspension on the sides, so the tank won't get tall
+help 2020-08-15 16:39:14 So a block needs to be connected to it from the side then i'm guessing
+general 2020-08-15 16:52:24 ahh yes
+general 2020-08-15 16:52:27 dcs
+general 2020-08-15 16:52:35 the game where dlcs cost about 80 dollars
+help 2020-08-15 21:05:37 How can i prevent this? it's not being balanced while i'm idle (it has a suspension system)
+help 2020-08-15 21:05:57 It's happened on every single tank of mine with a suspension system and idk why
+help 2020-08-15 21:15:52 please ping for answers if you got one
+plane-crazy 2020-08-15 21:20:27 why isnt it balanced, how can i fix this
+creations-chat 2020-08-17 21:41:03 what could i improve upon my coincidental abrams
+creations-chat 2020-08-17 21:53:37 what could i improve upon my "coincidental" abrams
+creations-chat 2020-08-17 21:54:01 cause it looks like its disliked
+creations-chat 2020-08-17 22:00:16 noted
+creations-chat 2020-08-18 10:24:49 is that the stratotanker?
+creations-chat 2020-08-18 10:25:07 that aerial refueling aircraft
+creations-chat 2020-08-18 10:28:13 oh
+creations-chat 2020-08-18 10:28:43 oh wait
+creations-chat 2020-08-18 10:28:48 ye it is the kc135
+creations-chat 2020-08-18 10:29:43 What are WIP builds
+creations-chat 2020-08-18 10:29:59 oh
+creations-chat 2020-08-18 10:30:08 i dont really get those people
+creations-chat 2020-08-18 10:44:33 <@!681009940671889476> why did you censor the main gun? i can see that its made out of rockets
+creations-chat 2020-08-18 10:45:23 ohhh
+creations-chat 2020-08-18 10:45:25 i see
+creations-chat 2020-08-18 10:45:33 oh
+creations-chat 2020-08-18 10:45:38 well its a bit too long imo
+creations-chat 2020-08-18 10:46:36 if its for pvp, then i reccomend an armored turret with motors scattered around it to put the rockets in
+creations-chat 2020-08-18 10:47:51 i can just aim a rocket at your frontal turret, and your gun barrel wouldn't be on the tank anymore
+creations-chat 2020-08-18 10:48:33 rockets should be scattered around the turret like this
+creations-chat 2020-08-18 10:49:55 and make the gun barrel perhaps out of explosive blocks, keybinded to a key you woudln't press
+The reason is that it can't be penetrated by shredders, and guns don't do anything to an explosive block
+creations-chat 2020-08-18 10:51:25 Oh
+creations-chat 2020-08-18 10:53:14 
+creations-chat 2020-08-18 10:53:22 
+creations-chat 2020-08-18 10:53:34 
+creations-chat 2020-08-18 10:54:00 thats nice
+creations-chat 2020-08-18 10:54:37 <@!441939688018935818> weird, but interesting
+creations-chat 2020-08-18 10:54:46 i like it
+creations-chat 2020-08-18 11:15:33 nice bf
+creations-chat 2020-08-18 11:15:55 i have no idea how people build propeller planes, jet fighters are easier for me
+help 2020-08-18 11:43:03 Redid the camo job on my coincidental Abrams, how do you guys like it?
+help 2020-08-18 11:43:12 Could there be anything to improve upon?
+help 2020-08-18 11:44:20 i thought there were atleast like some anti tank missiles
+help 2020-08-18 11:44:39 But, is the camo good atleast?
+help 2020-08-18 11:44:52 previous one was this
+help 2020-08-18 11:45:01 I say its better
+help 2020-08-18 11:45:14 i mean the current one
+creations-chat 2020-08-18 11:45:55 It always looked wack to me, on every game
+creations-chat 2020-08-18 11:46:06 but, germans are germans
+help 2020-08-18 12:07:24 > thats a weird abrams
+<@!540515443132334090> its not neccesarily an abrams, i've copied many parts of it but it aims to be a custom mbt
+help 2020-08-18 12:07:26 which failed
+help 2020-08-18 12:07:32 but still, its amazing imo
+creations-chat 2020-08-18 12:08:00 nice spaceship
+creations-chat 2020-08-18 12:08:01 if it is one
+creations-chat 2020-08-18 13:05:20 > ima play world of tank
+war thunder better
+creations-chat 2020-08-18 13:05:32 fax
+creations-chat 2020-08-18 13:05:49 only positive thing in wot is that the grind is less
+help 2020-08-18 13:06:38 maybe motor lock or some shit
+help 2020-08-18 13:07:07 that looks like a wack spitfire
+creations-chat 2020-08-18 13:07:32 <#384025409945337856> ***b o m b i n***
+help 2020-08-18 13:07:48 oh
+creations-chat 2020-08-18 13:16:09 <@!209005642000760832> cockpit design is hard, but thats still wrong
+creations-chat 2020-08-18 13:22:24 i dont motorlock
+creations-chat 2020-08-18 13:22:26 i never did lol
+creations-chat 2020-08-18 13:23:15 heres my current cockpit design, no motorlocks
+creations-chat 2020-08-18 13:23:20 
+creations-chat 2020-08-18 13:23:29 and i used it for like 2 of my jets, works pefectly
+creations-chat 2020-08-18 13:23:32 and looks cool imo
+creations-chat 2020-08-18 13:23:38 i think it could work on most jets
+creations-chat 2020-08-18 13:23:56 <@!540515443132334090> im doing that lol
+creations-chat 2020-08-18 13:24:12 ^^
+creations-chat 2020-08-18 13:28:20 HMMMMM
+creations-chat 2020-08-18 13:28:28 HMMM
+creations-chat 2020-08-18 13:28:30 <:Thonk:509498568982134816>
+creations-chat 2020-08-18 13:36:31 BIG BRAINNNNN
+help 2020-08-18 20:57:11 That warthog is pretty small, working with bigger designs is always better
+help 2020-08-18 21:15:34 One thing that might make it backflip is that the wings are on the front and the engines are on the back
+help 2020-08-18 21:15:39 Maybe put the fings a few blocks back
+the-dump 2020-08-18 21:18:23 https://cdn.discordapp.com/attachments/694955534843117579/745124194504933426/Pictures_of_Leopards.mp4
+help 2020-08-19 20:20:52 for pvp?
+help 2020-08-19 20:21:00 or purely for design
+help 2020-08-19 21:17:07 why does it do this
+help 2020-08-19 21:17:08 https://streamable.com/wl4hiu
+help 2020-08-19 21:19:23 oh, thanks
+help 2020-08-19 21:20:46 what number should i set the "MaxTorque" on?
+help 2020-08-19 21:29:36 im just learning how custom propellers work
+help 2020-08-20 11:52:18 What's the purpose of motor lock inside a plane?
+help 2020-08-20 11:52:23 i dont get it
+help 2020-08-20 11:52:41 i can add detail without motor locks
+help 2020-08-20 12:01:43 normal block, color code 0 0 0
+creations-chat 2020-08-20 12:07:26 how is that p-61 1k blocks
+creations-chat 2020-08-20 12:07:38 my hornet is as big but its just 300
+creations-chat 2020-08-20 12:07:45 but regardless, gj
+the-dump 2020-08-20 19:37:03 https://cdn.discordapp.com/attachments/733298556902965280/743942579854245968/Screenshot_20200719-202607_Instagram.jpg
+the-dump 2020-08-20 19:37:37 wedge
+the-dump 2020-08-20 19:37:38 wedge
+the-dump 2020-08-20 19:37:39 wedge
+creations-chat 2020-08-21 17:16:43 > good or not?
+Propeller could be bigger
+creations-chat 2020-08-21 19:41:20 herrison just said a
+creations-chat 2020-08-21 19:41:21 wow
+creations-chat 2020-08-21 19:45:01 this is an epic gamer moment
+creations-chat 2020-08-21 19:45:06 👏 👏 👏
+help 2020-08-21 21:56:15 I just discovered that if you have ballasts at the back of the plane, you will pitch faster
+creations-chat 2020-08-22 09:21:09 i dont really like the coloring
+creations-chat 2020-08-22 09:22:00 www.streamable.com
+creations-chat 2020-08-22 09:22:27 > www.streamable.com
+<@!529471695648587776>
+creations-chat 2020-08-22 09:24:33 imagine using wheels <:pain:644301805534183464>
+creations-chat 2020-08-22 09:24:41 and not custom ones <:pain:644301805534183464>
+general 2020-08-22 10:34:42 Foom
+the-dump 2020-08-22 10:36:39 meem
+the-dump 2020-08-22 10:36:40 https://cdn.discordapp.com/attachments/703411762485264425/746466301555245106/video0.mp4
+the-dump 2020-08-22 10:37:41 https://cdn.discordapp.com/attachments/318013465652494336/746461812224032798/image0.png
+the-dump 2020-08-22 10:44:30 https://tenor.com/view/fortnite-fast-editor-clanname-maestro-video-games-gif-16938317
+creations-chat 2020-08-22 10:46:08 https://tenor.com/view/smash-gif-13700757
+creations-chat 2020-08-22 10:46:16 when you just got stick bugged in creations
+the-dump 2020-08-22 10:52:00 bf109 go nyoom
+the-dump 2020-08-22 11:09:53 thats going in my personal vault
+the-dump 2020-08-22 11:42:22 https://cdn.discordapp.com/attachments/318013465652494336/746687436360253501/video0.mp4
+creations-chat 2020-08-22 12:22:14 <@!628523381209169930> is the plane stable
+creations-chat 2020-08-22 12:22:23 your bf109
+creations-chat 2020-08-22 12:24:00 to my knowledge custom props in odd numbers wont be stable
+creations-chat 2020-08-22 15:21:11 xd tiktok getting downvoted to hell
+creations-chat 2020-08-22 15:22:02 i think it should be downvoted to hell
+creations-chat 2020-08-22 15:22:03 its tiktok
+creations-chat 2020-08-22 15:22:05 😎
+creations-chat 2020-08-22 15:22:25 yep
+creations-chat 2020-08-22 16:01:42 that thing is motor locked to the brim xd
+creations-chat 2020-08-22 16:11:32 <@!665264298855104512> remember, germans didn't know the meaning of "sloped armor" on their heavy tanks
+creations-chat 2020-08-22 20:55:34 <@!655236433501618180> f-16?
+creations-chat 2020-08-22 20:56:06 it looks like an f-16
+creations-chat 2020-08-22 20:56:52 the air intake should be like right after the pilot, but nice
+creations-chat 2020-08-22 20:56:54 👌
+creations-chat 2020-08-22 20:59:21 it was low effort, plus its tik tok
+creations-chat 2020-08-22 21:05:05 <@!305721738015014913> how are you gonna manage to make the upper part
+creations-chat 2020-08-22 21:05:33 if it has suspension built in that makes it move like a centipede
+help 2020-08-23 09:44:08 e
+creations-chat 2020-08-23 11:12:14 ***rainbow spaceship***
+creations-chat 2020-08-23 11:12:16 ***how***
+creations-chat 2020-08-23 11:12:49 oh its just
+creations-chat 2020-08-23 11:12:50 nvm
+creations-chat 2020-08-23 11:14:45 sneeze
+creations-chat 2020-08-23 11:15:08 but it really looks like some sort of spaceship
+creations-chat 2020-08-23 13:10:35 i do that too
+creations-chat 2020-08-23 19:41:48 isnt it against the rules to even joke being under 13
+creations-chat 2020-08-23 20:57:03 <@!376196152741330945> Nice, but the nose could be bigger
+plane-crazy 2020-08-23 21:02:15 <#478584971670454284>
+the-dump 2020-08-24 14:45:52 https://cdn.discordapp.com/attachments/489885867041620008/736418721391837254/video0-221-3.mp4
+the-dump 2020-08-24 14:50:36 To all the simps
+creations-chat 2020-08-24 22:54:18 use wedges there, that looks pretty annoying to look at imo
+creations-chat 2020-08-26 22:43:29 I would put that turret on a tank
+creations-chat 2020-08-26 22:44:16 Same to me
+creations-chat 2020-08-26 22:48:34 <#384025409945337856> what are those things on the sides of that stuart, they don't look like they are tank treads
+creations-chat 2020-08-26 22:56:08 oh waizt
+creations-chat 2020-08-26 22:56:10 yes
+creations-chat 2020-08-26 22:56:10 yes
+creations-chat 2020-08-26 22:56:34 it just bugs me that he didnt put it at the hull of the tank
+creations-chat 2020-08-26 22:56:38 if you know what i mean
+creations-chat 2020-08-26 23:03:17 epic
+creations-chat 2020-09-02 19:02:13 i made a prop plane that goes 650
+creations-chat 2020-09-02 19:02:32 only props
+creations-chat 2020-09-02 19:02:59 experimenting rn
+creations-chat 2020-09-02 19:03:47 oh
+creations-chat 2020-09-02 19:06:01 How
+creations-chat 2020-09-02 19:06:16 4 for each prop?
+creations-chat 2020-09-02 19:06:56 i use 7 for each but if it still kinda has a speed limit, the faster i set 1 the buggier it becomes
+creations-chat 2020-09-02 19:07:36 i didnt use half wedge 2
+creations-chat 2020-09-02 19:07:46 so should i use that for welds?
+creations-chat 2020-09-02 19:09:04 my planes just an experiment
+creations-chat 2020-09-02 19:09:08 i want to learn custom props
+creations-chat 2020-09-02 19:09:34 
+creations-chat 2020-09-02 19:09:58 No
+creations-chat 2020-09-02 19:10:10 just half block, half wedge, triangle wedge, wedge
+creations-chat 2020-09-05 12:07:45 lmfao you can't not copy an idea
+creations-chat 2020-09-05 12:08:30 that just dogshit
+creations-chat 2020-09-05 12:08:52 thats like (Hey, i built this thing and i am saying YOU can't build it now.)
+creations-chat 2020-09-05 12:10:07 and i dont get the need behind complex suspension, i just use the normal suspension on the side, with a motor attached to it, and fabric wheels attached to that
+creations-chat 2020-09-09 13:26:04 <@456226577798135808> he needs jesus
+help 2020-09-12 12:05:08 Any methods to keep it from derailing?
+help 2020-09-12 12:21:07 oooh
+help 2020-09-12 12:21:08 thanks
+help 2020-09-12 12:21:15 im just experimenting with tank treads
+help 2020-09-12 12:21:19 and thats like the only issue for me
+help 2020-09-12 12:21:22 is derailing
+creations-chat 2020-09-12 22:35:25 h
+help 2020-09-17 17:04:26 hes literally saying the solution
+creations-chat 2020-09-17 17:05:43 <@!572411935669354528> it really just looks like an F-35 with 2 exhausts but nice job regardless
+creations-chat 2020-09-17 17:06:51 > exhausts
+<@!551806781609869313> english isnt my main language
+creations-chat 2020-09-17 17:07:17 <@!720751430595772418> i mainly use it for custom control surfaces and tank turrets
+creations-chat 2020-09-17 17:11:31 lookin for targets
+creations-chat 2020-09-18 19:50:07 what the fuck have i done
+creations-chat 2020-09-18 19:50:09 
+creations-chat 2020-09-18 19:50:41 i strapped 2 turrets on an f-16
+creations-chat 2020-09-18 19:50:47 this is very cursed
+creations-chat 2020-09-18 19:50:48 imo
+creations-chat 2020-09-18 19:51:08 but it could do very well in ground attack
+creations-chat 2020-09-18 19:51:10 so yea
+creations-chat 2020-09-18 21:14:42 draken on drugs
+creations-chat 2020-09-18 21:15:44 yes
+creations-chat 2020-09-18 21:15:50 > bruh we just had a 4mil data update
+<@!509391216845258752> yes it was huge
+creations-chat 2020-09-18 21:15:57 how can people just not recognize that
+creations-chat 2020-09-18 21:16:05 like what the fuck
+creations-chat 2020-09-18 21:20:44 > confirmed gay
+<@456226577798135808> yooo look at this homophobic right here
+creations-chat 2020-09-18 21:20:48 what the fuck is he thinking
+creations-chat 2020-09-18 21:22:02 <@!297781925890883595> dont burst into tears if you get downvoted to hell, it happened to me several times even tho i put real effort in builds
+creations-chat 2020-09-18 21:22:22 luke's humor is so funny im bursting rn
+creations-chat 2020-09-18 21:22:33 <@456226577798135808> its also not a big deal
+creations-chat 2020-09-18 21:22:36 like the fuck you mad about
+creations-chat 2020-09-18 21:23:34 AIGHT
+
+IM BOUTTA PULL OUT
+😳 😳
+creations-chat 2020-09-18 21:23:37 i think we all should
+creations-chat 2020-09-18 21:23:39 tbh
+creations-chat 2020-09-18 21:24:08 ok
+creations-chat 2020-09-18 21:24:10 lets just pull out
+creations-chat 2020-09-18 21:24:18 luke
+creations-chat 2020-09-18 21:24:21 pull out
+creations-chat 2020-09-18 21:24:26 chill bro
+creations-chat 2020-09-18 21:24:35 omfg...
+creations-chat 2020-09-18 21:24:55 we are all telling you to chill <@456226577798135808> and you just dont
+creations-chat 2020-09-18 21:25:13 im hopping out
+creations-chat 2020-09-18 21:25:15 this is just bs
+creations-chat 2020-09-18 21:26:16 im sharing my f18 blue angels then too
+creations-chat 2020-09-18 21:26:34 
+creations-chat 2020-09-18 21:29:40 > F-14 with 14 downvotes
+<@456226577798135808> lets stop this
+creations-chat 2020-09-18 21:39:39 imagine caring about ranks
+creations-chat 2020-09-18 21:40:53 nice
+creations-chat 2020-09-18 21:40:55 could be better
+creations-chat 2020-09-18 21:41:18 i could pick up a rank
+creations-chat 2020-09-18 21:41:22 but meh idk
+creations-chat 2020-09-18 21:41:47 i could pick up vtol engineer and aeronautical engineer
+creations-chat 2020-09-18 21:41:57 nah
+creations-chat 2020-09-18 21:42:01 oh
+creations-chat 2020-09-18 21:42:09 i could maybe even pick terrain specialist
+creations-chat 2020-09-18 21:42:13 since i build tanks too
+creations-chat 2020-09-18 21:42:33 im not a crazy boi like a lot of people here
+creations-chat 2020-09-18 21:44:30 is this a low effort build? its a draken on drugs
+creations-chat 2020-09-18 21:45:02 the mech?
+creations-chat 2020-09-18 21:46:53 im guessing the bv11
+creations-chat 2020-09-18 21:46:54 1
+creations-chat 2020-09-18 21:46:56 Nice
+the-dump 2020-09-28 12:38:46 https://cdn.discordapp.com/attachments/382749426709430282/759643812518821940/image0.png
+plane-crazy 2020-10-02 17:32:05 yo is there gonne be a new map?
+plane-crazy 2020-10-03 13:54:09 we gettin new map?
+help 2020-10-03 23:41:25 i am the cockpit man
+plane-crazy 2020-10-04 09:13:39 the fuck
+plane-crazy 2020-10-04 09:13:46 ?
+the-dump 2020-10-04 09:15:47 this is going into the vault
+plane-crazy 2020-10-05 15:11:25 shredder bugs mitch be cancer, but bruh using insults
+plane-crazy 2020-10-05 15:11:26 the fuck
+plane-crazy 2020-10-05 15:11:30 might*
+creations-chat 2020-12-15 22:20:52 imagine complaining about your build being downvoted heavily
+plane-crazy 2020-12-29 19:26:07 
+plane-crazy 2021-07-08 23:36:59 i love getting into a public lobby and seeing someone use a hover script to visualize amongus fingering
+plane-crazy 2021-07-08 23:38:50 now hes doing the same thing except with avatars of the people online
+plane-crazy 2021-07-08 23:38:53 <:bruh:808751052107153439>
+help 2021-07-25 16:11:11 why does my craft go to the right? i've had this issue and i scrapped 3 separate builds because of this
+https://streamable.com/c3hgnc
+plane-crazy 2021-07-25 16:11:46 <:herlo:824736973586563138> <:grabhandR:824736973381173319>
+plane-crazy 2021-07-25 16:11:48 https://streamable.com/c3hgnc
+help 2021-07-25 16:13:29 i'll try vertical stabilizers then
+help 2021-07-25 16:15:04 that kind of fixed the issue
+help 2021-07-25 16:15:05 thanks
+plane-crazy 2021-07-25 16:17:04 <:intensecryin:687725493394735147>
+plane-crazy 2021-07-25 16:18:06 oh dear
+plane-crazy 2021-07-25 17:53:26 i found a hardcore german tank wehraboo
+plane-crazy 2021-07-25 17:53:28 <:bruh:808751052107153439>
+plane-crazy 2021-07-25 18:01:45 bruh
+bot-central 2021-08-18 21:47:44 s?help
+bot-central 2021-08-18 21:48:03 <:Troll:836320005103550474>
+bot-central 2021-08-18 21:48:05 ?shelp
+bot-central 2021-08-18 21:48:31 no RANK!!!
+bot-central 2021-08-18 21:48:32 <:moyaimoment:840029300757233664>
+bot-central 2021-08-18 21:48:39 ?rhelp
+plane-crazy 2021-08-19 15:16:31 how do you paint this <:erwin:828770772745977877>
+plane-crazy 2021-08-19 15:18:31 bruh an easier suspension gets through rails easily <@!617287617603436547>
+plane-crazy 2021-08-19 15:18:54 i heave a threaded suspension tank
+plane-crazy 2021-08-19 15:19:06 its unfinished tho but the engineering is 100% done
+plane-crazy 2021-08-19 15:19:09 with the suspension
+plane-crazy 2021-08-19 15:19:34 sadly ye
+plane-crazy 2021-08-19 15:19:36 <:wah:828750839845093406>
+plane-crazy 2021-08-19 15:19:58 also my first motor lock build
+plane-crazy 2021-08-19 15:19:59 https://streamable.com/vbayo4
+plane-crazy 2021-08-19 15:20:01 <:erwin:828770772745977877>
+plane-crazy 2021-08-19 15:20:55 <:erwin2:860672715571724299>
+plane-crazy 2021-08-19 15:22:35 i needed it
+plane-crazy 2021-08-19 15:24:22 i got tired of building planes so i tried to make 2 spaceships before my dorito spaceship
+plane-crazy 2021-08-19 15:24:27 but only this one was successful
+plane-crazy 2021-08-19 15:52:40 it looks a bit blocky
+plane-crazy 2021-08-19 15:52:51 thats the major flaw on it
+plane-crazy 2021-08-19 19:43:28 we do the paintjob on the delta 7
+plane-crazy 2021-08-19 19:45:36 we do the building in the build mode
+plane-crazy 2021-08-19 19:58:05 <:erwin:853961272114151475>
+plane-crazy 2021-08-19 20:48:37 <#490306593242611742> plane crazy content?
+plane-crazy 2021-08-19 20:48:39 <:think:863748511640453131>
+plane-crazy 2021-08-19 20:49:02 a new map gets me excited the most though
+plane-crazy 2021-08-19 20:49:36 also a resize tool is very good
+plane-crazy 2021-08-19 20:50:25 ye me neither
+plane-crazy 2021-08-19 20:50:49 <:erwin:853961272114151475>
+plane-crazy 2021-08-19 20:57:52 <:BIG3:588443788721258534><:BIG4:588443798842114088>
+plane-crazy 2021-08-19 22:16:54 we do some polish work and paint job
+creations-chat 2021-08-20 14:32:29 <:Troll:836320005103550474>
+creations-chat 2021-08-20 15:34:29 <a:demise:877915099564769340>
+creations-chat 2021-08-20 15:37:05 motor locking a shit ton of layers of wings was the only way to make it work and i wanted speed so i added rockets too
+plane-crazy 2021-08-20 15:38:43 <:erwin2:860672715571724299>
+creations-chat 2021-08-20 17:18:35 well i dont use them
+creations-chat 2021-08-20 17:22:30 i also dont know how to use them properly
+creations-chat 2021-08-20 17:26:28 i want to build a second version anyways so ill try
+help 2021-10-02 14:13:45 how to make a flying spaceship float easily
+help 2021-10-02 14:14:16 excluding hovers
+help 2021-10-02 15:44:00 oh
+help 2021-10-02 15:44:01 thank you
+plane-crazy 2022-02-16 20:26:53 when is plane crazy 2 coming?
+plane-crazy 2022-02-16 20:38:31 <:WhatChamp:775044367022555166>
+help 2022-02-17 19:49:42 where did you get this info?
+plane-crazy 2022-06-27 20:10:17 whats the release date for plane crazy 2
