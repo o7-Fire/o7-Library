@@ -1,0 +1,67 @@
+The Tale of vevo_ (338029593766395915)
+bug-reports 2018-12-06 14:19:07 Pistons are broken keybind set to F and i got multiple toggle's true and false
+creations-chat 2018-12-06 14:21:47 https://gyazo.com/c7ca1cac1b0c35e536b81719b71ffa79
+plane-crazy 2018-12-06 14:22:04 Wowowow
+plane-crazy 2018-12-06 14:27:54 Guys does the piston work for you
+plane-crazy 2018-12-06 14:49:52 Alluminum right
+plane-crazy 2018-12-06 14:49:59 or however you type it
+creations-chat 2018-12-06 16:16:38 https://gyazo.com/bdadd1b43be03394ea1cbc72277c02c4
+plane-crazy 2018-12-06 16:17:01 :))
+plane-crazy 2018-12-06 16:17:04 FOR THE MOTHERLAND
+plane-crazy 2018-12-06 16:17:12 i did
+plane-crazy 2018-12-06 16:17:45 Russian flag
+plane-crazy 2018-12-06 16:17:48 that can fly
+plane-crazy 2018-12-06 16:17:52 like the motherland
+plane-crazy 2018-12-06 16:23:23 telling me to do it in creation chat while i see THOSE DAWN BALLS
+plane-crazy 2018-12-06 16:23:39 Ewww^
+plane-crazy 2018-12-06 17:14:13 Our is already from the sovjet union!
+plane-crazy 2018-12-06 17:15:13 tf
+plane-crazy 2018-12-06 17:17:25 No we want pistens...
+plane-crazy 2018-12-06 17:17:30 (that work)
+plane-crazy 2018-12-06 17:18:00 More glass parts
+plane-crazy 2018-12-06 17:18:17 <@518615458518269963> i agree
+plane-crazy 2018-12-06 17:18:54 lmao
+plane-crazy 2018-12-06 17:19:15 also bigger plots!
+plane-crazy 2018-12-06 17:19:33 0
+plane-crazy 2018-12-06 17:19:48 ^^0.1
+plane-crazy 2018-12-06 17:20:20 I got one! reduce the particels so it doesnt lag when testing a big thing
+plane-crazy 2018-12-06 17:20:35 ^YES
+plane-crazy 2018-12-06 17:20:41 why nuts
+plane-crazy 2018-12-06 17:21:28 (particles aka Rocket engines)
+plane-crazy 2018-12-06 17:21:44 lmao
+plane-crazy 2018-12-06 17:24:48 cant you make it so it just makes a duplicated block on the same place
+plane-crazy 2018-12-06 17:25:00 rip my grammer
+plane-crazy 2018-12-06 17:26:16 Like when a blocks get placed (aka remote) the block will be duplicated but than invisble aka hitbox (yep i sound stupid)
+plane-crazy 2018-12-06 17:26:50 lmao
+plane-crazy 2018-12-06 17:27:39 https://gyazo.com/828438be5d57648d36c2a300892a555f
+plane-crazy 2018-12-06 17:27:45 shit
+plane-crazy 2018-12-06 17:30:58 also when you screw drive a motor to mousebutton1 it wont do anything
+plane-crazy 2018-12-06 17:33:19 EWWW
+plane-crazy 2018-12-06 17:53:37 <@!217336009455566848> You cant screw drive the Gun
+bug-reports 2018-12-06 17:55:46 Cant screw drive Gun
+If you set the motor to Mousebutton1 or 2 than it wont do anything
+Paint bucket bugs sometimes out
+Lag of you have something big
+bug-reports 2018-12-06 17:56:38 https://gyazo.com/f90feb8cb66f711c29c53ad4d976271d
+plane-crazy 2018-12-06 17:57:16 yeah im relising now
+bug-reports 2018-12-06 17:57:36 https://gyazo.com/84a2ae1c4e182e9807c39d24a4426438
+plane-crazy 2018-12-06 17:58:49 My russian space ship is the best
+bug-reports 2018-12-06 17:59:28 ik
+plane-crazy 2018-12-06 18:15:42 Do one big ball as roof
+plane-crazy 2019-02-23 19:35:39 RIP
+plane-crazy 2019-02-23 19:35:41 RIP
+plane-crazy 2019-02-23 19:35:42 RIP
+plane-crazy 2019-02-23 19:37:37 it is
+plane-crazy 2019-02-23 19:37:58 lmao
+general 2019-02-23 19:38:29 #ChristianSERVERPLS
+general 2019-02-23 19:40:04 same
+general 2019-02-23 19:43:30 oagio
+general 2019-02-23 19:43:44 <@!217336009455566848> new server?
+general 2019-02-23 19:44:07 bruh
+general 2019-02-23 19:45:45 <:THONK:527880803456122891>
+general 2019-02-23 19:46:15 <:approve:540359363827859486>
+general 2019-02-23 19:46:29 YOU KIDS HAVE TO SLEEP NOW LEAVE
+general 2019-03-20 20:18:42 https://gyazo.com/2feb865d5f13e84400e4b62d839beb84
+general 2019-03-20 20:18:48 does someone know why this thing cant jump
+general 2019-03-20 20:19:17 i rigged it just like a R15 character
+general 2019-03-20 20:19:38 including naming the MotorD6

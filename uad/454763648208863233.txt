@@ -1,0 +1,16 @@
+The Tale of _1gbr_samupro (454763648208863233)
+bug-reports 2020-08-31 21:09:36 
+bug-reports 2020-08-31 21:09:36 
+bug-reports 2020-08-31 21:10:06 In these 6 points, it is very common for trains to derail
+bug-reports 2020-08-31 21:10:51 I've tried various sizes and wheel spacings, and those spots are the most unstable
+bug-reports 2020-08-31 21:12:21 i dont know where to put it
+bug-reports 2020-08-31 21:14:27 speed at 1.8
+bug-reports 2020-08-31 21:18:04 Well, I don't know, I just wanted to report that there are parts of the train tracks that don't work at all well
+bug-reports 2020-08-31 21:19:36 the problem is that at that point, regardless of speed, the separation of both tracks is correct, so the train never derails
+bug-reports 2020-08-31 21:20:34 at the points I mentioned above, even with low speed, it derails easily
+bug-reports 2020-08-31 21:20:50 yeah
+plane-crazy 2021-04-22 19:46:53 one question, what are the blue and yellow ball in the vehicle models?
+plane-crazy 2021-04-22 19:50:55 yeah
+plane-crazy 2021-04-22 19:51:03 the yellow?
+plane-crazy 2021-04-22 19:51:22 Ohhhh
+plane-crazy 2021-04-22 19:51:23 Ty

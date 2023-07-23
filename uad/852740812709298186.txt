@@ -1,0 +1,22 @@
+The Tale of Casual Krieger (852740812709298186)
+help 2022-12-02 11:15:59 trying to make the bayraktar TB2 UAV in plane crazy, but im having a little trouble figuring out on how to motolock the wings to the correct position
+help 2022-12-25 11:42:45 https://streamable.com/lfdnht
+help 2022-12-25 11:43:07 anyone know how to stop it from leaning down and to the right?
+help 2022-12-25 11:45:07 i have but it still leaned down, and if i add anymore it'll float up
+help 2022-12-25 11:46:29 alr i'll try that
+help 2022-12-25 11:53:35 sometimes the balance changes between the left and the right
+help 2022-12-25 12:00:04 nvm
+help 2022-12-25 12:00:58 i fixed the issue by adding ballasts at the back, and also i forgot to switch off the control panels, so i fixed that too
+help 2022-12-25 12:01:07 but it still leans down a bit
+general 2022-12-25 12:27:59 how do you post images in <#384021699466756107>  and <#384025409945337856> ?
+bot-central 2022-12-25 13:35:47 !rank
+help 2022-12-26 06:02:26 made a battleship from w40k, but i have no idea how to make it float
+help 2022-12-26 06:03:23 
+help 2022-12-26 06:10:58 thats also from 40k
+help 2022-12-26 06:11:19 also does anyone know how to make it float
+help 2022-12-26 06:30:20 ballast tanks?
+help 2022-12-26 06:44:50 how bout the movement?
+help 2022-12-26 06:45:43 and the stability
+help 2022-12-26 06:47:30 density
+help 2022-12-26 07:02:36 that's not possible
+help 2022-12-26 07:07:52 oh beams

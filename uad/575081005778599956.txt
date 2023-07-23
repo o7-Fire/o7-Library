@@ -1,0 +1,9 @@
+The Tale of microenelfrasco (575081005778599956)
+plane-crazy 2021-05-24 16:57:51 Well yeah, but railguns can be a problem sometimes
+plane-crazy 2021-05-24 16:58:12 Indeed, good idea
+help 2021-05-25 21:30:18 Yo guys, how u make actually functional helicopters? Like I know how to make it go up and down, and to rotate to the sides, but it barely moves forward
+help 2021-07-08 19:25:47 Im trying to make my own little helicopter BUT I don't know to make it go forward since every thing i've tried makes it unstable (starts moving forward and backwards), it does everything else well (turn, lift and go down) but I need help making it go forward, how can I do it?
+help 2021-07-08 19:34:22 Ok it techically works but realized the heli is still moving forward and backwards even if I dont turn the propeller on, is there a way to make it more stable?
+help 2021-07-08 19:41:52 Yup, just realized, I made the tail larger and putted some propellors to stabilize and it worked, now I just need more lift so im just gonna make the wings bigger
+help 2021-07-08 19:42:50 Ye im pretty new with helis so I though making it small would be better to begin
+help 2021-07-08 19:44:02 Alr

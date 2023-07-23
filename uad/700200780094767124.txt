@@ -1,0 +1,115 @@
+The Tale of adam_and_steve (700200780094767124)
+general 2021-04-27 11:33:23 Ayo
+general 2021-04-27 11:33:49 Tryna do a vertical fold, but the upper hull keeps falling the opposite side.
+general 2021-04-27 11:33:59 How do ya'll make it rotate properly
+general 2021-04-27 11:36:49 A battleship :/
+general 2021-04-27 11:37:14 It's split into 4
+general 2021-04-27 11:37:39 Still workin on the 2nd part, started yesterday (got busy with school)
+general 2021-04-27 11:39:50 It's just that the 2nd part was heavy, then it fell the other way.
+general 2021-04-27 11:40:56 I'll go to <#478584971670454284> ..
+help 2021-04-27 11:41:49 Had this problem
+help 2021-04-27 11:42:15 Motor couldn't rotate it the proper way..
+help 2021-04-27 11:44:22 Also increased power, and torque
+help 2021-04-27 11:44:25 Did nothing lmao
+help 2021-04-27 11:45:31 H m m
+help 2021-04-27 11:49:44 Still ain't workin
+help 2021-04-27 11:49:52 :/
+help 2021-04-27 11:50:09 Welp, my Alsace-build is f*cked
+help 2021-04-27 11:56:21 o
+help 2021-04-27 12:15:54 Bruh
+help 2021-04-27 12:16:07 The thing moves the same the way pressing R, and F
+help 2021-04-27 12:18:26 Already tried rotating the motors in build mode..
+help 2021-04-27 12:19:06 Am I doin somethin wrong-
+help 2021-04-27 12:20:13 I'VE PUT 1000
+help 2021-04-27 12:20:22 meh
+help 2021-04-27 12:20:25 I knew I am
+help 2021-04-27 12:20:27 And I am
+help 2021-04-27 12:20:45 I dunno how torque works alright-
+help 2021-04-27 12:24:34 https://streamable.com/w3ldjg
+help 2021-04-27 12:25:06 That's me pressing R, and F too..
+help 2021-04-27 12:28:15 Oh f*ck-
+help 2021-04-27 12:28:34 It worked, but it's flinging now..
+
+Not a problem at least.
+help 2021-04-27 12:28:43 Thanks for fixing my dumbass head
+help 2021-04-27 14:41:32 Ayo, do different blocks have different armor?
+help 2021-04-27 14:41:59 And do jets/rockets work better than rotary water propellers for turning?
+help 2021-04-27 14:45:31 So Ballast blocks are meta for making ship, even for the armor?
+help 2021-04-27 14:45:32 Meh
+help 2021-04-28 03:11:31 I've seen ladders on naval ships as railings, and they're aligned along 4x wedges. How do you do this?
+help 2021-04-28 03:16:06 
+help 2021-04-28 03:16:38 F*ck
+help 2021-04-28 03:19:37 How do ya align that angle shit. How does it look unfolded.
+help 2021-04-28 03:20:22 <:Thonk:509498568982134816>
+help 2021-04-28 03:24:53 R i g h t' n t
+help 2021-04-28 03:26:23 Pretty impressive the ngl
+help 2021-04-28 03:26:36 (For the original builder)
+help 2021-04-28 03:31:08 I meant the mechanism
+help 2021-04-28 03:31:11 Not the design
+help 2021-04-28 03:31:14 That's meh
+help 2021-04-28 03:36:36 <:Trigje139:559518788660232196>
+help 2021-04-28 03:37:05 Dos motor locks tho
+help 2021-04-28 03:37:26 Why da tnt
+help 2021-04-28 03:41:05 I forgot why motor locks are useful..
+help 2021-04-28 03:52:33 I see..
+plane-crazy 2021-04-28 07:23:20 You makin that IJN submarine?
+help 2021-04-28 07:25:08 Dampin?
+This game got dampin?
+help 2021-04-28 07:25:52 And btw, I can just replace all my 4x beams on my ship with Ballast beams right? Isn't it just outright better?
+bug-reports 2021-04-30 09:44:55 https://streamable.com/o0xeqj The bow flops
+bug-reports 2021-04-30 10:16:53 Like, my player camera, or the camera objects?
+bug-reports 2021-04-30 11:14:46 M m
+bug-reports 2021-04-30 11:14:52 Not a problem really
+bug-reports 2021-04-30 11:15:56 Got fixed actually
+bug-reports 2021-04-30 11:15:59 It's alright
+general 2021-05-01 05:43:07 Been thinkin about a three-willed DaBaby convertible for the contest
+general 2021-05-01 05:43:09 ..
+general 2021-05-01 05:43:40 I didn't say i was
+general 2021-05-01 05:43:53 i don't plan on building one since it ain't impressive
+general 2021-05-01 05:44:24 Just tellin man! No need to get a lil hurt
+general 2021-05-01 05:44:50 Who the hell is Guac
+general 2021-05-01 05:44:59 and why he advertisin
+help 2021-05-01 06:14:20 How do I increase ship speed other than propellers?
+help 2021-05-01 06:14:44 Ballasts? Rokcets/Jets?
+help 2021-05-01 06:21:10 Oh right
+help 2021-05-12 00:19:14 I haven't seen motor locking on ships (or from what I remembered). I don't understand motor locking, but I just wanna know why.
+help 2021-05-12 00:22:34 O h
+help 2021-05-12 00:23:03 Aight. Imam go see a motor locking tutorial
+help 2021-05-12 00:32:12 Y o o.
+
+Motor locking is useful
+help 2021-05-12 04:28:14 Try to set your elevator's power higher??
+general 2021-05-12 12:46:13 But for real tho, Rick ain't considerin these sh*t?
+general 2021-05-12 12:46:47 <:what:644996672048463942>
+general 2021-05-12 12:47:09 Damn..
+general 2021-05-12 12:47:25 ae
+general 2021-05-12 12:47:31 Perang
+general 2021-05-12 12:48:01 w h a t
+general 2021-05-12 12:48:33 Marilah kita pergi perang
+general 2021-05-12 12:49:09 Semoga bomnya kena
+general 2021-05-12 12:51:15 Ok but like, Rick ain't considerin this stuff?? At all?
+general 2021-05-12 12:53:05 Do ya'll suffer making big builds just because duplication, or multipart select doesn't exist..
+general 2021-05-12 12:53:23 Dia harus meminta maaf
+general 2021-05-12 12:53:38 Janganlah bergitu
+help 2021-05-12 22:56:01 Can I motor lock Torpedoes?
+help 2021-05-13 00:10:52 Aight. Will they still work?
+bug-reports 2021-05-14 14:41:40 the beam block's gettin' blocked by.. somethin?
+bug-reports 2021-05-14 14:46:11 It's these 3 blocks
+bug-reports 2021-05-14 14:46:34 aight
+bug-reports 2021-05-14 14:46:56 Resolved
+bug-reports 2021-05-14 14:47:04 thanks
+bug-reports 2021-05-22 08:07:45 B r o . . .
+bug-reports 2021-05-22 08:08:06 It's been a week man
+general 2021-08-27 14:28:13 I forgot the reason why plots can't be expanded.
+general 2021-08-27 14:28:54 Oh
+general 2021-08-27 14:29:02 Right, thanks :D
+general 2021-08-28 01:35:02 I wanna ask what hard coding is with an example of it in this game.
+general 2021-08-28 01:35:39 Nice reference, I play WT too
+general 2021-08-28 01:35:51 And softcoded just doesnt?
+general 2021-08-28 01:36:42 I cant even load my 6k part hull (without superstructure and turrets) without lagging lol
+general 2021-08-28 01:37:06 I heard, yah
+general 2021-08-28 01:37:38 I know, but not to this extent
+general 2021-08-28 01:38:43 So soft coding is directly better than hard coding?
+general 2021-08-28 01:39:52 Wood still burns faster than cement bru
+general 2021-08-28 01:40:12 Yah
+help 2021-09-11 04:32:09 Do different part sizes have different hp? Do some have better resistance against certain weapons?

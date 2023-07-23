@@ -1,0 +1,9 @@
+The Tale of ohhh_ok (234780489259548672)
+plane-crazy 2019-05-12 04:17:25 casually builds a 2000+ block ship
+general 2020-03-21 17:14:53 is there supposed to be four half beam blocks in the block selection
+general 2020-03-21 17:15:26 they're all the same block btw
+general 2020-03-21 17:15:54 oh
+general 2020-03-21 17:16:00 i figured something was up
+general 2020-03-21 17:16:34 turns out all the blocks are doubled
+the-dump 2020-03-23 16:50:41 i would like to learn lua too, it seems like it would help in the future
+the-dump 2020-03-23 16:51:16 but learning C is probably best or some other languages that are used more

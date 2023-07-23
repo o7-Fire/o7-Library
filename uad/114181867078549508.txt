@@ -1,0 +1,91 @@
+The Tale of katkosmos (114181867078549508)
+general 2020-07-31 09:10:58 I just eyeballed references for my P-51 and Me 262 lol
+general 2020-07-31 09:11:11 I know for a fact they're off by a decent amount in scale and stuff
+general 2020-07-31 09:11:19 but it's close enough and they fly so ¯\_(ツ)_/¯
+general 2020-07-31 09:28:59 Just discovered this, might help you guys out when using references so you can properly scale things without having to do image editing: https://github.com/LorenzCK/OnTopReplica
+general 2020-07-31 09:29:15 Supports setting opacity and click passthrough and stuff
+general 2020-07-31 10:42:15 the plane engine has its ups and downs, cars and tanks just (normally) move sideways <:blaze:716897128621932574>
+general 2020-07-31 10:48:40 wtf are the on/off engine mode sounds
+general 2020-07-31 10:49:31 oh, wait, did i get an easter egg or something lmao
+general 2020-07-31 10:49:47 it's not doing it now
+general 2020-07-31 10:49:50 <:thimk:687830160631922776>
+general 2020-07-31 10:50:58 it was a voice pretending to be a jet engine lmfao
+general 2020-07-31 12:53:11 <@338393512389378059> now use vray and make it look photorealistic <:blaze:716897128621932574>
+general 2020-07-31 12:54:26 You can download fonts off the internet lol
+general 2020-07-31 13:07:36 <@!273536574770380800> I would think the front is on the right lol
+general 2020-07-31 16:46:40 Anybody ever do stuff like this? <:blaze:716897128621932574>
+general 2020-07-31 16:47:06 in game:
+general 2020-07-31 16:47:14 and yeah it's motor lock
+general 2020-07-31 16:48:37 voila fixed <:blaze:716897128621932574>
+general 2020-07-31 16:48:40 (my status)
+general 2020-07-31 17:07:59 this dude in my server is being toxic as hell, called me the n-word, all because I was describing my project to someone else lmfao
+general 2020-08-02 19:47:52 > halftriangle wedges 1x2 when
+<@508065143905845248> 1x1.5 half wedges when
+general 2020-08-04 01:25:24 <@!596838448489431063> make sure you specifiy the rank you're expecting/requesting/whatever when you submit a request, that'll hopefully ensure you get the right rank next time
+general 2020-08-04 02:52:09 all laptops can be opened up
+general 2020-08-04 02:53:20 you could honestly probably shove a desktop motherboard, cpu, graphics card, etc. in a laptop, you'd just have to modify the laptop a ton, and it also would no longer be a laptop. also no way you're getting the bottom back on lmao
+general 2020-08-04 02:54:38 I design computers and stuff as a hobby
+general 2020-08-04 02:54:50 just got some PCBs for a project I'm doing delivered today, actually
+general 2020-08-04 03:20:03 My setup:
+i9-9900K overclocked to 5GHz
+RTX 2070
+32GB 3600MHz Corsair Dominator Platinum RGB RAM
+Corsair DarkCore SE RGB
+Corsair K95 Platinum RGB
+Whatever Corsair's RGB mousepad is
+Corsair H100i RGB AIO cooler
+general 2020-08-04 03:20:40 Not useless, just minimized the window I had open since it had work stuff on it I couldn't show
+general 2020-08-04 03:21:18 But I bought all this stuff over the course of years.
+general 2020-08-04 18:26:51 Lol I'm researching lift calculations rn and the wings in the game wouldn't be able to get you off the ground unless they're angled, since flat planes produce zero lift with an angle of attack of 0°
+general 2020-08-04 18:28:19 Remove the blocks off to the right side
+general 2020-08-04 18:29:34 <@339519624968404993> yeah, I know, though really it wouldn't be that laggy. Widgeon has done airfoil simulations with zero lag
+general 2020-08-04 18:30:28 It's never been tested on a scale like Plane Crazy, though, I'm sure, where there's tons of individual parts
+general 2020-08-04 18:30:32 Yeah
+general 2020-08-04 18:32:43 maybe I'll do some tests later and see how far I can get, perhaps I can do precalculations and and then update those calculations if parts break off
+general 2020-08-04 18:33:46 I did come up with complete conversions for everything earlier between Roblox and the real world, accurate to the scale of players being the size of humans
+general 2020-08-04 18:34:30 Yeah
+general 2020-08-04 18:34:52 Funny thing is I actually do work with interpreters and compilers outside of roblox lol
+general 2020-08-04 18:36:01 I just make toy languages and transpilers and whatnot
+general 2020-08-04 18:36:39 For instance, there's a project I'm (extremely slowly) working on where I'm trying to statically recompile NES games to native binaries, or at least as native as possible.
+general 2020-08-04 18:37:56 The current goal is to generate expressions for every "block" of code based on how it changes execution, and hopefully cover every possible code path including dynamic code execution
+general 2020-08-04 18:38:06 Ah sure, just send me a DM or something whenever
+general 2020-08-04 21:28:26 It was fireworks, I saw a close-up video
+general 2020-08-04 21:29:04 though I doubt the guy filming it and the camera are anything but their individual molecules now
+general 2020-08-04 21:31:03 but yeah, I've heard it was a welding accident that set off some chemicals, which then likely set some fireworks off, and then the fire made its way to grain elevators
+general 2020-08-04 21:31:24 so basically just explosion after explosion that all kind of accumulated in one
+general 2020-08-04 21:31:46 that's my personal theory, though, don't take that as fact
+general 2020-08-11 00:48:12 I got "A"
+general 2020-08-11 00:48:23 it is a word, after all <:blaze:716897128621932574>
+general 2020-08-11 23:44:30 <@456226577798135808> you in IL?
+general 2020-08-11 23:45:51 I had two potential tornadoes right by me, then one possibly further north west up in Wisconsin, based off some tornado tracking site. Not sure if they were actual tornadoes or not tho, since all I had to go off of was that site
+general 2020-08-11 23:46:47 But yeah luckily I didn't lose power, shit was kinda scary tho
+general 2020-08-11 23:47:50 <@456226577798135808> I posted 2 messages above directed towards you ^
+general 2020-08-12 19:23:40 it sees you breathing
+general 2020-08-12 19:23:47 it sees *everything*
+general 2020-08-13 23:19:14 they probably want food
+general 2020-08-16 23:06:43 Should I attempt to make a mechanical calculator <:blaze:716897128621932574>
+general 2020-08-16 23:07:50 Even better: flying mechanical calculator
+general 2020-08-16 23:08:24 No clue if I'll have the space for a calculator, let alone enough to make it fly, but I can try
+general 2020-08-18 01:40:51 he's not a chad, he's blind
+general 2020-08-18 01:41:38 <@!714763671410180127> just ban the 9 year old from your brain's discord
+general 2020-08-18 01:46:25 just get a server and have everyone work together to build interlocking pieces to recreate the flying island
+general 2020-08-18 01:47:08 tell rickje to do `:kill island`
+general 2020-08-18 01:48:21 terrain like the thumbnail when
+general 2020-08-18 01:49:32 I'm considering writing a custom roblox client just so I can finally ditch windows completely lmao
+general 2020-08-18 01:53:00 they're probably introverts
+general 2020-08-18 01:55:39 "e.png"
+general 2020-08-18 02:16:34 Looks like it's a piece of electronic entertainment software played on a screen of some kind, likely with some sort of human input device (HID), like a keyboard, mouse, controller, etc.
+general 2020-08-18 02:16:44 hope that helps
+general 2020-08-18 02:24:14 Yeah, like I get having accomodations and stuff, but if you're capable of doing shit yourself, they should just let you lol
+general 2020-08-18 03:57:39 lol what's with this rule for the contest
+> -You cannot use external programs for your build.
+general 2020-08-18 03:57:50 people gonna use autobuilder type stuff?
+general 2020-08-18 04:02:44 no jesus walked on him, he's not jesus
+general 2020-08-19 15:21:34 Here I fixed the thumbnail lmao
+general 2020-08-19 15:23:14 I'm moving into my dorm today, can't wait to get covid
+general 2020-08-19 15:23:52 who here has roblox
+general 2020-08-19 15:24:58 it's 10:24 here
+general 2020-08-19 15:58:50 Cory in the House is the best anime
+general 2020-12-27 02:10:11 Should I recreate:
+A) Dornier Do 31
+B) C.450 Coléoptère

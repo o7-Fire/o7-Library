@@ -1,0 +1,141 @@
+The Tale of arkenmot (339934061718011916)
+general 2021-08-20 20:07:57 when it says in the aeronautical engineer rank that it has to be able to roll, does that mean completely roll of just roll enough to be able to turn?
+general 2021-08-20 20:09:15 well, it says "Plane must be capable of yaw, pitch and roll."
+help 2021-08-20 20:18:12 I'm not too sure on how to help you with that, but my best guess would be the config used on the motors
+help 2021-08-20 20:27:23 now I have no idea
+plane-crazy 2021-08-20 20:37:11 when it says "Plane must be capable of yaw, pitch and roll" in the aeronautical engineer rank , does that mean completely roll or just roll enough to be able to turn?
+plane-crazy 2021-08-20 20:38:12 basic maneuverability I guess?
+plane-crazy 2021-08-20 20:40:15 oh, that makes sense. so I just need it to be able to roll and not completely roll, like barrel roll
+plane-crazy 2021-08-20 21:35:14 ok
+bot-central 2021-08-20 22:27:11 !rank
+general 2021-08-21 02:39:55 9
+general 2021-08-21 02:40:00 oof
+creations-chat 2021-08-21 02:55:58 I'm still wondering how he managed to do that
+the-dump 2021-08-21 02:59:36 I have no clue of what is happening in this chat rn
+the-dump 2021-08-21 03:00:47 that makes sense
+bot-central 2021-08-21 03:06:56 !rank
+bot-central 2021-08-21 03:09:12 same
+plane-crazy 2021-08-21 03:15:04 I'm still trying to understand what happened there
+general 2021-08-21 03:16:53 I would say neither, just watch him
+general 2021-08-21 03:17:36 rip
+plane-crazy 2021-08-21 03:23:19 you need to reach level 3 to get pic perms
+plane-crazy 2021-08-21 03:25:51 you just need to talk in the server to level up
+plane-crazy 2021-08-21 03:25:58 then you can get pic perms at level 3
+bot-central 2021-08-21 03:26:18 !rank
+bot-central 2021-08-21 03:26:25 so close
+bot-central 2021-08-21 03:51:05 Just to inform you why the !servers didn't work for you (got this from <#735554521992003584>):
+Q: Why does the !servers command not work for me?
+A: You first need to be ranked in order to access the !servers command. Ranks are listed in the <#609442446249820211> channel.
+bot-central 2021-08-21 03:53:47 !rank
+creations-chat 2021-08-21 03:56:41 image quality probably, since those breaks can be seen on the plot border as well
+creations-chat 2021-08-21 16:24:47 <@!737490829693681714> just type some messages to level up to send images, its easier than sending a link
+plane-crazy 2021-08-22 00:29:16 I just build it and see if it flies
+plane-crazy 2021-08-22 00:29:37 If it doesn't I just change things around until it does
+plane-crazy 2021-08-22 01:17:31 to make a submarine fly, I would recommend just adding rockets
+plane-crazy 2021-08-22 01:17:36 a ton of them
+plane-crazy 2021-08-22 01:17:40 that should work
+plane-crazy 2021-08-22 01:18:22 yeah, that also works, but if the person only wants to fly for a moment, rockets would work too
+general 2021-08-22 01:24:36 i see
+bot-central 2021-08-22 02:09:57 what are you trying to do?
+help 2021-08-22 02:21:47 it needs vertical wing panels to stop it from drifting sideways
+help 2021-08-22 02:25:23 without vertical wing panels, there is nothing that is controlling your yaw movement
+help 2021-08-22 02:25:57 
+help 2021-08-22 02:26:44 so it is doing an involuntary yaw movement, since it has no vertical wing panels
+plane-crazy 2021-08-22 02:31:57 to post in creations, you must first get image perms
+plane-crazy 2021-08-22 02:32:13 so just keep chatting until you reach level 3
+plane-crazy 2021-08-22 02:32:32 and to check you level, just go to <#384027830192832513> and do !rank
+plane-crazy 2021-08-22 02:32:43 np
+help 2021-08-22 02:40:37 anyone knows of any emoji that I could use to have something similar to what is shown in the image?
+general 2021-08-22 02:59:23 anyone knows why lbs becomes tags when i try to type them in a sign?
+creations-chat 2021-08-22 03:08:12 from my experience in build planes that sometimes also steer to the left or right, i would guess that it is your tail gun, since in the video, it is glitched inside your plane i think, if it is just the design, then idk
+bot-central 2021-08-22 19:49:25 someone who was rank 68 previously
+plane-crazy 2021-08-22 20:59:57 check <#705941616199991307>
+plane-crazy 2021-08-22 21:02:58 no clue
+plane-crazy 2021-08-22 21:03:57 what do you mean by that?
+plane-crazy 2021-08-22 21:04:33 oh, yeah that would be something nice to have
+plane-crazy 2021-08-22 21:05:12 someday between this year and who knows when
+plane-crazy 2021-08-22 21:06:37 in <#490306593242611742> , it is said "Data will not be lost, it will be easily transferred over to PC2, you will not lose anything or any settings.
+I will make sure there will be backwards compatibility."
+plane-crazy 2021-08-22 21:10:27 i think it would work better if it only had one or two of those, not the three of them
+plane-crazy 2021-08-22 21:11:09 gbye
+help 2021-08-22 21:57:55 is there any way to have letters on texts that are larger than 100?
+help 2021-08-22 22:01:10 welp, I needed it to type united states air force on the side of my b-29
+help 2021-08-22 22:04:51 did you use cameras to connect things that are connected to the motor lock?
+help 2021-08-22 22:05:24 because if you did, sometimes cameras may do that type of stuff
+help 2021-08-22 22:05:35 but if you didn't use cameras, I have no idea
+creations-chat 2021-08-23 15:09:14 I think you could just build something similar using motorlocks
+creations-chat 2021-08-23 23:22:35 <@!676970337770012683> when you posted your saturn V on creations and asked for rocket scientist V, you should first wait it to get the total score of 20 and then do a rank-request ticket as shown in <#705941616199991307>.
+Requirements for rocket scientist V: Build a rocket of 2000+ blocks and get a total score of at least 20 (The total of upvotes is upvotes - downvotes. Your own vote and the vote given by the bot will not be counted towards the total.)
+bot-central 2021-08-23 23:29:16 !servers
+plane-crazy 2021-08-23 23:33:29 use half blocks
+plane-crazy 2021-08-23 23:33:58 just replace one of the wing panels to a half block on the bottom part
+plane-crazy 2021-08-23 23:36:04 
+plane-crazy 2021-08-23 23:37:43 np
+bot-central 2021-08-24 02:21:12 -servers
+bot-central 2021-08-24 02:45:36 -servers
+bot-central 2021-08-24 12:46:40 -servers
+creations-chat 2021-08-24 13:21:30 to post pictures you need to get level 3 in the discord server, so just keep chatting to level up. Go to <#384027830192832513> and do !rank to check your level
+bot-central 2021-08-24 18:37:59 -servers
+creations-chat 2021-08-24 21:42:58 if I want some feedback on a creation I haven't sent yet to <#384025409945337856>, I send the images here or in <#478584971670454284>?
+creations-chat 2021-08-24 21:45:57 B-29 "it's hawg wild"
+4.2K blocks
+If something could be improved, tell me what and I'll will try to change it
+Feedback is very much appreciated
+https://cdn.discordapp.com/attachments/859092971885690934/879836681610592276/2021-08-22_7.png
+https://cdn.discordapp.com/attachments/859092971885690934/879836683166695474/2021-08-22_6.png
+https://cdn.discordapp.com/attachments/859092971885690934/879839582978453524/2021-08-24_2.png
+https://cdn.discordapp.com/attachments/859092971885690934/879836686589247528/2021-08-22_16.png
+creations-chat 2021-08-24 21:50:03 I would like to try and do that, but it may be a little bit difficult, considering the way I built them
+help 2021-08-24 21:53:22 can someone "teach" me the basics of how to make thicker wings?
+creations-chat 2021-08-24 22:11:23 I upvoted it just now. One more upvote and it will have a score of 100
+creations-chat 2021-08-24 22:13:54 he already can get designer V, it requires a score of 90
+creations-chat 2021-08-24 22:16:19 from what I can see in <#609442446249820211>, there is no designer X
+help 2021-08-24 22:19:51 ok, I will try doing that
+help 2021-08-24 22:20:29 Im trying to improve my b-29 so it may be a little difficult
+plane-crazy 2021-08-24 22:23:53 from PC to PC2?
+plane-crazy 2021-08-24 22:24:18 according to <#490306593242611742> it will
+"Data will not be lost, it will be easily transferred over to PC2, you will not lose anything or any settings."
+plane-crazy 2021-08-24 22:24:31 np
+creations-chat 2021-08-24 22:26:35 I made some engines for an upcoming F-4E project. Does it look good or should I start over?
+https://cdn.discordapp.com/attachments/859092971885690934/879853027094323230/2021-08-24_6.png
+https://cdn.discordapp.com/attachments/859092971885690934/879853026825879562/2021-08-24_7.png
+https://cdn.discordapp.com/attachments/859092971885690934/879853028088381521/2021-08-24_8.png
+bot-central 2021-08-24 22:28:02 !rank
+bot-central 2021-08-24 23:10:57 -servers
+bot-central 2021-08-25 00:15:39 -servers
+bot-central 2021-08-25 11:59:53 -servers
+creations-chat 2021-08-25 15:21:08 Happy bday
+bot-central 2021-08-25 17:12:45 -servers
+bot-central 2021-09-08 03:55:31 -servers
+bot-central 2021-09-10 11:47:27 -servers
+bot-central 2021-09-12 03:58:44 -servers
+bot-central 2021-09-12 17:24:53 -servers
+creations-chat 2021-09-12 20:28:53 To upload images, you need the rank "image," which you get when you are level 3 in this discord server. To level up you just need to send messages in chat. You can check your current chat level by using the command !rank in <#384027830192832513>
+
+<@!467459282250629120> I sent it like this to avoid him asking other questions, such as "how do i level up" or "how do i check my level"
+bot-central 2021-09-13 00:57:52 -servers
+bot-central 2021-09-13 22:17:40 -servers
+bot-central 2021-09-15 12:13:54 -servers
+bot-central 2021-10-07 11:51:42 -servers
+bot-central 2021-10-07 17:04:49 -servers
+bot-central 2021-10-08 21:00:07 -servers
+bot-central 2021-10-11 01:44:43 -servers
+bug-reports 2021-10-14 21:48:21 do you have an anchor block on your build?
+creations-chat 2021-10-15 14:58:10 no motorlock here
+bot-central 2021-10-15 15:01:07 -servers
+creations-chat 2021-10-15 15:12:32 not necessarily, there are good looking builds that are good in pvp
+bot-central 2021-11-04 10:30:20 -servers
+bot-central 2021-11-25 12:53:24 -servers
+creations-chat 2021-11-29 14:42:21 <@!882419947819638825>  check the description of <#627195143040139264>, it says minimum of 150 score there
+help 2021-11-29 18:25:07 tnt if im not mistaken, but I dont know the config
+bot-central 2021-12-01 23:36:02 -servers
+creations-chat 2021-12-01 23:36:48 WIP build, The image here shows it
+creations-chat 2021-12-01 23:38:50 WIP = work in progress
+bot-central 2022-01-14 19:11:38 -servers
+bot-central 2022-01-14 19:26:08 -servers
+bot-central 2022-01-23 17:02:46 -servers
+bot-central 2022-01-24 01:02:19 -servers
+bot-central 2022-02-13 19:32:33 -servers
+creations-chat 2022-04-02 22:22:18 <@!764496712433139722> build with that symbol is a big no no
+bot-central 2022-05-13 13:58:51 -servers
+bot-central 2022-05-20 20:46:00 -servers

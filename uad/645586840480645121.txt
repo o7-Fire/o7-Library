@@ -1,0 +1,130 @@
+The Tale of gamaiamog (645586840480645121)
+creations-chat 2020-08-22 14:47:42 ok
+creations-chat 2020-08-22 14:48:15 deleted
+help 2020-08-24 17:57:12 is there a way to get rid of the black lines that are on conveyors?
+help 2020-08-24 17:57:27 it looks really bad like this
+help 2020-08-24 18:01:42 ok 😦
+help 2020-08-24 19:37:39 how big do u want **the cone**?
+help 2020-08-24 19:39:38 why arent 1x2 half wedges in the game??
+help 2020-08-24 19:42:08 oof
+help 2020-08-24 19:42:11 ye
+help 2020-08-24 19:42:25 the two half blocks fall because of this
+help 2020-08-24 19:42:44 I dont have a lot of space
+help 2020-08-24 19:49:08 thx
+help 2020-08-24 19:58:26 > anyone able to help me make a cone?
+<@!372465864559034369> I am a bit late, but maybe this?
+help 2020-08-24 19:58:32 
+help 2020-08-24 19:58:36 with motors (motor 2)
+help 2020-08-24 19:59:09 needs to be refined
+creations-chat 2020-08-29 12:39:35 mhmh
+general 2020-08-29 14:44:17 y'all ever built a working clutch?
+general 2020-08-29 14:45:15 I can only make a 3 speed
+general 2020-08-29 14:45:16 lol
+general 2020-08-29 14:47:28 je suis bad at making helikotprs
+help 2020-09-25 18:46:06 how do I make the suspension smaller/more compact?
+creations-chat 2020-10-08 17:30:22 anyone knowing how make bicikle with chejn?
+creations-chat 2020-10-08 17:30:49 chejn keep expand = no good
+general 2020-10-08 17:32:38 what resistution on rope doing?
+help 2020-10-08 17:45:30 how to mak workingh chaen?
+help 2020-10-08 17:45:43 chane keep fall of gear
+help 2020-10-08 19:06:14 I trie to doing, but no good. it glitch out outside bloks
+help 2020-10-08 19:06:31 I using rope by the ways
+help 2020-10-08 20:07:14 > What is servo
+<@456226577798135808> is haendy for wasd move
+help 2020-10-08 20:07:23 no servo = no good wasd
+help 2020-10-08 20:07:34 I use wasd so servo good
+creations-chat 2020-10-09 12:59:30 how do you maek bycikle chaen>?
+creations-chat 2020-10-09 12:59:46 curren chaen no good
+creations-chat 2020-10-09 13:00:39 lol
+creations-chat 2020-10-09 13:00:56 chaen I using stretch, cause rope is no good
+creations-chat 2020-10-09 13:01:18 it very glitchi
+creations-chat 2020-10-09 13:02:45 it no work
+creations-chat 2020-10-09 13:06:25 or motor ends
+creations-chat 2020-10-09 13:13:02 portal to greenland
+creations-chat 2020-10-09 13:13:31 i knowing that greenalnd is mostli snow
+creations-chat 2020-10-20 20:40:55 Players what building first, chassis or body first? When maek vihicle
+creations-chat 2020-10-20 20:44:38 I body first, later turnihng sircle no good is why I maybe chassis first good ideah
+creations-chat 2020-10-25 21:38:28 how do I make this gear not glitch out?
+creations-chat 2020-11-01 16:39:54 > Why are the downvotes goin at the daf xf 105 truck
+<@!456219506486804480> yea right
+creations-chat 2020-12-14 21:09:26 wot
+general 2020-12-14 22:29:05 1x2 halfwedge
+general 2020-12-14 22:40:20 https://www.autoscout24.de/angebote/volkswagen-lupo-1-benzin-blau-b66749af-187a-aa18-e053-0100007fc9dd?utm_source=android-share
+creations-chat 2020-12-14 22:47:05 It looks better than what I can make tho
+creations-chat 2020-12-14 23:15:27 my engine and daf also werent pretty liked haha
+help 2020-12-17 15:29:51 is there a way to copy a build from your main to your alt?
+creations-chat 2020-12-18 11:10:45 12.10 here
+creations-chat 2021-01-18 11:12:10 could be rated worse tho
+general 2021-02-11 20:54:40 is rolbox translate now for everyone?
+help 2021-02-11 20:56:31 anyone know how to make driveshaft in 0,5+1+0,5 blocks?
+help 2021-02-13 23:40:56 help
+help 2021-02-13 23:41:15 vehicle keeps going to right without me doing anything
+help 2021-02-13 23:43:14 
+help 2021-02-14 00:05:02 am pressing nothing
+help 2021-02-14 00:05:36 no fans or rockets
+help 2021-02-14 00:05:42 only motor and suspension
+help 2021-02-14 00:11:02 it change the suspension
+help 2021-02-14 00:11:45 it is moving less up and down now
+help 2021-02-14 01:31:42 It did
+help 2021-02-14 01:32:05 Then I replaced with springs again and it also work
+help 2021-02-14 01:32:33 Maybe it turn after while but not now
+creations-chat 2021-02-14 23:01:16 Land gear tir look big
+general 2021-02-14 23:08:39 https://www.autoscout24.de/angebote/opel-corsa-16v-city-benzin-blau-9163ec5b-184f-4302-be1c-4a02b4c95623?utm_source=android-share
+help 2021-02-15 19:50:04 https://streamable.com/jlc8h4
+help 2021-02-15 19:50:17 I use motor 2 for cabin tilt
+help 2021-02-15 19:50:49 if I go out when cabin is tilted (I set motor to servo and enabled) and then back in to the seat
+help 2021-02-15 19:50:52 it does this
+help 2021-02-15 20:15:49 I noticed, if you wait long enough outside of the truck
+help 2021-02-15 20:15:56 that it does the same thing
+bug-reports 2021-02-15 20:35:00 https://streamable.com/4el1ga
+bug-reports 2021-02-15 20:36:30 motor 2 is with servo and on 70*
+bug-reports 2021-02-16 08:07:13 it also does this with motor 1
+bug-reports 2021-02-16 20:32:48 you can also get spring onto engine and engine onto car or so and that car has anchor block
+bug-reports 2021-02-16 20:33:04 if I post video  woupd I be ban?
+help 2021-02-16 20:54:44 https://streamable.com/0vzks7
+help 2021-02-16 20:55:31 under 4 blocks is ice
+general 2021-02-19 18:13:37 
+general 2021-02-19 18:13:39 camber
+help 2021-02-19 22:56:45 https://streamable.com/xd6qbj
+help 2021-02-19 22:56:59 rear keep slide but rear is fabric
+help 2021-02-20 16:50:19 wheels feel very slippery
+help 2021-02-20 16:50:26 even though that they are made out of fabric
+help 2021-02-24 14:51:44 how sent multiple picture in once in <#384025409945337856>
+help 2021-02-24 14:52:45 ah, thank
+creations-chat 2021-02-24 17:12:17 https://streamable.com/8b3uwm
+inline ~~22~~ 20
+creations-chat 2021-02-24 22:19:33 your fire is ~~nice~~ lit
+help 2021-04-02 21:22:22 how can you suggest something for plane crazy?
+creations-chat 2021-04-15 13:57:37 because look good?
+if no like thing no make me in plane crazy
+truck like = me make
+engine like = me make
+creations-chat 2021-04-15 14:09:20 13 is high me 1,70
+creations-chat 2021-04-15 14:11:26 me 13+
+creations-chat 2021-05-21 13:01:38 https://streamable.com/028l7y
+I build enjin with 2x2 cylinders
+help 2021-05-24 15:01:06 https://streamable.com/vou0k1 how to make clutch grip onto flytire
+help 2021-05-24 15:01:31 pressur plate work fine
+help 2021-06-16 14:59:41 how to fix wheels go left right left right left right  motor2? https://streamable.com/7hntif
+help 2021-06-16 15:02:51 wheels go left right left right when no input give (eksept forward input)
+help 2021-07-11 17:41:37 https://streamable.com/mx2el4
+help 2021-07-11 17:41:42 help the problem?
+help 2021-07-11 17:42:29 I no press any buton
+help 2021-07-11 17:44:16 what I need finish?
+help 2021-07-11 17:44:28 :/
+help 2021-07-11 17:45:11 it is unfinish yes but I ask question for make finish
+help 2021-07-11 17:45:33 I ask question for get it finish
+help 2021-07-11 17:45:39 if no answer = no finish
+help 2021-07-11 17:45:50 get?
+help 2021-07-11 17:46:35 but I ask question about cabin go backwards without input
+help 2021-07-11 17:47:04 why cabin go backward?
+help 2021-07-11 17:48:22 it also hapen to my smaller truk witch is finish but with that truck cabin go forward
+help 2021-07-11 17:49:16 suspension of cabin?
+help 2021-07-11 17:49:23 or of chasis?
+help 2021-07-11 17:49:34 all?
+help 2021-07-11 17:50:03 I have for cabin and chasis
+help 2021-07-11 17:51:01 this no is gramar help but build help
+the-dump 2021-08-01 21:55:40 https://www.youtube.com/watch?v=1u2fCJwW8Ys
+the-dump 2021-11-05 16:59:47 
+creations-chat 2022-06-06 14:41:05 thank!
+creations-chat 2022-06-06 21:59:46 only when hover thrust low, and if engine spins so fast rod flies of crankshaf

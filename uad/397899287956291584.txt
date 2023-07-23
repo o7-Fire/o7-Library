@@ -1,0 +1,26 @@
+The Tale of zorexcarltoniii (397899287956291584)
+help 2022-02-07 20:40:46 How come when I try to use motor 2 to make my build move up and down with the mouse
+help 2022-02-07 20:41:02 it just snaps looking straight up and not follow my mouse?
+help 2022-02-07 20:42:42 nvm
+help 2022-02-07 20:44:39 nvm my nvm
+help 2022-02-07 20:44:42 still need help
+help 2022-02-07 20:51:32 
+help 2022-02-07 20:51:38 
+help 2022-02-07 20:54:44 but why isnt it following my mouse and only pointing up?
+help 2022-02-07 20:55:30 yes
+help 2022-02-07 20:55:52 no
+help 2022-02-07 20:56:10 look here
+help 2022-02-07 20:56:25 nope, Ive tried both ways
+help 2022-02-07 20:56:41 even tried with one motor, same results
+help 2022-02-07 20:57:57 ive  been trying!
+help 2022-02-07 20:59:27 yeah, im still going
+help 2022-02-07 21:06:12 
+help 2022-02-07 21:09:32 tried
+help 2022-02-07 21:09:35 tried
+help 2022-02-07 21:10:23 when its not attached to the head, it works
+help 2022-02-07 21:11:13 tried
+help 2022-02-07 21:13:34 here
+help 2022-02-07 21:19:44 nvm, dont worry about it
+help 2022-02-07 21:20:34 Im not sure yet
+help 2022-02-07 21:21:47 I removed the anchor and added a segment
+help 2022-02-07 21:22:30 I readded the anchor

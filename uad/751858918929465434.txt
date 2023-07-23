@@ -1,0 +1,24 @@
+The Tale of pbr0 (751858918929465434)
+plane-crazy 2023-03-21 18:41:10 quick question, are the motor 2s bugged?
+plane-crazy 2023-03-21 18:41:41 i was tryna make some missile launcher and the turret base is kind of spinning in an uncontrolable manner
+plane-crazy 2023-03-21 18:46:53 oh nvm the thing fixed itself after setting the mode to inverted
+plane-crazy 2023-03-21 18:46:56 ok ig
+plane-crazy 2023-03-21 18:54:16 i was weirded out because all my other turrets worked fine
+plane-crazy 2023-03-21 18:54:33 wont question logic to why some of these things happen
+plane-crazy 2023-03-21 18:56:51 anddd i added a piston and now controls have inverted
+plane-crazy 2023-03-21 18:56:53 hooray
+plane-crazy 2023-03-21 19:00:44 i accidently made one while making a helicopter blade for the first time
+plane-crazy 2023-03-21 19:01:16 it was my first time ok
+plane-crazy 2023-03-21 19:01:24 i was listening to music and crap
+plane-crazy 2023-03-21 19:01:35 i was adding rocket engines
+plane-crazy 2023-03-21 19:01:36 to make lift
+plane-crazy 2023-03-21 19:01:41 and the rocket engines were the thing
+plane-crazy 2023-03-21 19:01:51 that made it look like it
+plane-crazy 2023-03-21 19:02:18 it did
+plane-crazy 2023-03-21 19:02:23 especially when it span slightly
+plane-crazy 2023-03-21 20:13:24 what does blast pressure do
+plane-crazy 2023-03-21 20:13:44 and is it better for destroying things
+plane-crazy 2023-03-31 15:09:48 why is there such desync when i disconnect some "custom" made projectile
+plane-crazy 2023-03-31 15:10:38 i really wanted to make something like a working torpedo or a missile and each time i disconnect said thing it would just end up staying in the same spot frozen while other players could still see it
+plane-crazy 2023-03-31 15:10:57 only time i would see it move is if i would collide with it and then it would just update for like one frame of movement
+plane-crazy 2023-03-31 15:11:09 is there no way to fix that?

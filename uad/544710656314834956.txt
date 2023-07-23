@@ -1,0 +1,301 @@
+The Tale of hemlock___ (544710656314834956)
+plane-crazy 2019-12-25 15:37:44 Is there any documents or anything on motor 2?
+plane-crazy 2019-12-25 15:40:06 I’m using it for a turret, but the bottom motor doesn’t move at all
+plane-crazy 2019-12-25 15:40:28 I would use the half blocks for plates
+plane-crazy 2019-12-25 15:41:36 
+plane-crazy 2019-12-25 15:42:56 The settings are default, I didn’t want to break anything
+plane-crazy 2019-12-25 15:43:47 I’ve tried that
+plane-crazy 2019-12-25 15:43:56 I’ve also tried replacing them
+plane-crazy 2019-12-25 15:44:51 Mouse
+plane-crazy 2019-12-25 15:45:03 Because they’re AA guns
+plane-crazy 2019-12-25 15:45:08 It’s off
+plane-crazy 2019-12-25 15:45:21 Everything is default, torque is 100
+plane-crazy 2019-12-25 15:45:53 Nope
+plane-crazy 2019-12-25 15:47:07 Could the anchor block be a problem?
+plane-crazy 2019-12-25 15:47:40 Got it
+plane-crazy 2019-12-25 15:47:49 They move now
+plane-crazy 2019-12-25 15:47:51 Thanks
+plane-crazy 2019-12-25 15:51:02 The motors could have too much speed, maybe
+plane-crazy 2019-12-25 15:51:08 I had that problem
+plane-crazy 2019-12-25 15:54:22 I wish there was a whitelist system for builds
+plane-crazy 2019-12-25 15:58:17 Now the motor2 just throws me into the abyss
+plane-crazy 2019-12-25 15:58:59 Faster than that
+plane-crazy 2019-12-25 15:59:11 I’m going at 10000 speed
+plane-crazy 2019-12-25 15:59:22 teleporting across the map
+plane-crazy 2019-12-25 16:01:34 thank
+plane-crazy 2019-12-25 18:04:05 motor2 is still fucking me over
+plane-crazy 2019-12-25 18:08:29 if my motor2 is wobbling, do i need to add more weight to fix it?
+plane-crazy 2019-12-25 18:08:42 it’s default
+plane-crazy 2019-12-25 18:08:51 just for a small aa turret
+plane-crazy 2019-12-26 03:42:24 how do i submit a suggestion?
+plane-crazy 2019-12-31 04:35:12 I am planning on making a system to reload bombs into my friends plane in a hangar, what rank could that get me?
+plane-crazy 2019-12-31 04:38:11 Oh, okay.
+plane-crazy 2020-03-12 03:38:26 Why do the sounds sometimes change to random memey sounds?
+creations-chat 2020-03-14 19:39:49 B-17
+help 2020-03-15 00:12:37 My friend made this little drone fighter that he let me copy, and whenever I use it as a drone, it doesn't respond to commands except for fire and throttle. When I put the seat on, it flies perfectly fine.
+help 2020-03-15 00:12:46 My friend doesn't have this problem, either.
+creations-chat 2020-03-15 04:21:38 Mini A-10 Thunderbolt
+creations-chat 2020-03-15 04:23:57 What don't you like about it?
+creations-chat 2020-03-15 22:57:28 Destroyer
+creations-chat 2020-03-15 22:58:15 Why not?
+creations-chat 2020-03-15 22:59:19 It's not a PVP build.
+creations-chat 2020-03-15 22:59:36 Actually, no.
+creations-chat 2020-03-15 22:59:48 Built it a while ago, floats fine.
+plane-crazy 2020-03-15 23:00:29 <@!287779983445721088>
+plane-crazy 2020-03-15 23:08:55 <@!287779983445721088> It's two blocks.
+plane-crazy 2020-03-15 23:09:08 *There are two blocks underwater.*
+creations-chat 2020-03-16 17:14:05 Updated my old destroyer with wedges and a better drive system.
+creations-chat 2020-03-16 17:26:01 <@!302273754493485056> Yes, it can float.
+help 2020-03-16 17:32:44 Requesting Shipwright I <@!216193164199985152>
+help 2020-03-16 17:32:58 
+help 2020-03-17 02:25:03 Are there any other requirements for sub commander other than it's submersible?
+help 2020-03-17 02:25:25 And if so, do I just have to post a video showing them? Ping me.
+reports 2020-03-17 02:32:53 Username: TTuxen | Reason: Lag machine | Proof: https://cdn.discordapp.com/attachments/636709147794210826/689299978958667854/RobloxScreenShot20200316_202652552.png
+creations-chat 2020-03-17 02:51:32 Inspired by Virginia-class submarine.
+help 2020-03-17 02:55:14 Requesting Submarine Commander. <@!216193164199985152>
+help 2020-03-17 02:55:18 
+help 2020-03-17 04:50:15 e
+plane-crazy 2020-03-17 04:52:17 ~~another sexism tower probably~~
+plane-crazy 2020-03-17 04:53:49 <@!498337842347507713> I think it needs skirt armor.
+help 2020-03-24 04:20:30 <@!600950115900981267> I just posted a picture of it surfaced and a pic of it submerged.
+creations-chat 2020-03-25 02:54:58 *square*
+plane-crazy 2020-03-26 19:18:32 that causes me pain
+plane-crazy 2020-03-26 19:19:02 as in custom
+plane-crazy 2020-03-26 19:19:34 what the hell kind of ship has a bow like that
+plane-crazy 2020-03-26 19:20:12 what ship should i build for shipwright 2
+creations-chat 2020-03-26 23:43:47 Patrol boat
+help 2020-03-30 00:06:59 quackers
+help 2020-03-30 00:07:05 i had the same problem
+help 2020-03-30 00:07:16 my fix was rebuilding it
+help 2020-03-30 03:33:24 eck dee
+creations-chat 2020-03-30 04:47:56 that steering tho
+help 2020-04-20 18:17:23 much epic
+general 2020-04-30 20:04:19 e
+creations-chat 2020-05-03 23:07:46 h
+help 2020-05-08 03:43:41 <#705941616199991307>
+help 2020-05-10 20:13:36 Search for images posted by yourself with ctrl+f
+creations-chat 2020-05-12 04:55:31 <#497142796961054721>
+help 2020-05-12 15:44:56 Is the stiffness turned way up?
+help 2020-05-12 15:45:24 e
+creations-chat 2020-05-14 03:26:33 Not broken, you’re just supposed to post directly to <#384025409945337856>
+creations-chat 2020-05-26 00:54:43 <@!548973346805776396> It’s because you’re supposed to post creations directly there instead of using the bot
+help 2020-07-02 00:28:33 Do motors have infinite resistance?
+creations-chat 2020-07-09 23:54:41 i don’t even know how swashplates work
+creations-chat 2020-07-09 23:54:48 cool helis tho
+creations-chat 2020-07-09 23:55:55 they don’t if it’s an image
+creations-chat 2020-07-09 23:56:05 if you have the link to the gif it works
+creations-chat 2020-07-09 23:57:18 so that controls the lift?
+creations-chat 2020-07-09 23:57:30 nice
+creations-chat 2020-07-09 23:57:42 i’m tryna make a hind rn as well
+creations-chat 2020-07-09 23:57:54 but i can’t find a good help system that works
+creations-chat 2020-07-09 23:58:02 heli *
+creations-chat 2020-07-09 23:58:09 cool
+help 2020-07-09 23:58:58 are there any updated videos on swashplates?
+creations-chat 2020-07-11 03:31:24 ikea crab
+help 2020-07-19 20:03:17 Use motors to tilt the hover engines
+help 2020-07-19 20:04:00 You can do that for all movement as well, and add other engines for a boost
+help 2020-07-19 20:04:10 <@!457015367412482048>
+creations-chat 2020-07-20 18:31:45 Because it’s a download
+creations-chat 2020-07-20 18:32:02 Both annoying and can be modified for malware
+creations-chat 2020-07-28 06:05:28 just cause you don’t like it doesn’t mean every person has to stop
+creations-chat 2020-07-28 06:05:59 i could build a fucking nuke and it’d be fine
+creations-chat 2020-07-28 06:06:09 so what’s up with tanks
+creations-chat 2020-07-28 06:06:20 fishing boats
+creations-chat 2020-07-28 06:06:27 cruise ships
+creations-chat 2020-07-28 06:06:40 what’s your point
+creations-chat 2020-07-28 06:06:48 good
+creations-chat 2020-07-28 06:07:34 > Tanks murder people, boats murder feelingless psychopaths who support a child murdering system aka soldiers
+bruh
+creations-chat 2020-07-28 06:07:45 soldiers fight to defend their country
+creations-chat 2020-07-28 06:07:53 not kill people
+creations-chat 2020-07-28 06:08:12 you don’t seem to grasp the purpose of a military
+creations-chat 2020-07-28 06:08:21 lol
+creations-chat 2020-07-28 06:08:26 ignorant patriots
+creations-chat 2020-07-28 06:08:36 wider than putin
+creations-chat 2020-07-28 06:09:12 <@!502211422718263307> you’re saying you would rather have no military
+creations-chat 2020-07-28 06:09:22 then the children would die more
+creations-chat 2020-07-28 06:09:32 because the country is defenseless
+creations-chat 2020-07-28 06:09:59 <@!502211422718263307> you idiot
+creations-chat 2020-07-28 06:10:05 that’s not how it works
+creations-chat 2020-07-28 06:10:19 if you let everyone just take everything
+creations-chat 2020-07-28 06:10:23 you won’t exist
+creations-chat 2020-07-28 06:10:30 you’ll be shot
+creations-chat 2020-07-28 06:10:40 they’ll take your shot
+creations-chat 2020-07-28 06:10:47 and shoot you
+creations-chat 2020-07-28 06:11:15 countries like china and north korea don’t give a shit
+creations-chat 2020-07-28 06:11:22 they’ll shoot you anyway
+creations-chat 2020-07-28 06:11:27 and take your shit
+creations-chat 2020-07-28 06:11:40 and the country won’t exist
+creations-chat 2020-07-28 06:11:53 anarchy leads to worse violence
+creations-chat 2020-07-28 06:11:59 so does communism
+creations-chat 2020-07-28 06:12:21 communism is just an oligarchy
+creations-chat 2020-07-28 06:12:46 <@!502211422718263307> do you support blm?
+creations-chat 2020-07-28 06:13:13 because lofob
+creations-chat 2020-07-28 06:13:28 blm is a fascist organization
+creations-chat 2020-07-28 06:13:31 all lives matter
+creations-chat 2020-07-28 06:13:38 but blm is fascist
+creations-chat 2020-07-28 06:13:44 so is antifa
+creations-chat 2020-07-28 06:14:05 the only one that’s been ignorant so far is you <@!502211422718263307>
+creations-chat 2020-07-28 06:14:20 antifa is fascist
+creations-chat 2020-07-28 06:14:31 under the guise of doing the opposite
+creations-chat 2020-07-28 06:14:41 same with blm
+creations-chat 2020-07-28 06:14:48 they don’t care about anyone
+creations-chat 2020-07-28 06:14:55 but their own agenda
+creations-chat 2020-07-28 06:15:26 kinda sad
+creations-chat 2020-07-28 06:16:16 nice
+creations-chat 2020-07-28 06:16:29 we won mister stark
+help 2020-07-28 17:35:58 the admin command bar
+help 2020-07-28 17:36:08 <@641391931808546847>
+help 2020-07-28 17:36:17 admins do commands
+help 2020-07-29 05:34:24 Do motors break magnet welds at 1000 torque?
+help 2020-07-29 05:46:39 Whenever I weld two magnets the fucking fold breaks them
+help 2020-07-29 05:49:20 Hmm
+help 2020-07-29 05:49:23 Send a picture
+creations-chat 2020-07-29 05:51:58 give him chicken
+creations-chat 2020-07-29 05:52:07 or he will strafe you with a stalwart class
+creations-chat 2020-07-29 05:52:24 also <@!159985870458322944> fuck off
+help 2020-07-29 05:53:29 Ah
+help 2020-07-29 05:53:56 Put ballast at the bottom
+help 2020-07-29 05:53:59 In the middle
+help 2020-07-29 05:54:11 And if that doesn't work try putting some helium at the top so it balances out
+help 2020-07-29 05:54:30 No
+help 2020-07-29 05:54:33 Along the bottom
+help 2020-07-29 05:54:38 All the way down the middle
+help 2020-07-29 05:54:51 Not enough so it sinks, just enough to balance
+help 2020-07-29 05:55:09 You're also quite top heavy, so some helium might help
+help 2020-07-29 05:55:13 👍
+help 2020-07-29 17:02:51 fucking magnet weld
+help 2020-07-29 17:02:54 is so annoying
+help 2020-07-29 17:03:17 it doesn't fucking weld and then my halcyon class splits in half
+help 2020-07-29 17:04:09 PoA
+help 2020-07-29 17:04:13 well
+help 2020-07-29 17:04:16 that class
+help 2020-07-29 17:04:20 not the pillar itself
+help 2020-07-29 17:04:22 the halcyon class
+help 2020-07-29 17:04:37 my mechanical locks fail on the fold
+help 2020-07-29 17:42:39 is this good settings for a magnet that's supposed to weld?
+help 2020-07-29 17:42:45 it hasn't been welding and i don't know why
+help 2020-07-29 17:49:19 I'm trying to get it to weld to magnets though
+help 2020-07-29 17:49:21 I'll try it
+help 2020-07-29 17:51:30 ffs
+help 2020-07-29 17:53:21 magnets
+help 2020-07-29 17:53:23 are pain
+help 2020-07-29 18:03:35 true
+help 2020-07-29 18:03:42 but the goddamn things won't weld
+help 2020-07-29 18:03:46 they weld for my friend
+help 2020-07-29 18:03:55 but they just look at me and say "fuck you"
+creations-chat 2020-07-29 18:45:47 just build one
+help 2020-07-29 20:29:21 hide super rockets in the body for thrust and maneuvering
+help 2020-07-29 20:29:51 i wouldn’t go with helium if you still want it to be ground capable
+help 2020-07-29 20:30:07 <@187699611480227840>
+help 2020-07-29 21:12:50 motor2s tend to just decide to fuck around
+help 2020-07-29 21:13:35 you usually just have to respawn and hope they don’t get possessed by a banshee from hell
+help 2020-07-29 21:16:36 well
+help 2020-07-29 21:16:52 pretty decent actually by my standards
+help 2020-07-29 21:17:25 the only problem is the parts where you can see the sides of wedges
+help 2020-07-29 21:17:33 but that’s not your fault really
+help 2020-07-29 21:17:51 ~~rick add more wedges~~
+help 2020-07-29 21:18:12 yeah
+help 2020-07-29 23:44:40 What are some good ways of locking a fold other than magnets?
+help 2020-07-29 23:44:56 I tried using piston mechanical locks but they keep phasing through the hull. The magnets also decide to not weld or even work at all.
+creations-chat 2020-07-30 00:06:58 can someone help me in <#478584971670454284> please
+creations-chat 2020-07-30 00:07:02 i'm being an idiot
+help 2020-07-30 04:16:36 I would do a limited number of rockets for the 40, and then just spam the rest for the 105
+help 2020-07-30 04:17:18 Say, 2 rockets for the 40 and then 10 on the 105
+help 2020-07-30 04:17:31 <@!257624380291547146>
+help 2020-07-30 04:22:43 Do you know a good way of locking a fold other than magnets?
+help 2020-07-30 04:22:53 Mine keeps slipping and splitting in half
+help 2020-07-30 04:23:00 And my magnets don't work for some reason
+help 2020-07-30 04:25:11 also
+help 2020-07-30 04:25:22 just to make sure i'm not just being stupid
+help 2020-07-30 04:25:39 what settings make a magnet weld to another magnet?
+help 2020-07-30 04:25:49 for me they just don't do anything even after i turn them on
+help 2020-07-30 04:25:58 same here
+help 2020-07-30 04:26:10 i've only made a magnet drive and a railgun
+help 2020-07-30 04:28:25 Are you using control surfaces?
+help 2020-07-30 04:28:38 Use the screwdriver and edit the controls
+help 2020-07-30 04:28:47 Also control surfaces are bad
+help 2020-07-30 04:28:59 You can make your own with motor2 and wing panels
+help 2020-07-30 04:29:16 Just make sure you learn about how it works first
+help 2020-07-30 04:29:32 Because it is usually mouse guided, you have to turn on some settings to make it keybind
+help 2020-07-30 04:32:24 You need wings
+help 2020-07-30 04:32:47 Just gotta make sure that your motor2 control surfaces don't weld to the other wing panels
+help 2020-07-30 04:32:51 Because then they won't work
+help 2020-07-30 04:33:26 Just give a block's space between the surface and the rest of the wing
+help 2020-07-30 04:33:43 I don't build planes that much, so I don't have one ready made like that
+creations-chat 2020-07-30 05:54:53 nice camo
+creations-chat 2020-07-30 05:54:55 cool mech too
+creations-chat 2020-07-30 05:55:16 ye
+creations-chat 2020-08-02 03:38:17 good for them
+creations-chat 2020-08-02 20:02:50 bruh
+help 2020-08-03 23:51:49 it means they’re a scammer
+help 2020-08-03 23:52:11 <@!159985870458322944> fuck off
+help 2020-08-08 17:36:13 can magnets weld to each other if they’re on the same part of a creation?
+help 2020-08-09 16:27:36 motor2
+help 2020-09-24 16:35:44 can two magnets weld to each other if they’re part of the same piece of your creation?
+help 2020-09-25 00:52:47 I'm sure it's been built
+help 2020-09-25 00:52:56 Don't know by who, but it probably has
+general 2020-10-07 04:52:06 this is quite the interesting comversation
+help 2020-10-08 00:53:10 if you get designer 1 from a creation, and it later gets enough upvotes for designer 2, can you request that for the rank or do you have to get 20+ upvotes on a different build?
+help 2020-10-08 00:54:19 alright
+help 2020-12-03 04:28:52 i built destroyer's kolibri heli and used its rotor system for this heli, but it always pulls to the left
+help 2020-12-03 04:29:04 it is symmetrical other than the rotor tips
+help 2020-12-03 05:21:31 i had a tail rotor initially, but it made it even more unstable
+help 2020-12-03 05:27:24 wasn't, usually
+help 2020-12-03 05:27:29 was for yaw
+help 2020-12-03 05:28:30 i'll probably go with a coaxial
+help 2020-12-03 05:28:33 thanks though
+help 2021-01-15 05:11:51 how exactly does the magnet welding work?
+help 2021-01-15 05:12:03 i turn them on after i fold and they don't weld
+help 2021-01-15 05:13:13 they started to actually weld but now they push my ship around
+help 2021-01-15 05:16:50 aand they stopped welding
+help 2021-01-16 06:17:57 are you able to skip ranks?
+creations-chat 2021-01-16 06:27:51 25 heretics downvoted the minecraft plane
+creations-chat 2021-01-16 06:30:27 the guy can build whatever he wants, and not everything revolves around w e d g e
+creations-chat 2021-01-16 06:32:55 the reason it has so many upvotes is because he tried to build a creation without wedges that looked nice, and pulled it off
+help 2021-01-17 06:24:09 is it possible to use motor2 mouse control for ailerons?
+general 2021-01-27 05:26:20 checking rank
+general 2021-01-27 05:26:24 epic
+help 2021-01-28 03:00:04 how could i improve this nose?
+help 2021-01-28 03:00:08 it's for an a-10
+creations-chat 2021-01-28 03:09:33 how could i improve the nose? it's for an a-10
+creations-chat 2021-01-28 03:15:30 yes i realize that, but how would i improve it? the only other ways i know of making a  nose won't work with how i've made the rest of the build
+creations-chat 2021-01-28 03:18:50 what should i replace the pyramid with?
+help 2021-01-28 03:25:28 wdym by slope down?
+help 2021-01-28 03:28:28 helium or engines in the front
+help 2021-01-28 03:32:00 ah
+help 2021-01-28 03:32:08 i meant downward facing
+help 2021-01-28 03:32:18 but yeah you could improve the plane
+help 2021-01-28 04:27:39 sorry to bother but i really want to get this built
+help 2021-01-28 04:34:09 i made it a block too long i think but that's how it turned out
+help 2021-01-28 04:35:40 it's a 1x2
+help 2021-01-28 04:35:59 which i used so i could use 1x2 half wedge downs on the sides and bottom
+help 2021-01-28 04:37:18 
+help 2021-01-28 04:37:46 i went with 1x3
+help 2021-01-28 04:39:08 here's how 1x4 looks
+help 2021-01-28 04:39:39 yeah forgot about that
+help 2021-01-28 04:39:41 
+help 2021-01-28 04:40:11 yep
+help 2021-01-28 04:40:40 thanks for the help
+help 2021-01-28 04:40:50 by the cockpit sides do you mean that the half blocks are sticking up?
+help 2021-01-28 04:40:57 ah
+help 2021-01-28 04:41:02 those are motorlocked down
+help 2021-01-28 04:41:07 
+help 2021-01-28 04:41:21 i'll see what i can do
+help 2021-01-28 04:41:52 alr
+bot-central 2021-02-23 06:08:49 !servers
+help 2021-02-25 18:35:44 does anyone know a good 4 blade rotor system for a helicopter?
+help 2021-02-25 18:35:50 i'm trying to build an ah-1z
+help 2021-02-25 18:41:20 a 2 blade for an ah-1f would be appreciated as well if anyone has one
+bot-central 2021-02-27 04:10:23 $suggest [block-to-weapon ratio]
+[building, pvp]
+A system that detects the block count of the creation, and increases your weapon limit accordingly. Currently PVP ~~once you get past the shredders~~ is dominated by small, nimble craft. Large vehicles are not competitive at all in PVP, due to in part the small amount of available weapons. However, simply increasing the limit will only make spammers worse, so I propose something to take the size of the creation and increase weapon limits according to the size. This will allow large creations to be used competitively in PVP, and give more options to players in PVP, as right now, small, nimble jets are the kings of PVP, and small ground vehicles are in second place. With this you could choose to continue building small creations, or you could build a massive battleship with unmatched firepower.
+bot-central 2021-02-27 05:32:58 $suggest [block-to-weapon ratio]
+[building, pvp]
+A system that detects the block count of the creation, and increases your weapon limit accordingly. Currently PVP once you get past the shredders is dominated by small, nimble craft. Large vehicles are not competitive at all in PVP, due to in part the small amount of available weapons. However, simply increasing the limit will only make spammers worse, so I propose something to take the size of the creation and increase weapon limits according to the size. This will allow large creations to be used competitively in PVP, and give more options to players in PVP, as right now, small, nimble jets are the kings of PVP, and small ground vehicles are in second place. With this you could choose to continue building small creations, or you could build a massive battleship with unmatched firepower.
+bot-central 2021-02-27 05:42:10 oh yeah
+bot-central 2021-02-27 05:42:19 i'm hyperintelligent
+help 2021-03-08 03:05:05 motor2s tend to have a stroke when used in motorlock
+help 2021-03-08 03:05:18 try using normal motors to get the angle of the blades
+plane-crazy 2021-07-25 06:41:06 it's well built but i hate it
+help 2022-03-14 05:30:14 do these wings seem like a good width for an F/A-18E?

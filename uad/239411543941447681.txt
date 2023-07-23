@@ -1,0 +1,218 @@
+The Tale of deadvoxels (239411543941447681)
+general 2021-11-21 13:43:37 Well I don't know what so say either uh-
+general 2021-11-21 13:43:43 Tonk yes
+general 2021-11-21 13:43:44 There lol
+general 2021-11-21 13:44:43 Eh, whatever
+general 2021-11-21 13:45:34 You're not gonna piss me off if you don't, so I don't care too much. It's just a good thing to put there I guess, so if people do care they can use it
+general 2021-11-21 13:45:59 No pen moment
+bot-central 2021-11-21 13:51:18 !rank
+general 2021-11-21 14:04:23 The arson has spread to his pc
+general 2021-11-21 14:08:49 Yes millimeter
+general 2021-11-21 14:09:33 Reload so long the thing's probably better off as a single use
+general 2021-11-21 14:10:57 Imagine being hit by that
+general 2021-11-21 14:11:09 Everything but your limbs is just gone
+general 2021-11-21 14:11:23 Yeah
+general 2021-11-21 14:11:31 True
+general 2021-11-21 14:15:50 the
+general 2021-11-21 14:26:49 the
+general 2021-11-21 14:26:51 m
+creations-chat 2022-12-14 10:13:21 Testing with a scale made using a free-floating motor and a long symmetrical beam, the block with the disconnector plates seems to be heavier than the plateless block. I believe this may have something to do with how magnets themselves affect different blocks instead, since it's not always entirely consistent.
+creations-chat 2022-12-14 10:38:21 Magnets do be funky
+Among other things, they can be used for ECMs that can deflect tracking rockets fairly reliably, at least when moving at decent speed
+help 2022-12-14 10:43:00 Yeah, in the tab with the gears, you'll find it by scrolling down a little
+help 2022-12-14 10:45:19 Here.
+creations-chat 2022-12-14 10:47:18 Well there's a certain type of magnet drive that will amplify magnet range and I believe strength too(unsure about that one), and for some reason once that has been activated once it can affect rockets even when the magnet isn't enabled in any direction
+
+Hard to explain exactly, and on top of that I don't really want to end up leaking tech that could maybe cause chaos in the wrong hands
+
+And no, it doesn't involve disconnectors
+help 2022-12-14 10:48:52 No problem man, happy building 👋
+creations-chat 2022-12-14 10:54:38 Oh yikes, the physics lag lol
+Uhh dunno what part of that involves said tech? What am I looking for in here-
+Also I would post footage of the ECM tech in action, however I, a pesky whitename, do not have embed access outside of just a few channels. I can post the media link here in a bit maybe, but it won't be embedded
+O wait what must've missed it since it looked uneventful so I was skipping through it. Where exactly in the video is that?
+creations-chat 2022-12-14 10:58:49 Woah that's interesting
+Oh yeah, here, if you want to see the ecm thing in action https://streamable.com/yl2kdi
+Ofc it only works against tracking rockets, but it's pretty neat and useful nonetheless
+creations-chat 2022-12-14 11:01:53 Nice nice
+Well, good luck lol
+plane-crazy 2022-12-14 12:15:59 It's different for everyone depending on keyboard layout. It's the button used to open the Nexus admin command line. If you don't know which one that is you can find it in the help tab in the pause menu
+help 2022-12-14 12:40:10 Try increasing the dampening slider
+if that doesn't work, you can try to put hover thrusters with drag in the thing. If you do that just make sure to lower their throttle to zero during setup
+general 2022-12-14 12:45:37 The PCC rat duplication incident of 2022
+general 2022-12-14 12:47:10 mayhaps
+perbe
+general 2022-12-14 12:47:22 Yeah how would you know :>
+general 2022-12-14 12:47:50 when it starts
+general 2022-12-14 12:49:05 When did it start last year, like, the 19th or something?
+general 2022-12-14 12:49:16 h indeed
+general 2022-12-14 12:50:45 No, there were winter events back then too, however at least the 2021 one was initiated fairly late
+general 2022-12-14 12:50:59 On the 19th of december iirc
+general 2022-12-14 12:51:13 wh nmme
+general 2022-12-14 12:51:28 Probably
+plane-crazy 2022-12-14 12:51:52 Studs per second
+plane-crazy 2022-12-14 12:52:29 Normal blocks are 2x2x2 studs
+plane-crazy 2022-12-14 12:53:17 Yeah that doesn't add up lol
+I tend to count 1 stud as equal to 1ft since proportionally that's most appropriate for the avatars
+plane-crazy 2022-12-14 12:53:39 However I remember that Roblox's official conversion was something absolutely stupid, lemme go find it
+plane-crazy 2022-12-14 12:57:39 Searching for it online gives conflicting results, but I'm mostly seeing people either say 1ft like what I tend to count it as, or the seemingly official measurement of 20 studs being one meter
+plane-crazy 2022-12-14 12:58:03 Use agile pvp jet
+plane-crazy 2022-12-14 12:58:52 Underwater is where you want them to move into since they can't move for crap underwater, at least most of the time
+plane-crazy 2022-12-14 12:59:56 Ah, a shredder ball
+plane-crazy 2022-12-14 13:01:20 I mean anything decent that can fly faster than 700-800 sps should be able to get it off of your tail if it chases you, then just attack the shredder when you get an opportunity and it's not targetting you
+plane-crazy 2022-12-14 13:01:26 1 block is two studs
+plane-crazy 2022-12-14 13:02:15 What speed did it reach on the speedometer?
+plane-crazy 2022-12-14 13:02:25 💀
+plane-crazy 2022-12-14 13:02:35 What kinda math did he use to arrive at that
+plane-crazy 2022-12-14 13:02:44 studs per second
+plane-crazy 2022-12-14 13:03:02 one block is two studs
+plane-crazy 2022-12-14 13:03:55 Roblox length to irl length is uh, veery inconsistent to say the least.
+plane-crazy 2022-12-14 13:04:16 Proportional to the avatars, 1 stud being 1ft makes the most sense
+plane-crazy 2022-12-14 13:04:57 Then my 3.6k sps fighter reaches mach 20, totally makes sense
+plane-crazy 2022-12-14 13:05:43 2ft legs, 2ft torso, 1ft head
+5ft is decently close, especially considering how different robloxian proportions are from irl human proportions
+plane-crazy 2022-12-14 13:06:12 And with a lot of rthro  avatars and such, this lines up a little closer with 5-6ft
+plane-crazy 2022-12-14 13:08:08 ***Baaasically, the take-away from all of this is that converting measurements in Roblox to measurements irl is a stupid idea***
+plane-crazy 2022-12-14 13:08:34 nah bro a block is 493872q08623096 studs
+plane-crazy 2022-12-14 13:08:42 👍
+plane-crazy 2022-12-14 13:10:31 Exactly, proportionally it makes the most sense
+bot-central 2022-12-14 13:11:16 !rank
+plane-crazy 2022-12-14 13:12:10 per second
+plane-crazy 2022-12-14 13:13:41 We don't, there's no way to truly prove roblox to irl length
+plane-crazy 2022-12-14 13:13:56 However, it fits best proportionally with roblox avatars
+plane-crazy 2022-12-14 13:14:13 Since the length of their feet is literally 1 stud
+plane-crazy 2022-12-14 13:14:48 And since 1ft is supposed to be, well, a foot's length, 1 stud would proportionally fit as being 1ft
+plane-crazy 2022-12-14 13:15:31 Looks good 👍
+plane-crazy 2022-12-14 13:16:59 Cam locking can sometimes be better for cleanliness, but both do the job well enough
+plane-crazy 2022-12-14 13:19:07 I saw one right in my face now its 100000cm <:sungl:843191751661715486>
+creations-chat 2022-12-14 13:23:23 The duck cutter did it
+plane-crazy 2022-12-14 13:23:48 Wait, is piston extension measured in an irl measurement?
+plane-crazy 2022-12-14 13:24:08 Ah fair
+plane-crazy 2022-12-14 13:24:34 F
+creations-chat 2022-12-14 13:25:51 Huh lol
+plane-crazy 2022-12-14 13:26:00 Very cute yes
+plane-crazy 2022-12-14 13:26:53 the argument disappeared like my dad
+creations-chat 2022-12-14 13:28:05 Duck mech with a sword <:trol:903469871042531398>
+general 2022-12-14 13:36:36 Make an X-15 and call it a rocket <:trol:903469871042531398>
+general 2022-12-14 13:37:46 Actually, make a supersized AIM-9 or something, bam that's technically a rocket I think
+general 2022-12-14 13:38:00 In this context it may be, at least
+plane-crazy 2022-12-16 00:13:05 Ah yes, the light mode bomb, also known as warcrime 2 electric boogaloo
+plane-crazy 2022-12-21 13:54:37 At what scale?
+plane-crazy 2022-12-21 14:00:40 I don't have much outside of 1x1 nose stuff, but uh here's a smooth F-35C cockpit that I'll have to try and shorten slightly later
+plane-crazy 2022-12-21 14:03:22 Yeah. Sometimes it's tricky to get working the way you may want it, but the results can be very good
+creations-chat 2022-12-21 14:07:08 Very precise angle locking, is my guess
+plane-crazy 2022-12-21 14:08:51 Ey thanks
+plane-crazy 2022-12-21 14:09:48 Yeah I've shelved it briefly since some other interesting stuff popped up for me to mess with, on top of me slowly getting tired of working on it due to how it can get frustrating trying to get the cam locks to work just right
+plane-crazy 2022-12-21 14:19:24 I mean, everyone has to start somewhere, correct? I recommend you try to find a chill PC community where you can put your stuff up and make sure you'll be getting constructive criticism
+plane-crazy 2022-12-21 14:19:50 Knowing what to improve, and getting ideas on how to do that from others, is key to improving I'd say
+plane-crazy 2022-12-21 14:20:19 i will make a pvp capable air fryer just to spite you now
+plane-crazy 2022-12-21 14:20:26 <:trol:903469871042531398>
+plane-crazy 2022-12-21 14:20:40 <:stuff:908917207986208828>
+plane-crazy 2022-12-21 14:24:13 Jokes on you I have one too <:happytroll:851773200396451861>
+plane-crazy 2022-12-21 14:39:33 Ooh damn, that's a cool building. Looks like a hangar?
+plane-crazy 2022-12-21 14:40:21 Actually yeah holy crap
+plane-crazy 2022-12-21 14:40:26 How did I not think of that 🤯
+plane-crazy 2022-12-21 14:40:32 https://media.discordapp.net/attachments/384025409945337856/1055090229377253412/OSHAViolations.gif
+plane-crazy 2022-12-21 14:40:44 embedure failure
+plane-crazy 2022-12-21 14:40:47 <:pensivent:843182887188430859>
+plane-crazy 2022-12-21 14:42:38 *In the US, other countries have different organizations that do the same thing
+plane-crazy 2022-12-21 14:42:56 Yeah
+plane-crazy 2022-12-21 14:43:12 Because the US is the entire world apparently <:Thumsup:907037055656288266>
+plane-crazy 2022-12-21 16:55:59 Can't blame someone for starting with tutorials, so long as they're modifying them, or trying to learn from the tutorial
+plane-crazy 2022-12-21 16:56:14 They can be a good jumping off point, but hardly something you wanna use forever
+plane-crazy 2022-12-21 16:56:58 Doesn't mean that works for everyone but aight
+plane-crazy 2023-03-20 09:02:20 MFW ANO and WASDtech leaked, can't wait for toxic 12yo's to start using these things and spamming ez after every kill <:Thumsup:907037055656288266>
+plane-crazy 2023-03-20 09:02:58 At least, it *is* changing
+plane-crazy 2023-03-20 09:04:20 Can't wait to try and find counters or to just out-play toxic noob ANO's with either a good ol' jet or with a hover gyro/axis lock mix gunship
+plane-crazy 2023-03-20 09:05:49 ~~Just bop their gyro, most of my builds have good low speed control so I'll just lure them down to like 250 sps max, then take shots <:trol:903469871042531398>~~
+plane-crazy 2023-03-20 09:06:37 Ez indeed, you've probably seen my gunship racing drone thing in WL so uhh yeah
+plane-crazy 2023-03-20 09:07:04 And since it's stable *with turrets*, I can pretty easily just point and shoot <:Troll:1057983853777670145>
+plane-crazy 2023-03-20 09:07:47 Alr, though the tech is already leaked so whatever
+plane-crazy 2023-03-20 09:08:11 And from a pure performance standpoint it's nowhere near ANO level, even if it can stand a chance when used right
+plane-crazy 2023-03-20 09:08:16 Hmm fair and valid
+general 2023-03-20 09:11:57 It's still gonna cause ghost hits since those client side bullets will still be a thing
+plane-crazy 2023-03-20 12:58:54 It *can* be configured to carry certain GBU's iirc, however yes, the F-22 is pretty much purely built for air superiority.
+plane-crazy 2023-03-20 13:01:17 The F-35 variants are all fully multirole, and put more emphasis on avionics and such rather than how the F-22 mostly focuses on raw performance, albeit with a fair bit of good avionics thrown in as well
+plane-crazy 2023-03-20 13:13:20 Yeah true
+plane-crazy 2023-03-20 13:14:20 Oh yeah true
+Bet it still runs mostly on stuff closer to when it was first produced, though I wouldn't be surprised if at least some of the stuff from the F-35 program was brought over to improve the F-22
+plane-crazy 2023-03-20 13:18:06 guh
+plane-crazy 2023-03-20 13:18:54 Oh wait did they ban the use of the virg word? <a:Sku:1051967468131852318>
+plane-crazy 2023-03-20 13:20:39 virg military aircraft specs hypothesizers vs cultured classified documents sharer
+~~To any CIA agent who sees this, this is very much just a joke and not representative of my actual opinions and positions on the matter at hand~~
+plane-crazy 2023-03-20 13:20:45 There ya go <:Thumsup:907037055656288266>
+plane-crazy 2023-03-20 13:21:50 It is a joke which is not intended to accurately represent how either side of the issue should be regarded
+plane-crazy 2023-03-20 13:21:53 <:stuff:908917207986208828>
+plane-crazy 2023-03-20 13:22:20 Same
+plane-crazy 2023-03-20 13:22:23 Only sometimes tho
+plane-crazy 2023-03-20 13:23:36 I mean toxic edgelords™️ sure do cope when I bully them in pvp with a goofy weaponized racing drone so you're not wrong <:trol:903469871042531398>
+general 2023-03-24 07:24:55 a- wth is happening whar
+general 2023-03-24 07:26:11 Uh, aalr what does pinging me have to do with that-
+plane-crazy 2023-03-27 11:06:11 guh
+what did you find
+plane-crazy 2023-03-27 11:07:08 I mean good luck hitting something like this tho
+plane-crazy 2023-03-27 11:08:22 Bruh that thing is uh, not exactly nimble to say the least
+plane-crazy 2023-03-27 11:08:37 Yeah, that's no breakthrough
+plane-crazy 2023-03-27 11:09:00 Tbh yeah
+plane-crazy 2023-03-27 11:09:31 Ehhh look into stuff like jets or spaceships for aerial pvp instead I'd say
+plane-crazy 2023-03-27 11:09:39 Maybe gunships or helis if that's your thing
+plane-crazy 2023-03-27 11:09:59 Eh fair
+plane-crazy 2023-03-27 11:10:29 btw rate yesyes
+plane-crazy 2023-03-27 11:11:03 Uhh if the hovers are in the back then increase drag, though I wouldn't go above 10 per hover thruster tbh
+plane-crazy 2023-03-27 11:11:18 If it's in the front then it'll just ruin stability
+plane-crazy 2023-03-27 11:12:03 Though pitch-wise that thing is already overly stable, and you can probably move the center of lift/drag further forward by a tiny bit on that front
+plane-crazy 2023-03-27 11:13:44 To get stability I'd honestly instead use fabric wing panels. Two 1x1's in the front, one vertical one horizontal, is usually enough to improve stability a fair bit for 1x1 nose pvp jets. Effect varies based on design of the aircraft, ofc
+plane-crazy 2023-03-27 11:15:55 Nicenice
+plane-crazy 2023-03-27 11:17:03 guh, oh right I need to keep working on this thing too
+plane-crazy 2023-03-27 11:17:34 Having trouble making a good looking F-35C nozzle at this scale <:pensivent:843182887188430859>
+plane-crazy 2023-03-27 11:25:54 I see
+I would join but I'm in school lo
+plane-crazy 2023-03-27 11:56:04 Ey thanks, yeah it took quite a while to get it right lol
+plane-crazy 2023-03-27 12:28:27 Plen indeed
+creations-chat 2023-03-28 06:31:12 Hull looks fairly pro imo, turret feels a bit bulky but that might just be me
+creations-chat 2023-03-28 06:37:33 Eh understandable. Maybe later ig
+creations-chat 2023-03-28 06:46:27 Yeah that too, detailing is lacking for sure.
+help 2023-03-29 06:33:27 Just chat enough to get to level 3
+help 2023-03-29 06:34:54 Like a week at most if you're active, if you're decently active it won't take long at all really.
+plane-crazy 2023-03-29 12:46:10 Blocks are 2.5 studs in each direction in-game, and proportionally speaking 1 stud should be 1ft, making it 5.6 blocks
+Official roblox measurements are pretty scuffed tho, lemme go find them
+plane-crazy 2023-03-29 12:47:29 According to roblox, 1 stud is 5cm, which is just shy of 0.5ft. By this measurement, 14ft would be ~34 blocks
+plane-crazy 2023-03-29 12:48:05 Uh
+plane-crazy 2023-03-29 12:48:06 Yes
+plane-crazy 2023-03-29 12:48:08 <:Thumsup:907037055656288266>
+plane-crazy 2023-03-29 12:49:01 I did the math and it'd be 5.6, but yeah close enough
+plane-crazy 2023-03-29 12:49:08 Yeah scale is important too
+plane-crazy 2023-03-29 12:49:44 And yes I was proposing that scale, since Roblox's official scale conversion is absolutely stupid
+plane-crazy 2023-03-29 12:50:15 20 studs for 1m? Like bruuu <a:Sku:1051967468131852318>
+plane-crazy 2023-03-29 12:51:18 Well, 5 studs is 2 blocks
+plane-crazy 2023-03-29 12:51:33 But yes if you're not as high as Roblox was when making their measurements
+plane-crazy 2023-03-29 12:51:38 then 2 blocks is 5ft
+plane-crazy 2023-03-29 12:55:15 1.6, but 1.5 is close enough I'd say
+plane-crazy 2023-03-29 12:58:02 Trapdoors are slightly shorter actually, that might be closer to 0.1 studs? Idunno
+plane-crazy 2023-03-29 12:58:17 no wait .1 blocks
+plane-crazy 2023-03-29 12:59:41 Indeed. It's 5 cm.
+plane-crazy 2023-03-29 13:00:10 Bru
+plane-crazy 2023-03-29 13:00:32 0.125 meters, or 12.5 cm
+plane-crazy 2023-03-29 13:00:43 According to Roblox's stupid official measurements
+plane-crazy 2023-03-29 13:01:50 OR, just use the more logical, proportional 1 stud = 1ft, then the default robloxian is also 5ft, which gets them close enough to normal levels anyway, while also having 1 stud, actually be the length of a robloxian foot :>>>
+plane-crazy 2023-03-29 13:02:04 Wowww, works so much better and is so much simpler that way huh?
+plane-crazy 2023-03-29 13:02:23 I mean neither is your 2.5 studs = 0.7m
+plane-crazy 2023-03-29 13:02:53 Ah yes, because he decides the official length for a stud
+plane-crazy 2023-03-29 13:02:56 <:Thumsup:907037055656288266>
+plane-crazy 2023-03-29 13:03:31 The official length is 5cm.
+plane-crazy 2023-03-29 13:07:06 https://devforum.roblox.com/t/how-many-studs-is-there-in-a-meter/103417/30
+https://roblox.fandom.com/wiki/Studs
+plane-crazy 2023-03-29 13:08:29 Sources here, seems to be 0.28m per stud then? Huh. Alright guess you're right, I'll still be using 1stud = 1ft because it works more intuitively
+plane-crazy 2023-03-29 13:08:48 I was just about to say so, however to add on, *to just agree to disagree.*
+plane-crazy 2023-03-29 13:16:01 https://web.archive.org/web/20120610233114/https://blog.roblox.com/2012/06/testing-the-accuracy-of-roblox-physics-with-potato-cannons/ Actually waiiit, the measurement of 20 studs per 1m seems to hold ground at least from way back in the day. Not arguing for it nowadays, but I found this looking around and thought it was worth sharing out of fascination. They got the number from how they had to multiply to get proportionally correct acceleration when it came to default gravity.
+plane-crazy 2023-03-29 13:17:29 Yep. Oh well, interesting to see how they got it back then ig, and the fact that apparently the physics matched extremely closely too
+creations-chat 2023-03-29 13:18:10 https://media.discordapp.net/attachments/636620098878177286/988571057508192306/vtol_mirage.gif
+creations-chat 2023-03-29 13:20:37 Idunno uhh, Belkan witchcraft or something <:Cocky:1011499531650748487>
+general 2023-04-04 08:27:06 My name in this server is coloured white, therefore I must complain about motor 2's being broken again !!! 😤😤
+general 2023-04-04 08:35:50 Ehhh wouldn't say I'd go out of my way for it. Whichever way it's not like anyone else I've talked to on here has cared about it, not like there's a good reason for people to care about what pfp I'm using anyway <:Cocky:1011499531650748487>
+general 2023-04-04 08:44:36 <:Thumsup:907037055656288266>
+general 2023-04-14 07:43:55 A better question would be why you're spreading lies about me. All those screenshots you've sent of chat messages I've allegedly sent are faked using inspect element. If you wanna prove they're not, then by all means show me where to find them.
+general 2023-04-14 07:44:51 That's gonna be a big fat 0, don't believe everything you hear said about people, just sayin.
+general 2023-04-14 07:46:14 Hmmyes 3 years ago when I was still a minor. Whichever way why even bring that up
+general 2023-04-14 07:46:42 Crazy
+general 2023-04-14 07:53:36 "I love spreading misinformation on the internet" <:clueless:942802644043464734>

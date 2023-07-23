@@ -1,0 +1,350 @@
+The Tale of apelmoes (657852826352877588)
+general 2020-04-12 12:59:07 hello people
+plane-crazy 2020-05-29 20:20:11 Wait i just saw an old picture and i saw a **vulcano** in plane crazy
+plane-crazy 2020-05-29 20:20:20 There was a vulcano!?
+plane-crazy 2020-05-29 20:23:50 **make a dev add it back for vip servers**
+plane-crazy 2020-05-29 20:24:14 Why not
+plane-crazy 2020-05-29 20:24:26 Was it like really **really** bad
+plane-crazy 2020-05-29 20:31:08 Can't a dev at least add a vulcano or something or a cool new thing to the map
+plane-crazy 2020-05-29 20:31:26 A mountain, arctic stuff etc
+plane-crazy 2020-05-29 20:32:51 > A mountain, arctic stuff etc
+***Hol up***
+plane-crazy 2020-05-29 20:33:06 An arctic area, not a bad idea right
+plane-crazy 2020-05-29 20:46:02 How do i make a plane that looks nice, has all blocks attached to the plane (so no counterweight that isn't attached to the plane), has a decent speed, is stable and is able to adjust pitch, roll and yaw with only wings?
+plane-crazy 2020-05-29 20:47:23 > How do i make a plane that looks nice, has all blocks attached to the plane (so no counterweight that isn't attached to the plane), has a decent speed, is stable and is able to adjust pitch, roll and yaw with only wings?
+I have only achieved everything but the "no detached parts". It's really hard to do this as i just cannot manage to not ruin the design AND align the CoL and CoG
+plane-crazy 2020-05-29 20:47:55 (CoL is center of lift and cog is center of gravity for those who don't understand
+plane-crazy 2020-05-29 20:49:17 Well i have a plane that is extremely fast and is somewhat stable (Only while accellerating tho!) But i can only align the CoL and CoG by adding a counterweight in the back of my plot
+plane-crazy 2020-05-29 20:49:47 Long story short; I suck at building, please help me
+plane-crazy 2020-05-30 07:43:08 > fps lag?
+<@283153622496182274> i get fps lag AND physics lag
+plane-crazy 2020-06-03 12:41:59 What's the cutter block for?
+plane-crazy 2020-06-03 12:42:46 **So i can make a creation shredder?**
+plane-crazy 2020-06-03 12:43:08 Time to build a creation shredder which then incinerates the blocks
+plane-crazy 2020-06-03 15:01:14 Has anyone ever wondered if it is possible for a GPS system (Map or plane-based autopilot) to be added
+plane-crazy 2020-06-03 15:01:40 I wanted to suggest this but i can't get a rank
+help 2020-06-05 12:46:24 can anyone help me with my Sukhoi SU-57? It's stable, but that's only because i added weight at the back of my plot, and if it's not accellerating, it just gives up and goes crazy
+help 2020-06-05 12:49:22 k
+help 2020-06-05 12:50:11 
+help 2020-06-05 12:50:16 check the right
+help 2020-06-05 12:50:35 yeah a very poorly made one
+help 2020-06-05 12:50:58 it has a magnet drive in it
+help 2020-06-05 12:51:22 so how would i fix it
+help 2020-06-05 12:52:12 i meant conveyor**
+help 2020-06-05 12:52:18 it has conveyor not magnet
+help 2020-06-05 12:54:46 yes
+help 2020-06-05 12:55:26 google it
+help 2020-06-05 12:56:28 okay so it just like rotates down if i stop the engine
+help 2020-06-05 12:56:35 like, the cockpit facing down
+help 2020-06-05 12:57:03 does this have to do with lift or anything?
+help 2020-06-05 13:14:17 someone?
+help 2020-06-05 13:18:01 yes.
+help 2020-06-05 13:19:02 
+help 2020-06-05 13:19:09 if i just turn it off for one second
+help 2020-06-05 13:20:29 but can anyone help me fix the flinging problem and how i can align the center of grav with lift?
+help 2020-06-05 13:35:05 i think i fixed it
+help 2020-06-05 13:51:46 It's somewhat stable but not suitable as fighter jet, bomber or anything else.
+help 2020-06-05 13:51:58 just a plane that's too fast but stable.
+creations-chat 2020-06-05 14:02:19 > https://gyazo.com/81d7ee0a6669a3abc70c64dc2bd6cc2a
+<@!606211598331412500> is it stable?
+creations-chat 2020-06-05 14:02:41 What engine type
+creations-chat 2020-06-05 14:03:25 Would you mind if i use your design?
+creations-chat 2020-06-05 14:03:50 If you say no, i won't, it's up to you
+creations-chat 2020-06-05 14:04:05 Alright, thanks
+creations-chat 2020-06-05 14:04:24 Ah, that would be great
+creations-chat 2020-06-05 14:05:23 Alright
+creations-chat 2020-06-05 14:11:20 w h a t
+creations-chat 2020-06-05 14:32:19 <@!606211598331412500> i think the server crashed
+creations-chat 2020-06-05 14:32:40 yeah
+creations-chat 2020-06-05 14:33:48 yep got it
+creations-chat 2020-06-05 15:26:49 No.. NO NO NO
+creations-chat 2020-06-05 15:27:01 HE'S BOMBING US WITH RICKROLLS
+creations-chat 2020-06-05 15:27:25 TURN ON THE AIR RAID SIRENS, ACTIVATE THE EAS
+help 2020-06-05 16:04:55 Can anyone help me with my (now improved) SU-57? I changed it, it's aligned, it doesnt have external blocks but it still doesn't fly stable.
+help 2020-06-05 16:05:51 When i try to take-off, it immediately flips and well
+help 2020-06-05 16:06:40 it just flies downwards
+help 2020-06-05 16:06:56 Yes.
+help 2020-06-05 16:07:08 
+help 2020-06-05 16:07:25 COG and COL are aligned
+help 2020-06-05 16:07:48 and yes i know the plane's design sucks
+help 2020-06-05 16:08:14 A conveyor engine.
+help 2020-06-05 16:10:08 i see those
+help 2020-06-05 16:10:38 does it need a delta control panel
+help 2020-06-05 16:11:03 oh
+help 2020-06-05 16:12:22 so like this
+help 2020-06-05 16:12:25 this*
+help 2020-06-05 16:12:30 
+help 2020-06-05 16:13:14 so uh like this?
+help 2020-06-05 16:13:53 so it's good?
+help 2020-06-05 16:14:09 good like that?
+help 2020-06-05 16:14:58 aand it still tends to flip over
+help 2020-06-05 16:15:08 the nose goes up and flips it
+help 2020-06-05 16:16:12 hm
+help 2020-06-05 16:22:48 back
+help 2020-06-05 16:29:33 it's stable but it can't turn normally anumore
+help 2020-06-05 16:29:37 anymore*
+help 2020-06-05 16:30:13 it turns for 0.5 seconds and then it just stops turning and returns to straight flight
+help 2020-06-05 16:31:18 i'm just going back to super rocket engines
+help 2020-06-05 16:37:40 it works WAY better now
+help 2020-06-05 16:43:51 sad that my plane doesnt have enough blocks
+help 2020-06-05 16:44:03 enough to apply for a role**
+the-dump 2020-06-07 07:37:54 https://media.discordapp.net/attachments/528888847136849921/718729984222691349/communism.gif
+the-dump 2020-06-07 07:38:19 SOYUZ NERUSHIMYY RESPUBLIK SVOBODNYKH
+plane-crazy 2020-06-07 14:55:47 Did anyone order SU-57 Bomber bombs?
+plane-crazy 2020-06-07 14:58:17 I have an order here saying that ***SOMEONE*** ordered 4 SU-57 bombs, and that they have to be delivered by plane
+plane-crazy 2020-06-07 14:58:26 with?
+plane-crazy 2020-06-07 14:59:03 Is it a futuristic car or realistic car
+plane-crazy 2020-06-07 14:59:54 Aight, i'm going to deliver bombs to someone
+plane-crazy 2020-06-07 15:01:08 
+plane-crazy 2020-06-07 15:01:26 but seriously did someone order a SU-57
+creations-chat 2020-06-12 10:11:15 nah not possible
+creations-chat 2020-06-12 10:11:31 you can't put your vehicle on someone else's vehicle
+creations-chat 2020-06-12 10:11:43 it will just clip out of the vehicle upon moving
+creations-chat 2020-06-12 10:11:50 which is annoying AF imo
+the-dump 2020-06-15 18:01:45 
+the-dump 2020-06-19 17:13:59 nooooo
+the-dump 2020-06-21 12:18:47 When you mumble something to yourself after arguing with mom:
+the-dump 2020-06-21 12:18:48 https://cdn.discordapp.com/attachments/657862252002672640/724236263430946876/unknown.png
+the-dump 2020-06-22 18:00:11 ah yes pubg arab edition
+the-dump 2020-06-22 18:00:12 
+the-dump 2020-06-22 18:01:25 <:bigyoshi:557242825301819423>
+the-dump 2020-06-22 18:01:58 anyone else pubg arab edition?
+the-dump 2020-06-22 18:02:25 
+the-dump 2020-06-23 18:11:25 https://cdn.discordapp.com/attachments/603649974042886296/725048797868327052/unknown.png
+the-dump 2020-07-03 07:28:37 https://youtu.be/6JXUrstLxqE
+the-dump 2020-07-03 07:36:09 I HAVE>
+the-dump 2020-07-03 07:36:18 I AM THE MILK MAN
+MY MILK IS DELICIOUS
+the-dump 2020-07-03 07:36:28 BUY THE MILK
+the-dump 2020-07-03 07:37:03 condensed milk?
+the-dump 2020-07-03 07:37:19 ***thou has insulted the ancient one***
+creations-chat 2020-07-05 14:11:49 I wonder if there will ever be a bunker in the map
+creations-chat 2020-07-05 14:11:54 A nuclear bunker
+general 2020-07-05 14:16:10 Wait do lasers exist yet?
+general 2020-07-05 14:17:33 Was the discord ever like "hacked"?
+general 2020-07-05 14:18:19 Because i see suggestions marked as approved or considered, but they were never added to the game
+general 2020-07-05 14:19:08 
+general 2020-07-05 14:19:20 Some of these were added, but not all of them
+general 2020-07-05 14:20:52 Guys
+general 2020-07-05 14:21:47 Was this discord ever "hacked"  or were there abusive moderators/admins?
+general 2020-07-05 14:21:58 If not explain this:
+general 2020-07-05 14:22:03 Feb 25
+general 2020-07-05 14:23:08 These suggestions were marked as considered and some approved,  but none got added and i am used to seeing "reason provided by VoxelBox:" but it doesnt show that
+general 2020-07-05 14:24:57 Also i wonder if this ever will be added:
+general 2020-07-05 14:25:54 It doesn't involve anything about whitelisting features
+general 2020-07-05 14:27:01 yeah it features plots but it doesn't say anything involving whitelisting
+general 2020-07-05 14:27:36 > noob
+<@435864400235200522> who you talking to
+general 2020-07-05 14:28:19 Guess you don't know the meaning of 'noob' <@435864400235200522>
+general 2020-07-05 14:28:27 > the building system is hardcoded
+<@448505589983739914> ohhh k
+general 2020-07-05 14:28:45 Why did you call me a noob then
+general 2020-07-05 14:29:00 I mean, you don't even know who i am,
+general 2020-07-05 14:29:25 I could say the same about you two
+general 2020-07-05 14:30:07 You have absolutely nothing that proves i am a new player
+general 2020-07-05 14:30:24 I did.
+general 2020-07-05 14:35:51 > dont suddenly use grammar to act like you are not a noob
+<@435864400235200522> even if i didn't use grammar like now i still wouldn't be a noob, i at least can use proper english. I don't have time for this shit, have fun being ignored
+general 2020-07-05 14:38:44 > <@!657852826352877588> please figure out already that in this thing called the internet people use sarcasm and meaningless words a lot
+<@296280922771292170> the word 'noob' is not meaningless at all, but i understand what you're trying to say. Only thing is that it's just annoying that people use 'sarcasm and meaningless words' whenever you say any goddamn thing on the internet, and especially on roblox.
+general 2020-07-05 14:39:56 > slow typer
+<@435864400235200522> Like i said, i don't have time for this shit
+general 2020-07-05 14:43:47 > <@657852826352877588> You're a norole, you have no option here
+<@299289130964090881> don't care, even if i did have a role
+general 2020-07-05 14:48:41 > If he didn't care then why did he care to respond
+<@299289130964090881> because. Anyways, have a nice day
+plane-crazy 2020-11-10 06:36:29 flying airborne aerial aircraft carrier carrier carrier
+plane-crazy 2020-11-10 06:37:17 w h a t
+plane-crazy 2020-11-10 06:37:23 is that even possible
+plane-crazy 2020-11-10 06:38:44 why does my mini spaceship thing look like a mini yacht
+plane-crazy 2020-11-10 06:39:44 it litterally looks more like yacht than a spaceship
+plane-crazy 2020-12-12 05:11:12 Guys did the devs quit?
+plane-crazy 2020-12-12 05:11:23 There hasn't been an update in like 3 months
+plane-crazy 2020-12-12 05:12:04 i hope so
+plane-crazy 2021-03-06 14:15:27 hi everyone
+plane-crazy 2021-03-06 14:15:30 i have a question
+plane-crazy 2021-03-06 14:15:54 does it matter if your plane's center of lift is above the center of mass
+plane-crazy 2021-03-06 14:16:44 because i'm making a drone, and i can go forward/backwards but if i fly forward it slowly starts to roll
+plane-crazy 2021-03-06 14:16:55 but the center of lift and mass are aligned
+plane-crazy 2021-03-06 14:17:07 except for that the center of lift is above the center of mass
+plane-crazy 2021-03-06 14:18:15 flying upwards and downwards goes straight
+plane-crazy 2021-03-06 14:18:24 but as soon as you go forward or backwards it starts to roll
+plane-crazy 2021-03-06 14:18:38 and rotate
+plane-crazy 2021-03-06 14:18:47 it works just like a real drone
+plane-crazy 2021-03-06 14:18:58 there is another motor under the motors you see
+plane-crazy 2021-03-06 14:19:13 which makes either the front pair or the pair at the back turn slower
+plane-crazy 2021-03-06 14:19:18 so the drone moves forwards
+plane-crazy 2021-03-06 14:19:34 it does that
+plane-crazy 2021-03-06 14:20:29 the motors you see here control forward/backwards
+plane-crazy 2021-03-06 14:21:00 well the issue is that if i go forward with the drone it rotates out of nowhere
+plane-crazy 2021-03-06 14:21:10 but there are no systems that do rotation yet so
+plane-crazy 2021-03-06 14:21:18 i don't get how it rotates
+plane-crazy 2021-03-06 14:21:34 by that i mean that i can't turn the drone
+plane-crazy 2021-03-06 14:23:00 alright
+plane-crazy 2021-03-06 14:23:30 ah
+plane-crazy 2021-03-06 14:24:45 which way should they be orientated?
+plane-crazy 2021-03-06 14:47:22 i added control panels and it made it stabler i guess
+plane-crazy 2021-03-06 14:47:28 but now it's hard to steer
+plane-crazy 2021-03-06 14:48:36 they don't generate lift right
+plane-crazy 2021-03-06 14:48:47 or at least not as much lift as propellor rotors
+plane-crazy 2021-03-06 14:48:56 propellor blades*
+plane-crazy 2021-03-06 14:50:31 i could also make the drone more drone-like by adding another motor for every rotor so instead of turning i just move left and right
+plane-crazy 2021-03-07 08:23:45 hi everyone, i today once again have a problem with my drone
+plane-crazy 2021-03-07 08:25:21 i did the systems to go forward/backwards, and i made a start for the cockpit. it flies more stable but still wants to rotate
+plane-crazy 2021-03-07 08:26:31 i think this has something to do with the double motors, because i can see that the up/down motors also rotate the forward/backwards motors while they're not supposed to.
+plane-crazy 2021-03-07 08:26:46 how do i prevent the motors from turning each other?
+plane-crazy 2021-03-07 08:28:35 yeah it's confusing
+plane-crazy 2021-03-07 09:25:25 okay someone please help
+plane-crazy 2021-03-07 09:26:05 i'm redoing my drone but if i go upwards it starts swinging randomly
+plane-crazy 2021-03-07 09:26:27 
+plane-crazy 2021-03-07 09:47:49 fish
+plane-crazy 2021-03-07 09:50:22 el fish
+plane-crazy 2021-03-07 10:57:58 <:WhatChamp:775044367022555166>
+plane-crazy 2021-03-07 10:58:45 fine i guess you are my little champ-agne
+plane-crazy 2021-03-07 10:58:53 🍾
+plane-crazy 2021-03-07 10:59:19 ~~champagne~~ champain
+plane-crazy 2021-03-07 10:59:43 people born after july: I no longer exist.
+the-dump 2021-03-27 20:58:30 
+the-dump 2021-03-27 20:58:35 
+the-dump 2021-03-27 20:58:47 
+the-dump 2021-03-27 20:58:50 lmao
+the-dump 2021-03-27 20:59:30 get r  krolled
+the-dump 2021-03-27 21:28:05 new emote vote?
+the-dump 2021-03-27 21:28:07 also
+the-dump 2021-03-27 21:28:22 gonna sniff you up
+the-dump 2021-03-27 21:32:36 what
+the-dump 2021-03-27 21:32:57 sorry what
+the-dump 2021-03-27 21:32:59 is that a gif
+the-dump 2021-03-27 21:33:00 or
+plane-crazy 2021-04-23 16:58:39 hi guys, i made a helicopter body but i don't know how to make it fly. how do i build the rotors? where do i place them?
+plane-crazy 2021-04-23 17:00:05 how do i make stable rotors tho
+plane-crazy 2021-04-23 17:08:39 k wait
+plane-crazy 2021-04-23 17:09:19 how am i gonna join i don't have you as a friend
+plane-crazy 2021-04-23 17:10:45 server is full
+plane-crazy 2021-04-23 17:11:33 just join me instead
+plane-crazy 2021-04-23 17:20:24 you joining or is it full too
+plane-crazy 2021-04-23 18:13:08 okay so i have this helicopter body without propellors or anything
+plane-crazy 2021-04-23 18:13:12 what should i make with it
+plane-crazy 2021-04-23 18:14:17 i can't make helicopters sadly
+plane-crazy 2021-04-23 18:14:26 well i can't make working stable rotors
+plane-crazy 2021-04-23 18:15:05 i can try to make a drone out of it tho
+plane-crazy 2021-04-23 18:36:59 how do i make stable vehicles
+plane-crazy 2021-04-23 18:37:03 nothing i make is stable
+plane-crazy 2021-04-23 19:04:04 so uh
+plane-crazy 2021-04-23 19:04:10 i made my quadcopter like this
+plane-crazy 2021-04-23 19:04:11 
+plane-crazy 2021-04-23 19:04:13 but
+plane-crazy 2021-04-23 19:04:16 and
+plane-crazy 2021-04-23 19:04:23 it can fly forward stably
+plane-crazy 2021-04-23 19:04:30 and that's all, it can only fly forward
+plane-crazy 2021-04-23 19:04:43 so how do i add up/down/left/right
+plane-crazy 2021-04-23 19:05:50 oh there
+plane-crazy 2021-04-23 19:05:52 that fixed it
+plane-crazy 2021-04-23 19:06:04 i had to get the center of mass and lift together
+plane-crazy 2021-04-23 19:58:27 is it possible to change the center of mass in flying mode
+plane-crazy 2021-04-24 06:00:55 is it possible to change the center of mass in flying mode
+plane-crazy 2021-04-24 06:01:05 how do i do that
+plane-crazy 2021-04-24 06:01:23 ah, okay
+plane-crazy 2021-04-24 06:10:32 how do i add forward/backwards controls to a drone
+plane-crazy 2021-04-27 06:49:27 who else hates quadcopters
+general 2021-05-06 08:26:44 Bedroom? Nah, i prefer:
+general 2021-05-06 08:26:45 
+general 2021-05-15 20:53:29 people
+general 2021-05-15 20:53:44 today we shall discuss this question
+general 2021-05-15 20:54:03 "is ketchup a soda"
+general 2021-05-15 20:54:22 https://objection.lol/courtroom/705wcg
+general 2021-05-15 20:55:00 https://tenor.com/view/ketchup-sachet-kfc-ooze-out-bleeding-out-gif-4862197
+general 2021-10-28 05:26:15 a
+general 2021-10-28 05:26:28 
+general 2021-10-28 05:28:21 .
+general 2021-10-28 05:28:26 he smell like he farted
+general 2021-10-28 05:32:04 i'm going to ping rickje
+general 2021-10-28 05:32:19 for no reason at all
+general 2021-10-28 05:41:59 jesus this guy hates me
+general 2021-10-28 05:42:14 
+general 2021-10-28 05:42:23 lol
+general 2021-10-28 05:42:29 i will do the
+general 2021-10-28 05:44:58 well that was a short round
+general 2021-10-28 05:56:21 what gae's that
+general 2021-10-28 05:56:37 
+general 2021-10-28 05:57:16 bpbp
+general 2021-10-28 05:57:20 bobop
+general 2021-10-28 05:57:33 
+help 2021-10-28 14:48:59 hi there i need ideas for things to build
+help 2021-10-28 14:52:51 what should i build
+help 2021-10-28 14:55:01 we kind of need like, "motor controllers" so you don't need 4 motors if you want to be able to switch motor speed mid-flight (for a drone, for example)
+help 2021-10-28 14:55:42 yeah
+help 2021-10-28 14:56:12 there should be a motor that has a throttle function, like rocket/jet/propeller engines
+help 2021-10-28 14:59:09 anyways what do i makeee
+help 2021-10-28 15:00:29 that's not what suggestions is for .-.
+help 2021-10-28 15:00:34 like,
+help 2021-10-28 15:00:34 it's litterally suggestions
+help 2021-10-28 15:00:36 for the game
+help 2021-10-28 15:02:38 oh wait
+help 2021-10-28 15:02:46 i thought you reacted to the "what do i make"
+help 2021-10-28 15:02:47 sry
+help 2021-10-28 15:03:06 also i can't post suggestions anyway
+help 2021-10-28 15:04:23 i want to make a drone but how do i make a drone that can strafe left/right
+general 2021-10-28 18:52:52 the
+general 2021-10-28 18:56:59 i forgor
+general 2021-10-28 19:00:53 don't ask me how, but i managed to make a clock generator
+general 2021-10-28 19:01:05 circuit stuff
+general 2021-10-28 19:02:10 
+general 2021-10-29 19:59:30 h
+general 2022-04-01 09:48:28 hello
+general 2022-04-01 09:53:25 how do i get a rank
+general 2022-04-01 09:53:40 i have a jet that fits the requirements
+general 2022-04-01 09:53:43 and i made a request
+general 2022-04-01 09:53:48 but it says that there's only bots online
+bot-central 2022-04-01 10:02:08 !servers
+bot-central 2022-04-01 10:02:11 -servers
+bot-central 2022-04-01 10:02:13 damnit
+bot-central 2022-04-01 10:02:28 now i gotta wait 4 frickin hours
+plane-crazy 2022-04-01 10:04:18 i hate people who use lag machines so bad
+plane-crazy 2022-04-01 10:04:22 its bannable right?
+plane-crazy 2022-04-01 10:04:24 lag machines?
+plane-crazy 2022-04-01 10:04:45 btw how did you do that
+contest-chat 2022-04-01 10:06:07 What if i make an anti-aircraft aircraft?
+plane-crazy 2022-04-01 10:52:16 pvp is overrated
+plane-crazy 2022-04-01 10:52:56 90% of the players in a pvp server are either spawncampers, use shredder bugs or are just plain annoying
+plane-crazy 2022-04-01 19:56:32 oh god
+plane-crazy 2022-04-01 19:56:32 
+plane-crazy 2022-04-01 20:06:37 Ok so
+plane-crazy 2022-04-01 20:06:46 what's the best weapon against land vehicles?
+general 2022-04-01 20:07:36 i hope so
+plane-crazy 2022-04-01 20:11:22 "this is fine"
+plane-crazy 2022-04-01 20:11:28 OH GOD ITS NOT FINE
+plane-crazy 2022-04-01 20:11:35 
+plane-crazy 2022-04-01 20:13:04 excuse me?
+plane-crazy 2022-04-01 20:13:08 what?
+plane-crazy 2022-04-01 20:13:25 since when could you break light speed with a simple conveyor drive?
+plane-crazy 2022-04-01 20:21:55 well i tried to use rockets but even with close tracking they just always miss
+plane-crazy 2022-04-01 20:58:17 What does that do?
+plane-crazy 2022-04-01 20:58:21 the legacy setting?
+plane-crazy 2022-04-01 20:58:40 Yeah that's turned off
+plane-crazy 2022-04-01 20:58:44 I need them to track
+plane-crazy 2022-04-01 20:58:49 I can't aim
+general 2022-04-02 07:12:28 happy april fool
+general 2022-04-02 07:13:10 ا مخازن لية مع على كما السياسات المصرية تكون قضية عن
+general 2022-04-02 07:13:15 balls
+general 2022-04-04 05:54:06 h
+general 2022-04-04 05:54:15 OH i got my rank!
+bot-central 2022-04-04 05:54:29 !server
+bot-central 2022-04-04 05:54:48 -servers
+general 2022-04-04 05:55:06 would be a shame if
+general 2022-04-04 05:55:12 you wouldn't be a prick
+general 2022-04-04 05:55:13 :<
+general 2022-08-08 14:13:42 I got the exact same message from some dude called gogettao
+general 2022-08-08 14:13:44 he's in this server
+general 2022-08-08 14:14:33 its fake
+general 2022-08-08 14:16:17 those are called github pfps
+general 2022-09-08 17:54:34 Me omw to every server i'm in to scream the queen is dead
+creations-chat 2023-02-19 20:10:42 does anyone know of a free VIP where i can test creations that require tnt
+bot-central 2023-02-19 20:27:03 !servers
+bot-central 2023-02-19 20:27:09 -servers
+general 2023-02-27 20:11:47 I swear to god i'm gonna drink hydroxic acid
+general 2023-02-27 20:12:28 Me when i accidentally spill hydrogen hydroxide in your eyes:
+general 2023-02-27 20:12:46 lmao
+general 2023-02-27 20:13:07 troled
+general 2023-02-27 20:13:24 https://tenor.com/view/clash-royale-emotes-laugh-smile-king-gif-14309345
+general 2023-02-27 20:13:27 damnit

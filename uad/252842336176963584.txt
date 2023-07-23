@@ -1,0 +1,3 @@
+The Tale of megphert (252842336176963584)
+bug-reports 2019-11-17 09:50:50 every time I put my mouse in the air, the control surfaces go downwards, even if i remove the control services, rotate etc, they will always go downwards when i put my mouse upwards. with my other builds it's fine, just this one.
+bug-reports 2019-11-17 11:43:15 neither of the solutions worked

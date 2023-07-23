@@ -1,0 +1,143 @@
+The Tale of helix.dev (368936151156916224)
+bug-reports 2019-07-03 21:43:18 So
+bug-reports 2019-07-03 21:43:20 I have a bug
+bug-reports 2019-07-03 21:43:24 I have a mini heli
+bug-reports 2019-07-03 21:43:35 And its perfectly symetrical
+bug-reports 2019-07-03 21:43:46 I have broken it down piece by piece to ensure so
+bug-reports 2019-07-03 21:43:50 Now,
+bug-reports 2019-07-03 21:45:21 As you would imagine, looking at the heli from the rear, you would see the CG horizontally centered. The problem is, its not.
+bug-reports 2019-07-03 21:45:24 no
+bug-reports 2019-07-03 21:45:30 I'm talking about inside the editor
+bug-reports 2019-07-03 21:45:33 The heli si fine
+bug-reports 2019-07-03 21:45:34 But
+bug-reports 2019-07-03 21:45:39 Actually,
+bug-reports 2019-07-03 21:45:46 It leans to the left because of this
+bug-reports 2019-07-03 21:45:50 *right
+bug-reports 2019-07-03 21:46:03 Is this a known bug?
+bug-reports 2019-07-03 21:46:47 The more pieces I remove from the heli, the more offset if becomes.
+bug-reports 2019-07-03 21:46:55 I had one piece in the middle
+bug-reports 2019-07-03 21:47:04 Left over after removing alll of the pieces
+bug-reports 2019-07-03 21:47:07 Ok
+bug-reports 2019-07-03 21:47:16 I will sen you 2 images
+bug-reports 2019-07-03 21:47:44 Gimme a sec
+bug-reports 2019-07-03 21:47:49 I dont have acces to my faster PC
+bug-reports 2019-07-03 21:47:53 So it will take a min
+bug-reports 2019-07-03 21:48:27 I will send you 3 screenshots
+bug-reports 2019-07-03 21:52:31 Ok
+bug-reports 2019-07-03 21:52:32 Here
+bug-reports 2019-07-03 21:54:44 bam
+bug-reports 2019-07-03 21:54:58 <@!339519624968404993>
+bug-reports 2019-07-03 21:54:59 bam
+bug-reports 2019-07-03 21:55:14 The last picture
+bug-reports 2019-07-03 21:55:17 bam
+bug-reports 2019-07-03 21:55:21 Yes
+bug-reports 2019-07-03 21:55:23 I have
+bug-reports 2019-07-03 21:55:28 MULTIPLE times
+bug-reports 2019-07-03 21:55:33 ?
+bug-reports 2019-07-03 21:55:37 No
+bug-reports 2019-07-03 21:55:48 ?
+bug-reports 2019-07-03 21:55:58 ...
+bug-reports 2019-07-03 21:55:59 ok
+bug-reports 2019-07-03 21:56:11 I trust you guys enough to give you my account info
+bug-reports 2019-07-03 21:56:16 You can check yourself
+bug-reports 2019-07-03 21:56:23 Where would I do taht?
+bug-reports 2019-07-03 21:56:31 I can DM it to you
+bug-reports 2019-07-03 21:56:45 ?
+bug-reports 2019-07-03 21:56:48 Ok
+bug-reports 2019-07-03 21:56:50 Oh
+bug-reports 2019-07-03 21:56:53 Center of mass
+bug-reports 2019-07-03 21:56:59 I did
+bug-reports 2019-07-03 21:57:04 Then it dissapears
+bug-reports 2019-07-03 21:57:10 Its dissapears
+bug-reports 2019-07-04 02:31:23 <@!217336009455566848> Did you see the bug above the last one? Please fix it. DM me if you want my account info. You can login and see for yourself.
+bug-reports 2019-07-04 13:07:29 <@!217336009455566848>
+bug-reports 2019-07-04 13:07:33 Look plz
+bug-reports 2019-07-04 13:07:37 Its a big bug
+bug-reports 2019-07-04 15:36:10 Hello?
+bug-reports 2019-07-04 15:36:13 Anybody there?
+bug-reports 2019-07-04 15:36:44 So, I have a bug. I have a mini heli and its perfectly symmetrical.
+I have broken it down piece by piece to ensure so.
+Now, As you would imagine, looking at the heli from the rear, you would see the COG horizontally centered. The problem is, its not.
+I'm talking about inside the editor.
+But actually, It leans to the right because of this.
+Is this a known bug?
+The more pieces I remove from the heli, the more offset the COG becomes.
+bug-reports 2019-07-04 15:37:34 Look
+bug-reports 2019-07-04 15:38:07 Top view
+bug-reports 2019-07-04 15:38:52 Back view. Notice where the COM is? Keep in mind this heli is perfectly symmetrical.
+bug-reports 2019-07-04 15:39:20 When I remove all pieces except 1 or 2, look at the COM!!!
+bug-reports 2019-07-04 15:39:26 There are no pieces stuck under the mat
+bug-reports 2019-07-04 15:39:36 I checked by lifting the heli up
+bug-reports 2019-07-04 15:42:39 <@!217336009455566848>
+bug-reports 2019-07-04 15:42:44 <@158294656113836032>
+bug-reports 2019-07-04 15:42:48 Major bug
+bug-reports 2019-07-04 15:43:02 Frick u dyno
+bug-reports 2019-07-04 15:43:04 Lol
+bug-reports 2019-07-04 15:43:44 SUMMMMbody help
+bug-reports 2019-07-04 15:43:45 Lol
+bug-reports 2019-07-04 15:43:50 I'm still trying to fix it
+bug-reports 2019-07-04 15:43:57 Why wont the devs respond
+bug-reports 2019-07-04 15:43:59 😦
+bug-reports 2019-07-04 17:12:27 Srsly?
+bug-reports 2019-07-04 17:12:34 Another guy pinged a dev
+bug-reports 2019-07-04 17:12:36 Before
+bug-reports 2019-07-04 17:12:43 Why did he not get warned?
+bug-reports 2019-07-04 17:12:45 *warned
+bug-reports 2019-07-04 17:13:01 lol
+bug-reports 2019-07-04 17:13:02 ok
+bug-reports 2019-07-04 17:35:50 Then what is it
+bug-reports 2019-07-04 17:35:59 ...
+bug-reports 2019-07-04 17:36:01 No
+bug-reports 2019-07-04 17:36:03 I checked
+bug-reports 2019-07-04 17:36:14 I deleted all blocks except 2
+bug-reports 2019-07-04 17:36:27 And did you see where the COG was?
+bug-reports 2019-07-04 17:36:39 No
+bug-reports 2019-07-04 17:36:42 I was in editor
+bug-reports 2019-07-04 17:36:49 ????
+bug-reports 2019-07-04 17:36:55 No
+bug-reports 2019-07-04 17:36:59 I usedflaps
+bug-reports 2019-07-04 17:37:03 control surfaces
+bug-reports 2019-07-04 17:39:47 ?
+bug-reports 2019-07-04 17:39:50 I DID
+bug-reports 2019-07-04 17:39:59 I DID
+bug-reports 2019-07-04 17:40:05 Lol
+bug-reports 2019-07-04 17:40:10 There were 2 blocks
+bug-reports 2019-07-04 17:40:13 And
+bug-reports 2019-07-04 17:40:15 No
+bug-reports 2019-07-04 17:40:21 No I didnt'y
+bug-reports 2019-07-04 17:40:29 When I took apart the heli,
+bug-reports 2019-07-04 17:40:32 I left 2 blocks
+bug-reports 2019-07-04 17:40:34 NO
+bug-reports 2019-07-04 17:40:43 IO was talkign about somethign else
+bug-reports 2019-07-04 17:40:47 Frick
+bug-reports 2019-07-04 17:40:48 Ok
+bug-reports 2019-07-04 17:40:50 Look at the pics
+bug-reports 2019-07-04 17:41:09 bam
+bug-reports 2019-07-04 17:41:09 bam
+bug-reports 2019-07-04 17:41:15 bam
+bug-reports 2019-07-04 17:41:20 Look at LAST screenshot
+bug-reports 2019-07-04 17:41:32 I DID
+bug-reports 2019-07-04 17:41:36 Then it dissapears
+bug-reports 2019-07-04 17:41:40 The COG sissapears
+bug-reports 2019-07-04 17:41:44 *dissapears
+bug-reports 2019-07-04 17:41:49 This is a huge bug
+bug-reports 2019-07-04 17:41:50 YES
+bug-reports 2019-07-04 17:42:21 s
+bug-reports 2019-07-04 17:42:24 I did
+bug-reports 2019-07-04 17:42:28 MULTIPLLE TIMES
+bug-reports 2019-07-04 17:42:53 I told an mod an he sed "*Well I cant help you then*"
+bug-reports 2019-07-04 17:42:58 Like tf?
+bug-reports 2019-07-04 17:43:10 Its fine
+bug-reports 2019-07-04 17:43:15 It a bit hard to explain the bug
+bug-reports 2019-07-04 17:43:18 i understand
+bug-reports 2019-07-04 17:43:43 Wwwait
+bug-reports 2019-07-04 17:43:47 Yo
+bug-reports 2019-07-04 17:43:56 How do you get to th test server?
+help 2019-07-04 17:44:58 Hye peeps
+help 2019-07-04 17:45:10 How do you get into the test server?
+bug-reports 2019-07-05 01:02:07 ?
+plane-crazy 2019-08-01 15:11:30 Lol
+plane-crazy 2019-08-01 15:11:32 Hey Esio
+plane-crazy 2019-08-01 15:11:34 Wassup
+plane-crazy 2019-08-25 16:54:43 I feel bad for rick
+plane-crazy 2019-08-25 16:54:48 U pinngeed him

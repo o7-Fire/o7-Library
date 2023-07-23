@@ -1,0 +1,45 @@
+The Tale of dogeyot (277591460017340417)
+plane-crazy 2019-03-24 19:42:39 deadass making build for about a hour
+plane-crazy 2019-03-24 19:42:45 then it just deletes itself
+the-dump 2019-03-24 19:43:34 
+plane-crazy 2019-03-24 19:52:44 ok
+plane-crazy 2019-03-24 19:52:46 so i save it
+plane-crazy 2019-03-24 19:52:48 on 2 slots
+plane-crazy 2019-03-24 19:52:50 then i leave
+plane-crazy 2019-03-24 19:52:53 rejoin
+plane-crazy 2019-03-24 19:52:55 and its not there
+plane-crazy 2019-03-24 19:53:03 yeah
+plane-crazy 2019-03-24 19:53:08 but its aways been
+plane-crazy 2019-03-24 19:53:15 and my other saves did well
+plane-crazy 2019-03-24 19:53:21 so why does it break now?
+plane-crazy 2019-03-24 19:53:23 oh ok
+plane-crazy 2019-03-24 19:53:33 but still doesn't make sense
+plane-crazy 2019-03-24 19:53:41 why some saves are upwards of 1000 blocks
+plane-crazy 2019-03-24 19:53:48 then saving this 300 blocks
+plane-crazy 2019-03-24 19:53:50 breaks it
+plane-crazy 2019-03-24 19:54:15 then why does it save
+plane-crazy 2019-03-24 19:54:20 oh it says im over the limit
+plane-crazy 2019-03-24 19:54:24 it has since it was added
+plane-crazy 2019-03-24 19:54:39 how?
+plane-crazy 2019-03-24 19:54:48 ok
+plane-crazy 2019-03-24 19:55:29 https://gyazo.com/2c0ca547dd8538dca50fc4764ec38909
+plane-crazy 2019-03-24 19:55:43 oh
+plane-crazy 2019-03-24 19:55:51 https://gyazo.com/0886fb8ae7b2fff9800c4e5768a84b71
+plane-crazy 2019-03-24 19:56:11 when the update happened
+plane-crazy 2019-03-24 19:56:18 i had saves that were over the limit
+plane-crazy 2019-03-24 19:56:21 or something
+plane-crazy 2019-03-24 19:56:26 the one that added it
+plane-crazy 2019-03-24 19:56:30 the indicater
+general 2019-09-15 23:48:48 Is it possible to have 2 people control 1 vehiclle?
+general 2019-09-15 23:48:49 https://gyazo.com/97e590e118c2d2ae27470963a99b7864
+general 2019-09-15 23:48:52 i have this
+general 2019-09-15 23:48:56 it works fine alone
+general 2019-09-15 23:49:09 but my friend cannot use the controlls
+general 2019-09-15 23:51:50 didn't work
+plane-crazy 2019-09-16 01:12:43 Is it possible to have 2 people control 1 vehiclle?
+https://gyazo.com/97e590e118c2d2ae27470963a99b7864
+
+i have this
+it works fine alone
+but my friend cannot use the controlls
+plane-crazy 2019-09-16 01:13:19 why is there 3 seats then?

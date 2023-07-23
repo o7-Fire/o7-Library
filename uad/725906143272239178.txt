@@ -1,0 +1,47 @@
+The Tale of VideoCarp (725906143272239178)
+help 2022-01-27 22:01:45 I need to make it move the where the vehicle is facing. 
+
+Conveyer modifications: the long ones have W and S, allowing it to go forwards and backwards
+the one in the middle has A and D, allowing it to go left and right.
+
+but the thing moves in a way, that its front part never changes where it is looking.
+help 2022-01-28 01:32:18 I'm trying to make an arm that moves in 360 degrees both vertically and horizontally, so I can then add a propeller or rocket engine to make it fly more accurately than a regular plane. This is what I have so far, the problem is that it won't move horizontally right now, only vertically.
+help 2022-01-28 01:36:15 should it be facing up?
+help 2022-01-28 01:36:48 let me see
+help 2022-01-28 01:37:56 no, tried that won't work
+help 2022-01-28 01:39:32 it just made it solely horizonta;
+help 2022-01-28 01:41:49 balance them?
+help 2022-01-28 21:15:12 Neither of these motors will spin. I want to make a 360 vertical *and* horizontal arm.
+help 2022-01-28 21:56:10 The help was useless
+help 2022-01-28 21:56:12 It was wrong
+help 2022-01-28 21:58:38 doesnt
+help 2022-01-28 21:59:38 default
+help 2022-01-28 22:00:30 it doesnt even begin to move, neither horizontally nor vertically
+help 2022-01-28 22:01:37 will do
+help 2022-01-28 22:02:26 yeah that works, thanks
+help 2022-01-29 02:06:33 trying to drop the ballast block but still move where the mouse goes. I don't want to use any control surfaces. if i use a disconnecter, it just switches to rotating the disconnector rather than the seat.
+help 2022-01-29 02:07:16 instead, it's just spinning 360 on x axis
+help 2022-01-29 02:08:16 I am trying to drop the ballast block there but not affect what the motor 2s spin'
+help 2022-01-29 02:09:52 it makes perfect sense
+help 2022-01-29 02:10:48 what's so complicated about "drop" and "affect"?
+help 2022-01-29 02:11:51 sorry for the semantic ambiguity
+help 2022-01-29 02:12:45 I'm trying to disconnect the ballast block shown in the image, but keep the motors -- of kind "motor 2"-- controlling the beam on which the main pilot seat is situated.
+help 2022-01-29 03:57:26 Here is a box sized enough to allow a chair, containing a rocket engine, to rotate perfectly in all directions. Where I aim, the rocket thrusts the vehicle towards. The problem, is that there is too much momentum from the rocket engine. I can't turn, because the momentum of the previous movement is >= the force of the rocket engine.
+
+The 4 pillars are helium blocks applied to the centre. As you can see, the centre of mass is on the chair.
+
+How can I reduce the momentum?
+help 2022-01-29 03:58:12 It also spins uncontrollaby.
+help 2022-01-29 04:37:50 u cant expect me to know that if i asked a question about it
+help 2022-01-29 05:09:07 That didn't help much, if at all. I still can't turn it properly. (main: https://canary.discord.com/channels/384021699466756103/478584971670454284/936832387038466088)
+help 2022-01-29 05:16:09 if this is not a joke, I recommend you see a doctor for your paranoia.
+help 2022-01-29 05:18:02 are you claiming, with your full brain, that discord is going to steal your ip?
+help 2022-01-29 05:18:22 they already have
+help 2022-01-29 05:18:24 you are on it
+help 2022-01-29 05:20:09 Smart enough to know what an ip grabber is, but not smart enough to understand that x.y.z is owned by www.x.z
+you need help
+help 2022-01-29 21:00:45 "I don't trust the website I'm on, it's too risky to click a link from it. They could take my IP, they absolutely haven't taken it along with a lot of my data already."
+help 2022-01-29 21:01:15 besides, you are supressing me from help
+help 2022-01-29 22:35:06 why cant I paint my cutters or the entirety of my rockets?
+help 2022-01-29 22:35:11 I did it before
+help 2022-01-29 22:35:13 but  cant anymore

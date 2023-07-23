@@ -1,0 +1,7 @@
+The Tale of somedemomain (402052691750027267)
+plane-crazy 2021-08-11 16:31:07 for whatever reason, guns don't work for me
+plane-crazy 2021-08-11 16:44:42 I should clarify that I cannot edit guns while placing them (or after placing them), nor fire them
+plane-crazy 2021-08-11 16:45:39 Every other PvP weapon is fine, it's specifically guns I have this problem with
+plane-crazy 2021-08-11 16:47:10 and I just found out <#478584971670454284> exists
+help 2021-08-11 17:08:41 I cannot edit guns while placing them (or after placing them), nor can I fire them. Every other PvP weapon is fine, it's specifically guns I have this problem with. Any suggestions?
+help 2021-08-11 17:14:25 the edit tool (purple screwdriver)

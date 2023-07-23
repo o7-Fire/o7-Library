@@ -1,0 +1,19 @@
+The Tale of tristy (291272196171497472)
+general 2021-01-05 02:45:30 wherew do i  suggest
+general 2021-01-05 02:45:49 ok
+bot-central 2021-01-05 02:45:57 ?help
+bot-central 2021-01-05 02:48:30 &suggest
+Gun Changes
+
+Building
+
+Allow the modification of guns
+/suggest
+Gun Changes
+
+Building
+
+Allow the modification of guns, and allow us to colour the yellow bit.
+Modification would include: changing rate of fire, length of yellow part (simulating a barrel), and 2 new parts; the Ball Gun and Swivel Gun
+The ball gun would be a half 1x1 ball, with a gun on the end. It would be able to move in all directions in a 180° cone
+The swivel gun would look similar to the Panzer IV or Tiger I frontal machine guns, in which they would swivel along the X/Z axis

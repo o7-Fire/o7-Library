@@ -1,0 +1,4 @@
+The Tale of clockwork canary (817116607444418601)
+general 2021-05-12 14:31:12 is anyone else's plane start corkscrewing at 200 alt?
+plane-crazy 2021-05-12 14:31:50 morning all
+bug-reports 2021-05-12 14:48:45 when i get to 200 studs ALT my plane starts to violently corkscrew. it's inescapable, and i can't stop it, no matter the plane size weight or shape.

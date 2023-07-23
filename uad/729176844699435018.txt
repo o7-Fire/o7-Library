@@ -1,0 +1,14 @@
+The Tale of swagremmy (729176844699435018)
+help 2020-11-13 18:34:39 What's a propulsive engine? It's mentioned in the submarine tutorial on the wiki
+help 2020-11-13 18:34:53 In game?
+help 2020-11-13 18:35:55 Which cat?
+help 2020-11-13 18:36:01 They aren't in prop
+help 2020-11-13 20:23:58 I'm trying to make a rocket and I'm testing a prototype.
+help 2020-11-13 20:24:30 There is not enough lift though, does anyone know why?
+help 2020-11-13 20:30:01 
+plane-crazy 2020-11-14 01:24:05 What happens when there's a troller in game?
+plane-crazy 2020-11-14 01:24:29 I blacklisted em so I'm fine
+plane-crazy 2020-11-14 01:25:33 Lag is client side so they're probably lagging
+plane-crazy 2020-11-14 01:26:11 Even with all those balls, I'm getting 200 FPS
+plane-crazy 2020-11-16 17:33:21 I'm trying to create the airship
+plane-crazy 2020-11-16 17:33:52 What would be the best length for the wings

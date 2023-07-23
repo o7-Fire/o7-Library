@@ -1,0 +1,4 @@
+The Tale of jam318 (547143614099226626)
+help 2021-02-25 05:46:35 I have a problem with my space shuttle build, the wing control surfaces just don't move with automatic controls they also don't move with set controls I think it is to do with the fact that they are vertical rather then horizontal but that doesn't explain why the control surfaces still don't move when I set the controls myself.
+help 2021-02-25 05:47:09 so is there any way to fix it
+help 2021-02-25 05:47:33 or is my idea just done and there isn't anything i can do to fix it

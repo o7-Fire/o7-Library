@@ -1,0 +1,11 @@
+The Tale of rozr1 (530528785892900885)
+general 2022-12-29 22:00:06 Hello
+help 2022-12-30 02:18:33 Hello, I’m trying to make motor lock angles but once I lock them my angles don’t stay put
+help 2022-12-30 02:21:05 Yes I have those
+help 2022-12-30 02:21:14 Have explosives and they’re working fine
+help 2022-12-30 02:23:06 My custom angles don’t work
+help 2022-12-30 02:23:24 Sure
+help 2022-12-30 02:27:11 
+help 2022-12-30 02:27:43 gimme a sec
+help 2022-12-30 02:31:11 Oh that method worked!
+help 2022-12-30 02:31:34 Thanks I was struggling for the longest time

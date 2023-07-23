@@ -1,0 +1,61 @@
+The Tale of .fuckme (335821535828901901)
+general 2020-04-22 18:29:04 nutcoin
+general 2020-04-22 18:35:58 that's screen space reflections skdhshsvdihdoehfmcpshengojensj
+general 2020-04-22 18:36:33 roblox is very unoptimized though
+general 2020-04-22 18:36:57 my phone runs those kool mirror games but on roblox mobile the resolution is like upscaled 480p
+general 2020-04-23 23:28:04 oh no god why
+general 2020-04-23 23:28:06 game shutting down
+general 2020-05-11 23:52:18 removing outlines means faster updates
+if they remove it, it means no more keeping or updating slower, older code
+general 2020-05-11 23:52:36 i'm not gonna miss outlines
+they looked nice but I hated how if you used blocks of different sizes it looked ugly
+bot-central 2020-05-11 23:53:04 ?shelp
+bot-central 2020-05-11 23:53:11 ?rhelp
+bot-central 2020-05-11 23:53:19 oH
+bot-central 2020-05-11 23:54:29 &suggest Instead of using the custom decal outlines for every build, make it so that it only shows for your build in edit mode.
+general 2020-05-11 23:55:05 for optimization why not just use decals for outlines on your own build in edit mode only to see the blocks better
+general 2020-05-11 23:55:50 ricc
+general 2020-05-11 23:56:02 will decals for outlines be used on all builds in the server
+general 2020-05-11 23:56:59 <@!235207095740268545> its only SmoothNoOutlines, not SmoothWithOutlines
+and that's getting deprecated soon too
+general 2020-05-11 23:58:33 **simple solution**
+show outlines **on your build only,** and **only when its in edit mode**
+general 2020-05-11 23:59:41 oh yeah selection boxes exist and you don't need to use 9-slice fgjosdfgjsdfg magic textures
+general 2020-05-12 00:00:04 no
+general 2020-05-12 00:00:09 darn.
+general 2020-05-12 00:00:23 famous last words
+general 2020-05-12 00:00:30 also famous last words
+general 2020-05-12 00:00:48 `i'll be fine`
+general 2020-05-12 00:02:50 oh yeah with outlines blocks are randomly colored
+so make sure that you randomize colors by a little
+general 2020-05-12 00:03:28 maybe a setting to toggle it?
+general 2020-05-12 00:03:33 it looks nice imo
+general 2020-05-12 00:04:02 maybe do it on load then
+general 2020-05-12 00:05:27 colors are randomized
+general 2020-05-12 00:05:28 example
+general 2020-05-12 00:05:59 its a side-effect of the outlines
+general 2020-05-12 00:06:01 randomized colors
+general 2020-05-12 00:07:19 e
+general 2020-05-12 00:07:30 shadows off
+general 2020-05-12 00:07:33 lighting on compatibility
+general 2020-05-12 00:07:34 its the outlines
+general 2020-05-12 00:11:29 s e l e c t i o n b o x e s
+general 2020-05-12 00:12:57 60 fps
+general 2020-05-12 00:13:01 it does lag when i get close to it though
+general 2020-05-12 00:13:26 but thats 1286 parts all in the same spot
+general 2020-05-12 00:13:31 so in normal gameplay it shouldn't happen
+general 2020-05-12 00:14:37 the only reason it lags is because its 1286 parts in the same 16x16x4 stud space
+general 2020-05-12 00:15:41 super long wedge
+general 2020-05-12 00:16:18 adopt wedges <:Thonk:509498568982134816>
+general 2020-05-12 00:17:37 i wish roblox supported linux
+general 2020-05-12 00:17:43 the only reason i'm not on linux is because of roblox
+general 2020-05-12 00:18:38 if you exist you are a noob
+general 2020-05-13 14:50:46 are speaker blocks locked behind a paywall
+general 2020-05-13 15:23:27 why are speakers 298 robux dngojasrhgonawerohaw
+general 2020-05-13 15:23:47 speakers are 298 robux and there's still a tip jar lmao
+general 2020-05-13 15:24:40 ~~this reminds me of games that will do anything for money~~
+general 2020-05-13 15:24:48 and you can't even close it
+general 2020-05-13 15:25:02 ~~yes~~
+bot-central 2020-06-08 23:48:48 ?whois
+general 2020-07-12 22:20:32 dyno dumb
+general 2020-07-12 22:20:37 ree

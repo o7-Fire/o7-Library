@@ -1,0 +1,120 @@
+The Tale of Blade_Klinge (339550618894991362)
+creations-chat 2018-12-23 02:24:12 This is the Plongeur, my second sub and my second creation in the game. This is something I'm very proud of from how it's balanced, it's a little bow heavy and along with the placement of the the belly thrusters this sub always dives or submerges nose first, but not just that. The way it's balanced along with, again, the placement of the thrusters the ship surfaces almost completely level above water. Another cool thing about this sub is, though I haven't attempted to install them yet, there will be ten rockets installed where you see the grey blocks. Of course they will be installed slightly raised as to not explode in the almost submerged sub. Had a really good time making this.
+creations-chat 2018-12-23 02:25:50 That bot messed up real bad lol
+creations-chat 2018-12-23 02:29:33 
+creations-chat 2018-12-23 02:29:40 
+creations-chat 2018-12-23 02:30:01 
+creations-chat 2018-12-23 02:30:26 Just did thanks a lot
+creations-chat 2018-12-23 02:31:57 Oh cool
+plane-crazy 2018-12-23 04:03:40 Quick question cause I'm not in game, are rockets aimable or do they just go straight in the direction they're pointing?
+plane-crazy 2018-12-23 04:03:54 Thanks
+plane-crazy 2018-12-23 04:05:38 Would you say a submarine filled will horizontal torps op? Like would it be effective in sinking enemy ships?
+plane-crazy 2018-12-23 04:06:45 How the hell do I do that?
+plane-crazy 2018-12-23 04:13:15 Do rockets ever reload?
+plane-crazy 2018-12-23 04:13:43 What's the reload time?
+plane-crazy 2018-12-23 04:13:57 Pretty good
+plane-crazy 2018-12-23 04:17:18 Rockets don't fire underwater right they just up and explode?
+help 2018-12-23 04:21:41 Can rockets fire underwater?
+help 2018-12-23 04:24:16 Also, I can't get in game so I can't answer this myself but, how do rocket reloads work? Do they reload immediately after the rocket fired before has exploded? Or is there a reload time after said rocket exploded or does the reload start immediately after firing a rocket?
+help 2018-12-23 04:25:07 Gotcha
+help 2018-12-23 04:25:27 I get your point, gotcha
+help 2018-12-23 04:25:46 I got ya point- igotchapoint- gotcha
+help 2018-12-23 04:25:56 Thanks
+plane-crazy 2018-12-23 04:32:45 <@205404956759556096> mery chrimas
+help 2018-12-24 20:53:19 Do jet engines work underwater?
+creations-chat 2018-12-24 21:03:03 Will it submerge?
+help 2018-12-24 21:55:23 Go to settings and on the spawn tab select 'water'
+help 2018-12-24 21:55:39 Also, is there anyway to center your builds in your plot?
+help 2018-12-24 21:56:19 Like, if your builds lopsided on one end
+plane-crazy 2018-12-25 02:51:47 The most useless command is /give @s diamond_hoe 1
+help 2018-12-25 22:02:29 What are the requirements for getting the naval captain rank?
+help 2018-12-25 22:07:52 Other than building a sick b0at
+help 2018-12-25 23:01:11 Kms no
+creations-chat 2018-12-26 19:23:20 Requesting rank: Submarine Commander
+creations-chat 2018-12-26 19:23:41 Thanks
+creations-chat 2018-12-26 23:45:17 Fixed version of my weaponized submarine, I found that it's rockets had a hard time launching without risk of blowing the ship up so I just raised them a bit, for breathing space y'know.
+
+With it working properly, I can actually say it's pretty effective as a pvp ship, it can dive and hide from enemy fire whenever it wants and I found that to take down ships aircraft get really close to the ship in order to drop some bombs. So I installed a bunch of vertical rockets to blast them out of the sky, it's pretty fun.
+creations-chat 2018-12-26 23:45:24 
+creations-chat 2018-12-26 23:45:27 
+the-dump 2018-12-29 20:43:06 !rank
+plane-crazy 2018-12-30 23:45:05 Can you use magnets in the same sort of way as motor hinges to make longer stuff?
+plane-crazy 2018-12-30 23:46:09 So no?
+plane-crazy 2019-01-20 13:08:01 Do torpedoes work underwater now?
+plane-crazy 2019-01-20 13:09:32 Torpedoes I meant rockets
+plane-crazy 2019-01-20 13:09:55 Hey
+plane-crazy 2019-01-20 13:11:21 Now that's e🅱️ic
+creations-chat 2019-01-25 14:15:57 Oooo u boot
+creations-chat 2019-01-26 22:46:10 So this is my little anti-aircraft submarine, I tried to make it look nice but I also think it has pretty unique mechanics as well.
+
+So pretty much I went with the bare minimum of downward thrust to push the sub underwater. There's only about 6 rocket engines plus a few jet engines. Because of this if they were centered perfectly so the ship doesn't cavitate while going down, they would barely work and the boat would have a rough time even getting below the surface, but they aren't centered perfectly. They're placed a little closer to the bow so the ship cavitates nose downward when it dives. This is so the stern will be pointed upwards so the boat can use its back thrust to help push the boat to deeper depths. So yeah, it actually has to move in order to dive, like an actual sub.
+
+Also, this boat IS weaponized, as I said it's AA, so it's armaments consist of a line of 7 vertical rockets so when an aircraft gets close I can just blast them out of the sky, works pretty well if you time it right.
+
+The sub is based is on the Polish Orzel class class and the Russian Shchukas class.
+creations-chat 2019-01-26 22:46:19 
+creations-chat 2019-01-26 22:46:26 
+creations-chat 2019-01-26 22:46:33 
+bug-reports 2019-01-27 15:42:31 So i left this one server because my submarine when i spawned it on the water just started flipping all over the place, this hadn't happened before so I looked for some rocket i accidentally placed but there were no visible problems, so i left the server and rejoined and i get this. This awful cluttered mess which used to be my fully functioning submarine which i spent hours on. And nothing about the block count has changed in the save file, but when i load up the file nothing changes.
+bug-reports 2019-01-27 15:45:34 nope
+bug-reports 2019-01-27 15:45:39 still the same
+bug-reports 2019-01-27 15:47:00 its my only save
+bug-reports 2019-01-27 15:47:11 i dont like my old stuff so i delete them
+bug-reports 2019-01-27 17:20:03 It's been a few hours and my sub is still all messed up, is there anything that can be done?
+bug-reports 2019-01-27 18:46:31 When's that?
+bug-reports 2019-01-27 22:03:36 Nope, nothing's happening
+creations-chat 2019-01-29 16:40:34 This is my new little sub, like the previous boat she uses minimal downward thrust just to push her a little below the surface, all the while cavitating her nose downward so the rear thrust can help push the boat to deeper depths. 
+
+Her armaments are pretty minimal due to the limited space and my greater desire to keep the boat clean and beautiful. With those armaments consisting of anti-sub guns at the bow (mounted inside the hull) an anti-ship deck gun, and 2 anti-ship mines which have proved to be the most effective. I'll just sneak up and slip under a surface ship where I'll deploy a mine and they're pretty much done for.
+
+The boat's design was inspired by the Russian Hotel class.
+creations-chat 2019-01-29 16:40:35 
+creations-chat 2019-01-29 16:40:39 
+creations-chat 2019-01-29 18:22:06 Hot
+plane-crazy 2019-01-31 20:30:57 Anybody got photos of some more flush 180 split joints than in the tutorials I could use?
+creations-chat 2019-02-01 21:22:08 <@!340543153922768906> very nice factory my guy
+creations-chat 2019-02-01 21:25:12 Well I like how you not only made it functional but detailed, I liked all the colors that separated everything, it's really good
+plane-crazy 2019-02-01 23:42:56 Said a costa concordia casualty
+plane-crazy 2019-02-01 23:56:30 I don't see it
+creations-chat 2019-02-03 01:41:23 Pointman nice job on the curvature I don't see a lot of people nail it as good as you do
+creations-chat 2019-02-03 02:01:38 this took me about five hours lol, starting the other half tomorrow
+creations-chat 2019-02-03 02:02:00 submarine
+creations-chat 2019-02-03 02:02:10 a replica actually
+creations-chat 2019-02-03 02:04:41 should look something like this in the end
+creations-chat 2019-02-03 16:02:13 👌
+creations-chat 2019-02-03 16:02:51 Tutorial?
+plane-crazy 2019-02-04 03:05:15 Rigors
+plane-crazy 2019-02-04 03:05:28 Kms autocorrect
+plane-crazy 2019-02-04 03:05:30 Well
+plane-crazy 2019-02-04 03:05:33 Yes
+plane-crazy 2019-02-04 23:56:13 lol
+plane-crazy 2019-02-04 23:59:45 Those 24 hours were probably stretched out in 3-4 days
+plane-crazy 2019-02-05 00:00:15 Figors boat probably took 3-5 hours total
+help 2019-02-07 20:30:26 How do you keep together your split joint hull so it doesn't bend under its own weight?
+help 2019-02-07 20:31:42 Like is there some way to lock the two pieces together?
+help 2019-02-07 20:33:25 You're talking to me?
+help 2019-02-07 20:33:54 Elaborate?
+help 2019-02-07 20:34:40 No can you give me an example?
+help 2019-02-07 20:36:39 Uhh
+help 2019-02-07 20:36:48 Oh ok
+help 2019-02-07 20:39:13 again, can anyone tell me how to hold together a split-joint hull such as this?
+help 2019-02-07 21:14:14 Thanks
+help 2019-02-07 21:17:11 Should the magnets be touching each other?
+help 2019-02-07 21:31:53 Like can you or someone else run me down on how they work?
+help 2019-02-07 23:14:50 It says in <#473249376223887371>
+help 2019-02-07 23:14:53 Also thanks
+creations-chat 2019-02-17 19:18:41 Puts my type xxiii to shame
+creations-chat 2019-03-02 19:26:52 <@!308156968550268928> Thomas the ballistic missile submarine?
+creations-chat 2019-03-03 22:28:30 <@!300074782328750080> G?
+creations-chat 2019-03-04 00:10:55 <@!300074782328750080> ikr
+creations-chat 2019-03-04 00:11:28 Blade_Klinge
+help 2019-03-05 21:21:33 What are the uses for the anchored block, paint block and 0.9 block?
+help 2019-03-05 23:05:26 What are anchored blocks, paint blocks and the 0.9 block for?
+help 2019-03-05 23:07:03 Define anchoring
+help 2019-03-05 23:07:28 Alright
+help 2019-03-06 01:48:32 ok thanks a lot
+creations-chat 2019-03-06 01:49:16 look i made a dolphin
+creations-chat 2019-03-06 21:41:15 Putting rockets upward actually makes for some decent AA, I popped a bunch in a straight line on my submarines and they were pretty successful
+creations-chat 2019-03-07 23:07:53 Help he stole my meme
+creations-chat 2019-03-07 23:08:18 Jk
+plane-crazy 2019-03-30 03:48:54 <@!335599526414909451> stuf

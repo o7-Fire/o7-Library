@@ -1,0 +1,3 @@
+The Tale of draconix_1 (688192602713096251)
+bug-reports 2023-07-07 04:24:41 i get kicked if i place down a pyramid wedge
+bug-reports 2023-07-07 04:28:13 if i place a pyramid wedge on top of another pyramid wedge with the pointy side facing down i get kicked

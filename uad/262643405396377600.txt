@@ -1,0 +1,7 @@
+The Tale of arcticstreak (262643405396377600)
+creations-chat 2019-03-05 04:22:12 My missile launcher thingy. Fun to shoot them at people...(then get blacklisted)
+bug-reports 2019-04-11 17:06:35 https://gyazo.com/fc35fbaaf09789f37eaede726e24f177 Fix the block placing bug PLEASE
+bug-reports 2019-04-11 17:07:02 https://gyazo.com/865c46025773ad08c7227a523205c0aa Im tryna make something big...
+bug-reports 2019-04-11 17:12:51 You didnt need to add that last bit but rotating does nothing
+bug-reports 2019-04-11 17:42:18 thats not what was happening
+bug-reports 2019-04-11 17:42:53 The block was inplace for it to placed and it wouldnt becuase it acts like theres it another block in the way even though there isnt

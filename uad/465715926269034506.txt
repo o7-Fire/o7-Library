@@ -1,0 +1,110 @@
+The Tale of bound1234587 (465715926269034506)
+bug-reports 2020-03-28 07:08:42 I’m on mobile
+bug-reports 2020-03-28 07:09:11 I’ve been trying to stop my car from steering but it continues steering even though it is disabled
+bug-reports 2020-03-28 07:10:21 If I am mistaken please tell me, and what my issue is.
+bot-central 2020-03-28 07:14:10 What is this place for?
+bot-central 2020-03-28 07:14:24 Ok
+bug-reports 2020-03-30 20:12:57 Rickje did you find out if the wheel steering was a problem?
+general 2020-07-07 02:35:23 What does the friction block do.?
+general 2020-07-07 02:36:07 I need to know
+general 2020-07-07 02:36:28 Ik
+general 2020-07-07 05:31:11 Does the ballast block work?
+bug-reports 2020-07-07 05:35:07 I have 2 bugs. The first one is that sometimes for no reason some blocks disappear and I can’t delete them. My second one is that the ballast block won’t count the weight as weight when I change it. I don’t know if all of this is just happening to me.
+general 2020-07-07 05:48:12 <:thoink:657279634563399720>
+bug-reports 2020-07-08 02:53:45 <@670939038999511041>  What do I spawn and despawn?
+bug-reports 2020-07-09 17:43:13 <@670939038999511041> I still dont understand. How do I delete the blocks?> yesterday i had this bug in a strange way tho, it was a place where i never placed a block and spawning and despawnign didnt help. turned out, i had to place the block from a certain angle on the block below
+<@670939038999511041> I still dont understand. How do I delete the blocks? You had to place the block from a certain angle on the block below in order for what to happen?
+general 2020-12-31 23:22:50 what unfortunate timing
+general 2021-01-03 04:02:35 What's the tallest you can build
+general 2021-01-03 04:03:56 What are the dimensions of our plots
+bug-reports 2021-01-10 05:30:50 I'm not sure if this is a bug or not but I assume it is, so when on larger builds fly, usually it says it's going faster than it really is. For instance, I have a 3000 block build that flies and it says it's going 550 speed but it sure isn't.
+bug-reports 2021-01-10 05:35:10 Oh
+bug-reports 2021-01-12 04:05:38 So when I’m using rockets to turn my build on mobile, there are 10 in the back on the wing that don’t work in the air for some reason, even though they work on the ground. I don’t know if this is a cause of using 500 super rockets because it is a big build, but they just stop working. Only the ones in the back of the plane.
+bug-reports 2021-01-12 04:06:19 I’m not sure if this is for pc too
+bug-reports 2021-01-12 04:12:55 That’s odd
+bug-reports 2021-01-12 04:13:02 It is working now
+bug-reports 2021-01-12 04:13:06 But it wasn’t before
+bug-reports 2021-01-12 04:54:44 Yea it isn’t working again. I think it might be under certain circumstances. Maybe it doesn’t work when I press multiple keys at once
+general 2021-01-30 19:40:45 is plane crazy always slow on mobilr
+general 2021-02-13 19:59:30 Imagine motor 2 on mobile
+general 2021-02-17 00:28:51 I'm having a problem with my plane moving very slow on mobile
+general 2021-02-17 00:29:13 Usually it's because of loose blocks
+general 2021-02-17 00:29:40 But I got rid of them
+general 2021-02-17 00:29:48 And it's still slow
+bug-reports 2021-02-17 00:37:06 This probably isn't a bug but whatever, it's just waiting time. So whenever there are loose blocks in my planes on mobile, the plane goes really slow even though it says it's moving faster than it is. And I have another plane that is like that and it doesn't even have any loose blocks.
+bug-reports 2021-02-17 01:11:13 Is this fixable while keeping the same size?
+bug-reports 2021-02-17 01:12:11 Perhaps is using 1x7 better than 1x1 or is it just overall size?
+bug-reports 2021-02-17 01:13:07 Or is using half blocks better?
+bug-reports 2021-02-17 01:42:33 Aight
+general 2021-02-26 04:32:59 do gyrostabilizers actually work
+general 2021-02-26 04:33:34 guess you'll never know
+general 2021-02-26 04:33:45 you dont know
+general 2021-02-26 04:34:01 my internet baddd
+general 2021-02-26 04:34:22 10kb/s
+general 2021-02-26 04:35:35 offense taken
+general 2021-02-26 04:39:22 thats some skill
+general 2021-02-26 04:39:57 wha
+general 2021-03-27 22:07:32 Heh
+general 2022-01-30 00:26:29 HOW DO I STOP MY SHIP FROM TIPPING TO ONE SIDE
+general 2022-01-30 01:38:31 why wont my motor 2 move
+general 2022-01-30 01:39:06 huh
+general 2022-01-31 23:07:35 bruh how do i make my ship look like its sinking ( like the titanic )
+general 2022-01-31 23:08:19 yeah im using ballast blocks bbut it only sinks like 5 blocks and i used like 50 of them
+general 2022-01-31 23:08:45 yeah i meant ballast tanks
+general 2022-01-31 23:09:00 good thinking
+general 2022-01-31 23:09:19 hmm but what if i just want to use the ship normally
+general 2022-01-31 23:10:09 ok so ballast tanks both side and helium one side
+general 2022-01-31 23:10:50 i wish there was a trigger for the helium
+general 2022-01-31 23:13:09 no its plastic
+general 2022-01-31 23:13:37 alright ill test that out
+general 2022-01-31 23:14:07 hmm ill test them out
+general 2022-01-31 23:20:48 omg its sinking like the titanic now all i gotta do is line the edges with explosives for effects of splitting
+general 2022-01-31 23:51:51 bruh i wish the water was deeper
+general 2022-01-31 23:52:33 actually?
+general 2022-01-31 23:53:00 im assuming in pc2?
+general 2022-01-31 23:53:44 oh crap
+general 2022-01-31 23:54:17 sorry
+plane-crazy 2022-10-02 02:44:02 are my motor 2s bugging out because there are motor locks on them
+plane-crazy 2022-10-02 02:46:11 what do i do to stop that or do i get rid of the motor 2
+plane-crazy 2022-10-02 02:55:42 so i should use a motor
+plane-crazy 2022-11-17 05:02:03 hey can someone tell me why my plane doesnt want to take off the runway until i get past it?
+plane-crazy 2022-11-17 05:03:35 okay, then why when im flying it it has extreme lift? its just confusing
+plane-crazy 2022-11-17 05:03:59 sure
+plane-crazy 2022-11-17 05:04:28 
+plane-crazy 2022-11-17 05:04:58 
+plane-crazy 2022-11-17 05:05:43 whats the elevator?
+plane-crazy 2022-11-17 05:06:10 so the problem is...
+plane-crazy 2022-11-17 05:06:47 yeah
+plane-crazy 2022-11-17 05:07:24 
+plane-crazy 2022-11-17 05:07:51 in the air i turn it with my cursor
+plane-crazy 2022-11-17 05:08:32 well my plane feels stuck to the ground
+plane-crazy 2022-11-17 05:08:50 i dont
+plane-crazy 2022-11-17 05:09:47 sorry i dont understand what you mean by taxi to runway
+plane-crazy 2022-11-17 05:10:16 okay ill try that
+plane-crazy 2022-11-17 05:10:42 wait i already have a helium beam in the front
+plane-crazy 2022-11-17 05:12:00 well i added 2 helium blocks and now it just floats in the front
+plane-crazy 2022-11-17 05:12:09 ill try one
+plane-crazy 2022-11-17 05:12:46 well it still feels forced to the ground
+plane-crazy 2022-11-17 05:13:02 when its off the ground it flies fine
+plane-crazy 2022-11-17 05:15:35 it might be too much lift in the front bit i need more lift so why
+plane-crazy 2022-11-17 05:25:15 it looks pretty good
+plane-crazy 2022-11-17 05:25:33 only thing is the propeller in the back looks unusual
+plane-crazy 2022-11-17 05:52:40 from spawn
+plane-crazy 2023-04-16 21:41:27 how do i make this massive thing actually turn
+plane-crazy 2023-04-16 21:50:36 nah man already tried
+plane-crazy 2023-04-16 21:52:02 i have 3 layers of control panels motor locked into the planes wings
+plane-crazy 2023-04-16 21:52:27 hold on
+plane-crazy 2023-04-16 21:52:59 
+plane-crazy 2023-04-16 22:09:00 whats m2m?
+plane-crazy 2023-04-16 22:09:34 with motor 2?
+plane-crazy 2023-04-16 22:09:58 okay, i have them but they arent strong enough to turn it
+plane-crazy 2023-04-16 22:10:05 it can go up and down though
+plane-crazy 2023-04-16 23:24:38 im pretty sure i did
+plane-crazy 2023-04-16 23:25:53 alr
+plane-crazy 2023-04-16 23:26:36 bigger? how am i supposed to do that without changing everything?
+plane-crazy 2023-04-16 23:27:32 okay...
+plane-crazy 2023-04-16 23:27:58 sounds like a lot of work, and im not willing to do that rn
+plane-crazy 2023-04-17 21:08:13 yes, ice makes less friction, and fabric adds friction
+plane-crazy 2023-04-23 00:49:19 should i have this many layers of wing panels?
+plane-crazy 2023-04-23 00:50:00 i feel like it really lags my game and idk if its even necessary
+general 2023-07-07 03:54:13 this aint real

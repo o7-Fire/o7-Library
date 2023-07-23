@@ -1,0 +1,29 @@
+The Tale of likeablesea7 (737173352791277579)
+help 2021-02-25 20:21:26 So I'm making my first helicopter and I need some tips on stopping they plane from spinning, any help would be appreciated.
+help 2021-02-25 20:24:53 yes I tried that but i couldn't get the tail roater to spin fast enough to completely counter the spin of the helicopter
+help 2021-02-25 20:26:01 ok I'll try that, thx for the help
+help 2021-02-25 22:21:23 i want to make it as close to the real thing as much as possible so i can use rockets
+help 2021-02-25 23:47:06 yea but there is another problem, the AH-64 Apache has the back roater very high up, and if i use it to counter the spin of the main roater blade then the heli will tilt sideways and fall
+help 2021-02-25 23:50:42 after looking at a real picture i noticed the man roter was tilted forwards, so all i had to do was tilt the main roter 13 degrees forwards and now it fly's fine.
+help 2021-02-25 23:51:47 im trying to make it realistic so i cant add anything other than what the actaul heli has
+help 2021-02-25 23:53:20 its hard but possible
+help 2021-02-25 23:53:45 ive finished all the technical stuff, all i have to do now is add extra details
+help 2021-02-26 00:03:34 It look good so far
+help 2021-02-26 00:03:39 
+help 2021-02-26 00:03:42 
+bot-central 2021-02-26 00:08:14 !rank
+bot-central 2021-02-26 00:08:28 ):
+help 2021-03-04 21:09:20 is there any way to fix a corrupted save file?
+help 2021-03-04 21:09:41 i just got one of my files completely broken
+help 2021-03-04 21:09:52 missing blocks everywhere
+help 2021-06-22 05:41:31 How do i post screenshots to the creations channel if there is no + symbol, is there another way?
+help 2021-06-22 05:43:02 ok
+help 2021-06-22 05:43:36 ill just talk in the  creation feedback section i guess
+help 2021-06-22 05:43:55 gotcha
+bot-central 2021-06-22 05:44:29 !rank
+bot-central 2021-06-22 06:34:24 !servers
+bot-central 2021-06-22 06:34:34 ):
+creations-chat 2021-06-22 07:29:35 currently working on halo 5 warthog, before painting is there anything i should add or remove, maybe too much detail?
+creations-chat 2021-06-22 07:50:06 is there any way to make them bigger? i used 5x5 cilinder blocks, if i make them custom it wont drive as good.
+creations-chat 2021-06-22 07:52:11 ill try to figure something out thank you!
+creations-chat 2023-01-24 08:07:22 WIP Boeing C17, progress so far...

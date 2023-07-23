@@ -1,0 +1,210 @@
+The Tale of fixup1118118 (614759148952879114)
+help 2020-06-22 03:39:09 I have quite a large jet/space ship/whatever it is that can turn but very badly it can go up and down fine and stay in the air its just i dont know how to improve the turning any suggestions? (Yes i know it looks very confusing)
+help 2020-06-22 03:39:21 
+help 2020-06-22 03:39:53 as you can see i have literally spammed control surface under the ship and even that doesnt give it good turning
+help 2020-06-22 06:39:23 so do i just get rid of a ton of wings and control surface? If so where about on the plane? <@!608204785384030208>
+help 2020-06-22 06:48:24 normal is boring
+help 2020-06-22 06:49:50 I figured a way to turn it better with thrusters on the sides it just needs some edits to make turning just slightly better
+help 2020-06-22 06:51:35 its not really for pvp purposes its more cosmetic but i would like it to at least fly to a normal standard
+help 2020-06-22 06:52:32 altered it abit and took some wings off
+help 2020-06-22 06:52:36 
+help 2020-06-22 06:52:50 
+help 2020-06-22 06:53:44 ignore the bottom it will be able to take off with some wheels when its fully done this is the version without the side thrusters
+help 2020-06-22 06:53:59 experimenting with it
+help 2020-06-22 07:08:10 Ah ok i made it much better with the side thrusters to turn it i just had to turn on toggle on/off mode so it doest keep going that direction with some more of them i can have even faster turns. Its quite nice it allows larger builds like this which are usually harder to handle much easier
+help 2020-06-23 14:48:16 Hey just wondering what is the difference between the paint block the 0.9 block to the normal block?
+creations-chat 2020-06-23 14:50:37 add half wedges to front part where its flat and make a rotatable mini machine gun on the top of the turret  <@!565165316116578324>
+help 2020-06-23 14:51:16 Oh thats kinda cool im guessing the 0.9 block is slightly lighter than the normal block?
+help 2020-06-23 14:53:15 thats kinda funky
+creations-chat 2020-06-23 15:16:44 The front defo looks better more curved but the LMG on top should be made different it kinda just looks like a flat slab
+creations-chat 2020-06-23 15:17:27 yea try make it more LMG looking <@!565165316116578324>
+creations-chat 2020-06-23 15:17:51 But the front does look more curved now which is nice <@!565165316116578324>
+creations-chat 2020-06-23 15:18:42 You guys talking about my pfp lol <@!433617207734304778> <@456226577798135808>
+creations-chat 2020-06-23 15:19:12 yea i know its a meme lol xD
+creations-chat 2020-06-23 15:19:50 Its not meant to be taken seriously no one normal believes in anarcho nazbol as a idealogy
+help 2020-06-23 19:52:24 Im wanting to make a space ship that only uses thrusters to fly, anything i should know or do when making it?
+help 2020-06-23 23:00:15 Can someone tell me how i can make this vtol or move with only thrusters? (ignore paint job its not done yet)
+help 2020-06-23 23:00:57 i have the room i just have no idea how to make vtol or make thruster only planes
+help 2020-06-23 23:02:04 Yes my ideology is very epic and quirky
+help 2020-06-23 23:02:33 Its in my name lol xD
+help 2020-06-23 23:03:07 So i can add a ton of thrusters but how do i keep it balanced and always in the air floating balanced? <@!609198621526589450>
+help 2020-06-23 23:03:55 If you dont have an extreme ideology in 2020 then u aren't cool and aren't unique lol
+help 2020-06-23 23:08:22 Why are the keybinds different from the E thrusters at the front? <@!609198621526589450>
+help 2020-06-24 01:18:24 ok ill try it out see if it works <@!597460948248428555>
+help 2020-06-24 01:24:21 What do i keybind each corner of thrusters to? <@!597460948248428555>
+help 2020-06-24 01:24:36 or motors i mean
+creations-chat 2020-06-24 04:49:07 Anyone got any advice? Ive made a very large spaceship but no matter what i do i cant fly it properly. I tried using thrusters to move which no matter where or how many i placed the spaceship would become unstable and just nose dive and then i tried wings and flight which kinda worked but very badly  and it would glide out of control sometimes mid air
+creations-chat 2020-06-24 04:50:23 Yea see the yellow centre of of mass is dead centre
+creations-chat 2020-06-24 04:50:35 What are ballast used for again?
+creations-chat 2020-06-24 04:51:08 Do you think its the rings around it thats throwing it off?
+creations-chat 2020-06-24 04:52:01 Ive tried using thrusters to fly it it just ascends then instantly nose dives
+creations-chat 2020-06-24 04:55:07 when i had thrusters only i didnt no
+creations-chat 2020-06-24 04:55:22 should i place lots of wings around?
+creations-chat 2020-06-24 04:55:39 Does it matter where i place it?
+creations-chat 2020-06-24 04:56:07 ok ill just slap it inside then
+creations-chat 2020-06-24 04:56:36 Should i place any helium to go with it?
+creations-chat 2020-06-24 04:56:59 I did try that
+creations-chat 2020-06-24 04:57:03 With thrusters
+creations-chat 2020-06-24 04:57:26 The wings with thrusters is the only thing i havent done
+help 2020-06-24 19:13:51 Anyone know why when going at speeds of around 500-600 it takes awhile for now chunks to load in as im flying? Its kinda stopping me from seeing where im going and PVPing
+help 2020-06-24 19:31:40 Oh ok ty <@!308156968550268928>
+help 2020-06-24 19:32:27 It doesnt let me change it, is that because the devs have locked it? <@!308156968550268928>
+help 2020-06-24 19:34:38 Ok ty completely forgot about graphics tbh
+help 2020-06-25 15:20:20 So im the middle of building a space ship but i i dont know how to build very good turrets to put on it. I got one on but i dont like it. Does anyone have any unique or cool looking turrets i could fit on at least 2 turrets? I will also be make 2 long railguns at the front of the ship
+help 2020-06-25 21:56:07 Why does my turret i made shake and wobble left and right like its having a fit?
+help 2020-06-25 21:58:07 Thought so because i done motors to move all directions but as soon as i add motors on to spin the guns to get a spread they suddenly spaz out ive done it before and had no issues
+creations-chat 2020-06-26 00:45:51 Grey and red for this spaceship im making or dark green and red?
+help 2020-06-26 02:55:30 So dont allow that meme symbol because liberals be triggered RRREEEEEEE. So i got this normal one
+help 2020-06-26 02:56:43 > "Change it, you have x minutes before you're kicked"
+<@!195253906333368320> Kinda hard to see a message in 2 minutes when you were not even pinged xD
+help 2020-06-26 03:11:10 I got messaged in dms directly not from here
+help 2020-06-27 15:43:33 Can you use conveyor drives or magnet drives to turn a spaceship using thrusters tu turn left and right so the conveyor drive will act as the side thrusters?
+help 2020-06-27 15:56:00 Well if you change the speed of it so its much slower and dont worry about space because it has to move a 4.3k block spaceship so it will need to be strong to move anyways and i got plenty of space <@!213233227979161601>
+help 2020-06-27 16:01:59 Im going to try it and if it works it could be the new meta for large spaceship type builds lol
+help 2020-06-27 18:13:00 How can i make a top hatch door for a roof so my missiles can shoot out?
+help 2020-06-27 18:14:55 I know but its kinda hard to use them without connecting blocks to the rest of the roof
+help 2020-06-27 18:17:03 Nvm i found a way well kinda
+help 2020-06-27 23:45:26 Why cant i mouse control missiles i put on my spaceship?
+creations-chat 2020-06-28 00:51:31 Hey so im trying to get 2 missiles to fly in the same direction and turn together but every time i launch two at the same time with the same keybinds and stuff they split in different directions, is it possible to launch 2 missiles in sync with eachother?
+creations-chat 2020-06-28 00:53:25 So its all about finding what buttons to press as soon as they launch or do i change keybinds on one? <@!724461096349728824>
+creations-chat 2020-06-28 00:56:51 I mean it looks cool and would make it easier to hit my target with multiple launching at once
+creations-chat 2020-06-28 00:57:04 Plus i wanna make a katyusha with it lol
+creations-chat 2020-06-28 01:00:02 So what do i need to do change keybinds or do i press certain buttons to get them to launch in sync with eachother? <@!724461096349728824>
+help 2020-06-28 04:11:27 What happens if you go over the save data limit?
+help 2020-06-28 23:47:28 I wanna make a magnet railgun that shoots explosive balls but im not sure how to add a effective magazine to load them in so it wont jam any ideas on what to use or do?
+help 2020-06-29 00:04:35 So i cant make it going upwards as i plan to put this on under my spaceship as its main capital ship weapon, so i have to make a side magazine. What do you mean by a hper? <@!367588891777171466>
+help 2020-06-29 00:07:50 I see could conveyors possibly work as they are meant to move stuff along?
+help 2020-06-29 00:13:12 So group up up some explosives and disconnect them when they are ready to be loaded is that what you mean?
+help 2020-06-29 00:17:16 Oh i get u and just put them all in the barrel but because they are bunched no need for big magazine
+help 2020-06-29 00:17:51 See i know about it i just dont know how to do that so i may look up a video then do that sounds smart
+help 2020-06-29 00:18:59 Do u bunch them up inside the barrel or inside a small magazine?
+help 2020-06-29 00:20:22 Thanks for info btw appreciate it <@!367588891777171466>
+help 2020-06-29 02:11:25 What does impact speed on explosive blocks do exactly?
+help 2020-06-29 02:18:39 So if im launching explosives out of a cannon at high speeds is it a good idea to put impact speed to 0 to avoid it blowing up as soon as its fired? <@!310583696841375744>
+help 2020-06-29 02:20:36 Or max impact speed i mean
+help 2020-06-29 02:30:26 No its that i dont want them to explode at a certain speed thats why i asked what is impact speed. I only want them to explode when they hit something
+help 2020-06-29 02:30:44 At fastish speed
+help 2020-06-29 02:34:14 So does that mean it would instantly explode in my barrels?
+help 2020-06-29 02:35:22 Hmm how about if i put on arm on key and arm they as soon as the shots are mid air
+help 2020-06-29 02:37:39 Damn your right and im already running out of keys lol i have keys for multiple folds, conveyor drives thrusters from all sides, multiples guided missiles lol and now this looks like ima be using my entire keyboard lol
+help 2020-06-29 02:39:55 Wait it says explode on impact but the tnt doesnt really impact anything in the barrel so wouldnt that mean it might be alright?
+creations-chat 2020-06-29 03:48:32 When u press a button for a simple piston 2 move and ur 5500 block spaceship is flung across the map following a roblox crash reporter xD
+creations-chat 2020-06-29 03:49:38 Omega oof
+bug-reports 2020-06-29 03:52:46 Dont know if its the fact i had a large build out or not but i press a button to move 2 pistons up at normal speeds thats simply it and it flung my spaceship at mega speeds across the map and then crashed xD
+creations-chat 2020-06-29 03:55:39 First time for me literally just moved 2 pistons up lol
+help 2020-06-29 14:56:04 My turret is shaking uncontrollably any idea on how to fix?
+help 2020-06-29 14:58:46 And yes i tried setting motors torque to max
+creations-chat 2020-06-29 15:22:03 The trick to hitting small fast planes better is to use motors to spin the guns this gives it spread and the higher the speed of the motors the larger the spread of the guns <@!291956715749113868>
+creations-chat 2020-06-29 15:23:37 Well if its only 1 gun on a turret then not much point to spin it
+creations-chat 2020-06-29 15:24:25 Plus its easy its literally just 1 motor that spins when u shoot ur guns its not going to make the sentry or turret much bigger
+help 2020-06-29 15:36:02 Oh is that why it wobbles and sometimes they glitch out the mags?
+help 2020-06-29 15:36:55 Ok ill try that see if it stops the wobble and glitching explosive balls out of it
+help 2020-06-29 15:37:36 I cant really center the motor up top as its got no middle block
+help 2020-06-29 15:38:25 Is that causing it to wobble?
+help 2020-06-29 15:39:06 Ok ill try that
+help 2020-06-29 15:40:14 Wait i dont have to rebuild the entire right side of the railgun do i? <@!586658356907999242>
+help 2020-06-29 18:54:51 Ok so yesterday my missiles launched fine but now when i launch them i cant control them and i dont remember disconnectors sticking parts of it to the thing you are disconnecting and ive tried disconnecting it from both sides when you disconnect it
+help 2020-06-29 18:56:05 Yea i agree
+help 2020-06-29 18:56:30 Things that worked fine before are now working much worse than when i first made it
+help 2020-06-29 18:57:08 Like why are disconnectors sticking to my missiles lol i dont remember that ever happening now its throwing the balance of weight off on them
+creations-chat 2020-06-29 20:22:43 Anyone know the best methods to create the most effective armour against explosives? Like reactive armour
+creations-chat 2020-06-29 20:24:46 True but they are other methods to armour than that surely
+creations-chat 2020-06-29 20:25:27 I was about to say spaced armour lol
+creations-chat 2020-06-29 20:25:37 How do u use ladders for spaced armour?
+creations-chat 2020-06-29 20:26:25 How big is the explosion radius of a rocket?
+creations-chat 2020-06-29 20:27:13 Ok great and as for cutters not much to counter that aprt from keeping your distance and shoot all your guns and hope you kill it before it catches you
+general 2021-06-25 23:57:52 I forgot how do you go in pvp mode
+help 2021-07-07 20:35:42 Anyone know how to fix turret wobble with motors sometimes when i make turrets they wobble left and right for some reason
+help 2021-07-07 20:45:46 Ok ty ill try that
+help 2021-07-07 21:01:38 It still didnt work maybe because i am using some motor locks for it could that be why?
+help 2021-07-09 00:29:30 Hey guys so im trying to do a frontal ram slope like from this image here however its very hard even with the 2 round wedges available i havent found a way to make that very nice perfect slope it has any ideas?
+help 2021-07-09 01:59:04 Sorry late response its just a warhammer 40k imperium spaceship many of the imperium ships have a sloped ram on the front like that one i showed
+help 2021-07-09 12:06:44 Im in the middle of building a new spaceship its not done yet and i need opinions on whether i should keep the pillars you see on the walkway or should i close the walk way in and have some catherdal windows go across the walk way
+help 2021-07-09 12:09:14 No its jus the front kinda looks like the sloped triangle you see on the infinity thats all
+help 2021-07-09 12:10:16 It has pillars why would you think its a halo ship lol xD
+help 2021-07-09 12:10:34 aH
+help 2021-07-09 12:11:49 Im not one for copying existing vehicles i just like to take parts from them that i like and get ideas and then add them to my own build kinda like how i took the infinity sloped triangle front and applied it to my build
+help 2021-07-09 12:12:30 How close are you done with urs?
+help 2021-07-09 12:14:14 Im running out of steam on mine lol its 10k blocks big and i still got to add a few more details, add turrets, make sure it flies well then put a camo and decals on...
+help 2021-07-09 12:14:34 Cya
+general 2021-07-12 11:18:40 Does ur own lava spitters do damage to you?
+general 2021-07-12 11:19:05 Oh that depressing oh well...
+general 2021-07-12 11:19:26 Oh good then
+creations-chat 2021-07-14 08:35:14 Lol thanks but, BLOOD FOR THE BLOOD GOD, SKULLS FOR THE SKULL THRONE!
+help 2021-07-14 09:06:02 What does apply at center option on helium do? Ive never used that option
+creations-chat 2021-07-14 12:46:45 Someone give me the will to live because i have nearly lost it lol ive spent the last 3 or 4 hours trying to make this thing fly properly and all it could really do so far is go foward and backwards very fast and just float upwards barley lol i think ive bit off more than i can chew i made a 9k build fly well but this one is a monster to control https://discord.com/channels/384021699466756103/384025409945337856/864662411747000330
+creations-chat 2021-07-14 12:52:08 I dont use gravity slider because i consider it cheating. im sure i can make it fly i just need to hit the spot
+creations-chat 2021-07-14 12:54:11 Thanks also about the interior that will be a hard one since im sure by the time i got this thing to fly the entire insides will just be thrusters and helium LMAO
+creations-chat 2021-07-14 12:57:04 It may lag everyone else but the lag dont bother my 3080. I will fill the entire insides thrusters and helium if i have to i  want to see this thing fly gracefully through the skies and then wipe out entire servers with lag as well xD
+creations-chat 2021-07-14 13:00:53 https://tenor.com/view/warhammer-40k-exterminatus-explode-gif-16225998
+creations-chat 2021-07-14 13:51:35 Im confused what? Yes it defo crashes people thats for sure lol xD
+creations-chat 2021-07-14 13:54:40 You thought 14k blocks was laggy enough as it is. Its only started increasing because ive been putting stuff inside to make it fly lol
+creations-chat 2021-07-14 15:42:42 Wow im almost at 100 upvotes on my spaceship thanks guys 👌
+creations-chat 2021-07-14 15:47:23 Yea i will soon, but what are the rules for applying for hall of fame as well im interested to see if i can reach that stage which i probs wont but hey gotta try get something for all the blood sweat and tears of making this lol xD
+creations-chat 2021-07-14 15:51:34 Oh so im already nearly at 100 score thats great i might cross my fingers and wait before i do application for higher rank to try apply for HOF as well
+creations-chat 2021-07-14 17:01:51 Improving and perfecting something even as big as this is never a bad thing xD
+bot-central 2021-07-14 17:06:52 !rank
+creations-chat 2021-07-15 14:58:45 Im working on a new spaceship and started recently i built a ram front need ur guys opinion what do you think of it? (It will obviously look better once coloured properly and such)
+creations-chat 2021-07-15 15:01:25 
+help 2021-07-15 16:38:34 I dont understand this, im currently camera folding yet they is a slight crack in the fold somehow and its really annoying any idea on how to fix it or what might cause it?
+help 2021-07-15 16:39:20 The measurements are all good it should connect fine btw
+help 2021-07-15 16:39:43 Why does camera locking tend to do that
+help 2021-07-15 16:40:26 Yea its first time doing camera folding rather than normal so it prob is it
+help 2021-07-15 16:40:37 Its not off its correct
+help 2021-07-15 16:42:12 Yea sure 1 sec
+help 2021-07-15 16:44:11 Damn i got an issue with my ctrl v not working lemme restart n ill send
+help 2021-07-15 16:47:32 
+help 2021-07-15 16:47:58 
+help 2021-07-15 16:49:17 Right ok ill try that
+help 2021-07-15 16:54:40 I done it but still no luck
+help 2021-07-15 16:57:10 Damn it my ctrl v just stopped working again but it looks exactly like ur image
+help 2021-07-15 16:58:07 Same as my name in this discord
+creations-chat 2021-07-15 23:00:29 No where near done yet but thoughts so far?
+creations-chat 2021-07-15 23:02:35 Well i know that right now it is because i havent started adding the details to the ship that will add more shape to it but apart from that? Also heres the front probs fav part about the ship being the ram
+creations-chat 2021-07-15 23:04:37 I dont start painting properly and doing the paintjob till the thing is fully done so its easier for me to build i do it for every build i do. They will be some gold accents and maybe some white with it once i start the painting process
+creations-chat 2021-07-15 23:10:01 Nvm... it will all come together once i do the details and colour you guys probably cant see the shape properly from the photo alone
+help 2021-07-18 00:02:43 Anyone have a good way to stabilise a ship so that it doesnt tilt left or right? My spaceship is almost good on stability of flying its just after abit it tends to tilt to the left or right by itself
+help 2021-07-18 00:03:41 They arent any wings its a spaceship so try keep some helium on the right and left sides?
+help 2021-07-18 00:04:00 Yes
+help 2021-07-18 00:05:29 Its doing that thing where i cant copy or paste again lemme restart a sec to fix
+help 2021-07-18 00:09:26 here it is
+help 2021-07-18 00:10:41 I can if u want
+help 2021-07-18 00:11:08 
+help 2021-07-18 00:11:46 Should i put wing panels also on the sides?
+help 2021-07-18 00:12:05 Ok ill try it see how it goes
+help 2021-07-18 00:20:23 Ok so its slightly better however im not sure if this might be the reason but i havent added the foward or backwards thrust as of yet maybe its because im not moving forward or backward constantly its making it over time slowly tilt rather than going forwards if you get what i mean
+help 2021-07-18 00:22:56 The side thrusters that turn the ship and fowards and backwards thrust havent been added yet because i like to test each by themselves before i do the next
+help 2021-07-18 00:23:36 The only thing that i added for side thrusters is some thrusters equal on both sides that are constantly on in hopes to try stabilise with them
+help 2021-07-18 00:24:59 Yea but i had the issue even before i added them as well thats why i added them
+help 2021-07-18 00:25:26 I didnt notice a huge difference with them added anyways tbh
+help 2021-07-18 00:26:05 Atleast the wing panels and helium did make a slight improvement though not huge but something
+help 2021-07-18 00:28:53 Like what it does is it floats upwards and backwards but near straight and stable for a good bit then out of no where it starts tilting to one side
+help 2021-07-18 00:29:29 I think i might just need to added the other thrusters to fix it maybe
+help 2021-07-18 01:14:30 So cover the entire floor with wing panels?
+help 2021-07-18 01:15:04 Also i havent really messed with ballasts before how many should i be placeing and what settings?
+help 2021-07-18 16:26:49 Anyone know why a conveyor engine when using to go forward to pushes it forward but also upwards as well?
+help 2021-07-18 16:27:03 It works on my other spaceship good but not for my new one
+help 2021-07-18 16:43:31 Yea i use the exact same thing perfectly fine around about the same area of my spaceship as my new one and its fine but this new one just likes to do flips with it
+help 2021-07-18 16:44:39 I have no clue but its really bugging me because i really dont wanna spam 200 super rockets just to get a little speed lol
+help 2021-07-18 16:45:42 I even tried putting one up top and bottom see if it was because it was at the bottom of the ship that did nothing
+help 2021-07-18 16:46:13 No im just trying to go forwards and backwards
+help 2021-07-18 16:46:31 It goes fowards slightly then goes directly up and does flips
+help 2021-07-18 16:47:37 I wish i was a pro at this lol im only good at making stuff look good and armouring stuff
+help 2021-07-18 16:48:40 So one end of my ship has a higher point than the other
+help 2021-07-18 16:49:19 Back end has a higher point than the front
+help 2021-07-18 16:50:10 I fixed another issue i had yesterday with it tilting because i didnt have the wing panels on the back at the higher point along with helium
+help 2021-07-18 16:50:47 I have some ballsats equally spread in the middle of the ship one line i could try add more upfront
+help 2021-07-18 16:52:56 I have no clue how i can go from making a very stable huge build that flies well to a smaller build that looks easier to control but doesnt
+help 2021-07-18 16:53:39 ok ima test the weight on front
+help 2021-07-18 16:54:51 Yea no still same result and i added about 5 beams of it at 5 weight
+help 2021-07-18 16:55:40 Got a feeling it might be wing panel related again tbh
+help 2021-07-18 16:55:56 45
+help 2021-07-18 16:56:11 You mean for like angle flaps with motors?
+help 2021-07-18 16:56:23 Yea i always use 45
+help 2021-07-18 16:56:48 But mine are usually large builds so im not sure the size on urs or if it would be different
+help 2021-07-18 16:57:19 If it works for me should for you then i have around 3-6 speed on them as well
+plane-crazy 2021-07-18 22:22:17 Maybe like 1-2 weeks
+creations-chat 2021-07-20 03:17:59 Thanks man appreciate it 👍
+creations-chat 2021-07-20 05:25:50 The white platform part around the neck could be improved because its to blocky as well as maybe different shades of colour with in ur build as the colour scheme looks washed out and dry it doesnt pop
+help 2021-07-21 02:20:02 Is they a way to make armor up motors that fold builds so they arent just 1 shot or if the motor breaks the build isnt just split in 2?
+general 2021-07-21 06:22:43 Right, interesting

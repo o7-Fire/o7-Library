@@ -1,0 +1,35 @@
+The Tale of pyrodes (271368591591342092)
+plane-crazy 2022-03-19 22:59:55 yo is it just me or did the recent update change helium blocks
+plane-crazy 2022-03-19 23:05:20 The hell is that <:dread:853053786746650624>
+plane-crazy 2022-03-19 23:05:22 Is it a mech
+plane-crazy 2022-03-19 23:05:37 <:dread2:868307083928404038>
+creations-chat 2022-03-19 23:46:26 how do i make a functioning walking system for a small-medium size mech
+
+if you need pictures of what i'm working with im able to DM
+plane-crazy 2022-03-19 23:49:47 how do i make a functioning walking system for a small-medium size mech
+
+if you need pictures of what i'm working with im able to DM <:screamsofthedamned:929134441488609370>
+plane-crazy 2022-03-19 23:52:23 (roblox game discord server)
+
+althought i suppose that could be partially true since this game at least takes five braincells to play properly
+plane-crazy 2022-03-19 23:53:39 jesus christ dude stop gaslighting him before you get the police called on you for arson
+plane-crazy 2022-03-19 23:55:52 <:screamsofthedamned:929134441488609370>
+plane-crazy 2022-03-19 23:56:25 no you're gaslighting people
+plane-crazy 2022-03-19 23:56:28 stfu
+plane-crazy 2022-03-19 23:56:59 half of the dude's messages on this is to DM a mod <@!660019099430289418>
+plane-crazy 2022-03-19 23:57:02 dude ignores everything
+plane-crazy 2022-03-19 23:57:06 continues gaslighting
+plane-crazy 2022-03-19 23:57:08 🤓
+plane-crazy 2022-03-19 23:57:37 pog
+plane-crazy 2022-03-20 00:00:23 now before this channel goes back to being toxic i could use some help with building a functional walking mechanism for a small-medium size mech
+creations-chat 2022-03-20 00:02:53 anyone? https://discord.com/channels/384021699466756103/504436696021204992/954888611977891851
+
+i've tried, a majority of the mech guides i've seen are just massive things that i have no idea on how to miniaturize to work with the thing im building
+creations-chat 2022-03-20 00:06:17 yeah the closest i've gotten is just having the leg joints be connected with unpowered motors and thrusters on each leg to give it the illusion of walking
+
+also tried putting friction blocks on the feet but it just doesn't work well and is pretty hard to turn with
+creations-chat 2022-03-20 00:11:01 its worked pretty well but the upper body/cockpit of the mech is really bulky, i've put some helium blocks inside it and some ballast blocks in the feet, but at a point it stops being stable and makes the mech seem unnaturally light. and before you ask yes i have changed the weight on the ballast blocks to try and counteract the effect
+
+plus the recent update that changed something with helium/ballast blocks really messed a lot of stuff up and it doesn't work as well anymore, not sure where to go from here
+plane-crazy 2022-03-20 00:13:36 a fellow people playground enjoyer
+plane-crazy 2022-03-20 00:26:05 i fucking love making armor in people playground

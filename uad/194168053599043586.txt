@@ -1,0 +1,113 @@
+The Tale of j6moon (194168053599043586)
+general 2018-12-23 05:48:04 
+plane-crazy 2018-12-23 05:58:33 when you ping a mod
+plane-crazy 2018-12-23 05:58:51 
+creations-chat 2018-12-23 06:21:10 aw you messed iy up
+creations-chat 2018-12-23 06:21:12 whatever
+creations-chat 2018-12-23 06:42:09 no idea
+plane-crazy 2018-12-24 03:36:13 what do you set a piston to get it to 1 block
+plane-crazy 2018-12-24 03:36:31 thanks
+the-dump 2019-01-11 03:24:22 
+plane-crazy 2019-01-12 10:30:09 *builds something* yea this is cool *looks at <#384025409945337856> * damn i suck at building.
+general 2019-01-12 10:30:56 
+creations-chat 2021-12-16 06:48:46 how in the holy did you do that
+plane-crazy 2021-12-16 06:50:08 where does one ask about help with vehicle design
+plane-crazy 2021-12-16 06:50:46 ight
+plane-crazy 2021-12-16 06:53:30 how would i go about making a block [like a barrel] stick out of a cylinder?
+plane-crazy 2021-12-16 06:53:35 im trying to make an M247
+plane-crazy 2021-12-16 06:55:45 alternitively, how do i make the motor glitch into one single line upwards
+plane-crazy 2021-12-16 06:56:11 Yea, that ^
+plane-crazy 2021-12-16 07:10:23 no, not really.
+plane-crazy 2021-12-16 07:13:06 how would i get these to connect?
+plane-crazy 2021-12-16 07:13:13 or at least function as connected
+plane-crazy 2021-12-16 07:14:44 that's.. not what im asking...
+plane-crazy 2021-12-16 07:15:10 im asking how to connect something to a cylinder
+plane-crazy 2021-12-16 07:15:47 but how
+plane-crazy 2021-12-16 07:15:53 the middle cylinder would be missing
+plane-crazy 2021-12-16 07:16:10 hm, wait, idea
+plane-crazy 2021-12-16 07:16:13 no.
+plane-crazy 2021-12-16 07:16:19 nevermind, it would break the motorlock
+plane-crazy 2021-12-16 07:16:37 well the people who are just say things like "WaTcH a TuToRiAl"
+plane-crazy 2021-12-16 07:16:42 bro one doesn't exist
+plane-crazy 2021-12-16 07:17:17 not what im asking, again.
+plane-crazy 2021-12-16 07:17:25 i know how to motorlock
+plane-crazy 2021-12-16 07:17:54 actually, i don't
+plane-crazy 2021-12-16 07:17:57 i mean cylinders
+plane-crazy 2021-12-16 07:21:16 M247
+plane-crazy 2021-12-16 07:23:05 already tried, the more square shape doesn't work, just gets stuck.
+plane-crazy 2021-12-16 07:23:25 also that would ruin the 247 look
+plane-crazy 2021-12-16 07:24:15 yay my copy paste broke again
+plane-crazy 2021-12-16 07:24:16 ffs
+plane-crazy 2021-12-16 07:24:40 fucking windows, dude
+plane-crazy 2021-12-16 07:32:58 finally got the turret elevation to work with motorlocking
+plane-crazy 2021-12-16 07:33:10 thanks that actually worked
+plane-crazy 2021-12-16 07:33:50 momentairly
+plane-crazy 2021-12-16 07:36:39 so it works on the white cylinder, it attaches fine, but on the cylinder with the motors [green] it doesn't work. they are both on the turret that gets motorlocked, and idea what's happening?
+plane-crazy 2021-12-16 07:36:46 <@!404632014189494293>
+plane-crazy 2021-12-16 07:41:55 its not the motor lock
+plane-crazy 2021-12-16 07:41:59 its the motor 2 that makes it disconnect
+plane-crazy 2021-12-16 07:42:42 <@!292578772333363200>
+plane-crazy 2021-12-16 07:43:36 not sure if these are also relevant but they are here
+plane-crazy 2021-12-16 07:43:56 ??
+plane-crazy 2021-12-16 07:44:03 the sparkellers falling off is the problem
+plane-crazy 2021-12-16 07:44:26 hold on can i steam
+plane-crazy 2021-12-16 07:44:39 can't steam into streaming
+plane-crazy 2021-12-16 07:44:53 am in hangar
+plane-crazy 2021-12-16 07:45:51 they attach to the stationary cylilender
+plane-crazy 2021-12-16 07:45:56 cylinder
+plane-crazy 2021-12-16 07:46:25 oh
+plane-crazy 2021-12-16 07:46:27 makes sense
+plane-crazy 2021-12-16 07:46:44 ah, but that doesn't work
+plane-crazy 2021-12-16 07:47:03 or will it
+plane-crazy 2021-12-16 07:56:03 so does nothing actually connect to a cylinder round edge?
+general 2021-12-16 07:58:06 protogen
+plane-crazy 2021-12-16 07:59:10 so is there literally no way to put a gun on this?
+plane-crazy 2021-12-16 07:59:52 what
+plane-crazy 2021-12-16 08:01:02 then it glitches out because collisions exist, also that would make it a non-functioning turret and that's stupid
+plane-crazy 2021-12-16 08:01:48 redesign to what?
+plane-crazy 2021-12-16 08:01:58 the M247  turret is circle
+plane-crazy 2021-12-16 08:10:53 ha.
+plane-crazy 2021-12-16 08:17:57 ok other than the fact that i literally can't put guns on this how does it look? [so far]
+plane-crazy 2021-12-16 08:18:09 it rotates, not that it matters at this point
+plane-crazy 2021-12-16 08:21:28 or, actually, instead
+plane-crazy 2021-12-16 08:21:36 
+plane-crazy 2021-12-16 08:26:12 i guess it won't stay too true to a proper M247
+plane-crazy 2021-12-16 08:26:16 time to make it single barrelled
+plane-crazy 2021-12-16 08:32:00 ??
+plane-crazy 2021-12-16 08:32:07 im using half blocks also
+plane-crazy 2021-12-16 09:12:18 can't
+plane-crazy 2021-12-16 09:12:53 ended up just doing this anyway
+plane-crazy 2021-12-16 10:09:10 quick question do crasher vehicles exist
+plane-crazy 2021-12-16 10:09:27 because someone loaded a vehicle in and my game instantly froze and i had to Alt F4
+plane-crazy 2021-12-16 10:09:37 after waiting about 8 min
+plane-crazy 2021-12-16 10:35:32 done
+plane-crazy 2021-12-16 10:35:36 nish
+plane-crazy 2021-12-16 10:35:47 4th vehicle ever made in plane crazy
+plane-crazy 2021-12-16 10:35:50 not bad imo
+plane-crazy 2021-12-16 10:39:49 good for you
+plane-crazy 2021-12-16 10:39:53 ik
+plane-crazy 2021-12-16 10:39:55 not completely done
+plane-crazy 2021-12-16 11:15:35 how could i boost it up?
+plane-crazy 2021-12-16 11:16:02 yea its meant to have two barrels
+plane-crazy 2021-12-16 11:16:27 at the time i just went with one because it was easier, am planning to fix it
+plane-crazy 2021-12-16 11:26:01 Trails? also, how would i do Grenade launchers?
+plane-crazy 2021-12-16 11:26:39 no i meant like to look like a grenade launcher
+plane-crazy 2021-12-17 03:25:26 I have all the snow things
+plane-crazy 2021-12-17 03:25:39 I meant how do I make something that doesn’t look like absolute dogshit
+plane-crazy 2021-12-17 03:25:49 Excuse language
+plane-crazy 2021-12-17 03:26:18 Also I did a little bit more detailing and audio was added
+plane-crazy 2021-12-17 03:26:39 You?
+plane-crazy 2021-12-17 03:27:09 Half the creation is motorlocked actually
+plane-crazy 2021-12-17 03:27:48 Yeah I haven’t done the really nice detailing motorlocking, it was mainly just to smoothen everything up
+plane-crazy 2021-12-17 03:28:01 I would show you but no access to Pc
+plane-crazy 2021-12-17 03:28:09 Good idea
+plane-crazy 2021-12-17 03:28:16 Yep lol
+plane-crazy 2021-12-17 05:18:46 wheres that guy who i was talking to
+plane-crazy 2021-12-17 05:19:44 Correct.
+plane-crazy 2021-12-17 05:20:03 hes dead
+plane-crazy 2021-12-17 05:20:13 dont
+plane-crazy 2021-12-17 05:20:13 no
+plane-crazy 2021-12-17 05:20:15 dammit
+plane-crazy 2021-12-17 05:20:34 yall have made some epic planes with this building system
+plane-crazy 2021-12-17 05:21:04 i wont be soon xd
+plane-crazy 2021-12-17 05:21:53 anyway,

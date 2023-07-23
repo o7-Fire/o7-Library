@@ -1,0 +1,7 @@
+The Tale of turkguestka (699987308031770694)
+bug-reports 2021-09-02 11:07:43 there is a invis block in building mode and appears  in the test/driving mode how do i delete it
+plane-crazy 2021-09-02 15:45:33 there is a invis block in building mode and appears  in the test/driving mode
+plane-crazy 2021-09-02 15:45:42 help
+plane-crazy 2021-09-02 15:47:01 oh wait
+plane-crazy 2021-09-02 15:47:24 the block was stuck inside the spawn plate
+plane-crazy 2021-09-02 15:47:31 problem solved

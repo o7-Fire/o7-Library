@@ -1,0 +1,30 @@
+The Tale of .haokaido (541137008601595924)
+general 2022-02-18 19:18:50 How do you add more weight to the plane without actually adding a block
+general 2022-02-18 19:19:15 Doesnt seem to change
+general 2022-02-18 19:26:31 I built a mini jet on mobile and it rotates really fast on mobile
+general 2022-02-18 19:26:44 I uses 1 density on ballast
+general 2022-02-18 19:27:00 How do i slow down the rotation
+general 2022-02-18 19:27:33 Like how
+general 2022-02-18 19:27:43 Do i use 1x1
+general 2022-02-18 19:27:47 Or 1x2
+general 2022-02-18 19:28:37 I will try removing some control surfaces
+general 2022-02-18 19:46:16 How do i build a bomb carrier plane
+plane-crazy 2022-02-18 19:48:03 I made a spinning machine and apparently got a headache after trying
+plane-crazy 2022-02-18 19:48:29 Rectangle mustache man
+plane-crazy 2022-02-18 19:49:12 In a game about planes how the hell do you guys even create robots n stuffs
+plane-crazy 2022-02-18 19:50:47 With those engineering skills you guys can even be nasa rocket engineer like wtf
+plane-crazy 2022-02-19 07:33:57 how do i rotate faster without changing most of the weight
+plane-crazy 2022-02-19 07:36:30 what does it do
+plane-crazy 2022-02-19 07:56:29 should i use rocket engine or jet engine
+plane-crazy 2022-02-19 07:57:12 i just built the b-2 spirit through yt tutorial
+plane-crazy 2022-02-19 07:57:30 the rocket engines was a bit too fast
+plane-crazy 2022-02-19 07:57:57 yes
+plane-crazy 2022-02-19 07:58:04 like alot of them
+plane-crazy 2022-02-19 07:58:42 like replace all 12 super rocket with normal rocket engines?
+plane-crazy 2022-02-19 07:59:24 50% slower
+plane-crazy 2022-02-19 07:59:26 or 60%
+plane-crazy 2022-02-19 07:59:42 idk im terrible at math
+plane-crazy 2022-02-19 08:00:10 alright i will try
+plane-crazy 2022-02-19 08:00:13 ty
+plane-crazy 2022-11-04 14:07:47 how do i make explosive block explode on contact with ground
+plane-crazy 2022-11-04 15:20:49 is there any transparent block

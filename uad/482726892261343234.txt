@@ -1,0 +1,27 @@
+The Tale of .cviii (482726892261343234)
+plane-crazy 2021-02-15 15:14:27 ello~ pretty new to plane crazy, but i've been enjoying figuring things out bit by bit lol
+plane-crazy 2021-02-15 15:15:23 already know the basics a little
+plane-crazy 2021-02-15 15:16:02 i just recently had a bit of fun figuring out how to make the wings of a corsair
+plane-crazy 2021-02-15 15:16:17 uh like a few days to a week ago idk
+plane-crazy 2021-02-15 15:17:21 just checked. i have 1 day and 9 hours played
+plane-crazy 2021-02-15 15:17:43 i havent used any vehicle tutorials *yet*
+plane-crazy 2021-02-15 15:18:48 yeah, i think i have a few of those in the corsair?
+plane-crazy 2021-02-15 15:20:09 uh once i can post images, i can post a picture of my corsair to see what you all think lol
+plane-crazy 2021-02-15 15:20:36 the wings used to like to w o b b l e, but i found a solution to that
+plane-crazy 2021-02-15 15:24:21 i wanted to avoid using the small landing gear, but i guess it doesn't look *that* bad
+plane-crazy 2021-02-15 16:11:04 imma see if i can figure out how to implement folding landing gear without it being too large/bulky. i don't have that much space to work with though :/
+bot-central 2021-02-15 17:18:18 !rank
+plane-crazy 2021-02-15 17:24:09 i have a lot of unused empty space in the fuselage of my corsair. i could probably fit more drives in there tbh, but i'm sorta satisfied with my flying milk jug as it is
+plane-crazy 2021-02-15 17:30:55 it's decently big, but i have motors running down the middle that power the main prop. imma check how much space i have rq
+plane-crazy 2021-02-15 17:34:03 i have around 16 usable studs just in the front end of the fuselage
+plane-crazy 2021-02-15 19:27:00 nice
+plane-crazy 2021-02-15 19:31:24 i still like my flying milk jug
+plane-crazy 2021-09-05 20:51:44 managed to make a uav lol (or mav since i dont remotely control it). only problem is the only 'landing' gear i have is a detachable wheel cart xddd
+other than that, i like it
+plane-crazy 2021-09-05 20:56:47 ?
+help 2021-09-06 05:23:19 so rn i have a fairly compact aircraft but i don't know what do do for functional landing gear. it has a rudder on the underside, so the actual block will not work while currently i use an idea similar to the me-163's detaching landing gear cart
+help 2021-09-06 05:24:00 to be able to take off and land, yes. right now i use a detaching wheel cart
+help 2021-09-06 05:26:22 the problem is tht i dont have much to remove due to it being my first major motorlock build
+help 2021-09-06 05:26:33 i probably couldve done it different, but yeah
+bot-central 2021-09-07 05:15:33 !rank
+general 2021-09-16 10:45:45 tfw you lose connection and lose all saves done on that server

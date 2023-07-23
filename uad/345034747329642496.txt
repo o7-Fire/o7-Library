@@ -1,0 +1,149 @@
+The Tale of twicedaice (345034747329642496)
+plane-crazy 2021-04-13 23:06:54 are there any new update plans for a larger plot space
+plane-crazy 2021-04-13 23:06:56 like a premium plot
+plane-crazy 2021-04-13 23:07:05 ok
+plane-crazy 2021-04-13 23:07:16 what about touching moving parts
+plane-crazy 2021-04-13 23:08:13 like
+plane-crazy 2021-04-13 23:08:20 having blocks attached to a motor
+plane-crazy 2021-04-13 23:08:26 that also make contact with parts not attached to it
+plane-crazy 2021-04-13 23:08:39 if you do this now the motor gets stuck
+plane-crazy 2021-04-13 23:08:44 maybe like
+plane-crazy 2021-04-13 23:08:47 a paint type of slick
+plane-crazy 2021-04-13 23:09:04 where it wont stick to parts that dont move comparatively
+plane-crazy 2021-04-13 23:11:41 id send a picture
+plane-crazy 2021-04-13 23:11:43 but i cant
+help 2021-04-14 00:07:49 i created a thing
+help 2021-04-14 00:07:53 it uses a motor2
+help 2021-04-14 00:08:02 i set it to rotate 180 degrees
+help 2021-04-14 00:08:04 but no matter what i do
+help 2021-04-14 00:08:09 it rotate the wrong direction
+help 2021-04-14 00:08:23 pressing forwards and backwards doesnt change its direction
+help 2021-04-14 00:08:33 rotating the motor doesnt either
+help 2021-04-14 00:08:37 how do i fix this
+help 2021-04-14 00:09:09 fold
+help 2021-04-14 00:09:12 yes
+help 2021-04-14 00:09:14 its in servo mode
+help 2021-04-14 00:09:36 backward f forward r
+help 2021-04-14 00:09:37 speed 1
+help 2021-04-14 00:09:41 maxtourque 1000
+help 2021-04-14 00:09:44 maxangle 180
+help 2021-04-14 00:09:48 servo and toggle are both on
+help 2021-04-14 00:09:54 inverted is off
+help 2021-04-14 00:09:59 ive already tried it
+help 2021-04-14 00:10:22 i was thinking about that
+help 2021-04-14 00:10:50 sure enough
+help 2021-04-14 00:10:52 it works just fine
+help 2021-04-14 00:11:00 even if its still not 180
+help 2021-04-14 00:11:31 maybe
+help 2021-04-14 00:11:45 there should def be an option to change the direction it tries to move in though
+help 2021-04-14 00:12:08 still gonna be quite annoying
+help 2021-04-14 00:12:14 its my first rocket and im making it a multi staging one
+bug-reports 2021-04-14 01:35:54 1x7 blocks have a weird hitbox
+bug-reports 2021-04-14 01:36:00 you cant place them upside down
+bug-reports 2021-04-14 01:36:11 part of them will clip into the block above
+help 2021-04-15 04:25:38 how do i make a suggestion
+help 2021-04-15 04:25:44 or not
+help 2021-04-15 04:25:46 lmfao
+bot-central 2021-04-15 04:25:49 ?shelp
+bot-central 2021-04-15 04:36:44 hmm ok
+bot-central 2021-04-15 04:37:24 $suggest
+[Slippery Block]
+[BUILDING]
+
+The slippery block acts like a paint in a way that allows touching blocks to be seperated from eachother. As of right now, if you attach a block to a motor, and connect the blocks on both sides of the motor, the motor will get stuck and nothing will rotate. However, with the new slippery block, blocks on both sides of the motor will become no longer attached and can move freely, while being right next to it. (this is a surface type thing, with no actual size, other than maybe a slightly transparent yellow film over the side its put on)
+this way you can make significantly more complex moving structures, without having to make things larger or smaller to accomodate for the active welding setup. (perhaps the slippery block can break the weld between one block and another block to function)
+bot-central 2021-04-15 04:37:30 still not working
+bot-central 2021-04-15 04:37:44 oh
+bot-central 2021-04-15 04:37:45 just realized
+bot-central 2021-04-15 04:37:51 the 1x0.9 block does exist but
+bot-central 2021-04-15 04:37:54 its not surface
+bot-central 2021-04-15 04:38:00 and still cant be applied in as many ways
+bot-central 2021-04-15 04:38:26 this completely seperates two blocks invisbly with nothing inbetween
+bot-central 2021-04-15 04:40:55 !rank
+bot-central 2021-04-15 04:40:59 so close
+bot-central 2021-04-15 04:41:10 once i get level 2 i can use the suggesstion thing right
+plane-crazy 2021-04-15 06:39:07 is there anyone at all
+plane-crazy 2021-04-15 06:39:09 i can show a report to
+plane-crazy 2021-04-15 06:39:17 i have video proof of a massive rope lag machine
+plane-crazy 2021-04-15 06:39:19 trails and all
+plane-crazy 2021-04-15 06:40:35 uh
+plane-crazy 2021-04-15 06:40:37 no
+plane-crazy 2021-04-15 06:40:40 he isnt blacklisting anyone
+plane-crazy 2021-04-15 06:40:44 oh
+plane-crazy 2021-04-15 06:40:47 you meant universally
+plane-crazy 2021-04-15 06:40:48 uh
+plane-crazy 2021-04-15 06:40:53 whatt is blacklist abusing
+plane-crazy 2021-04-15 06:41:10 use lag machines and blacklist everyone so they cant do anything abou t it?
+plane-crazy 2021-04-15 06:41:24 tthen the shredder does nothing
+plane-crazy 2021-04-15 06:41:57 so you can kill without being killed basically
+plane-crazy 2021-04-15 06:42:09 id say thats punishable
+plane-crazy 2021-04-15 06:42:10 but
+plane-crazy 2021-04-15 06:42:19 supposedly admins arent reading reports
+plane-crazy 2021-04-15 06:42:21 <#623337136267067393>
+plane-crazy 2021-04-15 06:42:25 read the stuff in there
+plane-crazy 2021-04-15 06:42:46 i agree
+plane-crazy 2021-04-15 06:43:41 in a world where mods moderate
+plane-crazy 2021-04-15 06:43:46 id assume a tempban
+plane-crazy 2021-04-15 19:27:45 ive been making a rocket
+plane-crazy 2021-04-15 19:27:52 i have some questions about parts
+plane-crazy 2021-04-15 19:28:00 inside my rocket
+plane-crazy 2021-04-15 19:28:01 i have a
+plane-crazy 2021-04-15 19:28:05 space station sort of thing
+plane-crazy 2021-04-15 19:28:16 and my goal is to fly the rocket high above the altitude meter
+plane-crazy 2021-04-15 19:28:28 eject the station and anchor it
+plane-crazy 2021-04-15 19:28:44 the station is important because it has missiles on it
+plane-crazy 2021-04-15 19:28:55 multiple individually controllable missiles
+plane-crazy 2021-04-15 19:29:01 which were  a pain to bind
+plane-crazy 2021-04-15 19:29:43 the missiles on my station are very compact
+plane-crazy 2021-04-15 19:29:46 less than 10 blocks
+plane-crazy 2021-04-15 19:29:55 however
+plane-crazy 2021-04-15 19:30:01 decouplers leave parts on both sides of the coupler
+plane-crazy 2021-04-15 19:30:24 is there any method of decoupling that leaves nothing on one side
+plane-crazy 2021-04-15 19:32:20 how
+plane-crazy 2021-04-15 19:32:24 how does that decouple
+plane-crazy 2021-04-15 19:32:47 its a
+plane-crazy 2021-04-15 19:32:54 spring connected between two blocks
+plane-crazy 2021-04-15 19:33:36 anything most likely
+plane-crazy 2021-04-16 18:11:26 now that mods dont read reports the servers have a tot of lag machines rip
+plane-crazy 2021-04-16 18:11:54 this ones a rope device
+plane-crazy 2021-04-16 18:12:02 pulls you in and drops your framerate to none
+plane-crazy 2021-04-25 01:56:02 pain crazy when I still can’t make complex moving vehicles
+general 2021-05-01 20:43:03 you need to have a certain level role i believe
+general 2021-05-01 20:43:06 the image rank
+general 2021-05-01 20:43:10 read  the rules information though
+general 2021-05-01 20:43:12 thatll help
+general 2021-05-06 20:57:48 yoo madattak online doe
+general 2021-05-06 20:57:59 rip
+general 2021-05-06 20:58:00 got faked
+general 2021-05-06 20:58:03 not based or redpilled
+bug-reports 2021-05-10 19:22:11 Did not see that coming
+creations-chat 2021-05-10 19:27:29 girls dont exist also opinion on what ah yes the cannon had a supressor
+general 2021-05-17 16:51:26 Will there ever be an increase on block limits
+general 2021-05-17 16:51:35 Im at my last 100 blocks
+plane-crazy 2022-02-18 09:46:35 whats a good way to build a small con trol system
+plane-crazy 2022-02-18 09:46:43 so i can fly
+plane-crazy 2022-02-18 09:46:50 
+plane-crazy 2023-07-07 04:25:38 im having issues building to the side of my creations
+plane-crazy 2023-07-07 04:26:02 i know its a common bug but how do i fix that
+plane-crazy 2023-07-07 04:26:36 tf did you guys do
+plane-crazy 2023-07-07 04:27:18 i cant place blocks to the side of my stuff help
+plane-crazy 2023-07-07 04:29:08 les goo baybee
+plane-crazy 2023-07-07 04:29:37 can you talk a little less, i think a bug in your code is causing you to reply many times too fast
+plane-crazy 2023-07-07 04:30:22 repeat after me: "!mute <@159985870458322944>"
+plane-crazy 2023-07-07 04:31:53 ITS BROKEN EVEN WORSE TF
+plane-crazy 2023-07-07 04:32:18 NO SPAWN ZONE
+plane-crazy 2023-07-07 05:03:38 so what can we do about lag mahcines
+plane-crazy 2023-07-07 05:04:56 theres a guy in my server with one
+plane-crazy 2023-07-07 05:08:34 ok so like half the servers ive joined have people with large lag machines
+plane-crazy 2023-07-07 05:08:58 actual unplayable, worse than the inability to place blocks
+general 2023-07-14 06:47:33 https://static.wikia.nocookie.net/h3vr/images/7/78/Whizzbanger.png/revision/latest?cb=20210102051721 I FOUND IT
+general 2023-07-14 06:47:39 oh i dont have embeds
+general 2023-07-14 06:47:40 whatever
+general 2023-07-14 06:47:45 click the link and youll know what i mean
+general 2023-07-14 06:48:55 can you post the link
+general 2023-07-14 06:48:58 you have embeds
+general 2023-07-14 06:49:02 also its a hammer
+general 2023-07-14 06:49:06 its a 50bmg hammer
+general 2023-07-14 06:49:27 you hit the firing pin on the back to strike the primer
+general 2023-07-14 06:49:36 thus turning what is in front of you into thin glue
+general 2023-07-14 06:49:47 -demoman tf2 kinda quote

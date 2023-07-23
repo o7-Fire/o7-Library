@@ -1,0 +1,49 @@
+The Tale of theseasofenvy (275702234539360269)
+plane-crazy 2021-03-30 18:53:18 what exactly does damping do on suspension?
+plane-crazy 2021-03-30 18:55:02 thanks
+plane-crazy 2021-03-30 19:21:01 use the motor to "fold" parts of your build into each other
+plane-crazy 2021-03-30 19:21:25 i.e. break your build into parts and then put those parts together with motors
+plane-crazy 2021-03-30 19:22:59 also very nice new mexico
+plane-crazy 2021-03-30 19:29:52 oh yeah i should apply for those
+plane-crazy 2021-03-30 19:30:34 oof, i figured
+plane-crazy 2021-03-30 19:42:39 you want it to disconnect or not
+plane-crazy 2021-03-30 19:59:12 don't burn yourself out - if you're not having fun building, take a break
+bot-central 2021-03-30 20:00:56 !levels
+bot-central 2021-03-30 20:00:59 !rank
+plane-crazy 2021-03-30 20:07:28 get well soon
+plane-crazy 2021-03-30 20:08:20 relatable
+plane-crazy 2021-03-31 00:37:26 wonder what the holster looks like
+plane-crazy 2021-03-31 02:23:03 what's the general consensus on those builds which solely exist to smack other builds around
+creations-chat 2021-04-02 21:08:40 yeah not sure thats something you should be proud of
+bot-central 2021-04-03 14:52:23 !rank
+bot-central 2021-04-03 14:54:10 i can post media but i'm not level 3 yet, neat
+creations-chat 2021-04-03 18:21:03 Thanks :D
+~~Technically they're too big but I couldn't get it any smaller~~
+creations-chat 2021-04-03 23:51:54 What colour should I paint the tracks
+~~Also how do I stop it from wiggling from side to side on the suspension~~
+plane-crazy 2021-05-25 02:51:16 <@!435946988559925248>
+plane-crazy 2021-05-25 02:51:21 
+plane-crazy 2021-05-25 02:52:28 was my first use of motorlock + smaller builds
+plane-crazy 2021-05-25 02:52:33 inside looked completely disgusting
+plane-crazy 2021-05-25 02:52:59 
+creations-chat 2021-05-29 18:01:45 <@456226577798135808> you mean Object 726?
+creations-chat 2021-05-29 18:08:34 Right that's object 726, WG just decided to call it 279e
+279 was developed with lessons learned from 726, but it was a different project
+~~in fact they introduced 279e as 726 at first, but I guess giving it the ufo tank name made it more appealing or something~~
+creations-chat 2021-06-03 14:22:29 <@!710260189496082504> 68 is upside-down, the front of the ship is always the "top"
+general 2022-11-22 16:49:42 yes
+general 2022-11-22 16:49:43 me
+general 2022-11-22 16:49:49 (my tracks were broken)
+general 2022-11-22 16:49:57 so i jumped to editor
+general 2022-11-22 16:50:00 do i?
+general 2022-11-22 16:50:05 what question
+general 2022-11-22 16:50:19 oh i just wanted to say hi
+general 2022-11-22 16:50:29 oh
+general 2022-11-22 16:50:32 i can look into it sure
+general 2022-11-22 16:50:40 ok no
+general 2022-11-22 16:50:45 intersection hell is my game
+general 2022-11-22 16:51:06 collision off
+general 2022-11-22 16:51:11 for those blocks
+general 2022-11-22 16:51:53 also i made a nagato turret once that could pvp
+it was 250 parts
+general 2023-07-01 20:28:01 burnout; loss of interest; etc.

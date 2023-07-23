@@ -1,0 +1,135 @@
+The Tale of perhapscoww4_20 (437272473159860234)
+plane-crazy 2021-04-11 02:49:14 So, I'm new to the game, and for my second build ever (first without a tutorial) I'm making a Grumman F6F Hellcat, is there any way to actually stick the guns into the wings?
+plane-crazy 2021-04-11 02:49:43 Interesting
+plane-crazy 2021-04-11 02:49:58 I've heard of it, but have no idea how to do it
+plane-crazy 2021-04-11 02:51:18 So far all I've heard about motorlock is that i need a bunch of motor 2s
+plane-crazy 2021-04-11 02:52:52 can anyone do a brief explanation of motorlocking?
+plane-crazy 2021-04-11 02:54:18 Interesting
+plane-crazy 2021-04-11 02:54:23 I'll look into it
+plane-crazy 2021-04-11 02:54:41 Trying to slowly introduce new things so I'm not overwhelmed
+plane-crazy 2021-04-11 02:54:50 have to use War Thunder for a model
+plane-crazy 2021-04-11 02:57:23 Thanks, this helped a lot
+plane-crazy 2021-04-11 02:57:33 plane still looks ugly but it works
+plane-crazy 2021-04-11 02:58:33 actually now it looks ok
+plane-crazy 2021-04-11 02:58:36 better than it was
+plane-crazy 2021-04-11 02:58:48 for my second build ever I'm happy with it
+bot-central 2021-04-11 14:08:26 !rank
+plane-crazy 2021-04-11 15:31:34 I have nearly finished my F6F Hellcat
+plane-crazy 2021-04-11 15:31:46 It looks alright for my 2nd build
+plane-crazy 2021-04-11 15:32:07 I wanted to motor lock some rockets on because they look like 500lb bombs
+plane-crazy 2021-04-11 15:32:13 but made the wings look odd
+plane-crazy 2021-04-11 15:32:38 cant post pictures so i guess i'll stream in a vc
+plane-crazy 2021-04-11 15:33:18 yeah i could
+plane-crazy 2021-04-11 15:33:24 it's alright
+plane-crazy 2021-04-11 15:33:27 yeah
+plane-crazy 2021-04-11 15:33:31 i need to fix that
+plane-crazy 2021-04-11 15:33:40 trying to find a good block for it
+plane-crazy 2021-04-11 15:33:51 yeah
+plane-crazy 2021-04-11 15:34:05 need to add landing gear too
+plane-crazy 2021-04-11 15:36:28 tried triangle wedge
+plane-crazy 2021-04-11 15:36:34 it looks a bit funky
+plane-crazy 2021-04-11 15:37:00 round wedge out works alright, but doesn't look that good
+plane-crazy 2021-04-11 15:39:04 i was recommended to use half wedge 2
+plane-crazy 2021-04-11 15:39:08 but it looked weird
+plane-crazy 2021-04-11 15:40:18 Personally, I think a few more round wedges should be added
+plane-crazy 2021-04-11 15:40:47 And it also needs to fit more jets, as whenever it turns it loses speed fast
+plane-crazy 2021-04-11 15:41:04 I want it to be able to hit ~400
+plane-crazy 2021-04-11 15:45:12 stuffed another super rocket in front of the pilot seat
+plane-crazy 2021-04-11 15:45:16 hits 400 now
+plane-crazy 2021-04-11 15:45:23 left click for guns
+plane-crazy 2021-04-11 15:45:26 idk about tnt
+plane-crazy 2021-04-11 15:49:31 Depends, what is the model you are trying to replicate?
+plane-crazy 2021-04-11 15:50:00 just in general?
+plane-crazy 2021-04-11 15:50:25 I'd say the front end needs to be extended a slight bit
+plane-crazy 2021-04-11 15:50:31 otherwise it's fine
+plane-crazy 2021-04-11 15:51:07 Hmm
+plane-crazy 2021-04-11 15:51:16 Do 2 and show a picture
+plane-crazy 2021-04-11 15:51:29 It may be fine the way it is, but it may look better with 2
+plane-crazy 2021-04-11 15:53:22 hmm
+plane-crazy 2021-04-11 15:53:35 Bed seems a bit long
+plane-crazy 2021-04-11 15:53:57 I'd say give the front end a bit more space, maybe move the front axle back by 2 or 3
+plane-crazy 2021-04-11 15:54:10 actually
+plane-crazy 2021-04-11 15:54:34 ok so
+plane-crazy 2021-04-11 15:54:52 The front end is the thing that has the engine and stuff in it
+plane-crazy 2021-04-11 15:55:02 the front axle holds the wheels
+plane-crazy 2021-04-11 15:55:08 ok good
+plane-crazy 2021-04-11 15:55:36 So, i think the front axle should be moved back a bit, to give the front end a bit more room to fit everything
+plane-crazy 2021-04-11 15:55:55 indedd
+plane-crazy 2021-04-11 15:55:57 indeed
+plane-crazy 2021-04-11 15:56:07 oh, ok
+plane-crazy 2021-04-11 15:56:11 Then it's great
+plane-crazy 2021-04-11 15:56:29 i agree
+plane-crazy 2021-04-11 15:56:38 yeah that's great
+plane-crazy 2021-04-11 15:57:01 can't make a good Hellcat nose with the current wedges we have
+plane-crazy 2021-04-11 15:58:37 I can barely motor lock at all
+bot-central 2021-04-11 16:05:46 !rank
+bot-central 2021-04-11 16:05:51 interesting
+plane-crazy 2021-04-11 16:06:12 I need a good way to make the Hellcat's landing gear
+plane-crazy 2021-04-11 16:06:30 need to pull up the War Thunder Model to see everything
+plane-crazy 2021-04-11 16:29:38 trying to find a good way to make Hellcat landing gear
+plane-crazy 2021-04-11 16:30:05 motor 2s, half wedges, and a half cylinder didn't work
+plane-crazy 2021-04-11 16:30:19 hmm
+plane-crazy 2021-04-11 16:30:23 ok
+bot-central 2021-04-11 16:30:54 !rank
+general 2021-04-11 16:31:09 seems about right
+plane-crazy 2021-04-11 16:49:56 I'm convinced that the landing gear on the Hellcat is impossible to build
+plane-crazy 2021-04-11 16:50:05 2x2 half cylinders are too big
+plane-crazy 2021-04-11 16:50:26 half cylinders are too small
+plane-crazy 2021-04-11 16:51:35 hmm
+plane-crazy 2021-04-11 16:52:05 half blocks going down and half wedges surrounding it on all sides?
+plane-crazy 2021-04-11 16:55:00 looks a bit odd
+plane-crazy 2021-04-11 16:55:03 but it may work
+plane-crazy 2021-04-11 16:55:27 looks very wide
+plane-crazy 2021-04-11 16:55:35 but if it works it'll be fine
+plane-crazy 2021-04-11 16:58:25 sure
+plane-crazy 2021-04-11 17:03:10 I hate myself for liking that thing
+plane-crazy 2021-04-11 17:03:14 but also love it
+plane-crazy 2021-04-11 17:12:17 finally finished the Hellcat
+plane-crazy 2021-04-11 17:12:39 looks very nice for my 2nd build I've ever made
+plane-crazy 2021-04-11 18:27:48 the hellcat
+plane-crazy 2021-04-11 18:27:55 
+plane-crazy 2021-04-11 18:28:00 
+plane-crazy 2021-04-11 18:28:22 tried doing a three propeller but it was too big for this build
+general 2021-04-11 18:34:50 DC's kind of going downhill
+general 2021-04-11 18:34:53 so is marvel
+general 2021-04-11 18:35:35 actually, i agree
+general 2021-04-11 18:35:43 marvel's going downhill
+general 2021-04-11 18:35:51 I'd say DC is going up
+general 2021-04-11 18:36:08 Not surprising, Disney kills everything it touches
+general 2021-04-11 18:36:29 hmm
+general 2021-04-11 18:36:32 maybe not everything
+general 2021-04-11 18:37:07 I think the new shows they're making are alright, but the movies aren't great
+general 2021-04-11 18:38:16 yeah
+general 2021-04-11 18:38:58 I'd say it was great
+creations-chat 2021-04-11 18:50:12 So, what could I do to improve my building?
+creations-chat 2021-04-11 18:55:39 What should I do to improve my Hellcat?
+creations-chat 2021-04-11 18:57:46 Yeah I'm trying to find some good places to paint, thanks for the feedback, I tried doing three propellers but the motors take up too much space for a build of this size
+creations-chat 2021-04-11 19:00:02 Yeah, I tried doing that but it stuck out way too much
+creations-chat 2021-04-11 19:10:40 something tells me this is going to be hard to paint
+creations-chat 2021-04-11 19:12:41 this looks better i think. Thoughts?
+creations-chat 2021-04-11 19:16:17 3 blade propeller contraption didn't fit, and I'm a little stupid so I don't know how to motorlock paint
+the-dump 2021-04-13 11:28:23 Interesting
+the-dump 2021-04-13 11:31:38 <:OmegaTroll:626841385118597152>
+the-dump 2021-04-13 11:32:00 
+plane-crazy 2021-04-15 22:50:00 real?
+plane-crazy 2021-04-15 22:50:03 real
+plane-crazy 2021-04-15 22:50:19 **__real__**
+plane-crazy 2021-04-15 23:07:15 does anyone have any recommendations for building planes?
+plane-crazy 2021-04-15 23:08:52 I'm thinking of making an Avro Arrow
+plane-crazy 2021-04-15 23:09:07 ok
+plane-crazy 2021-04-15 23:09:13 not doing an Avro Arrow
+plane-crazy 2021-04-15 23:09:16 uhh
+plane-crazy 2021-04-15 23:09:34 https://en.wikipedia.org/wiki/Avro_Canada_CF-105_Arrow
+plane-crazy 2021-04-15 23:37:32 i tried making boats
+plane-crazy 2021-04-15 23:37:35 didn't work out
+plane-crazy 2021-04-15 23:38:16 yeah but i didn't make it wide enough
+plane-crazy 2021-04-15 23:38:22 yeah
+plane-crazy 2021-04-15 23:38:28 because it's too complicated
+plane-crazy 2021-04-15 23:38:40 and had to make it fold, was never told how
+plane-crazy 2021-04-15 23:39:27 idk if doge will
+plane-crazy 2021-04-15 23:39:40 he usually loses interest then goes to work on something
+plane-crazy 2021-04-15 23:40:11 it's happened before
+plane-crazy 2021-04-15 23:41:21 usually, you come over, tell me to change something, then leave
+plane-crazy 2021-04-16 01:23:44 It looks good
+plane-crazy 2021-04-16 01:24:05 nose does seem a bit short though
+plane-crazy 2021-04-16 01:24:11 otherwise, it looks great

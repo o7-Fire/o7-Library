@@ -1,0 +1,61 @@
+The Tale of this (459914765624672268)
+plane-crazy 2018-12-08 20:44:02 <@456226577798135808> Don't worry, I tried to do a F-111 Aardvark, you can guess how that turned out
+plane-crazy 2018-12-08 20:46:25 F-14s are pretty cool too
+plane-crazy 2018-12-08 20:46:51 and mine kinda also turned into a F-14
+plane-crazy 2018-12-08 20:46:59 except very elongated
+plane-crazy 2018-12-08 20:48:19 does anyone know a way to make the transition from block to wing look smooth?
+plane-crazy 2018-12-08 20:48:34 I've been trying but can't find a way ;-;
+plane-crazy 2018-12-08 20:49:26 I tried wedges, but the wing places in the center of the block space, which wedges don't touch
+plane-crazy 2018-12-08 20:54:48 what motor problem are you having?
+plane-crazy 2018-12-08 20:56:40 <@!460178257812258836> just click the servers list and scroll down to the bottom most servers
+plane-crazy 2018-12-08 20:56:50 that's what I did to find some
+plane-crazy 2018-12-08 20:56:59 is that a Maus?
+plane-crazy 2018-12-08 20:57:37 ah, I see
+plane-crazy 2018-12-08 20:58:44 the light block?
+plane-crazy 2018-12-08 21:02:00 you know if you have the newest server when you see that motors have a "maxtorque" value
+plane-crazy 2018-12-08 21:03:15 I got the neon graphics for blocks by putting a light block down, settings all its values to max, turned it on, and it "neon'd" all of my white blocks
+creations-chat 2018-12-10 04:39:25 took me way too long rip my life (does work)
+help 2018-12-12 07:03:02 erm, is there a reason I can't even talk in the suggestions submissions?
+help 2018-12-12 07:05:15 oh, I thought I had ranked up, but now that I see it, my username went from "this" to nonadminsz, which is my ingame user
+help 2018-12-12 07:05:18 weird
+help 2018-12-12 07:06:18 If you look up through the suggestions, you can find mine too lol
+creations-chat 2018-12-13 03:42:45 My attempt at the Saab 35 Draken (the back end looks a lil' ugly because I wanted to make it be able to maneuver well with those motorized elevators)
+creations-chat 2018-12-13 04:32:06 no use a bright red-orange light, bathe the world in a scarlet neon glow
+help 2018-12-14 00:14:12 so have anyone else's motors been glitching again out ever since the update yesterday?
+plane-crazy 2019-01-01 12:35:59 I just make my own intakes
+plane-crazy 2019-01-01 12:36:19 not too bad looking either
+creations-chat 2019-01-01 12:45:12 
+creations-chat 2019-01-01 12:45:45 just a slightly old creation I did
+plane-crazy 2019-01-01 12:47:43 could you elaborate? like you want it to shoot a rocket or something like putting super rockets behind explosive blocks
+help 2019-01-27 08:52:03 Does anyone know what the "Glass Material" check-box thing does? At first I thought it was to make the glass not merge and look amazing (like it used to be), but it doesn't do that.
+help 2019-01-27 09:01:48 Yeah, I was being stupid and thought it would show up while still in building mode
+help 2019-01-27 10:20:25 <@456226577798135808> I've heard that that could happen sometimes. I would suggest asking for a rank when you submit the build (I've seen some people do this before). Or what could happen is someone sees your post here and gives you your rank.
+creations-chat 2019-01-27 11:54:57 Tried making a YF-17, ended up turning more into a hybrid of it and what it eventually evolved into (the F/A-18).
+creations-chat 2019-01-27 15:33:55 just a little sleek boi I made
+creations-chat 2019-01-27 15:34:55 actually I drew more inspiration from the MiG-35
+creations-chat 2019-01-27 15:35:34 but I do admit the nose makes it look more like a Hornet, I just kinda did my own thing
+creations-chat 2019-01-27 15:36:30 I made the cockpit huge so I could actually make the pilot seat look like it belongs there
+creations-chat 2019-01-27 15:37:22 here this'll help you get a glimpse of the back of it being more MiG-y
+creations-chat 2019-01-27 15:37:30 
+creations-chat 2019-01-27 15:40:49 but y
+creations-chat 2019-01-27 15:41:32 well, that's sad because MiG-19s are cool :c
+creations-chat 2019-01-27 15:42:33 no u
+creations-chat 2019-01-27 15:42:41 omg
+creations-chat 2019-01-27 15:42:59 for simulation sure
+creations-chat 2019-01-27 15:43:46 Is it bad I've never heard of that?
+creations-chat 2019-01-27 15:44:52 X Plane 11
+general 2019-01-27 15:48:25 wow
+general 2019-01-27 15:48:38 that's just gorgeous lol
+general 2019-01-27 15:49:26 Viggen is kool
+general 2019-01-27 15:53:16 heyyyy I have a 1060 rip
+general 2019-01-27 15:53:31 I mean it gets the job done
+creations-chat 2019-01-30 08:40:40 Horten Ho 229 WIP
+plane-crazy 2019-08-19 08:24:38 anyone have any ideas on how to make contra-rotating propellers?
+creations-chat 2020-04-28 03:21:57 YF2Y Sea Dart
+creations-chat 2020-04-28 03:22:15 My brain is now fried so yeah
+creations-chat 2020-04-29 01:41:14 YF2Y Sea Dart
+creations-chat 2020-04-29 05:53:32 Me-163 (dang that angle makes my right wing look massive)
+creations-chat 2020-04-29 05:53:43 
+creations-chat 2020-05-05 17:06:05 Eurofighter Typhoon I made after some guy asked me to and left before I finished
+creations-chat 2020-05-06 00:22:43 B-58 Hustler WIP (still have to elongate the engines a bit, add in the landing gears, put in a motorized rudder, and finish the rest of the fuselage)
+creations-chat 2020-05-22 15:07:50 I'll start the trend

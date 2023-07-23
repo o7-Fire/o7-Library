@@ -1,0 +1,351 @@
+The Tale of ._vefrax_. (251356987869233154)
+help 2021-02-01 19:28:19 I have attempted to build a folding large scale airship and have failed miserably with the helium part
+it is either too much or too less anytime I remove or place helium with an attempt to fix the problem
+I have built a smaller airship which doesn't fold and I was able to get quite good stability with it
+any ideas on what could be wrong?
+It is about 4900 parts
+help 2021-02-01 20:14:10 no i used motor 1
+help 2021-02-01 20:14:32 yes
+help 2021-02-01 20:14:55 i never folded creations before so I don't know what I am doing
+help 2021-02-01 20:15:32 i mean it folds but the helium never works the way it is intended to work
+help 2021-02-01 20:16:53 yes
+help 2021-02-01 20:17:10 i tried apply to center too but it was a worse situation so i reverted the changes
+help 2021-02-01 20:18:40 ok
+help 2021-02-01 20:19:27 I will continue tomorrow though it is 11 pm for me here and i am too tired for any more frustration
+i also think of starting from scratch because of some flaws
+help 2021-02-01 20:22:00 ok
+plane-crazy 2021-02-02 20:08:52 hello
+plane-crazy 2021-02-02 20:09:11 can we put gifs on creations like a gyazo link or is it picture only
+help 2021-02-05 16:11:40 https://gyazo.com/b53f9a369b98dd29833bca03d150c46f
+how can I stop this from happening?
+I just hold r (ascend key for me) and that happens
+help 2021-02-14 11:14:35 i don't know why but my anchor block won't unanchor can someone help me
+help 2021-02-14 11:14:55 it is a 6464 block airship
+help 2021-02-14 11:14:59 i tried everything
+help 2021-02-14 11:15:07 oh
+help 2021-02-14 11:15:12 hm good idea
+help 2021-02-14 11:15:15 i will try that thanks
+help 2021-02-14 11:17:26 thank you very much the hopping out and hopping back in worked
+help 2021-02-14 11:17:37 i had a mental breakdown trying to solve this
+help 2021-02-14 11:29:37 bruh
+help 2021-02-14 11:29:41 it stopped working
+help 2021-02-14 11:30:05 even if I hop out and hop back in now it still doesn't unanchor after hitting the key
+help 2021-02-14 11:32:30 now nothing works
+help 2021-02-14 11:32:43 im extremely confused
+help 2021-02-14 11:33:15 nvm it works again but
+help 2021-02-14 11:33:17 idk about the anchor
+help 2021-02-14 11:33:20 lemme test real quick
+help 2021-02-14 11:33:42 nope doesn't work
+help 2021-02-14 11:34:03 and before you ask there isn't a stray anchor in my creation
+help 2021-02-14 11:34:23 i can tell by looking at the count remaining of anchor blocks
+help 2021-02-14 11:35:59 yes
+help 2021-02-14 11:37:24 hmm
+help 2021-02-14 11:37:26 maybe
+help 2021-02-14 11:37:29 ill try now
+help 2021-02-14 11:40:13 i have bad news it is not unanchoring still
+help 2021-02-14 11:42:07 i lost total hope for my project, time and effort
+help 2021-02-14 11:46:26 i don't know why my other airship works
+help 2021-02-14 11:46:36 it is 6209 pieces
+help 2021-02-14 11:46:44 yet the anchor still works
+help 2021-02-14 11:47:08 the anchor stopped working after adding bombs to my combat airship
+help 2021-02-14 11:47:21 and if you ask why i put an anchor to my airship
+help 2021-02-14 11:47:27 it is necessary for the folding part
+help 2021-02-14 11:47:33 so it remains stable
+help 2021-02-14 11:47:35 while unfolding
+help 2021-02-14 11:48:38 actually I don't think this topic needs more discussion
+help 2021-02-14 11:55:27 I do not know why but it started working without problems on its own
+help 2021-02-14 11:55:31 problem solved
+general 2021-02-14 16:15:12 guys
+general 2021-02-14 16:15:16 I made a shredder trapper
+general 2021-02-14 16:15:18 and it works very well
+general 2021-02-14 16:15:34 how does yours function
+general 2021-02-14 16:16:02 mine is a huge slab of blocks with signs on it saying "plane flesh" and "for shredder consumption only"
+general 2021-02-14 16:16:07 if shredder consumes it
+general 2021-02-14 16:16:12 you immediately despawn
+general 2021-02-14 16:16:16 shredder gets stuck inside
+general 2021-02-14 16:16:27 you also have a turret on the top to provoke shredders
+general 2021-02-14 16:16:28 so they attack you
+general 2021-02-14 16:16:42 I trapped a shredder as you can see
+https://gyazo.com/1a16bd0045ba0223fa0f23c8cad6e608
+general 2021-02-14 16:17:00 the text
+https://gyazo.com/eaf5d0c9d3ab0a6817563e4ee2b07c05
+general 2021-02-14 16:17:54 wait this isn't plane crazy chat
+general 2021-02-14 16:17:55 oops
+general 2021-02-14 16:18:24 how to post pictures on <#384025409945337856>
+bot-central 2021-02-14 16:19:51 !rank
+general 2021-02-14 16:24:00 oh
+general 2021-02-14 16:24:04 yeah
+general 2021-02-14 16:24:19 yes
+general 2021-02-14 16:24:34 well they do like shredding huge slabs with turrets on them tho
+general 2021-02-14 16:25:02 yes
+general 2021-02-14 16:25:09 but well once you anger them
+general 2021-02-14 16:25:12 they definately attack you
+general 2021-02-14 16:26:46 "plane flesh"
+"for shredder consumption only"
+creations-chat 2021-02-14 17:26:48 that's why it is so special
+creations-chat 2021-02-14 17:32:49 i know
+i have other good creations but this one was made after I got angry at this shredder spammer
+and it works so what else could you want
+creations-chat 2021-02-14 17:36:34 i mean the creation was not meant to be creative in the first place it was just to bait shredders and give them a fate worse than death
+creations-chat 2021-02-14 17:39:25 cuz shredders suck and let's focus on the oil rig creation instead of mine
+creations-chat 2021-02-14 17:41:27 yes cuz that oil rig is awesome
+general 2021-02-20 18:08:35 can i post memes here
+general 2021-02-20 18:08:46 ok
+the-dump 2021-02-20 18:08:53 
+the-dump 2021-02-20 18:09:00 he is finding you:
+https://gyazo.com/25bb446aca83c1702f6bdf2c07fb9715
+help 2021-02-21 20:35:07 how can I make my plane light enough for its wings to properly keep it in the sky? i have replaced almost every possible block with helium that has apply at center to it but it still loses altitute despite its huge wings i need help
+help 2021-02-21 20:36:33 the wings:
+help 2021-02-21 20:38:06 it goes at about 200
+help 2021-02-21 20:38:22 ok
+help 2021-02-21 20:38:36 wait let me check again
+help 2021-02-21 20:39:11 241
+help 2021-02-21 20:39:56 ok
+help 2021-02-21 20:39:58 thank you
+help 2021-02-21 20:44:15 about 400 solved the problem thank you very much
+plane-crazy 2021-02-22 13:28:29 since roblox fixed buggy motor lock we should be able to turn it off i think cuz some other creations get affected badly because of it
+plane-crazy 2021-02-22 13:28:38 such as big landing gear
+plane-crazy 2021-02-22 13:28:40 for big planes
+plane-crazy 2021-02-22 13:29:17 the landing gear gets teleported to the nose of the plane and stays there forever due to buggy motor lock
+plane-crazy 2021-02-22 13:29:19 sad stuff
+plane-crazy 2021-02-22 13:29:49 and by motor lock I don't mean cramming 10 engines together
+plane-crazy 2021-02-22 13:30:01 I mean the actual motor locking and acting like a block
+plane-crazy 2021-02-27 18:24:38 
+plane-crazy 2021-02-27 18:25:21 my friend took this picture
+plane-crazy 2021-02-27 18:25:33 i was flying without jetpack
+plane-crazy 2021-02-27 19:36:21 tank's turret went rogue, footage was acquired from friend
+plane-crazy 2021-02-27 21:58:06 so I got launched into space somehow
+plane-crazy 2021-02-27 21:58:07 https://gyazo.com/ebc825b8e3ba36d90e1ae58dd7d5b601
+plane-crazy 2021-02-27 21:58:18 i reset character
+https://gyazo.com/4c8771a45623436d12f6dd4c15760c59
+plane-crazy 2021-03-02 12:33:16 what do red bullets mean
+creations-chat 2021-03-10 10:20:06 this one does not carry bombs at the moment
+creations-chat 2021-03-11 06:52:45 making that thing fly would be difficult honestly
+plane-crazy 2021-03-11 08:58:41 
+plane-crazy 2021-03-11 08:59:38 yes
+plane-crazy 2021-03-11 09:00:35 yes
+plane-crazy 2021-03-11 09:01:25 my pic explains everything
+plane-crazy 2021-03-11 09:02:10 haha
+plane-crazy 2021-03-11 09:02:34 it looks like you just pranked a bird and put an ice bag in his shirt
+plane-crazy 2021-03-11 09:02:40 and its reaction was that
+plane-crazy 2021-03-11 09:03:14 yes
+plane-crazy 2021-03-11 09:03:30 i never built anything using tutorials ever in my whole playtime in plane crazy
+plane-crazy 2021-03-11 09:03:40 i started playing since alpha
+plane-crazy 2021-03-11 09:04:02 sure maybe tutorials are necessary for overall advancement but like
+plane-crazy 2021-03-11 09:04:06 EÜÜGGHH
+plane-crazy 2021-03-11 09:04:10 i don't like them
+plane-crazy 2021-03-11 09:04:20 "come up with something original"
+plane-crazy 2021-03-11 09:04:25 yes
+plane-crazy 2021-03-11 09:04:27 yes
+plane-crazy 2021-03-11 09:04:32 replica tutorials are not good
+plane-crazy 2021-03-11 09:04:50 well inspiration and directly copying something are pretty different
+plane-crazy 2021-03-11 09:05:10 hm
+plane-crazy 2021-03-11 09:05:14 i mean
+plane-crazy 2021-03-11 09:05:16 idk
+plane-crazy 2021-03-11 09:06:59 one thing i hate is the people judging your builds because they started having their builds %99 motor 1s for motor locking and yours doesn't contain motor lock thing
+plane-crazy 2021-03-11 09:07:08 i mean
+plane-crazy 2021-03-11 09:07:14 people start building their builds out of motor locks
+plane-crazy 2021-03-11 09:07:18 and start judging yours
+plane-crazy 2021-03-11 09:07:24 because yours doesn't contain motor locks
+plane-crazy 2021-03-11 09:07:43 no matter how good it is
+plane-crazy 2021-03-11 09:07:49 once i made a pretty good a-10
+plane-crazy 2021-03-11 09:07:53 it got good reactions
+plane-crazy 2021-03-11 09:07:58 and then one guy just said it is dog shit
+plane-crazy 2021-03-11 09:08:37 and well to be honest having your builds built out of motor locks doesn't make it look that good
+plane-crazy 2021-03-11 09:09:08 yeah you are right
+plane-crazy 2021-03-11 09:09:14 impressive
+plane-crazy 2021-03-14 07:52:03 guys i got a pvp armor idea
+plane-crazy 2021-03-14 07:52:07 cameras are weightless
+plane-crazy 2021-03-14 07:52:12 if you cover ur creation with them
+plane-crazy 2021-03-14 07:52:16 it will have an invisible armor
+creations-chat 2021-03-14 07:56:08 i am currently lazy
+plane-crazy 2021-03-16 11:22:43 how could this happen
+plane-crazy 2021-03-16 11:23:19 where did we go so wrong
+help 2021-03-22 17:19:41 hello i made a v-22 osprey but the engines won't stop shaking and i don't even know why
+this hinders stability and makes the whole thing a lot harder to control
+here is a gif https://gyazo.com/5a1221e59ba74217761a201603e429f5
+oh and no i didn't use motor 1s and motor2s at the same time
+I checked the propeller to make sure parts don't collide with each other
+I maxed out the torque on the motors
+help 2021-03-22 17:23:48 well
+help 2021-03-22 17:24:04 it makes it easier for me but sure i will try that
+help 2021-03-22 17:36:40 yeah problem solved thank you very much
+help 2021-03-22 17:51:35 motor 2s couldnt lock
+help 2021-03-22 17:51:40 i switched to motor 1 with lock
+help 2021-03-22 17:51:42 and it was fixed
+help 2021-03-22 17:51:50 it flies pretty good now
+help 2021-03-22 17:51:56 just needs more improvements
+creations-chat 2021-03-24 09:16:53 epic
+help 2021-04-10 17:23:46 how to close hud
+help 2021-04-10 17:23:59 there was a key for it tho
+help 2021-04-10 17:24:10 i remember using it for a video i forgot now
+creations-chat 2021-04-30 11:58:39 i bet at least %75 of the people that downvoted my creation never even heard of aegis reborn in their lives
+plane-crazy 2021-04-30 16:19:42 picture taken moments before disaster
+plane-crazy 2021-04-30 16:20:31 ik
+plane-crazy 2021-04-30 16:20:35 i am aware
+plane-crazy 2021-04-30 16:20:53 the jet is not that good but the situation is epic imo
+plane-crazy 2021-04-30 16:23:28 not a good jet but you can see the motors
+plane-crazy 2021-04-30 16:23:48 those just cram everything to this level
+plane-crazy 2021-04-30 16:24:14 thats about it
+plane-crazy 2021-04-30 16:24:24 ok
+plane-crazy 2021-04-30 16:24:28 ah yes exactly
+plane-crazy 2021-04-30 16:24:56 here is the spawned version
+plane-crazy 2021-04-30 16:26:06 it is not very good but sure if you want
+plane-crazy 2021-04-30 16:26:29 
+plane-crazy 2021-04-30 16:26:37 rear view
+plane-crazy 2021-04-30 16:26:50 it is from aegis reborn
+plane-crazy 2021-04-30 16:27:12 thank you very much
+plane-crazy 2021-04-30 16:27:25 i started with the nose
+plane-crazy 2021-04-30 16:27:27 then the intakes
+plane-crazy 2021-04-30 16:27:30 then the fuselage
+plane-crazy 2021-04-30 16:27:32 then the wings
+plane-crazy 2021-04-30 16:27:50 my first priority was the canopy actually
+plane-crazy 2021-04-30 16:28:32 you are correct
+plane-crazy 2021-04-30 16:28:48 i just noticed that it is terribly short compared to the thing i was inspired by
+plane-crazy 2021-04-30 16:29:01 and the engines are just not right i will work on that thanks for the tip
+plane-crazy 2021-04-30 16:29:40 when you post it at the creations nobody gives constructive critisizm so you feel like it is perfect even though it was *terribly short* as you saw
+plane-crazy 2021-04-30 16:30:30 ah yes
+plane-crazy 2021-04-30 16:30:38 creations in a nutshell
+plane-crazy 2021-04-30 16:31:20 hmm yes this is actually somewhat longer
+plane-crazy 2021-04-30 16:32:52 why
+plane-crazy 2021-04-30 16:33:05 58 upvotes
+plane-crazy 2021-04-30 16:33:14 i think ik why it got that many
+plane-crazy 2021-04-30 16:33:42 in creations the votes depend on the first vote
+plane-crazy 2021-04-30 16:33:57 if it is a downvote the next person will have a larger chance of downvoting it
+plane-crazy 2021-04-30 16:34:53 so a bunch of people upvoted that ford gt at first glance and then a bunch of noobs followed because the noobs vote without knowing if a creation is good or not
+plane-crazy 2021-04-30 16:35:12 noobs just vote depending on what other people voted
+plane-crazy 2021-04-30 16:35:47 OmG hAxTer !!11!11 pLs bAn
+plane-crazy 2021-04-30 16:36:05 wh
+plane-crazy 2021-04-30 16:36:41 my friend made amogus in plane crazy and nobody attacked it in pvp then he used the integrated guns to kill the fellow creations
+plane-crazy 2021-04-30 16:37:02 impasta
+plane-crazy 2021-04-30 16:37:08 mama mia
+plane-crazy 2021-04-30 16:38:09 basic swear words are allowed in this discord right
+plane-crazy 2021-04-30 16:38:24 ok
+plane-crazy 2021-04-30 16:38:26 i will post epic meme
+the-dump 2021-04-30 16:38:36 
+the-dump 2021-04-30 16:39:02 at least the whole world dies painlessly
+the-dump 2021-04-30 16:39:24 but i thought we would survive 9 years minimum
+the-dump 2021-04-30 16:39:46 because climate change will kill us all a few decades later
+the-dump 2021-04-30 16:40:27 
+the-dump 2021-04-30 16:41:44 epic
+the-dump 2021-04-30 16:51:17 ok
+the-dump 2021-04-30 16:53:15 yes
+the-dump 2021-04-30 16:53:21 ww1
+the-dump 2021-04-30 17:13:06 my friend made this
+the-dump 2021-04-30 17:13:09 giga chad is omega sussy
+the-dump 2021-04-30 17:14:47 his portrait
+the-dump 2021-04-30 17:15:53 giga chad roblos
+the-dump 2021-04-30 17:18:34 https://gyazo.com/eaa3417318d4923ce6f763caa6c5ab25
+sussy spin
+the-dump 2021-04-30 17:21:40 https://gyazo.com/95b668999cd9a2252c892130ea5cf8be
+the-dump 2021-04-30 17:21:48 last pic of sussy friend creatin
+the-dump 2021-04-30 17:25:53 amognus
+the-dump 2021-04-30 17:26:48 giga chad's transparent jacket
+plane-crazy 2021-04-30 20:46:31 hey man i did as you said and the jet got improved so much compared to the old version
+plane-crazy 2021-04-30 20:46:45 thank you so much for the constructive feedback
+plane-crazy 2021-04-30 20:46:52 
+plane-crazy 2021-04-30 20:46:53 as you can see
+plane-crazy 2021-04-30 20:46:59 it is a lot more similar now
+plane-crazy 2021-04-30 20:47:13 the wings?
+plane-crazy 2021-04-30 20:47:17 oh yeah
+plane-crazy 2021-04-30 20:47:32 i messed up again lol
+plane-crazy 2021-04-30 20:47:54 yeah
+plane-crazy 2021-04-30 20:47:59 also
+plane-crazy 2021-04-30 20:48:06 it used to be bad at maneuvers
+plane-crazy 2021-04-30 20:48:11 now it has improved drastically
+plane-crazy 2021-04-30 21:19:17 well the problem isn't exactly fixed and it is kinda back to its original look due to the longer wings (sorry for ping btw)
+plane-crazy 2021-04-30 21:20:51 ok
+plane-crazy 2021-04-30 21:20:55 thank you
+plane-crazy 2021-04-30 21:33:43 hmm I think we are onto something here <@456226577798135808>
+plane-crazy 2021-04-30 21:34:00 yes
+plane-crazy 2021-04-30 21:34:07 i will do some minor tweaks now
+plane-crazy 2021-04-30 21:34:10 thank you very much
+plane-crazy 2021-04-30 21:34:39 thank you very much
+plane-crazy 2021-04-30 21:58:27 as-4 from aegis reborn
+plane-crazy 2021-04-30 22:00:14 ok it is done
+plane-crazy 2021-04-30 22:00:23 
+plane-crazy 2021-04-30 22:00:36 it has trails too but i don't activate them
+plane-crazy 2021-04-30 22:01:57 open canopy
+plane-crazy 2021-04-30 22:19:18 idk man sorry i have never made something like that before
+plane-crazy 2021-04-30 22:46:20 im falling
+plane-crazy 2021-04-30 23:07:06 https://gyazo.com/e3c120fef35eda07d38760d053ea6084
+f l o a t i n g   p o i n t   e r r o r
+plane-crazy 2021-04-30 23:07:11 epic
+plane-crazy 2021-04-30 23:08:29 https://gyazo.com/a349d98af247358c7d5f1e1dd69c2675
+plane-crazy 2021-04-30 23:08:33 what
+plane-crazy 2021-04-30 23:09:28 https://gyazo.com/934ff4a5b365dbceae1b8fe7e26e86bc
+plane-crazy 2021-04-30 23:16:33 epic
+plane-crazy 2021-04-30 23:49:39 help me
+plane-crazy 2021-05-01 12:40:40 <@456226577798135808> new jet: as-14 reaper
+plane-crazy 2021-05-01 12:40:52 based off of this
+plane-crazy 2021-05-01 12:41:01 epic
+plane-crazy 2021-05-01 13:12:31 epic
+creations-chat 2021-05-01 13:52:20 k
+creations-chat 2021-05-01 13:56:54 i agree on most of these things however the pic is not from the exact same angle and the elevators on the original have a nice airfoil shape so that might be why it seems steeper
+thank you very much for the feedback because not everyone can give good feedback like you
+creations-chat 2021-05-03 18:46:15 helium and motor locked chairs
+a ton of helium tho
+creations-chat 2021-05-03 18:55:41 ok
+plane-crazy 2021-05-05 14:03:17 hey do you guys have tips for building a bomb bay like this?
+plane-crazy 2021-05-05 14:03:28 without making it look trash
+plane-crazy 2021-05-05 14:04:46 swaeg
+plane-crazy 2021-05-05 14:11:27 actually i don't need answers anymore i found out how to do such bomb bays by accident
+plane-crazy 2021-05-05 14:18:29 yes
+plane-crazy 2021-05-05 14:19:29 i did exactly that
+plane-crazy 2021-05-05 14:19:43 https://gyazo.com/0880e074f3d4bba4b9d9b8c28461da89 came up with a design like this
+plane-crazy 2021-05-05 14:20:17 no that is just the angle
+plane-crazy 2021-05-05 14:20:30 the tail starts there
+plane-crazy 2021-05-05 14:21:13 front?
+plane-crazy 2021-05-05 14:21:29 how does that benefit
+plane-crazy 2021-05-05 14:21:47 hm
+plane-crazy 2021-05-05 14:21:51 yes
+plane-crazy 2021-05-05 14:22:25 thank you for the help btw
+plane-crazy 2021-05-05 14:22:48 i used half blocks and half wedge 2
+plane-crazy 2021-05-05 14:22:52 and half wedge down
+plane-crazy 2021-05-05 14:23:39 wouldn't motor 1 be better
+plane-crazy 2021-05-05 14:23:41 since it can lock
+plane-crazy 2021-05-05 14:23:54 ok
+plane-crazy 2021-05-05 14:24:00 thank you for the help everyone
+plane-crazy 2021-05-05 14:24:13 yes i know
+plane-crazy 2021-05-05 14:24:27 well i think motor 1s will be enough for me
+plane-crazy 2021-05-05 14:24:41 did that thing get exposed to mustard gas
+plane-crazy 2021-05-05 14:24:50 it has blisters(are turrets blisters for planes) everywhere lol
+plane-crazy 2021-05-05 14:25:28 oh
+plane-crazy 2021-05-05 14:25:33 that looks cool
+plane-crazy 2021-05-05 14:26:22 mine is way simpler
+plane-crazy 2021-05-05 14:28:36 mine is like this (i changed this design)
+plane-crazy 2021-05-05 14:28:42 the other part is a bit longer to compensate
+plane-crazy 2021-05-05 14:29:04 i see
+plane-crazy 2021-05-05 14:29:10 i will try that
+the-dump 2021-12-03 18:55:30 my friend just sent me this
+plane-crazy 2022-01-03 18:27:37 why would you be against the option to have a toggleable control surface
+plane-crazy 2022-01-03 18:27:47 hello
+plane-crazy 2022-01-03 18:28:05 nice pfp
+plane-crazy 2022-01-03 18:28:15 you
+plane-crazy 2022-01-03 18:28:27 yes
+plane-crazy 2022-01-03 18:28:37 magnificent
+plane-crazy 2022-01-03 18:28:54 ey thanks
+plane-crazy 2022-01-03 18:29:11 yes
+plane-crazy 2022-01-03 18:29:19 speaking of super hot
+plane-crazy 2022-01-03 18:29:25 did you play super hot mind control delete
+plane-crazy 2022-01-03 18:29:48 ah
+plane-crazy 2022-01-03 18:30:09 nice
+the-dump 2022-01-09 20:17:41 
+creations-chat 2022-01-24 21:14:24 you could change the material to be metal
+creations-chat 2022-03-10 16:23:48 thanks for the feedback bro front lights are actually there(they are hard to see since they are trails) and the lack of detail is because the entire reason i wanted to do this is to show the conveyor tracks with suspension
+general 2022-07-16 09:06:44 woah a discord mod with a life
+general 2022-07-16 09:06:47 how rare
+general 2022-07-16 09:07:58 you lost an arm
+creations-chat 2022-08-05 06:43:30 ty
+creations-chat 2022-08-05 07:28:13 ey thanks
+creations-chat 2022-08-05 12:08:14 guess you could call it a more american f-14 lmao
+creations-chat 2022-08-07 17:52:42 of course you will get at least 1 downvote but plane crazy community has a strong tendency to mass downvote things that aren't clusterfuckly motorlocked
+creations-chat 2022-08-07 17:58:00 not exactly, they focus on every single angle on your creation and whine about it if it is 1 degree off they don't care if it actually looks good or not
+custom builds are the way to go
+creations-chat 2022-08-07 18:02:30 off topic but I love your bio and status
+general 2022-09-16 21:32:20 bloody brilliant
+general 2022-09-16 21:33:06 that's
+general 2022-09-16 21:33:08 inspiring
+general 2022-09-16 21:33:53 lmao
+general 2022-09-16 21:34:01 oh
+general 2022-09-16 21:34:05 I thought you meant yourself

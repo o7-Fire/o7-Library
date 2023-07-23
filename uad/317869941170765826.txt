@@ -1,0 +1,158 @@
+The Tale of glyph8 (317869941170765826)
+plane-crazy 2020-10-21 21:11:34 any tips for b o a t?
+plane-crazy 2020-10-21 21:13:31 is there anything important to make it float?
+plane-crazy 2020-10-21 21:14:15 how much helium ?
+plane-crazy 2020-10-21 21:14:51 also i want to make a rear gunner seat for my mobile friend to where my mouse controls won't intersect with his aiming but he can use tap aiming sitll
+plane-crazy 2020-10-21 21:14:53 : (
+plane-crazy 2020-10-21 21:15:03 i want him to have some fun from this game, if only a little
+plane-crazy 2020-10-21 21:15:56 very cool
+plane-crazy 2020-10-21 21:16:10 how many guns is reccomended for bote
+plane-crazy 2020-10-21 21:16:17 like, in quanity
+plane-crazy 2020-10-21 21:16:20 of turrets
+plane-crazy 2020-10-21 21:16:37 mm, i'm going for like a gun yacht, for my first boat
+plane-crazy 2020-10-21 21:16:52 idk what it'd be
+plane-crazy 2020-10-21 21:16:56 alright
+plane-crazy 2020-10-21 21:17:11 i see
+plane-crazy 2020-10-21 21:17:22 i will also add anti aircraft missiles and fireworks
+plane-crazy 2020-10-21 21:17:28 in small quanity
+plane-crazy 2020-10-21 21:17:32 quantity
+plane-crazy 2020-10-21 21:20:36 yes, bote design
+plane-crazy 2020-10-21 21:22:27 how hard is it to make bote move?
+plane-crazy 2020-10-21 21:24:20 how...
+plane-crazy 2020-10-21 21:24:44 i want realistic steering-
+plane-crazy 2020-10-21 21:24:45 huh?
+plane-crazy 2020-10-21 21:25:35 i see
+plane-crazy 2020-10-21 21:25:49 are they steerable tho?
+plane-crazy 2020-10-21 21:25:57 like a re a l b o a t ?
+plane-crazy 2020-10-21 21:26:59 alr
+plane-crazy 2020-10-21 21:27:05 finally
+plane-crazy 2020-10-21 21:27:10 me and my friend can have  team roles
+plane-crazy 2020-10-21 21:27:53 they need rivers around the map
+plane-crazy 2020-10-21 21:27:55 like, a lot
+plane-crazy 2020-10-21 21:28:04 yes
+plane-crazy 2020-10-21 21:32:35 but i'm setting my turning to a and d
+plane-crazy 2020-10-21 21:32:39 why?
+plane-crazy 2020-10-21 21:32:45 because i want my guns to be mouse aimed.
+plane-crazy 2020-10-21 21:33:15 bote gang foreva!!!
+plane-crazy 2020-10-21 21:33:36 someone should make an aircraft carrier that actually launches tutorial aircraft with guns
+plane-crazy 2020-10-21 21:33:42 or something akin to tutorial aircraft
+plane-crazy 2020-10-21 21:36:10 like, how much helium blocks
+plane-crazy 2020-10-21 21:36:21 and lightness
+plane-crazy 2020-10-21 21:42:18 i see.
+plane-crazy 2020-10-21 22:12:50 how do i make it steer fast
+plane-crazy 2020-10-22 00:01:58 heli tips plzzplzplz
+plane-crazy 2020-10-22 00:02:03 😭
+help 2020-10-22 14:41:44 How do i make a jet turn really fast without putting jets on mouse motors, since i cant fit those anywhere that looks nice
+help 2020-10-22 14:42:37 That will make it turn on a dime?
+help 2020-10-22 14:42:45 Already got that iizpoke
+help 2020-10-22 22:05:47 i made custom control surfaces, but instead of turning my plane, they just flip it over, how would i combat this and make them turn my plane?
+help 2020-10-22 22:12:14 yes
+help 2020-10-22 22:12:21 i did it on max angle servo
+help 2020-10-22 22:12:32 but it doesn't turn well at all and stuff
+help 2020-10-22 22:12:36 its on 45.
+help 2020-10-22 22:13:33 
+help 2020-10-22 22:15:06 not
+help 2020-10-22 22:15:36 my elevators have max angles
+help 2020-10-22 22:15:37 too
+help 2020-10-22 22:16:15 they do.
+help 2020-10-22 22:16:47 i think it might actually be the elevators having too high of a max angle
+help 2020-10-22 22:16:50 its 30, but they're lorge
+help 2020-10-22 22:17:20 alr
+help 2020-10-22 22:17:55 yeah uh
+help 2020-10-22 22:18:00 whenever i try to go full turn
+help 2020-10-22 22:18:02 it flips over
+help 2020-10-22 22:18:06 so its not good handling
+help 2020-10-22 22:18:07 :/
+help 2020-10-22 22:18:13 custom control surfaces bad?
+help 2020-10-22 22:18:32 you can't do super sharp turns just like a normal plane
+help 2020-10-22 22:18:33 :/
+help 2020-10-22 22:20:22 its inside the plane now
+help 2020-10-22 22:20:39 oohhhh
+help 2020-10-22 22:23:44 still flips A
+help 2020-10-22 22:24:31 it rolls over and then crashes
+help 2020-10-22 22:24:46 making me have to carefully plan and execute turns
+help 2020-10-22 22:24:53 which i thought custom panels would eliminate
+help 2020-10-22 22:24:55 :/
+help 2020-10-22 22:25:36 still rolls.
+help 2020-10-22 22:26:21 then its too high execution skill
+help 2020-10-22 22:27:13 like, why would one want to pilot a plane that conciously when you have an equally as good option that doesn't require tweaking for hours and then still having it flip over when you just want to turn and then you have to un-sideways it and shit
+help 2020-10-22 22:27:14 asfigjiroeorg
+help 2020-10-22 22:27:21 its on 10
+help 2020-10-22 22:27:59 i just wanted my plane to have the same as the thrusters on motor 2 but like, it actually looks good
+help 2020-10-22 22:28:09 but nooo
+help 2020-10-22 22:28:20 it flips, unlike just putting thrusters on motors
+help 2020-10-22 22:29:35 screw that
+help 2020-10-22 22:29:41 i'm using thrusters on motors!!!
+help 2020-10-22 22:29:46 :chad:
+help 2020-10-23 02:18:20 any way to make custom control panels not suck ?
+help 2020-10-23 02:18:46 if you turn, you can't turn fast
+help 2020-10-23 02:18:50 at all
+help 2020-10-23 02:18:54 or you roll over and crash
+help 2020-10-23 02:19:01 i have found no way to stop this
+help 2020-10-23 02:19:03 or improve them
+help 2020-10-23 02:19:04 help me
+help 2020-10-23 02:38:14 yes
+help 2020-10-23 02:41:16 it just flips over
+help 2020-10-23 02:41:17 regardless
+help 2020-10-23 02:47:33 i mouse track with my elevatords
+help 2020-10-23 02:47:36 but not my control panels
+help 2020-10-23 02:47:37 is that bad?
+help 2020-10-23 02:53:06 or should i just get good
+help 2020-10-23 02:55:40 ik
+help 2020-10-23 02:55:44 but how do i make turns
+help 2020-10-23 02:55:51 and now
+help 2020-10-23 02:55:51 its super hard to keep it balanced
+help 2020-10-23 02:55:57 it goes up automatically
+help 2020-10-23 19:43:02 whyy does my plane go up with no input to the point where it goes b a c k w a r d s
+help 2020-10-23 19:43:06 how do i fix this
+help 2020-10-23 19:44:15 lol?
+help 2020-10-23 19:44:31 no i'm not, this hasn't happened before
+help 2020-10-23 19:44:38 i know the center of mass and lift stuff
+help 2020-10-23 19:44:42 but idk if that affects it
+help 2020-10-23 19:45:00 oh thanks
+help 2020-10-23 19:45:28 it is
+help 2020-10-23 19:46:17 but it still die.
+creations-chat 2020-10-23 21:19:12 would it be possible to make this fly well?
+plane-crazy 2020-10-24 00:30:36 how outlines :(
+help 2020-10-24 07:17:32 what would be the keybindings for the motors and thrusters on this walker
+help 2020-10-24 07:27:24 nvm
+help 2020-10-26 16:57:39 How fix invisible block :(
+help 2020-10-26 16:58:02 You need not spam
+help 2020-10-26 16:58:05 We get it
+help 2020-10-26 16:58:16 How fix invisible block tho 😫
+help 2020-10-26 16:59:00 an invisible block is preventing me from placing a wedge!!!
+help 2020-10-26 16:59:29 No
+help 2020-10-26 16:59:35 There isnt
+help 2020-10-26 16:59:44 Ive seen reports of the bug :/
+help 2020-10-26 16:59:50 How do i fix i
+help 2020-10-26 17:00:39 Yes
+help 2020-10-26 17:00:41 There is a fix
+help 2020-10-26 17:00:43 What is the fix
+plane-crazy 2020-10-26 19:58:48 That is a funny social experiment
+plane-crazy 2020-10-29 02:19:31 i broke a motor in two with sheer rotational force
+plane-crazy 2020-10-29 02:20:36 toxic alert!!!!!!!
+general 2021-10-23 04:59:29 so
+general 2021-10-23 04:59:34 hi
+plane-crazy 2021-10-23 04:59:44 how do i
+plane-crazy 2021-10-23 04:59:48 make my custom control panels
+plane-crazy 2021-10-23 04:59:49 turn me
+plane-crazy 2021-10-23 04:59:55 am i supposed to have to use my elevators to turn?
+plane-crazy 2021-10-23 05:00:02 or is it supposed to go with just the aerilons
+plane-crazy 2021-10-23 05:00:07 yup
+plane-crazy 2021-10-23 05:00:08 did that
+plane-crazy 2021-10-23 05:00:14 but it doesnt turn just goes sideways
+plane-crazy 2021-10-23 05:00:19 unless i use my elevator
+plane-crazy 2021-10-23 05:02:22 
+plane-crazy 2021-10-23 05:02:45 ignore that its ugly
+plane-crazy 2021-10-23 05:03:12 ik
+plane-crazy 2021-10-23 05:03:13 ok
+plane-crazy 2021-10-23 05:03:14 thanks
+plane-crazy 2021-10-23 05:04:12 ok
+plane-crazy 2021-10-23 05:05:17 fat doink ralsei
+plane-crazy 2021-10-23 05:06:37 motorlocked, terrifying
+plane-crazy 2021-10-23 05:09:13 gamerdestructor211
+plane-crazy 2021-10-23 05:11:22 alr
+plane-crazy 2021-10-25 08:11:38 stfu
+plane-crazy 2021-10-25 08:11:39 gals
+plane-crazy 2021-10-25 08:12:03 in what way
+plane-crazy 2021-10-25 08:13:14 rotation lock is working ive seen it   but im not vert experienced so dont bet on that answer

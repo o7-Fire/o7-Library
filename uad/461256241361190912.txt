@@ -1,0 +1,148 @@
+The Tale of superdonavanbros (461256241361190912)
+general 2021-08-07 17:46:46 finally verified
+plane-crazy 2021-08-07 18:21:01 so im realtivly good at making a wide array of basic planes but want to know what is a good thing to make to step it up a level
+plane-crazy 2021-08-07 18:22:03 hum.... ill look into tutorials for that
+plane-crazy 2021-08-07 18:23:17 it isnt
+plane-crazy 2021-08-07 18:23:43 im gonna try building a basic converyer belt engine fighter
+plane-crazy 2021-08-07 18:25:51 Ok
+plane-crazy 2021-08-07 18:28:41 Chilling in vc
+plane-crazy 2021-08-07 18:31:27 My guy <@683338279117914132> please don't scream in the vc I'm wanting to talk to players
+plane-crazy 2021-08-07 18:32:41 Aight thanks for not screaming
+plane-crazy 2021-08-07 18:37:30 I'll try making a small hover jet
+plane-crazy 2021-08-07 18:38:51 Shouldn't be that bad
+plane-crazy 2021-08-07 22:02:11 Weird
+plane-crazy 2021-08-07 22:02:15 But cool
+plane-crazy 2021-08-07 22:04:50 Ah
+plane-crazy 2021-08-07 22:05:13 How small can I make a fighter with a hover engine
+plane-crazy 2021-08-07 22:07:43 And can you aim guns with motor2 to shoot at where your mouse is pointing
+plane-crazy 2021-08-07 22:08:40 So
+plane-crazy 2021-08-07 22:08:48 If they all are arranged in a cross
+plane-crazy 2021-08-07 22:09:12 One above one below one left and one right
+plane-crazy 2021-08-07 22:12:22 They all can shoot at the center
+plane-crazy 2021-08-07 22:19:49 So if i wanna have em follow the mouse and all hit in one spot do I just need motor 2s or some fancy stuff
+plane-crazy 2021-08-07 22:26:02 What's the music
+plane-crazy 2021-08-07 22:26:42 Lol
+plane-crazy 2021-08-07 22:33:57 Nice
+plane-crazy 2021-08-07 22:34:24 I'm gonna try to make a focus point gunner
+plane-crazy 2021-08-07 22:34:37 So
+plane-crazy 2021-08-07 22:34:50 Idea is gun on each wing tip and top and bottom
+plane-crazy 2021-08-07 22:35:06 That can focus on the center where the mouse points
+plane-crazy 2021-08-07 22:35:14 I think I just need motor 2 for it right
+plane-crazy 2021-08-07 22:39:27 Can someone give me a design idea for a multi gun thing that follows the mouse pointer
+plane-crazy 2021-08-07 22:41:00 So
+plane-crazy 2021-08-07 22:41:08 Motor 2 on motor 2 on gun
+plane-crazy 2021-08-07 22:41:24 Also ciws?
+plane-crazy 2021-08-07 22:42:22 So
+plane-crazy 2021-08-07 22:42:34 It's not super hard
+plane-crazy 2021-08-07 22:42:36 Cool
+plane-crazy 2021-08-08 14:14:51 Nice build
+plane-crazy 2021-08-08 14:37:30 So collective question
+plane-crazy 2021-08-08 14:37:39 How much do y'all hate shredders
+plane-crazy 2021-08-08 14:39:04 I'm gonna try to make a shotgun plane that's just destroys shredders
+plane-crazy 2021-08-08 14:39:57 So anyway
+plane-crazy 2021-08-08 14:40:06 What's the easiest way to nullify a shredder
+plane-crazy 2021-08-08 14:40:23 I manage to out manuver them
+plane-crazy 2021-08-08 14:40:28 Also null zone?
+plane-crazy 2021-08-08 14:40:47 You mean death barrier?
+plane-crazy 2021-08-08 14:41:10 I'd say
+plane-crazy 2021-08-08 14:41:18 Don't compare it to MPH
+plane-crazy 2021-08-08 14:41:22 Compare it to knots
+plane-crazy 2021-08-08 14:41:29 OOOO
+plane-crazy 2021-08-08 14:41:33 Yeah that
+plane-crazy 2021-08-08 14:41:40 How far out is that
+plane-crazy 2021-08-08 14:41:53 Yeah I've seen that with parachute
+plane-crazy 2021-08-08 14:44:19 Yah know what they should add to the game
+plane-crazy 2021-08-08 14:44:26 Undo button
+plane-crazy 2021-08-08 14:44:34 Like undo last block
+plane-crazy 2021-08-08 14:44:46 Instead of go into a different menu
+plane-crazy 2021-08-08 14:45:06 Also
+plane-crazy 2021-08-08 14:45:19 Nerf shredders
+plane-crazy 2021-08-08 14:45:25 I think it's kinda a problem
+plane-crazy 2021-08-08 14:45:30 But keep the glitches
+plane-crazy 2021-08-08 14:45:50 Also
+plane-crazy 2021-08-08 14:45:59 What is the fastest engine type
+plane-crazy 2021-08-08 14:46:07 Magnet or hover
+plane-crazy 2021-08-08 14:46:12 True
+plane-crazy 2021-08-08 14:46:19 But skill can only do so much
+plane-crazy 2021-08-08 14:46:23 Hover is fun
+plane-crazy 2021-08-08 14:46:37 I love my hover fighter I made recently
+plane-crazy 2021-08-08 14:46:45 Gave it swiveling weapons
+plane-crazy 2021-08-08 14:46:56 It can function as a bomber to
+plane-crazy 2021-08-08 14:47:49 Still I enjoy the amogus plane it literally is a tnt plane that lands on carries with a paint job of imposter
+plane-crazy 2021-08-08 14:49:24 Also
+plane-crazy 2021-08-08 14:49:46 Can you make motor2 follow someone's mouse in your plane
+plane-crazy 2021-08-08 14:49:58 Like have a pilot and a gunner
+plane-crazy 2021-08-08 14:50:01 Sad
+plane-crazy 2021-08-08 19:34:02 Yo
+plane-crazy 2021-08-08 19:34:26 I gotta strap that scatter cannon to a plane
+plane-crazy 2021-08-08 19:34:38 Anti shredder bug gun
+plane-crazy 2021-08-08 19:44:34 Should I make a shredder that looks like a bug or a bug that looks like a shredder
+plane-crazy 2021-08-08 19:44:57 Understandable
+plane-crazy 2021-08-08 19:46:59 Those wings my guy
+plane-crazy 2021-08-08 19:51:31 Gonna try to make some new plane to be anti shredder bug
+plane-crazy 2021-08-08 19:51:34 Cause why not
+plane-crazy 2021-08-08 20:31:06 Sure
+plane-crazy 2021-08-08 20:31:35 One sec
+plane-crazy 2021-08-08 20:31:50 Voice chat also?
+plane-crazy 2021-08-08 20:32:32 I'll be in the hangar
+general 2021-08-08 20:33:00 Any mods on rn
+plane-crazy 2021-08-08 22:18:52 <@467459282250629120>
+plane-crazy 2021-08-08 22:18:57 Other vc
+bot-central 2021-08-08 22:28:45 !servers
+plane-crazy 2021-08-08 22:29:52 Do it now
+plane-crazy 2021-08-08 22:29:54 Please
+plane-crazy 2021-08-08 22:30:15 or we will use a shredder bug
+plane-crazy 2021-08-08 22:30:30 good
+bot-central 2021-08-08 22:58:51 =p through the fire and flames
+bot-central 2021-08-08 22:59:00 =p skip
+bot-central 2021-08-08 22:59:15 =remove 3
+bot-central 2021-08-08 22:59:21 =skip
+bot-central 2021-08-08 23:00:00 Do it now
+bot-central 2021-08-08 23:00:24 =remove 3
+bot-central 2021-08-08 23:00:38 Stop
+bot-central 2021-08-08 23:00:56 <@335599526414909451> yo we need some help
+bot-central 2021-08-08 23:01:09 Can you remove number 3 for us
+bot-central 2021-08-08 23:02:14 =skip
+bot-central 2021-08-08 23:03:13 COME ON
+bot-central 2021-08-08 23:06:30 Remove 2 <@335599526414909451> please
+bot-central 2021-08-08 23:07:34 =p Sabaton The red barron
+bot-central 2021-08-08 23:08:09 :0
+bot-central 2021-08-08 23:08:14 No
+bot-central 2021-08-08 23:08:24 No
+bot-central 2021-08-08 23:08:37 ;-!
+bot-central 2021-08-08 23:08:39 I
+bot-central 2021-08-08 23:08:41 Will
+bot-central 2021-08-08 23:08:48 Shredder bug you
+bot-central 2021-08-08 23:09:00 =p through the fire and flames
+bot-central 2021-08-08 23:09:27 =volume 50
+bot-central 2021-08-08 23:09:44 Lower the fucking volume please
+bot-central 2021-08-08 23:09:48 It's so loud
+bot-central 2021-08-08 23:10:11 I just got my song skipped by this
+bot-central 2021-08-08 23:10:17 I can hear anyone
+plane-crazy 2021-08-09 01:07:18 I got an empty private server rn
+plane-crazy 2021-08-09 01:07:27 Who wanna join
+plane-crazy 2021-08-09 01:08:28 Currently traveling at 2000 speed towards the void
+plane-crazy 2021-08-09 04:57:06 bro im crying im watching someone learn how to make a shredder what do i do
+plane-crazy 2021-08-09 04:57:59 k
+plane-crazy 2021-08-09 04:58:04 ill do my best to save a noob
+plane-crazy 2021-08-09 05:01:52 couldnt save em
+plane-crazy 2021-08-09 05:02:07 hes a lost cause
+plane-crazy 2021-08-09 05:02:27 ik
+plane-crazy 2021-08-09 05:02:29 its just
+plane-crazy 2021-08-09 05:02:32 over used
+plane-crazy 2021-08-09 05:02:55 its not fun to fight them cause its boring
+plane-crazy 2021-08-09 05:05:54 yeah
+plane-crazy 2021-08-16 23:53:58 So do motor locking bombs affect balance?
+plane-crazy 2021-08-16 23:54:27 Ok
+plane-crazy 2021-08-16 23:55:07 And can you go upside down with control panels
+plane-crazy 2021-08-16 23:56:24 Ok
+plane-crazy 2021-08-16 23:56:58 Trying to craft a plane that can out manuver planes that can go upside down and fast in combat
+plane-crazy 2021-08-16 23:57:15 Seems like they are becoming an annoying present
+plane-crazy 2021-08-16 23:57:24 But it's not hard to deal with
+plane-crazy 2021-08-16 23:58:19 IDK if server connection is a problem but just gotta get better
+plane-crazy 2021-08-16 23:59:37 I still do thing bullshit lag does play a part a little
+bot-central 2021-08-21 06:03:49 !pofile
+bot-central 2021-08-21 06:03:55 !pfp
+bot-central 2021-08-21 06:04:13 ?pfp
+bot-central 2021-08-21 06:04:32 ?profile
+bot-central 2021-08-21 06:04:59 ?av

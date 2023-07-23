@@ -1,0 +1,19 @@
+The Tale of romanone (632002555886567453)
+plane-crazy 2020-12-23 02:45:33 sirs, i have a bug where i can only fire the rockets and fireworks when im completely idle, and not whenever im moving
+plane-crazy 2020-12-23 02:49:24 it'll happen even if it's only a single rocket
+plane-crazy 2020-12-23 02:50:01 it'll just disappear when i fire
+bug-reports 2020-12-23 16:19:18 any ideas to why the rockets disappear when i fire them?
+bug-reports 2020-12-23 16:21:34 https://streamable.com/xk7mts
+bug-reports 2020-12-23 16:25:05 yesterday i showed this in game to someone else, and they said they didnt see it fire either
+bug-reports 2020-12-23 16:25:17 it only just vanished
+bug-reports 2020-12-23 16:28:03 i dont think it's lag
+bug-reports 2020-12-23 16:32:08 https://streamable.com/zi10lf
+bug-reports 2020-12-23 16:47:03 this bug ruins pvp for me
+bug-reports 2020-12-23 17:46:19 https://streamable.com/lm30t9
+bug-reports 2020-12-23 17:46:31 heres another vid where my ping is lower
+bug-reports 2020-12-23 17:46:44 and my fps is avaliable
+help 2021-01-23 22:37:39 https://streamable.com/sxkpn2 how should i keep my carrier from tilting?
+help 2021-01-23 22:38:31 k
+help 2021-01-23 22:38:35 thx
+help 2021-01-29 11:42:15 https://streamable.com/htnbvi the servo motors for the elevator decided they don't want to work
+help 2021-01-29 11:42:28 so i cant change the pitch now

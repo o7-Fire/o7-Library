@@ -1,0 +1,10 @@
+The Tale of littl3cake (590861999135522816)
+help 2022-11-21 17:03:52 I try to make a turret using motor 2 + motorlock to get rid of the space between vehicle and turret itself... apparently It creates so much friction that it can barely turn and when It does It glitches so much that It can teleport the vehicle into space if you will try hard enough... How can I get rid of the problem with that friction ? or make the turret move without these problems ? -worth to note...  I added some 1x0.9 however i want to avoid It as much as I can because It makes builds ugly in most cases. I wonder how people who build tanks do that
+help 2022-11-21 18:18:02 hmm sounds great
+help 2022-11-21 18:18:53 however i wont use ice because It reflects light too much
+help 2022-11-21 19:52:08 update: It works very well thank you guys for help
+help 2022-11-21 19:52:26 and I can stop the turret from rotation at any time i want to so thats cool too
+help 2022-11-22 19:06:29 For some reason I can't paint text on signs is there any way to overcome this bug?
+help 2022-11-22 19:11:00 if you try painting it from the back it wants to paint the sign itself... not the text
+help 2022-11-22 19:11:23 this solution works.... thanks
+help 2022-11-22 19:13:33 well i know that already

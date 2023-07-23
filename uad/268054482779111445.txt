@@ -1,0 +1,18 @@
+The Tale of exoniac (268054482779111445)
+bot-central 2022-01-30 19:18:12 !update
+bot-central 2022-01-30 19:19:18 hmm
+bot-central 2022-01-30 19:19:20 !help
+general 2022-01-30 19:28:21 is there a problem with being linked to a different account from the account i play plane crazy on? if so, is there a way to change which account i'm linked to?
+general 2022-01-30 19:28:57 i've looked around a little in the various info channels but couldn't find much
+general 2022-01-30 19:28:59 ah thank you
+plane-crazy 2022-02-26 00:13:46 i've never really spoken on this server but i figured out a neat little trick for making compact & good looking raising/lowering mechanisms without the use of pistons or magnets or any of that other unpredictable stuff, use three motor 2s as servos (max angles: x, 2x, x depending on how far up/down you want them to go) and connect them with half blocks. works good for spaceship landing gear & small lifts/elevators. i'd post an image but no perms :(
+plane-crazy 2022-02-26 00:15:08 yes i probably should, got like 5-10 builds i'm hoping to post in <#384025409945337856> but i've just not found the time to talk here much, not had much interest honestly
+plane-crazy 2022-02-26 00:15:46 alright, thank you, i'll just grab a couple screenshots
+creations-chat 2022-10-28 18:22:49 this community is so overly negative for no reason lol, half the newbie-ish creations get downvoted to oblivion for no reason.  just don't upvote if you don't think something's worth it, or at least give constructive criticism. and these people actually go out of their way to insult someone for liking something they don't? man.
+creations-chat 2022-10-28 18:28:21 yeah but everyone here thinks like a single-celled organism. no support for new people, no advice or any of that. just tell them they're bad at the game with a little red arrow and go on with your day. at least tell them what's wrong yk, but every time something sub-par gets posted in gallery chat 80+ people line up to downvote it with no care about helping anyone out
+creations-chat 2022-10-28 18:32:16 some people want to show what they're capable of without digging through the help channel to perfect everything
+
+<@448677698773057547> wasn't directed at you, if the slowmode wasn't so aggressive i already would've mentioned that it's cool of you to give some thoughts
+
+<@456226577798135808> had this community not driven me away for these exact reasons many months ago, my name wouldn't be white lol. but yeah
+creations-chat 2022-10-28 18:37:59 nice talk <#504436696021204992> hopefully you can appreciate that helping people isn't impossible if you dislike something of theirs (even if it's a newbie with a white name telling you this)

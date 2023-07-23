@@ -1,0 +1,6 @@
+The Tale of phxiii (215030659675193344)
+plane-crazy 2020-10-18 11:08:25 I have a question
+plane-crazy 2020-10-18 11:08:44 I've been trying to create a turret that can aim horizontally and vertically, using Motor2
+plane-crazy 2020-10-18 11:08:49 But I can't make it rotate vertically
+plane-crazy 2020-10-18 11:08:51 Any tips?
+plane-crazy 2020-10-18 11:09:06 Or is it even possible?

@@ -1,0 +1,125 @@
+The Tale of Avalyn (813111634267996160)
+plane-crazy 2021-08-14 17:21:02 does someone know how to make a mech? i want to make mech legs without using tutorials because they are gay lol
+plane-crazy 2021-08-14 17:23:16 i need help with making the legs
+plane-crazy 2021-08-14 17:23:18 exactly
+plane-crazy 2021-08-14 17:23:36 i've tried making hundreds of mech legs but none work
+plane-crazy 2021-08-14 17:25:00 do you have a picture you can send me in dms for a layout of where i should put the motors? i'll really appreciate it if you do.
+plane-crazy 2021-08-14 17:25:55 what about the ankle
+plane-crazy 2021-08-14 17:26:12 ah so no motor
+plane-crazy 2021-08-14 17:26:33 k
+plane-crazy 2021-08-14 17:26:46 can we take this into dms?
+plane-crazy 2021-08-14 17:28:25 so 3x6 feet>
+plane-crazy 2021-08-14 17:28:29 with friction blocks
+plane-crazy 2021-08-14 17:28:33 right?
+plane-crazy 2021-08-14 17:28:36 k
+plane-crazy 2021-08-14 17:28:55 k
+plane-crazy 2021-08-14 17:29:19 whats the ballast thing
+plane-crazy 2021-08-14 17:29:23 density
+plane-crazy 2021-08-14 17:29:43 ik
+plane-crazy 2021-08-14 17:29:46 but what density
+plane-crazy 2021-08-14 17:30:26 i just did the ankle
+plane-crazy 2021-08-14 17:30:52 ik how they work
+plane-crazy 2021-08-14 17:31:02 i have 1 week of play time
+plane-crazy 2021-08-14 17:31:07 on the setting thing
+plane-crazy 2021-08-14 17:31:09 settings*
+plane-crazy 2021-08-14 17:31:19 the chaft thing
+plane-crazy 2021-08-14 17:31:29 idk what to call it
+plane-crazy 2021-08-14 17:31:30 lmao
+plane-crazy 2021-08-14 17:31:41 the leg
+plane-crazy 2021-08-14 17:31:42 yes
+plane-crazy 2021-08-14 17:31:57 i have adhd so sorry
+plane-crazy 2021-08-14 17:32:51 i did
+plane-crazy 2021-08-14 17:32:55 i added a block of space
+plane-crazy 2021-08-14 17:33:14 im at the knee
+plane-crazy 2021-08-14 17:33:56 same thing like the ankle on how you build it?
+plane-crazy 2021-08-14 17:34:04 like the leg chaft thing
+plane-crazy 2021-08-14 17:34:29 ik but like how i put the leg
+plane-crazy 2021-08-14 17:35:01 k
+plane-crazy 2021-08-14 17:35:17 im now on the hips
+plane-crazy 2021-08-14 17:35:36 btw im making a humanoid mech
+plane-crazy 2021-08-14 17:35:53 yes
+plane-crazy 2021-08-14 17:36:06 should the torque be 30 on the knees
+plane-crazy 2021-08-14 17:36:10 speed is 2
+plane-crazy 2021-08-14 17:36:27 k
+plane-crazy 2021-08-14 17:37:18 alr it works well
+plane-crazy 2021-08-14 17:37:25 how do i lift my legs?
+plane-crazy 2021-08-14 17:37:46 maybe propellers?
+plane-crazy 2021-08-14 17:38:22 how do i do that
+plane-crazy 2021-08-14 17:38:52 k
+plane-crazy 2021-08-14 17:39:54 i got my mech legs to lift but they move to the left/right when they go up and down
+plane-crazy 2021-08-14 17:39:57 is that normal?
+plane-crazy 2021-08-14 17:40:19 like
+plane-crazy 2021-08-14 17:40:21 when i move
+plane-crazy 2021-08-14 17:40:30 my mech goes left and right
+plane-crazy 2021-08-14 17:40:52 how do i fix it
+plane-crazy 2021-08-14 17:40:58 propellers?
+plane-crazy 2021-08-14 17:43:59 i kinda countered it
+plane-crazy 2021-08-14 17:44:03 sure
+plane-crazy 2021-08-14 17:44:11 what you need help with?
+plane-crazy 2021-08-14 17:44:29 lemme search that up
+plane-crazy 2021-08-14 17:44:54 ah k i searched it up
+plane-crazy 2021-08-14 17:45:02 it looks very possible but difficult
+plane-crazy 2021-08-14 17:45:49 ok so for the front of the turret on the sides you can use the wedge blocks
+plane-crazy 2021-08-14 17:46:39 <@!571265344015171594>i cant counter the turning
+plane-crazy 2021-08-14 17:47:06 with propellers
+plane-crazy 2021-08-14 17:48:08 what.
+plane-crazy 2021-08-14 17:48:33 im not good at making tanks but sure
+plane-crazy 2021-08-14 17:49:44 i think ik how to help
+plane-crazy 2021-08-14 17:49:48 maybe pistons?
+plane-crazy 2021-08-14 17:49:53 before the springs
+plane-crazy 2021-08-14 17:50:05 lemme test
+plane-crazy 2021-08-14 17:50:41 they use springs in recoil capitan
+plane-crazy 2021-08-14 17:52:10 lemme experiment for him
+plane-crazy 2021-08-14 17:54:26 this is hard
+plane-crazy 2021-08-14 17:56:03 i wonder how to make a tank gun have recoil
+plane-crazy 2021-08-14 17:56:15 im trying rn
+plane-crazy 2021-08-14 17:56:58 no
+plane-crazy 2021-08-14 17:57:01 u cant retract it
+plane-crazy 2021-08-14 17:57:20 yes but how do you simulate it, that what im tryna do
+plane-crazy 2021-08-14 17:58:24 that works but what about uh... simulating it not in pvp
+plane-crazy 2021-08-14 17:58:34 nah
+plane-crazy 2021-08-14 17:59:28 wait i got it i think
+plane-crazy 2021-08-14 17:59:32 maybe propellers?
+plane-crazy 2021-08-14 18:00:04 lemme see that
+plane-crazy 2021-08-14 18:00:44 make it 38 or something
+plane-crazy 2021-08-14 18:04:14 im testing rn
+help 2021-08-14 18:09:11 how do i counter my mech from turning left/right when walking?
+plane-crazy 2021-08-15 16:33:11 i wish i could make some random scifi ship lol
+plane-crazy 2021-08-15 16:33:19 its hard to make them tho
+plane-crazy 2021-08-15 16:34:29 <@!581412939223924767> how do you make a sci-fi ship?
+plane-crazy 2021-08-15 16:34:38 like a capital
+plane-crazy 2021-08-15 16:34:56 well how do u make it fly
+plane-crazy 2021-08-15 16:34:57 lol
+plane-crazy 2021-08-15 16:35:18 well how do you make it hover?
+plane-crazy 2021-08-15 16:35:21 nvm
+plane-crazy 2021-08-15 16:37:32 thats what im doing rn
+plane-crazy 2021-08-15 16:51:11 motorlock is easy
+plane-crazy 2021-08-15 16:51:14 ngl
+bot-central 2021-08-20 00:20:02 ?shelp
+bot-central 2021-08-20 00:20:14 ?rhelp
+help 2021-11-13 18:52:05 can someone help me make a certain mech that i need a mech expert to help me with
+general 2021-11-14 13:54:13 hi
+general 2021-11-14 13:54:17 caps
+help 2022-02-26 23:01:46 Can someone help me make a mech (like the attack titan) because like, I cant make a mech without help
+help 2022-02-26 23:16:05 Can someone help me designing something?
+help 2022-02-26 23:16:58 Also, just to note, I know how to do the mechanics so dont even worry its just the design
+help 2022-02-26 23:17:05 But im trying to make the jaw titan
+help 2022-02-26 23:18:13 No like
+help 2022-02-26 23:18:16 With the wedges
+help 2022-02-26 23:18:17 and stuff
+help 2022-02-26 23:21:18 Here, we can take this into dms rq
+creations-chat 2022-02-27 02:43:05 Does it look ok?
+creations-chat 2022-02-27 02:45:23 do you even know what its supposed to be? then what is it supposed to be? naw, marcel
+creations-chat 2022-02-27 02:47:38 eh, i tried
+creations-chat 2022-02-27 16:03:07 fr, i tried so hard on my jaw titan and people STILL hate it
+creations-chat 2022-02-27 16:05:39 teach me how to do that stuff **in dms?**
+help 2022-02-27 16:10:13 can someone help me make a bipedal walker?
+creations-chat 2022-02-27 17:50:27 holy- alright
+creations-chat 2022-02-27 20:17:47 yall like? its the union pacific
+creations-chat 2022-02-27 20:21:54 ... that is no reason to dislike it <@!760578875163410432> wdym by fix the whole train, there is nothing much to fix... it is train, just can you deal with it? most trains back then looked like that
+creations-chat 2022-02-27 20:24:18 bro fr, there is **LEGIT** nothing to fix except from a few parts that I forgot to place
+creations-chat 2022-02-27 20:29:16 i didnt want to have an interior
+creations-chat 2022-02-27 20:33:19 bro again, why are you going harsh on me when im kinda new...
+<@!747564313597837432> wait till you see the YBA community LOL
+creations-chat 2022-02-27 20:35:35 imagine toxicity and train engines and cars are legit different colors, and how am i underaged when im 14 lmao
+creations-chat 2022-02-27 20:38:04 alr uh, well ig ill make it a 1970's union pacific

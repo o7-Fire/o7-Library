@@ -1,0 +1,131 @@
+The Tale of yurinullification (166262304428523520)
+plane-crazy 2020-11-23 14:37:41 made a simple "quad"copter, really hard to steer though. Any of y'all had luck with them?
+plane-crazy 2020-11-23 14:38:14 easily unbalanced otherwise
+tried with just 4 but immediately veered backwards
+plane-crazy 2020-11-23 14:39:47 top propellers are tied to shift/ctrl
+rest are opposites of eachother
+front is W to increase, S to slow down, back is S to increase/W to decrease etc
+plane-crazy 2020-11-23 14:45:56 Anyone know if it's possible to change steering from constantly being on to just, tap
+As in, engines are active for as long as you hold in
+plane-crazy 2020-11-23 16:24:39 if only there was a gyroscope or something
+plane-crazy 2020-11-23 16:24:52 or just in general some way to stabilize myself
+plane-crazy 2020-11-23 16:27:41 are they though?
+what am i missing here
+is putting propellers on every available surface not the correct way
+plane-crazy 2020-11-23 16:28:03 do i just need to make it heavier?
+plane-crazy 2020-11-23 16:28:57 👍
+plane-crazy 2020-11-23 16:45:29 ah it's fine
+i'll just experiment a bit on my own
+quite fun tbh
+plane-crazy 2020-11-23 17:30:27 https://gyazo.com/8e5b3aab044544ecbc0efdd956ea2b67
+plane-crazy 2020-11-23 17:37:04 https://gyazo.com/f20e81e276694918ce85f75a30f3fa52
+plane-crazy 2020-11-23 17:38:43 rook
+plane-crazy 2020-11-23 17:47:27 static fire
+https://gyazo.com/02834071df8bbcc8e2099f66c807c575
+plane-crazy 2020-11-23 22:43:49 question, how do i actually fire guns and such
+plane-crazy 2020-11-23 22:44:18 oki
+plane-crazy 2020-11-23 23:56:00 is there a more effective way to get 360 degree turrets than just having 2 motors tied to 4 controls
+plane-crazy 2020-11-23 23:57:18 tbh what's motor lock
+plane-crazy 2020-11-24 00:01:35 waitwaitwait can motors be cursor steered
+plane-crazy 2020-11-24 00:01:54 tell me 
+please
+plane-crazy 2020-11-24 00:02:20 is it just automatic
+or in settings
+plane-crazy 2020-11-24 00:02:23 somewhere
+plane-crazy 2020-11-24 00:02:30 ok epic
+plane-crazy 2020-11-24 08:48:55 so whenever using motor 2 for turrets i pretty much have to look at it from the side, for it to face forwards. Is there any way to fix this? being able to properly aim would be nice tbh
+plane-crazy 2020-11-24 08:50:01 wait i just realized what the issue was nvm
+plane-crazy 2020-11-24 08:50:03 sorry
+plane-crazy 2020-11-24 08:50:33 had the right idea but didnt realize it was the right idea
+or something
+idk
+plane-crazy 2020-11-24 09:05:29 is there any way to make this more defensive while keeping 360 degree movement?
+plane-crazy 2020-11-24 09:05:49 talking about the main turret
+plane-crazy 2020-11-24 09:05:54 body i can obv just make it larger
+plane-crazy 2020-11-24 09:06:32 hm
+plane-crazy 2020-11-24 09:19:01 
+plane-crazy 2020-11-24 09:19:42 i like it tbh
+had a retractable fence on the front
+for whatever reason
+plane-crazy 2020-11-24 09:20:19 
+plane-crazy 2020-11-24 09:25:10 is there any way to make motors spin in the same direction
+kinda want to make something like a crawler
+dragging itself across the ground with poles
+plane-crazy 2020-11-24 09:25:36 🤔
+plane-crazy 2020-11-24 09:26:37 
+plane-crazy 2020-11-24 09:27:43 b t w
+can i, like, stretch blocks? or does everything have to be placed individually
+plane-crazy 2020-11-24 09:27:54 i see
+plane-crazy 2020-11-24 09:50:38 is there any way to make rounded cylinders?
+like, say, a head shape
+plane-crazy 2020-11-24 09:51:05 ah
+plane-crazy 2020-11-24 09:51:06 yeah
+plane-crazy 2020-11-24 09:51:53 oh nvm it's not large enough rip
+plane-crazy 2020-11-24 09:52:59 will just make the head a square
+plane-crazy 2020-11-24 09:56:07 corner blocks, in general
+will get images
+plane-crazy 2020-11-24 09:56:08 1 min
+plane-crazy 2020-11-24 09:59:05 
+plane-crazy 2020-11-24 10:00:53 that's just robocraft lmfao
+only game i knew with them
+plane-crazy 2020-11-24 10:02:18 eh
+they fixed some of the issues 
+stopped the playerbase decreasing atleast
+currently sitting at around 500 players per month
+plane-crazy 2020-11-24 10:02:37 or day idk how statistics work
+plane-crazy 2020-11-24 10:04:11 was about to say contact the devs but probably wouldn't be that great an idea
+plane-crazy 2020-11-24 10:27:28 
+plane-crazy 2020-11-24 10:27:50 
+plane-crazy 2020-11-24 10:28:28 still not entirely sure how its capable of flying
+midsection being almost entirely helium might have something to do with it
+plane-crazy 2020-11-24 16:34:37 tried making a vtol, ended up with a hovercraft. pretty much just glides across the ground
+plane-crazy 2020-11-24 16:36:06 is there something wrong with vtol craft or what
+plane-crazy 2020-11-24 17:16:12 what are these things and why are they screaming while homing into me
+plane-crazy 2020-11-24 17:18:06 guessing they're controlled by motor 2s or something?
+plane-crazy 2020-11-24 17:19:35 eh
+made a semi successful vtol
+too tired to work on anything else lmao
+plane-crazy 2020-11-24 17:19:45 happens to be both extremely slow and hard to maneuver
+plane-crazy 2020-11-24 17:20:30 kinda??
+plane-crazy 2020-11-24 17:20:58 have played the game on and off for quite a long time but only recently figured out how to actually do anything
+plane-crazy 2020-11-24 18:49:30 is there a mirror build more somewhere?
+plane-crazy 2020-11-24 18:52:25 will take that as a no
+plane-crazy 2020-11-24 18:54:58 as in
+set a line somewhere
+and what you build on one side gets duplicated to the other
+symmetry
+plane-crazy 2020-11-24 19:14:39 
+plane-crazy 2020-11-24 19:15:36 no? just thought it looked neat
+and wanted to share lmfao
+plane-crazy 2020-11-24 20:56:39 just out of curiosity
+is there a name for these things
+plane-crazy 2020-11-24 20:56:57 apart from just, steered missiles
+plane-crazy 2020-11-24 20:57:23 
+plane-crazy 2020-11-25 16:43:47 keep seeing all these boats
+but, like, how do you get them to the water in the first place
+plane-crazy 2020-11-25 16:44:44 ah
+plane-crazy 2020-11-25 16:44:49 right
+i'm stupid lmfao
+plane-crazy 2020-11-25 16:54:59 do ladders weigh anything
+plane-crazy 2020-11-25 17:27:36 something in this hellish creation makes me turn slightly sideways while trying to lift up. And it's just, pain. Atleast 20 engines if not more. Have checked all of them and found nothing
+plane-crazy 2020-11-25 17:30:02 do rocket engines have more thrust than jets? or what's the difference between them
+plane-crazy 2020-11-25 17:31:01 ah yes
+plane-crazy 2020-11-25 17:31:03 ofcourse
+plane-crazy 2020-11-25 17:36:08 
+plane-crazy 2020-11-25 17:52:27 honestly a feature i'd love to see is directional thruster control
+like, with a setting engines set to on/off only mode would activate and deactivate depending on where you're facing
+plane-crazy 2020-11-25 17:52:44 probably too hard to implement though
+plane-crazy 2020-11-25 23:43:57 how do y'all manage to make those weird angles while building
+like honestly curious
+since i havent found anything besides cubes and wedges myself
+plane-crazy 2020-11-25 23:44:30 ah
+plane-crazy 2020-11-25 23:44:32 right
+plane-crazy 2020-11-25 23:44:52 really need to figure out how that works at some point tbh
+plane-crazy 2020-11-26 00:00:51 https://www.youtube.com/watch?v=zyiPBQZOZF8&feature=emb_logo
+have watched this video several times by now
+trying to figure out motor lock
+and it's just, like
+plane-crazy 2020-11-26 00:00:58 what
+plane-crazy 2020-11-26 00:01:57 my brain is too small for this
+will just give up tbh
+plane-crazy 2020-11-26 00:08:59 https://i.kym-cdn.com/photos/images/newsfeed/001/252/966/c1c.gif

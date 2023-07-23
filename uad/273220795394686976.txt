@@ -1,0 +1,578 @@
+The Tale of shooter7620 (273220795394686976)
+plane-crazy 2022-04-09 08:30:46 ok quick question
+how much of a pain is it to make something with huge jet engines fly
+plane-crazy 2022-04-09 08:40:30 I'm trying to "for science" stuff ok
+I want to just see if the huge jet engines are even usable in any form on an aircraft without the enormous weight of the engine itself being the demise of the airframe
+plane-crazy 2022-04-09 08:56:43 was already planning on it
+plane-crazy 2022-04-09 09:19:48 ok it manages to fly
+plane-crazy 2022-04-09 09:19:59 but it flies like a brick
+plane-crazy 2022-04-09 09:24:10 I mean there's probably excess drag from the giant wingspan I have just to make sure the 6 engines don't stall it easily
+plane-crazy 2022-04-09 09:32:37 I meant the weight increasing the stall speed
+plane-crazy 2022-04-09 09:33:26 I could try cutting down the wings
+but I don't know if it would fly any better
+plane-crazy 2022-04-09 09:34:40 ok definitely flies better
+plane-crazy 2022-04-09 09:35:40 skill issue moment
+general 2022-04-09 18:25:41 Wth
+plane-crazy 2022-04-09 21:51:57 hm
+plane-crazy 2022-04-09 21:52:19 better than most of my builds tbh
+plane-crazy 2022-04-09 22:39:59 chaos
+plane-crazy 2022-04-10 18:43:18 ^
+plane-crazy 2022-04-10 18:44:25 That's just Plane Crazy
+plane-crazy 2022-04-10 18:47:51 Same here
+plane-crazy 2022-04-10 18:52:54 pls send
+plane-crazy 2022-04-10 19:07:34 ok after playing it
+that's just a different game on it's own
+that's not really going to be any real problem to Plane Crazy 2
+or the og Plane Crazy for that matter
+if it was, that would be *Plane Crazy*
+plane-crazy 2022-04-10 19:09:12 magick
+plane-crazy 2022-04-10 19:09:47 TOYOTA CORO-
+plane-crazy 2022-04-10 22:10:58 ☠️
+plane-crazy 2022-04-10 22:11:02 bro
+plane-crazy 2022-04-10 22:11:19 at that point if you need that many just use motor 2 with mouse control
+bot-central 2022-04-10 22:18:29 !rank
+general 2022-04-10 22:23:28 💀
+general 2022-04-10 22:29:44 jesus what is that motorlock tower
+plane-crazy 2022-04-10 23:52:20 what did I come back to
+plane-crazy 2022-04-11 00:22:57 wdym rgb is good for gaming
+plane-crazy 2022-04-11 00:23:03 <:FineTroll:626841259746656289>
+plane-crazy 2022-04-12 13:17:56 <:FineTroll:626841259746656289>
+plane-crazy 2022-04-12 13:18:14 nice
+plane-crazy 2022-04-12 13:20:21 I have a jet that can do that but I never talk about it because I mostly based it off a tutorial with minor modifications (very creative, I know). <:empty:794431705070174238>
+plane-crazy 2022-04-12 13:21:15 👍
+plane-crazy 2022-04-12 13:26:05 I built a "super-maneuverability" PvP aircraft that is uh a bit much in the way of nonsense
+Can U-turn at 1800 speed in a fraction of a second but bleeds nearly all of the speed at the same time
+At least I put in a powerful hover engine assembly on it
+plane-crazy 2022-04-12 13:26:21 Oh I can post images now
+plane-crazy 2022-04-12 14:29:33 PSM bullshittery 🗿 
+It's controllable but going any faster than 2100 speed causes uncontrollable yaw wobble
+plane-crazy 2022-04-12 14:31:01 Very controllable at or below 1800
+plane-crazy 2022-04-12 14:31:07 It's lightweight
+plane-crazy 2022-04-12 14:32:13 ooh
+plane-crazy 2022-04-12 14:32:46 👍
+plane-crazy 2022-04-12 14:32:51 Mostly
+plane-crazy 2022-04-12 14:33:00 Yes
+plane-crazy 2022-04-12 14:34:05 I have it so I can disable m2m control on demand but have yet to implement full keyboard control
+plane-crazy 2022-04-12 14:34:24 It stabilizes without m2m at high speeds
+plane-crazy 2022-04-12 14:38:55 Probably, it already works with the flight control propellers at high speeds but not well
+plane-crazy 2022-04-12 14:46:19 I haven't thought of a way to do that... 🤔 
+Do you mean without any flight control systems or with a different one?
+plane-crazy 2022-04-12 14:49:45 For the former the only way I can think of doing that is with servo mode motor2 canards with a high deflection angle controlled via keyboard
+Latter would probably employ a super rocket engine or another form of propulsion
+plane-crazy 2022-04-12 14:50:51 Mainly roblox physics <:FineTroll:626841259746656289>
+plane-crazy 2022-04-12 14:56:33 Thanks for explaining that you need to make thrustercraft to have PSM without wing panels <:empty:794431705070174238>
+plane-crazy 2022-04-12 15:01:54 Wing panels generating a lot of active lift with having very low velocity is kind of the issue
+plane-crazy 2022-04-12 15:02:28 Glider wings essentially, kinda prevents AoA from existing
+plane-crazy 2022-04-12 15:09:46 How much "AoA" does anyone here think can be achieved with wing panel aircraft
+general 2022-04-12 15:13:06 <:empty:794431705070174238>
+plane-crazy 2022-04-12 15:14:08 Angle of Attack
+Or assuming from that answer it simply doesn't exist in Plane Crazy
+plane-crazy 2022-04-12 15:14:31 <:empty:794431705070174238>
+plane-crazy 2022-04-12 15:16:46 Specifically aircraft made with wing panels for lift without any additional flight control via propulsion for stuff like that is what I meant
+plane-crazy 2022-04-12 15:17:55 Hmmm...
+plane-crazy 2022-04-12 15:19:24 ok I'll attempt the modification later
+plane-crazy 2022-04-12 15:25:33 ok
+plane-crazy 2022-04-12 15:25:59 I see
+plane-crazy 2022-04-12 15:27:05 sir
+plane-crazy 2022-04-12 15:29:05 💀
+plane-crazy 2022-04-12 15:34:34 I never said it with the implication of being difficult to do
+plane-crazy 2022-04-12 15:34:44 At least not intentionally
+plane-crazy 2022-04-12 15:35:20 I tuned it so it doesn't overshoot
+plane-crazy 2022-04-12 15:35:41 It has overshooting issues at higher speeds from wobble though :(
+plane-crazy 2022-04-12 15:39:23 No reverse engines
+I can flip it the other way via propellers because it is so light but that is it
+plane-crazy 2022-04-12 15:41:15 I haven't tried it, but probably yes
+But I should try that first
+plane-crazy 2022-04-12 15:43:14 Not really sure about that
+I *can* force it to yaw strongly but not at high speeds
+plane-crazy 2022-04-12 15:43:58 What would be equivalent of that in Plane Crazy
+plane-crazy 2022-04-12 15:44:23 It gets close but falls short by 500 speed
+plane-crazy 2022-04-12 15:45:02 If I had a larger engine sure but I kept it small
+plane-crazy 2022-04-12 15:46:06 so a flyable ICBM
+plane-crazy 2022-04-12 15:47:23 Bruh
+plane-crazy 2022-04-12 15:49:13 How do you get no wobble though
+plane-crazy 2022-04-12 15:49:32 ok
+plane-crazy 2022-04-12 15:49:49 Good enough
+plane-crazy 2022-04-12 15:54:35 Mfw drifting is hard to do unless you set your aircraft up for it
+Oh well, doesn't hurt to try
+plane-crazy 2022-04-12 15:55:07 💀
+general 2022-04-12 16:03:51 bruh
+general 2022-04-12 16:06:21 💀
+general 2022-04-12 16:08:38 You give that game a bad rep here by annoying people here about it 🗿
+general 2022-04-12 16:14:04 Someone is going to complain about "Chinese censorship" if this keeps up 🗿
+general 2022-04-12 16:14:50 no because the average user is supposed to know that most servers are dictatorships
+general 2022-04-12 16:16:52 1984 would be power abuse from a head of state not necessarily censorship by necessity
+general 2022-04-12 16:17:50 rip your teeth
+general 2022-04-12 16:18:10 <:OmegaTroll:626841385118597152>
+general 2022-04-12 16:20:14 yes because it annoyed people here that people kept advertising/talking about it
+general 2022-04-12 16:20:54 Holy shit those modstats
+general 2022-04-12 16:21:44 Better to ask elsewhere I'm afraid
+general 2022-04-12 16:23:00 I thought you could already build planes
+general 2022-04-12 16:25:07 <:FineTroll:626841259746656289>
+general 2022-04-12 16:27:00 🤨
+general 2022-04-12 16:27:55 Yes sort of from what I could tell
+general 2022-04-12 16:29:30 Discord thing
+plane-crazy 2022-04-12 16:31:06 <:trollface:775024642104229898>
+plane-crazy 2022-04-12 16:32:33 What's so hard about building a Sukhoi Su-30
+plane-crazy 2022-04-12 16:32:40 🤔
+plane-crazy 2022-04-12 16:33:52 **oh**
+plane-crazy 2022-04-12 16:36:50 Ah shit right the canards
+plane-crazy 2022-04-12 16:36:55 <:empty:794431705070174238>
+plane-crazy 2022-04-12 16:42:09 That just made me laugh and idk why
+plane-crazy 2022-04-12 16:44:06 Wouldn't you use those on craft that actually have actuating launch rails on their IRL counterpart
+plane-crazy 2022-04-12 16:44:18 And not uh a Mig-21
+plane-crazy 2022-04-12 16:45:27 How many lives do you have
+plane-crazy 2022-04-12 16:45:32 <:FineTroll:626841259746656289>
+plane-crazy 2022-04-12 16:46:13 no stop it just looks bad please
+plane-crazy 2022-04-12 16:46:18 <:empty:794431705070174238>
+plane-crazy 2022-04-12 16:48:17 Why
+More importantly, wtf are you doing referencing ac3
+I get that's supposed to be the Su-37 but <:empty:794431705070174238>
+plane-crazy 2022-04-12 16:50:03 My best own builds for planes are literally a stick with bells and whistles on them
+plane-crazy 2022-04-12 16:50:36 Because I can't build otherwise without putting too much weight on the aircraft
+plane-crazy 2022-04-12 16:51:59 Uh oh
+plane-crazy 2022-04-12 16:52:12 Here comes the knife stab
+plane-crazy 2022-04-12 16:52:29 <:OmegaTroll:626841385118597152>
+plane-crazy 2022-04-12 16:54:07 Ah yes ICBMs
+plane-crazy 2022-04-12 16:54:35 I sense something wrong with that or it otherwise actually looks good
+plane-crazy 2022-04-12 16:55:30 o no
+plane-crazy 2022-04-12 16:55:56 Are they incendiary bomblets?
+plane-crazy 2022-04-12 16:57:20 uhhh
+Slap lava spitters or whatever they're called into the mix?
+plane-crazy 2022-04-12 17:00:59 Ok then teach me 😃
+plane-crazy 2022-04-12 17:01:16 ayo-
+plane-crazy 2022-04-12 17:02:19 Intercontinental Missile Bomb
+the-dump 2022-04-12 17:05:53 
+plane-crazy 2022-04-12 17:08:35 Ah shit
+plane-crazy 2022-04-12 17:08:41 <:empty:794431705070174238>
+plane-crazy 2022-04-12 17:09:01 I'm gonna have wobble for days unless I reduce engine power
+plane-crazy 2022-04-12 17:10:01 I have no idea because the last time I touched anime was years ago
+plane-crazy 2022-04-12 17:16:08 I wish I couldn't say the same 😔
+plane-crazy 2022-04-12 17:16:44 How does one not build a stick with flight control systems slapped on it
+plane-crazy 2022-04-12 17:18:21 Let me rephrase that
+How to not build an *ugly stick with flight control surfaces
+plane-crazy 2022-04-12 17:18:44 I mean I already learned how somewhat from doing a tutorial build but I lack creativity
+plane-crazy 2022-04-12 17:19:52 I tried that and I had no idea how
+So no matter what testbed I tried to use it spun or tilted out of control even with careful tuning of tail rotors
+plane-crazy 2022-04-12 17:20:41 I used propeller blades
+plane-crazy 2022-04-12 17:21:03 Ah ok
+plane-crazy 2022-04-12 17:22:05 but but
+That's the lazy way
+I want real helicopter
+malding rn
+plane-crazy 2022-04-12 17:23:18 What's the extra motors for
+plane-crazy 2022-04-12 17:23:55 Oh ok
+plane-crazy 2022-04-12 17:26:55 Oh one last question
+How do you utilize motorlock to have blocks rotated at a 45-135° angle
+plane-crazy 2022-04-12 17:27:22 Or is that cam lock
+plane-crazy 2022-04-12 17:27:29 Yes
+plane-crazy 2022-04-12 17:28:16 Oh that's why I see monster motorlock towers at times
+plane-crazy 2022-04-12 17:28:27 <:empty:794431705070174238>
+plane-crazy 2022-04-12 17:29:28 I saw that someone had once over locked their build with what looked like 150+ super rocket engines
+plane-crazy 2022-04-12 17:29:36 <:empty:794431705070174238>
+plane-crazy 2022-04-12 17:29:50 I didn't even want to imagine the drag
+plane-crazy 2022-04-12 17:31:08 I used it then realized the airframes I build are too prone to wobble to max out those
+plane-crazy 2022-04-12 17:33:19 It's called "motor 2 mouse"
+plane-crazy 2022-04-12 17:33:49 How so
+plane-crazy 2022-04-12 17:34:30 ^
+plane-crazy 2022-04-12 17:36:22 I consider usage of that on an aircraft laziness
+Unless you're actually stuck
+plane-crazy 2022-04-12 17:37:56 They often have so much weight that it causes issues with motor mouse controls
+plane-crazy 2022-04-12 17:50:04 mfw I made a nam Su-27 just so I could get a grip on building PvP airframes
+plane-crazy 2022-04-12 18:05:10 If you get hit in the first place by a 6 rocket volley your plane will be screwed up unless it is a lag/block/beam-heavy build
+plane-crazy 2022-04-12 18:11:51 They cause drag
+plane-crazy 2022-04-12 18:13:14 If your build is that laggy 💀
+general 2022-04-12 19:23:44 But I thought most electronics were made in China <:FineTroll:626841259746656289>
+general 2022-04-12 19:25:54 I said most <:FineTroll:626841259746656289>
+general 2022-04-12 19:55:42 1984!1!11!1!
+general 2022-04-12 20:01:01 Never ask a man his salary,
+A woman her age,
+And the Chinese Government about The Tienanmen Square Massacre
+general 2022-04-12 20:01:28 <:OmegaTroll:626841385118597152>
+plane-crazy 2022-04-12 20:11:40 💀
+plane-crazy 2022-04-12 20:12:55 🤨
+plane-crazy 2022-04-12 20:14:31 Just like the fuel tanks that exploded <:trollface:775024642104229898>
+plane-crazy 2022-04-12 20:16:39 <:thchoink:527880803456122891>
+plane-crazy 2022-04-12 20:17:37 <:empty:794431705070174238>
+plane-crazy 2022-04-12 20:20:44 Holy shit
+Real?
+plane-crazy 2022-04-12 20:31:05 Nice
+plane-crazy 2022-04-12 20:31:13 This
+plane-crazy 2022-04-12 20:33:05 Wait wtf did I come back to
+plane-crazy 2022-04-12 20:33:35 L
+the-dump 2022-04-13 12:31:18 💀
+the-dump 2022-04-13 13:13:13 <:OmegaTroll:626841385118597152>
+general 2022-04-13 13:55:33 Why are you playing Blitz ☠️
+general 2022-04-13 13:56:37 💀
+plane-crazy 2022-04-13 15:47:39 real
+general 2022-04-13 15:50:22 Imagine playing grind thunder <:FineTroll:626841259746656289>
+general 2022-04-13 15:52:03 Ok don't play World of Tanks or any of its counterparts
+general 2022-04-13 15:52:08 <:FineTroll:626841259746656289>
+general 2022-04-13 15:52:27 sorry you what
+general 2022-04-13 20:15:44 OBS uses that as the default video output format
+general 2022-04-13 20:16:22 As sudden power loss or shut downs allows you to resume recording where you left off if you didn't save the recording
+general 2022-04-13 20:16:43 Yes
+plane-crazy 2022-04-13 22:24:53 <@619312093962829849> ok so remember the non-propeller based psm controls you were talking to me about
+I tried the canard idea and it was close to working but fails
+also caused vertical wobble (probably thanks to my craft being a literal paperweight)
+plane-crazy 2022-04-13 22:25:38 hmm
+plane-crazy 2022-04-13 22:25:39 ok
+plane-crazy 2022-04-13 22:30:24 ok so turning the whole craft into diamond plate makes the craft too tail heavy gonna try something else
+plane-crazy 2022-04-13 22:34:33 ok so balancing it works but the canards still don't work
+plane-crazy 2022-04-13 22:35:08 as in the craft is heavy enough to start falling at 150-ish speed as opposed to less than 40
+plane-crazy 2022-04-13 22:36:55 I'm too lazy to make a new airframe, I'm just modifying one I already have for the moment
+plane-crazy 2022-04-13 22:37:43 wait what do you mean by AP
+plane-crazy 2022-04-13 22:37:49 sorry if I seem clueless
+plane-crazy 2022-04-13 22:38:24 oh that
+plane-crazy 2022-04-13 22:53:20 <@619312093962829849> ok for reference I'm using an airframe based off of nam's Su-27
+which now that I think about it probably wasn't designed with extra weight from material switching in mind 🤦‍♂️
+this is what I get for using a 90%-ish tutorial plane
+plane-crazy 2022-04-13 22:54:16 I'll just revisit it when I build a new plane
+general 2022-04-14 01:02:49 <:FineTroll:626841259746656289>
+general 2022-04-14 01:05:33 ...you test in Studio?
+general 2022-04-14 01:16:56 <:FineTroll:626841259746656289>
+general 2022-04-14 01:18:18 <:trollface:775024642104229898>
+general 2022-04-14 01:37:13 oh hell naw
+plane-crazy 2022-04-14 01:46:40 🗿
+plane-crazy 2022-04-14 01:50:25 This was my first build in plane crazy
+do I just throw this thing straight into the incinerator where it belongs or do I try to make it not a flying piece of garbage
+plane-crazy 2022-04-14 01:50:51 👍
+plane-crazy 2022-04-14 01:51:27 oh I even had two instances of it
+plane-crazy 2022-04-14 01:51:31 time to yeet that too
+plane-crazy 2022-04-14 02:31:19 ok I'm finally showing a sliver of promise after about 8 or so failures of builds
+plane-crazy 2022-04-14 02:31:26 maybe
+plane-crazy 2022-04-14 02:33:30 ok
+plane-crazy 2022-04-14 02:33:58 anyways if you're asking about the sky being dark the sky is in the top right corner
+plane-crazy 2022-04-14 02:34:07 the ground is simply uh idk
+plane-crazy 2022-04-14 02:35:27 I literally do not know
+might have been the angle I took the picture at
+plane-crazy 2022-04-14 02:36:13 oh it was a bug with the time setting
+plane-crazy 2022-04-14 02:36:14 bruh
+plane-crazy 2022-04-14 02:38:10 ok now I forgot how to do a half block offset
+plane-crazy 2022-04-14 03:03:39 can someone give me a quick reminder on how to do a half block offset
+plane-crazy 2022-04-14 03:04:14 I forgot ok
+plane-crazy 2022-04-14 03:05:43 but thanks anyways
+plane-crazy 2022-04-14 03:22:05 they wouldn't work in PC still because it doesn't have permission to use those audio assets
+plane-crazy 2022-04-14 03:22:12 🗿
+plane-crazy 2022-04-14 03:23:36 mfw devs on march 22nd were like "how tf am I going to refund thousands of players for essentially a broken gamepass *and* tell them that it is Roblox's fault"
+plane-crazy 2022-04-14 03:24:18 I don't think anyone got refunded for broken radios tbh
+plane-crazy 2022-04-14 03:24:27 just not worth the effort
+general 2022-04-14 03:26:45 <:trollface:775024642104229898>
+bot-central 2022-04-14 03:27:43 ?rhelp
+the-dump 2022-04-14 03:40:08 should be -1
+"dayum quantum physics!"
+(edited because I realized I slightly screwed up the quote)
+the-dump 2022-04-14 03:50:42 https://images-ext-2.discordapp.net/external/WbbNf_-ql-4BdHt1A4pydF-yR7SA7kWqxIT3ukA-Cvs/https/i.kym-cdn.com/photos/images/original/002/210/109/d72.gif?width=440&height=603
+plane-crazy 2022-04-14 03:52:48 bruh <:empty:794431705070174238>
+general 2022-04-14 06:09:05 True, properly prepared baguettes are a useful projectile and ordinance delivery package*
+*Prepared via letting it become stale for months on end but not moldy
+general 2022-04-14 06:10:02 _ _
+general 2022-04-14 06:10:42 what
+general 2022-04-14 06:11:15 My own attempt at trolling got reverse carded on me 💀
+plane-crazy 2022-04-14 12:42:43 Is that a SAM or just a smaller ICBM
+plane-crazy 2022-04-14 12:43:22 💀
+plane-crazy 2022-04-14 12:43:37 Also where radar
+plane-crazy 2022-04-14 12:44:37 <:OmegaTroll:626841385118597152>
+plane-crazy 2022-04-14 12:46:57 So a SA-40 <:FineTroll:626841259746656289>
+plane-crazy 2022-04-14 13:38:06 I've seen worse for moderation.
+plane-crazy 2022-04-14 13:38:13 <:empty:794431705070174238>
+plane-crazy 2022-04-14 13:45:51 Still have seen worse 💀
+plane-crazy 2022-04-14 13:46:59 I would rather not describe the server I was in that had such a piss poor moderation history that you wouldn't believe it
+plane-crazy 2022-04-14 13:47:06 <:empty:794431705070174238>
+plane-crazy 2022-04-14 13:48:24 No, the staff team generally being incompetent at proper moderation and the rules not being clearly stated/making sense
+And the rules being bent for moderation purposes literally all the time
+plane-crazy 2022-04-14 13:48:50 And the server was nuked of its members once
+the-dump 2022-04-14 13:51:29 
+the-dump 2022-04-14 13:52:39 <:OmegaTroll:626841385118597152>
+the-dump 2022-04-14 14:02:24 "You got the whole squad laughing 💀"
+the-dump 2022-04-14 14:20:36 💀
+general 2022-04-14 14:31:00 What game
+general 2022-04-14 14:31:09 Oh
+the-dump 2022-04-14 15:19:19 <:FineTroll:626841259746656289>
+plane-crazy 2022-04-14 15:29:23 <:clueless:942802644043464734>
+general 2022-04-14 19:32:27 Because you are redpilled <:FineTroll:626841259746656289>
+general 2022-04-14 19:33:48 <:RoundMotor:706287054023294997>
+general 2022-04-15 01:07:57 2 months still isn't exactly a good track record imo
+general 2022-04-15 22:02:47 wtf
+general 2022-04-15 22:02:51 ☠️
+general 2022-04-15 22:03:49 reminds me of another certain community, just that it is a lot less worse by comparison
+general 2022-04-15 22:06:41 on second thought it's not justified to compare the two
+however if you really want to nag about it then don't play Galaxy <:empty:794431705070174238>
+general 2022-04-16 03:09:18 then why do you have a pfp of a Su-30SM
+general 2022-04-16 03:11:36 🗿
+general 2022-04-16 03:12:49 💀
+general 2022-04-16 03:13:31 <:OmegaTroll:626841385118597152>
+plane-crazy 2022-04-16 03:15:49 eXpOsEd mOtoRlOcC
+plane-crazy 2022-04-16 03:17:19 what the dog doin not having their passive sonar on
+plane-crazy 2022-04-16 03:17:25 💀
+plane-crazy 2022-04-16 03:17:52 no u
+plane-crazy 2022-04-16 03:18:19 why not a Mk. 52 smh
+the-dump 2022-04-16 03:20:02 ayo wtf
+plane-crazy 2022-04-16 03:21:12 sorry, what the flip is that motorlock tower
+general 2022-04-16 03:22:43 Ever thought of reading <#925522972586967092>?
+general 2022-04-16 03:23:08 I'm just saying lol
+general 2022-04-16 03:23:45 because they don't give regulars the ability to create invite links
+plane-crazy 2022-04-16 03:25:15 why
+I mean I was trying to resist the urge of taking out of context so badly
+plane-crazy 2022-04-16 03:25:18 but
+plane-crazy 2022-04-16 03:25:21 💀
+plane-crazy 2022-04-16 03:26:41 <:trollface:775024642104229898>
+general 2022-04-16 03:29:22 don't tell me you're about to overpressure the rbmk reactor
+general 2022-04-16 03:29:48 NO-
+general 2022-04-16 03:30:22 yes but also yesn't
+plane-crazy 2022-04-16 04:23:22 <:FineTroll:626841259746656289>
+plane-crazy 2022-04-16 04:45:10 Oh shit I didn't realize I said Mk. 52
+I'm blind
+plane-crazy 2022-04-16 04:45:15 I meant Mk. 50
+the-dump 2022-04-16 04:45:47 <:OmegaTroll:626841385118597152>
+general 2022-04-16 05:09:39 Ok aside from the literally identical frontal profiles I guess I should have checked the undercarriage
+general 2022-04-16 14:50:43 How-
+general 2022-04-16 16:41:04 I have noticed that at times too
+sometimes stuff shows up as nil even though it shouldn't <:empty:794431705070174238>
+general 2022-04-17 22:18:20 SA-3?
+general 2022-04-18 02:17:20 <:OmegaTroll:626841385118597152>
+general 2022-04-18 03:07:06 What
+general 2022-04-18 03:07:22 💀
+plane-crazy 2022-04-18 12:32:53 💀
+plane-crazy 2022-04-18 12:34:13 BVR is king when it comes to US aircraft <:Thonk:509498568982134816>
+plane-crazy 2022-04-18 12:35:28 <:FineTroll:626841259746656289>
+plane-crazy 2022-04-18 12:36:11 <:OmegaTroll:626841385118597152>
+general 2022-04-18 12:40:26 Sorry, *what?*
+💀 💀 💀
+general 2022-04-18 12:42:38 Bruh what
+general 2022-04-18 12:42:41 <:empty:794431705070174238>
+general 2022-04-18 12:44:30 Yes
+It just requires some "modifications"
+general 2022-04-18 12:44:56 ^
+general 2022-04-18 12:46:14 They could, but they probably wouldn't be allowed to do so.
+general 2022-04-18 12:48:28 💀
+general 2022-04-18 19:12:59 🤨
+general 2022-04-18 19:13:39 Industrial Revolution consequence moment
+general 2022-04-18 19:13:45 <:empty:794431705070174238>
+general 2022-04-18 19:14:37 Ew
+general 2022-04-18 19:42:53 💀
+general 2022-04-18 19:43:29 What if someone pinged Yousuf <:FineTroll:626841259746656289>
+general 2022-04-18 19:43:35 <:trollface:775024642104229898>
+general 2022-04-20 15:49:46 🇱
+plane-crazy 2022-04-21 16:26:39 I threw one of my old builds out because I knew there was no fixing it without remaking it altogether
+plane-crazy 2022-04-21 16:27:06 I probably need to throw out another build for the same reason but <:empty:794431705070174238>
+general 2022-04-21 16:31:52 ... 💀
+general 2022-04-21 16:31:57 ☠️
+general 2022-04-21 16:34:05 <:empty:794431705070174238> <:empty:794431705070174238> <:empty:794431705070174238>
+general 2022-04-21 16:36:06 💀
+general 2022-04-21 16:42:10 💀
+general 2022-04-21 17:07:59 What did I come back to 💀
+general 2022-04-21 19:25:25 <:empty:794431705070174238>
+plane-crazy 2022-04-21 20:36:19 Thanks, I hate it.
+plane-crazy 2022-04-21 20:37:14 ok nvm just cease
+plane-crazy 2022-04-21 20:39:14 It's basically full throttle and no throttle being your only two options in that mode
+plane-crazy 2022-04-21 20:39:35 And it defaults to no throttle if you don't have the accelerate key held down
+plane-crazy 2022-04-22 12:18:20 <:empty:794431705070174238> relatable
+plane-crazy 2022-04-22 12:18:44 I once scrapped an entire game's worth of scripts because it was poorly written
+general 2022-04-22 14:36:39 <:OmegaTroll:626841385118597152>
+general 2022-04-22 14:37:23 Even a war crime variant?
+general 2022-04-22 14:37:49 (Studs are sharpened into spikes)
+general 2022-04-22 14:39:00 Aight time to find a Lego brick that breaks the Geneva convention
+the-dump 2022-04-22 14:40:19 Nvm I found it surprisingly quickly <@297120728342331392>
+the-dump 2022-04-22 14:40:30 <:empty:794431705070174238>
+the-dump 2022-04-22 14:42:05 I mean standing on that would be pain to an unbearable degree
+the-dump 2022-04-22 14:42:25 Is that a ladder to heaven?
+the-dump 2022-04-22 14:42:50 Close enough <:FineTroll:626841259746656289>
+general 2022-04-22 14:44:14 Sharpen the edges on top to a 17° angle
+general 2022-04-22 14:44:36 You now have an improved war crime committing device
+general 2022-04-22 15:33:54 There would be more issues than just the moderation here cracking down on you
+general 2022-04-22 15:34:03 🗿
+general 2022-04-22 15:34:57 Again?
+I highly doubt it will happen a second time
+general 2022-04-22 21:35:24 What did I come back to <:empty:794431705070174238>
+plane-crazy 2022-04-23 03:23:54 <:empty:794431705070174238>
+general 2022-04-23 04:13:22 based 🤔
+general 2022-04-23 06:26:31 <:FineTroll:626841259746656289> true
+general 2022-04-23 06:27:42 Avagadro or Avocado?
+general 2022-04-23 06:28:10 <:empty:794431705070174238>
+plane-crazy 2022-04-23 09:41:17 <:empty:794431705070174238>
+plane-crazy 2022-04-23 09:41:59 <:trollface:775024642104229898> no, but I wouldn't have anyways
+plane-crazy 2022-04-23 15:01:13 <:OmegaTroll:626841385118597152>
+general 2022-04-23 15:08:45 There are a few things that would say otherwise <:FineTroll:626841259746656289>
+general 2022-04-23 15:09:48 Wait wtf <:thchoink:527880803456122891> 
+That's illega-
+general 2022-04-23 15:11:48 That is literally a blueprint
+You can-
+general 2022-04-23 15:11:58 You're going to Brazil
+general 2022-04-23 15:13:46 At least that is reasonable
+general 2022-04-23 15:14:21 <:OmegaTroll:626841385118597152>
+general 2022-04-23 15:16:54 <:empty:794431705070174238>
+plane-crazy 2022-04-23 17:43:18 wtf
+plane-crazy 2022-04-23 17:43:21 💀
+general 2022-04-25 12:08:57 💀
+general 2022-04-25 12:24:53 <:FineTroll:626841259746656289>
+general 2022-04-25 17:52:13 The heck?
+Still better than what I can build but <:Thonk:509498568982134816>
+general 2022-04-25 17:52:43 + "gacha" system (gambling)
+general 2022-04-25 17:53:18 Good joke <:FineTroll:626841259746656289>
+general 2022-04-25 17:57:14 ^
+general 2022-04-25 17:57:31 Sane for the ones published by Wargaming
+general 2022-04-25 17:57:35 <:empty:794431705070174238>
+plane-crazy 2022-04-25 18:02:08 Welcome to PCC
+There is much worse though so you can't complain too much
+general 2022-04-25 18:08:30 *immediately dies of cringe*
+general 2022-04-25 18:12:17 wdym lane to no bitches
+If you're playing it in the first place you already have no bitches
+general 2022-04-25 18:14:43 Technically he has a point
+What car uses gases in the atmosphere
+general 2022-04-25 18:16:13 It doesn't use the gas in the atmosphere and then convert it to usable power is the point
+general 2022-04-25 18:17:29 <:empty:794431705070174238>
+general 2022-04-25 18:18:16 <:OmegaTroll:626841385118597152>
+general 2022-04-25 18:20:28 You could just drive around with an actual pipe bomb on your car
+(Mfw "Lose The Heat 2")
+general 2022-04-25 18:22:21 So when is everyone here being medically treated for amogus
+general 2022-04-25 18:22:30 🗿
+general 2022-04-25 18:22:55 🗿
+general 2022-04-25 18:23:50 Vaporware salesman expert <:FineTroll:626841259746656289>
+plane-crazy 2022-04-25 19:19:18 Convertible
+plane-crazy 2022-04-25 19:19:22 <:FineTroll:626841259746656289>
+general 2022-04-26 19:15:03 Sorry wtf
+general 2022-04-26 19:16:23 <:empty:794431705070174238>
+general 2022-04-26 19:17:22 Azur Lane of No Bitches 🗿
+general 2022-04-26 19:18:24 That's illegal
+general 2022-04-26 19:18:57 Wdym what stop capping 🧢
+general 2022-04-26 19:20:50 no
+general 2022-04-26 19:21:53 ah yes that is definitely a typical whitename I agree
+general 2022-04-26 19:36:40 ☠️ ☠️ ☠️ ☠️
+general 2022-04-26 19:36:54 💀
+plane-crazy 2022-04-27 11:55:59 Plane 2
+general 2022-04-28 00:04:12 <:empty:794431705070174238>
+general 2022-04-28 00:05:01 <:empty:794431705070174238>
+general 2022-04-28 03:10:43 <:OmegaTroll:626841385118597152>
+general 2022-04-28 03:11:29 <:OmegaTroll:626841385118597152> <:OmegaTroll:626841385118597152>
+general 2022-04-28 03:13:05 <:empty:794431705070174238>
+general 2022-04-28 03:14:32 💀
+general 2022-04-28 03:14:46 👋
+plane-crazy 2022-04-28 15:17:19 <:empty:794431705070174238>
+general 2022-04-28 19:09:12 💀
+general 2022-04-28 19:47:59 <:empty:794431705070174238>
+general 2022-04-28 19:48:59 Wdym what
+general 2022-04-28 19:49:03 💀
+general 2022-04-28 19:49:43 <:empty:794431705070174238>
+general 2022-04-28 19:49:47 4k
+general 2022-04-28 19:50:36 Breh
+general 2022-04-28 19:51:11 Dyno is a rat and automodded my message
+general 2022-04-28 19:51:14 <:empty:794431705070174238>
+general 2022-04-28 19:52:03 🤨
+general 2022-04-28 19:52:41 ☠️
+general 2022-04-28 19:52:53 I already have one
+general 2022-04-28 19:54:09 Tf did I just miss
+general 2022-04-28 19:54:16 🤨 🤨 🤨
+general 2022-04-28 19:54:32 OK now I don't want to-
+general 2022-04-28 19:54:34 Wtf
+general 2022-04-28 19:55:14 Caught in 5000k
+general 2022-04-28 19:55:18 Uber HD
+general 2022-04-28 19:57:43 <@509857272651055126> yo wtf
+general 2022-04-28 19:57:46 💀
+general 2022-04-28 19:58:27 ☠️
+general 2022-04-28 19:59:16 💀 💀 💀
+general 2022-04-28 19:59:19 👋
+general 2022-04-28 21:21:32 30 + 39 <:FineTroll:626841259746656289>
+general 2022-04-28 21:22:39 <:empty:794431705070174238>
+general 2022-04-29 00:25:03 <:empty:794431705070174238>
+general 2022-04-29 00:37:52 <:JumboJet:559121641355870220> <:LagBomb:568630816121290753>
+general 2022-04-29 00:38:48 <:trollface:775024642104229898>
+general 2022-04-29 00:40:21 Idk ask the man who added the emoji
+general 2022-04-29 00:41:26 RoScale failure
+general 2022-04-29 00:41:27 L
+the-dump 2022-04-29 04:17:48 
+general 2022-04-29 04:19:52 <:empty:794431705070174238>
+general 2022-04-29 04:20:18 I already regret coming back to look at this channel
+general 2022-04-30 22:09:02 <:empty:794431705070174238>
+general 2022-04-30 22:11:10 Lmao 💀
+plane-crazy 2022-05-01 14:07:53 I wouldn't motorlock to the point where it is 90% of your build
+plane-crazy 2022-05-01 14:08:10 Unless it is necessary 🤔
+plane-crazy 2022-05-01 14:09:45 <:empty:794431705070174238>
+plane-crazy 2022-05-01 14:11:54 Yeah uh
+You couldn't have just built most of the fuselage without motorlock? <:empty:794431705070174238>
+plane-crazy 2022-05-01 14:13:07 OK well technically 40% of it isn't motorlocked
+plane-crazy 2022-05-01 14:15:22 That's unconventionally aerodynamic
+plane-crazy 2022-05-01 14:15:29 Not necessarily shit at flying
+plane-crazy 2022-05-01 14:15:31 Lmao
+plane-crazy 2022-05-02 18:53:34 Lmfao
+Doesn't Hars get annoyed at him being memed for that
+general 2022-05-04 10:08:28 🤨
+plane-crazy 2022-05-04 21:02:10 Terminal insanity
+plane-crazy 2022-05-04 21:03:10 <:empty:794431705070174238>
+plane-crazy 2022-05-04 21:04:11 I don't think any of them would want to be there anymore
+plane-crazy 2022-05-04 21:06:38 You say that which just makes me more reluctant to agree because I do not wish to remember some of the eye-bleach worthy shit I have seen
+plane-crazy 2022-05-04 21:08:59 A) 👎 
+B) Nowhere close to being the level of eye-bleach worthiness as some things I do not speak about
+plane-crazy 2022-05-04 21:09:37 **I do not speak about it**
+plane-crazy 2022-05-04 21:09:59 No
+plane-crazy 2022-05-04 21:10:09 Over my dead body
+plane-crazy 2022-05-04 21:11:36 ❌
+plane-crazy 2022-05-04 21:18:13 <:OmegaTroll:626841385118597152>
+general 2022-05-07 18:33:35 I just read it <:OmegaTroll:626841385118597152>
+general 2022-05-09 15:11:40 Where is the other ear
+general 2022-05-09 15:12:21 _ _
+general 2022-05-09 15:15:41 sir
+general 2022-05-09 15:17:00 Literally was simply "sir" because a baguette should not be used for war crimes
+general 2022-05-09 15:20:05 You would be a great English teacher <:FineTroll:626841259746656289>
+general 2022-05-09 15:20:43 <:OmegaTroll:626841385118597152>
+plane-crazy 2022-05-09 21:04:38 <:stuff:908917207986208828>
+general 2022-05-13 12:46:24 wtf
+plane-crazy 2022-05-13 17:58:29 💀
+plane-crazy 2022-05-14 00:29:05 how could you be missing the vertical stabilizers and still fly lol
+plane-crazy 2022-05-18 05:22:19 why does that seem so accurate
+plane-crazy 2022-05-18 05:23:51 why are you about to nuke a poor aircraft carrier
+plane-crazy 2022-05-18 05:23:58 it has done nothing wrong!11!11!
+bot-central 2022-05-18 18:46:31 -help
+general 2022-05-19 16:36:36 If you wish to resort to extremes then do something the breaks the ToS
+I cannot elaborate further, sorry
+general 2022-05-20 17:42:27 It is *controlled* sliding
+plane-crazy 2022-05-23 21:53:32 is that really what you know the pitot tube as
+plane-crazy 2022-05-23 21:53:35 bruh
+general 2022-05-25 15:13:30 💀
+general 2022-05-25 15:50:55 💀
+general 2022-05-25 15:52:59 ☠️
+plane-crazy 2022-05-26 03:27:33 Ok but where is magnetic properties of stalinium that allows it to deflect or absorb ordinance with barely a scratch
+general 2022-05-26 13:32:25 💀 💀 💀 💀
+general 2022-05-26 13:34:02 ☠️
+general 2022-05-26 13:34:18 W-what
+Impossible
+general 2022-05-26 13:36:20 1 stud of exposed motorlock <:FineTroll:626841259746656289>
+general 2022-05-26 13:38:48 "1 stud of exposed motorlock, redo your build" <:FineTroll:626841259746656289>
+general 2022-05-26 14:32:50 Unlike what funny roblox games would like you to believe <:FineTroll:626841259746656289>
+general 2022-05-26 14:34:48 The issue is they can't blow up like an atomic bomb in the first place
+general 2022-05-26 14:35:06 Unlike what Hollywood would like you to believe
+general 2022-05-26 14:37:54 "Aight lemme me sabotage every single part of this reactor and make it meltdown"
+"Why tf won't it meltdown???"
+general 2022-05-26 14:39:31 Me when the radioactive waste containers are barely radioactive if at all in some cases
+general 2022-05-26 14:42:49 Chernobyl let's see
+That was malignant management on the part of operators, and reactor design with a critical flaw plus an unfortunate series of events
+general 2022-05-26 14:43:51 Wdym 80
+general 2022-05-26 14:44:14 Also in terms of nuclear fusion
+They haven't found a way to make it commercially viable yet
+general 2022-05-26 14:44:37 They're using more energy to start and maintain the reaction than they are gaining energy
+general 2022-05-26 14:44:47 Hopefully that changes soon
+general 2022-05-26 14:48:00 "Bu-but what if we literally make a second sun by accident? 🤓"
+general 2022-05-26 17:10:21 💀
+general 2022-05-26 23:08:25 what
+creations-chat 2022-05-26 23:13:05 how do you fail a class that badly
+tf
+general 2022-05-27 17:36:10 wtf
+general 2022-05-27 17:36:13 💀
+general 2022-05-27 17:36:27 no
+general 2022-05-27 17:36:31 I politely refuse
+general 2022-05-27 17:36:45 adios
+general 2022-05-27 23:09:08 no u
+general 2022-05-28 15:20:06 Where's 1984?
+general 2022-05-30 04:06:05 🗿 not to be that one guy but it still doesn't discount you from being one
+I do however agree
+general 2022-05-30 04:08:00 no u
+plane-crazy 2022-05-31 17:12:42 <:clueless:942802644043464734>
+general 2022-06-03 14:47:09 Accurate
+general 2022-06-03 15:07:09 I can barely see the subject in the picture
+the-dump 2022-06-13 21:17:26 beat me to it
+the-dump 2022-06-13 21:17:41 
+the-dump 2022-06-19 22:53:49 
+the-dump 2022-06-19 22:54:25 <@466793357318815744> another DM raid
+the-dump 2022-06-28 05:22:25 LOL
+general 2023-03-11 09:14:37 💀
+general 2023-03-29 14:29:05 <:empty:794431705070174238>

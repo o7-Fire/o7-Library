@@ -1,0 +1,21 @@
+The Tale of bug1520 (480108339121094686)
+general 2023-05-03 15:01:35 hi
+general 2023-05-03 15:02:24 what?
+plane-crazy 2023-05-03 15:03:14 I somehow got over 2000 speed using glitchy roblox physics
+plane-crazy 2023-05-03 15:04:08 wait hold up one sec
+plane-crazy 2023-05-03 15:04:14 let me check the picture I took
+plane-crazy 2023-05-03 15:04:59 I somehow got 11501445 speed from opening a parachute
+plane-crazy 2023-05-03 15:05:38 honestly, why should I cry about it? Im just shocked tbh
+plane-crazy 2023-05-03 15:07:45 did you actually make a thing that flings you, or did you just get unlucky with roblox physics?
+||not in a bad sense, but Im really just curious as to how you can reach such speeds||
+plane-crazy 2023-05-03 15:08:14 it was what?
+plane-crazy 2023-05-03 15:10:13 It puts my magnet cannon to shame
+plane-crazy 2023-05-03 15:13:26 Speaking of, my cannon uses motors to turn, and as a result, will cause it to wiggle back and forth, it isn't a problem normally, but I placed a camera on the side to check where I aim, and the wiggle makes it really hard to aim, is there any way to stop motors from rotating back and forth when suddenly stopped while rotating a large mass?
+plane-crazy 2023-05-03 15:14:08 let me try
+plane-crazy 2023-05-03 15:15:33 it fixed the issue, thanks a lot!
+plane-crazy 2023-05-04 13:05:29 How do I make a rod bend, going from straight, into an L?
+plane-crazy 2023-05-04 13:09:57 what??
+general 2023-05-04 13:11:41 How do I make a rod bend, from straight into an L shape?
+general 2023-05-04 13:15:39 Is there a way to make a rod of blocks bend?
+general 2023-05-04 13:17:06 I need some help,
+how do I make a rod bend, from a straight line of blocks, to any other shape made of two lines joined toguether?

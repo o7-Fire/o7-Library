@@ -1,0 +1,20 @@
+The Tale of syncinus (267777987796008960)
+plane-crazy 2020-07-22 01:47:57 Motor 2 is totally broken
+plane-crazy 2020-07-22 01:48:12 Like half of the time it's working and half of the time it is not
+plane-crazy 2020-07-22 01:48:28 And then with no settings it's actual mouse control
+plane-crazy 2020-07-22 01:49:35 I was thinking to use Motor 2 for a battering ram to replace my Motor 1's because it has controllable radius but the input literally only works half of te time
+plane-crazy 2020-07-22 01:49:55 Someone should tell the developer he should fix the stupid Motor 2
+plane-crazy 2020-07-22 01:50:09 I don't want more blocks I want Motor 2 to work smh
+bug-reports 2020-07-22 01:52:58 Motor 2 input literally only works half of the time when using it as Servo
+bug-reports 2020-07-22 01:54:34 What's happening for me is that I have two gigantic battering rams, and I am switching from Motor1 to Motor2 for them, but the input is literally only working half of the time (I wonder if it's also related to my mouse), It is also on Servo mode
+bug-reports 2020-07-22 01:55:28 Sometimes only 1 Motor2 will turn on and the other will just not do anything
+bug-reports 2020-07-22 01:55:29 Yes it is
+bug-reports 2020-07-22 01:55:47 
+bug-reports 2020-07-22 01:56:03 It's not mouse movement, it's key input
+bug-reports 2020-07-22 01:56:21 It's not responding to my key input half of the time, and sometimes only one of them doesn't respond and sometimes it's both
+bug-reports 2020-07-22 01:57:17 Alright, that fixed it, though it makes the battering ram a bit more annoying to do
+bug-reports 2020-07-22 01:57:53 So the actual bug is that input sometimes fails to register in servo mode with toggle on Motor2
+bug-reports 2020-07-22 02:00:20 Motor2 is also impractical sometimes because sometimes it has a siezure in non-servo mode and murders the vehicle so that too
+plane-crazy 2020-07-22 02:01:31 Oh okay
+plane-crazy 2020-07-22 02:01:34 It has a filter
+plane-crazy 2020-07-22 02:02:48 Okay so turns out Motor2 is actually stupid because if you put it on toggle mode and then you put it onto servo mode it fails to register input half the time smh

@@ -1,0 +1,49 @@
+The Tale of justin4407 (683623061475426338)
+help 2020-07-03 13:52:32 Guys im not sure i should chat this but i just gotta chat :
+
+Question : Why is Whitelist and Driving Allowance things Request not allowed?
+
+(was just curious, no other means)
+help 2020-07-03 14:00:49 @mocmish thx for info
+help 2020-07-03 14:00:52 ah
+help 2020-07-03 14:00:53 blast
+help 2020-07-04 01:49:47 im not sure about that i completely understood what you are saying, but is the space between those two multiple of 2?
+help 2020-07-04 01:49:52 srry i dont have good english skills
+help 2020-07-04 01:50:50 Oh
+help 2020-07-04 01:50:53 i think i got it
+help 2020-07-04 01:51:15 kinda hard to explain with my bad english skill but ill try my best
+help 2020-07-04 01:51:48 the where you should build the fold thingy is the distance between the folding parts / 2
+help 2020-07-04 01:51:53 lemme give an example
+help 2020-07-04 01:52:05 if the distance between the two is 4 blocks
+help 2020-07-04 01:52:25 then you should build the folding thing 2 blocks from the edge
+help 2020-07-04 01:52:36 let me try to build an example and give you a screenshot
+help 2020-07-04 01:53:36 Alright, so when you try to fold this
+help 2020-07-04 01:53:57 its distance is 4 block
+help 2020-07-04 01:54:29 then you gotta build the folding thing 2 block from the edge, like this
+help 2020-07-04 01:54:34 lemme get a screenshot
+help 2020-07-04 01:55:29 like this
+help 2020-07-04 01:55:38 the light blue is the edge
+help 2020-07-04 01:56:17 nice, srry bout the bad explanation
+help 2020-07-04 01:56:26 uh there is various ways to do fold
+help 2020-07-04 01:56:38 but i explained one of the easiest way i think
+help 2020-07-04 01:57:03 well there is a problem with two - motor fold thingy
+help 2020-07-04 01:57:23 you cant install it on stuffs distanced 3, 5, 7, 9, blocks
+help 2020-07-04 02:03:24 i think i got why the single motor didnt work on ya creation
+help 2020-07-04 02:03:41 gonn test again to make it sure
+help 2020-07-04 02:06:59 i think i got why it didnt work
+help 2020-07-04 02:07:00 kinda
+bot-central 2020-07-04 03:27:56 &new
+help 2020-07-04 03:30:55 how can i use the &new command?
+help 2020-07-04 03:31:21 cuz im not sure about it even through i read <#705941616199991307>
+help 2020-07-04 05:49:13 ight thx mates
+help 2020-07-04 05:49:20 srry for late reply, through
+plane-crazy 2020-07-09 01:12:41 would this be enough for a  dogfight
+general 2020-11-03 23:53:10 Blast is motor lock removed or something
+general 2020-11-03 23:53:23 darn
+general 2020-11-03 23:53:30 seems like i have to rework all my designs
+general 2020-11-03 23:53:35 except of old ones
+general 2020-11-03 23:53:36 those r fine
+bot-central 2020-12-19 12:48:43 ?shelp
+bot-central 2020-12-19 12:49:00 ?rhelp
+bot-central 2021-02-10 02:52:57 ?shelp
+bot-central 2021-02-10 02:53:13 ?rhelp

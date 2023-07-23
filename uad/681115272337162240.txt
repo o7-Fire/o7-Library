@@ -1,0 +1,6 @@
+The Tale of illusivic (681115272337162240)
+bug-reports 2020-12-27 10:57:11 uhh idk if this is a bug or not, everytime i ride my tank and move forward, the fps suddenly drops and went probably 1 fps
+bug-reports 2020-12-27 11:02:16 https://streamable.com/3lknad
+help 2020-12-27 11:06:11 every time i ride my tank and move forward, the fps drops, help 
+https://streamable.com/3lknad
+bug-reports 2020-12-27 12:23:09 ahh, i removed some of the conveyor, i got less fps drops, guess it works

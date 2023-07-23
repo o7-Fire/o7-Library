@@ -1,0 +1,17 @@
+The Tale of ecilop (264547965589389313)
+general 2020-01-13 19:35:39 Anyone here an expert in making helicopters which use propeller blades to take-off? I need some troubleshooting.. ;-;
+general 2020-01-13 19:36:28 Oh nah, see - I keep messing around with torque, and propellers, and it still spins like a beyblade
+general 2020-01-13 19:36:36 Thats the troubleshooting I need
+general 2020-01-13 19:37:10 As in like, sure, I get my heli to lift off, but it also spins like its' a beyblade
+general 2020-01-13 19:37:26 it's built how its built, but it doesn't work
+general 2020-01-13 19:37:27 Yes
+general 2020-01-13 19:37:30 Of course i do
+general 2020-01-13 19:38:18 Depends on what you mean by tail thing
+general 2020-01-13 19:38:19 here, hang on
+general 2020-01-13 19:46:22 I keep trying
+general 2020-01-13 19:46:33 But the helicopter still tilts and turns on its own
+plane-crazy 2020-01-13 20:18:49 I need help with my helicopter ;-;
+
+I've managed to put the beyblade antics under control, but it still turns and tilts on its own
+
+I don't know if its my propellers, toque, or speed, or just the heli on its own

@@ -1,0 +1,22 @@
+The Tale of thatkacperr (1018105717405782066)
+help 2022-11-10 00:21:02 anyone knows why my motors lock so weirdly?
+help 2022-11-13 20:48:00 anyone knows what's wrong with that motorlock?
+help 2022-11-13 20:48:27 it doesn't snap enough blocks but extending it doesn't help at all
+help 2022-11-13 20:53:06 if u meant like that it didn't work
+help 2022-11-13 20:53:11 essentially same result
+help 2022-11-13 20:58:08 no change of result again
+help 2022-11-13 21:00:33 loaded in before lock
+help 2022-11-13 21:00:38 after lock
+help 2022-11-13 21:04:21 i intended to have it go one block further down
+rn my gear is js floating in the air
+help 2022-11-13 21:10:22 how would that go though
+help 2022-11-13 21:10:34 im not too familiar with motor locks sadly
+help 2022-11-14 00:13:55 anyone knows how to make a custom angle for cylinders? everything i tried either fell off or wouldnt quite work properly
+help 2022-11-14 01:03:10 do you mind showing me an example? I dont't quite get the idea
+help 2022-11-14 01:08:43 fairs
+help 2022-11-17 18:42:05 anyone knows why hover thrusters have this weird ability to just fuck over my motorlocks? and how do I fix it?
+help 2022-11-17 18:42:57 ah yes
+help 2022-11-17 18:47:12 ojk nvm its all engines or wtv
+
+anyways, if i put any engine in the gaps here, my whole motorlock tower just ignores the half block I added to it, anyone knows how that could be possible? and how fix
+help 2022-11-17 18:49:31 nvm i figured out why

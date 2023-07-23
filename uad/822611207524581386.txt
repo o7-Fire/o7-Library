@@ -1,0 +1,5 @@
+The Tale of googolplexyearsago (822611207524581386)
+bug-reports 2021-04-20 23:35:53 save data fails to load every time and rejoining does not help
+bug-reports 2021-04-21 00:12:30 its not that
+bug-reports 2021-04-21 00:12:37 when i join it kicks me immediately
+bug-reports 2021-04-21 00:13:45 it says SaveData failed to load... Rejoin the game.

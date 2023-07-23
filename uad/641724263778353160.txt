@@ -1,0 +1,28 @@
+The Tale of sulong. (641724263778353160)
+general 2020-10-14 23:43:14 &suggest 
+
+Improved suspension physics.
+
+Gameplay
+
+It would be nice if the suspension had better physics, as in working better when you apply more than one suspension to a single wheel or apply the suspension in an unorthodox way, the suspension may act weirdly or even unrealistically. For example, in video number 1, the wheels go in and out horizontally (notice how they do not move vertically), which is fine, but one would at least expect them to move a little bit vertically. In video number 2, the stiffness is at minimum and they still do not move vertically, which looks funny btw xd. If you try to put a suspension above, it is as stiff as it can be, it even looks like the suspension makes no difference, like in video number 3 (the stiffness is at minimum and the free length at max). If you try to put suspensions in a 90 degree horizontally from the other ones, the same as if you put them above happens. In resume, the suspensions do not move in any other direction than the direction they are in, I do not know if they are supposed to do that but I would expect them to do that at least a little bit, so that I would be able to put sideways suspensions (like in picture 1, and I know it's not that sideways but you get the point, it has some stuff between the suspension and the actual wheel, yes I tried to do that, it's the absolute same.), or maybe add the option to put components at a certain inclination or angle (like the suspension in picture number 2, or maybe to be able to put it at an angle that is extreme enough for it to be like in picture 1). Maybe the solution to this is as simple as adding a new parameter in the suspension setup called sideways travel or so that when you make it soft it is more prone to going sideway. In any case, thank you very much. Sorry for the quality of the videos.
+
+https://youtu.be/hc4_4GtEens vid1
+https://youtu.be/0p7S8IjyEt4 vid2
+https://youtu.be/riM_fTi1P8Y vid3
+
+https://ibb.co/82NGchj pic1
+https://ibb.co/42F4hZF pic2
+general 2020-10-14 23:43:20 That took 3 years
+general 2020-10-14 23:44:39 wai wat
+bot-central 2020-10-14 23:44:52 ?shelp
+general 2020-10-14 23:45:03 .___.
+general 2020-10-14 23:45:12 how do you get a rank
+general 2020-10-14 23:46:11 lemme copy and paste the thing into a notepad until I get a rank bruh
+general 2020-10-14 23:46:49 thanks for the help bois
+bot-central 2020-10-14 23:47:16 ?rhelp
+general 2020-10-14 23:50:28 PLAGIARISM IS F BRO
+bot-central 2020-10-15 01:41:53 ?rhelp
+general 2020-10-16 19:56:32 if the message is too long and it becomes a downloadable notepad will the devs accept it?
+general 2020-10-17 00:54:33 ambitionz as a ridah
+general 2020-10-17 16:34:15 piri

@@ -1,0 +1,10 @@
+The Tale of mahanthepesarekhoob (679040441865207911)
+general 2023-03-20 03:09:02 where can i report a bug?
+general 2023-03-20 03:09:18 thanks
+general 2023-03-20 03:16:29 am i able to send a video in bug report?
+general 2023-03-20 03:16:42 cuz i cant but i need to do
+general 2023-03-20 03:19:19 so i have to sit and pray for the devs to fix the motor 1 bug? the torque bug
+general 2023-03-20 03:23:23 but thats not enough
+bug-reports 2023-03-20 03:43:03 i've been playing this game since 2020. its a great game. i had made a helicopter at that time and it was working well until months ago i noticed that the heli is shaking so bad when i start it. it happens when i use the motors (and motor 2s, i tested all things before reporting) to rotate the blades ,it seems like the motors cant hold blades which is a torque bug i think.
+bug-reports 2023-03-20 03:44:35 it was a good game back in the day
+bug-reports 2023-03-20 03:45:35 kinda same thing with me. main version of my heli uses motor2 and yeah they wont work

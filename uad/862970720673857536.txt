@@ -1,0 +1,13 @@
+The Tale of 平和な嵐 (862970720673857536)
+plane-crazy 2021-10-24 23:59:47 can someone help me
+plane-crazy 2021-10-25 00:00:33 im trying to make somewhat of a drivable 8 point ninja star and i need to make it rotate 45 degrees with a motor 2 bit i also need the blocks to be directly against eachother
+plane-crazy 2021-10-25 00:00:38 my friend did it before
+plane-crazy 2021-10-25 00:00:40 idk how tho
+plane-crazy 2021-10-25 00:01:39 i did, he doesnt know how either lmao
+plane-crazy 2021-10-25 00:07:25 ok my other friend said something about the 1x0.9 block anyone have a clue on how i would set that up
+plane-crazy 2021-10-25 00:09:58 OMG I DIDS IT
+plane-crazy 2021-10-25 01:29:57 how do i make motor 2 follow my cursor
+plane-crazy 2021-10-25 01:30:29 what
+plane-crazy 2021-10-25 01:30:30 no
+plane-crazy 2021-10-25 01:30:31 it wonmt
+plane-crazy 2021-10-25 01:32:58 ok done ty

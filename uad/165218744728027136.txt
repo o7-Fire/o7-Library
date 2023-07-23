@@ -1,0 +1,36 @@
+The Tale of eqic (165218744728027136)
+creations-chat 2019-05-12 02:33:24 Made a mouse controlled turret. I can't get turning left/right yet, but I got up/down working: https://gyazo.com/f1b08836529e94bd711cafb8dbdecd1a
+creations-chat 2019-05-12 02:34:51 have mouse controlled turrets been done before?
+creations-chat 2019-05-12 02:36:07 i'm not even really sure.
+creations-chat 2019-05-12 02:36:20 used control surfaces + unpowered motors + suspension/springs
+creations-chat 2019-05-12 02:40:31 Mouse vertical control: MP4 version to see how it works
+creations-chat 2019-05-12 02:42:10 it's not
+creations-chat 2019-05-12 02:42:19 try it yourself
+creations-chat 2019-05-12 02:42:32 only settings you need are an unpowered motor & springs with lengths 5.6
+creations-chat 2019-05-12 02:42:47 super limited range
+creations-chat 2019-05-12 02:44:47 it doesn't work without them for some reason
+creations-chat 2019-05-12 02:44:50 just flops
+creations-chat 2019-05-12 02:47:14 The rockets restricts movement a lot because of the mass.
+creations-chat 2019-05-12 02:47:27 it goes at least 15% higher without it
+creations-chat 2019-05-12 02:52:17 mhm
+creations-chat 2019-05-12 02:52:22 the only objects that move with your mouse
+creations-chat 2019-05-12 02:55:46 
+creations-chat 2019-05-12 02:58:35 not even sure how it works yet
+creations-chat 2019-05-12 02:59:45 just popped into my mind and somehow it worked
+creations-chat 2019-05-12 03:00:14 i originally thought to use suspension to pop it back in place before I realized i didn't need it, turned out to be crucial.
+creations-chat 2019-05-12 03:00:39 works better when used with keybinds, but the whole point is mouse (for some reason keybinds move the control surface all the way but the mouse doesn't?)
+creations-chat 2019-05-12 03:01:36 basically, the white part of the control surface welds to the motor & block I think, then the other part pushes the suspension which push against it, causing it to rotate.
+bug-reports 2019-05-12 03:12:13 Possible bug:
+Control surfaces don't rotate to their maximum with mouse control.
+
+Keybinds (Left) vs. Mouse Control (right):
+https://gyazo.com/1f00a9a7d746a5d88ff4a6b45446ced9
+creations-chat 2019-05-12 03:32:31 Mix of the F-35 and F-22. Reminds me of a megalodon.
+creations-chat 2019-05-12 03:35:39 Lol it's prety fat.
+creations-chat 2019-05-12 03:35:45 Looks better from behind.
+creations-chat 2019-05-12 03:37:26 https://gyazo.com/b3bb082ddf9962f27d4724a836420313 Less fat version?
+creations-chat 2019-05-12 03:37:47 yeah
+creations-chat 2019-05-12 03:39:14 gah it autoposted in creations
+creations-chat 2019-05-12 03:46:24 will do next time
+creations-chat 2019-05-12 03:46:31 this was my first jet ever, made a few months ago
+creations-chat 2019-05-12 14:12:12 feel free <@!435464209677942784> and <@!328989346411839488>

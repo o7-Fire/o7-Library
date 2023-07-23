@@ -1,0 +1,31 @@
+The Tale of ai_lyixk (575235893905063956)
+plane-crazy 2020-07-27 05:55:22 oh wow a lot of piston + anchor block has and interesting reaction
+bug-reports 2020-07-27 06:04:36 Bug of a lot of piston gone crazy when u keeps extend and retract repeatedly.
+https://gyazo.com/8d134326f9672673a59d022c6e81c36c
+https://gyazo.com/9806283b0440e362ddbcd03976aaba2b
+bug-reports 2020-07-27 06:04:56 + anchor block
+bug-reports 2020-07-27 06:11:40 Bug of hover block(placing towards each other)  + suspension making the thing can float at position or speed up slowly(tap only 2 times)
+https://gyazo.com/a4b383e4ae28b5c5a0ad99146c379ba7
+bug-reports 2020-07-27 06:23:06 This is one when hover block + suspension spinning at extreamely high speed(if i tap one time it will fly away with the supension glithcing)
+https://gyazo.com/df7719549f7db03698c65a456f628b94
+help 2020-09-26 13:33:28 How do u suggest?
+help 2020-09-26 13:33:49 Blocks
+help 2020-09-26 13:34:05 Ok
+help 2020-09-26 13:34:11 Thx
+help 2020-09-26 14:01:57 Where d u use the suggest commands?
+help 2020-09-26 14:02:39 Just press &  suggest?
+help 2020-09-26 14:03:03 Oh
+help 2020-09-26 14:03:09 Then nvm
+bot-central 2020-09-26 14:11:38 ?shelp
+bot-central 2020-09-26 14:12:13 ?ranked
+bot-central 2020-09-26 14:12:23 ?rhelp
+bug-reports 2021-01-24 13:43:44 I found a pilot seat bug, not a big deal and quite fun though. Its just a position of the pilot seat making my avatar's leg stuck to the seat when i jump out + w from it and i can skywalk with it.
+https://gyazo.com/9f7993279c7720145a4a8235cc623337
+P.S: u can also turn the direction by using Right Click
+bug-reports 2021-01-24 13:45:23 Heres how it was placed
+https://gyazo.com/5dd6dd1cef9e409fbf3141483b9c2fe1
+plane-crazy 2021-01-27 08:28:46 i think i have made a machine that makes picture based on ur computer's performance or server's performance
+plane-crazy 2021-01-27 08:34:09 it spin circle(really fast) and a trail at both end, but when i turns up the graphic quality the picture changed
+plane-crazy 2021-01-27 08:35:14 if the server suddenly lags a bit there will be a line comes out in the middle
+plane-crazy 2021-01-27 08:35:39 want to see the pic its quite cool
+plane-crazy 2021-01-27 08:36:10 at 8, 9 and 10 graphic quality it makes the best pic

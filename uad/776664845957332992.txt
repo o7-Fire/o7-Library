@@ -1,0 +1,84 @@
+The Tale of artzified (776664845957332992)
+general 2022-12-16 10:56:50 💀
+bot-central 2022-12-16 11:22:35 no way
+bot-central 2022-12-16 11:22:37 15 xp
+plane-crazy 2022-12-16 11:26:16 red is brighter
+plane-crazy 2022-12-16 11:26:26 i'd say red
+help 2022-12-16 11:31:14 use motors
+help 2022-12-16 11:32:36 set the motor2 servo to true, then set the toggle option to true, and the max angle to the angle you want
+plane-crazy 2022-12-16 11:42:41 is that mcdonalds
+plane-crazy 2022-12-16 11:59:23 i have no idea what i just read
+plane-crazy 2022-12-16 11:59:51 😳
+plane-crazy 2022-12-17 13:20:41 its not a bug its a ✨ feature ✨
+events-chat 2022-12-18 03:29:56 in life there's two stuff
+touch grass or stare at a set of pixels for eternity
+general 2022-12-18 03:30:34 jews
+plane-crazy 2022-12-18 15:14:39 villain origin story
+bot-central 2023-01-26 12:56:20 ?rhelp
+help 2023-01-27 10:51:50 how do i make this turn
+help 2023-01-27 10:53:36 the jet
+help 2023-01-27 10:53:53 roll preferably
+help 2023-01-27 10:55:06 ailerons?
+help 2023-01-27 10:55:28 oh
+help 2023-01-27 10:55:33 never thought of that
+help 2023-01-27 10:55:43 yeah
+help 2023-01-27 10:55:46 i just came up with it
+help 2023-01-27 10:56:18 i dont know whats the name of a specific part
+help 2023-01-27 10:56:35 i mean this is my first jet
+help 2023-01-27 12:31:47 it does
+help 2023-01-28 06:51:47 my rockets are floating
+creations-chat 2023-01-28 06:54:21 long rod
+help 2023-01-28 12:30:15 does it affect my trajectory
+help 2023-01-29 03:53:12 i have a robot arm and i want it to slide to the right and left with some guide rails, i tried to do a monorail style but it ended up very unstable; is there any solutions to this?
+help 2023-01-29 04:10:34 ill try that
+help 2023-01-29 04:21:18 oh my
+help 2023-01-29 04:21:21 it works
+help 2023-01-29 04:21:24 thank you
+help 2023-01-29 06:44:06 what does lose parts only do in magnet
+help 2023-01-29 09:27:43 try disconnecting the rotor to the heli and see if the base spins
+help 2023-01-29 09:37:02 the coax
+help 2023-01-31 11:03:26 they can chain??
+help 2023-01-31 11:03:52 oh ok
+events-chat 2023-02-10 11:51:03 the hell is a whitename activity
+help 2023-02-10 13:01:11 I made a scuffed darkstar but it constantly glitches (marked in red), is there something I'm missing?
+help 2023-02-10 13:07:56 like
+help 2023-02-10 13:08:07 how do i explain it
+help 2023-02-10 13:08:16 basically zooming all over the place
+help 2023-02-10 13:08:20 even if i detach or remove that part
+help 2023-02-10 13:09:36 what controls would it be
+help 2023-02-10 13:09:54 it gets worse when i remove the motor
+help 2023-02-10 13:10:21 and no i use custom surfaces
+help 2023-02-10 13:11:13 that may be the case
+help 2023-02-10 13:11:23 but i still dont get it
+help 2023-02-10 13:11:29 it was working as intended
+help 2023-02-10 13:13:05 i think i found the solution
+help 2023-02-10 13:13:48 turns out a motor lock broke and that made the whole thing glitch
+help 2023-02-10 13:14:15 yeah
+help 2023-02-10 13:50:05 is there a way to fix motor2 glitching while in high speed
+help 2023-02-10 13:53:01 https://tenor.com/view/wavetro-wavetro-hq-ok-gif-better-call-saul-cavefolder-gif-21853914
+help 2023-02-11 10:15:05 🤨
+help 2023-02-11 10:15:38 *among us flashback*
+help 2023-02-11 10:15:47 blue looks better tho
+help 2023-02-11 13:43:43 why does my build flings upon launching
+help 2023-02-11 13:44:33 
+help 2023-02-11 13:48:41 still flings if i remove the hover engines
+help 2023-02-11 13:52:15 the wings flings if i remove the motorlock tower
+help 2023-02-11 13:53:29 im just gonna go reload this slot
+help 2023-02-11 14:02:12 why arent my hover thrusters working
+help 2023-02-11 14:03:53 theres 50 of them
+help 2023-02-11 14:03:56 is that not strong enough
+help 2023-02-11 14:05:09 not a hover engine but 50 hover thrusters
+help 2023-02-11 14:05:35 is that not enough for it to move
+help 2023-02-11 14:06:26 or do they only work if its not motorlocked
+help 2023-02-11 14:08:27 i moved it to be a part of the body but it still wont work
+help 2023-02-11 14:09:15 wait a god damn minute
+help 2023-02-11 14:09:20 ok i feel dumb
+help 2023-02-11 14:10:52 nah
+help 2023-02-11 14:11:09 i just need to put a motor on the end
+help 2023-02-12 03:43:29 how do i make my darkstar not wobble when I go high speed
+the-dump 2023-02-12 10:05:47 https://media.discordapp.net/attachments/1057335725252685824/1057381695516590110/0FBF49A3-7A26-4C07-ADF0-293637F8E9AA-4-1.gif
+bot-central 2023-02-12 10:50:05 why is it red
+general 2023-02-16 10:36:50 suzza
+bug-reports 2023-02-19 02:51:19 ubisoft statement
+help 2023-02-19 10:22:32 are you using a pilot seat
+plane-crazy 2023-05-10 04:45:47 🐴

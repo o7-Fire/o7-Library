@@ -1,0 +1,36 @@
+The Tale of timmyau6969 (358222510329823243)
+general 2020-04-25 22:05:04 lol
+general 2020-04-25 22:05:08 what should i build
+general 2020-04-25 22:05:18 yes
+general 2020-04-25 22:05:23 i love tie fighters
+general 2020-04-25 22:05:37 but the tie silencer is better
+general 2020-04-25 22:05:51 ig night
+general 2020-04-26 06:30:10 nooo
+plane-crazy 2020-04-26 08:34:07 what should i make?
+general 2020-04-26 11:49:33 What should I make
+plane-crazy 2020-04-26 15:16:22 what
+plane-crazy 2020-04-26 15:16:24 should
+plane-crazy 2020-04-26 15:16:25 i
+plane-crazy 2020-04-26 15:16:27 make?
+plane-crazy 2020-04-26 16:55:27 imagine being cat
+general 2020-04-26 18:42:22 what should i makeeeee
+plane-crazy 2020-04-26 18:43:17 what should i make
+general 2020-04-28 09:10:53 whaaa
+plane-crazy 2020-04-28 09:11:06 can i ask for help here?
+help 2020-04-28 09:12:20 so, i have made these custom wheels... but they're in a fixed position.. i need help
+help 2020-04-28 09:25:07 https://gyazo.com/89932ab304f24cf4b86bc68a14ca8803 (three empty spaces are suspensions)
+help 2020-04-28 09:38:46 wait
+help 2020-04-28 09:39:58 https://gyazo.com/24a13c9961c22e30aaff7db39d93fe35
+help 2020-04-28 09:40:52 ok
+help 2020-04-28 09:42:30 wdym?
+help 2020-04-28 09:42:43 also, the settings for the motor if you need it: https://gyazo.com/3ca50ea50d7665da70d9f8eccf3811fc
+help 2020-04-28 09:45:06 I believe that is correct actually
+help 2020-04-28 09:45:53 Indeed
+help 2020-04-28 09:45:57 If it was on the left
+help 2020-04-28 09:46:00 It would be sw
+help 2020-04-28 09:53:08 for going forward
+help 2020-04-28 09:59:53 its a custom wheel
+help 2020-04-28 10:02:09 yeah....
+help 2020-04-28 10:13:34 i figured it out
+help 2020-04-28 10:13:38 finally
+help 2020-04-29 08:48:21 I figured out my problem of the wheels not being able to turn, I just put a motor on top of the custom wheel and it allows me to change the direction of the wheel.

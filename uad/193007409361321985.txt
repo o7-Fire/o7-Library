@@ -1,0 +1,9 @@
+The Tale of jeffrevindisc (193007409361321985)
+plane-crazy 2018-12-29 05:48:18 _finally,_ it took nine tries for rover to work
+plane-crazy 2018-12-29 05:48:20 sup
+plane-crazy 2019-01-01 05:02:16 **HAPPY NEW YEAR**
+bug-reports 2019-03-08 23:39:29 Super Rocket Engines no longer provide sufficient enough lift to a vehicle.
+bug-reports 2019-03-08 23:39:59 yeah i stuffed four of them in the bottom of my Mercury-Redstone and it isn't flying
+bug-reports 2019-03-08 23:44:45 correction, regular Rocket Engines don't provide enough thrust
+bug-reports 2019-03-08 23:44:54 odds are, everything _but_ the SRE is affected under rocket engines
+bug-reports 2019-03-08 23:45:13 i'm testing out my submarine which uses a few regulars at the back for surfacing and it isn't providing enough thrust to stay on the water

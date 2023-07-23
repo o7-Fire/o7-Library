@@ -1,0 +1,30 @@
+The Tale of frostychicken32 (557281742717714442)
+bot-central 2020-04-21 19:27:35 &suggest 
+Sensor
+MECHANICAL
+
+The sensor would detect if a vehicle is in front of it and how far it is away. The range of detecting things, what to detect , and what the sensor activates will be controlled with the screw driver. It should activate sensor blocks (sensor motors, sensor thrusters, etc) when it detects something. There should also be different types of sensors that detect speed, height, angle, etc and activate those sensor blocks based on it.
+bot-central 2020-04-21 19:28:44 ?shelp
+bot-central 2020-04-21 19:29:03 ?rhelp
+bot-central 2020-05-26 21:36:12 ?shelp
+bot-central 2020-05-27 15:29:19 ?shelp
+general 2020-05-27 15:55:31 i accidentally spammed as well 😦
+bot-central 2021-01-20 00:56:08 ?shelp
+bot-central 2021-01-20 01:02:42 &suggest
+[TITLE] - Scrollable Keybind
+[CATEGORY] - Gameplay
+
+[DESCRIPTION] - Add a keybind that allows people to use their scroll wheel to turn something on, increase propulsion, etc. Using the scroll wheel (up or down) will create a keybind on a configurable block, that detects when you scroll up or down, which then, activates something.
+help 2021-01-21 23:17:45 what are some good things to have on a jet?
+help 2021-01-21 23:24:02 hmmmm i wonder why
+bug-reports 2021-03-15 18:50:06 i think i found a teleportation bug
+bug-reports 2021-03-15 18:55:11 ill send a ss of machine
+bug-reports 2021-03-15 18:55:29 
+bug-reports 2021-03-15 18:55:34 its difficult to use tho
+bug-reports 2021-03-15 18:55:52 o
+bug-reports 2021-03-15 18:56:20 alr
+creations-chat 2021-05-18 21:48:32 any1 know why dis keeps rolling left? (There is motorlock in it, but idk if its why)
+creations-chat 2021-05-18 21:50:35 alr ill check torque ty
+creations-chat 2021-06-11 23:15:51 any ideas on how to make this stand up straight? https://imgur.com/a/1Qd4jD3
+help 2021-07-17 20:40:43 is there a way to minimize the motor lock studs or entirely remove them?
+creations-chat 2021-09-11 17:44:40 why cant i place any blocks in this spot? There's nothing occupying it. Edit: ty i did it and it worked

@@ -1,0 +1,3 @@
+The Tale of .tohro (872646818301878313)
+bug-reports 2023-07-07 05:44:17 Delta Wing panel 1x1 being placed causes people to be kicked from experience
+Tried in multiple servers by two people and result is consistent

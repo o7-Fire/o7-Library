@@ -1,0 +1,23 @@
+The Tale of meistermelone7 (643793023121096715)
+bug-reports 2021-03-22 13:57:39 oh plssss fix motor 2 servo, it just cant stay still. instead it ruins my mech
+bug-reports 2021-03-22 13:59:59 my mech is very compact and slim but still 21 motor 2
+bug-reports 2021-03-22 14:00:29 this project got just flipped by these motors
+bug-reports 2021-03-23 06:51:58 guys i have the motor 2 problem more specific: its just when you put 2 servos together, if no servo theres no glitching
+bug-reports 2021-03-23 07:07:36 they wobble around for no reason and are unstoppable
+bug-reports 2021-03-23 07:19:21 but theyre very practical bc they have rotation limit
+bug-reports 2021-03-23 07:19:43 mechs
+bug-reports 2021-03-23 07:41:31 well the mech consists of 323 blocks
+bug-reports 2021-03-23 07:41:38 very compact
+bug-reports 2021-03-23 07:52:49 https://streamable.com/uz0w0f
+bug-reports 2021-03-23 07:54:40 but motor 1s rotate infinitely unless i release the key
+bug-reports 2021-03-23 07:59:26 thats why i put this in this channel
+bug-reports 2021-03-23 08:06:43 yeah not anything -_-
+bug-reports 2021-03-23 08:22:10 well not enough space
+bug-reports 2021-03-23 08:29:10 i meant for motor 1 joints
+bug-reports 2021-03-23 08:29:34 just watch the video and see the legs
+bug-reports 2021-03-23 08:30:29 i dont use pistons
+bug-reports 2021-03-23 08:30:56 k
+bug-reports 2021-03-23 09:01:57 https://streamable.com/wvbaft
+bug-reports 2021-03-23 09:02:05 thats the result
+bug-reports 2021-03-23 09:03:49 i maybe should scrap the project it has no use
+bug-reports 2021-03-24 06:55:40 just intentionally added-in features of physics

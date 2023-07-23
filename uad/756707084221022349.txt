@@ -1,0 +1,170 @@
+The Tale of beembogi (756707084221022349)
+plane-crazy 2021-08-28 11:25:53 **laughs in tnt tank**
+plane-crazy 2021-08-28 11:26:24 But then again they could just runaway
+plane-crazy 2021-08-28 11:27:00 Btw TNT tank i ment tank that has a pole outside of it that has tnt
+plane-crazy 2021-08-28 11:27:16 Yknow to keep the shredders out :>
+plane-crazy 2021-08-28 11:27:33 And to also troll rammers
+plane-crazy 2021-08-28 11:40:20 How did you even got it through the cave in the first place
+plane-crazy 2021-08-28 11:46:29 I wonder if anyone else use normal rocket thrusters as afterburner effects for their jet(s)
+plane-crazy 2021-08-28 11:48:16 Thats alotta springs on the ground-
+creations-chat 2021-08-28 12:14:29 Looking at it side by side it kinda does
+plane-crazy 2021-08-28 12:19:53 Try to look at max angle or see if theres anything blocking the elevator from fully elevating
+help 2021-08-28 12:22:27 Bug
+help 2021-08-28 12:23:15 They especially bug if your motorlocking
+help 2021-08-28 12:23:53 But you could fix it by checking if theres anything on the motor 2s way
+help 2021-08-28 12:24:13 Say theres a block inside it or sometimes it bugs when near springs and stuff
+plane-crazy 2021-08-28 12:25:10 I only really had a few times where my motor 2s bug
+plane-crazy 2021-08-28 12:26:20 Only like 9 times if you ignore my first jets since my first jets uses piston + hover engines
+plane-crazy 2021-08-28 12:26:58 Is it motorlocked or is there something else thats blocking it?
+plane-crazy 2021-08-28 12:27:07 Alr i need more info on your jet
+plane-crazy 2021-08-28 12:27:18 What engine is it using? (glitched or normal)
+plane-crazy 2021-08-28 12:27:37 If its using piston + hover then it might explain it
+plane-crazy 2021-08-28 12:27:58 Oh so reliable engine
+plane-crazy 2021-08-28 12:28:11 When in flight any problems?
+plane-crazy 2021-08-28 12:28:48 Could you like record it bugging?
+plane-crazy 2021-08-28 12:28:58 O kk
+plane-crazy 2021-08-28 12:29:20 Wait i think the main wing is blocking the elevators
+help 2021-08-28 12:30:10 Odd
+help 2021-08-28 12:30:31 Since i never had any of those problems with my own motorlocked planes
+plane-crazy 2021-08-28 12:31:52 Wait can you show the motor 2s of the elevators?
+plane-crazy 2021-08-28 12:32:01 Like a closeup to it
+plane-crazy 2021-08-28 12:33:38 Maybe the block the motor 2s is in is affecting it
+plane-crazy 2021-08-28 12:33:59 Try removing those blocks and testing it
+plane-crazy 2021-08-28 12:34:00 Np
+plane-crazy 2021-08-28 12:35:05 More than new?
+plane-crazy 2021-08-28 12:35:21 I dunno he looks more than new
+plane-crazy 2021-08-28 12:36:46 w a t
+plane-crazy 2021-08-28 12:36:54 I have no clue to what im staring at
+plane-crazy 2021-08-28 12:37:32 Oh
+plane-crazy 2021-08-28 12:37:43 Ohhhh
+plane-crazy 2021-08-28 12:38:28 *Am a certified Newbie designer moment*
+plane-crazy 2021-08-28 12:39:03 Btw does anyone else here finish making a real life based vehicle only to remake it a day later?
+plane-crazy 2021-08-28 12:40:48 By the by, where could i find pvp groups?
+plane-crazy 2021-08-28 12:46:30 Boredom
+plane-crazy 2021-08-28 12:47:05 Since normal pvp servers are filled with shredders and starter jets or just tuts
+plane-crazy 2021-08-28 12:48:50 Though public pvp does have the funny toxic kid who can get rather fun to hear from
+plane-crazy 2021-08-28 13:03:42 Whats a bee swamp thing?
+plane-crazy 2021-08-28 13:06:12 Oh so a shredder
+plane-crazy 2021-08-28 13:06:22 I have my own shredder
+plane-crazy 2021-08-28 13:06:44 Its called squadron and its just 4 mini planes mouse controlled :>
+plane-crazy 2021-08-28 13:07:31 Kinda wished theres more squadron than there is bug swarms
+plane-crazy 2021-08-28 13:07:47 Ye lol ik
+plane-crazy 2021-08-28 13:08:04 Mouse controlled multi mini planes are actually fun
+plane-crazy 2021-08-28 13:08:24 Not only is it nice to see 4 planes fly in formation its also relatively harmless
+plane-crazy 2021-08-28 13:09:40 Well assuming you have a total play time of 5+ minutes and is not a ground unit otherwise my squadron that has 2 wing mounted bombs will swarm the unfortunate ground lad and shred it
+general 2021-08-29 01:58:10 gaijined
+creations-chat 2021-08-29 10:00:04 while i said it flies in well in a formation, it struggles trying to make actual good looking ones
+creations-chat 2021-09-02 01:59:04 Is the engine things with the cylinder better than without the cylinder?
+creations-chat 2021-09-02 02:01:14 The sides of the fuselage the engine thingys (this is without cylinders btw) idk if its too thin or too thick
+creations-chat 2021-09-17 05:31:16 Can someone please help me make my shells move instead of glitching in place
+creations-chat 2021-09-17 05:33:38 o kk
+creations-chat 2021-09-17 05:40:41 its still happening D:
+creations-chat 2021-09-17 05:43:09 is there like anyother way to fix the bug?
+creations-chat 2021-09-17 05:45:26 Is it because of how i motorlocked it?
+creations-chat 2021-09-17 05:52:27 welp ima just make a diffrent TNT launcher system
+creations-chat 2021-09-17 05:58:57 aye just found out the solution to my gun launcher thing, just needed to change the motor 2 for normal motor
+help 2021-09-18 09:47:16 btw what does damping do again?
+plane-crazy 2021-10-16 02:54:28 can someone tell me what legacy does in the rocket
+plane-crazy 2021-10-22 05:25:43 **speed**
+plane-crazy 2021-10-22 05:36:01 how do you even hit someone at 2k speed?
+plane-crazy 2021-10-22 05:36:22 since whenever i encounter another jet that can go at 2k+ my rockets seems to just dissapear
+plane-crazy 2021-10-22 05:36:54 gooodddddd that happens so much to me
+plane-crazy 2021-10-22 05:37:17 i see a big bomber, yeets a rocket, rocket flies off of the big af bomber
+plane-crazy 2021-10-22 05:37:30 cus less lag
+plane-crazy 2021-10-22 05:37:40 the less laggier it is the higher the jets performance
+plane-crazy 2021-10-22 05:37:50 thats why i just make my planes stupidly small
+plane-crazy 2021-10-22 05:38:12 back then i used to make my jets rather big
+plane-crazy 2021-10-22 05:38:26 and yea uhh my old big fighters were trash
+plane-crazy 2021-10-22 05:39:03 moter locc
+plane-crazy 2021-10-22 05:39:18 just one pillar that has random bits slapped onto it
+plane-crazy 2021-10-22 05:39:34 have lock on
+plane-crazy 2021-10-22 05:39:53 or just keep spam pressing the angle lock button that u use to move the lock until its good
+plane-crazy 2021-10-22 05:40:26 btw theres no point in making ur jet faster than 2k because rockets and bullets kinda begins to not work at 1200+
+plane-crazy 2021-10-22 05:40:43 no strategic points* other than because its cool and funny ig
+plane-crazy 2021-10-22 05:40:58 or just slap a glitch eng- jk jk
+plane-crazy 2021-10-22 05:41:53 mach 10 mhmmmmmmmmm
+plane-crazy 2021-10-22 05:42:26 yea uhh
+plane-crazy 2021-10-22 05:42:40 i ended up glitching thru the tp wall that tp u near spawn
+plane-crazy 2021-10-22 05:42:55 and now the sfx is distorted the blocks are distorted
+plane-crazy 2021-10-22 05:44:23 the one where u go so high up that everything gets distorted?
+plane-crazy 2021-10-22 05:44:45 uhh challenger mk3
+plane-crazy 2021-10-22 05:45:08 welp guess i need to add more conveyor engines
+plane-crazy 2021-10-22 05:47:19 mm yes, t a n k **s u s** p e n s i o n
+plane-crazy 2021-10-22 05:48:39 ye that happens if u go too high
+plane-crazy 2021-10-22 05:49:15 mmm distorted
+plane-crazy 2021-10-22 05:50:24 btw who else uses guided bombs as their main anti ground weapon?
+plane-crazy 2021-10-22 05:50:48 giont guided bomb
+plane-crazy 2021-10-22 05:51:27 add disconnectors to them like this
+plane-crazy 2021-10-22 05:51:33 cus conveyor engine
+plane-crazy 2021-10-22 05:51:40 and also hover drive spam
+plane-crazy 2021-10-22 05:52:43 turns out the ordinance weight doesnt matter if you move at mach 6 which is the max of my main bomber
+plane-crazy 2021-10-22 05:54:37 btw the only important thing when making Air to ground missiles is the motor 2s and the 4 fins at the back, you can remove almost everything else and itll work just fine
+plane-crazy 2021-10-22 05:56:00 thats how i made my atgms beable to be small enough to fit in my mini jets
+plane-crazy 2021-10-22 05:59:48 because its fun
+plane-crazy 2021-10-22 06:00:17 and i love bullying random beginner cars that has rocket spam and gun spam on the front
+plane-crazy 2021-10-22 06:02:46 so the rockets explosives is bigger?
+plane-crazy 2021-10-22 06:02:58 but accuracy trash?
+plane-crazy 2021-10-22 06:03:18 yea no the normal tracking rocket is already wonky enough
+plane-crazy 2021-10-25 08:48:05 death
+plane-crazy 2021-11-03 02:47:32 is the update just some small bug fixes and performance improvements?
+plane-crazy 2021-11-05 01:35:28 so uhh
+plane-crazy 2021-11-05 01:35:56 where can i send a suggestion where if someone spawns a 3000+ block lag machine and explode it they get kicked for attempting to lag the server?
+plane-crazy 2021-11-05 01:37:23 well just kinda wish theres a way to slightly stop ppl from randomly lagging the server
+plane-crazy 2021-11-05 01:38:19 theres a lag machine in the server i am tho
+plane-crazy 2021-11-05 01:39:55 btw how do i make it so that roblox doesnt send me to the same server that has the lag machine
+plane-crazy 2021-11-05 01:40:04 same pvp server*
+plane-crazy 2021-11-05 01:40:26 since sometimes its sending me to the same server
+plane-crazy 2021-12-15 09:29:19 really wished you can disable the fog in the settings instead of having to fly to the canyon to turn it off everytime you join a server
+plane-crazy 2021-12-15 09:29:42 the snow thing
+plane-crazy 2021-12-16 05:51:46 mm gravity
+plane-crazy 2021-12-16 05:53:38 i drive on walls
+plane-crazy 2022-01-15 03:17:58 i wonder, in pc2 will the devs add like somekind of toggelable mini map so if your graphics are low meaning you cant see much you can just use the mini map
+plane-crazy 2022-01-15 03:21:11 is purposeful exposed motorlocking just a fancy name for using motorlock pin thing as detail
+plane-crazy 2022-01-15 03:22:36 jets are fun
+plane-crazy 2022-01-15 03:23:27 jets are very fun
+plane-crazy 2022-01-15 03:24:25 id rather fight jets than fight a shredder swarm since shredder swarms are so boring to fight that i fall asleep mid fight
+plane-crazy 2022-01-15 03:24:46 fighting jets are just more fun
+plane-crazy 2022-01-15 03:25:01 especially if you fought jets using joke builds
+plane-crazy 2022-01-15 03:25:08 like this
+plane-crazy 2022-01-15 03:25:23 some people got upset i used a prop in a jet fight
+plane-crazy 2022-01-15 03:27:42 its hilarious
+plane-crazy 2022-01-15 03:27:54 it kinda reminds me of my old dollarstore horton ripoff
+plane-crazy 2022-01-15 03:28:06 this thing
+plane-crazy 2022-01-15 03:28:29 for some reason alot of peeps get upset when i dogfight them in this gunless plane
+plane-crazy 2022-01-15 03:30:34 ngl it would be cool if there were more mechs in pvp
+plane-crazy 2022-01-15 03:30:47 since i only see like 1 or 2 mechs in pvp each day
+plane-crazy 2022-01-15 03:31:19 like its alittle bit annoying
+plane-crazy 2022-01-15 03:31:40 since most of the builds that would be fun to fight are just in non pvp or in priv servs
+plane-crazy 2022-01-15 03:32:07 leaving public pvp servers with nothing but shredders tutorial jets and other lame stuff
+plane-crazy 2022-01-15 03:32:45 i usually just join a pvp server and wait for someone to spawn a jet or smething
+plane-crazy 2022-01-15 03:33:00 if noone spawns a jet i usually just server hop
+plane-crazy 2022-01-15 03:36:30 tenk
+plane-crazy 2022-01-15 04:27:27 hof
+plane-crazy 2022-01-15 04:28:33 hoc
+plane-crazy 2022-01-15 04:31:57 super sonic prop
+plane-crazy 2022-01-15 04:32:12 cant wait to trigger jet users who will scream at me saying "BRUH UNREALISTIC PLANE SPEED"
+plane-crazy 2022-01-15 04:39:02 B25J squadrons go brr
+plane-crazy 2022-01-15 04:44:36 and a remake to my SB2C-4 squadron
+plane-crazy 2022-01-15 04:45:09 question now is, what would dogfights between squadrons would look like?
+plane-crazy 2022-01-15 07:01:55 hard to explain
+plane-crazy 2022-01-15 07:02:51 but basically i pretty much just use mouse control and i add like gyro stuff to make them turn and stuff
+plane-crazy 2022-01-17 09:30:23 flying wing go brr
+plane-crazy 2022-01-17 09:51:04 lol close tracking rockets not working at 700+ speed
+plane-crazy 2022-01-17 10:00:07 oh sorry my bad
+plane-crazy 2022-01-17 10:00:55 mixed the 2 up
+plane-crazy 2022-01-17 10:03:11 it would be hilarious
+plane-crazy 2022-01-17 10:03:28 do it and troll some random jets in pvp
+plane-crazy 2022-01-17 10:03:48 watch as they complain about the wingless plane being "unrealistic"
+plane-crazy 2022-01-17 10:05:52 alittle bit hard to gen lift doe
+plane-crazy 2022-01-18 01:42:22 me when wip h34
+plane-crazy 2022-01-18 01:42:26 this looks stink
+plane-crazy 2022-01-18 02:28:56 or auto cannons for jet builds if the jet build has a nose mounted cannon
+plane-crazy 2022-01-19 03:47:55 LOL
+plane-crazy 2022-01-19 03:48:15 LIKE MY GAME LAGGED
+plane-crazy 2022-01-19 03:48:27 THEN WHEN I CLICKED ON PVP WEAPONS
+plane-crazy 2022-01-19 03:49:06 noo it doesnt workk
+plane-crazy 2022-01-19 03:49:11 its not placing
+plane-crazy 2022-01-19 03:49:13 pain
+plane-crazy 2022-01-19 03:49:19 suffering
+plane-crazy 2022-01-19 06:34:21 my somewhat awful attempt of trying to build a f105
+plane-crazy 2022-01-31 02:31:57 wonder, can the devs make it so builds with 2000+ blocks will load it slowly like itll delay the loading instead of trying to load them all at once so it doesnt lag the entire server

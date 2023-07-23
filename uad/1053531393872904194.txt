@@ -1,0 +1,17 @@
+The Tale of arenhydradrip (1053531393872904194)
+general 2023-02-27 05:54:10 i finally turned 13 god
+general 2023-03-11 04:21:59 What should be subtracted from x²-xy+y²-x+y+3 to obtain -x²+3y²-4xy+1?
+=>(x²-xy+y²-x+y+3)-z=(-x²+3y²-4xy+1)
+=>(x²-xy+y²-x+y+3)-(-x²+3y²-4xy+1)=z
+=>x²-xy+y²-x+y+3+x²-3y²+4xy-1=z
+=>2x²+3xy-2y²-x+y+2=z
+.:.(x²-xy+y²-x+y+3)-(2x²+3xy-2y²-x+y+2)=(-x²+3y²-4xy+1)
+general 2023-03-11 04:23:25 post 7th grade math
+general 2023-03-11 04:23:47 end of 7th grade
+general 2023-03-11 04:26:31 i can do basic trigonomentry at 13 💀
+general 2023-03-11 04:27:07 I tried doing calculus but it was too hard
+general 2023-03-11 04:28:41 ayo tf i got it correct
+general 2023-03-11 04:30:16 one question from my final exam e
+general 2023-03-11 04:32:46 63?
+general 2023-03-11 06:27:22 velocity + calculus 🙂
+general 2023-03-11 06:41:44 plane crazy 🤯😱💯

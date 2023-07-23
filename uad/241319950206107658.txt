@@ -1,0 +1,11 @@
+The Tale of kazokthegoblin (241319950206107658)
+plane-crazy 2020-11-27 20:02:00 I thought I would just post what I'm trying to create for fun
+plane-crazy 2020-11-27 20:02:23 
+plane-crazy 2020-11-27 20:02:54 I'm going to try and use motors to make giant wheels made of blocks, hope that goes well
+plane-crazy 2020-11-27 21:03:05 
+plane-crazy 2020-11-27 21:03:12 hope this turns out well
+plane-crazy 2020-11-27 21:05:08 he's making a mobile obby
+plane-crazy 2020-11-28 03:13:15 I'm having trouble with my car with giant wheels turning
+plane-crazy 2020-11-28 03:13:53 I was using motor 2 with small wheels set to servo originally and it seemed to work, but with the added weight not even max speed on motor 2 can make them budge
+plane-crazy 2020-11-28 03:14:41 Is there a sneaky way to attach regular wheels to blocks to make a larger wheel?
+plane-crazy 2020-11-28 03:27:48 what i'm figuring out is mixing motor 1 + motor 2 = crazy wheels

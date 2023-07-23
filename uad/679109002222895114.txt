@@ -1,0 +1,316 @@
+The Tale of endret_everything (679109002222895114)
+bug-reports 2020-04-13 23:34:45 here's a strange bug I found during flying my plane: when the gear is out, the plane speeds up and is stable, but as soon as I retract it, the plane goes unstable and slows down a bit
+creations-chat 2020-04-13 23:41:57 this is 'The Flying Ace'! it's a monoplane with good speed and stability!
+creations-chat 2020-04-21 22:37:32 this is a recreation of a 1928 John Deere Model D. this model here has steel wheels and overhead exhaust
+creations-chat 2020-04-21 22:39:49 I spent about an hour and a half on the model D. that flywheel on the side does spin, actually
+creations-chat 2020-05-14 20:34:12 XD about 1 month ago, I began to make a Fokker DR.I Dreidecker based upon the red baron's legend, now I am going to finish it while I listen to the song: 'Red Baron' by Sabaton
+plane-crazy 2020-05-14 20:37:19 someone please slap me now
+plane-crazy 2020-05-14 20:38:02 I am making the red baron's Fokker DR.I Dreidecker, and will listen to Sabaton's song the red baron at the same time
+plane-crazy 2020-05-14 20:39:09 to be honest I backtracked the save to before wings so I can get moar power and less weight
+plane-crazy 2020-05-14 20:39:27 density block will help this out
+plane-crazy 2020-05-14 20:40:02 last time, my props did not scoop enough air to fly,so I added small props. then it was too back heavy
+plane-crazy 2020-05-14 20:40:21 now I'm gonna have to use density blocks to fix it
+plane-crazy 2020-05-14 20:44:21 boi
+plane-crazy 2020-05-14 20:44:44 what iz dis
+plane-crazy 2020-05-14 20:45:20 ~~I say this as I am about to do something morbid~~
+plane-crazy 2020-05-14 20:45:50 XD
+plane-crazy 2020-05-14 20:46:16 I don't even copy and paste that full name of the plane the red baron once used
+creations-chat 2020-05-14 21:42:52 my Fokker DR.I Dreidecker. can't fly, sadly, because it constantly stalls and has hardly any speed to get off the ground(if it does, it just keeps rolling to the left for no reason). can someone help me with this thing?
+creations-chat 2020-05-14 21:43:26 good for you
+creations-chat 2020-05-14 21:43:39 I made this one big so I can fit in all the detail
+creations-chat 2020-05-14 21:44:02 huh
+creations-chat 2020-05-14 21:44:17 I got a motor system hooking into it
+creations-chat 2020-05-14 21:45:04 it's fine
+creations-chat 2020-05-14 21:45:36 I'm gonna remake it in a smaller scale and see if it works(last minute note: I forgot the browning guns on it)
+creations-chat 2020-06-13 00:55:51 built a fully working VTOL concept rig, and the only problem is that the thing rocks from side to side sometimes in vertical mode, and I can sometimes fix it without going into plane mode, but it can crash the rig if I don't correct it
+plane-crazy 2020-10-16 02:52:40 well, I plan on doing plane crazy tomorrow, and see if I can make a true VTOL, and possibly make a video or a stream with my making a land speeder for custom use
+plane-crazy 2020-10-16 02:53:15 rip
+plane-crazy 2020-10-16 02:53:28 I know that pain.
+plane-crazy 2020-10-16 02:55:46 I realized something. VTOL craft with rotating engines need so much thrust, that jets are not the thing to use.
+plane-crazy 2020-10-16 02:57:03 yeah
+plane-crazy 2020-10-16 02:57:26 I had to use 30 helium blocks to get the jet powered craft up
+plane-crazy 2020-10-16 02:57:37 so, I'm making it with rocket power
+plane-crazy 2020-10-16 02:58:10 I'm not using props in case if the motor mounts glitch out of place
+plane-crazy 2020-10-16 02:59:03 thing is, a VTOL can just __barely__ lift off using jet power alone, well, mine at least
+plane-crazy 2020-10-16 02:59:27 my testing rigs were bare bones, so they did not need much thrust
+plane-crazy 2020-10-16 03:00:06 well, soon I will be making a good VTOL
+plane-crazy 2020-10-16 03:00:17 but jet power is not abandoned
+plane-crazy 2020-10-16 03:01:49 the Dorier Do 31 (I think that's the one) has the concept of having vertical jets for vertical takeoff, and horizontal jets for horizontal movement
+plane-crazy 2020-10-16 03:02:59 it's supposed to get it's job done, right?
+plane-crazy 2020-10-16 03:06:06 soon, I will go onto plane cray and attempt one final pure jet VTOL without anything to assist.
+plane-crazy 2020-10-16 03:06:32 nice
+plane-crazy 2020-10-16 03:06:59 I just made micro fighters back when I started
+plane-crazy 2020-10-16 03:08:28 and now I've made a MOC of the fokker DR. I triplane, A John Deere Model D, and soon a VTOL or 2. also, if the challenge is right, a spacecraft. also I'm gonna make a hover speeder.
+plane-crazy 2020-10-16 03:09:03 ik
+plane-crazy 2020-10-16 03:09:09 they are rough
+plane-crazy 2020-10-16 03:09:42 but I might be able to tame them for this build
+plane-crazy 2020-10-16 03:09:53 and the build prob not gonna get much use
+plane-crazy 2020-10-16 03:12:35 well rip me. I got no team and the contest is team based. but that's not stopping me from getting the VTOL ranks
+plane-crazy 2020-10-16 03:15:21 we all did once
+plane-crazy 2020-10-16 03:18:08 eh, I wish I could go solo for once
+plane-crazy 2020-10-16 03:19:42 I want to do something idiotic. make a spacecraft that uses 2-3 hover pads for 'gear', and make it a small fighter
+plane-crazy 2020-10-16 03:20:48 my brain is now configuring the spacecraft now
+plane-crazy 2020-10-16 03:21:50 my small spaceships would be light fighters and scouts for the most part, probably having a few guns on it
+plane-crazy 2020-10-16 03:22:28 idk
+plane-crazy 2020-10-16 03:23:02 but tomorrow, I might work on these microfighter spacecraft
+plane-crazy 2020-10-16 03:23:32 not sure
+plane-crazy 2020-10-16 03:29:16 well, tomorrow the micro starfighter will be underway!
+general 2020-10-16 03:45:21 ...
+general 2020-10-16 03:46:02 I ain't a mech guy
+general 2020-10-16 03:46:28 I come to dis
+general 2020-10-16 03:47:07 I will make plaen and spacecraft, but 0 mechs
+general 2020-10-16 03:47:55 wai dude
+general 2020-10-16 03:48:12 I will hide my p51 then
+general 2020-10-16 03:48:54 meanwhile, I bomb the crap out of your base, GravSpace
+general 2020-10-16 03:49:20 you ain't coming for our fighters today, dammit
+general 2020-10-16 03:50:09 not my fault that I live in the northeast
+general 2020-10-16 03:51:09 hmm
+general 2020-10-16 03:51:21 I swear to god wai
+general 2020-10-16 03:52:10 this is why I'm not going into the skies with a p51 anytime soon
+general 2020-10-16 03:52:27 he asks why
+general 2020-10-16 03:52:52 because I am busy 'fixing' 109's
+general 2020-10-16 03:53:04 because I'm an __'engineer'__
+general 2020-10-16 03:53:54 no, I'm on the ground, 'fixing' them
+general 2020-10-16 03:54:22 and not in a tank, you idiot
+general 2020-10-16 03:55:09 gas tank? what is a gas tank? 😜
+general 2020-10-16 03:55:32 **Y E S**
+general 2020-10-16 03:56:04 wow
+general 2020-10-16 03:56:14 it's a joke
+general 2020-10-16 03:56:53 *facepalm* A bunch of idiots, that's the pilots of these planes, nothing but idiots
+general 2020-10-16 03:58:23 you put petrol in the fuel tank. not your methane gases.
+general 2020-10-16 03:58:44 hey, who here is the engineer?
+general 2020-10-16 03:59:04 ...
+general 2020-10-16 03:59:35 ...
+general 2020-10-16 04:00:13 maybe not in plane crazy, you ass, but I'm good with engineering in other games
+general 2020-10-16 04:01:20 TerraTech, SimplePlanes, KSP, and a bunch of others
+general 2020-10-16 04:01:45 same goes for you
+general 2020-10-16 04:02:37 they are not
+general 2020-10-16 04:02:42 they are steam games
+general 2020-10-16 04:03:00 about $30
+general 2020-10-16 04:03:34 Simple Planes is $15, and KSP(Kerbal Space Program) is $40
+general 2020-10-16 04:03:43 dude. that's the campaign mode
+general 2020-10-16 04:03:57 there's also sumo, gauntlet, and creative
+general 2020-10-16 04:04:25 har har har
+general 2020-10-16 04:05:07 in TerraTech, I've been making top-notch aircraft for 1 1/2 years
+general 2020-10-16 04:06:54 the ZTech Z7 AeroCar. Top Speed: 112 MPH. Agility: very well. Stability: it can do level flight without any corrections
+general 2020-10-16 04:07:03 that's proof, dammit
+general 2020-10-16 04:07:23 that's TerraTech
+general 2020-10-16 04:07:32 really.
+general 2020-10-16 04:08:02 not really
+general 2020-10-16 04:08:21 the original I made before that was ugly as fuck
+general 2020-10-16 04:08:40 you sure?
+general 2020-10-16 04:09:20 behold the ugly as hell original
+general 2020-10-16 04:09:41 that's the original aerocar
+general 2020-10-16 04:10:01 I fucking hated it so much, it was a year before I rebuilt it
+general 2020-10-16 04:31:29 hey idiots
+general 2020-10-16 04:32:02 no,
+general 2020-10-16 04:32:11 that's not up to proper scale
+general 2020-10-16 04:32:59 I only have pre-assembled pieces to go off of
+general 2020-10-16 04:34:12 and I actually know that a 1x1x1 block in TerraTech, due to the seat in plane crazy, is a 3x3x3 block in Plane Crazy
+general 2020-10-16 04:35:16 and the wings, venture tail wings, to be exact, are a 1x2x2 in TerraTech
+general 2020-10-16 04:35:36 and also one other thing
+general 2020-10-16 04:36:09 the speed for the Z7 is MPH, and Plane Crazy uses studs for measurement
+general 2020-10-16 04:39:45 the first top quality plane in TerraTech. this thing made me have good feedback and push for the best planes. I fucking got the good handling from the Devs and other players, not bragging, you idiots
+general 2020-10-16 04:40:20 alright
+general 2020-10-16 04:41:38 also, I like to say one thing about these aircraft. I put hours into them, making redesigns, making sure the aircraft is worthy for me
+general 2020-10-16 04:41:55 I make them fast, agile, and easy to fly
+general 2020-10-16 04:44:33 nope.
+general 2020-10-16 04:54:40 you damn idiot
+general 2020-10-16 04:56:58 I'm def not an unde. why? because I'm almost an adult, dammit
+plane-crazy 2020-10-17 01:56:52 ...
+plane-crazy 2020-10-17 01:57:14 mind if I just retire from being a promising engineer here now?
+plane-crazy 2020-10-17 01:57:34 living hell in my mind
+plane-crazy 2020-10-17 04:22:17 well, in about 12 hours from now, I'll be making the XCorp micron micro spacefighter
+plane-crazy 2020-10-17 04:23:13 make something small and yet looks good, and can hold 2 guns and 1 missile(might be swapped for another gun)
+general 2020-10-17 04:24:19 hello my fellow engineers
+general 2020-10-17 04:25:20 idk
+general 2020-10-17 04:26:02 no no no, obesity runs on dunkin
+general 2020-10-17 04:26:27 lol no
+general 2020-10-17 04:26:32 she runs on tea
+general 2020-10-17 04:26:46 bruh
+general 2020-10-17 04:26:53 she hates dunkin
+general 2020-10-17 04:27:03 but she drinks a ton of tea
+general 2020-10-17 04:27:28 she does not drink coffee
+general 2020-10-17 04:27:34 hates it
+general 2020-10-17 04:27:54 the only reason there is coffee in this damn house is that I drink it
+general 2020-10-17 04:28:24 can't say a thing against that
+general 2020-10-17 04:28:48 EA screwed over in the Sims 4 thing
+general 2020-10-17 04:29:03 they had a poll, as a sibling in love with the sims said
+general 2020-10-17 04:29:19 and star wars expansion pack was on the bottom
+general 2020-10-17 04:29:30 you can guess what happened
+general 2020-10-17 04:30:00 I once played spore. real good game. 10/10
+general 2020-10-17 04:31:07 me, I think the sims is okay, but the golden age was back when there were games actively being made for console and handheld devices
+general 2020-10-17 04:31:55 I own a Game Boy Advance SP, and have The Sims: Bustin' Out. made in 2006, there was a version for the gamecube as well
+general 2020-10-17 04:32:42 run screaming
+general 2020-10-17 04:33:07 do it
+general 2020-10-17 04:33:15 get the F-86
+general 2020-10-17 04:33:21 lol
+general 2020-10-17 04:33:45 I realize that you were singing america **** yeah
+general 2020-10-17 04:34:22 I've dipped a bit too much into the vodka
+general 2020-10-17 04:35:19 meanwhile, I exist in vermont, snowed in half the year
+general 2020-10-17 04:35:56 har har har
+general 2020-10-17 04:36:06 it's like a 5 hour drive
+general 2020-10-17 04:36:18 lol
+general 2020-10-17 04:36:40 I am in the central part of Vermont, so not as bad
+general 2020-10-17 04:37:01 but tell me why the hell is Maine a vacation spot?
+general 2020-10-17 04:37:09 it's further north than we are!
+general 2020-10-17 04:38:14 **ARE YOU SURE ABOUT THAT**
+general 2020-10-17 04:38:29 mmm yes
+general 2020-10-17 04:38:35 what guns
+general 2020-10-17 04:39:03 ...
+general 2020-10-17 04:39:12 where's the matches
+general 2020-10-17 04:39:34 ...
+general 2020-10-17 04:40:26 VIP server owners when the VIP servers close: *why u bully me*
+general 2020-10-17 04:41:57 TerraTech Workshop in 2018: you want a plane? you either get a fragile high speedy boi, or a flying brick
+general 2020-10-17 04:42:16 welcome to life
+general 2020-10-17 04:42:20 deal with it
+general 2020-10-17 04:43:24 no.
+general 2020-10-17 04:43:33 I'm friends with one
+general 2020-10-17 04:43:48 and that's stupid
+general 2020-10-17 04:44:48 mmm communism
+general 2020-10-17 04:45:31 it is
+general 2020-10-17 04:46:15 *USSR anthem intensifies*
+general 2020-10-17 04:46:46 as long as it's not my hermit rock
+general 2020-10-17 04:47:30 yep, Khan Academy rocks have appeared
+general 2020-10-17 04:47:44 I'll just go into my hermit rock now
+general 2020-10-17 04:48:58 bruh
+general 2020-10-17 04:49:10 I don't even see cops much
+general 2020-10-17 04:49:29 because of all the country roads and whatnot in Vermont
+general 2020-10-17 04:50:03 I think yes
+general 2020-10-17 04:50:23 dammit
+general 2020-10-17 04:51:02 I got a kitten
+general 2020-10-17 04:51:08 sleeping in my room
+general 2020-10-17 04:51:21 normally would be bouncing around the damn room
+general 2020-10-17 04:51:47 well, this is the insomniac getting some sleep
+plane-crazy 2020-10-19 02:04:23 ...
+plane-crazy 2020-10-19 02:04:34 the actual hell?
+plane-crazy 2020-10-19 02:17:51 me: builds the most crappy micro spaceship ever
+plane-crazy 2020-10-19 02:18:11 also me: records me building it and saves the damn thing
+plane-crazy 2020-10-19 03:55:16 no god, please
+plane-crazy 2020-10-21 05:36:23 tomorrow I get to take my chances on building a helicopter
+plane-crazy 2020-10-21 05:39:09 this is a VTOL I'm gonna make in the future, or the boiled down version. it's the Dornier Do-31
+plane-crazy 2020-10-21 05:39:31 yeah
+plane-crazy 2020-10-21 05:40:01 it's the last hope for pure jet VTOL in Plane Crazy
+plane-crazy 2020-10-21 05:40:23 yeah, I know the Do-31 is
+plane-crazy 2020-10-21 05:43:16 I've tried vectored thrust with jets in game
+plane-crazy 2020-10-21 05:43:25 did not work
+plane-crazy 2020-10-21 05:44:05 I had to use helium to make it barely get off the ground
+plane-crazy 2020-10-21 05:44:35 it was so heavy it needed it
+plane-crazy 2020-10-21 05:44:44 and it couldn't float at all
+plane-crazy 2020-10-21 05:44:55 only just barely take off
+plane-crazy 2020-10-21 05:45:31 I had 16 jets running on max and only barely got it off the ground with helium
+plane-crazy 2020-10-21 05:47:12 the Do-31 has fixed thrust, so I might be able to pull something off. and I might try to control vertical movement with ballast and hidden props
+plane-crazy 2020-10-21 05:47:36 I want to prove myself that you can use jet engines alone for a VTOL
+plane-crazy 2020-10-21 05:47:42 and not rockets
+plane-crazy 2020-10-21 05:48:32 ah yes, V-tails
+plane-crazy 2020-10-21 05:48:40 I love their concept
+plane-crazy 2020-10-21 05:49:55 so, I'm going to build a small VTOL with vectored thrust at some point, and for now I'm going to make a small fixed thrust VTOL
+plane-crazy 2020-10-21 05:50:13 I'm never giving up jet power only VTOLs
+plane-crazy 2020-10-21 05:51:12 lol oke
+plane-crazy 2020-10-21 05:51:36 but for real, I want to have a jet power only VTOL for use
+plane-crazy 2020-10-21 05:53:05 now I'm planning on how to make my heli go. before I even try
+plane-crazy 2020-10-21 05:53:36 ballast for pitch and roll, and yaw with another assembly
+plane-crazy 2020-10-21 05:54:07 because it can work
+plane-crazy 2020-10-21 05:54:27 eh, I might
+plane-crazy 2020-10-21 05:55:34 as I cannot make a swashplate, I'm going to try control surfaces and ballast for use
+plane-crazy 2020-10-21 05:56:18 although it's gonna be weird as hell
+plane-crazy 2020-10-21 05:59:30 hmm
+plane-crazy 2020-10-21 05:59:44 also I'm a bit lazy. so yeah.
+plane-crazy 2020-10-21 06:01:19 ...
+plane-crazy 2020-10-21 06:02:08 me: wants to prove jet thrust can be used for VTOL
+plane-crazy 2020-10-21 06:03:28 hmm.
+plane-crazy 2020-10-21 06:04:09 wait,
+plane-crazy 2020-10-21 06:04:26 for the helicopter engineer, could we just build an autogyro?
+plane-crazy 2020-10-21 06:04:35 or gyrocopter
+plane-crazy 2020-10-21 06:05:30 ~~no one ever heard about gyrocopters, it seems, at least in this chat~~
+plane-crazy 2020-10-21 06:06:19 if I manage to get the helicopter engineer with that, it would be so funny
+plane-crazy 2020-10-21 06:07:14 so far so good
+plane-crazy 2020-10-21 06:10:16 nice
+plane-crazy 2020-10-21 06:10:52 I'm not sure if anyone here ever tried to make a practical gyrocopter
+plane-crazy 2020-10-21 06:12:07 of course, it's gone to be tough to do, but I can manage it, with trim with both motors
+plane-crazy 2020-10-21 06:13:13 the toughest part is most likely going to be the rotor
+plane-crazy 2020-10-21 06:13:30 yeah
+plane-crazy 2020-10-21 06:14:05 but I think I can cheat by making the rest of the gyrocopter and then put the rotor on  the center of mass
+plane-crazy 2020-10-21 19:37:15 the hell did I just come to
+plane-crazy 2020-10-21 19:38:22 meanwhile, I try to get the VTOL and the helicopter engineer rank in one go
+plane-crazy 2020-10-24 03:29:05 can you make a gyro without any gampasses, or is it a gamepass block, if there is one?
+plane-crazy 2020-10-24 03:30:15 rip
+plane-crazy 2020-10-24 03:30:58 I wonder if you still can make a gyro/stabilization for craft
+plane-crazy 2020-10-24 03:32:26 because having stabilization would be useful
+plane-crazy 2020-10-24 03:35:28 as in stabilization
+plane-crazy 2020-10-24 03:36:04 something that will keep pulling the craft to the proper orientation until shutting down
+plane-crazy 2020-10-24 04:17:34 alright
+the-dump 2020-10-24 04:18:32 So, I stop playing Plane Crazy to play Simple Planes. Bruh.
+the-dump 2020-10-24 05:27:57 ...
+the-dump 2020-10-24 05:28:14 you have put images I never wanted into my head
+general 2020-10-24 22:21:43 so why is that I can make a stable VTOL in Simple Planes in an hour, but it takes me 2-3 hours to make some crappy VTOL that came from a toilet in Plane Crazy?
+the-dump 2020-11-05 02:06:06 
+the-dump 2020-11-05 02:06:35 crap
+plane-crazy 2021-01-06 04:02:34 so, I am the idiot behind the ronald mcdonald plane from last year. I hate it now.
+plane-crazy 2021-01-06 04:03:13 and I spent 4 hours learning how to make a remote controlled missi-er drone. jet powered.
+plane-crazy 2021-01-06 04:03:53 it comes with a launch sled, because I don't like the vertical takeoffs and the crap it does to the wings
+plane-crazy 2021-01-06 04:05:04 I lost several versions, and it turns out I need the seal close to the launch holder. but it works, and works well.
+plane-crazy 2021-01-06 04:06:38 I'm a new guy here, so I didn't know that moving the seat farther from the launch platform hinders control.
+plane-crazy 2021-01-06 04:06:57 it was me mainly experimenting on this.
+plane-crazy 2021-01-06 04:07:43 must admit though, I am proud how the only thing that worked first try was the sled mechanism first try for each version
+plane-crazy 2021-01-06 04:08:45 well, it flies pretty well for this version
+plane-crazy 2021-01-06 04:09:26 the early ones, powered by the weak snow blaster before jet power took over, would just react like rockets
+plane-crazy 2021-01-06 04:09:53 this model is about 1/4 to 1/3 longer than the original, and a lot more stable
+plane-crazy 2021-01-06 04:10:13 good to note
+plane-crazy 2021-01-06 04:12:00 everything however, except the launch sled, failed one way or another. before releasing a video using roblox recorder of the first finished model, which was somehow erased by mistake, had a flaw where the single jet could pull the entire anchor, and after tinkering with it, 2 max density beams held it down
+plane-crazy 2021-01-06 04:12:40 I might make a torpedo drone out of this system, but with motor 2s
+plane-crazy 2021-01-06 04:13:02 must admit, getting a camera shot from a flyby was amazing.
+plane-crazy 2021-01-06 04:22:35 no u
+plane-crazy 2021-01-06 04:23:24 I swear to god. I try that, then I get dissed on by the thing.
+creations-chat 2021-01-06 04:24:22 well, low effort to you, but it took about 3-4 hours, being the noob that I am
+plane-crazy 2021-01-06 04:25:15 there. I finally got it.
+plane-crazy 2021-01-06 04:25:41 that's the demo for the 'crappy, low effort' drone made by me.
+plane-crazy 2021-01-06 04:26:13 listen
+plane-crazy 2021-01-06 04:26:25 I'm not a good person at this game.
+plane-crazy 2021-01-06 04:26:44 not saying I'm a genius, but I learned
+plane-crazy 2021-01-06 04:27:24 that's stupid
+plane-crazy 2021-01-06 04:28:57 I mean, I follow a saying more against that, by Henry Dreyfuss. "Form follows Function." And in the past, it works. but here? I could build a piece of crap, and it hardly works, and I get a 10/10 thing on it
+plane-crazy 2021-01-06 04:29:58 it reminds me of when I first joined this coding thing called scratch. some expert level peeps there were mad at all these low quality garbage things got so popular, leaving the better ones in the shadows
+plane-crazy 2021-01-06 04:30:17 this is true
+plane-crazy 2021-01-06 04:30:37 you sure
+plane-crazy 2021-01-06 04:31:35 I did once
+plane-crazy 2021-01-06 04:32:05 and let me tell you, if you said that in the scratch community as an offence, you'd probably get banned.
+plane-crazy 2021-01-06 04:32:22 yeah
+plane-crazy 2021-01-06 04:33:48 still, I think that drone is the best thing so far I've made. and I think it's ugly. I quote from my words: it's not good, but it works, and works well.
+plane-crazy 2021-01-06 04:34:36 so, is motor2 controllable by mouse?
+plane-crazy 2021-01-06 04:34:54 hmm
+plane-crazy 2021-01-06 04:36:20 for now, though, I might get a video recorded of me flying around the map, no voiceovers, testing the camera abilities
+plane-crazy 2021-01-06 04:36:43 still, let me get some photos of the other crap I made.
+plane-crazy 2021-01-06 04:37:57 I mean, most of the crap I've saved were actual crap
+plane-crazy 2021-01-06 04:40:27 starting off with everyone's favorite mcdonalds plane, the piece of crap that was meant to train newbies.
+plane-crazy 2021-01-06 04:41:05 I swear to god, that plane I built has begun to melt my eyes
+plane-crazy 2021-01-06 04:42:24 and then... this. the concept VTOL rig from 2020. didn't even bother flying it or the mcdonalds plane. that drone performs better.
+plane-crazy 2021-01-06 04:43:32 I'm gonna mess with making a torped-erm, an ROV for more testing.
+plane-crazy 2021-01-06 17:13:34 meanwhile, my drone from before became a missile with bombs
+plane-crazy 2021-01-06 18:28:39 aw man
+plane-crazy 2021-01-06 18:29:05 tbh that creeper looks like it just wants to die
+plane-crazy 2021-01-07 04:24:43 hello there.
+plane-crazy 2021-01-07 04:25:36 Simple Planes: Am I a joke to you?
+plane-crazy 2021-01-07 04:25:54 the joke is that SP came out before Plane Crazy
+plane-crazy 2021-01-07 04:26:16 and they do the same thing, except SP is singleplayer
+plane-crazy 2021-01-07 04:27:38 I just strapped a gun pointing down on my cabin for it
+plane-crazy 2021-01-07 04:27:44 it's super easy
+plane-crazy 2021-01-07 04:28:21 also, SP one-ups Planze Crazy because Downloads exist for other creations
+plane-crazy 2021-01-07 04:28:38 also, making jet powered VTOLS ACTUALLY WORK!
+plane-crazy 2021-01-07 04:29:29 Plane Crazy can't use jets for VTOLS unless you do some gravity crap
+plane-crazy 2021-01-07 04:30:12 or just simply make the wing drag not exist with wings that go with it
+plane-crazy 2021-01-07 04:30:43 h o w
+plane-crazy 2021-01-07 04:31:07 you gotta make tiny, simplistic planes for props to work
+plane-crazy 2021-01-07 04:31:27 altho I might make a turboprop thing soon.
+plane-crazy 2021-01-07 04:33:01 so, what should I do tomorrow? make a 2 axis camera and possible reaction wheel drone?
+plane-crazy 2021-01-07 04:33:23 I game 12 hours every day, mah dude
+creations-chat 2021-01-21 17:12:54 me: Dares people to downvote a crappy designed, but fully functional battlebot. The Community: This dude.
+general 2021-01-21 17:14:12 solid state's faster, boi. they can be equal size, only solid costs more
+creations-chat 2021-01-21 17:15:26 I don't mind. also, an engineer is not a designer. they make things that work, not things that looks good. which is why the TF2 sentry is bare-bones for it's worth
+creations-chat 2021-01-21 17:17:27 no, it's begging for upvotes, I think. anyways, I get constant downvotes for all my functional machines anyways. So, I broke the system in a way it's not rule breaking <:trollface:775024642104229898>
+creations-chat 2021-01-21 17:19:31 no, I'm that ad that says it's not worth your time and you should skip either way round
+creations-chat 2021-01-21 17:21:37 do you want me to say it has nothing but a spinner on the front? that's literally all it has. it's just a moving box with a spinner.
+creations-chat 2021-01-21 17:24:19 so, you saw something exactly like The Black Hazzard, my own battlebot, but say it wan't me.
+creations-chat 2021-01-21 17:26:21 well, that thing is fitting within a I think a 13x13x10 space, because of a battlebot challenge coming up. and yes, I did test it in public pvp a few times.
+creations-chat 2021-01-21 17:29:06 unfortunately, that's the model for this season of the battlebots I am doing. which is the RBCS season 3. and i'm going against a tall boi with a ramp and crusher for my first round
+general 2021-01-21 17:50:24 I like how now I cannot get voting on my creations, but I don't really care much. and the 'low-effort build' was a hour long thing for constant design changes within certain regulations. sure, it has no details, because it's a battlebot

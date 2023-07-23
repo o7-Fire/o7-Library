@@ -1,0 +1,647 @@
+The Tale of ryz_vik (498339462947012608)
+help 2021-09-01 07:22:48 Uhh, I have some problems with conveyor drives, it works fine but after sometime (I exhausted it or overused it) it usually flings me into the Shadow Zone as I like to call it, do anybody have a fix for this?
+help 2021-09-01 07:23:41 it usually only appears in my smaller builds using it, though.
+help 2021-09-01 07:30:23 oh well
+help 2021-09-01 07:30:33 its time to spam alot of hoverdrives instead
+help 2021-09-01 08:07:57 looks pog for me
+help 2021-09-01 08:09:21 I need something to cover the motorhole under the front part of the cockpit, do you have any ideas?
+help 2021-09-01 08:11:31 i mean, I do have motorlock but its already full, so i guess its just the disconnector or i live with it
+bot-central 2021-09-01 11:22:35 !rank
+bot-central 2021-09-01 11:22:40 aw
+plane-crazy 2021-09-01 11:23:28 i might be able to
+plane-crazy 2021-09-01 11:23:41 lemme find one rq-
+plane-crazy 2021-09-01 11:23:44 well that was fast
+plane-crazy 2021-09-01 11:24:07 you mean MFDs?
+plane-crazy 2021-09-01 11:24:28 yea no sorry flying a plane in dcs made me like that :(
+plane-crazy 2021-09-01 11:24:55 isnt that like
+plane-crazy 2021-09-01 11:25:07 the UFCD on F16s or something
+plane-crazy 2021-09-01 14:13:33 i think you need to put the "lift indicator" (the blue thing) near or on the mass indicator (the yellow one)
+plane-crazy 2021-09-01 14:13:50 by adding more wing panels to the front or back or just ballast
+plane-crazy 2021-09-01 14:15:42 what engine are you using?
+plane-crazy 2021-09-01 14:15:44 conveyor?
+plane-crazy 2021-09-01 14:15:50 wait no it must be hover
+plane-crazy 2021-09-01 14:15:58 cus its too small for conveyor right?
+plane-crazy 2021-09-01 14:17:09 I have the same problems with my F16CM, but it doesn't really matter because i wouldn't be dogfighting at 1.4k anyways
+plane-crazy 2021-09-01 14:19:29 can be but i find it hard to make and very glitchy
+plane-crazy 2021-09-01 14:19:40 so i just slapped hovers instead
+plane-crazy 2021-09-01 14:20:15 im having the same problem lmao
+plane-crazy 2021-09-01 14:23:25 oh my
+plane-crazy 2021-09-01 14:25:00 kind of the same happened to my F15c
+plane-crazy 2021-09-01 14:25:17 couldn't go faster than 1.2k or it will rudder left hard and then gets sent into the shadow zone
+plane-crazy 2021-09-01 14:29:38 afterburner effects?
+plane-crazy 2021-09-01 14:29:49 i have it on my F16C, i'mma get a video tutorial for it rq
+plane-crazy 2021-09-01 14:30:05 https://www.youtube.com/watch?v=NYhfpti8Eus&t=20s
+plane-crazy 2021-09-01 14:30:11 huh
+plane-crazy 2021-09-01 14:30:35 maybe try lowering the length alot
+plane-crazy 2021-09-01 14:30:36 like
+plane-crazy 2021-09-01 14:30:42 0.005 if you can ive not tried
+plane-crazy 2021-09-01 14:31:00 they can do both
+plane-crazy 2021-09-01 14:31:19 no you cant
+plane-crazy 2021-09-01 14:31:43 it'll basically infuse blocks but if you want blocks to stand out you'll need something to hold it
+plane-crazy 2021-09-01 14:31:53 i usually use cameras or normal blocks, maybe trails
+plane-crazy 2021-09-01 14:32:23 still can't post pictures
+plane-crazy 2021-09-01 14:32:24 sadge
+plane-crazy 2021-09-01 14:33:15 its fine
+plane-crazy 2021-09-01 14:34:19 some people gotta learn something sometimes
+plane-crazy 2021-09-01 14:34:26 **now thats alot of some in one sentence**
+plane-crazy 2021-09-01 14:35:01 my planes are literally a motorlock tower with blocks strapped onto it
+plane-crazy 2021-09-01 14:35:10 only if i can upload pictures :(
+bot-central 2021-09-01 14:48:05 !rank
+bot-central 2021-09-01 14:48:10 atleast im level 2 now
+plane-crazy 2021-09-01 14:51:36 i mean shredders aren't fine but most of the time i can just speed away?
+plane-crazy 2021-09-02 02:53:23 i just finished my F16CM yesterday and im just sitting here like : what do i do next
+plane-crazy 2021-09-02 02:54:11 yes okay i do wack now
+plane-crazy 2021-09-02 02:56:04 large delta wing also makes good area for mounting rockets i guess
+plane-crazy 2021-09-02 02:56:40 0,00010 because i've not built a "big" plane that looks like that ever
+plane-crazy 2021-09-02 02:56:47 max points lol
+plane-crazy 2021-09-02 02:57:02 personally thats big
+plane-crazy 2021-09-02 02:57:26 my F16CM is like 1 blocks wide lmao
+plane-crazy 2021-09-02 02:58:06 hey, atleast the camo's good
+plane-crazy 2021-09-02 02:59:47 hm yes **Stabbin**
+plane-crazy 2021-09-02 03:00:50 w h o a
+plane-crazy 2021-09-02 03:01:09 amazing
+bot-central 2021-09-02 12:03:38 !rank
+bot-central 2021-09-02 12:03:44 finally
+bot-central 2021-09-02 12:03:46 **yes**
+plane-crazy 2021-09-03 01:12:24 Hey uh, could I use Hoverdrives for normal forward propulsion in the Aeronautical ranking or no? I'm just asking
+plane-crazy 2021-09-03 01:13:34 ooo okay
+plane-crazy 2021-09-03 01:13:55 i just use hover thrusters just to get no sounds lmao
+plane-crazy 2021-09-03 01:14:00 super rockets too loud
+plane-crazy 2021-09-03 01:14:08 but anyways i need to use it now
+plane-crazy 2021-09-03 01:14:21 **which is pretty sad**
+plane-crazy 2021-09-03 01:14:32 i only use hoverdrives
+plane-crazy 2021-09-03 01:14:45 because about 90% of the time all my planes are small
+plane-crazy 2021-09-03 01:14:46 like
+plane-crazy 2021-09-03 01:15:01 the fuselage is never wider than 3 blocks
+plane-crazy 2021-09-03 01:15:29 so i guess the only way out is to motorlock up a massive amount of rockets or something
+plane-crazy 2021-09-03 01:17:01 this is about the best plane i've made so far
+plane-crazy 2021-09-03 01:17:40 it still has some problems to it but i guess im just going to get better
+plane-crazy 2021-09-03 01:18:08 not sure if im wrong but imo it looks like a mirage 2000C
+plane-crazy 2021-09-03 01:19:03 is delta wing just cursed in PC
+plane-crazy 2021-09-03 01:19:16 i've never built any delta wing planes that can compete with any of my "normal" planes whatsoever
+plane-crazy 2021-09-03 01:20:24 hmm, maybe my normal planes just turns really fast
+plane-crazy 2021-09-03 01:20:41 so i guess thats a myth lol
+plane-crazy 2021-09-03 01:27:53 IRL, yes
+plane-crazy 2021-09-03 01:28:00 i love delta winged planes
+plane-crazy 2021-09-03 01:28:32 but maybe normal planes in plane crazy makes no sense and just pulls 90G whenever they want
+plane-crazy 2021-09-03 01:28:53 and thats what delta wings in plane crazy can't really do, especially at high speeds
+plane-crazy 2021-09-03 01:29:11 but IRL to me they're very good performing
+plane-crazy 2021-09-03 01:30:34 i'm gonna give them another chance with a gripen
+plane-crazy 2021-09-03 02:03:52 peanut butter
+the-dump 2021-10-13 12:41:45 he did not commit armed robbery
+general 2021-10-16 13:06:56 fulcrum
+general 2021-11-14 14:39:53 how this picture looking?
+general 2021-11-22 15:06:55 😳
+general 2021-11-22 15:07:16 yessir
+general 2021-11-22 15:07:32 heres a tomchad
+general 2021-11-22 15:08:03 F14B > F14D but Neo doesn't give a fuck so
+general 2021-11-22 15:08:06 :cri:
+general 2021-11-22 15:08:50 more phantom
+general 2021-11-22 15:09:17 uhh sure
+general 2021-11-22 15:09:19 yeah
+general 2021-11-22 15:09:26 i dont have a skin for it so :cri:
+general 2021-11-22 15:09:32 but i'll try my best
+general 2021-11-22 15:09:51 anyways dont hurt me but I just want to share this little picture I took
+general 2021-11-22 15:10:18 why
+general 2021-11-22 15:10:34 it is genshin
+general 2021-11-22 15:10:42 I just like taking pictures and genshin looks amazing
+general 2021-11-22 15:10:47 so why not
+general 2021-11-22 15:11:02 
+general 2021-11-22 15:11:10 agreed
+general 2021-11-22 15:11:38 another chad ace combat man
+general 2021-11-22 15:11:51 uhh
+general 2021-11-22 15:11:56 from ruin guards?
+general 2021-11-22 15:12:04 just try to go to the side and dash right near it
+general 2021-11-22 15:12:11 like dash into it next to it
+general 2021-11-22 15:12:37 :cri:
+general 2021-11-22 15:13:08 im about to do something
+general 2021-11-22 15:13:35 i hereby summon one of my ultimate cards
+***Galm Team!***
+general 2021-11-22 15:14:12 cole
+general 2021-11-22 15:15:17 hey look I don't have an Su33 but I do have a modified Su30SM
+general 2021-11-22 15:15:49 beeeeee
+general 2021-11-22 15:16:21 bee
+general 2021-11-22 15:16:30 eagle eats bee
+general 2021-11-22 15:16:44 long description
+general 2021-11-22 15:17:22 yes it does
+general 2021-11-22 15:17:48 neo warfare big bombs gamepass in a nutshell:
+general 2021-11-22 15:18:18 look at all the cool planes up there
+general 2021-11-22 15:18:19 while
+general 2021-11-22 15:18:26 theres this guy
+general 2021-11-22 15:18:32 whos just a support unit
+general 2021-11-22 15:19:00 logic
+general 2021-11-22 15:19:20 **laughs in 6 ASM in less than 1 second and immediately sinking any ship before it can fire**
+general 2021-11-22 15:19:26 **rafale powerrr**
+general 2021-11-22 15:19:55 yesnt
+general 2021-11-22 15:20:18 futuristic gamepass moment
+general 2021-11-22 15:20:29 and yes
+general 2021-11-22 15:20:38 it is
+general 2021-11-22 15:20:43 its from Halo
+general 2021-11-22 15:20:46 and yes
+general 2021-11-22 15:20:56 the weapon carried is officially stated on the wiki
+general 2021-11-22 15:21:05 i feel like plane crazy gets
+general 2021-11-22 15:21:07 a little bland?
+general 2021-11-22 15:21:14 i dunno but im having fun
+general 2021-11-22 15:21:19 technically yes
+general 2021-11-22 15:21:29 but X-02 are dog water now
+general 2021-11-22 15:21:34 morgan is the best
+general 2021-11-22 15:21:42 for best fuel efficiency and best maneuverabilty
+general 2021-11-22 15:21:52 run
+general 2021-11-22 15:21:54 its the atack
+general 2021-11-22 15:21:57 run tai run
+general 2021-11-22 15:22:31 fk it im bringing out my nuke energy card
+general 2021-11-22 15:22:51 giant stick
+general 2021-11-22 15:23:24 yes indeed
+general 2021-11-22 15:23:41 tomchad moment
+general 2021-11-22 15:23:48 aight wheres the mig28 :troll:
+general 2021-11-22 15:24:07 super tomcat < 14B tomchad
+general 2021-11-22 15:24:26 pog
+general 2021-11-22 15:24:28 i like that
+general 2021-11-22 15:24:58 have a SAM ;)
+general 2021-11-22 15:25:07 yesssss
+general 2021-11-22 15:25:09 cool air
+general 2021-11-22 15:25:48 stonheng and AWACS
+general 2021-11-22 15:26:47 OP moment
+general 2021-11-22 15:28:06 w h a t
+general 2021-11-22 15:29:17 P
+R
+O
+general 2021-11-22 15:29:50 have a weird F16
+general 2021-11-22 15:30:05 python
+general 2021-11-22 15:30:26 damn
+general 2021-11-22 15:30:47 
+general 2021-11-22 15:30:51 hold up
+general 2021-11-22 15:30:55 why is this one potat
+general 2021-11-22 15:31:02 lemme find the un-potat-ed one
+general 2021-11-22 15:31:25 nevermind i couldn't
+general 2021-11-22 15:31:49 made something
+general 2021-11-22 15:32:23 14 at max
+general 2021-11-22 15:32:34 i have no life
+general 2021-11-22 15:32:35 :cri:
+general 2021-11-22 15:32:45 i have
+general 2021-11-22 15:33:02 anyways have this
+general 2021-11-22 15:33:27 ace combat logic
+general 2021-11-22 15:33:54 pro katana wielder
+general 2021-11-22 15:34:13 i didnt play it
+general 2021-11-22 15:34:14 i just went in there
+general 2021-11-22 15:34:16 took pictures
+general 2021-11-22 15:34:17 and came out
+general 2021-11-22 15:34:29 anyways
+have **MEGASUS** team
+general 2021-11-22 15:34:45 normal
+general 2021-11-22 15:34:57 mmmm 16
+general 2021-11-22 15:35:08 WHAT
+general 2021-11-22 15:35:14 what is this abomination
+general 2021-11-22 15:35:46 please no more
+general 2021-11-22 15:35:48 i beg you
+general 2021-11-22 15:36:05 NO
+general 2021-11-22 15:36:19 NO
+general 2021-11-22 15:36:20 NO
+general 2021-11-22 15:36:31 what
+general 2021-11-22 15:36:37 anyways
+general 2021-11-22 15:36:41 noooo
+general 2021-11-22 15:37:03 **dont worry im just merging with an Su30 i'll be totally fine**
+general 2021-11-22 15:37:06 no please
+general 2021-11-22 15:37:10 no
+general 2021-11-22 15:37:21 its roblox
+general 2021-11-22 15:37:38 because yes
+general 2021-11-22 15:38:00 
+general 2021-11-22 15:38:50 chad
+general 2021-11-22 15:38:59 too slick
+general 2021-11-22 15:39:07 oof
+general 2021-11-22 15:40:58 how relatable is this to all you not-english-natives
+general 2021-11-22 15:41:31 not pog
+general 2021-11-22 15:42:05 to you all ace combateers, how is this meme
+general 2021-11-22 15:42:26 w h a t
+general 2021-11-22 15:42:52 i know
+general 2021-11-22 15:43:08 i dont have a MiG29 with Sol liveries ok
+general 2021-11-22 15:43:25 look at this chad
+general 2021-11-22 15:43:35 belka did nothing wrong
+general 2021-11-22 15:44:04 plane crazy
+general 2021-11-22 15:44:10 only edited the morgan into black
+general 2021-11-22 15:44:37 nooo
+general 2021-11-22 15:44:46 cool air
+general 2021-11-22 15:46:41 
+general 2021-11-22 15:47:19 but pumpkins are expensive here
+general 2021-11-22 15:47:34 
+general 2021-11-22 15:48:51 
+general 2021-11-22 15:49:08 facks
+general 2021-11-22 15:49:53 the average alcoholic ace combat pilot
+general 2021-11-22 15:51:30 literally one of the simplest mcdonalds
+general 2021-11-22 15:52:17 because they just took a house and then slapped a mcdonalds sign on it
+general 2021-11-22 15:53:06 mcdonalds vs kentucky fried coc- i mean chicken
+the-dump 2021-11-25 05:43:39 cutting edge technology
+the-dump 2021-11-25 05:45:09 
+the-dump 2021-11-25 05:45:19 who would say no
+the-dump 2021-11-25 05:46:45 
+the-dump 2021-11-30 14:18:42 celebrations is not fun but days off are nice
+the-dump 2021-11-30 14:18:49 my english
+the-dump 2021-11-30 14:18:58 <:4Weird:709084058721714324>
+the-dump 2021-11-30 14:19:20 unarmed robbery
+the-dump 2021-12-01 00:08:59 is this supposed to be an insult
+the-dump 2021-12-01 00:09:28 anyways
+the-dump 2021-12-01 00:10:35 
+the-dump 2021-12-19 15:15:18 ace combat be like
+the-dump 2021-12-19 15:17:19 except the game is Project Wingman
+the-dump 2021-12-19 15:17:52 beat crimson 1 in 10 seconds with 3 million railguns though, pretty sick
+general 2021-12-20 01:11:27 good job on that fried egg
+general 2021-12-20 01:11:57 I think its a good amount though, a little too little for me
+general 2021-12-20 01:12:13 would like the bacon a bit krispier tho
+general 2021-12-20 01:12:20 otherwise yes
+general 2021-12-20 01:12:48 anyways have a a picture of an F15C going full burner
+general 2021-12-20 01:13:23 because it is
+general 2021-12-20 01:13:36 have one more
+general 2021-12-20 01:14:11 😳
+general 2021-12-20 01:14:43 what is that egg
+general 2021-12-20 01:14:46 is that egg
+general 2021-12-20 01:14:52 wtf
+general 2021-12-20 01:14:59 w
+general 2021-12-20 01:15:07 welp
+general 2021-12-20 01:15:10 its chicken
+general 2021-12-20 01:15:12 alrighty
+general 2021-12-20 01:15:17 that looks good
+general 2021-12-20 01:15:25 i'd like beans on a seperate bowl though
+general 2021-12-20 01:15:32 otherwise yes it is pog
+general 2021-12-20 01:16:09 i got my finger nearly cut off when chopping chives
+its still healing
+general 2021-12-20 01:16:51 it was on top of my thumb
+general 2021-12-20 01:17:09 when life gives you lemons, **becareful.**
+general 2021-12-20 01:53:35 but you have 1 more picture of a Gripen at night dumping his flares
+general 2021-12-21 01:01:52 could be a Felon
+general 2021-12-21 01:01:58 judging by the cockpit shape
+general 2021-12-21 01:02:33 I do not play WT
+general 2021-12-21 01:03:18 but I do want engagements over 10miles for **"realism"**
+general 2021-12-21 01:04:13 h
+general 2021-12-21 01:04:17 exactly
+general 2021-12-21 01:04:25 WT does not even get "simulator" right
+general 2021-12-21 01:04:42 decent
+general 2021-12-21 01:04:53 the handle looks a bit weird though
+general 2021-12-21 01:05:23 yeah they give other planes something to do
+general 2021-12-21 01:05:47 the fact that it calls itself "simulator battles" is still weird to me though lol
+general 2021-12-21 01:06:45 anyways have this picture of an F15C flying over some weird waters and waiting for somebody to spawn in
+general 2021-12-21 01:06:52 I have both VR and HOTAS
+general 2021-12-21 01:07:02 **its not fun to play WT on VR I'll give you that**
+general 2021-12-21 01:07:15 the views are so messed up
+general 2021-12-21 01:07:22 cockpits are cramped as frick
+general 2021-12-21 01:07:34 **and HOTAS does not work**
+general 2021-12-21 01:08:02 i'd rather go get a free trial from DCS because quality
+general 2021-12-21 01:09:52 its called overkill
+general 2021-12-21 01:10:01 i play DCS with 15 buttons
+general 2021-12-21 01:10:05 on my HOTAS
+general 2021-12-21 01:10:16 and I still clap veteran AIs in a dogfight
+general 2021-12-21 01:10:19 not sure
+general 2021-12-21 01:10:49 oh my
+general 2021-12-21 01:10:55 **pixelated**
+general 2021-12-21 01:11:08 where anti-aliasing
+general 2021-12-21 01:12:07 huh
+general 2021-12-23 13:04:09 picture
+general 2021-12-23 13:05:26 neo warfare x
+general 2021-12-23 13:05:52 not a fan of the berkut but yes it looks pretty good
+general 2021-12-23 13:05:58 its called editing
+general 2021-12-23 13:06:06 this is hot
+general 2021-12-23 13:06:29 have more
+general 2021-12-23 13:06:45 get more
+general 2021-12-23 13:08:06 no can do yet but here you go for now
+general 2021-12-23 13:08:26 I have the iconic 😳
+general 2021-12-23 13:08:50 its hard to do this
+general 2021-12-23 13:09:01 ok have hornets
+general 2021-12-23 13:09:37 a little more hornet
+general 2021-12-23 13:09:51 no
+general 2021-12-23 13:09:53 far away from DCS
+general 2021-12-23 13:10:13 neo warfare is like ace combat but you can sail ships
+general 2021-12-23 13:11:44 have phantoms
+the-dump 2021-12-28 05:21:44 no context
+the-dump 2021-12-28 05:22:15 human 12
+buy your own now
+the-dump 2021-12-28 05:22:48 joeseph stalin
+the-dump 2021-12-28 05:23:23 haha t pose haha
+the-dump 2021-12-28 05:24:51 he looks like he got some stuff to sell <:EYES:525319504721608705>
+the-dump 2021-12-28 05:25:04 bet he has AK parts
+the-dump 2021-12-28 05:25:37 maybe people in tarkov gets shorter instead of taller
+the-dump 2021-12-28 05:26:37 DCS
+the-dump 2021-12-28 05:26:47 i recently bought the F14
+the-dump 2021-12-28 05:26:56 15% off ;)
+the-dump 2021-12-28 07:39:21 no context
+general 2021-12-28 07:49:45 no, you’re supposed to boil it
+general 2021-12-28 07:50:03 pan
+general 2021-12-28 07:50:22 microwave for rich people :(
+general 2021-12-28 07:50:36 hol up
+general 2021-12-28 07:50:49 that actually could be a deep fried calzone
+general 2021-12-28 07:51:13 yes
+general 2021-12-28 07:51:42 
+general 2021-12-28 07:51:56 “I shot santa with a 50 bmg”
+general 2021-12-28 07:52:22 schrodinger or smthg
+general 2021-12-28 07:52:37 
+general 2021-12-28 07:53:01 cool
+general 2021-12-28 07:53:20 11 meters tall
+general 2021-12-28 07:53:24 wrong tank sorry
+general 2021-12-28 07:53:49 
+general 2021-12-28 07:54:26 sick
+general 2021-12-28 07:54:54 im at school
+<:hahaa:773727260539617280>
+general 2021-12-28 07:55:20 I just bought f14 for dcs yesterday
+general 2021-12-28 07:55:26 school tho
+general 2021-12-28 07:55:31 <:ElonSad:573361014112780303>
+general 2021-12-28 07:57:31 school makes me go up and down stairs from floor 1-6
+general 2021-12-28 07:57:34 cool
+general 2021-12-28 07:57:50 yessir
+general 2021-12-28 07:58:03 there’s actually 7 floors
+general 2021-12-28 07:58:17 so I’m under the top floor
+general 2021-12-28 07:58:30 g
+general 2021-12-28 07:59:35 I have to go down to floor 2 for computer last period
+general 2021-12-28 08:01:17 I don’t even learn <:KEKW:670310537300672528>
+general 2021-12-28 08:02:05 damn
+general 2021-12-28 08:02:30 **cries in 82%+*
+general 2021-12-28 08:02:57 omg whar
+general 2021-12-28 08:03:38 formation flying practice in mirage
+general 2021-12-28 08:03:43 did an okay job
+general 2021-12-28 08:04:08 I am indeed
+general 2021-12-28 08:04:22 *cries in folder full of weird shit*
+general 2021-12-28 08:04:43 same but 8+3
+general 2021-12-28 08:05:09 whar
+general 2021-12-28 08:05:22 pro
+general 2021-12-28 08:05:45 fbi pro
+general 2021-12-28 08:06:46 specel trening
+general 2021-12-28 08:07:34 teacher here gtg bye
+general 2021-12-30 13:43:47 https://cdn.discordapp.com/attachments/840893411115663362/926107501454319676/YES.png
+general 2021-12-30 13:43:50 whar
+general 2021-12-30 13:44:16 discord commits die everytime my DCS is running smh
+general 2021-12-30 13:45:41 general doesnt allow embeds?
+general 2021-12-30 13:45:50 oh crap yea
+general 2021-12-30 13:46:20 🗿
+general 2021-12-30 13:46:39 i just wanted to share a picture of me sending a phoenix to "talk to" a mig28
+general 2021-12-30 13:47:27 anyways I was quitting plane crazy
+general 2021-12-30 13:47:29 because yknow
+general 2021-12-30 13:47:41 no content atleast for now and I have an F14 for DCS
+general 2021-12-30 13:47:58 salt pepper garlic powder
+general 2021-12-30 13:48:36 either that or there are nothing left for me to do
+general 2021-12-30 13:49:33 Yeah uh, the thing is I have a little something that I was craving,
+general 2021-12-30 13:49:48 atleast that's why I'm taking a break
+general 2021-12-30 13:50:08 plane crazy has been pretty dull lately, looking forward to PC2 though
+general 2021-12-30 13:50:22 exactly
+general 2021-12-30 13:50:31 all i've done was grind school 💀
+general 2021-12-30 13:50:47 then for new years gift I got myself an F14 for DCS :))))
+general 2021-12-30 13:51:09 I would shoot the school, I ran out of bullets so shoot though
+general 2021-12-30 13:51:41 **sorry we don't celebrate christmas here**
+general 2021-12-30 13:51:46 *cough cough*
+general 2021-12-30 13:51:54 I ran out of money to buy ammo
+general 2021-12-30 13:52:10 no
+general 2021-12-30 13:52:39 i'm now wasting 160 million dollars a day
+general 2021-12-30 13:52:42 by flying the F14
+general 2021-12-30 13:52:53 and dying due to lag spikes in multiplayer 🗿
+general 2021-12-30 13:53:16 enjoyable nontheless *chuckles in 2 mile sparrow*
+general 2021-12-30 13:54:13 haha kulblit at mach 2 haha
+general 2021-12-30 13:54:31 dcs
+general 2021-12-30 13:54:42 yesnt
+general 2021-12-30 13:55:42 more like school bombing
+general 2021-12-30 13:55:58 *chuckles in 4 mk84s*
+general 2021-12-30 13:56:21 because cluster bomb logic
+general 2021-12-30 13:57:24 sparrows > amraams
+general 2021-12-30 13:57:26 change my mind
+the-dump 2022-01-10 05:30:04 
+the-dump 2022-01-10 05:32:11 
+the-dump 2022-01-10 05:34:14 im about to post a really dark one
+the-dump 2022-01-10 05:34:35 
+the-dump 2022-01-10 05:35:03 probably brighter than my future
+the-dump 2022-01-10 05:35:26 <:nooo:787097964946259978>
+the-dump 2022-01-15 05:25:18 
+the-dump 2022-01-15 05:27:44 
+the-dump 2022-01-15 05:29:29 this is a threat
+the-dump 2022-01-15 05:30:43 
+the-dump 2022-01-15 05:30:44 bye now
+creations-chat 2022-01-20 07:01:22 its snowing
+creations-chat 2022-01-20 07:05:32 exactly, you don't <:KEKW:670310537300672528>
+creations-chat 2022-01-20 07:07:39 nvm i gotchu a close up
+creations-chat 2022-01-20 07:09:59 ya man, hold up
+creations-chat 2022-01-20 07:15:38 1. arden is my DCS callsign
+2. no, im not reworking the plane because yes
+creations-chat 2022-01-20 07:25:27 i honestly don't know and here have a picture bye
+creations-chat 2022-01-20 07:45:59 maybe you just don't know when to fire them <:KEKW:670310537300672528>
+creations-chat 2022-01-20 07:48:46 if the enemy doesn't have time to react, they won't drop countermeasures 🗿
+creations-chat 2022-01-20 07:58:10 1.5km amraam at mach 2.6<:OMEGALUL:528987216643489792>
+general 2022-02-06 07:42:40 i wont trust anybody that i just knew tbh
+general 2022-02-06 07:43:38 i managed to hit a tanker ship with a sparrow and chip away 50% of it's health in an F14B
+i am superior to that one canadian pilot who tried the same and failed
+creations-chat 2022-03-01 15:11:42 my own
+creations-chat 2022-03-02 01:45:38 I feel offended but okay
+
+<@!771407578285867108>  HOTAS committed die, can't play DCS
+second of all my oculus link also committed die so no VTOL VR
+:(
+creations-chat 2022-03-02 01:50:56 back to crying to sleep I go
+creations-chat 2022-03-02 01:53:29 F12 button on roblox
+use OBS though because roblox records suck
+creations-chat 2022-03-02 01:56:02 Did you select Roblox.exe window for OBS to record?
+lets move this to somewhere else I guess because its hard to type in here
+help 2022-03-04 15:01:52 can I ask for a therapy or no
+help 2022-03-04 15:02:01 (I am bored)
+help 2022-03-04 15:05:54 ok
+help 2022-03-04 15:10:28 gasp
+help 2022-03-04 15:10:42 true chad
+help 2022-03-04 15:10:50 nah its fine
+help 2022-03-04 15:10:54 I was just asking to see reactions
+help 2022-03-04 15:11:08 good day
+help 2022-03-04 15:11:09 or night
+help 2022-03-04 15:11:13 wherever you are
+help 2022-03-04 15:11:23 its 10pm here 💀
+help 2022-03-04 15:11:39 anyways goodbye
+help 2022-03-05 14:05:19 give me ideas
+i had a mental breakdown and i am bored
+i need something to do instead of being frustrated
+<:4Weird:709084058721714324>
+help 2022-03-05 14:09:12 uhhh what do you mean
+help 2022-03-05 14:09:44 try setting dampening up and stiffness up
+help 2022-03-05 14:09:48 don't put too much of it though
+help 2022-03-05 14:09:53 otherwise you'll bounce
+help 2022-03-05 14:10:12 i'm more a mini jet builder so I don't really have any fields in this but I hope that it could help
+help 2022-03-05 14:10:29 try setting your plane's suspension
+help 2022-03-05 14:10:34 add more dampening and stiffness i guess
+help 2022-03-05 14:10:41 oh and ropes
+help 2022-03-05 14:10:54 put them next to the suspension so they don't go bouncing all over the place
+help 2022-03-05 14:11:07 yeah thats good
+help 2022-03-05 14:11:21 add some more stiffness to your suspension with the function tool
+help 2022-03-05 14:11:49 i still need ideas <:4Weird:709084058721714324>
+help 2022-03-05 14:15:51 hmm
+help 2022-03-05 14:16:12 did you try putting the free length up?
+creations-chat 2022-03-05 14:26:02 Just 2-3 things that I have to say:
+-The wing is kind of oversized
+-The elevator is a legit triangle??
+and maybe the pointy nose but depends on how you look at it
+overall great though
+<@!598480813050560512>
+plane-crazy 2022-03-05 14:29:27 what happens if I post an su30 without intakes in <#384025409945337856> 
+ill probably die
+plane-crazy 2022-03-05 14:29:53 its not wip
+plane-crazy 2022-03-05 14:30:07 + im too lazy to get rank because all my planes are pvp
+plane-crazy 2022-03-05 14:30:16 and no hover engines = no life
+plane-crazy 2022-03-05 14:30:41 well i mean
+plane-crazy 2022-03-05 14:30:49 i could probably live without hover engines but
+plane-crazy 2022-03-05 14:30:56 rocket engines are just earrape lol
+plane-crazy 2022-03-05 14:31:24 yeah
+plane-crazy 2022-03-05 14:31:25 restart pc
+plane-crazy 2022-03-05 14:31:53 i just get the blue screen of death after running DCS and blade and sorcery at the same time
+plane-crazy 2022-03-05 14:32:03 shouldn't have tried running both at once
+plane-crazy 2022-03-05 14:32:29 2 games
+plane-crazy 2022-03-05 14:32:29 yeah i ran dcs and b&s
+plane-crazy 2022-03-05 14:32:34 but yeah my cpu committed suicide
+plane-crazy 2022-03-05 14:32:39 i5 gen 9
+plane-crazy 2022-03-05 14:32:43 not really
+plane-crazy 2022-03-05 14:32:58 yeah
+plane-crazy 2022-03-05 14:33:02 with an i5 probably
+plane-crazy 2022-03-05 14:33:10 i have a gen 9 and never replaced it lol
+plane-crazy 2022-03-05 14:33:19 its mostly the ram that sthe problem
+plane-crazy 2022-03-05 14:33:23 16gb isn't enough
+plane-crazy 2022-03-05 14:33:49 for dcs 16gb is like minimum
+plane-crazy 2022-03-05 14:34:06 digital combat simulator
+plane-crazy 2022-03-05 14:34:11 plane simulator
+plane-crazy 2022-03-05 14:34:17 microsoft flight sim but combat
+plane-crazy 2022-03-05 14:34:27 my hotas just shat on me
+plane-crazy 2022-03-05 14:34:33 and my oculus link cable as well
+plane-crazy 2022-03-05 14:34:54 never used it for dc
+plane-crazy 2022-03-05 14:34:55 dcs
+plane-crazy 2022-03-05 14:35:04 ideas
+plane-crazy 2022-03-05 14:35:05 now
+plane-crazy 2022-03-05 14:35:12 give ideas
+plane-crazy 2022-03-05 14:35:17 i have vtol vr
+plane-crazy 2022-03-05 14:35:19 its just that
+plane-crazy 2022-03-05 14:35:27 link cable committed suicide
+plane-crazy 2022-03-05 14:35:40 yes
+plane-crazy 2022-03-05 14:36:26 i never even tried to run vr in roblox
+plane-crazy 2022-03-05 14:37:08 so i have no idea how to fix that
+plane-crazy 2022-03-05 14:37:15 + i never used virtual desktop
+plane-crazy 2022-03-05 14:37:46 should i remake an f15 for the 5th time
+plane-crazy 2022-03-05 14:38:05 last time it went 3k and did 90 degree AOA everytime i tap S
+plane-crazy 2022-03-05 14:38:33 can't aim wit hthat so i moved onto my su30 without intakes <:4Weird:709084058721714324>
+plane-crazy 2022-03-05 14:40:19 have you tried removing some front wing panels or making the front lighter
+plane-crazy 2022-03-05 14:40:22 or vice versa
+plane-crazy 2022-03-05 14:40:43 my F15 also does that because i gave it a shit ton of wing panels infront for maximum AOA
+plane-crazy 2022-03-05 14:41:08 yes
+plane-crazy 2022-03-05 14:41:22 sometimes you just can't aim with it
+plane-crazy 2022-03-05 14:41:39 I say sometimes because I have been there
+plane-crazy 2022-03-05 14:42:01 well guess what thats exactly why I moved on
+plane-crazy 2022-03-05 14:42:13 I went mouse with my Su30
+plane-crazy 2022-03-05 14:42:18 I used that
+plane-crazy 2022-03-05 14:42:22 it was my main problem just until now
+plane-crazy 2022-03-05 14:42:49 i don't know anymore
+plane-crazy 2022-03-05 14:43:46 i have no idea what that means but from looking at your pfp I know you are cultured
+plane-crazy 2022-03-05 14:44:28 sensitive controls are great until it's too sensitive and throws off everything
+plane-crazy 2022-03-05 14:45:00 it doesn't work if you literally turn 90 degrees everytime you tap s
+plane-crazy 2022-03-05 14:45:08 then snap back at mach 2
+creations-chat 2022-03-05 14:45:33 its fine, you did good
+plane-crazy 2022-03-05 14:46:20 my f15 flies 3000 but when i tap something they just have a seizure and die
+plane-crazy 2022-03-05 14:46:33 agreed monsoon 🗿
+plane-crazy 2022-03-05 14:47:07 my su30 doesn't wobble and i have a good time with it unlike my f15 which was only good at 300 💀
+plane-crazy 2022-03-05 14:47:39 thats why
+plane-crazy 2022-03-05 14:48:17 agreed with smiley here
+plane-crazy 2022-03-05 14:48:47 mouse planes can't outmaneuver a kb plane at slow speeds especially if those guys have those "aoa enhancements"
+plane-crazy 2022-03-05 14:49:09 isn't that a cluster bomb
+plane-crazy 2022-03-05 14:49:40 isn't it still classified as a cluster bomb because it clusters out?
+plane-crazy 2022-03-05 14:49:53 or am i viewing this picture wrong
+plane-crazy 2022-03-05 14:50:09 school me
+plane-crazy 2022-03-05 14:50:36 cbu105 wcmd on f16c
+<:trollface:775024642104229898>
+plane-crazy 2022-03-05 14:51:28 <@456226577798135808>  do you have any ideas mr monsoon
+plane-crazy 2022-03-05 14:51:34 NOT THE ORANGE
+plane-crazy 2022-03-05 14:52:48 w
+plane-crazy 2022-03-05 14:52:58 you can now commit war crimes with greater efficiency
+plane-crazy 2022-03-05 14:55:42 when the
+plane-crazy 2022-03-05 14:57:49 stability
+plane-crazy 2022-03-05 15:00:20 is it normal for my helicopter to be that stable
+plane-crazy 2022-03-05 15:00:28 i don't think it feels natural
+plane-crazy 2022-03-05 15:01:02 design is pretty bad but the stability is just kind of satisfying
+plane-crazy 2022-03-05 15:02:02 hax
+plane-crazy 2022-03-05 15:02:25 or magic codes
+plane-crazy 2022-03-05 15:03:05 yeah
+plane-crazy 2022-03-05 15:03:16 was thinking of that too
+plane-crazy 2022-03-05 15:03:39 until it finds something in its cone and starts chasing it
+plane-crazy 2022-03-05 15:04:03 basically a better rocket
+plane-crazy 2022-03-05 15:04:15 yeah
+plane-crazy 2022-03-05 15:04:18 a better rocket
+plane-crazy 2022-03-05 15:04:35 tracks at 2-3 plots distance and instantly atomizes your plane
+plane-crazy 2022-03-05 15:04:39 basically a better pvp rocket
+plane-crazy 2022-03-05 15:04:50 now thats the problem
+plane-crazy 2022-03-05 15:05:07 well it'll be useful for taking shots that the enemy doesn't expet
+plane-crazy 2022-03-05 15:05:09 expect
+plane-crazy 2022-03-05 15:05:18 could be true
+plane-crazy 2022-03-05 15:07:15 auto hotkey was allowed so if he was a smartass he could probably do it?
+plane-crazy 2022-03-05 15:07:21 dunno though
+plane-crazy 2022-03-05 15:07:44 a program that runs a script on your pc
+plane-crazy 2022-03-05 15:07:49 i use it for depth charges
+plane-crazy 2022-03-05 15:07:55 it doens't inject it
+plane-crazy 2022-03-05 15:08:01 yeah it only does the sequence on your pc
+plane-crazy 2022-03-05 15:08:24 as i told you I do not know
+plane-crazy 2022-03-05 15:08:40 i mean
+plane-crazy 2022-03-05 15:08:47 it is alien tech to plane crazy
+plane-crazy 2022-03-05 15:10:29 what would cause it to rotate though
+plane-crazy 2022-03-05 15:11:49 motor to create uh
+plane-crazy 2022-03-05 15:11:52 how is it written again
+plane-crazy 2022-03-05 15:11:58 torque
+plane-crazy 2022-03-05 15:11:59 yeah
+plane-crazy 2022-03-05 15:12:05 motor to create torque to roll
+plane-crazy 2022-03-05 15:12:30 like how a helicopter needs the counter-rotation rotor to cancel the torque of the main rotor
+plane-crazy 2022-03-05 15:12:36 but this torque is needed for the missile to tern
+plane-crazy 2022-03-05 15:12:41 turn
+plane-crazy 2022-03-05 15:13:17 anyways time to go commit hit the sack
+plane-crazy 2022-03-05 15:13:21 i am tired
+plane-crazy 2022-03-05 15:13:24 night
+plane-crazy 2022-03-06 04:18:07 should i try to get rank
+plane-crazy 2022-03-06 04:18:16 i still don't want to use super rockets though
+plane-crazy 2022-03-06 04:18:19 🗿
+plane-crazy 2022-03-06 04:19:46 i literally only know how to build 1 thing and that is a pvp plane
+plane-crazy 2022-03-06 04:19:47 lol
+creations-chat 2022-03-25 03:18:42 I'll try to work on that
+I also added a bit of light for picture illumination, seems like it's not enough, but too much and it looks bad
+creations-chat 2022-03-25 03:23:35 im way too lazy to fix that 💀
+creations-chat 2022-03-25 03:29:01 <#478584971670454284>
+I'm no mech expert, but have you tried adding helium in the torso?
+creations-chat 2022-03-25 03:33:36 I'm already using M2M controls
+The propellers are there for PSMs
+and high AOA obviously
+creations-chat 2022-03-25 03:44:24 maneuverability demo for anybody whos wondering
+https://streamable.com/2e6x6p
+creations-chat 2022-03-25 05:47:11 mmmmmm eotorloke
+help 2022-03-27 14:40:08 im thinking of building my first actual high effort off-road car
+where should I start
+help 2022-03-27 15:14:12 car
+help 2022-03-27 15:14:21 makes sense
+help 2022-03-27 15:14:24 good bye
+the-dump 2022-03-28 05:24:12 your local sleep paralysis monster
+the-dump 2022-03-28 07:21:47 
+general 2022-04-03 03:21:07 i am gone
+(real)
+general 2022-04-03 03:21:22 how is an eggplant nsfw
+general 2022-04-03 03:21:38 anyways I got the warn already ill take it lol
+general 2022-04-03 03:22:01 goodbye
+general 2022-04-21 12:55:31 does anybody have sea of thieves ive been waiting for my friends for like 12 hours already but they never came so im just gonna ask randoms for now
+general 2022-04-21 12:55:47 im so tired
+the-dump 2022-04-23 04:48:49 if a mustang can go up to 35,000ft
+the-dump 2022-04-23 04:48:55 then it can bvr
+the-dump 2022-04-23 04:48:57 
+the-dump 2022-04-23 04:49:16 (according to dcs the mustang can go up to 35,000ft if the pilot is casual enough to climb)
+general 2022-04-24 07:26:56 i evaded an amraam in a p47 in dcs from 11 miles away
+general 2022-05-07 09:43:16 chewy cookies or crispy cookies
+the-dump 2022-05-07 14:20:24 
+the-dump 2022-05-11 13:55:25 https://cdn.discordapp.com/attachments/588979185687461908/973946232558985316/Chile.mp4
+general 2022-05-12 07:28:05 does anybody have sea of thieves (i am bored and lonely) (new player warning)
+general 2022-05-12 07:29:19 are you willing to accept a new player
+general 2022-05-12 07:29:51 okay
+general 2022-07-09 03:07:40 does anybody have RON we are trying to do the funny raid on a map (we are not experienced but we're in for some good fun)
+general 2022-07-09 03:11:57 ready or not
+general 2022-07-09 03:12:10 we need a breacher
+general 2022-07-09 03:12:12 for 3 man team
+general 2022-08-02 02:20:31 I’m selling an Xbox game pass ultimate for 2 doler so I can finally afford electricity <:joi:554584439661920268>
+general 2022-08-02 02:21:11 I’m joking about the selling part but I am giving away one because I cannot redeem it in my country
+general 2022-08-02 02:21:13 dm me
+general 2022-08-02 02:23:37 ok
+general 2022-08-02 02:23:57 dms please
+general 2022-08-02 02:28:31 sold to quaileer for 3 kraft singles cheese
+general 2022-08-31 12:30:07 should I buy Stormworks
+general 2022-08-31 12:31:33 aight buying
+general 2022-08-31 12:33:40 i learn boat game now
+the-dump 2022-09-30 06:15:39 https://cdn.discordapp.com/attachments/659418607587164183/1002769475592007770/Woah.webm
+general 2022-10-21 15:41:26 how Russian CSGO players used to cool their PCs
+general 2022-10-21 15:41:40 (hang it out the window in the cold ass wind)
+general 2022-10-21 15:42:23 imagine using vodka smh
+general 2022-10-21 15:42:27 just use kvass
+general 2022-10-21 15:42:42 i agree
+general 2022-10-21 15:42:53 k bye my throat hurts

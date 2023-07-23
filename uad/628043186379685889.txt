@@ -1,0 +1,160 @@
+The Tale of luckypanda0 (628043186379685889)
+bot-central 2022-06-05 21:47:57 ?shelp
+bot-central 2022-06-05 21:48:13 ?rhelp
+bot-central 2022-06-05 22:21:21 ?snew
+general 2022-06-07 23:30:45 ive had a rank request ticket open for 3 days c:
+general 2022-06-07 23:31:11 terrain specialist 1
+general 2022-06-07 23:31:16 i just want to be ranked lol
+bot-central 2022-06-13 03:55:40 ?shelp
+bot-central 2022-07-03 00:14:14 ?shelp
+bot-central 2022-07-27 03:20:37 ?shelp
+general 2022-07-27 03:34:21 your name is TailedFoxNine, but if you reverse the tailed and the nine you get Nine Tailed Fox, an elite SCP Foundation MTF Unit. exposed
+general 2022-07-27 03:35:24 if you spam the volume slider it sounds really strange
+general 2022-07-27 03:37:07 check this https://qph.cf2.quoracdn.net/main-qimg-55222eebf8daddbb935661a42a7b3293-lq
+general 2022-07-27 03:37:53 lol its not an ip grabber
+general 2022-07-27 03:39:16 https://tenor.com/view/monster-gif-9564705
+general 2022-07-27 03:39:51 you play dcs?
+general 2022-07-27 03:40:00 bruh
+general 2022-07-27 03:40:11 i can teach you how to fly the f14
+general 2022-07-27 03:40:16 and the rio seat :)
+bot-central 2022-09-13 16:45:57 ?shelp
+help 2022-10-03 23:19:04 i have kind of a strange problem, i was adding turrets to my ship and now the trapdoors i placed are not clickable, i used motor 2s for the turret and the ship folds to create a bigger ship (the trapdoors were working before)
+bug-reports 2022-10-03 23:31:20 yes
+bug-reports 2022-10-03 23:31:26 they are unlocked
+bug-reports 2022-10-03 23:31:28 and unanchored
+bug-reports 2022-10-03 23:31:37 they worked before i added the the motors
+bug-reports 2022-10-03 23:32:27 maybe motor 2 is taking focus of the mouse and not letting trap doors open by mouse or some weird scripting thing like that
+bug-reports 2022-10-03 23:32:33 ive had this happen on other builds aswell
+bug-reports 2022-10-04 00:44:40 try clearing any unused save slots? idrk but maybe ur save data is overflowing or something
+bug-reports 2022-10-04 00:45:40 can u save anything apart from your main builds or is everything not saving
+bug-reports 2022-10-04 00:46:14 sounds like a corrupted save slot, does autosave work?
+bug-reports 2022-10-04 00:47:22 i really have no idea, maybe try turning off autosave in settings? there really isnt anything u can do unless a game dev/mod helps or somebody who can administrate the game
+bug-reports 2022-10-04 00:48:25 if that doesnt work try making an alt and saving something
+plane-crazy 2022-11-12 16:32:49 defo right 1x2
+plane-crazy 2022-11-12 16:33:07 YES I PLAY DCS IVE SEEN THE WING ANGLE
+plane-crazy 2022-11-12 16:33:27 yes but its still the better angle
+plane-crazy 2022-11-12 16:33:42 nonono
+plane-crazy 2022-11-12 16:33:43 1X2
+plane-crazy 2022-11-12 16:33:44 1X2
+plane-crazy 2022-11-12 16:34:10 
+plane-crazy 2022-11-12 16:34:14 LOOK
+plane-crazy 2022-11-12 16:34:18 1X2 MATERIAL
+plane-crazy 2022-11-12 16:34:29 
+plane-crazy 2022-11-12 16:34:32 see its 1x2
+plane-crazy 2022-11-12 16:35:07 no no o
+plane-crazy 2022-11-12 16:35:31 yes just do that
+plane-crazy 2022-11-12 16:35:46 THEN USE DISCONNECTORS
+plane-crazy 2022-11-12 16:36:30 look, if you use 1x1 itll look like a nighthawk
+plane-crazy 2022-11-12 16:36:34 just use 1x2
+plane-crazy 2022-11-12 16:36:54 WHATS WRONG WITH THEM
+plane-crazy 2022-11-12 16:37:13 YES MY GUY ITLL HAVE THE WORSE ANGLE
+plane-crazy 2022-11-12 16:37:18 just use 1x2
+plane-crazy 2022-11-12 16:37:36 ok fine do it the bad way
+plane-crazy 2022-11-12 16:38:10 uea whats ur user i need to join you
+plane-crazy 2022-11-12 16:38:12 1X2
+plane-crazy 2022-11-12 16:38:18 YOU WILL REGRET USING 1X1
+plane-crazy 2022-11-12 16:38:35 i added u
+plane-crazy 2022-11-12 16:38:43 1X2
+plane-crazy 2022-11-12 16:38:54 uh uh
+plane-crazy 2022-11-12 16:38:55 no
+plane-crazy 2022-11-12 16:38:56 1x2
+plane-crazy 2022-11-12 16:38:57 1x2
+plane-crazy 2022-11-12 16:39:16 i still wanna join
+plane-crazy 2022-11-12 16:39:18 im bored
+plane-crazy 2022-11-12 16:45:06 yes
+plane-crazy 2022-11-12 16:46:18 yes thats perfect
+plane-crazy 2022-11-12 16:52:36 his sentence- one month in discord jail
+plane-crazy 2022-11-12 16:54:23 ✅
+plane-crazy 2022-11-12 16:56:11 tiny low effort heli for funzies
+creations-chat 2022-11-16 19:18:49 making a f35b, what angle do you think the elevators are?
+creations-chat 2022-11-16 19:22:12 yeah no ima just make it a custom angle
+creations-chat 2022-11-16 19:58:25 vtols
+creations-chat 2022-11-16 20:36:13 what  do you guys think of this f35? it has no weapon bay yet but i added vtol and its joystick compatible
+plane-crazy 2022-11-18 02:41:56 took a photo with some color effects
+plane-crazy 2022-11-18 02:42:59 
+creations-chat 2022-11-19 19:38:44 in progress carrier (based on USS-WASP)
+creations-chat 2022-11-20 04:17:47 in progress vtol/heli carrier
+creations-chat 2022-11-20 04:22:34 so? this is creations chat not creations, i can do whatever i want
+creations-chat 2022-11-20 04:27:29 exactly its just an upgrade to roblox's lack of detail with light or color
+the-dump 2022-11-20 04:28:30 completely unrelated but this is a cool harrier flir video i made in a sim
+the-dump 2022-11-20 04:30:16 thx
+the-dump 2022-11-20 04:37:55 https://tenor.com/view/mig25-gif-24248876
+the-dump 2022-11-20 04:38:23 https://tenor.com/view/everybody-edits-discord-police-wtf-gif-19364455
+the-dump 2022-11-20 04:40:06 https://tenor.com/view/long-thumb-thumbs-up-gif-25948245
+bot-central 2022-11-20 04:44:11 -servers
+plane-crazy 2022-11-20 04:54:24 guys roshade is a ripoff
+plane-crazy 2022-11-20 04:54:31 reshade it the real stuff
+plane-crazy 2022-11-20 16:46:42 carrier funnis
+plane-crazy 2022-11-20 16:50:56 dude sunset pics are so niceeee
+plane-crazy 2022-11-20 16:51:15 once my carrier is done i want a picture of just a line of aircraft parked with sunset filter
+the-dump 2022-11-20 16:57:48 https://tenor.com/view/perro-wave-walking-jazz-hands-hi-gif-17412854
+bot-central 2022-12-16 19:13:52 ?shelp
+plane-crazy 2022-12-16 19:18:12 add weight to the back or helium to the front
+bot-central 2022-12-16 19:27:35 -servers
+plane-crazy 2023-04-29 02:53:34 nice f14
+plane-crazy 2023-04-29 02:54:31 i replied to daily
+plane-crazy 2023-04-29 02:54:34 not you
+plane-crazy 2023-04-29 02:54:37 no offense
+plane-crazy 2023-04-29 02:54:50 however THIS
+plane-crazy 2023-04-29 02:54:53 looks pretty good
+bot-central 2023-06-29 20:50:25 -servers
+bot-central 2023-06-29 20:57:32 wait wtf
+general 2023-06-29 21:17:46 hop in penthouse
+general 2023-06-29 21:18:03 just hop in penthouse
+general 2023-06-29 21:26:04 wasnt that already known?
+general 2023-07-07 19:34:58 yoink the helmet is mine :)
+general 2023-07-07 19:35:22 honestly it actually looks decent
+general 2023-07-07 19:35:51 also rickje's hero arc is coming in at full speed
+general 2023-07-07 19:37:23 i feel like pc2 is an inch away
+general 2023-07-07 19:37:40 thats sad
+general 2023-07-07 19:37:59 nuh uh
+general 2023-07-07 19:38:08 too real
+general 2023-07-07 19:38:44 "changed pc1 to prepare for pc2" LIKE HOW THE FREAK AM I NOT SUPPOSED TO BE HYPED
+general 2023-07-07 19:40:52 ngl its probably going to sell like crazy one day fr
+general 2023-07-07 19:40:58 plane crazy even
+general 2023-07-07 19:41:55 Plane crazy? I was plane crazy one. They locked me in a server. A public server. A public server filled with shredders and shredders make me go plane crazy.
+general 2023-07-07 19:42:25 Plane crazy? I was plane crazy one. They lcoked me in a server. A public server. A public server filled with shredders and shredders make me go plane crazy. Plane crazy? I was plane crazy one. They lcoked me in a server. A public server. A public server filled with shredders and shredders make me go plane crazy.
+general 2023-07-07 19:43:16 sometimes
+general 2023-07-07 19:45:23 i am the one who cooks bandits
+general 2023-07-07 19:47:02 behavior
+general 2023-07-07 19:48:03 i found this cool link https://www.roblox.com/catalog/13986996311/Crash-Test-Flight-Helmet-Black
+general 2023-07-07 19:48:21 lmao
+general 2023-07-07 19:48:46 what if hyperbot sends sus pictures
+general 2023-07-07 19:50:31 rickje could probably sell a limited tshirt that says "plane crazy" in all lowercaps and make 10000 robux
+general 2023-07-07 19:51:15 fr
+general 2023-07-07 19:51:53 we need a tshirt that says "i cant wait for pc2" in all lowercaps
+general 2023-07-07 19:51:56 make sure its limited too
+general 2023-07-07 19:52:13 real
+general 2023-07-07 19:52:19 its in white too
+general 2023-07-07 19:52:27 180 robux per shirt
+general 2023-07-07 19:52:28 fr
+general 2023-07-07 19:53:29 rickje said pc2 will have gliding, does that mean i can glide into those dms?
+general 2023-07-07 19:54:14 nobody likes a copycat
+general 2023-07-07 19:55:23 in 5 buisness days
+general 2023-07-07 19:55:26 but itll always be a saturday
+general 2023-07-07 19:56:07 5 seconds before he claps your cheeks
+general 2023-07-07 19:56:39 ngl usually the server is dead and all the suggestions are "release pc2"
+general 2023-07-07 19:57:39 im no rocket scientist but usually rockets move
+general 2023-07-07 19:59:21 what
+general 2023-07-07 19:59:32 better.
+general 2023-07-07 19:59:34 destruction
+general 2023-07-07 19:59:56 neither im not fat
+general 2023-07-07 20:01:05 lame
+general 2023-07-07 20:02:08 the question is
+general 2023-07-07 20:02:11 the real question is
+general 2023-07-07 20:02:13 to end all questions
+general 2023-07-07 20:02:15 apple juice
+general 2023-07-07 20:02:17 or orange juice
+general 2023-07-07 20:02:37 slow
+general 2023-07-07 20:02:54 - Plane crazy? I was plane crazy once. They locked me in a server. A public server. A public server filled with shredders. And shredders make me go plane crazy.
+general 2023-07-07 20:03:23 thats just plane crazy
+general 2023-07-07 20:03:55 oops
+general 2023-07-07 20:05:17 ngl the map on the game page looks sick af
+general 2023-07-07 20:05:39 the terrorists kids
+general 2023-07-07 20:06:06 hua qu
+general 2023-07-07 20:06:50 "thanks for the rrobux mr rick."
+general 2023-07-07 20:07:49 50 gb
+general 2023-07-07 20:08:32 i dont think bro is gaming
+general 2023-07-07 20:08:35 he is downloading more
+general 2023-07-07 20:09:26 nuh uh
+general 2023-07-07 20:13:02 grab your parents credit card

@@ -1,0 +1,47 @@
+The Tale of Detz (717344290665398272)
+general 2021-05-14 04:34:23 a
+general 2021-05-14 04:34:25 e
+general 2021-05-14 04:34:28 hallo
+general 2021-05-14 04:35:57 anyways
+plane-crazy 2021-05-14 04:37:42 Welp
+plane-crazy 2021-05-14 04:37:48 I need help with something
+plane-crazy 2021-05-14 04:38:25 I putted a Motor at the center of my vehicle so that the body would turn
+plane-crazy 2021-05-14 04:38:30 instead its the upper part turning
+plane-crazy 2021-05-14 04:39:04 is there any way to fix it?
+plane-crazy 2021-05-14 04:39:41 but what if I make the upper part more heavy?
+plane-crazy 2021-05-14 04:39:47 would it make the body be the one turning?
+plane-crazy 2021-05-14 04:39:52 oh
+plane-crazy 2021-05-14 04:40:07 yeah the torque is on maximum
+plane-crazy 2021-05-14 04:40:39 wait how do you get image perms?
+plane-crazy 2021-05-14 04:40:54 Oh I see
+plane-crazy 2021-05-14 04:41:30 because I needed the body to turn so the whole vehicle can turn left and right
+plane-crazy 2021-05-14 04:41:42 the default steering of wheels is too low
+plane-crazy 2021-05-14 04:42:09 and using the Motor Wheel would consume too much space it would get my design out of shape
+plane-crazy 2021-05-15 04:35:38 welp
+plane-crazy 2021-05-15 04:35:55 I guess there is no type of wedge yet to cover some piece of block in my creation
+plane-crazy 2021-05-15 04:41:27 nvm I actually found it
+plane-crazy 2021-05-15 04:41:42 Triangle wedge block
+plane-crazy 2021-05-15 05:16:52 does the game have a Half Corner Wedge already?
+plane-crazy 2021-05-15 05:17:43 for corners in half wedges\
+plane-crazy 2021-05-15 05:24:22 you know the half wedge right
+plane-crazy 2021-05-15 05:24:26 then the corner of it
+plane-crazy 2021-05-15 05:24:34 Half Wedge Corner I mean
+plane-crazy 2021-05-15 05:24:47 which section?
+plane-crazy 2021-05-15 05:25:18 I only see Half Blocks
+plane-crazy 2021-05-15 05:25:40 I don't have image perms yet
+plane-crazy 2021-05-15 05:39:31 Submarine-Carrier
+plane-crazy 2021-05-15 05:39:54 Landkreuzer
+plane-crazy 2021-05-15 06:42:14 wait
+plane-crazy 2021-05-15 06:42:28 whats the the block for turning boats again?
+plane-crazy 2021-05-15 06:42:55 the most basic one
+plane-crazy 2021-05-15 06:43:23 ohh propellers?
+plane-crazy 2021-05-15 06:50:20 shredder fleet
+general 2021-05-17 08:27:02 oh I just remembered my old account here that got claimed by my brother
+general 2021-05-17 08:27:20 E
+plane-crazy 2021-06-14 09:58:06 I need some help
+plane-crazy 2021-06-14 10:00:09 its about how you use motors to turn your vehicles in sea
+plane-crazy 2021-06-14 10:05:21 soo uh
+plane-crazy 2021-06-14 10:05:22 any help?
+plane-crazy 2021-06-14 10:16:02 left and right
+plane-crazy 2021-06-14 10:20:23 while moving
+plane-crazy 2021-06-14 10:37:10 ohhhh

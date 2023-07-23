@@ -1,0 +1,14 @@
+The Tale of bj0fa (558889417893347328)
+bot-central 2020-08-05 00:37:35 /help
+bot-central 2020-08-05 00:38:13 ;;p DeadLocked
+bot-central 2020-08-05 00:38:57 ;;skip
+bot-central 2020-08-05 00:39:11 ;;ылшз
+bot-central 2020-08-05 00:39:25 ;;skip
+bot-central 2020-08-05 00:39:33 ;;ылшз
+bot-central 2020-08-05 00:39:49 ;;skip
+bot-central 2020-08-05 00:39:57 ;;ыещз
+bot-central 2020-08-05 00:40:05 ;;stop
+bot-central 2020-08-05 00:40:30 ;play Бобит
+bot-central 2020-08-05 00:40:46 ;;p Бомбит
+bot-central 2020-08-05 00:41:47 ;;loop
+bot-central 2020-08-05 00:42:25 ;;loop single

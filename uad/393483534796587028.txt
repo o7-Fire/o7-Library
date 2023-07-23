@@ -1,0 +1,182 @@
+The Tale of mr_foffe (393483534796587028)
+bug-reports 2022-07-21 18:32:35 Dang, my friend said this community was completely full of cyanide, and he was right lmao
+general 2022-07-21 18:56:58 Aren't expanding rounds illegal in most countries
+help 2022-07-22 12:04:44 My guess is that the game marks a new location every few ticks or whatever you call it, and draw a line between that location and the last marked one. If you spin fast enough, the distance between those locations will become bigger, making a less rounded pattern, if you were to slow the engines down a bit, you might get polygons, like pentagons or octagons
+general 2022-07-22 16:05:37 I am quickly going insane
+creations-chat 2022-07-22 18:29:18 Everywhere, apparently
+bug-reports 2022-07-22 18:35:13 Were you sitting in a seat?
+plane-crazy 2022-07-28 19:02:45 Walmart Spiderman villain suit?
+help 2022-08-03 01:54:50 You could motor-lock delta wings or wedges in a darker colour to make the leaves
+plane-crazy 2022-08-03 18:12:54 Alright, so I'm making my first truck, and I've noticed that, mainly the inner wheel is like spasming when I'm turning
+plane-crazy 2022-08-03 18:12:58 How do I avoid that
+plane-crazy 2022-08-04 11:55:02 Most exploiters don't know how to script at all
+plane-crazy 2022-08-05 23:26:56 Wow, how original of an idea
+general 2022-08-06 16:45:06 Hello person
+general 2022-08-06 16:45:08 of the pcc
+general 2022-08-06 16:47:09 There
+creations-chat 2022-08-06 22:40:37 I have a build surpassing 1M speed
+creations-chat 2022-08-06 22:42:52 Yes, no, yes
+But you're going to be very disapointed
+creations-chat 2022-08-06 22:45:51 Yes you will lmao, want me to send you it on DM's? I don't have image perms
+creations-chat 2022-08-06 22:51:49 I have a half-decent F-14 Tomcat, I just don't dare posting it here (and can't) because of this community lmao
+the-dump 2022-08-07 01:43:39 Not that I don't agree with some things that are being said, but ya'll mean
+the-dump 2022-08-07 01:44:09 Apple knows the real strategy, makes issues and sells the solutions
+plane-crazy 2022-08-08 14:17:30 Too few motors in the tracks, I'm guessing. So there's not many "axels" in the treads, making that pointy shape when it attempts to bend
+plane-crazy 2022-08-08 14:18:18 Make a new track, or live with it, I guess?
+plane-crazy 2022-08-08 14:19:09 Yeah... Making the hull on a tank with treads is a pain anyways, you can't really build anywhere close to the treads without breaking them
+plane-crazy 2022-08-08 14:20:32 I don't make tanks 😛
+bot-central 2022-08-08 17:39:30 !rank
+plane-crazy 2022-08-10 15:21:11 Are there any good ways to make a supersonic missile not bounce on impact? I've tried suspension, on almost all settings, and I've also tried double-suspension. Any alternatives?
+plane-crazy 2022-08-10 15:21:36 Maybe the cockpit is supposed to be thin? 🙂
+plane-crazy 2022-08-10 15:21:49 Welp, there goes my idea
+plane-crazy 2022-08-10 15:26:38 Oh, that's often because small jets perform better, so these super-thin cockpits are usually accompanied with super-thin jets as a whole
+plane-crazy 2022-08-10 15:27:18 Stabilise? As in to not wobble? As in to fly straight?
+plane-crazy 2022-08-10 15:27:49 Why not just put gravity to 0?
+plane-crazy 2022-08-10 15:28:15 Then maybe don't try making a spaceship without basically any chance of succeeding
+plane-crazy 2022-08-10 16:10:52 Do a good job
+plane-crazy 2022-08-10 16:54:52 Alright, so I have put my rocket onto a mount, and when I try replacing the motors with motor 2 or aiming, the rocket doesn't fire. When I put a regular motor in between the rocket and the aiming module, it works. But the motor spins on its own, which throws off the aim. If I lock the motor, the rocket won't fire, if I connect the back and front of the motor to prevent it from turning, the rocket won't fire. 
+
+Does anybody here speak plane crazy bullshittery?
+plane-crazy 2022-08-10 16:56:36 I know it's known, I just want to know if there's any way around it
+plane-crazy 2022-08-11 16:32:08 The control surfaces would mostly just allow it to spin a lot faster 🙂 You should probably  get around that double disconnector configuration, as the remaining part of the detacher will still carry weight, and make the missile's weight uneven. You should probably use an anchor block instead of trying to weigh down the base with regular blocks.
+creations-chat 2022-08-13 21:01:50 Wait, since when did I get attachment perms lmao
+creations-chat 2022-08-13 21:18:56 You can show how many helium blocks you have left to build with, I guess?
+creations-chat 2022-08-13 21:21:24 Like, if you want to show how many helium blocks you've used, you can show in a picture/video how many helium blocks are left when you're done with the builds (since it shows how many more you can build with next to the block in the block menu), from there, I guess the one checking the proof can make out the number.
+
+I've never done this before, though
+creations-chat 2022-08-13 22:56:40 To the gallows!
+
+(For legal reasons that's a joke)
+creations-chat 2022-08-13 22:58:49 Like... I want to upload my F-14 to <#384025409945337856>, but I also know that I'm going to be shot down so hard lma
+creations-chat 2022-08-13 23:01:45 10/10
+creations-chat 2022-08-14 16:36:03 Haha
+I'm assuming the assumption of bad reputation will be my downfall
+creations-chat 2022-08-14 21:46:49 That's got to be the smallest emoji I've ever seen
+help 2022-08-14 23:40:12 Wings seem to be longer than the body, so yeah
+help 2022-08-14 23:40:41 Also appear to be thinner than the ones you've made
+creations-chat 2022-08-16 00:56:21 Am I the only one who's wondering why you can post a picture every 10 seconds, but only chat about said pictures every 2 minutes?
+help 2022-08-22 17:04:59 Nope
+help 2022-08-22 17:05:18 Huuh
+help 2022-08-22 17:07:36 Pretty sure they don't, orherwise you could build some really freaky traps and stuff
+help 2022-08-22 17:09:14 You can use the magnets for engines, but they wouldn't stick to other builds. 
+
+There's a reason magnets don't have an "ignore self"/"ignore others" option
+plane-crazy 2022-08-28 15:40:32 Nobody:
+My move tool:
+plane-crazy 2022-08-28 15:44:03 ?
+plane-crazy 2022-08-28 15:50:49 I know lmao
+plane-crazy 2022-08-28 15:51:30 Logic 101
+creations-chat 2022-08-29 18:56:45 https://tenor.com/view/delay-cat-gif-21402724
+I considered the delay, but ultimately rejected it
+creations-chat 2022-08-29 20:26:06 I tihnk the nose is supposed to be longer
+Oh wait, nose isn't supposed to be longer, it just looked short no pic 3
+creations-chat 2022-09-08 15:23:31 I don't get how, and I don't get why cursing/bad words has become the norm in arguments
+
+(can't be bothered waiting for the cooldown, so I'll just extend this one)
+
+People cursing is definitely significant, since it escalates the argument. Which makes it impossible to have one, because it just becomes a curse fight, like this one right here, instead of holding an actual argument
+plane-crazy 2022-09-12 20:29:19 Ain't got nothing on me
+plane-crazy 2022-09-12 20:29:50 It's not a glitch
+plane-crazy 2022-09-12 20:29:53 Stable acceleration
+plane-crazy 2022-09-12 20:30:11 Anchor block can stop it 🙂
+plane-crazy 2022-09-12 20:30:47 Yes, add a thruster to the side for complex manouvers
+plane-crazy 2022-09-12 20:31:20 Ssssh
+bot-central 2022-09-23 15:16:31 !help
+bot-central 2022-09-23 15:17:12 ?shelp
+bot-central 2022-09-23 15:17:32 ?rhelp
+bot-central 2022-09-23 15:17:44 Oh come on!
+help 2022-09-23 23:57:53 I am attempting to make air-to-ground missiles, and I'm noticing that my rockets aren't working. Why is that?
+creations-chat 2022-09-24 00:22:23 I'd very much like advice on how to improve my F-18, as I'm still working with it (mostly armament at this point)
+https://discord.com/channels/384021699466756103/384025409945337856/1023026276958740501
+creations-chat 2022-09-24 00:26:07 I don't follow your logic there, but alright.
+
+I think I'm too far gone to redo those parts completely, but what could I improve about them?
+
+<@237359768405147649> How could I accomplish that?
+creations-chat 2022-09-24 01:21:12 Well, as I'm relatively new to this kind of building, I've kind of cornered myself in design. While the nose could probably be fixed, the landing gear can't be properly hid without replacing half of the motor lock, which means half of the entire build. As mentioned in the <#384025409945337856> message, I can't place the wing motors further inward, as placing it further inward would just create huge exposed locks in the back of the jet. 
+
+But how would you blend the nose?
+creations-chat 2022-09-24 01:29:50 How did you do the flush panels?
+plane-crazy 2022-10-11 16:28:05 Convinced this guy that pressing alt+F4 single-fires rockets
+plane-crazy 2022-10-11 16:29:04 I think he's new
+plane-crazy 2022-10-11 16:29:09 He asked how to fire rockets
+plane-crazy 2022-10-11 16:29:13 Somebody said F
+plane-crazy 2022-10-11 16:29:15 And the rest is in the SS
+plane-crazy 2022-10-11 16:29:35 Although, single-firing for rockets would be nice
+plane-crazy 2022-10-11 16:29:45 Without a hundred keybinds
+plane-crazy 2022-10-11 16:31:19 Could be, but I don't care
+plane-crazy 2022-10-11 16:32:42 On an unrelated note, I've made a pretty good missile, at least by my standards
+plane-crazy 2022-10-12 20:53:45 Yes, I think metal is immune from cutters, for example
+plane-crazy 2022-10-12 20:53:47 Or so I've heard
+plane-crazy 2022-10-12 20:54:12 I don't really  utilise their powers,  beyond ice for slippery and landing gear, and fabric for wheels
+plane-crazy 2022-10-12 21:22:17 Hm, maybe I shouldn't use my friends as a primary source
+help 2022-11-06 13:11:52 So, I have a build which requires two parts to be angle-locked equally for the cockpit. But for some reason, one of the angle-locks keeps angling for a short second after releasing the angling button, which makes it asymmetric, and kind of ruins the whole build
+help 2022-11-06 13:12:01 Both sides are completely identical
+help 2022-11-06 13:12:58 Or, well, not completely. But as in no collisions, same motors and settings in the same places, etc..
+help 2022-11-06 13:14:37 What are those?
+help 2022-11-06 13:16:43 And now, suddenly, without any fixing or changes.... it works again
+help 2022-11-06 13:16:45 Yay..?
+help 2022-11-23 22:45:48 I'm trying to attach weapons to my heli, using motor 2's to angle down the rockets and fireworks. However, whenever I assemble the heli, the entire thing just breaks. The cause seems to be the motor 2's used for the weapons
+help 2022-11-23 22:45:50 How do I get around this?
+help 2022-11-23 22:46:43 Sounds like a bad solution, is there no workaround or anything?
+help 2022-11-23 22:47:13 *Pain*
+help 2022-11-23 22:48:05 Yeah, that's what I've done in the past, but because of how I'm going to use this heli, I wanted the angled weapons really bad
+help 2022-11-23 22:48:41 Yeah, I tried that, but I have no space for extra keybinds like that
+help 2022-11-23 22:49:34 Uh, do you want me to say all of them?
+help 2022-11-23 22:51:09 Mhm, that's the issue. If I'm say going in for an attack, I don't want to have to prepare the angle 20s before going in, I want to be able to change it in the moment without putting my hands off the mouse
+help 2022-11-23 22:51:21 Well, I'll just to stationary weapons
+help 2022-11-23 22:51:27 I'll be using custom missiles anyways, I guess
+help 2022-11-23 22:51:31 And I have a gun
+plane-crazy 2022-12-22 03:23:47 https://youtu.be/ubEHYQOFe0U
+(YouTube since file too big)
+Supersonic 1x1 missile hit on second try lol
+plane-crazy 2022-12-22 03:26:16 Lol
+plane-crazy 2022-12-22 03:27:24 
+plane-crazy 2022-12-22 03:28:53 Is this thomasthetrainenginephobia I'm sensing here?
+help 2022-12-28 15:06:35 So, I'm making a ship. My first one, in fact. I'm trying to make the hull with angle-locking, unfortunately. I have made the very "tip" of the front of the ship, but now I need to fade the angle of the hull. And I don't know how to do that smoothly, considering I'll be needing multiple angle locked hull side pieces.
+help 2022-12-28 15:07:56 Image for comparison: (And yes, I might have made the hull too deep, but that's on purpose, as to fit VLS missiles into it
+creations-chat 2023-01-01 01:32:24 I mean, you don't even have to place hovers on every rotor. You could just ignore the left one there
+
+Yes, as they're all connected at the base, they'll spin each other.
+help 2023-01-16 15:21:46 So, for my ship folds. I switched from motors to motor 2's, since they give more perfect angles, and are easier to use. But whenever I press the button to fold, it almost seems random which way it will go. How do I fix that?
+help 2023-01-16 15:22:56 Or, more accurately. They almost exclusively fold inward
+help 2023-01-16 15:22:58 Never outward
+help 2023-01-16 15:31:32 Nvm, managed to DIY it with camera lock instead.
+creations-chat 2023-02-01 18:25:31 SO MANY LOL
+creations-chat 2023-02-01 18:31:18 Almost as if I can still see what it is
+help 2023-03-02 21:05:01 "How do I make this nose at a size and without the methods required to make that nose?"
+help 2023-03-02 21:05:37 The shape? Or to make it fly?
+help 2023-03-02 21:05:58 Sounds about right for this game lol
+help 2023-03-02 21:06:12 Do you have any specific plane in mind?
+help 2023-03-02 21:06:30 Do you have reference pictures or model?
+help 2023-03-02 21:06:44 Air
+help 2023-03-02 21:07:25 Rocketwaffle
+help 2023-03-06 18:23:22 How do I fix this glass line?
+help 2023-03-06 19:15:14 Oh yeah, that's right
+help 2023-03-06 19:15:35 Except it doesn't get centered
+help 2023-03-06 19:15:36 Welp
+help 2023-03-06 19:15:44 Since I use 2x2 cylinder 2
+help 2023-03-06 19:17:31 There is, but I'm using the 2nd 2x2 cylinder, which has a center block, instead of being uncentered. The half ball doesn't have a 2 version
+help 2023-03-06 19:17:48 Which means they get misaligned
+creations-chat 2023-04-08 20:04:40 I like it, I just don't like the unsmooth parts. If one builds a completely rounded build, one with no exposed stuff etc, it's meant to keep to that standard in my opinion
+Also, feels kind of weird to me to be actively hunting down those who downvoted you
+creations-chat 2023-04-08 23:46:57 Either try to balance the weight as well as possible using helium, ballast or just moving/removing or placing blocks in the front/back/left/right side of the heli, or try to compensate for the uneven weight by placing additional propellers on the side that's pulling down.
+
+Or just use hover engines to create so much drag that you basically anchor in the sky lol
+help 2023-04-09 11:22:11 So, I have in the past seen a glitch which teleports your seat to another player's plot. How does one do that?
+help 2023-04-23 17:39:57 So, my Gripen is bugged. Whenever I assemble the motor lock, my disconnectors for the bombs stop working, rockets and fireworks freeze mid-air when fired, and the gun doesn't work. The chat also breaks, my messages don't get sent, and I can't despawn the build, or it takes like 5 minutes for the despawn to work
+help 2023-04-23 17:40:21 How do I fix this
+help 2023-04-23 17:43:51 Nope
+help 2023-04-23 17:44:32 All other vehicles fly in real-time, their chat messages work, and they can still see my jet flying normally
+help 2023-04-23 17:45:47 It is indeed
+help 2023-04-23 17:45:54 And even worse, it worked normally before
+help 2023-04-23 17:46:06 But one day I just loaded the save and this is happening
+help 2023-04-23 17:46:12 Also, even better, it works fine in private servers
+creations-chat 2023-07-06 19:51:11 Is this some sort of weird exploit lol, he's just automatically speedbuilding an impossible shape and saying it's "motor lock" lmfao
+creations-chat 2023-07-06 19:53:50 Clearly
+creations-chat 2023-07-06 19:57:32 Oh I get it now, it's a lag machine
+creations-chat 2023-07-06 20:08:15 Yeah, he later begun using it as a lag machine by standing in the center and basically turning himself into a magnet and pulling them all inwards and just breaking the server with dum physics
+creations-chat 2023-07-06 20:11:15 Yes, I have lots of that
+creations-chat 2023-07-09 13:21:17 Yes, you shall
+creations-chat 2023-07-09 13:23:47 Yes, no problemn
+plane-crazy 2023-07-10 14:45:10 https://youtu.be/jEHYmUq8MO8

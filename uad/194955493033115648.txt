@@ -1,0 +1,14 @@
+The Tale of multirotor (194955493033115648)
+plane-crazy 2020-04-15 16:02:58 anyone here knowledgeable in mech building? im trying my first mech, cant figure out why its doing this and not walking normally
+plane-crazy 2020-04-15 16:04:15 what would be better?
+plane-crazy 2020-04-15 16:05:27 I copied a design from a video that is practically the exact same walking design
+plane-crazy 2020-04-15 16:05:31 and the one in the video works
+plane-crazy 2020-04-15 16:05:33 and mine doesnt
+plane-crazy 2020-04-15 16:05:43 yeh
+plane-crazy 2020-04-15 16:07:02 https://www.roblox.com/users/15880414/profile
+plane-crazy 2020-04-15 16:07:43 ah, so pretty much gonna need different keys for each individual leg's forward + backward?
+general 2020-04-18 10:14:18 https://www.youtube.com/watch?v=Ag1o3koTLWM
+general 2020-04-18 10:15:21 https://www.youtube.com/watch?v=Ag1o3koTLWM
+general 2020-04-18 10:15:36 h
+general 2020-04-18 15:16:50 s
+general 2020-04-18 15:20:03 same

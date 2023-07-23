@@ -1,0 +1,205 @@
+The Tale of iamdohnut (843460060725641246)
+plane-crazy 2023-07-04 23:10:27 y'all I need help with a build
+plane-crazy 2023-07-04 23:10:50 I'm very stressed, very angry, and am not emotionally stable at the moment, just a heads up in-case I get all "temper tantrum-y"
+plane-crazy 2023-07-04 23:14:46 so, essentially, I wanted to build this sort of station thing, and I wanted to add a plane that I could fly to it
+plane-crazy 2023-07-04 23:16:07 and the plane's main issue is that, lifting and going down are fine
+plane-crazy 2023-07-04 23:16:21 but it doesn't turn, and it constantly leans to one side, even after setting a manual turning system
+plane-crazy 2023-07-04 23:17:51 when I move the cursor to the right, all of the wings go down
+plane-crazy 2023-07-04 23:18:02 when I move it to the left, all the wings go up
+help 2023-07-04 23:19:23 any clue on what to do?
+help 2023-07-04 23:19:49 so, essentially, I wanted to build this sort of station thing, and I wanted to add a plane that I could fly to it
+and the plane's main issue is that, lifting and going down are fine
+but it doesn't turn, and it constantly leans to one side, even after setting a manual turning system
+when I move the cursor to the right, all of the wings go down
+when I move it to the left, all the wings go up
+plane-crazy 2023-07-04 23:20:31 sent all the info I could in <#478584971670454284>
+help 2023-07-04 23:22:06 <@597865326708916314>
+help 2023-07-04 23:22:20 Back fin isn't turning due to turning it off for keyboard controls btw
+help 2023-07-04 23:23:16 Mouse controls, yea.
+help 2023-07-04 23:23:30 I tried it with keyboard and it felt too clunky for my poor motor skilled hands
+help 2023-07-04 23:25:37 this is a single plane
+help 2023-07-04 23:25:45 every other mouse controlled plane has been fine
+help 2023-07-04 23:25:47 it's just this one
+help 2023-07-04 23:26:05 no the fuck it ain't
+help 2023-07-04 23:26:11 look at them closer
+help 2023-07-04 23:26:25 it shouldn't do that, though
+help 2023-07-04 23:26:36 the plane is already separated from the building
+help 2023-07-04 23:26:40 it should have it's own balance
+help 2023-07-04 23:26:43 right?!
+help 2023-07-04 23:27:37 that's dumb
+help 2023-07-04 23:28:49 no?
+help 2023-07-04 23:28:53 one side is supposed to go down
+help 2023-07-04 23:28:57 the other one goes up
+help 2023-07-04 23:29:03 not both sides
+help 2023-07-04 23:29:36 my plane shouldn't be nosediving if I wanna turn right
+help 2023-07-04 23:29:38 that's not how it works
+help 2023-07-04 23:29:47 well take a look dipshit
+help 2023-07-04 23:29:53 they are the control surfaces
+help 2023-07-04 23:30:04 one's goes down, one goes up
+help 2023-07-04 23:30:13 to turn, one goes down, the other goes up
+help 2023-07-04 23:30:18 they don't all go at the same time
+help 2023-07-04 23:30:45 okay then dumbass
+help 2023-07-04 23:31:49 liar
+help 2023-07-04 23:32:27 the exact same plane in a different build. block for block
+help 2023-07-04 23:32:32 and look what's going on; THE WINGS ARE ROLLING
+help 2023-07-04 23:33:10 why the absolute fuck does that matter?! the plane is separate from the building it's in, why should that matter?!
+help 2023-07-04 23:33:33 I've been going at this fucking thing for two hours
+help 2023-07-04 23:34:13 never learnt how to use it
+help 2023-07-04 23:34:22 I'm a fuckin boomer when it comes to this game
+help 2023-07-04 23:34:43 also, just a heads up.
+help 2023-07-04 23:35:12 I've been playing since 2010
+help 2023-07-04 23:35:23 a violently autistic man-child, is who.
+help 2023-07-04 23:35:27 19
+help 2023-07-04 23:35:39 but I shall repeat
+help 2023-07-04 23:35:42 *violently autistic*
+help 2023-07-04 23:35:58 I was coddled for 1/3 of my life full chris-chan style so IDK how to emotion properly
+help 2023-07-04 23:36:17 the plane I'm working with is a slightly altered tutorial plane
+help 2023-07-04 23:36:20 I still just
+help 2023-07-04 23:36:24 why does it do that
+help 2023-07-04 23:37:02 when I say "violently autistic" I don't mean "violent and autistic" I mean "so autistic it causes psychic damage."
+help 2023-07-04 23:37:20 the yellow and the blue don't align AT ALL
+help 2023-07-04 23:37:27 but surely that shouldn't matter when the build is
+help 2023-07-04 23:37:28 y'know
+help 2023-07-04 23:37:32 *in the air*
+help 2023-07-04 23:37:55 it's connected to a disconnector
+help 2023-07-04 23:38:18 that's bullshit, man. <:hahaa:773727260539617280>
+help 2023-07-04 23:38:52 already did earlier
+help 2023-07-04 23:39:12 it's the exact same fuckin plane
+help 2023-07-04 23:39:20 except one's in a building, one's on a square.
+help 2023-07-04 23:39:53 SHOW ME HOW TO FUCKIN SCREEN RECORD AND I WILL
+help 2023-07-04 23:41:26 if we're going by urban dictionary, then by technicalities, I am an "unde" or whatever tf that is.
+help 2023-07-04 23:41:31 since it does say
+help 2023-07-04 23:41:34 "extreme man-child"
+help 2023-07-04 23:41:42 which definitely defines me
+help 2023-07-04 23:41:52 in that case, no
+help 2023-07-04 23:41:56 not an unde
+help 2023-07-04 23:42:12 I'm a __man__-child
+help 2023-07-04 23:42:29 coddled
+help 2023-07-04 23:42:32 he spelt it weird
+help 2023-07-04 23:42:40 soell
+help 2023-07-04 23:42:50 🤝
+help 2023-07-04 23:43:03 either way, though
+help 2023-07-04 23:43:22 it's kinda dumb that the plane has to be centered if it's actually, y'know, not attached to the build.
+help 2023-07-04 23:43:33 any suggestions to fix it? or..
+help 2023-07-04 23:44:02 oop found the record button
+help 2023-07-04 23:44:04 1 sec then lads
+help 2023-07-04 23:44:19 so for the video, I'm going to attempt to go up, and then turn right.
+help 2023-07-04 23:45:41 cringe ass motherfucker <:KEKW:670310537300672528>
+help 2023-07-04 23:45:51 alright 1 sec, plan b time
+help 2023-07-04 23:46:57 shout outs to cloud convert for being based
+help 2023-07-04 23:48:27 
+help 2023-07-04 23:49:25 dang that's laggy
+help 2023-07-04 23:49:43 nope. I went straight right
+help 2023-07-04 23:50:42 well you absolute waste of oxygen
+help 2023-07-04 23:50:44 as I said before
+help 2023-07-04 23:50:49 moving the mouse to the right
+help 2023-07-04 23:50:53 makes it lift
+help 2023-07-04 23:50:56 moving it to the left
+help 2023-07-04 23:50:58 makes it go down
+help 2023-07-04 23:51:11 it is not curving
+help 2023-07-04 23:51:20 look
+help 2023-07-04 23:51:20 I'm not fucking good at remembering this
+help 2023-07-04 23:51:28 if you really think you're smarter than me about this
+help 2023-07-04 23:51:31 then fucking fix it
+help 2023-07-04 23:53:51 what if I told you that at 30 seconds in, I was trying to turn left
+help 2023-07-04 23:54:10 it doesn't fucking matter, so are you going to help me fix this damned thing?
+help 2023-07-04 23:54:18 turning left makes me go up
+help 2023-07-04 23:54:21 turning right makes me go down
+help 2023-07-04 23:54:29 turning up makes me go up
+help 2023-07-04 23:54:37 turning down makes me go down
+help 2023-07-04 23:54:48 the plane isn't connected at all to the building
+help 2023-07-04 23:55:24 it ain't rolling it's throwing me down
+help 2023-07-04 23:55:26 rolling means
+help 2023-07-04 23:55:28 one side up
+help 2023-07-04 23:55:29 other side down
+help 2023-07-04 23:55:35 on this damned plane
+help 2023-07-04 23:55:41 left is up
+help 2023-07-04 23:55:43 right is down
+help 2023-07-04 23:55:54 I'm tired of fucking arguing this
+help 2023-07-04 23:56:08 how many times do I have to say it to drill it into your concrete skulls?
+help 2023-07-04 23:57:01 flipped the control surfaces
+help 2023-07-04 23:57:02 same
+help 2023-07-04 23:57:03 fucking
+help 2023-07-04 23:57:04 thing
+help 2023-07-04 23:57:06 left is up
+help 2023-07-04 23:57:08 right is nothing
+help 2023-07-04 23:57:45 I tried building the plane up here and the mouse controls just straight up didn't fucking work
+help 2023-07-04 23:58:27 you've gotta be fucking kidding me
+help 2023-07-04 23:58:31 found out the issue
+help 2023-07-04 23:58:39 and it's because that fucking yellow dot isn't where the plane is
+help 2023-07-04 23:58:56 no no
+help 2023-07-04 23:58:57 that is
+help 2023-07-04 23:59:20 I placed a fucking control panel on the right side of the building
+help 2023-07-04 23:59:30 when I moved it right
+help 2023-07-04 23:59:38 the wing panels on the plane went down
+help 2023-07-04 23:59:42 the one on the building went right
+help 2023-07-05 00:00:03 on the plane itself
+help 2023-07-05 00:00:05 have you
+help 2023-07-05 00:00:14 not been staring at the screenshots AT ALL?
+help 2023-07-05 00:00:42 how the crap do I fix this without scrapping the building or the plane? helium and ballast blocks on the plane aren't working
+help 2023-07-05 00:00:53 or should I just give up with the plane idea
+help 2023-07-05 00:04:23 honestly
+help 2023-07-05 00:04:26 I'm just gonna give up
+help 2023-07-05 00:04:29 I'm tired of all of this
+help 2023-07-05 00:04:35 and I just want something to work for once
+help 2023-07-05 00:04:53 all I wanted was to just create a building that could fire things and shoot out a drone, but alas.
+help 2023-07-05 00:06:04 I did rebuild the plane
+help 2023-07-05 00:06:05 thrice
+help 2023-07-05 00:06:24 
+help 2023-07-05 00:06:30 to hold guns, duh
+help 2023-07-05 00:06:40 guns don't look right attached to wings
+help 2023-07-05 00:07:24 whatever it is, it didn't fix the plane.
+help 2023-07-05 00:08:45 so wtf do I do
+help 2023-07-05 00:09:08 I REMOVED THE BLOCKS AND IT DID THE SAME FUCKING THING
+help 2023-07-05 00:09:14 I KNOW what I'm on about
+help 2023-07-05 00:09:18 I know what the problem is
+help 2023-07-05 00:09:24 what in sam hell is the solution?
+help 2023-07-05 00:10:35 it's not the plane
+help 2023-07-05 00:10:43 I have the exact same plane
+help 2023-07-05 00:10:45 in a different build
+help 2023-07-05 00:12:25 too much hassle, but look.
+help 2023-07-05 00:12:29 it's built slightly different
+help 2023-07-05 00:12:35 but it's the same fuckin plane
+help 2023-07-05 00:12:53 not now matat
+help 2023-07-05 00:12:54 fuck off
+help 2023-07-05 00:14:42 I hope your closest family member dies on christmas eve with you as the sole culprit
+help 2023-07-05 00:15:26 I'm just fucking tired of all of this
+help 2023-07-05 00:15:46 I'm trying to get this stupid fucking thing to work, but it's not working.
+help 2023-07-05 00:19:08 IK it works fine
+help 2023-07-05 00:19:12 it's because of the balls
+help 2023-07-05 00:19:20 have you seen the balls
+help 2023-07-05 00:19:23 it's because of the balls
+help 2023-07-05 00:19:43 
+help 2023-07-05 00:20:10 wrong again
+help 2023-07-05 00:20:12 
+help 2023-07-05 00:20:16 built this plane
+help 2023-07-05 00:20:19 same fucking issues
+help 2023-07-05 00:21:33 look
+help 2023-07-05 00:21:36 we know the problem
+help 2023-07-05 00:21:40 it's because of the fucking building
+help 2023-07-05 00:21:42 how do we fix it
+help 2023-07-05 00:21:50 because using QA-ED controls is fucking awful
+help 2023-07-05 00:23:07 man this shit just hurts
+help 2023-07-05 00:23:12 why can't I just get it to work right
+help 2023-07-05 00:23:18 and wtf is M2M
+help 2023-07-05 00:24:47 IK that
+help 2023-07-05 00:24:48 ugh
+help 2023-07-05 00:24:50 fuck this
+help 2023-07-05 00:24:57 I'll just swap the plane for a car
+help 2023-07-05 00:25:07 as the saying goes
+help 2023-07-05 00:25:11 dipshits don't fly
+help 2023-07-05 00:26:27 man not even a car will work
+help 2023-07-05 00:26:32 wtf do I put in the garage area
+help 2023-07-05 00:26:40 tired of building boats
+help 2023-07-05 00:26:46 it's all I can fucking do
+help 2023-07-05 00:26:54 too tall
+help 2023-07-05 00:27:09 not what I mean
+help 2023-07-05 00:27:21 fuck this, man
+help 2023-07-05 00:27:25 why did I try to do this anyway
+help 2023-07-05 00:27:31 it just made me sad and feel worthless
+help 2023-07-05 00:28:12 I am not taking a break until I build something that I want to build that works!
+help 2023-07-05 00:31:34 fuck off and fuck you, I'm not leaving until I do something I want to do, and it works.
+help 2023-07-05 00:51:53 and do that I did, I made a small car with a turret and I love it
+help 2023-07-05 00:58:35 and I'm happy, and thankful that you did!
+help 2023-07-05 00:58:47 I just get a bit toddler-tantrum-y when angry
+help 2023-07-05 14:28:53 if I had to guess, add some helium blocks to the top of it.

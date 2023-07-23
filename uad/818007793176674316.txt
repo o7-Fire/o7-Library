@@ -1,0 +1,10 @@
+The Tale of dablitzinkilr (818007793176674316)
+bot-central 2021-11-28 10:28:59 !help
+bug-reports 2022-02-25 01:51:14 I just made a mini Dornier Do 335 Pfiel, and in the process discovered that painting Delta Control Surface 1x2s works, but if you save the build in a slot, load another build/rejoin the game and load the build, the control portion of the Delta Control Surface (the part that moves) doesn't save the colour it is painted. Which means each time I load the Pfiel, I have to paint the Delta Control Surfaces again before using the build. I can't upload a picture here because of my roles, but if you want an example picture DM me.
+bot-central 2023-06-07 00:14:21 !rank
+bot-central 2023-06-07 00:15:17 no
+bot-central 2023-06-07 00:15:38 -help
+bot-central 2023-06-07 00:16:07 -update
+bot-central 2023-06-07 00:16:19 -verify
+bot-central 2023-06-07 00:16:33 -verify dablitzinkilr
+bot-central 2023-06-07 00:18:09 there we go

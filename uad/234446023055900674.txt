@@ -1,0 +1,6 @@
+The Tale of spudrev (234446023055900674)
+plane-crazy 2020-07-28 23:38:13 guys does inverted work on motor 2?
+plane-crazy 2020-07-28 23:38:50 it doesn't work for me for some reason
+plane-crazy 2020-07-28 23:38:55 still goes the same way
+plane-crazy 2020-07-28 23:39:05 yes
+plane-crazy 2020-07-28 23:40:57 using it for steering a hovercraft ;-;

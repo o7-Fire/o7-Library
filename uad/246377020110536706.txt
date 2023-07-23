@@ -1,0 +1,143 @@
+The Tale of super_tbh (246377020110536706)
+creations-chat 2019-11-02 19:42:46 how do you prevent your helicopter's body from spinning like crazy when using a swashplate
+creations-chat 2019-11-02 19:43:53 okay
+creations-chat 2019-11-02 23:28:04 every time i used a swashplate it just spins around the helicopter instead of the blades. does somebody have a fix
+help 2019-11-03 23:42:56 i need help with this swashplate
+help 2019-11-03 23:57:32 *it ain't work*
+help 2019-11-04 00:17:35 example
+help 2019-11-04 00:17:36 https://media.discordapp.net/attachments/384021699466756107/637296437125840907/fWTc0BBgKN.gif
+help 2019-11-04 00:18:54 the blades do not flap
+help 2019-11-04 00:19:06 which i know why which is because
+help 2019-11-04 00:19:29 yeah, for the heli to fly
+help 2019-11-04 00:20:02 i'm not sure how these can be both connected and move freely
+help 2019-11-04 00:20:29 which is essentially all i need to do
+help 2019-11-04 00:24:59 i lost you guys
+help 2019-11-04 00:25:05 .....
+help 2019-11-04 01:50:27 not sure it'd work
+help 2019-11-04 02:36:54 great introduction
+help 2019-11-04 04:04:29 cylinders don't connect like that
+help 2019-11-04 04:04:39 it's seperate
+help 2019-11-04 23:20:38 is there a block in the game that is completely non-cancollide
+help 2019-11-04 23:25:19 i know, disconnectors too, i'm looking for completely
+help 2019-11-05 00:29:44 what part do you need help with
+help 2019-11-05 13:39:17 what do ballast tanks do
+help 2019-11-05 23:07:06 how do i get the blades to go in opposite directions of each other on this swahplate
+help 2019-11-05 23:19:51 Oh, i mean their rotation
+help 2019-11-05 23:19:58 not opposites oops
+help 2019-11-05 23:20:05 let me get an example
+help 2019-11-05 23:21:22 yeah, that's what i tried. It could probably work if i wanted it too but i think it looks too big
+help 2019-11-05 23:23:49 i get it
+creations-chat 2019-11-08 02:47:08 balanced 2 wheel segway-like mechanism
+creations-chat 2019-11-08 02:48:31 basically something people want to ram into with their cars
+creations-chat 2019-11-09 02:10:09 gyrocopter / 3 bladed propeller, basic 4 bladed swashplate, custom control surfaces
+creations-chat 2019-11-09 16:02:31 Working cyclocopter. Uses sakura's voith schneider propeller
+creations-chat 2019-11-09 16:02:52 going to remove the helium on the tail soon
+creations-chat 2019-11-09 16:09:12 it uses a horizontal axis cyclorotor
+creations-chat 2019-11-09 16:09:31 it can do vertical takeoff
+creations-chat 2019-11-09 16:16:16 
+creations-chat 2019-11-09 16:44:11 nope
+creations-chat 2019-11-09 16:53:21 okay
+creations-chat 2019-11-10 01:21:08 bruh that last submission
+creations-chat 2019-11-10 18:27:55 those legs are thicc
+creations-chat 2019-11-10 18:28:22 okay
+creations-chat 2019-11-10 18:28:27 changing profile picture now
+creations-chat 2019-11-10 18:29:42 now
+creations-chat 2019-11-10 18:30:27 better profile?
+creations-chat 2019-11-15 00:49:31 cyclocopter with completed paintjob
+creations-chat 2019-11-17 04:41:22 giant freaking whip
+creations-chat 2019-11-17 06:29:23 
+help 2019-11-17 22:12:04 how do you make swashplate helis less laggy
+creations-chat 2019-11-21 04:20:14 pimped some tutorial heli cuz I was bored
+creations-chat 2019-11-22 02:26:04 
+creations-chat 2019-11-22 02:27:31 noice
+creations-chat 2019-11-23 00:25:46 added additional stability and paintjob
+creations-chat 2019-11-23 00:34:11 it is using cycloidal rotors
+creations-chat 2019-11-24 19:08:55 most expensive anti torque ever lol
+creations-chat 2019-11-24 19:13:44 
+creations-chat 2019-11-24 19:14:02 can go upside down
+plane-crazy 2019-11-25 00:08:42 you just google the server name
+plane-crazy 2019-11-25 00:09:20 https://www.roblox.com/games/2546612479/Plane-Crazy-Development-Build?refPageId=d45f8133-f84d-4b91-80ae-026290c9ce3f
+plane-crazy 2019-11-25 00:09:20 i have it
+creations-chat 2019-11-26 21:02:29 i shall use this for my chinook
+creations-chat 2019-11-27 18:29:15 Tandem rotors work in progress
+creations-chat 2019-11-27 18:38:04 it is different....
+creations-chat 2019-11-27 22:00:02 
+creations-chat 2019-11-27 22:00:28 
+creations-chat 2019-11-27 22:02:55 cyclocopter
+creations-chat 2019-11-28 03:36:54 "skycrawler" prototype
+plane-crazy 2019-11-28 03:38:35 that is a lot of fps
+plane-crazy 2019-11-28 03:46:11 so it is -3 mass
+plane-crazy 2019-11-28 03:56:32 lol what
+plane-crazy 2019-11-28 04:42:33 is this good? xd
+plane-crazy 2019-11-28 04:42:53 sakura didn't make that
+plane-crazy 2019-11-28 04:43:14 she did the rotors tho
+plane-crazy 2019-11-28 04:43:18 .-.
+plane-crazy 2019-11-28 04:47:25 5 years
+plane-crazy 2019-11-28 04:47:39 xd
+plane-crazy 2019-11-28 04:49:02 the size is better ;-;
+plane-crazy 2019-11-28 04:52:02 apparently cameras are buoyant
+creations-chat 2019-11-28 04:55:31 are you able to request expert aeronautical engineer V if you haven't gotten any of the aeronautical roles before
+creations-chat 2019-11-28 04:58:33 bruh i'm like a month old in this server
+creations-chat 2019-11-28 05:04:57 requesting designer v
+creations-chat 2019-11-28 05:06:48 *perhaps*
+creations-chat 2019-11-28 05:07:12 i guess i'll go unvote that to re submit even tho it's over 25 .-.
+creations-chat 2019-11-28 05:08:09 i didn't self upvote this time 😔
+creations-chat 2019-12-01 21:05:38 requesting designer v
+creations-chat 2019-12-01 22:33:51 .-.
+creations-chat 2019-12-01 22:34:04 oh no
+creations-chat 2019-12-01 22:34:08 what am i watching
+creations-chat 2019-12-01 22:38:26 lol
+creations-chat 2019-12-01 23:21:27 am i gonna get a virus
+creations-chat 2019-12-01 23:23:01 *post a virus and you'll really get banned*
+creations-chat 2019-12-01 23:23:08 just kidding
+creations-chat 2019-12-01 23:23:14 aha
+creations-chat 2019-12-01 23:23:15 ha
+creations-chat 2019-12-01 23:24:22 why tho?
+creations-chat 2019-12-01 23:24:47 search mentions on my name... .
+creations-chat 2019-12-01 23:29:05 **top 10 moments before disaster**
+creations-chat 2019-12-01 23:31:11 <@218240161719386112> do i get designer v i posted it in creations
+creations-chat 2019-12-01 23:32:20 c:
+creations-chat 2019-12-02 00:19:57 I call this 'Skycrawler,' and it is a work in progress
+creations-chat 2019-12-02 00:28:00 c:
+plane-crazy 2019-12-02 02:51:17 you gotta do it back at them
+plane-crazy 2019-12-02 02:51:45 <:kek:532300771769974827>
+bot-central 2019-12-02 03:48:59 ?whois
+bot-central 2019-12-02 03:50:16 !servers
+plane-crazy 2019-12-03 04:05:45 👌
+creations-chat 2019-12-03 04:07:26 it looks like you are using cameras because they float on water
+plane-crazy 2019-12-03 04:31:23 petition for swashplate block
+plane-crazy 2019-12-03 04:31:44 *yes*
+plane-crazy 2019-12-03 04:33:59 put that on a heli XD
+plane-crazy 2019-12-03 04:34:58 should the center of mass of a heli be under the main rotor or no
+plane-crazy 2019-12-03 04:35:15 okay
+plane-crazy 2019-12-03 04:37:04 it already explodes on it's own lol
+plane-crazy 2019-12-03 04:40:13 yall ever just crash the universe lmao
+plane-crazy 2019-12-03 04:49:45 there are rc helicopters with 1 blade
+creations-chat 2019-12-05 04:26:41 lmao
+plane-crazy 2019-12-05 23:18:10 relate
+creations-chat 2019-12-06 00:34:58 bell 206 work in progress
+creations-chat 2019-12-06 00:35:30 c:
+creations-chat 2019-12-06 03:51:03 then what is the point of even playing the game if you can just use roblox studio
+creations-chat 2019-12-06 04:07:15 helicopter
+creations-chat 2019-12-07 18:54:23 strangeness
+plane-crazy 2019-12-07 20:11:29 e
+plane-crazy 2019-12-07 20:11:32 oh cool
+plane-crazy 2019-12-07 20:11:35 we back
+creations-chat 2019-12-07 21:13:46 xd
+general 2020-05-23 05:22:18 asdf
+general 2020-05-23 05:23:17 one second
+general 2020-05-23 05:23:35 
+general 2020-05-23 05:25:22 🤷
+general 2020-05-23 05:26:36 do you know what a voith schneider propeller is
+general 2020-05-23 05:27:53 there are different types
+general 2020-05-23 05:32:32 you know what else is long
+general 2020-05-23 05:33:48 if you give up then you won't accomplish anything
+general 2020-05-23 05:34:48 it is 12 inches
+general 2020-05-23 05:34:53 a subway sandwich
+general 2020-05-23 05:35:47 I am talking about a subway foot long sandwich
+general 2020-05-23 05:37:45 why did I start this conversation
+general 2020-05-23 05:39:38 
+general 2020-05-23 05:40:33 is that city skylines
+general 2020-05-23 05:40:51 huh
+general 2020-11-30 09:23:32 ?
+general 2021-02-27 03:33:29 wut

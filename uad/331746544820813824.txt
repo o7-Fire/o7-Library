@@ -1,0 +1,161 @@
+The Tale of steampro890 (331746544820813824)
+creations-chat 2018-10-24 12:40:11 https://i.gyazo.com/c30026165f49e128387cdbaff9f70f99.jpg Gunship mk2
+creations-chat 2018-10-26 06:55:00 where the creation submission
+creations-chat 2018-10-26 06:57:56 not suspicius A10 https://i.gyazo.com/1c9c01bc8ba5395b1b45262729f58802.jpg
+general 2018-11-22 06:20:02 https://i.gyazo.com/5d44903cff37e80b9b06d2497f3935ad.jpg no comments
+general 2018-11-24 07:32:36 https://i.gyazo.com/f302e6305070faee0509c8275678827b.png yay?
+general 2018-11-24 07:36:41 with helium craft and then parachute glitching
+general 2018-11-24 07:37:30 couldnt screenshot in time
+general 2018-11-24 07:37:46 yeah its eazy
+general 2018-11-24 07:37:49 easy
+general 2018-11-24 07:47:57 https://i.gyazo.com/d501e59942642caf59d670d32f5f8d47.png
+general 2018-11-24 07:48:17 is this lightspeed?
+general 2018-11-24 08:07:02 is this counted?
+general 2018-11-24 08:07:24 or must i be in an creation
+general 2018-11-24 08:07:35 this was parachute glitch
+bug-reports 2018-11-24 08:12:59 1x7 does not place properly on its ends
+bug-reports 2018-11-24 08:13:23 sometime
+bug-reports 2018-11-29 12:03:08 the Green return button when you deploy dosent work in some servers
+bug-reports 2018-11-29 12:03:31 this https://gyazo.com/43409254b9711a60cd9aab3d3605408f
+bug-reports 2018-12-01 08:02:14 when the return button doesnt work
+bug-reports 2018-12-01 08:02:16 https://i.gyazo.com/0fa6a36f464cf4ff150a476270b65e38.jpg
+plane-crazy 2019-01-04 09:55:55 a
+creations-chat 2019-01-05 09:20:18 Train able to go the entire track at 150 speed
+creations-chat 2019-01-05 09:20:35 Train able to go the entire track at 150 speed https://i.gyazo.com/7a74d8a6993b048585edbde04597a916.jpg https://i.gyazo.com/deeae2efa61a6de482e8e27611be0f28.png
+plane-crazy 2019-01-18 12:58:24 https://i.gyazo.com/17d7158d75c657142004b98a520b0baf.jpg clean glass
+the-dump 2019-02-01 12:28:16 a
+the-dump 2019-02-01 12:28:35 c
+the-dump 2019-02-01 12:28:48 my train is great
+the-dump 2019-02-01 12:29:54 and while building an spg i saw 3 lag machines
+the-dump 2019-02-01 12:37:59 e
+plane-crazy 2019-02-01 13:31:33 does anyone know whats anti copy blacklist?
+plane-crazy 2019-02-01 13:33:11 does anyone know whats anti copy blacklist?
+'
+plane-crazy 2019-02-01 13:33:35 under settings
+plane-crazy 2019-02-01 13:33:52 whats that
+plane-crazy 2019-02-01 13:33:59 oof
+plane-crazy 2019-02-01 13:34:04 ok good to know
+plane-crazy 2019-02-01 13:34:12 have wayy too many good builds
+plane-crazy 2019-02-01 13:34:34 i saw it
+plane-crazy 2019-02-01 13:34:36 its uh
+plane-crazy 2019-02-01 13:34:43 q
+plane-crazy 2019-02-01 13:35:20 https://i.gyazo.com/51f22ba7a79a873d33a0123d5af775ad.png
+plane-crazy 2019-02-01 13:36:58 noice
+plane-crazy 2019-02-01 13:39:04 https://i.gyazo.com/ee2302047a3ae5f54f4da9e04023758c.jpg
+plane-crazy 2019-02-01 13:39:46 very quality build everyone gets mesimerised
+plane-crazy 2019-02-01 13:39:57 *everyone in server
+bug-reports 2019-02-09 06:04:18 https://i.gyazo.com/979246c09716b8678377bf989c11b9ad.jpg my plane when spawns dosent open all landing gear and all controls are glitched
+bug-reports 2019-02-09 06:04:26 hecc
+bug-reports 2019-02-09 06:15:48 replacing it dosent work
+bug-reports 2019-02-09 06:15:56 the parts
+bug-reports 2019-02-09 06:19:42 i left the server with the plane in pvp
+bug-reports 2019-02-09 06:20:17 The plane only works in pvp
+bug-reports 2019-02-09 06:23:58 Even after clearing the autosave and turning off autosave, then saving the plane again all while in pvp it dosent work still
+bug-reports 2019-02-09 06:24:25 Might be some saving issues between both pvp and non-pvp servers
+bug-reports 2019-02-09 06:28:20 i've found a temporary fix which is removing ALL pvp weapons
+bug-reports 2019-02-09 06:28:30 good to know its gettting fixed
+bug-reports 2019-02-09 06:33:20 dosent happen to me even at 400-600=
+bug-reports 2019-02-09 06:33:28 *400-600+
+bug-reports 2019-02-09 06:35:23 when you mean < 15 fps you mean the physics is under 15/s ?
+bug-reports 2019-02-09 06:36:05 oof
+bug-reports 2019-02-09 06:36:30 cause if physics is under 20/s everything looks like slow motion
+bug-reports 2019-02-09 06:36:55 this happens with 1 of my creations
+bug-reports 2019-02-09 06:37:11 motor is causing it?
+bug-reports 2019-02-09 06:38:06 i have 4 motors on my plane at 1000 torque while flying at 400 its fine
+bug-reports 2019-02-09 06:38:31 maybe try increasing torque or finding something colliding with it?
+bug-reports 2019-02-09 06:38:47 im using the motors to tilt the wings
+bug-reports 2019-02-09 06:39:15 https://i.gyazo.com/b54b77270184d0d1f653b2a725cad72a.jpg like this
+bug-reports 2019-02-09 06:39:50 4 motors 4 wings
+bug-reports 2019-02-09 06:40:03 idk
+bug-reports 2019-02-09 06:40:14 never had wind resistance bugs b4
+bug-reports 2019-02-09 06:41:10 oof
+bug-reports 2019-02-09 06:41:12 maybe
+bug-reports 2019-02-09 06:41:22 the lift created is too stronk
+bug-reports 2019-02-09 06:41:55 https://i.gyazo.com/b730a634782d44a3c08ed6a31db0785e.jpg like this
+bug-reports 2019-02-09 06:42:20 where 8 blades causes lots of glitchy-ness
+bug-reports 2019-02-09 06:42:27 yeah prob
+bug-reports 2019-02-09 06:42:44 i guess its a roblox problem
+bug-reports 2019-02-09 06:42:51 and GREAT servers
+bug-reports 2019-02-09 06:43:04 i always get 400 ping servers
+bug-reports 2019-02-09 06:43:23 f3
+bug-reports 2019-02-09 06:43:40 but dosent feel accurate
+bug-reports 2019-02-09 06:43:49 ye
+bug-reports 2019-02-09 06:44:15 https://i.gyazo.com/b54b77270184d0d1f653b2a725cad72a.jpg do you recognise this plane?
+bug-reports 2019-02-09 06:44:29 aww
+bug-reports 2019-02-09 06:44:46 i've asked like 20 people but they don't know
+bug-reports 2019-02-09 06:45:04 i guess its too scuffed
+bug-reports 2019-02-09 06:45:38 its the ace combat 7 x-02 Wyvern
+bug-reports 2019-02-09 06:46:18 i think it's too wide and thick
+bug-reports 2019-02-09 06:46:29 and the proportions are scuffed
+bug-reports 2019-02-09 06:46:58 the intakes are suppposed to be ridiclously tall
+bug-reports 2019-02-09 06:47:07 lmao
+bug-reports 2019-02-09 06:47:17 by the power of flex tape
+bug-reports 2019-02-09 06:47:31 i have 2 huge jets
+bug-reports 2019-02-09 06:47:38 and 18 super rockets
+bug-reports 2019-02-09 06:48:16 idk how i supposed to fit a railgun underneath the plane like in the games
+bug-reports 2019-02-09 06:48:27 a pop-out railgun
+bug-reports 2019-02-09 06:48:44 i have a 2x3 block gap
+bug-reports 2019-02-09 06:48:53 its 17 blocks long
+bug-reports 2019-02-09 06:49:11 im also too lazy
+bug-reports 2019-02-09 06:49:50 https://i.gyazo.com/a91b1ba945681cf604e2e35428431d7e.jpg tiny meme car
+bug-reports 2019-02-09 06:50:00 with complex suspension
+bug-reports 2019-02-09 06:50:12 2 bad its too small for actual steering
+bug-reports 2019-02-09 06:50:24 so tank steering it is
+bug-reports 2019-02-09 06:50:50 imma go off and make a magnet plane with no tutorials bye
+creations-chat 2019-02-09 06:56:32 https://i.gyazo.com/53a5fbd7961ff402ae962de26307c5c4.png https://i.gyazo.com/440a75071f975bb3647e14b0e265afce.jpg my bad recreation of a x2 wyvern (requesting expert builder)
+creations-chat 2019-02-09 07:00:42 https://i.gyazo.com/6d549a1544c7aae46f1dccc8aa5c7570.png  https://i.gyazo.com/505d04241f50339be017adc088b62b09.jpg a train able to do whole train track at 120+ (requesting level 1 conductor)
+creations-chat 2019-02-09 07:02:27 https://i.gyazo.com/d501e59942642caf59d670d32f5f8d47.png using a parachute to reach dumb speeds is this allowed?
+creations-chat 2019-02-09 07:53:32 my trolly giant ram https://i.gyazo.com/7bfd890877db812cbb3fc6e596b6a945.png https://i.gyazo.com/a945a1dcb9b190e24520db5c081ea592.png  (request for lag machine)
+general 2019-03-11 12:30:29 https://i.gyazo.com/b7e0ca541da3f5d88a58bc45ba85d980.jpg rotor.exe has stopped working
+plane-crazy 2019-03-12 09:33:19 a
+plane-crazy 2019-03-13 12:37:17 oof
+plane-crazy 2019-03-13 12:37:38 made tank tracks so complex it can't go above 19 fps
+bug-reports 2019-03-14 05:42:39 <:fix:548709302282747914>  :half_wedge:
+help 2019-03-14 06:34:38 18k ping while using tracks
+creations-chat 2019-03-16 04:01:44 https://i.gyazo.com/733c9c502f9df7401d49db07841167d1.jpg https://i.gyazo.com/1c4b13ed2cf2e38db243518b01950eaa.png Username: steampro890 | my own design tracks which are extremely smooth and can climb most things with no propulsion, can also move in water | Requested rank: inventor
+creations-chat 2019-03-16 05:25:16 https://i.gyazo.com/1789447c9b7ecbbe9bccac79ba1d6dab.jpg proof for inventor rank
+creations-chat 2019-03-16 05:29:43 smooth tracks
+creations-chat 2019-03-16 05:30:10 its a different design
+creations-chat 2019-03-16 05:30:28 ye
+creations-chat 2019-03-16 05:30:45 oh
+creations-chat 2019-03-16 05:31:35 aw
+creations-chat 2019-03-16 05:32:22 i have another one
+creations-chat 2019-03-16 05:32:24 https://i.gyazo.com/e26a8c29659b726043d1fcf174312c79.jpg
+creations-chat 2019-03-16 05:32:38 500+ blocks
+creations-chat 2019-03-16 05:32:52 nearly 400+ speed climbing
+creations-chat 2019-03-16 05:33:08 its a x02 wyvern
+creations-chat 2019-03-16 05:33:16 but its scuffed
+creations-chat 2019-03-16 05:33:26 too wide and too flat
+creations-chat 2019-03-16 05:33:50 too bad i cant change from high speed to low speed modes
+creations-chat 2019-03-16 05:33:58 dont think so
+creations-chat 2019-03-16 05:35:52 https://i.gyazo.com/3d5aa59b22613db95545f64cf8a4a118.jpg land ranks would be cool
+creations-chat 2019-03-16 05:39:08 you guys have any suggestion for a build for this?https://i.gyazo.com/4d0bdbde6b6f69e980c7f9e2d770d588.jpg
+creations-chat 2019-03-16 05:39:46 some tank chassis that i spent wayy too long perfecting
+creations-chat 2019-03-16 11:41:40 how...
+creations-chat 2019-03-18 11:48:36 https://i.gyazo.com/75de410201f3d3b5699c8492de0fef41.png https://i.gyazo.com/1a065ce766dc4807590e983655537fbc.jpg Plane? | steampro890 | Blocks: 5 | Requesting for Microscopic Engineer      ( sorry for bad pictures plane's very twitchy )
+creations-chat 2019-03-18 11:50:19 https://i.gyazo.com/2c1ce4012a765c0ee80aedd82a7f0ed0.jpg another angle because the plane is very twitchy
+creations-chat 2019-03-18 11:50:51 it actually flies with 3 buttons
+creations-chat 2019-03-18 11:51:18 *5 ( shift,ctrl  a,s   d )
+help 2019-03-18 11:53:28 why do i have a "rank" without ranked role?
+help 2019-03-18 12:02:07 ye
+help 2019-03-18 12:02:26 thats why im asking
+help 2019-03-18 12:02:35 cause nobody fixed it
+help 2019-03-18 12:06:22 how
+help 2019-03-18 12:06:30 idk how
+creations-chat 2019-03-19 08:38:11 https://i.gyazo.com/9dd90128843d939e00189227f74d6524.jpg Requesting for microscopic engineer, sry for bad picture very hard to screenshot and fly
+creations-chat 2019-03-19 08:38:27 part count is 5
+creations-chat 2019-03-19 08:39:08 https://i.gyazo.com/7be01d305b6d830312529e810c18c178.jpg part count of 5
+creations-chat 2019-03-19 09:06:37 rotot?
+creations-chat 2019-03-20 06:55:27 https://i.gyazo.com/02b0debd2fdf00ea4cfcc9c9110a7eab.jpg https://i.gyazo.com/df004f813587e19fe093b5353efb5e92.jpg plane? | steampro890 | 5 | microscopic engineer
+creations-chat 2019-03-20 06:58:41 rank plz
+creations-chat 2019-03-20 07:01:56 nvm i have rank now thank
+creations-chat 2019-03-30 04:59:13 ≥
+creations-chat 2019-03-30 04:59:14 “
+creations-chat 2019-05-16 08:06:13 Trophy Truck Frame (working solid axles) https://i.gyazo.com/1c1467993c584b59169c4367a4d94496.jpg https://i.gyazo.com/38d72f3861506989082c0ca9baa2a7f0.jpg https://i.gyazo.com/19a802adb68a3fde36f0da80c7d8ba9b.png
+plane-crazy 2019-05-17 12:36:19 https://i.gyazo.com/5658d8fd4cb6ff0d336d302896784e7c.gif  trippy
+plane-crazy 2019-05-17 12:36:49 not even slow-mo
+plane-crazy 2019-05-17 12:46:10 https://i.gyazo.com/6ff97572f2a8d8029ddb5588cc47028e.gif *** y e s ***
+plane-crazy 2019-05-17 12:48:19 https://i.gyazo.com/f322f3e1166366554f95060705b50267.png ** Oh hai there**
+the-dump 2019-05-17 12:56:57 ||||  https://i.gyazo.com/f322f3e1166366554f95060705b50267.png
+the-dump 2019-05-21 12:14:19 https://i.gyazo.com/1c3bd4fa21ae3c5e0ea40a0583bc9443.png https://i.gyazo.com/60477547269674460e2cf84cf3b020ca.png How much lag?  ***y e s***
+bot-central 2020-09-06 13:40:55 !help

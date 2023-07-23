@@ -1,0 +1,8 @@
+The Tale of wierdbtothers (324622215364476933)
+plane-crazy 2019-06-21 16:11:59 So today I made a prototype of a car and it worked perfect, steering, speed and everything, but when I made an APC it stopped steering anyone could assist me?
+plane-crazy 2019-06-21 16:12:30 I used Cylinders as tires and motors to spin them
+plane-crazy 2019-06-25 14:18:07 How can I suggest something?
+plane-crazy 2019-06-25 14:19:15 Seriously oof
+plane-crazy 2019-06-25 14:19:28 Gonna need to work for a rank just to suggest an idea?
+bug-reports 2019-08-21 21:55:28 **Bug in PVP Mode**
+When I was in PVP mode I was testing the durability of my plane with a person that I met, when he shoots me down it would show him that he killed me and my plane being in pieces while I'm still flying without any broken parts, his missile's and guns doesn't show up for me when fired.

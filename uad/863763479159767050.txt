@@ -1,0 +1,46 @@
+The Tale of atlathl (863763479159767050)
+plane-crazy 2022-08-13 13:44:41 hello
+plane-crazy 2022-08-13 13:45:56 who got a vip server?
+plane-crazy 2022-08-16 10:37:51 hello, got any tips at suspensions?
+plane-crazy 2022-08-16 10:39:01 what?
+plane-crazy 2022-08-16 10:39:05 the suspension
+plane-crazy 2022-08-16 10:39:20 damping, stiffness and free length
+plane-crazy 2022-08-16 10:40:52 i wanna make a suspension that is stable on hills
+plane-crazy 2022-08-16 10:43:09 Missiles can be a versatile weapon in plane crazy. They can be launched from anywhere and can hit almost anything. Some creations has two missiles that are use for hitting land targets, other ships, or sometimes, even planes! As missiles are made out of parts, unlike rockets, they can be launched underwater and can hit targets underwater. Missiles can be used to attack and kill shredders.
+
+They can be steered, unlike rockets, which makes it much easier to hit planes and moving targets. The only problem is that missiles are often much bigger than rockets and can't be replenished. although they are much more versatile than rockets, missiles also must be manually steered, but the user can still use weapons while launching one if the missile has weapons on it.
+
+Types
+Missiles come in many different sizes and shapes. There are many variations, as the missile is a simple idea with many ways to create. There are a lot of ways missiles can be made, so new missile types are being made all the time. Missiles can be easily made to fit your vehicle, and can be tooled around with greatly.
+
+Tutorial
+First, place a super rocket engine facing the front of your planned missile. Place 1x1 delta wings on each side of the cylindrical part of the super rocket engine and 1x1 control surfaces below those delta wings. Place seven blocks of explosives ahead of the rocket. one block down from the top, place 1x1 delta wings, and 1x1 control surfaces below the delta wings. Then place another set of delta wings and control surfaces directly below the last set. Finally, place a camera on top. If you want to attach the missile to something, place the detachers on the lowest explosive block.
+
+
+Putting missiles on creations
+To put missiles on creations you can use 2 or 3 disconnectors to connect them on the build. Make sure that the disconnectors have their top plates facing on the missile. (ie: the disconnectors must look like top hats.) after that you are done.
+plane-crazy 2022-08-16 10:45:27 woah, how cute
+plane-crazy 2022-08-16 10:47:34 yeah, wanna know the sauce?
+plane-crazy 2022-08-16 10:48:41 zlluke might want to watch it
+plane-crazy 2022-08-16 10:48:58 oh, lucky you
+plane-crazy 2022-08-16 10:49:19 heh, i'm sorry, and it's not a cartoon
+plane-crazy 2022-08-16 10:50:11 i'll change it then, gimme a sec
+plane-crazy 2022-08-16 10:51:11 there, i changed it.
+plane-crazy 2022-08-16 11:46:18 welcome
+plane-crazy 2022-08-16 11:47:56 ?
+plane-crazy 2022-08-16 11:49:41 gocha
+plane-crazy 2022-08-17 09:18:24 Hellooo, who got a private server?
+plane-crazy 2022-08-17 09:38:46 What kind of suspension you guys reccomend for cars?
+plane-crazy 2022-08-17 09:38:53 how ?
+plane-crazy 2022-08-18 17:59:36 hello guys
+plane-crazy 2022-08-18 18:00:18 how do i make a thing float stability?
+plane-crazy 2022-08-18 18:01:16 i'm building some net that i can drop while in a sky, i want to make it like a ufo.
+plane-crazy 2022-08-18 18:02:22 but it's always out of control when i steer it
+general 2023-02-23 15:30:07 What is the most efficient amount of Hover Thruster for Hover Engine? Thanks!
+general 2023-02-23 15:31:31 ok, thanks
+plane-crazy 2023-02-24 18:33:01 hey guys, what is the best way to keep a ship from not tilting
+plane-crazy 2023-02-24 18:35:56 I stuffed heliums and ballast, it's still tilting
+plane-crazy 2023-02-24 18:36:08 imma try that
+plane-crazy 2023-02-24 18:37:51 WOW THANKS! It actually worked!
+general 2023-03-19 07:17:30 Who got a private server?
+plane-crazy 2023-03-19 08:17:06 How do I make my net drone stable after stopped moving?

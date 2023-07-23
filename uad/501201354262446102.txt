@@ -1,0 +1,85 @@
+The Tale of crax_e621 (501201354262446102)
+bug-reports 2020-01-06 10:38:05 The current event items are not collecting. (I touch em, nothing happens, I can't find them in the build menu. It won't pick them up whether I'm in build mode or drive mode)
+bug-reports 2020-01-07 06:05:19 so i try getting an item, eg this ski thing
+bug-reports 2020-01-07 06:05:30 f9 says nothing
+bug-reports 2020-01-07 06:05:49 however none of my build menus have any winter item options
+bug-reports 2020-01-07 06:06:09 ive tried this on 3 different servers now. am i supposed to find items in a specific order or something
+bug-reports 2020-01-07 06:06:14 do i need to fly there
+creations-chat 2020-01-07 06:11:13 everyone makes cool stuff and all i can do is make this wacky suspension that doesn't just go up and down or side to side
+general 2020-01-07 06:31:54 what is going on with these propeller noises
+general 2020-01-07 06:32:12 🅱️ruh
+general 2020-01-07 06:38:32 delete your autosave and you might be able to cheat some extra space in
+help 2020-01-08 04:35:18 has anyone made a working differential before? im trying to make a welded/locked differential (both wheels move at the same speed/time no matter what) and im completely out of ideas
+help 2020-01-08 04:36:12 i cant seem to figure out how to get two ends of an axle on the one motor
+help 2020-01-08 05:59:15 is there a way to connect parts to a ball
+help 2020-01-08 06:00:43 oof
+help 2020-01-08 06:00:56 so i cant make a working bike that can tilt
+general 2020-01-08 09:15:46 who <:GWsetmyxPeepoPinged:405337566787928065>
+bug-reports 2020-01-08 10:04:16 servos have a seizure if the speed is set to over 2 (well, over 1 but 2 is the limit i can call it "stable" as such)
+general 2020-01-08 23:20:43 On God who tf keeps ghost pinging me daily
+general 2020-03-01 23:49:24 What the shit just happened
+general 2020-03-01 23:50:00 Did someone raid gnis
+general 2020-03-01 23:50:02 This*
+general 2020-09-16 10:23:00 quick question: where do i report people?
+general 2020-09-16 10:23:53 some dude in this server im in has a machine with gazillions of speakers playing clearly bypassed loud audios (can be muted via settings thankfully) but theyre also using it to ram other people as theyre driving/flying
+general 2020-09-16 10:24:31 with how fast and accurate they are id consider it to be exploits
+general 2020-09-16 10:25:36 so basically i cant report people
+general 2020-09-16 10:25:37 damn
+general 2020-09-16 10:27:35 well if anyone sees alphxgabriel08 in a game, just server hop
+plane-crazy 2021-01-20 08:42:36 hey dumb question for anyone here but im trying to make a drivetrain: anyone know if this is possible or no, and if so, how much space i need
+plane-crazy 2021-01-20 08:43:09 making it specifically the titanic was your first mistake <:PepeLaugh:697130830081818634>
+plane-crazy 2021-01-20 08:44:05 ah, in that case its out of balance, try putting some helium or ballast blocks on one/both sides
+plane-crazy 2021-01-20 08:44:33 hmmm
+plane-crazy 2021-01-20 08:44:39 does it have any leaks
+plane-crazy 2021-01-20 08:45:10 does it tip the same way each time, and/or can you affect the way it tips by steering
+plane-crazy 2021-01-20 08:45:57 if its tall that might be doing it also
+the-dump 2021-01-20 08:47:23 baot
+plane-crazy 2021-01-20 09:01:41 nice
+plane-crazy 2021-01-20 09:01:44 howd you fix it
+plane-crazy 2021-01-20 09:06:09 big fax
+plane-crazy 2021-01-20 09:15:11 ouch lmao its tilting so much
+plane-crazy 2021-01-20 09:15:20 i assume the weight is centered
+plane-crazy 2021-01-24 06:01:17 ok im stuck here: does anyone know how to fix servo shake?
+plane-crazy 2021-01-24 06:18:23 have you ever tried using motor2 with servo mode as a steering mechanism
+plane-crazy 2021-01-24 06:18:25 or just, a servo
+plane-crazy 2021-01-24 06:18:39 if not, what happens above 1 speed is it breaks and shakes like crazy
+plane-crazy 2021-01-24 06:19:29 another question: does anyone know if its possible to have powered motors that are also loose (when its powered it goes rigid)
+plane-crazy 2021-01-24 06:19:55 cause if i can have loose + powered motors, i have a better idea for a steering mechanism
+plane-crazy 2021-01-24 06:19:59 a makeshift servo
+plane-crazy 2021-01-24 06:47:03 what the heck
+plane-crazy 2021-01-24 06:47:10 why do you need so many motors lmao
+plane-crazy 2021-01-24 06:48:17 literally how
+plane-crazy 2021-01-24 06:48:21 wouldnt that do the opposite
+plane-crazy 2021-01-24 06:49:09 wait hold on
+plane-crazy 2021-01-24 06:49:17 how do you get double end motors like that
+plane-crazy 2021-01-24 06:51:05 ok you gotta be hacking or something cause like
+general 2021-04-23 01:07:05 its 2021 and people are still completing this <:wearyw:755999078512459856>
+general 2021-04-23 01:07:48 
+general 2021-04-23 01:08:09 stylus theme i made myself
+general 2021-04-23 01:08:36 the only c word we say here is <a:aniC:602752994102214657><a:aniO:602752995163111465><a:aniO:602752995163111465><a:aniL:602752994030780416>
+general 2021-04-23 01:09:47 hey dumb question but yall see that new thing that stops servos from being glitchy?
+general 2021-04-23 01:10:04 its not fully released yet but roblox is finally fixing servos
+general 2021-04-23 01:10:15 wait lemme grab the devforum link
+general 2021-04-23 01:10:30 https://devforum.roblox.com/t/hingeconstraint-set-to-servo-unstable/1155183/3
+general 2021-04-23 01:10:45 servos are finally gonna stop spazzing
+general 2021-04-23 01:11:08 now i can finally have quick servo steering without glitching
+general 2021-04-23 01:13:04 <a:bleefartmocha:711839950735278092>
+help 2021-05-01 04:37:58 Anyone know if its possible to make some sort of stabiliser to cancel out any tilting on parts? (eg making a car where the body doesnt roll with the chassis)
+edit: i dont wanna cheese it with helium blocks or manually doing it with powered motors/servos, i wanna have it be as mechanically automated as possible)
+bot-central 2021-10-24 04:16:51 ?shelp
+bot-central 2021-10-24 04:17:00 ?rhelp
+general 2021-10-27 08:57:13 youre literally 15 and used cope unironically you cant talk shit about advanced humor
+general 2021-10-27 08:58:17 https://tenor.com/view/hilarious-original-clap-applause-bravo-gif-5482130
+general 2021-10-27 08:58:31 guys he made an absent father joke
+general 2021-10-27 08:58:40 advanced humor™️
+plane-crazy 2021-10-27 09:11:35 hey uh, does anyone know how to make a gyro so i can keep stuff upright/stable?
+plane-crazy 2021-10-27 09:11:57 ive tried with motors, ive tried with abusing helium and equally balanced ballasts, but nothing
+plane-crazy 2021-10-27 09:24:29 those are janky for everything outside of helicopters and boats though, plus theyre kinda cheaty
+general 2021-11-03 08:51:12 It will be sorely missed
+general 2021-11-03 08:51:24 Pay respects to pee with friends
+plane-crazy 2022-04-09 07:07:12 im probably not the first person to do it, but i managed to climb to the top of the hill on entirely just wheel power (no rockets/jets, no glitches, not even helium blocks, just straight up motors and cylinders)
+plane-crazy 2022-04-09 07:08:12 and it took way longer than it should have to make something that could do it
+plane-crazy 2022-04-09 07:12:44 surprisingly enough it was more difficult than just slapping some low speed high torque motors on with soft suspension
+plane-crazy 2022-04-09 07:12:48 at least for me
+bot-central 2023-03-01 09:01:00 ?shelp
+bot-central 2023-03-01 09:01:08 ?rhelp

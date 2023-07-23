@@ -1,0 +1,495 @@
+The Tale of _benben. (385216485859000321)
+creations-chat 2020-03-17 20:13:53 looks good! the lights and camera tower make it look like an AI controlled turret. perfect for fitting with the theme!
+general 2020-03-17 20:16:26 <@!457211272908242945> i mean, you could just walk them through
+general 2020-03-17 20:16:37 k
+general 2020-03-17 20:16:44 good luck mate
+bug-reports 2020-03-17 20:17:21 yeah, it happened a few times to me too, but i'm a little fuzzy on the details and the recreation.
+help 2020-03-17 20:33:51 <@!495186126055931904> max torque dictates how much force the motor can apply, for example, you want to push something. A high torque low speed motor can get it done, but a high speed low torque motor, however, cannot.
+help 2020-03-17 20:34:04 it's just a measure of how powerful, not fast, your motor is.
+help 2020-03-17 20:34:23 i'd leave it at max
+creations-chat 2020-03-17 20:34:56 do these creations have to be large or realistic?
+creations-chat 2020-03-17 20:40:16 ok
+help 2020-03-17 23:51:11 tried checking your keybinds?
+help 2020-03-18 00:05:36 requesting VTOL engineer 1
+help 2020-03-18 00:06:06 
+help 2020-03-18 00:20:41 try rebuilding, and separating the wheels
+help 2020-03-18 00:20:44 don't connect em
+help 2020-03-18 00:31:28 np
+plane-crazy 2020-03-18 01:09:11 yes
+general 2020-03-18 01:23:11 bananas
+help 2020-03-18 21:27:10 are gyroscopes planned or even possible in plane crazy?
+creations-chat 2020-03-22 02:58:14 wack
+creations-chat 2020-03-22 02:58:22 super rockets aren't really good
+creations-chat 2020-03-22 02:59:01 they just show people that you're inexperienced and what i call a "thrust junkie".
+creations-chat 2020-03-22 03:04:48 controllable high thrust?
+creations-chat 2020-03-22 03:05:06 it's called hover engines, wings, and a butt-load of super rockets.
+plane-crazy 2020-03-22 03:07:33 idk
+plane-crazy 2020-03-22 03:07:44 "seems legit"
+plane-crazy 2020-03-22 03:08:57 also, inputs?
+plane-crazy 2020-03-22 03:09:00 
+plane-crazy 2020-03-22 03:09:07 it's a semi-working hydrofoil
+plane-crazy 2020-03-22 03:09:34 study your own pair
+plane-crazy 2020-03-22 03:09:44 i'd suggest using two heys
+plane-crazy 2020-03-22 03:09:46 *keys
+plane-crazy 2020-03-22 03:10:11 one for left foot back and right foot forward, and the other for left foot forward, right foot back.
+plane-crazy 2020-03-22 03:10:59 honestly, i'm not really sure
+plane-crazy 2020-03-22 03:11:25 i'm just thinking modeling one off of an actual bipedal animal (YOU)
+creations-chat 2020-03-22 03:12:52 wack
+creations-chat 2020-03-22 03:13:00 could use some more detailing
+creations-chat 2020-03-22 03:13:03 make it red
+creations-chat 2020-03-22 03:13:18 green gives people cancer
+creations-chat 2020-03-22 03:13:25 like lime green
+creations-chat 2020-03-22 03:13:47 13, 255, 0
+creations-chat 2020-03-22 03:13:50 please no
+creations-chat 2020-03-22 03:14:11 not 13, 255, 0
+creations-chat 2020-03-22 03:14:20 ANYTHING but that
+plane-crazy 2020-03-22 03:17:06 can't tell...
+plane-crazy 2020-03-22 03:17:28 yea
+plane-crazy 2020-03-22 03:17:41 what is it though...
+plane-crazy 2020-03-22 03:18:24 <@!467459282250629120> is that supposed to be a two-fuselage jet?
+creations-chat 2020-03-22 03:24:01 lol
+bot-central 2020-03-22 03:31:05 ?shelp
+bot-central 2020-03-22 03:32:13 !servers
+bot-central 2020-03-22 03:32:17 ah
+general 2020-03-22 03:32:37 just a report...
+general 2020-03-22 03:32:46 nothing else will work
+general 2020-03-22 03:33:23 from what i know, the roblox mods check the chat and not whats going on in game...
+general 2020-03-22 03:33:35 lol
+general 2020-03-22 03:33:51 not quite sure of that one
+creations-chat 2020-03-22 03:34:32 lol
+creations-chat 2020-03-22 03:34:37 looks nice
+creations-chat 2020-03-22 03:35:00 oh pop up turrets
+creations-chat 2020-03-22 03:35:04 even better
+plane-crazy 2020-03-22 03:36:11 round nose
+plane-crazy 2020-03-22 03:36:33 lol
+plane-crazy 2020-03-22 03:36:48 oof
+plane-crazy 2020-03-22 03:37:00 sure
+plane-crazy 2020-03-22 03:37:04 restart it
+plane-crazy 2020-03-22 03:37:12 idk
+plane-crazy 2020-03-22 03:38:05 lol
+creations-chat 2020-03-22 22:39:10 you can't go wrong with a hydroplane, can you...
+creations-chat 2020-03-22 22:39:19 yeah
+creations-chat 2020-03-22 22:39:34 cool thing is, it works, and really well :)
+creations-chat 2020-03-22 22:39:46 i made a hydrofoil
+creations-chat 2020-03-22 22:40:17 it's unstable and kinda weird tho
+creations-chat 2020-03-22 22:40:46 uhh
+creations-chat 2020-03-22 22:40:49 wing below water
+creations-chat 2020-03-22 22:41:30 it doesn't have the same fluid dynamics as the real thing, and there's no computer system to correct the pitch of the foils, so you have to manually correct the pitch to make it stay above water
+creations-chat 2020-03-22 22:41:46 it's a lot of multitasking
+creations-chat 2020-03-22 22:41:59 especially if you want to drive it and keep steady
+creations-chat 2020-03-22 22:42:07 car
+creations-chat 2020-03-22 22:42:10 boat
+creations-chat 2020-03-22 22:42:11 plane
+creations-chat 2020-03-22 22:42:22 the second one might take you a bit to learn
+creations-chat 2020-03-22 22:43:27 well
+creations-chat 2020-03-22 22:43:30 it's hard to explain
+creations-chat 2020-03-22 22:47:44 eh
+creations-chat 2020-03-22 22:47:51 it would be easier in the game
+creations-chat 2020-03-22 22:48:15 cause the hull-building process is a watch-and-learn thing
+creations-chat 2020-03-22 23:04:53 mate
+creations-chat 2020-03-22 23:05:01 that's not really a hydrofoil
+creations-chat 2020-03-22 23:05:33 that's just a control surface dipped in water
+creations-chat 2020-03-22 23:06:27 a REAL hydrofoil:
+creations-chat 2020-03-22 23:07:35 
+creations-chat 2020-03-22 23:08:19 cool\
+creations-chat 2020-03-22 23:16:11 you've got good taste lol
+creations-chat 2020-03-22 23:18:31 sand flea time
+creations-chat 2020-03-22 23:23:40 <@!634770928865116164> boston dynamics sand flea
+creations-chat 2020-03-22 23:23:43 search it
+creations-chat 2020-03-22 23:23:46 it's really cool
+general 2020-03-22 23:46:07 how do you get the ranked role?
+bot-central 2020-03-22 23:48:04 &suggest a speed slider for pistons
+bot-central 2020-03-22 23:48:12 !shelp
+bot-central 2020-03-22 23:48:37 $help
+bot-central 2020-03-22 23:49:30 !help
+bot-central 2020-03-22 23:49:49 ?shelp
+bot-central 2020-03-22 23:49:56 ?rhelp
+help 2020-03-22 23:51:30 <@!218240161719386112> requesting VTOL engineer 1
+help 2020-03-22 23:51:35 
+help 2020-03-22 23:51:53 
+help 2020-03-22 23:52:18 
+plane-crazy 2020-03-23 00:49:49 e
+plane-crazy 2020-03-23 03:19:50 epic
+creations-chat 2020-03-24 02:31:21 why do people always make these aircraft and boats and carriers?
+creations-chat 2020-03-24 02:31:31 don't y'all have something more interesting to build?
+creations-chat 2020-03-24 02:31:51 instead of making real life recreations, why not do something you can't do in real life?
+creations-chat 2020-03-24 02:32:42 sure
+creations-chat 2020-03-24 02:32:42 yeah
+creations-chat 2020-03-24 02:32:54 walking bus sounds cool
+creations-chat 2020-03-24 02:33:00 combat walker?
+creations-chat 2020-03-24 02:34:04 yes
+creations-chat 2020-03-24 02:34:06 combat walker
+creations-chat 2020-03-24 02:34:20 but i'm still confused on how to make things walk
+creations-chat 2020-03-24 02:35:05 uh
+creations-chat 2020-03-24 02:35:10 more explanation?
+creations-chat 2020-03-24 02:35:28 fix locking tho
+creations-chat 2020-03-24 02:35:38 locked motors break physics
+creations-chat 2020-03-24 02:35:51 its like a normal thing for me now
+creations-chat 2020-03-24 02:37:59 pretty nice egoista
+creations-chat 2020-03-24 02:38:15 how do you get it to steer before the wheel motors spazz out?
+creations-chat 2020-03-24 02:38:30 whenever i build a car my wheel motors spazz out
+creations-chat 2020-03-24 02:38:35 i use motor 2s
+creations-chat 2020-03-24 02:38:39 on servo
+creations-chat 2020-03-24 02:39:05 and because of the driving force with my drive motor, the steering spazzes out
+plane-crazy 2020-03-24 02:46:04 uh
+plane-crazy 2020-03-24 02:46:11 judge this man's creation
+plane-crazy 2020-03-24 02:46:29 lmao
+plane-crazy 2020-03-24 02:48:24 lol
+plane-crazy 2020-03-24 02:48:47 this channel has turned into dissing little children for their stupid builds
+plane-crazy 2020-03-24 02:49:50 we need more tutorials
+plane-crazy 2020-03-24 02:49:53 in the game
+plane-crazy 2020-03-24 16:59:31 nice
+creations-chat 2020-03-24 17:02:45 someone make a shopping cart
+creations-chat 2020-03-24 17:04:02 sure
+creations-chat 2020-03-24 17:04:04 i'll try
+creations-chat 2020-03-24 17:04:10 shopping cart
+creations-chat 2020-03-24 17:04:13 and make it drift
+creations-chat 2020-03-24 17:04:28 <:pogey:651848693842182144>
+general 2020-03-24 17:17:24 2x1x1 motor when
+creations-chat 2020-03-24 17:18:44 what's it supposed to be?
+creations-chat 2020-03-24 17:20:22 k
+creations-chat 2020-03-24 17:20:45 "best plane ever" (THIS IS NOT MINE)
+creations-chat 2020-03-24 17:20:58 look at this horrifying mess
+creations-chat 2020-03-24 17:21:57 rick, this man's calling
+creations-chat 2020-03-24 17:22:35 uh
+creations-chat 2020-03-24 17:22:37 wrong channel?
+creations-chat 2020-03-24 17:24:16 whoops
+creations-chat 2020-03-24 17:24:24 well how can i delete it?
+creations-chat 2020-03-24 17:24:38 oh k
+creations-chat 2020-03-24 17:24:39 srry
+creations-chat 2020-03-24 17:24:48 lol
+creations-chat 2020-03-24 17:24:53 post?
+creations-chat 2020-03-24 17:24:55 kk
+creations-chat 2020-03-24 17:26:45 best plane ever mark 2
+creations-chat 2020-03-24 17:27:03 remember to downvote
+creations-chat 2020-03-24 17:27:31 :)
+creations-chat 2020-03-24 17:28:17 very aerodynamik, much plan
+creations-chat 2020-03-24 17:28:37 and his landing gear's sideways too
+plane-crazy 2020-03-24 17:30:04 lol
+plane-crazy 2020-03-24 17:30:44 
+plane-crazy 2020-03-24 17:30:50 legacy glass cringe rover
+creations-chat 2020-03-24 17:32:09 Damn The Torpedoes, from Hydro Thunder Hurricane.
+creations-chat 2020-03-24 17:33:21 custom color scheme, cause i couldn't be really precise with the painting tool
+creations-chat 2020-03-24 17:34:08 k
+bug-reports 2020-03-24 17:41:44 maybe try turning off "set controls automatically" and finding your own keybinds
+plane-crazy 2020-03-24 17:42:46 from what i hear mobile's really laggy
+plane-crazy 2020-03-24 17:58:35 <@456226577798135808> it's just not possible due to the coding
+plane-crazy 2020-03-24 17:58:38 of the game
+plane-crazy 2020-03-24 18:01:08 can someone help me make a hinge?
+plane-crazy 2020-03-24 18:01:19 i'm trying to fold my yacht
+plane-crazy 2020-03-24 18:12:55 input?
+plane-crazy 2020-03-24 18:12:58 it's not complete
+general 2020-03-24 18:16:24 lmao
+plane-crazy 2020-03-24 18:16:35 motor 2
+plane-crazy 2020-03-24 18:16:53 "how do you make the tail fin slant?" "Motors."
+plane-crazy 2020-03-24 18:21:06 lol
+bug-reports 2020-03-24 19:55:08 oh k
+general 2020-03-24 21:28:29 i love this game
+general 2020-03-25 00:22:51 yeah
+general 2020-03-25 00:22:56 motor 2 no settings
+plane-crazy 2020-03-25 00:24:18 lol
+plane-crazy 2020-03-25 00:24:33 **that's why you don't use pistons in a fold**
+plane-crazy 2020-03-25 01:52:04 can someone help me with aircraft noses?
+plane-crazy 2020-03-25 01:52:29 lmao
+plane-crazy 2020-03-25 01:52:40 #off-topic anyone
+bug-reports 2020-03-25 17:27:04 no
+creations-chat 2020-03-25 17:40:06 uh
+creations-chat 2020-03-25 17:40:19 i can get you a good rgb color for the grain
+creations-chat 2020-03-25 17:40:25 woah
+creations-chat 2020-03-25 17:40:34 that's certainly a better yacht than i can make
+creations-chat 2020-03-25 17:42:27 god i feel useless now
+plane-crazy 2020-03-25 17:47:05 25 million visits update
+creations-chat 2020-03-25 17:48:07 can i have some input on this? it's my first "big" plane build.
+creations-chat 2020-03-25 17:48:47 nice color scheme
+creations-chat 2020-03-25 17:49:03 the VTOL engines are a bit chunky though
+creations-chat 2020-03-25 17:49:39 yeah, but i can't fit the cockpit.
+creations-chat 2020-03-25 17:49:45 i tried
+creations-chat 2020-03-25 17:50:09 the cockpit is 3 wide
+creations-chat 2020-03-25 17:50:14 and so is my plane
+creations-chat 2020-03-25 17:50:26 k
+plane-crazy 2020-03-25 17:51:09 oh k
+plane-crazy 2020-03-25 17:51:49 thx
+plane-crazy 2020-03-25 17:52:43 making things look good isn't my forte
+plane-crazy 2020-03-25 17:54:42 this is the first time i've really been challenged by plane crazy
+plane-crazy 2020-03-25 17:54:51 hey, struggle well.
+plane-crazy 2020-03-25 17:58:32 i'm so much better at kerbal space program than this lol
+general 2020-03-25 18:01:50 *excited weeb noises*
+general 2020-03-25 18:07:16 lol
+plane-crazy 2020-03-25 20:54:28 how do i make something heavy get off the ground
+plane-crazy 2020-03-25 21:04:10 cool
+plane-crazy 2020-03-26 00:39:29 uh
+plane-crazy 2020-03-26 00:39:33 just do it?
+plane-crazy 2020-03-26 00:42:32 y'all got any methods of shifting your CoM backwards?
+plane-crazy 2020-03-26 00:42:53 i'm building a jet, and the CoM is wack
+plane-crazy 2020-03-26 00:43:30 the CoM bubble still doesn't shift though
+plane-crazy 2020-03-26 00:44:13 well it's because of the block itself, not its density
+plane-crazy 2020-03-26 00:44:37 plus, it just makes lifting the plane that much harder
+plane-crazy 2020-03-26 00:44:41 it's a VTOL
+plane-crazy 2020-03-26 00:45:07 it's gonna be too hevay
+plane-crazy 2020-03-26 00:45:09 *heavy
+creations-chat 2020-03-26 00:45:44 lmao
+plane-crazy 2020-03-26 00:45:54 **it's a vtol**
+plane-crazy 2020-03-26 00:46:04 vtols go up
+plane-crazy 2020-03-26 00:46:07 weight bad
+plane-crazy 2020-03-26 00:47:20 lol
+plane-crazy 2020-03-26 00:47:31 **massive brain**
+plane-crazy 2020-03-26 00:47:50 yes
+plane-crazy 2020-03-26 00:47:56 one person even asked me what a car was
+plane-crazy 2020-03-26 00:48:29 lol
+plane-crazy 2020-03-26 00:48:33 yeah
+plane-crazy 2020-03-26 00:49:00 it's really obvious when they start calling everybody "friend"
+plane-crazy 2020-03-26 00:49:55 yeah
+help 2020-03-26 00:51:05 there's really no "good" or "bad" in a game about building...
+creations-chat 2020-03-26 00:54:44 does chonk automatically get a reaction from dyno
+creations-chat 2020-03-26 00:54:48 *chonk*
+creations-chat 2020-03-26 00:54:54 oh
+creations-chat 2020-03-26 00:55:03 that explains it
+creations-chat 2020-03-26 00:55:09 ***chonk***
+creations-chat 2020-03-26 00:55:45 ||chonk||
+creations-chat 2020-03-26 00:56:02 c h o n k
+creations-chat 2020-03-26 00:56:10 c      h      o      n      k
+creations-chat 2020-03-26 00:56:50 c    h   o  n     k
+creations-chat 2020-03-26 00:56:59 c-honk
+creations-chat 2020-03-26 00:57:17 i have no idea
+creations-chat 2020-03-26 01:11:12 me
+plane-crazy 2020-03-26 01:13:27 **nice**
+bug-reports 2020-03-26 01:14:30 very science
+help 2020-03-26 01:14:38 yeah those are bad
+creations-chat 2020-03-26 01:21:28 lol
+plane-crazy 2020-03-26 01:21:46 uh
+plane-crazy 2020-03-26 01:22:00 how do you squeeze ever more thrust out of your thrusters
+help 2020-03-26 01:24:59 <@!252094891448860673>  requesting VTOL engineer 1
+help 2020-03-26 01:25:02 
+help 2020-03-26 01:25:11 
+help 2020-03-26 01:25:26 
+help 2020-03-26 01:26:21 
+help 2020-03-26 01:26:23 here you are
+creations-chat 2020-03-26 01:27:26 gun
+creations-chat 2020-03-26 01:27:34 cool im ranked now
+bot-central 2020-03-26 01:27:42 ?shelp
+plane-crazy 2020-03-26 01:29:48 uh
+plane-crazy 2020-03-26 01:30:02 perhaps try propeller rotors
+creations-chat 2020-03-26 01:36:31 lol
+creations-chat 2020-03-26 03:01:44 this looks really unimpressive, but it's a cool idea i came up with. This kinda serves as my test bed for the active aero system. It tilts the wing to exert a turning force on the wheels.
+creations-chat 2020-03-26 03:02:03 it looks really unimpressive, i know.
+creations-chat 2020-03-26 03:04:41 it does
+creations-chat 2020-03-26 03:04:49 cause it's a test bed, more or less
+creations-chat 2020-03-26 03:05:47 lol
+creations-chat 2020-03-26 03:08:43 OH GOD THE PAIN
+creations-chat 2020-03-26 03:08:52 mentally and physically
+creations-chat 2020-03-26 17:44:54 wack
+help 2020-03-27 01:45:31 glorified, absolutely terrible (in thrust), fan.
+creations-chat 2020-03-27 01:46:52 RGB?
+creations-chat 2020-03-27 01:47:09 also, i'd suggest using an RGB color picker, they're easy to use
+creations-chat 2020-03-27 01:47:21 and RGB works with plane crazy too
+creations-chat 2020-03-27 01:47:54 https://www.google.com/search?q=rgb+color+picker&rlz=1C1GCEA_enUS885US885&oq=rgb+color+picker&aqs=chrome..69i57j0l7.2394j0j7&sourceid=chrome&ie=UTF-8
+creations-chat 2020-03-27 01:47:58 pick your own
+creations-chat 2020-03-27 01:48:19 **just make your own colors**
+creations-chat 2020-03-27 01:48:59 why are you asking for help then
+creations-chat 2020-03-27 01:49:22 idk what you're looking for
+creations-chat 2020-03-27 01:49:42 what shade of green, what grey, what black
+creations-chat 2020-03-27 01:49:53 fine
+creations-chat 2020-03-27 01:50:00 i'm only happy with the RGB values
+creations-chat 2020-03-27 01:50:05 just use a color picker
+creations-chat 2020-03-27 01:50:08 it's not that hard
+creations-chat 2020-03-27 02:06:04 lol
+bot-central 2020-03-27 02:10:24 ?servers
+bot-central 2020-03-27 02:10:28 !servers
+help 2020-03-27 02:11:57 why am i unable to access the test server?
+help 2020-03-27 02:12:11 it says my rank is too low
+general 2020-03-27 02:14:29 who is the plane crazy test place even open to?
+general 2020-03-27 02:14:53 it kicks me
+general 2020-03-27 02:15:04 do i have to join the plane crazy group?
+general 2020-03-27 02:16:20 uh ok
+general 2020-03-27 02:16:42 i'm in one of the severely affected areas
+general 2020-03-27 02:19:22 it's technically a pandemic
+general 2020-03-27 02:19:34 *conspiracy theory time*
+general 2020-03-27 02:19:45 what if SARS was just a prototype bioweapon
+general 2020-03-27 02:19:50 and they just shut it down
+general 2020-03-27 02:20:12 and SARS-CoV-2 is the real virus designed to destroy humanity
+general 2020-03-27 02:20:31 **conspiracy theories**
+general 2020-03-27 02:21:00 yeah
+general 2020-03-27 02:21:01 idk
+general 2020-03-27 02:21:11 google search says its a pandemic
+plane-crazy 2020-03-27 02:21:26 oof
+general 2020-03-27 02:22:03 1. could use some more personality to the characters
+general 2020-03-27 02:22:31 "attempted our hardest" should be "tried our hardest" or "did everything we could"
+general 2020-03-27 02:22:52 errors usually come with numeric identifiers
+general 2020-03-27 02:22:58 or hexadecimal
+general 2020-03-27 02:23:30 computers don't give Y/N prompts
+general 2020-03-27 02:23:43 yeah ik
+general 2020-03-27 02:24:49 <@!299289130964090881> these characters are REALLY bland.
+general 2020-03-27 02:24:57 give 'em some slang
+general 2020-03-27 02:25:13 classic space pirate never hurt anyone
+general 2020-03-27 02:25:36 yeah, but we still speak english...
+general 2020-03-27 02:25:49 english isn't too much different from english
+general 2020-03-27 02:26:01 yeah, could use some refinement
+general 2020-03-27 02:26:11 make it mostly jargon to your reader
+general 2020-03-27 02:26:35 nothing else i can really complain bout
+general 2020-03-27 02:29:55 uh
+general 2020-03-27 02:29:57 ok
+general 2020-03-27 02:33:59 improved?
+general 2020-03-27 02:34:10 kk
+general 2020-03-27 02:34:38 few grammar issues...
+general 2020-03-27 02:34:50 it's fine :P
+general 2020-03-27 02:34:56 everyone makes mistakes
+general 2020-03-27 02:35:08 k
+general 2020-03-27 02:35:19 bit too much profanity...
+general 2020-03-27 02:35:37 lol
+general 2020-03-27 02:35:49 i expected as such
+general 2020-03-27 02:36:06 it's a lore document
+general 2020-03-27 02:36:28 is this a school project lmao
+general 2020-03-27 02:36:51 k
+general 2020-03-27 02:36:53 yeah
+general 2020-03-27 02:36:56 makes sense
+general 2020-03-27 02:37:07 change b*tch to she
+general 2020-03-27 02:37:22 kk
+general 2020-03-27 02:37:44 this is better than my peers can write lol
+general 2020-03-27 02:37:54 it's great
+general 2020-03-27 02:50:46 ```print```
+general 2020-03-27 02:50:47 hm
+general 2020-03-27 02:50:58 wack
+general 2020-03-27 02:51:20 ```print()```
+general 2020-03-27 02:51:28 program man
+general 2020-03-27 02:55:41 bruh y'all in vip server 1 made my game crash
+general 2020-03-27 02:55:53 **thanks....**
+general 2020-03-27 19:30:33 ooooooooooooof
+creations-chat 2020-03-27 19:34:00 gyrocopter looks really good
+plane-crazy 2020-03-28 00:19:39 uh
+plane-crazy 2020-03-28 00:19:46 input?
+plane-crazy 2020-03-28 00:19:53 it's mostly complete
+plane-crazy 2020-03-28 00:20:09 but the super rockets are half missing cause my computer is just that bad
+general 2020-03-28 00:21:50 strateg
+general 2020-03-28 00:22:21 honestly i feel like it would be better for TC3 if they hid some more crucial info
+general 2020-03-28 00:23:31 my internet's killing me
+plane-crazy 2020-03-28 00:24:06 woah
+creations-chat 2020-03-28 00:25:07 input on this VTOL jet?
+creations-chat 2020-03-28 00:25:12 it's mostly finished
+creations-chat 2020-03-28 00:25:32 and the super rockets broke cause my computer is bad
+creations-chat 2020-03-28 00:27:46 front looks wack
+creations-chat 2020-03-28 00:27:57 square to triangle just doesn't work
+creations-chat 2020-03-28 00:33:16 yeah
+creations-chat 2020-03-28 00:33:30 the hull doesn't look really realistic though
+creations-chat 2020-03-28 00:33:57 it doesn't curve towards the center
+creations-chat 2020-03-28 00:34:04 i could show with my yacht
+creations-chat 2020-03-28 00:34:17 in <#384021699466756107> , cause it's not complete
+plane-crazy 2020-03-28 00:37:36 fold
+plane-crazy 2020-03-28 00:41:30 god my internet's slow and i can't even launch plane crazy
+help 2020-03-28 01:52:57 what qualifies as a lag machine?
+general 2020-03-28 18:59:36 **a m a t e u r s**
+general 2020-03-30 18:17:52 yeah, he's underaged
+general 2020-03-30 18:18:13 that's how the verification system here works
+general 2020-03-30 18:18:30 yeah
+general 2020-03-30 18:18:37 a lot of them do though
+general 2020-03-30 18:19:07 is anybody else having roblox issues?
+general 2020-03-30 18:19:22 for me, the webpage just shows up as plain HTML
+general 2020-03-30 18:19:36 ok
+general 2020-03-30 18:19:48 no, it loads fast
+general 2020-03-30 18:20:00 it's just that it only loads the HTML
+general 2020-03-30 18:20:33 battery pack on the back of the suit would be cool
+general 2020-04-05 03:23:15 "oops wrong game"
+general 2020-04-05 03:23:55 lol
+general 2020-04-05 03:24:02 it's harder than you think
+general 2020-04-05 03:24:17 yes
+general 2020-04-05 03:24:22 this is built in creative
+general 2020-04-05 03:24:29 i just got back into it
+general 2020-04-05 03:24:36 used to have only 6 hrs
+general 2020-04-05 03:24:53 tbh FTD is just plane crazy but better
+general 2020-04-05 03:25:06 AI screws up a lot tho
+general 2020-04-05 03:25:22 lol
+general 2020-04-05 03:25:28 u ok man
+general 2020-04-05 03:25:35 whoop
+general 2020-04-05 03:25:42 u look like you're about to vomit
+general 2020-04-05 03:26:01 don't ask me how ik
+general 2020-04-05 03:26:15 well good luck not vomiting
+general 2020-04-05 03:26:37 kk
+plane-crazy 2020-04-06 21:28:12 how do you get the egg?
+plane-crazy 2020-04-13 21:46:19 input?
+plane-crazy 2020-04-13 21:46:27 it's a more... different hull design
+plane-crazy 2020-04-13 21:47:48 what's a conveyor drive?
+plane-crazy 2020-04-13 21:48:40 o
+plane-crazy 2020-04-13 21:48:42 lmao
+plane-crazy 2020-04-13 21:48:48 seems legit
+plane-crazy 2020-04-13 21:49:36 anybody got a compact folding mechanism?
+plane-crazy 2020-04-13 21:55:48 do you guys have any compact folding mechanisms?
+plane-crazy 2020-04-13 22:35:12 can someone explain pilot seats to me?
+plane-crazy 2020-04-13 22:35:20 i'm confused on what they do
+plane-crazy 2020-04-13 22:36:14 wow
+plane-crazy 2020-04-13 22:36:21 that's really not that useful
+plane-crazy 2020-04-13 22:40:24 it's too rear heavy
+plane-crazy 2020-04-13 22:40:38 yes
+plane-crazy 2020-04-13 22:40:52 CoM needs to be slightly in front of your CoL
+plane-crazy 2020-04-13 22:40:53 yeah
+plane-crazy 2020-04-13 22:40:54 that too
+plane-crazy 2020-04-13 22:41:03 np
+plane-crazy 2020-04-13 22:41:14 center of mass
+bot-central 2020-04-15 03:10:51 !shelp
+bug-reports 2020-04-15 03:41:13 i think it's a feature abt the locking
+bug-reports 2020-04-15 03:41:23 well a setting to turn it off would be nice
+help 2020-04-15 03:43:33 probably cause the blocks on said motor are connected to your main craft
+plane-crazy 2020-04-16 21:11:59 this game is a total masterpiece
+creations-chat 2020-04-16 21:14:48 no
+creations-chat 2020-04-16 21:14:54 it's in <#478584971670454284>
+creations-chat 2020-04-16 21:28:13 i have no idea what this is, all i know is that it's a sub.
+creations-chat 2020-05-05 20:33:14 could use the front machine guns like in the anime
+creations-chat 2020-05-05 20:33:32 it's rlly good tho
+creations-chat 2020-05-05 20:33:36 use a color picker
+creations-chat 2020-05-05 20:33:41 they're reliable
+creations-chat 2020-05-05 21:59:09 mental sanity levels decreasing
+creations-chat 2020-05-05 22:01:05 uh
+creations-chat 2020-05-05 22:01:12 it's' a lawnmower
+creations-chat 2020-05-05 22:01:15 also works for pvp
+creations-chat 2020-05-05 22:02:14 little blade on the bottom
+creations-chat 2020-05-05 22:07:18 thx
+creations-chat 2020-05-05 22:07:27 im losing sanity
+creations-chat 2020-05-05 22:28:17 lol
+bot-central 2020-05-05 23:19:15 !servers
+creations-chat 2020-05-05 23:34:36 h e l p
+creations-chat 2020-05-05 23:34:49 n- n- not the eyes
+creations-chat 2020-05-05 23:34:51 no
+creations-chat 2020-05-05 23:34:53 no
+creations-chat 2020-05-05 23:34:56 ow
+general 2020-05-07 00:04:57 lmao
+bug-reports 2020-05-07 00:07:35 yeah, i think it's the same thing that happens when you use custom wheels
+bug-reports 2020-05-07 00:07:51 if you have the motor 2 rotations speed up too high
+bug-reports 2020-05-07 00:07:55 it spazzes out
+bug-reports 2020-05-07 00:08:03 yea def
+bug-reports 2020-05-07 00:08:06 set it to like 1
+bug-reports 2020-05-07 00:08:14 no
+bug-reports 2020-05-07 00:08:22 it's not gonna help
+bug-reports 2020-05-07 00:08:36 just set it to 1 and leave it otherwise it spazzes out
+bug-reports 2020-05-07 00:08:47 motor speed 50 custom wheels are spazzy
+bug-reports 2020-05-07 00:08:54 like.. really spazzy
+bug-reports 2020-05-07 00:09:10 if setting it to 1 doesn't work then it's probably a bug
+bug-reports 2020-05-07 00:22:53 yea
+creations-chat 2020-05-07 00:25:25 yeah looks pretty good
+creations-chat 2020-05-07 00:25:45 better than what i'll probably make in my lifetime lol
+general 2020-05-09 23:58:48 what the heck
+general 2020-05-09 23:59:04 yeah lmao
+help 2020-05-18 20:33:43 can someone explain unpowered motors to me?
+help 2020-05-18 20:34:14 yeah, but when i try to make suspension out of them
+help 2020-05-18 20:34:18 it doesn't work
+bug-reports 2020-05-28 01:58:19 this happened, and the person who owns it isn't in the server
+bug-reports 2020-05-28 01:58:34 no F9 logs to be seen
+bug-reports 2020-05-28 01:58:41 this happened before i joined the server
+creations-chat 2020-06-19 04:36:05 very nice
+general 2020-07-12 04:31:40 same
+bot-central 2020-09-09 02:06:36 !servers
+creations-chat 2020-10-29 20:46:34 thoughts, opinions and suggested improvements?
+creations-chat 2020-10-29 20:47:35 <@!325875263336349696> some tank hull i made in a single day
+creations-chat 2020-10-29 20:51:44 please, never like your own post
+creations-chat 2020-10-29 21:05:58 lol
+creations-chat 2020-11-10 20:09:33 im not a big history nerd, and im pretty terrible at this game, first wip build in a while, input?
+creations-chat 2020-11-10 20:37:01 <@!655236433501618180> it's an me163, some german aircraft that used a rocket engine
+creations-chat 2020-11-10 20:41:39 look im not a history nerd <:WeirdChamp:670867805176070145> my numbers are great, it's a 263
+creations-chat 2020-11-10 20:44:38 yeah im oversimplifying the slope, just gonna edge the rear down, im not rebuilding the whole thing to be 4x4 <:pain:644301805534183464>
+creations-chat 2020-11-10 20:46:55 yeah this's how it looks rn
+creations-chat 2020-11-10 20:49:02 im gonna redo the wings with motor lock rn, motors aren't gonna be hidden but whatever, i'll just hide it on the belly of the plane
+creations-chat 2020-11-11 04:43:41 <@!774122294179135519> yeah everyone here's a jerk unless you're a god at building or build something that remotely looks like something historical and call it historical
+creations-chat 2020-11-11 04:45:22 well, he isn't wrong, but it's demoralizing to see 500 downvotes on your creation just because you posted a wip build, im only terrain / vtol I because i don't finish a lot of my creations, and i'm just burned out of the community that just shits on newer players just because they're newer to a block building game
+creations-chat 2020-11-11 04:47:34 maybe provide tips on how to improve or give constructive criticism instead of just saying "haha build sucks, downvoted" and just leaving
+creations-chat 2020-11-11 04:49:06 how easy is just pinging them and telling them to experiment with corner wedges and corner wedgeblocks? what can they do better on in their next build? seriously, if they're posting here, it means they're playing the game and want legitimate feedback on how to improve their builds, not some guy with designer v to come and say "haha trash build can't salvage go quit the game"
+creations-chat 2020-11-11 04:50:54 i can build fast but i'm terrible when it comes to creativity, the most i can do is just copy some existing historical aircraft, i'm terrible in terms of putting my thoughts onto the proverbial canvas
+creations-chat 2020-11-11 04:52:35 aaand, this is why i don't post here
+creations-chat 2020-11-11 04:54:18 <@!774122294179135519> as for advice, experiment with combinations of corner wedges and wedgeblocks, it'll get you far
+creations-chat 2020-11-13 22:45:54 input? this is probably the most technically challenging build i've done in a while, it's a just cause 3 imperator bavarium "tank"

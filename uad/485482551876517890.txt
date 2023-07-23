@@ -1,0 +1,88 @@
+The Tale of raptorblade (485482551876517890)
+creations-chat 2022-08-16 03:56:56 how do i post images in creations
+creations-chat 2022-08-16 03:59:01 i didn't see it calm down
+plane-crazy 2022-08-16 15:56:44 anyone know how to fit variable sweep wings to a plane like a MiG-23 or an F-14?
+plane-crazy 2022-08-16 15:57:13 no like
+plane-crazy 2022-08-16 15:57:32 how can you have a wing inside of a wing or 2 wings very close to the variable wing
+plane-crazy 2022-08-16 15:57:57 ah, i’ll try that thanks
+plane-crazy 2022-08-16 15:58:37 yeah but what about the motor that changes the sweep angle?
+plane-crazy 2022-08-16 15:59:27 motor 2s don’t let me change sweep angles well
+plane-crazy 2022-08-16 15:59:39 even setting a max angle
+plane-crazy 2022-08-16 15:59:43 they’re not
+plane-crazy 2022-08-16 16:00:00 motor 2s work with the mouse unless it’s a servo
+plane-crazy 2022-08-16 16:00:29 servo changes it back to the original sweep angle
+plane-crazy 2022-08-16 16:01:03 yeah but what if i need multiple angles
+plane-crazy 2022-08-16 16:01:17 like a variable sweep wing aircraft
+plane-crazy 2022-08-16 16:01:21 such as a MiG-23
+plane-crazy 2022-08-16 16:04:57 or a tomcat
+plane-crazy 2022-08-16 17:36:20 <:BIG1:588443768806703124><:BIG2:588443778554134540>
+plane-crazy 2022-08-16 17:36:45 <:BIG3:588443788721258534><:BIG4:588443798842114088>
+plane-crazy 2022-08-16 17:39:12 it’s difficult to get a plane that won’t sink when in the water at regular gravity while being maneuverable enough to be called a plane
+plane-crazy 2022-08-16 17:39:26 i’m referring to my He 51 B-2/H
+plane-crazy 2022-08-16 17:40:23 it’s one i got from a tutorial but i modified it to be the sea plane variant
+plane-crazy 2022-08-16 17:41:11 i only have 4 tutorial planes, the rest of mine aren’t from tutorials
+plane-crazy 2022-08-16 17:41:30 like my big Me 264 that can carry a nuke
+plane-crazy 2022-08-16 17:42:06 exactly
+plane-crazy 2022-08-16 17:42:39 my attempt at an F-14 ended up looking like an F-35 without VTOL and with variable swept wings
+plane-crazy 2022-08-16 17:43:23 nope
+plane-crazy 2022-08-16 17:43:29 not even close
+plane-crazy 2022-08-16 17:43:49 think of an F-35 with variable swept wings
+plane-crazy 2022-08-16 17:44:35 i also tried to make an A2D-1 but it looks like a Wyvern with 10 guns instead of 4
+plane-crazy 2022-08-16 17:46:01 it’s unstable with less sweep
+plane-crazy 2022-08-16 17:46:24 it does barrel rolls but it loses all of its energy while doing so
+plane-crazy 2022-08-16 17:46:51 i figured
+plane-crazy 2022-08-16 17:47:05 but i still wanted to try
+plane-crazy 2022-08-16 17:47:18 like i wanted to make a cannon but failed to make one with an auto loader
+plane-crazy 2022-08-16 17:47:48 it is
+plane-crazy 2022-08-16 17:48:44 as for my Me 264 with a nuke
+plane-crazy 2022-08-16 17:49:16 imagine a 264 with 6 propellers instead of 4, bigger wings, no gunners, and a gigantic yellow bomb under it
+plane-crazy 2022-08-16 17:50:12 looks more like a B-52 but with propeller engines instead of turbofans
+plane-crazy 2022-08-16 17:50:21 and with 2 vertical stabilizers
+plane-crazy 2022-08-16 17:50:40 mine is almost as big as one
+plane-crazy 2022-08-16 17:51:16 alright i’m gonna go because my phone’s at 4%
+plane-crazy 2022-09-09 13:17:02 you can make it so much simpler than that
+plane-crazy 2022-09-09 13:34:27 with 2
+plane-crazy 2022-09-09 13:35:03 1 motor for acceleration, 1 motor 2 for steering
+plane-crazy 2022-09-09 13:35:22 yes
+plane-crazy 2022-09-09 13:35:59 okay
+plane-crazy 2022-09-09 13:36:06 1 motor to speed your vehicle up
+plane-crazy 2022-09-09 13:36:15 is that better?
+plane-crazy 2022-09-09 13:36:38 where the wheel goes
+plane-crazy 2022-09-09 13:36:41 yes
+plane-crazy 2022-09-09 13:36:47 on each wheel
+plane-crazy 2022-09-09 13:37:10 maybe because you did it wrong
+plane-crazy 2022-09-09 13:37:59 okay what the fuck
+plane-crazy 2022-09-09 13:38:07 that is way too complicated
+plane-crazy 2022-09-09 13:38:19 i would understand a cannon with an auto loader
+plane-crazy 2022-09-09 13:38:44 that can still be simplified
+plane-crazy 2022-09-09 13:39:27 i created a P-38 that can run on just its propellers
+plane-crazy 2022-09-09 13:39:42 still very complicated
+plane-crazy 2022-09-09 13:40:15 to be honest you don’t need suspension
+plane-crazy 2022-09-09 13:41:20 yeah that’s why you don’t need it
+plane-crazy 2022-09-09 13:47:51 at least you’re honest
+plane-crazy 2022-09-09 13:48:11 i once made an excessively large plane meant to drop a nuke
+plane-crazy 2022-09-09 13:48:53 i had 12 4-propeller engines by the end of it
+plane-crazy 2022-09-09 13:48:58 the wings were massive
+plane-crazy 2022-09-09 13:49:20 and i wanted it to be very similar to a mix of the Me 264 and the Tu-95
+plane-crazy 2022-09-09 13:49:48 i made my MiG-21 look like a MiG-21 with a motor lock
+plane-crazy 2022-09-09 13:50:01 and here’s the best part
+plane-crazy 2022-09-09 13:50:06 it has an ejection seat
+plane-crazy 2022-09-09 13:50:31 but because of the ejection seat, i had to cut out part of the canopy
+plane-crazy 2022-09-09 13:51:25 time consuming if anything
+plane-crazy 2022-09-09 13:52:08 VTOL
+plane-crazy 2022-09-09 13:52:27 that’s crazy
+plane-crazy 2022-09-09 13:52:40 why isn’t it an F-35 that can actually VTOL?
+plane-crazy 2022-09-09 13:52:58 oh true
+plane-crazy 2022-09-09 13:53:37 i once tried to create a plane that had variable sweep wings
+plane-crazy 2022-09-09 13:53:51 it turned out looking like a poor copy of the F-35
+creations-chat 2022-09-16 03:14:20 oh really? what sucks about that is that it actually isn't, look at the A2D-1, Wyvern S4, TBM 940, etc. notice how they all have a **propeller** and not a jet/turbojet/turbofan on it
+creations-chat 2022-09-16 03:16:43 as for the wings, how else am i supposed to get a 2 striped wing design over a 1x4 delta wing?
+creations-chat 2022-09-16 03:18:47 over a 1x4 delta wing? how am i supposed to have 4 stripes on a single 1x4 delta wing?
+creations-chat 2022-09-16 03:21:21 no because that's an air breathing jet
+creations-chat 2022-09-16 03:23:26 the main thing you see is the propeller, not the hot air it exhausts backwards
+
+the engine isn't meant to look nice, it's meant to work properly which it does
+creations-chat 2022-09-16 03:25:55 probably because that's the only thing you know to use
+
+and again, it's not just for looks
+creations-chat 2022-09-16 03:28:25 i can make the wings better, but i ask again, how do i make wings with a striped pattern without breaking the build?

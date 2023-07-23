@@ -1,0 +1,21 @@
+The Tale of deltadeveloper (902169893850452018)
+general 2022-04-02 08:22:47 Hi
+general 2022-04-02 08:25:53 Can i use the jetpack on mobile?
+general 2022-04-02 08:26:24 Oof
+general 2022-04-05 18:40:48 How to send the suggestion?
+general 2022-04-05 18:41:05 ?shelp
+bot-central 2022-04-05 18:43:34 &suggest Please add Giant Wheels
+general 2022-04-30 06:40:42 Hi
+general 2022-04-30 06:40:51 How to send the suggestion?
+help 2022-04-30 06:41:51 How to send the suggestion?
+bot-central 2022-04-30 06:43:50 &help
+bot-central 2022-04-30 06:43:57 &cmds
+bot-central 2022-04-30 06:44:03 !help
+general 2022-04-30 06:44:49 But i cant
+general 2022-04-30 06:45:13 What is pin _-
+general 2022-04-30 06:45:58 Oh, i found the command of suggestion
+bot-central 2022-04-30 06:46:49 &suggest Please add more save slots
+bot-central 2022-04-30 06:47:27 &suggest [Please add more save slots]
+general 2022-04-30 06:48:09 Ok what is blacklist command?
+general 2022-04-30 06:48:28 !blacklist
+bot-central 2022-09-18 07:26:28 ?shelp

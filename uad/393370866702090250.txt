@@ -1,0 +1,331 @@
+The Tale of ginseng173 (393370866702090250)
+plane-crazy 2018-12-29 17:08:43 
+plane-crazy 2018-12-29 17:09:46 ?
+plane-crazy 2018-12-29 18:24:56 Hey how do i make homing missiles
+plane-crazy 2018-12-29 18:32:42 How to make homing missiles 😦 pls halp
+plane-crazy 2018-12-29 20:13:58 Man this game could have so many more weaponss
+general 2019-11-12 17:26:02 .
+help 2019-12-11 19:36:23 How are we supossed to make a plane rotor and the direction changing thing on its tail
+help 2019-12-11 19:36:31 I made a rotor
+help 2019-12-11 19:36:46 But it keeps spinning the heli with it
+help 2019-12-11 19:36:55 itself
+plane-crazy 2019-12-11 19:39:40 Anyone has a idea why my helicopter keeps spinning with my rotor and it wont work
+plane-crazy 2019-12-11 19:40:18 i did
+plane-crazy 2019-12-11 19:40:23 but it doesnt work
+plane-crazy 2019-12-11 19:41:02 Still doesnt work
+plane-crazy 2019-12-11 19:41:15 :
+plane-crazy 2019-12-11 19:41:32 propellor blades
+plane-crazy 2019-12-11 19:41:42 ?
+plane-crazy 2019-12-11 19:42:02 normal wings/
+plane-crazy 2019-12-11 19:42:03 ?
+plane-crazy 2019-12-11 19:42:47 I saw those kinda rotors
+plane-crazy 2019-12-11 19:43:05 the motors on each sides
+plane-crazy 2019-12-11 19:44:55 Do the motors on the rotor need to have the same inclination controls or inverted
+plane-crazy 2019-12-11 19:53:26 :/
+general 2020-02-08 19:38:43 What about a motor that would fulfill the job of both motors with the press of a button?
+general 2020-02-08 19:39:05 I mean the motor 2 is useful for when im driving the boat and using the turret
+general 2020-02-08 19:39:14 But bad for when its stationary
+general 2020-02-08 19:39:27 Servo
+general 2020-02-08 19:39:29 Whats that
+general 2020-02-08 19:39:32 I saw the setting
+general 2020-02-08 19:40:10 Ok
+general 2020-02-08 19:40:15 Ima go check it out thanks
+general 2020-02-08 19:41:05 hm
+general 2020-02-08 19:41:11 I checked it out
+general 2020-02-08 19:41:17 Its not what i was asking for
+general 2020-02-08 19:42:52 When im driving my boat and using the turret at the same time i have to use motor 2 to aim it well.When im not driving the boat it makes more sense to use motor 1 because the wasd ship control isnt used.Basically im asking for a motor that could become a motor 1 and motor 2 at the press of a button,motor 3?
+general 2020-02-08 19:43:22 Its hard to aim a turret with motor 1 while im also using wasd for control
+general 2020-02-08 19:43:33 Like try using wasd and qerf at the same time
+general 2020-02-08 19:44:00 Cool
+general 2020-02-08 19:44:23 But a motor that could change from motor 1 to motor 2 at the press of a button would be really useful
+general 2020-02-08 20:16:10 Could we have a motor that would become motor 1 or 2 at the click of a button
+general 2020-02-08 20:16:42 .
+general 2020-02-08 20:16:52 Motor 1 is useful when im not driving the boat around
+general 2020-02-08 20:16:58 for extra accuracy
+general 2020-02-08 20:17:08 Motor 2 is useful for when i am friving the boat
+general 2020-02-08 20:17:24 So i only use wasd instead of wasd and qerf for the turret too
+general 2020-02-08 20:18:03 It is when im not driving the boat
+general 2020-02-08 20:18:16 Motor 2 is harder to use but useful for when im driving it
+general 2020-02-08 20:18:36 no
+general 2020-02-08 20:18:47 Ok wait a second
+general 2020-02-08 20:20:49 Motor 1 is useful for when my boat is stationary.Motor 2 is useful for when my boat is moving so instead of having to use wasd for the boat and qerf for the turret i just use motor 2.Im asking for a motor i could use for a turret that would change from motor 1 to 2 and vice versa at the click of a button since motor 2 is harder to aim since i need high speed motors to keep up to planes and if i increase the speed too much it becomes hard af to aim.
+general 2020-02-08 20:21:00 Now go read noobs
+general 2020-02-08 20:21:31 What
+general 2020-02-08 20:21:36 If its faster i cant aim it
+general 2020-02-08 20:21:45 I literally said the faster it is the harder it is to aim it
+general 2020-02-08 20:22:00 Bruh i am not that stupid
+general 2020-02-08 20:22:36 If i increase the speed and i move slightly it moves too much
+general 2020-02-08 20:22:42 Optimal is 2.5
+general 2020-02-08 20:23:01 Who really lacks depth of perception here
+general 2020-02-08 20:23:05 No stupid
+general 2020-02-08 20:23:12 Mine is too light to wobble
+general 2020-02-08 20:23:45 Damn for the amout of ranks you have youre quite slow of mind
+general 2020-02-08 20:23:53 But ok i guess
+plane-crazy 2020-02-08 20:24:56 Motor 1 is useful for when my boat is stationary.Motor 2 is useful for when my boat is moving so instead of having to use wasd for the boat and qerf for the turret i just use motor 2.Im asking for a motor i could use for a turret that would change from motor 1 to 2 and vice versa at the click of a button since motor 2 is harder to aim since i need high speed motors to keep up to planes and if i increase the speed too much it becomes hard af to aim.
+general 2020-02-08 20:25:34 Do you need a picture to figure that out
+general 2020-02-08 20:25:40 The turret does not wobble at all
+general 2020-02-08 20:25:42 Its light
+general 2020-02-08 20:25:51 Very flexible
+general 2020-02-08 20:26:13 When im not moving the boat motor 1 is the best option
+general 2020-02-08 20:26:22 When i am moving motor 2 is the best option
+general 2020-02-08 20:26:39 You literally asked me to explain
+general 2020-02-08 20:26:53 I am setting up the parameters to explain that
+general 2020-02-08 20:26:56 But youre not letting me
+general 2020-02-08 20:27:04 Guess i can mute you
+plane-crazy 2020-02-08 20:27:26 Epic
+plane-crazy 2020-02-09 14:35:38 Why does my helicopter not work at full graphics but when i set it to 1 it works perfectly
+plane-crazy 2020-02-09 14:35:46 Lag?
+plane-crazy 2020-02-09 14:39:01 I know
+plane-crazy 2020-02-09 14:39:20 Often happens that when my boat goes at 150 speed its more like 90 or so
+plane-crazy 2020-02-09 15:26:18 hmm
+creations-chat 2020-02-09 17:52:50 iS THAT A SBD ?
+creations-chat 2020-02-09 17:52:54 caps
+creations-chat 2020-02-09 17:53:01 cool tho
+creations-chat 2020-02-09 17:54:12 flaps?
+creations-chat 2020-02-09 17:54:18 Or did it even have flaps
+creations-chat 2020-02-09 17:54:19 cause idk
+general 2020-03-21 16:25:43 How can i make dual propellers stop spinning my boat in circles
+general 2020-03-21 16:32:33 I did put the motors in the same direction
+general 2020-03-21 16:32:44 I use propellor blades
+general 2020-03-21 16:32:53 I tried all the ways of placing them
+help 2020-03-21 16:33:47 How can i make dual propellor helicopters
+help 2020-03-21 16:34:12 Like the propellors used in the v 22 osprey
+help 2020-03-21 16:34:34 Whenever i try to make them dual they start spinning my plane in one direction
+general 2020-03-21 17:36:15 This game could really use a bug fixing and performance improovement update
+general 2020-03-21 18:39:31 That
+general 2020-03-21 18:39:38 Is quite a stupid plane
+general 2020-03-21 18:39:57 If the enemy has incendiary bullets you will go boom boom
+creations-chat 2020-03-22 02:59:37 Someone needs to create a russian typhoon class <:pogey:651848693842182144>
+creations-chat 2020-03-22 03:00:40 <:OMEGALUL:528987216643489792>
+creations-chat 2020-03-22 03:00:55 Where is it
+creations-chat 2020-03-22 03:01:24 No i suck at making submarines
+creations-chat 2020-03-22 03:03:13 Like to make the submarine rise up and down you have to use those ballast blocks with stripes on them or something
+creations-chat 2020-03-22 03:03:20 Id imagine
+help 2020-03-22 21:58:22 What is a better weapon for a plane?Guns placed in front of each other to make a sort of laser when it fires or should weapons be spreaded across the plane
+help 2020-03-22 21:59:02 Ok
+help 2020-03-22 21:59:06 Thank you
+general 2020-03-25 19:03:30 Can someone suggest grenade launchers that can be turned in smoke ones
+general 2020-03-25 19:03:33 I cant
+general 2020-03-25 19:03:39 Or dont know how
+creations-chat 2020-03-28 18:58:00 How do you make a flying room that doesnt tip over :/
+creations-chat 2020-03-28 18:59:14 Bruh
+creations-chat 2020-03-28 18:59:16 I know
+creations-chat 2020-03-28 18:59:23 But one that goes up in the sky
+creations-chat 2020-03-28 18:59:35 Hover engines just go a bit above the ground
+creations-chat 2020-03-28 19:00:02 The thing tips over
+creations-chat 2020-03-28 19:00:19 Those dont fly
+plane-crazy 2020-04-01 12:30:28 ∆∆∆∆∆∆∆∆∆
+plane-crazy 2020-04-01 12:30:33 ∆∆∆∆∆__∆∆∆
+plane-crazy 2020-04-01 12:30:40 ∆∆
+plane-crazy 2020-04-01 12:30:55 ∆?
+plane-crazy 2020-04-01 12:31:29 ?∆∆∆∆?
+plane-crazy 2020-04-01 12:31:50 ∆∆∆∆∆∆∆∆∆∆__∆∆
+general 2020-04-06 10:49:38 Theres someone with a lag machine
+general 2020-04-06 10:49:40 On my server
+general 2020-04-06 10:50:14 
+general 2020-04-06 10:50:51 How do i upload video
+general 2020-04-29 21:18:54 Someone made a ph blimp
+general 2020-04-29 21:18:59 yes
+general 2020-04-29 21:19:01 white
+general 2020-04-29 21:19:02 orange
+general 2020-04-29 21:19:04 :
+general 2020-04-29 21:19:13 wait
+general 2020-04-29 21:19:14 right
+general 2020-04-29 21:19:28 am i allowed to post pics of that here
+general 2020-04-29 21:19:29 :/
+general 2020-04-29 21:19:33 k
+general 2020-04-29 21:19:36 the dump?
+creations-chat 2020-05-27 17:42:51 
+creations-chat 2020-05-27 17:42:58 
+creations-chat 2020-05-27 17:48:31 faced
+general 2020-05-27 17:58:24 y people bully me
+general 2020-05-27 17:58:29 i said its supossed to be
+creations-chat 2020-05-27 18:02:45 pvp enabled
+creations-chat 2020-05-27 18:02:48 whats that
+creations-chat 2020-05-27 18:02:53 button
+creations-chat 2020-05-27 18:06:08 pls ban
+general 2020-05-27 18:06:54 Yoo sea battles would be so cool
+general 2020-05-27 18:06:58 I saw that suggestion
+general 2020-05-27 18:07:12 Theres a sea battles suggestion
+general 2020-05-27 18:07:17 Upvote it pls
+creations-chat 2020-05-28 20:04:41 <@!551806781609869313> What can i improve on it if you dont like it
+creations-chat 2020-05-28 20:05:03 If you dislike my bomber what can i do to improve it
+creations-chat 2020-05-28 20:05:26 Considering you disliked all my different posts you kinda started looking a bit toxic towards me
+creations-chat 2020-05-28 20:05:33 its a light bomber
+creations-chat 2020-05-28 20:05:35 small
+creations-chat 2020-05-28 20:06:09 How would i make an internal bomb in a 3x3
+creations-chat 2020-05-28 20:06:20 Its light
+creations-chat 2020-05-28 20:06:23 Because its not big
+creations-chat 2020-05-28 20:06:56 who
+creations-chat 2020-05-28 20:08:26 Search the b 16
+creations-chat 2020-05-28 20:08:34 That fits on carriers
+creations-chat 2020-05-28 20:08:57 You can put 16 on a general sized one
+creations-chat 2020-05-28 20:09:03 Because thats a light bomber
+creations-chat 2020-05-28 20:09:15 As small as it gets
+creations-chat 2020-05-28 20:09:49 And that
+creations-chat 2020-05-28 20:09:52 the a20
+creations-chat 2020-05-28 20:09:55 Is a medium bomber
+creations-chat 2020-05-28 20:10:59 Damn i saw acid communities but this is the strongest
+creations-chat 2020-05-28 20:11:41 Most people i talked with talked like im nothing next to them
+creations-chat 2020-05-28 20:11:54 And he isnt the first
+creations-chat 2020-05-28 20:12:02 im here since 2019 i have multiple experiences
+creations-chat 2020-05-28 20:12:27 i guess
+general 2020-06-09 22:36:53 <@325638040670437376> name every plane <:Pinged:508027985190715457>
+creations-chat 2020-07-03 16:40:27 The plane looks rather simple
+creations-chat 2020-07-03 16:40:50 Like a few half blocks
+creations-chat 2020-07-03 16:40:59 and some wing panels
+creations-chat 2020-07-03 16:41:39 <@!654239873489960970>
+bot-central 2020-08-24 23:36:29 &suggest
+ Gun changes 
+(PvP)
+  
+Guns should be more configurable.
+For example you should be able to chance the bullets your gun shoots mm.From 7-40mm.The more you increase it the fire rate will be slower and each shot that hits will deal more damage.
+Ammo belt types: 
+Armor piercing bullets: These will deal more damage to a single block it hits 
+Incendiary:These would deal lower impact damage than AP bullets but would have a DoT which would give them more overall damage (Burning DoT) and they would affect a single block.They would also explode any fuel tanks they hit
+Hight explosive:These would deal damage to blocks in a radius of 3x3 with higher damage on the block that was hit and lower damage on its the edge blocks.They would deal lower damage on a single block but more overall counting in the edge blocks that are also by it compared to AP bullets.These should be much better at destroying wings or should deal more damage to them than AP bullets
+Tracers:Bullets that deal less damage than AP but leave a visible trace like current bullets do
+There are also a lot of other
+Belts:Unless its too hard to add these too it would be nice if you could customise the belts each of your guns shoots.For example:Ground targets belt:Bullet 1:AP 2:AP 3:AP 4:T
+Stealth:(Used for air to air combat):1:AP 2:AP 3:I 4:HE
+Air to air:1:AP 2:T 3:I 4:HE 
+Belts would be fired from bullet 1 to bullet XX there being a fair limit of 10 to belt ammunition customisation
+Guns should receive a damage buff as outside of having them stacked they deal very little damage making air to air combat reliant on rockets
+bot-central 2020-08-24 23:36:48 um
+bot-central 2020-08-24 23:36:49 ???
+bot-central 2020-08-24 23:36:52 it didnt work
+bot-central 2020-08-24 23:37:25 <@!468207489524039680> sorry for the ping but how do i make the suggestion go into the channel
+bot-central 2020-08-24 23:41:49 ok
+bot-central 2020-08-24 23:42:05 <@!340543153922768906> help pls?
+bot-central 2020-08-24 23:42:23 wow
+bot-central 2020-08-24 23:43:07 r/help
+bot-central 2020-08-24 23:43:20 ?rhelp
+bot-central 2020-08-24 23:43:36 ok
+bot-central 2020-08-24 23:43:38 thanks
+bot-central 2020-08-24 23:44:52 not to be mean but you could have at least said the suggestion was originally made by me
+bot-central 2020-08-24 23:45:02 <:BIG1:588443768806703124> <:BIG2:588443778554134540>
+general 2020-08-24 23:53:15 do mods not respond in dms?
+general 2020-08-24 23:53:27 literaly
+bot-central 2020-08-24 23:53:51 <@!335599526414909451> theres a suggestion i made that got posted by someone else.Not a problem as he wanted to help but i wanna post it myself im gonna get a rank to do that soon.If you could delete the suggestion in the suggestion channel i would appreciate it.You can check the bot commands channel to actually see i suggested it first
+general 2020-08-24 23:55:12 so i actually have to ping you in here
+general 2020-08-24 23:55:14 to respond
+general 2020-08-24 23:55:20 mod*
+general 2020-08-24 23:55:21 s
+general 2020-08-24 23:55:38 <@!335599526414909451> 4 theres a suggestion i made that got posted by someone else.Not a problem as he wanted to help but i wanna post it myself im gonna get a rank to do that soon.If you could delete the suggestion in the suggestion channel i would appreciate it.You can check the bot commands channel to actually see i suggested it first
+general 2020-08-24 23:56:38 bruh?Why arent you responding to me though
+general 2020-08-24 23:57:14 purified
+general 2020-08-24 23:57:20 why arent you responding to me though
+general 2020-08-24 23:58:01 ,
+general 2020-08-24 23:58:09 do i not exist in every mods eyes???
+general 2020-08-24 23:58:29 .
+general 2020-08-24 23:58:37 i  pinged him
+general 2020-08-24 23:58:45 and im tryna talk to him rn
+general 2020-08-24 23:58:54 already did <@!163143541160148992>
+general 2020-08-24 23:59:03 https://discord.com/channels/384021699466756103/497142796961054721/747605067825152010
+general 2020-08-24 23:59:05 here
+general 2020-08-24 23:59:22 theres a suggestion i made that got posted by someone else.Not a problem as he wanted to help but i wanna post it myself im gonna get a rank to do that soon.If you could delete the suggestion in the suggestion channel i would appreciate it.You can check the bot commands channel to actually see i suggested it first <@!335599526414909451>
+general 2020-08-25 00:00:52 y tho
+general 2020-08-25 00:01:45 ok i guess mods sleeping hard <:wait:652565313337950230>
+general 2020-08-25 03:41:00 One question.Can exploiters use admin commands?
+general 2020-08-25 03:41:21 A random hbt guy was able to
+general 2020-08-25 03:41:26 no proof and im not acussing anyone
+general 2020-08-25 03:41:33 but literally did :follow on me
+general 2020-09-01 11:43:50 does the move tool (button 4) work for any of you?
+general 2020-09-01 11:44:06 what planes are those
+general 2020-09-01 11:44:11 they look epic
+plane-crazy 2020-09-01 11:44:23 does the move tool (button 4) work for any of you?
+plane-crazy 2020-09-08 01:53:15 Why do so many people call parachutes in the back of your plane airbrakes
+plane-crazy 2020-09-08 01:53:20 😐
+plane-crazy 2020-09-08 01:53:53 Parachutes are not airbrakes please stop
+plane-crazy 2020-09-08 01:54:34 Airbrakes are vertical or almost vertical wings generally coming out of a planes back
+plane-crazy 2020-09-08 01:54:42 With the purpose to slow down the plane
+plane-crazy 2020-09-08 01:55:17 Use pistons?
+plane-crazy 2020-09-08 01:55:44 Neither did i ever make a sliding door
+plane-crazy 2020-09-08 01:55:59 But try using pistons
+plane-crazy 2020-09-08 01:56:32 Put 1 piston on the edge of the wall
+plane-crazy 2020-09-08 01:57:00 Idk
+general 2020-09-14 13:20:43 <:pogey:651848693842182144>
+general 2020-09-14 13:21:14 <:Pinged:508027985190715457>
+plane-crazy 2020-09-15 18:40:54 where do we report people at
+plane-crazy 2020-09-15 18:41:16 whut
+plane-crazy 2020-09-15 18:41:32 so all i can do is leave the server?
+plane-crazy 2020-09-15 18:42:23 <:KEKW:670310537300672528>
+plane-crazy 2020-09-17 08:47:33 How do you even make a propleller blade vtol
+plane-crazy 2020-09-17 08:47:45 with capabilites of both modes obv
+plane-crazy 2020-09-17 08:47:49 plane and helicopter
+plane-crazy 2020-09-17 08:48:02 if  you have ballasts in the front for helicopter mode it cant do plane
+plane-crazy 2020-09-17 08:48:06 and vice versa
+plane-crazy 2020-09-17 08:54:55 cutter bugs suck
+plane-crazy 2020-09-17 08:55:08 and so do the people that do videos with how to do them on youtube
+general 2020-10-01 07:38:52 Are conveyor engines considered a glitch
+general 2020-10-01 07:39:11 Oof
+general 2020-10-10 16:35:44 i literally joined a pvp server
+general 2020-10-10 16:35:50 and my progress got undone
+general 2020-10-10 16:35:56 fuck adopt me
+general 2020-10-10 16:36:05 https://tenor.com/view/loltyler1-gamer-rage-rage-tyler1-one-gif-13273426
+general 2020-10-10 16:37:55 ayo
+general 2020-10-10 16:38:02 adopt me gone from the front page
+general 2020-10-10 16:38:10 their servers crashed
+general 2020-10-10 16:38:16 or something
+general 2020-10-10 16:38:24 Adopt me literally gone from front page
+general 2020-10-10 16:38:56 adopt me got deleted or something
+general 2020-10-10 16:39:20 adopt me gone
+creations-chat 2020-10-10 16:45:20 My plane crazy data when adopt me updates https://tenor.com/view/thanos-avengers-dust-dissolve-gif-16965356
+creations-chat 2020-10-10 16:46:42 same
+creations-chat 2020-10-10 16:47:04 but mine were planes not ships.I hope i dont lose the piper cherokee and cessna 210 i made today
+creations-chat 2020-10-10 22:28:17 <@492887853702053898> *Proud communist noises*
+creations-chat 2020-10-10 22:29:44 😐
+creations-chat 2020-10-10 22:30:01 <:JumboJet:559121641355870220>
+plane-crazy 2020-10-10 22:34:56 So rick working on a new map rn or is it just plans for now
+plane-crazy 2020-10-10 22:35:24 Also how to you puy images on planes
+plane-crazy 2020-10-10 22:35:39 Some way to import images from roblox and put them on signs or
+creations-chat 2020-10-13 07:36:30 <@!492887853702053898> that the house from that cartoon.Bear and lemmings?
+general 2020-10-13 17:34:58 how do you turn with custom wheels
+general 2020-10-13 17:35:03 fabric cylinders
+general 2020-10-13 17:35:12 motor on the front wheels?
+general 2020-10-13 17:35:32 ohh
+general 2020-10-13 17:35:41 ok ill try that thanks a ton
+general 2020-10-13 18:06:31 people saying other people are acting below 13 to get them banned
+general 2020-10-13 18:06:44 <:WeirdChamp:670867805176070145>
+general 2020-10-14 16:28:00 E
+general 2020-10-15 09:06:44 manual airplane controls be like:+1000 speed -9999 accuracy
+creations-chat 2020-10-16 08:55:19 how did you make that
+plane-crazy 2020-10-16 10:42:23 what should you use to hunt submarines
+plane-crazy 2020-10-16 10:42:31 tnt with ballast blocks attatched to them?
+help 2020-10-18 14:11:50 > Super rocket and normal rocket
+<@!738764962377367552> you need to use manual controls
+help 2020-10-18 14:12:26 automatic control surfaces are garbage and glitchy make them manual
+help 2020-10-18 14:12:32 back wing s w
+help 2020-10-18 14:12:40 left a d
+help 2020-10-18 14:12:43 right d a
+help 2020-10-18 14:13:06 or invert for left and right idk
+plane-crazy 2020-11-01 22:12:52 When you spent 5 hours woking on a massive battleship
+plane-crazy 2020-11-01 22:13:17 But a small plane that took 15 minutes to build with 4 bombs cuts you in half in 10 seconds
+plane-crazy 2020-11-01 22:13:39 <:KEKW:670310537300672528>
+plane-crazy 2020-11-02 06:41:20 Pog plane
+plane-crazy 2020-11-05 10:33:28 Is the game that hardcoded
+plane-crazy 2020-11-05 10:33:43 I dont remember when the last consistent update was
+plane-crazy 2020-11-05 10:34:28 Months ago ?
+plane-crazy 2020-11-05 10:35:10 Never**
+plane-crazy 2020-11-05 10:35:46 I remember no updates that deliver anything more than 1 block in months time
+general 2020-11-06 18:36:56 so uh
+general 2020-11-06 18:36:59 who takes reports?
+general 2020-11-06 18:37:14 who do i report people to
+general 2020-11-06 18:37:44 ayy
+general 2020-11-06 18:37:59 <@!596386059986927647> hello
+general 2020-11-06 18:38:54 who do you send reports to
+plane-crazy 2020-11-06 18:41:12 who do you report lag machines to
+plane-crazy 2020-11-06 18:41:33 aight guess i'll leave the server
+plane-crazy 2021-02-21 00:14:27 When is the winter event ending
+plane-crazy 2021-02-21 00:14:37 Please my fps are going negative
+plane-crazy 2021-02-21 00:15:22 🤡
+plane-crazy 2021-02-21 00:15:55 not everyone has an i5 and gpu
+plane-crazy 2021-02-21 00:17:08 wait what fr?
+plane-crazy 2021-02-21 00:17:12 ima go check
+plane-crazy 2021-02-21 00:20:26 https://tenor.com/view/ok-and-gif-19051857
+plane-crazy 2021-02-21 00:20:40 also thanks for the tip
+plane-crazy 2021-02-21 00:20:48 removing the particles made it better
+plane-crazy 2021-02-21 00:20:53 appreciate it man
+general 2021-06-21 21:36:10 rewrite update?
+general 2021-06-21 21:36:28 oki

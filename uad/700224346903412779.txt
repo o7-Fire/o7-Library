@@ -1,0 +1,14 @@
+The Tale of DV7 (700224346903412779)
+bug-reports 2021-09-08 12:44:42 Excuse me I have a report
+bug-reports 2021-09-08 12:54:00 When I tried to make the chomping mechanism for my Beyblade, the Beyblade yeetes itself in a random direction when closing the jaws with a piston facing down.
+Steps: make a 5×5 cylinder and 2 1×1 cylinders on too of each other, with some rockets to rotate it. Put a facing down piston on toggle with another 5×5 on it. Spin it and Toggle the piston up and down.
+Username: Zzuhaili
+Save slot: 34 (Smasher)
+bug-reports 2021-09-08 12:55:24 I tried following the guidelines through the pinned messages, hope I didn't mess up :p
+help 2021-10-19 10:07:23 Yo what does Legacy settings on a rocket do?
+general 2021-11-07 07:38:21 Meanwhile on land:
+bug-reports 2022-05-29 10:35:37 guys my motors keep on moving by itself, even when im not pressing any keys. any of you guys face this problem too?
+bug-reports 2022-05-29 10:49:56 as in?
+bug-reports 2022-05-29 10:53:08 why tho
+bug-reports 2022-05-29 10:53:28 how is it supposed to be "balanced"
+bug-reports 2022-05-30 01:22:08 Is this intentional?

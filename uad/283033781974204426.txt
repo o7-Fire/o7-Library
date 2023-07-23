@@ -1,0 +1,43 @@
+The Tale of aether.o (283033781974204426)
+plane-crazy 2018-10-20 20:51:43 How do you pull up?
+plane-crazy 2018-10-20 21:10:26 how do you make a plane pull up???
+plane-crazy 2018-10-20 21:11:19 I tried and the parts I put on them fall of
+plane-crazy 2018-10-20 21:11:55 No when I hit the key nothing happens
+plane-crazy 2018-10-20 21:12:19 
+plane-crazy 2018-10-20 21:16:38 So how should I fix it from this new image
+plane-crazy 2018-10-20 21:16:49 
+plane-crazy 2018-10-20 21:17:57 how does one fix the center of lift
+plane-crazy 2018-10-20 21:26:51 so like this?
+plane-crazy 2018-10-20 21:26:58 
+plane-crazy 2018-10-20 21:29:52 All this plane does is do a flip
+plane-crazy 2018-10-20 21:31:14 No, I think I just need to add weight to the front
+plane-crazy 2018-10-20 21:31:39 its not the controls, but when the prop is on it flips
+plane-crazy 2018-10-20 21:33:20 Problem was lift was too far forward
+plane-crazy 2018-10-21 20:38:48 Anyone know how to make a railgun like object
+plane-crazy 2018-10-21 20:50:28 If your plane keeps doing backflips whenever it takes off, what would the problem be?
+plane-crazy 2018-10-21 20:50:58 Ok thanks
+general 2018-10-21 22:26:16 I made a object that launches characters at 200)+ speeds
+general 2018-10-21 22:29:39 I called it the magnet hopper
+general 2018-10-21 22:30:16 
+general 2018-10-21 22:49:46 I got it to go so fast  Icouldnt even see the speed anymore
+plane-crazy 2018-10-22 04:25:27 I think its a miracle that this plane I made actually flies
+plane-crazy 2018-10-24 20:10:48 What’s in the new update
+plane-crazy 2018-10-24 20:11:07 No the one that was announcements
+plane-crazy 2018-10-24 20:11:19 K thanks
+plane-crazy 2018-10-24 20:19:07 I’m putting a super rocket engine on my VTOL
+plane-crazy 2018-10-24 20:19:44 It will be all the lift
+plane-crazy 2018-10-24 20:19:57 Everything I need in 1 ride
+plane-crazy 2018-10-24 20:21:09 *chains 6 together in a line attached to a rope and a seat
+plane-crazy 2018-11-04 04:04:19 ¯\_(ツ)_/¯
+plane-crazy 2019-08-16 20:31:52 anyone know where to find the items in the update
+plane-crazy 2019-08-16 20:41:47 Where do I find the water wheel
+plane-crazy 2019-08-16 20:44:32 is there a pontoon back end or just front and middle
+plane-crazy 2019-08-16 20:46:30 where is pontoon eend
+plane-crazy 2019-08-16 20:46:41 pontoon
+bug-reports 2019-08-17 05:32:11 Every time I load my plane in, it glitches and nothing works, I've tried waiting, I've tried switching servers
+plane-crazy 2019-08-17 05:38:57 Yo so every time i load in my plane, the landing gears are spasming and nothing works
+plane-crazy 2019-08-17 05:39:02 thats very uncool
+plane-crazy 2019-08-17 05:39:59 Who?
+plane-crazy 2019-08-17 05:40:54 lol k
+bug-reports 2019-08-17 05:45:10 https://gyazo.com/e0e1d7a3a8ce734ddd935403e31ad14a
+plane-crazy 2019-08-19 16:44:28 why are plane load times so poor now

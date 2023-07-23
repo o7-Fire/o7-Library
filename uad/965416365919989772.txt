@@ -1,0 +1,21 @@
+The Tale of notsogga (965416365919989772)
+general 2022-12-19 10:13:27 How do I get image perms
+bug-reports 2022-12-26 21:25:41 I am building a triangle ufo right now and i do not see the center of lift or mass. I have not added any blocks since i last saw them appear, but now i no longer see them where they were.
+bot-central 2022-12-26 21:27:52 ?shelp
+bot-central 2022-12-26 21:30:56 &suggest New Gamepass
+bot-central 2022-12-26 21:31:10 ?rhelp
+bug-reports 2023-01-06 07:04:57 I'm not sure if this is just a problem on mobile but sometimes when I'm making the plane it will fling itself into the 4th dimension when I try to spawn it due to the wing panels
+bug-reports 2023-01-13 07:43:22 Not sure if this is a bug or a building error but when i try to use angle lock via springs, the peg of the bottom motor locks into the top motor of the two motors in the motor lock, leaving a space between the bottom of the two pegs and the base of the bottom motor which removes the weld to the cylinder in the center and removes its functionality. Using the exact same mechanism just yesterday did not have this problem, and even after building the mechanism the same way it was yesterday it didn't work,and when i release the lock it looks like the same as motor lock would after locking, except that there would be three of them 2 blocks in height away from each other. Would add a screenshot but i have to get rank 3 for image perms when i barely use this server <:nooo:787097964946259978>  If anyone else had this problem react with ✅
+bug-reports 2023-01-13 08:02:51 Posting a screenshot in <#478584971670454284> bc I cant post it here <:nooo:787097964946259978>
+help 2023-01-13 08:10:52 Anyone know why this happens? I built this exact mechanism yesterday and the motors didn't glitch. They also will not lock correctly
+help 2023-01-13 09:06:46 Alright i will try it tommorow
+help 2023-01-17 01:51:48 These motors will not lock completely. Any idea on how to fix this? Also if it is important the build has no anchor blocks.
+help 2023-01-17 02:00:50 Problem solved there was a half wedge i accidentally placed welding the motors to the wall preventing them from locking
+help 2023-01-22 20:44:47 Why did i just get flagged for spamming for trying to edit something
+bug-reports 2023-02-15 03:32:43 I am experiencing an audio bug. The audio only plays the first time I load in my build. It never plays after that until I join a new server. It may be the specific audio but I am not sure
+bug-reports 2023-02-15 03:35:44 Another thing is I have two builds using the audio and the same bug happens with both of them
+bug-reports 2023-02-15 03:52:23 How do I fix it
+help 2023-04-15 22:14:38 Is there a way I can make these wheels touch the treads without changing the wheels? They won’t spin the treads
+help 2023-04-15 22:47:47 If you mean the ones on the corner wheels they are already at max length
+help 2023-04-16 00:02:32 <@695737395961659464>  I tried it and even tried changing the wheels but it still isn’t working and the outer two just won’t spin
+help 2023-04-16 00:03:27 I also have a bigger tank using the same wheels and treads and it works but besides the length of the treads there is no difference

@@ -1,0 +1,102 @@
+The Tale of .whatchamacallit. (881158674561790013)
+the-dump 2023-06-15 03:16:30 i wonder what that music video actually is
+plane-crazy 2023-06-15 10:39:23 guys
+plane-crazy 2023-06-15 10:39:35 my missiles can go through my own blocks right?
+plane-crazy 2023-06-17 08:43:45 goodness
+plane-crazy 2023-06-17 08:45:01 jets are so loud man
+plane-crazy 2023-06-17 08:46:19 no not jets
+plane-crazy 2023-06-17 08:46:20 rockets
+plane-crazy 2023-06-17 08:47:07 is there a way to just not hear other people?
+plane-crazy 2023-06-17 09:07:55 any way for me to connect a bunch of blocks together without having to rebuild the other part?
+plane-crazy 2023-06-17 09:09:58 this game is really lacking in the QOL department
+plane-crazy 2023-06-17 09:16:39 not in a way that it's a bit hard to understand which does what
+plane-crazy 2023-06-17 09:16:49 building is pretty straightforward
+plane-crazy 2023-06-17 09:17:02 it just FUCKING SUCKS to try and build something
+plane-crazy 2023-06-17 09:18:22 working with wedges suck ass unless you paint it in a different color
+plane-crazy 2023-06-17 09:19:17 cant move a group of parts
+plane-crazy 2023-06-17 09:19:59 so you have to build the entire damn thing if ever you need to move it
+plane-crazy 2023-06-17 09:21:16 wait until plane crazy 2
+plane-crazy 2023-06-17 09:22:03 wait until never
+plane-crazy 2023-06-17 09:22:26 what?
+plane-crazy 2023-06-17 09:23:52 god forbid you ever make a mistake while building
+plane-crazy 2023-06-17 09:28:07 the most build of all time
+plane-crazy 2023-06-17 09:29:41 imagine if there's all kinds of wedges in those
+plane-crazy 2023-06-17 09:29:47 it'd be hell bro
+plane-crazy 2023-06-17 09:38:19 just use magnets and have both ends weld
+plane-crazy 2023-06-17 09:46:06 is it legal?
+plane-crazy 2023-06-17 10:23:22 how do cutters work exactly?
+plane-crazy 2023-06-17 10:23:53 like, does damage dealt scale with the speed that the cutter is currently moving at?
+plane-crazy 2023-06-17 10:46:54 so i could like, make underwater drills
+plane-crazy 2023-06-17 10:47:12 have them like underwater mines
+plane-crazy 2023-06-17 10:47:30 but put a propeller at the bottom
+plane-crazy 2023-06-17 10:47:50 and just poke a hole under an enemy boat
+plane-crazy 2023-06-17 10:48:06 by disconnecting and activating a jet
+plane-crazy 2023-06-17 10:48:10 unfortunately
+plane-crazy 2023-06-17 10:48:17 you cant put rockets on toggle
+plane-crazy 2023-06-17 10:48:41 anyway
+plane-crazy 2023-06-17 10:49:07 so you're basically saying that they deal consistent damage
+plane-crazy 2023-06-17 10:49:35 underwater shredder drone mines
+plane-crazy 2023-06-17 10:49:37 or whatever
+plane-crazy 2023-06-17 10:51:53 shredder torpedoes
+plane-crazy 2023-06-17 10:54:17 if only there was something that you could toggle to keep moving
+plane-crazy 2023-06-17 10:54:32 and move forward
+plane-crazy 2023-06-17 10:54:43 like if propellers had a toggle option
+plane-crazy 2023-06-17 11:01:18 dude
+plane-crazy 2023-06-17 11:01:29 why are you making a giant gun?
+plane-crazy 2023-06-17 11:35:25 how do bigger submarines submerge?
+plane-crazy 2023-06-17 11:35:42 thrusters facing downwards or more ballast tanks?
+plane-crazy 2023-06-17 11:39:43 does it shoot already?
+plane-crazy 2023-06-17 11:46:18 was wondering why blocks had a density of 0.28
+plane-crazy 2023-06-17 11:46:39 also, why is the ballast block density not a multiple of 0.28?
+plane-crazy 2023-06-17 11:47:04 you can test for the density yourself
+plane-crazy 2023-06-17 11:47:18 i tested using helium blocks
+plane-crazy 2023-06-17 11:48:04 also how i know that 1 helium block can carry 8 blocks
+plane-crazy 2023-06-17 11:48:57 a helium block stops going up after 8 blocks
+plane-crazy 2023-06-17 11:49:14 9 blocks, the helium block is on the ground
+plane-crazy 2023-06-17 11:53:02 wait no it's actually 10
+plane-crazy 2023-06-17 11:54:36 after 9 blocks, the helium block starts getting affected by gravity
+plane-crazy 2023-06-17 11:54:47 9 blocks and a half, it glides
+plane-crazy 2023-06-17 12:47:42 what are you ejecting?
+plane-crazy 2023-06-17 12:48:08 how are you gonna separate the shell and the bullet?
+plane-crazy 2023-06-17 13:46:37 guys
+plane-crazy 2023-06-17 13:46:49 what's the fastest way to move a large object in plane crazy?
+plane-crazy 2023-06-17 13:47:37 
+plane-crazy 2023-06-17 13:47:43 about this big
+plane-crazy 2023-06-17 13:50:51 fuck i give up
+plane-crazy 2023-06-17 13:51:10 third time i accidentally loaded a save instead of overwriting
+plane-crazy 2023-06-17 13:55:36 is hover engine bad or is it conveyor engine?
+plane-crazy 2023-06-17 13:55:45 rocket engines loud as fuck
+plane-crazy 2023-06-18 02:32:14 i MUST build a BTR-70
+plane-crazy 2023-06-18 02:46:40 yes i MUST
+plane-crazy 2023-06-18 03:03:18 what's good suspension configs for a heavy offroad vehicle?
+plane-crazy 2023-06-18 03:03:25 high damping and low stiffness?
+plane-crazy 2023-06-18 03:15:52 i give up
+plane-crazy 2023-06-18 03:31:31 but say
+plane-crazy 2023-06-18 03:31:34 i was a submarine
+plane-crazy 2023-06-18 03:31:42 and i deploy an upwards facing cutter
+plane-crazy 2023-06-18 03:31:46 at the bottom of a boat
+plane-crazy 2023-06-18 03:32:13 theoretically, i should be able to "drill" a hole under that boat right?
+plane-crazy 2023-06-18 04:08:43 
+plane-crazy 2023-06-18 04:08:45 giant gun
+plane-crazy 2023-06-18 04:09:12 torque is at max
+plane-crazy 2023-06-18 04:09:33 for these motors
+plane-crazy 2023-06-18 04:09:41 yet it only either faces up or down
+plane-crazy 2023-06-18 04:09:45 probably too heavy?
+general 2023-06-18 05:34:17 you guys know any roblox stealth games that isn't entry point or notoriety?
+general 2023-06-18 05:36:17 that's a thing?
+general 2023-06-18 05:36:52 no such thing
+general 2023-06-18 05:36:56 get back here
+general 2023-06-18 05:37:51 there's like, one dead game
+general 2023-06-18 05:37:58 and several hide n seek games
+general 2023-06-18 05:40:16 framed is nearly dead
+general 2023-06-18 05:40:28 in plain sight 2 feels like everyone's hackin
+general 2023-06-18 05:50:49 i'll check it out
+general 2023-06-18 05:56:43 well damn
+general 2023-06-18 06:01:49 i didnt wanna play this game because shit pc
+general 2023-06-18 06:01:52 and i was right
+general 2023-06-18 06:02:05 took 3 minutes to connect
+general 2023-06-18 06:02:13 and it still has to load player data
+general 2023-06-18 06:03:08 if this game was hardcore and i have to rejoin everytime i die
+general 2023-06-18 06:03:13 i aint playing this game
+general 2023-07-07 06:56:26 blackname activity gif
+general 2023-07-07 06:57:13 your name is black yo

@@ -1,0 +1,4 @@
+The Tale of conemka (682291602290638859)
+bug-reports 2021-10-09 22:16:09 When you place a camera and put a pilot seat it attaches the pilot seat. example:
+https://media.discordapp.net/attachments/884408334059446293/896521152741118012/unknown.png
+https://media.discordapp.net/attachments/884408334059446293/896521308316262450/unknown.png

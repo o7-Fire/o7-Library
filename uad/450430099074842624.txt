@@ -1,0 +1,279 @@
+The Tale of excalibur_umbra_prime (450430099074842624)
+plane-crazy 2021-11-21 16:42:36 Do you guys know why my plane keeps tipping from the sides?
+plane-crazy 2021-11-21 16:43:28 The yellow thingy is in the middle of the plane
+plane-crazy 2021-11-21 16:43:56 A little bit behind
+plane-crazy 2021-11-21 16:44:19 Left
+plane-crazy 2021-11-21 16:45:11 I would show the plane if I got image perms
+bot-central 2021-11-21 16:47:38 !rank
+bot-central 2021-11-21 16:47:49 ?av
+plane-crazy 2021-11-21 16:49:22 My plane is based off of the harrier so I think the slanted wings could contribute to it tipping left
+bot-central 2021-11-21 16:50:17 -ms 1 1
+bot-central 2021-11-21 16:50:41 -ms 100 100
+bot-central 2021-11-21 16:51:46 -ms 400 400
+plane-crazy 2021-11-21 16:53:19 How would you feel if a slender went up to you and said your plane was a tutorial?
+plane-crazy 2021-11-21 16:55:12 Also I tried adding ballast blocks on the wings and now the right wing tips
+plane-crazy 2021-11-21 16:55:45 I set the right one a bit heavier
+plane-crazy 2021-11-21 16:57:26 No image perms
+plane-crazy 2021-11-21 16:58:59 Cause yes
+plane-crazy 2021-11-21 17:04:25 Imma build a tank with actual treads should it have 4 or 2 treads?
+plane-crazy 2021-11-21 17:04:57 To big imo
+general 2021-11-21 17:54:43 What do you guys think about shredder bugs?
+plane-crazy 2021-11-21 17:56:33 How do you guys counter shredder bugs?
+general 2021-11-21 19:24:36 E
+bot-central 2021-11-21 19:25:08 -av
+bot-central 2021-11-22 02:22:32 E
+bot-central 2021-11-22 19:45:59 !rank
+bot-central 2021-11-22 19:46:14 -ms 1 1
+bot-central 2021-11-22 19:46:34 -av
+plane-crazy 2021-11-22 19:47:35 Very nice
+plane-crazy 2021-11-22 19:49:11 Would you prefer one time use tnt with disconnectors or missiles?
+plane-crazy 2021-11-22 19:49:44 I would recommend the wood texture for the floor
+plane-crazy 2021-11-22 19:50:48 Lets hope your device doesn’t explode
+plane-crazy 2021-11-22 19:51:26 No
+bot-central 2021-11-22 19:51:53 !rank
+plane-crazy 2021-11-22 23:52:28 Would you guys prefer tnt with disconnectors on your plane or missiles?
+bot-central 2021-11-22 23:56:58 !rank
+bot-central 2021-11-22 23:57:02 !av
+bot-central 2021-11-22 23:57:07 -av
+bot-central 2021-11-22 23:57:48 -ms 100 100
+plane-crazy 2021-11-22 23:58:12 I need actual opinions
+plane-crazy 2021-11-22 23:59:58 That is related to the question
+plane-crazy 2021-11-23 00:11:08 Oof
+bot-central 2021-11-23 00:11:18 !rank
+plane-crazy 2021-11-23 00:23:56 Do any of you have any idea on how to fix my plane from turning right? https://streamable.com/mp16v5
+plane-crazy 2021-11-23 00:25:07 Yes, but it will eventually go right again if I let go
+plane-crazy 2021-11-23 00:25:19 Hover mode
+plane-crazy 2021-11-23 00:25:28 It’s supposed to be a harrier
+plane-crazy 2021-11-23 00:26:56 Alr I will try to add propellers ontop of the rockets
+plane-crazy 2021-11-23 00:30:28 Can this be the issue?
+plane-crazy 2021-11-23 00:48:05 Almost all of them are set to 0.15
+plane-crazy 2021-11-23 00:52:39 My harrier is still tipping
+plane-crazy 2021-11-23 00:56:14 Huh
+plane-crazy 2021-11-23 00:57:49 Now its going backwards on its own and turning left
+plane-crazy 2021-11-23 00:59:46 Motor 1 speed
+plane-crazy 2021-11-23 01:00:49 So make the front ballast heavier?
+plane-crazy 2021-11-23 01:04:07 I think I fixed it
+plane-crazy 2021-11-23 01:08:49 It's tipping again
+plane-crazy 2021-11-23 01:17:38 My plane is barely turning
+plane-crazy 2021-11-23 01:19:33 No nvm it seems to be random
+plane-crazy 2021-11-23 01:21:51 Is that even considered a jet?
+plane-crazy 2021-11-23 01:25:57 Welp Imma try to see what the people who made the harrier jet tutorial did
+plane-crazy 2021-11-23 01:26:50 https://m.youtube.com/watch?v=OavHpK1uNE0
+plane-crazy 2021-11-23 01:27:34 This tutorial man
+plane-crazy 2021-11-23 03:34:42 Why does my plane keep tipping? https://vimeo.com/648867455
+plane-crazy 2021-11-23 03:42:32 The wings seem to be the problem for my plane
+plane-crazy 2021-11-23 03:46:11 Do any of you people know how to make a lance stop tilting with the wings bent downwards?
+plane-crazy 2021-11-23 03:46:35 It is symmetrical
+plane-crazy 2021-11-23 03:46:59 Yes
+plane-crazy 2021-11-23 03:47:06 https://streamable.com/mp16v5
+plane-crazy 2021-11-23 03:48:28 Well dang
+plane-crazy 2021-11-23 03:49:16 When the wings are unbent it flies perfectly
+plane-crazy 2021-11-23 03:54:18 Any ideas for making the blue or yellow line closer?
+plane-crazy 2021-11-23 04:00:29 I added some control surfaces and it made no difference
+plane-crazy 2021-11-23 04:03:25 I added control surfaces inside and there is no difference
+plane-crazy 2021-11-23 04:03:43 Yes
+plane-crazy 2021-11-23 04:05:11 It tips to the sides in hover mode
+plane-crazy 2021-11-23 04:06:07 Its annoying
+plane-crazy 2021-11-23 04:07:12 Its annoying
+plane-crazy 2021-11-23 04:09:59 Yes I could do that but I don’t want to always counteract my plane everytime I fly it.
+plane-crazy 2021-11-23 04:10:49 Always
+plane-crazy 2021-11-23 04:11:40 Yes
+plane-crazy 2021-11-23 04:11:50 Always the right
+plane-crazy 2021-11-23 04:12:09 
+plane-crazy 2021-11-23 04:13:38 I tried to make the blue ball go into the yellow one by putting control surfaces near the front
+plane-crazy 2021-11-23 04:15:04 
+plane-crazy 2021-11-23 04:18:18 Too strong
+plane-crazy 2021-11-23 04:25:19 It now tilts left instead of right
+plane-crazy 2021-11-23 04:28:39 Rip
+plane-crazy 2021-11-23 04:32:14 I think the person trying to help me gave up
+plane-crazy 2021-11-23 04:33:17 Ok
+plane-crazy 2021-11-23 04:33:37 BRUH
+plane-crazy 2021-11-23 04:33:56 TIME TO GET RID OF MY SEARCH HISTORY
+plane-crazy 2021-11-23 04:34:12 Why did I actually fall for it?
+plane-crazy 2021-11-23 04:34:39 I actually thought it was something like streamable
+general 2021-11-23 04:35:52 They will kick the good people out because of skill issue
+plane-crazy 2021-11-23 04:38:22 Should I just build a tutorial harrier?
+general 2021-11-23 04:41:27 I might build a tutorial harrier plane cause I give up on mine
+general 2021-11-23 04:49:50 Imma use a tutorial
+plane-crazy 2021-11-23 05:13:17 Should I atleast report it?
+bug-reports 2021-11-23 05:14:26 Your plane would tip to the sides when your plane wings are slanted downwards
+bug-reports 2021-11-23 05:15:38 https://streamable.com/i8vzfw
+help 2021-11-23 16:34:03 How do you make the blue ball thingy go closer to the yellow ball?
+help 2021-11-23 16:36:25 Well it barely even moves the blue ball if I did.
+help 2021-11-23 16:37:10 Alr
+bot-central 2021-11-23 18:01:42 !rank
+help 2021-11-24 01:52:07 Is this supposed to happen?
+plane-crazy 2021-11-24 01:53:56 This right?
+plane-crazy 2021-11-24 04:08:06 The blue thing barely moved
+plane-crazy 2021-11-24 04:08:35 It works
+plane-crazy 2021-11-24 04:08:45 So it doesn’t matter
+plane-crazy 2021-11-24 04:09:30 
+help 2021-11-24 04:35:46 The blue ball thingy can’t move anymore
+help 2021-11-24 04:38:13 The blue circle
+plane-crazy 2021-11-24 04:40:33 The blue circle thingy stopped moving completely
+plane-crazy 2021-11-24 04:51:14 My blue ball can’t move any further. Is there anyway to make it move again?
+plane-crazy 2021-11-24 04:51:33 Integrated in the motor lock
+plane-crazy 2021-11-24 04:52:12 That means it will become top heavy
+plane-crazy 2021-11-24 04:52:41 Half of my plane is made out of ballast blocks
+plane-crazy 2021-11-24 04:53:04 Can’t
+plane-crazy 2021-11-24 04:53:26 There’s no more regular blocks I could replace with ballast blocks
+bot-central 2021-11-24 05:38:27 !rank
+plane-crazy 2021-11-26 22:16:54 Any ideas to make the blue circle go closer to the yellow circle?
+help 2021-11-26 22:19:21 Any ideas on how to make the blue circle go to the yellow circle?
+help 2021-11-26 22:27:45 Or you can literally just tell me
+help 2021-11-26 22:30:54 What is it wings and control surfaces?
+help 2021-11-26 22:37:29 If blue circles is at the back and the yellow is infront of the blue circle it will tip down.
+plane-crazy 2021-11-26 22:44:37 I don’t know where or what that is
+plane-crazy 2021-11-26 22:45:32 I gotta go somewhere soon
+plane-crazy 2021-11-26 22:45:36 So not now
+plane-crazy 2021-11-26 22:45:59 I'll dm you when I come back
+the-dump 2021-12-11 05:47:33 
+plane-crazy 2022-01-15 04:01:54 
+plane-crazy 2022-01-15 04:04:22 https://streamable.com/txmtr7
+plane-crazy 2022-03-02 06:05:00 Any ways on how to make your jet go super fast?
+plane-crazy 2022-03-02 06:05:48 I meant something that goes faster than 400.
+plane-crazy 2022-03-02 06:06:29 Just a hover engine?
+plane-crazy 2022-07-04 02:34:15 Before making a plane, what should I consider doing first (body, wings or tip?)
+creations-chat 2022-07-04 02:38:23 How long do you think how long is an average plane crazy plane if we were measuring from the tip of the plane to the end of it?
+help 2022-07-04 02:41:20 How long do you think how long is an average plane crazy plane if we were measuring from the tip of the plane to the end of it?
+help 2022-07-04 02:41:47 Also before making a plane, what should I consider doing first (body, wings or tip?)
+help 2022-07-06 01:33:11 Why can this wing not motor lock while the other wing can?
+help 2022-07-06 17:46:56 They both have the same code.
+help 2022-07-07 23:16:26 Is it possible to make this type of mech leg?
+plane-crazy 2022-07-08 20:41:44 I just realized that the basic blocks have the color codes of 248, 248, and 248 and not 255, 255, and 255.
+help 2022-07-08 20:46:19 No.
+help 2022-07-08 23:23:45 Can anyone help me with making this build balanced and can move?
+plane-crazy 2022-07-08 23:27:44 Can anyone help me with making this build balanced and can move?
+help 2022-07-09 00:26:51 Alright I made it stand, now how do I make it move?
+help 2022-07-09 02:27:44 Hm yes that’s what I did.
+help 2022-07-09 02:28:02 Now it has kibble and is slower than a turtle.
+help 2022-07-09 20:07:35 Any idea where I should put rockets, propellers, ect so it can move?
+general 2022-07-10 14:48:35 Do you think mechs are bad in public pvp?
+plane-crazy 2022-07-19 01:27:46 How do you feel when some person says that your builds are trash?
+plane-crazy 2022-07-19 01:28:49 And if they intentionally say it’s bad?
+plane-crazy 2022-07-19 01:43:12 Do you think people cannot play this game without knowledge from other people? (Tutorials ect…)
+plane-crazy 2022-07-19 01:54:09 What I would do is to find a photo of their builds and call them trash back.
+plane-crazy 2022-07-19 01:59:14 Is it okay to use tutorials to make you better at building?
+general 2022-10-04 02:00:05 Why are builds that look mediocre have like 50+ dislikes?
+general 2022-10-04 02:01:17 God damn this is why I will never post any of my builds.
+general 2022-10-04 02:01:27 I know it’s gonna get ratio'ed.
+general 2022-10-10 23:33:21 Out of every anime, which character has the most kills?
+general 2022-10-10 23:34:13 🗿
+creations-chat 2022-12-09 01:56:43 Any useful information on building mechs?
+general 2022-12-09 02:01:39 Where do I get help and tips for building?
+plane-crazy 2022-12-13 00:22:03 can someone provide me with useful information on building mechs?
+plane-crazy 2022-12-21 04:41:37 If you put multiple cutters on a tip of your plane, does it make it a shredder machine now?
+plane-crazy 2022-12-21 04:43:48 How hard is it to make something fly if you built a model of it before adding the necessary stuff to make it fly?
+plane-crazy 2022-12-21 04:45:40 Are tutorials bad?
+plane-crazy 2022-12-21 04:52:17 Is there any other server that can actually provide help for builders that is not this one?
+plane-crazy 2022-12-21 05:24:35 Why is the yellow ball off center?
+plane-crazy 2022-12-21 05:25:12 It’s semetrical.
+plane-crazy 2022-12-21 05:41:05 Is important to have an angle pivot for mech legs?
+plane-crazy 2022-12-21 06:00:11 Which is better? Missile or fireworks?
+plane-crazy 2022-12-21 18:18:51 Flying mech or a walking one?
+plane-crazy 2022-12-21 18:19:04 Because I don’t know how to combine both.
+plane-crazy 2022-12-21 18:19:16 Most useful plane crazy player.
+plane-crazy 2022-12-21 20:13:43 Bruh wtf is this game? I saved my build that worked, left to join another server, then I reloaded the save, and the build doesn’t work now.
+plane-crazy 2022-12-21 20:14:56 Everything is still there.
+plane-crazy 2022-12-21 20:15:06 It just can’t fly anymore for some reason.
+plane-crazy 2022-12-22 20:18:05 Does anyone make mechs here?
+plane-crazy 2022-12-22 20:18:49 I'm wondering if most of the mobility from it comes from the legs or the body when it flies
+plane-crazy 2022-12-22 23:26:35 Is there anyway to make the legs stop moving during flight and make them move again on ground?
+plane-crazy 2022-12-22 23:30:14 I need the motors unpowered to walk btw.
+plane-crazy 2022-12-23 04:57:32 How do I stop making the legs move when it’s flying? (Powered off so legs can walk.)
+general 2022-12-23 06:30:43 Most friendly people in the pc server.
+help 2022-12-23 06:33:55 How do I make the legs stop moving during flight? (Motors for legs are unpowered so they can walk.)
+creations-chat 2022-12-23 06:37:39 Do any of you know how to make powerless motors stop moving?
+creations-chat 2022-12-23 06:39:42 I was very vague. I need it to be unpowered for my mech to walk.
+creations-chat 2022-12-23 06:44:27 That doesn’t work.
+general 2022-12-23 06:53:39 When people say “pls don't hate it” in <#384025409945337856>, they are begging to be dislike bombed.
+plane-crazy 2022-12-23 19:55:25 How do I make this stop spinning out of control during flight?
+general 2022-12-23 19:59:29 How helpful is this server?
+general 2022-12-23 19:59:44 Ight cya.
+plane-crazy 2022-12-24 00:26:10 How much regular rocket engines are needed to be equal to one super rocket engine?
+help 2022-12-24 00:31:36 Why does it spin out of control when I turn? 
+https://streamable.com/b9dbd4
+help 2022-12-24 00:38:29 Still does it. Do I put it somewhere specific like the legs or torso?
+general 2022-12-24 00:39:39 How hard is it to build mechs for you people?
+general 2022-12-24 00:40:25 I meant the ones that can only fly.
+general 2022-12-24 00:41:21 But it can still have legs?
+general 2022-12-24 00:43:23 How much regular engines do you need to have the same power/speed as the super rocket?
+general 2022-12-24 00:44:27 The normal rocket one.
+general 2022-12-24 00:46:36 Why is it so hard to make something fly that doesn’t look like a shredder bug, plane, or rocket?
+help 2022-12-24 16:31:48 https://streamable.com/ykffbk
+Why does it keep turning like that?
+plane-crazy 2022-12-24 16:32:15 Can anyone explain why it turns when I move forward?
+
+https://streamable.com/ykffbk
+plane-crazy 2022-12-24 16:32:51 Don’t know what that means.
+plane-crazy 2022-12-25 03:00:59 Should I add helium to stop the swaying, or is it too much rockets boosting it up?
+
+https://streamable.com/813ju5
+help 2022-12-25 03:01:51 Should I add helium to stop the swaying, or is it too much rockets boosting it up?
+
+https://streamable.com/813ju5
+plane-crazy 2022-12-25 03:08:57 Should I add helium to stop the swaying, or is it too much rockets boosting it up?
+
+https://streamable.com/813ju5
+plane-crazy 2022-12-25 03:11:35 So wing panels inside?
+plane-crazy 2022-12-25 03:11:52 Alright.
+plane-crazy 2022-12-25 03:48:00 Build is tipping down, helium blocks or wing panels?
+plane-crazy 2022-12-25 07:02:02 How do you make something go fast **WITHOUT** losing stability?
+plane-crazy 2022-12-25 07:02:57 and it has to be **COMPACT.**
+plane-crazy 2022-12-25 17:37:58 Should I add: more helium blocks at the back, wing panels, or reduce the thrust?
+
+https://streamable.com/svp68m
+help 2022-12-25 17:40:27 Should I add: more helium blocks at the back, wing panels, or reduce the thrust?
+
+https://streamable.com/svp68m
+plane-crazy 2022-12-26 16:36:01 Should I build the back skirt already angled, or build it flat and then angle it with motor 2s?
+plane-crazy 2022-12-26 22:09:13 Why does it keep moving back into it’s original position when it turns?
+
+https://streamable.com/pv93mv
+help 2022-12-26 22:10:06 Why does it keep moving back into it’s original position when it turns?
+
+https://streamable.com/pv93mv
+help 2022-12-27 05:12:51 How do I fix the wobbliness? More torque or less?
+
+https://streamable.com/e6nyzx
+plane-crazy 2022-12-27 05:13:44 How do I fix the wobbliness? More torque or less?
+
+https://streamable.com/e6nyzx
+plane-crazy 2022-12-27 05:15:44 Accurate to model.
+plane-crazy 2022-12-27 05:15:50 Sorta.
+plane-crazy 2022-12-27 05:17:18 
+plane-crazy 2022-12-27 05:17:24 Model.
+plane-crazy 2022-12-27 05:18:51 To the arms?
+plane-crazy 2022-12-27 05:21:06 Maybe I should've made the alternate universe one instead 💀.
+plane-crazy 2022-12-27 05:23:41 Ok bruh all the motors on the arm are at max torque and they still flop.
+plane-crazy 2022-12-27 05:27:01 I removed the sword and it stopped flopping.
+plane-crazy 2022-12-27 05:34:24 It was made out of cutters.
+plane-crazy 2022-12-27 05:36:24 So a sword made out of like 20 cutters can over power a 1000 torque motor 2?
+plane-crazy 2022-12-27 05:36:27 Sweet.
+plane-crazy 2022-12-27 05:38:31 Doesn’t work.
+plane-crazy 2022-12-27 05:39:40 This?
+plane-crazy 2022-12-27 05:42:28 This?
+plane-crazy 2022-12-27 05:47:04 So I add two motor 2s instead of one for each joint for that part of the arm?
+plane-crazy 2022-12-27 05:49:13 New lesson: I should not make mechs with goofy proportions.
+plane-crazy 2022-12-27 16:48:58 Am I using the 2m2m strategy correctly or not?
+plane-crazy 2022-12-27 16:50:37 Then what do I do?
+general 2022-12-27 16:56:54 When you hear the word furry, what’s the first thing you associate that word to?
+general 2022-12-27 16:57:53 Anything else?
+general 2022-12-27 16:58:57 I asked this question in multiple servers.
+general 2022-12-27 16:59:05 They basically have the same response.
+plane-crazy 2022-12-28 04:40:50 Do you think this will be a hard build?
+plane-crazy 2023-01-21 05:44:40 How do I make mech heads?
+plane-crazy 2023-01-21 19:15:49 I swear there was a rounded 1x2 wedge piece.
+plane-crazy 2023-01-22 16:54:50 How do I make it so I can motor lock this part manually rather than automatically?
+plane-crazy 2023-02-01 23:58:34 I'm experimenting with conveyor engines, can someone figure out why it is suddenly going at very fast speeds?
+
+https://streamable.com/aihxx7
+plane-crazy 2023-02-01 23:59:13 Lowest settings though.
+plane-crazy 2023-02-01 23:59:22 It is at 1 speed.
+plane-crazy 2023-02-01 23:59:48 So how do I make it stop doing that?
+plane-crazy 2023-02-01 23:59:51 Wing panels?
+plane-crazy 2023-02-02 15:36:44 When you pvp, does your plane use on and off mode or do you manually turn it off?
+plane-crazy 2023-02-02 16:10:00 I'm using a conveyor engine and I can’t figure out why it suddenly slows down. Do any of you know why?
+
+https://streamable.com/kkh0cm
+plane-crazy 2023-02-02 16:11:24 What does that mean?

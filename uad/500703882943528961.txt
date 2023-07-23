@@ -1,0 +1,5 @@
+The Tale of iant2001 (500703882943528961)
+bug-reports 2022-05-17 18:10:17 Using the camera breaks engines.
+bug-reports 2022-05-17 18:11:17 They become unresponsive.
+bug-reports 2022-05-17 18:13:17 Well, the problem only started appearing yesterday.
+bug-reports 2022-05-17 18:13:32 Before that everything was ok.

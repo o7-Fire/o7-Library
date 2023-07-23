@@ -1,0 +1,83 @@
+The Tale of propriis (592809193472524288)
+general 2020-04-09 22:43:34 i made a thing where it drops the payload of bombs then you can detonate on demand while it’s down there
+plane-crazy 2020-04-09 22:48:11 simple combat vtol
+general 2020-04-10 00:09:33 can someone help me make something
+general 2020-04-10 00:09:34 ;-;
+help 2020-04-10 00:09:53 can someone help me make something.
+help 2020-04-10 00:10:05 im tryna make a helicopter but have 0 knowledge on how
+help 2021-02-20 03:26:03 https://streamable.com/28ne1a
+help 2021-02-20 04:35:04 kk
+help 2021-02-20 19:55:10 my planes wings are half inverted, but it ain’t inverted in the controls
+help 2021-02-20 19:56:28 kk
+help 2021-04-27 19:28:27 my helicopter can barely turn even though I’ve put in a rear rotor, and I don’t know how to make my helicopter hover still, it also keeps rolling backwards even tho I’ve put density infront
+help 2021-04-27 19:48:54 alright I’ve fixed rolling back and turning but I dont know how to hover still
+help 2021-04-28 00:06:12 wdym
+help 2021-04-28 00:06:21 well the plane has the mass thing in the center
+help 2021-04-28 00:06:30 so it’s balanced
+help 2021-04-28 00:06:37 but the blue one is a bit back
+help 2021-04-28 00:07:15 so if I use “apply at center”
+help 2021-04-28 00:07:19 it doesn’t apply at center?
+help 2021-04-28 00:07:49 for the ballast block
+help 2021-04-28 00:07:51 yeah
+help 2021-04-28 00:07:57 idk
+help 2021-04-28 00:07:58 uh
+help 2021-04-28 00:08:35 if the gravity thing is a bit back, do I add weight to the front?
+help 2021-04-28 00:08:41 the blue ball thingy
+help 2021-04-28 00:09:22 is that why mine does backflips?
+help 2021-04-28 00:09:28 uh oh
+help 2021-04-28 00:09:33 how do I fix it?
+help 2021-04-28 00:09:43 i don’t think adding wings to the front would look good
+help 2021-04-28 00:10:05 alright
+help 2021-04-28 00:11:39 and how do I make the heli hover automatically?
+help 2021-04-28 00:11:57 like instead of just going forward constantly when rotors are moving
+help 2021-04-28 00:13:20 wa
+help 2021-04-28 00:13:37 are you ingame right now?
+help 2021-04-28 00:13:41 i don’t understand that image
+help 2021-04-28 00:13:45 rip
+help 2021-04-28 00:14:50 Do I add the wing panels to the front?
+help 2021-04-28 00:21:39 well now my helis two rotors are spinning together even tho they’re separate speeds & directions
+help 2021-04-28 00:25:51 anyone know what’s wrong with this?
+help 2021-04-28 00:37:21 fixed the rotors, but now it barely turns & keeps going up
+help 2021-04-28 00:37:28 im trying to make it hover automatically
+help 2021-04-28 00:38:11 to where tho
+help 2021-04-28 00:40:48 well now it doesn’t move
+help 2021-04-28 00:42:21 still too heavy
+help 2021-04-28 16:50:43 How do you make your helicopter hover instead of going up?
+help 2021-04-28 16:51:20 then you use propellers to go up/down?
+help 2021-04-28 16:51:41 is there other ways?
+help 2021-04-28 16:51:52 because I dont know how to go forward without just going up because of the rotors
+help 2021-04-28 16:52:55 yeah but I’m trying to keep it realistic, so I don’t wanna just go straight
+help 2021-04-28 16:53:05 im trying to make it tilt when it goes forward without going up
+help 2021-04-28 16:53:47 alright thanks
+help 2021-04-30 14:13:37 chief wheres the rv
+help 2021-04-30 14:13:54 is the entire wall just rocket engines
+help 2021-04-30 14:23:19 hover drive makes you go forward
+help 2021-04-30 14:23:22 not up
+help 2021-04-30 14:23:25 unless set up that way
+help 2021-04-30 14:24:58 more hover thrusters evenly placed ig
+help 2021-04-30 18:31:22 <@!569539731088736258> frames?
+help 2021-04-30 18:31:42 you could always use motor lock & 1x1 wing panels
+general 2021-04-30 18:33:31 shredder blowing it up
+general 2021-04-30 18:34:09 wasn’t joking
+general 2021-04-30 18:34:18 ✨ realism ✨
+general 2021-04-30 18:34:21 <:Mhm:551152556324159488>
+general 2021-04-30 18:34:40 i see no issue
+general 2021-04-30 18:35:13 i shed a tear
+help 2021-04-30 18:40:23 lag machines are more just annoying then actually laggy tbh
+general 2021-05-01 00:02:44 mmmmm yes
+general 2021-05-01 00:04:24 ah yes
+general 2021-05-01 00:04:25 English
+general 2021-05-01 00:04:34 so ur 12?
+help 2021-06-03 21:00:37 Is there anyway to make like an xray thing where you can see thru water with cameras?
+help 2021-06-03 21:01:41 yea I tried that it doesn’t work
+help 2021-06-03 21:02:07 Which type of glass?
+help 2021-06-03 21:02:22 Legacy?
+help 2021-06-03 21:02:43 Does it have to be a full block or half?
+help 2021-06-03 21:03:06 im trying to put it on a hrlicopter
+help 2021-06-03 21:03:09 helicopter*
+help 2021-06-03 21:03:12 kinda like ISR
+help 2021-06-03 21:04:24 
+help 2021-06-03 21:04:28 this is what I have
+help 2021-06-03 21:36:09 Is there any way to make like a spotlight?
+help 2021-06-03 21:36:41 yeah but I need it to point from far distances
+general 2021-06-11 13:41:43 a

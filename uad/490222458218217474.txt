@@ -1,0 +1,120 @@
+The Tale of walnutpunch (490222458218217474)
+general 2019-10-26 18:24:24 where do you find cutter blocks?
+general 2019-10-26 18:49:34 thank you
+help 2020-01-01 17:14:49 does anyone how how to fix the wobbling?
+help 2020-01-01 17:17:57 i added an extra motor for turning
+help 2020-01-01 17:19:08 ok?
+help 2020-01-01 17:20:18 here are the motors
+help 2020-01-01 17:21:49 
+help 2020-01-01 17:24:07 no friend me and i will show you in-game
+help 2020-01-01 18:10:27 can you rephrase that
+help 2020-01-01 18:11:06 and max expload on impact is 300 i think
+help 2020-01-01 18:12:14 so explosive balls as ammo on high speed magnet powered railgun wont work
+help 2020-01-02 02:35:21 ok
+help 2020-01-02 02:35:26 sorry
+creations-chat 2020-01-02 16:39:43 howitzer formation (springs allow recoil after firing and sparklers give shell discarding effect)
+creations-chat 2020-01-02 16:41:18 i dont want rank just want to see if my building skills are good or bad
+creations-chat 2020-01-02 16:43:24 oh bc the fireworks are the shells
+creations-chat 2020-01-02 16:44:05 and i think red shells give a good explosion colour
+creations-chat 2020-01-02 16:45:09 my screen's brightness is pretty low (to save battery) so to me it look fine
+help 2020-01-03 01:34:30 does anyone know how to reliably predict fabric material textures?
+help 2020-01-03 02:13:19 when you paint a block to fabric, the texture is always random but for consistency in my builds, i want to know if there is the ability to predict the pattern
+help 2020-01-03 02:13:36 so everything doesnt look messed up
+creations-chat 2020-01-04 16:34:21 new day, new howtizer
+my attempt for a C3 105mm Howtizer
+springs for recoil
+sparkler for sparks effect
+counterweight at the back
+extra shells
+creations-chat 2020-01-04 16:47:14 C3 105mm Howitzers are commonly used for avalanche control but some of them were used in Afghanistan i think
+creations-chat 2020-01-04 16:49:21 so desert camo seems fitting
+creations-chat 2020-01-04 16:56:20 well the canadian military still uses it for avalanche control from various sources
+creations-chat 2020-01-04 16:56:58 i also saw it in action on a vacation to bc
+creations-chat 2020-01-04 16:57:05 its loud
+creations-chat 2020-01-04 16:57:21 very loud
+creations-chat 2020-01-04 16:58:44 for some reason i cant get the gun to elevat on its own
+creations-chat 2020-01-04 16:59:32 so i had to improvise by making the gun shield move with the barrel
+help 2020-01-12 01:26:20 does anyone know why my flip button does not work?
+help 2020-01-12 01:26:28 my build is not anchored
+help 2020-01-12 01:27:56 yes
+help 2020-01-12 01:28:11 also the motors are flinging the build around
+help 2020-01-12 01:29:37 im clicking it
+help 2020-01-12 01:30:06 the motors are also disconnect from the build
+help 2020-01-12 01:30:23 and makes the build fling around like crazy
+help 2020-01-12 01:31:45 
+help 2020-01-12 01:44:50 requesting desginer 4, block count: 380
+help 2020-01-12 01:46:55 uncropped version
+bug-reports 2020-01-12 18:25:09 invisible water
+bug-reports 2020-01-12 18:33:40 oh
+bug-reports 2020-01-12 18:34:29 basicly any special effects behind glass does not appear
+bug-reports 2020-01-12 18:34:43 such as firework particles
+bug-reports 2020-01-12 18:38:11 and smoke
+bug-reports 2020-01-12 18:38:52 dont know if thins i intended or not
+bug-reports 2020-01-12 18:56:24 oh
+help 2020-01-12 21:58:08 just make it look gud
+help 2020-01-12 21:58:14 problem solved
+creations-chat 2020-01-15 00:57:54 yes
+the-dump 2020-01-19 00:03:14 Man buys two nuclear missiles from submarine. Man asks for the shipping cost and the officer said free shipping. The man asked when the missile will come and officer replied with "coming your way, ETA in 5 min". Man said: "that's great!". Officer was later charged with 2 counts mass murder and man was never to be seen again.
+bug-reports 2020-01-27 01:13:18 interesting
+help 2020-02-19 02:35:00 is there any way to fix pistons bobbing?
+help 2020-02-19 02:44:56 or do i need to make the build lighter
+help 2020-02-20 01:45:16 does anyone have a functional star destroyer that can actually float?
+help 2020-02-20 01:45:26 bc its such a pain getting it to
+help 2020-02-21 14:44:38 its so hard to get this thing off the ground
+help 2020-02-21 14:45:22 anyone got ideas on how to get center of mass in the center?
+help 2020-02-21 14:45:53 ok
+help 2020-02-21 14:46:04 ok
+help 2020-02-21 15:54:28 is there any other easy solution to making this fly besides this
+help 2020-02-21 16:12:05 ok
+help 2020-04-07 00:48:19 lol
+help 2020-04-07 00:48:34 my tank is more laggy stationary than moving
+help 2020-04-07 01:11:31 are fireworks linked with lagspikes?
+help 2020-04-07 01:17:53 my tank has lagspikes after firing a firework
+help 2020-04-07 01:18:34 goes to ~5 fps
+plane-crazy 2020-04-07 23:11:34 is the gravity manipulator going to come back?
+plane-crazy 2020-04-07 23:12:01 oh
+plane-crazy 2020-04-07 23:12:22 oh ok
+creations-chat 2020-04-11 23:50:46 i thought i'd try something new today
+creations-chat 2020-04-11 23:57:52 lol
+creations-chat 2020-04-12 00:06:41 i think night time gives a better effect
+creations-chat 2020-04-12 00:09:05 if you are using negative space i say that is a cool design aspect
+creations-chat 2020-04-12 00:41:52 lol this pic spam
+creations-chat 2020-04-12 00:52:02 lets hope u come back
+help 2020-04-12 19:07:24 does anyone know how to make the top look more like this
+help 2020-04-12 19:07:46 
+help 2020-04-12 19:08:22 the cylinders are half cylinder 2 stacked together
+help 2020-04-12 19:08:49 o
+help 2020-04-12 19:09:50 pontoons are a bit too big..
+help 2020-04-12 19:11:29 time to try out every block combination
+help 2020-04-12 19:12:32 sparkeler would have been perfect if it was a normal cylinder
+help 2020-04-12 19:15:01 that is normal
+help 2020-04-12 19:15:13 idk
+help 2020-04-12 19:15:15 use motor 2
+help 2020-04-12 19:15:19 servo
+help 2020-04-12 19:15:23 and set angle
+help 2020-04-12 19:15:45 o
+help 2020-04-12 19:15:58 i
+help 2020-04-12 19:16:24 wait
+help 2020-04-12 19:16:31 servo isnt follow mouse
+help 2020-04-12 19:16:36 unchecked is
+help 2020-04-12 19:16:52 o
+help 2020-04-12 19:16:55 i jsut checked
+help 2020-04-12 19:17:34 use motor 2 servo
+help 2020-04-12 19:22:25 in game
+help 2020-04-12 19:26:04 lol
+help 2020-04-12 20:50:28 i hope this comprimize is not too bad looking
+help 2020-04-12 20:50:47 
+help 2020-04-12 20:52:47 the wings are way too big but there is probably nothing i can do to make an alernative
+help 2020-04-12 21:03:58 too big
+help 2020-04-12 21:04:29 its already pretty oversized
+help 2020-04-12 21:13:55 gravity slider is a gamepass
+help 2020-04-12 21:14:29 so if you have the gamepass the gravity value must be set to 180
+plane-crazy 2020-04-17 01:20:22 kinda looks like borg cube
+help 2020-04-17 02:12:09 i wish suspension would actually work when it is attached to an anchored block
+help 2020-04-17 12:53:12 does friction blocks generate more friction that painting a block fabric?
+help 2020-04-17 12:53:25 i assume yes
+help 2020-04-17 12:55:51 you need to scroll to it on a section that is already pretty filled
+help 2020-04-17 12:56:05 o
+help 2020-04-17 12:56:07 ok
+help 2020-04-17 12:57:05 that is good and bad in my case
+help 2020-04-17 12:58:21 im not familiar with helis

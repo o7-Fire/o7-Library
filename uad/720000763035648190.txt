@@ -1,0 +1,11 @@
+The Tale of wuckly_1 (720000763035648190)
+general 2022-01-18 07:09:23 Hi, I need to know how to make motor 2 mouse controlled.
+general 2022-01-18 07:10:02 Not by default
+general 2022-01-18 07:10:25 Not by default
+general 2022-01-18 07:10:38 Not for me
+general 2022-01-18 07:11:09 I once had it mouse controlled for half a second
+help 2022-01-18 07:13:56 How do I make a motor 2 mouse controlled? I hear its supposed to be there by default, but I cannot figure out how, I had it on for a half second but idk how, thank you!
+help 2022-01-18 17:47:05 How do I make a motor 2 mouse controlled? I hear its supposed to be there by default, but I cannot figure out how, I had it on for a half second but idk how, thank you!
+help 2022-01-18 17:52:43 Thank you
+general 2022-06-21 00:24:41 Why can I not attach a pic?
+general 2022-06-21 00:25:01 It says I do not have permission

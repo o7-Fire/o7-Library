@@ -1,0 +1,49 @@
+The Tale of minesculptor (475495690559160321)
+bug-reports 2020-05-01 01:48:43 sometimes when I spawn in my creations and launch them, my screen locks horizontally. it can be easily fixed by pressing the camera button, but its weird. I don't even have a camera on my builds.
+bug-reports 2020-05-01 01:49:05 is this possibly a bug with the most recent update of the game. this never happened to me before...
+bot-central 2020-05-01 02:52:27 ?shelp
+bot-central 2020-05-01 02:53:10 ?rhelp
+bot-central 2020-06-05 06:20:49 !rank
+bot-central 2020-06-05 21:42:13 ?shelp
+bug-reports 2020-06-06 03:38:29 sometimes when I click the green flight button after loading in a vehicle, the screen gets locked. I don't know why, but i think it might have something to do with landing gear. It can be set back to default by clicking C (camera button) twice, but it is a little annoying to do it every time.
+help 2020-06-11 11:15:54 so i want to build another helicopter, and i already know how to make one, but i would like to have both rotors on top to be touching each other but then they get stuck. does any1 know of a way to connect them after build mode?
+help 2020-06-11 21:44:21 why are my suggestions being removed?
+help 2020-06-11 21:44:33 I cant seem to find them later 😛
+bot-central 2020-06-11 21:50:33 &sugesst a swashplate block to better control helicoptor blades.
+bot-central 2020-06-11 21:50:40 &sugesst <a swashplate block to better control helicoptor blades.>
+bot-central 2020-06-11 21:50:48 oh
+bot-central 2020-06-11 21:55:18 !shelp
+bot-central 2020-06-11 21:55:59 ?shelp
+help 2020-06-11 22:26:03 I cant create a suggestion because the bot is removing it when i submit it because of spam, but im not spaming. can someone tell me how to fix this?
+help 2020-06-12 21:00:39 does any1 know if making swashplates for helicopters works in the recent update, and if so, does any1 know how to make one?
+help 2020-06-13 00:07:44 most of the swash plate designs used a bug in the game that was patched in February, and the tutorials suck so I have no clue how to make one.
+help 2020-06-13 00:40:13 The bug was something to do with signs and pistons but it was patched.
+help 2020-06-13 00:43:45 I need to make a block pusher, and all i need to do is push the block 1 blocks in all 4 cardinal directions. does any1 know how i can do that?
+help 2020-06-13 01:02:14 How do I push the red block in all 4 directions. am i doing something wrong?
+help 2020-06-13 01:03:50 if it is all wrong do you know a way i can do it?
+help 2020-06-13 01:04:01 how do i make enough force?
+help 2020-06-13 01:05:03 ?
+help 2020-06-13 01:05:27 i dont have to use suspension to move the block though right?
+help 2020-06-13 01:06:24 what would that do
+help 2020-06-13 01:06:41 i just have no idea how to make the middle block move
+help 2020-06-13 01:07:08 i dont think i understand
+help 2020-06-13 01:08:45 why
+help 2020-06-13 01:09:43 and your idea makes the piston gets stuck
+help 2020-06-13 01:10:42 is there a way to reverse suspension or pistons?
+help 2020-06-13 01:10:47 so they retract
+help 2020-06-13 01:16:16 ok
+help 2020-06-13 02:34:49 still no luck 😛
+help 2020-06-13 03:45:08 so im trying to make a swash plate, and it might work if i can get a block to move 1 block in each direction
+help 2020-08-11 10:56:38 im trying to build a single roter helicopter. i have a working swashplate but the helicopter is turning as expected. i tried for a bit to create a tail rotor but it does not seem to work completely. it slows down the rotation a bit but not completely. if anyone knows some peice of information that might help, it would be greatly apreciated. Is there a "spot" that the tail rotor needs to be in (relative to the center of mass or lift?). My helicoptor's COM is right below the main rotor.
+help 2020-08-11 11:12:46 how do i make tail rotor work better?
+bot-central 2020-09-26 01:55:29 -mapsuggest
+bot-central 2020-09-26 03:09:33 -mapsuggest maybe there could be forests where the trees can be destroyed by our creations. Then they would regenerate sometime later.
+bot-central 2020-09-26 03:10:54 -mapsuggest a space x like landing barge on the water or a helipad
+bot-central 2020-09-26 03:13:25 -mapsuggest a space center with a launch tower
+bot-central 2020-09-26 03:17:00 -mapsuggest toggable and randomized weather. (Rain, snow, partly cloudy, sunny etc.)
+general 2021-02-03 01:46:37 does rick know that motors are broken again?
+general 2021-02-03 01:46:52 true
+general 2021-02-03 01:47:13 but is the patch for the oscillations coming out soon?
+bot-central 2021-04-05 00:33:55 -pccmc
+bug-reports 2021-06-22 07:41:02 Motors will become stuck in the event that the aerodynamic forces of blades or wings are too strong. This causes old designs for propellers to stop working.
+bug-reports 2021-06-22 07:44:52 Well an update to the game a couple weeks ago messed them up. At least there should be a feature for both motors 1 and 2 rotation to not be effected by external forces.

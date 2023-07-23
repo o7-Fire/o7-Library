@@ -1,0 +1,16 @@
+The Tale of croc0330 (694363785481289789)
+creations-chat 2022-08-22 16:58:41 how well do physics work in linking two different builds together
+help 2022-08-22 17:03:11 me and my friend were going tow build two halves to a giant plane
+help 2022-08-22 17:03:30 and originally we were going to just use motors that would rotate parts in such a way that theyd be locked but
+help 2022-08-22 17:03:49 i highly doubt the game would hold them together properly cause of all of the lag and the weight of the build. would magnets work better?
+help 2022-08-22 17:04:49 can magnets from other plots interact with eachother?
+help 2022-08-22 17:05:09 so magnets shouldn't work..
+help 2022-08-22 17:06:03 if magnets from other plots cant interact with eachother I cant use magnets to link two different builds together
+help 2022-08-22 17:11:49 then i probably need to create a lock
+help 2022-08-22 17:11:56 and use a material that has high friction
+help 2022-08-22 17:17:05 like a hole with a shape, the shape passes through, turn so it can come back out??
+help 2022-08-22 17:17:35 each side of this build is probably going to have at least 6k blocks so idk if itd work might be too laggy to
+help 2022-08-22 17:20:11 but to try and secure it i will make like a key that fits into a lock with grooves and everything
+help 2022-08-22 17:20:25 what material has the highest friction, fabric?
+help 2022-08-22 17:20:38 cuz i probably want to use a high friction material for that
+help 2022-08-22 17:29:53 perfect

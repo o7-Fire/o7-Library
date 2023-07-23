@@ -1,0 +1,4 @@
+The Tale of auberthbt (435516328246509578)
+help 2023-06-09 12:01:15 Hello, I have a question : Do someone know how to do independant vehicles in the same structure. Like, for example, an aircraft carrier and his planes. Because when I mount the plane on my beta aircraft carrier, it also controls the aircraft carrier. So, if someone have the response, it could be cool pls
+help 2023-06-09 12:30:00 I'm gonna try that
+help 2023-06-09 12:42:41 So, I tried and my plane doesn't work like a normal plane. It works perfectly fine when it's only the plane but when I had the AC, it can't go upwards or downwards just like a normal plane ...

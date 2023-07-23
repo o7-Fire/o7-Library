@@ -1,0 +1,12 @@
+The Tale of catsnoise (655459698090180608)
+help 2022-03-09 05:50:01 How do I prevent this cannon from swaying every time it rotates
+when I rotate it, it sways left and right for a short amount of time and eventually settles
+help 2022-03-09 16:11:22 I know this is a late reply but it’s at max torque already
+help 2022-03-11 01:28:07 whenever I spawn in my tank, the turret constantly, with no end, will swing left and right once I toggle the motor
+how could I stop this?
+(the motor is at max torque already)
+help 2022-03-11 02:11:43 I set the motor to toggle so when I press a button it activates
+help 2022-03-11 03:11:29 it's a motor 2
+help 2022-03-11 03:12:00 it has the toggle option
+help 2022-03-11 03:35:26 no
+help 2022-03-11 03:42:18 I don't like having it follow my mouse all the time

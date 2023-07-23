@@ -1,0 +1,118 @@
+The Tale of yorkshiretea_ (481105243925381120)
+help 2022-04-17 15:29:31 Aye, my mech is pretty big. And it's causing the feet motors to lag and spaz out of place. Any way to fix this?
+help 2022-04-17 15:29:48 
+help 2022-04-17 15:30:31 Tourqe is at max
+help 2022-04-17 15:30:34 Is that a problem?
+help 2022-04-17 15:30:48 Ill tweak that
+help 2022-05-06 16:42:27 How do you fix the motors breaking appart and re attaching? Im having this problem when building mechs. Do I need to disable locking?
+help 2022-05-06 16:50:57 Is there any fix?
+help 2022-05-06 22:17:12 Anyone got a fix for this?
+help 2022-05-06 22:17:31 Heres it unlocked
+help 2022-05-06 22:21:14 The right side is identical to the left, but the left seems to be just dying
+help 2022-05-06 22:22:38 I have motors 1's as the joints
+help 2022-05-06 22:22:39 
+help 2022-05-06 22:23:03 No
+help 2022-05-06 22:24:28 The joint at the hip is un powered
+help 2022-05-06 22:24:36 But the feet seem to be stable now
+help 2022-05-06 22:25:41 Are the motors that messed up 💀
+help 2022-05-06 22:26:26 Well, there was the first problem of the entire leg mangling
+help 2022-05-06 22:26:29 Now its just the hip
+help 2022-05-06 22:26:51 Hip problem fixed, now the joint at the knee is messed
+help 2022-05-06 22:27:03 
+help 2022-05-06 22:27:17 Is there another way to make knee joints?
+help 2022-05-06 22:27:34 Ill have to experiment with them then
+help 2022-05-06 22:27:51 Any tips? Right now I have 2 motors on each side, connected to a pole with more motors on the end
+help 2022-05-06 22:28:01 This, pretty much
+creations-chat 2022-05-06 22:34:15 Anyone got a good way to make mech knee joints?
+help 2022-05-06 22:36:36 Oh hey it works now
+help 2022-05-06 22:36:42 Imperial knight here I come
+help 2022-05-06 22:49:22 How do you make A and D movement in a mech legs so it turns left and right? I have propellers in the upper thigh but that doesnt seem to work
+plane-crazy 2022-05-06 22:57:00 How do I get image posting role in creations?
+plane-crazy 2022-05-06 23:03:13 Oh right
+plane-crazy 2022-05-06 23:03:25 Do you guys mind if I post my mech legs here for feedback?
+plane-crazy 2022-05-06 23:05:26 YOO? For real?
+creations-chat 2022-05-07 13:22:25 <@567763933952475157> Cool helicopter! How did you make the cockpit? I've been obsessed with trying to make those windows!
+creations-chat 2022-05-07 13:24:09 Im on about the window lines, they look like trails, but I have no idea how to motor lock it
+bot-central 2022-05-07 13:25:23 !rank
+help 2022-05-07 13:35:44 Any tips on how I can improve this?
+help 2022-05-07 13:40:41 Alright
+help 2022-05-07 13:40:50 Oh my god, it looks so good now
+plane-crazy 2022-05-07 13:42:05 Its literally a big rectangle with TIE fighters or AT ST's on the bottom
+plane-crazy 2022-05-07 13:42:56 Theres probably some schematic for it on Wookiepedia, just look there
+bot-central 2022-05-12 19:50:05 !rank
+creations-chat 2022-05-12 19:56:26 Any tips on how to improve the pod racer?
+creations-chat 2022-05-12 19:58:54 Ill unify the colours and upscale the turbines
+creations-chat 2022-05-12 20:16:37 <@359613171495075842> I've added shading and tiny little detals to the engines, any feedback?
+creations-chat 2022-05-12 20:22:49 Hover engines that make it fly, I cant really work around that
+creations-chat 2022-05-12 20:28:03 Nevermind, all hover thrusters are inside. I also thickened out the engines a bit
+creations-chat 2022-05-12 20:31:37 Holy, that helps alot
+creations-chat 2022-05-12 21:06:43 <@359613171495075842> Spent time upgrading, I upscaled the engines in response to LkaiBX. Fixed the shapes and tried to upgrade the engines
+creations-chat 2022-05-13 12:39:20 Cool titanfall build. Now build it protecting the pilot
+creations-chat 2022-05-13 12:45:19 Any tips on the SU 57?
+creations-chat 2022-05-13 12:49:24 It's sort of custom, sort of SU 57, I used this as a reference
+creations-chat 2022-05-13 12:51:07 I was told to change the name
+creations-chat 2022-05-13 12:54:32 I've only been playing for a week now let's try to be nice 💀
+creations-chat 2022-05-13 12:56:17 😵 i just tried to make something that looked half decent
+creations-chat 2022-05-13 12:59:58 I have only been here for 7 days, im trying
+creations-chat 2022-05-13 13:02:18 Alright, what about this one then?
+creations-chat 2022-05-13 13:04:31 Alright then, why dont you give some advice on how it's done. (Also thanks Dontcallme)
+creations-chat 2022-05-13 13:07:40 Alright, i'll try and make another jet. Do you actually know where I can get blueprints?
+creations-chat 2022-05-13 13:37:22 How's this canopy then?
+creations-chat 2022-05-13 13:39:16 Alright, ill fix the nose
+creations-chat 2022-05-13 14:15:06 Didn't we already go over about how I know it's a bad build and im trying to make better?
+creations-chat 2022-05-13 14:22:27 What the hell is a whitename and how do I get a coloured name. What kind of racewar is this!?!?
+creations-chat 2022-05-13 14:25:10 Haven't we already been over this?
+creations-chat 2022-05-13 14:30:30 Ok im going to nandos please give tips when I get back
+creations-chat 2022-05-13 14:32:29 Holy crap my pod racer has 80 up votes
+creations-chat 2022-05-13 14:35:07 Ok so, what do you guys not like about my Knight in creations
+creations-chat 2022-05-13 14:38:45 As in more objects and stuff? Or more paint working
+plane-crazy 2022-05-13 19:20:00 Guyyss, check out this sick space ship I built! (haters and trolls will say its a model from sketchfab)
+plane-crazy 2022-05-13 19:21:00 Ok so basically
+plane-crazy 2022-05-13 19:21:03 Make it have a cockpit
+plane-crazy 2022-05-13 19:21:06 And rotors right?
+plane-crazy 2022-05-13 19:21:11 Let me think
+plane-crazy 2022-05-13 19:21:18 It can also have a tail at the end
+plane-crazy 2022-05-13 19:21:21 That would be sick
+plane-crazy 2022-05-13 19:24:37 Ok fine let me give you another screen shot, it looks better at another angle
+plane-crazy 2022-05-13 19:26:09 (haters will say it's a Blood Angel unit and not a model I made in sketchfab)
+plane-crazy 2022-05-13 19:27:24 Wym, are you a (hater and or troll, who is saying it is a model from sketchfab)
+plane-crazy 2022-05-13 19:28:52 Idm man, I did make it in plane crazy
+plane-crazy 2022-05-13 19:28:56 Lemme get another screenshot
+plane-crazy 2022-05-13 19:29:17 See?
+plane-crazy 2022-05-13 19:29:17 
+plane-crazy 2022-05-13 19:29:37 I personally like how the motor lock is well hidden
+plane-crazy 2022-05-13 19:29:48 And the eagle on the front is well done
+plane-crazy 2022-05-13 19:30:14 Femboy behavior right there
+plane-crazy 2022-05-13 19:30:50 wait
+plane-crazy 2022-05-13 19:30:54 are you actually offended?
+plane-crazy 2022-05-13 19:31:01 oh cool cool
+plane-crazy 2022-05-13 19:31:03 anyways
+plane-crazy 2022-05-13 19:31:15 yo mama so fat
+plane-crazy 2022-05-13 19:31:16 that
+plane-crazy 2022-05-13 19:31:19 xbox live
+plane-crazy 2022-05-13 19:32:27 https://tenor.com/view/xbox-live-yo-mama-yo-mama-jokes-xbox-gif-24332011
+plane-crazy 2022-05-13 19:33:43 Sure let me give you tips
+plane-crazy 2022-05-13 19:33:47 Ok so basically
+plane-crazy 2022-05-13 19:33:51 Make sure it can float
+plane-crazy 2022-05-13 19:33:58 (you can do this by building a hull)
+plane-crazy 2022-05-13 19:34:04 then you can add some controls
+plane-crazy 2022-05-13 19:34:12 (you can do this with water propellors)
+plane-crazy 2022-05-13 19:34:20 Then you can detail it
+plane-crazy 2022-05-13 19:34:28 (you can do this with blocks and other peices)
+plane-crazy 2022-05-13 19:34:33 And then you can save it
+plane-crazy 2022-05-13 19:34:38 (you can do this with the save icon)
+plane-crazy 2022-05-13 19:35:55 Let me get my build up
+plane-crazy 2022-05-13 19:37:28 (source : its real i swear)
+plane-crazy 2022-05-13 19:44:02 Krish from bollywood solos your favourite character
+plane-crazy 2022-05-14 14:23:18 Let's go, im no longer a whitename
+plane-crazy 2022-05-14 14:24:02 This must be how the president feels
+plane-crazy 2022-05-14 14:27:15 On the outside, im a coloured name, but on the inside, im still white 😔
+plane-crazy 2022-05-14 14:28:21 Nothing changed, phew
+plane-crazy 2022-05-14 14:28:33 Red is like, the worst primary colour
+plane-crazy 2022-05-14 14:30:06 smh
+plane-crazy 2022-05-14 14:30:08 society
+plane-crazy 2022-05-14 14:30:27 I blame the patriarchy
+plane-crazy 2022-05-14 14:31:13 c is the worst letter in the alphabet
+plane-crazy 2022-05-14 14:32:19 Tis but a sheer lacking in technically skills
+plane-crazy 2022-05-14 14:33:27 I thought it had eyes
+plane-crazy 2022-05-14 14:33:53 Bro the engines in the background look like eyes

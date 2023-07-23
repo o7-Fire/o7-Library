@@ -1,0 +1,8 @@
+The Tale of fuzz1252 (438897615069773835)
+bug-reports 2020-09-16 22:46:24 2006 trapdoors I think this happened because I placed four diamond plated trapdoors and than deleted two of them on the default material but it only shoes 2006 on diamond plated material and 2000 on all other material even though i have 8 trapdoors placed which are diamond plated
+bug-reports 2020-09-16 22:48:54 i can place 2008 trapdoors
+bug-reports 2020-09-16 22:51:57 it can lag the game by like lest say someone places a 1000 parachute and thane depose it all at the same time it would crash the game
+bug-reports 2020-09-17 06:41:38 Ok im going to trap you wehi the extra trapdoors
+bug-reports 2020-09-17 07:44:38 No
+bug-reports 2020-09-17 07:47:55 Shhhhhhh
+bug-reports 2020-09-22 05:28:19 <@!527653676022628353> I gat it to work on parshot

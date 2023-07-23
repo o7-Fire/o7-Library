@@ -1,0 +1,23 @@
+The Tale of johndoe (413754948975722508)
+plane-crazy 2020-06-06 22:29:39 Was playing the game earlier and this guy was able to weld two parts together without them actually touching
+plane-crazy 2020-06-06 22:29:45 Anyone know how it was done?
+plane-crazy 2020-06-06 22:30:13 He basically had a ship that had a spinning part outside of it
+plane-crazy 2020-06-06 22:31:14 Camera?
+plane-crazy 2020-06-06 22:31:18 how so?
+plane-crazy 2020-06-06 22:32:22 Yeah but how does that let you weld two parts together
+plane-crazy 2020-06-06 22:33:16 OH
+plane-crazy 2020-06-06 22:33:23 crap i didnt know they did that
+plane-crazy 2020-06-06 22:33:24 tyy!
+plane-crazy 2020-06-06 23:14:12 so im doing a little test
+plane-crazy 2020-06-06 23:14:21 my goal is to make it so the top part points where im looking
+plane-crazy 2020-06-06 23:14:23 with motor2's
+plane-crazy 2020-06-06 23:14:32 Its working apart from one bit
+plane-crazy 2020-06-06 23:14:47 that motor I circled is supposed pointing it up and down
+plane-crazy 2020-06-06 23:14:52 But its not working
+plane-crazy 2020-06-06 23:15:15 uhh idk how to describe the issue
+plane-crazy 2020-06-06 23:18:25 yeah its kinda sketch
+plane-crazy 2020-06-06 23:18:32 i think i worked out a way less complicated way though
+plane-crazy 2020-06-07 13:24:21 its **perfect**
+plane-crazy 2020-06-07 13:24:59 
+plane-crazy 2020-06-07 13:25:02 it just spins insanely fast
+plane-crazy 2020-06-07 13:25:39 if you touch it you get sent flying its great

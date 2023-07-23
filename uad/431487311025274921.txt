@@ -1,0 +1,362 @@
+The Tale of britishtrainspotting (431487311025274921)
+bug-reports 2020-04-05 16:01:46 water propellers don't loop the spinning animation, they just get stuck and won't get unstuck until lowering the rpm, but the bug still continues after.
+I have them on a platform attached to pistons, that may be whats causing the bug
+After a couple of minutes the entire platform and most blocks connected to moving parts just "exploded" and disappeared (entire build flung)
+plane-crazy 2020-04-05 16:12:42 Is anyone with a rank willing to post a suggestion I have?
+help 2020-04-05 16:13:51 You need a role, also wrong chat to ask
+bot-central 2020-04-05 16:14:47 ?shelp
+bot-central 2020-04-05 16:14:58 ?rhelp
+help 2020-04-05 16:17:44 <@!195253906333368320> can I please get the `AERONAUTICAL ENGINEER [IV]` Rank? Proof :
+help 2020-04-05 16:17:53 
+help 2020-04-05 16:18:59 it needs to be a plane?
+help 2020-04-05 16:19:10 🤦🏼‍♂️
+help 2020-04-05 16:19:25 one sec lemme add 100 rocket engines to it and some control surfaces...
+help 2020-04-05 16:19:39 /s
+help 2020-04-05 16:20:30 I have an aerovehicle with 200+ blocks
+help 2020-04-05 16:20:36 do drones count?
+help 2020-04-05 16:21:18 
+help 2020-04-05 16:22:08 yeah there is no helium
+help 2020-04-05 16:22:24 hence the big propellors
+help 2020-04-05 16:22:39 So, can I please get the rank?
+help 2020-04-05 16:23:38 aight lemme get the screenshot
+help 2020-04-05 16:24:49 It does have helium but It is capable of flight without helium so lemme just change all the helium to make sure it is capable of flight
+help 2020-04-05 16:26:58 sure thing
+help 2020-04-05 16:27:37 its mp4
+help 2020-04-05 16:30:00 Sending video once its finished doing whatever the recorder is doing
+help 2020-04-05 16:30:38 What is that
+help 2020-04-05 16:31:44 ok.
+help 2020-04-05 16:32:30 https://streamable.com/78e6bt
+help 2020-04-05 16:34:06 Thats valid right?
+help 2020-04-05 16:34:26 aight taking screenshot
+help 2020-04-05 16:35:07 
+help 2020-04-05 16:36:23 Thanks
+bot-central 2020-04-05 16:36:40 ?shelp
+bug-reports 2020-04-05 16:42:02 That would be useful in most cases though... Wish I had that bug, would help with alot of builds
+bot-central 2020-04-05 16:43:17 %suggest Ability to change the grid placement, a 1 stud grid is cool and all but would be nice if we had some options (0.1 , 0.5 grid , 1 , 2 ,)
+plane-crazy 2020-04-05 17:00:52 Anyone able to give me some kind of explanation on how to make planes that work? (a video would help too)
+bug-reports 2020-04-10 19:55:10 why are all my planes now super back heavy?!
+bug-reports 2020-04-10 19:55:22 none of my planes work after the new roblox update
+bug-reports 2020-04-10 19:56:21 roblox did a bad update and sleeping parts exist again
+bug-reports 2020-04-10 23:10:21 why are planes broken in every server? is this due to the roblox sleeping parts bug that has reappeared?
+bug-reports 2020-04-10 23:29:50 roblox sleeping parts seem to be the problem
+bug-reports 2020-04-10 23:30:05 just gotta wait for them to remove it again
+bug-reports 2020-04-10 23:30:14 its not a 100% occuring "bug"
+bug-reports 2020-04-10 23:30:24 but its nothing developers can fix sadly
+general 2020-05-11 23:51:39 ayy roblox making yet another update no one wanted
+general 2020-05-11 23:51:58 an outline is an outline
+general 2020-05-11 23:52:05 there should be a setting for toggling outlines in-game
+general 2020-05-11 23:52:43 stop raging , its roblox's fault
+general 2020-05-11 23:53:20 if outlines are added then that would be good
+general 2020-05-12 00:10:58 you realise roblox has wireframes (a feature similar to outlines) on its roadmap rick?
+bot-central 2020-05-15 20:21:41 !help
+bot-central 2020-05-15 20:21:58 can someone remind me how to suggest something?
+bot-central 2020-05-15 20:22:10 ?shelp
+general 2020-05-15 23:27:46 Aww man the shutdown bunker failed
+general 2020-05-15 23:27:48 we ded
+general 2020-05-16 00:21:59 Is there a reason that some of my pistons just aren't working?
+general 2020-05-16 00:22:28 they have max force, and have 2 pistons above them, its carrying a somewhat heavy object but with the force they have it should work fine
+general 2020-05-16 00:22:33 the bottom pistons aren't firing
+general 2020-05-16 00:24:10 nvm found a small block that was wrong
+creations-chat 2020-05-16 22:45:36 Currently making a short video on my Hidden Base / Sci-Fi Facility to post in <#384025409945337856> So you can see it as it is right now! Got lots of progress done on it since yesterdays post
+bug-reports 2020-05-17 02:43:57 Any cameras in an anchored build breaks the Entire build
+bug-reports 2020-05-17 02:44:21 I cannot use cameras at all in my build
+bug-reports 2020-05-17 03:05:57 I have a build with over 3k Blocks
+bug-reports 2020-05-17 03:06:01 its mostly anchored
+bug-reports 2020-05-17 03:06:13 it has some moving parts such as parts connected to motors
+bug-reports 2020-05-17 03:06:34 wym
+bug-reports 2020-05-17 03:07:50 he tried undoing it, it gave him an error
+bug-reports 2020-05-17 03:07:52 (hes a friend)
+bug-reports 2020-05-17 03:08:00 aight
+bug-reports 2020-05-17 03:08:25 would I be able to stream in a vc anywhere to show this?
+bug-reports 2020-05-17 03:09:35 whats the other place that you can upload to
+bug-reports 2020-05-17 03:09:40 I don't have time to upload to youtube
+bug-reports 2020-05-17 03:10:13 website link?
+bug-reports 2020-05-17 03:12:34 imma upload shortly
+bug-reports 2020-05-17 03:12:45 imma show a screenshot of what a SINGLE camera does
+bug-reports 2020-05-17 03:12:55 
+bug-reports 2020-05-17 03:13:05 this is an anchored build
+bug-reports 2020-05-17 03:13:25 cameras are beasts
+bug-reports 2020-05-17 03:14:31 inside
+bug-reports 2020-05-17 03:14:40 the build is anchored
+bug-reports 2020-05-17 03:14:47 all the parts that have glitched are anchored
+bug-reports 2020-05-17 03:15:03 I'm reporting a bug
+bug-reports 2020-05-17 03:15:10 I don't need the camera outside
+bug-reports 2020-05-17 03:15:15 I need them inside
+bug-reports 2020-05-17 03:15:43 I literally fail to see how a camera would do this, unless it was EXTREMELY poorly scripted or something
+bug-reports 2020-05-17 03:15:55 its bizarre really
+bug-reports 2020-05-17 03:16:00 but I just tested your theory
+bug-reports 2020-05-17 03:16:04 its fine outside
+bug-reports 2020-05-17 03:16:13 the camera is definately making a PHYSICAL link to something
+bug-reports 2020-05-17 03:16:34 how do cameras "Connect"
+bug-reports 2020-05-17 03:16:43 I placed one outside
+bug-reports 2020-05-17 03:16:46 build was fine
+bug-reports 2020-05-17 03:16:52 but camera was invisible / gone
+bug-reports 2020-05-17 03:17:12 it was connected
+bug-reports 2020-05-17 03:17:30 wait
+bug-reports 2020-05-17 03:17:34 I might have found the problem
+bug-reports 2020-05-17 03:17:51 or not
+bug-reports 2020-05-17 03:18:06 outside seems to be fine
+bug-reports 2020-05-17 03:18:10 inside, is another story
+bug-reports 2020-05-17 03:18:37 any camera outside goes invisible
+bug-reports 2020-05-17 03:19:03 ah
+bug-reports 2020-05-17 03:19:04 
+bug-reports 2020-05-17 03:19:08 so its broken when its placed inside
+bug-reports 2020-05-17 03:19:12 its visible inside
+bug-reports 2020-05-17 03:19:18 and, breaks the entire build
+bug-reports 2020-05-17 03:19:36 I honestly don't know
+bug-reports 2020-05-17 03:19:49 just
+bug-reports 2020-05-17 03:19:51 Anywhere
+bug-reports 2020-05-17 03:19:57 I've literally tried this 5 times yesterday
+bug-reports 2020-05-17 03:19:59 different locations
+bug-reports 2020-05-17 03:20:04 inside? goodbye build
+bug-reports 2020-05-17 03:20:09 outside? fine
+bug-reports 2020-05-17 03:20:20 atleast where I've tried it outside its fine
+bug-reports 2020-05-17 03:20:28 imma try other places to see if its still the same
+bug-reports 2020-05-17 03:22:10 
+bug-reports 2020-05-17 03:22:15 The rocket in the centre is unanchored
+bug-reports 2020-05-17 03:22:21 but I've tried before the rocket existed
+bug-reports 2020-05-17 03:22:28 anywhere inside + camera
+bug-reports 2020-05-17 03:22:30 = hell
+bug-reports 2020-05-17 03:22:38 no matter where I place it
+bug-reports 2020-05-17 03:22:40 on the floor
+bug-reports 2020-05-17 03:22:42 on the ceiling
+bug-reports 2020-05-17 03:22:43 on the wall
+bug-reports 2020-05-17 03:22:48 near the border
+bug-reports 2020-05-17 03:22:51 near the centre
+bug-reports 2020-05-17 03:22:59 just anywhere inside
+bug-reports 2020-05-17 03:23:04 the camera decides to become satan
+bug-reports 2020-05-17 03:23:49 I think so
+bug-reports 2020-05-17 03:24:05 most definately welding wrong, but idk how
+bug-reports 2020-05-17 03:25:11 aight
+bug-reports 2020-05-17 03:25:15 lemme get the camera back in place
+bug-reports 2020-05-17 03:25:39 what the...
+bug-reports 2020-05-17 03:25:42 the cameras fine now
+bug-reports 2020-05-17 03:25:44 wait a minute
+bug-reports 2020-05-17 03:26:21 this is strange
+bug-reports 2020-05-17 03:26:23 its not acting up
+bug-reports 2020-05-17 03:26:29 even though its in the exact same spot
+bug-reports 2020-05-17 03:26:33 exact same orientation
+bug-reports 2020-05-17 03:26:35 nothings changed
+bug-reports 2020-05-17 03:26:39 except time
+bug-reports 2020-05-17 03:27:17 nothing shows up in the F9 log when it happens
+bug-reports 2020-05-17 03:27:20 imma send it anyway
+bug-reports 2020-05-17 03:27:33 actually
+bug-reports 2020-05-17 03:27:37 none of this is related
+bug-reports 2020-05-17 03:27:53 if any errors are showing its defo in the global output
+bug-reports 2020-05-17 03:28:16 Client outputs (what a non-dev sees) don't tend to show much
+bug-reports 2020-05-17 03:28:22 its just stuff from when I joined
+bug-reports 2020-05-17 03:28:26 shows every time I join
+bug-reports 2020-05-17 03:28:46 Aight
+bug-reports 2020-05-17 03:28:58 I'm as confused as you are
+bug-reports 2020-05-17 03:29:11 I've never seen this happen before
+bug-reports 2020-05-17 03:29:15 except with motors
+bug-reports 2020-05-17 03:29:29 its not fixed
+bug-reports 2020-05-17 03:29:40 I think its when I target it on a moving part
+bug-reports 2020-05-17 03:29:45 but its welded to an anchored part
+bug-reports 2020-05-17 03:29:48 that might be the problem
+bug-reports 2020-05-17 03:29:51 but thats just a theory
+bug-reports 2020-05-17 03:29:55 I'm still not entirely sure
+bug-reports 2020-05-17 03:30:33 I'm going to test this a bit further
+bug-reports 2020-05-17 03:30:45 I am starting to suspect its exactly what I said
+bug-reports 2020-05-17 03:31:58 
+bug-reports 2020-05-17 03:31:59 Like this?
+bug-reports 2020-05-17 03:32:06 aight
+bug-reports 2020-05-17 03:32:32 yeah its not broken
+bug-reports 2020-05-17 03:32:42 I think its when a camera is welded to an anchored part
+bug-reports 2020-05-17 03:32:47 and its looking at a movable part
+bug-reports 2020-05-17 03:32:57 thats all I can suspect from my tests
+bug-reports 2020-05-17 03:33:32 Do you still want me to get that video?
+bug-reports 2020-05-17 03:33:41 aight
+bug-reports 2020-05-17 03:34:14 aight , it's going to take a min or two
+bug-reports 2020-05-17 03:34:24 yeah
+bug-reports 2020-05-17 03:36:53 did you delete the block it was facing at/targetting?
+bug-reports 2020-05-17 03:37:39 cameras are demons
+bug-reports 2020-05-17 03:37:50 when/if this bug is fixed, I'd like a 3rd person camera too
+bug-reports 2020-05-17 03:37:55 would be helpful for tracking rockets
+bug-reports 2020-05-17 03:38:03 or just remotely controlling vehicles
+bug-reports 2020-05-17 03:38:52 Should I test this bug on other builds?
+bug-reports 2020-05-17 03:39:05 I can build some random things to see if its the same
+bug-reports 2020-05-17 03:40:17 that would invalidate the result though
+bug-reports 2020-05-17 03:40:26 so
+bug-reports 2020-05-17 03:40:26 I don't have locked motors on my build
+bug-reports 2020-05-17 03:42:19 I FOUND THE PROBLEM
+bug-reports 2020-05-17 03:42:26 When a camera is facing a different way
+bug-reports 2020-05-17 03:42:35 the blocks its welded to ROTATE to its orientation]
+bug-reports 2020-05-17 03:42:50 and when anchored blocks come into it, well its gets more messy
+bug-reports 2020-05-17 03:43:05 also https://streamable.com/rluxek
+Its processing
+bug-reports 2020-05-17 03:43:10 but yeah
+bug-reports 2020-05-17 03:43:16 this is 99% certain the cause
+bug-reports 2020-05-17 03:43:41 Anchored blocks aren't the cause / problem
+bug-reports 2020-05-17 03:44:05 actually
+bug-reports 2020-05-17 03:44:08 100% The cause
+bug-reports 2020-05-17 03:44:39 very strange
+bug-reports 2020-05-17 03:44:45 but we found the problem
+bug-reports 2020-05-17 03:45:00 ~~when you speak to rick to get the problem fixed, can you ask for 3rd person cameras too?~~
+bug-reports 2020-05-17 03:45:10 what do you mean helpful?
+bug-reports 2020-05-17 03:45:24 true
+bug-reports 2020-05-17 03:45:37 but its a glitch that breaks alot of stuff so
+bug-reports 2020-05-17 03:47:56 also are you allowed to throw that request in
+bug-reports 2020-05-17 03:50:51 fair enough
+creations-chat 2020-05-17 07:01:59 motors
+general 2020-05-31 06:21:42 <@!562110003675136006> your suggestion to add control seats , its not needed, Pilot seats exist and literally do this.
+general 2020-05-31 06:21:58 you should use pilot seats as this is what you are looking for
+bot-central 2020-05-31 06:26:00 !help
+bot-central 2020-05-31 06:26:05 %help
+bot-central 2020-05-31 06:26:09 %shelp
+bot-central 2020-05-31 06:26:11 !shelp
+bot-central 2020-05-31 06:26:12 -shelp
+bot-central 2020-05-31 06:26:14 -help
+bot-central 2020-05-31 06:26:19 ;help
+bot-central 2020-05-31 06:34:59 %suggest Building Suggestions
+[Building]
+1. Materials
+This is a simple one to add, please add all roblox materials into the game, the current list of materials is missing some very decorative materials such as bricks or the forcefield.
+2. Please allow us to place wedges inside other wedges if in the opposite orientation (and other blocks that physically fit within the same blockspace) This would allow for some very awesome decorative abilities of which currently aren't possible
+3. Weld Blocks, this will be similar to the paint block, but instead of allowing painting on all sides, allows you to choose which sides weld and which do not. Alternatively a way to break a weld connection from happening with touching blocks would also be very useful, alongside allowing the weld to be remade (A weld tool)
+bot-central 2020-05-31 06:35:56 why's it not working
+bot-central 2020-05-31 06:36:11 %suggest
+ Building Suggestions
+[Building]
+1. Materials
+This is a simple one to add, please add all roblox materials into the game, the current list of materials is missing some very decorative materials such as bricks or the forcefield.
+2. Please allow us to place wedges inside other wedges if in the opposite orientation (and other blocks that physically fit within the same blockspace) This would allow for some very awesome decorative abilities of which currently aren't possible
+3. Weld Blocks, this will be similar to the paint block, but instead of allowing painting on all sides, allows you to choose which sides weld and which do not. Alternatively a way to break a weld connection from happening with touching blocks would also be very useful, alongside allowing the weld to be remade (A weld tool)
+general 2020-05-31 06:36:29 why is the suggestion command broken
+general 2020-05-31 06:37:02 I know it is
+general 2020-05-31 06:37:03 its broken
+general 2020-05-31 06:37:11 oh wait
+general 2020-05-31 06:37:24 lmao was doing wrong symbol
+general 2020-05-31 06:44:00 well it is dangerous
+general 2020-05-31 06:44:19 its a trojan
+general 2020-05-31 06:45:31 sigh
+general 2020-05-31 06:47:14 mate you honestly have to be underaged to be that unintelligent
+general 2020-05-31 06:47:25 no offence
+general 2020-05-31 06:51:28 :/
+general 2020-05-31 06:51:39 basically 14+ then
+bug-reports 2020-05-31 07:28:02 Trapdoors are affected by anchor blocks, meaning they cannot be opened or closed
+bug-reports 2020-05-31 07:35:25 are there heavier blocks on the right?
+creations-chat 2020-06-03 00:24:59 Thanks
+general 2020-06-03 01:44:52 how do you change your name colour?
+bot-central 2020-06-03 01:49:41 !help
+bot-central 2020-06-03 01:49:54 -help
+bot-central 2020-06-03 01:51:16 is there a command to change username colours?
+bot-central 2020-06-03 01:51:53 thats not a channel
+general 2020-06-03 02:02:23 how do you get the I read the rules rank?
+general 2020-06-18 22:13:13 sad that the logo's not animated
+general 2020-06-18 22:13:38 oh a different animation
+general 2020-06-18 22:13:42 I liked the old one...
+general 2020-06-21 21:56:32 one of the thumbnails still says one mil visits, its 44+ M visits lmao
+general 2020-06-21 21:56:49 yes
+bug-reports 2020-06-23 19:11:16 Small water propellers (Water Propeller 2 is the one I'm using) delete when in "flight" mode
+bug-reports 2020-06-23 19:11:26 
+bug-reports 2020-06-23 19:11:45 (the actual propellor isn't visible)
+plane-crazy 2020-06-25 02:18:31 Why are trapdoors not the same weight as a normal block
+plane-crazy 2020-06-25 02:18:35 😠
+plane-crazy 2020-06-25 02:23:31 ok nvm my problem is motors not being the weight of a normal block
+plane-crazy 2020-06-25 02:33:18 Please explain why a symmetrical build is heavier on one side
+plane-crazy 2020-06-25 02:35:14 well it is symmetrical
+plane-crazy 2020-06-25 02:35:37 <@!667756016116695040> I have the same problem with a boat of mine too, but its turning left
+plane-crazy 2020-06-25 02:35:44 very slightly
+plane-crazy 2020-06-25 02:35:46 but very annoying
+plane-crazy 2020-06-25 05:53:11 This idiot made a lag machine. Nice that we cant even report users now
+plane-crazy 2020-06-25 06:04:34 no need to ping me lol
+plane-crazy 2020-06-25 06:04:46 idk how its so hard to just PLAY THE GAME properly
+plane-crazy 2020-06-25 06:04:54 if you dont like the way you play a game, don't play it
+plane-crazy 2020-06-25 06:05:03 well yea
+plane-crazy 2020-06-25 06:05:04 but like
+plane-crazy 2020-06-25 06:05:10 you're meant to make something creative
+plane-crazy 2020-06-25 06:05:14 a lag machine IS NOT creative
+plane-crazy 2020-06-25 06:05:26 being creative is how you play a sandbox game
+plane-crazy 2020-06-25 06:05:29 not spamming blocks
+plane-crazy 2020-06-25 06:07:20 well you must be creative
+plane-crazy 2020-06-25 06:07:28 doesn't mean you need to be a good builder
+plane-crazy 2020-06-27 05:51:45 why can players not collide with builds spawned at rails when not in flight mode
+plane-crazy 2020-06-27 05:52:35 PEOPLE WHO AREN'T IN FLIGHT MODE
+plane-crazy 2020-06-27 05:52:37 Collide with trains
+plane-crazy 2020-06-27 05:52:44 people in flightmode, sure makes sense
+plane-crazy 2020-06-27 05:52:47 made sense before
+plane-crazy 2020-06-27 05:53:00 but people who aren't in flight mode can't collide with trains anymore
+plane-crazy 2020-06-27 05:54:17 I don't think you understand english mate
+plane-crazy 2020-06-27 05:54:32 negative
+plane-crazy 2020-06-27 05:54:38 I haven't blacklisted my friend
+bug-reports 2020-06-27 06:00:57 players **not in flight mode** cannot collide with your build when spawned at rails. Collisions should only be disabled for blacklisted or other people who are in flightmode and spawned at rails
+(No they aren't blacklisted, yes we tried resetting, rejoining, new server, the lot.)
+bug-reports 2020-06-27 06:01:12 meaning that the train I spent hours on cant be looked at inside by anyone
+creations-chat 2020-06-29 05:02:34 why is it that all the good creations get downvoted?
+creations-chat 2020-06-29 05:02:49 I swear there are downvote hunters
+creations-chat 2020-06-29 05:02:57 people just downvoting bc yes
+creations-chat 2020-06-29 05:06:50 if you enjoy your build, thats what really matters
+creations-chat 2020-06-29 05:07:33 I've been working on my hidden base again recently
+creations-chat 2020-06-29 05:07:51 added some flush door type stuff
+creations-chat 2020-06-29 05:08:11 <@!586658356907999242> 👍🏼
+creations-chat 2020-06-29 05:08:45 holy shit I swear that dude has a rare hat
+creations-chat 2020-06-29 05:08:57 really old hat atleast
+creations-chat 2020-06-29 05:09:10 thats from like early roblox
+creations-chat 2020-06-29 05:09:16 around 2008 - 2010 era
+creations-chat 2020-06-29 05:09:39 mhm
+creations-chat 2020-06-29 05:12:11 yeah its a limited https://www.roblox.com/catalog/1028606/Red-Baseball-Cap
+creations-chat 2020-06-29 05:12:25 not that expensive
+creations-chat 2020-06-29 05:12:56 probs one of the cheapest limiteds
+creations-chat 2020-06-29 05:13:01 sure
+creations-chat 2020-06-29 05:15:06 no
+creations-chat 2020-06-29 05:15:31 lol
+creations-chat 2020-06-29 05:17:02 make a large trump on scooter
+creations-chat 2020-06-29 05:17:12 wait no
+creations-chat 2020-06-29 05:17:14 boris johnson
+creations-chat 2020-06-29 05:17:32 why?
+creations-chat 2020-06-29 05:18:00 well just get creative
+creations-chat 2020-06-29 05:18:08 experiment
+creations-chat 2020-06-29 05:18:18 <@!577655331229007872> got any pics of ur builds
+creations-chat 2020-06-29 05:18:41 I've made 2 big builds so far
+creations-chat 2020-06-29 05:18:54 I have like enough data storage for one more then I won't have much left
+creations-chat 2020-06-29 05:19:39 you made a mech that early
+creations-chat 2020-06-29 05:19:40 damn
+creations-chat 2020-06-29 05:19:43 I've never made a mech
+creations-chat 2020-06-29 05:19:46 or attempted...
+creations-chat 2020-06-29 05:19:55 show
+creations-chat 2020-06-29 05:20:13 I mean
+creations-chat 2020-06-29 05:20:16 the logic seems simple
+creations-chat 2020-06-29 05:20:21 but the keybinds would be hell to remember
+creations-chat 2020-06-29 05:20:45 not if you add more things
+creations-chat 2020-06-29 05:20:49 only 2 keybinded for legs
+creations-chat 2020-06-29 05:20:52 but more for arms
+creations-chat 2020-06-29 05:20:54 or guns
+creations-chat 2020-06-29 05:20:58 or extra mechy parts
+creations-chat 2020-06-29 05:21:16 just legs isn't a real mech
+creations-chat 2020-06-29 05:21:29 I might try making a mini mech
+creations-chat 2020-06-29 05:21:40 actually yes I'm making a mini mech
+creations-chat 2020-06-29 05:21:43 <@!586658356907999242> show
+creations-chat 2020-06-29 05:23:28 bru
+creations-chat 2020-06-29 05:24:14 its a roblox limit bruh
+creations-chat 2020-06-29 05:24:26 if you could have infinite, you'd easily be able to make an exploit and break roblox
+creations-chat 2020-06-29 05:24:36 or make a game that did such a thing
+creations-chat 2020-06-29 05:25:02 I mean, if you run your game on your own server and not roblox's then you can have infinite if you so choose
+creations-chat 2020-06-29 05:26:55 ok, making a mech is harder than it seems
+creations-chat 2020-06-29 05:28:46 motors aren't glitched
+creations-chat 2020-06-29 05:29:01 I wish I could even make a small mech
+creations-chat 2020-06-29 16:16:09 <@!557829394719178752> nice
+bug-reports 2020-09-19 21:33:37 Due to a roblox physics update (I presume) motors now randomly glitch and builds containing motors are more or less broken
+bug-reports 2020-09-19 21:34:13 to be specific any flush doors are extremely affected
+plane-crazy 2020-09-19 21:47:43 Smh why aren't all roblox textures in the paint materials menu
+plane-crazy 2020-09-19 21:47:46 just cmon
+plane-crazy 2020-09-19 21:49:10 and can't change material of most non-normal blocks like motors
+bug-reports 2020-09-19 22:40:33 trapdoors are also client only
+bug-reports 2020-09-19 22:40:41 they do not work for other players
+bug-reports 2020-09-19 22:41:07 also when standing on anothers build you get moved along like its a conveyor
+bug-reports 2020-09-19 22:57:28 kk
+bug-reports 2020-09-19 22:57:34 screw roblox
+plane-crazy 2020-10-20 18:09:26 Roblox needs the white banner up again
+plane-crazy 2020-10-20 18:10:37 people could lose data in games they play, the white banner should be up again
+bug-reports 2020-10-20 20:38:55 When a player is blacklisted in a game, they will remain blacklisted until you leave and rejoin the game. Not sure what causes the bug. Minor bug really.
+bug-reports 2020-10-20 20:44:56 also trapdoors, engine sounds and engine animations are client only, they don't show for other players
+bug-reports 2020-10-23 01:24:25 trapdoors are client only, their state only changes for the client whom is controlling the build with them
+bug-reports 2020-10-23 02:26:43 they break everything lmao
+bug-reports 2020-10-23 02:45:48 can't it be fixed tho?
+plane-crazy 2020-10-23 20:03:17 How does one get the donation chat tag?
+plane-crazy 2020-10-23 20:03:29 where
+plane-crazy 2020-10-23 20:03:43 which is where
+general 2022-05-12 16:36:16 does anyone have the universal id for Plane Crazy?
+bot-central 2022-05-12 16:37:04 !verify
+general 2022-05-12 16:38:01 unfortunately it is not.
+bot-central 2022-05-12 16:38:27 how can I fix this username lol, bit silly to have the verify channel hide itself even tho I've not been here for yonks and this is defo not my username

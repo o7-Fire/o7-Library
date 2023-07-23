@@ -1,0 +1,106 @@
+The Tale of Queso_guy54 (755928253847568446)
+general 2022-02-02 05:34:51 When is plane crazy 2 gonna be released?
+general 2022-03-07 21:49:23 have they given out a date for thet release for plane crazy 2? any updates at least?
+general 2022-03-07 21:50:10 k thx
+bug-reports 2022-03-08 03:47:31 same has happened to me
+bug-reports 2022-03-08 03:47:57 it is quite annoying
+help 2022-03-17 23:54:36 how would i make a ball shaped front for this?
+help 2022-03-17 23:54:46 Its the start of a zeppelin
+help 2022-03-17 23:56:44 anyone?
+help 2022-03-17 23:56:52 help pls
+help 2022-03-18 00:06:13 trying something
+general 2022-05-07 02:08:13 what type of weapons can i use the water spitter for? what is its purpose?
+general 2022-05-07 02:08:54 how?
+general 2022-05-07 02:09:06 oof lol
+general 2022-05-17 23:45:09 how do you suggest stuff in the suggestions channel?
+bot-central 2022-05-17 23:45:28 ?shelp
+general 2022-05-17 23:45:41 k thx
+bot-central 2022-05-17 23:52:21 !rank
+help 2022-05-18 00:35:08 cheese
+help 2022-05-18 01:26:58 burger
+creations-chat 2022-05-18 01:29:02 8/10
+bot-central 2022-05-18 01:29:52 !rank
+bot-central 2022-05-18 01:29:58 !rank
+bot-central 2022-05-18 01:30:01 oof
+the-dump 2022-05-18 01:32:15 ouch
+bot-central 2022-05-18 01:32:30 !rank
+bot-central 2022-05-18 01:32:40 yay
+bot-central 2022-05-18 01:32:46 cheesee
+creations-chat 2022-05-18 01:34:21 <:trollface:775024642104229898>
+creations-chat 2022-05-18 01:37:58 wow that looks epic. Great job
+the-dump 2022-05-18 01:39:00 oof
+the-dump 2022-05-18 02:45:46 Amongus
+help 2022-05-18 02:47:00 cheesee
+bot-central 2022-05-18 02:48:18 cheeseeburgeerrr
+bot-central 2022-05-18 02:48:22 !rank
+bot-central 2022-05-18 02:48:27 yay
+bot-central 2022-05-18 02:48:37 #9811 place
+contest-chat 2022-05-18 02:51:23 allow
+creations-chat 2022-05-18 02:54:54 Nice builds. you can add helium to the top of a tower or smokestack to make it stay more upright
+creations-chat 2022-05-18 02:57:04 how long did it take you to make just one of those ships?
+bot-central 2022-05-18 02:57:41 lets see..
+bot-central 2022-05-18 02:57:44 !rank
+bot-central 2022-05-18 02:57:53 sad
+bot-central 2022-05-18 02:57:58 not lvl 3 yet
+bot-central 2022-05-18 02:58:01 oof
+the-dump 2022-05-18 03:19:52 fishy
+the-dump 2022-05-18 03:19:53 pro
+the-dump 2022-05-18 03:19:56 😎
+bot-central 2022-05-18 03:20:29 !rank
+bot-central 2022-05-18 03:20:35 oof
+bot-central 2022-05-18 03:20:38 didn't work
+bot-central 2022-05-18 03:20:40 !rank
+bot-central 2022-05-18 03:20:43 there
+bot-central 2022-05-18 04:37:24 !rank
+the-dump 2022-05-18 04:37:40 sad
+help 2022-05-18 13:22:34 what is your problem?
+the-dump 2022-05-18 13:22:44 burgerrr
+bot-central 2022-05-18 13:30:06 !rank
+general 2022-05-18 13:33:57 how do i post suggestions?
+general 2022-05-18 13:34:38 <:PogU:670373666164572172>
+bot-central 2022-05-18 13:34:56 ?shelp
+bot-central 2022-05-18 13:47:53 ?rhelp
+bot-central 2022-05-22 18:16:25 !shelp
+bot-central 2022-05-22 18:16:31 ?shelp
+bot-central 2022-05-25 13:48:41 $rank
+help 2022-05-28 23:58:28 how do you get ranks in this server? I want to post a suggestion so I applied for rank 2 aeronautics engineer w/ a build of mine but when I come back a day later the suggestion ticket is gone.
+help 2022-05-29 00:47:01 oof thx. didn't know how to check
+bot-central 2022-05-29 00:48:49 ?whois
+help 2022-05-29 17:23:45 how do you post suggestions?
+help 2022-05-29 17:24:18 or I guess submit suggestions?
+help 2022-05-29 18:23:09 thx
+bot-central 2022-06-22 17:53:15 &suggestion 
+[Timer Blocks for PC2]
+[CONFIGURABLE]
+The Timer Block would be a block that has 2 configurable keybinds and a time delay slider from 0.1 to 10 seconds and a button labeled hold. One of the keybinds is the input which activates the timer, then the block waits however long you put on the time delay slider, then it presses or holds (for 3 seconds) the other keybind depending if you pressed the button labled hold. This would help in non-pvp, ex: rocket stages breaking off at certain sections, auto decontamination chamber, ect. And it could be used in pvp, ex: auto delayed armor piercing bombs, motorlock the plane fold the wings out to prep for takeoff, etc.
+[OTHER INFORMATION]
+Would work well with previous idea submittion: 
+sensors-https://discord.com/channels/384021699466756103/507673335816126509/980544170273964062
+bot-central 2022-06-22 17:53:40 ?shelp
+bot-central 2022-06-22 22:46:14 &suggestion 
+[Timer Blocks for PC2]
+[CONFIGURABLE]
+The Timer Block would be a block that has 2 configurable keybinds and a time delay slider from 0.1 to 10 seconds and a button labeled hold. One of the keybinds is the input which activates the timer, then the block waits however long you put on the time delay slider, then it presses or holds (for 3 seconds) the other keybind depending if you pressed the button labled hold. This would help in non-pvp, ex: rocket stages breaking off at certain sections, auto decontamination chamber, ect. And it could be used in pvp, ex: auto delayed armor piercing bombs, motorlock the plane fold the wings out to prep for takeoff, etc.
+[OTHER INFORMATION]
+Would work well with previous idea submittion: 
+sensors-https://discord.com/channels/384021699466756103/507673335816126509/980544170273964062
+bot-central 2022-06-22 22:47:01 ?shelp
+bot-central 2022-06-22 22:48:11 &suggestion <
+[Timer Blocks for PC2]
+[CONFIGURABLE]
+The Timer Block would be a block that has 2 configurable keybinds and a time delay slider from 0.1 to 10 seconds and a button labeled hold. One of the keybinds is the input which activates the timer, then the block waits however long you put on the time delay slider, then it presses or holds (for 3 seconds) the other keybind depending if you pressed the button labled hold. This would help in non-pvp, ex: rocket stages breaking off at certain sections, auto decontamination chamber, ect. And it could be used in pvp, ex: auto delayed armor piercing bombs, motorlock the plane fold the wings out to prep for takeoff, etc.
+[OTHER INFORMATION]
+Would work well with previous idea submittion: 
+sensors-https://discord.com/channels/384021699466756103/507673335816126509/980544170273964062 >
+bot-central 2022-06-22 22:48:28 what am I doing wrong?
+bot-central 2022-06-22 22:48:35 anyone?
+the-dump 2022-07-11 21:40:48 just calculated it, you are older than 68 years
+bot-central 2022-08-04 03:37:49 how do you post a suggestion?
+bot-central 2022-08-04 03:37:58 ?help
+bot-central 2022-08-04 03:38:15 thx
+general 2022-08-28 22:20:54 what is the new pc2 release date
+general 2022-08-28 22:20:56 ?
+general 2022-11-23 04:54:26 pc 2 never coming out is it?
+general 2022-11-23 23:35:34 when pc2 coming out?
+general 2022-11-23 23:35:52 oof
+general 2022-11-27 06:43:34 no pc2

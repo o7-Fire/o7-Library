@@ -1,0 +1,471 @@
+The Tale of dbcaad (373633948095348736)
+help 2019-09-27 20:15:46 yo
+help 2019-09-27 20:15:54 why aint my props working?
+help 2019-09-27 20:20:16 aight
+help 2019-09-27 20:20:46 https://gyazo.com/8aa9c541ec0d034b17aebe7f6e3391df
+help 2019-09-27 20:22:13 they spin, however after a few seconds they just fly off and the whole thing breaks
+help 2019-09-27 20:22:19 lemme grab a gif of it
+help 2019-09-27 20:23:17 https://gyazo.com/11ae62babd61cf81c5834917358cfd21
+help 2019-09-27 20:23:52 oh man
+help 2019-09-27 20:24:04 damn ok thanks for the help
+help 2019-09-27 20:24:45 what is the difference?
+help 2019-09-27 20:26:00 i have 2
+help 2019-09-27 20:26:10 so it should be 100 speed correct?
+help 2019-09-27 20:26:12 ok
+help 2019-09-27 20:33:30 k well it doesnt break anymore its just slow as a tortoise and it dont fly
+plane-crazy 2019-09-27 21:08:53 bruh
+plane-crazy 2019-09-27 21:09:03 can we buff large jet engines
+plane-crazy 2019-09-27 21:09:17 why are four small ones better than one large one
+general 2019-10-29 06:36:30 guys i made a 100% mechanical chinook
+general 2019-10-29 06:37:01 yes
+general 2019-10-30 05:25:52 anybody made a working bell 212 yet?
+general 2019-10-30 05:26:11 like, the proper way, without rockets or jets?
+general 2019-10-30 06:18:34 yeah but like
+general 2019-10-30 06:18:55 how do you make it stay upright without the stacked rotors
+general 2019-10-30 06:24:06 non coaxial
+general 2019-10-30 06:24:09 thats the word
+general 2019-10-30 06:24:22 how make too hard for me small head
+general 2019-10-31 02:36:35 how make non-coaxial 😠
+the-dump 2019-10-31 02:45:00 stfu boomer
+general 2019-10-31 04:29:06 if anyone makes a non coaxial heli please let me know
+general 2019-10-31 05:54:33 alright im confident that i just suck at this game
+general 2019-10-31 05:54:41 what the frick
+general 2019-11-02 06:30:19 guys ok heres the issue
+general 2019-11-02 06:30:26 how make rack and pinion?
+plane-crazy 2019-11-02 07:00:46 what is the easiest way to make gears of cogs?
+plane-crazy 2019-11-02 07:13:57 guys guys guys guys how make rack and pinion
+plane-crazy 2019-11-02 07:17:31 what the frick i spent like 10 minutes trying to make a steering system in the most realistic way possible and this guys comes in and is like
+plane-crazy 2019-11-02 07:18:00 aha but his wheels are not level with the ground i can make better one
+plane-crazy 2019-11-02 07:18:26 oh wait that isnt true steering i aint mad no more
+plane-crazy 2019-11-02 07:18:39 ok i see
+plane-crazy 2019-11-02 07:19:05 it isnt like true steering though because the wheels are moving foreward and back
+plane-crazy 2019-11-02 07:19:25 i did that man it just wont work
+plane-crazy 2019-11-02 07:22:24 https://gyazo.com/986748280970465597f01cc5cc71e078
+plane-crazy 2019-11-02 07:22:28 it doesnt i promise
+plane-crazy 2019-11-02 07:22:58 does the friction block even do anything?
+plane-crazy 2019-11-02 07:23:13 oh ok
+plane-crazy 2019-11-02 07:23:26 does changing the texture do things?
+plane-crazy 2019-11-02 07:23:30 thats cool
+plane-crazy 2019-11-02 07:24:28 ok it works but it is really shoddy
+plane-crazy 2019-11-02 07:25:50 go away
+plane-crazy 2019-11-02 07:25:54 i made it work man
+plane-crazy 2019-11-02 07:46:51 <@456226577798135808> the fabric wasnt welded to the thing
+plane-crazy 2019-11-02 07:47:00 i have wedges and half blocks under
+plane-crazy 2019-11-02 07:47:06 also i made it work
+plane-crazy 2019-11-02 08:00:08 i made steering system haha very cool
+plane-crazy 2019-11-02 08:11:40 guys what is the most compact universal join that you can make?
+plane-crazy 2019-11-02 08:19:11 i made steering yaya
+plane-crazy 2019-11-02 08:36:17 <@!216193164199985152> i tried to make it more compact but it aint workin
+plane-crazy 2019-11-02 08:36:18 https://gyazo.com/e5e2b71a8891a92c22b08347b9156a35
+plane-crazy 2019-11-02 08:36:22 any suggestions?
+plane-crazy 2019-11-02 08:36:57 ok
+plane-crazy 2019-11-02 08:37:17 well it works extremely reliably on the bigger design that i put together
+plane-crazy 2019-11-02 08:39:00 https://gyazo.com/cb64ddbfb1df64835651e6951ef96071
+plane-crazy 2019-11-02 08:40:09 up like vertically?
+plane-crazy 2019-11-02 08:40:28 i dont see how that could happen
+plane-crazy 2019-11-02 08:40:34 ok
+plane-crazy 2019-11-02 08:44:16 but it doesnt
+plane-crazy 2019-11-02 08:44:25 it is only moving along one axis
+plane-crazy 2019-11-02 08:44:30 left and right
+plane-crazy 2019-11-02 08:45:06 what do you mean by not stop?
+plane-crazy 2019-11-02 08:45:34 i can if i remove the constraints on the rack
+plane-crazy 2019-11-02 08:45:52 but it is constrained
+plane-crazy 2019-11-02 08:48:38 ok
+plane-crazy 2019-11-02 08:48:59 you were mentioning another method for the rack and pinion earlier
+plane-crazy 2019-11-02 08:49:09 would you mind sharing?
+plane-crazy 2019-11-02 08:49:56 yeah
+plane-crazy 2019-11-02 08:50:19 is there a way to make it work on such a small scale?
+plane-crazy 2019-11-02 08:57:19 oh ok
+plane-crazy 2019-11-02 08:57:26 ill give er a try
+plane-crazy 2019-11-02 09:14:24 ok well it aint workin
+plane-crazy 2019-11-02 09:14:56 im gonna go to bed maybe ill get it in the morning
+plane-crazy 2019-11-02 21:39:07 https://gyazo.com/88e1dc55c5728fdaa45a993bd9c76dd3
+plane-crazy 2019-11-02 21:51:15 i made it work
+plane-crazy 2019-11-02 21:52:30 ok how do i make a ball joint?
+general 2019-11-02 21:53:35 anybody have a super compact ball joint design
+general 2019-11-03 00:36:16 yeah but you need to use your imagination
+general 2019-11-03 00:36:25 this is roblox after all
+plane-crazy 2019-11-04 04:33:30 <@!216193164199985152> i made it work, double wishbone suspension system with functional steering arm!
+plane-crazy 2019-11-04 04:59:45 by the way thanks for the tips about the rack
+plane-crazy 2019-11-04 05:05:02 now comes the fun part
+plane-crazy 2019-11-04 05:05:33 i get to implement suspension with a differential steering system
+plane-crazy 2019-11-04 05:05:47 mind you a differential steering system i havent come up with yet
+plane-crazy 2019-11-04 05:32:22 wait so you know how if you make something fabric it has more friction?
+plane-crazy 2019-11-04 05:32:26 is there an opposite
+plane-crazy 2019-11-04 05:38:23 that was so unfunnt jay im so unfunny not laugh
+plane-crazy 2019-11-04 05:39:16 bro i made this account when i was like 8
+plane-crazy 2019-11-04 05:39:34 and i mean
+plane-crazy 2019-11-04 05:39:44 make a railgun
+plane-crazy 2019-11-04 05:39:52 oh
+plane-crazy 2019-11-04 05:40:12 yeah try and do cool tricks where you throw it at metal things
+plane-crazy 2019-11-04 05:40:21 and make it stick
+plane-crazy 2019-11-04 05:40:35 good idea
+plane-crazy 2019-11-04 05:42:04 guys i made cool suspension
+plane-crazy 2019-11-04 05:45:52 cool
+plane-crazy 2019-11-04 05:46:16 did you know that you have been playing google chrome for over an hour?
+plane-crazy 2019-11-04 05:46:38 oh ok my bad
+plane-crazy 2019-11-04 05:47:19 im so proud of myself
+plane-crazy 2019-11-04 05:47:58 i made suspension steering thingy and its super cool and definately nescescary for a working car
+plane-crazy 2019-11-04 05:51:36 https://gyazo.com/404fa6bc6a7cdaf8017e21fa03e5e4ed
+plane-crazy 2019-11-04 05:51:46 i also eat pears
+plane-crazy 2019-11-04 05:51:53 pears are great!
+plane-crazy 2019-11-04 05:54:40 thank you
+general 2019-11-04 19:10:37 how do you make sometging rotate smoothly without motors
+plane-crazy 2019-11-04 19:32:54 guys
+plane-crazy 2019-11-04 19:33:18 how do i make something that serves the same purpose as a rear differential
+plane-crazy 2019-11-05 01:13:46 guys does the damping parameter do anything?
+plane-crazy 2019-11-05 01:14:16 guys this is the plane crazy chat
+plane-crazy 2019-11-05 01:14:25 where we talk about plane crazy
+general 2019-11-05 01:15:05 hi
+general 2019-11-05 01:15:28 do you know if the damping parameter does anything on a suspension block
+general 2019-11-05 01:16:11 naw
+plane-crazy 2019-11-05 01:20:22 oh ok thanks
+plane-crazy 2019-11-05 01:21:42 makes sense
+plane-crazy 2019-11-05 01:22:02 who let this retard in?
+plane-crazy 2019-11-05 01:22:51 wait wait wait
+plane-crazy 2019-11-05 01:23:03 i know joe!
+plane-crazy 2019-11-05 01:23:16 are we thinking of the same joe?
+plane-crazy 2019-11-05 01:26:13 wait
+plane-crazy 2019-11-05 01:26:31 stop posting cringe immediate
+plane-crazy 2019-11-05 01:26:59 yuri
+plane-crazy 2019-11-05 01:27:09 yeah
+plane-crazy 2019-11-05 01:27:15 i was gonna say that but
+plane-crazy 2019-11-05 01:27:19 you beat me to it
+plane-crazy 2019-11-05 01:28:34 i can be the ceo if you want
+plane-crazy 2019-11-05 01:28:39 does racism pay well?
+plane-crazy 2019-11-05 01:28:52 oh ok never mind
+plane-crazy 2019-11-05 01:29:03 lmao broke
+plane-crazy 2019-11-05 02:12:49 whats the easiest way to make a somewhat realistic leaf spring thingy
+creations-chat 2019-11-16 00:50:39 guys what are the checkmarks for
+creations-chat 2019-11-18 06:06:08 yoyoyo working hydrofoil?
+plane-crazy 2019-11-18 06:11:14 do you guys know if water makes wings lift more?
+plane-crazy 2019-12-23 22:26:02 ok why do motor 2 work horizontaly but not vrtically
+plane-crazy 2019-12-23 22:28:29 k so
+plane-crazy 2019-12-23 22:28:42 i have both motors set the same
+plane-crazy 2019-12-23 22:28:50 https://gyazo.com/26cb94632ec0ee02b9daac7a1ef25431
+plane-crazy 2019-12-23 22:29:03 yet
+plane-crazy 2019-12-23 22:29:09 when i toggle them at the same time
+plane-crazy 2019-12-23 22:29:10 https://gyazo.com/ce3d660153e70ac373bd0357b2fb5e66
+plane-crazy 2019-12-23 22:29:31 only the horizontal one actuates
+plane-crazy 2019-12-23 22:32:03 im trying to make the landing gear from the zhukovsky i-153
+plane-crazy 2019-12-23 22:33:37 https://gyazo.com/3eac94be702607cdacfe10664e857808
+plane-crazy 2019-12-23 22:33:39 what the hell
+plane-crazy 2019-12-23 22:35:18 nothing
+plane-crazy 2019-12-23 22:35:43 yeah
+plane-crazy 2019-12-23 22:35:56 motors hurt my brain
+plane-crazy 2019-12-23 22:36:39 ok well i got it to work
+plane-crazy 2019-12-23 22:36:47 now i need to fix the twitching
+plane-crazy 2019-12-23 22:37:01 yo wtf it pushed my anchor block
+plane-crazy 2019-12-23 22:39:06 why did you add that completely unnecessary feature?
+plane-crazy 2019-12-23 22:40:13 https://gyazo.com/efc4478b8afee6ccf72faa7f08f384a5
+plane-crazy 2019-12-23 22:40:16 ok fuck this shit
+plane-crazy 2019-12-23 22:41:09 i turned on that physics button
+plane-crazy 2019-12-23 22:41:29 the whole anchor moves tho like bruh
+plane-crazy 2019-12-23 22:48:37 i tried adding blocks around it and it seemed to fix
+plane-crazy 2019-12-23 22:51:11 thanks
+plane-crazy 2019-12-23 23:25:06 fery nice
+plane-crazy 2019-12-23 23:25:26 you should make a lancaster
+plane-crazy 2019-12-23 23:26:19 my progress
+plane-crazy 2019-12-23 23:26:20 https://gyazo.com/93ce03d91b8071f51ae8c798522cbbd6
+plane-crazy 2019-12-23 23:28:46 thats clever using a suspension and rope as opposed to pistons
+plane-crazy 2019-12-24 00:19:45 why do wings make so much torque
+plane-crazy 2019-12-24 00:20:00 like bruh i cant spin my mf propeller without falling over
+plane-crazy 2019-12-24 00:21:43 bruh
+plane-crazy 2019-12-24 00:40:37 whats a compact as hell bomb design?
+plane-crazy 2019-12-24 00:45:10 no but like
+plane-crazy 2019-12-24 00:45:14 accurate
+plane-crazy 2019-12-24 00:45:27 aw whatever ill figure i out
+plane-crazy 2019-12-24 00:47:39 you know what would be super useful in this game
+plane-crazy 2019-12-24 00:47:48 an intersection wing
+plane-crazy 2019-12-24 00:47:54 why dont we have those yet
+plane-crazy 2019-12-24 00:48:30 i shall
+plane-crazy 2019-12-24 05:35:13 bruh
+creations-chat 2019-12-24 05:43:03 Polikarpov I-135 Chaika! can i get da aero 1 or whatever?
+creations-chat 2019-12-24 05:45:44 The gear does the thing
+creations-chat 2019-12-24 05:51:53 https://gyazo.com/d06b9d15561db872cdb6110ba37c534a
+creations-chat 2019-12-24 05:52:04 oops
+creations-chat 2019-12-24 05:52:36 Horizontal Volute Suspension System (M4 Sherman)
+plane-crazy 2019-12-24 06:04:49 motors create so much god damn torsion
+plane-crazy 2019-12-24 06:05:45 i walked in on the wrong plane crazy chat did i not?
+plane-crazy 2019-12-24 06:05:55 <#495286269459300364>
+plane-crazy 2019-12-24 06:06:24 bruh i came her because my propeller flips my entire plane
+plane-crazy 2019-12-24 06:06:28 please assist
+general 2020-03-26 03:31:18 https://skribbl.io/?wdIousQzYPHe
+general 2020-03-26 03:31:22 get in now
+general 2020-04-01 08:18:07 fuck up wit da australia type beat?
+general 2020-04-10 17:07:51 ok so as it turns out
+i dont have a sound clip of an arabic man screaming allah akbar on hand
+and i dont fancy going and looking for one
+does anybody have one on hand?
+general 2020-04-10 17:11:05 i have found one
+plane-crazy 2020-04-23 19:00:47 add symmetry building mode
+bot-central 2020-04-23 19:14:57 &suggest
+Variable Speed Control for Motors.
+Mechanical
+
+Add a toggleable setting to motors allowing them to behave like jet engines and propellers, in the sense that speed is applied linearly as opposed to only full speed, off or reverse.
+bot-central 2020-04-23 19:15:23 ?shelp
+bot-central 2020-04-23 19:15:34 ?rhelp
+help 2020-04-23 19:22:35 <@!308156968550268928> can rank Terrain specialist I i have tank
+help 2020-04-23 19:23:25 https://gyazo.com/a2e6439ae4af72a03960ca6102d41bb7
+help 2020-04-23 19:23:34 https://gyazo.com/423402f4f9012d7c45fed8152aa53613
+help 2020-04-23 19:23:44 
+help 2020-04-23 19:23:54 it does all the turny stuff and what not
+help 2020-04-23 19:25:36 <@!195253906333368320>
+help 2020-04-23 19:31:29 thanks G
+help 2020-04-23 19:46:55 easy
+help 2020-04-23 19:47:11 ill send a pic
+help 2020-04-23 19:50:48 do you want all 3 axis?
+help 2020-04-23 19:50:52 or just up down?
+help 2020-04-23 19:51:01 ok
+help 2020-04-23 19:53:07 can i see?
+help 2020-04-23 20:02:01 huh
+bot-central 2020-04-23 22:10:37 <@456226577798135808> use &suggest also you need to be ranked
+plane-crazy 2020-04-24 19:43:42 bruh this suck
+plane-crazy 2020-04-24 19:43:56 all the photos of this one model of boat are all of the left side
+plane-crazy 2020-04-24 19:44:00 every single one
+plane-crazy 2020-04-24 19:44:09 i dont know what the right side of the boat looks like
+plane-crazy 2020-04-24 19:44:19 and i cant build it
+help 2020-04-24 21:09:35 if i use cameras for stability is my boat eligible for shipwright?
+help 2020-04-24 21:49:42 war thunder is free
+help 2020-04-24 21:49:49 and better than roblox
+help 2020-04-24 21:50:36 those dont happen on roblox
+help 2020-04-24 22:41:42 <@!195253906333368320>
+help 2020-04-24 22:41:58 helicopter guy rank
+help 2020-04-24 22:42:02 i got a video
+help 2020-04-24 22:42:19 whops
+help 2020-04-24 22:43:00 
+help 2020-04-24 22:43:30 ok here <@!195253906333368320>
+help 2020-04-24 22:44:30 k uh
+help 2020-04-24 22:44:41 k
+help 2020-04-24 22:46:47 https://gyazo.com/89f747a760a5dc4f7d81e5b0e668f639
+help 2020-04-24 22:46:59 https://gyazo.com/e6e26db698980cf390f533ff4f781bee
+help 2020-04-24 22:47:23 https://gyazo.com/b49e9871c7a0806e55372f731617db60
+no thrusters in here or under here
+help 2020-04-24 22:48:57 i dont know how to show that there isnt helium but there is not
+help 2020-04-24 22:49:10 <@!195253906333368320>
+help 2020-04-24 22:52:23 oh ok
+help 2020-04-24 22:53:22 https://gyazo.com/63bf72470ded041b2b1e9dafecc0911e
+help 2020-04-24 22:53:30 https://gyazo.com/97ad29a993ebf154f1639b08799624d2
+help 2020-04-24 22:53:36 sorry for wasting your time
+help 2020-04-24 22:53:40 thats the stuff
+help 2020-04-24 22:53:45 <@!195253906333368320>
+help 2020-04-24 22:54:14 helicopter tech
+help 2020-04-24 22:54:25 i guess so
+help 2020-04-24 22:55:01 i thought they were just standalone challenge things
+bot-central 2020-04-24 22:59:45 !np
+bot-central 2020-04-24 22:59:58 =np
+bot-central 2020-04-24 23:00:08 =smuglianka
+bot-central 2020-04-24 23:00:13 =p smuglianka
+bot-central 2020-04-24 23:00:27 =q
+help 2020-04-25 01:40:43 https://gyazo.com/e8b63207941f8050b086035786d1d0c1
+help 2020-04-25 01:54:13 stable when turning does not capsize
+help 2020-04-25 01:54:15 
+help 2020-04-25 01:54:49 https://gyazo.com/0b1b05ecde99ec6929370a84d953802a
+help 2020-04-25 01:54:54 no cameras for balance
+help 2020-04-25 01:55:47 https://gyazo.com/2f6af32cd59e393817ac543b5dd74899
+
+2000 blocks
+help 2020-04-25 01:58:01 <@!195253906333368320> sorry to bother you again
+help 2020-04-25 01:58:12 Shipwright IV please
+help 2020-04-25 01:58:33 qualifications above
+help 2020-04-25 02:04:29 <@!252094891448860673>
+help 2020-04-25 02:05:05 uh
+help 2020-04-25 02:05:11 is this a trick?
+help 2020-04-25 02:05:42 time to die
+help 2020-04-25 02:07:54 difficult
+help 2020-04-25 02:08:23 yeah
+help 2020-04-25 02:08:40 theres some youtube tutorials but it isnt really plausible
+help 2020-04-25 02:08:49 because of broken motor
+help 2020-04-25 02:08:58 and yeah
+help 2020-04-25 02:09:34 just go coaxial nobody will notice
+help 2020-04-25 02:17:18 you tricked me
+help 2020-04-25 02:17:44 k
+help 2020-04-25 02:17:56 bruh
+bot-central 2020-04-25 02:46:00 !servers
+plane-crazy 2020-04-25 04:00:53 <@!450349046197125131>
+plane-crazy 2020-04-25 04:00:55 https://cdn.discordapp.com/attachments/384021699466756107/703442953632350308/unknown.png
+plane-crazy 2020-04-25 04:05:20 <@!168872475701018624> i apologise 😦
+plane-crazy 2020-04-25 04:09:58 d minor scale sound poo
+plane-crazy 2020-04-25 04:10:11 i do
+plane-crazy 2020-04-25 04:10:38 dear rick horn stinky
+plane-crazy 2020-04-25 04:10:55 monophonic horn petition
+plane-crazy 2020-04-25 04:11:15 ok
+plane-crazy 2020-04-25 04:11:55 <#504436696021204992>
+help 2020-04-25 06:28:41 
+help 2020-04-25 06:30:48 https://gyazo.com/b5e835cf6b5e204ee9edca4bf2c9bb11
+help 2020-04-25 06:30:58 
+help 2020-04-25 06:31:04 https://gyazo.com/b8712d17c20890fa589a13f819ff7247
+help 2020-04-25 06:31:17 <@!468207489524039680> can i please have helicopter technician
+help 2020-04-25 06:31:42 cool
+help 2020-04-25 06:31:47 thanks
+help 2020-04-25 07:24:08 any way to put small images on a sign?
+help 2020-04-25 07:24:30 i saw a homie with a star or something but idk if it was edited
+help 2020-04-25 07:24:33 ah yes
+help 2020-04-25 07:24:42 k thanks
+help 2020-04-25 07:26:19 it works!
+help 2020-04-25 07:26:20 https://gyazo.com/f897277fd173413a70a16d6cc4b7adfd
+help 2020-04-25 07:26:24 thanks
+creations-chat 2020-04-25 07:33:33 boat crane lmao
+creations-chat 2020-04-25 07:33:55 <@!227539187358892033> suggest it
+creations-chat 2020-04-25 07:36:20 i requested a very similar thing a few hours ago and i forgot
+creations-chat 2020-04-25 07:38:54 bomb
+creations-chat 2020-04-25 07:39:15 why no tsar bomba 😦
+creations-chat 2020-04-25 07:39:27 good good
+creations-chat 2020-04-25 07:39:56 also build a model nagasaki
+creations-chat 2020-04-25 07:50:45 
+creations-chat 2020-04-25 07:51:11 roblox water shaders aint too bad if im being honest
+creations-chat 2020-04-25 07:57:42 thats just a double wishbone
+creations-chat 2020-04-25 07:58:05 oh
+creations-chat 2020-04-25 07:58:16 oh i see
+creations-chat 2020-04-25 07:58:33 sorry
+creations-chat 2020-04-25 07:58:37 let me start over
+creations-chat 2020-04-25 07:58:48 thats just macphearson strut suspension
+creations-chat 2020-04-25 07:59:08 or a slightly modified mac phearson
+creations-chat 2020-04-25 07:59:22 yes
+creations-chat 2020-04-25 07:59:43 his entire being is brain
+creations-chat 2020-04-25 07:59:53 k
+creations-chat 2020-04-25 08:00:18 wheres the tie rods and steering rack?
+creations-chat 2020-04-25 08:01:45 kaman k max > all other aircraft
+creations-chat 2020-04-25 08:02:05 do the rotors turn to face foreward?
+creations-chat 2020-04-25 08:07:35 do the eyes move independantly?
+plane-crazy 2020-04-25 08:11:10 that is a nice helicpoter
+plane-crazy 2020-04-25 08:11:26 also how do you have vtol engineer I and II?
+plane-crazy 2020-04-25 08:11:45 oh
+help 2020-04-25 20:02:33 Ballast tanks. The variable ones. Do they apply the weight to the centre of the ship or to their location on the ship?
+help 2020-04-25 20:27:06 post on creations
+help 2020-04-25 20:27:14 then the people decide your fate
+help 2020-04-25 20:27:39 and then what i said
+help 2020-04-25 20:50:43 ok so <@!478558356324220929> was wrong and it seems like ballast tanks only apply weight to the center of the ship.
+help 2020-04-25 20:51:17 what i need is a way to balance my ship when sailing like after i unload the cargo
+help 2020-04-25 20:52:47 i tried using two sets of ballast tanks on each side of the ship set to different keybinds but it doesn't actually ajust the trim it just makes it bob up and down
+help 2020-04-25 21:05:03 boat trim help please
+bot-central 2020-04-25 21:15:24 !servers
+plane-crazy 2020-04-25 23:28:38 bandicam.com
+help 2020-04-26 22:48:22 does the ballast tank distribute its weight locally or equally on the whole ship?
+help 2020-04-26 22:48:47 cause im trying to put some trim control on my ship
+help 2020-04-26 22:49:14 me neither but when i try and tilt the ship it just bobs up and down
+help 2020-04-26 22:49:33 k
+help 2020-04-26 22:56:26 density in this game is funky
+help 2020-04-26 22:56:37 what is the density of the default block?
+help 2020-04-26 22:59:52 k thanks
+plane-crazy 2020-05-04 01:02:19 How many homies out here with the operational 5-speed transmission
+help 2020-05-05 00:43:19 imagine posting .wmv like a loser
+general 2020-07-05 02:30:30 its like where they just try and make you kill yourself right>?
+general 2020-07-05 02:30:35 thats it?
+general 2020-07-05 02:31:13 isnt it just a voluntary thing?
+general 2020-07-05 02:31:40 i thought it was just dudes try and cyber bully you n then u die
+general 2020-07-05 02:31:45 bruh stfu
+general 2020-07-05 02:32:20 i dont get it tjough man
+general 2020-07-05 02:32:49 bruh its literally cyber bullying this existed before
+general 2020-07-05 02:33:42 so a trojan or some this?
+general 2020-07-05 02:33:57 ok so identity theft
+general 2020-07-05 02:34:01 existed before
+general 2020-07-05 02:34:45 delete the message where he said do nor lmao
+general 2020-07-05 02:34:52 yes
+general 2020-07-05 02:34:54 i get that
+general 2020-07-05 02:35:00 and yeah
+general 2020-07-05 02:40:23 ok dude
+general 2020-07-05 02:41:15 <@!335599526414909451> foud this article
+general 2020-07-05 02:41:16 https://www.hitc.com/en-gb/2020/07/03/blue-whale-challenge-instagram/
+plane-crazy 2020-07-20 05:34:33 k
+bot-central 2020-07-20 05:36:13 ?whois
+general 2020-10-02 05:19:48 https://strawpoll.com/gs7uexgwd
+general 2020-10-02 05:19:54 my mans
+general 2020-10-02 05:20:16 thank you for your time
+general 2020-10-10 02:53:44 yo
+general 2020-10-10 02:53:50 You know what would be cool?
+general 2020-10-10 02:54:07 Political focused minecraft server in which different ideologies are chosen and see if we can get people to form a cohesive government and economy?
+general 2020-12-10 07:45:43 <@!289930922655088640> Drift legends is dece
+general 2020-12-10 07:46:04 the driving is not that bad n the map is cool but car selection is pretty mid
+general 2020-12-10 07:46:59 yeah
+general 2020-12-10 07:47:09 i'd be hard pressed to find a game like that
+general 2020-12-10 07:47:40 idk give it a try i guess
+general 2020-12-10 07:47:55 its good with a controller
+general 2021-05-01 20:51:51 yo
+plane-crazy 2021-05-01 20:51:58 yo
+plane-crazy 2021-05-01 20:52:13 whats that really thin pieve valled?
+plane-crazy 2021-05-01 20:52:18 the like
+plane-crazy 2021-05-01 20:52:24 tiny half wedge thing
+plane-crazy 2021-05-04 04:55:21 how come some audio literally just like... doesnt play
+plane-crazy 2021-05-07 23:39:03 how do people make those fancy tapered fuselages with motor lock
+plane-crazy 2021-05-07 23:39:04 like
+plane-crazy 2021-05-07 23:39:23 how do you lock the motor from rotating when you bring it down
+plane-crazy 2021-05-07 23:40:13 thanks
+bot-central 2021-05-08 00:43:52 !servers
+plane-crazy 2021-05-09 02:26:18 ok so basically
+plane-crazy 2021-05-09 02:26:36 i've got this plane with some beef ass munitions strapped to the bottom
+plane-crazy 2021-05-09 02:27:09 and when i drop them it starts nosing upwards pretty substantially
+plane-crazy 2021-05-09 02:27:17 any suggestions
+plane-crazy 2021-05-09 02:30:54 yeah but they dont toggle 😐
+general 2021-05-09 02:31:32 that is obscenely cringe what is wrong with roblos
+plane-crazy 2021-05-09 02:36:20 <@456226577798135808>
+plane-crazy 2021-05-09 02:36:33 that was valid?
+plane-crazy 2021-05-09 02:36:35 no way
+plane-crazy 2021-05-09 02:36:50 
+plane-crazy 2021-05-09 02:36:59 😠
+plane-crazy 2021-05-09 02:37:07 epic
+plane-crazy 2021-05-09 02:37:36 wait
+plane-crazy 2021-05-09 02:37:38 can fix
+plane-crazy 2021-05-09 02:38:18 i fix
+plane-crazy 2021-05-09 02:38:24 
+plane-crazy 2021-05-09 02:38:32 <:FineTroll:626841259746656289>
+plane-crazy 2021-05-09 02:38:44 perhap
+plane-crazy 2021-05-09 02:39:23 NO!
+plane-crazy 2021-05-09 02:39:27 rick dont do it
+plane-crazy 2021-05-09 02:39:41 how to improve cutter bloc:
+plane-crazy 2021-05-09 02:39:43 step 1
+plane-crazy 2021-05-09 02:39:45 delte
+plane-crazy 2021-05-09 02:40:14 honestly where tf the admins at you guys gotta pin that
+plane-crazy 2021-05-09 02:44:40 nono not that
+plane-crazy 2021-05-09 02:44:45 the thing that i said
+plane-crazy 2021-05-09 04:16:36 ok but how come a fireworks emitter pointed backwards when fyling at speed ends up detonating infront of you
+plane-crazy 2021-05-09 16:41:28 Aaaaaaa!!!! Twitter user ahahahahah
+plane-crazy 2021-05-09 16:47:25 Is there some decal block that I don’t know about? Or did you just find an axis emoxi
+general 2021-05-09 16:48:19 Would be swag
+general 2021-05-09 16:48:55 It’s going to be like that planet from Star Wars tgats just encircled with cities stacked on cities
+plane-crazy 2021-05-10 01:17:10 <@!217336009455566848>
+plane-crazy 2021-05-10 01:17:46 Is fake rickje
+plane-crazy 2021-05-10 01:17:52 Not even irl
+plane-crazy 2021-05-10 01:18:19 Good
+plane-crazy 2021-05-10 01:18:54 Fuck
+plane-crazy 2021-05-10 01:19:22 He probably has them off anyways
+plane-crazy 2021-05-10 01:19:53 Rick pls no
+general 2021-09-25 16:12:37 No
+general 2021-09-25 16:12:40 Not that
+general 2021-09-25 16:17:31 What flavour
+general 2021-09-25 16:17:44 Nice
+plane-crazy 2021-09-25 16:18:20 So close
+plane-crazy 2021-09-25 16:18:59 You are welcome
+plane-crazy 2021-09-25 16:19:22 Noooooooooo
+plane-crazy 2021-09-25 16:19:44 You fiend
+plane-crazy 2021-09-27 23:11:05 why are signs cencored so badly
+plane-crazy 2021-09-27 23:11:24 im trying to make a gyro sight and i cant even type [ o ]
+plane-crazy 2021-09-27 23:12:07 stupid ass roblox
+plane-crazy 2021-09-27 23:12:12 goodnight
+plane-crazy 2021-09-28 00:12:30 nah he tweakin
+plane-crazy 2021-09-28 04:00:04 is there any piece that has same welds as 1x1 delta wing but no wing functionality?
+plane-crazy 2021-09-28 04:00:22 no
+plane-crazy 2021-09-28 04:00:26 it has side welds
+plane-crazy 2021-09-28 04:00:31 i need no side welds
+plane-crazy 2021-09-28 04:00:39 darn
+plane-crazy 2021-09-28 04:00:41 thanks
+plane-crazy 2021-09-28 04:00:56 no bruh a wedge is not the same as delta wing
+plane-crazy 2021-09-28 04:01:27 i dont think there is any piece with only two adjacent faces
+plane-crazy 2021-09-28 04:01:33 oh true
+plane-crazy 2021-09-28 04:01:43 neuron hours out here
+plane-crazy 2021-09-28 04:02:18 just use a key to detonate
+plane-crazy 2021-09-28 04:02:32 you become the fuse
+plane-crazy 2021-09-28 04:05:49 word
+plane-crazy 2021-09-29 04:08:15 what does ignore self mean in the context of explosives?
+plane-crazy 2021-09-29 04:08:36 thanks for your help
+plane-crazy 2021-10-03 21:35:40 i tried building tiny
+plane-crazy 2021-10-03 21:43:18 
+plane-crazy 2021-10-03 21:43:20 
+plane-crazy 2021-10-03 21:43:22 
+plane-crazy 2021-10-03 21:43:23 
+plane-crazy 2021-10-03 21:43:23 
+plane-crazy 2021-10-03 21:43:28 sorry i just need links
+plane-crazy 2021-10-03 21:52:44 start with wheels
+creations-chat 2021-10-15 22:37:57 Upvotes are such stupid rng
+general 2023-02-25 16:49:09 L PC 2 testing got beat by KSP 2

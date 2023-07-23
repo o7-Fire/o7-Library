@@ -1,0 +1,68 @@
+The Tale of VEIIINs (383654187046797313)
+help 2020-06-01 01:51:53 Guys, for what need "fixed" in "smoke pipe"?
+help 2020-06-01 01:52:29 thx
+help 2020-06-01 02:27:13 if my ship is stable, but heel slightly when turning due to its low height and because of this I correct it with propellers, can it be considered stable?
+creations-chat 2020-06-01 04:17:04 Make more screenshots
+plane-crazy 2020-06-06 18:38:28 hmm
+plane-crazy 2020-06-06 18:38:34 Does anyone know when the summer event will be around?
+plane-crazy 2020-06-06 18:38:53 ohh
+creations-chat 2020-06-10 21:45:49 Guys I need help. What should I do, a tank or a large crane (2000-3000 blocks)? Or tell me what to do
+creations-chat 2020-06-10 21:46:51 okay 😄
+help 2020-06-11 01:04:29 Explosions can be do with TNT and rockets, no more.
+plane-crazy 2020-06-11 01:06:24 take a screenshot with motors
+plane-crazy 2020-06-11 01:08:20 <@!596741777432510474> make max torque on all motors.. on max and turn "Lock" on the bottom motor
+plane-crazy 2020-06-11 01:09:39 ahh..
+plane-crazy 2020-06-11 01:10:37 delete bottom motor, and place "motor", not "motor 2"
+plane-crazy 2020-06-11 01:11:05 because "motor 2" don't have "lock"
+plane-crazy 2020-06-11 01:11:47 i know..
+general 2020-06-11 01:19:49 just use paint 3D
+general 2020-06-11 01:21:13 idk
+general 2020-06-11 01:23:20 you can use blender for make terrain :/
+general 2020-06-11 01:23:36 copy > paste
+general 2020-06-11 01:24:07 or render on 1m yrs
+general 2020-06-11 01:25:40 what?
+general 2020-06-11 01:27:48 road (hatchway, traffic light
+and more) you can make in blender
+general 2020-06-11 01:28:25 but make road in blender? its strange...
+general 2020-06-11 01:28:47 make concept
+general 2020-06-11 01:28:54 on paper
+general 2020-06-11 01:29:12 draw a concept
+general 2020-06-11 01:29:49 ye.. map, some.. landscape
+general 2020-06-11 01:30:09 separate objects
+general 2020-06-11 01:31:32 maybe.. make main city with shops... gun... other..
+general 2020-06-11 01:32:04 and the desert beyond its borders
+general 2020-06-11 01:32:14 me
+general 2020-06-11 01:32:44 nope
+general 2020-06-11 01:32:59 ;D
+general 2020-06-11 01:34:03 do what you want
+general 2020-06-11 01:36:03 its tooo easy (no)
+general 2020-06-11 01:37:04 hey? never hire people? what?
+general 2020-06-11 01:37:50 for free?
+general 2020-06-11 01:38:11 > or you pay them with your own money
+<@456226577798135808> Ye
+general 2020-06-11 01:38:48 I do not think that some developer needs robux
+general 2020-06-11 01:40:03 lol
+general 2020-06-11 01:40:11 CSharp forever ;D
+general 2020-06-11 01:41:02 did we somehow help him?
+general 2020-06-11 01:41:20 lol
+general 2020-06-11 01:41:23 ok
+general 2020-06-11 01:41:27 good luck
+general 2020-06-11 01:42:17 lol
+general 2020-06-11 01:42:35 first step to make game - play in other game
+general 2020-06-11 01:44:29 lol
+general 2020-06-11 01:45:06 because you have exploit
+general 2020-06-11 01:46:00 lol
+general 2020-06-11 01:47:05 xD
+general 2020-06-11 01:50:16 lmao
+creations-chat 2020-06-11 01:57:35 <@!251174713890439169> What do u think about my MiG 1.44?
+the-dump 2020-06-17 03:48:43 Where 18+ content? this is just a dota 2 forum
+the-dump 2020-06-17 03:50:49 > <@!383654187046797313> you need some help
+<@!227539187358892033> Yes, roblox dont work, do you can help?
+the-dump 2020-06-17 03:52:35 Maybe.. but not today
+help 2020-06-21 12:31:58 How can i use friction block? And what can he do
+help 2020-07-30 16:10:14 for what need lock in piston?
+help 2020-08-12 13:24:00 What changes material on Control Surface?
+help 2020-08-12 13:26:42 If I use a Diamond Plate, my plane becomes uncontrollable :/
+help 2020-08-12 13:27:35 So the material changes something
+help 2020-08-12 13:28:01 but idk what
+general 2020-08-17 17:21:12 Guys. How to send a report on the lag machine? :/

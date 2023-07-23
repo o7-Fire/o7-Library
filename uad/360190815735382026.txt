@@ -1,0 +1,7 @@
+The Tale of Calamity (360190815735382026)
+bug-reports 2020-09-20 17:28:03 there is this bug where sometimes if i do alot of damage to a plane at once the plane that was damaged will freeze in place but it will still function and be moving around shooting even tho i desroyed it
+bug-reports 2020-09-20 17:28:22 is there a fix to that
+help 2020-09-20 17:29:37 hey um whenever i do alot of damage to a plane at once the damaged plane will freeze but will still be moving around and shooting even tho its damaged is there a fix to that
+plane-crazy 2020-09-20 17:30:40 yo guys for me whenever i do alot of damage to a  plane the damaged plane will freeze but it will still be moving around in the server and is still able to shoot. is there a way to fix that
+plane-crazy 2020-09-20 17:31:09 is it ever going to be fixed
+plane-crazy 2020-09-20 17:31:48 Is the replication glitch going to be fixed soon?

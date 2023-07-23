@@ -1,0 +1,9 @@
+The Tale of canaldokvc (555874155422154753)
+plane-crazy 2021-07-19 01:28:10 I making a boat that launcher a missile with a player in the missile, can i make a system to the players controls the missile?
+plane-crazy 2021-07-19 01:28:19 without sitting in the Main Seat
+plane-crazy 2021-07-19 01:30:10 So the Pilot Seat is a normal Seat?
+plane-crazy 2021-07-19 01:30:39 but only the owner?
+plane-crazy 2021-07-19 01:31:04 ok, ty
+plane-crazy 2021-07-19 20:10:14 can i send images/videos?
+help 2021-07-19 20:24:02 elevators?
+help 2021-07-19 20:24:41 what is this?

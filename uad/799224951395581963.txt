@@ -1,0 +1,11 @@
+The Tale of Dogzan (799224951395581963)
+general 2021-07-24 17:08:33 i hope amogus doesnt show up here
+general 2021-07-24 17:09:15 oh no
+general 2021-07-24 17:09:36 us
+general 2021-07-24 17:09:53 no.
+general 2021-08-06 08:32:43 
+bug-reports 2022-06-11 12:40:47 hello, I have been experiencing an issue where any propeller or rocket engines doesn't work. I have switched servers too. to check whats wrong, I went to developer console and this was the error "Player.pranav2995. PlayerGui. SettingsGui. LocalScript: 418 - attempt to index nil with 'Parent' 
+Stack Begin
+Script. 'Players.pranav2995. PlayerGui. SettingsGui. LocalScript' , Line 418 - function particleevent"  I am only having this issue in every server please find me a solution.
+bug-reports 2022-06-11 12:43:01 Thank you! The problem is solved.
+bug-reports 2022-06-11 12:46:57 sorry my bad

@@ -1,0 +1,10 @@
+The Tale of moxian_ (613614397352443904)
+plane-crazy 2022-04-09 02:35:05 My plane drifts to the right slightly when flying but everything is symmetrical and the center of mass isn't offset. Why might this be?
+plane-crazy 2022-04-09 02:45:47 Kay give me a sec
+plane-crazy 2022-04-09 02:50:48 I can't send ss but I think I figured it out. Does the direction of propeller blades affect the drifting?
+plane-crazy 2022-04-09 02:54:19 Nope
+plane-crazy 2022-04-09 02:54:44 Ik
+help 2022-04-09 02:58:56 <@200793484053970944> my center of is good but I think the propeller blades on my custom propeller are making it drift while flying
+help 2022-04-09 03:01:02 I have it maxed at 100. Is that too much?
+help 2022-04-09 03:01:29 Kay
+help 2022-04-09 03:10:42 Worked, thanks

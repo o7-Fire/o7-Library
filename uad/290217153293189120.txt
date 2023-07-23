@@ -1,0 +1,301 @@
+The Tale of jakedacatman (290217153293189120)
+the-dump 2019-03-22 12:25:18 
+plane-crazy 2019-03-24 21:27:21 why do pistons only push 2 blocks far?
+plane-crazy 2019-03-25 04:50:26 i'm stuck on how to design an elevator for an aircraft carrier... y'all got any suggestions?
+plane-crazy 2019-03-25 04:54:28 you know how?
+plane-crazy 2019-03-25 04:56:49 hi
+plane-crazy 2019-03-25 05:19:28 me irl
+plane-crazy 2019-03-25 05:21:40 does anybody know how to make an elevator
+plane-crazy 2019-03-25 05:22:15 so can't use motors?
+plane-crazy 2019-03-25 05:22:23 
+plane-crazy 2019-03-25 05:22:49 sad
+plane-crazy 2019-03-25 05:22:55 i was thinking because of like rails
+plane-crazy 2019-03-25 05:22:59 how that works
+plane-crazy 2019-03-25 05:23:38 which is the most compact?
+plane-crazy 2019-03-25 05:24:24 well this is going on an aircraft carrier
+plane-crazy 2019-03-25 05:24:35 so probably stable
+plane-crazy 2019-03-25 05:24:42 how do i set that up
+plane-crazy 2019-03-25 05:26:00 how far above the top does the suspension and rope have to be
+plane-crazy 2019-03-25 05:26:30 okay
+plane-crazy 2019-03-25 05:26:58 ok so multiple suspension, one rope
+plane-crazy 2019-03-25 05:27:36 1 rope, 1 suspension?
+plane-crazy 2019-03-25 05:28:11 6-7 blocks
+plane-crazy 2019-03-25 05:29:05 i was gonna do 1 rope per corner
+plane-crazy 2019-03-25 05:29:24 since i want like planes in the middle
+plane-crazy 2019-03-25 05:30:24 okay
+plane-crazy 2019-03-25 22:45:20 
+plane-crazy 2019-03-25 22:45:22 epic carrier moments
+plane-crazy 2019-03-26 18:47:04 what does restitution do with ropes?
+plane-crazy 2019-03-26 18:49:14 https://i.imgur.com/LYuHj5B.png
+plane-crazy 2019-03-26 18:49:41 it's a 200 block long aircraft carrier
+plane-crazy 2019-03-26 18:49:51 idk what colors to paint it
+plane-crazy 2019-03-26 18:51:03 i'll paint it like a british ww2 carrier
+plane-crazy 2019-03-26 18:51:14 let's see 255 100 0
+plane-crazy 2019-03-26 18:51:39 
+plane-crazy 2019-03-26 18:51:53 salmon colored runway here we come
+plane-crazy 2019-03-26 18:52:22 that's the rappin' for jesus pastor
+plane-crazy 2019-03-26 18:52:41 what's a good wood color
+plane-crazy 2019-03-26 18:55:06 how about this
+plane-crazy 2019-03-26 19:04:17 big ship looks cooler
+plane-crazy 2019-03-26 19:04:20 !servers
+plane-crazy 2019-03-26 19:04:23 oh
+plane-crazy 2019-03-26 19:14:08 
+plane-crazy 2019-03-26 19:14:19 epic paint job
+plane-crazy 2019-03-26 19:15:14 is fuel optional?
+plane-crazy 2019-03-26 19:15:19 ok
+plane-crazy 2019-03-26 22:47:47 what color should i paint the white?
+creations-chat 2019-03-26 22:51:14 https://i.imgur.com/ptp1Ewp.png what color should i paint the white?
+creations-chat 2019-03-26 23:09:16 what kind of grey <@427466925275217931>
+creations-chat 2019-03-26 23:09:21 what like code
+creations-chat 2019-03-26 23:12:56 ww2 aircraft carrier kind of
+creations-chat 2019-03-26 23:13:00 probably british
+creations-chat 2019-03-26 23:16:05 i'm not basing it off a design
+creations-chat 2019-03-26 23:20:01 wait a sec... i should make it curve in to be more realistic
+plane-crazy 2019-03-27 00:09:12 me irl
+plane-crazy 2019-03-27 00:12:34 i want you to be myyyyy... bad thang
+plane-crazy 2019-03-27 00:13:07 <@456226577798135808> aminé
+plane-crazy 2019-03-27 00:13:24 caroline by aminé
+plane-crazy 2019-03-27 00:16:18 https://i.imgur.com/ezsjk22.png
+plane-crazy 2019-03-27 00:16:39 yeah i went from 60 fps to like 15
+plane-crazy 2019-03-27 00:16:50 but my ship does that normally when i walk on it
+plane-crazy 2019-03-27 00:17:37 what block does that
+plane-crazy 2019-03-27 00:19:40 i got like 5-6 of wedges + motors
+plane-crazy 2019-03-27 00:20:35 wym
+plane-crazy 2019-03-27 00:24:56 \*russian anthem intensifies*
+plane-crazy 2019-03-27 00:29:17 i meant because russia hates america too
+plane-crazy 2019-03-27 00:29:20 at least historically
+plane-crazy 2019-03-27 18:37:08 how can i make variable depth submarines?
+plane-crazy 2019-03-27 18:37:20 what’s the way to do that and have them level in the water
+plane-crazy 2019-03-27 18:37:54 sucks that ballasts can’t change density
+plane-crazy 2019-03-27 18:38:22 yeah
+plane-crazy 2019-03-27 18:38:54 what's vip 1
+plane-crazy 2019-03-27 18:39:07 !servers
+plane-crazy 2019-03-27 18:39:08 see
+plane-crazy 2019-03-27 18:39:51 https://i.imgur.com/MvxaCtU.png sucks that yours is 6.6k blocks
+plane-crazy 2019-03-27 18:41:25 requesting inventor rank
+plane-crazy 2019-03-27 18:42:20 yeah bc when folded it would weld to the other section
+plane-crazy 2019-03-27 18:42:29 if i used normal blocks
+plane-crazy 2019-03-27 18:44:01 it's gotta be the height it is or it won't sit flush with the top
+plane-crazy 2019-03-27 18:44:28 and the next section is 2 blocks above (1 block of air space in between)
+plane-crazy 2019-03-27 23:01:34 what does restitution do with ropes
+plane-crazy 2019-03-27 23:02:19 
+plane-crazy 2019-03-27 23:02:24 how bout this
+plane-crazy 2019-03-27 23:03:19 
+plane-crazy 2019-03-27 23:03:29 top 10 mediocre f-22s
+plane-crazy 2019-03-27 23:03:51 thicc
+plane-crazy 2019-03-27 23:07:57 https://i.imgur.com/iy9WGjk.png
+plane-crazy 2019-03-27 23:08:01 ok
+plane-crazy 2019-03-27 23:12:04 love how people make realistic ships and i'm just like
+plane-crazy 2019-03-27 23:13:12 at least my carrier has a side door for ships to come in
+plane-crazy 2019-03-28 01:43:04 is there something like cylinders where only the top and bottom are weldable
+plane-crazy 2019-03-28 01:43:11 but is square shaped
+plane-crazy 2019-03-28 01:43:37 sad
+plane-crazy 2019-03-28 01:44:46 <@!435946988559925248> yes
+plane-crazy 2019-03-28 01:48:38 https://i.imgur.com/b7l8T9U.png god i wish that was me
+plane-crazy 2019-03-28 01:50:15 no
+plane-crazy 2019-03-28 01:50:23 
+plane-crazy 2019-03-28 01:50:42 
+plane-crazy 2019-03-28 01:51:48 
+the-dump 2019-03-28 01:52:52 https://i.imgur.com/SVt3iXI.png welcome to my mine
+the-dump 2019-03-28 01:53:15 https://i.imgur.com/B4POt1C.png
+plane-crazy 2019-03-28 01:55:55 how big is this vtol
+plane-crazy 2019-03-28 01:56:23 
+plane-crazy 2019-03-28 01:56:59 <@!480551202346762261> make 9x5 boat and airdrop it
+plane-crazy 2019-03-28 01:58:04 quiero suicidarme
+plane-crazy 2019-03-28 01:59:23 f-22
+plane-crazy 2019-03-28 02:17:14 
+plane-crazy 2019-03-28 02:18:42 https://gfycat.com/IllinformedInformalBrontosaurus
+plane-crazy 2019-03-28 02:23:33 let’s compare pc builds
+plane-crazy 2019-03-28 02:39:34 we should compare pc builds
+plane-crazy 2019-03-28 02:39:38 to resurrect chat
+creations-chat 2019-03-28 02:54:24 https://i.imgur.com/iDTA6bE.jpg requesting advanced engineer (https://i.imgur.com/abOJFnc.png)
+plane-crazy 2019-03-28 02:55:42 what images do i need to apply for carrier commando
+plane-crazy 2019-03-28 02:56:55 send pic of the carrier?
+plane-crazy 2019-03-28 02:57:12 ok so i gotta get people to land on it
+plane-crazy 2019-03-28 02:57:31 damn everyone was lining up to land on it earlier
+plane-crazy 2019-03-28 02:57:53 wym
+plane-crazy 2019-03-28 02:58:01 i just joined a random server
+plane-crazy 2019-03-28 02:58:18 don't have ranks so can't join vip server
+plane-crazy 2019-03-28 02:58:45 i'm requesting advanced engineer... can i gain access with that?
+creations-chat 2019-03-28 03:14:22 yeah well...
+creations-chat 2019-03-28 03:14:50 now that's pretty epic
+plane-crazy 2019-03-28 03:22:27 what
+plane-crazy 2019-03-28 03:22:30 ok
+plane-crazy 2019-03-28 03:22:39 ö
+plane-crazy 2019-03-28 03:24:13 http 400
+plane-crazy 2019-03-28 03:24:20 
+plane-crazy 2019-03-28 03:24:24 different game ig
+plane-crazy 2019-03-28 03:27:53 https://i.imgur.com/gB73wQN.png
+plane-crazy 2019-03-28 03:28:06 <@!435946988559925248> it's on roblox's end
+plane-crazy 2019-03-28 03:28:34 https://www.roblox.com/library/12222242/uuhhh-wav
+plane-crazy 2019-03-28 03:28:45 https://downdetector.com
+plane-crazy 2019-03-28 03:30:39 same <@!435946988559925248>
+plane-crazy 2019-03-28 03:34:34 not for me
+plane-crazy 2019-03-28 03:37:18 uuhhh.wav
+plane-crazy 2019-03-28 03:37:47 https://www.youtube.com/watch?v=5ho88VXJTBg
+plane-crazy 2019-03-28 03:37:58 i got the horses in the back
+plane-crazy 2019-03-28 03:38:02 horse tack is attached
+plane-crazy 2019-03-28 03:38:52 mfw my bots are better than any other music bot
+plane-crazy 2019-03-28 03:39:05 no bots play from spotify afaik
+plane-crazy 2019-03-28 03:40:26 plug walk
+plane-crazy 2019-03-28 03:41:08 y'all think old town roads is good? wait for https://www.youtube.com/watch?v=GJGcIUa1dWQ
+plane-crazy 2019-03-28 03:41:57 ye
+plane-crazy 2019-03-28 03:42:02 can't hear
+plane-crazy 2019-03-28 03:42:16 wait no it's quiet af
+plane-crazy 2019-03-28 03:42:32 OMG I pla ymc with no musci and im crying rn this is so epic
+plane-crazy 2019-03-28 03:42:51 11 and cat are best songs
+plane-crazy 2019-03-28 03:44:35 what the fu this so epic
+plane-crazy 2019-03-28 03:46:42 time to hop on
+plane-crazy 2019-03-28 03:47:21 
+plane-crazy 2019-03-28 03:48:11 aka skip
+plane-crazy 2019-03-28 04:06:51 it's a rank
+plane-crazy 2019-03-28 04:14:28 imagine playing roblox
+-this post made by modded minecraft gang
+plane-crazy 2019-03-28 04:29:14 please
+plane-crazy 2019-03-28 04:30:17 yeah... m1911
+plane-crazy 2019-03-28 04:30:25 idk
+plane-crazy 2019-03-28 04:50:10 true
+plane-crazy 2019-03-28 15:03:53 this is so sad..... my friend got termed
+plane-crazy 2019-03-28 15:04:13 terminated
+plane-crazy 2019-03-28 15:04:26 he made a game called dog shooting simulator
+plane-crazy 2019-03-28 15:05:06 
+plane-crazy 2019-03-28 15:05:20 lmao it was like blocky dogs that barely resembled them
+plane-crazy 2019-03-28 15:05:32 you know flamingo? he played the game
+plane-crazy 2019-03-29 00:53:28 rip rococks
+plane-crazy 2019-03-29 00:55:12 me (irl)
+plane-crazy 2019-03-29 00:57:57 ok
+plane-crazy 2019-03-29 01:12:37 <@!486674992981999648> bedrock edition sucks
+plane-crazy 2019-03-29 01:13:08 it is bedrock edition
+plane-crazy 2019-03-29 01:13:12 https://i.imgur.com/nsbxoGt.png
+plane-crazy 2019-03-29 01:13:29 getting through bedrock is ex
+plane-crazy 2019-03-29 01:13:49 bedrock edition has that position text box
+plane-crazy 2019-03-29 01:16:46 https://i.imgur.com/O1EYLlb.png top 10 photos taken seconds before disaster
+plane-crazy 2019-03-29 01:16:52 (that's a bomb)
+plane-crazy 2019-03-29 01:17:09 i want someone to spawn a boat so i can bomb it
+plane-crazy 2019-03-29 01:18:04 there fixed it
+plane-crazy 2019-03-29 01:20:09 is using an explosive block to destroy the cockpit bad if you're trying to eject
+plane-crazy 2019-03-29 01:24:59 >uses parachute
+game: https://i.imgur.com/GytlLir.png
+plane-crazy 2019-03-29 01:25:28 ./smite
+plane-crazy 2019-03-29 01:31:46 e
+plane-crazy 2019-03-29 01:34:57 mfw gyazo suck
+plane-crazy 2019-03-29 01:35:38 https://i.imgur.com/SAbIv16.png
+plane-crazy 2019-03-29 01:36:28 lemme get a good host
+plane-crazy 2019-03-29 01:38:21 ok time to go to that
+plane-crazy 2019-03-29 01:38:53 ok tell me my ip
+plane-crazy 2019-03-29 01:39:42 if it's not ||fuck.your.ip.logger|| then imma cry
+plane-crazy 2019-03-29 01:46:01 <@511080180966752256> i went to the ip logger too
+plane-crazy 2019-03-29 01:46:49 vpn = epi
+plane-crazy 2019-03-29 02:00:12 https://i.imgur.com/duaMn4r.png wth
+plane-crazy 2019-03-29 02:14:56 
+plane-crazy 2019-03-29 02:18:13 
+plane-crazy 2019-03-29 02:33:08 <:FixPls:548709302282747914><:Motor:559531201237352451> https://i.imgur.com/zKMbC02.png
+plane-crazy 2019-03-29 02:37:18 jarvis, deploy flaps
+plane-crazy 2019-03-29 02:37:34 can you team build?
+plane-crazy 2019-03-29 02:37:49 i was able to edit some dude's build once tho
+plane-crazy 2019-03-29 02:50:53 s
+plane-crazy 2019-03-29 02:57:26 my f-22 goes like 400 max
+plane-crazy 2019-03-29 02:57:41 \*bows up*
+plane-crazy 2019-03-29 02:58:29 what does damping do with suspension
+plane-crazy 2019-03-29 03:00:33 why don't pistons work when extended and then you jump out of pilot seat
+plane-crazy 2019-03-29 03:01:11 6ix9ine with the 9 on the regular
+plane-crazy 2019-03-29 03:08:45 <@!435946988559925248> accept request and join em
+plane-crazy 2019-03-29 03:09:05 i unfriended someone
+creations-chat 2019-03-29 03:30:07 https://i.imgur.com/15NKSF3.png https://i.imgur.com/sJRFQRy.jpg epic carrier (requesting carrier commando)
+creations-chat 2019-03-29 03:31:10 ^ https://i.imgur.com/z2FV3vs.png
+creations-chat 2019-03-29 03:34:51 and you landed on it
+creations-chat 2019-03-29 03:34:56 then used the elevator to go down
+plane-crazy 2019-03-30 04:57:40 me irl
+plane-crazy 2019-03-30 19:17:15 o
+plane-crazy 2019-03-30 19:21:18 why is the parachute delay between opening and slowdown so long
+plane-crazy 2019-03-30 20:41:42 
+plane-crazy 2019-03-31 21:47:35 were propellor engines buffed?
+plane-crazy 2019-04-15 00:18:51 been away for a little while... where's pvp mode?
+plane-crazy 2019-04-15 00:19:24 no button
+plane-crazy 2019-04-15 00:20:30 yes
+plane-crazy 2019-04-15 00:20:33 oh wait
+plane-crazy 2019-04-15 00:20:49 that pic was taken while i wasn't spawned
+plane-crazy 2019-04-15 00:20:56 but i despawned and now it reappeared
+plane-crazy 2019-04-15 00:23:25 (i took it, spawned, then despawned)
+plane-crazy 2019-04-15 00:24:04 what game is that?
+plane-crazy 2019-04-15 00:24:14 looks epic
+plane-crazy 2019-04-15 00:24:18 link?
+plane-crazy 2019-04-15 00:24:30 it's just called "galaxy"
+plane-crazy 2019-04-15 00:24:44 <https://www.roblox.com/games/200330616/Galaxy> ?
+plane-crazy 2019-04-15 00:25:09 alright
+plane-crazy 2019-04-15 00:28:58 https://i.imgur.com/RXWZ3Hw.png wtf
+plane-crazy 2019-04-15 00:30:05 did someone buy it or make it?
+plane-crazy 2019-04-15 00:30:11 h
+plane-crazy 2019-04-15 00:30:53 
+plane-crazy 2019-04-15 00:31:33 
+plane-crazy 2019-04-15 00:31:38 it's fucking huge
+plane-crazy 2019-04-15 00:33:09 i sent the link
+plane-crazy 2019-04-15 00:35:35 how can i get a new ship
+plane-crazy 2019-04-15 00:38:23 warp looks so epic
+plane-crazy 2019-04-15 00:40:36 https://i.imgur.com/Oz5ioRP.png
+plane-crazy 2019-04-15 00:41:28 is there a way to get more materials back from refining
+plane-crazy 2019-04-15 00:41:35 https://i.imgur.com/QgPwh1k.png this is shitty
+plane-crazy 2019-04-15 00:42:01 lol
+plane-crazy 2019-04-15 00:42:10 is he teleporting?
+plane-crazy 2019-04-15 00:42:11 or warp
+plane-crazy 2019-04-15 00:42:16 ah ok
+plane-crazy 2019-04-15 00:42:32 is there a way to get back more refined materials or do i gotta mine more
+plane-crazy 2019-04-15 00:43:08 im at my faction's base
+plane-crazy 2019-04-15 00:43:17 so i can sell then buy?
+plane-crazy 2019-04-15 00:43:22 ok i gotta go there
+plane-crazy 2019-04-15 00:43:31 wasp or the other default ship
+plane-crazy 2019-04-15 00:43:39 ok
+plane-crazy 2019-04-15 00:44:07 why is it going to my cargo hold
+plane-crazy 2019-04-15 00:44:13 o h lol
+plane-crazy 2019-04-15 00:44:38 how do i get the shit out of my hold
+plane-crazy 2019-04-15 00:47:34 i can't buy shit and put it in my warehouse?
+plane-crazy 2019-04-15 00:48:00 ok im here
+plane-crazy 2019-04-15 00:48:12 am docking
+plane-crazy 2019-04-15 00:48:38 ohhh ok
+plane-crazy 2019-04-15 00:48:59 debt token? is that a loan
+plane-crazy 2019-04-15 00:50:05 how
+plane-crazy 2019-04-15 00:53:19 time to get hella rich
+plane-crazy 2019-04-15 00:53:44 <@!486674992981999648> debt tokens are a loan, but you gotta pay back more than what it's worth
+plane-crazy 2019-04-15 00:54:18 was explaining what debt tokens are
+plane-crazy 2019-04-15 00:54:32 oh ok sorry
+plane-crazy 2019-04-15 01:03:19 how to repair my ship?
+plane-crazy 2019-04-15 01:04:13 mfw my ship got destroyed
+plane-crazy 2019-04-15 01:13:59 oh ok
+plane-crazy 2019-04-15 01:33:13 ok i should join you?
+plane-crazy 2019-04-15 01:33:25 how many players in your server
+plane-crazy 2019-04-15 01:34:07 s
+plane-crazy 2019-04-15 01:35:20 i found integex's server
+plane-crazy 2019-04-15 01:35:30 are you in
+plane-crazy 2019-04-15 01:38:33 gn
+plane-crazy 2019-04-15 01:38:50 https://i.imgur.com/8TAPZeK.png
+plane-crazy 2019-04-21 23:11:42 can fuel tanks explode ingame
+plane-crazy 2019-04-21 23:18:00 https://i.imgur.com/xVTuVMV.png epic
+plane-crazy 2019-04-27 02:20:27 anyone make an sr-71?
+plane-crazy 2019-04-27 02:21:18 you did? i wanna see
+plane-crazy 2019-04-28 14:27:31 https://i.imgur.com/3RE89WQ.png
+plane-crazy 2019-04-28 14:27:46 parachutes be like
+plane-crazy 2019-04-28 16:52:14 pewdiepie actually sucks
+plane-crazy 2019-04-28 16:52:24 shitty youtuber
+plane-crazy 2019-04-28 16:53:13 ah yes, the classic us vs them
+plane-crazy 2019-04-28 16:54:03 he appeals to edgy 12 and 13 year olds
+plane-crazy 2019-04-28 16:54:30 he is unfunny
+plane-crazy 2019-04-28 16:54:52 makes tons of mistakes, still doesn't get banned
+plane-crazy 2019-04-28 16:57:09 yay! edgy 2016 humor!
+plane-crazy 2019-04-28 19:38:13 how to make a magnet drive again?
+plane-crazy 2019-04-28 19:38:35 what settings
+plane-crazy 2019-04-28 19:41:34 do i set to lose parts only
+plane-crazy 2019-04-28 21:05:32 how to get in here?
+plane-crazy 2019-04-28 21:06:43 :(
+plane-crazy 2019-04-29 23:15:33 my sr-71 flies ok but it wont turn...
+plane-crazy 2019-04-29 23:15:38 it spins in midair
+plane-crazy 2019-04-29 23:17:00 https://gfycat.com/MelodicGorgeousBarracuda
+plane-crazy 2019-05-01 00:09:12 me irl
+plane-crazy 2019-05-01 00:16:53 this song suck
+plane-crazy 2019-05-01 00:24:33 ^shitty redditor alert
+plane-crazy 2019-05-01 00:24:39 jk but don't be cringe
+plane-crazy 2019-05-01 00:31:13 !sERvERs
+plane-crazy 2019-05-01 00:31:16 sad!
+the-dump 2019-05-01 01:56:51 https://cdn.discordapp.com/attachments/560537502998593566/572964497686528082/video.mov
+the-dump 2019-05-01 19:00:03 me irl
+the-dump 2019-05-05 19:44:47 https://www.roblox.com/games/2001094103/Russian-roulette
+plane-crazy 2019-05-11 01:45:26 we need a wind tunnel

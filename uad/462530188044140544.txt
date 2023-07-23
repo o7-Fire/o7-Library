@@ -1,0 +1,66 @@
+The Tale of 4a26 (462530188044140544)
+help 2020-11-13 23:16:11 does anyone know how to make an effective railgun
+help 2020-11-13 23:16:34 mine shoots everything at once, is extremely inaccurate and the hits don't register 99% of the time
+help 2020-11-15 02:55:17 What is the best way to control a conveyor driven plane?
+help 2020-11-15 02:55:36 I have an SR71 but it has terrible handling
+help 2020-11-15 02:56:22 Even when the entire fuselage is control surfaces it goes into a spin at about 5000 speed when trying to turn
+help 2020-11-15 03:01:09 so I should use motor 2s and couple them to my control surfaces?
+help 2020-11-15 03:01:29 or is it done with regular wings
+help 2020-11-15 03:02:45 thank you, will try
+help 2020-11-15 23:35:38 what does it mean if my conveyor plane flies upside down and corrects itself every time I try to right it
+help 2020-11-15 23:36:02 and does rolls when I don't intend to
+bot-central 2020-11-16 07:32:21 ?ping
+bot-central 2020-11-16 07:32:32 -ping
+help 2020-11-19 12:11:27 Is there any way to motorlock moving parts such that they move in unison?
+help 2020-11-21 01:16:04 motor 2s?
+help 2020-11-21 02:38:07 any idea as to how I should give this a roof to make the turret flush?
+help 2020-11-21 02:38:29 the motorlock has to rotate
+help 2020-11-21 02:38:35 so I can't put the roof on there
+help 2020-11-21 23:30:44 is there any way to stop missiles motorlocked together from going at like 0.69 studs per second
+help 2020-11-21 23:31:37 really affecting my pvp performance at times
+help 2020-11-21 23:38:56 I kind of need it
+help 2020-11-21 23:39:05 it keeps all my missiles in 1 compartment so I can have a seperate outside gun
+help 2020-11-21 23:39:17 and I can elevate it more efficiently
+plane-crazy 2020-11-27 10:36:34 speaking of which
+plane-crazy 2020-11-27 10:36:48 how do I counter them noobs with explosive blocks and 4 wheels
+plane-crazy 2020-11-27 10:37:02 they just keep ramming and the explosive blocks act as armour too
+plane-crazy 2020-11-27 10:37:33 they just keep respawning and i cannot actually have fun
+plane-crazy 2020-11-27 10:37:40 not that I cannot shoot the wheels
+plane-crazy 2020-11-27 10:38:32 might try making a fighter
+plane-crazy 2020-11-27 10:38:39 but my motorlock is terrible
+plane-crazy 2020-11-27 10:43:19 are guns motorlocked together better or are they better when there is spread
+bot-central 2020-11-27 13:00:56 ?shelp
+bot-central 2020-11-27 13:01:50 ?rhelp
+general 2020-12-03 23:23:51 is it just me or is roblox having a stroke rn
+general 2020-12-03 23:24:15 my favourites and stuff aint loading
+general 2020-12-03 23:24:31 400 bad request on games
+general 2020-12-03 23:25:37 LMAO
+general 2020-12-03 23:25:44 downdetector says roblox is working fine
+general 2020-12-03 23:25:57 'no problems at roblox we swear'
+general 2020-12-03 23:29:37 woah
+general 2020-12-03 23:29:41 looks like they updated
+general 2020-12-03 23:29:58 when you do stuff in the search bar it says 'avatar shop' instead of catalog
+general 2020-12-03 23:30:22 stupid change imo
+help 2020-12-10 10:37:41 anyone got a good rgb value for a maus?
+help 2020-12-10 10:37:54 all my greys are too dark or too light
+help 2020-12-10 10:38:34 I've tried (150,150,150) (160,160,160) (90,90,90)
+help 2020-12-10 10:42:53 okay
+help 2020-12-10 10:46:25 yeah 120 120 120 is pretty good
+help 2020-12-12 01:40:16 my first fighter jet with motorlock keeps flinging me
+help 2020-12-12 01:40:49 when I try to roll the motor2s go berserk and the control surfaces detach
+creations-chat 2020-12-21 06:51:31 why are the IIIs longer than regular Is
+help 2020-12-22 05:47:33 is it normal for rockets motorlocked into the same area to travel much much slower
+help 2020-12-22 05:52:34 yeah they move like they're in molasses
+help 2020-12-22 05:52:39 I'd say about 50 speed
+help 2020-12-22 05:52:57 when I fire while moving they hit me instead
+help 2020-12-22 05:53:06 and they spawn in behind me
+bug-reports 2020-12-22 23:53:50 Getting blacklisted and  the blacklister going into flight mode causes the red blacklist wall to stay for the blacklistee
+creations-chat 2020-12-23 23:49:47 how do I improve on this
+so I should make it a bit shorter?
+creations-chat 2020-12-23 23:52:42 had no idea the turret was so large
+help 2020-12-29 23:35:23 how do I camera lock a half cylinder such that it goes at a 30 degree angle AND is tilted at an angle
+help 2020-12-29 23:35:50 all my attempts end in the block doing random rotations
+creations-chat 2020-12-30 07:13:38 never thought I'd see something from WWR in <#384025409945337856>
+general 2021-01-06 09:21:58 I'm losing my mind with maus turret cheeks
+help 2021-02-19 23:28:53 How do I do turret cheeks like the Leopard 2A6
+help 2021-02-19 23:30:36 they're angled as well

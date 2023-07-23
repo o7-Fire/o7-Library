@@ -1,0 +1,288 @@
+The Tale of bluesandbox (393590894387003404)
+plane-crazy 2020-07-17 17:08:36 is there no way to mirror your build?
+plane-crazy 2020-07-17 17:08:43 mimirror
+plane-crazy 2020-07-17 20:22:06 how do you do a fold like this
+plane-crazy 2020-07-17 20:22:13 oh i cant paste
+plane-crazy 2020-07-17 20:22:20 i see all the videos
+plane-crazy 2020-07-17 20:22:31 but i need the seem on the inside of the 180*
+plane-crazy 2020-07-17 20:23:00 
+plane-crazy 2020-07-17 20:23:01 here
+plane-crazy 2020-07-17 20:23:11 i need to fold 2 pieces
+plane-crazy 2020-07-17 20:23:29 ?
+plane-crazy 2020-07-17 20:26:08 that wont work
+plane-crazy 2020-07-17 20:26:21 because then the motor will be outside the rocket
+plane-crazy 2020-07-17 20:26:28 i need the opposite
+plane-crazy 2020-07-17 20:27:13 how do other people build rockets
+plane-crazy 2020-07-17 20:43:25 how do you do a fold but have the motor and stuff be on the other side
+plane-crazy 2020-07-17 20:46:05 build mode?
+plane-crazy 2020-07-17 20:49:09 how would i build a fold like this so that the motor is inside the rocket when its folded
+plane-crazy 2020-07-17 20:50:05 what is that
+plane-crazy 2020-07-17 21:45:48 how do i do a fold like this so that the motor and stuff isnt visable from the outside
+plane-crazy 2020-07-17 21:45:52 its a rocket
+plane-crazy 2020-07-17 21:47:51 can someone help
+plane-crazy 2020-07-17 21:48:29 wdym use cameras
+plane-crazy 2020-07-17 21:48:34 the motor would still be visable
+plane-crazy 2020-07-17 21:48:47 yeah but the motor would still be there
+plane-crazy 2020-07-17 21:49:23 how do other people do it on rockets
+plane-crazy 2020-07-17 21:49:28 do they just have to have the motors visable?
+plane-crazy 2020-07-17 21:49:42 oh
+plane-crazy 2020-07-17 21:49:44 thats sad
+plane-crazy 2020-07-17 21:50:20 oof
+plane-crazy 2020-07-17 21:50:31 looks like Apollo 11
+plane-crazy 2020-07-17 21:50:44 i built the lego model
+plane-crazy 2020-07-17 21:50:52 things huge lol
+plane-crazy 2020-07-17 21:51:57 there should be some kind of seamless hinge block or something
+plane-crazy 2020-07-17 21:52:20 idk to make it so theres no motor
+plane-crazy 2020-07-17 21:52:30 not rreealy important though
+plane-crazy 2020-07-17 22:02:48 <@!163143541160148992> i guess i wont post any pictures when its done then
+plane-crazy 2020-07-17 22:03:47 well someone deleted what he said
+plane-crazy 2020-12-01 16:57:25 im watching this video, why are the blocks rendering like this with a better looking appearance (it was a single color fill paint, not a bunch of slightly different colored paints put on it)
+plane-crazy 2020-12-01 16:58:33 oh
+plane-crazy 2020-12-01 16:58:41 so theres no way to make it look like that now?
+plane-crazy 2020-12-01 16:59:28 oh
+plane-crazy 2020-12-01 17:00:02 i seem to remember something happening when you switched from day to night and back
+plane-crazy 2020-12-01 17:00:10 it made it look similar to that
+plane-crazy 2020-12-01 17:03:40 i like the outlines on everything
+plane-crazy 2020-12-01 17:03:50 the rendering/shading or whatever of the blocks now is just ugly
+plane-crazy 2020-12-01 17:06:15 the blocks kinda seem like the surfaces are lit from all sides or something
+plane-crazy 2020-12-01 17:06:20 or idk
+plane-crazy 2020-12-01 17:06:28 theres something about it i just cant figure out
+plane-crazy 2020-12-01 17:06:51 maybe its the surface texture or something
+plane-crazy 2020-12-01 17:07:19 no thats not what i mean
+plane-crazy 2020-12-01 17:11:27 i wish stuff i made actually looked good
+plane-crazy 2020-12-01 17:12:39 the only thing ive made that actually looks good was a halo elephant
+plane-crazy 2020-12-01 17:12:43 ive never played halo
+plane-crazy 2020-12-01 17:12:46 i have no idea why i built it
+plane-crazy 2020-12-01 17:15:43 what
+plane-crazy 2020-12-01 17:17:44 why is this chat so weird
+plane-crazy 2020-12-01 17:19:23 i like building tanks and trains
+plane-crazy 2020-12-01 18:20:30 isnt there a way to place 2 blocks in one place
+plane-crazy 2020-12-01 18:21:03 hmm
+plane-crazy 2020-12-02 00:14:12 how do i stop my builds from looking like shit
+plane-crazy 2020-12-02 00:25:41 idk how to do that tho
+plane-crazy 2020-12-02 00:26:06 :(
+plane-crazy 2020-12-02 00:27:02 this
+plane-crazy 2020-12-02 00:27:17 how
+plane-crazy 2020-12-02 00:27:56 but every time i build something new it either looks worse or the same
+plane-crazy 2020-12-02 00:28:24 lol
+plane-crazy 2020-12-02 00:28:43 i was able to build a train that can take corners at 330 speed
+help 2020-12-03 22:20:33 im trying to make a turret and i need this hinge to make the barrel longer, but placing the motor down causes everything to wobble
+help 2020-12-03 22:21:06 up down left right are fine before the motor (both axis are motor 2 things so it follows your curser)
+help 2020-12-03 22:32:44 maybe
+help 2020-12-03 22:32:58 but why does placing down a motor at the top of the barrel cause it to wobble
+help 2020-12-03 22:33:34 oh and its not just wobbling, its like it dosnt have the energy to get all the way up as well
+help 2020-12-03 22:34:13 it only does it when the motor is there though
+help 2020-12-03 22:35:44 its perfectly fine when it has no motor on the hinge, when i add the motor it flops
+help 2020-12-03 22:35:51 that makes it worse
+help 2020-12-03 22:35:55 it wont even move then
+help 2020-12-03 22:36:05 i tried adding helium to the end and it wont move now
+help 2020-12-03 22:36:32 lemme get a video of it
+help 2020-12-03 22:38:11 no hinge
+help 2020-12-03 22:38:19 hinge
+help 2020-12-03 22:39:20 great
+help 2020-12-03 22:39:21 lol
+help 2020-12-03 22:39:36 now how am i going to add a barrel to this
+help 2020-12-03 22:40:04 that is a motor fold
+help 2020-12-03 22:40:09 its whats breaking it
+help 2020-12-03 22:40:34 oh
+help 2020-12-03 22:40:44 lemme see if it being powered or not does anything
+help 2020-12-03 22:41:38 its all at base speed and torque
+help 2020-12-03 22:42:37 what the up and down motors?
+help 2020-12-03 22:43:54 oh
+help 2020-12-03 22:44:13 i havnt even been using it, just having it exist is what breaks it
+help 2020-12-03 22:46:14 hmm
+help 2020-12-03 22:47:43 it still breaks even with unpowered motors i think
+help 2020-12-03 22:48:16 yeah its still broken if the motor is unpowered
+help 2020-12-03 22:48:22 actually lemme relog
+help 2020-12-03 22:48:27 server might be broken
+help 2020-12-03 22:48:29 ill try that
+help 2020-12-03 22:51:47 <@!611251614178869269> still broke
+help 2020-12-03 22:51:51 it works when the motor is locked though
+help 2020-12-03 22:52:35 ill look it up
+help 2020-12-03 22:53:48 is this what your talking about
+help 2020-12-03 22:53:50 https://www.youtube.com/watch?v=K848OEofiyU
+help 2020-12-03 22:57:00 do you have a link to a video of motor lock folds
+help 2020-12-03 22:57:38 how do i build a motor lock fold
+help 2020-12-03 23:02:03 idk he said motor lock fold
+help 2020-12-03 23:02:05 idk what it is
+creations-chat 2020-12-03 23:05:47 its the same build, i just added a turret and changed the front
+help 2020-12-03 23:15:01 ok
+help 2020-12-03 23:18:56 why do i hear a jet engine every time i rotate my motor
+help 2020-12-03 23:24:07 i do not have any jet engines on my build
+help 2020-12-03 23:26:20 nvm im just blind
+help 2020-12-03 23:26:24 i forgot what a jet engine looked like
+help 2020-12-03 23:26:25 sorry
+creations-chat 2020-12-04 00:25:40 how did you get this little image thing
+oh
+plane-crazy 2020-12-04 01:37:07 i wish shredders bugs were bannable
+plane-crazy 2020-12-04 01:43:02 who came up with it
+plane-crazy 2020-12-04 01:43:07 they should be punished
+plane-crazy 2020-12-04 01:52:49 re-paste it
+plane-crazy 2020-12-04 01:53:15 how would it stick to the ship
+plane-crazy 2020-12-04 01:58:35 so much white
+plane-crazy 2020-12-04 01:58:40 my eyes
+plane-crazy 2020-12-04 01:58:50 oh no
+plane-crazy 2020-12-04 02:50:34 lol
+plane-crazy 2020-12-04 02:50:38 this dude
+plane-crazy 2020-12-04 02:50:46 was defending himself using the shredder
+plane-crazy 2020-12-04 02:50:51 like no
+plane-crazy 2020-12-04 02:50:54 you have no excuse
+plane-crazy 2020-12-04 02:50:58 die
+plane-crazy 2020-12-04 03:14:51 well fuck
+plane-crazy 2020-12-04 03:14:56 i tried to make a figher jet
+plane-crazy 2020-12-04 03:15:00 it looks like a fucking bird
+plane-crazy 2020-12-04 03:15:33 why
+plane-crazy 2020-12-04 03:15:43 yes very bird
+plane-crazy 2020-12-04 03:15:45 lol
+plane-crazy 2020-12-04 03:15:49 i tried
+plane-crazy 2020-12-04 03:20:25 what if its a shredder bug
+plane-crazy 2020-12-04 03:20:39 never
+plane-crazy 2020-12-04 03:20:58 hmm
+plane-crazy 2020-12-04 03:21:34 possibly
+plane-crazy 2020-12-04 03:22:06 i must be missing something, why did my cannon thing get so many downvotes
+plane-crazy 2020-12-04 03:22:37 hmm
+plane-crazy 2020-12-04 03:22:42 yeah i guess
+plane-crazy 2020-12-04 03:23:10 its gray
+plane-crazy 2020-12-04 03:23:29 i mean would you rather have baby blue
+plane-crazy 2020-12-04 03:25:00 naint
+plane-crazy 2020-12-04 03:25:11 would this be a downvote
+plane-crazy 2020-12-04 03:25:45 lol
+plane-crazy 2020-12-04 03:25:54 yes
+plane-crazy 2020-12-04 03:27:12 <:thchoink:527880803456122891>
+plane-crazy 2020-12-04 03:28:28 what about this one
+plane-crazy 2020-12-04 03:28:45 finally
+plane-crazy 2020-12-04 03:28:49 eradicate them
+plane-crazy 2020-12-04 03:29:02 one crash at a time
+plane-crazy 2020-12-04 03:29:17 lol
+plane-crazy 2020-12-04 03:29:50 i have more weird planes than actually useful things
+plane-crazy 2020-12-04 03:30:08 lmao
+plane-crazy 2020-12-04 03:30:30 yeah idk what its supposed to be
+plane-crazy 2020-12-04 03:30:32 and i built it
+plane-crazy 2020-12-04 03:30:36 it flies
+plane-crazy 2020-12-04 03:30:37 barely
+plane-crazy 2020-12-04 03:31:31 how about this beautiful beast
+plane-crazy 2020-12-04 03:33:00 it dosnt fly
+plane-crazy 2020-12-04 03:33:16 lol i mostly just made it as a meme
+plane-crazy 2020-12-04 03:33:20 i want to make my elephant fly
+plane-crazy 2020-12-04 03:34:22 heres a more updated one of it
+plane-crazy 2020-12-04 03:34:34 i need to complete the turret
+plane-crazy 2020-12-04 03:35:10 thicc
+plane-crazy 2020-12-04 03:35:32 i should be working on my train but i think ill just make a better turret for the elephant
+plane-crazy 2020-12-04 03:36:06 what
+plane-crazy 2020-12-04 03:40:43 impossible
+plane-crazy 2020-12-04 03:44:57 looks like the game went down
+plane-crazy 2020-12-04 03:45:14 press f to pay respect
+plane-crazy 2020-12-04 03:45:32 dont say that cursed name
+plane-crazy 2020-12-04 03:46:01 <:what:644996672048463942>
+plane-crazy 2020-12-04 03:46:14 <:OkBuddy:652567204453154816>
+plane-crazy 2020-12-04 03:46:23 <:Trigje139:559518788660232196>
+plane-crazy 2020-12-04 03:46:45 robloc
+plane-crazy 2020-12-04 03:46:54 <:hahaa:773727260539617280>
+plane-crazy 2020-12-04 03:47:31 roblox cant die, its eternally fueled by the rage of 6 year olds
+plane-crazy 2020-12-04 03:47:46 have you tasted one?
+plane-crazy 2020-12-04 03:48:09 lol imagine having builders club
+plane-crazy 2020-12-04 03:48:22 no u zoomer
+plane-crazy 2020-12-04 03:48:31 it will always be builders club to me
+plane-crazy 2020-12-04 03:48:56 premium is a shitty name
+plane-crazy 2020-12-04 03:49:10 name it builders club again and ill be happy
+plane-crazy 2020-12-04 03:49:27 i think i still have mine
+plane-crazy 2020-12-04 03:49:51 yep
+plane-crazy 2020-12-04 03:50:00 i forgot
+plane-crazy 2020-12-04 03:50:06 i have the headstack
+plane-crazy 2020-12-04 03:50:09 triple headstack
+plane-crazy 2020-12-04 03:50:13 and bighead
+plane-crazy 2020-12-04 03:51:18 why do i have these
+plane-crazy 2020-12-04 03:51:36 thanks
+plane-crazy 2020-12-04 03:51:39 no
+plane-crazy 2020-12-04 03:51:52 vertical something something liftoff
+plane-crazy 2020-12-04 03:52:06 yes
+plane-crazy 2020-12-04 03:52:38 give me your antlers
+plane-crazy 2020-12-04 03:54:25 is there no rank category for tanks and shit
+plane-crazy 2020-12-04 03:54:49 oh
+plane-crazy 2020-12-04 03:54:53 yeah im in game
+plane-crazy 2020-12-04 03:55:05 but i use lawn mowers for wheels
+plane-crazy 2020-12-04 03:55:58 yes
+plane-crazy 2020-12-04 03:56:22 does rocket assisted fowards and backwards and rocket turning count
+help 2020-12-04 03:58:22 would a vehicle with rocket assisted fowards and backwards and rocket turning count
+help 2020-12-04 03:58:33 for the terrain rank
+plane-crazy 2020-12-04 03:59:32 oof
+plane-crazy 2020-12-04 04:04:12 (ignore the white part) would this look better with or without the circled part
+plane-crazy 2020-12-04 04:06:44 hmm
+plane-crazy 2020-12-04 15:51:55 how does this look
+plane-crazy 2020-12-04 15:52:18 idk
+plane-crazy 2020-12-04 15:52:36 yes wide gun
+plane-crazy 2020-12-04 15:52:46 discord is dying
+plane-crazy 2020-12-04 15:52:51 help
+plane-crazy 2020-12-04 15:53:01 yes wide gun
+help 2020-12-04 16:16:35 im probably doing this completely wrong, but im trying to make a motor lock but it dosnt pull anything into the blocks, just to the top of them
+help 2020-12-04 16:16:46 
+help 2020-12-04 16:17:29 that works
+help 2020-12-04 16:17:30 thanks
+help 2020-12-04 16:35:53 is there any way to fit guns and rockets into these barrels with motor locks or something
+help 2020-12-04 16:37:48 the thickest part is 3x3
+help 2020-12-04 16:37:58 i used 0.9 blocks to fit the square part into the turret so they could move
+help 2020-12-04 16:38:24 how
+help 2020-12-04 16:42:47 oof
+help 2020-12-04 16:43:15 i think ill make it less round to fit a motor lock in
+help 2020-12-04 16:49:47 i have a space but how can i put the motor lock in without the sides sticking to the motor bases and stoping them from working
+help 2020-12-04 16:51:57 sure
+help 2020-12-04 16:53:08 oh i think i figured something out
+help 2020-12-04 16:53:13 kinda
+help 2020-12-04 16:58:58 <@!486276884611465256> i think just having 3 of the cylinders being squarish vs having a section would be weird looking
+help 2020-12-04 17:05:59 <@486276884611465256> sorry power went out for a sec
+help 2020-12-04 17:06:13 Yep
+help 2020-12-04 17:06:38 One sec I have to get my pc on
+help 2020-12-04 17:06:53 Lol
+help 2020-12-04 17:08:54 uh how do i join your game
+help 2020-12-04 17:09:28 o
+help 2020-12-04 18:27:55 how do you get the firework cannons
+plane-crazy 2020-12-04 18:50:09 what am i missing why did everyone downvote this
+plane-crazy 2020-12-04 18:50:52 lol idrk know what it is either
+plane-crazy 2020-12-04 18:50:58 it used to be a halo elephant
+plane-crazy 2020-12-04 18:51:01 a long time ago
+plane-crazy 2020-12-04 18:51:47 i guess
+plane-crazy 2020-12-04 18:52:00 ;/
+plane-crazy 2020-12-04 18:52:32 yes
+plane-crazy 2020-12-04 18:52:55 i know
+plane-crazy 2020-12-04 18:53:04 this was an early version i think
+plane-crazy 2020-12-04 18:53:22 but i changed it around a lot
+plane-crazy 2020-12-04 18:54:22 i thought it looked a lot worse
+plane-crazy 2020-12-04 18:54:45 :(
+plane-crazy 2020-12-04 18:55:28 i have a bunch of different versions that lead up to the cannon one
+plane-crazy 2020-12-04 18:55:33 i think i erased them though
+plane-crazy 2020-12-04 18:56:13 i posted the basic one in <#384025409945337856>  yesterday and it has 26 upvotes wow
+plane-crazy 2020-12-04 18:56:18 lol
+plane-crazy 2020-12-04 18:56:48 well at least the cannon one is somewhat good at killing shredders
+plane-crazy 2020-12-04 18:58:32 oompa loompa
+plane-crazy 2020-12-04 18:58:51 is this any good
+plane-crazy 2020-12-04 18:58:56 i started it a long time ago and i have no idea what it is
+creations-chat 2020-12-04 19:02:03 looks dead
+help 2020-12-04 19:02:23 more rockets
+help 2020-12-04 19:02:35 more everything
+help 2020-12-04 19:05:44 more rockets
+help 2020-12-04 19:05:48 rockets fix everything
+help 2020-12-04 19:10:32 ez
+help 2020-12-04 19:10:32 use zero gravity
+plane-crazy 2020-12-04 19:41:45 are they actually going to do something about shredder bugs
+plane-crazy 2020-12-04 19:41:54 anyone
+plane-crazy 2020-12-04 19:42:00 oh yeah
+plane-crazy 2020-12-04 19:42:06 they should be
+plane-crazy 2020-12-04 19:43:32 what
+plane-crazy 2020-12-04 19:43:43 you just became the shredder bug
+plane-crazy 2020-12-04 19:43:56 hmm
+plane-crazy 2020-12-04 19:44:01 lol
+plane-crazy 2020-12-04 19:44:09 pvp is fun tho
+plane-crazy 2020-12-04 19:44:23 only when there are no shredder bugs ofc
+plane-crazy 2020-12-04 19:45:26 man my build was like 100 blocks away from terrain 3
+plane-crazy 2020-12-04 19:46:02 they are though
+plane-crazy 2020-12-04 19:52:25 most of the ones i encounter go strait through my builds
+creations-chat 2020-12-04 19:58:00 who even made a among us crewmate tutorial
+its so fucking simple
+creations-chat 2020-12-04 20:08:43 did you have a stroke
+plane-crazy 2020-12-04 20:12:35 hmm
+plane-crazy 2020-12-04 20:12:40 i might just try
+plane-crazy 2020-12-04 20:12:51 very satisfying
+creations-chat 2020-12-04 20:24:42 thicc
+plane-crazy 2020-12-04 20:40:02 thats an among us character?
+plane-crazy 2020-12-04 20:40:05 lmaoo
+general 2021-08-14 13:51:02 e

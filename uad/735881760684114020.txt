@@ -1,0 +1,155 @@
+The Tale of feudalpink (735881760684114020)
+plane-crazy 2022-07-27 21:15:01 Does anyone have a working canon design that shoots explosives, I tried following a tutorial and it didn’t even stay together, made it stay together and the thing just didn’t explode
+plane-crazy 2022-07-27 21:22:17 I’m tryna make something that works in pvp
+plane-crazy 2022-07-27 21:22:39 I could make a replica of a canon just fine but making the mechanism to shoot explosives just never works
+plane-crazy 2022-07-27 21:25:31 That’s not the problem tbh
+plane-crazy 2022-07-27 21:25:34 I can figure those out
+plane-crazy 2022-07-27 21:25:37 But the explosives
+plane-crazy 2022-07-27 21:25:40 They don’t explode
+plane-crazy 2022-07-27 21:27:58 I did
+plane-crazy 2022-07-27 21:28:01 Bruh
+plane-crazy 2022-07-27 21:28:13 I think I might have had a glitch or something
+plane-crazy 2022-07-27 21:28:40 I deleted the whole launcher from the tutorial too thinking it didn’t work
+plane-crazy 2022-07-27 21:28:42 Pain
+plane-crazy 2022-07-27 21:30:08 Oh no the explosives literally just bounced off the guy I was testing with and rolled around
+plane-crazy 2022-07-27 21:31:30 I’ll try again tomorrow
+plane-crazy 2022-07-27 21:31:51 Yes there were people blowing each other up
+plane-crazy 2022-07-27 21:32:00 Definitely a pvp server
+plane-crazy 2022-07-27 21:33:47 Ohhhh
+plane-crazy 2022-07-27 21:33:55 Well at least I know now
+help 2022-07-29 14:27:24 does text not hold things together anymore?
+help 2022-07-29 14:27:32 im trying to use it to hold it and it wont work
+help 2022-07-29 14:33:03 (tryna make landing gear in a 1x4 area)
+help 2022-07-29 14:33:48 so which ones do hold stuff together?
+help 2022-07-29 14:35:05 so why does my 1x3 text connected to the end of a motor 2 not work
+help 2022-07-29 14:36:07 the green part?
+help 2022-07-29 14:37:14 if i connect the text part to it the motor just stops working
+help 2022-07-29 14:37:47 it literally just makes the motor stop moving
+help 2022-07-29 14:39:17 this is the amount of space i have
+help 2022-07-29 14:39:33 if i put it so it connects the parts to the motor it just stops moving
+help 2022-07-29 14:39:56 its for a fighter jet
+help 2022-07-29 14:40:07 incase that wasnt obvious
+help 2022-07-29 14:40:50 ok so how do i do it
+help 2022-07-29 14:41:26 alr ill try
+help 2022-07-29 14:41:37 is it motor locked in or is that motor lock for something else?
+help 2022-07-29 14:42:25 yeah but is the landing gear area motorlocked to bring it together?
+help 2022-07-29 14:43:16 the landing gear bay
+help 2022-07-29 14:43:21 the area which the landing gear goes into
+help 2022-07-29 14:43:29 is there a motor lock that brings it together
+help 2022-07-29 14:43:53 thats not what i mean
+help 2022-07-29 14:44:02 does it need a motor lock to hold it together
+help 2022-07-29 14:44:28 ok
+help 2022-07-29 14:45:28 no
+help 2022-07-29 14:46:28 is it a youtube tutorial?
+help 2022-07-29 14:46:43 ohhhh
+help 2022-07-29 14:46:55 ok im using that
+help 2022-07-29 14:46:56 thanks
+help 2022-08-02 12:18:05 So i made this missile, but it doesn't work, when i hit people they take zero damage because the explosion doesnt reach them
+help 2022-08-02 12:18:06 https://www.youtube.com/watch?v=Zq03Pyd-n4w
+help 2022-08-02 12:33:11 :/
+help 2022-08-02 13:00:09 Yeah it’s actually better if I leave it off impact and press the button because of the way the explosion happens
+help 2022-08-03 15:56:19 why do my trapdoors not hold together
+help 2022-08-03 15:56:33 like i place them next to each other and on connectable surfaces and they just fall off
+help 2022-08-03 16:15:00 sure one sec
+help 2022-08-03 16:16:28 
+help 2022-08-03 16:16:33 i can send images
+help 2022-08-03 16:16:41 <@521855442608193537>
+help 2022-08-03 16:16:54 the ones at the back are on super engines
+help 2022-08-03 16:17:33 so how come a watched a youtube tutorial that placed them like that?
+help 2022-08-03 16:18:05 but on the tutorial it worked fine?
+help 2022-08-03 16:28:08 i tried every rotation and position i could imagine and nothing worked, im just gonna give up
+creations-chat 2022-08-03 17:24:59 ?
+creations-chat 2022-08-03 17:27:58 ok so the way i showed it wasnt perfect but you could at least give me some feedback so i can make it better
+creations-chat 2022-08-03 17:30:16 thank you
+creations-chat 2022-08-03 17:33:49 any ideas on what detail i could add? looking at the plane itself idk what to put on it
+creations-chat 2022-08-03 17:51:22 i am looking at the real thing i cant see anything to add apart from tiny little dots
+help 2022-08-03 20:14:38 can anyone tell me some really good plane crazy designers so i can get some inspiration?
+creations-chat 2022-08-04 10:20:01 Well pretty much people put on a circus show for us
+creations-chat 2022-08-04 10:22:03 Good point, people are talking about it like it will definitely come out then
+creations-chat 2022-08-04 10:25:42 Ok well ngl that Bismarck that the person can’t finish looks pretty amazing
+creations-chat 2022-08-04 10:28:09 Yeah if we just tell people their builds are bad enough they’ll never come back!!!!!! (We uh, want that right?)
+creations-chat 2022-08-04 10:30:12 Fr how dare they be bad at something they don’t fully understand yet
+
+<@401530469952389130> True true, an expert channel would be a genius idea
+creations-chat 2022-08-04 10:32:25 Looking back at my old creations pain me, I’m still terrible at the game but I was so bad before...
+creations-chat 2022-08-04 10:34:42 The one whitename who just takes the “feedback” and tries to improve:
+
+<@744591826891046943> Ngl I was nearly that one whitename but I kind of just never updated the plane
+creations-chat 2022-08-04 10:37:11 Ngl that should be in hall of fame and be a contest winner wow!!!
+help 2022-08-04 10:38:23 Normal motor, but the better solution is to just make the blades aesthetic and use tiny propellers to control the heli (rotors are pain)
+creations-chat 2022-08-04 10:46:59 Panzerfaust is about to become canon fodder
+help 2022-08-04 10:48:07 It is possible but it kinda just relies on you not pressing the buttons whilst your in the main pilot seat, you could give yourself like an on and off switch, someone with more knowledge might know
+creations-chat 2022-08-04 10:49:55 Uhhhhh, true, it’s double canon fodder then
+help 2022-08-08 13:46:20 Why do my rockets not track, no matter what settings i use, they dont track
+help 2022-08-08 15:45:15 .
+help 2022-08-08 15:45:55 Anyone got any feedback to make this UAV a bit better?
+help 2022-08-08 15:46:14 
+help 2022-08-08 15:48:39 i was tryna challenge myself to make something that isnt real
+help 2022-08-08 15:49:36 its pretty stable vertically its actually less stable horizontally lol
+help 2022-08-08 15:49:52 also because of the trapdoors i cant do a vertical stabiliser easily
+help 2022-08-08 15:51:21 its just unstable because of the speed mainly tbh
+help 2022-08-08 15:51:29 at low speed it flies amazingly
+help 2022-08-08 15:52:15 ill try that
+help 2022-08-08 15:56:47 that helped a little bit
+help 2022-08-08 16:07:37 yeah then im using control surfaces for the roll because m2m didnt fit the wings
+help 2022-08-08 16:36:05 yes
+help 2022-08-08 16:36:08 its the wing shape
+contest-chat 2022-08-10 12:31:51 Build a V Bomber contest when
+general 2022-08-10 14:59:30 is it just me
+general 2022-08-10 14:59:33 or is plane crazy broken
+general 2022-08-10 15:04:50 so no one else is getting controls that just dont work and stuff like that?
+general 2022-08-10 15:05:22 do what hallow said
+general 2022-08-10 15:06:14 no
+general 2022-08-10 15:09:52 hello
+contest-chat 2022-08-10 15:44:54 the arominator
+contest-chat 2022-08-10 15:44:56 we need that
+creations-chat 2022-08-11 21:38:37 As a whitename I second this
+creations-chat 2022-08-11 21:40:43 Touch sea
+creations-chat 2022-08-11 21:43:16 Uh ok you make a good point but if you just lean down (make sure you’re precariously hanging over a rail) then try and touch the water (ensure you are doing it near the propeller) then when you mysteriously fall and get your arm chopped off I will not take the blame
+creations-chat 2022-08-11 21:46:59 Oh that’s not good, I hope the taste isn’t salty for too long, I also think that whitename should do research on the basic concept of having interests
+
+Also why does no one like the sea vixen
+
+THE ONLY BAD PART IS THE COCKPIT
+
+NO !!!!! YOU CANT HAVE A DIFFERENT OPINION TO ME !!!!!!
+creations-chat 2022-08-11 21:49:33 Omg I agree well done good opinion
+
+That’s theoretically impossible due to the fact you are also made of carbon and to do that you would probably be in a situation where you die to, therefore doing what federal wants
+creations-chat 2022-08-11 21:52:40 True, also it should have bombs because a10
+
+<@847981335078895680> is that even possible
+
+Idk it’s just such a small space
+help 2022-08-11 21:55:06 Try not shitposting in creations
+help 2022-08-11 21:55:09 👍
+creations-chat 2022-08-11 21:55:19 Oh damn
+help 2022-08-11 21:55:57 Eavesdropping on what 💀
+plane-crazy 2022-08-11 21:56:14 A14 tomhog spotted
+help 2022-08-11 21:56:38 On your convo? I responded to the question with the correct answer and you got angry
+creations-chat 2022-08-11 21:57:23 Then what is good?
+
+<@567763933952475157> lmao
+help 2022-08-11 21:58:02 If it’s for help people should accept the help then
+creations-chat 2022-08-11 22:00:53 Hardly ever see non 1 wide planes that people actually like tbh
+creations-chat 2022-08-11 22:03:17 Yeeeeeee how dare you have yur own apinion!!!!!!
+creations-chat 2022-08-11 22:05:41 Isn’t like the whole point of this channel to judge the creations so that we help the person make them better? Or is this just “I don’t like it” “OMG HOW DAR YUUUUUU!!!!!!”
+creations-chat 2022-08-11 22:08:23 It should be, join plane crazy, oh yeah this is quite toxic, not, wait omg plane crazy community is toxic how did I not realise, isn’t obvious from the people who slander you in game for tiny things?
+
+<@365515326550573078> that rafale is not okie dokie
+creations-chat 2022-08-11 22:12:36 It actually, Uhm, proves that, Uhm, older builds were less good because, Uhm, they had less features in the game, Uhm
+
+@Mr.SlowFood#1251 yup, basically sums it up
+creations-chat 2022-08-11 22:15:11 The whole existence of creations is so the creations get judged if you can’t cope with them being judged then just don’t post, it’s as simple as that
+creations-chat 2022-08-11 22:17:35 I gotta agree with that one ngl
+creations-chat 2022-08-11 22:19:50 This one slaps hard, especially with the small prop engines
+creations-chat 2022-08-11 22:22:23 “Like my roscale mech?”
+creations-chat 2022-08-11 22:28:22 Warned for trying to send like 10 emojis, what a L move from me
+creations-chat 2022-08-11 22:30:46 “Guys I tried out motor lock what do you think?”
+creations-chat 2022-08-11 22:34:23 I wonder if there is a single person in this world who can make a gloster javelin look good
+
+The gloster javelin is one of Britain’s ugly Cold War jets
+creations-chat 2022-08-11 22:36:41 You ever heard of raf duxford? They have a target livery javelin there and it’s amazing because it is used for what that monster deserves, being shot at
+creations-chat 2022-08-11 22:40:13 The giant scribbles really mask the disgusting horror under neath ngl
+creations-chat 2022-08-11 22:42:28 Is uh, that thing meant to be an osprey?
+plane-crazy 2022-08-19 11:09:53 Will pc2 have bigger plot sizes?

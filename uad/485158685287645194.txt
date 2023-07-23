@@ -1,0 +1,21 @@
+The Tale of buckytop (485158685287645194)
+bug-reports 2019-05-14 23:16:35 So I've been noticing some kind of glitch with me and some other peoples builds. When in build mode, I am fully able to stand on and touch the blocks with their proper physics. When being used, or tested, the blocks seem to become walk-through, and I can no-clip right through them.
+bug-reports 2019-05-14 23:16:42 Some things I've noticed:
+bug-reports 2019-05-14 23:18:11 -It only happens for me, nobody else I know has this happen, nor people I see.
+-I can touch friends builds fine, and even some other peoples builds. Certain ones I have this happen on.
+-Chairs are an exception, as when I sit down I am unable to move. That is the only thing that doesn't have this happen.
+bug-reports 2019-05-14 23:18:36 Here are some screenshots with someones build I found.
+bug-reports 2019-05-14 23:18:54 Oh?
+bug-reports 2019-05-14 23:18:56 That easy?
+bug-reports 2019-05-14 23:19:05 I was gonna post some screenshots
+bug-reports 2019-05-14 23:19:10 You still need them?
+bug-reports 2019-05-14 23:19:17 Alright
+bug-reports 2019-05-14 23:26:05 I kept scrolling up and didn't find much that looked like what problem I'm experiencing. If you mean the latest bug fix that was posted there, I don't think that's the same thing. That's more of glitching onto a build, and not glitching through. I'll post and example.
+bug-reports 2019-05-14 23:26:09 That's me in someones stairs.
+bug-reports 2019-05-14 23:26:34 They were testing their build, and I could walk right through.
+bug-reports 2019-05-14 23:27:08 
+bug-reports 2019-05-14 23:27:35 
+bug-reports 2019-05-14 23:27:45 It looks like a completely different bug than anything in <#529858892075761694>.
+bug-reports 2019-05-14 23:28:47 But like I said, chairs were unaffected.
+bug-reports 2019-05-14 23:29:13 
+bug-reports 2019-05-15 18:59:51 Alright, thank you

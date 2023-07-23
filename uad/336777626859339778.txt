@@ -1,0 +1,27 @@
+The Tale of ihavenoideawhatimdoing (336777626859339778)
+bot-central 2021-08-14 23:33:12 !rank
+help 2021-08-23 03:46:18 if im making a mini ship, and its too fast, what can I do to make it slower? (its using a single propellor engine with a motor to turn)
+help 2021-11-09 09:11:25 anyone know if there is a way to make this vehicle stop tipping over other than slowing down?
+help 2021-11-09 09:11:30 normally i would just try slowing down the vehicle but the whole focus of this one is speed
+help 2021-11-09 09:12:42 oh yeah
+physics
+help 2021-11-09 09:12:48 well, thanks for helping
+help 2021-11-09 09:13:49 yeah, im gonna keep one rocket so i can aim up and down
+help 2021-11-09 09:13:53 and the rest on the side
+plane-crazy 2021-12-03 09:01:58 atleast in a plane
+you have no chance if you're in any kind of large ground/naval build
+plane-crazy 2021-12-03 09:02:58 there is also the suicide vehicle
+plane-crazy 2021-12-03 09:03:05 i have self destruct on my tanks to deal with shredders
+plane-crazy 2021-12-03 09:04:24 submarines work sometimes
+plane-crazy 2021-12-03 09:04:59 yeah, but most dont bother checking underwater
+plane-crazy 2021-12-03 09:05:21 do fireworks work effectively against shredders?
+plane-crazy 2021-12-03 09:05:42 guns might work sometimes
+plane-crazy 2021-12-03 09:05:58 guns seem like they could work but only really with stacked gun turrets
+plane-crazy 2021-12-03 09:06:38 to be fair destroying any mach 1 creation in general is impossible
+plane-crazy 2021-12-03 09:06:42 i see it happen with jets
+plane-crazy 2021-12-03 09:06:48 you just cant hit them
+plane-crazy 2021-12-03 09:07:17 would be hard to balance, people could just spam random blocks
+plane-crazy 2021-12-03 09:07:48 i feel like an easier way would just be really heavy weapons
+so you cant really use too many weapons on a jet because of weight
+plane-crazy 2021-12-03 09:07:55 although there is helium
+plane-crazy 2021-12-03 09:08:10 people can just use motorlock then

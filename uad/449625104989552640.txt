@@ -1,0 +1,26 @@
+The Tale of jesser0 (449625104989552640)
+help 2021-12-05 13:35:46 How could I make the walker's legs move like I've drawn here?
+general 2021-12-06 20:09:50 How do I post images on <#384025409945337856> ?
+general 2021-12-06 20:10:14 Thanks
+general 2021-12-06 20:10:50 I made a cool hand and wanted to post it here in discord but ok then I guess
+general 2021-12-06 20:11:43 dm?
+help 2021-12-07 11:10:00 Is it possible to make an inactive motor rotate freely using another motor? Kind of hard to explain
+help 2021-12-07 11:19:23 Also, can I make working gears?
+help 2021-12-07 11:50:53 Powered off, doesn't move on it's own but can be moved by other forces like another motor and gravity
+help 2021-12-07 11:51:27 Like if you lift up the front wheel of a bicycle and spin it with your hand
+help 2021-12-09 14:59:43 How do I stop suspension from bouncing my APC up and down?
+help 2021-12-09 15:00:43 What do I adjust?
+help 2021-12-09 15:02:38 Set stiffness to 100 and it still bounces like hell
+help 2021-12-09 18:57:52 pvp server works too
+creations-chat 2021-12-10 08:34:41 How did you make the glass? I'm a noob
+creations-chat 2021-12-10 08:37:15 Oh, ok. Thanks
+creations-chat 2021-12-10 08:39:47 I know how to do basic motorlocks but idk what any of that means
+general 2022-01-15 15:29:15 What are the dimensions of the build area?
+general 2022-01-15 15:29:35 Thanks
+general 2022-01-15 15:29:57 Oh, I meant in blocks
+general 2022-01-15 15:31:36 Ok nvm, I am stupid
+general 2022-01-15 15:31:42 Thanks for the help
+plane-crazy 2022-05-28 13:58:24 How do I mirror a piece?
+plane-crazy 2022-05-28 13:59:48 Alright, thanks
+plane-crazy 2022-05-28 14:20:11 Are there any blocks that guns can shoot trough?
+plane-crazy 2022-05-28 14:22:52 Ah, ok. Thanks

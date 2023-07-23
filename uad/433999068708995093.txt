@@ -1,0 +1,20 @@
+The Tale of dustin4041 (433999068708995093)
+general 2021-02-18 11:24:52 Does anyone has a good design for for a sea mine with a magnet?
+general 2021-02-18 11:25:49 If I try building a sea mine with a magnet the ship goes to the mine instead of the mine going towards the ship
+creations-chat 2021-02-18 11:27:30 I am building a missle cruiser with sea mines with magnets so the sea mines go towards enemy ships but instead of the mine going to the ship the ship goes to the mine how can I fix that?
+plane-crazy 2021-02-18 11:29:05 I am bulding a sea mine with a magnet in it but instead of the mine going towards the enemy ship the ship goes toward the mine how can I fix this?
+plane-crazy 2021-02-18 11:30:32 <@!424656494949040129>  Thank you all my dreams are shattered
+plane-crazy 2021-02-18 11:30:54 Thats why my magnet homing missle dont work
+plane-crazy 2021-02-18 11:31:10 No
+plane-crazy 2021-02-18 11:32:31 Welll then does anyone has a good sea mine design
+plane-crazy 2021-02-18 11:34:10 Tnt armor on ships is almost useless you only have 150 blocks
+bot-central 2022-09-17 13:10:21 $new
+plane-crazy 2022-10-21 15:31:41 Does anyone kown a good design or tips for a ground to air missle? Tried a lot the problem is the the TNT explodes but the plane is already gone
+plane-crazy 2022-10-21 15:34:28 Thanks for the reply do you kown if trying to stick to a target will work?
+plane-crazy 2022-10-21 15:34:45 Like tangle the plane with rope and tnt?
+plane-crazy 2022-10-21 15:35:15 I use suspension in missles and sometimes they stick but still often no damage
+plane-crazy 2022-10-21 15:36:52 Boats and tanks are not the problem
+plane-crazy 2022-10-21 15:39:32 I am building a big submarine that shoots missles tanks and other boats are no problem but dont really have something to kill planes
+plane-crazy 2022-10-21 15:40:53 Trying the front tactic
+plane-crazy 2022-10-21 15:43:52 Thanks for the help
+plane-crazy 2022-10-21 18:28:44 Is changing the BlastPressure on tnt a good idea?

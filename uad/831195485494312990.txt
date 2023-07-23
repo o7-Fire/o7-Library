@@ -1,0 +1,26 @@
+The Tale of hx4pi (831195485494312990)
+help 2021-08-10 19:27:27 my helicopter isnt working. i cant control the pitch or hover at all
+help 2021-08-10 19:28:24 ?
+help 2021-08-10 19:29:04 also the wing panels on the motor keep readjusting and i dont know why.
+help 2022-12-15 13:21:38 how do i connect 2 seperate parts of 1 build? like if i split my ship in half how do i connect the other half?
+help 2022-12-15 13:22:54 is there any other option
+help 2022-12-15 13:27:54 longer
+help 2022-12-15 13:29:01 it worked thx
+help 2022-12-15 15:55:09 how do i make a motor follow my cursor?
+help 2022-12-15 15:56:04 doesnt work, i've tried it. is it because i built something on top of it?
+help 2022-12-15 15:57:37 ok i fixed it, it was because one of the blocks i had built on it was attached to something else.
+help 2022-12-15 17:11:52 how do i make my boat actually float and not sink?
+help 2022-12-16 04:34:51 my boat keeps capsizing, anyone know why?
+help 2022-12-16 05:04:48 yeah i had that all it was just too thin and top heavy so im remodeling it
+help 2022-12-16 05:05:05 ty
+help 2022-12-16 05:12:56 would this be wide enough?
+help 2022-12-16 09:54:13 put helium blocks  in the hull or somewhere high on the ship
+help 2022-12-16 09:57:46 make your ship less top heavy? idk. maybe decreasing the turn radius should help
+help 2022-12-16 10:40:46 how do i rotate blocks like a ladder into a diagonal position?
+help 2022-12-16 13:14:51 i had that before. i just waited and my stuff came back.
+help 2023-01-27 14:07:38 when building a drift car, do i make the chassis or the body first?
+help 2023-01-27 14:11:38 im struggling to put a shell over my chassis because it refuses to work when i build it over.
+help 2023-01-27 14:12:26 
+help 2023-01-27 14:13:04 ill put on a body gimme 5 mins
+help 2023-01-27 14:17:35 nvm im just stupid because i'd always block the motorlock
+help 2023-01-27 14:17:39 sorry abt that

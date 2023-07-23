@@ -1,0 +1,6 @@
+The Tale of Powering Exploitation (751769821179543552)
+general 2021-09-10 01:51:31 help theres an invisible block blocking my build I cant build
+general 2021-09-10 01:51:55 reload build doesnt work
+general 2021-09-10 01:51:56 rejoin doesnt work
+general 2021-09-10 01:52:02 yes
+general 2021-09-10 01:52:39 thanks it worked

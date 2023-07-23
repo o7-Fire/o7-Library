@@ -1,0 +1,436 @@
+The Tale of _noah1 (338655422686691329)
+help 2019-07-06 19:43:24 So, i'm making a rocket, and as far as i'm aware the center of gravity is in the middle, but when i try to fly it it automatically starts to bend backwards and then it's pointing towards the ground. Can anyone help?
+help 2019-07-06 19:44:00 the rocket
+help 2019-07-06 19:44:18 
+help 2019-07-06 19:48:03 Thanks man.
+plane-crazy 2019-07-06 20:16:43 Lmao. This guy just came up to me and said 'copy guy'. I'm not sure if he mean's I'm copying him, because he's making a rocket too, or if I'm copying it of yt, in which case that is also not true
+plane-crazy 2019-07-07 02:31:04 wall-3
+the-dump 2019-07-07 02:53:19 https://www.youtube.com/watch?v=gby7rsrH4FU
+plane-crazy 2019-07-09 17:20:54 Wish there was some kind of hinge, so I don't have to do fiddly things with motors.
+plane-crazy 2019-07-09 17:22:50 I mean like the besiege steering hinge. https://besiege.fandom.com/wiki/Steering_Hinge
+plane-crazy 2019-07-09 18:22:22 hinges could be used for mechs
+plane-crazy 2019-07-09 18:22:30 for knees and such
+plane-crazy 2019-07-09 18:40:01 If it matters to anybody, use 0.9 blocks with the rails to make your train as stable as possible.
+plane-crazy 2019-07-09 18:40:05 That's what I do.
+plane-crazy 2019-07-09 18:41:03 
+plane-crazy 2019-07-09 20:02:23 i wish there was a really long train track that doesn't have intersections because i wanna see how fast my train can go before derailing and i wanna see if i can walk around in it and other stuff but the damn rail is so small and i can't do much because i have to constantly click buttons to move the intersections
+plane-crazy 2019-07-11 19:15:24 wish there was wedge friction blocks for slightly better wheels
+plane-crazy 2019-07-11 19:17:47 wait, does it actually give friction?
+plane-crazy 2019-07-11 19:17:49 damn
+plane-crazy 2019-07-11 19:18:09 so does metal material make blocks stronger or somethin
+plane-crazy 2019-07-11 19:18:57 and glass
+plane-crazy 2019-07-11 19:19:13 not rlly
+plane-crazy 2019-07-11 19:19:20 but it's still different to normal plastic
+help 2019-07-11 19:21:29 someone give a relatively simple build idea
+help 2019-07-11 19:21:41 or i'll make a nuke
+help 2019-07-11 19:21:49 and launch it at some poor soul
+plane-crazy 2019-07-11 20:19:02 What does the pilot seat do? I know the main pilot seat but what about just the pilot seat?
+plane-crazy 2019-07-11 20:19:40 right
+plane-crazy 2019-07-11 20:19:51 i thought it let your friends operate your creations
+plane-crazy 2019-07-11 20:20:15 yeah i know now
+plane-crazy 2019-07-11 20:20:29 that'd be a sick idea for turrets
+plane-crazy 2019-07-11 20:20:42 just get your mate to shoot a turret on a car while you drive
+plane-crazy 2019-07-11 20:41:22 Is a submarine with a swastika on the top of it allowed?
+plane-crazy 2019-07-11 20:41:37 Because there's a submarine with a swastika on it in this server
+bot-central 2019-07-11 21:01:53 ?ping
+bot-central 2019-07-11 21:03:15 ?ping
+bot-central 2019-07-11 21:03:31 BRO
+bot-central 2019-07-11 21:04:35 ?ping
+bot-central 2019-07-11 21:04:48 hhh
+bot-central 2019-07-11 21:05:19 hhh
+bot-central 2019-07-11 21:05:50 hhh
+plane-crazy 2019-07-12 16:16:57 imagine a plane crazy but it took part in space and you could explore planets and solar systems and galaxies and have massive spaceships that are the size of real-life cities and have massive wars
+plane-crazy 2019-07-12 16:19:26 wait what game is that
+creations-chat 2019-07-12 16:21:02 Mobile flak turret
+creations-chat 2019-07-12 16:22:09 
+plane-crazy 2019-07-22 19:32:56 Really wish there was a mirror button, so that everything you have placed is mirrored across your plot
+plane-crazy 2019-07-22 19:33:34 heh
+plane-crazy 2019-07-22 19:33:50 yeah it would make bigger builds like bipedal mechs a lot easier
+plane-crazy 2019-07-22 19:34:31 big*ger*
+plane-crazy 2019-07-22 19:35:03 it would make things like these easier
+plane-crazy 2019-07-22 19:35:29 no i know but
+plane-crazy 2019-07-22 19:35:37 i'm trying to give a demonstration
+plane-crazy 2019-07-22 21:25:36 I made a large cannon box that shouldn't be as large as it is
+plane-crazy 2019-07-22 21:25:41 the inside is mostly hollow
+creations-chat 2019-07-22 21:26:56 thicc cannon (meant to be a joke creation
+creations-chat 2019-07-22 21:27:19 locking mechanism
+creations-chat 2019-07-22 21:27:22 
+creations-chat 2019-07-22 21:27:53 when it fires its round
+creations-chat 2019-07-22 21:28:39 don't know why i took so long to make such a... majestic useless thing
+the-dump 2019-07-24 14:31:37 
+creations-chat 2019-07-24 14:50:47 A working, loading explosive ball gun with 6 rounds. Featuring a piston and trapdoor mechanic for a locking and loading system.
+creations-chat 2019-07-24 14:52:45 This is the reloading mechanism. It opens the trapdoors and uses a piston, one linked to a different key on each end to push each different row of bombs into the 'loading bay'. Then, those two pistons push the ball down into the barrel via the ramp, where a magnet fires the ball. You can also load two balls at once, but it uses up two rounds.
+creations-chat 2019-07-24 14:53:15 
+creations-chat 2019-07-24 14:53:33 
+creations-chat 2019-07-24 14:56:10 Truth be told, you can load as many rounds as you want.
+creations-chat 2019-07-24 15:00:14 Well, yes
+creations-chat 2019-07-24 15:00:59 since you can make the clip longer to have more rounds, as seen here:
+creations-chat 2019-07-24 15:01:31 Though it isn't advised to load more than 3 rounds, because they tend to get sent flying up the ramp and out to the side.
+creations-chat 2019-07-24 15:02:36 Though tbh i don't know what direction the balls actually go in. The magnet shoots them so fast that they look like they've disappeared
+creations-chat 2019-07-24 15:04:15 I put a target in front of the gun and it turns out that if you load one round, it's extremely fast and accurate, and any more and it turns into a shotgun.
+plane-crazy 2019-07-24 15:48:49 I can agree, as I and in the server too. He says tank fish copied him.
+plane-crazy 2019-07-24 15:51:10 It's funny.
+plane-crazy 2019-07-24 15:51:24 Watching him get scared and mad at people telling him he copied
+plane-crazy 2019-07-24 18:50:08 go to hell
+plane-crazy 2019-07-24 18:50:25 no
+plane-crazy 2019-07-24 18:50:29 british
+plane-crazy 2019-07-24 18:50:53 me
+plane-crazy 2019-07-24 18:51:02 OH WAIT
+plane-crazy 2019-07-24 18:51:04 my discord
+plane-crazy 2019-07-24 18:51:11 i thought you meant my roblox name
+plane-crazy 2019-07-24 18:51:18 he's on about my discord name
+plane-crazy 2019-07-24 18:51:49 it's an inside joke for a different server i'm on
+plane-crazy 2019-07-24 18:52:29 no fallout 4 memes
+plane-crazy 2019-07-24 18:53:35 you know you've reached peak human evolution when you get triggered at my (old) username of Xx_OmqItzzPedo69_xX
+plane-crazy 2019-07-24 18:54:25 revolt
+creations-chat 2019-07-25 00:21:37 ?
+creations-chat 2019-07-25 00:21:39 oh
+creations-chat 2019-07-25 00:22:03 I did make a very uhhh
+creations-chat 2019-07-25 00:22:05 like
+creations-chat 2019-07-25 00:22:11 simple artillery design
+creations-chat 2019-07-25 00:22:15 with 2 missiles
+creations-chat 2019-07-25 00:22:35 i'm dm a picture
+creations-chat 2019-07-25 00:29:56 Frick nvm i deleted it a while back
+creations-chat 2019-07-25 00:29:58 welp
+creations-chat 2019-07-25 00:30:03 i'll try and make one
+creations-chat 2019-07-25 00:34:35 I'm unsure whether you mean a missile propelled by a mag, or rocket, so I'll go out on a limb and assume you mean a rocket.
+creations-chat 2019-07-25 00:35:58 In fact, I'll do both.
+creations-chat 2019-07-25 00:41:44 I figured just using *one* piston to load the rockets into the barrel would be a bit lousy, so I used a design which,
+creations-chat 2019-07-25 00:41:45 well
+creations-chat 2019-07-25 00:41:47 you'll see
+creations-chat 2019-07-25 00:53:01 Alright. I've got the basic desgin
+creations-chat 2019-07-25 00:53:37 It's relatively crude, and is a bit finecky, and far from compact
+creations-chat 2019-07-25 00:53:38 but
+creations-chat 2019-07-25 00:53:42 it works
+creations-chat 2019-07-25 00:58:04 The issue is that, being a 1x1 missile (3 tnt blocks, a pyramid nosecone and a super rocket on the back) The barrel supports a 1x1 interior thingy, meaning it gets more or less jammed in the barrel due to the barrel itself being to tight on the missile. But de-restricting the barrel, and replacing the blocks with half blocks giving it 0.5 of a block extra space on each direction means it fires, albeit WAY less accurate and for some reason makes the missile prone to glitching. So it's a double edged blade, but you asked and this is the best I can come up with in the shortest amount of time.
+creations-chat 2019-07-25 00:58:33 I'll give it more than one round, then make it glass so you can see the interior
+creations-chat 2019-07-25 01:00:17 Also, the damned machine creates a helluva lot of lag.
+creations-chat 2019-07-25 01:06:30 Here it is. Far from compact, but it gets the job done. One thing I have noticed is that from what i assume to be the expansive amount of pistons, the machine slowly jitters to the side. The gun was originally pointed right at the target.
+creations-chat 2019-07-25 01:07:30 It has 2 shots, but you can add more to it with (relative) ease. The only thing is that it seems the more rounds you add, the more unstable the gun gets.
+creations-chat 2019-07-25 01:08:08 Process of loading a shot.
+creations-chat 2019-07-25 01:08:51 Shot is loaded. Unsure why the pistons are desynced.
+creations-chat 2019-07-25 01:09:37 It's prone to getting jammed, in which case press the key to reverse the mag. (I have it set to 2. 1 fires the rocket.)
+creations-chat 2019-07-25 01:12:23 I can't picture anymore as my game is slowly getting laggier, both due to the extensive amount of glitches in the gun and the people trying to bash into the blacklist barrier because they kept ramming the gun. I can assure you that, although relatively hard to use, it works (sometimes.) Recommend good pc and internet and you shouldn't have too many lag-related issues involving the gun. It's less accurate than I hoped, but it works. I'm really surprised I made this at 2 o clock in the morning in relative speed.
+creations-chat 2019-07-25 01:13:36 The gun also has a habit of jittering around and randomly jumping into the air while loading / firing the second round. This often causes the gun to break, either glitching the round behind one of the pistons or just throwing it out of the gun altogether.
+creations-chat 2019-07-25 01:14:15 If you want, <@!451025784228806656> , (Tomorrow) We could get into a game so I can show you it in first person. Though it's your choice.
+creations-chat 2019-07-25 01:20:47 OOH. This is good news. I extended the barrel on the gun, which made it a lot more accurate. Also, It appears to have eliminated some issues, and I managed to get through both rounds with NO issues at all. Might be luck, might be smarts.
+creations-chat 2019-07-25 01:22:20 I would add another round and experiment with it if I didn't already know it would probably break my pc
+creations-chat 2019-07-25 01:28:47 <@!451025784228806656> Nice. Have a good time. Like I said, I made the barrel longer. And, I just found a pesky stray half block which I believe was the cause of all the jams, because I've removed it and since then I've had several test runs and none of them have jammed.
+creations-chat 2019-07-25 01:32:04 Just made a 3rd round. All went well, aside from the lag that it caused.
+plane-crazy 2019-07-26 19:47:15 Not sure where to post this. Username is XLVenomSmoker. Thinks its so cool and funny making a penis shaped rocket.
+plane-crazy 2019-07-26 19:50:56 HAHhah
+plane-crazy 2019-07-26 19:51:15 I used my rocket car to ram him onto his side and off the map and he started raging.
+plane-crazy 2019-07-26 19:51:25 That's what you get for penis rocket
+plane-crazy 2019-07-26 19:53:14 Sure but i think it's full lemme check
+plane-crazy 2019-07-26 19:53:24 Not full
+plane-crazy 2019-07-26 19:53:31 But it's normal, not pvp
+plane-crazy 2019-07-26 20:00:26 what you've posted there isn't how a rubiks cube works
+plane-crazy 2019-07-26 20:01:10 I really want to know what this 'WIP' mode is
+plane-crazy 2019-07-26 20:01:22 unless it's just a placeholder for if there ever is a new mode
+plane-crazy 2019-07-26 20:02:00 cancelled = no longer working on it
+plane-crazy 2019-07-26 20:02:01 i suppose
+plane-crazy 2019-08-01 16:07:28 i wish there was some kind of block that doesn't stick to other blocks
+plane-crazy 2019-08-01 16:07:38 so it would make motor doors and piston doors easier
+plane-crazy 2019-08-01 17:03:58 i'm going to make a hand
+plane-crazy 2019-08-01 17:09:34 that hurts my eyes to look at
+plane-crazy 2019-08-01 21:28:32 Is there a way to suspend things in the air using magnets?
+plane-crazy 2019-08-01 21:41:21 This game gonna be free after alpha?
+plane-crazy 2019-08-01 21:41:41 wait nvm wrong fuckin server
+plane-crazy 2019-08-03 23:13:10 Hey, I asked before if there was a game like this but based in space. Someone answered, not sure who, with a game, but I can't remember the name. Can you remind me of the name? You said it was free, and I'm interested in getting it.
+plane-crazy 2019-08-03 23:15:19 Ah. I thought it ended with craft.
+plane-crazy 2019-08-03 23:15:28 I kept searching for 'starcraft'
+plane-crazy 2019-08-03 23:15:31 Thanks.
+plane-crazy 2019-08-08 17:34:47 what the hell is going on
+plane-crazy 2019-08-26 21:25:59 i really wish rick would add something, idk what it would be called, but you could place it on any side of a block or wedge and then blocks that are placed on it won't then stick to it, E.G: like minecraft, so it would be possible to make sliding pistons that don't look ugly, for instance so my truck can have rockets that slide out of the sides without it being too obvious and ugly
+plane-crazy 2019-08-26 21:48:05 Is there any efficient and relatively easy-to-control methods of making a hover truck?
+creations-chat 2019-09-02 12:38:48 wtf
+creations-chat 2019-09-02 12:38:49 how
+plane-crazy 2019-09-02 13:48:38 please for the love of god if more weapons get added never ever make them a gamepass
+the-dump 2019-09-02 14:25:17 1 hour 20 mins of furry
+plane-crazy 2019-09-03 16:58:25 In the suggestions channel, by "you have to have a rank to suggest something" does it mean the <#609442446249820211> rank or just any kind of role
+plane-crazy 2019-09-03 16:58:40 What I mean is would I be able to suggest something?
+bot-central 2019-09-03 16:59:26 &suggest 1.5 cylinders so you can make wheels slightly bigger than the motor
+bot-central 2019-09-03 17:03:28 & suggest 1.5 cylinders so you can make wheels slightly bigger than the motor
+plane-crazy 2019-09-04 17:21:54 Is repeatedly using laggy tactics to make other people lag against the rules?
+plane-crazy 2019-09-04 17:23:02 Alright. Because I joined a server with 2 people trying to lag other people.
+plane-crazy 2019-09-04 17:23:06 I wouldn't ever do it.
+plane-crazy 2019-09-04 17:25:23 Yeah. It's getting annoying. I don't know too much about the subject but one mentioned magnet throwing or something like that and a person, supposedly the victim, is complaining about the lag, but at the same time cheering them on. But, don't get me wrong, they aren't doing it to the one person.
+plane-crazy 2019-09-04 17:50:03 Wait, are motors only able to move a certain amount of blocks?
+plane-crazy 2019-09-04 17:52:39 Because I'm making a massive turret. When it's all unconnected and the motor has no weight, it works. But as soon as I connect it, the turret doesn't work.
+plane-crazy 2019-09-04 17:55:20 Nevermind. I found out my problem.
+the-dump 2019-09-05 16:29:57 
+general 2019-09-20 22:36:10 Benes
+plane-crazy 2019-10-07 16:59:55 has an artillery piece with a working drawback thingy idk what it's called been made before?
+plane-crazy 2019-10-07 17:01:29 yes
+plane-crazy 2019-10-07 17:01:42 oof
+plane-crazy 2019-10-07 17:01:53 i made one using suspensions, ropes and springs
+plane-crazy 2019-10-07 17:02:05 when i could've just used springs ig
+plane-crazy 2019-10-11 14:18:43 What does max force do on a piston?
+help 2019-10-11 14:19:53 What does Max force mean on a piston?
+plane-crazy 2019-10-11 21:37:30 <@!433617207734304778> Bro I've made a crossbow, an artillery gun with a working drawback feature, many MANY rifles, an automatic rifle and what I call the 'THWONK' gun because that's the noise i'd expect it to make since it shoots large canisters with smoke in them and i've yet to get a rank because there's no gun ranks. For a list of ranks, see <#609442446249820211>
+plane-crazy 2019-10-12 18:01:11 Can't wait till the new update comes out
+plane-crazy 2019-10-16 18:47:46 Guys, is higher blast pressure on a bomb good or bad?
+creations-chat 2019-10-19 14:38:05 'Project Arrowhead'
+creations-chat 2019-10-19 14:38:59 
+plane-crazy 2019-11-26 01:41:14 cybertruck = minecraft thanos truck
+plane-crazy 2019-11-28 17:46:58 How does the physics anchor work?
+plane-crazy 2019-11-28 17:47:06 I can't see a difference
+plane-crazy 2019-11-28 17:47:42 ^ I second this.
+plane-crazy 2019-11-28 17:48:48 That's useful.
+plane-crazy 2019-11-28 17:56:57 then don't state your opinion
+plane-crazy 2019-11-28 17:57:00 ignore it
+plane-crazy 2019-11-28 17:57:35 <@!313403326081531914> basically when you turn anchor off, if you press it again it freezes again
+plane-crazy 2019-11-28 17:57:47 so re-toggleable anchor
+plane-crazy 2019-11-28 17:58:23 I don't think they could.
+plane-crazy 2019-11-28 17:58:52 Oh. I never noticed that you could then.
+plane-crazy 2019-11-28 22:42:43 I'm really happy
+plane-crazy 2019-11-28 22:42:50 I just made my first walker
+plane-crazy 2019-11-28 22:43:25 It's actually quite good
+plane-crazy 2019-11-28 22:43:37 it can walk from spawn to the other end of the black road thing
+plane-crazy 2019-11-28 22:43:38 platfor
+plane-crazy 2019-11-28 22:43:40 m
+plane-crazy 2019-11-28 22:51:17 For robotic specialist, I have to be able to turn. Can I just use propellers for that?
+plane-crazy 2019-11-28 22:53:13 That's basically the whole game then
+creations-chat 2019-11-28 23:01:07 4-legged walker. (It's more of a crawler, though.) Requesting Robotics engineer 1. V Evidence of it reaching the edge of the platform from spawn
+creations-chat 2019-11-28 23:01:18 Evidence that it can turn.
+creations-chat 2019-11-28 23:01:38 Over 100 blocks.
+creations-chat 2019-11-28 23:02:42 Close-up
+creations-chat 2019-11-28 23:03:23 Mid-stride.
+plane-crazy 2019-11-28 23:05:21 Do I need to ping anyone when I request a role? Or do I just wait?
+plane-crazy 2019-11-28 23:12:15 I've got it
+plane-crazy 2019-11-28 23:12:17 I got the rank.
+creations-chat 2019-12-08 00:31:12 My 4-legged massive multi-terrain walker. For the record, it can turn and can walk and move without the rockets on the back. They're there because you can fold all the legs up and slide along the floor if you really want to.
+creations-chat 2019-12-08 00:31:27 Climbing up a hill
+creations-chat 2019-12-08 00:32:10 For perspective. The helium at the top is for a) if you want to be a moon man and have low gravity, and b) so it can fly.
+creations-chat 2019-12-08 00:32:42 Requesting robotics specialist 3. I would get it to 800 but I can't think of anything else to add.
+creations-chat 2019-12-08 00:33:40 Flying.
+creations-chat 2019-12-08 00:34:17 Flying forwards.
+creations-chat 2019-12-08 00:34:58 Climbing up a ledge because why not.
+creations-chat 2019-12-08 00:34:58 I figured it would be fun to, you know, fly.
+creations-chat 2019-12-08 00:36:10 JESUS..?!😳
+plane-crazy 2019-12-08 00:54:52 Yes.
+plane-crazy 2019-12-09 18:27:20 and space
+plane-crazy 2019-12-09 18:27:23 with planets
+plane-crazy 2019-12-09 18:27:27 and tall mountains
+bug-reports 2019-12-14 13:15:22 please fix this god forsaken collision bug it's been the bane of my existence for ages now
+bug-reports 2019-12-14 13:16:28 That's a 2x1 wedge but when I try to place it that happens, it's halfway in the floor
+bug-reports 2019-12-14 13:16:42 and it's not just with the wedge, it's with other things like 1x7 blocks
+help 2019-12-14 23:26:44 I'm really interested in making walkers, and I often make 4-legged ones due to the fact that when I make a bipedal walker, it turns left and right when I walk and doesn't really move forward.
+help 2019-12-14 23:26:55 Is there a way to control or solve this issue?
+creations-chat 2019-12-14 23:28:54 jesus
+creations-chat 2019-12-14 23:29:10 i never quite understood folds nor had a build so big that it required them
+plane-crazy 2019-12-25 11:35:39 Hey
+plane-crazy 2019-12-25 11:35:49 At least the Nazis are good now
+plane-crazy 2019-12-25 11:59:14 What if....
+plane-crazy 2019-12-26 14:09:22 wowowowowo
+plane-crazy 2019-12-26 14:09:29 watch out
+help 2019-12-28 00:32:48 <@!255858176639893504> Had this issue. It's because player seats throws off the balance. Try putting helium blocks near the top of the rocket and weighted ballasts at the bottom.
+help 2019-12-28 00:34:16 I'm a bit of a fanatic when it comes to making mechs and walkers, But I have an issue: Every time I try to make a bipedal walker, it rotates to the sides when It walks, and barely moves forwards. Is there a way to fix this?
+help 2019-12-28 02:58:14 🤭
+help 2019-12-28 12:05:15 how tf
+help 2019-12-28 12:14:45 do you make a bipedal walker that doesn't twist around when it walks?
+creations-chat 2019-12-28 12:23:30 Wip bipedal walker. Still trying to figure out how to make it not twist to the left and right while it walks.
+creations-chat 2019-12-28 12:23:49 
+creations-chat 2019-12-28 12:24:36 
+plane-crazy 2019-12-28 12:51:34 On the thumbnail for plane crazy, it says 'One million visits' But we've nearly got 20 million
+plane-crazy 2019-12-28 12:52:18 feels bad man
+plane-crazy 2019-12-28 12:53:25 Someone ought to tell madattack about this magical thing called linking your pc up to a mobile hotspot
+plane-crazy 2019-12-28 12:53:40 for literally 2 seconds to do the update
+plane-crazy 2019-12-28 12:54:25 There's a lot of rumours but I'm sticking to what rick said in announcements
+plane-crazy 2019-12-28 17:12:42 uuh
+creations-chat 2019-12-28 20:12:56 <@!548973346805776396> I can't because the actual torso of the walker is literally 3 blocks wide.
+creations-chat 2019-12-28 20:13:04 Any slimmer and I don't have a torso
+plane-crazy 2019-12-28 20:40:00 5th of fucking jan
+plane-crazy 2019-12-28 20:40:29 bro the update was meant to be 4 days ago and now it's the 5th of jan?
+plane-crazy 2019-12-28 20:40:45 might as well be a spring update because that's what it's looking like
+plane-crazy 2019-12-28 20:41:07 No
+plane-crazy 2019-12-28 20:41:11 The update is done
+plane-crazy 2019-12-28 20:41:18 Ricks done it all
+plane-crazy 2019-12-28 20:41:31 all that needs to happen is for mad to get on roblox and publish it
+plane-crazy 2019-12-28 20:41:49 i know
+plane-crazy 2019-12-28 20:42:24 But he's been online twice now since the announcement
+plane-crazy 2019-12-28 20:42:52 but we've got to wait until the 5th of jan
+plane-crazy 2019-12-28 20:43:01 If I were mad I'd go and give someone hell
+plane-crazy 2019-12-28 21:02:23 Ca les terribles
+plane-crazy 2019-12-28 21:27:36 ok frenchy sweat
+plane-crazy 2019-12-28 21:27:50 just because i've been learning it for about half a year
+general 2019-12-30 22:28:40 prolly the snow
+creations-chat 2020-01-03 01:21:59 Stick a couple sparklers to a motor. Absolutely beautiful
+plane-crazy 2020-01-08 22:00:58 Damn
+plane-crazy 2020-01-08 22:01:23 I really wanna invent something mad in plane crazy but basically everything has been done
+plane-crazy 2020-01-08 22:02:00 imagine one day someone makes some suit that detects muscle movement, and you set each and every muscle and so on as different keys, maybe on a custom keyboard
+plane-crazy 2020-01-08 22:02:08 Make a vr suit in plane crazy
+plane-crazy 2020-01-08 22:02:40 <:pogey:651848693842182144>
+general 2020-01-23 07:58:44 Stop begging us to buy nitro
+help 2020-02-03 21:41:42 How do you make a gyro
+help 2020-02-03 21:42:24 <:pogey:651848693842182144>
+help 2020-02-03 21:42:47 Im robot specialist 3, and I still don't know how to make a gyro lmao
+plane-crazy 2020-02-05 22:09:54 would suspension'd feet help a walker
+general 2020-02-07 20:38:05 <@456226577798135808> way to casually flex your pc, rich kid.
+general 2020-02-07 20:40:47 > also u think a 12 year old would be allowed dual monitors
+<@456226577798135808> 
+> and a $2000 "gaming" rig
+general 2020-02-07 20:40:55 "im fucking poor"
+general 2020-02-07 20:41:11 you're not poor.
+general 2020-02-07 20:41:43 are you aware of what poor means
+general 2020-02-07 20:42:23 
+general 2020-02-07 20:42:52 i doubt i'll see someone sleeping on a bench with no house, but a dual monitor £2000 pc set up
+general 2020-02-07 20:43:04 period.
+plane-crazy 2020-03-01 12:45:11 you can make warp drives with the hover engine
+plane-crazy 2020-03-01 12:45:13 i made one
+plane-crazy 2020-03-01 12:45:15 very fast
+plane-crazy 2020-03-01 13:12:47 i just made some kind of
+plane-crazy 2020-03-01 13:12:49 reactor
+plane-crazy 2020-03-01 13:12:51 thingy
+plane-crazy 2020-03-01 13:15:28 how do i change wmv to mp4?
+plane-crazy 2020-03-01 13:18:47 ffs
+plane-crazy 2020-03-01 13:20:05 please work
+plane-crazy 2020-03-01 13:20:07 
+plane-crazy 2020-03-01 13:20:10 yesss
+creations-chat 2020-03-01 13:23:02 physics, lovely physics
+plane-crazy 2020-03-01 14:39:05 What's the fastest anyone's ever gone?
+plane-crazy 2020-03-01 14:43:27 oh
+plane-crazy 2020-03-01 14:49:08 
+general 2020-03-01 22:12:00 test servers down
+general 2020-03-01 22:12:11 mental
+general 2020-03-01 22:12:49 
+plane-crazy 2020-03-13 21:12:40 ah yes
+bug-reports 2020-03-13 23:42:11 Sometimes, when used in conjunction with hover engines, spotlights & lights just turn themselves off
+bug-reports 2020-03-13 23:42:28 you have to press the activation key to properly turn them off then turn them back on
+general 2020-03-14 16:44:22 private servers
+general 2020-03-14 16:44:29 gravity gamemode will come soon
+plane-crazy 2020-03-14 16:48:24 When's the gravity update coming?
+plane-crazy 2020-03-14 16:48:45 In private servers, yes
+plane-crazy 2020-03-14 19:44:14 Could someone let me join their vip server?
+plane-crazy 2020-03-14 19:44:39 oh.
+plane-crazy 2020-03-14 19:44:46 bro
+plane-crazy 2020-03-14 19:44:51 i will cough on you
+bot-central 2020-03-14 19:44:56 !servers
+general 2020-03-16 21:53:54 we need a minecraft server
+general 2020-03-16 21:54:01 so we dont get bored over quarintine
+general 2020-03-18 16:44:25 uk sucks honestly
+general 2020-03-18 16:44:37 why they haven't shut schools yet idk
+general 2020-03-18 16:44:48 wales, ireland and scotland have closed school
+general 2020-03-18 16:45:03 ireland shut ages ago
+general 2020-03-18 16:45:09 wales and scotland shut recently
+general 2020-03-18 16:45:36 or, rather, will shut very soon
+general 2020-03-18 16:47:25 hang on
+general 2020-03-18 16:47:34 bojo is making a speech in like 7 minutes
+general 2020-03-18 16:47:39 i'm waiting for it on yt
+general 2020-03-18 16:47:49 praying to god he says england schools are shutting
+general 2020-03-18 16:48:15 
+general 2020-03-23 17:00:16 is gtx 1660 good?
+plane-crazy 2020-04-22 11:36:25 update now :D
+plane-crazy 2020-04-23 11:29:55 <@!394246727550631936> How'd you make the tower extend? Motor locks or pistons?
+plane-crazy 2020-04-23 11:47:08 wait
+plane-crazy 2020-04-23 11:47:11 what is that
+plane-crazy 2020-04-23 11:47:17 is the rick roll one edited?
+bot-central 2020-04-26 21:10:26 !servers
+general 2020-04-28 16:50:29 https://www.independent.co.uk/news/world/americas/pentagon-ufo-video-released-declassified-navy-footage-watch-a9487276.html
+general 2020-04-28 16:50:48 why do we not care that the pentagon declassified these as genuine
+general 2020-04-30 11:14:05 cropped images a bit sus
+general 2020-04-30 11:14:14 🤔
+creations-chat 2020-05-12 01:16:06 omg terraria DoG
+creations-chat 2020-05-12 01:16:10 love it
+creations-chat 2020-05-12 01:20:12 fred dumb lol!
+general 2020-05-12 01:34:48 i need outlines to be gone in studio
+general 2020-05-12 01:35:08 those thick ones that make it hard to see the gap between the blocks you're placing
+general 2020-05-12 01:35:18 pain in the ass if you're going for small details
+creations-chat 2020-05-21 13:16:45 A working, yet somewhat overcomplicated, revolver-drum firing system.
+creations-chat 2020-05-21 13:17:05 
+creations-chat 2020-05-21 13:18:25 
+creations-chat 2020-05-21 13:19:24 kube you're using multiple magnets
+creations-chat 2020-05-21 13:19:32 do more magnets make it stronger?
+creations-chat 2020-05-21 13:19:34 at firing?
+creations-chat 2020-05-21 13:22:16 No
+creations-chat 2020-05-21 13:22:19 not really
+creations-chat 2020-05-21 13:22:28 my issue is that magnets don't work so well on guns
+creations-chat 2020-05-21 13:22:35 I wish there was a gunpowder block
+creations-chat 2020-05-21 13:23:03 to put on the actual bullets or whatever, that doesn't damage the block but when struck will explode and launch nearby blocks
+creations-chat 2020-05-21 13:23:54 I fixed the issue with the barrel not actually attaching to the durm
+creations-chat 2020-05-21 13:23:55 drum
+creations-chat 2020-05-21 13:24:44 I'll have to test my revolver with more magnets
+creations-chat 2020-05-21 13:24:53 I also want to figure out a way to rotate the drum
+creations-chat 2020-05-21 13:29:41 *Is* there any better way to propel the bullets?
+creations-chat 2020-05-21 13:29:56 i'd imagine there might be a motor / piston glitch
+creations-chat 2020-05-21 13:30:17 Not yet, actually
+creations-chat 2020-05-21 13:30:24 that's not a half bad idea
+creations-chat 2020-05-21 13:32:27 bruh
+creations-chat 2020-05-21 13:32:39 hovers aren't working for me
+creations-chat 2020-05-21 13:32:44 they just won't speed up
+general 2020-05-24 18:44:18 what game is that??
+plane-crazy 2020-05-25 12:32:23 pff
+plane-crazy 2020-05-25 12:32:27 imagine wings
+creations-chat 2020-05-25 13:04:20 this crossbow that might be a bit too powerful
+creations-chat 2020-05-25 13:06:00 it doesn't seem to have sent on creations
+creations-chat 2020-05-25 13:06:01 oh well
+creations-chat 2020-05-25 13:10:48 ooh
+creations-chat 2020-05-25 13:10:53 i didnt notice i could haha
+plane-crazy 2020-05-28 23:52:49 plane crazy needs some kind of uh
+plane-crazy 2020-05-28 23:53:01 tool to make blocks not stick
+plane-crazy 2020-05-28 23:53:08 i've suggested it a few times
+plane-crazy 2020-05-28 23:53:09 DO not
+plane-crazy 2020-05-28 23:53:10 say
+plane-crazy 2020-05-28 23:53:14 '0.9 block bro'
+plane-crazy 2020-05-28 23:53:22 because
+plane-crazy 2020-05-28 23:53:41 0.9 blocks still stick on every other side
+plane-crazy 2020-05-28 23:53:47 except the shorter side
+plane-crazy 2020-05-28 23:54:07 or p'raps it's because i'm trying to build small
+plane-crazy 2020-05-28 23:54:49 i really don't care how good i am
+plane-crazy 2020-05-28 23:54:54 in other peoples eyes
+plane-crazy 2020-05-28 23:59:40 hover thrusters
+plane-crazy 2020-05-29 00:00:36 i mean
+plane-crazy 2020-05-29 00:00:41 actually yeah
+plane-crazy 2020-05-29 00:00:43 it is i think.
+plane-crazy 2020-05-29 00:01:00 hover thrusters wouldn't get attached to the disconnectors
+plane-crazy 2020-05-29 00:01:28 what
+plane-crazy 2020-05-29 00:01:40 oh wow
+general 2020-06-01 14:21:13 i play that game
+plane-crazy 2020-06-03 22:14:54 plane crazy is on the popular tab
+plane-crazy 2020-06-03 22:14:59 right at the end
+plane-crazy 2020-06-03 22:15:00 but
+plane-crazy 2020-06-03 22:15:04 it's on the popular tab
+plane-crazy 2020-06-08 10:13:50 why add train wheels if there's no real reason to make trains
+plane-crazy 2020-06-08 10:14:50 if you're gonna add train wheels make the track longer, since you can only drive for about 5 seconds before having to stop or getting flung off the tracks due to the stupid intersections
+plane-crazy 2020-06-08 10:26:07 i'm gonna make a steam engine in besiege
+plane-crazy 2020-06-11 01:13:08 storm are you using a camera on it?
+plane-crazy 2020-06-11 01:13:39 like, to aim in 1st person?
+plane-crazy 2020-06-11 01:13:59 then that's the issue
+plane-crazy 2020-06-11 01:14:17 when you use cameras for 1st person with mouse aim it tends to make things jitter a lot
+plane-crazy 2020-06-11 01:14:24 or at least i find it does
+plane-crazy 2020-06-11 01:14:34 that and if the turret weighs too much for the motors
+plane-crazy 2020-06-11 01:15:13 Try aiming around without activating the camera
+plane-crazy 2020-06-11 01:15:17 just using 3rd person
+plane-crazy 2020-06-11 01:15:23 as well as the max torque
+bot-central 2020-06-11 09:51:49 -ping
+bot-central 2020-06-11 09:51:57 damn bro
+bot-central 2020-06-11 19:07:50 -ms
+plane-crazy 2020-06-15 10:30:37 is there a way to turn rotational inertia into forward momentum?
+plane-crazy 2020-06-15 10:30:42 idk if i worded that correct
+help 2020-06-15 10:34:19 is there a way to turn rotational inertia into forward momentum?
+idk if i worded that correct
+help 2020-06-17 21:55:20 <@456226577798135808> You can figure out the loading system yourself but magnets, hover engines, or even 'elastic bands' with ropes disconnectors and suspensions can propel objects
+help 2020-06-17 21:55:29 however it's harder when you use tnt
+the-dump 2020-06-22 12:39:11 rick is your girlfriend?
+general 2020-07-09 11:13:45 i read that as im fucking eating you
+general 2020-07-25 11:25:20 <:CertifiedMoment:570774089099116548>
+general 2020-09-07 18:26:36 Did my discord really just crash while looking at this chat
+general 2020-09-07 18:26:57 Kerbal
+creations-chat 2020-09-18 00:06:07 so?
+creations-chat 2020-09-18 00:06:50 <:OkayChamp:709084018485887096>
+general 2020-09-18 18:44:52 the pressure on venus is stupidly high, too
+general 2020-09-18 18:44:58 the air pressure
+general 2020-09-18 18:45:00 well
+general 2020-09-18 18:45:04 "air" pressure
+general 2020-10-01 07:33:29 Imagine dropping out of school
+general 2020-10-11 17:11:20 -ping
+plane-crazy 2021-01-31 22:35:11 what's the command for vip servers again
+plane-crazy 2021-01-31 22:35:12 i forgot
+plane-crazy 2021-01-31 22:35:22 ta
+bot-central 2021-01-31 22:35:28 !servers
+plane-crazy 2021-04-01 19:02:50 What does the gold block do
+plane-crazy 2022-04-20 15:38:33 What is restitution on a string/rope?
+plane-crazy 2022-07-02 21:02:39 Laughing at a 3 year old message
+plane-crazy 2022-07-02 21:32:41 I was fucking 12 then
+plane-crazy 2022-07-02 21:32:48 I was 12 when I made that report
+plane-crazy 2022-07-02 21:34:24 (Yeah man.)

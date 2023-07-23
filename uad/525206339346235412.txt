@@ -1,0 +1,64 @@
+The Tale of zenknt (525206339346235412)
+bug-reports 2021-12-30 21:00:56 When adding a motor2 to a build that contains trapdoors, the trapdoors glitch out - The owner of the build is no longer able to open it by clicking on it, when other people click the trapdoor, it doesn't open on their screen but it does on the build owner's screen, when the build owner opens the trapdoors with a keybind, it doesn't open on other people's screens.
+bug-reports 2021-12-30 21:18:39 kind of?
+bug-reports 2021-12-30 21:21:35 oh
+bug-reports 2021-12-30 21:29:45 https://cdn.discordapp.com/attachments/741694866496421888/926225497841598464/IMG_2900.png
+bug-reports 2021-12-30 21:29:48 yeah it
+bug-reports 2021-12-30 21:29:52 was already reported
+bot-central 2022-02-23 19:09:03 !rank
+bug-reports 2022-03-08 01:38:05 I'm experiencing the same thing as <@!591438580073627648>
+bot-central 2022-03-20 01:09:45 !rank
+bot-central 2022-03-20 01:09:52 damn
+bot-central 2022-04-24 18:03:58 wtf
+general 2022-04-24 18:13:15 bro you guys actually dogfight in planes?
+general 2022-04-24 18:13:21 i dogfight in my bob semple
+general 2022-04-24 18:13:24 ez dubs
+general 2022-04-24 18:15:20 "there are more submarines in the sky than planes in the ocean"
+general 2022-04-24 18:16:10 hole in your right wing
+the-dump 2022-04-24 18:17:57 :(
+creations-chat 2022-04-24 18:21:39 farded
+bot-central 2022-04-24 18:25:49 !rank
+plane-crazy 2022-04-24 18:27:21 I'm not really an expert in folding but I think if you just put a motor two blocks underneath the very last block of the top section and then connect the bottom section it might work
+plane-crazy 2022-04-24 18:28:04 Again, not an expert in folds
+the-dump 2022-04-24 18:33:33 we all feel the same way
+creations-chat 2022-04-24 18:36:32 is that square sticking out from the nose supposed to be there
+creations-chat 2022-04-24 18:40:33 If you don't plan to make a big interior for the Blackhawk i think you can probably try to move that motor back a half block or so to hide it
+creations-chat 2022-04-24 18:42:20 You can probably extend the smooth sides of the nose a block back as well but idk
+the-dump 2022-04-24 18:47:17 <a:yuss:808532499021955072>
+help 2022-04-24 18:47:46 a ww2 era tank that takes off like a helicopter
+help 2022-04-24 18:48:13 the Bob semple
+help 2022-04-24 18:48:20 Bob semple
+help 2022-04-24 18:48:52 a skyscraper with legs
+help 2022-04-24 18:49:48 the backrooms with walls that constantly change randomly
+help 2022-04-24 18:50:33 how about a cloud city
+help 2022-04-24 18:51:14 oh
+help 2022-04-24 18:51:44 a guided missile that scatters into smaller guided missiles
+help 2022-04-24 18:52:36 true
+help 2022-04-24 18:53:13 at this point I'm just spitting out what ever comes to mind
+help 2022-04-24 18:54:08 what if you just made it rain explosives on people
+help 2022-04-24 18:54:23 oh
+help 2022-04-24 18:55:11 a shredder ball with no cutters just to troll people
+help 2022-04-24 18:55:51 a functional assault rifle?
+help 2022-04-24 18:56:18 a revolver with a spinning chamber
+help 2022-04-24 18:57:20 with a trigger and hammer that actually moves
+help 2022-04-24 18:57:36 plus shell casing ejection
+help 2022-04-24 18:57:56 and a firing animation with recoil
+help 2022-04-24 18:58:50 do you have a flying ice cream van
+help 2022-04-24 18:59:55 because I always have the worst ideas for builds
+help 2022-04-24 19:01:43 i think I'm still just as creative as the old me when i first played plane crazy
+help 2022-04-24 19:02:15 exactly
+help 2022-04-24 19:03:57 no?
+help 2022-04-24 19:04:06 it's literally viewed as a feature now
+help 2022-04-24 19:04:11 everyone uses it
+help 2022-04-24 19:04:36 <a:MotorAscend:704802408139587604>
+creations-chat 2022-04-24 23:11:09 Does anyone know how to make a ro-scale t-34-85 turret? I need some assistance with making one
+creations-chat 2022-04-24 23:12:50 Alright, thanks
+creations-chat 2022-04-24 23:16:06 because we hate our lives and have nothing better to do B)
+creations-chat 2022-04-24 23:29:25 I'm probably gonna switch them with sparklers instead
+plane-crazy 2022-04-25 00:18:16 just search up star unicode
+plane-crazy 2022-04-25 00:18:27 and then paint the text red
+plane-crazy 2022-04-25 00:18:45 np
+bot-central 2022-07-13 02:48:14 -servers
+bot-central 2022-07-13 02:49:04 -servers
+bot-central 2022-07-13 02:52:01 -servers
+bot-central 2022-07-13 06:12:59 -servers

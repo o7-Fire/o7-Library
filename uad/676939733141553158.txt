@@ -1,0 +1,5 @@
+The Tale of virgil6940 (676939733141553158)
+bug-reports 2022-07-24 03:58:42 https://cdn.discordapp.com/attachments/807695485593845791/1000612755608453182/missplacedrocket.jpg
+bug-reports 2022-07-24 03:58:44 the rocket spawns somewhere else, maybe because of high speeds (this happened to the rest of my rockets before, but in the image shown, only one happened to be missplaced)
+bug-reports 2022-07-24 17:35:39 how do i send the image then?
+bot-central 2022-07-24 22:09:48 !rank

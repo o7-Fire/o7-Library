@@ -1,0 +1,487 @@
+The Tale of terrarules (530539224781553694)
+general 2020-02-03 21:23:25 How come the internal motor for armored ground vehicles doesnt work as well anymore?
+general 2020-02-03 21:24:10 a while ago, i decided to hide the rotating motor for turrets on vehicles and it worked great, but now there is friction that doesnt allow it to move well
+general 2020-02-03 21:25:52 what if you made a car go so fast, but used thrusters to keep it on the ground to where it flung other creations off the map in pvp mode
+general 2020-02-03 21:25:59 h m m m
+general 2020-02-03 21:28:01 auto clickers are the destroyers of servers
+general 2020-02-03 21:28:26 scotty you gave me a idea
+general 2020-02-03 21:29:12 what if, you could make something that floating high up and use motors to create a very wide spread gun, spraying the ground creations in pbp
+general 2020-02-03 21:29:16 pvp*
+general 2020-02-03 21:29:25 h m m
+general 2020-02-03 21:29:37 yee
+general 2020-02-03 21:29:50 ive tried a satellite before, a bit hard to get them to flat
+general 2020-02-03 21:29:52 float*
+general 2020-02-03 21:30:05 i suck at airplanes, mine have the worst turning
+general 2020-02-03 21:30:10 i stick to ground
+general 2020-02-03 21:31:32 i have a b i g boi pvp creation
+general 2020-02-03 21:32:24 
+general 2020-02-03 21:32:30 this is my biggest ground creation
+plane-crazy 2020-02-03 21:32:58 h m m
+plane-crazy 2020-02-03 21:33:08 i just remembered i have this absolute UNIT of a anti ground
+plane-crazy 2020-02-03 21:33:14 
+general 2020-02-03 21:34:20 are satellites even possible to make?
+plane-crazy 2020-02-03 21:34:58 it is a glass cannon that has no defense against aircraft since i didnt want to turret to be vulnerable
+plane-crazy 2020-02-03 21:35:08 it normally can yeet ground creations in one shot tho
+general 2020-02-03 21:35:42 w h a t
+general 2020-02-03 21:36:33 that confuses me
+general 2020-02-03 21:36:39 there is a french battleship with the same name
+general 2020-02-03 21:37:13 my glass cannon of anti ground is 12 wheel.
+general 2020-02-03 21:37:22 my god
+general 2020-02-03 21:37:31 it seems vulnerable tho
+general 2020-02-03 21:37:48 i mean true
+general 2020-02-03 21:37:55 mine is meant for firepower and nothing else
+general 2020-02-03 21:38:18 a n t i s h i -
+general 2020-02-03 21:38:21 rally driving-
+general 2020-02-03 21:39:06 ive attempted amphibious a while ago
+general 2020-02-03 21:39:08 i failed
+general 2020-02-03 21:39:57 i l o v e that there is a motor that follows your mouse
+general 2020-02-03 21:40:04 its way easier then the old days of using arrow keys
+general 2020-02-03 21:40:28 yee i know it exists now
+general 2020-02-03 21:40:52 i feel like drones in this game dont have much use honestly
+general 2020-02-03 21:41:25 its like, its just a plane with terrible seeing capability in this game
+general 2020-02-03 21:42:01 wh-
+general 2020-02-03 21:42:03 wait
+general 2020-02-03 21:42:07 aerodynamics-
+general 2020-02-03 21:42:12 whats the point of-
+general 2020-02-03 21:42:26 w h y
+general 2020-02-03 21:42:48 i dont even think aerodynamics effect anything in this game, or i could be wrong
+general 2020-02-03 21:44:53 i dont really do tanks, just IFVs and artillery you could say
+general 2020-02-03 21:44:58 why wheelies-
+general 2020-02-03 21:45:16 question, could a TOW carrier work?
+general 2020-02-03 21:45:33 it would only have one missile tho because of how blocks connect
+general 2020-02-03 21:45:40 and i aint that a d v a n c e d
+general 2020-02-03 21:45:57 or would just a normal creation work better then a tow carrier
+general 2020-02-03 21:46:44 and by TOW carrier i mean this
+general 2020-02-03 21:47:18 
+general 2020-02-03 21:47:22 these things
+general 2020-02-03 21:47:36 would those be effective in PVP?
+general 2020-02-03 21:48:21 ignore the turret
+general 2020-02-03 21:48:26 im meaning the weapon system itself
+general 2020-02-03 21:48:43 one small missile with a small vehicle.
+general 2020-02-03 21:49:36 is it possible to make two guidable missiles launch independently on a single creation?
+general 2020-02-03 21:49:55 big brain
+general 2020-02-03 21:50:35 well i already have a base body for the launcher itself, just the launcher will take a bit of brain power time
+general 2020-02-03 21:53:31 oh i forgot, i had a turreted vehicle but the motor is inside, not outside and vulnerable as hell
+general 2020-02-03 21:54:58 eh i dont want help from another person as it wont be my own
+general 2020-02-03 21:55:18 but thats smart, i may do a aquatic missile launch system since the ground spawn would be so bloody vulneravle
+general 2020-02-03 21:55:22 vulnerable*
+general 2020-02-03 21:56:46 i did, well attempted to make missiles a while ago but i failed at getting them to turn or be stable.
+general 2020-02-03 21:57:16 i have no issue with it, so i dont know.
+general 2020-02-03 21:59:56 yay i already have a base for the little ocean platform for missile launching
+general 2020-02-03 22:00:12 its a giant rectangle with helium blocks
+general 2020-02-03 22:10:59 is one of the reasons my guided missile doesnt work well because its aimed up vertical?
+general 2020-02-03 22:11:23 it doesnt seem to turn
+general 2020-02-03 22:11:59 wings
+general 2020-02-03 22:12:56 alright
+general 2020-02-04 18:17:31 ey, whats with motor 2 breaking my turret
+plane-crazy 2020-02-04 18:18:38 anybody knows why when i switched a older creations turret motor for the motor 2, the turret just spins and goes up and down uncontrollably?
+plane-crazy 2020-02-04 18:19:46 and no its not a plain turret, its a turret for a IFV.
+plane-crazy 2020-02-04 18:21:07 w e l p
+plane-crazy 2020-02-04 18:21:46 eh im going to work on a AA satellite sort of thing
+plane-crazy 2020-02-04 18:35:49 i just made the laziest satellite since i dont want to deal with making a gyro
+plane-crazy 2020-02-04 18:36:05 h e l i u m, wing panels and props and itll float in the air
+plane-crazy 2020-02-04 18:37:22 what are conveyors useful for anyways?
+plane-crazy 2020-02-04 18:39:10 F
+plane-crazy 2020-02-04 18:39:26 never thought making a PVP satellite would be so simple and easy
+plane-crazy 2020-02-04 18:44:03 my god, its like the Y wing of attack sattelites
+plane-crazy 2020-02-04 18:44:13 stripped down and a bit ugly
+plane-crazy 2020-02-04 18:52:36 i made something
+plane-crazy 2020-02-04 18:52:43 OP against naval and ground
+plane-crazy 2020-02-04 18:53:04 since it uses all the guns in  a laser fashion, it goes through a creation in a second
+plane-crazy 2020-02-04 18:53:19 and its silent because of the use of props
+plane-crazy 2020-02-04 18:53:51 it cuts through destroyers like butter-
+plane-crazy 2020-02-04 18:55:08 im talking about naval destroyers
+plane-crazy 2020-02-04 18:56:06 this thing i made is so simple, ugly and barebones yet this satellite is OP against ground and naval, also being sneaky
+plane-crazy 2020-02-04 18:56:16 if a AA sees me im d e d
+plane-crazy 2020-02-04 18:56:31 i was also able to yeet a aircraft that accidentally flew under me-
+plane-crazy 2020-02-04 18:57:31 F a guided missile took it out in one shot
+general 2020-02-04 18:58:23 what have i made
+general 2020-02-04 18:58:45 i made a VERY simple and ugly satellite, but it can cut through naval destroyers in a second and is silent
+general 2020-02-04 18:59:08 and easy to control and can also be used to take out jets that are under you
+general 2020-02-04 18:59:19 y e s
+general 2020-02-04 18:59:36 i mean, its the most vulnerable thing
+general 2020-02-04 19:00:35 welp, ima make it actually look nice
+plane-crazy 2020-02-04 19:02:19 welp im done with this noob creation i put together in a few mintues
+general 2020-02-04 19:02:57 eh the noob satellite was fun for a bit, ima actually work on a creation that takes t i m e
+general 2020-02-04 19:14:02 W h a t
+plane-crazy 2020-02-04 19:15:48 I suppose I like the more tinted one, bottom.
+general 2020-02-04 19:16:50 I wish the tripod was possible in plane crazy, but sadly the thing is so terribly balanced with three thin and small legs that it is impractical as possible.
+general 2020-02-04 19:19:47 I suppose that makes sense, but I normally use creations for pvp aswell and that thing can get yeeted by anything.
+plane-crazy 2020-02-04 19:24:09 Do you really want to see the ugly, nooby thing I made?
+plane-crazy 2020-02-04 19:24:38 Its op, as a glass cannon
+plane-crazy 2020-02-04 19:25:10 Nah normal motor, I normally dont do stuff like that just decided to so I can meme
+plane-crazy 2020-02-04 19:25:33 I'm busy at the moment, I'll get back on plane crazy and show my noob abomination.
+plane-crazy 2020-02-04 19:28:25 Why do you want to see it anyways?
+plane-crazy 2020-02-04 19:34:56 N I C e sarcasm
+plane-crazy 2020-02-04 19:35:31 On a different not, The angles on Ifvs and other ground vehicles seem strangely hard to get correct
+general 2020-02-04 19:35:59 Discord is trying to save you
+plane-crazy 2020-02-04 19:37:04 Little did you know that was true
+general 2020-02-04 19:37:36 How come people mainly do real life/historical builds?
+general 2020-02-04 19:37:42 I dont see much sci fi
+plane-crazy 2020-02-12 16:00:13 Is there a advantage of making a Anti Ground/Naval drone for pvp compared to a bomber/Attack aircraft? Or is the drone the same just poorer visibility.
+plane-crazy 2020-02-12 16:02:24 Ah alright, and cant they be smaller then a normal aircraft aswell?
+plane-crazy 2020-02-12 16:03:26 But with less capability to fire back.
+plane-crazy 2020-02-12 16:04:32 Fair.
+plane-crazy 2020-02-12 16:05:39 On a different note, I think wedges should be able to richotet depending on the angle to help add more depth in pvp and reward better designs a bit more then the normal box with as much weapons as possible and wheels that is a bit common.
+plane-crazy 2020-02-12 16:08:51 True, another possible way to do it is just to give wedges a bit more health depending on which wedge block it is.
+plane-crazy 2020-02-12 16:10:23 Not sure what their health is based off either.
+But I can see how it can be exploited alot.
+plane-crazy 2020-02-12 16:12:10 But honestly I think pvp should have some more depth, currently its mostly just boxes and wheels spamming missiles and guns. Not saying completely just from my experiences.
+plane-crazy 2020-02-12 16:14:31 Think what I'm trying to say is that pvp is a bit bare and should have some more complexity to it,  rewarding throughout designs.
+plane-crazy 2020-02-12 16:15:41 Throughout*
+plane-crazy 2020-02-12 16:15:50 Thought out*
+plane-crazy 2020-02-12 16:17:34 And wouldn't bigger servers be to performance heavy for some people?
+plane-crazy 2020-02-12 16:18:15 I mean then again, phantom forces has alot of performance heavy stuff and it works well.
+plane-crazy 2020-02-12 16:19:14 Yee
+plane-crazy 2020-02-12 16:20:55 I sinned using the very bare pvp, I made a satellite in 5 minutes that worked very well being as simple and ugly as hell, and it was able to cut through a high quality naval destroyer instantly. I dont use that s I n anymore, didnt even save it because how nooby and terrible it is.
+plane-crazy 2020-02-12 16:21:55 True, it somehow yeeted a aircraft out the sky aswell.
+plane-crazy 2020-02-12 16:22:11 Spamming all the guns in a line is overpowered as  hell.
+plane-crazy 2020-02-12 16:23:04 Fair. I tried making custom rockets but I suck at them alot. Not that good at aircraft in the past but I'm trying again with a drone.
+plane-crazy 2020-02-12 16:23:41 That's fixed if you have enough of the bois.
+plane-crazy 2020-02-12 16:24:33 Should I base my design off a real aircraft of a sci fi concept art one?
+plane-crazy 2020-02-12 16:25:08 Speaking of basing, why are realistic builds so common compared to original/Sci fi builds?
+plane-crazy 2020-02-12 16:25:29 Not saying their bad, they look great just a bit curious.
+plane-crazy 2020-02-12 16:26:18 I may do a original build based off of real drones, just with uniqueness to it.
+plane-crazy 2020-02-12 16:27:34 Question, does plane crazy have functioning aerodynamics?
+plane-crazy 2020-02-12 16:27:58 Like how basic?
+plane-crazy 2020-02-12 16:28:48 Eh didnt expect much, it would be very performance heavy to add decent aerodynamics.
+plane-crazy 2020-02-12 16:29:03 What's the advantage of delta wings other then looks?
+plane-crazy 2020-02-12 16:29:55 No, the wings in the yame
+plane-crazy 2020-02-12 16:30:00 Pointy wings
+plane-crazy 2020-02-12 16:39:17 Surprised they haven't added pylons for aircraft, they could be in the wing category and save weight and look better then putting blocks in the middle of a wing.
+plane-crazy 2020-02-12 16:47:28 Wait, cant the conveyors be used for tank tracks?
+plane-crazy 2020-02-12 16:48:14 0; welp ima work on a drone first before changing  a preexisting build to look and function better.
+plane-crazy 2020-02-12 16:50:17 My god they actually work well-
+plane-crazy 2020-02-12 16:51:44 Ima work on a land Pvp vehicle instead, the conveyor tracks are so bloody stable.
+plane-crazy 2020-02-12 16:52:06 Fair, I think I know how to solve that.
+plane-crazy 2020-02-12 16:52:38 Ima see if I can make the belts turn like a actual tank turns.
+plane-crazy 2020-02-12 16:55:28 Cant you just connect them with motors to turn?
+plane-crazy 2020-02-12 16:59:40 No you can
+plane-crazy 2020-02-12 17:25:10 I'm big confusion, I'm trying to get a steering mechanism for the tracks but the motor is turning the upper part of my chassis where the seat is, not the lower part.
+plane-crazy 2020-02-12 17:25:16 How do I make it turn the bottom part?
+plane-crazy 2020-02-12 17:26:46 Never used a piston, how does that help the steering?
+plane-crazy 2020-02-12 17:27:30 Working on conveyor tracks for a tank
+plane-crazy 2020-02-12 17:27:40 I got a half a day B)
+plane-crazy 2020-02-12 17:28:05 I am trying to use a motor to turn but only the top part is turning
+plane-crazy 2020-02-12 17:28:13 Want the bottom part
+plane-crazy 2020-02-12 17:28:31 Alrighty, the chassis is ugly as it's just a testing build
+plane-crazy 2020-02-12 17:28:40 I tried flipping the motor
+plane-crazy 2020-02-12 17:29:08 Alright.
+plane-crazy 2020-02-12 17:30:59 
+plane-crazy 2020-02-12 17:31:30 I want it to turn all at once as independent conveyor turning is weird
+plane-crazy 2020-02-12 17:31:44 A test chassis for conveyor tank tracks
+plane-crazy 2020-02-12 17:33:13 I added u
+plane-crazy 2020-02-12 17:33:54 Alright
+plane-crazy 2020-02-12 17:34:32 Yee, and stardust.
+plane-crazy 2020-02-12 17:34:45 Havent played recently tbh.
+plane-crazy 2020-02-12 17:55:58 Hmm
+plane-crazy 2020-02-12 17:56:10 So motors cant turn it because their being weird
+plane-crazy 2020-02-12 17:56:32 As in the motor keeps turning the wrong thing
+plane-crazy 2020-02-12 17:57:03 What do you mean right to left?
+plane-crazy 2020-02-12 17:58:25 Alright I think I understand
+plane-crazy 2020-02-12 17:59:31 It moves just straight sideways like a sidestep
+plane-crazy 2020-02-12 18:12:06 I mean props can turn it well, but they are noisy.
+plane-crazy 2020-02-12 18:13:20 A tank that uses conveyors for tracks.
+plane-crazy 2020-02-12 18:13:46 Conveyors cant turn and motors turn the wrong thing, and if each track has its own motor it's a weird turning
+plane-crazy 2020-02-12 18:14:28 Yes I've tried that, its glitchy and doesnt seem to work well
+plane-crazy 2020-02-12 18:14:59 Lemmee keep trying that
+plane-crazy 2020-02-12 18:18:06 Ya but the problem with that is sometimes it just goes foward.
+plane-crazy 2020-02-12 18:22:31 <@370594904268734464> ya that doesnt work in this for whatever reason.
+plane-crazy 2020-02-12 18:23:53 Maybe ballast blocks can put weight on a side to turn it?
+plane-crazy 2020-02-12 18:37:43 What's the E and Q for?
+plane-crazy 2020-02-12 18:39:26 Wow I'm dumb
+plane-crazy 2020-02-12 18:39:35 I forgot to set my key binds for some tracks
+plane-crazy 2020-02-12 18:50:58 I think I'm doing the keybinds in the wrong places
+plane-crazy 2020-02-12 18:53:33 Alright it works, but how come it stops moving entirely once it leaves the blue line of your area?
+plane-crazy 2020-02-12 18:56:04 Even if you just use the conveyor to use move blocks kind of like a track?
+help 2020-02-12 19:05:29 I'm working on a tank with conveyor treads but for whatever reason it stops moving when it exits the blue square, even if the conveyors are still moving.
+plane-crazy 2020-02-12 19:41:16 bit l a t e
+plane-crazy 2020-02-12 19:41:36 i think what ive decided is turn using a jet engine as its the best way
+plane-crazy 2020-02-12 19:44:57 actually i may try your landing gear idea
+plane-crazy 2020-02-12 19:46:49 welp ima take a break and work on a drone.
+plane-crazy 2020-02-12 19:57:26 welp i just saw a swastika spinner.
+plane-crazy 2020-02-12 19:58:46 h m m
+plane-crazy 2020-02-12 19:59:11 what do you guys think would be best for a drone, Props or jet engine?
+plane-crazy 2020-02-12 19:59:53 custom?
+plane-crazy 2020-02-12 20:00:54 i mean im tempted to do a engine as i saw a sleek concept art of which looked like a reaper drone and F 22 mixed in.
+plane-crazy 2020-02-12 20:01:39 
+plane-crazy 2020-02-12 20:01:42 f22 raptor as a bloody drone
+plane-crazy 2020-02-12 20:02:11 the actual drone uses a prop
+plane-crazy 2020-02-12 20:02:44 wait nvm is it this drone?
+plane-crazy 2020-02-12 20:02:58 
+plane-crazy 2020-02-12 20:03:18 thats the global hawk, the reaper drone looks similar but with a prop.\
+plane-crazy 2020-02-12 20:05:36 it was the global i think
+plane-crazy 2020-02-12 20:05:53 is there a rounded block thats like a wedge like the globals cockpit?
+plane-crazy 2020-02-12 20:07:12 nvm i founded something similar
+plane-crazy 2020-02-12 20:07:21 found*
+plane-crazy 2020-02-12 20:08:13 there is a round wedge, and whats a wedge lock?
+plane-crazy 2020-02-12 20:29:04 its fine.
+plane-crazy 2020-02-12 20:29:28 i got a little design, not sure if i should work on making sure its functional
+plane-crazy 2020-02-12 20:29:41 
+plane-crazy 2020-02-12 20:32:12 what do yall think?
+plane-crazy 2020-02-12 20:43:44 jesus-
+plane-crazy 2020-02-12 20:43:53 thats bigger then my entire drone
+plane-crazy 2020-02-12 20:44:15 my drone is tiny boi
+plane-crazy 2020-02-12 20:44:34 it is honestly nice to control.
+plane-crazy 2020-02-12 20:44:55 yes i know my grammar isnt always that good.
+plane-crazy 2020-02-12 20:45:54 welp, i want to make my drone pvp but guns dont look good on it 😭
+plane-crazy 2020-02-12 20:47:15 n o
+plane-crazy 2020-02-12 20:47:26 i dont want my drone to be to fast
+plane-crazy 2020-02-12 20:47:37 i think its speed is p e r f e c t
+plane-crazy 2020-02-12 20:47:41 its also very light
+plane-crazy 2020-02-12 20:50:37 lmao
+creations-chat 2020-02-12 20:52:00 A maneuverable,  light and fast and hard to hit pvp drone ive been working on. what do you all think of it?
+plane-crazy 2020-02-12 20:53:09 i dont think so
+plane-crazy 2020-02-12 20:53:17 server im in is still up
+plane-crazy 2020-02-12 20:54:14 that looks g r e a t
+plane-crazy 2020-02-12 20:55:55 yee
+plane-crazy 2020-02-12 20:55:57 c y a
+plane-crazy 2020-02-12 20:57:29 when you make something you think looks nice but it isnt like by a ratio of 3/1
+plane-crazy 2020-02-12 20:58:10 well 2/0
+creations-chat 2020-02-12 20:59:23 can i have advice to improve how it looks atleast?
+plane-crazy 2020-02-12 21:02:32 nvm
+plane-crazy 2020-02-12 21:02:52 all the advice on improving it was to delete it
+creations-chat 2020-02-12 21:05:40 very big Oof.
+creations-chat 2020-02-12 21:10:22 Alright, Thanks for actually being helpful and not so bloody harsh.
+plane-crazy 2020-02-12 21:11:14 not sure.
+creations-chat 2020-02-12 21:13:33 Ya i know, it does discourage alot tho.
+And mew, wouldnt that be space costly? i can see how its good for larger builds but the build im doing is a bit small, one block tall at the most
+creations-chat 2020-02-12 21:14:31 alright. What are some wing designs from real aircraft that would look good on the drone?
+creations-chat 2020-02-12 21:14:45 or atleast something i can have a reference on.
+creations-chat 2020-02-12 21:16:48 ah i understand. So leave the back and work on the more forward part of the drone?
+creations-chat 2020-02-12 21:17:49 Alright. Would it be ok to leave the size to a average of a half block?
+creations-chat 2020-02-12 21:18:03 as in height
+creations-chat 2020-02-12 21:19:32 alright. Should i do a basic pyramid nose?
+creations-chat 2020-02-12 21:20:10 alright.
+creations-chat 2020-02-12 21:38:54 Thanks i suppose but i do see the flaws which is what im experimenting on.
+creations-chat 2020-02-12 22:05:03 Hey mew, i experimented with the main body of the aircraft, i can show it to you if you'd like so i can know what to change.
+plane-crazy 2020-02-12 22:28:29 Is a drone Vtol a good idea?
+plane-crazy 2020-02-12 22:29:14 y e s
+plane-crazy 2020-02-12 23:37:49 should i continue expeirmenting with this drones body?
+plane-crazy 2020-02-13 00:15:05 Would a flying wing design be possible?
+plane-crazy 2020-02-13 00:16:31 A real life example of a flying wing is a B-2
+plane-crazy 2020-02-13 00:16:46 basically a aircraft without vertical wings
+plane-crazy 2020-02-13 00:21:07 k
+plane-crazy 2020-02-13 02:36:38 How effective are the fireworks pvp weapons?,  havent seen it used by people at all which is why I'm curious
+plane-crazy 2020-02-13 02:37:16 Welp.
+plane-crazy 2020-02-13 02:37:42 So for a SPAA just go with the normal gun or missile,
+plane-crazy 2020-02-13 02:39:05 I've tried using a Rail gun but the ammo was weird, exploded right when it reached the end of the barrel
+plane-crazy 2020-02-13 02:39:51 I thought you could change the range for the fireworks?
+plane-crazy 2020-02-13 02:40:04 Welp
+plane-crazy 2020-02-13 02:40:24 Fair, but how am I gonna use a short ranged weapon against aircraft
+plane-crazy 2020-02-13 02:40:48 E x a C t l y
+plane-crazy 2020-02-13 02:41:08 I mean fireworks are the best looking pvp weapon tbh
+plane-crazy 2020-02-13 02:42:32 What would be more effective, modifying my Spaa to be viable since it is very old or make a Anti air gun, similar to a CIWS in a fortified position?
+plane-crazy 2020-02-13 02:42:51 And I'm not meaning those nooby guns, as in actual AA platform.
+general 2020-02-13 02:46:20 What is better for plane crazy, A SPAA or a actual anti air platform, and by that I'm not meaning the common turrets that are everywhere, but fortified  and more visibly appealing.
+plane-crazy 2020-02-13 02:49:19 Out of curiosity, in your opinion What is better for plane crazy, A SPAA or a actual anti air platform, and by that I'm not meaning the common turrets that are everywhere, but fortified  and more visibly appealing.
+general 2020-02-13 02:54:54 Should I work on a Spaa or a Anti air defense system?
+general 2020-02-13 02:55:08 As in which would be more effective at its job.
+plane-crazy 2020-02-13 02:56:35 What would be more effective, A air defense system/Platform or a SPAA.
+plane-crazy 2020-02-13 02:57:31 Lmao
+plane-crazy 2020-02-13 02:58:08 But in seriousness, wouldnt a AADS be more effective in plane crazy with the shorter ranges?
+plane-crazy 2020-02-13 02:58:32 S u r e
+plane-crazy 2020-02-13 02:59:10 Lmao.
+plane-crazy 2020-02-13 02:59:43 Does the pvp weapons in plane crazy even have the range to yeet a aircraft all the way from airport?
+plane-crazy 2020-02-13 03:01:10 So my best bet would be to focus on the missiles, like a AAM system?
+plane-crazy 2020-02-13 03:02:18 Ngl I wish the fireworks had better range, a flak platform would be awesome to use.
+plane-crazy 2020-02-13 03:02:24 Whish*
+plane-crazy 2020-02-13 03:03:36 Are springs the only actually effective way to yeet tnt? I've tried a rail gun but right when the round reached the end of the barrel it went b o o m
+plane-crazy 2020-02-13 03:04:33 So it's more about the timing?
+plane-crazy 2020-02-13 03:05:44 Ngl the only disadvantage to cannons in this game is that either you get one round or you build a large and sometimes complex loading system.
+plane-crazy 2020-02-13 03:06:21 I mean isnt it possible to make a very large cluster round that can out tnt in alot of spawn?
+plane-crazy 2020-02-13 03:06:39 Couldnt you use springs like actual magazines?
+plane-crazy 2020-02-13 03:07:18 Ah so suspension acts more like springs
+plane-crazy 2020-02-13 03:07:48 Do you think it's possible to use a cannon as a AA?
+plane-crazy 2020-02-13 03:07:57 Well it's possible but how hard would it be?
+plane-crazy 2020-02-13 03:08:23 True, but again you gotta be able to see your round go and time it well
+plane-crazy 2020-02-13 03:09:52 That's what I was thinking of for a anti air system, stuff like CIWS
+plane-crazy 2020-02-13 03:10:38 Nevermind it was from a bit earlier, Is there a big enough opening between spawn and airport to be able to snipe spawn with a cannon?
+plane-crazy 2020-02-13 03:10:56 As in snipe ground creations.
+plane-crazy 2020-02-13 03:11:25 My god that will be cheesey as hell
+plane-crazy 2020-02-13 03:12:04 And since everybody is almost always in spawn, you can devote more room to your cannon then armor since they likely wont even notice you.
+plane-crazy 2020-02-13 03:12:12 And I'm meaning a TNT cannon
+plane-crazy 2020-02-13 03:12:44 The annoying thing with turrets is that alot of times they look bad if you want them very functional.
+plane-crazy 2020-02-13 03:13:03 And I wish the guns could turn into a barrel instead of magic floating.
+plane-crazy 2020-02-13 03:13:23 Yeet sausages at people.
+plane-crazy 2020-02-13 03:13:38 Lmao
+plane-crazy 2020-02-13 03:13:48 Hotdog styled cannon
+plane-crazy 2020-02-13 03:13:51 One huge round
+plane-crazy 2020-02-13 03:14:28 Tomorrow when I get on ima cheese pvp and snipe spawn with a very high velocity cannon.
+plane-crazy 2020-02-13 03:15:01 But the problem is the cannon likely gonna be ugly as hell, as in just the chassis to make sure it works well and it doesnt get snagged
+plane-crazy 2020-02-13 03:15:22 Concealed motor turrets are annoying because of friction.
+plane-crazy 2020-02-13 03:15:53 H u h?
+plane-crazy 2020-02-13 03:16:09 Panzer 5 your talking about the panther correct?
+plane-crazy 2020-02-13 03:16:21 Lemme check their lengths
+plane-crazy 2020-02-13 03:16:52 Panther
+plane-crazy 2020-02-13 03:16:54 6.87 m
+plane-crazy 2020-02-13 03:16:58 Leopard 1
+plane-crazy 2020-02-13 03:17:29 9.449 meters
+plane-crazy 2020-02-13 03:18:09 True, but wouldnt that be so much space consuming for a shell
+plane-crazy 2020-02-13 03:18:51 Tbh a part of me wishes if you put a magnet on a shell it got attracted/stuck to a persons creation but that would be exploited as hell.
+plane-crazy 2020-02-13 03:18:56 So basically
+plane-crazy 2020-02-13 03:19:02 A cannon that shoots mini cannons
+plane-crazy 2020-02-13 03:19:32 Or a cluster round?
+plane-crazy 2020-02-13 03:19:41 Or are you Firing mines
+general 2020-02-13 03:20:42 Like the infamous tunguska? Or would maybe the omatico style put a tank destroyer cannon as a Aa gun work aswell?
+general 2020-02-13 03:20:54 As in combine the guns in the 4 barrels into one.
+plane-crazy 2020-02-13 03:21:48 How big can you make a round that can effectively hit spawn from airport with precision
+general 2020-02-13 03:22:17 Bare bones in the game can be the most functional.
+general 2020-02-13 03:23:46 Building at times would be easier if the center of gravity indicator didnt change with stuff that isnt even connected to your main creation.
+plane-crazy 2020-02-13 03:24:11 Ah alright
+plane-crazy 2020-02-13 03:24:37 Ngl cannon magazine's would be easier if you could copy and paste creations or parts
+plane-crazy 2020-02-13 03:24:48 Or anything for that matter tbh.
+plane-crazy 2020-02-13 03:25:33 Ngl when I make the spawn yeeter, ima use one large round that puts tnt balls all over spawn.
+plane-crazy 2020-02-13 03:25:46 Kind of like yours just much larger scale and uglier
+plane-crazy 2020-02-13 03:26:15 Or make a powerful precise shot
+general 2020-02-13 03:28:21 How cheesey are the little explosive ball machine guns?
+general 2020-02-13 03:28:27 Just C u r I o u s
+plane-crazy 2020-02-13 03:32:47 Does anybody know if it's possible to get a cutter at high enough speed it reenacts starwars episode 9 I think it was.
+plane-crazy 2020-02-13 03:33:01 As in it just yeets through a creation
+plane-crazy 2020-02-13 03:33:40 So if I can make a rail gun, Make a large round made from just cutters it will just yeet a creation?
+plane-crazy 2020-02-13 03:33:52 Or can I just use like one very fast cutter
+general 2020-02-13 03:34:26 Curious
+general 2020-02-13 03:34:42 My autocorrect made it to a capital i
+plane-crazy 2020-02-13 03:35:44 Hank, you know how in starwars a ship hyperdrive through a bigger ship?
+plane-crazy 2020-02-13 03:36:08 Imaging using a very fast cannon and yeeted a cutter at somebody, or a round of them.
+general 2020-02-13 03:36:31 I l
+general 2020-02-13 03:36:40 Just a tiny bit.
+general 2020-02-13 03:36:55 C u r l o u s
+general 2020-02-13 03:36:59 That's if it's a l
+general 2020-02-13 03:37:04 C u r I o u s
+general 2020-02-13 03:37:09 That's a i
+plane-crazy 2020-02-13 03:37:49 Isnt a cutter's damage dependent on its velocity?
+plane-crazy 2020-02-13 03:38:12 Either it punches a hole through a creation or it just bugs it out of existance.
+plane-crazy 2020-02-13 03:38:52 Would a single cutter block in a rail gun go fast enough to yeet through a creation?
+plane-crazy 2020-02-13 03:39:06 Or atleast badly damage it
+plane-crazy 2020-02-13 03:41:35 Hank, the cutter or cluster round?
+plane-crazy 2020-02-13 03:42:22 I just thought of a sin
+plane-crazy 2020-02-13 03:42:45 High velocity cutter machine gun, like how you would use it with explosive spheres
+plane-crazy 2020-02-13 03:43:30 What's the black?
+plane-crazy 2020-02-13 03:43:43 And green is the cutter?
+plane-crazy 2020-02-13 03:44:10 Why does that sound sound like giberous
+plane-crazy 2020-02-13 03:44:20 I know it's a real round just
+plane-crazy 2020-02-13 03:44:35 Yee I know
+plane-crazy 2020-02-13 03:44:47 That would be big because of wing panels in this game
+plane-crazy 2020-02-13 03:45:24 Hank, how are going to be able to test the strength of the rounds? Against poor randoms?
+plane-crazy 2020-02-13 03:45:39 I whish they allowed you to test your creation off your own creation
+plane-crazy 2020-02-13 03:45:53 How?
+plane-crazy 2020-02-13 03:46:09 I'm meaning like range not in your little block
+plane-crazy 2020-02-13 03:46:24 For example when testing a long range rail gun, a short range test is useless
+plane-crazy 2020-02-13 03:47:20 Hmm is it considered abuse to make a round go so fast it may bug a creation of the map?
+plane-crazy 2020-02-13 03:47:59 Rail gun?
+plane-crazy 2020-02-13 03:48:22 Yee, and conveyors could also make them go fast if you max them aswell
+plane-crazy 2020-02-13 03:48:48 W-
+plane-crazy 2020-02-13 03:49:01 Mew I got a question
+plane-crazy 2020-02-13 03:49:30 Can you make a cutter go fast enough to where it cuts through a creation or atleast badly damages it, using a powerful railgun?
+plane-crazy 2020-02-13 03:50:06 I'm meaning can a very fast cutter go through a creation
+plane-crazy 2020-02-13 03:51:03 What about from a normal cannon?
+plane-crazy 2020-02-13 03:51:09 How powerful can cutters become
+plane-crazy 2020-02-13 03:51:33 Hank the cutter thing?
+plane-crazy 2020-02-13 03:51:39 Or what?
+plane-crazy 2020-02-13 03:52:00 Tbh I wouldnt use blacklist cutters, not fair
+plane-crazy 2020-02-13 03:52:20 Were you able to test fire it on a creation? If so how well did it do?
+plane-crazy 2020-02-13 04:01:45 Wouldnt a iron curtain work well?
+plane-crazy 2020-02-13 04:03:55 How well did the round do?
+plane-crazy 2020-02-13 04:04:00 Like how much damage.
+plane-crazy 2020-02-13 04:04:40 Alright
+plane-crazy 2020-02-13 04:08:35 Noice cannon
+plane-crazy 2020-02-13 04:08:53 Test ze round
+plane-crazy 2020-02-13 04:09:42 Tbh if that doesnt work you could also use a fast firing machinegun but instead of explosive blocks, cutters
+plane-crazy 2020-02-13 04:30:11 Is naval combat that popular really?
+plane-crazy 2020-02-13 04:30:32 It has alot more potential then ground and air in my opinion, but doesnt seem common.
+plane-crazy 2020-02-13 04:32:22 I'm not sure if I wanna go after terrain specialist or ship Wright
+plane-crazy 2020-02-13 04:33:00 May go terrain since I have much much less experience compared to naval.
+plane-crazy 2020-02-13 04:33:25 And ya I can see why it's a little easier, but the amount of force needed to move the higher rank vehicles tho-
+plane-crazy 2020-02-13 04:34:27 How common is naval in pvp?
+plane-crazy 2020-02-13 04:35:49 Yee, which is why I was planning on a SPAA or a Aas (Anti air system)
+plane-crazy 2020-02-13 04:36:57 Couldnt you make a AA ship that can reach spawn or would the dropoff from guns be to much?
+plane-crazy 2020-02-13 04:39:13 If I do a SPAA, it would be similar to the otomatico to where the guns would be focused in one point.
+plane-crazy 2020-02-13 04:39:32 Irl the otomatico had the gun of a tank destroyer, 75mm
+plane-crazy 2020-02-13 04:40:31 Fair, so I'd probably had better luck with a ground based SPAA
+plane-crazy 2020-02-13 04:40:51 Or just a Non mobile AADS
+plane-crazy 2020-02-13 04:41:59 What kind of ground creation would you even make that has several thousand blocks-
+plane-crazy 2020-02-13 04:42:09 Other then the railway gun
+plane-crazy 2020-02-14 21:58:44 oh wow i did something dumb in a VTOL i'm working on. Made the structure connecting to the props wing panels for whatever bloody reason.
+plane-crazy 2020-03-02 20:04:57 I have a feeling with the hovers being added, Vtols and Helis are just incredibly easy now.
+plane-crazy 2020-03-02 20:07:50 Ah there is a height limit? im still playing with them a little bit.
+plane-crazy 2020-03-02 20:10:49 Yep the Hovers have a height limit
+plane-crazy 2020-03-02 20:39:06 Whats a good way to turn a hover bike? i tried control surfaces but it spins out of control.
+plane-crazy 2020-03-02 21:02:36 kip. for the turning thing do you mean using a motor?
+plane-crazy 2020-03-02 21:03:31 ya that may work, but im not sure how with the size of my bike.
+plane-crazy 2020-03-02 21:06:07 im not sure what i think of how it looks but sure.
+plane-crazy 2020-03-02 21:18:52 Finally got it working thanks to kip, controls are going to take used to because of how it likes to keep turning a little
+plane-crazy 2020-03-02 21:19:49 Should i maybe add a anchor to act as a emergency break so i dont accidentally fly off the map?
+plane-crazy 2020-03-02 21:36:50 My god when a hover bike hits something it spins out of control-
+plane-crazy 2020-03-02 21:49:59 maybe put one on the bottom, power it lights and use your avatar to push it.
+general 2020-03-04 22:50:17 Im confused-
+general 2020-03-04 22:50:30 Is the imperial assault hovertank track propelled or hover based.
+general 2020-03-04 22:50:53 the fandom says trackbased but merchandise etc call it a hover tank.
+general 2020-03-04 22:52:55 nevermind the original one was hoverbased but it turned trackbased
+plane-crazy 2020-03-04 22:55:12 Is there a better form of turning for hover tanks? asking as im hoping to make a starwars imperial TX-225 GAVw Tank
+plane-crazy 2020-03-04 22:55:35 other then props.
+plane-crazy 2020-03-04 22:57:58 Alright. I cant do the roll axis like the little bike i did because of how it works but ill try the other way.
+plane-crazy 2020-03-04 22:58:39 And noob that doesnt really matter, im talking about creating it ingame.
+plane-crazy 2020-03-04 22:59:49 What does the drag effect again?
+plane-crazy 2020-03-04 23:00:55 Tbh, i wish there was a way to color your bullets to make them seem like for example a laser for a starwars or SCIFI build.
+plane-crazy 2020-03-04 23:01:02 kind of like you color lights.
+plane-crazy 2020-03-04 23:21:45 is there a way to put splits in a block kind of like this
+plane-crazy 2020-03-04 23:21:58 
+plane-crazy 2020-03-04 23:22:07 would i need to use half blocks?
+plane-crazy 2020-03-04 23:25:04 now that you point that out the tracks do remind me of one.
+plane-crazy 2020-03-04 23:25:20 well im doing the original hovertank version
+plane-crazy 2020-03-04 23:25:49 It was built on a truck.
+plane-crazy 2020-03-04 23:25:58 its a transport/tank hybrid
+plane-crazy 2020-03-04 23:26:04 mainly a transport.
+plane-crazy 2020-03-04 23:26:55 But is it possible to get the little splits at the end while keeping the shape?
+plane-crazy 2020-03-04 23:28:42 i think i found a way.
+plane-crazy 2020-03-04 23:29:06 use halfblocks to extend from but the way halfblock placement works, im not sure if it will look good.
+plane-crazy 2020-03-04 23:30:31 i think i got it looking decent
+plane-crazy 2020-03-04 23:31:23 
+plane-crazy 2020-03-04 23:31:38 does that look decent? the splits at the end.
+plane-crazy 2020-03-04 23:32:17 As in the size of the split or what?
+plane-crazy 2020-03-04 23:32:26 or the 'track' size itself.
+plane-crazy 2020-03-04 23:33:17 let me thicken it up a little, forgot the other two.
+plane-crazy 2020-03-04 23:36:07 
+plane-crazy 2020-03-04 23:36:18 accidentally turned on record
+plane-crazy 2020-03-04 23:36:35 ya i gotta upsize the creation.
+plane-crazy 2020-03-04 23:37:30 i mean the top of the track in the picture is flat, do you mean the bottom?
+plane-crazy 2020-03-04 23:39:34 How much should i size up the creation? i dont want it being to large.
+plane-crazy 2020-03-04 23:40:59 alright, upsize including the track?
+plane-crazy 2020-03-04 23:50:48 Kip, how is this for the upsize?
+plane-crazy 2020-03-04 23:51:02 
+general 2020-03-04 23:52:04 Kip, i upsized the creation.
+the-dump 2020-03-05 00:04:33 c h r i s t
+the-dump 2020-03-05 00:04:39 that speed-
+general 2020-03-05 00:05:05 it does look like a churchill with the tracks actually-
+the-dump 2020-03-05 00:05:34 is there a max speed?
+plane-crazy 2020-03-05 00:07:16 for a second i thought that was a CIWS
+the-dump 2020-03-05 00:08:08 kip i just noticed something, i need to redo the front track as its a little bit to long ;c
+plane-crazy 2020-03-05 21:54:06 Anybody know something i can base a super heavy hover tank off of?
+plane-crazy 2020-03-05 21:55:23 The hell does that mean?
+plane-crazy 2020-03-05 21:58:43 How fast is your aircraft?
+plane-crazy 2020-03-05 21:59:06 oh for a second i read it as FPS
+plane-crazy 2020-03-05 22:00:42 VERY slow.
+plane-crazy 2020-03-05 22:00:54 h m m
+plane-crazy 2020-03-05 22:01:56 Whats the most effective AA system in this game?
+plane-crazy 2020-03-05 22:01:59 as in weapon.
+plane-crazy 2020-03-05 22:03:40 I guess a hover platform because of its versatility.
+plane-crazy 2020-03-05 22:04:07 ew no.
+plane-crazy 2020-03-05 22:04:11 im meaning a Hover SPAA.
+plane-crazy 2020-03-05 22:04:53 Welp. I may make a hybrid system of one, At the most TWO missiles and some guns.
+plane-crazy 2020-03-05 22:06:12 and Dan, Why not use a hover platform?
+plane-crazy 2020-03-05 22:06:20 well chassis is a better term.
+plane-crazy 2020-03-05 22:06:42 For a SPAA?
+plane-crazy 2020-03-05 22:07:22 Tbh, Fireworks are a bit to close range.
+plane-crazy 2020-03-05 22:08:13 Even if you even it out well?
+plane-crazy 2020-03-05 22:10:27 I mean true, but they have a bit of a height restraint making it a  bit easy to shoot down.
+plane-crazy 2020-03-05 22:11:11 Oh fair.
+plane-crazy 2020-03-05 22:11:20 i mean, im not sure how they can stop that really.
+plane-crazy 2020-03-05 22:14:49 How what that work?
+plane-crazy 2020-03-05 22:14:59 bullets can hit them correct?
+plane-crazy 2020-03-05 22:15:19 i mean, you would also get pushed around a bit.
+plane-crazy 2020-03-05 22:15:50 So basically a supreme rammer.
+plane-crazy 2020-03-05 22:16:42 The only way to shield motors on a turret, For a SPAA or tank of course, Are gun shields?
+plane-crazy 2020-03-05 22:18:25 I used to have a way of hiding the motor and making the motor completely hidden but in a random patch a long time ago, The turret randomly jams.
+plane-crazy 2020-03-05 22:18:29 :c
+plane-crazy 2020-03-05 22:20:52 Because of that, And my terrible blocky old SPAA, i really need to make a new one-

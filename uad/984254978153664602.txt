@@ -1,0 +1,11 @@
+The Tale of lancelot0202 (984254978153664602)
+general 2022-12-11 09:51:20 Uhh
+general 2022-12-11 09:56:47 Everytime i play on pvp,it crash the game every hit i get
+general 2022-12-11 09:56:51 Why
+general 2022-12-11 09:57:14 Im on mobile
+general 2022-12-11 09:57:28 I use like motor lock
+general 2022-12-11 09:58:03 Probably,but it does on other phone
+general 2022-12-11 09:59:26 I had like scripting experience,im pretty sure it has to do with "transparent" tweening,everytime a part gets destroyed.
+Im probably wrong
+general 2022-12-11 10:00:44 Im pretty sure tweening with transparency wouldn't cause a problem on performance?
+general 2022-12-11 10:01:22 Thousands of PARTS tweens transparency

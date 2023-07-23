@@ -1,0 +1,86 @@
+The Tale of hollex (186310020365811721)
+plane-crazy 2019-03-07 20:17:31 I've been waiting for something like this gamemode for a long time
+plane-crazy 2019-03-07 20:20:20 I can get you a dime and a couple of pennies <@!381263178589536257>
+plane-crazy 2019-03-07 20:22:13 I love how I'm the only one here without a role
+plane-crazy 2019-03-07 21:18:09 parachute block is litty
+help 2019-03-07 21:35:18 How do you 'lock on' someone with the rocket? I've been able to do it a couple of times before, but I'm not sure how I've done it
+help 2019-03-07 22:19:55 How do I know if I'm in that range?
+help 2019-03-07 22:25:39 the system seems hit-or-miss
+help 2019-03-07 22:25:46 there are times when I'm right next to the enemy
+help 2019-03-07 22:25:49 In my sights
+help 2019-03-07 22:25:52 and it doesnt lock on
+help 2019-03-07 22:26:09 once in a blue moon does it actually lock on
+plane-crazy 2019-03-08 00:23:46 challenge - make a battleship out of one block
+bug-reports 2019-03-08 23:31:59 I literally cannot save
+bug-reports 2019-03-08 23:32:11 It will not update whatsoever
+bug-reports 2019-03-09 00:16:27 Can't save
+bug-reports 2019-03-09 00:16:39 Every time I build something new around my wheels, I have to replace them because they get fucked
+bug-reports 2019-03-09 00:16:48 Still lag spikes, even worse now
+bug-reports 2019-03-09 00:17:25 There was even a point when I couldn't use the menu
+bug-reports 2019-03-09 00:19:26 I'm pretty sure motors don't even work
+bug-reports 2019-03-09 00:51:49 oh boy
+bug-reports 2019-03-09 00:51:51 my game froze
+plane-crazy 2019-03-09 00:54:03 thank fuck
+plane-crazy 2019-03-09 00:54:11 he's fixing the issues
+plane-crazy 2019-03-09 00:54:16 hopefully
+plane-crazy 2019-03-09 00:55:50 update wasn't reverted
+plane-crazy 2019-03-09 00:55:54 parachutes are still in the game
+help 2019-03-09 01:55:52 I'm building a tank (and it looks stupid), and the biggest problem I have is that it continually shakes. I have no clue why it happens
+help 2019-03-09 15:44:17 I'm making a rocket, but whenever I start the engines it goes off to any direction it pleases
+help 2019-03-09 15:44:19 except up
+help 2019-03-09 15:44:35 my build is as symmetrical as can be
+help 2019-03-09 15:44:48 and each rocket is bound to the same key
+plane-crazy 2019-03-09 18:00:22 what is the point of ballast blocks?
+plane-crazy 2019-03-09 18:00:49 oh really
+plane-crazy 2019-03-09 18:01:00 wait
+plane-crazy 2019-03-09 18:01:16 so you mean if I add ballast onto the plane, it'll reduce weight
+plane-crazy 2019-03-09 18:01:29 or if I replace a lot of the plane with ballast it'll reduce weight
+plane-crazy 2019-03-09 18:01:32 oh okay
+plane-crazy 2019-03-09 18:01:42 all of my tanks look stupid
+plane-crazy 2019-03-09 18:02:10 
+plane-crazy 2019-03-09 18:06:50 wow
+help 2019-03-09 19:05:44 So I have a problem
+help 2019-03-09 19:05:59 Imagine the black 1x7 beams are beams I do not want to move
+help 2019-03-09 19:06:06 and the white 1x7 beam is the beam I want to move
+help 2019-03-09 19:06:24 This motor will not move the white beam because the beam is connected to the other two
+help 2019-03-09 19:06:36 how do I make it so the motor doesn't move the black beams?
+help 2019-03-09 19:07:44 so you mean
+help 2019-03-09 19:08:22 replace the part of the black beam under the white beam in the picture with 1x0.9?
+help 2019-03-09 19:08:37 or replace the current white beam with 1x0.9 beam and then place the white beam over it?
+help 2019-03-09 19:08:47 I just tried that
+help 2019-03-09 19:11:35 so wait
+help 2019-03-09 19:11:50 you also replace the part of the beam that you're connecting the motor to with 1x0.9 too?
+help 2019-03-09 19:14:26 Well I did that
+help 2019-03-09 19:14:45 but instead of replacing part of the white beam with 1x0.9 block, I did it with a half wedge
+help 2019-03-09 19:14:48 it does it perfectly
+help 2019-03-09 19:14:51 thank you
+help 2019-03-09 19:16:47 but jesus is it impossible to place the 0.9 block correctly
+help 2019-03-09 19:16:54 it's impossible to see where the short side is
+help 2019-03-09 19:17:07 (with the ghost thing)
+plane-crazy 2019-03-09 21:01:50 make everything heavier
+plane-crazy 2019-03-09 21:02:07 also, make sure to plant down a sign that says 'no fun allowed'
+plane-crazy 2019-03-09 21:02:47 there's a point when realism is less fun than a game should be
+plane-crazy 2019-03-09 21:02:49 fun > realism
+plane-crazy 2019-03-09 21:03:10 now
+help 2019-03-09 22:48:29 I'm doing this missile array thing
+help 2019-03-09 22:48:45 and every time I deploy it, the flaps are messed up
+help 2019-03-10 22:51:06 What does the 'On Impact' setting on the explosive ball mean?
+help 2019-03-10 22:51:27 I would think that it means it explodes on impact, but whenever I test it, it doesn't explode on impact
+help 2019-03-10 22:52:38 And what is Impact Speed?
+plane-crazy 2019-03-10 22:53:44 What does the 'On Impact' setting for the explosive ball mean?
+plane-crazy 2019-03-10 22:54:14 I tested that
+plane-crazy 2019-03-10 22:54:29 but whenever it hits the wall that I built, it doesn't explode
+plane-crazy 2019-03-10 22:54:36 I tried messing with the impact speed too
+plane-crazy 2019-03-10 22:54:50 From the lowest to the highest
+plane-crazy 2019-03-10 22:55:05 I'm using a magnet cannon
+plane-crazy 2019-03-10 22:55:15 how low?
+plane-crazy 2019-03-10 22:55:25 I've put it down to 10 and it doesn't explode
+plane-crazy 2019-03-10 22:57:31 I've tried setting it to 10, 50, 70, 100, and so on
+plane-crazy 2019-03-10 22:57:41 and it still doesn't explode when it hits the wall
+help 2019-03-10 23:13:43 I've tried testing the explosive ball with the impact option on and the speed set to 10
+help 2019-03-10 23:13:48 but it never explodes
+help 2019-03-10 23:18:09 it works when dropped for a tall height
+help 2019-03-10 23:18:41 but I've literally set the explosive ball's impact speed to 5 and it won't even explode on impact to a wall point-blank with a magnet cannon
+plane-crazy 2019-03-11 02:15:33 What's the purpose of the rope block?
+plane-crazy 2019-03-11 02:16:48 🤔 🤔 🤔
+plane-crazy 2019-03-11 02:16:51 what are its applications?

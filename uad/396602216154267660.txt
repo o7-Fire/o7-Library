@@ -1,0 +1,60 @@
+The Tale of aviosche (396602216154267660)
+bug-reports 2019-10-16 19:02:18 Im having problems with control panels on my new planes (old ones work fine but new planes I make have the same problem) https://gyazo.com/20a5bb73fa41ca3342c68072aeca85a4
+
+found out the problem it was me trying to make plane smaller so placing main pilot seat looking upward*** but I still do not have a clue about 2nd problem
+bug-reports 2019-10-16 19:04:09 also center of mass and lift have some sort of problems too as sometimes in a perfectly symmetrical build center of mass can be closer to one side and when you reload the creation from saves the location of center of mass can change a lot
+reports 2020-04-11 16:38:54 User: hamza139512
+reason: lag machine
+profile: https://www.roblox.com/users/1529554607/profile
+proof: https://imgur.com/a/44wHu4D
+note: he was using a parachute bomb launcher which caused heavy lag.
+creations-chat 2020-04-18 21:19:16 maybe a scenery or a building sort of thing ??
+creations-chat 2020-04-18 21:20:27 hmmm if u do a lot of planes and tank sort of stuff thats out of option
+creations-chat 2020-04-18 21:20:51 Id say a ship or a sub ?
+creations-chat 2020-04-18 21:21:00 or a hover vehicle ??
+creations-chat 2020-04-18 21:23:21 or maybe a mech ??
+creations-chat 2020-04-18 21:23:40 welp
+reports 2020-04-29 21:02:57 Player: lazerlaEr_v3
+reason: lag machine
+proof: https://imgur.com/a/S16aZBJ
+profile: https://www.roblox.com/users/1545119600/profile
+bug-reports 2020-09-16 16:54:19 1) I try to fold my creation but once its folded it gets a bit glitchy jumping around and then launches itself back to its original location and looping until I stop the folding process
+2) motor 2 with 180 degree movement both buttons I assign (forward - backward) do both actions (like forw = T and back = B but B moves it forw as well as T but sometimes it suddenly reverses without despawning)
+
+both of these issues happen on both of my creations that have 180 fold
+
+also my friend does not have any of these issues
+bug-reports 2020-09-16 19:07:22 > 1) I try to fold my creation but once its folded it gets a bit glitchy jumping around and then launches itself back to its original location and looping until I stop the folding process
+> 2) motor 2 with 180 degree movement both buttons I assign (forward - backward) do both actions (like forw = T and back = B but B moves it forw as well as T but sometimes it suddenly reverses without despawning)
+> 
+> both of these issues happen on both of my creations that have 180 fold
+> 
+> also my friend does not have any of these issues
+anyone can help me with this ? because of this I cant build some of my ideas.
+bug-reports 2020-09-16 19:20:04 well they do work as well but they can pretty much move around instead of staying in place like motor 2 does when it doesnt glitch
+bug-reports 2020-09-16 19:23:45 yep both on
+bug-reports 2020-09-16 19:24:14 for some reason it glitches around not only that but both forward and backward buttons do same movements on 180 degree like they dont know which direction is which
+
+I also use an anchor maybe that has something to do with it? I cant test without anchor cuz Im surrounded with other's creations its hard to fold it
+
+and also sure Im not doing anything wrong with folding
+help 2020-09-17 20:52:21 can I get some help with my helicopter ?? its the 2nd ever heli I made  (1st one was basically a platform with a seat testing out how to make a heli) it never stays stable even height I spawn causes it's behaviour to change
+help 2020-09-17 21:00:24 well I gave it a shape put controlling thrusters etc but the problem is that I cannot even test if the controls work because it sways forward and backward and rotates one direction
+help 2020-09-17 21:02:46 yep
+help 2020-09-17 21:02:57 using motors to turn them instead of rockets as well
+help 2020-09-17 21:03:27 have a back sideways rotor too but thats only to help me turn around
+help 2020-09-17 21:05:27 alright
+help 2020-09-17 21:06:32 I cannot dm? clyde bot says theyr disabled or something else
+help 2020-09-23 17:42:42 I got a question
+how do ppl make those window braces or sides etc different color than the window itself ? like the mh47d chinook from this morning
+help 2020-09-23 17:43:10 like there are 2 blocks near each other but theres a tiny bit different color stripe where they combine
+creations-chat 2020-09-23 17:45:26 I got a question
+how do ppl make those window braces or sides etc different color than the window itself ? like the mh47d chinook from this morning
+like there are 2 blocks near each other but theres a tiny bit different color stripe where they combine
+creations-chat 2020-09-23 17:47:41 how can they make a trail between a triangle wedge and triangle wedge block tho ?
+creations-chat 2020-09-23 17:47:51 or between a triangle wedge and a wedge
+creations-chat 2020-09-23 17:48:06 also quite cool carrier 🙂
+help 2020-09-23 17:59:09 https://cdn.discordapp.com/attachments/705634518131933214/758069762600468591/RobloxScreenShot20200922_133950732.png
+this doesnt look like trail block or ladder might be paint block but I tried and doesnt work for me any other ideas?
+*note: this was posted in creations and is not mine just using it as a "referance" to a question I have hope its not an issue*
+help 2020-09-23 18:11:22 ah alright thanks

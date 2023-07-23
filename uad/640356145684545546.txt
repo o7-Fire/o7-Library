@@ -1,0 +1,19 @@
+The Tale of getyourheckchecked (640356145684545546)
+general 2020-08-04 14:30:35 How do you work Locked Motors? I'm trying to use them, but they keep breaking. Am I doing something wrong?
+general 2020-08-04 14:31:00 a necc
+general 2020-08-04 14:31:18 Like, they just don't move
+general 2020-08-04 14:32:51 Alright, then how do you get motors to move, but not be effected by the rest of the build?
+general 2020-08-04 14:33:41 
+general 2020-08-04 14:34:10 More of a dragon
+general 2020-08-04 14:34:49 I want the neck to be a little more stiff
+general 2020-08-04 14:35:01 Since it kinda flops everywhere
+general 2020-08-04 14:35:18 I tried ropes
+general 2020-08-04 14:35:31 Not suspension yet tho
+general 2020-08-04 14:36:59 Anymore ideas?
+general 2020-08-04 14:38:33 oop
+general 2020-08-04 14:38:54 when I said loop I leveled up
+general 2020-08-04 14:44:35 Anyone have asuggestions on how to work a long neck? Its too floppy.
+general 2020-08-04 14:44:54 *the* necc
+general 2020-08-04 14:45:01 no dragon
+general 2020-08-04 14:46:18 I need the motors to not slide when I power them, they keep turning even when I don't power em
+general 2020-08-04 14:46:41 h e l p

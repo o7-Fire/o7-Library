@@ -1,0 +1,128 @@
+The Tale of shanky113 (1000494111675142266)
+plane-crazy 2023-02-24 21:16:20 Hey so, I'm trying to build the spy balloon. I've got everything else working
+plane-crazy 2023-02-24 21:16:28 but when I try to make it go forwards,
+plane-crazy 2023-02-24 21:16:33 It just spins like this:
+general 2023-02-24 21:17:35 Oh hey Chiseled!
+plane-crazy 2023-02-24 21:17:45 Like it just pitches up and down
+plane-crazy 2023-02-24 21:17:56 For whatever reason it won't let me upload the screenshot
+plane-crazy 2023-02-24 21:20:25 why
+plane-crazy 2023-02-24 21:20:41 How come other people do
+plane-crazy 2023-02-24 21:20:48 I just want help with my build
+plane-crazy 2023-02-24 21:21:36 Well I'll try to describe it
+plane-crazy 2023-02-24 21:21:42 It pitches the balloon up and down
+plane-crazy 2023-02-24 21:21:45 How do i fix that
+plane-crazy 2023-02-24 21:22:33 -_-
+plane-crazy 2023-02-24 21:23:00 Yes it pitches up when I move forwards
+plane-crazy 2023-02-24 21:23:07 and it pitches down when I move backwards
+plane-crazy 2023-02-24 21:23:24 and I've tried all sorts of propeller combinations to try to get it to fly straight
+plane-crazy 2023-02-24 21:25:39 Yes
+plane-crazy 2023-02-24 21:26:41 No it spins on its pitch axis if i hold it down for too long
+plane-crazy 2023-02-24 21:27:15 I think it has something to do with the propellers not being on the balloon's center of mass but I can't find its center of mass
+plane-crazy 2023-02-24 21:27:33 because I have ballast blocks which allow it to hover like a balloon
+plane-crazy 2023-02-24 21:27:45 Yes
+plane-crazy 2023-02-24 21:28:19 But I can't seem to fix it
+plane-crazy 2023-02-24 21:28:45 no they're too high and too low
+plane-crazy 2023-02-24 21:28:52 I put some on the bottom to try to fix it
+plane-crazy 2023-02-24 21:29:14 If i put it in the main part of the balloon then it moves downwards when I press w
+plane-crazy 2023-02-24 21:29:29 That's what I thought
+plane-crazy 2023-02-24 21:29:49 But I can't find the center of mass in order to ballance it out because I have ballast blocks that change the center of mass
+plane-crazy 2023-02-24 21:29:58 The ballast blocks allow it to float like a real balloon
+plane-crazy 2023-02-24 21:30:14 The ballast blocks change the center of mass once I spawn in
+plane-crazy 2023-02-24 21:30:55 The center of mass must be shifting up higher into the actual balloon part
+plane-crazy 2023-02-24 21:31:02 but I just need to figure out where
+plane-crazy 2023-02-24 21:32:53 0.0
+plane-crazy 2023-02-24 21:32:59 OMG YOU'RE JOKING
+plane-crazy 2023-02-24 21:33:03 I GOT IT ON THE FIRST TRY
+plane-crazy 2023-02-24 21:33:34 Thank y'all so much for your help
+plane-crazy 2023-02-24 21:34:52 Kinda random but yeah I agree
+plane-crazy 2023-02-24 21:35:26 Uhh, build a F23
+plane-crazy 2023-02-24 21:35:41 Build the YF-23
+plane-crazy 2023-02-24 21:35:44 Look it up
+plane-crazy 2023-02-24 21:36:38 No it doesn't
+plane-crazy 2023-02-24 21:36:55 Its a very unique looking plane
+plane-crazy 2023-02-24 21:36:59 Its unique
+plane-crazy 2023-02-24 21:37:04 Which is why you should build it
+plane-crazy 2023-02-24 21:37:36 Yeah
+plane-crazy 2023-02-24 21:37:44 And some versions have canards on the front
+plane-crazy 2023-02-24 21:38:28 Yeah, except, people say that the Su57 is based off of the F22 but its actually based off the YF23
+plane-crazy 2023-02-24 21:38:38 This man is correct
+plane-crazy 2023-02-24 21:38:56 The one i replied to.
+plane-crazy 2023-02-24 21:39:18 They don't
+plane-crazy 2023-02-24 21:39:33 ok
+plane-crazy 2023-02-25 17:56:51 Copy what?
+plane-crazy 2023-02-25 19:54:04 I want to build an armored car, which one should I build?
+plane-crazy 2023-05-17 00:06:11 y e s
+help 2023-06-22 21:40:05 Okay so basically i made a thrust SSC but like i spent a lot of time on this one detail and now idk which looks better. which engine looks better?
+help 2023-06-22 21:48:12 Alt + F4
+help 2023-06-22 21:48:14 or
+help 2023-06-22 21:48:22 you could press the green despawn arrow
+help 2023-06-22 21:48:40 may i see your vehicle
+help 2023-06-22 21:48:57 skill issue tbh
+help 2023-06-22 21:49:22 you're in the null zone
+help 2023-06-22 21:50:59 before i help you, answer my question pls
+help 2023-06-22 21:51:25 ok
+help 2023-06-22 21:51:28 first
+help 2023-06-22 21:51:31 press esc
+help 2023-06-22 21:51:36 done?
+help 2023-06-22 21:51:52 up 2 u
+help 2023-06-22 21:52:04 what the hell did you build
+help 2023-06-22 21:53:14 cool
+help 2023-06-22 21:53:29 I made a car, then made it go super fast
+help 2023-06-22 21:54:02 idk
+help 2023-06-22 21:54:04 maybe
+help 2023-06-22 21:54:13 there isn't enough ground to find out
+help 2023-06-22 21:54:21 bc then it just starts flying into the void
+help 2023-06-22 21:54:49 it flies in a loop bc of how fast it is
+help 2023-06-22 21:56:05 ok
+help 2023-06-22 21:56:36 im having mental breakdown
+plane-crazy 2023-06-29 22:29:42 idk what to build
+plane-crazy 2023-06-29 22:29:46 gib idea
+plane-crazy 2023-06-29 22:31:06 a functioning one?
+plane-crazy 2023-06-29 22:31:22 bet
+plane-crazy 2023-06-29 22:31:29 I'm gonna bake a pie
+plane-crazy 2023-06-29 22:31:31 in the oven
+plane-crazy 2023-06-29 22:31:56 <:trollface:775024642104229898>
+plane-crazy 2023-06-29 22:32:37 no
+general 2023-06-29 22:33:01 wow
+plane-crazy 2023-06-29 22:33:18 no
+plane-crazy 2023-06-29 22:34:01 no
+plane-crazy 2023-06-29 22:34:24 
+plane-crazy 2023-06-29 22:35:01 x2
+plane-crazy 2023-06-29 22:35:30 https://tenor.com/view/no-u-reverse-card-anti-orders-gif-19358543
+plane-crazy 2023-06-29 22:36:13 rip kitty
+plane-crazy 2023-06-29 22:36:52 anyways, am build oven
+plane-crazy 2023-06-29 23:12:47 SUS
+plane-crazy 2023-06-29 23:13:16 Oven Update:
+plane-crazy 2023-06-29 23:17:03 is it really
+plane-crazy 2023-06-29 23:18:16 😭
+general 2023-06-29 23:29:36 anyone know if pc2 is gonna come out this summer?
+general 2023-06-29 23:30:22 😭
+plane-crazy 2023-06-29 23:53:42 Oven Update:
+plane-crazy 2023-06-29 23:54:45 only oven i've seen with a bottom drawer is my grandma's and she's 70+
+plane-crazy 2023-06-29 23:55:08 I'll move it up and add one once it's done
+plane-crazy 2023-06-29 23:55:12 see how it looks
+creations-chat 2023-06-30 00:08:15 <@1016509044468486255> isn't that just the Madvulpen's MiG-29 with long snoot
+creations-chat 2023-06-30 00:10:30 <@1016509044468486255> madvulpen MiG-29 with long snoot
+creations-chat 2023-06-30 00:12:35 W.I.P. Oven bc why the hell not.
+creations-chat 2023-06-30 00:18:54 um, i was just gonna add like nobs on the top for the burners
+idk where i would fit that
+creations-chat 2023-06-30 00:21:29 DOES THIS LOOK FINISHED YET??? No, it does not. It does not have a rack on the inside or lights and all the other oven necessities
+creations-chat 2023-06-30 00:25:11 1. <@584060481522761728> I will not put an underdrawer until the oven is done.
+2. <@375281006091173890> no
+3. <@753617470551752766> Tren is much yes
+creations-chat 2023-06-30 00:53:07 much good
+creations-chat 2023-06-30 01:10:39 Cooking a Panzer IV in the oven.
+creations-chat 2023-06-30 01:12:42 ong is not done yet chill, i'm still adding stuff
+creations-chat 2023-06-30 01:15:06 correction: It doesn't fly YET
+How else am I supposed to move it around to get people in my oven?
+creations-chat 2023-06-30 01:34:33 You asked for a drawer, you got one, and it works.
+creations-chat 2023-06-30 01:38:15 WAIT
+YOU GAVE ME AN IDEA
+WHAT IF THE WINGS FOLD OUT
+creations-chat 2023-06-30 01:46:04 https://discord.com/channels/384021699466756103/384025409945337856/987121477344170024 Like this it's epic
+creations-chat 2023-06-30 01:52:29 haha i'm older than both of you
+creations-chat 2023-06-30 01:59:22 how should i do the wings?
+creations-chat 2023-06-30 02:01:26 I want them to fold in and out
+creations-chat 2023-06-30 02:13:08 <@1036826764611158036> Is this good? or should I add some sort of hiding mechanism?
+creations-chat 2023-06-30 02:18:22 ok nvm i don't want wings, i just want it to hover
+creations-chat 2023-06-30 13:17:22 nice

@@ -1,0 +1,7 @@
+The Tale of yessir (720133853867671665)
+help 2023-01-15 19:10:00 For combat jets should I make it follow my mouse or use WASD and QE?
+help 2023-01-22 20:13:55 How do you post images of your builds in <#384025409945337856> ?
+help 2023-01-22 20:22:09 thx
+bot-central 2023-01-22 20:22:33 !rank
+bug-reports 2023-02-03 00:24:12 Just don't have blocks that are different colors inside each other.
+bug-reports 2023-02-03 00:24:46 It would be a lot of work for the devs to add texture prioritizing

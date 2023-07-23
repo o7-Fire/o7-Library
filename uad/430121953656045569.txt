@@ -1,0 +1,429 @@
+The Tale of goldenfish1014 (430121953656045569)
+plane-crazy 2018-12-18 15:58:55 does anyone have any ideas for what to make?
+plane-crazy 2018-12-18 16:23:59 how do you verify?
+plane-crazy 2018-12-18 16:26:04 ;vrify
+plane-crazy 2018-12-18 16:26:08 im an idiot
+plane-crazy 2018-12-18 16:26:25 oh
+plane-crazy 2018-12-18 16:44:18 finally!
+plane-crazy 2018-12-18 16:46:00 ive made a drone without thrusters that works fine!
+plane-crazy 2018-12-18 16:46:35 on general?
+plane-crazy 2018-12-18 16:46:48 should i show video or picture?
+plane-crazy 2018-12-18 16:47:27 lemme get streamable
+plane-crazy 2018-12-18 16:47:50 ik
+plane-crazy 2018-12-18 16:47:56 im just loading obs
+plane-crazy 2018-12-18 16:48:22 nah
+plane-crazy 2018-12-18 16:48:24 its too bad
+plane-crazy 2018-12-18 16:49:56 nearly done
+plane-crazy 2018-12-18 16:50:07 i disabled the mic
+plane-crazy 2018-12-18 16:50:52 it wont let me paste the url
+plane-crazy 2018-12-18 16:51:12 on streamable
+plane-crazy 2018-12-18 16:57:26 here's the link
+plane-crazy 2018-12-18 16:57:27 https://streamable.com/ce5ki
+creations-chat 2018-12-18 17:01:42 my drone (manouvers in yaw and pitch without thrusters)
+plane-crazy 2018-12-18 17:23:20 wth
+plane-crazy 2018-12-18 17:28:15 is there anyway to use a third person point of veiw on a camera?
+creations-chat 2018-12-18 17:34:33 p h y s i c s
+plane-crazy 2018-12-19 07:49:31 i made this
+plane-crazy 2018-12-19 07:49:32 https://streamable.com/0lp2f
+plane-crazy 2018-12-19 08:04:25 what  is a vtol?
+help 2018-12-19 08:06:46 what is a VTOL?
+creations-chat 2018-12-19 08:09:44 what is a VTOL?
+plane-crazy 2018-12-19 20:36:20 !rank
+plane-crazy 2018-12-19 20:37:35 would a drone count as a vtol?
+plane-crazy 2018-12-19 20:37:54 would it count as a vtol for the propellor master rank?
+plane-crazy 2018-12-19 20:38:32 thx
+plane-crazy 2018-12-21 23:46:50 i need to get 6860 speed for the supersonic rank but i only reach 5700
+plane-crazy 2018-12-21 23:50:52 https://streamable.com/as981
+creations-chat 2018-12-22 00:04:14 to get the supersonic rank, do you upload a video?
+creations-chat 2018-12-22 00:08:01 Name: fast car, Block Count: 155, Rank Wanted: Supersonic
+creations-chat 2018-12-22 00:08:53 proof*
+creations-chat 2018-12-22 00:09:13 extra
+creations-chat 2018-12-22 00:16:45 <@!321793201855922179> you can do all that with 4 props
+creations-chat 2018-12-22 00:17:22 4 props looks more comlex
+creations-chat 2018-12-22 18:35:05 noice
+plane-crazy 2018-12-22 18:48:16 https://streamable.com/064c6
+plane-crazy 2018-12-22 18:48:30 suspensions + magnets = dead fx 4300
+plane-crazy 2018-12-22 18:49:40 i have it already
+plane-crazy 2018-12-22 18:51:08 i need propellor master
+plane-crazy 2018-12-22 18:51:39 balalalllalallalalala
+the-dump 2018-12-22 22:43:31 POTATO
+general 2018-12-22 23:02:43 ?
+creations-chat 2018-12-23 00:33:55 its good
+plane-crazy 2018-12-26 19:52:21 i perfected train "steering"
+plane-crazy 2018-12-26 19:52:29 https://streamable.com/1j2g3
+plane-crazy 2018-12-26 19:58:07 does it turn very well?
+help 2018-12-26 20:36:08 i have a good steering sytem
+help 2018-12-26 20:36:17 https://streamable.com/1j2g3
+plane-crazy 2018-12-26 20:47:00 lights are so glitchy 😦
+plane-crazy 2018-12-26 22:14:11 its to the right of the building (relative to the sign)
+plane-crazy 2018-12-26 22:14:16 nvm
+plane-crazy 2018-12-26 22:19:20 i finally got my train working
+plane-crazy 2018-12-26 22:20:59 https://streamable.com/atsm0
+plane-crazy 2018-12-27 13:19:01 i have an idea
+plane-crazy 2018-12-27 13:19:26 does anyone know how far the pistons extend in blocks
+plane-crazy 2018-12-27 13:21:38 a block is 2.5 studs long, a piston's extension is measured in studs
+plane-crazy 2018-12-27 13:35:51 yus
+plane-crazy 2018-12-27 13:35:58 deja vu
+plane-crazy 2018-12-27 13:38:20 https://streamable.com/bovk1
+plane-crazy 2018-12-27 14:05:45 ive made a train that goes 450 speed without derailing
+plane-crazy 2018-12-27 14:16:40 im gunna make the elb into a vtol
+plane-crazy 2018-12-27 19:38:21 https://streamable.com/1qrdx
+plane-crazy 2018-12-27 19:39:18 motors on trains do not work
+plane-crazy 2018-12-27 19:43:18 my game broke
+creations-chat 2019-01-08 08:07:29 XD
+bug-reports 2019-01-08 20:07:37 im screwed
+bug-reports 2019-01-08 20:07:53 my train vtol uses both
+help 2019-01-11 17:31:33 what is the best way to make larger wheels?
+help 2019-01-14 18:54:59 what is the easiest to negate torque?
+help 2019-01-16 16:45:53 what is the best way to stabilise something on an unpowered motor
+help 2019-01-16 17:30:26 someway to prevent something from flipping if it was on an unpowered motor which was attached to something rotating
+help 2019-01-16 18:14:31 i have a good one
+plane-crazy 2019-01-16 18:15:44 nani
+plane-crazy 2019-01-16 18:15:46 YUUUUS
+plane-crazy 2019-01-16 18:16:12 i wonder if snow is still a thing?
+plane-crazy 2019-01-16 18:16:22 NOOOOO
+plane-crazy 2019-01-16 18:16:26 STILL SNOW
+plane-crazy 2019-01-16 18:16:51 yyyuuuuuuusssss
+plane-crazy 2019-01-16 18:17:02 finally
+plane-crazy 2019-01-16 18:18:01 oooo
+plane-crazy 2019-01-16 18:18:12 nope
+plane-crazy 2019-01-16 18:18:16 theres more
+plane-crazy 2019-01-16 18:18:37 you get put into a camera when you start
+plane-crazy 2019-01-16 18:20:11 there already was
+plane-crazy 2019-01-16 18:21:07 we need a changelog
+plane-crazy 2019-01-16 18:22:34 XD
+plane-crazy 2019-01-16 18:30:38 how many ranks do you need?
+creations-chat 2019-01-16 18:58:53 Train Vtol | goldenfish1014 | 1067 | Ranks requested : propeller master, level 1 conductor, master technician, builder/lag specailist master
+creations-chat 2019-01-16 18:59:06 
+creations-chat 2019-01-16 18:59:10 
+creations-chat 2019-01-16 18:59:16 
+creations-chat 2019-01-16 18:59:22 https://streamable.com/8jm58
+creations-chat 2019-01-16 19:00:56 i did that wrong
+creations-chat 2019-01-16 19:02:41 Train Vtol | goldenfish1014 | 1067 | Ranks requested : propeller master, level 1 conductor, master technician, builder/lag specailist master
+(i screwed up before)
+plane-crazy 2019-01-16 19:38:38 oof
+plane-crazy 2019-01-16 20:36:06 
+plane-crazy 2019-01-16 20:38:21 XD https://streamable.com/cfb82
+plane-crazy 2019-01-16 20:39:59 nice
+plane-crazy 2019-01-16 20:41:06 https://streamable.com/czlzb
+plane-crazy 2019-01-16 20:52:12 BAALLALAALALASLA
+creations-chat 2019-01-17 07:44:36 Predator Drone | goldenfish1014 | 267 | Rank requested: Bombardier
+creations-chat 2019-01-17 07:46:46 Wheel | goldenfish1014 | 620 | Rank requested: Modeller
+help 2019-01-17 16:04:16 for the train conductor ranks, do you need to upload a video of the train going around the track?
+plane-crazy 2019-01-17 16:11:07 umm
+help 2019-01-17 20:08:39 its torque
+help 2019-01-17 20:09:04 you would need an opposite, equal force
+help 2019-01-17 20:09:30 for example another rotor on top of the current on, going in the other direction
+plane-crazy 2019-01-18 16:42:28 
+plane-crazy 2019-01-18 16:43:32 bot central
+plane-crazy 2019-01-18 16:44:00 use the command &suggest
+general 2019-01-18 16:56:38 https://streamable.com/grb5u
+plane-crazy 2019-01-18 16:58:58 https://streamable.com/grb5u
+plane-crazy 2019-01-18 16:59:39 vip
+plane-crazy 2019-01-18 16:59:52 XD
+plane-crazy 2019-01-18 17:00:13 i mean the discord vip server
+plane-crazy 2019-01-18 17:01:31 its in the vip servers channel
+bug-reports 2019-01-18 22:21:11 Going from your vehicle to building mode, you sometimes do not get teleported to your base
+plane-crazy 2019-01-18 23:07:17 
+bug-reports 2019-01-20 15:46:48 
+bug-reports 2019-01-20 15:50:26 Someone Else in the same server
+bug-reports 2019-01-20 15:53:34 https://www.roblox.com/users/75186893/profile
+creations-chat 2019-01-21 19:24:02 nice
+bug-reports 2019-01-21 19:41:46 ummmmmmmmm
+bug-reports 2019-01-21 19:44:33 https://streamable.com/ge879
+creations-chat 2019-01-21 19:46:06 i made something like a monowheel
+plane-crazy 2019-01-21 19:52:58 ooooh
+plane-crazy 2019-01-21 19:55:20 this is brokenn
+plane-crazy 2019-01-21 20:00:49 my boat is the master of turning - https://streamable.com/h6dbc
+help 2019-01-22 17:45:35 do you mean fly or not spin uncontrollably
+bug-reports 2019-01-23 20:46:10 I was getting screenshot of my contest submission, when into a pilot seat, cycled through the different camera angles and my camera became detached and stayed in place (my drone was flying upwards)
+bug-reports 2019-01-23 20:47:04 woah
+bug-reports 2019-01-23 20:47:56 All you have to do is enter a pilot seat, go into a camera other than third person and jump
+bug-reports 2019-01-24 08:01:09 https://streamable.com/bezh4
+help 2019-01-25 07:58:40 I made a boat that uses propellers  and has steering, but whenever the turning returns to centre, its nearly flips
+help 2019-01-25 07:59:45 https://streamable.com/yoqin
+help 2019-01-25 08:06:58 ?
+help 2019-01-25 08:07:46 its not torque
+help 2019-01-25 08:08:05 no
+help 2019-01-25 08:08:09 im not that stupid
+help 2019-01-25 08:08:39 so is it speed?
+help 2019-01-25 08:09:16 no
+help 2019-01-25 08:10:08 even lowering the speed didnt help
+help 2019-01-25 08:10:29 https://streamable.com/vwrhs
+help 2019-01-25 08:11:26 click on the link
+help 2019-01-25 08:13:12 nope
+help 2019-01-25 08:14:44 they spin the right way
+help 2019-01-25 08:15:06 yes
+help 2019-01-25 08:15:10 i know this stuff
+help 2019-01-25 08:15:15 i made vtols
+help 2019-01-25 08:15:18 make*
+help 2019-01-25 08:16:37 i make them myself
+help 2019-01-25 08:16:47 many
+help 2019-01-25 08:16:56 like my failed contest submission
+help 2019-01-25 08:18:13 
+help 2019-01-25 08:18:16 
+help 2019-01-25 08:18:17 
+help 2019-01-25 08:18:35 there isnt a problem with my motors or torque
+help 2019-01-25 08:18:53 ?
+help 2019-01-25 08:19:20 i gtg
+bug-reports 2019-01-25 16:41:53 using a huge rocket engine in a build prevents it from being moved with the move tool
+plane-crazy 2019-01-25 17:05:38 is it plausible to make a rocket that goes 1000 speed?
+bug-reports 2019-01-25 21:19:27 <@526036185836027915>  its not that : simple having a huge rocket engine prevents any movement with the tool
+bug-reports 2019-01-25 21:20:02 im not referring to the fast they get built into the ground
+help 2019-01-25 22:42:14 its because of torque and i do not know how to help
+plane-crazy 2019-01-26 11:42:06 oof
+help 2019-01-27 19:43:07 creations-chat
+bug-reports 2019-01-28 18:18:53 https://streamable.com/6qvdv - I was attempting to make a swashplate  and this happened
+bug-reports 2019-01-28 18:21:56 it was never there
+bug-reports 2019-01-28 18:22:42 https://streamable.com/mxufv
+bug-reports 2019-01-28 18:32:31 https://streamable.com/lwpuq - New glitch?
+bug-reports 2019-01-28 18:33:20 ^ this glitch is easy to replicate
+bug-reports 2019-01-28 18:33:43 thx
+plane-crazy 2019-01-28 18:47:42 https://streamable.com/x9fti - rank wanted : Warp Drive
+plane-crazy 2019-01-28 18:51:23 can anyone else vote for new creations and contest submissions?
+bug-reports 2019-01-28 18:53:49 i found a glitch
+bug-reports 2019-01-28 18:54:13 if you spam jump and move in any direction when you spawn in your vehicle, you will enter the glitched state. from there, jumping launches you away from your creation. the more lag there is the easier it is to do
+bug-reports 2019-01-28 18:57:02 https://streamable.com/90ho8
+plane-crazy 2019-01-28 19:10:46 creation voting is broken
+plane-crazy 2019-01-28 19:17:04 https://streamable.com/p9hmj
+plane-crazy 2019-01-28 19:17:05 oof
+bug-reports 2019-01-29 15:52:22 we can now vote on suggestion denials
+plane-crazy 2019-01-29 16:10:12 i placed 20 magnets 5 minutes ago and my game isnt responding
+plane-crazy 2019-01-29 16:12:15 acording to the website i am not in a game
+plane-crazy 2019-01-29 16:12:38 oooooofff my cpu having spamsms
+plane-crazy 2019-01-29 16:36:47 too many springs
+creations-chat 2019-01-29 16:54:08 Name: goldenfish1014 Rank Wanted: Light Speed
+bug-reports 2019-01-29 17:36:45 I JUST DISCOVERED A WAY TO CRASH ENTIRE SERVERS
+plane-crazy 2019-01-29 17:42:52 ummmmmm
+plane-crazy 2019-01-29 17:43:13 its possible to crash servers
+plane-crazy 2019-01-29 17:43:24 oof
+plane-crazy 2019-01-29 17:43:34 stupid springs
+plane-crazy 2019-01-29 17:43:53 oh
+plane-crazy 2019-01-29 17:44:01 i just spammed springs
+plane-crazy 2019-01-29 17:44:17 i either went really fast or crashed the server
+bug-reports 2019-01-29 17:45:38 ?
+bug-reports 2019-01-29 17:45:44 ill send a vid
+bug-reports 2019-01-29 17:50:53 all you do
+bug-reports 2019-01-29 17:50:54 is
+bug-reports 2019-01-29 17:51:04 build something like this:
+bug-reports 2019-01-29 17:51:07 https://streamable.com/womq2
+bug-reports 2019-01-29 17:51:40 when you enter the vehicle, your ping and everyone elses goes to 1000+ and everything stops working (ive tested with alts)
+bug-reports 2019-01-29 18:16:00 does it temporally stop?
+creations-chat 2019-02-01 15:59:46 I need to over complicate everything - https://streamable.com/yn6i9
+creations-chat 2019-02-01 16:10:03 i honestly dont know
+creations-chat 2019-02-01 16:10:18 plane crazy before wheels were a thing
+plane-crazy 2019-02-01 16:22:04 no u
+help 2019-02-03 19:11:31 streamable
+bug-reports 2019-02-04 18:16:33 
+help 2019-02-04 18:52:04 join a different server
+bug-reports 2019-02-04 19:02:35 https://streamable.com/ab9st
+help 2019-02-04 19:30:01 i am making a plane without the use of control panels, and my pistons glitch out, or dont work(they are on lock)
+help 2019-02-04 19:30:04 https://streamable.com/b2ocf
+help 2019-02-04 19:35:47 the points is that i am not using control surfaces
+help 2019-02-04 19:56:10 not really
+help 2019-02-04 19:56:13 loook at the video
+plane-crazy 2019-02-04 20:13:47 XD
+plane-crazy 2019-02-04 20:16:51 he he
+plane-crazy 2019-02-05 15:28:01 thicc
+bug-reports 2019-02-05 18:57:14 if you power up an engine(eg rocket) and exit a vehicle, upon entering it agian and tapping the button, it goes to low thrust
+bug-reports 2019-02-05 18:58:47 https://streamable.com/co32x
+creations-chat 2019-02-05 19:43:59 https://streamable.com/217qa - ranks wanted: novice pilot, skilled pilot
+creations-chat 2019-02-05 20:17:26 https://streamable.com/9kzds - rank wanted: level 5 conductor
+plane-crazy 2019-02-05 20:20:29 idot
+help 2019-02-05 20:45:47 what are the dimensions for the plot?
+plane-crazy 2019-02-05 20:49:27 ok
+plane-crazy 2019-02-05 21:02:04 is the game updating?
+bug-reports 2019-02-06 07:28:36 is your seat upright?
+plane-crazy 2019-02-06 07:29:06 does anyone know the dimensions of the plot?
+plane-crazy 2019-02-06 07:34:33 its 51x51x39
+bug-reports 2019-02-06 08:03:31 i think that 1x7 blocks prevent things from being moved up or down - https://streamable.com/ozjaf
+plane-crazy 2019-02-06 08:13:33 he he
+plane-crazy 2019-02-06 08:15:11 does despacito fly <:thonk:509498568982134816>
+plane-crazy 2019-02-06 17:16:29 nah
+plane-crazy 2019-02-06 17:16:43 big oof
+plane-crazy 2019-02-06 17:23:19 if i make a despacito spider, should i have both faces facing the same way?
+plane-crazy 2019-02-06 17:24:59 dose it fli
+plane-crazy 2019-02-06 17:34:48 yoises
+plane-crazy 2019-02-06 17:59:01 this despacito heavy
+plane-crazy 2019-02-06 17:59:23 oof
+plane-crazy 2019-02-06 18:27:10 oh oof
+bug-reports 2019-02-06 18:34:24 
+plane-crazy 2019-02-06 19:15:21 oof
+bug-reports 2019-02-06 19:28:32 
+bug-reports 2019-02-06 19:30:28 YS
+bug-reports 2019-02-06 19:32:08 i is mor flotea
+plane-crazy 2019-02-06 19:33:54 i did worse on the prop contest
+bug-reports 2019-02-06 19:36:12 this glitch is weird
+bug-reports 2019-02-06 19:37:41 NO?!
+bug-reports 2019-02-06 19:47:22 it doesn't
+bug-reports 2019-02-06 19:55:04 sorry im late
+bug-reports 2019-02-06 20:15:58 https://streamable.com/o4cl9
+bug-reports 2019-02-06 20:16:40 im making a flying object but whenever i use all of my keybinds, it becomes unstable for no reason
+bug-reports 2019-02-06 20:16:59 this was present on the dev server too
+bug-reports 2019-02-06 20:22:19 it ruins all propellor-based creations that use motors to turn
+help 2019-02-06 20:28:10 got to bot-central and use the command &suggest (suggestion)
+help 2019-02-06 20:28:22 np
+plane-crazy 2019-02-06 20:29:02 oh oof
+plane-crazy 2019-02-06 20:29:08 i have 10 minutes to do my homework
+plane-crazy 2019-02-06 20:29:27 <:dab:520022237705928704>
+plane-crazy 2019-02-06 20:31:37 <:fingergun:532303441293344778>
+bug-reports 2019-02-06 20:55:53 
+plane-crazy 2019-02-07 08:08:37 i made my despacito spider fly but its glitchy 😦
+plane-crazy 2019-02-07 08:09:19 video?
+plane-crazy 2019-02-07 08:10:09 https://streamable.com/lgcjx
+plane-crazy 2019-02-07 08:10:39 <:dab:520022237705928704>
+plane-crazy 2019-02-07 08:11:00 its a glitch]
+plane-crazy 2019-02-07 08:11:19 it goes behind and right
+plane-crazy 2019-02-07 08:11:25 when not pressing anything
+plane-crazy 2019-02-07 08:11:31 its got some helium in
+plane-crazy 2019-02-07 08:13:25 i just realised i forgot to colour in the top
+plane-crazy 2019-02-07 08:15:33 is something meant to happen?
+plane-crazy 2019-02-07 08:16:06 next to the sheel
+plane-crazy 2019-02-07 08:16:08 wheel
+plane-crazy 2019-02-07 08:16:11 oof i gtg
+help 2019-02-07 18:17:09 whenever you look at your entire vehicle from the side, the blades should be pointed so that the left side's propellors and going bottom left to top right and the right's side are going btoom right to top left
+help 2019-02-07 18:17:31 they also (obviously) need to spin in different directions
+help 2019-02-07 18:18:30 
+help 2019-02-08 08:06:56 
+bug-reports 2019-02-08 15:12:26 oof
+creations-chat 2019-02-08 15:28:58 Name Flying Despacito Spider<:despacito:518431419874410506> 
+Username: goldenfish1014
+Block Count: 1299
+Ranks Wanted: None
+
+This thing flies with the power of only propellors but uses helium to stabilise
+here is a vide of it flying : https://streamable.com/h8xj7
+creations-chat 2019-02-08 16:18:06 it fli
+plane-crazy 2019-02-08 16:28:38 i just wanted to make a vtol
+bug-reports 2019-02-08 16:43:26 https://streamable.com/dvfti - my cursor i glitching for no reason
+bug-reports 2019-02-08 16:52:31 yes
+bug-reports 2019-02-08 16:52:40 it works fine in all others applications
+plane-crazy 2019-02-08 17:13:27 it has a low thrust to weight ratioa
+plane-crazy 2019-02-08 17:13:47 just hide super rockets inside
+plane-crazy 2019-02-08 17:46:34 YOISES
+plane-crazy 2019-02-08 17:46:40 a lot
+help 2019-02-08 20:22:28 evidently, your cpu cant handle roblox
+help 2019-02-08 20:44:46 i believe that that is due to torque
+bug-reports 2019-02-08 21:09:02 on this exact server, in this exact plot, this exact creation's motors just dont work
+bug-reports 2019-02-08 21:22:45 
+bug-reports 2019-02-08 21:23:10 reloading did nothing
+bug-reports 2019-02-08 21:23:16 also no keybinds work
+bug-reports 2019-02-08 21:23:34 i am currently at 230 save data
+plane-crazy 2019-02-08 21:59:51 some people are getting the glitch
+plane-crazy 2019-02-08 21:59:56 its annoying -_-
+plane-crazy 2019-02-08 22:01:18 when it happens to me, no keybinds work ever
+plane-crazy 2019-02-08 22:01:36 oh wow
+plane-crazy 2019-02-08 22:01:43 server hopping doesnt fix it
+bug-reports 2019-02-08 22:13:18 for me its exclusive to only one save
+bug-reports 2019-02-08 22:13:32 are any of you near your save limits?
+bug-reports 2019-02-08 22:15:04 kk
+help 2019-02-08 22:27:17 yes
+plane-crazy 2019-02-08 23:16:50 no
+plane-crazy 2019-02-08 23:16:52 keybinds are
+bug-reports 2019-02-09 09:56:47 the glitch with the keybinds is caused by having guns on vehicle in public servers
+plane-crazy 2019-02-09 10:26:23 colour
+bug-reports 2019-02-09 11:25:25 does it have guns?
+help 2019-02-09 11:30:43 for the designer ranks, do the dislikes factor in
+bug-reports 2019-02-09 12:17:44 i think that they break the keybinds
+plane-crazy 2019-02-09 16:24:46 wait a minute
+plane-crazy 2019-02-09 16:25:05 
+plane-crazy 2019-02-09 16:25:48 <:thonk:509498568982134816>
+help 2019-02-09 16:29:03 does this count?
+help 2019-02-09 16:30:23 yus
+plane-crazy 2019-02-09 16:32:38 dose it count
+plane-crazy 2019-02-09 16:33:02 ?
+plane-crazy 2019-02-09 16:34:03 i dont tthink it counts 😦
+plane-crazy 2019-02-09 16:34:14 i dont have the rank
+help 2019-02-09 19:46:01 i think thats due to your suspensions
+help 2019-02-09 20:18:26 makes them return to centre
+plane-crazy 2019-02-09 21:55:26 i still need my rank
+bug-reports 2019-02-09 22:30:18 when you type in number, for example a motor's speed, on a numpad, the decimal points wont work
+bug-reports 2019-02-09 22:39:20 freezing a vehicle and unfreezing it break control surfaces
+bug-reports 2019-02-09 22:52:09 i think
+bug-reports 2019-02-09 22:52:35 sometimes it happens, sometimes not
+bug-reports 2019-02-09 22:53:22 no
+bug-reports 2019-02-09 22:56:27 if explosive blocks are set to explode on impact, they detonate when flown over where blacklist barriers are, even when not active
+bug-reports 2019-02-09 22:57:35 https://streamable.com/2zsoi
+bug-reports 2019-02-09 23:13:30 its getting patched
+help 2019-02-09 23:29:45 magnet + suspension = fast
+bug-reports 2019-02-09 23:35:24 thats probably because you shift the centre of mass
+plane-crazy 2019-02-10 18:24:57 oof
+plane-crazy 2019-02-10 18:25:05 😦
+help 2019-02-10 20:14:57 <@!325712842487627779>  ping rickje in help
+help 2019-02-10 20:18:17 what's the problem?
+plane-crazy 2019-02-11 16:16:29 not again
+plane-crazy 2019-02-11 16:17:10 lockheed matin f22 raptor by fish tank
+plane-crazy 2019-02-11 16:17:14 i hate it
+plane-crazy 2019-02-11 16:17:21 ikr#
+plane-crazy 2019-02-11 16:19:04 plot twust
+creations-chat 2019-02-11 18:08:20 oof
+creations-chat 2019-02-11 18:08:45 try streamable.com
+bug-reports 2019-02-11 18:16:07 guns dont work on 1x7 blocks, but they might not work at all, on vip servers
+help 2019-02-11 18:34:31 does anyone have a decent tank tread design : im making something that requires them and ropes a bad
+creations-chat 2019-02-11 18:43:00 yus
+help 2019-02-11 18:44:07 nvm
+help 2019-02-11 18:44:09 i got one
+creations-chat 2019-02-11 19:25:29 that counts as engines
+creations-chat 2019-02-11 19:25:42 you need to use motors and propellor blades
+plane-crazy 2019-02-11 19:26:22 https://streamable.com/ujbkz - i finally have a tank tread system so i can make salthook from mortal engines
+plane-crazy 2019-02-11 19:27:39 oh no
+plane-crazy 2019-02-11 19:27:45 now i have to copy it 😦
+creations-chat 2019-02-11 19:28:20 with no engines or helium?
+plane-crazy 2019-02-11 19:57:27 we
+plane-crazy 2019-02-11 19:57:28 need
+plane-crazy 2019-02-11 19:57:29 gears
+plane-crazy 2019-02-11 20:22:06 YIOOSESESE
+plane-crazy 2019-02-11 20:23:32 yois
+plane-crazy 2019-02-11 20:23:40 misheard is goad
+plane-crazy 2019-02-12 08:02:13 omega oof
+plane-crazy 2019-02-12 08:02:25 i just saved over my creation
+plane-crazy 2019-02-12 19:01:50 hold up
+bug-reports 2019-02-12 19:07:19 when changing, for example a motor's speed, 4.6 is rounded to 4.59 and no other numbers act like this
+plane-crazy 2019-02-12 19:12:07 yoises
+bug-reports 2019-02-13 17:17:03 are you on a pvp server?
+bug-reports 2019-02-13 17:17:29 odd
+help 2019-02-13 18:56:38 does anyone have a smooth wheel design between 9x9 and 15x15
+help 2019-02-13 20:36:44 as in 5 length 5 hight and 3 width?
+help 2019-02-13 20:37:15 right
+help 2019-02-13 20:39:19 oof
+help 2019-02-13 20:39:28 i just made one but my game crashed
+help 2019-02-13 20:40:28 dont use full thrust
+plane-crazy 2019-02-13 20:48:30 gear ratio 100
+plane-crazy 2019-02-13 20:48:48 they dont work very well
+plane-crazy 2019-02-13 20:48:55 you need pistons and suspension
+plane-crazy 2019-02-13 20:49:17 nah
+bug-reports 2019-02-14 16:42:27 the bottom section of the ball wheel ( the ball and below) connect to blocks from the side]
+bug-reports 2019-02-16 13:17:21 use streamable.com
+creations-chat 2019-02-16 13:37:50 i don't think that would get inventor but idk
+creations-chat 2019-02-16 13:39:12 expert what?
+plane-crazy 2019-02-16 13:43:33 XD
+creations-chat 2019-02-16 13:54:35 <:thonk:509498568982134816>
+help 2019-02-16 13:55:31 this is random, but what are the standards for the inventor rank?
+help 2019-02-16 14:29:24 i would recommend adding a set of blades in front or behind it, going in the opposite direction
+help 2019-02-16 14:30:53 leeme get a pircture
+help 2019-02-16 14:32:33 red = unpowered, green = powered
+plane-crazy 2019-02-16 14:43:17 YOISES
+plane-crazy 2019-02-16 14:50:03 nearly time
+plane-crazy 2019-02-16 14:53:59 it has been 11 minutes
+plane-crazy 2019-02-16 14:56:39 NANI
+creations-chat 2019-02-16 15:07:41 https://streamable.com/na5wu - rank wanted : crazy engineer
+creations-chat 2019-02-16 15:10:35 https://streamable.com/034y6 - rank wanted: microscopic engineer
+creations-chat 2019-02-16 15:12:36 gravity
+creations-chat 2019-02-16 15:19:53 i did it in 8
+creations-chat 2019-06-18 21:02:17 This is a vehicle which is powered by what can only be described as a battery: https://streamable.com/o3e8e (there are only 2 powered motors)
+bot-central 2019-06-18 21:03:20 !help
+bot-central 2019-06-18 21:03:54 !servers
+creations-chat 2019-06-18 21:17:23 yeah same
+bug-reports 2019-06-19 18:54:10 I dont have a base
+bug-reports 2019-06-19 18:54:50 wait what
+bug-reports 2019-06-19 18:55:08 this is also my base
+bug-reports 2019-06-19 18:58:54 okay..
+bug-reports 2019-06-19 18:59:31 spawn is here
+general 2019-09-12 18:32:54 bruh
+general 2019-09-12 18:32:54 
+general 2019-09-12 18:37:10 https://www.roblox.com/games/3705242439/KSKSKSKSKSKKS
+bot-central 2020-02-27 18:53:31 is the suggest command still a thing?
+general 2020-02-28 23:24:48 F
+help 2020-02-29 00:36:19 do all the materials have the same properties?
+bot-central 2020-02-29 00:52:59 !servers
+the-dump 2020-02-29 20:15:39 -minesweeper 1 1 1

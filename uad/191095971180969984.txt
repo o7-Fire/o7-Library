@@ -1,0 +1,12 @@
+The Tale of gax4 (191095971180969984)
+help 2018-11-27 01:45:33 how do you fire rockets
+help 2018-11-27 01:45:39 it used to be f, but it changed
+help 2018-11-27 01:46:53 yes
+help 2018-11-27 01:50:36 so
+help 2018-11-27 03:56:48 how do you effectively configure suspension?
+help 2018-11-27 03:59:54 i meant how do i tweak the settings
+help 2018-11-27 04:00:08 i don't know how damping, free length and stiffness interact with eachother
+help 2018-11-27 04:00:15 and i only really know what stiffness is
+help 2018-11-27 04:02:27 it can break?
+help 2018-11-27 04:02:40 's what i thought
+help 2018-11-27 04:03:16 🤔

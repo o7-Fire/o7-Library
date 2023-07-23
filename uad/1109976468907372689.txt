@@ -1,0 +1,12 @@
+The Tale of _bannannaana (1109976468907372689)
+plane-crazy 2023-07-16 02:20:01 what does servo do on motor 2?
+plane-crazy 2023-07-16 02:21:17 oh
+plane-crazy 2023-07-16 02:21:25 is it still relative to your mouse location
+plane-crazy 2023-07-16 02:21:51 oh
+plane-crazy 2023-07-16 02:22:41 im using it for a plane landing gear thingy and for some reason only 1 side is going up and staying up but the other side goes back down and wobbles even though they have the same controls
+plane-crazy 2023-07-16 02:23:05 is there a way to fix it
+plane-crazy 2023-07-16 02:27:15 i just checked but theyre the same
+plane-crazy 2023-07-16 02:29:18 yea
+plane-crazy 2023-07-16 02:30:15 ok
+plane-crazy 2023-07-16 02:32:20 it worked 😄
+plane-crazy 2023-07-16 02:32:24 thanks

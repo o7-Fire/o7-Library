@@ -1,0 +1,220 @@
+The Tale of very_danish (633731194093174795)
+general 2019-11-01 15:06:41 
+general 2019-11-01 15:06:45 is this a good lander design for minmus?
+general 2019-11-01 15:09:15 æ
+general 2019-11-01 15:09:39 ?summon <@163143541160148992>
+general 2019-11-01 15:10:19 ill take that as a yes
+general 2019-11-01 15:17:10 kk
+general 2019-11-01 15:17:41 also should i use the flt or mk0 fuel tanks
+general 2019-11-01 15:18:15 yup
+general 2019-11-01 15:19:44 
+general 2019-11-01 15:20:18 this good?
+general 2019-11-01 15:20:26 <@163143541160148992>
+general 2019-11-01 15:21:45 it's the transfer stage :/
+general 2019-11-01 15:22:29 wait
+general 2019-11-01 15:22:32 
+general 2019-11-01 15:22:52 æ
+general 2019-11-01 15:23:01 
+general 2019-11-01 15:23:14 nice
+general 2019-11-01 15:23:39 wait
+general 2019-11-01 15:23:39 ohhhh
+general 2019-11-01 15:23:51 big dum dum
+general 2019-11-01 15:24:11 
+general 2019-11-01 15:24:13 you mean like this?
+general 2019-11-01 15:24:19 æ
+general 2019-11-01 15:24:29 it's very smol
+general 2019-11-01 15:26:04 maximum white
+general 2019-11-01 15:26:12 also i have a old screenshot
+general 2019-11-01 15:26:16 of me getting a minmus encounter
+general 2019-11-01 15:26:20 
+general 2019-11-01 15:26:28 but i didnt have enough fuel
+general 2019-11-01 15:26:31 *sheds a tear*
+general 2019-11-01 15:26:58 yh
+general 2019-11-01 15:27:36 doesnt minmus have to be approx 90 degrees rotated from the ascending node?
+general 2019-11-01 15:27:51 ø
+general 2019-11-01 15:28:16 brb 🚽
+general 2019-11-01 15:29:32 bac
+general 2019-11-01 15:29:47 right
+general 2019-11-01 15:29:53 to rocket or to not rocket
+general 2019-11-01 15:30:27 according to a tutorial i found
+general 2019-11-01 15:30:51 transfer stage - 1 large 1.25m tank + terrier
+
+booster stage - 4 large 1.25m tanks + swivel
+general 2019-11-01 15:31:22 its called a lander
+general 2019-11-01 15:31:24 not a pp
+general 2019-11-01 15:32:04 <@163143541160148992>
+general 2019-11-01 15:32:48 cough
+general 2019-11-01 15:32:55 how 2 make transfer and booster stage
+general 2019-11-01 15:33:38 ess are bees
+general 2019-11-01 15:33:48 and for the transfer stage
+general 2019-11-01 15:34:33 and 1 large 1.25m tank¨
+general 2019-11-01 15:34:35 or
+general 2019-11-01 15:34:49 <@163143541160148992>
+general 2019-11-01 15:35:21 flt400+flt100?
+general 2019-11-01 15:37:04 should i use hammer or thumper boosters
+general 2019-11-01 15:37:19 <@163143541160148992>
+general 2019-11-01 15:37:41 thum🅱er then
+general 2019-11-01 15:37:44 yes
+general 2019-11-01 15:38:05 a
+general 2019-11-01 15:38:09 ty for the help so far
+general 2019-11-01 15:38:59 
+general 2019-11-01 15:40:17 right
+general 2019-11-01 15:40:19 uh
+general 2019-11-01 15:41:16 "Untitled space craft"
+general 2019-11-01 15:41:19 what an ugly name
+general 2019-11-01 15:41:22 lets change it
+general 2019-11-01 15:41:51 perfect.
+general 2019-11-01 15:43:26 
+general 2019-11-01 15:43:29 here it is on the launchpad <@163143541160148992>
+general 2019-11-01 15:45:08 almost forgot
+general 2019-11-01 15:45:11 batteries™
+general 2019-11-01 15:45:46 and
+general 2019-11-01 15:46:04 photovoltaic panels™
+general 2019-11-01 15:46:07 k
+general 2019-11-01 15:46:30 because it's further away
+general 2019-11-01 15:47:32 cough
+general 2019-11-01 15:47:32 right
+general 2019-11-01 15:47:40 now lets launch this thing
+general 2019-11-01 15:50:03 
+general 2019-11-02 07:38:04 go commit
+general 2019-11-02 07:39:54 right
+general 2019-11-02 07:39:58 **cough cough**
+general 2019-11-02 07:40:04 <@163143541160148992>, you here?
+general 2019-11-02 07:43:22 i need yo help
+general 2019-11-02 07:53:10 æ
+general 2019-11-02 07:53:18 okay then
+general 2019-11-02 07:53:25 ill use a tutorial™ then
+general 2019-11-02 07:54:51 right
+general 2019-11-02 07:54:54 so what ive learned
+general 2019-11-02 07:55:43 step 1: parking orbit
+
+step 2: make manouver node to minmus and hope you have an encounter
+
+step 3: transfer burn
+
+step 4: fine tune minmus orbit
+
+step 5: burn again
+
+step 6: timewarp
+
+step 7: suicide burn
+
+step 8: landing
+general 2019-11-02 08:28:04 
+general 2019-11-02 08:28:13 parking orbit™
+general 2019-11-02 08:34:41 well shit
+general 2019-11-02 08:34:46 i cant get an encounter
+general 2019-11-02 08:36:10 time to wait for transfer window
+help 2019-12-27 16:45:13 i need some help with my ship
+help 2019-12-27 16:45:57 is there any way i can make this more stable while turning?
+bot-central 2019-12-29 17:05:06 !servers
+bot-central 2019-12-29 17:05:15 why not?
+bot-central 2019-12-29 17:05:37 <@!252094891448860673>
+bot-central 2019-12-29 17:05:38 please fix
+bot-central 2019-12-29 17:05:40 sorry for ping
+bot-central 2019-12-29 17:13:40 ?whois
+help 2019-12-29 17:20:34 what should i use to fill in the gaps and not make it look terrible?
+creations-chat 2019-12-29 18:16:49 [WORK IN PROGRESS! DOES NOT WORK YET!] USS Tiny, approx 280 blocks so far.
+plane-crazy 2019-12-30 19:32:01 when you're super good at folding but terrible at building
+plane-crazy 2019-12-30 19:32:09 *not my creation
+plane-crazy 2019-12-30 19:34:21 https://tenor.com/view/not-funny-didnt-laugh-not-funny-didnt-laugh-dancing-money-dance-gif-14496446
+plane-crazy 2019-12-30 19:40:00 need help
+help 2019-12-31 08:09:14 Req. Submarine Commander
+creations-chat 2019-12-31 08:11:42 Here she is! All finished and with a fresh new lick of paint. The USS Tiny, a tiny submarine.
+creations-chat 2019-12-31 08:12:14 
+creations-chat 2019-12-31 08:12:45 
+help 2019-12-31 08:17:36 <@!252094891448860673> ping pong give me the role
+bot-central 2019-12-31 08:19:44 !servers
+bot-central 2020-01-02 14:17:16 ?av
+bot-central 2020-01-03 07:44:52 ?color
+bot-central 2020-01-03 07:45:05 ?colour
+bot-central 2020-01-03 07:45:20 ?colour 233
+bot-central 2020-01-03 07:45:38 i have no idea how to do this
+bot-central 2020-01-03 07:45:51 ?colour ffffff
+plane-crazy 2020-01-10 08:42:54 
+plane-crazy 2020-01-10 08:45:02 little brat trying to prove (s)he's friends with roblox and madattak
+plane-crazy 2020-01-10 13:00:39 <@163143541160148992> ok boomer
+plane-crazy 2020-01-26 16:28:55 
+plane-crazy 2020-01-29 14:54:23 making another sub
+plane-crazy 2020-01-29 14:54:37 as my old one was shit
+help 2020-01-31 15:04:11 How should I make a fold for this thing?
+help 2020-01-31 15:07:39 i can't seem to get it to work
+help 2020-01-31 15:14:36 i didnt plan on taking a screenshot
+help 2020-01-31 15:14:38 so i didnt
+help 2020-01-31 15:14:50 actually <@!476629966780497931> can you join me and help?
+help 2020-01-31 15:17:07 f
+creations-chat 2020-01-31 15:18:12 suspensionception
+help 2020-01-31 15:34:21 ffs this is really hard
+bot-central 2020-02-02 09:57:41 !help
+bug-reports 2020-02-02 17:41:34 plane crazy hitboxes at their best
+plane-crazy 2020-02-03 14:47:35 k ty
+help 2020-02-03 15:00:05 ive added a bunch of helium and control surfaces to this plane and yet it still doesnt fly
+help 2020-02-03 15:03:25 i just realized
+help 2020-02-03 15:03:36 that the center of mass and aerodynamics are way off
+help 2020-02-03 15:03:46 i removed the elevators
+help 2020-02-03 15:03:49 and it somewhat fixed it
+help 2020-02-03 15:04:47 also i have a ton of rockets and jets inside of the plane itself
+help 2020-02-03 15:04:56 <@!564861679616393216>
+help 2020-02-03 15:05:22 because
+help 2020-02-03 15:05:30 wdym
+help 2020-02-03 15:05:34 fiddle with what?
+help 2020-02-03 15:06:13 that would count as rebuilding the entire wing
+help 2020-02-03 15:06:20 and that's not something im just willing to do out of the blue
+help 2020-02-03 15:06:59 
+help 2020-02-03 15:07:27 excuse me?
+help 2020-02-03 15:08:27 listen im happy with how the plane is right now but im not willing to move the wings
+help 2020-02-03 15:09:20 also plane crazy is not only about changing stuff
+help 2020-02-03 15:11:13 <@!564861679616393216> ^
+help 2020-02-03 15:12:04 but still that would count as rebuilding the entire wing
+help 2020-02-03 15:12:06 s
+help 2020-02-03 15:12:18 and these wings are like
+help 2020-02-03 15:12:20 100 blocks or so
+help 2020-02-03 15:12:33 also the plane should be able to fly
+help 2020-02-03 15:12:34 but it doesnt
+help 2020-02-03 15:12:45 
+help 2020-02-03 15:13:05 it's as close as i can get them
+help 2020-02-03 15:14:00 but its literally a part of the tutorial
+help 2020-02-03 15:14:02 in-game
+help 2020-02-03 15:14:40 how™️
+help 2020-02-03 15:14:55 oh yeah like helium and ballast
+help 2020-02-03 15:14:56 and such
+bot-central 2020-02-03 15:15:17 !servers
+help 2020-02-03 15:15:32 pvp 1?
+help 2020-02-03 15:16:01 and the official server 1?
+help 2020-02-03 15:16:20 k
+help 2020-02-03 15:16:24 and pvp mode?
+help 2020-02-03 15:16:30 <@!577604979909459989> lets switch to dms
+help 2020-02-03 15:16:33 that'll make this easier
+plane-crazy 2020-02-04 15:42:15 oh shit
+plane-crazy 2020-02-07 16:02:20 go commit 737 max 8
+plane-crazy 2020-02-07 16:02:30 jk
+plane-crazy 2020-02-13 08:25:55 panzerkampfwagen vi tiger
+plane-crazy 2020-02-13 08:25:57 i mean hi
+help 2020-02-16 08:55:31 <:BIG1:588443768806703124>
+general 2020-07-05 07:17:16 j
+creations-chat 2021-11-29 18:57:58 balls
+creations-chat 2021-11-29 19:00:11 can you give me some actual feedback instead of just being a fucking asshole? okay thanks
+creations-chat 2021-11-29 19:03:07 fuck you too 😄
+creations-chat 2021-11-29 19:05:51 you're criticizing me for being danish
+
+based beyond belief
+creations-chat 2021-11-29 19:09:28 can you all honestly just fucking stop. it's not even funny anymore
+i feel like i'm just being used as a punching bag at this point and i fucking hate it
+if you're gonna continue i have nothing to say other than fuck y'all and i wish the absolute fucking worst for all of you
+thanks and take care
+creations-chat 2021-11-29 19:13:10 what's wrong with my profile? 🤨
+general 2021-11-29 19:13:27 post this image to scare the pcc discord
+creations-chat 2021-11-29 19:15:46 why the fuck are y'all making such a big deal out of a tank istfg
+creations-chat 2021-11-29 19:19:04 https://tenor.com/view/skill-issue-ratio-cancelled-twitter-cringe-gif-23133228
+general 2021-11-29 19:20:08 <@!335599526414909451> there's some people being really toxic in <#504436696021204992>
+creations-chat 2021-11-29 19:21:40 FINALLY some actual feedback, thanks
+creations-chat 2021-11-29 19:29:12 i’m sensitive when people say shit like that, cry about it
+creations-chat 2021-11-29 19:33:20 i’m pretty sure it’s normal to not take an insult and be sensitive about that? also i get along just fine with everyday people
+creations-chat 2021-11-29 19:35:45 thank you sir server moderator for shutting this bs argument down
+creations-chat 2021-11-29 19:38:16 <@!733276175862071316> looks epic for a first build
+creations-chat 2021-11-29 19:43:06 couldn’t be more true about something
+creations-chat 2021-11-29 19:51:28 what is that again
+general 2021-11-29 19:54:29 a
+creations-chat 2021-11-29 19:54:52 extremely true
+general 2021-11-29 19:55:07 https://tenor.com/view/spam-gif-18321446

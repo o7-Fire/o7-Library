@@ -1,0 +1,11 @@
+The Tale of laskar (490659424206192681)
+general 2020-09-20 05:18:03 -beep
+general 2020-09-20 05:18:25 -underandom
+general 2020-09-20 05:19:44 -underandom
+general 2020-09-20 05:20:27 Oh no
+general 2020-09-20 05:20:51 U didnt tell
+bot-central 2020-09-20 05:22:13 -ping
+bot-central 2020-09-20 05:23:37 -ms 200
+bot-central 2020-09-20 05:23:50 -ms 100
+bot-central 2020-09-20 05:24:03 -ms 100 100
+bot-central 2020-09-20 05:24:12 -ms 100 200

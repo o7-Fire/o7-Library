@@ -1,0 +1,100 @@
+The Tale of brynblack (369748758604546048)
+bug-reports 2019-01-24 02:54:09 I found a bug where you can place certain blocks such as 7x1 Beams in the ground of your base.
+creations-chat 2019-01-24 03:36:37 Multi stage rocket | 1131 blocks | Max speed is roughly around 600 |
+creations-chat 2019-01-24 03:36:42 
+creations-chat 2019-01-24 03:36:48 
+creations-chat 2019-01-24 03:36:56 
+creations-chat 2019-01-24 03:37:03 
+creations-chat 2019-01-24 03:38:43 Rocket has 3 stages.
+creations-chat 2019-01-24 03:42:47 Rocket also has an aesthetic feature on the launch platform which fires flames out through a vent like a realistic launchpad.
+plane-crazy 2019-01-24 03:46:47 Would magnet engines not get me a speed demon rank if i submitted a creation that went REALLY fast but used magnet engines and lagged the server?
+bug-reports 2019-01-24 04:47:20 oh
+creations-chat 2019-01-24 05:00:17 Plane thing that goes faster than speed of light | 176 blocks | Can go faster than light | Light speed rank
+creations-chat 2019-01-24 05:00:22 
+creations-chat 2019-01-24 05:00:24 
+creations-chat 2019-01-24 05:00:34 Demo of plane
+plane-crazy 2019-01-24 05:02:44 How long will it take to receive a rank after submitting a valid vehicle?
+creations-chat 2019-01-24 05:31:51 How long does it take to get a rank after submitting?
+creations-chat 2019-01-24 05:35:18 oke
+creations-chat 2019-01-24 05:35:32 take your time
+creations-chat 2019-01-24 05:35:41 oof
+creations-chat 2019-01-24 05:36:14 I posted a video
+creations-chat 2019-01-24 05:36:59 oh
+creations-chat 2019-01-24 05:37:05 srry
+creations-chat 2019-01-24 05:40:19 how do u embed?
+creations-chat 2019-01-24 05:40:26 I uploaded it to streamable
+creations-chat 2019-01-24 05:42:08 Reupload with demo here: https://streamable.com/8fzrk
+creations-chat 2019-01-24 05:43:35 Plane thing that goes faster than speed of light | 176 blocks | Can go faster than light | Light speed rank
+plane-crazy 2019-01-24 05:56:17 still haven't gotten my rank yet even after submitting oof
+plane-crazy 2019-01-24 06:05:57 Can some1 pls review my submission so my rank comes speedily?
+plane-crazy 2019-01-24 06:10:47 is that an orange trumpet
+plane-crazy 2019-01-24 06:11:23 oke
+plane-crazy 2019-01-24 06:14:08 mine
+creations-chat 2019-01-24 06:19:06 uhoh
+creations-chat 2019-01-24 06:19:09 aut
+creations-chat 2019-01-24 06:19:16 .wavs aren't allowed
+creations-chat 2019-01-24 06:19:23 becuase security reasons
+plane-crazy 2019-01-24 06:20:24 please rank me i've been waiting over an hour after submitting and meet all the requirements
+creations-chat 2019-01-24 23:33:14 Are you allowed to re submit a creation if the mods missed it?
+creations-chat 2019-01-24 23:38:36 
+creations-chat 2019-01-24 23:38:36 "New Rocket" | Username: brynblack | 1131 Blocks | Requesting Master Builder
+creations-chat 2019-01-24 23:38:38 
+creations-chat 2019-01-24 23:38:40 
+creations-chat 2019-01-24 23:38:45 
+creations-chat 2019-01-24 23:38:46 
+creations-chat 2019-01-24 23:38:50 
+creations-chat 2019-01-24 23:39:20 Vent that shoot out fire like a realistic launch pad when launching rocket.
+plane-crazy 2019-01-24 23:45:26 hey sean
+plane-crazy 2019-01-25 00:09:13 oof
+plane-crazy 2019-01-25 00:12:27 lol
+plane-crazy 2019-01-25 00:13:46 when you jump out in a flight in space but forget to put on a space suit
+plane-crazy 2019-01-25 01:15:19 lol
+plane-crazy 2019-01-25 01:15:23 wait
+plane-crazy 2019-01-25 01:15:29 i should have used streamable
+plane-crazy 2019-01-25 01:15:32 whoops
+plane-crazy 2019-01-25 01:24:43 oke now it's streamable format
+plane-crazy 2019-01-25 01:24:44 https://streamable.com/y4u3u
+creations-chat 2019-01-25 01:28:47 "Speed of light" | Username: brynblack | 34 Blocks | Requesting Speed Demon (Light Speed)
+creations-chat 2019-01-25 01:28:48 https://streamable.com/gcg86
+creations-chat 2019-01-25 01:29:22 vipEmpire
+creations-chat 2019-01-25 01:29:28 Does my thing qualify
+creations-chat 2019-01-25 01:30:34 why does my streamable link not show up in creations
+creations-chat 2019-01-25 01:30:39 oh
+creations-chat 2019-01-25 01:30:46 yay
+plane-crazy 2019-01-25 03:44:03 https://gyazo.com/288b207752ad6d603ba9bbd983e36686 boing boing boing
+plane-crazy 2019-01-25 03:46:34 arm machine broke
+plane-crazy 2019-01-25 03:46:35 https://gyazo.com/8cfdcb704cba6ab6dc62bf3110ddc134
+help 2019-01-26 05:19:08 Can someone help me with balancing my rocket?
+help 2019-01-26 05:19:10 https://gyazo.com/cd1e14372579a6b91c729c62d2b987b7
+help 2019-01-26 05:20:04 It's center of mass is perfectly aligned but still shifts off to the side quickly.
+help 2019-01-26 06:05:09 wait
+help 2019-01-26 06:05:12 don't worry
+help 2019-01-26 06:05:17 i found the issue
+help 2019-01-26 06:06:26 https://gyazo.com/44f42f1d08979603dde0876a3cd4eb50 fixed
+creations-chat 2019-01-26 07:36:05 https://streamable.com/z2m1f "New Falcon Heavy" | Username: brynblack | 917 Blocks | Requesting Elon Musk (Rocket Scientist)
+creations-chat 2019-01-26 07:36:28 
+creations-chat 2019-01-26 07:36:31 
+creations-chat 2019-01-26 07:36:56 Shoutout to alphagamer150 for making the platform.
+plane-crazy 2019-01-26 07:42:08 guys check this out im elon musk hopefully https://streamable.com/z2m1f
+plane-crazy 2019-01-26 07:54:30 Experiencing detrimental health loss https://gyazo.com/93c304938397faf0b0dfcd05b863bd93
+plane-crazy 2019-01-26 07:55:22 yes i am
+plane-crazy 2019-01-26 07:56:14 this is what has become of my brain https://gyazo.com/1dafa7e472d4e67670fa9586e0752f05
+plane-crazy 2019-01-26 07:58:08 spinning spinning spinning spinning https://gyazo.com/fe3cb8b0ca01abc1411e5360130f53a4
+plane-crazy 2019-01-26 08:02:48 check out me speed
+plane-crazy 2019-01-26 11:32:44 Black_Bird
+plane-crazy 2019-01-26 11:33:02 Can u pls rank me i submitted a creation earlier
+plane-crazy 2019-01-26 22:18:54 Is there any way to increase the height limit?
+help 2019-01-27 00:30:26 Does anyone know how to make some sort of gyroscope to stabilize my rocket?
+help 2019-01-27 00:31:12 But I'm using this rocket to get a rank which doesn't allow helium
+help 2019-01-27 00:31:44 Well it's really hard to
+help 2019-01-27 09:24:19 Can someone help me with my rocket's landing legs? They are vibrating when fully deployed and fling my rocket. https://streamable.com/1bmi9
+plane-crazy 2019-01-27 10:02:26 why is this happening https://streamable.com/1bmi9
+the-dump 2019-01-28 00:15:50 breaking news: dog gets sucked into time rift
+plane-crazy 2019-01-28 02:44:44 magic https://vgy.me/OT6cX9.gif
+bug-reports 2019-01-28 03:13:50 Can anybody tell me how to fix this or is this a bug? https://vgy.me/pcR9Fs.gif
+bug-reports 2019-01-28 05:32:24 When will it be fixed?
+bug-reports 2019-01-28 05:53:23 Well is there anything i can do in the meantime to temporarily prevent it?
+creations-chat 2019-01-29 09:34:40 Believe me NubbyTubby, i've gone faster.
+creations-chat 2019-01-29 09:35:18 btw not a submission
+the-dump 2019-03-03 07:47:00 Dark mode=Nice | Light mode=Death
+the-dump 2019-03-04 04:39:46 

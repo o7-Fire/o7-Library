@@ -1,0 +1,13 @@
+The Tale of teineone (798382022280085505)
+general 2021-09-03 02:57:14 does anyone know the highest speed ever achieved by a player in game?
+general 2021-09-03 02:57:48 ah, right, infinite acceleration
+general 2021-09-03 02:57:57 I made a rocket out of helium blocks
+general 2021-09-03 02:59:37 I jumped out of my rocket at 163000 speed, and hit 1.2 billion when I activated my parachute
+general 2021-09-03 03:02:32 exactly - infinite
+plane-crazy 2021-09-13 00:24:08 what's the best way to connect train cars besides rope
+plane-crazy 2021-09-13 00:28:13 whenever I hit turns, It stops the train immediately
+plane-crazy 2021-09-13 00:28:40 I want to use motors, but I haven't found a method that works
+plane-crazy 2021-09-13 00:40:21 https://gyazo.com/54e7ac0b63271d7420b2970f7eb3359a
+plane-crazy 2021-09-13 00:40:27 That's the engine
+bug-reports 2022-03-20 23:21:15 https://gyazo.com/d9900a5aac3bb878d3d339ae4d2fb347
+bug-reports 2022-03-20 23:21:31 bodies and blocks don't do so well at 200000 speed

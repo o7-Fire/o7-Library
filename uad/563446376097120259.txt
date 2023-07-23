@@ -1,0 +1,13 @@
+The Tale of zondervold (563446376097120259)
+help 2020-05-18 19:34:33 Anyone here an expert with motors? I need help with a motor gate.
+help 2020-05-18 22:04:10 Anyone here an expert with motors? I need help with a motor gate.
+plane-crazy 2020-12-21 03:38:10 How do you set the control surfaces to be independent to a single vehicle?
+plane-crazy 2020-12-21 03:38:46 :l
+general 2020-12-21 03:39:19 How do you set the control surfaces to be independent to a single vehicle?
+general 2020-12-21 03:39:57 How do you set the control surfaces to be independent to a single vehicle?
+help 2020-12-21 03:40:16 How do you set the control surfaces to be independent to a single vehicle?
+help 2020-12-23 02:10:24 How do you set the control surfaces to be independent to a single vehicle?
+help 2020-12-23 02:42:27 How do you set the control surfaces to be independent to a single vehicle?
+help 2020-12-23 02:42:42 Is that even possible?
+help 2020-12-23 02:43:40 I tried that, but it didn't work. I had a bunch of planes on a single load, and they were all messed up even though i did had diffrent keybinds.
+help 2020-12-23 02:43:52 I belive it has something to do with mass, but I don't know what to do...

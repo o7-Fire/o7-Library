@@ -1,0 +1,17 @@
+The Tale of echo.flac (747563911108100116)
+general 2021-02-08 11:53:21 Greetings.
+bot-central 2021-08-20 00:36:12 &suggest
+[Save Import]
+[Building]
+[A feature where you can import your saves into a build, which could be useful and time saving if, say, you made the perfect landing gear and want to make a new plane but can't be bothered or don't know how you built it. When you open the saves menu, there could be a button that says "import". When you click the import button, the save menu closes and the save you have imported spawns in, collision is disabled and the blocks turn transparent, you are greeted with a move tool like Interface to move it around and can press a green checkmark button to confirm the position of the part. The import would overwrite any existing blocks in that area, however if you have no more of a block left like, say, a main pilot seat. It would not load in.]
+Disclaimer: this suggestion can probably only be done in the re-write and even then it might not be possible, I still wanted to post it though as it's something to consider.
+bot-central 2021-08-20 00:38:04 I swear I'm ranked I remember going onto the private servers
+bot-central 2021-08-20 00:38:14 sigh
+bot-central 2021-08-20 00:38:35 I gotta make another boat
+bot-central 2021-08-20 00:38:42 Or...
+bot-central 2021-08-20 00:38:48 .
+bot-central 2021-08-20 00:38:49 .
+bot-central 2021-08-20 00:39:55 ** Can someon please repost my suggestion?**
+bot-central 2021-08-20 00:40:34 I lost my bote builder rank
+bot-central 2021-08-20 00:41:52 Would you mind reposting my suggestion but giving credit?
+bot-central 2021-08-20 00:42:48 Yeah I had the shipwright one rank

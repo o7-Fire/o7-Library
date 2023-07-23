@@ -1,0 +1,11 @@
+The Tale of ayletherie (82177715075026944)
+plane-crazy 2018-09-27 16:57:47 tyy
+bug-reports 2018-10-08 17:25:51 they'll soon be fixed
+bug-reports 2018-10-08 17:26:11 😉
+plane-crazy 2018-10-09 15:16:57 thanks to me
+plane-crazy 2018-10-09 15:17:49 made a c++ code to loop from -26 to 26 on the Z and X axis and from 0 to 26 on the  Y axis and generate all possible combinations of positions on a grid
+plane-crazy 2018-10-09 15:18:10 in total, `52x52x26`
+plane-crazy 2018-10-09 15:18:24 or `70304`
+plane-crazy 2018-10-09 15:19:18 rick
+plane-crazy 2018-10-09 15:19:21 put it into a module
+plane-crazy 2018-10-09 15:19:23 and leave it there

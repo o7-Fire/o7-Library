@@ -1,0 +1,14 @@
+The Tale of .intrack (486886122253713409)
+bot-central 2020-06-17 19:40:32 !serwers
+bot-central 2020-06-17 19:40:45 !servers
+bug-reports 2020-06-30 09:11:23 i have the same situation
+bug-reports 2020-06-30 09:11:38 its looks like i blacklisted myself
+bug-reports 2020-06-30 09:14:04 my creation cannot go out but i can
+bug-reports 2020-06-30 09:15:08 when i disconnect part it can go out
+bug-reports 2020-06-30 09:15:48 but it looks like parts attached to the pilot seat cant get out
+bug-reports 2020-06-30 09:16:35 and i can only get out from other spawns
+bug-reports 2020-06-30 09:19:03 i still cant get out
+bug-reports 2020-06-30 09:20:04 when i jump out my creation can got out but i cant
+bug-reports 2020-06-30 09:41:04 i cant get out
+bug-reports 2020-06-30 09:41:11 i just git other save
+bug-reports 2020-06-30 09:59:32 

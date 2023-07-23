@@ -1,0 +1,57 @@
+The Tale of swifty.eth (346362883581542401)
+general 2021-02-11 02:08:21 E
+general 2021-02-11 17:17:27 the thing is a lie
+general 2021-02-11 17:17:34 the technology is not available
+general 2021-02-11 17:17:36 rn
+general 2021-02-11 17:17:38 for the public
+general 2021-02-14 22:51:29 Bro
+general 2021-02-14 22:51:51 Bro just get good 😎
+general 2021-02-14 22:52:14 Sure thing chief
+general 2021-02-14 22:52:25 🦾🦿👁️
+general 2021-02-14 22:56:50 Has anyone ever thought that the server might just have too many roles
+general 2021-02-14 22:57:26 All u need is verified ez ez
+general 2021-02-14 23:00:23 E
+general 2021-02-14 23:01:01 For a moment I thought you were part of the white role cult but turns out your just a fake
+general 2021-02-14 23:01:13 <@260797229068058634>
+general 2021-02-14 23:01:31 I’m a fake?
+general 2021-02-14 23:03:21 Doubt
+general 2021-02-14 23:03:30 No
+general 2021-02-14 23:03:34 You won’t
+general 2021-02-14 23:03:46 That’s their way of telling you, you’re not wanted
+general 2021-02-14 23:04:55 Yea trust a random guy on the internet with only 1 role **verified** who doesn’t even know who you are
+general 2021-02-14 23:05:04 Ez ez
+general 2021-02-14 23:05:26 Ez ez
+general 2021-02-14 23:06:02 Brb just pinging Rick to get image perms
+general 2021-02-14 23:06:05 Ez ez
+general 2021-02-14 23:06:46 Ok back
+general 2021-02-14 23:07:49 👁️
+plane-crazy 2021-02-15 20:52:56 all your creations are block <:trollface:775024642104229898>
+plane-crazy 2021-02-15 21:04:49 lol
+plane-crazy 2021-02-15 21:04:56 they dont seem to be in the right place
+general 2021-02-17 19:28:26 e
+general 2021-02-28 00:43:52 B
+general 2021-03-11 22:56:06 <@!370594904268734464> luau is more an edit of lua
+
+and real lua is just a weaker and slower version of roblox luau...
+general 2021-03-11 22:56:24 although at-least u get access to some bytecode functions but most dont care
+general 2021-03-11 22:57:59 its tuned much better
+general 2021-03-11 22:58:02 compared to standard lua
+general 2021-03-11 22:58:08 in its intepreter
+general 2021-03-11 22:59:00 it runs better and more advanced bytecode design which is more specific to roblox needs meaning certain raw functions operate much faster.
+general 2021-03-11 22:59:32 if you ever looked into the bytecode opcodes of standard lua vs luau you'll find that standard lua is actually pretty rough with its opcodes
+general 2021-03-11 22:59:55 either way theres no point comparing them
+general 2021-03-11 23:00:01 they are both for different purposes
+general 2021-03-11 23:00:06 but in terms of rough stats
+general 2021-03-11 23:00:08 luau is better
+general 2021-03-11 23:00:46 i think we s hould be more specific about version numbers...
+general 2021-03-11 23:00:56 im talking lua 5.1 vs luau which runs 5.1
+general 2021-03-11 23:01:13 well then in your case your probably correct on most points
+general 2021-03-11 23:01:45 real chads program in assembly 😎
+general 2021-03-11 23:02:00 yeeeess
+general 2021-03-11 23:03:27 lua is a bytecode intepreter meaning its like a hybrid between a compiler and an interpreter
+general 2021-03-11 23:03:39 the compiled lua state is very similar to assembly code however when broken down
+general 2021-03-11 23:03:53 you have similar instruction names
+general 2021-03-11 23:03:59 and similar ways to move stuff around memory
+general 2023-03-16 16:43:49 average high iq plane crazy player
+creations-chat 2023-03-16 16:46:53 based, cant even post in creations 💀
+bug-reports 2023-03-16 16:49:15 simple guys, get a brain and play Elite Engineering, game that actually performs well, has everything plane crazy could ever dream of and more and just *works*

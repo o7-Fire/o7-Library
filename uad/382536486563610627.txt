@@ -1,0 +1,173 @@
+The Tale of classified5116 (382536486563610627)
+plane-crazy 2020-04-22 02:57:22 Are landing gears opening upwards now
+general 2020-04-24 11:54:43 Hi does anyone know what the note names are for the minimum and maximum horn pitch
+general 2020-04-24 11:59:35 Dude today I went around servers playing the soviet anthem on horns
+general 2020-04-24 12:00:31 And I kinda worked out the tunings for most notes(inaccurate)
+general 2020-04-24 12:01:00 So I needed the max and min pitch so I can work it out using logarithms
+general 2020-04-24 12:01:41 Since I think the tuning-pitch relationship shld be 5 log y=x
+general 2020-04-24 12:03:00 Idk from age of 9-12 I was in my nation's gifted education programme so probably top 1% in my country?
+general 2020-04-24 12:03:23 But my nation's education system is also super intensive soo
+general 2020-04-24 12:03:54 Im 15 rn
+general 2020-04-24 12:04:15 Gifted education prog ends at 12 yrs old in my country
+general 2020-04-24 12:04:33 Then rn im in arguably my nation's top secondary institute
+general 2020-04-24 12:05:06 But eh even our top schools arent that op
+general 2020-04-24 12:05:43 Yes because we have people who still think (a+b)^2 = a^2+b^2
+general 2020-04-24 12:06:08 Algebraic identities
+general 2020-04-24 12:06:47 Still my maths is actually kinda failing in my school
+general 2020-04-24 12:07:01 Its my science im actually good at
+general 2020-04-24 12:07:12 Yes all my assignments are failing but my tests are alright
+general 2020-04-24 12:08:00 From my experience not rly lol I still cant do indices and logarithms questions very well but when I was 12 I was learning quantum mechanics on my own
+general 2020-04-24 12:09:18 Its alright bro being gifted doesnt mean success or sth
+general 2020-04-24 12:09:47 <@435864400235200522> how to understand log lg and ln
+general 2020-04-24 12:10:05 Logarithmic functions
+general 2020-04-24 12:10:19 Its my math topic rn and im dying
+general 2020-04-24 12:11:24 Btw leon where did u get the 2 note values from is it by hearing?
+general 2020-04-24 12:11:50 Oh bruh
+general 2020-04-24 12:12:06 Im quite certain the highest note is an f sharp or f
+general 2020-04-24 12:12:31 No like for the horns
+general 2020-04-24 12:13:03 I have relative pitch and I checked with my friend with perfect pitch
+general 2020-04-24 12:13:26 Oh nice lol
+general 2020-04-24 16:28:49 At last through use of logarithms, tuning pitches, combined hearing of 2 ppl and at the cost of my ears I have concluded that the max horn pitch is f6, min pitch is c3, 41 semitones range, graph of note against tuning is log 5y=x {0<x<1}. Now time to get all the tuning values I need and note them down in game lol
+creations-chat 2020-04-27 02:34:32 Aegis AS-14 Reaper
+creations-chat 2020-04-27 02:34:53 Aegis Reborn SB-2 Hawkeye
+creations-chat 2020-04-27 02:35:12 Aegis Reborn AS-4 Conard
+creations-chat 2020-04-27 02:35:37 Stealth F/A-37 Talon. Capable of sweep wing
+creations-chat 2020-04-27 02:35:50 B-1 Lancer
+creations-chat 2020-04-27 04:17:20 Solar system!
+creations-chat 2020-04-27 04:17:49 what
+creations-chat 2020-04-27 04:17:52 how is it fake
+creations-chat 2020-04-27 04:18:11 uh it does
+creations-chat 2020-04-27 04:18:20 the blue ball in the inner solar systme
+creations-chat 2020-04-27 04:18:40 maybe I make it a bit green
+creations-chat 2020-04-27 04:28:22 hm if its on the ground and not the rails it might be the P 1500
+creations-chat 2020-04-27 15:40:53 Cant believe that my high effort lancer got downvoted and my lower effort reaper fared pretty well
+creations-chat 2020-04-27 15:41:18 And my lowest effort solar system is at 29 upvote
+creations-chat 2020-04-27 15:41:22 Ohhh ok thx ic
+creations-chat 2020-04-27 15:41:52 Just some stuff I submitted lol
+creations-chat 2020-04-27 15:42:46 Imma go make more space stuff prob. Jupiter with jovian moons, saturn n titan, neptune w triton etc
+creations-chat 2020-04-27 15:43:21 Plot was too small to build in the moons and I aint making a folding solar system
+creations-chat 2020-04-27 15:43:32 Ive added the kuiper belt and planet 9 tho
+creations-chat 2020-04-28 11:29:59 It is germoney solar system yes
+plane-crazy 2020-05-05 15:43:01 Anyone got some good symbols for crosshairs
+plane-crazy 2020-05-05 15:43:12 Rn I use circled plus
+plane-crazy 2020-05-06 09:36:24 Has anyone ever pulled off making a heli that doesnt need counter rotating props
+plane-crazy 2020-05-06 09:37:07 Im trying it out rn and I swear my brain cells are dying
+plane-crazy 2020-05-06 09:37:39 Balancing the chopper is harder than getting it to stop swinging around
+plane-crazy 2020-05-06 09:37:58 Because after I balance it with weight the chopper cant even get off the ground
+plane-crazy 2020-05-06 10:18:36 How do you guys steer ur helis
+plane-crazy 2020-05-06 10:26:57 Is it required to hv swashplate
+plane-crazy 2020-05-06 10:32:13 Oh hmm
+plane-crazy 2020-05-06 13:56:42 Cameras?
+plane-crazy 2020-05-06 13:57:04 Ah
+plane-crazy 2020-05-06 13:57:13 Also anyone got tips for stabilizing a heli
+plane-crazy 2020-05-06 13:57:26 A heli with a homemade swashplate
+plane-crazy 2020-05-06 16:55:53 Anyone got a good swashplate tutorial to recommend
+plane-crazy 2020-05-06 17:07:40 Not engine
+plane-crazy 2020-05-06 17:07:44 Control surface
+plane-crazy 2020-05-06 17:07:54 Like a very elaborate control surface setup
+plane-crazy 2020-05-06 17:09:22 Where do I find a vid or guide on sakuras swashplate
+plane-crazy 2020-05-06 17:10:09 So um anyone got a swashplate guide that I can use
+plane-crazy 2020-05-06 17:10:52 Ree homemade swashplates here I go again
+plane-crazy 2020-05-06 17:12:17 Oo
+plane-crazy 2020-05-07 02:50:50 guys does the swashplate tutorial on the plane crazy wiki work
+plane-crazy 2020-05-07 02:59:09 epic
+plane-crazy 2020-05-07 03:03:49 does swashplate on plane crazy wiki work
+plane-crazy 2020-05-07 03:03:56 like the tutorial there
+plane-crazy 2020-05-07 03:04:24 theres a swashplate tutorial on the plane crazy wiki
+plane-crazy 2020-05-07 03:04:31 I think its written by sakura
+plane-crazy 2020-05-07 03:04:39 but when I build it and test it the rotors droop
+plane-crazy 2020-05-07 03:07:16 images were added by an account called 1ASakuraA1
+plane-crazy 2020-05-07 03:08:30 I built it and my rotors just spaz out when I activate the motor
+plane-crazy 2020-05-07 03:13:29 w h a t
+plane-crazy 2020-05-07 03:13:33 its BRRRRRTTTTT
+plane-crazy 2020-05-07 07:58:06 I have created a flyable single main rotor swashplate heli
+plane-crazy 2020-05-07 07:58:13 Am I one of the only to do so
+plane-crazy 2020-05-13 15:15:14 Heh rick making speakers a gamepass isnt gonna stop me from making music
+plane-crazy 2020-05-13 15:15:24 Pulls out mathematically tuned horns
+plane-crazy 2020-06-03 11:29:56 Anyone here got tips on how to build logic gates
+plane-crazy 2020-06-03 11:42:58 I saw someone made a mechanical logic gate
+plane-crazy 2020-06-03 11:43:15 I almost did it but I cant seem to translate the output into something useful I think
+creations-chat 2020-06-12 08:43:23 Is someone going around with a massive robot trying to rick roll the entire plane crazy community
+help 2020-06-28 15:13:21 
+help 2020-06-28 15:13:34 Help how should I build the barrel
+help 2020-06-28 15:15:02 Uhh trail is kinda too thin and cylinder is too thicc
+help 2020-06-28 15:15:21 And I dont hv enough guns to spam
+help 2020-06-28 15:15:27 Is there any other option
+help 2020-06-28 15:16:09 Hmm might try that(kinda off centered but ehh)
+help 2020-06-28 15:16:15 On a side note
+help 2020-06-28 15:16:26 Anyone here ever tried out reactive armor
+help 2020-06-28 15:17:42 Mmm are they capable of destroying or reducing dmg from incoming tnt blocks?
+help 2020-06-28 15:24:01 Oh rip I dont but when winter comes around ig I could use em
+help 2020-06-28 15:24:09 But thx for info
+help 2020-06-28 18:04:19 ooo good idea I was wondering how to use locked motors
+help 2020-07-13 08:19:30 <@283153622496182274> plane wobble when stabilizer(horizontal or vertical) not big enough
+help 2020-07-13 08:19:39 And speed too high
+help 2020-07-13 08:19:52 I think its called phugoid oscillations but im not sure
+help 2020-12-17 03:37:35 Hi guys anyone know how to make sparklers stick to each other(like in a gun barrel)
+help 2020-12-17 03:42:53 The sparkler base doesnt extend to the sides of the block tho, so to speak
+help 2020-12-17 03:43:00 So it would drop even with camera
+help 2020-12-17 03:43:18 And I tried motor locking trails into the row of sparkleds but the sparklers just glitched out
+help 2020-12-17 03:43:27 Im not that good at motorlock tho
+help 2020-12-17 03:43:52 Oof ok
+help 2020-12-17 03:45:17 Same as above, the sparkler base does not extend all the way to the edge
+help 2020-12-17 03:45:23 Unlike motors etc.
+help 2020-12-17 03:45:42 What
+help 2020-12-17 03:45:44 How many sides weld
+help 2020-12-17 03:45:54 Only one side welds?
+help 2020-12-17 03:47:00 Then wouldnt I have to place the sparker bottoms all facing the same side
+help 2020-12-17 03:47:04 Doesnt work for a gun barrel
+help 2020-12-17 03:47:42 Uhh ok ill think and see what I can do
+help 2020-12-17 03:48:14 O_O
+help 2020-12-17 03:48:19 Ok me try
+help 2020-12-17 03:49:28 Ahh okay
+help 2020-12-17 03:56:14 kk
+help 2022-05-01 06:14:18 How do I make custom landing gear?
+help 2022-05-01 06:14:31 Need help with making the landing gear on a da40
+help 2022-05-01 06:39:52 And do half blocks not generate lift? My wings dont seem to be working
+help 2022-05-01 06:41:02 Youre telling me I spent hours making wings with custom control surfaces, motor locked winglets and working flaps for nothing?!
+help 2022-05-01 06:41:30 Wait but ive seen someone make a plane fly using normal blocks as wings, normal blocks work but custom dont?
+help 2022-05-01 06:42:17 Ooooo
+help 2022-05-01 06:42:24 Ok me try that
+help 2022-05-01 06:42:38 How to custom landing gear btw?
+help 2022-05-01 06:43:40 Okies ty
+help 2022-05-01 06:43:47 Nah my aircraft has fixed gear
+help 2022-05-01 06:43:57 So just need to figure how to model the strut and wheel
+help 2022-05-01 06:56:13 If I cant motor lock enough wing panels inside my wings I can just shove them into anywhere in my plane right
+help 2022-05-01 07:06:49 Dont know if I have enough to lift my plane
+help 2022-05-01 07:07:05 I built my main wings using half blocks so theyre not generating any lift
+help 2022-05-01 07:07:17 Spent so much time, even made it aerofoil shaped and it wont lift lol
+help 2022-05-01 07:39:02 Yep thats what im doin
+help 2022-06-10 15:49:17 Guys, fuel in plane crazy travels by bluetooth?
+help 2022-06-10 15:49:41 Damn
+help 2022-06-10 15:50:00 Whatever, inf fuel best fuel
+bug-reports 2022-06-10 16:07:33 Anyone here ever have issues with the colour of text not saving?
+bug-reports 2022-06-10 16:07:43 I have 2 text blocks in my build that for some reason refuse to stay black even after saving
+bug-reports 2022-06-10 16:07:56 Try typing "Launch, H, X, F, Shift, Ctrl, B, N, T, R" into a 1x3 text, colouring it, saving it and loading it again
+bug-reports 2022-06-10 16:08:31 I have been able to replicate this problem on different saves, it seems to exist for all text but not for signs
+bug-reports 2022-06-10 16:09:06 How to make it save?
+bug-reports 2022-06-10 16:09:46 I experimented length of text seems to have something to do with it...but I do have texts with more text that do save
+bug-reports 2022-06-10 16:10:04 Dang
+bug-reports 2022-06-10 16:10:41 Lol ic
+bug-reports 2022-06-10 16:14:47 Yup I think I figured it out
+bug-reports 2022-06-10 16:15:02 Putting multiple commas in a single text glitches it
+bug-reports 2022-06-10 16:15:19 If you save ,,, and reload it, it will load as ,0,0,0,
+bug-reports 2022-06-10 16:15:59 If you have some letters in front of the ,0,0,0, the game confuses the zeros at the end for the colour code or something and thus glitches out the colour
+bug-reports 2022-06-10 16:18:53 By replacing commas with slashes the problem is fixed!
+help 2022-06-27 14:23:22 What colours to use for afterburner trails?
+help 2022-08-03 02:38:11 My plane was flying perfectly straight and level yesterday (and has been for a long time), how come it is suddenly out of balance today? I didnt make any changes to it
+help 2022-08-03 02:38:34 If anyone has ideas for an elevator trim system im open to them too
+help 2022-08-03 03:01:01 Screenshot won't help, I use a combination of ballast blocks, motorlocked wings and propeller torque to keep the plane straight and level
+help 2022-08-03 03:28:26 Hmm possibly...my flaps were a bit glitchy today too
+help 2022-09-24 05:22:18 Anyone know how to make a non-collidable wall?
+help 2022-09-24 05:22:26 Saw it in some builds before but cant rmb which block it uses
+help 2022-10-02 03:43:00 How do yall make elevator and rudder trim for ur planes?
+help 2022-10-02 03:57:41 Do you attach the trim tabs to the back of your plane? Or just stick em within the hull
+help 2023-07-02 03:53:16 how do yall stabilise your helicopters? I find that my heli has a tendency to yaw and roll when I move it forward, I suspect it is because the advancing rotor blade has a higher airspeed and thus generates more lift and drag than the retreating blade
+help 2023-07-02 04:08:29 oh yeah the helium on a suspension does help
+help 2023-07-02 04:08:43 any way to do it without helium though? it looks kinda ugly :p
+help 2023-07-02 04:09:32 ahh
+help 2023-07-02 04:10:11 inside the heli?
+help 2023-07-02 04:16:55 ooh
+help 2023-07-02 04:18:17 like counterrotating props?
+help 2023-07-02 04:18:49 ohh
+help 2023-07-02 04:19:19 ill try that, thx

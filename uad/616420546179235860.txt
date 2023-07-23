@@ -1,0 +1,29 @@
+The Tale of not_why (616420546179235860)
+help 2022-11-23 19:12:14 how do i make my boat fsater, I added more water propel and it got slower
+help 2022-11-23 19:13:20 the weight is the water propllor
+help 2022-11-23 19:14:10 water propellor 2
+help 2022-11-23 19:15:25 
+help 2022-11-23 19:15:35 the rocket section is where a layer of water propellor was
+help 2022-11-23 19:16:08 yes
+help 2022-11-23 19:16:22 without adding that layer i get 140
+help 2022-11-23 19:16:25 adding it i get 120
+help 2022-11-23 19:17:19 oof
+help 2022-11-23 19:17:23 where
+help 2022-11-23 19:17:50 not that i know of
+help 2022-11-23 19:17:58 iswater propellor 2 or 1 more efficent
+help 2022-11-23 19:21:13 k
+help 2022-11-23 22:17:54 how do i add grip to cylinders
+help 2022-11-23 22:51:37 i did use regular cylinders
+help 2022-11-23 22:51:40 no work
+bot-central 2022-11-23 22:55:30 !rank
+help 2022-11-23 23:24:30 does camera configureation save?
+help 2022-11-23 23:29:58 everytime i load the save in it turns to original spot again
+help 2022-11-24 00:18:22 any workarounds?
+help 2022-11-24 00:18:54 then how do you do camera lock?
+help 2022-11-24 17:49:45 my plane breaks whenever i use ice material
+help 2022-11-24 17:55:07 bruh
+help 2022-11-24 17:55:14 and how?
+help 2022-11-24 17:57:12 Works fine with default material
+help 2022-11-24 17:58:49 How fix then
+help 2022-11-24 18:27:35 Rockets
+help 2022-11-24 18:27:41 Super rocket engine

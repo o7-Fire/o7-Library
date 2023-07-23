@@ -1,0 +1,87 @@
+The Tale of armorpower (300647637198176257)
+bug-reports 2019-05-23 01:13:52 ok so i made a "death blade" just a lot of spinning parts that go very fast an for what ever reason one single motor at the bottom aka one of the first motors to spin just flat wont spin at all not even a little bit i remove it and the next motor down doesnt spin why does this happen?
+plane-crazy 2019-05-23 01:18:55 could anyone know like really knows motors help me with a motor not spinning problom
+plane-crazy 2019-05-23 01:19:56 idk you said it
+plane-crazy 2019-05-23 01:20:45 do you know motors in plane crazy
+plane-crazy 2019-05-23 01:20:48 ?
+plane-crazy 2019-05-23 01:21:11 do you know them very well?
+plane-crazy 2019-05-23 01:21:23 like could explain if you looked at a build why one doesnt spin?
+plane-crazy 2019-05-23 01:21:48 i have everything set to defualt keybinds for the motors
+plane-crazy 2019-05-23 01:22:56 well its blocks spinning connected to more motors making heigher ones spin faster
+plane-crazy 2019-05-23 01:24:00 they are all facing the same way though
+plane-crazy 2019-05-23 01:24:25 and right now the bottom ones are set to speed 1 where as the rest are speed 20
+plane-crazy 2019-05-23 01:24:42 could you just join me and look at it?
+plane-crazy 2019-05-23 01:25:02 because i could?
+plane-crazy 2019-05-23 01:25:07 h
+plane-crazy 2019-05-24 16:27:44 Ok so anyone have a good answer as to why motors all facing the same way with the same keybinds can spin in a random direction when powered?
+plane-crazy 2019-05-24 16:28:07 That was a fast and random answer
+bug-reports 2019-08-17 18:46:03 How has the 2019 winter happened that was made at the end of 2018 winter
+bug-reports 2019-08-17 18:50:05 Ok but winter is the end of the year not beginning
+help 2020-01-12 20:00:14 So this is both a bug and a I need help for my friend so we are trying to play together but when he got into the server it put him into the middle or so of the map with no plot to even build on
+help 2020-01-12 20:01:00 They did it didn't fix it
+bug-reports 2020-01-12 20:22:02 <@435946988559925248> same here expect my friend is trying to join me leaving and rejoining doesn't help either
+general 2020-03-12 04:48:07 Are hover thrusters ment to stop them self if in a loop?
+general 2020-03-12 04:49:55 I set the drag to 0 and they are on motors to get them in the loop they force the motors to turn without my input making the slow then reverse and stop
+bug-reports 2020-03-12 04:53:43 Hover thrusters and motors don't work well together trying to make a spinner with hover and motors to just barely turn them to face the ground control of speed and it randomly turns the motors without input hover are all set to 0 drag motor is set to powered
+general 2020-03-12 04:56:06 Wait isn't advertising not allowed here? Just like 99% of servers?
+general 2020-03-12 05:03:30 Lol def 5 seconds more like 3 frames I blinked and it was gone
+general 2020-03-12 05:04:13 Jeez motors and hover thrusters are impossible to use together for a spinner
+general 2020-03-12 05:34:02 So um I think I have broke the game using only motors and hover thrusters
+general 2020-03-12 05:35:16 Yes but like a feed back loop of a poll gaining spinning momentum endlessly
+bug-reports 2020-04-08 22:53:05 The blue lines for plane info doesn't show up at random it some times does but a lot of the times it doesn't why is this?
+plane-crazy 2020-04-17 10:40:14 The only thing I seem to be good at making are very fast spinning blades that wack people to a new dimension
+bug-reports 2020-04-18 01:18:36 So the automatic controls on the control panels is what causes the camera to be annoying? So what if I'm not using any flying blocks at all? What's the cause for the camera to still be annoying?
+Edit: so wheels count as a flying block to make the camera annoying I just checked all  control changing blocks and the wheels were the only one to have the set auto controls
+bug-reports 2020-04-18 01:24:07 A new um big the wheels just flat up are broken without the auto control they have fully locked themself in the turning form
+bug-reports 2020-04-18 01:24:48 The arrows are facing forward
+bug-reports 2020-04-18 01:25:29 I placed the wheels the same way I have on all my other builds this is the first time it's broke and the first time I turned the auto setting off
+general 2020-04-23 01:01:25 I think I got a rare green wep it's stronger then a blue wep which is the same wep
+plane-crazy 2020-05-09 22:46:59 I have built a plane that either has reversed flying controls aka you go left and it goes right or it just can't turn
+plane-crazy 2020-05-09 22:47:35 It's the most stabile line glider I have ever seen to you could be angled 45 degrees and it still goes straight
+plane-crazy 2020-05-09 22:48:02 You want a phone picture?
+plane-crazy 2020-05-09 22:48:42 Discord on PC is extremely laggy so not happing if you want a mobile pic though
+plane-crazy 2020-05-09 22:48:47 Here ya go
+plane-crazy 2020-05-09 22:51:37 But I have build a super tiny plane with basically the same build and it flys in anyway I want it to even straight up this one on the other hand refuses to turn it can go up down straight up upside-down even
+plane-crazy 2020-05-09 22:52:13 It's mass it's insanely low
+plane-crazy 2020-05-09 22:52:26 The blocks are ballast at lowest density
+plane-crazy 2020-05-09 22:54:30 The motors are to give it a little angle
+plane-crazy 2020-05-09 22:54:41 3 degrees if I turn them on
+plane-crazy 2020-05-09 22:54:46 Aka lazy mode
+plane-crazy 2020-05-09 22:59:49 Bruh I flew into the giant death blades on the island I survived with my seat I jumped and it made me go into it
+plane-crazy 2020-05-09 23:00:34 And how fast is your hyper sonic?
+plane-crazy 2020-05-09 23:00:55 I have a build that yeets you out of the world border XD
+plane-crazy 2020-05-09 23:01:18 There technically is it's just really far
+plane-crazy 2020-05-09 23:01:35 And it helps when you are yeeted at a few quintillion speed
+plane-crazy 2020-05-09 23:04:49 That's 14 zeros
+plane-crazy 2020-05-09 23:05:07 How would you hit inf
+plane-crazy 2020-05-09 23:05:30 The fastest I've hit when using just a really glitchy build is 3e38
+plane-crazy 2020-05-09 23:07:02 Um I dont know how but I broke suspensions with no force
+plane-crazy 2020-05-09 23:07:26 No force being applied at all and they just expanded
+plane-crazy 2020-05-09 23:07:46 A form of thrust with rope?
+plane-crazy 2020-05-09 23:08:44 Hmm I think Harvard would like a word with you XD
+plane-crazy 2020-05-09 23:11:01 Um my glitchy build yeeted me out of the seat
+plane-crazy 2020-05-09 23:11:20 Legit it made me get out of the seat and yeet me to the other side of the map perfectly
+plane-crazy 2020-05-09 23:12:41 Big build energy
+plane-crazy 2020-05-09 23:35:44 How does the physics option work for a anchor block?
+plane-crazy 2020-05-09 23:36:32 That doesn't make sense
+plane-crazy 2020-05-09 23:40:12 I'm still confused
+plane-crazy 2020-05-09 23:40:52 I noticed it rotates without moving so I wanted to make a "blackhole" aka a sphere that just spins fast
+bug-reports 2021-03-11 23:51:58 I dont know what i did but i somehow managed to perma glitch the main pilot seat so that it never stays where its normally placed. Ignoring blocks as well so it can glitch into other blocks and the game thinks its fine somehow
+general 2021-03-13 02:54:19 Is making a build with speakers expand the whole convayor forcing people to listen to music or mute music fully bannable?
+general 2021-03-13 02:54:38 Then why is it allowed?
+general 2021-03-13 02:54:44 Like its annoying
+general 2021-03-13 02:54:57 Blacklisting doesnt do anything when its not in the plot
+general 2021-03-19 09:37:38 How and where would i do a suggestion for plane crazy?
+bot-central 2021-03-19 09:38:29 ?rhelp
+general 2021-03-19 09:41:23 Would i be able to pass a suggestion to someone who has a rank? As not one of my builds meets any requirements mainly because i dont build vehicles
+general 2021-03-19 09:42:10 I build spinners and weird none vehicle builds
+general 2021-03-19 09:42:20 Like a gyroscope
+general 2021-03-19 09:43:32 Do i just take a picture of my build and put it there?
+general 2021-03-19 09:48:06 Technically the sound you hear is the gunpowder exploding behind the bullet
+general 2021-03-19 09:51:23 Are we talking about a csgo awp or the spray and pray god the negev?
+creations-chat 2021-03-19 09:53:20 Why does nobody like a hypercube?
+general 2021-03-19 09:57:17 So do people really not like a spinning hypercube?
+general 2021-03-19 09:57:42 Or are they just bs downvoting because i took a picture and not a screenshot?
+general 2021-03-19 09:58:11 You do know what a hypercube is right?
+general 2021-03-19 09:59:57 A hypercube is a cube within a cube within a cube and so on
+general 2021-03-19 10:01:00 <@454570394343702529> no one likes that expect for me so i guess i dont count as someone

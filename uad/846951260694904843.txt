@@ -1,0 +1,16 @@
+The Tale of lmantw (846951260694904843)
+general 2022-03-25 03:26:58 .w.w..w..w.w..w..w.w..w..w.w..w..w.w..w
+general 2023-07-12 03:19:36 how can i report suggestion?
+general 2023-07-12 03:21:18 so if you want to report suggestion you need to join another server?
+general 2023-07-12 03:21:49 oh ok...
+general 2023-07-12 03:26:08 my english speaking is bad
+general 2023-07-12 03:26:13 like very bad
+bot-central 2023-07-12 03:31:32 !rank
+general 2023-07-12 04:10:50 can we have a thing can "program" control the components like motor, jet. engine etc....
+and the program will like
+```
+when A key press:
+  press W key for 5s and press D key for 2s
+  press S key for 5s and press A key for 2s
+```
+general 2023-07-12 04:11:03 if there's anyone want to report this suggestion

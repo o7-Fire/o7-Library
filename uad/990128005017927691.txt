@@ -1,0 +1,215 @@
+The Tale of phantom_101 (990128005017927691)
+plane-crazy 2022-12-11 08:43:31 https://youtu.be/mwENW9gECZI ohio final boss fight but plane crazy
+help 2022-12-14 02:11:35 how come my hover engine doesnt go past 300+ speed
+help 2022-12-14 02:13:33 does having blocks around my hover engine affect it working properly?
+general 2022-12-14 02:23:15 what pcc
+general 2022-12-14 02:23:25 oh nvm im stupid
+help 2022-12-14 02:24:14 why doesnt my hover engine work
+creations-chat 2022-12-14 02:26:35 i wanna try making the UNSC infinity but idk the dimensions and stuff in plane crazy scale
+plane-crazy 2022-12-14 02:27:51 i wanna try making the UNSC infinity from halo but idk the dimensions
+plane-crazy 2022-12-14 02:28:13 like how long is it in plane crazy blocks and how wide and how tall and stuff
+plane-crazy 2022-12-14 02:29:22 idk how to though
+plane-crazy 2022-12-14 02:29:39 im not sure where to start cause i dont know how big it would have to be
+help 2022-12-14 02:59:28 15 speed 0 drag ignore others OFF
+help 2022-12-14 03:11:06 Piston
+help 2022-12-14 03:11:20 Everything set to 0 and unpowered
+help 2022-12-14 03:11:55 Toward them I believe
+help 2022-12-14 03:12:09 I can’t check right now cause I’m in bed
+help 2022-12-14 03:12:24 Actually I probably could
+help 2022-12-14 03:12:37 K I will now
+help 2022-12-14 03:17:25 How can I use motors for it
+help 2022-12-14 03:17:37 Cause I made sure it was facing right way and it was still slow
+help 2022-12-14 03:17:54 And yeah it’s being motorlocked so that might be the problem
+help 2022-12-14 03:18:54 So I replace it with an unpowered motor?
+help 2022-12-14 03:22:42 I replaced it with an unpowered motor and it still didn’t work
+help 2022-12-14 03:23:02 Does blocks surrounding it affect it?
+help 2022-12-14 03:23:39 <@700813401030393896>
+help 2022-12-14 03:24:42 I used a unpowered motor and it still didn’t work properly
+help 2022-12-14 03:24:47 Facing them
+help 2022-12-14 03:25:21 Lemme figure out how to screenshot on mobile real quick
+help 2022-12-14 03:27:58 
+help 2022-12-14 03:29:10 Any idea why?
+help 2022-12-14 03:30:49 Like barely over 300
+help 2022-12-14 03:31:38 Yes
+help 2022-12-14 03:35:24 Propellers
+help 2022-12-14 03:35:33 For realistic landing
+help 2022-12-14 03:35:38 Carrier style l
+help 2022-12-14 03:38:21 They are at max speed with no drag
+help 2022-12-14 03:39:00 Try putting a motor in the middle?
+help 2022-12-14 03:39:16 My friend told me to put one In middle but it did nothing
+help 2022-12-14 03:39:19 Lemme try that brb
+help 2022-12-14 03:39:53 Small f35
+help 2022-12-14 03:40:57 
+help 2022-12-14 03:44:17 Didn’t do anything
+help 2022-12-14 03:46:23 
+help 2022-12-14 03:47:47 Idk how to fit them
+help 2022-12-14 03:48:03 And I’m on mobile so I can’t completely rebuild it ‘em
+help 2022-12-14 03:48:07 Right now
+help 2022-12-14 03:48:45 I don’t think making them a set of four would make it speed up by several hundred
+help 2022-12-14 03:48:57 I could probably do that
+help 2022-12-14 03:49:04 Like a set of four
+help 2022-12-14 03:49:12 Nvm it would stick out of back
+help 2022-12-14 03:49:35 Lemme get on my computer and try
+help 2022-12-14 03:55:08 This is risky cause if I get caught I’ll be in trouble lol
+help 2022-12-14 03:59:03 ok i rebuilt the engines higher up on the motorlock tower with two sets of 4 thrusters and it made me go about 400 speed so it did increase it
+help 2022-12-14 03:59:24 ill try adding another
+help 2022-12-14 04:01:45 holy crap that definitely worked its going about 750 speed now
+help 2022-12-14 04:02:16 thanks lol
+help 2022-12-14 04:05:30 only problem is that it shakes a little bit but ill figure out how to fix it
+help 2022-12-14 04:21:40 i thought it was cause of my speed
+help 2022-12-14 04:21:48 also im able to go over 1 k speed lol
+help 2022-12-14 04:22:46 yeah
+help 2022-12-14 04:22:58 also my plane is quite small so it will get very unstable if i made it any faster
+help 2022-12-14 04:23:54 its much shakier all of a sudden
+help 2022-12-14 04:25:49 all over the place lol
+help 2022-12-14 04:26:38 basically has a seizure mid air
+help 2022-12-14 04:27:09 actually its mostly up and down
+help 2022-12-14 04:27:17 normal stuff
+help 2022-12-14 04:27:29 does metal make things heavier?
+help 2022-12-14 04:27:55 let me lower the max angle
+help 2022-12-14 04:27:58 of my control flaps
+help 2022-12-14 04:28:06 that might have something to do with this
+help 2022-12-14 04:28:51 fantom_forces101
+help 2022-12-14 04:28:53 joins are on
+help 2022-12-14 04:31:53 whats your user
+help 2022-12-14 04:32:12 nvm i see you
+help 2022-12-15 02:24:26 no cause its working fine for me
+help 2022-12-15 02:24:42 im working on a new darkstar aircraft though that will go like 5k+ speed cause why not
+help 2022-12-15 02:26:09 it sucks though
+help 2022-12-15 02:26:24 im basing it off of like one picture that i ever saw of it
+help 2022-12-15 02:27:53 wait that was a pic of it earlier this is the newer picture
+help 2022-12-15 02:28:08 right now its going about 1.3 k and is smooth but i dont have any altitude rudders so i cant properly test it yet
+help 2022-12-15 02:28:58 holy crap nvm its going about 2.3 k
+help 2022-12-15 02:29:09 pic of it not loading in
+help 2022-12-15 02:29:12 <@700813401030393896>
+help 2022-12-15 03:17:50 darkstar
+general 2023-01-07 01:01:40 has there still not been any real information on plane crazy 2 coming out?
+help 2023-01-07 06:23:52 my flying dorito is hard to control and every time i try to turn it leans really far down and loses altitude quite quickly and idk what to do to fix it
+help 2023-01-07 06:24:15 im not sure how to add rudder to a b2 since they dont have vertical rudders
+help 2023-01-07 06:27:37 i can be basically on my side and and my plane will be angled really weirdly and not control very well and it makes turning quite difficult
+creations-chat 2023-01-07 16:20:25 work in progress b2 bomber that can drift lol working on adding some landing gear and a realistic bomb bay with guided cluster missiles or bombs
+creations-chat 2023-01-07 16:23:06 wait are you not able to do that? i guess for the most part its finished its just i havent added the pvp aspects to it yet
+creations-chat 2023-01-07 16:25:41 oh well i guess it is finished though idk if i even want to add landing gears or a bomb bay yet
+creations-chat 2023-01-08 04:34:32 its my b2 that im working on and is basically done
+creations-chat 2023-01-08 04:36:43 engines are supposed to be flat? also this was my first big non tutorial build and i think it ended up somewhat decent also im doing cockpit later and i just built it off of a model on Sketchfab
+creations-chat 2023-01-08 04:42:31 slightly more updated picture i finished the front landing gear and gonna start the back soon also i dont see a problem with the engines also on the model i used i think the wings were slightly wider on edges
+creations-chat 2023-01-08 04:44:37 also is the b2 a black/grey color or a slight blueish color?
+creations-chat 2023-01-08 04:47:58 in majority of the pictures i see its a blue color also just edit messages to talk cause stupid cooldown
+creations-chat 2023-01-08 04:51:57 i think ill keep the wingtips the same for now cause it will be painful to fix them cause ill have to fix the rudders and stuff
+creations-chat 2023-01-08 04:54:31 whats the issue with the engines cause i dont see anything wrong with them
+creations-chat 2023-01-08 04:58:59 tbh i cant tell a difference other than length but the top one looks the best although i have no idea what the su 35 looks like so yes
+creations-chat 2023-01-24 02:12:47 im trying to make the UNSC infinity and want it to be the biggest but realistic size ratio so i did some math and stuff and the ratio of length:width:height is about 6.8:1:1.2 and i need help to figure out the perfect size for it
+creations-chat 2023-01-24 02:15:03 i dumbed it down for you
+creations-chat 2023-01-24 02:17:58 i know the ratio but when i did some other stuff to figure out the optimal width it came back as 22.5 blocks wide which is a bit too wide considering its literally almost half the plot and all the sides need to be about equal also 6.8 : 1 : 1.2 was just a rough estimate
+creations-chat 2023-01-24 02:22:23 when i divided 39 by 1.25 cause 39 is how tall the plot is i got about 32.5 for the width which does not make sense cause of the other estimates giving me things like 22.5
+creations-chat 2023-01-26 00:48:24 sorry
+plane-crazy 2023-01-30 18:57:04 just a normal day in plane crazy
+plane-crazy 2023-01-30 18:58:00 what is happening lol
+plane-crazy 2023-01-30 18:59:24 why do i keep getting flung every time i drive my tank into the water
+plane-crazy 2023-01-30 19:00:22 why?
+plane-crazy 2023-01-30 19:06:00 i guess
+plane-crazy 2023-01-30 19:09:07 wait,
+thats illegal
+general 2023-02-05 03:01:24 how did you get all those roles lol
+general 2023-02-05 03:03:37 most of my builds are tutorials lol
+general 2023-02-05 03:03:40 i suck at building
+plane-crazy 2023-02-05 04:02:48 why am i invisible and my dead body is just lying there
+plane-crazy 2023-02-05 04:03:43 i reset and it fixed it lol
+creations-chat 2023-04-02 04:18:36 i need some kinda 4th gen fighter that is pretty simple to try building because i suck at building and most of my stuff is tuts and i want to improve my skill
+help 2023-04-04 02:00:33 for some reason every time  i take off in my jet my ailerons freeze up and stop working, so it will just spin out of control every time they work fine on the ground and usually work but they just randomly stopped
+help 2023-04-04 02:02:23 they just lock up on the left position which makes my plane go to the left
+help 2023-04-04 02:02:43 worked fine before but now they arent working
+help 2023-04-04 02:03:01 yes but not around that area
+help 2023-04-04 02:03:03 nothing is obstructing it
+help 2023-04-04 02:04:20 nothing
+help 2023-04-04 02:04:29 they work fine on the ground but then lock up as soon as i take off
+help 2023-04-04 02:04:39 usually resulting in me nose diving into the ground since i cant control it
+help 2023-04-04 02:05:15 well fudge
+help 2023-04-04 02:05:25 idk how i can replace them for rn but still be as effective
+help 2023-04-19 21:51:21 why are control panels not working :/
+plane-crazy 2023-05-10 01:54:27 control panels have been broken for me for months for some reason and im not able to build or develop missiles because of it
+plane-crazy 2023-05-10 01:55:51 any know any idea why or how i can fix it?
+plane-crazy 2023-05-10 02:16:31 what game is that
+plane-crazy 2023-05-10 02:16:56 similar to plane crazy?
+plane-crazy 2023-05-10 02:24:32 joined it and its way better
+plane-crazy 2023-05-10 02:25:49 yeah this is actually insane
+plane-crazy 2023-05-10 02:29:10 does motorlocking exist?
+plane-crazy 2023-05-10 02:29:13 or anything similar?
+general 2023-05-27 01:02:23 how can i make a circle that can spin around the outside of my space ship
+general 2023-05-27 01:14:09 put a jumbo sized truck in the bed of the truck, and then a small rc truck in the bed of the jumbo sized truck inside the bed of the mega jumbosized truck
+general 2023-05-27 01:14:17 W idea
+general 2023-06-05 04:05:11 how many i make myself stop joining the same stupid pvp server
+general 2023-06-05 04:06:40 how can i stop joining the same stupid dead pvp server
+general 2023-06-05 04:07:10 no u
+plane-crazy 2023-06-05 04:07:26 how can i stop joining the same dead pvp server
+plane-crazy 2023-06-05 04:07:53 thats cool and all but what is it
+plane-crazy 2023-06-05 04:08:20 how
+plane-crazy 2023-06-05 04:08:29 server hopping just makes me join the same one
+plane-crazy 2023-06-05 04:08:37 even if i go to non pvp and back to pvp
+plane-crazy 2023-06-05 04:08:44 ikr
+plane-crazy 2023-06-05 04:08:54 what is it supposed to be
+plane-crazy 2023-06-05 04:09:07 no idea what that is
+plane-crazy 2023-06-05 04:09:08 2/10
+plane-crazy 2023-06-05 04:09:25 just looks like a hunk of junk to me
+plane-crazy 2023-06-05 04:09:42 oh thats basically what the ship is just looked it up
+plane-crazy 2023-06-05 04:10:08 i know ijust looked it up
+plane-crazy 2023-06-05 04:10:19 
+plane-crazy 2023-06-05 04:10:28 why are you only building the left engine
+plane-crazy 2023-06-05 04:10:39 also yellow is too bright
+plane-crazy 2023-06-05 04:10:45 supposed to be a faded orange
+plane-crazy 2023-06-05 04:11:02 well finish the test an build the rest
+plane-crazy 2023-06-05 04:11:06 hey that rhymed
+plane-crazy 2023-06-05 04:11:07 i think
+plane-crazy 2023-06-05 04:11:43 literally get working on finishing it then
+plane-crazy 2023-06-05 04:11:49 simple as that
+plane-crazy 2023-06-05 04:11:51 then i will rate it
+plane-crazy 2023-06-05 04:12:04 whats that supposed to be
+plane-crazy 2023-06-05 04:12:13 just looks like a hunk uh junk
+plane-crazy 2023-06-05 04:12:39 just copy that on the right
+plane-crazy 2023-06-05 04:12:43 after building main body
+plane-crazy 2023-06-05 04:12:51 just build a place holder body the same width as the actual thing
+plane-crazy 2023-06-05 04:12:59 then build right engine
+plane-crazy 2023-06-05 04:13:05 then finish up the center body
+plane-crazy 2023-06-05 04:13:10 did you not read what i just said
+plane-crazy 2023-06-05 04:13:24 build a placeholder body the same width as actual body
+plane-crazy 2023-06-05 04:13:26 then do engine
+plane-crazy 2023-06-05 04:13:31 then finish main body
+plane-crazy 2023-06-05 04:13:34 simple as that
+plane-crazy 2023-06-05 04:13:44 then put a 1x7
+plane-crazy 2023-06-05 04:13:47 then build engine
+plane-crazy 2023-06-05 04:13:48 ez
+plane-crazy 2023-06-05 04:14:04 then why you not building it
+plane-crazy 2023-06-05 04:14:20 what
+plane-crazy 2023-06-05 04:15:52 we cant rate it when we cant tell what it is
+plane-crazy 2023-06-05 04:15:57 finish ship and then we can rate it
+plane-crazy 2023-06-05 04:16:03 ez
+plane-crazy 2023-06-05 04:16:11 was it really that hard?
+plane-crazy 2023-06-05 04:19:26 i know the very basics of it cause of summit builds su57 tut that was hell to build
+plane-crazy 2023-06-05 04:51:50 how would that work
+plane-crazy 2023-06-05 05:14:39 build a hyper realistic f22
+plane-crazy 2023-06-05 06:17:26 im going super sonic speeds on a chunk of helium
+plane-crazy 2023-06-05 06:17:55 im tempted to leave it on overnight to see how fast it can get going
+plane-crazy 2023-06-05 06:18:02 some other guy got to like 500k before i disconnected
+plane-crazy 2023-06-05 06:18:21 nvm i fell off it
+plane-crazy 2023-06-14 04:25:52 whats a small propulsion system that can launch something far and can fit in a large ish bullet
+plane-crazy 2023-06-14 04:26:13 magnets dont work well enough
+plane-crazy 2023-06-14 04:31:22 any other ideas that would work
+plane-crazy 2023-06-14 04:31:24 since your a nerd
+plane-crazy 2023-06-14 04:35:06 anything else?
+plane-crazy 2023-06-14 04:37:57 ?
+plane-crazy 2023-06-14 04:38:39 how do i do that
+plane-crazy 2023-06-14 04:38:51 oh
+plane-crazy 2023-06-14 04:39:01 i could but i need the bullets to take up a small amount of space each
+plane-crazy 2023-06-14 04:39:13 so i can build them close enough to put them all in a magazine i can load into a gun
+plane-crazy 2023-06-14 04:52:40 Not really a way for me to connect the front and back if the bullet
+plane-crazy 2023-06-14 05:32:04 Yeah but I want it to be realistic
+plane-crazy 2023-06-14 05:32:30 Have it where the back launched the front part of the bullet forward and then the back can get ejected out of the side of the gun
+plane-crazy 2023-06-14 05:33:02 I had a working prototype that worked pretty well but the bullets were not very fast and I want to remake it
+plane-crazy 2023-06-14 05:33:45 <@434843195025653762>
+plane-crazy 2023-06-14 05:36:30 I’d have to figure out how to connect the pieces together if it were a hover engine
+plane-crazy 2023-06-14 05:36:39 Which I can probably do tomorrow
+general 2023-07-07 03:56:36 random guess is in the next couple months since this is in preparation for converting builds into pc 2
+general 2023-07-07 04:05:30 yo W update i can now fly my summit build su57 at +2 fps
+general 2023-07-07 04:12:33 how do you get ranks and stuff
+general 2023-07-07 04:13:17 we have given him years with basically nothing in return
+general 2023-07-15 04:04:18 i placed a control flap and got kicked cause of error 69

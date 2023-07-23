@@ -1,0 +1,2 @@
+The Tale of insperon (484878117698273320)
+bug-reports 2021-09-19 12:15:42 I discovered a bug where if you jump out of the piolet seat when in the pov of a camera, your characters head is registered as the camera

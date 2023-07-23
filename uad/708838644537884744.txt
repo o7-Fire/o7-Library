@@ -1,0 +1,180 @@
+The Tale of p0paul (708838644537884744)
+help 2020-08-16 19:33:43 what is rope restitution?
+help 2020-08-16 19:42:09 so... what is rope restitution? what does it do?
+help 2020-08-16 19:53:22 <#384027830192832513> then
+do the command `$new "your text and images here"` to create a rank request
+help 2020-08-16 22:10:39 <@!514591479457382442> you cant edit a suggestion
+bot-central 2020-08-30 21:47:58 &suggest Hello, this is a new block for Plane Crazy. This block is a `Corner wedge 1x2`. It could be useful to make some details in builds shapes. There are Corners, L Corners, R Corners, ...
+Links: 
+https://cdn.discordapp.com/attachments/747827120142680165/749745615033860227/Capture_decran_2020-08-30_a_23.40.26.png
+https://cdn.discordapp.com/attachments/747827120142680165/749745619178094632/Capture_decran_2020-08-30_a_23.40.39.png
+https://cdn.discordapp.com/attachments/747827120142680165/749745620377403545/Capture_decran_2020-08-30_a_23.40.43.png
+I hope you will agree with me about this block usage.
+Thank you for reading.
+bot-central 2020-08-30 21:48:38 did it work?
+bot-central 2020-08-30 21:50:07 what rank
+bot-central 2020-08-30 21:50:10 oh
+bot-central 2020-08-30 21:50:42 not this one
+bot-central 2020-08-30 21:50:56 this is not the same corner
+bot-central 2020-08-30 21:51:22 the corner is on the 1x1 side on this one
+bot-central 2020-08-30 21:51:37 ok
+bot-central 2020-08-30 21:52:16 there are no pinned message about that
+bot-central 2020-08-30 21:58:45 oh
+bot-central 2020-08-30 21:58:49 sorry for wedges
+bot-central 2020-08-30 21:58:58 what is the channel?
+bot-central 2020-08-30 22:02:38 ok
+bot-central 2020-08-30 22:02:47 I had the rank on my other account
+bot-central 2020-08-30 22:02:58 my discord account not roblox
+bot-central 2020-08-30 22:03:09 but my old discord account got deleted
+bot-central 2020-08-31 14:02:19 -underandom
+plane-crazy 2020-09-01 18:29:06 hi, I have a question
+plane-crazy 2020-09-01 18:29:39 is the jet engine propeller color saved?
+bug-reports 2020-09-01 19:30:58 this is a weird thing with the smoke pipes and probably with snow pipes too...
+bug-reports 2020-09-01 19:33:55 nothing to fix it?
+bug-reports 2020-09-01 19:34:10 ok
+bug-reports 2020-09-22 18:57:23 blue suspension string is missing on some of the suspensions. it does the same when a load.
+bug-reports 2020-10-25 13:24:38 sound not loaded (but not game fault)
+plane-crazy 2020-10-29 23:59:19 does someone have a tip to make a throttle motor?
+plane-crazy 2020-10-29 23:59:37 with a max angle but not a servo mode
+plane-crazy 2020-10-30 00:01:02 i tried putting a block to stop the motor at the angle but when there are two motors they don't stay aligned
+plane-crazy 2020-10-30 00:05:43 hmmm
+plane-crazy 2020-10-30 00:05:54 good idea
+plane-crazy 2020-10-30 00:06:04 should I use cameras?
+plane-crazy 2020-10-30 00:06:11 to make it invisible
+plane-crazy 2020-10-30 00:06:54 ok
+help 2020-12-13 17:31:08 what does rope restitution do?
+bug-reports 2021-01-30 20:25:05 my character's legs go through the black floor and I slide until I get out of the block... this is annoying when I build and when I'm just walking around
+bot-central 2021-02-02 13:46:29 !rank
+the-dump 2021-02-08 02:55:08 explosive pvp vehicles be like
+plane-crazy 2021-02-11 14:54:47 sad
+plane-crazy 2021-02-11 14:55:01 plane crazy is now translated
+plane-crazy 2021-02-11 14:55:25 it is for me
+plane-crazy 2021-02-11 14:55:45 at least french translasion exists
+plane-crazy 2021-02-11 14:56:47 I was about to cry when I saw that
+plane-crazy 2021-02-11 14:57:44 actually this time there are not that much errors with translation but...
+plane-crazy 2021-02-11 14:57:47 there are
+plane-crazy 2021-02-11 14:58:04 and also I dont really like translated games
+plane-crazy 2021-02-11 14:58:18 so I will turn my roblox into english language
+plane-crazy 2021-02-11 14:58:27 (probably)
+plane-crazy 2021-02-11 15:02:37 corrected (french translation)
+plane-crazy 2021-02-11 15:02:50 *héllium
+plane-crazy 2021-02-11 15:06:18 
+plane-crazy 2021-02-11 15:13:21 
+plane-crazy 2021-02-11 15:14:26 also in PvP there is the Lava one: Lance-lave
+plane-crazy 2021-02-11 15:15:22 ...
+plane-crazy 2021-02-11 15:15:41 pain au chocolat // chocolatine
+plane-crazy 2021-02-11 15:18:20 
+plane-crazy 2021-02-11 15:19:20 also Jet engine can be "moteurs à réaction"
+plane-crazy 2021-02-11 15:22:17 
+plane-crazy 2021-02-11 15:30:41 
+plane-crazy 2021-02-11 15:33:23 oops wrong person
+plane-crazy 2021-02-11 15:33:25 sorry
+help 2021-05-01 16:59:43 can someone explain me what rope restitution is actually doing?
+help 2021-05-01 17:00:16 what does that mean
+help 2021-05-01 17:02:40 I don't know what that means
+help 2021-05-01 17:02:49 I'm not english
+help 2021-05-01 17:11:25 ok
+help 2021-05-01 17:11:32 thank you for info
+help 2021-05-01 17:12:43 that's really helpful
+plane-crazy 2021-07-08 15:48:44 thx rick
+plane-crazy 2021-07-08 15:49:54 they are coming
+plane-crazy 2021-07-08 15:50:23 we are under attack of robux websites spam
+plane-crazy 2021-07-08 15:51:42 there is more of them
+plane-crazy 2021-07-08 15:52:17 we need to fire back but how
+plane-crazy 2021-07-08 15:53:22 when you type **'free robux'** it writes **'<-- scammer'**
+plane-crazy 2021-07-08 15:54:48 yeet
+plane-crazy 2021-07-08 16:17:41 it's night?
+plane-crazy 2021-07-08 16:19:30 low stability
+plane-crazy 2021-07-08 16:19:33 i think
+plane-crazy 2021-07-08 16:21:19 maybe physics changed a bit since that time
+plane-crazy 2021-07-08 17:40:59 what is the friction value for a block painted fabric?
+plane-crazy 2021-07-08 17:42:21 that's because I'm building a wheel and there are half fabric blocks and friction blocks
+plane-crazy 2021-07-08 17:43:42 no
+plane-crazy 2021-07-08 17:44:08 I mixed fabric half blocks and friction blocks
+plane-crazy 2021-07-08 17:45:11 I just need the fabric half block friction value to paste it on the friction blocks so the wheel has fraction equally
+plane-crazy 2021-07-08 17:47:40 
+plane-crazy 2021-07-08 17:47:55 it looks exactly like a fabric painted block
+plane-crazy 2021-07-08 17:48:31 
+plane-crazy 2021-07-08 17:48:36 and you can set the friction
+plane-crazy 2021-07-08 17:48:49 lol
+plane-crazy 2021-07-08 17:49:36 yea
+plane-crazy 2021-07-08 17:52:01 what value do I set to a friction block so it is as much as fabric?
+plane-crazy 2021-07-08 17:53:27 it has 60% more when its value is 2?
+plane-crazy 2021-07-08 17:54:25 ok
+plane-crazy 2021-07-29 02:57:51 hmmm
+plane-crazy 2021-07-29 02:58:19 ok
+the-dump 2021-08-20 14:23:44 I just made this
+the-dump 2021-08-20 14:23:51 I'm totally that guy
+plane-crazy 2021-09-10 21:28:49 is Plane Crazy also on Xbox?
+general 2022-01-21 18:28:58 Adopt me update be like
+general 2022-01-21 18:29:37 LESSS GO
+general 2022-01-21 18:30:00 roblox is H I G H
+general 2022-01-21 18:30:41 hm
+general 2022-01-21 18:31:05 launcher doesn't work
+general 2022-01-21 18:31:52 it will end every life problems doing that! lesss go!
+general 2022-01-21 18:32:19 same
+general 2022-01-21 18:33:15 aww man
+general 2022-01-21 18:33:17 my eyes
+general 2022-01-21 18:33:26 503 error is bright
+general 2022-01-21 18:34:41 truest true thing ever I'm telling the truth
+general 2022-01-21 18:34:52 lie
+general 2022-01-21 18:35:01 roblox is lying
+general 2022-01-21 18:43:10 enjoy our pain... and your meal
+general 2022-01-21 18:54:38 🥐 🥖
+general 2022-01-21 19:11:33 bruh
+general 2022-01-21 19:12:11 "happy" hot dog
+general 2022-01-21 19:13:42 wow
+plane-crazy 2022-01-27 20:38:01 I have 2 jetpacks
+general 2022-06-13 21:56:47 I got a DM from someone on that server that seem to be a scam
+general 2022-06-13 21:56:55 oh same
+plane-crazy 2022-06-14 23:22:35 aww man
+plane-crazy 2022-06-14 23:28:41 this is a dangerous creation. pretty good at pvp...
+plane-crazy 2022-06-17 18:22:57 will it be possible to make automate things in PC2?
+plane-crazy 2022-06-17 18:35:07 really?
+plane-crazy 2022-06-17 21:35:40 wow that's-
+help 2022-07-01 23:33:03 I have a question, what is rope restitution?
+plane-crazy 2022-07-01 23:39:51 POV it's real life with a roblox background
+general 2022-07-01 23:44:05 👀
+general 2022-07-01 23:44:12 bonjour
+general 2022-07-01 23:44:28 it's dangerous
+general 2022-07-01 23:45:00 hello there
+general 2022-07-01 23:47:23 wrong channel but does anyone knows what is restitution setting in ropes?
+general 2022-07-01 23:48:24 idk most people dislike france
+general 2022-07-01 23:49:02 not as dangerous as that
+general 2022-07-01 23:49:19 and not really dangerous
+general 2022-07-01 23:51:17 true
+general 2022-07-01 23:51:31 I am french and I confirm french people are annoying
+general 2022-07-01 23:51:34 🥸
+general 2022-07-01 23:52:05 I maybe not agree
+general 2022-07-01 23:54:35 french fries are from belgium
+general 2022-07-01 23:55:06 frite
+general 2022-07-01 23:55:57 🤨
+help 2022-07-01 23:58:06 so if it's 1 it will be like a suspension with 0 damping and stiffness?
+general 2022-07-02 00:01:14 country
+general 2022-07-02 00:01:44 the continent is not called australia
+general 2022-07-02 00:01:56 then what is it
+general 2022-07-02 00:03:08 🥸
+general 2022-07-02 00:03:27 France is south Belgium
+general 2022-07-02 00:04:58 spanish are the bots
+general 2022-07-02 00:05:42 they're androids
+general 2022-07-02 00:06:41 hola no habla espanol
+general 2022-07-02 00:07:46 :ban:
+general 2022-07-02 00:08:23 earth isn't real we're all npcs
+general 2022-07-02 00:08:52 earth is just a giant movie for aliens
+general 2022-07-02 00:13:48 true
+general 2022-07-02 00:14:17 but I thought they had a platform 👀
+general 2022-07-02 00:16:16 heli and platform
+general 2022-07-02 00:18:43 ok
+general 2022-07-02 00:19:05 then I dont want this to be my job
+general 2022-07-02 00:19:21 even if it's safe and there is a big paycheck
+plane-crazy 2022-07-02 00:19:53 wait a minute that's a lot of countries that dont exist then...
+general 2022-07-02 00:20:25 nope
+general 2022-07-02 00:21:27 yes but I heard when you do that job you do it for like 4 years then you can't
+general 2022-07-02 00:21:53 because when you get used...
+general 2022-07-02 00:22:27 is it really 300k a year?
+general 2022-07-02 00:27:27 work
+general 2022-07-02 00:43:51 what is happening to the channel!
+help 2022-07-02 22:22:22 put the motors half a block higher and poof
+help 2022-07-02 22:22:51 I don't have any other answer
+help 2022-07-02 22:23:06 but some people probably do
+creations-chat 2022-07-03 22:47:26 Plane Crazy 2 be like:

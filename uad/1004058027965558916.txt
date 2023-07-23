@@ -1,0 +1,41 @@
+The Tale of shxttered_ (1004058027965558916)
+bot-central 2022-12-22 19:13:11 !SERVERS
+bot-central 2022-12-22 19:13:19 !servers
+bot-central 2022-12-22 19:13:29 -servers
+plane-crazy 2023-01-04 09:57:13 whos good at water physics?
+plane-crazy 2023-01-04 09:57:38 bruh
+plane-crazy 2023-01-04 09:58:25 idk why but my boat is banking hard to the left and tipping over on the right
+plane-crazy 2023-01-04 09:58:35 i have no clue how to fixt
+plane-crazy 2023-01-04 09:59:27 its a light fishing boat
+plane-crazy 2023-01-04 10:00:00 i cant send ss bruv
+plane-crazy 2023-01-04 10:01:21 how much ballast?
+plane-crazy 2023-01-04 10:01:35 alr
+plane-crazy 2023-01-04 18:10:21 thats image placement outline or smh like dat prob
+creations-chat 2023-04-10 18:53:32 i made a cruiser but it keeps tipping over
+creations-chat 2023-04-10 18:58:54 cant send imgs
+creations-chat 2023-04-10 19:05:03 alr
+help 2023-04-10 19:12:24 made this cruiser but it keeps tipping over, i tried for 3 consecutive days with all types of solutions but nothing worked
+help 2023-04-10 19:16:09 alr
+help 2023-04-10 19:17:18 
+help 2023-04-29 13:47:54 can anyone tell me why this wont move up? green is motor, red is anchor block (physics off), the motor is powered and locked btw
+
+when i launch, the motor wont move but when i unanchor, the base of the motor moves (thus moving the anchor block as well)
+
+**THERES NO OTHER ANCHOR BLOCKS IN THIS BUILD**
+help 2023-04-29 13:54:07 `alright
+help 2023-04-29 13:54:30 doesnt work
+help 2023-04-29 13:56:02 not skill issue
+help 2023-04-29 13:56:30 whats a "krill tissue"
+help 2023-04-29 13:56:52 can u just help me out
+help 2023-04-29 13:58:00 already maxed
+help 2023-04-29 13:59:19 cus im making a monorail to the floating island
+help 2023-04-29 13:59:36 so essentially, i need to angle lock the rail
+help 2023-04-29 14:00:45 uhm how
+help 2023-04-29 14:03:54 
+help 2023-04-29 14:03:56 heres whats happening
+help 2023-04-29 14:06:01 same issue
+help 2023-04-29 14:06:14 ?
+help 2023-04-29 14:06:57 should the base be anchored as well
+help 2023-04-29 14:07:42 did it, now the motor is completely unfunctional
+help 2023-04-29 14:09:24 what the
+help 2023-04-29 14:10:31 afk

@@ -1,0 +1,9 @@
+The Tale of WagonTime (691995111428456558)
+bot-central 2021-02-19 01:51:40 &suggest
+**Mirror tool**
+
+[Building]
+
+It would basically make one side of the plane a mirror image of the other, so it wouldn’t have to be built a second time. There would be an option to move and rotate the plane (forgive the pun) that the plane would be mirrored across. This would make large builds MUCH easier to make. The feature would go on the bottom bar where build, delete, paint, and fly are.
+
+If you want an example, try the mirror tool in simplerockets 2 (a paid, non-roblox game) or simpleplanes (also a paid, non-roblox game).

@@ -1,0 +1,5 @@
+The Tale of oliverb (868467188254769172)
+plane-crazy 2021-09-25 11:38:17 motor maybe stuck to another part
+plane-crazy 2021-09-25 11:41:03 looks like you don't have a way of moving it up or down
+plane-crazy 2021-09-25 11:42:10 cylinders won't attach to block in that orientation btw
+plane-crazy 2021-09-25 11:46:50 i don't know how you want to make it but you will need an extra motor somewhere

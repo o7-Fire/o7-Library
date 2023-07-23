@@ -1,0 +1,126 @@
+The Tale of ishcasam (673018398229266433)
+plane-crazy 2021-02-11 03:40:09 I have a problem
+plane-crazy 2021-02-11 03:40:15 with my uhh
+plane-crazy 2021-02-11 03:40:19 heli
+plane-crazy 2021-02-11 03:40:59 and it does this thing where it goes forward a bit and then pitches up, any tips on helis?
+plane-crazy 2021-02-11 03:45:01 wait am I in the wrong channel for help
+plane-crazy 2021-02-11 03:46:02 <:BIG1:588443768806703124> <:BIG2:588443778554134540> 
+<:BIG3:588443788721258534> <:BIG4:588443798842114088>
+plane-crazy 2021-02-11 03:46:41 does anyone have a fix where helis are pitching up and down while moving forward?
+plane-crazy 2021-02-11 03:47:50 so for example
+plane-crazy 2021-02-11 03:49:03 when I try to gain altitude, my helo sort of tilts forward and backward by a few degrees
+plane-crazy 2021-02-11 03:49:34 I can’t get my helicopter to stay still
+plane-crazy 2021-02-11 03:57:01 nvm, fixed. just had to lower main rotor speed
+general 2021-02-11 13:05:01 noo
+general 2021-02-11 13:05:28 manly infection
+general 2021-02-11 13:06:22 <:trollface:775024642104229898> light mode user
+bot-central 2021-02-11 13:07:23 !rank
+bot-central 2021-02-11 13:07:30 aw
+plane-crazy 2021-02-11 13:08:12 plaen
+bug-reports 2021-02-11 13:09:11 there’s a fun glitch where activating parachute at the right position sends you flying at 100,000+ speed into the abyss
+general 2021-02-24 20:34:30 what
+general 2021-02-24 20:35:06 silence webtoon addict
+general 2021-02-24 20:35:45 pain crazy
+plane-crazy 2021-03-01 00:42:57 what defines something as a shredder bug?
+plane-crazy 2021-03-01 00:45:35 dam I don’t have image perms
+plane-crazy 2021-03-01 00:45:41 I would show a pic
+plane-crazy 2021-06-08 14:57:26 i was testing my anaconda a few days ago but it turns out it flipped when i was flying it
+plane-crazy 2021-06-17 15:39:08 someone help
+plane-crazy 2021-06-17 15:39:30 im making a spaceship w/ grav slider and when i test it it spins without me controlling it
+plane-crazy 2021-06-17 15:40:44 for previous spaceships it hasn’t done this but it has with my own version of a federal corvette
+plane-crazy 2021-06-17 15:51:04 can someone help
+plane-crazy 2021-06-17 15:51:24 so
+plane-crazy 2021-06-17 15:51:31 i have a ship
+plane-crazy 2021-06-17 15:51:42 the ship turns without input
+plane-crazy 2021-06-17 15:52:12 also i dont use gravity, its spaceship
+plane-crazy 2021-06-17 15:52:56 does mass apply when there’s no gravity?
+plane-crazy 2021-06-17 15:52:59 no
+plane-crazy 2021-06-17 15:53:29 i have a set of wings on both ends of le ship
+plane-crazy 2021-06-17 15:53:43 oh
+plane-crazy 2021-06-17 15:53:51 yep
+plane-crazy 2021-06-17 15:55:06 so
+plane-crazy 2021-06-17 15:55:22 i have two sets of wings equally elevated on both sides of the ship
+plane-crazy 2021-06-17 15:55:51 three vertical 4x1 and three horizontal 4x1
+plane-crazy 2021-06-17 15:56:06 they are motorlocked together for both sides
+plane-crazy 2021-06-17 15:56:17 yeah
+plane-crazy 2021-06-17 15:56:32 wait
+plane-crazy 2021-06-17 15:56:34 so
+plane-crazy 2021-06-17 15:56:42 also
+plane-crazy 2021-06-17 15:57:03 It doesn’t push down or up or anything, it violently turns left.
+plane-crazy 2021-06-17 15:57:11 lol
+plane-crazy 2021-06-17 15:59:03 X axis, like a violent left yaw turn
+plane-crazy 2021-06-17 15:59:21 and then followed by a roll and a slower pitch up
+plane-crazy 2021-06-17 16:01:12 
+plane-crazy 2021-06-17 16:01:14 this is what the wings look like, it is propelled by thrusters
+plane-crazy 2021-06-17 16:01:41 the wings are on the bottom of the ship
+plane-crazy 2021-06-17 16:01:46 also
+plane-crazy 2021-06-17 16:02:05 yeah super rocket thrusters
+plane-crazy 2021-06-17 16:02:09 thing
+plane-crazy 2021-06-17 16:02:17 i think so
+plane-crazy 2021-06-17 16:02:20 i dont know
+plane-crazy 2021-06-17 16:02:45 so both wings are equal in elevation on the build
+plane-crazy 2021-06-17 16:04:16 this is what im making but a bit smoother and very much smaller
+plane-crazy 2021-06-17 16:05:23 
+plane-crazy 2022-05-11 17:52:23 i hope pc2 has bigger plots
+plane-crazy 2022-05-11 17:52:42 ok good
+general 2022-05-16 12:13:57 will pc2 have a smaller building grid
+plane-crazy 2022-06-09 14:58:06 guys
+plane-crazy 2022-06-09 14:58:12 how do i make good guns
+plane-crazy 2022-06-09 14:58:30 ok
+plane-crazy 2022-06-09 14:59:46 how i build good turret
+plane-crazy 2022-06-09 14:59:52 i meant
+plane-crazy 2022-06-09 15:01:06 where do i go for help on my builds
+plane-crazy 2022-06-09 15:01:44 ok
+plane-crazy 2022-06-09 15:05:22 so i have a 3500 block ship
+plane-crazy 2022-06-09 15:05:27 no motorlock
+plane-crazy 2022-06-09 15:05:45 i wanna figure out how to get the turrets to work
+plane-crazy 2022-06-09 15:05:57 no but like
+plane-crazy 2022-06-09 15:06:01 to look better
+plane-crazy 2022-06-09 15:09:52 this is my ship
+plane-crazy 2022-06-09 15:10:08 yeah
+plane-crazy 2022-06-09 15:11:16 what is ro scale
+plane-crazy 2022-06-09 15:11:48 yeah my ship is like 1:2 scale
+plane-crazy 2022-06-09 15:12:03 if it existed irl it would be 2x bigger than it is
+creations-chat 2022-06-09 15:16:20 how do i make a good looking mounted turret
+creations-chat 2022-06-11 02:18:12 bro thinks he needs editing software to crop a screenshot
+plane-crazy 2022-08-06 21:43:51 what does tnt get affected by
+plane-crazy 2022-08-06 21:44:16 doesn’t explosives also destroy tnt
+plane-crazy 2022-11-09 00:39:54 when will it stop updating pvp
+creations-chat 2023-06-29 22:22:19 can you build in zero gravity doe
+creations-chat 2023-06-29 23:07:56 spaceship
+creations-chat 2023-06-29 23:10:20 i havent started yet im just wondering cuz most the stuff i do in pc is spaceship/0g related, i like building that kind of stuff
+plane-crazy 2023-07-07 22:03:06 no
+plane-crazy 2023-07-08 02:09:17 https://tenor.com/view/halo-infinite-halo-infinite-master-chief-gif-24122960
+general 2023-07-08 02:10:58 subatomic keyboard
+general 2023-07-08 02:11:27 deal with it 😎😎🤑🤑
+general 2023-07-08 02:12:09 <:KEKW:670310537300672528>
+general 2023-07-08 02:12:56 20 billion gazillion years old <:clueless:942802644043464734>
+general 2023-07-08 02:13:11 no
+general 2023-07-08 02:14:17 pc2 gonna break all my builds
+general 2023-07-08 02:14:48 who me
+general 2023-07-08 02:15:30 whats an unde
+general 2023-07-08 02:16:24 bro you guys so hostile for no reason
+general 2023-07-08 02:16:35 y u gotta be like dat…
+general 2023-07-08 02:17:08 the way i see it your acting like 1… lol!! <:m_:778994206948589638>
+general 2023-07-08 02:17:51 14
+general 2023-07-08 02:18:26 Real
+general 2023-07-08 02:21:35 they’re equal
+general 2023-07-08 02:21:41 imo
+general 2023-07-08 02:21:49 both are equally fun
+general 2023-07-08 02:23:09 there is no goal in pc you just build stuff and show it to other people
+general 2023-07-08 02:24:15 hinge 5 blocks and a glue block
+general 2023-07-08 02:25:56 does anyone know how big pc2 map is
+general 2023-07-08 02:27:59 springs work nice on missiles paired with tnt
+general 2023-07-08 02:28:22 disconnectors fail miserably when i put them with tnt
+general 2023-07-08 02:28:28 oh
+general 2023-07-08 02:30:50 stop using motorlocks
+general 2023-07-08 02:30:55 <:trollface:775024642104229898>
+general 2023-07-08 02:31:21 nuh uh that shit give me a kick 🤑🤑🤑
+general 2023-07-08 02:32:30 was gonna say 🤔
+general 2023-07-08 02:35:00 i just have no builds that fall into the categories in rank
+general 2023-07-08 02:35:08 they’re all ships
+general 2023-07-08 02:35:14 and doohickeys
+plane-crazy 2023-07-08 02:35:30 no
+plane-crazy 2023-07-08 02:35:33 fix it
+general 2023-07-08 02:35:55 spaceships*
+creations-chat 2023-07-14 02:08:27 (original 50 but divided smaller

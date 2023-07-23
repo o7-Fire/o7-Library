@@ -1,0 +1,6 @@
+The Tale of Jeff_D (541281927366311937)
+bug-reports 2019-02-09 20:05:40 Large amounts of thrust slows down your aircraft. Rocket engines are a great way to see its effect.
+bug-reports 2019-02-09 20:06:02 All facing the same way, btw
+help 2019-02-09 20:10:52 What does the reset do on your motors?
+bug-reports 2019-02-09 20:37:45 A minor glitch: Control surface keybinds are flipped automatically. You have to flip them 180 degrees for the keybinds to be applied properly.
+bug-reports 2019-02-09 21:23:13 w/ keybinds

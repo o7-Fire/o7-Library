@@ -1,0 +1,100 @@
+The Tale of khaliltarawan (1042439671302606918)
+plane-crazy 2022-12-09 10:53:54 anyone know whats the size of plane crazy plots?
+plane-crazy 2022-12-09 10:55:59 imma try to make the ratte
+plane-crazy 2022-12-09 10:56:09 but it would be laggy af
+plane-crazy 2022-12-09 10:56:33 lol how do i do that
+plane-crazy 2022-12-09 10:57:08 nah imma just make the mendeleev tank
+plane-crazy 2022-12-09 10:57:14 cube
+plane-crazy 2022-12-09 10:57:30 yup i did it earlier and it was laggy
+plane-crazy 2022-12-09 10:57:37 its just from the tracks alone
+plane-crazy 2022-12-09 10:58:05 imma just make the mendeleev tank
+plane-crazy 2022-12-09 10:58:15 just a rectangle on tracks
+plane-crazy 2022-12-09 10:58:41 should i roscale it or full scale it
+plane-crazy 2022-12-09 11:00:08 hello?
+plane-crazy 2022-12-09 11:00:53 can i see it in build mode?
+plane-crazy 2022-12-09 11:01:25 i wanna learn from it
+plane-crazy 2022-12-09 11:01:52 dont worry i wont copy cause i know its probably too complex
+plane-crazy 2022-12-09 11:02:20 oh alr
+plane-crazy 2022-12-09 11:02:42 wow how long have u been playing
+plane-crazy 2022-12-09 11:03:42 kool
+plane-crazy 2022-12-09 11:03:47 angle lock
+plane-crazy 2022-12-09 11:12:25 holy cow
+plane-crazy 2022-12-09 11:14:07 🇷🇺
+plane-crazy 2022-12-09 11:15:48 np
+plane-crazy 2022-12-09 11:18:17 is the mendeleev tank huge or just average size
+plane-crazy 2022-12-09 11:20:39 tank that looks like a rectangle
+plane-crazy 2022-12-09 11:20:45 great build for beginners i think
+plane-crazy 2022-12-09 11:20:58 cause its just a rectangle on tracks
+plane-crazy 2022-12-09 11:21:11 yea
+plane-crazy 2022-12-09 11:21:20 i think imma just x2 scale it
+plane-crazy 2022-12-09 11:21:38 how do i send media here
+plane-crazy 2022-12-09 11:22:15 height with the turret down?
+plane-crazy 2022-12-09 11:22:23 oh okk
+plane-crazy 2022-12-09 11:23:34 without?
+plane-crazy 2022-12-09 11:23:42 how about without the turret
+plane-crazy 2022-12-09 11:24:17 k ty for the info
+plane-crazy 2022-12-09 11:39:33 how much should i make my build bigger compared to the irl counterpart?
+plane-crazy 2022-12-09 11:39:48 like if it measures 10m should i make it 30 blocks long?
+plane-crazy 2022-12-09 11:52:32 google says 1 meter is equal to 20 studs
+plane-crazy 2022-12-09 11:59:28 as if i already dont know
+plane-crazy 2022-12-09 12:00:17 so it means a meter is 3.6 studs?
+plane-crazy 2022-12-09 12:00:22 rounded off btw
+plane-crazy 2022-12-09 12:05:58 idk if this is correct but according to <@398216801592410113>'s given info, if 10 meters are converted to blocks it would be 29 blocks long
+plane-crazy 2022-12-09 12:08:35 divide 1 by 0.28 we get 3.57142857143 or rounded off to 3.6
+lets say 10 meters we multiply by 3.6 we get 36
+and since a block is 1.25 studs
+divide 36 by 1.25 we get 28.8 or 29 rounded off
+plane-crazy 2022-12-09 12:09:45 no wonder my roscale tank looks like the size of my table
+plane-crazy 2022-12-09 12:12:34 ok so the formula would be
+m to blocks = (m x 3.6) ÷ 1.25
+plane-crazy 2022-12-09 12:12:40 idk stuff
+plane-crazy 2022-12-09 12:13:00 no idea if the open and close parentheses are needed
+plane-crazy 2022-12-09 12:14:56 ok just realized u can also do m x 3.6 ÷ 1.25
+plane-crazy 2022-12-09 12:15:26 m is the length in meters
+3.6 is how much studs in a meter
+and 1.25 is how much studs is one block
+plane-crazy 2022-12-09 12:47:27 21
+plane-crazy 2022-12-09 13:39:35 Yup i was wrong
+plane-crazy 2022-12-10 07:28:08 can someone help me how to stop my build from shaking when activating motor while it is connected to a suspension
+plane-crazy 2022-12-10 09:49:36 can someone help me with this, my tank chassis twitches every time i press or let go of the motor keybinds
+plane-crazy 2022-12-10 09:49:57 dont mind the low fps
+plane-crazy 2022-12-10 09:50:07 any suggestions?
+plane-crazy 2022-12-10 09:50:24 am trying to recreate this on plane crazy
+plane-crazy 2022-12-10 09:50:36 the mendeleev tank
+creations-chat 2022-12-10 09:52:44 can someone give me tips how to build this with working tank tracks?
+plane-crazy 2022-12-10 10:18:45 i had one earlier but the tracks keep falling off
+creations-chat 2022-12-10 15:10:37 Do planes like these even work in plane crazy??
+
+
+Then why does my plane built like this arent stable
+creations-chat 2022-12-10 15:13:10 The plane i built like that isnt stable
+creations-chat 2022-12-10 15:17:43 Wait i think i know why
+
+
+Most of the lift comes from behind, so i just put the engine up front so i can balance it???
+plane-crazy 2022-12-11 15:36:23 I think the best way to learn plane crazy is to start small to large
+
+Like if u wanna make a warship just start practing in making a canoe or idk
+the-dump 2022-12-11 15:37:45 
+creations-chat 2022-12-12 09:56:46 why is my motor 2 twitching?
+creations-chat 2022-12-12 09:59:16 ok its fixed but the tower is now ugly af since the motor plates are stacked instead of motorlock tower style where the pegs face each other
+creations-chat 2022-12-12 10:02:57 yeah
+creations-chat 2022-12-12 10:07:13 like how turrets can move up and down, left and right?
+creations-chat 2022-12-12 10:51:22 any blocks i can use for gun barrels?
+creations-chat 2022-12-12 15:16:12 yea, i am new to the game
+i consider it completed, but might improve it
+yea, u can remove my post, its my fault after all
+creations-chat 2022-12-12 15:22:58 k
+creations-chat 2022-12-13 12:50:19 any suggestions?
+creations-chat 2022-12-13 13:50:35 lol just treat it as detail lel
+
+understandable have a nice day
+plane-crazy 2022-12-13 13:59:18 plane crazy when exposed motor lock (they think it is ugly, therefore the builder should quit)
+plane-crazy 2022-12-13 13:59:34 cool build tho
+plane-crazy 2022-12-13 14:02:55 plane crazy when your build doesn't have 100TB worht of motor lock (they think you are skill issue)
+plane-crazy 2022-12-13 14:03:51 i wanna make more of these but i will get flagged for spam lel
+plane-crazy 2022-12-13 14:07:35 I can do ittt........ Plane crazy players when they cant motor lock their problems into a single block
+
+dammit i failed
+plane-crazy 2022-12-13 14:08:46 🧠
+plane-crazy 2022-12-13 14:08:59 ok imma leave

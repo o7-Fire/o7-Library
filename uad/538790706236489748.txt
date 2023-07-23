@@ -1,0 +1,15 @@
+The Tale of Jeff_D (538790706236489748)
+bug-reports 2019-01-29 00:54:43 Changing the angle of propeller blades causes them to freak out.
+bug-reports 2019-01-29 00:55:44 anything but the normal spinning
+bug-reports 2019-01-29 00:56:19 i tried compacting a heli using motors to store away the propellers vertically
+bug-reports 2019-01-29 00:57:01 deploying it by angling them horizontally, which then rips the propellers off
+bug-reports 2019-01-29 00:57:53 no, they do connect
+bug-reports 2019-01-29 00:58:04 I'm new to discord
+bug-reports 2019-01-29 00:59:14 I don't know how to record :/
+bug-reports 2019-01-29 01:16:19 I don't know if this one is a bug exactly, but when flying at high speeds, you are (realistically) able to shoot yourself down with your own missiles simply because you fly too fast.
+bug-reports 2019-01-29 01:20:19 Another bug with the missiles: rarely, they would carry the whole plane along when fired.
+bug-reports 2019-01-29 20:15:38 I noticed that most of the time, the rockets and tnt either overshoot and blow up behind or undershoot and blow up in front
+bug-reports 2019-01-30 21:00:30 There is a bug where the previous owner's build doesn't get removed so there is always a floating structure without an owner and no-one can edit or remove it.
+bug-reports 2019-01-31 21:14:12 There is a small, minor visual glitch where the lift marker remains on the plot even after launching your vehicle.
+bug-reports 2019-01-31 22:48:58 o wow
+bug-reports 2019-01-31 22:50:07 Just remember this game is still in Alpha, so bugs are bound to happen.

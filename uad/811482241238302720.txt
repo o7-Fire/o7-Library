@@ -1,0 +1,214 @@
+The Tale of espwho (811482241238302720)
+help 2021-04-13 01:11:28 would a (larger) build be lass lag intensive with 1x1s or beams
+help 2021-04-13 01:45:58 how can i further cut back on lag with this
+help 2021-04-13 01:46:07 losing way too much speed
+help 2021-04-13 03:21:55 yeah but i've hidden them since the picture
+help 2021-04-13 03:22:06 pvp man
+help 2021-04-13 03:22:24 fuck realism pvp is fun
+the-dump 2021-04-19 01:55:41 embeds??
+the-dump 2021-04-19 01:56:16 why the fuck are embeds blocked
+the-dump 2021-04-19 01:57:48 https://cdn.discordapp.com/attachments/831000466774032448/833520319641026590/video0_6.mov
+the-dump 2021-04-19 01:57:50 goddamnit
+the-dump 2021-04-19 01:58:01 unbelievable
+the-dump 2021-04-19 01:58:17 no shit
+the-dump 2021-04-19 01:58:22 it failed on 2 vids
+general 2021-04-21 16:11:16 "fixed data"?
+plane-crazy 2021-04-21 16:12:35 what's up with "fixed data"
+plane-crazy 2021-04-21 16:24:55 bnd, the movement was kind of hard to figure out
+plane-crazy 2021-04-21 16:25:03 still can't make a plane
+plane-crazy 2021-04-21 16:26:03 well i guess it sin't as polished/commercialized
+plane-crazy 2021-04-21 16:26:07 isn't
+plane-crazy 2021-04-22 18:35:27 finally got the sps to mph formula
+plane-crazy 2021-04-22 18:35:34 after all that time
+plane-crazy 2021-04-22 18:36:35 (5x)/100 x 2.23693629
+plane-crazy 2021-04-22 18:39:33 correct me if i'm wrong but mach 1 is exactly 6803.94881 SPS
+plane-crazy 2021-04-22 18:43:54 1 knot ok
+plane-crazy 2021-04-22 18:44:41 5 centimeters / second (1 stud per second) = 0.0972 nautical miles / hour
+plane-crazy 2021-04-22 18:47:16 so
+plane-crazy 2021-04-22 18:47:32 mach 1 is 661.47 knots
+plane-crazy 2021-04-22 18:47:49 which is equal to 34028.96 cm/s
+plane-crazy 2021-04-22 18:47:56 divided by 5 is our SPS
+plane-crazy 2021-04-22 18:48:05 6805.792
+plane-crazy 2021-04-22 18:48:08 same thing
+plane-crazy 2021-04-22 18:48:14 almost
+plane-crazy 2021-04-22 18:53:28 0.18 roughly works but 0.111846815 would be the most accurate
+plane-crazy 2021-04-22 18:53:34 so like 0.112
+plane-crazy 2021-04-22 18:54:07 whatever floats your boat though
+plane-crazy 2021-04-22 18:54:45 used the formula (5x)/100 x 2.23693629 assuming x is 1
+plane-crazy 2021-04-22 18:54:54 it's mph to sps
+plane-crazy 2021-04-22 18:55:26 bruh have any of you taken alg 1 or even pre algebra
+plane-crazy 2021-04-22 18:55:59 yeah i get that
+plane-crazy 2021-04-22 18:57:34 1 stud is 5 centimeters exactly
+plane-crazy 2021-04-22 18:57:44 so that makes our roblox to real world
+plane-crazy 2021-04-22 18:58:04 multiplying sps x 5 gives our cm/s
+plane-crazy 2021-04-22 18:58:17 cm/s to meters a sec is /100
+plane-crazy 2021-04-22 18:58:27 and to mph is the 2. number
+plane-crazy 2021-04-22 18:58:44 to you can branch off after /100 really to most any other unit
+plane-crazy 2021-04-22 18:58:53 so*
+plane-crazy 2021-04-22 18:59:24 you just have to know what the value is from meters per second to your unit
+plane-crazy 2021-04-22 19:00:21 (5x)/100 x **3.6** is kph for example, and (5x)/100 x 1.94384449 is airspeed i think
+plane-crazy 2021-04-22 19:05:08 they are
+plane-crazy 2021-04-22 19:05:51 because it's literally just more exact. unless i screwed up and you meant kph
+plane-crazy 2021-04-22 19:06:14 oh well lol
+plane-crazy 2021-04-22 19:06:55 yeah roblox said 20 studs is 1 meter
+plane-crazy 2021-04-22 19:07:21 unless they changed it for no good reason
+plane-crazy 2021-04-22 19:07:37 i wasn't
+plane-crazy 2021-04-22 19:08:09 bro imagine getting attacked by a google warrior
+plane-crazy 2021-04-22 19:09:08 that's the fandom
+plane-crazy 2021-04-22 19:09:33 where did you get that equation
+plane-crazy 2021-04-22 19:09:59 (5 x 1)/100 x 3.6
+plane-crazy 2021-04-22 19:10:11 (5x)/100 x 3.6
+plane-crazy 2021-04-22 19:10:18 if you have no x you assume it is 1
+plane-crazy 2021-04-22 19:10:43 so yeah 0.18 is right for kph
+plane-crazy 2021-04-22 19:12:07 look above...
+plane-crazy 2021-04-22 19:12:17 0.111846815  is the mph and 0.18 is the kph
+plane-crazy 2021-04-22 19:13:55 bro
+plane-crazy 2021-04-22 19:14:03 6803.94881 sps
+plane-crazy 2021-04-22 19:14:54 oh were you joking golden
+plane-crazy 2021-04-22 19:14:56 damnit
+plane-crazy 2021-04-22 19:19:12 i think i'm going to make a calculator for sps conversions
+plane-crazy 2021-04-22 19:19:15 brb
+plane-crazy 2021-04-22 19:25:25 alright i have the code ready so i'm going to make a site
+plane-crazy 2021-04-22 19:25:27 <!DOCTYPE html>
+<html>
+<title> studs per sec to Miles per hour Converter</title>
+<body>
+
+<h2>Converter</h2>
+<p>Type a value in the Meters field to convert the value to Miles:</p>
+
+<p>
+  <label>SPS</label>
+  <input id="inputMeters" type="number" placeholder="Meters" oninput="LengthConverter(this.value)" onchange="LengthConverter(this.value)">
+</p>
+<p>Miles: <span id="outputMiles"></span></p>
+
+<script>
+function LengthConverter(valNum) {
+  document.getElementById("outputMiles").innerHTML=valNum*0.111846815;
+}
+</script>
+</body>
+</html>
+plane-crazy 2021-04-22 19:25:43 free code lol
+plane-crazy 2021-04-22 19:49:45 Alright. basic site with SPS conversions finished
+plane-crazy 2021-04-22 19:49:46 https://sites.google.com/view/sps-calculators/home
+plane-crazy 2021-04-22 19:52:21 i used roblox's official units
+plane-crazy 2021-04-22 19:53:07 5 cm
+plane-crazy 2021-04-22 19:53:29 sps to mph
+(5x)/100 x 2.23693629
+0.111846815 
+sps to kph
+(5x)/100 x 3.6
+0.18
+plane-crazy 2021-04-22 19:55:26 did you say *about* * 1/28 meter?
+plane-crazy 2021-04-22 19:55:40 because that's **** about 5 cm
+plane-crazy 2021-04-22 19:56:02 but i used the 20 studs = 1 meter
+plane-crazy 2021-04-22 19:56:06 which is the real
+plane-crazy 2021-04-22 19:56:55 why the fuckw ould it change
+plane-crazy 2021-04-22 19:57:20 just because it's 2012 doesn't mean it's somehow different now
+plane-crazy 2021-04-22 19:58:45 who said 1/28 meter there?
+plane-crazy 2021-04-22 19:59:01 so you think newer=true no matter what?
+plane-crazy 2021-04-22 19:59:19 no
+plane-crazy 2021-04-22 19:59:24 not by any chance
+plane-crazy 2021-04-22 20:02:58 but go ahead, jump on the first devforum answer you saw
+plane-crazy 2021-04-22 20:04:31 actually, no
+plane-crazy 2021-04-22 20:04:44 i used more than 1 source believe it or not
+plane-crazy 2021-04-22 20:05:57 that isn't relevant to the conversation. your 1/28 metric is based solely on what 2 or 3 people said in a devforum discussion.
+plane-crazy 2021-04-22 20:06:22 roblox wikia
+plane-crazy 2021-04-22 20:07:00 🤣
+plane-crazy 2021-04-22 20:07:10 whatever lol
+plane-crazy 2021-04-22 20:07:34 no
+plane-crazy 2021-04-22 20:08:01 eh i'm done arguing
+plane-crazy 2021-04-22 20:08:07 ridiculous
+plane-crazy 2021-04-22 20:10:53 here's one of them (from ROBLOX) https://blog.roblox.com/2012/06/testing-the-accuracy-of-roblox-physics-with-potato-cannons/
+plane-crazy 2021-04-22 20:10:57 the post
+plane-crazy 2021-04-22 20:11:11 2012, but it's still official
+plane-crazy 2021-04-22 20:11:17 like that or not
+plane-crazy 2021-04-22 20:11:34 tell me
+plane-crazy 2021-04-22 20:11:53 what does that matter
+plane-crazy 2021-04-22 20:12:06 it's the same game. nothing has changed
+plane-crazy 2021-04-22 20:12:09 about htat
+plane-crazy 2021-04-22 20:12:53 your only counterargument so far is that old= wrong (even if it's **official**)
+plane-crazy 2021-04-22 20:13:14 fucking assclown
+plane-crazy 2021-04-22 20:13:44 footnotes.
+plane-crazy 2021-04-22 20:19:52 i can update the site to have calculators for the newer metric as well as the real ones
+plane-crazy 2021-04-22 20:20:07 which would seem to make you shut the fuck up
+plane-crazy 2021-04-22 20:32:33 now if you look in the top right corner of https://sites.google.com/view/sps-calculators/home there is a page for the unofficial"1/28" one too  <@!627576011927846952>
+plane-crazy 2021-04-22 20:33:58 yeah sidenote things are even slower on that calculator
+the-dump 2021-04-22 21:32:16 hahahah cussy
+the-dump 2021-04-22 21:33:27 
+the-dump 2021-04-22 21:42:34 bruh
+the-dump 2021-04-22 21:42:37 ok
+the-dump 2021-04-22 21:43:32 what was that about
+the-dump 2021-04-22 21:43:45 funny
+the-dump 2021-04-22 21:46:31 why are you like this
+the-dump 2021-04-22 21:46:45 and you still say poggers 😆  bro
+the-dump 2021-04-22 21:48:25 walking on eggshells with the wannabe mods
+the-dump 2021-04-22 21:50:17 ifunny
+the-dump 2021-04-22 21:50:23 i n the bottom
+the-dump 2021-04-22 21:51:10 
+the-dump 2021-04-22 21:53:44 
+the-dump 2021-04-22 21:55:15 
+the-dump 2021-04-22 21:55:28 orig vid
+the-dump 2021-04-22 21:58:46 
+general 2021-04-22 22:02:28 why is there an inventor rank
+plane-crazy 2021-04-22 22:13:30 starter-level mini blackbird
+plane-crazy 2021-04-22 22:13:38 for the joke
+plane-crazy 2021-04-22 22:16:00 my record was 67,000 before the plane literally ripped itself to shreds
+plane-crazy 2021-04-22 22:17:05 yes
+plane-crazy 2021-04-22 22:21:46 does anyone else feel less lag with big builds today?
+plane-crazy 2021-04-22 22:21:59 cpu went down like 40 ms for it
+plane-crazy 2021-04-22 22:27:49 because lag is reduced, top 'stable' speeds also went down, but the builds actually go the true speeds instead
+plane-crazy 2021-04-24 22:52:01 did roblox revert the physics update again
+plane-crazy 2021-04-24 22:52:28 why...
+plane-crazy 2021-04-24 22:53:28 what the fuck are the programmers doing with their hands on their ass then
+plane-crazy 2021-04-24 22:53:33 they should stick with it
+plane-crazy 2021-04-24 22:53:45 not this indecisive "day-night" game
+plane-crazy 2021-04-24 22:54:20 that better be it
+plane-crazy 2021-04-24 22:54:59 just going to forget roblox for a few days then
+plane-crazy 2021-04-24 22:55:09 until it *works*
+plane-crazy 2021-04-24 22:55:43 but htat's worth it
+general 2021-04-25 01:24:14 did anyone screenshot what inferno scripts made
+help 2021-04-25 01:59:27 i have a building problem
+help 2021-04-25 02:00:46 I need a wedge that points this nose into a spike at all angles
+help 2021-04-25 02:00:49 
+help 2021-04-25 02:01:08 also stfu stop being such an asshole i was typing
+help 2021-04-25 02:01:12 no
+help 2021-04-25 02:01:16 not triangle wedges
+help 2021-04-25 02:01:25 at the front
+help 2021-04-25 02:01:46 not that either
+help 2021-04-25 02:02:04 look at this for example
+help 2021-04-25 02:02:55 it's a triangle wedge with the point in the middle basically
+help 2021-04-25 02:04:23 ignore the hole  in it
+help 2021-04-25 02:04:50 very specific shape
+help 2021-04-25 02:28:11 is it pistons?
+help 2021-04-25 02:28:16 pretty clean
+help 2021-04-25 02:28:25 nice
+help 2021-04-25 02:28:46 well...
+help 2021-04-25 02:29:00 you know how moving blocks do
+help 2021-04-25 02:29:08 even with speed alone
+help 2021-04-25 02:29:31 is there a way to lock it
+help 2021-04-25 02:30:00 like in hidden or showing is there a way to stop the parts from physically moving
+help 2021-04-25 02:30:18 H
+help 2021-04-25 02:30:20 ah
+help 2021-04-25 02:30:55 yeah
+general 2021-04-26 00:25:48 "sus" isn't ironically or unironically funny
+general 2021-04-26 00:25:51 never was
+general 2021-04-26 00:26:13 i don't remember addressing you dumbass
+general 2021-04-26 00:26:47 
+general 2021-04-26 00:27:48 whatever
+general 2021-04-26 00:28:53 goddamn sorry to burst your fucking bubbles that among us jokes aren't actually funny
+creations-chat 2021-05-08 04:24:49 just "finished" this learjet- how can i make it better because it just doesn't look right
+creations-chat 2021-05-08 04:27:09 mainly the paint too- and those black lines are trails to make the stripes
+creations-chat 2021-05-08 04:33:58 Back and front on ground
+creations-chat 2021-05-08 04:36:24 front - the white block in the window is just sun glare
+creations-chat 2021-05-08 04:40:04 eh you know what i mean
+creations-chat 2021-05-08 04:42:04 it's a status- it would be beyond reason if that violated any rules
+creations-chat 2021-05-08 04:44:16 what gives a server the right to do that? alright fine though chill
+creations-chat 2021-05-08 06:08:36 ok
+creations-chat 2021-05-08 06:11:32 that's what i asked this server for help with. i'm not exactly talented in plane crazy
+plane-crazy 2021-05-13 02:26:47 uhhh
+plane-crazy 2021-05-13 02:28:56 so i rejoined and it's exactly the same
+plane-crazy 2021-05-13 02:29:02 ping isn't even that bad
+plane-crazy 2021-05-13 02:29:59 probably not enough for a bug report

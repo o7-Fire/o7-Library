@@ -1,0 +1,105 @@
+The Tale of Tonì (334742188841762819)
+creations-chat 2018-11-30 01:05:01 Is there a good way to make small gears?
+creations-chat 2018-11-30 01:05:22 I am having trouble getting enough teeth in a small area for my ornithopter I am building
+creations-chat 2018-11-30 01:05:33 it is taking up like a 5th of my plot
+creations-chat 2018-11-30 01:05:37 and doesn't even work
+creations-chat 2018-11-30 01:06:28 
+creations-chat 2018-11-30 01:07:07 the gears?
+creations-chat 2018-11-30 01:07:19 they are on the back
+creations-chat 2018-11-30 01:07:29 I will do another screen shot with them in a different color
+creations-chat 2018-11-30 01:08:53 idk
+creations-chat 2018-11-30 01:09:10 I am using anchor blocks until I get the flapping system working
+creations-chat 2018-11-30 01:09:29 I got a picture with the gears in red
+creations-chat 2018-11-30 01:09:38 
+creations-chat 2018-11-30 01:10:38 no
+creations-chat 2018-11-30 01:10:40 actual gears
+creations-chat 2018-11-30 01:11:05 smaller and/or more teeth in the same area
+creations-chat 2018-11-30 01:11:18 because as is they don't work right
+creations-chat 2018-11-30 01:11:39 even just more teeth is fine in a larger area
+creations-chat 2018-11-30 01:11:43 but preferably smaller
+creations-chat 2018-11-30 01:12:00 not thinner
+creations-chat 2018-11-30 01:12:04 smaller diameter
+creations-chat 2018-11-30 01:12:58 I can't use more gears
+creations-chat 2018-11-30 01:13:02 I have to use 4
+creations-chat 2018-11-30 01:13:07 and they need more teeth
+creations-chat 2018-11-30 01:13:15 otherwise they skip and don't function properly
+creations-chat 2018-11-30 01:13:36 and then it's off sync
+creations-chat 2018-11-30 01:13:39 and it gets stuck
+creations-chat 2018-11-30 01:14:00 I can do that
+creations-chat 2018-11-30 01:14:01 but
+creations-chat 2018-11-30 01:14:06 4 teeth is not enough
+creations-chat 2018-11-30 01:14:48 That is what I am going to do
+creations-chat 2018-11-30 01:15:13 but I just need to get more teeth in there
+creations-chat 2018-11-30 01:15:20 otherwise this won't work
+creations-chat 2018-11-30 01:16:14 I know how gears work
+creations-chat 2018-11-30 01:16:20 I just need more teeth on the gears
+creations-chat 2018-11-30 01:16:29 because they are skipping and not working right
+creations-chat 2018-11-30 01:16:35 especially the middle 2 gears
+creations-chat 2018-11-30 01:16:50 only 2 are powered
+creations-chat 2018-11-30 01:16:54 the center 2
+creations-chat 2018-11-30 01:17:01 and they are going opposite eachother
+creations-chat 2018-11-30 01:17:03 I can unpower one
+creations-chat 2018-11-30 01:17:19 but then that side just kind of limps and doesn't work right
+creations-chat 2018-11-30 01:17:31 because there are not enough teeth
+creations-chat 2018-11-30 01:17:34 to keep it there
+plane-crazy 2018-11-30 01:29:57 how did you get that fast?
+plane-crazy 2018-11-30 01:35:11 the respawn button works but after you die it stops working
+plane-crazy 2018-11-30 01:36:49 @nuclearman06
+plane-crazy 2018-11-30 01:38:44 <@456226577798135808> I built the design that you posted but it just sits there, is there anything else I need or just the suspension and ropes?
+plane-crazy 2018-11-30 01:46:30 <@456226577798135808> So I got it to work somewhat but it doesn't do much, it just makes my vehicle flail around
+plane-crazy 2018-11-30 01:46:55 ocasionally is spazzes out
+plane-crazy 2018-11-30 01:47:25 here you go <@456226577798135808>
+plane-crazy 2018-11-30 01:47:49 oh
+plane-crazy 2018-11-30 02:03:35 Pook, I broke the warp machine and it didn't even say the speed any more
+plane-crazy 2018-11-30 02:04:05 so to use it do you extend or retract the ropes?
+plane-crazy 2018-11-30 02:04:32 k
+plane-crazy 2018-11-30 02:13:57 <@456226577798135808> do you just have to wait and hope that it glitches out or is there something you can do to make it do the glitch
+plane-crazy 2018-11-30 02:25:51 I got it to glitch
+help 2018-12-01 17:34:02 what does the reset function on the motors do?
+plane-crazy 2018-12-01 21:21:20 I entered polygon land
+plane-crazy 2018-12-01 21:22:41 I activated the parachute in the polygon thing and went flying into oblivion, then my screen just turned white
+bug-reports 2018-12-01 23:38:37 I got this speed with the parachute which actually could be used by itself to do this, jumping on it repeatedly sends you flying and if you are lucky you can deactivate and reactivate it for this to happen
+bug-reports 2018-12-01 23:39:05 btw, that number is ten quadrillions of sps
+bug-reports 2018-12-01 23:45:49 what did you do to the game?
+bug-reports 2018-12-01 23:46:09 I have seen it come apart a little on the corner before but not that much
+bug-reports 2018-12-02 04:59:14 It's under settings
+help 2018-12-02 23:35:06 I can't move my creation up for some reason, it just gives me an error message, I can still build upwards but I need to move the creation upwards, any idea why it would do this? this has happened on other creations as well
+help 2018-12-02 23:36:22 there is nothing nearly high enough up to be colliding with the top
+help 2018-12-02 23:36:45 I am trying to find a way to check underneath
+help 2018-12-02 23:37:59 there appears to be nothing underneath
+plane-crazy 2018-12-03 00:58:02 has anyone made an ornithopter in this game before?
+plane-crazy 2018-12-03 00:58:23 it's a plane that flaps like a bird
+plane-crazy 2018-12-03 00:58:31 instead of using jets or turbines
+plane-crazy 2018-12-03 00:59:13 I am working on one and it is almost working but I can't quite get it off the ground
+plane-crazy 2018-12-03 00:59:53 I think most of the reason is that I can't get the center of gravity behind the center of lift easily
+plane-crazy 2018-12-03 01:00:51 strange, I got the center of lift infront but now it just is nosediving into the ground
+plane-crazy 2018-12-03 01:03:18 no
+plane-crazy 2018-12-03 01:03:22 there are plenty of them
+plane-crazy 2018-12-03 01:03:41 just search youtube for ornithopter and you will find videos
+plane-crazy 2018-12-03 01:03:53 yes
+plane-crazy 2018-12-03 01:03:59 working perfectly fine
+plane-crazy 2018-12-03 01:05:27 I am basing mine off of the one used by the smallest ornithopter in existence because the standard one requires gears which can't be made easily
+plane-crazy 2018-12-03 01:06:36 actually, I just got it to work
+plane-crazy 2018-12-03 01:06:43 I just spammed control panels on the back
+plane-crazy 2018-12-03 01:13:38 is there a block that acts like suspension but doesn't shrink past a certain size?
+plane-crazy 2018-12-03 01:14:37 I need something that can expand but not contract
+plane-crazy 2018-12-03 01:14:49 but a piston wouldn't work because it's powered
+plane-crazy 2018-12-03 01:36:44 k
+plane-crazy 2018-12-03 01:38:02 <@480090143307595786> the spring is overpowering the piston
+plane-crazy 2018-12-03 01:38:43 instead of the spring expanding it pushes the piston in
+plane-crazy 2018-12-03 01:39:16 I will send you a clip in a DM
+plane-crazy 2018-12-03 01:41:52 Theta, I sent you a quick video of my piston issue
+plane-crazy 2018-12-03 01:42:28 oh
+creations-chat 2018-12-03 02:57:56 Tommy5015 | Boeing 747 | 598 Blocks | Willing to take any rank, preferably replicator
+creations-chat 2018-12-03 03:01:11 idk, that was the inspiration for it
+creations-chat 2018-12-03 03:01:22 some sort of commercial airliner
+creations-chat 2018-12-03 03:04:42 they have some resemblance, I was limited by build space for everything
+creations-chat 2018-12-03 03:05:11 Tommy5015 | Ornithopter/Bird/Bat | 197 blocks | Unsure if I could get any roles with this as it seems like most of them require 500+ blocks
+creations-chat 2018-12-03 03:05:57 this one flies without the use of any propellers, jets, or rocket engines
+plane-crazy 2018-12-05 02:22:37 how often is the autosave?
+the-dump 2018-12-05 02:26:07 test
+help 2018-12-05 02:28:25 how often is the autosave?
+help 2018-12-05 02:29:03 I was building a carrier for the carrier ranks for 2 hours, got almost done, left and came back and roblox had broken so I got into a new server and apparently it never autosaved
+help 2018-12-05 02:29:15 is this a bug or does autosave just not save very often?
+help 2018-12-05 03:33:09 oh
+help 2018-12-05 03:33:14 that makes sense, I never spawned it

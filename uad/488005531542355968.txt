@@ -1,0 +1,12 @@
+The Tale of saekura (488005531542355968)
+bug-reports 2020-10-24 18:14:59 uh
+bug-reports 2020-10-24 18:15:12 i'm having save issue
+bug-reports 2020-10-24 18:15:27 where whenever i save a build then leave the server i would always get the save before the last save
+bug-reports 2020-10-24 18:15:46 im basically stuck with my creation with no ability to add any progression
+bug-reports 2020-10-24 18:17:11 not sure
+bug-reports 2020-10-24 18:17:29 its like my second or third time having this issue in a single day
+bug-reports 2020-10-24 18:18:20 how do i check the status of datastores
+bug-reports 2020-10-24 18:18:27 kind of new to these stuff
+bug-reports 2020-10-24 18:22:23 ah
+bug-reports 2020-10-24 18:22:34 do motorlocking affect saving
+bug-reports 2020-10-24 18:22:50 right good

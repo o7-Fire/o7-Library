@@ -1,0 +1,4 @@
+The Tale of mem_ (160762624395575296)
+help 2021-12-15 05:59:41 yo guys, I'm trying to make a jet but I can't see the center of lift even after placing wings
+am I doing something wrong?
+help 2021-12-15 06:00:25 saving and reloading worked, thanks 😄

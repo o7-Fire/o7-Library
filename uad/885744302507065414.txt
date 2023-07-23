@@ -1,0 +1,10 @@
+The Tale of rockett5004 (885744302507065414)
+bug-reports 2023-01-10 22:57:33 Bug: motors with motor lock are snapping back to spawn orientation even after being rotated
+bug-reports 2023-01-11 00:34:18 It’s not it just started happening with my build today I used the build yesterday perfectly fine
+bug-reports 2023-01-11 00:42:01 Ok I’ll get on and give it a try again
+bug-reports 2023-01-11 00:44:30 5999 in rising…
+bug-reports 2023-01-11 00:44:49 Idk what the deal is wasn’t this laggy yesterday
+bug-reports 2023-01-11 00:47:25 It stopped at 10k
+bug-reports 2023-01-11 00:56:18 I works in a private Server but that’s so lonely
+bug-reports 2023-01-11 00:56:31 Plus I like showing it off to people that’s basically the reason I built it
+general 2023-07-13 00:22:56 Using 250% of your build space there

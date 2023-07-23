@@ -1,0 +1,15 @@
+The Tale of aaron.the.wolf.squirrel.hybrid (438900481130102794)
+general 2020-09-12 23:16:36 hi
+general 2020-09-18 01:33:11 <@227590705286086659>, are you fat?
+general 2020-09-26 05:46:47 <@!227590705286086659>
+bot-central 2020-09-26 05:49:19 <@!568006902265413632>
+bot-central 2020-09-26 05:49:40 -ms
+bot-central 2020-09-26 05:50:26 -ms hard
+bot-central 2020-09-26 05:51:55 -help
+bot-central 2020-09-26 05:52:22 -help
+bot-central 2020-09-26 05:52:39 -help ms
+bot-central 2020-09-26 05:52:58 -minesweeper 50 50 50
+bot-central 2020-09-26 05:53:27 -minesweeper 50 50 0
+bot-central 2020-09-26 05:53:42 -minesweeper 50 50 1
+bot-central 2020-09-26 05:54:00 -minesweeper 1 1 0
+general 2020-09-26 05:54:35 <@!568006902265413632> r u jerry

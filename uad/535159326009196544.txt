@@ -1,0 +1,176 @@
+The Tale of bistups (535159326009196544)
+plane-crazy 2021-12-21 16:46:15 hey so i kinda suck at this game. Why doesent my plane go up?
+plane-crazy 2021-12-21 16:46:26 i got control panels
+plane-crazy 2021-12-21 19:33:02 anyone know how to fix glitching control panels?
+plane-crazy 2021-12-21 19:33:07 They simply go up and down
+plane-crazy 2021-12-21 19:33:15 cant control them
+plane-crazy 2021-12-29 22:47:21 Anyone know how to make a part go as fast as possible using magnets? as in what pattern do you place the magnets
+help 2022-02-23 14:13:47 Im trying to make a scotch yoke mechanism, it works but its unstable and keeps breaking at speeds higher than 15
+help 2022-02-23 14:13:48 
+help 2022-02-23 14:13:52 anyone know how to make it less glitchy?
+help 2022-02-23 14:19:23 its mostly  glitching where the blue part is, it just clips inside the blocks, stopping the mechanism
+help 2022-02-23 14:20:27 tried that
+help 2022-02-23 14:20:33 
+help 2022-02-23 14:20:38 ill do the middle part now
+help 2022-02-23 14:20:47 k
+help 2022-02-23 14:21:16 about the same performance
+help 2022-02-23 14:21:41 
+help 2022-02-23 14:21:42 its like
+help 2022-02-23 14:21:51 its clipping in the wall
+help 2022-02-23 14:21:56 creating tons of friction
+help 2022-02-23 14:21:58 stopping it from moving
+help 2022-02-23 14:22:36 i mean
+help 2022-02-23 14:22:37 
+help 2022-02-23 14:22:37 that
+help 2022-02-23 14:22:48 the cylinder clips into that part
+help 2022-02-23 14:22:51 o
+help 2022-02-23 14:23:05 where's ice?
+help 2022-02-23 14:23:29 aight
+help 2022-02-23 14:23:30 thanks
+help 2022-02-23 14:23:32 cant find ice tho
+help 2022-02-23 14:23:43 oh
+help 2022-02-23 14:23:44 thanks
+help 2022-02-23 14:23:44 right
+help 2022-02-23 14:24:05 ty
+help 2022-02-23 14:24:05 works perfectly
+help 2022-02-23 16:19:58 what cooldown do rockets have?
+help 2022-02-23 16:20:00 like how long
+help 2022-02-23 16:20:32 that'd be op
+help 2022-02-23 16:20:37 must have some sort of cooldown
+help 2022-02-23 16:20:54 oh
+help 2022-02-23 16:21:00 so that ruined my plans
+help 2022-02-23 16:22:02 its like
+help 2022-02-23 16:22:08 0.5 sec after collision
+help 2022-02-23 16:22:25 how long until they despawn?
+help 2022-02-23 16:22:38 nvm
+help 2022-02-23 16:22:38 10 secs
+help 2022-02-23 16:23:00 im trying to uh
+help 2022-02-23 16:23:02 make a macro
+help 2022-02-23 16:23:04 that shoots rockets
+help 2022-02-23 16:23:06 so its not like
+help 2022-02-23 16:23:08 10 at once
+help 2022-02-23 16:23:11 but theyre all seperated
+help 2022-02-23 16:26:06 uh
+help 2022-02-23 16:26:08 no clue
+help 2022-02-23 16:28:05 what cooldown do fireworks have?
+help 2022-02-23 16:29:57 i can fire them every like
+help 2022-02-23 16:30:00 less than a second
+help 2022-02-23 16:32:49 right
+help 2022-02-23 16:35:04 whats the cooldown between the shots tho?
+help 2022-02-23 16:37:02 nvm
+the-dump 2022-03-27 19:17:47 where do i show people my idea for a war crime weapon
+plane-crazy 2022-03-27 19:19:11 anyone think this'll work?
+plane-crazy 2022-03-27 19:19:16 cant post images
+plane-crazy 2022-03-27 19:19:17 oops
+plane-crazy 2022-03-27 19:19:28 how do i get image perms?
+plane-crazy 2022-03-27 19:19:42 mee6 right?
+plane-crazy 2022-03-27 19:19:59 ugh
+bot-central 2022-03-27 19:20:09 !rank
+bot-central 2022-03-27 19:20:14 close
+bot-central 2022-03-27 19:20:16 !rank
+bot-central 2022-03-27 19:20:23 a
+plane-crazy 2022-03-27 19:20:32 im kinda close to lvl 3
+plane-crazy 2022-03-27 19:20:33 just gotta
+plane-crazy 2022-03-27 19:20:35 more
+plane-crazy 2022-03-27 19:20:35 talk a bit
+plane-crazy 2022-03-27 19:20:37 in channels
+plane-crazy 2022-03-27 19:20:38 in this server
+plane-crazy 2022-03-27 19:20:40 get
+plane-crazy 2022-03-27 19:20:40 till i
+plane-crazy 2022-03-27 19:20:42 level
+plane-crazy 2022-03-27 19:20:42 the
+bot-central 2022-03-27 19:20:57 !rank
+bot-central 2022-03-27 19:20:59 !rank
+bot-central 2022-03-27 19:21:23 !rank
+plane-crazy 2022-03-27 19:22:09 you think pc2 will have larger plots?
+plane-crazy 2022-03-27 19:22:28 its coming in summer
+the-dump 2022-03-27 19:22:46 i cant post images yet
+the-dump 2022-03-27 19:22:48 but basically
+the-dump 2022-03-27 19:22:53 your typical tnt cannon
+the-dump 2022-03-27 19:22:58 magnet powered
+the-dump 2022-03-27 19:23:06 but the ammo system is mostly what will make it op
+the-dump 2022-03-27 19:23:08 basically
+the-dump 2022-03-27 19:23:11 large rotating cylinder
+the-dump 2022-03-27 19:23:16 with a gear around it
+the-dump 2022-03-27 19:23:18 yeah
+the-dump 2022-03-27 19:23:22 but
+the-dump 2022-03-27 19:23:26 with like
+the-dump 2022-03-27 19:23:29 huge aggo
+the-dump 2022-03-27 19:23:30 ammo*
+the-dump 2022-03-27 19:23:33 so
+the-dump 2022-03-27 19:23:37 hold on
+the-dump 2022-03-27 19:23:42 ill get mee6 lvl 3 so i can most the image
+the-dump 2022-03-27 19:23:52 yeah...
+the-dump 2022-03-27 19:23:54 with a huge mag
+the-dump 2022-03-27 19:24:03 sure
+bot-central 2022-03-27 19:24:09 !rank
+the-dump 2022-03-27 19:24:17 5 more xp
+the-dump 2022-03-27 19:24:22 yeah it'll be big
+the-dump 2022-03-27 19:24:31 most of the space will be taken by the ammo system
+the-dump 2022-03-27 19:24:41 
+the-dump 2022-03-27 19:24:57 not a piston
+the-dump 2022-03-27 19:24:58 but suspension
+the-dump 2022-03-27 19:25:03 powered by a rotating thing
+the-dump 2022-03-27 19:25:07 pushes it back, and releases
+the-dump 2022-03-27 19:25:27 im gonna build it in a lego game, not selling it to militaries
+the-dump 2022-03-27 19:30:40 relatable
+the-dump 2022-03-27 19:33:02 relatable
+the-dump 2022-03-27 19:36:50 okay so
+the-dump 2022-03-27 19:36:56 small prototype works
+general 2022-06-19 15:08:25 plane crazy 2 when
+general 2022-06-19 15:08:59 plane crazy two when
+plane-crazy 2022-07-09 14:27:54 pc2 when
+plane-crazy 2022-07-09 14:28:00 its literally the middle of summer
+plane-crazy 2022-07-09 14:28:06 and the release date is summer
+general 2022-07-09 14:28:35 pc 2 when, its summer
+general 2022-07-09 14:28:54 no
+general 2022-07-09 14:29:13 racism
+general 2022-07-09 14:29:31 even more racism
+general 2022-07-09 14:30:23 if i make
+general 2022-07-09 14:30:26 a turret right
+general 2022-07-09 14:30:34 that moves one piece very fast without it disconnecting
+general 2022-07-09 14:30:39 and put a rocket on that part
+general 2022-07-09 14:30:49 and then shoot the rocket whilst the part is moving at like 500 sps
+general 2022-07-09 14:30:53 will the rocket move at 650 sps
+general 2022-07-09 14:31:03 since a rockets speed is velocity + 150
+general 2022-07-09 14:31:11 so i can make like hypersonic missles
+general 2022-07-09 14:31:51 i prefer toddles
+general 2022-07-09 14:31:59 theyre much heavier so they have a higher impact force
+general 2022-07-09 14:32:06 toddles
+general 2022-07-09 14:32:16 toddles
+general 2022-07-09 14:32:36 🤨
+general 2022-07-09 14:33:15 idk how
+general 2022-07-09 14:33:20 but i managed to make a rocket spin
+general 2022-07-09 14:33:21 BUT
+general 2022-07-09 14:33:21 right
+general 2022-07-09 14:33:23 when i fire it
+general 2022-07-09 14:33:29 it teleports far away and comes towards me
+general 2022-07-09 14:33:41 die
+general 2022-07-09 14:33:43 will pc have like
+general 2022-07-09 14:33:46 more weapons
+general 2022-07-09 14:33:54 nae
+general 2022-07-09 14:35:37 pig factory
+general 2022-07-09 14:35:44 https://media.discordapp.net/attachments/817777127448379434/838561789011558450/image0-12.gif
+general 2022-07-09 14:36:23 there is a pipe bomb in your mailbox
+general 2022-07-09 14:36:45 https://media.discordapp.net/attachments/664548443875704833/950533420235243570/tax_evasion.gif
+plane-crazy 2022-07-09 17:20:29 is there any part which can connect these two blocks
+plane-crazy 2022-07-09 17:20:30 
+plane-crazy 2022-07-09 17:21:11 Thanks
+plane-crazy 2022-07-09 17:23:14 the hard part is getting the correct rotation
+plane-crazy 2022-07-15 15:36:30 Pc3 when
+general 2022-07-15 15:36:54 Pc3 when
+general 2022-07-24 20:18:02 pc 2 when
+general 2022-07-24 20:18:32 why?
+general 2022-07-24 20:19:21 why
+general 2022-07-24 20:19:56 why
+general 2023-06-17 13:09:21 just joined and this is the first thing i read
+general 2023-06-17 13:09:23 not off to a good start
+general 2023-06-17 13:10:00 try rick astley
+general 2023-06-17 13:10:03 hes never gonna let you down
+the-dump 2023-06-17 13:15:26 do i get banned if i ask when pc2 releases
+the-dump 2023-06-17 13:15:47 oh
+the-dump 2023-06-17 13:15:52 when doesent pc 2 release
+the-dump 2023-06-17 13:16:58 oh
+general 2023-06-18 00:34:33 how the hell do i join a dif pvp server
+general 2023-06-18 00:34:49 what the hell is a date
+general 2023-06-18 00:34:54 i did

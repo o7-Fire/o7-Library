@@ -1,0 +1,39 @@
+The Tale of Smokey (771852006046040085)
+plane-crazy 2020-12-28 16:31:29 any tips for this helicopter? im trying to make it work but it tips on it's side
+plane-crazy 2020-12-28 16:31:40 when in flight of course
+plane-crazy 2020-12-28 16:32:42 https://gyazo.com/59435d9d15ab3fb76c71b1f8ec2bc478
+plane-crazy 2020-12-28 16:33:27 no
+plane-crazy 2020-12-28 16:33:33 what would be the power source then?
+plane-crazy 2020-12-28 16:33:44 hmmm
+plane-crazy 2020-12-28 16:34:06 i tried rockets but when rotated they would provide power to going up and down
+plane-crazy 2020-12-28 16:35:28 ok now i need to figure out how to balance the center of mass
+plane-crazy 2020-12-28 16:35:41 i wish the ballast impacted the center of mass indicator
+plane-crazy 2020-12-28 16:36:04 any trick around that?
+plane-crazy 2020-12-28 16:39:15 i've made coaxial but i really want to try this
+plane-crazy 2020-12-28 16:42:27 ?
+plane-crazy 2020-12-28 16:45:15 yeah, they didn't do anything
+plane-crazy 2020-12-28 16:46:14 i was but then retrelux said to use rockets
+plane-crazy 2020-12-28 16:47:00 uh let me try with motors only again
+plane-crazy 2020-12-28 16:48:14 https://gyazo.com/0fb2fedff9d78928cae1634ea50a0260 i have to go ill be back later
+plane-crazy 2020-12-28 19:26:41 <@!645128367611445248> im back
+plane-crazy 2020-12-28 19:29:40 this is so frustrating, what can i do to make this helicopter not tilt on it's side because of torque?
+plane-crazy 2020-12-28 19:31:22 James a sufficient rotor set up for me lmao
+plane-crazy 2020-12-28 19:31:38 
+plane-crazy 2020-12-28 19:40:23 single
+plane-crazy 2020-12-28 19:40:59 Oh also, how would I can roll stablization?
+plane-crazy 2020-12-28 19:42:11 Where?
+plane-crazy 2020-12-28 19:43:27 uh
+plane-crazy 2020-12-28 19:47:28 <@!645128367611445248> wdym?
+plane-crazy 2020-12-28 20:09:28 https://gyazo.com/6a89ddcab10ea4d837da743fe4288bf6
+plane-crazy 2020-12-28 20:09:37 This is super frustrating
+plane-crazy 2020-12-28 20:11:42 oh shoot
+plane-crazy 2020-12-28 20:11:56 LMAO no mb
+plane-crazy 2020-12-28 20:19:36 The motor is lined up with the center of mass?
+plane-crazy 2020-12-28 20:20:01 I tried the to move the rotor over but that didnt help either
+plane-crazy 2020-12-28 20:28:12 
+plane-crazy 2020-12-28 20:28:19 I added ballast on the bottom but it barely helps
+plane-crazy 2020-12-28 20:28:32 I need to sync up my torque always too
+plane-crazy 2020-12-28 21:13:21 the motor or rotor?
+plane-crazy 2020-12-28 21:22:47 the motor is on the center of mass but yet it still rolls
+plane-crazy 2020-12-28 21:22:57 want to join me <@!645128367611445248> ?
+plane-crazy 2020-12-28 21:41:04 ..?

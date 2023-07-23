@@ -1,0 +1,23 @@
+The Tale of lumen_1. (526062603513102379)
+general 2020-02-02 21:39:21 so uh, I think i've figured out the weight of a block compared to helium, or something is this the right place to post the possible values of certain blocks?
+general 2020-02-02 21:39:51 thx
+plane-crazy 2020-02-02 21:40:07 ok so, the possible weight for a single block may be 0.283
+plane-crazy 2020-02-02 21:40:28 and in order to negate the negative weight of a helium block is 2.55 ballast, but limited to 2.56 and 2.54
+plane-crazy 2020-02-02 21:40:39 9 blocks are equivalent to a helium block,
+plane-crazy 2020-02-02 21:40:42 but not exactly
+plane-crazy 2020-02-02 21:40:48 that's about all i've figured out
+plane-crazy 2020-02-02 21:40:56 and apparently a person weighs 0.32
+general 2020-02-02 21:41:22 done
+plane-crazy 2020-02-02 21:42:07 i've found that when I place 9 blocks under a helium it stays in place
+plane-crazy 2020-02-02 21:42:21 nice
+plane-crazy 2020-02-02 21:42:31 all of this is good information
+plane-crazy 2020-02-02 21:42:37 i gotta see what other people have found out
+plane-crazy 2020-02-02 21:43:17 oki
+plane-crazy 2020-02-02 21:43:30 my brain legit hurts after doing a painstaking way to get measurements ;-;
+plane-crazy 2020-02-02 21:43:42 had to use a human subject XD
+plane-crazy 2020-02-02 21:43:48 ;o
+plane-crazy 2020-02-02 21:44:16 nice
+plane-crazy 2020-02-02 21:44:34 oof
+plane-crazy 2020-02-02 21:44:41 so it's the acceleration?
+plane-crazy 2020-02-02 21:44:45 like, over time?
+plane-crazy 2020-02-02 21:47:03 I have a lil question... so uh, i've been trying to make a walker that walks smoothly, but sometimes the feet and legs do the harlem seizure, is there a fix to this?

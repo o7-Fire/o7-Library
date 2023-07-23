@@ -1,0 +1,9 @@
+The Tale of PaladinJM (237455584276774913)
+help 2022-06-02 06:24:44 Is it possible to use a gyroscope for steering in this game?
+help 2022-06-02 06:33:56 Ive tried but it seems like my rotation is being locked
+help 2022-06-02 07:24:31 Perhaps some crew living quarters, maybe an engine room or ammuntion storage
+help 2023-01-31 23:53:49 i dont think that works
+help 2023-01-31 23:54:39 ive tried having other people drive my vehicles in the main pilot seat and it didnt work
+help 2023-02-10 10:32:04 cant figure out why my madcat's torso keeps spinning and going crazy here
+help 2023-02-10 10:32:24 1,2 and 3 are Motor 2s
+help 2023-02-10 10:32:46 is it not possible to have this setup?

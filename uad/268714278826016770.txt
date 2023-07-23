@@ -1,0 +1,13 @@
+The Tale of vincentjames1 (268714278826016770)
+general 2020-07-13 02:12:46 plane™️
+general 2020-09-01 22:14:48 imagine not clearing the savedata when it reaches 2500k+
+general 2020-09-01 22:15:01 and not having a failsafe
+general 2020-09-01 22:15:49 why would you not have a fail safe for this???
+general 2020-09-01 22:16:55 rick why is there no failsafe for 2500k
+general 2020-09-01 22:17:37 ohhh
+general 2020-09-01 22:17:44 ah
+general 2020-09-01 22:22:25 can roblox write binary?
+general 2020-09-01 22:24:39 if roblox can write and read binary then you could store blocks with bits assigning each item with 8 bits and storing positions with 32bits considering the build space is small
+general 2020-09-01 22:25:26 but since there is different sized blocks i bet that would break alot
+general 2020-09-01 22:26:29 i wonder if saves have a character limit
+general 2020-09-01 22:26:34 for the names

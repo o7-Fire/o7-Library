@@ -1,0 +1,7 @@
+The Tale of loftiestgravy (595331524556095541)
+bot-central 2021-05-13 21:30:46 !shelp
+bot-central 2021-05-13 21:31:08 ?shelp
+bot-central 2021-05-13 21:31:52 ?rhelp
+bot-central 2021-05-14 19:06:55 ?new
+bot-central 2021-05-16 08:49:50 ?rhelp
+bug-reports 2021-05-16 09:05:40 Sometimes when I spawn larger creations, I crash, but I just assumed that was me destroying the physics engine.

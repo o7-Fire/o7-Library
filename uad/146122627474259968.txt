@@ -1,0 +1,7 @@
+The Tale of urban_l (146122627474259968)
+plane-crazy 2020-09-12 10:04:00 it became r/gocommitdiev2 now
+help 2020-11-04 08:32:11 rick said so at announcements
+help 2020-11-04 11:08:12 does anyone have any ideas for connecting the bottom train and the top train, with flexibility for 2 axles?
+help 2020-11-04 12:12:10 > motor lock
+<@!615810446724694018> the problem is making the connection flexible
+plane-crazy 2020-11-04 14:43:27 is it worth it to reduce the amount of motors used for motor locking?

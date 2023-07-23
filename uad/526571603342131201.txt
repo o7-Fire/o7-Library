@@ -1,0 +1,52 @@
+The Tale of australianspiderchan (526571603342131201)
+general 2022-10-27 03:02:19 i've run into a problem with CUBE MK3
+general 2022-10-27 03:02:52 there's so many hoverthrusters in this superstructure of a vehicle that there's a 45 second delay between me pressing shift and the vehicle going up
+general 2022-10-27 03:02:55 any suggestions?
+general 2022-10-27 03:04:18 i have about 200 hoverthrusters
+general 2022-10-27 03:04:35 thinking about making the frame of the vehicle just straight helium and halfing the hoverthrusters
+general 2022-10-27 03:04:46 21x21x21 **CUBE**
+general 2022-10-27 03:05:38 i made a 7x7x7 cube
+general 2022-10-27 03:05:45 decided to make a whole observation base
+general 2022-10-27 03:05:50 a gun
+general 2022-10-27 03:06:05 are guns not lightweight?
+general 2022-10-27 03:06:13 it's a singular block and *maybe* two motots
+general 2022-10-27 03:06:25 irl
+general 2022-10-27 03:06:25 oh
+general 2022-10-27 03:06:30 still add a gun
+plane-crazy 2022-10-27 03:08:52 e
+general 2022-10-27 03:11:16 i really want that bomber game where you control a bomber crew (if i remember correctly it's literally called bomber crew)
+general 2022-10-27 03:11:32 also the one made by the same guys where you control a spaceship and the crew
+general 2022-10-27 03:11:59 there's boarding and stuff
+general 2022-10-27 03:12:06 that's why i wanted it
+general 2022-10-27 03:12:12 i think boarding is cool
+general 2022-10-27 03:13:22 treefactory defo plays neo warfare
+general 2022-10-27 03:13:27 just saying
+general 2022-10-27 03:13:41 and military flight simulator
+general 2022-10-27 03:14:02 heard it had a bad reputation but idrc cause i play it too
+general 2022-10-27 03:14:56 i just played as rebel vehicles and laughed as my toyota explorer (2002) single handedly detsroyed a multi million dollar destroyer
+general 2022-10-27 03:16:18 oh dcs exists
+general 2022-10-27 03:16:22 wait people play DCS?
+general 2022-10-27 03:16:35 i thought it died
+general 2022-10-27 03:17:06 thanks for the info
+general 2022-10-27 03:17:12 dcs is a dead community apparently
+general 2022-10-27 03:20:29 you're able to make something in build and create?
+general 2022-10-27 03:20:37 dude has atleast 2k hours in it
+general 2022-10-27 03:20:57 build and create is fun but one of the must mind numbingly hard things to grasp
+general 2022-10-27 03:21:03 i need to take a college course for that
+general 2022-10-27 03:21:14 what is it
+general 2022-10-27 03:21:30 build n' destroy
+general 2022-10-27 03:21:32 whatever bro
+general 2022-10-27 03:21:39 haven't played it in like 3 months
+general 2022-10-27 03:22:28 oh god
+general 2022-10-27 03:22:51 361 hoverthrusters in my build, no wonder why there's such a delay
+general 2022-10-27 04:13:50 finally got to work this 21x21x21 superstructure of an aircraft to work
+general 2022-10-27 04:13:55 CUBE MK3 has been completed
+general 2022-10-27 04:20:08 does changing the speed of a hoverthruster change how it works when accounting for terrain cause this vehicle is bouncing everywhere
+general 2022-10-27 04:21:21 think i may need to change how many thrusters i have / where they're placed because this cube cannot get over a ditch without doing a barrel roll
+general 2022-10-27 04:23:57 my hoverthrusters are in a tile pattern due to the size of the vehicle, what should i do to stop it from doing a barrel roll when it contacts the slightest of terrain variation
+general 2022-10-27 04:24:32 new update / dlc
+general 2022-10-27 04:24:38 massive main island for quarries and stuff
+general 2022-10-27 04:29:28 should i turn on ignore others for hoverthrusters if my 21x21x21 superstructure is having an issue with hoverthrusters being wonky
+general 2022-10-27 21:40:14 i thought making a small vehicle detach from a larger one would be easy but NO the pilot seat controls every even if they're not connected
+general 2022-10-27 21:49:25 woah there buddy, cool it with the antisemetic remarks
+general 2022-10-27 21:55:17 should i make a tiny drone that just explodes

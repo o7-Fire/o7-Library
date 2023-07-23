@@ -1,0 +1,179 @@
+The Tale of g4ng5t4 (545322273549189170)
+plane-crazy 2021-01-04 17:29:02 My helicopter takes off fine going directly up without any deviations but when i make it go front it moves front then randomly jerks back
+plane-crazy 2021-01-04 17:29:07 any solution to this??
+general 2021-01-30 13:51:26 hi
+general 2021-01-30 13:51:29 wait uh
+general 2021-01-30 13:51:42 am i not supposed to be nicked?
+general 2021-01-30 13:51:46 with my roblox account
+general 2021-01-30 13:51:54 eh
+general 2021-01-30 13:52:03 also where can i find help for my builds?
+general 2021-01-30 13:52:20 ty
+plane-crazy 2021-01-30 13:52:40 im tryna make a c-17
+plane-crazy 2021-01-30 13:54:02 when i made the skeletal body without the wing panels etc, it folded and unfolded properly but the moment i added wing panels and motor locked them to be flush with the wing blocks my plane just started flying everywhere when i turned off the anchor block
+plane-crazy 2021-01-30 13:54:11 i realized that adding weight made it get less freaky
+plane-crazy 2021-01-30 13:54:22 but it also slowed my plane down
+plane-crazy 2021-01-30 13:54:30 so wanted to know if their's anything else i can try?
+plane-crazy 2021-01-30 13:54:32 its done
+plane-crazy 2021-01-30 13:54:35 the body is done
+plane-crazy 2021-01-30 13:55:23 which ones though
+plane-crazy 2021-01-30 13:55:32 i have motor2 which i use for the unfolding
+plane-crazy 2021-01-30 13:55:35 which was working fine
+plane-crazy 2021-01-30 13:55:42 it only started getting crazy
+plane-crazy 2021-01-30 13:56:03 after i made the wing flaps moveable
+plane-crazy 2021-01-30 13:56:12 to move left and right
+plane-crazy 2021-01-30 13:57:12 increasing the planes weight seems to be making it less crazy
+plane-crazy 2021-01-30 13:57:29 but i doubt ill be able to make it leave the ground with the amount of ballasant blocks im using
+plane-crazy 2021-01-30 13:57:59 and ive seen other people with bigger c-17s which worked fine and fast
+plane-crazy 2021-01-30 14:10:04 this is my plane b4 unfolding
+plane-crazy 2021-01-30 14:10:05 https://media.discordapp.net/attachments/653129788692627500/805076144272441354/unknown.png?width=441&height=337
+plane-crazy 2021-01-30 14:10:09 um
+plane-crazy 2021-01-30 14:10:12 no pic perms rip
+plane-crazy 2021-01-30 14:10:23 how do i get it?
+plane-crazy 2021-01-30 14:10:41 so i cant get help until i reach level 3?
+plane-crazy 2021-01-30 14:10:51 wack :\
+plane-crazy 2021-01-30 14:11:05 aight
+general 2021-01-30 14:11:18 i need
+general 2021-01-30 14:11:21 to get level 3 mee6
+general 2021-01-30 14:11:23 so hi
+plane-crazy 2021-01-30 14:17:15 whats the best way to make ailerons not glitch out in big planes?
+plane-crazy 2021-01-30 14:17:32 whats the best way to make ailerons in general?
+plane-crazy 2021-01-30 14:17:46 so how do i make my plane roll?
+plane-crazy 2021-01-30 14:18:12 how wil they tilt though?
+plane-crazy 2021-01-30 14:18:43 oh u mean control panels
+plane-crazy 2021-01-30 14:18:49 mb i read them as wing panels
+plane-crazy 2021-01-30 14:18:53 hmm
+plane-crazy 2021-01-30 14:19:08 will control panels work on big planes too?
+plane-crazy 2021-01-30 14:19:54 oh like keep propellers on wings to make them roll?
+plane-crazy 2021-01-30 14:20:12 hmm
+plane-crazy 2021-01-30 14:20:33 how do i make it fit in with the design? instead of just having a rocket stickking out of the wing?
+plane-crazy 2021-01-30 14:20:41 can i motorlock them into a block somehow?
+plane-crazy 2021-01-30 14:21:02 oh
+plane-crazy 2021-01-30 14:21:04 rip
+plane-crazy 2021-01-30 14:21:08 aight thanks
+plane-crazy 2021-01-30 14:21:29 another question
+plane-crazy 2021-01-30 14:21:40 what do u use to make retractable landing gears?
+plane-crazy 2021-01-30 14:21:45 like not the default ones
+plane-crazy 2021-01-30 14:21:57 not the bending part
+plane-crazy 2021-01-30 14:22:12 like how do i make the cover
+plane-crazy 2021-01-30 14:22:22 to cover the landing gears after they are retracted in
+plane-crazy 2021-01-30 14:22:24 ye
+plane-crazy 2021-01-30 14:22:52 im working on a c-17 rn
+plane-crazy 2021-01-30 14:23:01 can i dm u?
+plane-crazy 2021-01-30 14:23:08 aight 1 sec
+plane-crazy 2021-01-30 15:21:51 wuts the best rocket to use in planes?
+plane-crazy 2021-01-30 15:21:55 super rocket?
+plane-crazy 2021-01-30 15:26:15 aight ty
+plane-crazy 2021-01-30 15:27:56 i mainly want power
+plane-crazy 2021-01-30 15:27:58 ty
+plane-crazy 2021-01-30 15:32:34 if i was to increase the torque on my motor 2 which i use for my ailerons would that decrease the wobbling?
+plane-crazy 2021-01-30 15:33:53 so will they never be fixed or is it just upcoming?
+plane-crazy 2021-01-30 15:34:31 wait were they always broken or did the recent update mess it up?
+plane-crazy 2021-01-30 15:35:10 thats a lot of pink <:Thonk:509498568982134816>
+plane-crazy 2021-01-30 15:35:26 aight
+plane-crazy 2021-01-30 15:36:14 O.O
+plane-crazy 2021-01-30 15:37:15 or they're under government hunting restrictions which is even worse
+plane-crazy 2021-01-30 16:56:59 how do the ailerons work in this?
+plane-crazy 2021-01-30 18:15:38 how do i stop my creation from freaking out after unfolding?
+plane-crazy 2021-01-30 18:16:14 how do i turn on lock in motor 2?
+plane-crazy 2021-01-30 18:16:30 if i do 180 it keeps going in wrong direction though
+plane-crazy 2021-01-30 18:16:36 so i put it at 179.9
+plane-crazy 2021-01-30 18:16:53 then what do u mean by this?
+plane-crazy 2021-01-30 18:17:09 im using motor 2 but it still freaks out
+plane-crazy 2021-01-30 18:17:19 wait how will it move if its locked?
+plane-crazy 2021-01-30 18:17:34 i dont understand
+plane-crazy 2021-01-30 18:17:44 oh...
+plane-crazy 2021-01-30 18:17:48 ye lol mines at 1000
+plane-crazy 2021-01-30 18:18:08 what should the settnig be for motor 1?
+plane-crazy 2021-01-30 18:18:21 should powered be on?
+plane-crazy 2021-01-30 18:18:42 and cameras right?
+plane-crazy 2021-01-30 18:18:46 to connect the 2 parts
+plane-crazy 2021-01-30 18:19:01 ok 1 sec lemme test it
+plane-crazy 2021-01-30 18:19:13 ye
+plane-crazy 2021-01-30 18:19:30 ty
+plane-crazy 2021-01-30 18:47:31 <@!251880826386513924> <@!479305807674998804> now the parts dont freak out on their own but the whole plane freaks out randomly
+plane-crazy 2021-01-30 18:47:43 wut do i do?
+plane-crazy 2021-01-30 19:14:52 this is my plane when it is folded
+plane-crazy 2021-01-30 19:15:07 it unfolds pretty neatly now
+plane-crazy 2021-01-30 19:15:15 but
+plane-crazy 2021-01-30 19:15:22 when i try to use move it with rockets
+plane-crazy 2021-01-30 19:16:00 ye...
+plane-crazy 2021-01-30 19:16:12 wut am i doing wrong ;-;
+plane-crazy 2021-01-30 19:29:22 im about to quit on this plane ;-; i cant figure out how to fix it
+plane-crazy 2021-01-30 19:30:20 im trying to make it go front rn
+plane-crazy 2021-01-30 19:30:29 im using super rockets
+plane-crazy 2021-01-30 19:30:39 it just flips out after some time
+plane-crazy 2021-01-30 19:30:54 imma try ading more weight
+plane-crazy 2021-01-30 19:31:29 ye idk why but im not nicked to my roblox acc
+plane-crazy 2021-01-30 19:31:42 its SirMcMissile47
+plane-crazy 2021-01-30 19:32:51 lol
+plane-crazy 2021-01-30 19:32:52 np
+help 2021-01-31 13:44:37 which block is that rod thing?
+help 2021-01-31 13:45:04 how did he make it be in the middle though?
+help 2021-01-31 13:45:08 is that possible with trails?
+help 2021-01-31 13:45:43 oh
+help 2021-01-31 13:45:44 ty
+creations-chat 2021-02-05 13:01:27 its fine lol :D im just experimenting with motor locking so didnt really expect my first try to come good
+help 2021-02-05 13:02:51 how do i get that double layer texture on the wings??
+help 2021-02-05 13:04:46 so its one motor lock with wing panels ??
+help 2021-02-05 13:05:35 im not getting it rip
+the-dump 2021-02-05 17:23:08 <:hahaa:773727260539617280>
+the-dump 2021-02-05 17:23:11 lesson learnt
+the-dump 2021-02-05 17:23:25 <:hahaa:773727260539617280>
+the-dump 2021-02-05 17:27:11 i tried making it realistic
+the-dump 2021-02-05 17:27:41 which made it have shit maneuverability
+the-dump 2021-02-05 17:27:42 so said fuck it
+the-dump 2021-02-05 17:27:55 and went for more maneuverability than realism
+the-dump 2021-02-05 17:28:09 it works fine looks shit <:KEKW:670310537300672528>
+the-dump 2021-02-05 17:28:24 motro lock what in what?
+the-dump 2021-02-05 17:28:35 i like your funny words magic man
+the-dump 2021-02-05 17:28:54 yall speaking chinese or something tf
+the-dump 2021-02-05 17:29:08 im new to motorlockings
+the-dump 2021-02-05 17:29:12 lol
+the-dump 2021-02-05 17:29:26 did
+the-dump 2021-02-05 17:30:20 could u elaborate??
+the-dump 2021-02-05 17:30:42 yes ik how that works ree
+the-dump 2021-02-05 17:30:58 im tlaking about all this
+the-dump 2021-02-05 17:31:17 oh
+the-dump 2021-02-05 17:31:28 so u mean make it in multiple layers
+the-dump 2021-02-05 17:31:33 and then motor lock them
+the-dump 2021-02-05 17:31:34 hmm
+the-dump 2021-02-05 17:31:38 aight ill try that ty
+the-dump 2021-02-05 17:31:48 wait but wont they collide?
+the-dump 2021-02-05 17:32:01 like if a moving part has a solid piece motor locked into it
+the-dump 2021-02-05 17:32:06 or no?
+the-dump 2021-02-05 17:33:02 but control surfaces dont have much effect though
+the-dump 2021-02-05 17:33:27 then again i lose the realism
+the-dump 2021-02-05 17:33:31 wait
+the-dump 2021-02-05 17:33:39 do multiple control surfaces on top of each other
+the-dump 2021-02-05 17:33:44 have more effect than one?
+the-dump 2021-02-05 17:34:17 like multiple control surfaces motor locked together will be more effective than just one?
+the-dump 2021-02-05 17:35:07 oh...
+the-dump 2021-02-05 17:35:30 that practically shouldnt work but oh well
+the-dump 2021-02-05 17:36:28 what exactly does multiple wing panels motor locked together do?
+the-dump 2021-02-05 17:36:33 does it just make it more heavier?
+plane-crazy 2021-02-05 17:57:54 poor kid deleted his pic from <#384025409945337856> after he got spam downvoted <:elon:637632355636346880>
+plane-crazy 2021-04-02 06:45:51 are motor 2 still bugged?
+creations-chat 2021-06-07 09:16:08 F22 raptor not completed still got do some top designing and the wheels
+help 2021-06-07 09:17:11 anything else i need to add?
+help 2021-06-07 09:17:28 
+help 2021-06-07 09:17:28 
+help 2021-06-07 09:17:43 my first motor lock plane so go easy on me
+help 2021-06-07 09:17:55 am i missing any crucial design features?
+creations-chat 2021-06-07 09:26:19 i asked for feed back not ur shitty comment.
+
+<@!808227046227968040> i wanted to make it look like a thin glass cover instead of like a whole block but ig i didnt get what i wanted to achieve
+the-dump 2021-06-07 09:27:19 this dumbass
+the-dump 2021-06-07 09:27:25 "yrou're"
+help 2021-06-07 09:28:34 there's 0 trails in my build and i didnt only motor lock rockets
+creations-chat 2021-06-07 09:30:09 aight ill try that
+
+perry ill make the intakes smaller last time i posted a f22 raptor the intake was too small lol thats why i made it bigger this time
+help 2021-06-07 09:30:28 fair
+help 2021-06-07 11:35:37 its still a wip
+help 2021-06-07 11:35:50 i havent finished designing the top yet
+creations-chat 2021-06-09 07:20:59 F22/F35, havent started doing the wheels yet. just finishing up the top. anything i need to improve?
+creations-chat 2021-06-09 07:23:09 front
+creations-chat 2021-06-09 07:25:51 how exactly do i improve the cockpit? make it longer or wider? or curvier?
+creations-chat 2021-06-09 07:28:18 idk how to make the nose any other way xD ill try to something else ig
+creations-chat 2021-06-09 07:30:22 ill work on canopy then, havent yet completely gotten the hang of what block to use where
+general 2021-08-24 17:13:39 everyone ping

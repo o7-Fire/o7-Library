@@ -1,0 +1,6 @@
+The Tale of mare_pl (577190592413433883)
+plane-crazy 2023-02-15 20:04:29 When I launch a missile made from blocks, it doesn't go anywhere, it stays in place, no matter if the engine is ON or OFF. No anchor blocks on it.
+Anyone else has the same issue?
+plane-crazy 2023-02-15 20:06:18 ah
+plane-crazy 2023-02-15 20:06:31 i did
+plane-crazy 2023-02-15 20:06:36 nothing changed

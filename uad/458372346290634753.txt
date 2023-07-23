@@ -1,0 +1,25 @@
+The Tale of dadijeepa (458372346290634753)
+plane-crazy 2022-07-26 19:38:49 will plot sizes be changed in pc2?
+plane-crazy 2022-07-26 19:39:05 any details on that?
+plane-crazy 2022-07-26 19:39:08 like how big?
+plane-crazy 2022-07-26 19:39:44 since i have some big builds that im wondering if i should finish when pc2 comes out
+creations-chat 2022-07-26 19:43:32 how come i cant post to creations? am i too new to server?
+plane-crazy 2022-07-26 19:46:36 umm goodyear blimp?
+plane-crazy 2022-07-26 19:47:22 ok
+plane-crazy 2022-07-26 19:47:55 wait what will the gondola for it look like?
+plane-crazy 2022-07-26 19:48:03 or will it not have one?
+plane-crazy 2022-07-26 19:48:27 kool
+creations-chat 2022-07-26 19:54:48 ?
+bot-central 2022-07-28 20:54:13 !rank
+plane-crazy 2022-07-28 21:50:32 well all blocks touching weld to eachother
+plane-crazy 2022-07-28 21:50:54 maybe it has wedges where they dont technicaly touch eachother but are still welded because that side of the block is counted as weldable
+plane-crazy 2022-07-28 21:51:15 oof
+general 2022-08-21 20:19:32 How to add a suggestion?
+plane-crazy 2022-08-21 20:22:00 How to add a suggestion?
+plane-crazy 2022-08-21 20:24:26 Since I wanna suggest making tnt in water have a much larger blast radius, but a weaker blast to simulate how depth charges or any explosive in water work in real life
+plane-crazy 2022-08-21 20:31:01 Oh oops
+plane-crazy 2022-08-21 20:31:11 Thanks
+bot-central 2022-08-21 20:33:34 ?shelp
+bot-central 2022-08-21 20:34:02 !rank
+plane-crazy 2022-08-21 20:34:41 Well I’m not ranked to suggest this, but can somebody suggest this please since I want to be able to make realistic depth charges
+bug-reports 2023-04-15 21:41:45 bruuuh please fix the player clients not being synced when it comes to build damage. Been an issue for so long, and ruins pvp cuz half the time you use guns, the guns simply make the enemy invisible, but they are still alive

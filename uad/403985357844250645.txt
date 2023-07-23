@@ -1,0 +1,62 @@
+The Tale of hilop33 (403985357844250645)
+general 2021-02-26 20:58:28 ok <@!591667473338859540>
+general 2021-02-26 21:02:03 yes
+bot-central 2021-04-01 21:01:25 -pccmc
+bot-central 2021-04-01 21:01:28 a
+plane-crazy 2021-04-15 22:44:14 Camo needs work
+plane-crazy 2021-04-15 22:44:38 I can help you find some RGB's
+plane-crazy 2021-04-15 22:45:03 Okay one moment
+plane-crazy 2021-04-15 22:47:58 Green: 84,89,66
+Brown: 98 76 35
+Tan: 172 149 104
+
+If these don't work out you can tweak them <@!789566347389435925>
+plane-crazy 2021-04-15 22:48:14 No problem
+plane-crazy 2021-04-15 22:50:08 **real**
+plane-crazy 2021-04-15 22:50:25 maybe
+bot-central 2021-04-15 22:53:15 !rank
+general 2021-04-15 22:56:00 nice
+plane-crazy 2021-04-15 23:18:35 Looks better
+plane-crazy 2021-04-15 23:21:08 make a 1x1 hole
+plane-crazy 2021-04-15 23:21:34 That would be tricky
+plane-crazy 2021-04-15 23:26:36 No
+plane-crazy 2021-04-15 23:26:47 place a halfblock infront of the motor
+plane-crazy 2021-04-15 23:27:22 i think thats what he meant because, the blades wont spin
+plane-crazy 2021-04-15 23:27:27 if its not connected
+plane-crazy 2021-04-15 23:29:37 Also, I noticed that your rear elevator is angled, in this Ref picture it is almost straight and somewhat behind the rotor
+plane-crazy 2021-04-15 23:30:07 maybe move it back a block
+plane-crazy 2021-04-15 23:30:09 or something
+plane-crazy 2021-04-15 23:30:50 Oh i see
+plane-crazy 2021-04-15 23:31:04 lol
+plane-crazy 2021-04-15 23:32:44 **The game is hard coded** They'd have to recode the entire game
+plane-crazy 2021-04-15 23:34:02 What do you need help with
+plane-crazy 2021-04-15 23:34:31 Are you using rocket propulsion?
+plane-crazy 2021-04-15 23:35:11 Hmm
+plane-crazy 2021-04-15 23:35:21 Good
+plane-crazy 2021-04-15 23:35:22 also
+plane-crazy 2021-04-15 23:36:10 you can set the motor to "lock" and it'll move the rotor half a block closer, but if you turn the motor on it'll reset the position
+plane-crazy 2021-04-15 23:36:44 Did the same thing on my helicopter and it works fine
+plane-crazy 2021-04-15 23:37:33 Is he trying to balance his boat?
+plane-crazy 2021-04-15 23:37:56 I only told you the basics, i can help you further
+plane-crazy 2021-04-15 23:38:04 Yeah helium will help
+plane-crazy 2021-04-15 23:38:49 Folding is simple
+plane-crazy 2021-04-15 23:38:51 I can show you
+plane-crazy 2021-04-15 23:39:17 or doge can
+plane-crazy 2021-04-15 23:40:05 maybe
+plane-crazy 2021-04-15 23:40:40 internet
+plane-crazy 2021-04-15 23:40:41 nice
+plane-crazy 2021-04-15 23:43:07 hmm
+plane-crazy 2021-04-15 23:43:55 blassaly?
+plane-crazy 2021-04-15 23:45:13 hmm
+bot-central 2021-05-06 22:37:25 !private server
+bot-central 2021-05-06 22:37:39 ok
+bot-central 2021-05-06 22:37:50 !servers
+bot-central 2021-05-06 22:37:52 well
+general 2021-06-17 04:39:38 <@!591667473338859540>
+creations-chat 2021-07-12 07:17:21 embed fail
+bot-central 2021-07-12 07:19:43 !rank
+creations-chat 2021-07-19 08:36:39 maybe make the wheels a black color or darker.
+
+edit: ok
+creations-chat 2021-07-19 08:39:48 perhaps go darker, since the wheels match the entire hull of the tank and it doesnt provide much color contrast.
+creations-chat 2021-12-10 14:43:37 Perhaps add a camouflage to it instead of it being one color.

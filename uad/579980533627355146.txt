@@ -1,0 +1,42 @@
+The Tale of cabbageookie (579980533627355146)
+help 2023-01-13 18:19:41 I am building a motorbike that is 2 blocks wide, how will i make the front wheel turn?
+help 2023-01-13 18:24:43 i dont mean like make the wheel spin btw
+help 2023-01-13 18:24:56 just like sideways movement
+help 2023-01-13 18:27:33 for now i will be trying unlocked motors and a few fans to spin the front portion around
+help 2023-01-13 18:36:27 never mind that has not worked
+help 2023-01-13 18:36:59 how do they work
+help 2023-01-13 18:37:05 i tried them loads of times
+help 2023-01-13 18:37:09 but they are so weird
+help 2023-01-13 18:37:26 ok ty
+help 2023-01-13 18:39:01 aight it works pretty well
+help 2023-01-13 18:39:06 👍
+help 2023-01-13 18:40:38 it kinda turns my whole build around
+help 2023-01-13 18:40:44 rather than like the attached section if u get me
+help 2023-01-13 18:41:49 here i put an anchored block at the back section to test it
+help 2023-01-13 18:42:00 if i remove the anchored block the entire thing rotates
+help 2023-01-13 18:42:12 ah ok
+help 2023-01-13 18:42:45 oh maybe thats it
+help 2023-01-13 18:43:16 yep that was it
+help 2023-01-13 18:43:23 thx
+help 2023-01-13 18:44:09 i was gonna
+help 2023-01-13 18:44:11 do one block
+help 2023-01-13 18:44:18 but it was too hard to keep balanced
+help 2023-01-13 22:19:16 how to make my motorbike keep balance
+help 2023-01-22 17:06:38 how to make gears
+help 2023-01-22 17:06:42 pistons do not work properly
+help 2023-01-22 17:06:50 so i want to use a gear to push something
+help 2023-01-22 20:25:43 wdym
+help 2023-01-22 20:25:49 a gear is a gear
+help 2023-01-22 20:26:06 i will put a track next to it
+help 2023-01-22 20:26:12 and it pushes the track
+help 2023-01-22 20:26:17 or if i put it in reverse
+help 2023-01-22 20:26:20 it pulls the track
+help 2023-01-22 20:26:33 how do i makea gear tho
+help 2023-01-22 20:26:38 (and a track to go with it)
+help 2023-01-22 20:41:41 oh ok
+help 2023-01-22 20:41:43 how do i make that
+help 2023-01-22 20:41:53 thx for the actual terms ig
+help 2023-01-23 17:28:51 how to
+help 2023-01-23 17:28:57 make rack and pinion
+help 2023-01-23 17:29:00 (gear on a track)
+help 2023-01-24 17:13:22 how to make rack and pinion

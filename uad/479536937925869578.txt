@@ -1,0 +1,26 @@
+The Tale of theoldcivic (479536937925869578)
+general 2020-04-10 03:19:25 how do you make stuff move up and down like a cannon
+general 2020-04-10 03:21:28 like i have a missile turret thing on my car that turns and i can aim
+general 2020-04-10 03:21:41 but i want it to like go up and down too
+general 2020-04-10 03:22:45 
+general 2020-04-10 03:25:46 <@!162156549978980352> where do i place it
+general 2020-04-10 03:25:57 on top of the other motor
+general 2020-04-10 03:26:08 i tried
+general 2020-04-10 03:26:12 it doesnt even move
+general 2020-04-10 03:26:14 the motor
+general 2020-04-10 03:28:12 
+general 2020-04-10 03:28:21 wait do i have to have a motor 2 on the bottom
+general 2020-04-10 03:28:28 rn im using motor 1 on the bottom
+general 2020-04-10 03:29:38 ok
+general 2020-04-10 03:30:41 im really confused
+general 2020-04-10 03:30:47 its moving by itself
+general 2020-04-10 03:32:24 oh
+general 2020-04-10 03:32:27 wow
+general 2020-04-10 03:33:16 ok ok
+general 2020-04-10 03:33:29 for some reason the blocks are not connect to the motor 2 ontop
+general 2020-04-10 03:34:25 connected*
+general 2020-04-10 03:39:38 im so confused rn
+plane-crazy 2020-04-10 12:35:36 for some reason i cant control my plane and it keeps going up
+plane-crazy 2020-04-10 23:51:02 anybody know how to make a motor car
+plane-crazy 2020-04-10 23:51:46 nvm
+plane-crazy 2020-04-10 23:54:38 like not using wheels but motors for the wheels

@@ -1,0 +1,12 @@
+The Tale of pugsnotdrugs (283959548228927488)
+general 2021-05-17 14:31:53 hello people
+help 2021-05-17 14:35:08 I am trying to make a simple vehicle that hovers and I can lower and raise the height while still moving around. I've tried using the hover thrusters but generally I find myself losing control when I try to use thrusters to go left and right. Is there any way I can solve this issue?
+help 2021-05-17 14:39:22 So if I make a perfectly balanced vehicle it should work fine?
+help 2021-05-17 14:40:34 issue is getting my vehicle to turn. i can move it left and right but I'd like to be able to turn in the air
+help 2021-05-17 14:40:43 eh i'll figure it out
+help 2021-05-17 17:01:19 I'm trying to make a hover vehicle with a sort of lawn mower underneath
+help 2021-05-17 17:01:31 but it keeps spinning the top of the vehicle as well as the bottom
+help 2021-05-17 17:01:36 any fix for that?
+help 2021-05-17 17:02:05 yeah
+help 2021-05-17 17:03:54 It's still spinning for me even when the torque is at 1
+help 2021-05-17 17:03:59 is the top too light?

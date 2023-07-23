@@ -1,0 +1,122 @@
+The Tale of JRdumptruck (853780326660964362)
+creations-chat 2022-03-06 16:43:03 both seem good. the bottom picture has more missiles and is better for close range from experience. the top picture, if you can make it self-guided, can be used for long range, so its your choice of long range or close range
+bug-reports 2022-03-06 16:45:43 is this a bug or physics? i have a star destroyer with a hyperdrive. if i go too fast with the hyperdrive, the star destroyer folds instantly and flings everywhere
+bug-reports 2022-03-06 16:46:32 oh ok
+creations-chat 2022-03-06 22:34:51 somehow i jammed a tnt missile inside someones creation without it exploding
+bug-reports 2022-03-07 18:59:45 i came here to report a bug and if u scroll up the bug is the exact same problem with private servers
+bug-reports 2022-03-07 19:00:50 FIX IT
+bug-reports 2022-03-07 20:33:24 looks like binbows speedran ban
+bug-reports 2022-03-07 20:33:47 oh
+bug-reports 2022-03-07 20:33:58 is the private server tp bug fixed?
+bug-reports 2022-03-07 20:34:33 ok
+bug-reports 2022-03-07 20:34:46 mk
+bug-reports 2022-03-07 20:35:24 i found another thing wrong
+bug-reports 2022-03-07 20:35:27 sometimes i join a private server
+bug-reports 2022-03-07 20:35:32 and it just straight up kicks me out of it
+the-dump 2022-04-09 18:48:30 ⊥
+bug-reports 2022-06-24 11:49:52 fix the motor 2's freaking out, they keep glitching when i unfold my plane's wings
+help 2022-06-24 12:17:16 if ur crap at designing planes like me and put the wings too far foward but are too lazy to move it or cant because of folding, just connect the whole wing to a motorlock so it brings it backward to the point that you want it to be at
+help 2022-06-24 12:18:31 i couldn't move them back because the fold was in the way
+help 2022-06-24 12:18:47 i needed the wings to be centered around where the fold meets
+help 2022-06-24 12:37:09 anyway to fix my plane's wings (they are fold wings that are unfolded) from shaking more then a magnitude 11 earthquake?
+bug-reports 2022-06-24 12:46:10 so like nomal, each keybind only turns the motor 2 1 direction, but when i change gravity (39 is what i had), the motor 2 went back to normal and had 2 way direction
+bug-reports 2022-06-24 12:47:07 the motor 2 would only turn 1 direction until i changed gravity, then it would turn 2 directions instead of 1
+bug-reports 2022-06-24 12:47:19 1 direction per keybind
+bug-reports 2022-06-24 12:47:37 the motor 2 is a folding motor of a medium-large airliner
+bug-reports 2022-06-24 12:47:44 no
+bug-reports 2022-06-24 12:47:51 it would only go 1 direction
+bug-reports 2022-06-24 12:47:58 its the fold motor of the chassis
+bug-reports 2022-06-24 12:48:03 fuselage*
+bug-reports 2022-06-24 12:48:39 motor 1 would slowly fold the fuselage back into 2 pieces mid air
+bug-reports 2022-06-24 12:48:51 plus i dont know how to turn a locked motor while keeping it locked
+bug-reports 2022-06-24 12:48:58 torque is set on max
+bug-reports 2022-06-24 12:49:20 how do i rotate a locked motor then?
+bug-reports 2022-06-24 12:50:03 so how do i relock it after rotating it?
+bug-reports 2022-06-24 12:50:20 well in that case it wont work
+bug-reports 2022-06-24 12:50:57 its a 90 degree fold motor
+bug-reports 2022-06-24 12:51:04 well 180 for fuselage
+bug-reports 2022-06-24 12:51:06 90 for wings
+bug-reports 2022-06-24 12:51:37 that will probably just come apart mid flight
+bug-reports 2022-06-24 12:52:11 hold on ill get a screenshot of my plane
+bug-reports 2022-06-24 12:52:36 oh
+bug-reports 2022-06-24 12:52:57 well i cant relock the motor
+bug-reports 2022-06-24 12:56:04 i fixed it by setting the folding motor of the fuselage to 179.5 instead of 180
+bug-reports 2022-06-24 12:56:31 but why does it shake when it touches
+bug-reports 2022-06-24 12:56:42 it should stop the moment it touches
+bug-reports 2022-06-24 12:56:46 no itself
+bug-reports 2022-06-24 12:57:02 no
+bug-reports 2022-06-24 12:57:23 the wings were shaking because the 2 pieces of fuselage that fold together to make a whole fuselage touched
+bug-reports 2022-06-24 12:57:41 and the wings are an entire different fold
+help 2022-06-24 16:41:47 so, both of my plane's back landing gear tilts the foward wheels up, like real life, but that makes it so it cant fit. Any ideas how to return the gear back to being straight so it can fit? Just note, i have a 1 block gap between the fuselage wall and the gear inside the gear chamber. The system can't be big because of how cramped it is.
+help 2022-06-24 17:06:18 im not lv3+
+help 2022-06-24 17:06:27 plus i just found out a solution
+plane-crazy 2022-06-24 18:10:47 when is PC2 going to come out, it's already late June
+general 2022-06-25 00:09:50 1/10 guess how hard it is to land my medium-large airliner (1 being landing the tutorial plane |  10 being you will almost always be too low or too high)
+help 2022-06-25 13:02:41 any way to make suspension that is strong enough to hold a medium-large airliner? The airliner is 2594 blocks, around 7/8 of the blocks are metal, it has an interior, and is heavy as hell. The ingame suspension, even at max stiffness and max free length just immediately collapses, which can cause a tail-strike when taking-off. The suspension will be used for the back gear and maybe the front gear.
+help 2022-06-25 16:14:01 you cant change the material of a trapdoor
+help 2022-06-25 16:14:53 you can?
+help 2022-06-25 16:14:59 i havnt been able to
+help 2022-06-25 16:15:20 oh, you mean make it the same color as the material
+help 2022-06-25 16:15:54 ok
+bug-reports 2022-06-25 16:23:42 2 bugs;  1: the control surfaces of my small bush plane still pointed towards my cursor even though i wasnt sitting, i didnt jump out the moment i spawned. I flew to the airport, landed, and got it. 2: Somehow my airliner's wing clipped through a blacklist box
+bug-reports 2022-06-25 16:24:22 ok
+creations-chat 2022-07-05 02:08:23 is suspension without suspension mechanical
+creations-chat 2022-07-05 02:10:40 make it look not like a minecraft block first
+help 2022-07-05 20:08:47 anyone know how to make suspension that is stronger then the ingame suspension?
+bug-reports 2022-07-05 20:11:14 adding suspension to my planes back landing gear (in-game block suspension) made the gear clip into the passenger bay before dissapearing
+bug-reports 2022-07-05 20:11:34 its a 2.6K block airliner
+help 2022-07-05 20:23:05 ... i ment suspension for the back landing gear of my plane, not a suspension engine, but thank you for trying
+help 2022-07-05 20:24:24 the ingame suspension even if i manage to get the back landing gear deployed before the gear glitches into the backrooms, just instantly collapses even at 100 stiffness
+help 2022-07-05 20:24:35 susi
+help 2022-08-17 20:35:44 im making a bagger 293 (see an image so you know what it looks like). I have the front arm done with a massive, heavy, 8 teeth saw. the up and down movement is done by 2 motors with max torque. the thing i want help with is that the arm always slowly tilts down. is they anyway i can fix it and stop it from going down without input?
+bot-central 2022-08-21 18:08:38 ?shelp
+bot-central 2022-08-21 18:08:59 ?rhelp
+help 2022-08-21 18:13:30 i freaking accidently replaced my bagger 293 that i spent a week worth on with a crappy plane, is there anyway to get my bagger 293 back?
+help 2022-09-02 20:38:12 any idea how to make treads for a 2 2x2 cylinder?
+general 2022-09-03 12:36:09 when is plane crazy 2 release date
+general 2022-09-03 12:36:28 its been over half a year of delays
+general 2022-09-03 12:36:44 well im gonna wait for another FREAKING YEAR
+creations-chat 2022-09-08 01:23:30 its supposed to be able to carry thousands of blocks in weight because on my creation the motor and motor 2 even when paired up sucked at moving a 1k block arm. they would keep falling down lol
+creations-chat 2022-09-08 12:04:17 atleast 2 ropes are stronger then motors
+bug-reports 2022-10-08 17:32:54 the stupid motors no longer work, they wont spin anymore no matter what
+bug-reports 2022-10-08 17:49:21 i just threw a motor on the ground to see if its actaully broken, and it didnt spin, it was powered with speed at 1 and 1000 torque, it was touching nothing except the ground
+bug-reports 2022-10-08 18:51:27 turns out it was because at that time my internet showed 7812 ping
+help 2022-10-09 18:27:16 how do i make 2 motors able to rotate over 2-3k blocks of weight up and down
+help 2022-10-09 21:03:23 its at max torque and it is still not doing well
+bot-central 2022-10-09 21:05:12 ?shelp
+help 2022-10-09 21:07:23 the arm im trying to rotate is around 2 plots long, it will just smash into the ground and fling my thing
+help 2022-10-09 21:07:44 its a bagger 293 is what im trying to make
+help 2022-10-09 21:08:06 bagger 293; bucket wheel excavator, largest land vehicle world record
+help 2022-10-09 21:08:29 true, btw a picture of it is my pfp
+help 2022-10-09 21:12:16 btw what rank could i apply with using my bagger 293? it doesnt classify as a vehicle for terrain rank because it uses conveyers as treads instead of wheels
+help 2022-10-09 21:12:50 the in-server ranks like aeronautical engineer
+bot-central 2022-10-09 21:37:04 !rank
+help 2022-10-09 23:55:38 ya build a flying drone with a camera duct tapped on it
+creations-chat 2022-10-09 23:58:36 yes cuz funi
+help 2022-10-10 00:45:54 im making a bagger 293 (my pfp is a reference image to a bagger 293). I am using conveyors for the treads, but the vehicle keeps turning to the right and currently there is no input for turning yet
+help 2022-10-10 00:50:38 using actual treads cant fit cuz motorlock chunky
+help 2022-10-10 00:51:10 im making this on a referance image and to make it look like a bagger it needs treads
+help 2022-10-10 00:51:37 plus in real life its top speed is 0.5 mph
+help 2022-10-10 00:52:05 motors doing what?
+help 2022-10-10 00:52:49 super rockets i guess could work but it depends how fast it makes something go with a vehicle this large, rn im at 5k blocks
+help 2022-10-10 00:53:47 sure lemme unfold it rq, im above lv3
+help 2022-10-10 00:55:23 not finished yet but its massive, currently 2 and a half plots long
+help 2022-10-10 00:56:42 im planning on adding the back extension on the real 293 that will make it 3 plots long, ill try to find a referance image of what im gonna add
+help 2022-10-10 00:57:31 the part on the right behind the bagger is what im going to add, will this help fix the turning?
+help 2022-10-10 00:59:22 btw just so you know i added 500-800 blocks in weight from ballast beams inside the base so it would stop tipping over
+help 2022-10-10 01:00:17 so im pretty sure 5 cant move around 6k blocks in weight
+help 2022-10-10 01:00:46 ok
+bug-reports 2022-10-11 00:04:41 my jetpack from the gamepass ended up equipping 3 times ontop of eachother, i could tell because i was going up 2-3x as fast
+help 2022-10-11 00:51:30 do different materials have different resistance to PVP weapons?
+help 2022-10-11 01:13:14 thx
+help 2022-10-11 01:13:31 is there a material that is best for armour?
+help 2022-10-11 01:13:39 that is good against guns also?
+help 2022-10-11 01:14:00 ok
+help 2022-10-11 01:14:02 thx
+help 2022-10-11 01:14:25 ik ice stinks
+help 2022-10-11 01:14:51 does metal actually take halved rocket damage?
+help 2022-10-11 01:17:46 i dont think i have enough tnt for a 5-6k block build
+help 2022-10-11 01:25:35 ok
+help 2022-10-11 12:40:36 is there anyway to make this move faster than speed 1? its 7240 blocks and i already have some super rockets inside of it
+the-dump 2022-10-11 12:43:44 https://tenor.com/view/dr-livesey-treasure-island-hello-chat-hello-hi-gif-26499280
+bug-reports 2022-12-24 20:44:30 im able to edit text while in flight mode

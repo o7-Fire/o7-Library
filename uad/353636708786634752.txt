@@ -1,0 +1,287 @@
+The Tale of LJS (353636708786634752)
+plane-crazy 2019-04-29 01:13:55 hi i have a question
+plane-crazy 2019-04-29 01:14:15 sorry if it sounds kinda dumb but i was wondering how to get the ships to work?
+plane-crazy 2019-04-29 01:14:48 well as in get it in the water in the first place
+plane-crazy 2019-04-29 01:15:26 oh is it in the settings tab?
+plane-crazy 2019-04-29 01:15:35 oh lol
+plane-crazy 2019-04-29 01:15:41 now i feel stupid
+plane-crazy 2019-04-29 01:15:58 thanks for the help anyway
+plane-crazy 2019-04-29 01:16:18 yeah true, thank you
+plane-crazy 2019-04-30 00:20:39 cant the build squares be made bigger along with the map?
+plane-crazy 2019-04-30 00:20:48 why not
+plane-crazy 2019-04-30 00:21:13 well i think the game has potential
+plane-crazy 2019-04-30 00:22:11 to make a map bigger along with the build squares?
+plane-crazy 2019-04-30 00:22:48 fair enough but is it possible?
+plane-crazy 2019-04-30 00:23:36 the game could also get double the players in that time
+plane-crazy 2019-04-30 00:23:55 anything is possible
+plane-crazy 2019-04-30 23:06:30 is this a bug? http://prntscr.com/niwtrj
+plane-crazy 2019-05-02 13:52:50 i think the game has a saving problem
+plane-crazy 2019-05-02 13:53:42 i repeatedly saved it throughout my building last night and it was for some reason reverted to like 2 or 3 saves before the last
+plane-crazy 2019-05-02 13:54:28 http://prntscr.com/njitc3
+plane-crazy 2019-05-02 13:55:12 its okay though i can rebuild but im just thinking for anyone else
+plane-crazy 2019-05-02 13:55:48 i only have 1 creation
+plane-crazy 2019-05-02 13:56:06 uhh
+plane-crazy 2019-05-02 13:56:13 1
+plane-crazy 2019-05-02 13:57:20 i guess ill just have to keep an eye on it and see if it does it again
+plane-crazy 2019-05-02 18:00:12 how often does the autosave save?
+plane-crazy 2019-05-02 18:02:17 does anyone know how often the autosave saves?
+plane-crazy 2019-05-02 18:02:48 ah okay thank you
+plane-crazy 2019-05-04 18:30:31 getting war of the worlds vibe from that creation
+help 2020-03-13 23:31:55 ok so i have 2 questions;
+help 2020-03-13 23:32:34 i built a ship which was noticeably heavy from about halfway through the build
+help 2020-03-13 23:32:41 and so now its complete, it capsizes
+help 2020-03-13 23:32:57 is there any 'block' to make it more stable?
+help 2020-03-13 23:34:11 http://prntscr.com/rg2fz5
+help 2020-03-13 23:34:54 http://prntscr.com/rg2g7z
+help 2020-03-13 23:36:30 what would the ballasts do though?
+help 2020-03-13 23:36:34 make it more stable?
+help 2020-03-13 23:37:32 thanks for the advice
+help 2020-03-13 23:48:39 holy crap it works
+help 2020-03-13 23:48:40 thanks a lot
+creations-chat 2020-03-13 23:51:26 T45 Destroyer
+creations-chat 2020-03-14 00:54:34 how come nobody liked my ship ?
+creations-chat 2020-07-03 22:25:13 looks a lot cleaner
+creations-chat 2020-07-03 22:27:37 i dont see anything wrong with that
+creations-chat 2020-07-03 22:31:29 <@!358328414463066113> can i see the whole ship?
+creations-chat 2020-07-03 22:32:25 wowww
+creations-chat 2020-07-03 22:39:42 bruh..
+creations-chat 2020-07-03 22:39:49 and i thought my ship was 'decent'
+creations-chat 2020-07-03 22:41:54 does anyone else do this on their hulls? http://prntscr.com/tbfmk9
+creations-chat 2020-07-03 22:42:04 i used different colours to show
+creations-chat 2020-07-03 22:42:23 mine isnt a battleship
+the-dump 2020-07-04 21:57:07 F
+general 2020-07-05 07:00:37 who is XpertNub336
+general 2020-07-05 07:01:03 no idea
+creations-chat 2020-07-05 20:54:16 has anyone made a eurofighter typhoon?
+help 2020-07-06 21:16:07 hi, there seems to be an invisible block which is preventing me from carrying on with my build http://prntscr.com/td03k2
+help 2020-07-06 21:23:37 oh okay thanks
+creations-chat 2020-07-07 23:09:00 never seen that model phantom before..
+creations-chat 2020-07-08 00:20:48 anyway i can improve on my T45? http://prntscr.com/tdqg7l
+creations-chat 2020-07-08 00:21:29 (rear picture) http://prntscr.com/tdqgue
+creations-chat 2020-07-08 00:23:20 but i literally built it to how it looks
+creations-chat 2020-07-08 00:23:36 eh
+creations-chat 2020-07-08 00:23:46 gonna delete it
+creations-chat 2020-11-24 14:53:56 <@!774377045346091008> im glad you like it!
+creations-chat 2020-11-24 14:56:18 i do agree with the exterior needing some work - the angles of the ship are very hard to replicate with the wedges that are currently in the game, however i will keep working on it!
+creations-chat 2020-11-24 15:01:18 also what would 60 upvotes achieve?
+creations-chat 2020-11-24 15:03:58 ohhhh i see, nice!
+bug-reports 2020-11-24 15:53:26 <@!559462059251859456> that happens if you lock the motor whilst the folds are moving
+bug-reports 2020-11-24 15:53:49 if you let it come to rest naturally it wont bug out
+bug-reports 2020-11-24 15:59:06 try replacing the engines
+bug-reports 2020-11-24 15:59:15 oof
+bug-reports 2020-11-24 15:59:28 try saving it into another slot
+bug-reports 2020-11-24 15:59:31 then reloading it
+bug-reports 2020-11-24 16:00:18 i have no idea then
+creations-chat 2020-11-24 16:15:23 could sit a bit higher in the water and as Nannoc said the bridge could need some work but its looking great otherwise, keep at it!
+creations-chat 2020-11-24 16:20:48 holy crap ive never had so many upvotes before, thank you so much i appreciate it a lot
+creations-chat 2020-11-24 16:25:53 okay i will, thanks!
+creations-chat 2020-11-24 16:31:46 i got my rank
+creations-chat 2020-11-24 16:37:37 not sure why i didnt get master shipwright though, i did give evidence of an 8k+ block count..
+creations-chat 2020-11-24 16:46:02 ohhhhh thank you
+creations-chat 2020-11-24 18:48:35 i dont see any furniture in the hall of fame
+creations-chat 2020-11-24 18:50:17 i do agree with you, 79 upvotes for a few emojis and basic blocks isnt really sufficient
+creations-chat 2020-11-24 18:52:56 an 8k block creation **could** get into fall of fame, right?
+creations-chat 2020-11-24 18:54:29 it currently has 60 upvotes
+creations-chat 2020-11-24 19:18:41 ngl something seems off with that harrier <#384025409945337856>
+creations-chat 2020-11-24 19:20:12 looks pretty good though
+help 2020-11-24 19:23:45 <@!486276884611465256> yeah just play around with different shades and dark colours
+help 2020-11-24 19:24:02 just go to a new server or mute them
+help 2020-11-24 19:26:17 <@!376309548761481217> ive always wanted to see a Hawker Hunter in plane crazy 🤔
+help 2020-11-24 19:26:53 n a u g h t y
+help 2020-11-24 19:27:31 ah fair enough
+help 2020-11-24 19:33:21 i think thats an early model
+help 2020-11-24 19:33:34 the later ones had an extended fuselage
+help 2020-11-24 19:33:40 *i think*
+creations-chat 2020-11-24 19:49:52 question; how do i submit a creation for the hall of fame?
+creations-chat 2020-11-24 19:52:36 it has already, im just curious how i would submit it. ah okay thanks <@!545793563703640065>
+creations-chat 2020-11-24 20:02:36 maybe the angles of the screenshots arent doing it enough justice
+creations-chat 2020-11-24 20:05:57 idk.. could be the wheels
+general 2020-11-24 20:10:31 :|
+general 2020-11-24 20:11:42 <:StopThat:559520667909881867>
+general 2020-11-24 20:12:57 k
+general 2020-11-24 20:15:21 overdose yum
+general 2020-11-24 20:16:36 enchick
+creations-chat 2020-11-24 20:18:31 jesus - how many blocks is that?!
+creations-chat 2020-11-24 20:21:28 thats a lot better
+creations-chat 2020-11-24 20:23:00 its just frowned upon in the community tbh
+creations-chat 2020-11-24 20:26:26 the first one you posted, with the red below the waterline <@!251880826386513924>
+creations-chat 2020-11-24 20:30:35 yes <@!251880826386513924>
+creations-chat 2020-11-24 20:38:24 ^
+creations-chat 2020-11-24 20:41:39 what are you even trying to build ..?
+creations-chat 2020-11-24 20:47:47 just because it got downvotes doesnt mean its bad, you can always upgrade it and keep working on it
+help 2020-11-24 20:59:46 it would probably be easier to do it striped though
+creations-chat 2020-11-24 21:03:25 yeah i like it too ngl
+help 2020-11-24 21:09:33 its not that hard to do, just look at pictures and they'll show you where to put what
+creations-chat 2020-11-24 21:23:02 <@!648990687706087444> Royal Navy*
+creations-chat 2020-11-24 22:42:53 looking good <@!469590708685373445>
+creations-chat 2020-11-24 23:36:32 eurofighter typhoon?
+creations-chat 2020-11-24 23:48:15 <@!424995506654150677> the typhoon is looking great so far, best ive seen on plane crazy tbh
+general 2020-11-25 00:36:09 bruh
+general 2020-11-25 00:36:39 no
+general 2020-11-25 00:37:15 <:hahaa:773727260539617280>
+creations-chat 2020-11-25 01:23:32 you could do a motor with the thin part facing upwards on top of a block or two with a half cylinder face down on top <@!461644261566185503>
+help 2020-11-25 01:55:00 wings
+creations-chat 2020-11-25 02:07:10 jesus
+help 2020-11-25 02:50:49 yes that should work
+help 2020-11-25 02:51:12 use helium on the insides of your hull too to stabilize it
+help 2020-11-25 02:51:37 i always put fuel blocks along the inside of the keel too for weight balance
+help 2020-11-25 02:51:41 sorry
+help 2020-11-25 02:51:45 i meant fuel blocks
+help 2020-11-25 02:52:01 no they're weighted
+help 2020-11-25 02:52:05 so they'll push downwards
+help 2020-11-25 02:52:13 and help the helium make your ship stable
+help 2020-11-25 02:52:34 yeah the helium will help that
+help 2020-11-25 02:53:10 ah okay
+help 2020-11-25 02:53:32 if you add the helium it should help a lot
+help 2020-11-25 02:53:57 http://prntscr.com/vpilrb
+help 2020-11-25 02:54:01 add the helium there
+help 2020-11-25 02:54:07 throughout the whole ship
+help 2020-11-25 02:54:15 on the outer and lowest point
+help 2020-11-25 02:54:19 yes
+help 2020-11-25 02:54:28 i do that on all my ships and ive never had a problem
+help 2020-11-25 02:54:44 sometimes i add more or less depending on what the situation needs
+help 2020-11-25 02:54:50 on each side
+help 2020-11-25 02:55:31 yes
+help 2020-11-25 02:55:37 you should be golden after that
+help 2020-11-25 02:57:18 for my ship
+help 2020-11-25 02:57:19 http://prntscr.com/vpin2t
+help 2020-11-25 02:57:24 yellow is helium
+help 2020-11-25 02:57:25 red is fuel
+help 2020-11-25 02:57:34 through out the entire length
+help 2020-11-25 02:57:51 yeah if its too top heavy itll topple
+help 2020-11-25 02:58:08 and fuel blocks have quite a bit of weight to them so you can always use them to weigh it down
+help 2020-11-25 02:58:23 then the helium will counteract that and push it upwards in the water so its still level
+help 2020-11-25 02:58:27 but itll be 10x more stable
+help 2020-11-25 02:59:28 you can use whatever you want really
+help 2020-11-25 02:59:30 as long as it works
+help 2020-11-25 02:59:49 but ive just never had a reason to use pontoons or ballast blocks
+help 2020-11-25 03:02:47 ive never had that problem
+help 2020-11-25 03:04:08 yeah that would help
+help 2020-11-25 03:05:47 hence why i posted this http://prntscr.com/vpin2t
+help 2020-11-25 03:05:52 (yellow helium)
+help 2020-11-25 03:06:19 you're gonna want it at the highest and most outer points
+help 2020-11-25 03:06:47 bruh
+help 2020-11-25 03:08:45 probably not
+help 2020-11-25 03:10:12 your build is quite thin
+help 2020-11-25 03:10:26 if it had more width this wouldnt be as much of a problem
+help 2020-11-25 03:10:49 ^
+help 2020-11-25 03:12:27 does it tilt when you dont move?
+help 2020-11-25 03:13:26 i didnt wanna suggest this but you could put cameras outside of the hull making up the width
+creations-chat 2020-11-25 13:39:46 ships get the block count 😎
+creations-chat 2020-11-25 13:43:16 a
+creations-chat 2020-11-25 19:34:03 it's just the fact you've reposted this plane so many times ngl
+creations-chat 2020-11-26 02:18:30 doesnt look that bad tbh
+creations-chat 2020-11-26 03:10:47 <@743956753942577203> you're not supposed to post WiP builds in <#384025409945337856> :)
+creations-chat 2020-11-26 03:12:43 ikr it's getting annoying
+creations-chat 2020-11-26 03:15:03 I think the rule is more for builds that are literally half finished
+creations-chat 2020-11-26 03:43:25 guys i could do with some help on getting the shape of the deck house right, any suggestions? thanks :)
+bug-reports 2020-11-26 03:53:57 that's probably roblox physics messing up
+creations-chat 2020-11-29 10:50:16 <:4Weird:709084058721714324> <:hahaa:773727260539617280>
+plane-crazy 2020-11-30 22:47:17 i also just realised that you're talking to yourself
+creations-chat 2020-12-01 14:59:52 same
+creations-chat 2020-12-04 17:30:13 yeah it could be improved greatly, good attempt though!
+creations-chat 2020-12-11 23:20:34 <:PogStare:699130318510227537>
+creations-chat 2020-12-23 04:14:48 F
+bot-central 2020-12-23 11:34:27 ?whois
+the-dump 2020-12-24 01:50:37 
+creations-chat 2020-12-28 15:43:59 yeah im gonna change the water soon, it used to be brown but my brother made a suggestion to make it look "cleaner", thanks for the feedback!
+creations-chat 2020-12-28 15:46:16 thank you so much, i appreciate it!
+creations-chat 2020-12-28 17:24:28 ^
+creations-chat 2020-12-28 17:27:21 i think it would be better to tell after you've done the rear of the fuselage
+creations-chat 2020-12-28 18:04:12 i think twin since you have two air intakes, although rightly so that does not mean there will be 2 engines but it's your call honestly
+creations-chat 2020-12-28 18:15:47 left
+creations-chat 2020-12-28 18:27:24 the left doesn't look as 'fat', the version on the right looks quite stubby too
+creations-chat 2020-12-28 18:40:59 <@!414359638302130176> he's been downvoting everyone's creations, did it to mine too
+creations-chat 2020-12-28 19:02:57 thats about right really, maybe not go so thin near the rear
+general 2021-01-02 15:11:49 hey, would you guys be willing to give me opinions on a guitar i just bought?
+general 2021-01-02 15:42:44 opinions on this please? https://cdn.discordapp.com/attachments/433399784649523211/794944373283356722/20210102_150427.jpg
+general 2021-01-02 15:43:08 yes opinions on the design though
+general 2021-01-02 15:43:54 ok thanks for opinions
+general 2021-01-02 15:46:25 -ping
+general 2021-01-02 15:46:37 is that good or bad cus i have no idea
+creations-chat 2021-01-04 01:52:59 lol
+creations-chat 2021-03-05 04:09:33 hope u all enjoy the zumwalts 😎
+creations-chat 2021-03-05 04:13:31 which right angles
+creations-chat 2021-03-05 04:17:24 thats what we like
+creations-chat 2021-03-05 05:36:17 chair force <:thoink:657279634563399720>
+creations-chat 2021-03-10 03:52:14 hey im currently building an Astute-Class submarine and I'd just like some quick opinions / feedback on it so far please http://prntscr.com/10hb56h
+help 2021-03-10 03:54:20 Hi, I could do with some feedback as I don't think I've got the top beam's shape correct on my wip Astute-Class submarine, thanks! 
+http://prntscr.com/10hb56h
+creations-chat 2021-03-10 03:55:43 are you sure it's too narrow? http://prntscr.com/10hnpbi i also know the sail is too close forward but i built it so i knew where it had to be
+creations-chat 2021-03-10 03:59:36 Ah I see your point with it being too narrow now, thanks. The 'sail' refers to the tower-like structure above the main hull, I was just stating that I am aware of it being too close to the bow
+creations-chat 2021-03-10 04:01:36 Ah, I built the sail in it's current place so I know how much further back I'd have to rebuild it. It's essentially just for reference
+creations-chat 2021-05-19 01:58:03 thought i'd give a sneak peak view of the interior
+creations-chat 2021-05-19 02:02:49 yessir, unfolded view is in <#384025409945337856>
+creations-chat 2021-05-19 02:06:14 Thank you, it was a lot lighter before i added the metal material to it and didn't bother repainting
+creations-chat 2021-05-19 02:50:42 🤷‍♂️
+creations-chat 2021-05-20 03:47:52 <@!746383586755870821> it's not actually that bad, good work
+creations-chat 2021-05-20 04:14:09 flamethrower
+creations-chat 2021-05-20 17:23:34 some people don't upvote unless it's deemed *perfect* to them as well, so it's many factors really not just quality. I personally don't understand that logic as it's a game but each to their own
+creations-chat 2021-05-20 17:25:35 yeah some people take it wayyyyy too far but i upvote if it somewhat looks similar, obviously we can't get the same parameters as a real object / vehicle as it's a game but the best we can do is try right? In regard to the F15, all you'd need to do is make the wings a tad straighter then boom you've nailed it on the head
+creations-chat 2021-05-20 17:27:36 Not really, I have a Zumwalt-class Destroyer but due to the game not having 1 x 6/7/8 wedges I am unable to get the bow correct: https://discord.com/channels/384021699466756103/384025409945337856/780797911113007125
+creations-chat 2021-05-20 17:30:20 haven't got the patience or time im willing to give for that
+creations-chat 2021-05-20 17:33:53 ah yes the YF-23 the design not good enough for the Brits or Yanks
+creations-chat 2021-05-21 19:01:36 it most likely will be
+creations-chat 2021-05-22 23:54:58 lol
+plane-crazy 2021-05-25 04:35:52 <:PogChamp:516298810700464128>
+plane-crazy 2021-05-25 15:57:05 wow I didn't realise rickje was actually alive and updating the game 😳
+creations-chat 2021-06-03 02:28:47 <@!653059099533115423> https://discord.com/channels/384021699466756103/384025409945337856/849829793821753374 add colour please
+creations-chat 2021-07-02 18:15:02 lmao fucking snowflake
+creations-chat 2021-07-20 00:51:19 are they real ?
+plane-crazy 2021-12-03 06:36:49 its nothing
+plane-crazy 2021-12-03 06:36:52 its literally nothing
+plane-crazy 2021-12-03 06:37:24 lol i loaded a 12k block ship and it was just as slow as before
+plane-crazy 2021-12-03 06:37:25 so
+plane-crazy 2021-12-03 06:37:28 🙄
+plane-crazy 2021-12-03 06:38:09 i met rick in a server the other week
+plane-crazy 2021-12-03 06:38:44 no i mean in a public server
+plane-crazy 2021-12-03 06:39:12 -servers
+plane-crazy 2021-12-03 06:39:20 yum
+plane-crazy 2021-12-03 06:42:34 <@!690727914521493504> im the dude in plane crazy server
+plane-crazy 2021-12-03 21:29:04 should i get it up to 12k?
+plane-crazy 2021-12-03 21:29:34 lol i wont even be able to spawn it in the water if i do that
+plane-crazy 2021-12-03 21:30:12 LOL ur joking right
+plane-crazy 2021-12-03 21:30:26 wait
+plane-crazy 2021-12-03 21:30:29 what if i put it on wheels
+plane-crazy 2021-12-03 21:30:46 yum
+plane-crazy 2021-12-03 21:30:46 ship on wheels
+creations-chat 2021-12-10 23:52:09 thoughts on this so far?
+creations-chat 2021-12-10 23:59:33 yeah that stuff will come at the end, its still quite heavily wip, still missing a stern between the props lol
+creations-chat 2021-12-11 00:59:13 thanks i appreciate it
+general 2021-12-31 23:22:17 -servers
+creations-chat 2022-01-01 05:39:54 still in build mode and was hoping you'd look past it
+help 2022-01-04 01:54:01 there are anchors in all 3 sections
+help 2022-01-04 02:20:47 they're all physics anchors
+help 2022-01-04 02:42:30 yeah they are set to physics
+help 2022-01-04 02:43:06 what does that do?
+help 2022-01-04 03:16:40 so i just need to put it next to the anchor block yes?
+help 2022-01-04 03:17:01 
+help 2022-01-04 03:17:02 as so
+help 2022-01-04 03:17:11 (anchor block behind motor)
+help 2022-01-04 03:18:26 doesnt work
+help 2022-01-04 03:30:49 oh
+help 2022-01-04 03:34:08 does the motor need to be on any setting?
+help 2022-01-04 03:36:28 didnt work dude
+help 2022-01-04 03:38:26 OH SHIT it worked
+help 2022-01-04 03:40:56 thank you
+help 2022-01-04 04:22:18 :*
+help 2022-01-04 04:51:10 ???/
+help 2022-01-04 05:47:02 it sonar
+general 2022-01-04 05:47:16 ikr
+help 2022-01-04 05:47:55 5th gen ship init
+help 2022-01-04 05:48:12 or whatever
+creations-chat 2022-01-04 20:15:39 <@!719168864705052802> since ur the first downvote, mind to tell me why you did / how i could improve?
+creations-chat 2022-01-04 20:21:33 i think the parts you mentioned look alright
+creations-chat 2022-01-04 20:23:58 I just don't use motorlock lol
+creations-chat 2022-01-04 20:26:07 oh don't say that you'll give him an ego boost (not that he hasn't got one already)
+creations-chat 2022-01-04 20:29:12 exactly, very elaborate
+creations-chat 2022-01-04 20:32:22 i choose not to use motorlock as i find it makes my builds look more unique, taste is a subjective matter so it may look shitty to him but good to someone else
+creations-chat 2022-01-04 20:39:33 ty this is actually constructive, the flight deck will probably be made longer but making the curve on the side of the hull will restrict me with the interior (which i haven't shown) also the deck was a personal touch lol i think it looks better than a straight drop
+creations-chat 2022-01-05 01:17:17 thanks i appreciate it :)
+creations-chat 2022-01-05 01:32:56 yeah i noticed the proportions were off earlier, oh well if it reaches 100 upvotes like my other ship ill be happy :)
+creations-chat 2022-01-05 01:35:34 the ship?? i posted it like 6 hours ago and it barely had 20 upvotes 4 hours ago
+creations-chat 2022-01-05 01:37:37 thats strange, must be the bot
+creations-chat 2022-01-05 02:02:55 imagine that coming straight for u tho, id shit myself probsd
+creations-chat 2022-01-07 22:28:29 damn i need 2 upvotes on my creation to submit for hall of fame
+creations-chat 2022-01-07 22:30:39 oh yes now i remember why i don't bother with this community
+the-dump 2022-02-08 00:57:48 roblox

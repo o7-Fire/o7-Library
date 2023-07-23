@@ -1,0 +1,138 @@
+The Tale of d3rpinator (207922337549385728)
+creations-chat 2019-01-09 20:14:04 ornithopter
+creations-chat 2019-01-10 06:55:20 <@367588891777171466> the ornithopter flies and it's controlable but it drops down a lot when it turns
+plane-crazy 2019-01-10 15:35:17 https://gyazo.com/8572935fbe681a52151663ac77c6bfdd.gif my first train
+plane-crazy 2019-01-10 16:11:28 I still dont get how people can build a stable flying helicopter
+bug-reports 2019-01-12 07:48:55 I can't place a block directly behind a Triange Wedge 1x3
+bug-reports 2019-01-12 07:51:11 placement of Triangle Wedge 1x4 is half a block off
+creations-chat 2019-01-12 08:43:28 Eurofighter
+creations-chat 2019-01-13 07:56:01 almost all real life carrier planes fold their wings up
+plane-crazy 2019-01-13 08:29:26 
+plane-crazy 2019-01-13 08:30:29 my extremely ugly tank thing
+general 2019-01-13 14:01:26 B
+general 2019-01-13 14:01:35 It has a key
+plane-crazy 2019-01-13 19:09:09 shouldnt the harriers tail be more pointy
+plane-crazy 2019-01-13 20:30:29 abducted and launched this guy once and he already blocked me
+help 2019-01-17 06:48:50 <@194241218811658240> my ornithopter does
+help 2019-01-17 07:02:39 
+help 2019-01-17 07:02:45 front view
+help 2019-01-17 07:03:35 red is the drive motor, rest is unpowered
+help 2019-01-17 07:07:32 https://gyazo.com/81b6da038894798f16b04599b3d7de4e.gif
+plane-crazy 2019-01-17 09:09:38 the most russian plane I've ever seen
+plane-crazy 2019-01-17 09:47:09 so apparently my huge attack airplane can still land while being torn apart
+plane-crazy 2019-01-17 09:54:53 
+creations-chat 2019-01-18 16:49:03 flying wing with working elevons | koekjeszijnlekker | 276 parts | requesting inventor
+creations-chat 2019-01-18 16:49:22 https://gyazo.com/1f6a4f78131a3887d193a955bd71d74e.gif
+creations-chat 2019-01-18 16:54:47 they function as both elevators and ailerons
+creations-chat 2019-01-18 17:13:59 could I have some examples?
+plane-crazy 2019-01-23 19:59:00 
+plane-crazy 2019-01-24 16:22:04 what is it with people making block shaped passenger planes
+plane-crazy 2019-01-24 16:44:10 I didn't know mouse steer existed until I did the tutorial for fun
+creations-chat 2019-01-25 08:17:23 Westland Wyvern, just as ugly as the real thing
+plane-crazy 2019-01-25 08:29:41 
+plane-crazy 2019-01-25 08:29:43 https://www.youtube.com/watch?v=Ag1o3koTLWM
+plane-crazy 2019-01-25 17:00:56 oh no oh no oh no
+plane-crazy 2019-01-26 15:02:25 I made a flybar that makes my single rotor heli stay more or less upright while flying about uncontrollably
+plane-crazy 2019-01-26 15:04:40 this isn't a swashplate
+plane-crazy 2019-01-26 15:04:58 it mixes passively
+plane-crazy 2019-01-26 15:10:21 A flybar is a spinning pair of paddles or weights on a helicopter that changes the angle of the blades to counteract tilting
+plane-crazy 2019-01-26 15:10:59 http://www.rcheliwiki.com/Flybar
+plane-crazy 2019-01-26 15:11:22 I'm trying but not really succeeding to make a stable single rotor
+plane-crazy 2019-01-26 15:12:20 https://gyazo.com/8d39d74c73f952d2b1d19bad3f09902f.gif
+creations-chat 2019-01-28 10:33:59 my first working helicopter
+the-dump 2019-01-30 20:13:00 Any plane can be turned into a medic by selling it to the swiss air force
+plane-crazy 2019-02-03 08:03:48 I just blasted the rotors straight off a helicopter in pvp and it kept on flying <:HMMMM:535171057649188865>
+plane-crazy 2019-02-04 16:22:01 press F to honk
+the-dump 2019-02-04 16:34:36 https://www.youtube.com/watch?v=TX4U9QRbviA
+the-dump 2019-02-04 16:35:03 Local sparrow reveals that flapping was just for show all along
+general 2019-02-04 19:27:21 the new ultra long range f22
+help 2019-02-04 19:55:00 no control surfaces would mean steering with engines
+help 2019-02-04 20:24:37 you can just use motors or a pushrod setup
+help 2019-02-04 20:25:14 https://gyazo.com/4ff8e3e9dbae5a65688873b22f2ff7c4.gif
+help 2019-02-05 19:55:11 For your mom jokes?
+the-dump 2019-02-05 20:20:57 Bottom right is my favorite way to hold my drink
+general 2019-02-06 21:41:44 That looks kind of like an f104
+general 2019-02-06 21:42:02 Vaguely
+creations-chat 2019-02-10 06:58:29 That "apache"  sergeant hale posted looks like a pretty delibarate copy of the hind from the contest
+the-dump 2019-02-10 08:21:41 tfw no gf
+plane-crazy 2019-02-12 14:32:33 It's something we need
+plane-crazy 2019-02-14 14:37:59 <:TEApose:544705362859786251>
+creations-chat 2019-02-15 20:01:20 I never tought of using cameras. I always just tried to stash the limiting parts away somewhere or use glass half wedges
+help 2019-02-18 15:25:43 The torque from the rotor blades varies with speed and blade pitch so you can't really calculate a particular value
+help 2019-02-19 19:58:06 The tail rotor has to compensate if you spin your blades faster or change pitch so you still need to keep adjusting manually while you fly
+help 2019-02-19 20:03:51 And you can't calculate the torque from the main rotor if you don't know the power from the motor
+help 2019-02-19 20:06:12 So in short you would have to estimate your tail rotor speed trough trial and error
+creations-chat 2019-02-24 15:31:56 F-16 in dutch demo livery
+the-dump 2019-02-24 16:57:59 https://www.youtube.com/watch?v=xsYSAzIy-88
+general 2019-02-24 20:53:00 The mighty toothpick airforce
+creations-chat 2019-02-28 06:48:42 Can't you put horns on it as a siren
+creations-chat 2019-03-01 14:48:24 100 part flying wing using a reversed version of brikzays angled control surfaces requesting: crazy engineer
+creations-chat 2019-03-01 14:48:47 
+the-dump 2019-03-01 14:57:37 my helicopter got vaccinated and now it has autism
+general 2019-03-02 09:37:19 
+plane-crazy 2019-03-04 09:40:31 old german boeing c130
+plane-crazy 2019-03-04 10:19:09 this is the special T-tail variant of the c130
+creations-chat 2019-03-05 07:38:49 boeingbus a380747
+plane-crazy 2019-03-05 20:41:38 The holy grail for impact bombs
+creations-chat 2019-03-10 09:02:06 carpet bomber, drops 48 explosive balls
+creations-chat 2019-03-10 09:10:18 https://gyazo.com/10a5afe8bd5eca0bf4b0a270fde25b24.gif
+creations-chat 2019-03-16 14:09:09 But can that trebuchet launch a 90kg projectile over 300 meters?
+general 2019-03-20 15:22:14 no mech can defeat mine
+plane-crazy 2019-03-24 15:39:35 How do you even get the control surfaces to go opposite
+creations-chat 2019-03-29 18:38:02 Car with inboard suspension. Not a lot of travel and overly complex, but a cool novelty and quite flat
+help 2019-03-30 16:27:39 Isn't that how it's supposed to be?
+help 2019-03-30 16:28:47 Pointing the control surfaces down makes the wing generate more lift, thus making it go up
+help 2019-03-30 16:46:44 No it doesn't
+help 2019-03-30 16:47:07 Flaps up on the tail makes it go down, which lifts the nose
+help 2019-03-30 16:50:29 If pointing the surface up gives it lift then why does a plane roll towards the wing with the upward flap
+help 2019-03-30 16:51:21 And why does a canard plane pitch up when you point the control surface on the canard down
+help 2019-03-30 16:58:11 No it doesn't
+help 2019-03-30 16:58:28 It makes the tail go down which pitches the nose up
+help 2019-03-30 17:02:39 
+help 2019-04-08 14:34:03 <:FixPls:548709302282747914> <:Motor:559531201237352451>
+help 2019-04-18 11:18:07 Depends on where on the plane they are
+the-dump 2019-04-18 17:11:54 
+help 2019-04-28 12:04:11 You make your own larger flaps with motors and wing panels
+the-dump 2019-04-29 09:13:40 it's a well known fact that germans looked like white asians during word war 2
+help 2019-04-29 10:30:37 hmmmm
+creations-chat 2019-05-12 14:01:53 somewhat crude coaxial helicopter that uses sakura's free swashplate do drive a pair of paddles to steer the helicopter (derived from an equally crude single rotor heli that I'm trying to get to fly stable)
+plane-crazy 2019-08-28 07:38:53 dash 8 op
+creations-chat 2019-10-05 18:16:30 Is that a droop snoot on that concorde?
+creations-chat 2019-10-17 14:07:53 Alenia C-27j spartan
+creations-chat 2019-10-17 14:11:01 capable of slow flight and short landings
+creations-chat 2019-10-17 14:43:23 an attempt at replicating the windows
+creations-chat 2019-11-12 11:55:19 ornithopter 2: electric boogaloo
+creations-chat 2019-11-12 11:57:37 https://gyazo.com/10aaa5163c70c852e0373cbf59be0997.gif
+creations-chat 2020-01-23 14:04:54 I googled swiss navy and the first results were lube
+help 2020-02-14 22:05:12 have control panels for up and down as far backward as possible and for rolling as far to the edge of the wing as possible
+creations-chat 2020-02-16 08:13:31 experimental flying wing that uses twisted wing sections to remove the  need for vertical fins
+creations-chat 2020-02-16 08:16:36 https://gyazo.com/500d8ba25e78967779a8ac28f60345d8.gif notice how it yaws into the turn instead of against it like a flat wing
+creations-chat 2020-02-26 08:34:44 flying wing with wing twist, not enough to remove the need for split rudders but enough to make it not yaw the opposite direction when you try to roll
+creations-chat 2020-02-26 08:35:56 
+creations-chat 2020-03-27 19:34:53 <@!148877471457083393> you can use control surfaces assigned with some random unused keys to separate the control surfaces from the wings more cleanly
+creations-chat 2020-03-30 17:06:48 rockets are nice if you don't want your throttle on a switch
+plane-crazy 2020-04-08 08:53:35 they were used to mark targets for other aircaft and could also attack ground targets themselves
+help 2020-04-26 06:24:30 does anyone know how to make blade flapping work? whenever I try to use flapping hinges the blades implode
+creations-chat 2020-04-30 20:21:17 how did you make the upwards tilt of the blades stable?
+the-dump 2020-05-26 20:02:27 Leg day
+general 2020-06-19 20:38:21 I found this blasphemous comment on an airwolf theme audio
+the-dump 2020-06-27 19:43:57 https://cdn.discordapp.com/attachments/203873535406505984/726045834524753930/video0-4.mp4
+help 2020-07-07 09:23:48 wouldn't it look better to just have a straight front edge and no holes instead of one with a tiny slope and huge holes
+help 2020-08-15 19:51:48 Can't you just change around the keybinds on the motor going the wrong way
+help 2020-08-19 20:57:14 A six blade swashplate in plane crazy requires a whole lot of motor voodoo magic
+help 2020-08-22 10:12:21 it looks like you should reverse your tail rotor direction
+general 2020-09-01 10:50:39 totally a j20
+help 2020-09-08 14:52:03 in real life swept wings are also only faster than straight wings starting from near supersonic speeds
+the-dump 2020-09-16 09:52:29 
+the-dump 2020-09-23 08:20:14 
+creations-chat 2020-10-19 07:05:39 > as far away from the body means more leverage but slower and closer to the body means less leverage and more speed <@!447221768520859659>
+> aka outer means constant and slow and inner means takes time to accelerate a bit and rolls real fucking fast
+<@!484529511468236802> Control surface placement is different from gear ratios. Air drag counters your rotational force at a certain point, which means the rolling can't become any faster past that point. Further away placement means a greater rotational force which means faster rolls. You can easily test this in plane crazy.
+creations-chat 2020-10-29 07:58:15 https://www.youtube.com/watch?v=8mN9ZAfadpE
+creations-chat 2020-10-29 07:59:18 you also don't normally come for a landing from below the ground
+creations-chat 2020-10-29 08:02:04 coming that far from below the flight deck means your jet just emerged from the ocean
+creations-chat 2020-11-13 21:35:17 if the j20 is based off that then the f15 must be based off the f4
+creations-chat 2020-11-13 21:41:09 the j20 probably isn't even that stealthy
+the-dump 2020-11-15 12:31:01 holy shit guys the russians are making colonial vipers
+creations-chat 2020-11-16 21:47:13 we don't know what a real life ratte would look like because it's just infeasibly large and would never work
+the-dump 2021-04-19 08:28:50 

@@ -1,0 +1,9 @@
+The Tale of imjustaseahawk (673174659381854218)
+general 2022-03-07 16:21:38 tf is going on with updates
+help 2022-07-30 14:18:36 does anyone know how i can fix the motor glitching out, every time i try to move that motor it just glitches out, even though the other one doesnt, and theyre identical (i didnt see anything unusual)
+help 2022-07-30 14:20:07 
+help 2022-07-30 14:24:52 ok, well it happens everytime i spawn, after i started camo on the wing, before i did the camo it didnt happen
+help 2022-07-30 14:38:11 ok
+help 2022-08-01 22:15:24 does someone have any idea how to fix this, 1 motor is working correct, while the other one is moving instead of rotating, from my eyes both intakes are identical, i tried removing the camo since it worked before i did the camo, didnt work, i tried removing anchor block, didnt work, i tried replacing the motor, didnt work, even my friends dont have any idea how to fix that, like it only moves to the other motor once i rotate it/unlock it, if anyone has an idea how to fix this that would help me out alot since i already spend 1 week building the plan (including camo) and rebuilding it is not something i want to do.
+help 2022-08-01 22:17:08 also the landing gear-motor doesnt work on the intake thats broken
+help 2022-08-01 22:17:19 and i cant find anything that conencts them

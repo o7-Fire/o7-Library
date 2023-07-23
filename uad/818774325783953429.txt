@@ -1,0 +1,39 @@
+The Tale of CG. Valent Hostilianus II Aug. O (818774325783953429)
+help 2021-08-28 03:15:16 not sure what the problem is, but my jet wont gain altitude
+help 2021-08-28 03:25:33 it just skids across the floor
+help 2021-08-28 03:25:41 and wont rise when i pull up
+help 2021-08-28 03:29:29 https://streamable.com/ct6ny5
+help 2021-08-28 03:31:23 Alright thanks.
+bot-central 2021-08-28 04:17:19 `-ms
+bot-central 2021-08-28 04:17:27 -ms
+plane-crazy 2021-08-28 04:24:31 is the speed in game the same as mph or kmph?
+plane-crazy 2021-08-28 04:26:50 alright
+help 2021-08-28 04:46:30 Yes i need to remove weight from the front but theres not much i can do if i want to keep the structure accurate
+help 2021-08-28 04:47:11 i tried
+help 2021-08-28 04:47:28 i had like 8 thrusters on it
+help 2021-08-28 04:47:58 4 super rockets
+help 2021-08-28 04:48:12 2 large jets
+help 2021-08-28 04:48:29 and 2 large rockets
+help 2021-08-28 04:48:30 yes
+help 2021-08-28 04:48:39 at the back
+help 2021-08-28 04:48:47 i want to keep the jet looking accurate
+help 2021-08-28 04:49:34 does it still work if theyre inside?
+help 2021-08-28 04:53:31 didnt work
+help 2021-08-28 04:53:39 i put 30 jet engines in there
+help 2021-08-28 04:53:53 it just bounced on the ground then flew into the void
+help 2021-08-28 04:57:07 is there anything that changes the centre of mass by a lot
+help 2021-08-28 04:59:31 *rocket
+help 2021-08-28 04:59:40 i acidentally said the wrong one
+plane-crazy 2021-08-29 01:35:12 which is better 2x2 or 1x1 plane nose
+plane-crazy 2021-08-29 01:57:53 wdym by that
+bot-central 2021-08-29 03:27:51 -ms
+bot-central 2021-08-29 03:29:38 -ms
+bot-central 2021-08-29 03:30:16 -ms
+bot-central 2021-08-29 03:30:42 -ms
+bot-central 2021-08-29 03:30:50 -ms
+plane-crazy 2021-08-30 05:35:14 will plane crazy 2 have a white list feature?
+plane-crazy 2021-08-30 06:11:48 thats pretty cool
+plane-crazy 2021-08-30 06:19:38 has someone already suggested wing panels and controls that take up two spaces?
+plane-crazy 2021-08-30 06:20:40 lol obviously mate
+plane-crazy 2021-08-30 23:58:19 are vtol jets hard to make?
+bot-central 2021-08-30 23:59:45 !rank

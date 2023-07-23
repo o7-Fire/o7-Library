@@ -1,0 +1,142 @@
+The Tale of beastmaster8 (700813401030393896)
+bot-central 2022-08-06 15:44:21 !rank
+help 2022-08-06 16:01:05 Like the color of the afterburner?
+help 2022-08-06 16:11:37 Something like the mig29 exhaust might look good with it.
+help 2022-08-06 16:29:26 Use trail
+help 2022-08-06 16:30:41 Set the lifetime pretty low so the trail isn't really long
+help 2022-08-06 16:32:23 I guess that would work
+help 2022-08-06 16:33:11 I don't think that will affect the circumference of the trail tho
+bot-central 2022-08-06 18:09:06 !rank
+help 2022-08-08 15:47:52 A vertical stabilizer might help
+help 2022-08-08 15:51:01 Oh lol
+help 2022-08-08 16:13:58 Are you using motor 2?
+bot-central 2022-08-08 17:27:43 !rank
+creations-chat 2022-08-11 13:50:43 You have to get to lvl 3 to post images
+creations-chat 2022-08-11 13:53:03 By talking
+help 2022-08-11 21:08:52 Do you mean you don't have much room for the flares, or something else?
+help 2022-08-11 21:13:53 Ok, how much room do you have to work with?
+help 2022-08-11 21:14:17 Ok
+help 2022-08-11 21:18:43 Do you have a screenshot?
+help 2022-08-11 21:24:49 <@744109857770045483>  Maybe you could use a disconector with a trail some how
+bot-central 2022-08-12 04:17:04 !rank
+help 2022-08-15 14:39:44 Disconector might help with that
+help 2022-10-26 15:54:19 What side of the canopy looks better?
+help 2022-10-26 15:56:21 I'm talking about the canopy itself, but thanks for the feedback.
+help 2022-10-26 15:59:10 Alright, thanks.
+help 2022-11-07 14:12:04 Use 0 drag
+creations-chat 2022-11-07 14:31:44 I think they're saying it's small
+help 2022-11-09 05:42:53 Reach lvl 3
+help 2022-11-17 17:31:57 What does the moterlock look like?
+help 2022-11-17 19:11:09 What material is it
+help 2022-11-17 19:11:32 Make it something heavier
+help 2022-11-17 19:12:22 Hmm
+help 2022-11-17 19:13:23 What materials did you use
+help 2022-11-17 19:13:54 Maby try metal
+help 2022-11-17 19:15:01 By any chance are you using a conveyor engine
+help 2022-11-17 19:19:12 Any friction blocks
+help 2022-11-18 00:02:01 Nice, what was the problem
+creations-chat 2022-11-20 14:47:44 <@456226577798135808> isn't his bell on the other side?
+bot-central 2022-12-04 14:56:44 !rank
+help 2022-12-04 20:13:39 Any one have a small conveyor engine design that I could use?
+help 2022-12-04 20:24:56 Thanks
+help 2022-12-04 22:08:40 How much better?
+help 2022-12-07 07:59:07 Adjust the controls to your comfort
+help 2022-12-07 15:39:05 Please excuse the messy layout
+help 2022-12-07 15:39:37 Phone
+help 2022-12-07 15:41:27 It's a phone...
+help 2022-12-07 15:47:07 Most of the buttons are for use on the ground and adjusting the angle of things before I  activate the motor lock. So like 90% of the time those buttons are irrelevant.
+help 2022-12-07 15:55:20 That and I'm too lazy to delete the keybinds for some of the things that never get pressed
+help 2022-12-09 20:42:07 Thoughts on this ugly sub
+help 2022-12-09 20:42:38 No, a backslash is that but backwards \.
+help 2022-12-09 20:44:19 \
+help 2022-12-09 20:53:09 Ik lol
+help 2022-12-10 07:33:12 Up and down or side to side?
+creations-chat 2022-12-13 03:59:38 Potato quality pictures
+creations-chat 2022-12-13 04:13:20 Need lvl 3
+creations-chat 2022-12-13 04:36:25 Lol I'm working with a potato
+help 2022-12-13 06:34:15 How does the grading system work?  Do you subtract the downvotes from the upvotes or something?
+help 2022-12-13 15:28:27 Could you give an example
+help 2022-12-13 15:28:48 <@942714616939679794>
+help 2022-12-13 15:30:38 Ok
+help 2022-12-13 15:31:31 I think they are saying you could change the settings
+creations-chat 2022-12-13 16:09:00 Could I get some feedback on my potato quality post?
+creations-chat 2022-12-13 16:37:24 Any of these good? Mobile sucks.
+help 2022-12-13 16:54:14 So for the designer ranks do I still need to show the block count and stuff like that?
+help 2022-12-13 17:00:24 So would a link to the post work as proof?
+help 2022-12-13 17:03:07 Thanks
+creations-chat 2022-12-13 18:10:40 Yea don't worry, it's getting ratioed quickly.
+help 2022-12-14 02:45:30 What are the settings of the hover thrusters?
+help 2022-12-14 03:09:01 Ok
+help 2022-12-14 03:10:34 What block is this?
+help 2022-12-14 03:10:38 <@990128005017927691>
+help 2022-12-14 03:11:41 Which direction is it facing?
+help 2022-12-14 03:12:29 Ok I'd double check that when you can.
+help 2022-12-14 03:14:29 If its being motorlocked I use motors
+help 2022-12-14 03:14:49 If I use pistons it goes crazy
+help 2022-12-14 03:17:25 True
+help 2022-12-14 03:20:08 Yes
+help 2022-12-14 03:24:31 Which direction is the motor
+help 2022-12-14 03:25:51 Usually volume and power at the same time
+help 2022-12-14 03:30:17 How fast does it currently go?
+help 2022-12-14 03:31:25 Do all the hover thrusters have the same keybinds
+help 2022-12-14 03:32:08 Hmm
+help 2022-12-14 03:34:35 I assume the things on the sides are hover thrusters as well
+help 2022-12-14 03:36:18 I see that now
+help 2022-12-14 03:37:30 How much more room do you have to put stuff
+help 2022-12-14 04:22:39 It s a bit of both I think
+help 2022-12-14 04:24:14 How does it shake?
+help 2022-12-14 04:25:09 Like up and down or side to side
+help 2022-12-14 04:26:19 Oof lol
+help 2022-12-14 04:27:08 What material is it?
+help 2022-12-14 04:27:21 Ok
+help 2022-12-14 04:27:40 I think so
+help 2022-12-14 04:28:40 What's your roblox username I might be able to help
+help 2022-12-14 04:29:00 Ok
+creations-chat 2022-12-14 19:12:19 It took me like 3 months, I mean like I rarely ever talked so yea.
+creations-chat 2022-12-14 19:16:24 Lol I don't care. Gives me an excuse to not talk.
+creations-chat 2022-12-15 01:26:56 Hi
+help 2022-12-15 02:22:25 <@990128005017927691> any  more progress made?
+help 2022-12-15 02:24:54 Nice
+help 2022-12-15 02:30:46 You could get another 4 rows ar hover engines by putting gover thrusters in place of the cameras.
+help 2022-12-15 02:31:00 <@990128005017927691>
+help 2022-12-15 02:32:24 Like this
+help 2022-12-15 02:32:48 Oof potato quality pic again
+creations-chat 2022-12-15 07:08:08 Drift
+the-dump 2022-12-28 05:13:24 
+help 2023-01-04 22:59:01 Add something to counter the  lift
+creations-chat 2023-01-23 11:12:42 I'm wondering the same thing, I've got one similar but the star and the circle ain't aligned properly.
+creations-chat 2023-01-23 11:40:45 They might just be strange looking lug wrenches
+help 2023-02-26 19:11:12 Anyone know why it automatically levels itself?
+help 2023-02-26 19:25:04 Are the motors locked?
+help 2023-02-26 19:28:57 Make the motors locked and powered
+help 2023-02-26 19:29:06 See if that fixes it
+help 2023-03-07 18:02:20 Kvochur bell maneuver?
+help 2023-03-08 16:23:51 The vertical stabilizers can become horizontal
+help 2023-03-08 16:24:19 Makes it kinda easier for me to do stuff
+help 2023-03-08 16:24:28 
+help 2023-03-09 01:25:03 Wdym?
+help 2023-03-09 01:25:22 Thx
+help 2023-03-09 01:27:09 I honestly don't know
+help 2023-03-09 01:30:13 There are some jet engines in the back for more pitch and some on the front and back for yaw, but other than that's it.
+help 2023-03-09 01:30:52 Wasd to an extent, I don't use the joycon thing
+help 2023-03-09 01:35:23 <@592619320421384232>
+help 2023-03-09 01:36:27 My best bet is the lack of vertical stabilizer
+help 2023-03-09 01:37:04 I mean I have them they just folded down
+help 2023-03-09 01:37:40 It is
+help 2023-03-09 01:39:24 
+help 2023-03-09 01:41:08 It flies better with it but more wobble at higher speeds and can't do the spin thing as well
+help 2023-03-09 04:57:34 I'm could be wrong, but I think the tnt has to be a certain setting
+creations-chat 2023-03-22 22:59:27 Might be a stupid question. If the motor lock gets damaged when its disconnected does it affect the build?
+help 2023-05-13 17:15:20 Elevators (in the back) control pitch (up & down) 
+Aileron (front) control the roll.
+creations-chat 2023-06-17 17:46:35 <@775918490146177024> are they controllable and what's the payload?
+creations-chat 2023-06-17 17:50:22 Someone gonna try to reverse engineer it lol
+creations-chat 2023-06-17 17:59:31 I'm tempted to buy it now lol
+creations-chat 2023-06-17 18:09:48 ||⬛️||
+creations-chat 2023-06-17 18:12:11 Show us the design to prove it lol
+creations-chat 2023-06-17 18:26:53 Since when is cluster illegal?
+creations-chat 2023-06-17 18:30:10 What about expanding explosive devices?
+creations-chat 2023-06-17 18:40:12 Is this how PCC is all the time? I should visit more often lol.
+help 2023-06-17 22:50:46 Screenshot the build  and have the blueprint transparent
+help 2023-06-17 22:53:28 ibisPaint X is free and allows you to change layer transparency, so I'd try that.
+creations-chat 2023-07-01 13:54:24 Lmao, same

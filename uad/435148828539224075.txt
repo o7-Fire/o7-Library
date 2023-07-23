@@ -1,0 +1,26 @@
+The Tale of anthonyk0803 (435148828539224075)
+help 2020-09-10 17:50:57 Guys what do I have to change to make it so my plane stops slowly tilting down
+help 2020-09-10 17:53:15 The main reason this is happening is because I removed helium
+help 2020-09-10 17:53:26 So I can get the aeronautical engineer thing
+help 2020-09-10 17:53:47 Alright thanks
+help 2020-09-10 18:01:14 Alright now the plane is still tilting forwards with a bunch of ballast blocks
+help 2020-09-10 18:01:21 If I put anymore the plane starts doing a wheelie
+help 2020-09-10 18:03:05 No shit
+help 2020-09-10 18:03:08 thats where I put it
+help 2020-09-10 18:03:21 Dense
+help 2020-09-10 18:03:31 3 of them with max density
+help 2020-09-10 18:03:45 Anymore and it start doing wheelies on the tarmac
+help 2020-09-10 18:03:57 Okay
+help 2020-09-10 18:04:51 
+help 2020-09-10 18:04:52 They are in pink
+help 2020-09-10 18:05:38 Yes
+help 2020-09-10 18:05:48 It still tilts down witht he ballasts too
+help 2020-09-10 18:06:28 Alright now it is doing wheelies on take off
+help 2020-09-10 18:06:37 And still tilts down in fligth
+help 2020-09-10 18:07:08 Alright Im pretty sure I have to lower the wings then
+help 2020-09-10 18:07:28 Oh
+help 2020-09-10 18:07:45 alright let me make some changes
+help 2020-09-10 18:07:47 And see if it works
+creations-chat 2020-09-11 03:19:06 Oh hold up
+creations-chat 2020-09-11 03:19:07 I got rid of that
+creations-chat 2020-09-11 03:19:23 yes

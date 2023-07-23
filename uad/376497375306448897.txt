@@ -1,0 +1,10 @@
+The Tale of tai_here (376497375306448897)
+general 2023-07-13 04:27:29 anyone know how to set a keybind to "rotate"?
+plane-crazy 2023-07-13 04:27:53 anyone know how to set a keybind to "rotate" in motor?
+plane-crazy 2023-07-13 04:30:48 no like
+plane-crazy 2023-07-13 04:30:54 im tryna do a tut and the keybind is deadass just called "rotate"
+plane-crazy 2023-07-13 04:31:01 "Backward: Rotate"
+plane-crazy 2023-07-13 04:31:27 oh
+plane-crazy 2023-07-13 04:31:31 how do i remove a keybind from something?
+plane-crazy 2023-07-13 04:31:33 to make it non functional
+plane-crazy 2023-07-13 04:33:00 oh aight

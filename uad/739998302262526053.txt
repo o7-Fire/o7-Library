@@ -1,0 +1,167 @@
+The Tale of just_a_random_robot (739998302262526053)
+bug-reports 2020-08-16 22:11:28 The data saving system hates signs. I literally cannot get it to save the signs color or text correctly. It either resets the text or color. Usually both. The issue occurs with all save slots. (I am on mobile so I can't use the dev console, I assume this is a issue with the code though)
+creations-chat 2020-08-16 22:29:07 How do I make rockets work. It keeps leaning and going in random directions. It refuses to stay up
+help 2020-08-16 23:15:09 Anyone know how to use pontoons? For me they just keep bouncing on the water
+creations-chat 2020-08-16 23:17:31 While trying to create a rocket I accidentally created a submarine
+help 2020-08-16 23:34:23 They don't float properly. For me they keep bouncing on the water. They don't stay on the water, they keep jumping into the air uncontrollably
+bug-reports 2020-08-17 00:14:54 So, while on my alt account getting screenshots, I noticed this. The jetpack animation glitched and was only showing it to me. This is what everyone else is seeing.
+creations-chat 2020-08-17 00:18:44 It's not much, but it works well. Can turn using the control surfaces, the ballast (disguised as wood) help keep the raft stable while moving and still. The propellers help the raft move forwards.
+general 2020-08-17 17:17:00 Wow I'm blind today lol
+creations-chat 2020-08-17 17:20:41 The feature with lights turning off interferes with my creation. I'm trying to create something similar to the military land boat (forgot the name) and the lights won't stay on
+creations-chat 2020-08-17 20:34:47 Thanks to the Wonderful Trap door giveaway feature, I have to take a screenshot on my alt. It's not a trapdoor if this giant "OPEN" button is on it.
+creations-chat 2020-08-17 20:40:06 
+creations-chat 2020-08-17 20:40:50 That's as good as the screenshot gets. Thanks to the dumb feature where even random noobs can see "OPEN" really ruins the point of the trap door being a "Trap" Door
+creations-chat 2020-08-17 20:42:13 But besides that, anyone got any ideas on how to enable steering with this massive titan of a boat?
+
+(Nvm I first gotta figure out how to make it move. The thing is so heavy the water wheels don't even move)
+plane-crazy 2020-08-17 20:57:21 Is it still considered a boat if it can't move but floats? Right now it's more of a tsunami bunker due to its inability to move on it's own and being heavy.
+creations-chat 2020-08-18 13:17:22 Wow I'm blind. I accidentally put what I tried to say in creations
+creations-chat 2020-08-18 13:17:42 I'm about to try to fly with only helium and no engines
+creations-chat 2020-08-18 13:26:32 I got my helium powered plane flying. It works. One problem: ***It works too well and can't turn***
+creations-chat 2020-08-18 15:10:51 Trying to make a flying sub. Two control surfaces won't work and are controlling themselves. Any solutions?
+creations-chat 2020-08-18 15:14:39 Already tried replacing them. Doesn't seem to fix anything
+creations-chat 2020-08-18 20:59:10 How do I make the motors spin one half of object. I'm trying to design a custom propeller engine and it keeps spinning both the propeller and the plane
+creations-chat 2020-08-19 13:30:33 Is flying submarines illegal?
+creations-chat 2020-08-19 14:08:36 Working on something that shouldn't be logically or physical possible.
+creations-chat 2020-08-19 15:29:57 The sub could only fly. The sinking and rising didn't work properly. It was heavily unbalanced
+creations-chat 2020-08-19 15:46:38 I got something that doesn't really meet any requirements for the ranks, but is impressive. ***first I gotta find and download a good screen recorder***
+plane-crazy 2020-08-19 17:16:09 Noobs really do try to raid your base like it's free real estate. There was even a noob who tried to glitch into what I'm making
+bug-reports 2020-08-19 17:23:29 <@694095866717274152> I'm no expert, but the word ***"Illegal"*** doesn't seem right. Did you go to a fake game by any chance?
+bug-reports 2020-08-19 18:13:10 I'm no expert, but last I checked, light doesn't go through solid matter.
+bug-reports 2020-08-19 18:36:12 When you your not anchored or in build mode it gets darker (not much but a bit darker) I'm not a dev so I don't know much about this or why it even happens, but anchors seem to have a affect on the lightning
+bug-reports 2020-08-19 21:38:37 > just, phasing through the ground
+<@705533053740777584> 
+Complicated, but short explanation is it's a old speed glitch. Same thing happens with certain animations with walls. (Won't explain how the wall glitch works for obvious reasons)
+creations-chat 2020-08-19 21:48:21 We need copy and past so we can copy blocks and past them. Trying to build the other half of my creation which is the same, is killing my hands since I'm on mobile.
+creations-chat 2020-08-19 22:00:36 End my suffering. That entire light gray half, I have to rebuild on the other side to make it balanced. That took a long time with the annoying glitches of the build mode not wanting to work. 
+
+***please help I seriously don't feel like going through the same process of dealing with the build mode. The parts are too small to make building it not take half an hour.***
+creations-chat 2020-08-19 23:45:00 I just realized like after a month of working on my runway, I don't have enough space to add in important stuff for the runway door. 
+
+***Mission Failed***
+creations-chat 2020-08-19 23:45:54 It's a door that blocks random planes from entering the runway. It has a door because it sits on the water
+help 2020-08-20 00:27:14 Is it considered a boat if it floats, carries the Basic Tutorial Plane, can carry a Military Army, acts as a floating bunker, but can't move?
+creations-chat 2020-08-20 00:28:34 Hey, if you see anyone claiming they made their runway and it looks similar to mine, don't believe them. Legit a bacon hair in one of the servers glitched into my runway, looked around, ***SO HE COULD COPY WHAT I BUILT.***
+
+(The screenshot is to prove that I built it. The screenshot was taken befote they joined)
+creations-chat 2020-08-20 00:29:42 They are copying it. If I can I will try to get a screenshot
+creations-chat 2020-08-20 00:30:02 I do. Because I don't like thief's.
+creations-chat 2020-08-20 00:41:07 What a coincidence. My runway specifically floats on water.
+creations-chat 2020-08-20 00:41:24 
+bug-reports 2020-08-20 00:43:28 Lights automatically shutoff. Either a annoying feature or a annoying bug
+creations-chat 2020-08-20 18:14:02 Why do the Water Wheels work better on terrain than the actual wheels?
+help 2020-08-20 18:49:40 Uh. Why is my raft leaning towards the side when it's perfectly balanced?
+help 2020-08-20 18:56:21 Found out the issue. Motor 2 (the exact motor I need) is a piece of garbage.
+bug-reports 2020-08-20 18:57:04 Motor 2 be dancing until I rip it off and throw it into the lava.
+bug-reports 2020-08-20 18:57:54 And I mean that literally
+bug-reports 2020-08-20 18:59:32 It caused a total unbalance on my creation for absolutely no reason.
+bug-reports 2020-08-20 19:01:04 Also magnets FREAK OUT when ANYWHERE near a anchored/unachored massive structure. They literally generate lag for the player who built the creation
+bug-reports 2020-08-20 19:02:41 It's hard to explain, but just build something massive, try to use magnets on anything and they go crazy
+bug-reports 2020-08-20 19:04:44 Also on mobile, the build system sometimes glitches and won't let you place something in the correct spot. For example, the big propeller engine. It will push it back a few blocks so you can't place it where you're trying to put it. Not trying to spam but this is a game breaking issue since it's interfering with the process of making something
+creations-chat 2020-08-20 19:27:44 I want to make a TIV but the game doesn't have a reliable motor that won't open a portal to another dimension
+creations-chat 2020-08-21 15:27:10 How do I do that without making the plane unable to fly
+help 2020-08-21 16:19:59 How do I manage this without causing my plane to crash or become unstable
+help 2020-08-21 16:20:27 Theres no wing parts that go from the side to up like that
+general 2020-08-21 16:31:55 I tried to get a link to my creation but theres so many posts my browser is breaking
+bot-central 2020-08-21 19:15:37 ?shelp
+bug-reports 2020-08-22 14:36:29 The magnets need to be redone COMPLETELY. They broke my entire creation and forced me to rejoin because it wouldn't let me go back to building
+bug-reports 2020-08-22 14:36:49 ***THATS HOW BAD THEY ARE.***
+bug-reports 2020-08-22 14:41:08 Does it have motor 2
+bug-reports 2020-08-22 14:42:04 Motor 2 glitches allot for some reason. That might be a cause. Idk though
+bug-reports 2020-08-22 14:45:49 Fabric is unstable.
+bug-reports 2020-08-22 14:46:01 I'ma record whats happening with fabric
+bug-reports 2020-08-22 14:59:01 Rip
+bug-reports 2020-08-22 14:59:50 Why is it 8Mb max
+bug-reports 2020-08-22 15:00:00 That was literally a 20 second long video
+bug-reports 2020-08-22 15:02:44 Don't mind me. Just bending gravity and physics with fabric
+general 2020-08-22 15:10:21 I have made a creation capable of reaching space. (Although it works best with gravity at 0 since 0 gravity has no weight on it allowing it to just zoom. At regular gravity its slow. I tried rockets but it was unstable)
+general 2020-08-22 15:16:49 The hover thruster is there to help it lift off the ground. Without it, it wouldn't take off. It detaches once in air
+general 2020-08-22 15:17:39 Yeah. I was showing it because someone said they were confused
+general 2020-08-22 15:42:05 Space
+bug-reports 2020-08-22 15:46:53 Isn't space lovely?
+bug-reports 2020-08-22 16:08:28 Lava cannons slow your creation when active
+bug-reports 2020-08-22 18:39:07 Parachutes (box) need to be fixed. They cause unbalance even when they aren't released. And they often clip through the box, unbalancing everything and breaking the box. They also bug out when they are released, it will randomly fling itself for no reason. Size or length doesn't affect the outcome, and always results to flinging into random directions.
+bug-reports 2020-08-22 18:41:24 The box was up in air and the parachute randomly flipped upsidedown
+bug-reports 2020-08-22 18:42:55 Nvm its the entire thing being affected. I removed the parachute and the box launched into the air
+creations-chat 2020-08-23 15:45:58 I can't make a proper Seat ejector due to parachutes wanting to warp and open a portal to another dimension
+bug-reports 2020-08-23 15:48:55 If a structure is anchored magnets have a small chance to break (if attached to the anchored structure) and begin pulling anything that isn't anchored (as in not attached or things like pistons) towards it, ignoring its settings, acting like a black hole. No limits to its strength or range.
+creations-chat 2020-08-23 17:15:21 My creation makes it rain 
+*Rain anything. That includes explosives*
+creations-chat 2020-08-23 17:16:12 If only I could get the game to not lag
+bug-reports 2020-08-23 17:17:34 The color of glass won't save.
+I'm having the issue with Slot 8
+creations-chat 2020-08-24 16:15:01 Balance is broken. I made something, and its leaning to the left. When the right is heavier
+creations-chat 2020-08-24 16:15:10 How is that even possible
+bug-reports 2020-08-24 16:26:51 Build mode mobile needs to be more accurate. The paint, move, edit tools are all accurate. Just not build mode. It sometimes glitches and acts like it can't place something as if there was a object blocking the spot, when nothings in the way.
+bug-reports 2020-08-24 19:37:01 Servers overflowing with more players than the max limit, is a roblox issue. Not sure what exactly causes it, but it happens sometimes
+bug-reports 2020-08-26 16:37:46 I don't think cutters are even supposed to affect your build
+bug-reports 2020-08-26 16:38:09 Oh
+bug-reports 2020-08-26 16:52:07 Can confirm, cutters INDEED do not work when anchored
+bug-reports 2020-08-26 16:52:38 Just tried it, rammed into it at full speed with anchor on, not a scratch
+the-dump 2020-09-01 11:41:47 
+the-dump 2020-09-01 12:01:28 Your memes are mine
+general 2020-09-01 21:17:26 Why would you try to save over the data limit
+***Knowing Roblox, your data will literally explode if the systems database is overloaded.***
+bug-reports 2020-11-27 18:51:56 Trapdoors "Lock" button doesn't do anything on mobile.
+bug-reports 2020-12-17 02:29:52 Snow launcher is impossible to get on mobile. No button appears. This is both private and public servers.
+bug-reports 2020-12-17 13:51:18 I'm assuming the door has absolutely no open button
+bug-reports 2020-12-17 13:51:22 
+bug-reports 2020-12-20 01:47:52 Hover thrusters are seriously unstable with performance. I made a plate with a anchor in the center, all blocks (besides the main pilot seat, hover thrusters, and anchor) where diamond plate. There was hover thrusters on the edges of the plates. Flying this causes you to experience major lag, although this lag only affects you and doesn't appear to affect other players (it may affect others, I have only tested it in a private server with an alt)
+bug-reports 2020-12-21 19:56:13 With motors is possible to completely bypass the blacklist barriers.
+bot-central 2020-12-21 19:57:41 ?help
+bot-central 2020-12-21 19:57:58 ?shelp
+bug-reports 2021-03-03 00:23:02 I have absolutely no idea how this happened. All I did was load, start building, test it, built more, then this randomly happened. These two buttons do literally nothing, and I have no idea how to get rid of them. I tried moving my build around to find the random object but no luck.
+bug-reports 2021-03-03 00:28:50 Also this really needs to be fixed as it happens allot. This occurs with every object, this was just the quickest one I could get to occur. These usually happen no matter what you do, it will instead place the object in a different spot than you're trying to place it.
+bot-central 2021-03-03 01:08:22 You'd have to remove it if it's already there though.
+bot-central 2021-03-03 01:09:26 It can be issue especially if you have a big build or multiple blocks you have to remove
+bug-reports 2021-03-03 01:44:42 Another seriously annoying build mode bug
+bug-reports 2021-03-03 02:00:10 It's not supposed to do that though. The blocks aren't supposed to do what they did
+bug-reports 2021-03-03 02:04:19 Oh
+bug-reports 2021-03-03 13:18:47 It's not a 1×3 area.
+bug-reports 2021-03-03 14:07:13 Didn't get a video of this but I equipped my jetpack while I had the build stuff open, jumped, and got launched into the atmosphere
+bug-reports 2021-03-03 14:08:17 It says *motors and parachutes* launching you is known. Not jetpacks
+bug-reports 2021-03-03 21:55:05 This is really annoying. I can't paint the object at all. I have to remove it multiple times to paint it.
+help 2021-03-04 16:19:09 How do I control the direction of a giant plate that flies using helium
+bug-reports 2021-03-04 19:55:31 Sometimes big creations can lag the server itself. Although I've never seen it get to the point where the server crashes. It's mainly things becoming slow to respond
+help 2021-03-04 19:58:42 What does drag do on hover thrusters
+bug-reports 2021-03-05 23:01:40 Another build mode bug. 
+*Expect it makes building actually impossible*
+bug-reports 2021-03-05 23:03:12 That's not even a solution. Just saying "cry about it" doesn't fix anything. And bugs like that, especially if it involves the main part of the game and prevents the game from being playable, they are usually important to fix
+help 2021-03-07 20:17:57 Would this actually work?
+help 2021-03-07 20:30:28 It didn't work. I tried built it and it just became unstable
+help 2021-03-07 21:22:17 Could be the wing and control surface material. Some materials can affect the way the plane moves and make it do random things, but this mainly happens while the plane is moving so I don't know.
+help 2021-03-08 16:15:17 Do motors still fling things? I want to take advantage of that bug and turn it into a thing that works and moves. I'm being serious by the way
+help 2021-03-08 20:20:45 How do you slow down when falling at a speed of 1300 MPH and prevent helium and suspension from just shattering upon impact
+help 2021-03-08 20:21:52 Parachutes are too unstable. Also I tried that before but it just launched the build into the air
+help 2021-03-08 20:28:32 That's a good question. I have absolutely no idea
+help 2021-03-08 20:30:16 This is what it looks like when it's falling. It has super rockets, suspension and hover thrusters to prevent the build from crashing into the ground and sending it flying into the atmosphere.
+None of which work
+help 2021-03-08 20:31:11 That's a good question.
+I call it a abomination of physics
+bug-reports 2021-03-08 20:37:57 Somehow a 2136 block build lags the tools meanwhile a 2671 block build is perfectly fine.
+bug-reports 2021-03-08 21:08:18 By everyone do you mean the entire server? And are you sure it's not only you crashing?
+I can load things with near 3000 blocks without anyone crashing on a phone that doesn't handle things that well
+bug-reports 2021-03-09 00:45:33 I've noticed a major decrease in Auto save working. It's been a hour or something near that and it hasn't saved anything, even though my auto save is on.
+bug-reports 2021-03-09 00:47:28 Also in my build there's a gap where the mobile build tool just refuses to work and won't let me place objects without trying to place it in a totally different spot. I've tried rejoining, loading my build again, but it keeps happening and it's constant everywhere on my build. But one spot just refuses to work no matter what
+bug-reports 2021-03-09 00:50:22 If I remember correctly it makes it so anyone you blacklist can't see your build
+bug-reports 2021-03-09 00:51:12 Auto Save was working just fine yesterday. But today it's being extremely slow
+bug-reports 2021-03-09 00:55:01 
+bug-reports 2021-03-09 00:55:12 These issues are constant and make building actually impossible
+bug-reports 2021-03-09 00:58:22 Pontoon. But like I've said before, this affects all blocks and occurs in every possible position
+bug-reports 2021-03-09 01:34:12 Not as bad as roblox servers managing to set themselves on fire for literally no reason
+bug-reports 2021-03-09 15:51:34 More build bugs that make building impossible.
+bug-reports 2021-03-09 16:00:14 How about you shut up
+bug-reports 2021-03-09 16:05:31 1: Blocks will often ignore where your trying to place it and will instead go somewhere else
+2: the tools constantly freeze and won't work
+bug-reports 2021-03-11 16:20:26 ~~Joined and immediately crashed for literally no reason. My settings were the same awhile ago but now suddenly the game decides to crash~~
+It appears I joined a server with a bunch of big creations
+help 2021-03-11 16:26:33 Will smaller pontoons next to big pontoons make my build unstable? I would use the same pontoon but I have no choice due to build mode not working right
+help 2021-03-11 21:30:50 What is the lock button even supposed to do on the trap doors
+help 2021-03-11 21:31:59 *then why does it exist*
+bug-reports 2021-03-11 22:24:44 I forgot to take a screenshot of the console. But I do have a video of the "Save" button just not working for some reason
+bug-reports 2021-03-11 22:25:07 Also these hitboxes aren't really a problem, but it's just confusing
+bug-reports 2021-03-17 13:52:20 Jetpack keeps going down with a 2100 something build. I had to force it to work right by setting the gravity to 10
+bug-reports 2021-03-17 13:53:30 Also wing lights don't even work for mobile users
+bug-reports 2021-03-17 20:18:51 It's roblox hating your graphics system
+help 2021-04-01 13:35:33 ~~Am I dumb or is the gold bar hard to find~~
+Nevermind I just realized I passed it multiple times

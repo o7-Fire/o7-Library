@@ -1,0 +1,289 @@
+The Tale of 1pob (640334947349037069)
+general 2021-01-08 14:43:36 hi i just joined
+plane-crazy 2021-01-08 14:45:18 true heaven would be: no shredder bugs and no reset spammers
+plane-crazy 2021-01-08 14:47:25 ive been working pretty hard on this mech, slowly adding upgrades for the past few months. should i make a full video showcasing it?
+plane-crazy 2021-01-08 14:47:56 you cant say that thats bad
+plane-crazy 2021-01-08 14:48:02 <:nooo:787097964946259978>
+plane-crazy 2021-01-08 14:48:18 oh
+plane-crazy 2021-01-08 14:48:28 indeed
+plane-crazy 2021-01-08 14:48:55 should i make a video showcasing my mech?
+plane-crazy 2021-01-08 14:49:14 same
+plane-crazy 2021-01-08 14:57:21 https://www.youtube.com/watch?v=gak0raPhAto&feature=youtu.be
+plane-crazy 2021-01-08 14:59:52 what did?
+plane-crazy 2021-01-09 12:01:10 why is painting cutters so damn hard
+plane-crazy 2021-01-09 12:01:46 be a karen and ask for the task manger
+plane-crazy 2021-01-09 12:02:17 yeaqh
+plane-crazy 2021-01-09 12:02:26 or u can just use search bar
+plane-crazy 2021-01-09 12:07:06 yay my mech is done (still needs some designing but the mechanics and main model is complete)
+plane-crazy 2021-01-09 12:07:16 im too obsessed with mechs i swear-
+plane-crazy 2021-01-09 12:12:23 thats what-
+plane-crazy 2021-01-09 12:12:36 thats what she said-
+plane-crazy 2021-01-09 14:48:20 hey so my mech has a minigun and drill but they keep bouncing
+plane-crazy 2021-01-09 14:48:21 heres a vid
+plane-crazy 2021-01-09 14:48:22 https://www.youtube.com/watch?v=v044skBcm0w&feature=youtu.be
+general 2021-01-09 14:49:02 https://media.discordapp.net/attachments/547570359894016001/776607573477687316/image0.gif
+plane-crazy 2021-01-09 14:49:23 why
+plane-crazy 2021-01-09 14:49:34 i dont wanna lock the motors so i can move it
+plane-crazy 2021-01-09 14:49:47 ok
+plane-crazy 2021-01-09 14:49:50 brb
+plane-crazy 2021-01-09 14:50:17 which one should i lock <@!738702049113538600>
+plane-crazy 2021-01-09 14:50:39 idk what one that is
+plane-crazy 2021-01-09 14:50:48 ik one of them dont, which just spin it for aesthetic
+plane-crazy 2021-01-09 14:50:55 theres two that move up and down
+plane-crazy 2021-01-09 14:51:08 ok
+plane-crazy 2021-01-09 14:51:09 
+plane-crazy 2021-01-09 14:51:55 oh wow it worked
+plane-crazy 2021-01-09 14:51:56 thank u
+plane-crazy 2021-01-09 14:57:48 ok <@!738702049113538600> now i have another problem
+plane-crazy 2021-01-09 14:57:57 it keeps rotating when i move
+plane-crazy 2021-01-09 15:00:18 where and why
+plane-crazy 2021-01-09 15:00:40 and im using half blocks
+plane-crazy 2021-01-09 15:01:04 where do i place it
+plane-crazy 2021-01-09 15:03:17 i dont even know
+plane-crazy 2021-01-09 15:04:03 <@!615876745710534676>
+plane-crazy 2021-01-09 15:04:11 my mech keeps rotating when i move
+plane-crazy 2021-01-09 15:04:30 how do i fix it
+general 2021-01-09 15:06:42 yes
+general 2021-01-09 15:07:01 oh sh-
+general 2021-01-09 15:08:03 i love it when <#384021699466756107> chat dies when i need help
+plane-crazy 2021-01-09 15:09:27 wdym
+plane-crazy 2021-01-09 15:09:31 where
+plane-crazy 2021-01-09 15:10:24 where tho
+plane-crazy 2021-01-09 15:11:20 where do i place it
+general 2021-01-09 15:11:40 96024
+plane-crazy 2021-01-09 15:12:06 i have helium there
+plane-crazy 2021-01-09 15:14:56 stay there
+plane-crazy 2021-01-09 15:15:26 like this?
+plane-crazy 2021-01-09 15:15:53 its only 3 blocks
+plane-crazy 2021-01-09 15:16:03 should i do 1x1?
+plane-crazy 2021-01-09 15:16:15 wait that wont change anything-
+plane-crazy 2021-01-09 15:16:24 and they are next to each other
+plane-crazy 2021-01-09 15:17:17 <@456226577798135808>
+plane-crazy 2021-01-09 15:17:18 is that right? theres 2 other 1x1s next to it
+plane-crazy 2021-01-09 15:17:56 its still rotating <@456226577798135808>
+plane-crazy 2021-01-09 15:18:49 i have one, its covered up
+plane-crazy 2021-01-09 15:19:11 this is it, my cursor is on it <@456226577798135808>
+plane-crazy 2021-01-09 15:19:20 nice
+plane-crazy 2021-01-09 15:19:47 i made the legs taller recently thats why
+plane-crazy 2021-01-09 15:20:39 should i move it to where the red blocks are?
+plane-crazy 2021-01-09 15:22:03 ok
+plane-crazy 2021-01-09 15:24:38 <@456226577798135808> what should i set speed to?
+plane-crazy 2021-01-09 15:33:14 i use motors for walking animation
+plane-crazy 2021-01-09 15:33:16 and im done
+plane-crazy 2021-01-09 15:33:19 but it still rotates
+plane-crazy 2021-01-09 15:33:40 i use propellers to move foward but the actual walking animation is with mortars
+plane-crazy 2021-01-09 15:33:46 how tf do i do that
+plane-crazy 2021-01-09 15:34:09 what is
+plane-crazy 2021-01-09 15:34:29 i done everything u asked but its still rotating
+plane-crazy 2021-01-09 15:36:17 im still pretty new with making mechs
+plane-crazy 2021-01-09 15:36:41 <@456226577798135808> its still rotating and raising the knees made the walking animation trash
+plane-crazy 2021-01-09 15:37:14 thanks *alot* for the *help*
+plane-crazy 2021-01-09 15:37:21 :/
+plane-crazy 2021-01-09 15:37:42 idk wtf ur talking about with walking anim with no mortars
+plane-crazy 2021-01-09 15:37:43 thats why
+plane-crazy 2021-01-09 15:37:46 and u wont explain
+plane-crazy 2021-01-09 15:37:56 maybe thats why
+plane-crazy 2021-01-09 15:38:20 my mech barely even moves foward now <@456226577798135808>
+plane-crazy 2021-01-09 15:39:07 THEN IT WONT WORK
+plane-crazy 2021-01-09 15:39:51 
+plane-crazy 2021-01-09 15:40:12 not my fault u guys arent explaining what i do with propellers and unpowered mortars
+plane-crazy 2021-01-09 15:40:30 whats the point of having the mortars if theyre unpowered?
+plane-crazy 2021-01-09 15:41:09 but how would there be a walking anim
+plane-crazy 2021-01-09 15:41:18 ugh whatever ill try it where do i put the propellers
+plane-crazy 2021-01-09 15:41:54 just tell me what to do
+plane-crazy 2021-01-09 15:42:07 tutorials hurt my brain
+plane-crazy 2021-01-09 15:42:48 that would look good on this wouldnt it???:
+plane-crazy 2021-01-09 15:42:49 no, it wont
+plane-crazy 2021-01-09 15:43:26 it will ruin the design
+plane-crazy 2021-01-09 15:43:39 i can imagine it
+plane-crazy 2021-01-09 15:43:42 itd be hideous
+plane-crazy 2021-01-09 15:44:27 its only my second mech i tried my hardest
+plane-crazy 2021-01-09 15:45:03 so why are you criticizing mine?
+plane-crazy 2021-01-09 15:45:32 i told u
+plane-crazy 2021-01-09 15:45:47 they hurt my brain and theres barely any tutorials that actually repair things
+plane-crazy 2021-01-09 15:45:58 only ones i can find are full builds, not fixes
+plane-crazy 2021-01-09 15:46:32 <@!573197570566782977> i unpowered the motars now it just falls on its front
+plane-crazy 2021-01-09 15:47:01 i have 4 ballast blocks set to 10 on each one
+plane-crazy 2021-01-09 15:47:14 i cant i have half blocks around it
+plane-crazy 2021-01-09 15:48:26 itll look ugly af
+plane-crazy 2021-01-09 15:48:59 nobody is even helping. making my mech worse
+plane-crazy 2021-01-09 15:49:04 im leaving
+plane-crazy 2021-01-10 18:42:50 anyone wanna do a mech battle? (melee only)
+general 2021-01-10 18:44:54 https://media.discordapp.net/attachments/547570359894016001/776607573477687316/image0.gif
+plane-crazy 2021-01-10 18:45:06 <:empty:794431705070174238>
+general 2021-01-10 18:45:16 https://media.discordapp.net/attachments/708027523191275550/789270484897234964/image0-2.gif
+plane-crazy 2021-01-10 18:46:21 shredder bugs <:PogStare:699130318510227537>
+general 2021-01-10 18:46:52 https://tenor.com/view/polish-toiler-polish-toilet-shiny-spinning-gif-17172679
+general 2021-01-10 18:47:13 if you laughed at this 2020 has broken your humor
+general 2021-01-10 18:47:22 not me
+plane-crazy 2021-01-10 18:47:43 <:pogey:651848693842182144>
+plane-crazy 2021-01-10 18:56:28 anyone wanna do a mech battle?
+plane-crazy 2021-01-10 18:56:40 cool
+plane-crazy 2021-01-10 18:57:20 knight
+plane-crazy 2021-01-10 18:57:45 
+plane-crazy 2021-01-10 19:59:52 ive went offline sorry
+plane-crazy 2021-01-10 20:00:10 that was like 2 hours ago
+plane-crazy 2021-01-10 20:56:32 ***LOOKING FOR SOMEONE TO MECH BATTLE ME
+(I don't have a vip server)
+(Melee only)
+DM ME IF INTERESTED***
+plane-crazy 2021-01-10 20:56:47 <@!337690534040698882> ^
+plane-crazy 2021-01-10 21:00:54 u doing it or not?
+plane-crazy 2021-01-10 23:11:40 what do yall think of my avalon
+general 2021-01-10 23:12:38 https://media.discordapp.net/attachments/708027523191275550/789270484897234964/image0-2.gif
+general 2021-01-10 23:13:38 <@!466793357318815744> what is that profile pic, is it shrek wazouski
+general 2021-01-10 23:14:49 how do u join rick
+general 2021-01-10 23:15:06 how do u join rickje guys
+general 2021-01-10 23:15:11 but he has joins off
+general 2021-01-10 23:16:09 in russia, plane control you
+general 2021-01-10 23:16:57 how do u join rickje fr
+general 2021-01-10 23:17:14 how do u join that
+general 2021-01-10 23:17:21 oh
+general 2021-01-10 23:19:15 do u guys like this mech i built
+plane-crazy 2021-01-10 23:19:21 wdym
+general 2021-01-10 23:19:39 a pvp mech
+general 2021-01-10 23:19:44 wdym
+plane-crazy 2021-01-10 23:19:53 <:Wokeje139:604492580369203210>
+general 2021-01-10 23:19:59 oh
+general 2021-01-10 23:20:07 because i wanted it to be vibrant
+general 2021-01-10 23:21:42 ok i changed it does it look better
+general 2021-01-10 23:23:06 how do u get ranks
+general 2021-01-10 23:23:16 thanks
+general 2021-01-11 18:55:01 youre lagging like a 2005 dell desktop
+general 2021-01-14 10:53:05 when does the winter event end
+general 2021-01-14 10:53:28 thats annoying
+general 2021-01-14 10:53:35 fr...
+general 2021-01-14 10:53:52 the snow is blinding :/
+general 2021-01-14 10:54:07 wait u can do that?
+general 2021-01-14 10:54:15 ok
+general 2021-01-14 10:54:28 thanks
+general 2021-01-14 10:58:20 didnt work
+general 2021-01-14 10:58:36 https://tenor.com/view/get-real-phineas-and-ferb-gif-18102120
+general 2021-01-14 10:59:10 i already had it from last event
+general 2021-01-14 10:59:31 cant
+general 2021-01-14 11:00:06 <@!260797229068058634> ur talking about this right?
+general 2021-01-14 11:00:27 but it didnt do anything
+general 2021-01-14 11:00:49 <@!260797229068058634> theres still snow tho
+general 2021-01-14 11:01:30 no
+general 2021-01-14 11:02:14 you said you can remove it
+general 2021-01-14 20:31:56 https://tenor.com/view/get-real-phineas-and-ferb-gif-18102120
+general 2021-01-14 20:32:10 https://media.discordapp.net/attachments/547570359894016001/776607573477687316/image0.gif
+general 2021-01-14 20:33:03 https://tenor.com/view/joseph-joestar-nice-good-job-gif-7319727
+general 2021-01-14 20:34:48 r
+general 2021-01-14 20:38:43 w h a t
+general 2021-01-14 22:00:59 getting flung be like
+general 2021-01-20 23:07:02 no
+general 2021-01-20 23:07:27 i turned off the ping <:OmegaTroll:626841385118597152>
+general 2021-01-20 23:07:39 good for u
+general 2021-01-23 20:24:57 Minecraft: 👑 
+Fortnite: 👑 
+Roblox: 👑 
+People who do game wars in 2021: 🎪
+general 2021-01-23 20:25:36 yes
+general 2021-01-28 14:35:05 caca
+general 2021-01-30 00:50:44 anyone wanna mech battle respond quickly
+general 2021-01-30 00:50:53 gat
+general 2021-01-30 00:51:08 mech battle anyone?
+general 2021-01-30 00:52:00 anyone  want to mech battle
+plane-crazy 2021-01-30 00:52:10 anyone  want to mech battle
+general 2021-01-30 00:53:38 mech battle?
+general 2021-01-30 00:54:39 warning: im about to rickroll people in Jet Stream, leave before rickrolled - you have been warned
+general 2021-01-30 00:54:44 5
+general 2021-01-30 00:54:45 4
+general 2021-01-30 00:54:46 3
+general 2021-01-30 00:54:49 2
+general 2021-01-30 00:54:51 1
+general 2021-01-30 00:55:41 but i have a soundboard
+general 2021-01-30 00:56:00 oh well
+general 2021-01-30 00:56:02 it was worth it
+general 2021-01-30 00:56:17 https://tenor.com/view/my-pp-itches-shrek-meme-shrek-dancing-groove-gif-16791870
+general 2021-01-30 00:56:22 this is what comes up for 'pp'
+general 2021-01-30 00:56:35 ^
+general 2021-01-30 00:57:02 this is funni
+general 2021-01-30 00:57:05 monke flip
+general 2021-01-30 00:57:40 but its a range of topics, monke is a topic
+the-dump 2021-01-30 00:59:12 https://tenor.com/view/dripgoku-swag-goku-gif-19831092
+the-dump 2021-01-30 00:59:18 i have #### drip
+general 2021-01-30 00:59:38 pubg is good
+general 2021-01-30 00:59:58 nah i dont personally like it
+general 2021-01-30 01:00:01 but it is good
+general 2021-01-30 01:00:17 also the most underrated shooter is Titanfall 2 change my mind
+general 2021-01-30 01:01:01 hard mode is titanfall 2, pilots are so fucking fast
+general 2021-01-30 01:01:21 lmao imagine being realistic
+general 2021-01-30 01:01:55 do yall dare me to rickroll vc again lmao
+general 2021-01-30 01:02:27 ill take it as a yes
+general 2021-01-30 01:02:46 worth it
+general 2021-01-30 01:06:48 its okay,but u have to reinstall it bc it can stop working and its annoying. its also quite laggy
+general 2021-01-30 01:07:51 what should i play im bored asf (it doesnt have to be roblox as long as its free)
+general 2021-02-03 19:33:30 caca
+general 2021-02-03 19:33:43 STOP CURSING SO FUCKING MUCH
+general 2021-02-03 19:33:49 https://tenor.com/view/slicing-satisfying-relax-animation-oddly-satisfying-gif-16548278
+general 2021-02-03 19:34:28 mimimimimimimiiii
+general 2021-02-03 19:34:32 i am the great mighty poo
+general 2021-02-03 19:34:42 and i will throw my SHIT AT YOUU
+general 2021-02-03 19:34:48 now how about some scat
+general 2021-02-03 19:34:57 ..
+general 2021-02-05 14:23:13 anyone wanna mech battle?
+general 2021-02-05 14:23:39 anyone wanna do a mech battle?
+plane-crazy 2021-02-05 14:24:09 anyone wanna mech battle?
+general 2021-02-05 14:24:22 SORRY
+general 2021-02-05 14:24:34 OH OK
+plane-crazy 2021-02-05 14:25:24 nise
+plane-crazy 2021-02-05 14:25:36 painting cutters are the worst
+plane-crazy 2021-02-05 14:26:01 do u have mechs?
+plane-crazy 2021-02-05 14:26:08 oh
+plane-crazy 2021-02-05 14:26:18 im looking to mech battle someone
+plane-crazy 2021-02-05 14:27:25 https://media.discordapp.net/attachments/775099698465210399/802675688742191124/image0_1604237174940.gif
+general 2021-05-16 19:31:40 ?
+general 2021-05-16 19:32:22 why did u ping me im not even active here lol
+general 2021-05-16 19:37:04 i always read pings i just dont talk here, and its rude to answer a question with a question, so answer me
+general 2021-05-16 19:37:33 why did he randomly just ping me tho
+general 2021-05-16 19:41:50 looking for who asked
+general 2021-05-16 19:44:19 actually tho why did u ping me
+general 2022-05-04 08:51:37 plane
+general 2022-05-04 08:51:57 kinda
+general 2022-05-04 08:51:59 im still having chat issues
+general 2022-05-04 08:52:26 u can still play
+general 2022-05-04 08:52:36 and why is my nickname my old acc
+general 2022-05-04 08:52:45 i got locked out of it a year ago 😢
+general 2022-05-04 08:53:33 stop it thats mean
+general 2022-05-04 08:53:51 good.
+general 2022-05-04 08:54:13 bruh thats so fucking offensive.
+general 2022-05-04 08:54:17 how could you man
+general 2022-05-04 08:54:41 never
+general 2022-05-04 08:55:00 oh yeah well i have mystery robux
+general 2022-05-04 08:55:10 BRO ARE U FUCKING KIDDING ME 😐
+general 2022-05-04 08:55:21 CANCEL THIS MAN
+general 2022-05-04 08:55:28 shut up red name
+general 2022-05-04 08:55:34 same colour as ur grandmothers period
+general 2022-05-04 08:55:44 i am rn
+general 2022-05-04 08:55:47 i can never stop pissing
+general 2022-05-04 08:55:50 its sad
+general 2022-05-04 08:56:04 top tier cuisine
+general 2022-05-04 08:56:12 shit since when were u here
+general 2022-05-04 08:56:21 u saw nothing
+general 2022-05-04 08:56:35 i said u saw nothing
+general 2022-05-04 08:56:36 BRO
+general 2022-05-04 08:56:44 yes
+general 2022-05-04 08:56:49 btw im doing that tutorial u sent me
+general 2022-05-04 08:57:06 no
+general 2022-05-04 08:57:12 lucky, i can never stop pissing
+general 2022-05-04 08:57:48 watch some mfs on deviantart make that a ||k1nk||
+general 2022-05-04 08:57:56 ok
+general 2022-05-04 08:57:57 ill watch it
+general 2022-05-04 08:58:02 wait
+general 2022-05-04 08:58:05 i dont have a dictionary tho
+general 2022-05-04 08:58:27 tender
+general 2022-05-04 08:58:30 balls
+general 2022-05-04 09:16:18 literally my little cousin
+general 2022-05-06 13:52:04 someone give me a username for my discord profile or this spider will be in your bed tonight
+general 2022-05-06 13:52:26 ok
+general 2022-05-06 14:17:02 embed fail
+general 2022-05-06 14:17:13 https://tenor.com/view/skeleton-spinning-fan-gif-21550083
+general 2022-05-06 14:17:17 bruh
+general 2022-05-07 07:04:12 segs
+general 2022-05-10 17:32:18 the best thermal paste
+general 2022-05-11 16:59:01 🤓
+general 2022-05-11 17:00:32 @ everyone
+wash your balls
+general 2022-05-13 17:43:50 hello

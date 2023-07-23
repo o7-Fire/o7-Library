@@ -1,0 +1,10 @@
+The Tale of .lactovacilo (376093162608918529)
+plane-crazy 2021-03-10 12:03:38 Is it possible to make a stable plane at 3000 speed?
+plane-crazy 2021-03-10 12:04:31 I'm pretty new to Plane Crazy, I wanted to make a plane go mach speed
+plane-crazy 2021-03-10 12:06:38 could you show me how you made it?
+plane-crazy 2021-03-10 12:06:46 So that I can use it as an example to the plane
+plane-crazy 2021-03-10 12:07:35 I tried to make it, but it doesn't do anything
+plane-crazy 2021-03-10 12:07:42 Piston, then conveyor
+plane-crazy 2021-03-10 12:07:55 When I place a chair on it it just doesn't work
+plane-crazy 2021-03-10 12:09:16 Oh it worked
+plane-crazy 2021-03-10 12:09:28 wtf 600 speed easily

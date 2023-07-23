@@ -1,0 +1,133 @@
+The Tale of falcon9482 (726600777174483085)
+bug-reports 2020-11-15 09:22:35 [BUG REPORT] Sometimes when I join a Plane Crazy server, when I build, **the blocks do not appear before I place them**, which makes building difficult since I’m rotating the object blindly. _[DEVICE INFO: iPhone 7 Plus with iOS 14.1, Roblox Version 2.455.413788.]_
+bug-reports 2020-11-15 09:57:37 Yes, very. Not only odd but really annoying.
+plane-crazy 2020-11-15 09:58:53 does anyone know that one wedge part that’s like an inner wedge but reversed (outer wedge) and is 2x2?
+plane-crazy 2020-11-15 09:59:00 I don’t even know if it exists lol
+plane-crazy 2020-11-15 09:59:13 I’ve looked through wedge and wedge2 over and over again I can’t find it
+general 2020-11-15 09:59:46 He’s on a platform that camo’s on the wheels
+bot-central 2020-11-15 09:59:55 !servers
+bot-central 2020-11-15 10:00:05 !commands
+bot-central 2020-11-15 10:00:12 !cmds
+bot-central 2020-11-15 10:00:16 !cmd
+bot-central 2020-11-15 10:00:22 !command
+bot-central 2020-11-15 10:00:24 !help
+help 2020-11-15 10:01:36 does anyone know that one wedge part that’s like an inner wedge but reversed (outer wedge) and is 2x2?
+help 2020-11-15 10:01:40 HALP IDK IF IT EXISTS
+bot-central 2020-11-15 10:02:11 !help
+bot-central 2020-11-15 10:02:17 !ranks
+bot-central 2020-11-15 10:02:32 ?ranks
+bot-central 2020-11-15 10:02:38 ?ranks
+bot-central 2020-11-15 10:02:44 ?colourranks
+help 2020-11-15 10:03:52 Hlalp
+help 2020-11-15 10:04:04 You know the inner wedge right?
+help 2020-11-15 10:04:17 Well imagine it but reversed so the wedge pops out
+help 2020-11-15 10:04:28 2 triangle corners and one flat corner
+help 2020-11-15 10:04:36 I need one of those but 2x2
+help 2020-11-15 10:04:56 I just don’t know the name
+help 2020-11-15 10:05:11 > no blocks in the game are 2x2
+<@!526713899958140928>  2x2 wedges are in wedge2
+bot-central 2020-11-15 10:05:46 -ping
+bot-central 2020-11-15 10:05:51 god that’s laggy
+bot-central 2020-11-15 10:06:40 reversing worlds has 33ms while ya boi da normie here has 134ms
+help 2020-11-15 10:07:06 Name?
+help 2020-11-15 10:07:21 > no there really are no 2x2 blocks as far as i know
+Ah damn I meant 1x3
+help 2020-11-15 10:07:26 1x2
+help 2020-11-15 10:07:32 Pardon my error
+help 2020-11-15 10:08:51 > L/Rcorner wedges?
+<@!526713899958140928>  no i need a wedge with 2 wedge connections and one flat one
+help 2020-11-15 10:09:17 I need like a wedge that can connect both longs
+help 2020-11-15 10:09:30 Wait ima send a ss to show you the missing piece
+help 2020-11-15 10:12:30 I need the name of a part that can fit this hole correctly and smoothly
+help 2020-11-15 10:12:55 Fuck
+help 2020-11-15 10:13:53 > you can try triangle wedge 1x3
+<@!526713899958140928>  yes that’s my current fix
+help 2020-11-15 10:14:30 Put a 1x3 triangle wedge that goes above blue part while it’s painted into the plane to provide an illusion
+help 2020-11-15 10:15:48 yeah just look at the pic again
+help 2020-11-15 10:15:57 > i dont get it but good luck
+<@!526713899958140928>  thanks
+help 2020-11-15 10:16:06 god making a bell x-15 is so damn hard
+help 2020-11-15 10:16:19 plane crazy needs a lot more types of wedges
+bug-reports 2020-11-15 10:33:54 Yep I found the reason
+bug-reports 2020-11-15 10:33:59 It’s that first person but
+bug-reports 2020-11-15 10:34:01 Bug*
+bug-reports 2020-11-15 10:34:20 i always use fpv so that’s why my report was so confusing
+bug-reports 2020-11-15 10:34:27 And that’s why I was so confused
+creations-chat 2020-11-15 10:35:14 <@!405089963445583881> Memento Mori.
+help 2020-11-15 21:31:26 > <@726600777174483085> use motorlock to combine blocks together
+<@456226577798135808> Wats motorlock and how do you use it
+creations-chat 2020-11-16 03:55:22 any tips for making a bell x-15 in plane crazy?
+plane-crazy 2020-11-16 03:57:32 Does anyone have tips for making a USAF Bell X-15?
+creations-chat 2020-11-16 08:38:37 fuck
+creations-chat 2020-11-16 08:40:10 I always mess up plane names, i meant a KSP version of the x-15, named the kell x15
+help 2020-11-20 19:45:06 What is the heaviest part and the heaviest material?
+help 2020-11-20 19:46:49 So material doesn’t change weight.
+help 2020-11-20 19:47:05 No shit. Fabric worked best for blimps and stuff
+help 2020-11-20 19:47:15 it is loight
+help 2020-11-20 19:47:31 eight
+help 2020-11-20 19:47:37 Ah ok
+help 2020-11-20 19:48:20 thx so much my guy
+help 2020-11-20 20:00:35 I tried everything and I can’t get the aerodynamic center and the mass center to match
+help 2020-11-20 20:00:48 And moving the ad center won’t do much
+help 2020-11-20 20:00:56 And the mass center will just not move
+help 2020-11-20 20:04:43 Dude stop
+help 2020-11-20 20:04:47 that hurts
+help 2020-11-20 20:04:53 It’s my first major plane
+help 2020-11-20 20:05:00 I want to do another one after that
+help 2020-11-20 20:05:07 This is just like a test
+help 2020-11-20 20:05:13 To make the bigger and better one
+help 2020-11-20 20:06:40 Fuck you
+help 2020-11-20 20:07:28 I’m trying my best and you’re here throwing shit at me when you prolly can’t even make a good plane
+help 2020-11-20 20:07:32 And look I’ll admit it
+help 2020-11-20 20:07:36 I’m not the best builder
+help 2020-11-20 20:07:40 But I’m not trash
+help 2020-11-20 20:07:50 People who are trash are the ones who don’t try
+help 2020-11-20 20:08:06 I have the balls to try making this plane shitty ending or not
+help 2020-11-20 20:08:18 Now shut the FUCK up and go cry to your mommy
+creations-chat 2020-11-20 20:11:26 Bruh can you stop lying Lots of noobs are here so like let’s be honest not only are you throwing insults at them you’re also lying to them when they barely know about the game you’re manipulating their knowledge which is ffed up <@!683847069890510887>
+creations-chat 2020-11-20 20:16:14 stfu I have better things to do than to talk to u
+help 2020-11-20 20:25:49 Bruh it is WAY too front heavy
+help 2020-11-20 20:26:15 I did not much happened
+bot-central 2020-11-21 00:06:14 !suggestionshelp
+bot-central 2020-11-21 00:06:19 !hell
+bot-central 2020-11-21 00:06:21 !help
+bot-central 2020-11-21 00:06:37 ?shelp
+bot-central 2020-11-21 00:06:50 ?rhelp
+general 2020-11-21 23:09:38 Hi
+help 2020-12-15 17:23:20 What is the rocket engine with the most thrust in this game?
+help 2020-12-15 17:23:33 Ping me to answer bc I need help fast
+help 2020-12-15 17:45:34 I guess that alts aren’t allowed here but they must be allowed in the game
+help 2020-12-17 20:19:51 Where do you find the snow blaster
+help 2020-12-17 20:20:05 I found all the winter parts except the snow blaster
+help 2020-12-17 20:20:09 I literally cannot find it
+help 2020-12-17 20:21:21 Thanks
+help 2020-12-17 20:21:33 The fabric tread hall?
+help 2020-12-17 20:21:45 <@!719168864705052802> send a ss or smtg
+help 2020-12-17 20:22:07 I’ve been to the bunker but idk which hall you mean
+help 2020-12-17 20:22:21 the one with fabric treads or the one going to the cave
+help 2020-12-17 20:22:28 oh ok
+help 2020-12-17 20:22:43 thanksss
+bug-reports 2020-12-17 20:38:51 yep same
+help 2020-12-17 20:47:09 How do you suggest things
+bot-central 2020-12-17 20:47:19 ?shelp
+help 2021-01-05 18:25:24 How do you configure motor 2
+help 2021-01-05 18:31:46 the thing is is that when I attach parts to the yellow piece nothing moves
+help 2021-01-05 18:31:55 and yes I’ve removed all possible attachments
+help 2021-01-05 18:32:52 ugh
+help 2021-01-05 18:32:57 then what is motor 2
+help 2021-01-05 18:33:05 I thought it was 2 motors in one
+help 2021-01-05 18:33:18 a spin motor and tilt motor
+help 2021-01-05 18:34:25 Jesus Christ
+help 2021-01-05 18:34:34 the game needs hinges
+help 2021-01-05 18:34:41 and multi motor parts
+help 2021-01-06 01:04:49 Add weight to the front
+help 2021-01-06 01:07:29 Add heavy blocks like fuel
+help 2021-01-06 01:07:39 However, if it slows down your plane
+help 2021-01-06 01:07:46 Then place wings in the center of mass
+help 2021-01-06 01:07:59 Np
+help 2021-01-06 01:34:42 Idk
+help 2021-01-06 01:37:39 not rn
+help 2021-01-25 01:45:52 Is there a material that can withstand TNT forever?
+help 2021-01-25 01:54:12 aight thx
+plane-crazy 2021-02-04 02:10:18 I’m sad as hell
+plane-crazy 2021-02-04 02:10:42 I was gonna do a cargo zeppelin for the competition but I ran out of time 😦

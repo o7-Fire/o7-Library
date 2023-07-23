@@ -1,0 +1,23 @@
+The Tale of anonymousjerk69 (819691412396310528)
+plane-crazy 2021-05-23 19:21:00 I found a bug involving hover thrusters, can someone verify it?
+plane-crazy 2021-05-23 19:21:40 yeah, someone confirm it's not just a me issue
+plane-crazy 2021-05-23 19:22:42 basically, if you  stack a lot of hover thrusters on top of each other, the thrusters explode and stay in the air for some reason, instead of falling back down (they float much higher than the normal max altitude)
+plane-crazy 2021-05-23 19:22:57 I know, very specific
+plane-crazy 2021-05-23 19:23:19 but very noticable
+plane-crazy 2021-05-23 19:23:53 no?
+plane-crazy 2021-05-23 19:24:03 But not intended?
+plane-crazy 2021-05-23 19:24:23 Why does it happen?
+plane-crazy 2021-05-23 19:24:47 possibly
+plane-crazy 2021-05-23 19:25:01 but shouldn't thrusters have mass?
+plane-crazy 2021-05-23 19:25:55 nut there is no thrust, sometimes they are facing straight down with the blue side up
+plane-crazy 2021-05-23 19:26:03 but*
+plane-crazy 2021-05-23 19:26:48 imma go get a screenshot
+plane-crazy 2021-05-23 19:31:25 https://imgur.com/v6X0vMH
+plane-crazy 2021-05-23 19:31:49 how?
+bot-central 2021-05-23 19:32:13 !rank
+plane-crazy 2021-05-23 19:32:54 welp my level is too low
+plane-crazy 2021-05-23 19:33:04 also, read <#533294912586645521>
+plane-crazy 2021-05-23 19:33:10 .
+plane-crazy 2021-05-23 19:34:10 anyway, here is the screenshot. https://imgur.com/v6X0vMH
+plane-crazy 2021-05-23 19:35:27 how? I'm new on the sever, and i'm pretty sure spamming isn't allowed
+plane-crazy 2021-05-23 19:36:56 I  o n l y  j o i n e d  t o  a s k  a b o u t  t h e  g l i t c h

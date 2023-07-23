@@ -1,0 +1,19 @@
+The Tale of eh.tema.le.pseudo (725367288185880626)
+help 2021-11-28 18:46:06 is there a specific role for showing our creations ??
+help 2021-11-28 18:52:07 ok thanks
+help 2021-11-28 18:59:32 i don't need any role for posting my builds but why can't i post any picture in <#384025409945337856> ?
+bot-central 2021-11-28 19:00:47 !rank
+help 2022-01-22 19:30:42 to everyone who are good at spaceship pls help me how can i make this be stable in the air ?
+help 2022-01-23 07:48:08 does anyone knows how to make a gyroscope for big builds ?
+help 2022-07-18 16:15:34 With 1x1 cylinders i guess
+the-dump 2022-07-18 16:43:00 Hot
+help 2022-07-20 14:27:03 Anyone got some tips and tricks fir camera locking ?
+help 2022-07-20 14:44:45 Your build is too light, add some weight in the middle maybe it'll help
+help 2022-07-20 14:44:54 Or add a gyroscope
+help 2022-07-20 14:53:34 Ballast blocks, 1 ballast block can weight up to 10 normal blocks
+help 2022-07-20 14:54:18 But for drones, a gyroscope would work better
+help 2022-07-20 14:54:27 Idk i haven't tried after all
+help 2022-07-20 15:10:07 Try a gyroscope then
+help 2022-07-20 15:10:09 Np
+help 2022-07-20 16:17:53 Do anyone have some good and smooth steering systems ?
+help 2022-07-21 17:58:11 Camera/motor locking

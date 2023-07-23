@@ -1,0 +1,91 @@
+The Tale of empoleonbsd (344334643748798465)
+plane-crazy 2021-01-16 02:33:09 is there ever gonna be a team create
+bot-central 2021-01-16 02:36:25 !suggestion
+bot-central 2021-01-16 02:36:36 !suggest
+bot-central 2021-01-16 02:36:53 &suggestion
+bot-central 2021-01-16 02:36:57 &suggest
+bot-central 2021-01-16 02:36:59 &help
+general 2021-05-05 00:31:52 wouldn't it be cool if there was a shaft block
+bot-central 2021-06-07 19:49:34 !suggestion
+bot-central 2021-06-07 19:49:39 !suggest
+bot-central 2021-06-07 19:50:31 ?shelp
+bot-central 2021-06-07 19:51:29 ?relp
+bot-central 2021-06-07 19:51:32 ?rhelp
+general 2021-06-07 20:33:35 e
+general 2021-06-07 20:33:43 sports
+general 2021-06-07 20:33:48 its in the game
+general 2021-06-07 20:33:49 lol
+bot-central 2021-06-07 20:34:13 !level
+bot-central 2021-06-07 20:34:50 !rank
+bot-central 2021-06-07 20:34:59 yikes
+bot-central 2021-06-07 20:35:01 rip
+bot-central 2021-06-07 20:35:05 !rank
+bot-central 2021-06-07 20:35:09 ssdghjklsd
+plane-crazy 2022-04-09 20:01:23 does anyone know why my plane automatically pitches up?
+plane-crazy 2022-04-09 20:02:16 by weight you mean weight distrib?
+plane-crazy 2022-04-09 20:02:23 yeah
+plane-crazy 2022-04-09 20:02:28 lines up with center of flight
+plane-crazy 2022-04-09 20:02:32 but I do have weird wings
+plane-crazy 2022-04-09 20:02:47 are there specific wrong wing configs that can cause issues with unwanted pitching?
+plane-crazy 2022-04-09 20:03:23 Aha lol.
+plane-crazy 2022-04-09 20:03:55 Yeah I basically had a hover car that I added wings to to help with turning
+plane-crazy 2022-04-09 20:04:19 And accidentally made it start flying one time
+plane-crazy 2022-04-09 20:04:29 It's got like 4 wings all at the edge of the car
+plane-crazy 2022-04-09 20:04:32 Soo
+plane-crazy 2022-04-09 20:04:33 Yeah
+plane-crazy 2022-04-09 20:04:36 Probably the issue
+plane-crazy 2022-10-30 17:11:24 is the new version ever gonna come out
+plane-crazy 2022-11-09 22:39:13 yoo
+plane-crazy 2022-11-09 22:39:21 is the second game even in development
+plane-crazy 2023-01-01 19:09:48 Why would a plane not fly and just tip up until it stalls
+plane-crazy 2023-03-04 14:45:48 Anyone know how to make a zero-gravity airship stay rightside up without pitching?
+plane-crazy 2023-03-04 14:45:55 I haven't had any luck.
+plane-crazy 2023-03-04 14:47:26 <@834898687959367751> What is a "stabilizer"?
+plane-crazy 2023-03-04 14:53:27 How would I make an axis lock?
+general 2023-03-04 14:57:15 Anyone here willing to teach axis lock?
+general 2023-03-04 14:57:23 Seems like something no one likes to divulge for some reason.
+general 2023-03-04 14:57:44 Is there some history with this I'm unaware of?
+general 2023-03-04 14:57:50 I just want my little ship to like.
+general 2023-03-04 14:57:54 Stay upright.
+general 2023-03-04 14:57:55 Sad.
+general 2023-03-04 14:58:07 It always tilts.
+general 2023-03-04 14:58:14 Pitches up and down.
+general 2023-03-04 14:58:16 For no reason.
+general 2023-03-04 15:00:42 Bruh.
+general 2023-03-04 15:00:44 I am confused.
+general 2023-03-04 15:00:48 Is this a trade secret or something?
+general 2023-03-04 15:00:53 Man that really blows.
+general 2023-03-04 15:01:40 Huh.
+general 2023-03-04 15:01:49 I guess I'm talking about stabilization?
+general 2023-03-04 15:01:56 Preventing the ship from pitching whatsoever.
+general 2023-03-04 15:02:23 They don't make a difference for some reason.
+general 2023-03-04 15:02:31 The ship doesn't have enough room for balasts ig.
+general 2023-03-04 15:02:49 If it's too thin that can make it more susceptible to pitching?
+general 2023-03-04 15:02:54 It's rather small.
+general 2023-03-04 15:02:58 But it moves insanely fast.
+general 2023-03-04 15:03:08 Yes, a small ship.
+general 2023-03-04 15:03:15 As in, an airship.
+general 2023-03-04 15:04:03 Can't send pictures.
+general 2023-03-04 15:04:05 I'll DM.
+general 2023-03-04 15:04:46 It's part drone.
+general 2023-03-04 15:04:48 Part ship.
+general 2023-03-04 15:04:52 It flies in the sky too.
+general 2023-03-04 15:04:56 As well as hovers.
+general 2023-03-04 15:05:15 I didn't realize it was a drone.
+general 2023-03-04 15:05:20 Sorry.
+general 2023-03-04 15:05:24 Idk how to describe it.
+general 2023-03-04 15:05:44 It's not a quadcopter.
+general 2023-03-04 15:05:49 That's what I think of when I think drone.
+general 2023-03-04 15:05:54 It's shaped like a drone.
+general 2023-03-04 15:05:59 Hovers like a hovercraft.
+general 2023-03-04 15:06:01 Flies like a plane.
+general 2023-03-04 15:06:21 It pitches randomly without my input
+general 2023-03-04 15:06:51 Maybe I can replace the wings with ballasts.
+general 2023-03-04 15:06:53 Lol.
+general 2023-03-04 15:07:19 There isn't anymore internal space for ballasts.
+general 2023-03-04 15:07:21 It's filled with em
+general 2023-03-04 15:07:58 And then move em near the wings?
+general 2023-03-04 15:11:05 Still infinitely pitches up.
+general 2023-03-04 15:11:12 I guess it's just the way the wings work idk.
+general 2023-03-04 15:11:29 I've just seen zero grav drones n stuff that don't have this issue
+general 2023-04-08 02:44:50 pretty sure roblox is f'd at the moment

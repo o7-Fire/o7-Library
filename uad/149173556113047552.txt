@@ -1,0 +1,238 @@
+The Tale of dan1 (149173556113047552)
+plane-crazy 2019-01-21 19:58:14 hi
+creations-chat 2019-01-21 20:47:26 All Terrain Armored Transport (ATAT) | Valyrian_Advisor | 1657 blocks
+creations-chat 2019-01-21 20:47:39 
+creations-chat 2019-01-21 20:47:51 
+creations-chat 2019-01-21 21:01:40 USS Enterprise | Valyrian_Advisor | 1578 blocks
+creations-chat 2019-01-21 21:01:52 
+creations-chat 2019-01-21 21:01:58 
+creations-chat 2019-01-22 19:31:56 Candy Machine | Valyrian_Advisor
+creations-chat 2019-01-22 19:32:11 
+help 2019-01-22 20:21:12 not sure if it's the right channel to ask, how do you get roles like special, modeller, inventor?
+help 2019-01-22 20:21:59 Oooh thanks.
+help 2019-01-25 19:53:05 what happens if save data use goes over 300k?
+help 2019-01-25 19:53:10 260k *
+help 2019-01-25 19:53:59 So I can save anything I want but the autosaves doesn't save anymore
+help 2019-01-25 19:54:02 ?
+help 2019-01-25 19:54:13 Ah
+help 2019-01-25 19:54:18 Ok thanks
+help 2019-01-25 19:54:46 never used it
+creations-chat 2019-01-25 22:44:24 Oil Platform | Valyrian_Advisor| 3144 | Rank requested: Lag Overseer,  Sea Marshal , Master Replicator
+creations-chat 2019-01-25 22:45:15 The platform can move slowly and the pump can get to bottom of the sea.
+creations-chat 2019-01-25 22:45:27 
+creations-chat 2019-01-25 22:48:36 
+creations-chat 2019-01-25 22:48:45 
+plane-crazy 2019-01-25 23:54:45 ,ol
+plane-crazy 2019-01-26 08:43:05 Uh
+help 2019-01-26 09:33:07 why is the max save data so low, will it become higher ?
+help 2019-01-26 10:38:47 What's the density of the cameras?
+help 2019-01-26 10:39:37 it seems REALLY low
+help 2019-01-26 10:39:49 lower than a ballast block with lowest density
+help 2019-01-26 10:41:12 well, it's producing a higher force than a ballast block in water
+help 2019-01-26 10:41:54 I have a 3 blocks thing like:         Camera - Normal Block - Ballast Block(0.15 density)
+plane-crazy 2019-01-26 11:41:17 uh
+help 2019-01-26 16:24:27 private server
+creations-chat 2019-01-26 16:43:38 Tardis while travelling through space and time <:THONK:527880803456122891>
+creations-chat 2019-01-26 16:45:01 I think we're travelling too much
+plane-crazy 2019-01-26 17:14:58 aw
+creations-chat 2019-01-27 09:27:22 Ranks requested: Master Designer, Modeller
+creations-chat 2019-01-27 09:28:16 
+help 2019-01-27 09:53:29 why tf is my magnet pushing my building even tho it's set on magnets only <:thonk:509498568982134816>
+plane-crazy 2019-01-27 11:01:14 lmaoo
+plane-crazy 2019-01-27 11:01:48 And you haven't got unbanned?
+plane-crazy 2019-01-27 11:02:08 I was unbanned after a week for that kind of stuff
+plane-crazy 2019-01-27 11:02:10 in the same year
+plane-crazy 2019-01-27 11:02:15 wtf
+plane-crazy 2019-01-27 11:02:37 i sent it in the forum
+plane-crazy 2019-01-27 11:02:43 lol
+plane-crazy 2019-01-27 11:02:49 awww the forum, I miss roblox forum
+plane-crazy 2019-01-27 11:05:21 so , how much does it get to get roled
+plane-crazy 2019-01-27 11:06:07 l0l <:oof:503264155940421633>
+plane-crazy 2019-01-27 11:06:41 <:dab:520022237705928704>
+help 2019-01-27 11:15:15 motor
+help 2019-01-27 11:26:06 xd
+plane-crazy 2019-01-27 12:36:39 o
+plane-crazy 2019-01-27 12:36:52 united airlines suck
+plane-crazy 2019-01-27 14:42:05 uh
+creations-chat 2019-01-27 15:25:31 Multi stage rocket | Valyrian_Advisor | 594 blocks | Rank requested: Master Scientist
+creations-chat 2019-01-27 15:25:42 
+creations-chat 2019-01-27 15:25:47 
+creations-chat 2019-01-27 15:29:32 ^
+creations-chat 2019-01-27 15:30:09 the lower stage has 9 engines and the upper one so yea
+plane-crazy 2019-01-27 16:39:58 I don't know but the density is higher than 1
+plane-crazy 2019-01-28 14:11:18 good day
+plane-crazy 2019-01-28 16:10:20 What does the "reset" config do in motors?
+creations-chat 2019-01-28 17:19:40 u mean 5 seconds
+plane-crazy 2019-01-29 13:45:23 yo
+plane-crazy 2019-01-29 13:45:26 when's the update?
+plane-crazy 2019-01-29 13:45:53 yay
+help 2019-01-29 14:28:05 What does the "reset" config do on motors?
+help 2019-01-29 14:41:45 So it's actually going to work in the future
+help 2019-01-29 15:54:50 My motors never returned to the original position with reset on
+help 2019-01-29 15:56:15 Oh my
+help 2019-01-29 15:56:19 lock setting
+help 2019-01-29 15:56:21 my god
+help 2019-01-29 15:56:24 Thanks xpert
+plane-crazy 2019-01-31 18:33:42 hi
+plane-crazy 2019-02-01 17:28:31 I've seen wheels with a fabric texture on them
+plane-crazy 2019-02-01 17:28:33 What are those
+plane-crazy 2019-02-01 17:28:57 No, I have the winter wheels and they're different
+plane-crazy 2019-02-01 17:30:04 that texture  but grey
+plane-crazy 2019-02-01 17:30:59 1 sec
+plane-crazy 2019-02-01 17:31:36 nevermind
+plane-crazy 2019-02-01 17:31:52 It didn't look like fabric with black color
+plane-crazy 2019-02-01 17:32:05 i've just checked
+plane-crazy 2019-02-01 17:32:40 https://gyazo.com/082b9d97764fe9de0475a3d090df146f
+plane-crazy 2019-02-01 17:33:12 lol
+creations-chat 2019-02-02 14:56:12 Monoliths - Valyrian_Advisor
+creations-chat 2019-02-02 14:56:22 
+creations-chat 2019-02-02 14:56:24 xdd
+creations-chat 2019-02-02 14:56:33 
+creations-chat 2019-02-02 14:56:47 ^
+plane-crazy 2019-02-02 15:10:00 subie, could you avoid copying people ok thx
+plane-crazy 2019-02-02 15:10:23 bad
+plane-crazy 2019-02-02 15:10:26 💔
+plane-crazy 2019-02-02 15:11:01 aaAAaaAaaaAAAAaaaa
+plane-crazy 2019-02-02 15:15:31 lmao did he get banned
+creations-chat 2019-02-03 17:54:20 yes pls
+creations-chat 2019-02-04 10:02:35 Diamond Hot Air Balloon | Valyrian_Advisor | 563 Blocks | Rank requested: Advanced Engineer
+creations-chat 2019-02-04 10:02:42 
+creations-chat 2019-02-04 10:02:48 
+plane-crazy 2019-02-04 17:07:32 hi
+plane-crazy 2019-02-04 19:56:00 pizza
+plane-crazy 2019-02-04 19:56:27 what
+plane-crazy 2019-02-04 19:56:29 are you italian
+plane-crazy 2019-02-04 19:56:31 xd
+plane-crazy 2019-02-04 19:56:36 anchio
+plane-crazy 2019-02-04 19:57:37 che cazzo non mi mettono i ruoli sul discorddddddddddddddd
+plane-crazy 2019-02-04 19:57:59 Io il sea marshal
+plane-crazy 2019-02-04 19:58:06 il master scientist
+plane-crazy 2019-02-04 19:58:10 e altre robe
+plane-crazy 2019-02-04 19:58:14 si infatti
+plane-crazy 2019-02-04 19:58:31 a me ne basta qualsiasi sinceramente, ne ho 0 adesso
+plane-crazy 2019-02-04 19:58:44 non posso manco mandare i consigli
+plane-crazy 2019-02-04 19:58:48 senza ruoli
+plane-crazy 2019-02-04 19:58:59 lolwh
+plane-crazy 2019-02-04 20:11:50 o so the snow stuff is an engine
+plane-crazy 2019-02-04 20:11:54 i wanted to use it as a trail
+plane-crazy 2019-02-04 20:11:57 ;d
+plane-crazy 2019-02-04 20:14:41 lol
+plane-crazy 2019-02-05 16:53:03 link of vip 1
+plane-crazy 2019-02-05 16:53:38 !servers
+plane-crazy 2019-02-05 16:53:49 " it doesn't look like you can use that. "
+plane-crazy 2019-02-05 16:54:06 Yea I asked for roles more than a week ago
+plane-crazy 2019-02-05 16:54:36 didn't they say not to tag them
+plane-crazy 2019-02-05 16:55:25 i'll check when i asked
+plane-crazy 2019-02-05 16:56:44 25/1 ;d
+plane-crazy 2019-02-05 16:57:01 could u just tell me server link
+plane-crazy 2019-02-05 16:57:27 ok
+help 2019-02-06 07:31:32 lmao
+help 2019-02-06 07:33:05 there
+help 2019-02-06 07:33:16 ok
+help 2019-02-06 14:02:45 https://gyazo.com/41ffbeca3bbf9d28f9d667e13fa06d89
+help 2019-02-06 14:02:56 <:thonk:509498568982134816>
+creations-chat 2019-02-06 14:07:55 Master designer / modeller pls
+creations-chat 2019-02-06 14:10:05 this one aswell
+creations-chat 2019-02-06 14:13:06 ^Block count : https://gyazo.com/aa5a08b9a2ae34eb0d101359d2375024
+creations-chat 2019-02-06 14:50:23 is my candy machine a vehicle
+creations-chat 2019-02-06 14:50:59 we can create what we would like to create
+creations-chat 2019-02-06 14:51:01 really
+plane-crazy 2019-02-06 17:10:13 hm
+plane-crazy 2019-02-06 17:14:23 not worth
+bug-reports 2019-02-07 16:41:23 https://gyazo.com/c4a47819ac752b33a40dda114a6c30ae
+bug-reports 2019-02-07 16:41:35 When I spawn anything, this plane also spawns
+creations-chat 2019-02-07 19:01:36 High power crossbow | Valyrian_Advisor
+creations-chat 2019-02-07 19:01:52 
+creations-chat 2019-02-07 19:02:01 
+creations-chat 2019-02-07 19:02:09 
+creations-chat 2019-02-07 19:06:17 between 1500 and 2k
+creations-chat 2019-02-07 19:06:31 aw
+creations-chat 2019-02-07 19:06:37 also
+creations-chat 2019-02-07 19:06:49 can u rank me for the votes i got on my last creations pls ❤
+creations-chat 2019-02-07 19:07:26 one sec
+creations-chat 2019-02-07 19:07:41 
+creations-chat 2019-02-07 19:08:40 not upvoting it would mean i don't like it and i like my creations ❤
+creations-chat 2019-02-07 19:08:49 thx for roling
+creations-chat 2019-02-07 19:09:18 it does somehow
+creations-chat 2019-02-07 19:09:56 
+creations-chat 2019-02-07 19:12:32 that's not reposting it's clearly a screenshot of the votes
+creations-chat 2019-02-07 19:12:58 oh sh*
+creations-chat 2019-02-07 19:13:01 sorry.
+plane-crazy 2019-02-07 19:32:44 <@!242650210583576576>  why would you set the speed you want your rocket to go to
+plane-crazy 2019-02-07 19:33:37 ooooooo
+plane-crazy 2019-02-07 19:34:00 understood ;d
+creations-chat 2019-02-07 20:02:38 Then someone removed it after I posted that screenshot
+creations-chat 2019-02-07 20:02:45 hmh
+plane-crazy 2019-02-08 13:52:15 hi
+plane-crazy 2019-02-08 17:02:00 <:thonk:509498568982134816>
+plane-crazy 2019-02-08 17:13:58 9 super rockets are much more powerful than a huge one
+bug-reports 2019-02-08 19:18:43 somehow lost one of my saves during the last update (I'm totally sure I was below max data)
+plane-crazy 2019-02-09 08:45:07 hi
+help 2019-02-09 17:53:35 why is he using ballasts
+help 2019-02-09 17:53:52 instead of an anchor
+help 2019-02-09 17:53:56 xd
+plane-crazy 2019-02-09 17:54:45 !servers
+bug-reports 2019-02-10 10:30:32 Since last update once I jump off the pilot seat, everything activates automatically (motors start spinning, etc)
+plane-crazy 2019-02-10 14:00:10 wtf https://gyazo.com/d19ca9c6392754ef3c05bcc5aef08586
+plane-crazy 2019-02-10 14:52:28 o
+help 2019-02-10 16:48:30 46
+help 2019-02-10 16:48:39 chromosomes
+plane-crazy 2019-02-10 17:59:40 ew
+plane-crazy 2019-02-11 17:32:36 hi
+plane-crazy 2019-02-11 17:32:56 how's life
+plane-crazy 2019-02-12 14:20:36 good day
+plane-crazy 2019-02-12 14:20:51 badday
+bug-reports 2019-02-12 15:13:33 jet engines work, springs and suspension work, what?
+help 2019-02-12 20:10:19 do you even need to state that
+help 2019-02-13 14:57:21 no
+help 2019-02-13 16:41:41 easter egg
+plane-crazy 2019-02-15 16:09:51 I
+plane-crazy 2019-02-15 16:09:57 found the strenght
+plane-crazy 2019-02-15 16:10:01 to uninstall roblox
+plane-crazy 2019-02-15 16:10:34 bcuz i'm 18 and i don't wanna lose more time on lego games
+plane-crazy 2019-02-15 16:10:35 xd
+plane-crazy 2019-02-15 16:10:41 bye ❤
+plane-crazy 2019-02-15 16:11:06 i love u all
+plane-crazy 2019-02-15 16:11:11 well
+plane-crazy 2019-02-15 16:11:40 i've got university tests, gym and other stuff
+plane-crazy 2019-02-15 16:11:48 i have no time anymore now
+plane-crazy 2019-02-15 16:11:49 aw
+plane-crazy 2019-02-15 16:12:13 o and drive license test
+plane-crazy 2019-02-15 16:13:06 i guess i'm also uninstaling discord before i change idea ;d
+plane-crazy 2019-02-15 16:13:14 byee
+plane-crazy 2019-02-15 16:13:31 farewell
+plane-crazy 2019-02-15 16:13:33 xd
+plane-crazy 2019-06-02 07:58:21 h
+plane-crazy 2019-06-17 12:56:18 ok
+plane-crazy 2019-06-17 12:57:02 they are the ones being racist if they think gay is an insult
+plane-crazy 2019-06-17 12:57:24 I got banned
+plane-crazy 2019-06-17 12:57:27 for real
+plane-crazy 2019-06-17 12:57:35 this is my ban
+plane-crazy 2019-06-17 12:57:37 xd
+plane-crazy 2019-06-17 12:57:53 lmao how can i find who reported me
+plane-crazy 2019-06-17 12:58:08 idk
+plane-crazy 2019-06-17 12:58:12 maybe blox piece
+plane-crazy 2019-06-17 12:58:35 lmao
+plane-crazy 2019-06-17 12:58:52 i sent them an appeal
+plane-crazy 2019-06-17 12:59:20 saying that they're the ones breaking rules since they say that gay is an insult and I can't even express my feelings xd
+plane-crazy 2019-06-17 12:59:49 not really
+plane-crazy 2019-06-17 12:59:56 just randomly
+plane-crazy 2019-06-17 13:00:00 i joined the server and said gay
+plane-crazy 2019-06-17 13:00:02 to no one
+plane-crazy 2019-06-17 13:00:06 xd
+plane-crazy 2019-06-17 13:00:38 this is my first time being banned since 2012
+plane-crazy 2019-06-17 13:00:52 last time it was in march 2012 i think
+plane-crazy 2019-06-17 13:01:02 lmao
+plane-crazy 2019-06-17 13:01:09 also
+plane-crazy 2019-06-17 13:01:38 there are gayprides and stuff everywhere to show that gays are like us and have the same rights, and they think gay is an insult?
+plane-crazy 2019-06-17 13:01:43 ok
+plane-crazy 2019-06-17 13:01:46 fine
+plane-crazy 2019-06-17 13:01:49 gay is an insult
+plane-crazy 2019-06-17 13:01:52 ur all gay
+plane-crazy 2019-06-17 13:02:02 ❤
+plane-crazy 2019-06-17 13:02:18 ur building is gay
+plane-crazy 2019-06-17 13:02:22 meaning nice
+plane-crazy 2019-06-17 13:02:44 so u think i'm nice
+plane-crazy 2019-06-17 13:02:46 so ur gay
+plane-crazy 2019-06-17 13:03:19 time to join with one of my alts
+plane-crazy 2019-06-17 13:04:20 is my alt hot? https://gyazo.com/27f153ca65e69830debc39d810d06866

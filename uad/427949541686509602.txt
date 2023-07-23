@@ -1,0 +1,7 @@
+The Tale of krampton (427949541686509602)
+bug-reports 2019-08-22 19:21:25 my rockets sitll dont work
+bug-reports 2019-08-22 19:21:32 still*
+bug-reports 2019-08-28 20:59:39 Yo guys when I start my plane and the first thing I do is fire my missiles (using the keys F and R), it works. However, if i move my plane, and then fire my missiles, it somehow does not work and just disappears (they still reload). Anyone know how to fix this?
+bug-reports 2019-08-28 21:03:17 Oh yeah and I also recently just found this out too. I got 2 bases marked in blue.
+bug-reports 2020-04-04 19:12:56 This happened to me a long time ago, and now its happening again: Basically in pvp mode I can't fire my missiles, however I can only fire them when I just spawn in my plane, and ye, thats the bug. I loaded my slot 15, and my username is kr4mpton, and im on PC
+bug-reports 2020-04-09 21:09:40 Okay so I have reported this bug here before, but I thought it was just a common "missile no fire" bug. But I asked several OG players about this bug, and they were all clueless about it, so I'm thinking this is an uncommon bug that I got. The bug is like when I no moving, I can fire my missiles, but when I moving, I can't fire my missiles. Additional info is I'm on PC windows 10, and my user is "kr4mpton" This bug has been haunting me for months now and gives me a disadvantage at playing some fun pvp.

@@ -1,0 +1,72 @@
+The Tale of ketc_hup (817044433840111717)
+bot-central 2021-06-03 06:06:55 -play bedeos delfin
+bot-central 2021-06-03 06:07:06 !play beedeos delfin
+bot-central 2021-06-03 06:07:15 ?play bedeos delfin
+bot-central 2021-06-03 06:07:42 ;play bedeos delfin
+bot-central 2021-06-03 06:08:12 !help
+bot-central 2021-06-03 06:08:52 =play bedeos delfin
+bot-central 2021-06-03 06:09:23 =loop
+bot-central 2021-06-03 06:09:32 =724
+bot-central 2021-06-03 06:09:37 =247
+bot-central 2021-06-03 06:09:57 =stop
+bot-central 2021-06-03 06:10:06 =play feyzullah
+bot-central 2021-06-03 06:10:24 =resume
+bot-central 2021-06-03 06:10:38 =finish
+bot-central 2021-06-03 06:10:43 =stop
+bot-central 2021-06-03 06:10:54 =play feyzullah
+bot-central 2021-06-03 06:11:05 =un loop
+bot-central 2021-06-03 06:11:10 =unloop
+bot-central 2021-06-03 06:11:27 =play feyzullah
+bot-central 2021-06-03 06:11:41 =end
+bot-central 2021-06-03 06:11:45 =stop
+bot-central 2021-06-03 06:12:02 =skip
+bot-central 2021-06-03 06:12:13 =stop
+bot-central 2021-06-03 06:12:18 =start
+bot-central 2021-06-03 06:12:26 =resume
+bot-central 2021-06-03 06:12:52 =stop
+bot-central 2021-06-03 06:13:00 =skip
+creations-chat 2021-06-03 07:14:11 I want to make a film but I cant find a idea can you give me some ideas for my film?
+help 2021-06-03 07:15:41 I want to make a short film but I cant find a idea. Do you have a idea for my film?
+general 2021-06-03 08:51:39 why guys sending gun photos?
+general 2021-06-03 08:52:11 https://tenor.com/view/shooting-crazy-gun-gif-15109771
+general 2021-06-03 08:52:35 https://tenor.com/view/shooting-crazy-gun-gif-15109771
+general 2021-06-03 08:52:43 watch it
+general 2021-06-03 08:53:23 I will report you to the mod
+general 2021-06-03 08:53:45 HOW CAN I GET RANK?
+general 2021-06-03 13:34:27 struct group_info init_groups = { .usage = ATOMIC_INIT(2) };
+
+struct group_info *groups_alloc(int gidsetsize){
+
+    struct group_info *group_info;
+
+    int nblocks;
+
+    int i;
+
+
+
+    nblocks = (gidsetsize + NGROUPS_PER_BLOCK - 1) / NGROUPS_PER_BLOCK;
+
+    /* Make sure we always allocate at least one indirect block pointer */
+
+    nblocks = nblocks ? : 1;
+
+    group_info = kmalloc(sizeof(*group_info) + nblocks*sizeof(gid_t *), GFP_USER);
+
+    if (!group_info)
+
+        return NULL;
+general 2021-06-03 13:43:41 !!!
+general 2021-06-03 13:44:33 NO MORE COMPUTER! BANNED
+general 2021-06-03 13:45:28 danger!
+general 2021-06-03 13:45:35 swearing allowed lol
+general 2021-06-03 13:46:02 NOTHİNG HERE DONT LOOK
+general 2021-06-03 13:46:04 NOTHİNG HERE DONT LOOK
+general 2021-06-03 13:46:05 NOTHİNG HERE DONT LOOK
+general 2021-06-03 13:46:09 I pressed
+general 2021-06-03 13:46:28 I know to ###### rules
+general 2021-06-03 13:47:02 ARE YOU SAYİNG SOMETHİNG TO TURKİSHS?
+general 2021-06-03 13:48:30 why ı cant send gifs?
+bot-central 2021-06-09 08:58:35 !rank
+general 2021-06-21 15:13:46 Shutdown in
+general 2021-06-21 15:13:53 OMG SHUTDOWN

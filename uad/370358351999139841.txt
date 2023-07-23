@@ -1,0 +1,359 @@
+The Tale of toe1650 (370358351999139841)
+bug-reports 2020-05-12 14:40:18 The bug happens with the motor 2 block. when it comes into contact with water it does that. pls fix
+help 2020-05-12 15:37:39 The motor gods have flung my creation into the abyss
+help 2020-05-12 15:37:46 send help
+bug-reports 2020-05-13 14:23:13 i cant save :/
+bug-reports 2020-05-13 14:26:24 
+bug-reports 2020-05-13 14:27:11 cant load things either
+bot-central 2020-05-13 15:23:39 ?shelp
+bot-central 2020-05-13 15:24:18 ?rhelp
+bot-central 2020-05-14 16:00:09 shelp
+bot-central 2020-05-14 16:00:24 ?shelp
+bot-central 2020-05-14 16:09:21 & suggest 
+[TITLE] - Better control surfaces
+[CATEGORY] - Configurable
+
+[DESCRIPTION] - (Sorry if I put this in the wrong category) 
+For control surfaces, you should have the ability to change what they do. In there menu thing, there should be three boxes labeled Yaw, Pitch, and Roll. These settings should be on by default, but if you turn on off the control surface wont do anything for that axis. For example, the ailerons on airplanes control roll, the elevators control pitch, and the rudder controls yaw. The ability to do this would greatly improve gameplay.
+bug-reports 2020-05-19 21:30:26 please fix motor 2, its driving me insane. when i spawn my thing theres a 50/50 chance of the motor just going down at full force instead of following the curser. when theres a max angle it will get stuck when trying to turn around because of the way it works, they shouldnt be trying to go past the max angle, and go the other way instead.
+plane-crazy 2020-05-20 18:46:32 no, magnets dont work on other players creations. also, magnets dont connect, theyre pulled together, which can cause a lot of problems.
+bug-reports 2020-06-05 21:55:19 cant join the game
+bug-reports 2020-06-05 21:55:38 not sure if this is actually a bug but i though i should report it just incase
+bug-reports 2020-06-05 21:56:07 plane crazy loading screen :/
+bug-reports 2020-06-06 15:53:33 It’s working again, you don’t have to worry. It was prob just something wrong on my end
+bot-central 2020-06-08 16:13:50 [Continuation of my previous suggestion] I understand this may be difficult because the game is hard coded, so you could just add new blocks to work around it. Also, please put a little yellow thing on the SAS block so we know where to point it, and something else on it so we know if we put it upside down. I know this seems a bit far fetched, but you already have a similar system in place for mouse control with control surfaces, so at least give this a shot, and don't not try because it sounds hard. Thanks for reading this, and if rickje139 sees this, hi! I hope you all have a great day.
+bot-central 2020-06-08 16:13:55 oops
+bot-central 2020-06-08 16:14:05 adgas
+plane-crazy 2020-10-20 18:35:16 nice heli piggles
+plane-crazy 2020-10-20 18:36:17 <@!628240580517953538> in game or irl
+general 2020-10-20 18:38:15 oof
+general 2020-10-22 17:07:19 toot i cant afford private servers dum dum
+general 2020-10-22 17:07:29 also pvp sucks alone
+general 2020-10-22 17:12:21 3mber just cause its 10 robux doesnt mean we can afford it, and  whats the point of pvp if your gonna be all alone in a private server?
+general 2020-10-22 17:13:07 actually i just dont want to spend money on roblox
+general 2020-10-22 17:13:23 ok?
+general 2020-10-22 17:13:29 and some people dont want too
+general 2020-10-22 17:13:50 id wrather put my money towards food and clothes
+general 2020-10-22 17:16:39 did you read the suggestion i made?
+general 2020-10-22 17:17:05 still better then not trying
+general 2020-10-22 17:18:17 i know how to pvp 3mber but fighting against an army of shredders when youre trying to have a battle with someone else who actually makes good builds and puts in effort is extremely annoying
+general 2020-10-22 17:22:38 3mber do you not understand that i want to be able to pvp in publics and enjoy the game
+general 2020-10-22 17:22:46 vips are usually terrible
+general 2020-10-22 17:22:58 boi
+general 2020-10-22 17:23:40 ive gone through like 14 vips servers dedicated to pvp and the most people ive seen in one is 3 people including me
+general 2020-10-22 17:24:14 and i dont want no one to attack me because that would be super boring
+general 2020-10-22 17:25:54 3mber what im saying is if youre in a server with genuinely good people who actually care about the game and enjoy fair fights always get ruined by that one kid with shredders
+general 2020-10-22 17:26:27 and i understand that pvp is ffa but there are some people who spawn kill and be extremely annoying
+general 2020-10-22 17:27:42 im not a cry baby im just trying to make it a more enjoyable experiance
+general 2020-10-22 17:28:24 and over 70 people agree with me
+general 2020-10-22 17:28:33 just look at my older suggestion
+general 2020-10-22 17:28:54 75 upvotes
+general 2020-10-22 17:33:03 <@!730808827234091041> There are some people who enjoy FAIR and REALISTIC fights, unlike some people who are so bad at building that they resort to shredder swarms and ugly cubes with as many weapons as possible who think their good at the game.
+general 2020-10-22 17:33:48 how many fucking time do i have to tell you that i cant afford a vip server
+general 2020-10-22 17:34:20 and when did i insult you for "not having friends?"
+general 2020-10-22 17:34:29 oh ok
+general 2020-10-22 17:34:41 i thought that was for me lol
+general 2020-10-22 17:36:00 oh and 3mber, pvp vip servers suck, theres never anyone on them
+general 2020-10-22 17:38:55 thats true though ember shredders call me a hacker when my plane is faster
+general 2020-10-22 17:40:26 lol
+general 2020-10-22 17:40:48 btw yousuf i have a question
+general 2020-10-22 17:41:26 I get this may be a bit rude to ask, but out of pure curiosity, why are suggestions barely read?
+general 2020-10-22 17:42:41 i get that, but wouldnt it work better if the mods also looked at them, and if they felt one was actually good, they could forward it to rickje
+the-dump 2020-10-22 18:03:34 i didnt know there were community vips
+the-dump 2020-10-22 18:04:08 please tell me how to get into them i am curious
+the-dump 2020-10-22 18:05:08 alr
+the-dump 2020-10-22 18:05:09 thx
+bot-central 2020-10-22 18:05:13 !servers
+general 2020-10-27 16:52:09 im confused are they making a new map?
+general 2020-10-27 16:52:16 alr
+the-dump 2020-10-27 16:53:37 <@!581846949901369365> bane*
+plane-crazy 2020-10-27 16:54:22 yes
+plane-crazy 2020-10-27 16:54:59 nice
+bot-central 2020-11-02 17:47:38 $suggest
+Title: Cannon
+Category: PVP
+Description: Ships and tanks are limited to slow and ugly weapons that don't work. When you make a tank, you'd expect to have a proper gun that works well, but you are limited to things like rockets, which are terribly slow. An easy fix would be a cannon weapon. It would be the same size as a fireworks block, deal a heck ton of damage, and the shots would move very fast, although this would be pretty op. To make it less op so it doesn't completely ruin the game, it should have an extremely slow rate of fire (5-20 seconds in-between each shot) and have actual recoil so only larger and more stable builds can use them, for example, tanks, ships, and not lines with wheels with every pvp weapon strapped to one block on the front. This would make larger builds have an actual use, and make them fun to build and use in pvp. If you have any ideas about how this could be balanced more or a different way it could work, dm me, I'd like to hear about it. And there should also be a way to stager the shots if that make sense. (By holding down the button, instead of them all shooting at the same time then not firing again for a while, one should shoot, then a few seconds later, an other one will shoot, and so on)
+bot-central 2020-11-02 17:47:42 heck
+plane-crazy 2020-11-02 17:54:16 lol
+general 2020-11-02 17:57:48 great reason i love it
+general 2020-11-02 18:19:27 capitalist i got a question
+general 2020-11-02 18:20:32 if x represents a box with a shot gun, what would y be using the equation: x+(y/2x^2) = 281x
+general 2020-11-02 18:22:08 lol
+plane-crazy 2020-11-02 18:48:19 it depends
+plane-crazy 2020-11-02 18:48:25 how good are you at building
+plane-crazy 2020-11-02 18:49:10 cause if you can build anything that requires an iq over 3 then im screwed
+bot-central 2020-11-03 14:30:45 !servers
+bot-central 2020-11-03 22:09:00 !servers
+plane-crazy 2020-11-05 18:33:34 <@!565300409170919454> i like your suggestions but theyre too complicated for the game, so maybe just one size for each thing, and no ammo or repairs, this isnt a high quality simulator
+bot-central 2020-11-06 02:27:19 !servers
+bot-central 2020-11-06 02:28:07 i keep getting error code 257 when i try to join the vip servers
+bot-central 2020-11-06 02:28:09 wth
+bot-central 2020-11-06 21:31:09 !servers
+general 2020-11-07 04:28:49 Who th Ping me
+general 2020-11-07 04:30:03 He was stopping me from moving
+general 2020-11-07 04:30:28 I explained multiple times why I got mad and you idiots wouldn’t even listen
+general 2020-11-07 04:30:52 Ch0mega don’t speak like that it’s disturbing
+general 2020-11-07 04:31:21 Now leave me alone I’m trying to sleep
+bot-central 2020-11-11 02:15:13 !expertservers
+bot-central 2020-11-11 02:15:16 !servers
+bot-central 2020-11-11 02:15:22 !noobservers
+bot-central 2020-11-11 02:15:37 there arent servers for noobs help
+bot-central 2020-11-11 02:16:56 wth are you guys doing
+bot-central 2020-11-11 02:17:21 uhh ok
+bot-central 2020-11-11 02:17:34 XD
+bot-central 2020-11-11 18:44:44 &suggest
+[Title] Remove tracer shots
+bot-central 2020-11-11 18:44:47 shoot
+bot-central 2020-11-11 18:47:03 &suggest
+[Title] Remove Tracer Shots
+[Category] PVP, Gameplay
+
+Tracer shots (the red shots) from guns don't do anything useful. They make the game lag more, they don't deal damage, and only go half the distance of the other shots. It makes no sense why they exist and should be removed or given a use.
+bot-central 2020-11-11 18:47:07 nani
+bot-central 2020-11-11 18:47:13 why didnt it go through
+bot-central 2020-11-11 18:47:35 &suggest
+[Title] Remove Tracer Shots
+[Category] PVP, Gameplay
+
+Tracer shots (the red shots) from guns don't do anything useful. They make the game lag more, they don't deal damage, and only go half the distance of the other shots. It makes no sense why they exist and should be removed or given a use.
+bot-central 2020-11-11 18:47:38 wtf
+bot-central 2020-11-11 18:48:10 purifiedwater help
+bot-central 2020-11-11 18:52:16 ?
+the-dump 2020-11-12 19:25:20 https://cdn.discordapp.com/attachments/772890327027154994/774340407625646081/juan-horse-memes-.png
+the-dump 2020-11-12 19:25:40 juan
+the-dump 2020-11-12 19:26:11 yes
+the-dump 2020-11-12 19:26:38 guilherme you are the leg man right
+the-dump 2020-11-12 19:27:04 XD
+the-dump 2020-11-12 19:27:32 epic
+the-dump 2020-11-12 19:28:35 https://cdn.discordapp.com/attachments/772890327027154994/774340407625646081/juan-horse-memes-.png
+the-dump 2020-11-12 19:29:17 juan
+the-dump 2020-11-12 19:31:40 https://cdn.discordapp.com/attachments/772890327027154994/774340407625646081/juan-horse-memes-.png
+bot-central 2020-11-16 16:55:43 !servers
+bot-central 2020-11-19 03:22:22 !servers
+the-dump 2020-11-22 21:52:30 
+the-dump 2020-12-03 00:37:35 whats up?
+the-dump 2020-12-03 00:38:45 alr
+the-dump 2020-12-03 00:39:28 it make sense that you were blacklisted tho
+the-dump 2020-12-03 00:39:42 you basically swore, even if you didnt say the full thing
+the-dump 2020-12-03 00:40:24 oh wait no im dumb
+the-dump 2020-12-03 00:40:55 i saw b and immediately thought you meant a different word XD
+the-dump 2020-12-03 00:40:59 sry
+the-dump 2020-12-03 00:41:03 yea that
+the-dump 2020-12-03 00:41:17 ok yea
+the-dump 2020-12-03 00:41:35 so in a way it kinda makes sense why you were blacklisted
+the-dump 2020-12-03 00:41:45 idk
+the-dump 2020-12-03 00:41:50 i was pinged so i came here
+the-dump 2020-12-03 00:43:01 aight my friends calling me so imma go do other stuff
+the-dump 2020-12-03 00:43:02 cya
+bot-central 2020-12-07 03:33:20 !servers
+bot-central 2021-01-12 02:02:53 !communities
+bot-central 2021-01-12 02:02:56 aaaaaa
+general 2021-02-11 19:37:01 anyone have any idea when the winter event ends?
+general 2021-02-11 19:37:07 im really getting sick of the fog
+bot-central 2021-02-18 02:33:05 !servers
+creations-chat 2021-02-18 16:53:06 looks nice, gj
+creations-chat 2021-02-18 18:13:00 it was pain to make i didnt want to redo it again cause i had to move a bunch of motor locks and stuff to fit it and id have to move a bunch more to fit a better one
+creations-chat 2021-02-18 18:20:55 that looks pretty nice
+creations-chat 2021-02-18 18:23:24 yea new paint looks much better
+creations-chat 2021-02-18 18:27:05 <@!493343880478195733> make it bigger
+creations-chat 2021-02-18 18:42:37 more bombs
+creations-chat 2021-02-18 18:46:40 it looks nice
+bot-central 2021-02-18 21:28:53 what
+help 2021-02-18 21:47:41 is it supposed to take 15 mins for someone to respond for a rank or is that abnormal
+help 2021-02-18 21:48:20 a
+help 2021-02-18 21:50:25 aaa
+help 2021-02-18 21:50:28 ok
+bot-central 2021-02-19 01:00:59 !rank
+bot-central 2021-02-19 17:47:21 !ping
+bot-central 2021-02-19 17:47:27 ?ping
+bot-central 2021-02-19 18:28:51 !servers
+bot-central 2021-02-19 18:29:03 still same links
+bot-central 2021-02-19 18:29:29 theyre the same links still if theyre switching the links they havent done it yet
+bot-central 2021-02-19 18:29:58 me?
+bot-central 2021-02-19 18:30:19 oh him
+bot-central 2021-02-19 18:30:28 i thought you meant me XD
+bot-central 2021-02-19 18:30:39 !servers
+bot-central 2021-02-19 18:32:12 btw hyper i didnt get to say this before cause you closed the thing but ty for helping me, and have a great day :D
+bot-central 2021-02-25 19:27:28 wait shoot
+bot-central 2021-02-25 19:27:47 ok it didnt go through
+bot-central 2021-03-11 15:41:49 !servers
+events-chat 2021-03-11 15:42:33 am i supposed to see this i didnt notice it before
+events-chat 2021-03-11 15:43:00 alr
+plane-crazy 2021-03-12 18:09:59 not muting speakers
+plane-crazy 2021-03-12 18:10:06 muting the actual in game engines
+plane-crazy 2021-03-12 18:10:12 like the super rocket for example
+the-dump 2021-03-18 19:12:33 
+bot-central 2021-03-29 14:25:34 !rank
+plane-crazy 2021-04-06 17:49:00 anyone have any way to make it so that a motor 2  moves up and down but tracks my mouse side to side, so the more right / left my mouse goes the further up / down it points?
+plane-crazy 2021-04-06 17:49:53 thank you, ill try that
+plane-crazy 2021-04-06 17:51:05 nope, the motor 2 just goes from tracking horizontally to vertically
+plane-crazy 2021-04-06 17:51:31 thanks for the suggestion though
+bot-central 2021-04-07 18:13:27 $links
+bot-central 2021-04-07 18:13:30 &links
+bot-central 2021-04-07 18:13:31 e
+bot-central 2021-04-07 18:13:39 ?links
+bot-central 2021-04-07 18:13:46 !links
+bot-central 2021-04-07 18:13:56 why the hell can i not remember the command
+bot-central 2021-04-07 18:14:10 ?link
+bot-central 2021-04-07 18:14:13 e
+bot-central 2021-04-07 18:14:51 !servers
+bot-central 2021-04-07 18:14:57 im so stupid
+bot-central 2021-04-19 13:50:09 ?servers
+bot-central 2021-04-19 13:50:14 !servers
+bot-central 2021-04-19 13:50:15 e
+bot-central 2021-04-19 16:14:38 !servers
+general 2021-06-17 20:47:05 rick just remove reaction perms so people cant add dumb ones lol
+general 2021-06-17 20:47:26 also thats gonna be amazing
+general 2021-06-17 20:48:27 just learn to fold lo
+general 2021-06-17 20:48:53 wait really
+general 2021-06-17 20:49:48 game would be to laggy, if we're gonna get bigger plots theres no way itll happen before the rewrite is finished cause of the lag reduction
+general 2021-06-17 20:50:25 ye
+general 2021-06-17 20:51:47 btw rick ik you wont be making a map but if one is made please make sure the terrain isnt as rough as it is currently lo
+general 2021-06-17 20:52:25 *oh there's bobux involved huh?*
+general 2021-06-17 20:52:32 lemme learn how to make a map rq
+general 2021-06-17 20:57:24 wheeze
+general 2021-06-17 20:57:49 possibly
+general 2021-06-17 20:58:30 jetpack is fucking amazing, i hate how its paid tho
+general 2021-06-17 20:58:54 its just annoying that i have to pay money to not go insane when building something tall
+general 2021-06-17 20:59:27 i do its still annoying tho lo
+general 2021-06-17 21:01:25 yea pvp should be considered, or maybe just a whole other map for pvp, which is a bit too much to ask for but it would be cool
+general 2021-06-17 21:02:03 ye sure
+general 2021-06-17 21:03:01 **beautiful**
+general 2021-06-17 21:03:57 you overestimate the power of my cardboard laptop
+general 2021-06-17 21:04:34 hmm
+general 2021-06-17 21:04:55 are u able to run graphics 10 without fps droping?
+general 2021-06-17 21:05:58 bru this laptop cant even run graphics 5 without fps drop lol
+general 2021-06-17 21:07:55 outlines should be a toggleable thing for each individual save slot so some builds look better while some look worse, and there should be a toggleable option in settings for build mode so its either always on, always off, or follows the save slots option
+general 2021-06-17 21:08:05 might be too much to ask for tho
+general 2021-06-17 21:09:04 actually yea that makes a lot more sense
+general 2021-06-17 21:11:07 how about a select option where you select all of a block type and can change things like the colour and material or delete em all in there
+general 2021-06-17 21:11:55 bet
+general 2021-06-17 21:12:07 lemme open up ms paint rq
+general 2021-06-17 21:12:20 https://tenor.com/view/discord-lightmode-gif-18450013
+general 2021-06-17 21:12:39 to the closet i go
+general 2021-06-17 21:12:48 *hmm*
+general 2021-06-17 21:14:06 oui?
+general 2021-06-17 21:14:38 dont im already sick of all the rickrolls
+general 2021-06-17 21:16:34 i think 10 speakers is fine, but it would be amazing to be able to have speakers play multiple sounds so u dont need one for every different sound on a build
+general 2021-06-17 21:18:35 we need in game tutorial for shredders <:trollface:775024642104229898>
+general 2021-06-17 21:19:40 pain creator 2
+general 2021-06-17 21:20:33 mmmm, monke
+general 2021-06-17 21:21:32 no pls
+general 2021-06-17 21:22:21 or maybe make it say something like 'clear plot', i remember thinking it would delete save files cause im big brain
+general 2021-06-17 21:22:49 yes
+general 2021-06-17 21:23:48 wheeze
+general 2021-06-17 21:24:23 h m m m m
+general 2021-06-17 21:24:28 ah yes
+general 2021-06-17 21:24:30 tonk
+general 2021-06-17 21:25:16 my 767 is now classified as a kv2
+general 2021-06-17 21:25:33 just long lacking a gun and with wings
+general 2021-06-17 21:25:46 yes
+general 2021-06-18 15:20:03 wat
+general 2021-06-18 15:20:26 ah i see
+the-dump 2021-07-14 19:13:28 **who dares summon thy ancient one**
+the-dump 2021-07-14 19:17:06 ae
+the-dump 2021-07-14 19:17:18 *yea i kinda deserved that wheeze*
+plane-crazy 2021-07-21 15:26:29 My guy doin budget post stall maneuvers
+plane-crazy 2021-07-21 15:28:00 U also gotta add the 80 million control surfaces that thing has
+general 2021-08-17 15:16:28 Yes
+general 2021-08-17 15:17:04 Y e s
+general 2021-08-17 15:18:17 Yea
+general 2021-08-17 15:19:25 Ye
+general 2021-08-17 15:21:57 Only resistance is server lag <:pain:644301805534183464>
+general 2021-08-17 15:22:35 Pain
+general 2021-08-17 15:23:47 Prob not cause funny code
+general 2021-08-17 15:24:05 Yea that would prob work
+general 2021-08-17 15:26:47 Nani
+general 2021-08-17 15:27:41 æ
+general 2021-08-17 15:28:04 Oh no
+general 2021-08-17 15:28:09 They’re here
+general 2021-08-17 15:28:14 They bring shredders
+general 2021-08-17 15:28:47 **we must run while we have the chance**
+general 2021-08-17 15:29:07 Seems legit
+general 2021-08-17 15:31:53 I’ll speed run one
+general 2021-08-17 15:32:46 <:OmegaTroll:626841385118597152>
+general 2021-08-17 15:33:06 <:nooo:787097964946259978>
+general 2021-08-17 15:33:10 Anyway
+general 2021-08-17 15:33:17 Everyone make mig 21 quick
+general 2021-08-17 15:33:43 Bet
+general 2021-08-17 15:34:05 Done
+general 2021-08-17 15:34:44 Not my best work but it has 0.69 blocks
+general 2021-08-17 15:35:09 <:nooo:787097964946259978>
+general 2021-08-17 15:35:39 Ok
+general 2021-08-17 15:35:58 No u
+general 2021-08-17 15:36:15 Imma speed run friending obc
+general 2021-08-17 15:37:02 Yes
+general 2021-08-17 15:40:51 Mog
+general 2021-08-17 15:41:19 I want a 747 in my backyard
+general 2021-08-19 22:15:21 Tf is going on
+general 2021-08-20 05:04:38 Bonjour
+general 2021-08-20 05:05:12 <:empty:794431705070174238>
+general 2021-08-20 05:05:22 <:pain:644301805534183464>
+bot-central 2021-08-20 23:10:15 ?links
+bot-central 2021-08-20 23:10:22 **fuck**
+bot-central 2021-08-20 23:10:37 !servers
+bot-central 2021-08-20 23:12:07 wait
+bot-central 2021-08-20 23:12:29 **hello cal1b_r**
+bot-central 2021-08-20 23:12:47 **hows russia doing?**
+bot-central 2021-08-20 23:13:10 ok i think youre wrong person <:KEKW:670310537300672528>
+bot-central 2021-08-20 23:13:19 were you in mrp russia?
+bot-central 2021-08-20 23:13:39 yea ik avem left
+bot-central 2021-08-20 23:13:46 he joined funny terrorist faction
+bot-central 2021-08-20 23:13:56 yes
+bot-central 2021-08-20 23:14:08 join japan it epic
+bot-central 2021-08-20 23:14:21 **come back**
+bot-central 2021-08-20 23:15:03 k
+general 2021-08-20 23:47:03 ill remove spine
+general 2021-08-20 23:47:17 skjksahdo
+general 2021-08-20 23:47:45 ok
+general 2021-08-20 23:48:07 cease
+general 2021-08-20 23:48:48 me who has one as a joke
+general 2021-08-20 23:49:03 como el la shut
+general 2021-08-20 23:49:26 je suis english i think
+general 2021-08-20 23:49:43 yea who civil
+general 2021-08-20 23:50:23 oui
+general 2021-08-20 23:50:55 its a joke with my friends you wouldnt get it as i have literally never heard of you up until this point
+general 2021-08-20 23:51:29 accept friend request <:trollface:775024642104229898>
+general 2021-08-20 23:51:52 your point being?
+general 2021-08-20 23:52:14 im not inactive i just dont talk lol
+general 2021-08-20 23:52:21 i still read
+general 2021-08-20 23:52:34 ok and
+general 2021-08-20 23:53:14 i no hack fonny man
+general 2021-08-20 23:53:24 why cant i type aiosudiosahd
+general 2021-08-20 23:53:49 heck they know
+general 2021-08-20 23:53:56 time to purge iran
+general 2021-08-20 23:54:29 yes
+general 2021-08-20 23:56:00 please do i have committed multiple war crimes and have killed everyone in the middle east with a tooth brush
+general 2021-08-20 23:58:20 the what
+general 2021-08-20 23:59:35 can i be beaned
+general 2021-08-21 00:02:48 ok
+general 2021-08-21 00:03:00 ok
+bot-central 2021-08-21 00:05:57 !rank
+general 2021-08-21 00:08:38 pro
+general 2021-08-21 00:09:33 how to believe
+general 2021-08-21 00:09:52 whats step 2
+general 2021-08-21 00:10:18 ok
+general 2021-08-21 00:10:39 bed.
+bot-central 2021-08-21 00:11:05 obc why you just listening to this lol
+bot-central 2021-08-21 00:27:31 **then I’ll make him listen to it**
+general 2021-08-24 17:15:32 arent modified clients allowed?
+general 2021-08-24 17:15:59 well yes but actually no
+general 2021-08-24 17:16:04 discord dont really care so
+general 2021-08-24 17:16:07 ae
+general 2021-08-24 17:16:51 hold on i wanna make sure one of us isnt being stupid brb
+general 2021-08-24 17:17:30 ok im stupid <:KEKW:670310537300672528>
+general 2021-08-24 17:17:35 ill get rid
+general 2021-08-24 17:17:52 <@!273536574770380800> ty for letting me know lol
+plane-crazy 2021-10-06 13:46:18 Lmfao
+plane-crazy 2021-10-06 13:47:02 blocc
+general 2021-10-26 22:39:26 who do i report the funny hacked scam free nitro accounts to?
+general 2021-10-26 22:39:33 just got a dm from one from this serber lol
+general 2021-10-26 22:39:56 yea ik in this server tho
+general 2021-10-26 22:40:04 k
+general 2021-10-26 22:40:08 to the mods i go
+general 2021-10-26 22:40:28 dont ping the man thats my job
+general 2021-10-26 22:41:08 joe
+general 2021-11-08 13:24:25 Looks like pc2 development is coming along nicely
+general 2021-11-08 13:24:56 That build must have many moving parts and game not dying genuinely impressive
+general 2021-11-08 13:25:11 W h e e z e
+the-dump 2021-12-27 23:05:55 

@@ -1,0 +1,7 @@
+The Tale of tactician.roblox (964184901840678973)
+bot-central 2022-11-04 13:30:09 !rank
+general 2022-11-04 13:30:33 o_o
+bug-reports 2023-01-07 19:04:50 gamebreaking bug : can't spawn my build at all (only happens to a single build) its just a wide range of super rocket engines and with a main pilot seat, when i click on the spawn button it teleports me to the middle of my build (just like if you spawned in and then resetted) and then it immediately resets (just like if i resetted but like its almost instantly)  by the way if i dont put image of F9 its because i dont have image perm but i had the errors "Players.furiousbee31_NOUVEAU.PlayerGui.SettingsGui.LocalScript:418: attempt to index nil  with 'Parent'"
+bug-reports 2023-01-07 20:47:51 pic of build or console?
+bot-central 2023-01-08 10:07:13 !rank
+bot-central 2023-01-08 10:13:47 its -

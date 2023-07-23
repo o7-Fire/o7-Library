@@ -1,0 +1,4 @@
+The Tale of therealchinesename (481593483585388545)
+bug-reports 2019-11-17 04:00:30 It won't allow me to place a block 1 block from the curving side of a half ball, 2 by 2.
+the-dump 2019-12-06 19:59:29 
+the-dump 2019-12-06 20:02:02 boi

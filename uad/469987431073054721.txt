@@ -1,0 +1,17 @@
+The Tale of Arno (469987431073054721)
+plane-crazy 2023-06-01 04:59:44 motor with propellor blades
+plane-crazy 2023-06-01 04:59:46 tada
+general 2023-06-01 05:01:26 synchrocopter my beloved
+plane-crazy 2023-06-01 05:02:40 synchrocopter my beloved
+plane-crazy 2023-06-02 17:06:37 how do yall speak in big words
+plane-crazy 2023-06-02 17:07:34 The missile knows where it is at all times. It knows this because it knows where it isn't. By subtracting where it is from where it isn't, or where it isn't from where it is (whichever is greater), it obtains a difference, or deviation. The guidance subsystem uses deviations to generate corrective commands to drive the missile from a position where it is to a position where it isn't, and arriving at a position where it wasn't, it now is. Consequently, the position where it is, is now the position that it wasn't, and it follows that the position that it was, is now the position that it isn't.
+In the event that the position that it is in is not the position that it wasn't, the system has acquired a variation, the variation being the difference between where the missile is, and where it wasn't. If variation is considered to be a significant factor, it too may be corrected by the GEA. However, the missile must also know where it was.
+The missile guidance computer scenario works as follows. Because a variation has modified some of the information the missile has obtained, it is not sure just where it is. However, it is sure where it isn't, within reason, and it knows where it was. It now subtracts where it should be from where it wasn't, or vice-versa, and by differentiating this from the algebraic sum of where it shouldn't be, and where it was, it is able to obtain the deviation and its variation, which is called error.
+plane-crazy 2023-06-02 17:07:51 #thanks
+plane-crazy 2023-06-02 17:07:55 ok
+plane-crazy 2023-06-02 17:07:58 # test
+plane-crazy 2023-06-02 17:07:59 oh
+plane-crazy 2023-06-02 17:08:02 needs the space
+general 2023-06-02 17:23:59 I curse you with full 1.0 uptiers
+plane-crazy 2023-06-23 03:27:43 bruh
+plane-crazy 2023-06-23 03:27:49 i saw someone build the oceangate submarine

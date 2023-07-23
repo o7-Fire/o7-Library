@@ -1,0 +1,184 @@
+The Tale of klaimar (277631243246501888)
+creations-chat 2019-08-24 04:13:08 
+creations-chat 2019-08-25 00:32:21 
+creations-chat 2019-08-25 01:15:13 yeah engine is odd, i had no other way of mimicing a cone shape block
+creations-chat 2019-08-25 20:17:07 
+creations-chat 2019-08-25 20:17:10 
+plane-crazy 2019-08-25 20:28:01 i dont give my age to random peeps <@456226577798135808>
+plane-crazy 2019-08-25 20:28:20 you asked about my age didn't you?
+plane-crazy 2019-08-25 20:28:55 id see why you'd need my age for that
+plane-crazy 2019-08-25 20:31:11 i dont understand why it has to be me
+plane-crazy 2019-08-25 20:32:10 k whatever im 16
+plane-crazy 2019-08-25 20:32:18 goodluck with that project
+plane-crazy 2019-08-25 20:32:25 yes
+creations-chat 2019-08-26 04:07:57 
+creations-chat 2019-08-26 04:08:01 
+creations-chat 2019-08-26 17:32:07 
+creations-chat 2019-08-27 14:44:33 
+creations-chat 2019-08-28 00:41:45 
+creations-chat 2019-08-28 00:41:54 
+creations-chat 2019-08-28 00:48:19 
+creations-chat 2019-08-28 00:48:22 so yes
+creations-chat 2019-08-31 00:19:34 https://gyazo.com/6012c5aea9d60b8ecf19e4d0c4cbc929
+https://gyazo.com/c9c9dca07fa7aafa25af0457e5687b40
+https://gyazo.com/75e47437b4a26ac2e2a327d5a85088a3
+
+Antonov 225
+Blocks: 4760
+Wingspan: 141
+Length: 102
+Width: 9
+Height: 12
+
+Featuring detachable nose, retractable ramps and retractable gears
+
+Had to use 414 super rocket engines just to make it fly, also the back end was too heavy so I had to use helium and ballast to balance the weight between the front and back. The beast is so big that it causes a major lag which happens on and off until its properly folded.
+creations-chat 2019-08-31 13:50:20 Antonov 225
+Blocks: 4760
+Wingspan: 141
+Length: 102
+Width: 9
+Height: 12
+
+Featuring detachable nose, retractable ramps and retractable gears
+
+Had to use 414 super rocket engines just to make it fly, also the back end was too heavy so I had to use helium and ballast to balance the weight between the front and back. The beast is so big that it causes a major lag which happens on and off until its properly folded.
+creations-chat 2019-08-31 13:50:34 
+creations-chat 2019-08-31 13:50:58 repost, there wasn't any poll for it
+creations-chat 2019-08-31 13:59:56 <@351809528209080324>  https://gyazo.com/75e47437b4a26ac2e2a327d5a85088a3
+creations-chat 2019-09-01 04:16:11 https://gyazo.com/52781ee52854e1fc9cab35954d83be38.gif working mega flaps lol
+creations-chat 2019-09-01 06:32:32 Boeing 777
+Blocks: 2794
+Wingspan: 99
+Length: 95
+Width: 7
+Height: 8
+
+Special Features:
+Custom retractable landing gears
+Large controllable flaps
+Decorated interior
+Custom engines
+
+Note: No helium was used, only ballast to balance the weight. Also the front gear features a unique technic.
+creations-chat 2019-09-01 06:32:38 
+creations-chat 2019-09-01 06:32:46 
+creations-chat 2019-09-01 06:39:39 comparison size of my antonov lol
+creations-chat 2019-09-01 06:45:55 so that the flaps can actually move
+creations-chat 2019-09-02 01:43:41 ugly planes
+creations-chat 2019-09-02 02:26:25 fold build
+creations-chat 2019-09-02 02:26:56 thanks
+creations-chat 2019-09-02 03:24:34 sure
+creations-chat 2019-09-02 03:25:44 https://gyazo.com/aefb30aa562cc82ab81f567f1f8131c1
+bug-reports 2019-09-03 13:59:09 duplicated itself
+plane-crazy 2019-09-03 14:13:57 does anyone have a vip server i could use?
+plane-crazy 2019-09-03 14:14:13 game is kicking me for lagging the server too much with my build...
+plane-crazy 2019-09-03 14:14:48 any rank?
+creations-chat 2019-09-03 14:17:43 requesting aeronautical V
+creations-chat 2019-09-03 14:20:05 okay
+creations-chat 2019-09-03 14:20:56 https://gyazo.com/dd7032a9d2b6506fff354fdbeb7c9d0d
+plane-crazy 2019-09-03 14:24:22 dammit, i just realized my alt wont get access to the vip server
+plane-crazy 2019-09-03 14:28:02 it says invalid command
+bug-reports 2019-09-03 14:54:18 forgot to take sc of the dev console, but it showed failure in block detection
+bug-reports 2019-09-03 14:54:41 also it doesn't save the duplicated one
+bug-reports 2019-09-03 14:55:05 and you can't use it
+help 2019-09-03 14:57:42 can't acces community vip server
+bug-reports 2019-09-03 14:59:45 also reload/delete all wont do anything
+help 2019-09-03 15:01:54 it only says invalid command
+bot-central 2019-09-03 15:04:20 thx
+bot-central 2019-09-03 15:04:22 !servers
+plane-crazy 2019-09-03 15:24:41 my build doesn't lag as much as my antonov, but it kicks me out of the game
+plane-crazy 2019-09-03 15:24:49 wth
+plane-crazy 2019-09-03 15:25:09 eee
+plane-crazy 2019-09-03 15:29:03 there's no way i can test my build, it just keeps kicking me
+plane-crazy 2019-09-03 16:23:16 my anchor block wont even disable
+plane-crazy 2019-09-03 16:24:05 i've probably been kicked from 10 servers now
+plane-crazy 2019-09-03 22:44:13 don't they use different types of datastore in order to save data
+plane-crazy 2019-09-03 22:44:24 hence why they're able to handle more
+plane-crazy 2019-09-04 00:54:04 what did you invent
+plane-crazy 2019-09-04 00:55:31 the pre made missiles itself has its own tracker
+creations-chat 2019-09-04 01:20:42 A380, currently close to 5k blocks
+plane-crazy 2019-09-04 01:26:30 question
+plane-crazy 2019-09-04 01:26:53 havent seen anyone do this trick before, is it new?
+plane-crazy 2019-09-04 01:28:38 so its new?
+plane-crazy 2019-09-04 01:28:47 idk vix
+plane-crazy 2019-09-04 01:29:24 well i have to know before i tell anyone
+plane-crazy 2019-09-04 01:29:56 vip, you're a veteran is it a new invention?
+plane-crazy 2019-09-04 01:30:19 oh okay, i just haven't seen anyone do it
+plane-crazy 2019-09-04 01:30:55 its simple
+plane-crazy 2019-09-04 01:31:10 
+plane-crazy 2019-09-04 01:32:13 oh well
+plane-crazy 2019-09-04 01:32:52 i noticed the parts connecting to the wheels were non-collide-able so i just rotated another wheel into it
+plane-crazy 2019-09-04 01:34:07 thats neat
+plane-crazy 2019-09-04 01:34:10 indeed they do
+plane-crazy 2019-09-04 01:35:18 didn't they not have infinite fuel before?
+creations-chat 2019-09-04 03:48:57 will work on interior tom
+creations-chat 2019-09-04 03:49:31 ill be fixing the letters on emirates lol
+plane-crazy 2019-09-04 04:14:41 https://gyazo.com/94fdf6405d06ba058b68c6d779da056e.gif pretty cool technic
+plane-crazy 2019-09-04 04:15:30 thanks
+plane-crazy 2019-09-04 05:30:07 how do you convience someone that you're a bot
+creations-chat 2019-09-05 04:35:37 eee
+creations-chat 2019-09-05 04:36:02 a380
+Blocks: 7140
+Wingspan: 163
+Length: 123
+Width: 11
+Height: 13
+ 
+Featuring Decorated Interior
+creations-chat 2019-09-05 04:36:20 
+creations-chat 2019-09-05 04:36:24 
+creations-chat 2019-09-05 04:45:06 here's a much bigger pic
+creations-chat 2019-09-05 04:50:49 agreed, i noticed that earlier, i just wanted to finish interior for today
+creations-chat 2019-09-05 04:51:33 ill make sure to do that
+plane-crazy 2019-09-05 21:57:12 nou
+plane-crazy 2019-09-06 00:24:00 don't reply
+plane-crazy 2019-09-06 00:25:03 seperate acc
+plane-crazy 2019-09-06 00:26:57 reset pass via email
+plane-crazy 2019-09-06 00:27:14 photoshop cost money
+plane-crazy 2019-09-06 00:27:38 and import it to blender
+creations-chat 2019-09-06 00:58:14 hull could be better
+plane-crazy 2019-09-06 02:49:01 its really amazing what you can learn just by being bored
+plane-crazy 2019-09-06 02:49:50 i learned how japan's floating airport was made
+plane-crazy 2019-09-06 03:53:03 rip servers
+creations-chat 2019-09-06 14:01:25 requesting designer V
+plane-crazy 2019-09-07 05:03:49 what
+plane-crazy 2019-09-07 13:26:49 my head bigger than my body
+plane-crazy 2019-09-07 13:28:27 i got broke after buying it
+plane-crazy 2019-09-07 14:02:22 can i get my designer V rank now?
+plane-crazy 2019-09-07 14:03:34 
+plane-crazy 2019-09-07 14:04:28 it works now
+plane-crazy 2019-09-07 14:04:33 it might be roblox
+plane-crazy 2019-09-07 14:04:41 yeah
+plane-crazy 2019-09-07 14:05:13 no i was in the same server
+plane-crazy 2019-09-07 14:06:34 a discord user
+plane-crazy 2019-09-07 14:30:01 this gives me nightmares
+plane-crazy 2019-09-07 15:21:04 yusesp was me,but i wasn't lagging that much
+plane-crazy 2019-09-07 15:21:34 my plane did more lag i think
+plane-crazy 2019-09-07 15:21:58 7072 now
+plane-crazy 2019-09-07 15:23:42 my plane takes like an hour to turn 180
+creations-chat 2019-09-07 16:25:48 it'll be vry visible once if its daylight
+plane-crazy 2019-09-07 16:35:58 can you see it???
+plane-crazy 2019-09-07 16:36:08 thats right, it wont show up in your radar
+plane-crazy 2019-09-07 16:36:29 thats called stealth level 1000
+creations-chat 2019-09-07 17:29:45 lol that music
+creations-chat 2019-09-07 17:33:31 what?
+plane-crazy 2019-09-07 19:47:37 new motor config
+plane-crazy 2019-09-07 19:47:55 ^
+creations-chat 2019-09-08 18:49:18 Rebel <:DabOnEm:520022237705928704>
+plane-crazy 2019-09-08 19:02:51 Yes
+plane-crazy 2019-09-08 19:05:07 Rick, can you add a toggle for that motor so it doesnt follow our cursor all the time
+plane-crazy 2019-09-16 01:47:18 Orange is a Filipino?
+plane-crazy 2019-09-16 01:47:47 It says pinoy in one of the tabs
+plane-crazy 2019-09-16 01:48:40 How are filipinos gay
+plane-crazy 2019-09-16 01:49:05 Uh okay...
+creations-chat 2019-09-16 03:48:25 this man must have used a lot of brain power
+creations-chat 2019-09-16 22:18:45 tail wing small
+general 2019-09-17 22:40:38 1st one
+help 2019-09-18 02:23:55 bro, motor 2 help me with homework
+help 2019-09-21 20:06:47 try putting the center of mass at the center of propellers
+help 2019-09-21 20:07:35 ballast
+help 2019-09-21 20:54:37 <@!527309105203773459> keep adjusting the density of the ballast
+creations-chat 2019-09-29 06:14:47 Talk wing small
+creations-chat 2019-09-30 04:40:25 
+creations-chat 2019-09-30 04:40:54 a340 and 747 is by somebody else

@@ -1,0 +1,74 @@
+The Tale of motorolaspectra (293124600886329349)
+creations-chat 2018-11-19 19:08:47 so i made a vtol
+creations-chat 2018-11-19 19:09:01 
+creations-chat 2018-11-19 19:09:05 
+creations-chat 2019-01-06 16:52:22 https://gyazo.com/ddec8a554d01f94c2ef3cfc6e301f81e I made a police boat with bubblegum lights
+creations-chat 2019-01-06 16:54:28 and here is a better gif: https://gyazo.com/3fd6f45b7610614683f998c65df15df0
+creations-chat 2021-01-03 17:51:32 does my jet not meet this requirement because of the thrust vectoring?
+plane-crazy 2021-01-05 01:58:33 ballast blocks are automatically less dense than normal blocks right?
+plane-crazy 2021-01-05 02:01:10 okay thanks
+plane-crazy 2021-01-05 02:59:45 why do motor twos seem to randomly change direction when used in folding
+plane-crazy 2021-01-09 18:27:30 which material has the most friction
+plane-crazy 2021-01-09 19:08:31 why does this motor moving make my entire vehicle bend
+plane-crazy 2021-01-09 19:11:18 it doesnt do that if i remove the unpowered motors that allow the trailer to bend
+plane-crazy 2021-01-09 19:17:55 but if i do this itll work
+plane-crazy 2021-01-09 19:17:58 strange but ill go with it
+plane-crazy 2021-01-09 20:41:03 wtf does damping do
+plane-crazy 2021-01-14 17:23:12 will locking pistons stop them from being pushed back
+plane-crazy 2021-02-02 02:35:45 does anyone have solutions to plane wobbling
+plane-crazy 2021-02-02 02:36:36 yeah
+plane-crazy 2021-02-02 02:37:41 would adding a ballast to the back also work if its a lift-balance issue?
+plane-crazy 2021-02-02 02:38:37 ah
+plane-crazy 2021-02-02 02:38:50 i havent figured out how to motorlock that well yet
+plane-crazy 2021-02-02 02:43:30 and what that would do is add more lift to the front without changing anything looks wise?
+plane-crazy 2021-02-02 02:45:07 yeah that might be why
+plane-crazy 2021-02-02 02:45:11 i cant
+plane-crazy 2021-02-02 02:45:11 i would post a picture but
+plane-crazy 2021-02-02 02:45:24 i dont have image perms in this channel
+plane-crazy 2021-02-02 03:05:11 i can also use motor locking to add more engines without making a bigger plane right?
+plane-crazy 2021-02-02 03:05:32 what are hover drives
+plane-crazy 2021-02-02 03:06:30 hmm
+plane-crazy 2021-02-02 03:06:32 interesting
+plane-crazy 2021-02-02 03:07:22 2000???
+plane-crazy 2021-02-02 03:07:23 damn
+plane-crazy 2021-02-02 03:11:15 damn
+plane-crazy 2021-02-02 03:27:29 so it turns out adding five hover drives was a terrible idea
+plane-crazy 2021-02-02 03:28:50 yeah uh
+plane-crazy 2021-02-02 03:29:01 my plane can fly but the tail end just
+plane-crazy 2021-02-02 03:29:02 loses it
+plane-crazy 2021-02-02 03:30:32 definitely not a good idea to add that many
+plane-crazy 2021-02-02 03:31:38 however if i completely remove the vertical stabilizer the side to side shaking ends
+plane-crazy 2021-02-02 03:32:03 will moving the drives closer to the center of gravity reduce shaking or is that solely wing panels?
+bot-central 2021-02-02 04:03:57 !rank
+plane-crazy 2021-02-02 04:48:06 what
+plane-crazy 2021-02-02 04:48:22 what is this
+plane-crazy 2021-02-02 04:48:36 he's painting it green???
+plane-crazy 2021-02-02 04:53:30 dude i dont even know anymore
+plane-crazy 2021-02-04 20:24:49 if i enable the "arm on key" for explosive blocks will the keybind for it be set to whatever is the "explode" keybind
+plane-crazy 2021-02-04 20:26:02 and so for it to explode it would have to be pressed twice
+plane-crazy 2021-02-04 20:26:10 once to arm and once to actually explode
+plane-crazy 2021-02-04 20:27:10 and using the option will prevent the bombs from exploding upon takeoff if "on impact" is also enabled
+plane-crazy 2021-02-04 20:28:42 cool beans
+creations-chat 2021-02-04 22:51:34 is there anything i could improve here?
+creations-chat 2021-02-04 22:53:55 i wish
+creations-chat 2021-02-04 22:56:34 just a custom plane of my own design, aside from motorlocking ofc
+creations-chat 2021-02-04 22:59:03 the fuselage is kinda wonky to fit in the ejection system and as for the paint, im really just not good at coloring stuff
+creations-chat 2021-02-04 23:10:00 yeah definitely not a viper
+creations-chat 2021-02-17 18:08:26 what else can i improve about my c-ram?
+creations-chat 2021-02-17 18:12:23 what is even going on?? i just want tips on how to improve my c-ram man
+creations-chat 2021-02-17 18:15:12 this cooldown is killing me
+
+<@!287454032250011649> the barrel is thick so i can conceal the 10 pvp guns lined up back to back
+<@!449956273127948290> ill probably build a version of this with no rockets
+<@!569298230983131137> sure give me a sec
+creations-chat 2021-02-17 18:18:12 wouldnt it look worse to have exposed guns? i could try motorlocking all of the guns into one space and having the locked motors act as the rest of the vulcan barrel maybe?
+creations-chat 2021-02-17 18:26:14 oh i get what youre saying now
+plane-crazy 2021-02-22 21:32:31 why do my explosive blocks not do any damage sometimes even when set to explode on impact
+plane-crazy 2021-02-22 21:33:47 like im having my friend help test out a SAM system on a private server, both of us have PVP on, and its really a hit-or-miss whether or not the explosives actually do damage
+plane-crazy 2021-02-22 21:39:22 what does adding suspension behind the explosive do? i've seen it on a couple of builds
+plane-crazy 2021-02-22 21:57:18 yeah this is really strange
+plane-crazy 2021-02-22 21:57:24 sometimes it does damage and sometimes it doesnt
+plane-crazy 2021-03-02 20:49:41 uh..
+plane-crazy 2021-04-15 19:49:54 is there any way to build mouse controlled ailerons without using the default control surfaces
+plane-crazy 2021-05-30 17:55:30 does anyone have a way to stop tank suspension from locking up like this
+plane-crazy 2021-05-30 17:57:38 i tried adding stoppers but it still ended up going through somehow

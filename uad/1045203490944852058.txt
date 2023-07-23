@@ -1,0 +1,54 @@
+The Tale of stroopa (1045203490944852058)
+general 2023-02-24 02:15:38 Bruh
+general 2023-02-24 02:15:43 When pc2 coming out
+general 2023-02-24 02:17:04 Bruh
+general 2023-02-24 02:17:11 Pc1 getting boring ngl
+general 2023-02-24 02:17:39 When pc2 comes out they should give all first 10,000 people 1000 robux each
+plane-crazy 2023-02-24 02:19:15 How can I fix my plane wobbling when I reach 700?
+plane-crazy 2023-02-24 02:19:23 Yes, it’s m2m controlled
+plane-crazy 2023-02-24 02:19:57 Cant
+plane-crazy 2023-02-24 02:20:02 Then has too much drag
+plane-crazy 2023-02-24 02:20:43 Idk
+general 2023-02-24 02:22:41 How do I make my plane more stable while going 700 sps. It’s m2m controlled and I cant add more panels as that would mean more drag:
+plane-crazy 2023-02-24 02:23:40 What’s it’s current angle and how fast does it travel while flying straight. Also how fast is its acceleration
+plane-crazy 2023-02-24 02:26:24 Wdym
+plane-crazy 2023-02-24 02:26:36 I cant go above 600 without it wobbling
+plane-crazy 2023-02-24 02:26:42 And u saying to add more thrust?
+plane-crazy 2023-02-24 02:55:34 More drag plus I think I have enough lift for a 300 block plane
+general 2023-03-02 22:01:31 Giggity gigity
+general 2023-03-27 23:06:41 yo
+general 2023-03-27 23:06:46 i need help with something
+general 2023-03-27 23:07:05 i have a bug on my pc and i need to know if anyone knows what it is
+general 2023-03-27 23:07:30 my computer keeps telling me to uhh "The missile knows where it is at all times. It knows this because it knows where it isn't. By subtracting where it is from where it isn't, or where it isn't from where it is (whichever is greater), it obtains a difference, or deviation. The guidance subsystem uses deviations to generate corrective commands to drive the missile from a position where it is to a position where it isn't, and arriving at a position where it wasn't, it now is. Consequently, the position where it is, is now the position that it wasn't, and it follows that the position that it was, is now the position that it isn't.
+In the event that the position that it is in is not the position that it wasn't, the system has acquired a variation, the variation being the difference between where the missile is, and where it wasn't. If variation is considered to be a significant factor, it too may be corrected by the GEA. However, the missile must also know where it was.
+The missile guidance computer scenario works as follows. Because a variation has modified some of the information the missile has obtained, it is not sure just where it is. However, it is sure where it isn't, within reason, and it knows where it was. It now subtracts where it should be from where it wasn't, or vice-versa, and by differentiating this from the algebraic sum of where it shouldn't be, and where it was, it is able to obtain the deviation and its variation, which is called air."
+general 2023-03-27 23:08:40 then open your eyes
+plane-crazy 2023-06-13 12:13:23 I need help
+plane-crazy 2023-06-13 12:13:30 Can someone help me with my turret
+plane-crazy 2023-06-13 12:13:46 Ok
+help 2023-06-13 12:14:03 I need help
+help 2023-06-13 12:14:09 I have a T-72
+help 2023-06-13 12:14:14 And I’m stuck in the turret
+help 2023-06-13 12:14:29 As soon as I add motor locking into the turret to make it looks like a T-72 turret
+help 2023-06-13 12:14:35 It stops moving around
+plane-crazy 2023-06-13 12:24:00 No one is alive
+help 2023-06-13 12:27:51 I’m pretty sure it is
+help 2023-06-13 12:28:06 But I cant figure out where that part of the motor lock sits within my tower
+help 2023-06-13 12:28:18 Plus none of my friends are online rn
+help 2023-06-13 12:28:27 They all know motor lock a little bit better
+help 2023-06-13 12:29:09 Ok
+help 2023-06-13 12:29:13 I’ll send some soon
+help 2023-06-13 12:34:22 Ok them
+help 2023-06-13 12:34:43 Sorry for mobile, my laptop dead rn
+help 2023-06-13 12:35:03 
+help 2023-06-13 12:35:17 
+help 2023-06-13 12:35:39 Lil hard to understand
+help 2023-06-13 12:44:27 Ok
+help 2023-06-13 12:58:39 Yeah
+help 2023-06-13 12:58:42 I was thinking that
+help 2023-06-13 12:58:47 I got most of it fixed
+help 2023-06-13 12:59:01 All I did was increase motor torque from 30-1000
+help 2023-06-13 12:59:14 And I made my piston go from 0.75 up to 1
+help 2023-06-13 12:59:26 But I’ll refine that piston as I want it close to the hull
+general 2023-07-01 21:22:40 When PC2 coming out?
+general 2023-07-01 21:22:55 Nah

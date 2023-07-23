@@ -1,0 +1,458 @@
+The Tale of redcarred2 (297189073452269568)
+plane-crazy 2021-08-13 23:04:22 https://www.roblox.com/games/166986752?privateServerLinkCode=99675546998713751735396300487083
+plane-crazy 2021-08-13 23:04:24 I'm lonely
+plane-crazy 2021-08-13 23:04:27 looking to pvp
+plane-crazy 2021-08-13 23:04:31 Please no shredders
+plane-crazy 2021-08-13 23:10:08 this community is unofficial
+plane-crazy 2021-08-13 23:10:28 Your best bet is https://twitter.com/Rickje139
+plane-crazy 2021-08-13 23:13:20 so, turns out
+plane-crazy 2021-08-13 23:13:22 the bot
+plane-crazy 2021-08-13 23:13:25 hates my image host
+plane-crazy 2021-08-13 23:13:56 dms
+plane-crazy 2021-08-16 16:10:57 I use shredders against shredders, I just found a way to make shredder balls 40x more fatal, I won't release it
+plane-crazy 2021-08-16 16:12:37 u know what I mean I modified a shredder ball, and now its like 40x more deadly
+plane-crazy 2021-08-16 19:44:57 theres this fucking idiot in my server, whos using a massive lag machine
+plane-crazy 2021-08-16 19:45:09 I hate kids who play this game
+plane-crazy 2021-08-16 19:45:57 definition of pre-teen is 9-12
+plane-crazy 2021-08-16 19:46:56 I wish you could votekick
+plane-crazy 2021-08-16 19:48:37 I could get a fully functional votekick system coded
+plane-crazy 2021-08-16 19:48:43 then hand it to rickje
+plane-crazy 2021-08-16 19:48:52 I do know lua
+plane-crazy 2021-08-16 19:50:55 i'm thinkin
+plane-crazy 2021-08-16 19:51:00 half the server
+plane-crazy 2021-08-16 19:51:11 has to agree
+plane-crazy 2021-08-16 19:51:27 and you have to specify a reason
+plane-crazy 2021-08-16 19:51:56 what?
+plane-crazy 2021-08-16 19:53:38 Alrighty, votekick cooldown, must specify a reason, half the server must agree
+plane-crazy 2021-08-16 19:53:39 and
+plane-crazy 2021-08-16 19:53:52 can yall think of any other issues
+plane-crazy 2021-08-16 19:54:52 If its hardcoded, it just instance.news the whole game, thats my interpretation
+plane-crazy 2021-08-16 19:55:02 the votekick wouldn't need to merge with the existing code
+plane-crazy 2021-08-16 19:55:20 saves to autosave I guess...
+plane-crazy 2021-08-16 19:56:19 using datastore service
+plane-crazy 2021-08-16 19:56:21 hard
+plane-crazy 2021-08-16 19:56:23 but possible
+plane-crazy 2021-08-16 19:56:42 I already got my man whos great on UIS working on the UI
+plane-crazy 2021-08-16 20:01:02 its my image host
+plane-crazy 2021-08-16 20:01:05 It used fake urls
+plane-crazy 2021-08-16 20:03:46 So, I found a captcha system
+plane-crazy 2021-08-16 20:03:47 https://devforum.roblox.com/t/captchatheflag-protect-your-game-from-bots/648132
+plane-crazy 2021-08-16 20:06:47 well, I'll be coding the backend of the votekick in serverscriptservice
+plane-crazy 2021-08-16 20:06:52 and protecting the remotes
+plane-crazy 2021-08-16 20:07:00 so no matter how hard you try
+plane-crazy 2021-08-16 20:07:03 you can't vote twice
+plane-crazy 2021-08-16 20:07:41 Yes?
+plane-crazy 2021-08-16 20:08:05 to roblox or discord?
+plane-crazy 2021-08-16 20:08:38 .mov cant be used on some devices
+plane-crazy 2021-08-16 20:08:50 and can hide discord crashing bugs inside
+plane-crazy 2021-08-16 20:08:59 I don't even have image perms
+plane-crazy 2021-08-16 20:09:00 so
+plane-crazy 2021-08-16 20:09:51 well, I've never heard of it, and plane crazy is my favourite game, so I would never exploit in it
+plane-crazy 2021-08-16 20:10:11 but having a picture of rick astley would be sweet
+plane-crazy 2021-08-16 20:10:34 But knowing how most people who buy exploits are
+plane-crazy 2021-08-16 20:10:49 exactly what I was gonna say
+plane-crazy 2021-08-16 20:11:03 anyway, how do I get image perms?
+plane-crazy 2021-08-16 20:11:35 Ah, I see
+plane-crazy 2021-08-16 20:11:54 yes
+plane-crazy 2021-08-16 20:12:10 same
+plane-crazy 2021-08-16 20:12:42 with them getting removed, I wish I made massive blocks with 1x1 cubes of every material
+plane-crazy 2021-08-16 20:12:45 so I can save em
+plane-crazy 2021-08-16 20:14:00 I got my UI friend almost done the votekick ui <@!748702813948739725>
+plane-crazy 2021-08-16 20:14:16 I'll DM u a picture of it
+plane-crazy 2021-08-16 20:14:19 see if u like it
+plane-crazy 2021-08-16 20:48:50 WE NEED FREE SPEECH (lol)
+plane-crazy 2021-08-16 22:12:38 we need half triangle wedges 1x2 1x3 1x4
+plane-crazy 2021-08-17 15:55:04 
+plane-crazy 2021-08-17 15:57:48 just attach a super rocket engine, then its a plane
+plane-crazy 2021-08-17 15:58:40 ok, then, attach 2 and point it straight up
+plane-crazy 2021-08-17 15:59:37 https://youtu.be/pJdrlWR-yFM?t=486
+plane-crazy 2021-08-17 16:01:13 <@!559568621312147476> Top gear was discontinued, and resumed by amazon as the grand tour
+plane-crazy 2021-08-17 16:01:52 oh jeez
+plane-crazy 2021-08-17 16:01:55 looks like it is
+plane-crazy 2021-08-17 16:02:08 well, I still like the 3 british weirdos
+plane-crazy 2021-08-17 16:02:49 not jock, jockley, jock jr and stigly
+plane-crazy 2021-08-17 16:03:47 jeez, it is
+plane-crazy 2021-08-17 16:04:19 Can someone just appreciate this image
+plane-crazy 2021-08-17 16:04:39 he was using shredders
+plane-crazy 2021-08-17 16:04:43 destroying other builds
+plane-crazy 2021-08-17 16:05:17 also, I might post a picture of how my shredder ball on steroids works
+plane-crazy 2021-08-17 16:05:24 its basically a shredder ball
+plane-crazy 2021-08-17 16:05:29 modified to destroy shredders
+plane-crazy 2021-08-17 16:05:52 Not rly
+plane-crazy 2021-08-17 16:06:43 I could make a shredder killing montage
+plane-crazy 2021-08-17 16:08:03 I was just gonna say
+plane-crazy 2021-08-17 16:08:07 I just took a shredder ball
+plane-crazy 2021-08-17 16:08:12 and made some spikes spin
+plane-crazy 2021-08-17 16:08:26 wot?
+plane-crazy 2021-08-17 16:09:07 <@!571265344015171594> a massive net of spikes
+plane-crazy 2021-08-17 16:09:55 <@!571265344015171594> rocket engines
+plane-crazy 2021-08-17 16:10:48 Also, what to yall think of this? I was challange yesterday to make a votekick system for plane crazy, and give it to rickje
+plane-crazy 2021-08-17 16:12:56 <@!559568621312147476> Its gonna have a cooldown, and a required reason field, its also gonna use a captcha system called captchatheflag
+plane-crazy 2021-08-17 16:13:19 No
+plane-crazy 2021-08-17 16:14:11 Its just a proof of concept
+plane-crazy 2021-08-17 16:14:20 I'm gonna send it to rickje
+plane-crazy 2021-08-17 16:14:25 meh
+plane-crazy 2021-08-17 16:14:25 if he doesn't wanna add it
+plane-crazy 2021-08-17 16:17:28 <@!571265344015171594> if u want, we can 1v1 in mah vip server
+plane-crazy 2021-08-17 16:17:37 I'm not a great builder
+plane-crazy 2021-08-17 16:18:07 got a pvp car?
+plane-crazy 2021-08-17 16:18:50 <@!571265344015171594> dm me
+plane-crazy 2021-08-17 16:19:45 rex
+plane-crazy 2021-08-17 16:19:53 dm me, I wanna send u mah server link
+general 2021-08-17 18:41:47 I got 1, sorry rickje, sorry, sorry, sorry, please dont ban me, pleaase, I love this discord
+general 2021-08-17 18:42:22 what
+general 2021-08-17 18:42:23 uh
+general 2021-08-17 18:42:32 sorry?
+general 2021-08-17 18:42:40 I'm confused
+general 2021-08-17 18:43:10 Oh fuck
+general 2021-08-17 18:43:50 fuck
+general 2021-08-17 18:44:01 well, I guess I'm getting banned
+general 2021-08-17 18:44:05 Cya all
+general 2021-08-17 18:44:06 ;-;
+general 2021-08-17 18:45:59 Well, Rickje if you see this, I'm sorry, I just forgot that rule, Please don't ban me this community is my people, and I'm making concept stuff to send to you. Please don't ban me.
+general 2021-08-17 18:47:24 fuck I'm an idiot
+general 2021-08-17 18:49:59 I already got some concepts, for that, 1, 90 second cooldown, 2, captcha, 3, it'll send a report of every votekick to a webhook
+general 2021-08-17 18:51:10 thanks, good idea
+general 2021-08-17 18:52:54 Alrighty, so I'll check if a majority of votekickers are friends
+general 2021-08-17 18:53:26 thats what the captcha is for
+general 2021-08-17 18:54:03 captcha solving
+general 2021-08-17 18:54:27 https://discord.com/channels/384021699466756103/497142796961054721/877262001280254064
+general 2021-08-17 18:55:29 each votekick would have to have a reason, that reason broadcasted in chat for the voting, and sent to a webhook
+general 2021-08-17 18:55:58 <@456226577798135808> meh
+general 2021-08-17 18:55:59 I know
+general 2021-08-17 18:56:02 just a concept
+general 2021-08-17 18:56:46 whatever
+general 2021-08-17 18:56:53 you can't stop me from making this really
+general 2021-08-17 18:57:47 fk
+general 2021-08-17 18:57:49 forgot
+general 2021-08-17 18:57:53 bot doesn't like my image host
+general 2021-08-17 18:57:57 
+general 2021-08-17 18:58:06 I think I'm sorta safe
+general 2021-08-17 18:58:54 https://discord.com/channels/384021699466756103/384021699466756107/486186597453266954
+general 2021-08-17 18:59:18 Oh thank god
+general 2021-08-17 18:59:21 I'm safe
+general 2021-08-17 18:59:55 I'll send u the UI
+general 2021-08-17 19:05:28 alrighty, I'm just rewriting my votekick ui
+general 2021-08-17 19:05:31 to be a kick ui
+general 2021-08-17 19:06:08 <@!571265344015171594> so, how do fireworks sound?
+general 2021-08-17 19:06:31 alr, I'll negotiate once its done
+general 2021-08-17 19:07:43 well, that rick astley is hot
+general 2021-08-17 20:11:41 well
+general 2021-08-17 20:11:53 I am now 20% more insane now
+general 2021-08-17 20:11:56 than when I started
+general 2021-08-17 20:12:04 but I'm almost done
+general 2021-08-17 20:48:08 
+general 2021-08-17 20:48:10 Alrighty Everyone
+general 2021-08-17 20:48:12 Its done
+general 2021-08-17 20:48:40 do you know how to code?
+general 2021-08-17 20:49:15 <@!315262125113081856> ur kidding me right?
+general 2021-08-17 20:49:23 I've spent the last 2 hours
+general 2021-08-17 20:49:30 drinking nothing but redbull
+general 2021-08-17 20:53:09 https://discord.com/channels/384021699466756103/497142796961054721/877265417872240647
+general 2021-08-17 20:53:13 guys
+general 2021-08-17 20:53:19 I'm immune to getting ping banned
+general 2021-08-17 20:54:31 The server owner will be able to kick asswipes out of their server
+general 2021-08-17 21:04:29 https://discord.com/channels/384021699466756103/497142796961054721/877265417872240647
+general 2021-08-17 21:04:36 I got an excuse to do it
+general 2021-08-17 21:04:39 pepsiman
+general 2021-08-17 21:04:55 I didn't
+general 2021-08-17 21:05:04 Pepsiman deleted it
+general 2021-08-17 21:05:05 not me
+general 2021-08-17 21:05:27 Anyway
+general 2021-08-17 21:05:29 Pepsiman
+general 2021-08-17 21:05:47 u kinda just screwed me over
+general 2021-08-17 21:06:05 also ciclano13 was minimodding
+general 2021-08-17 21:06:27 yeah
+general 2021-08-17 21:06:42 pepsiman sabotaged my o2
+general 2021-08-17 21:06:54 sussy
+general 2021-08-17 21:14:17 Jeff bezos owns rich mans kerbal
+general 2021-08-17 21:15:41 Want some candys?
+general 2021-08-17 21:16:13 <@!415226168170512415> just gonna remind you <#533294912586645521> number 8.
+general 2021-08-17 21:17:05 alrighty
+general 2021-08-17 21:17:14 I just don't want more people getting banned
+general 2021-08-17 21:17:42 My PFP is not NSFW
+general 2021-08-17 21:17:51 but some people Use it to spawn in NSFW things
+general 2021-08-17 21:19:48 I'm a british boi
+general 2021-08-17 21:19:51 drinking tea rn
+general 2021-08-17 21:19:56 and eating biscuits
+general 2021-08-17 21:21:05 yeah
+general 2021-08-17 21:21:09 pepsi don't like me
+general 2021-08-17 21:21:39 idk
+general 2021-08-17 21:23:23 
+general 2021-08-17 21:23:26 pop bottle
+general 2021-08-17 21:42:30 Heres a random image, with no context
+general 2021-08-17 21:44:35 no, a male who really likes anime, and is japanese
+general 2021-08-17 21:44:48 don't get your hopes up
+general 2021-08-17 21:48:28 <@!470492215685283870> thats the same identifier
+general 2021-08-17 21:48:30 hes real
+general 2021-08-17 21:48:54 I just checked, from that image, to real rickje
+general 2021-08-17 21:49:24 if fumo is a sin
+general 2021-08-17 21:49:29 I only know sinners
+general 2021-08-17 21:50:20 <@456226577798135808> ur kidding me right? I legit have code being sent do rickje
+general 2021-08-17 21:50:25 I might be a plane crazy 2 dev
+general 2021-08-17 21:51:24 lol
+general 2021-08-17 21:51:26 Well
+general 2021-08-17 21:51:44 <@!195253906333368320>
+general 2021-08-17 21:54:09 
+general 2021-08-17 21:55:21 Nah, I got a friend whos a japanese, loves fumos, and is a talented scripter
+general 2021-08-17 21:55:49 Its a serverside script
+general 2021-08-17 21:57:51 Looks like the guy deleted it
+general 2021-08-17 21:57:53 thats sad
+general 2021-08-17 21:58:06 It was a "Send this to your crush with no context"
+general 2021-08-17 21:58:17 targetted in your dms
+general 2021-08-18 14:20:00 day 1 of waiting for rickje to respond to my dm
+general 2021-08-18 14:21:02 he told me to dm him
+general 2021-08-18 14:21:03 L.
+general 2021-08-18 14:21:26 https://discord.com/channels/384021699466756103/497142796961054721/877265417872240647
+general 2021-08-18 14:23:23 I wonder what role I will get
+general 2021-08-18 14:23:28 if this gets added
+general 2021-08-18 17:38:55 
+general 2021-08-18 18:03:28 I can't believe it
+general 2021-08-18 18:03:30 my code, will be
+general 2021-08-18 18:03:32 in plane crazy
+general 2021-08-18 18:04:35 Its a GUI that will allow VIP server owners, to kick others
+general 2021-08-18 18:05:22 <@456226577798135808>
+general 2021-08-18 18:05:36 
+general 2021-08-18 18:06:05 idfk how rickje does the blacklist plr list
+general 2021-08-18 18:06:12 so, I made a refresh button
+general 2021-08-18 18:06:27 yes
+general 2021-08-18 18:06:42 no
+general 2021-08-18 18:06:52 I did not inject scripts
+general 2021-08-18 18:06:56 into plane crazy
+general 2021-08-18 18:07:23 <@!565999170033287320> its for VIP server owners
+general 2021-08-18 18:08:08 also, I made it exploiter proof
+general 2021-08-18 18:08:12 not gonna tell you how
+general 2021-08-18 18:08:18 cause then you'll find a way around
+general 2021-08-18 18:08:59 I know I'm allowed to post screenshots of this
+general 2021-08-18 18:09:04 but not the code
+plane-crazy 2021-08-18 21:42:42 I made an american minivan
+plane-crazy 2021-08-18 21:47:33 I just painted it
+plane-crazy 2021-08-18 21:47:34 lol
+general 2021-08-19 20:54:18 
+general 2021-08-20 16:05:38 well my code was added into the game, and its unstable AF
+general 2021-08-20 16:05:52 kill me
+general 2021-08-20 16:05:54 :D
+bug-reports 2021-08-20 16:09:55 New VIP kick menu is kicking the person who kicked with the message "Lol you tried to kick the game owner", this isn't my code doing this, as I secured the remotes in a different way
+bug-reports 2021-08-20 16:36:03 no
+bug-reports 2021-08-20 16:36:20 I'm not a moron
+bug-reports 2021-08-21 14:53:45 <@!715148402022678608> jesus, calm down man, we all want em removed
+plane-crazy 2021-08-21 15:38:15 
+plane-crazy 2021-08-21 15:38:45 lol
+plane-crazy 2021-08-21 15:39:48 anyway
+plane-crazy 2021-08-21 15:39:56 chat is turning into sweet home alabalma
+plane-crazy 2021-08-21 15:40:55 I'm live
+plane-crazy 2021-08-21 15:43:12 Yall should check out my stream, shredders being dumb, get some popcorn, and hang out
+plane-crazy 2021-08-21 15:44:55 I just had someone join VC made some gerbal noises, and leave
+plane-crazy 2021-08-21 21:21:55 
+plane-crazy 2021-08-21 21:22:09 what on earth is the plane crazy community
+plane-crazy 2021-08-21 21:22:57 and why do I always get the weird servers
+plane-crazy 2021-08-21 21:26:55 Why the hell is this community so toxic
+plane-crazy 2021-08-21 21:29:46 I just saw a lgbtq+ confederate flag
+plane-crazy 2021-08-21 21:30:13 wtf is this community
+plane-crazy 2021-08-21 21:30:17 I'm scared
+plane-crazy 2021-08-21 22:07:20 because I'm a bigger looser
+plane-crazy 2021-08-21 22:07:49 because rick added some of my code to the game, rewrote it, so now the VIP kick menu is a kamikasi kick menu
+plane-crazy 2021-08-21 22:08:00 if he didn't rewrite it
+plane-crazy 2021-08-21 22:08:04 it would work perfect
+plane-crazy 2021-08-21 22:08:05 Life
+plane-crazy 2021-08-21 22:08:07 :/
+plane-crazy 2021-08-21 22:12:16 Vip server kick menu
+plane-crazy 2021-08-21 22:12:48 https://discord.com/channels/384021699466756103/497142796961054721/877265417872240647
+plane-crazy 2021-08-21 22:12:51 not rly
+plane-crazy 2021-08-21 22:12:54 just a fan
+plane-crazy 2021-08-21 22:14:26 Since I did a full prototype
+plane-crazy 2021-08-21 22:15:37 <@!857267663374254080>
+plane-crazy 2021-08-21 22:37:20 read your username
+plane-crazy 2021-08-21 22:37:43 just don't build the no-no flag
+plane-crazy 2021-08-21 22:39:19 ffs
+plane-crazy 2021-08-21 22:39:21 moron
+plane-crazy 2021-08-21 22:40:09 my pew pew turret
+plane-crazy 2021-08-21 22:43:51 I got 1 that goes 6000
+plane-crazy 2021-08-21 22:44:02 nu
+plane-crazy 2021-08-21 22:44:14 its just fast boi
+plane-crazy 2021-08-21 22:46:45 fly like a shredder sting like a bee
+plane-crazy 2021-08-21 22:47:45 alrighty, eggman and I are off to start a band
+plane-crazy 2021-08-21 22:47:46 cya all
+plane-crazy 2021-08-21 22:47:59 lol
+plane-crazy 2021-08-21 22:57:38 No one uses shredders
+plane-crazy 2021-08-21 23:10:53 I'm building a shredderless shredder ball
+plane-crazy 2021-08-21 23:14:37 because
+plane-crazy 2021-08-21 23:14:39 I wanna
+plane-crazy 2021-08-21 23:30:13 was just fighting a kiddo with a massive shredder with my shredder army
+plane-crazy 2021-08-21 23:30:15 he raged
+plane-crazy 2021-08-21 23:31:01 I got an idea, give me the original picture
+plane-crazy 2021-08-21 23:31:06 of the anchor
+plane-crazy 2021-08-21 23:33:56 
+plane-crazy 2021-08-21 23:33:58 maybe
+plane-crazy 2021-08-21 23:37:40 I am mass producing shredders
+plane-crazy 2021-08-21 23:38:22 I recognize that, is ur design used in shredder balls?
+plane-crazy 2021-08-21 23:39:44 I'm just mass producing shredders for target practice
+plane-crazy 2021-08-21 23:41:49 I got a custom design that only works effectively against shredders, anything else, its shit at
+plane-crazy 2021-08-21 23:42:17 thats da funny country I live in
+plane-crazy 2021-08-21 23:43:15 got a design for a stupidly small plane?
+plane-crazy 2021-08-21 23:43:22 like, make the smallest plane u can
+plane-crazy 2021-08-21 23:43:36 just a plane
+plane-crazy 2021-08-21 23:43:41 make it as small as possible
+plane-crazy 2021-08-21 23:43:49 my record is 8 blocks
+plane-crazy 2021-08-21 23:44:04 no
+plane-crazy 2021-08-21 23:44:19 it has to fly though
+plane-crazy 2021-08-21 23:45:55 has to fly like a plane, no need for yaw, it can be RC
+plane-crazy 2021-08-21 23:46:27 ye
+plane-crazy 2021-08-21 23:46:33 I posted my current record
+plane-crazy 2021-08-21 23:47:10 fk, I should post it in creations
+plane-crazy 2021-08-21 23:47:33 nah
+plane-crazy 2021-08-21 23:47:34 nvm
+plane-crazy 2021-08-21 23:49:23 be real here
+plane-crazy 2021-08-21 23:49:29 it won't generate quick enough
+plane-crazy 2021-08-21 23:50:10 Oh
+plane-crazy 2021-08-21 23:50:13 theres a fix to that
+plane-crazy 2021-08-21 23:50:15 for mag engines
+plane-crazy 2021-08-21 23:50:26 dont use mouse control, use keys
+plane-crazy 2021-08-21 23:50:32 <@!485429409143193614>
+plane-crazy 2021-08-21 23:50:50 Jeez, idk how to help then
+general 2021-08-22 00:01:40 <@!694299648059244574> hard to impress much?
+plane-crazy 2021-08-22 00:12:38 Mass producing shredders, what yall doin?
+plane-crazy 2021-08-22 00:13:55 <@!485429409143193614> you really suck at balancing planes, tbh
+plane-crazy 2021-08-22 00:14:20 back in the day when I used to follow tuts, I made a hyper plane 10000 speed, perfectly balanced
+plane-crazy 2021-08-22 00:14:54 lol
+plane-crazy 2021-08-22 00:15:15 use ballast blocks to shift the weight <@!485429409143193614>
+plane-crazy 2021-08-22 00:15:48 yeah, cause I've gotten to over 4 trillion
+plane-crazy 2021-08-22 00:16:32 yeah
+plane-crazy 2021-08-22 00:16:39 we'll get there in 5 minutes
+plane-crazy 2021-08-22 00:16:57 using a Boeing 747
+plane-crazy 2021-08-22 00:18:02 
+plane-crazy 2021-08-22 00:18:42 its my record, completely accidental, I merged a conveyer with a magnet engine
+plane-crazy 2021-08-22 00:19:59 I buy steam OSTs for fun
+plane-crazy 2021-08-22 00:20:44 I have over $200 in steam ost
+plane-crazy 2021-08-22 00:20:47 0 vac bans
+plane-crazy 2021-08-22 00:20:50 life is good
+plane-crazy 2021-08-22 00:21:13 I got dem high quality headphones
+plane-crazy 2021-08-22 00:21:25 I need dem high quality flacs
+plane-crazy 2021-08-22 00:22:08 think about what you said
+plane-crazy 2021-08-22 00:22:54 it aint gonna happen
+plane-crazy 2021-08-22 00:23:18 I'm listening to a hat in time, b-side soundtrack
+plane-crazy 2021-08-22 00:24:07 Because you used motors, wheels are ingame for a reason
+plane-crazy 2021-08-22 00:25:58 building 5 shredders at once, its so confusing
+plane-crazy 2021-08-22 01:40:13 if anyone wants to practice taking shredders out
+plane-crazy 2021-08-22 01:40:15 https://cdn.discordapp.com/attachments/878758176609157181/878814436406722640/unknown.png
+plane-crazy 2021-08-22 01:40:15 lmk
+plane-crazy 2021-08-22 01:49:51 <@!862739241837920286> I said taking shredders out
+plane-crazy 2021-08-22 01:49:55 I was talking like
+plane-crazy 2021-08-22 01:49:56 for dates
+plane-crazy 2021-08-22 01:50:23 r/whooosh
+the-dump 2021-08-23 15:52:13 
+the-dump 2021-08-23 15:52:50 GOTEM
+plane-crazy 2021-08-24 15:24:48 Suggestions?
+plane-crazy 2021-08-24 15:29:01 anyone?
+general 2021-08-24 16:21:16 ?warn <@!155149108183695360> spam
+general 2021-08-24 16:33:03 Who here agrees that amazon basics should be renamed to bezo's basics
+general 2021-08-24 16:33:26 amazon's brand of products
+general 2021-08-24 16:33:40 they make popular products and sell em
+general 2021-08-24 17:15:53 Just as a full disclaimer:
+I am not a developer on PC2 I simply had a UI and some code added to plane crazy 1, just for some clarification:
+https://discord.com/channels/384021699466756103/497142796961054721/877265417872240647
+plane-crazy 2021-08-25 19:43:18 New shredder varient: Potato Masher Shredder, 2 spinning heads, on a spinning head, conveyer engine, Estimated top speed: 5000
+plane-crazy 2021-08-25 19:44:06 its wobbly, but its dangerous
+plane-crazy 2021-08-25 19:44:20 it didn't
+plane-crazy 2021-08-25 19:44:36 it rampaged my server for like 40 minutes
+plane-crazy 2021-08-25 19:45:33 bruh
+plane-crazy 2021-08-25 19:45:52 say, "if its a bug, come squash it"
+plane-crazy 2021-08-25 19:46:37 idk, it ain't mine
+plane-crazy 2021-08-25 19:46:42 thats just my estimated speed
+plane-crazy 2021-08-25 19:47:47 well, neither of us have any roles
+plane-crazy 2021-08-25 19:47:55 we aren't exactly geniuses
+plane-crazy 2021-08-26 15:36:48 KharaSandwich, anyone come across em?
+plane-crazy 2021-08-26 15:54:05 Hey, oiko, dm me
+plane-crazy 2021-08-27 14:24:06 probably someone that filled up the whole plot with the smallest parts possible
+plane-crazy 2021-08-27 14:25:13 yeah, like, their plot is a massive cube of blocks, ballast blocks, paint blocks, blocks 1 x 0.9, anchor blocks
+plane-crazy 2021-08-27 14:25:47 <@!771407578285867108> want me to take em out?
+plane-crazy 2021-08-27 14:28:33 man
+general 2021-08-27 16:37:13 <https://www.youtube.com/watch?v=Uf3ouaeB6UQ>
+general 2021-08-27 16:37:31 click the link
+plane-crazy 2021-08-27 17:02:00 lol, a rage baby just told me to go to hell with my shredders, the one I was using against his stupid sky turrent because he was camping
+plane-crazy 2021-08-27 17:03:38 Meh, I only pull my shredders when theres other shredders or a camper
+plane-crazy 2021-08-31 02:32:31 I made a machine that is quicker than a conveyer engine
+plane-crazy 2021-08-31 02:33:01 so
+plane-crazy 2021-08-31 02:33:01 well, it only has 5 blocks
+plane-crazy 2021-08-31 02:33:05 
+plane-crazy 2021-08-31 02:34:07 How
+plane-crazy 2021-08-31 02:35:05 hes just getting milk
+plane-crazy 2021-08-31 02:40:32 
+plane-crazy 2021-08-31 02:40:34 Progress?
+plane-crazy 2021-08-31 02:40:44 <@!246412229400985602>
+general 2021-09-06 16:02:00 
+general 2021-09-06 16:02:08 idk what I did
+general 2021-09-12 15:21:38 I just found a tutorial for a panzer 4, and now all I'm thinking about is ballast blocks and o panzer of the lake
+general 2021-09-12 15:21:49 should I do it
+general 2021-09-12 15:56:29 am I close to infinity speed?
+plane-crazy 2021-09-12 15:56:53 am I close to infinity speed
+plane-crazy 2021-09-16 21:14:07 
+plane-crazy 2021-09-16 21:15:07 
+plane-crazy 2021-09-16 21:15:11 Its ugly af
+plane-crazy 2021-09-16 21:15:22 but its a submarine, car, airplane, and boat
+plane-crazy 2021-09-16 21:16:35 Cmon guys
+plane-crazy 2021-09-16 21:16:40 you can find a pun for this
+plane-crazy 2021-09-16 21:18:34 thats kinda funny
+plane-crazy 2021-09-16 21:18:42 cause I call it project obsidian
+plane-crazy 2021-09-16 21:20:42 creation blacklist is probably the highest role I could ever get
+plane-crazy 2021-09-16 21:31:58 
+plane-crazy 2021-09-16 21:32:10 Submarine, car, boat, plane
+plane-crazy 2021-09-16 21:32:22 save file says its 190 blocks
+plane-crazy 2021-09-16 21:33:04 yes, ik I messed up the height measurement
+plane-crazy 2021-09-16 21:33:05 sue me
+plane-crazy 2021-09-16 21:33:14 should I put this in <#384025409945337856> ?
+plane-crazy 2021-09-16 21:35:44 the only god I believe in is harambe
+plane-crazy 2021-09-16 21:36:10 huh, better outcome than I expected
+plane-crazy 2021-09-16 21:39:45 oh god
+plane-crazy 2021-09-16 21:39:57 did I break rule 2
+plane-crazy 2021-09-16 21:40:04 with the religion of harambe?
+plane-crazy 2021-09-16 21:40:08 nah
+plane-crazy 2021-09-16 21:40:11 it aint a religion
+plane-crazy 2021-09-16 21:40:20 mods if u see this
+plane-crazy 2021-09-16 21:41:07 I'm just memeing
+the-dump 2021-09-18 15:04:05 
+the-dump 2021-09-18 15:04:46 nah, not a skill issue
+the-dump 2021-09-18 15:04:48 poor issue
+the-dump 2021-09-18 15:06:48 a jetpack would be nice for me
+the-dump 2021-09-18 15:06:52 since I got large builds
+the-dump 2021-09-18 15:07:33 (that even the admins in the discord are mean to me about since they ugly)
+the-dump 2021-09-18 15:12:52 the admins make fun of my plane crazy builds
+plane-crazy 2021-09-18 15:12:59 
+plane-crazy 2021-09-18 15:13:08 I just wanna pvp
+the-dump 2021-09-18 15:15:05 https://discord.com/channels/384021699466756103/497142796961054721/888191645760237568
+the-dump 2021-09-18 15:15:20 ;-;
+the-dump 2021-09-18 15:15:45 <@!821333499940044810> wasn't an embed dimwit
+the-dump 2021-09-18 15:15:55 its a message link
+the-dump 2021-09-18 15:20:21 ok, but did I ask?
+plane-crazy 2021-09-18 15:22:43 yeah bois, I got the VIP parking
+plane-crazy 2021-09-18 15:24:22 Man, thats a great build, its better than what I can do, thanks for blessing us with this image
+plane-crazy 2021-09-18 15:25:17 most upvotes I ever got was 2
+plane-crazy 2021-09-18 15:25:27 1 was from the bot
+plane-crazy 2021-09-18 15:25:31 the other was from me
+plane-crazy 2021-09-18 15:34:31 does anyone know the speed of the default landing gear?
+plane-crazy 2021-12-09 03:09:24 I can vouch for troll.
+plane-crazy 2021-12-09 03:11:04 If its his IP
+plane-crazy 2021-12-09 03:11:10 <@!335599526414909451> we got an IP leaker.
+plane-crazy 2021-12-09 03:11:18 violation of rule 1.
+plane-crazy 2021-12-09 03:12:09 Please be nice to others and use common sense! Do not harrass, bully, threaten or berate other members. You are expected to be respectful to everyone at all times. General toxicity will be met with a ban.
+plane-crazy 2021-12-09 03:13:43 Thats what she said.
+plane-crazy 2021-12-09 03:19:27 rule 1 buddy.
+general 2021-12-12 02:38:34 
+general 2021-12-12 02:38:39 fly hacking kid
+general 2021-12-12 02:38:41 with shredder
+general 2021-12-12 02:38:54 
+general 2021-12-12 02:39:14 https://cdn.discordapp.com/attachments/893215050955915266/919418043526955060/unknown.png
+general 2021-12-12 02:39:17 Yeah
+general 2021-12-12 02:39:21 kid has a skill issue.
+general 2021-12-12 02:40:36 
+general 2021-12-12 02:40:46 
+general 2021-12-12 02:42:01 hmm
+general 2021-12-12 02:42:18 freed a spot for u
+general 2021-12-12 02:42:25 <@!849557593046777886>
+plane-crazy 2022-08-10 02:15:22 we need to limit tnt balls to 20 of em.
+plane-crazy 2022-08-10 02:15:29 I'm so tired of the spam of them.
+plane-crazy 2022-08-10 02:18:59 Its your choice, but you will be hated by the community, if you don't want that fate, try building something that requires more effort.
+plane-crazy 2022-08-10 02:19:39 I can't stop you\
+general 2022-10-04 00:37:30 I am sharing a plot with a guy for some reason
+general 2022-10-04 00:37:37 I can't blacklist him, he spawns back
+general 2022-10-04 00:38:24 8

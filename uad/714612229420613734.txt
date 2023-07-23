@@ -1,0 +1,20 @@
+The Tale of shatteredvessel (714612229420613734)
+bot-central 2021-03-05 21:38:12 /rhelp
+bot-central 2021-03-05 21:38:32 ?rhelp
+general 2021-04-01 18:52:50 gold bar for April fool go brrrrr
+general 2021-04-07 17:46:59 what do i need to do to submit pictures? i have a boat i wanna send into the ranking thing but i cant submit the pictures for proof
+general 2021-04-07 17:46:59 what do i need to do to submit pictures? i have a boat i wanna send into the ranking thing but i cant submit the pictures for proof
+general 2021-04-07 17:47:24 it not next to the thing
+general 2021-04-07 17:47:24 it not next to the thing
+general 2021-04-07 17:47:29 i did
+general 2021-04-07 17:47:29 i did
+general 2021-04-07 17:48:42 fricking makes microwave noises
+general 2021-04-07 17:48:42 fricking makes microwave noises
+general 2021-04-07 17:49:15 i cant put pictures anywhere
+general 2021-04-07 17:49:15 i cant put pictures anywhere
+general 2021-04-07 17:49:31 i read the thing
+general 2021-04-07 17:49:31 i read the thing
+general 2021-04-07 17:49:35 cant put them in
+general 2021-04-07 17:49:35 cant put them in
+help 2023-06-24 15:29:49 I attached a motor to make a gatling gun spin on a side arm of a mech, but whenever I add the motor the entire arm freaks out. I tried using helium and ballasts to try and balance its weight, but weight doesnt seem to be the problem. help?
+help 2023-06-24 16:25:25 in the video its at the lowest speed, with the current joints i have set up i dont know if i can change the torque or not

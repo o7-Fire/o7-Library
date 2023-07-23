@@ -1,0 +1,38 @@
+The Tale of kice00 (125457452320686081)
+bot-central 2020-05-12 15:17:55 ?shelp
+bot-central 2020-05-12 15:18:06 ?rhelp
+plane-crazy 2020-05-12 18:13:05 can I get ranked even though my creation is sub 200 or has helium parts?
+plane-crazy 2020-05-12 18:13:18 i got a bunch of likes on it
+plane-crazy 2020-05-12 18:13:30 i was wondering if i could use that success for something
+plane-crazy 2020-05-12 18:14:34 
+plane-crazy 2020-05-12 18:14:37 <@!331490905846448129>
+plane-crazy 2020-05-12 18:14:44 its not that much
+plane-crazy 2020-05-12 18:15:26 alright thx
+plane-crazy 2020-05-12 18:23:07 !
+help 2020-05-12 19:41:08 fellas why wont motor2 turn
+help 2020-05-12 19:42:06 i have just not been able to get it to do anything
+help 2020-05-12 19:42:15 a normal motor works in its place
+help 2020-05-12 19:42:19 but not motor 2
+help 2020-05-12 20:46:30 my servo is at 180 maxangle
+help 2020-05-12 20:46:45 and i set it to servo
+help 2020-05-12 20:46:47 it just wont do anything
+help 2020-05-12 20:46:54 actually when its just in normal mode it doesnt work either
+help 2020-05-12 20:46:59 yeah
+help 2020-05-12 20:47:09 yes
+help 2020-05-12 20:47:38 ill try that
+help 2020-05-12 20:49:52 yeah still nothing
+help 2020-05-12 20:49:57 it just doesnt do anything
+help 2020-05-12 20:50:05 i cant even get it to point to the mouse
+help 2020-05-12 20:50:15 i dont understand why it's not working
+help 2020-05-12 20:51:12 
+help 2020-05-12 20:55:40 well yeah
+help 2020-05-12 20:55:53 im trying to show that the settings are correct?
+help 2020-05-12 20:59:30 I need help so badly
+help 2020-05-12 20:59:35 i cant play half of the game because of this
+help 2020-05-12 21:04:35 ok so i found out what the problem is
+help 2020-05-12 21:04:47 it wont work if it's not directly attached to the main body
+help 2020-05-12 21:05:14 does this mean i cant have motor2's on a mech???
+bug-reports 2020-05-12 21:21:21 motor 2 doesn't work if it's not part of the body that the player is sitting in
+plane-crazy 2020-05-12 21:28:07 is it possible to pilot a craft with your friends?
+plane-crazy 2020-05-12 21:28:22 like have your friend take over if he wants to
+bug-reports 2020-05-15 01:19:52 <@!527653676022628353> did you try loading the save?

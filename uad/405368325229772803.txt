@@ -1,0 +1,8 @@
+The Tale of blade001 (405368325229772803)
+help 2021-04-22 12:04:33 Is there a way to stop motors going past a certain point? Or will they always go in circles if you hold down the button?
+help 2021-04-22 12:06:13 K, thanks, I'll check.
+help 2021-04-28 08:09:27 Does anyone know how I can make my ship stop tipping over like this?
+I already have helium blocks and ballast tanks, but they only stop it from tipping over completely, the ship still leans over.
+help 2021-04-28 08:10:11 I've done that as well.
+help 2021-04-28 08:10:33 The bottom line is 3 wide and all ballast beams.
+help 2021-04-28 08:11:02 K, I'll see.

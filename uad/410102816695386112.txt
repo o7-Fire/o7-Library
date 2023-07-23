@@ -1,0 +1,167 @@
+The Tale of verydeeppockets (410102816695386112)
+general 2021-09-26 00:02:24 Hello.
+bot-central 2021-09-26 00:04:04 ?shelp
+bot-central 2021-09-26 00:04:19 ?rhelp
+general 2021-09-27 12:36:16 I guess I’m bad at building planes.
+general 2021-09-27 12:38:12 It’s kinda funny how people are talking about a correct landing gear and such and I cannot say anything because my planes never fly.
+general 2021-09-27 12:39:53 Give full
+plane-crazy 2021-09-27 18:47:10 I’m quite bad at building planes.
+plane-crazy 2021-09-27 18:47:39 I mean, they never fly when I build them XD
+plane-crazy 2021-09-27 18:48:02 So I kinda deleted every single I had
+plane-crazy 2021-09-27 18:48:20 What
+plane-crazy 2021-09-27 18:48:29 Bot, ya dum dum?
+plane-crazy 2021-09-27 18:49:25 I build technically some kind of wheeled mechs (?) and some of my buildings cannot even be classified as something particular.
+plane-crazy 2021-09-28 07:34:52 I made my wheeled mech fly without helium blocks. I guess today I will show a picture.
+plane-crazy 2021-09-28 07:35:14 I mean, I used 4 super rocket engines, but it’s somehow controllable.
+plane-crazy 2021-09-28 08:48:25 I made a futuristic APC, what should I paint it?
+plane-crazy 2021-09-30 13:31:13 Something is definitely wrong.
+plane-crazy 2021-09-30 13:31:25 Uh I cannot send picture
+plane-crazy 2021-09-30 13:34:33 How can I send picture? Do I need to be more level?
+plane-crazy 2021-09-30 13:35:35 What level anyway?
+plane-crazy 2021-09-30 13:35:56 I mean, that thing might not be worth showing, but I want someone see it.
+plane-crazy 2021-09-30 13:36:17 Oh. I see.
+general 2021-09-30 13:43:19 I also just remembered that I have a bridge builder.
+plane-crazy 2021-09-30 13:43:39 I just remembered.
+plane-crazy 2021-09-30 13:43:52 I have a mobile bridge builder.
+plane-crazy 2021-09-30 13:46:03 But I definitely need my bridge be better at kinda placing
+plane-crazy 2021-09-30 13:46:25 Sadly it requires anchors so others would be able to ride on it.
+plane-crazy 2021-09-30 13:47:35 So the material still does something?
+help 2021-09-30 13:48:20 Do the different materials affect block strength in PvP?
+help 2021-09-30 13:48:49 For example, can metal endure more damage than normal one?
+plane-crazy 2021-09-30 13:53:40 Well. Do I level up just like everywhere, by writing messages?
+plane-crazy 2021-09-30 13:54:00 I guess this will be last question for today.
+plane-crazy 2021-09-30 13:54:22 I’m quite new to this Discord server but I already like it.
+plane-crazy 2021-09-30 14:14:21 Can I ask for help?
+plane-crazy 2021-09-30 14:14:47 I wanted to make a giant gun shooting cutters, accelerating them with magnet.
+plane-crazy 2021-09-30 14:15:57 I kinda even made clip with 10 ammo (basically two cutters connected) and made a clip special so they would drop in gun and kinda be shot. But they didn’t work at all.
+plane-crazy 2021-09-30 14:16:51 I mean, they didn’t even drop in gun. Is there any way to solve that?
+plane-crazy 2021-09-30 14:17:56 So basically the bullets are just stuck.
+plane-crazy 2021-09-30 14:18:58 I even made a system that could reload gun by inserting another mag, but what is the point if bullets cannot leave barrel?
+plane-crazy 2021-09-30 14:19:31 Woah.
+plane-crazy 2021-09-30 14:19:59 How to make that thin blocks?
+plane-crazy 2021-09-30 14:21:34 Oh wait I can send pictures.
+plane-crazy 2021-09-30 14:21:45 Guess what is wrong there.
+plane-crazy 2021-09-30 14:28:06 Is there any way to counter shredder bugs?
+plane-crazy 2021-09-30 14:28:35 Hm. I seeS
+plane-crazy 2021-09-30 14:29:12 I kinda have a CQC mech with blades on arms, but when they hit torso it’s a bruh moment.
+plane-crazy 2021-09-30 14:30:08 Well…I can show my smallest mech.
+plane-crazy 2021-09-30 14:31:12 Wait a bit.
+plane-crazy 2021-09-30 14:35:42 My PC cannot open Discord so I need to kinda reset
+plane-crazy 2021-09-30 14:36:59 Here
+plane-crazy 2021-09-30 14:37:14 It’s technically not a mech
+plane-crazy 2021-09-30 14:37:33 But still works like one, and unusually, it has controllable flight.
+plane-crazy 2021-09-30 14:38:07 With super rocket engines.
+plane-crazy 2021-09-30 14:38:22 Honesty I just wanted to let it jump, but it can straight up fly.
+plane-crazy 2021-09-30 14:38:54 And due to some bug motors on its legs allow me to tilt it and fly forward or backwards.
+plane-crazy 2021-09-30 14:45:22 What
+plane-crazy 2021-09-30 14:47:43 What did I make
+plane-crazy 2021-09-30 14:48:38 People always see different thing.
+plane-crazy 2021-09-30 14:50:05 I actually made some suspensions, some trails and a motor on anchor.
+plane-crazy 2021-09-30 14:52:12 I wish the bigger map was released
+plane-crazy 2021-09-30 14:56:00 Might look unusual
+general 2021-09-30 14:56:47 FPS mode
+plane-crazy 2021-09-30 14:57:20 Well i tried
+plane-crazy 2021-09-30 14:57:34 As much as I remember, they cannot be seen on cameras.
+plane-crazy 2021-09-30 14:58:21 Hm
+plane-crazy 2021-09-30 14:58:27 I will try again
+plane-crazy 2021-09-30 15:03:05 Ah I got what is the problem
+plane-crazy 2021-09-30 15:03:20 Actually green is already glass.
+plane-crazy 2021-09-30 15:03:41 And seems that you cannot see signs through glass.
+plane-crazy 2021-09-30 15:04:03 I got it.
+plane-crazy 2021-09-30 15:04:32 Well, the mech itself is very big.
+plane-crazy 2021-09-30 15:04:43 But not folded
+plane-crazy 2021-09-30 15:05:05 Here it is
+plane-crazy 2021-09-30 15:05:34 Actually I’m not the best at building them
+plane-crazy 2021-09-30 15:05:56 But the mech somewhat works nice for PvP
+plane-crazy 2021-09-30 15:06:27 All my mechs are PvP.
+plane-crazy 2021-09-30 15:49:53 What if you wanted to normally play PvP but god said...
+plane-crazy 2021-10-01 11:45:10 What the hell, Roblox?
+plane-crazy 2021-10-01 11:45:30 Why so much recv and sent everywhere?
+plane-crazy 2021-10-01 11:46:17 I guess this is Roblox problem, not players’
+plane-crazy 2021-10-01 11:47:13 I hope this won’t affect the gameplay?
+help 2021-10-03 17:10:33 Is there any way to evade Roblox chat filter in signs?
+help 2021-10-03 17:15:22 Well, it doesn’t want to work like that and it seems that…7 symbols words be die
+plane-crazy 2021-10-03 17:17:18 How to bypass filter?
+plane-crazy 2021-10-03 17:21:24 NVM I did it
+plane-crazy 2021-10-04 13:15:08 I’m currently continuing the building, it doesn’t seem difficult anyway.
+plane-crazy 2021-10-04 13:48:18 Guess what I'm building
+plane-crazy 2021-10-04 13:48:43 Didn't guess
+plane-crazy 2021-10-04 13:49:11 Teehee
+plane-crazy 2021-10-04 13:52:22 You guessed it!
+plane-crazy 2021-10-04 13:52:51 I guess it will take some time to paint
+plane-crazy 2021-10-04 13:53:07 But damn, it's already my biggest build
+plane-crazy 2021-10-04 15:20:14 I hope the reports chat opens soon
+plane-crazy 2021-10-04 15:25:58 Look, I tried to make my build stable like this. Is it okay or should I try with suspensions?
+plane-crazy 2021-10-04 15:27:07 I made the pistons have low power
+plane-crazy 2021-10-04 15:30:16 Yeah, but my build spawns above water.
+plane-crazy 2021-10-04 15:30:27 Ik.
+plane-crazy 2021-10-04 15:30:38 I’m trying to work on that anyway.
+plane-crazy 2021-10-04 15:31:35 Thanks for advice tho.
+plane-crazy 2021-10-04 15:59:11 A person made a normal truck: 9 people liked, 17 disliked
+
+A person made a mediocre tank but the background was sunset with max graphics:
+43 people liked, 3 disliked
+plane-crazy 2021-10-04 16:04:37 Just a situation in creations channel.
+plane-crazy 2021-10-04 16:05:13 Lemme find
+plane-crazy 2021-10-04 16:07:22 The APC https://discord.com/channels/384021699466756103/384025409945337856/894483871679258634
+plane-crazy 2021-10-04 16:07:49 That is just the sun with shaders lol
+plane-crazy 2021-10-04 16:09:07 And the truck with realistic suspension got downvoted
+plane-crazy 2021-10-04 16:09:42 Timing now decides that build it good?
+plane-crazy 2021-10-04 16:09:47 Wow.
+plane-crazy 2021-10-04 16:10:15 It’s of course detailed and such, but I’ve seen many detailed builds.
+plane-crazy 2021-10-04 16:10:46 I guess I understand now, quality doesn’t matter if you are just a photographer.
+plane-crazy 2021-10-04 16:11:16 And if you have shaders mods too. Great.
+plane-crazy 2021-10-04 16:11:48 No, I’m not really expecting anyone to agree, did I say that anywhere?
+plane-crazy 2021-10-04 16:12:49 Godzilla is pretty nice, I prefer judging by the idea and not by the picture quality. Also I’m not crying, you seem bombing more than me here.
+plane-crazy 2021-10-04 16:13:40 So you shouldn’t see crying everywhere where you want to see it.
+plane-crazy 2021-10-04 16:14:11 But the concept, idea?
+plane-crazy 2021-10-04 16:14:58 The angle makes it look taller.
+Is it from Gundam?
+plane-crazy 2021-10-04 16:15:20 Maybe…you could show me an example?
+plane-crazy 2021-10-04 16:16:58 A nice plane got downvoted.
+plane-crazy 2021-10-04 16:22:49 Hm.
+bot-central 2021-10-08 15:07:36 !shelp
+bot-central 2021-10-08 15:07:51 !shelp
+bot-central 2021-10-08 15:08:22 ?shelp
+bot-central 2021-10-08 15:14:30 &suggest
+[Building]
+Add a function that allows to “open” the building on your plot for your friends. So people could cooperate when they build something very big. Maybe there could be like special list, where the chosen players get permission to cooperate with you.
+Also a function allowing to “Download” a certain build, basically copying it, but the person whose build is being downloaded must allow that in settings.
+bot-central 2021-10-08 15:14:55 !help
+bot-central 2021-10-08 15:15:44 & &suggest
+[[Building]
+Add a function that allows to “open” the building on your plot for your friends. So people could cooperate when they build something very big. Maybe there could be like special list, where the chosen players get permission to cooperate with you.
+Also a function allowing to “Download” a certain build, basically copying it, but the person whose build is being downloaded must allow that in settings.]
+bot-central 2021-10-08 15:16:36 Alright, not today.
+bot-central 2021-10-08 15:45:31 Definitely.
+bot-central 2021-10-08 15:45:37 Or maybe I’m not ranked.
+general 2021-10-10 10:56:14 So the Plane Crazy 2 is being developed?
+general 2021-10-10 11:00:26 What.
+general 2021-10-10 11:01:28 I see. So that all is just some trolling.
+general 2021-10-10 11:01:38 I got it.
+plane-crazy 2021-10-10 11:02:04 Cool tonk
+plane-crazy 2021-10-10 11:03:12 Upvoted!
+plane-crazy 2021-10-10 11:03:40 I also have some futuristic thing with hovers, but I’m having hard time with painting it.
+plane-crazy 2021-10-10 11:04:31 What color should I paint a futuristic APC?
+plane-crazy 2021-10-10 11:04:51 I mean I have it for long time:
+plane-crazy 2021-10-10 11:05:06 Yesterday I was checking all my builds and just found out I had one.
+plane-crazy 2021-10-10 11:05:32 I don’t have a pic currently, will def show you as soon as I can.
+plane-crazy 2021-10-10 11:06:03 But it’s all white and not painted.
+plane-crazy 2021-10-10 11:07:55 Well, the movement might surprise you a bit.
+plane-crazy 2021-10-10 11:10:20 My tilts the hovers to accelerate.
+plane-crazy 2021-10-10 11:10:48 But since the build is old, it might look a bit ugly.
+plane-crazy 2021-10-10 11:11:12 Yep.
+plane-crazy 2021-10-10 11:11:30 Yes. It has a turret on top.
+plane-crazy 2021-10-10 11:12:02 Four fireworks.
+plane-crazy 2021-10-10 11:13:40 I also made unusual way to open it so others could move inside. I made it without trapdoors and such. Only used two pistons.
+plane-crazy 2021-10-10 11:13:54 Woah.
+bug-reports 2022-03-09 08:20:27 There is a bug regarding cutters and pistons. If a cutter block is attached to piston, it just stops working.
+bot-central 2022-03-09 08:34:14 &suggest
+[OTHER]
+Make it possible to make certain creations possible to copy for other players so people could kind of share their builds. The sharing function could also make it possible/impossible to add more blocks, set mechanisms up differently or recolor. This would give us the possibility to give others our builds without needing to tell them how it works and what must be done to build such things.
+plane-crazy 2022-05-24 09:09:51 Hey guys.
+plane-crazy 2022-09-16 05:37:39 How do I counter shredders in PVP? 
+Except for Alt+F4.
+general 2022-09-23 21:52:21 Damn I found a lag machine
+general 2022-09-23 21:52:30 It’s a pity reports are not working
+general 2022-09-23 21:56:27 True

@@ -1,0 +1,182 @@
+The Tale of wheatley_the_weasel (582552669307011107)
+help 2021-11-16 23:42:30 How do I make motors that turn without key-prompts?
+help 2021-11-16 23:44:11 I'm trying to make a flatbed for the rails, but the bogeys won't turn on the bends
+help 2021-11-16 23:45:36 Still derailed
+help 2021-11-16 23:48:34 I did
+help 2021-11-16 23:49:01 I did
+help 2021-11-16 23:51:25 I wasn't even going fast
+help 2021-11-16 23:52:21 I didn't have this problem with my railway gun, so I don't get what's happening now
+help 2021-11-16 23:52:55 (It was too low)
+help 2021-11-16 23:54:14 :mario_pain:
+general 2022-01-24 02:07:40 How do I send images in <#498473314445033472>?
+general 2022-01-24 02:10:19 All I asked was a simple question, jeez, Max
+general 2022-01-24 02:17:53 Was it really necessary to call me an idiot? "READ FUCKING <#925522972586967092>" would've been fine by itself
+bug-reports 2022-01-24 02:20:31 Not really a bug, but these points here, particularly the track coming from my avatar's right, are too aggressive and are guaranteed to derail your builds
+bug-reports 2022-01-24 02:20:33 https://cdn.discordapp.com/attachments/831610726216499200/934995992938414080/unknown.png
+bug-reports 2022-01-24 02:21:23 (I can't put images here, so you'll have to follow the image link. Sorry.)
+bug-reports 2022-01-24 02:22:16 Yeah, on my end I don't have that plus button to add files and stuff like that
+bot-central 2022-01-24 02:23:48 !rank
+general 2022-01-24 02:25:00 I'm currently working on a General Electric AC4400CW but right now, I'm focusing mainly on the chassis
+general 2022-01-24 02:25:10 Making sure it can handle curves and such
+bug-reports 2022-01-24 02:28:09 So it's intentionally that sharp?
+bug-reports 2022-01-24 02:30:41 Now that I test these C-trucks on these points, I see a lot of them have pretty aggressive angles
+bug-reports 2022-01-24 02:38:30 Same thing with B-trucks
+bot-central 2022-01-24 03:07:10 !rank
+general 2022-01-24 03:08:05 So earlier I said I was working on a GE AC4400CW, which is an American diesel
+general 2022-01-24 03:08:30 And I tried to make the knuckle coupler (Janney coupler)
+general 2022-01-24 03:10:39 I failed miserably https://cdn.discordapp.com/attachments/836645267008782388/935008560427966484/0fMhpP95iTSOsAAAAASUVORK5CYII.png
+general 2022-01-24 03:14:38 Tried to fix the coupler
+https://cdn.discordapp.com/attachments/836645267008782388/935009535498784798/unknown.png
+bot-central 2022-01-24 03:18:49 3 i think
+bot-central 2022-01-24 03:18:52 !rank
+general 2022-01-24 03:20:20 American diesels are a bit hard to build
+general 2022-01-24 03:20:35 !rank
+general 2022-01-24 03:21:01 Diesel locomotives
+general 2022-01-24 03:21:30 I'm currently building a General Electric AC4400CW locomotive
+bot-central 2022-01-24 03:21:35 !rank
+creations-chat 2022-01-24 03:22:51 How does this knuckle coupler look?
+creations-chat 2022-01-24 03:25:06 (Real Janney couplers for reference)
+creations-chat 2022-01-24 03:30:31 I tried to make it smaller so I can have one on both ends and have enough room for the snow plow things
+creations-chat 2022-01-24 03:33:44 This site has eight images showing different views of the loco: https://www.turbosquid.com/3d-models/ge-ac4400cw-canadian-3d-model/288780
+creations-chat 2022-01-24 03:52:02 Shortened my entire build by one block to add a motor locked couple to each end
+creations-chat 2022-01-24 04:03:48 Tried to make that snowplow thing
+creations-chat 2022-01-24 04:48:28 Finished the chassis, now I've got to move on to the cab and main body. How does it look?
+bot-central 2022-01-24 05:11:26 &suggest
+[Wedge Signs]
+
+[Building]
+
+A 1x1 or 1x2 wedge that has the functionality of a sign and displays text on the sloped edge. Great for number boards on locomotives and other things. (Probably not getting accepted but I tried 🙂)
+creations-chat 2022-01-24 05:27:21 Built from visual reference and my excruciating attention to detail
+creations-chat 2022-01-24 15:28:08 Tried to make handrails
+creations-chat 2022-01-24 15:31:48 Thing's painted grey so I can see parts easier, handrails a colored black to see them. Though, I did do the handrails incorrectly
+creations-chat 2022-01-24 15:55:19 Livery test
+help 2022-01-24 16:07:32 How do I mash two wedges into the same block space?
+creations-chat 2022-01-24 17:31:20 Finished the cab
+creations-chat 2022-01-24 17:33:26 The cab of a GE AC4400CW
+creations-chat 2022-01-24 17:37:20 That yellow stripes for a different livery and rail company. And I couldn't figure out some of the stuff
+creations-chat 2022-01-24 17:41:41 Is this better?
+creations-chat 2022-01-24 17:43:45 What's wrong with it now?
+creations-chat 2022-01-24 17:45:51 how?
+creations-chat 2022-01-24 17:49:29 I started playing two years ago...
+creations-chat 2022-01-24 17:59:27 What is angle locking? I've literally never heard of it
+creations-chat 2022-01-24 18:06:05 As I've already said, the reason the colors are different is because it's a different railroad company
+creations-chat 2022-01-24 18:37:59 Tried to improve the loco's front (Ignore the wing lights, those are temporary at the moment)
+creations-chat 2022-01-24 18:41:02 This is the livery I'm trying to do. (Yes, I know there's hazard stripes on the plow thing.)
+creations-chat 2022-01-24 18:44:06 Okay.
+Also, nose lights
+creations-chat 2022-01-24 18:48:57 Who's this for?
+creations-chat 2022-01-24 18:51:04 Can't. I'm using stock train wheels and if I put more space between them the trucks won't be able to handle the curves.
+Detailing I might be able to squeeze in without them having a stroke
+creations-chat 2022-01-24 19:05:36 Took the yellow from my Stuka and put it on the loco (The yellow going onto the trapdoor)
+creations-chat 2022-01-24 19:12:31 Don't ask, I don't know how I did this either
+creations-chat 2022-01-24 19:20:22 Attempted Hazard Stripes
+https://cdn.discordapp.com/attachments/836645267008782388/935253036731875338/unknown.png
+creations-chat 2022-01-24 19:35:11 Yeah, this new windshield looks like garbage...
+creations-chat 2022-01-24 19:41:33 Wrong loco. It's supposed to be a GE AC4400CW, but some parts of it are being problematic
+creations-chat 2022-01-24 20:00:35 
+creations-chat 2022-01-24 20:02:48 What? I don't understand
+creations-chat 2022-01-24 20:26:43 
+creations-chat 2022-01-24 20:28:50 You guys want this to be a tutorial?
+creations-chat 2022-01-24 21:01:04 How many blocks back should the top yellow go? (Currently four blocks)
+creations-chat 2022-01-24 21:09:13 
+creations-chat 2022-01-24 21:12:03 IRL Photo of the locomotive
+creations-chat 2022-01-24 21:14:08 The colors should be correct at this point
+creations-chat 2022-01-24 21:16:30 Of course. I forgot I could do that.
+creations-chat 2022-01-24 21:24:58 Now it looks like this
+creations-chat 2022-01-24 21:27:43 Anyways now that I've changed the material, how many blocks back should that orange-yellow color go?
+creations-chat 2022-01-24 21:48:12 The rest of the body's forming now
+creations-chat 2022-01-24 22:02:21 Main body is finished.
+Now to add finer details such as handrails, lights, horns, etc.
+creations-chat 2022-01-24 22:29:56 Doing some retexturing and adding parts I didn't see before
+creations-chat 2022-01-24 23:25:35 Another W.I.P.
+bug-reports 2022-01-25 00:48:10 I don't know how I managed to do this...
+creations-chat 2022-01-25 00:49:48 Got the handrails on the right-hand side
+help 2022-01-25 01:33:29 How would I put a row of trails across the top of the bright red bars
+general 2022-02-26 23:06:10 I just had a stupid idea
+general 2022-02-26 23:06:44 But, question: It's it possible to make a system to launch items via conveyors?
+general 2022-02-26 23:07:32 I got space to work with
+bot-central 2022-02-27 02:02:22 ?shelp
+bot-central 2022-02-27 02:02:52 !rank
+bot-central 2022-02-27 03:08:28 &suggest "Quarter Block"
+
+[Building]
+
+In essence, the Quarter Block would be a standard Half Block with a minor change. It would be cut in half down the middle so that one side/ corner of the block space contains the actual block.
+
+Basically Half Wedge from the Half Block category, but not wedge and rather a block.
+plane-crazy 2022-02-27 03:09:28 How do I stop my build from spastically swiveling?
+plane-crazy 2022-02-27 03:10:58 
+plane-crazy 2022-02-27 03:12:55 So you've already been chosen via selective service?
+plane-crazy 2022-02-27 03:13:55 America?
+help 2022-02-27 03:16:15 How do I stop my build from spastically swiveling?
+help 2022-02-27 03:16:44 He's a better image:
+plane-crazy 2022-02-27 03:18:57 But I really need help figuring this one out:
+plane-crazy 2022-02-27 03:19:14 [Note: Haven't built the outer shell yet]
+plane-crazy 2022-02-27 18:14:44 
+plane-crazy 2022-02-27 18:25:21 
+help 2022-02-27 19:01:51 This sounds stupid, I know, but how do I build the motor for folds?
+help 2022-02-27 19:02:20 I forgot
+plane-crazy 2022-02-27 19:03:43 How do I build a fold?
+plane-crazy 2022-02-27 19:05:33 But what do I do? I legitimately forgot what to do
+plane-crazy 2022-02-27 19:09:03 I remember the time I tried to build a star destroyer... and failed miserably
+plane-crazy 2022-02-27 19:55:39 
+creations-chat 2022-02-27 19:55:50 
+creations-chat 2022-02-27 20:03:28 How does this look so far? (Still haven't finished the Shield Generators)
+help 2022-02-27 20:11:07 Another stupid question, but how do I make something like this laser thing:
+creations-chat 2022-02-27 20:20:15 W.I.P. number I don't even know anymore
+creations-chat 2022-02-27 20:24:26 Regent Mothership (Inactive state)
+[Sorry but the top of the ref image here is missing]:
+creations-chat 2022-02-27 20:26:49 What do you mean by fix the geometry?
+creations-chat 2022-02-27 20:29:09 Those are shield generators. I'm still working on adding the lasers
+bug-reports 2022-02-28 22:12:09 Build isn't sinking like normal
+bug-reports 2022-02-28 22:12:23 It should be a lot deeper in the water
+plane-crazy 2022-02-28 23:12:43 Do smoke pipes light up like snow pipes do or no?
+help 2022-02-28 23:37:08 Does there have to be a space between blocks to motorlock?
+help 2022-02-28 23:38:04 Context:
+plane-crazy 2022-03-01 00:20:15 
+creations-chat 2022-03-01 02:41:34 The platforms light up now
+bug-reports 2022-08-01 22:12:20 Smoke pipes have stopped working
+bot-central 2022-08-19 16:15:08 &suggest [More Cylinder Sizes]
+
+[Building]
+
+Basically more cylinder sizes for players going for larger cylindrical builds. 
+For example: like a 7x7 cylinder, or a 9x9.
+bot-central 2022-08-19 17:17:08 Can't. Nothing will make a shape like it
+bot-central 2022-08-19 17:20:54 Not exactly gonna work like that
+bot-central 2022-08-19 17:22:50 If this is gonna turn into rant just to shit on whitenames I'm going to go away
+bot-central 2022-08-19 17:25:00 I know, but it's not exactly easy for someone like me to rank up in here, because I am not here 24/7
+help 2022-08-20 22:03:13 Question about motors: Is there a way to keep them from jolting  when I use them?
+help 2022-08-20 22:06:58 Make a locomotive
+help 2022-08-20 22:07:11 And the wheels jolt when I make them move
+help 2022-08-20 22:27:38 
+help 2022-08-20 22:29:57 I'm saving him for last
+help 2022-08-20 22:30:10 I actually want to start with Oliver
+help 2022-08-21 00:06:49 How would I motor lock it so that that top piece of the boiler goes where it needs to?
+help 2022-08-21 00:38:55 I've motor locked before, it's just not a technique I commonly use
+help 2022-08-21 00:39:52 There's only, like, two things I've motor locked
+help 2022-08-21 00:40:03 everything else is pretty much a solid build
+help 2022-08-21 00:42:22 
+help 2022-08-21 00:43:10 I don't know what you mean by 'lock tower'
+help 2022-08-21 00:44:20 Why do I feel like I'm just gonna get aggravated by this?
+help 2022-08-21 00:46:05 Saw this coming from a mile away... <:hahaa:773727260539617280>
+help 2022-08-21 00:47:03 Look if you're just here to be 'funny' and not be helpful, you're in the wrong channel
+help 2022-08-21 00:47:30 This is the <#478584971670454284> channel
+help 2022-08-21 00:47:40 thanks
+help 2022-08-21 00:48:16 Is there a maximum of how much I can compress it?
+help 2022-08-21 00:49:50 So I could, theoretically, get the boiler to fit together seamlessly?
+help 2022-08-21 00:50:13 aight, give me a minute
+help 2022-08-21 00:52:08 Does the trail have to be horizontally oriented?
+help 2022-08-21 00:55:00 well... this happened...
+help 2022-08-21 00:56:10 welp, time to make this thing lonk
+help 2022-08-21 00:59:50 Almost got it
+help 2022-08-21 01:00:39 now I need to figure out what I need to do to make it line up perfectly
+help 2022-08-21 01:02:22 That's an issue
+help 2022-08-21 01:02:37 I can't actually do that
+help 2022-08-21 01:13:03 I'm trying to stay as accurate to the source image as I can
+help 2022-08-21 01:42:47 
+help 2022-08-21 01:42:53 Finally got it
+help 2022-08-21 01:47:45 
+bug-reports 2022-08-21 15:51:35 Emh...
+general 2023-04-19 23:03:04 Hey, quick question since it's been a while since I've played, how many firework launchers are there?

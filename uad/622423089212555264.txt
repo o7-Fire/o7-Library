@@ -1,0 +1,241 @@
+The Tale of Emperor Peanut (622423089212555264)
+plane-crazy 2022-03-03 03:05:32 Question guys what is the density needed for perfect balance in water (Ballast Blocks)?
+plane-crazy 2022-03-03 03:06:24 I don’t have that
+plane-crazy 2022-03-03 03:06:31 Big sad
+plane-crazy 2022-03-03 03:06:45 Oof
+plane-crazy 2022-03-03 03:09:15 I see people who have torpedos that don’t move up or down under water how?
+help 2022-03-18 16:18:51 When ever i move forward in my sub under water the bow goes up and its kind of annoying is there a way to fix that?
+help 2022-03-18 16:20:16 so like move the engine to the center?
+help 2022-03-18 16:23:57 wdym by putting a small engine above?
+help 2022-03-18 16:25:44 k
+help 2022-03-18 22:29:04 if i wanted to make a flying ship what engine/motor should i use?
+help 2022-03-19 13:43:23 hey guys how do i make something levitate high and be controllable like move up and down?
+help 2022-03-19 14:42:13 may i ask how your going to make it go up and down cuz i am learning to try to make a flying boat.
+help 2022-03-19 14:43:52 ok thx
+help 2022-03-19 14:45:06 btw does a ballast tank work like a controllable counter weight on ground?
+bug-reports 2022-04-02 14:23:15 so is it a game mechanic or an bug?
+plane-crazy 2022-06-18 23:40:02 can someone tell me how to make a big loaf of bread that looks good
+help 2022-07-20 18:55:17 how to fix my turret swinging around i know it has something to do with motor?
+help 2022-07-20 20:00:28 like the turret swings back and forth and like vibrates
+help 2022-07-20 20:04:42 would a motorlock on top of a motor 2 be causing it?
+bot-central 2022-07-21 02:20:25 !shelp
+bot-central 2022-07-21 02:20:48 ?shelp
+bot-central 2022-07-21 02:21:16 ?rhelp
+bot-central 2022-07-21 02:38:27 !rank
+help 2022-07-21 02:39:43 try motor locking the barrel from the outside into the turret thats how i make my turrets
+help 2022-07-21 02:43:24 Check the wiki it should give you info on the length and wing span
+help 2022-07-21 02:44:21 or any site that gives info should do
+help 2022-07-21 02:45:42 thx i guess
+help 2022-07-21 02:52:27 yes i agree
+help 2022-07-21 03:09:21 Use Wedges or custom angles
+bug-reports 2022-07-21 03:13:53 I have a Save Slot which is stuck on one version of my tank everytime i update it and save it always loads the old version
+bot-central 2022-07-21 03:45:47 !rank
+bot-central 2022-07-21 03:45:55 So close
+help 2022-07-21 03:48:53 📸
+creations-chat 2022-07-21 03:53:57 Legend says that no mortal brain can understand this knowledge.
+bot-central 2022-07-21 05:24:53 !rank
+help 2022-07-21 13:30:35 https://streamable.com/fottgg
+help 2022-07-21 13:49:19 you might have to make your turret bigger
+help 2022-07-21 13:50:15 something is connected to the barrel
+help 2022-07-21 14:08:47 i think your turret is too small for it
+bot-central 2022-07-21 14:09:22 !rank
+help 2022-07-21 14:33:55 Use magnets to weld them on them blow them off
+help 2022-07-21 14:35:05 well if you mess with the setting i think you can weld any blocks together
+help 2022-07-21 14:35:19 thats how i weld my ships
+help 2022-07-21 14:36:22 no like when the blocks are touching activate its weld ability
+bot-central 2022-07-21 21:38:15 ?rhelp
+help 2022-07-22 14:31:08 add track armor if you can
+bot-central 2022-07-22 18:42:28 !rank
+bot-central 2022-07-22 19:11:21 ?shelp
+bot-central 2022-07-22 19:16:40 ?rhelp
+help 2022-07-22 21:54:11 try using the motor but place it a block away
+help 2022-07-22 21:54:25 trial and error
+help 2022-07-22 21:54:33 thats how i lerned
+help 2022-07-22 21:56:23 sorry man not possible due to the fact that the motor has to be in middle
+bot-central 2022-07-22 22:52:14 !rank
+bot-central 2022-07-23 03:48:08 !rank
+bot-central 2022-07-23 03:48:26 !rank
+bot-central 2022-07-23 16:13:47 -server
+bot-central 2022-07-25 20:54:53 !rank
+plane-crazy 2022-07-28 15:29:07 Summer is Almost Over where PC2
+plane-crazy 2022-07-28 15:31:08 even if its heavily bugged and map unfinished i still want it early
+plane-crazy 2022-07-28 15:32:33 rick should atleast give a status update
+plane-crazy 2022-07-28 15:33:14 i would pay top dollar if i could get early acess
+creations-chat 2022-08-10 01:32:44 rip
+creations-chat 2022-08-10 01:34:46 everyone knows the name but no one dares to tell how they know
+creations-chat 2022-08-10 01:37:31 he who is wise dares not tell where they find it
+plane-crazy 2022-08-10 05:18:48 Yo when can we get a development update?
+plane-crazy 2022-08-10 05:20:22 What’s grass never heard of it
+plane-crazy 2022-08-10 05:20:52 Is it the green hair on the ground?
+bot-central 2022-08-10 05:21:45 !rank
+help 2022-08-10 22:35:18 Is there a way to make a ai bot that randomly moves and or follow other players without you controlling them?
+help 2022-08-11 14:41:03 Tell pls
+help 2022-08-11 14:44:59 Oh so it not possible to make it normally
+help 2022-08-12 03:40:06 Is there a way to make a working combination lock or something that works with a anchor block with no physics?
+help 2022-08-12 03:40:38 Did only ones that work with physics
+help 2022-08-12 03:41:08 Doesn’t hurt to ask does it?
+help 2022-08-12 03:41:35 What
+help 2022-08-12 03:41:43 What
+help 2022-08-12 03:42:01 Interesting
+help 2022-08-12 03:43:10 If say I disconnect a part of my build from the anchors does that part now have physics?
+help 2022-08-12 03:44:34 Like if I disconnect a part that I want to have physics
+help 2022-08-12 03:44:43 But the rest is locked
+help 2022-08-12 03:48:08 Ok let’s say I have a big build and I want it to be anchored without physics but I want a room to have physics so I can make a lock
+help 2022-08-12 03:48:58 But what if I disconnect that room from the build
+help 2022-08-12 03:49:12 And use a separate anchor with physics
+help 2022-08-12 03:49:22 Nice
+help 2022-08-12 05:03:15 Wdym
+help 2022-08-12 05:03:45 Like put stuff on top of the motor
+help 2022-08-12 05:04:38 Will it still lock everything into place?
+help 2022-08-12 05:06:01 And will it be a motor 1 or 2 also is it powered?
+help 2022-08-12 17:41:38 does roll to only one side or is it random?
+help 2022-08-12 17:42:25 so something is unbalanced
+help 2022-08-12 17:42:43 check all your engines and make sure they all work
+bot-central 2022-08-18 22:45:29 !rank
+plane-crazy 2022-08-19 03:18:54 Anyone got a update on the release of pc2 yet?
+plane-crazy 2022-08-19 03:21:31 Is that confirmed or just your thinking?
+plane-crazy 2022-08-19 03:21:43 Oof
+plane-crazy 2022-08-19 03:22:27 Probably delayed till next summer imo
+plane-crazy 2022-08-20 15:34:11 actually?
+plane-crazy 2022-08-20 15:35:07 I agree
+plane-crazy 2022-08-20 15:47:29 never its dead
+plane-crazy 2022-08-20 15:48:36 <:SoonTM:501066468629413916>
+general 2022-08-21 01:47:05 📸
+general 2022-08-21 01:47:25 caught in 4k
+help 2022-08-21 18:28:01 does magnets affect other players?
+bot-central 2022-08-21 21:41:07 !rank
+general 2022-08-28 17:50:27 i heard PC2 comes out when Queen Elizabeth dies so never
+plane-crazy 2022-08-28 17:58:41 lies
+help 2022-09-01 15:15:17 what does a paint block do?
+help 2022-09-04 02:38:57 If I have tnt on impact and ignore self does it explode when it touches my own build?
+the-dump 2022-09-04 18:27:56 my best game ever
+the-dump 2022-09-04 18:31:30 yes i have analyst here https://www.chess.com/game/live/56052947223
+plane-crazy 2022-09-19 18:30:50 Any new news on pc2?
+plane-crazy 2022-09-21 20:43:41 Do you have a counter rotor?
+plane-crazy 2022-09-21 20:44:48 By spin wdym
+plane-crazy 2022-10-07 20:00:46 pc2 never come out
+plane-crazy 2022-10-15 01:20:48 https://tenor.com/view/doug-maclean-doug-maclean-flying-pig-flying-pigs-gif-26114804
+help 2022-10-19 18:05:29 You can never fully cover it the texture is too great
+help 2022-10-19 18:06:09 Try 67
+help 2022-10-19 18:06:24 Something around That area
+help 2022-10-19 18:07:12 Yes
+help 2022-10-19 18:07:29 If not add and minus a bit
+help 2022-10-19 18:10:29 What color are your metal I use 99 as standered
+help 2022-10-19 18:11:17 Than idk 67 is for 99 color
+help 2022-10-19 18:13:24 Check if the the wings are attached to the main body
+help 2022-10-19 18:14:06 The picture is to small for me to give the answer
+help 2022-10-19 18:15:51 Replace the cash here with full blocks than test
+help 2022-10-19 18:15:59 Camera
+help 2022-10-19 18:16:28 Ok
+plane-crazy 2022-10-21 17:27:01 It taste the Same what’s the difference
+general 2022-10-21 17:30:55 https://tenor.com/view/drama-drama-queen-drama-llama-centaurworld-zulius-gif-24066127
+plane-crazy 2022-10-21 18:42:16 Who TF does that
+plane-crazy 2022-10-21 18:42:28 Aight you do you
+plane-crazy 2022-10-25 18:09:07 Can I get more of the back story?
+plane-crazy 2022-10-25 18:32:06 Do you know why he ghosted?
+plane-crazy 2022-10-25 18:33:01 Big sad
+plane-crazy 2022-10-25 18:33:38 I much rather have that Map than pc2
+plane-crazy 2022-10-25 18:49:09 https://tenor.com/view/shiny-letter-c-c-letter-dancing-letter-c-colored-c-gif-20701592
+plane-crazy 2022-10-25 18:50:38 There wasn’t any hope to begin with
+plane-crazy 2022-10-26 11:02:20 What type of door and how big
+plane-crazy 2022-10-26 17:36:49 https://tenor.com/view/of-to-gulag-gif-19230867
+plane-crazy 2022-10-26 19:42:17 He probably not even working on it
+plane-crazy 2022-10-27 17:51:06 ??? Motors already do that
+plane-crazy 2022-10-27 17:51:42 Idk what your doing but it already does
+plane-crazy 2022-10-27 17:52:05 Motor 2 follows mouse
+plane-crazy 2022-10-27 17:52:45 Wdym
+plane-crazy 2022-10-27 17:53:03 If you have the motor on the right settings it’s a almost a perfect stabilizer
+plane-crazy 2022-10-27 17:53:51 Alright there’s no helping him
+plane-crazy 2022-10-27 17:55:38 I have a feeling he is like 10years old there’s no way you don’t know what a gyro is
+plane-crazy 2022-10-27 17:56:24 It’s a stabilizer that is like a ball and socket joint that was used on a Sherman tank in ww2
+plane-crazy 2022-10-27 17:56:35 There
+plane-crazy 2022-10-27 17:56:50 https://tenor.com/view/facepalm-really-stressed-mad-angry-gif-16109475
+plane-crazy 2022-10-27 17:59:29 Let
+plane-crazy 2022-10-27 17:59:33 Left
+plane-crazy 2022-10-27 18:01:28 https://tenor.com/view/cursed-gif-25039102
+general 2022-10-27 18:04:45 https://tenor.com/view/letter-e-gif-9063749
+general 2022-10-27 18:06:31 https://tenor.com/view/tom-and-jerry-mouse-mice-swiss-cheese-eat-food-gif-20380925
+general 2022-10-27 18:06:54 Why no gif:(
+general 2022-10-27 18:08:53 <:nooo:787097964946259978>
+general 2022-11-01 18:47:48 Did it really?
+general 2022-11-01 18:48:41 Is there a message or screenshot
+general 2022-11-01 19:06:40 Use a magnet
+general 2022-11-01 19:07:33 You weld and
+general 2022-11-01 19:07:46 Yes
+general 2022-11-01 19:07:52 That’s how I connect ships
+general 2022-11-01 19:08:26 Than it’s not the games problem it’s yours
+general 2022-11-01 19:10:08 Dude just get it in position than weld
+general 2022-11-01 19:10:38 Wtf is that supposed to do
+general 2022-11-01 19:11:06 Bro it’s Roblox
+general 2022-11-01 19:13:28 Rick can’t even switch game season you think he will add new stuff
+plane-crazy 2022-11-09 19:19:17 Canceled
+plane-crazy 2022-11-11 14:19:18 There is no pc2
+general 2022-11-15 13:46:27 Women
+plane-crazy 2022-11-17 02:14:35 https://tenor.com/view/bh187-family-guy-peter-griffin-laugh-laughing-gif-21485227
+plane-crazy 2022-11-28 15:23:17 It releases when your dad comes back
+plane-crazy 2022-11-28 15:23:22 So never
+plane-crazy 2022-12-08 14:47:23 Atleast tell us if it’s canceled
+general 2023-01-03 18:20:49 <:trollface:775024642104229898>
+plane-crazy 2023-01-11 17:25:18 Never
+plane-crazy 2023-01-11 17:26:11 It comes when McDonald’s ice cream works
+plane-crazy 2023-01-11 17:26:21 Build shredder sword
+plane-crazy 2023-01-11 17:26:35 If you can beat them join them
+plane-crazy 2023-01-11 17:26:51 Can’t
+creations-chat 2023-02-16 19:29:09 It may be high effort but it ain’t good
+creations-chat 2023-02-16 19:31:50 Bro it looks like a shoe from the side no camo is hiding that
+creations-chat 2023-02-16 19:38:15 The entire tank has only 2 angles with a comically tall turret and no gun mantlet
+creations-chat 2023-02-16 19:51:55 so it aint even a tank atleast make the turrets move takes actually like 2 minutes
+plane-crazy 2023-02-21 16:11:55 Pc2 is not a thing
+plane-crazy 2023-02-21 16:12:00 And never will be
+general 2023-03-16 15:57:26 That is just a delusion
+general 2023-03-16 15:58:31 Japan Best 🇨🇳 🇨🇳 🇨🇳
+general 2023-03-16 15:59:08 <:empty:794431705070174238>
+general 2023-03-16 15:59:23 <:clueless:942802644043464734>
+general 2023-03-16 15:59:47 I demand you do it again
+general 2023-03-16 16:00:08 <:noway:1021283202561744977>
+general 2023-03-16 16:00:44 -10000 social credits 🇷🇺 🇷🇺 🇷🇺
+general 2023-03-16 16:02:12 Pc2 comes when the second coming of Jesus happens
+general 2023-03-16 16:02:49 Fake
+general 2023-03-16 16:03:48 Stop the conspiracy
+general 2023-03-16 16:04:41 Why do I have cooldown<:nooo:787097964946259978> <:nooo:787097964946259978> <:nooo:787097964946259978>
+general 2023-03-16 16:05:21 <:stuff:908917207986208828>
+general 2023-03-16 16:06:01 El Goofy Gooberos
+general 2023-03-16 16:06:19 Turn it black
+general 2023-03-16 16:06:43 Server wide coup
+general 2023-03-16 16:06:52 Over throw Rick
+plane-crazy 2023-03-19 22:46:20 <:noway:1021283202561744977>
+plane-crazy 2023-03-19 22:47:07 https://tenor.com/view/plane-crazy-gif-25805187
+plane-crazy 2023-03-19 22:47:49 No way this kid is older than 8
+plane-crazy 2023-03-19 22:48:44 That was so funny I forgot to laugh
+plane-crazy 2023-03-19 22:49:30 It’s for my entertainment
+plane-crazy 2023-03-19 22:50:42 Fake news
+plane-crazy 2023-03-19 22:51:07 <:clueless:942802644043464734>
+plane-crazy 2023-03-19 22:52:23 https://tenor.com/view/plane-crazy-gif-25805187
+the-dump 2023-04-07 03:05:28 
+the-dump 2023-04-07 03:05:35 dog
+the-dump 2023-04-07 03:07:20 its a deer in winter that has the wasting disease
+plane-crazy 2023-04-17 03:05:05 I need someone (who is GOOD) at chess to test something for me
+plane-crazy 2023-04-17 03:05:45 to play a test round on my chess crane thing
+plane-crazy 2023-04-24 13:16:04 PC2 when?!<:trollface:775024642104229898>
+plane-crazy 2023-05-27 17:38:31 can u show me how to make one of those?
+plane-crazy 2023-05-27 18:03:13 yeah i sigured it out
+plane-crazy 2023-06-16 01:30:15 <:clueless:942802644043464734>
+general 2023-07-07 15:44:42 <:clueless:942802644043464734>
+help 2023-07-09 00:58:17 did cutters get nerfed it does nothing my sword acts more like a baseball bat
+plane-crazy 2023-07-09 03:18:52 
+plane-crazy 2023-07-09 03:21:19 do i report this or whats the right procedure for this scenario 💀
+plane-crazy 2023-07-09 03:40:26 <:noway:1021283202561744977>
+plane-crazy 2023-07-09 03:51:28 Build pyramids but have it thank transform into a mech
+plane-crazy 2023-07-09 03:51:59 A house with tank tracks
+plane-crazy 2023-07-09 03:53:41 https://media.discordapp.net/attachments/1081680632557617152/1116180717345439934/Angru_Tote.gif
+plane-crazy 2023-07-09 03:53:56 tHe MAtrIX
+plane-crazy 2023-07-09 03:54:39 What update
+plane-crazy 2023-07-09 03:55:40 I felt no change at all
+plane-crazy 2023-07-09 03:56:55 All I read was he got rid of some hard code
+plane-crazy 2023-07-09 03:58:32 So how much is weight of normal block
+plane-crazy 2023-07-09 03:59:04 Yes cause it ain’t one and it’s annoying
+plane-crazy 2023-07-09 03:59:26 It’s something like 0.16
+plane-crazy 2023-07-09 03:59:35 If I recall from rumors
+plane-crazy 2023-07-09 03:59:39 Not sure
+plane-crazy 2023-07-09 04:00:30 I would just build a scale with on ballast
+plane-crazy 2023-07-09 04:00:45 And change the ballast slowly

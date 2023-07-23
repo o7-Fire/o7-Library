@@ -1,0 +1,473 @@
+The Tale of noob_17593649 (601416284520841227)
+plane-crazy 2021-04-03 11:55:07 hello
+plane-crazy 2021-04-03 11:55:34 where can i put stuff about a wrong translation?
+plane-crazy 2021-04-03 12:02:59 hello?
+plane-crazy 2021-04-03 12:03:25 i found a wrong translation in the game
+plane-crazy 2021-04-03 12:03:38 how do i report it?
+plane-crazy 2021-04-03 12:08:24 alright
+plane-crazy 2021-04-03 12:08:30 thank you
+bug-reports 2021-04-03 12:09:55 i would like to report a wrong translation
+bug-reports 2021-04-03 12:10:06 in the loading screen of plane crazy
+bug-reports 2021-04-03 12:10:13 a green message appears
+bug-reports 2021-04-03 12:10:52 "Like the game for more updates"
+bug-reports 2021-04-03 12:11:05 but in the portuguese translated version it is:
+bug-reports 2021-04-03 12:11:21 "Como o jogo para mais atualizações"
+bug-reports 2021-04-03 12:11:32 the thing is
+bug-reports 2021-04-03 12:11:58 like translated to portguese can have 2 meanings
+bug-reports 2021-04-03 12:12:03 one is the
+bug-reports 2021-04-03 12:12:30 Like (as in comparison)  translated it would be "como"
+bug-reports 2021-04-03 12:12:33 and
+bug-reports 2021-04-03 12:12:58 Like (as in liking, enjoying)  translated it would be "gostar"
+bug-reports 2021-04-03 12:13:14 so the green text should say
+bug-reports 2021-04-03 12:13:27 "Goste do jogo para mais atualizações"
+bug-reports 2021-04-03 12:46:43 So..
+bug-reports 2021-04-03 12:46:50 i found more wrong translation
+bug-reports 2021-04-03 12:46:55 way more wrong translation
+bug-reports 2021-04-03 12:47:05 they are everywhere
+bug-reports 2021-04-03 12:48:53 i can't put them all here
+bug-reports 2021-04-03 12:48:56 they are so many
+bug-reports 2021-04-03 12:49:01 but from what i found
+bug-reports 2021-04-03 12:49:09 "Beam" translation is wrong
+bug-reports 2021-04-03 12:49:20 "Block" translation is wrong in some cases
+bug-reports 2021-04-03 12:51:33 "Magnet" translation only supports 1 portuguese type (yes there are many portuguese languages, you have portuguese from Portugal, you have PALOP portuguese, you have portuguese from Brazil, you have portuguese from Asia, and portuguese from Timor)
+bug-reports 2021-04-03 12:52:13 "Conveyor" translation is also wrong but you can sort of understand what it means
+bug-reports 2021-04-03 12:52:46 "landing gear" translation is also wrong
+bug-reports 2021-04-03 12:53:11 "Spring" translation is super wrong
+bug-reports 2021-04-03 12:53:37 "Horn" translation is also wrong
+bug-reports 2021-04-03 12:53:58 "Trap door" translation is wrong
+bug-reports 2021-04-03 12:56:11 "Half Block" translation is wrong but only on the gender of the words (yes in portuguese you have feminine words and male words ex: o Bloco - male word (the Block)  / a Mola - feminine word (the Spring)
+bug-reports 2021-04-03 12:56:46 "Half wedge" Translations are wrong in some cases
+bug-reports 2021-04-03 12:58:13 some translations of the Light blocks have also the wrong gender and Spotlight isn't translated  (Spotlight = Holofote )
+bug-reports 2021-04-03 12:59:22 Some translations of the stairs block are wrong (it sounds like a GPS  Vire à esquerda = turn left , what you want is more like "Viragem à esquerda" or "Curvo para a esquerda")
+bug-reports 2021-04-03 13:02:32 then we have the translations in the settings of a functional part
+bug-reports 2021-04-03 13:03:11 and from what i saw they don't look that good
+bug-reports 2021-04-03 13:03:37 just found another
+bug-reports 2021-04-03 13:04:32 "Sign" translation is wrong  (it is translated to "assinar" as in signing papers where it should be "sinal")
+bug-reports 2021-04-03 13:23:00 so are you saying that roblox is the one that converts the text to the translations in all GUIs of the game?
+bug-reports 2021-04-03 13:23:11 man
+bug-reports 2021-04-03 13:23:15 they suck at it
+bug-reports 2021-04-03 13:23:28 it's literally the worst translation ever
+bug-reports 2021-04-03 13:24:41 can't plane crazy remove the roblox translation or make a custom that is correct?
+bug-reports 2021-04-03 13:25:23 because with that type of translation
+bug-reports 2021-04-03 13:25:29 it's best to not have translation at all
+bug-reports 2021-04-03 13:36:30 well
+bug-reports 2021-04-03 13:36:35 as you can see above
+bug-reports 2021-04-03 13:36:44 if he needs help with the portuguese translation
+bug-reports 2021-04-03 13:36:52 i would happily provide it
+bug-reports 2021-04-03 13:56:39 i don't know if anybody else has posted this bug but
+bug-reports 2021-04-03 13:56:47 sometimes when i open my parachute
+bug-reports 2021-04-03 14:00:41 My parachute starts moving from side to side and projects me with 140000000+ Speed so i watch my avatar slowly become more pixalized until ultimatly it is reduced to nothing or i somehow hit the barrier of the environment space and die
+bug-reports 2021-04-03 14:01:43 but i don't know if there are different types
+bug-reports 2021-04-03 14:02:03 i don't know if everyone's avatar gets reduced to pixels
+bug-reports 2021-04-03 14:03:33 but didn't you saw my question?
+bug-reports 2021-04-03 14:03:49 i don't know if everyone's avatar get's reduced to pixels
+bug-reports 2021-04-03 14:03:59 the pinned only says flinged
+bug-reports 2021-04-03 14:04:31 and everyone reaches 14000000+ speeds?
+bug-reports 2021-04-03 14:05:07 never happend to me in other games
+bug-reports 2021-04-03 14:05:12 i'll look for it
+bug-reports 2021-04-03 14:07:35 oh
+bug-reports 2021-04-03 14:07:39 that explains alot
+bug-reports 2021-04-03 14:11:31 yes
+bug-reports 2021-04-03 14:12:24 however if one happens without the other it would imply that there are in fact multiple type of the bug, but since this is not the case, no need to worry
+bot-central 2021-04-03 20:36:56 !rank
+bot-central 2021-04-03 20:37:04 Yes
+bot-central 2021-04-03 20:37:09 Am noob rank
+bot-central 2021-04-03 20:37:32 U is very much noob
+bot-central 2021-04-03 20:39:56 ?shelp
+bot-central 2021-04-03 20:40:34 ?rhelp
+plane-crazy 2021-04-03 20:41:34 Is nice
+plane-crazy 2021-04-03 20:41:58 Hey G3tB4nned3
+plane-crazy 2021-04-03 20:42:07 Do you remember me?
+plane-crazy 2021-04-03 20:42:55 Great
+plane-crazy 2021-04-03 20:43:26 In no time you will have that C-130 finished
+plane-crazy 2021-04-03 20:45:55 Yes maek plane better is gud
+plane-crazy 2021-04-03 20:46:56 Yes very gud
+plane-crazy 2021-04-03 20:47:05 Wait
+plane-crazy 2021-04-03 20:47:10 I think i replied
+plane-crazy 2021-04-03 20:47:12 Sorry
+plane-crazy 2021-04-03 20:47:24 I didn't want to ping
+plane-crazy 2021-04-03 20:47:51 Something i noticed
+plane-crazy 2021-04-03 20:48:03 When someone puts a pic in creatons
+plane-crazy 2021-04-03 20:48:15 Many get downvoted
+plane-crazy 2021-04-04 02:08:51 hmmm
+plane-crazy 2021-04-04 02:08:55 now i'm thinking
+plane-crazy 2021-04-04 02:09:00 if it's called plane
+plane-crazy 2021-04-04 02:09:32 shouldn't it be completely flat?
+plane-crazy 2021-04-04 02:09:50 
+plane-crazy 2021-04-04 02:10:00 yes
+plane-crazy 2021-04-04 02:10:10 *Flatness 100*
+plane-crazy 2021-04-04 02:10:37 wait
+plane-crazy 2021-04-04 02:10:44 if you take out the L
+plane-crazy 2021-04-04 02:10:47 you get the opposite
+plane-crazy 2021-04-04 02:10:51 FAT
+plane-crazy 2021-04-04 02:10:59 yes
+plane-crazy 2021-04-04 02:11:08 this is time of big brean
+plane-crazy 2021-04-04 02:11:20 choo choo
+plane-crazy 2021-04-04 02:11:29 *choo choo*
+plane-crazy 2021-04-04 02:11:37 **choo choo**
+plane-crazy 2021-04-04 02:11:47 ***choo choo***
+plane-crazy 2021-04-04 02:11:59 ***CHOO CHOO***
+plane-crazy 2021-04-04 02:13:25 NO
+plane-crazy 2021-04-04 02:13:29 minute man is better
+plane-crazy 2021-04-04 02:14:29 quick question:
+would you think that this flatness flyes?
+plane-crazy 2021-04-04 02:15:25 the thing is
+plane-crazy 2021-04-04 02:15:31 i had an idea
+plane-crazy 2021-04-04 02:15:37 made it in 3 seconds
+plane-crazy 2021-04-04 02:15:46 and it flyes perfectly
+plane-crazy 2021-04-04 02:16:04 that's the beauty of Plane Crazy
+plane-crazy 2021-04-04 02:17:00 don't forget LiDAR for the TERRARIS alert
+plane-crazy 2021-04-04 02:17:23 oh and of couse
+plane-crazy 2021-04-04 02:17:37 a flashing red light that nobody knows what is it for
+plane-crazy 2021-04-04 02:18:20 i never thought it could fly so well and so high
+plane-crazy 2021-04-04 02:19:09 this is the perfect aircraft
+plane-crazy 2021-04-04 02:19:45 and all this time triyng to make a box with wings and an engine fly
+plane-crazy 2021-04-04 02:20:00 when you could literally make a plane
+plane-crazy 2021-04-04 02:20:08 hmmmm
+plane-crazy 2021-04-04 02:20:30 we need to take this 3D
+plane-crazy 2021-04-04 02:20:35 make a cube fly
+plane-crazy 2021-04-04 02:20:39 yes
+plane-crazy 2021-04-04 02:24:46 so....
+plane-crazy 2021-04-04 02:25:01 remember when i talked about making plane in 3 D?
+plane-crazy 2021-04-04 02:25:06 so a flying cube
+plane-crazy 2021-04-04 02:25:08 well
+plane-crazy 2021-04-04 02:25:19 ***yes***
+plane-crazy 2021-04-04 02:27:52 uh
+plane-crazy 2021-04-04 02:27:57 quick question
+plane-crazy 2021-04-04 02:28:08 is anyone getting yeeted witht he control surfaces?
+general 2021-04-04 02:31:10 wut is happening here?
+general 2021-04-04 02:33:00 i don't know why you feel the need to bring other's mothers into a conversation just to prove an stand using the most futile argument thus showing low levels of maturity therefore can be diagnosed if over 13 with a complex of inferioriety
+general 2021-04-04 02:33:22 yes psicology
+general 2021-04-04 02:34:23 don't worry you can reveile more inferiority complexes, the human mind os filled with problems
+general 2021-04-04 02:34:45 ***yes***
+general 2021-04-04 02:35:13 quick question Mr.Frikn0by
+general 2021-04-04 02:35:22 what would you define as a plane?
+general 2021-04-04 02:37:42 now if i told you that a plane is a geometric space that is defined by 2 or more paralel straight lines or 2 straight lines that intercept each other or even  the geometrical space from 3 dots
+general 2021-04-04 02:37:47 that would be a plane
+general 2021-04-04 02:37:54 so thus i need to show you
+general 2021-04-04 02:38:18 https://cdn.discordapp.com/attachments/384021699466756107/828090116878237706/unknown.png
+general 2021-04-04 02:38:23 le plane
+general 2021-04-04 02:38:36 nope
+general 2021-04-04 02:38:47 it's is just a plane with a rocket engine
+general 2021-04-04 02:39:12 
+general 2021-04-04 02:39:17 a plane
+general 2021-04-04 02:39:32 weird thing is it flyes very well
+general 2021-04-04 02:39:56 https://cdn.discordapp.com/attachments/384021699466756107/828088946889195561/unknown.png
+general 2021-04-04 02:40:05 ***flatness 100***
+general 2021-04-04 02:40:48 yes
+general 2021-04-04 02:40:54 stealth tech
+general 2021-04-04 02:41:20 as the noob that i am i possess no knowledge in motorlocks
+general 2021-04-04 02:42:44 we need the CEO of motorlock
+general 2021-04-04 02:43:58 looks like a normal day at the office
+general 2021-04-04 02:44:16 you needs lvl 3
+general 2021-04-04 02:44:19 so talk more
+bot-central 2021-04-04 02:44:51 !rank <@!816501339345518622>
+general 2021-04-04 02:45:08 just a bit more to lvl 3
+bot-central 2021-04-04 02:46:48 yesh
+general 2021-04-04 02:47:20 <:pyramid:694767080578482206>
+general 2021-04-04 02:48:42 we will never know
+general 2021-04-04 02:49:13 maybe try someone who got big rank
+general 2021-04-04 02:49:19 like an expert
+general 2021-04-04 02:49:29 or call center
+general 2021-04-04 02:49:37 yes i saw ur ranks
+general 2021-04-04 02:49:47 ur also an expert in desingngngn
+general 2021-04-04 02:50:28 gngngngngngn
+general 2021-04-04 02:50:45 "pepol" is good name for company
+general 2021-04-04 02:51:30 i was thinking more like
+general 2021-04-04 02:51:42 trash pool isntaller
+general 2021-04-04 02:51:44 like
+general 2021-04-04 02:51:48 pee pool
+general 2021-04-04 02:52:04 that can work too
+general 2021-04-04 02:52:18 just need to find some explosives
+general 2021-04-04 02:53:36 i maek boat
+general 2021-04-04 02:53:45 it prevent sink from commit
+general 2021-04-04 02:54:15 fast boat too
+general 2021-04-04 02:54:35 but i haves problem
+general 2021-04-04 02:54:39 i have no canal to block
+general 2021-04-04 02:55:29 so sped it flip in air
+general 2021-04-04 02:56:04 how to flip ur baot 101
+general 2021-04-04 02:56:37 maek sure sped is good
+general 2021-04-04 02:57:07 then put pedal to gas
+general 2021-04-04 02:57:13 and this will maek flip
+general 2021-04-04 02:57:19 tutorial over
+plane-crazy 2021-04-04 21:46:58 motor yeeted
+plane-crazy 2021-04-04 21:47:32 indeed
+plane-crazy 2021-04-04 21:48:08 sometimes motors yeet my stuff
+plane-crazy 2021-04-04 21:48:28 they be like:
+so you want me to stay here?
+think again
+plane-crazy 2021-04-04 21:51:22 you can make it 
+it's very simple you just need to have 2 motors, one propeller on top of the other, one spins in one way and the other in the opposite way, to compensate this you should put the top propeller spin at twice the speed
+plane-crazy 2021-04-04 22:20:36 we doing crab rave
+plane-crazy 2021-04-04 23:08:17 i don't know if you have enough bombs
+creations-chat 2021-04-12 19:43:28 nobody here can confirm it since we weren't there
+creations-chat 2021-04-12 19:45:33 so with more than a century since the accident and if you claim to be on  a sub you needed to me in your early adult age to be able to crew it so you are saying you are 120+ years old?
+creations-chat 2021-04-12 19:47:35 why this chonnel haeb cooldown
+it no pro
+
+
+
+congratulations kokamzy you are one of the oldest if not the oldest person in the world, one question, why do you spend your final days in a discord server of a game in a platform intended for children?
+creations-chat 2021-04-12 19:50:03 this 2 mins are hard to establish a proper conversationen
+
+More harder to maek noob talk since it taek funny away 😦
+creations-chat 2021-04-12 19:52:20 no 4 mins ago
+||i dislike tha cooldown||
+plane-crazy 2021-04-12 20:18:36 hey mista guy man person dude
+plane-crazy 2021-04-12 20:18:54 it says in tha rule that you musta spik englik
+plane-crazy 2021-04-12 20:19:03 so no hablo for you
+plane-crazy 2021-04-12 20:19:18 unless you don't know englik
+plane-crazy 2021-04-12 20:19:25 then that would be problemo
+plane-crazy 2021-04-12 20:25:43 try to takeon
+plane-crazy 2021-04-12 20:31:26 https://cdn.discordapp.com/attachments/384021699466756107/828090116878237706/unknown.png
+plane-crazy 2021-04-12 20:31:33 *plane*
+plane-crazy 2021-04-12 20:31:41 https://cdn.discordapp.com/attachments/384021699466756107/828088946889195561/unknown.png
+plane-crazy 2021-04-12 20:53:47 <@!404632014189494293> hey u
+plane-crazy 2021-04-12 20:54:03 u is of aeronautical expertiness right?
+plane-crazy 2021-04-12 20:54:46 i haeb question for u
+plane-crazy 2021-04-12 20:55:04 and if u want me to stop the noob talk so you can understand better you just gotta say so
+plane-crazy 2021-04-12 20:55:30 behold
+plane-crazy 2021-04-12 20:55:32 https://cdn.discordapp.com/attachments/725800154271055983/831191807521456218/unknown.png
+plane-crazy 2021-04-12 20:55:35 plane
+plane-crazy 2021-04-12 20:55:43 wat u think?
+plane-crazy 2021-04-12 20:56:19 yes
+plane-crazy 2021-04-12 20:56:24 i also have another version
+plane-crazy 2021-04-12 20:56:34 but i took picture of cargo version
+plane-crazy 2021-04-12 20:56:45 other version is for paratroopers
+plane-crazy 2021-04-12 20:57:07 well not that small
+plane-crazy 2021-04-12 20:57:11 i'll tell you secret
+plane-crazy 2021-04-12 20:57:15 you see tail?
+plane-crazy 2021-04-12 20:57:29 how many vertical stabilizers u see there?
+plane-crazy 2021-04-12 20:57:35 1 right?
+plane-crazy 2021-04-12 20:58:04 https://cdn.discordapp.com/attachments/725800154271055983/831221194929733692/unknown.png
+plane-crazy 2021-04-12 20:58:07 look better
+plane-crazy 2021-04-12 20:58:41 no no no
+plane-crazy 2021-04-12 20:58:46 u focus in wrong thing
+plane-crazy 2021-04-12 20:58:56 wait imma take a better pic so you see
+plane-crazy 2021-04-12 20:59:07 2 block wide my ass
+plane-crazy 2021-04-12 21:00:09 dual vertical stabilizer
+plane-crazy 2021-04-12 21:00:22 when 1 is not enough
+plane-crazy 2021-04-12 21:01:18 ***yes***
+plane-crazy 2021-04-12 21:01:30 2 is better than 1
+plane-crazy 2021-04-12 21:01:41 2 is both superior
+plane-crazy 2021-04-12 21:01:45 and double of 1
+plane-crazy 2021-04-12 21:02:19 still you show sign of miopia
+plane-crazy 2021-04-12 21:02:30 does this look like 2 blocks?
+plane-crazy 2021-04-12 21:03:05 it has some 8 blocks wide
+plane-crazy 2021-04-12 21:03:52 i don't know where all the wild peeps showed up
+plane-crazy 2021-04-12 21:04:04 i only asked kokamzy
+plane-crazy 2021-04-12 21:04:14 i not liek normal
+plane-crazy 2021-04-12 21:04:19 it look to much raw
+plane-crazy 2021-04-12 21:04:26 and is more of blurry
+plane-crazy 2021-04-12 21:04:44 and i see more wild peeps typing
+plane-crazy 2021-04-12 21:04:53 let's see what will come from
+plane-crazy 2021-04-12 21:05:47 yes and i understood but if you want to be talking english correctly you would have told me "the plane has a par number of width"
+plane-crazy 2021-04-12 21:05:50 not 2 blocks
+plane-crazy 2021-04-12 21:06:35 i saw that
+plane-crazy 2021-04-12 21:06:36 heeheh
+plane-crazy 2021-04-12 21:06:43 and i joined some
+plane-crazy 2021-04-12 21:06:46 let's see
+plane-crazy 2021-04-12 21:06:49 7
+plane-crazy 2021-04-12 21:06:50 no
+plane-crazy 2021-04-12 21:06:53 9 days ago
+plane-crazy 2021-04-12 21:06:57 i think
+plane-crazy 2021-04-12 21:07:03 and this already seems
+plane-crazy 2021-04-12 21:07:06 how do i put it
+plane-crazy 2021-04-12 21:07:54 *heh*
+plane-crazy 2021-04-12 21:08:04 you don't even know nothing about meh
+plane-crazy 2021-04-12 21:08:22 indeed
+plane-crazy 2021-04-12 21:08:35 so that leads to the obvious conclusion of....
+plane-crazy 2021-04-12 21:08:50 cuz more of fancynessesssess
+plane-crazy 2021-04-12 21:09:06 and that is only your opinion
+plane-crazy 2021-04-12 21:09:10 i say
+plane-crazy 2021-04-12 21:09:14 if tha word exists
+plane-crazy 2021-04-12 21:09:17 you use it
+plane-crazy 2021-04-12 21:11:03 one may agree with you, nevertheless one may also object
+plane-crazy 2021-04-12 21:12:14 it isn't answer
+plane-crazy 2021-04-12 21:12:23 therefore it doesn't require a question
+plane-crazy 2021-04-12 21:14:28 yes you are in your full right of saying such sentence, however, by the same judgment i am also able to say a sentence of my own, thus we don't break or violate no orders of the universe
+plane-crazy 2021-04-12 21:16:27 i think Phantom's brain got overrun by useless information
+plane-crazy 2021-04-12 21:16:35 or not
+plane-crazy 2021-04-12 21:16:53 brains can perform multiple actions
+plane-crazy 2021-04-12 21:18:10 1st: how would you define such a meme
+plane-crazy 2021-04-12 21:18:29 2nd: why is having a conversation a subject of mematic
+plane-crazy 2021-04-12 21:19:11 3rd: is Phantom gonna say his reply to me reply?
+plane-crazy 2021-04-12 21:20:41 the art of saying nothing by other words, however you mustn't forget, not everything as useless as one thinks, as in every sentence you gain more experience in the tricky path of life
+plane-crazy 2021-04-12 21:20:52 and this is the last one cuz i needs of gos now
+plane-crazy 2021-04-12 21:21:07 can you elaborate?
+plane-crazy 2021-04-12 21:21:16 and he said the reply
+plane-crazy 2021-04-12 21:21:26 someone isn't paying much atention
+plane-crazy 2021-04-12 21:21:56 well
+plane-crazy 2021-04-12 21:22:01 me is of gone nows
+plane-crazy 2021-04-12 21:23:34 ah ha
+plane-crazy 2021-04-12 21:23:36 i is of backs
+plane-crazy 2021-04-12 21:23:49 *really*
+plane-crazy 2021-04-12 21:24:05 *laughs in counter argumentation*
+plane-crazy 2021-04-12 21:25:22 by stating that such argument doesn't lead to anything, anywhere, but this own argument, you are therefore committing a falacious argument in which the premiss contradicts the conclusion
+plane-crazy 2021-04-12 21:25:37 nah but i'll leave you be now
+plane-crazy 2021-04-12 21:25:43 i gos now
+plane-crazy 2021-04-12 21:25:47 and this time for good
+plane-crazy 2021-04-12 21:26:06 only come back in an uncertain time of future
+plane-crazy 2021-04-13 10:54:21 how is that a lag machine?
+plane-crazy 2021-04-13 10:54:43 how many blocks?
+plane-crazy 2021-04-13 10:54:58 wait
+plane-crazy 2021-04-13 10:55:02 so
+plane-crazy 2021-04-13 10:55:04 700 blocks
+plane-crazy 2021-04-13 10:55:06 with
+plane-crazy 2021-04-13 10:55:15 motor locks
+plane-crazy 2021-04-13 10:55:17 and
+plane-crazy 2021-04-13 10:55:19 =
+plane-crazy 2021-04-13 10:55:22 lag machine?
+plane-crazy 2021-04-13 10:55:28 you know
+plane-crazy 2021-04-13 10:55:38 i think yeah
+plane-crazy 2021-04-13 10:55:53 it's because of the type and specifications of the computational devices
+plane-crazy 2021-04-13 10:56:20 just a quick question
+plane-crazy 2021-04-13 10:56:28 how fast does your jet go?
+plane-crazy 2021-04-13 10:56:49 that's fast
+plane-crazy 2021-04-13 10:57:11 700 blocks with 700 speed
+plane-crazy 2021-04-13 10:57:19 looks like good math
+plane-crazy 2021-04-13 10:58:01 heh
+plane-crazy 2021-04-13 10:58:05 rookie numbers
+plane-crazy 2021-04-13 10:58:09 i go at 13 fps
+plane-crazy 2021-04-13 10:58:20 ***E***
+plane-crazy 2021-04-13 10:58:51 what's the biggest ping you have ever get?
+plane-crazy 2021-04-13 10:59:28 yes
+plane-crazy 2021-04-13 10:59:31 the pro numbers
+plane-crazy 2021-04-13 10:59:59 i once had 1 frame
+plane-crazy 2021-04-13 11:00:01 per minute
+plane-crazy 2021-04-13 11:00:12 with a ping spike
+plane-crazy 2021-04-13 11:00:19 that leveled at 200k
+plane-crazy 2021-04-13 11:00:41 maybe not for you
+plane-crazy 2021-04-13 11:00:45 but for me it does
+plane-crazy 2021-04-13 11:01:01 yes
+plane-crazy 2021-04-13 11:01:07 funny numbers that appear
+plane-crazy 2021-04-13 11:01:12 yes
+plane-crazy 2021-04-13 11:01:48 i never said it was pc performance
+plane-crazy 2021-04-13 11:02:00 and i assure you
+plane-crazy 2021-04-13 11:02:06 if internet is bad
+plane-crazy 2021-04-13 11:02:12 your fps won't be high
+plane-crazy 2021-04-13 11:02:55 it's all connected in some way
+plane-crazy 2021-04-13 11:03:16 and with higher ping numbers
+plane-crazy 2021-04-13 11:03:26 are associated lower fps numbers
+plane-crazy 2021-04-13 11:03:37 at least in my device of computation
+plane-crazy 2021-04-13 11:04:05 ***indeed***
+general 2021-04-13 11:05:57 hey
+general 2021-04-13 11:06:14 how do you get the *i read the rules* rank?
+general 2021-04-13 11:06:33 then how do people have it?
+general 2021-04-13 11:06:41 for example
+general 2021-04-13 11:06:43 you have it
+general 2021-04-13 11:08:01 then if it doesn't work they could at least say you can't get it since the message still says to react to get the rank
+general 2021-04-13 11:08:58 i think there has been a misunderstandment
+general 2021-04-13 11:09:06 i never begged for anything
+general 2021-04-13 11:09:12 i only asked for information
+general 2021-04-13 11:09:19 information that you already provided
+general 2021-04-13 11:10:16 wait what
+general 2021-04-13 11:10:37 you think i am desperate for the role?
+general 2021-04-13 11:13:39 do i need to explain everything?
+as you mentioned just now yes i am only here for some 10 days
+yes i am new
+since i am new here it means there are still alot of stuff that i don't have the knowledge
+hence the name noob
+since i am a noob i was asking for the information that i didn't possess with the intention of gaining such information
+so i think now you will understand but if you don't i can always try to explain it like if i was talking to a 3 year old
+general 2021-04-13 11:14:42 why are so many peeps poping out?
+general 2021-04-13 11:15:22 that's why i was asking
+general 2021-04-13 11:16:02 if it doesn't give the role anymore i imagine it can't take it
+general 2021-04-13 11:16:12 h
+general 2021-04-13 11:16:28 yes we understand logical deduction
+general 2021-04-13 11:17:13 thank you for reminding me of that word, Phantom is gonna be surprised today
+general 2021-04-13 11:18:07 you mouth is now clean
+general 2021-04-13 11:18:27 that's equal to vodka
+general 2021-04-13 11:19:25 so many hostility coming from you now
+general 2021-04-13 11:19:32 and who is sona?
+general 2021-04-13 11:20:17 simple deduction strikes again
+general 2021-04-13 11:20:39 hey
+general 2021-04-13 11:20:48 h0ow da u get tha color role?
+general 2021-04-13 11:21:00 not u
+general 2021-04-13 11:21:11 tha peeps with the crimsom and purple and other vcolor
+general 2021-04-13 11:21:31 oh
+general 2021-04-13 11:21:33 yes
+general 2021-04-13 11:21:35 information
+general 2021-04-13 11:22:52 ***cheese***
+plane-crazy 2021-04-13 11:31:16 but in tha rules it say only englik
+plane-crazy 2021-04-13 11:32:57 uh
+plane-crazy 2021-04-13 11:33:02 my brain found this
+plane-crazy 2021-04-13 11:33:06 
+plane-crazy 2021-04-13 11:34:38 yes rule seven
+plane-crazy 2021-04-13 11:35:02 it once happen to me
+plane-crazy 2021-04-13 11:35:06 in another server
+plane-crazy 2021-04-13 11:35:13 i started talking another language
+plane-crazy 2021-04-13 11:35:31 and they game me a warn cuz they thought i was being ofensive
+plane-crazy 2021-04-13 11:35:52 while the words they were questioning didn't even had translation to englik
+plane-crazy 2021-04-13 11:36:01 yes
+plane-crazy 2021-04-13 11:36:08 we maek englik plane
+plane-crazy 2021-04-13 11:36:21 i once made a plane
+plane-crazy 2021-04-13 11:36:27 a literal plane
+plane-crazy 2021-04-13 11:36:41 lemme show you tha plane
+plane-crazy 2021-04-13 11:37:20 https://cdn.discordapp.com/attachments/384021699466756107/828090116878237706/unknown.png
+plane-crazy 2021-04-13 11:37:26 https://cdn.discordapp.com/attachments/384021699466756107/828088946889195561/unknown.png
+plane-crazy 2021-04-13 11:37:29 plane
+plane-crazy 2021-04-13 11:37:42 a literal plane with a rocket engine
+plane-crazy 2021-04-13 11:37:47 no a plane
+plane-crazy 2021-04-13 11:37:55 don't you know what is a plane?
+plane-crazy 2021-04-13 11:38:07 i'm talking about the geometrical space
+the-dump 2021-04-13 22:46:52 : O
+the-dump 2021-04-13 22:48:10 : O
+the-dump 2021-04-13 22:48:16 :0
+the-dump 2021-04-13 22:48:27 : o
+the-dump 2021-04-13 22:48:33 :  .
+the-dump 2021-04-13 22:48:45 **: O**
+the-dump 2021-04-13 22:50:17 
+the-dump 2021-04-14 15:29:41 <:what:644996672048463942>
+the-dump 2021-04-14 15:30:25 https://tenor.com/view/sussy-sussy_red-sus-amongus-gif-20918910
+the-dump 2021-04-14 15:30:50 https://tenor.com/view/letter-e-gif-9063749
+the-dump 2021-04-14 15:31:20 indeed
+the-dump 2021-04-14 15:32:10 https://cdn.discordapp.com/attachments/680928395399266314/827599478093119598/video0.mp4
+the-dump 2021-04-14 15:33:50 https://cdn.discordapp.com/attachments/415546586735575051/830018112995983371/video0-15.mp4
+the-dump 2021-04-14 15:35:54 you don't know what a deck is?
+the-dump 2021-04-14 15:36:32 wait
+the-dump 2021-04-14 15:36:39 but if you are braindead
+the-dump 2021-04-14 15:36:45 it means you have a brain
+the-dump 2021-04-14 15:36:50 for it to be dead
+the-dump 2021-04-14 15:36:55 it must be alive first
+the-dump 2021-04-14 15:37:12 that was confusion
+the-dump 2021-04-14 15:37:25 indeed
+the-dump 2021-04-14 15:38:25 ?
+the-dump 2021-04-14 15:38:29 what word?
+the-dump 2021-04-14 15:39:11 it's just an australian talking about his deck
+the-dump 2021-04-14 15:39:21 and promoting a deck paint
+the-dump 2021-04-14 15:39:44 that's the promotion caulk
+the-dump 2021-04-14 15:42:12 is that loopland?
+the-dump 2021-04-14 15:43:53 yes
+the-dump 2021-04-14 15:43:57 more storage space
+the-dump 2021-04-14 15:45:41 https://tenor.com/view/linus-among-us-impostor-sus-tech-tip-gif-20214374
+the-dump 2021-04-14 15:47:02 hey
+the-dump 2021-04-14 15:47:10 who want to lose ear function?
+the-dump 2021-04-14 15:47:26 https://cdn.discordapp.com/attachments/820666301667868682/820734265083691049/beep_SD70ACE.mov
+the-dump 2021-04-14 15:47:53 pro train
+the-dump 2021-04-14 15:48:03 yas
+the-dump 2021-04-14 15:48:14 farewell sponge one
+the-dump 2021-04-14 15:48:33 <:nooo:787097964946259978>
+the-dump 2021-04-14 15:49:15 <:PewPew:532303441293344778> heilo
+the-dump 2021-04-14 15:50:17 why is light coming from screen?
+the-dump 2021-04-14 15:50:42 yes
+the-dump 2021-04-14 15:51:01 i agree
+the-dump 2021-04-14 15:52:53 burger
+the-dump 2021-04-14 15:53:32 it's ketchup
+the-dump 2021-04-14 15:53:55 you know the thing u put in burger
+the-dump 2021-04-14 15:54:29 u don't like ketchup?
+the-dump 2021-04-14 15:54:54 why is it because it haeb too much sugar?
+the-dump 2021-04-14 15:55:26 manys of ketchup maek you grow strong
+the-dump 2021-04-14 15:55:34 yes
+the-dump 2021-04-14 15:55:41 ***yes***
+the-dump 2021-04-14 15:56:12 am bored
+the-dump 2021-04-14 15:56:16 time for gone
+the-dump 2021-04-14 16:02:06 
+bot-central 2021-04-14 16:03:49 !help
+bot-central 2021-04-14 16:04:45 !servers
+general 2021-12-14 02:48:14 hey , anyone knows if corner glitch is still possible in roblox?
+general 2021-12-14 02:48:28 cuz some peole were saying that it was patched
+general 2021-12-14 02:48:54 and i tried to make a corner glitch and the worse happen
+general 2021-12-14 02:49:19 i was not able to succeed performing the action known as corner glitch
+general 2021-12-14 02:50:12 corner glitch has killed this chat
+general 2021-12-14 02:50:36 strangely it is the 2nd server i ask this and it kills the chat

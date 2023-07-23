@@ -1,0 +1,5 @@
+The Tale of notcarl5126 (616662749606313986)
+bug-reports 2021-01-14 08:20:06 I’m trying to do a anti air craft turret but the motors are not working
+bug-reports 2021-01-14 08:20:23 And yes I make sure that everything is alright
+bug-reports 2021-01-14 08:21:28 What is happening is that it is not moving the cylinder
+general 2021-01-18 17:31:08 ||Killer queen has already touched this message ||

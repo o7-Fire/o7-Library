@@ -1,0 +1,39 @@
+The Tale of stockfish4055 (582767701508751371)
+general 2022-05-26 23:07:26 Countershading
+plane-crazy 2022-07-19 01:09:38 Is there a way to make custom angled wedges?
+plane-crazy 2022-07-19 01:15:11 I mean, yes.
+plane-crazy 2022-07-19 01:15:19 Are they still popular?
+plane-crazy 2022-07-19 01:15:27 bruuuuuuh
+plane-crazy 2022-07-19 01:15:51 I've never heard of it
+plane-crazy 2022-07-19 01:16:19 Ah
+plane-crazy 2022-07-19 01:16:34 most don't know what anchored blocks are.
+plane-crazy 2022-07-19 01:16:50 so it destabilizes very quickly
+plane-crazy 2022-07-19 01:17:58 I mean, just bop it with a few guns
+plane-crazy 2022-07-19 01:19:35 what is the optimal angle for a bow that looks good?
+plane-crazy 2022-07-19 01:30:26 Is there a way to make the top part of the bow less pronounced?
+plane-crazy 2022-07-19 02:01:14 I made an overly powerful conveyor based cannon
+plane-crazy 2022-07-19 02:02:26 is 10k speed a bit too much for a artillery shell?
+plane-crazy 2022-07-19 02:02:52 Frick
+plane-crazy 2022-07-19 02:03:00 Maybe two stages?
+plane-crazy 2022-07-19 02:08:28 bruh this thing is definitely a glitch
+bot-central 2022-07-19 19:49:06 !help
+plane-crazy 2022-07-19 21:09:48 How do I test the accuracy of something that goes faster than I can see?
+plane-crazy 2022-07-19 21:11:11 Not fast enough
+plane-crazy 2022-07-19 21:12:18 A wierd conveoyr dirve I made
+plane-crazy 2022-07-19 21:12:27 I put two conveyors next to each other
+plane-crazy 2022-07-19 21:12:30 and speed
+plane-crazy 2022-07-19 22:33:45 set it toservo
+plane-crazy 2022-07-19 22:33:54 And give a custom angle
+plane-crazy 2022-07-19 22:34:15 I can get away with 45 sometimes, for missiles
+plane-crazy 2022-07-19 23:05:11 Welp, I found a new way to break the plane crazy physics
+general 2022-07-25 23:25:30 how do yall get image perms?
+plane-crazy 2022-07-25 23:26:04 hi
+plane-crazy 2022-07-28 16:03:05 How large can a hover drive be?
+plane-crazy 2022-07-28 23:32:08 Do control surfaces work with large planes?
+plane-crazy 2022-07-28 23:32:47 For some reason, the momentum of my plane ends up overpowering the wings
+plane-crazy 2022-07-28 23:34:43 How do ou get image perms?
+plane-crazy 2022-07-28 23:37:58 is there a way to stack multiple motor 2 control surfaces?
+plane-crazy 2022-07-28 23:38:11 fuck
+plane-crazy 2022-07-28 23:42:48 what does the drag do for hover thrusters?
+plane-crazy 2022-07-28 23:43:17 so slows them down?
+plane-crazy 2022-07-28 23:47:22 what about ignore others?

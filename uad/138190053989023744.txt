@@ -1,0 +1,560 @@
+The Tale of pheralsparky (138190053989023744)
+help 2019-02-18 03:46:31 Howdy
+help 2019-02-18 03:47:15 Ive found a big bug in plane crazy that brings me to tears
+help 2019-02-18 03:47:34 over 12 hours of work just dissapeared from 3 save spots in my save area
+help 2019-02-18 03:47:59 okay
+bug-reports 2019-02-18 03:48:24 can someone please help me recover my 12 hours of work that dissapeared from 3 save spots?
+bug-reports 2019-02-18 03:48:48 they have all been rolled back to since I had rebuilt a giant quadcopter Ive been putting a lot of hard work into
+bug-reports 2019-02-18 03:49:19 I was hoping to finish what I got working, and its all not there
+bug-reports 2019-02-18 03:49:34 this bug brings me to tears
+bug-reports 2019-02-18 03:50:26 I was saving after a whole slew of steps in three saves many times
+bug-reports 2019-02-18 03:53:54 well,  I had gone and built farther and saved like mad what seems to have rolled back in the hours that I was sleeping today
+bug-reports 2019-02-18 03:54:33 I had a working giant quadcopter last night, and all 3 of my saves were crawled back to before I had even worked on the motors
+bug-reports 2019-02-18 03:56:08 my Save  data used says 260.654 and max save data 260.000
+bug-reports 2019-02-18 03:56:55 this is my first attempt at building something big
+bug-reports 2019-02-18 03:57:04 probably my only big attempt aswell
+bug-reports 2019-02-18 03:57:34 my 3 saves acumulated to over 1900 parts, and there at 1433
+bug-reports 2019-02-18 04:03:17 I'm sorry if what I am saying doesn't make sense
+bug-reports 2019-02-18 04:08:10 Lots of people saw me working on it and flying it
+bug-reports 2019-02-18 04:08:39 and I didn't take any pictures when I had it flying, was too tired, and had to sleep
+bug-reports 2019-02-18 04:11:27 I can clarify that what I see in my 3 save spots is indeed my rebuilt chassis, though the majority of what I accomplished is gone
+bug-reports 2019-02-18 04:14:24 all my work on rebuilding 2 rear motor housings in better placement is not there
+bug-reports 2019-02-18 04:24:33 is it common for this game to corrupt players save data?
+creations-chat 2019-02-18 04:35:04 has anyone here had a saved work rolled back on them?
+creations-chat 2019-02-18 04:36:44 dang, this bug only happened to me
+creations-chat 2019-02-18 04:37:22 what I saved this morning in game in 3 different slots is gone
+bug-reports 2019-02-18 04:47:55 I spoke about that a while ago
+bug-reports 2019-02-18 04:48:06 the save data
+bug-reports 2019-02-18 04:48:23 less than a floppy disk's capacity
+bug-reports 2019-02-18 04:49:23 is saving a project 3 times not allowed?
+bug-reports 2019-02-18 04:49:41 within the save slots alotted
+bug-reports 2019-02-18 04:50:58 _facepalms_
+bug-reports 2019-02-18 04:51:15 _face plants keyboard_
+bug-reports 2019-02-18 04:51:41 what is the limit, 260 bytes?
+bug-reports 2019-02-18 04:53:36 how the heck are people building far bigger builds than me  suceeding?!?
+bug-reports 2019-02-18 04:54:15 even though it asys save successfull its not really saving?
+bug-reports 2019-02-18 04:54:41 the heck kind of game is this
+bug-reports 2019-02-18 04:56:11 and we are restricted to saving space far lower than the first IBM 5150 desktop computers RAM (640Kbytes) in the early 1980s
+bug-reports 2019-02-18 05:02:01 well my build wasn't that big, and it had a lot of empty space
+bug-reports 2019-02-18 05:02:07 inside
+bug-reports 2019-02-18 05:02:40 so your saying my save file on the server from this morning doesn't exist?
+bug-reports 2019-02-18 05:03:21 I'm just trying to understand  this
+bug-reports 2019-02-18 05:04:52 what I saved this morning, it told me it was sucessfully saved, will still say that even if the build is over the limit and wont actually save?
+bug-reports 2019-02-18 05:05:22 then those people who build boats far bigger than what Ive built are geniuses
+bug-reports 2019-02-18 05:06:27 I'm already sorry I tried to build something I visuallized in a game that doesn't give players a realistic allotment
+bug-reports 2019-02-18 05:08:30 260kbytes is all they can physically give per player?
+bug-reports 2019-02-18 05:09:04 not even kilo?
+bug-reports 2019-02-18 05:10:33 oh dont insult me like that
+bug-reports 2019-02-18 05:11:57 I'm going off of what you said "actually 260 kilobytes then
+and the save limit isn't using bytes as the unit of measurement"
+bug-reports 2019-02-18 05:13:21 why do they call it that then >.<
+bug-reports 2019-02-18 05:13:48 the one who use that word next to those numbers in the save gui
+bug-reports 2019-02-18 05:14:51 I'm sorry, I thought they used bytes, having gone back in and check I was wrong
+bug-reports 2019-02-18 05:15:28 they dont even give us an option to delete an old build
+bug-reports 2019-02-18 05:20:41 I think its a bit deceptive for them to give 15 save slots instead of 8
+bug-reports 2019-02-18 05:22:19 thats very indirect, though I am doing that
+bug-reports 2019-02-18 05:23:34 my mistake was saving the thing 3 times
+bug-reports 2019-02-18 05:23:48 trying to keep myself from doing what I did the night before
+bug-reports 2019-02-18 05:24:18 having backups of ones own build on the system is no good 😦
+bug-reports 2019-02-18 05:26:41 woa, I just tested saving 1 block in each save space, it consumes a lot more
+bug-reports 2019-02-18 05:27:00 than what I anticipated
+bug-reports 2019-02-18 05:28:47 iirc this must be my second time learning this since november, I will be more careful this time
+bug-reports 2019-02-18 05:33:10 I find myself going into the mysery of trying to rebuild the thing again, the right way thist time, not as a psychotic saver 😄
+plane-crazy 2019-02-18 06:44:01 why did they remove the crumbling build effect?
+plane-crazy 2019-02-18 06:44:37 anyone know a trick to aligning an inner wedge?
+help 2019-02-18 06:46:16 anyone know the trick to aligning inner wedges?
+help 2019-02-18 06:46:20 its a pain to find it
+plane-crazy 2019-02-18 07:10:43 my giant quadcopter flies 😄
+plane-crazy 2019-02-18 07:10:46 now that I save it correctly
+plane-crazy 2019-02-18 09:11:12 what happened to integex?
+plane-crazy 2019-02-18 09:11:24 aww
+plane-crazy 2019-02-18 09:11:36 what did he do
+plane-crazy 2019-02-18 09:12:06 oh ._.
+creations-chat 2019-02-18 11:39:38 can I submit a picture?
+creations-chat 2019-02-18 11:50:01 This truck I built back in November, its inspired from the real world "Shockwave" jet racing truck
+plane-crazy 2019-02-18 12:07:51 <@!221487880487436288>  why did you leave?
+plane-crazy 2019-02-18 12:08:49 oh dang
+plane-crazy 2019-02-18 12:08:56 I haven't crashed yet
+creations-chat 2019-02-18 12:36:50 Heres a drone I made a couple months back before building the big one
+creations-chat 2019-02-18 13:05:01 dang an update
+plane-crazy 2019-02-18 13:05:22 well that buffer server didn't finish its job 😦
+plane-crazy 2019-02-18 13:05:24 we still got kicked
+plane-crazy 2019-02-18 13:05:47 blue ridge mountains?
+plane-crazy 2019-02-18 13:06:22 take me home
+plane-crazy 2019-02-18 13:06:29 to the place, i once belong
+plane-crazy 2019-02-18 13:06:54 I'm a john denver fan aswell 😃
+plane-crazy 2019-02-18 13:37:11 auto clicker xD
+creations-chat 2019-02-18 13:38:02 Oh yea heres my small one designed to fit in vehicles xD
+plane-crazy 2019-02-18 16:01:00 LOL
+plane-crazy 2019-04-15 21:13:38 Howdy
+plane-crazy 2019-04-15 21:13:57 how come I can't build anymore after building part of a shell to my UFO?
+plane-crazy 2019-04-15 21:14:13 its only a shell...
+plane-crazy 2019-04-15 21:14:19 its within my building zone
+plane-crazy 2019-04-15 21:14:31 the ufo is 51 x 51 blocks
+plane-crazy 2019-04-15 21:15:08 
+plane-crazy 2019-04-15 21:15:14 what block count?
+plane-crazy 2019-04-15 21:15:31 it is saved
+plane-crazy 2019-04-15 21:15:51 1894
+plane-crazy 2019-04-15 21:16:42 
+plane-crazy 2019-04-15 21:16:48 I am using beams.. to measure
+plane-crazy 2019-04-15 21:17:20 press on the what
+plane-crazy 2019-04-15 21:18:02 the building tab is open...
+plane-crazy 2019-04-15 21:18:13 I keep getting the cannot build sound effect
+plane-crazy 2019-04-15 21:18:29 what did I just say
+plane-crazy 2019-04-15 21:18:44 your telling me to open something I already have open
+plane-crazy 2019-04-15 21:19:04 i have that damn menu open gmurek
+plane-crazy 2019-04-15 21:20:12 
+plane-crazy 2019-04-15 21:20:15 why does it say 0?
+plane-crazy 2019-04-15 21:20:39 we only get 1500 1x1's?!?
+plane-crazy 2019-04-15 21:20:46 thats not enough to do a real build...
+plane-crazy 2019-04-15 21:21:16 I will start using beams...
+plane-crazy 2019-04-15 21:21:27 its gonna look like crap
+plane-crazy 2019-04-15 21:21:38 I wont be able to texture the blocks in diferent colors like I wanted to
+plane-crazy 2019-04-15 21:22:46 i still have to build an interior, and the 4 prop housings
+plane-crazy 2019-04-15 21:24:07 a single one?
+plane-crazy 2019-04-15 21:24:16 ah
+plane-crazy 2019-04-15 21:28:03 do the beams minimize block count aswell?
+plane-crazy 2019-04-15 21:28:11 oh dang
+plane-crazy 2019-04-15 21:28:31 then my project might still be possible, if only we had 3x1 beams
+plane-crazy 2019-04-15 21:33:08 it seems my epic quadcopter project is dead 😦
+plane-crazy 2019-04-15 21:33:31 oh well, a giant ufo is still as satisfying
+plane-crazy 2019-04-16 13:01:11 Finally I got it 😄
+plane-crazy 2019-04-16 13:04:39 Erm here we go
+plane-crazy 2019-04-16 14:38:21 What do you folks think?
+plane-crazy 2019-04-16 16:17:53 does plane crazy not like things sliding directly against each other?
+plane-crazy 2019-04-16 16:18:18 <@!381263178589536257> I did
+plane-crazy 2019-04-16 16:19:12 aww <@!381263178589536257> why did you leave? I was liking your sentry bot
+plane-crazy 2019-04-16 16:20:01 of course I am
+plane-crazy 2019-04-16 16:20:06 oh dang
+plane-crazy 2019-04-16 16:20:16 that guy was being annoying, lots of super thrusters
+plane-crazy 2019-04-16 16:21:02 I got into that game in 2015
+plane-crazy 2019-04-16 23:09:41 
+plane-crazy 2019-04-16 23:09:52 woa
+plane-crazy 2019-04-16 23:10:17 who likes my jupiter 2?
+plane-crazy 2019-04-16 23:10:46 superidra the top glass dome is not a cockpit
+plane-crazy 2019-04-16 23:10:51 that is the forcefield generator
+plane-crazy 2019-04-16 23:11:45 https://i.pinimg.com/originals/64/6d/88/646d887e79c86e23f8fd1b369349bbd4.jpg
+plane-crazy 2019-04-16 23:12:57 took forever to measure out every single circle, though a minecraft circle pixel generator came in very handy
+plane-crazy 2019-04-16 23:13:26 51x51 circle
+plane-crazy 2019-04-16 23:15:08 
+plane-crazy 2019-04-16 23:15:49 what does af mean?
+plane-crazy 2019-04-16 23:18:48 eh?
+plane-crazy 2019-04-16 23:18:57 galaxy?
+plane-crazy 2019-04-16 23:23:30 heres the cockpit window
+plane-crazy 2019-04-16 23:23:40 I am forced to keep the window small because of the design
+plane-crazy 2019-04-16 23:24:09 woaa
+plane-crazy 2019-04-16 23:24:17 is that like the only save he has anymore?
+plane-crazy 2019-04-16 23:25:25 <@!429665143677255681> how did you make that thing only 3k?
+plane-crazy 2019-04-16 23:25:39 my hollow ufo is is already 3300
+plane-crazy 2019-04-16 23:25:49 including a crapload of beams
+plane-crazy 2019-04-16 23:28:21 <@!530774331081621504> you built a fin whale?
+plane-crazy 2019-04-16 23:29:01 oh galaxy miner...
+plane-crazy 2019-04-16 23:29:07 naming their ships after fish o.o
+plane-crazy 2019-04-16 23:29:32 oh
+plane-crazy 2019-04-16 23:29:35 interesting
+plane-crazy 2019-04-17 00:55:06 oh dang
+plane-crazy 2019-04-17 00:59:33 is there a speed limit for motors now?
+plane-crazy 2019-04-17 00:59:40 erm a weight limit
+plane-crazy 2019-04-17 01:18:14 Why is this spinning slow with 4 motors per rotor maxed out?
+plane-crazy 2019-04-17 01:18:37 so things wont work as they should?
+plane-crazy 2019-04-17 01:18:55 ive not felt much lag with this
+plane-crazy 2019-04-17 01:20:12 
+plane-crazy 2019-04-17 01:20:17 and this jackrabbit aint helping
+plane-crazy 2019-04-17 01:20:58 erm 2nd guy away from me
+plane-crazy 2019-04-17 01:22:44 well all the motors are spinning the rotor in the same direction
+plane-crazy 2019-04-17 01:23:20 I know that motor on top of motor doubles it
+plane-crazy 2019-04-17 01:23:45 why is it spinning so freakin slow with even 2 motors?
+plane-crazy 2019-04-17 01:24:08 of course
+plane-crazy 2019-04-17 01:24:52 my humungous quadcopter spins quite well
+plane-crazy 2019-04-17 01:25:00 so I know that these rotors are not overburdened
+plane-crazy 2019-04-17 01:25:25 what was that?
+plane-crazy 2019-04-17 01:25:32 oh settings
+plane-crazy 2019-04-17 01:25:38 sorry, passed my eyes
+plane-crazy 2019-04-17 01:26:39 Bottom
+plane-crazy 2019-04-17 01:27:11 Top
+plane-crazy 2019-04-17 01:27:34 I know how this stuff works -_-
+plane-crazy 2019-04-17 01:27:57 will that hurt it?
+plane-crazy 2019-04-17 01:28:11 oh
+plane-crazy 2019-04-17 01:28:28 no toggle, I navigate with 4 keys simultaneously
+plane-crazy 2019-04-17 01:28:36 I use toggle for a hover setup
+plane-crazy 2019-04-17 01:28:58 I might flip the rotor blades, as I saw someone do that earlier
+plane-crazy 2019-04-17 01:29:29 erm not flip, but position them vertically instead of horizontally
+plane-crazy 2019-04-17 01:34:51 this aint working 😦
+plane-crazy 2019-04-17 01:45:35 eh?
+plane-crazy 2019-04-17 01:48:57 o.o
+plane-crazy 2019-04-17 01:50:15 holy macaroni
+plane-crazy 2019-04-17 01:52:37 I hope this doesn't get patched
+plane-crazy 2019-04-17 01:54:02 eh?
+plane-crazy 2019-04-17 01:54:19 I use bluestacks aswell
+plane-crazy 2019-04-17 01:54:27 migrating over to anbox
+plane-crazy 2019-04-17 01:57:52 holy macarole it flies!
+plane-crazy 2019-04-17 01:58:12 with the speed glitch
+plane-crazy 2019-04-17 02:02:15 
+plane-crazy 2019-04-17 02:02:26 4 50 motors so a max of 200 speed per rotor 😮
+plane-crazy 2019-04-17 02:06:05 his face scarrs me
+plane-crazy 2019-04-17 02:06:54 this ufo's movement is so slow with all that power, is that causing trememdous server strain?
+plane-crazy 2019-04-17 02:07:43 thats behind the car
+plane-crazy 2019-04-17 02:21:17 wow 100 speed is not enough to keep it in stable hover, might have to try 150
+plane-crazy 2019-04-17 02:34:03 would having a flywheel for special effects throw off balance?
+plane-crazy 2019-04-17 02:39:40 why are you using the white discord theme?
+plane-crazy 2019-04-17 02:39:45 thats hard on your eyes xD
+plane-crazy 2019-04-17 02:41:42 xD
+plane-crazy 2019-04-17 02:44:21 so the blue building compass is for propulsion balance right?
+plane-crazy 2019-04-17 02:44:30 and the golden building compass for weight?
+plane-crazy 2019-04-17 02:46:01 your a bit vague there
+plane-crazy 2019-04-17 02:46:47 he didn't specify which of them are center of mass
+plane-crazy 2019-04-17 02:47:05 okay
+plane-crazy 2019-04-17 02:47:09 I thought so
+plane-crazy 2019-04-17 02:47:40 my lift setup is equal, yet the blue is poking out of the yellow just a little bit
+plane-crazy 2019-04-17 02:48:20 figorsBoy want me to join you in a game?
+plane-crazy 2019-04-17 02:48:23 so you can see first hand?
+plane-crazy 2019-04-17 02:48:45 okie dokie
+plane-crazy 2019-04-17 02:50:48 must be rockets
+plane-crazy 2019-04-17 02:51:27 or could it be my center of mass is out of balance
+plane-crazy 2019-04-17 02:57:12 wanna join me?
+plane-crazy 2019-04-17 02:58:13 so you can walk around it first hand
+plane-crazy 2019-04-17 03:00:35 ok
+plane-crazy 2019-04-17 03:17:31 how is reveal done?
+plane-crazy 2019-04-17 03:24:10 hi figors
+plane-crazy 2019-04-17 03:24:20 woa your name changed
+plane-crazy 2019-04-17 03:24:42 so this RoVer tracks what active login is used
+plane-crazy 2019-04-17 03:24:51 no
+plane-crazy 2019-04-17 03:25:03 ehem what?
+plane-crazy 2019-04-17 03:25:23 ?
+plane-crazy 2019-04-17 03:25:36 oh sorry
+plane-crazy 2019-04-17 03:25:42 I currently have the flu
+plane-crazy 2019-04-17 03:25:46 its messing with my head
+plane-crazy 2019-04-17 03:26:06 oh.. the server hates large masses..
+plane-crazy 2019-04-17 03:27:42 oh 😦
+plane-crazy 2019-04-17 03:28:57 !servers
+plane-crazy 2019-04-17 03:29:01 oh
+plane-crazy 2019-04-17 03:30:03 ._.
+plane-crazy 2019-04-17 04:43:40 
+plane-crazy 2019-04-17 04:43:49 I was able to shrink my smallest quad 😄
+plane-crazy 2019-04-17 21:15:11 neat
+plane-crazy 2019-04-18 05:08:46 nice
+plane-crazy 2019-04-19 03:48:22 the other one is completely upside down 😛
+plane-crazy 2019-04-19 03:48:32 in all thinkable prospects
+plane-crazy 2019-04-19 03:48:46 jking lol
+plane-crazy 2019-04-19 16:05:25 what game are those eggs on?
+plane-crazy 2019-05-19 00:10:58 toto
+plane-crazy 2019-08-17 16:31:55 nice submarine plane
+plane-crazy 2019-08-17 18:28:02 whys it so much harder to ragdoll glitch?
+plane-crazy 2019-08-17 18:28:25 no money for that
+plane-crazy 2019-08-17 18:28:54 its significantly harder
+plane-crazy 2019-08-17 18:31:51 LOL
+plane-crazy 2019-08-17 18:32:19 at least the motor speed glitch isn't patched
+plane-crazy 2019-08-17 18:32:24 my quadcopters run well still
+plane-crazy 2019-08-17 18:32:42 rlly?
+plane-crazy 2019-08-17 18:32:51 oh dang
+plane-crazy 2019-08-17 18:32:56 I will try that
+plane-crazy 2019-08-17 18:33:05 https://i.imgur.com/WnCkXAX.jpg
+plane-crazy 2019-08-17 18:33:07 lulz
+plane-crazy 2019-08-17 18:33:30 jupiter 2
+plane-crazy 2019-08-17 18:34:04 the behemoth flies 😮
+plane-crazy 2019-08-17 18:34:54 a shower in plane crazy o.O
+plane-crazy 2019-08-17 18:35:42 and lava for hot lol
+plane-crazy 2019-08-17 18:36:01 ah thought so
+plane-crazy 2019-08-17 18:37:07 singlerpl chill 😮
+plane-crazy 2019-08-17 18:43:18 lmao
+plane-crazy 2019-08-17 18:54:47 I gotta go to walmart today, for a new inner-tube 😮
+plane-crazy 2019-08-17 18:55:34 I do like the better flying physics
+plane-crazy 2019-08-17 18:56:09 <@456226577798135808> new inner-tube for my ebike wheel
+plane-crazy 2019-08-17 19:05:08 ca we still set motors to the hundredth decimal?
+plane-crazy 2019-08-17 19:05:42 my friend who is learning to make a quad, says the hundredth keeps getting server changed on him
+plane-crazy 2019-08-17 19:25:39 warthog?
+plane-crazy 2019-08-17 19:26:06 lol
+plane-crazy 2019-08-17 19:26:16 airplanes are overrated, quadcopters forever
+plane-crazy 2019-08-17 19:26:34 swashplates o.o
+plane-crazy 2019-08-17 19:26:49 theres no easy swashplate control
+plane-crazy 2019-08-17 19:27:28 the heck do you even mean by that o.o
+plane-crazy 2019-08-17 19:32:05 pedo o.o
+plane-crazy 2019-08-17 19:32:37 LOL he removed his pedo comment
+plane-crazy 2019-08-17 19:40:59 loading takes so long ._.
+plane-crazy 2019-08-17 19:41:08 when trying to use your build
+plane-crazy 2019-08-17 19:42:50 anyone wann see my quad fly in their server?
+plane-crazy 2019-08-21 06:54:46 what is this world timing graphics throttles network?
+plane-crazy 2019-08-21 06:54:56 gui, I forgot what macro I hit that enabled it
+plane-crazy 2019-08-21 06:59:21 doe anyone know what this is? https://i.imgur.com/Uelhome.png
+plane-crazy 2019-08-21 06:59:35 oh ty
+plane-crazy 2019-08-23 05:25:06 where do I report griefers
+plane-crazy 2019-08-23 05:26:07 is this bannable? https://i.imgur.com/utI5vkK.jpg
+plane-crazy 2019-08-23 05:26:28 thats the work of NightPumpkin0310
+plane-crazy 2019-08-23 21:20:38 were glass blocks removed??
+plane-crazy 2019-08-23 21:22:01 bruh what
+plane-crazy 2019-08-23 21:22:12 I'm looking in materials
+plane-crazy 2019-08-23 21:22:24 oh
+plane-crazy 2019-08-23 21:22:25 nvm
+plane-crazy 2019-08-23 22:06:55 who wants to see my new quad?
+plane-crazy 2019-08-23 22:07:06 :/
+plane-crazy 2019-08-23 22:44:02 https://i.imgur.com/yjHPYXg.png
+plane-crazy 2019-08-23 22:44:28 theres my quad 😄
+plane-crazy 2019-08-23 22:44:33 and its stable
+plane-crazy 2019-08-23 22:47:10 I could probably build this quadcopter in real life
+plane-crazy 2019-08-23 22:47:32 with a toy quadcopter
+plane-crazy 2019-08-23 22:48:11 though I dont have any toy quads to spare,  lost the one I did make a frame for
+plane-crazy 2019-08-23 22:51:32 who likes my new quad?
+plane-crazy 2019-08-24 00:59:55 interestring
+plane-crazy 2019-08-24 01:00:01 heavier, more surface area
+plane-crazy 2019-08-24 01:54:25 https://i.imgur.com/kZRnLPk.jpg
+plane-crazy 2019-08-24 01:54:30 just finsihed this one
+plane-crazy 2019-08-24 01:55:54 whoa I hear cicaidens
+plane-crazy 2019-08-24 01:56:07 haven't heard them in years
+plane-crazy 2019-08-24 23:33:12 WELP UPDATE
+plane-crazy 2019-08-24 23:33:43 heyy madattak is live 😄
+plane-crazy 2019-08-24 23:33:57 well he's online
+plane-crazy 2019-08-24 23:35:24 I couldn't resist lol
+plane-crazy 2019-08-25 02:06:34 oooh fun
+plane-crazy 2019-09-02 05:27:17 why can't we set motors to 60 anymore?
+plane-crazy 2019-09-02 05:28:20 why the hell for?!?
+plane-crazy 2019-09-02 05:28:43 thats a mick move on his part
+plane-crazy 2019-09-02 05:30:13 I enjoyed turbing my quadcopter to 60 😦
+plane-crazy 2019-09-02 05:30:20 now I can't go as fast with a small quad
+plane-crazy 2019-09-02 05:35:13 what'd he do?
+plane-crazy 2019-09-02 05:36:49 word...
+plane-crazy 2019-09-02 05:37:29 I found a bug
+plane-crazy 2019-09-02 05:37:32 just now
+plane-crazy 2019-09-02 05:37:57 someone wanna join me in game so I can show whoever wants to see?
+plane-crazy 2019-09-02 05:39:34 oh nvm, I am slow at realizing
+plane-crazy 2019-09-02 05:58:51 nice constitution class
+plane-crazy 2019-09-02 06:02:21 if only we could set motors to 100
+plane-crazy 2019-09-02 06:03:06 I can't get the level of control with twice as many motors set to 50 for the speed I am looking for
+plane-crazy 2019-09-02 06:04:00 I tried putting motors upside down, and running in reverse, that just equalized the movement I wanted
+plane-crazy 2019-09-02 06:05:40 HOW?!?
+plane-crazy 2019-09-02 06:05:51 thats amazing
+plane-crazy 2019-09-02 06:18:30 look at what megaian508 built xD https://i.imgur.com/1jw70oz.jpg
+plane-crazy 2019-09-02 06:18:38 so cool
+plane-crazy 2019-09-02 06:20:09 need a dreadnaught
+plane-crazy 2019-09-02 06:20:15 galaxy class
+plane-crazy 2019-09-02 06:20:31 no it aint
+plane-crazy 2019-09-02 06:20:47 its a beautiful flag ship, carrying thousands of people
+plane-crazy 2019-09-02 06:21:16 I like all the series before 2009
+plane-crazy 2019-09-02 06:24:49 vip can I join you?
+plane-crazy 2019-09-02 06:25:18 okay
+plane-crazy 2019-09-02 06:25:24 is it full?
+plane-crazy 2019-09-02 06:25:53 may I join you?
+plane-crazy 2019-09-02 06:26:25 I haven't tried yet
+plane-crazy 2019-09-02 06:27:05 might you add me as a friend so I could?
+plane-crazy 2019-09-02 06:28:02 oh 😦
+plane-crazy 2019-09-02 06:28:13 I thought at one point earlier this year you might have
+plane-crazy 2019-09-02 06:29:12 oh it worked
+plane-crazy 2019-09-02 06:33:34 😄 https://i.imgur.com/UXcqymc.jpg
+plane-crazy 2019-09-02 06:54:08 vip you left
+plane-crazy 2019-09-02 07:02:13 air mail makes one happy
+plane-crazy 2019-09-02 07:02:15 air parcels
+general 2020-03-22 10:52:31 well thats a new verify method
+general 2020-03-22 10:52:50 is there a non robux way to get the minigun rocket?
+general 2020-03-22 10:56:27 a pvp weapon someone showed me just now
+general 2020-03-22 11:21:52 not talking about the fireworks
+general 2020-03-22 11:22:20 oh wait your right
+general 2020-03-22 11:22:22 it is fireworks
+general 2020-03-22 20:38:42 476 cases, 6 deaths in my state :/
+general 2020-03-22 20:38:59 holy cow china's cases have gone down significantly
+general 2020-03-22 20:41:38 how is that possible with such an aggressively powerful and infective disease?
+general 2020-03-22 20:42:06 true
+general 2020-03-22 20:42:30 heyy madattak is online 😄
+general 2020-03-22 20:47:30 toilet paper is for those that dont have a bidet
+general 2020-03-22 23:46:19 wow I survived.. https://i.imgur.com/jSJVYWm.png
+general 2020-03-22 23:48:03 sitting on my back on the bottom
+general 2020-03-22 23:48:10 in the chair xD
+general 2020-03-22 23:49:07 for some reason my character did not fall apart
+plane-crazy 2020-03-26 20:39:32 call in airwolf xD
+plane-crazy 2020-03-26 20:40:00 it has a tasty apetite for migs 😛
+plane-crazy 2020-03-26 23:11:04 anyone see my hoarde of noobs today?
+plane-crazy 2020-03-27 00:34:39 kamikaze?
+plane-crazy 2020-03-27 02:21:38 who screwed up innovation labs? https://i.imgur.com/0NjsNNR.jpg
+plane-crazy 2020-03-27 02:21:49 this is PC, not a tv console..
+plane-crazy 2020-03-27 02:22:11 I dont play PC games with a gamepad, doesn't make sense
+plane-crazy 2020-03-27 02:23:03 I only play emulated console games with a gamepad
+plane-crazy 2020-03-27 02:23:13 erm, for racing games I use a cheap steering wheel..
+plane-crazy 2020-03-27 02:23:50 I bought mine for $4 from the thrift store
+plane-crazy 2020-03-27 02:24:29 I feel sorry for those who can't afford a $4 steering wheel 😦
+plane-crazy 2020-03-27 02:25:33 where?
+plane-crazy 2020-03-27 02:26:01 I'm in the midwest myself
+plane-crazy 2020-03-27 02:26:44 gulherme USA?
+plane-crazy 2020-03-27 02:26:57 oh dang
+reports 2020-03-30 01:23:20 User: duckdx1
+Reason: Mega moving object spam
+Player was asked repeatedly to stop and would not.
+Evidence: https://imgur.com/LzhT3F2
+Profile: https://www.roblox.com/users/1283238140/profile
+general 2020-03-30 01:27:10 oof, hope folks can see the video in my player report
+general 2020-03-30 01:50:23 agh players that build flying machines with snow blowers suck -_-
+general 2020-03-30 01:50:28 so freaken loud
+general 2020-03-30 01:55:45 I didn't want to...
+general 2020-03-30 01:55:49 I wanna hear other jet engines around me, part of game ambience
+general 2020-04-03 08:42:55 check out what I did in real life xD 
+https://imgur.com/gallery/tBoBsvT
+general 2020-04-16 01:38:22 found the egg heli but it keeps flying away from me
+general 2020-04-16 01:38:27 whats the point of it?
+general 2020-04-16 01:43:22 nvm got it
+general 2020-04-16 01:43:28 that was cool
+general 2020-04-16 01:59:57 is the dev egg still accessible?
+general 2020-04-16 02:32:59 o.O
+general 2020-04-21 04:46:12 if only we could modify the horn's frequency
+general 2020-06-07 08:38:44 aren't motors supposed to act like hinges?
+general 2020-06-07 08:41:08 nvm figured out my issue
+general 2020-06-07 09:00:30 wish half blocks could be combined with half blocks, to make up a unique full block, instead of taking up a full block of space
+general 2020-06-07 09:44:48 whats the lock feature for on motor1?
+general 2020-06-07 09:44:57 does it prevent any movement to it?
+general 2020-06-07 09:45:10 I could use it if it were toggle
+general 2020-06-07 09:54:21 wth was our save data decreased??
+general 2020-06-07 09:54:37 repression is repression >.<
+general 2020-06-07 09:55:53 so we have even less save space 😦
+general 2020-06-07 10:07:24 but the save data limit could have been decreased even farther below the ratio balance :/
+general 2020-06-07 10:07:48 lol
+general 2020-06-07 10:11:10 or riot for combined half blocks xD
+general 2020-06-07 10:11:33 and possibly combinable wedges,  if that were to make any sense 😛
+general 2023-01-10 23:27:13 howdy
+general 2023-01-10 23:27:59 its too bad we cant put these so close togethor :/ https://i.imgur.com/7qAulMV.png
+general 2023-01-10 23:28:31 since https://i.imgur.com/ZKTrLbE.png
+general 2023-01-10 23:30:48 huh?
+general 2023-01-10 23:31:15 great to see madattak here 😄
+general 2023-01-10 23:31:43 no way, pinging staff is against TOS
+general 2023-01-10 23:31:59 you crazy
+general 2023-01-10 23:33:12 are you guys serious...
+general 2023-01-10 23:33:30 that should be a kickable offense
+general 2023-01-10 23:33:54 with you guys trying to coerce others into getting in trouble
+general 2023-01-10 23:34:13 not really
+general 2023-01-10 23:34:47 yeah you did, the way you kept spamming bout it
+general 2023-01-10 23:35:45 whats your issue?
+general 2023-01-10 23:35:48 I'm just a common bloke
+general 2023-01-10 23:36:17 I was here a few years ago too..
+general 2023-01-10 23:36:38 yeah I was, back in 2017-2019
+general 2023-01-10 23:36:46 I left the server, then came back
+general 2023-01-10 23:37:02 no alts for me
+general 2023-01-10 23:37:19 oh I left in 2020
+general 2023-01-10 23:37:34 you would know too if you searched my name..
+general 2023-01-10 23:37:43 YES
+general 2023-01-10 23:37:53 check out how many years I had been before
+general 2023-01-10 23:38:12 that is, if you know how to use it..
+general 2023-01-10 23:38:24 I used to be a vet builder
+general 2023-01-10 23:39:29 you are rediculous
+general 2023-01-10 23:40:08 for this year..
+general 2023-01-10 23:40:48 wonder why it dont show my messages from 2018 :/
+general 2023-01-10 23:42:56 I may have not joined the plane crazy discord at that time then
+general 2023-01-10 23:43:05 was playing plane crazy before then tho
+general 2023-01-10 23:43:19 for my second time..
+general 2023-01-10 23:44:42 ...
+general 2023-01-10 23:45:02 not referring to my second time, referring to my first..
+general 2023-01-10 23:45:25 if you have the brain power to figure that..
+general 2023-01-10 23:46:51 this member has verified he cant understand multiple join times..
+general 2023-01-10 23:47:40 no it aint you ignoranimous
+general 2023-01-10 23:48:23 do you know how to read..
+general 2023-01-10 23:49:09 then convince us you can read time tables..
+general 2023-01-10 23:49:26 on my return to the server..
+general 2023-01-10 23:49:39 QUIT PHOTOSHOPPING MORON
+general 2023-01-10 23:50:21 you keep on scribbling out the SERVER recorded time.. that counts as photoshopping..
+general 2023-01-10 23:50:55 photoshopping can be done in any image editing program
+general 2023-01-10 23:51:31 you read it yourself already, you are going to the length of covering it up in your screenshot..
+general 2023-01-10 23:52:33 fool
+general 2023-01-10 23:52:49 quit already
+general 2023-01-10 23:54:36 you are wrong again
+general 2023-01-10 23:54:43 you wont accept that this my return join today
+general 2023-01-10 23:54:49 you are the one in denial
+general 2023-01-10 23:55:36 is chiseled cheese like the clown troll of the server?
+general 2023-01-10 23:55:52 you are not allowed to answer that question <@900865317373374555>
+general 2023-01-10 23:56:26 it was a pointer..
+general 2023-01-10 23:58:00 if thats final to you you are sad
+general 2023-01-10 23:58:56 its the fact that you cant understand what a return join to a server is
+general 2023-01-11 00:00:28 wow.. did he just get it..
+general 2023-01-11 00:00:43 you are a fool if you believe that
+general 2023-01-11 00:02:12 excuse me, you are the one bullying me..
+general 2023-01-11 00:03:32 I hope your not jealous of my being here way before you..
+general 2023-01-11 00:04:15 just trying to figure out why you even started the argument..
+general 2023-01-11 00:04:36 I live in a desert region..
+general 2023-01-11 00:05:01 theres a lot of it in northern wyoming
+general 2023-01-11 00:05:37 dude knock off your lies
+general 2023-01-11 00:06:26 I give up, the player cant accept reality, so I blocked him
+general 2023-01-11 00:09:41 with the extent of that pestimistic chatter's aim, hard to believe that
+general 2023-01-11 02:36:02 whos this character?
+general 2023-01-11 02:36:29 im a bicyclist o.o
+general 2023-01-11 02:37:10 oh hi integexx
+general 2023-01-11 02:37:15 ltns
+general 2023-01-11 02:39:16 integexx hows plane crazy going for you these days?
+general 2023-01-11 02:41:01 ?
+general 2023-01-11 02:41:24 I dont use krill oil
+general 2023-01-11 02:50:14 krill oil is stronger in omega 3's than fish oil supplements <@914605911744593930>
+general 2023-01-11 02:50:41 I was just doing research on it earlier today hehe
+general 2023-01-11 02:52:49 I've always seen references in memes in build world but dunno who it is extikal
+general 2023-01-11 04:13:07 where are lights at?
+general 2023-01-11 04:31:01 have flame throwers been removed?
+general 2023-01-11 04:31:37 ?
+general 2023-01-11 04:46:03 how come the sparkler and snowpipe cant be built?
+general 2023-01-11 05:43:27 server still strugles with dampers :/
+general 2023-01-12 00:32:41 is it no longer possible to report these troublemakers? https://i.imgur.com/vbciEF2.jpg
+general 2023-01-12 00:33:12 Im reading that reporting has been disabled
+general 2023-01-12 00:33:40 even after they hired on new moderator staff?
+general 2023-01-12 00:34:22 that channel is closed if you can see
+general 2023-01-12 00:34:47 oh wow
+general 2023-01-12 01:37:40 I love riding my pedal assist ebike I built 😄
+general 2023-01-12 01:38:11 a good door for nature 😄
+general 2023-01-12 01:38:45 only time I lament riding is winter :/
+general 2023-01-12 01:38:56 yet I still do it, cause I have a motorcycle helmet
+general 2023-01-12 01:39:33 I have friends that just moved to the nederlands 😮
+general 2023-01-12 06:34:47 looky what I built https://i.imgur.com/lrZJ1P0.jpg
+general 2023-01-12 06:35:00 why cant my links ever be seen 😦
+general 2023-01-12 06:37:27 1 single motor lock seems to be enough to prevent the arms from wondering 😮
+general 2023-01-12 06:37:43 this feature is gonna be missed 😦
+general 2023-01-12 06:37:53 when its removed in plane crazy 2
+general 2023-01-12 06:42:58 huh?
+general 2023-01-12 06:43:22 easiest way to use greenshot, imgur anonymous upload
+general 2023-01-12 06:44:16 huh
+general 2023-01-12 06:44:49 no way in my right mind would I be posting bout furries..
+general 2023-01-12 06:49:07 rip torn might have heard that
+general 2023-01-14 05:24:23 I like those steinwinters
+general 2023-01-14 07:43:45 Ah heres one of your earlier steinwinter tractors https://youtu.be/DfWGlUEpupA?t=2147
+general 2023-01-14 07:50:53 why you relinking what I posted?
+general 2023-01-14 07:51:40 oh, I guess embed's are for role earned chatters :/
+general 2023-01-14 07:55:58 and I haven't gotten that since 2019 :/
+general 2023-01-14 07:56:17 thought I did
+general 2023-01-14 08:00:19 your not referring to me..
+general 2023-01-14 08:03:09 left in 2020 when things were getting crazy
+general 2023-01-14 08:06:59 are you even the slightest bit interested at lookin in my chat history?
+general 2023-01-14 08:08:01 then you are an ignorant fool only believing a glitch
+general 2023-01-14 08:08:50 that has no relevance..
+general 2023-01-14 08:09:46 none of you are interested in true facts apparently..
+general 2023-01-14 08:11:43 its a shame cause I have posted some pretty impressive builds back in 2019-2020 that I sadly had to delete when storage space for builds was not a premium
+general 2023-01-14 08:12:00 and all my builds I spoke about are still on this server
+general 2023-01-14 08:12:48 who you callin a nerd?
+general 2023-01-14 08:12:53 I am not a nerd
+general 2023-01-14 08:13:35 more to those who actually look
+general 2023-01-14 08:22:14 is there an admin on?
+general 2023-01-14 08:22:40 darn
+general 2023-01-14 08:22:52 need to ask them to reset my join date back to my first server message
+general 2023-01-14 09:23:07 howd you angle it?
+general 2023-01-14 09:57:13 those are 45d turned squares, you cant build on the angle portion of a wedge
+general 2023-01-14 09:57:56 degrees of angle..
+general 2023-01-14 09:58:30 id have to look up the alt code
+general 2023-01-14 09:58:42 I did..
+general 2023-01-14 10:09:04 why are you pointing to before I said it?
+general 2023-01-14 10:09:29 unless you didn't notice my correction that is plain as day..
+general 2023-01-15 03:05:58 beautiful https://www.youtube.com/watch?v=eMEDSfhXFLQ
+general 2023-01-15 03:08:34 yeah, thats why I  posted 😛
+general 2023-01-15 03:08:51 ah, will keep that in mind
+general 2023-01-20 00:45:06 do ornithopters with wing surfaces no longer work?
+general 2023-01-20 00:45:09 I remember when they did 😦
+general 2023-01-20 01:02:07 so the direction on wing surfaces is for the direction of the vehicle right?
+general 2023-01-21 03:55:00 why did roblox have to ruin the backslash key?
+general 2023-03-11 09:19:38 how come this dont work https://i.imgur.com/UuT5WSa.png
+general 2023-03-11 09:19:47 ...
+general 2023-03-11 09:19:56 it should have embedded
+general 2023-03-11 09:20:45 what are you smokin eske
+general 2023-03-11 09:21:41 why dont you add common sense to that stuff..
+general 2023-03-11 09:22:37 does a conveyor engine no longer work with suspension?
+general 2023-03-11 09:23:10 your 4?
+general 2023-03-11 09:24:11 eske posted his age in numerals
+general 2023-03-11 09:24:37 ah you almost had it
+general 2023-03-11 09:24:57 just one number off lul
+general 2023-03-11 09:36:42 anyone here build conveyor engines?
+general 2023-03-11 09:38:47 well the motors work great, I gotta try motor locking next
+general 2023-03-11 16:14:09 did that dog float away?
+general 2023-04-10 03:47:40 might plane crazy 2 have f3x support?
+general 2023-04-10 03:47:53 oh hi <@497961989084151808> 😄
+general 2023-04-10 03:49:49 ya, would be awesome to build aircraft in f3x level building
+general 2023-04-10 04:29:27 motor lock is tought
+general 2023-04-10 04:50:55 ooh I built a variable sweep wing jet a couple weeks ago in plane crazy
+general 2023-04-10 04:52:13 ew
+general 2023-04-10 04:52:34 no mines much bigger
+general 2023-06-01 03:15:38 hey <@298742938337542144>  howd you get in my game? https://i.imgur.com/9ZpJyjW.png
+general 2023-06-01 03:15:39 xD

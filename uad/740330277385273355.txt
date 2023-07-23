@@ -1,0 +1,27 @@
+The Tale of highdefinitionmediainput (740330277385273355)
+general 2021-06-25 22:27:43 sup
+general 2021-06-25 22:36:15 Jat
+general 2021-07-01 20:19:58 hack
+general 2021-07-01 20:19:58 hack
+general 2021-07-01 20:20:00 hack
+general 2021-07-01 20:20:00 hack
+general 2021-07-01 20:20:08 hack
+general 2021-11-06 00:37:11 Orbiter Vehicle (Space Shuttle) Launch
+
+T-335:00 Fuel pumps load fuel into External Tank
+T-180:00 Astronauts board the Orbiter Vehicle via White Room
+T-7:30   Orbiter access arm is retracted from the Orbiter Vehicle
+T-3:45   Main Engine Gimbal Test (this will ensure the functionality of the main engines)
+T-2:55   Beanie Cap is lifted and the Gaseous Oxygen Vent Arm is retracted.
+T-0:10   Hydrogen Burn Off System is activated to ignite any excess hydrogen
+T-0:06   Main Engine Ignition Sequence starts
+T-0:00   Gaseous Hydrogen Vent Arm is retracted from external tank
+T-0:00   Connections at the Tail Surface Mass retract
+T-0:00   Hold-Down Bolts detonate
+T-0:00   SRB Ignition Sequence Starts
+T-0:00   Liftoff
+general 2021-11-06 00:37:56 i need it for an essay
+general 2021-11-06 00:37:57 lol
+general 2021-11-06 00:37:59 im studying spaceflight
+general 2021-11-26 23:38:16 ikr laugh out loud
+general 2021-12-05 02:03:14 The Space Launch System is comprised of a crew module, a cargo hold, a massive core stage and 2 srbs. In all, this is the most powerful rocket, and exceeds the legendary Saturn V from the Apollo missions in numerous ways.

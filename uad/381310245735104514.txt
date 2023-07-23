@@ -1,0 +1,168 @@
+The Tale of matzukki (381310245735104514)
+general 2020-08-25 02:17:03 hi
+general 2020-08-25 02:17:07 can I ask
+general 2020-08-25 02:17:13 if theres an axis block in game
+general 2020-08-25 02:17:20 rotates stuff
+general 2020-08-25 02:17:39 does that spin?
+general 2020-08-25 02:17:50 no
+general 2020-08-25 02:17:51 I mean
+general 2020-08-25 02:17:55 motor only spins
+general 2020-08-25 02:18:01 and the other blocks around dont
+general 2020-08-25 02:18:13 ill just try :V
+general 2020-08-25 02:23:38 didnt work <@!533422608964911104>
+general 2020-08-25 02:24:05 the spinny stuff
+general 2020-08-25 02:24:44 
+general 2020-08-25 02:24:48 how do I make this spin
+general 2020-08-26 11:33:32 does anyone know how to make a heli stabilizer?
+general 2020-08-26 11:33:52 mine keeps rocking from sides
+general 2020-08-26 11:36:39 thx
+help 2020-08-26 11:36:54 does anyone know how to make a heli stabilizer?
+help 2020-08-26 11:39:45 oh
+help 2020-08-26 11:39:48 lemme try
+help 2020-08-26 11:44:58 control surfaces on the tip made my heli spin O_o
+help 2020-08-26 11:47:16 does materials affects my heli too
+help 2020-08-26 11:51:23 I tried everything didn't work :<
+<@!437152336176087052>
+help 2020-08-26 11:53:57 coaxial
+help 2020-08-26 11:54:16 actually im using 4 rotors
+help 2020-08-26 11:54:46 
+help 2020-08-26 11:54:49 is a chinook
+help 2020-08-26 11:55:27 why
+help 2020-08-26 11:56:03 hmm
+help 2020-08-26 11:56:19 aight
+help 2020-08-26 11:59:22 uhh
+help 2020-08-26 11:59:28 Chinook spins
+help 2020-08-26 11:59:41 oh
+help 2020-08-26 12:01:03 my chinook is mowing the ground
+help 2020-08-26 12:01:10 is there too much power
+help 2020-08-26 12:02:02 how about power? based on weight?
+help 2020-08-26 12:03:29 now the blades spins like a windmill
+help 2020-08-26 12:03:40 XD
+help 2020-08-26 12:04:04 is my power suppose to be high
+help 2020-08-26 12:04:48 
+help 2020-08-26 12:05:30 thats manageable
+help 2020-08-26 12:05:44 I have no idea
+help 2020-08-26 12:05:49 its my first time chill
+help 2020-08-26 12:06:51 oof
+help 2020-08-26 12:08:03 I just added 1 ballast at the bottom
+help 2020-08-26 12:08:23 but max settings
+help 2020-08-26 12:09:25 it was 10 but alright
+help 2020-08-26 12:10:36 you have a very detailed rotors damn
+help 2020-08-26 12:11:03 indeed
+help 2020-08-26 12:11:46 so uhh about my rotor speed and torque
+help 2020-08-26 12:11:57 imma adjust it on my own
+help 2020-08-26 12:12:29 but why is it so slow
+help 2020-08-26 12:12:33 literally
+help 2020-08-26 12:13:01 I mean yeah I see that but my doesnt even lift lol
+help 2020-08-26 12:13:21 I know those
+help 2020-08-26 12:13:34 can I send a vid here
+help 2020-08-26 12:13:38 ill make you see
+help 2020-08-26 12:14:57 
+help 2020-08-26 12:15:16 oof
+help 2020-08-26 12:15:23 why is it in download form
+help 2020-08-26 12:15:44 rip
+help 2020-08-26 12:16:53 so
+help 2020-08-26 12:17:08 I raised the torque a bit
+help 2020-08-26 12:17:14 it spins my heli
+help 2020-08-26 12:17:37 I made it 500
+help 2020-08-26 12:18:47 but why its not lifting
+help 2020-08-26 12:18:52 1 torque
+help 2020-08-26 12:18:53 50 speed
+help 2020-08-26 12:19:28 hmm
+help 2020-08-26 12:20:09 it raised the front of my heli and the behind is being pushed down
+help 2020-08-26 12:20:10 tf
+help 2020-08-26 12:20:21 is the first rotor supposed to be FR or RF?
+help 2020-08-26 12:20:42 ah
+help 2020-08-26 12:22:54 reeeee
+help 2020-08-26 12:23:24 but all heli blades are propeller wdym
+help 2020-08-26 12:25:16 imma try to fix this tomorrow
+general 2020-08-26 23:58:58 he's trying his best don't be hard on him
+general 2020-08-27 00:03:38 thats a lot of rotors
+general 2020-08-27 00:06:05 <:pogey:651848693842182144> <:pogey:651848693842182144> <:pogey:651848693842182144>
+general 2020-08-27 00:07:04 lol I saw a drone once before that looks like yours
+general 2020-08-27 00:07:17 lol
+general 2020-08-27 00:07:55 its a made up word to describe something from the used words
+help 2020-08-27 02:36:29 how do I make my heli fly
+help 2020-08-27 02:36:41 like my chinook isnt working
+help 2020-08-27 02:36:53 I tried anything I know
+help 2020-08-27 02:36:57 it spins on its own
+help 2020-08-27 02:55:29 how do I change the color of smoke pipe instead
+help 2020-08-27 02:56:27 oh found it
+help 2020-08-27 02:56:28 thanks
+help 2020-08-27 13:11:18 <:pogey:651848693842182144>
+general 2020-08-28 03:12:01 is ferris wheel possible
+general 2020-08-28 03:12:06 imma make one
+general 2020-08-28 03:12:30 but how will the chairs stay balance without like....
+general 2020-08-28 03:12:40 do you get what I mean?
+general 2020-08-28 03:12:55 it works? 😮
+general 2020-08-28 03:13:17 its about to get a real thing
+general 2020-08-28 03:28:18 add arenas in the map so we can fight there >:)
+general 2020-08-28 03:28:53 thats actually better
+general 2020-08-28 03:30:55 I made a chainsaw in game
+general 2020-08-28 03:30:56 and
+general 2020-08-28 03:31:01 with cutters
+general 2020-08-28 03:31:22 but what happend is it flunged me due to maximum rotor force
+general 2020-08-28 03:32:17 Im just sharing my horrible experience :<
+general 2020-08-29 02:40:26 I HAVE ACHIEVED PERFECTION
+general 2020-08-29 02:40:36 I made a ferris wheel
+general 2020-08-29 02:41:02 I made a ferris wheel(v2)
+general 2020-08-29 02:41:40 <:kek:652566605028524033>
+general 2020-08-29 02:42:53 Its about time people found out
+general 2020-08-29 02:42:56 colon cancer
+general 2020-08-29 02:43:01 not corona
+general 2020-08-29 02:43:21 yes
+general 2020-08-29 02:43:25 marvel no stonks
+general 2020-08-29 02:43:44 f*c cgi we want the real deal
+general 2020-08-29 02:44:23 alright bois
+general 2020-08-29 02:44:43 time to build anything related to blackpanther for tribute
+general 2020-08-29 02:45:05 yes
+general 2020-08-29 02:45:16 lol
+general 2020-08-29 02:45:19 people freaking out
+general 2020-08-29 02:46:38 people these days be like
+general 2020-08-29 02:47:04 
+general 2020-08-29 02:49:07 yes blueseareptile
+general 2020-08-29 02:51:01 I just found a post that if marvel decided to replace the old captain as Stan lee  instead when they found him sitting on the bench
+general 2020-08-29 02:51:26 and consider every stan lee cameo was the old version of captain america looking after his friends
+general 2020-08-29 02:51:57 yes
+general 2020-08-29 02:52:08 huge deal
+general 2020-08-29 02:52:17 very big like dinosaurr
+general 2020-08-29 03:05:22 has anyoneone made this yet?
+general 2020-08-29 03:06:44 I like to see one now
+general 2020-08-29 03:07:31 yes
+general 2020-08-29 03:07:39 i'm stisfied
+general 2020-08-29 03:09:01 now I want to see robots that can merge together by 2-3 creations of different players
+general 2020-08-29 03:10:11 can anyone do that
+general 2020-08-29 03:10:40 like power rangers, yes
+general 2020-08-29 03:11:11 by whom 😮
+general 2020-08-29 03:11:58 I like to suggest people ideas
+general 2020-08-29 03:12:51 when god said this game was supposed to be all planes but the players wanted more
+general 2020-08-29 03:13:10 transformer
+general 2020-08-29 03:13:21 I assume someone already made a transformer
+general 2020-08-29 03:13:23 UwU
+the-dump 2020-08-29 03:24:19 
+the-dump 2020-08-29 03:24:24 Behold
+general 2020-08-29 03:25:14 did you do that yourself
+general 2020-08-29 03:25:39 oh
+general 2020-08-29 03:26:06 <:pogey:651848693842182144>
+general 2020-08-29 10:50:26 Behold
+general 2020-08-29 10:50:39 wait its not showing as play
+general 2020-08-29 10:50:41 fu
+general 2020-08-29 10:50:52 :<
+general 2020-08-29 10:51:06 milk is mean
+general 2020-08-29 10:51:59 how to convert
+general 2020-08-29 10:52:19 boi
+general 2020-08-29 10:52:37 can I send a gyazo link instead
+general 2020-08-29 10:52:41 and play as vid
+general 2020-08-29 10:52:49 : o
+general 2020-08-29 10:55:17 https://gyazo.com/538b0b721a10b1cf95a80c93eba19b4e
+general 2020-08-29 10:55:19 Behold
+general 2020-08-29 10:55:21 no
+general 2020-08-29 10:55:27 yes
+general 2020-08-29 10:55:28 it worked
+general 2020-08-29 10:56:05 proud of my ferris wheel
+general 2020-08-29 10:56:22 :>
+general 2020-09-01 09:00:10 
+general 2020-09-01 09:00:35 apple bottom jeans
+general 2020-09-01 09:06:04 <:pogey:651848693842182144>
+the-dump 2020-09-13 11:46:58 
+the-dump 2020-09-21 13:59:32 https://media.discordapp.net/attachments/581127851022221362/753233396590837790/image0.gif

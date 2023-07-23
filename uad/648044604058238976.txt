@@ -1,0 +1,41 @@
+The Tale of hihmmm (648044604058238976)
+help 2020-09-26 08:26:09 How can I make the system automatically make the back wings surfaces goes to the opposite direction from the main wings?
+help 2020-09-26 08:32:02 Yea I think
+help 2020-09-26 08:34:42 My plane won't fly
+help 2020-09-26 08:34:52 Properly
+help 2020-09-26 09:22:11 ...
+help 2020-09-26 09:45:45 Wait
+help 2020-09-26 09:51:03 
+help 2020-09-26 09:51:13 <@456226577798135808>
+help 2020-09-26 10:20:11 The back wing is suppose to go opposite direction from the main wings
+help 2020-09-26 11:11:05 Okay
+general 2020-12-29 10:20:26 What was the command to make suggestion?
+general 2020-12-29 10:22:05 hello?
+bot-central 2020-12-29 13:39:25 &suggest 
+[Plane maneuvering key controls]
+[Gameplay] 
+
+My suggestion is to give players options to use the keyboard to maneuver the plane. If you considered to Implement the feature then here's the key bindings that you can use and I recommend from a game called "Kerbal Space Program".
+
+W -	Pitch adjustment (down)
+S	- Pitch adjustment (up)
+A	 - Yaw adjustment (left)
+D -	Yaw adjustment (right)
+Q -	Roll adjustment (left)
+E	- Roll adjustment (right)
+Left-Shift	- Increase throttle
+Left-Control	- Decrease throttle
+
+The key controls I recommend from the game called "Kerbal Space Program". https://wiki.kerbalspaceprogram.com/wiki/Key_bindings
+bot-central 2020-12-29 13:39:52 !help
+bot-central 2020-12-29 13:40:20 Ohh
+bot-central 2020-12-29 13:40:39 What rank?
+help 2021-01-02 06:09:35 Hello, I have a problem with my plane, it won't fly unless it falls.
+help 2021-01-02 06:11:36 
+help 2021-01-02 06:14:20 on the main wing or the back wing?
+help 2021-01-02 06:14:53 okay, ill try
+help 2021-01-02 06:29:00 
+help 2021-01-02 06:29:24 i added more wing panels but it made it more uncontrolable
+help 2021-01-02 06:31:16 also is there another way to report?
+help 2021-01-02 06:34:07 i'll move the entire plane up by 2 blocks?
+help 2021-01-02 06:39:18 okay

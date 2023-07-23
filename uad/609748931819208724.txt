@@ -1,0 +1,4 @@
+The Tale of silverdeane (609748931819208724)
+help 2022-09-07 19:43:24 hi, im trying to make a missile but when i hit someone the tnt explodes but doesnt destroy anything, does anyone know why?
+help 2022-09-07 19:45:55 It’s exploding at the back of the missile when the tnt is at the frount
+help 2022-09-07 19:47:15 Is there any way I can hit air targets?

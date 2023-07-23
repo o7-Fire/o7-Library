@@ -1,0 +1,80 @@
+The Tale of fares_games (742452943340699742)
+bug-reports 2020-12-24 12:54:26 
+bug-reports 2020-12-24 12:54:37 some bug with the parachute
+bug-reports 2020-12-24 12:57:31 
+bug-reports 2020-12-24 13:39:49 
+general 2020-12-27 07:14:35 hey guys
+general 2020-12-27 07:14:48 nexalian_gamer is doing a lag machine
+general 2020-12-27 07:15:01 
+general 2020-12-27 07:15:05 i am litterly under the map
+bug-reports 2021-02-10 10:53:36 i went at the speed of 746424565760
+bug-reports 2021-02-10 10:53:53 parachute + ragdoll button = null zone
+bug-reports 2021-02-10 10:54:22 i think you have to stand on a car
+bug-reports 2021-02-10 10:55:16 no
+bug-reports 2021-02-10 10:55:27 xd
+bug-reports 2021-02-10 10:55:51 i will continue to put my max speeds in here
+bug-reports 2021-02-10 10:56:06 and you cant stop me
+bug-reports 2021-02-10 10:56:17 by "here" i mean discord
+bug-reports 2021-02-10 11:28:57 o ok
+bug-reports 2021-02-10 11:29:23 i`ll maybe remember that next time
+bot-central 2021-02-24 11:39:05 omae mu shendiou
+bot-central 2021-02-24 11:39:41 i have no idea
+bug-reports 2021-03-03 13:21:06 enable123456
+bug-reports 2021-03-03 13:21:10 has a lag machine
+bug-reports 2021-03-03 13:21:31 aight ima annoy him
+bug-reports 2021-03-03 14:41:15 my wheel just clipped into my fan
+bug-reports 2021-03-03 14:41:24 this started to happen when i added suspension
+bug-reports 2021-03-03 14:44:53 wait i reset the build ima try to make it happen again and dm u
+bug-reports 2021-03-03 15:01:29 done
+bug-reports 2021-03-03 15:40:19 i sent a couple photos
+bug-reports 2021-03-03 15:40:30 its not exclusive to the front wheels
+bug-reports 2021-03-03 15:41:15 well the wheel IS going above the suspension
+bug-reports 2021-03-03 15:41:21 somehow
+bug-reports 2021-03-03 15:41:40 oh
+bug-reports 2021-03-03 15:41:46 so i shouldn't worry about it?
+bug-reports 2021-03-03 15:42:29 yeah thats what triggered the glitch
+bug-reports 2021-03-03 15:42:41 alright
+bug-reports 2021-03-03 15:43:13 ok
+bug-reports 2021-03-03 15:43:43 lol ok
+bug-reports 2021-09-12 01:21:23 when stacking 6 max torque and speed motors on eachother it freaks out (sometimes happens on 5 motors too)
+bot-central 2021-10-24 06:49:02 ?rhelp
+bug-reports 2021-11-19 13:27:02 When i launch i get teleported to the void???
+bug-reports 2021-11-19 13:27:07 I have a video
+bug-reports 2021-11-19 13:27:11 As proof
+bug-reports 2021-11-19 13:30:06 Only happens when i have a camera on my creation
+bug-reports 2021-11-19 13:30:38 Also the motors on my build start tilting
+bug-reports 2021-11-19 13:31:03 (when i have cameras)
+bug-reports 2021-11-19 13:34:10 Now my seat sticks to my creation even though there is nothing to stick to???
+bug-reports 2021-11-19 13:35:08 Now when i remove the cameras everything works as intended
+bug-reports 2021-11-19 13:36:42 Are the tilting motors a part of it?
+bug-reports 2021-11-19 13:37:01 |
+|
+bug-reports 2021-11-19 13:37:02 \
+bug-reports 2021-11-19 13:37:11 Accurate of how it looked like
+bug-reports 2021-11-19 13:38:30 My motors aren't set to lock (if that makes a difference)
+bug-reports 2021-11-19 13:39:42 I just have normal motors with the speed and torque up to max
+plane-crazy 2021-11-29 19:29:57 Qustion : do different materials have different stats?
+bug-reports 2021-12-16 03:06:43 Bullets "dissappear" when i shoot at someone who is in build mode
+bug-reports 2021-12-16 03:07:57 Is that supposed to happen?
+general 2021-12-18 17:07:19 Hey guys an idiot in my server named ghidorah776 made a lag thingy
+general 2021-12-18 17:10:49 What can i do to make this idiot that is lagging the server to leave?
+bot-central 2021-12-24 17:31:12 ?shelp
+bot-central 2021-12-24 17:31:39 ?rhelp
+bot-central 2021-12-26 15:47:59 !rank
+bot-central 2021-12-28 11:03:45 !rank
+bug-reports 2022-02-12 22:44:50 Plane crazy litterly breaks copy paste
+bug-reports 2022-02-12 22:45:34 Need to restart pc to fix
+bug-reports 2022-02-12 22:56:07 Thank you
+bug-reports 2022-02-12 22:56:33 Do I just type
+
+/c "echo off | clip "?
+bug-reports 2022-02-12 22:57:00 It says /c is not a command
+bug-reports 2022-02-12 22:57:03 Yea without the question mark
+bug-reports 2022-02-12 22:58:23 So is it
+
+Echo off  | clip
+bug-reports 2022-02-12 22:58:24 Oh ok
+bug-reports 2022-02-12 22:58:38 Thank you
+bug-reports 2022-02-12 23:00:07 No idea
+bug-reports 2022-02-12 23:00:14 I just restarted and copy paste still works
+bug-reports 2022-02-12 23:00:25 I'll use it when it gets broken and get back to you

@@ -1,0 +1,7 @@
+The Tale of rkydc (329645246910562304)
+plane-crazy 2021-02-11 08:54:03 I am quite new to the game, and I'm wondering why people decide to drop parts of the plane down onto the main body? Like they have a lot of floating pieces that drop down when they launch.
+plane-crazy 2021-02-11 16:22:28 On IOS, does the joystick act like WASD, or the cursor?
+plane-crazy 2021-02-11 20:07:54 What makes pistons able/unable to push blocks?
+plane-crazy 2021-02-11 20:33:54 And what does maxforce determine
+plane-crazy 2021-02-11 20:34:19 How much it can lift? Also is it possible to separate what will get lifted and stay untouched whilst also keeping the surface flush
+plane-crazy 2021-02-12 09:05:41 For vehicles using hyperdrive, is it possible for it to not move at all when first launching

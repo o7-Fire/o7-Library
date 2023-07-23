@@ -1,0 +1,4 @@
+The Tale of hallowate (796931220050804747)
+bug-reports 2021-06-28 05:05:05 my rocket is performing demonic acts or something, rocket pad flips over on its side and is somehow glued to the rocket. please send help
+bug-reports 2021-06-28 05:13:51 i just added a flip thing to my rocket, and while testing it, my launchpad flipped on its side, and was somehow connected to my rocket.
+bug-reports 2021-06-28 05:14:45 and now it fixed itself??

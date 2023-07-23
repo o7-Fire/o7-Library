@@ -1,0 +1,39 @@
+The Tale of Kaiosei (450236369147789313)
+plane-crazy 2018-12-30 15:43:13 How do you let your friends control your plane or ship?
+plane-crazy 2018-12-30 15:43:23 I have a pilot seat but it doesn't work.
+plane-crazy 2018-12-30 15:43:39 It's the blue pilot seat btw
+plane-crazy 2018-12-30 15:44:03 What's the pilot seat for tho
+plane-crazy 2018-12-30 15:44:11 Wouldn't it be kind of useless then?
+plane-crazy 2018-12-30 15:44:29 Oh
+plane-crazy 2018-12-30 15:44:48 Cuz someone told me multiple people could use the boat and I was like what the hell?
+plane-crazy 2018-12-30 15:44:59 Alright then.
+plane-crazy 2018-12-30 15:45:06 Thank you!
+help 2018-12-31 01:31:31 So some guy let me copy his plane squadron. When his planes
+fly, they are all in sync.
+However when I try to fly, they just stay on the ground and refuse
+to fly even when all the planes are exactly the same.
+Is there a problem here that I can fix?
+help 2018-12-31 01:32:58 I tried placing the pilot seat in different planes, but still the same results.
+help 2018-12-31 01:33:10 Did your squadron eventually work or-?
+help 2018-12-31 01:34:26 Yep
+help 2018-12-31 01:34:34 They just face downwards
+help 2018-12-31 01:34:50 Yeah
+help 2018-12-31 01:35:29 Oh I see.
+help 2018-12-31 01:35:51 If I do that it doesn't really matter where my centre of mass is?
+help 2018-12-31 01:36:00 because right now it's off by alot
+help 2018-12-31 01:36:44 Thanks!
+creations-chat 2019-01-01 05:54:23 My first attempt of building a replica of the Japanese WW2 battleship, The Yamato. It has 2  working AA guns and 4 operational main guns that can turn 360 degrees and go up and down.
+creations-chat 2019-01-01 05:54:53 
+creations-chat 2019-01-01 05:55:07 
+plane-crazy 2019-01-04 14:46:20 Rockets or Jets facing downwards
+plane-crazy 2019-01-04 14:46:30 Or propellers
+plane-crazy 2019-01-04 14:46:38 Kind of like a drone.
+help 2019-12-28 13:26:08 How do people make their VTOLs or drones take off vertically so perfectly? All of my test drones always veer off course even though the centre of gravity is exactly in the middle of the aircraft. Is there some method of avoiding this?
+help 2019-12-28 13:26:38 Rocket boosters
+help 2019-12-28 13:27:10 Really? On my screen it shows the COG as in the direct centre of my aircraft tho
+help 2019-12-28 13:28:54 It is set to default.
+help 2019-12-28 13:29:32 Just a test drone because I'm testing it for a bigger craft that's WIP
+help 2019-12-28 13:30:00 All the thrusters are like equally distributed so I don't know why it would veer off course.
+help 2019-12-28 13:30:44 Ignore the hole, that was recent
+help 2019-12-28 13:31:49 Sure.
+help 2019-12-28 13:32:11 Thanks.

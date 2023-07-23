@@ -1,0 +1,15 @@
+The Tale of segnofficial (399501700584439818)
+bot-central 2020-06-27 22:28:37 !servers
+bot-central 2020-06-27 22:29:02 !servers
+bot-central 2020-06-27 22:35:29 !servers
+general 2020-07-10 23:29:40 how is my status "nsfw"
+bot-central 2020-07-29 13:25:26 !servers
+bot-central 2020-07-29 13:59:40 =skip
+bot-central 2020-07-29 15:16:51 =play Gin Lane - Over the Hills and Far Away
+bot-central 2020-07-29 15:20:04 =queue
+bot-central 2020-07-29 15:26:23 =play Gin Lane - Over the Hills and Far Away
+bot-central 2020-07-29 15:26:32 You've been colonized
+bot-central 2020-07-29 15:32:58 =q
+bot-central 2020-07-29 15:33:08 =queue
+general 2020-07-31 20:48:00 How do you do that protection analysis
+bot-central 2020-10-04 22:48:42 !servers

@@ -1,0 +1,22 @@
+The Tale of darkeer. (300566794832314378)
+bug-reports 2020-09-18 17:04:39 /console
+bug-reports 2020-09-18 17:07:08 oops
+bug-reports 2020-09-18 17:07:11 sorry
+bug-reports 2020-09-18 17:59:49 I don't know if this bug was already reported but sometimes when I try spawning a large creation somewhere that is not base it spawn the vehicle without me, leaving my roblox character at base, and doesn't enable physics, with the thing floating just like it would while in building process.
+plane-crazy 2021-08-18 10:18:31 Idk where I'm supposed to say this, but to the suggestion person who requested gyroscopes, they are already in game. I'm sorry for pinging you, there is just no other way to confirm that you saw this. <@!529111635844136971>
+plane-crazy 2021-08-18 10:29:12 ?
+plane-crazy 2021-08-18 10:39:10 maybe also for 2 piece ammo
+plane-crazy 2021-08-18 10:46:02 You can make them custom. A big spinning disk can get the job done
+plane-crazy 2021-08-18 10:46:15 I agree that the force is too limited
+plane-crazy 2021-08-18 10:46:36 It keeps the mechanical aspect going tho
+plane-crazy 2021-08-18 10:49:18 I mean, there are lots of things you can already do with them, so although a small one would be nice, it would make them as accessible as blocks, and no idea of spinning would be needed ( if as a block )
+plane-crazy 2021-08-18 10:49:30 yes
+plane-crazy 2021-08-18 10:49:48 yes
+plane-crazy 2021-08-18 10:49:51 I agree
+plane-crazy 2021-08-18 10:50:33 Although the gyros can be a bit weak, there are ways to cope with that also
+plane-crazy 2021-08-18 10:53:29 I understand your point, and I see that it indeed would allow for lots of different things. The only issue I see is the simplification of the gyro, which could make it loose its mechanical idea. Same would happen if a sensor block were added.
+plane-crazy 2021-08-18 10:56:06 this complication is generally because there is a heavy price for automation
+plane-crazy 2021-08-18 10:58:22 The thing about it is that is would become obsolete. And it would be the same as simply compacting something that can already be obtained in game. There aren't differential blocks for this same reason (  I suppose )
+plane-crazy 2021-08-18 10:59:00 Same
+plane-crazy 2021-08-18 11:00:43 ye
+plane-crazy 2021-08-18 11:01:36 all I can think of is propellant block

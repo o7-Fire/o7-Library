@@ -1,0 +1,70 @@
+The Tale of jigglebean. (451770529171636234)
+creations-chat 2020-01-03 01:12:05 How do you submit creations?
+creations-chat 2020-01-03 01:12:20 .?
+creations-chat 2020-01-03 01:12:31 nah
+creations-chat 2020-01-03 01:12:54 can someone tell me how you supposed to submit creations lol
+creations-chat 2020-01-03 01:16:25 ?
+creations-chat 2020-01-03 01:16:50 alright
+creations-chat 2020-01-03 01:17:41 Helicopter I made using only motors, wing parts and blocks. With full proper heli controls of course 🙂
+creations-chat 2020-01-03 01:17:50 oh i see
+creations-chat 2020-01-03 01:21:12 what
+creations-chat 2020-01-03 01:21:15 chonk you
+creations-chat 2020-01-03 01:21:46 ecks dee
+creations-chat 2020-01-03 01:22:46 my heli is not chonk
+creations-chat 2020-01-03 01:22:57 it is not
+creations-chat 2020-01-03 01:23:00 do you like tho
+creations-chat 2020-01-03 01:23:17 k
+creations-chat 2020-01-03 01:26:29 conveyor engine?
+creations-chat 2020-01-03 01:26:51 what is a conveyor engine
+creations-chat 2020-01-03 01:30:26 Conveyor engine?
+bot-central 2020-01-03 01:56:47 =help
+bot-central 2020-01-03 01:56:57 =play never gonna give you up
+bot-central 2020-01-03 01:57:13 =play never gonna give you up
+bot-central 2020-01-03 01:57:35 =play never gonna give you up
+bot-central 2020-01-03 01:57:42 k
+bot-central 2020-01-03 01:57:47 why stop
+bot-central 2020-01-03 01:58:13 =q never gonna give you up
+bot-central 2020-01-03 01:59:42 unspeak
+plane-crazy 2021-04-13 22:52:56 cringe
+help 2021-04-13 23:49:12 ik why its rolling right
+help 2021-04-13 23:49:13 i think
+help 2021-04-13 23:49:56 you are best off having counter rotating blades at the top of your heli
+help 2021-04-13 23:50:01 it will stop the roll
+help 2021-04-13 23:50:19 because then they will counteract the torque your blades are applying on your heli
+help 2021-04-13 23:50:25 ah
+help 2021-04-13 23:50:52 make another motor2 with a slight roll on it, to act as trim
+help 2021-04-13 23:51:15 if that causes too much wobble, then you could just use a regular motor with lock enabled
+help 2021-04-13 23:51:20 and manually adjust roll trim
+help 2021-04-13 23:51:30 do you get what i mean?
+help 2021-04-14 00:08:46 its in servo mode right
+help 2021-04-14 00:08:54 wait
+help 2021-04-14 00:08:58 what are you trying to do with the motor
+help 2021-04-14 00:10:05 weird
+help 2021-04-14 00:10:13 try 179.99?
+help 2021-04-14 00:11:26 its probably just trying to find the shortest path to 180
+help 2021-04-14 00:11:36 which could be either direction
+help 2021-04-14 00:11:51 so 179.99 ensures that one direction is always shorter
+help 2021-04-14 00:14:45 i hate trying to stack motors
+help 2021-04-14 00:14:51 cause they go all wobbly
+help 2021-04-14 00:22:25 seperate roll controls for each prop
+help 2021-04-14 00:22:31 then you can roll, and yaw
+help 2021-04-14 00:25:51 use seperate keybinds
+help 2021-04-14 00:25:54 for the roll on front prop
+help 2021-04-14 00:25:55 and back
+help 2021-04-14 00:31:25 it will do
+help 2021-04-14 00:31:26 but wdym
+help 2021-04-14 00:37:14 whats wrong
+help 2021-04-14 00:37:30 explain in discord first
+help 2021-04-14 00:37:34 im already helping someone
+help 2021-04-14 00:39:10 Apparently you aren't online
+help 2021-04-14 00:39:33 my session may be full
+help 2021-04-14 00:39:37 but try
+plane-crazy 2021-04-14 00:51:05 is pvp empty
+plane-crazy 2021-04-14 00:51:12 cause i can only join 1 pvp session
+plane-crazy 2021-04-14 00:51:16 even if i change account
+plane-crazy 2021-04-14 00:51:26 and i really do not want to join that session
+plane-crazy 2021-06-07 15:26:16 was wing lift force reduced?
+plane-crazy 2021-06-07 15:26:32 it poo poo
+plane-crazy 2021-06-07 15:26:34 sorry
+plane-crazy 2021-06-07 15:26:45 can't sorry
+plane-crazy 2021-06-07 15:27:00 drift plane

@@ -1,0 +1,142 @@
+The Tale of Fubuki Shirou (300635100478046218)
+general 2021-12-31 13:24:25 hi whats up
+plane-crazy 2021-12-31 13:28:36 scuse me
+plane-crazy 2021-12-31 13:28:47 is there a way to make individual blocks heavier
+plane-crazy 2021-12-31 13:29:29 im trying to make an X-15 esque plane and since the wings are in the back mostly, the weight/wing control doesnt go hand in hand
+plane-crazy 2021-12-31 13:30:09 since the engine is supposed to be super heavy in the back (and plane crazy doesnt account for that) i was thinking if there was a way to get heavy blocks
+plane-crazy 2021-12-31 13:30:33 i know about helium but the issue is if you do that, the front is just gonna fly up
+plane-crazy 2021-12-31 13:30:48 i tried it with an another plane with helium, it just started floating
+plane-crazy 2021-12-31 13:31:05 wdym by that
+plane-crazy 2021-12-31 13:31:43 ballast blocks amplify weight?
+plane-crazy 2021-12-31 13:31:53 OOOH
+plane-crazy 2021-12-31 13:31:59 well i didnt know, thank you!
+plane-crazy 2021-12-31 13:32:12 thats very comfortable wow
+plane-crazy 2021-12-31 13:32:24 pressing three is the screwdriver, right?
+plane-crazy 2021-12-31 13:33:14 ik, just forgot thay screweriver is third
+plane-crazy 2021-12-31 13:33:21 thank you for your help, really appreciated!
+plane-crazy 2021-12-31 13:33:30 the more i learn the more potential i got :)
+plane-crazy 2021-12-31 13:34:07 goodnight
+plane-crazy 2021-12-31 13:36:42 scuse me, people get upvotes? how?
+plane-crazy 2021-12-31 15:51:06 when i place down ballast blocks and update the density
+plane-crazy 2021-12-31 15:51:17 the yellow mass line center doesnt move
+plane-crazy 2021-12-31 15:51:28 is there a way to manually update the position of the center of mass?
+plane-crazy 2021-12-31 15:52:21 makes sense
+plane-crazy 2021-12-31 15:52:48 it barely moved despite the density being 10
+plane-crazy 2021-12-31 15:56:28 ok seriously going back to my situation
+plane-crazy 2021-12-31 15:56:37 placing ballast blocks on my plane doesnt move the mass at all
+plane-crazy 2021-12-31 15:56:53 why is that though
+plane-crazy 2021-12-31 15:57:23 aw come on is it really because the ballast density change doesnt change the mass center
+plane-crazy 2021-12-31 15:57:54 oooh i see
+plane-crazy 2021-12-31 15:59:23 will there be a fix to this?
+plane-crazy 2021-12-31 15:59:39 is that in the works?
+plane-crazy 2021-12-31 16:00:10 right but
+plane-crazy 2021-12-31 16:00:18 how do i pinpoint the density i need to move my mass properly?
+plane-crazy 2021-12-31 16:00:50 because placing blocks down barely moves the thing and its beyond 66 from what i know
+plane-crazy 2021-12-31 16:01:14 are you guys aussies?
+plane-crazy 2021-12-31 16:01:35 where are you from because its still 1800 here
+plane-crazy 2021-12-31 16:37:07 working on a plane
+plane-crazy 2021-12-31 16:37:25 everytime it goes up i cant control it to lower itself and stabilise and it keeps flipping over and going down
+plane-crazy 2021-12-31 16:37:42 since im using ballast blocks and guessing, does that mean that my weight is far behind the float?
+plane-crazy 2021-12-31 16:39:13 no the controllable gray wings are normal
+plane-crazy 2021-12-31 16:39:14 flat
+plane-crazy 2021-12-31 16:40:27 how do i post images
+plane-crazy 2021-12-31 16:41:08 cant post pic of what it looks like unfortunately
+plane-crazy 2021-12-31 16:42:00 riiight
+plane-crazy 2021-12-31 16:42:12 i read it no need to ping me 4 times
+plane-crazy 2021-12-31 16:42:13 not 2
+plane-crazy 2021-12-31 16:42:14 not 3
+plane-crazy 2021-12-31 16:42:16 but 4
+plane-crazy 2021-12-31 16:42:24 anyway
+plane-crazy 2021-12-31 16:42:35 can i dm you the picture please?
+plane-crazy 2021-12-31 16:42:53 4 times/??
+plane-crazy 2021-12-31 16:42:56 thats overkill
+plane-crazy 2021-12-31 16:43:07 im not stupid ftw
+plane-crazy 2021-12-31 16:43:12 just a link to the message is enough
+plane-crazy 2021-12-31 16:43:34 ok cool
+plane-crazy 2021-12-31 16:43:46 center of the universe lookin
+plane-crazy 2021-12-31 16:43:48 whatever
+plane-crazy 2021-12-31 16:43:50 anyway
+plane-crazy 2021-12-31 16:44:31 smiley
+plane-crazy 2021-12-31 16:44:32 sir
+plane-crazy 2021-12-31 16:44:35 can you help me out
+plane-crazy 2021-12-31 16:44:44 i am bad at this so i need some assistance
+plane-crazy 2021-12-31 16:45:04 i noticed
+plane-crazy 2021-12-31 16:45:18 i just came here to get some help related to a build im making why the hell is this happening to me
+plane-crazy 2021-12-31 16:45:30 yes i didnt read the info board, yes i just found out about it
+plane-crazy 2021-12-31 16:45:38 but why the hell do i need to have it rubbed right into me?
+plane-crazy 2021-12-31 16:45:43 what am i to you, a 10 year old?
+plane-crazy 2021-12-31 16:45:53 is that a channel thats related tog etting help with building?
+plane-crazy 2021-12-31 16:46:04 my name has my birthyear
+help 2021-12-31 16:46:46 hello, having issues with plane, i have ballast blocks nad im trying to guess what i need to balance out the mass and float
+help 2021-12-31 16:46:47 
+help 2021-12-31 16:47:06 this is what it looks like, except when i go up, instead of stabilizing it starts flipping in the air and falling down
+help 2021-12-31 17:16:48 so uh... whats the issue with the plane?
+help 2021-12-31 17:17:12 ballasts btw
+help 2021-12-31 17:17:33 internal wings?
+help 2021-12-31 17:17:44 you mean the back wings?
+help 2021-12-31 17:18:00 oh.
+help 2021-12-31 17:18:05 well uh the issue here is
+help 2021-12-31 17:18:20 im trying to make an X-15
+help 2021-12-31 17:18:22 
+help 2021-12-31 17:18:29 so i dont wanna ruin the wings in any way
+help 2021-12-31 17:18:58 right
+help 2021-12-31 17:19:18 ow thats some impressive working
+help 2021-12-31 17:19:19 modelling
+help 2021-12-31 17:19:22 im jelly a bit
+help 2021-12-31 17:19:26 wish i was that smart lol
+help 2021-12-31 17:19:42 do i make entirely new wings inside the body?
+help 2021-12-31 17:20:06 yeah thats what im asking
+help 2021-12-31 17:20:29 i know but i have no idea whether or not i went overboard or not enough with ballast
+help 2021-12-31 17:20:50 and replace with normal blocks?
+help 2021-12-31 17:21:10 also one more question
+help 2021-12-31 17:21:18 is the super rocket engine the strongest engine
+help 2021-12-31 17:21:51 glitch?
+help 2021-12-31 17:36:28 are they the conveyor glitch ones?
+help 2021-12-31 17:39:32 <@!707953054489509978> sorry for the ping, what else can i do to get the weight and control closer?
+help 2021-12-31 17:40:33 what did i even say that was bad
+help 2021-12-31 17:40:35 wtf
+help 2021-12-31 17:40:40 i just said
+help 2021-12-31 17:40:50 "nope, i have too little space to fit eveyrhting in"
+help 2021-12-31 17:40:58 okay then
+help 2021-12-31 17:41:05 but yeah i don't have much space to work with
+help 2021-12-31 17:41:37 this is what we're looking at rn
+help 2021-12-31 17:41:43 with internal wings
+help 2021-12-31 17:41:56 motorlocks? where?
+help 2021-12-31 17:42:13 look, im sorry, but im very very new.
+help 2021-12-31 17:42:39 its alright, thank you for understanding
+help 2021-12-31 17:42:44 but uh, where exactly are motorlocks?
+help 2021-12-31 17:43:17 so just use normal Motor, not Motor 2?
+help 2021-12-31 17:45:46 im watching a tutorial video
+help 2021-12-31 17:45:47 wtf
+help 2021-12-31 17:45:58 but uh how can i fit those motorlocks in the back?
+help 2021-12-31 17:47:17 you mean in the middle?
+help 2021-12-31 17:47:40 i get it.
+help 2021-12-31 17:50:33 thats a very good idea
+help 2021-12-31 17:50:36 although un uh
+help 2021-12-31 17:50:41 unorthodox, untraiditional even
+help 2021-12-31 17:50:44 ill see what i can do
+help 2021-12-31 17:51:01 like i never used glitches before
+help 2021-12-31 17:51:32 is it actually?
+help 2021-12-31 17:51:38 damn
+help 2021-12-31 17:51:46 so i gotta lift the top up, right?
+help 2021-12-31 17:52:46 do motorlocks lower them by like
+help 2021-12-31 17:52:50 1 block or half block
+help 2021-12-31 17:53:08 double lock twice?
+help 2021-12-31 17:53:43 okay
+help 2021-12-31 18:05:32 <@!378612526151237642> sorry for the ping
+help 2021-12-31 18:05:40 is 3 motorlocks in a row
+help 2021-12-31 18:05:42 2 blocks?
+help 2021-12-31 18:05:43 or 1.5?
+help 2021-12-31 18:06:18 so i need 4?
+help 2021-12-31 18:08:00 ye in a stair-like form right?
+help 2021-12-31 18:57:57 <@!378612526151237642> sorry for the second ping, i can fly properly! but when it comes to trying to decrease altitude, its really slow, any way to fix that?
+help 2021-12-31 19:09:17 yes
+help 2021-12-31 19:09:21 https://media.discordapp.net/attachments/663088355415818258/926552541511180378/RobloxScreenShot20211231_210628219.png
+help 2021-12-31 19:09:21 also
+help 2021-12-31 19:09:21 theyre right on eachother
+help 2021-12-31 19:16:16 <@!378612526151237642>
+help 2021-12-31 19:18:03 i think its okay now
+help 2021-12-31 19:18:14 i did some more tweaking, the issues were with a slightly older ver of the plane
+help 2021-12-31 19:18:20 rn its not as desired, but its perfect
+help 2021-12-31 19:18:32 thank you for your help! i think i can officially post this in creations
+help 2021-12-31 19:19:36 thank youuu

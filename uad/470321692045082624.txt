@@ -1,0 +1,9 @@
+The Tale of igounwillingly (470321692045082624)
+general 2022-02-19 22:33:52 question: is there a channel where you can report someone
+general 2022-02-19 22:34:10 for a nsfw creation
+general 2022-02-19 22:34:13 like
+general 2022-02-19 22:35:12 actually nevermind
+bug-reports 2022-02-19 22:39:20 i think i have a bug
+bug-reports 2022-02-19 22:41:53 so essentially, when you disconnect something with disconnector
+bug-reports 2022-02-19 22:42:01 and it has wing panels
+bug-reports 2022-02-19 22:42:07 it will stop in the air

@@ -1,0 +1,60 @@
+The Tale of _senatorpalpatine (443177563855126528)
+plane-crazy 2019-09-21 00:19:08 Anyone know what the motor 2 does?
+plane-crazy 2019-09-21 00:19:19 Oooo cool
+plane-crazy 2019-09-21 00:19:20 thanks
+plane-crazy 2019-09-21 00:20:21 then what does it do?
+plane-crazy 2019-09-21 00:20:56 ||water||
+plane-crazy 2019-09-21 00:21:18 ||███||
+plane-crazy 2019-09-21 00:22:24 Symmetry, whitelist, and Rounded in/out corner wedges should be a thing
+plane-crazy 2019-09-21 00:22:33 prove me wrong
+plane-crazy 2019-09-21 00:26:56 oh also hinges
+plane-crazy 2019-09-21 00:27:18 im talking like that could be discrete
+plane-crazy 2019-09-21 00:27:41 nvm
+plane-crazy 2019-09-21 00:27:47 Im gonna think about that
+plane-crazy 2019-09-21 00:27:59 Idk how im gonna make it discrete on my houseboat on the 2nd floor
+plane-crazy 2019-09-21 00:28:15 but good idea Bunneh
+plane-crazy 2019-09-21 00:35:13 the hinge does not work bunneh :/
+plane-crazy 2019-09-21 00:35:33 with 0 torque, powered or not powered :/
+plane-crazy 2019-09-21 00:35:44 I tried both and it doesn't work
+general 2019-09-21 00:38:42 anyone know how to make a working but discrete hinge?
+creations-chat 2019-09-21 15:27:49 I made my first ever houseboat :D pics will be below and it is 871 blocks
+creations-chat 2019-09-21 15:28:29 A couple of pictures from each room and jet ski
+creations-chat 2019-09-21 15:28:42 
+creations-chat 2019-09-21 15:28:54 
+creations-chat 2019-09-21 15:28:58 
+creations-chat 2019-09-21 15:29:06 
+creations-chat 2019-09-21 15:29:15 I will post the rest later
+creations-chat 2019-09-21 15:29:31 Like I said it was my first ever
+creations-chat 2020-08-20 01:01:44 Here I am, looking at planes so detailed they put 16th century paintings to shame, and I cant even build a plane that has equal lift nor making it look decent
+creations-chat 2020-08-20 01:04:02 F1000?
+creations-chat 2020-08-20 01:04:11 just guessing by the nose
+creations-chat 2020-08-20 01:04:13 nice
+creations-chat 2020-08-20 01:04:23 I could recognize that catfish mouth
+creations-chat 2020-08-20 01:04:37 Ik this is a lot to ask for, but can you make an F104 Star Fighter?
+creations-chat 2020-08-20 01:05:09 Ok, ill send you a picture of it for reference if you do accept the request
+plane-crazy 2021-02-06 23:35:06 How do I fix beams from trying to place inside of other blocks?
+plane-crazy 2021-02-06 23:35:16 And since im not level 3, I cant put a pic to explain
+plane-crazy 2021-02-06 23:35:51 1x7 and 1x4 cant be placed on other blocks because they are trying to set their reference point inside of another block
+plane-crazy 2021-02-06 23:37:01 Well, I need to place it to where it forms a 1x14 beam instead of a 2x7
+plane-crazy 2021-02-06 23:37:04 If that makes any sense
+plane-crazy 2021-02-06 23:37:14 I need a longer frame but it wont let me place the beam onto another one
+plane-crazy 2021-02-06 23:38:02 It only happens occasionaly
+plane-crazy 2021-02-19 20:25:13 Anyone know what the RGB numbers are for the J28B? (swedish aircraft)
+plane-crazy 2021-02-19 20:25:49 I am not that smart, can you give me a link to one?
+plane-crazy 2021-02-19 20:26:13 One that works with images
+plane-crazy 2021-02-19 20:28:12 How do I transfer a 4 color RGB into 3 color, cause this RGB picker is messin with my head
+plane-crazy 2021-02-19 20:28:40 wth is rgba?
+plane-crazy 2021-02-19 20:28:43 rgba(46,53,37,255) is what it gave me
+plane-crazy 2021-02-19 20:29:04 fixed it
+plane-crazy 2021-02-19 20:29:13 rgb(43,47,36) took out the alpha
+plane-crazy 2021-02-19 20:29:16 or whatever it means
+plane-crazy 2021-02-19 20:30:06 I see, thanks
+plane-crazy 2021-02-19 20:30:45 I havent a clue on how you lads post images
+plane-crazy 2021-02-19 20:31:01 I must be missing something
+plane-crazy 2021-02-19 20:31:06 File type? Perms?
+plane-crazy 2021-02-19 20:31:13 Ah, I see
+plane-crazy 2021-02-19 20:31:26 ok
+plane-crazy 2021-02-19 20:31:34 well, I still cant fix the dang nose of my J28 so
+plane-crazy 2021-02-19 20:31:43 I guess I gotta wait until I figure out how to use wedges to their potential
+plane-crazy 2021-02-19 20:32:06 if you want an image of what I am trying to build and what I am building for a laugh, just tell me
+plane-crazy 2021-02-19 20:32:17 its almost funny on how trash my building skills are

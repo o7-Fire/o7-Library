@@ -1,0 +1,11 @@
+The Tale of shadowwise (791998421644869632)
+general 2022-08-22 18:19:30 are motors working atm
+general 2022-08-22 18:19:51 they dont work for me
+help 2022-08-22 18:20:37 motors wont work
+help 2022-08-22 18:22:57 they are
+help 2022-08-22 18:24:16 they are on max torque and 1 speed
+help 2022-08-22 18:27:48 ive tried botm motors
+help 2022-08-22 18:27:54 both*
+help 2022-08-22 18:28:43 servos and everything
+general 2022-08-22 18:30:28 are motors broken right now?
+general 2022-08-22 18:30:57 not working for me

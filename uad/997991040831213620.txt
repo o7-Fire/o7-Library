@@ -1,0 +1,5 @@
+The Tale of galactothegamer (997991040831213620)
+bot-central 2023-05-28 10:02:58 !rank
+general 2023-05-28 10:04:32 I’m making a VTOL aircraft carrier with long range strike abilities
+bot-central 2023-06-13 08:29:08 !rank
+plane-crazy 2023-06-13 08:33:49 I am trying to make a system for controlling and sustaining rolls to improve turning

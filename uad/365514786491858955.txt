@@ -1,0 +1,2 @@
+The Tale of endyp (365514786491858955)
+bug-reports 2019-01-08 21:13:31 if i link a controlle to "w,a,s or d" then its not responding anymore yesterday everything was normal

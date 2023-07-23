@@ -1,0 +1,298 @@
+The Tale of noodlesnake (597191124809154570)
+plane-crazy 2022-11-08 03:56:40 Incorrect, you cannot find someone's exact location just with their IP (it's usually like at least 5 miles off) also IPs change daily
+plane-crazy 2022-11-08 04:02:24 oh rip well they look quite similar
+help 2022-11-10 23:48:18 Is it possible to get an infinite block amount in plane crazy? I'm making a large mechanical build and I know I will run out of the text blocks. is there any way to get more than 200 each? thanks.
+help 2022-11-10 23:51:13 really? i saw a build on youtube where somebody exceeded the limit
+help 2022-11-10 23:52:36 Well, I'm damned then, unless I use 1x2's with 1x3's I won't be able to use any more text blocks which are very important for their properties Rip
+help 2022-11-10 23:57:37 what other things?
+help 2022-11-10 23:58:25 hmm
+help 2022-11-10 23:58:57 I don't use text blocks because they are invisible in my builds, its because they don't have any collisions which is important
+help 2022-11-10 23:59:40 Want me to DM you a pic?
+help 2022-11-10 23:59:49 I can't send an image here  yet
+help 2022-11-11 00:48:24 Wdym?
+help 2022-11-11 00:48:51 I'll try that
+help 2022-11-11 00:49:35 I made some of the text blocks wood, but it still says the same amount of text blocks have been used
+help 2022-11-11 00:50:55 that might just work for standard blocks
+help 2022-11-11 00:50:58 only
+help 2022-11-11 00:51:28 I try to avoid that for this reason:
+help 2022-11-23 20:13:51 Anybody know how to make an efficient differential design? My differential isn't strong enough and makes the car slower
+creations-chat 2023-04-09 02:33:25 <@895654694926557214> Why did you steal Fainted's miniature trophy truck showcase and post it in creations?
+creations-chat 2023-04-09 02:38:50 Not my showcase, but my theory is that it allows it to slide around corners easier hence why the tires are the default material instead of fabric. Also it would be nearly impossible to fit a wishbone suspension system in the amount of space available (Also forgot to mention the motors which allow the wheels to spin freely would scrape the ground because the wheels are the same size as the motors)
+creations-chat 2023-04-09 03:42:18 I believe it was taken from this video: https://www.youtube.com/watch?v=PvGYMSC96TE&ab_channel=_Fainted_
+creations-chat 2023-04-09 04:41:00 Why haven't the moderators taken any action against the copier? The post is still up on <#384025409945337856>
+help 2023-05-25 15:40:09 <@489806344388345857> Shut up
+help 2023-05-25 15:41:05 That was like 5 months ago
+help 2023-05-25 15:42:04 I don't need Vlad and Evans help anymore
+help 2023-05-25 15:43:50 <@489806344388345857> I would be more than happy to show you some of my current builds but unfortunately I do not have image perms
+help 2023-05-25 15:51:56 Wrong pic lol
+help 2023-05-25 15:52:08 Send the one I sent you
+help 2023-05-25 15:52:14 I have no image perms
+help 2023-05-25 15:53:24 Goes up to 335sps
+help 2023-05-25 15:53:36 <@489806344388345857> What do you think?
+help 2023-05-25 15:54:10 And before you start criticizing that it is only an engine, this was made for speed and fun not complexity. I actually only made it to test a new engine I made for <@944981545834409984>
+help 2023-05-25 15:55:20 I also made it in 1-2 days
+help 2023-05-25 15:59:57 Him or my car?
+help 2023-05-25 16:01:36 Oh
+help 2023-05-25 16:04:14 <@489806344388345857> Hello?
+help 2023-05-25 16:58:35 <@489806344388345857> Don't care?
+help 2023-05-25 16:59:09 Goes 330 sps
+help 2023-05-25 16:59:30 https://discord.com/channels/384021699466756103/478584971670454284/1111321054263136286 This car
+help 2023-05-25 17:00:32 How?
+help 2023-05-25 17:00:47 There isn't even a gearbox lmao
+help 2023-05-25 17:01:23 It's a boxer 8 hover piston engine
+help 2023-05-25 17:03:03 It's direct drive
+help 2023-05-25 17:03:12 1:1
+help 2023-05-25 17:03:30 It's probably faster than Evan's FXX
+help 2023-05-25 17:03:49 It does 0-300 in like 3 seconds
+help 2023-05-25 17:03:51 Ask <@944981545834409984>
+help 2023-05-25 17:04:31 And Evan's FXX isn't even hover piston powered
+help 2023-05-25 17:04:49 His car was actually heavily optimized for speed
+help 2023-05-25 17:05:07 I didn't even do any optimization on mine
+help 2023-05-25 17:20:55 What do you mean?
+help 2023-05-25 17:21:03 I have but not hover piston powered
+help 2023-05-25 17:29:04 Hello?
+help 2023-05-25 17:29:10 <@489806344388345857>
+help 2023-05-25 17:40:30 No
+help 2023-05-25 17:40:31 I don't
+help 2023-05-25 17:42:08 Nice
+help 2023-05-25 17:42:12 380? that's alot
+help 2023-05-25 17:42:28 I just noticed I have image perms now
+help 2023-05-25 17:42:59 <@489806344388345857> We should continue talking in another channel before we get in trouble
+help 2023-05-25 17:43:08 This is <#478584971670454284>
+plane-crazy 2023-05-25 17:44:55 <@489806344388345857> This is my 6 speed automatic gearbox (credit to Derpydud for ring gears)
+plane-crazy 2023-05-25 17:45:09 It has reverse
+plane-crazy 2023-05-25 17:45:10 I did
+plane-crazy 2023-05-25 17:45:23 I made a test frame for it and it works
+plane-crazy 2023-05-25 17:45:28 Fully automatic
+plane-crazy 2023-05-25 17:45:48 How?
+plane-crazy 2023-05-25 17:46:00 I have seen a ratchet CVT design and it looks neat
+plane-crazy 2023-05-25 17:47:40 Torque converter is basically impossible
+plane-crazy 2023-05-25 17:48:01 Because a true torque converter has the ability to MULTIPLY torque
+plane-crazy 2023-05-25 17:48:56 Yeah
+plane-crazy 2023-05-25 17:49:36 So how does your CVT function?
+plane-crazy 2023-05-25 17:50:03 Oh I think I know
+plane-crazy 2023-05-25 17:51:05 Oh
+plane-crazy 2023-05-25 17:52:32 Krill
+plane-crazy 2023-05-25 17:52:55 I will krill you
+plane-crazy 2023-05-25 17:55:04 <@489806344388345857> Meet my best friend
+plane-crazy 2023-05-25 17:55:17 I did it on April 1st
+plane-crazy 2023-05-25 17:55:21 He was afk
+plane-crazy 2023-05-25 17:55:32 Go ahead and send it to him if you want xd
+plane-crazy 2023-05-25 17:55:53 Evan will krill you
+plane-crazy 2023-05-25 17:58:09 By chatting
+plane-crazy 2023-05-25 17:58:16 I mean
+plane-crazy 2023-05-25 17:58:29 You have to say "I will krill Evan" 10 times
+plane-crazy 2023-05-25 17:58:45 L
+plane-crazy 2023-05-25 17:59:21 Compact V8
+plane-crazy 2023-05-25 17:59:58 My boxer 8 has like 120 hover thrusters xd
+plane-crazy 2023-05-25 18:00:02 7 block stroke
+plane-crazy 2023-05-25 18:00:22 Cool
+plane-crazy 2023-05-25 18:00:59 Dang
+plane-crazy 2023-05-25 18:01:22 If you add too many it will make it run slower because of lag and added weight
+plane-crazy 2023-05-25 18:02:23 o
+plane-crazy 2023-05-25 18:02:54 I'm in my private server
+plane-crazy 2023-05-25 18:03:24 I don't know your user
+plane-crazy 2023-05-25 18:03:27 Wait
+plane-crazy 2023-05-25 18:03:35 Your display name is your roblox user lol
+plane-crazy 2023-05-25 18:04:13 Joining
+plane-crazy 2023-05-25 18:05:14 Chat is breaking
+plane-crazy 2023-05-25 18:05:34 Great
+creations-chat 2023-06-02 00:46:09 
+creations-chat 2023-06-02 00:52:23 Boxer 8 mechanical car (goes over 330 studs per second)
+creations-chat 2023-06-02 00:54:57 Automatic 6-speed+R planetary gearbox (credit to Derpydud94 for ring gears)
+creations-chat 2023-06-02 00:58:44 https://discord.com/channels/384021699466756103/504436696021204992/1113994129148489808
+https://discord.com/channels/384021699466756103/504436696021204992/1113993484047745165
+https://discord.com/channels/384021699466756103/504436696021204992/1113991916556668958
+What do you guys think?
+creations-chat 2023-06-02 01:07:01 Because it's cool lol
+creations-chat 2023-06-02 01:09:30 That's called a universal joint and it's job is to transfer rotational movement to the wheels
+creations-chat 2023-06-02 01:13:48 Proof it can reach 330 studs per second
+creations-chat 2023-06-02 01:18:03 I didn't even need to optimize it or make any fine adjustments to reach that speed. I just connected the boxer 8 to some wheels and that was the top speed. Also the engine was originally made for <@944981545834409984>
+creations-chat 2023-06-02 01:43:56 Nice engine
+creations-chat 2023-06-02 13:33:06 That will produce an unwanted downwards force. This is a better view of my engine which utilizes my scotch joke crankshaft design which eliminates rod angle. It also has a 7 block stroke and a plate-following design that is motor locked closer to the pistons half a block to produce more power.
+creations-chat 2023-06-02 13:36:35 This engine also runs surprisingly fast considering the unusually long 7 block stroke. I have yet to actually calculated the RPM but my guess is somewhere around 750
+creations-chat 2023-06-02 16:57:24 Probably not - which engine of yours are talking about?
+creations-chat 2023-06-02 17:35:40 I don't remember can you send me a pic? (sorry my grammar is horrible today)
+
+Oh
+
+Maybe we can compare them but I'm not sure. What is the stroke length on that?
+creations-chat 2023-06-02 18:06:02 Hello
+creations-chat 2023-06-02 18:49:59 How did you get it to show the equivalent value next to the amounts?
+creations-chat 2023-06-02 18:52:32 Ah, thank you
+creations-chat 2023-06-03 05:14:01 Thanks
+creations-chat 2023-06-03 14:31:35 I tried making that type of crankshaft once
+creations-chat 2023-06-03 14:37:49 Also here is a pretty compact constant velocity (CV) joint that has dimensions 4x4x6
+general 2023-06-03 15:36:08 Does anyone here know of any good Roblox VR games?
+general 2023-06-03 15:36:41 I actually tried it once but it's awful
+general 2023-06-03 15:36:55 Already have
+general 2023-06-03 15:37:35 What is that?
+creations-chat 2023-06-03 23:48:34 What lol
+creations-chat 2023-06-03 23:52:24 Sure, my username is Noodlesnake_2008
+plane-crazy 2023-06-04 00:05:59 Where did Spy go
+plane-crazy 2023-06-05 02:38:52 <@965876661159600138> Has magnus seen my friend request?
+plane-crazy 2023-06-05 02:40:00 Is he currently online?
+plane-crazy 2023-06-05 02:40:38 Alright
+plane-crazy 2023-06-05 22:00:25 <@769319142146048001> Make a holy cow
+plane-crazy 2023-06-05 23:41:00 You have a job?
+plane-crazy 2023-06-05 23:42:04 Sorry to hear that
+plane-crazy 2023-06-06 00:59:02 Please help - I have 1.23 million ping which equates to 3 hours of delay
+plane-crazy 2023-06-06 01:12:19 I'm using my mobile hotspot because my internet service is down and it is awful
+plane-crazy 2023-06-06 01:15:58 ?
+plane-crazy 2023-06-06 01:16:16 Btw accept my friend request
+plane-crazy 2023-06-06 01:16:21 What is that
+plane-crazy 2023-06-06 01:16:57 Idk
+plane-crazy 2023-06-06 01:17:37 My ping is up to 1.43 mil now
+plane-crazy 2023-06-06 01:19:56 <@1004207882784489472> It's because I'm using my mobile hotspot because my internet service is down
+plane-crazy 2023-06-06 01:20:11 It's almost 1.5 million ping
+plane-crazy 2023-06-06 01:20:25 I'm just now seeing messages I sent like 10 minutes ago
+plane-crazy 2023-06-06 01:24:00 It's over 1.53 million lmao
+plane-crazy 2023-06-06 01:28:42 It's up to 1.75 million
+plane-crazy 2023-06-06 01:28:53 1.8
+plane-crazy 2023-06-06 01:35:57 It peaked at 1.8mil
+plane-crazy 2023-06-06 01:36:02 It's going back down
+plane-crazy 2023-06-06 01:36:31 What is with the profanity on the side of your aircraft thingy
+plane-crazy 2023-06-06 01:39:31 No
+plane-crazy 2023-06-06 01:39:54 You have a cuss word on the side
+plane-crazy 2023-06-06 01:40:18 I know but like why xd
+plane-crazy 2023-06-06 01:40:45 So basically
+plane-crazy 2023-06-06 01:41:00 You have hover rotors on the side operating the crankshaft which flap the wings?
+plane-crazy 2023-06-06 01:41:20 It calmed down
+plane-crazy 2023-06-06 01:41:23 Under 1 mil now
+plane-crazy 2023-06-06 01:42:09 I saw
+plane-crazy 2023-06-06 01:42:15 It's nice
+plane-crazy 2023-06-06 01:44:45 I might see a micro collision
+plane-crazy 2023-06-06 01:44:52 Actually not sure
+plane-crazy 2023-06-06 01:45:03 Can't tell because I have so much ping lol
+plane-crazy 2023-06-06 01:48:19 <@1004207882784489472> Are my messages going through on Roblox I cant tell
+plane-crazy 2023-06-06 01:48:55 Also this is one of the nicest builds I have ever seen in my 4 years of playing
+plane-crazy 2023-06-06 02:15:02 Why do you think about my wheels
+plane-crazy 2023-06-06 02:42:47 My internet is back to norm
+plane-crazy 2023-06-06 03:46:02 Why does it seem like so many people recognize me lol
+plane-crazy 2023-06-06 03:47:45 Oh Jace
+plane-crazy 2023-06-06 03:52:23 Nbrr is Jace
+general 2023-06-06 16:33:36 It depends on your application
+general 2023-06-06 16:34:43 Are your shocks multi stage?
+general 2023-06-06 16:34:51 Like when they are stacked
+general 2023-06-06 16:36:11 A good baseline would be 100 damp, 100 stiffness, and 7.25 length. For the piston do 4 length and 250 force
+general 2023-06-06 16:36:25 Also be sure to add a lot of ballast
+general 2023-06-06 16:37:41 Define 'soft'
+general 2023-06-06 16:38:26 As I already said, it depends on your application
+general 2023-06-06 16:38:37 You need to be at least level 3 to send images
+general 2023-06-06 16:38:51 His car is cruddy
+general 2023-06-06 16:38:53 I saw it
+general 2023-06-06 16:39:35 Just dont
+general 2023-06-06 17:52:29 Nice - I like how compact it is
+general 2023-06-06 17:59:34 Motor lock the plates closer to the hover thrusters half a block to get more power if you have room
+general 2023-06-06 20:39:23 Mine is gtx 1070
+general 2023-06-06 20:40:43 At least I have 32 gb of ram
+general 2023-06-06 20:40:48 No
+general 2023-06-06 20:42:08 And an SSD
+general 2023-06-06 20:42:13 I7
+general 2023-06-06 20:42:23 Idk mine is old
+general 2023-06-06 20:42:58 My monitor is pretty good
+general 2023-06-06 20:43:38 MSI G273
+general 2023-06-06 20:43:43 monitor
+general 2023-06-06 20:45:13 What is your monitor
+general 2023-06-06 20:46:34 Rip
+general 2023-06-06 20:46:43 Oof
+general 2023-06-06 20:46:52 Mine is like 165 hz or something but only 1080p
+general 2023-06-06 20:47:06 Dang
+general 2023-06-06 20:47:41 Mine is a 27"
+general 2023-06-06 20:49:08 Holy crap that monitor is huge lol
+general 2023-06-06 20:49:41 I'm forgetting it's a TV
+general 2023-06-06 20:49:44 lol
+general 2023-06-06 20:53:08 I'm limited to 60 hz on my monitor
+general 2023-06-06 20:53:38 Because my 5 year old laptop does not support the correct cable
+general 2023-06-06 20:53:49 To use all 165 hz
+general 2023-06-06 20:53:55 or 144 idk
+general 2023-06-06 20:54:16 Wait no it is 165 hz
+general 2023-06-06 20:54:59 Not like my laptop is gonna run at 165 fps in an actual game
+general 2023-06-06 21:04:08 I wanna race Evan's FXX now
+general 2023-06-06 21:04:51 Mechanical pen
+general 2023-06-06 21:08:14 Why are my builds taking so long to load
+general 2023-06-06 21:15:23 Jesus christ
+general 2023-06-06 21:15:58 Fires can easily go over 1000 F
+general 2023-06-06 21:17:40 Hahaha
+general 2023-06-06 21:17:46 It's all purple
+general 2023-06-06 21:18:29 You would probably burn up in your houses too lmao
+general 2023-06-06 21:18:37 AC cant keep up
+general 2023-06-06 21:20:38 Celsius or fahrenheit?
+general 2023-06-06 21:21:06 Who uses kelvin
+general 2023-06-06 21:21:35 So you are freezing
+general 2023-06-06 21:30:52 I can't even spawn my mechanical builds
+general 2023-06-06 21:31:02 They just get flung to oblivion
+general 2023-06-06 21:35:30 I have 3
+general 2023-06-06 21:56:03 That is what you were making??
+plane-crazy 2023-06-08 06:07:33 <@642324788429324301> My car goes twice the speed of yours in idle than yours at top speed
+plane-crazy 2023-06-08 15:43:20 
+plane-crazy 2023-06-08 15:44:27 11 people in a single server
+plane-crazy 2023-06-08 15:44:47 Oh lol
+plane-crazy 2023-06-08 15:45:15 Well it never happened to me until that day
+plane-crazy 2023-06-08 15:52:34 Show me
+plane-crazy 2023-06-08 15:53:21 Nothing seems out of the ordinary
+plane-crazy 2023-06-08 16:23:50 
+plane-crazy 2023-06-08 16:24:24 It's just normal
+general 2023-06-14 03:54:45 ?
+creations-chat 2023-06-15 17:29:30 Where are the gears?
+creations-chat 2023-06-18 19:34:56 <@942477628550574140> https://discord.com/channels/384021699466756103/504436696021204992/1113991916556668958 
+Suspension car
+
+You can edit messages to talk if you want
+creations-chat 2023-06-19 19:31:47 <@724649799537786943> Explain to me how that is an 8 speed please
+creations-chat 2023-06-19 21:15:21 I doubt he knows the basic principles or function of an actual gearbox
+general 2023-06-19 21:58:26 I'm currently in a private server
+general 2023-06-19 21:58:34 I can join a public one if you like
+general 2023-06-19 21:58:42 I'm not currently occupied
+creations-chat 2023-06-19 23:40:39 Even you know
+creations-chat 2023-06-19 23:45:44 He was talking about the offset between pistons not the "gearbox"
+plane-crazy 2023-06-21 16:33:39 Shame! shame! shame!
+creations-chat 2023-06-21 21:29:54 Because you managed to trick people into thinking you creating something cool and groundbreaking when all it is are a bunch of motor2's
+plane-crazy 2023-06-22 20:38:33 <@974379555861172294> Put it in a meat grinder
+plane-crazy 2023-06-24 16:47:09 Ropes are probably supposed to act as some sort of steering limiter
+plane-crazy 2023-06-24 16:47:31 No idea then
+plane-crazy 2023-06-24 16:48:42 Did you build that vehicle before the addition of the motor2?
+plane-crazy 2023-06-24 16:49:28 Ah okay, maybe it was just some sort of precaution
+general 2023-06-24 18:12:17 Car anatomy?
+general 2023-06-24 18:13:15 I watched those
+creations-chat 2023-06-26 20:49:17 What do you guys think of my 6-speed+R fully automatic planetary gearbox? I'm planning on posting it in <#384025409945337856> along with a video soon
+creations-chat 2023-06-26 20:52:10 Here are some more angles of the same car
+creations-chat 2023-06-29 22:07:51 Wow
+creations-chat 2023-06-29 22:13:30 His account was recently banned for 3 days
+general 2023-06-30 16:59:49 Please
+general 2023-06-30 16:59:58 I want to be able to wear it
+general 2023-07-01 18:12:06 It was a patch
+general 2023-07-01 18:12:40 I don't know
+plane-crazy 2023-07-01 23:26:29 I GOT THE LAST SERIAL
+plane-crazy 2023-07-01 23:26:55 YES
+plane-crazy 2023-07-01 23:27:46 I am the first commenter on the item and also the last serial owner
+plane-crazy 2023-07-01 23:28:01 One in a damn krillion
+plane-crazy 2023-07-01 23:30:31 What?
+plane-crazy 2023-07-01 23:30:39 I also have #3018
+plane-crazy 2023-07-01 23:32:53 
+plane-crazy 2023-07-01 23:33:12 <@844548586589913149> You are one of my friends on my old account, Hooddragon_2010
+plane-crazy 2023-07-01 23:33:30 Add me
+plane-crazy 2023-07-01 23:34:00 Well yes
+plane-crazy 2023-07-01 23:34:04 It's not tradable but
+plane-crazy 2023-07-01 23:34:06 You can still sell it
+plane-crazy 2023-07-01 23:34:25 How much do you guys reckon serial #3018 (the last one) is worth?
+plane-crazy 2023-07-01 23:34:29 In robux
+plane-crazy 2023-07-01 23:36:07 5k?
+plane-crazy 2023-07-01 23:45:09 Do you guys think 5k is a reasonable price for the last motor hat?
+plane-crazy 2023-07-01 23:45:37 How much then?
+plane-crazy 2023-07-01 23:47:30 1 billion?
+plane-crazy 2023-07-01 23:47:38 Gotta rub it in
+plane-crazy 2023-07-01 23:47:41 Jk
+plane-crazy 2023-07-01 23:48:08 I also have #3007
+plane-crazy 2023-07-01 23:48:14 And #325
+plane-crazy 2023-07-01 23:48:32 Damn you were right there
+plane-crazy 2023-07-01 23:50:42 7.5k :>
+plane-crazy 2023-07-01 23:56:26 What is happening to the games thumbnail?
+plane-crazy 2023-07-01 23:58:20 It is changing
+plane-crazy 2023-07-02 00:09:00 Someone is trying to scam me I think
+the-dump 2023-07-07 01:38:57 
+the-dump 2023-07-07 02:10:47 Well at least mine is original
+plane-crazy 2023-07-07 04:26:36 I can't even place anything without being disconnected instantly
+plane-crazy 2023-07-07 04:26:58 Rbk can you help please
+plane-crazy 2023-07-07 04:27:44 The game is unplayable
+plane-crazy 2023-07-07 19:31:10 I got serial #2

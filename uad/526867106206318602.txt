@@ -1,0 +1,164 @@
+The Tale of qqqqqqqqqq (526867106206318602)
+general 2021-02-03 02:45:59 yo
+general 2021-02-03 02:49:06 why is there white van
+general 2021-02-03 02:51:33 you know when i was really new to plane crazy all i cared about was "blue ball in yellow ball yes" when making a plane
+general 2021-02-03 02:52:01 that lead to me making absurdly large ships and giving them small wings
+general 2021-02-03 02:52:14 because a bunch of control surfaces usually meant blue ball in good place yes
+general 2021-02-03 02:52:40 im only good at making boats xd
+general 2021-02-03 02:52:49 because they require the least amount of logic for me
+general 2021-02-03 02:53:09 gib
+plane-crazy 2021-02-03 03:17:29 hey how do you make a guiding mechanism using motor 2's
+plane-crazy 2021-02-03 03:17:39 my brain is too potato
+plane-crazy 2021-02-03 10:09:58 y’all making detailed n functional planes and stuff that’re based off of real life vehicles meanwhile the only thing im proud of is a weird boat thing that solely revolves around the word “kill”
+plane-crazy 2021-02-03 10:59:06 why do i keep getting launched 10 times the speed of light when parachuting for 5 minutes
+plane-crazy 2021-02-03 11:12:36 <:hahaa:773727260539617280>
+plane-crazy 2021-02-03 11:12:47 i guess im better being a meteor then being sent back to space
+plane-crazy 2021-02-03 11:14:18 my biggest build is only 600 blocks what
+plane-crazy 2021-02-03 11:14:24 why do you guys have such high numbers
+plane-crazy 2021-02-03 11:16:05 oh
+plane-crazy 2021-02-03 11:16:06 o k
+plane-crazy 2021-02-03 11:17:47 how.
+plane-crazy 2021-02-03 11:17:58 my brain literally melts down working with more than 2 motors
+plane-crazy 2021-02-03 11:18:15 actually
+plane-crazy 2021-02-03 11:18:18 those are pistons arent they?
+plane-crazy 2021-02-03 11:18:26 regardless i have low braincell count
+plane-crazy 2021-02-03 11:18:41 how do you
+plane-crazy 2021-02-03 11:18:44 make it
+plane-crazy 2021-02-03 11:18:47 go in the ship though
+plane-crazy 2021-02-03 11:19:12 like don't pistons extremely dislike blocks connecting to unmovable things
+plane-crazy 2021-02-03 11:19:51 camera.png
+plane-crazy 2021-02-03 11:20:10 i assume you're using them cause they disappear when in fly mode but are physical
+plane-crazy 2021-02-03 11:20:26 i once tried using cameras for decor
+plane-crazy 2021-02-03 11:20:40 then they all disappeared and i spent 1 hour trying to figure out why
+plane-crazy 2021-02-03 11:21:13 anyway i still dont understand how you can make the door merge
+plane-crazy 2021-02-03 11:21:19 do you just...build it outside the hull?
+plane-crazy 2021-02-03 11:21:31 i-
+plane-crazy 2021-02-03 11:21:34 *oh*
+plane-crazy 2021-02-03 11:22:14 most mechanisms are notorious for not wanting to do anything when they're connected to a large body
+plane-crazy 2021-02-03 11:22:20 which in turn connects to the mechanism
+plane-crazy 2021-02-03 11:22:48 whaT
+WHAT
+plane-crazy 2021-02-03 11:22:52 so thats what it SF OR?
+plane-crazy 2021-02-03 11:23:11 ight imma go slam a bunch of 1x0.9 on my ship thing
+plane-crazy 2021-02-03 11:23:20 finally i can make armor while keeping the disconnectors functional
+plane-crazy 2021-02-03 11:23:44 regular blocks but it has like 0.1 stud shortened on one side
+plane-crazy 2021-02-03 11:23:58 and plane crazy treats connections by their appearance and not by hitbox
+plane-crazy 2021-02-03 11:24:26 rip
+plane-crazy 2021-02-03 11:25:26 i really thought the 1x0.9 blocks are just random blocks to annoy people who like numbers in the increments of 5
+plane-crazy 2021-02-03 11:26:49 i can make a turret thats basically merged in the body without doing any fancy stuff like motor locking
+plane-crazy 2021-02-03 11:30:45 you dont
+plane-crazy 2021-02-03 13:17:19 apparently my trapdoor limit count is broken and keeps rising every time i delete placed ones
+plane-crazy 2021-02-03 14:31:16 i blew up a monke using shredder xd
+plane-crazy 2021-02-03 14:31:58 what the
+plane-crazy 2021-02-03 14:32:24 by the way i’ve been wondering how do you make big opening door
+plane-crazy 2021-02-03 14:32:45 like a door that idk opens circularly
+plane-crazy 2021-02-03 14:33:26 max is 300
+plane-crazy 2021-02-03 14:33:33 whAt
+plane-crazy 2021-02-03 14:33:56 motor locks can bypass block limit????!!?!?!
+plane-crazy 2021-02-03 14:34:11 time to go make a giant stick of sie
+plane-crazy 2021-02-03 14:34:14 die*
+plane-crazy 2021-02-03 14:35:23 i still want to know how to make door thing that opens curve-way thing
+plane-crazy 2021-02-03 14:35:36 i honestly have no idea whats the term for it
+plane-crazy 2021-02-03 14:35:59 but they only go vertically or horizontally
+plane-crazy 2021-02-03 14:36:48 door that opens 45° vertically
+plane-crazy 2021-02-03 14:37:04 yes
+plane-crazy 2021-02-03 14:37:16 whatever those are <:empty:794431705070174238>
+plane-crazy 2021-02-03 14:37:48 specify in what orientation are the motors
+plane-crazy 2021-02-03 14:38:35 actually i think you just need to stick motors on the side of a thing to make it go up n down
+plane-crazy 2021-02-03 14:39:00 use 1x0.9 blocks to make a bit room for the corners to budge in
+plane-crazy 2021-02-03 14:39:28 o
+plane-crazy 2021-02-03 14:40:00 by the way how does one do the motor trick where you can stick a motor somewhere and a whole part on it then when entering flight you can asdemble it
+plane-crazy 2021-02-03 14:40:44 i wish neon material existed on plane crazy
+plane-crazy 2021-02-03 14:40:59 ye
+plane-crazy 2021-02-04 03:41:38 bot
+plane-crazy 2021-02-04 03:47:52 b
+plane-crazy 2021-02-04 03:48:13 are the ladders like
+plane-crazy 2021-02-04 03:48:16 visually connected
+plane-crazy 2021-02-04 03:48:30 do any part of them touch
+plane-crazy 2021-02-04 05:02:16 whats the difference between normal and legacy glass
+plane-crazy 2021-02-04 05:02:37 can i destroy it with my twisted boat destroyer
+plane-crazy 2021-02-04 05:02:45 o
+plane-crazy 2021-02-04 05:02:57 ok
+plane-crazy 2021-02-04 05:03:01 thank
+plane-crazy 2021-02-04 06:24:47 when will frozen part of sea unfreeze cause i want more sailing space :(
+plane-crazy 2021-02-04 08:12:12 i was following a b-29 tutorial but halfway through the one hour video i realized i made a mistake <:empty:794431705070174238>
+plane-crazy 2021-02-04 08:12:24 true pain
+plane-crazy 2021-02-04 09:09:51 i cant
+plane-crazy 2021-02-04 09:10:03 you dont understand how bad my brain is at engineering planes
+plane-crazy 2021-02-04 09:10:23 plus i like making tutorial planes anyway
+plane-crazy 2021-02-04 09:10:26 still requires some effort
+plane-crazy 2021-02-04 09:15:45 im using it as a learn technique
+plane-crazy 2021-02-04 09:15:51 a few of my builds are hand made from a bit of knowledge i get from them
+plane-crazy 2021-02-04 09:16:18 such as custom wheels using motors and half cylinders
+plane-crazy 2021-02-04 09:16:27 which i learned from a tank tutorial
+plane-crazy 2021-02-04 10:09:00 the first thing i see when i come back to this chat is an emoji every 2-3 messages
+plane-crazy 2021-02-04 10:12:09 hey this is probably a dumb question but since game rules disallow bad symbols is painting an iron cross on an aircraft considered bad
+plane-crazy 2021-02-04 10:12:12 like just wanna make sure
+plane-crazy 2021-02-04 10:12:33 ight
+plane-crazy 2021-02-04 10:12:45 e
+plane-crazy 2021-02-04 10:13:01 haha i dont even have space to paint it on <:empty:794431705070174238>
+plane-crazy 2021-02-04 10:14:02 xd
+plane-crazy 2021-02-04 10:15:01 also what does blast pressure and impact speed do on an explosive block
+plane-crazy 2021-02-04 10:16:10 o
+plane-crazy 2021-02-04 10:16:25 i assume pressure is really only useful for making launch mechanisms
+plane-crazy 2021-02-04 10:18:03 oh
+plane-crazy 2021-02-04 10:18:04 o h
+plane-crazy 2021-02-04 10:18:26 i shoulda set all my explosives to max pressure in my kamikaze boat
+plane-crazy 2021-02-04 10:18:32 but theres like so much im too lazy to disassemble :(
+plane-crazy 2021-02-04 12:49:18 someone help my engines have a chance to make horrific sounds and when they do it drives me insane
+plane-crazy 2021-02-05 07:38:04 i have earned the skill of being able to use pictures as reference for painting camo
+plane-crazy 2021-02-05 07:38:22 now lets hope i retain enough intelligence to make planes out of pictures
+plane-crazy 2021-02-05 08:58:26 what does max force on pistons do
+plane-crazy 2021-02-05 09:00:36 oh
+plane-crazy 2021-02-05 09:00:41 does that mean if i max it
+plane-crazy 2021-02-05 09:00:42 it will
+plane-crazy 2021-02-05 09:00:46 violently push the object?
+plane-crazy 2021-02-05 09:01:40 o
+plane-crazy 2021-02-05 09:16:33 help i
+plane-crazy 2021-02-05 09:16:43 my turret
+plane-crazy 2021-02-05 09:16:47 wont stop violently shaking left and right
+plane-crazy 2021-02-05 09:18:00 nevermind its been getting stuck on some blocks
+plane-crazy 2021-02-05 09:18:06 and the motor 2 refuses to stop
+plane-crazy 2021-02-05 09:19:03 okay nevermind its just violently shaking.
+plane-crazy 2021-02-05 09:31:31 max torque?
+plane-crazy 2021-02-05 09:31:36 sup
+plane-crazy 2021-02-05 09:38:31 <@456226577798135808> every time something happens to your spaceship i lag for 3 seconds.
+plane-crazy 2021-02-05 09:56:43 i am chasing fioceen the gravity slider 0 with my shredder
+plane-crazy 2021-02-13 14:40:32 how does one perform the practice of using a "folding" mechanism to make their builds compact while in build mode
+plane-crazy 2021-02-16 07:51:01 i finally figured out what impact speed does
+plane-crazy 2021-02-16 07:51:26 it just makes the explosives detonate when you're at that speed
+plane-crazy 2021-02-16 08:58:26 if my plane ascends and descends slowly, does that mean my plane is too heavy or are my engines just too powerful
+plane-crazy 2021-02-16 08:58:51 (this is about control panels btw)
+plane-crazy 2021-02-16 08:59:22 unpowered locked motors will contract half a block when the build is in flight mode
+plane-crazy 2021-02-16 08:59:42 it can be useful to make parts of a build that fit somewhere in between
+plane-crazy 2021-02-16 09:04:54 i have a bad habit of putting super rocket engines lol
+plane-crazy 2021-02-16 09:05:08 turns out the cause of all the sliding and gliding of my plane was the 4 super rocket engines i put on
+plane-crazy 2021-02-16 09:05:18 while the body itself is like 50 blocks
+plane-crazy 2021-02-16 09:08:27 yo what
+plane-crazy 2021-02-16 09:08:36 0.1 more weight on ballasts causes it to be lighter
+plane-crazy 2021-02-16 09:08:37 wh at
+plane-crazy 2021-02-16 09:20:49 help the save button wont work
+plane-crazy 2021-02-16 09:42:41 wh-what kind of tank needs 2k blocks
+general 2021-07-03 15:42:06 my nitro ran out a week ago
+general 2021-07-03 15:42:08 sadge
+general 2021-07-03 15:42:27 uh ohhh ban!!!1!1!1!1
+general 2021-07-03 15:42:54 pg3d
+general 2021-07-03 15:43:46 i would play pg3d if i could be bothered to start from rock bottom again
+general 2021-07-03 15:43:54 used to be fun but ehhhhhhhh de  cl i ne
+help 2022-07-06 06:45:26 hey hey- so i tried making a big aircraft for once and so far it's going well, but the control surfaces keep wobbling. i did some searching and followed some fixes (such as reducing the amount and making them farther away from the body), but it doesn't seem to completely prevent it, and since they're farther away the whole plane just shakes around with them. is there anything more i can do?
+help 2022-07-06 06:52:45 (excuse the goofy aesthetics i am not keen on appearances xd)
+help 2022-07-06 06:53:57 it's able to go up and down after the fix, but still wiggles around
+help 2022-07-06 06:55:58 largely non responsive
+help 2022-07-06 06:56:03 and the plane rocks to the side when they do that
+help 2022-07-06 06:57:50 mmm...how close should the mass and lift be?
+help 2022-07-06 06:58:33 lmao rip
+help 2022-07-06 06:58:51 mm
+help 2022-07-06 06:58:55 i'll try adding more surfaces
+help 2022-07-06 07:01:44 i have no idea how to do that <:hahaa:773727260539617280>
+help 2022-07-06 07:02:49 ...and then stick wing panels on it?
+help 2022-07-06 07:09:37 ohhhhh
+help 2022-07-06 07:12:20 gonna have to figure out how to stick that onto the main wings...but thanks, i'll go try that out
+help 2022-07-06 07:27:50 oh yeah one more question, how do you prevent anchors from screwing with disconnectors, i tried using them in a drone launcher thing but they wouldn't disconnect and i ended up having to make the platform heavy as tungsten to not get carried by the drone's engines
+help 2022-07-06 07:32:09 .
+help 2022-07-06 07:32:11 thank you
+help 2022-07-06 07:32:21 it was that simple 💀

@@ -1,0 +1,14 @@
+The Tale of babajei (795226427120549899)
+plane-crazy 2021-03-28 08:42:39 hey people, i need help
+plane-crazy 2021-03-28 08:43:11 is there a reliable way to connect/dock 2 vehicles?
+plane-crazy 2021-03-28 08:43:33 rn i use magnets, but theyre very unresponsive
+plane-crazy 2021-03-28 08:43:59 im looking for a better way to connect my vehicles
+plane-crazy 2021-03-28 09:09:23 from the same
+plane-crazy 2021-03-28 09:10:26 the thing is, i need to make the server think theyre connected
+plane-crazy 2021-03-28 09:10:40 thats why im using magnets with weld on
+plane-crazy 2021-03-28 09:10:46 but theyre a bit glitchy
+plane-crazy 2021-03-28 09:11:06 a car into a helicopter thing
+plane-crazy 2021-03-28 09:11:32 kinda like a flying garage
+plane-crazy 2021-03-28 09:13:17 they have to become 1 vehicle
+plane-crazy 2021-03-28 09:13:34 the server doesnt let me liftoff if theyre separate
+general 2021-03-29 09:14:34 have you failed the balance of your creation?

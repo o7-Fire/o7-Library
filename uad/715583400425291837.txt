@@ -1,0 +1,186 @@
+The Tale of Lampbulb (715583400425291837)
+plane-crazy 2020-07-16 05:12:10 anyone have good bomber designs?
+plane-crazy 2020-07-16 05:12:26 lol what
+creations-chat 2020-07-16 05:23:02 i don't even understand what locked motors do do they lock and become unusable or something
+help 2020-07-16 07:14:42 which  channel has the text about xp again
+help 2020-07-16 07:16:41 thanks!
+help 2020-07-16 07:58:31 why does this keep capsizing?
+help 2020-07-16 07:59:35 it needs the pontoons to keep floating and i have no idea why it's 9 blocks wide
+help 2020-07-16 08:03:34 it works thanks
+help 2020-07-16 08:03:55 don't worry i'll add it properly tommorow
+help 2020-07-16 23:02:44 have you tried setting graphics quality to the lowest?
+help 2020-07-16 23:05:21 I want to build something that keeps the balls on the ship. I've tried disconnectors, springs, and motors but they don't move or disconnect at all. I can't build past red. anyone know why it happens?
+help 2020-07-16 23:10:36 ooh i'll try that
+help 2020-07-16 23:31:31 look at the pinned messages in <#507673335816126509>
+help 2020-07-16 23:32:03 scroll down until you see voxel's pinned message(s)
+general 2020-07-17 01:30:29 wat
+help 2020-07-17 01:38:09 where do i put suggestions
+plane-crazy 2020-07-17 01:42:24 hold
+plane-crazy 2020-07-17 01:42:40 lol
+plane-crazy 2020-07-17 01:44:05 btw what is vip1
+plane-crazy 2020-07-17 01:45:24 imagine some troll gets that idea because of you
+plane-crazy 2020-07-17 01:46:50 > not if someone leaks vip link <:PogU:670373666164572172>
+moments before disaster
+plane-crazy 2020-07-17 01:48:13 > lmao
+lmao
+plane-crazy 2020-07-17 01:48:39 > lmao
+lamo
+plane-crazy 2020-07-17 01:49:02 f
+plane-crazy 2020-07-17 01:50:05 lol i think i helped that guy build that
+plane-crazy 2020-07-17 01:50:36 i wonder if the propeller is made out of lots of little props
+plane-crazy 2020-07-17 06:53:48 is it just me or is it so much harder to build planes than anything else
+it's just so hard to focus on the look on the plane while making sure it actually works
+general 2020-07-17 07:22:43 my god wtf
+general 2020-07-17 07:23:09 it's like you murdered a duck by dissecting it alive why
+general 2020-07-17 07:24:52 "like" !
+general 2020-07-17 07:25:02 let me see if this works
+general 2020-07-17 07:25:09 !urban simile
+general 2020-07-17 07:25:16 nope
+general 2020-07-17 07:25:28 <:Trigje139:559518788660232196>
+general 2020-07-17 07:25:56 lmao stop im not rich enough to buy nitro
+general 2020-07-17 21:50:48 f
+bot-central 2020-07-17 23:38:19 !rank
+general 2020-07-17 23:54:09 down to diagonal
+help 2020-07-20 08:23:45 Is the !fps thing only for plane crazy or can i use it for all of roblox
+help 2020-07-20 08:26:05 ping me plz
+help 2020-07-21 20:39:58 wait is the zeppelin's main engine powered byprops?
+help 2020-07-21 20:40:04 propeelers*
+help 2020-07-21 20:40:21 let me see
+help 2020-07-21 20:40:47 take a screenshot
+help 2020-07-21 20:42:43 only those two?
+help 2020-07-21 20:44:53 if you also use a custom propeller in the inside you need to sdd a second unpowered motor or else the singular motor can make the craft unstable
+help 2020-07-21 20:45:33 also try configuring the helium and ballast blocks
+help 2020-07-21 20:45:40 that may be the problem
+help 2020-07-21 20:46:14 maybe if the ballast blocks are heavier it can stop the craft from capsizing
+help 2020-07-21 20:48:05 is it only when you turn the main engines on?
+help 2020-07-21 20:54:51 i was about to say to check the engines
+help 2020-07-21 20:55:02 set them both to disable on or off only mode
+help 2020-07-21 20:55:30 <@!332227374278246401> grey
+help 2020-07-21 20:55:47 i don't think you can
+help 2020-07-21 20:57:18 the whole plane was folded
+help 2020-07-21 21:00:04 make a separate save without any ballast or helium since it might impact the pitch of the blimp
+help 2020-07-21 21:00:35 if the tail is too heavy try adding helium to the tail and ballast to the bow
+help 2020-07-21 21:02:58 you should also try positioning the engines "nearer" to the center of the craft since both engines are near the bottom they create all propulsion to the bottom and pitches the nose up if you put them more on the center instead of near the ground it should balance out your zeppelin
+help 2020-07-21 21:03:56 how do i join you
+help 2020-07-21 21:05:16 are you the guy with the slime hat
+help 2020-07-21 21:06:26 
+help 2020-07-21 21:06:37 any of these you?
+help 2020-07-21 21:08:29 is this your about?
+help 2020-07-21 21:08:30 Hello, I am Luke. A  mini and Young game developer here on Roblox! I Am Mainly a Roblox Builder/Modeler. I’m most known for creating Waiting Simulator. I have a few main projects, that I am Working on in the same time. Sorry I most likely won't friend you, there's a max friend limit and I try to keep it limited to people I know. I am Smart. "SMRT"
+help 2020-07-21 21:08:38 found you
+help 2020-07-21 21:33:49 you should change your status lmao
+help 2020-08-16 01:21:51 how much sections should i have in my bomber?
+help 2020-08-16 01:24:32 k
+plane-crazy 2020-08-16 02:10:04 what does impact speed do on tnt?
+plane-crazy 2020-08-16 02:11:05 k thx
+plane-crazy 2020-08-16 04:22:17 i just programmed 250 blocks of tnt and i forgot to enable one setting so i have to redo e a c h one
+plane-crazy 2020-08-16 04:29:44 and now that i test it half of the block fall out the plane lol
+general 2020-08-21 00:15:33 roblox servers are broken pc's grabbed from trash cans
+general 2020-08-21 00:16:14 literally every 2 second YoU hAvE bEeN dIsCoNnEcTeD fRoM tHe SeRvEr
+general 2020-08-21 00:16:31 and i lose all my work over and over
+creations-chat 2020-08-23 06:36:04 c a n c e r
+creations-chat 2020-08-23 06:37:39 i love how people create masterpieces in 11 hours like this https://discordapp.com/channels/384021699466756103/384025409945337856/746955338560962590  while i struggle to make an average plane in 4 days
+help 2020-08-23 06:38:31 wtf are locked motors
+creations-chat 2020-08-23 06:38:53 wtf how
+creations-chat 2020-08-23 06:39:39 just use a tutorial at that point lmao
+creations-chat 2020-08-23 06:41:01 noice
+creations-chat 2020-08-23 06:41:22 imagine they add cones to the game
+creations-chat 2020-08-23 06:42:48 "not the best tank" better than anything i could make rn
+creations-chat 2020-08-23 06:48:20 i wish you could change your game status to plane crazy instead of rblx
+creations-chat 2020-08-23 06:53:50 on and off for 2019, started to get better 2020 lol
+creations-chat 2020-08-23 06:54:31 i literally got all the winter stuff and never played for a month lmao
+creations-chat 2020-08-23 06:55:29 do propeller blades work in water
+creations-chat 2020-08-23 06:55:54 so i can make custom water props?
+creations-chat 2020-08-23 06:56:34 so i didnt have to attach 20 3x3 water props
+creations-chat 2020-08-23 06:56:57 and i could just make a really fast custom prop
+plane-crazy 2020-08-23 07:04:00 how do i make custom props without the whole craft freaking out
+plane-crazy 2020-08-23 07:11:00 this is what i mean
+plane-crazy 2020-08-23 07:14:33 8mb limit for discord
+creations-chat 2020-08-23 07:29:56 would this be called a battleship or a (super) heavy cruiser?
+creations-chat 2020-08-23 07:39:39 so that was the word i couldn't quite remember... thanks
+plane-crazy 2020-09-02 18:16:05 what does rickje mean with 2500k savedata like 2,500 or 250,000
+plane-crazy 2020-09-02 18:16:55 oh
+plane-crazy 2020-09-02 18:17:08 wait i can save to 2.5mil?
+plane-crazy 2020-09-02 18:17:11 WTF
+plane-crazy 2020-09-02 18:17:57 you could fill ur whole build area with 1x1 blocks and save all the slots with it and still not fill the max
+plane-crazy 2020-09-02 18:18:40 but am i the only one who gets the message "cannot join game please try again later"?
+plane-crazy 2020-09-02 18:20:11 when could we save to 2.5mil
+the-dump 2020-10-29 23:32:40 https://cdn.discordapp.com/attachments/759294006592536586/767322961405018113/video0-129-1.mp4
+the-dump 2020-11-16 06:13:14 
+the-dump 2020-11-18 17:03:14 nonoononononono
+general 2020-12-19 00:48:51 roblox down?
+help 2020-12-29 00:20:51 how do you guys make your turrets elevate? I use this
+help 2020-12-29 00:23:50 at least tell me whats wrong
+help 2020-12-29 22:00:36 for rank requests do you have to remove astethic blocks as they do nothing and add to the block count?
+help 2020-12-29 22:02:30 no like for example:
+
+You are building a ship and make a little "engine" that does nothing and is just for looks. Do you have to remove that for it to count?
+creations-chat 2020-12-30 16:58:56 Wish wash you think our opinion is trash
+
+Well guess what ding dong democracy isn’t wrong
+creations-chat 2020-12-30 17:01:00 ~~Kid~~ toddler cries
+
+And mods warn a person spitting straight facts but doesn’t warn the guy who is sending death threats
+creations-chat 2020-12-30 17:04:29 <:YouTried:559530066258821131>
+general 2020-12-30 21:30:02 lol
+general 2020-12-30 21:30:21 on stream
+general 2020-12-30 21:30:28 ah yes
+general 2020-12-30 21:30:33 "idot"
+general 2020-12-30 21:30:51 jet stream channel
+general 2020-12-30 21:34:58 someone was streaming a few minutes ago
+general 2020-12-30 21:35:07 some kind of arma looking game on roblox
+general 2020-12-30 21:35:15 anybody know what game that is?
+general 2020-12-30 21:35:30 he was in a merkava
+general 2020-12-30 21:35:50 oh ok thanks
+plane-crazy 2021-01-01 08:30:07 Tip:
+
+The turrets seem way too big for the ship, this is the way i designed mine (without the outside blocks) and people’s criticism below. https://discord.com/channels/384021699466756103/478584971670454284/793272287583404052
+plane-crazy 2021-01-01 10:47:55 Not changing it now, ship is literally 98% complete
+bot-central 2021-01-24 18:43:48 !rank
+general 2021-02-21 07:52:34 Why is stacking rockets bad?
+general 2021-02-21 07:54:59 I was designing a ship and someone said that i shouldnt put a rocket launcher in front of another
+general 2021-02-21 07:55:05 So
+general 2021-02-21 07:55:21 Ah
+help 2021-02-21 08:03:27 Why is putting two rocket (launchers) in a formation like the picture bad? Is it bad if i do it with the guns too? Am sleepy, pls ping
+general 2021-02-21 08:03:50 Lol remember when the save cap was 250,000
+general 2021-02-21 08:04:10 Now it’s 4 million
+help 2021-02-21 08:10:54 Example: my ship turret a few months ago
+help 2021-05-02 02:58:29 These provide no thrust whatsoever even when under water
+for some reason placing more under these makes the craft go backwards
+it is placed 1-2 blocks below the bottom
+help 2021-05-02 04:11:14 so how do i fix it
+telling me to get better doesn't really provide an answer
+help 2021-05-02 04:12:22 those are 3x3's and 2x2's
+and they do not move the ship at all
+i have the same amount of props at the rear and they move the ship
+help 2021-05-02 04:23:13 I havent seen any
+what does it even look like
+help 2021-05-02 04:23:22 a sphere for sure lol
+help 2021-05-02 22:30:07 what's the difference between springs and suspension?
+plane-crazy 2021-05-03 02:05:10 What do you guys prefer? the left or right design?
+plane-crazy 2021-05-03 03:10:54 lmfao
+plane-crazy 2021-05-03 03:12:33 This behaviour is expected on a platform mostly oriented towards kids
+
+They usually still don't know that you have to *pay* to get something instead of whining
+plane-crazy 2021-05-03 03:13:55 lol
+proud of building a bug
+and a COPIED one aswell LMAO
+plane-crazy 2021-05-03 03:14:50 lmao
+plane-crazy 2021-05-03 03:16:35 bruh play spaceflight simulator if you wanna do that
+plane-crazy 2021-05-03 03:17:55 omg lmao
+the karen strikes again
+plane-crazy 2021-05-03 03:20:16 "add bed"
+ah yes
+minecraft = plane crazy
+plane-crazy 2021-05-03 03:20:25 wtaf
+plane-crazy 2021-05-03 03:21:47 <:Thonk:509498568982134816>
+plane-crazy 2021-05-03 03:37:35 amugo
+general 2021-06-28 20:18:51 lol
+general 2021-06-28 20:31:42 ayy
+general 2021-06-28 20:32:08 48 hour slowmode lol
+general 2021-06-28 20:33:48 ~~minimod alert~~
+general 2021-06-28 20:34:12 lol
+help 2021-08-11 00:54:51 these only have a 1 block downward travel and a half-block upwards, anyone know why this is?
+the-dump 2021-10-31 18:46:51 still down for me
+plane-crazy 2022-04-02 04:31:03 was there an april fools event or are admins trolling
+plane-crazy 2022-04-02 04:31:42 ???

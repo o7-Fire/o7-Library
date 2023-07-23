@@ -1,0 +1,182 @@
+The Tale of ditomar (773260211917946972)
+plane-crazy 2021-02-19 16:08:50 what even is that
+plane-crazy 2021-02-19 21:44:44 so uh
+plane-crazy 2021-02-19 21:44:51 I have a question
+plane-crazy 2021-02-19 21:45:01 how the everliving hecknuggets do I stop motor wobble
+plane-crazy 2021-02-19 21:50:22 alright thanks, but is there any actual advice?
+plane-crazy 2021-02-19 21:50:31 i see
+plane-crazy 2021-02-19 21:51:51 motor 2 and like 4
+plane-crazy 2021-02-19 21:52:11 ok
+plane-crazy 2021-02-19 21:52:28 oh oof
+plane-crazy 2021-02-19 21:52:37 well basically it's a bigg mech
+plane-crazy 2021-02-19 21:52:42 under 200 blocks
+plane-crazy 2021-02-19 21:52:52 but it reaches buildi height
+plane-crazy 2021-02-19 21:53:10 i did
+plane-crazy 2021-02-19 21:53:16 it do be wobblin tho
+plane-crazy 2021-02-19 21:53:46 yes?
+plane-crazy 2021-02-19 21:53:57 what
+plane-crazy 2021-02-19 21:53:59 it's a mech
+plane-crazy 2021-02-19 21:54:14 but that dont work as well
+plane-crazy 2021-02-19 21:54:29 also locked motors dont work
+plane-crazy 2021-02-19 21:54:36 like motor 2 do
+plane-crazy 2021-02-19 21:55:22 eh, I could just shelf it for now and work on something else
+plane-crazy 2021-04-02 01:33:26 I've been playing for over 200 hours and still can't
+plane-crazy 2021-04-02 01:33:47 Same
+plane-crazy 2021-04-02 01:33:58 Check out Red Cloud Studios for good mech tips
+plane-crazy 2021-04-02 20:19:32 Hey lads, do any of yas know how to prevent motor 2 from aggressively wobbling?
+plane-crazy 2021-04-02 20:21:12 I mean like for servos
+plane-crazy 2021-04-02 20:21:45 I understand the joke, but this is a legitimate question
+plane-crazy 2021-04-02 20:22:07 Ya done?
+plane-crazy 2021-04-02 20:22:36 Mechs
+plane-crazy 2021-04-02 20:22:44 O
+plane-crazy 2021-04-02 20:22:46 Yes
+plane-crazy 2021-04-02 20:23:06 Look up red cloud Studios, they have good mech stuff
+plane-crazy 2021-04-02 20:23:17 I'm still trying get mine to stop wobbling
+plane-crazy 2021-04-02 20:23:48 Oh that's a bigg boat
+plane-crazy 2021-04-02 20:24:07 Then what is it?
+plane-crazy 2021-04-02 20:24:27 ?
+plane-crazy 2021-04-02 20:24:34 Oh nice
+plane-crazy 2021-04-02 20:24:56 Bruh I don't think even my leviathan could sink that if it was a boat
+plane-crazy 2021-04-02 20:25:06 Oh oof
+plane-crazy 2021-04-02 20:25:26 That thing shouldn't be fast
+plane-crazy 2021-04-02 20:25:31 That's terrifying
+plane-crazy 2021-04-02 20:26:05 *fear*
+plane-crazy 2021-04-02 20:26:54 Anyways I gtg, enjoy breathing
+plane-crazy 2021-04-02 20:26:56 Also F
+plane-crazy 2021-04-09 14:12:03 Hey lads, I've been tryna make a mech lately but keep running into issues. Do y'all have any advice?
+plane-crazy 2021-04-09 14:12:45 Oh you know, motor wobble, sliding, tilting, turning, dysfunctional weapons, etc.
+plane-crazy 2021-04-09 14:14:27 I mean like motor wobble with motor 2
+plane-crazy 2021-04-09 14:15:02 Still 30
+plane-crazy 2021-04-09 14:17:00 Ok
+plane-crazy 2021-04-09 14:17:30 Oh no it got worse
+plane-crazy 2021-04-09 14:17:48 If you want you can join me and see for yourself
+plane-crazy 2021-04-09 14:17:55 Yeah
+plane-crazy 2021-04-09 14:18:17 4, density 10
+plane-crazy 2021-04-09 14:19:26 Ok
+plane-crazy 2021-04-09 14:20:03 It's gotten worse again
+plane-crazy 2021-04-09 14:20:17 It's learned the electric slide
+plane-crazy 2021-04-14 13:33:17 Hey lads, I'm planning on building an eight-legged spider mech, do any of y'all know how to do that?
+plane-crazy 2021-04-14 13:34:36 I have an airship that kinda functions as a shredder destroyer
+plane-crazy 2021-04-14 13:35:00 Shredder bugs are unoriginal
+plane-crazy 2021-04-14 13:35:19 Why, do you use shredders?
+plane-crazy 2021-04-14 13:35:47 Good
+plane-crazy 2021-04-14 13:35:59 So you do have a positive iq
+plane-crazy 2021-04-14 13:40:57 Alright so I think I figured out the spider legs thing, it's just gonna take a lot of motor 2s.
+plane-crazy 2021-04-14 13:41:17 So wait how do you prevent aggressive motor wobble on motor 2?
+plane-crazy 2021-04-14 13:41:36 Crap
+plane-crazy 2021-04-14 13:42:33 There is?
+plane-crazy 2021-04-14 13:44:27 Huh
+plane-crazy 2021-04-14 13:44:36 How about that
+plane-crazy 2021-04-26 12:15:21 Eyo lads, do any of yas know how to make mech arms move properly?
+plane-crazy 2021-04-26 12:15:38 Mine are incredibly shaky
+creations-chat 2021-04-29 19:53:35 Bruh that's incredible
+bot-central 2021-08-07 22:40:19 !rank
+bot-central 2021-08-07 22:40:24 neat
+help 2021-08-08 14:32:41 anyone know how to stop the goddamn motor wobble?
+help 2021-08-08 14:54:53 Mechs. Legs, arms, etc.
+help 2021-08-08 14:57:12 I found that less torque seems to work better, however it can tend to wobble even more while moving, especially with motor2. The problem with more torque is that it always makes the wobbling more... aggressive. How do I fix *that*?
+help 2021-08-08 14:58:56 huh, so low torque for motor1 and high torque for motor2?
+help 2021-08-08 15:00:41 Alright so let's review:
+Motor 1: torque = good
+Motor 2: torque = maybe good
+help 2021-08-08 15:00:57 torque good or torque bad
+help 2021-08-08 15:01:16 so torque bad
+help 2021-08-08 15:01:21 torque bad on motor 2
+help 2021-08-08 15:01:37 So how do I stop motor1 from moving around n shit while I'm moving?
+help 2021-08-08 15:01:58 Aight so either torque 1 or torque 500
+help 2021-08-08 15:02:02 cool
+help 2021-08-08 15:02:27 But how do I stop motor 1 from moving around a bunch while I'm moving?
+help 2021-08-08 15:02:43 Mech
+help 2021-08-08 15:02:48 A flying one
+help 2021-08-08 15:03:01 The arms always move n stuff while it's flying and then I have to correct them
+help 2021-08-08 15:03:17 It's a controlled movement
+help 2021-08-08 15:03:27 Like up-n-down type stuff for posing
+help 2021-08-08 15:03:36 idk I think 150
+help 2021-08-08 15:03:57 So more torque?
+help 2021-08-08 15:04:09 oh cool
+help 2021-08-08 15:04:21 Yeah that's actually exactly what I was looking for, thanks for helping
+∆
+general 2021-08-08 20:54:06 yo who here got the gold bars
+general 2021-08-08 20:54:17 me too lol
+general 2021-08-08 20:54:46 ¯\_(ツ)_/¯
+general 2021-08-08 20:56:24 ouch
+general 2021-08-08 20:58:53 wrong
+help 2021-08-10 02:27:31 alright so how do I make a compact bomb launcher
+general 2021-08-28 02:32:17 when the imposter is sus
+creations-chat 2022-11-25 06:41:22 ight so how the heck have people managed to make *functioning dragon wings* in this game
+plane-crazy 2022-12-04 06:42:33 so uh
+i been tryna make some mouse guided drones for some sorta space dreadnought
+can't figure out how to do it tho
+any of yall got any good tips/tutorials with mechanisms i could use?
+plane-crazy 2022-12-04 06:43:31 is this the wrong channel or somethin
+bot-central 2022-12-06 20:22:49 !rank
+bot-central 2022-12-06 20:22:53 epic
+general 2022-12-06 20:36:57 eyo what the hell was the inventor role and why was it controversial
+bot-central 2022-12-06 21:12:07 -servers
+bot-central 2022-12-06 21:12:12 oh
+plane-crazy 2022-12-08 15:00:07 even a picture of the grass would do lol
+plane-crazy 2022-12-08 15:00:24 goddamn, the game is older than half the community
+plane-crazy 2022-12-08 15:01:11 is there literally anything that I've said that would lead you to believe that?
+plane-crazy 2022-12-08 15:01:36 says you lol
+plane-crazy 2022-12-08 15:03:23 lol
+man says my pfp and username make me look young
+I say the same thing back
+he uses this emoji
+says "nice try"
+
+my guy you were either born in or stuck in 2012
+plane-crazy 2022-12-08 15:03:48 confused are we
+plane-crazy 2022-12-08 15:04:08 mate I've been typing in english
+plane-crazy 2022-12-08 15:04:29 I have been making sense
+plane-crazy 2022-12-08 15:04:47 mayhaps you just need to reread what I've written
+plane-crazy 2022-12-08 15:05:01 "my guy you were either born in or stuck in 2012"
+makes perfect sense
+plane-crazy 2022-12-08 15:05:20 ah, a fellow rainworld fan
+plane-crazy 2022-12-08 15:05:25 never said it did lol
+plane-crazy 2022-12-08 15:05:53 "I want to say that you looks like both to a 8yo player"
+dude have you ever passed an english class
+plane-crazy 2022-12-08 15:06:11 ah, makes sense
+sorry
+plane-crazy 2022-12-08 15:06:43 oh joy, rankism
+plane-crazy 2022-12-08 15:06:54 "new member is intrensically stupid"
+plane-crazy 2022-12-08 15:07:05 15
+is this really necessary?
+plane-crazy 2022-12-08 15:07:40 ah whoops
+plane-crazy 2022-12-08 15:08:27 how the hell am I supposed to prove my age?
+plane-crazy 2022-12-08 15:08:31 dont got a mic lol
+plane-crazy 2022-12-08 15:08:55 "doesn't have a mic on his shiddy laptop, must be a 9 year old"
+plane-crazy 2022-12-08 15:09:23 it amazes me that you people can make massive rockets in a lego game yet can't properly reason
+plane-crazy 2022-12-08 15:09:32 lol
+plane-crazy 2022-12-08 15:09:47 - builds epic planes in a lego game
+- can't spell "brick"
+plane-crazy 2022-12-08 15:10:04 bluename using their fucking color to excuse their dumbassery:
+plane-crazy 2022-12-08 15:10:15 well idk what you do but you got an expert role
+plane-crazy 2022-12-08 15:11:00 a defendant lacking evidence cannot be used as evidence
+plane-crazy 2022-12-08 15:11:13 mate why do you think I'm british
+plane-crazy 2022-12-08 15:11:26 I honestly expected better from this community
+plane-crazy 2022-12-08 15:11:35 yall are supposed to be geniuses or somethin
+plane-crazy 2022-12-08 15:12:45 ah yes, always assume negative intent
+plane-crazy 2022-12-08 15:12:56 no fallacies there
+plane-crazy 2022-12-08 15:13:07 "he hasn't provided proof, assume he's lying"
+plane-crazy 2022-12-08 15:13:42 agreed
+i've already stated that I'm 15
+plane-crazy 2022-12-08 15:14:25 - man makes a plane over 2000 blocks
+- can't properly reason
+- immediately insults someone in an argument
+plane-crazy 2022-12-08 15:15:05 your reasoning is flawed and your logic is floppy
+plane-crazy 2022-12-08 15:15:18 how the hell is this community so toxic
+plane-crazy 2022-12-08 15:15:34 - i dont have a mic
+- assume im lying
+- because that makes sense
+plane-crazy 2022-12-08 15:15:45 miissing an o pal
+plane-crazy 2022-12-08 15:15:50 it dont lol
+plane-crazy 2022-12-08 15:16:16 well it'd be rude to stop a conversation so suddenly
+plane-crazy 2022-12-08 15:16:31 but yall are the good players
+you're supposed to *not* be braindead
+plane-crazy 2022-12-08 15:17:18 nah you seem pretty reasonable
+pretty sure it's just mig
+plane-crazy 2022-12-08 15:17:37 maybe because people keep assuming we're underage?
+plane-crazy 2022-12-08 16:28:42 angle locking could do it
+plane-crazy 2022-12-08 16:28:57 takes up a lotta space tho
+plane-crazy 2022-12-08 20:19:22 damn, that's an impressive amount of detail
+creations-chat 2023-01-11 18:21:37 ye
